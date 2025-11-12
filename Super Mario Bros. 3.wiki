@@ -1,0 +1,95 @@
+{{game}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Super Mario Bros. 3
+|image     = Super Mario Bros 3 cover.png
+|caption   = Capa do jogo
+|developer = [[Nintendo]]
+|publisher = [[Nintendo]]
+|released  = [[1988]]
+|genre     = [[plataforma]]
+|rating    = 10/10 para os fanboys
+|platform  = [[NES]]
+|ages      = Livre
+}}
+
+{{C|Vamos ver, eu tenho no meu inventário uma cauda de guaxinim, outra cauda de guaxinim, uma flor de fogo, outra cauda de guaxinim, outra cauda de guaxinim, outra cauda de guaxinim, uma flauta, outra cauda de guaxinim, uma estrela mundial, outra cauda guaxinim|Mario|a dificuldade de se obter caudas de guaxinim}}
+{{C|Desculpe Mario, mas a princesa está em outro castelo... Brincadeirinha. Mas tchau pra você|Vagabunda da Princesa Peach te trollando no final do jogo}}
+
+'''Super Mario Bros. 3''' é um jogo da [[Nintendo]] da Mario, aquela mesma coisa de sempre. Mas esse é aquele jogo considerado pelos fãs mais malucos da série [[Super Mario]] como o melhor jogo de todos os tempos com o melhor level design jamais visto. Trata-se portanto daquele único jogo que você realmente joga no [[Super Mario All Stars]]. Esse sucesso foi vendido junto com os discos do [[Michael Jackson]] e vendeu 18 milhões de cópias no mundo inteiro
+
+Super Mario Bros. 3 foi o último jogo lançado para o console [[Famicom]], pois depois que a [[Nintendo]] ganhou tanto dinheiro com as vendas desse joguinho a empresa pode ir criar algo mais evoluído, o [[Super Nintendo]].
+
+== Desenvolvimento ==
+
+Após o desenvolvimento do protótipo do [[Cat Mario]] que foi o [[Super Mario Bros.: The Lost Levels|Super Mario Bros. 2 verdadeiro]] a Nintendo decidiu que deveria criar um jogo que fosse pelo menos humanamente possível de ser zerado mas que também não pudesse ser zerado por qualquer retardado, afinal na época ainda não haviam inventado DLCs e pilantragens similares, então era importante o jogo ser bom para vender bem. Surgia assim um jogo que mesclava bem várias fases fáceis com momentos específicos de fases trollando os jogadores, tipo aquela fase do Sol que tenta te matar do nada.
+
+Ainda era 1988 quando essa obra-prima foi criada, então alguns pequenos acidentes foram inevitáveis durante o desenvolvimento do game. Na terceira fase do quinto mundo, por exemplo, uma das petey piranhas dentro de um cano foi substituída por um sprite de uma imagem pornográfica. Isso ocorreu porque Shigeru Miyamoto mesclou acidentalmente seu acervo de putaria enquanto criava o jogo em seu computador.
+
+O clima do jogo foi mantido como infantilizado e o mundo é todo bem limpinho. Os encanadores não saem sujos de merda ao entrarem nos canos de esgoto dos reinos, por exemplo.
+
+Para a trilha sonora do jogo que se tornou memorável os [[Beatles]] foram chamados para compor as faixas usando o codinome de [[Koji Kondo]].
+
+== Jogabilidade ==
+
+[[Arquivo:Mario Bros 3 botas.jpg|thumb|left|Um épico duelo de botas.]]
+
+No jogo você controla um encanador chamado [[Mario (personagem)|Mario]] que andando por cenários psicodélicos, de vez em quando se veste como um [[furry]] para ganhar novos poderes e superar as fases lineares do jogo. É um clássico [[jogo de plataforma]] em 2D, onde você deve ir pra direita do cenário e passar de fases enquanto evita cair em [[buraco infinito|buracos infinitos]]. Diversos poderes podem ser adquiridos nas fases, como cogumelos que fazem Mario ficar grande, flores (provavelmente pimenta) que permitem Mario peidar fogo, folhas que fazem o Mario virar um furry, uma roupa de sapo na qual Mario pode ficar de quatro, um martelo que permite Mario lembrar sua época de carpinteiro, uma estrela mágica que deixa o Mario todo psicodélico emitindo cores ao som de uma [[música eletrônica]] que o incentiva a matar todos no seu caminho além dele começar a dar cambalhotas no ar e correr na mesma velocidade que Sonic e o item mais roubado de todos que é o Guaxinim Super que consiste num [[cheat]] legalizado onde o jogador pode simplesmente voar por cima da fase inteira. Todos esses itens podem ser guardados num inventário para serem utilizados posteriormente, ao ponto que você fica economizando esse inventário e zera o jogo sem ter usando os 20 guaxinins que guardou.
+
+Com complexos e avançados controles, apenas grandes nomes do mundo dos games como [[Dr. Roberto]] e [[Botini]] dominam completamente os controles do jogo:
+
+*Botão A - Pula.
+*Botão B - Não pula.
+*Botão X - Este jogo não foi originalmente lançado para [[Super Nintendo]].
+*Botão Y - Você está prestando atenção?
+*Botão Z - Esqueça...
+*Start - Não pausa.
+*Select Button (o botão mais inútil do universo) - Não faz nada.
+*Direcionais - Anda e corre.
+
+=== Mundos ===
+
+*''[[Argentina|Grass Land]]'' - Mundo da grama, é aquele onde tartarugas e gombas são comumente encontrados. Muita grama e cogumelos tornam o mundo fácil ([[Hogar]]).
+*''[[Egito|Desert Hills]]'' - Mundo que ficou famoso por ser o local onde Mario derrotou o [[sol]] (alucinação devido ao consumo exagerado de cogumelos e o calor de um deserto).
+*''[[Oceano Pacífico|Ocean Side]]'' - Cenário que ainda viria a ser do [[Super Mario Sunshine]].
+*''[[Brasil|Big Island]]'' - Ilha bizarra onde vivem plantas e tartarugas gigantes.
+*''[[Reino de Deus|The Sky]]'' - Mario viaja ao céu após se converter à Igreja Universal. Nesse mundo onde arco-íris e unicórnios fazem parte do cenário. Nesse instante Mario está no auge da trip de [[LSD]]. Os abismos infinitos são o grande desafio.
+*''[[Monte Everest|Snow Land]]'' - Mundo chato pra carai e difícil que fica escorregando.
+*''[[Xochimilco|Pipe Land]]'' - Porra de mundo cheio de canos que fica te obrigando a passar da mesma fase mais de 10 vezes .
+*''[[Palestina|Bowser Land]]'' - Mundo final onde Bowser está organizando uma passeata com suas tropas para comemorar o Dia da Independência do Reino Koopa.
+
+== Enredo ==
+
+[[Arquivo:Princess is in this castle.jpg|thumb|Enredo repleto de reviravoltas. Algo estarrecedor espera o Mario quando ele finalmente chega no castelo certo.]]
+
+Mario deve salvar 7 reinos, depois que [[Bowser]] raptou 7 princesas e transformou 7 reis em 7 animais pejorativos. Mario deve derrotar os 10 filhos do Bowser (sendo que 3 desses foram devorados pelo pai) e no final salvar a [[Princesa Toadstool]] pela segunda vez (a franquia estava começando, a princesa estava apenas em seu segundo sequestro ainda). É nesse jogo que a princesa ganha a fama de mandar todo tipo de item inacreditavelmente inútil para o Mario. É provado também que ela é alfabetizada e sabe mandar cartas, apesar da carta mais famosa ser aquela do [[Super Mario 64]].
+
+Mario chega em um reino e passa por todas as fases do reino matando todos os seres vivos que encontra no caminho. Chega a um castelo guardado por um Koopa, mate o Koopa e destrói o castelo. Depois, ele passa por outras fases e encontra irmãos carpinteiros colecionadores de martelos antes de chegar ao castelo do rei onde na verdade tem uma [[cobra]] pedindo sua ajuda. Mario sobe num barco voador e mata o capitão, um dos filhos de Bowser. Recupera uma varinha mágica, salva o rei transformando-o em humano novamente e receba uma carta de Peach dando-lhe um de seus brinquedos sexuais pessoais e enviando Mario para outro reino.
+
+Mario chega em um reino e passa por todas as fases do reino matando todos os seres vivos que encontra no caminho. Chega a um castelo guardado por um Koopa, mate o Koopa e destrói o castelo. Depois, ele passa por outras fases e encontra irmãos carpinteiros colecionadores de martelos antes de chegar ao castelo do rei onde na verdade tem um [[carrapato]] pedindo sua ajuda. Mario sobe num barco voador e mata o capitão, um dos filhos de Bowser. Recupera uma varinha mágica, salva o rei transformando-o em humano novamente e receba uma carta de Peach dando-lhe um de seus brinquedos sexuais pessoais e enviando Mario para outro reino.
+
+Mario chega em um reino e passa por todas as fases do reino matando todos os seres vivos que encontra no caminho. Chega a um castelo guardado por um Koopa, mate o Koopa e destrói o castelo. Depois, ele passa por outras fases e encontra irmãos carpinteiros colecionadores de martelos antes de chegar ao castelo do rei onde na verdade tem um [[hipopótamo]] pedindo sua ajuda. Mario sobe num barco voador e mata o capitão, um dos filhos de Bowser. Recupera uma varinha mágica, salva o rei transformando-o em humano novamente e receba uma carta de Peach dando-lhe um de seus brinquedos sexuais pessoais e enviando Mario para outro reino.
+
+Mario chega em um reino e passa por todas as fases do reino matando todos os seres vivos que encontra no caminho. Chega a um castelo guardado por um Koopa, mate o Koopa e destrói o castelo. Depois, ele passa por outras fases e encontra irmãos carpinteiros colecionadores de martelos antes de chegar ao castelo do rei onde na verdade tem um [[orangotango]] pedindo sua ajuda. Mario sobe num barco voador e mata o capitão, um dos filhos de Bowser. Recupera uma varinha mágica, salva o rei transformando-o em humano novamente e receba uma carta de Peach dando-lhe um de seus brinquedos sexuais pessoais e enviando Mario para outro reino.
+
+Mario chega em um reino e passa por todas as fases do reino matando todos os seres vivos que encontra no caminho. Chega a um castelo guardado por um Koopa, mate o Koopa e destrói o castelo. Depois, ele passa por outras fases e encontra irmãos carpinteiros colecionadores de martelos antes de chegar ao castelo do rei onde na verdade tem um [[arara|periquito vermelho]] pedindo sua ajuda. Mario sobe num barco voador e mata o capitão, um dos filhos de Bowser. Recupera uma varinha mágica, salva o rei transformando-o em humano novamente e receba uma carta de Peach dando-lhe um de seus brinquedos sexuais pessoais e enviando Mario para outro reino.
+
+Mario chega em um reino e passa por todas as fases do reino matando todos os seres vivos que encontra no caminho. Chega a um castelo guardado por um Koopa, mate o Koopa e destrói o castelo. Depois, ele passa por outras fases e encontra irmãos carpinteiros colecionadores de martelos antes de chegar ao castelo do rei onde na verdade tem uma [[marmota]] pedindo sua ajuda. Mario sobe num barco voador e mata o capitão, um dos filhos de Bowser. Recupera uma varinha mágica, salva o rei transformando-o em humano novamente e receba uma carta de Peach dando-lhe um de seus brinquedos sexuais pessoais e enviando Mario para outro reino.
+
+Mario chega em um reino e passa por todas as fases do reino matando todos os seres vivos que encontra no caminho. Chega a um castelo guardado por um Koopa, mate o Koopa e destrói o castelo. Depois, ele passa por outras fases e encontra irmãos carpinteiros colecionadores de martelos antes de chegar ao castelo do rei onde na verdade tem um [[Yoshi]] pedindo sua ajuda. Mario sobe num barco voador e mata o capitão, um dos filhos de Bowser. Recupera uma varinha mágica, salva o rei transformando-o em humano novamente e receba uma carta de Peach dando-lhe um de seus brinquedos sexuais pessoais e enviando Mario para outro reino.
+
+Mario chega no último reino. Mata o Bowser e finalmente resgata a princesa. A vadia é uma puta de uma mal agradecida e após todo trampo do Mario ela me vem apenas com um "bye bye"
+
+{{Super Mario}}
+
+[[Categoria:Jogos lançados em 1988]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para Nintendo Switch Online]]
+[[Categoria:Jogos de plataforma]]
+
+[[es:Super Mario Bros. 3]]

@@ -1,0 +1,35 @@
+{{Jogos Antigos}}
+{{logotipo_falso|Capcompédia.png|160|top=120|left=190}}
+
+{{Infobox Game
+|title     = Asas Lendárias
+|image     = legendarywings-arc.png
+|caption   = Belíssimo logo
+|developer = [[Capcom]]
+|publisher = [[Capcom]]
+|released  = [[1986]]
+|genre     = Navinha
+|rating    = 2,5
+|platform  = [[Arcade]]
+|ages      = Maiores de 10 anos
+}}
+
+'''Legendary Wings''' (アレスの翼 ''Ares no Tsubasa, "As Asas de Ares"'') é um [[jogo]] de navinha da [[Capcom]] que no final é convertido em [[plataforma]].
+==Review==
+Como sempre, a [[história]] é ambientada no [[futuro]]. O [[computador]] [[alienígena]] Dark, que sempre foi [[amigo]] das [[pessoa]]s, contrai um terrível [[vírus]] que torna-o maligno e faz com que ele produza [[monstro]]s e [[robô]]s dispostos a acabar com a humanidade. Então [[Ares]], o [[deus]] da [[guerra]], envia à [[Terra]] uma dupla de [[anjo]]s armados para resolver a situação. São cinco fases normais e mais algumas secretas como bônus, e ao longo do game [[você]] vai recolhendo tesouros.
+==Personagens==
+{|
+| [[Arquivo:Aresnotsubasa-arc michelleh startscreen.gif]]
+| '''Michelle Heart - '''[[Ruiva]], veste [[cor-de-rosa]] e representa o [[amor]]. Apareceu também em [[Marvel vs Capcom]], [[Card Fighters]] e [[Namco X Capcom]].
+|}
+{|
+| [[Arquivo:Aresnotsubasa-arc kevwalker startscreen.gif ]]
+| '''Kevin Walker - ''' [[Moreno]], veste [[azul]] e representa a [[coragem]]. Depois de Legendary Wings nunca mais deu <s>o [[cu]]</s> as caras.
+|}
+
+{{Shoot 'em up}}
+
+[[categoria:Jogos da Capcom]]
+[[categoria:Jogos para Arcade]]
+[[categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos lançados em 1986]]

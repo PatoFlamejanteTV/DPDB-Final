@@ -1,0 +1,54 @@
+{{Box ClubeFutebol
+|cor_clara         = green
+|cor_escura        = red
+|brasao            = Escudo_do_SCSC.png
+|hino              = 
+|nome_oficial      = Sport Club Santa Cruz
+|origem            = {{RN}}''' - [[Santa Cruz (Rio Grande do Norte)|Santa Cruz]]'''
+|apelidos          = Mineiros
+|torcedores        = 
+|torcidas          = 
+|mascote           = [[gaita]]
+|ilustre           = 
+|estadio           = Iberezão
+|capacidade        = 7000
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Potiguar
+|divisao           = 
+|títulos           = 
+|ranking           = 
+}}
+
+'''Sport Club Santa Cruz''', ou simplesmente '''SCSC''' para quem não quer ter câimbras na língua tentando pronunciar o nome original, é o que parece ser um time de futebol do [[Rio Grande do Norte]], estado que não acreditava-se haver futebol bom até Magno Alves ser mandado para lá para confirmar a existência do esporte naquelas terras e o SCSC é um dos times locais, e dos ruins no meio de um campeonato só com times ruins, imagina a feiura do negócio. Pouco ou quase nada se sabe desse clube, como pouco ou quase nada se sabe de qualquer outra coisa que seja do Rio Grande do Norte.
+
+== História ==
+=== Fundação ===
+
+Clube fundado em 2003 como '''EC Santa Cruz''' ("O FC Sarna Cu") é o time de futebol da empresa criadora de [[broxetes]] chamada Sport Club Santa Cruz (Spobre Clube Sarna Cu), criado exclusivamente para rivalizar com as grandes potências do [[Rio Grande do Norte]], que ganham mais títulos potiguares mas não possuem nenhum título de expressão nacional. O EC Santa Cruz cumpria bem o seu papel de time fracassado, pois em 4 anos na primeira divisão do Rio Grande do Norte, ficou em 6º, 10º, 10º e depois 14º, tipo um Betis de Minas Gerais só que sem muita zoeira. Mesmo assim o SC Santa Cruz foi chamado para jogar a Série quando esta foi expandida de 32 times e meio em 2007 para 124 times em 2008. Aí por falta de times o SCSC foi puxado pra Série D de seu país.
+
+=== Primeira divisão ===
+
+Mesmo num campeonato cujo nível técnico é inferior a um Rio Claro x Velo Clube cumprindo tabela numa última rodada de uma Série A2, a rotina do SCSC era só fugir do rebaixamento. As vezes ficava em último e fugia do rebaixamento pelo fato de não haver times ruins o bastante para uma segunda divisão em seu estado.
+
+Mas foi nessa época que o clube revelou grandes craques dos estados mais merdas possíveis, como em 2008 quando foi liderado pelo ágil sul-mato-grossense [[José Soares]] ou 2012 quando comandado pelo artilheiro [[Túlio Maravilha]] que marcou 6 gols naquela temporada, um recorde.
+
+=== Porque até times ruins ganham algum título (exceto a Ponte Preta) ===
+
+Por ser um time do Rio Grande do Norte já se subentende de imediato que o SCSC era um time horrível e figurante, mas até ele ganhou seus títulos, quando tal qual um Novo Hamburgo, venceu a [[Taça Cidade de Natal]] de 2011, e graças a isso ganhou o direito participar de sua primeira [[Série D]]. Por isso atualizou o seu nome para '''SCSC'''.
+
+Por ser um time ruim e considerado café-com-leite, na sua estreia na Série D de 2012 foi sorteado para jogar contra outro time café-com-leite na fase de grupos, o [[Cerâmica]] de [[Gravataí]].
+
+== Títulos ==
+* '''[[Taça Cidade de Natal]]''': 1 vez (2011)
+* '''[[Copa FNF]]''': 1 vez (2013)
+* '''[[Campeonato Potiguar - 2ª Divisão]]''': 1 vez (2004)
+
+{{Campeonato Potiguar}}
+
+[[Categoria:Times de futebol do Rio Grande do Norte]]

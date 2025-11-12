@@ -1,0 +1,71 @@
+{{game}}
+
+{{Infobox Game
+|title     = Terra dos Sonhos de Kirby O Retorno
+|image     = Kirby's Return to Dream Land cover.png
+|caption   = Retornando de onde nem saiu!
+|developer = [[HAL Laboratory|HAL Laboratório]]
+|publisher = [[Nintendo|Nintendo]]
+|released  = 2011 e 2023
+|genre     = Prata Forma
+|rating    = 7/10 too much bostalgia 
+|platform  = [[Nintendo Wii|Nãointendo Wee]]
+|ages      = todos <s>que tiverem mal gosto</s>
+}}
+
+{{vqd|Kirby Wii}}
+{{vqd|Kirby's Adventure Wii}}
+{{c|Por que tem esse nome?|Qualquer um sobre o nome do jogo na versão europeia.}}
+{{c|Finalmente!|Fãs que esperaram <s>84</s> anos para o jogo lançar.}}
+{{c|Tem português!|Os poucos usuários BR de Switch sobre o port ter tradução.}}
+
+'''Kirby's Return to Dreamland''' é um dos jogos mais "importantes" lançados pela HAL durante uma era em que a franquia estava muito tempo "sem" jogos, ou melhor dizendo, os jogos [[Game Boy Advance|portá]][[Nintendo DS|teis]] não estavam sustentando os supostos fãs, e com muita demora decidiram reciclar o que ja tinha dado certo (de alguma maneira) e lança-lo para o Wii e anos mais tarde entupir a biblioteca do [[Nintendo Switch|Suite]] com conteúdo a mais que ninguém pediu e tentar lucrar com isso, dessa vez com o milagre de ter tradução para PT-BR, não que isso importe.
+
+== História e Modos ==
+
+Kibi e seus miguxos estavam correndo por ai exceto [[Meta Knight|Cavaleiro Meta]] que preferiu ler um [[artigo|artigo]] depois que a <s>relação com Kirby desandou</s> franquia ficou muito tempo parada, enquanto do nada um portal é aberto e sai uma nave que esta prestes a cair ali perto ao invés de qualquer outro lugar, eles decidem meter o nariz (apesar que só o [[King Dedede|DDD]] tem um) e conhecem um travesseiro com vida conhecido como [[Magolor]] que de mago não tem nada, como não teve orçamento para dublagem <s>de novo</s> o que aconteceu é demonstrado em uma tela de computador que demonstra quantidade de peças e partes da nave faltando, a turma da bolota resolve ajudar um estranho sem ao menos conhecê-lo por 5 minutos e assim começa a aventura.
+
+Depois de toda a sugaria de sempre os nossos heróis conseguem a última porcaria necessária, até que num plot twist único que [[Marx (Kirby)|com certeza não aconteceu antes]], Magolor decide passar a perna <s>que ele nem sequer tem</s> nos otários virando um ser com poder mais de 8000, mas que até um [[Bandana Waddle Dee|Goomba do grupo que usa bandana azul]] pode derrotar, Magolor toma no cogolor e terra dos sonhos é mais uma vez salvo.
+
+Caso o modo principal não seja o suficiente <s>pra largar do jogo</s> ainda tem alguns outros modos extras como Extra Mode [[Preguiça|(criativo)]], que é apenas o modo história de novo mas alterado para ser mais desafiador, os modos boss rush, desafios de cada poder e apenas 3 minigames na versão original. 
+
+== Gráficos ==
+
+O mesmo estilo gráfico que é esperado da franquia porém agora com modelos 3D menos feios em comparação ao jogo de 64 ao invés de sprites, ainda roda em widescreen aumentando as chances de fazer as pessoas soltarem arco-íris pela boca e questionarem suas escolhas de jogos.
+
+== Jogabilidade == 
+
+Além da mesma gameplay dos jogos anteriores o jogo conta com:
+
+* '''Super sugada:''' agora [[Kirby (personagem)|Kirby]] pode sugar com muito mais força e velocidade alguns objetos e inimigos que não são possíveis normalmente, incluindo os próprios jogadores, mas de alguma maneira não são mortos.
+
+* '''Multiplayer até para <s>de</s> 4 jogadores:''' agora outros podem tornar um jogo fácil impossível se for muito, mas muito [[noob|noob]] e gastar as vidas, inclui Kirbys de cores diferentes e personagens próprios que não podem sugar então acabam sendo chatos [[ou não|(ou não)]], e ainda podem receber um "[[sus|cara a cara]]" de um dos personagens que tiver comido um alimento.
+
+* <s>Final Smash</s> '''Super habilidade:''' apelação ao nível tão alta que só de apertar um botão quase todo em sua volta vai pro saas, para ficar justo só algumas áreas utilizam uma das poucas variantes dos poderes normais.
+
+* '''Items:''' objetos que ficam em uns cantos aleatórios que não permitem que os personagens voem por algum motivo, ainda eles seguram com a mão não com a boca ou qualquer outro lugar.
+
+== Projetos Cancelados ==
+
+Em resumo, há tudo uma desventura com diversos projetos que resultaram em nada até esse jogo dar no que deu, [[Gamecube|Jogo Cubo]] iria ganhar um jogo da série principal mas por motivos que aconteceram foi tudo em vão, mesma coisa para outros 2 projetos que no máximo foi revelado uma misera imagem por muita falta de verba das equipes na HAL, para mais detalhes veja um <s>filme</s> documentário mais detalhado e tente processar uma parte da informação sem cair no sono.
+
+<center><YouTube>
+title=GCK
+movie_url=https://youtu.be/Ylt6_bIM2Sw
+wrap=no
+width=400
+height=300
+</YouTube></center>
+
+== Deluxe == 
+
+O jogo recebe um portgolor em [[2023]] com melhorias e conteúdos <s>reciclados</s> inspirados nos jogolors anteriores, isso inclui um parquegolor onde diversos minigagolors estão disponíveis e diversas mascaras pois a pandemigolor não perdoa nem na terra dos sonhos, um outro modogolor que é o epilogolor revela que de alguma maneira Magolor continua vivo porém enfraquecido, assim cabe ao ex-traidogolor recuperar seus podegolors com mais fasegolors disponíveis e escapar desse infergolor.
+
+{{Kirby}}
+
+[[Categoria: Jogos da Nintendo]]
+[[Categoria: Jogos da HAL Laboratory]]
+[[Categoria: Jogos para Nintendo Wii]]
+[[Categoria: Jogos para Nintendo Switch]]
+[[Categoria: Jogos lançados em 2011]]
+[[Categoria: Jogos lançados em 2023]]

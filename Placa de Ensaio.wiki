@@ -1,0 +1,46 @@
+{{Inútil}}
+<choose>
+<option>{{Fisica}}</option>
+<option>{{elétrico}}</option>
+<option>{{tecnologia}}</option>
+</choose>
+{{doido}}
+
+'''Placa de ensaio''' <s>sensual</s> ou '''matriz de contato''' <s>telefônico</s>, ('''breadboard''' ou '''protoboard''' em inglês) é nada mais que como o nome lhe traz a mente, uma placa branca (ou outra cor) feita geralmente de plástico <s>bolha</s> com circuitos internos de condução para ligações elétricas e/ou eletrônicas experimentais, por intermédio da não-soldagem por buraquinhos bem apertadinhos que variam em números de 800 furos até 6000 furos (podendo ainda ser utilizada mais de uma placa no processo).
+
+==Aparência==
+
+Geralmente apresentadas em cor branca por escassez de cota racial ou preferência individualmente racista e xenofóbica do usuário, mas podendo também ser achados em todas as cores <s>[[LGBT]]</s> do arco-íris, apresenta comumente 760 buraquinho bem pequeninos e que facilmente conseguem romper <s>himens</s> a ponta dos <s>paus</s> fios a eles conectados. 
+
+==Usos==  
+
+São utilizadas principalmente em cursos <s>enganatórios</s> técnicos, profissionalizantes, e raramente faculdades, podendo ainda serem utilizadas em projetos onde o foco é a eletrônica e/ou elétrica, tais como [[Engenharia Mecatrônica]], [[Automação]], [[Robótica]] e como atividade recreativa em manicômios.
+
+São utilizadas em conjunto (conectando):
+
+* LEDs (Infravermelhos, comuns e até mesmo LEDs gays que mudam de cor); 
+* Fios condutores de tamanho variável (tendo que obedecer a circunferência que os buraquinhos aguentam); 
+* Diodos (Não confundir com os [[Dildo|Dildos]] da sua mãe, irmã, tia ou avó);
+* CI's (Circuitos Integrados);
+* Resistores
+* <s>Transexuais</s> Transistores;
+* <s>Potencil, Forteviron e [[Viagra]]</s> Potenciômetro <s>(Medidor de potência sexual)</s>;
+* fonte externa (carregador <s>Anticristo</s> AC de celular ou um adaptador <s>sovaqueira</s> [[CC]] de pilhas);
+* Capacitores.
+
+==Problemas apresentados==
+
+Essas porcariazinhas podem te deixar louco ou pelo menos mais louco do que você já é. Apresentam limitações em termos de organização, podendo criar um labirinto de fios, leds, diodos <s>da sua mãe</s>, resistores e transistores e outras ligações eletrônicas que ficam encavaladas, bagunçadas e podem te fazer ter que desmontar a porra todas só para fazer a mesma merda desde o inicio, o que acaba por dificultar trabalhos mais complexos (mesmo havendo pessoas que insistem em fazer <s>sexo</s> fusões e conexões entre mais de uma placa). Ainda podem ficar quebrando a ponta dos fios usados na experiência, não podem trabalhar com TMSs (Tecnologia de montagem superficial) e não aguentam grandes capacitâncias, ou seja, é inútil demais para grandes gênios da área e difícil demais para qualquer outro, sendo assim, só servem para te enrolar em cursos que te fazem achar estar tendo aula prática e produtiva quando na verdade está perdendo tempo, e as vezes dinheiro.
+
+== Ver também ==
+
+* [[Transistor]]
+* [[Diodo]]
+* [[Resistor]]
+* [[Capacitor]]
+
+{{Esboço}}
+{{Eletrônica}}
+
+[[Categoria:Eletrônica]]
+[[Categoria:Coisas de doido]]

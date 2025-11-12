@@ -1,0 +1,89 @@
+{{Logotipo falso|Desciclo_sangue.png}}
+<css>
+A:background{
+color:blue;
+} 
+A:link{
+font-weight:bold; 
+color:yellow;
+} 
+A:visited{
+font-weight:bold; 
+color: purple;
+} 
+A:hover{
+font-weight:bold; 
+color:yellow; 
+text-decoration:underline;
+} 
+#siteNotice{
+display:none;
+} 
+* #content{ 
+background:red;
+}
+h1{ 
+color:white; 
+background-color:black !important;
+}
+div.pBody, BODY{
+background:lilac;
+}
+#bodyContent{
+background-color:black;
+color:grey;
+}
+h2, h3, h4, h5, h6{
+color:red;
+}
+.link-cores{
+color: red !important;
+}
+.link-cores:hover {
+color: red !important; 
+text-shadow: red 1px 1px 2px !important;
+font-weight: bold;
+}
+.texto-aviso {
+font-size:32px; 
+margin-left:auto; 
+margin-right:auto; 
+color:red;
+font-weight:bold;
+}
+hr{
+background-color:red;
+}
+</css>
+{{DISPLAYTITLE:<font color=red>Portal do Inferno</font color=red>}}
+<center class="texto-aviso">E eis que abre-se o Portal do Inferno...</center>
+<br>
+<br>
+<br>
+<hr>
+<br/>
+
+<center class="texto-aviso">Acesso Garantido!</center>
+
+<hr>
+[[Arquivo:Infierno.jpg|700px|center]]
+<hr>
+
+{{c|VOCÊ vai arder no mármore do Inferno!!! [[Risada Diabólica|MUAHAHAHAHAHAHAHAHAHA]]|Satã|VOCÊ!}}
+{{c|...Venha desgraçado, infeliz, filho da puta.... ...Venha pra ser consumido pelos seus pecados! ...Venha para tua eterna condenação! ...Venha! ...Venha!|Sussurro Maquiavélico|Você}}
+{{c|NUM VAI SUBIR NINGUÉM! VAI SUBIR NINGUÉM!!!|Capitão Nascimento|VOCÊ!}}
+
+Seu acesso é garantido nesse artigo, na verdade você é '''INTIMADO''' a comparecer a este artigo, isso porque você foi uma boa pessoa... Pra se foder pela eternidade. Você foi um filho da puta, desgraçado e egoísta, injusto, cruel e maquiavélico... <big>'''POR FAVOR NÃO RESISTA'''</big>, e entrega-se ao fogo eterno do inferno que está te esperando. Você não tem salvação! Você não pagou o dízimo, você não contribuiu para o resgate do próximo, e ainda por cima, riu quando ''[[igreja|Os Crentes de Deus™]]'' batiam em sua porta! Você só tem duas alternativas...
+
+== Suas Alternativas São: ==
+#<big>[[Inferno|<font color=red>Se entregar ao fogo eterno do Inferno</font>]]</big>
+#<big>[[Reino de Deus|<font color=blue>FUGIR PARA O REINO DE DEUS</font>]]</big>
+
+{{negro}}
+{{trevas}}
+{{satanismo}}
+
+
+[[categoria:AAAAA]]
+[[categoria:Religião]]
+[[categoria:Páginas que se parecem com o que elas são]]

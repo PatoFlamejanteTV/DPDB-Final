@@ -1,0 +1,33 @@
+O '''Plano Nacional de Banda Larga''' ('''PNBL''') foi um plano demagogo do [[governo do Brasil|governo brasileiro]] lançado em [[2009]] que prometia a oferta de internet discada camuflada de internet banda larga para milhões de beneficiários do [[Bolsa família]]. Como essa gente é do [[burro|mesmo nível]] de pessoas que acreditam em Saci Pererê, Papai Noel, político brasileiro honesto e outras lendas do folclore nacional, essas pessoas caíram no conto do [[Lula|molusca1]] direitinho. 
+
+O plano usa recursos do que sobra no [[Fundo de Universalização dos Serviços de Telecomunicações|FUST]], isso se as teles não tiverem abocanhado um enorme pedaço. Por isso é esse fiasco todo, já que é de praxe no Brasil não sobrar [[porra nenhuma]] de recursos para os programas realmente necessários, a não ser que seja ano eleitoral, ai sim o governante tira dinheiro do cu para investir esperando como retorno o dobro do valor com juros e alguns votos a mais. 
+
+==Metas==
+[[Arquivo:Plano Nacional de Banda Larga.jpg|thumb|Marca do programa ]]
+O governo não tinha metas quando criou o plano. Isso não foi uma é paráfrase do que aquela taquara da Dilma disse quando era presidente em um discurso de 2015 onde ela se referia ao [[Pronatec]]. A falta de metas fazia parte do plano oficial do próprio governo, que quando lançou o programa apenas colocava como meta:
+
+{{cit|[...] permita aos consumidores finais, individuais ou corporativos, fixos ou móveis, usufruírem, com qualidade, de uma cesta de serviços e aplicações baseada em voz, dados e vídeo.|[[Ministério das Comunicações]]|expondo as metas do programa assim que o mesmo foi lançado.}}
+
+O leitor deve estar se imaginando, {{c|Ora, mas [[e o Quico?]]}}
+
+Mas sim, esta é a meta do programa do governo, coincidentemente a mesma de qualquer serviço de telefonia (pelo menos em países sérios). A audácia do plano não parou por ai. 
+
+==No que consiste==
+O Ministério das Comunicações, em representação do governo brasileiro, decidiu encarregar as próprias telefonias de ''vender o serviço do governo'' (?). Isso mesmo meu caro e emputecido leitor, as empresas mais mesquinhas do planeta encarregadas de oferecer um serviço opcional que nem é deles. O mais normal de acontecer é alguém procurar o serviço de banda larga estatal e os vendedores de planos de internet nem ficarem sabendo da existência desse programa de merda. Empurram algum outro pacote da operadora, o cidadão compra e paga o preço normal, a operadora computa a venda como parte do "Plano Nacional de Banda Larga", o governo libera parte dos valores do [[FUST]] às teles que lucram mais ainda do que já lucrariam convencionalmente.
+
+Por isso o plano já nasceu um fracasso, apesar do governo querer dar murro em ponta de faca dizendo que o programa foi o sucesso por causa do que os números mostram. Se você assinou alguma conexão a internet nos últimos 6 anos, não precisa nem ser beneficiário do bolsa <s>quadrilha</s> família, já estará fazendo parte da estatística governamental e te parabenizamos por isso. Agora lembre-se que na próxima eleição vão querer te usar na [[Propaganda Eleitoral Gratuita|propaganda eleitoral obrigatória]].
+
+==Implementação==
+A rede por onde passariam todo o tráfego extra que o governo desejaria colocar a mais na rede já existente, foi "construida" pela reativada [[Telecomunicações Brasileiras S.A.|Telebrás]]. Construído entre aspas porque o plano acabou utilizando a mesma rede das telefonias privadas, o governo mesmo não conseguiu fazer nem o dele, como já era previsto pelas teles. 
+
+Como o governo precisou "comprar" pequenos caminhos de conexões da iniciativa privada o valor repassado ao consumidor final é quase o mesmo cobrado pelas operadoras sanguessuga brasileira, claro nem tão caro quanto porque apesar de ganancioso, o governo tem dinheiro saindo pelas cucuias.
+
+Para se ter ideia da eficácia do programa, a primeira cidade atendida pelo PNBL, [[Santo Antônio do Descoberto]] está descoberta de sinal telefônico até hoje. Nem internet a rádio chega naquela bosta, ainda mais uma banda larga.
+
+== Ver também ==
+*[[Rede pública de telefonia comutada]]
+*[[Rede de computadores]]
+
+
+{{gov}}
+[[Categoria:Programas de governo do Brasil]]

@@ -1,0 +1,26 @@
+{{Matemática}}
+[[Arquivo:Nazare-confusa.jpg|thumb|Álgebra e [[geometria]] juntas, um combo dos infernos!]]
+A '''Álgebra''' é, sem dúvida, o ramo mais odiado da [[matemática]]. Os alunos, até então acostumados a [[Chaves|fazer contas com maçãs]], sofrem para encontrar o valor do tal do X enfiado no meio de uma [[equação]] quilométrica. 
+Pior quando precisam checar se o maldito está no denominador, pois caso se esqueçam disso eles correm o risco de criar acidentalmente um [[divisão por zero|vórtice que aniquilará o universo]]. 
+
+No entanto, a álgebra não é de todo ruim. Graças à ela foi possível criar a [[regra de três]], que é praticamente o único tipo de álgebra que se usa no dia a dia.
+
+== História ==
+A álgebra surgiu há milhares de anos na [[Babilônia]], por matemáticos desocupados sem ter nada melhor para fazer. Sob o pretexto de criar uma ferramenta matemática eficiente para calcular a posição dos planetas e fazer [[mapa astral|mapas astrais]], eles elaboraram uma forma de enfiar nas contas letras onde deveriam haver somente números. 
+
+Mal sabiam eles que haviam criado um monstro, que mais tarde seria a base para outras desgraças, como as equações trigonométricas e o [[Cálculo Diferencial e Integral]].
+
+== Regra da Álgebra ==
+A regra mais importante da álgebra é que letras são números e você precisa descobrir quais números eles são, ou senão você vai ganhar um zero na prova e ficar de recuperação. 
+
+Basicamente, onde há um X ou Y pode ser um [[0]], [[42]], [[666]], ou o cvv do seu [[cartão de crédito]], e dependendo do grau da equação pode ser todos esses valores ou nenhum, e a situação pode até ficar [[número complexo|complexa]]. 
+
+Mas isto não se aplica apenas em encontrar valores em equações: praticamente todas as fórmulas matemáticas envolvem a álgebra. E essa praga também se alastra em outros campos do conhecimento, como [[Física]], [[Química]] e [[Economia]], o que inclui até as contas de padaria.
+
+== Tipos de Álgebra ==
+* '''Álgebra Elementar:''' A primeira álgebra que todo mundo conheceu na escola, que envolve descobrir que diabos é o valor de X na equação, analisar funções, fazer o [[Bháskara]], e usar também no raio <s>que o parta</s> do círculo para descobrir o tamanho da circunferência.
+* '''Álgebra Linear:''' A álgebra que costuma aparecer em [[vestibular]]es e concursos e que costumam te reprovar, como calcular matrizes, vetores, e os sistemas.
+* '''Álgebra Abstrata:''' A álgebra que apenas os malucos que cursam faculdades de exatas vão ter de se preocupar em entender.
+* '''Álgebra Booleana:''' A álgebra que, como o nome diz, pratica bulling. É utilizada na [[Matrix]] pelas máquinas para aprisionarem os seres humanos utilizando apenas 0s e 1s.
+
+[[Categoria:Álgebra|*]]

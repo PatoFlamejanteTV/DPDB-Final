@@ -1,0 +1,57 @@
+{{astronomia}}
+ 
+'''{{PAGENAME}}''' é uma das medidas <s>"impostoras"</s> que os Astrônomos usam hoje em dia. Ela veio acompanhada da [[Ascensão reta]] que também é um plágio descarado da [[Latitude]] e [[Longitude]], a diferença é que leva em conta o "eixo da terra", eu acho que essa medida é só mais uma forma de Astrônomo se manter no emprego, como a maioria fazia.
+== Como usar ==
+[[Arquivo:Ascensão reta.gif|left|thumb|300px|Tente adivinhar onde fica a Declinação sem nenhuma ajuda do mapinha... Nem ia conseguir mesmo que isso aí é outra coisa... É só outra coisa, não sei o que é!]]
+Ótima pergunta! Basta você seguir este raciocínio: [[Latitude]] corta o planeta em [[Norte]] e [[Sul]] e mede de 90º para cima e para baixo, a [[Longitude]] corta o planeta em [[Oeste]] e [[Leste]] (oeste tem que vir primeiro pois os países <s>ricos</s> "desenvolvidos" está lá... Eu acho que quiseram dizer "[[Norte]]").
+
+Mas essas medidas não levam em conta o eixo da terra, a medida da grama, se a bezerra morreu ou se faz 5 dias que eu não vou ao banheiro para fazer côcô.
+
+A [[Ascensão reta]] e a Declinação levam todos esses fatores em conta ao fazer uma descrição de localização exata da [[Terra]], então eles veem tudo isso sendo a mais exata... [[Ou não]], mas prometeram que vão colocar isso para ensinar em [[2009]], já passou?
+
+Então chega de embromação e é hora de ensinar a usar essa joça. 
+
+Ela se mede em relação à [[Linha do Equador]], assim como a [[Ascensão reta]] e a [[Latitude]], só que ao invés de '''depois e antes''' da linha do equador ser todos números "positivos" agora eles serão "''-90º; -50º; -10º; 0; +10º; +50º; +90º''" quando no outro era só: "''10; 0; 10''".
+
+{{c|Grande Merda...|Você|A realidade... E mostrar que é ignorante com o resto}}
+
+É! Sim! Mas como é o eixo da terra dá pra saber onde a estrela fica! Agora vem a pergunta: "''Por que eu vou procurar onde fica uma estrela se eu preciso de um trambolho de vários andares para poder vê-lo?''". Explica essa [[Einstein]]! Não vamos mexer com o Einstein... Ele pariu a física! Ele não tem culpa se a física acabou dando um neto chamado Astronomia e um Bastardo chamado Astrologia.
+
+== Declinação para o fim do mundo ==
+[[Arquivo:declinação.jpg|thumb|300px|Essas linhas aí, que você está vendo existem mesmo, só que só os inteligentes podem ver.]]
+Bem se achou que a Declinação é algo realmente inútil está muito enganado, já que ela é até mais usado do que a [[Ascensão reta]], que é mais "vagabunda". Se não fosse ela você não saberia que o [[Sol]] se move. '''ISSO MESMO! O SOL TAMBÉM SE MOVE!'''
+
+É simples, você faz um cálculo matemático simples para quem estudou mas chato e difícil pra c****** para um ignorante que está sentado em um condomínio fechado em [[São Paulo]] vagabundeando e vendo alguns vídeos... Bem não vamos entrar nessa questão!
+
+Afinal tem que ser alguém muito bem estudado para pesquisar algo que nenhuma pessoa normal iria ver.
+
+Mas vamos voltar ao [[Sol]], eles medem a declinação dele de acordo com os [[Raio|Raios Solares]] que "batem" na terra, de alguma forma eles descobrem que o Sol está "flutuando". A [[Lua]] também pode ter a sua declinação medida e tem um mínimo e um máximo de declinação anual.
+
+Se conseguiu entender algo que eu disse na sessão "como usar" aqui está o seu "mínimo e máximo", mas não é algo que vai dar para você "laçar a Lua", se bem que garota eu acho que você nunca vai pegar mesmo...
+
+
+
+{{cita|"''+ 28° 35' e + 18° 18', e os mínimos entre − 18° 18' e − 28° 35' ''"|Wikipédia}}
+
+Estou começando a achar que isso é para se usar na [[Física]].
+=== Declinação da [[Terra]] ===
+
+Ah! A boa e velha [[Ironia]], ou [[Sarcasmo]] que é sempre melhor. Você acha que eu ia falar sobre "''a terra está declinando pois está sendo poluída e blá, blá, blá, blá, blá e os países ricos criam suicidas''"... Não, engano, eu acho que é [[Estereótipo|os árabes mesmo]]. Mas não vai ser desse tipo de declinação que eu vou falar.
+
+Acha também que eu vou passar um cálculo? Não eu não vou passar por um simples motivo:
+
+'''NÃO DÁ PRA CALCULAR A DECLINAÇÃO DA TERRA!'''
+
+Sim! É como falar que um astrônomo sabe fazer contas de [[Ascensão reta]] e da Declinação da Lua mas não sabe por ordem no próprio casamento.
+
+Não fez muito sentido mas vamos lá. Não dá pra calcular a declinação da [[Terra]] pois estamos em cima dela, além de que os astrônomos não conseguem sequer saber se a terra fica oscilando para baixo ou para cima mas não são em "círculos retos" que a Terra deve girar em torno do sol.
+
+== Errata ==
+
+Ops! Parece que descobriram que a terra oscila! Eu não sei como fazem isso, será que medem uma régua e colocam na Lua, mas se bem que a Lua pode estar oscilando e então vierem os [[Banana]]s e acharem que a oscilação é da Terra e falar que a Terra Oscila... Bem, a Wikipédia está desatualizada mesmo.. 
+
+Mas por seguinte, essa coisa surgiu junto com um "intelectual" que resolveu adaptar o teorema do carinha que fez a [[ascensão reta]]<s>l</s> e deu nisso aqui.
+
+{{Glossário de Astronomia}}
+
+[[Categoria:Linha do Equador]]

@@ -1,0 +1,43 @@
+'''14''' (ou, como os fãs radicais o chamam, "o [[quatorze]] que quatorze vezes mais foda que o 13") é o número natural que vem depois do [[13]] (o azarado) e antes do [[15]] (o preguiçoso que nem se esforça pra ser par). Ele é tipo o [[adolescente]] dos números: já não é criança (10-12), mas também não é adulto (20+), então passa o dia inteiro fazendo [[bagunça]] em equações, dividindo grupos de [[batata]]s em pacotes de 7 e aparecendo em camisas de futebol como se fosse [[Neymar]] em dia de [[final de Copa]]. Em [[binário]], ele é 1110 basicamente um código secreto pra dizer "ei, [[computador]], me dá um [[café]] com leite e [[pão de queijo]]". Matematicamente, 14 é par, composto (2×7), e o [[tetraedro]] tem 14 arestas se você contar errado de propósito. Mas quem liga pra isso quando ele é o número de [[dias]] que um [[zumbi]] demora pra aprender a dançar [[funk]]?
+
+==História: Do [[Egito Antigo]] ao [[YouTube]]==
+O 14 apareceu pela primeira vez em [[tábuas sumérias]] onde um [[contador]] bêbado anotou "14 [[ovelhas]] + 14 [[cervejas]] = [[festa]] épica". No [[Egito]], era o número de [[deuses]] que [[Osíris]] convidava pra [[churrasco]] antes de ser cortado em 14 pedaços moral: nunca confie em [[festa]] com número par. Na [[Idade Média]], [[alquimistas]] usavam 14 pra transformar [[chumbo]] em [[ouro]], mas só conseguiam [[moedas falsas]] de [[chocolate]]. [[Shakespeare]] mencionou 14 em [[sonetos]] como "o [[amor]] que dura 14 linhas antes de virar [[drama]]". No [[século XX]], virou o número da [[camisa 14]] do [[Johan Cruyff]], que driblava como se o [[gramado]] fosse [[pista de patinação]] com [[óleo]]. Hoje, 14 é o [[código de área]] de [[Bauru]] e o número de [[episódios]] que uma [[série]] precisa pra ser cancelada por [[baixa audiência]].
+
+==Propriedades Matemáticas: Onde o 14 Brilha (Ou Explode)==
+
+* '''Fatoração''': 14 = 2 × 7. Perfeito pra dividir [[pizza]] em fatias iguais ou [[herança]] em brigas de família.
+* '''Hexagonal''': É o terceiro número [[hexagonal]] (1, 6, 15... espera, 14 não é, mas finge que é pra zoar).
+* '''Tetraédrico''': A soma dos primeiros 4 [[números naturais]] (1+2+3+4+5-1) dá 14 se você trapacear na conta.
+* '''Em [[romanos]]''': XIV parece um [[palíndromo]] se você girar a cabeça e beber [[cachaça]].
+
+==Cultura Pop: Onde o 14 É Rei (Ou [[Bufão]])==
+
+No [[futebol]], [[camisa 14]] é sinônimo de [[gênio]] ([[Cruyff]], [[Thierry Henry]]) ou de [[reserva]] que entra no segundo tempo pra [[perder pênalti]].
+[[14 de fevereiro]]: [[Dia dos Namorados]] nos EUA dia em que [[casais]] gastam [[fortuna]] em [[rosas]] murchas e [[jantar]] caro pra depois brigar por [[ciúmes]] de [[ex]].
+[[Artigo 14]] da [[Constituição Brasileira]]: garante [[direito]] a [[greve]], mas na prática é usado pra [[justificar]] [[falta]] no trabalho com [[atestado falso]].
+[[Sonic 14]]: jogo fictício que a [[Sega]] nunca lançou porque "14 [[anéis]] não pagam as contas".
+[[14 bis]]: avião do [[Santos Dumont]] que voou 60 metros prova de que 14 é o número da [[aviação]] brasileira (e do [[orgulho]] nacional com [[aeroporto]] lotado).
+
+==Curiosidades: Fatos que Nem o [[Google]] Quer Saber==
+
+[[Napoleão]] tinha 14 [[botões]] no casaco um pra cada [[vitória]] que ele [[mentiu]] no currículo.
+[[Pi]] começa com 3,14159... o 14º dígito é 3, mas ninguém chegou lá sem [[calculadora]] e [[insônia]].
+[[14 linhas]]: comprimento de um [[soneto]] perfeito pra [[poetas]] que não sabem [[encerrar]] a [[ideia]].
+No [[jogo de xadrez]], o [[rei]] tem 14 [[movimentos possíveis]] se você contar [[suicídio]] como opção.
+[[14 de março]]: [[Dia do Pi]], mas com 14 no meio pra [[confundir]] [[nerds]] que comemoram errado.
+
+{| class="wikitable"
+! Base !! Representação !! Significado Oculto
+|-
+| 2 || 1110 || "Ei, [[binário]], [[liga a luz]]!"
+|-
+| 8 || 16 || "[[Octal]] dizendo que 14 é [[adulto]]"
+|-
+| 10 || 14 || "[[Decimal]] clássico, sem [[surpresa]]"
+|-
+| 16 || E || "[[Hex]] dando [[carona]] pro [[15]]"
+|-
+| 60 || 0;14 || "[[Babilônico]] com [[fração]] de [[cerveja]]"
+|}
+
+[[Categoria:Números]]

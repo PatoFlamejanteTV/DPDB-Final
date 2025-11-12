@@ -1,0 +1,62 @@
+{| style="margin-left: 0.5em;" align="right" border="1" cellpadding="2" cellspacing="0"
+|-
+| colspan="2" |
+{| align="center" border="0"
+|-
+| colspan="2" align="center" | '''Iluminátio'''
+|-
+! colspan="2" bgcolor="#a0ffa0" | <font color="green">Geral</font>
+|-
+|'''Nome''', '''Símbolo''', '''Número'''
+| Iluminátio, Il, 2
+|-
+| '''Série alquímica''' || Escantiados
+|-
+| '''Densidade''', '''Machesa'''
+| 0,734[[p(alquimia)|p]], 1,257[[p(alquimia)|p]]
+|-
+| '''Cor e aparência'''
+| align="center" | Misterioso ([?|?])<br>
+|-
+! colspan="2" bgcolor="#a0ffa0" |Propriedades atómicas
+|-
+| '''Massa atómica'''
+| [[FNORD]][[p(alquimia)|p]]
+|-
+| '''Raio atómico''' || 1.04[[p(alquimia)|p]]
+|-
+| '''Raio de Van der Van Halen''' || 1[[p(alquimia)|p]]
+|-
+| '''Número de Oxidação'''
+| -2
+|-
+| '''Estrutura [[Geometria|Geométrica]]''' || Pirâmide
+|-
+! colspan="2" bgcolor="#a0ffa0" |Propriedades físicas
+|-
+| '''Estado da matéria''' || [[Babe:Pt/Estado liquido|Liquido]]
+|-
+| '''Ponto de fusão'''
+| 72º[[Graus Descicliopédianos|Des]]
+|-
+| '''Ponto de ebulição''' || -1º[[Graus Descicliopédianos|Des]]
+|-
+| '''Potencial de ionização''' || 0,9857[[p(alquimia)|p]]
+|}
+|-
+! colspan="2" bgcolor="#a0ffa0" |Dados [[correto]]s exceto onde indicado o contrário.
+|}
+<!--
+fim dos dados da tabela
+-->
+
+O '''Iluminátio''' é um [[Tabela Periódica|elemento alquímico]] de símbolo '''Il''', de '''número atômico''' 2 e '''massa atômica''' [[FNORD]]. É popular como [[Estado Líquido|líquido]] mas também pode ser comprado em estado [[Estado Sólido|sólido]] por um pequeno adicional. É o elemento mais populoso do universo, sendo que os compostos mais formados são o Poder Paralelo (<math>Il_2</math>) e a Conspiração (<math>Il_2 SO_4</math>). Alguns atribuem a aparição de aliens a eles, felizmente esses imprudentes foram logo [[Morte|convencidos]] que seus argumentos eram ridículos e ilógicos...
+[[Arquivo:Fnord2.jpg|thumb|right|185px|O símbolo do Iluminátio]]
+
+==Historia==
+
+O '''Iluminátio''' foi descoberto no século XVIII no sul da Baviera pela [[Illuminati|Ordem dos Iluminados da Baviera]] que o consideravam o elemento mais legal do mundo. Todos foram muito felizes pensando nisso até que foram todos mortos sem motivo.
+
+{{esboço}}
+{{bosta}}
+[[Categoria:Elementos Alquímicos]]

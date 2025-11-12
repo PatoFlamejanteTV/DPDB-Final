@@ -1,0 +1,62 @@
+{{Matemática}}
+
+{{vqd|Ângelo}}
+{{C|Se há algum segredo do sucesso, consiste na habilidade de aprender o ponto de vista do outro e ver as coisas tão bem pelo ângulo dele como pelo seu.|[[Henry Ford]]|ângulo}}
+
+'''Ângulo''', de acordo com sua [[Wikipédia|sua definição supostamente oficial]], "é a região de um plano determinada pelo encontro de duas semirretas que possuem uma origem em comum, chamada [[vértice]]". Ou seja, um ângulo não é nada mais nada menos do que dois riscos saindo de um ponto em comum em direções diferentes. Pelo fato dos dois riscos serem irmãos, naturalmente eles não se bicam, e por isso nunca serão encontrados indo juntos para a mesma direção. Quando as duas milagrosamente encontram-se na mesma direção, o ângulo entrará em curto-circuito e poderá se tornar nulo em situações específicas, pois não conseguirá entender porque dois irmãos se dariam bem. 
+
+==Sobre o ângulo==
+[[Arquivo:Torre_2.jpg|thumb|right|250|Uma comunidade hostil e selvagem de ângulos. Você pode não vê-los, mas estão todos aí, aptos a destruir qualquer um que se aproxime!]]
+Para identificar um ângulo em alguma questão de [[Matemática]] é simples, por mais que seu cérebro inferior seja incapaz de resolver o problema proposto: basta procurar na figura geométrica (que geralmente será um triângulo, pelo menos na maioria das vezes) uma reta inclinada, acompanhada de uma meia-lua formando um minúsculo desenho de uma pequena fatia de [[pizza]], geralmente no canto da reta. Essa meia-lua geralmente estará acompanhada de um número em graus, e voilá! Pronto, você acaba de achar seu ângulo! Agora só lhe resta descobrir pra que serve essa coisa. Mas aqui vai uma dica: se em algum problema de [[Física]], por exemplo, em algum ponto da figura aparecer um ângulo, cuidado! Pois se o maldito está lá, é bem provável que ele faça parte de alguma etapa dos cálculos, e isso significa que se você se arriscar a resolver o problema sem usar o ângulo, há uma probabilidade de 95% de seu resultado final estar completamente errado.
+
+A principal utilidade de um ângulo é servir como obstáculo para a resolução de qualquer problema de [[geometria]]. Um ângulo é uma verdadeira peste, e sempre que ele aparece, traz consigo um pacotão completo de pragas para lhe ferrar com a vida: tangente, seno, cosseno, etc. Ou seja, o ângulo é o modus operandi inicial da [[trigonometria]], que sempre estará em algum beco escuro, só esperando o momento certo para sair de sua toca fria e úmida e assassinar as notas de sua prova sem dó nem piedade. Todas aquelas pobres almas que se aventuram no mundo da [[Física]], da [[Química]], da [[Biologia]] e das [[Engenharia|Engenharias]], em algum momento de sua vida, já foram esfaqueadas pelo ângulo e sua gangue. Também é sempre bom ressaltar que muitas vezes o ângulo será um grande fã de esconde-esconde, e caberá a você achá-lo, geralmente através de expressões envolvendo [[vetor|vetores]] ou operações inversas das velhas <s>desgraçadas</s> conhecidas funções trigonométricas.
+
+O ângulo adora aparecer do nada nos problemas: muitas vezes, só de ler o enunciado simples, você já começa a esboçar em sua mente uma maneira de resolver a questão, e claro, isso lhe deixará feliz! Mas é uma felicidade momentânea, pois é muito comum que quando você dê uma olhada mais de perto, encontrará ele lá, todo sorridente e alegre por dificultar sua vida. CUIDADO! Sempre que um problema inicia com a frase "Na figura a seguir...", há uma grande probabilidade de haver no mínimo um ângulo na questão, portanto, recomenda-se que fuja para as colinas! Vale ressaltar também que muitas vezes os ângulos atacam em bandos, e por mais que você consiga derrotar um deles, os outros estarão lá, e quando menos esperar, você terá se esgotado e os ângulos estarão intactos e vitoriosos. 
+
+
+==Características==
+[[Arquivo:Pacman_2.png|200px|thumb|right|Pacman é uma ótima forma de explicar como funciona um ângulo: enquanto a região formada por sua boca corresponde a parte convexa, toda a parte em amarelo corresponde a parte não-convexa, visível apenas para os mais evoluídos.]]
+O ângulo mais comum é aquele cujas semirretas não estão na mesma reta, ou seja, é geralmente aquele que vai aparecer para avacalhar com sua conta. Sua principal característica, diferentemente do que o senso comum e os alunos de exatas mais desinteressados acreditam, é dividir a bronca toda em dois ângulos. Isso mesmo, caro leitor! Não é apenas aquela região visível que forma um desenho de fatia de pizza
+que existe ali! Assim como [[Shido de Mizar]], ela tem um irmão gêmeo nas sombras. O "ângulo" tal como você o conhece ocupa o que conhecemos como região convexa. Já seu ângulo gêmeo oculto, recebe o nome de <s>[[Bado de Alcor]]</s> de ângulo não-convexo, e sua região partirá da superfície de uma das retas e fará uma volta completa até chegar a parte debaixo da outra reta. Ou seja, dependendo da quantidade de graus que o seu professor escolheu para te ferrar, o ângulo poderá assumir uma dessas duas formas.
+
+Na necessidade de se medir um ângulo artesanalmente, foi criado um complexo mecanismo chamado [[transferidor]], que não é nada mais nada menos do que uma régua redonda. Infelizmente, poucos sabem manusear um transferidor adequadamente, e em virtude da ignorância, por ser classificado como inútil quando os alunos compram aqueles famosos kits de réguas, ele acaba sendo jogado no lixo, usado para fazer esferas e semicírculos nas aulas de [[Artes]] do [[Ensino Médio]] ou é dado para o irmãozinho mais novo brincar. Além do transferidor, em náutica se utiliza também o [[sextante]], instrumento inventado por [[Barba Negra]] para fins de navegação. 
+
+Dentro da ideia de ângulo, existem os [[Congruência|ângulos congruentes]]. A congruência ocorre quando um ângulo aleatório, invejoso como ninguém, ao ver um outro ângulo sendo elogiado por suas belas medidas, põe seu olho gordo para trabalhar e decide copiá-las descaradamente. As propriedades dessa congruência podem ser reflexivas (que definem o nível de semelhança entre os dois ângulos), simétricas (que definem o nível de inveja do ângulo por meio do quão parecido ele ficou com o outro) e transitiva (que define a probabilidade do ângulo invejoso se tornar um fanático e passar a copiar também outros ângulos).
+
+
+==Tipos de ângulo==
+
+[[Arquivo:Ache o X.jpg|right|thumb|250px|Como se resolver uma operação com Ângulos!]]
+
+Os ângulos também podem ser consecutivos. Ângulos consecutivos são aqueles ângulos mais pobres, que por não terem dinheiro para comprar a casa própria, foram amontoados pelo governo em moradias compartilhadas com outros ângulos de situação financeira semelhante, sendo obrigados a dividir o mesmo vértice e tendo um lado em comum. O grande problema dos ângulos consecutivos, são os possíveis desentendimentos que podem existir entre eles. Na maioria das vezes, o principal motivo para as contendas é o fato de que um ângulo pode dispor de mais [[espaço]] do que outro, fazendo com que os ângulos mais barraqueiros, inconformados com o fato de terem um ambiente menor para se acomodarem, partam pra porrada com os outros, muitas vezes virando inclusive caso de polícia. Também é muito comum que o espaço destinado a ambos os ângulos seja tão pequeno, que um acabe por invadir o pedaço do outro, o que costuma gerar ainda mais tapas.
+
+Os ângulos adjacentes por sua vez, são os ângulos em situação financeira um pouco melhor. Embora esses ângulos também dividam entre si um mesmo vértice e um mesmo lado, por possuírem uma situação financeira um pouco melhor, conseguiram comprar um pequeno pedaço do espaço só para eles, de forma a evitar os problemas de um rolar para o lado do outro com a construção de um muro para separá-los, sob pena de processo e multa em caso de invasão de um dos dois. Basicamente, ângulos adjacentes são simplesmente ângulos vizinhos. Apesar disso, ângulos vizinhos muitas vezes também são levados a delegacia por perturbar a ordem pública, geralmente em virtude das fofocas que um pode espalhar sobre o outro, como em toda vizinhança que se preze. 
+
+No final das contas, a melhor solução para as contendas entre os ângulos é dar aos mesmos espaços iguais. A fim de resolver de vez esses problemas, que prejudicam e muito a sociedade dos ângulos, o governo lançou o "Minha Bissetriz, Minha Vida". Basicamente, uma <s>meretriz</s> bissetriz é uma semirreta que irá dividir um ângulo de espaço maior em dois ângulos congruentes, ou seja, dois ângulos iguais. Antigamente, era necessário uma vaquinha entre os dois ângulos interessados para que eles pudessem comprar sua própria bissetriz, o que podia custar o olho da cara. Agora, com esse novo programa do [[Governo Federal]], basta os ângulos fazerem uma pequena declaração de que não possuem condições financeiras, com assinatura reconhecida em cartório, levar até o Ministério Público e fazer o requerimento da bissetriz. Após confirmação dos dados, a bissetriz imediatamente será autorizada, e todo mundo sairá feliz.
+
+Além dessas definições, ainda existem outros tipos de ângulo:
+[[Arquivo:Acute_angle.jpg|thumb|right|250px|Um ângulo agudo feliz por ferrar com a sua vida.]]
+* '''Ângulos complementares, suplementares e replementares:''' Os mais solidários dos ângulos. Ao verem um amigo ângulo tendo dificuldades para alcançar seu objetivo, estes ângulos decidem ajudar o companheiro necessitado, somando o que falta para integrar os 90° (complementares), os 180° (suplementares) e 360° (replementares). Acredita-se que apenas os escolhidos, sejam capazes de integrar tais valores, e que os mesmos surjam no mundo à cada 1000 anos. 
+
+* '''Ângulo reto:''' De longe, um dos preferidos de alunos das exatas de todas as idades. Basicamente, é um ângulo com 90º, ocupando um quadrante inteiro da circunferência e se tornando portanto, o mais fácil de se trabalhar. Apesar disso, o [[Cálculo]] e a [[Física]] sempre arrumarão alguma forma de complicá-lo ou colocá-lo em cálculos do arco da velha.
+
+* '''Ângulo agudo:''' Um dos ângulos mais comuns, o que não quer dizer que ele será fácil de se lidar. Basicamente, são ângulos fracos que não tiveram força suficiente para atingirem sequer os 90°, e para descontar toda a raiva de tal frustração, ficam em regiões menores que 90° complicando a vida alheia.
+
+* '''Ângulo obtuso:''' Basicamente, são ângulos em cima do muro, que não sabem se querem ser de 90° ou de 180°, e portanto, ficam num meio termo entre os dois. 
+
+* '''Ângulo raso:''' Esses ângulos são mais determinados e decididos que os obtusos, e decidiram optar, com orgulho, pelo 180°.  
+
+* '''Ângulo côncavo:''' São ângulos mais resistentes que os ângulos rasos, tendo a força necessária para passar dos 180°, mas ainda assim não sendo fortes suficientes para atingir os 360°. Esse é o mais obscuro e secundário dos ângulos, e quase nunca se tem notícias dele. Caso não tenha se dado conta ainda, seu [[burro]], esse é o mesmo ângulo não-convexo citado anteriormente. 
+
+* '''Ângulo cheio:''' Após consumir muito da super-farinha de [[Zilda Arns]], esse ângulo conseguiu a maior proeza que um ângulo poderia conseguir: completar os 360°. Acredita-se que apenas um ângulo em um milhão seja capaz de tal feito.
+
+==Ver também==
+
+* [[Geometria]]
+* [[Trigonometria]]
+* [[Vértice]]
+* [[Semirreta]]
+
+{{DEFAULTSORTKEY:Angulo}}
+[[Categoria:Matemática]]
+[[Categoria:Geometria]]

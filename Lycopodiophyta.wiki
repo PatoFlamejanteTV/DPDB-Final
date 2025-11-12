@@ -1,0 +1,32 @@
+{{taxocaixa
+| nome           = Licófitas
+| cor            = yellowgreen
+| imagem         = Lycopodiophyta.jpg
+| imagem_legenda = É esse tipo aí de matinho não fumável
+| reino          = [[Plantae|Plantinhas]]
+| clado2         = [[Viridiplantae|Viripendio]]
+| clado2.1       = [[Embryophyta|Embriofita]]
+| clado2.2       = [[Tracheophyta|Trashbiontas]]
+| divisão        = [[Lycopodiophyta]]
+}}
+
+'''Lycopodiophyta''' é o nome científico e bonitinho (ok, não tão bonito) para o que comumente se denomina apenas de "matinho". Não são fumáveis (pelo menos ninguém ainda tentou tornar essa prática um comércio lucrativo e industrial) e por isso são espécies vegetais amplamente desconhecidas do público em geral, embora sempre estejam ali, numa beirada de meio-fio ou num terreno baldio criadouro do mosquito da dengue.
+
+As espécies dessa divisão compõem as mais antigas formas ainda vivas de [[planta vascular]], tanto que a primeira vista nem parece uma planta vascular que se preze, sendo comumente confundidas com [[musgos]] e outras [[briófitas]], não que as licófitas possam se ofender. Um exemplo dessas plantinhas que beberam água até de mais é a [[lepidodendron]], que parecia mais uma árvore, lá do período [[carbonífero]].
+
+
+== Características ==
+
+O que destaca essa divisão das demais plantas vasculares é a presença do [[micrófilo]], que é o nome dado a uma [[folha]] primitiva que é só um fiapo e nada mais, nem parecendo realmente uma folha. Por serem plantas da flora tangamandapiana, elas estão sempre querendo [[evitar a fadiga]], sempre procurando o meio mais cômodo de existirem, não precisando criar enormes folhas nem flores bonitas, apenas um caule pequeno e folhas que são tão boas para fazer [[fotossíntese]] como fritar uma boa [[picanha]] usando o [[Juicer Philips Walita]], dar até dá, só não fica grandes coisas.
+
+No mais, são plantinhas de pequeno porte, melhor denominadas como "matinho", e sua reprodução ocorre através da liberação de [[esporo]]s, sem a putaria masturbaria tão característica das [[Angiospermae|angiospermas]], só esporos no ar. Estes esporos, aliás, são altamente inflamáveis, como qualquer planta que não seja uma alga embaixo da água também é inflamável, por isso é excelente na disseminação de incêndios florestais.
+
+== Classes ==
+
+* '''[[Lycopodiopsida]]''' — licopódios e huperzia.
+* '''[[Isoetopsida]]''' — selaginelas e isoetes.
+
+{{Seres Vivos}}
+
+[[Categoria:Tracheophyta]]
+[[Categoria:Lycopodiophyta|*]]

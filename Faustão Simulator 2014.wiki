@@ -1,0 +1,63 @@
+{{game}}
+
+{{Infobox Game|title = Faustão Simulator 2014
+|image               = Faustaosimulator2014.jpg
+|caption             = Edição demo do GOTY do ano
+|developer           = Organizações [[Globo]], em parceria com um carinha ali
+|released            = 2014 e anteriores
+|genre               = [[Plataforma]], Interrupção, [[Ação]], Interrupção, [[Estratégia]], Interrupção, Simulação, Interrupção...
+|rating              = Chegou lá
+|platform            = [[PlayStation 4]], [[Xbox One]], [[PC]] e qualquer outra coisa que aguente seus gráficos de última geração
+|ages                = Qualquer uma
+}}
+'''''Antes de começar, as avaliações (pra dar mais [[IBOPE]], é claro):'''''
+
+{{c|Ô loco bicho! Gameplay fora de série e protagonista pentelho|UOL Jogos}}
+{{c|Adoramos o survival mode "Se vira nos 30" e o co-op "Dança no Gelo"|BaixakiJogos}}
+{{c|It's funny because he's fat|[[GameSpot]]}}
+{{c|It's like [[Skyrim]] with Faustao|[[IGN]]}}
+{{c|Jogo lixo! A versão do PS3 tem tanto serrilhado que se passar o dedo na TV o jogador morre de perda de sangue!|GameVicio}}
+Aí galera! Em breve na [[Steam]], o '''Faustão Simulator''' é jogo ''loco, meu!'' Com um realismo de arrepiar, nele você é [[Faustão|essa fera aê bicho]], mas no modo multijogador você também pode ser essa [[Sérgio Mallandro|outra fera meu]]. E muito em breve, será incluído o [[Caçulinha]]. O cara que criou esse game também é fera, tanto no pessoal quanto no profissional. Brincadeira, hein bicho. Quem sabe faz ao vivo...
+
+==Gameplay==
+===Cenário===
+Precisamente às oito e sete num [[domingo]] de noite (mentira, tinha vezes que era gravado antes), o personagem ficava no [[Projac]]. Mas mesmo assim, ele sempre começa suas trapalhadas em um pequeno estúdio de filmagem, onde: há um camarim com uns pôsteres, os aplausos são automáticos e a churrasqueira sempre tá pegando [[fogo]]. E também um pequeno púlpito (mais alto que o apresentador), onde, neste magnifíco [[jogo]], você pode apresentar as videocassetadas.
+
+===Controles===
+Além de se mover pra qualquer lugar dentro do cenário, é possível "mover o braço" e entrevistar diretamente [[qualquer um]] dos poucos que estão na plateia (bem como jogar [[ovo]]s na mesma). No patch mais recente, foi corrigido um bug onde o entrevistado ainda podia falar.
+
+===Gráficos===
+Humilhando [[GTA V]], Forza Motorsport 4, Battlefield 4 e a [[porra]] toda, os gráficos desse jogo ultrapassam a nova geração de consoles e PCs gamers. Isso é perceptível apenas no primeiro segundo de vídeo: vejamos a seguir uma demonstração dos mesmos.
+
+<YouTube>9AuXPkrq4xo</YouTube>
+
+==Material adicional==
+Serão incluídos nas versões futuras:
+
+*O cara vestido de [[Superman]] na plateia
+*A narração de videocassetadas ao vivo
+*Quadro "Artista Completão"
+*''Quests'' narradas pela própria churrasqueira
+*A missão mais difícil dos últimos tempos: impedir o Faustão de quebrar o ovo
+*Função de pilotar o avião do Faustão (pra jogar prêmios nas casas dos pobres)
+*Sala de troféus do Faustão Pentelho
+*Minigame de fugir dos projéteis de pipoca de Faustinho 2.0
+*Multiplayer, com as skins de: [[Sérgio Mallandro]], [[Marcolino Pereira]], Faustinho e [[Caçulinha]]
+
+==Próximos lançamentos==
+*{{fakelink|Datena Simulator}}
+*{{fakelink|Ratinho Simulator}}
+*{{fakelink|Silvio Santos Simulator}}
+*{{fakelink|Nelson Rubens Simulator}}
+*{{fakelink|Galvão Bueno Simulator}}
+*[[Marcelo Rezende|Corta pra mim]] Simulator
+*Xuxa Simulator (mas só terá versões DEMO)
+
+== Ver também ==
+
+*[[Faustão Dating Sim]]
+
+{{Jogos brasileiros}}
+{{Jogos de simulação}}
+
+[[Categoria:Jogos de simulação]]

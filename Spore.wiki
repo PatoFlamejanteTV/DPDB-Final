@@ -1,0 +1,474 @@
+{{CorTitulo|Black|''Spore''}}
+{{game}}
+{{Alien}}
+{{Deslista|Bugs de Spore}}
+{{Infobox Game|
+|title      = Spore                                            
+|image      = Spore cover.png
+|caption    = Capa do jogo
+|developer  = [[Maxis]]
+|released   = 2008 (saporra já tem mais de uma década)
+|publisher  = [[EA|Electronic Money&noArts]]
+|rating     = 8/10
+|genre      = Criação de biuxiUuUs
+|modos      = Sentado (PC & MAC) <br> de quatro (Nintendo Wii)
+|njogadores = Infinito
+|platform   = [[PC]], [[MAC]], [[Nintendo DS]], [[celular]] (o seu não roda), [[Nintendo Wii]], [[iPhone]] (Você nunca vai ter)
+|ages       = [[ESRB]]: A parti de 1+ ano <br> [[Ministério da Justiça]]: 1+ hora de vida
+}}
+
+{{Compactar|
+{{cgoogle|Sims híbridos de humanos e ETs|Spore}}
+{{Experimente também|Cogumelos Alucinógenos|Spore}}
+{{C|Devia ter posto mais pernas... | [[Deus]] sobre a criação do ser humano no Spore}}
+{{C|Você traiu o movimento galáctico, véio|[[Dado Dollabela]] sobre aliança com os Grox}}
+{{C|AHHH FILHO DA PUUTAAAAAA!!!|[[Você]] após saber de todas a vantagens oferecidas pelo [[DRM]]}}
+{{C|Ó Pai... eles não sabem o que fazem!|[[Inri Cristo]] sobre '''Spore'''}}
+{{C|Fui eu que fiz!|[[Charles Darwin]]|Spore}}
+{{C|Fui eu que fiz!|[[Gregor Mendel]]|Spore}}
+{{C|Fui eu que fiz!|[[Paulo Maluf]]|Spore}}
+{{C|This... is... SPARTAAAAAAAAAAAAAAAAAAA!|[[Leônidas]], toda vez que declara guerra no Spore (ou chuta um mensageiro persa para um buraco)}}
+{{C|Existe a possibilidade de eu conseguir zerar esse jogo se calcularmos a capacidade de multiplicação e depois dividirmos pela qualidade gráfica e obtermos a raiz de [[infinito]] multiplicada por dez, entendeu? |[[Nerd]] se perguntando como zerar Spore}}
+{{C|Eu já zerei!|[[Chuck Norris]] sobre Spore}}
+{{C|É aquela comida italiana?!?!|[[Carla Perez]], sabendo tudo sobre Spore}}
+{{C|Na União Soviética, a criatura cria VOCÊ!!!|[[Reversal Russa]] sobre Spore}}
+{{C|Se eu pudesse eu esperava mil, que eu sô caba ômi!|[[Jeremias]], que pode esperar mil anos pelo Spore, porque é caba ômi}}
+{{C|Isso non ecziste!|[[Padre Quevedo]] sobre Spore}} 
+{{C|Plokt buner simsor ne cursa lavab his hamor!|[[Sims]] sobre Spore, ou se questionando sobre onde é o banheiro}}
+{{C|É uma barbaridade!!!!|[[Datena]], ao ver seu filho usando o destruidor de planetas no Spore}}
+{{C|Nunca na história deste país, tivemos um jogo com uma memória tão grande sendo tão pequeno pra ser zerado!|[[Lula]], falando de Spore}}
+{{C|Fenomenal!! | [[José Wilker]], falando após ter feito uma cópia sua no Spore e não ter quebrado nenhum espelho}}
+{{C|Como é grande!|[[Você]] sobre uma criatura épica}}
+{{C|Eu gosto quando os monstros épicos me agarram, dão uma mordidinha e te jogam, [[Zoofilia|puro tesão]]!!!|[[Você]]|uma criatura épica}}
+{{C|Essas criaturinhas do barulho vão invadir seu computador! | [[Narrador da sessão da tarde]], sobre Spore}}
+{{C|LoUUUcura, loUUUcura, loUUUcura!!|[[Luciano Hulk]] sobre Spore}}
+{{C|A [[Hebe]] reclamou, e o Spore foi lançado!|Locutor do [[SBT]] sobre Spore}}
+{{C|"¬¢³£¹²£¬£¢¬£¢£¢¬³¬£¢¬³!! ¬³££¢¬£¢³£¬³???"|[[Alien]] sobre Spore ou se perguntando onde fica a Terra}}
+{{C|"Porra meu Spore Sporrou"|[[Você]] sobre Spore}}
+{{C|"Eu A-D-O-R-O isso!!!"|[[Vivi Fernandez]] sobre Spore}}
+{{C|"Meu jogo vendeu mais..." | [[Niko Bellic]] sobre Spore}}
+{{C|"JÁ LANÇOU KARAIIIIII!!!!!!!"|[[Você]] sobre Spore}}
+{{C|"É o jogo de fazer os bichinhos!?!?!?"|Sua [[irmã]] ao ver você jogando Spore}}
+{{C|"Tisbustzi cstomum quistco qstsza!"|[[Seu comandante]] se comunicando com você no Spore}}
+{{C|"SALUNINI KIBI SUBIACA!."|[[Seu comandante]] de ressaca na segunda-feira}}
+{{C|"EU QUERO SEXO NESTA PORRA!"|[[Guri retardado]] sobre o Spore}}
+{{C|"MA QUE PORRA ESSA PORRA NÃO REGISTRA O CARALHO FILHODAPUTA!" | [[Dercy Gonçalves]] tentando se registrar no Spore}}
+{{C|"Cérebro, o que vamos fazer no Spore hoje à noite??"|[[Pinky]] perguntando a [[Cérebro]]}}
+{{C|"O que fazemos todas as noites, Pinky... Tentar dominar a galáxia!! | [[Cérebro]] respondendo a Pinky}}
+{{C|"Eu prefiro morrer do que perder a vida!"|[[El Chavo del Ocho|Chaves]], à beira de ter seu império destruído no Spore}}
+{{C|"Hauhuahsu omg wtf eu distrui um planet auhauhau lol" | [[Gamer]] retardado sobre o Spore}}
+{{C|É uma versão de The Sims em que você cria monstros no lugar de pessoas.|Capitão Óbvio|Spore}}
+}}
+
+'''Spore''' é um jogo em que você pode criar suas próprias <s>aberrações da natureza</s> criaturinhas e monstrinhos a partir de células e desenvolvê-los até se tornarem uma civilização espacial. Seu criador foi o mesmo de [[The Sims]] e [[Mentira|outros sucessos]]. Entre os possíveis "destaques" do jogo estão seu potencial destrutivo de placas de vídeo, sua ocupação de espaço no HD, sua lerdidão, suas telas carregamento, os níveis de dificuldades facílimos e também o seu Estágio Espacial que, "por coincidência", é mais longo que os outros estágios.
+
+Ao contrário do The Sims, esse jogo não é antissocial e é possível conectá-lo com a internet para colocar na sua galáxia novos monstros <s>horrivelmente modelados, feitos por pessoas sem criatividade alguma</s> bem bolados e bonitinhos. No entanto, a EA Games parece ter definitivamente esquecido desse jogo, pois o último patch de atualização para correção de bugs foi feito em 2009. Mesmo assim, continua sendo um jogo cheio de bugs, que poderá causar sérios danos para sua placa de vídeo e também para pessoas com problemas epilépticos. O jogo é um dos poucos que [[Will Wright]], seu criador e do The Sims e do [[Sim City]], deu um objetivo definido e não muito satisfatório: chegar ao centro da galáxia e conhecer [[Os Grox]], a civilização que todos temem e também a única que [[Comunismo|não se entrega ao capitalismo]].
+
+Vamos conhecer melhor esse jogo, que revolucionou a indústria [[gay]]mística.
+
+== História ==
+[[Arquivo:sporexxx.jpg|left|thumb|200px|Uma criatura agradecendo ao seu criador, pois agora poderá dominar a galáxia (e consequentemente destruir o planeta Terra)]]
+[[Deus]] teria criado o Spore para facilitar a criação do Universo. Mas como ele sabia que os humanos não iriam saber lidar com o fato de sua existência, mandou a ideia para a cabeça de um humano qualquer. O escolhido foi Will Wright.
+
+Naquele dia, Will Wright, o criador anônimo e corno do The Sims e dp Sim City, que apenas nerds tarados por obaoba conhecem, estava muito entediado com tantas expansões para aumentar os recursos do tão aclamado controlador de bonecos. Ele então recebeu o programa de criação que Deus havia feito: 
+
+"''Vou criar uma expansão de The Sims em que irá fazer sims beberem urânio, cerveja, crack com leite e virarem monstros horrendos! Irá vender horrores!''"...
+
+Will pensou sensatamente: sua ideia de fato tinha futuro <s>ao contrário dos seus últimos jogos</s>... A [[Madonna]] então não podia mais reclamar, pois Will era seu amante e havia pensado que quem teve a ideia foi ele. Will apresentou sua proposta para a EA games, só que a empresa não gostou da ideia de que humanos virariam monstros, e que esses monstros poderiam explodir a casa do vizinho fabricando bombas nucleares. Will entendeu que a EA não gostava de passar a ideia de que estavam financiando o terrorismo. Will, por fim, disse em um último golpe surpresa que iria lançar uma expansão cujo tema seria controlar etezinhos e levá-los até o centro da galáxia, sempre conhecendo mais civilizações e assustando o jogador pelo tamanho do mapa.
+
+A EA games gostou da ideia, mas disse que poderia lançar o jogo com uma condição: os monstrinhos extraterrestres não podem ter genitálias. Will aceitou, pois colocar genitálias daria um tom de estranho, ele então habilmente substituiu o sexo explícito por meros animais que dançavam créu e colocavam ovos... Isso fez a censura do jogo cair de 18 para 10 anos e tornou o jogo mais juvenil. Will, com isso, pode construir sua piscina de grana.
+
+== Spore ==
+[[Arquivo:spore-criatura.jpg|thumb|200px|Uma criatura desavisada prestes a ser <s>comida</s> devorada por dois monstros ,<s>quase</s> épicos... [[Mentira|O milagre da natureza e da cadeia alimentar]]]]
+O jogo foi lançado em 2008, e teve o nome de '''Spore''' em homenagem ao <s>tamanho do pau de Will</s> começo de toda criatura evolutiva.
+
+Qualquer um que jogar Spore e também já ter jogado algum jogo que foi criado por Will Wright, vai notar diversas semelhanças com o The Sims e Sim City. Mas na verdade todos os estágios do jogo são um '''plá-gio'''! Vamos conhecer melhor essa [[Marcelo Tas|bagaça]].
+
+O jogo é de estratégia, mas mostra sinais de que é ultrapassado e um jogo nada inteligente... Tudo que você tem que fazer nos estágios criatura, célula e tribal é comer e ficar mais forte para foder os grandões (atenção que o verbo "foder" signifca caçá-los). Os criadores do jogo se justificam, falando que não gastaram 4 anos à toa, enrolando o jogador com várias expansões de The Sims mal feitas e Sim Citys que só adicionam casinhas novas.
+
+Os criadores falaram que contrataram os melhores desenhistas, modeladores gráficos e artistas do mundo inteiro para desenhar cada parte do Criador de Criaturas... Mas nem assim, já que até crianças de 8 anos criavam partes mais criativas que aquelas.
+
+Outra coisa polêmica do Spore é que ele possui objetivo (!). Uma surpresa para os jogadores errantes do The Sims e do Sim City que estavam acostumados a possuir jogos sem objetivo nenhum, aonde a única diversão era explodir uma cidade inteira ou então matar pessoas em uma casinha virtual. Continuando, o objetivo do jogo é chegar até o centro da galáxia, aonde supostamente se encontram os grox, a raça mais temida do jogo e também a qual todos se cagam de medo só de ouvir o nome.
+
+===Níveis de dificuldade===
+Como todos sabem, desde o primeiro jogo de videogame, sempre existiu pessoas que eram piores em certos jogos e outras que eram tão boas que achavam o jogo muito fácil.
+
+Spore é um dos poucos jogos em que a diferença entre os níveis "Fácil" e "Normal" são praticamente nulas, e sendo que o modo "Difícil" faz com que qualquer jogador leve uma hora (ao invés de um minuto) para chegar ao Estágio Sspacial.
+
+Vamos ver os três níveis de dificuldade e suas características...
+
+====Fácil====
+[[Arquivo:spore-feio.jpg|left|thumb|200px|O Spore é o único jogo que mesmo você fazendo uma criatura feia pra C*****, ela ainda ficará fofinha]]
+O modo fácil é frequentemente escolhido pelas pessoas que não sabem o que é um jogo de computador ou então acham que o Spore é um jogo difícil...
+
+No Estágio Célula na dificuldade fácil, você pode ver um filminho e em seguida já ganhar uma arma para evoluir o bicho. O estágio pode ser terminado em menos de [[Oito|8 <s>segundos</s>minutos]] por pessoas que já jogaram pelo menos no modo fácil até o estágio espacial...
+O Estágio Célula no modo fácil vem com menos 15 monstros fortes e a maioria são herbívoros que não tem nem espetos... Não é à toa que todas as mortes de lá são nulas, fazendo o jogador iniciante achar (só achar) que é o melhorzão.
+
+No Estágio Criatura, a desgraça se repete. Todas as criaturas gostam de você, e você pode atacar várias criaturas e mesmo assim sair ganhando... A única coisa que falta é fazer a criatura gigante ser sua amiga.
+No estágio criatura existem 10 ninhos de pré-criaturas, que muitas vezes são consideradas os paga-lanches desse estágio; Jogando no fácil é possível virar o jogo em menos de meia hora.
+
+O Estágio Tribal é o que possui menos impacto em relação às dificuldades. Todas as tribos são neutras e além disso, as criaturas épicas ficam quilômetros de distância da sua tribo, assim acaba sobrando para as tribos adversárias.
+
+No Estágio Civilização, também não há muita diferença... Você pode ser uma civilização militar <s>sem ser atacado por outras nações</s> sendo atacado apenas por épicos e religiosos e você também consegue ganhar megabombas para destruir os inimigos mais fácil. Jogando no fácil, dá pra passar esse estágio em menos de <s>1</s> meia hora.
+
+O Estágio Espacial mostra a verdadeira mudança por trás dessas dificuldades. Primeiramente, você pode fazer amizade com os Grox mais facilmente, consegue molhar a mão de outros impérios mais facilmente e além disso, eles ficam amigos de você até dando só 10.000 sporegranas! Não existe um tempo estipulado para término do estágio, mas se usar trapaças o tempo pode abaixar de dias, para <s>minutos</s> horas.
+
+===Normal===
+[[Arquivo:spore-olha-pra-mim.jpg|right|thumb|200px|[[Ironia|Olha só a fofura que pode se achar no jogo!]]]]
+No Normal já se pode ver uma pequena... Não! {{fakelink|Minúscula|Minúsculo é o tamanho do seu pau!}} diferença do fácil. Aqui já é possível um pequeno preview do difícil, mas muito pequeno mesmo, <s>do tamanho do seu pau</s>.
+
+No Estágio Célula, o jogador ainda ganha o espeto para evoluir a criatura no começo e pode sentir uma certa pressão em relação que o jogo deixou novas células para te [[Sexo|comer]] (ui!) e que agora existem correntes marinhas que podem te levar longe da comida e ir até a boca de uma célula épica.
+
+No Estágio Criatura não existe também muita diferença. Apenas que alguns onívoros e poucos carnívoros serão seus inimigos e você não pode conversar com eles...
+
+{{c|Uiiii... Que bicha revoltada!|Alguém|as criaturas hostis}}
+Pois é, quem estava acostumado a jogar no nível fácil, não vai gostar do normal, pois existem até 6 criaturas épicas e também as chances de morrer aumentam... Finalmente a justiça foi feita! Todos os ossos para desbloquear partes ficam "coincidentemente" na toca da criatura épica.
+
+No Estágio Tribal não muda porra nenhuma, pois como sempre, a Maxis criou esse estágio só para encher linguiça e deixar o jogo mais pesado no seu computador.
+
+No Estágio Civilização é mais difícil as outras tribos gostarem de seus presentes, com altas possibilidades de eles ficarem desconfiados de você e mais tarde até te atacarem! Daí não adianta chamar eles de traidores já que você comprou os mísseis pra eles!
+
+No Estágio Espacial, existem algumas diferencias pequenas, como o nível de combustível estar no nível <s>perigosamente baixo</s> <s>cheio</s> metade em apenas uma viagem e também os seus aliados podem se aproveitar de você e ficarem pedindo sua ajuda o tempo inteiro. As chances de você morrer aumenta em +50% nesse estágio e se forem piratas +99%.
+
+===Difícil===
+[[Arquivo:godzila-épico.jpg|left|thumb|200px|Uma batalha de monstros épicos, disputando quem [[Gay|come você]]]]
+A única dificuldade em que o Spore fica na fronteira entre "jogo para crianças" e "jogo sério". No nível difícil, você realmente sente que está jogando e até parece - mas só parece - que você está fazendo algum esforço para conseguir virá-lo. Outra coisa que leva ao jogador a jogar nessa dificuldade é que você ganha alguns prêmios que te definem "Criatura de Ferro", "Tribo de Aço" e assim por diante. Mas tudo isso por você ter terminado cada estágio no difícil.
+
+No Estágio Célula, parece que o jogo fez uma [[Sexo|sacanagem]] com você, pois ele foi da água para o vinho (ou o contrário). Agora existem correntes marinhas fortíssimas, aumentou o número de criaturas fodas e além disso você não ganha mais tudo de mão beijada... Outra coisa é que as criaturas herbívoras praticamente não existem mais, e você é a única opção dos carnívoros como comida ([[Gay|esse Will Wright deve ter alguma coisa escondendo de nós]]).
+
+No Estágio Criatura é a mesma coisa. Existem agora [[mais de oito mil]] criaturas épicas, para desbloquear partes é extremamente difícil, o número de carnívoros dobra e além disso todos os carnívoros odeiam você. Parece que toda a dificuldade dos níveis anteiroes foram passadas para esse nível, não acha? <s>Não...</s>
+
+Como sempre, no Estágio Tribal não muda nada, só muda que todas as tribos odeiam você e etc. É só mais uma desculpa da Maxis... Quase ia me esquecendo que as tribos são formadas pelas próprias criaturas que você criou, e ele sabe que você criou criaturas muito fortes. Sabe o que isso significa? FAIL!
+
+No Estágio Civilização tudo fica difícil também. Primeiro é que metade dos seus lucros são cortados e que os adversários (ou até mesmo seus aliados) irão pegar todas as suas fontes de especiaria e eles poderão começar a pedir para você entrar em guerra contra outra nação em troca de amizade, não em troca de dinheiro!
+
+O Estágio Espacial, por fim, é a pior parte do nível difícil! Primeiro é que todos os impérios ao seu redor ficarão cobrando dinheiro de você para eles não te atacarem ou então cobrando o dízimo se for um império religioso. Mas com certeza, o que fará mais impacto no seu jogo é quando você conhecer [[os Grox]]! Eles ficarão ofendidos até quando você der dinheiro para eles. E se você cometer a cagada de entrar em guerra contra um império (mesmo que ele ainda esteja no Estágio Tribal) dê adeus ao seu planeta de origem e colônias pois sua nave tem apenas <s>2</s> 300 pontos de vida...
+
+De qualquer forma, boa sorte neste estágio...
+
+===Editor===
+[[Arquivo:criatura_penis.jpg|right|thumb|200px|Como íamos dizendo, o que vale é a criatividade...]]
+Realmente, os editores do Spore são lugares aonde você pode desafiar a imaginação de outras pessoas, para ver se você consegue ser elogiado ou ser chamado de mais criativo por causa da criatura que você criou. Ou então, você pode testar suas técnicas de plágio, e começar a plagiar todas as criaturas do jogo, e quando você cansar, pode começar a plagiar também as criaturas dos outros... Não é tão difícil achar algum plágio na Sporepédia.
+
+Lembre-se que para ser original, precisa ser polêmico. Por isso, quando quiser criar uma criatura, e quer que ela vire febre na Sporepédia, faça uma criatura com genitálias. Sim, faça um piruzinho naquela criatura bem fofinha e em particular, [[Gay|feminina]]... Existem várias opções, você também pode fazer uma criatura afeminada, cor-de-rosa e com direito a pom-pom no rabo! Embora isso não seja tão original, pois 40% das criaturas do Spore parecem gays demais para abrigar os dois sexos.. Isso também vale na Sporepédia! Por isso, se você ainda não comprou o jogo, avise seus parentes que é homem ou [[Sexo|pratique qualquer coisa que o faça homem]] antes de jogar o jogo e ser levado [[Bicha|para coisa pior]].
+
+== Estágios do jogo ==
+[[Arquivo:pedospore2.jpg|thumb|200px|left|Spore expandido-se a outras áreas]]
+O jogo possui estágios, pois se trata de um jogo sobre "evolução da espécie". Como já era de se esperar, existem estágios com mais conteúdo que os outros, e também outros que são mais longos. Parece que os produtores tiveram que deixar mais espaço para o último estágio... Mas quem se importa! É muito comum você ouvir de fãs que queriam um Estágio Criatura maior e que o estágio civilização parecesse mais com o [[Sim City]]. Mas quem define as coisas é a EA e pronto, e ainda mais: sempre, mas eu digo, SEMPRE os produtores vão dar mais atenção para o The Sims do que para o Spore, por isso 90% dos jogadores de Spore se sentem negligenciados.
+
+São 5 os estágios que representam a <s>gay</s>volução de sua criatura.
+
+===Célula===
+[[Arquivo:Tevez1.jpg|thumb|<s>Criatura</s> feiura se desenvolvendo na água]]
+*'''Plagiado de:''' [[Pac-man]] e [[Jogo da cobrinha]].
+
+Provavelmente um dos estágios mais simples e também mais idiotas do jogo. Tudo o que você tem que fazer é escolher se sua célula será carnívora ou herbívora, e dependendo de sua escolha sair por aí se alimentando e engordando para flutuar até a superfície.
+
+Seus inimigos nesse estágio vão de cubos celulares até celulares da Nokia, que são mais fortes e consequentemente podem dar choques ou até fritar você, assim como eles fazem com um ovo. O objetivo nessa fase é comer coisas, engordar e ir ficando maior. Logo de cara, já é possível ver seu futuro caso não coma: enquanto o jogo dá aquele tutorial básico para crianças de 4 anos, uma célula negona come (ui!) uma célula desavisada. O nome daquela célula é ''Marrhius do Armarrhius'' que será sua inimiga principal em certos tempos, podemos também encontrar as células mais  desenvolvidas que dão (ui!) novas partes para você.
+
+Nesse caso, existem as células azuis de 100 reais e 100 pontos de ataque e 100 qualquer coisa que possa te prejudicar, as células de 20 reais que são amarelas e de força mediana e a célula de 1 real que nem existe mais, que seria você nesse mundo imenso celular. Quando você conseguir todos os pontos de DNA suficientes para evoluir, sua criatura pode ter morrido 30 vezes, e quanto mais mortes, mais manchas negras em seu histórico. Para se salvar, uma boa estratégia é acasalar com outra célula e assim, quando você morrer irá nascer já com seus poderes.
+
+Para passar para o Estágio Criatura, coloque pernas no seu animal e se você gosta de criaturas de um olho só, preserve algumas partes da sua célula, pois os criadores do jogo não se deram ao luxo de criar olhos bonitinhos para as criaturas.
+
+===Criatura===
+[[Arquivo:criatura-de-mil-olhos.jpg|left|thumb|200px|Olha só a <s>aberração</s> <s>criatura linda</s> coisa que o jogo fez!]]
+*'''Plagiado de:''' [[The Sims]] e [[Dog's Life]] (pelo mais incrível que pareça).
+
+Você acaba de emergir das águas com sua criatura decrépita e totalmente nojenta (e de formato fálico) para começar a fazer alianças e ser um predador.
+
+Uma das partes mais interessantes do jogo, o Estágio Criatura faz com que sua espécie tenha um ninho, e você tem o trabalho de recolher partes para evoluir e criar alianças com amigos para caçar e ganhar medalhas. Nesse estágio você começa a conhecer as zilhões de espécies que a Maxis criou e também sem falar dos ninhos que parecem ser formado apenas por fêmeas.
+
+Uma curiosidade sobre esses ninhos de fêmeas é que o movimento feminista acontece até no outro lado da galáxia, alguns fatos é que intriga os fãs é: Como raios um ninho só de fêmeas tem filhotes? Simples: a resposta está em seu próprio ninho. Quando você vai se acasalar quem é que bota o ovo? Você certo? Então isso prova de que você é a fêmea! E como não existe penetração e muito menos sexo no jogo, não é necessário machos para ocorrer a reprodução! Isso explica porque existem filhotes em ninhos de fêmeas. Aliás, acontece a mesma coisa com animais que tentam ser machos demais... Sabe do que eu digo? Daqueles gorilas ou sapos fodudos demais para serem fêmeas, eles também tém filhotes, [[Sexo anal|só que é por outros meios]].
+
+Mas também existem as criaturas-destaque do jogo: As criaturas épicas e as criaturas criminosas. As criminosas se tratam de espécimes normais só que com 250 de vida e um pouco maiores; elas conseguem exterminar um ninho inteiro em poucos segundos e sozinhas. Por serem animais solitários, é fácil se aliar delas e mais tarde, usá-las como "guardas-costas". Tenho certeza absoluta de que você conseguirá tudo o que quer até <s>ela te comer</s> o estágio acabar.
+[[Arquivo:ciratura-épica.jpg|right|thumb|200px|Uma fofíssima criatura épica e sua elegência]]
+Agora, as criaturas épicas são o tipo mais forte de criaturas encontradas no jogo inteiro. São animais assustadoramente gigantescos com 70 vezes o seu tamanho... Criaturas assim costumam te matar em um golpe e também são muitas vezes assustadoras e intimidadoras, mesmo com algumas excessões que seriam as criaturas épicas afeminadas. Obviamente, é impossível se aliar a elas.
+
+O jogo recomenda que se observe criaturas épicas de longe, e isso é regra. MAS como se diz aquele velho ditado, "regras foram feitas para serem desrespeitadas". Todo jogador [[Grêmio Prudente|prudente]] atrairia a criatura para seu ninho e enfrentaria com seus camaradas ela até o a sua espécie <s>ser exterminada e virar comida</s> sair vitoriosa e poder apreciar a carne de 9 meses da criatura épica. Mesmo provando ser um exímio jogador, matando uma criatura desse tipo ([[Ou não]]), milhares de desvantagens irão se abrir depois da morte do principal predador de lá, fará com que todas as criaturas te odeiem.
+
+Ao terminar o estágio, aparecerá um  filminho [[Árabe|à la]] The Sims, e mostrará que sua criatura descobriu o fogo e que formaria uma nova tribo. Assim você passa para o Estágio Tribal...
+
+===Tribal===
+[[Arquivo:criatura-roxa.jpg|thumb|200px|left|Olha só que coisas fofas você pode achar nesse game!]]
+*'''Plagiado de:''' [[Populous]]
+Um estágio bastante <s>inútil</s> curioso do jogo. O seu bichinho irá aparecer com uma nova cabana e também você terá que colocar coisas para ele vestir e etc.
+
+Aproveite para não fazer a cagada de deixar sua raça alienígena de quatro (ui!), será a última vez que você poderá modificá-la e depois não poderá voltar para trás. Tudo o que você tem que fazer é atacar ou ficar amiguinha das tribos adversárias... Eis a prova de outro estágio que não é dotado de muita inteligência e estratégia. Logo na primeira missão, você deve atacar ou ser amiguinha da tribo de determinada cor e depois surgem novos sabores para conquistar ou simplesmente ficar amiguinha.
+
+Olha só as criaturas épicas de novo! Elas atacam outras tribos que você pode olhar tranquilo e com desprezo elas sendo exterminadas. As criaturas épicas se tornam mais fáceis de serem destruídas no Estágio Tribal, já que você tem 5 criaturas da sua tribo te escoltando <s>seu covardão!</s> e isso sem contar de que cada um tem 100 de vida.
+
+Um bom passatempo nesse estágio é você ficar atacando ninhos de criaturas inocentes que não tiveram a mesma oportunidade de evoluir como você. Nesse estágio você compensa toda a covardisse do Estágio Criatura e coloca em ação o sentido predatorial... Mas também é possível domesticar as criaturas e elas te ajudarem a defender sua vila.
+
+No final, quando você ter conseguido conquistar todas as tribos, você vai ter inteligência para construir <s>uma bicicleta</s> um carro ou tanque de guerra, e assim montar sua própria cidade.
+
+===Civilização===
+[[Arquivo:will-e-seu-planeta.jpg|right|thumb|200px|Will fazendo pose ao lado de seu planeta.]]
+*'''Plagiado de:''' [[Civilization]] e [[Sim City]]
+Após você ter criado o transporte, você definirá como ele será! Agora você pode criar desde um tanque de guerra de [[Pênis|formato fálico]] até um tanque de guerra disfarçado como um caminhão de sorvete! Ou como se diz a frase mais popular usada em markenting de puteiros, [[Puta|quem manda é você!]]
+
+Após criar seu veículo, você pode ter notado de que você obteve três ideologias. Elas são:
+
+*'''Civilização militar'''
+
+Se você é uma civilização militar, significa que durante o Estágio Tribal você sempre atacava seus adversários, e provavelmente você também fará o mesmo com o resto do mundo <s>se for louco o suficiente</s>. Civilizações militares possuem armas, mísseis e outras táticas de combate à disposição. Quer conquistar uma cidade sem as torres inimigas dispararem? Use uma nuvem poluidora de chuva ácida! Você é do tipo "ditador-bush"? Jogue uma bomba na cidade vizinha e tome todas as fontes de energia deles e seu petróleo também!
+
+Civilizações do tipo militar podem ter líderes malucos, tanto que toda a população é formada por militares, e você pode até ver seus monstrinhos usando rifles para treino. Outro fato é que civilizações militares mais tarde se tornam as civilizações mais ferradas no Estágio Espacial, saiba mais na próxima seção.
+
+*'''Civilização religiosa'''
+
+Civilizações religiosas podem levar ao seu império ser um fanático ou então virarem um império ecológico. Na opinião de jogadores brutos (isto é, 90% dos jogadores), as armas desse tipo de civilizaçãosão são muito fracas por apenas tornar as pessoas [[Emo|depressivas]] e fazer assim que o povo inimigo se submeta a pagar o dízimo todo dia e nunca deixar a sua civilização na mão.
+
+Civilizações desse tipo têm estratégias fracas porque, na maioria dos casos, o melhor jeito de anular ataques de civilizações religiosas é colocando estruturas que deixarão os cidadãos felizes, e isso deixa a estratégia ser muito ruim. 
+
+Outra coisa que muitos jogadores frequentemente reclamam de civilizações religiosas, é que quando você está "convertendo" uma cidade, você não pode ver o nível de ação, ou destruição... Já que as armas só servem para torná-los infelizes.
+
+*'''Civilização econômica'''
+
+A típica civilização capitalista do jogo, tem que se ter muito esforço no estágio tribal para criar uma civilização economica... A única maneira de você conseguir conquistar cidades é comprando-as, e você tem que esperar séculos até que as cidades decidam em ser vendidas a preços tão altos, que você terá de esperar mais alguns séculos para adquirí-la. E também, isso sem falar das altas possibilidades de ser atacado por alguma outra nação militar ou econômica!
+
+É uma civilização bem neutra, e também que faz aliados com maior facilidade... Mas lembre-se, aliar-se é diferente de comprar cidades, o que seria considerado conquistar.
+
+
+Após você ter conquistado todas as cidades ao redor do globo, é hora de ficar empolgadinho para a parte do jogo que todos estavam esperando... A espacial!
+
+===Espacial===
+[[Arquivo:spode-spore-spuma.jpg|left|thumb|200px|Isso sim é uma relação perigosa...]]
+*'''Plagiado de:''' [[Star Wars]] e [[Gradius]]
+
+Agora, você cria sua nave <s>ou plagia alguma do jogo</s>, e começa a aprender os comandos em um tutorial básico e também inútil... Mas após você dar uma só voltinha pela nave, já é promovido de cadete à capitão! Quantos anos se passaram após ter dado uma voltinha no planeta? Bem, continuando, eles pedem para você examinar o planeta próximo ao seu.
+
+Aí começam as missões de verdade! Você acha uma nave que caiu naquele planeta porque o piloto era um barbeiro... Então você analisa e volta para o seu planeta, no seu planeta eles dizem que aquilo era uma nave que caiu e que o sinal de ajuda era para um planeta '''"coincidentemente"''' vizinho ao seu sistema solar. Você chega até o planeta e acha rastros de uma civilização destruída, e começa a surgir um diálogo no rádio:
+
+{{c|Atenção todos os GROOOOOX serão liquidados!|Sistema de defesa|você ser a civilização mais <s>fudida</s> foda do universo (até parece)}}
+{{c|Nós não somos os GROOOOOX!|Você ao negar citação acima}}
+{{c|Ativando sistema Grox666, todos os invasores grox serão eliminados!|Sistema de defesa|você ser eliminado}}
+{{c|<s>Ai tô com medo!</s> Não somos a merda desses Grox!|Você|não serem os malditos Grox}}
+{{c|Grox e bla, blá, blá...|Sistema de defesa|???}}
+
+Após isso, vai aparecer 3 naves fracotes para tentar destruir a sua nave, pensando que você é um Grox. Bem, após você ter destruído as 3 naves, vai descobrir como foram facilmente exterminados... Só observando a saúde das naves e sua não tão incrivel precisão de mira.
+
+Você volta para o planeta e eles te mandam ordem de explorar o universo sem fazer nada ou então fazendo inimigos para superar os Grox, que o jogo inteiro, ficam sendo citados como fodões e grandes saqueadores de planetas. Eu não queria fazer spoiler, mas vai ter uma missão em que você vai ter que espantá-los de um planeta seu... Aposto que você vai ter um "infarto".
+
+Quase iria me esquecendo! A sua missão é ter o maior posto de viajante e também chegar no centro da galáxia, aonde está o grande mistério do jogo, e que mudará toda a sua vida após assisti-lo... Existem vários tipos de impérios, você pode começar como errante se entrar no jogo espacial direto.
+
+*'''Império Bardo'''
+[[Arquivo:willwright12.jpg|right|thumb|200px|{{c|Seu idiota! Você não devia ter se aliado com os Grox!|Will|sua incompetência}}]]
+Impérios bardos são considerados amistosos e artistas no universo. É muito raro você achar um império bardo e não confundí-lo como um império religioso... Podem ser considerados meio fru-frus, pois eles encaram a galáxia como uma tela branca, e que o dever deles é deixar todos os planetas [[Gay|coloridos, cheios de vida e com serezinhos saltitando por aí.]]
+
+Desde que eu entendo de bardo, eles eram pessoas que faziam armadilhas e comiam (ui!) seus oponentes após ele serem capturados... Ou então eu devo estar confundindo com os vikings, já que os bardos só gostam de plantas e [[Inglaterra|chá das cinco]].
+
+A habilidade especial é a canção calmante que é para acalmar os impérios que tratam os bardos feito [[Paga-lanche|paga-lanches]]. Essa habilidade é similar ao de um herbívoro no Estágio Criatura, uma simples réplica do "canto de sereia".
+
+*'''Império Ecologista'''
+Ecologistas são odiados pelos impérios econômicos que tem como misssão destruir planetas para aumentar suas rotas comerciais. Esses impérios sempre te perturbam para que você não construa uma colônia em um planeta cheio de vida para comercializar especiarias, e assim aumentar a poluição etc.
+
+Outro fato é que são considerados impérios tão chatos quanto os impérios fanáticos, e o simples fato de deixar uma criaturazinha se espatifar no chão e matá-la é um motivo de guerra ([[Ou não|ou eles devem estar certos...]]).
+
+A habilidade especial é um pouco útil em missões de análise, o nome é Aspirador Safári e faz um arrastão no planeta, fazendo com que abduza todas as criaturas de um único planeta. Embora possa comprometer sua carga, pois sua nave estará mais pesada e aumentará as chances de ser pego por um buraco negro.
+
+*'''Império Fanático'''
+
+Muito odiado pela maioria dos impérios econômicos e talvez dos impérios que eles cobram o dízimo... Sim! Esse império cobra o dízimo de aliados, e o dízimo que é altíssimo vai direto a pregação da palavra do [[Spode]], o deus misterioso da galáxia e do universo. 
+
+A pregação desses impérios funciona assim: Primeiro eles perguntam para você se aceita a palavra do Spode, dependendo da sua resposta eles podem pedir para que você elimine terroristas que querem acabar com seu culto. Mas isso pode acontecer apenas se você aceitar a "palavra do Spode", se você dizer que não é um evangélico espacial, a reação poderá depender do nível de fanatismo que eles possuem: Eles podem apenas fazer uma ofensa ou então declarar guerra... Mas como eu disse, depende do nível de fanatismo.
+
+O Furor Fanático é a habilidade especial deles. Simplesmente toma o controle de algum planeta por meio da religião ou da palavra do Spode. Pode ser uma habilidade útil para chegar no centro da galáxia e conhecer o Spode.
+[[Arquivo:amizade-épica.jpg|left|thumb|200px|Uma rara [[Casal gay|amizade]] de uma criatura épica com uma criatura normal]]
+
+*'''Império Diplomata'''
+Diplomatas só conseguem fazer aliados porque não coseguem fazer nada direito, prova disso é que eles conseguem apenas solucionar o problema dos outros, ao invés de solucionar os próprios problemas. São impérios do tipo "leva-chumbo" que são atacados frequentemente por impérios guerreiros.
+
+O desejo de fazer a amizade com todo mundo pode render o extermínio para o seu império. O tipo de jogador que acha que pode fazer amizade com todos é porque não conhece os Grox e também não sabe o que pode acontecer caso você vire amigo deles...
+
+Prendedor estático é a habilidade especial desses impérios. A habilidade é extremamente útil para defender planetas, pois lança um raio que atordoa torres, pessoas e naves de todo o planeta... E mesmo assim eles são considerados um império pacifista...
+[[Arquivo:darwin-jogava-também.jpg|thumb|200px|[[Charles Darwin|Darwin]] criou a teoria da evolução jogando Spore.]]
+
+*'''Império Cientista'''
+Para quem achava que nesse jogo poderia ter um sossego dos cientistas, pode estar enganado! Cientistas gostam de estudar tudo, dão missões para você analisar plantas e abduzir pessoas de outros planetas e seu maior sonho é exterminar todos os fanáticos.
+
+Impérios cientistas são simples, pois o único propósito deles é estudar a galáxia e ficar morrendo de curiosidade do que tem no centro dela (ui!). Mesmo sabendo que existe um buraco negro lá e que aquilo pode mostrar que tudo o que aprenderam [[Burro|não está certo]]...
+
+A habilidade destruidora que os cientistas tem é de destruir todas as estruturas do planeta. É eficiente em missões aonde você tem que destruir torres e também é eficiente para destruir colônias inimigas.
+
+*'''Império Comerciante'''
+
+Impérios comerciantes existem mais que árvore, ou falando em língua sporeana, comerciantes existem mais que planetas do tipo T1. Comerciantes podem ser pacíficos, do tipo que gostam de você apenas porque você gasta dinheiro com eles, mas também existe os comerciantes que te tratam como paga-lanche e ficam te jogando ameaças do tipo: "Se você não pagar 500.000 agora, seu império não estará seguro..."
+
+Os malucos por dinheiro só fazem alianças com sporegranas, o dinheiro galáctico que é tratado como um deus por eles. Para comerciantes eles barganham com você, tentando fazer você trocar sua nave por um calhambeque velho (mesmo que no fundo não haja diferença) e também querem chegar ao centro da galáxia para aumentar os lucros e a fama dos negócios e [[foda-se]] os impérios religiosos! O grande sonho dos comerciantes é construir um megashopping em cima do centro da galáxia e usar o robô steve como mascote de propaganda.
+
+A habilidade especial dos comerciantes é injetar dinheiro em rotas comerciais para aumentar o progresso de compra do sistema solar.
+
+*'''Império Xamã'''
+
+Impérios xamãs acham que a galáxia existe dentro de todos nós e que devemos compartilhá-la. Vários impérios xamãs discutem com impérios fanáticos, enquanto os fanáticos pregam que a palavra do Spode é o certo e que o segredo está no centro da galáxia, os xamãs negam tudo e dizem que o Spode é um falso deus e que no centro da galáxia existe um enorme buraco negro.
+
+Essa guerra entre os dois tipos de impérios nos faz lembrar daquele ditado: Em uma guerra só existem perdedores... É verdade no caso deles. A habilidade especial dos xamãs é excelente: faz com que você volte para casa através de um <s>chá de cogumelo</s> de um vórtex que o suga (ui!).
+A habilidade é mais propriamente usada quando acabar o combustível ou então fugir no meio de uma guerra... Habilidade para deixar todo mundo na mão na última hora!
+
+*'''Império Guerreiro'''
+
+Os impérios guerreiros só não são vistos frequentemente porque desapareceram ou então estão entrando em decadência, impérios desse tipo sempre falam que você está com medo quando você pergunta sobre a filosofia deles, e sempre falam que são mais fortes e que têm mais determinação. Quer saber qual a frase mais típica deles?
+
+{{c|Nós só não podemos derrotar um império e não é o seu (claro!)|Povos guerreiros|os Grox}}
+Adivinha a quem eles estão se referindo? Sim estão se referindo aos temíveis [[OS Grox|Grox]], que conquistaram uma parte desse artigo e obrigaram a criar uma sessão falando só deles.
+
+Voltando, povos guerreiros acham que a galáxia é um prêmio que deve ser conquistado pelo mais forte, se fosse assim, os Grox já teriam liquidado todos os povos em cada canto da galáxia. Guerreiros podem tomar coisas sem pedir para você, roubar colônias, especiarias etc.
+
+A habilidade dos guerreiros é comandar um ataque de piratas no planeta e assim [[Estupro|saqueá-los com mais facilidade]].
+
+*'''Império Errante'''
+
+Os impérios errantes são todos os povos que não escolheram o que ser para não receber um ataque, ou então para ficar insultando os outros. Sim, povos errantes gostam de fazer piadas, serem escravos de civilizações econômicas etc. No geral, civilizações assim agem feito mendigos e simplesmente estão largados na galáxia... E ainda por cima mandam missões toscas para você: ''"Elimine todos os robôs que contam piadas sem graça", "Faça guerra com um amigo nosso, vai ser a maior peça da galáxia (até parece...)", "Aiiiii!!! Quero um dubla, acho que vou tingí-lo de roxo!"
+
+Impérios errantes não possuem habilidades por serem preguiçosos ou por não saberem fazer nada. Manobram a nave embriagados e sempre acabam colidindo com um planeta. Há quem diga que a nave que você acha em sua primeira missão era de um povo errante... Mas são apenas boatos.
+
+*'''Império Cavaleiro'''
+
+Cavaleiros sarcasticamente são extremamente raros, e podem ser confundidos com povos errantes, pois negam qualquer tipo de dinheiro pois lutam por besteiras como "paz" e "união"... O jogo foi feito para guerrear! Quem liga para essas bobagens?? Mesmo assim, caveleiros fazem missões de outros impérios com maior desempenho.
+
+A habilidade especial é invocar um <sub>mini-u</sub>, uma espaçonave <s>fracote</s> que te ajuda durante ataques.
+
+===Estágios deletados===
+Estágios que o Will deletou, pois na hora a grana apertou e eles tinham bugs imensos que faziam sua criatura parecer a Alcione.
+
+*'''Estágio Molecular'''
+
+Esse estágio conseguia encher mais linguiça que o Tribal, vinha antes do Estágio Célula e era um Tetris mais sem graça que as piadinhas do seu tio (é pá vê ou e pá cumê?), representando a junção de moléculas para formar uma célula e outros papos chatos.
+
+*'''Estágio Aquático'''
+
+Maior encheção de linguiça de novo, estágio idêntico ao de criatura, só que no mar, com a Barbie e as sereias. Will disse que futuramente irá colocar uma expansão disso no Spore, onde as gurias retardadas (e você) vão correndo para as lojas comprar seu novo joguinho.
+
+*'''Estágio Cidade'''
+
+Como todos os outros, seria feito somente para deixar seu jogo mais pesado e foder sua placa de vídeo toda. Igual ao estágio civilização, só que onde você se dedicaria a agricultura, pecuária e possivelmente zoofilia.
+
+*'''Estágio Terraformação'''
+
+Will, mais uma vez, mostrando que sabe criar jogos criativos que mudam de estratégia toda hora, cria um super estágio onde você paga de Greenpeace e tem que cuidar de seu planeta fodido que você mesmo fudeu no Estágio Civilização. Serviria como última tentativa dos fãs de Spore se enjoarem do jogo, perto de seu fim e se converterem a jogadores de The Sims. A grana de Will e os diversos bugs bizarros acabaram fazendo um dos seus golpes falharem.
+
+== Steve e o centro da galáxia ==
+[[Arquivo:steven-steve.jpg|left|thumb|Steve se apresentando no Spore... Não olhe para a imagem se você ainda não chegou no centro da galáxia!]]
+Tudo vira uma bagunça quando você chega no centro da galáxia... Longe de casa, você precisa passar dos Grox para conseguir entrar lá e descobrir o porquê de tudo aquilo [[Lobão|etc. e tal]]. Você consegue passar tudo, entra no centro da galáxia e você encontra Steve, um robô ou uma sonda que fala inglês. Eis a prova de que o governo dos EUA tem relações com ETs! Steve fala inglês e muitos jogadores acham que ele é humano...
+
+Steve te dá o cajado da vida que pode deixar um planeta [[Gay|colorido e cheio de vida]] ao jogador... Steve pode ser o falso deus que os fanáticos e os xamãs falam tanto, dizem que steve é humano, pode ser humano, é uma sonda de humanos, fala língua de humanos ou é apenas um mensageiro do Spode.
+
+Também, o que reforça que Steve é apenas mensageiro do Spode é que a voz cavernosa que fala no núcleo da galáxia possa ser o Spode, e Steve o mensageiro... Vai saber, Steve pode ser apenas uma homenagem ao outro nome que Will teria se nascesse menina, e Will achou um bom nome para colocar em um disco voador que apareceria no Sim City 2000.
+
+===O cajado da vida===
+O cajado é algo [[Cu|que Steve dá para você]] assim que o encontra, ele fala algumas besteiras sobre poder dessa arma etc. Quando consegue ela, você pode <s>destruir</s> dar vida a um planeta inteiro, ou como Steve disse ''"Acho que isso será extremamente útil contra uma CERTA civilização"''... Acho que você já deve saber de quem ele está falando.
+
+===As especiarias=== 
+Plagiado de: [[Power Rangers]] e [[Paintball]] (DUH!)
+Para quem não sabe, existem tantos tipos de especiarias diferentes que é possível criar uma enorme equipe de Power Rangers. E muitas das especiarias podem ser raras e difíceis de conseguir e possuem funções diferentes. O valor delas aumenta dependendo dos tipos de impérios a que você vende elas.
+
+*'''<font color=red>Especiaria vermelha:</font>''' A especiaria vermelha ([[Suco de limão que parece tamarindo e que tem gosto de groselha|que parece laranja e tem gosto de magenta]]), também conhecida como Especiaria Sazón, é a mais comum de todas e também é a mais fácil. Você tem todo o direito de chamá-la de especiaria de pobre, já que apenas impérios pobres pagam alto por ela. Essa especiaria serve como um tempero para carnes, e podem é também o tipo de especiaria que você começa a comercializar.
+
+A especiaria vermelha deve ser vendida para impérios mesquinhos e pobres. Impérios que foram atacados pelos Grox também são uma boa opção.
+
+*'''<font color=yellow>Especiaria amarela:</font>''' Outra especiaria muito comum, a famosa Especiaria Covarde, a amarela já não tem fama de especiaria de pobre, mas sim especiaria de muquiranas que não desejam gastar muito para a mesma ser produzida em suas colônias. Sua função é indefinida, mas ela serve para peso de papel e também para segurar portas.
+
+Essa especiria pode ser vendida para impérios científicos que querem simplesmente destruí-la com raios e outras coisas. Enfim, é uma especiaria inútil para os outros impérios que só pagam alguma coisa para ela por causa que ela parece ter algum valor.
+
+*'''<font color=blue>Especiaria azul:</font>''' Finalmente, uma especiaria rara. A Especiaria Picolé pode ser achada em poucos planetas e valem muito dinheiro, devido à sua função: fazer cidadãos [[Emo|chorarem e ficarem no cantinho deles]], enquanto seus impérios são dominados e dizimados. Por isso, a especiaria azul pode ter alto valor vendendo ela para seu próprio império ou então vendendo para impérios econômicos que querem ganhar dinheiro com produtos antitristeza (existe isso?).
+
+*'''<font color=green>Especiaria verde:</font>''' Também muito rara, a sempre bem conhecida Especiaria Tapa na Pantera, ou Especiaria DOOOORGAS MANOLO, ou ainda a Especiaria Maconhosa, essa especiria pode ser achada em planetas frios. As especiarias verdes tÊm a função de embelezamento da pele, na verdade ela é aquela máscara que [[sua mãe]] passa no rosto todas as manhãs para tentar rejuvenecer... Mas no final, o rosto pode sair deformado!
+
+Especiarias verdes devem ser vendidas para seu próprio império, que será usada por Spore Marley ou então para impérios guerreiros que procuram essa especiaria para criar bobmas nucleares. Sim, dá para criar bombas nucleares com um simples máscara para o rosto!
+
+*'''<font color=pink>Especiaria rosa:</font>''' A mais rara de todo o universo, a Especiaria Biba, a Especibiba tem um poder extremamente foderoso faz com que seu preço aumente para cada império +50.000 sporegranas por unidade! Por que tudo isso só para algo rosa? Você já deve saber a resposta: sua função é transformar uma civilização, por mais assustadora e feia que for, em uma civilização fofinha... E gay.
+
+{{c|Piada de gay de novo?|Alguém|piada acima}}
+{{c|Eu tento evitar! Mas não consigo!|Escritor do artigo|afirmação}}
+
+O que importa é que, a especiaria rosa é usada em todas as criaturas do Spore. Ou seja, cada criatura no Spore tem especiaria rosa no corpo, mas ela está sobre equilíbrio assim como os hormônios humanos. Mas, se essa especiaria rosa for montada em um míssil e jogada em um planeta, transformará todos os monstros em monstros fru-frus, como é o caso do coelho fru-fru que antes era um bicho de 10 cabeças (ui!).
+
+Venda para qualquer império essa especiaria, mas vai ter uma hora que o planeta parará de produizir essa especiaria, e todos os impérios para os quais você a vendeu irão usá-la em você... FAIL!
+
+*'''<font color=purple>Especiaria roxa:</font>''' Também rara, a Especiaria Fashion ou roxa também pode ser tão rara quanto a especiaria rosa, e ela custa aproximadamente 40.000 por unidade. Sua função? Fazer o efeito da especiaria rosa só que nas mulheres! Interessante essa especiaria não?
+
+A especiaria roxa pode ser vendia para impérios errantes, que geralmente acham que são ricos e agem feito homossexuais o tempo inteiro. A especiaria pode ser ração para dublas, um bicho muito sodomizado por esses impérios.
+
+*'''<font color=grey>Especiaria branca:</font>''' Na verdade, especiarias brancas são geradas por um bug do jogo, chamado "planeta gasoso". Você deve estar curioso qual a função dessa especiaria? Primeiro, para obter um, é necessário ocorrer o bug do planeta e instalar uma colônia no planeta gasoso. A colônia irá produzir a especiaria branca que pode ser vendida para outros impérios... Mas e sua função? Ninguém sabe a função, mas mesmo assim te dão dinheiro pelo fato de ser inútil! Ao mesmo tempo que você pode ganhar um dinheirama com ela você pode vendê-la para impérios mais sensatos que vão dar 12 sporegranas por unidade.
+
+== Os Grox! ==
+[[Arquivo:criatura-fofinha.jpg|right|thumb|200px|É por isso que os Grox odeiam todos!]]
+Os Grox são a raça mais poderosa da galáxia, que possui aproximadamente 2.400 sistemas solares dominados e que o jogo inteiro são citados como fodões e motivo de crise interplanetária. O que muito não sabem é que os Grox são na verdade um último golpe de Will Wright contra os jogadores de The Sims e Sim City.
+
+Explicando melhor, os "golpes de Will" são uma vingança dele contra seus jogos. O primeiro golpe de Will foi criar um jogo com objetivo e que não tinha [[The Sims|cristaizinhos que indicavam o humor em cima dos personagens]]... Will tinha ficado satisfeito consigo mesmo, e pensando que os fãs de The Sims iriam odiar, eles adoraram a novidade. Will bolou seu segundo golpe, no jogo você teria que controlar monstros que poderiam conquistar tribos e civilizações com tanques e naves... Dessa vez ele animou fãs de Age of Empires e de Sim City, que poderiam conquistar tudo e todos.
+
+Enfurecido, Will criou uma última tentativa de golpear os fãs, ele criou os Grox, uma raça alienígena que foi criada justamente para os jogadores sentirem medo e ficarem desanimados quando verem que eles cercam o centro da galáxia. Os jogadores não gostaram muito, mas encararam aquilo como um obstáculo... Will viu que seu último golpe tinha falhado, e então [[The Sims 3|decidiu criar algo pior e mais caro que o Spore]] para enfurecer os fãs de The Sims.
+
+Mas voltando à história, os Grox são uma civilização que "Deus-sabe-como" viraram a civilização mais foda da galáxia e que preferem guardar o segredo do centro do universo para eles. O irônico do jogo é que os produtores fazem de tudo para que você pense que os Grox têm aparência assustadora - já que você não pode vê-los - e quando você chega perto do império deles, você fica aguardando ansiosamente a imagem deles aparecer, até que aparece isto: Uma criaturinha baixinha, com orelhinhas e com olhos de criatura fofinha...
+
+{{c|Quê? cadê o monstro foda que tava esperando?|Você|a verdadeira aparência d'Os Grox}}
+{{c|Que puta falta de sacanagem!|[[Georgia Massa]]|Os Grox serem um bichinho pequeninho}}
+
+Eis o maior golpe de Will! Os Grox não são aqueles monstros que metem medo, na verdade, qualquer bichinho que você fazer é mais assustador que eles... Mesmo assim, você não sente medo até ouvir ele falar com você... É assustador a voz! Bem, as aparências enganam, mas há quem diga que no começo os Grox eram uma espécie próspera que quando achou o plutônio usou ele para explodir o planeta dos aliados, assim inventando a bomba atômica e ganhando fama de "manda-chuvas" da galáxia.
+
+Mesmo assim, se você for simpático (o que é pouco provável) poderá virar amigo deles, mas um aviso importante: Os Grox mandam missões que o põe contra seus aliados, e também, eles podem pedir para que pegue criaturas, implante o comunismo em colônias capitalistas e também podem pedir para que você roube especiarias rosas de outras colônias.
+
+'''P.S:''' Especiaria rosa é muito valiosa, por isso não pense que eles são gays ou [[Emo|algo do tipo]].
+
+Se você completar e obedecer tudo que eles mandam, você terá completado a façanha de ser amigo dos Grox, o que automaticamente estará declarando guerra a todas as civlizações da galáxia, ou seja, parece que seu planeta de origem vai ser aniquilado antes que você chegue lá! Mesmo assim, ser comunista não é tão ruim, você terá proteção máxima, poderá chegar no centro da galáxia desde que eles não notem que você os está usando.
+[[Arquivo:groxzinho.gif|left|thumb|200px|Olha como os Grox são ameaçadores!!!]]
+Claro, para o jogo compensar a perda de todos os seus amigos, criou uma medalha que possui a face dos Grox e que foi nomeada "Dançando com o demônio"... Muito apropriado com a situação em que se encontra, não acha?
+
+Até agora falamos que dá para ser amiguinho deles, e que é muito perigoso ser aliado do império mais fodudo da galáxia... Mas o que acontece quando você entra em guerra com eles? Em primeiro lugar, logo no primeiro contato eles começam te insultando e com -70 de relacionamento... Os Grox ficam mais inimigos seus de acordo com a distância da sua nave para o centro da galáxia, no entanto, se você estiver longe mais amigo e perto menos amigo. Por issso mantenha distância deles para não brigar com eles!
+
+Mas e se você quiser passar pelo império deles e chegar no centro da galáxia? Bem, digamos que você não consegurá, porque é como eu disse: são 2.400 sistemas dominados sei lá aonde. Você será destruído antes mesmo de entrar no império deles... Quando você for destruído, já estará em guerra com os Grox, e [[Guerra|eles fequentemente farão visitas as suas colônias e seu planeta natal]].
+
+Se não existissem os Grox na galáxia, todos teriam descoberto Steve, aquele robô que te recebe no centro da galáxia (espere! isso é <s>Spore</s> spoiler!) já teria conhecido todo mundo... Mas com a existência dos Grox, várias civilizações religiosas ou diplomatas se reúnem ao redor do império dos Grox para uma forma de protesto, e como já deve saber protesto significa algo feito em vão. Os impérios religiosos esperam que algum dia o império Grox caia, e que eles possam ser os primeiros a brigar para ver quem conhece o centro da galáxia primeiro.
+
+== Spore: Criaturas Medonhas & Fofinhas ==
+[[Arquivo:nucleo-da-galaxia-me.jpg|right|thumb|200px|O núcleo da galáxia... não veja isso! É spoiler!]]
+Para os fãs do Spore ficarem animados, Will gastou um pouco do seu tempo (ou seja alguns minutos) para se dedicar a criar um pacote de partes de criaturas para o Spore, o que alimenta sua criatividade e blá, blá, blá... O pacote vem com partes medonhas e fofinhas. Por exemplo, você pode fazer um dragão ossudo, a [[Preta Gil]] e até um telletubbie!
+
+Também, Will disponibilizou a criação de genitálias para distinguir animais de machos e fêmeas, mas isso não fez muito sucesso, já que os bichos botam ovos mesmo... O importante é que a expansão foi criada para encher linguiça dos fãs e fazê-los comprar mais partes para equipar suas cirauturas.
+
+== Spore: Aventuras Galácticas ==
+A primeira expansão foi adiada várias vezes por causa do desgosto que os gringos tem pelos brazukas; mas mesmo assim, após muita insistência, foi lançada.
+
+Nesse jogo, você cria um planeta para explorar e também equipar sua criaturinha para fazer missões... Você pode fazer missões do tipo "destrua tudo e todos" ou então fazer um arrastão com seus aliados. A força tarefa não deixa de aparecer no jogo, e isso o faz ficar mais empolgante (mas é melhor que seja empolgante mesmo, pois o planeta é pequeno de dar dó!).
+
+Existe também o criador de missões, em que você pode fazer missões idiotas, pois é a única maneira de passar em missões ou então pode fazer missões em que você tem que derrotar [[Karl Marx]] e impedir que ele destrua a única loja de bebidas do planeta. As lojas também são um grande marco, pois seus preços altíssimos as fazem maior alvo de falências.
+== Bugs ==
+[[Arquivo:DesktopSporeCover.jpg|thumb|left|Capa originalíssima do jogo]]   
+Como todo jogo de Will Wright, a melhor parte são os inúmeros bugs disponiblizados para o jogador [[Mentira|curtir o máximo e com a máxima jogabilidade]]...
+
+*''Veja [[Deslistas:Bugs do spore]]''
+
+==Conclusão==
+Spore é um jogo de computador que marcou a geração de jogadores de The Sims, que achavam que para um jogo ter sucesso ele precisava não ter objetivo e falar sobre coisas água-com-açúcar.
+
+Após ter lido esse artigo, provavelmente você já deve saber o final do jogo e que também tem um robô que dá [[42]] cajados da vida para você... Então como nós estragamos o final do jogo, vou contar o maior segredo que só se revela quando você completa o jogo [[Super Metroid|100% com todos os itens coletados e em menos de 2 horas]]... O segredo é que na verdade a galáxia é uma célula! Surpreso? Não? Está bem...
+
+==Ver também==
+[[Arquivo:célula-spore.jpg|thumb|200px|Antes de sair, não se esqueça de tomar cuidado com os Grox e alimentar sua criatura!]]
+*[[Universo]]
+*[[Galáxia]]
+*[[ET]]
+*[[The sims]]
+*[[Sim City]]
+*[[Will Wright]]
+*[[42]]
+*[[Grox]]
+
+==Links extraterrestres==
+[http://pt.spore.wikia.com/wiki/Est%C3%A1gio_Espacial Sporewiki, minha genti!]
+
+{{Spore}}
+{{Electronic Arts}}
+{{Simulação de vida}}
+
+[[Categoria:Jogos da Electronic Arts]]
+[[Categoria:Jogos da Maxis]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de ação-aventura]]
+[[Categoria:Jogos de simulação social]]
+[[Categoria:Jogos lançados em 2008]]
+
+[[en:Spore]]
+[[es:Spore]]
+[[he:Spore]]
+[[it:Spore]]

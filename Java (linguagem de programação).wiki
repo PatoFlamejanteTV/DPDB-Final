@@ -1,0 +1,544 @@
+[[Arquivo:Trusted expired.jpg]]
+:''Você pode estar procurando o meio-irmão de Java, o [[Jabba]].''
+
+{{C|O tutorial do Hello World em java tem 17 páginas. Ainda estou na parte de criar a Interface pro Facade...|PG|Java}}
+
+{{C|java.lang.NullPointerException MUAHAHAAHUAHA|Programador C++|Java}}
+
+{{C|print('Java é ruim, eu prefiro python, o script é muito rápido, pena que os dois são lentos pra caralho')|Programador nuttela de Python|Java}}
+
+{{C|Eu fui a primeira a compilar um código dessa porra!!|Dercy Gonçalves |Java}}
+
+{{C|você.traiu(oMovimentoEncapsulado, veio);|[[Dado Dolabella]]|Java}}
+
+{{C|Você quis dizer: "Pilão"|Google|Java}}
+
+{{C|A JVM foi feita em que linguagem? C++.|Fâ de C++|Java}}
+
+{{C|Java perrrrto de C++ é coisa de crrrriança.|[[Professor Arnaldo|Prrrrofessor Arrrrnaldo]]|Java}}
+
+{{C|Deu problema no JAVA da impressora!!|Estagiária super perdida |Java}}
+
+{{C|Isso é linguagem para amadores|Programador C++|Java}}
+
+{{C|Brincadeira de criança|Programador Assembly|Java}}
+
+{{C|O Bill Gates vendeu seu C#|Aprendiz de Java|}}
+
+{{C|O tsunami rodou perfeitamente na ilha de Java|Programador Java|compatibilidade do Java}}
+[[Arquivo:Java_developer.jpg‎ |thumb|right|'''Programador [[Java]] em sua forma natural''']]
+{{C| [[java.lang.NullPointerException|null pointer exception]], null pointer exception, null pointer exception...|Programador experiente|a linguagem}}
+
+{{C|Java é ideal para [[POG]]|Programador Orientado a Gambiarra| java}}
+
+{{c|Muita Linha Pra Pouco Código|Qualquer Pessoa| Java}}
+
+{{C|Isso non ecziste!|Padre Quevedo| java}}
+
+{{C|Queridos fiéis, o capeta existe! E ele foi programado em Java 6!|Papa Francisco| java}}
+
+{{C|Na União Soviética, Java programa VOCÊ|Anônimo| java}}
+
+{{C|O inferno foi feito em Java!|Diabo| java}}
+
+{{C|Puta que pariu. Que porra é essa?!|Humano Normal| java}}
+
+{{C|Meu Precioso|Gollum| java}}
+
+{{C|Boa Noite!|William Bonner| java}}
+
+{{C|Você traiu o movimento das linguagens estruturadas, véio!!|Dado Dollabella| java}}
+
+{{C|Não-me-misturo-com-programação-estruturada-e-nem-com-ponteiros!|Aspira Matias| java}}
+
+{{C|Linguagem tosca, fora de padrão, lenta, bugada, com poucos recursos.|Fato| java}}
+
+{{C|Brilha muito na programação!|Zina| java}}
+
+A '''Linguagem Java''' é famosa por ser muito eficiente. A maioria dos programas mais lentos e complexos do mundo são escritos em Java, como o [[Adobe]] [[Photoshop]], [[Minecraft]] ou o [[Fudindows|Microsoft Windows ME]], podendo funcionar com apenas 640 bytes de RAM, e atingir velocidades instantâneas.
+
+Pelo fato da máquina virtual Java ser independente e rodar em qualquer [[sistema operacional]], os programas em Java sempre serão lentos independentemente da máquina em que estiver rodando, por isso que qualquer eletrônico que poderia ser programado em outra linguagem também pode rodar em Java. Na verdade, isso tudo não passa de uma inveja de programadores fracassados que não conseguiram se adaptar a curva de aprendizado da linguagem, que é alta. Por padrão, Java 1.2 pode calcular um loop infinito em menos de 1.2 minutos, daí vem esse número na linguagem. A palavra "Java" vem de um dialeto da Indonésia que quer dizer "Espetáculo do crescimento", o que explica programas com poucos KBytes no disco possuírem dezenas de MBytes na memória principal.
+
+== Origem de Java ==
+[[Arquivo:Java_first.jpg|thumb|right|'''Primeira versão do [[Java]]''']]
+
+Dizem que, no início, [[Deus]] criou o céu e a [[Terra]]. Mentira! Na verdade, no início Deus criou Java. Onde você acha que ele programou o mundo, oras? Ele compilou uma pequena porção de particulas (o Universo.jar) e colocou para rodar fazendo surgir o [[Big Bang]] que cresceu assustadoramente e engoliu quase toda memória RAM do espaço, isso tudo em 7 dias (Mentira, na verdade demorou centenas de bilhões de anos, sete dias só se fosse em [[C Sharp|C#]])
+
+Depois disso tudo, ele ainda teve que inventar o [[Eclipse (compilador)|Eclipse]], dois frameworks ORM (um nunca é o bastante), quatro frameworks MVC (também precisava comparar performance) e ainda um servidor de aplicação para suportar todas as [[Windows|cacas]]. (Lembrando que para cada um deles foram criados projetos no [[Source Forge]], e criada uma API padrão para manipulação dos componentes)
+
+O fato de Deus ter conseguido desenvolver em Java não foi por meros poderes divinos, afinal teve experiência suficiente ao lidar com [[Assembly]] anteriormente, a metafísica inerte dos cosmos. 
+
+== O Símbolo ==
+
+[[Arquivo:CachacaJava.jpg|thumb|Com esta linguagem eu [[Jeremias|programarra mil]]]]
+Depois da maravilhosa invenção da linguagem Java, os criadores perceberam que uma nova vantagem havia sido descoberta: ao tentar compilar, os programadores poderiam descansar, tomando um [[café]], enquanto esperavam que seu código fosse compilado. Esta descoberta gerou muitos lucros para a indústria do café.
+
+No entanto, em alguns casos, outros setores foram beneficiados após a criação da linguagem Java, dentre eles podemos citar: gastronômicos, de cama, mesa e banho e dizem até que a [[CLT]] foi modificada e depois da criação dessa linguagem foi adicionada a lei que obrigava o programador a ter um mês de férias por ano. Em todos esses casos, foi identificada uma constante no momento da compilação dos códigos: todos eles possuiam mais que 3 bytes. Com a demora na compilação, muitos outros setores se viram beneficiados por essa Linguagem de Programação.
+
+== O sucesso ==
+
+Embora seja dito que o sucesso do Java se deu ao fato de que é uma liguagem multiplataforma, na verdade seu sucesso ocorreu pelo fato de sua velocidade de compilação. Agora, programadores em geral podem descansar de seu trabalho exaustivo, enquanto seu código em Java compila, não sendo necessário dar satisfação aos chefes.
+
+De fato, a curva de aprendizado do Java é bem complexa. Isso fez com que ela se popularizasse pelo alto nível de desistência em aprender a linguagem, o que só prova que para aprender Java você precisa de um QI alto.
+[[Arquivo:JPlus.JPG|thumb|right|Mais um produto com a qualidade Java]]
+
+
+== Concepção decisiva e moderna ==
+A utilização da linguagem Java, conceitualmente, é a interligação entre objetos através do direcionando do fluxo do programa a métodos de outros objetos. Assim, como os programadores Java não <s>sabem o que são </s> costumam utilizar estruturas de dados com os tipos básicos (byte, short, int, etc.), como fazem os programadores de outras linguagens, a utilização da linguagem Java se fundamenta em conceitos <s> simplistas</s> modernos de design de projetos: <s>ache os objetos</s> importe os pacotes, crie os objetos e <s>ligue os pontos </s> implemente os métodos.
+
+[[Arquivo:javaIndole.jpg|thumb|right|Analogia ao resultado da índole dos programadores da linguagem Java, cultivada pela arquitetura <s>do emulador SNES</s> da Máquina Virtual Java]]<br>
+'''<s>Diarista virtual</s> Garbage Collector ou Coletor de Lixo'''<br>
+Os engenheiros que criaram <s>o emulador SNES</s> a Máquina Virtual Java resolveram que seria mais produtivo cultivar o costume de não liberar a memória dos objetos utilizados e criaram <s>a diarista virtual</s> o Coletor de Lixo, que <s> não cobra salário e controla o buraco negro</s> coordena a reutilização da memória RAM de modo <s>obscuro</s> inteligente.
+
+
+[[Arquivo:ConcepJava.PNG|thumb|right|Approach do programador Java aos problemas do cotidiano]]
+
+Dessa maneira, como é uma linguagem <s>que oferece recursos prontos</s> de alto nível, se o programador <s>souber ler</s> for hábil, será capaz de <s>encontrar o método adequado ao que pretende fazer na lista de métodos dos objetos dos pacotes pré-compilados da linguagem</s> providenciar a solução do problema. 
+Exige-se muito raciocínio, como nas tarefas <s>corriqueiras</s> árduas de <s>encontrar o nome certo da lista de métodos pré-prontos dos objetos</s> implementar funcionalidades novas.
+
+A grande arte de se programar em Java se consiste em <s>entender inglês técnico</s> estudar muito a ciência da computação.
+
+[[Arquivo:ConcepJava2.PNG|thumb|right|Java para programadores em nível avançado (percebe-se o altíssimo nível da linguagem quando comparada a outras como C/C++ por sua utilização intuitiva)]]
+
+== Linguagem Técnica Conceitual Avançada ==
+
+Quando um programador Java falar para você que vai te ensinar como usar uma pilha, ou um stack, em Java, não se iluda porque ele não estará falando da pilha do processador que é aquele assunto um pouco complexo que se relaciona com a linguagem [[Assembly]]. Ele, na verdade, se refere ao conceito de stack, através de uma classe java que já está pronta para ser usada (como no artigo do link: [http://www.devmedia.com.br/articles/viewcomp.asp?comp=2966 http://www.devmedia.com.br/articles/viewcomp.asp?comp=2966])
+
+[[Arquivo:Aprendendo java meme.jpg|thumb|right|Java é o tipo de coisa que espanta pessoas normais com amor fraterno]] 
+
+== Declaração de uma classe em java ==
+Veja um exemplo de como escrever o cabeçalho de uma classe em java:
+<pre>
+public static final void interface class main int super protected jesus dercy extends 
+    Deus implements zé, arroz, patoDonalds, mrJones, sebastianBach, duranDuran, implements
+    gayLord, leopardo, subZero, alexKid, marcantonio, gatoPreto
+
+</pre>
+
+== Exemplo de Código em Java ==
+
+=== Exemplo de um simples programa em Java ===
+Abaixo você pode ver um curto exemplo de programa [[Hello World]], que mostra como Java é mais fácil de usar quando comparado com outras linguagens de programação, como a linguagem D.
+
+<pre>
+ import java.lib.util.packages.utilities.HelloWorldStream;
+ public class HelloWorldExample extends AbstractHelloWorldModel implements HelloWorldHandler{
+ 
+ public static final nonreversible taxfree nondenominational void main(String[] arrs){
+        HelloWorldStream hs = System.getStandardHelloWorldStream(
+            System.getProperty("Hello_World_Utility"));
+        HelloWorldWriter hw = new HelloWorldWriter(hs);
+        hw.initStandardizedHelloWorldModuleAdapterClass();
+        hw.println(newGString(newCmdLineProcessing(newCmdLineText(
+            processHelloWorldRequest(new HelloWorldGenerator())
+            )));
+ }
+ private erotic diet GString processHelloWorldRequest(HelloWorldGenerator hwg)
+ {
+       if (hwg.awesomeFactor < HelloWorld.HELLOWORLD)
+              throw new Bone;
+       HelloWorldModel h = hwg.formulateStandardHelloWorldObject();
+       return h.getDefaultHelloWorldContext().getHelloListener().createHelloWorldString();
+ }
+ }
+</pre>
+
+Aqui temos outra variante do programa HelloWorld, usando alguns design patterns para permitir fraco acoplamento:
+
+<pre>
+interface Printer {
+   void print(Message message);
+}
+
+class Message {
+   
+   private String message;
+
+   public Message(String message) {
+      this.message = message;
+   }
+
+   public void print(Printer printer) {
+      printer.print(this);
+   }
+
+   public String toString() {
+      return message;
+   }
+}
+
+abstract class AbstractPrinterFactory {
+   
+   public static AbstractPrinterFactory getFactory() {
+      return new SystemOutPrinterFactory();
+   }
+
+   public abstract Printer getPrinter();
+}
+
+class SystemOutPrinterFactory extends AbstractPrinterFactory {
+
+   public Printer getPrinter() {
+      return new SystemOutPrinter();
+   }
+
+}
+
+class SystemOutPrinter implements Printer {
+   
+   public void print(Message message) {
+
+      System.out.println(message);
+
+   }
+
+}
+
+public class HelloWorld {
+
+   public static void main(String[] args) {
+      Message message = new Message("Hello, World!");
+      AbstractPrinterFactory factory = AbstractPrinterFactory.getFactory();
+      Printer printer = factory.getPrinter();
+      message.print(printer);
+   }
+
+}</pre>
+
+'''HUMILHANDO:'''<BR>
+Aqui podemos ver o mesmo programa em [[Python]].
+
+<pre>
+print("Hello, World!")
+</pre>
+
+Aqui temos o mesmo programa em [[PHP]].
+
+<pre>
+<?="Hello, World!";?>
+</pre>
+
+E aqui temos o mesmo programa em [[C++]]:
+
+<pre>
+<cout<<"Hello world!";>
+</pre>
+
+E agora temos o mesmo programa em [[Ruby]]:
+
+<pre>
+puts "Hello, World!"
+</pre>
+
+E agora temos o mesmo programa em [[ASP]]:
+
+<pre>
+Response.write "Hello, World!"
+</pre>
+
+E agora temos o mesmo programa em [[BASIC]]:
+
+<pre>
+10 PRINT "Hello, World!"
+</pre>
+
+E agora em HTML:
+
+ <html>
+ <body>
+ Hello, World!
+ </body>
+ </html>
+
+E agora em [[CLIPPER]], uma aplicação completa em 2(duas) complexas linhas:
+
+<pre>
+use clientes
+browse
+</pre>
+
+E agora em [[Portugol]]:
+
+<pre>
+inicio
+escreva ("Hello, World!")
+fim
+</pre>
+
+E agora em [[Desciclopédia]]:
+
+<pre>
+Hello, World!
+</pre>
+
+E agora em uma linguagem concorrente, o [[C#]]. Note como mesmo tendo sintaxes parecidas, o código é bem mais compacto:
+
+<pre>
+public class Programa
+{
+   public static void main(string[] args)
+   {
+      Console.Write("Hello, World");
+   }
+}
+</pre>
+E agora em C, uma linguagem que C++ e java copiaram. Com a diferença de que java é muito mais poderosa no tamanho.
+<pre>
+int main(int argc, char *argv[])
+{ 
+   printf("Hello, World"); 
+   return 0;
+}
+</pre>
+
+
+Como você pode ver, esses últimos programas certamente não podem ser tão eficientes quanto os exemplos anteriores, ''pois não há linhas de código suficientes '''através das quais''' eles sejam eficientes.''
+
+=== Exemplo de bom programa em Java ===
+Agora que você já viu um simples programa, chegou a hora de presenciar um '''bom''' programa em Java. Este maravilhoso programa está dividido em duas classes, [[Exemplo de bom código em Java - Main|Main]] e [[Exemplo de bom código em Java - Servlet|Servlet]]. 
+
+
+Vale notar que este programa consegue milagrosamente por em prática '''todas''' as [[POG|boas práticas de programação]] conhecidas, seguindo o padrão [[Gambi Design Patterns]].
+
+
+{{C|Mas os nomes da enum não estão num padrão|Pogueiro newba sobre o perfeito código abaixo|}}
+
+Segue um trecho de código de uma anotação própria para o exercício de boas práticas
+
+
+<pre>
+/**
+ * @author MacGyver  
+ * 
+ *  
+ * nº de Registro no CIP [Cadastro Interplanetário de POGUEIROS] : 665-1+2
+ * 
+ * 
+ * "POG não precisa de documentação, ela é autoconsciente"
+ *
+ * não retire esse comentário, senão o código não roda
+ * 
+ * http://desciclo.pedia.ws/wiki/Gambi_Design_Patterns
+ */
+
+package br.com.pog;
+
+import java.lang.annotation.Documented;
+import java.lang.annotation.ElementType;
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+import java.lang.annotation.Target;
+
+@Documented
+@Retention(value = RetentionPolicy.RUNTIME)
+@Target( { ElementType.FIELD, ElementType.METHOD, 
+           ElementType.TYPE, ElementType.LOCAL_VARIABLE, 
+           ElementType.PARAMETER, ElementType.ANNOTATION_TYPE, 
+           ElementType.CONSTRUCTOR,
+           ElementType.PACKAGE })
+public @interface pOG {
+    // uma prova que a POG é onipresente
+    @pOG(Tipo.UTF8_ABUSE)
+    enum Tipo {
+        Conversão_de_tipo, Controller_confusion, DB_is_our_God, Exception_sucess, Gato_Preto_No_Quarto_Escuro, 
+        Generic_processor, Highlander, [[MegaZord]], Mochileiro_das_Galaxias, polimorfismo_no_switch, QPÉ, Sleeper, 
+        Static_Spree, UTF8_ABUSE, Varalzão, [[Zé do Caixão|Zé_do_Caixão]], Pattern_Exception_Success, FORCEPS, MARRETA, 
+        Programação_Orientada_a_Estagiário, Apellation_Number_Technic, WYSIWYG, Else_Forever, Big_This, 
+        Public_Global_Access, Lone_Wolf, Mochileiro_das_Galáxias, Old_Times_of_Yore_Pattern, Nonsense_Flag, 
+        RCP_Pattern, BCDR_Pattern, justKillIf, There_is_No_Spoon, BaseBean, Chain_of_Flags, User_Friendly_Exception, 
+        Um_array_vale_mais_que_mil_variáveis, Chaotic_Experimentation, Timeline_RelationshipLess, 
+        Generic_One_Table_Fits_All, Dynamic_Columns_Report, Power_Cursor, AND_0_equals_0, PogManager_Pattern, 
+        Continuous_Incremental_POGging, Polymorphic_Confusion, Referential_Integrity_by_Software, 
+        Invisible_Objects_Blackhole, N_M_L_Combat_Action_POG_Pattern, Reinvented_Square_Wheel_Helper,
+        Pensamento_positivo, Perfectness_Execution, You_Shall_Not_PASS, BulletProof, UFB, MOPED,  
+        The_CoITO_Control_of_Interface_Totally_Obtainble, Rest_Assurance_Memory_Allocation_Pattern,
+        ICI_ou_CCI_Invisible_Comment_Code_Implementation, Modelo_Grafo_Completo, No_Error_Pattern, 
+        BOB_o_Esponja_Psicopata, Temporary_Code, POC, CoPEL, Always_Forever_ou_Comentários_Eternos, 
+        Reversal_Boolean, N_E_N_E_Nao_Existe_Nenhuma_Exceção, POG_Delegation_Aproach, Doubleton, Gera_a_Porra_Toda, 
+        Hardcoded_data, Nmes_de_vars_abrv_cm_pouc_vgs, Nonsense_naming, Maitabom_POG, INPUT, Magic_Number,
+        Strombolic_Bridge_DRIBLE_DA_VACA, Fagueiro_Pattern, Phoenix_Exception, GRUD, 
+        O_que_os_olhos_não_veem_o_coração_não_sente, If_Always, IF_cabelo_Do_Ovo, Cedilha_no_source,
+        PIFOU_Package_Import_Failure_Or_Unknown, not_Primeiro_de_Abril, userIsMrJones, pragma_Jumento
+    };
+
+    public Tipo[] value();
+    public boolean onipresença = true;
+}
+</pre>
+
+Exemplo de utilização:
+
+<pre>
+
+@pOG( {Mochileiro_das_Galaxias, Highlander, Controller_confusion} )
+public class Controller {
+
+   @pOG( Static_Spree )
+   public static Head getHead() { //  pega a cabeça
+     ... 
+   } 
+
+   @pOG( Static_Spree )
+   public static Tail getTail() { //  pega o rabo
+     ... 
+   } 
+
+   @pOG( {Gera_a_Porra_Toda, Um_array_vale_mais_que_mil_variáveis} )
+   public static void doSuruba( Head[] heads, Tail[] tails ) throws TooManyConnectionsException {
+   }
+
+}
+
+</pre>
+
+== O Bope em Java ==
+Criando o BOPE em [[Java]]
+
+<pre>
+/**
+* O Bope foi criado para atuar quando a policia perde o controle
+* E no rio de janeiro isso acontece com bastante frequencia
+*/
+class Bope {
+	private String nome;
+	private int qtdeVitimas = 1; // ja começa bem!
+
+	public Bope( String nome ) {
+		this.nome = nome;
+	}
+
+	// sobrecarga do método ondeTaOBaiano
+	public void ondeTaOBaiano( Estudante e ) {
+		e.sabeVoarEstudante();
+	}
+
+	public void ondeTaOBaiano( Traficante t ) {
+		t.levaSacoNaCabeca();
+	}
+
+	// exemplo de método final!
+	public final Doze encontreiOBaiano( Baiano b ){
+		return b.naCaraNaoQueEhPraNaoEstragarVelorio();
+	}
+}
+
+public class Treinamento{
+	public static void main(String [] xxx) {
+
+		// Apresento o capitão nascimento
+		Bope instrutor = new Bope("01"); //Capitao Nascimento
+
+		try {
+
+			// de cada 100 policiais que fazem o curso do Bope,
+			// so se formam 5, e eu, quando me formei parceiro,
+			// eramos apenas 3.
+		
+			Turma.tentaFazerCursoBopeCom( capitao );
+			while ( aluno.count >= 3 ) {
+				aluno.pedePraSair();
+				if ( aluno instanceof Cafetao ) {
+					capitao.say("Pede pra sair!");
+					capitao.say("Seu Lugar é Com Puta!");
+				}
+				if ( aluno instanceof PorraLoka ) {
+					capitao.say("Tira essa farda preta!");
+					capitao.say("Voce nao é cavera. você é MULEQUE!");
+				}
+				if ( aluno.isXerife() ) 
+					aluno.desiste();
+			}
+		} catch (PolicialCorruptoEncontrado pce){
+		} catch (PolicialFracoEncontrado pfe){
+		} catch (PolicialSemABandoleiraNessaAlturadoCampeonato e) {
+		}
+	}
+}
+
+
+</pre>
+
+* Nota importante: O programa tem 1/365 de chance de compilar, para rodar vai depender se Java se comportou bem durante o ano.
+
+=== Depoimento de usuários ===
+
+'''Bruno P.''': - Eu rodei esse programa aqui. Ele jogou todos meus ícones na lixeira menos 2. Criou um arquivo oculto " baiano.dll". Todos meus programas só executam depois de serem torturados. Meu antivirus foi renomeado pra "Bope - você faz a m**** e a gente limpa". Juntou todos meus arquivos de música numa pasta só e chamou de "superlotação".Tentei reparar o disco e ele não conseguiu encontrar o "fogueteiro.ini". Ferrou...
+
+'''H.B.B.F.''': - Alguém sabe de um curso para esquecer Java?...
+
+'''H.B.B.F.''': - Alguém sabe de um psicólogo para esquecer Java?...
+
+'''H.B.B.F.''': - Alguém sabe de uma faculdade que atualmente(2008) não use Java para "ensinar" programação ?...
+
+=== Desenvolvimento do código ===
+*SEUS FANFARRÕES! VCS TEM 10 SEGUNDOS PARA COMPLETAR ESSE CÓDIGO!
+*O zero-dois NÃO está escrevendo!
+*SEU zero-dois, porque o senhor não escreveu nenhuma linha?
+*A-a minha IDE não terminou de carregar, senhor?
+*Agora a sua IDE ja carregou, seu zero-dois?
+*S-sim senhor?
+*Então, seu zero-dois, termine o seu programa, senão todos os seus colegas terão que usar o EDIT do MS-DOS até o fim do curso E A CULPA é DO ZERO-DOIS!
+
+* HOMEM DE PRETO QUAL É A SUA MISSÃO?
+* É APRENDER JAVA E TIRAR CERTIFICAÇÃO!
+* HOMEM DE PRETO O QUE É QUE você FAZ?
+* FAÇO CÓDIGO FONTE QUE ASSUSTA O SATANÁS!
+
+== Porque as pessoas ainda falam que Java é lento? ==
+
+Talvez sejam os aplicativos mal-feitos. Como você pode notar, já provamos, repetidas e repetidas vezes, que em cenários limitados, código em Java pode igualar ou até mesmo superar linguagens de "alta performance" como C, C++, Lisp, VB6, ou JavaScript. E quando apresentados a tal evidência, a maioria dos opositores sanos e de mente aberta esconderá a cara de vergonha e prometerá nunca mais espalhar tal blasfêmia novamente. 
+
+...mas então, eles abrem o Eclipse, ou o NetBeans, ou o Guiffy, ou habilitam suporte a Java sem seu navegador, ou tentam rodar um aplicativo em seu celular barato. E então esperam ele ficar responsivo... 
+
+...e esperam... 
+
+...e esperam... 
+
+
+
+...e esperam... 
+
+
+
+
+
+
+
+...e esperam... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+...e... 
+
+
+
+
+
+
+...o que eu prometi nunca mais fazer novamente? Desculpe, devo ter cochilado...
+
+{{Linguagens de Programação}}
+
+
+
+[[de:Java]]
+[[en:Java]]
+[[fi:Java]]
+[[fr:Javanais]]
+[[he:Java]]
+[[id:Java]]
+[[it:Java (linguaggio)]]
+[[ja:Java言語]]
+[[pl:Java]]
+[[ru:Жаба]]
+[[zh-tw:爪哇語]]

@@ -1,0 +1,41 @@
+{{Box ClubeFutebol
+|cor_clara         = gold
+|cor_escura        = black
+|brasao            = Escudo do ASKO Kara.png
+|hino              =  
+|nome_oficial      = 
+|origem            = '''{{TOG}}''' - [[Kara]]
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = 10000
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      =  
+|material          =
+|liga              = Campeonato Togolês
+|divisao           = 
+|títulos           = 
+|ranking           = 
+}}
+
+'''Association Sportive de la Kozah Football Club''' é uma tentativa de popularizar o futebol no desconhecido país de Togo, cujo propósito é repetir o feito que conseguiram em 2006, levar o Togo pra Copa do Mundo pra tomar goleadas dos mais variados adversários possíveis.
+
+=== Fundação ===
+Clube fundado em 1974 por alguns togoleses que estavam falhando constantemente em tentar levar a Seleção Togolesa de Futebol pra copa do mundo e decidiram abrir uma fábrica de peladeiros de fim de semana pra ver se popularizavam o futebol em Togo, aí fundaram o Association Sportive de la Kozah Football Club, que por vergonha de assumir seu nome passou a se chamar ASKO Kara. Com isso o ASKO estava desonrando e denegrindo o nome da cidade de Kara no cenário nacional e continental, na Liga dos Campeões da CAF, estava perdendo de 6x0 pro Mazembe, Al-Ahly, Zamalek, Ceramica Cleopatra e mais outros lixos por aí encontrados no quintal da África.
+
+== Títulos ==
+*Campeonato Togolês todo ano
+*Título de eleitor
+*Maior saco de pancadas do mundo
+*maior saco de pancadas de Togo
+*time mais lixo de toda a África
+
+{{Campeonato Togolês}}
+{{Liga dos Campeões da CAF}}

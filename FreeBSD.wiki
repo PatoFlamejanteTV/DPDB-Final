@@ -1,0 +1,64 @@
+
+
+
+{{c|Desinstala ele da sua máquina que você é moleque, ouviu? MO-LE-QUE!|Capitão Nascimento|Linus Torvalds querendo usar FreeBSD}}
+{{c|Prove que tu és o filho do capeta!|Padre Quevedo|FreeBSD}}
+{{c|Sou o filho do capeta taqui meu RG.|[[Capeta BSD]]| Padre Quevedo.}}
+{{c|Não vois provar! Não vois provar!|FreeBSD|Padre Quededo}}
+{{c|O cão foi quem butô pra nóis usar!|Jeremias|FreeBSD}}
+{{c|Você traiu o movimento dos pinguins, véiu!|Dado Dolabella|FreeBSD}}
+{{c|Eu tenho medo!|Regina Duarte|FreeBSD}}
+{{Você quis dizer|Sistema Operacional do Capeta}}
+{{c|Agora o meu kernel está disponível para usar com o Debian para usar como Debian kFreeBSD|[[Satã]]|FreeBSD e [[Debian]]}}
+{{c|Já testei, mas não usem, se usaram, deletem imediatamente|[[Super Noob]]|comentário acima}}
+{{c|O computador ta possuído vou exorcizar ele.|[[Padre do filme o exorcista]]| FreeBSD.}}
+
+==Origem==
+
+[[Arquivo:beastie_come_tux.jpg|thumb|right|350px|FreeBSD mostrando seu poder sobre o Linux.]]
+
+Após [[Tux]] ter tomado controle sobre a [[Máfia dos Pinguins]], alguns pinguins não estavam satisfeitos com o estilo ditador de governo de Tux. Durante uma das mais violentas discussões na Máfia, um pinguim chamado [[Beastie]] levou um ''kill'' de Tux e foi enviado para ''/dev/null'' (vulgarmente conhecido como [[Inferno]]).
+
+No Inferno, encontrou-se com o [[Cão]], que em uma reunião com seu sócio [[Bill Gates]], decidiram dar poderes a Beastie para criar um novo sistema operacional, chamado '''FreeBSD'''. Obviamente, o [[Cão]] chegou atrasado à reunião, pois tinha que butá po [[Jeremias]] tomá antes de sair de seu bar.
+
+Após o pacto, o S.O. de Beastie começou a crescer e gerar inveja entre os seguidores do clã [[GPL]], que passaram a afirmar que o FreeBSD era criação do demônio, conseguindo assim o apoio dos seguidores do profeta barbudo [[Richard Stallman]].
+
+Stallman ficou então furioso quando soube que a licença do FreeBSD não era do clã GPL, começando assim uma guerra com o novo sistema. Porém, Beastie consultou Satã, que em uma conversa com Stallman, o convenceu a atacar Bill Gates e o [[Windows]], sob a acusação de que ele seria o verdadeiro inimigo do clã GPL. Ao se sentir traído pelo seu sócio, Bill Gates enviou versões mais bugadas ainda do Windows para o Inferno, o que acarretou em constantes travamentos do caldeirão do diabo.
+
+Hoje em dia, o profeta Stallman continua sua batalha violenta contra Bill Gates, financiado por verbas do Inferno, enquanto Beastie constantemente fode com a vida de Tux, fazendo com que os seguidores do clã GPL travem batalhas sangrentas contra usuários do FreeBSD.
+
+==Objetivos==
+
+[[Arquivo:daemonbabe.jpg|thumb|right|400px|Ninfa BSD.]]
+
+O objetivo do FreeBSD é trazer o caos! Pretende dominar o mundo das redes, expulsando e exterminando Windows, Linux e qualquer outro S.O. que venha no seu caminho. Com medo de ser destruído, [[Steve Jobs]] se juntou a Beastie e fez o [[Mac OS]] rodar no BSD (na verdade, Jobs sempre quis foder com Gates).
+
+Ao instalar o FreeBSD em um computador, este torna-se possuído. Ruídos estranhos sairão da sua memória [[Rã]] enquanto seu disco rígido começa a girar até à velocidade do infinito, fundindo-se com seu gabinete. A partir daí, não há mais volta, seu PC estará possuído pelo FreeBSD.
+
+==Variações==
+
+Dominado pela sede de poder, Beastie criou variações do seu sistema como o [[OpenBSD]] e o [[NetBSD]]. A intenção do NetBSD é dominar a Internet e acabar com o domínio do [[Microsoft Orkut]], enquanto o [[OpenBSD]] tenta se disfarçar de simpatizante do clã GPL com o "Open" no nome, a fim de matar o profeta Stallman e exterminar de uma vez por todas Tux e Linus Torvalds.
+
+==Influências do FreeBSD==
+
+Todos temem o FreeBSD. [[Java]], que se diz totalmente portável, teve medo e não se portou para o FreeBSD. Bill Gates, que vive a falar mal do Linux nas suas propagandas, teve medo e não ousou falar mal do FreeBSD. O [[hacker]] furioso também teve medo e não invadiu o FreeBSD.
+
+Dizem também, que seres maléficos (com exceção do Satã, que tem contrato com seu sócio Bill Gates), usam o FreeBSD em casa, como [[Capitão Nascimento]], [[Moderador Malvado]] e [[Osama bin Laden]]. [[Chuck Norris]] também usava, mas [[Capitão Nascimento]] fez ele tirar o sistema do computador porque ele é moleque. O FreeBSD é tão violento, que na União Soviética, o FreeBSD reverte a [[Reversal Russa]].
+
+A destruição das Torres Gêmeas também foi obra do FreeBSD, ao saber que nos computadores dos dois edifícios, rodavam apenas Windows e Linux.
+
+Recentemente veio a público a notícia de que o jogador e kickboxer [[Felipe Melo]] também é adepto do FreeBSD.
+
+==Quem usa:==
+*[[Microsoft]]
+*[[Linux]]
+*[[Bill Gates]]
+*[[Linus Torvalds]]
+*[[Steve Jobs]]
+*[[Você]]
+
+[[en:FreeBSD]]
+[[fi:FreeBSD]]
+[[ru:Свободная Бздя]]
+
+[[categoria:Sistemas operacionais]]

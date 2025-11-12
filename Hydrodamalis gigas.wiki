@@ -1,0 +1,31 @@
+{{taxocaixa
+| cor             = blue
+| nome            = Vagabunda marítima de Steller
+| imagem          = Hydrodamalis_gigas_skeleton_-_Finnish_Museum_of_Natural_History_-_DSC04529.JPG
+| imagem_legenda  = O que sobrou desse trambolho
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| subclasse       = [[Theria]]
+| infraclasse     = [[Placentalia|Placentários]]
+| ordem           = [[Sirenia (ordem)|Sirene]]
+| família         = [[Dugongidae|Dogongo]]
+| gênero          =	'''Hydrodamalis'''
+| espécie         = †'''H. gigas'''
+}}
+{{título em itálico}}
+'''Vaca-marinha de steller''', '''peixe-boi de steller''' ou '''dugongo-de-steller'''. Ou, sei lá, '''dudongo-de-steller''', '''''Hydrodamalis gigas''''', foi um [[fóssil vivo]]. Eu digo foi porque virou só um [[fóssil]] mesmo, já que o ser humano pau no cu mal redescobriu a porra do animal o tornando um novo [[celacanto]], um [[Taxon Lazarus]], e pouco depois já despachou eles pro cemitério dos bichinhos que só vamos explicar pros bisnetos como eles eram na base do "se fode aí para adivinhar como ele era!"
+
+== Descrição ==
+
+Apesar de aparentado com os [[dugongo]]s, a vaca-marinha de steller parecia mais com um [[peixe-boi]], ainda que um peixe-boi com o focinho meio cagado. O bichão morava no [[Oceano Pacífico]] praticamente todo, pelo menos pelos fósseis que começaram a achar dele no século XX, vivendo do [[Japão]] à [[Califórnia]], num canto em que seus parentes em geral não curtem muito brotar nas atualidades. Bem, pelo fim fodido do gigantão da família, não é muito difícil de entender né?
+
+Enfim, depois de milhões de anos, o bichão começou a sofrer para viver no canto completo, afinal, um certo bicho chamado ''[[Homo sapiens|Omo sabão]]'' começa a comer o bichão viradamente, ao considerar ele só um peixe-boi tamanho família, só carne pra porra para comerem. Assim, o bicho começa a ficar só vivendo na porra do [[mar de Bering]].
+
+Um dia um biólogo marítimo chamado [[Georg Steller]] acabou enfim dando uma descrição decente pro bicho em 1741, inclusive, olha que <s>arrombado</s> <s>engraçadão você hein fera</s> modesto, enfia o seu sobrenome no nome do bicho. Só que, pro azar de outros [[biólogo]]s que tentavam investigar esse bicho, os russos FDPs comedores de bichos marinhos, simplesmente comem todos até que em 1768, menos de trinta anos depois de fazerem uma descrição decente pro bicho, ele já virou só historinha de livrinhos de [[biologia]].
+
+Mas isso não foi tudo: em 1987, na [[Ilha de Bering]], encontraram o primeiro fóssil do animal, mostrando que os humanos foram burros ao extremo: a porra do animal sobreviveu todo o [[Pleistoceno]], a [[era do gelo]] e quase todo o [[Holoceno]], até que seres humanos paus no cu e disputa contra os [[ouriço-do-mar|ouriços-do-mar]] comendo todas as [[alga]]s dos pobres dugongos gigantes levaram eles a virar uma lembrança que nem [[teu avô]] lembra mais - e nem é por culpa do [[Alzheimer]]...
+
+[[Categoria:Dugongidae]]
+[[Categoria:Espécies animais extintas]]

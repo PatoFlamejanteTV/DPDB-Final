@@ -1,0 +1,86 @@
+{{Matemática}}
+
+{{C|Isto Ecziste??|Padre Quevedo|número de Graham}}
+{{C|Outra dimensão!!|Saga de Gêmeos|cubo vermelho e preto}}
+
+O '''Número de Graham''' é um número, digamos, um pouco grande. Você com certeza nunca ouviu falar, aliás o número é tão inútil que maior parte dos matemáticos [[nerd]]s (será uma redundância) não conhecem nem querem conhecer.
+
+== História ==
+Ronald Graham Bell, um nerd matemático (redundância de novo), formulou o seguinte problema: Suponha que você tenha um cubo com n dimensões. Aí você resolve pintar as arestas e diagonais do cubo de preto e vermelho (pra quê?). Não importa se você torce pro [[Sport Recife]], [[Vitória]], [[Ituano]] ou [[Brasil de Pelotas]], pinta ele de [[vermelho]] e [[preto]]. O que Graham provou (não me pergunte como), é que se você conseguir um '''Número de Graham''' de dimensões, o cubo flamenguista vai ter um lado de  uma cor só, ou algo assim. Mas o problema é que esse número é tão grande que ninguém teria a paciência de pintar um cubo por tanto tempo nem dinheiro pra comprar tanta tinta. Principalmente flamenguistas que são pobres. O pior é que seria necessário construir um acelerador de partículas maior que o universo para achar tantas dimensões paralelas assim. Mas suspeita-se que é na númerodegrahamésima dimensão que o [[Acre]] se encontra, caso ele exista, é claro. 
+
+O pior de tudo é que Graham queria encontrar o menor número de dimensões pra esse cubo flamenguista; e o máximo que ele descobriu é que esse mínimo é menor que o '''Número de Graham''', e maior do que 6. (assim como o IBGE estima a população do Brasil com sendo algo entre 1 e 1 trilhão de pessoas).
+
+==Contando até um número de Graham==
+Mas quanto vale um número de Graham? Bom, pense num número bem grande. Não vale mencionar Chuck Norris na definição! Pensou? É menor. Agora penser de novo. Continua menor. Eleva ao quadrado. Multiplica por um milhão. Faz fatorial. Multiplica por um [[Mol]]. Eleva a googolplex. Eleva a ele mesmo. Eleva a ele mesmo um googolplex de vezes. 
+
+Coitado, não chegou nem perto. O número de Graham é maior.
+
+O segredo do número de Graham é o '''operador chapeuzinho''' (vermelho), '''^'''. ''a''^''b'' (lê-se ''a'' chapeuzinho ''b''), é ''a'' elevado a ''b'', ou seja <math>a^b</math>. Por exemplo, 2^3 = <math>2^3 = 9</math> <!-- ;-) -->
+
+[[Arquivo:Chapeus122.jpg|thumb|200px|Haja chapeuzinhos!!!]]
+
+Depois de um chapeuzinho, passamos a 2 chapeuzinhos, '''^^''' (não confundir com um emoticon [[otaku]]). ''a''^^''b'' (''a'' chapeuzinho-chapeuzinho ''b'') é o mesmo que ''a''^''a''^''a''^...^''a'', com ''b'' ''a''ses (ou seja, <math>a^{a^{a^{...^{a}}}}</math> ); lembrando que potências são associadas a partir da direita (<math>a^{(a^{(a^{(...^{a})})})}</math>). Por exemplo, 3^^4 = 3^3^3^3 = <math>3^{3^{3^3}} = 3^{3^{42}} = 3^{109418989131512359209} = </math> um número grande pra caramba.
+
+A mesma lógica se usa com 3 chapeuzinhos (a^^^b = a^^a^^a...^a), quatro chapeuzinhos (a^^^^b = a^^^a^^^a...^^^a), etc. Quando você se enche de tanto chapéu pode colocar um numerozinho dizendo quantos chapeus são: a^<math>^{42}</math>b
+
+Pois bem. (pausa para descanso).
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Bom, comece portanto com 3 quatro-chapeuzinhos 3 (3^^^^3); e esse é o primeiro número, <math>N_1</math>. Só esse número já é bem grande, da ordem do peso da [[sua mãe]] - sendo que escrever a lista de potências já gastaria todo o espaço do universo. Calcular esse número fica como exercício para o leitor.
+
+<math>N_2</math> é 3 <math>N_1</math>-chapeuzinhos 3, ou 3^^^^^...^^^3 (com <math>N_1</math> chapéuzinhos).
+
+<math>N_3</math> é 3 <math>N_2</math>-chapeuzinhos 3. Continue assim até chegar em <math>N_{64}</math>.
+
+<math>N_{64}</math> é, enfim o chamado Número de Graham (não confundir com o [[Nintendo 64]]). 
+
+(obs:estima-se que a força de [[Chuck Norris]] é bem maior que <math>N_{N_{64}}</math>).
+
+Resumindo todo esse papo de Número de Graham e tal, chuck norris é superior a tudo e a todos.(Creio que seguidores de Deus me dirão o contrário)
+
+==Caso você não tenha entendido o que é um número de Graham (o que é muito provável)==
+Para ter uma ideia da dimensão do seu tamanho, imagine os números abaixo.
+
+* Número de anos necessários para que a Ponte Preta ganhe um milhão de títulos mundiais consecutivos
+* Número de anos necessários para que o Corinthians repita o Tetra da Libertadores do Independiente
+* O número da versão do Windows que não vai travar
+* O dinheiro do Silvio Santos em centavos
+* Idade da Dercy Gonçalves em bilionésimos de segundo
+* Número de fios de cabelo dos habitantes da China
+* O número de vezes que você vai ter que ler a seção acima pra entender o que significa o número de Graham.
+* O número de pessoas necessárias para encontrar alguma que vai achar esse artigo engraçado
+* O número de vezes que passou [[A Lagoa Azul]] na tv aberta
+* Tempo que se levaria para ir a pé até [[Roraima]] ou [[Rondônia]], não importa de onde veio (não dá pra ir a pé ao [[Acre]] e continuar vivo)
+
+Pegue todos esses números e multiplique, faça fatorial, eleve à potência que você quiser, bata no liquidificador, agite bastante e adoce à gosto. Dependendo da sua criatividade, o número resultante pode ser um pouquinho menor que o Número de Graham, mas o mais provável é que será muuu....uuito menor (com <math>N_{3}</math> ''u''s).
+De qualquer forma, não tente reproduzi-lo em casa. Em vez disso, use-o para conversar com as pessoas:
+
+-Já te falei um número de Graham de vezes pra você não fazer isso, entendeu? Um número de Graham!!!
+
+-Meu amor, você é uma em um número de Gra..., Gram... como é o nome dele mesmo?
+
+==Mas o que seria maior do que isso?==
+*O número de Graham + 1 (duh!).
+*O 20º número da sequência de Goodstein (se você não sabe inglês jamais saberá o que é isso).
+
+== Relacionados ==
+
+*[[Matemática]]
+
+*<s>[[Infinito]]</s>
+
+*[http://math.andrej.com/2008/02/02/the-hydra-game/ Jogo da Hydra]
+
+*Entra na rival wikipédia (em inglês) e digita '''busy beaver''' ("castor ocupado", e põe "ocupado" nisso!).
+
+[[Categoria:Matemática]]
+[[Categoria:Números]]

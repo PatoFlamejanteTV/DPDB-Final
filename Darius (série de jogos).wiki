@@ -1,0 +1,56 @@
+{{logotipo_falso|Taitopedia.png|160|top=120|left=190}}
+
+{{Game}}
+
+{{Infobox Série Game
+|title         = Série Darius
+|image_logo    = Gdariusj.jpg
+|caption       = Cuidado com o peixe
+|genre         = porradaria
+|developer     = [[Taito]]
+|publisher     = [[Taito]]
+|origin        = [[Arcade]]
+|first_release = [[Darius (jogo)|Darius 1]] (1987)
+|last_release  = [[Dariusburst]] (2009)
+}}
+
+{{vqd|Gradius}}
+
+{{C|Só tem peixe nessa bagaça?|Você|Darius}}
+
+{{C|<font color=red>WARNING!</font> A HUGE BATTLESHIP IS APPROACHING FAST!|Darius|Chefões}}
+
+{{C|GRAAAAAAAAAAAAAAURRRRRRRRR...|Chefão do Darius|seu próximo almoço: [[Você]]}}
+
+[[Arquivo:Img aquario.jpg|thumb|left|''WARNING! A HUGE BATTLESHIP <Font color=red>-PEIXINHO DE AQUÁRIO-</font> IS APPROACHING FAST!]]
+<br><br>
+'''Darius''' é uma série de jogos que retrata uma batalha intergalática entre um cara numa navinha contra um cardume de peixes furiosos.
+
+==Produção==
+Os produtores do jogo, vendo o quanto os [[Pivetinhos de Fliperama|pivetinhos]] torravam fichas no fliper com jogos de navinha como [[Galaga]] e [[Space Invaders]], decidiram entrar nesse disputado ramo de jogos de nave. Porém, naquela época jogos de nave não tinham muita diferença de um pra outro, então eles decidiram criar algo inédito até então: um gabinete com TRÊS telas! Isso mesmo, um puta dum trambolho, chegava a ser maior que o gabinete do [[Cruisin USA]]! Depois de umas 50 versões genéricas, finalmente eles tomaram vergonha na cara e pararam de fazer aquela coisa repetitiva, deixando o jogo... bem, jogável!
+
+==História==
+[[Arquivo:Bigfish.jpg|thumb|right|Os invasores do espaço agora são peixes malvados!]]
+Em algum planeta no meio do raio que o parta, um povo pacífico passava o dia inteiro fumando [[Maconha|erva]] e coçando o saco. Até que um dia esse mesmo planeta foi atacado por peixes malvados intergaláticos from hell. Sem nada melhor pra fazer, pegaram uma nave no ferro-velho, montaram ela toda, e resolveram combater a ameaça.
+
+==O jogo==
+As primeiras versões eram pura [[Merda]]: era sempre um bitmap no fundo (aquele mesmo fundo que ocupava as três telas), alguns inimigos genéricos aparecendo em padrões genéricos copiados do [[Gradius]] e do [[R-Type]], de vez em quando aparecia um mísero [[Power Up]], que você logo perdia, até que enfim você chegava no chefão, que era sempre algum ser marinho ou coisa que o valha.
+Mais pra frente mudaram umas coisas, tipo agora você escolhe trocentos caminhos diferentes, o que significa trocentas últimas fases diferentes, o que também significa trocentos finais diferentes.
+Só mais pra frente começaram a fazer o jogo ficar legal. Agora você podia possuir os inimigos pra que eles te ajudassem, e também absorvê-los para soltar um poderoso [[Kamehameha]] que ocupava atela inteira.
+
+==Os chefões==
+[[Arquivo:Peixe1.JPG|thumb|right|Jogador prestes a enfrentar mais um chefão.]]
+Ah, sim! Como dito anteriormente, os chefes são sempre algum peixe, crustáceo, molusco, ou qualquer outra coisa que seja do mar. E também nunca é "Peixe Verde" ou "Polvo Azul", é sempre "Gigante Destruidor", "Sardinha Infernal", "Piranha Devoradora", "Olho de Thundera", etc. Sem contar que eles geralmente são três vezes maiores que a tela, e também adoram encher a tela de tiros, ou escamas, já que eles são peixes... alguns tem até poderes sobrenaturais, como eletrificar a tela, criar escudos, criar portais dimensionais ou se desmontar igual [[Lego]].
+
+<gallery>
+Imagem:Gdarius8.png|Os nomes são cabulosos...
+Imagem:CHammer5.gif|...e os chefes também!
+</gallery>
+
+{{Darius}}
+{{Square Enix}}
+{{Shoot 'em up}}
+
+[[Categoria:Jogos da Taito]]
+
+[[ja:ダライアス]]

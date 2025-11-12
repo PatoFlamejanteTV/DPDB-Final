@@ -1,0 +1,87 @@
+{{magia}}
+{{Mental}}
+
+{{PokéBox
+| imagem = 065Alakazam.png
+| tamanho = 250px
+| frase = Um Alakazam carrancudo, coisa normal...
+| pokedex = 064
+| tipo1 = Psychic
+| tipo2 = 
+| nihongo =  フーディン
+| romaji = {{exp|Foodin|Tem food no nome, mas ele é anoréxico.}}
+| habilidade1 = Fazer macumba
+| espécie = <center>[[Mister M]]
+| cadeia evolutiva = [[Arquivo:AbraSprite.gif|link=Abra|Abra]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:KadabraSprite.gif|link=Kadabra|Kadabra]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:AlakazamSprite.gif|link=Alakazam|Alakazam]]
+}}
+
+{{Você quis dizer|Mewtwo de pequeno porte?}}
+
+{{C|Olha mamãe! Um kaxolinhu!|Criança retardada, ao ver um Alakazam}}
+
+{{C|Filho! Não mexe nele! Não tá vendo que ele tá doente? Esquelético... vai que ele tá com sarna!|Mãe retardada da criança retardada}}
+
+{{C|Abra Kadabra Alakazam!|Mágico de festa de aniversário}}
+
+{{C|Transfiro todo o dano para a [[Chansey]] do meu banco.|Jogador de TCG dando uma de [[apelão]]}}
+
+[[Arquivo:AlakazamSprite.gif|left]] '''Alakazam''' é o [[pokémon]] #65 da primeira geração. A evolução final da família [[Abra]]-[[Kadabra]], depois de muito treino e apelação. O nome desse pokémon sem graça não podia ser mais original, já que é uma magia fajuta que tem em qualquer apresentação de um mago bocó e charlatão.
+
+== Características ==
+
+Assim como suas pré-evoluções, Alakazam é um pokémon do tipo psíquico, o terror das colheres de sopa, chá, açúcar, etc. Usando seu poder psíquico, não só consegue arrumar todo o quarto de seu treinador [[vagabundo|atarefado]] como também furta a carteira do mesmo sem ser percebido, tudo ao mesmo tempo. Alakazam é um dos psíquicos com mais poderes, mas não poderia ser totalmente diferente de um Abra-Kadabra; também não gosta de fazer esforços físicos. Alakazam é um pokémon dos mais raros, pois não é nada fácil um Kadabra evoluir. Para isso acontecer, um Kadabra terá de lutar e vencer muitas vezes, estar feliz com seu treinador e também estar na iminência de uma batalha com um treinador fodástico, pelo menos no [[anime]], porque lá tudo é muito belo e politicamente correto. Na realidade, a única forma do seu querido e lindo Kadabra evoluir e [[você]] trocá-lo com outro <s>noob</s> treinador, mas qual seria a razão? Será que você é tão incompetente que o seu pokémon só evolui sob a tutela de outra pessoa? Pode ser também, mas a verdade é que certos pokémons só evoluem depois de trocados devido a um plano maligno da [[Nintendo]], que pretende fazer milhões de pessoas comprarem seus jogos para poderem trocar suas bestas de bolso entre si.
+
+Uma vez evoluído, parece que o Alakazam não mudou nada em relação ao seu antecessor Kadabra, eles são mais iguais do que um caminhão cheio de chineses, né? Na verdade, há sim algumas diferenças quanto à aparência e às suas habilidades. Primeiro, Alakazams são sempre maiores do que os Kadabras, para mostrar que é um pokémon mais evoluído, além de não ter mais aquelas tatuagens papagaiadas no corpo. Observe que os Alakazams aperfeiçoaram o [[Jutsu]] da Colher de Pau, eles tem duas colheres para salvar sua energia, possibilitando um maior uso de poderes psíquicos para quaisquer fins. E entre outras coisas, seus bigodes aumentam em grande escala, podendo também ser utilizados como fonte de energia caso sejam combinados com um [[Bombril]], uma opção bastante buscada por treinadores [[pobre]]s que não tem dinheiro para comprar duas colheres por semana, já que colher não dura muito na mão de um Alakazam.
+
+No [[Pokémon Trading Card Game|TCG]], Alakazam é visto como um símbolo da apelação por quase todos os jogadores da primeira geração, quando não existiam aquelas cartas papagaiadas Dark, Light, Stadium e o escambau. Muitos certamente já usaram o famoso e [[apelão]] jutsu da transferência de dano, preferencialmente usando como alvo Chanseys estrategicamente colocadas no banco junto com seu Alakazam. Mesmo que todo o seu deck seja vergonhosamente fraco, é o Alakazam que acaba salvando a pátria ao não deixar ninguém ser nocauteado, pelo menos até acabarem as Chanseys, porque também só [[Jesus]] faz milagre.
+
+[[Arquivo:Alakazam2.gif|left|thumb|Um Alakazam alegre, coisa anormal.]]
+
+==Kanto==
+:Esse pokémon é [[apelão]] pra caralho em Kanto: special grande pra burro; rápido demais; Recover, STAB no psychic (STAB, no caso, não é esfaquear em inglês, seu leigo); alta taxa de crítico; poucas fraquezas; etc... Extremamente recomendado pra uma walkthrough caso tu queiras atropelar [[todo mundo]]. Para conseguir esse cara tu precisas de uma ROM hack NTEVO, uma espécie de mod onde tu consegues evoluir um pokémon que, anteriormente somente ao trocá-lo com outro treinador evoluiria, agora evolui ao decorrer dos níveis. Outra maneira também é a de spawnar essa porra na tua box usando a porra do PKHex, uma coisa bem mais difícil, no entanto. A mais fácil e mais conhecida é a de usar um cheat em um [[emulador]] meia-boca qualquer por aí
+
+== Curiosidade ==
+[[Arquivo:Trem 999.jpg|thumb|Um {{PAGENAME}} e um [[Kadabra]] posam em frente ao trem que leva ao [[inferno]].]]
+É certo que todo Alakazam pelo menos uma vez na vida...
+
+*Apanha feito burro na horta para qualquer pokémon, mas vence no cansaço depois de usar Recover [[42]] vezes.
+
+*Já salvou muitos jogadores [[noob]]s no Card Game.
+
+*Colocou Bombril nos bigodes para o seu Psychic ficar mais forte.
+
+*Alakazam é o líder sábio de um bando de Kadabras e Abras ?
+
+*Ainda é um mistério como os Kadabras selvagens evoluem para Alakazans... e ainda mais onde Alakazans selvagens vivem?
+
+*E que nas primeiras gerações dos jogos de Pokémon, mesmo que fique horas treinando um [[Kadabra]] você jamais poderá evoluir ele num Alakazam, a não ser que faças trocas de Pokémons com algum otário <s>ou utilize códigos cheats</s> para ter ele.
+
+==Galeria==
+<gallery perrow=5>
+Arquivo:Alakas1.jpg|Que artigo de merda, sinceramente.
+Arquivo:Alakas2.jpg|[[Paulo Kogos|PARA TRÁS, INDITOSO ESQUERDISTA!]]
+Arquivo:Alakas10.jpg|Repita comigo: tudo que acontecerá comigo agora está em meu consentimento.
+Arquivo:Alakas9.jpg|Aceitas?
+Arquivo:Alakas8.jpg|Alakas fazendo um pacto [[Satanismo|satânico]].
+Arquivo:Alakas7.jpg|Alakas fazendo uma pose [[épico|épica]].
+Arquivo:Alakas4.jpg|Que porra é essa?
+Arquivo:Alakas6.jpg|Alakas em resolução 1440p ultra max plus.
+Arquivo:Alakas5.jpg|[[Yasuo|Vem X1, lixo!]]
+Arquivo:Alakas3.jpg|Hoje, às 11:00 da noite, aguarde...
+</gallery>
+== Veja Também ==
+
+[[Drowzee]]
+
+[[Psyduck]]
+
+[[Mr. Mime]]
+
+{{poke1}}
+[[Categoria:Raposas]]
+[[Categoria:Bodes]]
+[[Categoria:Magos]]
+[[Categoria:Paranormais]]
+
+[[es:Alakazam]]
+[[ja:フーディン]]

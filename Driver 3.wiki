@@ -1,0 +1,50 @@
+{{game}}
+
+{{Infobox Game
+|title     = Walker 3
+|image     = Driver 3 cover.png
+|caption   = Capa sincera do jogo
+|developer = [[Reflections Interactive|Reflexão Interativa]]
+|publisher = [[Atari]]
+|released  = [[2004]]
+|genre     = [[GTA San Andreas]] genérico
+|rating    = 9/10 segundo a [[Future plc]]
+|platform  = [[PS2]]
+|ages      = Livre (atropelamentos são proibidos)
+}}
+
+'''Driver 3''' foi uma tentativa frustrada da [[Reflections Interactive]] de copiar o [[GTA: San Andreas]], mas o resultado foi mais próximo de um [[Bubsy 3D]] com carros. Apesar de ser um jogo altamente bugado, foi visivelmente bem sucedido em entregar ao jogador uma experiência única da sensação real de estar dirigindo em [[São Tomé das Letras]], [[São Lourenço da Mata]] e [[Poconé]], que são as três cidades fielmente retratadas no jogo, trazendo ao jogador todo tédio de dirigir nessas cidades vazias.
+
+== Desenvolvimento ==
+
+A ideia inicial da Reflections Interactive era criar um jogo tipo [[Cyberpunk 2077]] mas ambientado nos anos 2000, trazendo um detalhamento jamais visto antes na história dos videogames, por isso já estavam há 4 anos trabalhando no desenvolvimento de seu jogo e gastando fortunas no projeto porque sabia que depois que lançassem o melhor jogo de todos os tempos teriam o seu gasto todo de volta, inclusive vários atores famosos foram contratados para fazer as vozes dos personagens. É verdade que o [[Keanu Reves]] estava caro demais porque ele estava fazendo [[Matrix]] na época, então contrataram o [[Iggy Pop]], isso mesmo.
+
+O que atrapalhou os planos da empresa foi o anúncio do lançamento do [[GTA: San Andreas]], que junto de [[Counter-Strike]] era a mania de todos os pivetes do mundo inteiro. Qualquer jogo de escrotizar cidades dirigindo carros que fosse lançado depois de GTA seria um fracasso, então a Atari ordenou que Driver 3 fosse lançado incompleto mesmo, que o projeto original fosse vendido para a [[CD Projekt]] fazer o Cyberpunk 2077 e que lançassem um jogo que fosse só missões sem graça estilo GTA, mas sem alma.
+
+== Jogabilidade ==
+
+[[Arquivo:Driver 3 gameplay.jpg|thumb|left|Apesar de ser um jogo onde os carros deslizam ao invés de rodar, é um jogo nota 9/10 segundo alguns especialistas subornados pela Atari.]]
+
+Driver 3 trata-se de um jogo de cópia de GTA, tudo o que tem em GTA te em Driver 3, só que propositadamente piorado e muito sem graça, para ninguém acusar o jogo de plágio. Metade do jogo, portanto, é realizado a pé com missões de tiroteio com uma péssima jogabilidade e uma mais péssimas ainda precisão de tiros e uma mais horrenda ainda física que faz parecer que todos os tiros são fantasmas já que a sensação de impacto é nula. A [[Atari Games]] na época até cogitou mudar título para "The Pedestrian", mas como criar uma nova [[propriedade intelectual]] custa um dinheiro, deixou como "Driver 3" mesmo.
+
+Como o protagonista do jogo é alguém similar ao [[Boça]], completamente incapaz de comprar armas de verdade, o jogador o tempo inteiro vai usar apenas armas de air-soft descaracterizadas pela remoção daquele bico laranja, porque se você perceber bem, você pode fuzilar alguém que essa pessoa não vai sangrar.
+
+== Enredo ==
+
+Para evitar acusações de que esse jogo era um plágio de GTA, apesar da jogabilidade ser a mesma coisa, o enredo de Driver 3 focou-se em algo completamente diferente. Você controla John Tanner, um ex-policial que cansado do caos da cidade grande decide visitar três cidades vazias onde nada acontece o dia inteiro, cabendo ao jogador escrotizar os policiais locais e caminhar por ruas desertas por horas.
+
+== Driv3rgate ==
+
+Como qualquer jogo que se trata de uma cópia descarada e bugada de outra coisa, Driver 3 foi uma bela bosta e ninguém perdeu tempo com esse jogo. A Atari vendo seus milhões indo pro ralo, ao invés de gastar dinheiro criando um jogo decente preferiu gastar dinheiro subornando o site [[Future plc]] para dar nota 9/10 para seu jogo que na verdade valia 0,9/10 e depois ainda pagar desocupados para criar sockpupptets em fóruns e defender Driver 3 descaradamente alegando ser um jogo melhor que GTA, um comportamente visivelmente débil que atraiu a atenção de pessoas normais e por isso os farsantes foram facilmente desmascarados, escândalo que ficou conhecido como "Driv3rgate".
+
+O fracasso do jogo causou a falência da Atari e a venda da Reflections Interactive para a [[Ubisoft]], empresa reconhecida por gostar de lançar jogos bugados e inacabados, o que combinava com o estilo da série Driver.
+
+{{Driver}}
+
+[[Categoria:Jogos da Reflections Interactive]]
+[[Categoria:Jogos da Atari Games]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos de ação-aventura]]
+[[Categoria:Jogos lançados em 2004]]

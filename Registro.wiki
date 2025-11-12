@@ -1,0 +1,12 @@
+{{desambiguação}}
+
+Um '''registro''' ou '''registo''' pode estar [[banco de dados|associado]] a várias coisas. Escolha um tipo de associação e seja feliz:
+
+* '''''[[Registro civil]]''''' – Registro que registra os seus registros
+** '''''[[Cédula de identidade|Registro geral]]''''' ou '''''RG''''' – Um documento que todo brasileiro tem que tirar duas vezes ou mais.
+* '''''[[Registrador (informática)|Registo]]''''', o famoso '''''registrador''''' – Um tipo de [[memória volátil]] existente nos processadores.
+* '''''[[Registro (São Paulo)|Registro de São Paulo]]''''' – Um município onde nascem pessoas registradas.
+* '''''[[Medidor de energia elétrica|Registro elétrico]]''''' – Como pode ser conhecido o '''medidor de energia elétrica''' em alguns [[favela|bolsões da miséria]] [[Brasil]] adentro,
+* '''''[[Registro (ciência da computação)|Tupla]]''''' ('''''row''', iningresh'') – Uma linha com [[banco de dados|dados num banco]] qualquer.
+
+[[en:Register]]

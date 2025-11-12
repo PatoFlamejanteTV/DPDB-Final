@@ -1,0 +1,47 @@
+{{game}}
+{{Infobox Game
+|title     = {{c|Batoro Sito!}}
+|image     = BattleCity.jpg
+|caption   = Mais pirateado do que...
+|developer = [[Namco|<font color=red>'''Namuko'''</font>]]
+|publisher = [[Namco|<font color=red>'''Namuko'''</font>]]
+|released  = [[1985]]
+|genre     = {{SHT}}
+|rating    = 0%
+|platform  = [[NES|<font color=red>FAMIRI KONPIRUTA!</font>]]/[[Arcade|VS. Unisystem]]
+|ages      = Livre
+}}
+
+{{vqd|Um dos jogos mais pirateados pelos chineses}}
+{{vqd|Tank [[1990]]}}
+{{vqd|Missle Tank?}}
+
+'''Battle [[cidade|City]]''' é um dos games mais pirateados do [[Famicom]], que você acha em tudo qualquer cartucho com [[mais de 8000]] jogos por aí.
+
+==O game==
+
+Bem, tudo começa num monte de bloquinhos de tijolo (afinal tem de cimento, de ferro, etc.), aonde você tem que participar de um mata-mata de 4 tipos de tanques diferentes, só que 20 a cada fase. Daí, você tem que proteger o Quartel General (aquele que tem a águia perto de você) de que seja atacado por um tiro, caso contrário é [[Game Over|Gemu Oba]]! Porém, você pode atirar no QG também, mas ira ser um "Gueime Ovo" também. Bem, vamos aos tipos de tanques. O primeiro é um tanque normal, o segundo tem a boca de um polvo, o terceiro é nanico porém, [[Correr pra caralho|corre pra caralho]] e o último, é grande e ultramente treta de destruir se você não tiver auto-fire (mas ele é lerdo!). Bem, alguns tanques tem uma espécie de filcker rosa (acho que são pilotados pelos [[Gay|coloridos]]), que dão itens para você pegar (lógico...).
+
+==Itens==
+
+* [[Granada]]: Dizima todos os inimigos na tela, porém, não irá contar na pontuação final;
+* Capacete: Fica invencível a todos os tiros;
+* [[Pá]] <s>do [[Sonic the Hedgehog|Sonic]]</s>: Cobre os muros do Quartel por mureta de ferro por alguns segundos;
+* Estrela: Faz com que seu tanquinho fique mais foderoso a cada uma;
+* Relógio: Congela todos os tanques;
+* Tanque: [[1-Up]], óbvio;
+
+==Tipos de terrenos==
+
+Bem, vamos aos terrenos encontrados no game:
+
+* Rio: Ninguém passa por ele (ao menos que você faça uma macumba pra ele se tornar num submarino);
+* Floresta: Tapa a visão de todos os tanques, putariamente fácil de você ser atingido;
+* Cimento escorregadio ([[WTF?]]): Faz com que os tanques (incluíndo o seu) escorreguem ao parar de pressionar uma direção.
+
+{{Shoot 'em up}}
+
+[[Categoria:Jogos lançados em 1985]]
+[[Categoria:Jogos da Namco]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Nintendo Entertainment System]]

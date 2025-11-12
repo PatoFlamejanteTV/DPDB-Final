@@ -1,0 +1,41 @@
+{{livro}}
+{{Info Livro
+|Nome       = Crítica da Razão Impura
+|Imagem     = Crítica da Razão Impura.png
+|Legenda    = Capa da versão brasileira
+|Autor      = [[Immanuel Kant|Immanuel Quente]]
+|País       = {{POL}}
+|Gênero     = Prolixidade pura
+|Editora    = -
+|Lançamento = [[1781]]
+}}
+
+'''Crítica da Razão Pura''' (não confundir com a obra de igual fama, a ''Crítica da Ração Pura'' de Immanuauau Cãote) foi um livro publicado no auge da [[prolixidade]] de [[Immanuel Kant]], uma obra destinada a um monte de alemães metidos a sabichões comprarem, lerem e fingirem que entenderam.
+
+Em pouco tempo um monte de gente já estava dizendo que houve uma revolução intelectual. Depois vieram dois outros [[tijolo]]s de papel, a [[Crítica da Razão Prática]] e a [[Crítica do Juízo]], além de outras belezuras, como o postulado "Prolegômenos para uma metafísica do futuro que se deverá constituir como uma ciência", assim concluindo a trilogia de quatro livros de Kant sobre a [[razão]].
+
+==Estudos==
+Embora todos achassem Kant fodão, nenhum alemão teve a coragem de admitir que não entendeu nem o título do livro e continuaram fazendo pose de espertalhões, pois eles tinham muito medo dos outros rirem da cara deles.
+
+Um século depois, alguns franceses burros, que não percebiam que os alemães só estavam fazendo pose de gênios e não entendiam nada - afinal, o livro foi escrito em uma língua que só Kant entendia - quiseram ser fodões também. E lá foi o mais famoso deles, Deleuze, ler Kant para tentar ficar foda, mas a única coisa que ele conseguiu foi ficar louco e escrever, junto com Guattari, outro paciente do hospital psiquiátrico no qual estava internado, o [[Anti-Édipo]], no qual eles dissertam sobre os males das [[hemorroidas]].
+
+==Razão pura==
+Kant era um filósofo proeminente por sua ferrenha oposição à [[existencialismo|ideias insanas dos filósofos franceses de sua época]], especialmente sobre a ideia de que a [[realidade]] fosse real, e para combater esse pressuposto, decidiu formular a sua crítica, para que assim pudesse desmistificar o que se acreditava ser a razão pura, e demonstrar as vantagens da razão impura.
+
+O conceito de "razão pura" foi formulada pela primeira vez em 370 aC por [[Aristóteles]], quando ele se fez a pergunta mais fundamental da [[filosofia]]: {{c|Por que?}} E depois de meses de reflexão e sacrifício de animais, surgiu a resposta brilhante: {{c|Porque}}. Isso foi anunciado pelos filósofos em toda parte como a realização suprema do pensamento pré-cristão . De uma só vez, todas as principais questões filosóficas foram nitidamente respondidas e subsequentemente eliminadas.
+
+Essa ideia, chamada de Razão Pura forneceu a base filosófica para toda ação filosófica ou religiosa nos próximos 16 séculos. Evidências da surpreendente influência da Razão Pura podem ser vistas até mesmo na obra de [[Santo Agostinho]], que meramente reaplicou a razão pura à teoria da Escatologia Cristã, que em resposta à questão [[ontologia|ontológica]] preeminente de Aristóteles, "por quê?", a partir da revelação da existência da divindade Santíssima Trindade via Cristo, a resposta mais sensata seria, portanto: {{c|Porque Deus!}}.
+
+Kant surgiu para desmistificar tudo isso, procurando provar que a razão pura não existia.
+
+==A crítica==
+"Razão Pura" é definida como um termo filosófico sofista segundo Kant, pois se a "razão pura" é "pura", e a "razoabilidade" é "puramente razoável", a razão pura é portanto razoável. Mas isso não quer dizer que a "razão pura" seja "razoavelmente pura". Isso é uma mera [[tautologia]].
+
+Desse modo, se todas as verdades filosóficas são verdadeiras na realidade, todos os termos X são verdades filosóficas e, portanto, são verdadeiros na realidade. Assim: Se X1 for verdadeiro, então df.X pode executar qualquer ação metafisicamente possível, além de várias outras ações a serem decididas por arbitragem em uma data posterior. Se X2 for verdadeiro, então df.X pode ser qualquer proposição verdadeira p, sendo que X correlaciona-se com p que é casualmente familiarizado com os amigos de df. Se X3 for verdadeiro, então df.X não executa nenhuma ação porque é apenas um monte de notações em uma página. Assim como X1 é indefinido, mas verdadeiro, e X2 está relacionado a X3, sendo que p(2) tende a p(infinito), é assim X(p) sempre verdadeiro e sempre não verdadeiro simultaneamente, já que X3 é apenas um punhado de palavras em uma página, ficando nítido que a "razão pura" é um conceito contraditório e puramente ilusório.
+
+[[Categoria:Livros]]
+[[Categoria:Livros de filosofia]]
+[[Categoria:Livros de Immanuel Kant]]
+[[Categoria:Literatura da Alemanha]]
+[[en:The Critique of Pure Reason]]
+[[nl:OnBoeken:Kritiek van de onzuivere rede]]

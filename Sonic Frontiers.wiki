@@ -1,0 +1,100 @@
+{{game}}
+
+{{Infobox Game
+|title     = Sonic <s>TIM: Você Sem</s> Fronteiras
+|image     = 0975-frontiers-sonic-capa.png
+|caption   = Capa do jogo (mais [[plágio|original]], impossível)
+|developer = [[Sonic Team|Sanic Team]]
+|publisher = [[Sega|<s>Ñ-intendo</s> Cega]]
+|released  = [[2022]]
+|genre     = [[Ação-aventura|Mundo aberto e plataforma]]
+|rating    = 7 <s>[[Os Sete Monstrinhos|monstrinhos]]</s>
+|platform  = [[PlayStation 5]], [[PlayStation 4]], [[Nintendo Switch]], [[Xbox One]], [[Xbox Series X]] e [[PC da Xuxa]]
+|ages      = [[Qualquer um]] que tenha saco pra jogar esse jogo de 11 horas
+}}
+<choose>
+<option>{{vqd|[[The Legend of Zelda: Breath of the Wild]]}}</option>
+<option>{{vqd|[[Devil May Cry]] + [[Shadow of the Colossus]]}}</option>
+</choose>
+{{c|Que emoção!|Amy Rose com sua voz [[Mentira|super séria e madura]]}}
+{{c|Saía desse artigo imediatamente.|Sage <s>sendo chata</s>|você que está lendo esse artigo}}
+{{c|Hmmm... interessante.|Artista do [[Rule 34]]|Sage}}
+{{C|Eles me trocaram por uma loli?!|[[Infinite (Sonic)|Infinite]]|Sage}}
+{{c|Como vocês podem perceber, o jogo tem bastante pop-in e as texturas estão todos embaçados.|Crítico|os gráficos}}
+{{c|Mais... o jogo tem tantas referências...|[[Seguista]]|o comentário acima}}
+
+[[Arquivo:Sonic-frontiers-koco-emote.gif|70px|left]] '''Sonic Frontiers''' é o primeiro jogo 100% open-world da franquia, ou seja, a Sega finalmente deu (ui!) liberdade do borrão azul [[correr pra caralho]] enquanto faz quebra-cabeças com bastante dificuldade (pelo menos pra eles). Ao contrário de [[Sonic Forces|Sonic Forçados]], o jogo em si é bom, tem uma história boa, personagens bons e gameplay boa, e isso tudo graças ao <s>Ken Penders</s> [[Ian Flynn]], o antigo escritor dos quadrinhos do Sonic da [[Sonic the Hedgehog (Archie)|Archie]] e atualmente continua escrevendo suas história na [[Sonic the Hedgehog (IDW)|IDW]] (as do Sonic, não as [[você|suas]], seu animal).
+
+== [[Senta que lá vem a história]] ==
+{{spoiler gamístico}}
+[[Arquivo:sanico fronteiras.jpg|thumb|Anúncio do jogo na [[Steam]], onde foi classificado com o gênero "Walking Simulator"]]
+Tudo começa com [[Dr. Eggman|Dr. <s>Ego-man</s> Eggman]] dando suas <s>genéricas</s> clássicas [[risada malígna|risadas malignas]] após ter encontrado um portal, e obviamente ele irá fazer algo bem mau e... [[Sonic Adventure|oh no!]] Ele colocou uma [[Inteligência artificial]] humana no portal e fudeu com tudo a ponto de entrar nele sem querer, [[nada|o que iremos fazer?]]
+
+Enfim, ignorando completamente a cutscene anterior, Sonic e seus [[miguxo]]s vão pra uma grande aventura em investigar a '''Starfall Island''', bem iriam, até serem sugados (ui!) por um buraco misterioso do mistério. Assim o Sonic acorda e percebe que seus amigos foram presos pela Sage, então cabe assim, o rato azul de ténis salvar eles indo em várias ilhas. Ah, e o Knuckles foi também [[Idiota|preso numa cápsula após ter encontrado um portal em Sky Santuary]].
+
+==Personagens==
+[[Arquivo:SF-knuckles-cutscene.jpg|thumb|Deve ser por [[Brotheragem|isso]] que o Sonic sempre foge da Amy.]]
+Como praticamente todos os fãs estavam putos porque estragaram  os personagens, a Sega finalmente mudou eles depois de tanta tempo. No total são 7 personagens (incluindo um novo), que são:
+
+*'''[[Sonic the Hedgehog (personagem)|Sonic the Hedgehog]]''': O [[protagonista|personagem principal]] dessa bagaça, e também é o único jogável. Aqui, diferente dos [[Sonic Colors|outros]] [[Sonic Lost World|jogos]], ele não fica fazendo um monte piadinhas sem graças uma atrás da outra, pois agora está bem mais sério (mesmo tendo momentos em que faz uma piada aqui ou ali, lembrando mais o rato de gel dos anos 90 e começo dos anos 2000) e também a ponto de ter sua voz engrossada, e que confirmar que ele finalmente entrou na [[puberdade]] <s>(coisa que já tinha sido vista quando ele virava [[Sonic the Werehog|Lobisonic]])</s>, o que é esquisito visto que ele parece ser um [[adolescente|aborrescente]], e não um velho.
+*'''[[Amy Rose]]''': A pseudo-[[namorada]] do Sonic. Após várias tentativas falhas de pegar o ouriço, decidiu amadurecer e simplesmente tratá-lo como amigo, e isso parece uma tarefa bastante difícil pra ela, mas por "incrença que parível", não, ela continua assim normalmente até o final do jogo (e [[você]], {{USERNAME}}, achando que sair da [[Friendzone]] é difícil).
+*'''[[Knuckles the Echidna]]''' - Ah sim, ManoKnux, como sempre querendo meter porrada até mesmo em [[criança]] (é esse o [[herói]] que vocês gostam?). Aqui, está bastante pensativo sobre querer <s>dar pra [[Rouge]]</s> largar de ser guardião da [[Master Emerald|Esmeralda Mestre]] ou se quer participar mais das [[Narrador da Sessão da Tarde|incríveis trapalhadas e confusões com essa turminha do barulho]], acho que tá bem óbvio, né?
+*'''[[Miles "Tails" Prower]]''' - O amiguinho [[nerd]] do Sonic, que nesse jogo, finalmente virou hominho, ou seja, parou de ser um covardão do caralho e agora pode resolver as coisas sozinho <s>(ou talvez seja só lorota mesmo, imagina, Tails sendo macho? Nem a pau!)</s>.
+*'''[[Dr. Robotnik|Dr. Eggman Robotnik]]''' - O personagem que mais sofre nessa merda, que além de tá preso em um Cyberspace, tem que aguenta essa pirralha que não tem nenhuma motivação de estar aqui.
+*'''[[Sage]]''' - Não, não tem nada a ver com [[Sonic Amateur Games Expo|aquela convenção de fangames <s>mal feitos</s> do ouriço]] e muito menos [[Sega|a própria empresa que fez esse jogo]], mas sim, a nova vilã desse jogo, que é a responsável por cuidar das ilhas e mandar nos titãs a meter porrada no Sonic.
+*'''[[Big the Cat]]''' - O que ele está fazendo aqui, não era ele tá naquela com aquela maldição de [[personagem]] secundário odiado está morto ou algo assim? Que seja, o que importa é que ele encontrou um lugar pra pescar. 
+
+==As novidades==
+
+Como já propriamente dito no início do artigo, esse jogo é mundo-aberto, que por surpresa de absolutamente ninguém, é cópia de [[The Legend of Zelda: Breath of the Wild|Breath of the Wild]]]], mas como a Sonic Team não quer assumir o B.O., falaram que não tem nada ver com o jogo, mesmo já estando bem óbvio só do fato do Sonic ter um Boost em formato de estamina em círculo, e falando nisso, o Sonic não corre tão rápido nesse jogo.
+
+[[Arquivo:Sonic-X-scared.jpg|thumb|center|[[WTF?]]]]
+
+Sim, é chocante, eu sei, mas essa não é nem a  [[Sonic Labyrinth|primeira]] ou [[Sonic Chronicles|segunda]] que isso aconteceu com o personagem, porem deixe-me explicar: basicamente Sonic precisa pega um número máximo de <s>moedas</s> anéis, assim irá aparecer uma animação dele com <s>faíscas de choque</s> raios elétricos em volta do corpo dele (uma óbvia referência a [[Sonic: O Filme|ao tal filme <s>fracassado</s> live-action do mesmo]]), e nesse momento ele pode correr pra caralho, isso até ser atingido por um inimigo e ter que coletar os anéis tudo de novo.
+
+E como não poderia piorar mais ainda, ao invés de você ganhar EXP para aumentar o nível, a [[Sega]] teve a <s>péssima</s> incrível ideia de criar seres de pedras e barbudos que fazem você ficar mais forte após o jogador coletar os [[Koco]]s, que são basicamente os [[Chao (Sonic)|Chao]] desse jogo. A diferença é que você não precisa ficar cuidando deles (felizmente).
+
+==Árvore de habilidades==
+
+Para a <s>[[tristeza]]</s> [[alegria]] de muitos, agora o Sonic pode meter o cacete nos inimigos (assim como no [[Sonic Unleashed|Sonic Umlixo]] <s>só que sem o bom</s>), e com isso, ganha ''pontos de habilidades'', que ajuda a desbloquear a '''Árvore de Habilidades''', e nós temos um várias habilidades, que a <s>maior parte</s> minoria é upgrades de outras técnicas.
+
+===Habilidades===
+[[Arquivo:SFrontiers-cyloopdick.jpg|thumb|[[Crianças viciadas em desenhar pênis|Já era de se esperar que isso acontece-se]].]]
+
+*'''Cyloop''' - A principal de todas, onde o Sonic pode desenhar um círculo enquanto anda, e isso ajuda tanto no combate como também no quebra-cabeças e deixa você mais rápido quando fazer o símbolo de infinito. Ele é perfeito pra quem tem mania de desenhar [[Pênis|formatos penianos]] e um [[Among Us]] (sério que ainda acham graça nessas coisas?).
+*'''Phantom Rush''' - Ele só acontece quando o personagem tiver no combo máximo, aí é só lagar o controle e ver o Sonic começa [[coringa]]r completamente e dá um monte de [[soco]]s e [[chute no saco|chutes no saco]].
+*'''Sonic Boom''' - Infelizmente, mesmo tendo o nome, não tem nada a ver com o [[Sonic Boom (Técnica)|real Sonic Boom]] (mas uma das burradas desse jogo). Enfim, aqui ele dá vários chutes em alta velocidade eeee... é só isso mesmo.
+*'''Air Trick''' - Ele só pode ser executado quando saí faíscas no Sonic enquanto você fica no ar.
+*'''Wild Rush''' - É basicamente um [[Homing Attack]] só que você fica em ziguezague de forma rápida.
+*'''Stomp Attack''' - É a mesma merda do original, só que é mais poderoso.
+*'''Auto Combo''' - Quando as habilidades de batalhas são automaticamente ativadas durante o combo. No entanto, isso dá dano reduzido, ou seja, essa técnica é totalmente inútil.
+*'''Quick Cyloop''' - Uma versão poderosa do Cyloop (dã!), onde o personagem corre mais rápido ao fazê-lo, isso se você ter o medidor cheio.
+*'''Homing Shot''' - De alguma forma, Sonic consegue criar bolas de energia e podem ser atingidas nos inimigos (não é que ele é poderoso mesmo).
+*'''Loop Kick''' - Chutes e mais chutes no ar...
+*'''Spin Slash''' - Um ataque giratório onde o Sonic fica em formato de esfera.
+*'''Recovery Smash''' - O último das habilidades. Se tu for um [[n00b]] nesse jogo, muito provavelmente que tu apanhe bastante, mas por sorte, ao mesmo tempo que você tomar um hit, pode fazer [[Spin Dash]] direto no inimigo (Infelizmente, pelo para [[Idiota|esse tipo de jogador]], terá que conseguir bastante pontos).
+
+==Galeria da pancadaria==
+<center>
+<gallery widths="180" heights="200" perrow="4">
+2851275_rainsyart_undefeatable.jpg|O que faltou no [[Sonic Forces|jogo anterior]], esse aqui teve de sobra...
+Angels-EVA-452479.png|Os titãs do jogo
+8r4ydngeaqga1.jpg|Batalha contra o titã da Ilha Secreta Cogumelo
+Dfp95i1-36b47522-456d.gif|[[Super Sonic]] demonstrando como [[chapolim Colorado|todos os seus movimentos são friamente calculados]]
+</gallery>
+</center>
+
+{{Sonic}}
+{{Ação-aventura}}
+
+[[Categoria:Jogos da Sonic Team]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para PlayStation 5]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos para Xbox Series X]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos de ação-aventura]]
+[[Categoria:Jogos lançados em 2022]]

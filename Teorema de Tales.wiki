@@ -1,0 +1,39 @@
+{{c|A resposta é alpiste?|Carla perez| resposta da questão}}
+{{c|Não sua mula, dá 2 alpistes, sabe contar não?|Luciana Gimenez|citação acima}}
+{{c|E eu lá quero saber de conta, quero dar e dar!|Paris Hilton mostrando que temos que ter objetivo na vida}}
+{{c|Se eu pudesse eu contava era mil|Jeremias|Teorema de Tales}}
+{{c|É você quem financia essa merda!|Capitão Nascimento falando para o seu professor de física tudo que você sempre quis dizer}}
+{{c|Que prova de geometria amanhã?|Você|ter esquecido de estudar}}
+{{c|Eu estudei e tô tranquilo!|Aquele nerd safado|geometria!}}
+
+== Teorema em prática ==
+
+Temos dois [[trem|trens]] movidos com eletredidadania a 1523km de distância um do outro, estão se aproximando pelos mesmos trilhos do tipo SINGLE TRACK, um a [[148]]km/h e o outro a [[132]]km/h. Um [[pássaro]] voando a [[192]]km/h parte do trem [[A]] (quando eles estão distantes 1474km), voa até o trem [[B]], faz a volta e retorna para o trem A que está se aproximando numa velocidade menor que a inicial, que após [[19]] minutos de sua saída é 192km/h. Só que [[10]] minutos e [[12]] segundos após o pássaro sair de seu ponto de repouso, o trem B aumentou sua velocidade para [[158]]km/h e uma vaca ficou entre os trilhos do trem e assim sucessivamente até os trens se chocarem.
+[[Arquivo:Teorema-de-tales-1.jpg|thumb|Cabeça, pescoço, ombro e peitoral de Tales.]]
+Agora calcule o susto que a [[vaca]] levou:
+
+De acordo com o Teorema de Tales, se compararmos a proporcionalidade dos trens [[A]] e [[B]] e suas resoluções em relação às passagens do pássaro, levando em consideração a psicanalística de [[Sigmund Freud]], o grau de susto da vaca pode ser calculado apartir do Teorema de Tales:
+
+<center><math>\frac {AD} {DB} = \frac {AE} {EC} = \frac {AB} {AC}</math></center>
+
+<center>onde '''A''' e '''B''' são as distâncias dos trens. '''C''' é o pássaro e '''E''' é o susto da vaca.</center>
+
+== Teorema nas compras ==
+
+Alguns Teoremas categoricamente que o consumidor, quando não está observando diretamente o produto que vai comprar ou que comprou, este último pode deixar de existir ou então passará a existir em um estado totalmente indeterminado.
+- Nestas condições não há garantia de [[1|um]] ano para o produto e todos os números pares e ímpares são [[primo]]s até serem submetidos a uma observação minuciosa.666
+
+== Segundo Exemplo ==
+
+Se você tem um nivel de ensino abaixo do ensino medio ou tem medias baixas onde estuda, é altamente desaconselhavelmente ler este artigo!
+
+Um objeto, quando colocado na posição O1 em frente a uma lente convergente de raios idênticos com um rádio ligado em baixa frequência e no volume 7, sua imagem I1 é real e invertida e, quando colocada em frente a mesma lente na posição O2 com um motor movido a vapor e trepidação ínfima, sua imagem I2 é real e invertida em 92°11’32’’. A distância que separa as posições O1 e O2, que tem entre eles uma máquina de café italiana é dada pela seguinte relação: d1 = p1 - p2+3p-x , onde p1 e p2 são distâncias do objeto e máquina de café de 110V até a lente quando ocupava as posições O1 e O2 , respectivamente. A distância que separa as posições I1 e I2 é dada pela seguinte relação: d2 = i2 - i1/3,141592 , onde i1 e i2 são as distâncias entre o rádio em baixa frequência no volume 7, o motor a vapor e a máquina de café até a lente das imagens I1 e I2 , respectivamente. Lembrando que Lf gelo=80 cal/g e 1 cal=4,2J.
+
+
+
+'''- Baseado nisso, prove o último [[teorema de Fermat]] e que 2+2 é igual a 5.'''
+
+{{Teorias e Teoremas}}
+
+[[Categoria:Teoremas de matemática|Tales]]
+[[Categoria:Teorias|Tales]]

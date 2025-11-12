@@ -1,0 +1,58 @@
+{{ave}}
+{{Cantamal}}
+{{PokéBox
+| imagem = Chatot.png
+| tamanho = 200px
+| frase = Curupacopacopacopaco...
+| nihongo = ペラップ
+| romaji = {{exp|Perap|Mistura de "pêra" com "rap"}}
+| pokedex = 441
+| tipo1 = Normal
+| tipo2 = Flying
+| habilidade1 = Olho de quem?
+| habilidade2 = Pés e'''[[Seu Ladir|MARA]]'''nhados
+| habilidade3 = Grandes PICAs
+| espécie = Primo do Louro José
+| cadeia evolutiva = [[Arquivo:ChatotSprite.gif|link=Chatot|Chatot]]
+}}
+
+
+{{Você quis dizer|Louro José?}}
+
+{{C|Eu quero...|[[Ash]]|Chatot}}
+{{C|Interessante...|[[Brock]]|Chatot}}
+{{C|Esse Pokémon nos Pertence!|[[Restart|Lixo Colorido]]|Chatot}}
+{{C|Pika pika?|[[Pikachu]]|Chatot}}
+{{C|Eu quero ter um.|[[Jack Sparrow]]|Chatot}}
+
+[[Arquivo:ChatotSprite.gif]]'''Chatot''' É um Pokémon que pertence à [[Restart|Insatisfação Colorida]]. Cujo número é '''#441''' Na ''Infinite Infernal National Dex'' e vive na Região de [[Sinnoh]]
+
+==Sobre o Chatot==
+[[Arquivo:Chatot.jpg|thumb|left|200px|Tenha muita, muita inveja Brock.]][[Arquivo:ChatotReal.jpg|thumb|right|200px|Chatot existe!]] '''Chatot''' é um Pokémon que possui uma Letra Musical na cabeça, pois queria tocar uma [[guitarra]], mas todos sabem que para cumprir isso é necessário [[dedos]]. Como '''Chatot''' não podia cumprir a sua Futura Carreira de Guitarrista, opinou por ajudas [[Policial Jenny|Policiais Jennys]], o que as serviu muito! '''Chatot''' é agora um "Gavião" que localiza ladrões e ajuda as Policiais Jennys a Prendê-los. Como todo "Gavião", '''Chatot''' pousa no Ombro de sua Dona, mas mal ele sabe que quem gostaria de fazer isso era o {{strike|Maldito}} Criador de Pokémon [[Brock]], que, ao ver o '''Chatot''' no ombro ficou com inveja, pois o '''Chatot''' estava apreciando o  [[Perfume]] da Policial Jenny, e assim criou o seu primeiro Inimigo.
+
+==Habilidades do Chatot==
+[[Arquivo:ChatotFeliz.jpg|thumb|left|200px|Chatot está feliz pois liste o seu artigo.]]
+
+'''Vista afiada:''' Faz com que o Rival não consiga baixar a sua [[Precisão]].
+
+'''Emaranhado de Pés:''' Aumenta as Chance de dar Evasiva, enquanto o rival está confundido.
+
+'''Saca-peito:''' Também conhecido como "Big Pecks", Esse Movimento impede que o rival reduza a sua Defesa.
+
+==Curiosidades==
+[[Arquivo:ChatotJenny.jpg|thumb|left|200px|Chatot e sua Dona.]]Você sabia que...
+* '''Chatot''' se une com [[Pidove]]s ?
+* '''Chatot''' irá caçar quem vandalizar este artigo?
+* '''Chatot''' já foi confundido com a Mascote do [[Homem-Pássaro]]?
+* Apesar de ser classificado como [[afrodescendente]] pela PokéDex, o Chatot é mais colorido que um integrante da [[banda Restart]].
+
+== Ver também ==
+[[Happiny]]
+
+[[Mime Jr.]]
+
+[[Gible]]
+
+[[Spiritomb]]
+{{poke4}}
+[[Categoria:Papagaios]]

@@ -1,0 +1,67 @@
+{{pokedex}}
+<choose><option>{{mineral}}</option>
+<option>{{terra}}</option></choose>
+
+{{PokéBox
+| imagem = 074Geodude.png
+| tamanho = 240px
+| pokedex = 074
+| frase = O Pesadelo de todo viajante de Cavernas
+| tipo1 = Rock
+| tipo2 = Ground
+| nihongo = イシツブテ
+| romaji = Isitsubute
+| habilidade1 = Encher o saco em cavernas
+| espécie = <center>Pedra inútil no meio do caminho
+| cadeia evolutiva = [[Arquivo:GeodudeSprite.gif|link=Geodude|Geodude]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:GravelerSprite.gif|link=Graveler|Graveler]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:GolemSprite.gif|link=Golem|Golem]]
+}}
+
+{{Você quis dizer|Geografia?}}
+
+{{c|É pau, é pedra, é Geodude no meu coração.|Tom Jobim|Geodude}}
+
+{{C|Eu tenho, você não!|Brock|Ash}}
+
+{{C|Que droga!|Ash|não ter um Geodude}}
+
+{{C|As predrinhaas!|Menina Pastora Louca|Geodude}}
+
+
+[[Arquivo:GeodudeSprite.gif|left]]'''Geodude''' é o [[pokémon]] #74 da primeira geração. Basicamente, é uma pedrinha com braços que só serve para sair rolando por aí. Conhecido por muitos por ter sido usado pelo garanhão [[Brock]], treinador de [[pokemon]]s feiosos que ninguém nunca quer. Obviamente sendo treinador por um treinador que tem afinidade com pokémons de pedra, ele é do tipo pedra e terra, e não, isso não é uma ironia.
+
+== Características ==
+[[Arquivo:Geodude.jpg|200px|left|thumb|Geodude tentando <s>virar Super [[Saiyajin]]</s> evoluir para Graveler.]]
+[[Arquivo:Geodude VS Charmander.jpg|thumb|right|Geodude usando o [[Zidane Round Head Strike]] (só aprende no level 169 por glitch).]]
+
+Geodude mesmo sendo um pokémon do tipo <s>[[Travesseiro de Preda|PREEEEEEEEDAAAA]]</s> [[pedra]], continua sendo um pokémon que também é terra, mas com aquela cara de pedrona, só podia ser pedra mesmo. Todos seus ataques se baseiam em rolar sobre os adversários, de preferência junto com outros Geodudes juntos, porque, se for um só, provavelmente acabará servindo como bola de [[futebol]] para o inimigo, por ser um fracote sozinho, apesar de quem inventar de chutar um desse deve ser um otário que deve amar ficar com o pé engessado, ou apenas é sadomasoquista mesmo. Seu hábitat natural são quase sempre todas as [[caverna]]s existentes, principalmente as mais próximas da <s>[[favela]]</s> [[cidade]] natal do protagonista do jogo/anime, ou seja, as primeiras cavernas encontradas, com os bichos mais vagabundos possíveis. Qualquer [[noob]] consegue entrar numa dessas cavernas e encontrar dúzias de Geodudes e também [[Zubat]]s, e adicioná-los à pokédex. Geodude em 99% dos casos é o primeiro pedra/terra de todo treinador de pokémon. O que mais irrita de um Geodude é o barulho agonizante que ele faz quando é encontrado em algum mapa cavernoso de qualquer jogo pokémon, o que dá vontade de você desligar o som imediatamente pra não ouvir o barulho daquela pedra falante.
+
+Sua maior técnica é rolar, rolar e rolar até perder o controle sobre si mesmo e ser nocauteado pela própria tontura, facilitando as coisas para os inimigos. Alguns aprendem a jogar pedrinhas nos outros, mas umas pedrinhas tão pequenas que seria melhor usar milho de [[bingo]] logo de uma vez. Talvez a única vantagem dele seja poder aguentar um monte de porrada, mas na verdade ele cai diante do primeiro golpe de [[karatê]] ou [[terremoto]], isso sem contar a sua fraqueza contra uma simples bolha ou mesmo um cuspe de um pokémon de [[água]]. A evolução desse pokémon rochoso é [[Graveler]], uma pedra um pouco maior e com as mesmas técnicas de rolagem desesperada, só que tem quatro braços, e assim mesmo consegue rolar sem tropeçar. A melhor coisa que um Geodude pode fazer é evoluir para essa nova forma. Mesmo tendo umas evoluções fodinhas, ninguém tem a mínima paciência de treinar um Geodude, pois deve ser realmente broxante você treinar esse pokémon sabendo que tem [[mais de 8.000]] igualzinhos a ele rodando por qualquer caverna aleatoria, sem contar com o primeiro ginásio.
+
+O que chega a ser mal feito de um Geodude é que ele flutua diferente de suas evoluções, o que deveria fazer dele um pokémon psíquico, mas por total ignorância e caduquice do criador desses monstrinhos de bolso, ele virou pedra e terra mesmo, e que se ferre se os guris retardados estão realmente confusos sobre o que é ser psiquico. No anime um Geodude é constantemente usado por [[Brock]], pois ele se identifica com ele já que os dois são [[Negro|negões]].
+
+== Curiosidades ==
+[[Arquivo:Geodude2.jpg|thumb|left|O Geodude seria um dos pokémons MAIS LINDOS se realmente existisse...]]
+Você sabia que...
+
+*Geodude em caverna é igual a CD pirata na [[Rua 25 de Março]]?
+
+*Tem muitos pokémon Pedra/Terrestre melhores?
+
+*Ele flutua mas suas evolucões não?
+
+*Ele tem sonhos eroticos com a [[Diancie]]?
+
+*Uma pedra pode virar um Geodude?
+
+== Veja Também ==
+
+[[Growlithe]]
+
+[[Onix]]
+
+[[Rhyhorn]]
+
+{{poke1}}
+[[Categoria:Minerais]]
+[[es:Geodude]]
+[[ja:イシツブテ]]

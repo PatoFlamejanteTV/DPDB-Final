@@ -1,0 +1,59 @@
+{{computeiro}}
+[[Arquivo:Processador.jpg|thumb|150px|Pra alcançar a unidade central de processamento é preciso ir mais fundo]]
+A '''unidade central de processamento''' é uma parte do [[computador]], que pelo nome extenso talvez você não conheça, mas se eu falar a sigla dele você saberá do que estou falando, e a sigla é UCP!!!
+
+{{citar|Vai se foder, mano! Não conheço essa porra não!|Leitor não-nerd|unidade central de processamento}}
+
+Huehuehue! UCP é a tradução para '''CPU''', e agora deve ter aclarado sua mente, mas fique feliz que não traduziram a unidade central de processamento para central única de processamento, há sempre um jeito de cagar melhor as coisas no [[Brasil]]. Lógico, se pensarmos numa unidade central de processamento propriamente dita, parece que estamos falando de um setor de uma empresa própria para triturar alimentos, ou de uma procuradoria de um órgão, mas a CPU é simplesmente o cérebro dos computadores. Por burrice, alguns chamam o gabinete ou computador de CPU, principalmente os tecnicuzinho de informática formados num cursinho de alguns meses do [[SENAI]].
+
+{{citar|Claro que consertamos DLL corrompida no cabo SATA, é só você trazer sua CPU pra cá|Técnico de informática}}
+
+{{citar|Ah, então quer que eu arranque a porra do processador?|Cliente satisfeito}}
+
+Outro erro mais profundo é chamar a CPU de processador. CPU não é apenas isso, e não há só o processador central num computador, e sim, ainda estamos na [[Desciclopédia]], você não parou por engano na [[Wikipédia]]. Mas como ninguém aqui quer saber de engenharia da computação, vamos dizer que o processador e a CPU sejam apenas a mesma coisa, e vai facilitar a vida dos nobres leitores [[inclusão digital|inclusos]] que só querem ver putaria no Facebook e não querem nem saber de porra de CPU, processador e outros caralhos.
+
+== Criação ==
+[[Arquivo:von Neumann.jpg|thumb|200px|O inventor da CPU (oxe, o [[Bolinha]] é o inventor da CPU?)]]
+Com o advento da eletrônica, os cientistas puderam criar um cérebro artificial, talvez o componente mais próximo de um cérebro humano, pelo menos se levarmos em conta o cérebro humano de gente que compartilha boatos na internet e manda corrente pedindo amém no Facebook. Mas as coisas com a humanidade são engraçadas, e o primeiro cérebro artificial inventado foi apenas para ter um jeito de ganhar uma [[guerra]].
+
+A primeira tentativa de criar um cérebro artificial foi do matemático [[Alan Turing]] (aquele que foi acusado do crime de homossexualismo!), e para quê? Para ganhar uma guerra. Apesar de ser conhecido como pai da computação, a máquina de Turing não possuía um programa, então era só um ábaco elétrico.
+[[Arquivo:Brainiac DC.jpg|thumb|300px|left|Quando uma CPU começar a pensar demais será capaz de dominar o mundo]]
+Foi um judeu conhecido como [[John von Neumann]] que deu os primeiros passos para a criação do cérebro artificial, e esse cara era um cientista matemático criador de armas!!! Ele foi um dos caras que inventaram a [[bomba atômica]], e é o pai da CPU, mas tomou algumas ideias do Turing emprestadas, sem dar crédito (judeu, né). Por causa dele que a [[arquitetura de Von Neumann]] tem esse nome. Acontece que, mesmo roubando ideias, von Neumann não possui artigo na Desciclopédia enquanto Alan Turing tem, e nem pense que esses links vermelhos nesse parágrafo sobre o von Neumann ficarão azuis tão cedo.
+
+Apesar de ser o pai do cérebro artificial, John von Neumann nunca tinha saído da teoria. Quem inventou mesmo o processador foram [[Stanley Kubrick]] e [[Arthur C. Clarke]] no filme [[2001]], com a criação do HAL 9000 ([[É de mais de oito mil]]).
+
+== Conceito ==
+[[ARquivo:Processador gigante.jpg|thumb|300px|Uma demonstração num processador antigo e gigante... opa, esse travou]]
+Se você manjar um pouco de interpretação, vai acabar descobrindo que a unidade central de processamento é uma unidade (logo, não é uma dezena), que fica no centro, e serve pra processar. Dentro daquela pecinha quadrada com cabelinhos dourados, que chamamos de processador, há uma infinidade de coisas, que não se sabe nem como chegaram lá, igual uma bolsa de mulher. Uma dessas coisas é chamada de CPU, que é a nossa unidade central de processamento, que já cansamos de dizer na introdução. Essa CPU é que faz a aritmética... opa, achei que o [[Godines]] ia interromper essa frase. Voltando, a CPU é que faz os cálculos matemáticos no computador.
+
+{{citar|Ué, mas eu uso o programa Calculadora do Windows pra fazer os cálculos|Leitor inteligente|CPU}}
+
+Tudo o que o seu computador faz é matemática! Tudo! Até quando dá pau ou queima a fonte é a merda da matemática causando. Então é necessário um cérebro artificial que consiga fazer milhares de contas avançadas dentro do computador, e não dá pra enfiar um asiático dentro da porra do gabinete pra fazer esse processo (ou dá? um chinês [[Gatinho Bonsai|bonsai]] processador, talvez?).
+[[Arquivo:EgyptianSlaves.jpg|thumb|300px|left|Como a UC age]]
+Nem só de cálculos vive a CPU. A unidade central de processamento também faz a comunicação interna entre os demais equipamentos do computador. Provavelmente você conhece aquela pessoa meio entrosada que se mete na vida de todo mundo, então esse é o CPU sendo essa pessoa intrometida. Não apenas isso, mas também é a CPU que faz as graças de chefia da casa. Quem manda um componente fazer algo é a CPU (lógico, na maioria das vezes a pedido da anta do usuário).
+
+== Estrutura ==
+[[Arquivo:Abaco gigante.jpg|thumb|300px|A ULA de um computador gigante]]
+A unidade central de processamento é dividida em cinco componentes básicos: unidade de controle, unidade lógica e aritmética, registrador, honorável medidor de luz e resto de pasta térmica que os técnicos deixam no processador e acabam atingindo a CPU.
+
+A [[unidade de controle]], do inglês ''control unit'', felizmente bem traduzido senão teríamos que usar o CU toda vez que tivéssemos que mandar o computador fazer algo, é a unidade mais importante dentro da unidade central de processamento. É uma unidade dentro de uma unidade. Essa é a unidade responsável pela chefia; ela lê as instruções e manda a porra toda executar. Sendo a CPU o cérebro do computador, certamente o cérebro do cérebro, embora não faça sentido, mas aqui é a Desciclopédia, se eu quisesse dizer que a UC é o [[pênis]] ereto da CPU eu diria sem pudor. A unidade de controle busca um comando, aquela merda que o usuário incluso mandou fazer, dá uma decifrada e manda executar, mesmo sendo a ideia mais cagada possível. Pena que a UC não tem um filtro de bobagens e cagadas pra evitar usuarices.
+[[Arquivo:Strongman.jpg|thumb|350px|left|Filosofia CISC, carregar tudo de uma vez]]
+A [[unidade lógica e aritmética]], ridiculamente chamada de ULA, igual a dança havaiana, é a parte da CPU que faz os processos matemáticos. Apesar de ser um componente de toda a estrutura da unidade central de processamento, o ULA surgiu antes, é aquela coisa que o Alan Turing inventou pra ferrar com os [[nazistas]]. A interpretação das usuarices é feita pela ULA, que consegue traduzir até mesmo as patetadas mais vergonhosas. A ULA é como se fosse uma calculadora científica, só que mais científica ainda. Ela é capaz de realizar praticamente todos os cálculos possível, exceto aquele cálculo do "com vinte quilos de carne dá pra vinte comer?", que aí dá ''bug''.
+[[Arquivo:Moleza.jpg|thumb|250px|Filosofia RISC, não carrega muito, mas talvez chegue rapidinho]]
+Registradores são uma super memória rápida, mas rápida que a memória [[The Flash|Flash]]. São tão rápidas que, quando a UC pede um comando hoje, o registrador já trouxe tal comando ontem mesmo, porém não conseguem carregar muitos dados. Talvez seja igual transformar um veículo de [[Fórmula 1]] num carro de entrega de geladeiras, por exemplo. O honorável medidor de luz faz os cálculos energéticos do processamento de dados e o resto de pasta térmica dá uma envenenada na velocidade do ''clock''.
+
+== Abordagens ==
+
+No processamento de dados, a unidade central de processamento pode seguir duas filosofias: RISC ou CISC. Mas não é ela quem escolhe a filosofia e sim a fábrica que faz os componentes. Entretanto, a filosofia RISC já foi praticamente abandonada pelas grandes empresas (tais como a [[Intel]] e a [[AMD]]), pois era um risco. Já a CISC recebeu incentivos da [[Cisco]] e hoje domina o mundo. Mas se a filosofia RISC já quase saiu de linha, por que esse conceito ainda não sofreu um ''abolitio'' de uma vez? É que ainda existem fanboys dessa filosofia, que é mais lenta, mas é que fanboy não tá ligando pra qualidade, só quer fanboiolar mesmo.
+
+a filosofia RISC, cuja sigla significa "conjunto reduzido de instruções", então o próprio nome já tá dizendo que essa filosofia já nasceu reduzida. Mas o RISC tem uma vantagem em relação ao CISC. Como ele carrega pouco peso, talvez ele chegue mais rápido ao destino. Já o CISC pode carregar mais coisas, e pode suportar mais dificuldade, já que seu nome é "conjunto COMPLEXO de instruções", e as coisas complexas costumam ser mais fodas que as coisas simples. Em vez de levar pedrinha por pedrinha, o CISC já carrega o saco todo de pedras numa viagem só. Pense no RISC como o frango que faz mil viagens pra levar as sacolas de mercado pra casa, uma por uma, e no CISC como o macho alfa que carrega todas as sacolas de mercado de uma só vez. Talvez ele nunca chegue à casa, mas pelo menos ele tentou uma complexidade. 
+
+== Ver também ==
+
+*[[Unidade gráfica de processamento]], a prima da unidade central de processamento
+*[[RAID]]
+*[[Virtualização]]
+
+{{Componentes e acessórios de computador}}
+[[Categoria:Engenharia da computação]]
+[[Categoria:Hardware]]

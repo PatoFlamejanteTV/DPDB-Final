@@ -1,0 +1,64 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = black
+|brasao            = Escudo do Partizan.png
+|hino              = 
+|nome_oficial      = Fudbalski Klub Partizan Beograd
+|origem            = {{SER}}''' - [[Belgrado]]'''
+|apelidos          = ''Coveiros''
+|torcedores        = Comunistas
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Stadion Partizana|Stadion Pizzaollo]]
+|capacidade        = 32,710
+|sede              = [[Belgrado]]
+|presidente        = Quem se habilita?
+|treinador         = [[Aleksandar Stanojević]]
+|pior              = [[Mladen Božović]]
+|melhor            = [[Stevan Jovetić]] (ironicamente um montenegrino)
+|patrocinador      = [[MTS]] (Muito Tolete Somado)
+|material          = [[Nike]]
+|liga              = Campeonato Sérvio
+|divisao           = Суперлига
+|títulos           = 
+|ranking           = 
+}}
+
+'''Fudbalski Klub Partizan Beograd''' é o grande segundo mais tradicional e respeitado time da Sérvia (sétimo time na antiga-Iugoslávia antes dos times croatas, búlgaros e etc forem jogar suas próprias ligas), destaca-se por nada, por apenas ser o único rival do [[Estrela Vermelha]] (tão invejoso que tem também uma estrela vermelha em seu próprio escudo), só que por mais que se esforce jamais conseguirá ganhar uma Champions League e Mundial como rival, por isso é fadado eternamente a ser o segundo time da Sérvia.
+
+== História ==
+=== Fundação ===
+
+O Partizan foi criado no ano de 1945, mas nessa época tanto o time, como comissão técnica, como diretoria era formada inteiramente por bonecos de papelão pintados e decorados com recortes coloridos de papel celofane para que de muito longe (mais ou menos a distância de uma arquibancada de um estádio para o campo) passasse a impressão de serem seres humanos de verdade ali.
+
+O objetivo inicial era criar um time-fantasma que servisse apenas para perder para o [[Estrela Vermelha]], o time símbolo do sistema comunista iugoslavo e invencível conforme a propaganda. Infelizmente a televisão a cores foi inventada, e a velha tática dos bonecos de papelão não surtiria mais efeito, e o jeito foi contratar mendigos das ruas de [[Belgrado]] e presidiários (daí o uniforme em listras preto e branco) para continuar o objetivo do time de ser o eterno segundo da Iugoslávia.
+
+=== Tentativas de sucesso europeu ===
+
+De vez em quando o Partizan planejava degringolar e fazer algo de útil, porém o máximo que conseguiu foi um vice da Taça dos Clubes Campeões Europeus de 1965–66, época em que qualquer time chegava a final caso pegasse uma chave fácil precisando eliminar no máximo umas duas equipes profissionais. Não foi páreo para o [[Real Madrid]] na final, aliás ter perdido só de 2x1 e tendo marcado o primeiro gol é orgulho para eles.
+
+Foi campeão todavia da [[Copa Mitropa]] de 1977/78, um torneio não-oficial unilateral que reunia todos times ruins da Europa carentes de taças para que a cada ano um time mais escroto que outro fosse campeão. Em 1978 o Partizan foi a vez dessa fila.
+
+No geral, nunca conseguiu reconhecimento internacional, é no máximo "aquele time rival do Estrela Vermelha que é campeão europeu, e eles não".
+
+=== Campeonato Sérvio-montenegrino ===
+
+Quase não ganhou uma taça do campeonato Sérvio-montenegrino. Apesar dos times mais fortes da Iugoslávia agora estarem em suas próprias ligas da Croácia, Macedônia, Eslovênia e Bósnia-Herzegovina, os times de Montenegro ainda continuavam jogando junto dos sérvios, e isso trazia muito dificuldade ao Partizan, que inclusive auxiliou no movimento de independência de Montenegro.
+
+=== Campeonato Sérvio ===
+
+Após a separação de [[Montenegro]] em 2006, uma região tradicional de times fortes, o [[campeonato sérvio]] decaiu tanto de qualidade e de faltas de times que o Partizan conseguiu ser hexa-campeão sérvio (2008, 2009, 2010, 2011, 2012, 2013), provando como o futebol sérvio sempre foi um lixo.
+
+== Títulos ==
+
+* '''[[Copa Mitropa|Copa Troca-troca]]''': 1 vez (1978)
+* '''[[Campeonato Sérvio]]''': 5 vezes (2007-08, 2008-09, 2009-10, 2010-11, 2012-13, 2014-15)
+
+{{Campeonato Sérvio}}
+{{Liga Europa da UEFA}}
+{{Liga dos Campeões da UEFA}}
+[[Categoria:Times de futebol da Sérvia|Partizan]]
+
+[[hr:Partizan]]
+[[sr:Partizan]]

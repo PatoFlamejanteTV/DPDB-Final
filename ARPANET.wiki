@@ -1,0 +1,23 @@
+<center>{{Internet}}</center>
+
+'''ARPANet''', sigla feiosa em [[inglês]] para '''Advanced Research Projects Agency Network''' (Agência para Projeto Avançado de Descobertas de Comunicação - eu acho que é isso) do Departamento de Defesa dos [[EUA|Istadus Unidoz]], foi a primeira tentativa de fazer uma [[rede]] de [[computador]]es a base de <s>[[gambiarra]]</s> troca de pacotes de informação, a mãe desse monte de bosta virtual que hoje chamamos de [[internet]].
+
+== História ==
+[[Arquivo:Bill Gates mugshot.png|thumb|[[Bill Gates]] preso após tentar invadir a ARPANET em [[1977]].]]
+A '''ARPANET''' ou '''ARPANet''' foi tipo a avó bastarda da tia da mãe [[Internet]]. Desenvolvida pela empresa <s>[[Punheta|FAPA]]</s> [[ARPA]] em [[1969]], tinha como objetivo transformar todas as bases militares norte-americanas em verdadeiros [[Big Brother]]s sob a supervisão de <s>[[Pedro Bial]]</s> superiores do [[Exército]], [[Marinha]] e [[Aeronáutica]] do país. Com o lema "[[Mensagem subliminar|Yvan eht nioj]]", eles controlariam todas as informações que fossem transmitidas entre os quartéis, evitando [[Wikileaks|vazamento de informações idiotas]] sobre o fato de ter [[gay]]s na Marinha ou das orgias nos quartéis do Exército, como o [[Fort Knox]] por exemplo. 
+
+O [[O Pentágono|Pentágono]] fez todas as programações necessárias para que a rede continuasse ativa, apesar de alguns [[hacker]]s descobrirem fotos e vídeos dos militares e saírem por aí fazendo os primeiros sites [[pornô]] do mundo, como o [[Pornotube]] por exemplo. Também encontraram o vídeo de uma experiência maligna utilizando <s>[[fezes]]</s> [[chocolate]], duas mulheres e o [[sistema digestivo]] de cada uma delas (para mais informações favor conferir - o artigo, não o vídeo - [[2 Girls 1 Cup]]) e espalharam esse vídeo até hoje causando <s>nojinho</s> raiva nos militares.
+
+O governo americano financiou a ARPANet durante a [[Guerra Fria]], para em caso de emergência e a [[União Soviética]] quisesse esquentar a guerra, bastava procurar uma [[POG|programação de emergência]] para rapidamente dar fim nos adversários. Em meados dos [[anos 70]], as universidades americanas conseguiram fazer uma gambiarra daquelas e enfim tiveram pleno acesso ao conteúdo da ARPANet, fazendo com que ela tivesse na época 100 sites, a maioria sobre [[Jornada nas Estrelas]], [[Além da Imaginação]], [[Homem-Aranha]] e [[Linda Lovelace]].
+
+Em [[1979]], após o ataque hacker de Bill Gates, o pacote de transmissão [[NCP]] estava igual ao [[servidor da Desciclopédia]]: uma merda. Aí trocaram para o mais comum atualmente, [[TCP/IP]]. Se [[você]] não entende de programação, essas siglas e cagar pra cima são a mesma coisa para vossa pessoa.
+
+Por fim, em [[1983]] a ARPANet perde a parte militar - já de saco cheio de falar em [[chat]]s com [[nerd]]s sobre assuntos de guerra usando estratégias de [[War]] ou de [[Magic]] - que se transforma em [[MILNET]] (atual [[NIPRNET]]) e continua até os [[anos 90]], quando em [[1991]] alguém teve a ideia de criar a [[World Wide Web|rede mundial]], que aí mudou o nome da ARPANet para Internet. E assim termina a saga da ARPANet.
+
+Vejam abaixo um diagrama extremamente complexo do funcionamento da ARPANet.
+
+[[Arquivo:Img009.jpg|thumb|center|600px|Mapa logico da rede '''ARPANet'''. Parece meio embolado e complexo pra cacete, mas o sistema era organizado e quase indestrutível.]]
+
+[[Categoria:História da Internet]]
+[[Categoria:Invenções dos Estados Unidos]]
+[[Categoria:Siglas]]

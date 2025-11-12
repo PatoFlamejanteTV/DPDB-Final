@@ -1,0 +1,115 @@
+{{game}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Pokémon Green/Red/Blue
+|image     = Pokémon{{#switch: {{#expr: {{#time: H}} mod 3}}|0=Green|1=Red|2=Blue}}.jpg
+|caption   = {{#switch: {{#expr: {{#time: H}} mod 3}}|0=Capa do jogo onde temos o Venusaur no meio de várias letras que ninguém entende|1=Capa do jogo, onde vemos [[Charizard]], como sempre muito bem desenhado|2=[[Blastoise|BLAAAAAAASTOIISSSSSSSSSSSEEEEEEEEE!!!!]]}}
+|developer = [[Game Freak|Game Tang]]
+|publisher = [[Nintendo]]
+|released  = [[1900 e Guaraná com rolha]]
+|genre     = RPG/Caça-bichas
+|platform  = [[GameBoy]]
+|rating    = 9,3
+|ages      = Para crianças
+}}
+[[Arquivo:Spr 1g 006.png|thumb|right|200px|Um dos maravilhosos ''sprites'' que você pode encontrar nesse jogo]]
+
+{{C|Capturei o Pokémon mais forte do mundo, o Pikachu!|Noob|Viridian Forest}}
+{{C|It's better dead than red!|[[Capitalismo|jogador de Pokémon Blue]]}}
+{{C|Quero ter três iniciais que nem no anime!|Otaku|Pokémon Yellow}}
+{{C|Tem que capturar tantos pra ter HM 05?!|Preguiçoso|descobrir que precisa ter conseguido [[dez]] Pokémon pra ter flash}}
+{{C|Ah, ainda não criaram Pokémon tipo negro?|[[Darth Vader]]|Pokémon Red/Blue/Yellow}}
+{{C|Afinal a Elite 4 vale a pena!|Você|tamanho dos peitos de Lorelei}}
+{{C|Cadê os effort values, natures e shinies?|[[Nerd]]|Pokémon Red/Blue/Yellow}}
+{{C|Capiturei um Mew, ele é tão FoFOUXUuUUU?|[[Emo]]|capturar [[Mew]]}}
+{{C|Na União Soviética, Pokémon treina você!|[[Reversal Russa]]|Pokémon Red/Blue/Yellow}}
+{{C|PORRAAAAAAAAAA!|[[Você]]|Pokémon Slots}}
+
+'''Pokémon Green/Red/Blue''' são os principais jogos da 1º geração de Pokémon. É aqui que se inicia a história cliché, em que um perito em Pokémon chamado Professor Castanheiro envia dois rapazes de 10 anos para conseguir informações de todas as bichas virtuais, sem os dois idiotas perceberem que estavam a fazer trabalho de escravo. O jogo inclui lutas, capturas, evoluções, líderes de ginásio, caras idiotas carecas que ficam aparecendo no telhado do ginásio de Cinnabar Island e como todo o bom jogo de Pokémon, inúmeros glitches.
+
+==Personagens==
+
+* '''[[Red (Pokémon)|Red]]:''' O rapazinho do jogo, que sai de casa para uma aventura sem mudar de roupa e sem nunca comer nada. Algumas pessoas dizem que ele é parente de [[Dercy Gonçalves]], pois parece nunca morrer.
+* '''[[Blue (Pokémon)|Green/Blue]]<s>/[[Gary Oak]]</s>:''' Seu rival no jogo, ele fica te chateando a cabeça o jogo todo e acaba por conseguir ser o [[apelão|campeão da liga]], subornando os outros da elite até que você chega o rouba o título dele.
+* '''[[Professor Carvalho|Professor Castanheiro]]:''' [[Velho]] maluco que conseguiu enganar [[Idiota|dois idiotas]] para ficar com a [[Pokédex]] completas e podê-las vender por altos preços, mesmo usando uma mão-de-obra barata.
+* '''[[Giovanni]]:''' Líder da [[Equipe Rocket|Equipe Raquete]], pretende conquistar o mundo como qualquer [[vilão]] maníaco e [[Idiota]]. Controla o ginásio doidão de Viridian.
+
+===Líderes de ginásio===
+[[Arquivo:Sabrina1-1-.jpg|thumb|Sabrina com seu chicote, que acabou sendo cortado pelo fotógrafo.]]
+* '''[[Brock]]:''' Um ceguinho do ginásio de [[Pewter]] que se acha forte e machão por ter Pokémon tipo Pedra.
+* '''[[Misty]]:''' Uma garota que pensa que sabe muito sobre Pokémon de água mas que só tem dois deles.
+* '''[[Tenente Surge]]:''' Um [[Idiota]] que esconde botões dentro de Latas de lixo para te obrigar a sujar enquanto você tenta encontrar a forma de abrir as portas do ginásio que levam a ele. Usa Pokémons Elétricos.
+* '''[[Erika]]:''' Uma mulher que pode parecer uma forte adversária mas os Pokémon dela até perdem para outros de [[Maconha|Erva]].
+* '''[[Koga]]:''' Um [[Ninja]] que acha que fica muito incógnito por colocar paredinhas invisíveis no seu estúdio de magia a que ele chama ginásio. Usa pokemons Venenosos.
+* '''[[Sabrina]]:''' Uma mulher que gosta de chicotear seus Pokémon psíquicos. Se você perder ela te chicoteia também. Usa Pokémons Psíquicos.
+* '''[[Blaine]]:''' Velho perito em enigmas que usa Pokémon de fogo.
+
+===Treinadores da Liga===
+
+* '''[[Lorelei]]:''' Uma peituda de cabelo ruivo que usa Pokémon com ataques de gelo incluindo um [[Slowbro]] que é burro a ponto de ficar com Amnésia de propósito.
+* '''[[Bruno ]]:''' Homem de tronco nu que esconde a sua mariquice a usar Pokémon de luta. Ele é burro e usa dois [[Onix]] em vez de apenas um. Mais burro ele é se você escolher o Squirtle ou Bulbasaur pra foder com tudo.
+* '''[[Agatha ]]:''' Velhota irritante que tem dois [[Gengar]] doidões que usam Lick para saber se a sua treinadora ainda está madura.
+* '''[[Lance (Pokémon)|Lance]]:''' Um cara que se acha foda porque usa Pokémon Dragões incluindo um Gyarados,<s>só porque aprende um ataque do tipo [[Dragão]]</s> que naverdade é tipo água e voador que nem sequer sabe voar.
+*'''[[Blue Oak]]:''' Seu rival, ele é o campeão da liga com apenas 15 anos de idade, prova que os treinadors da liga são todos fracos no final das contas.
+
+===Team Raquete===
+Organização que começa por aparecer no Monte da Lua (que mais parece uma gruta que um monte) e usa Pokémon aparentemente fracos como Ratatta e Zubat. Podes ficar a rir, mas depois vem o Giovanni com sua cabeça redonda para dizimar-te. Para os vencer, podes dar-lhes um papel no qual está escrito "Chuck Norris é gay" e pedir para eles lerem em voz alta, fingindo que é um tratado de paz.
+
+==Pokémons lendários==
+
+* '''[[Articuno]]:''' Passarinho tipo [[Gelo]] que tem como objectivo deixar você confuso enquanto o procura nas [[Seafom Islands(Pokémon)|Seafrom Islands]].
+* '''[[Zapdos]]:''' Passarinho do tipo eléctrico que tem as suas penas muito espetadas devido a fumar muita [[Maconha]].
+* '''[[Moltres]]:''' Passarinho do tipo [[Fogo]] que tem a cabeça e as asas ardendo mas nem assim chama os bombeiros.
+* '''[[Mewtwo]]:''' Pokémon do Tipo [[Psíquico]] que é ser super-poderoso por estar no LV. 70, mas que pode ser derrotado por um simples pokémon fantasma altamente treinado.
+* '''[[Mew]]:''' [[Pokémon]] que só cheaters conseguem <s>usando [[Game Shark]] </s> e que se Teleporta muito rapidamente para fugir ao [[Maconha|cheiramento de gatinhos]].
+* '''[[Missingno]]:''' Talvez muitas pessoas não saibam que é mais forte que o [[Mewtwo]] por estar no LV 80,mas só serve para clonar o sexto item.
+
+==Como Passar==
+* Leia este artigo todo da [[Desciclopédia]] e deixe-o mais engraçado.
+* Capture todos os 151 Pokémon para depois fazer release neles.
+* Encontre o [[Missingno]] e deixe ele multiplicar a sua Coin Case para [[porra nenhuma]].
+* Passe a Elite Four 100 vezes [[Idiota|pensando que assim vai conseguir mover o Caminhão perto do navio]] <s>ASS</s> SS. Anne para pegar a [[Pokébola]] do [[Mew]] LV. 30.
+*Comece o jogo com o [[Charmander]] e se [[Sexo|Foda]] nos 2 primeiros ginásios do Brock e da Misty.
+* Fale com o carinha de [[Celadon City(Pokémon|Celadon]] que te dá um [[Diploma]] em troca do seu trabalho de escravo de completar a [[Pokédex]].
+* Desligue o [[GameBoy]] e vá assistir [[Happy Tree Friends]].
+
+==Então e o Pokémon Green?==
+[[Arquivo:Mewt.gif|thumb|Um pokémon green.]]
+Foi daqui de onde tudo começou. Pokémon Green é um jogo com qualidade de imagem ainda pior. Na sua versão japonesa é possível conseguir o [[Mew]] capturando os outros 150 Pokémon e obtendo um diploma, logo os emos são fanáticos por este jogo. Devido à qualidade da imagem o Mew desta versão parece um rato modificado em laboratório. Embora este jogo pareça não ter muita fama, criaram uma versão com umas coisas toscas a mais e imagem melhor a fazer de remake do Green, chamado Pokémon Leaf Green. Às vezes a [[Nintendo]] não toma juízo. Se preferir jogar um remake do Blue vai procurar hackroms, não leva nada daqui, seu preguiçoso. Mas enfim, se não fosse por essa bagaça de Pokémon Green, com certeza não teriamos a febre Pokémon que dominou o mundo dos Otakus e desses Furrys punheteiros.
+
+==Então e o Pokémon Yellow?==
+'''{{ver|Pokémon Yellow}}'''
+[[Arquivo:Brock by Nightmare Shockwave.jpg|thumb|left|Brock em sua aparição em Pokémon Yellow.]]
+[[Arquivo:Magichu.png|thumb|E agora um yellow.]]
+Alguns anos após a saída dos primeiros jogos o [[Pikachu]] foi ter com os produtores da Nintendo e subornou-os com heroína para eles fazerem um jogo só dele e [[otaku|parecido a série de televisão]]. Mas a única coisa parecida é que levamos um Pikachu como inicial atrás de nós, ganha [[Bulbassaur]], [[Charmander]] e [[Squirtle]] e aparecem aqueles três idiotas da Team Raquete que chateiam a cabeça do Cinza e dos seus amigos igualmente patetas. Virando-se para o Pikachu e clicando no botão A podemos ver como é que ele se sente. Se estiver feliz é porque você está prestes [[morte|a cair num buraco]], se estiver triste é porque a sua [[Gonorréia]] passou, se estiver zangado é porque você comeu um [[Emo]], e se estiver aos pulos é porque que quer fazer [[Mijar|xixi]], coisas que um burro como o treinador principal do jogo que nem sequer sabe falar vai entender. Se você lhe der uma Thunder Stone para Evoluir, ele não vai aceitar porque se lembra do tempo em que estava [[Maconha|Pedrado]]. E se o gameboy não tiver o botão A para você poder falar com Pikachu, é porque foi vendido numa loja chinesa. Ai você fica com ódio e se pergunta: "''Tem alguma forma de evoluir ele infeliz para [[Raichu]]?''". Sim, pior que tem! Para isso você precisa transferi-lo para uma das versões antigas do jogo e enfiar a Thunder Stone duela abaixo, depois só devolver o Raichu para a Yellow, e advinha, ele para de te seguir finalmente entra na Pokebola (demorou!).
+
+== Vídeos ==
+{|{{tabelabonita}}
+|-
+|<YouTube> 
+    title=Red finalmente vencendo a Elite Four
+
+ 
+
+    movie_url= http://www.youtube.com/v/kDqCiGmYEQQ&feature=related
+    embed_source_url=http://www.youtube.com/v/kDqCiGmYEQQ&feature=related
+    wrap=no 
+
+width=480
+
+height=385
+
+</YouTube>
+|-
+|}
+
+{{break}}
+{{Oposto|Pokémon Terror Black}}
+{{Pokémon games}}
+
+[[Categoria:Jogos lançados em 1996]]
+[[Categoria:Jogos da Game Freak]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Game Boy]]
+[[Categoria:Jogos de RPG]]

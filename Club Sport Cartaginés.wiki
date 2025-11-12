@@ -1,0 +1,58 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = darkblue
+|brasao            = Escudo do Cartaginés.png
+|hino              = Hino do River Plate 
+|nome_oficial      = Club Sport Carta Chinés SAC Alcoólicos Anónimos Deportiva
+|origem            = {{CRC}}'''- [[Cartago (Costa Rica)|Cartago]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      =  
+|material          = 
+|liga              = [[Campeonato Costarriquenho]]
+|divisao           = Primera División
+|títulos           = 
+|ranking           = 
+}}
+
+'''Club Sport Cartaginés''' é só um time desconhecido e sem importância da [[Costa Rica]] que mal dá conta de ser campeão nacional, por mais que em seu país só tenham times piores que os piores times do Mato Grosso do Sul. É sócio de carteirinha de maior freguês assíduo do Saprissa e do Alajuelense, rivais de quem não ganha já tem 80 anos.
+
+== História ==
+=== Fundação ===
+
+O Cartaginés foi fundado em 1923 numa tentativa de trazer o futebol para a cidade desconhecida de [[Cartago (Costa Rica)|Cartago na Costa Rica]], se a intenção foi isso, eles falharam miseravelmente. Mas se a intenção foi manchar o nome da cidade pra sempre, aí sim eles foram incrivelmente bem sucedidos.
+
+=== Únicos títulos ===
+
+O clube só ganhou campeonatos na época que a tecnologia da escrita ainda nem havia chegado na Costa Rica e teu bisavô ainda era virgem. Campeão nos anos de 1923, 1936 e 1940, tal qual o America do Rio, ninguém lembra ou tem realmente certeza que o clube tenha sido campeão, mas é que ninguém vai contestar mesmo.
+
+=== Jejum ===
+
+O clube aceitou sua inferioridade com espírito esportivo e foi um dos primeiros times a aderir ao lema da FIFA de ''fair-play'' e de que ''o importante é competir''. Foram 55 anos sem ganhar uma partida sequer de Saprissa e Alajuelense, para o Cartaginés a terceira colocação costarriquenha era comemorada como título, embora até isto sempre tenha sido raríssimo.
+
+=== Liga dos Campeões da CONCACAF de 1994 ===
+
+O Cartaginés acabou sagrando-se campeão continental no ano de 1994 por completo acidente, afinal nem mesmo toda ruindade do mundo pode prevenir algum clube de não ser campeão num torneio onde se enfrenta clubes reservas de equipes amadoras como o [[Club Deportivo Petrotela|Petrolera]] de Honduras (e mesmo assim ter avançar após disputa de pênaltis acirrada por persistentes 0x0).
+
+Nas semi-finais o fortíssimo adversário foi o [[Union Sportive Robert]] da Martinica, um local que ninguém nem sabe o que significa futebol, e mesmo assim mais uma vez o Cartaginés esbanjou ruindade e só avançou após disputa de pênaltis após inúmeros empates de 0x0, afinal ninguém ali sabia fazer gol.
+
+O milagre aconteceu na final, quando o Cartaginés venceu pela primeira na história, e pela única vez, um time mexicano. A vítima foi os reservas do sub-12 de times de cegos e aleijados do [[Club de Fútbol Atlante|Atlante]] do México, com uma vitória de 3x2 o Cartaginés conquistou seu nfabuloso título continental.
+
+== Títulos ==
+
+* '''Ficar 80 anos sem vencer o Saprissa ou Alajuelense'''
+
+{{Campeonato Costarriquenho}}
+{{Liga dos Campeões da CONCACAF}}
+
+[[Categoria:Times de futebol da Costa Rica|Cartaginés]]

@@ -1,0 +1,25 @@
+<choose>
+<option>{{sortudo}}</option>
+<option>{{velhinho}}</option>
+</choose>
+<br />
+{{Traduzindo|Sr. Magoo}}
+{{Vqd|Mr. [[Mago]]}}
+{{C|Será que ele tem um [[Trevo de Quatro Folhas|Trevo de quatro folhas]].|<s>Doente</s> Duende|Mr. Magoo}}
+{{C|Quem tá aí?|Mr. Magoo suspeitando da citação acima}}
+
+[[Arquivo:MrMagooCego.jpg|thumb|Mr. Magoo]]
+
+'''Mr. Magoo''' é um velhinho de 90 anos com problema sério de vista, separado na maternidade de seu irmão gêmeo, [[véio da Havan]].
+
+Nascido no [[México]] em 1900, foi [[goleiro]] do [[Grêmio]], na primeira vez em que o time foi rebaixado.
+
+Poucas pessoas conhecem a origem nordestina de Mr. Magoo. Ele veio do nordeste para trabalhar em [[São Paulo]]. Fez grande carreira como fiscal e como guarda rodoviário, pois nunca via nada. Seus chefes, achando que ele utilizava a técnica chamada vista grossa, lhe enviaram para os [[EUA]], para aperfeiçoar suas técnicas de não ver nada. Mr. ''Magoou'' fez grandes regressos em sua cegueira, ganhando medalha de prata nos Jogos Panamericanos, na modalidade Tiro ao Alvo, e medalha de bronze como pivô da seleção brasileira de basquete, porém como o esporte não compensa nesse país, caiu no ostracismo (não sabe o que é ostracismo? Pesquisa no Google, pô!!!).
+
+Seu irmão também tem a doença, porém não fez o tratamento, pois continua aproveitando as vantagens de não ver nada. Já trabalhou em [[Brasília]], "ganhando" influência e prestígio. Seu nome é [[Lula]].
+
+
+{{ampliar}}
+{{animado}}
+[[categoria:Ceguetas]]
+[[categoria:Carecas]]

@@ -1,0 +1,30 @@
+{{DISPLAYTITLE:<font color=black face="Impact">Impact</font>}}
+ 
+{{traduzir|Impacto|Impact}}
+{{c|Impacto Dragão!!|[[Ryugo Someoka|Someoka]]|Impact}}
+{{c|Não consigo ler nada!|[[Pica-Pau]]|tudo o que está escrito no artigo}}
+
+[[Arquivo:Amostra DP Impact.gif|thumb|left|200px]]
+[[Arquivo:Zé kohlmeia.png|thumb|250px|right|Essa não é a Impact, é a Pioneer!]]
+O '''Impact''' surgiu na Inglaterra em [[1900 e guaraná com rolha|1960 e porra com geleia]], por um desocupado. Era muito maior que seus ancestrais, era comprido e entre uma letra e outra, o espaço era menor que bilau de japonês. O desocupado recebeu cartas com cheiros variados, que identificariam os críticos.
+A primeira foi de um [[vagabundo]] [[sexo anal|anal]]fa[[Roberto|beto]] que não conseguia ler nem escrever. Como ele conseguiu mandar a carta pro cara só saberemos quando provas da existência do Acre formem confirmadas ou quando descobrirem a origem do [[Sonic Crackers]].
+
+A segunda e última foi de uma [[virgem|donzela]], que criticou a fonte por causa do seu espaço mínimo entre outras letras. Ela era muito conservadora e escreveu o seguinte na carta:<br>
+:{{c|...Enfim, depois de uma curta introdução, vim reclamar do espaço mínimo de uma letra pra outra, pois lembra um [[bacanal]] <s>e eu acho isso bacana</s>. A fonte pode ser usada para logos ou usos onde tamanho é documento, mas em texto fica feio!...}}
+E é por causa dessa carta que seu professor te mata se a redação estiver escrita com Impact ao invés [[arial|desta aqui]]
+
+Em 2007, a fonte viajou pro Canadá para namorar Leshawna, pois as duas coisas eram grandonas e escandalosas. Levou um fora, pois o popozão [[O Guia do Mochileiro das Galáxias|desmesuradamente, inconcebivelmente, estonteantemente GRANDE]] de Leshawna era demais para uma simples fonte tipográfica.
+Deprimido, foi arrumar emprego no [[Mundo Canibal]], onde está até hoje trabalhando. A Microsoft o acrescentou na liga das fontes [[Polishop|inteiramente grátis]] que vem com o [[Microsoft Word|Word]]
+
+{{fontes}}
+{{esboço}}
+
+<css>
+#globalWrapper {font-family:Impact}
+#bodyContent {font-family:Impact}
+a {font-family:Impact}
+a:visited  {font-family:Impact}
+h1 {font-family:Impact}
+h2 {font-family:Impact}
+h5 {font-family:Impact}
+</css>

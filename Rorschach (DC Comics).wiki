@@ -1,0 +1,78 @@
+<choose>
+<option>{{Mascarado}}</option>
+<option>{{hero}}</option>
+<option>{{anti-herói}}</option>
+<option>{{detetive}}</option>
+</choose>
+{{Info lutadores de video-game
+|nome                    = Rorschach
+|imagem                  = ror5.jpg
+|País de Nascimento      = {{EUA}} - [[Nova Iorque]] 
+|Data de Nascimento      = Experimenta perguntar pra ele pra ver...
+|Idade                   = 45
+|Altura                  = 1,67 
+|Peso                    = 63kg
+|Cabelo                  = Ruivo
+|Olho                    = Azul
+|Estilo de Luta          = [[Quiropraxia]] e Detetivismo
+|Arma Preferida          = Punhos
+|Técnica Máxima Secreta  = Torção de dedo
+|Religião                = Desconhecida
+|Profissão               = Vigilante Ilegal
+|Característica Marcante = Quebra o dedo primeiro e pergunta depois
+|Comida Favorita         = Feijões (compulsivamente)
+|Frase Favorita          = ''Hmmmm...''
+|Esporte                 = Rapel
+|Mania                   = Escrever diário
+}}
+{{compactar|
+{{Você quis dizer|[[Você|República Tcheca?]]}}
+{{C|Ele me da um baita prejuízo mensal só com fechaduras e feijão em lata...|[[Coruja]]|Rorschach}}
+{{C|Ele usa uma máscara|[[Capitão Óbvio]]|Rorschach}}
+{{C|Rosbife?|[[você]]|Rorschach}}
+{{C|Eu vejo uma borboleta... um carrinho... uma árvore...|Criancinha|Rorschach}}
+{{C|Esse mascarado vai sair pelas ruas e espalhar muita confusão com sua turminha que é da pesada!|[[Narrador da sessão da tarde]]|Rorschach}}
+{{C|Temos um assassino serial a solta!|Rorschach após UMA pessoa ter sido assassinada}}
+{{C|Você não me pega!|Altaïr sobre o comentário acima}}
+{{C|Peguei.|Rorschach 20 segundos após ler o comentário acima}}
+{{C|Ele é uma ameaça à sociedade|Policial| Rorschach}}
+{{C|AAAiiee|O mesmo policial, chupando o dedo quebrado}}
+}}
+
+Quando não está nas ruas batendo, interrogando, intimidando, <s>Marlon Brando</s> ou humilhando, '''Rorschach''' gosta de exercer suas habilidades de Quiropraxia nas pessoas que necessitam, querendo elas ou não.
+
+==Biografia==
+Nascido em uma zona muito humilde de Nova Iorque, Rorschach foi gentilmente depositado por sua mãe em uma lixeira do Bronx. Por ser muito <s>feio</s> diferente, ninguem teve coragem de pegá-lo, obrigando o pobre bebê à viver por conta própria, usando sua lógica natural e conhecimentos na arte da fuga para resolver alguns pequenos casos criminais no bairro.
+
+Conseguiu (à força) uma bolsa para cursar Quiropraxia, um dos seus sonhos íntimos, e concluiu os estudos antes do final do vestibular. Com 25 anos, encontrou uma máscara muito legal em uma tenda da Nicarágua, e juntando com seu sobretudo e chapéu padamí comprado na feira da morada do sol, formou a indumentária que consagraria seu visual de vigilante.
+
+Por ser muito intolerante quanto à ladrões, viados, enxadristas e assassinos de heróis, costumava encher de porrada esses tipinhos, e logo foi rotulado como vigilante. Foi convidado para se unir a um grupo de protetores <s>de tela</s> da sociedade, os Uatx Men.
+
+Ficou famoso depois de aparecer na primeira edição da HQ [[Watchmen]].
+
+==Passatempos==
+
+Também é um grande fã das expressões corporais. Com sua máscara mutante, ele forma as mais variadas figuras para que os outros tentem descobrir dando palpites.
+
+Psicólogos do mundo inteiro já tentaram contratá-lo, mas ele prefere a clandestinidade.
+
+Foi campeão mundial de [[Imagem e Ação]] em 1984.
+
+==Galeria==
+<gallery>
+Arquivo:Ror3.jpg|Fudeu...
+Arquivo:Ror2.jpg|Rorschach fazendo o que mais gosta: comendo os feijões do Coruja.
+Arquivo:Ror4.jpg|Rorschach tratando um paciente.
+Arquivo:Ror1.jpg|Sua representação para Espinafres em Dó Maior.
+</gallery>
+
+== Ver também ==
+*[[Ozymandias]]
+
+{{Vigilantes Ilegais}}
+{{DC}}
+
+[[Categoria:Ateus fictícios]]
+[[Categoria:Detetives]]
+[[Categoria:Heróis da DC Comics]]
+[[Categoria:Personagens fictícios dos Estados Unidos]]

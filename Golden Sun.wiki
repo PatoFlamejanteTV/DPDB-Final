@@ -1,0 +1,48 @@
+{{game}}
+
+{{Infobox Série Game
+|title         = Golden Cum
+|image_logo    = Golden_Sun.png
+|caption       = Logotipo da franquia.
+|genre         = RPG de turno com temática pseudocientífica
+|developer     = [[Camelot Software Planning|Camelô Software Planning]]
+|publisher     = [[Nintendo]]
+|origin        = [[Game Boy Advance]]
+|first_release = [[Golden Sun (jogo)]] (2001)
+|last_release  = [[Golden Sun: Dark Dawn]] (2010)
+}}
+
+{{c|É o meu filho bem sucedido!|Beyond the Beyond|Golden Sun}}
+
+'''Dourado Sol''' é uma trilogia de RPG de turno obscura que nasceu no [[Game Boy Advance]] e morreu no [[Nintendo DS]].
+
+==Origem==
+A série foi criada pelo casal de camelos Hiroyuki Takahashi e Shugo Takahashi, que por não conseguirem vaga como desenvolvedores de jogos de [[Pokémon]] decidiram criar seu próprio jogo da pegar monstrinho, só que com a jogabilidade de RPGs padrões e puzzles de [[Wild Arms]] (tipo empurrar pedra, queimar gelo, molhar tocha e fazer planta crescer) do que batalhas.
+
+==História==
+Golden Sun não é conhecido pela história e nem pelos personagens (que são todos um bando de pseudointelectuais nada memoráveis), tanto que o terceiro jogo possui uma [[Wikipedia]] inclusa para tentar refrescar a memorias dos jogadores sobre quem eles eram e o que aconteceu nos jogos anteriores, sem sucesso.
+
+Os protagonista são todos criança prodígio com poder de [[X-Men]] que devem impedir dois marcianos que invadiram sua vila (um homem azul e uma mulher rosa) de ligarem os reatores nucleares da cidade do [[Vale-Puta|Vale]] para conseguir [[energia elétrica]] abundante e barata, pois acreditam que energia nuclear é do mal e pode destruir o ecossistema. Porém após matar os marcianos, as crianças são convencidos pelo gato [[Felix the Cat|Felix]] de que os marcianos estavam certos o tempo todo e só queriam ajudar, e agora decidem terminar o que os ETs começaram, ligando todos os reatores com medo de sofrerem um apagão elétrico e ficarem sem internet e videogame.
+
+[[Arquivo:golden-sun-djinn.jpg|left|300px|thumb|Djinns, oriundos do obscuro Pokémon AF fazem ponta nos jogos.]]
+O terceiro jogo revela que ligar todos os reatores nucleares do mundo fez com que novas dungeons surgissem para encher linguiça, porém vários [[Buraco negro|buracos negros]] começam a surgir do nada e chupar os cidadãos, retando à nossos heróis salvarem o dia... porém agora eles já tem mais de 20 anos, o que os faz muito velhos para serem protagonistas de RPGs japoneses. Felizmente, os heróis previram que envelheceriam e se clonaram via biotecnologia alquímica, gerando novos personagens ainda mais genéricos e esquecíveis que eles. Os clones agora tem a missão de viajar pelo mundo em busca de uma galinha gigante e lhe der um tapa no papo, fazendo com que o animal drope penas para os heróis usarem como asa-delta e poderem ir até a dungeon final, mas no meio do jogo surge um [[Eclipse (fenômeno)|eclipse solar]] que faz encontros aleatórios ocorrerem dentro das cidades, dizimando 80% da população mundial. esse fenômeno tão raro faz com que os clones esqueçam os buraco negros e as penas de galinha para passar o resto do jogo procurando baterias pra acender um farolete gigante e espantar os monstros. Após salvarem o mundo de dois marcianos [[Tupinambás]] (novamente um homem azul e uma mulher rosa, que supostamente clones dos vilões anteriores), os heróis olham para o céu e finalmente percebem que se esqueceram do buraco negro, que se expandiu. 
+
+O jogo termina com um '''"The End?"''', insinuando que haveria uma continuação, mas como isso não aconteceu concluímos que o buraco negro começou a se expandir até consumir o planeta inteiro, matando a série.
+
+==Jogos==
+* '''[[Golden Sun (jogo)|Golden Sun]] (2001) -''' Lançado para [[GBA]], o primeiro jogo se trata de uma autobiografia de [[Isaac Newton]] com diversas liberdades poéticas e elementos fantásticos, como magias e pokémons falsificados.
+
+* '''[[Golden Sun: The Lost Age]] (2002) -''' O segundo jogo na verdade é o "disco 2" do primeiro, que foi vendido separadamente para arrecadar mais verbas. A única mudança notável e que agora você tem um barco.
+
+* '''[[Golden Sun: Dark Dawn]] (2010) -''' Muitos anos depois saiu o terceiro jogo pro NDS, que é basicamente um filler gigante que existe pra Golden Sun poder ser uma trilogia. Neste jogo, o [[Protagonista de jogos|protagonista mudo]] reconhece sua mudez e responde perguntas através de 4 expressões faciais: "concordar", "feliz", "triste" e "bravo", mas assim como em 99% dos JRPGs, isso pouco importa.
+
+==Recepção==
+Os 3 jogos tiveram avaliações positivas, mas a cada sequencia a nota caia um pouco, por serem "mais do mesmo". [[Pai de Família]] da LaranjaGames achou a trilogia uma delicia; [[Carla Perez]] da NoobGames elogiou a baixa dificuldade do terceiro jogo e também a magia "Insight", que quando usada dá a resposta dos puzzles automaticamente.
+
+Kim Belair da [[Sweet Baby Inc.]] foi mais rigorosa, se manifestando contra a ideia dos protagonistas do terceiro jogo serem filhos de casais heteros e lamentou sua empresa ainda não ter sido fundada na época de lançamento para corrigir este "defeito" e enegrecer alguns. Ela também disse que a Camelot deveria ter aproveitado o contrato de exclusividade com a Nintendo para ter incluído o [[Bowser]] como interesse amoroso do Isaac, ou no mínimo ter uma opção de [[Zoofilia|amor interespécies]] entre humanos e [[Jinn|Djinns]].
+
+
+{{Golden Sun}}
+{{Game RPG}}
+
+[[Categoria:Jogos da Camelot Software Planning]]

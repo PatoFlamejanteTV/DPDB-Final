@@ -1,0 +1,63 @@
+{{game}}
+
+{{Infobox Game
+|title     = Yakult 4
+|image     = Yakuza 4 cover.jpg
+|caption   = Capa do jogo
+|developer = [[Sega|Sega R2D2]]
+|publisher = [[Sega|Cega]]
+|released  = [[2010]]
+|genre     = 4 jogos em 1
+|platform  = [[PlayStation 3]], [[PlayStation 4]] e [[Xbox One]]
+|rating    = 7/10
+|ages      = Livre
+}}
+
+'''Yakuza 4''' é uma grande coletânea de minigames distribuídos em quatro jogos de 3 horas de duração cada onde em cada um desses quatro jogos você controla apenas um personagem.
+
+== Jogabilidade ==
+
+Após três jogos com o Kazuma Kiryu espancando cidades inteiras de marginais, os desenvolvedores da [[Sega]] decidiram pensar em algo diferente para a sua série que já estava incrivelmente saturada da mesma coisa de novo e de novo, então decidiram fazer um jogo dividido em quatro partes e penalizar o jogador obrigando-o a jogar com três idiotas nada a ver por um tempão para permitir o uso do Kiryu só no final do game.
+
+Todos os elementos típicos dessa série de jogos estão lá: Comer em restaurantes, visitar puteiros, receber massagens com final feliz, gerenciar puteiro, jogar golf, jogar baseball, jogar dominó japonês, tudo está ali. Mas agora você tem que fazer tudo isso quatro vezes, visitar os puteiros, jogar o dominó japonês, receber as massagens com final feliz, etc, etc, tudo quatro vezes, uma com cada personagem (ou não, você pode simplesmente desligar o jogo e jogar [[Yakuza 0]] que é melhor).
+
+== Enredo ==
+=== Akiyama ===
+
+Do nada o jogador se vê obrigado a jogar com um playboy metido a besta chamado Shun Akiyama. Diz ele que trabalhava na [[Banco Bamerindus]] e que ao comprar ações da [[Guaraná Dolly]] viu seu negócio ruir e se tornar um mendigo. Um dia, entretanto, choveu dinheiro na cidade e com esse dinheiro ele abriu uma filial da [[Fininvest]] em Tóquio e se tornou o maior bilionário do país ao se tornar o dono de um puteiro chamado Elise.
+
+Apesar de Akiyama não ser Yakuza e não ter nada a ver com o comércio de ternos que envolve a história dos três primeiros jogos (tanto que ele odeia ternos e nunca usa gravatas), ele mesmo assim se mete em briga de bar dos outros e atrai para si a insatisfação da [[yakuza]].
+
+Apesar de trabalhar na Fininvest, Akiyama exerce os serviços de agiota e cafetão, tendo como secretária uma gordinha chata pra cacete chamada Hana (secretárias gostosas são uma distração que Akiyama não precisa na vida dele). Quando uma misteriosa moça chamada Lily aparece querendo 100 milhões de yenes, ele aceita fazer o empréstimo contanto que ela trabalhe como prostituta por 3 dias, o que ela faz, recebe os milhões, e vai embora.
+
+=== Saejima ===
+
+[[Arquivo:Yakuza 4 Saejima arc.png|thumb|Resistir uma garotinha adolescente, a maior provação de Saejima.]]
+
+Como um assassino que chacinou 16 pessoas a tiros e muito sangue frio pode ser na verdade um cara gentil, bondoso e honrado? Bom, este é o enredo de Taiga Saejima, sentenciado a morte pelo assassinato de 16 pessoas, mas que está já há 25 anos na cadeia.
+
+Essa parte do jogo que acontece numa penitenciária de segurança máxima pode ser um pouco difícil para o jogador brasileiro, especialmente aqueles que já estiveram na prisão, como eu, pois não há nenhuma missão de receber visitas secretas de advogados para receber celulares, não há missões de suborno de policiais, não há missões de sobreviver numa cela de 10 m² com 55 presos e apenas 1 buraco pra cagar, ou seja, o jogador brasileiro fica muito confuso, ainda mais confuso quando é dito que no Japão existe uma lei que proíbe policiais japoneses de atirar, ou seja, Saejima e Hamazaki (o cara que esfaqueou Kiryu no final do último jogo) podem simplesmente tentar fugir simplesmente correndo em linha reta e saindo no braço com os agentes penitenciários.
+
+Uma vez que ele escapa da prisão Saejima busca reencontrar a irmã Yasuko que é a tal Lily que trabalhou de prostituta por três dias para Akiyama no capítulo anterior. A única coisa que Saejima consegue é alugar um apartamento nos esgotos da cidade.
+
+=== Tanimura ===
+
+Do nada passamos a controlar o Detetive Masayoshi Tanimura, um jovem policial que deseja descobrir quem matou seu pai 25 anos atrás que também era um policial. O seu trabalho basicamente consiste em manter os agentes da vigilância sanitária o mais longe possível do quarteirão chinês cujos becos escuros e cozinhas imundas são tempero obrigatório para o restaurante chinês local. É Tanimura quem descobre a existência de corrupção na [[polícia]].
+
+=== Kiryu ===
+
+Por fim controlamos Kiryu que decide abandonar 9 crianças sem qualquer cuidado num orfanato e viaja para Tóquio para procurar o irmão dessa ex-prostituta chamada Sayako. A mulher, entretanto, dá um perdido em Kiryu e vai procurar pelo irmão por conta própria, mas acaba capturada pelo grande vilão, o tal de Katsuragi. Esse vilão decide então se reunir com todo mundo num terraço de um prédio em construção para revelar todos seus planos, só para ser traído pelo seu capanga e morrer com um tiro na testa dado por Sayako, mulher que tomou um tiro no coração mas teve tempo de dar suas últimas palavras, caminhar até Katsuragi e matar o vilão, para só então Sayako morrer em paz.
+
+=== Final ===
+
+O enredo do jogo já terminaria ali, mas como estupidez é o que define a cabeça dos personagens desse jogo, o plano brilhante de Akiyama é fazer uma pirâmide com 100 bilhões de yenes no topo da torre da cidade para servir de isca para os vilões do jogo. E o pior é que os vilões realmente aparecem nesse lugar, cada um para ser espancado por cada um dos quatro protagonistas.
+
+{{Yakuza games}}
+
+[[Categoria:Jogos lançados em 2010]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para PlayStation 3]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de ação-aventura]]

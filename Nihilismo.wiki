@@ -1,0 +1,90 @@
+<css>
+#p-logo{display:none}
+</css>
+
+{{CorTítulo|1=black|2=}}
+
+<br>
+----
+
+{{C|   |   |   }}
+{{C|   |   |   }}
+{{C|   |   |   }}
+
+
+<br /><br /><br /><br />
+[[Arquivo:Nihilism.png|right|frame|&nbsp;]]
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+----
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+----
+<br /><br /><br /><br /><br /><br />
+:
+::
+:::
+
+{| width="100%"
+|-
+| <!-- begin template -->
+<div align="center" class="noprint" style="clear: right; border: solid #aaa 0px; margin: 0 0 1em 1em; font-size: 90%; background: #f3f3f3; width: 350px; padding: 4px; spacing: 0px; text-align: left;">
+<div style="float: left;"> [[Arquivo:Nihilism.png|60px|]]</div>
+<div style="margin-left: 62px;"><br /><br /><br /><br /><br /></div>
+</div>
+<!-- end template -->
+| <div class="noprint nounderlinelink" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; spacing: 0px; text-align: left; float: right;">
+<div style="float: left;"> <span class="plainlinks">[[Arquivo:Nihilism.png|35px|]]</span></div>
+<div style="margin-left: 60px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Daily Mail|&nbsp;&nbsp;&nbsp;&nbsp;]]<br />[[Daily Mail|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]]&nbsp; [[Wikipedia|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]] &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br/>'''''[[Wikipedia:Nihilism|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''''']]&nbsp;</div>
+</div>
+|}
+
+<css>
+      #siteNotice{display:none}
+      #footer{display:none}
+      #catlinks{display:none}
+      #p-personal{display:none}
+      #p-cactions{display:none}
+      #p-também{display:none}
+      .searchButton{display:none}
+      a {display:none}
+      a:visited {display:none}
+      h1 {display:none}
+      h2 {display:none}
+      h5 {display:none}
+      div.vectorTabs {display:none}
+</css>
+
+[[Categoria:AAAAA]]
+[[Categoria:Filosofia]]
+[[Categoria:Páginas que se parecem com o que elas são]]
+
+[[bar:Nihilismus]]
+[[be:Нігілізм]]
+[[bn:ধ্বংসবাদ]]
+[[cy:Argyfwng Gwacter Ystyr]]
+[[da:Nihilisme]]
+[[de:Nihilismus]]
+[[en:Nihilism]]
+[[es:Vacío]]
+[[fi:Nihilismi]]
+[[fr:Nihilisme]]
+[[id:Kosong]]
+[[is:Tregðu]]
+[[it:Nichilismo]]
+[[ja:ニヒリズム]]
+[[ko:허무주의]]
+[[nds:Nihilismus]]
+[[nl:Leegte]]
+[[no:I grunnen ingenting]]
+[[pl:Nihilizm]]
+[[ro:Nihilism]]
+[[ru:Нигилизм]]
+[[sl:Nihilizem]]
+[[su:Euwéh]]
+[[th:ความว่างเปล่า]]
+[[tl:Pahinang walang laman]]
+[[tr:Hiççilik]]
+[[zh:虚无主义]]
+[[zh-tw:虛無主義]]
+
+<br> __NEWSECTIONLINK__ <br><br> __NEWSECTIONLINK__ <br><br> __NEWSECTIONLINK__ <br>
+&nbsp;

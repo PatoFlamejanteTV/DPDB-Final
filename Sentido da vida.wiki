@@ -1,0 +1,57 @@
+<table width="400" cellpadding="3" cellspacing="5" style="font-family: verdana">
+<tr> 
+<td id="tableProps2" align="left" valign="middle" width="360">
+<span id="errorText" style="font-size: 13pt">
+Erro 404 Sentido não encontrado.
+</span>
+</td>
+</tr>
+<tr> 
+          <td id="tablePropsWidth" width="400" colspan="2"><font
+    style="COLOR: black; FONT: 8pt/11pt verdana">Infelizmente, o '''sentido''' que você está procurando não pode ser encontrado ou [[Padre Quevedo|nón ecziste]].</font></td>
+        </tr>
+        <tr> 
+          <td id="tablePropsWidth" width="400" colspan="2"><font id="LID1"
+    style="COLOR: black; FONT: 8pt/11pt verdana"> 
+            <hr color="#C0C0C0" noshade />
+Você pode tentar:
+
+* Digitar novamente o nome da página, prestando atenção em possíveis erros de digitação;
+
+* Refazer a busca, usando termos mais abrangentes e fáceis;
+
+* Procurar em [[Marte]]; 
+
+* [[Cheiramento de gatinhos|Cheirar gatinhos.]]
+
+# Compre o gatinho
+# Limpe o gatinho de impurezas 
+# Cheire o gatinho 
+
+* Deixar de ser [[otário]] de uma vez e perceber logo que [[sua mulher]] anda [[Corno|dando pra todo o Mundo]] menos pra [[você]].
+
+* Tentar fazer '''sentido''' você mesmo. (gasta 200 pontos de Mana)
+
+
+            <h2 id="IEText" style="font:8pt/11pt verdana; color:black">[[Servidor idiota]] ou erro de [[Bill Gates]] (outro idiota).         
+             <br>Desciclopédia </h2>
+            </font></td>
+        </tr>
+      </table>
+
+Aperte F5 para atualizar, caso seu teclado possua este botão.
+
+
+
+Ou também pode ser [[42]].
+
+[[Categoria:AAAAA]]
+[[Categoria:Existencialismo]]
+
+[[da:Meningen med livet]]
+[[de:Unsinn des Lebens]]
+[[en:Meaning of life]]
+[[fi:Elämän tarkoitus]]
+[[nl:De Zin Van Het Leven]]
+[[pl:Sens życia]]
+[[ru:Смысл Жизни]]

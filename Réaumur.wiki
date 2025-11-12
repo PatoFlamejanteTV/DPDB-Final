@@ -1,0 +1,22 @@
+{{Imagens}}
+
+'''Réaumur''' é uma escala de [[temperatura]] velha para caralho que ninguém mais no planeta Terra usa, e só foi criada porque o criadorzinho dela, um tal de [[René-Antoine Ferchault de Réaumur]] (1683-1757), ficou de birrinha com o uso de [[mercúrio]] para fazer medição de temperatura e usou outra técnica só para pagar de diferentão. O problema é que a escala dele era só mais uma dentre 19 outras que já existiam até então, e não a toa acabou por virar pó e ser ignorada depois de alguns anos passados.
+
+== Como funcionava ==
+
+O grau Réaumur (°R ou °Ré pra não confundir com a °Ra da [[Rankine]]) usava não de mercúrio como [[termômetro]] e sim uma misturinha de [[água]] com [[álcool]] (e não, não era [[aguardente]], calma lá). E através da expansão dessa mistura ele obtinha o diferencial de sua escala durante o aquecimento da mistura, passando de 1 [[litro]] (1000 cm³) para 1,08 litro (1080 cm³) entre o ponto de [[fusão]] e o de [[ebulição]]. Assim, com o marco entre 0 e 80, se estabeleceu portanto que o ponto de fusão seria 0°Ré e o ponto de ebulição 80°Ré, ou seja, vinte graus a menos que o [[Celsius]], seu contemporâneo, e que acabaria ficando mais popular rapidamente, sendo a escala mais usada no mundo todo junto com a padrão [[Kelvin]] (exceto nos [[EUA]] porque americano tudo gosta de fazer medição diferentona em todas as coisas e aí usam a [[Fahrenheit]]). 
+
+Quanto ao Réaumur, devido a necessidade de uso de termômetros maiores que a rola do [[Kid Bengala]] e com o fato do [[etanol]] derrubar o ponto de ebulição da água - ou seja, cagando toda a lógica da medição do "gênio" -, ficou legado a ser uma grande curiosidade mórbida só vista mesmo em aulas de [[física]] na faculdade correspondente a essa área de estudo para os físicos pagarem de sabichões por conseguirem fazer todas as tabelas de conversão das mais de oito mil escalas de temperatura diferentes...
+
+== Ver também ==
+
+*[[Temperatura de Planck]]
+*[[Gas Mark]]
+*[[Rømer]]
+*[[Escala Wedgwood]]
+*[[Grau Delisle]]
+
+{{Ampliar}}
+{{Escalas}}
+
+[[Categoria:Unidades de temperatura]]

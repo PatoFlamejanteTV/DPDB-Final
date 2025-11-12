@@ -1,0 +1,44 @@
+{{game}}
+
+{{Infobox Game
+|title     = Chuck Norris Superkicks
+|image     = Chuck Norris - Super Kicks.jpg
+|caption   = O ídolo da DP lutando [[Karate]]!
+|developer = [[Xonox]]
+|publisher = [[Xonox]]
+|released  = [[1983]], [[1984]]
+|genre     = [[Luta]]
+|rating    = 1%
+|platform  = [[Atari 2600]], [[Commodore 64]] e [[ColecoVision]]
+|ages      = Livre
+}}
+
+{{vqd|Karateka de palitos?}}
+{{c|O meu game!|Chuck Norris|seu game}}
+{{c|Cadê o Roundhouse Kick?|Qualquer um|{{PAGENAME}}}}
+{{c|Eu acho que os videogames não iriam aguentar ele...|Chuck Norris|Roundhouse Kick}}
+{{c|Concordo.|Pessoa que gosta do Chuck Norris|Frase acima}}
+
+'''Chuck Norris Superkicks''' foi um jogo de [[1983]], lançado pela [[Xonox]].
+
+== O jogo ==
+
+O jogador tem que controlar um [[carateca]] (que é o próprio [[Chuck Norris]]) para bater e dar porrada nos caras. Ele tinha que entrar no castelo para enfrenar três lutadores que davam em um Encounter com Chuck. 
+
+== Comparações ==
+
+{{c|Não tem que comparar nada! É o meu game e é assim que vai ficar!|Chuck Norris|seu game}}
+
+A versão de Atari 2600 mostra mais bonecos palitos do que outra coisa. Um outro problema, é que quase ninguém consegue passar da primeira luta (ou Encounter). Chuck tem um tempo de 5:00 (e se acabar, é Game Over) pra cumprir sua missão. O pior, é que aqui no game (e nem na capa acima) Chuck tem barba, o que define ele menos [[macho]] (ainda mais em porcarias como o 2600 e o ColecoVision).
+
+{{c|Bem que eu falei que não queria falar do RK, mas o redator do artigo tá merecendo...|Chuck Norris|Eu}}
+
+== Contudo... ==
+
+Foi só um joguinho para ter Chuck Norris como protagonista. Porém, devidamente pelo crash de 1984 o jogo não foi popular, e a Xonox que era empresa que fez esse game, faliu no mesmo ano.
+
+{{Ação-aventura}}
+
+[[Categoria:Jogos da Xonox]]
+[[Categoria:Jogos para Atari 2600]]
+[[Categoria:Jogos lançados em 1983]]

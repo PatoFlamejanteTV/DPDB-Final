@@ -1,0 +1,50 @@
+{{quente}}
+{{ave}}
+{{pokedex}}
+{{PokéBox
+|imagem = 662Fletchinder.png
+|tamanho = 300
+|frase = De longe pode parecer fofuxo, mas ele é carnívoro!
+|pokedex = 662
+|nihongo = ヒノヤコマ
+|romaji = Hinoyakoma
+|tipo1 = Fire
+|tipo2 = Flying
+|habilidade1 = Flame Body
+|habilidade2 = 
+|habilidade3 = Gale Wings
+|espécie = [[Pica-Pau]] de Fogo
+|cadeia evolutiva = [[Arquivo:FletchlingSprite.png|link=Fletchling|Fletchling]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:FletchinderSprite.png|Fletchinder]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:TalonflameSprite.png|link=Talonflame|Talonflame]]''
+}}
+{{Você quis dizer|Pica-Pau de Fogo}}
+{{C|Isso não é um pica-pau, é um pisco-japonês.|[[Nerd]] chato, sem-graça e sem amigos|Fletchinder}}
+{{c|Eu já tive um desses!|Ash Ketchum|Fletchinder.}}
+{{c|O Pidgeotto é muito melhor|Genwunner|Flatchinder.}}
+{{c|Vai uma batalha pokémon então, sabichão!|Nerd|citação acima}}
+{{c|A critical hit!|Narrador do Pokémon Stadium|a treta entre os pássaros das gerações}}
+{{c|Eu abençoo esse periquito!|Ho-oh|Flatchinder.}}  
+
+'''Fletchinder''' é um pokémon pássaro de fogo da [[Pokémon:Geração VI|sexta geração]] que é a evolução do [[Fletchling]] que é um pássaro que não é nada de fogo. É também chamado de o "''Brave Bird Junior.''", já ele evoluí para o apelão do [[Talonflame]].
+
+== Características ==
+[[Arquivo:Bravebird child.png|thumb|left|Fletchinder cantando feito galo de manhã cedo: {{aspas|Acorda bandi fi duma égua!"''}}]]
+Fletchinder é basicamente um Fletchling que esta no período da adolescência, ou seja, ele é [[Felipe Neto|revoltz]]. Ao menos era o que pensávamos, isso porque assim como entre os [[indio]]s não existe o período da adolescência, os Fletchinder já são considerados adultos entre seu bando (mesmo existindo o Talonflame).
+
+A vida de um Brave Bird Junior não é mole, eles tem que acordar de manhã bem cedo pra servir como o despertador do mundo pokémon, já que o [[Torchic]] tá mais para ser uma galinha do que um galo. Fletchinder consegue fazer isso muito bem por ser dotado de uma voz extremamente irritante capaz de acordar ate mesmo o [[Snorlax]] mais folgado do mundo.
+
+Fora isso são também os famosos Pica-Pau, já que naturalmente possui um bico afiado capaz de abrir um buraco fácil em uma árvore. Só que o Fletchinder não faz isso pra pegar comida e sim pra afiar o bico mesmo na porra da árvore pra poder usa-lo pra caçar algum inseto. Alias, por ser também um tipo fogo, ele tem o costume de fazer um churrasco de suas vitímas para depois come-las ao molho madeira (já que é naturalmente um carnívoro).
+
+=== No anime ===
+No anime o protagonista fracassado [[Ash Ketchum]] conseguiu capturar um quando esteve na região de [[Kalos]], já que ele tem os costumes de pegar os passarinhos de cada região como o [[Pidgeotto]]. Só que acontece que ele não capturou o Fletchinder já evoluído, e sim, o fraco e indefeso [[Fletchling]] (só assim para ele conseguir um desses).
+
+=== Nos mangás ===
+Não teve muito papel de destaque como no anime. Só sabemos que no [[Pokémon Adventures Special]] uma guria chamada '''Yvonne Gābena''' tem um passarinho desses como parceiro que atende pelo nome de "''Fletchy''".
+
+==Ver também==
+*[[Pidgeotto]]
+*[[Staravia]]
+*[[Tranquill]]
+
+{{Poke6}}
+
+[[Categoria:Pássaros]]

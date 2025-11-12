@@ -1,0 +1,32 @@
+<css> A:background {color: yellow} A:link { color: black;} A:visited {font-weight:bold; color: black;} A:hover { font-weight: bold; color: black; text-decoration: underline; } * #content { background : yellow; } 
+h1 { color: black; background-color: yellow !important; }
+BODY { background: yellow }
+div.pBody { background: yellow }
+#bodyContent {
+background-color: #FFFF00;
+color: #000000;
+}
+</css>
+
+{{Humor negro}}
+
+[[Arquivo:Doommetal2.jpg|thumb|No setembro amarelo até os metaleiros ficam depressivos.]]
+'''Setembro Amarelo''' é uma campanha recente da qual a sociedade moderna adotou pra fingir durante todo o mês de [[setembro]] que se importa com a vida da galera diagnosticada com <s>frescura</s> <s>e falta de rola</s> [[depressão]]. As [[más línguas]] dizem que na verdade essa campanha às vezes acaba ocasionando um efeito reverso que causa um aumento fuderoso de gente ainda mais depressiva do tanto que falam dessa merda, e até uns [[suicídio]]s, mas claro que isso é coisa de psicótico que acredita que a [[Pepsi]] é fabricada com fetos abortados e que a [[terraplanismo|Terra é plana]]. Mas pera, sério que ela não é?
+
+O Setembro Amarelo é o período onde as ativistas do [[Twitter]] e [[Facebook]] param de [[ódio do bem|mandar as pessoas que discordam da opinião delas]] [[suicídio|escrever um fim na autobiografia]] e pensam nas pessoas que perderam suas vidas, para um mês voltar tudo ao normal e mandar todo mundo se auto virar presunto novamente, similar às empresas durante o período do [[Mês do orgulho LGBT|mês do orgulho]].
+== Origem e prática ==
+
+Em 2015 começaram no [[Brasil]] a fazer essa campanha pela internet, aproveitando-se justamente do fato de terem escolhido [[10 de setembro]] como o [[Dia Mundial de Prevenção ao Suicídio|Dia Mundial de Prevenção ao Gasto de Cordas no Próprio Pescoço]]. A cor amarela foi também chumpinhada de outra campanha, que uns pais fizeram a partir de 1994 após o suicídio do filho deles vestido de [[Pikachu]] enquanto dizia que ia dar um choque de trovão tirando o dedo do cú e o enfiando em uma tomada. Com isso criaram a fita amarela, como símbolo pra evitar novos <s>idiotas façam o mesmo que o filho deles</s> suicídios pelo mundo {{censurado|mas dar certo não dá né, o que tem de gente que se mata ainda...}}
+
+Desde 2017 em [[Portugal]] a campanha também foi implantada, pra evitar que novos portugas percam suas vidas ao descobrirem que pegar uma [[Descionário:Bicha|bicha]] no Brasil é algo bem diferente do que eles imaginavam...
+
+== Ver também ==
+
+*'''[[Outubro Rosa|{{Cor|Pink|Outubro Rosa}}]]'''
+*'''[[Novembro Azul|{{cor|Blue|Novembro Azul}}]]'''
+
+{{Ampliar}}
+
+{{Oposto|No Fap September}}
+[[Categoria:Campanhas de conscientização]]
+[[Categoria:Coisas que só vemos uma vez por ano]]

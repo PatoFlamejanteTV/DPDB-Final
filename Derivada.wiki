@@ -1,0 +1,143 @@
+{{Matemática}}
+
+{{c|Se tirar a '''área''' lá por '''derivada''' vai ser a mesma quantidade.|[[Jair Bolsonaro]],<ref>https://www.reddit.com/r/brasil/comments/gpg348/presidente_explanando_calculo_i/</ref> o "jênio" da matemática|achatar a curva de [[COVID-19]]}}
+{{c|Eu tô te falando, o leite é a derivada da vaca...|Engenheiro bêbado|derivada}}
+{{c|O metal derivou do rock.|Metaleiro amigo do engenheiro bebado acima|derivada}}
+{{c|[[Integral|Integra]] pra [[Deus]], que Dele tudo deriva!|Aluno de Engenharia|as provas de Cálculo I}}
+{{c|O queijo é a derivada do leite integral.|Engenheiro gordo|derivada}}
+{{c|Eu sei derivar com muita facilidade, já [[você]]s... {{Risada diabólica}}|Professora de Cálculo|derivada}}
+{{c|EU FICO DESGRAÇADO DA MINHA CABEÇA!!|Alborghetti|ter de derivar}}
+{{c|Alguém se lembra da "declividade da reta"? ([[Capitão Óbvio|Óbvio]] que não.) Bem, [[Gil Brother|garotinhos juvenis]], isso é a derivada.|Professor Gilmar|derivada}}
+[[Arquivo:Bhaskara.gif|thumb|250px|Para sua infelicidade, esta NÃO é uma derivada.]]
+A '''Derivada''' de uma [[função]] é, [[matemática]]/[[Geometria Analítica|geometricamente]] falando, a ''taxa de variação'' da [[função]] em relação ao '''x'''. Simples, não? <s>Não.</s> A grosso modo, a derivada vai ser a ''dedo-duro'' que vai nos dizer como a função principal vai se comportar quando se muda o valor do '''x'''. O processo de <s>inventar</s> determinar derivadas é chamado de <s>[[Cagar|fazer merda]]</s> ''diferenciação'' ou ''derivação''. As notações matemáticas para a derivada podem ser:
+
+* <math>\frac{dy}{dx}\,</math>, que se lê: ''a derivada de y em relação a x'';<br />
+* <math>Df(x)\,</math>, que se lê: ''a derivada de f(x)'';<br />
+* <math>f'(x)\,</math>, que se lê: ''"f" linha de x;<br />
+
+''Nota: Apenas os <s>[[nerd]]s</s> matemáticos famosos e importantes usam a primeira notação. Pra [[você]] dá e sobra a última notação.''
+
+ 
+== Derivada e taxas de variação ==
+[[Arquivo:Prova.JPEG|thumb|200px|Exemplo de taxas relacionadas e derivadas.]]
+Por muito tempo, muito tempo mesmo, os matemáticos tentavam entender como as [[função|funções]] se comportavam quando se mudava o <math>x</math>, mas sempre sem sucesso. Com o nascimento de grandes <s>[[nerd]]s</s> cientistas e matemáticos, como [[Isaac Newton]] e Leibeniz, [[Organizações Tabajara|esses problemas estavam para se acabar]]. Estes foram os [[vagabundo|desocupados]] que descobriram a relação entre as derivadas e as taxas de variação das funções. 
+
+Essa relação <s>sexual</s> íntima foi descoberta na época em que problemas relacionando taxas de variação de velocidades de planetas (ramo da <s>[[astrologia]]</s> [[astronomia]]) apareceram e infernizavam a vida de astrônomos e matemáticos. Na verdade, os ábacos nunca foram de muita ajuda. Análises longas, <s>grossas</s> complexas e extenuantes foram necessárias por parte dos cientistas supracitados para conseguirem perceber que a derivada de uma função é, na verdade, a função que modula a variação da função inicial. E até hoje ninguém sabe como aqueles dois [[nerd]]s do [[satanás|cão]] conseguiram ter tempo e vontade pra desenvolver isso.
+
+O desenvolvimento do cálculo diferencial, que calcula derivadas, foi um marco importantíssimo na [[matemática]], já que reduziu os casos de suicídio desses profissionais em [[66]]%, além de ser um dos passos iniciais que levou a [[Engenharia]] a se tornar uma ciência, não que isso seja um fato pra se comemorar.
+
+== Derivadas e retas tangentes ==
+[[Arquivo:RetaSecante.png|thumb|280px|O processo para fazer uma reta secante virar tangente: basta apenas fazer o <math>\Delta{x}</math> virar zero.]]
+Newton e Leibiniz conseguiram desenvolver seu raciocínio por meio do uso de ''retas secantes e tangentes''. Segundo as definições da [[Geometria Analítica]]:
+
+* Uma '''reta secante''', do [[latim]] ''secare'' - cortar, talhar, <s>rasgar</s>, romper, seccionar, <s>explodir</s>, também conhecida por ''reta [[Zeca Pimenteira]]'', é uma reta que corta uma curva em pelo menos dois pontos distintos. Em [[Cálculo]], a diferença entre esses dois pontos, quando calculada pelo eixo dos X, é conhecido por <math>\Delta{x}\,</math>. Da mesma forma, a diferença no eixo dos Y dá o <math>\Delta{y}\,</math>. 
+
+* Uma '''reta tangente''', do italiano ''tangenciare'' - fugir, escapar, dar no pé, cair fora, sumir, ser tragado pela terra, desaparecer, além de ser a origem do termo "sair pela tangente", é uma reta que [[punheta|toca]] uma curva em determinado ponto. A reta pode tocar em outros pontos da curva, mas não vá complicar as coisas agora. A inclinação desta reta é a derivada da [[função]].
+
+E o que isso interessa?
+
+Bem, pequeno gafanhoto, enquanto você estudava fórmulas inúteis na escola, aprendeu uma fórmula que calcula a declividade da reta. Mas como [[você]] devia estar muito ocupado atirando bolinhas de papel no [[professor]], olhando pra [[bunda]] das suas [[mulher gostosa|colegas gostosas]] ou dormindo, vamos colocar a fórmula, para ajudar a refrescar a sua mente:
+
+:<math>m = \frac{\Delta{y}}{\Delta{x}}</math>
+[[Arquivo:RetaTangente.png|thumb|280px|Uma reta tangente à [[função]]. No ponto em que ela [[sexo|esfrega]] na curva, ela é a derivada da referida [[função]] <s>([[ou não]])</s>.]]
+Sabendo que '''f(x)''' é o mesmo que '''y''' e que o '''x''' é a letra que você dá o valor que lhe vier na telha, podemos pensar no que fazer ([[ou não]]). Analisando, podemos dizer que a fórmula para a derivada geral pode ser esse formulazinha mesmo, mas com umas modificações (para não dar muito na cara):
+
+:<math>m=\frac{f(x)-f(a)}{x-a}=\frac{f(a+h)-f(a)}h</math> 
+
+Para a reta virar tangente, é preciso que o <math>\Delta{x}</math> vire zero, no entanto isso não é nada bom, já que o <math>\Delta{x}</math> está embaixo, o que configura uma [[divisão por zero]]. Então como eu vou fazer essa [[merda]]? Muito simples: use a notação de [[limite (matemática)|limite]]. Essa notação te dará tempo até [[você]] achar um jeito de dar um fim naquele <math>\Delta{x}\,</math> embaixo. Usando a notação de limites, a fórmula fica:
+
+:<math>\frac{dy}{dx}=\lim_{x\rightarrow a}\frac{f(x)-f(a)}{x-a}=\lim_{h\rightarrow0}\frac{f(a+h)-f(a)}h</math>
+
+Agora que usamos a notação de [[limite (matemática)|limite]] e evitamos qualquer tentativa de [[dividir por zero]], que teria efeitos desastrosos a todo o [[universo]], podemos tentar continuar. Para calcular a fórmula da derivada, é apenas necessário utilizar a fórmula escrita logo acima e substituindo em '''f(x)''' e em '''f(x+h)''' pela [[função]] inteira e no final fazer uma gambiarra para cortar o <math>\Delta{x}</math> da parte de baixo da continha.
+
+== Regras de diferenciação ==
+
+{{c|{{Risada diabólica}}|[[Professora de Cálculo]]|regras de diferenciação}}
+
+Embora a fórmula acima seja aplicável a qualquer função, apenas ou um nerd fodástico ''([[paradoxo]]?)'' ou uma [[Carla Perez|grande anta]] iria usar esta fórmula e substituir tudo para conseguir chegar à derivada. Com o passar dos anos, os <s>loucos</s> cientistas que dedicavam o seu tempo ao [[Cálculo]] perceberam que existem algumas regras simples de derivação. E, é [[Capitão Óbvio|óbvio]], cabe a [[você]] se virar para decorá-las. As regras são:
+[[Arquivo:Alborghettieh.gif|thumb|180px|[[Alborghetti]], desesperado durante a prova de [[Cálculo]], ao ver que teria de usar a regra da cadeia.]]
+* '''Regra da [[Constante]]''': a derivada de uma constante [[Sr. Donizildo|não vale nada]], ou seja, [[zero]];
+* '''Regra do [[Constante|Múltiplo Constante]]''': o múltiplo fica fora da [[suruba]] numérica e multiplica toda a derivada;
+* '''Regra da <s>Im</s>Potência''': <math>f(x) = x^{n}</math>, logo <math>f'(x) = n.x^{n-1}</math> ''(sim, toda essa [[merda]] aí)'';
+* '''Derivada da função exponencial natural''': apesar no nome ''[[gay|pomposo]]'', a derivada da exponencial natural é [[Paulo Maluf|ela mesma]];
+* '''Derivada do logarítimo natural''' (vulgo ''lnx''): <math>f(x) = ln(x)</math>, logo <math>f'(x) = x^{-1}</math> (vulgo 1/x);
+* '''Regra da Soma''': a derivada total é a soma das derivadas ''([[Capitão Óbvio]])'';
+* '''Regra da Diferença''': a derivada total é a diferença das derivadas ([[O RLY?]]);
+* '''Regra do Produto''': ao contrário do que [[você]] iria imaginar, a derivada de um produto '''NÃO''' é o produto das derivadas. [[Newton]] se fudeu lindamente quando percebeu isso e apenas algum tempo depois descobriu que a regra do produto diz que [[encher linguiça|a derivada de um produto é a primeira função vezes a derivada da segunda somada com a segunda vezes a derivada da primeira]]. Simples, não? Ok, para sua satisfação, vamos desenhar:
+
+:<math>D[f(x).g(x)] = f(x).g'(x) + g(x).f'(x)\,</math>
+
+* '''Regra do Quociente''': de forma análoga à regra do produto, a derivada de um quociente '''NÃO''' é o quociente das derivadas. No entanto, como já estava de sobreaviso, [[Newton]] já imaginava isso, e teve de inventar outra fórmula, que é tão complicada de falar que já vamos desenhar de cara:
+
+:<math>D[\frac{f(x)}{g(x)}] = \frac{f(x).g'(x) - g(x).f'(x)}{[g(x)]^{2}}\,</math>
+
+* '''Regra da [[Prisão|Cadeia]]''': embora tenha esse nome, não está em nada relacionada ao sistema prisional. É assim chamada porque engloba [[função|funções]] que estejam [[sexo|umas dentro das outras]]. Na hora de derivar, [[você]] deriva a função de fora e deixa igual a de dentro e depois multiplica a [[porra]] toda pela derivada da função de dentro. Mas, se você prefere fórmulas:
+
+:<math>D[f(g(x))] = f'(g(x)).g'(x)\,</math>
+<br />
+----
+<center>'''''Nota: não nos responsabilizamos por lesões cerebrais causadas pela visualização destas fórmulas.'''''</center>
+----
+<br />
+=== Diferenciação Implícita ===
+
+Um dos problemas das regras de derivação acima é que elas apenas se aplicam em funções onde o '''y''' está sozinho, completamente afastado da suruba numérica onde o '''x''' está presente. E, como nada é tão ruim que não possa piorar, existirá uma infinidade de continhas, expressões e invocações satânicas matemáticas que te impedem de deixar o '''y''' sozinho e isolado. Então, como proceder? 
+
+Usando a regra da cadeia (e [[você]] pensava que iria se esquivar dela, {{risada diabólica}}), pode-se derivar uma variável em [[função]] de outra sem nenhum problema ([[ou não]]). Este processo e chamado, [[Capitão Sarcasmo|criativamente]], de ''diferenciação implícita''. Vamos usar a seguinte situação como exemplo:
+[[Arquivo:Trigonometria.png|thumb|200px|Figura explicativa do problema.]]
+* [[James Bond]], atrávés de um telescópio, está observando um foguete soviético carregado de [[bombas atômicas]]. O foguete [[pleonasmo|sobe verticalmente para cima]] a partir de uma base de lançamento localizada a 10 km de James. No momento em que o espião observa o foguete, o telescópio acusa que o ângulo entre o telescópio e o chão é de π/3 rad, a variação do ângulo é de 1 rad/min e [[WTF|a taxa de variação da variação]] do ângulo é 0,25 rad/min². Com essas informações, responda:
+:a) Qual a equação que relaciona a posição do foguete com o ângulo;
+:b)Qual a velocidade do foguete (em m/s);
+:c)Qual a aceleração do foguete (em m/s²);
+:d)[[James Bond]] será capaz ou não de parar o foguete antes que chegue ao destino;
+
+{{c|Vamos por partes!|Jack, o estripador|resolver este exercício}}
+
+Isso é, infelizmente, um problema de trigonometria (estudo do trigo). Teremos de relacionar a alura do foguete com o ângulo e, para isso, [[você]] terá de usar uma [[função#Função Trigonométrica|função trigonométrica]] para chegar à equação. Tendo o valor do cateto oposto (que é y) e do cateto adjacente (que é 10) e da hipotenusa (que não <s>[[Sr. Donizildo|vale nada]]</s> nos interessa), usamos a <s>saída pela</s> tangente, que é cateto oposto sobre o adjacente: '''tanx = y/10'''. Depois de ajeitar toda a continha (ou seja, isolar o y), ela vai ficar dessa forma: '''<math> y = 10.tanx</math>''' Então, a resposta do item '''a''' é:
+:<math> y = 10.tanx\,</math>
+Para calcular a velocidade do foguete, é só derivar essa expressão em relação ao tempo (ou seja, t). Mas como vamos derivar se não tem t? Bem, é por isso que o exercício está nessa seção, para [[você]] ter de fazer diferenciação implícita: '''y' = 10.sec²x.x' ''' . Vamos resolver essa continha do [[caralho]], que nos dará a resposta para o item '''b''':
+[[Arquivo:Missile.jpg|thumb|180px|O [[ICBM|foguete]], no momento em que [[James Bond|Bond]] o observava.]]
+:y' = 10.sec²(π/3).1 = 40 km/min = [[666]],[[666]] m/s
+
+Logo, a velocidade do foguete é de [[666]],[[666]] m/s. (Nota: a velocidade do foguete parece ser correta, já que sabe-se que os soviéticos são coisa do [[demo]]. E, sim, a velocidade do foguete é, literalmente, demoníaca.)
+
+Para calcular a aceleração do foguete, basta derivar a fórmula da velocidade. E você vai ter de usar a regra do produto, ou seja, [[Sérgio Mallandro|''salci fufu'']]. Desta forma:
+
+:<math>y'' = 10.[x'.secx.secx.tgx + sec^{2}x.x'']\,</math> ''(conta da porra)''
+
+:y" = 10.[1.2.2.1,73 + 4.0,25] = 10.[7,92] = 79,2 km/min²
+
+Fazendo as conversões malditas, chegamos à resposta do item '''c''': 22 m/s²
+
+A resposta do item '''d''' é óbvia: sendo [[James Bond]] praticamente igual a um [[Chuck Norris]] inglês, não importam as circunstâncias, ele sempre conseguirá seu objetivo. Portanto, Bond irá conseguir parar o foguete e ainda sobrará tempo para matar o general russo que ordenou o lançamento e comer a [[gostosa]] do filme. 
+
+''Nota: através deste problema percebemos a [[Capitão Sarcasmo|grande importância]] que o [[Cálculo]] e, em especial, a derivada tem para a nossa vida.''
+
+== Continuidade da função e locais onde não se pode derivar ==
+[[Arquivo:Calculo sex fun.jpg|thumb|200px|Usos da diferenciação para resolver problemas (ou criar mais problemas).]]
+Agora que você aprendeu as fórmulas, pensa que tudo é ótimo e pode-se usar o [[montinho]] de letras, números e sinais para melhorar as coisas pro teu lado. Mas, como tudo em [[matemática]], sempre tem algo para te foder lindamente. E, em derivadas isso não seria diferente. 
+
+Segundo os estudos e cálculos ''([[pleonasmo]]?)'' realizados pelos <s>[[nerd]]s</s> matemáticos, em partes de uma função onde o gráfico possui uma ''quebra'' (eles chamam de ''descontinudade'') ou um ''bico'', não é possível derivar uma função simplesmente porque, quando você for derivar, a derivada vai dar uma expressão absurda, mas algo tão absurdo que até você vai perceber que isso é <s>[[Esparta]]</s> loucura.
+
+Tomemos <s>[[Noku]]</s> por exemplo, a [[função]]: '''y = |x|'''. Segundo as regras de derivação que [[você]] deveria ter lido anteriormente, sabe que a derivada desta função é igual a 1. Mas como pode ser? Simples:
+
+:<math>f'(x) = 1.x^{0} = 1.1 = 1\,</math>
+
+Logo, está provado por a mais b <s>que a mais b não prova nada</s> que a derivada de y = |x| é 1. Agora, tente achar a derivada quando [[x]] vale [[zero]]. A conta vai ficar:
+
+:<math>f'(0) = 0^{0} = ?\,</math>
+
+Segundo a conta, <math>0^{0}</math> é uma operação cuja resposta [[Padre Quevedo|nón ecziste]]. Logo, esta função não pode ser derivada em <math>x=0</math> [[nem fodendo]]. É importante que você saiba que, onde a linha do gráfico está [[ereção|de pé]], a derivada [[Padre Quevedo|nón eczistirá]] e nem haverá derivada quando o gráfico tem um ''bico'' ou ''ponta''.
+
+== Aplicações das derivadas em gráficos ==
+
+A principal aplicação das derivadas de funções é em, exatamente, determinar a forma como elas vão se comportar sem ter de desenhar toda a [[função]] principal. Embora isso sempre dê resultados ''nas coxas'', ninguém se importa com isso. Para uma [[função]], o que importa são as derivada primeira e a derivada segunda. Os aspectos que devem ser <s>inventados</s> analisados são:
+[[Arquivo:Limite-funcao.gif|thumb|200px|Gráfico que é uma [[merda]] para ser criado a partir das derivadas.]]
+* '''Pontos críticos''': são os locais onde a derivada primeira não vale [[porra nenhuma]] (ou seja, [[zero]]). Esses pontos são importantes pois podem ser ''extremos relativos'' da [[função]] inicial. Agora, se são ou não extremos relativos, bem, isso são outros 500.
+* '''[[Ereção|Crescimento]] e [[Brocha|Decrescimento]]''': a derivada primeira acusa quando a [[função]] principal sobre ou desce. Quando a derivada primeira estiver negativa, a função cai, quando estiver positiva, a função sobe;
+* '''Concavidade''': a derivada segunda nos diz como vai ser a concavidade. Se a derivada segunda for positiva, ela é feliz (para cima), se não, ela será [[emo|triste]] (para baixo);
+* '''Pontos de inflexão''': lugares onde a concavidade [[gay|troca de time]]. Esses pontos ocorrem onde a derivada segunda é zero. Se a derivada trocar de sinal depois de passar do [[cu|zero]], esse ponto será de inflexão. Se não trocar, não será [[porra nenhuma]].
+{{ref-section}}
+{{Cálculo}}
+
+[[en:Derivative]]

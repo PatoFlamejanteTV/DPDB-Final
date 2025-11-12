@@ -1,0 +1,52 @@
+{{Box ClubeFutebol
+|cor_clara         = yellow
+|cor_escura        = green
+|brasao            = Escudo do Venados.png
+|hino              = 
+|nome_oficial      = 
+|origem            =  '''{{MEX}} - [[Mérida|Merda]]''' 
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           =
+|ilustre           = 
+|estadio           = 
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = 
+|divisao           = 
+|títulos           = 
+|ranking           = 
+}}
+
+'''Venados Fútbol Club''' é uma potência mundial (no bairro onde joga), um dos maiores clubes do México (se você considerar só a segunda divisão) e uma referência no futebol yucateco (ok, talvez o único time de Yucatán). Fundado com o propósito de espalhar alegria e desespero nos torcedores, o Venados é conhecido por sua camisa amarela, seu mascote carismático e seu eterno flerte com o rebaixamento.
+
+== História ==
+O Venados nasceu em 1988, época em que as pessoas ainda acreditavam que a Seleção Mexicana ia ganhar uma Copa do Mundo. O time surgiu para representar Mérida, a capital de Yucatán, um estado mais famoso pela comida e pelas pirâmides maias do que pelo futebol. Desde o início, os torcedores sabiam que torcer para o Venados seria um teste de paciência, mas o amor pelo clube sempre falou mais alto (mesmo quando os jogadores erram passes de 2 metros).
+
+Com um orçamento que faria times da Série D do Brasil parecerem milionários, o Venados sempre teve que se virar para montar elencos competitivos. Diz a lenda que, em certos anos, contrataram jogadores que só estavam passando pela cidade de férias.
+
+== Títulos ==
+🔹 Campeão da Segunda Divisão Mexicana? Quase. Já bateu na trave algumas vezes, mas subir para a primeira divisão parece um sonho tão distante quanto ver a Seleção Mexicana passando das oitavas de final na Copa.
+
+🔹 Melhor colocação na Copa MX? Sim, o Venados já chegou longe nessa competição… mas longe de ganhar, é claro.
+
+🔹 Título moral? Sim! Em várias temporadas, torcedores juram que "mereciam mais" e que "se não fosse aquele juiz comprado, a gente subia!".
+
+=== Mascote === 
+O time leva o nome Venados porque, segundo os historiadores (ou torcedores bêbados no estádio), os jogadores sempre foram muito rápidos e ágeis. Mas há quem diga que o nome vem do fato de que o time corre desesperado toda vez que vê um adversário forte pela frente.
+
+O mascote do time é um veado, que deveria representar imponência, mas muitas vezes é retratado com cara de quem acabou de ver um caçador.
+
+== Rivais ==
+O maior rival do Venados… bem, tecnicamente, não existe. O time não tem um inimigo tradicional, porque não há muitos clubes na região. Mas sempre que joga contra qualquer time do Atlante, do Celaya ou qualquer outro azarado da Liga de Expansión MX, o Venados entra em campo com sede de vingança (e geralmente perde de forma dramática).
+
+{{Campeonato Mexicano}}
+
+[[Categoria:Times de futebol do México]]

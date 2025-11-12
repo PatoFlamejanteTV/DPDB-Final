@@ -1,0 +1,73 @@
+{{esboço}}
+{{Você quis dizer|Viado|Vi}}
+{{c|Como faz para fechar?|Estudante do primeiro período de computação|Vi}}
+{{c|Usa o Nano|Estudante esperto do primeiro período de computação sobre o comentário acima|Vi}}
+{{c|Não pode usar o Nano!|Professor da turma do primeiro período de computação|Vi}}
+{{c|Opoha|Estudante esperto do primeiro período de computação|Vi}}
+
+[[Arquivo:Kh2-vivi-a.jpg|thumb|120px|[[Final Fantasy|Vi<s>vi</s>]].]]
+'''Vi''' é sem dúvida o software visualizador de textos mais famoso e intuitivo já criado pelos administradores de sistemas. O nome vem de "Very Intuitive" (do [[Língua Inglesa|Inglês]]), o que resume bem as suas características. Através de rápidas teclas de acesso e de menus, ele também pode fazer a função de um editor de textos. 
+
+O objetivo inicial era substituir o EDIT, do MSDOS, mas como o seu uso foi intensificado, sendo referenciado principalmente em howtos para [[Linux]] espalhados pela internet, ele acabou ganhando fama e a equipe de desenvolvimento resolveu mudar o escopo inicial.
+
+Veja a praticidade do vi ao criar um arquivo de texto com a frase "Hello World!", quando comparado com outros editores de texto.
+
+== Editando um Texto com o EDIT do MSDOS ==
+
+#Digite: edit c:\hello.txt 
+#Escreva o texto: Hello World!
+#Tecle Alt+F e Depois X.
+#Responda Sim a pergunta que será feita.
+
+== Editando um Texto com o bloco de notas do Windows ==
+
+#Abra o Bloco de notas
+#Escreva o texto: Hello World!
+#Clique em "Arquivo" e depois em "Salvar"
+#Digite um nome para o arquivo e escolha onde será salvo
+
+== Editando um Texto com o Notepad++ ==
+
+#Abra o Notepad++
+#Escreva o texto: Hello World!
+#Clique em "Arquivo" e depois em "Salvar"
+#Digite um nome para o arquivo e escolha onde será salvo
+
+== Editando um Texto com o Geany ==
+
+#Abra o Geany
+#Escreva o texto: Hello World!
+#Clique em "Arquivo" e depois em "Salvar"
+#Digite um nome para o arquivo e escolha onde será salvo
+
+== Editando um Texto com o [[Microsoft]] Word ==
+
+#Abra o Word
+#Escreva o texto: Hello World!
+#Clique em "Arquivo" e depois em "Salvar"
+#Digite um nome para o arquivo e escolha onde será salvo
+
+== Editando um Texto com a mão ==
+
+#Pegue uma caneta ou lápis
+#Escreva o texto: Hello World!
+
+== Editando um Texto com o vi ==
+[[Arquivo:Ximba.jpg|thumb|150px|O maior divulgador.]]
+#Digite: vi 
+#Tecle ESC
+#Digite :r /hello.txt
+#Tecle i
+#Escreva o texto: Hello World!
+#Tecle ESC
+#Digite :w!
+#Digite :q
+
+Fazer pesquisas, substituições de textos, copiar ou colar textos ou mesmo criar um game é muito mais fácil com o vi, realmente facilita sua vida.
+
+[[de:Vi]]
+[[en:Vi]]
+[[fi:Vi]]
+[[ja:Vi]]
+[[ko:Vi]]
+[[ru:Vi]]

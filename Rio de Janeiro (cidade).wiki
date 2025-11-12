@@ -1,0 +1,446 @@
+{{DISPLAYTITLE:Rio de Janeiro}}
+
+{{Inseguro}}
+
+''<div class="hatnote" style=padding-left:"5px">  [[Arquivo:Disambug.png|20px|link=]]&nbsp;'''Nota: '''Se procura o estado papa-goiaba, consulte [[Rio de Janeiro (estado)]].</div>''
+{{Nova Infobox
+| border      = Nenhum
+| background  = Nenhum
+| estilo      = Nenhum
+| título      = Hell de Janeiro
+| rótulo-estilo = font-size:99%;
+| dados-estilo = font-size:99%; 
+| tópico-estilo   = border-top: 1px solid #a2a9b1; font-size: 99%;
+<!--- Título principal --->
+| tópico1-estilo = width:100%; text-align:center; background:#cddeff; 
+| tópico1     = [[Cidade|Favela do Brasil]]
+| tópico2     =  [[arquivo:Rio de Janeiro imaginario e real.jpg|300px]]
+|   dados2    = <small>Como o Rio de Janeiro é na real</small>
+
+<!---Outros títulos--->
+<!---Título 2--->
+| tópico6     = Símbolos
+{{(!}} style{{=}}"width:100%; text-align:center; margin:0 auto; background:none; text-align:center;"
+    {{!-}}
+    {{!}} style{{=}}"width:40%; text-align:center; vertical-align:middle" {{!}} <span style="display: inline;"><span style="display: table-cell; border-collapse: collapse; border: solid 1px #bbbbbb">[[Arquivo:Bandeira rj.jpg|125px]]</span></span>
+    {{!}} style{{=}}"width:40%; text-align:center; text-align:center; vertical-align:middle; text-align:center;" {{!}} [[Arquivo:Flamengo-RJ (BRA).png|85px|center]]
+    {{!-}}
+    {{!}}style{{=}}"border:0; text-align:center"{{!}} <small>[[Bandeira]]</small>
+    {{!}}style{{=}}"border:0; text-align:center"{{!}} <small>[[Brasão]]</small>
+    {{!)}}
+|   rótulo6   = '''[[Apelido|Apelido(s)]]'''
+|   dados6    = "Cidade (Nada) Maravilhosa"<br>"Rio de Janegro"
+|   rótulo7   = '''Gentílico'''
+|   dados7    = ''[[folga|folgado]]''
+<!---Título 3--->
+| tópico11     = Localização
+|   rótulo11   = 
+|   dados11    = [[arquivo:Brazil Rio de Janeiro Rio de Janeiro location map.svg|300px]]
+|   rótulo12   = 
+|   dados12    = <small>Localização do Rio de Janeiro no Rio de Janeiro</small>
+|   rótulo14   = '''País'''
+|   dados14    = [[Brasil]]
+|   rótulo15   = '''[[Estado]]'''
+|   dados15    = de calamidade pública
+|   rótulo19   = '''Municípios limítrofes'''
+|   dados19    = Um monte de cidades da [[Baixada Fluminense]] (vulgo [[cu do mundo]])
+|   rótulo20   = '''Distância até a [[Brasília|capital]]'''
+|   dados20    = costumava ser 0 km, mas o presidente mudou a capital pra Brasília, então agora são uns bons 700 km.
+<!---Título 4--->
+| tópico21     = História
+|   rótulo21   = '''Fundação'''
+|   dados21    = [[1 de março]] de [[1565]] ([[Chuck Norris|455]] anos)
+|   rótulo22   = '''[[Aniversário]]'''
+|   dados22    = [[1 de março|1° de março]] (todas as obras são inauguradas nesse dia, mesmo inacabadas)
+<!---Título 5--->
+|   tópico23   = Administração
+|   rótulo23   = '''[[Prefeito|Prefeito(a)]]'''
+|   dados23    = [[Fernandinho Beira-Mar]] ([[Comando Vermelho|CV]])
+<!---Título 6--->
+|   tópico24   = Característica geográficas
+|   rótulo24   = '''[[Área|Área total]]'''
+|   dados24    = grande demais para o meu gosto, fiquei preso na Av. Brasil de novo!
+|   rótulo25   = '''[[Povo|População <br>total]]'''<br>(estatísticas<br>[[IBGE]] 2019)
+|   dados25    = 6 milhões de chimpanzés com cabelo pintado de [[Donald Trump|loiro]] e aparelho dental colorido 
+|   rótulo28   = '''Clima'''
+|   dados28    = tenso, cheio de bala perdida
+|   rótulo30   = '''[[Fuso horário]]'''
+|   dados30    = Hora de Brasília ([[Tempo|UTC-3]])
+<!---Título 7--->
+|   tópico31   = Indicadores
+|   rótulo31   = '''[[IDH]]'''<br>([[ONU|PNUD]]/2010)
+|   dados31    = caminhando pra ser o pior do Brasil
+|   rótulo33   = '''[[PIB]]'''<br>([[IBGE]]/2016)
+|   dados33    = [[Real|R$]] 0.000.000,00 (foi usado pra fazer as [[Olimpíadas de 2016|Olimpíadas]])
+|   rótulo35   = '''[[PIB|PIB ''per capita'']]'''<br>([[IBGE]]/2020)
+|   dados35    = [[Real|R$]] 600<br><small>(auxílio emergencial)</small>
+<!---Título 7--->
+|   tópico36   = Outras informações
+|   rótulo36   = '''[[Santo|Padroeiro(a)]]'''
+|   dados36    = [[Ogum]]
+|   rótulo37   = '''Sítio'''
+|   dados37    = [https://www.flamengo.com.br www.flamengo.com.br]
+}}
+
+[[Arquivo:Cristo-refem.jpg|thumb|272px|Cristo Refém-dor com medo de traficantes.]]
+[[Arquivo:RioDeJaneiro2010.jpg|thumb|left|263px|Uma cena típica no Rio de Janeiro.]]
+'''Rio de Janeiro''' (ou '''Rio de [[Xana]]''', para enfatizar seu aspecto [[turismo sexual|turístico]]) é a maior [[favela]] com [[praia]] do [[Brasil]], capital do país na visão dos [[gringo]]s e na imaginação dos [[carioca]]s e dos [[nordestino|paraíbas]] que assistem às [[novela]]s da [[Globo]], e também motivo de vergonha para o restante do [[Rio de Janeiro (estado)|estado homônimo]], que passa o vexame de ser confundido com o povo da capital por pessoas de outros estados. Na verdade, é motivo de vergonha para qualquer [[brasileiro]] que viva no [[Estados Unidos|exterior]] ou que frequente sites de namoro virtual em [[inglês]], já que o Rio passa ao mundo a imagem do brasileiro como um Zé droguinha [[macaco|simiesco]], [[funk]]eiro e que faz [[supletivo]]. Por esta razão, nos últimos anos diversas [[facebook|páginas de facebook]] vêm buscando expulsar o Rio de Janeiro do país, o que garante à cidade o título de localidade mais odiada do Brasil, atrás apenas do [[Nordeste do Brasil]] quando o [[Partido dos Trabalhadores|PT]] vence as eleições.
+
+O pujante mercado de [[cocaína]] e [[crack]] tem alavancado a economia do município nas últimas décadas, sendo reconhecido junto de [[Medellín]], [[La Paz]] e [[Cidade do México]] como superpotência continental do [[tráfico de drogas]], que fornece emprego para a maior parte da população [[criança|infanto-juvenil]] carioca, além de abarcar grandes multinacionais do ramo, como o [[Comando Vermelho]] e os [[Amigos dos Amigos]]. Desde [[2006]], o Rio também serve de capital para o estado de [[Minas Gerais]], quando o governador [[Aécio Neves]] transferiu a sede do governo mineiro para o [[Leblon]]. Já outros setores mais tradicionais da economia carioca ainda incluem a [[prostituição no Brasil|prostituição]] com [[Profissional do séquiço|mão-de-obra qualificada]] (notória pelas [[bunda]]s femininas de tamanho extra grande, muitas vezes feitas [[Dr. Rey|sob medida]]). Mais recentemente, em [[2015]], a [[Dolly]] transferiu suas fábricas do [[Rio Tietê]], em [[São Paulo]], para a [[Baía de Guanabara]], no Rio, devido à maior presença de [[merda|coliformes fecais]] nas águas da baía fluminense.<ref>''[[Desnotícias:Devido às boas condições da água, Dolly Refrigerantes mudará suas fábricas do Rio Tietê para a Baía de Guanabara]]''. Portal Desnotícias. 14 de fevereiro de 2015</ref><ref>''[https://www.youtube.com/watch?v=wxfKTefu930 Nova propaganda da Dolly no Rio de Janeiro.]'' youtube.com 14 de fevereiro de 2015</ref>
+
+Entre as grandes contribuições da Cidade Maravilhosa{{carece de fontes}} para a cultura brasileira estão o [[calendário]] [[carioca]], que estabeleceu o início do ano apenas para depois do [[carnaval]]; a [[pizza]] de [[ketchup]], adorada pelos [[São Paulo|paulistas]]; o [[funk carioca]], com suas letras [[putaria|românticas]]; a excelência no ensino básico, vulgo [[aprovação automática]], inventada pelo ex-prefeito [[Cesar Maia|Seu Barriga]]; a excelência no ensino superior, contemplado por universidades do nível da [[Universidade Estácio de Sá|Estácio de Sá]]; o [[feudalismo]] na administração dos morros, inspirado num sistema já testado em países [[Europa|europeus]]; o [[carioquês]], considerado o dialeto favorito dos [[assaltante]]s e [[flanelinha]]s. O povo carioca também é famoso pela sua [[hospitalidade]], mas é sempre bom que o [[turista]] tome cuidado com o [[celular]].
+
+Em [[2016]], a capital fluminense sediou os [[Olimpíadas de 2016|Jogos Olímpicos de Verão]], primeira edição do evento na [[América do Sul]] - antes dos [[Argentina|argentinos]] - graças aos [[propina|esforços diplomáticos]] do ex-presidente [[Lula]]. As obras realizadas no período trouxeram um grande legado olímpico para as contas bancárias do prefeito [[Eduardo Paes]] e dos ex-governadores [[Sérgio Cabral]] e [[Pezão]], além de aumentar o fluxo de turistas na cidade, para servir de presas aos bandidos locais.
+
+== Clima ==
+O clima é de medo e terror com chances de trovoadas de balas de AK-47 à qualquer momento, e as temperaturas são amenas. A temperaturas média é de 60°C no inverno e 78°C no verão. As chuvas no Rio de Janeiro são esparsas e de calibre variado.
+
+== Demografia ==
+O total de habitantes é de 6 milhões, 666 mil e 666,66 habitantes. 0,6% desse total são moradores dos bairros sofisticados da cidade, como [[Ipanema]] e [[Leblon]]. A maior parte da população vive no subúrbio ou em favelas. Outros 66% da população são de turistas. O resto está dividido entre dengue, que ocupa 5,3%, marginais, com uma percentagem desconhecida (talvez a soma de tudo) e atores e atrizes com 7,7%. Durante a época de festas de fim de ano e carnaval, o número total pode chegar a 66 milhões. Nesta época, medidas de controle populacional são tomadas: chacinas, dengue, ações policiais em favelas e jogos do [[Clube de Regatas do Flamengo|Flamengo]] sem segurança ocorrem no intuito de reduzir a densidade demográfica da cidade. Especificamente no carnaval, o governo distribui camisinhas que romperão durante o intercurso sexual, promovendo assim a disseminação de DSTs. O governo estuda o cancelamento desta medida, uma vez que 9 meses depois a população parece dobrar.
+
+== O Carioca ==
+[[Arquivo:MacacoWJ.jpg|thumb|Típico [[cidadão]] [[carioca]].]]
+Não passam de pobres, negros de cabelo loiro que andam com bazucas e ficam tomando banho de "burraxa na laje".
+100% dos cariocas gostam de praia, porém há duas espécies diferentes: cariocux laboriosus vagabundux e cariocux vagabundux vagabunduxxx. Os dois são naturalmente vagabundux, mas o primeiro migra para estados onde não existam praiax, afastando-se assim da tentação de trabalhar. O carioca é conhecido por considerar-se o mais ixperto de todos os habitantes dos 152 universos conhecidos. São conhecidos por ser um dos povos mais bairristas do Brasil, e amam dizer que o Rio é a "Cidade Maravilhosa", somente para competir com os paulistanos. Apodrecem o resto do Brasil com a sua cultura barata e imoral, tal como o funk que apenas exalta o poder dos favelados e a sua sede pela xoxota das cocotas.
+
+== A Carioca ==
+[[Arquivo:Fato banho.jpg|thumb|right|150px|Uma <s>favelada preta</s> cidadã carioca curtindo uma praia no fim de semana.]]
+Meninas de 13 anos que já deram para a metade do morro, negras de cabelo duro que dão por poder do “dono da boca” (meninos de 13 anos também)
+Sua rotina é ficar tomando sol na laje de biquíni enfiado na bunda para se preparar para ir ao baile funk, ponto máximo de encontro entre os cariocas e onde ocorre o acasalamento. Entre o seu dialeto só se encontram palavras do tipo: 
+
+Coée tio sou seu lanchinho ou não?
+
+== Quem comanda a cidade? ==
+{{C|No Rio de Janeiro, você nem precisa esperar Cosme e Damião pra ganhar bala.|Gil Brother|Rio de Janeiro}}
+[[Arquivo:Riofavelas.jpg|200px|thumb|right|Ao contrário de [[São Paulo (Cidade)|São Paulo]], aqui os bairros ricos que cercam as favelas.]]
+O Comando Vermelho, como o nome diz, comanda a cidade - principalmente através de sua principal filial esportiva, o [[CR Flamengo|Comando Vermelho e Preto]], uma instituição <s>criminosa</s> futebolística com muito mais <s>bandidos</s> afiliados que a própria facção original. O governo carioca é feudal. Os traficantes controlam a vida cotidiana da cidade: fiscalizam o comércio, fechando em feriados de última hora, quando um traficante morre; cobrando impostos através de assaltos e sequestros; administrando o trânsito com falsas-blitz; prendendo, julgando, condenando e executando a pena de cidadãos não comprometidos com a confusão estabelecida.
+Na verdade, não passam de emos irritados com a própria mãe, que agora se renderam ao tráfico, e pensam que são reis com armas na mão aterrorizando pais de família e comendo cocotas. Em sua maioria, são garotos analfabetos de 13 anos que passam o dia todo na boca correndo dos policiais. 
+<br /> No nível religioso, várias igrejas disputam o controle pela alma financeira dos fiéis (Enriquecer em Cristo, Igreja Universal do Dinheiro de Deus, entre outras). Estas religiões capitalistas conseguem muito dinheiro vendendo terrenos no [[céu]] (um lugar onde não existem balas perdidas, assaltos, favelas, explosões, casal-garotinho e paulistas).
+<br /> Outras corporações cuidam de outras esferas da vida social: a rede Bobo é a matriz do PUM (pensamento único da mídia) carioca. <br /> O Rio de Janeiro também tem políticos, mas diferentemente dos traficantes (que roubam e governam a cidade), os políticos cariocas se limitam ao roubo. Os traficantes também patrocionam esporte do [[arrastão]], quando eles próprios não o praticam.
+
+== Transporte Urbano ==
+[[Arquivo:Busaorio.jpg|right|150px|thumb|típico ônibus que circula os bairros do Rio de Janeiro]]
+Carroças, charretes e sandálias sujas havaianas são o principal meio de condução do carioca. O metrô é uma ilusão que alguns chamam de transporte de massa. Alguns táxis amarelos (tentativa de cópia dos táxis de Nova York) circulam pela cidade, mas tomá-los é por sua conta e risco - e da sua seguradora também, mas de modo geral o carioca não tem dinheiro para isso, por isso vai na canela mesmo, ou buzões queimados.
+Na ausência de qualquer um dos meio de transporte relatados anteriormente é só entrar em contato com 190 e chamar o caveirão. É a polícia gerando fortes emoções e sempre pronta para atendê-lo.
+
+== Esportes ==
+[[Arquivo:Logotiporio2007.JPG|thumb|left|150px|Símbolo dos [[Jogos Panamericanos]] de 2007, no Rio de Janeiro.]]
+O carioca adora corrida com obstáculos, modalidade conhecida localmente como arrastão. A prática de tiro também é muito difundida entre os habitantes da favela e sucesso de diversão entre as crianças, depois de um churrasco na laje. Rinhas de galo e jogo-do-bicho são os esportes mais tradicionais da cidade.
+Os cariocas adoram muito todas as corridas de fundo. Quanto mais fundo, melhor. Salto-na-vara também é praticado pelos executivos enrustidos da cidade. A prática é estimulada nas escolas.
+Mas o carioca adora mesmo é o futebol, apesar dos seus times sequer terem um estádio próprio decente e seus principais astros serem exportados para a Europa. O Maracanã, palco da desgraça de 1950, pertence ao estado do RJ, e adivinhe quem paga a conta? [[Você]], idiota! (que paga também pelas constantes reformas para consertar os estragos causados pela torcida do [[CR Flamengo|Comando Vermelho e Preto]].
+Até os Jogos Rouboamericanos de 2007 era o único estádio mais ou menos da cidade. Agora, com o Engenhão, a cidade pode se orgulhar de ter um dos melhores estádios do Brasil. Até 2010, data em que o matemático Oswald de Souza previu como sendo o prazo de validade do estádio. A partir desta data o estádio vai se decompor até 2013, quando o RJ receberá verbas superfaturadas do governo federal para reformá-lo. E é claro que [[você]], idiota e carioca, é quem vai pagar a conta.
+
+=== Futebol ===
+[[Arquivo:Adesivo Banheiro.jpg|thumb|right|150px|Um cidadão [[America Football Club|americano]] caga uma [[Clube de Regatas do Flamengo|fla]]-merda no [[Vasco da Gama|vasco]] sanitário e depois [[botafogo|bostafogo]] no banheiro para o cidadão [[fluminense]] limpar.]]
+É incrível como toda essa raça se acha superior, e ainda tem orgulho de torcer para times como Vasco Fluminense Botafogo e Flamengo, pois tais times nunca conseguem um título sequer. Um bando de bichichas vorazes que ainda se orgulham de seu péssimo desempenho no futebol. Jogos com clubes cariocas são verdadeiros espetáculos bizarros, onde o gol típico é algo grotesco (mas que para o carioca é um golaço). Normalmente acontece algo como:''  o zagueiro chuta a bola, ela acerta o juiz, sobe, volta em diração ao gol, sobem três zagueiros tentando tirar junto com uns dois atacantes do time adversário, a bola vai em diração à lateral, chega um, cruza, uns pulam, outros tentam cortar, a bola bate em todo mundo, o zagueiro dá um carrinho junto com o atacante adversário e a bola vai para o gol.''
+
+==== Times ====
+Entendendo os times com [[Harry Potter]]:
+[[Arquivo:Esquiador-fail.jpg|thumb|right|Isso é o que dá tentar esquiar na bacia de Guanabara.]] 
+*'''[[Sonserina]]''' é o [[Clube de Regatas do Flamengo|Clube de Arregadas do '''Flamengo''']]: Time (casa) nojento, que todos os adversários odeiam e que possui apenas torcedores de classe baixa, bandidos de toda espécie (vilões) e metidos (o que, resumindo, praticamente corresponde à população inteira da cidade), mas que na verdade não são simplesmente NADA (afinal, para ser torcedor é preciso antes ser cidadão - ou ao menor um ser humano).  Também está sempre roubando nos jogos de [[Quadribol]] ([[futebol]]).<br />
+*'''[[Lufa-Lufa]]''' é o [[Fluminense|'''Fluminense''' Futeboiola Club]]: Time (casa) dos excluídos, [[Emos|EmoS]], [[gays]] e outros desmunhecados sem futuro. Nunca consegue nem passar das primeiras fases de [[Quadribol]] ([[futebol]]).<br />
+*'''[[Grifinória]]''' é o [[Vasco|Clube de Recauchutadas '''Viados Caindo''' na Grama]]: Time (casa) que só ganha quando está com seus grandes craques, porque sem eles é simplesmente uma grande merda.<br />
+*'''[[Corvinal]]''' é o [[Botafogo|'''Bostafogo''']]: Time (casa) dos inteligentes.  Entretanto, por mais que lute nunca ganha nada (no livro a Corvinal sempre é eliminada [[Roubo|do nada]]).<br />
+
+=== Maracanã ===
+{| class="infobox vcard" style="width:{{{infoboxwidth|20em}}};max-width:{{{maxwidth|285px}}}; font-size:90%;"
+!colspan="2" padding:0.2em;|
+{| cellpadding="1" cellspacing="0" style="width:100%"
+|- class="media" style="background-color:#5b92e5"
+| style="width:5%"| [[Arquivo:Pix.gif|20px]]
+| style="width:90%; vertical-align:middle; text-align:center; color:#fff; font-size:129%; line-height:1.1em;" |'''''Hell de Janeiro: Paisagem Carioca entre as Favelas e a Baixada'''''&nbsp;*
+| style="width:5%; vertical-align:middle"|[[Arquivo:Welterbe.svg|none|40px]]
+|}
+|-
+!colspan="2" style="vertical-align:middle; text-align:center; font-weight:bolder" | [[Chuck Norris|Patrimônio Mundial]] da [[Organização das Nações Unidas para a Educação, a Ciência e a Cultura|UNESCO]]
+|-
+{{!}}colspan="2" align="center" style="padding-bottom:0.3em;"{{!}} <hr>[[arquivo:hotelkracas.gif|270px]]
+{{!-}}
+{{!}}colspan="2" align="left" style="padding-bottom:0.3em;"{{!}} <center>[[Favela|Arquitetura carioca]] no seu esplendor.</center><hr>
+{{!-}}
+{{!}} '''[[País]]'''
+{{!}} {{RJ}}
+{{!-}}
+{{!}} '''Tipo'''
+{{!}} Habitat de povos primitivos
+|-
+| '''Critérios'''
+| Presença de [[baile funk|espaços culturais]]
+|-
+| '''Referência'''
+| [https://www.globo.com Rede Globo]
+|-
+{{!}} '''Região'''
+{{!}} style="line-height:150%; white-space:nowrap;" class="label" {{!}} [[América Latina|América Latrina]]
+|-
+|colspan="2" align="center" style="background:#5b92e5; color:#fff; font-size:110%;"| '''Histórico de inscrição'''
+|-
+|'''Inscrição'''
+|style="line-height:150%;"| 2012 <small>(fim do mundo)</small>
+|-
+|colspan="2" style="line-height:150%; padding-top:0.8em; border-top: 1px #aaa solid; text-align:left; font-size:80%; font-weight:lighter;"|<span style="margin:0.5em; color:#555;">* Incluídas mais cidades magníficas como <choose><option>[[Belford Roxo]]</option><option>[[Duque de Caxias]]</option><option>[[Nilópolis]]</option><option>[[Mesquita]]</option></choose>
+|}
+Inaugurado em 1950, às véperas da Copa do mundo, numa partida em que a Seleção Paulista arrasou a Carioca por 3 a 1. Os dirigentes se arrependeram de não ter chamado a seleção do Peru. "A cidade ficaria mais rosa com tanto perus entrando e saindo", disse um dirigente à época.
+
+A única lembrança boa do estádio é o [[milésimo gol de Pelé]].
+
+O estádio também entrou para o [[Guinness Book]] por um recorde absoluto, considerado insuperável em qualquer parte do mundo: é o único local capaz de reunir tantos bandidos perigosos de uma só vez (o que só acontece em jogos do [[Clube de Regatas do Flamengo|Flamengo]]).
+
+== Rio, a Meca gay ==
+Deu no jornal que o Rio de Janeiro é o principal intestino gay, quer dizer, destino gay do mundo. Apesar disso não ser nenhuma novidade! O gay sempre foi recebido de braços (e outras partes da anatomia) abertos pelo povo carioca. Os gays fazem parte ativa (e passiva) da paisagem carioca. Os gays, assim como as temakerias, estão em toda parte. Se você observar bem o Cristo Redentor, vai perceber que a esbelta e sarada estátua ostenta uma invejável barriga de tanquinho.
+
+Apesar do Caetano Velhoso achar mais hétero que Woody Allen, o Rio de Janeiro é uma cidade gay friendly e amiga da bicharada. Por isso mesmo a cidade virou a Disneylândia dos gays que chegam há pouco de fora (com cacófato, por favor). E ainda vai mais longe: o Rio ira homenagear os gays mudando o nome dos seus mais famosos bairros e logradouros públicos. O bairro do Catete vai passar a se chamar Cacête, e a Lagoa vai mudar de nome para Lagoa Rodrigo de Frutas. Jacarepaguá vai virar Jacarepagay, e por aí vai: Recreio dos Bundeirantes, Praia de Cupabacana, Praia de Ipaenema, Lebofe (onde passam as novelas do Manoel Carlos), Alto Sarado e Moreno da Boavista, Madugayeira, Cachambicha, José Méier, Empenho de Dentro, Vila da Peia, Peia Circular, Gayvea e Senta Teresa.
+
+Welcome gays! Sejam bem vindos à Cidade Bandeirosa! Para recepcionálos, o Rio de Janeiro já tem até um aeroporto totalmente gay, o Santos Dumont, que, como todo mundo sabe, foi o Pai e a Mãe da Aviação simultaneamente e ao mesmo tempo também. Tudo junto misturado.
+
+== Hino da Favela (cidade) ==
+[[Arquivo:Favelasnorio.JPG|thumb|400px|mapa de localização das poucas favelas no Rio de Janeiro (Clique para ampliar)]]
+<poem>
+<i>Cidade calamitosa 
+Quase guerra civil
+Cidade calamitosa 
+Cada um com seu fuzil
+Cidade calamitosa
+Quase guerra civíl
+Cidade calamitosa
+cada um com seu fuzil
+Berço do funk e dos lindos canhões
+que assombram a alma da gente
+és o atirar nos nossos corações
+que cantam tristemente
+Cidade calamitosa
+Quase guerra civil
+Cidade calamitosa 
+cada um com seu fuzil	
+Cidade maravilhosa 
+Quase guerra civil
+Cidade calamitosa
+cada um com seu fuzil</i>
+</poem>
+
+==Rádios do Rio de Janeiro==
+Se um dia lançarem um GTA Rio de Janeiro (um jogo de verdade, não os Mods do GTA San Andreas que você acha no camelô) estas vão ser as rádios do jogo:
+
+* O Dia FM: Toca Samba, Pagode, Pop, Axé, Sertanejo, Rap, Reggae e Funk.
+* JB FM: Toca música adulta contemporânea 
+* Melodia FM: Radio de Crente, só toca Gospel
+* Super Radio Tupi: Radio de Notícias e também de Esportes
+* 93 FM: Outra rádio de Crente.
+* Radio Globo: Radio cuja a dona é a Globo, é rádio de esportes, notícias e de programas de entretenimento... por aí (é a Globo, só que na radio)
+* Mix FM: Toca Hip Hop. E também Sertanejo e Pop.
+* SulAmérica Paradiso: Toca Música adulta contemporânea e também notícias. 
+* Positividade FM: Toca Rock. E também Pop.
+* Transamerica FM: Só toca Pop.
+* Radio Catedral: Radio de Beato da Igreja Católica 
+* Antena 1: Toca música adulta contemporânea 
+* Band News FM: Rádio de Notícias da Band
+* Nova Brasil FM: Só toca MPB
+* CBN: Radio de Notícias da Globo
+* Radio Nacional: Toca MPB
+* Radio Rede Aleluia: Radio de Crente
+* Radio Roquete Pinto: Toca MPB, Bossa Nova e Samba
+* Radio Mood: Toca Pop e Rock
+* Radio Bicuda: Toca Flashbacks e fala de Futebol
+* Radio MEC: Toca Jazz, Opera e Música Clássica 
+* Radio Feliz: Radio de Crente
+
+== Prós e Contras ==
+=== Prós ===
+Entre as vantagens do Rio de Janeiro estão: 
+* O maior número de putas por metro quadrado do mundo.
+* O maior número de boates e casas de shows gay por bairro do Brasil pra tu ficar doidão e pegar uma [[AIDS]] legal.
+* Os contornos arredondados e a beleza incontestável das bundas arrebitadas das cariocas.
+* O grande número de [[bunda]]s de fora na praia. Seja de dia, seja de noite.
+* Que o carioca nem liga mais para a violência, a [[bala]] entra por um ouvido e sai pelo outro
+* Que os cariocas não tem problema com habitação, é só achar um morro e se instalar.
+* Se você morrer, não tem custo o enterro pois os traficantes dão um jeito de desovar [[você|o presunto]]<ref>Atenção, ao optar por esse sistema, você pode ser cremado mesmo que não queira.</ref>.
+
+=== Contras ===
+[[Arquivo:Aviso ladroes.jpg|thumb|250px|right|Uma pequena empresa carioca.]]
+Entre os problemas mais graves enfrentados pela cidade estão: <br />
+* O maior número de Travecos por metro quadrado do mundo
+* Megalomania -  Cariocas acham que são único lugar com a legitima cultura brasileira.
+* Megalomania 2 -  Cariocas acham que ainda são a Guanabara, antiga capital da Picaretalândia [[Brasil]]. Dada a situação das coisas por lá ainda poderia ser.
+* Funk (traduzidas pelos escravos no tempo colonial) - não definido sé é algum tipo de música ou cântico tribal
+* Corporações midiáticas Rede Globo - seus diretores ainda pensam que fazem a cabeça de todos os brasileiros.
+* Os times do [[Clube de Regatas do Flamengo|Flamengo]], [[Botafogo]], [[Vasco]] e [[Fluminense]]
+* A [[Torcida do Flamengo]] (a mais numerosa e principal responsável pelo fato de o Rio ter as mais altas taxas de criminalidade do mundo)
+* A quantidade crescente e incalculável de flamenguistas (até porque não é possível calcular a população da favela)
+* Traficantes, gays,lésbicas, simpatizantes, pitboys, prostitutas e políticos
+* Carnaval - putaria que ocorre uma vez por ano para atrair turistas, várias mulheres [[pelada]]s, pederastas e putas para alavancar os índices de contaminação por [[HIV]]
+* Sistema de governo feudal
+* A barbárie desorganizada - Aqueles que matam até seu parceiro na hora de  ENCARAR OS HOMI DA LEI
+* Ausência de empresas - As poucas empresas existentes preferem transferir sua sede para o Acre ou Bolívia
+* Sistema de Saúde - Sudão e Congo enviam ajuda médica frequente para a cidade.
+* Localização - próximo de córregos e rios poluídos, a céu aberto (e os cariocas ainda se vanglorizam dizendo que a cidade-favela é mais bonita que São Paulo)
+
+== Jogos para PC inspirados no Rio de Janeiro ==
+<gallery>
+Image:Post-19-1100783151.jpg|Imagens do mais novo sucesso da Rockstar
+Image:Post-19-1100783281.jpg|Cenas do Jogo([[mapa]])
+Image:Cristoredentor.jpg|Cenas do jogo (Cristo Redentor)
+Image:Favela_gta.jpg|Cenas do jogo
+</gallery>
+
+== Geografia ==
+[[Arquivo:Fotodelsol.jpg|thumb|250px|No Rio de Janeiro, o Sol brilha feliz!]]
+A cidade costuma ser descrita como ''espremida entre o mar e a montanha''. De fato, o relevo da cidade foi formado durante o [[Cretáceo Superior]], em que a ruptura da [[Pangea]] associada à [[Orogênese]] dos [[Andes]]  '''PORRA, PARA DE OLHAR PARA A MODELO E PRESTA ATENÇÃO NA MONTANHA!!!''' causou o [[diastrofismo]] do [[placa tectônica]] sul-americana, o que pode ser constatado pela prevalência de [[rochas metamórficas]] na [[orografia]] carioca.
+
+
+== Flora e Fauna ==
+[[Arquivo:Produtoadaptado.jpg|thumb|250x|Coleção verão {{#expr:{{CURRENTYEAR}}-1}}-{{CURRENTYEAR}}..]]
+Segue abaixo a lista de animais e plantas encontrados no Rio:
+* [[Flamenguistas]] (espécie animal mais numerosa e nociva)
+* [[Piranha]]
+* [[Veado]]
+* [[Pastor evangélico]]
+* [[Político|Corrupto]]
+* [[Baleia]]
+* [[Pitbull]]
+* [[Vira-Bosta]]
+* [[Vaca]]
+* [[Miliciano]]
+* [[barata]]
+* [[veado|Mais veado]]
+* [[Perereca]] (Em abundância e facilmente visível)
+* [[Macacos]] (As vezes atacam a cidade)
+* [[Playboy|Mais Pitbull]]
+* [[Galinha]]
+* [[Pinto]]
+* [[Pombo]]
+* [[Mosca]]
+* [[Mosquito]] da dengue
+* [[assaltante|Rato]]
+* E é claro mais [[Veado]]! Muito mesmo! (tem tanto que corre o risco de futuramente ultrapassar o número de [[Flamenguistas]], já que esta espécie é tão animal que seus integrantes costumam matar uns aos outros)
+
+== Culinária ==
+A <s>horrorosa</s> excêntrica culinária carioca consiste basicamente na apropriação de pratos de outros estados (embora achem que vivem no "berço" da cultura brasileira), acrescentando aos mesmos o peculiar toque carioca, que transforma essas iguarias em merdas desprovidas de sabor, potencial nutritivo ou nem mesmo uma aparência próxima ao agradável. Exemplos:
+
+* [[Pizza]]: para desespero dos paulistas, a pizza carioca é feita com uma massa de 10 centímetros de espessura, mais 10 centímetros de queijo velho vagabundo e qualquer coisa de cobertura. Mas qualquer coisa mesmo. Os cariocas adoram sair para pizzarias rodízio onde se encontram pizza de jujuba, vatapá, batata-frita, prego, soldadinhos de chumbo e o que mais estiver ao alcance do "cozinheiro". Para a pizza ser tragada, só com muito ketchup (e maionese, se estiver em [[Niterói]]).
+
+* [[Churrasco]]: para desespero dos gaúchos, carioca adora um churrasquinho na laje. Se é que se pode chamar o churrasco carioca de churrasco, eles ficam horas servindo pão com alho (com mais maionese do que alho), e quando o povo já está com a cara cheia de cerveja é que começa a sair a carne: asa de frango carbonizada, linguiça vagabunda, e algum pedaço de boi na promoção do Mundial de nome impronunciável e que mais parece chiclete. Em churrasco de carioca, quem sai de barriga cheia é o cachorro da casa.
+
+* [[Açaí]]: para desespero dos paraenses, todo carioca preibói adora tomar um açaizinho depois de uma praia ou uma academia. Se é que dá pra chamar de açaí um negócio que mistura guaraná, banana, granola, morango, proteinato, albumina, taurina, red bull, maconha e o que mais os preibóis acreditam que faz "ganhar massa". Há lojas que já vendem o açaí sem açaí.
+
+* [[Pão-de-queijo]]: para desespero dos mineiros, as mesmas lanchonetes que vendem açaí sem açaí também vendem porções de pão-de-queijo que mais parecem aquelas bolinhas de borracha pula-pula. Ao contrário de Minas, no Rio o pão-de-queijo é bem pequenininho, para poder botar na boca de uma só vez - afinal, é impossível morder e arrancar um pedaço de um pão-de-queijo carioca sem perder algum dente. Aliado a um estilingue, servem como arma contra os ladrões de lanchonete.
+
+* [[Mate]]: para engolir o pão-de-queijo todo carioca precisa de um mate (novamente para desespero dos gaúchos), tomado bem gelado, aguado e com gosto de açúcar puro. No Rio, não há diferença nenhuma de gosto entre o mate, o guaraná "natural" (desespero dos amazonenses), o suco de caju, maracujá ou qualquer outra bebida "da casa" servida nas lanchonetes. Tudo tem gosto de água cheia de açúcar e corante.
+
+* [[Sushi]]: para desespero dos japoneses (sim, nem outros países escapam) o carioca faz sushi de morango, couve-mineira, maionese, alface e o que mais sobrar dos ingredientes da pizza. É sucesso nos self-services cariocas, onde os locais misturam o sushi com arroz, feijão, pão-de-queijo, churrasco e demais iguarias já mencionadas.
+
+* [[Feijoada]]: a única comida de fato carioca, a feijoada consiste em um panelaço de feijão onde se joga e cozinha tudo o que sobrou do porco no açougue: orelha, nariz, rabo, pênis, baço etc. Com gosto de lavagem, a feijoada só é tragável com muita cerveja nas ideias e chupando bastante laranja. A partir da feijoada se entende um pouco do psicológico carioca, pois é daí que nasceu a mania de se aproveitar todos os restos na culinária alheia.
+
+* [[Batata da Marechal]]: uma variedade da batata frita importada dos mongóis, onde um quilo de batata frita é posto em uma sacola de supermercado e recebe adicionais como maionese, cebola, calabresa, mostarda, ketchup, frango assado, um [[Scania 113]], [[COVID-19]], a cura da [[AIDS]], carne seca, carne de sol, ovo frito, ovo cozido, uma fita de [[Super Nintendo]], páginas da [[Bíblia]], um pokémon, miojo, batata palha, salsicha, alface, tomate, sal, açúcar, pimenta, orégano e mais 254 ingredientes diferentes. Estima-se que um quilo de batata da Marechal tenha nutrientes suficientes para alimentar um ser humano por duas semanas.
+
+== Personalidades Cariocas Famosas ==
+[[Arquivo:Denise Milani Policial.jpg|thumb|Novo uniforme da [[polícia]] carioca.]][[Arquivo:Creysson.jpg|thumb|seu Creysson, grande intelectual da cidade do rio]]
+[[Arquivo:Sara Jay 47.jpg|thumb|200px|left|Traje típico da [[mulher]] do Rio de Janeiro]]
+* <s>[[Edir Macedo]] - Estelionatário ladrão e Pastor</s>Ele não é carioca... carioca é só quem nasceu no Município do Rio de Janeiro... ele nasceu no interior do Rio
+* [[Bezerra da Silva]] - Velho malaco
+* [[Doutor Roberto]] - Idem
+* [[Elias Maluco]] - Assassino
+* [[Eurico Miranda]] - lavador de dinheiro e dirigente do [[Vasco da Gama|Vasco]]
+* [[Fernandinho Beira-Mar]] - Traficante famoso que deveria ser "suicidado" na prisão
+* [[Garota de Ipanema]] loira <s>vadia</s> que frequentava a praia de Ipanema e deu origem a música. Hoje vive em SP.
+* [[Guilherme Briggs]] - filho de bandido, segue a carreira do papai?
+* [[Hitler]] - Primeiro Emo filho da puta da história, nasceu na Gávea
+* [[Carlos Bolsonaro|Carlos]], [[Eduardo Bolsonaro|Eduardo]] e [[Flávio Bolsonaro|Flávio]], os três <s>patetas</s> filhos do atual <s>miliciano</s> [[Jair Bolsonaro|presidente da república]], que apesar de ser radicado no Rio, nasceu no interior de São Paulo.
+* [[Marcelo D2]] - Cantor e maconheiro
+* [[Mirian Ficher]] - Típica puta
+* [[Narcisa Tamborindeguy]] - Madame-que-não-faz-nada-o-dia-inteiro
+* [[Parreira]] - ex-técnico da seleção de obesos. Trabalhou a vida inteira no Oriente Médio e afundou a porra da seleção.
+* [[Seu Creysson]] - Um dos maiores intelectuais da cidade * [[Sílvio Santos]] - Quem quer dinheiro??
+* [[Rogério Skylab]] - Matador de passarinho
+* [[Joselito]] - Ele não sabe brincar, ele é Joselito!
+* [[Romário]] - Baixinho jogador de totó. Utiliza andaime para enxergar a mesa.
+* [[Tati Quebra-Barraco]] - Funkeira profissional (que está tentando tirar sua octuagésima costela para tentar ficar gostosa)
+* [[Vera Loyola]] - Ver [[Narcisa Tamborindeguy]]
+* [[Zé Carioca]] - Papagaio ixperto que foi pra Disney mas voltou tão pobre, com um paletó apertado, um chepéu roubado doxxx manéxxxx e um guiarda-chuva. Era exibicionista como grande parte da população.
+* [[Zeca Pagodinho]] - Cantor e bêbado, às vezes "Boladão de Pó"
+* [[Capitão Nascimento]] - O unico homem que separa o Rio do total caos.
+* [[Mussum]]
+* [[Roberta Close]], [[Jorge Lafond]]/[[Vera Verão]]
+* [[Maradona]] - a cidadania é disputada com Buenos Aires, uma vez que o cara é: viciado, metido e marrento.
+* [[Clodovil]] - Um velho [[bicha]] feio da [[porra]]
+
+== Personalidades falecidas no Rio de Janeiro ==
+*[[John Lennon]]
+*[[Katia Flavia]]
+*[[Paul McCartney]]
+*[[Regina Duarte]]
+*[[Cartola]]
+*[[Nelson Gonçalves]]
+*[[Saddam Hussein]]
+
+== Personalidades que perderam a virgindade no Rio de Janeiro ==
+*[[Asia Carrera]] - Atriz porno
+*[[Sylvia Saint]] - Atriz porno
+*[[Alexandre Frota]] - com a Cláudia raia
+*[[Cláudia Raia]] - com o Jô Soares
+*[[Luciana Vendramini]] - com a Marlen Mattos
+*[[Giovanna Ewbank]] - com o Dênis Carvalho
+*[[Alinne Moraes]] - com o Dênis Carvalho
+*[[Stephany Brito]] - com o Dênis Carvalho
+*[[Karina Bacchi]] - com o Dênis Carvalho
+*[[Graziella Massafera]] - no [[Big Brother Brasil]]
+*[[Angélica]] - com o Maurício Mattar
+*[[Britney Spears]] - em alguma favela
+*[[Daniela Cicarelli]] - aos 11 anos (comeu um carioca)
+*[[Dercy Gonçalves]] - por incrível que pareça um [[carioca]] teve coragem
+*[[Elton John]] com [[George Michael]] - uiiiii...
+*[[Luciana Gimenez]] com [[Mick Jagger]] - Até parece...
+*[[Senador Palpatine]]
+*[[Nando Reis]] - com a Cássia Eller.
+*[[Sandy]]- mentiiiiiraaaa.... ela ainda é virgem..!!!
+*{{USERNAME}} - Não perdeu, tiraram...
+*[[Luana Piovani]] - na mesma noite começou a beber e fumar
+*[[Priscila Fantin]] - no mesmo sofá da [[Luana Piovani]]
+*[[Samara Felippo]] - com o [[Zeca Pagodinho]]
+*[[Ivete Sangalo]] - em cima do trio elétrico
+*[[Gisele Bundchen]] - com um argentino - tenha paciência...
+*[[Juliana Paes]] - na barca entre Rio e Niterói, mas mais pro lado do Rio, do jeito que ela sempre sonhou.
+*[[Ana Paula de Oliveira]] - com um gandula do Maracanã
+*[[moça|toda garota carioca]] - aos 5 anos de idade com um americano
+*[[Clodovil]] - com [[Marília Gabriela|Marília <s>Gabiherpes</s> Gabriela]]
+
+== Bairros ==
+''Ver artigo:'' '''[[Lista de bairros do Rio de Janeiro]]'''
+
+=== [[Região Metropolitana do Rio de Janeiro|Baixada Fluminense]] ===
+De tão insignificante, este conglomerado de cidades precisa se unir sob a mesma denominação para ser considerada como alguma coisa. Local utilizado para testes nucleares internacionais. Aqui temos um acúmulo de tricoletes maior do que em Laranjeiras (3,1 florilétricos por quilômetro). Apesar de ter tricoletes, é absurdamente dominado pela "milícia" (tráfico).
+
+== Ver também ==
+*[[Desmanuais:Como se tornar um carioca]]
+*[[Bala perdida]]
+*[[Arrastão]]
+*[[As 7 Novas Maravilhas do Mundo]]
+*[[Jogos Panamericanos de 2007]]
+*[[Carioquês]]
+*[[Tabajara Futebol Clube]]
+*[[GTA Rio de Janeiro]]
+*[[Terceiro Comando]]
+*[[Comando Vermelho]]
+*[[Linha 485 (Rio de Janeiro)]]
+*[[Malandragem Carioca]]
+
+== Notas ==
+<references />
+
+{{oposto|São Paulo (cidade)}}
+{{Bloco de navegação
+|state=collapsed
+|Patrimônio Mundial/Brasil
+|Cidades-sede da Copa do Mundo de 2014
+|Grandes Cidades do Rio de Janeiro
+|Capitais do Brasil
+|Rio de Janeiro}}
+[[bar:Rio de Janeiro]]
+[[en:Rio de Janeiro]]
+[[it:Rio de Janeiro]]
+[[eo:Rio de Janeiro]]
+[[nds:Rio de Janeiro]]
+
+[[Categoria:Falsas capitais]]
+[[categoria:Patrimônio Mundial]]
+[[Categoria:Rio de Janeiro (cidade)|*]]
+[[Categoria:Turismo no Rio de Janeiro]]

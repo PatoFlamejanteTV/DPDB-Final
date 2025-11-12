@@ -1,0 +1,54 @@
+{{pokedex}}
+<choose><option>{{voador}}</option> 
+<option>{{ave}}</option> </choose>
+{{PokéBox
+| imagem = Pikipek.jpg
+| frase = {{C|Hehehehehehehehehe!|Pikipek|ele mesmo}}
+| nihongo = ツツケラ
+| romaji = Tsutsukera <s>biscoito</s>
+| tamanho = 200
+| pokedex = 731
+| tipo1 = Normal
+| tipo2 = Flying
+| habilidade1 = Encher o saco dos outros
+| habilidade2 = Cagar nas pessoas
+| espécie = Rapá tu é cego é? Sou um pica pau. Hehehehehehehe
+| cadeia evolutiva = [[Arquivo:PikipekSprite.gif|link=Pikipek|Pikipek]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:PikipekSprite2.gif|link=Trumbeak|Trumbeak]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:PikipekSprite3.gif|link=Toucannon|Toucannon]]
+}}
+
+{{Você quis dizer|Pepeka}}
+{{C|Plágio!|Pidgey|Pikipek}}
+{{C|Plágio!|Taillow|Pikipek}}
+{{C|Plágio!|Starly|Pikipek}}
+{{C|Plágio!|Pidove|Pikipek}}
+{{C|Plágio!|Fletchling|Pikipek}}
+{{C|Sou melhor!|Rowlet|Pikipek}}
+{{C|Plágio é o caralho!!! Sou um Pica-Pau, totalmente original. Os humanos vão na rua e veem um pardal (Pidgey), dizem: olha só o passarinho, que legal. Veem uma andorinha (Taillow), "olha só aquele passarinho". Vê um estorninho (Starly), "outro passarinho", olham para o Pidove "fique longe dessa pomba, ela passa doenças". Aí chega no sabiá (Fletchling), "caramba porque aqui tem tanto pássaro" ... aí me veem... "É o Pica-Pau!!!!Pega o celular e tira uma foto!!!". Vocês são um bando de invejosos HEHEHEHEHE|Pikipek|respondendo as acusações de plágio}}
+{{c|Eu já capturei ele... ah, quer dizer, eu ainda vou pega-lo, seja lá quando.|Ash Ketchum|Pikipek}}
+{{c|Yo no lo conosco, señor.|Lombre|Pikipek}}
+{{c|Se o Pikipek tivesse comunicado a policia, isso nunca teria acontecido.|Oficial Jenny|Pikipek}}
+{{C|Você disse pipoca ?|Murkrow|Pikipek}}
+{{C|Hehehehehehehe!|Pica-Pau|Pikipek}}
+
+<b>Pikipek</b> é mais um novo Pokémon da sétima geração, e foi criado para o jogo Sun & Moon. Ele apareceu em um trailer qualquer, mas só que escondido <s>atrás do armário</s>. Pikipek é um Pokémon que foi baseado em um [[Pica-pau]], possuindo cores pretas, brancas e vermelhas (já não vimos [[Staraptor|isto]] antes?), e tem como habilidade <s>irritar profundamente [[Leôncio_(Pica-Pau)|morsas]] e [[Zeca Urubu|urubus]]</s> como todo pica-pau, mas como todo Pokémon tem habilidades sobrenaturais, ele consegue picar uma simples árvore <s>mais de 8000</s> 16 vezes por segundo
+
+==Aparições reais==
+[[Arquivo:Voo-doo.jpg|165px|thumb|left|Pikipek em uma batalha contra um [[Feraligatr]], que está prestes a usar um ataque [[macumba|macumbeiro]] do tipo Dark.]]
+[[Arquivo:14650316 892755824193233 2380381890758012642 n.jpg|thumb|right|Pikipek ao lado dos outros passarinhos das outras gerações.]]
+Antes dos primeiros trailers <s>inúteis</s> do jogo, Ele finalmente apareceu depois em uma jogatina onde um jogador muito [[noob]], usando um [[Popplio]] em modo de defesa <s>[[Yu-Gi-Oh|virado horizontalmente]]</s>, foi ownado pelo mesmo e a única maneira do mesmo ser vencido foi o jogador noob usar uma pokébola para capturar o mesmo. Assim como todo pássaro, Pikipek possui habilidades inúteis comuns de um pássaro qualquer do jogo, o que pode variar entre ser modinha ou pouco conhecido é sua futura evolução.
+
+==Criação==
+[[Arquivo:Pikipekperola.jpg|165px|thumb|left|Qualquer [[Steven Universe|semelhança]] é mera coincidência.]]
+Pela [[ironia|criatividade imensa dos desenhistas]], Pikipek aparenta ser um híbrido entre suas versões passadas, quanto no nome ser <s>um plágio de</s> parecido com [[Pidgey]] e [[Pidove]]. Pikipek nasceu na tentativa fracassada por um treinador maníaco de aves tentar obter a <s>viadagem</s> [[gay|fabulosidade]] de um [[Mega evolução|Mega]] [[Pidgeot]], a rapidez de um <s>Slowpoke</s> [[Swellow]], a habilidade de cortar <s>o próprio pulso</s> do [[Staraptor]] e a <s>vulnerabilidade ao tipo pedra</s> [[apelão|apelação]] de um [[Talonflame]], mas no final disso, acabou sendo mais um pássaro comum parecido com um [[Staraptor]] com o formato da Pérola do [[Steven Universe|Steven Universo]].
+==Nomes em outros países==
+[[Arquivo:Pikipekfruta.jpg|165px|thumb|O <i>assaltante de picas</i> também é conhecido por assaltar frutas também.]]
+*{{USA}} ''Pikipek'': Vem de <i>Pica pegue</i>, por que é conhecido por [[gay|pegar em várias picas]].
+*{{JAP}} ''Tsutsukera'': Vindo de <i>susukera</i>, o nome possui influências em um [[Sasuke|ninja emo (e gay) de]] [[Naruto|outra franquia]].
+*{{FRA}} ''Picassaut'': Vem de <i>assaltante de picas</i>, no qual é um pica-pau de região [[EUA|americana]] que teve influência [[brasil]]eira e [[frança|francesa]].
+*{{ALE}} ''Peppeck''<s>a</s>: [[Vagina|O nome já diz tudo]]...
+*{{KOR}} ''Kokkoguri'': Nome [[Coreia do Sul|coreano]]-[[Rio Grande do Sul|gaúcho]], que significa {{fakelink|guri|garoto}} que curte cocos, ou simplesmente cocos, de cabeças (<s>do meu pau</s>), ou simplesmente um pássaro garoto que seja uma [[merda]] mesmo.
+*{{CHN}}(Cantonês) ''Síudūkyìh'': Vem de <i>Sai daqui</i>, sendo que chineses não curtem pastéis de pica-pau, diferente de pastéis de [[frango|flango]].
+*{{CHN}}(Mandarin) ''Xiǎodǔ'ér'': Vem de <i>Tchau doeu</i>, após uma [[sexo|relação amorosa]] entre esse Pokémon e outro que não deu certo.
+*{{RUS}} ''Пикипек'': <s>Ninguém se importa com nomes russos</s> Também vem de <i>Pica Pegue</i>, quando o mesmo ficou conhecido por pegar em picas sob efeito de [[vodka]].
+{{poke7}}
+[[Categoria:Pica-paus]]

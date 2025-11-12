@@ -1,0 +1,50 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = lightblue
+|brasao            = Escudo do Universidad Católica del Ecuador.png
+|hino              = 
+|nome_oficial      = Le Cópia Ecuatoriana del Universidad Católica del Chile
+|origem            = {{CHI}}''' - [[Quito]]'''
+|apelidos          = Copiones
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Estadio Olímpico Atahualpa|Estádio Ayahuasca]]
+|capacidade        = 35.000
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = [[Banco Pichincha]]
+|material          = 
+|liga              = Campeonato Equatoriano
+|divisao           = Série A
+|títulos           = 
+|ranking           = 
+}}
+
+'''Club Deportivo Universidad Católica del Ecuador''' é um time-cópia do mais conhecido [[Universidad Católica]] do Chile, mas que diferente do seu irmão gêmeo chileno nunca sequer deu trabalho para qualquer time brasileiro ou argentino e não é considerado um bom time em seu país, praticamente sempre apenas cumprindo tabela no [[campeonato equatoriano]], isso quando não rebaixa.
+
+==História==
+=== Fundação ===
+
+Clube fundado em 1962 após os alunos da [[Pontifícia Universidade Católica do Equador|PUC Ecuador]] terem voltado de uma excursão em [[Guayaquil]] trazendo uma taça do que havia sido o primeiro título da universidade do [[frescobol|campeonato estudantil intermunicipal de frescobol - Série C]]. O reitor, um verdadeiro visionário, percebendo que seus alunos eram todos um bando de vagabundos que só queriam farrear e pouco estudar, teve a ideia genial de mantê-lo ali no time de frescobol da universidade, assim trariam prestígio e taças, e não precisariam estudar, bastava que ganhassem os torneios. Na época de inscrever a equipe na Federação Equatoriana de Frescobol um equívoco selou o destino do Universidad Católica del Ecuador para sempre: Um funcionário ao ver esse nome "Universidad Católica", achou que se tratava do famoso time de futebol chileno mudando sua sede para Quito, então inscreveu a equipe equatoriana no torneio de futebol e não de frescobol. Para sorte do Universidad Católica del Ecuador, dada a qualidade do certame (a Série D do Equador) eles foram campeões invictos e subiram de divisão, e acabaram adotando o futebol como esporte principal da agremiação.
+
+=== Primeiras participações na Libertadores ===
+
+Apesar de nunca ter sido campeão equatoriano (não há vocação para esse tipo de conquista) o Universidad Católica Fajuto classificou-se para duas Libertadores das antigas e nas duas vezes jogou em grupos de quatro times onde 0 equipes se classificavam para a próxima fase, mas em nenhum dos casos ficou em primeiro da chave. Em 1974 viu um tal de [[Defensor Lima]], um time que nem existe, superá-lo no grupo, e em 1980 ficou atrás do [[América de Cali]], esse pelo menos existe, só é ruim (mas melhor que o Universidad Católica del Ecuador).
+
+=== Libertadores 2021? ===
+
+Após vários anos só fazendo figuração no futebol equatoriano, o Universidad Católica del Ecuador se manteve fiel a esse papel e continua só fazendo figuração no seu torneio nacional, muitas vezes indo jogar a [[Copa Sul-Americana]] mas sempre sendo eliminado tão rápido que as pessoas nem percebem que ele chegou a participar da competição. Essa tradição de ser eliminado rapidamente das competições em que participa para não ser notado (e assim não virar chacota) foi mantida para a Libertadores de 2021, competição a qual teoricamente disputou mas que ninguém nem soube disso, isso porque foi eliminado logo na Pré-Libertadores para o [[Club Libertad|Libertad]] e escolheu de preferência a fase que a eliminação não dá vaga na Sul-Americana, assim evita o trabalho de ter que ser eliminado rapidamente em outra competição continental.
+
+== Títulos ==
+
+* '''[[Campeonato Equatoriano da 2ª Divisão]]''': 3 (1990, 2007, 2012)
+
+{{Campeonato Equatoriano}}
+{{Copa Sul-Americana}}
+
+[[Categoria:Times de futebol do Equador|Universidadcatolica]]

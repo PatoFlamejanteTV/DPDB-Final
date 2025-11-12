@@ -1,0 +1,543 @@
+[[Arquivo:Vettel-bi.gif|300px|miniaturadaimagem|direita|Na {{PAGENAME}}, Vettel finalmente pôde dizer que era bi!]]
+{{vqd|<choose><option>Outra temporada com alemãozinho ganhando tudo</option><option>Vettel Supremacy</option><option>Red Bull Supremacy</option><option>Vettel é rei, resto do grid é gay</option></choose>}}
+{{C|É BI! É BI! É BI, É BI, É BI!|Amigos do Vettel comemorando <s>a bissexualidade</s> o 2º título dele na {{PAGENAME}}}}
+{{C|FDP!|Mark Webber|Vettel}}
+{{C|Aê, o Bruno Senna tá na Lotus, agora ele vai ganhar que nem o tio!|Viúvas do Senna|Bruno Senna na Lotus}}
+{{C|Ele é o novo Schumacher! Seria campeão em qualquer época!|Fãs do Vettel|seu ídolo}}
+{{C|Meu garoto!|Schumacher|Vettel}}
+{{C|Se eu tivesse naquele carro da Brawn, ele ia ver só!|Button|Vettel, demonstrando saudosismo dos tempos em que ele tinha o melhor carro}}
+{{C|Eu poderia vencer o Vettel facilmente, se a Williams não fizesse carros ruins, me deixasse competir, me ouvisse mais, se o Casseta e o Pânico não implicassem tanto comigo, blá-blá-blá...|Barrichello|sua ilusão de que ainda poderia ser campeão mundial de F1}}
+
+A '''{{PAGENAME}}''' foi a 62ª temporada do campeonato da [[Fórmula 1]], o racha de playboys mais popular do mundo. Foi uma daquelas temporadas esquecíveis, muito por conta de ser praticamente um replay das primeiras temporadas dos anos 2000, com as únicas diferenças sendo a equipe dominante (Red Bull), o alemão que papava tudo (Vettel) e o segundão que nem deveria estar lá (Webber).
+
+==Pilotos e Equipes==
+{| class="wikitable" border="1" style="font-size: 90%;"
+!Equipe
+!<s>Bob, o</s> Construtor
+!Chassi(s)
+!Motor
+!Pneu
+!N°
+!Pilotos
+|-
+|rowspan=2| [[Arquivo:Bandeira da Austria.png|20px]] [[Red Bull Racing|Red Buuu Racing]]
+!rowspan=2 align="center"| [[Red Bull Racing|Red Buuu]]-[[Renault]]
+| rowspan=2 align="center"| RB7
+| rowspan=2 align="center"| [[Renault]] Energy F1-2011
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 1
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Sebastian Vettel|Sebastião Vencel]]
+|-
+| align="center" | 2
+| [[Arquivo:Bandeira da Australia.png|20px]] [[Mark Webber|Marcos Uéber]]
+|-
+| rowspan="2" | [[Arquivo:Bandeira do Reino Unido.png|20px]] [[McLaren|Vodafome McLaren Mercedes]]
+!rowspan=2 align="center"| [[McLaren]]-[[Mercedes]]
+| rowspan=2 align="center"| MP4-26
+| rowspan=2 align="center"| [[Mercedes]]
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 3
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Lewis Hamilton|Luís Amilton]]
+|-
+| align="center" | 4
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Jenson Button|Jensão Botão]]
+|-
+|rowspan=2| [[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Ferrari|Scuderia Ferrar-se <s>Marlboro</s>]]
+!rowspan=2 align="center"| [[Scuderia Ferrari|Ferrar-se]]
+|rowspan=2 align="center"| F150th Italia
+|rowspan=2 align="center"| [[Ferrari]]
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 5
+| [[Arquivo:Bandeira da Espanha.png|20px]] [[Fernando Alonso|Fernando Afonso]]
+|-
+| align="center" | 6
+| [[Arquivo:Banderabrasil.png|20px]] [[Felipe Massa|Felipe Me-passa]]
+|-
+|rowspan=2| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Mercedes Grand Prix|Mercedes OMG Petronas Formula One Team]]
+!rowspan=2 align="center"| [[Mercedes Grand Prix|Mercedes]]
+| rowspan=2 align="center"| MGP W02
+| rowspan=2 align="center"| [[Mercedes]]
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 7
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Nico Rosberg|Nico Rosbrega]]
+|-
+| align="center" | 8
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Michael Schumacher|Schumy Semi-Aposentado]]
+|-
+| rowspan="3" | {{GBRb}} [[Lotus Renault|Fake Lotus F1 Team]]
+!rowspan=3 align="center"| [[Renault]]
+| rowspan=3 align="center"| R31	
+| rowspan=3 align="center"| [[Renault]]
+| rowspan=3 align="center" | [[Pirelli]]
+|rowspan="2" align="center" | 9
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Nick Heidfeld|Nique Reidifeldy]]
+|-
+| [[Arquivo:Banderabrasil.png|20px]] [[Bruno Senna|Bucha de Senna]]
+|-
+| align="center" | 10
+| [[Arquivo:Bandeira da Rússia.png|20px]] [[Vitaly Petrov|Vitalino Petrove]]
+|-
+|rowspan=2| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Williams F1|ATT Williams F1 Team]]
+!rowspan=2 align="center"| [[Williams F1|Williams]]-Cosworth
+| rowspan=2 align="center"| FW33
+| rowspan=2 align="center"| Cosworth
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 11
+| [[Arquivo:Banderabrasil.png|20px]] [[Rubens Barrichello|Rubinho Pé de chinelo]]
+|-
+| align="center" | 12
+| {{VENb}}  [[Pastor Maldonado|Pastor Maldobrado]]
+|-
+|rowspan=2| [[Arquivo:India flag.png|20px]] [[Force India|Forre a Índia Formula One Team]]
+!rowspan=2 align="center"| [[Force India]]-[[Mercedes]]
+| rowspan=2 align="center"| VJM04
+| rowspan=2 align="center"| [[Mercedes]]
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | <s>13</s> 14
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Adrian Sutil|Adriano Sutil]]
+|-
+| align="center" | <s>14</s> 15	
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Paul di Resta|Paulo de Resto]]
+|-
+|rowspan=3| [[Arquivo:Bandeira da Suiça.png|20px]] [[Sauber F1 Team|Saublergh]]
+!rowspan=3 align="center"| [[Sauber]]-[[Ferrari]]
+| rowspan=3 align="center"| C31
+| rowspan=3 align="center"| [[Ferrari]]
+| rowspan=3 align="center" | [[Pirelli]]
+| align="center" | <s>15</s> 16
+| [[Arquivo:Bandeira_do_Japao.png|20px]] [[Kamui Kobayashi|Kamui Toba-no-hashi]]
+|-
+|rowspan="2" align="center" | <s>16</s> 17
+| [[Arquivo:Flagge Mexiko.png|20px]] [[Sergio Pérez|Sérgio Peres]]
+|-
+| [[Arquivo:Bandeira da Espanha.png|20px]] [[Pedro de la Rosa|Pedro da Rosa]]
+|-
+|rowspan=2| [[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Toro Rosso|Scuderia Tolo Roxo]]
+!rowspan=2 align="center"| [[Scuderia Toro Rosso|Tolo Roxo]]-[[Renault]]
+|rowspan=2 align="center"| STR6
+|rowspan=2 align="center"| [[Renault]]
+|rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 	<s>17</s> 18
+| [[Arquivo:Bandeira da Suiça.png|20px]] [[Sébastien Buemi|Sebastião Buá-mimimi]]
+|-
+| align="center" | <s>18</s> 19
+| [[Arquivo:Bandeira da Espanha.png|20px]] [[Jaime Alguersuari|Jaime Alguém suado]]
+|-
+| rowspan="3" | [[Arquivo:Bandeira da Malásia.png|20px]] [[Team Lotus|True Lotus F1 Team]]
+!rowspan=3 align="center"| [[Lotus]]
+| rowspan=3 align="center"| T128
+|rowspan=3 align="center"|[[Renault]]
+|rowspan=3 align="center"|[[Pirelli]]
+| align="center" | <s>19</s> 20
+| [[Arquivo:Banderafinlandia.png|20px]] [[Heikki Kovalainen|Eike Pô, vá lá, hein?]]
+|-
+|rowspan="2" align="center" | <s>20</s> 21
+| [[Arquivo:Bandeira da Italia.png|20px]] [[Jarno Trulli|Jarro Trulle]]
+|-
+| [[Arquivo:India flag.png|20px]]  [[Karun Chandhok|Karum Xandhoque]]
+|-
+| rowspan="3" | [[Arquivo:Bandeira da Espanha.png|20px]] [[Hispania Racing Team|Agarre-o-Tê]]
+!rowspan=3 align="center"| [[HRT]]-Cosworth
+| rowspan=3 align="center"|F111
+| rowspan=3 align="center"|Cosworth
+| rowspan=3 align="center" | [[Pirelli]]
+|rowspan="2" align="center" |<s>21/22</s> 22/23
+| [[Arquivo:India flag.png|20px]]  [[Narain Karthikeyan|Naruim Karthikeyla]]
+|-
+| [[Arquivo:Bandeira da Australia.png|20px]] [[Daniel Ricciardo|Daniel Ricardo]]
+|-
+| align="center" |<s>22</s> 23
+| [[Arquivo:Bandeira da Italia.png|20px]] [[Vitantonio Liuzzi|Vito Antônio Luiz]]
+|-
+| rowspan="2" | [[Arquivo:Bandeira da Rússia.png|20px]] [[Marussia F1 Team|Mais Rússia Virgem F1 Team]]
+!rowspan=2 align="center"| [[Marussia]]-Cosworth
+| rowspan=2 align="center"|MVR-02
+| rowspan=2 align="center"|Cosworth
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" |24
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Timo Glock|Timor Gloque]]
+|-
+| align="center" |25
+| [[Arquivo:Bandeira da Belgica.png|20px]]  [[Jérôme d'Ambrosio|Jerônimo De Ambrósio]]
+|}
+
+* ''Nota: eles cortavam o número 13 por medinho do azar.''
+ 
+==Resumo da temporada==
+[[Arquivo:Vettel-Still-Winning.png|250px|miniaturadaimagem|direita|Basicamente, a {{PAGENAME}} foi assim...]]
+
+[[2011]] foi uma das temporadas mais chatas e previsíveis da F1. Vettel garantiu o campeonato com facilidade, mesmo rodando mais que o pião da casa própria em algumas corridas. Pra piorar, os outros pilotos considerados "bonzões", como Button, Hamilton e Alonso, tiveram um ano horrível. Eu poderia ter incluído Webber nessa lista, mas ele nunca foi lá grande coisa.
+
+Assim, Vettel pôde bater vários recordes e em 2011, aos [[24]] anos (uuuuiiii!), ele se tornou o mais jovem BI-campeão da categoria (adoooooro!), colocando Alonso para trás (aloka!). Ele não poderia comemorar de outra forma que não em uma orgia gay cercado de vários negões dotados (dizem que Hamilton participou também, mas até agora, nada foi confirmado).
+
+==CU-riosidades==
+*2011 foi o último ano que tivemos duas Lotus: a que já estava aí e no ano seguinte virou a Caterham, e a outra Lotus, que na verdade era a Renault. [[Bruno Senna]] recebeu convite pra correr em uma Lotus, mas como não sabia qual prestava, apelou para o [[Uni Duni Tê|uni-duni-tê]].
+*Foi a partir dessa temporada que a [[Pirelli]] iniciou seu império do mal na F1, com seus famosos pneus feitos de açúcar que se desmancham em duas voltas.
+[[Arquivo:Barrichello vs tartaruga.jpg|200px|miniaturadaimagem|direita|Infelizmente, a F1 jamais viu esse racha (embora todos nós saibamos que a tartaruga ganharia de lavada)]]
+*Estrearam nesta temporada [[Paul di Resta]], [[Jérôme d'Ambrosio]], [[Pastor Maldonado]], [[Daniel Ricciardo]] e [[Sergio Pérez]]. Os dois primeiros eram tão figurantes que você certamente já esqueceu. Maldonado chegou à F1 com o patrocínio de seu sugar daddy [[Hugo Chávez]], e viveu um dia de Cinderela na temporada seguinte. Perez também tinha seu sugar daddy, o trilhardário chicano Carlos Slim, mas só começou a render lucros depois de velho. E Ricciardo entrou no meio da temporada, era patrocinado pela Red Bull e ficou mais famoso por rir o tempo todo.
+
+*E vazaram da F1 [[Sébastien Buemi]], [[Jaime Alguersuari]], [[Vitantonio Liuzzi]], [[Karun Chandhok]] e [[Nick Heidfeld]]. O único que se deu bem foi o Buemi, que foi campeão da Fórmula E. O resto ficou igual cachorro abandonado em beira de estrada.
+
+*E quanto ao [[Rubinho Barrichello]]? Ele não vazou da F1, foi vazado! A Williams se cansou dos pitis dele e decidiu ir atrás de carne fresca, colocando o sobrinho do [[Ayrton Senna|piloto que eles mataram]] pra correr ao lado do grandioso Maldonado. Rubinho ainda tentou descolar uma vaguinha na Marussia, <s>Lotus</s> Caterham, HRT e na [[USF1]], chegando a afirmar que bancaria uma equipe do próprio bolso, mas ninguém mais quis saber dele e assim, o segundo maior mito dos memes da F1 foi aposentado na marra. Depois de três anos se prostituindo por uma vaga em qualquer equipe, Rubinho encarou a realidade e após se aventurar na segunda divisão do automobilismo, ser repórter por 1 dia do Fantástico e improvisar uma carreira de apresentador de TV, se mandou para o cemitério de pilotos nacionais, a [[Stock Car]], onde milagrosamente ele recuperou a forma e voltou a vencer (até porque a concorrência era nível pré-sal).
+
+== Galeria ==
+<Gallery>
+Imagem:Vettel-Bigode-Mansell.png|Vettel fazendo cosplay do [[Nigel Mansell|Mansell]] (ou seria do Lorax?)
+Imagem:Mark Webber.jpg|Mark Webber vendo que é o novo Barrichello da vez 
+Imagem:Barrichello capacete 1024.jpg|Rubinho mostrando que desenha tão bem quanto pilota
+Imagem:Jaime Alguersuari 2.jpg|Alguesuari tentando entrar na Force India
+Imagem:Bruno Senna 3.png|Senna na Lotus versão Nutella
+Imagem:Heikki Kovalainen.jpg|Sim, tinha duas Lotus, e se juntassem as duas, não dava um carro que preste
+Imagem:Jerome d'Ambrosio.jpg|D'Ambrosio pilotando o carro do fumacê
+Imagem:Heikki Kovalainen 2.jpg|Kovalainen dando autógrafos (muitos o confundiam com o Raikkonen)
+Imagem:Pastor Maldonado 3.jpg|Maldonado, um dos estreantes do ano
+Imagem:Nick Heidfeld adeus.jpg|Heidfeld, um dos que deram adeus à F1 nesse ano
+Imagem:Lewishamilton1.jpg|Hamilton rindo desse artigo
+</Gallery>
+
+== Resultados e classificação ==
+
+=== Por Grande Prêmio ===
+{| class="wikitable" border="1" style="font-size: 90%;"
+! colspan="2" | Grande Prêmio
+! Circuito e Cidade
+! Data
+! [[Pole Position|Pole Dancition]]
+! Volta mais rápida
+! <choose><option>[[Ayrton Senna|Vencedor]]</option><option>[[Michael Schumacher|Vencedor]]</option></choose>
+|-
+! 1
+|{{AUSb}} [[GP da Austrália]]
+| [[Circuit Albert Park]] [[Melbourne]]
+| [[27 de março]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|   <center> [[Felipe Massa|Me-Passa]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|-
+! 2
+|[[Arquivo:Bandeira da Malásia.png|20px]] [[Malásia|GP da Malásia]] 
+| [[Circuito Internacional de Sepang]] ([[Kuala Lumpur]])
+| [[10 de abril]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|   <center> [[Mark Webber|Uéber]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|-
+! 3
+|{{CHNb}} [[Grande Prêmio da China|GP da China]] 
+| [[Circuito Internacional de Xangai]] ([[Xangai]])
+| [[17 de abril]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|   <center> [[Mark Webber|Uéber]]
+|   <center> [[Lewis Hamilton|Amílton]]
+|-
+! 4
+|[[Arquivo:Bandeira da Turquia.png|20px]] [[Grande Prêmio da Turquia|GP da Turquia]] 
+|[[Istanbul Park|Cativeiro da Morena]] (Istambul)
+| [[8 de maio]]
+|  <center> [[Sebastian Vettel|Vencel]]
+|   <center> [[Mark Webber|Uéber]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|-
+! 5
+|{{ESPb}} [[Grande Prêmio da Espanha|GP da Espanha]]
+| [[Circuito da Catalunha|Onde o pereba pôde brilhar]] ([[Barcelona]])
+| [[22 de maio]]
+|   <center> [[Mark Webber|Uéber]]
+|   <center> [[Lewis Hamilton|Amílton]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|-
+! 6
+|{{MCOb}} [[Mônaco|GP de Mônaco]]
+|[[Circuit de Monaco|Circuito chato]] (Monte Carlo)
+| [[29 de maio]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|   <center> [[Mark Webber|Uéber]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|-
+! 7
+|{{CANb}} [[Canadá|GP do Canadá]]
+| [[Circuit Gilles Villeneuve|Imola 2.0]] ([[Montreal]])
+|  [[12 de junho]]
+|  <center> [[Sebastian Vettel|Vencel]]
+|  colspan="2" | <center> [[Jenson Button|Botão]]
+|-
+! 8
+| [[Arquivo:Bandeira da União Europeia.png|20px]] [[Europa|GP da Europa]]
+| [[Valencia Street Circuit]] ([[Valência (Espanha)|Valência]])
+| [[26 de junho]]
+|  colspan="3" |  <center> [[Sebastian Vettel|Vencel]]
+|-
+! 9
+|{{GBRb}} [[Inglaterra|GP da Grã-Bretanha]]
+| [[Silverstone Circuit|Circuito da Pedra Prateada]] ([[Silverstone (cidade)|Silverstone]])
+| [[10 de julho]]
+|   <center> [[Mark Webber|Uéber]]
+|   colspan="2" |  <center> [[Fernando Alonso|Malonso]]
+|-
+! 10
+|{{ALEb}} [[Alemanha|GP da Alemanha]]
+| Circuito de Hockenheimring, ([[Hockenheim]])
+|  [[24 de julho]]
+|   <center> [[Mark Webber|Uéber]]
+|     colspan="2"  |   <center> [[Lewis Hamilton|Amílton]]
+|-
+! 11
+| {{HUNb}} [[Hungria|GP da Hungria]]
+| [[Hungaroring|Onde o Massa levou a molada]] ([[Budapeste]])
+|  [[31 de julho]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|   <center> [[Felipe Massa|Me-Passa]]
+|   <center> [[Lewis Hamilton|Amílton]]
+|-
+! 12
+| {{BELb}} [[Bélgica|GP da Bélgica]]
+| [[Spa-Francorchamps|Perigosa, rainha do funk]], ([[Spa-Francorchamps]])
+|  [[28 de agosto]]
+| <center> [[Sebastian Vettel|Vencel]]
+|   <center> [[Mark Webber|Uéber]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|-
+! 13
+|{{ITAb}} [[Itália|GP da Itália]]
+| [[Circuito de Monza|Mamma mia!]] ([[Monza]])
+| [[11 de setembro]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|   <center> [[Lewis Hamilton|Amílton]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|-
+! 14
+|{{SGP}} [[Singapura|GP de Singapura]]
+| [[Circuito Urbano de Marina Bay|Cingapura Gate]] ([[Cidade de Singapura]])
+|  [[25 de setembro]]
+|   <center> [[Sebastian Vettel|Vencel]]
+| <center> [[Jenson Button|Botão]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|-
+! 15
+|{{JPN}} [[Grande Prêmio do Japão|GP do Japão]]
+| [[Circuito de Suzuka|Dragon Ball]] ([[Suzuka]]) 
+| [[9 de outubro]]
+|  <center> [[Sebastian Vettel|Vencel]]
+|  colspan="2" | <center> [[Jenson Button|Botão]]
+|-
+! 16
+|{{KORb}} [[Coreia do Sul|GP da Coreia do Sul]]
+| [[Korean International Circuit|Pista do dorama]] ([[Yeongam]])
+| [[16 de outubro]]
+|   <center> [[Lewis Hamilton|Amílton]]
+|  colspan="2" |  <center> [[Sebastian Vettel|Vencel]]
+|-
+! 17
+|{{INDb}} [[Índia|GP da Índia]]
+| [[Buddh International Circuit|Are-Baba]] ([[Nova Deli]])
+| [[30 de outubro]]
+|  colspan="3" |  <center> [[Sebastian Vettel|Vencel]]
+|-
+! 18
+| [[Arquivo:Bandeira dos Emirados Arabes Unidos.png|20px]] [[Abu Dhabi|GP de Abu Dhabi]]
+| [[Circuito de Yas Marina|Yas Marina Silva]] ([[Abu Dhabi]])
+|  [[13 de novembro]]
+|   <center> [[Sebastian Vettel|Vencel]]
+|   <center> [[Mark Webber|Uéber]]
+|   <center> [[Lewis Hamilton|Amílton]]
+|-
+! 19
+|{{BRAb}} [[Grande Prêmio do Brasil|GP do Brasil]]
+| [[Autódromo de Interlagos|InterlaGOAT]] ([[São Paulo (cidade)|São Paulo-SP]])
+| align="center"| [[27 de novembro]]
+|  <center> [[Sebastian Vettel|Vencel]]
+|  colspan="2" |   <center> [[Mark Webber|Uéber]]
+|-
+|}
+
+===Campeonato de Pilotos===
+
+{| class="wikitable"
+|-
+! Pos.
+! Piloto
+! Equipe
+! Pontos
+|-
+! 1º
+| [[Sebastian Vettel|Sebastião Vencel]]||[[Red Bull|Red Buuu]]
+!392
+|-
+! 2º
+| [[Jenson Button|Jensão Botão]]||[[McLaren|Mequilaren]]
+!270
+|-
+! 3º
+| [[Mark Webber|Marcos Uéber]]||[[Red Bull|Red Buuu]]
+!258
+|-
+! 4º
+| [[Fernando Alonso|Ferrando Malonso]]||[[Ferrari|Ferrar-se]]
+!257
+|-
+! 5º
+| [[Lewis Hamilton|Luís Amílton]]||[[McLaren|Mequilaren]]
+!227
+|-
+! 6º 
+| [[Felipe Massa|Felipe Me-passa]]||[[Ferrari|Ferrada]]
+!118
+|-
+! 7º
+| [[Nico Rosberg|Nico Rosbrega]]||[[Mercedes|Mercedes]]
+!89
+|-
+! 8º
+| [[Michael Schumacher|Schumy semi-aposentado]]||[[Mercedes|Mééércedes]]
+!76
+|-
+! 9º
+| [[Adrian Sutil|Adriano Sutil]]||[[Force India|Forre a Índia]]
+!42
+|-
+! 10º
+| [[Vitaly Petrov|Vitalino Petrove]]||[[Renault|Fake Lotus]]
+!37
+|-
+! 11º
+| [[Nick Heidfeld|Nique Reidifeldy]]||[[Renault|Fake Lotus]]
+!34
+|-
+! 12º
+| [[Kamui Kobayashi|Kamui Bobalhashi]]||[[Sauber|Saublergh]]
+!30
+|-
+! 13º
+| [[Paul di Resta|Paulo de Resto]]||[[Force India|Forre a Índia]]
+!27
+|-
+! 14º
+| [[Jaime Alguersuari|Jaime Alguém suado]]||[[Toro Rosso|Tolo Roxo]]
+!26
+|-
+! 15º
+| [[Sébastien Buemi|Sebastião Buá-mimimi]]||[[Toro Rosso|Tolo Roxo]]
+!15
+|-
+! 16º
+| [[Sergio Perez|Sergio Peles]]||[[Sauber|Saublergh]]
+!14
+|-
+! 17º
+| [[Rubens Barrichello|Rubinho Pé de chinelo]]||[[Williams]]
+!4
+|-
+! 18º
+| [[Bruno Senna|Bucha de Senna]]||[[Renault|Fake Lotus]]
+!2
+|-
+! 19º
+| [[Pastor Maldonado|Pastor Maldobrado]]||[[Williams]]
+!1
+|-
+! 20º
+| [[Pedro de la Rosa|Pedro da Rosa]]||[[Sauber|Saublergh]]
+!0
+|-
+! 21º
+| [[Jarno Trulli|Jarro Trulle]]||[[Lotus|True Lotus]]
+!0
+|-
+! 22º
+| [[Heikki Kovalainen|Eike Pô vá lá hein]]||[[Lotus|True Lotus]]
+!0
+|-
+! 23º
+| [[Vitantonio Liuzzi|Vito Antônio Luiz]]||[[HRT|Agarre o Tê]]
+!0
+|-
+! 24º
+| [[Jérôme d'Ambrosio|Jerônimo d'Ambrósio]]||[[Marussia|Russa Virgem]]
+!0
+|-
+! 25º
+| [[Timo Glock|Timor Gloque]]||[[Marussia|Russa Virgem]]
+!0
+|-
+! 26º
+|[[Narain Karthikeyan|Naruim Karthikeyla]]||[[HRT|Agarre o Tê]]
+!0
+|-
+! 27º
+|[[Daniel Ricciardo|Daniel Ricardo]]||[[HRT|Agarre o Tê]]
+!0
+|-
+! 28º
+| [[Karun Chandhok|Karum Xandhoque]]||[[Lotus|True Lotus]]
+!0
+|}
+
+===Campeonato de Construtores===
+{| class="wikitable"
+|-
+! Pos.
+! Equipe
+! Pontos
+|-
+!1º
+|[[Arquivo:Bandeira da Austria.png|20px]] [[Red Bull Racing|Red Buuu-Renault]]
+!650
+|-	
+!2º
+| [[Arquivo:Bandeira da Inglaterra.png|20px]] [[Team McLaren|Mequilaren-Mercedes]]
+!497
+|-
+! 3º
+|[[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Ferrari|Ferrar-se]]
+!375
+|-
+!4º
+|[[Arquivo:Bandeira da Alemanha.png|20px]] [[Mercedes|Mercedes]]
+!165
+|-
+!5º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Renault|Fake Lotus-Renault]]
+!73
+|-
+!6º
+|[[Arquivo:India flag.png|20px]] [[Force India|Forre a Índia-Mercedes]]
+!69
+|-
+!7º
+|[[Arquivo:Bandeira da Suiça.png|20px]] [[Sauber F1 Team|Saublergh-Ferrari]]
+!44
+|-
+!8º
+|[[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Toro Rosso|Touro Russo-Ferrari]]
+!41
+|-
+!9º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Williams F1|Williams-Cosworth]]
+!5
+|-
+!10º
+|[[Arquivo:Bandeira da Malásia.png|20px]] [[Lotus Team|True Lotus-Renault]]	
+!0
+|-
+!11º
+|[[Arquivo:Bandeira da Espanha.png|20px]] [[HRT|Agarre o Tê-Cosworth]]
+! 0
+|-
+!11º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Marussia|Mar Russa Virgem-Cosworth]]
+! 0
+|}
+
+
+==Campeão==
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Vencedor da {{PAGENAME}}
+|-
+![[Arquivo:Vettel-dedo.png|300px]]
+|-
+|align=center|<br />'''[[Sebastian Vettel]] ([[Red Bull Racing|Red Bull]])'''<br />'''(2º título)'''
+|}
+
+
+{{Temporadas f1}}

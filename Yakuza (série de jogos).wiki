@@ -1,0 +1,47 @@
+{{Game}}
+
+{{Infobox Série Game
+|title         = Yakult
+|image_logo    = Yakuza logo-minigames.png
+|caption       = Logotipo no ocidente
+|genre         = Minigame, side-quest, gerenciamento de puteiro
+|developer     = [[Ryu Ga Gotoku Studio|Ryu com Arroto Studio]]
+|publisher     = [[Sega|Cega]]
+|origin        = [[PlayStation 2]]
+|first_release = [[Yakuza (jogo)|Yakuza 1]] (2005)
+|last_release  = [[Like a Dragon: Infinite Wealth]] (2023)
+}}
+{{vqd|Dame da Ne: The Game}}
+{{c|Ei, Kiryu, acorda ai mano, tá na hora de salvar o clã Tojo de novo!|Daigo Dojima}}
+
+'''Yakuza''' (chamado de '''Ryū ga Gotoku''' no Japão porque lá não dá pra chamar alguma coisa de "Yakuza" tão casualmente assim) é uma série de jogos de coletâneas de minigame com temática de gangues japonesas com visões abundantemente erradas do mundo dos gângsteres orientais, onde os chamados "yakuza" são apenas vendedores de ternos caros e a única coisa que sempre fazem é visitar cabarés para criar tumultos. Os jogos de Yakuza são uma tentativa da [[Sega]] em criar algo mais "realista", que fosse diferente de jogos cartunescos como [[Sonic]], e algo mais "masculino", que fosse diferente dos jogos de garotinhas como [[Sakura Wars]], resultando em jogos de comédia com fortíssimas situações de [[bromance]]. O protagonista não é tão rápido quanto Sonic, mas está o tempo inteiro correndo.
+
+Toda história de Yakuza é extremamente séria, envolvendo algum escândalo de lavagem de dinheiro/propina/brigas imobiliárias que a família Dojima se meteu naquela semana. Ninguém sorri, todo mundo tem 5 anos de músculo debaixo de terno e tá o tempo todo falando de honrar tradições, o absoluto contrário da insanidade esquizofrênica que são as ''sidequests'', onde Kiryu faz de tudo, desde reconectar familiares perdidos até ajudar uma [[dominatrix]] [[WTF|a humilhar melhor]].
+
+== Jogabilidade ==
+
+[[Arquivo:Yakuza administração de puteiro.jpg|thumb|left|Todos os jogos da série vem com um minigame de administração de puteiro.]]
+
+Todos os jogos da série Yakuza possuem uma mecânica bem similar, tão similar que se você der para alguém uma cópia de [[Yakuza 3]] e depois de [[Yakuza 5]], essa pessoa vai acreditar está jogando o exato mesmo jogo. Todos esses jogos são meramente grandes coletâneas de minigames onde você pode: Jogar [[shogi|xadrez japonês]], jogar [[Mahjong|dominó chinês]], jogar [[Koi-Koi|truco japonês]], jogar boliche, jogar golf, jogar poker, jogar sinuca, jogar dardos, jogar [[Arcade]]s antigos, <s>apertar botões na hora certa</s> cantar no karokê, frequentar puteiros, beber álcool, comer em restaurantes chique, comer em lanchonetes, comer em biroscas, assistir pornô, receber massagem de gostosas, fotografar gostosas em poses sensuais e tudo isso enquanto livremente enfia a porrada em pedestres no geral e arrecada dinheiro de suas vítimas, tudo numa réplica fiel de [[Kabukicho|Kamurocho]], um bairro de Tokyo.
+
+Yakuza verdadeiramente é uma espécie de [[Call of Duty]] japonês da vida, no sentido que todo ano lança um novo. Como os caras conseguem, em menos de 10 meses, fazer um jogo de 50 horas de duração com trocentos ''minigames'' e ''sidequests'' está além da compreensão daqueles que não praticam o [[Bushido]].  De um Yakuza pro outro, o gameplay tende a mudar ou com a inclusão de personagens novos, estilos de combate novos <small>(isso quando a franquia não remove a mecânica de um [[Yakuza 0|jogo]] pro [[Yakuza 6: The Song of Life|outro]])</small> e meio mundo de ''Heat Actions'', aqueles [https://www.youtube.com/watch?v=QxCohqg8h-Y vídeos de compilação do YouTube que se tratam do Kiryu arremessando um cara de uma varanda ou quebrando todos os dentes dele com um assento de bicicleta]. Além dessas melhorias e os trocentos ''minigames'', o elemento comum a todos os jogos é o simulador de [[Capitalismo|gerenciamento de puteiro]], fazendo dos jogos de Yakuza uma espécie de [[Zoo Tycoon]] onde ao invés de cuidar de animais você cuida de prostitutas, comprando para elas vestidos, cortes de cabelos, calcinhas e brinquedos sexuais em geral turbinando-as para transformar o seu puteiro na melhor casa de libertinagem de sua cidade.
+
+== Jogos ==
+[[Arquivo:ForeverKiryu.png|thumb|right|Kiryu enchendo o rabo de cachaça em algum boteco, ponderando se algum dia irá se livrar do seu vício debilitante de meter porrada em pedestre]]
+* '''[[Yakuza (jogo)|Yakuza 1]]''' (<small>[[Yakuza Kiwami|Yakuza Kawaii]]</small>) - Jogo que mostra o começo de carreira de Kazuma Kiryu, um rapaz órfão que se envolve num intrincado esquema de corrupção entre vendedores de ternos onde Kiryu assume um crime que não cometeu para proteger o amigo que na verdade é um grande merdeiro escravoceta que decide dominar o ramo de venda de ternos de luxo para chamar atenção de uma vagabunda com amnésia que na verdade tinha um caso com o prefeito da cidade e queria dar o golpe do baú nele ao engravidar do político. Após muitos ''minigames'' todo mundo morre no final, sobrando só a garotinha filha daquela doida. Hoje em dia pode ser considerado o pior jogo da série, porque além do combate ser cagado, a maioria do conteúdo adicional é sem graça.
+* '''[[Yakuza 2]]''' (<small>[[Yakuza Kiwami 2|Yakuza Kawaii 2]]</small>) - A partir do segundo jogo Kiryu aprende a técnica de guardar itens no cu e consegue guardar até três objetos mortais dentro de seu ânus, como armas de fogo e espadas. O jogo é basicamente uma cópia do primeiro jogo com 1 mapa e uns 7 minigames a mais. A história é sobre desbancar um valentão líder de um gangue de vendedores de ternos de outra cidade.
+* '''[[Yakuza 3]]''' - O terceiro jogo da franquia mantém o escopo básico de ser um jogo de minigames, mas traz a novidade de um modo história no gênero ''Babysitter Simulator'' no qual Kiryu agora é a [[babá]] de 9 crianças órfãs. Costuma ser considerado um dos piores da série porque <u>quase nada de relevância ou interesse</u> acontece na história.
+* '''[[Yakuza 4]]''' - Este jogo conta com quatro personagens principais jogáveis, três carinhas carismáticos e péssimos de jogar e o Kiryu. Os ''minigames'' ainda estão todos ali, então não interessa muito quem você está controlando, apenas não controle o Saejima porque ele não participa das missões de administração de puteiro, o que faz dele o personagem menos querido dos fãs, apesar dele ser discutivelmente um dos mafiosos mais picas do universo. O cara é deixado na mão pelo seu melhor amigo e acaba tendo que invadir um restaurante de macarrão sozinho com 6 revólver <small>(segurando um na boca como se fosse o [[Roronoa Zoro|Zoro]] bélico)</small> pra matar uma família criminosa inteira, e o desgraçado '''quase consegue'''.  
+* '''[[Yakuza 5]]''' - O quinto jogo série agora se torna um [[Crazy Taxi|Taxi Simulator]] no qual você precisa pegar passageiros de diversos tipos e andar pelas ruas de Tokyo parando nos sinais vermelhos, nas faixas de pedestre, além de dar seta antes de fazer as curvas e ter conversas amenidades com os passageiros. E não se preocupe, todos os minigames ainda estão ali. Costuma ser considerando um dos melhores, senão o melhor jogo da franquia, com o melhor elenco de protagonistas e muita coisa bacana pra se fazer. Os desenvolvedores só não se preocuparam muito com o final, onde basicamente todo o conflito é resolvido e ainda assim, Kiryu precisa sair no tapa com um bróder que nem sequer entende porque eles estão brigando.
+* '''[[Yakuza 0]]''' - Jogo que é considerado o melhor jogo de Yakuza porque neste não há nenhuma historinha besta para atrapalhar o jogador, há apenas a liberdade e a diversão de ir curtir dezenas de [[minigames|MINIGAMES]]. Goro Majima, o coringa porra louca zé das facas da franquia, que até agora era só um personagem secundário queridinho dos fãs, nesse jogo se transforma num co-protagonista e brilha mais que uma supernova.
+* '''[[Yakuza 6: The Song of Life]]''' - Jogo contando o final de carreira de Kiryu, as missões agora são ir comprar leite no mercadinho, passear a noite, assistir o jornal, fumar... coisas de pai solteiro de filha adolescente. Comparado ao 0, é um ''downgrade'' equivalente a um jogo de console indo parar no [[Game Boy Advance|GBA]].
+* '''[[Yakuza: Like a Dragon]]''' - Depois de 7 jogos só falando sobre o Kiryu, a série ressurge em 2020 trazendo um protagonista completamente novo, mas com a mesma velha história de ter passado vários anos no presídio sem ter culpa de nada, mas apenas porque foi traído pelo chefe. Ao sair da cadeia, o novo protagonista, Ichiban Kasuga, vai concretizar sua vingança, mas só depois de jogar todos minigames disponíveis na cidade, porque dessa vez tem até um [[Mario Kart]]. A mecânica antiga de porrada foi pro saco, a franquia agora é [[Dragon Quest]] com Yakuzas e ponto final, não gostou? Vai jogar [[Lost Judgement]].
+
+{{Yakuza games}}
+{{Sega}}
+{{Ação-aventura}}
+
+[[Categoria:Jogos da Sega]]
+
+[[es:Yakuza (juegos)]]
+[[ja:龍が如く]]

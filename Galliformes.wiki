@@ -1,0 +1,40 @@
+{{taxocaixa
+| nome           = Galináceos
+| cor            = #FFEBCD
+| imagem         = Taylor swift risada.jpg
+| imagem_legenda = Uma galinácea cacarejando
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| classe         = [[Aves|Voadores]]
+| ordem          = [[Galliformes|Frangolinos]]
+}}
+
+'''Galliformes''', mais comumente reconhecidos como '''Galináceos''', são uma ordem de aves terrestres encontradas em mesas de jantar nos dias de Natal e Ação de Graças, embora ocorra de aparecer em mesas de famílias de classe média no horário de almoço. Estudos demonstram que uma verdadeira catástrofe se abateu sobre estas aves, é que hoje mais de 50 bilhões de indivíduos galináceos se encontram mantidos em cárcere culpados pelo único e inocente fato de serem suculentos ao molho
+
+== Anatomia ==
+
+Descendentes diretos do grande [[Tiranossauro]], os galináceos foram criados para governar toda natureza, donos de um cacarejo ensurdecedor e de um voo desengonçado que dá medo, por milênios os galináceos dominaram e impuseram terror na Terra. Tudo mudou no final do [[holoceno]], quando homens maus como Charles Darwin e Adolph Hitler, pioneiros na manipulação de genes, uma vez aterrorizados pela tirania dos frangos, manipularam seus genes de maneira a transformá-las em algo repugnante, além da humilhação de dar nomes baixos a determinadas espécies, como o caso do peru e do pinto. Os galináceos de hoje não passam de uma enorme e desossada quantidade de carne lotada de hormônios e conservantes, com uma pele tostada deliciosamente frita.
+
+== Hábitos ==
+
+Teoricamente os galináceos são espíritos livres que deveriam estar vagando pelo planeta terra com seu hábito de bicar a terra e ciscar o chão polinizando todo o meio ambiente e fazendo a natureza se perpetuar. Todavia um grupo maligno de chacais, lobos, raposas e demais vilões de desenhos Disney e Looney Toones decidiram acabar com essa espécie. Uma espécie supostamente muito generosa denominada homo sapiens surgiu e decidiu salvar todos galináceos desse terrível destino, capturando-os todos da natureza e os confinando em seguros galinheiros. O que pouca gente sabia é que isso não passou de uma conspiração maçônica para existir asinha de frango e coxinha frita para triturar as artérias dos corações dos norte-americanos médios de maneira a fazê-los irem ao hospital onde tomariam uma injeção suspeita que controlaria suas mentes e fariam todos pensar que os Estados Unidos é o paraíso da liberdade e consumismo. Enquanto isso, os galináceos foram presos, e as raposas tentam em vão resgatá-los de seu cativeiro.
+
+Os gananciosos donos das multi-internacionais empresas de agronegócio hoje dominam os galináceos, que se veem presos e escravizados em sua totalidade para saciar a luxúria e egoísmo do paladar humanos! Esses covardes sem alma roubaram os frutos do trabalho de nossos amigos emplumados, gaiola-los em quartos apertados por suas vidas inteiras (cerca de seis semanas, na maioria dos casos), e duramente mutilá-los em larga escala no final! Basicamente é este o hábito atual de um galináceo.
+
+== Taxonomia ==
+
+{{Clado
+|clado1     = Famílias
+|preposição = à
+|clado2     = ordem galliformes
+|texto      = 
+|lista      = 
+* '''[[Megapodidae]]''' - galinhas austrolásias
+* '''[[Cracidae]]''' - mutuns, jacus e aracuãs
+* '''[[Numididae]]''' - galinhas d'angola e pintadas
+* '''[[Odontophoridae]]''' - urus e perdizes-da-califórnia
+* '''[[Phasianidae]]''' - galinhas, pavões, faisões, perdizes, tetrazes e perus
+}}
+
+[[Categoria:Aves]]
+[[Categoria:Galliformes]]

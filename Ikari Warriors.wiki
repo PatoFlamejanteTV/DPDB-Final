@@ -1,0 +1,50 @@
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Guerreiros do Ódio
+|image     = ikariwarriors-arc.png
+|caption   = O logotipo desta [[merda]].
+|developer = [[SNK]]
+|publisher = [[Tradewest]]
+|released  = [[1986]]
+|genre     = [[Shoot'em up]]
+|rating    = 4
+|platform  = [[Arcade]], etc.
+|ages      = [[16]], mas como o gráfico é ruim pode ser [[12]]
+}}
+
+{{C|Acho que já vi esses personagens em algum lugar...|Você|Ralf e Clark}}
+
+'''Ikari Warriors''' é um joguinho fuleiro da [[SNK]] no estilo [[shoot'em up]], que [[nunca]] foi um gênero no qual a [[empresa]] investisse muito, tanto que no [[Japão]] este [[game]] é considerado apenas um [[plágio]] de [[Commando]] e nem fez tanto sucesso assim. Porém, nos [[Estados Unidos|Estados Ungidos]], Ikari Warriors foi o [[primeiro]] lançamento decente da SNK por lá (imagina então como devia ser o nível dos outros [[jogo]]s que eles lançavam antes), tornando-o um ícone consagrado e cultuado até [[hoje]] no [[mundo]] dos [[videogame]]s.
+==Review==
+Realmente, Ikari Warriors é uma [[puta]] cópia de Commando. Mas a novidade é que neste jogo [[você]] pode escolher seu [[personagem]], enquanto no da [[Capcom]] só existia [[um]] disponível! Essa inovação não é {{Strike|uma [[merda]]}} legal? Suas opções são [[Ralf e Clark]], cuja única diferença está na [[cor]] da faixa que eles usam na [[cabeça]] ([[vermelho]] e [[azul]], respectivamente). Assim como Super Joe, eles são [[soldado]]s que têm uma quantidade limitada de munição em suas armas e precisam atravessar a [[base]] inimiga para chegarem sãos e salvos até sua própria aldeia.
+
+Caso esteja se perguntando como pode essa [[coisa]] ter feito sucesso com tanto [[clichê]], é porque Ikari Warriors também foi o primeiro game lançado para ser jogado com [[joystick]] rotativo {{Strike|na [[verdade]] foi o [[segundo]], mas ignore porque o outro jogo era ainda pior}}.
+==Personagens==
+Então, sabe os [[dois]] carinhas principais do jogo? Pois é, a SNK reciclou ambos com o passar dos [[ano]]s, quando já estava quase falida e sem nenhum ânimo para ter qualquer resquício de criatividade, e colocou-os como [[coadjuvante]]s em outros jogos, como [[Metal Slug]] e [[The King of Fighters]]. Por isso, mesmo que você nunca tenha ouvido falar nessa velharia que é Ikari Warriors, é bem provável que já conheça a dupla abaixo:
+===Ralf===
+{{principal|[[Ralf Jones]]}}
+{|
+| [[Arquivo:Snk-capfgt ralf ikari1 fistraise.png]]
+| Também conhecido como ''"Paul, o Exército de um Homem Só"'', Ralf é um [[coronel]] de [[39]] anos de idade, moreno, alto, {{Strike|bonito e sensual}}, que coleciona [[faca]]s e adora mascar [[chiclete]]. Quando não está atuando como [[assassino]] e [[mercenário]], ele costuma jogar [[baseball]] para relaxar, mas sempre verifica muito bem o [[campo]] antes de uma partida para ver se a [[grama]] está bem aparada e não há nenhuma [[cobra]] camuflada, pois Ralf simplesmente de-tes-ta esses [[bicho]]s (se ele gostasse, ia ser meio [[gay|estranho]], não?). Clark é [[seu melhor amigo]].
+|}
+===Clark===
+{{principal|[[Clark Steel]]}}
+{|
+| [[Arquivo:Snk-capfgt clark ikari1 fistraise.png]]
+| [[Tenente]] de [[34]] anos, Clark atualmente descolore o [[cabelo]] com [[água oxigenada]] porque cansou de [[ficar]] sendo confundido com Ralf o [[tempo]] inteiro. Também é alto e, às vezes, atende pelo codinome ''"Vince, Resistente e Maneiro"''. Muito [[fashion]] e vaidoso, ele não sai de [[casa]] sem usar [[óculos escuros]] e come [[aveia]] diariamente porque faz bem para a pele. Adora lutar, porque assim ele mantém o [[corpo]] sarado. Clark tem uma linda coleção de armas que ele faz questão de manter longe do alcance das [[lesma]]s, que ele morre de [[nojo]].
+|}
+
+{{Shoot 'em up}}
+{{SNK}}
+
+[[categoria:Jogos da SNK]]
+[[categoria:Jogos da Tradewest]]
+[[categoria:Jogos para Arcade]]
+[[categoria:Jogos para Atari 2600]]
+[[categoria:Jogos para Atari 7800]]
+[[categoria:Jogos para Commodore 64]]
+[[categoria:Jogos para MSX]]
+[[categoria:Jogos para Nintendo Entertainment System]]
+[[categoria:SNK]]
+[[categoria:Jogos lançados em 1986]]

@@ -1,0 +1,41 @@
+{{agua}}
+{{terra}}
+{{PokéBox
+| imagem = Marshtomp1.png
+| frase = Marshtomp [[soltando a franga]]
+| tamanho = 200
+| pokedex = 259
+| tipo1 = Water
+| tipo2 = Ground
+| espécie = Salamandra-aborrecente
+| cadeia evolutiva = [[Arquivo:Spr 5b 258.png|link=Mudkip|Mudkip]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:Spr 5b 259.png]]'''[[Arquivo:seta.JPG|30px]]'''[[Arquivo:SwampertS.png|link=Swampert|Swampert]]
+}}
+
+'''Marshtomp''' é a forma evoluída do Mudkip, nº259 do pokedex, e peixe bípede.
+
+==Biologia==
+===Aparência===
+Marshtomp é uma salamandra bípede(?) com cabeça oval com dois espinhos do lado. Tem uma barbatana em sua cabeça para realçar sua ''[[punk]]idade''. Tem duas barbatanas aos lados de seu cu, para que não impeça a água de sair. A maioria do seu corpo é azul, mas, diferente do Mudkip e Swampert, sua barriga possui uma cor laranja só pra dizerem que ele não apenas um Mudkip bipede (não funciona, o bichinho continua bem feinho). Seu shiny é <s>totalmente gay</s> rosa.
+
+===Habilidades especiais===
+Marshtomp, sendo uma salamandra (estranho, mas uma salamandra...) tem poderes de água. Mas também usa poderes de lama, canalizados a partir das barbatanas em sua bunda. Provavelmente a ''lama'' é [[Merda|outra coisa]], mas é conhecido como lama. Seu sistema digestivo também o torna capaz de cagar pela boca. Ele também pode viver fora da água mesmo sendo um peixe, pois ele é [[pokemon]].
+
+===Comportamento===
+[[Arquivo:Marshtomp triste.jpg|200px|left|thumb|Verdadeiro Marshtomp desanimado...]]
+[[Arquivo:Marshtomp.jpg|right|thumb|Marshtomp fingindo não ter problemas]]
+Marshtomps são pokemons bonsinhos e fofinhos ([[ou não]]), mas gostam de parecer punks violentos, por isso tem <s>penteado</s> barbatana punk e piencings na bochecha. Na verdade são apenas [[Emo|criaturas incompriendidas]], que fingem ser felizes. Se provocado porém, ele tem um ataque de machesa, e caga em seus inimigos.
+
+===Habitat===
+Marshtomps vivem em pântanos cheios de lama param comerem e cagarem merda mais melequenta.
+
+==Aparições no anime==
+Brock tem um Marshtomp que evoluiu de seu [[Mudkip]]. Apear de forte, ele se apaixonou por uma [[Flaaffy]], mas a ovelha prefeiu transar com alguém realmente macho. Apesar de sua espécie ser de emos procurando sua identidade, Marshtomp não perdeu seu amor pela vida, pois é um pokemon do [[Brock]].
+
+==Origem==
+Marshtomp é baseado em um peixe, um porco e um emo que quer ser punk.
+
+===Origem do nome===
+Marshtomp deriva de ''macho'', que é como um Marshtomp quer ser, e ''tonto'', devido apenas a ser um [[idiota]], agir como [[idiota]] e pensar como [[idiota]].
+
+{{poke3}}
+[[Categoria:Salamandras]]

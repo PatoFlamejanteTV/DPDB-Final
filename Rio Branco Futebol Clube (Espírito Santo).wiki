@@ -1,0 +1,48 @@
+{{Box ClubeFutebol
+|cor_clara         = #008B00
+|cor_escura        = #8B1C62
+|brasao            = Bandera RBFCVN.png
+|hino              = 
+|nome_oficial      = Rio Branco Fluminense Futebol Clube Vendido na Venda Nova do Imigrante
+|origem            = {{ES}}''' - [[Venda Nova Do Imigrante]]'''
+|apelidos          = Tricolor Serrano, Time da Terra da Polenta, Brancão Polenteiro, Fábrica de Polentas, Fluminense Fake, Feira dos Imigrantes
+|torcedores        = Torcedores do Fluminense, dos outros Fluminenses do Brasil e do Rio Branco Atlético Clube
+|torcidas          = Torcida Uniformizada Sangue Polenteiro (TUSP), Torcida Jovem Polentas Independentes
+|mascote           = [[Polenta]], [[Cartola]], [[Cavaleiro]]
+|ilustre           = [[BatataComPepino]]
+|estadio           = [[Olímpio Perim|Estádio Olympica no Perim]]
+|capacidade        = 200.000 empresas que fabricam polenta
+|sede              = {{ES}}''' - [[Venda Nova Do Imigrante]]'''
+|presidente        = Erivelton Uliana
+|treinador         = Mauro Soares
+|pior              = todos
+|melhor            = Ricardo Berna
+|patrocinador      = Fábricas de Polenta, Batatas Fritas e etc.
+|material          = Vector
+|liga              = Campeonato Capixaba, Copa Espírito Santo, Copa do Brasil, Brasileirão - Série D, Copa Verde
+|divisao           = Série A no Campeonato Capixaba e Série D no Brasileiro
+|títulos           = 1 campeonato capixaba de cada divisão
+|ranking           = nem tem
+}}
+
+'''Rio Branco Futebol Clube''', mais conhecido como '''Rio Branco de Venda Nova''' ou '''Rio Branco-VN''', é uma fábrica de polentas e um clube de futebol brasileiro ao mesmo tempo sediado na cidade pacata de Venda Nova dos Imigrantes, Espírito Santo. 
+
+== História ==
+=== Fundação ===
+
+O Rio Branco surgiu de um grupo de fabricantes de polenta. Um deles viajou pra fora do estado, quando o município ainda distrito de Castelo (da Disney), descobriram  o futebolzinho de quarta categoria e trouxeram essa novidade para Venda Nova do Imigrante. Aí os que gostaram começaram a se reunir pra jogar nos finais de semana e fabricar polentas de segunda a sexta. O seu escudo e uniformes são descaradamente idênticos aos uniformes antigos do Fluminense, outro time que é aparentemente muito odiado pela diretoria do Rio Branco de Venda Nova por usar tapetão, porque só no Olímpio Perim é possível ver o "Fluminense" perder pro Serra ou para o Rio Branco de Vitória.
+
+=== Saindo do Amadorismo ===
+
+O futebol profissional no Espírito Santo começou em 1993, quando sagrou-se campeão capixaba da Segunda Divisão. No primeiro joguinho da final, precisou improvisar um campo baldio e venceu por 1x0 um time chamado Mariano (WTF?!?!?!?!?!). No segundo jogo, empatou com o Mariano em 1x1. Com esses resultados, e como o Mariano foi incompetente o suficiente para vencer o Capixabão Série B, o campeão foi o Rio Branco.
+
+Na Primeira Divisão do Capixabão, a maior glória do Rio Branco de Venda Nova foi chegar na final do Capixabão de 1995 e como de costume ser vice, ao perder a final para a equipe do Linhares que até foi semifinalista da Copa do Brasil em 1994.
+
+== Títulos ==
+
+* '''[[Campeonato Capixaba - Série A]]''': 1 vez (2020)
+* '''[[Campeonato Capixaba - Série B]]''': 1 vez (1993)
+
+{{Campeonato Capixaba}}
+
+[[Categoria:Times de futebol do Espírito Santo]]

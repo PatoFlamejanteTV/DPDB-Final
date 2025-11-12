@@ -1,0 +1,108 @@
+<choose><option>
+{{logotipo_falso|Konamipedia.png}}</option><option>{{logotipo_falso|Konamipedia2.png}}</option></choose>
+{{game}}
+
+{{Infobox Série Game
+|title         = Seu Ku deu
+|image_logo    = Seu ku deu logo.png
+|caption       = Logo da série
+|genre         = RPG
+|developer     = [[Konami]]
+|publisher     = [[Konami]]
+|origin        = [[PlayStation]]
+|first_release = [[Suikoden (jogo)|Suikoden 1]] (1995)
+|last_release  = [[Genso Suikoden: Tsumugareshi Hyakunen no Toki]] (2012)
+}}
+{{vqd|...não sei o que você quis dizer.}}
+{{c|Eu sou Schtolteheim Reinbach III |Você|Você mesmo}}
+{{c|MU!|Esquilo [[M*k*m*k*]]|Suikoden}}
+{{c|O que que é Ci Fodem?!|[[Sua Mãe]]|Suikoden}}
+{{c|Boa Noite "Sudoiken"|[[William Bonner]]|Suikoden}}
+{{c|Na União Soviética, Suikoden não conhece VOCÊ !!!|Reversal Russa|Suikoden}}
+{{c|Quer se juntar a nós?|Protagonista para qualquer pessoa que ele vê por onde passa.}}
+{{c|...|Protagonista nos demais casos.}}
+
+==O que é Suikoden??==
+
+Suikoden é um jogo de RPG criado '''secretamente''' por portugueses durante a [[Guerra Fria]]. O Plano Suikoden, com ficou conhecido o projeto de criação da série, envolvia uma série de bem-pensados passos para se criar um jogo '''Secreto'''.
+
+Sua história é baseada em uma série de novelas do [[SBT]] e envolve a criação de um exército liderado por um adolescente mudo que, geralmente, possui uma pedra brilhante em uma de suas mãos. Essas pedras, conhecidas como [[True Runes]] (ainda não foi encontrada uma tradução decente desse termo), que têm o poder de governar todos os fenômenos do mundo, num total de 27 True Runes.
+
+Todos jogos são iguais, conquistar um castelo e juntar 108 pessoas especias, que ao contrário das outras simples, possuem rosto visível (somente em fotos) e usam roupas extremamente peculiares.
+
+==O Plano Suikoden==
+[[Arquivo:RonaldoPanca.jpg|right|thumb|Um dos fenômenos controlados pelas True Runes]]
+O Plano Suikoden foi formulado com o objetivo de se cumprir a difícil tarefa de se criar um jogo ''às escondidas'', sem que a mídia ou a população, ou, principalmente, que os [[Comunistas]] soubessem de sua existência. Ele envolvia uma série de metas, que envolviam desde o melhor local para seu desenvolvimento até a diminuição da inflação.
+
+Entre estas metas esta a meta criada secretamente para [[nunca]] ser completada, a de completar o jogo, completamente, uma tarefa para ser completada estritamente por aqueles indivíduos que não tem vida social e vivem a jogar.
+
+Sabe-se Hoje, que Suikoden foi desenvolvido no Estado do [[Acre]], localizado em algum lugar entre os pólos e a linha do Equador.( Especulação ).
+
+Os historiadores acreditam que o motivo para o jogo ser tão impopular e desconhecido é um reguiço de sua criação '''secreta''' durante a guerra fria. Portugal, aliado do bloco Otomano-Social-Democrático-Cristão-Judeu-Antimuçulmano-capitalista-do-reino-sagrado-de-Harmonia, não queria que seus inimigos soubessem da criação do  jogo. Por isso, ele só foi descoberto 27 anos depois de sua criação original, o que explica os gráficos "abaixo" da média.
+
+A história de Suikoden é extremamente complexa e, por isso, é mais fácil estudá-la em capítulos separados. Vale ressaltar aqui, a importância da já extinta civilização [[Sindar]].
+
+== Franquia ==
+{{compactar|
+* '''Suikoden I'''
+* '''Suikoden II'''
+* '''Suikoden III'''
+* '''Suikoden III-FES'''
+* '''Suikoden IV'''
+* '''Suikoden IV.2'''
+* '''Suikoden Tactics'''
+* '''Suikoden Tactics Advance'''
+* '''Suikoden V'''
+* '''Suikoden VI'''
+* '''Suikoden VII'''
+* '''Suikoden VIII'''
+* '''Suikoden IX'''
+* '''Suikoden XXX'''
+* '''Suikoden Card Stories'''
+* '''Suikoden Trolls'''
+* '''Suikogaiden I'''
+* '''Suikogaiden II'''
+* '''Suikogayden I'''
+* '''Suikogayden II'''
+* '''Suikoden Tierkreis'''
+* '''Suikoden vs. Lindomar'''
+* '''[[Brasil|Suikoden Brazilian Collecion]]'''
+* '''[[Acre|Suikoden Acre: The Gathering]]'''
+* '''Suikoden Hadouken'''
+* '''Suikoden Tierkreis II'''
+* '''Suikoden vs. Capcom'''
+* '''Suikoden vs. SNK'''
+* '''Suikoden ABC'''
+* '''[[CDF|Suikoden CDF]]'''
+* '''Suikoden na Vila do Cháves'''
+* '''Crônicas de Suikoden: O Urso, o Vampiro e o Caça-Níquel'''
+* '''Suikoden AF'''
+}}
+
+== Coisas de Suikoden ==
+[[Arquivo:suikoden3-heroes.jpg|left|250px|thumb|Personagens do Suikoden III: [[Hugo Chavez]], [[Todo Mundo Odeia o Chris|Chris]] e [[Godoi]].]]
+* '''Os Heróis Nômades:''' O protagonista (90% dos casos, mudo) não pode voltar para sua cidade (ou vila) até o fim do jogo porque ou o lugar foi destruído por um [[Google|Império do Mal]] ou foi conquistado pelo tal império;
+
+* '''O Amigo Xarópe:''' Todo Suikoden tem um(a) personagem irritante que é obrigado(a) a ficar no seu grupo na maior parte do tempo. Felizmente eles acabam sendo mortos na maioria das vezes;
+
+* '''O Líder Ideal:''' O protagonista sempre é escolhido para ser o líder (mesmo quando já existe reis e nobres no grupo); e é impossível recusar o poder, pois seus aliados vão ficar repetindo as mesmas coisas até você se conformar com a situação; 
+
+* '''A True Rune:''' O herói sempre acaba ganhando uma '''True Rune''' (ou meio True Rune) do desenrolar da história, seja de um amigo, em uma caverna, de um pirata ou até mesmo de um guarda-roupa;
+
+* '''O(A) Traidor(a):''' Todo Suikoden tem um traidor no [[Cú|meio]]; se ele não o trair nesse jogo, fará no próximo!
+
+* '''Os velhos conhecidos:''' Todo Suikoden (menos o Tiekreis) tem personagens que aparecem nos outros Suikodens e aparecem para ajudar mais um vagabundo a derrotar o império;
+
+* '''Último Chefão:''' Em 90% dos casos, é a encarnação de alguma True Rune que o império do mal possuía. Se não tiver True Rune, é só jogar uma arvore mutante de chefe que resolve!
+
+* '''Finais Alternativos:''' Coisas como: o n° de personagens recrutados, o n° de vezes que o herói já [[Masturbação|afogou o palhaço]], o n° de vezes que você usou o banheiro etc, podem interferir no final do jogo (não que faça sentido...);
+
+{{Suikoden}}
+{{Konami}}
+{{Game RPG}}
+
+[[Categoria:Jogos da Konami]]
+
+[[pl:Suikoden]]
+[[ja:幻想水滸伝]]
+[[th: SUIKODENG]]

@@ -1,0 +1,39 @@
+{{game}}
+{{esboço}}
+
+{{Infobox Game
+|title     = {{PAGENAME}}
+|image     = EnduroRacer.jpg
+|caption   = É saltos!
+|developer = [[Sega|CEEEGAAA!]]
+|publisher = [[Sega|CEEEGAAA!]]
+|released  = [[1986]]/[[1987]]
+|genre     = [[Corrida]]
+|rating    = 0%
+|platform  = [[Arcade]], [[Master System]], [[Virtual Console]] e mais alguns PCs não Made-in-Japan.
+|ages      = Livre
+}}
+
+{{vqd|Hang-On na diagonal}}
+
+'''Enduro Racer''' (エンデューロレーサー) foi um jogo de corrida com motos. Parece utilizar a mesma engine de [[Super Hang-On]]. Feito em [[1986]], pela [[Sega|CEEEEEEEEEEEEGAAAAAAAAAAAA!!!]]
+
+==O game==
+
+O jogador anda na motocicleta por cinco pistas no qual deve se desviar de tudo qualquer obstáculo, como pedras e árvores. Porém, é possível pular sobre os troncos. A novidade é que no gabinete da versão de [[Arcade]], ele tem um volante, no qual os gamers podem aplicar uma pressão de movimento no volante.
+
+==[[Master System]]==
+
+Foi criado em [[1987]], para o próprio console. Nessa versão, há três coisas: Uma delas é um Shop para comprar as partes que estão quebradas, a visão isométrica e mais pistas (apenas na versão japonesa). Pode se utilizar o volante do console (não distríbuido nos [[EUA]] e no [[Brasil]]) para poder jogar o game. A versão japonesa contém mais obstáculos e objetos (como pessoas).
+
+==[[Virtual Console]]==
+
+A versão de SMS saiu para o Virtual Console do [[Wii]] em [[2008]] ([[2009]] na [[Europa]]). Segundo a Cega Sorporation, também estão pretendendo colocar a versão de Arcade de Enduro Racer no Wii Virtual Console Arcade.
+
+{{Game Racing}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos lançados em 1986]]

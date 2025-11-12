@@ -1,0 +1,39 @@
+{{ampliar}}
+{{Infobox Game
+|title = Madruga From Mars
+|image               = MadrugaMarsLogo.jpg
+|caption             = O portal do [[buraco de minhoca]].
+|developer           = [[Cybergamba|Gambá das Internets]]
+|publisher           = Cybergamba
+|released            = 20??
+|genre               = [[Tiro|Pew pew pew]]
+|rating              = 10
+|platform            = [[Windows|Ruindows]]
+|ages                = <math>\,\!\infty</math>
+}}
+
+'''Madruga From Mars''' é um jogo que mostra as aventuras de [[Seu Madruga]] no espaço. Um dos jogos mais alucinantes e emocionantes dos mundos, tem rivalidade ferrenha com o [[Pinball 3D Space Cadet]].
+
+==História==
+[[Arquivo:Madruga From Mars.jpg|thumb|left|250px|O primeiro astronauta mexicano.]]
+Com a corrida espacial, surgiu a ideia de o homem viajar para fora do planeta, ampliar seus horizontes. Então resolveram mandar um homem para o espaço, e esse homem era ninguém menos que o nosso herói [[Seu Madruga]]. O jogo foi criado pela [[NASA]] nos anos 60, mais tarde surgiu o jogo que seria o seu <s>plágio</s> sucessor, [[Asteroids]].
+
+==Sinopse==
+Seu Madruga sai para visitar seus parentes em [[Marte]]. Só que ele não imaginava que iria encontrar pelo caminho uma chuva de asteróides! Agora você deve ajudar o nosso herói a enfrentar os asteróides! Para que ele possa visitar [[Macaco|seus parentes]]!
+
+Madruga From Mars é dividido em 31 fases, cada qual mais difícil que a outra, mas isso não importa, afinal jogar [[Paciência]] é muito mais interessante, você não acha?
+
+==Controles==
+*← → Vira a nave
+*↑ Acelera a nave
+*↓ Freia a nave
+*Z - Atira
+
+Bastante complicado.
+
+{{El Chavo games}}
+{{Shoot 'em up}}
+
+[[Categoria:Jogos eletrônicos]]
+[[Categoria:Jogos da Cybergamba]]
+[[Categoria:Jogos para PC]]

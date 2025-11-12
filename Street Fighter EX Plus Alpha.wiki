@@ -1,0 +1,38 @@
+{{Games}}
+
+{{Infobox Game
+|title     = Street Fighter EX Plus Alpha Zero Turbo HD 3D Remix Ultra Extreme Porra Nenhuma
+|image     = Street Fighter EX Plus Alpha cover.jpg
+|caption   = Capa do jogo
+|developer = [[Arika|Larika]]
+|publisher = [[Capcom]]
+|released  = 200?
+|genre     = [[Luta]], Porrada, Cacete
+|rating    = 020%
+|platform  = [[SNES]]
+|ages      = +13
+}}
+
+'''Street Fighter EX Plus Alpha''' é só o resultado da [[Capcom]] mantendo sua tradição de relançar qualquer título de Street Fighter seu, mesmo um spin-off. Mas este relançamento aqui é especial, porque ele não é só uma versão Plus, ou apenas um Alpha, a série EX é uma corruptela bizarra da série Street Fighter desenvolvida pela [[Arika|Larika]], empresa especializada em converter bons jogos 2D de Street Fighter para versões incrivelmente horripilantes em 3D. Na prática, todavia, o que parece é que eles fizeram meio que merda nenhuma, deixando o jogo em 2D mesmo, embora na versão lançada para [[SNES]] é possível observar os cenários de batalha com uma quase profundidade 3D, mas que é completamente ignorada quando a gente vê que os personagens estão num 2D feio pra burro inclusive.
+
+Aparentemente foi lançado em 1996, tornando-se conhecido só em 1997, pois nem o fabricante dá pra saber direito quem foi. Também parece que o jogo foi feito na [[China]] ou na [[Coréia do Sul]], já que o nome dos personagens está no original japonês.
+
+== Jogabilidade ==
+
+A jogabilidade é uma bosta. Você só pode usar DOIS botões: Y de chute e B de soco. Os botões A e Select também são usáveis, mas apenas para confirmar opções no jogo (puta merda né!). Os botões X, Start, L e R não servem pra porra nenhuma e pressioná-los não vai te fazer criar nenhum combo e não vai haver qualquer [[Konami Code]]. No fim das contas, é o típico jogo que só serve pra curiosos malucos que curtem ver uma merda sem tamanho e experimentá-la, mesmo sabendo que vai dar em uma tremenda merda.
+
+== Personagens ==
+
+Este jogo possui 16 personagens, dentre os quais a maioria são uns completos desconhecidos ou reaproveitamentos. Os personagens disponíveis são: [[Ryu]], [[Ken]], [[Chun-Li]], [[Guile]], [[Skullomania]] (QUEM?), [[Gouki]] (Akuma), [[Vega]] ([[M. Bison]] na verdade), [[Sakura]], [[Hokuto]] (QUEM²?), [[Zangief]], [[Dhalsim]], [[Doctrine Dark]] (nunca se ouviu falar), [[Pullum Purna]] (hã?), [[Cracker Jack]] (isso é Street Fighter mesmo?), [[Allen Snider]] (quem?), [[Blair Dame]] (essa não é do [[The King of Fighters|KOF]]?), [[Kairi]] (nem sei quem é) e [[Darun Mister|Evil Zangief]]. Além também daqueles velhos personagens reciclados, que são o [[Evil Ryu]], a [[Bloody Hokuto|Evil Hokuto]] e um polígono azul chamado Cycloid.
+
+O chefão pode ser ou o Akuma ou o Bisão ou o Garuda (quem?), depende da boa vontade da máquina (WTF?).
+
+{{Street Fighter}}
+
+[[Categoria:Jogos da Arika]]
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos de luta]]
+[[Categoria:Jogos lançados em 1997]]
+[[Categoria:Jogos piratas]]

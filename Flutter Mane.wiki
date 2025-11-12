@@ -1,0 +1,37 @@
+{{pokedex}}
+{{PokéBox
+| imagem = Flutter Mane.png
+| frase = Sim, pokédex, isso é totalmente um pterossauro.
+| nihongo = ハバタクカミ
+| romaji = Misdleavus
+| pokedex = 987
+| tipo1 = Ghost
+| tipo2 = Fairy
+| habilidade1 = Assustar os outros
+| habilidade3 = Ser quebrado
+| espécie = [[Pterossauro]] [[fantasma]] ([[WTF?]])
+| cadeia evolutiva = [[Arquivo:987MS.png|60px|Flutter Mane]]}}
+
+{{vqd|Fluttershy}}
+
+'''Flutter Mane''' é o nome de um pokémon (você não está enganado, isso é nome de um pokémon mesmo!) que mais se parece um nome de um pônei rejeitado [[My Little Pony: A Amizade É Mágica|daquele desenho cheio de fãs adultos "masculinos" esquisitos]], tanto que se tentar procurar por algo com esse nome no [[Google]], capaz de achar algum(a) [[fancharacter]] horrendo de quatro patas que você se arrependerá de ter visto.
+
+Essa espécie é um Misdreavus do passado que para diferenciar de sua versão mais famosa, tiveram que alterar pouco o design original (embora os [[nerd]]s que estudam a história dos pokémon irão dizer que esse na verdade é o original) e que se encontra no jogo [[Pokémon Scarlet]] no final dele, na parte que o jogador consegue entrar no [[cu|buracão]] localizado no meio do mapa e acha quinhentas aberrações temporais lá.
+==Design==
+Sobre a espécie de pokémon, Flutter Mane é apenas um Misdreavus que não mudaram nada no design, assim como vários designs da nona geração e para dizer que fez algo, assim como um [[político]], simplesmente tacaram o design original, mudaram poucas coisas e adicionaram alguns espinhos, o que indica que essa geração é onde a [[Game Freak]] realmente perdeu a criatividade para inventar novas espécies.
+
+Como não tinham nada melhor para colocar na lore desse pokémon, já que "sugar a força vital de um humano ou outro pokémon" por algum meio convencional já foi usada 840 vezes nas novas gerações, para pagar de uma espécie pré-histórica, a pokédex (ou algum cientista explorador do grupo da Sada) resolveu fumar mais que um [[Sprigatito]] e um [[Oddish]] juntos e inventar que Flutter Mane na verdade seria um [[pterossauro]] fantasma que aparece de noite.
+
+Como qualquer espécie pre-histórica, possui agressividade aumentada. Já a parte de ser um pokémon fada, nem a [[Game Freak]] e a [[The Pokémon Company|Pokémon Company]] conseguem explicar isso, já que apenas escolheram no [[cara ou coroa]] um tipo qualquer para fazer número, o que fez que essa espécie fosse uma das mais fortes do jogo.
+==No jogo==
+[[Arquivo:Flutter Mane e protagonista.png|230px|thumb|left|Protagonista do jogo antes de ser atacado por uma gangue dessa espécie.]]
+Flutter Mane, assim como seus amiguinhos pre-históricos, aparecem no final do jogo durante a quarta história principal, onde Flutter Mane tenta fazer uma cilada nas quatro crianças e raptá-las (um comportamento que iria adotar no futuro), mas a espécie é derrotada e depois essa peste cheia de espinhos aparece como um dos pokémons especiais do time da [[Professora Sada|da professora gostosa do jogo]], como um dos mais perigosos dele, sendo que metade do time dela é perigoso.
+==Usos==
+Embora essa espécie seja baseada em um Misdreavus, que é um pokémon que não faz nada no jogo até evoluir para [[Mismagius]] durante as gerações do meio e baseados nos iniciais quebrados de Let's GO Pikachu e Eevee, Scarlet e Violet resolveu dar um jeito de melhorar espécies fracas e transformar em espécies quebradas ([[Iron Thorns|e vice-versa]]) e o fantasma de espinhos foi quem conseguiu ganhar mais com isso.
+
+Com um dos tipos mais quebrados e outro tipo meia-boca, Flutter Mane conseguiu se benefeciar de sua alta velocidade para ser uma das maiores ameaças do jogo, tanto que cumpriu sua missão de botar medo nos [[Smogon|fãs de Toxapex e Landorus]], se juntando ao grupo de pokémons mais fortes do jogo, a classe Uber. Além do competitivo de 1x1, Flutter Mane é um dos principais cânceres do competitivo de duplas, se não o maior câncer da era Scarlet e Violet, sendo o pokémon mais utilizado. Ou seja, em 8 times, tenha certeza que pelo menos 5 você verá esse dinossauro fantasma.
+
+{{Poke9}}
+[[Categoria:Dinossauros]]
+[[Categoria:Fadas]]
+[[Categoria:Fantasmas]]

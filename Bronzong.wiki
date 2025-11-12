@@ -1,0 +1,34 @@
+{{mineral}}
+{{mental}}
+{{PokéBox
+| imagem = Bronzong.png
+| frase = Olha ae o Bronzong querendo te dar um abraço de urso!
+| tamanho = 200
+| tipo1 = Steel
+| tipo2 = Psychic
+| pokedex = 437
+| nihongo = ドータクン
+| romaji = Dohtakun
+| espécie = Sino de bronze que não é bronzeado
+| cadeia evolutiva = [[Arquivo:BronzorSprite.gif|link=Bronzor|Bronzor]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:BronzongSprite.gif|link=Bronzong|Bronzong]]
+}}
+{{c|Ah agora melhorou!|Treinador de Pokémon|seu Bronzor evoluir}}
+{{c|Continua uma bosta|Eu|citação acima}}
+{{c|E continua não sendo bronzeado, repito, vá para a praia e pegue uma corzinha antes de vir falar que é bronzeado!|Oscar Wilde respondendo a citação acima}}
+
+'''Bronzong''' supostamente era pra ser um pokémon baseado num [[sino]] de [[bronze]] [[budista]] [[japonês]], mas que não é de bronze nem aqui nem na [[China]]. No máximo prateado, mas o Bronzong é [[azul]] ([[verde]] segundo os japoneses).
+
+== Características ==
+Bronzong tecnicamente é um sino, mas ele não gosta que toquem ele. Tente tocar um Bronzong como se estivesse tocando um sino normal, e ele te dará um abraço de urso com seus braços metálicos; E acretide, receber abraço de urso do Bronzong não será nem um pouco legal.
+
+Pelo menos agora Bronzong possui um ataque decente apesar de continuar sendo melhor pra aguentar o tranco na cama do que pra comer.
+
+== Habilidades especiais ==
+Bronzong pode ter 2 habilidades especiais que podem ajudar muito a seu favor:
+*'''Levitar'''; técnica aprendida com os [[monges budistas hippies que plantam maconha para subsistência]], esta técnica permite que o Bronzong seja imune a terremotos, desastres de terra ou simplesmente seja imune a um engraçadinho jogar lama nele.
+*'''Prova de fogo'''; técnica aprendida com as [[freiras cegas ninjas tocadoras de piano de Acapulco]], esta técnica permite ao Bronzong resistir ao fogo. O que lhe permite resistir à queimaduras, magma quente ou a [[Filho da puta|filhos da puta]] atirando bombinhas neles.
+
+== Curiosidades ==
+*Os olhos vermelhos de Bronzong são devido ao uso contínuo de maconha que Bronzor usava quando ainda não era evoluído para meditar enquanto não evoluía.
+
+{{poke4}}

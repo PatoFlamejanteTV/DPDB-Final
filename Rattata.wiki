@@ -1,0 +1,67 @@
+{{pokedex}}
+
+{{PokéBox
+| imagem = 019Rattata.png
+| frase = Rattata, lorde dos pokémons normais e fracotes
+| tamanho = 200
+| pokedex = 019
+| nihongo = コラッタ
+| romaji =  Koratta
+| tipo1 = Normal
+| tipo2 = 
+| habilidade1 = Roer a roupa do rei de [[Roma]]
+| habilidade3 = Encher seu saco desde a primeira cidade do jogo
+| espécie = Parente do [[Mickey Mouse]]
+| cadeia evolutiva = [[Arquivo:RattataSprite.gif|link=Rattata|Rattata]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:RaticateSprite.gif|link=Raticate|Raticate]]<br>
+[[Arquivo:AlolanRattataSprite.gif|100px|Alolan Rattata]] {{seta}} [[Arquivo:AlolanRaticateSprite.gif|link=Raticate|Alolan Raticate]]
+}}
+{{c|"Ratatatá mas o metrô vai passar..."|Mano Brown|Rattata}}
+{{c|Vai lá Rattata, dá uma dentada!|Treinador|Rattata}}
+{{c|Ai meu Deus, caiu de novo!|Esse mesmo treinador depois de um minuto de luta}}
+{{C|Rattatas são deliciosos no jantar, no almoço, no café da manhã, na sobremesa... eu sou um gato tá esperando o quê|Meowth|Rattata}}
+{{c|Concordo com o Meowth|Furret|Rattata}}
+{{C|Também concordo com o Meowth|Arbok}}
+{{c|Adoro Rattatas no jantar|Noctowl|Ratatta}}
+{{c|"Rattata é bicho solto!"|Chorão|Rattata}}
+{{c|Rástala, investida|Josué Yrión|Rattata}}
+
+[[Arquivo:RattataSprite.gif|left]]'''Rattata''' é o [[pokémon]] #019 da primeira geração. Um [[rato]] completamente inútil, mas que já quebrou muito galho para [[noob]]s. Frustante e chato pra caralho por ser um dos pokémons com maior índice de super população, logo encontrar ele é uma tarefa que até {{USERNAME}} consegue, capturar mais ainda. Algumas pessoas que não tem nada o que fazer, lotam seu box de Rattatas só pra dizer que já completou a pokédex quando na verdade é um [[noob]].
+
+==Características==
+
+[[Arquivo:Rattata.jpg|right|thumb|Rattata rima com batata.]]
+
+Rattata é um pokémon normal, em todos os sentidos. Além de pertencer a esse tipo, é tão normal que aparece em praticamente qualquer matagal do [[mundo]], principalmente perto das <s>favelas</s> [[cidade]]s iniciais dos heróis dos jogos. Pelo fato de ser tão comum, é possível fazer criações de Rattata para diversos fins, como por exemplo para alimentação humana para [[chineses]], que adoram comer ratos em quaisquer sentidos, assim como qualquer outro bicho que passar perto, além de seus bigodes serem aproveitados como palitos de dente, isso sem contar que leite de rato é um dos famosos ingredientes do [[Mupy]], a bebida sagrada dos [[otaku]]s. Portanto é um pokémon adorado por diversas entidades, apesar da facilidade em se achar um exemplar.
+
+Como já foi dito, encontrar um Rattata é um das tarefas mais fáceis para um treinador, sendo um pré-requisito para este aprender as regras mais básicas do mundo Pokémon. Se [[você]] mesmo assim for [[idiota]] o suficiente para não conseguir um Rattata sem ajuda, é melhor ler este negócio. Basta sair de sua cidadezinha natal, que normalmente se resume à sua casa e ao laboratório de um professor, e entrar no primeiro matinho que aparecer, onde fatalmente surgirá um Rattata, quando não aparecer um [[Pidgey]], que também é coisa de noob. E para pegar o Rattata, é só usar o seu pokémon inicial e ficar usando Tackle até o Rattata ficar fraco e então tacar a pokébola. Simples né? Mas não vá se emplogar e matar o Rattata de porrada, porque um pokémon morto é ainda mais inútil. Depois disso, [[correr pra caralho|corra]] para um Centro Pokémon e então seu Rattata estará pronto para <s>apanhar mais vezes</s> novas aventuras ao lado de seu novo treinador. E isso pareceu coisa do [[Narrador da Sessão da Tarde]].
+
+A principal função de um Rattata é entrar na frente dos outros pokémons do grupo e tomar as porradas até o pokémon inicial assumir a luta, derrotar o que restou do oponente e ficar com todos os créditos. Inevitavelmente o Rattata permanecerá com seu querido treinador até este catar um pokémon mais forte ou raro, normalmente as duas coisas. Alguns resistem no grupo até chegarem a evoluir para [[Raticate]], que é só um Rattata crescido, e se o treinador <s>não</s> for doido o bastante, certamente o despachará para uma pokebox depois disso, afinal Rattata e Raticate já estarão na pokedex e terão cumprido a sua tarefa.
+
+==Curiosidades==
+[[Arquivo:Rattata2.png|left|150px|thumb|E além disso, Rattata é também muito admirado por [[Furry|furries]] e [[Gay|outras pessoas]] que gostam de criaturas fofinhas e [[kawaii]].]]
+Você sabia que...
+
+*Rattata é adorado por furries, chineses, otakus e noobs?
+
+*É o único pokémon comum a ser tão admirado?
+
+*Só não é admirado por aqueles que desejam derrotar a Elite dos Quatro?
+
+*O Rattata é um pokémon tão fraco, mas tão fraco, que se lutar com outro Rattata, os dois perdem.
+
+*Meowths comem Ratattas (no sentido alimenticio seu doente)
+
+== Ver também ==
+
+[[Raticate]]
+
+[[Pidgey]]
+
+[[Caterpie]]
+
+{{poke1}}
+
+[[Categoria:Trevas]]
+[[Categoria:Dentuços]]
+[[Categoria:Ratos]]
+[[es:Rattata]]

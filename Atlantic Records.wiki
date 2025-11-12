@@ -1,0 +1,34 @@
+
+
+{{DISPLAYTITLE:Editando Atlantic Records}}
+{{MediaWiki:Newarticletext}}
+
+[[Arquivo:Atlanticrecordswan.png|link="Weird Al" Yankovic]]
+
+{| 
+| colspan=2 style="font-weight:bold" | <span style="color:red;font-size: 110%">Por favor, leia o <b>[[Desciclopédia:Antigo Guia dos Iniciantes para ser um Desciclopediano|guia dos iniciantes]]</b> e <b>[[Desciclopédia:Como ser engraçado e não apenas idiota|como ser engraçado e não apenas idiota]]</b>. </span> Você concorda em editar sob a licença Attribution-Noncommercial-Share Alike 2.5.
+|}
+{| id="copyright"  style="width: 100%; background-color:#fff; border: 2px solid #ff0000; white-space: wrap; align:center; padding: 5px;" class="noprint"
+|Por favor tenha a certeza de que não viola nenhum '''[[Project:Direitos de autor|direito de autor]]'''.
+----
+<div style="font-weight: bold; font-size: 110%;">Mais informações sobre direitos de autor:</div>
+* Tenha em consideração que todas as contribuições para o projeto {{SITENAME}} podem ser editadas, alteradas ou removidas por outros contribuidores. Todas as edições são lançadas sob a licença [[Creative Commons]]. '''Não tente patrulhar suas edições!'''
+* Caso não deseje que as suas contribuições sejam editadas, alteradas e redistribuídas por outros, não as submeta. Elas devem ser de sua autoria, ou copiadas de fontes de domínio público ou similares (veja mais detalhes em [[Desciclopédia:Direitos de autor]]).
+* Apenas recursos em [[domínio público]] podem ser copiados na íntegra — isso não inclui a maioria das [[Website|páginas web]].<br><strong>NÃO ENVIE MATERIAL COM DIREITOS DE AUTOR SEM PERMISSÃO!</strong>
+|}
+[[Arquivo:Resumo da edição.png|left|link="Weird Al" Yankovic]]
+----
+<h3>Algumas dicas antes de você editar</h3>
+
+#Leia o [[Ajuda:Tutorial Básico de html e wiki|tutorial para iniciantes]]
+#Sempre siga [[Desciclopédia:10 Mandamentos da Desciclopédia|os 10 mandamentos da Desciclopédia]]
+#Mantenha a coerência com os artigos relacionados a este aqui;
+#Lembre-se que estamos em {{CURRENTYEAR}}, não em {{Aleatória/Número||{{#timel:Y|+1 year}}|9999}}
+#'''Evite''' criar [[Desciclopédia:Humor privado|humor privado]]. Nada de zoar o seu coleguinha ou aquele [[miguxo]] do [[orkut]], ninguém vai entender a piada mesmo!
+#Evite usar nomes e termos já desgastados... [[Chuck Norris]], [[Capitão Nascimento]], [[Padre Quevedo]] e [[emo]]s podem estragar um artigo
+<span id="specialchars"></span>
+
+[[Categoria:Gravadoras]]
+[[Categoria:Empresas dos Estados Unidos]]
+
+[[en:Atlantic Records]]

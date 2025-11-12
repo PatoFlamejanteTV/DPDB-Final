@@ -1,0 +1,29 @@
+
+{{Você quis dizer|<choose><option>[[Mega Drive]] de [[pobre]]</option><option>[[Sega]] [[Windows]]</option></choose>}}
+{{C|Na União Soviética, o {{PAGENAME}} joga um jogo do <choose><option>Mega Drive</option><option>Master System</option><option>Sega CD</option></choose> em '''[[Você|VOCÊ]]'''!!!|[[Reversal Russa]]|{{PAGENAME}}}}
+{{C|Por favor, doem dinheiro para eu pagar minhas contas, e continuarei a fazer coisas legais...|Steve Snake, criador do {{PAGENAME}} tentando roubar seu dinheiro}}
+{{C|O {{PAGENAME}} inovou os jogos do Windows!|[[Bill Gates]]|{{PAGENAME}}}}
+{{C|<s>[[Telefônica]]</s> {{PAGENAME}}, o herói do seu bolso.|Comercial do {{PAGENAME}}}}
+{{C|Inda bêim qui inventáru eçi emuladôr, num tenhu dinheru pá comprá um [[Master System|Mázti Çístêim]].|Pobre|{{PAGENAME}}}}
+'''{{PAGENAME}}''', ou '''Caga Fusão''', é nada mais nada menos que um emulador <s>fajuta</s> de Mega Drive, Master System, [[Sega CD]], [[Game Gear]], Sega 32X, etc..., que pode ser rodado em [[Windows|Ruindows]], [[Linux]] e em [[Macintosh|computadores de playboys]]. Criado pelo Steve Cobra, o emulador é famoso por rodar muitos jogos de consoles dos anos 80 e 90 da [[SEGA]] que praticamente estão mofando na prateleira do mercado ou na gaveta do seu armário. É considerado o Mega Drive dos [[pobre]]s (já que o console original é muito caro), pode ser obtido via [[download]] para poder jogar vários jogos sem gastar um [[Dinheiro|tustão]] (Se é usado por pobres, por que estes têm um [[computador]]?). Seus jogos podem ser encontrados pela [[internet]], mas cuidado! Eles são [[cópia]]s ilegais dos [[cartucho]]s e colocados em sites de compartilhamento, então não reclame se você for pego pelos [[Polícia|tiras]] por baixar esses jogos. É um ano de prisão, hein? De preferência, instale o Kega num [[notebook]], para caso você seja preso por este motivo possa levá-lo para jogar na sua jaula, mas tome cuidado com os parceiros, pirincipalmente se forem presos por roubo e/ou fanáticos por [[Sonic the Hedgehog|Sonic]]. O emulador é uma bosta, mas o Gens, outro emulador, perto do Kega não passa de [[lixo]].
+
+== Como surgiu ==
+[[Arquivo:SEGA-GJ.jpg|left|thumb|200px|Steve antes de começar o Kega.]]
+Como já dito, quem criou foi '''Steve Snake''' (ou ''Steve Cobra''). Cansado de quebrar o joystick apertando os botões como se estivesse dando marretadas e de ficar levando o [[Video Game]] (um Mega Drive, pra ser mais exato) pro conserto frequentemente, queimado várias vezes de tanto tempo que o dono o deixa ligado, Steve perdeu a cabeça. Para sua felicidade, ganha um [[Windows 95]] lixado de seu [[tio]]. Foi aí que teve a ideia de criar um emulador que rode seus joguinhos preferidos, e mais alguns. Passou dias e noites trabalhando em seu projeto, sem comer e sem dormir (por isso perdeu tantos quilos e ganhou um bom físico), Até que criou a primeira versão do emulador, ''0.1 Beta''. Conseguiu converter o jogo do [[Shinobi]] em arquivo de formato .SMD para jogar no PC. O jogo falhava quase sempre, foi aí que Steve chamou a ajuda dos [[nerd]]s Nitsuja e Maxin Stepim para fazer melhorias. O estranho é que o Kega pulou da versão 0.3 Beta pra versão 3.0 final! como é que pode? Eles são tão burros que trocaram os números de lugar, fazendo com que muitos otários pensem que a versão beta é a final. Devido ao comécio de jogos ilegais, Os três receberam multas de 5 mil dólares, por isso que eles pedem que você doe dinheiro no site oficial deles.
+
+== Versões ==
+=== KGen ===
+O emulador, conhecido como '''Caguei''' no Brasil, só rodava Genesis e nem musiquinha tocava. A versão 98 passou a tocar, mas deixava o Windows mais lento do que já era, sendo ele o causador de muitas telas azuis da morte. Já a versão X, só porque era a melhor, Não foi lançada. Povinho egoísta, hein?
+
+=== Kega ===
+Esse começou a rodar Master System e Sega CD, mas precisava da porcaria das BIOS, que irritam qualquer um.
+
+=== Kega Lazarus ===
+Conhecido no Brasil como '''Caga, [[Lazarento]]''' foi a renovação <s>que nem parece que foi renovada</s> do Kega, que enganou vários dizendo que rodava Sega 32X, esse Steve é mesmo um pinóquio, hein?
+===Kega Fusion ===
+A versão que conhecemos hoje.
+*'''2005''': Numa tentativa desesperada de recuperar os usuários, finalmente passou a rodar sega 32X, e esta versão fodia o computador todo com a tal da "Aceleração de Hardware", ou seja, puxava toda a memória do PC, que causava mais telas da morte.
+*'''2007''': Tem som mais potente e agora dá pra fazer um "putz putz" em casa. Pensando em quem ama aquela partezinha <s>ridícula</s> do jogo, passou a ser possível gravar certa parte da jogatina.
+*'''2008''': [[Porra nenhuma]] mudou, só passou a ser possível usá-lo em Linux e [[Mac OS]].
+
+{{sega}}

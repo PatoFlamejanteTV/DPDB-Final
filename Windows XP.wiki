@@ -1,0 +1,159 @@
+{{Logotipo falso|Winlogo3.gif}} 
+{{clipe|Para mais ajuda com seus programas de Microsoft Office, [[foda-se|clique aqui]]}}
+{{Microsoft}}
+{{fato|o Windows XP Starter Edition tem menos funções e mais limitações do que o Windows 95?}}
+
+''Aviso: A Microsoft informa: para sua própria segurança é altamente recomendável que você visualize este artigo com o [[Microsoft Internet Explorer]] 6.0.666 service pack 6.''
+----
+[[Arquivo:Eu já coloquei o CD, por que não quer instalar.jpg|thumb|right|Para instalar o Windows XP, você vai precisar de uma unidade de CD.]]
+[[Arquivo:Erro01b.jpg|thumb|exemplo de uma tela do Windows XP]]
+
+{{C|EU SEMPRE QUIS TER UM PROGRAMA ASSIM... *tela azul da morte*|Zeca Pimenteira|Windows XP}}
+{{C|Pane no sistema alguém me desconfigurou|Pitty|Microsoft Windows XP}}
+{{C|Foi o sistema mais próximo do Linux que a gente já fez!|Bill Gates|Microsoft Windows XP}}
+{{C|O Windows encontrou um problema e precisa ser fechado.|Relatório de Erros|Windows XP}}
+{{C|DINOVO NÂÂÂÂOOOO|pessoa comum sobre Tela Azul da Morte}}
+{{C|Eu já sei|Microsoft sobre Relatório de erro do Windows XP}}
+{{C|Não enviar|Você sobre relatório de erro do Windows XP}}
+{{C|O dispositivo teve um mal funcionamento e o Windows não reconhece...|Windows XP sobre qualquer dispositivo que você conecte ao PC mais e desconhecido}}
+
+[[Arquivo:Restart.JPG|thumb|right|240px|Exemplo de tela do Microsoft Windows XP]]
+
+'''Microsoft Windows XP''' também conhecido como '''Windows CU''' ou Xispê, é um sistema operacional estável e o melhor sistema operacional até o momento, sendo muito superior ao [[Windows 7]], [[Windows 8]] e [[Windows Vista]] de acordo com a maioria dos idiotas, é muito usado por [[noob]]s que não entendem que a maioria dos jogos como o [[Colheita Feliz]] não rodam no [[Windows Vista]], o seu sucessor.
+
+==Introdução==
+
+A sigla XP (em inglês pronuncia-se "Équiz-Pí"), na '''verdade é um [[emoticon]]''', representando a cara do [[usuário]] cada vez que acontece um erro no Windows XP. Especula-se que o significado da sigla seja '''XuruPita''','''eXtremamente Patético''', '''XooPa''', '''eXtra Piorado''', '''XisPita''', '''eXPloer''', '''eXtremePog''', '''X-Pírita''', '''X-Pirituba''', '''X-Presunto''', ou até mesmo '''Xuxa Park'''.
+
+Foi lançado em [[2001]] para substituir o [[Microsoft Windows 2000]].
+
+Com essa nova versão, a tela azul foi substituída por janelas que mandam o erro para a Microsoft, para eles contarem quantos trouxas tem no mundo.
+
+O Windows XP surgiu enquanto [[Bill Gates]] estava assistindo [[Xuxa Park]] e aí um incêndio abalou o programa. Foi aí que ele teve a brilhante ideia de usar as iniciais do programa da [[Xuxa]] para o próximo produto da [[Microsoft]].
+
+[[Arquivo:Winoriginal.png|center|Mensagem que aparece logo após de instalar o Windows a partir de um CD original que você acabou de comprar faz 2 horas na loja de informática!]]
+{{C|...grande bosta. Funciona do mesmo jeito!|Você|a mensagem acima}}
+{{C|Putz... Tá demorando um bocado para desligar... Bosta!|Você, horas depois na hora de desligar o computador}}
+
+==História==
+
+No ano de 1967 [[Bill Gates]] já pretendia homenagear a [[Xuxa]], mas foi muito criticado. Porém no ano de [[1998]] D.C. ele pôde finalmente homenageá-la, com o '''Windows Linguinha''', que só seria lançado alguns anos depois com o nome que todos conhecemos: '''XP''' (Xuxa Park).
+
+Porém, há controvérsia a respeito dessa "linda" homenagem. Muitos acreditam que a sigla XP seria, na verdade, uma ofensa ao passado da querida "Rainha dos Baixinhos": afirmam que XP vem de "Xuxa Puta", "Xuxa Piranha", "Xuxa Punheteira" ou qualquer coisa que sua imaginação permita. 
+Esta hipótese não pôde ser comprovada devido à falta de provas, estas destruídas pela própria "Rainha".
+
+===Pacto com o [[Diabo|Winnux]]===
+Foi muito divulgado na [[Internet]] que [[Bill Gates]] teria um pacto com o [[Satã]] e que ele é um jogador assíduo de [[RPG]]. Para quem não conhece, no [[RPG]] existe algo chamado '''Experiência''' que, à medida em que o jogador consegue mais pontos, mais avançado (poderoso, "fodão", etc) ele fica no jogo. O que poucos sabem é que essa tal '''Experiência''' é também chamada de '''XP'''. Ou seja, o '''Windows XP''' nada mais é que uma referência às sessões de [[RPG]] e [[cheiramento de gatinhos|Sacrifício de Animais]] de [[Bill Gates]]
+
+*No '''Windows XP''' Abra o [[Microsoft Word]] e digite: 666. "Surpreendentemente", o [[666|número da besta]] aparecerá na tela!
+
+==A Verdadeira Historia ==
+
+Na verdade, o Windows XP é apenas uma atualizaçao do Win 98: quando é um erro bem "fudido" mesmo, o "tema" azul do windows XP desaparece e, em vez dele, qual aparece??? Isto significa que o Win XP foi desenvolvido em cima do '''98'''. Ele usa até o kernel32.dll do Windows NT!!!
+Dentro da pasta system32 - é recomendado que você só faça isso se o seu '''PC''' estiver no "leito de morte" - exclua o arquivo msstyle. dll e você verá sua face verdadeira.
+Isso quer dizer que o Win XP é como se fosse um '''"Service Pack 5 do Win 98"''', usando um novo tema e um kernel32.dll do '''NT'''. E tem um papel de parede irado!
+
+== A Microsoft vai dominar o Mundo! ==
+
+Com o Lançamento do Windows XP ("o que é uma vergonha"), a Micrcrosoft inmplementou um arquivo de música que, após de escutado, "formata" seu cérebro. Esse arquivo de música produz frequências sonoras que impõe à você a vontade de instalar o Windows em todos os computadores e o induz à comprar os produtos da Microsoft, como o <s>lixo</s> console XBOX. Se você possui o Windows XP e por curiosidade gostaria de ouvir essa música, o que seria burrice, você pode fazer o seguinte:
+[[Arquivo:Hammerzt0.jpg|thumb|left|200px|Novo Service Pack do Windows XP feito diretamente pela Microsoft.]]
+No seu computador, clique em "Iniciar" e selecione "Executar". Na caixa de diálogo, copie e cole o link abaixo:
+
+C:\WINDOWS\system32\oobe\images\title.wma
+
+Esse arquivo de música é reproduzido durante a instalação o Windows, no qual faz você se tornar dependente do Windows e o faz terminar a instalação, sem nenhum raciocínio!                              
+
+===Violação de Privacidade===
+[[Arquivo:Errors.png|thumb|right|Outro exemplo de tela do RuinDOS XP]]
+Todos sabem que toda a informação colocada no RuinDOS XP é enviada para a microsoft. Senhas de banco, fotos da sua namorada, aquele texto emo que você escreveu a noite quando não conseguiu se matar com um prestorbara rosa com fitinha humidecente...
+
+Por muitos anos a microsoft negou veemente, dizendo que não possuía nenhuma ferramente capaz de copiar ou burlar a segurança do Windows, e que ninguém, jamais irá o fazer e que, se o fizesse a Microsoft iria lhe enviar uma carta dizendo o quão zangados eles estão.
+
+Após anos de estudo, Linus Trovalds descobriu uma ferramenta instalada no Winlux capaz de capturar informações confidenciais e enviá-las para a microsoft (sob desculpa esfarrapada de erro).
+
+Para visualizar a ferramenta, você deve pressionar a tecla com logotipo de satã (ou a do windows, também serve) + a telca "r" (simultâneamente). Na tela que aparecer você deve digitar calc. Surpreendentemente a calculadora o windows aparecerá, você deve alternar para o modo 'científica' mudar para Binário.
+
+===Fatos sobre o "Ruindows XP"===
+[[arquivo:wintab.png|thumb|280px|Windows XP se tivesse [[Windows Aero|flip 3D]] (iria travar no primeiro segundo)]]
+"No filme Independence Day não foi vírus que os
+americanos colocaram no computador da "Nave-Mãe":
+eles instalaram o Windows XP!";
+[[Arquivo:Antivirus rhatazana.jpg|225px|miniaturadaimagem|Atenção: o Rhatazana Antivírus não tem mais suporte ao Windows XP]]
+
+"O Windows XP foi lançado em 2001, mesmo ano em que o Xuxa Park pegou fogo!";
+
+"O Casco do Titanic foi projetado pelo Windows XP";
+
+"Windows é igual a rodízio de carros. Quando você
+começa a entender, vem alguém e muda tudo de novo.";
+
+"Windows XP : Se o seu não dá problema, é porque você não
+sabe usar.";
+
+"O Windows XP é o maior e mais mal feito vírus
+conhecido";
+
+"Se o seu Windows não der problema, reclame com a
+Micro$oft!";
+
+"Windows 95 é como irmão mais novo: tá sempre
+enchendo o saco.";
+
+"O Windows não é ruim: esperem só ele ficar pronto.";
+
+"Windows XP: agora para Mega Drive e Nintendo";
+
+"Se Bill Gates é um Deus, o Windows deve ser a praga
+divina.";
+
+"O "Williams" do Rubinho Barrichelo foi projetado no
+Windows.";
+
+"O alicerce da Torre de Pizza foi calculado no
+Windows.";
+
+"O xampu contra calvície do Enéas foi
+feito no Windows.";
+
+"Norton AntiVirus - TRJ/Windows.XP found: Remove it?(YES/YES)";
+
+"Qual a diferença entre o vírus e o Windows XP?
+O vírus funciona...";
+
+"Chernobyl usava Windows para monitorar seus
+reatores.";
+
+"O Windows XP é baseado no Kernel do Windows NT, que é por acaso extremamente estavel e leve, porem, como as pessoas não gostam de sistemas operacionais que funcionam, o Windows XP vem com um emulador de Windows 95 integrado que não pode ser desabilitado".;
+
+"O teclado de que você precisa para usar o Windows só dispõe de 3 teclas. São elas "Ctrl, Alt e Del.";
+
+"O Windows é que nem merda: sai um toda semana.";
+
+"O carro da Hispania F1 Racing foi projetado no '''Windows XP'''";
+
+"No filme do Exterminador do Futuro, as máquinas se revoltaram contra os humanos porque a '''Skynet''' utilizava Windows XP.
+
+==Ver também==
+
+*[[Highway Blues]], o tema do Windows XP
+
+
+{{Windows}}
+
+[[bar:Windows XP]]
+[[de:Windows XP]]
+[[en:Windows XP]]
+[[es:Windows xD]]
+[[fi:Windows XP]]
+[[fr:Windows XP]]
+[[id:Windows XP]]
+[[it:Windows XP]]
+[[ja:Windows XP]]
+[[nds:Windows XP]]
+[[nl:Windows XP]]
+[[no:Windows XP]]
+[[pl:Microsoft Windows XP]]
+[[ru:Windows XP]]
+[[uk:Necrosoft Windows XP]]
+[[zh:晕到死插屁]]
+[[zh-tw:暈到死插屁]]

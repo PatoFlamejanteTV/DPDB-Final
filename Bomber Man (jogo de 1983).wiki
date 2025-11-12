@@ -1,0 +1,67 @@
+{{Explosivo}}
+{{Game}}
+
+{{Infobox Game
+|title     = Bomberman da Idade da Pedra
+|image     = Bomber Man PC8801 cover.png
+|caption   = Capas do jogo
+|developer = [[Hudson Soft]]
+|publisher = [[Hudson Soft]]
+|released  = [[1983]]
+|genre     = [[Estratégia]], [[Labirinto]], [[Terrorismo]]
+|platform  = [[MSX]], [[PC-8801]], [[PC-6001mkII]], [[MZ-700]], [[MZ-2000]], [[FM-7]], [[ZX Spectrum]]
+|rating    = Uma experiência extremamente enfadonha
+|ages      = Livre
+}}
+
+'''Bomberman''', que nessa época pré-histórica era escrito como '''Bomber Man''', foi o primeiro jogo a ser lançado da franquia de games de apologia ao [[terrorismo]] do [[Bomberman]]. E se você acha que são só os brasileiros que criam traduções ridículas para títulos de filmes, saiba que na Europa eles chamaram esse jogo de '''Eric and the Floaters'''.
+
+Inicialmente esse jogo foi lançado para o [[MSX]], uma linha de microcomputadores cujos primeiros relatos da existência remontam ao ano de 6500 A.C. Mas depois também foi lançado para [[ZX Spectrum]], [[PC-8801]], entre outros aparelhos que remontam a [[Idade da Pedra]].
+
+== Desenvolvimento ==
+
+Ninguém sabe ao certo quem foram os desenvolvedores desse jogo, já que os primeiros vestígios sobre sua possível origem remontam a [[Suméria|civilização suméria]]. A hipótese mais aceita pelos historiadores é a de que esse jogo teria sido idealizado por um dos primeiros ancestrais de [[Osama Bin Laden]]. Como naquela época não existia muita coisa de interessante para as crianças fazerem, elas tinham o péssimo costume de vandalizar as plantações de alho e cevada do período, o que prejudicava a agricultura local. 
+
+Para que seus filhos sossegassem o facho em casa e parassem de se comportar como pragas piores que gafanhotos, um grupo de pessoas lideradas por esse homem, que provavelmente tinha sérias tendências piromaníacas e psicóticas, acabou dando origem ao game. No princípio aquilo parecia ter dado muito certo, pois as crianças sumérias tinham parado de destruir as plantações locais e começaram a ficar a maior parte de seu tempo trancafiadas dentro de casa. Porém, a longo prazo aquilo configurou-se num verdadeiro problema. Quanto mais tempo as crianças ficavam na frente daquele jogo do [[Diabo]], mais sedentárias elas se tornavam, e para uma nação cuja caça é uma das principais formas de conseguir alimento, aquilo era inviável. 
+
+Dessa forma, os líderes políticos acabaram por banir aquele jogo de todo o território sumério, e como punição por ele ter dado vida aquele artefato de caos e desordem, o criador de Bomberman e seus colaboradores foram todos expulsos da comunidade, e acabaram se instalando na região que hoje é conhecida como [[Arábia Saudita]]. Posteriormente, eles fundaram ali a primeira organização terrorista da história.
+
+Por eras, Bomberman se tornou o principal objeto de adoração daquele estranho culto (que fora batizado de "Al Qaeda"). Como forma de vingança por terem sido expulsos da Suméria, vários ataques foram organizados contra a nação, tradição essa que fora passada de geração em geração pelo grupo de terroristas. Porém, conforme a crença em Alá ia crescendo, essa tradição foi se perdendo, e o culto terrorista acabou se dissolvendo nas brechas do tempo. 
+
+Milênios depois os descendentes desses primeiros terroristas acabaram encontrando vestígios e pergaminhos acerca da existência desse primeiro culto, incluindo um protótipo daquele estranho artefato conhecido como "Bomberman". Para resgatar as crenças de seus ancestrais, essas pessoas decidiram reviver o culto da "Al Qaeda", e com a ajuda dos escritos deixados pelos seus antepassados, relançaram Bomberman no mercado no ano de 1983. Bomberman passou a ser considerado um dos principais símbolos do terrorismo mundial, e seu sucesso foi tão grande entre os pirralhos modernos  que acabou gerando inúmeras sequências, adaptações e spin-offs, todas elas muito adoradas por todo tipo de desocupado, mesmo pelos não-terroristas.
+
+[[Arquivo:Bomberman MSX.jpg|thumb|left|Gráficos de última geração, avançado sistema de áudio, história complexa, diversidade de inimigos e variedade de cenários são as principais características de ''Bomberman''.]]
+
+Existem mais de 100 fases nessa porcaria de jogo, porém, todas elas na verdade são o mesmo cenário sempre, mudando apenas a disposição das formas geométricas do Tetris espalhadas pelo mesmo. De maneira geral, a monotonia das mesmas transforma o jogo em uma experiência tremendamente tediosa e chata. Poucas pessoas conseguiram chegar ao final do jogo, mas não por conta da dificuldade, e sim porque quase ninguém tem saco para ficar mais de uma hora fazendo a santa mesma coisa, no santo mesmo lugar, com os santos mesmos elementos nada interessantes ou interativos (embora por algum motivo isso acabou dando certo para [[Assassin's Creed]] anos mais tarde).
+
+Um outro detalhe sobre o cenário é que ele é sempre preto e vermelho, salvo as três cores do protagonista e o rosa dos inimigos. Essa [[ironia|avançada]] disposição de cores faz você se sentir numa daquelas Creepypastas podres que volta e meia viralizam na [[Internet]]. Isso levanta a hipótese de que o protagonista provavelmente morreu de [[cirrose]] ou [[overdose]] durante a rave em sua casa, sendo que o labirinto do jogo se passa na verdade em alguma região inóspita do [[Inferno]].
+
+Por fim, temos a trilha sonora, que consiste basicamente em cenários sem música e alguns efeitos de chiado, que podem variar de leve a intenso quando os inimigos morrem ou as bombas explodem. Quando aparece a pontuação das fases também é possível ouvir um ruído estranho, muito semelhante a quando você bate com um objeto no fundo de uma garrafa plástica cheia de água. Tem também o barulhinho que é produzido quando o protagonista caminha, que mais parece o timer de uma bomba relógio preste a explodir. Isso é fruto da utilização de [[piada|uma moderna técnica sonora para videogames]], que tenta reproduzir a realidade da maneira mais fiel possível.
+
+== Jogabilidade ==
+
+[[Arquivo:Fazendeiro.jpg|thumb|[[Old MacDonald Had a Farm|Velho MacDonald]], protagonista e único personagem do game, além do balão rosa satânico que o persegue.]]
+
+Basicamente, você controla um fazendeiro terrorista perdido num labirinto que fica explodindo uns quadrados vermelhos compostos por algumas fileiras de pequenos retângulos (que seriam blocos representando mal e porcamente algo próximo de uma parede de tijolos). Esses blocos são encontrados agrupados em cada cenário de maneira diferente, e na maioria das vezes formam aglomerados de blocos maiores que lembram as formas geométricas de [[Tetris]]. Acredita-se que isso tenha sido proposital: como o criador de Bomberman nunca conseguiu jogar [[Tetris]] direito devido a sua capacidade intelectual subdesenvolvida, ele decidiu manifestar todo seu ódio e rancor explodindo figuras que de alguma forma remetiam ao jogo que tanto odiava. 
+
+Referente ao personagem principal: como o incompetente foi parar naquele labirinto, ninguém sabe. O mais provável é que ele tenha dado uma rave em sua fazenda, e durante a festa, encheu a cara de álcool e LSD. Doidão de ácido, pra lá de Bagdá e sem qualquer noção de tempo e espaço, ele acabou se deslocando até aquele conjunto lisérgico de blocos, e a partir de então passou a buscar desesperadamente por uma saída daquele fim de mundo.
+
+A principal arma de ataque que você deve usar contra os inimigos são as tão queridas e adoradas bombas. Basicamente, essas bombas são azuis e tem o formato de um figo anormal. Quando as mesmas explodem, se forma na área da explosão um precário crucifixo branco com uns pontos pretos no meio, que você não sabe identificar se é um efeito especial do próprio jogo ou se é alguma zona de bug ou perda de dados do mesmo. 
+
+Diferentemente de muitos games da série lançados posteriormente, esse jogo não tem os apelativos "power-ups", que são aqueles quadrados com algum desenho cartunesco estampado neles que dão habilidades adicionais, atualmente uma das principais características da franquia Bomberman, o que só contribui ainda mais para esse jogo em específico ser qualificado como "desinteressante" e "sem-graça". 
+
+Existe apenas um inimigo no jogo: um balão rosa com olhos, que fica perambulando aleatoriamente pelas fases e deve ser destruído a todo custo para você avançar no game (afinal de contas, todos nós sabemos que balões são um verdadeiro perigo para a segurança pública). Provavelmente faltou criatividade por parte do criador desse <s>lixo</s> game, ou vai ver foi só preguiça de fazer algo minimamente decente mesmo. Conforme você vai passando de fase, o número de balões vai aumentando, e você vai ficando cada vez mais ferrado, já que eles podem atravessar suas bombas e te alcançarem até nos confins do Inferno.
+
+A falta de imaginação no desenvolvimento dos inimigos é compensada por uma A.I. bastante evoluída, muito superior aqueles figurantes dos jogos modernos que mais atrapalham do que ajudam e que você é obrigado a aturar o tempo todo. Dificilmente você vai conseguir explodir esses balões, o que faz deles uma verdadeira arma de destruição em massa. Muitas vezes tem-se a impressão de que os mesmos possuem uma elevada capacidade lógica e de raciocínio, pois eles aparentam calcular exatamente o tempo de detonação <s>do seu figo azul</s> da sua bomba e a área de alcance da mesma. 
+
+{{Bomberman}}
+
+[[Categoria:Jogos da Hudson Soft]]
+[[Categoria:Jogos para MSX]]
+[[Categoria:Jogos para ZX Spectrum]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Game Boy]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos lançados em 1983]]
+[[Categoria:Jogos de labirinto]]
+[[Categoria:Jogos de quebra-cabeça]]

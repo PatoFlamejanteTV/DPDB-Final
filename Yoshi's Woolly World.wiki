@@ -1,0 +1,65 @@
+{{Jogo}}
+
+{{Infobox Game
+|title     = Yoshi in the Lady World
+|image     = Yoshi-wolly-world-box-art.jpg
+|caption   = Ninguém revisou essa capa não?
+|developer = [[Good-Feel|Gudifíu]]
+|publisher = [[Nintendo]]
+|released  = [[2015]], [[2017]]
+|genre     = [[Plataforma]]
+|rating    = 67%
+|platform  = [[Wii U]] e [[3DS]]
+|ages      = Para quem sabe custurar
+}}
+
+{{vqd|[[Kirby's Epic Yarn]]}}
+
+'''Yoshi's Woolly World''' é mais um jogo do [[Yoshi]] em um mundo cheio de problemas, feito pelas mesmas velhinhas que fizeram o [[Kirby's Epic Yarn]], mas destas fez elas se empenharam e até misturaram lã com botões, lantejoulas, objetos e outros. Além de mostrar que o Yoshi consegue ser mais [[gay|fofo]] a cada jogo, conseguiram introduzir fases impossíveis, que deixaria qualquer colecionador louco para completar tudo.
+
+Em 2017 foi lançado um port pro Nintendo 3DS, os gráficos ficaram bem <s>bosta</s> rasoáveis.
+==Enredo==
+Em um mundo feito completamente de tecido, os yoshis vivem felizes, até que um [[Kamek|infeliz]] chega e transforma todos em [[Merda|lã]], e Yoshi vai a procura das lãs perdidas para salvar todos.
+
+==Jogabilidade==
+Do mesmo jeito que funciona os jogos anteriores esse não é diferente, [[Yoshi]] pode comer os inimigos e transformá-los em fios que se transforma em uma [[bola]] de lã, utilizados para atirar na cara de quem atrapalha sua jogatina. o solzinho da RiHappy retornam e ainda fique de olho nas 39057240 lãs que estão escondidas no cenário.
+
+O jogo tem dois modos de jogo: o Classic Mode onde os jogadores morrem centenas de vezes, e o Mellow Mode para noobs, onde o yoshi recebe [[asa]]s para voar e chegar no final da fase sem encostar no chão. Outra maneira de [[roubo]] no jogo é os poderes de invencibilidade como: imunidade ao [[fogo]], queda, reserva de bola de lã, etc...
+
+E como não podia faltar as transformações: [[A Pequena Sereia]], [[moto]] da [[suzuki]], [[14 bis]], uma toupeira, um gigante e um [[guarda-chuva]].
+
+==Algo Para Encher Linguiça==
+Top 10 inimigos mais bizarros em Yoshi's Woolly World
+
+{|border="2" cellpadding="3" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+
+|'''#'''||'''Nome'''||'''Imagem'''||'''Descrição'''
+|-
+|'''10'''||'''Koopa Gordo'''||<center>[[Arquivo:10 koopa gordo.jpg|100px]]</center>||Esse é um dos chefes mais idiotas e engraçados, ele nem mesmo se aquenta de tão obeso que ele é.
+|-
+|'''9'''||'''Siris'''||<center>[[Arquivo:9 siris.jpg|110px]]</center>||Siris em forma de porta [[moeda]]s da [[tia]] da esquina e mais [[tesoura]]s que faz você pular quando eles te encostam.
+|-
+|'''8'''||'''Shy Guy Cabeça de Gelo'''||<center>[[Arquivo:8 shy guy cabeça de gelo.jpg|100px]]</center>||Outro chefe burro que só fica jogando coisas em você, sem palavras.
+|-
+|'''7'''||'''Globo de Discoteca'''||<center>[[Arquivo:7 globo de discoteca.jpg|100px]]</center>||Os japoneses com certeza foram em uma [[discoteca]] e fizeram [[boo]]s com o globo do [[mapa]] múndi.
+|-
+|'''6'''||'''Aranha Durminhoca'''||<center>[[Arquivo:6 aranha durminhoca.jpg|90px]]</center>|| Essa [[aranha]] tá cagando pra ti, ela só tá no décimo terceiro sono da beleza.
+|-
+|'''5'''||'''Sol da Ri Happy'''||<center>[[Arquivo:5 sol da ri happy.jpg|109px]]</center>|| Um inimigo inútil que só serve pra atrapalhar, nem mesmo jogar uma bola de lã nesse infeliz adianta.
+|-
+|'''4'''||'''Manda Chuva'''||<center>[[Arquivo:4 nuvem manda chuva.jpg|100px]]</center>|| Só manda, não recebe.
+|-
+|'''3'''||'''Peixe Vingativo'''||<center>[[Arquivo:3 peixe vingativo.jpg|100px]]</center>|| A desgraça das desgraças, quando começa a fase, ele fica só na espreita pra dar o bote.
+|-
+|'''2'''||'''Esperma Perdido'''||<center>[[Arquivo:2 esperma perdido.jpg|100px]]</center>|| Ele tá tão perdido que até agora ninguém achou ele.
+|-
+|'''1'''||'''Esse Bicho Loco'''||<center>[[Arquivo:1 esse bicho loco.jpg|100px]]</center>|| Nem mesmo ele tem um nome de tão bizarro que ele é.
+|}
+
+{{Super Mario}}
+
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Wii U]]
+[[Categoria:Jogos para Nintendo 3DS]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos lançados em 2015]]

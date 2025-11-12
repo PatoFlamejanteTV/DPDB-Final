@@ -1,0 +1,41 @@
+{{pokedex}}
+{{PokéBox
+| imagem = Zamazenta{{#switch: {{#expr: {{#time: H}} mod 2}}|0=|1=RS}}.jpg 
+| frase = Zamazenta olhando para sua possível vítima.
+| nihongo = ザマゼンタ
+| romaji = Zamazenta
+| pokedex = 889
+| tipo1 = Fighting
+| tipo2 = {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Steel|1= }}
+| habilidade1 = Escudo de Adamantium
+| habilidade2 = 
+| espécie = [[Lycanroc]] de armadura
+| cadeia evolutiva = [[Arquivo:889MS.png|Zamazenta (Hero of Many Battles)]]{{Exp|→|Usando Rusted Shield}}[[Arquivo:889CMS.png|Zamazenta (Crowned Shield)]]}}
+{{c|Se eu for pro mundo dele, eu pego ele pra mim. sem mais!|[[Naofumi Iwatani]]|Zamazenta}}
+{{c|Lobo de respeito!|[[Jon Talbain]]|Zamazenta}}
+{{c|Lobo Porradeiro? Foi inspirado no Talbain?|[[Ginei Morioka]]|Zamazenta}}
+
+
+'''Zamazenta''' (não, não é um adjetivo feminino isso), ou também chamado de ''[[Lycanroc]] que não se sabe se vai dar certo 2'' é um pokémon que se originou da oitava geração, no jogo Pokémon Sword e Shield. Zamazenta, ao contrário de seu parceiro [[Zacian]], é mascote do jogo [[Pokémon Shield]] e mais um [[lobo]] para a diversão dos furries. Zamazenta vem de "za" ([[lobo]]) e "mazenta" ([[magenta]]), mostrando que a pessoa que deu o nome dele, assim como o de [[Zacian]] é [[daltonismo|cega de cores]] <s>ou que será a cor do shiny dele</s>.
+
+Este pokémon é um lendário e por causa disso, além do [[cu doce]] da [[Game Freak]], seu tipo só foi revelado depois de 5 meses e meio, apesar de quase todo mundo já sabia que seria Steel + qualquer [[bosta]] ou apenas steel, virando Steel + Fighting por algum motivo desconhecido. Zamazenta, representa o pokémon de nível #889, o penúltimo na Infinitodex Nacional, assim como na Infinitodex absurdamente limitada de Galar.
+==Surgimento==
+Zamazenta, assim como o outro lendário [[Zacian]], além de outros pokémons, foram revelados no Pokémon Direct de [[5 de julho]], onde mostrou aquele trailer cinemático <s>feito para enganar trouxas</s> como quase possui nas outras gerações, onde aparece ele tretando contra [[Zacian]], quando o mesmo acaba usando um ataque qualquer com sua [[espada]], porém fazendo apenas cócegas em Zamazenta, já que dizem que seu escudo dourado que foi enfiado em <s>sua bunda</s> seu corpo é feito de [[adamantium]], mas são impedidos de tretar até a [[morte]] por um vento misterioso que acaba surgindo do nada <s>possivelmente o terceiro lendário</s>...e só.
+
+Além da forma normal de armadura que todos viram anteriormente e conhecem, a Crowned Shield, Zamazenta também possui outra forma tosca, a Hero of Many Battles, que é a mesma coisa que sua forma normal, apenas retirando sua armadura dourada e deixando apenas um lobo azul com uns tons de vermelho e um design parecido com um cabelo que serve como uma capa para ele se achar o fodão.
+==Características e popularidade==
+[[Arquivo:ZamazentaThanos.png|250px|left|thumb|Ao contrário de todos que dizem que foi o [[Junichi Masuda|Masuda]], Zamazenta é o verdadeiro culpado pela exclusão da pokédex de Galar.]]
+Zamazenta, assim como Zacian, é um [[lobo]] com uma espécie de proteção em sua cabeça de cor dourada, só que dessa vez com detalhes azulados em vez de avermelhados e bastante detalhes de pelo, incluindo pelos vermelhos em volta de seu escudo corporal e azuis fora dele. Sua característica especial é seu escudo dourado com detalhes avermelhados rodeado em seu corpo que dizem ser muito forte, impedindo o [[sexo anal|penetramento]] de ataques de pokémons alheios, incluindo detalhes azuis em baixo de seu corpo [[plágio|imitados]] da versão original, [[Lycanroc]].
+
+Zamazenta é um pokémon quadrúpede, a qual dará desgosto aos furries que evitam desenhar qualquer tipo de anthro e (muita) alegria aos furries que vivem deste tipo de desenho. Como é (ou pelo menos dizem que é) um [[lobo]], um dos animais preferidos dos furries, poderá fazer sucesso tanto em artes comuns, fancharacters ou [[putaria]], apesar de seu design complicado por meio de sua armadura, e por causa disso, certamente fará menos sucesso que seu [[Lula|cûmpanhero]] (ou "cûmpanhera", segundo os [[tarado]]s da [[pokédex]]) [[Zacian]], já decretando sua derrota em popularidade só por uma descrição tosca de pokédex.
+==No anime, mangá e filmes==
+[[Arquivo:Zamazenta e Wooloo.jpg|250px|thumb|Zamazenta pensando em devorar esse [[Wooloo]].]]
+No anime, assim como mangá provavelmente aparecerá como possível ameaça da equipe vilã do jogo ou da [[Equipe Rocket]], ou caso não tiver sorte, poderá aparecer em um episódio qualquer como um mero figurante. Em filmes, Zacian assim como Zamazenta terão chances altas de serem ignorados assim como [[Solgaleo]], [[Lunala]] e [[Necrozma]], já que remakes de filmes antigos estão fazendo mais sucesso do que as continuações sem criatividade com os mesmos enredos e vilões sem graça com os mesmos planos.
+==Usabilidade==
+Já que a [[Game Freak]] resolveu comprar as mesmas pessoas <s>imbecis</s> responsáveis por balancear os campeões do [[League of Legends]] para decidir os tipos e principalmente os ataques que seriam usados tanto por [[Zacian]] quanto Zamazenta, Zamazenta mesmo com stats úteis e altos, resolveram colocar vários ataques sem sentido e fora da casinha para deixar um lendário absurdamente fraquíssimo em relação a sua contraparte, além de também a missão de não irritar as [[feminista]]s, já que tinham que fazer o lendário "[[feminino]]" melhor que o "[[masculino]]", assim como na geração passada. Ou seja, Zamazenta é forte demais para duelar com pokémons normais, e fraco demais para duelar com lendários, ficando no meio termo.
+==Ver também==
+*[[Magenta]]
+
+{{Poke8}}
+[[categoria:Lutadores]]
+[[categoria:Lobos]]

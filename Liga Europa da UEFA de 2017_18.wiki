@@ -1,0 +1,619 @@
+A Liga Europa da UEFA de 2017-18 é a 47ª edição do torneio Liga Europa da UEFA, e a 9ª com este formato e nome, já que antes a competição teve mais nomes que a [[Núbia Oliver]] (ou sei lá como ela se chama hoje em dia) e o [[Prince]] juntos. Esse ano a final vai ser disputada no estádio do [[Lyon]], na [[França]], já que o time francês quer ver se pelo menos dessa vez descola uma vaguinha na final mesmo não passando de fase.
+
+==Distribuição das Vagas==
+
+{| class="wikitable"
+|-
+!
+!Times entrando nesta rodada
+!TImes avançando para próxima fase
+!Times transferidos da [[Liga dos Campeões da UEFA de 2017/18]]
+|-
+!Primeira Pré-eliminatória<br />(100 times)
+|
+*29 Campeões da Copa Nacional das associações 27–55
+*36 Vice-Campeões da Liga Nacional das associações 18–54 (exceto Liechtenstein)
+*35 Terceiros Colocados da Liga Nacional das associações 16–51 (exceto Liechtenstein)
+|
+|
+|-
+!Segunda Pré-eliminatória<br />(66 times)
+|
+*8 Campeões da Copa Nacional das associações 19-26
+*2 Vice-Campeões da Liga Nacional das associações 16–17
+*6 Quartos Colocados da Liga Nacional das associações 10–15
+|
+*50 ganhadores da Primeira Pré-eliminatória
+|
+|-
+!Terceira Pré-eliminatória<br />(58 times)
+|
+*5 Campeões da Copa Nacional das associações 14-18
+*9 Terceiros Colocados da Liga Nacional das associações 7–15
+*5 Quartos Colocados da Liga Nacional das associações 5–9
+*3 Quintos Colocados da Liga Nacional das associações 4–6 (Campeão da Taça da Liga da França)
+*3 Sextos Colocados da Liga Nacional das associações 1–3 (Campeão da Taça da Liga da Inglaterra)
+|
+*33 ganhadores da Segunda Pré-eliminatória
+|
+|-
+!Rodada de Play-off<br />(44 times)
+|
+
+|
+*29 ganhadores da Terceira Pré-eliminatória
+|
+*15 perdedores da Terceira Pré-eliminatória da [[Liga dos Campeões da UEFA de 2017/18]]
+|-
+!Fase de Grupos<br />(48 times)
+|
+*12 Campeões da Copa Nacional das associações 1-13
+*1 Quarto Colocado da associação 4
+*3 Quintos Colocados das associações 1-3
+|
+*22 ganhadores da Rodada de Play-off
+|
+*10 perdedores da Rodada de Play-off da [[Liga dos Campeões da UEFA de 2017/18]]
+|-
+!Fase de Mata-Mata<br />(32 times)
+|
+|
+*12 Primeiros Colocados dos Grupos
+*12 Segundos Colocados dos Grupos
+|
+*8 Terceiros Colocados dos Grupos da [[Liga dos Campeões da UEFA de 2017/18]]
+|}
+
+==Pré-Eliminatórias==
+Bah, nem vale a pena botar aqui já que são 95% de times desconhecidos e que ninguém liga. Tem alguns figurões como [[Rangers]] que perdeu para um time de [[Vanderlei Luxemburgo|Luxemburgo]], [[Galatasaray]], [[Milan]], [[Fenerbahçe]], [[Athletic Bilbao]], [[Zenit]] <s>[[Braga]]</s> e [[Olympique de Marselha]]
+
+==Play-off==
+A rodada decisiva pra saber quem fica e quem vai pra casa. Houveram algumas surpresas como [[Ajax]] perdendo pro [[Rosenborg BK|Rosenborg]] e [[Fenerbahçe]] pro [[Vardar Skopje|Vardar]]
+
+==Fase de Grupos==
+=== Grupo A ===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Villarreal.png|21px]] [[Villarreal Club de Fútbol|Vila do Rei]]
+|'''11'''||6||3||2||1||10||6||+4
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Astana.png|21px]] [[Football Club Astana|As anta]]
+|'''10'''||6||3||1||2||10||7||+3
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Slavia Praha.png|21px]] [[Sportovní Klub Slavia Praha|Sílvia Prata]]
+|'''8'''||6||2||2||2||6||6||0
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Maccabi Tel-Aviv.png|21px]] [[Moadon Kaduregel Maccabi Tel Aviv|Mal acabei de te vir!]]
+|'''4'''||6||1||1||4||1||8||-7
+|}
+
+=== Grupo B ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Dynamo Kiev.png|21px]] [[Futbolʹnyy Klub Dynamo Kyyiv|Mãe Diná de Kiev]]
+|'''13'''||6||4||1||1||15||9||+6
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Partizan.png|21px]] [[Fudbalski Klub Partizan Beograd|Partição]]
+|'''8'''||6||2||2||2||8||9||-1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do BSC Young Boys.png|21px]] [[Berner Sport Club Young Boys 1898|Jovens Dinâmicos]]
+|'''6'''||6||1||3||2||7||8||-1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Skënderbeu Korçë.png|21px]] [[Klubi Futbollistik Skënderbeu Korçë|Nome Escroto pra Caralho]]
+|'''5'''||6||1||2||3||6||10||-4
+|}
+
+=== Grupo C ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Braga.png|21px]] [[Sporting Clube de Braga|<s>Ana Maria</s> Brega]]
+|'''10'''||6||3||1||2||9||8||+1
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Ludogorets Razgrad (2016).png|21px]] [[Profesionalen Futbolen Klub Ludogorets Razgrad|Ludovico Rasgado]]
+|'''9'''||6||2||3||1||7||5||+2
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do İstanbul Başakşehir.png|20px]] [[İstanbul Başakşehir Futbol Kulübü|Bazar do Sehir]]
+|'''8'''||6||2||2||2||7||8||-1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Hoffenheim.png|21px]] [[Turn- und Sportgemeinschaft 1899 Hoffenheim Fußball-Spielbetriebs|Hoppenheim]]
+|'''5'''||6||1||2||3||8||10||-2
+|}
+
+=== Grupo D ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Milan.png|20px]] [[Associazione Calcio Milan|Milanesa]]
+|'''11'''||6||3||2||1||13||6||+7
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do AEK.png|20px]] [[Athli̱tikí̱ Éno̱sis Ko̱nstantinoupóleo̱s|ECA! Uma antena!]]
+|'''8'''||6||1||5||0||6||5||+1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Rijeka.png|20px]] [[Hrvatski Nogometni Klub Rijeka|Time da Buceta no Escudo]]
+|'''7'''||6||2||1||3||11||12||-1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Austria Wien.png|20px]] [[Fußballklub Austria Wien|Vinho da Áustria]]
+|'''5'''||6||1||2||3||9||16||-7
+|}
+
+=== Grupo E ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo-atalanta.jpg|20px]] [[Atalanta Bergamasca Calcio|Tá lá a anta]]
+|'''14'''||6||4||2||0||14||4||+10
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Lyon.png|20px]] [[Olympique Lyonnais|Leãon]]
+|'''11'''||6||3||2||1||11||4||+7
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Everton.png|20px]] [[Everton Football Club|Ê ventão!]]
+|'''4'''||6||1||1||4||7||15||-8
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:ZUMBI.jpg|21px]][[Apelão Limas no Sol]]
+|'''3'''||6||0||3||3||5||14||-9
+|}
+
+=== Grupo F ===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Stalin nose.JPG|21px]] [[Futból'nyy Klub Lokomotív Moskvá|Lokomotív Stalin]]
+|'''11'''||6||3||2||1||9||4||+5
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do København.png|21px]] [[Football Club København|Compre Häägen]]
+|'''9'''||6||2||3||1||7||3||+4
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Sheriff Tiraspol.png|21px]] [[Fotbal Club Sheriff Tiraspol|Xerifes Inúteis]]
+|'''9'''||6||2||3||1||4||4||0
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Spartapraga.gif|21px]][[Football Club Fastav Zlín|Slim]]
+|'''2'''||6||0||2||4||1||10||-9
+|}
+
+=== Grupo G ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Viktoria Plzeň.png|20px]] [[Football Club Viktoria Plzeň|Vitória Tcheca]]
+|'''12'''||6||4||0||2||13||8||+5
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Steaua Bucareste.png|20px]] [[Fotbal Club Steaua București|Estrela Caída]]
+|'''10'''||6||3||1||2||9||7||+2
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Lugano4.jpg|21px]] [[Football Club Lugano|Diego Lugano]]
+|'''9'''||6||3||0||3||9||11||-2
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Hapoel Be'er Sheva.png|21px]] [[Moadon HaKaduregel Hapoel Be'er Sheva|Time de Jesus]]
+|'''4'''||6||1||1||4||5||10||-5
+|}
+
+=== Grupo H ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Arsenal FC.png|20px]] [[Arsenal Football Club|Paiol]]
+|'''13'''||6||4||1||1||14||4||+10
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Crvena Zvezda.png|21px]][[Fudbalski Klub Crvena Zvezda|Estrela Comunista]]
+|'''9'''||6||2||3||1||3||2||+1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Köln.png|21px]] [[1. Fußball-Club Köln 01/07|Colônia de Férias]]
+|'''6'''||6||2||0||4||7||8||-1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do BATE Borisov.png|20px]] [[Futboĺny Klub BATE Barysaŭ|ME BATE BORIS]]
+|'''5'''||6||1||2||3||6||16||-10
+|}
+
+=== Grupo I ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Red Bull Salzburg.png|20px]] [[Fußball Club Red Bull Salzburg|Red Bull-SP]]
+|'''12'''||6||3||3||0||7||1||+6
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Olympique de Marseille.png|20px]] [[Olympique de Marseille|Olympique de Groselha]]
+|'''8'''||6||2||2||2||4||4||0
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Mehmed II Constantinople.jpg|21px]][[Torku Konyaspor Kulübü|Urubu Crônica Expor]]
+|'''6'''||6||1||3||2||4||6||-2
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Vitória.png|21px]] [[Vitória Sport Clube|Derrota de Aníbal]]
+|'''5'''||6||1||2||3||5||9||-4
+|}
+
+=== Grupo J ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudoucrania.PNG|21px]] [[Östersunds Fotbollsklubb|Ostras Sanders]]
+|''11'''||6||3||2||1||8||4||+4
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Athletic Bilbao.png|20px]] [[Athletic Club|Pathétic Club]]
+|'''11'''||6||3||2||1||8||5||+3
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:AndriyShevchenkoUkraineITV.jpg|21px]] [[Futbolʹnyy Klub Zorya Luhansʹk|Corja Johann]]
+|'''6'''||6||2||0||4||3||9||-6
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Futebol Alemão.jpg|20px]] [[Hertha Berliner Sport-Club|Horta de Berlim]]
+|'''5'''||6||1||2||3||6||7||-1
+|}
+
+=== Grupo K ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo da Lazio.png|20px]] [[Società Sportiva Lazio|Lezado]]
+|'''13'''||6||4||1||1||12||7||+5
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Nice.png|20px]] [[Olympique Gymnaste Club Nice Côte d'Azur|Nice to meet you]]
+|'''9'''||6||3||0||3||12||7||+5
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Tintin belga.jpg|21px]] [[Sportvereniging Zulte Waregem|Volkswagen]]
+|'''7'''||6||2||1||3||8||13||-5
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Vitesse.png|21px]] [[Stichting Betaald Voetbal Vitesse|Vassoura Arranhada]]
+|'''5'''||6||1||2||3||5||10||-5
+|}
+
+=== Grupo L ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Zenit.png|20px]] [[Futból'nyy Klub Zenit|Zelite Leningrado]]
+|'''16'''||6||5||1||0||14||4||+10
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Brasão da Espanha.png|20px]] [[Real Sociedad de Fútbol|Irreal Sociopata]]
+|'''12'''||6||4||0||2||15||3||+12
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Rosenborg.png|21px]] [[Rosenborg Ballklub|Rosenborg Bullacu]]
+|'''5'''||6||1||2||3||6||11||-5
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Vardar Skopje.png|21px]][[Fudbalski Klub Vardar Skopje|Darth Vader]]
+|'''1'''||6||0||1||5||3||20||-17
+|}
+
+==Fase final==
+É hora de separar os meninos dos homens! Os times "peores" [[Pleonasmo|saem pra fora]] de cena enquanto que os dois melhores de cada grupo [[Futuro do presente simples|juntar-se-ão]] aos relegados da [[Liga dos Campeões da UEFA de 2017/18]], a série A do futebol europeu.
+
+===Equipes Classificadas===
+
+{| class="wikitable"
+|-
+!Chave de cores
+|-bgcolor="#ccffcc"
+|Cabeças de chave para a fase de 16-avos de final
+|-bgcolor="#ccccff"
+|Não cabeças de chave a fase de 16-avos de final
+|}
+
+====Fase de grupos da Liga Europa====
+{| class="wikitable"
+|-
+!Grupo
+!width=230|Vencedores
+!width=230|Vices
+|-
+![[#Grupo A|A]]
+|bgcolor="#ccffcc"|[[Villarreal Club de Fútbol|Vila do Rei]]
+|bgcolor="#ccccff"|[[Football Club Astana|As anta]]
+|-
+![[#Grupo B|B]]
+|bgcolor="#ccffcc"|[[Futbolʹnyy Klub Dynamo Kyyiv|Mãe Diná de Kiev]]
+|bgcolor="#ccccff"|[[Fudbalski Klub Partizan Beograd|Partição]]
+|-
+![[#Grupo C|C]]
+|bgcolor="#ccffcc"|[[Sporting Clube de Braga|<s>Ana Maria</s> Brega]]
+|bgcolor="#ccccff"|[[Profesionalen Futbolen Klub Ludogorets Razgrad|Ludovico Rasgado]]
+|-
+![[#Grupo D|D]]
+|bgcolor="#ccffcc"|[[Associazione Calcio Milan|Milanesa]]
+|bgcolor="#ccccff"|[[Athli̱tikí̱ Éno̱sis Ko̱nstantinoupóleo̱s|ECA! Uma antena!]]
+|-
+![[#Grupo E|E]]
+|bgcolor="#ccffcc"|[[Atalanta Bergamasca Calcio|Tá lá a anta]]
+|bgcolor="#ccccff"|[[Olympique Lyonnais|Leãon]]
+|-
+![[#Grupo F|F]]
+|bgcolor="#ccffcc"|[[Futból'nyy Klub Lokomotív Moskvá|Lokomotív Stalin]]
+|bgcolor="#ccccff"|[[Football Club København|Compre Häägen]]
+|-
+![[#Grupo G|G]]
+|bgcolor="#ccffcc"|[[Football Club Viktoria Plzeň|Vitória Tcheca]]
+|bgcolor="#ccccff"|[[Fotbal Club Steaua București|Estrela Caída]]
+|-
+![[#Grupo H|H]]
+|bgcolor="#ccffcc"|[[Arsenal Football Club|Paiol]]
+|bgcolor="#ccccff"|[[Fudbalski Klub Crvena Zvezda|Estrela Comunista]]
+|-
+![[#Grupo I|I]]
+|bgcolor="#ccffcc"|[[Fußball Club Red Bull Salzburg|Red Bull-SP]]
+|bgcolor="#ccccff"|[[Olympique de Marseille|Olympique de Groselha]]
+|-
+![[#Grupo J|J]]
+|bgcolor="#ccffcc"|[[Östersunds Fotbollsklubb]]
+|bgcolor="#ccccff"|[[Athletic Club|Pathétic Club]]
+|-
+![[#Grupo K|K]]
+|bgcolor="#ccffcc"|[[Società Sportiva Lazio|Lezado]]
+|bgcolor="#ccccff"|[[Olympique Gymnaste Club Nice Côte d'Azur|Nice to meet you]]
+|-
+![[#Grupo L|L]]
+|bgcolor="#ccffcc"|[[Futból'nyy Klub Zenit|Zelite Leningrado]]
+|bgcolor="#ccccff"|[[Real Sociedad de Fútbol|Irreal Sociopata]]
+|-
+|}
+
+====[[Liga dos Campeões da UEFA de 2017/18#Fase de grupos|Fase de grupos da Liga dos Campeões]]====
+{| class="wikitable" style="text-align: center;"
+|-
+!Grupo
+!width=175|Equipa
+!width=30|{{Tooltip| Pts | Pontos}}
+!width=30|{{Tooltip| J | Jogos}}
+!width=30|{{Tooltip| V | Vitórias}}
+!width=30|{{Tooltip| E | Empates}}
+!width=30|{{Tooltip| D | Derrotas}}
+!width=30|{{Tooltip| GM | Golos Marcados}}
+!width=30|{{Tooltip| GS | Golos Sofridos}}
+!width=35|{{Tooltip| DG | Diferença de Golos}}
+|- bgcolor="#ccffcc"
+![[Liga dos Campeões da UEFA de 2017/18#Grupo A|A]]
+|style="text-align:left;"|[[CSKA Moscou|SKAVURSKA!!!]]||'''9'''||6||3||0||3||8||10||–2
+|- bgcolor="#ccffcc"
+![[Liga dos Campeões da UEFA de 2017/18#Grupo C|C]]
+| style="text-align:left;" |[[Atlético de Madrid|Patético de Madrid]]||'''7'''||6||1||4||1||5||4||+1
+|- bgcolor="#ccffcc"
+![[Liga dos Campeões da UEFA de 2017/18#Grupo G|G]]
+| style="text-align:left;" |[[RB Leipzig|Red Bull alguma coisa]]||'''7'''||6||2||1||3||10||11||-1
+|- bgcolor="#ccffcc"
+![[Liga dos Campeões da UEFA de 2017/18#Grupo D|D]]
+| style="text-align:left;" |[[Sporting|Ixxportin]]||'''7'''||6||2||1||3||8||9||–1
+|- bgcolor="#ccccff"
+![[Liga dos Campeões da UEFA de 2017/18#Grupo F|F]]
+| style="text-align:left;" |[[Napoli|Napolitano]]||'''6'''||6||2||0||4||11||11||0
+|- bgcolor="#ccccff"
+![[Liga dos Campeões da UEFA de 2017/18#Grupo E|E]]
+| style="text-align:left;" |[[Spartak Moscou|Espanta Mosca]]||'''6'''||6||1||3||2||9||13||-4
+|- bgcolor="#ccccff"
+![[Liga dos Campeões da UEFA de 2017/18#Grupo B|B]]
+|style="text-align:left;"|[[Celtic|Carro da Chevrolet]]||'''3'''||6||1||0||5||5||18||–13
+|- bgcolor=#ccccff
+![[Liga dos Campeões da UEFA de 2017/18#Grupo H|H]]
+|style="text-align:left;"|[[Borussia Dortmund|Bosta do Imundo]]||'''2'''||6||0||2||4||7||13||–6
+|}
+
+===Dezesseis-avos de Final===
+{{Competição de mata-mata 2 jogos (base)}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Borussia Dortmund|Bosta do Imundo]] [[Arquivo:Escudo do Borussia Dortmund.png|20px]]'''|4-3|[[Arquivo:Escudo do Atalanta.png|20px]] [[Atalanta|Tá Lá a Anta]]|3-2|1-1}}
+{{Competição de mata-mata 2 jogos (jogo)|[[OGC Nice|Nice to meet you]] [[Arquivo:Escudo do Nice.png|20px]]|2-4|'''[[Arquivo:Stalin nose.JPG|20px]] [[Lokomotiv Moscou|Lokomotív Stálin]]'''|2-3|0-1}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Football Club København|Compre Häägen]] [[Arquivo:Escudo do København.png|21px]]|1-5|'''[[Arquivo:Escudo do Atlético de Madrid.png|20px]] [[Atlético de Madrid|Patético da Madrinha]]'''|1-4|0-1}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Spartak Moscou|Espanta Mosca]] [[Arquivo:Escudo do Spartak Moscow.png|20px]]|3-4|'''[[Arquivo:Escudo do Athletic Bilbao.png|20px]] [[Athletic Club|Pathétic Club]]'''|1-3|2-1}}
+{{Competição de mata-mata 2 jogos (jogo)|[[AEK Athens|ECA! Uma antena!]] [[Arquivo:Escudo do AEK.png|20px]]|1-1 (gf.)|'''[[Arquivo:Escudo do Dynamo Kiev.png|20px]] [[Dínamo de Kiev|Mãe Diná de Kiev]]'''|1-1|0-0}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Celtic|Carro da Chevrolet]] [[Arquivo:Escudo do Celtic.png|20px]]|1-3|'''[[Arquivo:Escudo do Zenit.png|20px]] [[Zenit|Zelite Leningrado]]'''|1-0|0-3}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Napoli|Napolitano]] [[Arquivo:Escudo do Napoli.png|20px]]|3-3 (gf.)|'''[[Arquivo:Escudo do RB Leipzig.png|20px]] [[RB Leipzig|Red Bull alguma coisa]]'''|1-3|2-0}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Estrela Vermelha|Estrela Comunista]] [[Arquivo:Escudo do Crvena Zvezda.png|20px]]|0-1|'''[[Arquivo:Escudo do CSKA Moscow.png|20px]] [[CSKA Moscou|SKAVURSKA!!!]]'''|0-0|0-1}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Olympique Lyonnais|Leãon]] [[Arquivo:Escudo do Lyon.png|20px]]'''|4-1|[[Arquivo:Escudo do Villarreal.png|20px]] [[Villarreal|Vila do Rei]]|3-1|1-0}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Real Sociedad|Irreal Sociopata]] [[Arquivo:Brasão da Espanha.png|20px]]|3-4|'''[[Arquivo:Escudo do Red Bull Salzburg.png|20px]] [[Red Bull Salzburg|Red Bull-SP]]'''|2-2|1-2}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Partizan|Partição]] [[Arquivo:Escudo do Partizan.png|20px]]|1-3|'''[[Arquivo:Escudo do Viktoria Plzeň.png|20px]] [[Viktoria Plzeň|Vitória Tcheca]]'''|1-1|0-2}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Steaua București|Estrela Caída]] [[Arquivo:Escudo do Steaua Bucareste.png|20px]]|2-5|'''[[Arquivo:Escudo da Lazio.png|20px]] [[Lazio|Lezado]]'''|1-0|1-5}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Ludogorets|Ludovico Rasgado]] [[Arquivo:Escudo do Ludogorets Razgrad (2016).png|20px]]|0-4|'''[[Arquivo:Escudo do Milan.png|20px]] [[Milan|Milanesa]]'''|0-3|0-1}}
+{{Competição de mata-mata 2 jogos (jogo)|[[FC Astana|As Anta]] [[Arquivo:Escudo do Astana.png|20px]]|4-6|'''[[Arquivo:Sporting CP.png|20px]] [[Sporting CP|Ixxportin]]'''|1-3|3-3}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Östertund Fotbollsklubb|Ostras Sanders]] [[Arquivo:Escudoucrania.PNG|21px]]|2-4|'''[[Arquivo:Escudo do Arsenal.png|20px]] [[Arsenal Football Club|Paiol]]'''|0-3|2-1}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Olympique de Marseille|Olympique de Groselha]] [[Arquivo:Escudo do Olympique de Marseille.png|20px]]'''|3-1|[[Arquivo:Escudo do Braga.png|20px]] [[Sporting Braga|<s>Ana Maria</s> Brega]]|3-0|0-1}}
+|}
+===Oitavas de final===
+O jogo mais importante dessa fase imprestável foi o [[Arsenal]] vencendo o [[Milan]] com o árbitro metendo a rola no pobre ACM.
+{{Competição de mata-mata 2 jogos (base)}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Lazio|Lezado]] [[Arquivo:Escudo da Lazio.png|20px]]'''|4-2|[[Arquivo:Escudo do Dynamo Kiev.png|20px]] [[Dínamo de Kiev|Mãe Diná de Kiev]]|2-2|2-0}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[RB Leipzig|Red Bull alguma coisa]]''' [[Arquivo:Escudo do RB Leipzig.png|20px]]|3-2|[[Arquivo:Escudo do Zenit.png|20px]] [[Zenit|Zelite Leningrado]]|2-1|1-1}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Atlético de Madrid|Patético da Madrinha]] [[Arquivo:Escudo do Atlético de Madrid.png|20px]]'''|8-1|[[Arquivo:Stalin nose.JPG|20px]] [[Lokomotiv Moscou|Lokomotív Stálin]]|3-0|5-1}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[CSKA Moscou|SKAVURSKA!!!]] [[Arquivo:Escudo do CSKA Moscow.png|20px]]'''|(gf.) 3-3|[[Arquivo:Escudo do Lyon.png|20px]] [[Olympique Lyonnais|Leãon]]|0-1|3-2}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Olympique de Marseille|Olympique de Groselha]] [[Arquivo:Escudo do Olympique de Marseille.png|20px]]'''|5-2|[[Arquivo:Escudo do Athletic Bilbao.png|20px]] [[Athletic Club|Pathétic Club]]|3-1|2-1}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Sporting CP|Ixxportin]] [[Arquivo:Sporting CP.png|20px]]'''|3-2|[[Arquivo:Escudo do Viktoria Plzeň.png|20px]] [[Viktoria Plzeň|Vitória Tcheca]]|2-0|1-2}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Borussia Dortmund|Bosta do Imundo]] [[Arquivo:Escudo do Borussia Dortmund.png|20px]]|1-2|'''[[Arquivo:Escudo do Red Bull Salzburg.png|20px]] [[Red Bull Salzburg|Red Bull-SP]]'''|1-2|0-0}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Milan|Milanesa]] [[Arquivo:Escudo do Milan.png|20px]]|1-5|[[Arquivo:Escudo do Arsenal.png|20px]] '''[[Arsenal Football Club|Paiol]]'''|0-2|1-3}}
+|}
+===Quartas de final===
+Vão ser sorteadas e todo mundo quer ver mesmo o [[Red Bull Salzburg]] enfrentar o [[RB Leipzig]], pra ver quem voa mais alto <s> em direção ao chão </s>.
+{{Competição de mata-mata 2 jogos (base)}}
+{{Competição de mata-mata 2 jogos (jogo)|[[RB Leipzig|Red Bull alguma coisa]] [[Arquivo:Escudo do RB Leipzig.png|20px]]|3-5|'''[[Arquivo:Escudo do Olympique de Marseille.png|20px]] [[Olympique de Marseille|TOMA RED BULL AGORA OTARIO]]'''|1-0|2-5}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Arsenal Football Club|Paiol]] [[Arquivo:Escudo do Arsenal.png|20px]]'''|6-3|[[Arquivo:Escudo do CSKA Moscow.png|20px]] [[CSKA Moscou|SKAVURSKA!!!]]|4-1|2-2}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Atlético de Madrid|Patético da Madrinha]] [[Arquivo:Escudo do Atlético de Madrid.png|20px]]''''|2-1|[[Arquivo:Sporting CP.png|20px]] [[Sporting CP|Ixxportin]]|2-0|0-1}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Lazio|BarceLazio]] [[Arquivo:Escudo da Lazio.png|20px]]|5-6|'''[[Arquivo:Escudo do Red Bull Salzburg.png|20px]] [[Red Bull Salzburg|Red Bull ROMAlzburg]]'''|4-2|1-4}}
+|}
+===Semifinais===
+{{Competição de mata-mata 2 jogos (base)}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Olympique de Marseille|Time francês]] [[Paris Saint-Germain|que não é modinha]] [[Arquivo:Escudo do Olympique de Marseille.png|20px]]'''|3-2|[[Arquivo:Escudo do Red Bull Salzburg.png|20px]] [[Red Bull Salzburg|Red Bull-SP]]|2-0|1-2}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arsenal Football Club|Paiol]] [[Arquivo:Escudo do Arsenal.png|20px]]|1-2|'''[[Arquivo:Escudo do Atlético de Madrid.png|20px]] [[Atlético de Madrid|Patético da Madrinha]]'''|1-1|0-1}}
+|}
+===Final===
+JÁ FOI DEFINIDA MEUS AMIGOS, será decidida entre O ORLY?mpique de Groselha e a Puta preferida do Real Madrid, vulgo Atlético de Madrid.
+{| style="width:{{{width|100%}}}; background: transparent;" cellspacing="0"
+|- valign="top"
+|align="right" width="16%" style="font-size:85%;"|[[16 de maio]] de [[2018]]
+|width="24%" align="right"|'''[[Olympique de Marseille|Olympica de Groselha]] [[Arquivo:Escudo do Olympique de Marseille.png|20px]]'''
+|width="12%" align="center"|'''0 – 3'''
+|width="24%"|'''[[Arquivo:Escudo do Atlético de Madrid.png|20px]] [[Atlético de Madrid|Patético da Madrinha]]'''
+|style="font-size:85%;"|{{{estadio|Parque olha o Leãon, [[Lyon|Leãon]]}}}
+|- style="font-size:85%;" valign="top"
+|align="right" width="16%" style="font-size:100%;"|{{#if: {{{hora|}}}|{{{hora}}}}}<br />{{#if: {{{hist|}}}|[[Arquivo:Crystal Clear app kworldclock.png|20px]] [[{{{hist|}}}|Histórico]]}}
+|align="right"|{{ #if: {{{gols1|}}} | {{{gols1}}} }} 
+|align="center"|{{ #if: {{{report|}}} | {{{report}}} }} 
+|{{#if: {{{gols2|}}} | Grismão 21' 49'<br> Gabrielle 89'
+|{{#if: {{{público| {{{publico|}}} }}} | '''Público:''' {{#if: {{{público|}}} | {{formatnum:{{{público}}} }} | {{{publico}}} }} }}{{#if: {{{renda|}}} | {{#if: {{{público| {{{publico|}}} }}} | <br /> }}'''Renda:''' {{{renda}}} }}{{#if: {{{arbitro|}}} | {{#if: {{{renda|}}} | <br /> | {{#if: {{{público| {{{publico|}}} }}} | <br /> }} }}'''Árbitro:''' {{{arbitro}}} }}
+|}
+
+==Campeão==
+{| class="wikitable" style="margin: 0 auto; width: 220px;"
+|-
+!Liga dos Campeões da UEFA de 2016–17
+|-
+![[Arquivo:Escudo do Atlético de Madrid.png|100px]]
+|-
+| align="center" |[[Atlético de Madrid|Patético da Madrinha]] <br />'''Campeão'''<br /><small>(3º título)</small>
+|} 
+
+
+== Ver também ==
+*[[Liga dos Campeões da UEFA de 2017/18]]
+*[[Copa Libertadores da América de 2017]]
+*[[Copa Sul-Americana de 2017]]
+
+{{Liga Europa da UEFA}}

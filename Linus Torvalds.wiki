@@ -1,0 +1,160 @@
+{|border=1 style="border-color: #F522E0;border-collapse: collapse" align=right
+|- 
+|colspan=2 style=background:#F522E0 |<center>'''Linus Torvalds'''</center>
+|-
+|style=background:#CCCCFF |'''Reino:'''
+|style=background:#F9F9F9 |[[Finlândia|Terra do Metal Melódico]] (arghhh)
+|-
+|style=background:#CCCCFF |'''filo:'''
+|style=background:#F9F9F9 |[[Nerd]]
+|-
+|style=background:#CCCCFF |'''Classe:'''
+|style=background:#F9F9F9 |[[Nerd]]
+|-
+|style=background:#CCCCFF |'''Ordem:'''
+|style=background:#F9F9F9 |[[Nerd]] 
+|-
+|style=background:#CCCCFF |'''Família:'''
+|style=background:#F9F9F9 |[[Nerd]]s
+|-
+|style=background:#CCCCFF |'''Gênero:'''
+|style=background:#F9F9F9 |[[Nerd]]s
+|-
+|style=background:#CCCCFF |'''Espécie:'''
+|style=background:#F9F9F9 |[[Nerd]]
+|}
+[[Arquivo:Linus-torvalds-windows-7.jpg|thumb|400px|right|Linus vendendo Windows nas horas vagas.]]
+{{compactar|
+{{Você quis dizer|Bill Gates}}
+{{c|Meu papai|Tux|Linus}}
+{{c|Tenho vontade de matá-lo, pois ele tenta estragar o meu plano de dominação mundial|Bill Gates|Linus}}
+{{c|Ele é bem aberto mesmo|Tarado|Linus}}
+{{c|Quando ele morrer, irá virar Purpurina|Jorge Lafond|Linus}}
+{{c|O código fonte dele é bem aberto |Tarado|Linus}}
+{{c|Quero ser igual à ele quando eu crescer! Essa cara é um gênio!|Bill Gates|Linus}}
+{{c|Se der para jogar paciência, eu instalo|Oscar Wilde|a maior criação de Linus, o Linux}}
+{{c|011011010110111101110100011010000110010101110010| primeira palavra dita por Linus aos 10 meses de nascido}} 
+{{c|Microsoft é a doença e Linus é a cura|Marion 'Cobra' Cobretti|Linus}}
+{{c|Esse é Pro, o Bill Gates é Noob|Jogador de Counter Strike|Linus}}
+{{c|Esse cara devia queimar no inferno, mas não antes de instalar o Slackware na minha máquina|Toninho do Diabo|Linus}}
+{{c|Esse eu não demito, hoje.|Roberto Justus|Linus}}
+{{c|Linus é um grande colaborador do Projeto GNU. Obrigado.|Richard Stallman|Linus Tevez}}
+{{c|O Slackware dele é enorme |Silvia Saint|sobre Linus}}
+{{c|Adoro o Kurumin dele|[[Carlos Morimoto]] sobre Linus}}
+{{c|Eeee meu amigo Tanen! Eeee meu amigo Eeee meu amigo Tanenbaum!  Tanenbaum!|Linus Torvalds|[[Tanenbaum]]}}
+}}
+
+[[Arquivo:Linus Torvalds.jpg|thumb|O próprio, com uma cara de nerd estereotipado]]
+'''Linus José de Almeida Cavalcante Torvalds''', vulgo Lili (Finlândia, [[1900 e guaraná com rolha|mil novecentos e garaná com rolha]]) é galardoado como sendo o criador do exército dos rebeldes que irá livrar a galáxia do império do mal liderado por [[Imperador Palpatine]].
+
+Fã de [[Mayhem]] (prefere o Mayhem das antigas porque o de hoje é muito Mainstream), [[Black Metal]] em geral e bebedor de cerveja [[Duff]], começou no mundo da informática quando seu pai lhe deu um dos primeiros computadores portáteis lançados na época, o [[Pense Bem]] da [[Glaslite]].
+
+Linus criou uma espécie de programa para o Pense Bem, para fazê-lo dizer mais coisas do que apenas "Sim" e "Não", ao ver o sistema de Bill Gates em um [[Telejogo Philco]], logo teria dito:
+
+{{c|Mas que grandescíssimo filho da puta!|Linus Torvalds|[[Bill Gates]]}}
+
+Tinha se cansado da dominação do [[Bill Gates]] e do [[Windows]], conhecido como '''Ruim'''dows pelo nerds.
+Pois bem, esse [[nerd]], filho da [[puta]] que nunca tinha trepado com ninguém pensou: Eu vou acabar com o infeliz do <s>Gaytes</s> Gates.
+E aí começou a dominação OPEN-SOURCE dos [[nerd]]s.
+Não se sabe o que levou esses seres, até esse ponto mas acha-se que a culpa é da Dercy Gonçalves.
+
+==Obra-prima:==
+Inicialmente desenvolvido para automatizar as jogadas de War no intuito de conquistar o território americano o [[Linux]] possui como mascote um pinguim chamado [[Tux]], que quando não está no polo norte é garçom em festa de 15 anos, baile de debutantes ou porta-bilhetes de geladeira.
+
+==Linus virou Linux:==
+O sistema veio da BIXA UNIX.
+Foi lançado em algum ano cujo qual não sabemos (infelizmente).
+Tem como símbolo o Primo do Lúcifer, um pinguim desgraçado chamado [[Tux]]
+
+==Só Nerds Usam:==
+Linux é um sistema que só NERDS usam.
+Por quê? Precisam responder? Por que nerds são espertos. Por isso.
+
+==O Criador do Linux morreu?==
+Ainda não, infelizmente, mas como dizem no mundo dele, ele não irá morrer.
+Simplesmente irá virar purpurina e viver feliz para sempre na Deep Web.
+
+==Fatos sobre Linus Torvalds:==
+[[Arquivo:Billg.jpg|thumb|right|Grande amigo de <s>Satã</s> {{PAGENAME}}, note seu sorriso diabólico!]]
+
+*Linus Torvalds não nasceu. Ele foi programado por ele mesmo em 1969. Desde então a qualidade dos softwares subiu 19.000%
+*O DNA de Linus Torvalds é totalmente em binário.
+*Linus Torvalds não aprendeu com a Universidade de Helsinki. A Universidade de Helsinki aprendeu com Linus Torvalds.
+*O primeiro programa escrito por Linus Torvalds tinha uma inteligência artificial.
+*Linus sabe a resposta para o 42.
+*Linus terminou o kernel antes do dia em que ele começou.
+*O kernel de Linus nunca dá kernel panic.
+*Linus não fez o Linux para rodar no Intel 386. A Intel fez o 386 para rodar o Linux.
+*Linus já fez o Linux 3.0. Só está guardando para criar um suspense.
+*Linus Torvalds está dominando o mundo. A Microsoft só existe para que ninguém suspeite de um simples programador finlandês.
+*A piada favorita de Linus Torvalds é 'Windows'
+*Linus Torvalds raramente fica furioso. Pois quando fica acontece 'kernel panic' em quase todos os computadores que usam o Linux.
+*Linus Torvalds já encontrou uma falha de segmentação no universo.
+*Linus Torvalds sempre está com razão. Algumas vezes mais que o necessário.
+*Linus Torvalds simplesmente sabe mais que você.
+*Linus Torvalds não precisa criar novas versões para os seus programas. Pois a inteligência dos seus programas procura melhoras automaticamente.
+*Linus Torvalds é a melhor definição para programação.
+*Linus Torvalds pode programar apenas usando a bolinha do mouse.
+*O cérebro de Linus Torvalds é Dual-Core.
+*Linus Torvalds não precisa de teclado, pois o seu computador sempre sabe o que ele irá precisar.
+*Linus Torvalds não precisa dar boot.
+*Linus Torvalds nunca recebe mensagens de erro. Jamais.
+*Linus Torvalds não precisa fazer backup. Ele apenas upa o seu arquivo, e deixa o mundo copiar.
+*Linus Torvalds não debuga, seus programas são sempre perfeitos.
+*Linus Torvalds só tem dois botões no seu teclado. '1' e '0'.
+*Linus Torvalds não usa o GCC. Ele escreve em binário.
+*O código source de Linus Torvalds se compila sozinho.
+*Linus Torvalds programa sem o teclado.
+*Linus Torvalds manipula os bits de seu HD com sua mente. (Na velocidade de 3500 YB/s).
+*Linus Torvalds pode acabar com a BSOD... em um Vista 64-bit.
+*Linus Torvalds navega apenas usando o netcat.
+*Linus Torvalds não precisa de interfaces.
+*Linus Torvalds não precisa de monitor. Ele pode detectar os sinais de vídeo apenas colocando o dedo no cabo VGA.
+*Linus Torvalds conseguiu hackear as leis da física. Agora o seu carro pode chegar a 50.000&nbsp;km/h.
+*Linus Torvalds consegue rodar o Linux no relógio de pulso e na tostadeira.
+*Linus Torvalds não precisa de antivírus. Os antí-vírus precisam de Linus Torvalds.
+*Não existe teoria de probabilidade. Apenas uma lista de eventos que Linus Torvalds permita que ocorra.
+*Linus Torvalda não dá descarga. Ele simplesmente diz 'make clean'.
+*Linus Torvalds não possui dependências.
+*Linus Torvalds fez uma lente de contato capaz de ver em 9D.
+*Linus Torvalds não possui a tecla BackSpace.
+*Linus Torvalds almoça reports de bugs. E janta vírus de computador.
+*Linus Torvalds não morre. Ele retorna Zero.
+*Linus Torvalds fez um programa que é capaz de dividir por 0.
+*A consciência de Linus Torvalds é totalmente em binário.
+*Linus Torvalds pode jogar jogos em 3D na sua própria cabeça, apenas interpretando o código fonte em tempo real.
+*Linus Torvalds já jogou o Half-Life 4. Em 1998.
+*Linus Torvalds fez um programa capaz de mostrar todas as casas do PI. Mas só vai divulgar quando alguém fizer um programa melhor do que os seus. As empresas de máquinas acharam mais viável gastar milhões em super-computadores.
+*Linus Torvalds não sincroniza o seu relógio com o mundo. O mundo sincroniza com o relógio de Linus Torvalds.
+*Linus Torvalds roda os jogos mais poderosos do mercado na sua calculadora, que é pra deixar outra empresa do ramo com inveja.
+*Linus Torvalds não precisa de antivírus. Ele apenas deixa escrito seu nome na área de trabalho.
+*Linus Torvalds só precisa dar uma olhada na área de trabalho pra saber quais sites pornô você visitou. Nos últimos 10 anos.
+*Linus Torvalds já programou uma máquina do tempo.
+*Linus Torvalds é o maior nerd da história.
+*Linus Torvalds já acessou a internet pelo Atari.
+*Linus Torvalds não precisa comprar processadores potentes. Ele apenas faz o download deles pela internet.
+*Linus Torvalds não se preocupa em atrasar, pois quando está, só precisa hackear a dimensão temporal, dando-lhe o tempo que precisa.
+*Linus Torvalds tem mais privilégios que o root.
+*Linus Torvalds fez o kernel do Linux apenas usando o binário. Depois transformou em C para benefício dos outros.
+*Linus Torvalds particiona o seu HD com uma faca.
+*Não existe Backspace no teclado de Linus Torvalds.
+*Linus Torvalds já contou até o infinito, duas vezes, até o negativo e positivo.
+
+== Ver também ==
+
+* [[Linux]]
+* [[Kernel]]
+* [[Software Livre]]
+* [[GNU/Chato]]
+[[Categoria:Empresários da Finlândia]]
+[[Categoria:Programadores da Finlândia]]
+[[Categoria:Ateus da Finlândia]]
+{{Linux}}
+
+[[cs:Linus Torvalds]]
+[[en:Linus Torvalds]]
+[[eo:Linus Torvalds]]
+[[fi:Linus Torvalds]]
+[[fr:Linus Torvalds]]
+[[pl:Linus Torvalds]]
+[[ru:Линус Торвальдс]]

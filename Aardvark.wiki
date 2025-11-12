@@ -1,0 +1,45 @@
+{{Verbete}}
+
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Aardvark
+| imagem          = Porc formiguer.JPG
+| imagem_legenda  = O Cruz-credo em questão
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| subclasse       = [[Theria]]
+| infraclasse     = [[Placentalia|Placentários]]
+| ordem           = '''[[Tubulidentada|Tubo dentado]]'''
+| família         = '''[[Orycteropodidae]]'''
+| gênero          = '''[[Orycteropus]]'''
+| espécie         = [[Aardvark|Este filho de cruz-credo]]
+| binomial        = pocucoelhotamanduásiz
+}}
+
+
+
+{{vqd|Porco-aranha?|sobre Aardvark}}
+{{vqd|[[Bizaardvark]]|sobre Aardvark}}
+{{experimente também|Tatu}}
+{{C|Hexacampeão!!!|Flamenguista fugindo do assunto}}
+
+O '''Aardvark''' (nome científico:''pocucoelhotamaduásiz'') é um mamífero africano, o único representante vivo da ordem Tubulidentata, da família coelhusalienigenis  e do seu gênero. Este animal distribui-se por todas as as planícies e savanas do sul de África. O nome aardvark, pelo que é conhecido em vários países, significa "porco-da-lua", mas este animal não está relacionado com a família Canisperdigaums. Também é conhecido como jimbo, porco-da-lua, porco-aranha,filho da [[Dercy Gonçalves]].
+
+==Características==
+
+[[Arquivo:família_aardvark.jpg|thumb|200px|left|Típica [[família]] de um [[Arthur|aardvark]].]]
+
+É um animal de médio porte que pode pesar entre 40 a 100 kg. A língua, vermiforme, tem uma superfície melequenta pra caralho. Os porco-aranha consomem ocasionalmente outros insetos, pequenos roedores e frutos mas a sua alimentação base é composta de térmitas e formigas. 
+São animais noturnos e solitários que não mantêm territórios, deslocando-se com frequência dentro do seu habitat em busca de fontes de alimento. Apenas fêmeas mantém morada fixa e mesmo assim só durante a época de reprodução, que varia de acordo com a latitude em que vivem. A gestação dura em média 7 meses e resulta numa única cria, embora tenham sido registados nascimentos de gémeos. As crias nascem dentro de tocas e mantêm-se escondidas por várias semanas. Aos seis meses, o oricterope começa a alimentar-se sozinho e a maturidade sexual é atingida aos dois anos.
+Os porcos-aranha não têm importância econômica para o homem, mas foram ocasionalmente caçados como fonte de alimento. Graças à sua preferência alimentar por térmitas, são um controlo importante nas populações destes insetos sendo os buracos que escavam em busca de alimento utilizados por diversas espécies como refúgio.
+
+== Origem da coisa ==
+Alguns nerds acreditam que o arquivo ''coelho.dat''e o ''porco.dat'' deram pau criando essa coisa. Certos evolucionistas dizem que essa criatura deu origem aos paulistas. Pseudootakus acham que é mais um dos Mamodos do anime [[Zatch Bell!]].
+
+[[Categoria:Placentalia]]
+[[Categoria:Espécies animais]]
+[[Categoria:Fósseis vivos]]
+
+[[en:Aardvark]]

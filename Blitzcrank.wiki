@@ -1,0 +1,70 @@
+{{máquina}}
+
+{{vqd|Máquina de Lavar Roupa?|Blitzcrank}}
+{{C|Acerta um puxão pelo menos.|Atirador|Blitzcrank vesgo}}
+{{C|Esse puxão é teleguiado!|Noob goleiro|Blitzcrank}}
+
+[[Arquivo:Blitzcrank.png|left|65px]]'''Blitzcrank''' é uma engenhoca que funciona a [[vapor]] criada por [[viktor|Viktor]] com o objetivo de rivalizar com a [[consul|Consul]] no mercado de [[máquina|máquinas]] de lavar [[roupa]]. Como campeão de [[league of legends|League Of Legends]], é um [[tanque]] cuja única utilidade é puxar seus [[inimigo|inimigos]], se ele não consegue puxar, ele fica inútil. Com maravilhosos gráficos extremamente [[quadrado|quadrados]],  Blitzcrank deseja que chegue logo o [[dia]] em que a [[riot Games|Riot Games]] o tornará um [[robô]] de [[verdade]] e não um [[golem]] de [[ferro]] vindo do [[minecraft|Minecraft]].
+
+== História ==
+[[zaun|Zaun]] sofreu uma [[invasão]] de [[cientista|cientistas]] [[maluco|malucos]] que queriam fazer seus experimentos extremamente perigosos em um lugar que não tivesse tantas [[lei|leis]] e normas como [[piltover|Piltover]], [[zaun|Zaun]] era o lugar perfeito para eles. Eles conseguiram [[fuder]] com [[zaun|Zaun]] desabando [[prédio|prédios]] e intoxicando os arredores. Alguém tinha que limpar a [[cagada]] que eles fizeram, então para esse [[papel]] construiram [[robo|robôs]] robustos a [[vapor]] para fazer o serviço [[sujo]] que os zaunitas não queriam realizar, muitos desses [[robo|robôs]] não sobreviviam a tarefa.[[Arquivo:Blitzfeio.png|right|thumb|Contemple os excelentíssimos gráficos de última geração pertencentes a Blitzcrank, olha que [[pé|pés]] mais bem feitos]]
+
+[[viktor|Viktor]] criou Blitzcrank como um protótipo de [[máquina]] de lavar [[roupa]] inteligente que faz tudo feito de um monte de sucata que ele encontrou jogado pelos becos de [[zaun|Zaun]]. Em [[zaun|Zaun]], essas [[máquina|máquinas]] faz tudo não existiam ainda e [[viktor|Viktor]] queria inventar uma dessas com a expectativa de vendê-las igual [[água]] no [[deserto]], já que nenhum zaunita nunca havia sequer visto uma dessas. O [[problema]] é que Blitzcrank não era inteligente como as outras [[máquina|máquinas]] concorrentes, afinal seu [[sistema operacional]] era o [[windows|Windows]] e não fazia muita coisa sem travar por muito [[tempo]]. [[viktor|Viktor]] decepcionado com seu fracasso, colocou Blitzcrank para fazer a caridade de limpar a [[cagada]] junto com os outros [[robo|robôs]] torcendo para que ele fosse destruído por algumas das substâncias nocivas que se encontravam nos locais de risco que Blitz iria fazer a faxina.
+
+Para a [[tristeza]] de [[viktor|Viktor]], Blitzcrank continuou intacto, só que Blitzcrank desenvolveu [[pensamento]] próprio. Quem diria que um [[robo|robô]] com [[windows|Windows]] seria capaz de pensar sem perder a [[linha]] do [[raciocínio]], afinal travar era rotina. Blitzcrank após assistir o [[desenho]] do [[super-homem|Super-Homem]], quis se tornar um [[heroi|herói]]. Contudo, sua [[programação]] estava limitada, o [[windows|Windows]] não lhe permitia fazer tarefas mais complexas sem parar de responder. Então ele resolveu mudar seu [[sistema operacional]] por conta própria. Ele desinstalou o [[windows|Windows]] e instalou uma variante do [[linux|Linux]] que por incrível que pareça, teve um desempenho melhor que o [[windows|Windows]] já que Blitzcrank não travou durante 10 segundos seguidos, um [[recorde]].
+[[Arquivo:Ripveigar.png|left|thumb|R.I.P [[veigar|Veigar]]]]
+Agora funcionando sem travar a cada segundo, Blitzcrank serviu como [[bombeiro]] apagando [[incêndio|incêndios]], socou a cara de [[bandido|bandidos]] e tentou namorar algumas [[máquina|máquinas]] pela [[cidade]], porém nesse último não teve sucesso, não existiria [[sistema operacional]] <s>nem [[aplicativo]]</s> que o ajudasse a arranjar uma [[namorada]]. Blitzcrank até tentou ser [[médico]], só que em vez de salvar, ele matava os pacientes. Então ele resolveu ficar com a parte de socar [[bandido|bandidos]] que era muito satisfatório. Logo ele ficou famoso em [[zaun|Zaun]] como um [[heroi|herói]]. [[viktor|Viktor]] vendo que sua criação agora era famosa por salvar [[vida|vidas]], deixou bem claro que ele era quem criou e quem deveria receber os créditos por todos os atos heroicos de Blitzcrank era ele. Ele foi linchado até Blitzcrank apaziguar todos.
+
+[[viktor|Viktor]] teve a brilhante [[ideia]] de tentar fazer outros [[robo|robôs]] como Blitzcrank, todavia não teve sucesso. Ele questionou Blitzcrank sobre como ele conseguiu realizar tais atos mesmo funcionando com um [[sistema operacional]] tão limitado e que trava tanto ([[windows|Windows]]), mas Blitzcrank não revelou seu [[segredo]] que é usar qualquer [[sistema operacional]] que não fosse criado pelo [[bill gates|Bill Gates]] e gerido pela [[microsoft|Microsoft Corporation]], uma [[empresa]] de [[preguiçoso|preguiçosos]].
+
+Blitzcrank permaneceu com [[viktor|Viktor]] até o momento que não aguentou mais [[viktor|Viktor]] implorando de joelhos querendo saber o [[segredo]] de Blitzcrank, porque [[viktor|Viktor]] queria ser um [[herói]] também, queria [[fama]], [[dinheiro]] e [[mulher|mulheres]]. De [[saco cheio]], Blitzcrank abandonou seu criador para proteger [[zaun|Zaun]]. Blitz acredita que [[zaun|Zaun]] tem um [[futuro]] muito promissor e que um [[dia]] será a maior [[cidade]] que todos já viram <s>iludido</s>.
+
+Durante essa [[vida]] de [[herói]], Blitzcrank se tornou um ícone de muita [[bondade]] em [[zaun|Zaun]], enquanto que seu criador [[viktor|Viktor]] não passava de um zero a esquerda que não tinha quem lavasse a [[roupa]] dele já que Blitz foi embora. Blitz sempre tentou, no entanto, nunca conseguiu uma [[namorada]] e por isso vive só o resto da [[vida]] dele.
+
+== Habilidades ==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+
+|'''Tecla'''||'''Habilidade'''||'''Imagem'''||'''Sobre'''
+|-
+|'''Passiva'''||'''Escudo de Mana'''||<center>[[Arquivo:Barreirademana.png]]</center>||Quando você pensa que está matando, essa [[praga]] ganha um [[escudo]] que é equivalente a 30% da [[mana]], ele é enorme e se ele comprar itens de [[mana]] se torna uma segunda [[vida]].
+ 
+|-
+
+|'''Q'''||'''Puxão Biônico'''||<center>[[Arquivo:Qblitz.png]]</center>||A habilidade que faz esse campeão ser útil, a grande e única [[razão]] de ele ser escolhido pelos [[jogador|jogadores]]. Ele dispara a [[mão]] [[direita]], que puxa o primeiro [[inimigo]] que atingir para pertinho dele. Algumas ''skins'' ajudam a acertar mesmo quando você erra. O grande [[problema]] dessa habilidade é ter que acertar, que é uma tarefa impossível para ferros e bronzes.
+                                                                                                              
+|-
+
+|'''W'''||'''Turbo'''||<center>[[Arquivo:Wblitz.png]]</center>||Blitzcrank ativa o motor [[nitro]] que ele instalou para lutar em [[league of legends|League Of Legends]] andando muito rápido e doido para socar a cara de seus [[inimigo|inimigos]], ganhando velocidade de ataque para arrebentar todo [[mundo]]. Só que como ainda existe resquícios do [[windows|Windows]] escondido em seu [[sistema]], ele para de responder andando muito lento tentando voltar a funcionar corretamente. Há boatos em que os [[olho|olhos]] de Blitzcrank ficam [[azul|azuis]], o que significa que ele sofreu com a [[tela azul da morte]].
+
+|-
+
+|'''E'''||'''Punho do [[poder|Poder]]'''||<center>[[Arquivo:Eblitz.png]]</center>||Ele fecha a [[mão]] e prepara para socar a [[cara]] do primeiro [[trouxa]] que aparecer em sua frente. O [[soco]] causa o dobro do [[dano]] e ainda joga ao [[ar]].
+
+|-
+
+|'''R'''||'''Campo Estático'''||<center>[[Arquivo:Rblitz.png]]</center>||'''Passivo''': Blitzcrank sendo um amontoado de sucata, sofre para regular a própria [[energia]] e constantemente sofre sobrecargas elétricas atingindo aleatoriamente [[inimigo|inimigos]] ao redor, o que é excelente para atrapalhar o atirador a ''farmar''. [[riot Games|Riot Games]] vendo esse defeito, resolveu fazer uns ajustes em Blitz. Agora Blitz canaliza a [[energia]] sobrecarregada em seu punho para quando atacar um [[inimigo]], eletrocutá-lo.
+
+'''Ativo:''' Ele descarrega toda a [[energia]] sobrecarregada que ele é incapaz de conter ou controlar, dando [[choque]] em todos ao redor.
+|}
+
+== Jogando Com e Contra ==
+
+=== Jogando Com ===
+A única razão de [[você]] escolher isso para jogar é o puxão, então pelo [[amor]] de [[Nossa Senhora do Artigo Deletado]] acerte essa habilidade. Esse campeão não é recomendado para [[cego|cegos]], [[vesgo|vesgos]] e [[noob|noobs]], então faça um favor para todos os [[jogador|jogadores]] de [[league of legends|League Of Legends]] e [[não|NÃO]] ESCOLHA ESSE [[boneco|BONECO]].
+
+Mas se quiser escolher, eis aqui algumas dicas: [[não]] puxe alguns campeões que poderão te matar como [[darius|Darius]] ou [[renekton|Renekton]], apenas se quiser se suicidar é [[claro]]. Entre numa [[moita]] e espere o primeiro [[trouxa]] que se aproximar para puxá-lo. [[você|Você]] deve ''buildar'' [[tanque]] para ele, mas se quiser ''trollar'' é melhor ''buildar'' itens de [[mago]].
+
+=== Jogando Contra ===
+A única coisa que [[você]] precisa fazer jogando contra [[ele]] é desviar do puxão. Uma [[técnica]] desenvolvida justamente para isso é a do zigue-zague: só andar de um [[lado]] para o outro feito um [[drogado]]. Use as tropas como seu [[escudo]], atrás delas [[não]] tem como ele te puxar.
+
+== Ver também ==
+*[[viktor|Viktor]]
+*[[zaun|Zaun]]
+*[[robo|Robô]]
+*[[windows|Windows]]
+*[[league of legends|League Of Bugs]]
+*[[riot Games|Riot Games]]
+
+{{league of Legends}}
+
+[[Categoria:Personagens de League of Legends]]

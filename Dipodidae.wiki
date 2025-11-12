@@ -1,0 +1,45 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Dipodídeos
+| imagem          = Mew.png
+| imagem_legenda  = Um tipo raro de dipodídeo
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| classe          = [[Mammalia|Mamadores]]
+| ordem           = [[Rodentia|Ruimdentia]]
+| família         = [[Dipodidae|Dipodídeos]]
+}}
+
+'''Dipodidae''' são uma família de ratinhos-saltadores e jerboas, todos espalhados por planícies, desertos, florestas e jaulas em formato de Mickey Mouse, embora ele não se chame "Mickey Jerboa". Estes pequenos roedores gostam de cavar e habitar tocas onde estocam frutas, fornicam alucinadamente, hibernam e magistralmente se encurralam perante seus predadores as serpentes.
+
+É considerado a única família de mamíferos do mundo que está livre da ameaça de extinção, por mais que suas espécies sejam continuamente caçadas para se extrair o óleo da carne e fomentar o mercado chinês de óleos aromáticos afrodisíacos, estes animais se reproduzem numa taxa tão acelerada de ninfomanismo que seu estoque na natureza nunca termina.
+
+== Anatomia ==
+
+Os dipodídeos são pequenos roedores em formato de bolinha de pelos, olhar inocente e dentes roedores. Camuflam-se perfeitamente como um amontoado aleatório de sujeira de bolos de cabelos.
+
+Os corpos de todos jerboas e ratos-saltadores são todos projetados para pularem, e talvez este seja o motivo deles serem chamados de "rato-saltador", enquanto o motivo do nome "jerboa" parece ter um significado um pouco mais pornográfico que não convém descrever aqui onde crianças podem ler. Estes corpos pequenos e ágeis saltam bem graças a presença de alongadas patas traseiras em formato de quebra-nozes que se alavancam dando impulso aos animais, e longas caudas em formato de mola que amortecem a queda.
+
+Porém, o principal destaque que diferencia os dipodídeos dos demais ratinhos convencionais e camundongos é a ausência completa de órgãos internos, ossos ou carne e músculos, existentes assim graças à seleção natural que beneficiou aqueles animais cada vez mais leves e livres de apêndices dispensáveis em seu corpo de anatomia simples e oco. Como estes ratinhos não comem, afinal eles não tem estômago ou qualquer sistema digestivo, eles morrem de fome no período de 1 ou 2 dias, tempo o suficiente para gerar uma prole de 50 novos ratinhos criando esse [[O Rei Leão|ciclo sem fim]], lembrando que se observar um rato-saltador ingerindo sementes ou insetos, ele faz isso só por curiosidade e não para se alimentar.
+
+== Gêneros ==
+
+* '''[[Sicista]]''' - ratos-do-vidoeiro
+* '''[[Eozapus]]''' - rato-saltador-chinês
+* '''[[Napaeozapus]]''' - rato-saltador-silvestre
+* '''[[Zapus]]''' - ratos-saltadores
+* '''[[Allactaga]]''' - jerboas
+* '''[[Allactodipus]]''' - jerboa-de-bobrinski
+* '''[[Pygeretmus]]''' - jerboas-de-cauda-gorda
+* '''[[Cardiocranius]]''' - jerboa-pigmeu-de-cinco-dedos
+* '''[[Salpingotulus]]''' - jerboa-pigmeu-do-baluchistão
+* '''[[Salpingotus]]''' - jerboas-pigmeus
+* '''[[Dipus]]''' - jerboa-de-três-dedos-do-norte
+* '''[[Eremodipus]]''' - jerboa-de-lichtenstein
+* '''[[Jaculus]]''' - jerboas-egípcios
+* '''[[Stylodipus]]''' - jerboas-de-três-dedos
+* '''[[Paradipus]]''' - jerboa-de-dedos-em-pente
+* '''[[Euchoreutes]]''' - jerboa-orelhuda
+
+[[Categoria:Rodentia]]
+[[Categoria:Dipodidae|*]]

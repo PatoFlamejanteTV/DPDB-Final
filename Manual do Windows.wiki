@@ -1,0 +1,113 @@
+''Aviso legal: Site melhor visualizado com o <s>[[monitor]] ligado</s> com o [[Opera]]
+
+==Introdução==
+1. Pressione quando solicitado '''Ctrl + Alt + Delete'''
+
+===Boot normal no Windows=== 
+
+[[Arquivo:Blue screen.png|thumb|400px|right|Situação de uso normal do Windows]]
+'''//windows está veificado discos rígidos'''
+
+'''//'''
+
+'''//1% concluido - restando 40 minutos'''
+
+'''//'''
+
+'''//um erro fatal foi encontrado em c:\windows\[[system32]]'''
+
+'''//'''
+
+'''//informações técnicas:'''
+
+'''//   erro 0157-bf7ff831'''
+
+'''//   série 1147548'''
+
+'''//   2009 (c) Microsoft Corporation. Todos os direitos reservados.'''
+
+'''//'''
+
+'''//'''
+[[Arquivo:CAD para teclados.JPG‎|thumb|400px|right|Ferramenta usada pelos usuários do Windows (Touch Trocha).]]
+'''//O windows terá que ser reiniciado'''
+
+'''//Teclado desconectado'''
+
+'''//Pressione qualquer tecla para continuar'''
+
+'''//ou CTRL +Alt + Delete'''
+
+==Usando o Windows==
+
+Windows Fatal Error. Press CTRL+Alt+Del para reiniciar.
+
+==Ínicio==
+''Se você rezou muito e conseguiu iniciar o Windows sem erros você irá se deparar com uma 
+grande <s> tela azul </s> tela chamada de Área de Trabalho.''
+
+==Área de Trabalho==
+''A segunda tela mais vista no Windows, só perdendo para a [[Tela Azul da Morte|tela azul]].
+''
+
+==Menu Iniciar==
+''Serve para ver os programas que você deveria usar mais que sempre dão erros quando você clicka 
+neles.mas agora ja nao vai ter esse problema o vista ultimate ja nao trz nada destes problemas novos faço um novo download e vera com os seus proprios olhos que nao estou mentindo ''
+
+
+AVISO: O cara que escreveu esse trecho não sabi falá portuguêis. O cérebro dele é gerenciado pelo windows e o fez engolir as vírgulas. E ainda é tão burro que fala que o Vista não tem problemas.
+'''
+
+'''
+DEPOIMENTOs:
+Luis: Mas na verdade o Windows não é ruim, tenho ele a anos e nunca deu problema. Qualquer dia desses eu o tiro da caixa para Instalar.
+Ana: O que significa Windows?
+Jack: Manipulação!
+Igor: Merda!
+Matheus: O Windows Vista não é ruim tá(é pior) , ele nunca exibiu a tela azul da morte aqui em casa. Também antes disso aparece uma tela preta com códigos antes do Boot.
+Loira: Quem?(tua mae)
+Gabriel: Jah viram o Windows Ultimate Red? Ele é feito para ajudar as pessoas na África. Tio Bill foi passar suas férias na África do sul!
+Admistrador: Deixa eu continuar meu artigo? ¬¬
+Loira: Q bunitinhu "¬¬"! :)
+Admistrador...
+
+==Relógio==
+''Serve para ver quanto tempo você ficou sem reiniciar o sistema. Mas não adianta usar pra ver que horas sua mãe chega, porque sempre marcará 666. E se você tentar ajustar, a [[Tela Azul da Morte]] vem dar boas vindas pra você!
+
+==Lixeira==
+''Unica coisa realmente útil no sistema. Recomenda-se jogar algum lixo dentro, de preferência o Windows ou qualquer outra porcaria semelhante (se houver né...)
+
+==Meus Documentos==
+
+''Serve para guardar suas ameaças para seu chefe (*.doc), calcular o restante do seu salário (*.xls), tudo isso e muito mais. Pena que misteriosamente seus arquivos vão parar no c:\recycle sem você saber.''
+
+==Desktop==
+
+''Usa área que você não consegue fazer nada, pois o Active desktop faz uma aliança com o user.exe e causa um caos, terminando na tela azul, ou em sua morte.''
+
+==Barra de tarefas==
+
+''Serve para quando você iniciar os programas no Windows (se possível) aparecer um botão do programa aberto para você clicar para minimizar e clicar de novo para restaurar a janela.
+
+==Internet Explorer==
+
+{{explorer}}
+
+==Windows Media Player==
+
+Windows Media Player parou de funcionar. Procurando uma solução...
+Nada encontrado, enviar relatório de erro?
+
+Envia para eles contarem mais um usuário trouxa do Windows.
+
+==WinFilp3D==
+
+Windows Erro: use... a vocÊ já sabe!
+
+==Windows 7==
+
+Sai a versão RC do [[Windows 7]] totalmente remodelada e agora é com o dedo, enfie seu dedo e esfrege avontade. O Windows 7 não possui tela azul da morte, o Windows simplesmente trava tudo, nem o botão desligar funciona, é uma Beleza!
+
+[[Categoria:Informática]]
+[[Categoria:Microsoft]]
+[[Categoria:Coisas de nerd]]

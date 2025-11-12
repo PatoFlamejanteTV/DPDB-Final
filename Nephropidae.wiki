@@ -1,0 +1,54 @@
+{{taxocaixa
+| nome           = Nephropidae
+| cor            = #DC143C
+| imagem         = Lobster fight.png
+| imagem_legenda = Lagosta da esquerda obviamente esqueceu do velho dito lagostês que diz "nunca traga uma arma para uma briga de faca de lagostas, afinal não temos polegar opositor para puxar o gatilho de uma arma com eficácia" 
+| reino          = [[Animalia]]
+| filo           = [[Arthropoda|Artrofoda]]
+| subfilo        = [[Crustacea|Frutos-do-mar]]
+| classe         = [[Malacostraca|Malacabados]]
+| ordem          = [[Decapoda|Dez patas]]
+| subordem       = [[Pleocyemata|Playcenter]]
+| infraordem     = [[Astacidea|Otarioea]]
+| família        = [[Nephropidae|Necrosidae]]
+}}
+
+'''Nephropidae''' é a família de animais que compreende as '''lagostas comuns''', sendo elas caracterizadas especialmente por suas garras, suas antenas, seu exoesqueleto crocante, e um número alarmante de pernas.
+
+É um equívoco comum das pessoas acharem que as lagostas são de cor vermelha, quando na verdade elas são de um tom marrom-alaranjado profundo. Este mito decorre do fato de que as lagostas são muitas vezes vistas enquanto estão cobertas pelo sangue de seus inimigos, que muitas vezes sofrem de mortes relacionadas com beliscões horríveis desferidos pelas garras das lagostas. Os seres humanos muitas vezes resolvem o problema de garras perigosas das lagostas colocando uma única faixa de borracha frágil em torno de cada garra, tornando a lagosta imediatamente inofensivo e incapaz de executar o seu movimento de ataque típico, que é o "agarrão na ponta do nariz de alguém".
+
+== Anatomia ==
+
+A maioria dos apêndices não sexuais da lagosta servem para pelo menos uma função especializada, tornando-os os crustáceos mais evoluídos de todos. As garras longas e grandes são usadas para a caça, bem como defesa contra predadores, e claro, para agarrar o nariz das pessoas que se aproximem demais.
+
+Suas pernas são muito úteis para caminhar no substrato debaixo d'água, ou mesmo para dançar sapateado. As lagostas, todavia, nunca foram treinadas para dançar, algo que se for feito certamente se tornaria um incrível vídeo viral no youtube.
+
+Quanto à cauda, além de servir de alimento para os outros, as lagostas as usam para rastreamento de ressonância magnética distante.
+
+O macho sempre possui um bigode que é usado para suavemente acariciar e despir as lagostas do sexo feminino. As garras também são ideais para levantar as saias uns dos outros para identificar o sexo do parceiros, pois os lagostos machos também usam saias.
+
+A sua carapaça endurecida pode parecer que está lá para a proteção, mas sua principal função é, na verdade, gerar aquele estalo legal quando você os mastiga. Sem esse recurso importante, estima-se que comer uma lagosta poderia ser até 38% menos divertido.
+
+Já as antenas são utilizadas para receber transmissões interplanetárias de algum tipo de lordes soberanos de algum lugar desconhecido por humanos ainda.
+
+== Gêneros ==
+
+* '''[[Acanthacaris]]''' - lagosta-pulga
+* '''[[Eunephrops ]]''' - lagostas-vermelha-do-caribe
+* '''[[Homarinus]]''' - lagosta-do-cabo
+* '''[[Homarus]]''' - lagostas-americanas e lagostas-europeias
+* '''[[Metanephrops]]''' - lagostas-scampi
+* '''[[Nephropides]]''' - lagosta-mitene
+* '''[[Nephrops]]''' - lagostas-cara-de-camarão
+* '''[[Nephropsis]]''' - lagostas-rosa
+* '''[[Thaumastocheles]]''' - lagostas-de-torquês
+* '''[[Thaumastochelopsis]]''' - lagosta-de-torquês-australiana
+* '''[[Thymopides]]''' - lagostas-de-água-profunda
+* '''[[Thymops]]''' - lagosta-da-patagônia
+* '''[[Thymopsis]]''' - lagosta-das-falklands
+
+[[Categoria:Astacidea]]
+[[Categoria:Nephropidae|*]]
+
+[[en:Lobster]]
+[[zh:龙虾]]

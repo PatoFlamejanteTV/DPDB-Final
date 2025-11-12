@@ -1,0 +1,114 @@
+<css>
+A:background {
+    color: black;
+}
+A:link {
+    font-weight: bold;
+    color: red;
+}
+A:visited {
+    font-weight: bold;
+    color: red;
+}
+A:hover {
+    font-weight: bold;
+    color: white;
+    text-decoration: underline;
+}
+#siteNotice {
+    display: none;
+}
+* #content {
+    background: red;
+}
+h1 {
+    color: white;
+    background-color: black !important;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}
+#bodyContent {
+    background-color: black;
+    color: red;
+    padding: 15px;
+    border-radius: 5px;
+}
+h2, h3, h4, h5, h6 {
+    color: red;
+}
+.link-cores {
+    color: red !important;
+}
+.link-cores:hover {
+    color: red !important;
+    text-shadow: red 1px 1px 2px !important;
+    font-weight: bold;
+}
+.container {
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+    background-color: #111;
+    padding: 20px;
+    border-radius: 10px;
+}
+.text-white {
+    color: white;
+}
+.text-red {
+    color: red;
+}
+</css>
+
+<choose>
+<option>{{DISPLAYTITLE:Ordem Hermética da Gnose inalcançável}}</option>
+<option>{{DISPLAYTITLE:Espelho de Aleister Crowley}}</option>
+<option>{{DISPLAYTITLE:Hermes Trismegisto}}</option>
+<option>{{DISPLAYTITLE:Aeons 256}}</option>
+</choose>
+
+{{trevas}}
+{{Box Politico
+|imagem       = Hermes Trismegisto.jpg
+|origem       = Provavelmente [[Heliópolis]], [[Egito]]
+|cargo        = Três Vezes Maior do {{Egito}}
+|nivelhonesto = {{099}} '''Homem íntegro'''
+|sexo         = {{Icon_mas}}
+|nivel        = Pai fundador do hermetismo
+|vicios       = Gnose
+|musica       = [[DSBM|BDSM]], [[UDR 666]]
+}}
+{{cgoogle|[[Demiurgo?]]}}
+{{pesquisar|A [[Gnose]] pode mudar a sua vida.}}
+{{experimente|[[Aleister Crowley]]
+{{c|O que está em cima é como o que está embaixo; e o que está embaixo é como o que está em cima, para realizar os milagres de uma coisa só.|Hermes Trismegisto|os leitores de sua página.}}
+{{c|Eu matei o [[Raul Seixas]] após ele romper comigo.|[[Paulo Coelho]]| fazendo afirmação chocante.}}
+
+{{nota:|Talvez você tenha encontrado um artigo muito sombrio.}}
+
+'''Hermes Trismegisto''' ([[Egito|Egíptio]] lendário, provavelmente nasceu antes de existirem calendários confiáveis, ou seja, há muito tempo atrás, possivelmente quando dinossauros ainda estavam estudando filosofia), também conhecido como “O Cara que Sabia de Tudo Antes de Todo Mundo”, é um [[filósofo|mestre esotérico]] que conseguiu enganar a História inteira fazendo parecer que sabia alquimia, astrologia e até matemática que ninguém precisava.
+
+Seus feitos incluem escrever a famosa [[A Tábua de Esmeralda|Tabula Smaragdina]] (ou Tábua Esmeralda), basicamente um manual de “como falar de coisas misteriosas sem dizer nada concreto”, e confundir gerações de estudiosos com frases tipo: “O que está em cima é como o que está embaixo”, que ninguém entendeu de verdade, mas todo mundo finge que sim para parecer intelectual.
+
+<h1 class="text-white">Carreira na Sabedoria</h1>
+Hermes começou cedo, enganando deuses e faraós, provavelmente enquanto eles estavam ocupados contando pirâmides ou inventando a roda. Sua principal especialidade era transformar qualquer assunto em algo místico, cobrando caro em credibilidade e fama. Dizem que ele era tão bom que conseguiu misturar deuses egípcios com deuses gregos sem ninguém perceber que estava só juntando mitologias para ter material de marketing espiritual.
+
+<h1 class="text-white">Contribuições Para a Humanidade</h1>
+Entre seus grandes feitos, Hermes inventou:
+
+* [[Alquimia]] – basicamente química com glamour e promessas de ouro instantâneo.
+* 
+* [[Astrologia]] – adivinhação de futuro, que funciona tanto quanto lançar dados e esperar que façam sentido.
+* 
+* [[Hermetismo]] – a arte de escrever textos que parecem profundos, mas na verdade ninguém consegue usar pra nada.
+
+<h1 class="text-white">Controvérsias</h1>
+Apesar de ser venerado como “três vezes grande”, Hermes também colecionou haters. Alguns estudiosos afirmam que ele era só um charlatão muito carismático que sabia escrever em papiro e usar palavras difíceis. Outros juram que ele realmente tinha poderes místicos. A verdade? Provavelmente ele só tinha um bom marketing e uma barba impressionante.
+
+<h1 class="text-white">Legado</h1>
+Hoje, Hermes Trismegisto é citado por qualquer pessoa que queira parecer sábia, seja em livros de ocultismo, cursos de autoajuda mística ou memes de internet. Sua maior lição para a humanidade é simples: se você escrever algo confuso o suficiente, todo mundo vai achar que você é gênio.
+
+[[Categoria:Místicos do Egito]]
+[[Categoria:Pessoas cuja existência é contestada]]
+{{CS}}{{CS-Topo|[[Arquivo:Hermes mercurius trismegistus .jpg|100px]]<br/>deuses e charlatões do [[Egito]]|green}}

@@ -1,0 +1,40 @@
+{{vegetal}}
+
+{{taxocaixa
+| nome           = Mexerica
+| cor            = #00FF7F
+| imagem         = Tangerina aloprada.jpg
+| imagem_legenda = A tangerina aloprada
+| reino          = [[Plantae|Plantinhas]]
+| superdivisão   = [[Spermatophyta|Plantas com esperma]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Eudicotidae|Eudissecotia]]
+| subclasse      = [[Rosídeas|Rosinhas]]
+| ordem          = [[Sapindales|Salpicadas]]
+| família        = [[Rutaceae|Arrotae]]
+| gênero         = [[Citrus (gênero)|Energil C]]
+| espécie        = [[Laranja (fruta)|Laranja]]
+| binomial       = Energil C reticulada
+}}
+
+A '''tangerina''', do grego ''Tangencius'', é uma espécie de [[laranja]] sintética, igualmente redonda, muito doce, aromática e com sabor característico, criada em laboratório por [[Albert Hofmann]] em 1938, a partir de restos de pneus usados, benzina e creolina. A real intenção de Albert era criar uma droga poderosa disfarçada de laranja, para enganar os pais dos viciados em [[Fortnite|Fortnai]]. A experiência não teve tanto sucesso.
+
+==Discussão==
+E paulista que é paulista chama a ''tangerina'' de '''mexerica''', orra meu!
+
+E gaúcho que é gaúcho chama a ''tangerina'' de '''bergamota''', bah tche!
+
+E português que é português chama a ''tangerina'' de '''Laranja'''
+
+==Onde é popular?==
+A tangerina é muito popular em países da [[América Latina|América Latrina]] e Leste Europeu, onde é usada para fazer chá e refrigerantes ice tea de sabor a pila. Ela possui um tempo de validade muito superior à da laranja comum, podendo chegar aos [[19]] anos de idade. Depois disso costuma ser espremida ou abusada. O consumo exagerado de tangerina pode causar rouquidão, secura interna, sede e pode ter um efeito de viagra fora de prazo. Aliás, quanto mais se toma suco de tangerina, mais se fica com sede. É o efeito da benzina atuando nos fluidos internos de Thanos.
+
+{{esboço}}
+
+{{Frutas}}
+
+[[Categoria:Citrus]]
+[[Categoria:Espécies vegetais]]
+
+[[en:Tangerine]]
+[[fi:Klementiini]]

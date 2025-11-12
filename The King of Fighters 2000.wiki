@@ -1,0 +1,135 @@
+{{game}}
+
+{{Infobox Game
+|title     = Têquinqui 2000
+|image     = The King of Fighters 2000 cover.png
+|caption   = Capa do jogo. Arte que demonstra o maior ênfase na relação entre os personagens
+|developer = [[SNK]]
+|publisher = [[SNK]]
+|released  = [[2000]] (sério!?)
+|genre     = porradaria
+|rating    = 8/10
+|platform  = [[Arcade]]s, [[Neo-Geo]] e [[PS2]]
+|ages      = Livre
+}}
+
+{{c|Já vi isso em algum lugar|Você|gráficos de The King of Fighters 2000}}
+{{c|Joe, Seth e Another Iori são os melhores strikers. Não vale escolher eles|qualquer um querendo um duelo mais justo}}
+{{C|Filho duma égua! Spamar cascudo do Kyo não vale!|Pivete de fliperama inconformado}}
+{{C|Só na rasteirinha do Lin! Não vale!|Outro pivete de fliperama reclamando de mais uma apelão}}
+{{C|Não vale Another Iori de Striker!|Cagação de regra no fliperama}}
+{{c|Faiz o trúqi pá cata da mina do gelo escroto!|Pivetinhos do Fliperama|[[Kula Diamond|mina do gelo escroto]]}}
+{{c|Quando é que eu vou ter importância de novo nessa porra ???|Kyo|K' roubar o protagonismo}}
+{{C|Saudações. Isto é o começo de um evento inesquecível. Eles me chamam de... Zero! Eu preciso de todos vocês para carregar o Canhão Zero. Há um gerador aqui embaixo. Toda vez que eu luto com alguém... Ele é carregado com energia. E eu usarei a sua energia para começar uma Nova Ordem! NESTS? Uma mera faixada. O criador da Nova Ordem não é a NESTS, sou eu! Acabar comigo? Parar o Canhão? Tente, SE VOCÊ FOR CAPAZ!!!|Zero|botar medo em geral e trair o movimento NESTS}}
+{{C|A NESTS nunca vai ser derrotada por um imbecil como [[você]]|[[Foxy]] e [[Diana]]|[[Kula Diamond]] destruir a base do [[Zero]] e toda Southtown com o canhão que Zero projetou}} 
+{{C|Vamos fazer isso de novo. Se você conseguir se recompor.|Vanessa|{{strike|dar o toba}} arrebentar com todo mundo}}
+{{C|Como aquela guria retardada consegue ficar no espaço sideral, sem roupa de astronauta, e ainda consegue respirar?|Noiado|[[Kula Diamond]]}}
+
+'''The King of Fighters 2000''' é o sétimo jogo da série [[The King of Fighters]] e o primeiro sem o [[apóstrofe]] no título graças ao [[bug do milênio]] que baniu essas coisas, o último jogo criado pela [[SNK]] antes de falir e virar a Playmore (que faliu e virou SNK de novo, então nem foi o último). Usando os mesmos gráficos de [[The King of Fighters' 94]], com os personagens tendo quase os mesmos golpes de sempre, esperava-se que a série fosse para o saco (aliás, todo ano espera-se...), mas KOF 2000 tinha seu trunfo: [[Geese Howard|GEEEEEEEEEEEESE!!!]] (embora só de Striker).
+
+== Desenvolvimento ==
+
+[[Arquivo:KOF 2000 bug.png|thumb|left|Um tipo de bug bem comum que acabou se tornando inevitável.]]
+
+Como a SNK estava falindo junto com o [[Neo-Geo]], para a criação de seu último jogo não foi visado gerar lucros, pois os desenvolvedores sabiam que qualquer lucro seria embolsado por seus credores, então a ideia era fazer um jogo altamente tosco com clima melancólico de despedida. Não foi inserido, portanto, nenhum capricho, os cenários são em sua maioria estáticos e quase todos no meio de lixões e lugares velhos, para transparecer o clima melancólico na SNK.
+
+Houve novamente uma maior atenção para a história, então sobrou menos tempo para criar um jogo bom como [[The King of Fighters '98]] que tem atenção aos detalhes e maior balanceamento, por isso há menos animações de introduções, poses de vitória e golpes e mais desenhos de historinhas.
+
+== Jogabilidade ==
+
+Pela mais pura falta de criatividade a falida SNK nem se deu ao trabalho de criar um novo sistema de luta depois de 1999 então basicamente continua tudo a mesma coisa. A única diferença é que agora a esquiva [[Dark Souls|é na rolada]] e não mais naquele dash escroto.
+
+Como tem uns 50 strikers, que trazem mais sprites para a tela, o jogo é também muito mais bugado e desequilibrado sendo impossível de ser jogado confortavelmente em alto nível, principalmente porque agora se você for minimamente decente "estourar a barra" é sinônimo de vitória, já que agora essa estourada derruba o adversário, aí é só chamar o striker de pegar no chão, encaixar um combo e finalizar com um especial e pronto, mais um noob mandado pro saco com o Counter (a estourada de barra que te deixa rosa). Sendo ainda possível a estourada de barra que te deixa amarelo, a Armor, que é boa para os noobs ao transformarem chutinhos em apelações.
+
+Nessa jogo agora os Strikers podem ser chamados a qualquer momento, e os diabos entram na tela mesmo que você esteja golpeando, pulando, agarrando, restaurando barra, um inferno. Só no especial e na defesa não dá pra chamar esses cretinos.
+
+== Enredo ==
+
+Anteriormente, [[K']], o clone de [[Kyo Kusanagi]] que não se parece nada com o Kyo, ficou puto e decidiu descer a porrada nos membros da [[NESTS|Nestlé]], não para salvar o mundo, mas apenas para se divertir descendo a porrada em lutadores de verdade.
+
+Para aumentar ainda mais a diversão de K', os mocinhos também estavam atrás dele devido a sua insensível cruzada contra os Ninhos ao redor do mundo e os incêndios florestais que isso acarretava. A equipe mercenária ''Ikari Warriors'' decidiu patrocinar um novo torneio para atrair a atenção de K' e dos Ninhos, e assim prender ambos. Os lutadores porém estavam com medo de ter [[Krizalid|suas forças drenadas de novo]] e ficaram com o [[cu]] na mão, mas depois que foi oferecido o prêmio de [[1]] milhão de reais em barras de [[ouro]], todo mundo esqueceu o provável risco de vida e foi para a porrada...
+
+Enquanto isso, os funcionários da Nestlé estavam putos da vida com o [[Dado Dolabela|maldito traidor do movimento]], e agora precisavam <s>arrumar uma namorada para ele</s> eliminá-lo de vez. Diversos cientistas começaram a fazer experiências genéticas com o DNA Kusanagi para criar um novo lutador, talvez um Kyo-3 ou um Another Kyo, mas acabaram cometendo diversas falhas, criando apenas o [[Charmander]]. Um dos cientistas do grupo, cansado das falhas acabou esquecendo um dos vidrinhos na geladeira da cozinha durante o almoço, e ao se lembrar da amostra, 2 meses depois, ele notou que ela estava congelada. Após o difícil processo de descongelamento, eles notaram que o DNA havia se modificado, e o injetaram em uma [[Kula Diamond|guria que estava passeando nos corredores]]. Depois disseram que tudo isso estava planejado, e até inventaram um nomezinho ao projeto, "Anti-K'".
+
+Outro membro do cartel, vocalista do [[Queen]] de sobrenome [[Zero (KOF)|0]], decidiu que era mais foda que todo mundo e [[Dado Dolabela|traiu o movimento NESTS também, roubando para si o DNA Kusanagi]], ameaçando botar pra foder com sua arma espacial fodástica, o Zero Cannon. Os NESTS não são bestas de ficarem só assistindo, decidem mandar Kula atrás dele, e se possível pegar o K' também como [[Bonus Game|bônus]].
+
+Kula acaba encontrando [[K']] e o romance obviamente acontece, afinal um bad boy grosseiro é tudo que uma garotinha fofa precisa, mas é claro que os dois brigam também e K' obviamente ganha, pois a SNK sempre preferiu [[fogo]], e assim K' vai sozinho tentar impedir o vilão 0. Kula, depois de apanhar do K', ainda consegue subir num foguete, chegar ao Zero Cannon, ir ao espaço sideral, dispará-lo contra a base de Zero, destruir [[southtown]], cair de lá de cima E SOBREVIVER. Tudo sem roupa de astronauta.
+
+== Personagens ==
+
+[[Arquivo:Kof2kkula-27.gif|thumb|Kula Diamond respirando no espaço sideral. Não tente fazer isto em casa.]]
+
+* '''Hero Team''' (apesar do nome, só malandro e malfeitor)
+** '''[[K']]''' - Um espancador de criancinhas e ladrão de protagonismo. Os fãs mais antigos de KOF o odeiam porque ele não é emo, nem viado, e isso pesa muito no preferencial do jogador tradicional. Mas é bem aceito pelos fãs novos, é como um detentor de magia de fogo deveria se comportar.
+** '''[[Maxima]]''' - Robô bombado que continua sendo o mero substituto de Goro Daimon.
+** '''[[Ramon (KOF)|Ramon]]''' - Um mexicano fumante que pratica [[luta livre]], por isso é bem fraco, já que é mais dançarino do que lutador. Usa o mesmo tapa-olho do [[Sagat]], resultado de acidente num [[bukkake]].
+** '''[[Vanessa (The King of Fighters)|Vanessa]]''' - Versão gostosa e sexy do inútil do [[Heavy D!]], mostrando que o problema de certos personagens é só a falta de carisma e ausência de seios mesmo, porque ela é uma pugilista cheia dos róris, chatíssima de enfrentar.
+
+* '''Fatal Fury Team'''
+** '''[[Terry Bogard]]''' - Continua ali só fazendo volume mesmo.
+** '''[[Andy Bogard]]''' - Assumiu de vez a homossexualidade, dando gritinhos ainda mais histéricos, a Mai Shiranui finalmente pareceu desistir dele.
+** '''[[Joe Higashi]]''' - Apelão só quando é Striker.
+** '''[[Blue Mary]]''' - Um noob usando ela apanha feio, mas um viciado trucida os noobs com o tanto de róris e pegadas que essa cretina tem. Substituiu a Mai Shiranui porque apesar da Mary ter um dos maiores peitos da série ela se acha homem e não se sentia bem no time das mulheres, vindo para o time de Fatal Fury.
+
+*'''Art of Fighting Team'''
+** '''[[Ryo Sakazaki]]''' - Cada vez mais nerfado, lento, fraco e esquecido, acabou de vez com sua carreira quando seus golpes não conseguem combar com praticamente nenhum striker, seu soco forte está mais lento e dando mais brecha do que nunca, o deixando bem inútil e quase nunca escolhido.
+** '''[[Robert Garcia]]''' - Assumiu de vez que é o [[Guile]] do KOF, repleto de antiaéreos e aquele andar saltitante. Todo cheio dos facão e gilete, solta até [[Alec Full]].
+** '''[[Takuma Sakazaki]]''' - Trouxeram ele de volta sem nem se preocupar com designs novos. Ele é capaz de soltar um [[Ao Soboguen]] que, embora não tire nem 30% do life do oponente, consegue refletir um tiro do Zero Cannon que é capaz de dizimar cidades inteiras. A explicação para algo absurdo desse tanto é que isso de defletir um tiro de canhão de destruição em massa ocorreu no final do jogo e no final do jogo até Rugal morre, ou seja, tudo pode acontecer...
+** '''[[King (Art of Fighting)|King]]''' - Estranhamente, após finalmente cortar o pinto, ele decidiu sair do time das mulheres, vai entender. Mas agora está melhorado(a), com um GUEROPAI que não some e vários agarrões.
+
+*'''Ikari Warriors Team'''
+** '''[[Leona]]''' - Plenamente recuperada das drogas, desta vez ela não fica apenas assistindo a tudo, agora ela se deu ao trabalho de deixar sua arma espacial ser tomada por um terrorista louco.
+** '''[[Ralf e Clark]]''' - Os irmãos da música sertaneja, já não eram tão escolhidos e ainda foram piorados.
+** '''[[Whip]]''' - Irmã do K', outra que foi apenas piorada.
+
+*'''Psycho Soldiers Team'''
+** '''[[Athena Asamiya]]''' - Apelona como sempre, a rainha do rasteira->magia.
+** '''[[Sie Kensou]]''' - Incapaz de fazer suas macumbas, agora está ali apenas para servir de material yaoi com Bao.
+** '''[[Bao]]''' - Serve apenas pra ficar dando rasteira->magia. Nada além disso.
+** '''[[Chin Gentsai]]''' - Lendário Veio bebô apelão da porra.
+
+*'''Benimaru Team'''
+** '''[[Benimaru Nikaido]]''' - Virou líder de time agora, chamou três lunáticos para o acompanhar.
+** '''[[Shingo Yabuki]]''' - Cosplayer de Kyo.
+** '''[[Lin]]''' - Reptile cover, um lunático maníaco que cospe veneno. Quando fica brilhando em amarelo diga adeus, ele vai te vencer só nas rasteirinhas.
+** '''[[Seth (The King of Fighters)|Seth]]'''  - Espécie de Krauser negão, saiu do escritório direto pra porrada, um grande apelão das travas e striker que faz noob chorar.
+
+*'''Women Fighters Team'''
+** '''[[Kasumi Todo]]''' - Fofinha peituda.
+** '''[[Yuri Sakazaki]]''' - A cópia do Ryu, continua com aquele golpe de dar a bunda pro adversário.
+** '''[[Mai Shiranui]]''' - A rainha dos hentais, a SNK caprichou na animação do balançar de seus seios, ela voltou para o time de onde nunca deveria ter saído. Em contras ela é péssima e quem escolheu ela vai perder, pois a ideia é evitar sua presença em torneios altamente competitivos onde pode escandalizar mães e patrocinadores.
+** '''[[Hinako Shijo]]''' - Uma piveta loira lutadora de sumô com anorexia.
+
+*'''Korea Team'''
+** '''[[Kim Kaphwan]]''' - Continua a sua incansável luta em reformular os dois criminosos Chang e Choi.
+** '''[[Jhun Hoon]]''' - Ficou menos roubado agora que removeram aquele chute médio dele, mas os malditos pisões ainda estão lá.
+** '''[[Chang Koehan]]''' - Quem escolhe o Chang vai apanhar até ele ficar amarelo de armor, quando se torna invencível.
+** '''[[Choi Bounge]]''' O mini-Freddy Krueger, piorado mas continua insuportável.
+
+*'''Personagens Ignorados'''
+** '''[[Kyo Kusanagi]]'''
+** '''[[Iori Yagami]]'''
+
+*'''Sub-Chefe'''
+** '''[[Kula Diamond]]''' - A futura mina do [[K']] e único ser vivo capaz de respirar no espaço, e sobreviver a uma queda de tal lugar. Está sempre acompanhada de suas miguxas Diana, Foxy e Candy. Em combate spama róris antiaéreo até o adversário cagar pra dentro de tanta raiva. Mas a pergunta que não quer calar é, COMO ELA RESPIRA NO ESPAÇO? Bem, ela congelou o oxigênio em seus pulmões... Não é piada, é a resposta oficial. MAS COMO ELA CAI DE UMA ALTURA DE QUILÔMETROS E SAI ANDANDO DE BOA? Isso não se sabe, mas deve ser algo com poder de [[gelo]] dela.
+
+*'''[[Chefão]]'''
+** '''[[Zero (KOF)|0]]''' - Com seu belíssimo e bem aparado bigode, ele não passa de mais um clone, desse vez um clone do [[Freddie Mercury]]. Sua homossexualidade está evidente no fato que está sempre vestindo uma saia esvoaçante e of ato de gostar de exibir como seus dentes são bem escovados, sem contar que em sua pegada ele antes dá uma abaixadinha, como se estivesse pagando um boquete.
+
+*'''RRRRRRRRRRRRRRUGAAAAAAAALLLLLLLLLL!'''
+** '''[[Rugal Bernstein|RRRRRRRRRRRRRRUGAAAAAAAALLLLLLLLLL!]]''' - Rugal não é um personagem selecionável, mais é um striker. Isso basta para mencioná-lo.
+
+Há ainda uma cacetada de personagens exclusivamente Strikers, como os fantasmas de Goenitz, Shermie, Chris e Yashiro e personagens que foram descartados como jogáveis, tipo Chizuru, Li Xiangfei e Billy Kane. Como a SNK estava falindo e esse era seu último jogo, decidiu forçar como personagens strikers um bando de zé-ruela que ninguém conhece de um bando de jogo obscuro, como uma espécie de auto-crítica ao revelar um bando de personagem desconhecido de um bando de jogo ruim que só deu prejuízo, acarretando na falência da empresa, por isso se você nãos abe quem é [[Gai Tendo]], [[Neo & Geo]], [[Baitang]], nem se preocupe.
+
+{{The King of Fighters}}
+
+[[Categoria:Jogos da SNK]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Neo-Geo]]
+[[Categoria:Jogos para Dreamcast]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos de luta]]
+[[Categoria:Jogos lançados em 2000]]

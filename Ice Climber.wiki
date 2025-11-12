@@ -1,0 +1,52 @@
+{{game}}
+{{gelado}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Joseph Climber
+|image     = Ice Climber.jpg
+|caption   = Capa ridícula do jogo, onde o Ice Climber mata um urso-polar de tanguinha
+|developer = [[Nintendo]]
+|publisher = [[Nintendo]]
+|released  = século XV
+|genre     = Alpinismo
+|platform  = [[NES]]
+|rating    = 10%
+|ages      = Livre
+}}
+
+'''Ice Climber''' é um jogo de [[alpinismo]] desenvolvido por [[Joseph Climber]] com financiamento da [[Nintendo]]. Um exemplar do jogo foi encontrado por arqueólogos congelado e perfeitamente conservado nas montanhas do [[Tibete]]. Estudos revelam, e acredita-se que o jogo rodava para o [[NES]].
+
+Ice Climber é também o jogo oficial de [[Edmund Hilary]], e o único jogo de alpinismo do mundo.
+
+== História ==
+
+[[Arquivo:Ice Climber Zero Suit.jpg|thumb|left|Nana e sua [[Samus Aran|Zero Suit]], roupa secreta.]]
+
+Protagonizados pelos irmãos [[esquimó]]s Popo e Nana, essa dupla de pirralhos deve escalar montanhas e morros por todo mundo para conseguirem honrar a sua cultura yeti, sobreviver e espalhar uma campanha contra o aquecimento global.
+
+Cada montanha possui 8 fases com gelo multicolorido por causa do suco em pó derramado pelo [[Yoshi]] no jogo anterior, as únicas ferramentas disponíveis para as escaladas são uns porretes para abrir caminho no gelo e matar inimigos, roupa de frio e muita disposição e vidas, porque nesse jogo se morre pra caralho.
+
+As fases iniciais são feitas nos morros do [[Himalaia]], [[Everest]] e [[K2]], Popo e Nana devem escalar cada uma das montanhas em menos de 40 segundos, pois não há máscara de oxigênio, e esse é o máximo de tempo que conseguem segurar a respiração. Nessa aventura eles fogem do [[Nepal]] para pedir asilo político no [[Butão]].
+
+Os inimigos mais comuns são os yetis, mas também há focas, mamutes e tigres siberianos, tudo muito mal desenhado que não assusta ninguém, só dá raiva porque matam em um golpe. Quanto maior for o perigo de extinção que estiver o animal abatido, maior será o número de pontos da venda de sua carne no mercado negro.
+
+Nas fases seguintes que ocorre na [[Cordilheira dos Andes]], há os raros ursos polares de sunga vermelha, e o objetivo é chegar em [[Potosí]].
+
+As últimas fases ocorrem nos morros cariocas, são os mais desafiantes de escalar do mundo, povoados por treteiros bandidos pesadamente armados, o grande objetivo é tomar as bocas de fumo no alto dos morros e conquistar o Rio de Janeiro.
+
+O último chefe do jogo é um raro urso-polar gigante, de óculos de sol e cueca rosa.
+
+== Ver também ==
+
+*[[Ice Climbers]]
+
+{{Nintendo}}
+{{Plataforma}}
+
+[[Categoria:Jogos lançados em 1985]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Nintendo Switch Online]]
+
+[[ja:アイスクライマー]]

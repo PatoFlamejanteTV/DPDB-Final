@@ -1,0 +1,51 @@
+{{game}} 
+{{megamanUP}}
+{{Infobox Game
+|title     = Zero, mesmo sendo continuação do [[Megaman X|X]]
+|image     = Megaman_zero.jpg
+|caption   = Cara Bonitinha!
+|developer = [[Inti Creates]]
+|publisher = [[Capcom]]
+|released  = [[2002]]
+|genre     = Plataforma
+|rating    = Zero
+|platform  = [[Game Boy Advance|GBA]], pra você se fuder com a tela pequena
+|ages      = 0. Um [[feto]] joga. 
+}}
+
+'''Megaman Zero 1''' (um) é o primeiro jogo da saga [[Megaman Zero|Zero]], ou seja, finalmente o [[Keiji Inafune|Inafune]] pôde realizar seu desejo de infância que outrora foi destruído pela [[Capcom]], que é ter o [[Zero (Megaman Zero)|Zero]] como protagonista de um jogo. E justamente por esse motivo, com medo do jogo bombar, a Capcom deixou a produção do jogo por conta da [[Inti Creates]], enquanto ela cuidava da distribuição, basicamente "Faça o jogo que eu fico com o dinheiro!"
+
+==Jogabilidade==
+Parece que a galera da Inti tava viciadona em [[Castlevania: Symphony of the Night]] na época, ao ponto de decidirem fazer o primeiro jogo Zero na mesma pegada. Óbvio, eles não podia fazer nada tão radical como um Castlevania com robô no lugar de vampiro, se não só o que ia ter era [[marmanjo]] chorando por terem "estragado o jogo da infância" deles. Então eles resolveram fazer um hibrido, as mecânicas base que todos nós conhecemos e amamos do [[Megaman]], junto com uma influência ou outro dos Castlevania [[metroidvania]]... o problema é que pegaram as piores coisas do ultimo, bicho.
+
+Eles fizeram um mapa pseudo-metroidvania, (quase) todo conectado, só que pra te lembrar que é um Megaman, deixaram ainda o sistema de missão. Ou seja, você pode até andar pelo mapa todo, mas isso só vai servir pra farmar, já que pra ativar missões mesmo, tem que falar com a [[Ciel (Megaman)|Ciel]]... dá pra aceitar, o foda é que eles estavam inspirados a fazer o pior sistema de retry da história, um que só quem passou pela tortura entende. Todo mundo já ficou meio puto com a demora que é carregar o save depois de morrer no SOTN, e aqui, tentaram emular esse sentimento também, de uma forma ainda mais sofrível e demorado. O sistema é tão merda que se pedir a opinião pra qualquer pessoa que jogou, 95% das respostas serão "O jogo é até daora, né? Mas é um cu suado reiniciar a missão..." 
+
+==História==
+Esse jogo se passa numa [[realidade alternativa]], que chique! Tá na moda ultimamente. Se lembra daquela "morte" bosta do Zero lá no [[Megaman X5]]? Aquilo ali era pra ser o fim canônico da saga, mas infelizmente, o ser mais influente da história de Megaman, Capcom, não queria que a saga acabasse no 5, fazendo a morte do Zero num valer nada, e isso ainda, futuramente, nos resultaria nos 2 [[Megaman X6|piores]] [[Megaman X7|jogos]] da humanidade.
+
+Mas voltando pro jogo, esse aqui é a história '''caso''' o Zero tivesse morrido lá no X5 mesmo. Ele acorda depois de uma hibernação de uns aninhos ai, um século só. Quem reanimou foi uma loirinha... [[Roll]]? Não, não, [[Ciel (Megaman)|Ciel]] ([[fetiche]] do caralho os desenvolvedor de Megaman tinha com loira, hein?), que tava sendo perseguida por uma cacetada de robô. Ela diz que o Zero é tipo um [[salvador da pátria]] e que a Resistência precisa dele para salvar o mundo, no qual o Zero, sem entender [[porra nenhuma]], responde "E é, é?". Daí, ele começa uma chacina desenfreada de robô enquanto segue a Ciel, que diz que esses bichos que estão perseguindo-os são de uma tal de "Neo Arcadia"
+.
+[[Arquivo:Zero Broken.gif|right|thumb|200px|Será que ele ficou com [[escoliose]] depois de tanto tempo assim?]]
+
+Depois de uma sequencias de fatores que pouco importa, a menina termina sendo sequestrada, um espirito dá a espada do Zero pro... Zero, fazendo ele virar o herói do dia salvando a Ciel, e eles acabam saindo daquele laboratório esquisito, indo pra base da Resistência. Aqui, o jogo tem dó da gente, e começa a explicar o que diabos tá acontecendo... mais ou menos.
+
+O [[X (Megaman X)|X]] criou a [[Neo Arcadia]], basicamente um complexo de condomínio protegido por 4 guardiões, para que os humanos tivessem um canto pra morar no meio da Elf Wars. Beleza, tava tudo perfeito, humanos finalmente em paz... até que a Ciel, cientista genial que jogava muito [[Megaman X]] pelo Snes9x, botou na cabeça que ia achar o X, este que não tinha como ser achado por motivos que veremos no próximo páragrafo. Frustrada, decide criar seu próprio X, "[[Copy X]]". O problema é que, na hora de criar, ela errou um pouco na dose e deixou ele consideravelmente radical, ao ponto da única moral que ele tem na cabeça é "robô bom é robô morto" (e olha que ele é um!), foda-se se ele é do mal ou não. Percebendo logo a merda, Ciel e um catado de 8 robô se refugiam da Neo Arcadia, indo parar num bueiro que mais tarde ia ser batizado de "Base da Resistência"   
+  
+Finalmente, X original, atrasado como sempre, aparece no quarto da Ciel e diz "Ô cabeça de pica, tu não me achou pois eu aceitei a [[palavra de Deus]] e virei um espirito, porra! Olha minha roupinha de padre, gostou? Obrigado... Tá, preste atenção: a única pessoa que pode te ajudar na cagada que tu fez é um amigo meu, Zero. Ele deve tá ai num canto abandonado, dormindo. Junte esse catado de robô seu e vá procura-lo!" 
+
+==Missões==
+[[Arquivo:Zero-X-version.jpg|thumb|right|100px|Santo (futuramente) canonizado, mais [[Pau no cu|PNC]] que nunca.]]
+Esse aqui em especifico é diferente de todos os Megaman, tu não escolhe o boss que vai lutar, e sim o canto do mapa em que vai se teletransportar. As missões normalmente são "Vá salvar um caboclo lá!", ou ficar dando umas punhetada na Neo Arcadea pra ver se eles enfraquecem. O que a Ciel não esperava, é que o Zero fosse aquilo tudo que o X tinha dito mesmo. O cara era pika, podia mandar [[faraó]], [[besouro]], guardião e os caralha que o bicho peitava. 
+
+E agora, vendo que a Resistência realmente tava resistindo aos assédios da Neo Arcadia, o Copy X decide acabar logo com a brincadeira, indo com força máxima pra cima da base. Ciel, que provavelmente estudou na mesma escola que [[Marcelo Bielsa]], faz o melhor exemplo de ''"a melhor defesa é o ataque"'', e manda o Zero pro núcleo da Neo Arcadia, ver se consegue pelo menos diminuir a humilhação. 
+
+E como o Zero é foda², depois [[Hidden Phantom|de]] [[Fairy Leviathan|uns]] [[Fighting Fefnir|leves]] [[Sage Harpuia|inconvenientes]], ele chega pra enfrentar o Copy X... porra, mas já? Vai nem esperar o próximo jogo? Ih, já deu um pau no cara... Claro que não, é o ultimo boss, não ia ser fácil assim. Na 2° forma, com um design bem Castlevania até... carai, mas tu é chato, já matou o bicho de novo. E como todo bom vilão, ele ativa o modo auto destruição, e inexplicavelmente, o Zero acorda num deserto após essa briga toda. Nisso, o X original deixa as ultimas palavras do jogo: "Enquanto tu tava vagabundeando, eu tive que ficar tomando conta desses bicho por 100 anos, sem nenhuma alma competente me ajudando... seguinte, você pode até ter acabado com minha cópia, mas a Neo Arcadia ainda é muito forte, parece que nunca acabam. Cuida deles ai por um ano enquanto eu tiro umas férias, prometo que [[Mentira|volto depois...]]"
+
+{{Megaman}}
+
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos lançados em 2002]]
+[[Categoria:Jogos de plataforma]]
+
+[[es:Mega Man Zero]]

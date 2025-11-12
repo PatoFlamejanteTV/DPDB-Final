@@ -1,0 +1,50 @@
+{{taxocaixa
+| nome           = Geoemydidae
+| cor            = #006400
+| imagem         = Geoemydidae.jpg
+| imagem_legenda = Um geoemidídeo tímido
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Tetrapoda|Quadrúpedes]]
+| classe         = [[Reptilia|Dinossauros]]
+| ordem          = [[Testudines|Cascudos]]
+| família        = [[Geoemydidae|Geometriae]]
+}}
+
+'''Geoemydidae''' é uma família de semi-cágados, mais comumente denominados de tartaruguinhas, são animais utilizados para ornamentação geral e para defecar nas margens de lagoas rasas em toda [[Ásia]] onde vivem, embora uma espécie ou outra seja encontrada nos demais continentes do mundo.
+
+São répteis de água doce e gostam de nadar porque na terra precisam se rastejar.
+
+== Anatomia ==
+
+Este grupo de tartarugas possuem geralmente cascos em formato de peso de papel, e são caçados por causa disso, afinal estes animais são matéria-prima para a indústria asiática de pesos de papel.
+
+Estas espécies de tartaruga possuem pescoços e patas retráteis, porque diferente das tortuguitas eles não curtem serem decapitados por aí. Como não possuem ossos nem nos membros e nem no pescoço, conseguem sanfoná-los e guardá-los dentro do casco. São inclusive os únicos animais vertebrados que não possuem articulações de um osso ao outro, são dotados apenas de um grupo de ossos não móveis condensados na formação do seu casco.
+
+As tartarugas geoemidídeas são a família que possuem a maior pélvis do reino animal em proporção ao restante do corpo. Os corpos deste cágados são feitos por 80% só de pélvis, 15% é o casco e o resto é a cabeça e o sistema digestivo e sistema nervoso integrados
+
+== Gêneros ==
+
+* '''[[Batagur]]''' - tartarugas-batagurinas
+* '''[[Geoclemys]]''' - tartaruga-de-lagoa-de-manchas
+* '''[[Hardella]]''' - tartaruga-do-rio-de-coroa
+* '''[[Morenia]]''' - tartarugas-oceladas
+* '''[[Pangshura]]''' - kashugas
+* '''[[Chinemys]]''' - tartarugas-da-lagoa-chinesa
+* '''[[Cuora]]''' - tartarugas-caixote-asiática
+* '''[[Cyclemys]]''' - tartarugas-folha-asiática
+* '''[[Geoemyda]]''' - tartarugas-folha
+* '''[[Leucocephalon]]''' - tartaruga-da-floresta-de-sulawesi
+* '''[[Malayemys]]''' - tartaruga-comedora-de-lesma-malaia
+* '''[[Mauremys]]''' - tartarugas-de-pescoço-listrado
+* '''[[Melanochelys]]''' - tartarugas-preta-indiana
+* '''[[Notochelys]]''' - tartaruga-de-casco-plano-asiática
+* '''[[Ocadia]]''' - tartarugas-de-pescoço-listrado-chinesa
+* '''[[Orlitia]]''' - tartaruga-gigante-malaia
+* '''[[Rhinoclemmys]]''' - tartarugas-neotropical
+* '''[[Sacalia]]''' - tartarugas-de-olhos
+* '''[[Siebenrockiella]]''' - tartarugas-do-pântano-preta
+* '''[[Vijayachelys]]''' - tartaruga-da-cana-da-floresta-cochin
+
+[[Categoria:Testudines]]
+[[Categoria:Geoemydidae|*]]

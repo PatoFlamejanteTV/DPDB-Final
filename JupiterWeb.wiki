@@ -1,0 +1,54 @@
+
+
+{{c|Não é aquele planeta que tem os anéis?| [[Carla Perez]] sobre JupiterWeb}}
+{{c|Como funciona esta porra?!|[[Aluno da USP]] sobre JupiterWeb}}
+{{c|Não vai me matricular?! Não vai me matricular?! TRÁS O SACO, 02!|[[Capitão Nascimento]] tentando usar o JupiterWeb}}
+{{c|Você traiu o movimento universitário, véio.|[[Dado Dolabela]] sobre JupiterWeb}}
+{{c|Tá tudo Dominado!|[[Maçonaria]] sobre JupiterWeb}}
+{{c|Eles que mataram Jesus Cristo!|[[Edir Macedo]] sobre JupiterWeb}}
+{{c|Eu não disse?!|[[Orlando Fidélis]] sobre JupiterWeb}}
+{{c|Foi eu que fiz!| [[Paulo Maluf]] sobre JupiterWeb}}
+{{c|Eu não tenho do que reclamar. Comigo funcionou normalmente...| [[Chuck Norris]] sobre JupiterWeb}}
+{{c|Na [[União Soviética]], o Júpiterweb se matricula em '''VOCÊ''!!'''''| [[Reversal Russa]] sobre JupiterWeb}}
+{{c|Sistema temporariamente indisponível|JupiterWeb sobre ele mesmo}}
+{{c|Sistema de Gestï¿½o Acadï¿½mica da Prï¿½-Reitoria de Graduaï¿½ï¿½o|Também o JupiterWeb sobre ele mesmo}}
+{{c|java.lang.NullPointerException|Java sobre JupiterWeb}}
+O '''JupiterWeb''', também conhecido como LuciferWeb, é uma entidade maligna destinada a fazer sofrerem os alunos da [[USP]]. Ele foi criado pelos mesmos funcionários públicos que elaboraram o Plano Cruzado, a Constituição da [[União Soviética]] e a [[urna eletrônica]]. Com ele, os coitados dos estudantes descobrem que existe coisa pior do que o sistema escolar brasileiro, o time do [[Botafogo]], o [[Big Brother Brasil]] e/ou [[você]]. 
+ 
+==O JupiterWeb na antiguidade==
+[[Arquivo:Logo jupiter.gif|thumb|Logo da Jupiter Web <s>que logo fudido</s>]]
+Segundo indicam os estudos, os primeiros modelos do JupiterWeb foram desenvolvido pelos [[Nerds|mongolóides]] que moravam na Mongólia. Não se sabe para que os mongolóides estavam desenvolvendo um sistema operacional de computadores porque, segundo as previsões do [[Mestre Yoda]], os computadores só iriam aparecer muito depois que os homo-mongolóidius desaparecessem, o que impediu que naquelas eras remotas aparecessem Bill Gates e a Microsoft. Séculos depois, [[Moisés]], aquele [[emo]] que guiava seu povo eleito pelo deserto sem saber pra que lado ir e nem onde ia parar, subiu ao monte Sinai, ficou lá puxando fumo sossegado sem ninguém pra lhe pedir um tapinha e, quando voltou, trouxe duas tábuas feitas de pedra onde estavam escritas umas coisas que ninguém sabia o que significavam já que todo mundo ali era analfabeto. Pra disfarçar os olhos brilhantes, como não tinha colírio nem óculos  escuros, Moisés mentiu pro povão dizendo que tinha estado a sós com [[Deus]]. As tábuas da lei ficaram perdidas até que um [[camelô]] libanês, passando férias numa colônia penal da Turquia, conseguiu encontrá-las. As tábuas, não as férias. Terminando seu período de férias, o camelô resolveu emigrar para o [[Brasil]], vindo abrir uma lojinha na [[25 de março]]. As tábuas de Moisés foram encontradas por um neto do camelô no meio de muita muamba. Este neto, que além de [[emo]] era calouro da [[Poli]], foi rejeitado por um outro emo da Poli, que era veterano. Travestido de hacker, uma noite criou o sistema JupiterWeb como forma de vingança.
+
+==Funcionamento do sistema==
+[[Arquivo:Jupiter.jpg|thumb|thumb|Planeta em que foi inspirado o nome da entidade]]
+Primeiramente: Não funciona. Porém desde de meados da década de 1990, a USP instaurou o sistema JupiterWeb, conhecido também como LuciferWeb como forma de obstáculo de matrícula para os alunos de graduação. Basicamente todos os alunos da USP acordam às 7 da manhã do dia de matrícula e ficam em estado agonizante até às 10 da noite, ou quando conseguirem acabar de se matricular em todas as matérias. Só Deus, caso ele exista, sabe como o sistema LuciferWeb funciona. Estudos mais recentes afirmam que se trata de uma mistura de jo-ken-pô com tele-sena, comandado virtualmente por Sauron, o Senhor dos Anéis, diretamente de Mordor na Terra Média.
+
+==Características Técnicas==
+O JupiterWeb utiliza tecnologia de ponta para gerar suas páginas. Utilizando conceitos avançados de [[POG]], é a mistura perfeita de funcionarios públicos com a web. Seu código fonte utiliza padrões avançados de desenvolvimento, contento cerca de 19028 tags de abertura de html, cerca de 31415 tags body, tudo isso gerado, provavelmente, utilizando a Java.
+<pre>
+Extra <html> encountered.  Migrating attributes back to the original <html> element and ignoring the tag.
+autenticar:17<head> must be a child of <html>. Content ignored.
+autenticar:19Unmatched </head> encountered.  Ignoring tag.
+autenticar:20Extra <body> encountered.  Migrating attributes back to the original <body> element and ignoring the tag.
+autenticar:333Extra <html> encountered.  Migrating attributes back to the original <html> element and ignoring the tag.
+autenticar:351Extra <body> encountered.  Migrating attributes back to the original <body> element and ignoring the tag.
+favicon.icoResource interpreted as image but transferred with MIME type text/html.
+/favicon.icoFailed to load resource: the server responded with a status of 404 (Not Found)
+</pre>
+
+==<s>Apuração do Carnaval</s> O Lançamento das notas==
+O lançamento das notas do semestre é um evento semestral mundialmente aguardado pelos USPintundos. É um momento de grande emoção. Em parte porque ele geralmente acontece uma semana antes da semana de Reaval.
+O lançamento, porém, não se dá todo de uma vez. É um evento inspirado na Apuração do Carnaval. As notas aparecem uma a uma na sua tela. Haja coração.
+
+==Como escapar do JupiterWeb?==
+[[Arquivo:Correndo.jpg|thumb|left|Típica aluna tentando escapar da JupiterWeb]] 
+Se você é ou pretende ser aluno da [[USP]], vai passar aproximadamente 1/3 de sua vida tentando acessar o sistema e se matricular nas matérias que você quer cursar.
+Sabendo que tudo depende da sua sorte ou que [[Deus]] vá com a sua cara, é comum descobrir após algum tempo que o Júpiter não te deu grande parte das matérias que você queria, e se você conseguiu, provavelmente elas irão sumir misteriosamente da sua grade horária em algum momento.
+Há também a possibilidade de requerer diversas coisas pelo sistema, embora a grande maioria delas vá ser indeferida pela má vontade dos burocratas.
+
+==O que eu ganho sendo um crente do JupiterWeb?==
+Você, se acredita no JupiterWeb, merece ganhar uma vaga no Big Brother Brasil e ficar vendo todo mundo comer todo mundo - inclusive você - e não comer ninguém. Caso você seja sorteado e consiga entrar no JupiterWeb antes de ser jubilado ou aposentado compulsoriamente por ter chegado a uma idade avançada, você pode se considerar um felizardo. 
+
+==Ver também==
+*<s>[[Engenharia de Prostituição|Como arrumar dinheiro para comprar o gabarito do vestibular da]]</s>  [[USP]]
+{{USP}}

@@ -1,0 +1,59 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = darkblue
+|brasao            = Escudo do Pachuca.png
+|hino              = Música de abertura do [[Chaves]]
+|nome_oficial      = Pachuca Club de Fútbol
+|origem            = {{MEX}}'''- [[Pachuca]]'''
+|apelidos          = Tuzos
+|torcedores        = Burritos
+|torcidas          = Pachuquitos
+|mascote           = Pequeno Jumento
+|ilustre           = [[Flamenguistas]], [[Torcida do Fluminense|Tricolores]] e [[Torcida do Vasco|Vascaínos]] no dia 10 de Dezembro de 2024.
+|estadio           = [[Hidalgo]]
+|capacidade        = 25.000
+|sede              = [[Pachuca]]
+|presidente        = [[Sei lá]]
+|treinador         = [[Sei lá]]
+|pior              = Chaves
+|melhor            = Seu Madruga
+|patrocinador      = Seu Barriga
+|material          = Quico
+|liga              = [[Campeonato Mexicano|Liga de Tacos]]
+|divisao           = 1° Divisão
+|títulos           = Copa Tequila de Futebol 5 vezes; 
+Copa de Concacaf 6 vez; 
+
+Dar um pau no [[Botafogo de Futebol e Regatas|Bostafogo]].
+|ranking           = Primeiro na tabela de gols sofridos
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Pachuca Club de Fútbol''' é um clube de futebol do México, assim como o [[Chivas Guadalajara]] e o [[América do México]], mas foi o único que pelo menos deu um trabalho para os brasileiros e sul-americanos.
+
+== História ==
+=== Fundação ===
+
+[[Arquivo:Pachuca_jugador.jpg|thumb|left|Jogador do Pachuca dando pirueta.]]
+
+O Pachuca foi fundado em 1901 pelo Chaves e o Quico, e é um dos times mais populares do México e possui grandes conquistas internacionais como a SuperLiga e a [[Copa Sulamericana]] (Apesar do México se localizar na América do Norte).
+
+=== As glórias nos anos 2000 ===
+
+Suas maiores conquistas foram as seis [[Liga dos Campeões da CONCACAF]], e também participou de cinco mundiais sendo eliminado em todos antes da final, em um deles sendo eliminado pela [[LDU]], outra pelo [[Étoile du Sahel]] depois pelo [[TP Mazembe]] (WTF?), [[Grêmio]] e por fim tirou o <s>bairro</s> [[Botafogo de Futebol e Regatas|Botafogo]] atropelando eles por 3x0, tudo isso (não como se fosse difícil ganhar do Botafogo) para no final perderem pro [[Real Madrid]]. Bom, pelo menos tem história pra contar.
+
+== Títulos ==
+
+*[[Campeonato Mexicano|Liga de Tacos]]: 5 vezes.
+*[[Liga dos Campeões da CONCACAF|Copa CONcafé]]: 6 vezes.
+*SuperLiga: 1 vez.
+*Copa Sulamericana: 1 vez.
+
+{{Campeonato Mexicano}}
+{{Liga dos Campeões da CONCACAF}}
+{{Copa Sul-Americana}}
+{{Mundial de Clubes}}
+[[Categoria:Times de futebol do México]]
+
+[[es:Tuzos del Pachuca]]

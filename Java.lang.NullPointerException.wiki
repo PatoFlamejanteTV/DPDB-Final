@@ -1,0 +1,60 @@
+{{computeiro}}
+{{wikipedianaotem}}
+
+{{c|NÃO, tudo menos isto agora!|Aluno de computação na véspera da entrega do trabalho prático}}
+{{c|Eu falei para não deixar pra ultima semana!|Professor do aluno quando ele lhe pergunta sobre o erro}}
+{{c|[[Risada diabólica|BWAHAHAHAHAHA!]]|Dennis M. Ritchie|{{PAGENAME}}}}
+{{c|[[Risada diabólica|GWAHAHAHAHAHA!]]|Bjarne Stroustrup|{{PAGENAME}}}}
+{{c|[[Risada diabólica|MUAHAHAHAHAHA!]]|Sun|{{PAGENAME}}}}
+{{c|Você traiu o movimento [[C++]], veio!|[[Dado Dolabella]]|{{PAGENAME}}}}
+{{c|Eu disse, mas você não respeitou o [[limite (matemática)|limite]]!|[[Tua mãe]]|{{PAGENAME}}}}
+{{c|Mas disseram que Java não tem ponteiros!!!|Programador iniciante|{{PAGENAME}}}}
+
+O '''java.lang.NullPointerException''' pode ser considerado o segundo capítulo da série "Acesso Indevido à Memória" que começou no [[C++]].
+
+== História ==
+[[Arquivo:NullExc.jpg|right|thumb|Bem na hora do upload daquele Trabalho Prático.]]
+Nasceu como mutação genética do problema de acesso à memória corriqueiro no C++, mas que logo tomou sua forma com a criação da [[Java|caneca de café]].
+
+Sua árvore genealógica é:
+
+<poem>
+ java.lang.Object
+     java.lang.Throwable
+         java.lang.Exception
+             java.lang.RuntimeException
+                 java.lang.KissMyAssAndSuckMyDickException
+                     java.lang.PogException
+                         java.lang.PogException2
+                             java.lang.ShitHappenedException
+                                 java.lang.NullPointerException
+</poem>
+
+== Motivo ==
+
+[[Arquivo:NullPointerException.jpg|thumb|O Netbeans é uma IDE para desenvolimento profissonal de NullPointerExceptions.]]
+
+Nada de muito concreto se sabe até hoje, a não ser o concreto da parede na qual você bate a cabeça repetidamente quando vê "java.lang.NullPointerException at ..." como resultado da compilação [[Jogo da Velha|daquele importante programa]]. Algumas frentes, [[Maconha|baseadas]] em pensamentos de teóricos da computação, como o famoso [[Doutor Roberto]], dizem que este era um [[vírus]] criado em C++ que foi incorporado à implementação do [[Merda|Java JSDK]]/JVM/JRE/JME/[[Jesus|Jisuis]] e que, de forma aleatória, ataca as [[otário|vítimas]] desavisadas.
+
+== No dia-a-dia ==
+
+[[Arquivo:NullPointerException2.jpg|thumb|A IDE mostrando o que é um NullPointerException.]]
+
+[[Arquivo:NullPointerException.png|thumb|Java falando que você fez merda.]]
+
+Incrivelmente esta praga se manifesta no dia-a-dia, mas é imperceptível para a [[Idiota|maioria das pessoas]]. Vejamos uma lista de eventos que mostram a existência de subclasses da exceção quando ''passamos além da borda'' e seu resultado:
+
+* Sua mãe marca um horário e você chega ''depois do horário''
+:* Exceção: java.lang.HorarioOutOfBoundsException
+:* Resultado: Porrada no lombo
+
+Tratamento de Java.lang.NullPointerException
+tente
+    Chegar no horario
+senão
+    Porrada de novo
+
+== Ver também ==
+
+* [[Ciência da Computação]]
+* [[POG]]

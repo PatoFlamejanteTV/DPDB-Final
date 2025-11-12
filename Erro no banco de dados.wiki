@@ -1,0 +1,43 @@
+
+[[Arquivo:Banco de dados.jpg|thumb|200px|Esse sim é o verdadeiro banco de dados!]]Ocorreu um erro [[gramática|gramático]] na [[rebimboca da parafuseta]] de [[sintaxe]] na pesquisa à base de [[dado]]s. A última tentativa de busca na base de dados matou uma pessoa. Ela foi:
+
+::<code>    (Punheta SQL escondida)</code>
+
+na função "MediaWikiPutaQuePariu::_doquery". MySQL retornou o erro <code>"1205: Meu Deus query morrer; tente jogar água no seu [[Computador|<font color="black">computador</font>]]".</code>
+
+{{você quis dizer|Se fudeu,perdeu tudo que editou}}
+{{experimente também|Desciclopédia has a problem,Error 505}}
+{{c|Aqui no meu velho e querido banco, vocês em todo Brasil, porque...|Carlos Alberto de Nóbrega|esse erro.}}
+{{c|Um pombo caiu no nosso server|Desculpa esfarrapada}}
+{{c|Perdi tudo T-T|Editor ou criador de artigos|o "Erro"}}
+{{c|Banco Imobiliário há dados|Nerd}}
+{{c|Has a problem|Desciclopédia has a problem}}
+{{c|Perdeu tudo, perdeu tudo!|Silvio Santos (by Antonio Jr.)}}
+
+O banco de dados não é feito de [[dado]]s
+
+O banco de dados não é dado, nada hoje em dia é dado (a não ser seu [[cu]]).
+
+Geralmente [[nerd|esses caras]] que mexem com banco de dados não são [[rico]]s como os [[banqueiro]]s, pelo contrario, são uns filhos da puta [[pobre|sem grana]] e desapropriados de fazer outra coisa.
+
+Outro fator importante é ressaltar que essa raça ruim de profissional não é inteligente o bastante para ser [[programador]] ("outro fudido") e nem [[burro]] demais pra ser [[técnico]], que é mais um [[idiota]].
+
+Esse tipo de criatura não dorme levando em conta que o banco de dados dá pau, o cara que se ferra é o cara do banco de dados. Por isso esse ser tem aquela aparência horrivel, cheio de [[orelha]]s no rosto...
+
+ Todo o seu Erro no Banco de Dados são pertence a nós! Estamos jogando Counter Strike no servidor, tenha paciência.
+
+ Houve um erro na consulta ao banco de dados. Isto pode indicar um bug no software.
+ [81c47bd2158a988bce10a01b] 2020-09-18 20:52:20: Excepção fatal do tipo "Pirokamedia\Rdbms\DBQueryError"
+
+<big><big><big><big>Desculpe! Este [[sítio]] está passando por dificuldades técnicas.</big></big></big></big>
+
+Experimente esperar alguns minutos e atualizar.
+
+(Não foi possível acessar o banco de dados)
+
+==Ver também==
+
+*[[Sem alvo]]
+
+[[Categoria:Banco de dados]]
+[[Categoria:Bugs da Desciclopédia]]

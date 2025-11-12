@@ -1,0 +1,101 @@
+{{pokedex}}
+
+{{c|Tanranranraanran-ranranraaan...|Musiquinha do Centro Pokémon|Chansey}}
+
+{{c|Chansey, prepare um Counter!!|Treinador para Chansey}}
+
+{{c|Machamp, Cross Chop!!|Outro treinador|sua pobre Chansey}}
+
+{{c|Tudo bem, ela tem muitos pontos de v... Chansey, Chansey!!|Treinador fracassado}}
+
+{{PokéBox
+| imagem = 113Chansey.png
+| tamanho = 200
+| frase = Chansey, o ovo rosa alisando um outro ovo, só que branco.
+| nihongo = ラッキー
+| romaji = {{exp|Lucky|Sortudo de não morrer no primeiro golpe que leva}}
+| pokedex = 113
+| habilidade1 = [[Drogas|Cura Natural]]
+| habilidade2 = 
+| habilidade3 =
+| tipo1 = Normal
+| tipo2 = 
+| espécie = Ovo coelho rosa
+| cadeia evolutiva = [[Arquivo:HappinySprite.gif|link=Happiny|Happiny]][[Arquivo:Seta.JPG|30px]][[Arquivo:ChanseySprite.gif|link=Chansey|Chansey]][[Arquivo:Seta.JPG|30px]][[Arquivo:BlisseySprite.gif|link=Blissey|Blissey]]
+}}
+
+[[Arquivo:ChanseySprite.gif|left]]'''Chansey''' é mais um dos 151 [[pokémon]]s da primeira geração. É aquela bolona rosa com um ovo na barriga que só sabe curar e não luta [[porra nenhuma]]. normalmente no anime, habita os centro [[pokemon]]s. Alguns acreditam que aquele ovo em sua barriga seja um [[Exeggcute]].
+[[Arquivo:chansey.png|thumb|{{C|Chanseeeyyyy...|Chansey}}]]
+
+== Dados ==
+Chanseys são facilmente encontradas em qualquer [[Centro Pokémon]], dando ovos rosas e vai saber o que mais para os doentes se animarem com alguma coisa ridícula. Mas se [[você]] quer [[demônio|possuir]] a sua própria Chansey, obviamente não poderá roubar do Centro Pokémon, então a solução é capturar uma Chansey selvagem.
+O habitat natural desse pokémon é a famosa [[Safari Zone]], lugar onde moram uma miríade de pokémons, incluindo Chanseys e até [[Dratini]]s. Uma vez lá, conseguir capturar a Chansey já é outra história, porque elas são raríssimas e quase todas já foram <s>escravizadas</s> contratadas pelos Centros Pokémon.
+
+Chansey é uma [[pokemon]] muito burra, sempre tosca e tonta a cuidar das pessoas e pokémons vagabundos ([[A Praça É Nossa|dando-lhes uma nova "chanse"]]), mesmo com as péssimas condições de trabalho nas instalações de saúde. São necessárias [[425]] Chanseys em cada Centro Pokémon para conseguir atender a todos os treinadores que não têm plano de saúde e são obrigados a procurar a saúde pública, afinal os Centros Pokémon não cobram nada pelos seus serviços. É um pokémon do tipo normal, não por lembrar um animal, mas porque não lembra nada mesmo e [[ninguém]] sabia onde classificar esse bicho. Em combate, Chansey <s>é um zero à esquerda</s> é uma opção à parte para qualquer treinador, gozando de uma enorme resistência e capacidade defensiva, pelo menos até enfrentar um pokémon lutador. Normalmente as Chanseys são o band-aid de qualquer time pokémon, usando ostensivamente suas habilidades curativas e tentando contra-atacar seus oponentes, mesmo que morra na primeira porrada.
+
+Poucos sabem, mas as Chanseys podem evoluir caso sejam bem tratadas (comidas por um Machamp de 2 pintos a cada 2 horas) e sobrevivam a mais de duas lutas seguidas sem tomar nenhum Cross Chop na cara. Isso também inclui arrumar um emprego na rede privada de saúde, em que não há aquela fila enorme de pessoas e pokémons para atender, afinal ninguém merece o SUS. Essas Chanseys felizes evoluem para [[Blissey]] caso cumpram esses requisitos, se bem que continuará sendo o mesmo saco de pancadas em combate e band-aid de Centro Pokémon, mas com alguns adereços corpóreos a mais.
+[[Arquivo:Chansey2.gif|left|150px|thumb|Chansey desenhada com os pés]]
+As Chanseys tem grandes orelhas pontiagudas mas peludas, com uma coloração rosada igual a todo seu corpo balofo, mas nas pontas da orelha há um tom avermelhadado. Os pés de Chansey possuem sapatos, como se ela já tivesse nascido com eles. As suas mãos são tão pequeninas que ficam se tocando, até parecendo mãos daqueles dinossauros anões. A Chansey é a número #113 naquele registro brega com mais de toneladas de [[pokemon]]s.
+
+==RBY (Red, Blue e Yellow)==
+[[Arquivo:ChanseyRBY.png|right]]
+:Essa bola rosa gorda inútil ([[ou não]]) é muito forte no RBY, tanto que muitos pokemaníacos consideram-na como 5ª ou 6ª melhor pokémon no RBY, contando a dupla Mew e Mewtwo. Isso se dá ao fato de esta ter uma resistência titânica contra special attacks, conferindo a melhor defesa contra ataques especiais do jogo. Logo, tendo muita utilidade contra os [[Tipo Psíquico (Pokémon)|pokémons psíquicos]] que ocupam cerca de metade da categoria imediatamente inferior à categoria "Ubers" (pokémons roubados pra caralho como [[Mewtwo]] e [[Mew]], no caso), a [[Tiers de Pokémon|categoria OU (OverUsed)]]. Por causa do stat de special dos pokémons serem na 1ª geração unidos, ou seja, os stats special attack e special defense contavam com um único multiplidor uniforme, (por exemplo, o Alakazam hoje em dia possui 135 de sp.atk e 85 de sp.def, mas na primeira geração ambos eram um único stat de 135, que multiplicava os ataques special e a defesa contra os ataques special uniformemente. Em resumo, o Alakazam batia pra caralho e tankava pra cacete), possui uma decente quantidade de poder ofensivo special de 105, mas como era defensivamente frágil contra ataques físicos, não dava bom se ela fosse de peito aberto contra [[Rhydon|Rhydons]] ou [[Tauros]] da vida, por isso, geralmente era posta como "wall" contra pokémons de bom special, que também tankavam os ataques special muito bem, como explicado anteriormente. Ou seja, mesmo com essa mecânica, não agride tanto seus alvos. </br>
+===Movesets===
+
+{| class= "wikitable"
+|-
+!BoltBeam Chansey
+!Counter Chansey
+!Sing Chansey
+!Reflect Chansey
+|-
+|Softboiled||Softboiled||Softboiled||Softboiled
+|-
+|Thunderwave||Thunderwave||Thunderwave||Thunderwave
+|-
+|Thunderbolt||Ice  beam/Thunderbolt||Ice beam/Thunderbolt||Ice beam/Thunderbolt
+|-
+|Ice beam||Counter||Sing||Reflect
+|}
+:Aqui estão alguns movesets que podem ser usados pela Chansey. Claro que existem muito mais opções, mas coloquei apenas as principais.</br>
+
+:O primeiro moveset é o mais popular pelos jogadores e possui muitas vantagens como: possui muitos PPs de ataque (no total 40), proporcionando uma boa pressão sobre os outros pokémons; bom coverage; chance de congelar outro pokémon (10% com o Ice Beam, tendo como exceção os [[Tipo Gelo (Pokémon)|pokémons do Tipo Gelo); etc..
+:'''Obs:'''O Thunderbolt é utilizado principalmente para combater os pokémons do Tipo água do OU, como Starmie, Cloyster e Lapras. Já o Ice Beam é requisitado pela pressão que a possibilidade de freeze condiciona, possivelmente fazendo o adversário trocar o pokémon em campo para outro "no banco" e, pelo valor atribuído ao congelamento, visto que o congelamento é basicamente um KO.
+
+
+:O segundo moveset gira em torno de um ataque seja ele o Thunderbolt ou o Ice Beam e uma [[Sérgio Mallandro|pegadinha do malandro]] que é o Counter. Pra quem não sabe, O Counter é um move que não tem dano fixo e que seu dano é o dobro de dano que um ataque físico causou no último turno. Como a Chansey tem um physical bulk baixíssimo (o stat base é de 5), o adversário vai tentar exploitá-lo, seja trocando pra [[Snorlax|Thaís Carla]], ou pro [[Tauros|teu pai]]. Nesse caso, o espertalhão vai tomar no cu bonito, porque espera uma BoltBeam ou Sing Chansey, tomando uma porrada enorme quando descobre que [[Traveco|essa coca era fanta]].
+:'''Obs:'''Na 1ª geração, somente ataques do tipo normal ou lutador atitavam o Counter, logo, o Earthquake não ativa o Counter, move este que é usado por cerca de 90% dos Tauros do meta, logo, um jogador experiente primeiro joga um Earthquake pra ver se a gorda tem Counter. Se não ter, vai simplesmente lançar um thunderwave pra fuder o <s>leite geme</s> late game do chifrudo
+
+
+:Já o terceiro moveset é baseado em acertar <s>na loteria</s> o Sing em um pokemon desavisado dando sopa. É uma opção muito interessante pra quem não tem um ''sleeper'' no time, sendo assim, poupa-se uma vaga para outro pokémon mais <s>pica grossa</s> forte do que uma [[Jynx|Susana Vieira]] que depois de aplicar um ''sleep'' e alguns blizzards, some completamente do jogo; como uma Starmie, por exemplo. No entanto, sempre há desvantagens em abdicar de outros moves importantes, como o Thunderbolt: com o "coverage" nulo que vai ter contra o [[Slowbro|urso rosa]], o [[Starmie|Tinky Winky versão estrela-do-mar]], [[Lapras|cachorro-tartaruga]], o [[Cloyster|psicopata sádico]], certamente vai sentar no [[Pênis|''pangolas'']] de todos, visto que o Urso ''overwhelms'' a gorda com o seu special +6, o Cloyster spamma Clamp e a finaliza com Hyper Beam, a aberração azul e o Barney do [[Devoniano|Período Devoniano]] conseguem descolar um ''freeze'' com os 8 blizzards com um pouco de sorte - embora estes dois últimos tenham somente esse recurso -, sem que a Chansey consiga retaliar o a instabilidade na estrutura defensivo do próprio time. E outra, se a gorda por acaso escolher Thunderbolt no lugar do Ice Beam, perde as ''freeze wars'' comuns entre Chanseys sem efeitos de status; rebola lentinho pro [[Zapdos|ZapZap]], pois só dará dano neutro nele ao invés do super efetivo que daria com um Ice Beam (não é como se ganhasse essa matchup num jogo realista mesmo com o Ice Beam, no entanto); é completamente estuprada pelo [[Rhydon|Raidinho]], Golem, Dugtrio (este não é um pokémon comum no OU, no entanto), por causa do dano nulo que ataques elétricos dão a pokémons de tipo terra; pela [[Exeggutor|Parmeira de Chernobyl]], esta que resiste ao Thunderbolt, sendo fraca ao Ice Beam simultaneamente e; por último, perde a pressão que o medo de um ''freeze'' causa no oponente, que antes pelo menos embaralhava a mente do adversário com a possibilidade de um ''gambling'' bem sucedido no caso do Ice Beam. Bom, diante disso, é recomendável usares o moveset ''standard'', a não ser que saibas o que fazes.
+:'''Obs:'''Existe também a opção de colocar o Seismic Toss, um move que dá dano correspondente ao nível do usuário (P.ex: um Alakazam nível 80 vai dar 80 de dano com este move), que é a opção mais recomendada por jogadores experientes ao jogar com uma Chansey mono attack. Isto se deve ao fato de que, ao ''dropar'' pelo menos 1 dos moves comuns de coverage, haverá um buraco ofensivo que eventualmente levará a um ''wallbreak'' por um dos pokémons ofensivos do tier: Um switch do Zapdos numa Chansey paralisada, esta com apenas a opção de coverage, p.ex, do Thunderbolt, levará a um óbvio wallbreak do Zapdos, sem que haja uma counterplay segura sem uso do Raidinho. Neste caso, a Chansey com Ice Beam poderia acertar pelo menos 1 dos ataques e usar uma estratégia de revenge kill com o [[Tauros|Corno]], dependendo do jogo. O mesmo acontece com o drop do Thunderbolt: um switch [[Gangplank|tão inesperado quanto brutal]] do [[Slowbro|Urso Rosa]], poderia gerar um snowballing do time adversário, com a Chansey não podendo ameaçar o Slowbro com um critical do Thunderbolt; ou então uma pressure absurda de special drops vinda de uma Starmie, gerando uma eventual switch que o adversário pode tirar vantagem dependendo do seu e do teu times. Enfim, são cenários amedrontadores que são riscos intrínsecos de jogar com um moveset tão ambicioso. Mas essa inconsistência foi amortecida por <s>nerds sem vida social</s> jogadores experientes que acharam a consistência do Seismic Toss uma boa opção para gerar um dano confiável e bom. Uma outra vantagem de botar o Seismic Toss neste moveset é um cenário de jogo truncado no duelo com outra chansey, onde a maioria das outras chanseys vão ser ''PP stalled'' por este moveset.
+
+
+:O último moveset consiste em contornar a maior fraqueza da Chansey que é seu baixíssimo ''physical bulk'', utilizando-se do move "Reflect", que faz a defesa do pokémon dobrar em apenas um turno. Seria o move perfeito para a Chansey, pois com seu ''physical bulk'' dobrado, seria muito menos <s>estuprada</s> exploitada por ''physical attackers''. Pois bem, viste que usei o "seria" para se referir a este moveset, né? O Reflect à primeira vista é mil maravilhas, mas existe uma mecânica dos jogos no geral da franquia Pokémon que é a seguinte: mesmo que um pókemon tenha os stats modificados até o +6, diante do crítico essa defesa aumentada é anulada e o pokémon afetado levará o dobro de dano do que se estivesse com seu stat [[Química|no estado fundamental]]. P. ex: Uma Chansey leva cerca de 40% de dano de um Body Slam do Tauros, com Reflect passa a levar a metade, cerca de 20%. Mas, diante de um crítico, o stat é contado como se estivesse no estado fundamental e, posteriormente, o dano é dobrado no mesmo cálculo de dano. Ou seja, uma Chansey com Reflect levará 80% de dano de um Body Slam do Tauros, pois leva o dano que levaria se estivesse sem o Reflect só que dobrado. No entanto, esse moveset é muito importante para wallar a maioria, se não todas, variações de moveset do [[Snorlax|Gordão]], e talvez, com um pouco de sorte, conseguir ganhar no X1 de um Tauros.
+===Walkthrough===
+
+:Walkthrough é um termo usado para se referir à jornada percorrida pelo jogador até o final dos jogos, no geral. Numa walkthrough de pokémon, no geral, neste caso, RBY (Red, Blue e Yellow), existem coisas a serem consideradas: '''versatilidade'''; '''disponibilidade'''; '''utilidade''' e '''raridade'''. Vejamos então a Chansey: é um pokémon muitíssimo útil defensivamente e um pouco ofensivamente, no entanto, não possui um bom ''bulk'' físico; é disponível a partir de Fuchsia, na Safari Zone; é útil mesmo fora de batalha, sendo usada pra curar os outros pokémons com o move ''Softboiled'' ao custo de 1/5 do seu ''HP'' máximo; aprende muitos moves muito interessantes quando o assunto é ''coverage'', proporcionando muita versatilidade. Numa walkthrough de RBY, não tem muito mistério: basta implementar um moveset bem apelão e cheio dos ardis, como uma Chansey com Blizzard, Seismic Toss, Softboiled, e, por último mas não menos importante: Defense Curl. Tu deves estar perguntando-me: "Defense Curl é um move apenas de aumento de defesa, então eu posso optar por outra coisa mais atraente como Sing ou Thunderwave"; mas existe um motivo bem mais oculto do porquê desse move, meu caro, que é o famoso ''Badge Boost Glitch''. Basicamente, ele ao invés de aplicar um boost de insígnia apenas no stat que está sendo modificado, aumenta em '''todos''', com exceção do ''HP'', dependendo da quantidade de insígnias que tens. É uma estratégia bem roubada e que permite um fucking Onix [[Owned|ownar]] um Mewtwo se os boosts forem stackados devidamente
+
+== Curiosidade==
+
+Sabia que...
+
+*Chansey é o pokémon com mais pontos de vida, mas nunca aguenta um golpe físico?
+
+*Sua melhor estratégia de luta se resume a usar Toxic no oponente e ficar se curando enquanto o oponente morre de [[Maconha|overdose de toxicos]]?
+
+*Chansey come ovos fritos?
+
+*Chanseys são iguais aos [[toad]]s? <s>Não servem pra porra nenhuma e são bajuladores?</s>
+
+*A gema dos ovos da Chansey podem cegar uma pessoa, um pokémon, mas mesmo assim ela continua a jogar nos pacientes para curá-los?
+
+== Ver também ==
+*[[Onix]]
+
+*[[Haunter]]
+
+*[[Jynx]]
+
+{{poke1}}
+[[Categoria:Ovos]]

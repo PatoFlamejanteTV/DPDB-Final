@@ -1,0 +1,69 @@
+<choose>
+<option></option>
+<option>{{DISPLAYTITLE|<s>Rato De Skate</s> Raticate}}</option>
+</Choose>
+{{pokedex}}
+
+{{PokéBox
+| imagem = 020Raticate.png
+| frase = Raticate querendo te passar doenças
+| tamanho = 
+| nihongo = ラッタ 
+| romaji =  [[Sua mãe|Ratta]]
+| pokedex = 020
+| tipo1 = Normal
+| tipo2 = 
+| habilidade1 = Te matar de susto
+| habilidade3 = Ser o mais usado em testes de laboratório
+| espécie = Rato de laboratório
+| cadeia evolutiva = [[Arquivo:RattataSprite.gif|link=Rattata|Rattata]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:RaticateSprite.gif|Raticate]]<br>
+[[Arquivo:AlolanRattataSprite.gif|link=Rattata|Alolan Rattata]] {{seta}} [[Arquivo:AlolanRaticateSprite.gif|Alolan Raticate]]
+}}
+
+{{Você quis dizer|Ratazana}}
+{{Você quis dizer|Capivara}}
+{{Experimente|Ratoeira}}
+{{C|Eu tenho um Raticate!|N00b|Raticate}}
+{{C|E daí?|Qualquer Um|Raticate}}
+{{C|Ash, você está feliz com a troca que fez?|Misty|troca do Ash de um Butterfree por um Raticate}}
+{{c|Eu tinha um desses.|Blue (Pokémon)|'''[[A Morte do Raticate do Blue|a Morte de seu Raticate]]'''}}
+[[Arquivo:RaticateSprite.gif|left]]'''Raticate''' é o pokemon #20 na [[Pokémon: Geração 1|national dex]]. Sua aparência é a de um ratão, que ninguém liga na verdade. Se você observar, ninguém tem um Raticate, só os inúteis da [[Equip Rocket]] que não tem outro [[pokémon]] melhor pra capturar e pega esse lixo mesmo. Raticate foi esquecido por ser asqueroso e dar medo nas criancinhas e gurias retardadas que assistem/jogam [[Pokémon]].
+
+== Características ==
+
+Ele é completamente inútil para um treinador de GBA. O <s>pouco</s> notório treinador Ash <s>Bo</s>Ketchum já teve um, quando trocou o seu <s>Borboleta Macho</s> Butterfree por um desses, depois de ganhar uma batalha do próprio, o que significa que Ash tem admiração por seus companheiros perdedores, uma vez que trocou um Pokémon <s>Perdedor</s> vencedor por um [[você|perdedor]]. Daí se tocou da merda que fez e destrocou. Para se ter um Raticate é só <s>aprisionar</s> capturar um Rattata, que já pode ser pego na rota 2, perto de Pallet, e fazê-lo matar os outros pobres e inocentes pokemons até ele chegar no Lv. 20.
+
+Um Raticate pode aprender várias técnicas conforme ele vai crescendo, mas se você não quiser é só mandar ele tomar no cu e deixar ele no Box. Mas entre as técnicas, a principal é Investida, e na verdade quem não tem esse golpe? Se duvidar até [[Magikarp]] ganha um dia, ele também pode aprender Ataque de Cauda (eu mesmo que não queria ser acertado por aquela calda asquerosa e anelada de um rato fedido do caralho), Ataque Rápido que só serve pra atacar antes do oponente mesmo... Hiper e Super Presa, que ninguém sabe qual é a diferença, tudo morde mesmo... E Energia Focada, que serve para concentrar o poder da naftalina e matar os oponentes - esse golpe pode ser suicida... Ele também ganha outros ataques de merda, mas nem vou gastar meu tempo descrevendo-os. A família do Raticate é simples, e idiota, se quiser ler vai ali do lado. Só que, não tem nenhum sentido um rato roxo vira uma ratazana bege né?
+
+Raticate é aquele típico [[pokémon]] que você nunca quer encontrar na vida, mas infelizmente acha de montão só de andar em qualquer esgoto ou lugar imundo, que obviamente tem em qualquer joguinho tosco de [[pokémon]] para [[GameBoy]]. Uma outra [[Equipe Rocket]] mais excluida e que se acha fodona no animé, tem um Raticate, que é inutil, só serve pra ficar dando dentada com aqueles dentes mutantes em qualquer pessoa que aparece. Seu golpe "''Hyper Fang''" é até bonzinho, mas ao você perceber que tem que upar MUITO com uma aberração dessas, você desiste de ter um golpe bom... Também nem vale a pena, só poder usar o golpe 5 vezes. Dizem que o Raticate é tão fedorento, mas tão fedorento, que a [[pokébola]] dele tem um futum terrível, que assusta até um coitado de um [[Grimer]]. Só pra piorar a situação, o pelo de Raticate é mais duro do que piaçava.
+[[Arquivo:020Raticate-Alola.png|thumb|left|Alola Raticate, mais parece um rato de esgoto parente do [[Quico]].]]
+
+== Curiosidades==
+[[Arquivo:6tu0z6v.png|thumb|É, o Raticate existe.]]
+
+Sabia que...
+
+*Um Raticate evolui do Rattata?
+
+*A Nintendo criou uma evolução do Raticate na quinta geração?
+
+*E eu não vou te dizer qual é esse pokémon?
+
+*Um Raticate pode aprender quase tudo com TM's e HM's?
+
+*O Raticate já foi garoto-propaganda da Colgate?
+
+* Você Matou o Raticate do [[Blue (Pokémon)|Blue]], por isso, é um assassino e vai queimar no inferno.
+
+== Ver também ==
+
+[[Rattata]]
+
+[[Squirtle]]
+
+[[Staryu]]
+
+
+{{poke1}}
+
+[[Categoria:Ratos]]

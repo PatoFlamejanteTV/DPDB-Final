@@ -1,0 +1,16 @@
+{{Imagens}}
+{{Burrices}}
+SEU BURRO! Você não especificou uma página alvo ou um usuário para executar esta função de mover ou seja lá o que caralhos você tentou fazer.
+
+Retornar para [[Desciclopédia:Página principal|Página principal]].
+
+== Que diabos é isso? ==
+
+É o que acontece em diversas [[wiki]]s quando você, por pura burrice, acaba por tentar mover um artigo, tipo mover [[viado]] pra [[são-paulino]], mas esquece de colocar ou o primeiro nome (o do artigo a ser movido), ou o segundo (o novo título), ou [[as duas coisas]]. Quando se executa essa ação estrupícia, o resultado é esse aviso docinho do site que você estiver. Claro que dependendo da língua a [[tradução]] pode ser algo do tipo [[Desgalipédia|"Olla bien su imbecil! No moveste carajo nenhum!"]], então prepare-se, em caso de decidir-se por fazer essa tremenda burrice.
+
+Isso também pode ocorrer com [[sysop]]s ao tentar deletar uma página ou imagem, ou banir um usuário, e esquecer de colocar no sumário a vítima de seu processo de moderador malvado. Normal, pois sempre há aqueles que até mesmo se [[Auto-bloqueio|auto-banem]], então né...
+
+{{Mini}}
+{{Avemaria}}
+[[Categoria:Páginas que se parecem com o que elas são]]
+[[Categoria:Bugs da Desciclopédia]]

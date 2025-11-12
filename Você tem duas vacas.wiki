@@ -1,0 +1,60 @@
+<div class=usermessage>Você tem [[vaca|duas vacas]] ([[foda-se|comparar com penúltima revisão]]).</div>
+{{Message_box|
+backgroundcolor=#80c0c0|
+image=Bird_hand.png|
+heading=''"Esteja ciente de [[Comer Carne Bovina]]"'' | message={{editar|coma a carne deles}}, antes que eles comam a sua!}}
+[[Arquivo:Cows.jpg|thumb|Correção: [[você]] ''tinha'' duas vacas.]]
+
+{{C|Eu não tenho nada a declarar sobre minhas duas vacas.|Oscar Wilde|você tem duas vacas}}
+{{C|Eu tenho o quê?|Captão Óbvio|você tem duas vacas}}
+{{C|E me orgulho delas!|Fazendeiro trabalhador|você tem duas vacas}}
+
+'''[[Você]] [[Canada|tem]] [[2|duas]] [[vaca]]s''' é a maior verdade [[filosofia|filosófica]] de todo o [[mundo]]. <ref>Exceto na [[União Soviética]]. Na União Soviética, [[Reversal Russa|as duas vacas tem ''VOCÊ!!!'']]</ref>
+
+Prova matemática de que você tem duas vacas:
+
+<math>Moo\cdot\left(\sin\left(Vaca_{A}\right)+\cos\left(Vaca_{B}\right)\right)\,\!=2\cdot{Cows}</math>
+
+Essa prova matemática também pode ser escrita nessa outra equação:
+
+<math>\log_{moo}{\left(Vaca_{A}\right)}+\log_{moo}{\left(Vaca_{B}\right)}\,\!=\log_{\left(2\,Cows\right)}{\left(Moo\right)}</math>
+
+Onde ''Moo'' é a medida métrica universal.
+
+Uma longa pesquisa matemática levou a descoberta de novas verdades relativas a propriedade de duas vacas. Atualmente, 45,893 verdades com duas-vacas são conhecidas. A lista completa estará nas páginas seguintes. [[Nostradamus]] demonstrou em [[1555]] que o número total de variáveis com duas vacas é infinito.
+
+Um problema relacionado, porém muito mais difícil, é a quantidade de verdades filosóficas obtidas à partir da questão: ''Você tem três vacas''. Um número [[infinito]] dessas verdades é esperado pelos pesquisadores, apesar de não conseguirem provar. Até o momento conhecem-se pouquíssimas verdades sobre três vacas, as quais são difíceis de provar. Nos próximos anos, espera-se que esse problema torne-se muito mais importante, pois a [[Microsoft]] já declarou que na próxima versão do [[Windows]] os usuários terão de ter três vacas, ou, como alternativa, duas superleiteiras. Linux, no entanto, apenas precisa de um litro de leite, mas você precisa entregar o leite através do prompt de comando com o uso de quatro canos, um awk e um sed.
+
+<references />
+
+<br clear="all">
+
+{{VTDV}}
+
+== Ver também ==
+*[[Vaca]]
+*[[Punheta|Ordenhar]]
+*[[Oscar Wilde]]
+*[[Capitão Óbvio]]
+*[[Vaca amarela]]
+
+== Ligações externas ==
+
+[http://www.ece.ubc.ca/~tichen/humour.html O que irá acontecer com suas duas vacas]
+
+
+[[Categoria:Você tem duas vacas]]
+
+[[en:You have two cows]]
+[[eo:Vi havas du bovojn]]
+[[es:Usted tiene dos vacas]]
+[[fr:Vous avez deux vaches]]
+[[he:יש לך שתי פרות]]
+[[hu:Van két tehened]]
+[[it:Hai due mucche]]
+[[ja:君は牛を二頭持っている。]]
+[[ko:너는 소 두 마리를 가지고 있다]]
+[[nl:Je hebt twee koeien]]
+[[th:ระบบเศรษฐกิจกับวัว]]
+[[zh:你有两头母牛]]
+[[zh-tw:你有兩頭牛]]

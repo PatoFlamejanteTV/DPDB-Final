@@ -1,0 +1,83 @@
+{{passado}}
+{{ampliar}}
+
+{{Compactar|
+{{C|Hoje|Ontem|Amanhã}}
+{{c|Ontem foi ontem.|Sábio|Ontem}}
+{{c|Ontem eu já tomei, Mãe.|Garoto sujo|sua mãe mandar tomar banho}}
+{{c|Ontem eu perdiXxX malhaçãuuxxxXxXx, :'( Buaááá.|Guria Retardada|Ontem }}
+{{c|Posso estar enganado,Mas ontem foi um dia que já passou.|Capitão Óbvio|Ontem}}
+{{c|Yesterday, all my troubles seemed so far away|The Beatles|Ontem}}
+{{c|Boa noite.|William Bonner|pouco tempo antes de ontem ser hoje}}
+{{c|Ontem se soletra: H, O, N, T, E, M.|Chiquinha|ontem}}
+{{c|Não. Ontem não tem H.|Professor Girafales corrigindo a chiquinha}}
+{{c|Como não? Se vem do verbo '''[[hoje]]'''?|Chiquinha respondendo à citação acima}}
+{{c|Ontem: H, O, N, T, E, M.|Seu Madruga|ontem}}
+{{c|Papai. Ontem não se escreve com H.|Chiquinha corrigindo o Seu Madruga}}
+{{c|Mas como não? Ontem nao vem do verbo '''[[hoje]]'''?|Seu Madruga respondendo à citação acima}}
+}}
+
+Sabe-se que o ontem não volta mais.
+
+Foi o dia que passou e [[você]] nem percebeu que [[Tua Mãe]] estava dando uma [[bimbada]] com [[Teu Pai]].
+Como ontem não é [[hoje]] e nem [[amanhã]], [[você]] não pode fazer mais nada. Então sente e chore como um [[emo]] por ter perdido aquela gostosa.
+
+Ontem é o amanhã de dois dias atrás e a véspera do dia que vem depois ao anterior de hoje. É também conhecido como o hoje de um dia antes, ou o dia em que você devia ter feito as coisas que deixou pra seu sucessor, o hoje.
+
+E com toda certeza não foi ontem que [[você]] nasceu, apesar de sua [[inteligência]] e sagacidade fazer com que pareça.
+
+Algumas pessoas acreditam que no [[futuro]] poderemos voltar no ontem, mas isso é tudo intriga da oposição. Há aqueles que acreditam tanto nisso que fizeram filmes sobre isso, mas é pura besteira tipo "O exterminador do futuro" que vai para Ontem salvar [[alguém]].
+
+== Fórmula do Ontem ==
+
+'''Ontem = [[hoje]] - [[um]].'''
+
+* onde:
+Ontem é Ontem;
+
+[[hoje]] é [[{{CURRENTDAY}}]] de [[{{CURRENTMONTHNAME}}]] de [[{{CURRENTYEAR}}]] e;
+
+[[um]] é 1.
+
+logo
+
+ontem é [[{{ #expr: {{CURRENTDAY}} - 1 }}]] de [[{{CURRENTMONTHNAME}}]] de [[{{CURRENTYEAR}}]] e;
+[[Arquivo:Ontem.jpg|thumb|canção sobre Ontem]]
+
+== Ontem Facts ==
+* Ontem nunca será [[hoje]] a não ser que seja [[amanhã]].
+* Ontem [[você]] não viu o Cirque de Soleil.
+* Ontem [[você]] não deu uma [[bimbada]].
+* Ontem [[eu]] peguei a [[sua mãe]]. 
+* Ontem as poderosas [[Forças de Destruição Israelitas]] esquartejaram, degolaram, destruiram e executaram sumariamente [[terroristas]] [[Palestina|Palestinos]].
+* Ontem, ainda mesmo, os [[terroristas]] [[Palestina|Palestinos]] explodiram um [[homem-bomba]] em [[Israel]] em retaliação a isso aí...
+* Ontem voce bateu punheta
+* Ontem, hoje e sempre
+* Ontem voce jogou [[gta]] e matou 11224554545548878754545447887875454877854548754636564666 personagens e nao foi preso pois voce e um baita nerd que sabe todos os codigos
+* Ontem e o amanha de anteontem e eo anteontem de amanha
+* Ontem voce nao leu isso (exeto se voce tem perda de memoria oque e normal em drogados)
+* Ontem voce assistiu lagoa azul na sessao da tarde 
+* Ontem eo futuro de anteontem
+* Ontem te mataram no tibia 25545458788754545477254545454666 vezes e se vc nao joga foda-se por que eu tambem nao jogo
+* Ontem quem começou esse artigo morreu engasgado com uma garrafa de vaselina incrivel ne
+* Ontem eo amanha de onteontem que era o amanha de anteontem e etc
+* Ontem bin-laden morreu mentira foi bem antes de ontem
+* Ontem voce dormiu
+* Ontem voce bateu uma antes de dormir
+* Ontem era antes das 00:00
+* Ontem você se masturbou 2 vezes
+* Hoje é amanhã de ontem he he
+* O ontem já foi amanha ha ha
+
+== Ver também ==
+* [[Hoje]]
+* [[Amanhã]]
+* [[Agora]]
+* [[Futuro]]
+* [[Passado]]
+----
+
+{{oposto|Hoje}}
+{{oposto|Amanhã}}
+
+[[Categoria:Cronologia]]

@@ -1,0 +1,54 @@
+{{pokedex}}
+<choose><option>{{reptil}}</option> 
+<option>{{agua}}</option> </choose>
+{{você quis dizer|Squirtle de peruca?}}
+{{c|Vamos comê-lo e fazer uma peruca barata com o seu rabo.|Chineses|Wartortle}}
+{{c|Warsôltz, habilidade de refúgio|Josué Yrión|Wartortle}}
+{{PokéBox
+| imagem = Wartortle008.png
+| tamanho = 220px
+| frase = Aquilo são orelhas?
+| pokedex = 008
+| nihongo = カメール 
+| romaji =  Kameil
+| tipo1 = Water
+| tipo2 =
+| habilidade1 = Tirar vidas do [[Mario]] com o casco
+| habilidade3 = Ajudante das [[Tartarugas Ninjas]]
+| espécie = Tartaruga orelhuda
+| cadeia evolutiva = [[Arquivo:SquirtleSprite.gif|link=Squirtle|Squirtle]][[Arquivo:Seta.JPG|30px]][[Arquivo:WartortleSprite.gif|link=Wartortle|Wartortle]][[Arquivo:Seta.JPG|30px]][[Arquivo:BlastoiseSprite.gif|link=Blastoise|Blastoise]]
+}}
+[[Arquivo:WartortleSprite.gif|left]]'''Wartortle''' é o [[pokémon]] #8 da primeira geração. Uma versão mais emplumada do [[Squirtle]], depois de uma série de tratamentos fisionomicos em um salão de beleza mais próximo de um centro pokémon, transformando o seu [[Squirtle]] em uma tartaruga [[travesti|transformista]]. Por ser um dos primeiros pokémons a serem inventados, hoje é bastante desconhecido, apenas por estar atrás de mais 2849593 pokémons.
+
+==Características==
+
+Wartortle é um pokémon do tipo água, o que pode ser facilmente comprovado ao notar que se trata de uma tartaruga, apesar de tartarugas azuis serem algo meio pitoresco. E também, basta lembrar que sua pré-evolução Squirtle também é uma tartaruga azul aquática, portanto Wartortle não poderia ser diferente ([[ou não|ou poderia]]?) Entre outras coisas, Wartortles mantiveram o gosto por surfar com [[Pikachu]]s surfistas e cuspir no chão de escolas públicas. Sua principal característica física certamente é aquele estranho adereço em seu casco, uma espécie de rabo com penas, muito utilizado por caçadores [[chineses]] para produzir travesseiros e perucas e depois vender em lojas de 1,99 no [[Paraguai]]. E a carne também é aproveitada, já que qualquer coisa é comestível na China, em todos os sentidos.
+
+A única forma sabida de se obter um Wartortle é evoluindo um Squirtle, que já não é um pokémon muito fácil de se achar, uma vez que só existe no laboratório do [[Professor Carvalho]], ou seja, Wartortle não dá em horta como a maioria dos pokémons. Squirtles evoluem quando chegam no nível mínimo, depois de cuspirem no chão de centenas de lugares públicos e fazerem [[42]] bolhas de sabão de uma vez, pelo menos, e derrotarem vários oponentes com essas bolhinhas que só causam dano no mundo dos pokémons. Claro, se você for [[Ash Ketchum]], isso será impossível, uma vez que seu Squirtle certamente preferirá ir embora para morar com outros Squirtles (não se sabe onde, já que eles só costumam aparecer para o Prof. Carvalho), e sem nenhuma resistência por parte do <s>perdedor</s> treinador.
+
+Da mesma forma que um Squirtle, Wartortles também adoram soltar bolhinhas na cara dos pokémons de matinho e se esconder atrás de seu <s>rabo</s> casco se o inimigo é um pouco mais forte, com a única diferença de que o casco agora está equipado com a peruca-travesseiro que auxilia na proteção. Em suma, muito pouca coisa muda com a evolução do pokémon, que continuará sendo um saco de pancadas enquanto depender de bolhas de sabão para atacar, além de passar o jogo inteiro na retranca, igual à [[Seleção Brasileira]]. E se o Wartortle em questão for um pouco <s>menos pior</s> melhor do que o esperado, poderá um dia evoluir novamente, tornando-se a tartaruga gigante <s>Gamera</s> [[Blastoise]], aquele que não precisa mais cuspir, pois tem dois canhões de água que fazem isso muito bem.
+[[Arquivo:Wartortle2.gif|left|150px|thumb|Wartortles, além de surfar, também gostam de esquiar.]]
+==Curiosidades==
+
+Sabia que...
+
+*Wartortle tem alto valor comercial na China, servindo como alimento e matéria-prima na <s>pirataria</s> indústria?
+
+*Por essas e outras, é adorado por mais de um bilhão de pessoas, sem contar os [[furry|furries]]?
+
+*Wartotle é um [[pokémon]] ignorado?
+                                   
+*Wartotle é uma versão azul das [[tartarugas ninjas]]?
+
+==Veja Também==
+
+[[Blastoise]]
+
+[[Magikarp]]
+
+[[Poliwrath]]
+
+
+{{poke1}}
+[[Categoria:Tartarugas]]
+[[es:Wartortle]]

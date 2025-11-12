@@ -1,0 +1,35 @@
+{{faliu}}
+
+[[Arquivo:TurboExpress.jpg|thumb|O portátil com mais alguns <s>HuCARDs</s> games e com TurboVision. Nem vai caber no seu bolso de tão grande que o FDP é!]]
+
+{{vqd|TijoloExpress}}
+{{vqd|Nomad no [[Mundo do Contra]]}}
+{{c|O corrento é PC Engine GT|japonês|TurboExpress}}
+{{c|Pra que vou comprar um portátil que só tem jogo da Hudson?|Qualquer um|PC GT}}
+{{c|Mas já acabou???|Você|sobre a duração das pilhas no TE}}
+
+'''TurboExpress''' ('''PC Engine GT''' no [[Japão]]) foi a versão portátil do [[PC Engine]] (TurboGrafx-16 nos [[EUA]]), feita pela [[NEC Corporation|NEC]] em [[1990]], numa careza de $250 (equivalente á um pouco mais de 500 R$!), mas depois o preço caiu pra $200.
+
+== O portátil ==
+
+O TE era o mais avançado portátil da época, e pode jogar todos os games do TG-16, chamados TurboChips ([[HuCard]] no Japão). Ele tem a tela do tamanho da do [[Game Boy|Game Gay]], e tem um adaptor de TV chamado TurboVision, no qual pode ver TV em qualquer lugar. Também vinha o TurboLink (você vê que tudo plágiava o GameLink, menos o [[Gear-to-Gear|Cano de Encanamento-pro-Cano de Encanamento]]) para jogar com mais algum amigo que tenha um TE. Alguns jogos como Falcon, [[Bomberman (PC Engine)|Bomberman]] e [[Bomberman '93]] tem batalhas exclusivas acessadas via o TurboLink, porém, somente alguns games tiveram essa opção.
+
+
+== Defeitos ==
+
+[[Arquivo:Pilhas.jpg|thumb|Se você for dono de uma fábrica de pilhas, o TurboExpress deixará você muito rico.]]
+O TE tinha também alguns defeitos, um deles era o som, que devido aos capacitadores, não era muito bem como no PCE original. A tela é outro problema, pois a tela era LCD, e qualidade de reproduzir os pixels era ruim. E quanto aos textos dos games, piorou (certamente quando era [[RPG]]s). Outro defeito era a memória interna que tinha no PC Engine CD: '''[[AAAAA!|O TE não tem memória interna pra salvar games!!!!]]''' Massssssssss... Alguns jogos tinham o famoso [[Password]], como os três citados acima como alternativa.
+
+{{c|FUUUUUUUUUUUUUUUUUUUUUUUUUU....|Você|o TE não ter memória interna}}
+
+E o problema mais grande (futuros donos do portátil irão ficar fudidos com isto aqui): Ocorre no [[Game Gear|Tijolo Gear]] e no [[Nomad]], que é a duração das pilhas: 6 pilhas AA, sem luz do tipo backlight, cores todas mais escuras e período de '''apenas''' 3 horas seguidas de operação! Por isso, acabou perdendo pro [[Game Boy|Game Gay]], pro [[Game Gear|Tijolo Gear]] e até pro [[Atari Lynx|Atari Lyxo]].
+
+== Ver também ==
+
+* [[PC Engine]]
+* [[Turbo Duo]]
+* [[Game Boy|Game Gay]]
+
+{{Oposto|Sega Nomad}}
+{{NEC}}
+{{consoles}}

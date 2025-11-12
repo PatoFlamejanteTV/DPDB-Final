@@ -1,0 +1,55 @@
+<choose>
+<option>{{quente}}</option>
+<option>{{dragão}}</option>
+</choose>
+
+{{pokedex}}
+
+{{PokéBox
+| imagem = Turtonator.jpg 
+| frase = Turtonator de olho em alguma [[merda]].
+| nihongo = バクガメス
+| romaji = {{Exp|Bakugames|Jogos de Bakugan}}
+| pokedex = 776
+| tipo1 = Fire
+| tipo2 = Dragon
+| habilidade1 = Copiar o [[Bowser]] e o [[Magmar]]
+| habilidade2 = 
+| espécie = [[Megaman X6#Os mavericks investigadores|Rainy Turtloid]]
+| cadeia evolutiva = [[Arquivo:TurtonatorSpr.gif|Turtonator]]
+}}
+
+{{Você quis dizer|[[Bowser]]}}
+{{Você quis dizer|Rainy Turtloid}}
+{{Experimente também|Tartaruga-aligator}}
+{{C|Fuuuu...são! Há!|[[Bowser]] e [[Magmar]]|Turtonator}}
+{{C|Ate essa tartaruga sem asas que cospe fogo é do tipo dragão?|Charizard|Turtonator}}
+{{C|Não é porque você parece um lagarto com asas que você é um dragão. O meu primo Bowser também é um dragão e nem tem asas.|Blastoise|citação acima}}
+{{C|Essa tartaruga de fogo ai? É da família, só muda que eu sou de planta.|Torterra|Turtonator}} 
+{{C|Eu sou melhor!|Drampa|Turtonator}}
+{{C|Papai?|Torkoal|Turtonator}}
+
+'''Turtonator''' é mais um dos pokémons inúteis adicionados na Sétima Geração, onde é o pokémon de número 776 e pertence aos tipos Fogo <s>no rabo</s> e <s>saco de pancada de fadinhas</s> Dragão.
+
+==Descrições==
+[[Arquivo:SidTurtonator.png|195px|thumb|left|[[A Era do Gelo#Sid|Um otário]] fazendo [[cosplay]] de Turtonator.]]
+Originalmente o Turtonator era chamado de ''Turtoinator'', mas para não confundir com alguma invenção do doutor e também fracassado [[Dr. Heinz Doofenshmirtz]], a Nintendo mesmo assim quis continuar o nome, e dias depois foi ameaçada pela [[Disney]] em uma mensagem, mas como o pessoal da [[Nintendo]] era quem gosta de dar <s>a bunda</s> os processos, os mesmos na hora se tocaram que não queriam levar processos de empresas mais [[modinha]]s, como a própria [[Disney]], e por isso fizeram essa leve alteração no nome.
+
+Alguns dizem que seu casco possui muitas substâncias [[química]]s tanto radioativas quanto explosivas, e os Turtonators costumavam ser muito usado por terroristas, onde o casco do mesmo conseguia explodir facilmente vários prédios, mas como vários terroristas morriam ao fazer isso, os mesmos resolveram contratar [[Electrode]]s para fazer este trabalho, já que são mais fáceis de achar, e conseguem explodir fazendo mais danos que os cascos de Turtonators.
+[[Arquivo:Origem da criação de Turtonator.png|thumb|right|A Nintendo na hora de criar esse Pokémon, teve a brilhante ideia de misturar o [[Bowser]] com o [[Magmar]], e enfim nasceu essa desgraça.]]
+Turtonators apenas aparecerão no jogo Pokémon Sun, pois se comprar o Pokémon Moon por engano ([[ou não]]), aparecerá o [[Drampa|dragão <s>pedófilo</s> da sorte]]. Como não costuma ser usado no jogo, pelo fato de ter pokémons de fogo mais (in)úteis, como [[Salazzle]] e [[Incineroar]], Turtonator não chega a ser muito usado, exceto no final do jogo, onde aparecerá um figurante chamado Ryuki, que é um roqueiro de roupa escrota que tem [[tesão]] por dragões, incluindo o mesmo, e salvando tanto ele, quanto [[Drampa]] e [[Kommo-o]] de serem muito inúteis e não usados no jogo.
+
+==Golpes e estatísticas==
+Turtonator possui um golpe especial e também meio fraco, chamado de <s>Allahu Akbar</s> ''Shell Trap'', onde o mesmo depois de ser atacado, fará [[porra nenhuma]] por uma rodada, para depois tentar explodir o adversário. Turtonator tem a base de status de 485, onde é uma base considerada fraca e inútil para um pokémon, mas por sorte as mesmas conseguem ser parcialmente ignoradas, do fato de [[Torkoal]] possuir 470, sendo mais fraco e mesmo assim ser bem usado tanto nos jogos, quanto nos competitivos do jogo, onde (in)felizmente Turtonator não teve a mesma sorte de seu parente de terceiro grau, e foi a beira da inutilidade.
+
+==No anime==
+Turtonator apenas aparece no anime, como bicho de estimação do especialista <s>noob</s> de fogo, [[Kiawe]], que na série inteira por enquanto, provavelmente irá fazer [[porra nenhuma]] que preste, já que virou pokémon secundário do mesmo treinador, que mais usa seu [[Marowak]] de [[Alola]] justamente por ser melhor.
+
+==Ver também==
+*[[Drampa]], sua outra versão do outro jogo.
+*[[Magmar]], o Pokémon de fogo que o lembra em cores.
+*[[Bowser]], outra tartaruga que cospe fogo nos jogos da Nintendo. 
+
+{{Poke7}}
+[[Categoria:Dragões]]
+[[Categoria:Tartarugas]]

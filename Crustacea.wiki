@@ -1,0 +1,35 @@
+{{taxocaixa
+| nome           = Crustáceos
+| cor            = #DC143C
+| imagem         = Crustáceo morto.jpg
+| imagem_legenda = Ser humano matando à dentadas um crustáceo indefeso
+| reino          = [[Animalia]]
+| filo           = [[Arthropoda|Artrofoda]]
+| subfilo        = [[Crustacea|Frutos-do-mar]]
+}}
+
+'''Crustacea''', nome científico dos '''frutos-do-mar''', ou '''crustáceos''', são uma ampla variedade de espécies de insetos que são socialmente aceitáveis como comestíveis, e que portanto foram alocados num subfilo a parte dentre os [[artrópodes]] denominado de "crustáceos". Apesar de possuir um total de seis classes com animais viventes, cinco destas são meramente alegóricas e ninguém se importa, sendo a mais importante a [[Malacostraca]] onde estão as lagostas, os caranguejos e camarões.
+
+Com mais de 50.000 espécies descritas, isso explica porque cada camarão, lagosta ou caranguejo tem sempre sabor diferente, porque em tanta variedade não é raro confundir espécies que comem merda com espécies que comem plantinhas.
+
+O seu habitat é extremamente variado, sendo crustáceos encontrados nas fossas abissais, na areia das praias, no prato chique de ricaços, no prato cagado de pobretões, parasitando organismos maiores, na Lua, nos esgotos, nos mangues, nos ralos de pia.
+
+== Anatomia ==
+
+Os crustáceos são animais estranhos e anatomicamente incorretos. Quase todos tem o cu na cabeça, a cauda no tórax, olhos no pescoço e uma variedade praticamente infindável de aberrações e incorreções anatômicas. São todavia aceitos na natureza mesmo assim para servirem de exemplo do que um animal que se preze jamais deve ser. São indefesos, e sua utilidade é ser alimento para animais de anatomia mais correta.
+
+Sua cabeça é dotada de antenas que servem unicamente como patas alternativas para o caso das patas originais serem cortadas e devoradas por algum predador. Como vivem na água, podem ficar de cabeça pra baixo e usar as antenas para andar embaixo da água. Também possuem olhos que podem se mexer, havendo inclusive lagostas com mais de 16 bastonetes nos olhos sendo capazes de ter uma visão lisérgica eterna com a visão de todas as cores do universo. Na boca estão os [[maxilípedes]], que são pequenas perninhas atrofiadas que servem de dentes na alimentação, inspirado naquelas moças que pisam em uvas no interior da Itália.
+
+Os crustáceos possuem patas de aranha meramente alegóricas que servem apenas para enfeite, pois sua locomoção é feita através da flutuação na corrente marítima ou se arrastando pateticamente na areia do substrato oceânico.
+
+== Classes ==
+
+* '''[[Branchiopoda]]''' - pulgas-da-água, camarões-de-concha e camarões-girino
+* '''[[Remipedia]]''' - centopeias-do-mar
+* '''[[Cephalocarida]]''' - kikos-marinhos e pulgas-da-água
+* '''[[Maxillopoda]]''' - cracas e percebes
+* '''[[Ostracoda]]''' - ostracodes
+* '''[[Malacostraca]]''' - lagostas, caranguejos, camarões, tamarutacas, tatuzinhos-de-jardim, siris
+
+[[Categoria:Arthropoda]]
+[[Categoria:Crustacea|*]]

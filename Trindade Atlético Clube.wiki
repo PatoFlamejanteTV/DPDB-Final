@@ -1,0 +1,57 @@
+{{Box ClubeFutebol
+|cor_clara         = #6495ED
+|cor_escura        = red
+|brasao            = Escudo do Trindade.png
+|hino              = Avante Trinidade e Tobago!
+|nome_oficial      = Trinidade e Tobago Atlético Clube de Goiânia
+|origem            = {{GO}}'''- [[Trindade (Goiás)|Trindade]]'''
+|apelidos          = Tacão
+|torcedores        = trinidadeenses
+|torcidas          = Favela
+|mascote           = Taco de Baseball
+|ilustre           = [[Paulo Baier]]
+|estadio           = [[Renato Aragão|Estádio Renato Aragão]]
+|capacidade        = 60 pessoas
+|sede              = [[Trindade]]
+|presidente        = [[Didi]]
+|treinador         = [[Zacarias]]
+|pior              = [[Dedé]]
+|melhor            = [[Mussum]]
+|patrocinador      = [[Os Trapalhões]]
+|material          = Tricô da vovó
+|liga              = [[Campeonato Goiano]]
+|divisao           = 1° Divisão
+|títulos           = Não há!!
+|ranking           = ???°
+|uniformetitular   = Seleção Trinidad e Tobago.gif
+|uniformealt       = Baseball Uniforme.jpg
+}}
+
+'''Trindade Atlético Clube''' é uma tentativa de clube de [[futebol]] que representa o [[bairro]] de [[Trindade (Goiás)|Trindade]] da [[cidade]] de [[Goiânia]].
+
+== História ==
+
+[[Arquivo:Trindade jogo.jpg|thumb|left|270px|Imagem do Trindade campeão do [[WTF|Torneio Inter-Municipal de Goiânia]] de [[críquete]] de [[1901]], em cima do [[Vila Nova Futebol Clube|Vila Nova]].]]
+
+Fundado em [[7 de setembro]] de [[1822]], surgiu após uma revolta dos favelados de [[Goiânia]] que queriam separar de Goiânia, mas acabram montando apenas um pseudo-time de [[baseball]] (como é conhecido o [[futebol]] em Trindade). O time veio a se tornar a versão goiana do [[Gama]] do [[Distrito Federal]].
+
+Apelidado de Tacão por causa da sigla engraçada '''TAC''', no seu ano de estreia foi campeão da terceira divisão do [[campeonato goiano]], e desde então tem se aventurado por todas as divisões do estadual rebaixando e subindo a cada ano.
+
+O time só foi se semi-profissionalizar em [[2005]], e os favelados animados, ganharam a terceira divisão naquele ano, e em [[2006]] foram vice-campeões da segunda divisão (time de merda, não tem capacidade nem para ganhar segunda divisão de campeonato goiano), e conseguiram a preciosa vaga na elite do futebol goiano, podendo ter o prazer de ser goleado pelo [[Goiás Esporte Clube|Goiás]] e pelo [[Vila Nova Futebol Clube|Vila Nova]].
+
+Atualmente não se sabe ao certo em que divisão que o Trindade está, mas com certeza deve estar brigando para não rebaixar. E além do mais, não importa, esse time não disputa nenhum outro campeonato que não seja o goiano mesmo.
+
+Infelizmente, o time do Trindade vem se fortalencendo a cada ano, inclusive ganhou do Vila Nãovence e empatou com o Gayas... quase conseguiu a classificação para as semifinais do [[campeonato goiano]] de [[2009]] (grandes merda...), e tem grande chance de participar da [[Copa do Brasil]] para ser eliminado na primeira fase (caso outros 20 times desistam da vaga em Goiás).
+
+== Títulos ==
+
+*[[Campeonato Goiano]] da Terceira Divisão de um monte de anos.
+*Vice-Campeonato da segunda divisão do Campeonato Goiano Amador de [[2008]].
+
+== Curiosidades ==
+
+*O [[Trindade]] é considerado a quarta força do futebol da [[capital]] de [[Goiás]], perdendo apenas para o [[Goiás Esporte Clube|Goiás]], o [[Vila Nova Futebol Clube|Vila Nova]] e o [[Atlético Clube Goianiense|Atlético Goianiense]].
+
+{{Campeonato Goiano}}
+
+[[Categoria:Times de futebol de Goiás]]

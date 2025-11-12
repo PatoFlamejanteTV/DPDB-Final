@@ -1,0 +1,65 @@
+{{pokedex}}
+{{lutador}}
+
+{{você quis dizer|Jackie Chan}}
+{{você quis dizer|Balrog}}
+{{você quis dizer|Mike Tyson}}
+{{você quis dizer|[[Otaka]]-chan ^^}}
+{| class="toccolours" style="width:235px; margin: 0 0 0.5em 1em; float:right; clear:right;" 
+! bgcolor=firebrick align=center |'''Hitmonchan'''
+|- 
+| style="text-align:center;" |[[Arquivo:107Hitmonchan.png|240px]]
+''Hitmonchan adora a moda das [[gay|saias]]!''<br><small></small>
+|- style="text-align:center;"
+! style="background:firebrick;" | '''Tipo'''
+|- style="text-align:center;"
+|'''''[[Arquivo:FightingIC.gif]]
+'''''
+|- style="text-align:center;"
+! style="background:firebrick;" | '''Espécie'''
+|- style="text-align:center;"
+|'''''Boxeador de saia
+'''''
+|- style="text-align:center;"
+! style="background:firebrick;" | '''Cadeia evolutiva'''
+|- style="text-align:center;"
+|'''[[Arquivo:Tyroguegif.png|link=Tyrogue|Tyrogue]]'''[[Arquivo:Seta.JPG|30px]][[Arquivo:Hitmonchangif.png|link=Hitmonchan|Hitmonchan]]
+|}
+[[Arquivo:Hitmonchangif.png|left]]'''Hitmonchan''' é o [[pokémon]] #107 da primeira geração. O irmão de [[Hitmonlee]] e [[Hitmontop]] que aposta em murros e socos.
+
+==Dados==
+[[Arquivo:Hitmonchan do Saitama.png|thumb|right|Um Hitmonchan treinado pelo [[Saitama (One-Punch Man)|Saitama]].]]
+[[Arquivo:Hitmonchan.gif|thumb|right|200px|Hitmonchan e suas pernas de palito de dente.]]
+
+Hitmonchan é um lutador, assim como os outros dois que têm um nome parecido com o dele, para mostrar que eles realmente possuem algo em comum, já que nada é óbvio para o cérebro dos fãs mais inveterados de Pokémon. Da mesma forma que seus irmãos (ou sei lá o quê) Hitmonlee e Hitmontop, este notável boxeador tem a aparência de um Milkibar animado, com pernas e braços para diferenciar um pouco. Pelo menos não é tão quadrado como o Hitmonlee, além de ter braços em tamanho no mínimo normal, já que depende deles para nocautear os outros. É possível fazer uma analogia entre este pokémon e o célebre <s>vilão e perdedor</s> personagem [[Vegeta]], se observarem a cabeça de um Hitmonchan e aquilo que parece ser seu [[cabelo]], além de seus ombros, que parecem aquelas ombreiras das armaduras de Saiyajin.
+
+[[Arquivo:Hitmonchan2.jpg|left|200px|thumb|Pois é, <s>idiotas</s> Hitmonchans também existem de verdade.]]
+
+O modo de aquisição de um Hitmonchan é praticamente idêntico à obtenção de um Hitmonlee, <s>então vá ler o artigo do [[Hitmonlee]], porra</s>, também envolvendo uma série de lutas no Clube da Luta de [[Saffron]], com um monte de regras chatas, como não poder usar voadores nem psíquicos, além de se limitar a pokémons não-evoluídos, talvez por isso apenas o [[Ash Ketchum]] consegue se dar bem contra treinadores de Saffron. Ora, aquele clube é tão amador que só consegue ganhar assim ([[ou não]]) e por isso não conseguem se firmar como o ginásio oficial da cidade. ''Também, o ginásio é psíquico, mas isso não vem ao caso.''
+
+Hitmonchan se limita a dar socos em seus oponentes, portanto uma única rasteira com certeza derruba esse pato no chão, quem mandou não treinar as pernas. Fora esse detalhe, não é um pokémon nada mau, servindo bem como o pokémon lutador de qualquer treinador, até ele arrumar um [[Machamp]], evidentemente. Não são ataques muito devastadores os seus, mas não costumam exigir muita experiência, afinal qualquer mano sabe dar soco em briguinha de rua. ''Por que não escolheu o Hitmonlee lá no clube, seu burro?''
+
+Há uma outra característica que chama a atenção neste pokémon, além das semelhanças com Vegeta. Se observarem bem, Hitmonchan está sempre usando sapatinhos e minissaia de cores claras, preferencialmente rosa ou púrpura. Há quem diga que ele atua melhor como bailarina do que como lutador, dada a [[gay|delicadeza]] de sua roupa e de seus <s>passinhos</s> movimentos em combate. Talvez por isso Hitmonchan tem esse nome, uma vez que ''Chan'' é um sufixo considerado algo extremamente [[kawaii]] pelas [[otaka]]s, e alguns [[otaku]]s mais afrescalhados também. Alguns também dizem que Hitmonchans também usam salto alto, o que é ainda mais [[gay]]. (<s>ou não</s>).
+
+=Kanto=
+:Este magnífico pokémon é conseguido ao surrar meia dúzia de fanfarrões no ex-ginásio de Saffron, o do tipo lutador. Se destaca por poder aprender todos os socos elementais (Thunder Punch, Ice Punch e Fire Punch), o que daria a ele o título de um dos pokémons mais versáteis do jogo. O único problema (e um puta de um problema) é que da 1ª geração até a 3ª, existia uma mecânica de jogo onde moves de determinado tipo seriam sempre ou special attacks ou physical attacks, ou seja, como os socos elementais citados acima eram definidos por seus tipos SEMPRE como ataques especiais, o multiplicador de dano era definido pelo status base do special dele na época que era 35, a terça parte do status base físico. Portanto, ele leva uma surra em comparação ao seu [[amigo|miguxo]] [[Hitmonlee]], que só tinha o melhor ataque do tipo lutador da 1ª geração, o Rái Diãmpi Kique(High Jump Kick).
+
+==Curiosidades==
+
+Sabia que...
+
+*Hitmonchan e Hitmonlee são rivais ?
+
+*Quando chega no level 26, Hitmonchan aprende Firepunch, Icepunch e Thunderpunch de uma vez só?(quem é o maioral agora, Hitmonlee?)
+
+*Pelo menos ele não tem cara de Milkibar (pelo menos não tão exacerbadamente).
+
+==Veja Também==
+
+[[Machop]]
+
+[[Mankey]]
+
+[[Clefairy]]
+
+{{poke1}}

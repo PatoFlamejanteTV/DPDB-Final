@@ -1,0 +1,30 @@
+{{game}}
+
+{{Infobox Série Game
+|title         = Alan Acordado
+|image_logo    = Alan Acordado.png
+|caption       = Logotipo
+|genre         = Jogo de historinha sombria
+|developer     = [[Remedy Entertainment]]
+|publisher     = [[Epic Games Publishing]]
+|origin        = [[PC|PC fudido]], [[Xbox 360]], [[PlayStation 4]]
+|first_release = [[Alan Wake (jogo)|Alan Wake I]] (2010)
+|last_release  = [[Alan Wake II]] (2023)
+}}
+
+'''Alan Wake''' é uma série de jogos que se passam naquelas cidades obscuras e frias mal assombradas de interior dos Estados Unidos ao estilo [[Twin Peaks]] e [[Wayward Pines]], joguinhos que supostamente seriam jogos de terror, mas são apenas jogos de tédio e andança. Mesmo assim tem seu seleto grupo de fãs, todos hipsters que se forçam a gostar desse negócio meramente porque são órfãos de jogos realmente incríveis como o [[Silent Hill]].
+
+== Jogabilidade ==
+
+Alan Wake é um jogo de historinha. Ou seja, ler muito e ouvir muita lorota enquanto caminha por lugares escuros. Aí de vez em quando surge um fantasma para você jogar a lanterna na cara e aí dar uns tiros nele. E é isso. Incrivelmente tem quem goste disso e a série meio que se tornou um cult. Uma das maiores incógnitas do jogo é como um escritor sem jeito com as coisas maneja armas de fogo com tanta facilidade como se fosse um [[United States Navy SEALs|Navy SEAL]], provavelmente por assistir a tantos filmes do [[Clint Eastwood]].
+
+== Jogos ==
+
+* '''[[Alan Wake (jogo)|Alan Wake I]]''' - Jogo sobre um escritor bêbado que se parece muito com o [[Stephen King]] que chega à cidade de [[Twin Peaks|Bright Falls]] com sua esposa gostosa, Alice, para passar alguns dias <s>de sexo violento</s> de tranquilidade e ver se conseguem encontrar inspiração para continue escrevendo romances tipo [[Edgar Alan Poe]] que não é o Alan do jogo. EA lua de mel não dá certo porque Alan e Alice precisam lidar com um grupo de vizinhos que ficam por aí com machados, facas, pedras e até uma serra elétrica atrás de Alan. Além dos corvos de Resident Evil que fugiram para outro jogo porque você já sabe que os pássaros migram. 
+* '''[[Alan Wake's American Nightmare]]''' - Spin-off de baixo orçamento baseado em filme de terror trash, o jogo acaba sendo trash também. Foi criado às pressas para fazer número no catálogo do recém-criado [[Xbox Live]], é um joguinho desses merdas de 2 horas que tem só três áreas que ficam sendo continuamente recicladas. Nesse jogo o jogador tem acesso a mais armas porque os desenvolvedores sabem que fã de Xbox só gosta de FPS (e se forçaram a gostar de [[Forza]]).
+* '''[[Alan Wake II]]''' - Uma mera cópia fajuta de [[Resident Eil 4 Remake]] só que com muito menos inspiração. O jogo consiste em andar, resolver puzzles, escutar gente falando, ler texto aos montes, e mais puzzle para você resolver. Tudo enquanto dá tiro no mesmo inimigo do iníco ao fim, um fantasminha de jogar a lanterna em cima e então dar o tiro. No jogo também tem Saga Anderson, uma agente do FBI que também vai fazer as mesmas coisas do Alan. Basicamente um jogo de historinha tal qual o primeiro.
+
+{{Alan Wake}}
+{{Survival Horror}}
+
+[[Categoria:Jogos da Remedy Entertainment]]

@@ -1,0 +1,52 @@
+{{game}}
+{{Infobox Game
+|title     = Buriki One
+|image     = Buriki logo.gif
+|caption   = Logo
+|developer = [[SNK]]
+|publisher = [[SNK]]
+|released  = 1999
+|genre     = Pancadaria 3d
+|rating    = 100%
+|platform  = Arcade de esquina
+|ages      = Livre
+}}
+
+'''Buriki One''' é um jogo de luta num visual de luta livre, onde lutadores lutam livre num ringue onde vale-tudo e as regras são livres,
+ele foi o unico que snk que foi em 3D.
+
+== O Jogo ==
+
+Aconteceu um torneio maluco de luta-livre onde pode entrar quem quiser, lutar como quiser, usar a arma que quiser e o único objetivo é <s>matar seu oponente</s> fazer seu oponente pedir penico e deixar seu oponente dez segundos no chão da maneira que você quiser.
+
+== Participantes do torneio ==
+
+*[[Akatsuki Maru]]: Rolha de poço, <s>luta [[sumô]]</s> come muito.
+*[[Gai Tendou|Gay Te dou]]: Um cara que se acha o tal, luta uma coisa chamada ''[[Vale Tudo|Total Kombat]]'' e anda semi-nu por aí.
+*[[Ivan Sokolov]]: Comunista do jogo, quer provar sua inferioridade.
+*[[Jacques Ducalis]]: Tiozão do churrasco do jogo [[França|que nunca toma banho]].
+*[[Patrick Van Heyting]]: Ator pornô gay, curte se abraçar com os outros
+*[[Payak Sitpitak]]: Pequinês que luta Muay Thai.
+*[[Rob Python]]: Campeão negro de boxe americano e rapper de horas vagas.
+*[[Ryo Sakazaki]]: Você já conhece. O cara mais desoriginal que já existiu. Ele tem socos e chutes.
+*[[Saionji Takato]]: Uma guria que parece um homem, porque além de seu cabelo curto, não tem peito, nem bunda e tem um pênis.
+*[[Seo Yong Song]]: Ele luta taekwondo e se acha o tal.
+*[[Silber]]: Maluco por lutas. Ele quer só porrada.
+*[[Song Xuandao]]: Velhote gagá que não sabe o que está fazendo aqui.
+
+== Screenshots ==
+
+<gallery>
+
+Imagem:Death-ko.jpg|KO!!!
+Imagem:Burikix.jpg|É cada luta...
+
+</gallery>
+
+{{Game Fight}}
+
+[[Categoria:Jogos da SNK]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos lançados em 1999]]
+
+[[es:Buriki One]]

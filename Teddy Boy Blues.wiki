@@ -1,0 +1,54 @@
+{{game}}
+
+{{Infobox Game|title = "Tédi Bói <s>Blusa</s> Blues"
+|image               = TBB SMS.jpg
+|caption             = Os inimigos do jogo.
+|developer           = [[Sega|Cega]]
+|publisher           = [[Sega|Cega]]
+|released            = [[1985|1985 (Arcade e Master System)]], [[1992|1992 (Merda Drive)]] e [[1994|1994 (Merda-CD)]]
+|genre               = [[Plataforma]] e um buraco infinito
+|rating              = 15%
+|platform            = Arcade, Master System, Merda Drive e Merda-CD.
+|ages                = Livre
+}}
+
+Teddy Boy Blues é um jogo <s>musical com o Fat Family</s> de plataforma, lançado para [[Arcade]], 
+[[Master System]], [[Mega Drive|Merda Drive]] e [[Sega CD|Merda-CD]].
+
+== História do jogo ==
+
+A história de Teddy Boy Blues, começou com uma contratação de uma cantora <s>de cabaré</s> de Blues, chamada [[Yohko Ishino]]. Como o nome da cantora diz, é uma cantora de Blues japonêsa <s>lógico, dããããã....</s>. Assim, isso aumentou a popularidade de Teddy Boy Blues nos Arcades. Porém, o jogo tem duas referências a dois jogos da Cega (somente na versão de Arcade):
+
+* No Bonus Stage de [[Punheta|atirar]] na cara dos inimigos, aparce a cara do passarinho
+[[Flicky]];
+* Um dos inimigos, tem a cara muito semelhante ao do personagem de [[Clockwork Knight]].
+Porém ele me lembra uma [[Dr. Eggman|outra pessoa]]..... Esse inimigo também aparece em [[Alex Kidd in Miracle World]].
+
+== O Jogo (1985) ==
+
+[[Arquivo:TBBYI.png|left|thumb|Versão de Arcade.]]
+
+Nas versões de Arcade e de SMS, o jogo tem [[49]] Rounds (contando Bonus Stages).
+A partir do 50, repete tudo de novo, porém, fica mais difícil.
+O chato do jogo é ter um Round Infinito, ou seja, volta, sobe, desce e vai. [[Porra|É tudo o mesmo mapa]]! O jogo também tem uma espécie de [[Relógio]], que quanto mais tempo você demora, menos pontos ganha. Nas versões de 1985, os inimigos surgem de um [[Sexo|Dado]]. Aí, você tem que atirar e eles irão se transformar em pequenas [[bolas]]. Mas, se [[Tempo|demorar]], eles irão se tornar em 
+[[Pac-Man]]s e irão [[Sexo|comer seu tempo]]. A versão de Master, acabou ganhando uma adaptação da [[Tec Toy|Treco Toy]], chamada 
+[[Geraldinho]], aquele mesmo que sai nos quadrinhos do jornal da manhã <s>não tem jornal de noite, né, dãããã...</s>. Em Geraldinho, só personagem que é trocado e o número de vidas. O resto (inimigos, música, tradução) é a mesma bosta. E nem tem uma tela animada como a de Teddy Boy Blues.
+
+== Versão SIXTEEN-BIT! ==
+
+Quando saiu o seviço [[Sega Game Library|Cega MerdaNet]], a Cega do Japão, lançou o mesmo jogo, pro Merda Drive. Esta versão, somente muda as músicas, os gráficos, os inimigos, a língua e a não-homenagem a cantora. Nesta versão, Teddy Boy Blues ficou mais [[Toy Story|infantil]], e com um tema [[Natal]]ino. No Bonus do jogo, você tem que procurar todos os objetos do jogo (e sair que nem um doido pra pegar!).
+
+== Versão Merda Shi-Di! ==
+
+É a mesma merda da versão de Merda Drive. Disponível na compilação Game no <s>Cardume</s> Kandume Vol. 2. Essa compilação reuínia 12 jogos do Cega MerdaNet. Em TBB de Merda-CD, só colocaram 3 faixas [[CDDA]] no jogo.
+
+{{Plataforma}}
+{{Game Comics}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos para Sega MegaNet]]
+[[Categoria:Jogos para Sega CD]]
+[[Categoria:Jogos lançados em 1985]]

@@ -1,0 +1,70 @@
+{{game}}
+
+{{Tarja|[[Arquivo:Atari-game-river-raid.png]]}}
+{{Infobox Game
+|title     = River Raid
+|image     = Rioraid.png
+|caption   = Incursão no Rio
+|developer = Activision
+|publisher = Activision
+|released  = [[1982]]
+|genre     = navinha
+|rating    = 10
+|platform  = [[Atari]], [[Emulador]]
+|ages      = <math>\,\!\infty</math>
+}}
+
+{{Você quis dizer|História sem fim?}}
+{{Experimente também|Ao infinito e Além!}}
+{{Traduzir|Incursão no Rio}}
+{{C|meodeos... essa bagaça não acaba não?|Você|River Raid}}
+{{C|Foi o cão que butô pra nóis jogá!|Jeremias José sobre River Raid}}
+
+'''River Raid''' (traduzido literalmente por Incursão no Rio) é um simulador de voo militar muito complexo, lançado em 1982 pela Activision para o Atari 2600 e, posteriormente, pra uma porrada de outros videogames que ninguém nunca ouviu falar. Ao contrário dos jogos de tiro até então, onde tudo se passava numa tela fixa, em River Raid <s>a aeronave se move de baixo pra cima na tela ao longo do rio</s> mentira: O rio se move na tela e o aviazinho fica parado, se movendo pros lados. 
+
+O nível de dificuldade progressivo é regulado pela AI do capiroto que vem dentro do cartucho. A velocidade do avião também pode ser regulada, mas pelo jogador: se colocar pra riba, acelera; se butá pra baixo, reduz a velocidade. Outra inovação foi a introdução de um tanque de combustível limitado no aviãozinho, obrigando o jogador de 5 em 5 segundos reabastecer o avião nos postos <s>BR</s> FUEL (flutuantes) espalhados pelo rio. 
+
+[[Arquivo:River raidgoogle.PNG|thumb|right|Aviões de River Raid capturados por um satélite do Google]]
+
+Neste jogo podem jogar duas pessoas se alternando no controle dos aviõezinhos preto (2P) e amarelo (1P) atirando em helicópteros, barcos, postos de gasolina flutuantes, pontes e tudo mais que encontrar pela frente. O mais incrível disso tudo, é que apesar de você estar voando acima do nível do rio, você '''NÃO PODE''' bater nas margens dele. O que é perfeitamente perdoável, já que antes do [[Nintendo 64]] não existia a noção espacial de profundidade nos videogames.
+
+As fases do jogo são marcadas por pontes, toda vez que vê uma você deve explodi-la! Após, espere por uma maior dificuldade, já que o caminho vai ficando cada vez mais estreito e apertado. O jogo foi programado pelo [[capeta]] que estagiava na seção de programadores da Activision naquela época. Ele já havia <s>trabalhado</s> criado o Atari e em seguida, na Tandem Computers.
+
+==Compactação==
+[[Arquivo:Atari2600wood4.jpg|thumb|200px|right|Como pode rodar isso tudo rodar num lixo desses com míseros 4 KiB??? Só esta imagem aqui tem 23 KB!!!]]
+
+Não se sabe como, mas os criadores do jogo conseguiram colocar num cartuchinho de míseros 4 KiB (SIM! '''QUATRO''' KBytes!) um jogo INFINITO com os gráficos mais coloridos e impressionantes da sua época. 
+
+O mais notável é a capacidade do jogo de fornecer uma gigantesca quantidade de cenários não-fixos. Os terrenos organizados aleatoriamente nunca se repetem na mesma sequência, criando uma experiência nova a cada jogo. Calcula-se através da quantidade de cenários pré-existentes a incrível possibilidade de construção de  1 × 10<sup>12</sup> (um trilhão) possibilidades diferentes de fases.'' 
+
+A única explicação razoável dada pelos produtores é a de que: {{C|essa extensa capacidade de criar sequências aleatórias é possível, a despeito das limitações de memória disponível no Hardware e na plataforma,  graças ao programa de jogo que na verdade não armazena as sequências de fases, inimigos e objetos [...] O terreno é gerado dinamicamente durante o jogo através de um algoritmo  que utiliza um registrador de deslocamento com realimentação linear alimentado por semeador inicial fixo. Ou seja, um sistema de geração de números altamente aleatório utilizado para que a Inteligência Artificial adversária possa fazer o game o menos previsível possível.|Tomá no cu... além disso tudo tem I.A.??? Em 4Kbytes???}}
+
+Apesar de todo esse blá-blá-blá dos produtores, a única explicação plausível é a de que eles fizeram um pacto com o [[Bill Gates|Capeta]] e que tem um diabinho dentro do cartucho.
+
+==História==
+[[Arquivo:Rioraidredentor.png|thumb|right|A história do jogo conta uma incursão de um avião da [[Luftwaffe]] no Rio de Janeiro! Muito tiroteio e bala perdida te espera neste jogo com muitas confusões!]]
+
+Na verdade o jogo não tem história. Porém, estudantes do programa de Mestrado em Ciências Humanas do [[IFCS]] e pesquisadores da [[UERJ]] se debruçaram sobre a linearidade apresentada pelo jogo, e através da metodologia de análise dos "discursos latentes" destacaram um painel com os tópicos mais importantes da provável história do jogo.
+
+Como pesquisadores e estudantes de ciências sociais são capazes de travestir as maiores inutilidades em seriedade com um discurso de cientificidade, saiu mais ou menos essa porcaria ai em baixo.
+
+===Declaração de guerra===
+O [[Comando Vermelho]] assumiu ilegalmente o controle de todas as favelas do Rio de Janeiro. Nosso país (os [[Estados Unidos]]) considera isso um ato de guerra aberta. O Rio tem sido reconhecido como uma fronteira natural entre os traficantes colombianos e os consumidores Europeus e norte-americanos, um protetorado de nossa nação desde a assinatura do "Tratado Secreto de Livre Exportação de Drogas em 1985". Não responder a este ato agressivo só irá encorajar ações violentas por parte do próprio Comando Vermelho contra o Governo <s>Brasileiro</s> Bananense. Para proteger os interesses das <s>mafiosas</s> empresas americanas e restaurar a paz nesta região turbulenta, iremos "formalmente" declarar guerra contra o [[Comando Vermelho]].
+
+[[Arquivo:CATSare.jpg|center|基地はすべて我々に属して]]
+
+O que você está prestes a ler foi classificado "top secret" (Altamente Secreto). Nada aqui contido deve ser divulgado a qualquer pessoa com um certificado de segurança mais baixo do que o seu próprio. As informações a seguir pertencem a uma missão secreta que nós chamamos sob o código "River Raid" (incursão no rio).
+
+=====O objetivo=====
+Você está para se infiltrar em território inimigo, o Rio de Janeiro, para localizar e destruir todos os inimigos que ocupam as referidas comunidades às margens de um Rio que os colonizadores portugueses conheciam como "[[baía de Guanabara]]". Esta é uma missão de "destruição total", ou seja, atire em tudo que vê. Tudo em seu caminho deve ser destruído. O sucesso desta missão será avaliado no valor das propriedades que você conseguir <s>desperdiçar</s> destruir.
+
+Tente encontrar um manual de instruções de pilotos que informe sobre os inimigos recolhidos por operações de inteligência no exterior. Boa sorte.
+
+
+{{ampliar}}
+
+{{Shoot 'em up}}
+[[Categoria:Jogos da Activision]]
+[[Categoria:Jogos para Atari 2600]]
+[[Categoria:Jogos para Atari 5200]]
+[[Categoria:Jogos lançados em 1982]]

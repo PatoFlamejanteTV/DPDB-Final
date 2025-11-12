@@ -1,0 +1,92 @@
+{{Box ClubeFutebol
+|cor_clara         = gold
+|cor_escura        = black
+|brasao            = Escudo do Olé Brasil.png
+|hino              = "Os gelados"
+|nome_oficial      = Olé Brasil Bocha Clube
+|origem            = {{SP}} '''[[Ribeirão Preto]]'''
+|apelidos          = Pinguim seco
+|torcedores        = Pinguim dos panteras
+|torcidas          = Pingaiada dos Pinguins
+|mascote           = [[Pingu]]
+|ilustre           = [[Jorge Kajuru]]
+|estadio           = José Carlos Cachaça (em construção)
+|capacidade        = 5.000 pedreiros
+|sede              = '''[[Ribeirão Preto]]'''; Rua do frio, 000
+|presidente        = Pinguim
+|treinador         = Pinguim
+|pior              = [[Oscar Schimitd]]
+|melhor            = [[Hortência]]
+|patrocinador      = Antártica
+|material          = Frieza
+|liga              = Campeonato Paulista
+|divisao           = -3
+|títulos           = O quê?
+|ranking           = -80°
+|uniformetitular   = Uniforme02.jpg
+|uniformealt       = Uniforme02.jpg
+}}
+
+'''Olé Brasil Futebol Clube''' (sim, com esse nome de time peladeiro de fim-de-semana) é o mais novo time de futebol de [[Ribeirão Preto]]. Todas as suas partidas são apitadas por [[José Roberto Wright|José Roberto Wrong]] em parceria com a [[Rede Vida]], que mostra todas as suas partidas.
+
+O clube-empresa objetiva atingir a primeira divisão do Campeonato Paulista em [[2012]] e tem como missão preparar sócio-culturalmente atletas para atuarem no exterior.
+
+== História ==
+
+É um time novo, fundado em 2006, jamais saiu da última divisão e só não entra em falência porque nenhum de seus jogadores cobra salário, são apenas peladeiros que não viajam para os jogos fora, quando o Olé perde de W.O., e recebem os jogos em casa no estádio [[Palma Travassos]], por isso nunca subiu de divisão em 10 anos de história.
+
+== Mascote ==
+
+Seu mascote é o [[pinguim]] em homenagem a um boteco famoso de Ribeirão Preto, que depois da [[Botafogo Futebol Clube (Ribeirão Preto)|pantera cor-de-rosa]] e do [[Comercial Futebol Clube (Ribeirão Preto)|rei leão]], surgiu um animalzinho em extinção.
+
+== Hino ==
+
+<poem>
+Ah que delícia ([[Jailson Mendes]]?)
+Meu time se fodeu em campo
+Com putas, com vagabundagem
+E muita história pra fuder
+Sou menos azul e amarelo
+Olé me faz chorar
+ 
+Olé só me traz tristeza
+O pingüim gelado é meu mascote
+É futebol de putaria
+No passado, derrota
+No futuro, não há vitória
+Olé Brasil meu pededor
+ 
+Porra!
+É gol, levou no cu
+Não sou olé de coração
+Olé Brasil, porra! (Imitando [[Kleber Bambam]])
+Mais que belezura, uma desgraça
+ 
+Eu sou triste!
+Sou puto
+Eu sou outra coisa
+Faça chuva ou faça sol.
+ 
+Quero derrota, quero derrota, quero derrota.
+Quero derrota, quero derrota, quero derrota, olé!
+Quero derrota, quero derrota, quero derrota.
+Quero derrota, quero derrota, quero derrota, olé!
+</poem>
+
+== Clube poliesportivo ==
+
+O Olé Brasil possui em sua sede atividades nos mais diversos esportes, atuando em vários setores do entretenimento e do esporte, proporcionando uma gama de serviços para seus 5 sócios-torcedores, que vão desde programas de intercâmbio para cursos de maloqueiragem e clínicas de tutebol como também a organização de eventos de aniversário (quando o clube adversário foi maior de 18 anos, o Olé se solidariza e perde de propósito um jogo comemorativo), locação de quadras e academia de futebol.
+
+Possui inclusive um joguinho:
+
+<center><YouTube>
+movie_url=http://elegans.imbb.forth.gr/games/bloody.pingu.swf
+embed_source_url=http://elegans.imbb.forth.gr/games/bloody.pingu.swf
+wrap=no
+width=700
+height=576
+</YouTube></center>
+
+{{Campeonato Paulista}}
+
+[[Categoria:Times de futebol de São Paulo]]

@@ -1,0 +1,52 @@
+{{jogo}}
+
+{{Infobox Game
+|title     = <s>FIFA 24</s> FC 24
+|image     = EA FC 24 cover.png
+|caption   = Capa do jogo
+|developer = [[EA Sports]]
+|publisher = [[EA Sports]]
+|released  = 2023
+|genre     = Futebolzinho
+|platform  = Tudo quanto console
+|rating    = -10/10
+|ages      = Livre
+}}
+
+'''EA Sports FC 24''' é o primeiro [[FIFA (série de jogos)|FIFA]] que não é FIFA da [[Electronic Arts]] lançando em 2023 não como FIFA 23, muito menos como FIFA 24, mas sim como o nome mais genérico de todos os tempos: FC 24. Se você acha que a mudança no nome traria mudança na gameplay como se a Electronic Arts quisesse provar para o mundo que ela é melhor que quatro letras, então se enganou, porque o jogo ainda é o mesmo copia e cola do [[FIFA 23]] que é copia e cola dos anteriores. Inclusive com todos bugs ali presentes. O ''[[Brasileirão|Mod Brasileirão]], que foi feito por meia dúzia de nerds, conseguiu ficar melhor.
+
+== Desenvolvimento ==
+
+Com a Konami mais preocupada em fabricar máquinas de [[pachinko]], a EA perdeu qualquer concorrente no ramo de joguinhos de futebol, então sabiam que podiam criar qualquer bosta que venderiam aos montes para os "ratos". Sim, a EA apelidou a sua fanbase de jogadores de "ratos", que são pessoas com baixa auto-estima incapazes de exigir algo melhor de sua empresa favorita e vão continuar gastando caminhões de dinheiro não importa quão ruim esteja o jogo sustentando essa indústria mercenária.
+
+A Electronic Arts implantou todas suas clássicas ferramentas, desde o "Software do Gol Cagado" que faz a máquina fazer um gol se você estiver ganhando muito, até o "Software Anti-Diniz" pois o jogo é absolutamente contra posse de bola muito longa (se você ficar mais de 30 segundos tocando bola, os seus jogadores sofrem um AVC e erram o passe automaticamente). E também o "Software de Sistema de Transferências Ridículas", onde vemos o [[Domenico Berardi|Berardi]] indo para o [[Manchester City]], e o [[Ciro Immobile|Immobile]] indo para o [[Real Madrid]].
+
+Mas justiça seja feita, os desenvolvedores da Electronic Arts ouviram seus aguerridos fãs e decidiram trazer coisas que os seus fãs mais precisavam e clamavam! Uma jogabilidade balanceada? Uma física mais aprimorada onde a bola não fica enroscada e atravessando partes dos corpos dos jogadores? Não, isso não era urgente, a EA preferiu trazer A INCRÍVEL OPÇÃO de homem e mulher jogarem juntos! Também aproveitaram e não tem mais a cena de entrada dos times, sob alegação de que todo mundo pulava aquilo.
+
+== Jogabilidade ==
+
+[[Arquivo:EA-FC-24-CALF-DRIBBLE.png|thumb|left|FC 24 introduziu o "drible do chute do vento" onde você coloca  abola no calcanhar, as vezes pega a bola até na mão, e ao invés de marcar um gol, você marca um touchdown no gol adversário.]]
+
+O jogo continua um cassino online descarado sobre comprar pacotinhos e tirar cartas aleatórias dele, o famoso ''Modo Ultimate Team''! Quem nunca quis comprar um jogo de futebol e passar 90% do tempo apenas gastando dinheiro para conseguir cartinhas e montar um time foderoso? Só para perder todos os jogos porque a máquina tem esse dispositivo roubado que não deixa as pessoas ganharem muitos jogos consecutivos. Aliás, dizem ainda ter um jogo de futebol ali.
+
+A parte do jogo de futebol, bom, essa é a pior parte do FC 24, porque durante os 5 ou 7 minutos há apenas puro [[futebol]] e nada que envolva gastar dinheiro na compra de cartinhas. Então o que temos é um futebolzinho cheio de boneco feio que não foram feitos na [[Unreal Engine]] deslizando ao invés de correr, grudando a bola no corpo quando a bola não atravessa as partes dos corpos dos jogadores.
+
+Sobre marcar um gol, só é possível por jogadas pela lateral. Isso acontece porque não importa qual tática você escolha, o meio de campo estará sempre entupido de jogadores congestionando qualquer possibilidade de taque pelo meio, tornando jogadores como [[Kevin De Bruyne|De Bruyne]] e [[Luka Modrić]] as coisas mais inúteis do mundo, enquanto do nada uns caras como [[Kieran Trippier|Trippier]] e [[Phil Foden|Foden]] se tornam os melhores jogadores do mundo.
+
+A única novidade real é que agora você pode demitir e contratar preparadores físico para o seu time. Nossa, que legal!
+
+== Recepção ==
+
+FC 24 foi amplamente aceito como "jogável" e eleito como "um dos jogos lançados em 2023", "melhor FIFA de todos os tempos lançado em 2023" e "melhor FIFA que não é FIFA até o próximo lançamento". Um jogo ruim que só serve para dar raiva.
+
+{{EA Sports FC}}
+
+[[Categoria:Jogos da Electronic Arts]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para PlayStation 5]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos para Xbox Series X]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos de esportes]]
+[[Categoria:Jogos lançados em 2023]]

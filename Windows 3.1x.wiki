@@ -1,0 +1,87 @@
+{{Microsoft}}
+
+{{Logotipo falso|Winlogo3.gif}}
+[[Arquivo:Win31.gif|right|200px]]
+
+{{Você quis dizer|MS-DOS}}
+{{Você quis dizer|Tadaaa!!!}}
+{{C|É uma cilada, Bino!|Pedro|Microsoft Windows 3.1}}
+{{c|Cópia barata do Window Maker!|Linuz Torvalds|interface mal copiada do Window Maker (Linux)}}
+{{C|Isto é a revolução!|Bill Gates|Microsoft Windows 3.1}}
+{{C|Só se for a revolução da merda!|Linus Torvalds|Microsoft Windows 3.1}}
+{{C|Você mexe com o mouse!|Bill Gates|Microsoft Windows 3.1}}
+{{C|Ninguém mexe com meu sobrenome!|Mickey|Microsoft Windows 3.1}}
+{{C|Enfia o mouse no c*****!|Linus Torvalds|Microsoft Windows 3.1}}
+{{C|Enfiar o mouse no Java?|Nerd|Linus Torvalds}}
+{{C|É muito fácil inicializar o Windows 3.1 no MS-DOS, digite: C:\Windows\Win. Faça isso antes que a tela azul apareça!|Bill Gates|Microsoft Windows 3.1}}
+{{C|Run for your lives!|Noobs|Microsoft Windows 3.1}}
+{{C|Sr 31 tá sem mouse? Vai jogar no chão? Vai enfiar no c*?|Capitão Nascimento|Microsoft Windows 3.1}}
+
+'''Microsoft Windows 3.1''' é uma versão arcaica e primeira a se tornar conhecida do [[Windows]] da [[Microsoft]] lançada em [[1990]]. Fazia dar [[pau]] nos [[386]]'s e [[486]]'s da época...
+
+[[Você]] instalava pra tirar onda, pra mostrar para os [[amigo]]s que você abria as [[janela]]s com o ''[[mouse]]'', mas tudo que você queria jogar tinha que rodar pelo [[DOS]]!
+
+==O nome==
+
+Por que ele tem esse 3.1? É simples, esse número é baseado em uma constante do Windows 3.1:
+
+*X = 3 x 1 x y *100%
+
+X = Constante de erros do Windows
+
+Y = Número de tarefas executadas
+
+Ex: Se eu abrir o [[Microsoft Paint|Paint]] e a calculadora tenho 600% de chances de mostrar a temida [[Tela Azul da Morte]] no computador. Mas como o Windows 3.1 tinha a incrível habilidade de executar 1 tarefa por vez, muitas pessoas o chamam de Windows 3.11.
+
+==Instalação==
+
+Bom, esta porcaria véia vinha em exatamente 20 disquetes! (mais o [[MS-DOS]] que você tinha que ter instalado no PC). Então imagine a putaria que é um disquete hoje abrir e copiar alguma coisa, então na época dos lixos de 286, 386, 486, [[Tua mãe|sua mãe]] e [[você]]! Era tão lento que você deixava instalando a noite toda, para acordar e mostrar:
+"Este instalador executou uma operação ilegal."
+Se você tiver a sorte de passar disso, terá que instalar os drivers para o PC para parar os erros de drivers, assim você poderá mexer no incrível Windows e ver mensagens incríveis como:
+
+{{C|Keyboard not found, press F13 to continue.|[[Teclado (computador)|Teclado]]|Sua ausência}}
+{{C|Erro no mouse 0xx11ff19, aperte Ok para continuar|Mouse|Ausência de qualidade do Windows}}
+
+==Visual==
+
+Com um visual de merda, onde na época nem botão Iniciar existia, você se sente em casa! Não podendo gerenciar quase porra nenhuma e não ter nada que preste nele, exceto jogar [[Doom]] através do [[DOS]].
+
+==A revolução==
+Observe a incrível interface gráfica 3D do Windows 3.11:
+[[Arquivo:3.13d.png|thumb|200px|left|Aero no Windows 3.1!!!]]
+Naquela época o Windows 3.1 foi uma revolução, com eles vieram milhares de novidades, sendo a principal a interface gráfica, assim, o Windows 3.1 trouxe a possibilidade de ser ver pornô fora da TV ou de revistas, uma revolução tecnológica que chacoalhou a [[Terra]]. Além disso existiram outras inovações que enlouqueceram os <s>nerds</s> especialistas em informática, como:
+
+*Paint 2.0
+*DirectX 0
+*Pong
+*[[Campo Minado]]
+*[[Paciência]]
+*[[Tela Azul da Morte]]
+*Erro de Operação ilegal
+*Erro de Operação ilegal 16 bits
+*Erro de operação Ilegal 0 bits
+*Erro de Estouro de Bateria
+*Erro de USB (Usuário Super Burro)
+*Gerenciador de Programas
+*Interação com o Mouse (Incrível, com esta ferramenta, agora você pode mexer no seu computador com uma das mãos livre, podendo <s>se masturbar</s> fazer outras coisas como beber um suco enquanto mexe em sua máquina errante.)
+*[[Photochope]] 1
+*Tela "Seu [[Computador|comPUTAdor]] já pode ser desligado com segurança".
+*Doom 
+*[[Tibia]]
+
+<gallery>
+Imagem:MS3.1.jpg|Observe o avançadíssimo design gráfico do Windows.
+Imagem:MS3.2.jpg|A Microsoft se superou!
+Imagem:Cópia de Antivirus rhatazana.jpg|Atenção, o antivírus Rhatazana "não" é compatível com este sistema operacional (hahaha, se fudeu!!!)
+</gallery>
+
+== Ligações externas ==
+[http://www.youtube.com/watch?v=aGQoaEJFAQ8 Steve Ballmer nos tempos do Cruzado dando uma de marqueteiro do Polishop com o Windows.]
+
+[http://www.michaelv.org/ Emulador de Windows 3.1]
+
+[http://www.youtube.com/watch?v=QDUv_8Dw-Mw Inicialização do Windows 3.1]
+
+[[Categoria:Antiguidades]]
+
+{{Windows}}

@@ -1,0 +1,28 @@
+{{física}}
+
+{{c|                              |[[Gordon Freeman]]|lambda}}
+{{c|LAMBDA, LAMBDA, LAMBDA NERDIIIIS!!!!|Jovem Nerd|lambda}}
+{{c|SíMboLu dO [[Half-Life|RáLfI LáIfI]]!|Nerd Virgem|lambda}}
+{{c|Dei uma no pau do [[Bill Clinton]]|Monica Lewinsky|lambda}}
+{{c|I don't like lambs, but I looooove horses!|Paris Hilton|lambda}}
+{{c|Isso vem de um filme...|Rubens Edwald Filho|lambda}}
+ 
+'''Λ''' (minúscula: '''λ''') ou '''lambda''' é a décima primeira letra do [[alfabeto grego]]. No [[sistema numérico grego]] vale [[24]].
+
+*No estudo de [[mar|ondas]], lambda representa o [[pinto|comprimento de onda]], necessário para que um [[surfista]] possa calcular a probabilidade de levar um caldo durante um tubo.
+[[Arquivo:800px-Lambda uc lc.svg.png|thumb|right|200px|Lambda]]
+As fórmulas da lambda relacionadas ao comprimento da onda são:
+v = λ *i ou f = λ / (-i)
+[[Arquivo:Japa lambendo pescoco.jpg|thumb|right|200px|Lambida]]
+*Em [[Álgebra Linear]], lambda representa os [[autovalores]] de uma linha reta, ou seja, um escalar que satisfaz <math>A x = \lambda x</math>, para algum x, denominado [[autovetor]]. Λ representa uma matriz diagonal onde as entradas são os [[autovalores]] da matriz A, com decomposição espectral <math>A = X \Lambda X^{-1}</math>
+*Em [[Física Nuclear]], lambda representa [[zumbi|mortos vivos]].
+*Em [[Imunologia]], representa uma das cadeias leves das [[Hemoglobinas]]
+*Em [[Ciência da computação]], [[cálculo lambda]] (λ-calculus), quando jogado na plataforma [[C_Sharp|C#]], vira o jogo do [[Pac-Man]].
+*Como símbolo do [[Half Life]].
+
+
+
+
+
+
+[[Categoria:Alfabeto grego]]

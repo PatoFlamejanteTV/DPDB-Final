@@ -1,0 +1,41 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Príncipe do Irã
+|image     = Prince of Persia 1989 Capa.jpg
+|caption   = Capa do jogo que mais parece de um livro
+|developer = [[Brøderbund]]
+|publisher = [[Brøderbund]]
+|released  = 1989
+|genre     = Jogo de Pulo
+|platform  = [[DOS]]
+|rating    = 5%
+|ages      = +16 (necessário coordenação motora já desenvolvida)
+}}
+
+'''Prince of Persia''' é talvez o primeiro jogo para PC feito na história que não fosse [[Paciência]], [[Campo Minado]], [[Tetris]] ou [[Xadrez]]. Lançado em 1889, era revolucionário para sua época e requeria os melhores computadores do mundo para conseguir rodar. Este avanço tecnológico tão marcante em jogabilidade e interatividade só seria superado quando os japoneses inventassem o [[Tamagotchi]] em [[1996]].
+
+== Enredo ==
+
+[[Arquivo:Prince of Persia 1989.jpg|thumb|left|[[Checkpoint]]? Isso é pros fracos. Não nesse jogo.]]
+
+Estamos falando de um jogo lançado para computadores antediluvianos, ou seja, o enredo não era exatamente aquela maravilha super elaborada. Qualquer desenvolvedor dedicado necessitava de anos de trabalho para fazer meia dúzia de pixels se locomoverem adequadamente, portanto o tempo para o roteiro eram apenas os 15 minutos finais do desenvolvimento do jogo. Ainda assim, para o nível da cultura da época, era uma [[história]] envolvente e revolucionária. O jogo conta a história de um vizir (sempre eles) que aplica um golpe de Estado no sultão da [[Pérsia]], de maneira tão brilhante que [[Wololo|converte]] todos os [[soldado]]s do palácio sem qualquer dificuldade à sua vontade.
+
+No auge da psicopatia, este vizir se transforma em uma ampulheta, alegando que se casaria com a princesa em 1 hora (sendo esta uma crítica direta aos males que a punheta em excesso poderia causar, um problema muito debatido no final da década de 80), e se em 1 hora a princesa não mudar de opinião, o vizir matará a donzela. Afinal de contas, na mente do vizir, nenhuma cintura no pedaço poderia ser mais esbelta que a dele. Enquanto isso, um maluco aleatório no calabouço que alega ser o Príncipe escapa do cárcere, e agora corre contra o tempo para resgatar a princesa. Não sabemos se ele possui [[audição]] sobrenatural ou usa telepatia, mas ele sabe que precisa encontrá-la.
+
+== Jogabilidade ==
+Originalmente, este jogo havia sido criado como um [[software]] educacional tal qual aqueles joguinhos de aulas de inglês ou de identificação de sons de animais. Prince of Persia era um projeto que visava ensinar às [[criança]]s algumas habilidades básicas (e perigosas) de esgrima, alertar sobre os perigos de subir em bordas de aproximadamente três metros acima do chão e o mais importante: não [[Perda de tempo|perder tempo]] com bobagens.
+
+Enquanto jogos de sucesso da época como [[Super Mario Bros.]] relevavam quaisquer consequências acerca de quedas, perfurações, contusões, duelos e consumo de [[veneno]]s, o jogo Prince of Persia visava tratar o realismo. Em grandes proporções. Isso impedia qualquer criança normal de passar do primeiro obstáculo do jogo: a maioria dos jogadores caía repetidas vezes naquele maldito buraco com espetos no fundo e logo abandonava o negócio. O resultado da queda era tão dramático que seria mais ou menos o que aconteceria com qualquer [[ser humano]] doidão que arriscasse a vida naquele mesmo pulo.
+
+== Recepção ==
+
+Prince of Persia atingiu um modesto sucesso na década de 90 devido ao seu uso inovador de reais atores para a criação dos ''sprites'' dos personagens. Antes, o desenvolvimento de qualquer personagem de videogame era interpretado por [[Sock puppet|fantoches]] ou outros bonecos autômatos, mas Prince of Persia foi pioneiro no uso de atores vivos, permitindo retratar o jogo com todo o realismo desejado e um protagonista mais fluido, que se movimenta exatamente como alguém sem qualquer coordenação motora, senso de direção ou mesmo de perigo.
+
+{{Prince of Persia}}
+
+[[Categoria:Jogos lançados em 1989]]
+[[Categoria:Jogos da Brøderbund]]
+[[Categoria:Jogos para Apple II]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de plataforma]]

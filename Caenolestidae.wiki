@@ -1,0 +1,37 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Gambá-musaranho
+| imagem          = Gambá-musaranho.jpg
+| imagem_legenda  = Um gambá-musaranho lambendo o chão para se alimentar
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| subclasse       = [[Theria]]
+| infraclasse     = [[Marsupialia|Marsupilami]]
+| ordem           = '''[[Paucituberculata|Paunocutuberculose]]'''
+| família         = [[Caenolestidae|Canelonestidae]]
+}}
+
+'''Caenolestidae''', animais mamíferos denominados mais comumente como '''gambá-musaranho''', devido à incerteza sobre o que realmente são, são um grupo a parte de [[gambá]]s que são misturados com [[musaranho]]s. A sua principal característica é tentar evitar a má fama das outras espécies de [[gambá]]s, tentando estes bichos serem mais fofos e graciosos que seus primos imundos, mas por carregarem o estigma de serem gambás, jamais são adotados como animal de estimação e mesmo sendo fofinhos são todos seres que vivem nos esgotos e lixões da Patagônia e dos Andes.
+
+== Anatomia ==
+
+Embora tentem parecer fofinhos, acessíveis, dóceis e carinhosos, os gambás-musaranhos carregam em sua genética o estilo de vida gambá, e são portanto fedidos e viciados em morder quem quer que se aproxime, mesmo que com boas intenções. Os seus dentes afiados servem para estraçalhar suas vítimas e sua pelugem felpuda serve apenas para garantir a estes animais um aspecto mais sujo e fedorento na medida em que se entocam em seus buracos.
+
+Como marsupiais, as fêmeas defecam os seus filhotes e depois os guardam em bolsas até atingirem a maturidade, quando devoram a própria mãe e podem assim iniciar a sua vida adulta.
+
+Há poucos estudos e dados sobre estes animais, afinal nem todo biólogo é desocupado o bastante para viajar aos Andes para conhecer inúteis gambás-musaranhos, que não farão falta alguma se forem extintos, mas que todos sabem ser uma praga que nãos erá extinta assim tao facilmente, até mesmo porque as espécies desse bicho sobrevivem comendo terra e lixo.
+
+== Habitat ==
+
+Estes raros marsupiais são encontrados apenas nos [[Andes]], onde os seus habitantes os confundem com porquinhos-da-índia, e por isso não os caçam, pois seus ancestrais da polinésia já não existem mais, pois foram todos caçados e devorados.
+
+== Gêneros ==
+
+* '''[[Caenolestes]]''' - Gambás-musaranhos-andinos
+* '''[[Lestoros]]'''- Gambá-musaranho-inca
+* '''[[Rhyncholestes]]''' - Gambá-musaranho-de-nariz-longo
+
+[[Categoria:Marsupialia]]
+[[Categoria:Caenolestidae|*]]

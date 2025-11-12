@@ -1,0 +1,68 @@
+{{Ladrao}}
+{{burro}}
+{{vilão}}
+
+{| class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+|-
+!style="text-align:center; {{{comic_color}}}"|<big>'''''Irmãos Metralha'''''</big>
+|-
+|style="text-align: center; font-size: 90%;"|
+<br />
+|-
+|[[Arquivo:Matralha 999.jpg|center|220px]]
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+|- style="vertical-align: top;"
+|'''''Nome Real'''''||''Xiiii...''
+|- style="vertical-align: top;"
+|'''''Cidade'''''||''[[Patópolis]] (geração atual) e uma cidade lá no interiorzão dos [[Estados Unidos]] (os antigos)''
+|}
+|-
+|
+----
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+!colspan="2" style="text-align:center;{{{alliance_color}}}"|Características
+|- style="vertical-align: top;"
+|'''''Inteligência'''''||''{{000}}''
+|- class="hiddenStructure{{{alliances}}}" style="vertical-align: top;"
+|'''''Afiliações'''''||''Os carcereiros''
+|- class="hiddenStructure{{{relatives}}}" style="vertical-align: top;"
+|'''''Parentes'''''||''[[Mais de 8000]], isso sem contar os parentes do interior...''
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''''Inimigos'''''||''Todo mundo, mas especialmente o [[Coronel Cintra]]''
+|- style="vertical-align: top;"
+|'''''Poderes'''''||''Inventar [[Cebolinha (quadrinhos)|planos infalíveis]] que sempre falham''
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''''Amigos'''''||''[[Mancha Negra]], [[João Bafo-de-Onça|Bafo-de-Onça]], [[Mac Mônei|Pão-Duro Mac Monei]], [[Patacôncio]], [[Maga Patalógika]] e qualquer outro antagonista no mundo Disney''
+|}
+|}
+{{vqd|[[Petralha]]}}
+
+'''{{PAGENAME}}''' é um grupo {{Strike|nada}} secreto de ladrões que tem por objetivo roubar a caixa-forte do [[Tio Patinhas]]. Porém, eles nunca conseguiram roubar sequer uma moedinha do cofre, e, quando eles tentam executar os seus assaltos, os {{PAGENAME}} sempre acabam tomando [[noku]].
+
+==História==
+[[Arquivo:Metralha 1000.jpg|thumb|left|200px|Os {{PAGENAME}} são ladrões extremamente competentes, que levam o seu trabalho a sério.]]
+Os {{PAGENAME}} surgiram lá em [[1400 e lá vai pedrada]], no tempo em que o [[Tio Patinhas]] era um simples garimpeiro que só tinha dinheiro para comprar um sanduíche de ovo no botequim da esquina. Nesses tempos remotos, era a época da corrida do ouro, e tinham [[mais de 8000]] garimpeiros querendo conseguir o seu [[ouro]]. E, obviamente, como o ouro é uma palavra mágica, logo começaram a surgir os bandidos. 
+No meio desses ladrões de ouro, estavam uns sujeitos que ficavam apenas nas sombras. Esses eram os {{PAGENAME}}, que nunca saíam no [[Sol]], pois não queriam mostrar os seus rostos. Até que um dia [[Porcolino Ferradura]] contratou os {{PAGENAME}} para sabotar o barco de [[Patico]], que era o tio do [[Tio Patinhas]]. Como os {{PAGENAME}} não mostravam o rosto, Porcolino Ferradura deu para cada um deles uma máscara de [[Carnaval]]. 
+
+Após colocarem as máscaras, os {{PAGENAME}} adquiriram a aparência que eles tem hoje.
+Porém, naquele tempo dos {{PAGENAME}} já eram completo idiotas, e fracassaram em sua missão. Porém, eles juraram vingança {{Strike|assim como todo [[vilão]]}}. Mas o [[Tio Patinhas]] tava [[Ricardo Teixeira|cagando de montão]] para isso, e, no auge de sua juventude, o Tio Patinhas mandou os {{PAGENAME}} irem queimar a rosca no [[inferno]], junto com o [[Hitler]].
+Depois desse dia, os {{PAGENAME}} ficaram bolando os seus planos para tentar derrubar o [[Tio Patinhas]], porém, todos os planos falharam desgraçadamente. Mas os {{PAGENAME}} {{Strike|são brasileiros e}} não desistem nunca, e juraram que iriam roubar o [[Tio Patinhas]] nem que eles tivessem que esperar até [[2012]]. E eles cumpriram, pois, quando os {{PAGENAME}} dessa geração foram ficando velhos, eles ensinaram todos os segredos da profissão para os mais novos {{PAGENAME}}, sendo que o mais antigo ficou sendo o '''[[Vovô Metralha]]'''.
+
+==Planos==
+
+O [[primeiro]] plano da nova geração dos {{PAGENAME}} para roubar toda a fortuna do [[Tio Patinhas]] foi o de eles se disfarçarem de [[Papai Noel]]. E eles ficaram quase que irreconhecíveis, afinal, todos eles tem a barriguinha de polenta característica do bom velhinho. Com esse disfarçe de [[Papai Noel]], os {{PAGENAME}} quase conseguiram concretizar os seus planos, porém, o [[Tio Patinhas]], que estava parado há algum tempo, voltou à ativa, e, utilizando as suas técnicas de laço, que tinha aprendido com o [[Bufalo Bill]], ele conseguiu mandar todos os {{PAGENAME}} para o chão, e os mandou para a cadeia. Depois dessa prisão, os {{PAGENAME}} perceberam que o velho [[Tio Patinhas]] ainda tinha bastante força, e resolveram que só iriam parar de tentar quando eles morressem. Bem, se depender dos escritores, vai ser até a morte mesmo...
+
+==Ver também==
+
+*[[Tio Patinhas]]
+*[[Porcolino Ferradura]]
+*[[Mamãe Metralha]]
+
+----
+
+{{Disney}}
+{{Irmãos}}
+
+[[Categoria:Vagabundos]]

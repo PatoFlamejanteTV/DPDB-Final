@@ -1,0 +1,163 @@
+{{DISPLAYTITLE:Viu seu amiguinho usar Ubuntu, ficou com inveja e quer usar também?}}
+
+[[Arquivo:Ubuntu Mangekyou by Myrskynmurtaja.jpg|thumb|right|O [[Sharingan]] de um fã de [[Naruto]] após usar Ubuntu]] 
+{{compactar|
+{{Você quis dizer|Ubuntu, Linux para posers?}}
+{{Você quis dizer|O piolho no saco do Bill Gates}}
+{{Você quis dizer|Ubumbuntu}}
+{{C|Eu recomendo, mesmo a nova versão não rodando no meu MacBook.|Bill Gates|Ubuntu}}
+{{C|É para chamar de Macbuntu ou de Ubuntosh?|Steve Jobs|Ubuntu}}
+{{C|Odeio o Windows e não tenho dinheiro para comprar um Mac.|Usuário de Ubuntu|Ubuntu}}
+{{C|Ubuntu, I am your father.|Debian|Ubuntu}}
+{{C|O Ubuntu nada mais é do que um tema para o Debian.|Ian Murdock|Ubuntu}}
+{{C|Linux para preguiçosos e newbies.|Usuário de Slackware|Usuário do Ubuntu}}
+{{C|Noob.|Usuário de Gentoo|Ubuntu}}
+{{C|Se fosse bom, já estaria instalado aí no meu computador.|[[Sobrinho (informática)|Sobrinho]] ''expert''|Ubuntu}}
+{{C|WTF, eles tiraram o xorg.conf, não dá para usar a nova versão! Quer saber, vou trocar de distro!|Nerd puto da vida|Ubuntu 9.10}}
+{{C|Aquele programa com cor de merda?|Usuário de Windows|o mundinho cor-de-rosa em que ele vive}}
+{{C|Inveja mata ([[processo (sistema operacional)|processo]]s)!|Compiz|Windows Vista}}
+{{C|Nossos pais sempre deram mais atenção para ele do que para mim.|Kubuntu|Ubuntu}}
+{{C|O Ubuntu foi a base para o desenvolvimento do Windows Vista e do Aero.|Desenvolvedor da Microsoft|Windows Vista e Aero}}
+{{C|Se eu tento desinstalar o linux-sound-base, ele fala que vai desinstalar o gdm.|Usuário de Ubuntu|Ubuntu}}
+{{C|E não é que desinstala mesmo?|Usuário louco sobre a [[frase acima]]}}
+{{C|Eu só rodo diretamente do CD porque eu não tenho HD para instalar.|[[Noob]]|o HD dele que pifou e só restou o Live CD}}
+{{C|O meu HD pifou também, mas eu rodo diretamente do Live USB, assim dá para instalar jogos e programas nele.|[[Nerd]]|ele mesmo estar mais preparado}}
+{{C|Caralho, porque eu não fiz um desses?|[[Noob]]|o comentário acima}}
+{{C|Porcaria do MerdaGL! Não tem gráficos reais!|[[Nerd]]|o [[OpenGL]] ser a única API gráfica do Ubuntu e de todos os sistemas Linux}}
+{{C|Ubuntu 11.04 Natty Narwhal virá com Unity, que é pior que o Gnome 3|[[X9]] [[Militonto]]|Ubuntu}}
+}}
+[[Arquivo:Captura de tela-1.png|thumb|200px|Prova de que o Ubuntu é emo]]
+O '''Ubuntu''' é uma distribuição [[Linux]] de tema [[África|africano]], voltada para uso aborígene ou mezocráico e criado por uma instituição não-governamental, a [[Canonical]]. Devido ao intenso tráfico de [[diamante negro]] na África é preciso vigiar os pobres através de funções avançadas como bash, trackerd e updatedb. 
+
+[[Arquivo:Ubuntukillyou.png|thumb|left|200px|"Sim, o Ubuntu vai matar você! Muahahahahah!"]]
+O seu nome estranho veio da sua [[TIA]] do Tupi pronuncia-se ''Unh-boum-tuó'', e significa urubu, o primeiro pajé que o pronunciou estava de boca cheia. O sistema foi testado em várias tribos por toda a [[Argentina]] antes de atingir todo o planeta, fazendo grande sucesso entre os usuários que nada sabem sobre Linux e querem usá-lo para aparecer. Assim, ficou famoso por ser o primeiro a aceitar conexão com a internet.
+
+[[Arquivo:Ubuntu.jpg|thumb|400px|Paradoxo Ubuntu]]
+Em várias tribos da África, o Ubuntu já é utilizado para calcular pontas de flecha mais aerodinâmicas, gerenciar o estoque de caça e na comunicação com Deuses em redes de satélite, além de aperfeiçoar as técnicas de fabricação de tambores e tamborins. Os CDs de "PowerPCs" que ninguém usa já formam uma mancha visível de satélite.
+
+== A História do Ubuntu ==
+[[Arquivo:MsLinux.gif|right|thumb|Versão beta 2 do Microsoft Linux 2005]]
+Tudo começou nas distantes savanas africanas do [[Mundo do Contra]]. Lá vivia uma tribo de aborígenes nerds chamada de Mambo-Zango-Trum. Um dos membros da tribo chamava-se [[Shark Muddleworh]], e vivia muito feliz em sua infância ouvindo dos membros mais velhos a fabulosa história do [[Debian GNU/Linux]]. O seu maior sonho era se unir ao grupo de heróis [[nerd]]s que eram capazes de usá-lo. 
+
+Mas, assim como acontece com todos, um dia a infância acaba e surgem as responsabilidades da vida adulta. Para Shark, isso aconteceu no dia em que o ancião de sua tribo o chamou e deu a ele uma tarefa para ser cumprida como parte de seu ritual de passagem para a vida adulta. Para ser reconhecido como um homem de verdade diante de sua tribo, Shark teria que viajar para o espaço em uma espaçonave. Obviamente, o ancião estava-o sacaneando.
+
+Mas o nosso grande guerreiro não iria desistir tão facilmente. [[Ele]] estava decidido cumprir a tarefa que lhe havia sido atribuída. Depois de consultar os deuses através de tambores feitos de gabinetes de computador, Shark viajou para terras distantes montado em cima de um camelo. Durante suas viagens, entrou em contato com muitos nerds e muitos [[astronauta]]s, mas nenhum deles queria ajudá-lo a viajar para o espaço. Foi quando visitou o Brasil e encontrou, em meio às tribos indígenas da [[Amazônia]], um outro infeliz que estava na mesma situação que ele: um bravo guerreiro chamado Marcos Pontes.
+
+Juntos, os dois foram capazes de unir os seus poderes para construir uma espaçonave feita de cipós, pele de onça, pau-brasil, marfim e pele de camelo. Com a ajuda dos orixás e dos espíritos, a nave alcançou voo e chegou até o espaço. Depois de visitar muitos planetas distantes como [[Marte]], [[Vênus]], [[Júpiter]], [[Tatooine]] e o [[Acre]], e de entrar em contato com muitos extraterrestres sábios, os dois voltaram para o Planeta Terra.
+
+Ao voltar para sua tribo, Shark foi recebido com muitas festas e finalmente pôde ser reconhecido como um homem de verdade. Em toda a história da tribo dos Mango-Zambo-Trum, ele foi o guerreiro que mais demorou para cumprir a sua missão, mas apesar disso, ninguém zoou muito com ele.
+
+Uma vez que agora era um guerreiro completo que podia trilhar seu próprio caminho, Shark usou a sabedoria que aprendeu com os alienígenas para desenvolver uma nova versão do Linux. O objetivo era presentear os extraterrestes com ela. Mas estes não gostaram muito do resultado do seu projeto de criar um "Linux for Extraterrestrian Beings" e o produto desenvolvido por Shark teve que ser distribuído no Planeta Terra mesmo. Para isso, foi só mudar o slogan para "Linux for Human Beings".
+
+== O Caso Xorg.conf no Ubuntu 9.10  ==
+
+Milhões de Nerds ao redor do mundo estão muito chateados por não conseguirem utilizar o Ubuntu 9.10,visto qu ele não tem o xorg.conf. o que muitos não
+sabem é que existe uma maneira bem fácil de colocar o xorg.conf na pasta de sempre (/etc/X11). basta digitar no terminal:
+
+
+   sudo nano /etc/X11/xorg.conf
+   
+agora cole as informações do seu xorg.conf (que você está acostumado a usar)
+
+aperte enter
+aperte Ctrl+O
+Aperte enter
+aperte enter
+
+Prontinho! seu Ubuntu está como sempre foi,com o xorg.conf!
+
+== Instalação do Ubuntu ==
+
+A instalação do Ubuntu vem em um CD (700mb), pequeno né??? Mas não caia na besteira de instalar conectado a internet, pois ele vai baixar até o Linus Tovarlds de cueca. Ou seja, eles colocam o sistema pela metade para parecer pequeno esperando que você tenha uma internet de 4MB pra poder instalar pelo menos em 1 hora o sistema.
+
+Existem também versões em DVD onde a instalação baixa até o Linus Tovarlds (sem a cueca) da internet.
+
+== Significado da Palavra Ubuntu ==
+
+[[Arquivo:Ubuntu bunbun.jpg|thumb|Ubumbuntu]] 
+
+Alguns linguistas apontam que a palavra é originária do dialeto falado pela tribo de Shark. Outros dizem que é uma onomatopeia típica dos idiomas Zulu e Xhosa. Também existem aqueles que afirmam que é uma palavra originária de alguma raça alienígena. Já se aventou a hipótese de ser uma expressão para "Linux para baitolas", estudos comprovam que tal fato não seria plausível, pois o Ubuntu está a anos-luz de parecer com o Windows Vista, que, definitivamente, é o sistema mais fresco do mundo, o que produz uma identificação sem precedentes com o nicho mais CO-LO-RI-DO do mercado. Finalmente, algumas possíveis traduções para "Ubuntu" são:
+
+* Marrom
+* Eu não consigo instalar o Debian
+* Eu não consigo configurar o Slackware
+* A humanidade é... ahn... uma humanidade para os outros é... ah, foda-se!
+
+Existem outras versões do Ubuntu. Ironicamente, a [[cor]] padrão do "[[Cu|Kubuntu]]" é azul, enquanto o do Ubuntu é marrom. Existe um movimento iniciado no Brasil que tenta trocar as [[cores]] entre os dois, tornando esta distribuição Linux ainda mais fácil de usar.
+
+Também há uma tradução no site oficial que se diz ser a verdadeira: "Eu sou o que eu sou pelo que todos nós somos". Apesar de confusa, está sendo interpretada pela maioria das pessoas como um convite a [[Suruba|sexo grupal]]. Essa frase, associada às capas de CDs com um monte de gente se abraçando e com sorrisos de satisfação, deixa dúvidas sobre qual é a verdadeira proposta do Ubuntu - seja lá o que isso quer dizer.
+
+== Versões do Ubuntu ==
+[[Arquivo:Bill2.jpg|250px|right|Bill Gates e sua relação promíscua com os sistemas Linux e antes de [[Satya Nadella]] tomar posse como CEO.]]
+De 6 em 6 meses uma nova versão é liberada, com mais drivers e mais recursos inúteis. Você pode pedir no site oficial cópias em CD gratuitas ou pagas (com os mesmos recursos que as gratuitas, mas você precisa baixar um serial pra crackear). A versão atual é a 10.10, disponível nas seguintes versões:
+
+* '''Ubuntu'''  — Versão padrão com os serviços da [[Canonical]], com papel de parede roxo.
+* '''Kubuntu''' — Inspiração do [[Windows 7]]
+* '''Xubuntu''' — Ubuntu para os [[Xuxa|baiXinhos]].
+* '''Edubuntu''' — Ubuntu específico para pessoas apelidadas de Edu.
+* '''UbuntuST''' — Ubuntu criado por um espirro.
+* '''Ultimate Edition''' — Arma suprema americana do Barack Obama.
+* '''Linux Mint''' — Ubuntu <s>plagiado</s> modificado por irlandeses.
+* '''Lubuntu''' — Ubuntu para [[Computador Antigo|Computadores Antigos]] que  só rodam o Windows XP ou inferior.
+* '''Studio''' — Ubuntu para pessoas criativas, o [[Ednaldo Pereira]] usa diariamente
+
+Também existem versões para arquitetura x86-64, x64-86, x666-69, k369-238, a1057-65503-4983456, y6849039674-98347869409348, além de outras mais tradicionais, como MSX, [[Atari|Atari 2600]], [[Tamagochi]], torradeira, [[Playstation 3]], [[George Foreman Grill]], [[Chipod|Player MP3 Xing Ling]], [[Exterminador do Futuro]], [[Juicer Philips Walita]]  e PowerPC.
+
+* '''Ubuntu 4.10''' — ''Warty Warthog'' (O Porco-Africano que ninguém usou porque ficou com nojo)
+* '''Ubuntu 5.04''' — ''Hoary Hedgehog'' (O Alvoroço do ouriço grisalho)
+* '''Ubuntu 5.10''' — ''Breezy Badger'' (O Texugo Fresco Edição [[Emo]])
+* '''Ubuntu 6.06 LTS''' — ''Dapper Drake'' (O Pato Doméstico para Longo Tempo de Sexo)
+* '''Ubuntu 6.10''' — ''Edgy Eft'' (A Salamandra Rái-Téqui)
+* '''Ubuntu 7.04''' — ''Feisty Fawn'' (O Jovem Bravo Cervo Viado [[Emo]])
+* '''Ubuntu 7.10''' — ''Gutsy Gibbon'' (O Macaquinho Tarado)
+* '''Ubuntu 8.04 LTS''' — ''Hardy Heron'' (A Garça Durona em momento [[Gay]])
+* '''Ubuntu 8.10''' — ''Intrepid Ibex'' (Bode Atrevido papa Tudo)
+* '''Ubuntu 9.04''' — ''Jaunty Jackalope'' (Uma mistura entre [[Javali]] e [[Camelo]])
+* '''Ubuntu 9.10''' — ''Karmic Koala'' (Coala [[Luftal|Carminativo]])
+* '''Ubuntu 10.04 LTS''' — ''Lucid Lynx'' (Jynx Lúcida)
+* '''Ubuntu 10.10''' — ''Maverick Meerkat'' (Maverick safado do Mega Man X)
+* '''Ubuntu 11.04''' — ''Natty Narwhal'' (Um Free Willy Fumadão)
+* '''Ubuntu 11.10''' — ''Oneiric Ocelot'' (Jaguatirica dos sonhos)
+* '''Ubuntu 12.04 LTS''' — ''Precise Pangolin'' ([[Pênis|Bingulim]] Preciso -- de certeiro, não [[Paulinho Rola|de necessidade]])
+* '''Ubuntu 12.10''' — ''Quantal Quetzal'' (Contando quietamente)
+* '''Ubuntu 13.04''' — ''Raring Ringtail'' (Rabo Raro)
+* '''Ubuntu 13.10''' — ''Saucy Salamander'' (Salamandra ao Molho Rosê)
+* '''Ubuntu 14.04 LTS''' ''Solid Ant'' (O Ubuntu dos AMDs, suposto nome segundo fontes da Descilopédia, brincadeira com uma [[Sola Aoi|Asiática Sedutora]])
+* '''Ubuntu 14.10''' — ''Utopic Unicorn'' (Unicórnio [[pós-modernismo|pós-modernista]])
+* '''Ubuntu 15.04''' — ''Vivid Vervet'' ([[Velvet Revolver]] vívido)
+* '''Ubuntu 15.10''' — ''Wily Werewolf'' ([[Free Willy|''Fri Wily'']] na versão [[Lobisomen]])
+* '''Ubuntu 16.04''' — ''Xenial Xerus'' (Xereca Genial em [[Xuxa|xuxês]]-[[inglês]] ou ainda Xerox gênial)
+* '''Ubuntu 16.10''' — ''Yakkety Yak'' (''Onomatopeia dos sons produzidos por uma criança de três anos'')
+* '''Ubuntu 17.04''' — ''Zesty Zapus'' ([[Punheta|Homenagem]] dos desenvolvedores da Canonical aquele aplicativo de mensagens mais usado no mundo, o ''Zip Zop'')
+* '''Ubuntu 17.10''' — ''???'' Quem será este Pokémon?
+* '''Ubuntu 18.04''' — ''Bionic Beaver'' (Castor [[Exterminador do Futuro]])
+* '''Ubuntu 18.10''' — ''Cosmic Cuttlefish''
+* '''Ubuntu 19.04''' — ''Disco Dingo''
+* '''Ubuntu 19.10''' — ''Eoan Ermine'' (filho de Ermine, aquela sua [[Vizinha Gostosa]])
+* '''Ubuntu 20.04''' — ''Focal Fossa''
+* '''Ubuntu 20.10''' — ''Groovy Gorilla''
+
+== Principais feitos ==
+Até agora foi um, que é a morte de dois de nossos maiores feitos brasileiros (e os únicos): Kurumin e o Kurumin NG. Mas tudo aponta que Ubuntu será a arma de Obama para a dominação mundial do mundo, e a [[Google]] será uma outra arma. A única esperança da humanidade será o Kacique, outra versão do Kurumin (poderia se o Slackware, mas ele ainda está no estágio DOSmindo), mesmo assim ainda temos <strike>um Kubuntu com um papel de parede diferente</strike> uma arma suprema alternativa chamada Big Linux, que <strike>o solitário criador</strike> muitos consideram o 'sistema perfeito', mas ainda falta muito para que chegue a versão 5, assim que chegar Abril de 2011, a versão 4.2 será obsoleta, também o Big Linux 5 será a última versão do Big Linux, assim que chegar 2016 vão criar um derivado que irá chegar em 2022 com base do Ubuntu 22.04 que se chamar "Comunidade Linux Brasil Versão 2022".
+
+==Fim do Unity==
+Em 2017, a Canonical finalmente decidiu se tocar da merda que fez quando decidiu enfiar aquela joça do [[Unity]] por padrão a partir do Ubuntu 10.10 e desistiram de continuar investindo naquela [[GUI|interface]] jocosa que eles haviam criado. Ou seja, a partir de 2018, o Ubuntu voltará as origens com o pesadíssimo e engessado Gnome, frustrando aqueles aventureiros que gostavam de baixar a distro para causar de diferentão [[Compiz|cubista]] entre seus amiguinhos.
+
+== Ligações externas ==
+
+* [http://www.ubuntulinux.org/ Página Oficial Africana do Projeto]
+* [http://www.ubuntu-br.org/ Página Oficial Brasileira do Projeto]
+
+{{Linux}}
+
+[[de:Ubuntu]]
+[[en:Ubuntu]]
+[[eo:Ubuntu]]
+[[es:Ubuntu]]
+[[fi:Nubuntuluuseri]]
+[[fr:Ubuntu]]
+[[it:Ubuntu]]
+[[ko:우분투]]
+[[pl:Ubuntu]]
+[[ru:Убунту]]
+[[zh-tw:Ubuntu]]

@@ -1,0 +1,124 @@
+
+{{Trevas}}
+{{{{Correlatos 
+|desnoticias    = 
+|deslivros      = 
+|desentrevistas = 
+|descionario    = 
+|uncommons      = 
+|unquote        = 
+|unsource       = 
+|unmeta         = 
+}}Merda}}
+{{Correlatos 
+|desnoticias    = 
+|deslivros      = 
+|desentrevistas = 
+|descionario    = 
+|uncommons      = 
+|unquote        = 
+|unsource       = 
+|unmeta         = 
+}}
+
+{{vqd|Computador?}}
+{{vqd|Hentai Console}}
+{{vqd|Maleta}}
+{{experimente também|Jaguar}}
+{{c|Até que fim não tem [[Bomberman]] nessa Porra!|Qualquer um|PC-FX}}
+{{c|Nós fomos a empresa que mais produziu jogos pro console.|NEC|PC-FX}}
+{{c|Existe vários jogos Hentai!|Otaku Punheteiro|PC-FX}}
+{{c|Ainda sim tivemos que fazer merdas para as merdas.|Hudson|PC-FX}}
+
+'''PC-FX''' é um <s>computador</s> videogame, criado somente no [[Japão]]. Porém, ele é o sucessor do [[PC Engine]], que também surgiu das trevas.
+
+[[Arquivo:Pc-fx.jpg|left|thumb|O console.]]
+
+== Sobre o console ==
+
+[[Arquivo:Pcfx.jpg|left|thumb|Variações do console.]]
+
+O PC-FX foi um console de 32-bits da Quinta Geração, feito em [[1994]] (seu processo de criação começou em [[1992]]) feito para competir com o [[3DO|3DêÓ]], [[Sega Saturn|Sega em Saturno]] e o [[PlayStation|PolyStation]].
+De cara, outro console, o [[Bandai Playdia]], também entrou como um dos primeiros.
+Todos que compraram o PC-FX e seus jogos, acharam que ele seria 3D, mas, não.
+Criar gráficos 3D no PC-FX era um problema para a [[NEC]], que só sabia coisa de computador, 
+mais nada.
+
+A habilidade de filmes também estava nele, usando FMV (Fodendo-se em Mais um Vídeo), que nem o 
+[[Sega CD|Merda CD]].
+Outra qualidade, foi também a de ver imagens em [[JPEG]], usando [[Motion JPEG]].
+
+[[Arquivo:PiaCarrot PC-FX.gif|left|thumb|Exemplo de um jogo [[Hentai]] para PC-FX.]]
+
+Agora, a parte que interessa a todos aqueles que gostam de [[Sexo]] ([[ou não]]).
+O PC-FX ganhou 10000 jogos Dating Simulation (Simulador de Romance) e 500000 jogos Hentai.
+E a parte que interessa [[Nerd]]s mais ainda em Sexo, os jogos de [[RPG]] e de simulação do PC-FX, 
+a maioria também era Hentai. A única droga disso, é que era tudo em japonês (se tem os gemidos, eu não sei...).
+
+== Games ==
+
+[[Arquivo:Ad-pcfx.jpg|right|thumb|Anúncio do PC-FX.]]
+
+O PC-FX teve 62 games (pfffffff....). Mas, os primeiros jogos foram [[Graduation 2: Neo Generation FX]], [[Battle Heat]] e [[Team Innocent]], todos feitos em Dezembro de 1994.
+O último jogo do console foi [[First Kiss Story]], feito pela [[HuneX]], em Abril de [[1998]].
+
+Você acha que pode piratear jogos de PC-FX (no PC Engine CD não é possível)? Pois se disse sim, acertou, porque nenhum dos jogos tinham proteções contra cópias!
+
+{{c|Oba! Vou gravar tudo em CD! Mas, como eu jogo no meu PC?|Você|PC-FX}}
+
+Logo abaixo.
+
+O console foi descontinuado em 1998, prestes a nascer a sexta geração de consoles.
+
+{{vqd|[[Dreamcast|Merdacast]]}}
+
+O console vendeu 100.000 unidades.
+
+== Emulação ==
+
+[[Arquivo:PCFX-SCSI.jpg|right|thumb|Vai brincando!]]
+
+Aqui está os três únicos emuladores:
+
+{| border="1" cellpadding="5" cellspacing="1" style="border-collapse: collapse"
+|- style="background:#EFEFEF"
+|'''Nome'''
+|'''Licença'''
+|'''Status'''
+|'''SO'''
+|'''Versão'''
+|'''Link'''
+|-
+|[[MagicEngine-FX]]
+|Shareware
+|Producão Ativa
+|Somente para Windows
+|1.1.1 / Fevereiro de [[2008]]
+|[http://magicengine.com/]
+|-
+|[[Mednafen]]
+|[[GNU GPL]]
+|Ativa
+|Windows, UNIX/Linux
+|0.8.9 / Junho de 2008
+|[http://mednafen.sourceforge.net/]
+|-
+|[[Xe (emulator)|Xe]]
+|Freeware
+|Ativa
+|Windows, UNIX/Linux
+|2.16.0 / Agosto de 2008
+|[http://xe-emulator.com/]
+|}
+
+Porém, já passou um ano sem atualizações dos emus.
+
+== Ver também ==
+
+* [[PC Engine]]
+* [[NEC]]
+* [[Hudson]]
+* [[Hentai]]
+
+{{NEC}}
+{{Consoles}}

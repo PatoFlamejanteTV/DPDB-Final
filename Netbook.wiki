@@ -1,0 +1,35 @@
+{{Tecnologia}}
+{{sua intenção era pesquisar|Passa-raiva?}}
+{{vqd|Lixobook?}}
+{{c|Uhh... prefiro um dicionário.|Nerd|Netbook}}
+{{c|É o melhor do mercado!|Vendedores da Casas Bahia <s>mentindo</s>|qualquer netbook}}
+[[Arquivo:Netbook image.jpg|left|thumb|Lags, bugs, aqui vamos nós!]] 
+----
+'''Netbook''' era um estilo para notebooks, sua qualidade é semelhante ao [[Merda|Funk]], retirando bilhares de recursos, não existia essa de "Eu utilizo Netbook porque eu só <choose><option>estudo</option><option>trabalho</option></choose>", pois quem dizia isso era tachado de mentiroso <s>e é mesmo</s>. Netbooks não serve pra nenhum serviço, apenas para pobres fodidos terem acesso à '''porra nenhuma''' com teclado e mouse <s>pichado</s>.
+
+== Coisas comuns ==
+[[Arquivo:Spec Netbook.jpg|right|thumb|[[Merda|Típica configuração de um netbook.]]]]
+De fachada para começar o horror, o mesmo já começava com [[Intel Atom]], que era um lixo até para sua geração. Muitos que compravam essa merda tinham que fazer downgrade do Windows XP para o [[Windows 3.1]], olha que não era lá essas coisas mesmo nesse sistema. Após isso, sua memória RAM também não ajudava, vindo com 1 ou 2gb (raramente com 2gb), piorou a memória interna, que só servia bem para o [[TinyCore]]. 
+
+Outra coisa comum, é a fabricante dessas porras, eis a lista das fabricantes comuns:
+
+* {{cor|blue|POSITIVO!}}
+* {{cor|cyan|POSITIVO!}}
+* {{cor|grey|POSITIVO!}}
+* {{cor|limegreen|POSITIVO!}}
+* {{cor|yellow|POSITIVO!}}
+* {{cor|cyan|POSITIVO!}}
+* {{cor|red|POSITIVO!}}
+
+== Época de ouro dos netbooks ==
+Na época do [[Windows XP]] - [[Windows 7]] os netbooks eram muito comuns, pois <s>o requisito para ter um PC era ele funcionar</s> eram baratos e tinham fama de ser custo-benefício. Pelo Windows XP ser leve, na época era uma boa ideia criar um notebook piorado. Afinal não tinha problema ter peças horríveis e um sistema que vai rodar de boa nisso. Até que chega o <s>PintOS</s> [[Windows Vista]], que fodeu o mercado de netbooks por ter um peso igual ao da [[tua mãe]] e começar uma onda de Windows que gastam 2gb de RAM fácil. A partir do Windows 7, os netbooks sumiram misteriosamente.
+
+== Veja também ==
+=== [[Notebook]] e [[Computador]] ===
+* [[Windows XP]]
+* [[Windows Vista]]
+* [[Windows 7]]
+
+[[Categoria:Informática]]
+[[Categoria:Computador]]
+[[Categoria:Hardware]]

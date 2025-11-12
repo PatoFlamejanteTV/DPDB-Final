@@ -1,0 +1,59 @@
+{{Game}}
+
+{{Infobox Série Game
+|title         = Terra dos Bodes
+|image_logo    = Bode Lands logo.png
+|caption       = Logotipo da série
+|genre         = tiro, RPG, suruba, tudo ao mesmo tempo
+|developer     = [[Gearbox Software]]
+|publisher     = [[2K Games]]
+|origin        = [[PlayStation 3]], [[Xbox 360]]
+|first_release = [[Borderlands (jogo)|Borderlands 1]] (2009)
+|last_release  = [[Borderlands 4]] (2025)
+}}
+
+'''Borderlands''' é uma série de jogos de co-op online de [[tiro em primeira pessoa]] de [[ação-aventura]] de [[coleção|coletar armas]] em [[RPG de ação]] com um spin-off em [[adventure|point n' click]], faltando praticamente apenas um [[jogo de luta]] da franquia. A franquia conquistou diversos fãs n00bs em fps devido à sua jogabilidade inovadora envolvendo atirar sem parar enquanto em contrapartida o jogador não pecisa necessariamente morrer tomando headshot dos outros, pois possui barra de HP, além de exibir elementos inovadores de coletar armas pra caralho, tipo PRA CARALHO.
+
+== Jogabilidade ==
+
+* '''Class Mods''' - Items que são pequenos videogames portáteis de vários modelos, de [[Game Boy]] antigão até [[PS Vita]] modernos, que quando equipados fornecem habilidades especiais
+* '''Dano elemental''' - Algumas armas causam dano especial, elas podem por exemplo incendiar o alvo, prendê-lo numa redoma de trovões ou até mesmo fazer inimigos contrair sífilis e morrer de doença.
+* '''Paredes invisíveis''' - Lugares onde seu veículo não pode passar, mesmo que não haja absolutamente nada obstruindo seu caminho. Uma maneira inteligente criada pelos programadores para te obrigar a ir a pé para certas áreas do jogo.
+* '''Level up'''- O jogador passa de level toda vez que adquirir cópias ilegais de [[Windows XP]] (abreviado como XP), ficando assim mais ''badass'' (com a bunda murcha). Este tipo de jogabilidade proporciona situações inusitadas e sem o menor sentido, onde caso enfrente alguém uns 2 ou 3 levels acima de você, você pode praticamente fuzilar o rosto do inimigo que nada acontecerá, enquanto um tirinho dele em seu pé já te deixa quase morto.
+* '''Accuracy''' - Graças ao sistema de level up do jogo, caso você tenha um level muito baixo, seu personagem será um completo n00b, então mesmo que a mira de sua arma esteja travada em cima do seu alvo, vai errar a maioria dos tiros.
+* '''Respawn''' - O jogo tem vidas infinitas, então toda hora que você morre, o capeta te joga num vórtice do espaço-tempo e te transporta de volta para o mundo dos vivos, é claro que ele sempre cobra uma módica quantia pelo serviço de imortalidade que te oferece. Isso explica também porque os inimigos são imortais e sempre reaparecem nos mesmos lugares após um tempo. 
+* '''Inimigos''' - Embora diga-se que hajam uma enorme variedade de inimigos, na verdade existem apenas 12 modelos destes, mas cada um destes é criado aleatoriamente com um conjunto de cores e uma arma randômica (dentre todas as 6547), para criar uma variedade de um total de 1.566x10²² inimigos possíveis.
+* '''Critical Hit''' - Cada inimigo tem partes do corpo mais vulneráveis onde caso acertado tomarão mais dano, estes pontos são geralmente bem óbvios, como o joelho esquerdo no caso das pessoas, ou o [[cu]] no caso das malditas aranhas.
+* '''Psychos''' - O inimigo mais chato de toda as série, tanto que está em todas capas dos jogos
+* '''Shields''' - Apenas uma barra azul cuja única importância é adiar o inadiável, que é sua morte no jogo, porque se o inimigo já te metralhou a ponto de você perder o escudo, a morte é sempre garantida.
+
+== Geração de armas ==
+
+[[Arquivo:Badass psycho.png|thumb|260px|Um dos temíveis inimigos vistos nestes jogos. Mostra os perigos da punheta excessivo num mundo pós-apocalíptico onde as mulheres são raríssimas.]]
+
+Ao contrário de tradicionais jogos de fps que fornecem no máximo 10 ou 12 variedades de armas, os jogos de Borderlands oferecem uma variedade 6547 armas diferentes, requerendo portanto um teclado com 6547 teclas para ser melhor adequadamente jogado. Os modelos de armas são criados randomicamente através da combinação de cores, dano causado, zoom, quantidade de balas disparadas por segundo, etc. Os modelos de armas disponíveis são:
+
+* Pistola - Geralmente fracae usada só no começo dos jogos.
+* Revolver - Tem poucas balas, você erras os tiros todos, mas se pega causa um bom dano.
+* SMG - Pequena metralhadora que é boa no começo dos jogos, mas faz só cócegas nos chefões.
+* Fuzil - Só se for a queima-roupa, porque de longe erra os tiros tudo.
+* Shotgun - Outra arma só para situações queima-roupa.
+* Sniper rifle - Caso tenha paciência de ver seu personagem demorando meia hora para recarregar e mais meia hora entre um tiro e outro, é uma boa arma.
+* Bazuca - Pior arma do jogo, os mísseis atrevessam o corpo dos inimigos tudo e vai explodir lá no fundo do cenário.
+
+== Jogos ==
+
+* '''[[Borderlands (jogo)|Borderlands 1]]''' - O primeiro jogo, e o mais decente e popular, talvez porque era novidade na época
+* '''[[Borderlands 2]]''' - Após o incansável lançamento de tantos DLC para o primeiro jogo, a [[Gearbox Software]] percebeu que estava indo longe demais com seu próximo DLC, então decidiu lançá-lo como jogo mesmo, o Borderlands 2.
+* '''[[Borderlands: The Pre-Sequel]]''' - Jogo que ficou tão mal feito e chato que a [[Gearbox Software]] até ficou com vergonha de chamar de '''Borderlands 3''', e lançou como espécie de expansão do Borderlands 2.
+* '''[[Tales from the Borderlands]]''' - Se já não bastasse mistura jogo de tiro com RPG e ação, a Gearbox surpreendeu a todos e mandou a [[Telltale Games]] fazer um jogo point n' click, resultando claro numa verdadeira porcaria que só os fãs mais fanáticos compraram e entenderam alguma coia deste jogo.
+* '''[[Borderlands 3]]''' - Aparentemente o único jogo que prestou da série, até porque parece até que é obrigação jogar com a caralhada de marketing que essa porra teve antes do lançamento. Todo youtuber jogou isso.
+* '''[[Tiny Tina's Wonderlands]]''' - Era só para ser um DLC bizarro de Borderlands 3, mas ficou tão grande que a Gearbox decidiu lançar como jogo inteiro e separado. É uma mistura de Borderlands com D&D num mundo lisérgico narrado pela Tina.
+
+{{Borderlands}}
+{{Take-Two Interactive}}
+{{Game RPG}}
+{{First-person shooter}}
+
+[[Categoria:Jogos da Gearbox Software]]
+[[Categoria:Jogos da 2K Games]]

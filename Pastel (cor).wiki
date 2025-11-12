@@ -1,0 +1,56 @@
+[[Arquivo:Lista de tons pastéis.jpg|thumb|Se me vendessem um pastel com quaisquer dessas cores, eu xingaria muito no Twitter!]]
+
+'''Pastel''' é não uma [[cor]] exatamente, mas uma [[Matizes e tonalidades|tonalidade]] inversa ao de cores escuras ou [[metálico (cor)|metálicas]], ou seja, cores que em geral nem exatamente são claras, apenas são cores que parecem que sofreram uma [[experiência de quase morte]] e aparentemente não conseguiram voltar direito da experiência, virando cores zumbis, praticamente sem vida e totalmente pálidas, de baixíssima [[saturação]] e com um [[luminonisidade|valor HSV]] altíssimo, ou seja, basicamente têm um [[brilho]] alto, mas um [[contraste]] baixo, ficando basicamente uma coloração perdida para cacete e quase desaparecendo.
+
+== Exemplos de cores nesses tons ==
+
+*"Fundo do Mar": Um tom de [[verde]] parecendo um [[musgo]] derretido;
+*"[[Agulha]] de Costura": Apesar do nome lembrar as agulhas que em geral têm cor de [[metal]], ou seja, cinza metálico, na verdade é um [[marrom]] bem morto;
+*[[Lilás]]: Aquele tom de [[Malva (cor)|malva]] bem morta, aquele [[roxo]] que não é tão roxo assim e que geral confunde com roxo;
+*[[Grisalho]]: Exatamente, aquele cabelo acizentado que nem ficou totalmente [[branco]], mas que perdeu a coloração original praticamente toda, cabelo de velho mesmo;
+*[[Nude (cor)|Nude]]: Antigamente chamado de "cor de pele" (RACISTA!), é aquele [[laranja]] praticamente [[bege]] já de tão morto;
+*[[Lavanda]]: Outra variação de roxo que é um tanto mais forte que o lilás, mas que passa longe de ser vivo igual ao roxo que está no teu [[cu]];
+*[[Pêssego]]: Um tom de laranja melhorzinho que o nude, mas com um gosto tão surpresinha quanto o de um pêssego;
+*[[Opalina]]: Um azul parecido com o [[azul celeste]], mas tipo se o céu estivesse querendo ficar nublado e não conseguisse porque as nuvens só conseguem ser tudo um monte de [[cirrus]] mortas.
+
+Tem na verdade [[mais de oito mil]] outras variações como [[noz-pecã]], verde-[[menta]], pervinca, [[cocada]], [[mármore]], [[crômio]], "pasta de [[amendoim]]", "palito de [[picolé]]", [[cevada]], "chuva de [[verão]]", [[tutti frutti]], rosa bebê e mais um monte de outras com nomes bem criativos e bizarros como "[[reco-reco]]" e "broto de [[feijão]]", mostrando que no desespero vale enfiar qualquer coisa para definir como cor, mesmo que seja tipo "[[papel]] picado". E agora PAPEL PICADO TEM COR, PORRA?
+
+== Onde o povo costuma usar essa porra? ==
+
+Bem, consideram esse tipo de cor, de tonalidade, algo um tanto quanto calmante, sendo usada por vezes em cenários daquelas [[e-girl]]s que farmam grana no [[YouTube]] tentando realizar uma [[Resposta Sensorial Autônoma do Meridiano]] fazendo ruídos bizarros com a boca e com as mãos, supostamente facilitando aos olhos irem bestando com o ambiente e assim aos poucos o cara ir cagando de sono enquanto assiste bestializado aquele conteúdo.
+
+Também virou algo bem comum de ser usado em quartinhos e móveis de [[bebê]]s, já que acredita-se que essas tonalidades facilitam uma comunicação mais sossegada com os bebês. Pena que nem todas [[creche]]s pensem assim, afinal o que tem de governante burro que a depender do partido enfia cores tipo [[PSB|amarelo solar]], [[NOVO|laranja cheguei]], [[PT|vermelho sangue]] ou [[PSDB|azul marinho]], para desgraçar os olhos das pobres criancinhas e desesperar os cuidadores dessas pestes.
+
+Algumas tribos como os [[kawaii]]s e até umas tribos de [[gótico]]s gostam de se melar de [[giz de cera]] só para ficarem com essa estética meio fofinha e apirralhada, parecendo que vão para um show do nada como se tivessem saído de um episódio de [[Hamtaro]]...
+
+== Alguns míseros exemplos que catamos - é que a lista é grandona e ia deixar o artigo desnecessariamente gigantesco <s>e o redator desse texto é só um preguiçoso e mentiroso que catou esses códigos tudo da [[Wikipédia]] na cara dura!</s> ==
+
+{| cellspacing="0" cellpadding="0" border="0"
+! colspan="5" |Exemplos de pastéis em código HEX
+|-
+| style="background-color:lightgrey;" width="100px" |
+| style="background-color:lightgrey;" width="100px" |
+| style="background-color:lightgrey;" width="100px" |
+| style="background-color:lightgrey;" width="100px" |
+| style="background-color:lightgrey;" width="100px" |
+|-
+| style="background-color:lightgrey;" width="100px" |
+| style="background-color:#fea3aa;" width="100px" |&nbsp;fea3aa (rosa pálido)&nbsp;
+| style="background-color:#f8b88b;" width="100px" |&nbsp;f8b88b (laranja "[[cor de pele]]")&nbsp;
+| style="background-color:#faf884;" width="100px" |&nbsp;faf884 (amarelo doença)&nbsp;
+| style="background-color:lightgrey;" width="100px" |
+|-
+| style="background-color:lightgrey;" width="100px" |
+| style="background-color:#baed91;" |&nbsp;baed91 (verde claro)&nbsp;
+| style="background-color:#b2cefe;" |&nbsp;b2cefe ([[azul bebê]])&nbsp;
+| style="background-color:#f2a2e8;" |&nbsp;f2a2e8 (rosa púrpura)&nbsp;
+| style="background-color:lightgrey;" width="100px" |
+|-
+| style="background-color:lightgrey;" width="100px" |
+| style="background-color:lightgrey;" width="100px" |
+| style="background-color:lightgrey;" width="100px" |
+| style="background-color:lightgrey;" width="100px" |
+| style="background-color:lightgrey;" width="100px" |
+|}
+
+{{Cores}}

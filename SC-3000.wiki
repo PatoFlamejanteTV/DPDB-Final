@@ -1,0 +1,120 @@
+{{vqd|Primeiro console da Cega}}
+{{c|Ele veio antes do SG-1000.|Capitão Óbvio|SC-3000}}
+{{c|Pelo menos eu sou menor que a Porra do MSX!|SC-3000|você comparando ele com um MSX}}
+{{c|Custa 29.800 Iens.|Sega|SC-3000}}
+{{c|Caralho! Gastei uma nota em duas porcarias que eu não sei mexer em nada!|Qualquer um|SC-3000 + SF-7000}}
+[[Arquivo:SC-3000.jpg|right|thumb|O PC.]]
+
+'''SC-3000''' foi o primeiro videogame da [[Sega|Cega]], criado em [[1983]].
+
+== História e Introdução ==
+
+Foi vendido por [[Yen|¥]]29.800 e anunciado como um [[PC|computador para iniciantes]]. Graças a compatibilidade com os jogos desenvolvidos para o [[SG-1000]] e devido a capacidade de utilizar aplicativos típicos de computadores (só tinha BASIC nessa merda), vendeu mais unidades que o SG-1000. Além disso, seus usuários podiam criar seus próprios ''[[software]]s'' e [[Game|jogos]] na própria máquina.
+
+=== SC-3000H ===
+
+[[Arquivo:SC-3000H.jpg|left|thumb|SC-3000H em pessoa.]]
+
+O '''SC-3000H''', vendido originalmente por ¥33.800 (só ia aumentando), era uma versão melhorada do sistema original, com mais [[memória RAM]] e um [[Teclado (computador)|Teclado]] melhorado (a versão original era equipado com um teclado de [[Esqueleto|membrana]]).
+
+Entre os acessórios disponíveis para o computador estavam uma unidade de [[Microfone|síntese de voz]], uma [[Pau|caneta óptica]] e uma extensão chamada '''SF-7000''' que acrescentava 64KB de memória RAM no bicho, 8KB de [[ROM]], um drive de [[disquete]], uma [[porta paralela]] [[Centronics]] e uma [[porta serial]] [[RS232]].
+
+=== SF-7000 ===
+
+Era uma expansão acima como citado na seção, que custava 78.000 Iens (Eta Porra!), e era maior que o [[Xbox]].
+
+== Melhores Softwares do SC-3000 ==
+[[Arquivo:SC-3000 SF-7000.jpg|right|thumb|NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOSAAAAA!.]]
+Aqui vai:
+* [[Sega Music Editor]]
+* Sega Image Editor
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+* [[BASIC]]
+
+E mais uma porrada de BASICs...
+
+=== Melhores Aplicações do SF-7000 ===
+
+[[Arquivo:SF-7000.jpg|left|thumb|Aí sim.]]
+
+* Sega Logo
+* Sega Basic
+* Games
+* Games 2
+* Sega Base
+* Kamikaze
+* Disk Basic
+* Disk Basic
+* Disk Basic
+* Disk Basic
+* Disk Basic
+* Disk Basic
+* Disk Basic
+
+E outros Basics...
+
+{{c|Só tem BASIC nessa Porra!|Você|SC-3000}}
+
+== Especificações técnicas ==
+
+=== SC-3000 ===
+
+* [[CPU]]: Microprocessador [[NEC]] 780C a 4 MHz
+* [[RAM]]: 16 Kb
+* [[VRAM]]: 16 Kb
+* [[ROM]]: 18 Kb
+* Resolução modo texto: 40x25
+* Resolução modo gráfico: 256X192
+* Cores na paleta: 16 (15 tonalidades para cada cor)
+* Som: MONO / 6 Canais
+* Portas: RGB, Áudio, Controle/Joystick (2), Cartucho (2), Slot de Expansão
+* Controles: SJ-300 / SJ-400
+* Gravador de Cassete: SR-1000
+* [[Disquete]] de 3"
+* [[Impressora]] de 4 cores (uma imagem de Game Boy pode ser imprimida aqui): SP-400
+
+=== SC-3000H ===
+
+* CPU: Microprocessador NEC 780C a 4 MHz
+* RAM: 32 a 48 Kb
+* VRAM: 16 Kb
+* ROM: 32 Kb
+* Resolução modo texto: 40x25
+* Resolução modo gráfico: 256X192
+* Cores na paleta: 16 (15 tonalidades para cada cor)
+* Som: MONO / 6 Canais
+* Portas: RGB, Áudio, Controle/Joystick (2), Cartucho (2), Slot de Expansão
+* Controles: SJ-300 / SJ-400
+* Gravador de Cassete: SR-1000
+* Disquete de 3"
+* Impressora de 4 cores: SP 400
+
+=== SF-7000 ===
+
+* 64 KiloBytes RAM e 8 KiloBytes ROM
+* Unidade de disquete 3"
+* Porta paralela da [[Centronics]]
+* Porta Serial RS232
+
+[[Arquivo:SC-3000 Set.jpg|right|thumb|SC-3000 e sua família.]]
+
+== Ver também ==
+
+* [[Sega|CEEEEEEEEEEGAAAAAAAAAA!!]]
+* [[MSX]]
+* [[SG-1000]]
+{{Sega}}
+{{consoles}}

@@ -1,0 +1,65 @@
+
+
+{{Matemática}}
+
+{{C|00001001 00000010 010301010 11100101 00021333100 10010110 10013331110: 01110111 11001010 10111001 01010101 000333300101 01033300102
+
+
+
+
+
+
+
+
+33
+101110111 00233000000 11001020333021210|[[Oscar Wilde|11011122010 10121111201]] 1100133011 01010101}}
+''Tradução: "Só existem 10 tipos de pessoas no mundo: as que entendem binário, e as que não entendem, e as que não sabem contar."''
+
+{{C|01010011 011100101 011120101 001000002011011211 01110100 11100001 01110010 01101001 01101111 00101100 00110001101 01101001 01100100 01101001 011011211 011102100 011020001 001012220001 0010000101101000 01100001 0122101000 01100001|[[Oscar Wilde|11011010 10111101]] 1100221011 01012220101}}
+''Tradução: "Só existem 11634343.10² tipos de pessoas no mundo: as que entendem binário, as que não entendem binário e as que usam essa frase como significado da vida."''
+
+{{c|É uma bilada, Cino!|[[Cilada|Pedro]] de Carga Pesada|{{PAGENAME}}}} 
+
+{{c|Um ou não um|[[Hamlet]]|{{PAGENAME}}}} 
+{{c|01000101 0102102101 00122000200 0100112210 0110220001 0101220101 0112201101 0010220000 01000101 01101110 01110100 01000101 01001110 01110101 00100000 01010011 01101001 01110011 01010100 01000101 01101101 01100001 01101000 00100000 01000010 01101001 01101110 01100001 01010010 010012001 01010101 00101110 00101110 00101110 00101110 00101110 00101110 00101110 002101110 001012110 00101110 00101110 00101110 00101110 00101110 00101110 00101110 00101110 00101110 00001010 |Emo fazendo palhaçada...}}
+
+{{c|Binário = Mesozóico|[[Nerd]]|{{PAGENAME}}}}
+
+== Origem ==
+Binário deriva da palavra "Bina", sistema de identificação de chamadas telefônicas. Seu entendimento é muito fácil, e é totalmente baseado no teorema abaixo:
+
+*"Quando não é 0, é 2 ou 1"
+*"Quando não é 1, talvez seja 0 ou 2"
+*"Quando não é 2, talvez seja 0 ou 1"
+*"Quando não é 1, pode ser também que você não esteja entendendo nada!
+
+
+Na época em que as comunicações eram feitas por telégrafo, em 1827, [[Albert Einstein]] adaptou os "PI PI PIIIIIII" para os números 0,1 e 2, simplesmente pois ele não tinha [[QI]] suficiente para usar os 9 números.
+
+== Utilização ==
+[[Arquivo:nerd.jpg|right|thumb|Ele entendeu a piada.]]
+
+O sistema binário é usado nos [[computador]]es, mesmo usando um sistema simples, com apenas dois dígitos já temos uma infinidade de problemas, já imaginaram se o computador usasse base decimal??? Aí é que o [[mundo]] terminaria em [[pizza]].
+
+== Ver também ==
+*[[PC]]
+*[[AAAAA]]
+*[[Batimento Cardíaco]]
+
+{{Oposto|Não-binário}}
+
+[[Categoria:AAAAA]]
+[[Categoria:Informática]]
+[[Categoria:Matemática]]
+
+[[cs:01000010 01101001 01101110 01100001 01110010 01111001]]
+[[de:Binärsystem]]
+[[en:01000010 01101001 01101110 01100001 01110010 01111001]]
+[[es:01000010 01101001 01101110 01100001 01110010 01101001 01101111]]
+[[it:Codice binario]]
+[[ja:二進数]]
+[[nl:01000010 01101001 01101110 01100001 01101001 01110010]]
+[[pl:01000010 01101001 01101110 01100001 01110010 01111001]]
+[[ru:01100001]]
+[[sv:01000010 01101001 01101110 11100100 01110010 01100001 00100000 01110100 01100001 01101100 01110011 01111001 01110011 01110100 01100101 01101101 01100101 01110100]]
+[[zh-tw:二進制]]

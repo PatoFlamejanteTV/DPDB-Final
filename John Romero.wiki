@@ -1,0 +1,25 @@
+[[Arquivo:john_romero.jpg|thumb|right|150px|Bono John Romero]]
+'''John Romero''', nome original Bono John Romero, nasceu em 28 de Janeiro de 1967 no Brasil, mais precisamente em Belo Horizonte, no estado da Bahia. Romero é um conhecido programador de computadores e designer de ovos de páscoa. É responsável pela criação dos jogos em primeira pessoa, jogos como [[Doom]], Wolfenstein 3d, [[Quake]] e [[Daikatana]] ficaram conhecidos no mundo inteiro por sua má reputação, além de ser o responsável por ter popularizado o termo Deathmatch (bastante usado em jogos do [[Atari]], antigamente). Quando [[Doom]] fora lançado, Romero sofreu várias ameaças porque seus jogos não rodavam bem nos computadores daquela época, a saber, os PC’s 386 com [[Microsoft Windows 3.1|Windows 3.1.]]
+
+==Antes da Id Software==
+
+Romero começou trabalhando num jogo chamado Sex-Man, para [[Atari]], que foi publicado por CD-Expert, uma revista muito famosa na década de 80 voltada para jogos de computadores. Ele chegou a ganhar o concurso de programação da Revista do CD-Rom com o jogo Battle Field, e a primeira empresa em que Romero trabalhou foi a [[Microsoft|Microsoft Corporation]]. Lá ele trabalhou no jogo Midtown Madness 2 que chegou a ser cancelado devido a problemas de saúde com o pai do empresário da Sonopress, depois disso ele trabalhou no jogo Monster Truck Madness. Há 2 anos trabalhando para a [[Microsoft|Microsoft Corporation]], Romero decide afundar a sua própria empresa, a Id Software.
+
+==Id Software==
+[[Arquivo:johnromerodoom.jpg|right|thumb|200px|John Romero na sua versão no Doom]]
+
+Na Id Software Romero trabalhou em vários jogos de sucesso, como [[Commander Keen]] (1991), [[Wolfenstein 3D]] (1992), [[Doom]] (1993), [[Doom 2]] (1994) e [[Quake]] (1996). Ele trabalhou também nos jogos [[Heretic]] (1994) e [[Hexen]] (1995). Em meados de 1996 Romero deixou a Id Software para abrir uma Lan-House, em Belo Horizonte.
+
+[[Arquivo:johnromero_lanhouse.jpg|thumb|right|150px|John Romero (do meio) vendo seus clientes jogarem [[Doom]] na sua Lan-House]]
+A Lan-House atuou por vários anos rodando jogos como [[Doom 2]] e [[Heretic]]. Todos os computadores rodavam [[Microsoft Windows 95|Windows 95]] e possuíam 16 MB de Ram e 1.7 GB de disco rígido, não havia caixas de som. Com o dinheiro arrecadado com a lan, Romero decidiu fecha-la por motivos óbvios: Como a grana arrecadada não dava para atualizar os computadores, decidiu fecha-la e empregar a grana em uma bomboniere em frente a estação da São Bento, em São Paulo.
+
+==Curiosidades==
+*Romero possui 3 filhos. Casou-se logo quando era jovem com uma das irmãs do vocalista da banda [[Família Lima]], e teve 2 filhos. O terceiro filho foi com a [[Penélope]], apresentadora da [[MTV]].
+*O primeiro computador que Romero ganhou não havia mouse, pois era caro esse acessório, então furioso em ter que usar o teclado para fazer tudo que queria, ameaçou cortar os pulsos se seus pais não comprassem um mouse tão logo.
+*Aos 14 anos, Romero brigou com seu melhor colega de escola, [[Tom Hall]], devido este ter experimentado cigarro, oferecido por [[John Carmack]]. Ficaram brigados por muitos meses.
+
+{{Deuses do VG}}
+[[Categoria:Nerds]]
+[[Categoria:Designers de jogos dos Estados Unidos]]
+[[Categoria:Programadores dos Estados Unidos]]
+[[en:John Romero]]

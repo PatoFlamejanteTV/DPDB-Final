@@ -1,0 +1,61 @@
+{{game}}
+
+{{Infobox Game
+|title     = Tourist Trophy
+|image     = TOURISTTROPHY.JPG
+|caption   = '''''Tourist Trophy: The Real Riding Simulator'''''
+|developer = [[Polyphony Digital]]
+|publisher = [[Sony Computer Entertainment]]
+|released  = 2006
+|genre     = Racing
+|rating    = 42 de 42
+|platform  = [[Polystation]] [[Polystation 2|2]], [[Playstation 2]]
+|ages      = 14+
+}}
+
+'''''Tourist Trophy''''' é o projeto japonês derivado de [[Gran Turismo]] disfarçado de video-game feito para aumentar as vendas de motos japonesas pelo mundo, já que estas, no game, são muito superiores às americanas e européias.
+
+==Gameplay e Progressão no jogo (não necessariamente nessa ordem)==
+
+[[Arquivo: TouristTrophy_Skywave.jpg|thumb|left|200px|Noob andando em sua [[Suzuki]] [[Suzuki Skywave|Skywave]].]]
+
+Como em GT, você deve iniciar tirando as Licenças (ou carteiras, como dizem os [[noob]]s por aí) ou carteiras de motorista (como diria o filho da empregada e/ou eleitor do Lula),para poder competir. Neste game, ao contrário de GT, você não [[Ciro Bottini|compra]] motos, apenas ganha-as como prêmio em competições, iniciando o game com apenas uma <s>porcaria de uma</s> [[Suzuki]] [[Suzuki Skywave|Skywave]], e vindo a obter depois (se tiver paciência) motos <s>de verdade</s> como [[Kawasaki]] [[Ninja]] [[Kawasaki Ninja ZX-12R|ZX-12R]] e <s>[[Ryu Hayabusa]]</s> [[Suzuki]] [[Suzuki Hayabusa|Hayabusa]].
+
+Nas corridas, você geralmente começa, no mínimo, uns 7 segundos atrás dos oponentes, que são no máximo 4([[Emo|emocionante]], não?). O game tenta ser real, fazendo com que qualquer coisa que não seja milimétricamente calculada faça você cair um tombaço da sua <s>velharia</s> moto. Entretanto, ao cair dela, você aparece instantâneamente em cima dela segundos depois. Que realismo, hein?
+
+==Formas de Dirigir==
+
+[[Arquivo: TouristTrophy_Hayabusa_Bail.jpg|thumb|right|200px|[[Noob]] caindo um tombaço ao tentar pilotar uma Hayabusa.]]
+
+[[Arquivo: TouristTrophy_Motard_Street_Suzuka.jpg|thumb|right|200px|Retardado destruindo seu cérebro e seu sapato usando o estilo <s>[[Retardado|Retard]]</s> Motard]]
+
+Há quatro formas de se pilotar uma moto. São elas:
+
+'''Lean Body''' - estilo em que o piloto é um maluco e se joga mais do que o normal nas curvas para aumentar a capacidade de virar da moto. Feito para os profissionais fazerem os melhores tempos e humilharem os noobs, que nunca conseguirão pilotar nesse estilo sem cair.
+
+'''Lean Bike''' - estilo em que o piloto se joga pouco para os lados, aumentando a estabilidade e dificultando quedas. Feito para ajudar os noobs. Entretanto, os noobs em TT geralmente são tão ruins que nem nesse estilo eles conseguem se manter em cima da moto.
+
+'''[[0|Neutral]]''' - estilo intermediário entre os dois anteriores. Feito para os medrosos que tem medo de escolher o estilo errado e se darem mal.
+
+'''<s>[[Retardado|Retard]]</s> Motard''' - estilo retardado em que o piloto fica colocando o pé no asfalto que nem um imbecil. Estudos indicam que esse estilo pode danificar permanentemente a sola do sapato e o cérebro, deixando seus usuários com um nível de inteligência semelhante ao da [[Kasumi (Dead or Alive)|Kasumi]],do [[Quico]], do [[Carlos Alberto Parreira|Parreira]] ou do [[Masashi Kishimoto]].
+
+==Galeria==
+
+<gallery>
+imagem:TouristTrophy_Passenger_License.jpg|[[Viadagem]] sendo ensinada nos License Tests
+imagem:42_TouristTrophy.jpg|[[Idiota]] com um [[42]] em sua moto só para dizer que o 42 está em todo lugar
+imagem:TouristTrophy_Accident_Seattle.jpg|Um pequeno acidente em [[Seattle]] <s>,[[Galvão Bueno|no Canadá]]</s>
+imagem:TouristTrophy_Valencia_Wheelie.jpg|Achando que é o bom só porque sabe empinar
+imagem:TouristTrophy_Headlight_Motegi.jpg|O que você nunca vai ter na vida real: uma moto da [[BMW]]
+imagem:TouristTrophy_LagunaSeca_Fall.jpg|[[Laguna Seca]]: [[Noob]] + Corkscrew = Tombo
+imagem:TouristTrophy_No_Rider.jpg|[[Ninja]] pilotando em ''Tourist Trophy''
+imagem:TouristTrophy_Old_001.jpg|1900 e bolinha
+imagem:TouristTrophy_Firebolt_Stoppie.jpg|Profissional humilhando ao correr com uma Firebolt em [[Hong Kong]].
+</gallery>
+
+{{Game Racing}}
+
+[[Categoria:Jogos da Polyphony Digital]]
+[[Categoria:Jogos da Sony Computer Entertainment]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos lançados em 2006]]

@@ -1,0 +1,36 @@
+{{computeiro}}
+
+[[Arquivo:Estrutura analitica de projetos.jpg|thumb|O que a gerência de projeto faz]]
+'''Gestão de projetos''', ou gerenciamento de projeto, ou mesmo gerência de projetos, ou mesmo então outros trocentos nomes, é uma área da [[administração]] para gerir projetos. 
+
+== Sobre o estudo ==
+
+Apesar de ser da administração, não se sabe porque diabos é incluída também na categoria da tecnologia de informação, então existem vários cursos na área de [[TI]] sobre gestão de projetos, mesmo que a maioria das pessoas de TI não saibam o que seja um projeto e desconhecem o significado de gestão.
+
+A pessoa que mexe com a gestão de projetos é o [[gerente de projeto]] e a bíblia da gestão de projetos é o [[PMBOK]], que já está na trigésima oitava edição.
+
+Falando na administração, a maioria das pessoas dessa área não faz a menor ideia do que seja gestão de projetos, então meio que vira um assunto [[fantasma]] nos meios acadêmicos. O gestor de projeto normalmente trabalha fazendo hambúrguer no [[Bob's]].
+
+== Leis do Gerenciamento de Projeto ==
+[[Arquivo:Reunião gerenciamento projetos.jpg|right|200px]]
+Quando incerteza e complexidade encontram-se em alto nível em um projeto, a vida do seu Gerente - por mais preparado e habilidoso que seja - fica por um fio, conforme demonstram as “8 Leis do Gerenciamento de Projeto”:
+
+1. Nenhum projeto grande é jamais instalado pontualmente,dentro do orçamento, ou com o mesmo pessoal que o começou. O seu não será o primeiro.</br>
+2. Os projetos progridem rapidamente até que estejam 90% completos, então eles ficam para sempre nos 90% completos.</br>
+3. Uma vantagem de objetivos vagos de projetos é que eles permitem que você evite o embaraço de estimar os custos correspondentes.</br>
+4. Quando as coisas vão bem, algo vai dar errado. - Quando as coisas não podem ir pior, elas vão piorar.- Quando as coisas parecem ir bem, é porque você não olhou com atenção suficiente.</br>
+5. Em se permitindo que o conteúdo do projeto mude livremente, a taxa de mudança vai exceder a taxa de progresso.</br>
+6. Nenhum sistema nunca está completamente livre de falhas. As tentativas de sanear as falhas de um sistema inevitavelmente introduzem novas falhas que são ainda mais difíceis de encontrar.</br>
+7. Um projeto descuidadamente planejado vai tomar o triplo do tempo esperado para se completar, um projeto cuidadosamente planejado somente vai tomar o dobro do tempo esperado.</br>
+8. Os grupos de projeto detestam relatórios de progresso porque ele vividamente manifesta sua falta de progresso.</br>
+
+== Ver também ==
+*[[PMBOK]]
+*[[EAP]]
+*[[Gerente de projeto]]
+*[[Desemprego]]
+
+{{Ampliar}}
+
+[[Categoria:Administração]]
+[[Categoria:Gestão de projetos]]

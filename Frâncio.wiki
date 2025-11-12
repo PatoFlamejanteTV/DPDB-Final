@@ -1,0 +1,45 @@
+{{Infobox/elemento químico
+|nome              = Frâncio
+|imagem            = Francium.jpg
+|legenda           = Pedra de frâncio, uma dessa na água tem o efeito equivalente a 10 mil [[Mentos]] na [[coca-cola]]
+|símbolo           = [[Fresco|Fr]]
+|número            = [[87]]
+|série             = [[Metal alcalino|Metal pilha alcalina]]
+|isótopo           = <sup>223</sup>Fr
+|massa_atômica     = 223,0197 [[cu]]s
+|dureza            = Nenhuma, vapor
+|radioatividade    = Nível [[Tsar Bomba]]
+|toxicidade        = Insuportável
+|comestível        = Na França sim
+|inalável          = Como perfume
+|passar_na_pele    = Só em Goiânia
+|onde_encontrar    = [[França]]
+|ponto_de_fusão    = Dado irrelevante
+|ponto_de_ebulição = Dado irrelevante
+|super-herói       = Alta; te transforma em [[Eric Cantona]]
+}}
+
+{{c|Se ele não tivesse colocado frâncio na água, isso não teria acontecido|Pica-Pau|explosão seguida de contaminação radioativa mortal}}
+
+'''Frâncio''' é o elemento que fecha a conta dos [[metais alcalinos]], de símbolo ''Fr'' de [[fresco]] em referência aos franceses que o descobriram e nomearam. Herdou deles o temperamento serelepe, explosividade imensa e fedor extremo, pois não gosta de água como todo francês, fator esse que influencia sua rara presença na natureza, afinal nada fica perto de um elemento tão anti-higiênico.
+
+==História==
+
+Elemento descoberto em [[1939]] pela dona de casa francesa [[Marguerite Perey]], assistente de [[Marie Curie]] que achou uma pedrinha do elemento ao varrer embaixo do tapete do laboratório. Tendo obtido um produto fedorento de número atômico 87, lhe deu o nome de frâncio para dar uma moralzinha para sua pátria, que recentemente havia sido sede e passado vergonha na [[Copa do Mundo de 1938]].
+
+O frâncio marcou por ter sido o último elemento a ser descoberto na natureza, o que significava que agora os físicos poderiam parar de cavucar na terra e começar a inventar novos elementos nos aceleradores de partículas, muito mais divertido.
+
+==Características==
+[[Arquivo:Francium in water.jpg|thumb|left|200px|Alerta do que acontece ao usar o frâncio na água do banho.]]
+[[Metal alcalino]], instável, exageradamente radioativo, resultado da desintegração do [[actínio]], obtido por bombardeamento de tório com prótons e outras informações que nem [[Artigos criados através de um texto da Wikipédia trazido para a Desciclopédia com leves alterações cômicas|copiando da Wikipédia com leves alterações cômicas]] teriam algum humor. Além disso mais nada se sabe sobre o frâncio pois seu estudo é complicado pela sua rápida desintegração. Imagina gastar anos de estudo pra achar um elemento que imediatamente vaporiza sob o calor da própria radiação...
+
+Fora isso, a associação com a França é perfeita, pois odeia a água a todo custo e em contato com ela pode gerar reações explosivas apocalípticas. Por esse motivo é usado no país como desodorante, já que a falta de banho tira o risco de explosão.
+
+{{Tabela periódica}}
+{{DEFAULTSORTKEY:Francio}}
+
+[[Categoria:Ciência e tecnologia na França]]
+[[Categoria:Elementos químicos]]
+[[Categoria:Metais alcalinos]]
+
+[[en-gb:Francium]]

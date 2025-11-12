@@ -1,0 +1,103 @@
+{{Quimica}}<br>
+
+{{C|Porra, equação de novo?|Aluno de [[Ensino Médio]]|estequiomentria}}
+{{C|E o que me interessa saber o excesso de reagente de uma reação que eu nunca vou fazer?|Outro aluno|estequiometria}}
+{{C|Estequio... o quê?|Chapolin Colorado|estequiometria}}
+
+'''Cálculo estequiométrico''', ou '''estequiometria''', (palavra proveniente do grego ''stoicheia'', estou cheia e ''metreim'', mete em mim) é o cálculo das quantidades de reagentes e/ou produtos das reações químicas, feito com base <s>no [[etanol]]</s> nas Leis das Reações e executado, em geral, com o auxílio das equações químicas correspondentes.
+[[Arquivo:Calcesteq.JPG|250px|right|thumb|Entendeu?! Nem eu!]]
+
+== Histórico ==
+Nos meados do século XVIII <s>a.C</s>, cientistas que não tinham absolutamente nada pra fazer, conseguiram expressar matematicamente certas regularidades que ocorrem nas reações químicas, aquelas pelas quais eles [[sexo|não passavam com suas namoradas]], baseando-se em leis de combinações químicas que foram divididas em ponderais (que se relacionam às massas dos participantes da <s>suruba</s> reação) e volumétricas (explicam a relação <s>amorosa</s> entre os volumes das substâncias gasosas que participam de um processo químico).
+
+== Características Gerais ==
+Esse tipo de cálculo segue, em geral, as seguintes regras:
+
+*Escrever a equação química mencionada no problema.
+
+*Acertar os coeficientes dessa equação (lembrando que os coeficientes indicam a proporção em número de moles <s>e duros</s> existentes entre os participantes da reação(ui!)).
+[[Arquivo:Calc.GIF|250px|right|thumb|Meio pelo qual [[você]] não deve tentar calcular estequiometria.]]
+
+*Estabelecer uma regra de <s>quatro</s> três entre o dado <s>Dolabela</s> e a pergunta do problema, obedecendo aos coeficientes da equação, e que poderá ser escrita em massa, volume, número de moles <s>ou duros dependendo da sauna que você frequenta</s>, ou qualquer outra coisa que lhe vier à cabeça quando esquecer tudo isso na prova, etc.
+
+É importante saber que, numa equação balanceada, os coeficientes nos dão <s>o rabo</s> a proporção em mols dos participantes da reação.
+
+Nas reações químicas, é importante se prever a quantidade de produtos que podem ser obtidos a partir de uma certa quantidade de reagentes consumidos.
+
+Os cálculos que possibilitam prever essa quantidade são chamados de cálculos estequiométricos.
+
+'''Reação Global''': <math>S + \frac{3}{2}O_2 + H_2 O \longrightarrow H_2 SO_4</math> 
+
+
+==Regra geral:==
+
+1. Escrever a reação química;
+[[Arquivo:Brincocobre.jpg|200px|right|thumb|Como <s>balançar literalmente</s> balancear elementos.]]
+
+2. Acertar os coeficientes (<s>balançar</s> balancear);
+
+3. Estabelecer uma regra de três, quatro, cinco ou quantos mais quiserem participar. 
+
+==Leis <s>poderosas</s> Ponderais==
+                                    
+====Lei da conservação da massa ou Lei de [[Lavoisier]]====
+
+“Em um sistema, a massa total dos reagentes é igual à massa total dos produtos” ([[O rly?]]).<br>
+
+<math> \frac{A}{2g} + \frac{B}{5g} \longrightarrow \frac{AB}{7g}</math> 
+ 
+====Lei das proporções <s>in</s>definidas ou Lei de Proust<s>ituta</s>====
+
+“ Toda substância apresenta uma proporção constante em massa, na sua composição, e a proporção na qual as substâncias reagem e se formam é constante, [[ou não]]”.<br>
+:<math>A + B \longrightarrow  AB </math>
+:<math>2g  + 5g      =   7g </math>
+:<math>4g + 10g     =   14g </math>
+                  
+Com a Lei de Proust<s>ituta</s> podemos prever as quantidades das substâncias que vamos precisar para uma reação química ou explosão. 
+[[Arquivo:Quimico.jpg|200px|right|thumb|Seu pesadelo com o professor após descobrir a prova de estequiometria surpresa.]] 
+ 
+==Leis Volumétricas==
+
+Leis que receberam essa denominação  por apenas ''[[enchimento de linguiça|adicionarem volume]]'' à matéria que tem de ser dada na [[escola]], mas, que na prática, não servem para absolutamente [[porra nenhuma]]. Entre elas:
+
+====Lei de [[Gay-Lussac]]====
+
+Após a brilhante carreira como [[futebolista]], [[Louis Joseph Gay-Lussac]] resolveu entrar para a [[Química]]. E, de quebra, <s>criou</s> descobriu algumas relações entre reações. Segundo [[Gay-Lussac]]:
+
+{{aspas|Os volumes de todas as substâncias gasosas envolvidas em um processo químico estão entre si em uma relação de números inteiros e simples, desde que medidos à mesma temperatura e pressão.}} 
+
+O ''fator de correção'', calculado por [[Gay-Lussac]] é '''[[24]],[[11]]'''.
+:1 L de H2   +   1 L de Cl2 à   2 L de HCl    relação de números inteiros e simples: 1:1:2 
+Cabe aqui observar que nem sempre a soma dos volumes dos reagentes é igual à dos produtos. Isso quer dizer que não existe lei de conservação de volume, como ocorre com a massa. 
+:10 L de H2   +   5 L de O2 à   10 L de H2O   relação de números inteiros e simples: 10:5:10, que pode ser simplificada por 2:1:2 
+
+====Lei ou hipótese de <s>[[Advogado|Adevogado]]</s> Avogadro====
+
+“Volumes iguais de gases diferentes possuem o mesmo número de moléculas, desde que mantidos nas mesmas condições de temperatura e pressão”. 
+
+Para melhor entender a Lei de [[Gay-Lussac]], o italiano Amadeo Avogadro introduziu <small>'''''(Ui!)'''''</small> o conceito de moléculas e [[mol]] (não foi só isso que foi introduzido, mas como cita o axioma de [[Copélia]]: ''prefiro não comentar!''), explicando por que a relação dos volumes é dada por números inteiros, e também o porquê do termino do caso dos dois em um livro de autoajuda para casais com problemas ''[[sexo|de química]]''. Dessa forma foi estabelecido o enunciado do volume <s>dos dentes molares</s> molar.
+
+== Equação de estado dos gases ==
+
+Após a instituição e batismo do [[mol]] como unidade padrão que substituiria a massa dos gases (acha que é fácil pesar litros de gás?), um louco cujo nome ninguém lembra desenvolveu uma equação para dizer como está o gás. Essa equação se chama ''Equação de estado dos gases'' ([[ou não]]).
+
+{{C|'''P'''rofessor '''v'''iado '''n'''ão '''r'''ejeita '''t'''arado.|[[Professor]] de [[Química]]|como decorar a equação de estado dos gases}}
+
+
+:<math>P \cdot V = n \cdot R \cdot T \,\!</math>
+
+onde:
+*<math>P\!</math> = Pressão (em toneladas por nádega);
+*<math>V\!</math> = Volume (em metros x metros x metros = m³)
+*<math>n\!</math> = Moles <s>e Duros </s> (de gás);
+*<math>R\!</math>= Constante universal dos gases perfeitos ''(que [[merda]] é essa?)'';
+*<math>T\!</math> = Temperatura em [[Kelvin]] (a [[porra]] da temperatura tem de ser em [[Kelvin]]);
+
+== Ver também ==
+
+*[[Reação Química]];
+*[[Energia de ativação]];
+*[[Termoquímica]];
+
+
+[[Categoria:Química analítica]]

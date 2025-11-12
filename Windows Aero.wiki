@@ -1,0 +1,27 @@
+
+{{tecnologia}}
+{{microsoft}}
+
+{{SemER}}
+
+{{c|E eu assino embaixo. TENHO CERTEZA que ele vai melhorar!|[[Capitão Sarcasmo]]|<s>qualquer produto da Microsoft</s> este artigo}}
+
+[[Arquivo:3.13d.png|thumb|Um belo exemplar do [[Flip 3D]]]]
+[[Arquivo:telao11.jpg|thumb|Tela Azul da Morte de um computador com o Windows Aero.]]
+
+{{cgoogle|[[Microsoft Airports]]}}
+
+O [[Windows Aero]] é um tema de computador criado para [[Windows Vista]], e está disponível somente nas versões [[Microsoft#Versões do Microsoft Windows|Home Premium, Enterprise, Business e Ultimate]]. O tema não roda em alguns [[PC|computadores]] - mais frequentemente, os que não  utilizam monitor - e ocupa <s>8</s> 32812 MB da memória [[Sapo|RAM]] do sistema. Portanto, é aconselhável usar o [[Tema Básico do Windows Vista]].
+
+==História==
+
+[[Bill Gates]] e toda a sua [[microsoft|patotinha]] quiseram copiar algo do [[Linux]] e do [[Mac]]. Para isso, registrarem as [[Coronel Mostarda|patentes]] de alguns recursos visuais <s>inúteis</s>, tais como: [[Vidro|glass]], [[sombra]], [[blur]], [[Flip 3D]], [[Microsoft Aviation|Tela Aero da Morte]] e alguns inutilitários mais.
+
+==Como conseguir==
+
+Baixe <s>alguma das porcarias que instalam</s> um emulador Windows Aero para seu [[Microsoft Windows XP|XP]]. 
+
+Veja o [[VistaMizer#Ranking de programas de computador para idiotas que fazem que o seu XP fique igual ao Windows Vista|ranking]] para baixar o que você achar menos pior - [[ou não]].
+
+
+{{esboço}}

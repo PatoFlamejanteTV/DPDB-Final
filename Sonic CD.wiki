@@ -1,0 +1,120 @@
+{{game}}
+<choose>
+<option>{{Jogos Antigos}}</option>
+<option>{{Viagem no tempo}}</option>
+</choose>
+<br>
+{{Infobox Game
+|title     = Sonic CD
+|image     = Sonic CD.gif
+|caption   = O Sonic ainda com a mania de mover o seu dedo a dizer: "NÃO GOSTO DESTE JOGO".
+|developer = [[Sonic Team]]
+|publisher = [[Sega|CEEEGAAA!]]
+|released  = 1935 (como peça de teatro), 1993 (como jogo de videogame)
+|genre     = <s>[[Correr pra caralho]]</s> [[Plataforma]]/ [[Viagem no Tempo|Viagem na <s>Maionese</s> Tempo]]
+|rating    = Jogo fixe (por causa do aumento da velocidade do Sonic)
+|platform  = Mega CD, [[Sega CD]], [[Master System]], [[Game Gear]], [[Super Nintendo]], [[Nintendo 64]], [[Nintendo DS]], [[Nintendo Wii]], Sony [[Playstation]] 1, 2, 3, 4, 5, 6, 7, 1000, [[PSP]], [[Microsoft]] [[Xbox]], [[Xbox 360]], 460, 1960, 2060, 2960, 35897694878960, [[GBA]], GBUA, [[Windows]] NT/95/98/XP/Vista, Linux 2.10, [[Mac OS]] X Beta 0.45, micro-ondas, [[MP3]], [[MP4]], MP5, MP6, MP7, MP8, MP9, MP10 e muitos outros MPs, câmara digital, [[Nokia]], Vodafone, TMN, Optimus, Desciclophone, I-Pod (de 2 a 4560 triliões de GB), etc.
+|ages      = Depende da qualidade de ser fixe
+}}
+
+{{vqd|De Volta para o Futuro}}
+{{c|Já cabô? Mas cadê a merda do Super Sonic?!|Nerd parvo|este jogo}}
+{{c|Ah droga! Esse Chefão final é uma bosta, derrorei com apenas 4 golpes sem usar nenhum anel!|Você|o Dr. Robotinik ser mais fácil de derrotar deste jogo}}
+{{c|O que eu vim fazer aqui mesmo? Salvar a Amy?! Cara, que roubada.|Sonic|Sonic CD}}
+{{c|Só quero ver ele acertar minha teoria da relatividade.|Albert Einstein|Sonic CD}}
+{{c|Como assim um jogo como esse fez o maior sucesso nos video games?|Nintendo|Sonic CD}}
+{{c|Sonic Boom, Sonic Boom, Sonic Boom...|Musiquinha da versão americana}}
+
+[[Arquivo:MetalMaxOverdr.gif|left]]
+'''Sonic CD''' (pronuncia-se: ''Sonic SiDí'') é um dos primeiros jogos da série [[Sonic the Hedgehog]] a ser lançado no console [[Sega CD]] (e foi um dos poucos que salvou o add-on). Foi lançado em 1935 como uma peça de teatro (na altura chamava-se ''Sonic the Hedgehog Super Theatre'') e depois em 1993 como o atual jogo.
+
+== História ==
+[[Arquivo:Sonic_CD_Comic_Mockup_by_sphereballs.jpg|left|thumb|Tudo que rola nessa budega!]]
+Sonic estava a correr pelos malditos prados de Mobius, quando apareceu um planeta muito pequeno chamado Little Planet ("Little Planet"?) que estava aparentemente dominado pelo Robotnik. O plano maquiavélico do [[Dr. Robotnik|Dr. Cabeça de Ovo]] era pôr o Sonic na guilhotina (como o [[Napoleão]]) e unir Mobius com Little Planet. Para isso, conduziu no Egg-o-Mattic (também conhecido como ''Máquina Esférica Mortífera'') para capturar a [[Amy Rose|ouriça cor-de-rosa puta]] que estava a fazer ''striptease'' no jardim de uma das zonas do Little Planet. O Dr. Robotnik achou que isso era ilegal, por isso, como a capturou, meteu-a <s>numa prisão da PIDE</s> numa prisão de alta segurança em Metalic Madness (também conhecida como ''Zona da Loucura Metálica''). Então, o Sonic, por impulso,  teve que ultrapassar todas as zonas para conseguir salvá-la. Mas antes Sonic também não contava com a mais nova carta na manga que o Robotnik tinha: ele também havía construído <s>um boneco de porcenala</s> uma extrema cópia robótica do Sonic, denominado [[Metal Sonic]]. Assim então Sonic, além de ter que salvar a [[Amy Rose|puta rosa]], também tinha que usar seu correr pra caralho pra tentar vencer Metal Sonic numa corrida de 13 segundos.
+[[Arquivo:Sonic amy.jpg|thumb|200px|Amy: "MEU HERÓI!"<br /> Sonic: "CALA-TE, SUA PUTA!"]]
+
+== Sobre o Jogo ==
+
+Como era de se esperar, a aparição de um jogo do Sonic no Sega CD óbviamente foi um <s>fiasco</s> sucesso: uma jogabilidade renovada (ou não), gráficos surpreendentes (ou não), e uma trilha sonóra perfeitamente excelente ([[Foda-se|ou não]]). Aparentemente, devido a maioria dos fãs serem mais da [[Velha Guarda dos Games]], o Sonic CD foi um sucesso nas telinhas e [[Pirataria|camelôes]], já que aqui, além de ser <s>mais</s> um jogo do Sonic em 2D, tinha óbvias inovações (por que se não seria igual ao Sonic de Mega Drive). Dentre elas, a mais inovadora é a possíbilidade de você poder viajar no tempo, contendo '''[[4]]''' épocas temporais diferentes: Passado (tempo dos dinossauros e aquela baboseira de "criação do mundo"), Presente (aonde você está sentado agora mesmo), e o Futuro Bom (dominado por pessoas boas), e Futuro Ruim (dominado por um humano gorducho e sem noção de diversão).
+
+=== Objetivo no Jogo ===
+[[Arquivo:Scene from Sonic CD by Teejii.jpg|thumb|left|230px|Sonic com o seu bom senso: {{c|Ei! Volta aqui com a Amy... pera aí. Hummm... ah, quer saber, fica com ela.|Sonic}}]]
+[[Arquivo:SonicCD.jpg|thumb|right|Sonic mais uma vez fica "p" da vida com a situação em que a [[Sega]] o mete.]]
+Neste jogo, Sonic ter que utilizar mais uma vez seu correr pra caralho com o objetivo de balançar mais algumas placas inúteis. Porém, seu objetivo real aqui é fazer com que cada futuro de cada fase fique <s>pior</s> bom. Para fazer isto, Sonic deve quebrar as leis da física e relatividade, pegando plaquinhas inúteis com a palavra '''Past''' (Passe), e deve pegar um [[correr pra caralho|impulso]] pra poder voltar ao passado. No passado, Sonic deve ficar rodeando a <s>favela toda em busca de homi pra atirar</s> fase toda para encontar uma maquina capturadora de animais, após descer o cacete nela, serviço completo (mesmo que você tenha que conceder a missão em cada santa fase).  Em outras palavras, Sonic pode sim viajar no passado (aonde você chegou a este mundo) e, a partir dele, poderá ir ou ao futuro ruim (você escolheu o tráfico e o crime. Eu que não pagarei a pensão) ou o futuro bom (decidistes trabalhar honestamente e agora tens tudo o que queria). Caso não consiga destruir estas máquinas nos dois atos, Sonic cai no Futuro Ruim, aonde o Dr. Robotinik é o imperador do Mundo, que tá totalmente devastado e destruido, o [[Miles "Tails" Prower|Tails]] morreu, junto com quase todos os seus amigos, e pior, o [[Sonic the Hedgehog|Sonic]] se torna um escravo sexual da Amy. Mas destruindo as lixarias nos dois atos, você irá para o futuro bom, onde o Dr. Robotinik está num manicone de cientistas loucos, com o Mundo bem mais florestado e preservado do que o presente (aliás nem tanto assim), o [[Miles "Tails" Prower|Tails]] vira o novo [[Bill Gates]], a [[Amy Rose]] <s>se casa com o [[Shadow the Hedgehog|Shadow]]</s> vai para um convento de freiras e o Sonic se casa com [[Princess Sally Acorn|seu verdadeiro amor]] (?), sendo também uma lenda que será lembrado por gerações. Mas o [[Sonic the Hedgehog|Sonic]] do presente ainda terá que enfrentar o Dr. Robotinik do presente que tá em ambos os futuros para poder fechar o game, em que também terá dois finais que só jogando o jogo conseguirá desfrutar de um deles.
+
+== Lançamento do jogo ==
+[[Arquivo:Time-alternative-sonic-cd.png|left|thumb|Tantas coisas para se fazer em tantos tempos, porém a única coisa garantida que você ver é o herói se fudendo o tempo todo.]]
+Em 1935, foi lançada a peça de teatro ''Sonic the Hedgehog Super Theatre''.<br />
+Quatro anos mais tarde, tornou-se numa comédia romântica, substituindo a comédia ''Ninotchka'', de Greta Garbo. A comédia já tinha o nome actual do jogo.
+[[Arquivo:PARODIA.jpg|thumb|200 px|Anúncio publicitário da comédia ''Sonic the Hedgehog CD'', que substituiu ''Ninotchka''.]]
+Em 1965, o jogo veio para Portugal. Milhares de jornais anunciaram a chegada do jogo, mas como lá era uma ditadura na altura, os censores cortaram a notícia e os jornais que anunciaram isso (como o Diário de Notícias, O Século, O Informador Fiscal e o Jornal de Notícias) foram suspensos até 1974.<br />
+Em 1993, o jogo verdadeiro foi lançado em todo o mundo, mas actualmente acabou ficando uma velhice.
+
+== Itens ==
+
+=== Monitores ===
+
+Os monitores aparentemente são os mesmos que os jogos da Velha Guarda dos Games. Ou seja, tem o Monitor Médium invocador de exatos 10 anéis pra seu bolso ([[Arquivo:Sonic1md 2.gif]]), o Monitor da "Invencilibidade" ([[Arquivo:Sonic1md 3.gif]]), o Monitor do poderoso [[1-Up]] ([[Arquivo:Sonic1md 4.gif]]), o Monitor da gosma protetora ambulante que não assusta ([[Arquivo:Sonic1md 5.gif]]), e finalmente o grande e único Monitor-Ultra-Fast-Speed ([[Arquivo:Sonic1md 6.gif]]). Divirta-se.
+
+=== Os Outros Itens ===
+
+Além dos monitores, existe, com ocitado antes, a possíbilidade viajar no tempo também, com umas placas que estão escritas ''Past'' (Passado) e ''Future'' (Futuro). Com essas placas, o Sonic pode viajar desde a Criação do Mundo até à CXXII Guerra Mundial (em que todos os homens, animais e vegetais mataram-se todos e foram substituídos por robôs).
+[[Arquivo:Sonic CD124.jpg|thumb|right|200px|Sonic CD promete muitas [[Clube da Luta|surpresas]].]]
+*'''Anéis''' [[Arquivo:Ring2.gif]] - Oras, um jogo do Sonic sem anéis seria só mais um jogo jogadamente jogado no [[lixo]].
+*'''Bolinha de Checkpoint''' [[Arquivo:Sonic cd 1.gif]] - Caso você morra voltará neste checa ponto
+*'''Placa Future''' [[Arquivo:Sonic cd 2.gif]] - Uma das duas placas do jogo. Se Sonic se esbarrar nesta placa e acabar pegando impulso, ele viaja para o futuro além. Porém ele pode correr o risco de se perder condicionalmente no Futuro Ruim (ou na infernolândia do Dr. Robotnik). Por isto, o ministério da saúde adverte: <s>se</s> pegue na Placa Past antes.
+*'''Placa Past''' [[Arquivo:Sonic cd 3.gif]] - Uma das duas placas do jogo. Sonic deve primeiramente em cada ato se esbarrar nesta placa, pegar impulso e, assim, voltar no passado e completar o verdadeiro objetivo de cada ato do jogo.
+*'''Holograma do Metal Sonic''' [[Arquivo:Sonic cd 4.gif]] - Este estúpido item é só uma brincadeira que o Robotnik fez pra você perder mais tempo ainda no jogo. Em cada passado, Metal Sonic raptou todos os animais do planeta, e para salva-los Sonic deve encontrar um holograma do Metal Sonic e destruí-lo pra poder salvar os animais de todos os tempos (mas como que os animais estão presos por um '''Holograma'''?).
+*'''Máquinas Transportadoras de Robôs''' [[Arquivo:Sonic cd 5.gif]] - Adivinha, esta é a tão estranha máquina que o Sonic deve destruir no passado. Quando destruí-la, o serviço estará completo no ato do jogo, e Sonic pode voltar a correr pra caralho em meados de 13 segundos.
+
+== Fases ==
+[[Arquivo:Sonic CD Panels Battle colors by adamis.JPG|thumb|right|345px|Finalmente um bom uso pras placas no final da fase.]]
+*'''Palmtree Panic:''' A primeira fase do jogo, como sempre seguindo os clichês de fases de floresta a lá [[Green Hill]]. Aqui é a mais fácil para se viajar no tempo logo após dar uma cheiradinha nas placas e soltar [[Gay|purpurina]] correndo. Tão fácil esta fase que não dá pra perder nem anéis e tampouco vidas ficando inútil ativar os <s>pirulitos</s> checkpoints. Até o chefão é fácil de derrotar só sendo o Eggman pilotando uma versão Jr. daquele Megazord que ele usa no final de Sonic 2.
+[[Arquivo:Sonic_cd_contest_by_tysho-d4i85iy.jpg|thumb|Não importa se você perderá para Metal Sonic ou se salvará Amy Rose; em ambas a situações Sonic estará fodido]]
+*'''Collision Chaos:''' A partir daqui é que tem a primeira <s>e última</s> aparição de Amy no jogo em que ela fica se [[Sexo|agarrando]] com o Sonic até vir o Metal Sonic e dar uma encoxada nela. Assim como a outra esta fase também é clichê imitando aquelas fases de cassino que tem em todo jogo, só que nesta não dá pra ganhar nem anéis e tampouco vida fácil, o que deixa os jogadores apelões putos ao chegarem nesta fase. O chefão também é fácil só que é ruim da porra chegar perto dele já que é cercado de troços de pinbal ao redor dele que mal dão pra mover.
+
+*'''Tidal Tempest:''' Outra bobagem do Sonic CD. A terceira fase já é aquática. Mas nada demais, apenas corre pra caralho, faça [[Viagem no Tempo|seu serviço]], e pronto. Apenas lembre-se de pegar as bolinhas de ar na parte aquática e se defender de mais um chefe relativamente difícil também.
+
+*'''Quartz Quadrant:''' Esta fase é um tipo de escavação montada, já que contém diversos tipos de pedras e minérios que deixam a fase com uma bela paisagem, mas porém com muitos encanamentos e esteiras, fique atento. Uma esquizofrenia é o fato de que, o chefão desta fase pode se autodestruir se você fazer os [[Detonado|movimentos corretos]].
+
+*'''Wacky Workbench:''' Uma das escórias do jogo. Esta fase é coberta de um chão feito de molas, aonde Sonic pode usá-las pra continuar pela parte alta da fase. Aqui contém vários aspectos clichês, nada de interessante para ser citado, relativamente o mesmo com o chefão, em que você precisaria de <s>muita cagada</s> um detonado pra poder acabar com ele.
+
+*'''Stardust Speedway:''' A fase que dá finalmente jus ao objetivo secundário do jogo: [[Correr pra caralho]]. Um cenário metropólico cheio de rampas, dashes, e tudo que Sonic precisa para se aventurar (até mesmo armadilhas, que lindo). Esta é a penúltima fase, e, como é a penúltima, óbviamente o chefão é difícil. Aqui o chefe será um desafio: uma dificílima ([[ou não]]) corrida contra o boneco do Robotnik, [[Metal Sonic]] (com obstáculos também). No final, se Sonic vencer, Sonic terá o desprazer de salvar a Amy e levar outro "abraço forte do mal". Se Metal Sonic vencer, Sonic terá o de perder uma vida. Ou seja, em ambos os casos Sonic só vai [[Conrado|se foder nesta merda mesmo]]. Mas quem liga pra isto? É a vida, pacas.
+
+*'''Metallic Madness:''' A última fase do jogo. Ela lembra muito a Scrap Brain, por isto não se impressione com salas difíceis de passar, maquinas escrotas, passagens pelo fim do mundo, plataformas, um chefão aparentemente difícil e chato pra caralho (porém considerado não o mais difícil), e tudo a 4. Ao menos no final Sonic consegue um [[Game Over]] e salva o mundo mais uma vez (ou não, dependendo do que de bom você fez neste jogo <s>perdendo suas [[Dinheiro|verdinhas]]</s>).
+
+== Os Finais do jogo ==
+
+A depender de sua habilidade e desempenho (ou a falta dele) no decorrer de toda a jogatina, o game pode ter até três finais diferentes:
+[[Arquivo:Soniccd-124.gif|thumb|right|239px|Ihhh, você esqueceu de alguma coisa.]]
+* '''Good Final''' - Este é o final bonzinho que só aqueles verdadeiros [[gamer]]s que passaram mais de [[24 horas]] virando a noite conseguem destravar. Para consegui-lo é necessário coletar todas as [[Time Stones]] nos Special Stages, bem como voltar ao passado em todas as santas fases e mandar todos os hologramas de Metal Sonic e as Máquinas Transportadoras de Robôs pra [[puta que pariu]]. Nesse final, depois de derrotar o último chefão, Sonic [[sexo|pega]] a Amy e se mandam de Little Planet vendo só aquela corrente fudida se arrebentar e um monte de trambolho tecnológico explodindo que nem fogos de artifícil e formando a cara do Sonic com luzes no céu. Depois caem umas estrelinhas, Sonic faz pose de foda, vem os créditos com várias cenas das fazes do jogo em forma de [[anime]], e nos pós-creditos, aparece Little Planet indo pra o cu do espaço e um monte de florzinha [[gay]] dizendo ''Obrigado por jogar!'' Sim! É uma curt-cene bem babaca.
+
+* '''Bad Final''' - Este é aquele típico final pra quem pouco se fodeu pros Special Stages e só fez ir até o final da fase como nos jogos do [[Mega Drive]]. Nesse final, depois de matar o último chefão, acontece a mesma cena inicial do final bom: Sonic e Amy se mandam do planetinha desgraçado, a corrente se fode, só que depois disso é mostrado Eggman todo fodido fugindo com uma Time Stone em uma de seus penicos voadores; nisso Sonic dá uma de [[Davi]] e atira uma pedrinha na nave do Dr. Balofo que explode e vai pra [[casa do caralho]]; com isso, Sonic faz amesma pose de foda e a sequência de cenas são iguais a do outro final até chegar nos pos-créditos, onde só se vê Little Planet ainda parecendo a [[Estrela da Morte]] acorrentada na Terra e a frase maldita de Raul Seixans ''Tente outra vez!'' Ou seja, é um final ferrado só pra deixar o [[Felipe Neto|jogador com raivinha]] e obriga-lo a jogar tudo novamente só que agora fazendo as coisas direito.
+
+* '''[[Game Over]]''' - Este é o único final que você, seu noob de merda, vai conseguir nesse jogo. Basta ir jogando de qualquer jeito pois cedo ou tarde você vai acabar gastanto todas as suas estúpidas vidas e vai se foder apenas vendo o Sonic morrendo, uma música eletrônica do demônio distorcida e a palavra ''Game Over'' seguido da tela <s>azul da morte</s> preta. Essa música é somente usada na versão americana e que também foi usada no jogo do [[Sonic.exe|Sonic do capeta]] só que de trás pra frente. Bem assustador, não? Outra coisa que pode dar game over nesse jogo também é você deixar o Sonic parado por 3 minutos sem apertar o botão de pausar e ele ficará bem bravinho com você como se estivesse querendo sair da tela e meter porrada em você tipo o Maguila. E se fizer isso, Sonic perderá a paciência com você e pulará pra fora do cenário e vai aparecer a tela de game over (se estiver jogando a versão americana, vai ouvir uma música muito macabra que fará você ter pesadelos pro resto da vida). Não importa quantas vidas você tenha que vai dar game over mesmo assim. Muita gente acha que o Sonic cometeu suicídio de tanto ficar esperando que você controlasse e mandou ir pra puta que te pariu, se foder e tomar no cu.
+
+==Resumão desse jogo==
+[[Arquivo:Th CD 1.gif|thumb|Um dos <s>poucos</s> pontos positivos do jogo foi ter essa abertura em [[anime]] num console de 16 bits (só não me perguntem como diabos a SEGA fez isso...)]] 
+<YouTube>
+Title=Sonic CD em mais de 4 minutos
+movie_url= https://www.youtube.com/watch?v=_dYVE71Hx3A
+embed_source_url= https://www.youtube.com/v/_dYVE71Hx3A
+wrap=no
+width=500
+height=350
+</YouTube>
+ 
+== A Censura na notícia do Sonic CD ==
+[[Arquivo:VISADO.jpg|down|100px]]<br>
+{{censurado|NOVO JOGO PARA PORTUGAL: SONIC CD! Por volta das 8 da manhã de hoje veio às bancas o jogo Sonic CD. Muitas pessoas foram comprar e até houve um cortejo no Porto com todas as pessoas que compraram esse jogo. Toda a gente ficou muito entusiasmada por este processo da tecnologia e houve alegria por todo o Portugal!}}<br>
+[[Arquivo:Censura Porto.jpg|down|100px]]<br>
+''Diário de Notícias'', [[24 de julho]] de [[1965]]
+
+{{sonic}}
+[[Categoria:Artigos que podem viajar pelo tempo-espaço]]
+[[Categoria:Jogos lançados em 1993]]
+[[Categoria:Jogos da Sonic Team]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Sega CD]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de plataforma]]

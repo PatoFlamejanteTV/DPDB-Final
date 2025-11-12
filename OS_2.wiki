@@ -1,0 +1,83 @@
+{{Computeiro}}
+
+[[Arquivo:0OS2.jpg|thumb|A tela inicial superempolgante do OS/2.]]
+
+{{Sua intenção era pesquisar|O verdadeiro [[Windows]]}}
+
+'''IBM O'''perating '''S'''ystem'''/2''' é um [[sistema operacional]] falecido da [[IBM]]. Competiu com o [[Windows]] durante boa parte dos [[anos 90]] nas linhas de [[desktop]]s, mas obviamente por ser feio pra burro, perdeu a batalha (mas nem tanto a guerra, já que o Windows não passa de uma cópia do OS/2). Deixou de ser produzido em meados dos anos 90, mas permanece sendo lembrado por muitos [[nerd]]s mais velhos, já que o Windows foi apenas uma cópia mais bonitinha do OS/2, além de uns entusiastas saudosistas anti-Microsoft que ainda o utilizam em versões com [[OpenOffice]] e [[Mozilla Firefox]].
+
+== História ==
+
+Nos primórdios do projeto OS/2 nos [[anos 80]], existiam 2 versões do mesmo SO, uma feita pela IBM e outra pela [[Microsoft]].  Era um projeto em cooperação, em que ambas versões ganhariam melhorias naquilo que haveria de melhor em cada uma, e o projeto mais bem preparado permaneceria de boa como o principal. Mas, ao ver que aparentemente os donos da IBM estavam sabotando o projeto da Microsoft, pra ficar com a versão melhor de todas e com isso toda a grana das vendas, [[Bill Gates]] pulou fora, não sem antes salvar em um HD o projeto todo deles, levar pro seu PC, mudar cores, logo, e criar o [[Microsoft Windows 1.0]] (ou melhor, trocar o nome do projeto OS/2 mesmo, na cara dura).
+
+Apesar disso, a IBM conseguiu fazer com que o OS/2 fosse superior aos Windows, pois conseguia rodar programas do concorrente, embora o mesmo não conseguisse fazer o mesmo (lembram quando eu disse que Bill Gates levou a parte sabotada e ruim do projeto? Pois é!). Entretanto, em [[1995]], com a burrice dos agentes de marketing da empresa, o OS/2 acabou sendo engolido pelo [[Windows 95]], que mesmo ainda sendo uma merda comparado ao sistema da IBM, conseguiu vencê-lo de vez em 1996, graças ao lançamento de programas de 32 bit, que não rodavam no OS/2 de jeito nenhum e eram bem melhores (só nerds entenderão essa, rsrs). O OS/2 então acabou ficando restrito à empresas que curtiam usar coisas velhas (ex: [[Banco do Brasil]], que só muitos anos depois descobriu que existia [[Linux]]). Em 2001, surgiu uma versão atualizada chamada [[eComStation]], usada por alguns nerds por aí pelo mundo.
+
+== Funcionamento ==
+[[Arquivo:OS2Warp.jpg|thumb|A versão turbinadona, Warp.]]
+Quase todo o funcionamento do OS/2 é igual aos Windows (claro, o SO da Microsoft é todo copiado do da IBM), usando sistemas de armazenamento como o [[Gordo|FAT]], o SUPERFAT, o HYPERFAT, o ULTRAFAT e o MAISFATQUEISSOSÓSENDOIGORDÃO. Uma coisa foda que tinha nesse SO é que um aplicativo dificilmente derrubava o outro, diferente do que [[Tela Azul da Morte|acontece até hoje no Windows]].
+
+Também era um sistema multitarefas, bem melhor que os [[DOS]] da vida, mas era até mais fodão, pois se um programa fosse de 16 bit, rodava num compartimento diferente dos de 32 bits, impedindo desgastes do HD e Memória. Por falar na última, ela era bem divididinha de 64 em 64 KB, o que tornava a capacidade praticamente infinita. [[Vírus]] praticamente inexistiam nesse SO (exceto os criados por ele mesmo para atacar o Windows).
+
+Em algum momento dos anos 90 criaram o OS/2 Warp 4, uma versão tão fodona que aceitava comandos pelo [[microfone]] (até hoje ninguém mais fez isso, perceberam?). Você conseguia acessar até sites da [[internet]] pelo comando de voz. Pena que foi o último da série e depois esqueceram dessa função forever.
+
+== Versões ==
+[[Arquivo:eComStation.jpg|thumb|A versão dos [[anos 2000]], eComStation, que praticamente ninguém lembra que existe.]]
+
+OBS: Só leiam essa lista caso curtam [[enchimento de linguiça]], caso não, passem pro fim do artigo ou [[Especial:Aleatória|caia fora daqui!]]
+
+* OS/2 1.0 1987
+* OS/2 1.10 SE 1988
+* OS/2 1.10 EE 1989
+* OS/2 1.20 SE E EE 1989
+* OS/2 1.30 1991
+* OS/2 2.0 1991-1992
+* OS/2 2.1 1993
+* OS/2 for Windows 1993
+* OS/2 2.11 1994
+* OS/2 2.11 SMP 1994
+
+* SE - Standard Edition
+* EE - Extanded Edition
+
+* OBSERVAÇÕES: As versões do OS/2 1.10, OS/2 1.20 e OS/2 1.30 são conhecidas como MS OS/2 ou Microsoft OS/2 (Ou como Windows...).
+
+=== Versões Warp ===
+[[Arquivo:Blue_screen.png|thumb|Algo que você nunca verá no OS/2.]]
+* OS/2 WARP 3 1994
+* OS/2 WARP Connect 1995
+* OS/2 WARP for PowerPC 1995
+* OS/2 WARP Server 1996
+* OS/2 WARP 4 1996
+* OS/2 WARP 4.51 (MCP1) (??)
+* OS/2 WARP 4.52 (MCP2) 2001
+* OS/2 WARP Server for e-business (4.5) 1999
+* OS/2 WARP Server for e-business 4.51 (ACP1) (??)
+* OS/2 WARP Server for e-business 4.52 (ACP2) 2001
+
+* MCP - Merlin Convenience Pack
+* ACP - Aurora Convenience Pack
+
+=== Versões eComStation ===
+* eComStation 1.0 2001
+* eComStation 1.1 2003
+* eComStation 1.2 2004
+* eComStation 1.2R 2005
+* eComStation 2.0 RC1 2007
+* eComStation 2.0 RC4 2007
+* eComStation 2.0 RC5 2008
+* eComStation 2.0 RC6 2008
+* eComStation 2.0 RC7 Silver 2009
+* eComStation 2.0 GA 2010
+* eComStation 2.1 2011
+
+Ok, acho que deu... já que [[você]] NUNCA usará nenhum deles mesmo.
+
+== Ver também ==
+
+*[[Macintosh]]
+*[[AmigaOS]]
+*[[Unix]]
+*[[DR-DOS]]
+
+[[Categoria:Sistemas operacionais]]
+[[Categoria:Produtos descontinuados]]

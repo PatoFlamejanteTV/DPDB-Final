@@ -1,0 +1,74 @@
+
+{{c|É e ou ou|Típico aluno de [[Fundamentos de Programação]]|{{PAGENAME}}}}
+{{c|Eu amo|Típico aluno de [[Sistemas de Informação]]|{{PAGENAME}}}}
+
+{{c|Eu odeio|Típico aluno não-frustrado de [[Ciência da Computação]]|{{PAGENAME}}}}
+
+{{c|Como assim eles chamam isso de engenharia?|Típico aluno não-frustrado de [[Ciência da Computação]] na primeira aula.}}
+
+{{c|Mas isso é óbvio, não é?|Professor de Engenharia de Software.}}
+
+{{c|O sistema está praticamente pronto, esta especificado, falta só implementar | Aluno de Engenharia de Software bobinho que não sabe programar}}
+
+{{c|Puta que pariu, pra fora!|[[nerd|Aluno de Informática da UEM]]|{{PAGENAME}}}}
+
+'''Engenharia de Software''' é algo que não se pode definir, pois nada, absolutamente nada nesta área é determinístico. Tudo vem do bom senso, ou melhor, do ''feeling''. Esta área lida com [[você|pessoas]], [[advogado|processos]], [[ativo|atividades]], [[gambiarra]]s, prolixidade e [[etc|tudo o mais]], menos com o [[Software]].
+
+== Introdução ==
+A '''Engenharia de Software''' forma um [[merda|aglomerado de conceitos]] que dizem absolutamente [[nada]] e que geram no [[estudante]] desta área um sentimento de ''Nossa, li [[15]] [[gordo|kg]] de livros desta matéria e não aprendi nada. É tudo bom senso''.
+
+O problema é que aqueles que lecionam esta disciplina conseguem fazer com que o bom senso do aluno '''nunca''' seja o bom senso certo.
+[[Arquivo:Nerd-computador-1-.jpg|thumb|right|[[Engenheiros do Hawaii|Engenheiro <s>do Hawaii</s>]] de software]]
+
+A causa da maior revolta e indignação dos alunos de [[Ciência da Computação]] (que não seguem a área) é o fato de ser a única coisa do curso que dá [[dinheiro]].
+
+== História ==
+
+Não se sabe ao certo quando esta coisa toda surgiu, principalmente por ela ter surgido dá técnica conhecida como " ''Encher [[Linguiça]]''" e esta última, nada mais é do que uma forma popular da Engenharia de Software.(Cuidado ao fazer essa área na PUCC, e tão ruim ou pior que ciência da computação).
+
+O conteúdo de Engenharia de Software é algo que une o abstrato ao não determinístico e o Professor ainda olha pra você com aquela cara de: "Entendeu?! É tão óbvio essa coisa toda". Na verdade, "essa coisa toda" é "coisa nenhuma".
+
+== Modelos de Maturidade ==
+
+=== CMMI ===
+
+É um ''[[Dercy Gonçalves|modelo de maturidade]]'' que pretende dizer se, em suma, o software feito pela sua empresa presta ou não. Mas é uma mostra de que esta área não é só ''acoxambrada'' na teoria, mas também na prática. Qualquer empresa que quiser conseguir o nível máximo de maturidade ([[5]]) terá que submeter um software feito por ela a inspeções. Se você seguiu algumas etapas como:
+
+* Código fonte possui comentário(s)
+* Codigo fonte possui classe(s)
+* Código fonte possui a cláusula "if"
+* Código fonte possui <s>guardanapos</s> documentos de especificação
+
+conseguirá o nível máximo.
+
+O fator <s>ridículo</s> central desta história é que a empresa escolhe o melhor software feito por ela, ou seja, aquele que ela sabe que atende os fatores para ganhar o nível de maturidade máximo e, portanto será como fazer uma prova podendo consultar a [[internet]], [[livro]]s e ainda escolher a nota final que deseja tirar.
+
+== Conteúdo ==
+
+Se existe algum conteúdo em Engenharia de Software este abusa de redundância da sua característica mais forte, a prolixia em seus capítulos.
+
+=== Métricas de Software ===
+
+A ideia básica desta parte da matéria é definir qual o melhor método para superfaturar o tamanho de um software e com isto, cobrar uma [[montanha-russa]] do cliente quando este havia pedido apenas um balanço feito com cordas e pneu.
+
+Existem diversas formas como contagens de linhas de [[POG|gambiarras]], contagem de número de comentários, não muito boa devido a pouco e não existência destes. Pode ser feita ainda, a cobrança com uma relação inversa do número de comentários, ou seja, quanto menor número de comentários, maior o preço. Visto que estas métricas não são adequadas, uma forma semi-[[extraterrestre]] foi criada criada com o intuito de que o valor final do software ninguém entendesse o porque, os maléficos Pontos de Função.
+
+Eis que surge a expressão "Pontos de Função", algo tão difícil de definir como tudo nesta disciplina, ou até mais difícil uma vez que, pelas palavras de um dos principais [[Idiota|Engenheiros de Software]] do [[Brasil]], a desvantagem deste método é: "Não têm significado físico direto.", ou seja, é só inventar um número que o cliente irá aceitar, [[ou não]]. O ponto forte desta técnica é que você não precisa fazer nada com relação à contagens, apenas chute um número e pronto.
+
+=== Relatório de Análise de Gestão ===
+
+Este relatório da gestão de gerência de coordenação de projetos e planos de trabalho sob a ótica do engenheiro do software, do ponto do vista do engenharia de software, à [[luz]] do controle de qualidade e boa performance e desempenho na produção de um sistema como produto e como solução para um problema a ser solucionado. Ou seja, algo simples e direto.
+
+== Ver também ==
+
+* [[POG]]
+* [[Podrões de Projeto]]
+* [[Qualidade de Software]]
+
+{{engenharias}}
+
+[[Categoria:Ciência da computação]]
+[[Categoria:Engenharia de software|*]]
+[[Categoria:Gestão de projetos]]
+
+[[pl:Inżynieria oprogramowania]]

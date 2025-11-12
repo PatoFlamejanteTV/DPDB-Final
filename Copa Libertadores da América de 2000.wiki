@@ -1,0 +1,277 @@
+{{vqd|Bug?}}
+{{C|Do que adianta ter Mundial se não tem Libertadores?<choose><option>[[Arquivo:trollface.jpg|45px]]</option><option>[[Arquivo:trollface2.jpg|45px]]</option><option>[[Arquivo:Troll HD.png|60px]]</option><option>[[Arquivo:IEtroll.png|50px]]</option><option>[[Arquivo:Troll1.jpeg|45px]]</option><option>[[Arquivo:Troll3.jpeg|45px]]</option><option>[[Arquivo:Troll7.gif|45px]]</option><option>[[Arquivo:Troll9.jpg|45px]]</option></choose>|[[Palmeirense]]|o [[Corinthians]] não ter libertadores até 2012}}
+[[Arquivo:PAL x COR LIBERTA 2000 CONFUSÃO.png|275px|thumb|right|De novo com mais porrada]]
+
+A '''{{PAGENAME}}''' foi uma demonstração de freguesia, na qual teve time brasileiro sendo prejudicado na final, [[Juventude]] estreando em competição internacional e outras bostas mais.
+
+== Pré Libertadores ==
+== Grupo 1 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do Atlético Paranaense.png|20px]][[Clube Atlético Paranaense|Paranaue]]||bgcolor=#CCFFCC|'''16'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|5||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|0||bgcolor=#CCFFCC|11||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|9
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do Nacional do Uruguai.png|20px]][[Club Nacional de Football|Anti-múmias]]||bgcolor=#CCFFCC|'''10'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|8||bgcolor=#CCFFCC|7||bgcolor=#CCFFCC|1
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do Alianza Lima.png|20px]][[Club Alianza Lima|Traficantes Peruanos]]||bgcolor=#FFCCCC|'''5'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|3||bgcolor=#FFCCCC|7||bgcolor=#FFCCCC|12||bgcolor=#FFCCCC|-5
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do Emelec.png|20px]][[Club Sport Emelec|Emeleca]]||bgcolor=#FFCCCC|'''2'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|0||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|4||bgcolor=#FFCCCC|3||bgcolor=#FFCCCC|8||bgcolor=#FFCCCC|-5
+|}
+== Grupo 3 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Globorinthias.jpg|20px]][[Sport Club Corinthians Paulista|Mendigos ,travecos e bandidos]]||bgcolor=#CCFFCC|'''13'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|4||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|17||bgcolor=#CCFFCC|9||bgcolor=#CCFFCC|8
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do América do México.png|20px]][[Club América|Televisa FC]]||bgcolor=#CCFFCC|'''10'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|15||bgcolor=#CCFFCC|9||bgcolor=#CCFFCC|6
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do Olímpia.png|20px]][[Club Olimpia|Olimpiakos]]||bgcolor=#FFCCCC|'''8'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|13||bgcolor=#FFCCCC|17||bgcolor=#FFCCCC|-4
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo da LDU.png|20px]][[Liga Deportiva Universitaria|Flamengo do Equador]]||bgcolor=#FFCCCC|'''2'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|0||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|4||bgcolor=#FFCCCC|3||bgcolor=#FFCCCC|-13||bgcolor=#FFCCCC|-10
+|}
+== Grupo 7 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do Palmeiras.png|20px]][[Sociedade Esportiva Palmeiras|Porcaria]]||bgcolor=#CCFFCC|'''10'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|16||bgcolor=#CCFFCC|10||bgcolor=#CCFFCC|6
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do El Nacional.png|20px]][[Club Deportivo El Nacional|Nada]]||bgcolor=#CCFFCC|'''10'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|10||bgcolor=#CCFFCC|7||bgcolor=#CCFFCC|3
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do Juventude.png|20px]][[Esporte Clube Juventude|Amarelou]]||bgcolor=#FFCCCC|'''7'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|3||bgcolor=#FFCCCC|8||bgcolor=#FFCCCC|12||bgcolor=#FFCCCC|-4
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do The Strongest.png|20px]][[Club The Strongest|Só venceram na altidude]]||bgcolor=#FFCCCC|'''7'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|3||bgcolor=#FFCCCC|10||bgcolor=#FFCCCC|15||bgcolor=#FFCCCC|-5
+|}
+== Grupo 8 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do Bolívar.png|20px]][[Club Bolívar|Ecravos de Evo Morales]]||bgcolor=#CCFFCC|'''10'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|12||bgcolor=#CCFFCC|9||bgcolor=#CCFFCC|3
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Atlético Caiu.jpg|20px]][[Clube Atlético Mineiro|Patético Mineiro]]||bgcolor=#CCFFCC|'''9'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|0||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|9||bgcolor=#CCFFCC|7||bgcolor=#CCFFCC|2
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:447997575 2f099e3f32 o.jpg|20px]][[Club Atlético Bella Vista|Faliu]]||bgcolor=#FFCCCC|'''8'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|8||bgcolor=#FFCCCC|5||bgcolor=#FFCCCC|3
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do Cobreloa.png|20px]][[Club de Deportes Cobreloa|Vasco da Colombia]]||bgcolor=#FFCCCC|'''6'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|3||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|7||bgcolor=#FFCCCC|15||bgcolor=#FFCCCC|-8
+|}
+[[Arquivo:Rosario centralista de mimimi.jpg|275px|thumb|right|''Hinchas'' perplexas ao ver tanta roubalheira do Corinthians]]
+== Oitava-de-final ==
+A parte mais importante da libertadores começou com o Atlético mineiro ganhando o Atlético paranaense do até então desconhecido ''Adriano Gabiru'' no Mineirão. Mas no segundo jogo o Atlético-mg se fodeu e estava perdendo de 2 a 0, e no finalzinho o Atlético-mg empatou e levou nos pênaltis ,com o Adriano Gabiru isolando .
+
+Como a CBF estava lascada com a ''CBF-NIKE'' decidiu não interceder pelo corinthians nessa Libertadores .Resultado: o Corinthians se ferrou teve que pegar os fanáticos do [[Club Atlético Rosario Central|Rosario Central]] .No primeiro jogo o corinthians sentiu a pressão e tomou um 3 a 0 no primeiro tempo .Porém no Segundo tempo ''Luizão'' marcou dois gols e salvou o Corinthians do vexame .Já no Segundo jogo o corinthians começou  abrindo com o Luizão ,porém tomou de virada com direito a gordilha humilhando geral .Mas o Corinthians ainda conseguiu virar de novo com Edilson dibrando e Luizão .Nos pênaltis o Corinthians levou graças a Dida. 
+
+O Palmeiras que foi chegar de salto ,capotou e tomou um 2 a 0 no Uruguai contra o Peñarol ,tendo que receber uma "ajudinha" em casa pra não tomar vexame de novo contra o Peñarol, enfiando um 3 a 0 ,com gols e Euller e Ramos até conseguiu se mostrar convincente ,mas ai vem a parte estranha do jogo ,o Peñarol que não era fraco nem nada diminuiu com 1 gol ,e depois marcou mais um de bicicleta ,por algum motivo o bandeirinha decidiu anular o gol ,que era legal .Já nos pênaltis novamente o Palmeiras foi salvo por marcos .
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Escudo do Cerro Porteño.png|20px]][[Club Cerro Porteño|Cavalo Paraguaio]]
+| align=center | 0-5
+| [[Club Atlético River Plate|Gallinas]][[Arquivo:Escudo do River Plate.png|20px]]
+|align=center  | 0-4
+|align=center  | 0-1
+|-
+| align=center |2
+| align=right  | [[Arquivo:Escudo do El Nacional.png|20px]][[Club Deportivo El Nacional|Nada]]
+| align=center | 3-5
+| [[Club Atlético Boca Juniors|Boquetinho]][[Arquivo:Escudo do Boca Juniors.png|20px]]
+| align=center | 0-0
+| align=center | 3-5
+|-
+| align=center |3
+| align=right  | [[Arquivo:Escudo do América do México.png|20px]][[Club América|Televisa FC]]
+| align=center | 5-3
+| [[Corporación Deportiva América|Quadra-vice-da-Libertadores]][[Arquivo:Escudo do América de Cali.png|20px]]
+| align=center | 2-1
+| align=center | 3-2
+|-
+| align=center |4
+| align=right  | [[Arquivo:Escudo do Nacional do Uruguai.png|20px]][[Club Nacional de Football|Anti-mumias]]
+| align=center | 3-3(3-5)
+| [[Club Bolívar|Escravos de Evo Morales]][[Arquivo:Escudo do Bolívar.png|20px]]
+| align=center | 3-0
+| align=center | 0-3
+|-
+| align=center |5
+| align=right  | [[Arquivo:Atlético Caiu.jpg|20px]][[Clube Atlético Mineiro|Patético Mineiro]]
+| align=center | 2-2(5-4)
+| [[Clube Atlético Paranaense|Podles]][[Arquivo:Escudo do Atlético Paranaense.png|20px]]
+| align=center | 1-0
+| align=center | 1-2
+|-
+| align=center |6
+| align=right  | [[Arquivo:Escudo do Rosario Central.png|20px]][[Club Atlético Rosario Central|Freguês do Newell's]]
+| align=center | 5-5(3-4)
+| [[Sport Club Corinthians Paulista|Mendigos ,travecos e bandidos]][[Arquivo:Globorinthias.jpg|20px]]
+| align=center | 3-2
+| align=center | 2-3
+|-
+| align=center |7
+| align=right  | [[Arquivo:Escudo do Atlas.png|20px]][[Atlas Fútbol Club|Mapa-mundi]]
+| align=center | 5-1
+| [[Corporación Popular Deportiva Junior|Gordo Colombiano]][[Arquivo:Corpo cerveja.jpg|20px]]
+| align=center | 2-0
+| align=center | 3-1
+|-
+| align=center |8
+| align=right  | [[Arquivo:Escudo do Peñarol.png|20px]][[Club Atlético Peñarol|Múmias]]
+| align=center | 3-3(2-3)
+| [[Sociedade Esportiva Palmeiras|Porcaria]][[Arquivo:Escudo do Palmeiras.png|20px]]
+| align=center | 2-0
+| align=center | 1-3
+|}
+[[Arquivo:Atleticano chorando.jpg|250px|thumb|right|Após sua 4ª eliminação para uma equipe brasileira ,o atlético demorou 13 anos para voltar a libertadores ,com um rebaixamento no meio]]
+== Quartas-de-final ==
+Começando as Quartas-de-final ,para a alegria dos Cruzeirenses o ''Galo'' mais uma vez morreu na praia ,mesmo conseguindo a façanha de convencer o juiz de dar um pênalti contra o corinthians nos dois jogos ,convertidos por Guilherme ,empatou em 1 a 1 no [[Mineirão]] .Já no ''Morumbi'' o Atlético chupou o Corinthians fortemente ,tomou um 2 a 1 e disse adeus a libertadores .
+
+No ultimo jogo vimos o Atlas tomar uma surra de 2 a 0 em Guadalajara com direito a pênalti perdido! Mas por algum motivo deu trabalho no ''Palestra Itália'' onde o Palmeiras foi salvo pela milésima vez por [[Marcos]] ,num jogo vai e volta ,só no no finalzinho o Palmeiras realmente fincou sua vitoria .
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Escudo do River Plate.png|20px]][[Club Atlético River Plate|Gallinas]]
+| align=center | 2-4
+| [[Club Atlético Boca Juniors|Boquetinho]][[Arquivo:Escudo do Boca Juniors.png|20px]]
+|align=center  | 2-1
+|align=center  | 0-3
+|-
+| align=center |2
+| align=right  | [[Arquivo:Escudo do América do México.png|20px]][[Club América|Televisa FC]]
+| align=center | 4-1
+| [[Club Bolívar|Escravos de Evo Morales]][[Arquivo:Escudo do Bolívar.png|20px]]
+| align=center | 2-0
+| align=center | 2-1
+|-
+| align=center |3
+| align=right  | [[Arquivo:Atlético Caiu.jpg|20px]][[Clube Atlético Mineiro|Patético Mineiro]]
+| align=center | 2-3
+| [[Sport Club Corinthians Paulista|Mendigos ,travecos e bandidos]][[Arquivo:Globorinthias.jpg|20px]]
+| align=center | 1-1
+| align=center | 1-2
+|-
+| align=center |4
+| align=right  | [[Arquivo:Escudo do Atlas.png|20px]][[Atlas Fútbol Club|Mapa-mundi]]
+| align=center | 2-5
+| [[Sociedade Esportiva Palmeiras|Porcaria]][[Arquivo:Escudo do Palmeiras.png|20px]]
+| align=center | 0-2
+| align=center | 2-3
+|}
+[[Arquivo:Corintianochorando9999.jpg|300px|thumb|right|Pequeno sofredor vendo seu time sendo eliminado novamente]]
+== Semifinal ==
+{{C|Bi-eliminados!husahsuahsuahsuhahus|[[Palmeirense]]|a Semifinal}}
+{{C|kkkk.mas o mundial ,vai ganhar quando?|[[Corintiano]]|os [[Palmeirense|Palmeirenses]]}}
+
+Numa das Semifinais mais doidas a história ,com um clássico com 12 gols e pênaltis ,novamente o Corinthians sofrendo foi eliminado ,começando o  primeiro jogo novamente no ''Morumbi'', até os 70 minutos o Corinthians estava ganhando de 3 a 1,até que a defesa do corinthians mostrou sua competência e tomou 2 gols no finalzinho pro Palmeiras ,mas nos acréscimos Vampeta deu uma cagada e chutou a bola em cima do zagueiro ,desviando a bola macumbamente no ângulo e salvando o Corinthians do vexame.
+
+Já no segundo jogo ,já teve duas viradas ,o Palmeiras abriu ,mas o Corinthians virou ,com os bandidos Marcelinho e Luizão ,iludindo os torcedores do corinthians que eles tinham conquistado a vaga ,mas tomou de virada logo em seguida com gols de Alex e Galeano ,acabando a correria ,começava novamente os pênaltis assim como em 99 ,onde todos convertiam com tamanha precisão que deu até porrada .
+Até que o Marcelinho Carioca fez merda e Marcos defendeu ,consagrando mais uma vez o maldito .
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Escudo do Boca Juniors.png|20px]][[Club Atlético Boca Juniors|Boquetinho]]
+| align=center | 5-4
+| [[Club América|Televisa FC]][[Arquivo:Escudo do América do México.png|20px]]
+|align=center  | 4-1
+|align=center  | 1-3
+|-
+| align=center |2
+| align=right  | [[Sport Club Corinthians Paulista|Mendigos ,travecos e bandidos]][[Arquivo:Globorinthias.jpg|20px]]
+| align=center | 6-6
+| [[Sociedade Esportiva Palmeiras|Porcaria]][[Arquivo:Escudo do Palmeiras.png|20px]]
+| align=center | 4-3
+| align=center | 2-3
+|}
+== Final ==
+[[Arquivo:Camisa-boca-x-corinthians.jpg|200px|thumb|right|O dia mais feliz das Gayvotas <small>até 2012</small>]]
+Na final ,para a alegria dos corintianos o Palmeiras tirou o jejum do Boca de 22 anos sem Libertadores ,onde depois do milagroso empate de 2 a 2 na ''[[La Bombonera]]'' ,começava a tradição do Palmeiras de amarelar em finais de libertadores ,depois de um 0 a 0 sufocante onde estranhamente o Boca Juniors foi prejudicado ,foi para pênaltis ,onde o goleiro ''Córdoba'' foi consagrado graças aos ''zagueiros burros que chutaram em cima dele'' .
+
+Para os brasileiros ,essa final de libertadores e praticamente esquecida ,só e lembrada mesmo e pelos Corintianos .
+
+Para o Argentinos foi um título milagroso ,onde o Boca Além de eliminar o Rival ''[[River Plate]]'' ,ainda foi campeão da Libertadores contra um clube brasileiro tradicional e foi campeão mundial .
+
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Escudo do Boca Juniors.png|20px]][[Club Atlético Boca Juniors|Boquetinho]]
+| align=center | 2-2 <small>(4-2)<small>
+| [[Sociedade Esportiva Palmeiras|Porcaria]][[Arquivo:Escudo do Palmeiras.png|20px]]
+|align=center  | 2-2
+|align=center  | 0-0
+|}
+
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Copa Libertadores da América de 2000<br/>
+|-
+![[Arquivo:Escudo do Boca Juniors.png|border|100px]]
+|-
+|align=center|<s>'''[[Corinthians|Curíntia]]'''</s> '''[[Club Atlético Boca Juniors|Boquetão]]'''<br />
+(3° título)<br />
+|}
+
+== Veja também ==
+*[https://www.youtube.com/watch?v=mZ3RhgRWu5c video] Palmeiras elimina o Juventude
+*[https://www.youtube.com/watch?v=s5gaOGzCP2o video] Corinthians e eliminado pelo Palmeiras pela 2ª vez
+*[https://www.youtube.com/watch?v=WgJpduXXJaI video] Palmeiras e vice da Libertadores pela 3ª vez
+*[https://www.youtube.com/watch?v=3dEcaK3gC1Q video] Boca e campeão mundial(narração argentina)
+*[[Copa Intercontinental]]
+
+{{Futebolismo}}
+{{Libertadores}}

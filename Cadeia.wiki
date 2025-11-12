@@ -1,0 +1,12 @@
+{{desambiguação}}
+{{Verbete}}
+== Na [[Química]] ==
+
+Cadeia de [[elementos]] onde uma combinação de elementos [[químicos]] formam compostos utilizados pela [[população]] e/ou outros.
+
+== Na [[Computação]] ==
+
+Cadeia de caracteres, também conhecida como [[STRING]], ou ainda vetor de caracteres. É o lugar onde caracteres do mal ficam presos até a próxima limpeza da memória.
+
+== Na [[sociedade]] ==
+[[Prisão|Cadeia]] é um lugar para depositar bandidos.

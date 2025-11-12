@@ -1,0 +1,46 @@
+{{jogo}}
+{{Infobox Game
+|title     = Doutor Mário (que Mário?)
+|image     = Docmario.jpg
+|caption   = "Você...está pronto para receber...o seu supositório?"
+|developer = [[Nintendo|Nãointendo]]
+|publisher = [[Nintendo|Nãointendo]]
+|released  = [[1990]]
+|genre     = [[Puzzle]]
+|rating    = 10%
+|platform  = [[Nintendinho]], [[Super Nintendo]] e [[Game Boy]]
+|ages      = Livre para se brincar de médico quando quiser
+}}
+
+{{c|Atenção: as Pílulas podem causar mau estar, dor de estômago ou vontade de ir ao armário.|Ministério da Saúde|Pílulas}}
+
+'''"Doutor" Mario''' é o pseudônimo de [[Super Mario|Mario Mario]] durante o período em que este realizava exercício de medicina. Quando não trabalhava de construtor, nem encanador, ele era um doutor exemplar.
+
+== De onde veio a ideia ==
+
+A ideia veio da <s>sony</s> [[Nintendo]], o que reforçou ainda mais a ideia de que jogos da linha [[Super Mario|Mario Bros.]] estimulavam os consumidores a consumir <s>bosta</s> [[drogas]] ilícitas (O [[cogumelo]] e a flor, por exemplo) e a serem médicos que um dia sonhavam em ser da rede pública de saúde piorando e enchendo de gente como [[Você]] que estraga tudo e todos.
+
+== O tema do jogo ==
+[[Arquivo:Mamaluigi.jpg|thumb|left|200px|Pobre Luigi: não virou doutor.]]
+Tudo começa quando [[Mario]] ganhou seu diploma de medicina. E depois disso ele montou
+seu escritório e atendeu seus pacientes com <s>drogas ilícitas</s> inofensivas, pílulas de especiais que eliminam o vírus <s>da AIDS</s> malígino que se tornou comum em Mushroom Kingdom.
+
+No fim do jogo, Mario se demite, pois considera esse jogo cópia de [[Tetris]].
+
+== Continuação ==
+
+Num dia de folga do seu trabalho de encanador, ele pretendia comer a [[Princesa Peach]]. Mas ela estava viajando. Então ele resolveu voltar a seu ofício... somente por um tempo... pois a [[Princesa Zelda]] apareceu pra alegrar o italiano.
+
+{{Super Mario}}
+{{Smash Bros}}
+{{Puzzle}}
+
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Game Boy]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para Nintendo Switch Online]]
+[[Categoria:Jogos lançados em 1990]]

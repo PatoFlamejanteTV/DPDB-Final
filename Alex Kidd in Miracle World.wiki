@@ -1,0 +1,63 @@
+{{game}}
+
+{{vqd|O maior sucesso do Alex Kidd}}
+{{c|Agora built-in!|[[Sega|Cega]] fazendo propaganda do Master System II com Alex Kidd in Miracle World na BIOS}}
+{{c|Porque nessa versão ele come hamburger?|Qualquer um|Alex Kidd in Miracle World na memória}}
+{{c|Vamos fazer um campeonato de quem bebe mais?|Earl|a versão no qual Alex bebe cerveja}}
+{{c|Jan-ken-Pô!|Música final do janken}}
+{{título em itálico}}
+
+[[Arquivo:Motorcycle.gif|Sukopako, a motocicleta do nosso Porrada-Boy]] '''''Alex Kidd in Miracle World''''' (アレックスはのミラクルワールドキッド) foi o segundo jogo de [[Alex Kidd|Alex, o Kidd]]. Feito em [[1986]], pela [[Sega|Cega]].
+
+{{Infobox Game|title = Alex Kidd in Miracle World
+|image               = AKMW GG Pirata.jpg
+|caption             = [[Pirataria]] no Tijolo Gear!
+|developer           = [[Sega|CEEEEEEEGAAAAAAAAA]], [[Overworks]]
+|released            = [[1986]]
+|genre               = {{ADV}}
+|rating              = 1%
+|platform            = [[Master System]], <s>[[Game Gear|Tijolo Gear]]</s>, [[Coleco Sonic]] e [[Virtual Console]]
+|ages                = Livre
+}}
+
+==História==
+
+O jogo conta a história de Alex, o Kidd, vivendo o mais alegremente possível. Porém, ele encontra o seu o pai, a ponto de ter um [[infarte]]. O pai dele entrega um mapa para Alex, o Kidd, antes dele bater as botas (o pai dele [[Porra]]!) e então, Alex enterra seu pai, e depois desse [[velório]] [[unanime]], ele olha o mapa e então, ele vê o Mundo dos Milagres (Miracle World). E então, Alex com um bolo de arroz começa sua aventura cantando Ganbare, Ganbare, Arekussu Ki-i-i-do... E aí, começa o game.
+
+==O game==
+
+[[Arquivo:AlexKiddMWJP.jpg|left|thumb|Alex Kidd no design japonês.]]
+
+O objetivo é Alex, o Kidd, dar porradas em caixas com estrelas para pegar [[dinheiro]] para comprar itens, e veículos. Serve também para bater nos inimigos e então, marcar pontos. Você irá controlar Alex em terra firme, no mar (com um barco), dentro do mar, no ar (com o seu Peticoptero) e pode [[correr pra caralho]] com uma motocicleta (nome real de [[Sukopako]]). Você poderá usar outros itens também, como um fire punch, uma bengala para voar, uma caixa de invencibilidade e outros itens.
+
+===[[Chefão|Bosses]]===
+
+Existe vários bosses, entre eles, os soldados do tirano de Janken (com caras de Papel, Tesoura e Pedra) e bosses normais, como polvos, [[bufalo]]s, ursos e então, o próprio tirano de Janken. Alex deve resgatar a paz de Radaxian e salvar a princesa de [[Radaxian]] e seu irmão também.
+
+==Curiosidades==
+
+* Alex Kidd in Miracle World foi o jogo built-in do SMS II americano/[[Europa|Europeu]]/[[Brasil]]eiro. Na Europa e no Brasil, foi substituído por [[Sonic the Hedgehog (game)#Versão 8-bit|Sonic the Hedgehog]];
+* Alex Kidd in Miracle World foi hackeado para um cartucho de Tijolo Gear, por piratas (logo acima),
+* Alex Kidd in Miracle World ganhou uma versão especial no qual Alex, o Kidd bebe cerveja (só faltava ser a cerveja [[Duff]], aquela que o [[Homer Simpson|Homer]] bebe).
+* Alex Kidd in Miracle World é o único game a participar de todos os modelos brasileiros do Master System 3,
+* Alex Kidd in Miracle World teve um jogo de tabuleiro exclusivo no [[Japão]],
+* Alex Kidd in Miracle World é um dos 20 jogos built-in do Coleco Sonic,
+* Alex Kidd in Miracle World teve uma sequência chamada [[Alex Kidd in the Enchanted Castle]], para [[Mega Drive|Merda Drive]],
+* Alex Kidd in Miracle World é o jogo mais vendido do Master System na Europa,
+* Alex Kidd in Miracle World tem muitas referências ao próprio personagem no game chamado [[Segagaga|SGGG]], situado no ano de [[2025]],
+* Alex Kidd in Miracle World está disponível para o Virtual Console do [[Nintendo Wii|WRYYYYYYYYYYYYYYY!!!]] para todas as regiões,
+* Alex Kidd in Miracle World foi o jogo built-in do [[Samsung]] [[Gam*boy II]], no qual é a versão [[Coreia do Sul|sul-coreana]] do Master System II (o primeiro era o SMS japonês).
+
+[[Arquivo:AlexKiddCharacters.png|right|thumb|Atrás os vilões, na frente Alex e a Princesa Lora (mas o Alex tá com tanta fome assim???).]]
+
+== Ligações externas ==
+
+* [http://vc.sega.jp/vc_ms_alexmw/ Alex Kidd in Miracle World na Line-Up do Master System no Virtual Console] 
+* [http://sega.jp/archive/album/04_alex/ Alex Kidd in Miracle World na Cega Album Art]
+
+{{Alex Kidd}}
+{{Trofeu Gamístico|por ser o jogo mais esquecido desde 1991!}}
+[[Categoria:Jogos lançados em 1986]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Virtual Console]]

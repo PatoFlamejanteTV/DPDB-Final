@@ -1,0 +1,81 @@
+{{taxocaixa
+| nome           = Actinopterygii
+| cor            = #0047AB
+| imagem         = Fishbone, New Super Mario Bros. U.png
+| imagem_legenda = Um peixe actinopterígeo
+| reino          = [[Animalia|Anomalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aguaníferítipicos]]
+| classe         = [[Actinopterygii|Peixes com espinha]]
+}}
+
+'''Actinopterygii''' (não tente pronunciar esta palavra em casa) é uma palavra de origem húngara para definir a classe de peixes de nadadeiras não comestíveis, ou seja, '''peixes com espinha infradorsal''', ou seja aquela que dá raiva quando você mastiga sem querer de um peixe mal limpo empanado que não dá para ver direito os pedaços.
+
+== Anatomia ==
+
+A peculiaridade dos actinopterygii são ter ossos nas nadadeiras e ossos nas branquias, um aspecto curioso que denota um potencial de que as nadadeiras podem tornar-se dedos e eles saírem debaixo da água.
+
+O desenvolvimento do esqueleto desses peixes nas nadadeiras é mais uma prova da seleção natural, uma vez que os animais aquáticos não precisam ter esqueletos, afinal eles vivem na água e não precisam se mexer tanto apenas boiar e se deixar levar, por isso os polvos são os animais marítimos mais bem sucedidos ou simplesmente ficarem parados como as esponjas que são outro exemplo de ser vivo evoluído e avançado, todos economizando energia, ao contrário destes os peixes actinopterígeos tem ossos até nas barbatanas o que aparentemente só cria um peso inútil. Porém isso tem explicação, quando a predação começou com o surgimento do primeiro carnívoro nos oceanos, os peixes menores tiveram que desenvolver uma defesa, e nada mais ideal que desenvolver espinhas para entalar na garganta de seus algozes. É claro que depois inventaram a peixeira, mas isso é outra história.
+
+== Taxonomia ==
+
+{{Clado
+|clado1     = Ordens
+|preposição = à
+|clado2     = classe Actinopterygii
+|texto      = Com mais de 27.000 espécies, peixes com nadadeiras não-comestíveis são abundantes em todos oceanos, rios, lagos, aquários, privadas, charcos... lembrando que os golfinhos são [[cetáceos]] e portanto sabem voar e dirigir espaçonaves e não se incluem nestas espécies.
+
+Muitas espécies de Actinopterygii estão ameaçadas de extinção, afinal professores de administração não param de caçá-los insustentavelmente para expô-los em sala de aula para explicar métodos gestores de causas e efeito.
+
+|lista      =
+* '''[[Polypteriformes]]''' - peixes com cara de lagarto que vivem na África
+* '''[[Acipenseriformes]]''' - esturjões
+* '''[[Lepisosteiformes]]''' - lepisosteus
+* '''[[Amiiformes]]''' - amias
+* '''[[Osteoglossiformes]]''' - aruanãs, pirarucus
+* '''[[Hiodontiformes]]''' - peixes-olhos-de-lua
+* '''[[Elopiformes]]''' - elopídeos
+* '''[[Albuliformes]]''' - flechas
+* '''[[Notacanthiformes]]''' - enguias das profundezas
+* '''[[Anguilliformes]]''' - enguias
+* '''[[Saccopharyngiformes]]''' enguias-pelicano
+* '''[[Clupeiformes]]''' - arenques, sardinhas, anchovas
+* '''[[Gonorynchiformes]]''' - peixe-do-leite
+* '''[[Cypriniformes]]''' - carpas
+* '''[[Characiformes]]''' - piranhas, lambaris, dourados, pacus, traíras
+* '''[[Gymnotiformes]]''' - peixes-elétricos
+* '''[[Siluriformes]]''' - bagres
+* '''[[Salmoniformes]]''' - salmões, trutas
+* '''[[Esociformes]]''' - lúcios
+* '''[[Osmeriformes]]''' - cheiros
+* '''[[Argentiniformes]]''' - peixes-fantasmas
+* '''[[Ateleopodiformes]]''' - peixes-nariz-de-geleia
+* '''[[Stomiiformes]]''' - peixes-víbora
+* '''[[Aulopiformes]]''' - peixes-lagarto
+* '''[[Myctophiformes]]''' - peixes-lanterna
+* '''[[Lampridiformes]]''' - peixes-rei e regalecos
+* '''[[Polymixiiformes]]''' - peixes-de-barba
+* '''[[Percopsiformes]]''' - percopes
+* '''[[Batrachoidiformes]]''' - peixe-sapo
+* '''[[Lophiiformes]]''' - peixes-pescadores
+* '''[[Gadiformes]]''' - bacalhaus
+* '''[[Ophidiiformes]]''' - enguias anãs das profundezas
+* '''[[Mugiliformes]]''' - tainhas
+* '''[[Atheriniformes]]''' - peixinhos coloridos
+* '''[[Beloniformes]]''' - peixes-agulha, peixes-voadores
+* '''[[Cetomimiformes]]''' - peixes-baleia
+* '''[[Cyprinodontiformes]]''' - peixes de aquário
+* '''[[Stephanoberyciformes]]''' - melandores
+* '''[[Beryciformes]]''' - imperadores e cardeais
+* '''[[Zeiformes]]''' - peixe-são-pedro
+* '''[[Gasterosteiformes]]''' - enguias-da-areia
+* '''[[Syngnathiformes]]''' - cavalos-marinhos, peixes-cachimbos
+* '''[[Synbranchiformes]]''' - muçuns
+* '''[[Tetraodontiformes]]''' - peixes-lua e baiacus
+* '''[[Pleuronectiformes]]''' - linguados
+* '''[[Scorpaeniformes]]''' - peixes-leão
+* '''[[Perciformes]]''' percas, atuns, cavalas
+}}
+
+[[Categoria:Peixes]]
+[[Categoria:Actinopterygii|*]]

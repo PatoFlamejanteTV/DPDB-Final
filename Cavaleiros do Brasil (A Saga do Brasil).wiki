@@ -1,0 +1,13 @@
+{{Complementar|Cavaleiros do Brasil}}
+[[Categoria:Cavaleiros do Brasil]]
+{{If}}
+{{SB}}
+{{SB2}}
+
+<center>
+{| class = "wikitable"
+|'''[[Cavaleiros do Brasil]]''' || '''Próxima saga'''<br> [[Cavaleiros do Brasil: Saga do Planeta]]
+|}
+</center>
+
+{{Cdb}}

@@ -1,0 +1,48 @@
+{{Info/Subst|       
+|imagem             = Cafeina.png
+|tamanho            = 200px
+|nome_IUPAC         = 1,3,7-trimetilxantina
+|mafagafo           = Sim
+|alucinogeno        = <s>Sim</s> Não
+|comestivel         = Sim, disolvido
+|pizza              = Não, anula o sabor
+|fórmula_química    = Ca<sub>10</sub>EsGa<sub>3</sub>Ci<sub>2</sub>Ga-PeGa<sub>7</sub>
+|peso_molecular     = 285,74
+|sinonimos          = Cafeína,<br>3,7-diidro-1,3,7-trimetil-1H-purina-2,6-diona
+|densidade          = 1,58
+|ponto_de_fusão     = 125
+|ponto_de_ebulição  = 370
+|solubilidade       = 128
+|poder_de_queima    = baixo
+|metabolismo        = cerebral
+|meia_vida          = 1 hora
+|excreção           = renal
+|grau_de_toxicidade = mediano
+}}
+
+'''Cafeína''' é uma substância encontrada nas fezes de [[doninha]]s hiperativas e que, embora não seja ideal para o consumo humano é amplamente apreciado por esses mamíferos, que se viciam em cafeína na ânsia de ficarem doidões.
+
+== Características ==
+
+Considerado pela OMS como um opiáceo, a cafeína é portanto totalmente proibido pelo COI e o seu Comitê Internacional de Dopping. Atletas não podem tomar cafeína porque praticar esportes estando doidão maluco saltitando de hiperatividade não é uma atitude desportiva.
+
+== Ocorrência ==
+
+A cafeína pode ser facilmente encontrada em diversos tipos de plantas pelo mundo. Como na [[Cola acuminata|Cola]] (matéria-prima da [[cola de sapateiro]], daí o vício que pode causar), no [[Red Bull]], na [[erva]], e claro na planta que dá os [[cafeeiro|cafezes]].
+
+== Efeitos ==
+
+Os nerds, sempre eles, compreenderam o poder da cafeína e os benefícios que ela traz. Essa substância os ajuda a manter suas mentes ativas durante longos períodos. Um mantra foi desenvolvido ao longo dos séculos refletindo essa filosofia. Os nerds normalmente negam-se a recitar esse mantra em outra língua que não o inglês. Eis a versão original do mantra:
+
+{{c|It is by caffeine alone I set my mind in motion, It is by the beans of Java the thoughs acquire speed, the hands acquire shaking, the shaking becomes a warning. It is by caffeine alone I set my mind in motion.}}
+
+Uma tradução em português foi publicada em 1973, sendo usada até hoje. Ei-lá:
+
+{{c|É pela cafeína somente que eu coloco minha mente em movimento, É pelos grãos de Java que os pensamentos adquirem velocidade, as mãos adquirem tremor, o tremor torna-se um aviso. É pela cafeína somente que eu coloco minha mente em movimento.}}
+
+[[Categoria:Xantinas]]
+[[Categoria:Carcinógenos do grupo 3 do IARC]]
+[[Categoria:Suplementos alimentares]]
+
+[[en:Caffeine]]
+[[fi:Kofeiini]]

@@ -1,0 +1,59 @@
+{{jogo}}
+
+{{Infobox Game
+|title     = Story of Eastern Wonderland
+|image     = Th02cover.jpg
+|caption   = Capa do jogo.
+|developer = [[ZUN Soft]]
+|publisher = [[ZUN Soft]]
+|released  = [[1997]]
+|genre     = [[Shoot'em up|Navezinha]]
+|rating    = 50%
+|platform  = [[Pc-98|Pc do acre]]
+|ages      = Qualquer uma.
+}}
+
+'''Story of Eastern Wonderland''' é o segundo jogo da série [[Touhou|Torrou]], aqui podemos ver uma clara evolução (ou não) onde o desenvolvedor abandonou o sistema cagado de Arkanoid do jogo anterior e transformou em um jogo de navezinha com gráficos ruins e personagens mal desenhados, outra coisa que dá pra notar é que agora eles também tem diálogos, mas como ninguém joga esses jogos antigos pra caralho, ninguém vai se importar.
+
+== História ==
+
+Vários monstros apareceram no Santuário Hakurei, então Reimu sai por ai com sua tartaruga que nunca mais aparece nos jogos procurando alguém para jogar a culpa.
+
+* '''Estágio 1''' - Após sair com sua tartaruga chamada Genji por ai, Reimu começa a matar vários fantasmas mal desenhados e depois de um tempo aparece um tanque de guerra que desafia as leis da física e atira para os lados mesmo mirando para frente. Após derrotar o tanque você prossegue matando os fantasmas mal desenhados, até que encontra Rika, a menina do tanque de guerra, e é claro, você a derrota.
+
+* '''Estágio 2''' - Você entrou em um pântano ou seja lá o que for isso, então você deve matar mais fantasmas por ai. Depois de matar mais fantasmas, você enfrenta uma samurai chamada Meira que tem uma espada que atira e foda-se a lógica.
+
+* '''Estágio 3''' - Analisando pelo cenário, você entrou no cu de algum bicho, mas na verdade aquilo é apenas o mundo dos sonhos. Depois de passar o estágio inteiro matando mais oponentes, você chega no chefão, que igual  ao do jogo anterior, é um par de olhos com conjuntivite atirando em você, só que aqui os olhos estão menos vesgos.
+
+* '''Estágio 4''' - Depois de derrotar os olhos com conjuntivite, você finalmente chega no estágio 4, porém aparece uma porra de um anjo que fica enchendo o saco o estágio inteiro atirando ''lasers'' em você. Após morrer 20 vezes pra chegar no fim do estágio, você encontra a [[Mima]] do jogo anterior, porém ela não está afim de lutar com você então ela invoca a [[Marisa Kirisame|Marisa]] de cabelo vermelho pra comer seu cu, mas a Marisa ainda não tinha protagonismo e [[Master Spark]], então ela apanha e você segue pro próximo estágio.
+
+* '''Estágio 5''' - Acabou o estoque de cenários do desenvolvedor, então o fundo aqui é só uma cor estática com várias estrelinhas. Não há inimigos na fase além de Mima, então você não precisa perder tempo massacrando fantasminhas. Dependendo das merdas que você fez durante o jogo como usar continues, você pega o bad end, onde Mima vai embora e deixa Reimu com cara de cu sem poder fazer nada e volta para casa, então Marisa aparece depois e resolve ''trollar'' Reimu.
+
+* '''Estágio Extra''' - Se você não for um bostão e zerar sem continues, você libera o estágio extra do jogo. Podemos ver que o desenvolvedor tentou fazer um cenário, mas na verdade são apenas vários quadradinhos de azulejo, provavelmente isso foi feito no [[Paint]]. Como nos outros estágios, você sai matando fantasminhas e morcegos caolhos por ai até encontrar alguém, e no fim, você encontra Rika novamente, porém ao invés de um tanque, ela está com um olho roxo gigante vindo do inferno pra te matar, então você vai ter mais meia hora de jogo até matar ele e finalmente terminar o jogo.
+
+== Jogabilidade ==
+
+Como foi dito no inicio do artigo, esse jogo é de [[Shoot'em up|navezinha]] agora, e isso é algo bom, exceto pelos gráficos [[mentira|muito bem feitos]] em que os tiros dos oponentes se misturam com o cenário, mas provavelmente isso é uma estratégia do desenvolvedor para aumentar a dificuldade ([[ou não]]), aqui também podemos ver que o desenvolvedor não inventou a porra do botão de foco, então você não pode ver sua hit box e evitar 90% de mortes causadas pelos gráficos confusos pra porra.
+
+=== Tiros ===
+
+Nesse jogo você pode escolher entre [[3]] tipos de tiro, mas isso não faz muita diferença, já que todos são horríveis e não mudam quase nada de um para o outro.
+
+* '''Highly Mobile Type''' - Se você escolher esse modo, você joga sem as Yin-Yang Orbs e não leva os tiros verdes.
+
+* '''Defensive Type''' - Você leva vários tiros verdes que vão para os lados, a mesma coisa que o de baixo.
+
+* '''Ofensive Type''' - <s>Você ofende os adversários</s> a mesma coisa que o de cima.
+
+== Ver também ==
+
+* [[Marisa Kirisame]]
+* [[Mima]]
+* [[Reimu Hakurei]]
+
+{{touhou}}
+
+[[Categoria:Jogos da Amusement Makers]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de shoot 'em up]]
+[[Categoria:Jogos lançados em 1997]]

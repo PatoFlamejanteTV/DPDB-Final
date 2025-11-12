@@ -1,0 +1,76 @@
+{{Game}}
+
+{{Infobox Game
+|title     = FIFA <s>[[2022|22]]</s> 23
+|image     = FIFA 23 cover.png
+|caption   = Capa da versão [[Bomba Patch]] do jogo
+|developer = [[EA Vancouver]]
+|publisher = [[EA Sports]]
+|released  = 1 de outubro de 2021
+|genre     = [[Trader]] simulator
+|platform  = [[PolyStation]]
+|rating    = -10/10
+|ages      = Não recomendado
+}}
+
+'''FIFA 23''', também conhecido como '''FIFA: Democracia Editon''' ou '''FIFA: The Inclusividade''', foi o derradeiro e último FIFA antes da [[Electronic Arts]] ser chutada pelo [[Gianni Infantino]] e ter que ficar com o genérico "[[EA Sports FC]]" para fazer. Trouxe na capa mais dois jogadores que nunca ganharam uma [[Bola de Ouro, [[Kylian Mbappé]] representando o futebol masculino e [[Marcelo Moreno]] representando o futebol feminino.
+
+== Novidades ==
+
+[[Arquivo:FIFA 23 gameplay.jpeg|thumb|left|A física dos goleiros foi aprimorada.]]
+
+Para o seu último FIFA, a Electronic Arts caprichou e trouxe uma gama variedade de jogadores ainda mais desengonçados que todos os jogadores já desengonçados vistos desde a primeira presença da engine [[Frostbite 3]] em [[FIFA 17]]. Agora a bola vai sempre atravessar os pés dos jogadores que vão correr e trotar como se estivessem fazendo a [[dança do siri]], garantindo toda falta de realismo esperada para um jogo do tipo.
+
+O [[futebol feminino]] foi introduzido no FIFA pela primeira vez nessa edição, que não passa da mesmíssima gameplay masculina, mas com os bonecos das femininas. E para evitar qualquer acusação de [[sexismo]], todas as jogadores aparecem com o mesmo corpo padrão de tetinhas médias para pequenas e sem quadril. Da mesma forma que todos jogadores masculinos são o corpo do [[Javi Martínez]] com cabeças variadas (por exemplo, o Javi Martínez com a cabeça loira do Haaland é o [[Erling Haaland]]) todas bonecas femininas são o corpo da [[Sam Kerr]] só mudando a cabeça.
+
+Também trouxe melhoria nas faltas, pois dá até para colocar o boneco deitado atrás da barreira apesar de ser impossível de fazer gol por baixo da barreira desde o [[Winning Eleven 10]].
+
+E claro que não tem a Copa do Mundo de 2022, pois a Electronic Arts não divulgaria o evento da [[FIFA]] só por estar usando o nome "FIFA".
+
+== Jogabilidade ==
+=== Ultimate Team ===
+
+Continua o mesmo [[cassino]] e sempre com eventuais partidas de futebol onde a física é considerada desprezível e você vai se sentir jogando [[Super Mario Strikers]]. A grande novidade nesse modo é que agora você pode assumir o controle de uma mulher feminista e entrar nos times masculinos para lutar contra a opressão da sociedade.
+
+=== Modo Carreira ===
+
+{{c|Estou insatisfeito com a reserva, quero sair porque não estou jogando|Seu goleiro titular no modo carreira|não jogar a três meses por causa de um pé quebrado}}
+{{c|Quero sair, não estou jogando o suficiente|Neymar|não ser relacionado para um jogo contra o décimo nono colocado da Ligue 1 por ter sido expulso na rodada anterior, mesmo após ter jogado os 90 minutos de todos os jogos anteriores da temporada}}
+
+O desenvolvimento de jogadores é feito com esforço abaixo de zero. Em primeiro lugar, você deve contratar um olheiro, pois mesmo que você esteja a controlar o Ajax, nenhum jogador será desenvolvido sem isto. Após determinar certos parâmetros, como local, a duração da viagem de observação, o tipo de jogador a ser observado etc, tudo com descrições extremamente vagas, os jogadores vao aparecendo, com potenciais. Encontrar um zagueiro puro, um volante natural ou um centroavante alto são coisas tão raras quanto encontrar [[hidrogênio]] sólido na natureza, enquanto pontas, laterais e goleiros (especialmente os laterais de quase dois metros de altura) são encontrados com a mesma frequência que petróleo no [[Oriente Médio]]. Jogadores da academia tem seus nomes limitados a uma lista extremamente pequena, fazendo com que não só seja possível como seja bastante provável que sua academia de jovens tenha dois jogadores com nomes iguais, o que permite ao jogador, por exemplo, fazer um Celtic dominante com um trio de ataque extremamente poderoso: John Smith, John Smith e John Smith.
+
+Ao se contratar um jovem, é comum deixá-lo amadurecer e treiná-lo com os treinamentos semanais para que ele ganhe mais habilidades, porém, sempre que ele completa ou se aproxima dos dezesseis anos (ou a qualquer ponto se o jovem está acima desta idade), corre-se o risco de que o jogador saia bruscamente da academia e simplesmente desapareça completamente do jogo sem dar a menor explicação, deixando o treinador e seu clube a ver navios.
+
+Contratar ou vender um jogador é uma tarefa extremamente complicada, com nuances extremamente delicados que fazem com que uma negociação possa fracassar caso o mais insignificante detalhe esteja fora dos parâmetros determinados para o sucesso.
+
+{{c|Aceito vender o Salah para a Chapecoense por dois euros mais 5% da próxima venda|Você|tentar iniciar uma negociação com um outro time}}
+{{c|Desculpe, mas as condições deste negócio são inaceitáveis|Representante da Chapecoense|sua oferta onde você faltou abaixar as calças e oferecer a bunda}}
+
+É fato de que pedir porcentagem da próxima venda quando se vende um jogador faz com que uma negociação fracasse imediatamente, mesmo com os termos mais amigáveis possíveis.
+
+Isto quando a negociação é aceita, pois é fato conhecido que de todos os times do jogo, apenas 5% atualmente fazem transferências e assinam com jogadores, fazendo com que os outros 95% sofram de falta crônica de jogadores no elenco, a ponto de serem obrigados a perder de WO algumas partidas, pois o número de newgens gerados pelo jogo é ridiculamente baixo, chegando a ser menor do que vinte ou trinta por ano para um jogo com centenas de equipes que, supostamente, competem entre si em mercado de transferências que na prática é um clubinho extremamente fechado onde no máximo cinquenta equipes fazem as negociações entre si, quebrando a panelinha apenas e somente para roubar um ou outro [[regen]] extremamente habilidoso de uma equipe de fora da panela.
+
+{{c|O jogador é importante demais para a equipe e não pode ser vendido|Diretoria do Basel|o quinto zagueiro do elenco com overall 52, que em um cenário normal nunca seria sequer relacionado para a reserva em um jogo de copa, mas tem este status devido à total inércia dos elencos de literalmente 90% do jogo no modo carreira, fazendo com que pelo menos três quartos dos jogadores passem o resto da vida defendendo apenas uma camisa}}
+
+Emprestar ou pedir emprestado um jogador também é uma tarefa impossível. Mesmo quando querem ser emprestados, a maioria dos seus jogadores irá rejeitar toda e qualquer proposta de empréstimo, mesmo se você combinar com o outro time que vai pagar todo o seu salário durante o tempo inteiro.
+Pedir emprestado um jogador geralmente só funciona para jogadores piores do que os reservas do seu time já horrível, pois os jogadores que atualmente ajudariam o time ganham salários tão absurdos que ficam impossíveis de serem pagos em sua totalidade por seu time, pois é extremamente difícil que um time aceite pagar mais de 0% do salário do jogador enquanto emprestado.
+
+É fato conhecido de que, no modo carreira, após um determinado número de temporadas, as competições europeias simplesmente se recusam a funcionar.
+
+{{c|É esse ano que eu ganho a Liga dos Campeões!|Você|seu assalto às competições europeias após ser campeão português invicto com o Vitória de Setúbal que você montou cuidadosamente durante seis longos anos}}
+{{c|ChampionsLeague.exe parou de funcionar|FIFA|seu assalto às competições europeias após ser campeão português invicto com o Vitória de Setúbal que você montou cuidadosamente durante seis longos anos}}
+
+{{FIFA}}
+
+[[Categoria:Jogos da EA Vancouver]]
+[[Categoria:Jogos da EA Romania]]
+[[Categoria:Jogos da EA Sports]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para PlayStation 5]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos para Xbox Series X]]
+[[Categoria:Jogos para Google Stadia]]
+[[Categoria:Jogos lançados em 2022]]
+[[Categoria:Jogos de esportes]]

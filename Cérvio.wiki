@@ -1,0 +1,79 @@
+{{esboço}}
+
+<!--
+dados da tabela; siga adiante para alterar o texto 
+-->
+{| style="margin-left: 0.5em;" align="right" border="1" cellpadding="2" cellspacing="0"
+|-
+| colspan="2" |
+{| align="center" border="0"
+|-
+| colspan="2" align="center" | '''Cérvio'''
+|-
+! colspan="2" bgcolor="#a0ffa0" | <font color="green">Geral</font>
+|-
+|'''Nome''', '''Símbolo''', '''Número'''
+| Cérvio, Ce, 1
+|-
+| '''Série alquímica''' || Líquidos Nobres
+|-
+| '''Densidade''', '''Machesa'''
+| 5[[p(alquimia)|p]], 2[[p(alquimia)|p]]
+|-
+| '''Cor e aparência'''
+| align="center" | Amarelado como [[cerveja]]<br />
+|-
+! colspan="2" bgcolor="#a0ffa0" |Propriedades atómicas
+|-
+| '''Massa atómica'''
+| 56[[p(alquimia)|p]]
+|-
+| '''Raio atómico''' || 0,02[[p(alquimia)|p]]
+|-
+| '''Raio de Van der Van Halen''' || 3.314010587[[p(alquimia)|p]]
+|-
+| '''Número de Oxidação'''
+| +12
+|-
+| '''Estrutura [[Geometria|Geométrica]]''' | 
+|-
+! colspan="2" bgcolor="#a0ffa0" |Propriedades físicas
+|-
+| '''Estado da matéria''' || [[Estado líquido|Líquido]]
+|-
+| '''Ponto de fusão'''
+| 10º[[Graus Descicliopédianos|Des]]
+|-
+| '''Ponto de ebulição''' || 100º[[Graus Descicliopédianos|Des]]
+|-
+|-
+| '''Potencial de ionização''' || 1,2[[p(alquimia)|p]]
+|}
+|-
+! colspan="2" bgcolor="#a0ffa0" |Dados [[correto]]s exceto onde indicado o contrário.
+|}
+<!--
+fim dos dados da tabela
+-->
+
+{{c|Cérvio é todo aquele que nasce na Cérvia| Carla Perez mostrando seus conhecimentos de geografia}}
+
+O '''Cérvio''' é o [[Tabela Periódica|elemento alquímico]] do qual é produzida a [[Cerveja]].
+
+== Obtenção na natureza ==
+
+Como o próprio nome do elemento indica, o mesmo é obtido naturalmente dos [[Cervos]]. O processo de extração de Cérvio envolve a remoção do chifre dos Cervos e trituração deste até que o mesmo se encontre na forma de um pó altamente soluvél para posterior conversão do mesmo em Cérvio em Pó através de tratamentos eletromagnéticos.
+
+== O uso do Cérvio na produção de Cerveja ==
+
+O cérvio é utilizado como princípio ativo e catalisador na fabricação de cerveja devido ao fato de que o mesmo reage quimicamente com o pó de cevada gerando as bolhas na cerveja. É do uso deste elemento que se originou o termo popular "cerva" usado como uma gíria informal que significa cerveja.
+
+== Ver também ==
+
+* [[Álcool]]
+* [[Jeremias José]]
+
+{{Álcool}}
+{{ampliar}}
+
+[[Categoria:Elementos Alquímicos]]

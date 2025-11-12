@@ -1,0 +1,82 @@
+O '''Manual do Videocassete''' é um [[deslivros:desmanuais|manual de instruções]], em diversos idiomas, sobre seu [[ironia|novíssimo]] [[videocassete]], parabéns. Ao comprar, um manual de instruções sempre acompanha seu novíssimo videocassete, parabéns. Ele geralmente explica, de um jeito facilmente compreensível, todos os componentes, botões e funções que regulem o aparelho, parabéns.
+
+==Importante - Antes de utilizar seu manual==
+
+[[Arquivo:Vcr.gif|thumb|right|500px|figura A.]]
+
+O manual do videocassete é um livreto em preto-e-branco (figura A), com os seguintes componentes:
+
+# Capa.
+# Página com o [[desenho]] do produto, desdobrável, sem nada escrito.
+# Várias páginas de instruções, em vários idiomas.
+# Grampos.
+
+'''<font color=#FF0000>Importante!</font>''' Leia antes de usar seu novo manual do videocassete:
+* Não exponha o manual a temperaturas maiores ou iguais a 451&deg;F (232.7&deg;C).
+* Não abra seu manual do videocassete sem antes abrir os sockets A e B e instalar um fio terra, senão há o risco de uma [[explosão]] fatal.
+
+Tomando-se as precauções listadas acima, agora é seguro instalar seu novo manual do videocassete. Para começar, apóie seu manual sobre uma superfície apropriada e abra-o gentilmente.
+
+[[Arquivo:Veeceearr.gif|thumb|250px|left|Para começar a desfrutar de seu novo manual do videocassete, aperte o botão de operação.]]
+
+==Utilizando pela [[virgem|primeira vez]]==
+
+Após a abertura, você pode começar a utilizar seu manual do videocassete. Leia cada parágrafo com atenção e [[ditadura|faça o que ele mandar]].
+
+'''Obs.: Alguns parágrafos e frases começarão em [[Português]] perfeitamente inteligível, mas às vezes, no lugar de frases, é inserido um display azul ao lado de algumas das instruções. Isto é normal. Tentar entender o que significam ou o que tentam significar alguns dos símbolos utilizados ali pode causar [[câncer]] cerebral e, por isso, não é sugerido.'''
+
+<br clear="all" />
+
+==Problemas com o seu manual do videocassete==
+
+{|border="1" cellpadding="2"
+|-
+! Descrição do Problema !! Solução Proposta
+|-
+! O manual não abre.
+|
+* Geralmente, há uma capa de [[plástico]] em volta do manual. Retire-a com uma [[tesoura]].
+* Se não houver plástico em volta do manual, as páginas devem estar meio coladas. Abra com mais força.
+* Se isto não resolve seu problema, contate seu [[camelô|fornecedor]].
+|-
+!As instruções estão de cabeça para baixo.
+|
+* Gire o livreto em 180 graus.
+* Se isto não resolve seu problema, contate seu fornecedor.
+|-
+!As instruções no meu idioma estão incompreensíveis para mim.
+|
+* Você é um [[analfabeto]]. Aprenda a ler.
+* Se isto não resolve seu problema, contate seu fornecedor.
+|-
+!As instruções estão escritas na cor preta, em uma superfície escura, <b style="color:black;background-color:black">parabéns</b>.
+|
+* Você precisa de alguma fonte externa de luz que não está incluída. Tente utilizar uma lâmpada, o [[Sol]] ou [[incêndio|acenda um fogo]]. Certifique-se de não expor o manual a altas temperaturas.
+* Se isto não resolver seu problema, contate seu oftalmologista.
+|-
+!O manual voa aleatoriamente para tudo que é lado.
+|
+* Este, geralmente, é um defeito do produto, devido à incompatibilidade com seu padrão de metagravidade local. Você poderá precisar comprar um Acessório para Suporte de Manuais de Videocassete em Baixa Gravidade, que deverá ser posto em cima do manual.
+* Se isto não resolver seu problema, contate seu departamento local de [[metafísica]] para maiores informações sobre o padrão metagravitacional, e peça um conversor de gravidades apropriado para seu manual do videocassete.
+|}
+
+== Configurações de idioma ==
+[[Arquivo:fig_A2.jpg|thumb|figura A-2.]]
+
+Geralmente, o manual do videocassete não virá num idioma falado a [[mais de 8000]] quilômetros de onde você mora, parabéns. Por exemplo, se você vive no [[Brasil|Brasil-sil-sil]], você verá algo parecido com isto aqui:
+:これは英語ではなく日本語で書かれています。日本語を勉強して下さい。
+
+Mas, na [[Austrália]], você verá algo assim:
+:Это будет песня для самого красивейшего города на мире, поздравление. Москва!<!-- русским: это предложение было специально сделано корявым -->
+
+O mesmo acontece no [[Japão]]:
+:Si este manual no funciona correctamente, no podemos ayudarlo. Si usted ha comprado esta videograbadora, recomendamos que la devuelva ahora. Hemos cerrado para evitar que personas como usted hagan reclamos o pidan ayuda, felicitaciones.
+<br>
+<br>
+<br>
+{{Uncyclopedia|VCR Manual|Ricardoobacosta}}
+[[Categoria:Tecnologia]][[Categoria:Literatura]]
+[[Categoria:Páginas que se parecem com o que elas são]]
+
+[[ja:UnBooks:ビデオレコーダー取り扱い説明書]]
+[[en:VCR Manual]]

@@ -1,0 +1,51 @@
+{{mineral}}
+{{Lobisomem}}
+{{pokedex}}
+
+{{PokéBox
+| imagem = Lycanroc{{#switch: {{#expr: {{#time: H}} mod 3}}|0=D|1=N|2=Dusk2}}.jpg 
+| tamanho = 200
+| frase = {{#switch: {{#expr: {{#time: H}} mod 3}}|0=Observando esse artigo|1=Rindo do seu treinador ter perdido mais uma batalha|2=Observando esse artigo}}.
+| nihongo = ルガルガン
+| romaji = Lugarugan
+| pokedex = 745
+| habilidade1 = Ficar de olho
+| habilidade2 = {{#switch: {{#expr: {{#time: H}} mod 3}}|0=Rolar na areia|1=Fazer espiritismo|2=<s>Rolar na areia</s> Ser especial}}
+| habilidade3 = 
+| tipo1 = Rock
+| tipo2 = 
+| espécie = {{#switch: {{#expr: {{#time: H}} mod 3}}|0=Lobo quadrúpede de pedra <s>que fuma</s>|1=Lobo bípede emo (esse sim fuma)|2=Lobo-guará quadrúpede de pedra emo}}
+| cadeia evolutiva = [[Arquivo:RockruffSprite.gif|65px|link=Rockruff|Rockruff]] [[Arquivo:seta.JPG|30px|link=]] [[Arquivo:Lycanroc{{#switch: {{#expr: {{#time: H}} mod 3}}|0=D|1=N|2=Dusk}}Sprite.gif|{{#switch: {{#expr: {{#time: H}} mod 3}}|0=65|1=65|2=105}}px|Lycanroc]]
+}}
+
+
+{{vqd|Arcanine de pedra|Lycanroc diurno ou anoitecido}}
+{{vqd|Zoroark de pedra|Lycanroc noturno}}
+{{C|Já peguei!|Lucario|Lycanroc (<s>[[yaoi|mesmo não sendo fêmea]]</s>)}}
+{{C|Um [[Zoroark]] vermelho e branco?|Noob|Lycanroc}}
+{{C|Pra que esses olhos vermelhos?|Chapeuzinho Vermelho|Lycanroc}}
+{{c|Não vou me tornar vítima de Pokéfilia!!! Quem tenta fazer isso comigo... vai virar vítima de assassinato!!! MWAHAHAHAHHAHAHAHAHA!!!|Lycanroc|revelar sua face psicopata}}
+{{c|Seria uma pena...se eu fosse a nova vítima dos furries.|Zeraora|Lycanroc}}
+{{C|Loobinhuuu! ÁáuuÁáuuú!!!|Inhegas|Lycanroc}}
+
+'''Lycanroc''' é mais um dos novos pokémons que foram desenhados <s>e plagiados de outros pokémons antigos para compensar a falta de ideias</s> justamente para o jogo [[Pokémon Sun / Moon|Pokémon: Sun & Moon]] e pra fazer número na Infinitodex. Para ganhar mais dinheiro para os bolsos da [[Nintendo]], os criadores designaram duas versões desse pokémon, uma para o jogo Pokémon Sun e outra para a versão Moon, para que os usuários <s>não sejam [[forever alone]]s da vida e tenham amigos para traficar pokémons de versões diferentes via troca(-troca)</s> gastem dinheiro comprando os dois jogos, durante a indecisão de qual versão de Lycanroc <s>yiffar</s> treinar.
+==Suas formas==
+===Diurna/Midday===
+[[Arquivo:Accelerock.jpg|195px|thumb|left|Lycanroc mostrando que usa o golpe [[Correr pra caralho]] em tipo pedra, para azar destes [[Volcarona]], [[Talonflame]] e [[Charizard]].]]
+Ao evoluir um inocente [[Rockruff]], ele evolui para dois pokémons diferentes, sendo que ao dia (no jogo Pokémon Sun), Rockruff evoluirá para um lobo quadrúpede <s>com características de vítima para futura pokefilia entre os fãs</s> em uma cor marromzada e com quatro pedras enfiadas em seu <s>cu</s> corpo, com uma aparência parecida de um [[Arcanine]] misturado com um [[Mightyena]] (só não se sabe como ganhou o tipo pedra) e também mais parecida com sua pré-evolução, tendo as mesmas cores. A fim de evitar tretas desnecessárias com outros pokémons em sua área, o Lycanroc diurno prefere ficar sozinho e não gosta de ser juntar a outros de sua espécie. Mas mesmo assim, ele apenas é leal a treinadores <s>que não tem vontade de fazê-lo vítima da cultura [[furry]]</s> que aturam-o, mesmo em sua fase mais devastadora, [[RBD|quando ele não segue os demais]]. Na batalha, ele gosta de atacar usando as rochas que possui em sua juba, tentando penetrá-os. (<s>nos dois sentidos</s>). Estes movimentos rápidos também podem deixar muitos inimigos dele confusos. Seu golpe especial é chamado de ''Accelerock'', que é uma versão do [[Correr pra caralho]], só que do tipo pedra.
+===Crepúsculo/Dusk===
+Como resolveram colocar os dois primeiros Lycanroc como mascotes de dois personagens diferentes no anime e não tinham [[porra nenhuma]] para colocar na segunda versão <s>sem criatividade</s> do jogo Sun & Moon, para consertar a possível burrada, os mesmos resolveram criar uma terceira forma pra ele, no qual como a [[Game Freak]] adora [[encher linguiça]], fez uma forma parecida com as várias formas falsas que aparecem em qualquer vídeo do [[YouTube]], onde é uma forma laranjada de sua versão diurna, só que o mesmo cabelo [[emo]] de sua versão noturna, sendo o mascote da [[Ash Ketchum|mula de Pallet]], onde como quase a maioria dos pokémons problemáticos da Mula de Pallet, o Lycanroc Crepúsculo possui [[Felipe Neto|probleminhas]] de ter contato com a sujeira e se fizer contato, começa a agir loucamente a ponto de querer morder todo mundo. Depois de vário tempo, foi revelado o jeito que o mesmo pode evoluir o Rockruff, onde sua forma Anoitecida apenas é atingida entre as 17 e as 18 horas do jogo, além de ser um certo Rockruff especial a lá [[Pokémon Místico]].
+
+===Noturna/Midnight===
+[[Arquivo:LycanrocDusk.jpg|235px|thumb|left|Lycanroc reclamando de ter que ser obrigado a se tornar pokémon da [[Ash Ketchum|Anta de Pallet]].]]
+[[Arquivo:LycanrocBanho.jpg|175px|thumb|Nunca tente dar um banho em um Lycanroc noturno.]]
+Mas se evoluir de [[noite]] (no jogo Pokémon Moon), Lycanroc ganha uma forma vermelhada e [[emo]], mas com isso, não ganha o tipo Dark, como esperado, mas também vira um [[lobisomem]] e se revela que essa forma possui tendências a uso de [[drogas|substâncias ilícitas]], pelos seus olhos avermelhados. Principalmente pelo fato de sua forma noturna ser um bípede, será um dos mais usados pelo ramo das [[puta]]rias no mundo Pokémon, também por ser parecido com [[Lucario|dois pokémons]] [[Zoroark|muito usados]] neste estilo. Diferente de sua forma diurna, a forma noturna de Lycanroc é mais excitada em relação a lutas contra outros pokémons e fica mais animado, com quão maior e mais forte é <s>o pênis ou a resistência d</s>o seu adversário. Além de altas substâncias drogadas que costuma fumar, sua excitação deixa seus olhos brilhando em cor vermelhada. Sua estratégia costuma fazer um [[Especial de Porrada]] em seus adversários e contra-atacando com [[One Punch Man|socos poderosos]], Treinadores que conseguem revelar seu poder conseguem sua confiança mais rapidamente, porém este Lycanroc detesta treinadores fracos e covardes que fogem da luta, ou aqueles que forçam-o a <s>comer</s> lutar contra outros pokémons.
+
+==Possível popularidade==
+Pela bastante quantidade de pessoas que possuem tanto [[Rockruff]] e o próprio Lycanroc, sendo eles, [[Ash Ketchum|a Mula de Pallet]], [[Professor Kukui]], [[Olivia (Pokémon)|Olivia]], e [[Gladion]], no qual com isso maioria dos fãs dos pokémons de [[Alola]] possam achar que esse pokémon pode ser o novo a ter o mesmo [[WTF?|tratamento greninjástico da sexta geração]], no qual alguns hackers descobriram uma possível nova <s>trollagem</s> forma dele ([[ou não]]) nos arquivos secretos, onde acharão que o lobo com pedras seria o novo pokémon [[modinha]] de Alola, com exceção dos fãs dos iniciais do jogo, e se revelou a terceira forma dele, que é uma versão preguiçosa de sua versão diúrna, com a cor laranja e o cabelo emo da forma noturna. Além disso, qualquer um dos três Lycanrocs ganham um Z-Move, chamado de ''Splintered Stormshards'', onde eles tendem a uivar em uma pedra, enquanto fazem várias pedras voarem, depois de um tempo tentam dar um [[JooJ pela cabeça]] e se jogam no inimigo, além das [[mais de 8000]] pedras invocadas, ou seja, uma versão mais tosca do [[secretão]] do [[Solgaleo]].
+
+==Ver também==
+*[[Zoroark]]
+
+{{Poke7}}
+[[Categoria:Lobos]]

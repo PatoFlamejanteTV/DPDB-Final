@@ -1,0 +1,31 @@
+{{elétrico}}
+
+O multímetro é o equipamento usando para o pessoal que trabalha na parte da elétrica, seja [[Eletrotécnica|os que se cortam fazendo emendas e queimam lâmpadas]] ou [[Eletrônica|aqueles que montam circuitos usando chips e processadores do tamanho de uma formiga]]. Essa geringonça é multi-uso: pode medir voltagem, amperagem, potência, frequência, capacitância e qualquer outra grandeza que algum físico sem vida social e sexual descobrir e que os professores na mesma condição só com menos intelecto decidem colocar isso para os futuros alpinistas de postes aprenderem.
+
+==Tipos de Mutímetro==
+===Analógico===
+Funciona com base no galvanômetro, que apesar do que o nome sugere não tem nenhuma relação com [[Galvão Bueno|aquele locutor esportivo chato e narigudo da TV Globo]]. O ponteiro do mutímetro recebe a ação de uma FEM <s>(Foca ereta madeixuda)</s> (Força eletromagnética) originada por campo magnético formado entre um imã e uma bobina e começa a se mexer no visor que nem um bêbado: vai de um lado pro outro, indo e voltando até ficar sem fôlego e parar
+===Digital===
+Esse é o tipo de multímetro mais usado hoje em dia, até porque estamos no século XXI e ninguém mais vai usar um aparelho que parece ser de outra era a não ser que você seja [[Velho|uma pessoa de mais idade]] que esteja acostumado as coisas antigas e prefere ver pin-ups do que revistas [[Playboy]] por exemplo. Mas falando desse treco ao contrário do outro que tem uma escala com números e siglas do tamanho da minha unha que precisava de um microscópio pra poder olhar, esse simplesmente joga os números na tela. Os sinais analógicos são convertidos em digitais através de circuitos conversores ([[Marcos Chiesa|Ah vá, é memo?]])
+
+==Grandezas Medidas==
+Rapaz, dependendo do modelo que você comprar ele pode vir com apenas umas cinco ou dez se você não quiser gastar muito mas se você for rico (o que dificilmente é o caso, já que a maioria das pessoas que usam este apetrecho são meros eletricistas ou técnicos)
+
+*Tensão Alternada e Contínua
+*Corrente Alternada e Contínua
+*Resistência
+*Indutância
+*Capacitância
+*Frequência
+*Temperatura em graus Celsius
+*Tensão em unidades de grandeza menores: micro, mili, nano, etc
+*Corrente em unidades de grandeza menores: as mesmas de cima
+*E qualquer outra que os fabricantes acharem que seja relevante e decidam colocar no aparelho pra aumentar ainda mais o preço
+
+==Onde é usado==
+Em qualquer lugar onde haja eletricidade e é necessário saber as medidas exatas para se realizar algum procedimento como medir a tensão da rede, instalar um disjuntor, trocar uma tomada <s>puxar um gato do vizinho </s>, entre outros. Geralmente esses lugares são casas, lojas, fábricas, usinas, etc.
+
+{{Eletrônica}}
+{{Ferramentas}}
+
+[[Categoria:Artigos elétricos]]

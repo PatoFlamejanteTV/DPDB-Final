@@ -1,0 +1,14 @@
+[[arquivo:Polygon mouths and ears.svg|thumb|220px|Um [[vértice]] B solitário em formato ousado de uma [[orelha]] posando como se fosse o [[serial killer]] <s>Dexter Morgan</s> da geometria: ponto onde [[aresta]]s se encontram pra [[esfaquear]] [[face]]s e deixar [[poliedro]] sangrando ângulos]]
+
+'''Vértice''' é o [[ponto]] onde [[aresta|arestas]] se cruzam num [[poliedro]], tipo o [[cruzamento]] onde [[acidente]] geométrico acontece e ninguém chama [[SAMU]]. Ele é o [[coração]] do [[cubo]] (8 vértices), o [[cérebro]] do [[tetraedro]] (4) ou o [[umbigo]] do [[dodecaedro]] (20). Sem vértice, [[polígono]] vira [[linha reta]] suicida. [[Criança]] odeia desenhar, [[computador]] ama pra [[render]] [[cabeça explodindo]].
+
+==História Rápida==
+[[Euclides]] batizou vértice como "[[cabeça]] do [[ângulo]]". [[Euler]] contou e [[morreu]] de [[tédio]]. [[Blender]] usa pra [[modelar]] [[crânio]] 3D.
+
+==Curiosidades==
+
+[[Aranha]] usa vértice na [[teia]] pra [[prender]] [[mosca]] [[morta]].
+[[Papel]] rasgado tem vértice [[afiado]] que corta [[dedo]].
+[[Bola]] tem 0 vértices ([[vítima]] de [[curva]]).
+
+{{Predefinição:Formas geométricas}}

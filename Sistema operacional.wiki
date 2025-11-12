@@ -1,0 +1,79 @@
+{{Microsoft}}
+
+{{Desmanual|Criando seu próprio Sistema Operacional}}
+__NOTOC__
+{{Você quis dizer|<choose><option>[[Windows]]</option><option>[[Linux]]</option><option>[[Mac]] OS</option><option>[[MS-DOS]]</option><option>[[Google]] OS</option></choose>}}
+
+'''Sistema Operacional''' é um software desenvolvido para comandar, além da vontade do usuário, seu computador, smatphone ou tablet inteiro.
+
+==Lista de Sistemas==
+[[Arquivo:MicrosoftNazismo.jpg|right|200px|thumb|O <s>pior</s> melhor sistema operacional do mercado.]]
+Os melhores sistemas estão na categoria do Mac OS e da família Linux, já alguns mais mal-elaborados vêm desde o MS-DOS até o Windows Vista Ultimate Full Version Hiper Blaster OS.
+
+Já em alguns casos, o sistema operacional vai além de suas expectativas.
+*Windows: principal causador do holocausto nuclear, este sistema pode travar a internet do mundo inteiro além de roubar a senha do seu banco. Muito usado em servidores (''Orkut: bad, bad server!''.)
+*Mac OS (Macintosh): sistema operacional usado por play-boys, compatível com iPod, iPhone e com o iPolistation.
+*Linux: principal herói mundial. Veio para derrotar o Windows e substituí-lo. Possui alta compatibilidade open-sourse e geralmente é usado em servidores, mp3, mp4, mp5 e mp6.02x10²³ e em bichinhos virtuais. Sistema impossível de ser bugado e altamente estável. Também possui sua versão rebelde, o descendente FreeBSD, no qual torna seu PC possuído por softwares das profundezas.
+*Google OS: Sistema operacional que possui a interface do Windows + o preço do Mac OS + a compatibilidade e estabilidade do Linux. Grande concorrente do Linux.
+*Barrichello Lentus: Sistema Operacional usado nos computadores mais antigos, principal concorrente do Windows Vista, descontinuado em 1994, mas é usado até hoje em muitos computadores.
+*Amiga OS:Sistema operacional muito popular antes do lançamento do windows 95,2000, hoje é mais falido que o linux! 
+*Desciclopédia OS: Sistema Operacional desconhecido, atualmente em desenvolvimento com propostas de ser o <s>pior</s> melhor sistema operacional do mundo.
+[[Arquivo:Blue screen.png|thumb|100px|Interface padrão de um sistema operacional.]]
+
+*Sistema operacional que são sistemas operacionais mas não tem nome do sistema (sim, isso mesmo): Bom, sabe o PS4 ou ou Xbox one? (Não ne? Você é pobre). Bem, mas eles tem suas próprias telas inicias e tem suas próprias peculiaridades, mas eles não tem nome... Não que eu saiba, mas existe eles.
+
+==Preço {{X}} Qualidade==
+
+*Windows: Custa aproximadamente o valor do seu PC. Não recomendável, visto que possui uma estabilidade de aproximadamente 2 semanas, após isso é FORMAT C:(ou FORMAT D: ou outros caso você faça dual-boot e coloque o windows nesse disco)! Além disso, exige diariamente seu prório tamanho em atualizações inúteis. Você pode comprar a versão estável, simulando uma cópia original, porém mais leve, rápida e totalmente sem bug's no camelô mais próximo por apenas R$10,75.
+
+*OS X: Concorrente oficial do windows, mas diferente do Linux, este sistema operacional não põe medo no Bill Gates. Não é tão caro quanto o Windows, mas por ser rebelde e querer ser diferente de todo mundo, é o sistema operacional adotado pela "play-boyzada".
+
+*Linux: Sendo projetado por Linus Trovados e Chuck Noris, esse sistema operacional também é presente nos camelôs por apenas 5 reais e pode ser baixado de graça na Internet. É um software que se instala para sempre, literalmente, devido à sua confiabilidade e blá blá blá! 
+
+*Google OS: A Google o vende por uma miséria, sendo gratuito para usuários do [[Microsoft Orkut]] e do [[Mozilla Firefox]].
+
+*Barrichello Lentus: Apesar de estar praticamente falido é vendido por um preço absurdo até hoje, mas nenhum computador antigo vive sem.
+
+*Desciclopédia OS: Irá ser distribuido gratuitamente, tendo alta <s>lentidão</s> qualidade(mas é lento como seus servidores), mas poderá ser encontrado até em lojas de R$1,99 e Drogarias (legalmente, claro, nem todos tem capacidade pra baixar um sistema operacional tão grande!)
+
+*Amiga OS: mais caro que o OS X e Windows para computadores Não-amiga, é gratuito caso já tenha um PC amiga(quebrado), se instalar em um computador não-amiga vai precisar dê:Um computador(claro) na garantia(pra caso o sistema foder seu Computador),mas mais rápido que o Windows(qualquer um é mais rápido que o windows) e quase tão rápido como o Darwin,e é mais rápido que o OS X
+
+==O que aconteceria se as empresas aéreas fossem controladas por sistemas operacionais diferentes==
+
+*'''Windows:''' O terminal é bonito e colorido. As aeromoças e comissárias de bordo são gentis e solícitas, o check-in é facilitado e a decolagem é tranquila. Depois de 10 minutos de voo, o avião explode sem qualquer explicação.
+
+*'''Mac OS X:''' Todos os membros da tripulação parecem ser iguais, agem da mesma forma e dizem a mesma coisa. Sempre que você pergunta a respeito de detalhes, dizem que você não deve saber, você não precisa saber, você não quer saber, tudo será feito sem que você saiba, portanto relaxe e curta a viagem, afinal, você vendeu seu rim para estar nesse avião.
+
+*'''Linux:''' Todos levam consigo uma peça do avião para se dirigirem ao aeroporto. Então, vão à pista e montam o avião peça por peça. Antes do embarque, a passagem deve ser carimbada dez vezes, em dez filas diferentes, e em todas elas você deverá digitar uma senha. Logo após, você deve preencher um formulário dizendo se quer que a viagem se pareça com um ônibus, um transatlântico ou um trem. Se você conseguir subir a bordo e o avião decolar, a viagem será maravilhosa, apesar da aparência da década de 80.
+
+*'''BSD:''' O mesmo que o Linux, mas o voo estará ainda mais vazio.
+
+*'''Amiga OS:''' Apenas 5 pessoas no avião, porém o painel de controle da pane(por causa dos computadores amiga) e o avião dentro de uma hora cai por causa do piloto n00b não saber pilotar direito(na chuva), mas cai bem no local de pouso!
+
+*'''Desciclopédia OS:''' Mais de 300 pessoas no voo, todo mundo rindo muito (provavelmente todos estão [[cheirar gatinhos|entorpecidos]]), até que chegam os vândalos que serão destruídos em 2 segundos pelo [[Moderador Malvado|Super SysOp]], ou alguém que seja simplesmente idiota ao invés de engraçado. Esperamos que daqui a 687576 dias cheguemos ao local de pouso, onde continuaremos rindo muito.
+
+*'''Wikipédia OS:''' Todos a bordo do avião são nerds e sem senso de humor. Qualquer um pode fazer modificações no avião, contanto que coloque referências que expliquem porque você achou uma boa ideia pintar o avião de rosa choque, por exemplo. Embora isso não impeça que sua modificação seja revertida sem nenhuma justificativa.
+
+*'''Darwin:'''apenas 3 mil no avião,todos gays,frutinhas, e emos. chegará em 3º lugar mas com pouso perfeito e cheio de purpurina.
+
+==Comparação entre os sistemas <s>não tão</s> operacionais==
+*'''Windows''' - [[Windows]] <s>ou rWindows</s> é um sistema <s>não tão</s> operacional, criado pela [[microsoft]] para ajudar no seu [[Monopólio Microsoftiano]].
+:Ele é o pior sistema operacional para todos. O melhor para os Crakers, que criam vírus, para pessoas que não conseguem configurar centenas de DLL`s para rodar APP`s do r[[Windows]] no Linux com o WinE e para quem não tem [[dinheiro]] para comprar um [[MAC OSX]] e não sabe instalar o [[hackintosh]] e uma máquina virtual.
+:Esse sistema foi desenvolvido pelos piores [[programador]]es da [[microsoft]] usando técnicas avançadas de [[Programação Orientada a Gambiarras]]. Por conta disso, o kernel dele é mais lento que o [[Rubinho]], ele trava muito, possui muitos bugs, em fim, é um típico programa da [[microsoft]].
+:Usuário sofre para limpar os registros inúteis que só deixam o sistema mais lento, as centenas de vírus, formatar o PC de 3 em 3 dias, [[tela azul da morte]], entre outras coisas do setor [[rad]] da [[Microsoft]].
+*'''OS X''' - Esse sistema, é caro, bonito e inútil. Com o preço que se compra um MAC Book mínimo, monta-se um baita de um [[PC]] e ainda se instala o hackintosh com uma VM e roda aplicativos de rWindows no MAC.
+*'''Linux''' - Esse sistema é muito poderoso e bom, tem seu código aberto <s>mas ninguém consegue mexer, sem fazer [[engenharia da computação]] ou [[ciências da computação]] </s>. Roda aplicativos de <s>r</s>Windows com o Wine muito melhor que no <s>r</s>Windows([[ou não]]), mas para isso é necessário passar 3 messes configurando as DLL`s. 
+:Com excessão do Ubuntu <s>o MAC OSX de pobre e</s> distribuição mais amigável do Linux<s>, feita para [[noob]]s que não conseguem usar o Linux, que não tem dinheiro para comprar MAC OSX e odeiam o r[[Windows]]</s>, todas as distribuições Linux são extremamente difíceis de usar.
+:Os usuários <s>nerds</s> sofrem para configurar as bilhões de DLL`s para rodar aplicações do rWindows com o [[wine]], sofrem para compilar o [[kernel]], para aprender as centenas de comandos de linha de comando, entre outras nerdices,mas se comprar já configurado é o melhor.
+*'''[[Android]]''' - Sistema operacional da Google. Está presente na maioria dos smartphones e tablets dos pobres, favelados, mendigos, enfim, pessoas como você que não têm porra nenhuma de dinheiro. É um sistema operacional plagiado do Linux, feio pra caralho, com uma enorme quantidade de bugs(mas não tanto quanto o Windows), enfim, uma [[gambiarra]]. Embora esse produto seja tão útil quanto uma porta emperrada, todo mundo compra celulares com esse sistema operacional porque são pobres demais para comprar um [[iphone]] ou [[ipad]].
+*'''Mac''' - O usuário não sofre com bugs e pragas virtuais. Ele sofre para conseguir dinheiro para comprar os programas da <s>M</s>[[APPLE]].
+
+[[en:Operating system]]
+[[es:Sistema operativo]]
+[[fi:Käyttöjärjestelmä]]
+[[fr:OS]]
+[[ja:オペレーティングシステム]]
+[[pl:System operacyjny]]
+[[th:ระบบปฏิบัติเกรียน]]
+
+[[Categoria:Sistemas operacionais]]

@@ -1,0 +1,54 @@
+{{Box ClubeFutebol
+|cor_clara         = gold
+|cor_escura        = green
+|brasao            = Escudo do Atlético Huila.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{COL}}''' - [[Neiva]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Neiva]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Colombiano de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Club Deportivo Atlético Huila''' é um clube de futebol colombiano que parecia aquele primo desajeitado nas festas de família, tentando competir com os primos mais velhos e sempre levando uma rasteira. A equipe lutava para se firmar na primeira divisão do futebol colombiano, mas parecia que o destino gostava de pregar peças.
+
+== História ==
+=== O Início: Capítulo 1 - "O Nascimento do Calor" ===
+Fundado em 1990 na cidade de Neiva, o Atlético Huila começou sua trajetória em uma região conhecida pelo calor e pela hospitalidade. Imagine só: um grupo de apaixonados por futebol que, entre um café e outro, decidiu que era hora de a cidade ter um time que aquecesse ainda mais os corações dos habitantes locais. E assim, com muito entusiasmo e uma dose de ousadia, nasceu o Atlético Huila FC.
+
+=== Primeiros Passos: Capítulo 2 - "O Calor da Primeira Divisão" ===
+O Atlético Huila rapidamente subiu para a primeira divisão do futebol colombiano, como um foguete impulsionado pelo calor do Huila. Em 1992, o time já estava jogando contra os gigantes do futebol colombiano, e a cidade de Neiva entrou em festa. A torcida se reuniu em massa, prontos para apoiar seu time com a mesma paixão de quem torce para que a sombra apareça em um dia quente.
+
+=== A Torcida: Capítulo 3 - "Los Opitas Fanáticos" ===
+A torcida do Atlético Huila, conhecida como "Los Opitas", é um espetáculo à parte. Com bandeiras, tambores e uma energia contagiante, eles transformam cada jogo em um verdadeiro evento. É como se cada partida fosse uma festa de São João, com torcedores prontos para dançar e celebrar cada gol como se fosse um grande feito.
+
+=== Momentos de Brilho: Capítulo 4 - "O Sol Brilha para o Huila" ===
+O Atlético Huila teve momentos de grande brilho, incluindo campanhas notáveis na primeira divisão. O time chegou às finais do campeonato colombiano, demonstrando que, mesmo sendo de uma região menor, podia competir de igual para igual com os grandes clubes. Cada vitória era comemorada com a mesma intensidade de um feriado nacional, trazendo alegria para os torcedores.
+
+=== Desafios e Lutas: Capítulo 5 - "Atravessando o Deserto" ===
+Manter-se competitivo não foi tarefa fácil. O Atlético Huila enfrentou muitos desafios ao longo dos anos, incluindo dificuldades financeiras e rebaixamentos. Mas, assim como os habitantes do Huila que enfrentam o calor diário, o time nunca desistiu de lutar, sempre buscando melhorar e alcançar novos patamares.
+
+=== Investindo no Futuro: Capítulo 6 - "A Nova Geração" ===
+O Atlético Huila investiu fortemente em suas categorias de base, ajudando a formar jovens talentos que, posteriormente, se destacaram no cenário nacional e internacional. O clube se tornou um verdadeiro celeiro de craques, mostrando que a perseverança e o trabalho árduo podem render bons frutos.
+
+=== O Futuro: Capítulo 7 - "Rumo ao Horizonte" ===
+O Atlético Huila segue sua jornada com a mesma energia e paixão de sempre. O clube trabalha para superar os desafios e se estabelecer novamente como uma força no futebol colombiano. Com uma base de fãs leal e uma gestão focada no desenvolvimento, o futuro promete muitos capítulos emocionantes.
+
+{{Campeonato Colombiano}}
+
+[[Categoria:Times de futebol da Colômbia|Atlético Huila]]

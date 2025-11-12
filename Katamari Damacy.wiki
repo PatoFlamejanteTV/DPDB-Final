@@ -1,0 +1,48 @@
+{{game}}
+
+{{Infobox Game
+|title     = Katamari: LSD Trip Simulator
+|image     = Katamari Damacy cover.png
+|caption   = Capa do jogo
+|developer = [[Namco Bandai|Banda no Manco]]
+|publisher = [[Namco Bandai|Banda no Manco]]
+|released  = 2004
+|genre     = Maluquice
+|rating    = Indefinido
+|platform  = PlayStation 2
+|ages      = Livre
+}}
+
+[[Arquivo:Katamari 1.jpg|right|thumb|O Mundo em uma [[Bola]]]]
+'''Katamari Damacy (塊魂)''', numa tradução livre ''"Bola Enorme que Rola e Gruda em Tudo"'' é um jogo de ação em terceira pessoa desenvolvido pela [[Namco]] para [[Playstation 2]] lançado em [[2004]]. Curiosamente, nunca foi lançado no [[Japão]], devido ao preconceito do público [[japonês]] contra tudo o que é diferente e estranho. É um dos jogos mais caros da história, tendo custado mais de US$53.000.000, e demorou 9 anos para ficar pronto. A razão disto é a física avançada e os gráficos em alta-definição que consumiram anos de aperfeiçoamento e levaram o console Playstation 2 ao limite de seu [[hardware]].
+
+O jogo se tornou um imenso sucesso de vendas entre o público hardcore, que abandonou seu [[Counter-Strike]], [[Winning Eleven]] e [[God of War]] para se aventurar no alegre e colorido mundo de Katamari Damacy. Foi seguido pelas continuações [[We Love Katamari]], [[Me and My Katamari]], [[Beautiful Katamari]], [[I Love Katamari]], [[Katamari Tournament 2007]], [[Need for Katamari]], [[Gran Katamari Auto]], [[Katamari Forever]], [[Katamari Amore]], [[Touch My Katamari]] e [[Tap My Katamari]].
+
+Em [[2018]] depois de quase morrer no esquecimento, o jogo teve uma versão remasterizada chamada de Katamari Damacy Reroll (tradução livre ''Bola Enorme que Rola e Gruda em Tudo: A Vingança''), foi lançado para o [[Nintendo Switch|Switch]] e para [[Windows|Ruindows]].
+
+== História ==
+
+O enredo do jogo é simples: o [[Rei de Todo Cosmos]], depois de uma memorável noitada, perdeu suas bolas. Cabe agora ao seu filho, o Príncipe, criar novas bolas para seu pai. O jogador deverá controlar o Príncipe em sua empreitada para criar colhões dignos do grande Rei de Todo Cosmos, grudando tudo o que puder encontrar no planeta Terra. Quanto maior a bola, mas pontos o jogador ganha e mais satisfeito o Rei fica. Simples assim.
+[[Arquivo:Rei_cosmos.jpg|left|thumb|200px|O Rei de Todo Cosmos em seu esplendor.]]
+
+
+== Jogabilidade ==
+
+Escolhido pela mídia especializada como ''"Um dos mais difíceis jogos de todos os tempos!"'', Katamari Damacy apresenta uma jogabilidade extremamente complexa, sendo um jogo apropriado à audiência hardcore. Na verdade, para conseguir dominar a sua ''Katamari'' e chegar aos últimos níveis o jogador precisa aprender a jogar usando dois controles DualShock - ao mesmo tempo! Esta foi uma decisão difícil para os programadores, mas segundo Kabuto Yoshida, produtor do game, ''"Apenas os botões de um controle não eram suficientes para todos os comandos. Nosso game é o primeiro que exige que o jogador jogue usando as mãos e os pés ao mesmo tempo."'', disse ele.
+Mas os menos aptos não devem se preocupar, pois um detalhado manual de 215 páginas com ilustrações acompanha cada cópia do jogo, explicando o básico para se começar a desfrutar o jogo. Segundo o manual, a curva de aprendizado varia entre 36 e 180 horas.
+
+== Trilha Sonora ==
+
+Como não poderia deixar de ser, já que Katamari Damacy é um jogo voltado para gamers hardcore, a trilha sonora é carregada do bom e velho Rock pesado, não devendo em nada para trilhas de jogos como [[Guitar Hero]]. A equipe de desenvolvimento fez um excelente trabalho com a parte sonora, e o som fica mais pesado conforme a Katamari cresce. Sem contar no vocal que toca na intro do jogo, fazendo pensar que o jogo é mais uma bizarrice japonesa.
+
+== Gráficos ==
+O foto-realismo atingido por Katamari Damacy é impressionante. É impossível não ficar de boca aberta cada vez que ligamos o jogo. Custa a acreditar que este é um Playstation 2 e não um console next-gen. Os efeitos de partículas, que usam e abusam dos recursos do DirectX 10, só não são mais impressionantes que o realismo da água ou a impressionante contagem de polígonos que cada objeto em cena carrega. Podemos afirmar com convicção que apesar de ser um jogo de 2004 ainda vai demorar muito até que outro game consiga gráficos melhores que estes.
+
+{{Katamari}}
+
+[[Categoria:Jogos da Bandai Namco]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos de quebra-cabeça]]
+[[Categoria:Jogos lançados em 2004]]

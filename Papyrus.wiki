@@ -1,0 +1,42 @@
+{{chefe De Jogo}}
+{{burro}}
+{{c|Nyeh Heh Heh!|'''Papyrus'''|Qualquer coisa}}
+[[Arquivo:Papyrus.jpeg|thumb|right|300px|Papyrus flagrado na rua]]
+[[Arquivo:Papyrussprite.png|30px]]'''Papyrus''' ou '''Papy''' (para os parentes) é um dos personagens mais <s>fracos</s> memoráveis do jogo [[Undertale]], alguns falam ser filho <s>do esqueleto de greyskull</s> de [[Gaster|um cíentista cheirador de Coca-Cola]]. <s>Trouxa</s> Engraçado demais, só superado pelo [[Sans]], o piadista de merda. Porém nada foi comprovado pelo <s>Toba de raposa</s> [[Toby Fox]]; ele tem o Lendário ataque {{cor|blue|Azul}}. que não serve para [[nada]] além de encher linguiça. 
+
+Papyrus é um esqueleto god pra caralho. Foda é que tu tens que flertar com ele pra ele te deixar em paz (na pacifista, se você não quiser o matar) tirando isso, o cara é top, chat.
+
+==História==
+Papyrus é irmão do [[Sans]], aquele esqueleto baixinho que conta piadas do tipo [[Zorra Total]]. Ele é membro da Guarda Real do [[Underworld]], e seu maior passatempo é caçar e capturar humanos. Mas quando ele se depara com [[Frisk|o protagonista]], percebe que tem uma grande ligação com ele, e após uma batalha você pode ter [[ou não]] um encontro com ele.A partir daí ele vira seu amigo e te ajuda no resto do jogo, incluindo no encontro com ''[[Undyne]]''
+
+==Finais==
+[[Arquivo:Papyrus_caça_otakus.jpg|thumb|right|230px|Papyrus em seu novo trabalho.]]
+{{cor|grey|Neutro}}: Papyrus só aparece em [[snowdin]] (caso você mate o mesmo),<br> sendo Filhadaputamente fraco, somente serve para encher línguiça nesse final.
+
+{{cor|red|Genocída}}: Papyrus morre com somente um golpe vulgo ''Hit-Kill''.
+
+{{cor|Blue|Pacífista}}: Papyrus têm mais importância nessa rota, pois no final ele chama todos os personagens para a barreira. <s>onde são estuprados por Flowey</s> onde são capturados por [[Flowey]]. Após todos saírem do subsolo e terminar com um final feliz, os humanos e monstros fazerem as pazes, não havia mais sentido existir a guarda real, e então Papyrus resolveu dedicar-se a um novo objetivo de vida, <s>caçar</s> capturar [[otaku]]s fedidos.
+
+== Ver também ==
+
+*[[Undertale]]
+*[[Sans]]
+*[[Esqueleto]]
+*[[Coca-Cola]]
+
+{{Undertale}}
+{{Esqueletos e caveiras}}
+
+<css>
+#globalWrapper {font-family:Papyrus}
+#bodyContent {font-family:Papyrus}
+a {font-family:Papyrus}
+a:visited  {font-family:Papyrus}
+h1 {font-family:Papyrus}
+h2 {font-family:Papyrus}
+h5 {font-family:Papyrus}
+</css>
+
+[[Categoria:Personagens masculinos de jogos]]
+[[Categoria:Personagens de jogos de RPG]]
+[[Categoria:Esqueletos e caveiras]]

@@ -1,0 +1,26 @@
+{{computeiro}}
+[[Arquivo:Mulherpeladaegostosa.jpg|thumb|250px|Só o DNS pode proporcionar essas [[MULHER GOSTOZA E PELADA|cenas belas]] do cotidiano brasileiro]]
+O protocolo '''DNS''' ('''D'''e'''n'''i'''s''', o [[Pimenta|pimentinha]]) é um dos protocolos mais famosos e importantes da rede, pois sem ele os usuários teriam que decorar um monte de [[número]]s, mas para quem não consegue nem decorar um número telefônico, certamente que decorar um número de [[IP]] seria um desastre.
+
+== Características ==
+
+O DNS atua na camada de aplicação, e não na camada de [[Bahia|rede]] ou [[TCP|transporte]] como muitos pensam. Por atuar na camada de aplicação, que é o festim da morte dos usuários, onde eles fazem suas usuarices, o protocolo DNS precisa de uma porta, que é pra poder fechar e sair fora quando o usuário começa a fazer muita bobagem. Ele atua tanto no TCP quanto no [[UDP]] e no [[FDP]], sendo este último o protocolo de rede chamado usuário.
+
+Para auxiliar o usuário no acesso aos sites, ele pega o nome desse site ([[Berta|www.gordinhasensual.com]]) e procura num local obscuro se existe e qual o IP referente. Assim, encontrando, ele repassa a informação ao usuário, que pode se masturbar de boa.
+
+== Funcionamento ==
+
+O DNS atua na porta 53 e faz a tradução do nome de domínio para o número, facilitando a vida dos internautas. Mas ele não é capaz de tudo. Vai ser impossível para o DNS achar o IP do site [[Burrice|wwwww.gugou.com]], assim a única coisa que pode ferrar com um DNS é a própria capacidade intelectual do usuário.
+
+Ele é uma estrutura hierárquica, estando o banco de dados de domínios no topo do ''ranking''. O domínio mais alto da árvore ("'''namespace'''") é chamado de [[raiz]], que é representado por um mísero [[ponto]] final.
+
+O DNS trabalha com o conceito de "zona" (huehuehue), que é mesmo uma putaria, e representa o nó superior encarcar os nós inferiores.
+
+== Ver também ==
+
+* [[Erru ortografíco e seus tiposes]]
+* [[DHCP]]
+* [[HTTP]]
+
+[[Categoria:Protocolos de rede]]
+[[Categoria:Siglas]]

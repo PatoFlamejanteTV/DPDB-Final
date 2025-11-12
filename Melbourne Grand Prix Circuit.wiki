@@ -1,0 +1,37 @@
+{{Info_circuito|
+|nome               = Circuito do Parque do Alberto
+|logotipo           = 
+|imagem_circuito    = Circuit Albert Park.png
+|tamanho_imagem     = 300px
+|legenda            = Mapinha antes da reforma de 2022 que '''tentou''' deixar a pista melhor
+|inauguração        = 20 de novembro de 1953
+|localização        = {{AUS}} - [[Melbourne]]
+|arquiteto          = Ninguém, foi criado por acidente
+|principais_eventos = [[Formula 1]], [[Australian Grand Prix|Austrian GP]], [[Supercars Challenge]]
+<!-- Opcional -->
+|evento1            = [[Formula 1]]
+|percurso           = 5.027 km
+|maior_vencedor     = [[Michael Schumacher]] (4)
+|melhor_volta       = [[Michael Schumacher]] (1min 24s 125)
+}}
+
+{{c|PQP!!!!|Qualquer piloto na primeira curva do circuito}}
+
+O '''Melbourne Grand Prix Circuit''' é um tradicional circuito localizado nos domínios do [[Albert Park|Parque Alberto]] na bucólica cidade australiana de [[Melbourne]], e serve para abrir o [[circo]] da [[Formula 1]] com muitas batidas e carros quebrados.
+
+O circuito é alvo de muitos movimentos de ativistas do [[Greenpeace]] que reclamam da poluição dos carros nas dependências do parque e a extinção dos cangurus. É claro que esses eco-chatos querem apenas ganhar um dinheirinho da [[FIA]] para ficarem calados. Irlandeses loucos vestidos de saias são comuns invandindo o autódromo.
+
+== Circuito ==
+
+Melbourne é um circuito de rua estreito perfeito para oferecer batidas nas largadas e durante a corrida nenhuma chance de ultrapassagem, além de pouquíssima aderência devido ao asfalto péssimo.
+
+Após a largada, existem duas curvas, a ''Curva Jones'' seguida da ''Curva Brabhan'', um raro ponto de ultrapassagem e uma das melhores primeiras curvas da [[Fórmula 1]], pois seu traçado estreito é quase sinônimo de batidas e destruições. Foi ali que Wurtz certa vez quase foi assassinado por Coulthard. A Curva 3, a ''White Ford'' é o segundo e último ponto de ultrapassagem da pista. Curva 9 ''Clark'' uma perigosa reta rodeada de muros faz umas curvas fechadas de 90° até chegar à reta dos boxes
+
+=== Reforma de 2022 ===
+
+Após ficar fora do calendário em 2020 e 2021 por medo de [[Covid-19]], por mais que os pilotos dirijam de capacete, a Austrália voltou para a Formula 1 em 2022 com um circuito reformado. As curvas foram alargadas para caberem os carros, a antiga chicane da curva 9 foi extinta e transformada num retão ideal para ultrapassagens perigosas, e a curva 13 virou um cotovelo mas ninguém continua usando esse ponto para ultrapassagem. Ou seja, a reforma deu em nada, gastaram dinheiro a toa.
+
+{{Circuitos f1}}
+
+[[Categoria:Autódromos da Fórmula 1]]
+[[Categoria:Autódromos da Austrália]]

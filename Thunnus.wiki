@@ -1,0 +1,80 @@
+{{taxocaixa
+| nome           = Comida
+| cor            = #0047AB
+| imagem         = Atum_lata.jpg
+| imagem_legenda = Atum em seu habitat natural
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aquáticos]]
+| classe         = [[Actinopterygii|Peixes com espinha]]
+| ordem          = [[Perciformes|Forma de Peixe]]
+| família        = [[Scombridae|Escombros]]
+| gênero         = [[Thunnus|Atunzinho]]
+}}
+
+'''Thunnus''' é o gênero pelo qual se encontram os animais enlatados conhecidos nas prateleiras do mercado como '''atum'''. É um peixe da ordem dos ''[[Perciformes|Conservádios]]'', família dos ''[[Scombridae|Enlatádios]]'', muito comum no [[Oceano Pacífico]] e nas prateleiras dos supermercados. É o principal componente da dieta dos [[golfinho]]s, mas, ironicamente, quase os levou à extinção - muitos golfinhos, ao tentar comer um deles, terminavam presos nas redes estendidas pelos malignos pescadores de atum. Com o desenvolvimento da tecnologia, entretanto, as redes foram trocadas por poderosos <s>hímens</s> ímãs, que capturam os atuns sem ameaçarem as demais espécies.
+
+
+
+== Anatomia ==
+Os atuns possuem carapaças metálicas, em forma de disco, que só podem ser abertas usando-se um instrumento apropriado. Como suas carapaças são hermeticamente fechadas, ainda não se descobriu como os peixes realizam suas funções vitais (como comer, reproduzir-se, escrever scraps no [[Microsoft Orkut]] etc.). Estudos realizados pela '''Associação de Zoologia, Entomologia e Ictiologia de Toledo, Espanha''' ('''''Azeite'''''), ainda em fase de conclusão, indicam que, na natureza, os atuns conseguem pôr a cabeça para fora de sua carapaça, mas o fenômeno jamais pôde ser observado.
+
+{{c|Ele põe só a cabecinha|Rodrigo Zadiño, pesquisador da '''Azeite'''|hábitos respiratórios-alimentares dos atuns}}
+
+Outro fato, ainda mais impressionante, foi observado pela equipe de pesquisadores: o animal não possui nenhum órgão interno identificável, como [[coração]], [[pulmões]] ou [[estômago]], tornando-o o peixe mais primitivo da atualidade. Aparentemente, os nutrientes ficam em suspensão no líquido gorduroso que envolve a carne do peixe, conhecido como ''óleo de atum'', que é usado na fabricação de velas e buchas de [[canhão]].
+
+== Tipos na natureza ==
+[[Arquivo:atuns_nadando.jpg|right|thumb|Os atuns nadam em grupos pequenos, como este fotografado próximo à ilha de <s>Sardinha</s> [[Sardenha]]]]Os avançados estudos da '''Azeite''' encontraram três espécies de atum, classificadas de acordo com a forma de sua carne:
+
+# '''Atum sólido (''Atunis solidus'')''': apesar do nome, não é que os outros sejam líquidos ou gasosos. Sua carne é inteiriça, podendo ser consumida como um [[hambúrguer]].
+# '''Atum ralado (''Atunis raladis'')''': a carne fica em pedacinhos pequenos, prontos para serem misturados com maionese e fazer aquela deliciosa pasta que [[sua mãe]] colocava em seus sanduíches da escola.
+# '''Atum esquisito (''Atunis squisitum'')''': a carne não é inteira nem em pedaços, mas tem uma forma meio assim... pastosa, entende? E cheira mal, muito mal. Os pesquisadores da '''Azeite''' descobriram que a ingestão de atum desse tipo pode causar diarréia.
+
+== Gastronomia ==
+Atuns são usados em sanduíches-íches (e, por serem ricos em [[Omega]] [[3]], tem valor [[Ruth Lemos|nuuuuuuuutrit... adequado]]), quando misturados com maionese, ou em pizzas, quando misturados com outras coisas que é bom nem saber. Na [[União Soviética]], foram reportadas tentativas de se fazer um strogonoff de atum, mas os efeitos foram catastróficos: toda a população local foi contaminada por radiação e a cidadezinha onde a experiência foi desenvolvida teve que ser evacuada. Os efeitos provavelmente serão sentidos pelas gerações futuras, na forma de [[câncer]] e [[mutações genéticas]].
+
+''Para maiores informações, consulte o artigo sobre [[Chernobyl]]''.
+
+== Impacto ambiental ==
+[[Arquivo:6987.jpg|right|thumb|Integrantes do [[Greenpeace]] retiram do mar um golfinho, um dos principais ingredientes do atum enlatado]]Além da ameaça aos gentis e doces [[golfinho]]s, os atuns representam, por si só, uma grande fonte de poluição marítima, já que sua carapaça é composta por [[Heavy Metal|metais pesados]] como [[chumbo]] e [[antimônio]]. Tais substâncias, quando reagem com o sal da água do mar, podem provocar os seguintes efeitos:
+
+* Câncer no [[cérebro|célebro]];
+* Formigamento no [[céu]] da boca;
+* Câimbras nas unhas dos pés;
+* Opressão nas gônadas (ovários ou testículos);
+* Angústia existencial;
+* Calos nos olhos.
+
+Além disso, o contato com água contaminada desta forma provoca uma reação psicológica estranha: o doente passa a chamar todos os seus conhecidos de Laureni e só sai de casa com sapatos de cores diferentes, dando origem ao que se convencionou chamar de '''''Síndrome Cromática de Laureni'''''. Essa patologia ainda é estudada pela [[ciência]], que não encontrou explicação razoável para ela.
+
+A [[Organização Mundial de Saúde]] já se pronunciou favorável ao extermínio em massa de atuns para conter a contaminação de pessoas, mas enfrenta grande oposição de movimentos ambientalistas, que preferem que os peixes sejam mantidos vivos. Existem rumores de que a indústria de calçados estaria participando do ''lobby'' dos ambientalistas, já que os portadores da Síndrome de Laureni costumam comprar sempre dois pares de sapatos, em vez de um só.
+
+== Taxonomia ==
+
+{{Clado
+|clado1     = Espécies
+|preposição = ao
+|clado2     = gênero thunnus
+|texto      = 
+|lista      =
+* '''[[albacora]]''' ''(thunnus alalunga)''
+* '''[[atum-azul-do-sul]]''' ''(thunnus maccoyii)''
+* '''[[patudo]]''' ''(thunnus obesus)''
+* '''[[atum-do-pacífico]]''' ''(thunnus orientalis)''
+* '''[[Atum-rabilho]]''' ''(thunnus thynnus)''
+* '''[[albacora-da-lage]]''' ''(thunnus albacares)''
+* '''[[atum-negro]]''' ''(thunnus atlanticus)''
+* '''[[Atum-do-índico]]''' ''(thunnus tonggol)''
+}}
+
+{{alimentos}}
+
+[[Categoria:Coisas de comer]]
+[[Categoria:Scombridae]]
+[[Categoria:Thunnus|*]]
+
+[[en:Tuna]]
+[[fr:Thon]]
+[[he:טונה]]
+[[ja:マグロ]]
+[[ko:참치]]

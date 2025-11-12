@@ -1,0 +1,130 @@
+{{game}}
+
+{{Infobox Game
+|title     = Têquinqui 97
+|image     = The King of Fighters 97 cover.png
+|caption   = Capa do jogo
+|developer = [[SNK]]
+|publisher = [[SNK]]
+|released  = [[1997]] ([[ORLY?]])
+|genre     = [[Jogo de luta|Porradinha entre boiolas]]
+|rating    = 0/10 para pessoas normais<br>10/10 para fanboys
+|platform  = [[Neo-Geo]]
+|ages      = Livre
+}}
+
+{{c|ÉÉÉÉ TETRAAAAA, ÉÉÉÉ TETRAAAAA 3000X |Galvão Bueno|o time japonês ganhar de novo o torneio}}
+{{c|Orenooooo, Kachi da!|Kyo Kusanagi|depois de descer a porrada [[Todo mundo]]}}
+{{c|AAAAAAAAAAAAAAAAAAAAAAAAAAAAH!|Iori Yagami|transformação do mal}}
+{{c|AAAAAAAAAAAAAAAAAAAAAAAAAAAAH!|Leona|transformação do mal}}
+{{c|Faiz a manha pa pegá o time dos endiabrado tio |Pivetinhos de fliperama|time Orochi}}
+{{c|Quem é esse pivete retardado???|Kyo Kusanagi|Shingo copiando seus golpes}}
+{{c|Cade o meu dinheiroooo???!!|Yamazaki|Geese prometer grana a ele (e não pagar)}}
+{{c|Deixe o seu passado para trás, você não está só, nós somos uma família agora|[[Ralf e Clark]]|momento fofinho com [[Leona Heidern|Leona]]}}
+
+'''The King of Fighters' 97''' é o quarto jogo da série [[The King of Fighters]], a mesmíssima coisa dos três jogos anteriores, só que melhorado (na verdade, apenas sem os tantos defeitos dos jogos anteriores, mas com um monte de defeito a mais), criado pela [[SNK]], originalmente lançado para [[Neo-Geo]] e depois adaptado pra uma cacetada de consoles, até para o [[PC da Xuxa]].
+
+== Desenvolvimento ==
+
+[[Arquivo:Português do KOF97.png|thumb|left|340px|O jogo recebeu tratamento especial, trazendo [[analfabeto|português brasileiro]], e localizado, como opção.]]
+
+Em 1 ano era humanamente impossível mudar grandes coisas em relação ao anterior [[The King of Fighters '96]], a SNK estava desenvolvendo o [[The King of Fighters '98]] nesse ponto, então o 97 foi lançado de qualquer jeito como jogo tampão e teve quem gostou. A ideia era criar um jogo onde soltar os golpes fosse mais fácil porque no jogo anterior nem os mais viciados conseguiam realmente sempre soltar as magias de tão preciso que precisavam ser. Como a SNK nunca teve facilidade em encontrar equilíbrios, decidiram ir para o total oposto e agora qualquer noob consegue soltar as mais cabulosas magias, as vezes os golpes saem até sem querer de tão sensíveis que ficaram os controles.
+
+A versão em analfabetês foi mantida, que é o português falado nas favelas, uma bosta cheia de erros de doer os olhos.
+
+== Jogabilidade ==
+
+Distanciando-se cada vez mais de suas origens, os personagens ficaram ainda mais velozes, todos parecem um bando de lunático com capacidade infinita e contínua de pulo. Ironicamente esse negócio de ficar pulando feito um completo imbecil viria a futuramente ser algo bem comum em todos tipos de jogos, mas em 1997 ainda era algo incomum, mas a SNK não teve vergonha alheia em permitir um jogo que vence quem pular mais, porque se você decidir ficar só no chão vai apanhar feio, vai tomar todas voadoras apelonas.
+
+As novidades adicionadas nessa versão foram a possibilidade de se executar combos apenas com golpes normais, auxiliando os noobs e a implementação de vários overhead (aqueles golpes que só podem ser defendidos em cima, que se você defender embaixo se fode) o que é um mata-noob porque se você alterna um overhead com uma rasteira você extermina qualquer noob com [[Perfect]].
+
+Uma outra adição curiosa é a presença de [[emoticon]]s sinalizando o humor de cada um dos personagens dentro do trio escolhido, sinalizando se eles são amantes, indiferentes ou rivais.
+
+Para os mais viciados (os chineses, fanáticos nesse jogo) todo personagem é passível de se explorar algum bug que o permite aplicar um combo infinito, daquele que se encaixa vaia té o [[K.O.]], o que explica porque não existe torneio de The King of Fighters '97.
+
+Na seleção dos personagens há ainda duas opções de jogabilidade. A '''Advanced''', escolhida por 98% dos jogadores e que traz a jogabilidade de KOF 96 com a barra que acumula três bolinhas verdes, dá os contra-ataques, os pulos, as corridas, tudo. E também o modo '''Extra''', escolhido por 2% dos jogadores e que traz a jogabilidade do KOF 94, o que deixa seu personagem com torcicolo e artrite, impossibilitado-o de livrar de agarrões, mover-se fluidamente ou encaixar combos.
+
+== Enredo ==
+=== Formação do torneio ===
+
+Um ano depois do espírito demoníaco [[Orochi]] possuir [[Iori Yagami]] e ninguém entender porque diabos isso aconteceu, uma macumbeira chamada [[Chizuru Kagura]] iniciou um novo [[The King of Fighters|Torneio de Têquingue]] para ajudarem a prender novamente esse ser chamado Orochi que fugiu devido a sua grande incompetência depois que um tal de [[Goenitz]] o libertou. Nisso, quase todos os personagens de 1996 ganharam o direito de participar novamente desse torneio, para alegria dos KOFeiros (exceto: Kasumi, Geese, Mature, Vice, Krauser e MR.Big). 
+
+Apesar do que aconteceu no final do jogo anterior, com o cabeça de vento do [[Goenitz]] matando milhares de pessoas no estádio da final, o torneio KOF foi um grande sucesso comercial e reluziu uma febre mundial no mundo da luta. Poucos meses depois do fim do torneio, várias grandes empresas organizaram torneios qualificantes pequenos e construíram estádios para o novo torneio KOF em todo o mundo, aumentando ainda mais a excitação para o próximo torneio. As novidades do torneio se espalharam por todo tipo de mídia e fãs retardados, além de novos lutadores alienados inúteis em todo o mundo vieram assistir as lutas preliminares.
+
+Todos os porradeiros dos jogos anteriores voltaram, com algumas exceções. O Boss Team (formado por Krauser, Geese e Mr. Big) sumiram depois da sua primeira aparição. A filha da puta dos counters [[Kasumi Todoh]] foi continuar sua procura pelo pai. As antigas secretárias [[gostosas]] de Rugal, [[Mature]] e [[Vice (The King of Fighters)|Vice]] foram mortas por [[Iori]] ([[ou não]]) depois que ele foi tomado por uma crise de viadagem no final dos eventos do KOF 96.
+
+As lutas aconteceram em seis grandes estádios ([[ou não]]) e foram transmitidas ao vivo nos cenários, dá pra observar os cameraman e juízes acompanhando tudo de perto caso houvesse algum trapaceiro sem vergonha, não interferindo em nada perante todas as trapaças que recorrentemente ocorrerão. Um destaque para o cenário de [[Bali]], com galinhas andando no cenário, um cara com uma fantasia ridícula e um monte de macumbeiros invocadores de [[Satanás]], enquanto os lutadores de esportes americanos e outros personagens insignificantes aparecem ao fundo.
+
+Depois de cada luta as capas de revistas, jornais, outdores, [[Facebook]], [[Whatsapp]] e a [[puta que pariu]] divulgavam as fotos dos vencedores, que ficavam mais famosos e ricos que [[Neymar]], [[Cristiano Ronaldo]] e [[Messi]] enquanto os juízes contabilizavam os pontos dos lutadores e faziam os exames antidopings. Vários lutadores foram eliminados do KOF por doping, inclusive [[Maradona]], [[Mike Tyson]], [[Freddy Krueger]] e até [[Anderson Silva]].
+
+=== Eventos finais ===
+
+Após acontecer toda aquela porrada de sempre, o time do Japão venceu novamente o torneio. Iori e Leona, todavia, ficaram possuídos pelo espírito da [[leptospirose]], cuspindo sangue, soprando fumaça, se contorcendo mais que a [[O Exorcista|a menina do exorcista que gira a cabeça em 360° celsius]], tendo convulsões, apelando além do normal e incrivelmente fortes e rápidos.
+
+Depois de derrotar [[Iori]] ou [[Leona]] maconhados, um tal de Yashiro surge com uma áurea diferente e diz que ele e seus miguxos (Chris e Shermie) são na verdade os três reis do Orochi e que tinham sequestrado a namoradinha do [[Kyo]] porque nessas capirotagens sempre é preciso uma virgem. Humilhado por ter sido chamado de virjão em cadeia nacional (sim, tudo está sendo transmitido pelo Pay Per View) Kyo sem pensar duas vezes arrebentou os 3 emos na porrada, fazendo churrasquinho deles. Sem mais nem menos, esse tal Chris começa a flutuar na frente de todo mundo, e com isso Yashiro e Shermie têm uma crise emo e se matam na frente dele para que inexplicavelmente CHRIS SE TRANSFORME NO OROCHI E DIZER QUE VAI MATAR TODOS OS HABITANTES DA TERRA. Kyo e seus amigos, cansados de toda aquela ladainha, descem o cassete no Orochi, que caiu derrotado. O espírito maligno das trevas, todavia, ainda vivia, e como último recurso usa suas forças pra endiabrar o Iori pela quarta vez em menos de 2 anos, mandando o emo ruivo atacar seus amiguinhos a troco de nada.
+ 
+Kyo, como bom protagonista que é, não foi direto pra porrada, primeiro ele caiu em reflexão com um ancestral Yasakani, espírito este que pediu para que libertasse Iori da maldição do [[Orochi]]. O final todos sabem, Kyo fica com peninha do Iori e resolve ajudá-lo, e então derrota definitivamente Orochi, Kyo incrivelmente mata um deus ancestral só na porrada e no churrasco assado que ele faz com as mãos. Isso mesmo UM DEUS! Tudo pra continuar com aquela velha história do bem sempre vencer o mal, não importa quanto o mal seja poderoso. 
+
+Kyo depois desse fato poderia se candidatar a ser o novo [[Kratos]], afinal ele derrotou ninguém menos que [[Rugal Bernstein|Rugal]], o cabeça de vento [[Goenitz]] e agora, o [[Orochi]]. Sendo campeão de todos os Kofs que disputou ate então.
+
+== Personagens ==
+
+* '''Hero Team'''
+** '''[[Kyo Kusanagi]]''' - Cara que nunca tira o uniforme escolar, pelo quarto jogo consecutivo atuando como protagonista, mesmo sendo desprovido de carisma. Continua com sua mania de fazer churrasco dos outros.
+** '''[[Benimaru Nikaido]]''' - Uma biba, continua sendo meramente a versão viada do Ken.
+** '''[[Goro Daimon]]''' - Judoca apelão dos counters, também tem o golpe de dar um tapão no chão que ocupa o cenário inteiro. Compensa sua aparência genérica sendo altamente apelão.
+* '''Fatal Fury Team'''
+** '''[[Terry Bogard]]''' - Apesar de liderar uma importante franquia da SNK, o [[Fatal Fury]], em KOF pelo quatro ano consecutivo não passa de coadjuvante na trama.
+** '''[[Andy Bogard]]''' - Está ali para encher linguiça igual o irmão, e continuar corno da Mai.
+** '''[[Joe Higashi]]''' - Fanfarrão do muay-thai que não para de mostrar o toba.
+* '''Art of Fighting Team'''
+** '''[[Ryo Sakazaki]]''' - Em 1994 era um dos mais importantes, mas sua aparência altamente genérica só vai colocando-o mais e mais no esquecimento.
+** '''[[Robert Garcia]]''' - Um cover do Steven Seagal.
+** '''[[Yuri Sakazaki]]''' - Teoricamente é uma carateca, mas não há recordações de que no karatê se ensine golpes com a bunda, que é a marca registrada de Yuri.
+* '''Ikari Warriors Team'''
+** '''[[Leona Heidern]]''' - Uma gostosa de TPM, dona do pior golpe da história de todos os jogos de luta, um Alec Full lento, que causa pouco dano e que abre uma puta brecha para o adversário te enfiar a surra. Ela tem sua versão maligna, a '''Leona louca''', quando a TPM causa cólica e ela fica altamente apelona.
+** '''[[Ralf e Clark]]''' - O cara do boné e cara do lencinho vermelho. Normalmente genéricos, nesse jogo agora atuam como psicólogos da sua chefa Leona, tendo aliviar o estresse pós-traumático que ela sofre após ter chacinado uma vila de ribeirinhos no interior da Ilha Marajó.
+* '''Psycho Soldier Team'''
+** '''[[Athena Asamiya]]''' - Continua sendo de longe a personagem mais irritante do jogo, para dublar sua voz foi convidada uma garota fanha com tuberculose nasal para gritar os "SAIBOOODO" que essa guria não para de berrar.
+** '''[[Sie Kensou]]''' - Continua comendo só as porras dos seus pães de queijo e nenhuma mulher.
+** '''[[Chin Gentsai]]''' - O véio bêbado.
+* '''Women Fighters Team'''
+** '''[[Chizuru Kagura]]''' - A sub-chefe do jogo anterior agora toma o lugar de Kasumi Todoh que foi considerada genérica demais, enquanto a Chizuru era uma macumbeira com maior estilo. Como passou a ser uma personagem convencional ficou menos apelona.
+** '''[[Mai Shiranui]]''' - [[Hentai]].
+** '''[[King (Art of Fighting)|King]]''' - Um rapaz loiro garçom que acha que é mulher.
+* '''Korea Justice Team'''
+** '''[[Kim Kaphwan]]''' - Após perder os dois testículos em 1996, regressa com uma voz ainda mais afinada em 1997.
+** '''[[Chang Koehan]]''' - Gordo da corrente formado por tantos pixels que só de pular trava a tela toda por exigir demais do hardware.
+** '''[[Choi Bounge]]''' - Freddy Krueger em miniatura.
+* '''New Faces Team'''
+** '''[[Yashiro Nanakase]]''' - Que a SNK gosta de copiar a Capcom isso já se sabe desde 1994, mas ninguém imaginou que fossem copiar até o Dante de [[Devil May Cry]]. Pra diferenciar e não ter problemas com direitos autorais foi preciso apenas deixá-lo mais metrossexual, igual todos personagens de KOF. Possui a sua versão maligna, o '''Yashiro sangue-frio''', forma que assume quando perde toda vergonha na cara.
+** '''[[Shermie]]''' - A SNK percebeu que seu jogo estava com uma quantidade excessiva de machos e todos sabem que muito da popularidade dos jogos de luta vem de seus hentai relacionados, por isso criaram uma gostosona aleatória qualquer das coxas grossas e do decote indecente. Possui a sua versão maligna, a '''Shermie do Raio''', quando assume uma jogabilidade mais Mortal Kombat, imitando o Raiden.
+** '''[[Chris (The King of Fighters)|Chris]]''' - Personagem novo que é idêntico ao Kensou, a SNK na hora de plagiar esqueceu que estava plagiando a si própria e o resultado foi isso. Possui a sua versão maligna, o '''Chris trava-tela''' (ou '''Chris TASK OVER''') porque seus golpes enchem o cenário de tanta purpurina roxa que ele trava o jogo, forçando o reset do console.
+* '''Special Team'''
+** '''[[Ryuji Yamazaki]]''' - O cara doido da peixeira. Só mais um metrossexual genérico.
+** '''[[Blue Mary]]''' - Agente secreta gostosa dos peitão. Ela está ali após vencer uma [[enquete]] da SNK sobre quem trazer de novo. Já fica claro que apesar do público principal de [[The King of Fighters]] ser de garotos viados ou no máximo assexuados, ainda há aqueles que querem pelo menos bater uma punheta para uma loira peituda que se esfrega nos adversários, porque essa maldita tem as catadas mais apelonas da história dos jogos de luta.
+** '''[[Billy Kane]]''' - O cara do bambu que retorna após a surra que levou em KOF 95.
+
+* '''Sem time'''
+** '''[[Iori Yagami]]''' - Depois de rasgar o toba de [[Vice (The King of Fighters)|Vice]] e [[Mature]], Iori retorna como um personagem solo no auge de sua crise emo, varias vezes cogitando suicídio e toda essa baboseira típica dos emos. Possui a sua versão maligna, que aliás, é uma das coisas mais clássicas do The King of Fighters, que é o '''Iori babão''' (também chmado de '''Iori maluco''', '''Iori fumado''', '''Iori cheirado''', '''Iori zumbi''', '''Iori noiado''' e '''Iori corcunda de Notre-Dame''').
+** '''[[Shingo Yabuki]]''' - Um [[Vegeta|inseto insignes ficante]], sendo pelo Kyo o que a [[Sakura Kasugano]] é pelo Ryu, com  a diferença que a SNK sempre vai preferir criar um personagem masculino viado metrossexual. Ele é um mero estudante do ensino médio que tem o padrão de luta parecido com o seu ídolo e mentor relutante Kyo Kusanagi, sendo uma versão alternativa de [[Kyo]] com os seus movimentos pré KOF '96, apelando porque qualquer peteleco resulta em [[Critical Hit]].
+
+* '''Chefão'''
+** '''[[Orochi]]''' - Divindade do mal, ele deseja transformar todos homens da Terra em viadões assumidos, o que obviamente resulta na consequente extinção da raça. Muitos viados vão apoiar sua causa, mas muitas mulheres amantes de rola vão ser contra essa ideia. Para uma série que já teve Rugal, Geese e Goenitz, três comedores ativos, o Orochi como sendo o primeiro chefão viadinho passivo é o chefe mais ridículo de derrotar desde então, e se te vence no Arcade é porque tem mais HP e eles querem apenas sugar suas fichas.
+
+== Recepção ==
+
+The King of Fighters '97 veio a se tornar um jogo que só os fanboys gostam. Num ano em que jogos de lutas bons e equilibrados abundavam no mercado, só aquele seleto grupo de boiolas mantiveram-se firmes elogiando esse jogo.
+
+Tudo vai ser inferior a qualquer outro jogo de luta concorrente da época. Jogabilidade bugada, desbalanceamento completo, falta de carisma de personagem, excesso de personagens gays... até o som que sempre foi um ponto positivo da série foi simplesmente removido pelo motivo de preguiça de fazer músicas novas, ficando quase sempre só um som-ambiente, cenários sem música e os bonecos parecendo que tem lepra nas cordas vocais para ter uma voz deformada daquelas.
+
+{{The King of Fighters}}
+
+[[Categoria:Jogos da SNK]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Neo-Geo]]
+[[Categoria:Jogos para Sega Saturn]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos de luta]]
+[[Categoria:Jogos lançados em 1997]]

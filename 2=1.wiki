@@ -1,0 +1,243 @@
+{{Fato| <math>\textstyle 2 \ne\ 1</math>}}
+{{Fato| <math>\textstyle 2 > 1</math>}}
+[[Arquivo:BrasileiroBurro.jpg|thumb|200px|Quem acha que entende e é verdade este fato matemático]]
+ 
+<math>\textstyle \mathbf{2} \mathbf{=} \mathbf{1}</math> é um dos grandes mistérios do mundo, este "''fato''" é a primeira e mais [[babaca]] piada que um [[nerd]] calouro de um curso qualquer de Exatas aprende ao entrar na [[faculdade]].
+
+<math>\textstyle \mathbf{2} \mathbf{=} \mathbf{1}</math> é tão empolgante para um nerd que, não raramente, o coitado chega ao [[orgasmo]] tentando "''demonstrar''" a "''igualdade''" para o seu [[Seu Tio Engraçadão|tio]] [[bêbado]], ou para sua [[prima]] [[gostosa]].
+
+== Prova clássica ==
+Seu [[professor]] de '''[[Cálculo]]''' diz:
+<big>
+{|style="border:1px solid black" width=70%
+|Suponha a seguinte igualdade entre números reais.
+|align="right"|<math> \textstyle x = y</math>
+|-
+|Desta igualdade, multiplicando ambos os termos da igualdade por <math> \textstyle x</math>, temos: 
+|align="right"|<math> \textstyle xx = xy</math>
+|-
+|Logo, subtraindo-se <math> \textstyle yy</math> em ambos os termos, chegamos a... 
+|align="right"|<math> \textstyle xx - yy = xy - yy</math>
+|-
+|Colocando <math> \textstyle (x-y)</math> em evidência a direita e a esquerda da igualdade... 
+|align="right"|<math> \textstyle (x-y)(x+y) = (x-y)y</math>
+|-
+|Divide-se por <math> \textstyle (x-y)</math> cada termo, obtendo... 
+|align="right"|<math> \textstyle x+y=y</math>
+|-
+|Como <math> \textstyle x = y</math>, podemos escrever: 
+|align="right"|<math> \textstyle y+y = y</math>
+|-
+|Que é o mesmo que... 
+|align="right"|<math> \textstyle 2y = y</math>
+|-
+|Logo, eliminando-se <math> \textstyle y</math>, por divisão, concluímos: 
+|align="right"|<math> \textstyle 2 = 1</math>
+|-
+!colspan="2"|<S>[[CQC|C.Q.C.]]</S> C.Q.D.<small><s>(Como Queriamos Demonstrar)</s>(Calado [[QI]] Despresível)</small>
+|}
+</big>
+=== Críticas à prova clássica ===
+#Que [[porra]] é essa? A maioria dos [[burro|estudantes]] [[brasil]]eiros, [[portugues]]es e [[língua portuguesa|lusófonos]] em geral, [[cabular aula|cabulou essas aulas]] de [[matemática]] nem se quer sabe o que é "''por em evidência''"!
+#Os que tem capacidade para saber o que é ''por em evidência'' notam a ''evidente fraude'' que é dividir qualquer coisa por <math> \textstyle x-y</math> uma vez que, se <math> \textstyle x=y</math>, então <math> \textstyle x-y=0</math>, o que implica em uma [[divisão por zero]].
+#Se <math> \textstyle 1=2</math>, então <math> \textstyle I=II</math>, logo [[você]] não estava cursando ''Cálculo I'', e sim ''Cálculo II'', o que seria um problema para a faculdade, uma vez que você poderia argumentar erro na matrícula.
+
+== Prova simplória ==
+Seu primo [[nerd]] [[punheteiro|onanista]] [[calouro]] de [[Física]] diz:
+<big>
+{|style="border:1px solid black" width=70%
+|Tomemos as igualdades...
+|align="right"|<math>0\times 2 = 0</math><math>0\times 1 = 0</math>
+|-
+|Logo:
+|align="right"|<math>0\times 2 = 0\times 1</math>
+|-
+|Dividindo ambos os lados da igualdade pelo mesmo número:
+|align="right"|<math>\textstyle \frac{0}{0}\times 2 = \frac{0}{0}\times 1</math>
+|-
+|Simplificando:
+|align="right"|<math>\textstyle 2 = 1</math>
+|-
+!colspan="2"|UHHHHHHHHHHHHHHHHHHHHhhhhhhmmmmmmmmmm<small>([[orgasmo|gozando]]...)<big>
+|}
+</big>
+
+=== Critíticas à prova simplória ===
+#Fica muito claro, mesmo para os mais [[estúpido]]s, o [[charlatanismo]] dessa prova, quando divide-se zero por zero! <math>\textstyle (\frac{0}{0})</math>.
+
+== Prova teológica ==
+A [[Menina Pastora Louca]] diz:
+<big>
+{|style="border:1px solid black" width=70%
+|Assim diz o [[Senhor]], em ''Gênesis 2:24'':
+!{{C|Portanto deixará o [[homem]] a [[seu pai]] e a [[sua mãe]], e [[casamento|unir-se-á]] à sua [[mulher]], e serão uma só [[carne]].|}}
+|-
+|... e em ''João 17:11'':
+|align="right"|{{C|Eu não estou mais no [[mundo]]; mas [[ele]]s estão no mundo, e eu vou para ti. [[Pai]] [[santo]], guarda-os no teu nome, o qual me deste, para que eles sejam um, assim como [[nós]].|}}
+|-
+|Logo, se o '''homem é UM''', a '''mulher é UMA''' e '''unidos são UM'''...
+|align="right"|<math> \textstyle 1+1=1</math><math> \textstyle 2=1</math>
+|-
+|E também, se '''[[Deus]] é UM''', '''[[Jesus]] é UM''' e '''juntos são UM'''...
+|align="right"|<math> \textstyle 1+1=1</math><math> \textstyle 2=1</math><small>'''Obs.: No último caso também podemos provar </small><math>3=1</math><small> se incluirmos o [[Espírito Santo]], a gosto do cliente.</small>
+|-
+!colspan="2"|<big>[[Amém]]???</big><small>(''Aquele que discordar [[morte|vô passapussimadeli]]...'')</small>
+|}
+</big>
+
+=== Críticas à prova teológica ===
+#O Dogma da [[Trindade]] e a interpretação quanto ao casamento, [[divórcio]], ou [[poligamia]] são interpretados de forma variada por diferentes [[igreja]]s cristãs.
+#O paradoxo criado pela ''[[Teoria dos Múltiplos Jesuses]]'' que acaba por desacreditar essa prova. 
+#Deve-se considerar que a [[Bíblia]] não é o livro sagrado de diversas religiões não-cristãs como o [[Islamismo]], [[Budismo]], [[Comunismo]], [[Capitalismo]] e [[masturbação|Onanismo]], [[etc|entre outras]].
+
+== Prova imaginária ==
+Seu professor de Cálculo II:
+
+<big>
+{|style="border:1px solid black" width=100%
+|Tome a reconhecida sequencia de igualdades:
+|align="center"|<math> \textstyle 1= \frac{-1}{1}= \frac{1}{-1}</math>
+|-
+|Usando o segundo e terceiro termos da série de igualdade temos:
+| align="center"|<math> \textstyle 1= \frac{-1}{1}= \frac{1}{-1}</math>
+|-
+|Aplicando a raiz quadrada em ambos os lados da igualdade...
+|align="center"| <math> \textstyle \sqrt{\frac{-1}{1}}= \sqrt{\frac{1}{-1}}</math>
+|-
+|Separando as raízes no divisor e no dividendo de cada fração:
+|align="center"|<math> \textstyle \frac{\sqrt{-1}}{\sqrt{1}}= \frac{\sqrt{1}}{\sqrt{-1}}</math>
+|-
+|Extraindo <math> \textstyle \sqrt{1}</math> e uma vez que <math> \textstyle \sqrt{-1}=i</math>, podemos escrever:
+|align="center"|<math> \textstyle \frac{i}{1} = \frac{1}{i}</math>
+|-
+|Multiplicando cada lado da identidade por <math> \textstyle \frac{1}{2}</math> ...
+|align="center"|<math> \textstyle \frac{i}{2} = \frac{1}{2i}</math>
+|-
+|Ainda, somando-se <math> \textstyle \frac{3}{2i}</math> em cada termo...
+|align="center"|<math> \textstyle \frac{i}{2} + \frac{3}{2i} = \frac{1}{2i} + \frac{3}{2i}</math>
+|-
+|Usando o m.m.c. (mínimo múltiplo comum) entre <math> \textstyle \frac{i}{2}</math> e <math> \textstyle \frac{3}{2i}</math> (a saber <math> \textstyle 2i</math>) para igualar os denominadores do primeiro termo da igualdade, chegamos a...
+|align="center"|<math> \textstyle \frac{i^2}{2i} + \frac{3}{2i} = \frac{1}{2i} + \frac{3}{2i}</math>
+|-
+|Simplificando os <math> \textstyle 2i</math> em ambos os lados da igualdade, temos:
+|align="center"|<math> \textstyle i^2 + 3 = 1 + 3</math>
+|-
+|Como <math> \textstyle i=-1 </math>, chegamos a:
+|align="center"|<math> \textstyle -1 + 3 = 1 + 3</math>
+|-
+|Ou seja...
+|align="center"|<math> \textstyle 2 = 4</math>
+|-
+|Que, divididos ambos por <math> \textstyle 2 </math>, representam:
+|align="center"|<math> \textstyle 1 = 2 </math>
+|-
+!colspan="2"|Como queriamo... (ahm!?) tem alguém acordado?<small>(ZzZZZzzzZZZZZzzzzzzZzZz...)</small>
+|}
+</big>
+
+=== Críticas à prova imaginária ===
+# [[Arquivo:Dormindo em sala.jpg|50px]]
+# É muito ''imaginária''.
+# É muito ''complexa''.
+# {{C|Mas professor, <math>\sqrt{-1}</math> aceita dois valores conjugados no Universo Compl... aí!! Doeu!|[[Gênio|Ultranerd]]|Prova Imaginária, pouco antes de ser atingido pelo apagador}}
+#Analogamente a [[2=1#Críticas à Prova Classíca|Crítica à Prova Classíca]], se 2=1 então Cálculo II = Cálculo I, e nessa matéria você já passou, senão não estaria cursando o II.
+# Se 1=-1/1, então: 1=-1 ..... wtf??
+
+== Prova extremamente idiota ==
+Sua [[guria retardada|irmazinha]] da 5ª série diz:
+
+<big>
+{|style="border:1px solid black" width=70%
+|Qualquer idiota sabe que...
+|align="center"|<math> \textstyle \frac{0}{0}= \frac{0}{0}</math>
+|-
+|Um número sobre ele mesmo vale '''1''', e zero sobre qualquer número vale '''0''' (''daahh-ahh''), então:
+| align="center"|<math> \textstyle 0=1</math>
+|-
+|Agora soma '''1''' de cada lado, gênio:
+|align="center"| <math> \textstyle 1=2</math>
+|-
+!colspan="2"|A-HA, VIU SÓ! Te peguei, bobão! Te peguei...<small>[[risada diabólica|MWAHAHAHAHHAHAHAHAHAHAHAHA...]]</small>
+|}
+</big>
+=== Críticas à prova extremamente idiota ===
+#{{C|<big>'''[[ou não|NÃO!!!!!]]'''</big>|Você|a Prova Extremamente Idiota, pouco antes de socar sua irmãzinha}}
+
+== Prova simples ==
+Qualquer idiota pode dizer que:
+<big>
+{|style="border:1px solid black" width=70%
+|Suponha as seguintes igualdades:
+|align="center"|<math> \textstyle 2-2=0; 0=0; 1-1=0</math>
+|-
+|Logo:
+| align="center"|<math>\textstyle 2-2 = 1-1</math>
+|-
+|Colocando (1-1) em evidência dos dois lados da igualdade:
+|align="center"| <math> \textstyle (1-1) \times 2=(1-1)</math> <math>\textstyle \times 1</math>
+|-
+|Dividindo os dois lados da igualdade por (1-1):
+|align="center"| <math> \textstyle 2=1</math>
+|-
+|}
+</big>
+=== Críticas a prova simples ===
+* Como visto anteriormente, 1-1=0, logo é impossível por 0 em evidência e isso até tua mãe sabe.
+
+== Consequências ==
+*Se tenho R$1, na verdade tenho R$2.
+*A [[mulher]] possui uma [[boca]], na verdade ela possui duas (por isto que elas falam tanto!).
+*O artigo [[2]] deveria ser redirecionado para o artigo [[1]], e vice-versa. O que causa um redirecionamento infinito, motivo dos bugs do [[servidor da Desciclopédia]].
+*2+2=4, logo 1+1=4, e se 1+1=2, logo 1=2=4.
+*[[Átila, o Huno]], na verdade é Átila, o Duno.
+*[[D. Pedro I]] seria [[D. Pedro II]] e vice-versa, [[ou não]].
+*[[Tio1.jpg]] e [[Tio2.jpg]] são o mesmo tio.
+*[[Você]] é [[Gay|Unicha]].
+*Que depois do [[Ensino Médio]], você irá para [[Universidade|Biversidade]].
+*A [[França]] é bicampeã mundial.
+*Existem 2 [[Chuck Norris]] (gostaria de vê-los lutando).
+*Quando você tira par ou ímpar, mostra 2 e perde, na verdade você ganha.
+*Quando você tira par ou ímpar, mostra 1 e ganha, na verdade você perde.
+:::;Corolário 1 (ou seria 2?)
+:::Se <math>\textstyle 2 = 1</math> então <math>\textstyle 1 = 2</math>, por comutatividade.
+*Se 2 = 1, somando 1 de cada lado fica 3 = 2, ou seja, 1 = 2 = 3, somando 2 de cada lado, fica 3 = 4, ou seja, 1 = 2 = 3 = 4, e assim sucessivamente. Ou seja, todos os números são iguais!
+
+== Paradoxo ==
+Tomemos as duas afirmações (A e B) a seguir:
+*A: 2=1
+*B: A [[Alemanha]] venceu a [[Segunda Guerra Mundial]]
+As provas confiáveis apresentadas anteriormente demonstram que 2=1. Portanto, a afirmação A é verdadeira. Por outro lado, qualquer [[Você|otário]] sabe que 1 '''NÃO''' é igual a 2. Portanto, a afirmação A é falsa (na álgebra Booleana, escrevemos ¬A, para indicar negação). Sabemos também que a Alemanha não venceu a Segunda Guerra Mundial. Portanto, a afirmação B é falsa.
+
+Vamos pensar um pouco: se A é verdadeiro e A é falso [[Murphydinâmica Quântica|ao mesmo tempo]] e B é falso, portanto B é verdadeiro.
+
+Em outras palavras:
+
+A ∧ ¬A ∧ B → ¬B
+
+Esse mesmo princípio se aplica a qualquer afirmação. Ou seja, toda afirmação verdadeira é falsa, ou seja:
+
+X → ¬X
+
+Esse princípio pode levar a consequências avassaladoras, como por exemplo:
+*[[George Washington]] está vivo.
+*A Lua é feita de plástico.
+*Você é inteligente.
+*Você é hetero.
+*Todos os números são iguais a [[42]].
+
+Alguns [[Física|físicos teóricos]] acreditam que essa incrível demonstração [[Matemática|matemática]] explica como o [[Mundo do Contra]] surgiu. Todas as afirmações que são verdadeiras no mundo real tornam-se falsas num universo paralelo, e vice-versa, assim evitando [[Paradoxo|paradoxos]]. Segundo essa teoria, o único lugar do Mundo do Contra no qual as leis da [[Física]] e da [[Lógica]] funcionam normalmente é a [[União Soviética]], já que lá a [[Reversal Russa]] é revertida. ([[WTF]]?)
+
+== Ver também ==
+*[[Divisão por zero]]
+*[[1]]
+*[[2]]
+*[[Lógica]]
+
+[[Categoria:Matemática]]
+
+[[bar:1=2]]
+[[es:1=2]]
+[[it:1=2]]
+[[ja:1=2]]
+[[ko:1=2]]
+[[zh:1=2]]

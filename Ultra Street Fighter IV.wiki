@@ -1,0 +1,38 @@
+{{Game}}
+{{Infobox Game
+|title     = Ultra Super Hyper Street Fighter IV V
+|image     = Ultra Street Fighter IV cover.jpg
+|caption   = Capa do jogo
+|developer = [[Capcom]]
+|publisher = [[Capcom]]
+|released  = 2014
+|genre     = Luta de rua
+|rating    = Indefinido
+|platform  = Um monte de console
+|ages      = Livre
+}}
+
+'''Ultra Street Fighter IV''' é mais um relançamento de [[Street Fighter IV]], resultado da incansável [[Capcom]] em seu objeto claríssimo de saturar o mercado com seu título. Em pleno 2014 a Capcom recusa-se veementemente em seguir o exemplo das outras empresas mercenárias como [[Electronic Arts]], [[Team Ninja]], etc que simplesmente criam [[DLC]]s a preços extorsivos do que ficar relançando o mesmo jogo de novo e de novo. Ninguém sabe porque, mas a Capcom relançou o Street Fighter IV de novo, mesmo na eminência de já lançar o [[Street Fighter V]].
+
+Pelo menos quem tinha [[Super Street Fighter IV]] ou [[Super Street Fighter IV: Arcade Edition]] não precisou da sacanagem de comprar um outro relançamento, pois as coisas do Ultra (que nem são tantas assim mesmo) estavam disponíveis para compra via DLC a um preço nada amistoso.
+
+== Novidades ==
+
+Após já ter relançado Street Fighter IV umas 10 vezes em menos de 8 anos, não havia muito mais o que a Capcom acrescentar ou inventar pra chamar de novo e justificar qualquer relançamento, mas é aí que vem a genialidade, criatividade e engenhosidade da Capcom e porque essa empresa está a tantos anos no mercado. Porque se não existe mais nada de novo pra ser criado ou inventado, então basta você inventar uma ferramenta "nova" que vai permitir o jogador escolher qualquer estilo específico de qualquer um dos relançamentos anteriores, e por isso está ali a opção do ''"Edition Select"'' que vai permitir o jogador escolher jogar o [[Street Fighter IV]], [[Super Street Fighter IV]], [[Super Street Fighter IV: Arcade Edition]] ou [[Super Street Fighter IV: 3D Edition]], passando a sensação de que há 4 jogos em um, que na verdade é tudo o mesmo jogo que vale menos do que um jogo sozinho. Simplesmente genial. E todo mundo ainda compra.
+
+Outras novidades menores de gameplay é que agora é possível realizar o Double Ultra, que nada mais é do que a chance de assistir mais de um filminho do fatality. Há algumas outras adições em relação à jogabilidade, mas coisas que apenas aqueles nerds mais viciados se importam, nada que uma pessoa casual que quer apenas se divertir ou ver a calcinha da Chun-li vai se importar.
+
+E os personagens "novos" trazidos para esse relançamento são basicamente reciclagem de quem chamou atenção em [[Street Fighter X Tekken]], que são o [[Rolento]], a [[Elena]], o [[Hugo Andore|Hugo]] e a [[Posion (Final Fight)|Poison]]. A única estreia real é da [[Decapre|Evil Cammy]], seguindo a tendência de que todo personagem de Street Fighter tem sua versão "Evil" depois que o Ryu lançou essa moda, afinal, essa é a forma mais fácil de criar "novos personagens" sem precisar de tanta criatividade, com o tempo vai ser possível trazer uns 50 "personagens novos" só inventando as versões "Evil" de cada um.
+
+{{Street Fighter}}
+
+[[Categoria:Jogos lançados em 2014]]
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para PlayStation 3]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos de luta]]
+[[Categoria:Versões atualizadas de jogos]]
+[[Categoria:Pacotes de expansão e DLCs de jogos]]

@@ -1,0 +1,21 @@
+{{computeiro}}
+
+{{c|Aí Maicão, o sistema de controle parental que desenvolvi tá mó bom, né?|Desenvolvedor falando com o controlador de qualidade}} 
+
+{{c|Tá ótimo, acabei de baixar a Playboy daquela BBB gostosa...|Controlador de qualidade sendo irônico depois de ser subornado pelo amigo}}
+
+'''Desenvolvimento e Operações''', [[WTF?|siglonimizado em camel case de acordo com o titulozinho aí]] é a modinha que o [[Flickr]] lançou de juntar todos os trabalhadores de seu sistema num buraco só, ao invés de [[Dança do Quadrado|cada um no seu quadrado]].
+
+== História ==
+
+Antigamente tinha a mercearia, a quitanda, a avícola. Juntou tudo e deu um supermercado. Nesse caso juntou o desenvolvedor, o operador e o controle de qualidade e deu merda. Graças a globalização hoje existe o supermercado da [[Tecnologia da Informação|TI]]. De qualquer forma, assim como ficou mais fácil pedir balinha para a [[Tua mãe|mamãe]] quando ela quer meter uma cenoura na goela do filho, ficou mais fácil para o desenvolvedor subornar o controlador de qualidade.
+
+== Metodologia ==
+
+*Um por todos, todos por um! 
+*Uma mão lava a outra.
+*Quem é inimigo do meu inimigo é meu amigo.
+
+Ou seja, todo mundo se ajuda. Como sempre, baseado nas amizades que ditam as alianças entre os membros do grupo. Mas claro, sem aquela [[Burocracia|divisão chata entre departamentos]]. 
+
+{{Ampliar}}

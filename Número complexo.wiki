@@ -1,0 +1,107 @@
+{{matemática}}
+{{doido}}
+[[Arquivo:Engenharia.jpg|thumb|200px|Calculando números complexos.]]
+{{vqd|[[Esparta|<s>Spartaaaaaaaaaaaaa</s>]] Loucura?}}
+{{C|This is nadaaaaaaaaaaaaaaaaaaa!|Aluno|número complexo}}
+{{C|<math>\sqrt{-1} = i \,</math>|Professor de [[matemática]]|o que significa o i}}
+{{C|Então aquelas raízes quadradas negativas da [[porra]] da [[Bhaskara]] tem resposta? [[AAAAA|AAAAAAAAAAAAAAAAAAA!!!]]|Outro aluno|números complexos}}
+
+O '''Conjunto dos Números Complexos''', cujo símbolo matemático é <math>\mathbb{C}</math>, é o conjunto dos números que escaparam do conjunto dos números reais (vulgo <math>\mathbb{R}</math>), ou seja, eles não existem fora da imaginação ou da realidade dos esquizofrênicos. O que caracteriza esses números são as raízes quadradas de número negativo (que o teu professor de matemática da oitava série dizia que ''não pertencia aos reais'') ou ao famoso ''i'' chamado pelos matemáticos de ''unidade imaginária''. Qualquer <s>merda de</s> número complexo é escrito da seguinte forma <s>([[ou não]])</s>:
+
+:<math>Z = a+bi \,</math>
+
+Onde:
+* '''a''' é a ''parte real'';
+* '''b''' é o ''coeficiente da parte imaginária'' ([[WTF?]]);
+* '''i''' é a ''unidade imaginária'' ([[O RLY?]]);
+ 
+== História ==
+[[Arquivo:Nerd 385x261.jpg|thumb|210px|[[Gauss]] durante seu estudo dos números complexos.]]
+Descobertos e estudados por <s>[[nerd]]s</s> matemáticos como [[Gauss]], [[Leonhard Euler|Euler]] e [[Bhaskara]] (como você acha que ele encontrava as respostas das raízes quadradas negativas?), esse conjunto sempre foi difícil de ser entendido porque ábacos e nem calculadoras conseguem calcular esses valores. Inclusive, tanto nos mostradores das calculadoras quanto nos mostradores dos ábacos aparecia a mensagem ''Math error''. 
+
+Devido a isso e mais ao fato dos números complexos serem sempre ignorados por quase todo mundo, levou esses números a se tornarem traumatizados (ou segundo [[Sigmund Freud|Freud]] explica, criaram um ''complexo de inferioridade'', principalmente perante os números reais) levando os cientistas já citados a dar o <s>[[cu]]</s> nome de '''número complexo''' aos números que pertencem a este conjunto.
+
+== A unidade imaginária ==
+
+Termo desenvolvido por [[Leonhard Euler]] em meados de 1700 e pau com corda, a unidade imaginária é tratada como ''a raiz quadrada do número -1'' (ou seja, <math>\sqrt{-1} = i \,</math>) e é o que faz qualquer número virar um número complexo. Qualquer raiz quadrada exata de número negativo pode ser resolvida, colocando-se o ''i'' junto da resposta. Exemplo:
+
+:<math>\sqrt{-36} = 6i \,</math>
+[[Arquivo:Prova Resolvida.jpg|thumb|250px|Exercício cuja resposta é um número complexo.]]
+Se o número não possui a unidade imaginária, ele não é <s>[[porra nenhuma]]</s> complexo, sendo apenas um mero número real. Um número que não tem a parte real é chamado de número complexo <s>ariano</s> puro (<s>[[nazismo|Hail, Hail, Hail!]]</s>).
+
+=== Potências da unidade imaginária ===
+
+De acordo com <s>a [[porra]] do</s> o expoente a que o '''i''' é elevado, os resultados podem ser diferentes, segundo a lista abaixo:
+<br />
+<math>i^{0} = 1 \, </math>; <br />
+<math>i^{1} = i \, </math>; <br />
+<math>i^{2} = -1 \, </math>; <br />
+<math>i^{3} = -i \, </math>; <br />
+<math>i^{4} = 0 \, </math>; <br />
+<math>i^{5} = \, </math> [[AAAAA]]; <br />
+<math>i^{6} = \, </math> [[Padre Quevedo|Nón ecziste]]; <br />
+<math>i^{7} = \, </math> [[...Ronaldo!]]; <br />
+<math>i^{8} = \, </math> [[dividir por zero]]; <br />
+<math>i^{9} = 0^{-1} \, </math>; <br />
+<math>i^{10} = \, </math> [[mol|6,02.10²³]]; <br />
+
+== Operações algébricas com números complexos ==
+[[Arquivo:Numerosdes.jpg|thumb|200px|Realizando operações com números complexos.]]
+{{C|Operação do [[coração]], amígdalas, apêndice e pedra nos rins!lPaty|as quatro operações fundamentais}}
+
+* '''Adição''': soma-se a parte real com a parte real e a parte complexa com a parte complexa (mas respeite os sinais negativos, [[caralho|cazzo]]!);
+* '''Subtração''': subtrai-se a parte real da parte real e a parte complexa da parte complexa (mas não vai se esquecer que o '''-''' na frente muda o sinal da [[porra]] toda);
+* '''Multiplicação''': aplica-se a propriedade distributiva, igual como se fazia com os reais (e quem disse que isso muda?);
+* '''Divisão''': coloca-se na forma de fração, na ordem dada <small>'''''(Ui!!!)'''''</small>, multiplica-se a merda toda pelo ''conjugado'' (veja <s>atrás</s> adiante) do denominador e simplifica-se (vulgarmente falando: ''corta'') o que [[você]] puder;
+
+=== Conjugado de um número complexo ===
+
+Considera-se o conjugado de um número complexo a+bi o número a-bi e vice-versa. Logo, o conjugado de um número é o mesmo número com o sinal do '''b''' trocado ([[O RLY?]]). Exemplos:
+[[Arquivo:Infinitoraiz.PNG|thumb|200px|A resposta para esse cálculo é um número complexo.]]
+* 7 +3i (número) e 7 -3i (conjugado);
+* [[AAAAA]] - [[...Ronaldo]].i (número) e [[AAAAA]] + [[...Ronaldo]].i (conjugado);
+
+== Módulo e argumento de um número complexo ==
+
+O módulo de um número complexo é a distância do número complexo à origem (ponto (0,0)). É calculado pela famosa [[Teorema de Pitágoras|fórmula do Tiu Pita]], porém, com as letras trocadas, para dar um charme a mais:
+
+:<math>P^{2} = a^{2} + b^{2} \, </math>
+
+Onde:
+* '''P''' (ou /z/) é o ''módulo do número'' (e vai se saber o porquê de ''P''?);
+* '''a''' é o valor da parte real <s>([[ou não]])</s>;
+* '''b''' é o valor da parte complexa (que tem o maldito '''i''' junto);
+
+O argumento de um número complexo é <s>o fato</s> o ângulo formado pelo sentido positivo do eixo real (vulgo eixo x) e o módulo do número ''(viu o porquê da fórmula de cima)'' que é medido sempre <s>em metros</s> no sentido antihorário (contrário ao relógio), saindo do eixo e <s>entrando</s> indo ao módulo. O ângulo pode ser calculado por meio de:
+[[Arquivo:Integral as region under curve.png|thumb|250px|Calcula o módulo disso!]]
+:<math> sinx = \frac {b}{P} \,</math>
+<br />
+:<math> cosx = \frac {a}{P} \, </math>
+
+Onde:
+* '''senx''' = [[Capitão Óbvio|seno do ângulo]];
+* '''cosx''' = [[nada|cosseno do ângulo]];
+* '''P''' = o módulo do maldito número (que você aprendeu a calcular ([[ou não]]) logo acima);
+
+== Representação gráfica ==
+
+Os números complexos, de forma parecida com as [[função|funções]], usam ''planos cartesianos ortogonais'' (vulgos eixos x e y). Porém, os números complexos usam o ''Plano de Argrand-[[Gauss]]'', com a diferença de que o eixo x é chamado de ''eixo real'' e o eixo y é chamado de ''eixo imaginário'', já que os matemáticos adoram dar nomes novos a qualquer merda. De resto, tudo é igual ao jeito que [[você]] aprendeu na sexta série de montar gráficos, com aquele seu professor que dizia que número complexo não existia.
+<br />
+[[Arquivo:Planocomplexo.gif|500px|center|thumb|Representação gráfica de um número complexo (ou será que é uma [[função]]?)]]
+
+== Ver também ==
+
+* [[Matemática]];
+* [[Função]];
+* [[Geometria Analítica]];
+* [[Número real]];
+
+== Ligações externas ==
+* [http://inexatas.blogspot.com/2011/09/numeros-complexos-os-amigos-imaginarios.html Números complexos: os amigos imaginários dos matemáticos]
+
+{{Números}}
+
+[[Categoria:Coisas de doido]]
+
+[[en:Complex numbers]]
+[[it:Numero immaginario]]

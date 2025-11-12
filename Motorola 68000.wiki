@@ -1,0 +1,15 @@
+{{Imagens}} 
+
+'''68000''' era o nome de um processador da [[Motorola|Motor-Rola]] que foi desenvolvido para dominar o mundo quebrando os Z80, 6502 e 8085 e outras porqueiras, sendo um processador concorrente dos famosos [[386]] e [[486]]. 
+
+No entanto, o chip também foi utilizado para operar em videogames mais fodidos do anos 80 até a metade dos anos 90, tais como [[Mega Drive]],[[Sega Saturn]] e [[Atari|Atari Jaguar]] Neogeo, tanto no arcade como no console.
+
+Segundo informações, além deste processador, se teriam outras versões, se copiando o modelo [[Intel]] de produção de chips, baseando o renomeamento desses chips de forma numérica, sendo o primeiro o 68000, o segundo 68010, o terceiro 68020, o quarto 68030 e o quinto 68040. Disso eles se tornaram ColdFire, e sao usados ate hoje por ai, mas a Freescale se encheu de todo mundo falar que os ARMs são melhores e mais baratos que esta querendo encosta-los.
+
+Enquanto o Z80 é o processador preferido dos nerds comuns o 68000 é a verdadeira ferramenta de dominação do mundo usado pelos nerds grão mestres de uma ramificação secreta dos iluminatis que se comunicam por BBS.
+  
+Para quem não sabe, o nome [[486]] dos chips da Intel era apelido, uma vez que o verdadeiro "nome do chip" era 80486, em especial para lembrar que o chip foi desenvolvido nos [[anos 80]] especialmente para rodar drogas como [[MS-DOS]] e [[Windows]] nas suas versões mais [[vagabundo|vagabundas]].
+
+{{esboço}}
+
+[[Categoria:Microprocessadores]]

@@ -1,0 +1,62 @@
+==Programação Orientada a Mouse==
+
+Também conhecida como programação orientada a botão ou Pob! a programação orientada a Mouse consiste em utilizar compiladores que tenham tambem funções de design de interface, como por exemplo o [[Delphi]], [[Visual Basic]], B Builder, o Net Beans,Java, Uniface etc.. para construir programas express que só o programador inicial consegue entender como aquela porcaria funciona e só ele pode fazer alterações (é uma boa maneira de se manter um emprego em uma empresa importante)
+
+OBS: pode ser feito em qualquer compilador na prática, mas se não tiver a função de design de interface, o sistema perde um pouco de seu atributo express!
+
+==Etapas da Programação Orientada a Botão==
+
+Primeiro defina o que você quer fazer:
+
+ Sistema de Gerenciar Churrasco
+
+Depois defina quais são as funcionalidades que seu programa precisa ter:
+
+ Funcionalidades (descrição basica)?
+   Cadastrar um convidado
+   Cadastrar um tipo de carne
+   Cadastrar bebida
+   Cadastrar quem leva os bêbados pra casa      
+   Cadastrar quem vai fazer a churrasqueira
+   Cadastrar tomates pro vinagrete
+   Cadastrar cebola pro vinagrete
+   Cadastrar pão
+   Fazer soma do total e dividir pelo número de convidados
+
+Agora, define-se um nome simples para cada funcionalidade (ou une 2 em uma):
+
+   Cadastra convidado
+   Cadastra carne
+   Cadastra bebida
+   Cadastra carro-vomito      
+   Cadastrar churrasqueiro
+   Cadastrar outros
+   Mostrar resultado
+
+O próximo passo é criar um botão pra cada funcionalidade e programar só dentro do botão! Em nenhum outro lugar! Nos programas orientados a botão, é sempre bom colocar um monte de coisa dentro de uma função main em vez de fazer uma função especifica. Lembre-se: quanto mais imbecil, melhor!
+
+==Leis importantes da programação no botão==
+
+*Variavel? Porque nao global? (quanto mais globais melhor, mais facil, nao tem que se preocupar se a merda é public ou private.. é global e pronto)
+*Pra que for ou while se existe goto? (alem de mais rapido, é mais confuso, e só quem fez entende de cara o motivo daquilo estar la)
+*Mais de uma classe? pra que se eu posso programar estruturado dentro de cada botao?
+*Documentacao? SIM, isso parece uma falha no sistema mas nao é! Mesmo assim, não precisa nem deve explicar o que faz cada função, mas é sempre bom explicar com suas proprias palavras o que faz uma ou outra coisa estranha que você inventou na hora, porque você provavelmente vai esquecer dai 2 dias
+*Pra que usar um SGBD se podemos colocar tudo em um arquivo texto? (fica tudo mais cheiroso num .ini mofado!)
+
+==Exemplo==
+ //É pra aumentar a funcao la do tomate podre
+ for (aaab=0;Tomatao(carneixon(funcao1(b)));Chur++)
+ {
+   b = Calcres(Chur);
+ };
+
+
+[[Arquivo:Programacaonobotao.JPG]]
+
+==Ver também==
+* [[Programação Orientada a Gambiarras]]
+
+
+[[Categoria:Paradigmas de programação]]
+[[Categoria:Ciência da computação]]
+[[Categoria:Práticas milenares]]

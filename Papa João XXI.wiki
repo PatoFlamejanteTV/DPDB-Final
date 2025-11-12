@@ -1,0 +1,51 @@
+{{Info papa|
+|nome do papa     = Papa João XXI
+|imagem           = Papajoaoxxi.jpg
+|ordem            = 187
+|nome             = Pedro Julião
+|data_nascimento  = Entre 1205 e 1226, ninguém <br>lembrou de anotar
+|local_nascimento = {{POR}}
+|inicio           = [[20 de Setembro]] de 1276
+|fim              = [[20 de Maio]] de 1277
+|predecessor      = Adriano V
+|sucessor         = Nicolau III
+|data_morte       = [[20 de Maio]] de 1277
+|local_morte      = {{Flag|Bandeira dos Estados Pontifícios (752–1870).png|Estados Papais|Bandeira do Vaticano}}
+|cargo            = Cardeal, músico de [[fado]] e<br>dono de padaria
+}}
+
+{{c|Vai [[Benfica]]!!|Papa João XXI em uma missa papal}}
+
+'''Papa João XXI''', nascido ''Pedro Julião Manoel Joaquim'' ([[Lisboa]], 1215  — [[Templo Jedi]], 20 de maio de 1277) entrou para a história como o primeiro e único [[papa]] [[Portugal|purtugaish]] até hoje, ainda hoje lembrado com carinho pelo maior feito de seu pontificado que foi ter [[sexo|introduzido]] o bacalhau e o vinho do Porto na dieta do [[Vaticano]].
+
+==Origens==
+
+[[Arquivo:PapaJoaoXXI.jpg|thumb|left|160px|João XXI ministrando uma de suas homilias, repare que o bigode lusitano mal deixa ele pronunciar as palavras]]
+
+''Pedro Julião Rebolo e Pego na Cintura'' nasceu em [[Lisboa]], numa data que ninguém ligou de registrar que se supõe que seja 1205, outros dizem que foi antes de 1210, possivelmente em 1205 ou 1207 e outros ainda entre 1210 e 1220 volts. 
+
+Ao contrário dos demais garotos portugueses da época que seguiam o costume de trabalhar da vinícola do pai pisando nas uvas, o jovem Pedro, após passar no [[ENEM]], foi cursar seus estudos na universidade lisboeta, onde se concentrou na [[medicina]], [[teologia]], <s>i</s>[[lógica]], [[física]] e [[metafísica]] pra entender melhor a ciência do bigode e do cozimento do bacalhau. Mais tarde, após entrar para a Igreja Católica, o menino Pedro virou o conselheiro e puxa-saco número 1 do rei de [[Portugal]] em assuntos eclesiásticos.
+
+Anos depois Pedro Julião tentou virar bispo de Lisboa, porém, após perder a vaga num campeonato de [[gamão]] com o resto dos padres, teve que se contentar em virar diretor da faculdade onde estudava (que transformou num ''Centro de Estudos Bacalhoísticos e do [[Cacetinho]]''). Até que em 1271 o papa [[Papa Gregório X|Greg X]] fica com pena do portuga, contratando-o como seu [[urologista|médico papal]].
+
+==Papado==
+
+Após puxar muito o saco gregoriano, em 1276 Pedro finalmente foi eleito papa, para o delírio de toda a torcida benfiquista que assistia seu conclave ao vivo pela [[RTP]]. Um dos poucos atos de seu pontificado foi o de instituir o [[vinho do Porto]] como vinho oficial da eucaristia e o bacalhau como peixe padrão na dieta católica. Seu papado foi curto, só 8 meses, pois após um conflito com o português da padaria rival o mesmo derrubou o apartamento em que ele morava, fazendo o pontífice morrer de morte morrida embaixo dos escombros.
+
+Porém a maior marca de seu pontificado foi ter feito uma das maiores cagadas do Vaticano na escolha do nome papal, escolhendo o nome João XXI mesmo sendo o papa de número XX, gerando um [[limbo]] que iria durar até os dias do seu tataratataratataratataraneto [[Papa João XXIII|João XXIII]].
+
+Foi sucedido pelo ginecologista [[Papa Nicolau III]].
+
+{{caixa de sucessão
+|título=[[Arquivo:Bento 16 saudando.jpg|75px]]<br>[[Papa|Síndico de Deus]] nº 187|
+anos=[[1276]] - [[1277]]|
+antes=[[Adriano V]]|
+depois=[[Nicolau III]]
+}}
+{{Papas}}
+
+[[Categoria:Papas|Joao21]]
+[[Categoria:Papas de Portugal|Joao21]]
+[[Categoria:Bigodudos]]
+
+{{Portal3|Portugal}}

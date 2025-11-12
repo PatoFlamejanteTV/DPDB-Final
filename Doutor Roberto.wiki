@@ -1,0 +1,396 @@
+{{Melhores}}
+<choose>
+<option>{{Luz}}</option>
+<option>{{Rico}}</option>
+<option>{{Inteligente}}</option>
+</choose>
+{{Nova Infobox
+| border      = none
+| background  = #c0c0c0
+| estilo      = 
+| imagem      = Drroberto.jpg
+| imagem-tamanho  = {{{imagem-tamanho|{{{imagem_tamanho|200px}}}}}}
+| legenda     = '''Doutor Roberto''' momentos depois de [[Cheiramento de gatinhos|cheirar sua gatinha]] favorita, a [[Mimosa]].
+| título      = {{{apelido|Doutor Roberto}}} [[Arquivo:Ignobel_award.gif|20px|Prémio Ignóbil|link=Prêmio IgNóbil]]
+| subtítulo   = {{{nome_alt|}}}
+| largura     = {{{largura|}}}
+| tópico-estilo   = background-color: #c0c0c0
+<!--- Título principal --->
+| tópico1     = Informação pessoal
+|   rótulo1   = '''Nascimento'''
+|   dados1    = [[14 de Dezembro]] de [[1882]]<br>{{flag|Bandeira_do_Acre.png|Rio Branco}}, [[Acre]]
+|   rótulo2   = '''Nacionalidade'''
+|   dados2    = [[Brasil]]eiro e [[Portugal|português]]
+|   rótulo3   = '''Religião'''
+|   dados3    = [[Pastafarianismo]]
+|   rótulo4   = Antecessor
+|   dados4    = {{{antecessor|{{{antes|{{{antes1|}}}}}}}}}
+|   rótulo5   = Sucessor
+|   dados5    = {{{sucessor|{{{depois|{{{depois1|}}}}}}}}}
+
+<!---Outros títulos--->
+<!---Título 2--->
+| tópico6     = Família
+|   rótulo6   = '''Pais'''
+|   dados6    = [[Português da padaria]]<br>Mãe desconhecida
+|   rótulo7   = '''Esposa'''
+|   dados7    = [[Dercy Gonçalves]]
+|   rótulo8   = '''Amante'''
+|   dados8    = [[Silvia Saint]]
+|   rótulo9   = Antecessor
+|   dados9    = {{{antes2|}}}
+|   rótulo10   = Sucessor
+|   dados10    = {{{depois2|}}}
+<!---Título 3--->
+| tópico11     = 
+|   rótulo11   = Período
+|   dados11    = {{{mandato3|}}}
+|   rótulo12   = {{#se:{{{vice_presidente3|{{{vice-presidente3|}}}}}}|Vice-presidente|{{{vice_título3|}}}}}
+|   dados12    = {{{vice-presidente3|{{{vice3|}}}}}}
+|   rótulo13   = Primeiro-ministro
+|   dados13    = {{{primeiro-ministro3|}}}
+|   rótulo14   = Antecessor
+|   dados14    = {{{antes3|}}}
+|   rótulo15   = Sucessor
+|   dados15    = {{{depois3|}}}
+<!---Título 4--->
+| tópico16     = Informação profissional
+|   rótulo16   ='''Área'''
+|   dados16    = [[Ginecologista|Ginecologia]], [[epistemologia]], [[humor]]
+|   rótulo17   = '''''Magnus Opum'''''
+|   dados17    = ''[[Deslivros:On the Mafagafians and other Essays|On Mafagafians and other Essays]]''
+|   rótulo18   = '''Membro de'''
+|   dados18    = [[Fundação Desciclomídia|Desciclomedia Fudetion]]
+|   rótulo19   = '''Distinções'''
+|   dados19    = [[Prêmio IgNóbil]]<br>[[Guiness Desciclopédia Records]]
+|   rótulo20   = '''''Website'' oficial'''
+|   dados20    = [https://web.archive.org/web/20031003081234/http://www.drroberto.blogger.com.br:80/ Blogue do Dr. Roberto]
+|   rótulo21   = '''Página de usuário'''
+|   dados21    = [[Interno:Usuário:Doutor Roberto|Usuário:Doutor Roberto]]
+}}
+
+{{Você quis dizer|[[Robert Smith]]}}
+{{Você quis dizer|[[Jean Piaget]]}}
+{{Experimente também|[[Boris Casoy]]}}
+{{C|Simplesmente o MAIOR gênio da comunicação de toda a [[história]] da humanidade|Pedro Bial|Dr. Roberto}}   
+{{C|... !!!!|Doutor Roberto|o teste do sofá}}    
+{{C|Só não sou seu pai porque [[tua mãe|sua mãe]] não tinha troco pra dez|Oscar Wilde|Dr. Roberto}}    
+{{C|Espero que o seu inglês seja melhor que o seu português.|Roberto Justus|Doutor Roberto}}   
+{{C|Um [[monstro]] sagrado da literatura. Grande figura humana, tanto no pessoal, quanto no profissional...|Fausto Silva|Doutor Roberto}}
+{{C|Ele é uma gracinha|Hebe Camargo}}
+{{C|Mestre!!!|Nelson Rodrigues|Doutor Roberto}}   
+{{C|Don't call my name, Roberto! Ale, Alejandro!|Lady GaGa|Doutor Roberto}}
+{{C|Ring my friend I said you’d call Doctor Robert...|[[The Beatles]]|Doutor Roberto}}  
+[[Arquivo:Doutor Roberto jovem.jpg|thumb|widthpx|Dr. Roberto quando adolescente, por volta de [[1900 e guaraná com rolha]].]]                 
+
+
+[[Arquivo:Drroberto desnoticias sagaz.jpg|thumb|250px|'''Doutor Roberto''' apresentando seu programa de notícias na [[Desciclopédia TV]].]]
+
+'''Doutor Roberto, o Fundador e Patrono Absoluto da [[Desciclopédia]]''', conhecido também como '''o Supercalifragilisticoespialidociosonico Pica das Galáxias Perdidas do Último Futuro do Universo Quântico do Vale do Silício, Senhor Lorde Negro dos Sith Imperial, Grande Mafioso Supremo, Santidade Desciclopédica Onipotente, Comandante dos Cavaleiros que dizem 'Ni', Rei Generalíssimo, Conde, Patrono, Reitor, Profeta, Alto Monarca, Califa, Imperador Romano, Grão-mestre, Governador, Führer, Salvador da Pátria, Duque de Caxias, Sacro Imperador Romano Germânico, Pajé, Professor, Capitão, Lorde Chefe da Guarda Suíça Vaticana, Senador, Pai de Santo, Babalorixá, MC Master of Puppets & Muppets Mestre Conselheiro Universal Vitalício, até morto, Libertador Professor [[Murphydinâmica Quântica|Físico Quântico]] Sir Doutor [[Engenharia|Engenheiro]] [[Engenharia Química|Químico]] [[Agronomia|Agrônomo]] [[Engenharia Mecânica|Mecânico]], [[Engenharia de Produção|de Produção]], [[Engenharia Elétrica|Eletricista]], [[Engenharia de Computação|de Computação]], Marechal, Regente, Arcebispo, Primeiro-ministro, Criador da Teoria da Conspiração, Ditador, VJ, Papa, Majestade, Dono da Verdade Absoluta e Conhecimento da Galáxia, Almirante, Rabino, Darth Soberano Barão Conde Marquês dos Highlanders, Comandante Supremento do Clube dos Batutinhas, Comandante-em-chefe do [[Exército da Desciclopédia]], Intermediador entre ET e Humanos, Fundador da Brigada Suprema dos Soldados Invencíveis, Lorde Negro da Limpeza, Cappo di tutti Cappi da Fundação Desciclomídia, O Sábio Conselheiro, Sensei e Mestre de Chuck Norris, O Ancião Precursor e Mais Nobre Intelectual da Verdadeira Única Inigualável e Imbátivel Filosofia Albertiana, O Único e possível alterego de [[Oscar Wilde]]''', ou simplesmente, como é mais conhecido, '''Doutor Roberto''' (Acre, 1846 — Bahia, 1990), foi um polímata [[brasil]]eiro. 
+
+Atuou como astrônomo, astrofísico, cosmólogo, biólogo, biomédico, desinsetizador, desratizador, expurgador de pragas urbanas, anatomista, biofísico, ecólogo, embriólogo, endocrinólogo, ficólogo, fisiólogo, geneticista, histólogo, imunólogo, himnólogo, microbiólogo, neurobiólogo, neurocientista, paleontologista, patologista, xenobiólogo, zoólogo, químico, bioquímico, alquimista, físico, biofísico, geofísico, geocientista, geógrafo, biogeógrafo, climatologista, geólogo, geomorfólogo, glaciólogo, hidrólogo, meteorologista, minerálogo, oceanografista, paleontólogo, pedologista, sedimentologista, vulcanologista, bioengenheiro, farmacêutico, terapeuta, dicionarista, físico experimental, arqueólogo,  fisioterapeuta, fonoaudiólogo, cardiologista, coloproctologista, dermatologista, oftalmologista, pneumologista, urologista, veterinário, nutricionista, odontologista, dentista, endodontista, implantodontista, odontopediatra, odontogeriatra, ortodontista, periodontista, tarólogo, matemático, algebrista, analista, contador, geometrista, topólogo, arquiteto de computadores, operador de banco de dados, operador de computação gráfica, engenheiro de software, puta de luxo, engenheiro de pesca, gerenciador de projetos de software, operador de inteligência artificial, operador de interação humano-computador, programador, linguístico de programação, ferramenteiro, numismata, soldador, operador de rede, criador e operador de robôs, operador de sistemas de informação, operador de sistemas operacionais, teórico da computação, cientista social, historiador, etno-historiador, antropólogo, geneticista de populações, etnogeógrafo, etnólogo, arqueólogo, psicolinguista, sociolinguista, telecomunicador, publicitário, economista, econometrista, historiador econômico, historiador do pensamento econômico, administrador, gestor, auditorista, perito, controladorista, arquiteto, urbanista, projetor arquitetônico, projetor paisagístico, desenhista urbano, desenhista arquitetônico, historiador de arquitetura, historiador de urbanismo, linguístico arquitetônico, designer, programador visual, desenhista industrial, marceneiro, ufólogo, funileiro, frentista, garoto de programa, batedor de carteira, projetor de conforto ambiental, vendedor ambulante, projetor de acústica arquitetônica, projetor de térmica arquitetônica, ergonomista, projetor de iluminação, construtor civil, mestre de obras, pedreiro, servente de pedreiro, orelha-seca, preservador de patrimônios, conservador arquitetônico, restaurador arquitetônico, planejador urbano, planejador regional, gestor urbano, político urbano, político de direito, esportista, sorveteiro, professor de educação física, anatomista, cinesiólogo, professor de ginátisca, corredor, saltador, arremessador, jogador de handebol, jogador de futebol, jogador de basquete, jogador de vôlei, jogador de futsal, ginasta olímpico, alpinista, esquiador, artista plástico, compositor de artes plásticas, pintor, escultor, desenhista, gravurista, músico, cantor, compositor musical, professor de música, historiador de música, teórico de música, operador de guindaste, tosador, diretor de música, musicologista, etnomusiciologista, baixista, pianista, harpista, violonista, guitarrista, baterista, ator, historiador de artes cênicas, diretor de filmagem, produtor de filmagem, narrador, dublador, diretor de dublagem, escritor, poeta, soldado do Exército, soldado da Marinha, Soldado da Força Aérea, chefe de quartel, historiador militar, planejador militar, policial militar, policial civil, ex-membro da KGB, borracheiro, membro do BOPE, chefe do BOPE, oficial do FBI, oficial da Interpol, batedor de [[açaí]], empacotador profissional de salsicha e colocador de bolinha em apito. Doutor Roberto é o que pode se chamar de "gênio compreendido". Seus textos elucidativos e implacáveis tornaram-se parte da cultura [[Portugal|portuguesa]] e [[brasileiro|brasileira]] e quem sabe mundial, assim como a [[bunda]], a [[pinga|cachaça]] e o [[futebol]]. 
+
+[[Arquivo:Livrossss.jpg|thumb|'''Doutor Roberto''' também foi um grande cientista!]]
+
+{{Fatos}}
+{{Entrevista}}
+
+==Biografia==
+===Infância e adolescência===
+[[Arquivo:Ronald Golias.jpg|thumb|Doutor Roberto quando criança]]
+Nascido '''José Cândido do Nascimento das Batatas do Reino Acriano Vila Roberto''' precisamente em [[1900 e guaraná com rolha|1900 e guaraná, suco de caju, goiabada para sobremesa com rola]] (ou outro ano já que não sabem o ano certo do nascimento dele), conhecido no meio acadêmico, pirotécnico, agrícola, futebolístico, pornográfico, astral, entre outros, como "Robertinho" ou simplesmente "Doutor Roberto".
+
+[[Arquivo:Batata desciclo sem texto.gif|thumb|left|O famoso logo da [[Desciclopédia]] criado por Doutor Roberto, relembrando a infância de "Betinho"]]
+
+Nasceu o garoto que mudou o mundo, filho de dois fazendeiros que <s>faziam porra nenhuma</s> plantavam <s>maconha</s> batata, o jovem Roberto sempre quis descobrir o mundo, mas os pais nunca deixaram ele sair porque ele tinha que ajudar na plantação de <s>maconha</s> batata, mas em 1858 ele fugiu de casa para ir a cidade grande, [[Desciclopédia|Desciclocity]], mas antes de Betinho era chamada de "Terra da Amargura". 
+
+Lá chegando, foi aceito como engraxate 24h, um serviço que lhe rendia um centavo por dia trabalhado, o que dava para comprar um [[dolly]] e uma maria-mole com bexiguinha, que consumia para manter-se vivo(sim, inclusive a bexiga).
+
+Certo dia escapou-lhe uma [[flatulência]], fato que encheu uma das bexigas que se encontrava bem posicionada em seu [[ânus]]. Ao não reparar e sentar-se para engraxar mais um sapato, acabou por estourá-la, inventando assim, um dos pilares da [[televisão]] brasileira: A brincadeira de estourar bexiga com o cu, galgando assim um posicionamento ímpar dentre os pioneiros deste mercado.
+
+Então, sem [[porra nenhuma]], sem dinheiro, e só com uma cueca ele conheceu [[Jimbo Wales]] um grande <s>nerd</s> aluno da Universidade de Desciclocity (a Desciclouniversidade), onde os dois tinham uma grande amizade.
+
+[[Jimbo Wales|Jimbo]], então, deu uma bolsa de estudos a Roberto em 1862 já que ele era <strike>macumbado</strike> mancomunado com a universidade e em 1866, Roberto fugiu dela com o sonho de se tornar a única pessoa do mundo a ter todas as profissões possíveis e existentes <strike>se tornando posteriormente o maior rival da Barbie</strike>. 
+
+Aí em 1868 com a ajuda de [[Jimbo Wales|Wales]], comprou pela quantia de um [[peso]] [[Bolívia|boliviano]] e um pão mofado uma garagem e uma máquina de datilografar, criando os jornais desciclopes {{Aspas|O Grito}} e {{Aspas|Diz Aí}}, que depois se tornariam a [[Desciclopédia]].
+
+Roberto e [[Jimbo Wales|Jim]] fizeram  a primeira edição financiada por [[Sílvio Santos]] (na época, camelô) e que vendeu 5 cópias, muito pouco, mas  Robertinho não perdeu as esperanças e fez mais 7 edições que venderam 1 cópia cada, fazendo ele perder as esperanças.
+[[Arquivo:Crawhus.jpg|thumb|200px|Doutor Roberto rindo desse artigo]]
+Mas em 1877 tudo mudou, pois Dr. Roberto conheceu [[Jeremias José do Nascimento|Jeremias]], que ajudou na criação do site enciclopédico, que começou a subir e subir, então Dr. Roberto mudou o nome para Desciclopédia, sendo lida por muitos futuros [[descíclope]]s. 
+
+Em 1880, ele brigou com [[Jimbo Wales|Jimbo]] porque seu antigo amigo havia mudado para o lado das [[negro|afro-descendente]] das trevas vingadoras, formado pela tríade [[Rede Globo|Globo]], [[Google]] e [[Microsoft]]. 
+
+[[Jimbo Wales|Jim]] foi escorraçado do novo site por [[Jeremias José do Nascimento|Jeremias]] e resolver construir a [[Wikipedia]] para concorrer com a [[Desciclopédia]], porém numa versão cômica e isenta de verdades. 
+
+Depois da saída de [[Jimbo Wales|Jimmy]], a [[Desciclopédia]] se tornou um grande sucesso em vários lugares do mundo, exceto no [[Acre]], mas logo no século seguinte a [[Desciclopédia]] se tornou o jornal e revista mais famosa do [[Acre|pseudo-estado]] e depois do [[mundo]], foi quando Roberto, em gratidão e retribuição ao que tinha recebido, vendeu o site a [[Sílvio Santos]] por <s>1,00 reais</s> por 1 [[porra|porrilhão]] de dólares {{Aspas|Em barras de ouro que valem mais do que dinheiro}}, para seguir seu sonho de ser um físico e doutor. 
+
+E em 1910 ele já tinha um laboratório e fez sua primeira invenção: o [[Cheiramento de Gatinhos]], que no inicio era só para testar, mas foi a [[dorgas|dorga]] mais potente já criada no [[mundo]].
+
+{{c|...!!|Doutor Roberto|[[Cheiramento de Gatinhos]]}}
+{{c|U cão foi quem butô pá nóis cherá!!!|Jeremias José do Nascimento|[[Cheiramento de Gatinhos]]}}
+
+===Carreira como doutor===
+[[Arquivo:Doutor Roberto Latorraca.jpg|thumb|250px|'''Doutor Roberto''' atende pacientes no seu consultório no QG da [[Desciclopédia]]. ''Ao fundo podemos ver sua companheira [[Dercy Gonçalves]]''.]]
+
+Foi nessa época em que Dr. Roberto ficou conhecido internacionalmente e honrou o título de doutor onde ele criou várias invenções famosas como o [[lico de cair pinto]] e o [[Cheiramento de gatinhos]]. Em 1925, Dr. Roberto ganhou um [[Prêmio Nobel]] de física competindo com [[Albert Einstein]] mas no mesmo ano, ele comprou de volta a Desciclopédia estabelecendo um grande controle nas mentes das pessoas mas em 1930 ele vira o novo ditador e presidente da nação [[Desciclopédia]]na mudando o nome da cidade "terra da amargura" para Desciclocity, que seria o centro de todo universo.
+
+==Anos como ditador de Desciclo-States==
+Depois de ter assumido o controle dos estados descíclopes, causou grande polêmica e ''Jimbo Wales'' e ''Jimbo2'' declararam guerra a Desciclostates bombardeando Desciclocity, mas Dr. Roberto não desistiu e acabou com a Wikipédia, depois disso o reinado de Dr. Roberto ficou próspero até 1942.
+
+===Exílio e prisão===
+Depois de seu reinado próspero Dr. Roberto ainda comandava mas depois ele foi culpado por desviar gatinhos do parlamento descíclope fazendo com que ele fosse expulso e exilado e preso porque o desvio de gatinhos em Desciclocity é crime federal. Depois disso em 1950 Dr. Roberto é liberado do exílio e da prisão e sem nada partiu em uma viagem pelo mundo com seus amigos ''Chuck Norris'', ''Jeremias'' e ''Dercy Gonçalves'' para descobrir uma nova espécie de criaturas e durante uma parte da viagem Dr. Roberto descobriu a espécie chamada de ''[[mafagafo]]'' que foi tão importante que ele ganhou o prêmio de melhor cientista e ''Eisntein'' é só um imbecil que acha ser melhor que ''Betinho''. Depois disso Dr. Roberto sem mais dinheiro foi morar numa caverna com remorso da vida, e esses foram os últimos anos de Dr. Roberto, que faleceu em 1990.
+
+{{c|!...!?|Últimas palavras de Dr. Roberto}}
+===Morte===
+Depois de muita contribuição para o mundo, depois da descoberta da espécie dos [[mafagafos]], Dr. Roberto foi exilado para uma caverna onde viveu seus últimos anos trabalhando como professor da [[Escolinha Acarajé Feliz]] até sua morte. Com remorso de tudo que tinha acontecido na sua vida e no mundo, ele foi encontrado morto, segundo as fontes descíclopes de inteligência, que raramente estão certas, Dr. Roberto antes de falecer tinha cheirado uma grande quantidade de gatinhos que foram encontrados no quintal dele. 
+Ainda no velório depois que fecharam a tampa do [[caixão]] Doutor Roberto acordou assustado da morte de meteu uma bicuda na [[boca]] do [[coveiro]] com coice!
+
+==Desciclopédia==
+
+[[Arquivo:Teu avô cantando.jpg|thumb|left|Doutor Roberto em uma de suas apresentações musicais.]]
+
+{{principal|[[Desciclopédia]]}}
+
+A "[[Fundação Desciclomídia]]" foi fundada aproximadamente um século atrás por Doutor Roberto e financiada por [[Sílvio Santos]] para preservar a sabedoria da humanidade contra as trevas vindouras ([[Rede Globo|Globo]], [[Google]], [[Microsoft]] e [[Wikipédia]]). Doutor Roberto previu apenas três semanas antes de acontecer ao usar a ciência da [[psico]]-[[História da Arte|história-da-arte]].
+
+==Guerras Clônicas==
+[[Arquivo:Coleanos desfilando c Doutor Roberto.JPG|thumb|250px|[[Kim Jong Il|Darth Kim Jong Il]] e '''Doutor Roberto''' na última rodada de negociação para a paz nas [[Guerras Clônicas]] entre [[Wikipédia]] e [[Desciclopédia]]]]
+
+{{principal|[[Guerras Clônicas]]}}
+
+Doutor Roberto é peça importante junto à [[Desciclopédia]], representando peça chave nas [[Guerras Clônicas]], onde comandou diversas ofensivas como comandante das forças rebeldes da Resistência. Atualmente Doutor Roberto mudou a estratégia [[descíclopes|descíclope]], utilizando a negociação de paz junto ao [[Kim Jong Il|Darth Kim Jong Il]], comandante da [[Wikipédia]].
+
+==Prêmios==
+Por criar a [[Teoria da Relatividade]], outros teoremas matemáticos para reprovar alunos em vestibulares e tratar com sucesso o primeiro caso de gripe bovina, Doutor Roberto ganhou diversos prêmios de física e medicina, como os [[Prêmios Nobel|Nobel]] e [[IgNobel]] além de ter criado a bomba atômica e outros mecanismos atiradores.
+
+==Livros==
+[[Arquivo:LIVRODOUTORROBERTO.jpg|thumb|Último lançamento de Doutor Roberto *''1001 Formas de afugentar um testemunha de Jeová da sua porta. Disponível também no Mercado Livre em 18x sem juros e frete grátis para todo Brasil]]
+
+Ser escritor e lançar bons livros deixa Doutor Roberto muito orgulho e feliz, isso representa na arte da literatura é seu ponto máximo de intelectualidade. Consagrado uma lenda da literatura mundial Doutor Roberto lançou inúmeras obras literária pelo universo, além de ser um ótimo vendedor de livros de porta em porta Doutor Roberto também é proprietário de gráfica e banca de revistas no centro da cidade.
+
+Já na sua banca de revistas Doutor Roberto fica muito feliz em véspera de copa do mundo, pois costuma bater recordes de vendas de álbuns, cartões telefônicos e figurinhas de jogadores.
+
+Além das vendas de livros de porta em porta Doutor Roberto também usa o sistema Pague Seguro em página de internet particular e Mercado Livre oferecendo frete grátis para todo Brasil e universo.
+
+Doutor busca inspirações em suas obras quando sente muita dor de barriga e corre para privada a fim de evacuar a massa. 
+
+Na correria do aperto quando não leva caneta e papel de pão para o banheiro costuma puxar um pedaço do papel higiênico para escrever. 
+Sua caneta desliza suave pelas folhas perfumadas de papel pompom destrinchando lindas palavras pelo rolo.
+Grande problema é quando limpa a bunda com o mesmo higiênico que escreveu deixando algumas partes de sua escrita uma verdadeira cagada. 
+       
+*''Desciclopédia para leigos''-um livro que ensina a como ser um desciclope 
+*''[[On the Mafagafians and other Essays]]'' - livro onde Doutor Roberto descreve cientificamente os mafagafos. Dedicado a Chuck Norris.
+*''Dercy, eterna Dercy'' - Neste livro Doutor Roberto revela sobre seu grande amor, e sobre as suas novas técnicas de necrofilia, que protagonizaram seu relacionamento com sua cocotinha.
+*''Dr. Roberto, por ele mesmo'' - Sua autobiografia não autorizada.
+*''O Mistério do Monstro do Lago Nerd'' - Incrível livro de ficção que fala da história de um nerd igual a você.
+*''1001 Formas de afugentar um testemunha de Jeová da sua porta.
+
+==Trabalhos como cantor==
+[[Arquivo:Montserrat.jpg|thumb|<i>Anos depois [[Freddie Mercury]] gostou da ideia, em 1988 convidou Montserrat Caballé pra canta How Can I Go On,  música a qual cantaste ao lado de Dr. Roberto no passado. 
+Dr. Roberto também é cultura!</i>]]
+Acredite se quiser, mas Dr. Roberto esteve em Barcelona visitando universidades espanholas e lá conheceu Montserrat Caballé, uma famosa cantora lírica espanhola com voz de soprano.
+Dr. Roberto deu uma canja ao lado de Montserrat, além disso, acabou dando uns pegas na coroa no final do concerto!
+Depois de sua canja com Dr. Roberto, Montserrat Caballé  partiu para sua verdadeira estreia mundial se deu na noite de 20 de abril de 1965 no Carneggie Hall, quando teve que substituir imprevisivelmente Marilyn Horne na ópera Lucrezia Borgia de Donizetti: por essa  Montserrat, pois Dr. Roberto apareceu novamente para ajuda-la em sua atuação lhe rendeu 25 minutos de aplausos ao término de uma representação e um dos mais importantes críticos nova-iorquinos titulou ao dia seguinte. 
+Anos depois [[Freddie Mercury]] gostou da ideia, em 1988 convidou Montserrat Caballé pra canta [https://www.youtube.com/watch?v=akdAvg8SO1A How Can I Go On],  música a qual cantaste ao lado de Dr. Roberto no passado. 
+Dr. Roberto também é cultura!
+
+Dr. Roberto é citado como vítima de um atropelamento por balão em música da banda Zumbi do Mato
+
+Enigma do Medo - Zumbi do Mato
+
+Hai Kai balão e vai tomar no cu
+Sobe lá e atropela o urubu.
+O balão é gente, é um brinquedo, 
+o balão é o enigma do medo! 
+Araripe, ventríloquo viado, 
+a 10 metros de distância ele peida do teu lado. 
+E quem é mais skroto que o jornal fluminense? 
+Fala em macumba e em música dênsi!
+Hai Kai balão! Hai Kai balão! 
+E vai tomar no teu cu aberto! 
+Sobe lá, sobe lá, sobe lá, e atropela o dr. Roberto!
+
+Como todos sabem, o artista se muniu de liberdade de expressão para compor esta música. Dr. Roberto não pode ser atropelado por nenhum objeto ou ser que anda ou rasteja.
+
+==Filmografia==
+Doutor Roberto é um dos maiores cineastas, atores, produtores e criticozinhos de cinema. Uma de suas grande obras foi o renomado filme[Piranhas do Caribe]com participação do ator kid bengala, logo embaixo também existe outras obras criadas por esse esplêndido diretor:
+
+===Como diretor===
+[[Arquivo:Robertoyugioh.jpg|thumb|Carta criada por uma empresa de [[Yu-Gi-Oh!|pôker]] para homenagear o Doutor Roberto.]]
+*''A Lagoa Azul'' 
+*''De Volta à Lagoa Azul'' 
+*''[[Dercy Gonçalves|Dercy]] - uma História de Amor''
+*''A [[Vingança]] de [[Bozo]]''
+*''[[Jô Soares]] e o Xangô de BakerStreetBoys''
+*''[[Amor, Estranho Amor]]'' (participação especial)
+*''A Máfia no Divã'' 
+*''Desciclopédia, o Filme'' 
+*''Desciclopédia episódio II, a [[vingança]] da [[Wikipédia]]'' 
+*''Desciclopédia episódio III, o retorno de [[Teu Pai]]'' 
+*''Desciclopédia episódio IV, o [[Teu Pai]] contra-ataca'' 
+*''Desciclopédia episódio V, [[cu|Anos]] [[Ouro|Dourados]]'' 
+*''Desciclopédia episódio VI, [[macaco]]s me mordam''
+*''Eu, Mestre'' 
+*''Poeira em Alto Mar - com a participação do [[Capitão Nemo]] e os <s>[[Peixonauta]]s</s> [[Argonautas]]
+*''President Evil - com participação de [[Fernando Collor de Mello]]
+*''President Evil 2 - com participação de [[Lula]]
+*''President Evil 3 The Revenge of Cunha - com participação de [[Dilma]]
+*''Desciclopédia episódio VII, uma nova [[gravidez|gestação]]'' ({{CURRENTYEAR}})
+*''On the [[Mafagafo]]'s World!!!'' (em produção) ({{CURRENTYEAR}})
+*''Desciclopédia episódio VIII [[UFC]]: [[Alien]] vs [[Predador]] vs [[Jason]] vs [[Freddy Krueger]] vs [[Exterminador do Futuro]]'' (confirmado para {{CURRENTMONTH}} de {{CURRENTYEAR}})
+*''Desciclopédia episódio IX, Despertar da Delícia - com participação especial de Jailson Mendes (confirmado para 30 de fevereiro de 2017)''
+
+===Como repórter===
+[[Arquivo:Dr Roberto reporter.jpg|thumb|Doutor Roberto cobrindo uma guerrinha de nada na Síria]]
+Doutor Roberto sabe tudo, vê tudo e escuta tudo... ele trabalhou em todos os telejornais superando a marca de [[Cid Moreira]], [[Boris Casoy]] e [[Alexandre Garcia]]  
+<i>
+*[[Globo Rural]]
+*[[Globo Repórter]]
+*[[Fantástico]]
+*[[Jornal Nacional]]
+*[[Jornal da Globo]]
+*<s>[[Corujão]]</s>
+*Repórter Record 
+*Globo Esporte ''reporte esportivo''
+*Esporte TV ''reporte esportivo''
+*[[HBO]] Noticiário
+*[[Mais Você]] ''reporte culinário''
+*[[MTV]] reporte musical
+*Trabalhou em todos telejornais da TV Manchete
+*Trabalhou em todos telejornais da TV Bandeirante
+*Trabalhou em todos telejornais da Rede Record
+*Trabalhou em todos telejornais do SBT
+*Ratinho ''reporte DNA baixaria''
+*Gugu
+*Trabalhou todos telejornais dos EUA
+*Trabalhou todos telejornais da Europa
+*[[Globo Repórter]] de novo
+*Itatiaia
+*TV Tupi
+*Trabalhou no [[Globo Reporter]] ''outra vez''
+</i>
+
+===Como ator===
+
+*''Loucademia de Polícia XXIII'' 
+*''[[Star Wars]] - O Doutor Roberto Contra Ataca'' 
+*''Os Caça-Cachaças (1985) Part. de Tommy lee Nogargalouss
+*''Wilde''
+*''Loucura Anal 5'' 
+*''A Máfia no Divã'' 
+*''A Múmia'' 
+*''Jesus Cristo (3D)'' 
+*''Jesus Cristo II, A Ressurreição''
+*''Exterminador do Futuro: A Última Ceia''
+*''[[Desciclopédia o Filme]]'' 
+*''A Volta dos que não foram
+*''Desciclopédia II, a [[vingança]] da [[Wikipédia]]'' 
+*''Eu, Mestre''(2007)
+*''Se meu Fusca Falasse 4 
+*''Velozes e Furiosos 8'' (Dr. Roberto aparece ao fundo da cena do racha passando com seu FIAT 147 amarelo)
+*''High School Phisikal'' (Dr. Roberto interpreta um professor tentando ensinar física a um grupo de guris e gurias retardadas que só pensavam em dançar Justin Biba e RBD.
+*''Aprendiz de Cachaceiro''- Dr. Roberto encontra um pinguço muito poderoso que o escolhe como aluno. Acredita-se que depois desse filme, Doutor Roberto mergulhou mais ainda na ciência e na Alquimia dos alambiques do mundo.
+*''Karatê Kid Bengala'
+*''Os Caçadores da taça perdida: corintianos em busca de um sovaco de cobra.''
+*''Pedreiros da Puta que Pariu'' (Dono da Empresa em que os Pedreiros trabalham no começo do filme)
+*''Poeira em Alto Mar: Doutor Roberto vive um náufrago aprisionado em uma ilha deserta após sua canoa colidir com um iceberg. Lá ele constrói uma armadura com superpoderes e volta bilionário para a civilização, e passa a comandar um grupo de mafagafos contra o mal
+
+===Como produtor===
+[[Arquivo:Jornaldaglobo.jpg|thumb|Dr. Roberto apresenta o [[Jornal da Globo]] desde [[1900 e Guaraná com rolha]]]]
+
+*''[[Filme do Pelé]]''
+*''O Aspirador de [[Cocaína|Pó]] (Filme do [[Maradona]])''  
+*''[[Ilha das Flores]]'' 
+*''[[Amor, Estranho Amor]]''
+*''[[Filme do Batiman|Filme do Batimã]]''
+*''[[Pelé|Pelé e Terno]]''
+*''Ensaios sobre Bobeira'' 
+*''[[Bozo]] returns to Hell'' (coprodução com Rob Zombie)
+*''[[Star Wars]]: [[Porra|Gozando]] nas Estrelas (paródia [[pornô]])
+*Toda a [[filme|filmografia]] [[pornô]] dos anos 1920
+*A quina da mesa redonda 
+*A volta dos que não foram (Parte I)
+*A volta dos que não foram (Parte II e III)
+
+== Características ==
+[[Arquivo:Shack.jpg|thumb|<s>Tenda</s> <s>Casebre</s> <s>Cabana</s> Mansão em que vive '''Doutor Roberto''']]
+[[Arquivo:DoutorRobertoCozinhando.jpg|thumb|left|Doutor Roberto perto de sua mansão preparando um [[Cuscuz]]]]
+'''Doutor Roberto''' era muito fácil de ser localizado. Possuía características marcantes, que passavam despercebidas pelas pessoas.
+
+Um homem calvo, de meia idade, anão, com uma perna só e pesando nada mais que 23 quilos. Usa sempre um avental branco, e dizem as más línguas que era hermafrodita. Outra lenda sobre o famoso doutor é que ele podia voar, sacudindo as orelhas, como Dumbo fazia, chegando a alcançar a incrível velocidade de 102&nbsp;km/h.
+
+Não existe nada que possa definir melhor este homem que a frase célebre do caminhão: "Esse é o CARA!" (Não se sabe quem comeu ele, mas alguém comeu o cara!)
+
+== Vítimas ==
+Em 1967, '''Betinho''', para os íntimos, começou o primeiro de muitos casos de negligência médica. Sua primeira vítima foi uma senhora de 46 anos, chamada apenas de P.Q.P. (o nome foi preservado a pedidos da família). Segundo os médicos legistas foram encontrados um alicate e uma chave de fenda no intestino da pobre senhora. Daí pra cá, foram mais 1548 casos de mortes causadas por '''Betinho''', sendo mais de 3872 processos a sua pessoa e sua clínica. Conhecedor do código civil e penal, conseguiu se livrar de todas as acusações sem problemas. Sua última vítima, foi um garoto de 11 anos, residente do [[Rio de Janeiro]], que precisava passar por uma operação de amídala. Misteriosamente o garoto desapareceu, e surpreendentemente seu rim, foi achado em um cachorro, na [[Bolívia]].
+
+== Empresariado ==
+[[Arquivo:DR ROBERTO NA NASA.jpg|thumb|450px|''Dr.Roberto comandou inúmeras missões espaciais quando esteve na NASA!]]
+'''Doutor Roberto''' já chegou a deter 40% das [[ações do Brasil]] em 1961, mas logo se cansou da vida de acionista e vendeu 48.1% do [[Brasil|país]] um mês depois, para o governo da [[Suazilândia]], que, por sua vez, o trocou por um pônei com o [[Silvio Santos]].
+
+Quando vendeu tudo, em 1967, fez pitos cheiróferos de gatinhos, obtendo um grande sucesso e tendo seu nome anunciado no google. Mas, a macabra comunidade dos Suicidas Idiotas fatiou todos os pitos cheirófetos da safra de 1969, e, claro, foram mortos.
+
+Na indústria cinematográfica, idealizou um projeto chamado acúmulo de pontos, onde atores fariam diversos filmes acumulando pontos pra enfim ganhar um Oscar. [[Leonardo Di Caprio]] foi um desses atores que aderiram a iniciativa.
+
+==Carreira de astronauta na NASA==
+Na NASA, Dr. Roberto comandou inúmeras missões espaciais nas horas vagas, esteve por lá fazendo bicos para complementar a renda! 
+Lá ele desenvolveu foguetes propulsores abastecidos com peróxido de hidrogênio, sal de fruta e sonrisal.
+
+Acredite se quiser,  Dr. Roberto comandou missões tripuladas nos ônibus espaciais, Columbia, Challenger, Discovery, Atlantis e Endeavour.
+
+Em 1986, Dr. Roberto recusou-se viajar na Challenger por sentir dores no [[ovo|lumbago]]. Dr. Roberto escapou do acidente resultado de um defeito nos tanques de combustível que causou a explosão da Challenger, matando todos seus ocupantes, inclusive a professora Christa McAuliffe, dias depois Dr. Roberto aceitou ser o diretor substituto do Colégio Secundário Corleone em Brooklyn Beach, no primeiro dia trabalho acabou suspendendo o “carinha que mora logo ali” por falsificar nota de matemática em boletim escolar! Dias depois foi exonerado do cargo por dar uns pegas na senhorita Morello na sala dos professores e voltou para NASA!
+Mais uma vez Dr. Roberto sobreviveu a outro acidente numa missão desastrosa com a Columbia, ela explodiu na reentrada na atmosfera, isso aconteceu quando retornava à terra! Dr. Roberto tirou folga neste dia pra coçar o saco e escapou deste terrível acidente!
+
+Em sua última viagem, Dr. Roberto ajudou [[Bruce Willis]] a explodir um asteroide no espaço, que vinha a uma velocidade média 35.000&nbsp;km/h. caso houvesse um choque, qualquer forma de vida deixaria de existir tal como conhecemos na Terra, exatamente como o que aniquilou os dinossauros há 65 milhões de anos.
+Com ajuda de Dr. Roberto os cientistas da NASA chegam finalmente a uma ideia diferente, mas viável: furar o asteroide e detonar bombas nucleares no interior do mesmo. Além de apresentar a ideia no laboratório, Dr. Roberto ainda teve disposição de comandar uma expedição tripulada que foi ao encontro com a grande rocha!
+
+==Carreira de Cientista==
+Doutor Roberto não foi um simples cientista, ele foi o inventor da ciência. Desde pequeno ele se perguntava porque as coisas aconteciam, e a resposta era sempre "Porque [[Deus]] quer",então ele se cansou dessa [[putaria]] e foi buscar as respostas sozinho. Suas descobertas foram muitas e isso começou a chamar a atenção de pessoas que pensavam como ele, essas pessoas começaram  a pesquisar e ajudar Dr.Roberto.Em [[1900 e guaraná com rola]] Dr. Roberto e seus discípulos começaram a ser chamados de cientistas e seus estudos de ciência. Muitos cientistas importantes como [[Isaac Newton]] e [[Charles Darwin]] foram alunos de Dr.Roberto,mas há um aluno em especial que se destacou muito mas traiu Dr. Roberto lhe roubando uma teoria e ficando com todo o mérito, esse aluno era [[Albert Einstein]] e essa teoria era a [[Teoria da Relatividade|relatividade]]. Doutor Roberto largou as pesquisas científicas em 1999 alegando estar <s>com preguiça</s> velho demais para isso.
+
+===Descobertas e Teorias===
+*[[Teoria da Relatividade]]
+*[[Teoria das Etapas Fundamentais]]
+*Os estados da matéria
+*[[Átomos]] e partículas sub-atômicas
+*Termodinâmica
+*[[Lei de Murphy]](junto com Eddie Murphy)
+*Toda a Meteorologia (isso na carreira de jornalista quando era homem do tempo)
+*Abiogênese(até o Dr. Roberto erra)
+*Quase tudo na Biologia (para se redimir da cagada na abiogênese)
+*Evolução Humana
+*Formula de dr. robaskara
+
+== Curiosidades ==
+[[Arquivo:Doutor Roberto muito triste.png|thumb|Foto de '''Doutor Roberto''', alegadamente fotografada pela [[CIA]] para provar a teoria de morte.]]
+*Teve uma suposta morte anunciada em 1970, de [[pneumoultramicroscopicossilicovulcanoconiose]]. Seu corpo não foi localizado, o que deixou a policia bastante intrigada. Depois de inúmeras especulações o caso foi arquivado. Porém seus seguidores, confirmam que tudo não passou de enganação, (pois Sílvio Santos havia anunciado que iria morrer) e que hoje, '''Dr. Roberto''' vive em uma ilha perto de [[Portugal]]. Há também quem diga que, após forjar a própria morte, '''Dr. Roberto''' tenha se mudado para [[Tangamandápio]] em busca de tranquilidade. a policia tangamandapiana tentou ir ao fundo no caso, mas tiveram que encerrar para evitarem a fadiga.
+* Doutor Roberto é conselheiro-mor de Inri Cristo. 
+* Dizem que ele já comeu a [[Xuxa]] e a [[Fátima Bernardes]], fazendo depois um ménage com [[Hebe Camargo]] e [[Dercy Gonçalves]], sua suposta mãe (leia o último asterisco).
+* Também tinha uma irmã, que até foi tema de música, mas isso é melhor não falar... Não mesmo.. Ah...
+* Ele também comeu a [[tua mãe]] e [[Voyeurismo|teu pai ficou olhando]].
+* Achados arqueológicos confirmam por teste de carbono que o dente perdido de Doutor Roberto, encontrado nas dunas egipcias de Kuazikumiteuku datam de 2600 anos atrás.
+* A banda [[Styx]] já fez uma homenagem ao Doutor Roberto na sua música "[[Mr. Roboto]]", no refrão, ele fala "Domo Arigato Mr. Roboto", que na língua dos japas quer dizer "Muito obrigado, Doutor Roberto". Essa foi uma homenagem que um dos integrantes fez após ser operado pelo doutor e ter saido vivo milagrosamente.
+* Os Beatles também fizeram uma homenagem ao Doutor Roberto com a música "Doctor Robert".
+* Existem fatos históricos que confirmam que Dercy Gonçalves foi a mãe de Doutor Roberto, mas ele negou tudo. Esses fatos são guardados pela CIA.
+*Doutor Roberto também participou da investigação sobre ETs em Roosevelt, Colorado, Varginha e Acapulco... Dizem as más línguas que ele adquiriu tal supremacia mental e intelectual graças a um toque de dedos com o suposto et, tornando-o o ser mais inteligente do universo. Um medidor de QI na CIA, explodiu matando quarenta pessoas quando fazia leituras em Doutor Roberto.
+* Doutor Roberto é Parente de Boris Casoy.
+
+==Ver também==
+*[[Oscar Wilde vs. Doutor Roberto]]
+*[[Jean Piaget]], um farsante que quer se passar por Doutor Roberto...
+
+{{oposto|Jean Piaget}}
+{{Desciclopédia}}
+{{maiorbrasileiro}}
+{{Gênios}}
+{{Doutor}}
+
+[[Categoria:Deuses]]
+[[Categoria:Judeus fictícios]]
+[[Categoria:Pessoas que eram sacaneadas na escola]]
+[[Categoria:Maconheiros]]
+[[Categoria:Mudinhos]]
+[[Categoria:Doutores|Roberto]]
+[[Categoria:Quatro olhos]]
+[[Categoria:Personagens fictícios que já viraram presunto]]
+
+[[id:Doutor Roberto]]

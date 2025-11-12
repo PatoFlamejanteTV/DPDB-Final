@@ -1,0 +1,192 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = WNN
+| imagem          = Casino.jpg
+| imagem_legenda  = A WNN em ampla utilização por programadores experientes
+| reino           = [[Algoritmos]]
+| filo            = [[POG]]
+| classe          = [[Dedução ilógica]] (Paradigma Improbabilístico)
+| ordem           = Deep Unlearning ("desaprendizado profundo")
+| subordem        = Rede sem [[miolo]]
+| família         = [[Inteligência Artificial|Burrice Artificial]]
+}}
+{{c|Falei que ia dar merda!|Gerente de TI sobre a execução da WNN}}
+{{c|Já avisei que vai dar merda isso!|Capitão Nascimento também sobre a execução da WNN}}
+{{c|Teletubbies no pantanal de Saturno!|WNN}}
+{{c|Olha que colorido!|Carla Perez sobre uma resposta aleatória da WNN}}
+{{c|Conheço um cara aqui que toma pinga antes de programar a WNN|Professor de Rede sem [[miolo]] sobre a facilidade de programar uma WNN}}
+
+A '''WNN'''  (pronúncia em português: [[Gretchen|/ˈɡrɛtʃən/]]) ou Rede sem [[miolo]] (tradução de Wal Neural Network) é um [[algoritmo]] de [[Inteligência Artificial]] que deu origem ao movimento [[Mobral]] computacional, também conhecido como Deep Unlearning ("desaprendizado profundo"). A WNN retorna coisas imprevisíveis a cada execução. Estudos atuais sugerem que execuções repetidas da WNN podem abrir um [[buraco negro]]. A WNN é considerada o futuro da futurologia, da astrologia, da engenharia espacial, do mercado financeiro e do estacionamento de [[iceberg]]. O foguete brasileiro conhecido como Veículo Astronáutico Guiado ALeatóriamente (VAGAL) usou a WNN para alinhar sua trajetória rumo ao espaço. Infelizmente o VAGAL explodiu no chão. 
+
+== Biografia ==
+
+O nome do pesquisador responsável por tamanho avanço científico é mantido em segredo e o nome do algoritmo é atribuído ao seu pseudônimo, mais conhecido como Dr. "Wal". Existem inúmeros supostos Dr. "Wal" na literatura. De qualquer maneira, achados históricos comprovam que a WNN foi criada por um gênio matemático do século XX ao subir as escadas de seu apartamento sofrendo de uma forte diarreia.
+
+[[Arquivo:Edir.jpg|left|thumb|Suposto Dr. "Wal" em seu discurso de abertura do algoritmo da WNN.]]
+
+[[Arquivo:Doubles-check-em-kim-jong-un.jpg|thumb|220px|right|Suposta foto de Dr. "Wal" em seu lançamento aleatório de foguetes. "Calaio", teria dito em seu primeiro lançamento.]]
+
+[[Arquivo:Preparaogoku.jpg|thumb|right|150px|Donald the Duck Trump após aprender sobre a WNN em encontro com Dr. "Wal" .]]
+
+Um dos supostos Dr. "Wal" advogava o uso da [[aleatoriedade como filosofia de vida]] chegando ao ponto de delegar decisões importantes de sua vida para terceiros. Um exemplo famoso de sua vida foi a delegação de sua carteira de investimentos à uma corretora que não mantinha contato. Após anos aplicando dinheiro sem saber a finalidade, ou como dizia o Dr. Wal: "deixando a aleatoriedade decidir", ele descobre por acaso que tinha comprado montoeiras de dinheiro em ações de empresas falidas. Com tal resultado robusto, Dr. "Wal" não titubeou e abriu seu [[algoritmo]] ao mundo após longa discussão com seu suposto orientador do primeiro doutorado [[Leon D'Acochambre]].
+
+Após abrir seu algoritmo ao mundo, Dr. "Wal" testemunhou a aleatoriedade como filosofia de vida sendo amplamente aceita pela comunidade como um todo. Entre os seguidores destacam-se os day traders, pessoas que emprestam de agiotas, apostadores de rinha de galo, perdedores de cozinhas, compradores de consórcio, de dólar futuro e opções. O movimento cresceu e deu origem a outros movimentos como a Cientologia, o Veganismo, o Santo Daime e de youtubers que falam sobre investimentos.
+
+[[Arquivo:Ma.gif|right|thumb|Suposto Dr. "Wal" durante uma execução teste da WNN antes de entrar em órbita para provar a [[Terra plana]]!]]
+
+Durante seus últimos dias de vida acadêmica Dr. "Wal", já abatido e cansado, ainda buscava na WNN soluções para seus problemas diários. E foi neste momento de tribulação e angústia que a WNN se demonstrou mais uma vez como fonte de soluções robustas. E então Dr. "Wal" iniciou a busca pelas respostas não respondidas pela WNN, o que lhe deu seu segundo doutorado. Durando seu segundo doutorado Dr. "Wal" fundou a área que conhecemos hoje como [[engenharia de software]], um ramo com intersecção entre a psicografia (um tipo de [[POG]] autossuficiente), a moda e as artes abstratas.
+
+Já outro suposto Dr. "Wal" reportado por fonte <s>confiável</s> afirma que Dr. "Wal" era na verdade o ditador Kim Jong-Un querendo disparar foguete pra todo lado. Ele fez um uso tão descontrolado da WNN que até o infame ex-ditador americano Donald the Duck Trump exigiu conhecê-lo.
+
+Pela tamanha complexidade da WNN, uma nova teoria aceita sobre sua autoria é que Dr. "Wal" era na verdade um macaco babuíno enviado ao espaço pela [[NASA]] com o objetivo de provar a [[Terra plana]] através do [[Teorema do macaco infinito]].
+
+A mais recente teoria é que o criador da WNN habita entre os estados imaginários de [[Roraima]] e [[Pará]] (uma espécie de região habitada pelo povo [[Oompa Loompa]]). Existe sentido nessa teoria pois o local inóspito garante total isolamento em testes de novas variantes da WNN, como ja confirmado pelo total isolamento de ensaios de músicas insuportáveis do [[Calypso]]. Apesar do isolamento, estudos recentes da NASA apontam aberturas de todo tipo de buraco na região: [[buraco negro]], [[buraco de minhoca]] e buraco no asfalto.
+
+== Complexidade Computacional ==
+
+A complexidade computacional é um problema em aberto para a comunidade científica, pois cada chamada da WNN tem um custo diferente. Para certa parcela da comunidade é possível descobrir sua complexidade utilizando programação inteira. Outra parcela da comunidade científica, mais séria por não utilizar métodos estranhos como programação inteira, discorda desta análise e acredita que já se sabe sua complexidade computacional, que é a mesma do [[bozosort]].
+O consenso atual por enquanto enquadra a complexidade da WNN como [[Deus nos acuda]], uma simplificação da complexidade Extreme [[GoHorse]] tendendo ao infinito e além. Após girar em torno da Terra centenas de vezes, Dr. "Wal" apresenta a complexidade simplificada da WNN, como:
+<math>N_P=\frac{666^{666}+\sqrt{88965546515135118}}{\int_\gamma^\infty3 \cdot \gamma^2+11+\arccos 90^{(\sin\dot{a})}}+(\begin{bmatrix} 1 & \cdots & 999 \\ \vdots & 
+\ddots & \vdots \\ -899 & \cdots & 0\end{bmatrix}) \prod_{i=1}^{R} \varphi(n^a_0{^\left (\frac{1}{2} \right )})_{i}+\sqrt[[\cos x+\ln y+\operatorname{sgn}\, z]{\sum_{k=\lim_{n \to \infty}k_n}^{C} k^2}</math>
+
+[[Arquivo:Engenharia.jpg|thumb|Manuscrito do Dr. "Wal" simplificando a complexidade computacional da WNN durante seu período em órbita.]]
+
+A genialidade do Dr. "Wal" não tinha limites e sabiamente calculou a probabilidade de reprodução de um resultado da WNN, abaixo:<br/>
+<math>2^{3^{4^{5^{6^{7^{8^{9^{10^{11^{12^{13^{4^{15^{16^{17^{18^{19^{20^{21^{22^{23^{24^{25^{26^{27^{28^{29^{30^{31^{32^{33^{34^{35^{36^{37^{38^{39^{40^{41^{42^{43^{44^{45^{...^{{10000000000}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}</math>
+
+== WNN na História ==
+O primeiro uso conhecido da WNN foi durante a segunda guerra mundial, quando os americanos executaram o comando <code>print(WNN("I want donuts"))</code>. O resultado aleatório da rede foi "nuke the japanese twice". A aleatoriedade da rede mostrou todo o seu potencial e perigo.
+
+=== WNN na União Soviética ===
+Em busca da sociedade perfeita, os soviéticos implementaram a WNN para decidir questões sociais como a distribuição de comida e de serviços públicos.
+Historiadores discordam, mas fontes confiáveis sugerem que [[Stalin|Iyoustzssitzevff Dyezhjougashchevuyilley]], também conhecido como Stalin, ordenou a primeira execução da camarada [[WNN|WNNosky]], ou variante siberiana da WNN, para decidir se coquetel Molotov era uma bebida de boteco (tipo rabo de galovski) ou um monte de remédio contra hemorroidas.
+
+=== WNN na Política Brasileira ===
+[[Arquivo:Bolsolula2.jpg|thumb|left|150px|Solução WNN para a política brasileira.]]
+
+Um grupo de cientistas usou a WNN para determinar uma solução para o atual clima de tensão e polarização que o [[Brasil]] vive. Ao lado vemos a imagem resultado da WNN dada como sugestão para o futuro presidente. Um presidente que agrade ao Brasil.
+
+A WNN também vem sendo estudada como uma opção para o sistema democrático. A intenção dos pesquisadores é retirar da sociedade a decisão de eleição de seus representantes e delegar a eleição inteiramente a WNN. Governantes não serão mais eleitos, mas serão escolhidas aleatoriamente dentre a população. Os resultados preliminares tem sido promissores. Uma segunda hipótese dos pesquisadores é retirar totalmente as decisões políticas feitas por humanos e delegar inteiramente a WNN. Parte da sociedade é crítica a esta última proposta por as decisões podem ser aleatórias demais. Críticos dizem que a sociedade ainda não está preparada para tal mudança.
+
+O [[Ministério da Saúde]] fez toda projeção de evolução e controle do Covid-19 desde 01/2020 utilizando a WNN. As curvas de contágio pela [[Covid-19]] projetadas pela WNN datam desde 2005. A decisão de compra de vacinas e estratégia de logística pelo ministério também teve forte influência da WNN.
+
+O [[Ministério da Economia]] utiliza constantemente a WNN para controle dos picos inflacionários, variação cambial, preço dos alimentos e combustíveis.
+
+=== WNN em Chernobyl ===
+A WNN sempre foi amplamente utilizada nas indústrias elétricas, principalmente em usinas nucleares para contenção de radioatividade.
+Fontes <s>não</s> confirmadas afirmam que o mal uso da WNN na construção da usina levou ao desastre de [[Chernobyl]]. Engenheiros teriam supostamente usado a WNN para sugerir técnicas de isolamento de radiação com Fita Veda-Rosca e Chiclete.
+
+=== WNN no Acre ===
+O [[Acre]], também conhecido como lugar inexistente, é o epicentro mundial de estudos da WNN. Cientistas já reviveram 2 mastodontes e 1 dodô. Ainda não se sabe ao certo como a WNN produziu esse resultado, já que os cientistas (fazendo um bico como coiotes/uber) estavam buscando um caminho mais curto para Roraima. Os clientes venezuelanos foram devorados pelos mastodontes e os cientistas fugiram para a Bolívia.
+
+=== WNN e o Titanic ===
+Relatos antigos de cientistas [[esquimós]] descrevem o uso de um algoritmo completamente aleatório para a gestão de estacionamento de [[iceberg]] (mais tarde aceito como uma das fontes de inspiração do Dr. "Wal"). Sobreviventes do desastre do Titanic relatam o comportamento estranho na rota de flutuação de icebergs que flutuavam em zig-zag, parafuso e carpado invertido. Os cientistas afirmam que o [[iceberg]] estava fazendo zig em vez de zag no momento da colisão.
+
+== WNN na Ciência ==
+
+=== WNN e a Inteligência Artificial ===
+A WNN possui o módulo de Inteligência Artificial Responsiva Aleatória - IARA. Este módulo recebe qualquer tipo de dado em sua entrada, provendo uma saída de dado aleatória. Recentemente, este módulo tem sido usado como gerador de discursos pelo Palácio do Planalto, vide os discursos proferidos pela ex-presidente Dilma Rousseff, e mais recente, pelo Presidente Jair Bolsonaro.
+
+A WNN é muito conhecida em seu uso na área de [[Inteligência artificial]] em processos de classificações inexplicáveis através de relações entre variáveis X e Y. Recente descoberta da WNN ligou X e Y resolvendo a famosa relação "Uma coisa é uma coisa, outra coisa é outra coisa". 
+[[Arquivo:XeY.JPG|thumb|400px|WNN relacionando X e Y em complexo processo de classificação da famosa relação "Uma coisa é uma coisa, outra coisa é outra coisa"]]
+
+=== WNN e a Teoria do Olho Gordo ===
+As possíveis aplicações da WNN são ilimitadas, mas infelizmente esse sucesso inacreditável atrai casos de uso menos nobres por pessoas com o olho maior que a barriga. Dados secretos da [[NASA]] mostram que o poder do [[olho gordo]] chega a desviar a rota de asteroides em direção à Terra para atingir justamente o pobre infeliz invejado. Relatos incluem também quedas de avião, acidentes inexplicáveis de ciclistas e mortes de passarinhos de "amigos".
+
+=== WNN e a Disfunção Erétil ===
+Não obstante o sucesso em diversas áreas da ciência fosse regra na aplicação da WNN, foi na área do paumolenga que sua aplicação trouxe maiores resultados. 
+A WNN reverteu a disfunção erétil de 103% de um grupo de investidores do mercado financeiro denominados [[VCOC]], e com 114% de casos de ejaculação precoce neste mesmo grupo de estudos.
+
+=== WNN e a Matemática ===
+A WNN tem se mostrado tão avançada que diversos conceitos matemáticos, antes impossíveis de serem resolvidos, ficaram ainda mais difíceis. Contudo, a WNN retorna uma resposta aleatória irrazoável em tempo O(1) de forma elegante. Um dos grandes problemas é encontrar [[X]] em cálculos avançados, como demonstrado na figura.
+[[Arquivo:Prova Resolvida.jpg|thumb|right|WNN encontrando [[X_(letra)|X]] em avançado processamento de imagem.]]
+
+
+=== WNN e a Viagem no Tempo ===
+Recentemente a WNN foi utilizada por cientistas na tentativa de provar a [[Viagem no tempo]]. Relatos e artigos publicados sugerem que os cientistas foram enviados para um ano aleatório e continuam executando a WNN pra tentar voltar para o tempo atual (leia sobre a complexidade de executar a WNN). Contudo, o único cientista ainda presente vivendo em total isolamento entre [[Roraima]] e o [[Pará]] teria dito que os cientistas teriam retornado antes do [[Big-Bang]] e causado um disrupção erétil-temporal no espaço continuo.
+
+=== WNN e o Melhoramento Genético ===
+[[Arquivo:Paubrasil.jpg|Right|thumb|Agricultura com seu pé de soja melhorado pela WNN.]]
+
+A WNN está sendo utilizada para o melhoramento genético de diversas espécies de plantas. A combinação entre elas está fazendo aparecer uma nova geração de alimentos. Ao lado vemos uma agricultora com seu pé de soja após uma combinação de melhoramento genético sugerida pela WNN.
+
+== WNN no mercado de capitais ==
+A WNN encontra no mercado de capitais sua maior aplicação prática com resultados fenomenais. Grandes investidores relatam sua completa inutilidade com resultados incompreensíveis, o que seria excelente para mercados que não fazem o menor sentido, como o mercado de opções de ações, mini-contrato e bitcoin. Para corrigir essa incosistência, recentemente, esse módulo da WNN foi aprimorado para prover estratégias que funcionariam no passado com precisão. Tal operação é conhecida como yestarday-trade ou d-1-trade, assim o investidor ao consultar a WNN, sabe exatamente o que deveria ser feito no dia anterior.
+
+=== WNN e as Opções de Ações ===
+Uma opção de uma ação nada mais é que um contrato que somente um verdadeiro corno aceita para <s>jogar fora</s> investir sua grana. Uma opção serve pra "vender uma compra", "comprar uma venda", "vender uma venda" e "comprar uma compra". Algo assim só é relatado em histórias do Chapeleiro Louco, em esquemas esquizofrênicos ou em estratégias ponzi de perdas de dinheiro em grupo (muito utilizada nas seitas satânicas de [[Edir Macedo]] e [[Jim Jones]]). Nada mais apropriado para o extenso uso da WNN. O famoso fundo de investimentos [https://en.wikipedia.org/wiki/Long-Term_Capital_Management LTCM] quase faliu o planeta Terra em 1998 usando a WNN em estratégias descontroladas de <s>apostas</s> negócios em opções. Chegaram a tomar emprestado parcos [https://mundoraiam.com/premio-nobel-fracasso/ 129 Bilhões]  de Dólares com [https://www.suno.com.br/artigos/john-meriwether-e-o-long-term-capital-management-parte-ii/ 1.2 Trilhão]  de Dólares em posição aberta (isso mesmo e nós da WNN que somos desmiolados). Em valores atuais 1.2 Trilhão de Dólares valeria 1.200.000.000.000.000.000.000.000.000.000 (1.2 Trozobalhão de dólares) e daria pra construir uma ponte pedagiada entre a Terra e Marte com a [[Odebrecht]], abrir igreja <s>satânica</s> Universal em todos os planetas da galaxia ou comprar 500 Litros de gasolina no Brasil.
+
+=== WNN e os Bitcoins ===
+A WNN não se responsabiliza por investimentos sem cabimento em ativos com a lista "'''não tem'''" maior que a lista "'''tem'''". O Bitcoin não tem valor, não tem aceitação, não tem espécie, não tem cor, não tem cheiro e não soltam as tiras. O Bitcoin tem jeito que vai dar merda, tem conteúdo pra dar merda, tem cara de Ponzi com gente suficiente pra dar uma <s>puta</s> merda (so a população inteira da China e gente da melhor qualidade: traficantes, agiotas, pastores satânicos e gente querendo ficar rica ontem (dai o cheiro de merda)). Em uma execução aleatória do código <code>print(WNN("Bitcoin"))</code> retornou prontamente a resposta "titica". Alias essa resposta é controversa entre os especialistas da WNN.
+
+A WNN foi amplamente usada por traders de bitcoin na esperança de gerar uma chave de segurança inquebrável. A grande vantagem é que a WNN é tão aleatória, e por isso tem o mais alto nível de segurança, que é praticamente impossível reproduzir a senha (ver a complexidade). Então, geralmente quem compra bitcoin com a WNN nunca mais consegue acessar seu <s>des</s>investimento.
+
+=== WNN e a Influence Propagation ===
+Um belo dia um trader resolveu manipular a WNN tentando influenciar seu comportamento numa aplicação de bolsa de valores esperando que suas sugestões geniais se propagassem mundo afora e ele ganhasse rios de dinheiro. Tal trader tinha delírios que algoritmos exatos achariam soluções ótimas, contudo, o maldito algoritmo não responde rápido e ainda acha que está certo. Há relatos de uma execução de um algoritmo exato ainda calculando compra ou venda de ações da Transbrasil com previsão para término no ano 2057 para influenciar a WNN que negocia ações tão rapidamente que seu operador não sabe se deve comprar ou vender.
+
+== Exemplos aleatórios de implementação da WNN ==
+Exemplos da WNN em sua plenitude pode ser vista abaixo escrito em linguagem de programação por um [[Nerd]] frustrado.
+
+=== Hello World ===
+A grandeza do código abaixo pode ser comprovada com os resultados aleatórios e completamente sem sentido abaixo: 
+<code>
+  '''Inicio'''
+     x = WNN("Não faz sentido")
+     Imprime("Resultado de x:" x)
+     
+     y = WNN(12345)
+     Imprime("Resultado de y:" y)
+  '''Fim.'''
+  '''Foda-se.'''
+  '''Resultado de x: [[7]]'''
+  '''Resultado de y: "[[Marchinha de carnaval]]"'''
+</code>
+
+=== Fibonacci ===
+
+Fibonacci em WNN:
+
+  '''Inicio'''
+     x = WNN( WNN(n-1) + WNN(n) )
+     Imprime("fibonacci:", x)
+  '''Fim.'''
+  '''Foda-se.'''
+
+Note que dada a natureza aleatória da rede, realimentá-la com sua própria saída pode gerar um segmentation fault no universo, conhecido também como big crunch. Use com cuidado.
+
+== Aplicações conhecidas ==
+
+A WNN mostra sua grandeza em aplicações críticas como [[bolsa de valores]] e pouso de [[foguete]] com insucesso estrondoso. A WNN é amplamente utilizada por Day Traders para a identificação de alta quando uma ação sobe e de baixa quando um ação cai. No caso do [[foguete]] o estrondo é mais forte. 
+
+=== Mercado Financeiro ===
+
+
+O código abaixo foi retirado de programas de operadores da bolsa com perdas constantes de dinheiro.
+
+O resultado não poderia ser mais confuso:
+<code>
+  '''Inicio'''
+     estrategia = WNN("compra ou vende ITAU?")
+     Imprime("Resultado da estrategia:" estrategia)
+     
+  '''Fim.'''
+  '''Foda-se.'''
+  '''Resultado da estratégia: [[parafuso]]'''
+</code>
+
+== Outras Implementações ==
+
+A WNN foi utilizada para se criar diversos outros algoritmos, como o WNN_sort.
+Veja abaixo um exemplo de execução:
+<code>
+  '''Inicio'''
+     ordenado = WNN_sort([5,4,3,2,1])
+     Imprime("Ordenado:" ordenado)
+     
+  '''Fim.'''
+  '''Foda-se.'''
+  '''Ordenado: [3.1415, Jeová, inf/0, sapo boi azul, 19, 1234]'''
+</code>
+
+[[Categoria:Matemática]]
+[[Categoria:Tecnologia]]

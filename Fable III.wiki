@@ -1,0 +1,53 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Assassine Vilas Inteiras: Alegre os Órfãos Peidando para Eles
+|image     = Fable III cover.png
+|caption   = Capa do jogo
+|developer = [[Lionhead Studios|Estúdio que só faz Fable]]
+|publisher = [[Microsoft Game Studios]]
+|released  = 2010
+|genre     = Apertar {{Botão-b-xbox}}
+|rating    = 1/10
+|platform  = [[Xbox 360]]
+|ages      = Livre espontânea vontade
+}}
+
+'''Fable III''' é o que deveria ser um jogo de RPG mas é só uma decepção em formato de jogo. Lançado exclusivamente para [[Xbox 360]], nem o caixsta mais fanático e fervoroso consegue realmente defender esse jogo, eles vão preferir desconversar para [[Forza Horizon]]. Fable III ficou conhecido não apenas por ser um jogo ruim, mas também por disponibilizar os [[DLC]]s pagos mais ridículos da história dos videogames. Quer pintar sua armadura na cor preta? Tem que pagar.
+
+== Jogabilidade ==
+
+{{C|Nós vamos fazer a magia nesse jogo ainda mais overpower e desbalanceada|desenvolvedores da [[Lionhead Studios]]|as reclamações dos jogadores de [[Fable II]] sobre magia estar muito apelona}}
+
+Fable III é um RPG de ação que ensina ao jogador como [[espada]]s, [[machado]]s e [[martelo]]s são completamente inúteis quando você tem uma arma de fogo. Você pode então optar por 15 minutos de lutas de espada contra um monstro qualquer, ou fuzilar esse mesmo monstro com 2 segundos de <s>combate</s>. O jogo acaba se tornando meramente um grande spam do botão {{Botão-b-xbox}} para usar mágica que é ainda melhor que o [[fuzil]]. Você é basicamente um Deus, vai massacrar do monstro mais inútil até o último chefão de maneira extremamente fácil. O principal desafio desse jogo é conseguir alinhar seu boneco com um NPC para interagir, você precisa estar milimetricamente posicionado para conseguir a interação.
+
+Mas se existe algo da jogabilidade de Fable III que merece ser mencionada, é o [[inventário]] desse jogo. Alguém teve a brilhante ideia de transformar o que deveria ser um mero inventário num ambiente no qual você tem que caminhar. Esse lugar se chama "Santuário", a lembrança mais dolorida dos [[caixistas]] que insistiram em jogar Fable III até o fim. Sabe quando num jogo normal você quer usar uma espada e aí abre o inventário, seleciona a espada e já está com ela na mão? Bom, em Fable III ao "abrir o inventário" na verdade você vai pro santuário, caminha por lá, vai até o salão das armas, seleciona a tal espada, e só então estará com ela em mãos no jogo. Quer entregar um item para um NPC? Então você vai pro "santuário", vai pro salão dos itens, seleciona o item, traz o NPC pra dentro do seu santuário, e então entrega o item. Quer saber quanto dinheiro você tem? Você precisa ir pro santuário, ir pra sala do tesouro, e lá tem o número de ouro que você tem. A única coisa que dá pra fazer sem esse processo maldito de santuário é peidar na cara dos NPCs.
+
+Para tornar as coisas ainda mais difíceis, é um jogo sem mapa ou bússola, apenas uma trilha de GPS que te levaria pra favela dos traficantes se você estivesse no Rio de Janeiro. O fast travel? Lá vamos nós entrar na porra do Santuário de novo, entrar no mapa lá e então escolher cidade, dar o zoom, escolher o local exato, e aí ser teletransportado pra outro completamente aleatório porque na verdade o mini-mapa tem nada a ver com a cidade.
+
+E esse jogo ainda tem o modo co-op, o modo que todos queriam para [[Fable II]], que era um jogo decente, mas que foi incluído só nessa sequência e aí seu ajudante online é totalmente desnecessário. O seu ajudante será ignorado por tudo e todos, é como um fantasma. A única utilidade do ajudante online é auxiliar no combate, mas como o jogo é ridiculamente fácil, essa ajuda não é necessária. Mas a [[Lionhead Studios]] resolveu rapidamente esse problema do cooperativo online ao criar também um sistema de balanceamento que permite jogo co-op apenas entre jogadores com os mesmos exatos DLCs. Isso quer dizer que, se você comprou aquela cartola por 2 reais, só poderá jogar com quem também comprou essa mesma cartola. Dessa forma quase ninguém consegue se alinhar para jogar co-op, então isso acaba esquecido igual esse jogo deveria ser esquecido.
+
+== Enredo ==
+
+[[Arquivo:Fable3-gameplay.jpg|thumb|O jogo não tem romance gay. Apenas que para levar bandidos para prisão, você os levam de mãos dadas.]]
+
+Você é o genérico "Royal Hero", um pau-no-cu que mora numa cidade repleta de caixotes vazios. Você é um completo retardado mental que caiu do berço quando criança e após sofrer uma grave lesão cerebral nunca mais pode interagir com as outras pessoas de forma normal. Será comum ver o Royal Hero simplesmente peidar na cara dos outros, bater palmas pros outros, dançar pros outros, imitar galinha pros outros... enfim, se você acha as dancinhas dos bonecos aviadados de [[Fortnite]] uma vergonha é porque nunca tentou Fable III. Você tem um [[cachorro]] sem utilidade para a trama, sem emoção e sem carisma que toda vez que encontrar um buraco você vai sentir é vontade de enterrar o cachorro lá. E o principal inimigo desse poderoso protagonista são as [[parede invisível|paredes invisíveis]], elas estarão por toda parte.
+
+O jogo começa com você sendo traído pelo seu próprio irmão, o Logan, que controla o reino feito um tirano (não pior que você depois que você o derrotá-lo futuramente) que te expulsa do reino porque quer continuar fazendo suas maldades sem sua interferência.
+
+Mas enquanto o herói perambula pelo deserto fazendo amigos, um mais retardado que outro, ele descobre que um monstro com cara de limão azedo chamado Crawler quer conquistar o mundo e que na verdade Logan sempre quis é detê-lo e por isso fez todas aquelas suas maldades, talvez o [[plot-twist]] mais sem emoção de todos os tempos de roteiros de videogame. E você ainda mata Logan para se tornar o novo rei.
+
+Mas o jogo não acaba por aí, agora como rei, você precisa angariar 6,5 milhões de ouros para financiar seu exército e terá 1 ano para fazer isso. São então 1 ano do '''REI''' vendendo [[torta]]s na [[feira]] para conseguir reunir esse dinheiro, isso porque a tecnologia do [[Kickstarter]] não existe nessa época, e nem mesmo o conceito de [[imposto]]. Mas após reunir a grana, você enfrentar o tal Crawler (da mesma maneira que poderia enfrentá-lo sendo um mendigo se quisesse), mata o bicho, e assim está encerrado esse RPG que além de ser ruim em todos aspectos, ainda tem uma história curta dessas.
+
+== Recepção ==
+
+Fable III é um jogo odiado por todos. Os sonystas odiaram sem nem jogar porque já sabem que tudo pra Xbox é ruim. Os caixistas odiaram após jogarem porque após a quinquagésima vez que tiveram que entrar no "Santuário" pra fazer alguma ação mundana, eles tiveram um surto psicótico e desligaram o videogame. A [[Game Informer]] deu uma nota 9/10 com o título de matéria dizendo "se você gosta de tela de [[loading]] como nós amamos, então você vai amar esse jogo também!". Enquanto a [[GameSpot]] lembrou que Fable III requer em média 15 horas para ser zerado, dentre as quais 3 horas são navegando no "inventário", outras 3 horas são as telas de loading, e as demais 9 horas são de combates maçantes que podem ser vencidos com apenas 1 botão pressionado eternamente.
+
+{{Fable}}
+
+[[Categoria:Jogos da Lionhead Studios]]
+[[Categoria:Jogos da Microsoft Game Studios]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de RPG]]
+[[Categoria:Jogos lançados em 2010]]

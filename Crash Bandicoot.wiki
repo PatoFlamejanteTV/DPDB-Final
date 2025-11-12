@@ -1,0 +1,67 @@
+{{nota:|Este artigo fala da série de jogos, se procura aquele marsupial com paralisia facial consulte o artigo [[Crash Bandicoot (personagem)]]. Se procura o primeiro jogo de 1996 consulte [[Crash Bandicoot (jogo)]].}}
+{{game}}
+{{Furry}}
+{{Infobox Série Game
+|title         = Batida do Marsupial
+|image_logo    = Crash logo.jpg
+|caption       = Logotipo da série ([[ou não]])
+|genre         = Plataforma e raiva
+|developer     = [[Vicarious Visions|Vigário Vicioso]]
+|publisher     = [[Activision|Uma empresa falida]]
+|origin        = PS1
+|first_release = [[Crash Bandicoot (jogo)|Crash Bandicoot 1]] (1996)
+|last_release  = [[Crash Team Rumble]] (2023)
+}}
+{{Você quis dizer|[[Creche]] [[Bandido]]}}
+{{Você quis dizer|Raposa}} 
+{{C|[[Crash Bandicoot Woah|Woah!]]|Crash Bandicoot|ele mesmo}}
+{{C|Não são {{#switch: {{#expr: {{#time: H}} mod 3}}|0=maçãs! São wumpas!|1=raposas! São marsupiais!|2=raposas! São bandicoots!}}|Qualquer fanboy puto de Crash}}
+
+'''Crash Bandicoot''' é uma superestimada série de [[jogos de plataforma]], mais rodada que bunda de prostituta, já passou na mão de inúmeras empresas, todas querendo passar essa franquia adiante, sabendo o insucesso e o prejuízo que seus jogos sempre resultam. Surgiu inicialmente como um modo fracassado como a [[Sony]] tentou, sem sucesso, desbancar os jogos de plataforma do [[Nintendo 64]] imensamente superiores aos jogos de Crash, tanto em jogabilidade como em carisma de personagens. Só fingem ser fãs dessa série quem foi criança na década de 90 e deu o azar dos pais comprarem para eles um PS1 ao invés de um videogame melhor.
+
+Os jogos de Crash se passam na ilha fictícia da [[Austrália]] (renomeada nos jogos de "Wumpa Island" por questões de direitos autorais), com alguns jogos acontecendo na [[Tasmânia]] em específico. Você sempre controla o protagonista, um gambá australiano com paralisia facial, o Crash Bandicoot, que também usa jeans.
+
+== Jogabilidade ==
+[[Imagem:Crash bandicoot carlos.jpg|thumb|250px|Disco da versão [[Herbert Richers]].]]
+Todos os jogos de Crash seguem um mesmo padrão de jogabilidade no qual controlamos Crash por fases lineares repleta de desafios bem imbecis como pular abismos, quebrar caixas e coletar vibradores. Estes jogos tinham tudo para serem simples e casuais, porém alguma alma de mau coração decidiu adicionar à jogabilidade um controle truncado, câmeras trolladoras e uma mecânica e física bugadas, de modo que os jogadores sempre morressem 500 vezes por fase, nunca culpa deles, mas sim de algum erro de mecânica do jogo, porque como são fases totalmente lineares, o desafio cognitivo ou de raciocínio é o menor possível sempre, ficando o desafio voltado mais para coordenação motora e paciência.
+
+Os jogos então focam-se em três coisas: Fazer você morrer de modo besta por culpa da mecânica mal feita do jogo, fazer você pegar um monte de tranqueiras, porque o Crash é colecionador compulsivo, e o principal de tudo, fazer você destruir o máximo de caixotes de madeira possíveis. O ódio por caixas é latente em todos jogos da série, até nos spin-offs sempre surge chances de quebrar caixas.
+
+== Jogos ==
+
+{{Imagem-dupla|right|Hamtaro e Bijou.jpg|220|Crash e Coco.jpg|250|Crash e Coco antes e depois de sofrerem experimentos de laboratório com anabolizantes nas mãos do terrível Cortex.}}
+
+* '''[[Crash Bandicoot (jogo)|Crash Bandicoot 1]]''' - Primeiro jogo da série, conta a origem de Crash e seu trauma por caixotes, narrando como ele e sua namoradinha Tawna eram apenas um par de marsupiais pacatos até um cientista maluco chamado Cortex aparecer em [[Tuvalu]] (cenário do primeiro jogo) e testar seu raio laser de [[tesão de vaca]] em animais indefesos, transformando-os todos em ninfomaníacos safados, sedentos e insaciáveis. O experimento deu errado em Crash, só causou nele uma [[paralisia facial]]. Irritado em não poder mais comer <s>seus pêssegos</s> suas wumpas, começou a destruir todos caixotes que encontrasse pela frente, e nosso objetivo é esse, destruir o máximo de caixas possíveis.
+* '''[[Crash Bandicoot 2: Cortex Strikes Back]]''' - Um ano se passou após os eventos do primeiro jogo e Cortex, decepcionado por ter sido derrotado por um pequeno marsupial laranja com paralisia facial, cai na depressão e se entrega ao álcool, tornando-se integrante dos alcoólatras anônimos onde conhece [[N.Gin]], cujo apelido veio por sua paixão pelo licor de [[zimbro]], caracterizado por um míssil embutido no crânio. Ele leva Cortex como assistente e os dois criam uma estação espacial denominada Cortex Vortex, para assim dominar o mundo ao coletar uns cristais, mas graças a Crash, o mundo poderá ser salvo.
+* '''[[Crash Bandicoot: Warped]]''' - Como no mundo nada se cria, tudo se copia, o vilão da vez é Uka-Uka, uma Majora's Mask do mundo do Crash que foi presa alguns séculos atrás por acusações de associação criminosa visando conquistar o mundo. Agora o seu irmão do bem, o Aku-Aku, precisa da ajuda de Crash.
+* '''[[Crash Bandicoot: The Wrath of Cortex]]''' - Primeiro jogo da série lançado para [[PlayStation 2]], um console infinitamente melhor e com jogos mais variados que o PS1, ninguém nem se preocupou em adquirir esse jogo e também os gráficos ficaram bem inferiores do que realmente devia.
+* '''[[Crash Twinsanity]]''' - Só vários jogos depois Cortex consegue trabalhar junto de Crash, nesse jogo, para quebrar uma variedade assustadoramente nova de caixotes e de vários bugs. F TheRedhotbr em 1° lugar no sitedespeedrunquetodomundoconhecemasagenteesqueceolink.com
+* '''[[Crash of the Titans]]''' - Alguém da [[Sierra Entertainment]] jogou [[God of War]] [[Shadow of the Colossus]] e achou aquele jogo genial, querendo fazer uma parodia com Crash. Todos devem também ter achado genial o trocadilho do título "Crash of the Titans".
+* '''[[Crash: Mind over Mutant]]''' - O jogo que terminou de sepultar a saga Titans, a mais fracassada da franquia e que quase também sepultou a série de jogos, nem os maiores fãs sabem da existência ou do que se trata esse jogo que num desespero foi lançado até para o Wii.
+* '''[[Crash Bandicoot N. Sane Trilogy]]''' - Como sempre se soube, os jogos de Crash são um fracasso, ninguém nunca se interessou e os poucos que dizem ser um jogo fantástico de suas infâncias estão apenas claramente mentindo e fingindo nostalgia, ninguém aguenta qualquer jogo de Crash por conta própria, por isso a franquia ficou esquecida, não havendo jogos para [[PlayStation 3]]. Mas em 2017, numa onda de retardismo mental mundial e falsas sensações de nostalgia, muitos começaram a pedir um jogo de Crash novo, a [[Activision]] e mandou a [[Vicarious Visions]] fazer esse N. Sane Trilogy, e todo mundo que adquiriu o jogo apenas foi depois reclamar no twitter que o jogo era impossível de difícil.
+* '''[[Crash Bandicoot 4: It's About Time]]''': Um jogo que foi feito a base de várias reclamações que até franquias mortas como Ratchet e Clank estavam recebendo jogos novos. Se trata de um que tenta ser difícil e que também tenta imitar os aspectos do anterior, com uma hitbox que irá lhe trollar metade das vezes nesse jogo e com mais coisa adicionada, com a inserção de novas máscaras, caixas brincando de esconde-esconde, novos personagens inúteis e trocentas formas de lhe matar. Sua história é mais ou menos, isso até tentar imitar a história o [[Mortal Kombat 11]], onde fica pior a cada minuto.
+
+== Spin-offs ==
+[[Arquivo:Crash Bandicoot 100 porcento.png|200px|thumb|O tão esperado 100% em um jogo.]]
+* '''[[Crash Team Racing]]''' - Tal qual o [[Mario Kart]], não existe nenhuma explicação lógica para a existência desse jogo. Até tentaram fazer um enredo bem idiota, sobre um ET chamado Nitrous Oxide que quer assumir o planeta Terra para transformá-lo num enorme estacionamento para ser usado para exploração de prostituição, sendo a única maneira de salvar o planeta ter que desafiar e vencer Oxide em uma corrida de karts.
+* '''[[Crash Bash]]''' - Só uma [[Mario Party]] do Crash com [[lepra]].
+* '''[[Crash Nitro Kart]]''' - O mesmo Crash Team Racing, só que com quase a mesma história, mudando os chefões deste jogo e o estilo de corrida.
+* '''[[Crash Tag Team Racing]]''' - Talvez o pior da trilogia inicial de jogos de corrida desta série. O jogo se passa em um parque de diversões e possui o modo de se juntar a outro carro.
+* '''[[Crash Boom Bang!]]''' - Um Crash Bash que consegue ser pior ainda, se trata de um jogo tão horrível desta série que é esquecido por quase todos fãs.
+* '''[[Crash Team Racing Nitro-Fueled]]''' - Um Crash Team Racing com a mesma história besta e com gráficos melhores, mais personagens e pistas, porém com as odiadas microtransações, que cagaram todo o possível sucesso deste jogo.
+* '''[[Crash Team Rumble]]''' - A Activision pensou que estava em 2015 para fazer um MOBA com personagens de uma série quase falida.
+* '''<s>Crash Bandicoot Brawl</s>''' - Essa série de jogos tá tão em declínio que a Activision teve que usar [[inteligência artificial]] para cuspir na cara dos fãs restantes dessa franquia.
+
+== Ver também ==
+
+* [[Mario Bros]]
+* [[Sonic]]
+
+{{Crash Bandicoot}}
+{{Activision Blizzard}}
+{{Plataforma}}
+
+[[Categoria:Jogos da Vicarious Visions]]
+[[Categoria:Jogos da Activision]]
+
+[[it:Crash Bandicoot]]

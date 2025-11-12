@@ -1,0 +1,26 @@
+
+{{c|Gente boa, esses pessoal. Eu mesmo dei alguns conselhos pro Werther, na hora d'ele publicar o código do seu Case.|Oscar Wilde|SpeedCase}}
+
+== O que é ==
+A tecnologia CASE é uma combinação de ferramentas de software para abalar o processo de desenvolvimento. Tem como objetivo automatizar o processo de tornar lento o desenvolvimento de software. SpeedCase é a ferramenta desenvolvida para ser utilizada com Delphi. 
+Mais ou menos igual o Venom do Spider Man, só que ao invés de deixar o cara mais rápido, deixa ele mais lento.
+
+== Vantagens ==
+[[Arquivo:Urdhdl.jpg|thumb|right|185px|O criador da SPEEDCASE]]
+* Sabe aquela documentação que os analistas sempre pedem e nunca leem?<br>
+* Sabe aquele cliente chato que quer o diagrama do sistema porque acha bonitinho caixinhas guiadas por linhas?<br>
+* Sabe aquela necessidade de deixar o código ilegivel pra se sentir fodão?<br>
+* Sabe aquela desculpa de que nunca dá tempo?<br>
+* Sabe aquele curso que você sempre quis fazer pra poder matar tempo no trabalho e ainda encher a barriga no coffee break?<br>
+* Sabe aquela vantagem de escrever sistema multi-bancos de dados (apesar do cliente só utilizar Mysql ou Firebird, porque são de graça)?<br>
+
+== Historia ==
+Programadores frustrados com a facilidade em se desenvolver softwares utilizando-se a IDE do Delphi para a criação de soluções rápidas baseadas em [[POG]] desenvolveram esta ferramenta que serve, justamente, para complicar tudo novamente.<br>
+Com uma interface que visa basicamente atrapalhar o programador de final de semana que estava começando a entender o que diabos seria um "object inspector", pode-se utilizar todas as facilidades da Ferramenta [[RAD]] (Retarded application development, ou desenvolvimento de aplicações retardadas) removendo-se da linguagem aquilo que a tornou mundialmente famosa. o RAD.<BR>
+Ou seja, pode-se desenvolver aplicativos em [[Delphi]] agora na mesma velocidade de desenvolvimento conseguida no famoso [[C#]]. Afinal, a pressa é a inimiga da perfeição e dos finais de semana ocupados.<br>
+Aguardamos ansiosamente o release do SpeedCase para Visual Basic, porque aí é que ninguem mais desenvolve nada.<br>
+
+== Onde Aprender ==
+Atualmente pode-se participar de seminarios para o aprendizado desta magnifica ferramenta, o que torna totalmente inutil certificações em Delphi, já que nada do que você aprende com a [[Borland]] pode ser aplicado no Delphi lowered by SpeedCase.<br>
+
+[[Categoria:Software]]

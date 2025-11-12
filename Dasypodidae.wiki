@@ -1,0 +1,62 @@
+{{animal}}
+
+{{taxocaixa
+| cor             = pink
+| nome            = Tatu
+| imagem          = tatu_icosaedro.jpg
+| imagem_legenda  = O belo e raro '''tatu-icosaedro''', de 20 faces, muito utilizado na confecção de dados para [[RPG]]
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| subclasse       = [[Theria]]
+| infraclasse     = [[Placentalia|Placentários]]
+| ordem           = '''[[Cingulata|Singular]]'''
+| família         = [[Dasypodidae|T.A.T.u.]]
+}}
+
+{{Vqd|[[T.A.T.u.]]?}}
+{{c|Na '''[[União Soviética]]''', tatu caminha dentro de '''VOCÊ!!'''|[[Reversal Russa]]|tatu}}
+{{c|Tá limpando o salão??|[[Sua Mãe]]|[[você]] caçando tatu}}
+{{c|Em caminho de '''[[paca]]''', tatu com a minha dentro?|[[eu]]|[[você]]}}
+
+'''Dasypodidae''' é uma família de mamíferos raros, conhecidos popularmente como '''tatus''' é um mamífero casca-grossa e desdentado que habita quase todos os pontos do território [[Brasil|brasileiro]] e [[mundo|mundial]]. Ele é conhecido por seus hábitos estranhos, como andar em buracos de [[cobra]] e transformar-se em sólidos geométricos variados. É dito também que comer tatu é bom, mas dá dor nas costas.
+
+==Aspectos biológicos==
+Devido à sua casca grossa, o tatu não é um animal muito sociável, mantendo-se isolado do mundo em suas tocas escuras e sombrias. Por não ter dentes, ele costuma alimentar-se apenas de [[animal|animais]] e [[vegetal|vegetais]] de consistência macia e delicada, que não precise mastigar. Por isso, o tatu ingere apenas [[formiga]]s, [[sopa]]s e [[fruta]]s podres, o que o torna um dos animais mais seletivos do [[mundo]].
+
+Talvez por causa disso, o tatu se mantém distante dos outros bichos da floresta, que recusam a companhia de [[alguém]] com hábitos alimentares tão refinados. Banido, ele se refugiou no subterrâneo, onde desenvolveu a curiosa tática de proteção de se enrolar em sua casca e tornar-se praticamente invulnerável a ataques externos de qualquer origem (incluindo psíquicos).
+
+Entretanto, com a abordagem certa, o tatu pode ser convencido a se abrir (para tanto, normalmente é necessária muita conversa) para, só então, poder ser morto. Caçadores de tatu experientes costumam prestar consultoria para gestores de [[Recursos Humanos]] em dinâmicas de grupo que visem a fazer as pessoas baixarem suas defesas e abrirem-se mais. Depois de morto, a carne do tatu normalmente é usada como comida e sua casca como blindagem de tanques ou armaduras pessoais.
+
+===Quando o tatu se enrola===
+
+Quando atacado, o tatu costuma se enrolar, protegendo seus órgãos vitais e deixando visível apenas sua [[Juggernaut|couraça indestrutível]]. Apesar de a espécie mais conhecida [[Lula|neste país]] ser a '''[[Bola]]''', há registros da existência dos '''''Tatus-pirâmide''''', '''''Tatus-hexaedro''''' e outros sólidos geométricos mais desconhecidos. Recentemente, foi descoberto nas profundezas da [[Malásia]] um tatu de formato impossível de ser classificado em [[três dimensões]], para cuja identificação foi chamado um [[matemática|matemático]].
+
+==Habitat==
+[[Arquivo:Tatuu.jpg|left|thumb|As biólogas na capa de seu álbum acústico]]
+Apesar de serem naturais do [[Brasil]], os tatus, por meio de sua extensa rede de túneis subterrâneos, são capazes de chegar a qualquer ponto do [[globo]]. Por isso, foi reportada a existência da espécie em praticamente todas as regiões do planeta, à exceção do [[Acre]]. Devido à sua extrema facilidade de adaptação, conseguem estar preparados para viver em qualquer ambiente, de [[floresta]]s ao fundo do mar, passando por desertos e cadeias montanhosas.
+
+==A polêmica do buraco de cobra==
+{{c|Em buraco de [[cobra]], [[Tatu que caminha dentro|tatu caminha dentro]]?|Dito popular|o tatu}}
+
+[[Biologia|Biólogos]] e [[Zoofilia|Zoólogos]] de diversas universidades têm se metido em diversas tocas de tatu para investigar se o animal é ou não capaz de locomover-se em túneis escavados por cobras. A pesquisa, iniciada em [[2006]] por uma [[T.A.T.u.|dupla de biólogas lésbicas russas cantoras]] ainda não chegou a nenhum resultado satisfatório, mas gerou uma linha de pesquisa paralela, realizada principalmente no [[Pantanal]] brasileiro, voltada a descobrir se ''[[jacaré]] no seco anda''.
+
+== Gêneros ==
+
+* '''[[Chlamyphorus]]''' - pichiciego-menor
+* '''[[Cabassous]]''' - tatus-de-rabo-mole
+* '''[[Chaetophractus]]''' - tatus-cabeludos
+* '''[[Dasypus]]''' - tatus típicos
+* '''[[Euphractus]]''' - tatupeba
+* '''[[Priodontes]]''' - tatu-canastra
+* '''[[Tolypeutes]]''' - tatus-bola
+* '''[[Zaedyus]]''' - tatu-anão
+
+[[Categoria:Placentalia]]
+[[Categoria:Dasypodidae|*]]
+
+[[en:Armadillo]]
+[[es:Armadillo]]
+[[it:Armadillo]]
+[[ja:アルマジロ]]

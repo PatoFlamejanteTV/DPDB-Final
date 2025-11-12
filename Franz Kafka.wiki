@@ -1,0 +1,67 @@
+<choose>
+<option>{{escritor}}</option>
+<option>{{doido}}</option>
+<option>{{filo}}</option>
+</choose>
+{{c|Vem Kafka comigo!|Barata|Kafka}}
+
+'''Françoise Kafka''' ou Kazinho ou ainda Franz ou melhor, Franz Kafka, conhecidíssimo [[autor]] neo-violenista, foi um personagem influenciado pela autoridade onipresente de seus vizinhos surdo-mudos além da opressão mal-cheirosa do [[Peru]]. Nasceu numa época estranha, tentou fazer faculdade mas sentiu logo que a vida acadêmica era muito "[[comunista]]" para seu atual estado de espírito. Resolveu, portanto, num insight filosófico-zapatista, escrever livros que ninguém entendesse. Sua frase mais famosa é: "possuo todas as características e atribuições para ter sucesso estomacal"
+
+[[Arquivo:kafka infância.jpg|thumb|left|Infância conturbada com brinquedos anh, esotéricos...]]
+
+== Sobre o nome Kafka == 
+Kafka descendia de uma família turca onde a carne denominada [[kafta]] era digerida de cinco em cinco minutos pelos orifícios auriculares de seus membros. A cada mordidela, os membros davam um silvo para o ar em sinal de alegria. O pai, orgulhoso dos feitos de seus antepassados, resolveu, quando escapuliu para a [[Checoslováquia]], adotar o codinome Kafka para sua família fazendo assim com que homenageasse seus antepassados ao mesmo tempo que ocultava suas origens da parada-gay comunista dos países que o perseguiam.
+
+== Curiosidades == 
+
+Quando criança, Kafka possuía uma coleção de soldadinhos de chumbo na qual era muito apegado. Era seu desejo, contudo, ser escoltado por esses brinquedos em seu velório.
+
+Kafka, ou "ei, cara" (como é tratado pelos amigos mais próximos) pode ser visto emborcando uma cervejinha no LIMBO (Av. Afonso Pena, 666) enquanto lamenta a desastrosa campanha da Seleção Turca de Handball. "Se ao menos abrissem as mãos para segurar a bola...", avalia.
+
+== Vida e obra ==
+
+Kafka teve uma carreira tumultuada por estranhas correntes doutrinárias. Formado em direito pela [[Universidade Estácio de Sá]], teve seu primeiro romance publicado dois séculos após sua morte. Na sua obra de maior renome, A metamorfose, Kafka conta a história de um rapaz que, de repente, se transforma numa barata enorme e é esmagado pela família, incrédula. Era esse o tipo de literatura que a Europa de então não precisava, por esse motivo, sua obra fora truculentamente queimada em praça pública pela [[Inquisição Espanhola]] que monitorava os arrebaldes da Alemanha de então.
+
+[[Arquivo:Kafka Auge.jpg|thumb|'''Kafka no auge de sua beleza e num momento importantíssimo de sua carreira porno-literária''']]
+
+Kafka então pensou grande, como não poderia vencer seus inimigos, juntou-se a ele. Escreveu algo como uma manual de torturas a ser usado na extração das confissões, escreveu sua genial obra, Na Colônia Penal. Nesse romance, Kafka conta a triste e melodramática história de uma máquina que rabiscava o crime na pele viva de quem o cometeu, para que esse a soletrasse sem mesmo nunca ter lido aquilo que em sua pele era feito.
+
+Mas a vida é uma caixinha de surpresas, a Inquisição não viu aquilo com bons olhos e mandou que todos os exemplares fossem tirados de circulação, talvez por temerem uma concorrência ou seja lá o que for. Num último suspiro e desanimado, abatido, Kafka começou a escrever seu último Best Seller eleito segundos os critérios da revista [[Veja]], o senscional O Castelo. Nessa obra o [[autor]] conta as desventuras de um agrimensor diante da grandeza burocrática do castelo onde deveria trabalhar. Fato: o [[autor]] não chegou a terminar o romance, altas taxas de colesterol e triglicérides ceifaram o resto de seus dias. A humanidade se prostou perplexa: "O que fazer com um romance não-acabado?". O certo é que até hoje poucos foram os mortais que se atreveram a dar um fim a tal pedaço da genialidade humana.
+=== Livro - O Processo ===
+{{c|O livro do Kaf'''t'''a|Abraham Weintraub|O Processo}}
+No livro "O Processo", Franz Kafka desenrola uma trama onde o protagonista sofre uma angústia terrível quando é processado por um crime que ele desconhece.
+
+Resumo do livro:
+
+<YouTube>
+title=O Processo - A Angústia do protagonista
+movie_url=http://www.youtube.com/v/xKExXjFAQz4
+embed_source_url=http://www.youtube.com/v/xKExXjFAQz4
+wrap=no
+width=400
+height=300
+</YouTube>
+
+{{Principais Autores da Literatura}}
+
+[[Categoria:Judeus da Tchéquia]]
+[[Categoria:Escritores da Tchéquia]]
+[[Categoria:Ateus da Tchéquia]]
+[[Categoria:Anarquistas da Tchéquia]]
+[[Categoria:Coisas de doido]]
+
+[[bar:Franz Kafka]]
+[[cs:Franz Kafka]]
+[[de:Franz Kafka]]
+[[en:Franz Kafka]]
+[[es:Franz Kafka]]
+[[fi:Franz Kafka]]
+[[fr:Franz Kafka]]
+[[it:Franz Kafka]]
+[[ja:フランツ・カフカ]]
+[[ko:프란츠 카프카]]
+[[nds:Franz Kafkamel]]
+[[pl:Franz Kafka]]
+[[ru:Кафка, Франц]]
+[[sk:Franz Kafka]]
+[[sv:Franz Kafka]]

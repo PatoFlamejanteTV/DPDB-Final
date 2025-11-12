@@ -1,0 +1,184 @@
+ 
+{| class="toccolours" style="width:235px; margin: 0 0 0.5em 1em; float:right; clear:right;" 
+! bgcolor=#00DEFF align=center |<font color=#000099 size=3>'''Engenheiro de Controle e Automação (Mecatrônico)'''
+|-    
+| style="text-align:center;" |[[Arquivo:Camamecatronico.jpg]]<br><small>Mecatrônico nunca comparece</small>   
+|- style="text-align:center;"
+! style="background: #00DEFF;" | '''Classificação Pseudo-Científica'''
+|- style="text-align:center;"
+<noinclude>
+</noinclude>
+|
+{| style="margin:0 auto; text-align:left; background:none;" cellpadding="2"
+|- valign=top
+|'''Reino:'''||Assexualidadelia
+|- valign=top
+|'''Filo:'''||Tetudinhus
+|- valign=top
+|'''Classe:'''||Barrigudus
+|- valign=top
+|'''Ordem:'''||CLP
+|- valign=top
+|'''Família:'''||Sensor
+|- valign=top
+|'''Gênero:'''||MATLAB / Labview
+|- valign=top
+|'''Espécie:'''||Nerd Perpétuos
+|}
+|- style="text-align:center;"
+! style="background: #00DEFF;" | '''Nome Pseudo-Científico'''
+|- style="text-align:center;"
+|'''''Engenheirum Gambiarryus'''''
+|}
+
+{{você quis dizer|Um pouquinho de cada coisa?|Engenharia de Controle e Automação (Mecatrônica)}}
+{{c|Mas você vai trabalhar com o que filho?|Pergunta típica de sua mãe|com o que você vai trabalhar}}
+{{c|O meu objetivo aqui é reprovar vocês!|Professor|a aula inaugural do curso.}}
+{{c|É... hum.. É hum.... Mexe um pouquinho com eletrônica, com mecânica e um pouquinho de informática|Aluno|uma resposta a qual cargo exercerá em uma empresa.}}
+{{c|Controle e Automação e Mecatrônica são a mesma coisa. Não encham o saco PORRA!|Professores do MEC após a convergência de nomenclatura (ou qualquer merda dessas)}}
+{{c|Pra quê estudar? Eu já tô fudido mesmo.|Aluno| como está altamente motivado e comprometido com os estudos}}
+{{c|Se quiser entender na prática, faça um curso no SENAI porra!|Professor|alunos que estudam em universidades que não possuem  laboratórios adequados}}
+{{c|Não vai assinar porra nenhuma!|CONFEA / CREA|resposta após pagar a anuidade e emitir sua primeira ART}}
+
+==Definição==
+[[Arquivo:Porranenhuma.jpg|thumb|175px|left|Estudante de mecatrônica sendo zuado no estágio.]]
+ 
+O curso é facil, o aluno só precisa estudar 23:59 horas por dia que dá pra levar tranquilo. Isso não é problema, já que os mesmos raramente costumam socializar com outros seres humanos, e muito menos entendem a definição da palavra sexo. Acham que vão virar mestres na robótica, tipo o Tony Stark,e sonham em criar sua própria armadura, e um JARVIS baseado em LINUX (porque software proprietário não rola).Mas estão miseravelmente enganados, pois, apenas colocarão a mão em um robô se o curso deles tiver um. E se você desejar fabricar um robô, prepare-se para ir direto para o hospício. Ou então, vai ter que comprar um pronto: Ou seja, vai ter comprar um de R$ 700,00! Ferrou-se! E ainda por cima um lego (robô que até minha avó sabe mexer).
+
+Talvez, o máximo que você conseguirá é fazer um agrupamento qualquer de metais e produtos eletrônicos que se move de forma autônoma (aleatória) e inclui pelo menos uma luz piscando (feita com uma placa clone porque você não tem grana para comprar um Arduino original). Se o aluno estuda em um bom instituto ou universidade e possui a estrutura de equipamentos adequada, provavelmente, o aluno estuda o dia todo, portanto é um grande vagabundo, sustentado pelos pais. A área exige conhecimentos de eletrônica, mecânica e computação.
+
+==História==
+[[Arquivo:Tipicacena.jpg|thumb|190px|Profissional de mecatrônica que faz tudo mas não sabe nada.]] 
+Para que chamar um engenheiro eletricista? Ou mecânico? Ou de computação? Simplesmente chame alguém que aprendeu um pouquinho de tudo, mas que na realidade não sabe nada.
+A criação desse ramo de engenharia surgiu da necessidade de profissionalizar profissionais [[POG]], que pudessem usar a orientação à gambiarra da melhor forma possível. Aí, sua empresa [[POG]], terá instalações [[POG]] feitas por um profissional [[POG]].
+
+==Fauna==
+É extremamente variada e exótica. Você pode nivelar a sociedade pelos tipos que passam aqui. E todos possuem algo em comum: "Não sabem exatamente com o que vão trabalhar".
+
+===Tipo 1: [[Playboy|Boyzinho]]===
+É o tipo que nunca mexeu com eletrônica, a única coisa que entende de mecânica é o design do seu Honda-Civic e em computação, ele está louco para saber como faz para [[noob|Hackear orkut]].
+
+Esse ser humano muito útil à sociedade não trabalha e apenas respira o ar que você poderia respirar. Acorda às 11h, já assiste o jornal sobre futebol na Band, come alguma coisinha, assiste ao Globo Esporte, toma seu hipercalórico, vai na academia, toma seu whey protein, toma seu malto, seu aminoácido, volta pra casa, vai pra faculdade, faz uma moral com as minas, volta pra casa e este ciclo é repetido. Veja como é o comportamento desse tipo de ser humano muito útil à sociedade na balada:
+
+{{C|O que você faz?|[[puta|Menina aleatória de uma festa qualquer, já no meio de uma conversa]]}}
+
+{{C|Faculdade...|Playboy de Engenharia de Automação}}
+
+{{C|Legal! Do que?|[[Puta|Menina]]}}
+
+{{C|Errrmmm... Engenharia...|Playboy, já prevendo a merda}}
+
+{{C|Noooosssaaaaaa!! Elétrica? Ambiental? Florestal? Têxtil?|[[Puta|Menina]]}}
+
+{{C|Não, Engenharia de Controle e Automação...|Playboy}}
+
+{{C|Ah, vai tomar no [[cu]]! Loser de merda!|[[puta|Menina]]}}
+
+===Tipo 2: [[Pobre]]===
+[[Arquivo:Senai.jpg|thumb|160px|Senai, um pré-requisito para os pobres que entram no curso.]] 
+Pobres, que fizeram cursos técnicos no SENAI desde os 5 anos de idade, e querem largar da vida dura de técnico, mas mal sabem digitar textos no Word e o único acesso que teve ao computador foi devido ao parcelamento em 24x de um computador Positivo das casas Bahia ou devido a algum programa de inclusão  digital patrocinado pelo governo.
+
+É muito comum o caso de senhores de 40 anos que não aguentam mais a vida de técnico e vão para a faculdade. E o engraçado é que esses senhores pobres olham de tal maneira para as menininhas gostosas da faculdade, que fica difícil acreditar que são casados.
+
+Estudantes pobres, quando são muito esforçados, acabam se dando bem rs: Quando estudam em universidade pública, dão adeus para a vida mulherística por 4 anos. Quando estudam em universidade privada, ficam devendo dinheiro até para o supermercado.
+
+===Tipo 3: [[biscoito|As POUCAS Mulheres cansadas de chacotas (fiquem espertos com essa categoria...)]]===
+Aquelas que se cansaram dos preconceitos, como: {{c|Mulheres não podem ser eletricistas porque demoram nove meses para dar a luz}}, {{c|Muito menos mecânicas, não vão dar conta do recado}}... Elas querem acabar com as outras categorias!
+
+===Tipo 4: [[lolita|Meninas gostosas]]===
+É mais fácil você encontrar Deus pessoalmente e tomar uma cerveja com Ele no bar da esquina que encontrar gostosas e quando uma gostosa frequenta o curso, ela pode ter boas notas. Sim acredite! Professores da área de exatas geralmente são feios, horríveis e fazem o possível e o impossível para conseguir comer uma gostosa que cursa mecatrônica. 
+
+Basta uma gostosa ir com um belo decote nos dias de prova, ou nos dias de entrega de prova, que provavelmente ela fechará Cálculo XV com 10.
+
+==Como identificar um engenheiro mecatrônico==
+[[Arquivo:Idiotamecatronica.jpg|thumb|230px|Único livro usado em todo o curso.]]
+*Muito feios
+*Pouca auto-estima
+*Fizeram SENAI ([[ou não]])
+*Nunca assistiram TV Cultura
+*Dizem que música clássica é pra viado
+*Dizem que jazz é pra viado
+*Dizem que Iron Maiden inventou o rock
+*Acham que literatura e filosofia são completamente inúteis (com toda a razão)
+*Fizeram curso técnico
+*Programador frustrado
+*Eletricista frustrado
+*Mecânico frustrado
+
+==Grade curricular==
+
+===[[caganeira|Mecânica dos fluídos]]===
+É uma tentativa de tentar explicar o comportamento (depressão, solidão, angústia, etc.) dos fluidos incompreensíveis. Mas qualquer explicação é uma simplificação do mundo real. Portanto, os resultados conseguidos na classe sempre são uma aproximação do real e como consequência, você na realidade é enganado. Uma prova disso, é que mesmo você conseguindo a proeza de tirar 10 em todas as provas, você nunca conseguirá trabalhar em uma empresa que mexa com fluidos apenas por saber de cor toda a teoria de Mecânica dos Fluidos. Só com um curso no SENAI você conseguirá entender na prática essa disciplina: Você estudará bombas, motores mas nunca verá uma bomba, só com um curso no SENAI! Outro ponto importante, é que como em quase todas as matérias, você só passará dessa matéria através de métodos de memorização de resolução das equações. Tenha em mente isso: Você nunca vai entender, portanto, MEMORIZE. 
+
+*'''Teorias inúteis que você nunca usará no trabalho -''' Equações de Navier-Stokes, Fluido newtoniano, Tubo de Venturi, Equação de Bernoulli e Equação da continuidade.
+
+===Físicas I, II, III <s>[[The Offspring|IV, V, V, VI]]</s>===
+Se você foi é um cara boy, que fez um bom ensino médio, estudou com o material do Anglo/Objetivo você vai se dar bem. Do contrário, sofrerá pacas. Uma característica dessa porcaria:Física I é ensinado sem  você saber integrar. Ou seja, não é ensinado nada novo, você tem um revival do ensino médio (a diferença é que não tem mais gostosas na classe). Se algum aluno assistiu a algum documentário pseudo-científico, pensando que ia se maravilhar com a matéria, ver na prática tudo... miseravelmente se ferrou. Verão apenas uma quadro-negro em sua frente e um professor desmotivado e desiludido não nunca conseguir ter pego uma gostosa. Ou provavelmente um professor que só pensa no seu trabalho de pesquisador, mas esquece constantemente que tem que dar aulas. Essa disciplina é a base para todo o curso, mas o problema é que a ênfase teórica que você poderia aprender, só pode ser aprendida com o auxílio da internet. Por quê? Já viu um professor de física com um bom material teórico? Já está acostumado a ter 1 aula teórica 5 aulas de exercícios? Ou seja, você poderia chamar este curso de "Matemática Aplicada", porque você vai passar fazendo inúmeros cálculos e não vai saber aplicar nada.
+
+*'''Teorias inúteis que você nunca usará no trabalho -''' Eletromagnetismo (Análise: O cara que consertou a sua televisão/micro-ondas nunca ouviu falar de Integral amigão!), Óptica, Termodinâmica, e Ondulatória (Até um engenheiro da National Instruments nunca usou as fórmulas de ondulatória pra ganhar os seus $30.000,00 por mês).
+sou gostoso
+
+===[[Jackass|Física experimental]]===
+[[Arquivo:Fluído pitagórico.gif|thumb|200px|right|Mistura <s>de sulfato de cobre penta-hidratado com água</s> de mecânica dos fluídos com física experimental ou pura falta do que fazer?]]
+
+É chamado de "passar-nas-coxas". É muito usado quando o professor de Física tem misericórdia e quer ajudar os alunos que se ferraram em Física I,II... .Isso é claro, quando há ligação com a disciplina de física com o laboratório, porque, senão houver, você está ferrado amigão. O interessante são os grupos de 7 pessoas, onde apenas 2 pessoas fazem o experimento e o restante ficam batendo papo, xavecando homens do próprio laboratório. Outro aspecto interessantíssimo é a formatação dos relatórios do experimento. Geralmente, quem faz o relatório nunca ouviu falar do "alinhamento justificado", existente no Microsoft Word. É tudo alinhamento à esquerda. Sem contar as palavras "eléctron" encontradas na parte teórica do relatório (Prova fatídica de que o texto foi copiado e colado da Wikipedia).
+
+===Desenho Técnico===
+É uma matéria típica do SENAI. Você pode aprender desenho técnico assistindo às fitas VHS do telecurso 2000. Mas... é claro, se você ter a infelicidade de pegar um professor carrasco, provavelmente ele vai querer dificultar as coisas, com o objetivo de ferrar você e toda a classe. Mas saiba, você nunca conseguirá desenhar um episódio dos ''[[Cavaleiros do Zodíaco]]''. Você terá aula de softwares, como AutoCad, SolidEdge, etc. Mas saiba: Em uma prova para um emprego, você nunca vai passar porque você aprendeu o básico do básico. E o professor, provavelmente sabe o básico do básico. Que? SolidWorks? Ah? Catia? Ah?? AutoCad 3D? Entra na internet vagabundo e aprende sozinho porra!
+
+*'''Teorias que você deveria aprender -''' Gaspard Monge e qualquer tutorial de merda sobre softwares CAD que você encontrar na Internet.
+
+===Algebra Linear===
+É a parte que você vai estudar a distância entre pontinhos e vai chamar essas distâncias fofinhas de vetor. E aí você se pergunta pra quê? E eu respondo que é para porra-nenhuma! Você estudará as cônicas: Dessa forma você entenderá o método correto de por os cones na estrada, para uma sinalização adequada e eficiente. Fará um grande estudo das parábolas de Jesus Cristo, estudará a concavidade de mulheres gostosas (Se a professora for gostosa ficará mais fácil ainda). E como não poderia faltar, você terá mais um revival do Ensino médio: "Inclinação e declinatividade de uma reta". Mas é só guardar na cabeça: "Mi oi io, mi xoxo".
+
+*'''Teorias inúteis que você nunca usará no trabalho -''' Flecha, desenho de flechinhas grudadas uma na outra, como não usar o compasso e uso de moedas para fazer circunferências.
+
+===[[Terror|Cálculo Diferencial e Integral]]===
+Com essa disciplina começará o verdadeiro treinamento para a falta de mulher. E o engraçado é que você vai terminar esse maldito curso sem entender exatamente para que serve essa porra de Cálculo Diferencial e Integral, que foi desenvolvido quando Isaac Newton estava fazendo uma surubinha com Arquimedes e Mefistófeles. Outra curiosidade é que o cálculo é usado muito em física. Até para calcular a velocidade instantânea de um carro. Ou seja, o painel do seu carro sabe derivar, você não. E se souber, sabe apenas o be-a-bá. Por acaso você sabe exatamente derivadas parciais bonitão? Aprenderá onde são os pontos críticos da mulher (isso se alguém conseguir ver mulher), taxa de crescimento e variação de sua dívida e assim por diante. Em suma, você ficará até o limite com essa disciplina, para no final não derivar em nada útil em que possa integrar na prática em sua profissão futura (ou não).
+
+*'''Teorias inúteis que você nunca usará no trabalho -''' limite, ponto de inflexão, ponto crítico, taxa de variação, integral de superfície, integral fechada.
+
+===<s>[[Balanço Geral|Balanço]]</s> Química Geral===
+[[Arquivo:mecatronico.jpg|thumb|245px|Típico engenheiro mecatrônico falido.]]
+É um revival do ensino médio. A diferença é que será aprofundado o uso de regra de três. Essa disciplina só não é inútil para a formação do Engenheiro Mecatrônico porque ela faz você relembrar de uma forma ostensiva da regra de três. Mas falando sério: na padaria, na quitanda, no supermercado, é muito útil e importante saber regra de três.
+
+*'''Teorias úteis e complexas que você usará no trabalho -''' Regra de três.
+
+===<s>[[Seu Madruga|Coisas de]]</s> Eletricidade===
+Você aprendeu no ensino médio que eletricidade é o fenômeno da migração dos elétrons. Mas não vai entender, nem no final do curso, a relação dos elétrons com a corrente alternada. Afinal, se eles simplesmente correm em direção ao fluxo, porque na corrente alternada eles vão-e-vem? 
+Ela se torna inútil, porque o que é necessário é você entender a ler DataSheets. Aprenda a ler e montar circuitos que estão em um Datasheet e pronto! Já é o suficiente.
+
+*'''Coisas que você NUNCA vai usar no trabalho -''' Lei de Gauss, Lei de Faraday-Neumann-Lenz, Equações de Maxwell, Impedância elétrica e Lei de Biot-Savart.
+
+===Eletrônica===
+Você aprenderá a fazer dopagem nas menininhas. Isso é claro, se você encontrar alguma menininha em sua classe. Esta etapa do curso animará que fez curso no Senai. Mas eles verão que não tem nada de Senai no curso.
+
+*'''Coisas que você terá que saber de cor -''' Diodo, AMP-OP, capacitor, microcontrolador e indutor.
+
+===[[Administração|Gerenciamento de Projeto]]===
+Consiste basicamente no uso do bloco de notas para o cronograma de projetos. O professor tentará fazer você engulir essas baboseiras de PMBOK, ITIL, COBIT, Normas ISO. Esqueça isso, porque na vida real você vai utilizar [[POG]] para tudo. Tudo vai ser na gambiarra, não há tempo para dias e dias de planejamento, é preciso fazer o mais rápido possível <s>para passar a maior parte do tempo no [[facebook]] e no [[skype]]</s>. No máximo, você usará o bloco de notas para montar o cronograma de andamento do seu projeto. 
+
+*'''Coisas INÚTEIS que podem ser substituídas por [[POG]] -''' [[Cobit]], Itil, Pmbok, Scrubbers  e Microsoft Project.
+
+==Vida sexual==
+[[Arquivo:Mecatronicosexo.jpg|thumb|200px|left|Uma grande ajuda para a (pseudo) vida sexual do engenheiro de controle e automação.]]
+Durante a graduação esses engenheiros são extensivamente treinados a não praticar sexo. Para tal, são torturados com  equações diferenciais parciais, transformadas de Fourier e outros métodos, para que fiquem traumatizados ao ver uma mulher na frente.
+
+Na realidade, todo esse treinamento tem um fim: Encarar monstros (leia-se "mulheres" com bigode).
+
+Com o intuito de facilitar o aprendizado do sexo, os estudantes de mecatrônica possuem a sua bíblia do sexo: "Sexo para leigos", onde é ensinado toda a diferença entre a fisiologia de uma mulher e a eletrônica.
+
+Pergunte para si mesmo: {{c|Por que a maioria dos estudantes de engenharia não se importam em ter namoradas?}}
+
+A resposta é simples! O tempo não deixa e a consequência é que, no final do curso, estão acabados e sem ideias de paqueras.
+
+==Resumindo==
+No último ano, os formandos ganham um ar de superioridade. Acham que comerão todas as meninas que nunca conseguiram comer. Mas não comerão porque todos estão barrigudos, fora de forma.
+
+Não aprendem a programar direito e quando se aventuram nesse mundo, usam extensivamente técnicas de [[POG]]. E meu amigo... dar manutenção em programa de engenheiro é a coisa mais impossível do mundo (até para o [[Chuck]]), pois eles mal sabem o que é programação estruturada. No máximo, viram assembly e acharam que sua metodologia é a mais coerente e lógica possível.
+
+Também, não pode-se esquecer dos engenheiros que costumam perambular pelos institutos e universidades públicas, nos quais o papai é engenheiro com pressa, como se tivessem que estudar para algo (já que as calculadoras fazem tudo), fazem jiu-jitsu, são pescoçudos, acham as suas orelhas quebradas bonitas e não conseguem falar português.
+
+{{engenharias}}
+{{Ficção Científica}}
+{{Exatas}}

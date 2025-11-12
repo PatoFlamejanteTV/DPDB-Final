@@ -1,0 +1,37 @@
+{{Jogo antigo}}
+{{título em itálico}}
+{{Infobox Game
+|title     = A Vingança Cagada do Montezuma
+|image     = Montezuma Revenge.jpg
+|caption   = Sim, a vingança do [[Montezuma]] está aqui, nessa cópia do joguinho do [[Indiana Jones]]...
+|developer = Utopia Software
+|publisher = [[Parker Brothers]]
+|released  = 1984
+|genre     = [[Jogo de plataforma|Pula pula de um canto a outro]] 
+|platform  = [[Apple II]], [[Atari 2600]], [[Atari 5200]], [[Atari 8-bit]], [[ColecoVision]], [[Commodore 64]], [[IBM PC]], [[Master System]] e [[ZX Spectrum]]
+|rating    = 0,1%
+|ages      = -100 anos
+}}
+{{pesquisar|Indiana Jones pirata}}
+
+'''''Montezuma's Revenge''''', também chamado de '''''Montezuma's Revenge: Starring Panama Joe''''' ou só '''''Panama Joe''''' (chamado assim apenas no console cagado do ZX Spectrum) é um jogo de 1984 que foi considerado legendário por conseguir ser melhor até que os jogos do Indiana Jones da época, não a toa ninguém lembra dos jogos de Atari baseados nessa série de filmes, enquanto ''Montezuma's Revenge'' sempre é lembrado, pelo menos por fãs de joguinhos velhos pra caralho.
+
+== O jogo ==
+
+Você é o Panama Joe (o personagem ganhou esse nome só pelo [[chapéu]] panamá tosco dele, mais uma referência a um certo arqueólogo de filmes de ação do [[Steven Spielberg]] e do [[George Lucas]]) que foi pegar um monte de joias bonitinhas que rolavam nas catacumbas [[astecas]] do rei [[Montezuma]]. O problema é que, numa imitação das pirâmides egípcias, inventaram que tinha uma tal de maldição de Montezuma, e o primeiro imbecil que entrasse profundamente por lá atrás dos tesouros do rei iria ficar preso e ainda iria ativar uma caralhada de múmias de astecas e alguns monstros, animais gigantes e coisas do gênero. Assim, o Panama Joe tem a missão de ficar caçando por dentro daqueles cantos atrás das chaves que o retirem dessa enrascada que ele mesmo se enfiou. E, obviamente, sair de lá com o maior número de pedrinhas preciosas pra roubar esses indígenas filhos da puta que se recusam mesmo depois de morto a deixar geral catar a grana deles <s>já já aparece um lacrosfera xingando esse artigo de racista...</s>
+
+== Ver também ==
+
+*''[[Montezuma's Return]]'', a continuação dos anos 1990 toda em formato [[FPS]], olha que bonitinho.
+*''[[Jewel Thief]]''
+
+{{Plataforma}}
+[[Categoria:Jogos lançados em 1984]]
+[[Categoria:Jogos para Apple II]]
+[[Categoria:Jogos para Atari 2600]]
+[[Categoria:Jogos para Atari 5200]]
+[[Categoria:Jogos para ColecoVision]]
+[[Categoria:Jogos para Commodore 64]]
+[[Categoria:Jogos para IBM-PC]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para ZX Spectrum]]

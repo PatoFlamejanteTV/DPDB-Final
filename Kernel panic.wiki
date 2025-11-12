@@ -1,0 +1,38 @@
+{{logotipo_falso|Novo-logo-apple-desciclo-pequeno.png|160|top=120|left=190}}
+
+{{c|Achava que só o Windows travava!|Você após ter comprado um mac de 10 mil reais e ter se deparado com o Kernel Panic na primeira inicialização}}
+{{c|Depois acusam a Microsoft de copiadora|Bill Gates|Kernel Panic}}
+
+'''Kernel Panic'''(Pânico do [[Cu|Núcleo]] em português ou também [[chilique]] do núcleo) é uma [[arma de destruição em massa]] similar à [[Tela Azul da Morte]] existente em sistemas operacionais [[Unix]] que ocorre principalmente no [[Linux]] e no [[Macintosh]]. No Macintosh é conhecido como iBSOD.
+[[Arquivo:Kernel_panic_103.jpg|300px|thumb|iBSOD]]
+
+== História ==
+
+Eis que é lançado o Macintosh em [[1984]] que fez a alegria dos [[Gay|íntimos]] na época pela sua estabilidade e facilidade. Depois de um tempo o [[Steve Jobs|Estive em Jobi]] é [[Tompete Justus|de metido]] da [[Apple]] por [[Super Nanny|mau-comportamento]]. Pois em 1997 a Apple diante de uma falência decide colocar de novo Steve Jobs como deus supremo da empresa.
+
+Em 2001 é lançado o Mac OS X que é reverenciado por causa de sua estabilidade e [[Gay|aparência]] e a partir daí o sistema passa ser um enorme sucesso entre as patricinhas [[scene kids]]. Steve Jobs sabendo do perfil do público do Mac OS X decide um tempo depois criar um sistema de tortura similar a BSOD do [[Windows|Ruindows]]. A partir daí a famosa [[Tela Azul da Morte]] ganha um concorrente. Logo após o lançamento no MacWorld o efeito foi imediato, devido ao perfil dos usuários do Mac OS X(80% dos usuários do Mac são patricinhas Scene Kids e o resto são [[Designer|designers]] e [[Famoso|famosos]]) houve um aumento estrondoso do número de [[Suicídio|suicídios]] e de conversões à [[Igreja Universal]], que segundo a mesma tem a cura para o Kernel Panic, porém precisa pagar um [[trízimo]] todo mês já que se trata de computadores da [[Apple]]
+
+Dessa forma a Apple superou em [[Frescura|inovação]], pois pela primeira vez pode se presenciar [[Macintosh|macs]] sendo jogados pela janela. E também ela passou a fazer aparições no [[Linux]].
+
+Atualmente há uma guerra entre os [[Fanboy|fanboys]] da [[Microsoft]] e os fanboys da [[Apple]] sobre qual a tela de erro é melhor
+
+== Especificações ==
+
+No Linux há uma função chamada panic() que foi destinada especialmente a causar uma eterna ira entre os usuários.
+
+Umas das principais causas do travamento é a leitura não-autorizada de memória ou [[Sodomia|paus]] no Hardware ou também pode ser um pau dentro do orifício do sistema. Algumas vezes o usuário pode continuar utilizando o sistema, porém ele fica instável que nem o [[Rubinho]].
+
+Em sua aparição no Mac OS X é exibida uma tela de erro em quatro idiomas: [[Inglês|Idioma do Tio Sam]], [[França|idioma franguês]], [[Alemão|Idioma de aldofinho]] e também no [[Japonês|idioma otaku]]. No Linux é mais letal ainda pois é exibido várias linhas ilegíveis de comando.
+[[Arquivo:Bsod-clip.JPG|right|thumb|300px|Erro ao carregar o erro no [[Windows 98]]. Já com o Kernel Panic não acontece isso pelo fato de ser da [[Apple]] e do [[Linux]]]]
+
+== Ver também ==
+
+*[[Tela Azul da Morte]]
+*[[Mac OS X]]
+*[[Apple]]
+*[[Windows]]
+*[[Microsoft]]
+
+
+{{oposto|Tela Azul da Morte}}
+{{linux}}

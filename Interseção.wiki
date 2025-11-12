@@ -1,0 +1,31 @@
+{{Matemática}}
+[[Arquivo:Bolsolula2.jpg|thumb|Um exemplo de [[Bolsolula|interseção]] não-solicitada.]]
+
+'''Interseção''' ou '''intersecção''' é uma situação básica em [[teoria dos conjuntos]] na qual conseguem dois ou mais [[conjunto]]s que possuem um ou mais elementos que são todos da mesma turma, e ao mesmo tempo de outras turmas, ou seja, eram partes de vários conjuntos.
+
+{{vqd|[[:Categoria:Mistos]]}}
+
+== Definição (senta que lá vem a história...) ==
+
+Na [[teoria ingênua dos conjuntos]] (bota ingênua nisso), a definição simples seria tipo:
+
+A∩B = {x|x ∈ A ∧ x ∈ B}
+
+Basicamente, tentando explicar para analfabetos como você <s>e eu</s>, essa montanha de símbolos aí seria o tipo: A tem interseção com B seria igual ao elemento X pertencente a A com [[conjunção lógica]] a X que pertença também a B. Ou coisa do tipo.
+
+Eu nem vou tentar explicar as porras dos [[axiomas de Zermelo-Fraenkel]], do [[axioma da separação]], do [[axioma da união]] ou do [[axioma da extensão]], esses [[matemático]]s têm merda na cabeça na hora de explicar coisas simples...
+
+== Exemplos práticos ==
+
+Em conjuntos numéricos por exemplo, coloquemos por exemplo o conjunto dos múltiplos de [[2]] {2, 4, 6, 8, 10, 12...} e o dos múltiplos de [[3]] {3, 6, 9, 12, 15, 18...}. Se analisar com cuidado, dá para ver que existem interseções aqui, formando o conjunto 2∩3 {6, 12, 18, 24}, e eu acabei de dar uma ajudinha para quem quer fazer [[MMC]] ou [[MDC]], ou só [[fatoração]] simples mesmo...
+
+Tirando esse tipo de exemplo que só se usa em prova de colégio (ou seja, não serve para [[porra nenhuma]] na vida), podemos mostrar aqui o caso seu, que tentava ser amigo dos [[nerd]]s, dos carinhas do jogo de [[pelada]] da escola, dos bonitões que as menininhas da sala sempre escolhem nas listinhas dos tops do colégio e também da [[turma do fundão]]. O problema é que você não era inteligente nem [[geek]] o suficiente para ser nerd, era um puta perna de pau, não tinha coragem de afrontar os professores no colégio e eu nem vou comentar sobre pertencer ao grupo dos [[bonito]]s, porque definitivamente [[feio|não era o seu caso]]. Mas aí, parabéns, você até conseguiu com isso ter ao menos uma interseção com três dos quatro grupinhos, já que era feio igual a um nerd, a um dos caras da turma do fundão e ao menos ao [[goleiro]] do time, já que normalmente o goleiro no colégio era justamente o aluno mais judiado de beleza da escola...
+
+Exemplo mais prático ainda: você consegue estar paralelamente em dois conjuntos a vida toda: dos seres mais feios do universo e dos seres mais [[pobre]]s do universo, ao lado de seu muso eterno, [[Bluezão]], parabéns!
+
+== Ver também ==
+
+*[[União (matemática)|União]], que é uma interseção, só que com todo mundo junto.
+*[[Intercessão]], que é uma outra parada que não tem nada a ver com matemática.
+
+[[Categoria:Teoria dos conjuntos]]

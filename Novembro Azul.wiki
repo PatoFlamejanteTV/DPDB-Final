@@ -1,0 +1,41 @@
+<css> A:background {color: cyan} A:link { color: black;} A:visited {font-weight:bold; color: black;} A:hover { font-weight: bold; color: black; text-decoration: underline; } * #content { background : cyan; } 
+h1 { color: black; background-color: cyan!important; }
+BODY { background: cyan }
+div.pBody { background: cyan }
+#bodyContent {
+background-color: #00FFFF;
+color: #000000;
+}
+</css>
+{{Macho}}
+
+{{C|Novembro Azul, Azul Novembro|Caneta Azul|{{PAGENAME}}}}
+{{C|And it's hard to hold a candle In the cold [[November Rain]].|[[Axl Rose]]|{{PAGENAME}}}}
+{{C|Já fiz o meu exame de próstata. E você?|Propaganda do {{PAGENAME}}}}
+
+[[Arquivo:Peter parker finger.jpg|thumb|right|250px|[[Peter Parker]] depois de voltar do seu exame de próstata]]
+'''Novembro Azul''' é mais uma campanha envolvendo meses e cores que nasceu [[Eu Nasci Há 10 Mil Anos Atrás|há dez mil anos atrás]]. Essa campanha é totalmente dedicada aos homens e à prevenção ou diagnóstico do [[Câncer de próstata|câncer de próstata]] e outras doenças masculinas por aí. Ou talvez nem seja isso, talvez seja uma campanha feita para os homens perderem o medo e <s>saírem do armário</s> irem ao médico, mesmo se estiverem com vergonha de revelarem que estão com essas doenças e serem zoados por todo mundo na rua.
+
+== Origem e prática ==
+Tudo começou em novembro ([[O RLY?]]) de [[2003]], na [[Austrália]], num movimento chamado ''Movember''. Dizem por aí que um canguru iria dar um rolê com seus amigos, mas ele teve um imprevisto, o que atrasou sua chegada no encontro. O canguru chegou atrasado, e seus amigos perguntaram o porquê da demora, e ele disse que teve que fazer um exame, para ver se tinha câncer de próstata. Os amigos do canguru zoaram muito dele, e um empresário viu todo, e ele resolveu transformar essa triste história numa campanha para prevenir o câncer do próstata, além de pararem com o preconceito com as pessoas de terem isso.
+
+Então, em todo santo novembro, é comemorado essa porra aí. E pessoas e até <u>coisas</u> pra caralho aprovam isso, como o [[Ministério da Saúde]], que até que faz sentido apoiar, e o [[Palácio do Planalto]], que os políticos apoiam só para receberem um votinhos a mais; sabe como é, né?
+== Uma grande campanha que só poderia vir diretamente da [[Porta dos Fundos]]... ==
+
+[[Antônio Fagundes]] já te solicitando o boga
+
+<youtube>https://www.youtube.com/watch?v=iMmUh1BzxSs</youtube>
+
+Eu ainda acho que é uma [[cilada]], [[Bino]]...
+
+== Ver também ==
+
+*[[Deslivros:O desespero pelo 1º exame de próstata|O desespero pelo 1º exame de próstata]]
+*'''[[Setembro Amarelo|{{cor|Yellow|Setembro Amarelo}}]]'''
+*'''[[Outubro Rosa|{{Cor|Pink|Outubro Rosa}}]]'''
+
+{{Oposto|Outubro Rosa}}
+{{Câncer}}
+
+[[Categoria:Campanhas de conscientização]]
+[[Categoria:Coisas que só vemos uma vez por ano]]

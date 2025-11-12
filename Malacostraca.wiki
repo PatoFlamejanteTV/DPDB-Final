@@ -1,0 +1,50 @@
+{{taxocaixa
+| nome           = Malacostraca
+| cor            = #DC143C
+| imagem         = A very rare Malacostraca.jpg
+| imagem_legenda = Alguns crustáceos não podem ser incluídos numa mesma ordem das lagostas, camarões e caranguejos comuns ([[decapoda]]), por isso os biólogos criaram a classe Malacostraca para separar lagostas mais bizarras em ordens próprias, como esta rara espécime de ''lagostas baitolus''
+| reino          = [[Animalia]]
+| filo           = [[Arthropoda|Artrofoda]]
+| subfilo        = [[Crustacea|Frutos-do-mar]]
+| classe         = [[Malacostraca|Malacabados]]
+}}
+
+'''Malacostraca''' é a mais variada classe dos [[crustáceos]], caracterizada por uma grande variedade de espécies dos mais bizarros formatos sem noção que se possa imaginar, incluindo todas as lagostas, camarões, caranguejos, krills e siris comestíveis, e ainda aqueles que não são comestíveis. São animais sobretudo medonhos e que ninguém em situações normais gosta de interagir, sendo eles ingeridos apenas em caso de profundo desespero e fome.
+
+== Anatomia ==
+
+É sem dúvida a classe animal de tipos, formas, tamanhos e aparências mais diversas. Quando Deus estava criando os animais no [[devoniano]], Ele ainda estava muito na dúvida sobre o que fazer, e os crustáceos malacostracos são o resultados dos milhares de rascunhos feitos sobre o que seria a melhor refeição para um ser humano, e por isso são todos tão bizarramente diferentes entre si.
+
+As mais de 40.000 espécies desses bichos, apelidados como '''baratas-do-mar''', exibem um corpo dividido em 20 segmentos que formam o seu corpo. Apesar de seu corpo extremamente bizarro e evolutivamente fracassado, desengonçado e extremamente mal adaptado para locomoção e sobrevivência em ambientes marítimos, pelo menos eles foram inteligentes em desenvolver um exoesqueleto, deixando a sua carne por baixo do esqueleto, ao contrário dos humanos. Mesmo assim toda essa carapaça é mole e qualquer um consegue quebrá-la com qualquer faca vagabunda.
+
+Seu corpo divide-se em cabeça, tórax e abdome:
+
+A cabeça exibe sempre dois pares de antenas dando-lhe um perfeito aspecto de alienígena, sendo o primeiro par de antenas aquele responsável pela captação de sinais de rádio e wi-fi, para que o animal não sofra de tédio. O segundo par é apenas um para-raio que evita que descargar elétricas matem o animal, aparato este que também serve de condutor das ondas eletromagnéticas que percorrem o oceano global, dando-lhe uma espécie de GPS interno, embora eles nunca usem isso e caminhem aleatoriamente pelo mar. Não possuem dentes, portanto usam as próprias patas para "mastigar" seu alimento, tendo precisado atrofiar um precioso par de patas que poderia estar sendo usado para locomoção, para que mastiguem o que comam.
+
+A partir do tórax está o braço do animal, que varia de tamanho e formato de espécie em espécie. Alguns animais muito onanistas, como a [[lagosta-vermelha]], desenvolve enormes braços utilizados para saciar sua taradice. Outros animais fumantes como o caranguejo precisam de pinças para segurar seu cigarrinho. Já outros como o krill não usam o braço pra nada e por isso exibem uma patinha atrofiada.
+
+No abdome estão as nadadeiras (ou onde deveria ter, pois 39.000 espécies desses bichos não tem nadadeiras úteis).
+
+Internamente, como não possuem ânus, estes animais cagam pela boca o que comem. O seu sistema circulatório é primitivo, todavia são os únicos artrópodes do mundo dotados de [[coração]].
+
+== Ordens ==
+
+* '''[[Leptostraca]]''' - camarões-pulga
+* '''[[Stomatopoda]]''' - lacraias-do-mar
+* '''[[Bathynellacea]]'''
+* '''[[Anaspidacea]]''' - koonungas
+* '''[[Spelaeogriphacea]]''' - lagostas-pequenas
+* '''[[Thermosbaenacea]]''' - camarões-das-termais
+* '''[[Lophogastrida]]''' - camarões-de-antena
+* '''[[Mysida]]''' - camarões-gambá
+* '''[[Mictacea]]''' - camarões-traça
+* '''[[Amphipoda]]''' - camarões-corcunda
+* '''[[Isopoda]]''' - isópodes
+* '''[[Tanaidacea]]''' - tanaídes
+* '''[[Cumacea]]''' - camarões-de-capuz
+* '''[[Euphausiacea]]''' - krills
+* '''[[Amphionidacea]]''' - Amphionides reynaudii
+* '''[[Decapoda]]''' - lagostas, camarões-comuns, caranguejos e siris
+
+[[Categoria:Crustacea]]
+[[Categoria:Malacostraca|*]]

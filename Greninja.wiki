@@ -1,0 +1,57 @@
+{{ninja}}
+{{água}}
+{{PokéBox
+| imagem = Greninja.jpg
+| frase = ...
+| tamanho = 250
+| romaji = Sapo da Apelândia
+| pokedex = 658
+| tipo1 = Water
+| tipo2 = Dark
+| habilidade1 = Baixar Torrent
+| habilidade2 = Encapetamento 
+| espécie = ''Sapus Hackeadus''
+| cadeia evolutiva = [[Arquivo:Froakie99.gif|link=Froakie|Froakie]] {{Seta}} [[Arquivo:Frogadier99.gif|link=Frogadier|Frogadier]] {{Seta}} [[Arquivo:Greninja100.gif]]
+}}
+'''Greninja''' é um [[pokémon]] sapo ninja, o número #658 na ''[[Pokédex|infinite dex]]''. É a forma final do [[Gamabunta]], que evoluiu ao largar o fumo e começar a fazer [[academia]] pra perder aquele monte de banha. O Greninja mais poderoso que existe, surpreendentemente, é o de [[Ash Ketchum]], que quer tanto ser forte que treina sozinho, e assim, consegue compensar a negligência de seu treinador perdedor, que nunca treina seus pokémons.
+
+==Características==
+[[Arquivo:Greyoshi.jpg|thumb|left|250px|Greninja passando suas técnicas de língua para seu discípulo, [[Yoshi]].]]
+A língua de Greninja é enorme e não cabe dentro da boca, tendo quase a mesma extensão que a da [[sua sogra]]. Assim sendo, este pokémon enrola a língua no pescoço, fazendo-a parecer com um [[cachecol]]. Apesar da extensão bizarra de suas línguas, os Greninjas não possuem nenhuma ligação com os [[Lickitung]]s, apesar de ambos serem pokémons bem bosta (a exceção do Greninja hackeado do Ash).
+
+Por serem [[Mestre das Facas|pokémons perfeitos para o combate]], Greninjas fazem uso de joelheiras e protetotes de cotovelo, conseguindo assim acesso a algum tipo de proteção em batalha. Mas isso nem faz diferença, considerando que os Greninjas são pokémons puramente ofensivos que não sabem o mínimo sobre se defender, os perfeitos exemplos de canhão de vidro, eles com certeza serão nocauteados assim que levarem aquele choque do trovão na cabeça, ou mesmo um golpe de [[karatê]].
+ 
+Os Greninjas possuem uma rivalidade com os [[Samurott]]s, por conta de diferenças em suas crenças sobre [[honra]]. Apesar de divergirem quanto aos métodos, ambos são mais parecidos do que diferentes, considerando que tanto Greninja quanto Samurott são a evolução final de pokémons iniciais de água, [[Froakie]] e [[Oshawott]], respectivamente. Fora que tanto Froakie quanto Oshawott foram capturados (ou melhor, se deixaram capturar) pelo fanático por iniciais [[Ash Ketchum]], mas neste caso, apenas o Froakie conseguiu evoluir pra Greninja. O Oshawott não passou nem do estágio inicial. 
+
+Junto de [[Shedinja]] e [[Ninjask]], Greninja faz parte da tríade de pokémons criados sob medida para os [[ninja]]s, estes que adoram bichos rápidos e que tenham habilidades para envenenar seus inimigos e provocar um óbito doloroso. Porém, apenas Greninja é realmente popular entre os ninjas, que preferem fechar suas equipes com pokémons como [[Electrode]], [[Weezing]] e [[Venomoth]]. No fim, Shedinja e Ninjask são os preferidos apenas pelos vilões e seus capachos.
+
+O ataque característico de Greninja é lançar [[shuriken]]s de água. Quando o Greninja fica encapetado, ele consegue lançar uma puta duma shuriken gigante, que é a mesma coisa que um [[Rasenshuriken]], só que ao invés de ser de [[vento]], é de [[água]]. Esse também é o único golpe que presta do Greninja de Ash, pois como o treinador é burro, ele mantém como técnicas de seu pokémon mais forte de todos os tempos o HM01 Cortar (que é uma bosta), Ás Aéreo (técnica que não ganha bônus de dano de STAB e só ocupa espaço, sendo que ele tinha mais 3 pokémons voadores com ele pra cobrir as fraquezas de Greninja), Multiplicar (só pra melhorar evasiva) e essas shurikens de água.
+
+==Transformação==
+{{Principal|[[Ash-Greninja]]}}
+[[Arquivo:Greninjafainted.jpg|thumb|250px|Não importa o quanto seja forte ou habilidoso, um pokémon do Ash sempre terá o mesmo destino.]]
+Logo após largar todos os seus pokémons antigos com o [[Professor Carvalho|Professor Caralho]] e partir pra região de [[Kalos|Carlos]] só com o seu [[Pikachu]], Ash Ketchum começa novamente a montar sua equipe, para participar da liga local. E o primeiro pokémon que ele consegue capturar (que na verdade se deixou capturar) é um [[Froakie]] marrento, que por querer ser forte, prefere [[trabalhar no cacete]], ao invés de fazer como seus amigos e [[trabalhar e relaxar]]. A escolha de Froakie é estranha, pois ele não gosta de [[n00b]]s, tanto que rejeitou seus antigos treinadores fracassados. E não faz sentido um pokémon que deseja ser forte unir-se a um treinador que nem treina seus pokémons, e depende só do [[protagonismo]] pra vencer suas batalhas (o qual nem sempre funciona). 
+
+Após Froakie apanhar muito, pois seu treinador fracassado não aprendeu sobre as vantagens de tipos em 17 temporadas e colocava seu sapo pra lutar contra pokémons de grama e elétricos, Froakie finalmente consegue evoluir para [[Frogadier]], e após mais algum tempo, finalmente para Greninja. Apesar de ser o pokémon mais poderoso de Ash em todas as temporadas até aqui, o protagonista é tão burro que, ao invés de ensinar Greninja a usar ataques poderosos e úteis como uma "hidrobomba" ou um "ataque das sombras", ele utiliza Greninja como um pequeno HM Slave, ensinando a ele o "cortar". Ash não iria conseguir derrotar adversário nenhum com esse golpe, mas a preocupação dele mesmo era com [[árvore]]s bloqueando o caminho.
+ 
+Para contornar a falta de perícia de seu treinador, Greninja continuou treinando duro sozinho, e se os seus movimentos não são grande coisa, ele consegue vencer seus adversários na base da força bruta mesmo. E como Ash nunca poderia fazer uso das mega-evoluções, já que o Pikachu dele não é evoluído e os outros pokémons ele larga em vários cantos do mundo antes de desenvolver um vínculo profundo, é revelado que o Greninja de Ash é único, possuindo a rara habilidade "Battle Bond", que é quase a mesma merda que a mega-evolução, só que ao invés de evoluir sozinho, o pokémon funde a própria mente com a do seu treinador e seu poder aumenta muito. Nesta transformação, Greninja fica com uma aparência muito parecida com a de Ash, com direito a lados da cabeça escuros, cabelo despenteado, fedor e peito idêntico a camisa do mesmo. E assim como Ash, também se torna perdedor, levando um pau do [[Charizard]] igualmente hackeado do [[Alain (Pokémon)|Alain]], perdendo na final e deixando Ash com o vice-campeonato da Liga Carlos.
+
+Para sacanear os fãs, jogadores e Greninjas, a [[Game Freak]] anunciou que o Greninja específico de Ash seria um personagem jogável nos jogos [[Pokémon Sun / Moon|Sun/Moon]], caso você baixe a versão demo e o transfira para as novas. Claro que tudo isso nada mais é do que uma espécie de [[pay to win]], onde você paga e nem sequer vence, já que o Greninja é um bom pokémon mas mesmo depois de encapetado, ele está longe de ser unanimidade entre os mais poderosos de sua geração. Para encher ainda mais o bolso aproveitando a popularidade de Greninja, a [[Nintendo]] também anunciou que o Greninja encapetado de Ash seria um personagem de [[Super Smash Bros.]]
+
+==Técnicas==
+[[Arquivo:Greninja mandando ver.gif|thumb|250px|Ash não consegue vencer uma liga oficial nem com esse Greninja hackeado.]]
+*'''Shuriken de Água''': O golpe característico de Greninja, ao usar este movimento, o sapo ninja joga um monte de pequenas [[shuriken]]s feitas de água no adversário, e pode acertá-lo entre duas e cinco vezes, dependendo da [[sorte]]. Se o Greninja estiver encapetado, ao invés de várias shurikens bostinhas, ele faz uma puta duma shurikenzona gigante, que se acertar, dá mais dano do que se acertasse cinco vezes com as shurikens pequenas. 
+
+*'''Espinhos Tóxicos''': Uma técnica estratégica, portanto, é óbvio que o Greninja de um treinador como o Ash nunca poderia ter aprendido. Este golpe consiste em Greninja espalhar um monte de espinhos tóxicos pelo chão, fazendo assim com que todos os pokémons adversários que pisem nisso sejam envenenados. É a técnica favorita dos [[ninja]]s e dos jogadores de pokémon competitivo, que adoram um envenenamento.
+
+*'''Ás Aéreo''': Apesar de não ser um pokémon voador, Greninja consegue hackear as leis da física e fazer uso deste golpe. Mas enquanto o Ás Aéreo dos pokémons voadores consiste em dar um rasante e bater com a asa no adversário, o Ás Aéreo de Greninja consiste em ele dar uma corrida e aplicar uma voadora de duas pernas no adversário. Tá, isso não tem nada a ver com o Ás Aéreo original, mas é que os produtores queriam que Greninja conseguisse vencer seus carrascos do tipo grama sem deixar na cara que ele dependia do [[protagonismo]], então nada melhor do que deixar ele usar um golpe do tipo voador.
+
+*'''Cortar''': O único treinador burro o suficiente pra botar uma técnica fraca de HM como essas em seu pokémon mais forte é o Ash, que estava mais preocupado em cortar árvores do que em vencer a Liga Kalos, já que sabia que ia acabar perdendo no final mesmo. É claro que a pirralhada que assistiu Pokémon ficou puta com os criadores terem botado essa técnica merda entre as quatro técnicas principais de Greninja, então pra consertar a cagada, a Game Freak e a Nintendo trocaram o "cortar" pelo "corte noturno" no Greninja dos eventos dos jogos, técnica muito melhor, que serviu como um belo disfarce.
+
+{{Poke6}}
+{{Smash Bros}}
+
+[[Categoria:Sapos]]
+
+[[es:Greninja]]
+[[ja:ゲッコウガ]]

@@ -1,0 +1,168 @@
+<choose><option>{{Feio}}</option><option>{{Ladrão}}</option></choose>
+
+{{Nova Infobox
+| estilo      = 
+| imagem      = Bozo sem maquiagem.jpg
+| imagem-tamanho  = 210px
+| legenda     = Pezão nos presenteia com sua beleza estonteante.
+| título      = Luiz Fernando Pezão
+| subtítulo   = {{{nome_alt|}}}
+| largura     = {{{largura|}}}
+| tópico-estilo   = background-color: &#35;E6E6FA
+<!--- Título principal --->
+| tópico1     = 62.° [[Governador|Governador Preso]] do [[arquivo:Bandeira_rj.jpg|20px]] [[Rio de Janeiro]]
+|   rótulo1   = Período
+|   dados1    = 4 de abril de 2014<br>1° de janeiro de 2019
+|   rótulo2   = Vice-governador
+|   dados2    = Francisco Dornelles<ref>Só no Rio: O [[Pé Grande]] de Governador e a [[Múmia]] de vice.</ref>
+|   rótulo3   = Antecessor
+|   dados3    = [[Sérgio Cabral]]
+|   rótulo4   = Sucessor
+|   dados4    = [[Wilson Witzel|Careca do Pica-Pau]]
+|   rótulo5   = Sucessor
+|   dados5    = {{{sucessor|{{{depois|{{{depois1|}}}}}}}}}
+
+<!---Outros títulos--->
+<!---Título 2--->
+| tópico6     = 19.° [[Vice|Substituto]] do [[Governador|Governador Preso]]
+|   rótulo6   = Período
+|   dados6    = 1° de janeiro de 2007<br>a 3 de abril de 2014
+|   rótulo7   = Governador
+|   dados7    = [[Sérgio Cabral]]
+|   rótulo8   = Antecessor
+|   dados8    = Luiz Paulo Conde
+|   rótulo9   = Sucessor
+|   dados9    = Francisco Dornelles
+|   rótulo10  =
+|   dados10   = 
+<!---Título 3--->
+| tópico11     = Dados pessoais
+|   rótulo11   = Nome completo
+|   dados11    = Luiz Fernando de Souza
+|   rótulo12   = Nascimento
+|   dados12    = [[29 de março]] de 1955 (65 anos)<br>[[Pântano]] do [[Shrek]], [[Piraí]]
+|   rótulo13   = Nacionalidade
+|   dados13    = [[fluminense|papa-goiaba]]
+|   rótulo14   = Residência
+|   dados14    = [[Prisão|Bangu I]]
+|   rótulo15   =  ''[[Faculdade|Alma mater]]''
+|   dados15    = [[Universidade Estácio de Sá|Estácio de Sá]]
+|   rótulo16   = Cônjuge
+|   dados16    = [[Eduardo Paes]] <small>(2014-2017)</small>
+|   rótulo17   = Partido
+|   dados17    = [[PMDB]]
+|   rótulo18   = Profissão
+|   dados18    = Modelo de pés
+|   rótulo19   = Time
+|   dados19    = Botafogo
+|   
+}}
+[[Arquivo:Pmdb psdb dem PACTO.png|150px|direita|thumb|Pezão fazendo menage a trois com Aécio e César Maia.]]
+{{Você quis dizer|Incompetente}}
+{{Experimente também|Caloteiro}}
+{{cgoogle|João Plenário}}
+{{cgoogle|Poste do Cabral}}
+{{c|Ele não me ajuda em nada!|José Mariano Beltrame|Pezão.}}
+{{c|Governador! Estamos levando tiro!|Policial de [[Unidade de Polícia Pacificadora|UPP]] para Pezão.}}
+{{c|Você ligou pra mim só pra me dizer isso?|Pezão|citação acima.}}
+{{c|Ele é o meu [[Amante|conselheiro, parceiro, camarada, confidente e amigo do peito]].|Sérgio Cabral|Pezão.}}
+{{c|Um amigo pra todas as horas, meu gerente no RJ|Aécio Neves|Pezão}}
+{{c|Gente finíssima, nosso compadre!|[[Traficante]] do [[Comando Vermelho]]|Pezão.}}
+{{c|Vossa Excelência não vale um centavo!|Marcelo Crivella|Pezão.}}
+{{c|Meu primo.|O [[Abominável Homem das Neves]]|Pezão.}}
+
+'''Luiz Fernando de Souza''' é um humanóide descendente direto do [[Pé Grande]] que já foi governador do estado do [[Rio de Janeiro (estado)|Rio de Janeiro]]. Também conhecido pela alcunha de '''Pezão''', ele mantém um relacionamento <s>extra-conjugal de longa data</s> amistoso com o ex-governador do Rio, o [[mentira|excelentíssimo]] senhor [[Sérgio Cabral]], que teve que "pedir para sair" devido a [[roubo|força maior]].
+Pezão não passa de um gordo capiau metido a carioca, mas que na verdade é de [[Piriri]] ([[Piraí]]) feio pra cacete que não faz outra coisa da vida a não ser encher os bolsos de dinheiro enquanto o estado está falido e totalmente entregue ao crime que ele sequer pensa em combater, ao invés disso vive pedindo dinheiro em Brasilia e enchendo os bolsos.
+
+==Vida pré-política==
+[[Arquivo:Governador pezudo.jpg|thumb|300px|left|O único político descendente direto do [[Pé Grande]].]]
+Luiz nasceu na cidade de Barra do Piraí, no Rio de Janeiro, em março de 1955. O garoto Luiz Fernando era constantemente zoado e [[Bullying|bulinado]] pela molecada do bairro e até por sua própria família pelos seus enormes pés <s>de gorila</s> humanoides (Daí o apelido "Pezão"), o que o fazia chorar constantemente. Assim que terminou o Ensino Fundamental Pezão fez uma promessa para si mesmo:
+
+{{c|Quando eu crescer, vou ser político [[vingança|para foder com quem fodeu comigo]]!}}
+O tempo passava e Pezão virou adolescente. Agora ao invés de ser zoado pelos pés gigantes, Pezão começou a ser [[estupro|molestado]] pelo seu [[gordo|porte físico avantajado]], o que aumentou ainda mais sua vontade de entrar na Política. Pezão terminou o Ensino Médio com 27 anos, depois de ser reprovado quinze vezes em todas as séries, e aí tentou a sorte numa eleição em sua cidade.
+
+==Carreira política==
+[[Arquivo:Dupla de larápios.jpg|thumb|220px|{{c|Olha só Pezão, você fica com a [[Eliana|loira]] e eu fico com a [[Rihanna|morena]].|Sérgio Cabral para Pezão.}}]]
+Pezão se candidatou para vereador de [[Barra do Piraí]] em 1982 e conseguiu se eleger de maneira surpreendente, pois ele comprou os votos dos eleitores em troca de uma caixa de [[Danoninho]] para cada um. Como vereador Pezão fez o que qualquer um faria em seu lugar: [[porra nenhuma]], ficando naquela vida boa até 1996 quando tentou um cargo mais elevado na administração pública. 
+
+Em 1997 concorreu para prefeito de sua cidade e também venceu essa, dessa vez comprando os votos em troca de alguns [[Lico de cair pinto|produtos milagrosos]], sendo que o maior problema que ele resolveu como prefeito foi a questão da Light, a companhia elétrica mafiosa do Rio. Então só porque resolveu um apagão e outras coisinhas Pezão se achou no direito de se proclamar o prefeito mais eficiente do estado (hmm... jura?).
+
+Pezão continuou prefeito até 2004, quando ele conheceu o <s>amor de sua vida</s> governador da época que o chamou para participar de <s>uma orgia</s> seu gabinete. Pezão ficou na aba de Cabral por longos anos e por seu valoroso puxa-saquismo conseguiu se tornar Secretário de Obras e Vice-Governador do estado. Pezão atuou no programa do PAC (Projeto de Azucrinação dos Cidadãos) e várias obras públicas <s>superfaturadas</s> na área das vias-expressas. Pezão foi secretário entre 2007 a 2010 e <s>puxa-saco do Tio Cabral</s> vice entre 2007 (também??) até 2014.
+
+==Eleições para governador de 2014==
+[[Arquivo:Pezaoaeciodilma.jpg|200px|direita|thumb|Um Pezão em cada canoa!]]
+
+Sérgio Cabral teve que renunciar ao cargo depois de terem vazado fotos dele em uma <s>[[sauna gay]]</s> reunião com miguxos em Paris. Só que os miguxos eram investigados pela [[Polícia Federal]] e Cabral acabou entrando no ditado de ''quem se mistura com porco farelo come''. Com Cabral fora da jogada Pezão colocou as asinhas para fora e lançou sua candidatura para governador do Rio de Janeiro, usando o "apoio" que ele deu para as [[Inundação|enchentes]] na Região Serrana em 2010, a "eficiência" das [[Unidade de Polícia Pacificadora|UPPs]] e até seus próprios pais como plataforma eleitoral. Pezão é tão cara-de-pau que apoiou simultaneamente o [[Dilma|poste do Lula]] e o [[Aecio Neves|tucano do pó]].
+
+Pezão teve um embate sério com Marcelo Crivella que também disputava o cargo de governador, e mesmo com o apoio massivo que Crivella teve do povão da [[Igreja Universal do Reino de Deus|Igreja Infernal]] ele acabou perdendo no segundo turno.
+
+==Relação com Sérgio Cabral==
+[[Arquivo:Dupla de larápios2.jpg|thumb|240px|Pezão e Cabral em um [[viadagem|momento de intimidade]].]]
+A [[namoro|brotheragem]] entre Pezão e Cabral é uma das coisas mais bonitas da Terra. Um encobertava as falcatruas do outro e dá aquela [[Despoesias:Blindagem política|blindagem política]] para o parceiro de chapa. Atualmente Cabral e Pezão ainda se falam, só que nos "bastidores", e Pezão tem cada passo seu vigiado pelo seu [[Amante|amigão]] ex-governador. Um belo presente que Cabral deu para Pezão foi dividir a investigação da Operação Lava Jato que sobreveio sobre ele para o companheiro <s>pirocudo</s> pezudo.
+
+==Problemas que o Pezão tem para resolver==
+Como em qualquer parte do [[República Federativa do Brasil|País da Sacanagem]], o estado do Rio de Janeiro também enfrenta uma série de problemas. Engraçadamente os problemas do Rio de Janeiro costumam ser os mesmos problemas dos outros estados, evidenciando que todo governador é incompetente por natureza.
+
+*'''Oportunidade e geração de empregos''' - Pezão só dá duas oportunidades básicas para a população fluminense, especialmente da Região Metropolitana: Ou bandido ou trabalhador braçal. Essas duas atividades principais movem a economia fluminense; a primeira é essencial para o bem-estar dos narizes alheios (está cientificamente comprovado que o [[Maconha|baseado]] e a [[Cocaína|farinha]] faz <s> mal </s> bem para a saúde) garantindo a felicidade da população. Os outros são responsáveis por construir as casas dos favelados e participar das Grandes Obras do estado. Pezão tem o desafio de diversificar a indústria e a economia do estado e despoluir a CSN (Companhia Siderúrgica Nacional) ([[Sim|Será que ele consegue]]?).
+
+*'''Saúde''' - Pezão falou que as [[Unidade de Pronto Atendimento|UPAs]] resolveriam todos os problemas dos doentes fluminenses, mas... é... não resolveu. Os doentes que saem das UPAs parecem que tomam [[radioatividade]] como remédio e voltam com uma situação piorada para casa. Hospitais maiores estão caindo aos pedaços então é melhor você não saber como está a situação deles.
+
+[[Arquivo:Pezão-cara-de-mau.jpg|thumb|250px|Pezão avistando uma [[virgem]] para sugar sua [[alma]].]]
+*'''Educação''' - Educação no estado é inexistente, a menos que seja esta:
+
+{{c|E aí cambada? Se liga só, não mete sem camisinha, se não tu vai embuchar, tão ligados?|Professora para crianças do jardim de infância.}}
+
+Ou esta:
+
+{{c|Se eu tenho quatro carros ao meio-dia e fiquei com mais sete às 4:20, quantos eu roubei nesse tempo?|Professor para alunos da oitava série.}}
+
+*'''[[Segurança Pública|Segurança pública]]''' - Como Pezão divide o governo fluminense com uma multidão de traficantes sangue-bom das favelas ás vezes ele tenta dar uma de egoísta e querer o estado todo só para si (como se ele merecesse isso). Infelizmente os traficantes não querem dividir nada com Pezão, o que o obriga a lançar mão da [[Polícia Militar]] contra os meliantes. Atualmente nem as UPPs estão dando conta do recado.
+
+{{c|Preciso me aposentar.|José Mariano Beltrame, secretário de Segurança Pública.}}
+
+*'''Transporte público''' - As sucatas móveis que Pezão chama de trens, ônibus e barcas são uma merda ambulante. Para piorar as coisas o governador ainda põe algumas empresas concessionárias de [[SuperVia|péssima qualidade]] para administrar os transportes no Rio.
+
+
+==Calote==
+Em novembro de 2015 Pezão teve vários problemas com a mídia e principalmente com os servidores estatais pelo fato de ter [[N00b|mal gerido]] as finanças públicas e ter deixado todo mundo a ver navios (vulgo "calote"). Reportéres descíclopes atríbuem essa falência do estado devido ao incontável número de cirurgias plásticas que Pezão andou fazendo para tentar melhorar sua fisionomia (sem sucesso obviamente). A incompetência de Pezão se espalhou para o ano de 2016, e consequentemente o não-pagamento dos funcionários públicos, para fugir da situação o governador teve até que ser internado em um hospital particular para não ser enforcado em praça pública.
+
+== A doença ==
+Ainda no início de 2016 nosso governador adoeceu por efeito do uso abusivo de castanhas-do-pará cancerígenas, o que o fez criar câncer nos ovários. Pezão foi internado em uma clínica particular para tratamento e o seu vice e <s> marido </s> amigo, Francisco Dornelles, assumiu o cargo interinamente; embora o senhor Dornelles já esteja um verdadeiro maracujá de gaveta.
+
+Para salvar sua vida, Luiz Fernando bloqueou o pagamento das aposentadorias de ex-servidores públicos e com esse dinheiro comprou um pulmão (um só, dois saíria muito caro...) e um coração artificial para lhe garantir vida eterna.
+
+== Eleição 2024: Retorno à Piraí==
+[[Arquivo:Screenshot 20240820 190211 .jpg|180px|miniaturadaimagem|direita|Panfleto (na verdade um print) da campanha do Big Foot]]
+Depois do tempo que passou em cana voltou a sua cidade Natal, Piraí, onde viveu os melhores momentos de sua carreira.
+Passou a viver uma vida mais simples fazendo o que sempre gosta: ir num bar e beber uma BOA cerveja Antártica direto do freezer (ou geladeira) e provavelmente jogar snooker, ou melhor, sinuca. Mas pra tristeza das pessoas de bem em Piraí o MDB o requisitou para ser candidato a prefeito novamente, coisa que após algum tempo Sasquatch aceitou. Conseguiu uma aliança com vários partidos fortes como o PSDB (que no RJ <s>e no Brasil</s> está minúsculo).
+Dito isso, Pezão é o favorito na disputa a prefeitura de Piraí, favorito e com sobras e provavelmente vai ser eleito novamente.
+==Ver também==
+*[[Sérgio Cabral Filho]].
+*[[Eduardo Paes]].
+*[[Aécio Neves]].
+*Movimento Aezão
+*[[César Maia]]
+*[[Francisco Dornelles]]
+*[[PMDB]]
+*[[PSDB]]
+*[[DEM]].
+
+{{referências}}
+
+{{capturado|[[Arquivo:Pezão-plaquinha.jpg|200px]]|[[Operação Lava Jato]]}}<br>
+{{caixa de sucessão|
+título=[[Arquivo:Bandeira_rj.jpg|50px]]<br />[[Governador|Traficante da Boca]]|
+anos= [[2014]] - [[2019]]|
+antes=[[Sérgio Cabral Filho|Sérgio Cabral]]|
+depois=[[Wilson Witzel]]
+}}
+[[Categoria:Gordos]]
+[[Categoria:Narigudos]]
+[[Categoria:Crime no Rio de Janeiro]]
+[[Categoria:Prefeitos de Piraí]]
+[[Categoria:Governadores do Rio de Janeiro]]
+[[Categoria:Políticos do Rio de Janeiro]]
+[[Categoria:Coisas que estão lá fora para te pegar]]
+[[Categoria:Ladrões]]
+[[Categoria:Membros do Movimento Democrático Brasileiro]]
+[[Categoria:Botafoguenses]]

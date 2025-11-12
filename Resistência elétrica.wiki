@@ -1,0 +1,68 @@
+{{Física}}<br>
+
+[[Arquivo:Resistor-sexo-pr0n.jpg|thumb|right|Uma [[suruba]] resistente.]]
+{{Você quis dizer|Resistência Física}}
+{{Experimente também|Capacitância.}}
+{{c|Ela me monopoliza.|[[Tensão Elétrica]]|Resistência.}}
+{{c|Eu que <s>fiz</s> descobri!|Georg Simon Ohm|Resistência elétrica.}}
+{{c|Que merda, hein?|[[Qualquer um]] ao estudar isso.}}
+{{c|Pika pi!|[[Pikachu]]|Resistência elétrica.}}
+{{c|É nóis!|[[Resistor]]|{{PAGENAME}}.}}
+
+'''Resistência elétrica''' é mais uma daquelas unidades de grandezas físicas que só servem para encher balão, tudo o que se pode dizer sobre isso é que é por causa dela que seu computador não queima, apesar de [[você]] tentar muito, e também por causa disso que seu chuveiro esquenta.
+
+==Mas o que é essa merda==
+[[Arquivo:Conan.jpg|thumb|left|Quanta resistência!]]
+Bem, tudo tem uma certa resistência, quando alguém esmurra aquele [[noob]] do {{USERNAME}} a cara dele não se desfaz, ou quando você vai perpassar o hímen da [[sua prima]], eu sei que ela já perdeu faz tempo, mas apenas suponha, há uma força que não facilita a que entrada seja efetuada, tudo isso pode ser chamado de resistência, resistência muscular, que impede que que o rosto de {{USERNAME}} seja destroçado ou que o hímen seja simplesmente atravessado, com a corrente elétrica e a tensão isso não é diferente.
+
+A resistência elétrica é uma força que impede o fluxo livre e irrestrito dos elétrons sobre qualquer coisa, seje ela viva ou imaginária assim como a [[sua namorada]]. Se você acha que essa resistência é ruim e que não serve para [[porra nenhuma]], [[você]] está <s>coberto de razão</s> errado. A resistência elétrica serve para te fuder em eventuais provas.
+[[Arquivo:Resisten.jpg|thumb|right|Um grupo de alta resistência.]]
+Bem, a utilidade da resistência elétrica é conter a corrente elétrica, é so pensar numa porrada de bolinhas rolando, elétrons, até encontrarem uma pequena parede que barra alguns, a resistência, mas por que conter os pobres elétrons? Para poder ligar a porcaria do seu computador. Toda essa patacoada tem até formulazinha, duas por sinal sendo uma a de homem e outra de [[SPFC|São paulino]].
+
+==Armando e efetuando==
+
+O [[idiota]] que perdeu a vida com esses estudos era um físico, portanto [[nerd]], chamado Georg Simon Ohm e ele tirou da cartola duas leis tão idiotas como o próprio, mas que norteiam todo o estudo da [[Eletrônica]], mas como isso não te interessa que se f¢£³¢.
+
+===1ªLei de <s>homem</s> Ohm===
+
+{{C|A resistência será, sempre proporcional a [[tensão elétrica]] e inversa a [[corrente elétrica]], não me perguntem o porquê.|Ohm|sua primeira lei.}}
+
+Matematicamente é o seguinte: <math>Resistência = Tensão/Corrente</math>
+
+Como a tensão é dada em volt<s>as</s> [V] e a corrente em ampères [A] chega-se nisso, para parecer chique decidiram dar uma letra grega para a resistência, ou talvez para ficar misterioso que nem o [[pi]], para isso puseram a letra ômega [Ω], mas é abreviada como [R], então: 
+
+<math>V/A = R</math> 
+
+{{c|Eu não sabia que se você dividisse o V pelo A dava uma letra árabe.|[[Carla Perez]]|a primeira lei de Ohm.}}
+
+Os cientistas ainda procuram explicar por que isso sempre dá certo, mas a teoria mais aceita acerca disso é que há alguma relação com a magia do número [[42]].
+
+===2ª Lei do [[George Simon Ohm|tio Ohm]] - A lei da obviedade===
+
+Bem a lei é uma piada por si só:
+
+<math>R = pl/a</math>  Sendo: <tt>p = rô</tt>
+
+Logo: '''Ohme = rola'''
+
+Ohm chegou a incrível conclusão de que homens tem rola, utilizando as seguintes variáveis: Extensão do [[pênis|fio]], largura do [[pênis|fio]] e constante do material do [[pênis|fio]] (ui!).
+
+{{c|Adoro!|[[Richarlyson]]|2ª lei de Ohm.}}
+[[Arquivo:Choque30.JPG|thumb|right|[[Noob]] levando choque.]]
+Por incrível que pareça isso é o básico da [[eletrônica]], à partir de agora você ja sabe o básico disso, viu? Desciclopédia é cultura.
+
+==Coisas que só podem ocorrer por causa da resistência==
+
+Só existe tensão quando há resistência e só a corrente se resistência é diferente de infinito, é tensão e corrente são do contra.
+
+*Seu chuveiro esquentar.
+*A lâmpada acender.
+*Você morrer eletrocutado.
+*Sua [[irmã]] caçula levar choque ao por o dedo na tomada.
+*A televisão funcionar para você assistir o [[Cine Privê]] da [[Band]].
+*O computador ligar.
+*Se for [[windows|Rwindows]] por causa da Resistência elétrica ele pode travar.
+*Se o Russo colocar a pinça na tomada.
+
+
+{{Eletrônica}}

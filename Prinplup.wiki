@@ -1,0 +1,38 @@
+{{agua}}
+{| class="toccolours" style="width:235px; margin: 0 0 0.5em 1em; float:right; clear:right;" 
+! bgcolor= LightSkyBlue align=center |'''Prinplup'''
+|- 
+| style="text-align:center;" |[[Arquivo:Prinplup1.png|215px]]
+''A forma pokémon do Happy Feet''<br><small></small>
+|- style="text-align:center;"
+! style="background: LightSkyBlue;" | '''Tipo'''
+|- style="text-align:center;"
+|'''''[[Arquivo:WaterIC.gif]]
+'''''
+|- style="text-align:center;"
+! style="background: LightSkyBlue;" | '''Espécie'''
+|- style="text-align:center;"
+|'''''Pinguim mal-encarado
+'''''
+|- style="text-align:center;"
+! style="background: LightSkyBlue;" | '''Cadeia evolutiva'''
+|- style="text-align:center;"
+|'''[[Arquivo:393.png|link=Piplup‎]]'''[[Arquivo:Seta.JPG|30px]][[Arquivo:Prinplup.png|Prinplup|link=Prinplup]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:Empoleon.png|link=Empoleon]]
+|}
+[[Arquivo:Prinplup.png|left]]
+'''Prinplup''' é um pokémon pinguim, o número #394 na ''infinite pokédex''. Prinplup também é conhecido como o "pokémon que a [[Dawn]] nunca vai ter", já que seu [[Piplup]] sofre a síndrome de [[Pikachu]] e carrega até uma ''everstone'' pra nunca evoluir - Tudo isso uma desculpa pros 3 personagens importantes de [[Sinnoh]] se diferenciarem, mesmo tendo iniciais iguais. Assim, Dawn tem o Piplup, Kenny tem o Prinplup e o [[Barry (Pokémon)|Barry]] tem um [[Empoleon]].
+
+==Dados==
+[[Arquivo:Prinplup2.jpg|thumb|left|Prinplup se achando o gostosão]]
+Prinplup é a evolução do Piplup, um dos iniciais de Sinnoh, mas engana-se quem acha que esse pinguim aqui é grande coisa. Enquanto os demais iniciais aprendem boas técnicas quando evoluem, Prinplup não aprende porra nenhuma de bom, dependendo sempre daquele golpe ridículo de bolhas que possuía quando ainda era um Piplup. Assim, a única vantagem de evoluir o pinguinzinho bonitinho pra essa coisa estranha aqui é o pequeno ganho de atributos e a possibilidade de evoluir futuramente para Empoleon, esse sim um pokémon mais útil, ou menos inútil, já que apesar de ganhar o tipo aço ainda não aprende nenhuma boa técnica de água.
+
+Apesar de serem considerados comuns na região de Sinnoh, é impossível encontrar um Prinplup andando por aí, você pode revirar a região de ponta-cabeça que não vai achar um único Prinplup. Se você escolheu como inicial o [[Chimchar]] ou o [[Turtwig]], esqueça a ideia de ter um Prinplup, o único jeito de conseguir um vai ser por troca. Assim sendo, este pinguim pra lá de medíocre acaba sendo mais raro do que um [[Giratina]] ou um [[Azelf]], esses pelo menos você encontra uma vez no jogo.
+
+==Curiosidades sobre os Prinplups==
+
+O único jeito de ter um pokémon de água de verdade em Sinnoh é dando sorte no cassino de Veilstone, assim você pode trocar suas moedas por uma "hidrobomba" ou um "raio de gelo" pra ensinar pro seu Prinplup, tornando-o menos pior. Os atributos continuam sendo uma merda, mas ele pelo menos terá ataques mais dignos do que as bolhas de sabão.
+
+... ou então apenas capture um [[Buizel]] e evolua pra [[Floatzel]], ou mesmo pesque um [[Gyarados]] e abandone o Prinplup em um canto escuro de uma de suas box. 
+
+{{poke4}}
+[[Categoria:Pinguins]]

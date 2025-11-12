@@ -1,0 +1,101 @@
+{| class="toccolours" style="float:right; margin-left:1em; width:27em; font-size:90%; text-align:left;"
+|+ style="font-size: larger; margin: inherit;" | '''Brabham'''
+|- style="vertical-align: top;"
+| colspan="2" style="text-align:center;" | [[Arquivo:Brabham Bizarro 2.jpg|160px]]
+|- style="vertical-align: top;"
+! Nome completo
+| '''Brabham Racing Organization'''
+|- style="vertical-align: top;"
+! Base
+| Milton Keynes <s>Acre</s> [[Reino Unido]]
+|- style="vertical-align: top;"
+! Chefe de equipe
+| Bernie Ecclestone
+|- style="vertical-align: top;"
+{{#if: {{{Engineering Head|}}}    |
+! {{{Engineering Head position}}}
+{{!}} {{{Engineering Head}}}
+}}
+|- style="vertical-align: top;"
+{{#if: {{{Director|}}}    |
+! Diretor Técnico
+{{!}} Jack Brabham
+}}
+|- style="vertical-align: top;"
+! Pilotos
+| 
+|- style="vertical-align: top;"
+! Pilotos de teste
+| [[Nelsinho Piquet]]
+|- style="vertical-align: top;"
+! Chassis
+| Ford Corcel I e II
+|- style="vertical-align: top;"
+! Motor
+| [[Volkswagem]] [[Fusca]] 1300 e [[Fiat 147]]
+|- style="vertical-align: top;"
+! Pneus
+| <s>Goodyear</s> Maggion e Maxxis 
+|-
+|colspan="2" style="text-align:center;" | '''Histórico na [[Fórmula 1]]'''
+|- style="vertical-align: top;"
+! Estreia
+| GP [[Alemanha]] 1962
+|- style="vertical-align: top;"
+! Corridas concluídas
+| <s>Nenhuma</s> 402
+|- style="vertical-align: top;"
+! Campeã de construtores
+| 2 (19[[Satanas|66]] e 19[[69]])
+|- style="vertical-align: top;"
+! Campeã de pilotos
+| 4 (1966, 1967, 1981 e 1983)
+|- style="vertical-align: top;"
+! Vitórias
+| 35
+|- style="vertical-align: top;"
+! Pole Positions
+| 39
+|- style="vertical-align: top;"
+! Volta mais rápida
+| 42
+|- style="vertical-align: top;"
+! Último GP
+| GP da Hungria 1992
+|- style="vertical-align: top;"
+! Posição no último campeonato <br />(1992)
+| 15° Ou Ultima se preferir
+|}
+{{Você quis dizer|[[Brahma]]}}
+
+{{Você quis dizer|Estranha}}
+
+A '''Brabham Racing Organization''' foi uma equipe de [[Formula 1]] fundada em 1961, por o então desconhecido e Bicampeão mundial <s>[[Jack Bauer]]</s> [[Jack Brabham]] que viria a ser tornar Tri-Campeão, em sociedade com o também desconhecido <s>[[Dick Vigarista]]</s> [[Ron Tauranac]]. A Brabham participou de 31 mundiais (de 1961 a 1992) e ganhou apenas 2 vezes o mundial de construtores (1961 e 1962), devido a <s>qualidade de seus carros</s> competitividade da categoria.
+
+== História == 
+[[Arquivo:1969-Brabham bizarro.jpg|thumb|left|180px|Brabham Mostrando Que Ser <s>Bizarro</s> Inovador Não Tem Limites.]]
+
+Depois de vencer duas temporadas pela [[Cooper Car Company|CU-PÉ]] (1959 e 1960), Jéqui Brabão se juntou com o Ron Tauranac para montar uma nova equipe, levando o sobrenome do Jéqui. Sim, total aleatória a escolha, mas vai que é só porque o Jack é que era o fodão da parada, diferente do Tauranac que eu nem lembro quem ele era.
+
+Bem, pro extremo azar do Brabham, em 1961 a F1 decidiu reduzir a capacidade dos motores para míseros 10 cavalos, o que foi uma merda pra Brabham, que ao tentar fazer essa redução, fodeu a porra toda e o carro ficou com só 1 cavalo mesmo, e o pior, um [[cavalo paraguaio]]. Enfim, ficaram sem ganhar porra nenhuma por três anos com isso.
+
+Em 1964 enfim subiram no posto mais alto do pódio com o [[Dan Gurney]], um prenúncio do que viriam a fazer já em 1966, quando a [[FIA]] ficou louca enfim e aí liberou o uso de até 199078391207398279142898321 cilindradas, inserindo essa porra toda no motor do patrão Jack, que conseguiu o feito único de ser o dono de equipe a conseguir ganhar um título de Fórmula 1, levando um monte de imbecis a tentarem repetir a dose, como [[Bruce McLaren]], [[Wilson Fittipaldi]] e até o [[John Surtees]]. E nenhum obviamente conseguiu porra nenhuma - na real, o Bruce sim conseguiu, conseguiu ir de [[morte|arrasta pra cima]] em 1970 com seu próprio carrinho...
+
+No ano seguinte, 1967, foi a vez de [[Denny Hulme]], o parceiro de equipe, a conseguir descolar um título, já que o patrão queria mostrar pro mundo que não era tão fominha assim. E assim a equipe seguiu relativamente bem até 1970, já que o Brabham, o piloto, óbvio, finalmente se aposentou da categoria, e vendeu tudo pro Taunarac, o que se revelou uma tremenda cagada, já que este estava mais preocupado é em criar a porra da [[Trojan–Tauranac Racing]], sua equipezinha própria, e aí que só deu bom mais ou menos quando [[Bernie Ecclestone]] assumiu a equipe em 1972.
+
+Bem, na verdade resultado bom mesmo só começou a ter em 1978, quando o Ecclestone, com o piloto [[Niki Lauda]] ao lado, enfiaram a porra de uma turbina de [[avião]] (!) no motor, fazendo o carro ser intankável, vencendo a abertura da temporada de cara. Putos da vida, geral, em especial o [[Colin Chapman]], dono da [[Team Lotus]], ameaçou meter o pé da porra da [[Associação dos Construtores da Fórmula 1|FOCA]] que o Ecclestone queria inventar para afrontar a FIA.
+
+Daí demorou um tempinho até que em 1981 um tal de [[Nelson Piquet]] apareceu pra correr nessa bodega e com a ajuda de [[Gordon Murray]] como engenheiro, conseguem desenvolver um carro decente em que ele conseguiu os títulos de 1981 e 1983. Em 83 ele teve um bom companheiro de equipe de nome [[Riccardo Patrese]], mas em 1981 o companheiro era só um foda-se chamado [[Hector Rebaque]] que antes tinha até inventado uma tal de "Equipe [[Rebaque]]", que eu prefiro fingir que nem existiu na F1, já que foi tão inútil quanto o próprio Rebaque correndo na Brabham.
+
+Depois que Piquet meteu o pé pra [[Williams]] em 1985, a Brabham foi se destroçando até o Ecclestone ficar só com a FOCA mesmo em 1987 e a Brabham foi de saco...
+
+...Ou não. É que em 1989 ela voltou dos mortos do nada, com uns pilotos ok como [[Martin Brundle]] e [[Mark Blundell]], além do [[Damon Hill]] já quando a equipe estava em [[estado de coma]] já, uns pilotos que ninguém se importa como o [[David Brabham]] (sim, o filho da lenda que criou a equipe e que não era bom nem um pouco), [[Eric van de Poele]] e [[Stefano Modena]], e dois tremendos pés de chumbo nas figuras de [[Gregor Foitek]] (demônio que quase mata pilotos quando corre) e [[Giovanna Amati]], a última mulher a tentar ser pilota de carro de Fórmula Um efetivamente (a caolha [[Maria de Villota]] da [[Marussia]] não conta porque ela "foi aposentada" a força por burrice da própria Marussia num acidente imbecil deles), e foi tão mal de desempenho que fez a F1 desde então mandar o [[feminismo]] para a puta que pariu. Não que tenha dado tempo pra Brabham se recuperar dessa aventura de merda e agora sim ela desgrumelou de vez da F1 (inclusive acabando antes mesmo de terminar a temporada de 1992) e nunca mais voltou.
+
+== Curiosidades ==
+Em 1966 Jack Brabham sagrou-se o único campeão da Formula 1 a pilotar um carro construído por ele mesmo. Ou seja, Além de construir o carro o cara ainda teve que ser o piloto, [[mecânico]] e chefe da Equipe, ainda tem gente que reclama da crise mundial.
+
+{{Oposto|Prost Grand Prix}}
+{{Equipes f1}}
+
+[[Categoria:Automobilismo da Inglaterra]]
+[[Categoria:Equipes de Fórmula 1 extintas]]

@@ -1,0 +1,49 @@
+{{Infobox/Presidente
+| nome            = Kalkot o quê?
+| país            = {{VAN}}
+| foto            = Arquivo:Kalkot.jpg
+| tamanho         = 175px
+| fotodesc        = Foto [[mentira|em alta definição]] de Kalkot registrada numa [[Tekpix|Tekpix iDV-12]], a filmadora mais vendida de Vanuatu.
+| observação      =
+| lista_presidente= 
+| ordem           = 6
+| prep            = de
+| posse           = [[16 de agosto]] de [[2004]]
+| termino         = <br />[[16 de agosto]] de [[2009]]
+| vice-presidente = Lá nem tem isso
+| predecessor     = [[Josias Moli|Josias Pau Moli]]
+| sucessor        = [[Maxime Carlot Korman|Carlota Korna]]
+| datanasc        = [[24]] de [[abril]] de [[1949]]
+| localnasc       = Alguma aldeia em Vanuatu
+| datafalec       = 
+| localfalec      = 
+| primeiradama    = [[Hanson]] Mataskelekele
+| profissao       = [[Adevogado]]
+| lista_partido   = 
+| partido         = [[PT]]
+|}}
+'''Kalkot Mataskelekele Mauliliu''' foi o sexto presidente de [[Vanuatu]], de [[2004]] a [[2009]]. Tirando isso e esse nome impronunciável cheio de sílaba, não tem muito o que destacar sobre ele.
+
+==Juventude==
+Nascido em [[1949]], quando Vanuatu ainda era uma colônia do [[Império Britânico]] malvadão chamado [[Novas Hébridas|Novas Ébrias]] (pra tu ter uma noção da antiguidade), Kalkot Mataskelekele, que daqui pra frente vou chamar só de "Kalkot" pra não ter que digitar esse nome gigantesco toda hora, teve uma educação típica vanuatuana, ou seja, foi estudar em outro país. Foi educado em [[Melbourne]], um privilégio que 99,999% dos vanuatuanos não tem e depois passou um tempinho na Universidade de [[Port Moresby]]; quando voltou era o único advogado em toda Vanuatu, o que facilitou ele subir na vida rapidamente.
+
+==Presidência==
+[[Arquivo:Rear Admiral Donna Crisp and President Kalkot Mataskelekele.jpg|thumb|left|250px|O simpático Kalkot firma acordo com os [[Estados Unidos]] pela aquisição de mais um lote de [[puta paga|concubinas]].]]
+Seguindo a tradição de todo almofadinha com um pouco a mais de educação em currutelinhas desoladas, Kalkot entrou na política, sendo eleito presidente pelo colégio eleitoral local que é uma mistura [[Colégio eleitoral dos Estados Unidos|daquele troço]] dos [[Estados Unidos]] com o sistema de chefes tribais, já que ampla democracia é um conceito que ainda não chegou em Vanuatu. Foi empossado em 16 de agosto de 2004, após a cerimônia típica vanuatuana onde o presida senta no [[privada|trono]] vestido apenas numa tanga e pintado de prateado enquanto canções do filme [[O Rei Leão]] são entoadas.
+
+Durante seus 5 anos de governo, Kalkot marcou história sendo o primeiro chefe de estado dali a ter diploma universitário (lá isso é grandes coisas sim) e fez o de praxe de todo presidente vanuatuano, ou seja, [[nada]] além de inaugurar uma obra aqui e ali e receber visitas de assessores de outros chefes de estado, já que os próprios não são doidos o suficiente para tentar ir a Vanuatu. 
+
+Terminado seu mandato, passou o bastão pro próximo presida e aposentou da política com todas benesses vitalícias pagas pelo povo, como todo líder de republiquetas. O que [[eu]] não entendi é porque adicionaram o nome dele na predefinição {{tl|Ditadores}}, já que aparentemente, seguindo o rito democrático, ele cumpriu o mandato e vazou. Mas pelo menos isso me deu a ideia de criar esse artigo, já que sem essa coincidência eu nunca teria sabido da existência de Kalkot Mataskelekelekele...
+
+{{caixa de sucessão|
+título=[[Arquivo:Brasão do Vanuatu.png|50px|link=Brasão de Armas de Vanuatu]]<br>[[Presidente]] de [[Vanuatu]] |
+anos=[[2004]] — [[2009]] |
+antes=[[Josias Moli]] |
+depois=[[Maxime Carlot Korman]]
+}}
+{{Ditadores}}
+
+[[Categoria:Advogados de Vanuatu]]
+[[Categoria:Carecas]]
+[[Categoria:Juízes de Vanuatu]]
+[[Categoria:Presidentes de Vanuatu]]

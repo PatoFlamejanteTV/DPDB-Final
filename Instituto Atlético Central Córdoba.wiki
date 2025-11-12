@@ -1,0 +1,54 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = red
+|brasao            = Escudo do Instituto de Córdoba.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{ARG}}''' - [[Córdoba]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Córdoba]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Argentino de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Instituto Atlético Central Córdoba''' é o time que mostra que na cidade de Córdoba, o futebol é mais do que apenas um jogo — é quase uma religião. Ele disputa com o Talleres de Cordoba pra ver quem é o maior da cidade com a mesma paixão e energia de um festival de folclore no coração das montanhas.
+
+== História ==
+=== O Início: Capítulo 1 - "Educação e Futebol" ===
+Fundado em 1918, o Instituto de Córdoba FC começou sua trajetória com uma missão bem definida: ser um exemplo de esportividade e talento, além de ter uma pegada acadêmica no nome. Imagine a cena: um grupo de aficionados por futebol decidiu que era hora de criar um time que não só brilhasse no campo, mas também fosse um exemplo de perseverança e dedicação. E assim, com muito entusiasmo e um toque de ousadia, nasceu o Instituto de Córdoba FC.
+
+=== Primeiros Passos: Capítulo 2 - "Estudantes de Futebol" ===
+Nos primeiros anos, o Instituto de Córdoba jogava nas divisões inferiores do futebol argentino, como um aluno que ainda está tentando passar no exame final. O time batalhava com determinação e esforço, sempre em busca de uma chance para se destacar e mostrar sua capacidade na primeira divisão.
+
+=== A Ascensão: Capítulo 3 - "A Prova de Fogo" ===
+Com muito trabalho e dedicação, o Instituto conseguiu subir para a primeira divisão argentina e se estabelecer como um time respeitado. A cidade de Córdoba comemorou como se fosse uma grande cerimônia de formatura, e cada jogo se tornou um evento aguardado com entusiasmo. A torcida vibrava com a mesma paixão dos alunos que esperam pelo diploma, apoiando o time com fervor e alegria.
+
+=== A Torcida: Capítulo 4 - "Los Estudiantes Fanáticos" ===
+A torcida do Instituto de Córdoba, conhecida como "Los Estudiantes", é um espetáculo à parte. Com bandeiras brancas e azuis, tambores e uma energia contagiante, eles transformam cada jogo em uma verdadeira celebração. É como se cada partida fosse uma grande festa acadêmica, com torcedores prontos para apoiar seu time com fervor e entusiasmo.
+
+=== Momentos de Brilho: Capítulo 5 - "Brilhando com Mérito" ===
+O Instituto de Córdoba teve momentos de grande brilho, incluindo campanhas notáveis na primeira divisão e participações em torneios regionais. Cada vitória era comemorada com a mesma intensidade de uma conquista acadêmica, trazendo alegria e orgulho para os torcedores.
+
+=== Desafios e Lutas: Capítulo 6 - "Superando o Estudo e o Jogo" ===
+Manter-se competitivo não foi tarefa fácil. O Instituto enfrentou muitos desafios ao longo dos anos, incluindo dificuldades financeiras e rebaixamentos. Mas, assim como um estudante que enfrenta provas difíceis com coragem, o time nunca desistiu de lutar, sempre buscando melhorar e alcançar novos patamares.
+
+=== Investindo no Futuro: Capítulo 7 - "Formando Novos Talentos" ===
+O Instituto de Córdoba investiu fortemente em suas categorias de base, ajudando a formar jovens talentos que, posteriormente, se destacaram no cenário nacional e internacional. O clube se tornou um verdadeiro celeiro de craques, mostrando que a perseverança e o trabalho árduo podem render bons frutos, como um aluno que brilha na formatura.
+
+{{Campeonato Argentino}}
+
+[[Categoria:Times de futebol da Argentina|Instituto de Córdoba]]

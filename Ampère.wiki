@@ -1,0 +1,24 @@
+{{elétrico}}
+
+'''Ampère (A)''' (ou '''ampere''') é a unidade padrão do [[Sistema Internacional de  Unidades]] para corrente <s>de e-mail</s> <s>de [[Facebook]]</s> elétrica. Algumas unidades usuais, mas nada oficiais são '''sentado''' e '''deitado'''.
+
+==Definição==
+[[1900|Na época em que seu tio eletricista gostava de fazer fio terra (ui!)]] e usava multímetro de ponteiro, definia-se o seguinte:
+
+{{c|1 ampère de corrente elétrica equivale a uma carga de 1 coulomb que percorre uma secção <s>[[Sessão da Tarde|da Tarde]]</s> transversal de um condutor num intervalo de tempo de 1 segundo.|Definição antiga}}
+
+Mas atualmente a definição é a seguinte:
+
+{{c|Um ampère é definido como a corrente que produz uma força atrativa de 2,0.10<sup>−7</sup> newton por metro de comprimento entre dois condutores retos paralelos que se estendem do [[Acre]] até a [[Casa do caralho]] e secção circular desprezível colocados a um metro de distância um do outro no [[vácuo|espaço livre]].|Definição atual, [[mentira|muito mais fácil]]}}
+
+Alguns físicos [[otaku]]s insistem na seguinte definição, sem sucesso:
+
+{{c|Um ampère é um vigésimo da intensidade média da corrente elétrica de um Choque do Trovão do [[Pikachu]], quando este é aplicado contra a Equipe Rocket.}}
+
+==Ver também==
+*[[Eletricidade]]
+*[[Física]]
+
+{{semER}}
+{{SI}}
+[[Categoria:Física]]

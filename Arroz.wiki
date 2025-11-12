@@ -1,0 +1,67 @@
+{{Gastronomia}}
+{{taxocaixa
+| nome           = Arroz
+| cor            = #00FF7F
+| imagem         = Feijao1.jpg
+| imagem_legenda = Famoso arroz moreno.
+| reino          = [[Plantae|Plantinhas]]
+| superdivisão   = [[Spermatophyta|Plantas com esperma]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Monocotiledôneos|Monococotilenolodôneos]]
+| subclasse      = [[Comelinídeas|Comebucetinhas]]
+| ordem          = [[Poales|Polares]]
+| família        = [[Poaceae|Poracea]]
+| gênero         = '''Oxente'''
+}} 
+
+O '''Arroz''' é uma planta chinesa que apesar de ser um [[vegetal folhoso]], oferece um grão gostoso como a água. É item essencial das famílias chinesas, cujos seus líderes trabalham 24 horas por dia em troca de todo o grão que puder comer e um dos dois elementos que compõem a versão ''Home Basic'' do prato básico de todo o Brasileiro, parceria feita com o saudoso [[feijão carioca|Feijão do Rio de Janeiro]] (não é o [[feijão preto|preto]]). Apesar de ser consumida por pobres, o Arroz é rico em fibras de carbono hidratado e possui amídalas, responsáveis pela criação do Amido e talvez por isso, foi a principal matéria prima da [[piscina de Amido]] do [[Domingo Legal]].
+
+==Origens==
+Ao contrário do que muita gente pensa, o Arroz não surgiu daquele monte de ferrugens do maquinário da fábrica do [[Arroz Tio João|Tio João]]. Os grãos foram inventados por antissociais orientais que se estabeleceram nas margens do [[Rio Yangtzé]] e que tiveram a ideia de vender arroz parabolizado para os ''normies'' descolados da cidade poderem saciar a fome no horário do almoço, já que na época não existiam (e ainda não existem) filiais do [[McDonalds|Mequi Dónaldes]] na [[China]]. Os grãos eram produzidos por meio de alquimia, sendo dois reconhecidos como pais desse produto tão formidável. São eles, [[Especial:Aleatório|Zhe Fu Jao]] e um outro [[Chinês|Homem-Baidu]] qual não me lembro do nome agora.
+
+[[Arquivo:Arroizeira.jpg|thumb|left|Logística de comércio de arroz. Um produto símbolo de muitos países subdesenvolvidos.]]
+Com o passar do tempo, essa iguaria passou a ser cultivada nos demais países subdesenvolvidos, com o detalhe que cada um deles, incluindo o Brasil, queria ser visto como ''O Cu de Onde Saiu O Arroz'', sendo este título cabido somente a China.
+
+==Tipos==
+{{fato|a única maneira de comer um arroz soltinho é comendo ele cru?}}
+Basicamente, existem dois tipos de arroz, o <s>de</s> branco e o parabolizado (o ''arroz sujo'').
+
+===Arroz Parboilizado===
+O arroz parboilizado ou parabolizado, neste último caso ele foi frito em uma antena parabólica.
+
+Frito é isso? Isso mesmo, o arroz branco quando fica velho e cheio de fungos e parasitas, ninguém quer comprar, aí os produtores são obrigados a recolher e jogá-los nas [[fossas marianas]], porém, um brasileiro inspirado na [[Lei do Gérson]], só podia ser um brasileiro, teve a grande ideia de fritar o arroz em óleo queimado dos motores dos carros que ia ser atirado nos córregos para matar as larvas dos mosquitos egípcios que disseminam a [[dengue]].
+
+O arroz assim fica amarelado e ninguém percebe que ele está contaminado com fungos, bactérias, vírus e coco de moscas, aí e só embalar de novo e dissimular a nova cor com o nome parbolizado nos rótulos, aí todos os manés pensam que é produto americano por causa do 'oil' (óleo em inglês) e aí aceitam pagar até mais por ele.
+
+Assim foi resolvido dois problemas, o descarte de arroz podre e a dificuldade de reprodução dos mosquitos egípcios.
+
+==Uso==
+O arroz é usado tanto em almoço de família, nas [[festas de fim de semana|festa de <s>punheteiro</s> fim de semana]] e outras situações corriqueiras do dia a dia, como também em eventos especiais, como nas vitórias do [[Fluminense Footbal Club|Fluminense]], incluindo as conquistadas nos tribunais.
+
+{{Imageframe|width=180|content=[[Arquivo:Larvas_de_Arroz.jpg|180px]]<br/>[[Arquivo:Larva besouro Goliathus goliatus.jpg|180px]]|caption=Algumas dessas ''minhoquinhas'' minúsculas podem chegar a medir 1m (de diâmetro). Na primeira imagem, o tamanho que elas estão prontas para serem degustadas e na segunda, quando elas atingem a adolescência.}} 
+Apesar de seu uso ser intenso em locais onde a economia se encontra sempre em barracota, ultimamente seu uso tem sido preterido. Além de consumir gás a beça, o produto ainda vem com porcarias e [[pedra|pequenos aerólitos]] embutidos. Além disso, depois da chegada do arroz no [[Brasil]], o produto se tornou extremamente caro e é apresentado nas mesas dos brasileiros, com ao invés do arroz branco e soltinho, um [[feijão]] sem sal e com caldo todo ralo em cima, tirando totalmente o sabor dele.
+
+==Curiosidades==
+{{curiosidades}}
+* Pegue esse arroz de sua casa e ponha num vasilhame com água dois dedos acima da quantidade de arroz. Observe bem algumas minhoquinhas, bem pequenas. Sabe o que é aquilo? É um [[boró]]. Não, melhor ainda, os restos mortais de um boró, já que muito provavelmente estão mortos. Agora você que consome arroz não tem mais motivos para rir do povo malásio, pois você faz o mesmo;
+* O processo pelo qual passam os arroz que as empacotadoras dizem virem lavados, na verdade é o mesmo que o de um arroz comum, com a diferença que no final da esteira, um funcionário borrifa um pouco de água.
+* No [[Vietnã]], os camponeses são enterrados nos arrozais, propiciando um sabor diferente ao arroz vietnamita.
+
+==Ver também==
+*[[:Categoria:Arrozais|Lista com algumas fábricas deste produto]]
+{{alimentos}}
+
+[[Categoria:Cereais]]
+[[Categoria:Poaceae]]
+[[Categoria:Oryza|*]]
+
+[[da:Ris]]
+[[de:Reis]]
+[[en:Rice]]
+[[fr:Riz]]
+[[ja:ご飯]]
+[[ko:밥]]
+[[no:Ris]]
+[[pl:Ryż]]
+[[th:ข้าว]]
+[[zh-tw:白米]]

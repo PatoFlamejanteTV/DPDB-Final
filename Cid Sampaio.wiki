@@ -1,0 +1,85 @@
+{{Nova Infobox
+| estilo      = 
+| largura da caixa = 290px
+| imagem      = Cid_Feijó_Sampaio,_Governador_de_Pernambuco..tif
+| imagem-tamanho  = 190px
+| legenda     = Cid rindo da próxima usina que ele vai desapropriar para catar a grana pra ele.
+| título      = Cid Sempau
+| subtítulo   = {{{nome_alt|}}}
+| largura     = 
+| tópico-estilo   = background-color: &#35;E6E6FA
+<!--- Título principal --->
+| tópico1     = Dono das usinas de Pernambuco tudo
+|   rótulo1   = Período
+|   dados1    = [[1959]] - [[1987]]
+<!---Outros títulos--->
+<!---Título 2--->
+| tópico6     =  ''[[Governador]]'' do ''[[Pernambuco]]''
+|   rótulo6   = Período
+|   dados6    = [[1959]] - [[1963]]
+|   rótulo7   = Vice
+|   dados7    = Meu Pau de Óculos
+|   rótulo8   = Antecessor
+|   dados8    = [[Otávio Correia de Araújo]]
+|   rótulo9   = Sucessor
+|   dados9    = [[Miguel Arraes]]
+<!---Título 3--->
+| tópico10     =  ''[[Senador]]'' de ''[[Pernambuco]]''
+|   rótulo10   = Período
+|   dados10    = [[1983]] - [[1987]]
+|   rótulo11   = Antes suplente de
+|   dados11    = [[Nilo Coelho]]
+<!---Título 4--->
+| tópico12     = Dados pessoais
+|   rótulo12   = Nascimento
+|   dados12    = 1910, em Hellcife
+|   rótulo13   = Nível de honestidade
+|   dados13    = Inexistente
+|   rótulo14   = Nível de inteligência
+|   dados14    = {{066}} Enganou 70% dos pernambucanos e 100% dos direitistas
+|   rótulo15   =  ''[[Faculdade|Alma mater]]''
+|   dados15    = Faculdade de Ciências Exatas do Recife (extinta), [[UFRJ]]
+|   rótulo16   = Cônjuge
+|   dados16    = 
+|   rótulo17   = Partido
+|   dados17    = [[UDN]], depois [[Aliança Renovadora Nacional|ARENA]] e por fim [[Progressistas|PPBosta]]
+|   rótulo18   = Time
+|   dados18    = O que tivesse ganhando
+|   rótulo19   = Profissão
+|   dados19    = [[Engenheiro]] e [[químico]]
+|   rótulo20   = E-mail
+|   dados20    = Ele não gostava dessa porra
+}}
+
+'''Cid Feijó Sampaio''' ([[Recife|Recífilis]], 7 de dezembro de 1910 — A Mesma Doença, 30 de setembro de 2010) foi um [[usineiro]] e [[industrial]] que dominou todo o comércio de [[açúcar]] e todos os [[boia-fria]]s da região por décadas, se tornando [[governador]] e mais tarde [[senador]] de [[Pernambuco]] para garantir seu poderio.
+
+Seu duro (?) trabalho foi compensado com uma puxação de saco ainda em vida da [[Assembleia Legislativa de Pernambuco]], chamando-o de "Expoente de Pernambuco" (seja lá o que essa porra de título signifique).
+
+== Biografia ==
+
+O sobrinho-neto do [[Padre Feijó]] (nem sei se era mesmo, inventei isso agora xD) nasceu em berço de ouro em Recife, já que seu pai era [[senhor de engenho]] aposentado, dando ao filho várias fazendas, que logo virariam usinas, com a mudança de tecnologias para moer a [[cana-de-açúcar]], fazendo o bagulho ficar mais industrializado e assim a [[cachaça]] ficar ainda mais foda.
+
+Essa moral toda o motivou a entrar na vida pública, virando presidente fundador do Centro das Indústrias de Pernambuco. Essa moral toda com os empresários o tornou um grandessíssimo candidato a manter o status quo da ladroagem em Pernambuco, vencendo as eleições contra o candidato do general [[Cordeiro de Farias]] (pai não assumido do [[Paulo César Farias]]) e, acredite se quiser, com a ajudinha dos ex-prefeitos do Recife comunas [[Pelópidas da Silveira]] e [[Miguel Arraes]], esse último até secretário e sucessor seu acabou virando.
+
+No governo, criou a finada Companhia Pernambucana de [[Borracha]] Sintética (COPERBO), quando tentou expandir seus negócios não só pro açúcar e pra [[Pitú]] (empresa que dizem que ele quem fundou), mas para a seringagem e a tirada de látex do pau.
+
+Quando da chegada da [[Ditadura Militar de 1964]], o Cid, diferente da ampla maioria dos cabras da UDN, decidiu trair o movimento antidemocrático e se disse contrário a essa patacoada. Mas, como dizem por aí, a oportunidade faz o ladrão, e quando convidado para integrar a recém fundada [[Aliança Renovadora Nacional]], ele nem pensou duas vezes e pulou pra dentro dessa brincadeira, virando [[deputado federal]] e posteriormente [[senador]] após ser [[suplente]] do ex-governador-interventor [[Nilo Coelho]] na eleição de 1979 e este último ir de [[Agamenon Magalhães]].
+
+Em 1994, depois de anos meio sumido, só ampliando suas redes de cachaçaria pelo Brasil, Cid tentou novamente voltar a ser governador de Pernambuco, mas dessa vez foi superado pelo Miguel Arraes na terceira tentativa desse velho terminar algum mandato de governador nessa porra. Assim o Cid se aposentou de vez da vida pública e passou a ficar só gerenciando as cachaçarias e destilarias dele, até fazer companhia ao Nilo Coelho em 2010, pouco tempo antes de completar 100 anos de idade, já que [[vaso ruim]] né... demora pra porra para quebrar!
+
+{{Caixa de sucessão
+|título=[[Arquivo:Brasão de Pernambuco.png|50px|link=Brasão de Pernambuco]]<br>[[Deslistas:Governadores de Pernambuco|Ditador de Pernambuco]]
+|anos=1959 — 1963
+|antes=[[Otávio Correia de Araújo]]
+|depois=[[Miguel Arraes]]
+}}
+
+[[Categoria:Governadores de Pernambuco]]
+[[Categoria:Deputados federais de Pernambuco]]
+[[Categoria:Senadores de Pernambuco]]
+[[Categoria:Empresários do Brasil]]
+[[Categoria:Engenheiros do Brasil]]
+[[Categoria:Químicos do Brasil]]
+[[Categoria:Membros da Aliança Renovadora Nacional ]]
+[[Categoria:Membros do Progressistas ]]
+[[Categoria:Membros da União Democrática Nacional ]]

@@ -1,0 +1,78 @@
+{{Matemática}}
+
+'''Adição''' é um processo pelo qual dois [[número]]s diferentes ou iguais se unem para formar um novo número totalmente inédito. De acordo com estudos realizados com brasileiros, caso a soma não envolva múltiplos de 5 e/ou menores de 20, a soma imediatamente torna-se impossível de ser efetuada por qualquer brasileiro de porte médio. Como por exemplo, a resposta da adição simples a seguir: 87+43. Obviamente, isso é igual a 140. Já é autoexplicativo né? Você “soma”. Se não é para somar, então some. Ou seja, adicionar e acrescentar. Outras formas de acrescentar é ajudar sua mãe a lavar a louça, seu preguiçoso(a).   
+
+== Propriedades ==
+* '''Comutatividade''' - A ordem dos números não altera o resultado da adição, ou seja, se 2+2=4, então 2+2=4...
+* '''Associatividade''' - Parênteses são coisas do capeta que surgiram com as contas de [[multiplicação]], e na soma eles são inúteis. Assim, se (2897 + 3210) + 1 = 6108, logo 6108 + (2897 + 1) = 3210.
+* '''Elemento neutro''' - Somar com zero não faz diferença, de maneira que 2+3=5 é o mesmo que 2+0+0+0+0+0+0+0+0+0+0+0+0+0+3=5.
+* '''Anulação''' - A soma de qualquer número e o seu oposto é zero. De maneira que a nota 10, mais a nota 0, é igual a zero.
+
+== Sinal ==
+Os fracos usam o sinal de "mais" (+) para fazer suas adições frufruzentas, os fortes, todavia, usam o "somatório" ( <math>\Sigma</math> ) para fazer adições hardcore. Entenda a diferença abaixo:
+
+ <math>   \sum^n_{i = m} \sum^l_{j = k} f(i)g(j) = \sum^n_{i = m} f(i)\sum^l_{j = k} g(j)</math>
+ 
+A sentença acima é equivalente à:
+
+ j+k=m
+
+== Como somar ==
+
+[[Arquivo:Cagando e somando.jpg|thumb|Somar pode ser muito perigoso, um erro e você cai num fossa de lama e merda numa gincana do Silvio Santos.]]
+
+O método mais simples de somar coisas é abrir a palma das mãos e começar a contar os dedos abstratamente em alusão à adição em questão, usando cada dedo para simbolizar uma unidade de cada número a ser somado, todavia a quantidade limitada de dedos pode dificultar esse método, afinal os dedos dos pés são inúteis para esse processo, mesmo aqueles que são mais nerds são capazes de visualizar dezenas ou centenas em cada dedo, todavia este método caiu em desuso por parecer vergonhoso fazer soma em dedinho.
+
+Outro método clássico (e muito usado para adicionar) é o de empilhar os números bem alinhados numa folha de papel e ir somando as unidades, depois as dezenas, depois as centenas e assim por diante, como demonstrado no exemplo abaixo:
+
+ 12.356
+  4.905
+
+Primeiro, somam-se as unidades 6 e 5, cujo resultado é 11. Depois somam-se as dezenas 5+0, que é 5, as centenas 9+3 que é 12 e por fim os milhares 12+4 que é 16. O resultado é apenas o alinhamento de todos esses pequenos resultados obtidos; portanto, '''1612511''' é o resultado da adição de 12356+4905.
+
+O método que se mostrou mais eficaz, todavia, foi a calculadora, onde basta digitar os números que se quer somar e o resultado aparece... Só que, similar ao primeiro método, é considerado vergonhoso pela sociedade, por parecer burrice.
+
+O método mais falível é fazer adição de cabeça, o ser humano não foi feito para isso.
+
+== Problemas com adição ==
+Como tudo na [[matemática]], a adição também traz problemas. O modelo de problema de adição mais clássico envolve sempre cestas com frutas, como no exemplo a seguir.
+
+<poem>
+'''Problema'''
+Você tem uma cesta com 5 maçãs
+Ted tem uma cesta com 3 maçãs
+Se Ted colocar todas maçãs dele em sua cesta, com quantas maçãs você fica agora?
+
+''Resposta''
+A resposta é simples, embora muito capciosa devido a informações adicionais extras (aí a adição) dispensáveis no conteúdo do problema em questão:
+
+Ted é um pedófilo psicopata com tendências homicidas. Ele coloca maçãs na cesta dos outros sem nenhum contexto aparente. Quem se importa quantas maçãs tu tens? Apenas dê o fora de perto dele
+
+'''Problema do problema'''
+
+Como estamos falando de adição, vamos adicionar um problema a mais:
+
+O número de maçãs em tua cesta é igual a 8
+O número de maçãs na cesta de Ted é igual a 0
+Ted foi ao seu pomar onde frequentemente procura criancinhas, e pegou mais 15 maçãs
+Ted foi até você, roubou-lhe 4 maçãs tuas, depois te deu mais 9, então surrupiou mais 3 maçãs tuas.
+Quantas maçãs sobraram em sua cesta?
+
+''Resposta''
+A resposta continua simples, porém capciosa:
+
+Ted tem também fetiches por trocas de maçãs
+
+'''Problema do problema do problema'''
+
+Digamos que Ted leva 15 minutos para chegar ao porão onde te mantém em cárcere privado para abusos sexuais, e ele foi ao pomar colher mais maçãs.
+O pomar fica a 3 minutos do porão
+Ele leva 2 minutos para selecionar suas melhores maçãs, e então mais 3 minutos para voltar para o porão
+Então leva mais 4 minutos para trocar maçãs com você novamente
+Quantos minutos você tem para fugir das garras deste velho tarado?
+
+''Resposta''
+Você tem 0 maçãs e Ted tem 13 maçãs
+</poem>
+
+{{Aritmética}}

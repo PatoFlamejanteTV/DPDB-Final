@@ -1,0 +1,58 @@
+{{você quis dizer|GNU Network Object Model Environment para Unix, Linux, FreeBSD e GNU Hurd}}
+{{você quis dizer|Seu [[pé]]}}
+{{experimente também|KDE para Unix, Linux, FreeBSD e GNU Hurd}}
+{{c|Eu uso, vem com jogos grátis.|[[Ciro Bottini]]|GNOME}}
+{{c|Eu uso também, vem com jogos grátis.|[[AAA]]|GNOME}}
+{{c|Eu uso a versão 3 no Debian Experimental.|[[Chuck Norris]]|GNOME}}
+{{c|Eu usava, mas agora tenho Unity.|[[Noob]] que usa [[Ubuntu]]|GNOME}}
+{{c|Unity é poder, mas uso GNOME.|[[Super Noob]]|comentário acima}}
+
+==O que é o GNOME?==
+
+'''GNOME''' ('''G'''NU '''N'''etwork '''O'''bject '''M'''odel '''E'''nvironment) é a gInteface de gDesktop mais gPoderosa do mundo, permite que você tenha o poder para gControlar a máquina e deixar do gJeito que gQuiser, com Ajuda gOffline inclusa (Yelp), gJogos (GNOME Games), gNavegador da Web (Epiphany), gE-Mail (Evolution), gEmulador de gTerminal X (GNOME Terminal), gEmphathy (mensageiro instantâneo), gGravador de discos (Brasero), gGravador de gSom, gPlayer de gMúsicas (Rhythmbox), gReprodutor de filmes (Totem) e gBitTorrent (Transmission).
+
+Extras poder ser instalados como gFirefox (Navegador da Web, Iceweasel no gDebian), gThunderbird (gE-Mail, gIcedove no gDebian), gBrOffice (Suíte de escritório), gBanshee (Player de mídia), gEditor de Imagens (GIMP), gMensageiro instantâneo como gEmesene, aMSN, e Pidgin, [[Wine]] (plugin pra rodar programas de [[Windows]]), jogos como gFreedoid Clássico ou gRPG, gSuperTux e gSupertuxkart, e gAMule para gCompartilhar arquivos (desde que seja software livre).
+
+gAlém gdisso o Gnome gTem Qualquer Programa com Vários G's no Nome, Komo no [[KDE]] Ke tem um monte de K.
+
+===Que jogos tem?===
+
+Vem com jogos simples como:
+
+* gNibbles
+* gRobôs
+* gCinco ou Mais
+* gKlotski
+* gLuzes Desligadas
+* gMinas
+* gQuatro-em-uma-linha
+* gSudoku
+* gSwell Foop
+* gTetravex
+* gIagno
+* gMahjongg
+* gPaciência AsleRiot
+* gQuadrapassel
+* gTali
+* gXadrez
+
+e um monte de gJogos com GTK+ para você gBaixar com o seu gSistema de pacotes.
+
+==Ver também==
+
+* [[KDE]]: Seu rival Ke parece a interface do Windows 7.
+* [[Unity]]: Seu filho bastardo.
+* [[Cinnamon]]: Seu filho mais novo que foi feito para os noobs e que parece a interface do Windows Vista.
+* [[Chuck Norris]]: Que aprova o GNOME e mandou tirar os botões minimiza e maximiza.
+* [[Arch Linux]]: Que tem a versão mais recente do GNOME.
+* [[Ubuntu]]: Vem com o filho bastardo do GNOME, o Unity.
+* [[Linux Mint]]: Vem com o filho feito pros n00bs, o Cinnamon.
+
+{{oposto|KDE}}
+{{esboço}}
+
+==Links externos==
+
+* [http://gnome3.org/index.html.pt_BR O site oficial do GNOME]
+* [http://www.ubuntu-br.org/ O site oficial do Ubuntu com o Unity]
+* [http://www.archlinux-br.org/ O site oficial do Arch Linux]

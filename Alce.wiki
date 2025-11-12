@@ -1,0 +1,50 @@
+{{Animal}}
+
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Alce
+| imagem          = Alce americano 20130124230632.jpg
+| imagem_legenda  = Alces costumam ter alguns problemas para beber água.  
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| ordem           = [[Artiodactyla|Pé-de-pano]]
+| família         = [[Cervidae|Servos]]
+| gênero          = [[Alces|Enrabadus]]
+| espécie         = '''[[Cariacu|Alces]]'''
+| binomial        = Alces alces alces (200x)
+}}
+
+
+{{c|Papai!|Veado|Alce}}
+{{c|É o macho da alça.|[[Carla Peres]] mostrando seus conhecimentos de biologia|'''Alce'''}}
+
+O '''Alce''' é tipo um [[veado]], só que maior.
+
+==Características==
+
+O alce típico é uma grande besta milenar, tem mais de dois metros de altura, se parece bastante com um cadáver inchado de um veado e tem chifres longos em forma de gancho que servem para pendurar roupas e cascos usados, os chifres são os cabides do alce.
+
+Para ver um alce, basta você ir para o Canadá, para o nordeste da Europa (principalmente nos bosques nórdicos de [[Asgard]]) e norte da Ásia (principalmente na Sibéria Central para onde os opositores do regime soviético eram mandados), o que significa que [[você]] nunca vai conseguir ver um alce devido as suas [[Pobre|condições financeiras]]. Ou seja, não é tão fácil e barato como pra você ver um viado, porque nesse caso você só precisa de um espelho, e se for e de uma loja ou coisa assim, você nem precisa gastar nada.
+
+==Comportamento==
+
+Apesar de que ninguém nunca viu e nem verá um alce aqui no Brasil, nós da Desciclopédia entramos em contato com pesquisadores europeus para nos informarmos sobre este magnífico animal. 
+
+'''Dieta'''
+
+Apesar da aparência assustadora, o alce é um animal herbívoro, mas não vá achando que pode ir chegando perto deles e puxando o rabo desses animais, porque assim você verá a besta do apocalipse se manifestar. Um alce comum pesa mais de 300kg.
+
+'''Socialização'''
+
+Os alces costumam viver sozinhos na época do verão, porém, no inverno eles se juntam para que um possa [[Shun de Andrômeda |esquentar o corpo]] do outro. 
+
+'''Utilidade para o homem'''
+
+O alce é muito útil para o ser humano. Além de satisfazer algumas de suas necessidades enquanto é pequeno e parece um [[viadinho]], cobre as férias das renas do Papai Noel. 
+
+
+
+[[Categoria:Cervidae]]
+[[Categoria:Espécies animais]]

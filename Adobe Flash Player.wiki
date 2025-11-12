@@ -1,0 +1,133 @@
+{{Uncyclopedia}}
+{{computeiro}}
+{{Faliu}}
+{{ops|Adobe Inc.|Flash|Microsoft Flash}}
+[[Arquivo:Adobe bobo.png|thumb|right|A evolução do Adobe Flash Player]]
+{{Vqd|Colapso do sistema}}
+{{C|Flash é um software que agiliza a entrega de pornografia...|Tudo no Adobe Flash é para idiotas}}
+'''Adobe Flash''' é um golpe de [[Aranha|web designers]] por meio do qual cobram de empresas ignorantes uma pequena fortuna para reinventar a [[roda]] no ambiente de autoria do Flash. Os desenvolvedores de Flash passam incontáveis horas de suas vidas construindo versões inferiores de recursos sofisticados de navegador em enormes SWFs. Frequentemente, a única parte da arte do Flash que os usuários se preocupam em visualizar é a barra de progresso do download.
+
+A [[filosofia]] por trás do Flash é que os clientes ficarão impressionados com um [[site]] com uma introdução ou site em Flash sofisticado que leva 5 minutos para carregar e tem centenas de animações que não acrescentam nada ao propósito real do site.
+
+O nome "Flash" na verdade se origina de um plano da Adobe para fazer todos os nomes de produtos indicarem seu nicho:
+*O Dreamweaver tece um elaborado pipedream para desenvolvedores da web que procuram entregar conteúdo [[html]] de alta qualidade;
+*O Fireworks ataca a [[alma]] das pessoas que pensavam que estavam comprando algo com 1/10 da qualidade do [[Photoshop]];
+*Flash é totalmente flash e sem significado;
+
+== História ==
+
+[[Arquivo:To trite (.png|thumb|left|Um típico site feito no Adobe Flash Player]]
+[[Arquivo:Rip forever.jpg|thumb|right|Uma história resumida do Adobe Flash Player]]
+
+Flash foi originalmente criado como um programa de baixo nível para escrever aplicativos rápidos de máquina virtual, para substituir linguagens de codificação mais lentas e mais abstratas como C e Assembly, mas quando foi descoberto que sua própria infraestrutura era completamente deficiente para lidar com essa tarefa, foi abruptamente abandonado , após o que foi avidamente escolhido por web designers gananciosos/falsos que, tendo recentemente saído da faculdade para um mercado saturado por pessoas muito mais competentes do que eles, precisavam fazer um trabalho rápido para si próprios. Assim, começou a [[conspiração]] altamente elaborada da Macromedia para reempacotar todo o conteúdo da web dentro de um mecanismo obsoleto.
+
+Também é bem conhecido que o Flash é o melhor amigo de um alucinador . É muito difícil focar em um conteúdo da web que "simplesmente fica parado", então, movendo o conteúdo para perto da velocidade da luz, torna-se mais fácil para o alucinador perceber . Como o nome Flash indica, o uso de objetos e planos de fundo que induzem a apreensão é obrigatório em todos os produtos baseados em Flash.
+
+Até que em 2017, quando a Adobe '''FINALMENTE''' notou que ninguém usa isso, então a Adobe anunciou o fim dele no finalzinho de 2020, o Adobe Flash Player morreu de vez no dia 31 de dezembro de 2020, terminando o ano de 2020 com chave de bosta.
+
+== Crítica ==
+
+Os filmes em Flash receberam uma ampla gama de críticas dos criadores de filmes de ação esquecidos, que temem que os filmes em Flash possam estar lhes dando publicidade gratuita. Em [[Direitos autorais|2005]], o autor suporte para os [[Smurfs]] tentou processar uma animação em Flash que reintroduziu a morrer moda para uma nova geração. Além disso, o detentor dos direitos autorais dos filmes [[Robocop]] processou um animador Flash.
+
+== Atualização do Adobe Flash Player ==
+
+[[Arquivo:Adobe FlashPlayer.jpg|thumb|left|Um típico erro do Adobe Flash Player]]
+
+Adobe faz mais problemas que não precisa ao atualizar o Flash Player? Por que diabos não posso atualizar me perguntou! Isso ocorre porque todas as datas do sistema do seu computador não estão corretas. Uma data de sistema incorreta pode dar uma mensagem de erro de autenticidade em FlashUtil9b.exe! A Adobe verifica seu sistema com um certificado de merda do verisign.com! Esta atualização de cancelamento de autenticidade não instalou a atualização do Adobe Flash Update com uma razão besteira sobre os Termos de que a "data do sistema" está incorreta em seu computador! Mas, por outro lado, temos criadores de spyware e criadores de malware que fazem a mesma coisa, alterando a data do sistema quando seu computador é infectado por malware! 
+
+<center>'''Atualizando o Adobe Flash Player...'''</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<center>[[Arquivo:Progressbar_long_green.gif]]</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<center>'''Ocorreu um erro ao atualizar o sistema. Certifique-se de que está conectado à internet e tente novamente!'''</center>
+
+== Veja também ==
+
+*[[Internet]]
+*[[Jogos]]
+*[[Click Jogos]]
+*[[Friv]]
+*[[Adobe Inc.]]
+
+{{oposto|HTML5}}
+
+[[Categoria:Adobe]]
+[[Categoria:Internet]]
+
+[[en:Adobe Flash]]
+[[zh-tw:Adobe Flash]]

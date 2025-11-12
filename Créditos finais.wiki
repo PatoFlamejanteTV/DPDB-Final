@@ -1,0 +1,96 @@
+<css> A:background {color: black} A:link { color: white;} A:visited {font-weight:bold; color: white;} A:hover { font-weight: bold; color: white; text-decoration: underline; } * #content { background : black; } 
+h1 { color: white; background-color: black !important; }
+BODY { background: black }
+div.pBody { background: black }
+#bodyContent {
+background-color: #000000;
+color: #FFFFFF;
+}
+</css>
+<font face="Times New Roman">
+{{CorTítulo|1=white|2=<font face="Times New Roman"><center><big>O filme acabou... por que diabos você ainda tá aí lendo?</big></center></font>}}
+<div style="font-family: Times New Roman; font-size: 100%; margin-left: 30%;font-style:bold">
+<poem>
+Os '''créditos finais''' são aquela parte do [[filme|{{cor|white|filme}}]] ou [[programa|{{cor|white|programa}}]] em que tudo acaba 
+e passam todas as informações sobre o filme, programa ou similar. Exemplo aqui:
+
+Escritor: [[eu|{{cor|white|eu}}]]
+<s>Perdedor de tempo</s> Leitor: [[você|{{cor|white|você}}]]
+Quem vai me banir no fim do artigo: [[Sysop|{{cor|white|moderador malvado}}]]
+Quem não apareceu no filme (infelizmente, por falta de grana):
+
+[[Sharon Stone|{{cor|white|Sherom Ixtone}}]]
+[[Jailson Mendes|{{cor|white|Pai de Família}}]]
+[[Luciana Gimenez|{{cor|white|Isso vai dar processo}}]]
+[[Tua mãe|{{cor|white|Uma vadia qualquer}}]]
+[[John Cena|{{cor|white|John Cena}}]]
+[[Gil da Esfirra|{{cor|white|Gil da Esfirra}}]]
+Zé da Esquina
+O cachorro que late toda vez que tento cantar sozinho no quarto (inclusive latiu agora esse puto!)
+
+Letrista: eu
+Pintor responsável por essa bagunça em [[preto-e-branco]]: eu
+Deu pra mim ontem: tua mãe
+Vai dar pra mim hoje: [[tua irmã|{{cor|white|tua irmã]]}}
+Vai dar pra mim amanhã: a [[tia do Batman|{{cor|white|tia do Bátimã]]}}, UHUHUHUHUUUUUUUUU!!!
+Você está rindo disso: espero que sim, mas provavelmente não, talvez
+O código da DP buga muito esse troço: sim
+Risadinhas de fundo: [[Risadas do Chaves|{{cor|white|risadas do Chaves}}]]
+Tá parecendo uma [[Despoesias|{{cor|white|Despoesia}}]], só que com a fonte em [[Times New Roman|{{cor|white|Times}}]] invés de [[Georgia|{{cor|white|Georgia}}]]: tá
+Códigos que permitiram esse artigo existir: [[MediaWiki|{{cor|white|MediaWiki}}]]
+Culpado desse site existir: não sei, não quero saber e tenho raiva de quem sabe
+
+AGRADECIMENTOS
+
+Tua mãe
+Minha mãe
+Meu pai
+Meu cachorro Bobi Negão
+Meu violão que eu nem toco
+Meu teclado que tá todo empoeirado
+Minha punheta que eu toco todo dia
+[[XVídeos|{{cor|white|XVídeos}}]]
+Meu caminhão carregado de tijolo branco
+[[Padre Quevedo|{{cor|white|Padre Quevedo}}]] por isso non ecsistir
+[[Doutor Roberto|{{cor|white|Doctor Robert}}]] pelo ...
+Peido azedo
+Carniça
+Autarquia
+[[Galerito|{{cor|white|Galerito}}]]
+Pedro Pedreiro Pinto Pintor de Paredes e Portas
+O Pinto que só Pia quando a Pia Pinga
+A Pia que só pinga quando o pinto pia
+Soco soco bate bate soco soco vira vira soco bate soco vira soco bate e vira
+[[Pete e Repete|{{cor|white|Pete (in memorian) e Repete}}]] 
+O rato que roeu a roupa do rei de Roma rumo a Romênia
+Os três tigres tristes trilhando nos trilhos do trem tragando um prato de um trigo
+Os amafagadores de mafagafinhos que são bons amafagafinhadores
+O sabiá que sabe assobiar
+O resto dos trava-línguas que eu nunca soube dizer rapidamente
+[[Toco cru pegando fogo|{{cor|white|Inclusive esse}}]]
+
+TOCAMOS UM FODA-SE PARA:
+
+South America Memes
+Kibeloko
+Todas as wikis feitas por chorões banidos do site
+Irmãos Castro
+Irmãos Piologo
+Zorra
+Tá no Ar
+A Praça é Nossa
+Esses mosquitos FDPs que tão zunindo no meu ouvido atrapalhando meu raciocínio e minha criatividade
+E, não posso esquecer, tua mãe <s>a qual eu também toco [[punheta|{{cor|white|outra coisa...}}]]</s>
+</poem>
+[[Arquivo:Créditosfinaismeme.jpg|left|600px]]
+
+[[Arquivo:WikiBandW.png|thumb|left|'''{{cor|black|REALIZAÇÃO:}}'''<br>[[Desciclopédia|{{cor|black|Desciclofilms}}]]{{cor|black|, a produtora livre de}} [[Rotten Tomatoes|{{cor|black|críticas boas}}]].]]
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+{{c|Serião, quem é o imbecil que vê os créditos de um filme?|Qualquer pessoa (eu acho)|créditos finais}}
+{{c|EU!|Nerdão virjão geekão aguardando algum [[cliffhanger|{{cor|white|cliffhanger}}]] pra alguma [[cena pós-créditos|{{cor|white|continuação do filme}}]].}}
+[[Categoria:Páginas que se parecem com o que elas são]]
+[[Categoria:AAAAA]]
+[[Categoria:Cinema]]
+[[Categoria:WTF??]]

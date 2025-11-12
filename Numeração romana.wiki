@@ -1,0 +1,105 @@
+{{romano}}
+ 
+
+A '''numeração romana''' consiste num sistema bastante simplório (e não por isso simples) de representar os números. Romanos eram muito inteligentes para dominar outros povos, mas para contar eram uma negação.
+
+==Algarismos==
+[[Arquivo:Fidel loser.jpg|thumb|300px|[[Fidel Castro]] jogando [[par ou impar]] [[romano]]. Os dois dedos podem significar II (2) quando juntos, ou L (50) quando separados. Ou significar que o adversário é um [[loser]], o que provoca sua derrota automática.]]
+O sistema de algarismos romanos é simples, a primeira vista, afinal não precisou ser inventado nenhum símbolo novo, usou-se o que tinham a mão: [[letra]]s. Assim como criancinhas e presidiários usam palitinhos para contar, os romanos escolheram a letra [[i]] maiúscula ("I"), ou seja, um palito, para representar a unidade.
+
+Com muitos palitos ficava difícil, quer ver?
+
+;Exemplo 1: Quantos palitos você vê aqui? III
+;Exemplo 2: E aqui? [[Cavaleiros que dizem Ni|IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII]]
+
+Por isso algum Fulanus Beltranus qualquer teve a brilhante [[ideia]] de usar outras letras. Assim:
+
+{| border=1 cellspacing=1 cellpadding=5
+|----- bgcolor="#e1ecf7"
+! Decimal
+! Romana
+|----- align="right" bgcolor="#f0f5fa"
+| 0 || N/A
+|----- align="right" bgcolor="#f0f5fa"
+| 1 || I
+|----- align="right" bgcolor="#f0f5fa"
+| 5 || V
+|----- align="right" bgcolor="#f0f5fa"
+| 10 || X
+|----- align="right" bgcolor="#f0f5fa"
+| 50 || L
+|----- align="right" bgcolor="#f0f5fa"
+| 100 || C
+|----- align="right" bgcolor="#f0f5fa"
+| 500 || D
+|----- align="right" bgcolor="#f0f5fa"
+| 1.000|| M
+|}
+
+Esta forma de representar os números dificultou um pouco a prática do [[par ou impar]], esporte muito popular entre os mais humildes, uma vez que com dois dedos era possível representar o número 2 (II), que é par, ou o número 5 (V) que é impar. Os mais espertos jogadores costumavam rapidamente modificar o seu número para alterar os resultados, o que levou au declínio do esporte entre os romanos e, segundo alguns historiadores, também da queda de todo o Império.
+
+Exceto por isso, estava tudo resolvido, era só somar os símbolos:
+
+{| border=1 cellspacing=1 cellpadding=5
+|----- bgcolor="#e1ecf7"
+! Decimal
+! Romana
+|----- align="right" bgcolor="#f0f5fa"
+| 1 || I
+|----- align="right" bgcolor="#f0f5fa"
+| 2 || II
+|----- align="right" bgcolor="#f0f5fa"
+| 3 || III
+|----- align="right" bgcolor="#f0f5fa"
+| 4 || IIII
+|----- align="right" bgcolor="#f0f5fa"
+| 5 || V
+|----- align="right" bgcolor="#f0f5fa"
+| 6 || VI (5+1)
+|----- align="right" bgcolor="#f0f5fa"
+|colspan="2"|etc...
+|}
+
+Fulanus Ciclanus, no entanto, acreditava que poderia simplificar ainda mais, e instituiu uma regra: Símbolos à direita são somados, e à esquerda são subtraídos, assim:
+
+{| border=1 cellspacing=1 cellpadding=5
+|----- bgcolor="#e1ecf7"
+! Romana
+! Decimal
+! Notas
+|----- align="right" bgcolor="#f0f5fa"
+| I   || 1 ||
+|----- align="right" bgcolor="#f0f5fa"
+| II  || 0 ou 2 || I à esquerda de I, ou I à direita de I
+|----- align="right" bgcolor="#f0f5fa"
+| III || 1 ou 3 || I à esquerda de II, ou II à direita de I
+|----- align="right" bgcolor="#f0f5fa"
+| IV || -4, 4 ou 6 || V à esquerda de I, ou I à esquerda de V, ou V à direita de I
+|----- align="right" bgcolor="#f0f5fa"
+| V  || 5 ||
+|----- align="right" bgcolor="#f0f5fa"
+| ... || ... ||
+|----- align="right" bgcolor="#f0f5fa"
+| [[xixi|XIXI]] || 22  ||  11 + 11
+|----- align="right" bgcolor="#f0f5fa"
+| [[Didi|DIDI]] || 1002 || 501 + 501
+|----- align="right" bgcolor="#f0f5fa"
+| [[mimimi|MIMIMI]]... || 3003 || 1001 + 1001 + 1001
+|}
+
+==Numeração romana e a queda do Império==
+
+Como era de costume na Antiga Roma, em certos períodos de tempo se fazia o censo da população do Império e seus anexos. Exatamente na época do nasicmento de [[Jesus]] realizou-se um censo. De fato, sigla d.C. significava "depois do Censo", grafado com C maiúsculo dada a importância desse censo. Segundo consta, a queda do Império Romano deveu-se e esse censo.
+
+O relatório do [[IBGE]] com o censo nunca pode ser somado, devido a dificuldade de fazê-lo com os algarismos romanos, até que em 476 d.C., enquanto ainda tentavam os matemáticos imperiais definir quantos eram os romanos e seus conquistados, [[Rômulo Augusto]] foi surpreendidos por uma legião de bárbaros, sendo deposto.
+
+==Ver também==
+*[[Número]]
+*[[Algarismo]]
+*[[Algarismos arábicos]]
+
+{{roma antiga}}
+
+[[Categoria:Matemática]]
+
+[[eo:Romiaj ciferoj]]

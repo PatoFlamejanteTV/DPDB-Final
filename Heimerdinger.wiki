@@ -1,0 +1,75 @@
+{{inteligente}}
+{{InfoHoraAventura
+|cor          = Vermelho
+|cor do nome  = 
+|nome         = Heimerdinger
+|imagem       = [[Arquivo:Gizmo-gremlins-picture.jpg|200px|center]]
+|legenda      = Heimerdinger se preparando para ir dormir
+|idade        = 307 anos
+|sexo         = Demissexual
+|especie      = <s>[[Gremlin]]</s> <s>[[Ewok]]</s> Yordle
+|abilidade    = Fazer torre
+|hobbie       = Ser incoveniente
+|comida fav   = [[Parafuso]]
+|frase fav    = ''Para trás primata! Para trás!''
+}}
+[[Arquivo:HeimerdingerSquare2.png|100px|left]]
+[[Arquivo:Ewoks.jpg|thumb|Heimerdinger em [[Zaun]].]]
+{{c|Professor Heimerdinger! Guarde seu pênis, Professor Heimerdinger!|Secretária de Heimerdinger}}
+
+'''Heimerdinger''' é um personagem jogável do MOBA para mentalmente instáveis, [[League of Legends]]. 
+
+Heimerdinger é um campeão exemplo da fofura que se encontra o atual jogo league of legends, cheio de [[bicho de pelúcia|bichinho de pelúcia]] e [[e-girl]]s.
+
+== História ==
+Professor Heimerdinger, que tem seu nome do inglês "''Hammer''" [[martelo]] e do judeu "''Dinger''" que significa [[cabeça]], ou seja, em sentido literal Heimerdinger se chama cabeça de martelo, esse apelido surgiu porque ficava dando cabeçada na parede quando suas invenções não davam certo.  
+
+Nascido em [[bandópolis]] iniciou sua vida acadêmica e devido a sua [[síndrome de Asperger]] virou um mega gênio da ciência, enquanto amadurecia, Heimer olhava ao seu redor em bandópolis, via que seus conterrâneos ainda eram muito primitivos, bruxa com [[Yuumi|gato falante]], [[Lulu|bruxa roxa que fala com planta]] e [[teemo|comedores de cogumelo]], foi embora de lá para a cidade do progresso <s>[[São Paulo]]</s> [[Piltover]].
+
+Não contente em ir sozinho para Piltover, Heimerdinger juntou mais alguns desajustados, igual o [[Ziggs]], olhou para aqueles yordles e pensou, bom eu tenho [[asperger]], ziggs é hiperativo, pronto essa vai ser a Academia <s>para especiais do [[Charles Xavier]]</s> Yordle.
+
+O único problema é que Heimer muito inteligente e todo certinho sempre se dava bem, já [[ziggs]] sempre explodindo tudo e todo [[esquizofrênico]], só se fudia.
+
+Logo, os dois se separaram, Heimer ficou em [[Piltover]] como um renomado cientista, já ziggs, um [[terrorista]] produtor de [[bomba]]s lá em [[Zaun]]. 
+
+=== [[Arcane]] ===
+Em Arcane, Heimerdinger é só um velho chato que não aceita o avanço da tecnologia, igual teu tio que fica falando "''no meu tempo que era bom''", não tinha essas coisa de [[celular]], de [[funk]]. Até que o Jayce chuta ele do conselho.
+
+Heimer fica sem o que fazer e desce até [[Zaun]] virando um [[mendingo]], depois dessa fase ele se junta ao [[Ekko]].
+
+A verdade mesmo é que Heimer está em [[Arcane]] apenas para vender boneco. [[Rito Gomes]] não é idiota, sabe que precisa vender boneco [[fofo]] para aqueles [[nerd]] barbado ter em casa.
+
+== Habilidades ==
+Para se jogar de Heimerdinger é necessário um [[mais de 8 mil|alto QI]], cada habilidade do boneco é necessário um [[fração|cálculo da porra]] por parte de seu jogador, jogar de Heimer não é apenas colocar torre em campo, não mesmo! Vamos as habilidades:
+
+<center>
+'''Q - TORRE EVOLUTIVA H-28G'''
+
+<math>a_{0} + \frac{1}{ a_{1}+ \frac{1}{ a_{2} \dots \frac{1}{a_{k-1} + \frac{1}{a_{k}}} } }</math>
+
+
+'''W - MICRO-MISSEIS HEXTEC'''
+
+<math>V3* \operatorname{cos}\,x + \operatorname{sen}\,x = k - 3</math>
+
+
+'''E - GRANADA DE TEMPESTADE DE ELÉTRONS CH-2'''
+
+[[Arquivo:fdttgy.png|center|200px]]
+
+'''R - ULTIMATE'''
+
+[[Arquivo:Raizde2.jpg|170px|center]]
+
+</center>
+
+== Ver também ==
+*[[Piltover]]
+*[[Bandópolis]]
+*[[Ziggs]]
+*[[Ekko]]
+
+{{League of Legends}}
+
+[[Categoria:Magos]]
+[[Categoria:Personagens de League of Legends]]

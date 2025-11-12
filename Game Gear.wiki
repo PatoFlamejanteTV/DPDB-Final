@@ -1,0 +1,72 @@
+[[Arquivo:Pilhas.jpg|thumb|Prepare o seu arsenal de [[pilha]]s, o Game Gear está chegando!]]
+
+{{C|O nosso portátil é melhor que aquela porcaria monocromática da [[Nintendo]].|Seguistas|[[Game Boy]]}}
+
+{{C|Já acabou a pilha?|jogador após 5 minutos jogando}}
+
+{{C|Welcome to the Next Level!|Sega|Game Gear}}
+
+{{C|Até o Atari Lynx é mais caro do que essa porcaria.|[[Otário]]|Game Gear}}
+
+{{C|O Game Gear foi o primeiro portátil da Sega.|[[Capitão Óbvio]]|Game Gear}}
+
+{{C|Meu irmão de nome real: Venus!|[[Sega Saturn]]|Game Gear}}
+
+{{C|AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!|[[AAAAA]]|Game Gear}}
+
+{{C|Boas conversões do Game Gear estão no Master System.|[[Tec Toy]]|Game Gear}}
+
+{{C|Porque o 2 é Start em [[Sonic Blast]] do Master System e o Pause não faz merda nenhuma?|[[Pivetinho de Fliperama]]|Game Gear}}
+
+[[Arquivo:Gamegear.gif|left]]
+[[Arquivo:GGBIOS2SMS.jpg|thumb|[[BIOS]] do Game Gear rodando no modo de Master System. Esse seria um bom método para rodar jogos de Sega Mark III no Master System normal.]]
+
+O '''Game Gear''' é a mais pura inveja ([[Ou não]]). Como a [[Nintendo]] estava fazendo sucesso com o seu mais famoso vídeo-game portátil (que de portátil não tem nada), [[Game Boy]], a [[Sega]] lançou no mercado um tijolo maior ainda, que consumia ainda mais pilha e com uma tela menor que a do próprio [[Game Boy]], só que colorida: o [[BBB|não-tão-famoso-assim]] '''Game Gear'''.
+
+== Acessórios ==
+
+[[Arquivo:Articlemastergeargg.jpg|thumb|left||Note a riqueza de detalhes proporcionada pelo videogame.]]
+
+[[Arquivo:GG-sg1000.jpg|thumb||Jogo de SG-1000 rodando no Game Gear. Note que estão usando um cartucho de Master System.]]
+
+* Um tijolo preto, feio e pesado;
+* O Game Gear consome 6 pilhas AA em menos de 4 horas, exigindo um [[reator nuclear]] para rodar mais tempo;
+* Um Conversor de jogos de [[Master System]] para o Game Gear que fazia o seu peso aumentar em até 5 quilos (embora, em termos de potência, o GG já fosse basicamente um Master portátil);
+* Um Conversor de jogos de [[Sega SG-1000]] para o próprio, fazendo a até a BIOS rodar na mesma droga de cor do SG-1000. Esse conversor é apenas de cartuchos. Para jogar com os cartões (batizados de [[Sega My Card]]) use o [[Card Catcher]], que vai deixar o Game Gear com um pouco a mais de 5 quilos;
+* [[Game Genie]] - seguindo o mesmo formato dos códigos do Game Boy, deixando com mais peso (isso já tá ficando sem graça);
+* Adaptador de TV - um tijolo de 20kg que vinha com uma antena com [[Bombril]] na ponta aumentando o consumo de pilhas, só dava para assistir meio capítulo de [[Tieta]].
+* Os míseros 3 botões:
+**Direcional
+**Botão 1 e iniciar ao mesmo tempo (só a [[Sega]] pra pensar numa ideia brilhante dessa!)
+**Botão 2.
+
+== Edições Especiais ==
+
+[[Arquivo:GG_Bluetooth.png|thumb|left|Game Gear Edição Bluetooth. Transferência de Saves, Chat, Jogos Online, Internet e TV, é um outro avanço do portátil.]]
+[[Arquivo:GG_Advance.png|thumb||Game Gear Advance. Meio gayzinho, mas, é o sucessor do próprio Game Gear!]]
+
+* Game Gear Coca-Cola (apenas pros Japas);
+* Game Gear Sport;
+* Kid's Gear (também lançado somente pros Japas);
+* Game Gear Bluetooth;
+* Game Gear Advance (feito pela equipe do projeto [[Segagaga|SGGG]] e aprovado pelo [[Ciro Bottini]]).
+
+== Dimensões ==
+[[Imagem:Game gear game boys.jpg|thumb|Curiosos observando um cadáver...]]
+* 70&nbsp;cm de altura;
+* 80&nbsp;cm de comprimento;
+* 25&nbsp;cm de largura;
+* e uma tela do tamanho de uma tela do [[Game Boy Micro]].
+
+== Ver também ==
+* [[Game Gear Micro]]
+* [[Sega Nomad]]
+* [[Atari Lynx]]
+* [[Game Boy]]
+* [[Game Boy Color]]
+
+{{consoles}}
+{{sega}}
+{{Segagaga}}
+
+[[ja:ゲームギア]]

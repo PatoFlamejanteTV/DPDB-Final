@@ -1,0 +1,43 @@
+{{taxocaixa
+| nome           = Charadriidae
+| cor            = #FFEBCD
+| imagem         = Charadriidae.jpg
+| imagem_legenda = Borrelhos mijam como os cães
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| classe         = [[Aves|Voadores]]
+| ordem          = [[Charadriiformes|Formas em Charadas]]
+| família        = [[Charadriidae|Charadinhas]]
+}}
+
+'''Charadriidae''' é o nome de uma família de aves fofinhas que comem insetos, minhocas, pequenos moluscos e demais porcarias que veem pela frente. Fazem parte dessa família aves que parecem gaivotas em miniaturas, chamadas de borrelhos, abibes, batuíras e quero-queros, são todas aves no geral indefesas e fracas que apelam para o sentimentalismo para conseguirem sobreviver, frequentemente fazendo-se de fofas para despertar alguma piedade em possíveis predadores e até mesmo em suas presas que nunca acreditam que um passarinho fofo daqueles poderia vir os comer, afinal nunca foi visto minhoca alguma fugindo de borrelhos assassinos.
+
+== Anatomia ==
+
+As aves Charadriidae são predominantemente passarinhos de pequeno porte com corpos compactos parecendo animais artificiais, de pescoços curtos e interior corporal oco por falta de espaço, de maneira que a ausência de qualquer sistema digestivo os façam cagar e mijar pelo mesmo buraco já que não há diferença alguma. O único órgão existente são dois alvéolos pulmonares para desenvolver o sistema nervoso do animal que serve apenas para fazê-lo comer qualquer porcaria que se rasteje no chão.
+
+Seus dedos também são curtos porque não os usam mesmo já que não andam, apenas saltitam. As asas são normalmente pontudas, porque apesar do tamanho eles precisam se defender, e assim o fazem rasgando a garganta de seus inimigos com suas asas pontiagudas.
+
+== Hábitos ==
+
+Estas aves preferem os ambientes aquáticos onde podem se disfarçar de [[pato]]s e comer suas porcarias, mas também não negam pousam em latas de lixo para vasculhar o que há por ali.
+
+São monogâmicos e muito territoriais, tendo eles estridentes surtos de alardes quando invasores se aproximam de seus ninhos que protegem cagando na cabeça de quem chegar perto.
+
+Apesar de paternais, gostam de ter filhotes independentes, de maneira que os filhotes não são alimentados e nem sustentados a partir que nascem, por isso jamais verá algum Charadriidae playboy ou patricinha.
+
+== Gêneros ==
+
+* '''[[Erythrogonys]]''' - borrelho-de-joelho-vermelho
+* '''[[Vanellus]]''' - abibes e quero-queros
+* '''[[Pluvialis]]''' - tarambolas e batuiruçus
+* '''[[Charadrius]]''' - borrelhos e batuíras
+* '''[[Thinornis]]''' - borrelhos-encapuzados e borrelhos-do-litoral
+* '''[[Elseyornis]]''' - borrelho-do-torso-negro
+* '''[[Peltohyas]]''' - borrelho-do-interior
+* '''[[Anarhynchus]]''' - bico-torto
+* '''[[Phegornis]]''' - borrelho-coroado
+* '''[[Oreopholus]]''' - borrelho-de-garganta-amarelo-acastanhado
+
+[[Categoria:Charadriiformes]]
+[[Categoria:Charadriidae|*]]

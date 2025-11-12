@@ -1,0 +1,93 @@
+{{você quis dizer|[[Páscoa]]|Pascal}}
+{{C|Begin Begin... PASCAL |Xuxa ao terminar seu programa}}
+{{C|VAR não reconhecido. Faltou ponto e virgula nessa linha? |Pascal zim! sobre seu algoritmo.}}
+<code>begin</code><br />
+
+Blaise '''Pascal''', nascido em 13 de setembro de 1526, foi um discípulo de [[Galileu Galilei|Galileu Galalau]] - tricampeão da prova de 100 metros rasos em piscina funda. Pascal descobriu a [[Astrologia]] enquanto observava uma maçã cair do alto de um bonsai de macieira-anã, o que foi tão importante para o [[catolicismo]] que uma data foi atribuída à sua descoberta, a Páscoa. A Astrologia de Pascal foi totalmente baseada em dados empíricos e formulada teoricamente seguindo a segunda equação da 1º Lei da [[Teoria da Relatividade|Relatividade]]:
+
+<math>
+E = \frac{ mc^{2} }{ 0 }
+</math>
+
+A partir desta equação Pascal foi capaz de fazer um mapa astral, que sobreviveu por vários séculos até a descoberta do GPS astral, inventado por Sir [[Isaac Newton]].
+<br /><code>end;</code><br />
+
+[[Arquivo:hombre web.gif|right|thumb|400px|O Mapa Astral de Pascal, o original]]
+
+==Vida & obra==
+<code>BEGIN</code><br />
+<code>begin</code><br />
+Pascal nasceu em sua cidade natal, de sua mãe, que estava grávida havia 9 meses. Nasceu do tamanho de um bebê recém-nascido e com cara de joelho. Durante sua infância, Pascal foi uma criança que logo se tornou pré-adolescente e aos 13 anos gostava de ser chamado de adolescente.
+<br /><code>end;</code><br />
+
+<code>begin</code><br />
+Foi quando conheceu [[Galileu Galilei|Galileu Galalau]], um pastor católico da mesquita central de sua cidade, que começou a lhe ensinar a nobre arte da ciência. Pascal aprendeu tudo e quando seu mestre, já com 97 anos, morreu de paralisia infantil, foi acusado de matá-lo com um sabre de luz, assim como [[Darth Vader]] matou [[Obi-Wan Kenobi]].
+<br /><code>end;</code><br />
+
+[[Arquivo:beethoven.jpg|left|thumb|400px|Pascal formulando a Teoria de Tudo]]
+
+<code>begin</code><br />
+Ainda criança, Pascal inventou o [[LSD]] (ácido lisérgico) e escreveu um romance enquanto estava sob efeito da substância. Mais tarde o romance foi adaptado para as telonas, fazendo enorme sucesso. O filme faturou 300 milhões de dólares somente numa exibição na pré-estreia, que era de graça.
+<br /><code>end;</code><br />
+
+<code>begin</code><br />
+Quando fez 18 anos, virou [[de maior]], tirou carteira de motorista classe B e começou a trabalhar como caminhoneiro. Depois de acumular dinheiro suficiente, comprou um submarino nuclear e começou a trabalhar nele. Sua carreira profissional foi por água abaixo. Para sobreviver, ele levava várias girafas marrons, que serviam como para-quedas. Muito observador, Pascal percebeu que havia uma [[mecânica quântica]] por trás das coisas, que explicava o sentido da vida e respondia à questão fundamental da vida, do universo e tudo mais.
+<br /><code>end;</code><br />
+
+<code>begin</code><br />
+Pascal também se destacou na arte da culinária, criando a Colomba Pascal, usualmente consumida na Páscoa (caro leitor, note que nem tudo é mera coincidência).
+<br /><code>end;</code><br />
+
+<code>begin</code><br />
+Pascal resolveu a equação hexadimensional de comportamento atômico relativístico quântico e descobriu o elixir da longa vida, o segredo de sua longevidade.
+<br /><code>end;</code><br />
+
+<code>begin</code><br />
+Com a [[mecânica quântica]], Pascal desenvolveu um de seus ramos e assim surgiu a [[Teoria da Relatividade]]. E suas leis, das quais várias outras surgiram como corolário, possibilitaram a descoberta de várias ciências exatas, incluindo a já citada [[Astrologia]].
+<br /><code>end;</code><br />
+
+<code>if 1 and 0 then begin</code><br />
+Poliglota, Pascal atuou em áreas como engenharia e artes, mas foi na pedagogia que obteve maior destaque, em meados de mil e la vai cocada, ao ensinar sua meia irmã, filha de sua mãe com seu padastro, a Pascalina, a contar de 1 até 10 ele observou um comportamento comum aos números, ''todo número era composto de 1 ou 0'', possibilitando a representação de figuras geométricas, em sua homenagem até hoje é conhecido como triângulo de Pascal.
+<br /><code>end;</code><br />
+
+<code>begin</code><br />
+Com o objetivo de <s>homenagear a si mesmo</s> permitir que pessoas <s>de qi inferior</s> comuns aprendessem a programar, Pascal inventou o Pascal, que com o tempo <s>evoluiria</s> seria chamado de [[Delphi]], e permitiria que jovens de 5 a 17 anos aprendessem a programar...
+<br /><code>end;</code><br />
+
+<code>begin</code><br />
+Pascal morreu há pouco tempo, vítima de overdose em [[LSD]], em seu iglu na ilha de Tuvalu, no dia 7 de Outuburo de 1920, com 394 anos.
+<br /><code>end;</code><br />...
+
+<code>begin</code><br />
+Veja um exemplo de código escrito por um [[Emo|programador de Pascal]]:
+
+<br /><code>begin</code><br />
+Ehhhhhhhh Amigooooooo, Pascal eh muito melhor que C, nao tem nada de chaves{}, nem scanf (ssss))))))... e depois que inventaram o PASCAL ZIM entãooooooooo eh só alegria.....
+
+begin
+
+printf ("VIVA O PASCA")
+ops que dize....]
+writeln ("VIVA O PASCAL");
+
+
+end PANDA.
+
+<br /><code>end;</code><br />
+
+<br /><code>end;</code><br />
+
+
+
+[[Categoria:Físicos]]
+[[Categoria:Físicos da França]]
+
+<code>END.</code><br />
+{{Linguagens de Programação}}
+
+[[en:Blaise Pascal]]
+[[fi:Blaise Pascal]]
+[[fr:Blaise Pascal]]
+[[pl:Pascal]]
+[[ru:Borland Пасквиль]]
+[[zh-tw:Pascal]]

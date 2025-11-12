@@ -1,0 +1,49 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = lightblue
+|brasao            = Escudo do Atlético San Luis.png
+|hino              = Inexistente
+|nome_oficial      = 
+|origem            = {{MEX}} - [[San Luís]]
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        =
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Mexicano]]
+|divisao           = Liga MX
+|títulos           = 
+|ranking           = 
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Atlético San Luis''' o clube que surge no fim do México e tem uma história que é baseada no enredo de uma novela mexicana. Intrigas, emoções, altos, baixos e aquele tempero especial de esperança que só o futebol consegue trazer. 
+== História ==
+=== Fundação ===
+A história começa no estado de San Luis Potosí, mais especificamente em 1957, quando o clube foi fundado. Claro, naquela época, ele não era o Atlético San Luis que conhecemos hoje, mas sim o San Luis FC. Como todo bom time nascido em uma cidade apaixonada por futebol, o time entrou em campo cheio de sonhos e expectativas... E, bem, passou bastante tempo sendo figurante no cenário futebolístico mexicano.
+
+Eles não tinham os recursos ou a fama dos gigantes como o América ou o Cruz Azul, mas tinham algo que nenhum outro clube tinha: uma torcida fiel que sempre acreditava que o próximo ano seria "o ano", aquele em que o San Luis finalmente deixaria de ser o "time esforçado" para se tornar um grande protagonista. E vamos admitir, todo ano, esse "ano" parecia que estava só adiando.
+
+=== Atlético de Madrid (Versão mexicana) ===
+A história teve um plot twist digno de novela em 2013, quando o San Luis FC foi transferido para o estado de Chiapas, virando o Chiapas FC (o que deve ter deixado os torcedores de San Luis Potosí meio chateados, para dizer o mínimo). Parecia o fim, mas, como em toda boa novela mexicana, um novo protagonista estava prestes a surgir das cinzas!
+
+Em 2013, um novo clube foi fundado na cidade, e, com o apoio do poderoso Atlético de Madrid, nasceu o Atlético San Luis. Sim, agora com um nome internacional e um escudo que tinha aquele toque europeu. Quem diria? O time da cidade agora tinha um "irmão" na La Liga! Isso deu um novo gás à torcida, que estava pronta para conquistar o México, e, quem sabe, o mundo (ou pelo menos um lugar estável na primeira divisão).
+
+=== Voltando pra Liga MX ===
+Depois de várias temporadas tentando se firmar na Liga Expansión MX (a segunda divisão mexicana), em 2019, o Atlético San Luis finalmente conseguiu seu sonhado retorno à Liga MX. Foi aquele momento épico, com confete, lágrimas e memes de "eu sempre acreditei!" (mesmo que alguns tivessem jogado a toalha alguns anos antes). Com a torcida pronta para apoiar e o escudo reluzente, parecia que o time finalmente estava pronto para escrever seu nome na história.
+
+Mas, como todo bom enredo de novela, o caminho para o sucesso não seria fácil. A equipe passou a lutar bravamente para se manter na primeira divisão, alternando entre temporadas cheias de esperança e outras cheias de... hum, desafios. Afinal, ninguém disse que ser grande seria fácil, não é?
+
+{{Campeonato Mexicano}}
+
+[[Categoria:Times de futebol do México]]

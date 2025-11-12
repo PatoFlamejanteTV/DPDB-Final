@@ -1,0 +1,67 @@
+{{quente}}
+{{pokedex}}
+
+{{PokéBox
+| imagem = Cinderace{{#switch: {{#expr: {{#time: H}} mod 2}}|0=.jpg|1=G.png}}
+| frase = {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Cinderace tentando chutar o [[pênis|saco]] do seu treinador.|1={{C|[[Inazuma Eleven|FIRE TORNADO]]!|Cinderace}}}}
+| nihongo = エースバーン
+| romaji = Aceburn
+| pokedex = 815
+| tipo1 = Fire
+| tipo2 = 
+| habilidade1 = O mesmo dos outros iniciais de fogo
+| habilidade2 = Chutar o saco
+| habilidade3 = Pensar que é o [[Greninja]]
+| espécie = [[Maria Chuteira]] sem camisa
+| cadeia evolutiva = [[Arquivo:813MS.png|link=Scorbunny|Scorbunny]] {{seta}} [[Arquivo:814MS.png|link=Raboot|Raboot]] {{seta}} [[Arquivo:815MS.png|Cinderace]]}}
+
+
+[[Arquivo:815MS.png]] '''Cinderace''' é um pokémon da oitava geração, onde é a evolução final do inicial de fogo de Galar, o [[Scorbunny]] e apenas vira esse pokémon, se o treinador tiver saco de evoluir ele até o nível 35, mas por causa do exp share quebrado do jogo, provavelmente já vira um Cinderace em mais ou menos uma hora de jogo.
+
+Suas habilidades são as mesmas que os iniciais de fogo têm, Blaze, a mesma porcaria de segunda habilidade, e como habilidade especial, como a [[Game Freak]] decidiu que dar uma habilidade quebrada para [[Greninja|um inicial de água]] foi um grande erro e que queriam aumentar o monopólio dos iniciais de fogo, mesmo metade sendo para agradar os [[furries]], resolveram colocar mesmo assim neste coelho sem motivo, razão, causa ou circustância, e quanto menos sentido.
+
+Pela falta de coerência em [[Pokémon Sword]] e [[Pokémon Shield]], Cinderace seguiu as dicas dos pokéfilos e também é um pokémon famoso por pensar realmente com a [[bunda]], por exemplo dando chutes quando o ataque pedido pelo seu treinador seja Headbutt ou outro ataque que precise usar a cabeça, onde alguns fãs irão dar a [[desculpa esfarrapada]] que esse pokémon seja a encarnação do [[Képler Laveran Lima Ferreira|Pepe]] ou do [[Felipe Melo]].
+==Design==
+[[Arquivo:Cinderace e Lopunny.jpg|160px|thumb|left|Discutindo as relações <s>sexuais</s> com [[Lopunny]].]]
+{{C|Ainda sou mais popular mesmo fora do jogo inicial.|Lopunny|Cinderace}}
+Cinderace é um pokémon que é baseado em um coelho e que tacaram a primeira coisa que fosse inglesa o suficiente, já que os novos iniciais possuem um tema específico, e pensaram em [[futebol]], apesar da [[Inglaterra]] não ser grande coisa no futebol hoje em dia e fizeram um coelho qualquer, mas como eles não queriam três iniciais parecendo que estariam vestindo roupas como foi em [[Alola]], colocaram alguns designs aleatórios quaisquer neste pokémon em tons de vermelho e azul-forte em seu corpo e cabeça, o que acabou não dando muito certo, fazendo com que ele se parecesse com um jogador de futebol só que sem camisa, apenas lembrando o típico clássico mais raiz do futebol, o "Sem Camisa x Com Camisa".
+
+Na parte de baixo <s>ui!</s>, Cinderace possui uns detalhes de cor vermelha que parecem com as possíveis "calças" que o [[Lucario]] normal usa e mais embaixo, mais detalhes de cor azul-forte, contendo suas patas que são responsáveis pelos seus ataques de fogo, dando mais teorias inúteis de que Cinderace estaria enfraquecido se pisasse em uma poça d'agua.
+
+Além deste golpe especial, Cinderace também recebeu o tratamento de obter 2 golpes únicos assim como [[Incineroar]] e possui outro golpe especial que [[ninguém se importa]], o Court Change, que é <s>uma vez dada pro adversário</s> um golpe que apenas troca as vantagens e destanvagens de status do adversário, e só isso, já que todo mundo apenas usa o Pyro Ball para acabar com os outros pokémons.
+
+Em sua forma Gigantamax é nada mais que um Cinderace com orelhas ao estilo da [[Lopunny]] que não muda nada a não ser suas orelhas e que possui sua própria bola de fogo de estimação, e sua habilidade em sua forma Gigantamax é o G-Max Fireball, onde Cinderace faz uma bicicleta para se gabar de suas habilidades futebolísticas e enfim lança sua bola de fogo, [[MC Bola de Fogo|atolando]] seus adversários.
+
+==Pokedex==
+[[Arquivo:Ataque Dynamax.jpg|200px|thumb|Cinderace usando seu ataque especial, o [[Peido]] de Fogo.]]
+Cinderace, assim como sua pré-evolução Scorbunny, possui algumas habilidades de [[correr pra caralho]] mas nem tanto quanto os mais rápidos, porém possui excelentes habilidades físicas e considerado <s>por ele mesmo</s> um dos melhores chutes, rivalizando com [[Blaziken|a galinha chutadora]].
+
+Cinderace irá pegar uma pedra pequena no chão e começará a fazer embaixadinhas com ela até que a mesma pedra pequena comece a pegar fogo <s>[[Faustão|bicho]]</s> e vire um fogo enorme do nada, onde o mesmo pokémon irá chutar perfeitamente na cabeça do seu inimigo, um golpe chamado de Pyro Ball, um ataque totalmente apelão de fogo, porém que é usado apenas cinco vezes por batalha.
+==Popularidade==
+[[Arquivo:Cinderace por trás.png|120px|thumb|left|Cinderace preparada para receber uma [[sexo anal|entrada por trás]].]]
+{{C|Me substituiram por isso?|Greninja|Cinderace}}
+
+Como é o inicial de fogo da oitava geração, será escolhida por qualquer [[criança]] de 6 a 15 anos que jogará esse jogo e logo cairá nas graças do público, além dos youtubers que não tem escolha melhor para fazer.
+
+Como coelhos são extremamente populares com os [[furries]] (exceto se eles forem [[Diggersby|gordos e inúteis ao mesmo tempo]]), Cinderace pode ter tudo para ter grande potencial em sites como [[Rule34]], [[Pokefilia|AGN.PH]] e [[e621]].
+
+Apesar de possivelmente ser um objetivo fácil para alavancar a popularidade <s>afro-descendente</s> negra deste pokémon, Cinderace possui muita concorrência nesta geração e terá que disputar com [[Hatterene|a Gardevoir da região]], com [[Inteleon]] por ser revelado bem antes nas leaks e com sua pré-evolução, pelo fato dos [[furries]] ainda se viciarem em fazer artes de [[Scorbunny]], já que se passou mais de oito meses sem uma mísera revelação dos iniciais revelados por parte da [[Game Freak]], o que tornaria difícil de acompanhar sua rival nesse quesito, a [[Lopunny]].
+
+Além de ser um inicial que potencialmente irá ser quebrado no futuro do jogo, também irá fazer sucesso na mão dos fãs de competitivos de [[Pokémon World Championships#VGC|2x2]] e [[Smogon#Pokémon Showdown|1x1]], podendo fazer sucesso nos dois ou apenas em um deles, além do fato de ser um inicial extremamante forte no próprio modo singleplayer do jogo, responsável ao menos por ganhar de 90% de todos os treinadores presentes usando apenas 1 a 5 Pyro Balls, pelo fato deles possuirem menos que seis pokémons em seu time. Por causa disso, foi votado como o inicial mais popular da região de Galar.
+
+[[Arquivo:ScorbunnyRabootCinderace.jpg|miniaturadaimagem|Cinderace e suas pré-evoluções, pra alegria dos furries]]
+
+Sua popularidade aumentou mais ainda quando foi o único inicial de Galar a ser chamado para a panelinha do [[League of Legends]] de Pokémon, chamado de [[Pokémon Unite]] e é um dos pokémons considerados principais dessa joça, e fazendo cosplay de sua aparição no Sword e Shield, também se trata de um pokémon quebrado e que recebe várias skins, perdendo apenas para [[Lucario]], [[Charizard]] e [[Pikachu]], os verdadeiros donos desta franquia.
+
+==No anime ou mangá==
+No anime, ele aparece nas mãos do [[inútil]] do Goh, já que ele capturou o [[Scorbunny]] e conseguiu evoluir até um [[Raboot]] e ao contrário da Mula de Pallet, que demora quase 100 episódios para conseguir evoluir seu inicial para sua segunda forma, evoluiu ele durante a batalha com [[Eternatus]]. Por achar que teria o mesmo poder de luta do [[Infernape]] de Ash, Goh mal em um episódio com essa forma coloca seu Cinderace para dar porrada em nada mais, nada menos que um [[Mewtwo]] junto com o [[Lucario]] de Ash, o resultado é óbvio, a dupla de pokémons furries apanha feio, mas só não acontece nada pior por que <s>é um anime para crianças</s> não é o Mewtwo no primeiro filme.
+
+No mangá, provavelmente será na mão de um dos dois protagonistas do jogo.
+
+==Ver também==
+*[[Coelho]]
+*[[Futebol]]
+
+{{Poke8}}
+[[Categoria:Furry]]
+[[Categoria:Coelhos]]

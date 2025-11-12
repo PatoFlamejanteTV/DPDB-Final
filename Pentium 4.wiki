@@ -1,0 +1,57 @@
+{{computeiro}}
+&nbsp;
+
+{{c|Vou ligar o PC para ver putaria|Nerd|putaria}}
+
+{{c|[[Arquivo:Computador tela azul da morte.png|100px]]|Computador|ser ligado pelo nerd}}
+
+{{c|O [[Windows|Ruindows]] foi desligado para evitar danos, seguinte driver apresenta problemas: Intel Pentium 4|[[Tela Azul da Morte]] informando hardware conflitante}}
+
+{{c|[[Arquivo:Ln2.jpg|100px]]|[[Nerd]] momentos antes de meter uma porrada no monitor}}
+
+{{c|[[Arquivo:O que fazer quando a tela azul aparecer.jpg|100px]]|Computador|ter levado uma porrada}}
+
+{{c|Vamos lá lesma, liga logo!, liga logo!|Nerd esperando o navegador iniciar}}
+
+{{c|aMIguxxiX!, LiiGa Ai o iU tUbi pRa GeNtti VeR U rEStarTTi!|[[Emo]] usando um PC Lentium 4 com seu miguxo}}
+
+{{c|Tá bom|Miguxo|seu amigo emo}}
+
+{{c|♫ Eu.....Vou....T-e....Esperar...Aond..e....Que..r...Que...Eu......Vá....Aonde Quer.....Que....Eu...Vá....Te...Levo Comig...[[Arquivo:Computador tela azul da morte.png|50px]]|PC rodando o vídeo em 2 frames por minuto e seguido de Tela Azul da Morte}}
+
+{{c|♫ Eu Vou Te Esperar, Aonde Quer Que Eu Vá, Aonde Quer Que Eu Vá, Te Levo Comigo ♫|O mesmo vídeo rodando num <s>forno</s> AMD Sempron}}
+
+[[Arquivo:P4 Wilamette 2.2GHz.jpg|175px|thumb|right|Foto de divulgação do demônio em sua versão Willamette 1.8GHz.]]
+'''Pentium 4''' é uma linha de processadores [[x86]] criada pela [[Intel]] para dificultar a vida de seus usuários. O preço do processador variava em torno de 200 R$ á 350 R$ em [[2003]], hoje em dia não vale nem 25 centavos. Seu desempenho era comparado á uma [[lesma]] doente e executava vídeos online em 0.25 frames por segundo e em qualidade péssima. Os [[jogo]]s executavam lentamente seguidos de [[Tela Azul da Morte]] e sem [[Anti-aliasing|anti-alias]]. O [[Windows|Ruindows]] demorava em torno de 1 minuto e meio para iniciar, fora os dois minutos que tinha que esperar até a área de trabalho carregar junto as centenas de programas que iniciam junto ao Windows. Carregado a área trabalho, chega a hora em que você quer usar a internet, infelizmente o único recurso disponível é a visualização de textos e imagens, pois a execução de videos requer uma [[placa de vídeo]] de no minimo 512mb executando junto á um processador com o clock minimo de 2.0 GHz. Chega a hora em que você já está cansado de usar um PC da década passada, então você decidi aplicar um [[Overclock]] na máquina, mas para seu desgosto, a maquiná está bloqueada contra Overclock pela [[BIOS]]. Se a placa estiver desbloqueada é porque seu Lentium 4 é tão velho que ainda não havia proteção contra Overclock. Aplicado o Overclock de no máximo 150 Mhz, e você inicia a lesma para ver os resultados, para sua surpresa tudo está executando um pouco mais rápido. Depois de dois dias usando o Overclock, você nota que o PC vem ficando mais lento á cada dia, até mais lento do que antes estava. Então você reinicia, pressiona delete e inicia a BIOS. Ao abrir a BIOS você vai na seção "Health Status" e perceber que o processador está á 50 [[grau]]s, então você entra em desespero e desliga o PC. No dia seguinte você reinicia o PC e tudo o que vê é uma tela preta <s>da Morte</s>. Moral da história: se fodeu, pois fazer Overclock em um Lentium 4 piora tudo.
+
+== <s>Núcús</s> Núcleos ==
+[[Arquivo:Samsung M2950.jpg|thumb|175px|right|Compre um Samsung M2950 com Pentium 4 e pague apenas 2500 R$, uma oferta dessas é só nas [[Casas Bahia]].]]
+*'''Willamette''' - O núcleo velhão que permite um Overclock pobre
+*'''Northwood''' - Nem com o clock elevado de 2.2 GHz conseguia superar seu [[AMD|rival]]
+*'''Gallatin''' - {{vqd|Gelatina?}}
+*'''Prescott''' - O mais novo fracasso da Intel tinha um núcleo com cir[[cu|CÚ]]itos mais finos podendo chegar até á 3.0 GHz, porém esquentava mais que a torradeira da AMD, e isso o tornou obsoleto
+*'''Cedar Mill''' - {{vqd|Sei dar mil?}}
+*'''Pentium 4 HT''' - Com a nova super tecnologia de DOIS!!!11! núcleos, era dois prescott grudados em um,
+rodava quente pra caralho até poder fritar ovo nele.
+<br><br>
+
+Emfim, todos os núcleos eram uma grande porcaria, foram o maior fracasso da Intel desde o [[Pentium II]].
+
+== História ==
+Em 1998 a [[AMD]] descartou um lote de 2000 processadores da linha [[AMD K6]], a [[Intel]] foi até o lixão e recolheu todos os processadores defeituosos e construiu com os restos o Intel Pentium 4 que veio á ser um dos piores processadores que já existiram na face da [[terra]], o mesmo foi responsável por [[suicídio]]s e ataques de fúria de diversos usuários. O diretor da Intel foi processado em 50 Bilhões de [[dólar]]es por danos matérias e físicos causados pelos protestos anti-Intel Pentium 4, e para piorar tudo, o computador vinha com um CD de instalação do [[Windows Vista|Microsoft Ruindows Bicha Starter edition]].
+
+{{Break}}
+
+{{Processadores da Intel}}
+
+[[Categoria:Microprocessadores]]
+{{Modelo 13
+| cor_fundo             = ghostwhite
+| cor_fundo_titulo      = darkgoldenrod
+| cor_titulo            = black
+| cor_borda             = white
+| titulo                = Jogos que rodam nessa merda(ou não)
+| conteudo              = [[Space Station 13]] · [[Tibia]] · [[MU Online]] · [[Adobe Flash Player]]
+                            · [[Jogos de Windows]] · [[RimWorld]] · [[Undertale]] · [[OFF (jogo)]] · [[LISA]] · [[Don't Starve]] · [[Deltarune]] · [[Grand Theft Auto: San Andreas]] · [[Zumbi Blocks]] · [[Minecraft]] · [[Unturned]] · [[Project Zomboid v38]] · [[Doom (1993)|Doom]]
+
+}}

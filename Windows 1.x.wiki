@@ -1,0 +1,81 @@
+{{Microsoft}}
+{{vqd|Mac System 1.0?}}
+{{C|Na [[União Soviética]], o Macintosh copia '''VOCÊ!!!'''|Reversal Russa|Windows 1.0}}
+{{C|FDP!|Steve Jobs|Windows 1.0}}
+{{C|O Primeiro Windows foi o 95|N00b|Windows 1.0}}
+{{C|Cadê o Iniciar?|Você|Windows 1.0}}
+'''[[Microsoft]] [[Windows]] 1.0''' foi a primeira versão do CUindows <s>copiada</s> desenvolvida pelo [[Microsoft|Eixo do Inferno]], na realidade não era um SO, era uma GUI (Gay User Interface) para o todo poderoso [[MS-DOS]]
+
+== História ==
+O Titio Bill lançou o MS-DOS em 1981, que era um sistema (in)operacional baseado na linha de comando, você tinha que quebrar essa sua cabeça oca pra interagir com o MS-DOS.
+
+Bill Gaytes, afim de melhorar a falicidade e testar a paciência do usuário, teve que manter relações [[Sexo|íntimas]] com o Steve Jobs pra poder roubar o <S>Gay OS</S> Mac OS. Enfim o Titio Bill traiu o Idiojobs e lançou a primeira versão do Ruindows, o Ruindows 1.0.
+
+Após isso, o Titio Bill ampliou o Eixo do Inferno ao mundo!, lançando subversões como Windows 1.1, Windows 1.2, Windows 1.3, Windows 1.4 e assim em diante
+
+== Instalando no seu computador ==
+Esta merda já foi descontinuada há muito tempo, mas se você quiser instalar esta gambiarra no seu computador irá precisar dos seguintes requisitos técnicos, caso não funcione corretamente, consulte a central de atendimento da Micro$oft, você não pagará nada pela ligação.
+
+* PC Lentim 486, digo 386 ou 286.
+* 20 MB de RAM.
+* Placa de Vídeo de 8 MB.
+* Drive de CD e de Disquete.
+* Conexão com a Internet, pra <s>[[Cruzeiro Esporte Clube|rebaixar]]</s> baixar os drivers necessários.
+* MS-DOS 6.66
+* Paciência
+
+O Windows 1.0 inclusive roda tudo, toca as músicas da [[Lady GaGa]], roda o [[Tibia]], roda o [[Need For Speed Undercover]], claro, enquanto você roda esses programas "leves", seu computador irá explodir e irá destruir toda a sua cidade, mas você vai no foda-se.
+
+== Recursos ==
+[[Arquivo:BSoD in Windows 1.0.png|thumb|center|600px|A primeira [[Tela Azul da Morte]]. Os caracteres do MS-DOS são muito facéis de ler.]]
+O Windows 1.0 é rico em recursos, os principais são:
+* Testar a Paciência.
+* Jogos como Paciência (?), Paciência Spider e Paint.
+* Tela Azul da Morte.
+* Ocupar Espaço.
+* Ficar Olhando.
+* Deletar Arquivos.
+* Gastar Energia.
+Entre outras (f)utilidades
+
+== Código-fonte ==
+A M$ disponibilizou o código do Windows 1.0
+
+<pre>
+#include <dos.h>
+#include <stdio.h>
+#include <bsod.h>
+#include <windows.h>
+
+inciar(Boot,30 segundos){
+      MemóriaRAMparaoConsumo(66666666666 MB)
+      start(explorer.exe)
+      start(trojan.exe)
+      start(fotosdafesta.exe)
+      start(win.exe)
+}
+merda_concluida()
+atormentarusuarios(todos)
+Travar(666 vezes){
+      caso (usuario estiver vendo pornografia){
+      baixar(vírus)
+      abrirporta(Hackers)
+      exibir(BSOD)}
+}apos_travamento{
+      start(Scandisk.exe)
+      ErrorMesagem (Erros no Disco)
+      Corromper_partição(C:\)
+}
+del(win.exe)
+}
+</pre>
+
+== $$$? ==
+O Windows 1.0 era muito adaptável ao nível de renda dos Brasileiros, assim como prova a Microsoft liga muito pro Brasil, os preços variam de 666 reais a 1000 reais, o burro do Ballmer dizia que custava apenas 99 dólares, mas essa informação não é verdadeira.
+
+== Ver também ==
+* [[Bill Gates]]
+* [[Merda]]
+* [[Steve Ballmer]]
+* [[Windows 2.0]]
+{{windows}}

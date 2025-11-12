@@ -1,0 +1,56 @@
+{{game}}
+
+{{Infobox Série Game
+|title         = Ilha Morrida
+|image_logo    = Dead-island-logo.png
+|caption       = Logotipo da série destacando como um jogador fica após meia-hora exposto ao jogo
+|genre         = Simulador de férias tropicais com zumbis velozes
+|developer     = [[Deep Silver]]
+|publisher     = [[Deep Silver]]
+|origin        = [[PlayStation 3]], [[Xbox 360]]
+|first_release = [[Dead Island (jogo)|Dead Island 1]] (2011)
+|last_release  = [[Dead Island 2]] (2017)
+}}
+
+'''Dead Island''' é mais uma série de joguinhos de simulador de férias tropicais frustradas com elementos de [[survival horror]]-zumbi. Com o primeiro jogo produzido pela Techland em 2011, contando a história de um punhado de turistas tentando voltar para casa depois de um surto de lepra raivosa que infestou a ilha paradisíaca onde estavam de férias, o jogo rapidamente tornou-se muito popular visto a falta de gosto das pessoas que não se importam com jogos repetitivos de zumbis. Graças a um trabalho de programação inteligente, a física e os gráficos desses jogos alcançam níveis de primeira classe, criando mundos nunca antes vistos no PlayStation 2, por isso é uma pena que os jogo tenham saído para consoles da sétima e oitava geração.
+
+== Jogos ==
+
+* '''[[Dead Island (jogo)|Dead Island 1]]''' - Jogo que teoricamente revolucionou o mercado que aparentemente não estava nada saturado de jogos, filmes e séries de zumbis, o jogo chamou atenção por sua inovação ao obrigar os jogadores a passar horas matando hordas de zumbis agora em trajes de banho.
+* '''[[Dead Island: Riptide]]''' - Por falta de funcionários para criar toda uma grande sequência, decidiu-se criar um [[DLC]] para o primeiro jogo, mas então alguém teve a ideia de fazer de conta que esse DLC poderia ser um jogo novo.
+* '''[[Escape Dead Island]]''' - Visto que a franquia havia sido criado por uma empresa pequena, a [[Techland]], os direitos de produção foram provisoriamente vendidos para uma empresa de fundo de garagem chamada [[Fatshark]], que criaram um jogo [[adventure]] que parece ter sido feito com a bunda de qualquer jeito por estagiários. Não há registros de alguém que tenha gostado desse jogo.
+* '''[[Dead Island 2]]''' - Como os 3 funcionários da Techland foram chamados para ajudar na criação de [[Dying Light]], a produção de Dead Island 2 ficou a cargo de outra empresa de fundo de garagem, a [[Sumo Digital]], que com seus 5 funcionários levou 6 anos de árdua produção para criar um jogo indiferenciável de qualquer [[Dead Rising]] ou [[Left 4 Dead]].
+
+== Jogabilidade ==
+
+[[Arquivo:Arminha de água.jpg|thumb|Uma arma customizável do jogo.]]
+
+Em uma ilha repleta de monstros sangrentos e famintos que se alimentam de sangue humano, os [[direitos humanos]] e a [[Convenção de Genebra]] deixam de existir, e nesta ilha torna-se legal construir instrumentos de morte e tortura que causariam uma lágrima de emoção até mesmo em [[Josef Mengele]]. Tais armas podem ser construídas após encontrar manuais feitos pelo [[MacGyver]] espalhados pela ilha e fabricadas a partir de objetos comuns que podem ser encontrados em qualquer caixa, saco, gaveta ou lixeira, como cabos elétricos, ripas, peças de motor ou lixo. As modificações mais comuns são:
+
+* '''Bleeding''' - A única modificação que não desafia as leis da física, consiste em colar na sua arma, usando fita durex e durepox, todo o tipo de material afiado e pontiagudo, aumentando a quantidade de dano infligido. Visto que armas de fogo são praticamente inúteis nesses jogos porque você sempre está controlando alguém com Mal de Parkinson, também é possível colar um monte de facas e pregos em sua pistola para torná-la mais letal.
+* '''Fire''' - Desafiando todas as leis da física e da termodinâmica, usando um par de cabos e algumas baterias e pilhas, você pode negar todas as premissas da [[Lei de Joule]] para superaquecer uma lâmina para transformá-la numa versão distorcida do sabre de luz Jedi, o que inclui atirar uma [[bola de fogo]] com seu bastão.
+* '''Poison'''
+* '''Shock''' - Dessa vez todas as leis físicas do eletromagnetismo são totalmente ignoradas, envolvendo cabos e usando uma bateria, a arma poderá explodir inimigos com uma amperagem de alta tensão. Cientistas ainda estão tentando descobrir se o [[Arc Reactor]] nuclear do [[Homem de Ferro]] é fabricado com uma bateria na ilha de Banoi.
+
+== Inimigos comuns ==
+
+* '''Walker''' - O caminhante lesado leproso clássico de baixa velocidade e presente em hordas em todos os lugares. Alguns deles quando vivos aparentemente eram exímios jogadores de baseball durante a adolescência porque conseguem usar armas de combate corpo a corpo e lançá-las com precisão incrível na tua cabeça desprezando qualquer desvantagem em estarem com os músculos literalmente em estado cadavérico.
+* '''Infected''' - Humanos ainda não transformados em zumbis mas que já pegaram o vírus da [[raiva]], [[ebola]] e [[cólera]] (por isso estão todos cagados e insanos). Ao contrário de seus colegas já mortos, estes são rápidos e ágeis e assim que vêem o jogador anunciam a sua chegada com um bom som estridente. Eles são a principal causa das mortes nos jogo, dada a sua tendência a emergir do nada na nossa frente.
+* '''Thug''' - O bodybuilder zumbi que precisa levar muita porrada para morrer de verdade.
+* '''Suicider''' - Zumbis islâmicos que exibem um tumor nojento que explode assim que um jogador desavisado se aproxima dele.
+* '''Ram''' - Hannibal Lecter sob efeitos de esteroides e zumbificado (com uma máscara facial) preso numa camisa de força, é aquele que te mata bonito ao se aproximar demais.
+* '''Floater''' - Zumbi obeso, um plágio do Boomer de [[Left 4 Dead]], apenas que não explode.
+* '''Butcher''' - Zumbi açougueiro que comeu as próprias mãos e agora usa o cotoco de osso exposto como arma. Não é recomendável abraçá-lo.
+* '''Drowner''' - Zumbi que habita alagações em tentativas frustradas de dar sustinho quando precisa nadar em algum local escuro.
+* '''Grenadier''' - cientistas de Chernobyl câncer na coxa.
+* '''Wrestlers''' - Um dos tipos mais perigosos de zumbis, quando vivos eram nerds punheteiros e virgens, por isso agora zumbificados são estressados e amargurados por terem morrido sem nunca terem transado uma vez sequer na vida. São facilmente reconhecível pelo braço da punheta desproporcionalmente maior.
+* '''Screamer''' - Tentativa frustrada de imitar a temida Witch de [[Left 4 Dead]]. Em Dead Island são só bixas loucas mesmo, porque apesar da aparência masculina, estão vestidos com calcinhas e dando gritinhos de mulher.
+
+== Filme ==
+
+Os jogos [[mentira|são tão originais, geniais e divertidos]] que alguém teve a ideia de fazer um filme, e aí sim foder com o jogo. Ao menos [[Uwe Boll]], o espancador de críticos, não estará dirigindo esse filme e sim o cara que fez o filme da [[Múmia]] (convenhamos [[Mentira|filmes que exalam genialidade]]). A história é de uma família fugindo da infecção zumbi, não espere que o filme venha sair bem, além de ser uma adaptação de jogo para filme é também um filme de zumbi e se [[George Romero]] nos ensinou uma coisa essa coisa é que filmes de zumbi '''NUNCA''' saem bem.
+
+{{Dead Island}}
+{{Survival Horror}}
+
+[[Categoria:Jogos da Deep Silver]]

@@ -1,0 +1,29 @@
+{{ciencia}}
+[[Arquivo:07.jpg|thumb|Algumas das anotações que levaram à formulação da teoria de Lewis.]]
+{{c|Que papo é esse, Lewis?|Arnold|a teoria de [[Lewis Hamilton]].}}
+{{c|Nos venceu!|[[Svante Arrhenius|Arrhenius]], <s>[[Rubinho Barrichello]]</s> Brønsted e Lowry|a teoria de Lewis.}}
+{{c|Até que enfim!|[[IUPAC]]|a teoria de Lewis}}
+{{c|Esta é uma importante teoria...|Professor de [[química]]|a teoria de Lewis.}}
+
+A '''Teoria Ácido-Base de Lewis''' é considerada, atualmente, a teoria capaz de explicar, de forma mais abrangente e generalizada, a acidez ou alcalinidade de qualquer substância, seja ela iônica ou molecular. Foi estruturada por [[Lewis Hamilton]], enquanto o mesmo fazia testes no combustível de sua Mc’Laren, já que o tanque da máquina estava enferrujado. Análises mais apuradas mostraram que o responsável pelos danos no tanque era o [[chumbo]] presente na [[gasolina]], fornecida na época pela [[Petrobrás]].
+
+==A teoria==
+[[Arquivo:Lewisbambi.jpg|thumb|[[Lewis Hamilton]] recebendo um prêmio da Academia [[França|Francesa]] de Ciências por desvendar o comportamento ''dado'' das Bases de Lewis.]]
+Segundo os estudos de [[Lewis Hamilton|Hamilton]], as diversas substâncias podem ser classificadas como [[ácido]]s ou [[base (química)|bases]], de acordo com a disponibilidade de dar <small>'''''(Ui!!!)'''''</small> ou receber [[elétron]]s.
+
+Segundo Hamilton, um ácido de Lewis (imagina se ele não ia colocar o próprio nome)'' tem carência de <s>afeto</s> elétrons, e gostaria de receber dois deles (quimicamente, chama-se ligação dativa), sendo, então, um íon ou radical negativo, ou seja, o que recebe. Portanto, é o praticante ativo da ligação química. Uma base de Lewis''', por sua vez, tem elétrons para dar <small>'''''(Ui!!!)'''''</small> e vender, logo, não se importará de emprestar dois para o outro íon ou radical. Por ser o íon ou radical positivo, é o que dá (ou cede). Portanto, é o praticante passivo da ligação.
+
+Resumindo a teoria, um ácido de Lewis é aquele que recebe (os [[elétron]]s) e uma base de Lewis é aquela que dá (ou cede) os [[elétron]]s. Várias espécies químicas podem participar, o que se resume numa [[suruba]] interatômica.
+
+==Aplicação==
+A teoria de Lewis tem grande importância na [[química orgânica]], já que é difícil saber se tal substância é um [[ácido]] ou [[base (química)|base]] quando a substância não se ioniza ou dissocia na água e não libera um íon [[hidrogênio|H<sup>+</sup>]], embora a definição de Lewis possa ser aplicada a qualquer composto químico ([[ou não]]).
+
+==Ver também==
+*[[Ácido-Base de Arrhenius]].
+*[[Ácido-Base de Brønsted-Lowry]].
+*[[Ácido]].
+*[[Base (química)|Base]].
+
+{{ácidos}}
+{{bases}}
+{{química orgânica}}

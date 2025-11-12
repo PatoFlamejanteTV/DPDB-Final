@@ -1,0 +1,28 @@
+[[arquivo:Small stellated dodecahedron.png|thumb|220px|Um [[poliedro]] em formato de [[estrela]] da [[união soviética]] posando como se fosse o [[Lego]] da geometria: faces planas, arestas retas e vértices afiados, pronto pra montar [[cubo]], [[pirâmide]] ou [[dado]] de [[RPG]]]]
+
+'''Poliedro''' é o [[sólido]] que a [[natureza]] e o [[Lego]] amam: conjunto de [[face]]s planas (polígonos), [[aresta]]s retas e [[vértice]]s pontudos tipo [[cubo]], [[pirâmide]] ou [[cristal]] [[mágico]]. [[Regular]] quando todas as faces são [[polígono regular]] iguais [[Platão]] [[criou]] 5. Fórmula de [[Euler]]: <math>$V - A + F = 2$</math> [[professor]] [[prova]], [[aluno]] [[decora]].
+
+==História Rápida==
+[[Platão]] catalogou 5 em 360 a.C. [[sólidos platônicos]]. [[Euler]] inventou fórmula em 1750. [[Lego]] popularizou em 1949.
+
+==Cultura Pop==
+* [[Dado]]: poliedro de [[azar]] [[D6]], [[D20]].
+* [[Minecraft]]: [[bloco]] é [[cubo]] [[Steve]] [[constrói]].
+* [[Cristal]]: [[diamante]] é [[octaedro]] [[noiva]] [[sonha]].
+
+==Curiosidades==
+* [[Abelha]] usa [[hexágono]], mas [[poliedro]]? [[Cera]] [[3D]].
+* [[Papel]] poliedro? [[origami]] [[avançado]].
+* [[Esfera]] não é poliedro [[troll]] [[curvo]].
+
+{| class="wikitable"
+! Tipo || Faces
+|-
+| [[Tetraedro]] || 4
+|-
+| [[Cubo]] || 6
+|-
+| [[Icosaedro]] || 20
+|}
+
+{{Predefinição:Formas geométricas}}

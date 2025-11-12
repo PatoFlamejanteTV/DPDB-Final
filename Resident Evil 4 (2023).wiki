@@ -1,0 +1,64 @@
+{{game}}
+
+{{Infobox Game
+|title     = Resident Evil 4
+|image     = Resident Evil 4 2023 cover.jpg
+|caption   = Capa do jogo
+|developer = [[Capcom]]
+|publisher = [[Capcom]]
+|released  = 2023
+|genre     = Genocídio de velhas
+|rating    = 9/10, faltou o vestido da Ada
+|platform  = PlayStation 4, PlayStation 5, Xbox Series X, PC decente
+|ages      = Livre
+}}
+
+{{c|Olha! É o [[Wesker]]!|[[Davy Jones (youtuber)|Mago Davy Jones]] prevendo a aparição do Wesker no jogo}}
+
+'''Resident Evil 4''' de 2023 é um [[remake]] necessário do clássico jogo [[Resident Evil 4]] de 2005, criado pela [[Capcom]] para colocar [[Wesker]] nesse jogo de Resident Evil e assim satisfazer a falsa nostalgia do [[youtuber]] [[Davy Jones (youtuber)|Mago Davy Jones]].
+
+== Desenvolvimento ==
+
+Enquanto a Capcom se esforça para destruir sua franquia com porcarias do tipo [[Resident Evil 7]] e [[Resident Evil 8]], parece que uma facção dentro da empresa persiste em preservar a franquia, trazendo coisas como [[Resident Evil 2 Remake]]. Mas essa facção de especialistas em [[RE Engine]] sabia que podia fazer mais, então decidiram fazer o remake de um dos jogos mais amados pelos [[brasileiro]]s depois de [[Bomba Patch]] e [[Counter-Strike|Counter-Strike de lan-house]], anunciando assim o Remake de Resident Evil 4.
+
+A ideia para o bom desenvolvimento desse jogo foi simples: Pegar o [[Resident Evil 3 Remake]] e não fazer aquela cagada, mas sim um Call of Duty dividido em três grandes partes: Fazenda dos Ganados com cara de Lula; Castelo com os padres possuídos; Ilha com zumbis que sabem manusear baterias de fogo antiaéreo. Ou seja, exatamente tudo o que foi o jogo original. Os desenvolvedores só precisaram fazer realmente uma única coisa, que era deixar a Ashley menos chata: Após vários debates internos, a solução para melhorar a Ashley foi apenas um, contratar uma modelo lindíssima de fofa, a tal [[Ella Freya]], para fazer o boneco da Ashley. Com a loirinha mais bonitinha e menos estridente, esses gamers virjões vão facilmente rejeitar a chatice dela. E foi exatamente o que aconteceu, a nova Ashley foi bastante elogiada.
+
+E como a Capcom nunca será Capcom se não lançar coisas pela metade, com atraso de 3 semanas só, lançaram o [[DLC]] "grátis" do amado Modo Mercenários. Uma excelente forma de já tatear como possivelmente criar futuros conteúdos pagos. Isso porque na lojinha, a Capcom ainda colocou um sistema [[pay-to-win]] onde você pode comprar melhorias para armas com dinheiro real.
+
+== Jogabilidade ==
+
+Resident Evil 4 Remake é basicamente um [[Call of Duty]] com munição controlada, além da excelente ambientação que nos faz crer que estamos realmente numa cidade de interior do [[Amapá]], os habitantes nativos até falam espanhol. Para o jogo mais focado na ação e menos no terror, foi criado um sistema de acesso rápido às armas, agora não precisa o jogador abrir a maldita maleta de 10 em 10 segundos - como no original - para selecionar a nova arma que deseja utilizar.
+
+A adição mais marcante foi o uso da [[faca]], Leon é agora um verdadeiro [[A Grande Arte|Peter Coyote]] e você consegue zerar o jogo só na faca sem problemas. É só spamar o {{botão-l1}} e você fica invulnerável, vai dar parry até em golpe de serra elétrica. Isso quando não entrar em modo furtividade e matar geral no stealth. Até por isso o jogo não tem mais o [[quick time event]], porque resolver as coisas apertando apenas 1 botão não parece certo e deixa as coisas fáceis demais, subestimando a inteligência dos jogadores. Se é pra chamar o jogador de burro, então é melhor pintar de amarelo todas as coisas quebráveis do cenário.
+
+Outra adição foi o salvamento automático, assim os noobs não serão tão punidos e isso vai diminuir a tensão, criando a boa atmosfera de jogo de ação e não de terror a que esse jogo se propõe. Já que se você morrer, vai voltar logo na porta anterior.
+
+=== Personagens e suas diferenças para o original ===
+
+* '''[[Leon S. Kennedy]]''' - No remake, ele está mais piadista e assumiu o papel de Rambo, ciente ser capaz de matar centenas de inimigos sozinho. Há diferenças na forma como ele foi contaminado pelo [[Las Plagas]], não tem a cena onde ele enforca a Ada para tentar mostrar ele sucumbindo à doença, mas sim várias cenas dele sendo controlado pelo Saddler, ouvindo voz Saddler e ficando com as veias do corpo saltadas em preto. Ele que é atacado pela Ashley possuída por duas vezes.
+* '''[[Luis Sera]]''' - Deixou de ser um personagem secundário com uma morte ridícula para se tornar um ex-cientista da Umbrella que está ali para ser alívio cômico. Existe toda uma fase, dentro das cavernas, onde jogamos junto com ele no ninho das muriçocas do demônio (substituindo a parte dos contêineres do [[U-3]] que foi cortada). Além do que, a cena dos trilhos é junto com ele, onde ele ajuda em nada. Luis não é mais morto por Saddler, no remake ele morre com golpe de faca do <s>Wesker</s> Krauser.
+* '''[[Ashley Graham]]''' - Ganhou um visual melhorado, ficando mais fofinha em estilo [[e-girl]] para agradar os gamers que são tudo escravocetas pra esse tipo de menina. Ela está ligeiramente menos chata. A parte de gameplay com a Ashley não é mais stealth no meio de padres burros, mas sim stealth no meio de armaduras possuídas e dura bem mais.
+* '''[[Ramon Salazar]]''' - deixou de ser uma criança e se tornou uma espécie de vovozinha mal maquiada, por isso perdeu seu chapéu. Ele continua com dois [[Verdugo]]s de guarda-costas, mas um deles simplesmente sumiu. A estátua dele também foi modificada para algo menos idiota do que um Megazord que persegue o Leon.
+* '''[[Ada Wong]]''' - Aparece no jogo mais blazé, mais cínica e menos sensual, não possuindo grandes diferenças no resto, exceto no final, onde descobrimos que ela trabalha para o Wesker (o outro Wesker) que simplesmente fala para ela que vai matar bilhões de pessoas. Mesmo sendo uma cretina, Ada então optou por trai-lo e não levar a vacina do covid para Wesker.
+* '''Mike''' - Aquele piloto do helicóptero lá. No original ele morre de tiro de bazuca. No remake ele morre de ataque de baratas voadoras.
+* '''[[Jack Krauser]]''' - A principal mudança do remake está no Krauser, que agora se chama Wesker. Ele é um Major veterano que treinou o Leon e agora sua história está melhor explicada. Ao invés de transformar apenas um braço numa peixeira, ele agora transforma o segundo braço num pênis de elefante na luta contra Leon.
+* '''[[Osmund Saddler]]''' - Teve o visual modificado e agora é um calvo que sofreu um acidente numa clínica capilar na Turquia, o que deformou seu couro cabeludo permanentemente e por isso ele sente tanta revolta da humanidade. O jogo também incluiu diversas lápides de falecidos da família Saddler, sendo um deles o [[Adam Sandler]], criando uma conexão incomum.
+
+== Recepção ==
+
+Os fãs mais raiz (vulgo: virgens punheteiros) criticaram fortemente o jogo e o odiaram totalmente. As principais críticas pesaram na caracterização da [[Ada Wong]], que perdeu seu vestido vermelho decotado e a sua voz sensual, se tornando apenas uma chinesa sem graça que parece até estéril. Os defensores tentam argumentar que um jogo de terror não é lugar para objetificar as mulheres, mas isso tem nada a ver, todo mundo sabe que filme de terror bom e raiz precisa obrigatoriamente ter uma gostosa ali no meio.
+
+Outra mudança que foi alvo de fortes reclamações e que no remake não é mais possível ver a [[calcinha]] da [[Ashley Graham]]. Mas a cena mais lamentada é não haver a cena em que Leon faz parkour, dá cambalhotas e piruetas para escapar do corredor cheio de lasers. Por isso o jogo teve péssimas avaliações gerais.
+
+{{Resident Evil}}
+
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para PlayStation 5]]
+[[Categoria:Jogos para Xbox Series X]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de survival horror]]
+[[Categoria:Remakes de jogos]]
+[[Categoria:Jogos lançados em 2023]]
+
+[[es:Resident Evil 4 (2023)]]

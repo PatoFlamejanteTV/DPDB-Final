@@ -1,0 +1,40 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = cuscus
+| imagem          = Phalangeridae.jpg
+| imagem_legenda  = O tal gambá-preguiça que se chama cuscus
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| subclasse       = [[Theria]]
+| infraclasse     = [[Marsupialia|Marsupilami]]
+| ordem           = [[Diprotodontia|Cangurus-pernetas]]
+| família         = [[Phalangeridae|Faringite]]
+}}
+
+'''Phalangeridae''' é um tipo de gambá bizarro que vive nas árvores e acha que é um [[bicho-preguiça]]. Por habitarem somente em [[Tuvalu Ulterior]], estes bichos não possuem nome comum ou tradução para o português, sendo chamados em inglês de '''cuscus''', mas no Brasil isso é uma comida, então sendo chamados apenas de "gambás-arborícolas-esquisitões-que-se-acha-bicho-preguiça", ou simplesmente chame de 'cuscus' sem o "[[Z]]".
+
+== Anatomia ==
+
+Estes bichos chamados cuscus com s primeiramente não são comestíveis (nem cuscuz são) pois sua carne é rica em toxinas. São basicamente uns gambazinhos de médio porte. A sua pelugem é similar a de uma esponja de lavar louça, sendo aliás estes animais predados para a fabricação de tal material, o que tem culminado cada vez mais em seu crescente risco de extinção.
+
+Possuem mãos adaptadas para trepar em galhos e para pegar frutinhas, não sendo hábeis todavia para se masturbarem com aqueles dedinhos finos, e por isso são geralmente assexuados.
+
+Por serem extremamente preguiçosos, o que é normal e aceitável pois vivem em Tuvalu Ulterior onde não te nenhum bisão para caçarem ou coisa parecida, eles são sobretudo animais [[folívoro]]s, e seu [[sistema digestivo]] totalmente adaptado a estas condições, de modo que 90% de seu intestino é formado pelo [[ceco]], um órgão que serve de sacola retendo as folhas comidas deixando-as fermentar por meses como seu modo peculiar de digestão, e inclusive permitindo que o animal possa soltar bufas fedidas como forma de auto-defesa.
+
+== Habitat ==
+
+Por serem um tipo bizarro de [[gambá]], o seu único habitat são as ilhas de [[Tuvalu Ulterior]], único bioma do planeta Terra capaz de propiciar todas as condições para o cuscus que não é comida sobreviver.
+
+== Famílias ==
+
+* '''[[Ailurops]]''' - cuscuses-ursos
+* '''[[Strigocuscus]]''' - cuscuses-anões
+* '''[[Phalanger]]''' - cuscuses comuns
+* '''[[Spilocuscus]]''' - cuscuses-manchados
+* '''[[Trichosurus]]''' - gambás-de-cauda-de-vassoura
+* '''[[Wyulda]]''' - gambá-de-cauda-escamosa
+
+[[Categoria:Diprotodontia]]
+[[Categoria:Phalangeridae|*]]

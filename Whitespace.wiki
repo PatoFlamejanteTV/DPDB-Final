@@ -1,0 +1,120 @@
+{{c|Meu filhoe mais novo |Sun Corporation|Whitespace}}
+
+{{c|Como meu irmão é leve ...|Java|Whitespace}}
+
+{{c|É cada uma que me aparece... ¬¬'|Programador Java|Whitespace}}
+
+{{c|Letras Chirrión!|Seu madruga passando seu código em Delphi para Whitespace}}
+O '''Whitespace''' foi a primeira linguagem de programação a surgir no sistema solar, e no sistema solar de Algol - Phantasy Star. Há rumores que ela surgiu sozinha, por si sí, por cissiparidade, ou que tenha sido criada em VBasic pela Sun, numa tentativa de fazer o irmão mais novo e totalmente oposto do Java.
+
+Antes de falar mais sobre esta linguagem, vou logo dizendo que eu não me importo se você está questionando a integridade do que foi dito àcima, já que foi dito que o Whitespace foi a primeira linguagem a surgir mas que foi criada em VBasic pela Sun!
+
+== Sobre a linguagem ==
+[[Arquivo:Nihilism.jpg|thumb|Um exemplo de Whitespace nível básico.]] 
+O Whitespace é uma tentativa da Sun de fazer uma linguagem de programação oposta ao Java! Enquanto a proposta do Java é utilizar a maior quantidade de memória, processamento e linhas de código possível para deixar o programa mais eficiente, o Whitespace tenta justamente o contrário, que é utilizar 0 de espaço, 0 de processamento e 0 de linhas de código. A estratégia da Sun passa a ser então: se não colar uma, a outra cola!
+
+Hello World em Whitespace:
+
+ "                                               "
+
+== Verdades de Whitespace ==
+
+* Whitespace executa um loop infinito em 4,7 segundos
+* Whitespace executa dois loops infinitos em 9,4 segundos
+* Whitespace nunca dá erro de acesso à memória
+
+== Sintaxe ==
+
+A sintaxe desta linguagem magnífica é bastante parecida com a programação binária! Na verdade, todos os comandos são em binários, só muda a maneira de representar!
+
+* 0 (zero) = 1 espaço em branco (ASCII 32)
+* 1 (um) = 2 espaços em branco (ASCII 32)
+
+Desta forma, para escrevermos o número 17 em binário de 4 bits usando whitespace fica assim:
+
+17 = 1001 = __ _ _ __ (separados pra você, seu noob, poder ver) = ______ (forma correta da linguagem)
+
+== Vantagens ==
+
+[[Arquivo:Nihilism.jpg|thumb|left|Um exemplo de Whitespace, agora no nível avançado.]] 
+A principal vantagem é o pouco espaço ocupado pela linguagem. Enquanto cada caractere em ASCII ocupa 8 bits (que absurdo! disperdício descarado!), em whitespace nós utilizamos apenas 0 bit pra armazenar um caractere (o espaço em branco). Isto é fácil de provar pela conta que você aprendeu a fazer no seu curso de computação pela "Educon - online", ou por correspondência no "Instituto Universal Brasileiro do Reino de Deus" da seguinte forma:
+
+Quantidade de chars possívels: 2 ^ num_bits. Desta forma:
+
+* 8 bits => 2 ^ 8 => 256 caracteres
+* 0 bits => 2 ^ 0 => 1 caractere
+
+Com isto podemos ver que com 0 bits podemos guardar 1 caractere em Whitespace, e para guardar n caracteres precisamos de n x 0 bits, o que vai resultar em 0 bits. Então, não importa quantos caracteres whitespace você vai ter em seu código-fonte (código-fonte? como assim?) ele não vai ocupar porcaria de espaço nenhum no seu HD de 160Gb Maxton de 16 cilíndros e 4 cavalos (um pra cada pessoa da família).
+
+Existe uma forma bastante inteligente e eficiente de se compactar AINDA MAIS seu código-fonte. Heis um algoritmo de compactação:
+
+# Primeiro você pega o comprimento total do seu código
+# Depois, transforma isto pra um número em binário
+# Agora, você representa este número do passo anterior em Whitespace (mostrado no tópico SINTAXE)
+# Seu novo código-fonte vai ser o número acima representado em Whitespace
+# Se o tamanho do código for maior que 1, volte para o primeiro passo
+
+Aqui uma versão em Pseudo-Muito-Pseudo-código
+
+ 1: SET N = LENGTH(CODIGO_FONTE)
+ 
+ // Função PASSA_BINARIO feita em Java pra deixar o pseudo-código mais rápido e eficiente
+ 2: SET BIN = PASSA_BINARIO(N)
+ 
+ // Função PASSA_WHITESPACE feita em Assemble pra deixar o pseudo-código mais lento e compensar o ganho obtido da função em java
+ 3: SET WBIN = PASSA_WHITESPACE(BIN)
+ 
+ 4: SET CODIGO_FONTE = WBIN
+ 5: IF LENGTH(CODIGO_FONTE) > 1 GOTO 1
+
+Temos como provar que o algoritmo acima não causa LOOP INFINITO com a seguinte derivação:
+
+ N <= O(log2,10 N') * lim(x->N)/lim(x<-N) % lim(x------->N)/lim(x<--N-->x) => /=*=\ \=*=/ /=*=\ \=*=/
+  /=*=\ \=*=/ /=*=\ \=*=/ /=*=\ \=*=/
+ [__|__] [__|__] 'pwned!
+ All your base are belong to us!
+
+Fica visível que N tenderá para 1, e assim vai haver um momento que a linha 5 vai dar false!
+
+A prova àcima é verdadeira, não importa quantos contra-exemplso você ache pra ela! Ao contrário, as naves invaders irão encher seu computador de AdobR32.exe, FotosDaFesta.exe, Cartao.exe e Wplugin.dll!
+
+Vejamos o exemplo de um código-fonte com 17 espaços em branco:
+
+ 17 => 1001 => __ _ _ __ => 6 espaços em branco
+ 6 => 110 => __ __ _ => 5 espaços em branco
+ 5 => 101 => __ _ __ => 5 espaços em branco
+ 5 => 101 => __ _ __ => 5 espaços em branco
+ :: E por aí val ::
+
+Pra que este algoritmo de compactação não dê um loop infinito, basta alterar a linha 5 do algorito:
+
+ 5: IF LENGTH(CODIGO_FONTE) > 1 AND NOT DEU_LOOP_INFINITO GOTO 1
+
+Claro, a função DEU_LOOP_INFINITO é feita em Visual Basic, porque ninguém intende mais de loop infinito que o VB!
+
+== Compilador ==
+
+== Lista de programas feitos em Whitespace ==
+
+* A vaca comendo no pasto - feito quando Kiko estava aprendendo a programar na aula do professor Girafales
+* Java Virtual Machine
+* Visual Studio .NET
+* Windows Vista
+* Windows 7 - Core
+* Compilador do Whitespace - típico ovo e galinha de computação
+* Microsoft Orkut
+
+== Lista de programadores de Whitespace ==
+[[Arquivo:Creche mumemo.jpg|thumb|Central dos programadores.]]
+* [[Eu]]
+* [[Tu]]
+* Ele/Ela/Você
+* [[Nós]]
+* Vós
+* Eles/Elas/Vocês
+* Tua mãe
+* Michael Jackson
+* $ílvio $antos
+* Chuck Norris
+
+{{Linguagens de Programação}}

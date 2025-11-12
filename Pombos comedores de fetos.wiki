@@ -1,0 +1,29 @@
+{{ave}}
+
+{{taxocaixa
+| nome           = Pombo comedor de feto
+| cor            = pink
+| imagem         = Pombo_come_feto.JPG
+| imagem_legenda = Pombo comedor de fetos após de ser deliciar.
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| classe         = [[Aves]]
+| ordem          = [[Columbiformes]]
+| família        = [[Columbidae]]
+| gênero         = [[Columba (género)|Columba]]
+| espécie        = C. Eat Nenemorto
+| binomial       = Columba livia
+}}
+
+==Descrição==
+Pombos comedores de fetos(Columba Eat Nenemorto) são uma espécie de pombos modificada geneticamente pela [[Hanso Fudention]].
+
+Foi criada a partir do [[pombo]] comum com misturas genéticas de [[castores]] e [[Michael Jackson]].
+
+[[Cientistas]] do mundo todo concordam que, o sangue do [[Michael Jackson]] pode ter trazido essa vontade de comer [[fetos]] nos pombos. [[Fetos]] não deixam de ser [[criancinhas]].
+
+A carne de pombo comedor de feto é muito apreciada por povos do [[universo]] inteiro.
+
+Grandes empresas com [[McDonald's]] criam seus cardápios baseados em carne de Pombo comedor de Fetos.
+
+{{Esboço}}

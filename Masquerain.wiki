@@ -1,0 +1,49 @@
+{{pokedex}}
+{{voador}}
+{{Você quis dizer|Mesquinho?}}
+
+{{C|Mascarade, mascarade, mascarade!|Ashley Tisdale|Masquerain}}
+
+{{C|Adoro essa música!|Guria retardada|Ashley Tisdale}}
+
+{{C|Masquerain, um [[pokémon]] olho gordo voador [...]|Pokédex|Masquerain}}
+
+{{PokéBox
+| imagem = 284Masquerain.png
+| tamanho = 250px
+| frase = {{C|Masque, masque!}}
+| nihongo =アメモース
+| romaji =Amemoth
+| pokedex = 284
+| tipo1 = Bug
+| tipo2 = Flying
+| espécie = Mariposa previsora do tempo
+| cadeia evolutiva = [[Arquivo:SurskitSprite.gif|link=Surskit|Surskit]][[Arquivo:Seta.JPG|30px]][[Arquivo:MasquerainSprite.gif|link=Masquerain|Masquerain]]
+}}
+[[Arquivo:MasquerainSprite.gif|left]]'''Masquerain''' é uma mariposa azulada que foi escolhida para ser um [[pokémon]] pelo velhaco que desenha os mesmos, por achar ela um tanto carismática, e ser um símbolo de libertação dos [[nerd]]s por possuir asas e ter quatro olhos. Ela é do tipo inseto e voador, e é o número #284 na pokédex, logo depois de um moi de monstrinhos de bolsos felizes por ser um dos primeiros dos 1000 que vem adiante.
+
+== Características ==
+
+Masquerain é um [[pokémon]] que lembra uma mariposa do nosso mundo real, que evolui do [[Surskit]], um bichinho estranhão que anda sobre a água com umas pernas azuis e esqueléticas e possui afinidade por suas bochechas rosadas. Depois de evoluir, ganha asas (obviamente), e faz com que as suas patas virem bandeirolas (?) que são usadas como remo na água, pra ficar batendo e fazendo barulho para assustar os banhistas de um tal rio. Apesar de gostarem de assustar as pessoas que tomam banho em rios, costumam ser bem pacíficos em si, acalmando brigas que existem entre [[Beautifly]] e [[Dustox]] - dois insetos chatos pra caralho que gostam de ficar brigando sempre por questões territoriais. O Masquerain porém, gosta de mostrar que tem classe e fica assim mais neutro do que a [[Suiça]], apenas fazendo uma dança da chuva de antigas tribos indigenas para acalmar as rivalidades com uma bela chuvarada na cabeça de todos esses insetos briguentos. Conhecido assim, por ser o ''"inseto juiz"''! É um dos apelidos estranhos que os outros insetos chamam o Masquerain.
+
+A sua habilidade de controlar a chuva é uma coisa muito do verão passado, parecendo até que [[você]] já viu outros [[pokémon]]s com essa mesma habilidade. Além disso, Masquerain é o único [[pokémon]] inseto que suporta viver em cavernas geladas igual a [[sua mãe]], aquela macaca primitiva; e por isso, ele também é o único [[pokémon]] inseto que consegue ganhar golpes de gelo, o que é uma vantagem um tanto apelona, fazendo um insetinho ganhar de um dragãozão igual o [[Salamence]]. Mas dependendo de {{USERNAME}}, até o Masquerain se torna um [[pokémon]] muito ruim. Apesar de controlar a chuva, as pokédexs fumam e acham que o Masquerain fica mais devagar quando voa na chuva, porém é o contrário, ele fica muito mais rápido quando voa na chuva. O Masquerain consegue também prever quando vai chover, com os seus 2 olhos extras que se encontram em suas asas da [[bunda]]... Quando esses olhos estão tristes, significa que vai chover, por esse motivo o Masquerain é o [[pokémon]] mascote de todo metereologo ladrão, que ganha dinheiro as custas de seu pobre e inocente Masquerain, que prevê a chuva por causa de seus olhos tristonhos e [[emo]]s por natureza.
+
+Por essa e muitas outras razões, Masquerains não gostam de humanos, muito menos se eles forem políticos ou metereologistas ladrões. Costumam se esconder de humanos debaixo de árvores e outras coisas que um dia vão ser destruídas por indústrias de [[papel]]. No animé, um Masquerain fica se escondendo da feiúra de [[Ash]], depois de achá-lo no meio do caminho, porém [[Misty]] comprou um inseticida especial para [[pokémon]]s insetos e quer matá-lo. Porém a [[Equipe Rocket]] rouba o inseticida e acaba decolando de novo, e a [[Misty]] volta para [[Cerulean City]] depois de ficar traumatizada com insetos, principalmente depois de descobrir que eles podem ter 6 asas como um Masquerain: patas azuis, asquerosas e molhadas.
+
+== Curiosidades ==
+[[Arquivo:Drew_Masquerain.png|thumb|left|O Masquerain de [[Drew]], que assim como todos seus outros [[pokémon]]s fingem estarem felizes com um treinador tão rídiculo.]]
+Sabia que...
+
+*Masquerain significa chuva mascarada?
+*Ninguém perguntou?
+*Você leu a terceira curiosidade numa tentativa falha de achar que nela teria alguma coisa de realmente interessante e curioso para saber?
+
+== Ver também ==
+*[[Surskit]]
+*[[Flygon]]
+*[[Lileep]]
+
+{{poke3}}
+[[Categoria:Mariposas]]
+
+[[ja:アメモース]]

@@ -1,0 +1,32 @@
+{{esboço}}
+
+{{taxocaixa
+| nome            = Apicomplexa
+| cor             = khaki 
+| imagem          = Bandeira-acre.png
+| imagem_legenda  = Não existem imagens interessantes
+| domínio         = [[Eukaryota|Cara de idiota]]
+| reino           = [[Protista|Proctologistas]]
+| superfilo       = [[Alveolata|Aviadados]]
+| filo            = [[Apicomplexa]]
+}}
+
+'''Apicomplexa''' é um ''grupo de protozoários'' absolutamente sem graça alguma. São terríveis. São tão terrivelmente sem graça que é impossível sequer escrever um texto com mais de 10 linhas, é uma desgraça total.
+
+== Caracteristicas ==
+Os Apicomplexa são notórios por matar seus estudiosos de tédio e de gangrena escrota, dado o excesso de coçação de saco que os [[biólogo]]s ficam. Os estudiosos da [[medicina]] também não aguentam mais estes seres, sendo eles notórios em repartições públicas ou outros lugares onde se igualmente não se faz nada.
+
+Um exemplo de Apicomplexa é o [[Plasmodium]], causador da [[malária]] e transmitido pela picada do mosquito do gênero [[Mephistopheles]].
+
+== Referencias ==
+* [http://desciclo.pedia.ws/api.php API Complexa] - não confundir com Apicomplexa
+
+== Classes ==
+
+* '''[[Aconoidasida]]''' - protozoários sem conoide
+* '''[[Conoidasida]]''' - protozoários com conoide
+
+E não me pergunte o que é um [[conoide]]
+
+[[Categoria:Alveolata]]
+[[Categoria:Apicomplexa|*]]

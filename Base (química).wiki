@@ -1,0 +1,69 @@
+{{corrosivo}}
+
+[[Arquivo:OH.jpg|right|thumb|Bases servem como laxante, todas horrivelmente amargas!]]
+{{vqd|Álcali?}}
+{{experimente|Suporte}}
+{{c|É aquele negócio com o OH<sup>-</sup>, né?|Você|bases.}}
+{{c|Na [[União Soviética]], quem corrói a base é '''VOCÊ'''!!|Reversal Russa|bases.}}
+{{c|Em [[Togo]], você baseia a corrosão.|[[Inversão Togolesa]]|bases.}}
+{{c|All your base are belong to us!|Cats|bases}}
+{{c|Perdeu, preibói! Me passa o próton!|[[Ácido]] de Brønsted-Lowry|base de Brønsted-Lowry.}}
+{{c|Ele me atacou desprevenido!|[[Ácido]] de Lewis|base de Lewis.}}
+{{c|Parece um pênis, meu Deus!|Crente indignado|o mecanismo do ataque de uma base citado acima.}}
+{{c|Sim, meu filho!|Pastor da igreja frequentada pelo crente acima|citação acima.}}
+
+'''Base''' ou álcalis, já que é tudo a mesma porcaria, é mais um composto químico estudado pelo [[nerd]] [[Svante Arrhenius]] que consiste basicamente em uma substância que quando diluída em água libera um ânion, que caso você não saiba o que é vá procurar na [[Wikipédia]] (e por mim você pode ficar por lá), a hidroxila, o OH<sup>-</sup>. Mais tarde, foi descoberto que o [[nitrogênio]] era dessas também, explicando porque [[Lima Duarte|caralhinhos voadores]] o ácido nitrídrico simplesmente '''não existe'''.
+
+==Descoberta==
+[[Arquivo:Hidroxido.jpg|thumb|Nunca beba uma base... Pensando bem até que você pode.]]
+Num belo dia de verão extremamente enevoado e chuvoso no deserto do Saara, Arrhenius estava fumando uns [[Cheiramento de gatinhos|cigatinhos]] e ele então, preste atenção, começou a imaginar que certas substâncias tinham uma insólita mistura de um elemento mais a tal da hidroxila, anos mais tarde os estudos do viciado em gatinhos foram comprovados pelo mais renomado cientista de todos os tempos, [[Doutor Roberto]].
+
+==Nomenclatura==
+Funciona basicamente da seguinte forma:
+#Você, obrigatoriamente, tem de ter o ânion OH<sup>-</sup>;
+#Arranje um cátion, qualquer merdinha positiva; 
+#Anule os numerozinhos das cargas, aí o problema é seu;
+#O nome vai ser hidróxido da porcaria positiva.
+
+===Exemplos===
+[[Arquivo:Calhidra.jpg|thumb|150px|Bases são usadas na construção também.]]
+*Ca<sup>2+</sup> e OH<sup>-</sup> = Ca(OH)<small>2</small> (Hidróxido de Cálcio)
+*Fe<sup>3+</sup> e OH<sup>-</sup> = Fe(OH)<small>3</small> (Hidróxido de Ferro III)
+*Cor<sup>+</sup> e OH<sup>-</sup> = CorOH (Hidróxido de Corintiano)
+
+==Principais bases==
+*NaOH - Soda cáustica, muito comum o uso em leites longa vida.
+*Mg(OH)<small>2</small> - Leite de magnésia, eficiente antiácido e laxante.
+*Ca(OH)<small>2</small> - Aquilo com que [[pobre]] pinta a parede do quarto.
+*NH<small>3</small> - O "ácido nitrídrico", que mudou de nome para '''[[amônia]]'''.
+ 
+Existem várias outras, mas estou com preguiça de comentar. [[Arquivo:SmileySmall.png|25px]]
+
+==Classificação de bases==
+Se classifica pelo número de OH's e quanto à porcentagem de base diluídas, dissociadas se você for [[nerd]], em água.
+Resumindo:
+Se quiser matar alguém use as monobases (1 OH) e as dibases (2 OH's), são as mais fortes.
+
+==Relação com os ácidos==
+[[Arquivo:Po.jpg|thumb|170px|Hidróxido de cálcio. Não é cocaína, seu noia!]]
+Os dois são antagônicos, não podem se aproximar, algo como [[matéria]] e [[antimatéria]], um anula o outro e o outro anula o um. A reação entre esses dois gera o que nós chamamos de água e sal. 
+
+É mais ou menos assim:
+
+::<math>\mathsf{HA_{(\acute{a}cido)}+BOH_{(base)}=BA_{(sal)}+HOH_{(\acute{a}gua)}}</math>
+
+Agora vamos a uma piadinha besta:
+
+{{c|Antes de serem embalados do que eram feitos os biscoitos de água e sal?|[[Eu]] iniciando a piada.}}
+{{c|Não sei.|[[Você]] respondendo.}}
+{{c|Biscoito de ácido e base. HAHAHAHAHA!|[[Eu]] terminando a piada.}}
+{{c|O.o'|[[Você]] após o fim da piada.}}
+
+== Ver também ==
+*[[Ácido]]
+*[[Sal]]
+*[[Óxido]]
+
+{{oposto|Ácido}}
+{{química inorgânica}}
+{{bases}}

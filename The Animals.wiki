@@ -1,0 +1,43 @@
+{{Animal}}
+
+ 
+{{C|Eu não tive inveja, esse cara é um mentiroso!|Tarzan|The Animals}}
+{{C|The Animals non ecziste!|Padre Quevedo|The Animals}}
+{{C|Existe sim, eu vi!|Stevie Wonder|The Animals}}
+{{C|Essa banda têm um som-cabeça!|Zinedine Zidane|The Animals}}
+{{C|Esse Eric roubou meu nome!!|Buda|Eric Buda}}
+
+{{Info banda
+ | nome          = The Animals
+ | imagem        = JungleAnimalsBorder.jpg
+ | legenda       = The Animals em apresentação na [[África]].
+ | origem        = Sei lá
+ | país          = Inglaterra
+ | período       = 1960(alguns dizem 1920, mas ainda há dúvidas se o LP (???) The house of the Uncle San tenha realmente sido lançado)-199999
+ | gênero        = Rock
+ | gravadora     = DJ Vintinhu
+ | integrantes   = Macaco=Baixista, Zumbi=Guitarrista, Eric Buda=Vocalista, The Big Boss=Orgão, Sem Rosto=Bateria
+ | exintegrantes = Tarzan=Animal e rugidos, Alan Preço=Orgaõ, Gorila=Bateria}}
+
+'''The Animals''' é uma banda inglesa do tempo dos Beatles, e sua formação original é [[Gorila]], [[Macaco]], [[Zumbi]] e [[Tarzan]] e foi fundado em 1960, Porém, em 1961 entrou [[Eric Burdon|Eric Buda]] e [[Alan Price|Alan Preço]], que eram tão bons que Tarzan ficou com inveja e preferiu cantar ao lado de [[Mick Jagger|Mick Jegue]], seu primeiro hit foi "Noites Mágicas", também conhecido com "Dois filhos de [[San Francisco]]", em 1961, e depois teve outros hits como "Era uma casa muito engraçada", "Sabão crá-crá" e "We tem que sair of this place", "Oh no, Dom Breu Medão", e ´pareceram 3 vezes nos E.U.A., tocando até mesmo no programa "Eddie Murlhyvan", em 1966, o tecladista Alan Preço saiu, e também o baterista Gorila, para a entrada de Sem Rosto e The Big Boss. Depois disso tiveram mais um hit "Don't let me be Miss Underworld", mas nenhum hit depois disso, pois como Mick Jegue tinha proteção de Tarzan, consegue fazer "sucesso" até hoje, e eles foram esquecidos pois The Big Boss estragou tudo.
+
+
+==Discografia==
+*'''1920''' - The House of the uncle San
+*'''1961''' - Uma casa muito engraçada
+*'''1962''' - Tarzan saiu, e agora quem poderá nos defender?
+*'''1963''' - Zoológico
+*'''1966''' - Alan Preço teve seu preço
+*'''1967''' - Miss Underworld
+*'''1999''' - Sucessos mixados por DJ Vitinhu
+*'''2990''' - Músicas do tempo que não existiam super mega-legosuperatomaniacositomiofiose, e sim guitarra(que que isso), orgão(também eletrónico, mas não do corpo), baixo(que era muito alto) e bateria(sem ligar em nada)
+<br><br><br><br><br><br>
+
+{{Invasão Britânica}}
+{{Progressive rock}}
+{{Rhythm and blues}}
+
+[[Categoria:Bandas da Inglaterra|Animals]]
+[[Categoria:Artigos ligados à música a serem melhorados|Animals]]
+
+[[en:The Animals]]

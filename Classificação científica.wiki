@@ -1,0 +1,251 @@
+
+{{Biologia}}
+[[Arquivo:classifseresvivos.jpg|thumb|De cima pra baixo: Animalia, Chordata, Vertebrata... bah, tomar no cu velho, eu que não vou ler essa bosta!]]
+'''Classificação científica''' é um conceito criado na [[biologia]] pra separar os [[ser vivo|seres vivos]] em diversos pedacinhos, tudo organizadinho pra poder não bugar nossas cabeças na hora de estudar tudo isso, mas no fim das contas dá no mesmo, ninguém entende direito de forma alguma como pode a [[girafa]] e o [[ocapi]] serem da mesma família, ou por que diabos as [[cianofíceia]]s não são iguais as [[alga]]s e por que nenhuma delas fazem parte do reino das plantas.
+
+== História ==
+
+Aparentemente o primeiro a se preocupar com essa divisão foi [[Adão]], quando lá no [[Jardim do Éden]] deu nome a todos os bichos e plantas. Verdade seja dita: alguns acham que ele em alguns momentos deve ter se enganado, quando lembramos que umas traduções velhonas da Bíblia mencionam entre os animais comuns das turmas de lá seres como [[unicórnio]]s, bestas-feras, [[Leviatã]]s, dragões e outros seres que só sua irmãzinha que assiste [[My Little Pony]] continua a acreditar que existem mesmo.
+
+Muitoooooooooooooooooos anos depois, [[Noé]] (ou [[Deslistas:Versões do Dilúvio por diversas civilizações|alguma das versões dele]]) fizeram uma contagem geral de bichos pra levar em seu barquinho antes que as enchentes do [[Rio Tietê]] devorassem tudo ao redor. Entretanto essa classificação foi bem mixuruca, a julgar por considerar 7 casais de animais puros e aves, e apenas um casal de animais impuros, seja lá o que isso significa. Os carinhas que acreditam em [[evolucionismo teísta]] e bizarrices afins inclusive alegam que foi assim que os pobres [[dinossauro]]s bateram as botas, sendo assim eles deveriam ser mais impuros que tudo.
+
+[[Aristóteles]] aparentemente seria o primeiro que REALMENTE se preocupou em dividir direito essa porra toda, colocando tudo dividido como coisas de origem animal, vegetal ou mineral (igual a tia de [[Estudos Sociais]] diz na escolinha). Seu trabalho, chamado [[De Anima]] (que falava acerca da existência de almas de animais e vegetais e pra onde iam depois que morriam) foi traduzido e ampliado por [[Averroes]] e outros, e assim virou a fonte primária de muitos cientistas até hoje em dia pra definir as divisões.
+
+Por séculos com as viagens dos europeus pelo mundo afora foram tentando classificar usando os métodos aristotélicos, mas ainda cagando pra cacete ao criar criaturas como [[sereia]]s e [[reptiliano]]s, ou mesmo assumindo a existência de pedras falantes ([[golem|golens]]) ou [[abiogênese|criação espontânea]] de seres vivos. Tudo isso mudaria em quando do surgimento do [[Nomenclatura binomial|sistema binomial]] de classificação, obra do titio [[Carolus Linnaeus|Carlinhos Lineu]] antes de virar [[vigilante sanitário]] e virar pai d[[a Grande Família]]. Assim puderam enfim organizar o que era real e o que era mito (ex: [[tua mãe]]: real, [[teu pai]]: mito) e colocaram tudo em cantos diversos, utilizando de uma nomenclatura de dois nomes em [[latim]], tipo "[[Mulheres sapiens]]", e dependendo do caso, três nomes, tipo "[[Otharius pahus pikenus]]", normalmente a primeira palavra sendo o designativo do gênero do ser, ao passo que o segundo nome é uma característica específica que designa uma espécie. O caso de terceiro nome pode designar uma subespécie ou mutação ou similar.
+
+== Hierarquia ==
+
+Vamos explicar bem essas divisões usando como exemplos algumas espécies emblemáticas do nosso mundo real:
+
+<center>
+{| border="1" cellpadding="4" cellspacing="0" style="margin: 0.5em 1em 0.5em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse;"
+|- style="background:palegrey; border: 1px;"
+!style="width:16%; background:#f3f3f3;"|Taxon
+!style="width:16%; background:#f3f3f3;"|[[Mico Azul]]
+!style="width:16%; background:#f3f3f3;"|[[Otharius pahus pikenus|Otários do pau pequeno]]
+!style="width:16%; background:#f3f3f3;"|[[Carla Perez]]
+!style="width:16%; background:#f3f3f3;"|[[Sifudênio]]
+!style="width:16%; background:#f3f3f3;"|[[Tua Mãe]]
+|-
+|[[Biota (ecologia)|Superdomínio]]
+|[[Biota (taxonomia)|Biota]]
+|[[Impotência sexual|Pititota]]
+|[[Idiota]]
+|[[Vírus|Abiota]]
+|[[Demônio|Infernota]]
+|-
+| style="background:#f2f2f2;" |'''[[Domínio (biologia)|Domínio]], Super-reino ou Império'''
+|[[Eukaryota]]
+|[[Eukaryota]]
+|[[Eukaryota]] (mas há controvérsias) 
+|[[Vírus de computador]]
+|[[Desconhecido]]
+|-
+| style="background:#f2f2f2;" |'''[[Reino (biologia)|Reino]]'''
+|[[Animalia]]
+|[[Animalia]]
+|[[Plantae]]
+|Vírus não tem reino
+|[[Casa da mãe Joana|Casae Mae Joanae]]
+|-
+|[[SubReino|Subreino]]
+|[[Eumetazoa]]
+|[[Eumetazoa]]
+|
+|
+|
+|-
+|[[Infrarreino]]
+|[[Bilateria]]
+|[[Bilateria]]
+|
+|
+|
+|-
+|[[Superfilo|Superphylum]]
+|[[Deuterostomia]]
+|[[Deuterostomia]]
+|[[Spermatophyta]]
+|
+|
+|-
+|style="background:#f2f2f2;"|'''[[Filo|Phylum]]''' ou '''[[Divisão (biologia)|Divisão]]'''
+|[[Cordado|Chordata]]
+|[[Cordado|Chordata]], mas sem piroca
+|[[Espermatófito|Magnoliophyta]]
+|Computadobuceta
+|[[Cordado|Chordata]], na teoria
+|-
+|style="background:#f2f2f2;"|[[Subfilo|Subphylum]] ou Subdivisão
+|[[Vertebrata]]
+|[[Vertebrata]] sem piroca
+|[[Magnoliophyta|Magnoliophytina]]*
+|Imploditocacilda
+|[[Vertebrata]], dizem
+|-
+|[[Infrafilo|Infraphylun]] ou Infradivisão
+|[[Gnatostomados]]
+|Despirocados
+|
+|
+|[[Gnatostomados]]
+|-
+|[[Classe (biologia)|Superclasse]]
+|[[Tetrapoda]]
+|Pentapoda com deficiência na quinta pata
+|Descelebradópoda
+|
+|[[Tetrapoda]]
+|-
+| style="background:#f2f2f2;" |'''[[Classe (biologia)|Classe]]'''
+|[[Mammalia]]
+|[[Mammalia]] sem ter nada a ser mamado
+|[[Magnoliopsida]] 
+|
+|[[Mammalia]] que ninguém mais quer mamar
+|-
+| style="background:#f2f2f2;" |[[Subclasse]] ou Coorte
+|[[Theria]]
+|Não-[[Theria]] Rolah
+|[[Magnoliidae]]
+|
+|His[[Theria]] 
+|-
+|[[Infraclasse]] ou Legiâo <s>Urbana<s>
+|[[Eutheria]] / [[Placentalia]]
+|[[Eutheria]] / [[Placentalia]]
+|
+|
+|
+|-
+|[[Parvclasse]]
+|
+|[[Exafroplacentalia]]
+|Exafrocerebralia
+|
+|Exafrovirginia
+|-
+|[[Superordem]]
+|[[Euarchontoglires]]
+|[[Euarchontoglires]]
+|
+|
+|[[Euarchontoglires]]?
+|-
+|style="background:#f2f2f2;"|'''[[Ordem (biologia)|Ordem]]'''
+|[[Primata]]s
+|[[Primata]]s
+|[[Fabales]]
+|
+|[[Puta]]tas
+|-
+|style="background:#f2f2f2;"|[[Subordem]]
+|[[Haplorrhini]]
+|[[Haplorrhini]]
+|[[Fabales|Fabineae]]
+|
+|
+|-
+|[[Infraordem]]
+|[[Simiiformes]]
+|[[Simiiformes]]
+|
+|
+|
+|-
+|[[Parvordem]]
+|
+|[[Catarrhini]]
+|
+|
+|Catarrhinho
+|-
+|[[Superfamília]]
+|
+|[[Hominoidea]]
+|Encefaloinutea
+|
+|Muliemorridea
+|-
+|style="background:#f2f2f2;"|'''[[Família (biologia)|Família]]'''
+|[[Callitrichidae]]
+|[[Hominidae]]
+|[[Fabaceae]]
+|
+|[[Hominidae|Mamaenidae]]
+|-
+|style="background:#f2f2f2;"|[[Subfamília]]
+|[[Callitrichidae]]
+|[[Homininae]]
+|[[Faboideae]] 
+|
+|Filhadaputae
+|-
+|[[Tribo (biologia)|Tribo]]
+|
+|[[Hominini]]
+|
+|
+|Mulierini
+|-
+|[[Subtribo]]
+|
+|[[Hominina]]
+|
+|
+|Mininina
+|-
+|style="background:#f2f2f2;"|'''[[Género (biologia)|Género]]'''
+|''[[Leontopithecus]]''
+|''[[Otário|Otharius]]''
+|''[[Pisum]]'' 
+|''Sifudenius''
+|''[[Mãe|Maternus]]''
+|-
+|[[Subgénero]]
+|''Leontopithecosazuli''
+|
+|
+|
+|
+|-
+|[[Seção (botânica)|Seção]]
+|
+|
+|
+|''Seu PC JÁ ERA!''
+|
+|-
+|[[Seção (botânica)|Subseção]]
+|
+|
+|
+|''VAI COMPRAR OUTRO!''
+|
+|-
+|[[Superespécie]]
+|[[Mico Rosa|''Leontopithecus roseaus'']]
+|
+|
+|
+|
+|-
+|style="background:#f2f2f2;"|'''[[Espécie]]'''
+|''[[Mico Azul|L. azulizuli]]''
+|''O. pahus''
+|''[[Coma|P. descerebradus]]''
+|''[[Sifudênio|S. pecemorrendinus]]''
+|''[[Tua mãe|M. putinas]]''
+|-
+|[[Subespécie|Subspécie]]
+|
+|[[Otharius pahus pikenus|O. pahus pikenus]]
+|
+|
+|M. putinas filis
+|}
+</center>
+
+{{Expandir}}
+
+[[Categoria:Taxonomia]]

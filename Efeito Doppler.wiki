@@ -1,0 +1,42 @@
+{{Física}}
+
+
+== O que é? ==
+
+A função do '''Efeito Doppler''' é explicar porque a ambulância anda tão rápido só para carregar pessoas já mortas e medir quantos acentos agudos existem em seu som usando fórmulas matemáticas sem sentido. Além desta, o efeito foi usado para saber algo tão [[Ironia|importante]] para a sua vida quanto comer ou respirar, que foi a descoberta que o universo em que você habita não é grande e infinito o bastante e está, graças ao grande [[Big Bang|peido]] inicial, expandindo, expandindo e expandindo mais ainda com velocidade cada vez maior, a ponto de você se achar cada vez  mais insignificante e sem valor para um universo tão grande a cada segundo. Não podemos deixar de citar que esse efeito, com a sua fórmula, é responsável por afundar de vez a você e sua média na escola. Nenhum adolescente em sã consciência consegue decorar todos os detalhes de um efeito tão [[mentira|importante]] e presente em nosso cotidiano.
+
+=== Fórmula ===
+Aqui está à fórmula mais comum, ela calcula <s>nada</s> a mudança da frequência da onda conforme<br/> o movimento da fonte em relação ao observador e vice-versa.
+
+
+
+<math>F_o = F_f  \frac{V \pm V_o}{ V \mp V_f}</math><br/>
+
+:Onde:
+*<math>F_o</math> = bosta final.
+*<math>F_f</math> = bosta original.
+*<math>V</math> = velocidade do grito do morto ao morrer
+*<math>V_o</math> = quantas dorgas o morto usou.
+*<math>V_f</math> = vontade do motorista da ambulância em salvar os mortos.
+
+[[Arquivo:Sheldon-doppler-effect.jpg‎|thumb|right|280px|Sheldon, fã nº 1 do efeito Doppler com a fantasia dele]]
+
+
+== História ==
+
+Esse negócio foi inventado pelo antigo imperador dos mafagafos Padre Quevedo da Silva Doppler que<br/> pela primeira vez disse Icso Ecziste.<br/>
+O grande feito ocorreu em 7,432e+57 a. E (antes de Einstein)<br/>
+
+
+== Exemplos práticos e descobertas ==
+
+
+A criação do Efeito Doppler foi um grande feito <s>dos ET's</s> da humanidade e gerou uma série<br/>
+de descobertas importantes:
+
+*Se você for arremessado por uma catapulta em direção a um monte de bosta a uma velocidade de 280.000Km/s à bosta e o resto do universo ficarão azuis. Além disso, sua morte será muito honrada.
+*O som da ambulância muda de tom porque uma bruxa colocou um feitiço nela.
+*Se você torturar e/ou matar uma pessoa enquanto ela está andando da velocidade do som ninguém ouvirá seus gritos de dor.
+*Tudo isso só ocorre porque um macumbeiro disse "que se faça a luz"
+
+{{esboço}}

@@ -1,0 +1,35 @@
+{{terra}}
+{{PokéBox
+| imagem = Gible.png
+| frase = Não subestimem meu tamanho!
+| tamanho = 200
+| tipo1 = Dragon
+| tipo2 = Ground
+| espécie = Tubragão
+| pokedex = 443
+| nihongo = フカマル
+| romaji = Fukamaru
+| cadeia evolutiva = [[Arquivo:GibleSprite.gif|link=Gible|Gible]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:GabiteSprite.gif|link=Gabite|Gabite]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:GarchompSprite.gif|link=Garchomp|Garchomp]]
+}}
+{{vqd|[[Tubarão]] terrestre}}
+{{vqd|Tubarão que acha que é [[dragão]]}}
+{{vqd|[[Carvanha]] terrestre}}
+{{c|Muito pequeno pro meu gosto.|Ash|Gible}}
+{{c|Espere só até eu evoluir|Gible|citação acima}}
+{{c|[[Arquivo:FU.JPG|60px]]|Ash ao ter sua cabeça mordida pelo seu Gible}}
+
+'''Gible''' é um tubarãozinho com pernas que acha que é um dragão (apesar do seu tipo ele nem chega perto de um). Ao contrário do que parece, os chifres em formato de propulsores em sua cabeça não são pra fazer ele se parecer com um [[jato]], mas sim com a [[Dona Florinda]].
+
+O Gible evolui para Gabite depois de passar pro nível [[24]] (ui!).
+[[Arquivo:Ash Gible.png|thumb|left|{{c|Me chama de pequeno denovo, que você vai ver uma coisa|Gible|[[alguém]] chamá-lo de pequeno}}]]
+
+== Características ==
+Gible é um pokémon metidinho a fodão que adora morder o [[bumbum]] de seus treinadores. Ele tem dentes que não conseguem nem mesmo mastigar um [[Caterpie]] direito, quanto mais mastigar um [[Geodude]], por exemplo. Essa é a razão pela qual ele não aprende Bite nem Crunch.
+
+Ele pode parecer um tubarão mas na verdade de tubarão mesmo ele não tem [[porra nenhuma]]. Aliás, não há como ele poder roubar o posto de tubarão pokémon que já pertence ao [[Sharpedo]]. Portanto não se sabe o que i Gible é exatamente, já que ele é uma mistura louca de um tubarão com dragão, dinossauro e duendezinho com os bóbis da Dona Florinda. Além de ele aparentar ser gordo.
+
+Os Gibles são carnívoros ou seja, eles comem carne, então não deixe eles morderem tua bunda se não é morte certa! E você nunca mais poderá [[dar a bunda]]...
+
+{{poke4}}
+
+[[Categoria:Tubarões]]

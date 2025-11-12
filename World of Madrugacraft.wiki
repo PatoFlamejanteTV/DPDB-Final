@@ -1,0 +1,357 @@
+{{Nota:|Não confundir com [[Madrugacraft]]}}
+[[Arquivo:World of madrugacraft character creation.png|thumb|250px|Screenshot da tela de criação do personagem, note os gráficos altamente realistas.]]
+
+'''World of Madrugacraft''' (em espanhol '''World of Ramoncraft''') é um jogo de [[MMORPG]]  viciante desenvolvido em uma parceria entre a [[Televisa|Televisa Entertainment]], [[SBT|SBT Studios]] e [[Desciclopédia|Desciclopédia Arts]] com o objetivo da dominação mundial através do vício, da virginização de seus jogadores, e do consumo de refrigerantes e salgadinhos que vem fazendo a alegria dos donos de Lan Houses do mundo.
+
+Ao contrário de muitos outros jogos, WoM é um jogo pago que requer a assinatura e o pagamento de mensalidades, estas mensalidades podem ser pagas através do carnê do [[Baú da Felicidade]].
+
+==Mundo==
+
+No WoM o jogador irá se aventurar pelo mundo fictício do [[México]], as principais localizações incluem a [[Vila do Chaves]], [[Venda da Esquina]], [[Tangamandápio]], [[Acapulco]] entre outras.
+
+==Facções==
+
+[[Arquivo:Madruga fight.png|thumb|PvP entre Horda e Aliança.]]
+O mundo de WoM é formado por 2 facções rivais que se odeiam, a Aliança e a Horda, a [[Aliança]] é formada pelos personagens cultos, ricos e frescos, a [[Horda]] é a gentalha.
+
+==Personagens==
+
+O jogador escolhe o seu jogador para se aventurar nas terras mágicas do [[México]], abaixo segue a lista dos personagens jogáveis e suas Spells.
+
+===Aliança===
+
+*[[Dona Florinda]]
+
+Dona florinda é lider da Aliança e é a mais susseciva raça de pancadaria corpo a corpo.
+
+'''Classes permitidas''' - Warrior, Paladin, Rogue, Warlock, Hunter.
+'''Cidade principal''' - Casa numero 14 - Vila do chaves.
+
+'''Habilidades Ofensivas:'''
+**Tapa na Cara - Dá um forte tapa no inimigo.
+**Não se Misturar Com a Gentalha - Use para escapar rapidamente dos inimigos próximos.
+**Velha Valentona - Aumenta o poder de ataque por alguns segundos.
+**Conjurar Churros - Conjura churros que podem ser usados para restaurar Health.
+**Segure para mim, Tesouro - Da alguns de seus itens a um aliado para aumentar a agilidade. Caso o aliado não devolva os itens mais tarde, ele receberá queimaduras.
+**Conjurar Xícara de Café - Conjura xícaras de café que podem ser usados para restaurar Mana.
+**Não se misture com essa gentalha - Sammona Kiko para dar três golpes no peito do inimigo.
+**Alfinetes - Fura um inimigo com um alfinete e faz ele pensar que foi picado por um escorpião. Mas pode ferir aliados.
+
+'''Habilidade Racial:'''
+
+**Gentalha - 10% A mais de dano quando lutar com Beasts e Seu madruga.
+**Restaurante da Dona Florinda - Habilidades de Cooking aumenta em 5.
+**Toma!! - Aumenta a esperteza em 3 lutando desarmado.
+
+----
+
+*[[Senhor Barriga]]
+
+Nobre Senhor Barriga é a raça mais nobre de toda vila do chaves, quase todo territorio do jogo é propriedade dessa raça. São poderosos em ataques corpo a corpo ou com magias.
+
+'''Classes permitidas''' - Warrior, Paladin, Rogue, Priest, Hunter.
+'''Cidade principal''' - Casa do senhor barriga.
+
+
+'''Habilidades Ofensivas:'''
+**Esmagar - Pula em cima do inimigo esmagando-o.
+**Pague o Aluguel! - Consegue retirar alguns golds do inimigo.
+**Já Chegou o Disco Voador - Causa grande dano ao inimigo, só pode ser usado como primeiro ataque.
+**Já se vai o Disco Voador -transporta instantâneamente o Jogador para fora da batalha.
+**Corpo do Benito - Atira uma bola de boliche no inimigo causando alto dano.
+**Basta! - Stuna o inimigo.
+
+'''Habilidade Racial:'''
+**Senhor Barriga Gordo e Pesado - 10% a mais de força de ataque quando lutando corpo a corpo
+**Cobrar o aluguel - 2x mais de Gold dropa dos inimigos
+**Ser Recebido com uma Pancada - Sempre que estiver no território Vila do Chaves, toma Stun Instantâneo do Personagem Chaves
+----
+
+[[Arquivo:Quico mount.png|thumb|Quico e sua montaria épica.]]
+*[[Quico]]
+
+Quico é um forte guerreiro que herdou abilidades de Dona Florinda, e possui diversos truques para enganar o inimigo (Ou ele mesmo).
+
+'''Classes permitidas''' - Warrior, Hunter, Rogue, Warlock, Mage, Druid. 
+'''Cidade principal''' - Casa Nº14 - Vila do chaves.
+
+
+'''Habilidades:'''
+**Gentalha! Gentalha! - Causa dano e empurra o inimigo para trás.
+**Squareball - Ataca com a bola quadrada.
+**Cale-se Você me Deixa Louco! - Bota Silence no inimigo, impedindo ele de usar magia.
+**Você Não Vai Com a Minha Cara - Agra o inimigo para Quico.
+**Narigadas na Mão - Quico dá narigadas na mão do inimigo stunando a si próprio.
+**AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAÉ A AMBULÂNCIA, BESTAAAA!: Summona uma ambulância que atropela o inimigo que está em Fear, por causa de seu escândalo.
+**Summon: Madruguinha - Invoca um pet madruguinha para lutar junto com Quico.
+**Summon: Madruguinha Regador - Transforma o pet madruguinha na forma de regador para spells de agua.
+**Summon: Senhor Barriga - Invoca um clone totalmente idêntico ao Senhor Barriga para ser sua montaria épica!
+
+'''Habilidade Racial:'''
+**Quico não seja burro - 10% a mais de intelecto.
+**O gato ou o quico - Enquanto o mascote estiver summonado, seu poder de ataque e seu poder de magia é apliado em 15%
+**Da Parte de quem? - Aumenta a Dodge do Quico.
+**Aluno de nível Quico - 10 Pontos reduzidos em todas as profissões. 15 pontos reduzidos em inteligencia.
+
+----
+*[[Professor Girafales]]
+Professor Girafales é a raça mais magica e inteligente do mundo da vila do chaves.
+
+'''Classes permitidas''' - Rogue, Paladin, Mage, Warlock, priest.
+'''Cidade principal''' - [[Tangamandápio]].
+
+
+'''Habilidades:'''
+**Esgrima - Ataca com golpes de esgrima. Dano dobrado se o alvo for Seu Madruga.
+**Tá Tá Tá Tá Tá! - Forte ataque que pode stunar o inimigo.
+**Si-Len-Cio! - Coloca Silence nos inimigos próximos.
+**Aula de Aritmética - Coloca Sleep nos inimigos próximos.
+**Depois da Senhora - Cancela o próprio ataque e adiciona um ataque para um alvo amigo.
+**O Burro na Frente, Pode Passar - Coloca um inimigo na frente do Professor Girafales.
+**Summon: Massacote - Invoca um gato com o nome de Massacote.
+**Summon: Animal Que Come Com o Rabo - Invoca um animal aléatório para lutar junto com o Professor Girafales desde que coma com o rabo.
+**Estava Quico e Eu - Interrompe o Cast da magia racial de Chaves (Estava Eu e Quico).
+
+'''Habilidade Racial:'''
+**Professor Linguiça - Devido a sua altura seu spirit é aumentado 50.
+**Pedagogo - Os niveis de todas as profissões sao aumentados em 10.
+
+===Horda===
+
+[[Arquivo:Retrato seu madruga.png|thumb|Bandeira da Horda no Battlegrounds.]]
+[[Arquivo:Madruga pantera cor de rosa.jpg|thumb|Madruga em Cat Form.]]
+
+Seu Madruga, lider da Horda é inimigo mortal de todos os seres ricos e snoobs, por se parecer com um animal tem grandes contatos com a natureza dos espiritos.
+
+*[[Seu Madruga]]
+
+'''Classes permitidas''' - Warrior, Hunter, Rogue, Shaman, Druida, Warlock .
+'''Cidade principal''' - Casa do Seu madruga - Vila do Chaves.
+
+'''Habilidades:'''
+**Toma! - Forte ataque na cabeça podendo causar choro, mas inviável caso o inimigo esteja de capacete.
+**Beliscão - Forte ataque no braço podendo anular o ataque do inimigo, também pode causar choro.
+**Ataque Velho do Saco - Um forte ataque com o saco do velho do saco.
+**Chimpanzé Raivoso - Aumenta a força de Seu Madruga por um determinado tempo e o deixa invencivel por segundos.
+**Abre a Torneira! - Lança um jato de água causando dano ao inimigo.
+**As Pessoas Boas Devem Amar Seus Inimigos - Use para diminuir a Threat do Seu Madruga.
+**Sair Para Procurar Trabalho - Desaparece por alguns instantes.
+**A Vingança Nunca é Plena, Mata a Alma e Envenena! - Reduz à Zero o Threat do Inimigo, contendo 50% de chance de causar efeito em massa, com os inimigos o difundindo entre si!
+**As pessoas boas amam seus inimigos! - Faz com que os jogadores da Aliança vejam Seu Madruga como um jogador da mesma facção.
+**Cruzado de direita: Ataque final, sempre usado contra Sr. Barriga ( +200 de dano se estiver usando luvas de boxe)
+
+'''Habilidade Racial:'''
+**Da licencinha que agora vou tomar um cafézinho - Desfaz qualquer efeito de FEAR, SLEEP ou STUN.
+**Não pagar o aluguel - Torna seu madruga imune a roubo de gold ou pagamento de aluguel.
+**Só nao te dou outra por que... - Magias e Feitiços causam 50% menos de Threat nos inimigos.
+**Loteria!! - Efeito purge, retira todos os buffs do inimigo.Aumenta o Threat contra Dona Florinda
+**Leiteiro - Aumenta a recuperação de mana em 5%.
+
+----
+
+*[[Bruxa do 71]]
+A raça mais magica, focada em magias do tipo Shadow, Bruxa do 71 é um ser magico do mal poderoso e famosa pelas suas maldições.
+
+'''Classes permitidas''' - Warlock, Mage, Priest, Shaman, Hunter.
+'''Cidade principal''' - Casa do Seu madruga - Vila do Chaves.
+
+'''Habilidades:'''
+
+**Desapareça! - Magia que pode fazer o inimigo desaparecer.
+**Beijo do Diabo - Força o inimigo a falar em língua demoníaca, aumentando o ataque mágico da bruxa do 71 em 25%.
+**Mau Olhado - Causa catapora no inimigo, deixando-o mais fraco.
+**Polymorph: Sapo - Transforma um inimigo em sapo.
+**Summon: Satanás - Invoca o satanás para lutar junto com a bruxa do 71.
+**Espetar com a Ponta do Guarda-Chuva: Stuna o inimigo, podendo causar cegueira se usado contra Quico
+
+
+'''Habilidade Racial:''' 
+**Pode usar vassouras para voar.
+**Colonia de Paris - Nivel nas profissões Alquimista e Feiticeiro aumentado em 20.
+**Pacto com satanas - Enquanto o Satanas estiver summonado, sua resistencia shadow é aumentada em 20.
+
+----
+
+*[[Chaves]]
+Chaves é um menino pobre que aprendeu suas abilidades de luta e pontaria nas ruas e nos guetos, tornando se uma exelente raça de combate corpo a corpo e a distancia.
+
+
+'''Classes permitidas''' - Warrior, Rogue, Hunter, Mage.
+'''Cidade principal''' - Barril - Vila do Chaves.
+
+'''Habilidades:'''
+**Tripla Pancada - Dá 3 pancadas no inimigo.
+**Prefiro Morrer do Que Perder a Vida - Se sacrifica para causar um grande dano nos inimigos ao redor.
+**O Senhor Não Vai Morrer, Vão Matar o Senhor - Sacrifica um membro do grupo para causar um grande dano nos inimigos ao redor.
+**Escudo do Barril - Cria um forte escudo no formato de barril que diminui o dano levado.
+**Piripaque - Use para ficar paralizado, pode ser cancelado através de spells de água.
+**Ai Que Burro Dá Zero Pra Ele - Faz o inimigo errar o ataque.
+**Foi Sem Querer Querendo - Use para diminuir a Threat do Chaves.
+**Conjurar Refresco - Conjura refrescos que podem ser usados para restaurar Mana.
+**Mirror Image: Cente - Cria uma cópia de um garoto Cente muito parecido com Chaves.
+**Summon: Cão Arrependido - Invoca um cão arrependido para lutar junto com o Chaves.
+**Summon: Chafundifórnio - Invoca um chafundifórnio para lutar junto com o Chaves.
+**Summon: [[Chinforífola]] - Invoca o desenho da chinforínfola, deixando o inimigo destraído com tamanho talento artístico.
+**Estava Eu e Quico - Interrompe o Cast da magia racial de Girafales (Estava Quico e Eu.
+**Dona Florinda Parece Macaca de Feira: Silencia a party inimiga, mas aumenta Threat se usado contra [[Professor Girafales]]
+**Beliscadinha Na Coxinha: chance de roubar heal do inimigo, chance 100% se usado contra bruxa do 71.
+
+''' Habilidade Racial: ''' 
+**Ele tem habilidade de se esconder dentro de qualquer barril.
+**Matar Lagartixas - Sua chance de critico é aumentada em 1% enquanto usando Estilingues, Guns e Zarabatanas.
+**Sanduiche de presunto - Todas as comidas e bebidas consumidas aumentam seus efeitos em 50%.
+**Agora Sim Eu Vou Quebrar Seus Dentes: sua chance de crítico é aumentada em 15% se estiver empunhando vassoura.
+
+----
+
+*[[Chiquinha]]
+
+Chiquinha, diferente do que se pensa, Nao herdou abilidades de seu pai Seu Madruga, Chiquinha é esperta e é exelente em taticas para enganar o inimigo.
+
+'''Classes permitidas''' - Warrior, Rogue, Hunter, Mage, Warlock, Shaman.
+'''Cidade principal''' - Casa do Seu Madruga - Vila do Chaves.
+
+
+'''Habilidades:'''
+
+**Lero Lero - Dá um ataque sacana e corre para longe.
+**Se Sente Mal? - Cura um alvo amigo.
+**Carne do Burro Não É Transparente - Afasta a Chiquinha da frente do inimigo.
+**Atirar Bombinha - Atira uma bombinha no inimigo.
+**Chute - Chuta a canela do inimigo.
+**Conjurar Pastelzinho - Conjura pasteizinhos que podem ser usados para restaurar Health.
+**Summon: Peludinho - Invoca um cão peludinho para lutar junto com a Chiquinha.
+**Atirar Zabaratana - dá um ataque surpresa aumentando a threat entre Quico e Chaves
+
+'''Habilidade Racial:'''
+
+**Cruz vermelha - Seus efeitos de cura tem 10% a mais de efeito.
+**Esconder a cinta - Efeitos de desarmar e silenciar duram 30% mais no inimigo.
+**O beijo da náusea - Paralisa o inimigo por 30 segundos.
+**O que você tem de burro você tem de burro - Diminui em 50% o Intellect e o Spirit do inimigo.
+
+==Cidades==
+
+*[[Vila do Chaves]] - Cidade principal do Chaves, é dividida em 3 partes, o pátio principal, o outro pátio e a parte da rua, contém algumas lojas, um parque, uma barbearia, restaurante da Dona Florinda onde pode-se comprar sanduíches de presunto, uma banca de jornal e 2 lojas de bebidas (a Tienda del Chavo e o Super de Quico), é onde também acontece os principais eventos do jogo como o Festival da Boa Vizinhança.
+
+*[[Tangamandápio]] - Maior cidade do jogo, de tamanho aproximado de Nova York, é o único local onde pode-se mandar cartas para outros jogadores que são entregues pessoalmente por Jaiminho, o líder da cidade.
+
+*[[Acapulco]] - Cidade longe e acessível apenas com muito gold ou através de bilhetes premiados que dão uma passagem para o local, é o único local onde pode-se comprar maletas (bags) para expandir a capacidade de carregar itens, possui uma grande praia e um grande hotel (Inn) onde pode-se setar a Hearthstone.
+
+*[[Venda da Esquina]] - Uma espécie de Item Shop, o melhor item para aumentar Healt são os pirulitos de 2 cruzados.
+
+==Instances==
+
+O jogo também contém com Dungeons instanciadas onde os jogadores formam Raids para combater os Boss, segue a lista de algumas instances do jogo.
+
+*Casa da Bruxa do 71 - Instance Low Level na Vila do Chaves, onde os jogadores precisam perder o medo de entrar na casa da bruxa, os principais bosses são o Satanás e a Bruxa do 71 da Burning Legion, os Bosses dropam pirulitos.
+
+*Restaurante da Dona Florinda - Local onde deve-se formar um grupo para derrotar um rato gigante que habita o restaurante, também contém o monstro mosca da sopa, os bosses dropam a placa do restaurante e sanduíches de presunto.
+
+*Escola - Dungeon que requer alto level de burrice, deve-se enfrentar o boss Professor Girafales da Burning Legion para conseguir passar no teste de aritmética, o boss dropa uma estrelinha de bom menino.
+
+* 2º Pátio da Vila - Instance que leva você ao segundo pátio da vila, enfrentando o boss ''Study Quico'', intens de loot: Barquinho de papel,Barquinho de Plástico e Leite de Burra.
+
+==Bosses==
+
+O jogo contem varios inimigos com os quais você pode matar pra conseguir experiencia:
+
+*Satanas
+*Chafundifórnio
+*Regador
+*Ratinho do Quico
+*O animal que come com o rabo
+*Churrumino
+*Churilóflis
+*Madruguinha
+*Largatixas
+*Espiriquidiberto
+*Inseptos
+
+==Expansões==
+
+Posteriormente ao lançamento devido ao grande sucesso de seus mais de 90 bilhões de jogadores foram lançadas expansões para aumentar <s>a conta bancárias dos produtores</s> o desejo de diversão dos jogadores. Eis as expansões lançadas até o momento:
+
+===World of Madrugacraft: The Burning Vencidad===
+
+[[Arquivo:Prohibidos animales.png|thumb|You are not prepared!]]
+Primeira expansão do jogo, a história se passa quando é colocado um cartaz na vila dizendo que nela estão proibidos os animais, a principal instance é o carequinha que quer comprar a vila, também foi adicionada mais uma área, Outland, que é acessada através do Dark Portal (portão que fica na entrada da vila). Foram adicionados 2 personagens jogáveis, na Aliança foi adicionado Nhonho e na Horda foi adicionado Dona Neves, eis as suas listas de habilidades:
+
+*[[Nhonho]]
+**Barrigada - Dá uma forte barrigada no inimigo.
+**Olha Ele Ein! Olha Ele Ein - Use para dimunuir o dano recebido do inimigo.
+**Throw Melancia - Atira uma melancia no inimigo.
+**Ajuda Da Cruz Vermelha - Cura um membro do grupo.
+**Veja a Baleia Cor-de-Rosa - Provoca o alvo, aumentando a threat do Nhonho.
+
+*[[Dona Neves]]
+**Tchê Tchê Tchê Tchê Tchê - Ri do inimigo, diminuindo seus stats.
+**Joana D'arc Form - Transforma Dona Neves para a forma de Joana D'arc, parecendo estar louca e que pode resistir as habilidades inimigas que tiram gold.
+**Alfafa Para Dona Neves (APDN) - Alimenta Dona Neves com alfafa para aumentar a Health.
+**Dona Neves Velha Reumática (DNVR) - Use para diminuir a Threat do inimigo.
+**Que Que Que Que Como? - Use para causar fúria em Dona Neves aumentando seu poder de ataque.
+**Dar Uma De Louca - Deixa O Opponente Com Fear E Faz Se Borrar De Medo
+**Summon:Summonar Chiquinha para Assustar os Opponentes
+
+===World of Madrugacraft: Wrath of the Chapolim King===
+[[Arquivo:Chipotechillon.jpg‎|thumb|BiônicaMourne.]]
+Segunda expansão do jogo, nela o personagem principal é [[Chespirito]], que se tornou o Chapolim King depois de sua batalha épica contra o [[Super Sam]] pegando a sagrada [[Marreta Biônica]] em Northrend (que estava nas mãos do [[abominável homem das neves]]), acorda depois de estar dormindo no saco de dormir. Essa expansão conta com a nova classe jogável de Chapolim, segue a lista de suas habilidades:
+
+*[[Chapolim]]
+**Meus movimentos são friamente calculados - Recupera chapolim do status de stun, sleep, silence, daze ou qualquer outro.
+**Não Contavam Com Minha Astúcia - Aumenta o poder de ataque de chapolin por 20 segundos.
+**Palma Palma Não Priêmos Cânico - Reduz o threat da party, há uma chance de curar todos os integrantes do grupo.
+**Silêncio! Minhas Anteninhas Estão Detectando a Presença do inimigo - Use para detectar inimigos ocultos ao redor.
+**Pepe Já Tirei a Vela! - Abre um portal sugando o inimigo.
+**Sigam-me os Bons - Summona todos os membros em volta do Chapolim.
+**Chuva de Aerolitos - Joga uma chuva de aerolitos no inimigo.
+**Chirrin Chirrion do Diabo - Use para fazer objetos aparecerem e desaparecerem.
+**Conjurar Extrato de Energia Volátil - Conjura extratos de enrgia volátil que podem ser usados para fazer os jogadores voarem.
+**Conjurar Pilulas de Nanicolina - Conjura Pilulas que diminuem a força de chapolim reduzindo seu tamanho, mas aumentando sua esquiva e velocidade de ataque.
+
+===World of Madrugacraft: Catapora===
+
+A mais nova expansão para encher os cofres da [[Televisa]], agora o mundo inteiro foi radicalmente mudado (na verdade os produtores modificram as texturas no [[Paint]]), foram adicionadas mais dois personagens à saga, [[Pópis]] pela Aliança e [[Godinez]] pela Horda.
+
+*[[Pópis]]
+**Conta tudo pra sua Mãe - Invoca a mãe de um companheiro da equipe para lutar também.
+**Summon: Serafina - Invoca a Serafina para lutar ao seu lado.
+**Golpe da Serafina - Pópis pega a Serafina e golpeia o adversário causando grande dano.
+**Summon: Dona Florinda - Pópis invoca Dona Florinda para começar a atacar os adversários. Os ataques contam com o triplo de dano caso seja o Seu Madruga.
+**Mão-Leve- Pode roubar livros de outros jogadores.
+
+*[[Godinez]]
+**Mas por que eu? - O alvo do ataque adversário muda de Godinez para outro jogador.
+**Não sei! - Perde 10% de alguma habilidade, mas dá um golpe devastador no adversário.
+**Não fui eu!!!! - Nega algum efeito jogado em Godinez e diminui a treath do Godinez em 50%.
+**Tabuleiro de Xadrez para principiante - Cria uma área em que só podem haver 4 jogadores. Essa área pode ser dividida em 4 sub-áreas.
+**Assobio - Pode mandar um jogador para longe e causa dano.
+**Com as pérolas! - Joga pérolas no adversário, causando danos consecutivos.
+**Seu Madruga, já posso respirar? - Renova 40% do HP do Godinez em 10 segundos.
+
+
+===World of Madrugacraft: Cartas De Tamgamandapio===
+
+Expansão que esta ainda por vir (*[[ou não]]), onde Sr. Carteiro Chamado como *[[Jaiminho]] Quis Entrar Para a Guerra e se torna a nova raça jogavel. Esta raça é neutra e pode ser criado em ambas as facções (para noobs).
+
+*[[Jaiminho]]
+
+**Tenho Que Evitar a Fadiga - Esse Poder Faz Que Ele Ganhar HP 2x Mais Rapido.
+**É uma cidadezinha pequena, quase do tamanho de Nova York - Faz Jaiminho Multiplica Seu Status Enquanto Estiver em Tangamandapio.
+**Uma Torta pra Jaiminho (UTPJ) - Restaura 50% do HP
+
+**Esta expansão conta com duas novas instancias.
+
+**Jaiminho's Lair - Onde os jogadores terão que enfrentar o grande e terrível chefão  Jaiminho O entregador de cartas.
+**Batalha por Tamgamandapio - É uma instancia PVP, onde as facções terão que usar suas burrices em uma batalha épica para conquistar a cidade de Tamgamandapio.
+
+==Ver também==
+
+*[[MMORPG]]
+*[[World of Warcraft]]
+
+
+{{Chaves2}}
+
+[[Categoria:Jogos da Blizzard]]
+[[Categoria:Jogos para PC]]

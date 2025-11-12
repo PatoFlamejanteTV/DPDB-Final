@@ -1,0 +1,35 @@
+{{Você quis dizer|[[Pentium]]}}
+{{Você quis dizer|Lentium 8D}}
+{{C|Anda logo seu merda!|Usuário de computador|Pentium D}}
+{{C|XD|Pentium D}}
+{{C|Esse processador só fica aí rindo, ao invés de carregar o Windows|Nerd|Pentium D}}
+{{C|Vou trocar pra um Core 2 Duo|Nerd|Pentium D}}
+{{c|:(|Pentium D|A resposta acima}}
+
+O Pentium D foi fabricado para ser muito mais rápido que o [[Pentium|Lentium]], mas uma falha no projeto fez com que o processador fosse preguiçoso e ficasse rindo da cara do usuário. E o único jeito de consertar a falha seria recomeçar do zero. Mas a falha só foi descoberta uma semana antes do lançamento, então ela foi deixada de lado e agora o Pentium D é pior que o [[Pentium|Lentium]], e só funciona na base do grito e tapas.
+
+== Características ==
+* Clock: 3 GHZ(normalmente só 100 MHZ são usados)
+* Cache L1: 1 MB(normalmente não é usado)
+* Cache L2: 100 KB(normalmente não é usado)
+* Número de núcleos: 2(normalmente só 1 é usado)
+
+== Como fazer ele funcionar ==
+* 1-Ligue o PC.
+* 2-Veja se carrega o Windows.
+* 3-Se não carregar começe a gritar.
+* 4-Se com 1 minuto de gritos ele não começou a carregar, dê um tapa no gabinete
+* 5-Se após 5 tapas não começar a carregar, abra o gabinete e desligue a ventoínha do processador(desligue também water cooler, cooler master, etc.)
+* 6-Se após desligar isso tudo não funcionar, tire o dissipador de calor por 10 segundos e bote tudo de novo.
+* 7-Ele deve funcionar, senão foda-se e comece a lamentar por ter comprado um computador com Pentium D. Ou continue abaixo:
+* 8-Tire dissipador de calor, water cooler, cooler master, etc.
+* 9-Pegue um conta-gotas e pingue 1 gota de água nos núcleos(é normal se ferver)
+* 10-Se não funcionar pegue um fósforo e aqueça os núcleos por 1/3 de segundo e pingue água
+* 11-Se não funcionar desligue o PC, pegue um maçarico, aqueça o processador por 1 segundo, mergulhe na água, seque, bote de volta e ligue
+* 12-Se ainda não funcionar, pegue gasolina, mergulhe o processador e bote de volta direto e ligue.
+* 13-Se pegar fogo, SE FUDEU! SEU PROCESSADOR JÁ ERA! Agora jogue na gasolina e acenda com o maçarico.
+{{Processadores da Intel}}
+
+[[ja:Pentium D]]
+
+[[Categoria:Microprocessadores]]

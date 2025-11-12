@@ -1,0 +1,30 @@
+{{taxocaixa
+| nome           = Coronavírus Round 1
+| cor            = #B0C4DE
+| imagem         = SARS-COV.jpg
+| imagem_legenda = Um grupo de Coronavírus Phase I não causando tanto estrago assim a uma célula
+| grupo          = [[Vírus (+)ssRNA|Xiaomi Vírus]]
+| ordem          = [[Nidovirales|Ursinpootus]]
+| família        = [[Coronaviridae|Xinjinpingidae]]
+| gênero         = [[Betacoronavirus|Pastelisdipangolimvirus]]
+| espécie        = [[Coronavírus da síndrome respiratória aguda grave|Coronavírus Stage 1]]
+}}
+
+'''Coronavírus da síndrome respiratória aguda grave''', também chamado de '''Coronavírus Light''' ou '''Gripezinha Chinesa''', foi a [[versão beta]] lançada pelos chineses em 2003 do definitivo [[coronavírus da síndrome respiratória aguda grave 2]] lançado só em 2019/20. Em sua época de lançamento a [[humanidade]] ainda não havia se tornado um bando de histérico alucinado com medo da morte e o vírus foi tratado como uma "Gripezinha" ao redor de todo mundo. Esta primeira versão do Coronavírus não fez sucesso porque não lotou nenhum hospital, não matou 1000 italianos por dia e não alastrou pânico, mas os chineses se mostraram bem insistentes em desenvolver sua versão melhorada alguns anos depois.
+
+== Origem ==
+
+Com a origem do vírus rastreada até a província chinesa de [[Guangdong]], foi muito fácil para os biólogos e virologistas da época logo descobrirem que se tratava de mais uma falta de higiene e nojeira característica dos chineses. Descobrir a origem do então novo vírus foi bem simples, bastou visitar um dos mercados de animais da região para logo descobrir que a [[civeta-de-palmeira-asiática]] (''paranaues hermaphroditus'') estava contaminada com o coronavírus. Tal animal é uma espécie de rato que vive em árvores, obviamente tornando-se uma especiaria da culinária chinesa que adora um [[rolinho primavera]] de fígado cru de civeta-de-palmeira-asiática e que acabou contaminando humanos através deste consumo.
+
+== Alastramento ==
+
+Infelizmente o vírus não criou nenhuma [[pandemia]] e durante seus anos de proliferação ninguém precisou ficar em casa sem trabalhar. Poucas pessoas sequer souberam de sua existência na época. [[Influenza]] e [[vírus da dengue]] dominaram o mundo em 2003, não deixando muito espaço para o coronavírus ainda em estágio beta.
+
+== SARS e seus sintomas ==
+
+A [[síndrome respiratória aguda grave|síndrome afetadora da respiração saudável]] (SARS) é o nome da doença causada pelo Coronavírus Light Fase 1. Tal doença foi considerada inexistente no Brasil, país que não segue o [[Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde|CID]] e possui seu próprio catálogo medicinal de doenças e portanto classificou a SARS como [[virose]] no catálogo nacional.
+
+Uma das principais diferenças entre a SARS e o [[COVID-19]] é que diferente de sua versão mais destrutiva, o coronavírus de 2003 não causa pânico generalizado, atos de xenofobia contra chineses e extinção em massa de idosos, o SARS causa apenas nariz escorrendo e tosse. Diferenciando-se também da [[Síndrome respiratória do Oriente Médio|MERS]] por não ser transmitida através de atos sexuais com [[camelo]]s.
+
+[[Categoria:Betacoronavirus]]
+[[Categoria:Espécies de vírus]]

@@ -1,0 +1,42 @@
+{{logotipo falso|BatataWebdings.png}}
+{{DISPLAYTITLE:{{font face|webdings|3=Webdings}}}}
+{{inutil}}
+{{Wikipedianaotempar}}
+
+{{vqd|Fonte inútil}}  
+{{C|Eu não consigo ler, alguém me ajuda|Carla Perez|Webdings}} 
+{{C|Se eu fosse você apertava Ctrl+A|Nerd|frase acima}} 
+{{C|Nunca li|Stevie Wonder|Webdings}} 
+
+[[Arquivo:Amostra DP Webdings.gif|thumb|right|200px]]
+
+'''Webdings''' é uma letra que o Windows usa, mas que é praticamente [[inútil]], já que não dá pra entender [[porra nenhuma]] que está escrito.
+
+=={{font face|webdings|3=Criação}}== 
+Em 374 a.C., [[Dercy Gonçalves]] reclamava que não tinha nenhum sinal, nem nada que significasse alguma coisa que precisava de significado. Então ela teve muita paciência e criou o [[alfabeto]] de A a [[Z]], mas aí ela não teria paciência para juntar tudo aquilo e formar palavras. Então Dercy começou a fazer desenhinhos malfeitos e disse que aquilo eram os substitutos das [[letra]]s. Ela passou esses desenhinhos para uma tribo indígena, os Häybbakutkakkensinzala e então isso passou a ser a escrita dos Häybbakutkakkensinzala. Então, os [[Portugal|portugueses]] chegaram aqui e [[morte|mataram]] todos os Häybbakutkakkensinzala, nenhum restou, e os corpos foram comidos por [[mafagafo]]s. Mas o que eles tinham escrito continuou, e um portuga achou, e ele quis copiar. Então ele passou para seu [[filho]]. E esse filho passou para seu filho. E esse filho do filho passou para seu filho. Então foi de geração em geração até que uma geração foi o [[Bill Gates]]. Então ele usou essa escrita, que até então era secreta, e pôs no [[Word]], foi assim.
+
+=={{font face|webdings|3=Para quê vou usá-la?}}==
+[[Arquivo:Marioworldmap.JPG|thumb|200px|A Webdings tem planos para [[dominação mundial]], e transformar [[Terra]] nesse troço aí]]
+Bem, para... [[nada]], na [[verdade]]. Ninguém nunca conseguiu escrever uma única palavra em Webdings até hoje. 
+
+=={{font face|webdings|3=Quem consegue lê-la?}}== 
+Até [[hoje]], a única pessoa que conseguiu ler um discurso todo escrito em Webdings foi [[Chuck Norris]].
+
+=={{font face|webdings|3=Ver também}}== 
+* {{font face|Comic Sans MS|3=[[Comic Sans MS]]}}
+
+{{Fontes}}
+[[Categoria:AAAAA]]
+[[Categoria:Linguística]]
+__NOTOC__
+<css>
+#globalWrapper {font-family:Webdings}
+#bodyContent {font-family:Webdings}
+a {font-family:Webdings}
+a:visited  {font-family:Webdings}
+h1 {font-family:Webdings}
+h2 {font-family:Webdings}
+h3 {font-family:Webdings}
+h4 {font-family:Webdings}
+h5 {font-family:Webdings}
+</css>

@@ -1,0 +1,91 @@
+{{Clipe|Cansado de usar essas três teclas magicas? Clique [[Foda-se|aqui]] para resolver esse problema!}}
+''Aviso: Este artigo é melhor visualizado com o <s>[[Microsoft Internet Explorer]]</s> [[Mozilla Firefox]] ou o [[Google Chrome]].''
+{{Microsoft}}
+{{Poder}}
+
+[[Arquivo:blue screen.png|thumb|500px|center|Típico uso do comando Ctrl+Alt+Del.]]
+
+{{C|Muito bem: Aumento de 2 reais ao mês concedido!|[[Bill Gates]]}}
+{{C|Com certeza os botões mais úteis do computador!|Nerd|Ctrl+Alt+Del}}
+{{C|Esses botões são completamente inu… PORRA TRAVOU!|Oscar Wilde|Ctrl+Alt+Del}}
+{{C|Escapatória rápida.|Punheteiro|Ctrl+Alt+Del}}
+{{C|Como que eu vou apertar essa porra?|Indivíduo com apenas uma mão|Ctrl+Alt+Del}}
+{{c|Nossa é mágico!|Newbie|Ctrl+Alt+Del}}
+{{c|Era tudo que eu precisava para funcionar.|Windows|Ctrl+Alt+Del}}
+
+[[Arquivo:Ctrl+Alt+Del.png|thumb|300px|Típico gerenciador de tarefas de um [[punheteiro]]. Vamos apague! Sua mãe tá no corredor rapaz!.]]
+'''{{PAGENAME}}''' (também chamado de "[[Gerenciador de tarefas]]") é um atalho básico do [[Windows|Ruindows]] para tentar se livrar de travamentos ocasionados por tentar entrar em [[mais de oito mil|mais de oito <s>mil</s>]] tarefas ao mesmo tempo, ou também em casos de emergências, como travar o [[PC]] em cima de milhares de janelas de sites suspeitos que você via ao passo que sua [[mulher]] ou [[sua mãe]] está entrando no [[quarto]]. Normalmente, é utilizado esse atalho, mas por vezes o usuário é tão [[noob]] que acaba por errar as teclas e apertar [[Alt + F4]], ocasionando o fechamento de todas as janelas que [[você]] estava trabalhando e/ou acessando, em especial quando aquele filme do [[RedTube]] que estava carregando. Quando não muito, ocorre a chamada [[tela azul da morte]], um indicativo simples de que nem adianta ficar tentando chamar o Gerenciador de tarefas, tem mais é que chamar o [[lixeiro]] pra levar seu [[PC 586]] pra [[sucata]]. 
+
+== História ==
+Tudo começou quando um <s>nerd</s> [[Nerd|técnico em computadores]] estava jogando um jogo de sua própria invenção e seu computador travou, mas nesse jogo, ele inventou uma combinação de teclas que abria um [[Gerenciador de Tarefas]] para o próprio jogo, as pessoas gostaram muito da ideia e começaram a copiar, até que <s>o ricão do</s> [[Bill Gates]] resolveu copiar a ideia e a colocou em ação no seu software, também conhecido como [[Windows]].
+
+== Utilidades ==
+[[Arquivo:Ctrlaltdel.jpg|thumb|Teclado que contêm (somente) os três botões mais utilizados]]
+Abrir o Gerenciador de Tarefas, basicamente, mas dentro dele você pode:
+
+*Finalizar algum programa, geralmente um jogo que você tentou rodar na sua torradeira, que não está respondendo.
+*Olhar a performance do seu computador e internet AO VIVO!
+*Para evitar a [[Tela Azul da Morte]].
+*Travar seu computador mais ainda.
+*Reiniciar seu computador, tendo duas formas principais:
+:Direta: Aperte Ctrl+Alt+Del duas vezes.
+:Indireta: Travando seu computador, e você é obrigado a usar o botão [[Reset]], que está lá para isso.
+*Invocar a [[Capeta|Besta]] e causar o [[Apocalipse]].
+*Foder com tudo!
+*Chamar [[Jack Bauer]].
+*Explodir a [[Terra]] (função muito utilizada por [[Gênio Maligno|Gênios Malignos]]).
+*Apertando [[42]] vezes, você consegue invocar [[Deus]] (porém, é preciso apertar 42 vezes seguidas, e na segunda o computador reinicia; então, é impossível).
+
+== Como Usar ==
+Na primeira página do manual que vem com o Windows (apenas no raro caso de você usar pirata, está página esta contida no "Guia de Inicialização Rápido"), onde se pode ter uma vasta noção do porque do uso desse comando/combo.
+Caso você por algum problema no sistema não tenha obtido uma "tela azul da morte" leve o PC para um técnico autorizado da [[Microsoft]] e peça para trocarem.
+Mas como sabemos que você já está familiarizado com ele, vamos ao que interessa: Como usa-lo para otimizar o sistema.
+Primeiramente entenda que após os primeiros testes, [[Bill Gates]] decidiu que essa combinação é a mais perfeita por situar-se em posições estratégicas do teclado, otimizando a velocidade e precisão do mesmo.
+Sendo assim você pode <s>apenas tentar</s> prevenir as telas azuis executando o "Gerenciador de Tarefas" (um dos mais poderosos recursos depois do Ctrl+Alt+Del) e observando o desempenho que  subirá <s>apenas</s> quando o Windows estiver carregando a "Tela Azul", já que o próprio Windows é extremamente leve e fácil de usar, sem contar seu baixo nível de erros de programação.
+
+== Hardwares Especiais ==
+[[Arquivo:Instrumento gates.jpg|thumb|left|300px|Adaptador de teclados comuns para Windows, contendo espaçamento para a (des)função do Ruindows da tela azul da morte. Lançado por [[Daltony]] e [[Seu Creysson]].]]
+
+Além do teclado que contém somente as teclas mais usadas, [[Seu Creysson]] e [[Daltony]] lançam, numa associação que vai causar a maior [[febre]], jamais vista, para adaptar teclados comuns ao uso (in)eficiente da função.
+
+==Syntax==
+
+Syntax é o código [[POG]] usado para à programação do [[Windows]]. Por ser extremamente complexo e conter 500 bilhões de linhas de programação, com variações infinitas de erros para <s>causar</s> mais erros, citarei apenas uma parte a qual considero muito importante e que explica o por que o Ctrl+Alt+Del é o mais apropriado em "Telas Azuis".
+
+  quando(error = 0)
+  {
+    lookfor(error = 1)
+    procurerrosnosistema = 1
+    erronamemoria = 1
+    erronousuario = 1
+    erronoie = 1
+    erromouse/teclado(paralizarmouse > 1, seja !qualquer situação em que der erro--!) depurar:
+    depurador_de_erros(teclado/mouse)=1
+    erromouse(movimentos=0, cliques=0)! tentativas de clique com resultado = -10
+    erroteclado(exec music:"c:\windows\errors\music\biiiiiiii.mp3" 
+       #Solução
+         lookforsolution=1
+         erro=1
+         erro=1
+         causarmaiserros=1
+         #completesolution
+          lookforCtrl+Alt+Del
+          exec_"errofatal.exe"
+          errorfatal(procure-erronomouse-erronoteclado! exeto Ctrl+Alt+Del
+               (memória disponível = 0
+                sendo 120% executando "errofatal.exe")
+         exec_"Ctrl+Alt+Del.exe" se! Ctrl+Alt+Del for pressionado--
+         #pc reinicado
+               (memória_tranferir = 0, reniciar pulssos da fonte = 1,reinicarfonte = 1
+                mudar_de_modo=1,fonteoff=1,exec fonteon! apos fonte off)
+   }
+
+{{Alfabeto}}
+
+== Ligações externas ==
+
+*[http://cad-comic.com/ Um site chamado Ctrl+Alt+Del]
+
+[[Categoria:Informática]]
+
+[[en:Control-Alt-Delete (BDSM)]]

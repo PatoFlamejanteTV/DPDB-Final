@@ -1,0 +1,22 @@
+{{Computeiro}}
+[[Arquivo:Bluescreen.gif|thumb|O que acontecerá caso você consiga a proeza de deletar esse arquivo.]]
+'''Config.sys''' é um dos muitos sistemas velhos pra burro dos [[Windows]] do passado, juntamente com o [[COMMAND.COM]] e o [[AUTOEXEC.BAT]] que praticamente servia para que o sistema operacional funcionasse de fato, sempre estando como arquivo oculto no [[disco rígido]] do computador justamente para que nenhuma criancinha desavisada tivesse a brilhante ideia de tentar descobrir o que aconteceria se ele simplesmente deletasse aquela porra.
+
+== Origem ==
+
+Esse sisteminha surgiu no finado [[PC-DOS 2.0]] de [[1900 e guaraná com rolha|1900 e disquete de 50 polegadas]] e basicamente controlava todo o sistema geral do computador, fazendo a ponte direta entre o [[sistema operacional]] e a [[BIOS]] (o trocinho que se conecta lá com o hardware todo do sistema), e contendo todas as funcionalidades básicas subscritas para que a bagaça rode. Conectado com o AUTOEXEC.BAT (o responsável para que os programas e aplicativos, ou seja, os [[Executável|executáveis]] (a turminha com extensão .exe e .com) possam realmente funcionar), ele torna possível portanto que tudo funcione, inclusive aqueles arquivos da pasta [[System32]] que sem eles o DOS, o [[OS/2]] ou o Windows vai pro saco.
+
+== Quando o bagulho sumiu? ==
+
+Percebendo que de vez em quando um jumento apagava esse programa do Windows e deixava tudo numa bagunça do caralho, que nada mais pegava, o Windows mal executava ou as vezes nem isso, o processo morria ainda na tela inicial de BIOS, a [[Microsoft]] na versão [[Windows ME]] fez o [[IO.SYS]] (o programa raiz do sistema operacional) simplesmente cagar pro CONFIG.SYS e pro AUTOEXEC.BAT, deixando tudo lá no [[Registro do Windows]], lugar onde só um paquiderme se atreveria a mexer sem saber o que danado eram aqueles códigos. De lá pra cá, essas porras só são acessíveis para usuários de [[Variável de ambiente|variáveis de ambiente]] (a.k.a nerdões geek malucos, programadores e hackers), e como tudo tá já no registro, única chance de dar merda agora nem é apagando essas porras e sim mexendo no registro do Windows <s>inclusive recomendamos muito isso, faça agora mesmo!</s> 
+
+== Mais velharias de Windows do passado (e alguns do presente) ==
+
+*[[Meu porta-arquivos]]
+*[[kernel32.dll]]
+*[[FAT16]] e [[FAT32]]
+*[[Desfragmentador de disco do Windows]]
+*[[Scandisk]]
+
+[[Categoria:Aplicativos do Windows]]
+[[Categoria:Segurança da informação]]

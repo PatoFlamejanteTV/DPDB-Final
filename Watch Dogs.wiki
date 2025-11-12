@@ -1,0 +1,35 @@
+{{Game}}
+
+{{Infobox Série Game
+|title         = Assista Cachorros
+|image_logo    = Assista Cachorros logo.png
+|caption       = Logotipo da série. A [[Ubisoft]] sempre teve um carinho especial pelo Brasil com várias traduções tupiniquins
+|genre         = GTA com hacker
+|developer     = [[Ubisoft]]
+|publisher     = [[Ubisoft]]
+|origin        = PC, PlayStation 3, PlayStation 4, Xbox 360, Xbox One
+|first_release = [[Watch Dogs (jogo)|Watch Dogs 1]] (2014)
+|last_release  = [[Watch Dogs: Legion]] (2020)
+}}
+
+'''Watch Dogs''' é uma tentativa fracassada da [[Ubisoft]] em ter sua própria franquia da GTA o que na verdade resultou num [[Assassin's Creed]] do Desmond (ou seja, sem parkour, só nerds falando de tecnologia e digitando no [[celular]]). Mas a pergunta que não quer calar é: Onde estão os benditos cachorros? O que se sabe é que eles só existem na cidade do Watch Dogs 2, talvez o primeiro jogo seja sobre cachorro quente, uma iguaria de Chicago.
+
+== Jogabilidade ==
+
+Os jogos de Watch Dogs são uma espécie de GTA com um mod de hacker e um pouquinho Assassin's Creed. Ou seja, um jogo de mundo aberto com uma cacetada de side-missions que fazem você esquecer o que diabos é a história principal. Ao contrário dos jogos de Assassin's Creed onde você pode escalar um prédio com as próprias mãos ou Far Cry onde você pode fuzilar 50 bandidos num acampamento na selva... Em vez disso, agora o jogador pode apenas, na melhor das hipóteses, escalar uma cerca de arame tão alta quanto ele ou matar um ou dois bandidos.
+
+Nesses jogos você deve combater o crime através do hackeamento de semáforos, interruptores de luz e celular Android e Iphone dos outros usando um [[Xioami]] especial com Uber e ifood.
+
+Matar inocentes é sempre incentivado pelo jogo, afinal basta dar um tiro de 9 mm nas pernas de um pedestre para matá-lo na hora, enquanto para bandidos, policiais e capangas de criminosos são necessários acertá-los com mais disparos. Deduz-se portanto que toda vez que alguém no universo dessa franquia empunha uma arma lhe é transplantado para sob a roupa um colete a prova de balas, provavelmente de adamantium.
+
+== Jogos ==
+
+* '''[[Watch Dogs (jogo)|Watch Dogs 1]]''' - Seguindo a tendência da Ubisoft em abrir franquias com jogos horrorosos e enjoativos (vide [[Assassin's Creed (jogo)|Assassin's Creed 1]] e [[Far Cry (jogo)|Far Cry 1]]), o Watch Dogs 1 também foi ua bela porcaria e um estrondoso fracasso, muito porque não entregou nada do que foi prometido, não passando de um mod bugado de GTA. Nesse jogo controlamos um hacker profissional chamado Aiden Pierce que é também um atirador de elite, criminoso, vingador, funcionário de telefonia móvel, invasor da privacidade dos outros, agente de companhia elétrica e atendente de telemarketing. O jogo se passa numa Chicago nada fiel à original (sem lixo excessivo nas ruas), uma cidade cheia de ponto de ônibus que não possui ônibus (talvez por isso a prefeitura local tenha compensado isso ao oferecer [[metrô]] de graça) e também cheia de eternos solteiros (fato evidenciado quando percebemos que todos dirigem sozinhos e ninguém tem filhos). Ao longo desse jogo Aiden quer saciar sua vingança e para isso vai precisar conter qualquer curiosidade em ir fazer side-missions.
+* '''[[Watch Dogs 2]]''' - Um jogo mais decente mas que ninguém se interessou por medo de ser tão merda quanto o primeiro jogo. Na prática é uma copia na cara dura do GTA V ao levar o jogo para [[San Francisco]]. O novo protagonista é Marcus Holloway, que é mais descolado e metido a malandro, conversando com o público de nerds que são os jogadores de videogame.
+* '''[[Watch Dogs: Legion]]''' - Jogo lançado em 2020 para navegar na onda do "[[Cyberpunk 2077]]" trazendo a mesma temática do jogo da [[CD Projekt Red]] só que bem genérico e com um leve dose de "[[Saints Row]]" no sentido da galhofa estar em toda parte, já que não traz um protagonista definitivo, mas vários tiozinhos, velhinhas e punks criados proceduralmente. É um jogo tão tedioso quanto qualquer enlatado genérico da [[Ubisoft]].
+
+{{Watch Dogs}}
+{{Ubisoft}}
+{{Ação-aventura}}
+
+[[Categoria:Jogos da Ubisoft]]

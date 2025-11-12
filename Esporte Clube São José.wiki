@@ -1,0 +1,67 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = #120A8F
+|brasao            = Escudo do São José-RS.png
+|hino              = Bah Tchê - [[Zezé di Camargo e Luciano|São José di Camargo]]
+|nome_oficial      = Esporte Clube São José
+|origem            = {{RS}}[[Porto Alegre]]
+|apelidos          = Zequinha, o Pior do Rio Grande do Sul! ou O Melhor Time do Quarto Distrito.
+|torcedores        = gremistas (quando São José joga contra inter) ou colorados (quando São José joga contra o Grêmio)
+|torcidas          = Inexistente
+|mascote           = Pai de Jesus
+|ilustre           = [[São José]]
+|estadio           = [[Passo D'Areia]]
+|capacidade        = Não se sabe ao certo, nunca lotou
+|sede              = algum beco de Porto Alegre
+|presidente        = ?
+|treinador         = ?
+|pior              = Cabeludo
+|melhor            = [[Careca]]
+|patrocinador      = Mais de meia dúzia marcas de bolachas
+|material          = Spózer
+|liga              = [[Campeonato Brasileiro]]
+|divisao           = [[série Z]]
+|títulos           = Vice-Campeonato Gaúcho de Bocha 2ª Divisão: 1996
+|ranking           = 244°
+|uniformetitular   = Uniforme01.jpg
+|uniformealt       = Uniforme02.jpg
+}}
+
+'''Esporte Clube São José''' é mais um daqueles tradicionais desconhecidos e insignificantes times de pseudo-[[futebol]] do [[Rio Grande do Sul]] que só serve para perder para o [[Inter]] e [[Grêmio]].
+
+== História ==
+
+[[Arquivo:Pebolim.jpg|thumb|240px|left|São José participando do ''Desafio Internacional de Enduro de Pebolim''.]]
+
+Fundado em [[1913]] como time de [[bocha]]/[[cricket]], nas horas vagas jogam [[futebol]] para fazer aquele número no [[campeonato gaúcho]] e assim acharem que tem gente que joga bola por lá além de Grêmio e Inter. O São José tem como único título o reconhecimento honorário como o mais simpático time de [[Porto Alegre]], é claro que todos gostam do São José, o time é o ponto ganho da competição, e quando consegue raramente ganhar, é um ótimo motivo de piada para cima dos adversários derrotados.
+
+Apesar de ser muito conhecido no Rio Grande do Sul por ser um saco de pancadas, no restante do Brasil é mais um clube inexpressivo formado por um bando de quebra-canelas que jogam (aka, faz número) na série D do campeonato brasileiro. Porque você acha que a quarta divisão do futebol brasileiro tem aqueles [[Vegeta|mais de 9000]] times que você nunca ouviu falar? São José é um desses que faz número na competição.
+
+Na década de 80 o São José atravessa a sua era de ouro, quando ganhou a segunda divisão do campeonato de futebol de botão amador em 1981 e assim ganhou o direito de disputar o [[campeonato gaúcho]]. Dotado do inédito esquema tático 4-5-3 liderados pelo carismático técnico ruim de [[matemática]] Zé da Chupetinha, cujos churrascos que organizava nos fins-de-semana eram providenciais para os fantásticos resultados negativos do São José.
+
+Apesar de ter ficado em último no campeonato gaúcho por 20 anos consecutivos, como não existia a segunda divisão naquela época, o time teimava em permanecer na elite do futebol estadual. Até hoje os jogadores tem o tradicional hábito de saírem direto do [[churrasco]] para os jogos.
+
+Em [[1998]], numa jogada de marketing de vanguarda, a diretoria contratou o craque e lenda [[Careca]] (apesar dele já estar com 50 anos de idade na época), Careca jogou uns joguinhos no campeonato gaúcho, depois viu que tava sendo humilhação encerrar a carreira desse modo lamentável e deicidu se aposentar de uma vez por todas.
+
+Desde então o São José se preocupa apenas em fazer figuração no [[campeonato gaúcho]] e número nas competições nacionais. Já coleciona eliminações vexatórias no [[Campeonato Brasileiro da Série C]] nos anos de [[1997]], [[1998]], [[2001]] e [[2003]] e agora embarca em mais uma nova aventura buscando eliminações ridículas na [[Série D]], já conseguindo a façanha em [[2009]] onde fez figuração.
+
+== Estádio ==
+
+Alguns chamam aquele [[Passo D'Areia]] de estádio de futebol, mas seu nome "passo na areia" faz jus ao estado do campo, que mais parece uma [[savana]] lotada de buracos. Todos os times tem medo do São José, mas não por causa de seus jogadores, mas por causa de seu estádio que torce o tornozelo de no mínimo 5 atletas de seus times adversários.
+
+== Títulos ==
+
+*Prêmio de ter um dos dois melhores goleiros da partida.
+*Campeonato Gaúcho - 2ª Divisão: 2 vezes — 1963 e 1981.
+*Prêmio de ter sido inspiração para o escudo do Juventude
+
+== Curiosidades ==
+
+* O time foi homenageado pelo prefeito de [[Porto Alegre]] com o nome da rua ''Sport Club São José'', um reconhecimento pela vasta quantidade de pontos entregues que o São José deu para Grêmio e Internacional em seus anos de história;
+
+*O <s>dono</s> presidente do São José é conselheiro do Inter;
+
+{{Campeonato Gaúcho}}
+{{Campeonato Brasileiro}}
+
+[[Categoria:Times de futebol do Rio Grande do Sul|São José]]

@@ -1,0 +1,57 @@
+{{pokedex}}
+<choose><option>{{voador}}</option> 
+<option>{{ave}}</option>
+<option>{{ar}}</option> </choose>
+
+{{c|Vai Pidgeotto, dê a sua bicada nele!!|Treinador mandando seu Pidgeotto usar a sua melhor técnica}}
+
+{{c|Nunca vou ter um desses.|Dick Vigarista|Pidgeotto}}
+
+{{c|Nem eu.|Ash Ketchum|Pidgeotto, pois nunca evolui nenhum pokémon}}
+
+{{c|[[Risada Diabólica|Mwahahaha!!]]|Qualquer um|Ash e Dick Vigarista}}
+{{PokéBox
+| imagem = Pidgeotto17.png
+| frase = Pidgeotto vendo se tem sujeira na unha
+| tamanho = 280
+| nihongo = ピジョン
+| romaji = Pigeon
+| pokedex = 017
+| tipo1 = Normal
+| tipo2 = Flying
+| habilidade1 = Cagar na sua cara em uma manhã de sol
+| habilidade3 = Enfeitar carros alegóricos homossexuais
+| espécie = pardal de carnaval
+| cadeia evolutiva = [[Arquivo:PidgeySprite.gif|link=Pidgey|Pidgey]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:PidgeottoSprite.gif]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:PidgeotSprite.gif|link=Pidgeot|Pidgeot]]
+}}
+
+[[Arquivo:PidgeottoSprite.gif|left]]'''Pidgeotto''' é o [[pokémon]] #17 da primeira geração. Uma versão um pouco <s>menos pior</s> melhor de um [[Pidgey]]. Obviamente de normal e voador pra não contradizer o resto dos tipos de sua família, é o único estágio que um [[noob]] pode chegar com um [[Pidgey]] nas mãos, e só por achar que o Pidgeotto tem uma pinta de fodão e é todo colorido,tem certeza de que é a ultima evolução e fica se exibindo para seus [[guris retardados|outros amigos]].
+
+==Características==
+
+Pidgeotto, assim como Pidgey, é mais um pokémon tipo normal e voador, sem nenhuma característica realmente marcante e especial, ou seja, é mais um figurante tosco. Pelo menos ele melhorou um pouco depois de evoluir, pois já não parece mais uma pomba, mas sim <s>uma galinha</s> um falcão ou um gavião, sei lá. E como todo [[Corinthians|gavião]], certamente ocupa uma categoria secundária dentre os pokémons, mesmo entre os outros voadores. Da mesma forma que Pidgey foi o primeiro de muitos, Pidgeotto é o primeiro pokémon evoluído para vários, embora a maioria prefira outros similares para o grupo, mesmo sem ser uma evolução, como os lendários (se for um jogador [[noob]] que só ganha com lendário).
+
+Pidgeys normalmente evoluem bem rápido, basta vencer três lutas sem ser nocauteado, mesmo só sabendo usar sopro de ar e bicadas, ou então chegar no nível 16 se [[você]] prefere os joguinhos de Gameboy. [[Qualquer um]] consegue evoluir um Pidgey, menos o <s>Ketchup</s> Ash, é claro. Outra opção para se incluir Pidgeotto em sua pokédex é continuar freqüentando os famosos <s>cabarés</s> matinhos, onde eventualmente podem aparecer alguns pokémons evoluídos, como Pidgeotto, mas não são matinhos tão óbvios como aqueles de início de partida. Para se capturar um Pidgeotto direto, você terá de achar os melhores matos, enfrentar as mais [[Narrador da Sessão da Tarde|altas confusões]] e torcer para o bicho aparecer, normalmente num nível mais baixo do que o 16, e você precisa tomar cuidado para não acabar matando o passarinho de primeira. Por essas e outras, o que a maioria dos treinadores faz é evoluir o seu Pidgey e depois disso se livrar dele de uma vez, já com tudo computado em sua pokédex. Ou então tentar evoluí-lo novamente, tornando-o um [[Pidgeot]], que é basicamente um Pidgeotto com uma peruca de penas na cabeça.
+
+A função de um Pidgeotto é atuar como o pokémon voador do grupo até ser substituído por um melhor, como vem sendo reiterado aqui, e também atuar como membro principal em alguns combates, pois provavelmente já saberá mais do que dar bicadas. Lógico que serão combates no ginásio de grama se ele quiser sair inteiro, mas já é algo, comparado ao completo inútil Pidgey. Alguns Pidgeottos aprendem a usar a técnica do voo em combate, que também serve para transportar seu treinador, apesar deste ser muito mais pesado do que um Pidgeotto. Não há muito o que falar sobre técnicas de luta para Pidgeottos justamente porque eles não aprendem muito mais do que isso.
+
+==Curiosidades==
+[[Arquivo:artf.jpg|left|200px|thumb|[[Ekans]] tentando pegar um Pidgeotto por trás.]]
+Sabia que...
+
+*Pidgeotto é muito sem-graça para ter curiosidades curiosas?
+
+*Escrever sobre a família do Pidgey consiste em enrolar e enrolar?
+
+*Como qualquer um já teve este pokémon, fica difícil relatar alguma novidade aqui?
+
+==Veja Também==
+
+[[Pidgeot]]
+
+[[Lapras]]
+
+[[Electabuzz]]
+
+{{poke1}}
+[[Categoria:Pássaros]]

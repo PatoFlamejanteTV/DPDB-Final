@@ -1,0 +1,48 @@
+{{game}}
+
+{{vqd|Duck Hunt versão Cega}}
+{{c|Eu até hoje não desperdicei um tiro!|AAA|{{PAGENAME}}}}
+
+'''Safari Hunt''' é um jogo de tiro, feito em [[1986]], pela Cega.
+
+{{Infobox Game|title = Safari Hunt
+|image               = Sega My Card without Card.jpg
+|caption             = O jogo caso ele iria ser vendido separadamente.
+|developer           = [[Sega|Cega]]
+|released            = [[1986]]
+|genre               = [[Tiro]]
+|rating              = 10%
+|platform            = [[Master System]]
+|ages                = Livre
+}}
+
+== O que é tem que fazer nesse jogo? ==
+
+Simples. Atirar em animais selvagens (não pra caralho, a não ser se for pra você desperdiçar tiros).
+
+== Níveis ==
+
+O jogo tem três níveis que se repetem ([[aff]]):
+
+* '''Lago''': Atire em coelhos, patos e peixes;
+* '''Floresta''': Atire em pássaros, tatus e ursos;
+* e '''Selva''': Atire em aranhas, macacos, morcegos e em panteras (cuidado para não dar [[Droga|uns tapas!]])
+
+== Curiosidades ==
+
+* O jogo nunca foi vendido separadamente. Sempre veio com 1 ou dois jogos;
+* Safari Hunt é incluído com [[Hang On]], em uma das versões do Master System 1;
+* O jogo vai até o nível 69, e você precisa fazer 1.000.000 de pontos para fechar-lô.
+
+== Ver também ==
+
+* [[Master System]]
+* [[Hang On]]
+* [[Marksman Shooting / Trap Shooting / Safari Hunt]]
+
+{{sega}}
+{{oposto|Duck Hunt}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos lançados em 1986]]

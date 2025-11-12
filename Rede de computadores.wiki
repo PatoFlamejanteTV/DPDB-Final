@@ -1,0 +1,124 @@
+{{computeiro}}
+
+{{vqd|[[Redes Sociais]]|a profissão dos "cabistas".}}
+{{c|Aeee caraio!1 Fica rico gerenciano a net numa sala!|Estudante de Redes iludido com o que ele acha que vai ser seu futuro na área}}
+{{c|Ôw de casa! Vim colocar telefone na sua residência, eu trabalho na {{Aleatória/Operadora}}!!|Um formado em {{PAGENAME}} na porta da casa de um cliente neste instante}}
+
+{{fato|o cabo mais grosso que o cara da {{Aleatória/Operadora}} colocou pra você quando foi instalar a telefonia e tv via [[cabo]] aí na sua casa pode ser um [[cabo coaxial]] como também [[pênis|pode não ser]]?}}
+
+'''Gerenciamento de Rede de Computadores''' ou simplesmente uma '''rede de computadores''' é a parte responsável por todos nós estarmos aqui hoje, neste dia. Então [[oremos]].
+A palavra rede não indica uma rede de dormir (até poderia...). Na verdade ela quer indicar uma ligação entre máquinas, ou [[Servidor da Desciclopédia|quase isso]]. A ligação entre esse seu ''Laptop da Xuxa'' e o ''Servidor da Desciclopédia'' é um exemplo de um segmento da rede (entendeu ou quer que eu desenhe?).
+
+Algumas instituições de ensino [[privada]] enganam os estudantes dizendo a eles que quando formados poderão trabalhar como '''gerentes de redes''', nome daquele cara que vive te desconectando da internet no [[pornografia|momento que você mais precisa]]. Mas devido a qualidade de ensino das instituições que ministram esse curso, é comum os formados do curso trabalharem em alguma empresa de telefonia, numa função como a do [[seu pai]], aquele cara que vive levando [[pau no cu|cabos nas costas]].
+
+==História==
+
+[[Arquivo:Baiano.jpg|thumb|200px|Local da primeira experiência]]
+Sugerem que a '''rede de computadores''' a qual conhecemos hoje nasceu depois de uma ideia que [[wp:en:J. C. R. Licklider|Joseph <s>Stálin</s> ''Licklider'']]<ref>O nome de J. ''Licklider'', como suponho que já deva saber vem de ''Lick'' = Lamber, ''Lider'' = Chefe. Era o maior baba-ovo dos seus chefes na [[ARPANET]], quando foi funcionário dessa joça.</ref> teve após visitar a [[Bahia]] e na época tinha se impressionado com a forma que o estado se desenvolvia (ou o inverso) sozinho, enquanto seus habitantes viviam numa rede. Teoricamente ele pensou que o estado deveria ser a mesma coisa sempre, já que aquele povo não fazia nada a não ser viver deitado numa rede. 
+
+Foi então que Licklider (que não era líder de porra nenhuma na '''[[ARPANET]]''') sugeriu ao chefe de sua equipe colocar aqueles mainframes ''foderosos'' da época, com ''hiper'' processamento (60Hz) e memória ''pra caraleo'' (0,7kb), pra rodarem em conjunto, e assim terem [[overclocking|5x mais]] poder de processamento. Mas para que pudessem rodar em conjunto, teriam que se conectar, mas como não se tratava de [[Wi-Fi|computadores com ''core'' Chico Xavier]], só poderiam se conectar por meio de cabos, iguais a esses que tem atrás de <s>você e</s> seu PC.
+
+Até os anos 90 a rede foi usada assim sem problemas, mas aí as cidades americanas foi crescendo e a maldita [[inclusão digital]] teve inicio na [[EUA|américa]] (não a [[América Latrina|latrina]]). Os postes de energia estavam ficando iguais aqueles que tem nos morros do [[Hell de Janeiro]], por exemplo. A única forma contornar isso foi criando [[rede sem fio|conexões com o além]] e tentar repassar as informações conforme [[Espiritismo|Allan Kardec]] tinha sugerido muitos anos antes.
+
+[[Arquivo:Datacenter.jpg|thumb|300px|left|Hoje nós confiamos a segurança da Web nas mãos desse burro!]]
+
+Na época que resolveram tentar implementar a conexão sem fio os computadores a Apple já tinha [[Apple fanboy|''faggot fan boy'']], mas como em todo aparelho Apple, faltava o essencial: uma [[antena|ligação com o além]] para que pudessem baixar arquivos .mp3 do [[The Pirate Bay]] de qualquer lugar que tivesse sinal de [[internet discada|telefone]] sem fio. Foi aí que a IBM ganhou o mercado de PCs, pois vendiam as carroças já equipadas uma antena para conexões sem fio, claro que isso foi por tempo limitado.
+
+Mais tarde a '''IEEE'''<ref>A sigla do instituto significa '''''I'''s '''E'''UA '''E'''at '''E'''verybody'' e deveria significar que os EUA estaria comendo todo mundo, inclusive [[você]]!</ref> teve a ideia que foi colocar aqueles IBM PC em cima de uma rede gigante (aquelas que parecem com aquelas calçolas que sua mãe usa), e chamou a rede com aquelas máquinas de Rede Acaraje (em "[[punheta|homenagem]]" ao lambe-líder). O problema que a rede ficou com preguiça de iniciar e fazia um barulho semelhante ao que chamamos de [[axé]] hoje. Foi então que eles tentaram criar uma rede que fazia o menor ruido possível e que também funcionasse. 
+O [[gerente de projeto|gerente deste projeto]] lembrou de uma vez que tinha ido as [[Minas Gerais|minas generalizadas]] e lembrou do jeito mineiro de ser, do [[Fuder|comer-queto]] daquele povo, etc. Foi aí que resolveram chamar o projeto de Rede Uaí fí, que mais tarde foi exportado pros ''States'' e lá ganhou a tradução ''Wi-Fi'' pro inglês. Esta última rede deu certo, parece.
+
+==Modelo OSI==
+
+O modelo OSI está para redes da mesma forma que a [[Gerência de projeto|gerência]] e os [[Padrões de projeto|podrões]] de projeto estão para a construção de um [[software]], ou seja, é algo que ninguém liga na área de redes até porque isso não dá dinheiro ou saber que isso existe não fará o proletariado ganhar relevância diante do patrão, pelo contrário, o cara poderá ser demitido já que na área da Tecnologia<sup>?</sup> da Informação pessoas assim são vistas com muita desconfiança (vide o que aconteceu com o [[Edward Snowden]]). 
+
+Voltando ao assunto, o modelo OSI consiste em dividir a rede imaginária em algumas camadas inúteis que a informação supostamente percorre do suposto remetente até chegar ao suposto destinatário, sendo o suposto cabo (ou a camada ''mais de baixo'') uma espécie de [[carteiro]].
+
+Segue a lista das camadas abaixo:
+
+7. '''Aplicação''' — A camada ''"[[Youtube Poop|mais de mesa]]"'' do processo, onde estamos todos nós aqui hoje reunidos e também é através dele que acessas a [[xvideos|bronha]] de cada dia que ele vos dá! O [[Google Chrome]], [[Big Macky]] também, lembre-se disso.<br/>
+6. '''Apresentação''' — Esta é a camada onde atuam os ''raquers profisional'', pois é nela que são feitas as codificações, entre elas o tão temido [[HTML]]. Não se preocupe que daqui pra baixo ninguém sabe com funciona mesmo.<br/>
+5. '''Sessão''' — A camada registradora. É a responsável por iniciar uma nova conexão com o além, e funciona como aquelas coisas pré-históricas que chamam de telefone.<br/>
+4. '''Transporte''' — Agora aqui ''o papo é reto maluco''. Essa é ''a merda'' responsável pelo transporte dos ''bagulho, morô?'' É ''tipo'' um ''mula''. Em suma, esta é a camada responsável pelo transporte dos pacotes<sup>de [[dado (informação)|dado]]s!</sup>.<br/>
+3. '''Rede''' — Provavelmente este [[IP|númerozinho]] seu aí é fornecido nesta camada, junto com o sinal do seu [[Netflix]].<br/>
+2. '''Enlace''' — Olhe pra sua placa mãe.<br/>
+1. '''Física''' — [[bit|1]][[bitch|01]]010101010110010101010101010 e tudo aquilo que tem dentro do cobre do [[Cabo de par trançado|fio de cobre]] que não seja o próprio cobre.<br/>
+
+==Componentes==
+[[Arquivo:12-03-07 cabo da nalzica.jpg|left|thumb|260px|Exemplo de um cabo de rede em um "bom" estado.]]
+
+Até aqui, se você nunca viu isso na vida, ou faz o curso de '''Redes de computadores''' em qualquer [[UNIP|faquesquina de merda]] deve estar pensando {{c|WTF?? O que esse cara disse até aqui????}}. Mas agora não se preocupe, esta é a parte que você provavelmente conhece, pois se você nunca viu nada sobre o assunto, é um profissional da [[sexo|área]] ou estuda numa [[Estácio Participações|faquesquina de merda]], muito provavelmente tem um componente de rede, mais possivelmente um cabo aí atrás. Por isso, vamos começar apreciando alguns destes elementos que você com certeza deve ter domínio.
+
+← Esse cabo aí do lado é um '''UTP''', chamado de '''''U'''ltra '''T'''wisted '''P'''oli-carpado'' ou pela sigla RJ-45 ([[Rio de Janeiro|Ryu de Janeiro]], projeto 45), ou também conhecido popularmente como ''"o cabo que '''U'''m '''T'''écnico '''P'''lugou quando veio instalar a net aqui em casa"''. O cabo é um [[rastafari]] encapado, onde os fios de seu interior estão emaranhados entre si, para evitar que você, usuário, faça merda com eles depois. Não confundir com o cabo RJ-11 (telefone), o mesmo que a [[Desciclopédia]] usa para conectar este servidor (físico) ao Modem analógico e oferecer a você, usuário, a melhor experiência em navegação.
+
+Existe também o cabo da tv a cabo que não serve só pra isso mas que é normalmente é usado para esse fim. Se você for um cliente ([[caloteiro]]) da [[NET TV]], saiba de uma vez por todas que esse cabo parrudo aí nas costas do seu equipamento<sup>[[( ͡°﻿ ͜ʖ ͡°)]]</sup> é um cabo coaxial (como também pode ser outra coisa), mas com certeza não se trata de um cabo de [[fibra óptica]]. Mas caso seja um desses mentirosos, pode continuar mentindo pros seus amiguinhos falando pra eles que tem "30GB de fibra da NET", mas saiba que isso é [[Pecados capitais|muito feio]].
+
+Ainda tem o cabo de fibra óptica, um cabo muita gente afirma ter visto ou acha que tem em casa, mas que na verdade só empresas realmente grandes usam esse tipo de coisa, já que [[Seu pau|3cm]] desse cabo é vendido pelo mesmo preço de um [[PlayStation 4]] (x72). Mas tudo isso porque o cabo é putaqueparivelmente rápido, tão rápido quando a luz.
+
+Mais uma vez comparando, da mesma forma que o o cabo natural do homem, o cabo de fibra óptica também não pode ser dobrado (mesmo que alguns já venham tortos por natureza). Se ousar a dobrá-lo em demasia, poderá acontecer ao cabo o mesmo que aconteceria com seu bilau. Portanto prezado leitor, tome (muito) cuidado ao manusear este pequeno e delicado produto, e o use sempre imaginando que poderia ser o seu órgão ali.
+
+===Equipamentos de Rede===
+{{vqd|Equipamentos Cisco|Equipamentos de Rede}}
+
+Assim como a [[Apple]] tem seus ''[[Apple fanboy|fagboy]]s'', a Cisco tem a dela, só que diferentes dos ''faggots'' da maçã, os faggs da Cisco trabalham <s>des</s>configurando redes. 
+
+Os equipamentos na área de redes funcionam da mesma forma que os [[smartphones]], onde tem ''os smartphones'' e tem ''O'' '''iP'''hone, sempre obedecendo a grafia correta do aparelho. Só que em redes tem ''os switches'', e '''O Switch da Cisco''', com direito a tecnologias com patentes próprias e certificação Cisco!1
+
+==Cabeamento Estruturado==
+[[Arquivo:Circ prova 01.jpg|thumb|220px|Exemplo de um cabeamento estruturado]]
+
+O cabeamento estruturado é mais uma das falácias existentes em redes de computadores, visto que isso consiste basicamente em colocar todos os fios de um recinto/edifício para "correr" dentro de uma calha metálica exposta no interior de uma laje ou nas paredes deste edifício. As regras IEEE 80x até diz alguma coisa, mas é uma regra e regras são chatas por natureza. Além do mais, como já disse anteriormente, normas da área de T.I. são iguais [[termos de uso]] e moedas de [[1 centavo]]: Existem, estão ali para serem lidas, mas ninguém liga!
+
+Alguma das normas da área são iguais editais de repartições públicas ou lista de material escolar de escola particular, eles pedem coisas não não precisam e tudo ali se refere a produtos de marca (porque os requisitos não existem em produtos "mais baratos"). Por isso que em redes, não se aprende a grampear cabos de redes qualquer, tem que ser ''Furukawa'' e neste curso não se aprende a configurar outros equipamentos que não sejam da [[Cisco]]. Nesta sub-área tem desses modismos.
+
+O cabeamento estruturado da foto ao lado deve ter sido feito por alguma operadora de telefonia de algum país [[país subdesenvolvido|em sub-desenvolvimento]]. Há também o tipo de cabeamento "Lan-House"
+
+===Topologias (arquiteturas) de Rede===
+Aqui vão alguns dos tipos de rede:
+*[[Anel]] — Também conhecido como Rede Panelinha, porque é só um circulo besta. Ninguém usa mais.
+*[[Barramento]] — Normalmente usados com cabos coaxiais, também ninguém usa mais, porque quem montava a rede sempre cagava no pau deixando de colocar um terminador ou simplesmente esquecendo de aterrar uma das pontas, o que aterrava a rede.
+*[[Estrela]] — A modinha de redes. Consiste em vários PCs conectados à um roteador por meio de cabos UTP, qualquer [[burro|usuário]] consegue fazer isso e qualquer modem lixo como aqueles da Arris ou da D-Link tem pelo menos, no mínimo 4 portas (se você pensou em outras portas que não fossem as "entradas para conexões" sugiro que feche esta página e que vá cursar [[administração|um curso que seja mais seu perfil]]). 
+*[[P2P]] — Peer dois peer. [[Google|Este site]] pode explicar melhor.
+*[[Árvore]] - Cada [[macaco]] no seu galho. De ramo em ramo, todos desabocam no [[Piscinão de Ramos]].
+
+==Técnicas==
+Aqui vão algumas técnicas, que segundo a [[Bíblia]], o administrador de rede terá o [[livre arbítrio|live arbitro]] para usá-los a favor da empresa que trabalha ou contra ela. Quando for demitido sob justa causa, por exemplo, o demitido pode realizar um ataque DDos e deixar o servidor da empresa igual o servidor da desciclopédia, o que pode ser bastante eficaz para convencer o demissionário sobre uma possível readmissão. 
+
+Muitas das técnicas mostradas abaixo podem ser feitas por qualquer [[noob]] com Mac, algumas podem ser feitas por usuários de [[Ubuntu]] (vulgo [[Linux]]) e nenhumas por usuários <small>r</small>[[Windows]]. Mas se você usa Windows não se preocupe, você poderá participar de todos os ataques, sendo a vítima de todos eles.
+
+===''Sniffing''===
+[[Arquivo:Wando cheira calcinha.jpg|thumb|200px|Sniffer]]
+{{vqd|Cheirador}}
+É uma prática bastante utilizada por algumas [[paradoxo|empresas do bem]] como a fofa da Google, a eficiente [[Microsoft]], o inofensivo Facebook e outras organizações que se preocupam tanto contigo que monitoram tudo que você faz na [[internet]] vasculhando inclusive seus [[cookies|biscoitos/bolacha]]. Mas a suprema técnica avançada e aprimorada em [[Massachusetts]], [[Ohio]], consiste em bisbilhotar o que você, usuário, está faze'''ndo''' na internet, ao vivo, sem precisar ir até os cookies (ou no [[cache]]) para ver isso. Normalmente a ferramenta usada para esse fim mostra todos os dados trafegados na conexão que está sendo acompanhada. Por isso comece a ter cuidado com quem você compartilha a senha do Wi-fi ou com aquele vizinho escroto que você odeia e que vive com um notebook debaixo do braço e sentado ao lado de sua casa. 
+
+===''Traffic Shapping'''===
+A técnica preferida de operadoras como a [[NET (telecomunicações)|NET]], <s>[[Global Village Telecom|GVT]]</s> [[Vivo]] e outras corporações que fingem entregar conexão [[banda larga]], quando na verdade entregam algo um pouco melhor que uma internet discada, mas nada além de 256kbps. A técnica consiste em limitar o máximo que puder de uma conexão, dando prioridade a outras que por ventura rendem mais e ajudam a manter a estrutura do cartel de telecomunicação. Mas a técnica de entalhamento de banda também pode ser feito por empresas medíocres, como seria a sua. Dois casos para ilustrar melhor como funciona a técnica:
+
+'''Caso 1:''' Imagine você, dono de uma empresa de telefonia e tem 100 clientes e um ''throughput''(largura de banda) de 1GB pra todos eles se esbaldarem. Destes 100, 90 são aqueles clientes que vivem enchendo o saco, não são pagadores assíduos e só usam aquelas besteiras daquele [[Mark Zuckerberg|judeu imbecil]] como o trio miséria (''[[Whatsapp|zap zap]], [[Facebook|feicyy]] yh [[Instagram|instahh]]''). Os outros 10 são bons pagadores (débito automático inclusive!), aprovam a estrutura da sua empresa e ainda ajudam com sugestões e no natal colocam [[R$]] 100,00 naquelas "caixinhas de troco" quando visitam a empresa. Só que em contrapartida estes 10 clientes precisariam usar o máximo de velocidade da rede, pois trabalham com servidores, terceirização da estrutura de T.I. e o diabo-a-quatro. Como solucionar esse problema? Simples, ofereça 95% da largura de banda para esses pobres senhores que contribuem com toda a estrutura da empresa e outros 5% para que aqueles folgados possam viver compartilhando memes na internet. Simples!
+
+'''Caso 2:''' Sua empresa, como qualquer uma que não seja filiado ao governo, precisa pagar contas para sobreviver. Você tem 10 funcionários, desses apenas 2 carregam a empresa nas costas. O restante vive tirando foto das partes e compartilhando no privado do [[Bate-Papo UOL]] ou navegando no [[Redtube|Youtube Red]] pra ver os videos mais quentes do momento. Estes 2 colaboradores exemplares vivem reclamando que a rede anda pior que o PIB haitiano, não para de cair. Mas como resolver esse problema? Simples! Limita 20kbps pra aqueles outros 8 folgados que vivem à toa na internet e deixa o restante do ''throughput'' para os que fazem a empresa funcionar.
+
+===''DoS Attack''===
+[[Arquivo:DPerro2.PNG|thumb|180px|Um site que sofre ''DDos Attack'' constantemente]]
+Creio que seja um dos motivos para este servidor aqui cair tanto...
+
+O DDoS é um ataque que derruba um servidor (não me diga...). Um servidor tem um limite de solicitações de acesso, um da [[Globo|Globo.com]] teria um limite de 5 milhões de solicitações de acesso/usuário por exemplo, o servidor de um blog qualquer que não fosse o Blogger ou o Wordpress seria uns 100 mil e no caso da Desciclopédia cabe você e mais um editor. Neste ultimo exemplo, seria um caso de ''DDoS Attack'' se houvesse mais um usuário a solicitar conexão a este site, o que derrubaria o site e o deixaria indisponível por horas.
+
+===''UTP Flooding''===
+O ''UTP Flooding'' é um ''[[Flood]]'' via UTP (protocolo de transmissão de dados, não o cabo, seu débil!). Imagina se aqueles [[flooders]] invadissem o mesmo "canal" que você usa para assistir alguma besteira no [[Netflix]], baixar pornôes via Torrent ou mesmo ver algum video no youtube antes que ele fosse removido. Eles iriam postar [[asd|tanta merda]] que fariam sua rede ficar [[Felipe Massa|lenta]] progressivamente até simplesmente parar de funcionar e é nisso que consiste o ataque. 
+
+Esse ataque só seria bem sucedido se o atacante estiver com uma banda maior que a rede que ele quer derrubar. É como um Ônibus qualquer, você não vai conseguir "estourá-lo" se estiver só dentro dele, a não ser que seja um homem-bomba (vulgo Marombeiro), o que caracterizaria um exemplo de um outro ataque denominado "ping da morte".
+
+Outras técnicas incluem também o IP spoofing que seria comparado a um "Trote do Santos".
+
+==Veja Também==
+* [[Teste de intrusão|Teste de Penetração (aquela carinha)]]
+* [[Redes geograficamente distribuídas]]
+* [[Análise e desenvolvimento de sistemas]]
+
+
+{{ref-section}}
+
+{{Exatas}}
+
+[[Categoria:Informática]]
+[[Categoria:Redes de computadores|*]]

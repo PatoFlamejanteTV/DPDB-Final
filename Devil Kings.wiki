@@ -1,0 +1,127 @@
+{{logotipo_falso|Capcompédia.png|160|top=120|left=190}}
+{{game}}
+
+{{Infobox Game
+|title     = Reis do Diabão
+|image     = Devil Kings Box.jpg
+|caption   = 
+|developer = [[Capcom]]
+|publisher = [[Capcom]]
+|released  = [[2005]]
+|genre     = Hack and slash
+|platform  = [[PS2|Play 2]]
+|rating    = 10/10 segundo BASARA
+|ages      = Guerreiros e japas
+}}
+
+{{C|Na Holanda, o exército inimigo inteiro se fode sozinho, não precisa de '''VOCÊ'''''!!!!''|[[Reversão Holandesa]]|Devil Kings}}
+{{C|Huuummm... Estou com uma vagarosa impressão que já vi isso antes!!|[[Koei games]]|Devil Kings}}
+{{C|E o Orochi?????|[[Noob]] que tem que usar o bicho mais apelão pra ganhar de alguém|Devil Kings}}
+
+
+'''Devil Kings''' é um jogo desenvolvido pela [[Capcom]], que foi <s>plagiado</s> baseado no [[Período Sengoku|período Sengoku]] no [[Japão]]. Especialista em análises, acreditam que o reteiro pode ter alguma ligação com o de [[Samurai Warriors]], apesar que apenas às bandeiras, exércitos, falas, roupas, comandos e mais 781 fatores apontados, os especialistas [[Suborno|misteriosamente]] se encontram com dificuldades de provar a pequena impressão da [[Koei Games]] de plágio.
+
+==Jogabilidade==
+
+[[Arquivo:Controle.png|thumb|left|200px|Controle feito especialmente para se jogar Devil Kings]]
+Este jogo possui uma jogabilidade muito avançada, e que pode fritar o cérebro para os [[burro|menos preparados]] para tanta pressão intelectual para se derrotar o exército inimigo. Seus complicadíssimos combos são:
+
+Quadrado
+
+Quadrado + Quadrado
+
+Quadrado + Quadrado + Quadrado
+
+Quadrado + Quadrado + Quadrado + Quadrado
+
+Triângulo
+
+Triângulo + Triângulo
+
+Triângulo + Triângulo + Triângulo
+
+Triângulo + Triângulo + Triângulo + Triângulo
+
+==Personagens==
+
+Todos os personagens de Devil Kings são uma versão [[kawaii]] de figuras históricas japonesas, confira suas funções na tabela abaixo: 
+
+{|class=wikitable width=80%
+|-
+!width=50%|Personagem
+!width=50%|Quem ele <s>plageia</s> homenageia.
+|-
+|[[Devil King (Personagem)]]
+|[[Oda Nobunaga]]
+|-
+|[[Lady Butterfly]]
+|[[Nõhide]]
+|-
+|[[Hornet (Devil Kings)]]
+|<s>[[Peter Pan]]</s> [[Mori Ranmaru]]
+|-
+|[[Reaper (Devil Kings)]]
+|[[Akeshi Mitsuhide]]
+|-
+|[[Irdene (Devil Kings)]]
+|[[Tokugawa Ieyasu]]
+|-
+|[[Iron OX]]
+|[[Honda Tadakatsu]]
+|-
+|[[Red Minotaur]]
+|[[Takeda Shingen]]
+|-
+|[[Scorpio (Devil Kings)]]
+|[[Sanada Yukimura]]
+|-
+|[[Talon (Devil Kings)]]
+|[[Fūma Kotarō]]
+|-
+|[[Frost (Devil Kings)]]
+|[[Uesugi Kenshin]]
+|-
+|[[Venus (Devil Kings)]]
+|[[Planeta Venus]]
+|-
+|[[Lark (Devil Kings)]]
+|[[Azai Nagamasa]]
+|-
+|[[Bramble (Devil Kings)]]
+|[[Oichi|Ochê!!!]]
+|-
+|[[Orwik (Devil Kings)]]
+|[[Hojõ Ujiteru]]
+|-
+|[[Azure Dragon (Devil Kings)]]
+|[[Date Masamune]]
+|-
+|[[Arslan (Devil Kings)]]
+|[[Chõsokabe Motochika]]
+|-
+|[[Kahz (Devil Kings)]]
+|[[Mõri Motonari]]
+|-
+|[[Muri (Devil Kings)]]
+|[[Imagawa Yoshimoto]]
+|-
+|[[Zaan (Devil Kings)]]
+|[[Shimazu Yoshihiro]]
+|-
+|[[Profeta Q-Ball]]
+|?????
+|-
+|[[Puff (Devil Kings)]]
+|[[Nenêhide]]
+|}
+
+{{Sengoku Basara}}
+
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para PlayStation 3]]
+[[Categoria:Jogos de hack and slash]]
+[[Categoria:Jogos lançados em 2005]]
+
+[[ja:戦国BASARA]]
+[[zh-tw:戰國芭那那]]

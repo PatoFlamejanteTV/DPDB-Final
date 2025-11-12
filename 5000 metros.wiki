@@ -1,0 +1,63 @@
+'''5000 metros''', também chamada de '''maratona de pobre''', é a menor competição de corrida de longa distância que consiste numa corrida de 5 quilômetros, sendo esta distância algo como uma maratona bem foleirinha e sem nenhum ''glamour'' das provas de velocidade, por isso as pessoas que competem nesta prova são chamados de fudidos.
+
+Este tipo de corrida não requer apenas velocidade pura, mas muita resistência e capacidade de oxigenação dos músculos, por isso quanto menos ossos e músculos mais rendimento um atleta consegue ter numa competição dessas, logo os corredores raquíticos da Etiópia, do Quênia e do norte africano possuem uma vantagem natural e domínio histórico nesta competição, tanto que o campeonato mundial desse tipo de corrida é chamado de "disputinha entre quenianos e etíopes".
+
+== História ==
+
+Há registros na [[Grécia Antiga]] da prática de maratona para frescos, quando atletas amadores de fim de semana tinham plena convicção de que poderiam correr uma maratona de 40 quilômetros, mas não conseguiam completar nem 1/8 da prova, já prestes a sofrer algum ataque cardíaco de tão mortos de cansaço, então para estes frescos foi criado esta corridinha de 5 quilômetros.
+
+No século XIX esta distância era vista na corrida de cavalos, mas no País de Gales miserável não havia cavalos ali para competir, então pessoas tinham que correr, e haviam muitas apostas para isto.
+
+A distância de 5000 metros foi incluída nos jogos de [[Estocolmo 1912]]. Até a Segunda Guerra Mundial a prova foi dominada pelos chamados [[Finlandeses Voadores|Pinguins Finlandeses]] que ganharam tudo nesse começo. Com o tempo, porém os africanos tomaram conta desse esporte porque possuem a vantagem de terem três pernas.
+
+Por muitos anos as mulheres disputavam a prova dos [[3000 metros]], que foi abolida apenas nos Jogos de [[Atlanta 1996]] quando elas também passaram a correr 5000 metros. Nenhuma mulher normal, claro, consegue concluir esta prova, somente as semi-esqueléticas.
+
+== Regras ==
+
+[[Arquivo:5000 metros.jpg|thumb|250px|Grupo de maratonistas fracassados tentando a sorte na prova dos 5000 metros.]]
+
+Não há muito o que dizer das regras disso. Se uma pessoa tem duas pernas e nenhum problema cardíaco ou de obesidade, ela deve apenas [[correr pra caralho]] 5 quilômetros e chegar na frente dos outros.
+
+== Recordistas ==
+
+=== Homens ===
+{| width=60%
+|- bgcolor="lightsteelblue"
+!align="center" style="width: 6em"|Tempo
+!align="center" style="width: 18em"|Atleta
+!align="center" style="width: 8em"|País
+|- bgcolor="efefef"
+| <center>12:37.35</center> ||<center>[[Kenenisa Bekele]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>12:39.36</center>||<center>[[Haile Gebrselassie]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>12:39.74</center>||<center>[[Daniel Komen]]</center> ||{{QUE}}
+|- bgcolor="efefef"
+| <center>12:46.53</center>||<center>[[Eliud Kipchoge]]</center>||{{QUE}}
+|- bgcolor="efefef"
+| <center>12:46.81</center>||<center>[[Dejen Gebremeskel]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>12:47.04</center>||<center>[[Sileshi Sihine]]</center>||{{ETI}}
+|}
+
+=== Mulheres ===
+{| width=60%
+|- bgcolor="lightsteelblue"
+!align="center" style="width: 6em"|Tempo
+!align="center" style="width: 18em"|Atleta
+!align="center" style="width: 8em"|País
+|- bgcolor="efefef"
+| <center>14:11.15</center> ||<center>[[Tirunesh Dibaba]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>14:12.88</center> ||<center>[[Meseret Defar]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>14:14.32</center> ||<center>[[Almaz Ayana]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>14:15.41</center> ||<center>[[Genzebe Dibaba]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>14:20.87</center> ||<center>[[Vivian Cheruiyot]]</center>||{{QUE}}
+|- bgcolor="efefef"
+| <center>14:23.75</center> ||<center>[[Tatyana Kazankina]]</center>||{{RUS}}
+|}
+
+[[Categoria:Provas do atletismo]]

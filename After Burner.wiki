@@ -1,0 +1,61 @@
+{{game}}
+{{Título em itálico}}
+
+{{Infobox Série Game
+|title         = Depois de Queimado
+|image_logo    = After Burner Flyer.png
+|caption       = FIRE
+|genre         = Jogo de navinha
+|developer     = [[Sega]]
+|publisher     = [[Sega]]
+|origin        = [[Arcade]]
+|first_release = [[After Burner (jogo)|After Burner]] (1987)
+|last_release  = [[After Burner: Black Falcon]] (2007)
+}}
+{{vqd|Atirar pra Caralho versão Salve-se quem puder!}}
+{{c|AFETADO o quê?|Velha surda}}
+{{c|FIRE!|Narrador chato{{PAGENAME}}}}
+{{c|THE ENEMY!|Outra fala}}
+{{c|ON YOUR TAIL!|Mais outra fala}}
+{{c|Eu não vejo diferença nenhuma!|Nerd comparando After Burner I e II}}
+
+'''After Burner''' é uma série de jogos de atirar em aviões que partem pra cima do seu. Baseado nas estratégias [[Shirobon|de bombas]], foi feito em [[1987]], pela [[Sega|Cega]].
+
+==O jogo==
+
+Você pilota o [[F-14 Tomcat]], avião das [[Forças Armadas Norte Americanas]]. A partir daí, você deverá atirar em tudo e com todos. E claro, sempre se desviar dos <s>bombardeios</s> aviões suicidas (sim, tem isso na série!) e dos misseis. Em algumas versões, os números de misseis podem ser ilimitados (acho que na de SMS, por exemplo). Você passará por cenários que são a mesma coisa, só muda o período de cada um. Em alguns portes, você irá enfrentar [[chefão|chefões]] que te fodem com tudo e com todos. O jogo tem um pouco mais de 15 fases. Algumas com nível de dificuldade, podem ser menos. 
+
+==Portes==
+
+Com o sucesso da versão de Arcade, o jogo ganhou portes para vários sistemas, entre eles o SMS e o NES (sobre produção da [[Tengen]], depois [[Time Warner]], depois [[Atari]] e depois [[Midway]]) e para alguns PCs.
+
+==Referências em outros games==
+
+* No jogo [[Power Drift]], aparece o avião do game em uma das faixas bônus;
+* Em Yu Suzuki Game Works Vol. 1 de [[Dreamcast|Merdacast]], After Burner está presente como um dos games do [[Sega AM-2]]
+* Em [[Segagaga]], After Burner tem várias referências, tendo até um Encounter de [[Tarō Sega]] com a mira do game. A música deste Encounter se chama Bluffing Aim e toca a música After Burne;
+* Na canção SEGA-MIX de SGGG, tem duas partes da música de After Burner;
+* A R-720, nave de [[R-720 with Syrinx]], é um gabinete de After Burner;
+* Em [[Sega Superstars Tennis]], há uma quadra com o galeão de After Burner;
+* No jogo Monica no Castelo do Dragão, After Burner é um dos possíveis jogos favoritos do Duque Armadura;
+
+[[Arquivo:Afterb 0004.png|thumb|FIRE!!! Modificado]]
+
+==Sequências==
+
+O game teve várias sequências. A sua ultima foi em [[2007]] com [[After Burner Climax]].
+
+==Ver também==
+
+* [[Avião]]
+* [[Guerra]]
+* [[Atirar pra Caralho]]
+* [[R-720 with Syrinx]]
+* [[G-LOC]]
+* [[Sega|CEEEEEEEEEEEEEEGAAAAAAAAAAAAAA!!!!!!!]]
+
+{{After Burner}}
+{{Sega}}
+{{Shoot 'em up}}
+
+[[Categoria:Jogos da Sega]]

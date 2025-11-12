@@ -1,0 +1,61 @@
+{{Box ClubeFutebol
+|cor_clara         = red
+|cor_escura        = black
+|brasao            = Escudo do Always Ready.png
+|hino              =  
+|nome_oficial      = Club Always Ready to Lose Again
+|origem            = {{BOL}}''' - [[La Paz]]'''
+|apelidos          = Bunda Roja
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = [[Carlos Mesa]]
+|estadio           = [[Estádio Municipal de El Alto|Estádio El "Alto"]]
+|capacidade        = 25.000
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = El ‘Tano’ Dimeglio
+|melhor            = [[Altitude]]
+|patrocinador      = UTB, Suzuki, Banco Sol
+|material          = 
+|liga              = Campeonato Boliviano
+|divisao           = Primera División
+|títulos           = 
+|ranking           = 
+}}
+
+{{C|O importante é que se mantenha sempre permanentemente na Divisão Profissional como um time competitiva. Isso que dizer que não queremos ser campeão e depois desaparecer, isso é um projeto de longo prazo para a criação de um time cujo lema é "o importante é competir"|Presidente do Always Ready|seu projeto para o time a partir de 2020}}
+
+'''Club Always Ready to Lose Again''' é um time bilíngue da Bolívia cujo apelido local de "milionários" é apenas um curioso sarcasmo. Esse é um time que alcançou um feito que poucos times no mundo teriam capacidade de conseguir: Ser figurante no [[campeonato boliviano]] onde só tem time porcaria. 
+
+==História==
+=== Fundação ===
+
+O Always Ready foi fundado em 1933 e cresceu aos trancos e barrancos na capital La Paz pendendo entre amadorismo e possibilidade de fechar as portas. Nessa época antiga em que os bolivianos nem sabiam o que diabos era esse tal de "futebol", o Always Ready jogava usando o uniforme da seleção da Bolívia e adotou um nome em inglês para parecer chique e atrair os hipsters da cidade, que eram ninguém pois na Bolívia não existia hipsters em 1933. Por ter conseguido existir por 20 anos sem falir, o que normalmente aconteceria, o Always Ready pode ser um dos oito times que formariam a formação do profissionalismo na Bolívia, e até por isso seria campeão boliviano de 1951 e 1957 já que nem existiam adversários.
+
+[[Arquivo:Always Ready Europa.jpg|thumb|left|230px|Antiga foto da excursão do Always Ready na Europa em 1961. Aqui vemos o atacante do clube boliviano confundindo o esporte com [[queimada]].]]
+
+O Always Ready se tornou o primeiro time boliviano a fazer uma excursão na Europa, que durou de agosto a novembro de 1961, onde disputou 27 partidas se fingindo de time da quarta divisão da Inglaterra que usava índios celtas como jogadores. Graças ao nome "Always Ready" ninguém suspeitou que aquilo na verdade era um time boliviano repleto de jogadores bolivianos. A farsa caiu quando o Always Ready perdeu de 8x0 para o [[CSKA Sofía]], depois perdeu de 5x1 para o [[Olympic Charleroi]], aí perdeu de 6x0 para o [[CFR Cluj]], e então perdeu de 5x0 para o [[Luton FC]], nenhum time da Série D inglesa seria tão ruim assim, então quando a estrela do time boliviano, o atacante Mario Dimeglio, foi perguntado "How to explain these humiliating defeats?" e ele respondeu com "¿La pergunta?" a farsa foi revelada.
+
+=== Estreia na Libertadores ===
+
+Graças ao vice-boliviano de 1967 o Always Ready ganhou o direito de participar da Libertadores de 1968. Por ser um time considerado café-com-leite a [[CONMEBOL]] decidiu incluí-lo num grupo só com times ruins, um outro time boliviano ([[Jorge Wilstermann]]) e dois times peruanos. Mesmo assim só tomou goleada, não venceu um jogo sequer e ficou na lanterna do grupo.
+
+=== Segunda participação numa Libertadores ===
+
+Em 2020 o Always Ready mudou sua sede de La Paz para El Alto (tipo se o Botafogo se mudasse do Rio de Janeiro para Nova Iguaçu) pois após quase 100 anos o Always Ready aceitou que aquela cidade é pequena demais para dividir com o Bolívar e o The Strongest. Agora em El Alto (a favela mais alta do mundo) o Always Ready poderia ter uma cidade inteira de traficantes e marginais torcendo para si, criando uma intimidação nos adversários e que deu certo, pois o Always Ready já foi campeão boliviano em 2020 e garantiu acesso à sua segunda Libertadores.
+
+Na Libertadores de 2021 destacou-se por perder para todo mundo, menos para o Internacional de Porto legre a quem venceu por 2x0. Apesar do time ser bem ruim (perdeu de 7x2 para o [[Deportivo Táchira]]) em seus jogos em casa contou com o seu principal atleta, o [[Altitude]], que infelizmente não compareceu em nenhum jogo fora de casa e isso custou ao Always Ready a lanterna do grupo.
+
+==Títulos==
+
+* '''[[Copa Simón Bolívar|Copa Simão Bolivariano]]''': 1 vez (2018)
+* '''[[Campeonato Boliviano|Campeonato Santacruzense]]''': 3 vezes (1951, 1957, 2020-A)
+* '''Vencer o Inter''': 1 vez (2021)
+* '''Vencer o Corinthians: 1 vez (2022)
+
+{{Campeonato Boliviano}}
+{{Copa Libertadores}}
+
+[[Categoria:Times de futebol da Bolívia|Alwaysready]]

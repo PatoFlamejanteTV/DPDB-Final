@@ -1,0 +1,62 @@
+{{Pokedex}}
+<choose><option>{{voador}}</option> 
+<option>{{ave}}</option> </choose>
+{{Você quis dizer|Pombo gigante?}}
+{{c|Bi bibii!|Pidgeot pertencente a algum treinador aleatório em [[Saffron]]|a fuga da Equipe Rocket do prédio da Silph Co.}}
+{{c|Adeus, Pidgeot!|Ash|mais uma vez sendo um imbecil}}
+{{C|PIKAAAAA!|Pikachu festejando porque Pidgeot foi embora}}
+{{C|O Pokémon bebe seu guaraná. E quando ele acaba?|[[Gusang]] para [[Tomás Fortes]]}}
+{{C|Ele... Pidgeot!|[[Gusang]] respondendo a piada}}
+{{PokéBox
+| imagem = 018Pidgeot.png
+| frase = {{C|{{Cor|Pink|Adoro soltar a minha franga! Uuiiii!!!}}|Pidgeot}}
+| pokedex = 018
+| tamanho = 260px
+| nihongo = ピジョット
+| romaji =  Pigeot
+| tipo1 = Normal
+| tipo2 = Flying
+| habilidade1 = Voar, é óbvio
+| habilidade3 = Voar de cabeça pra baixo
+| espécie = pardal que se acha uma majestade imperial
+| cadeia evolutiva = [[Arquivo:PidgeySprite.gif|link=Pidgey|Pidgey]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:PidgeottoSprite.gif|link=Pidgeotto|Pidgeotto]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:PidgeotSprite.gif|link=Pidgeot|Pidgeot]]
+}}
+
+[[Arquivo:PidgeotSprite.gif|left]]'''Pidgeot''' é um pokémon ave dos tipos normal e voador. É a forma evoluída do [[Pidgeotto]], última fase da família do [[Pidgey]] mesmo que seja igual a sua pré-evolução e ninguém nunca percebeu isso. É extremamente raro de se achar, o último visto selvagem solto por um idiota está na floresta de Viridian.
+
+== Características ==
+
+Pidgeot é uma ave gigante que é usada como avião por treinadores. Quando evolui do [[Pidgeotto]], as penas da cabeça ficam amarelas e maiores, e as penas amarelas da barriga ficam brancas, mas coisa que você não percebe pois é ocultado pelo seu tamanho assustador. Mas apesar da aparecia assustadora de rolinha gigante mutante, ele é inofensivo já que tem cérebro de passarinho, ou seja é um idiota completo. Só passa a ser bom se for usado por [[Gary Carvalho|treinadores experientes]], caso seja treinado por um idiota sua força será inútil, já que inteligência fica em escassez fazendo com quem só faça burrada. Pidgeot costumam comer [[Caterpie]]s no café da manhã, por isso não é nem um pouco ameaçador, soa até um pouco boiola ele ficar pondo minhocas na boa.
+Seus ataques costumam causar grandes estragados, sendo os grandes culpados pelos acidentes aereos da [[TAM]] e o do [[Padre Voador|Padre Baloeiro]]. A suspeitas do furacão Katrina ter sido causado por ele também.
+
+Dizem que o poke-correios costumam mandar Pidgeots para carregar objetos pesados a longa distancias, por isso também é muito comum aparecerem pessoas esmagadas misteriosamente, apesar de treinadores de Pidgeot afirmarem que são os treinadores de [[Snorlax]], o que é mentira, já que Snorlaxes não esmagam ninguém com pacotes do correio. Na sua cabeça não há penas coloridas, como pensam. Na verdade são fitinhas do senhor do Bonfim que o primeiro Pidgeot comprou quando foi para [[Porto Seguro]]. As fitinhas acabaram se incorporando ao corpo do bichinho e modificou seu DNA, transmitindo essa aberração para seus descendentes.
+
+Existe uma lei criada pelo [[Lula|Governo Lula]], que está em estado de aprovação que todo treinador de Pidgeots ganham um capital para manter os estragos causados, além da criação de um nova taxa a tal de: TCEP (taxa para conserto dos estragos dos Pidgeot), o que causa muita polemica entre a população. Já nos países de primeiro mundo, foi proibido que qualquer treinador idiota tenha um Pidgeot, caso o seu [[Pidgeotto]] evolua para um Pidgeot, você deve doa-lo para algum treinador esperto, vale lembrar que os treinadores burros são os do terceiro mundo e os espertos são os do primeiro. Além disso, todo Pidgeot deve ser alimentado de dia em dia, e que se <s>foda</s> ferre se você vai se melar todo dia com meleca de [[Caterpie]], você tem que ser responsável em cuidar de sua linda ave, para que fique com suas penas macias igual a <s>bunda de sua irmã</s> um travesseiro de penas de pavão. É necessário também que um treinador de Pidgeot escove o bico dele, corte as unhas, penteei as suas penas, tire seus [[carrapato]]s, e tudo demais, sem reclamar. Eu sei que você irá amar ter um!
+[[Arquivo:Pidgeotfail.png|left|thumb|Pidgeot frustrando seu treinador no final da batalha.]]
+
+== Curiosidade ==
+[[Arquivo:Pokep.JPG|thumb|right|Pidgeot e seu cabelo super ''fashion''!]]
+Sabia que...
+
+*Pidgeot nunca vai tentar te comer... ele só come sementes e insetos.
+
+*Pidgeots selvagens lideram bandos gigantescos de Pidgeys e Pidgeottos e eles por experiência preferem mandar seus subordinados a te desafiar do que eles mesmos... sim quando você batalha com um Pidgeotto pode ter um Pidgeot assistindo a batalha de longe. 
+
+*O [[Ash]] foi obrigado a abandonar seu Pidgeot pelo governo japonês?
+
+*Bons treinadores sempre tem um Pidgeot?
+
+*No caso, {{USERNAME}} nunca terá um Pidgeot?
+
+*No caso, apenas Chuck Norris terá um Pidgeot?
+
+== Ver também ==
+
+[[Snorlax]]
+
+[[Pidgey]]
+
+[[Gengar]]
+
+{{poke1}}
+[[Categoria:Pássaros]]

@@ -1,0 +1,40 @@
+{{game}}
+{{Infobox Game
+|title     = King of Fighters Rated 1
+|image     = King of Fighters R-1 cover.jpg
+|caption   = Capa do jogo
+|developer = [[SNK]]
+|publisher = [[SNK]]
+|released  = [[1998]]
+|genre     = Nem dá pra saber o que é esse jogo
+|rating    = 0,01/100
+|platform  = [[PC da Xuxa]], [[Neo Geo Pocket]]
+|ages      = Inapropriado para pessoas normais
+}}
+
+'''King of Fighters R-1''' é o nome de uma desgraça em formato de jogo de videogame, um jogo obscuríssimo de [[The King of Fighters]] que ninguém conhece, lançado exclusivamente para [[Neo Geo Pocket]] mas com ports piratas para [[PC da Xuxa]], [[Game & Watch]] e [[celular]] [[Nokia 3310]].
+
+== Desenvolvimento ==
+
+Ao invés de fazer como a [[Capcom]] e lançar seu jogo para [[Game Boy]], justamente nesse ponto crucial a SNK decidiu não copiar o concorrente e nesse ponto decidiu copiar a [[Nintendo]] lançando eles próprios o seu [[minigame]], o [[Neo Geo Pocket]] possuindo a mesma capacidade de processamento de uma lanterna de R$1,99. O plano original era lançar esse minigame com o famoso [[Brick Game |∞ in 1]], pois infinitos jogos o Game Boy jamais conseguiria se igualar e isso arrasaria a concorrência, mas a [[Mattel]] patenteou a marca primeiro e a SNK não teve escolha a não ser lançar um KOF qualquer para o seu portátil de meia-tigela.
+
+O jogo em questão é o King of Fighters R-1, uma vergonha, como os desenvolvedores estavam focados na criação do [[The King of Fighters '98]], apenas aproveitaram os rascunhos feitos no [[Paint]] e transformaram todos personagens em [[chibi]] leprosos.
+
+== Jogabilidade ==
+
+[[Arquivo:KOF R-1 gameplay.jpg|thumb|left|É tipo um KOF pirata para Atari.]]
+
+Como a existência de um Neo Geo Pocket é uma lenda desacreditada por muitos, o King of Fighters R-1 foi jogado por apenas 17 pessoas em todo o mundo ao longo da história após vender 3 cópias. Devido a esses números é dificultoso determinar como era o gameplay desse game, seria como tentar descrever como os [[astecas]] jogavam futebol.
+
+Mas com árduas pesquisas arqueológicas se conclui que esse jogo deveria ser algo semelhante a tentar jogar The King of Fighters '97 no [[Atari 2600]] portátil que mais parece um Game Boy pirateado do Paraguai. Pelo menos ainda é um [[jogo de luta]], como se fosse um jogo de briga entre bonecos-palito personalizados como os principais personagens da SNK.
+
+== Recepção ==
+
+Como ninguém conhece esse jogo, não há nem críticas negativas ou positivas sobre ele, embora só de ver de longe esse negócio em preto e branco e velho já dá pra saber que é aquele tipo de jogo impossível de aguentar jogar mais de 10 minutos sem enjoar pra sempre.
+
+{{The King of Fighters}}
+
+[[Categoria:Jogos lançados em 1998]]
+[[Categoria:Jogos da SNK]]
+[[Categoria:Jogos para Neo Geo Pocket]]
+[[Categoria:Jogos de luta]]

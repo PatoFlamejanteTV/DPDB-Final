@@ -1,0 +1,883 @@
+{{Logotipo falso|Smashpédia.png|152px}}
+{{Jogo}}
+{{Briga}}
+{{Infobox Game
+|title     = Chupa e Mexe a Bola Ou te mato
+|image     = Super Smash Bros Ultimate capa.jpg
+|caption   = Capa do jogo, com a reunião de todos personagens
+|developer = [[Bandai Namco|Band-Aid No Cu]]
+|publisher = [[Nintendo|Mariotendo]]
+|released  = 2018
+|genre     = UFC
+|platform  = [[Nintendo Switch|Super Nintendo Odyssey]]
+|rating    = 3, 2, 1, GO!
+|ages      = Mesma de qualquer pirralho que jogue King of Fighters
+}}
+{{Vqd|Mais memória que [[Grand Theft Auto V|GTA V]]}}
+{{Vqd|Explode-console}}
+{{C|Na União Soviética, o personagem escolhe '''VOCÊ'''''!!''|Reversal Russa|{{PAGENAME}}}}
+{{C|Oh no! Not again!|Super Mario|{{PAGENAME}}}}
+{{C|Bwáááááá|Waluigi|não estar no {{PAGENAME}}}}
+{{C|Vou precisar tirar umas férias depois dessa|Masahiro Sakurai|{{PAGENAME}}}}
+{{C|Myamoto, faz a mesma coisa com Mario Kart e Mario Party|Qualquer um|{{PAGENAME}}}}
+{{C|Ao invés disso, a Ubisoft me colocou na bosta do Brawlhalla|Rayman|{{PAGENAME}}}}
+
+[[Arquivo:503945406745411627.png|75px|left]]
+[[Arquivo:SuperSmashBrosUltimate.jpg|right|thumb|Super Smash Bros em 2-D (ou quase isso)]]
+'''Super Smash Bros. Ultimate''' é o 5° jogo da franquia [[Super Smash Bros.]], que de super não tem nada. Dessa vez, esse jogo da série foi criado com um propósito: saber até aonde o Switch vai aguentar tanta coisa eu um jogo só. E você aí achando que GTA V era pesado... (achou errado, otário!)
+
+== Jogabilidade ==
+[[Arquivo:Job-keyboard(1).jpg|thumb|240px|O teclado de alguém ao fazer esse artigo.]]
+A gameplay do jogo é a mesma coisa. Você primeiro escolhe entre os trocentos personagens que o jogo tem, depois escolhe a fase, sendo que é todas iguais, e depois o jogo fala: "Foda-se, agora é com você" e começa a porradaria. Seu objetivo é mandar seu oponente para a <s>belíssima cidade de</s> [[Puta que pariu]] e vencer a partida. Claro que se o jogo fosse só isso seria muito fácil. Além do modo porradaria, tem o modo online pra infrentar americanos noobs ou chineses pros, o modo All-Star, onde você enfrenta todos os personagens do jogo um atrás do outro (que delícia) e o modo Clássico, onde você faz batalhas aleatórias e pra no final enfrentar [[Master Hand]] em uma batalha super-clichê.
+
+== Personagens ==
+{{Vqd|Escrever a [[Bíblia]]|Fazer a lista de personagens do jogo}}
+Sakurai resolveu ser kamikase e colocou todos, repito: '''TODOS''' os personagens da série, desde personagens estúpidos como [[Jigglypuff]] até personagens fodões e apelões como [[Ganondorf]] e [[Captain Falcon]]. Pra ficar mais fácil, irei ordenar os personagens por jogo, até por que seria impossível ordenar em ordem alfabética ou aleatória.
+===Do [[Super Smash Bros. (jogo)|Smash 64]]===
+{| class="wikitable sortable"
+|-
+! # !! Personagem !! Foto !! Jogo !! Descrição
+|-
+| 1 || [[Super Mario|Armário]] || [[Arquivo:Izzy Mario.jpg|110px]] || [[Donkey Kong (jogo)|Donkey Kong]] || O mascote da Ñ-Intendo. Um encanador obeso que gosta de salvar a princessinha de uma tartaruga mutante gigante. É o personagem que todos os noobs querem jogar logo de cara, por ser o protagonista. O Final Smash do Mario (que Mario?) é que ele joga um monte de fogo em todo mundo., você pode usar o [[Super Mario Odyssey|Cappy]] também, sabia?
+*Final Smash: Fogo pela mão, a mesma merda do Brawl.
+|-
+| 2 || [[Donkey Kong|King Kong]] || [[Arquivo:Normal DonkeyKong1127.jpg|110px]] || [[Donkey Kong (jogo)|Donkey Kong]] || O primeiro vilão do Encanador e o primeiro personagem famoso a surgir. Possui um costume de sequestrar mulheres e levá-la a altas torres devido ao seu instinto primitivo de <s>King Kong</s> macaco. Seu Final Smash é um [[Especial de Porrada]] no primeiro que ele encontrar na frente.
+*Final Smash: Imita o [[Jotaro]] e dá ''trocentoszentos'' socos no inimigo, só faltou gritar ORAORAORA.
+|-
+| 3 || [[Link|O Zelda]] || [[Arquivo:Link the faces of evil cdi.jpg|110px]] || [[The Legend of Zelda (jogo)|The Legend of Zelda]] || O Herói de Hyrule, veio sem seu chapéu de elfo, e tá mais azul, ele pode usar uma bomba simplesmente para chamar a atenção dos outros, seu final smash é um arco e flecha GIGANTE, agora você também pode usar a clássica roupa do Link.
+*Final Smash: Atira um [[Shoop da Whoop]] de um arco.
+|-
+| 4 || [[Samus Aran|Gostosa de armadura]] || [[Arquivo:Drunk Samus.jpg|110px]] || [[Metroid (jogo)|Metroid]] || A vida toda fiquei pensando que era homem antes de surgir a [[Zero Suit Samus]], ela agora pode atirar lasers, mesmo pulando, você pode cancelar também. Samus, assim como vários outros ficaram só pra encher linguiça na tela de personagens, porque gora todos preferem a Zero Suit ou a Bayonetta.
+*Final Smash: Faz um Shoop da Whoop através do seu canhão.
+|-
+| 5 || [[Yoshi|Dinossauro do Mario]] || [[Arquivo:DyYw8CKLzg-4-yoshi.png|110px]] || [[Super Mario World]] || Yoshi sempre representando o Acre nas olimpíadas Vorazes Nintendísticas. Agora o seu super final é chamar o bando de dinossauros e atropelar o pessoal que estiver na frente, pra quem não entendeu é uma copia da cena de introdução no Melee.
+*Final Smash: O inimigo vira barata e é pisado por múltiplos parentes do próprio.
+|-
+| 6 || [[Kirby|Bola de Chiclete]] || [[Arquivo:Kirby 999.jpg|110px]] || [[Kirby's Dream Land]] || Personagem fictício saído da cabeça de Sakurai, é o personagem principal que está mais que preparado para sugar todos os malvadões do jogo para alvar o dia.
+*Final Smash: Usa uma espada enorme e te faz em pedacinhos. A mesma merda do Smash 4.
+|-
+| 7 || [[Fox McCloud|Foxy]] || [[Arquivo:Fox 0.jpg|110px]] || [[Star Fox (jogo)|Star Fox]] || O Fantástico Senhor Raposo, seu final smash se assemelha ao [[Star Wars]], que leva todos os jogadores ao [[inferno]]
+*Final Smash: Te leva pro espaço com falta de ar e atira com lasers das Arwing.
+|-
+| 8 || [[Pikachu|Picador de Cu]] || [[Arquivo:Pikachumeme.jpg|110px]] || [[Pokémon Green / Red / Blue|Pokémon Red / Blue]] || O primeiro Pokémon do Ash, existe também o Pikachette (ou seja, o Pikachu do sexo feminino), você se lembra do [[Pikachu Libre]]?
+*Final Smash: Vira uma bola de choque e tromba em tudo e todos.
+|-
+| 9 || [[Luigi|Mario Verde]] || [[Arquivo:Nintendo+-+Satoru+Iwata+als+Luigi1.jpg|110px]] || [[Mario Bros.]] || O irmão do protagonista, deve se contestar sendo um personagem secundário e ainda escondido aos olhos dos novatos que não conseguirem destrava-lo. Luigi, assim como inúmeros outros personagens, usa os mesmos ataques do seu irmão, mas por exemplo em um ataque de bola de fogo para não ficar igual, o fogo é verde para Luigi.
+*Final Smash: Suga todo mundo pra dentro do aspirador de fantasmas do [[Luigi's Mansion]]. A mesma merda do Smash 4, mas o aparelho, por alguma caralha, é de Luigi's Mansion 3.
+|-
+| 10 || [[Captain Falcon|Falcon PUNCH!]] || [[Arquivo:Falcon Hug ID by MissyZero.jpg|110px]] || [[F-Zero (jogo)|F-Zero]] || A Unica coisa que se sabe sobre esse é o falco punch, e que não aparece em nenhum jogo além de Super Smash Bros.
+*Final Smash: Te atropela com o Blue Falcon. A mesma merda do Brawl.
+|-
+| 11 || [[Ness|Nossa]] || [[Arquivo:Nesscosplay.jpg|110px]] || [[EarthBound]] || Ness aparece em todos os jogos de Smash, mas nem pra aparecer em um jogo de sua série ele aparece. Novamente brincando de ioiô no meio da luta e usando os suas feitiçarias psíquicas.
+*Final Smash: PK Starstorm. A mesma merda do Brawl, só que desta vez aparece a Paula e o Poo junto.
+|-
+| 12 || [[Jigglypuff|Balão Chato]] || [[Arquivo:Jigglypuff Zangado.jpeg|110px]] || [[Pokémon Green / Red / Blue|Pokémon Red / Blue]] || O segundo Pokémon do role, embora ninguém ligue para esse personagem e até tenha esquecido que ele faz parte do elenco principal, ele ainda é bom quando se fala em fazer as pessoas dormirem.
+*Final Smash: Cresce até ocupar mais de 80% da tela. A mesma merda do Brawl.
+|}
+
+===Do [[Super Smash Bros. Melee|Melee]]===
+{| class="wikitable sortable"
+|-
+! # !! Personagem !! Foto !! Jogo !! Descrição
+|-
+| 13 || [[Princess Peach|Princesa Bitch]] || [[Arquivo:Cure Peach 98.jpg|110px]] || [[Super Mario Bros.]] || Peach mais puta do que nunca, agora está que nem a Bayonetta fazendo charme pra todo o jogador macho alfa do jogo. Diferente dos antigos jogos em que não dava pra ver nada debaixo de seu vestido, parece que alguns [[tarado]]s andaram investigando mais afundo e conseguiram, mas se foderam ao ver que não tinha nada lá.
+*Final Smash: Dança uma música que bota todo mundo pra dormir. A mesma merda do Brawl.
+|-
+| 14 || [[Bowser|Rei CUpa]] || [[Arquivo:BowserBloodAmiibo.jpg|110px]] || [[Super Mario Bros.]] || O rei dos reis um dos mais pesados personagens do jogo, não jogue com ele, travará todo o jogo ao fazer o primeiro golpe, e nem pense em ir em duelo contra o King.K.Roll se não quiser perder seu console.
+*Final Smash: Se transforma no Giga Bowser, porém, ele dá uma de [[Saitama]] e dá um soco em todos que tiverem na região de sua mão.
+|-
+| 15 || [[Ice Climbers|Vão participar da Olimpíada]] || [[Arquivo:Ice Climbers cosplay.jpg|110px]] || [[Ice Climber]] ||Dois pobres coitados que vieram aqui por sorteio, se um morreu o outro tá vivo.
+*Final Smash: Aparece do nada uma geleira. A mesma merda do Brawl.
+|-
+| 16 || [[Sheik|Emerson]] || [[Arquivo:Sheik-purpurina.jpg|110px]] || [[The Legend of Zelda: Ocarina of Time]] || Ninja não-binário e mudo ao mesmo tempo. Ainda assim, continua sendo um dos personagens que usa o poder do [[correr pra caralho]].
+*Final Smash: Basicamente a mesma merda do DK, só que com faquinhas.
+|- 
+| 17 || [[Zelda|Princesa do Zelda]] || [[Arquivo:Zelda beach.png|110px]] || [[The Legend of Zelda]] || Caiu na Fonte da Juventude e ficou mais nova que na sua aparição no Melee. Tem até um próprio stand de cavalheiro.
+*Final Smash: Te coloca numa Triforce que te mata se você tiver 100% de dano ou mais.
+|-
+| 18 || [[Dr. Mario|Mario com PHD]] || [[Arquivo:Medico roger.jpg|110px]] || [[Dr. Mario]] || Ele não é um doutor real, não confie nele pra fazer exame da [[próstata]].
+*Final Smash: A mesma merda do Mario, só que com medicamento genérico no lugar do fogo.
+|-
+| 19 || [[Pichu|Pau murcho]] || [[Arquivo:Pichu-Bondage.gif]] || [[Pokémon Gold / Silver / Crystal|Pokémon Gold / Silver]] || Continua se machucando, e agora tá mais frágil que ego de [[piriguete]].
+*Final Smash: A mesma merda do Pikachu.
+|-
+| 20 || [[Falco Lombardi|O outro Falcon]] || [[Arquivo:Falcao10.jpg|110px]] || [[Star Fox (jogo)|Star Fox]] || Esse não dá punches, ele é uma mistura de Captain Falcon com o Fox, ele até roubou o Final Smash de Fox.
+*Final Smash: A mesma merda do Fox, só muda a formação de combate das Arwing.
+|-
+| 21 || [[Marth|Sempre achei que era mulher]] || [[Arquivo:Fideo Aldena Marth Cosplay.jpg|110px]] || [[Fire Emblem]]: Shadow Dragon and the Blade of Light || O japonês que virou americano, e tá mais rapido do que o Sonic.
+*Final Smash: Te ataca num hit só. A mesma merda do Brawl.
+|-
+| 22 || [[Young Link|O Zelda do 64]] || [[Arquivo:Young Jensen.jpg|110px]] || [[The Legend of Zelda: Ocarina of Time]] || Continua tomando leite, mas não no rabo.
+*Final Smash: Te tranca numa Triforce e te faz em pedacinhos. A mesma merda do Final Smash do Link no Brawl e SSB4.
+|-
+| 23 || [[Ganondorf|Bowser da Zelda]] || [[Arquivo:Ganon13.jpg|110px]] || [[The Legend of Zelda (jogo)|The Legend of Zelda]] || Voltou a ficar narigudo e agora usa uma espada pra atacar, que antes só era utilizada pra provocar os outros.
+*Final Smash: Vira uma besta e sai correndo. A mesma merda do Brawl, só que agora no estilo do Ocarina of Time.
+|-
+| 24 || [[Mewtwo|Meu-2]] || [[Arquivo:Mewtwocano.jpg|110px]] || [[Pokémon Green / Red / Blue|Pokémon Red / Blue]] || Pokémon com ameaças de te matar cortada das versões ocidentais.
+*Final Smash: Se mega transforma e joga uma bola de energia que pode te dar 30% de dano. A mesma merda do Smash 4.
+|-
+| 25 || [[Roy|Nunca ouvi falar]] || [[Arquivo:Pokemon Heroes by Teh Summoner Yunie.jpg|110px]] || Fire Emblem: The Binding Blade || Entrou pra fazer promoção de um jogo que até hoje não recebeu localização, só conhecem o mesmo por causa de um spin-off pra celular.
+*Final Smash: A mesma merda do Marth.
+|-
+| 26 || [[Mr. Game & Watch|Sr. Jogue e Assista]] || [[Arquivo:Boneco palito misterioso.JPG|110px]] || [[Game & Watch]] || Agora tem múltiplas poses, incluindo uma que foi censurada por causa de descendente de [[índio]] que nem sequer atua como índio.
+*Final Smash: Vira um [[Lula|presidiário]], mas sai correndo ao invés de permanecer ativo por uma caralhada de segundos.
+|}
+
+===Do [[Super Smash Bros. Brawl|Brawl]]===
+{| class="wikitable sortable"
+|-
+! # !! Personagem !! Foto !! Jogo !! Descrição
+|-
+| 27 || [[Meta Knight|Kirby Negro]] || [[Arquivo:IrwinKnight.jpg|110px]] || [[Kirby's Adventure]] || A prova viva de que nem sempre os dois lados da mesma moeda compensa.
+*Final Smash: Faz com que o chão solte um Shoop da Whoop, fazendo com que ele te corte em pedacinhos.
+|-
+| 28 || [[Pit|Poço]] || [[Arquivo:Anjo9.gif|110px]] || [[Kid Icarus (jogo)|Kid Icarus]] || Tá aqui só pra memear em seu cenário natal.
+*Final Smash: Chama uma carruagem do céu pra te atropelar.
+|-
+| 29 || [[Zero Suit Samus|Samus sem roupa]] || [[Arquivo:Samus Zero Zero Zero Suit.jpg|110px]] || [[Metroid: Zero Mission]] || De gostosona, regrediu para um mero pacote de osso seco. Obrigado, [[Geração Z]], arruinaram as punhetas de todo mundo.
+*Final Smash: Sobe na nave e atira um Shoop da Whoop de seu canhão, dentro da Power Suit.
+|-
+| 30 || [[Wario|WAHrio]] || [[Arquivo:Gordogame1.jpg|110px]] || [[Super Mario Land 2: 6 Golden Coins]] || Entrou aqui sem nenhum propósito a não ser peidar.
+*Final Smash: Vira no Wario-Man, mas ele faz tudo sozinho, inclusive peidar.
+|-
+| 31 || [[Solid Snake|'''!''']] || [[Arquivo:Solidsnake.jpg|110px]] || [[Metal Gear (jogo)|Metal Gear]] || Voltou pelo motivo de que não aguentava mais aparecer em [[Pachinko]].
+*Final Smash: Chama um helicóptero pra jogar um monte de mísseis na região da mira.
+|-
+| 32 || [[Ike|Ai que dor]]|| [[Arquivo:JqpbtD6- 400x400.jpg|110px]] || [[Fire Emblem: Path of Radiance]] || O clone marombeiro de Marth, (ou não...), você pode usar ou o fraco ou o forte. 
+*Final Smash: Te coloca no ar, te faz em pedacinhos e te [[jooj]] no chão. A mesma merda do Brawl.
+|-
+| 33~35 || [[Pokémon Trainer|Ash Ketchup]] || [[Arquivo:Ketchup13414.jpg|110px]] || [[Pokémon Green / Red / Blue|Pokémon Red / Blue]] || [[Charizard]] voltou a ser escravo do Red, assim como [[Squirtle]] e [[Ivysaur]] mas agora dá pra jogar com a Muié do jogo.
+*Final Smash: Todos os três atacam ao mesmo tempo. A mesma merda do Brawl.
+|-
+| 36 || [[Diddy Kong|Donkey Kong Jr.]] || [[Arquivo:MacacoAranha.jpg|110px]] || [[Donkey Kong Country]] || Tá tentando ganhar uma grana extra vendendo amendoim.
+*Final Smash: Percorre a tela toda com seu Rocketbarrel. A mesma merda do Pikachu, só que mais lerdo e foderoso.
+|-
+| 37 || [[Lucas (EarthBound)|Tem muita gente com esse nome..]] || [[Arquivo:09 lucas lgl.jpg|110px]] || [[MOTHER 3]] || Outro que tá aqui pra fazer promoção de um game sem localização.
+*Final Smash: A mesma merda do Ness, só que com a inclusão da Kumatora e do Boney.
+|-
+| 38 || [[Sonic the Hedgehog|Sanik teh Heghogg]] || [[Arquivo:Sanic by daltond-d71lysv.png|110px]] || [[Sonic the Hedgehog (jogo)|Sonic the Hedgehog]]  || Ex-rival e agora broderzão do Mario em época de Olimpíada, retorna mais uma vez pra ver se o público consegue gostar de seus novos jogos sem ser [[Sonic Mania]].
+*Final Smash: Se transforma no [[Super Sonic]] e zigzagueia a arena toda automaticamente.
+|-
+| 39 || [[King Dedede|Rei Discagem Direta a Distância]] || [[Arquivo:KingDededechicletekirby.JPEG|110px]] || [[Kirby's Dream Land]] || Tá aqui pra te desafiar pra comer e correr ao mesmo tempo. Soa ilógico, mas é um minigame real do [[Kirby Super Star]].
+*Final Smash: Te joga num ringue de luta, atira uns mísseis e por fim, te dá uma marretada elétrica.
+|-
+| 40 || [[Olimar|Anão]] || [[Arquivo:Olimar Pikmin.png|110px]] || [[Pikmin (jogo)|Pikmin]] || Esse só quer saber de planta, não deixe ele chegar perto de [[Maconha|ervas]].
+*Final Smash: Voa num foguete e vem uns bicho te dar umas mordidas. Depois de um tempo, o foguete que ele tava explode. A mesma merda do Brawl.
+|-
+| 41 || [[Lucario|Pokémon falante]] || [[Arquivo:Lucamean.jpg|110px]] || [[Pokémon Diamond / Pearl / Platinum|Pokémon Diamond / Pearl]] || Mewtwo 10% mais bonzinho, a única diferença é que não é baseado no [[Giygas|Giegue]] e não sabe flutuar.
+*Final Smash: Voa pro alto e faz um Shoop da Whoop no cenário todo. A mesma merda do Brawl.
+|-
+| 42 || [[R.O.B.|Robobão]] || [[Arquivo:Robkills.jpg|110px]] || Stack-Up || Mais uma vez sendo mal representando sem cenário próprio.
+*Final Smash: Faz um Shoop da Whoop verde através dos seus olhos.
+|-
+| 43 || [[Toon Link|O Zelda quando tinha 10 anos]] || [[Arquivo:Toon Link.jpg|110px]] || [[The Legend of Zelda: Four Swords]] || Continua tendo olho de bomba. E usando bomba também. Consumindo bomba, talvez.
+*Final Smash: A mesma merda do Young Link, só que com efeitos do Wind Waker.
+|-
+| 44 || [[Wolf O'Donnell|O rival do foxy]] || [[Arquivo:Wolfdeverdade.jpg|110px]] || [[Star Fox 64]] || Esse ganha qualquer campeonato de uivo.
+*Final Smash: A mesma merda do Fox, só que com toda a gangue do Wolf.
+|}
+
+===Do [[Super Smash Bros. for Nintendo 3DS and Wii U|Smash 4]]===
+{| class="wikitable sortable"
+|-
+! # !! Personagem !! Foto !! Jogo !! Descrição
+|-
+| 45 || [[Villager|Aldeão que não é o do Minecraft]] || [[Arquivo:Vagabundo2.jpg|110px]] || [[Animal Crossing (jogo)|Animal Crossing]] || Personagem mais mudo que o Ness, porém, mais expressivo.
+*Final Smash: Te tranca numa casa. A mesma merda do Smash 4.
+|-
+| 46 || [[Megaman|Homem Pedra]] || [[Arquivo:Megaman grafitti.jpg|110px]] || [[Megaman (jogo)|Megaman]] || Sua versão do futuro sempre se sai melhor... Menos aqui.
+*Final Smash: Chama todos os antecessores e sucessores do Megaman pra te dar um quebra. A mesma merda do Smash 4, mas com a adição do [[Protoman]] e do [[Bass]].
+|-
+| 47 || [[Wii Fit Trainer|O cara da academia]] || [[Arquivo:Wii Fit Trainer.jpg|110px]] || [[Wii Fit]] || Mais pálidos que defunto depois de 90 dias como ninho temporário de urubu.
+*Final Smash: Cria um monte de sombras [[gay|coloridas]] em sua direção.
+|-
+| 48 || [[Rosalina|Gostosona das galáxias]] || [[Arquivo:1606 Rosalina.png|110px]] || [[Super Mario Galaxy]] || Princesa emo que faz a alegria dos pré-adolescentes.
+*Final Smash: Chama uma estrela gigante que explode no final. A mesma merda do Smash 4.
+|-
+| 49 || [[Little Mac|Pequeno McLanche Feliz]] || [[Arquivo:Lutador de boxe.png|110px]] || [[Punch-Out!!]] || Tá aqui só por causa do game do Wii, caso contrário, ainda seria um Assist Trophy.
+*Final Smash: Se transforma no Giga Mac, porém, imita o Final Smash do DK.
+|-
+| 50 || [[Greninja|Sapo-Boi-Azul]] || [[Arquivo:Gamer dewott.jpg|110px]] || [[Pokémon X / Y]] || Mais um que só entrou pra fazer promoção de Geração nova de Pokémon.
+*Final Smash: Te coloca na [[Lua]], te faz em pedacinhos e te jooj.
+|-
+| 51~53 || [[Mii Fighters|Miinbecis]] || [[Arquivo:Miitomo.png|110px]] || [[Wii]] || Finalmente criaram o [[Mugen]] em 3D.
+*Final Smash: Um imita o Kenshiro (já é o terceiro), o outro imita a Wii Fit e o outro imita a Samus. Todos são a mesma merda do Smash 4.
+|-
+| 54 || [[Palutena|Atena]] || [[Arquivo:Palutena-Cosplay.jpg|110px]] || [[Kid Icarus (jogo)|Kid Icarus]] || Deusa que faz pole dancing e gira mais que o Pião da Casa Própria.
+*Final Smash: Te coloca num buraco negro e saí um Shoop da Whoop do canto esquerdo da tela. A mesma merda do Smash 4.
+|-
+| 28<sup>ε</sup> || [[Dark Pit|Poço Negro]] || [[Arquivo:Gotico.jpg|110px]] || Kid Icarus: Uprising || Versão emo do Pit.
+*Final Smash: Atira uma flecha especial. A mesma merda do Smash 4.
+|-
+| 21<sup>ε</sup> || [[Lucina|Quem mesmo?]] || [[Arquivo:IMG_0045.JPG|110px]] || [[Fire Emblem Awakening]] || Assim como a [[Angelina Jolie]], essa fez remoção de peito.
+*Final Smash: A mesma merda do Marth.
+|-
+| 55 || [[Pac-Man|Come come]] || [[Arquivo:Pacman pizza ftw by xellphie.jpg|110px]] || [[Pac-Man (1980)|Pac-Man]] || Mais avulso que propaganda de 5 segundos do [[YouTube]], tá aqui só por causa do estúdio que fez o jogo.
+*Final Smash: Vira no [[Super Pac-Man]] e come tudo e todos, só que automaticamente.
+|-
+| 56 || [[Robin (Fire Emblem)|A Nintendo gosta mesmo desse jogo...]] || [[Arquivo:Boy in white.jpg|110px]] || [[Fire Emblem Awakening]] || Robin, Joker, [[Feira da Fruta|Bátima]] que é bom, nada.
+*Final Smash: Chama o Chrom e ambos te enchem de pancada, além também te de dar um jooj.
+|-
+| 57 || [[Shulk|Luciano Shulk]] || [[Arquivo:Shulk Cosplay.jpg|110px]] || Xenoblade Chronicles || Fala inglês europeu porque acha que é chique mesmo. Fora isso, é um Marth com anabolizantes na espada.
+*Final Smash: Te leva pra outra dimensão pra você sentir realmente a [[orgasmo|coisa]]. A mesma merda do Smash 4, só com a aparição da Fiora depois da recauchutagem.
+|-
+| 58 || [[Bowser Jr.|Filho do Bowser com a Peach]] e outros 7 imprestáveis || [[Arquivo:BowserJresfregao.jpg|110px]] || [[Super Mario Sunshine]] || Isso mesmo, aqueles 7 idiotas que ficam cantando nos desenhos do Mario retornaram. Ninguém pediu, mas beleza.
+*Final Smash: Se transforma no Shadow Mario e faz um X na tela que depois explode. A mesma merda do Smash 4.
+|-
+| 59 || [[Duck Hunt|Pega o pombo, Muttley!]] || [[Arquivo:CachorroWTF.jpg|110px]] || [[Duck Hunt]] || Sabe aquele cachorro arrombado que você queria atirar tanto nele mas não podia? Bem, agora você pode usar como saco de pancada.
+*Final Smash: Te envia pra um tiroteio dos [[Wild Gunman]] contra os figurantes de [[Hogan's Alley]]. A mesma merda do Smash 4.
+|-
+| 60 || [[Ryu (Street Fighter)|Meia lua pra frente e soco]]  || [[Arquivo:Ryu-snk-stand.gif|110px]] || [[Street Fighter (jogo)|Street Fighter]] ||O perfeito pro game, ele dá uma de [[Michael Jackson]] e anda pra trás na maioria das lutas.
+*Final Smash: Super [[Hadouken]], ou Super [[Shoryuken]], dependendo da distância. As mesmas merdas do Smash 4.
+|-
+| 61 || [[Cloud Strife|Não é o Van Damme]] || [[Arquivo:Final fantasy cloud strife toy.jpg|110px]] || [[Final Fantasy VII]] || O único que fala japonês em todo o game, basicamente pela empresa dona da franquia ser uma pau no cu com licenciamentos e os caralho á quatro.
+*Final Smash: Usa Omnislash pra te fazer em pedacinhos e te jooj (o pessoal da BanNamco já tava sem ideias de Final Smash pelo visto).
+|-
+| 62 || [[Corrin|Corrin na Casa Branca]] || [[Arquivo:Boy in white.jpg|110px]] || [[Fire Emblem Fates]] || Tá aqui só pra promover um game que nem sequer tinha sido lançado a tempo no Ocidente.
+*Final Smash: Vira num dragão e te coloca numa enchente. A mesma merda do Smash 4.
+|-
+| 63 || [[Bayonetta (personagem)|Eita porra, quem chamou o capeta?]] || [[Arquivo:Bayonetta 2 move.jpg|110px]] || [[Bayonetta]] || Bruxa com a raba mais imensa que a do C. Falcon e Snake somadas.
+*Final Smash: Chama um dragão que te mata se caso tiver com 100% de dano ou mais. A mesma merda do Smash 4 (e cansa repetir isso toda vez no final)
+|}
+
+===Novos===
+{| class="wikitable sortable"
+|-
+! # !! Personagem !! Foto !! Jogo !! Descrição
+|-
+| 64 || [[Inklings|As lulas do Splatoon]] || [[Arquivo:Splatoon+2channel+they+aint+kids 33f3f9 6180445.jpg|110px]]
+ || [[Splatoon]] || Eram coelhos, mas depois comeram algum fruto do mar e se tornaram lulas. Graças a Deus não colocaram Inkling de cor [[esperma|branca]].
+*Final Smash: Solta um Shoop da Whoop composto de tinta.
+|-
+| 13<sup>ε</sup> || [[Princess Daisy|Peach Laranja]] || [[Arquivo:Daisy-Summer-Fun-princess-daisy-9081851-667-1030.jpg|110px]] || [[Super Mario Land]] || Mais secundária que o Waluigi em alguns casos, mas pelo menos chegou a aparecer em algum jogo principal. Inútil.
+*Final Smash: A mesma merda da Peach. Também inútil e uma disgraça!
+|-
+| 65 || [[Ridley|Como ele cabe nas fases?]] || [[Arquivo:Ridley 5.jpg|110px]] || [[Metroid (jogo)|Metroid]] || O personagem que todo mundo torrou a cabeça dos desenvolvedores. Basicamente um Charizard apelão.
+*Final Smash: Te joga na nave da Samus e dá um grito mais alto que o do Loud Nigra.
+|-
+| 66 || [[Simon Belmont|Castlevania]] || [[Arquivo:Conan.jpg|110px]] || [[Castlevania (jogo)|Castlevania]] || Outro que também tava cansado de aparecer somente em Pachinko.
+*Final Smash: Te tranca num caixão, jogando o mesmo no ar e te ataca com umas cruzes de energia.
+|-
+| 66<sup>ε</sup> || [[Richter Belmont|10° na Escala Jack]] || [[Arquivo:250px-Richter Belmont from Symphony of the Night.jpg|110px]] || [[Castlevania: Rondo of Blood]] || Igual ao maluco acima, só que tá aqui na tentativa de pegar mais mulher do que o normal. Esse povo é gado demais...
+*Final Smash: A mesma merda do Simon, mas com cruzes azuis.
+|-
+| 4<sup>ε</sup> || [[Dark Samus|Samus Negra]] || [[Arquivo:Zero Suit Dark Samus.jpg|110px]] || [[Metroid Prime]] || Foi promovida do posto de Assist Trophy. Flutua com mais leveza que a Peach até.
+*Final Smash: A mesma merda da Samus.
+|-
+| 25<sup>ε</sup> || [[Chrom|Google Chrom]] || [[Arquivo:Guerreiro da Melancia.jpg|110px]] || [[Fire Emblem Awakening]] || Pai da mulher que tem a surface mais reta que a Final Destination.
+*Final Smash: A mesma merda do Ike, só que de lado.
+|-
+| 67 || [[King K. Rool|CROK²]] || [[Arquivo:Childhood-King-K.-Rool-Halloween-Costume.jpg|110px]] || [[Donkey Kong Country]] ||Tá aqui pra agradar saudosistas da Rare, mas ainda há idiotas que pedem a inclusão de [[James Bond]], Conker e outros, sendo que a Nintendo nem tem mais os direitos desses games.
+*Final Smash: Te bota no pico principal da DK Island e faz com que sua base emita um Shoop da Whoop (novamente, cansa repetir os mesmos termos) na ilha.
+|-
+| 68 || [[Isabelle (Animal Crossing)|O que ela está fazendo aqui?]] || [[Arquivo:Poodlelindo.jpg|110px]] || Animal Crossing: New Leaf || Outra que foi promovida do posto de Assist Trophy, pra alegria dos japoneses e dos furries. Agora são dois cachorros pra descer o sarrafo.
+*Final Smash: Te tranca num escritório. Tecnicamente, a mesma merda do Villager.
+|-
+| 60<sup>ε</sup> || [[Ken Masters|Ken escolheu ele mesmo?]] || [[Arquivo:Ken movie94.jpg|110px]] || [[Street Fighter (jogo)|Street Fighter]] || Tá aqui pra chutar o seu traseiro, literalmente.
+*Final Smash: Jinraikyaku ou Shinryuken, dependendo da distância.
+|-
+| 69 || [[Incineroar|Tony do Sucrilhos]] || [[Arquivo:Tony The Tiger.png|120px]] || [[Pokémon Sun / Moon]] || Já que não podiam botar o [[Hulk Hogan]] no game por causa da idade, foi esse Pokémon mesmo.
+*Final Smash: Te agarra pela cabeça, assim pela cabeça, com toda a sua cabeça e te jooj.
+|-
+| 70<sup>DLC</sup> || [[Piranha Plant|Primo do Petey Piranha]] || [[Arquivo:Piranhaplantreal.jpg|110px]] || [[Super Mario Bros.]] || Personagem menos esperado dentre tudo e todos, embarcou na porradaria no fim de Janeiro. Era distribuída como brinde pra quem comprou o game antes de Janeiro de 2019. Mas agora todo mundo que comprou depois se fodeu e terá que gastar grana a mais.
+*Final Smash: Se transforma no Petey Piranha depois de ter engolido um frasco inteiro de [[Whey]].
+|-
+| 71<sup>DLC</sup> || [[Joker (Persona 5)|Palhaço]] || [[Arquivo:Joker.jpg|110px]] || [[Persona 5]] || Esse gosta de roubar a cena, literalmente.
+*Final Smash: Chama os seus miguxos pra te fazer picadinho. A mesma merda do Shulk, só muda os personagens mesmo.
+|-
+| 72<sup>DLC</sup> || [[Luminary|Herói]] e [[Erdrick|mais]] [[Solo (Dragon Quest)|outros]] [[Eight (Dragon Quest)|3]] || [[Arquivo:Bhfgijyh.jpg|120px]] || [[Dragon Quest III]], [[Dragon Quest IV]], [[Dragon Quest VIII]], [[Dragon Quest XI]] || Finalmente algum espadachim que não representa Fire Emblem. Esse é o primeiro personagem a ter opção suicida sem ser forçado.
+*Final Smash: 11 clones do [[Gohan]] te fazem em pedacinhos.
+|-
+| 73<sup>DLC</sup> || [[Banjo-Kazooie|Banjo e Cazuza]] || [[Arquivo:Sixstring1.jpg|120px]] || [[Diddy Kong Racing]] || Novamente outro personagem pros saudosistas da antiga Rare. Tudo isso foi possível graças ao [[Phil Spencer|Phil]] por ter licenciado os bichos por um preço bem camarada.
+*Final Smash: Os espíritos do game original te bicam.
+|-
+| 74<sup>DLC</sup> || [[Terry Bogard|Terra Bronha]] || [[Arquivo:Earth_Save.jpg|120px]] || [[Fatal Fury: King of Fighters|Fatal Fury]] || Basicamente o Ken dando Shoryuken pra baixo.
+*Final Smash: Solta um Shoryuken pra baixo que dá a largura de três do mesmo. O último oponente que acertar, leva soco até no saco.
+|-
+| 75<sup>DLC</sup> || [[Byleth|Syka Blyat]] || [[Arquivo:Chrom_e_Sumia.png|120px]] || [[Fire Emblem: Three Houses]] || Finalmente um semi-clone do Marth que sabe usar outras armas. Vem com uma versão dancer da Lucina inclusa.
+*Final Smash: Invoca uma pirralha dragão que não se transforma em dragão pra fazer redemoinho de fogo.
+|-
+| 76<sup>DLC</sup> || [[Min Min|Miojinha]] || [[Arquivo:Narutoreverso.JPG|120px]] || [[ARMS]] || Gosta de ramen e pode acabar com sua raça em 3 minutos ou menos.
+*Final Smash: A cambada do jogo te enche de porrada.
+|-
+| 77<sup>DLC</sup> || [[Steve (Minecraft)|Estevão]] e alguns miguxos || [[Arquivo:Steve_e_alex.jpg|120px]] || [[Minecraft]] || Pra fazer a alegria da molecada, trouxe a Alex e mais uma outra dupla inimiga pra competir.
+* Final Smash: Te joga num castelo cheio de Creeper.
+|-
+| 78<sup>DLC</sup> || [[Sephiroth|Anti-Natureza]] || [[Arquivo:Thranduil_rei.jpg|120px]] || [[Final Fantasy VII]] || Primeiro chefe de empresa parceira jogável, veio aqui pelo fato de que estava querendo quebrar o Cloud de qualquer forma.
+* Final Smash: Chama o tal meteoro pra atingir a cabeça de todo mundo.
+|-
+| 79/80<sup>DLC</sup> || [[Pyra|Espadas]] [[Mythra|leiteiras]] || [[Arquivo:Big boobs softpedia.jpg|120px]] || [[Xenoblade Chronicles 2]] || Duas espadas que tem o poder de se transformar em garotas peitudas. Claro, ambas reduzidas por causa dos órgãos <s>in</s>competentes de classificação etária.
+*Final Smash: Uma te rodeia em fogo, a outra imita o do Ness.
+|-
+| 81<sup>DLC</sup> || [[Kazuya Mishima|Advogado do Diabo]] || [[Arquivo:Yakuza_1_gameplay.png|120px]] || [[Tekken (jogo)|Tekken]] || Só mesmo fazendo um pacto com um diabo pra poder colocar um parceiro do Pac-Man nesse jogo novamente.
+*Final Smash: Atira um raio laser minúsculo, se caso acerte, prepare-se pra ir pro inferno antes de morrer.
+|-
+| 82<sup>DLC</sup> || [[Sora (Kingdom Hearts)|Soro]] || [[Arquivo:Soraviado.jpg|120px]] || [[Kingdom Hearts (jogo)|Kingdom Hearts]] || O ultimo a chegar na suruba, veio depois de uma quebra de amizade de seus miguxos da Disney, que por sinal, não aparecem por lá.
+*Final Smash: Atira um raio, se acertar, te tranca numa porta misteriosa a la Monstros S.A. e explode a mesma.
+|-
+| <s>??</s> || <s>[[Waluigi]]</s> || [[Arquivo:Cospobre waluigi.jpg|110px]] || <s>[[Mario Tennis]]</s> || O grandioso personagem está de volta, mas como um assist trophy, depois de anos trollando os fãs, novamente a [[Nintendo|Não-intendo]] continua a rir da cara dos outros e esbanjando dinheiro através de um Smash com trocentos personagens, mas menos o Waluigi. ;-; ;-; ;-;
+|}
+
+===Assist Trophies===
+Incluem personagens considerados inúteis, também chamados de assistentes ou personagens secundários (Exceto o [[Zero (Megaman)|Zero]] e o [[Knuckles]], que aí foi porque a Nintendo não gosta de personagens populares que são de outras empresas).
+
+*[[Akira Yuki|Akira]], um monte de legos ambulantes que parece vagamente com o Ryu
+*[[Alucard (Castlevania)|Vampiro Gay]]
+*[[Nintendo Badge Arcade|Arcade Bunny]]
+*[[Cavaleiro Negro (Fire Emblem)|Black Knight]]
+*[[Bomberman]], pra infelicidade de alguns fãs, que queriam jogar com ele
+*[[Pikmin|Burrowing Snagret]]
+*[[Chef Kawasaki]]
+*[[Mario Paint|Flies & Hand]], um mata-moscas. É isso
+*[[Guile]]
+*[[Kapp'n]], não confundir com [[Cappy]]
+*[[Klaptrap]]
+*[[Knuckles the Echidna]], pra mais infelicidade ainda pros que queriam que ele fosse jogável
+*[[Krystal]], até porque [[Toad|dois]] [[Slippy Toad|Toads]] não cabem no mesmo lugar
+*[[Lua|Moon]], a lua com a cara do Ganon
+*[[Swapnote|Nikki]]
+*[[Rathalos]]
+*[[Rodin]], não é o [[Robin]], viu!
+*[[Shovel Knight]], que escava mais do que jogador noob de Minecraft
+*[[ARMS|Spring Man]]
+*[[Squid Sisters]] do Splatoon
+*[[Joy Mech Fight|Sukapon]], que parece um Kirby defeituoso
+*[[Thwomp]]
+*[[Tiki (Fire Emblem)|Tiki]]
+*[[Art Academy|Vince]]
+*[[Dr. Wily|Wily Capsule]]
+*[[Fatal Frame|Yuri Kozukata]]
+*[[Zero (Megaman)|Zero]], o que fez muitos fãs putassos por não terem colocado ele como jogável
+
+Além disso, tem os trouxas dos outros jogos do Smash Bros.:
+*[[Andross]]
+*[[Ashley (WarioWare)|Ashley]]
+*[[Chain Chomp]]
+*[[Color TV-Game 15]], que nome grande viu! (ainda mais pra algo que é só um jogo de [[Pong]])
+*[[Diabo|Devil]]
+*[[Dillon's Rolling Western|Dillon]]
+*[[Brain Age|Dr. Kawashima]]
+*[[Sim City|Dr. Wright]]
+*[[Ghirahim]] (''"You spin me right round..."'')
+*Fantasma do [[Pac-Man]]
+*[[Gray Fox]]
+*[[Hammer Bro]]
+*[[Golden Sun|Isaac]]
+*[[Jeff (Earthbound)|Jeff]]
+*[[Knuckle Joe]]
+*[[Lyn]]
+*[[Metroid]], não o jogo, seu animal!
+*[[Midna]]
+*[[Mother Brain]]
+*[[Pesadelo|Nightmare]]
+*[[Nintendogs|Nintendog]], os mais chatos do jogo
+*[[Phosphora]]
+*[[Kareu no Tame ni Kane wa Naru|Prince of Sablé]]
+*[[Xenoblade Chronicles|Riki]]
+*[[Samurai Goroh]]
+*[[Shadow the Hedgehog|Shadow]]
+*[[Sheriff]]
+*[[Skull Kid]]
+*[[The Legendary Starfy|Starfy]]
+*[[Starman (Earthbound)|Starman]]
+*[[The Mysteroius Murasame Castle|Takamaru]]
+*[[Waluigi]]
+
+Ufa... finalmente acabei com a lista... depois de 36219108362973 anos escrevendo isso eu até já esqueci qual é o meu nome.
+
+===Chefes===
+{| class="wikitable sortable"
+|-
+! Personagem !! Foto !! Jogo !! Descrição
+|-
+| [[Master Hand|Mão Mestre]] || [[Arquivo:Master_Hand_Smash_Flash.gif|110px]] || [[Super Smash Bros.]] || Chefe mais genérico dentre todos os outros. Pelo menos ele não solta [[Master Core|diarréia preta]] igual era no jogo passado.
+|-
+| [[Crazy Hand|Mão Siriqueira]] || [[Arquivo:Mao2.jpg|110px]] || [[Super Smash Bros. Melee]] || Master Hand depois de ter injetado [[LSD]] em uma das veias. Mais irrelevante do que antes, só aparece quando você joga em dificuldades grandes ou no Mundo da Luz.
+|-
+| [[Giga Bowser|CUpa de 1GB]] || [[Arquivo:GIGA T-POSE.png|110px]] || [[Super Smash Bros. Melee]] || Bowser depois de cheirar 5&nbsp;kg de [[crack]]. Dessa vez, ele se movimenta tão lentamente a ponto de entrar numa corrida de lesmas.
+|-
+| [[Galleom|Galeão]] || [[Arquivo:Galleom.jpg|110px]] || [[Super Smash Bros. Brawl]] || Lata velha inútil que só sabe ficar se remexendo. Ao contrário do outro game, aqui ele não comete suicídio.
+|-
+| [[Fighting Mii Team|Mii inclui na suruba]] || [[Arquivo:2000p20101.jpg|110px]] || [[Super Smash Bros. for Nintendo 3DS and Wii U|Super Smash Bros. 4]] || Aparecem em pequenas rotas no modo clássico e outros modos adicionais, só serviram pra encher linguiça mesmo. Pelo menos não viraram Spirits igual ao [[Fighting Alloy Team]].
+|-
+| [[Rathalos|Ratos]] || [[Arquivo:Rioleus.gif|110px]] || [[Monster Hunter]] || Dragão de asas que adora lugares quentes pra caralho. Fora isso, é só um dragão genérico mesmo.
+|-
+| [[Ganon]] || [[Arquivo:Ganon.jpg|110px]] || [[The Legend of Zelda: Ocarina of Time]] || Ganondorf se transforma num porco com dentes mais largos que o pau do [[Kid Bengala]]. Pra falar a verdade, aquela ponta verde na cauda dele pode significar algo...
+|-
+| [[Marx (Kirby)|Marques]] || [[Arquivo:Marx_home.jpg|110px]] || [[Kirby Super Star]] || Carinha de anjo em corpo de demônio, esse bicho usa tudo qualquer parte do corpo pra acabar com a sua raça.
+|-
+| [[Drácula (Castlevania)|Dracula]] || [[Arquivo:Temer_Conde_Drácula.jpg|110px]] || [[Castlevania]] || Vampirão que ressurge a cada 1000 anos depois de sua morte, mas sempre vira eterno freguês dos chicotes da família Belmont no final.
+|-
+| '''[[Galeem|Galinha]]''' || [[Arquivo:FilamentBulbG80.jpg|110px]] || Super Smash Bros. Ultimate || Bulbo de seis asas que aniquilou qualquer tipo de vida do universo. Menos o Kirby, já que o mesmo ligou o [[Déjà vu]] no máximo pra se safar dos raios mortais do mesmo.
+|-
+| '''[[Dharkon|Dar o cão]]''' || [[Arquivo:Shuma-walk.gif|110px]] || Super Smash Bros. Ultimate || Ciclope cheio de tentáculos. Taca o foda-se pra qualquer um, incluindo seus próprios aliados. Quer deixar todo mundo na escuridão. É pagar pra ver... Digo...
+|-
+|}
+
+===Pokémons===
+====Novos====
+<gallery>
+Arquivo:Abra.jpg|[[Abra]] puto
+Arquivo:Exeggutors.png|[[Exeggutor|Exeggutors de Alola]]
+Arquivo:Raichu.gif|[[Raichu|Raichu de Alola]]
+Arquivo:Ditto as Vulpix Alolan Form.jpg|Vulpix prateado
+Arquivo:Vulpix pose.JPG|[[Vulpix]], a raposa
+Arquivo:Pedobewear.jpg|[[Bewear|<s>Pedo</s>Bewear]]
+Arquivo:The PokeSlut by Narsilion.png|[[Ditto]], a massinha de modelar
+Arquivo:Lunala.jpg|[[Lunala]], a [[lua]]
+Arquivo:Marshadow.jpg|[[Marshadow]], a [[sombra]]
+Arquivo:778Mimikyu.png|[[Mimikyu]], o gato de roupa
+Arquivo:Pyukumuku.png|[[Pyukumuku]], esse troço com um cu na cara
+Arquivo:Solgaleomusculoso.jpg|[[Solgaleo]], o leão salgado
+Arquivo:TapuKokoGolpe.png|[[Tapu Koko]], a criatura indescritível
+Arquivo:Togedemaru.png|[[Togedemaru]], um rato
+</gallery>
+
+====Velhos====
+<gallery>
+Arquivo:Abomasnow.png|[[Abomasnow]], o pé grande
+Arquivo:Arceus26.jpg|[[Arceus]], o veado
+Arquivo:Bellossom Brawl.jpg|[[Bellossom]], o arbusto chamativo
+Arquivo:Chespin.jpg|[[Chespin]], o gato, ou alguma coisa
+Arquivo:Darkrai.png|[[Darkrai]], Rei dark
+Arquivo:Flabbbb.jpg|[[Dedenne]], um outro rato
+Arquivo:Deoxys pokemon ssbb lg.jpg|[[Deoxys]], os fios de cobre
+Arquivo:101Electrode.png|[[Electrode]], a [[bokéball]]
+Arquivo:Eevee.gif|[[Eevee]], a outra raposa
+Arquivo:5298174.jpg|[[Entei]], "entrei e enterrei" é seu lema
+Arquivo:FletchlingPlush.jpg|[[Fletchling]], o pinto
+Arquivo:Fennekinfokko.png|[[Fennekin]], a terceira raposa
+Arquivo:Gardevoir2.png|[[Gardevoir]], a milf do jogo
+Arquivo:GenesectFeliz.jpg|[[Genesect]], o vida de inseto
+Arquivo:Giratina.png|[[Giratina]], a aranha gelatinosa
+Arquivo:Cabradohimalaia.jpg|[[Gogoat]], a cabrinha
+Arquivo:Goldeen.png|[[Goldeen]], a peixa
+Arquivo:BlooperRT.jpg|[[Inkay]], a lula gay
+Arquivo:647Keldeo-Resolute.png|[[Keldeo]], irmão de [[Uni]]
+Arquivo:Kyogre7fb.jpg|[[Kyogre]], o ogro dos mares
+Arquivo:Kyurem real.jpg|[[Kyurem]], o ogro das terras
+Arquivo:Latias.png|[[Latias]] e [[Latios]], os mascotes da [[lacta]]
+Arquivo:1266959346334.png|[[Lugia]], o ogro dos ventos
+Arquivo:Meloetta.jpg|[[Meloetta]], MC alguma coisa
+Arquivo:Meowth.jpg|[[Meowth]], o verdadeiro gato
+Arquivo:Saasaaddadgh.jpg|[[Metagross]], a balança magica
+Arquivo:Mew1 of the month.jpg|[[Mew]], o rato espacial
+Arquivo:171681OUWT w.jpg|[[Moltres]], o frango frito/assado
+Arquivo:Who You Calling PIPLUP by AceWu.png|[[Oshawott]], o [[pingu]]
+Arquivo:Palkia-legendary-pokemon-7313304-400-315.jpg|[[Palkia]], uma bizarrice
+Arquivo:ScizorPinça.png|[[Scizor]], uma outra bizarrice
+Arquivo:Snivy.png|[[Snivy]], a planta
+Arquivo:Snorlaxtcg.jpg|[[Snorlax]], o gordo
+Arquivo:Spewpa.png|[[Spewpa]], o panetone com frutas
+Arquivo:120Staryu.png|[[Staryu]], a estrela
+Arquivo:Selosuicunecopy.png|[[Suicune]], a terceira bizarrice
+Arquivo:250px-Swirlix.png|[[Swirlix]], o algodão doce
+Arquivo:Togepi Left.png|[[Togepi]], aberração imatura
+Arquivo:Victini.png|[[Victini]], a letra V
+Arquivo:716Xerneas.png|[[Xerneas]], o veadinho
+Arquivo:Zoroark.png|[[Zoroark]], o chupa cabra
+</gallery>
+
+===Spirits===
+{{Principal|[[Deslistas:Spirits (SSB. U)]]}}
+Os spirits são aquelas insignias de escoteiro onde você demora um [[ano]] para desbloqueá-las no modo história. Servem como os [[troféu]]s dos antigos SSB, mas agora com um pouco de utilidade que é melhorar a sua [[força]], [[chi]], [[chakra]] ou qualquer outra [[mantra|energia de anime]].
+
+Além dos personagens jogáveis, personagens de toda a [[Nintendo]] e até mesmo de [[Hudson Soft|empresas falidas]] dos anos 70 estão no jogo como spirits. Para ver todos espíritos, ou seja, uma imagem png dos bichos, consulte artigo principal aqui no inicio ou clique '''[[Deslistas:Spirits (SSB. U)|Aqui]]''' pra ir ao [[zoológico]], mas <font color=red>CUIDADO</font> não recomendamos para computadores ou dispositivos fracos.
+
+===Roupões pros Mii===
+Essa seção é dedicada pra personagens que basicamente tiveram suas chances aniquiladas de entrar na porradaria com conteúdo próprio e no fim das contas, só servem de fantasia pros Mii. Todas essas roupas são pagas, já que as de propriedade da Nintendo feitas anteriormente foram disponíveis por padrão.
+
+* [[Xenoblade Chronicles 2|Tiranossauro Rex]]
+* Chapéu da [[Persona 5|Morgana]]
+* Protagonista de [[Persona 4]]
+* Chapéu do Teddie
+* Protagonista de [[Persona 3]]
+* [[Tails|Fox aos 10 anos]]
+* [[Knuckles the Echidna|{{PAGENAME}} & Knuckles]]
+* [[Dragon Quest XI|Veronica]], a menina que senta ali
+* [[Dragon Quest|Erdrick]]
+* [[Dragon Quest|Artistas marciais]] que parecem lutadores aleatórios de [[Dragon Ball]]
+* Chapéu da [[Dragon Quest|Slime]]
+* [[Ganbare Goemon|Goemon]], mais um que ficou preso aos Pachinko da vida
+* [[Protoman|Beta Man]]
+* [[Zero (Megaman X)|Zero]] á esquerda
+* [[Equipe Rocket]] decolando de novo pela enésima vez
+* Sr. [[Sans]] [[Undertale|História Abaixo]]
+* [[Nakoruru]]
+* [[Ryo Sakazaki]]
+* [[Iori Yagami]]
+* [[Virtua Fighter|Akira]], sem o Tetsuo
+* [[Virtua Fighter|Jacky]]
+* [[Altaïr ibn-La'Ahad|Altaïr]]
+* Chapéu dos [[Rabbids|Minions dos games]]
+* [[X (Megaman X)|Xis]]
+* [[Megaman.exe|Mega vírus]]
+* [[Cuphead|Xicrinho]]
+* Guardião de [[The Legend of Zelda: Breath of the Wild|abrir os olhos]]
+* [[ARMS|Ninjara]]
+* [[Heihachi Mishima|Abusador de dorgas]]
+* [[Splatoon|Callie]] & [[Splatoon|Marie]]
+* [[Vault Boy|Filho do Todd Howard]]
+* [[Creeper|Crepe]]
+* [[Piglin|Porquinho da Tele Sena]]
+* Armadura de Diamante do Minecraft (parece ser feito de [[JoJo's Bizarre Adventure#Parte 4: The Noite is Unbreakable (AD 1999)|diamante inquebrável]])
+* [[The Tower of Druaga|Gil]] sem o Gilberto
+* [[Bomberman (personagem)|Recisão do cargo de mascote da Hudson]]
+* [[Travis Touchdown|Travas Toca abaixo]]
+* Chapéu da [[Chocobo|Galinha amarela]]
+* [[Aerith Gainsborough|A menina das flores]]
+* [[Tifa Lockhart|Peitos socadores]]
+* [[Barret Wallace]]
+* [[Geno]]
+* Armadura do [[Rathalos|Ratos]]
+* Armadura do [[Monster Hunter|caçador]]
+* Chapéu de [[Felyne|Felino]]
+* [[Ghosts 'n Goblins|Arthur sem ceroula de morango]]
+* [[Tales of Symphonia|Cloud da Namco]]
+* [[Dragonborn|Outro filho do Todd Howard]]
+* [[Dante Sparda|O Divino Comédia]]
+* [[Shantae|Dançarina puta]]
+* [[Octoling|Lula que não é o Molusco]]
+* [[Judd (Splatoon)|Chapéu de Judd]]
+* [[Doomguy|Mais um porte de Doom de 1993]]
+
+==Fases==
+{{C|THIS IS SMAAAAAAASH!|Leônidas|o jogo ter mais de [[300]] fases}}
+Com incríveis 103 fases (Contando as versões Battlefield e Ω, são mais de 300 (Caralho!)), Smash Ultimate bate os recordes mais uma vez. Provavelmente os jogadores irão zerar 100% do jogo só em [[8299]].
+===Fases novas===
+[[Arquivo:17421733-1.1024.jpg|thumb|240px|Battlefield reformado.]]
+* '''[[Battlefield]]''': A fase das 3 plataformas que sempre tem em todo jogo.
+* '''[[Final Destination]]''': A fase plana que você sempre enfrenta [[Master Hand]] no final do jogo.
+* '''[[Big Battlefield]]''': A mesma coisa da Battlefield normal, mas agora são 6 plataformas. Fase exclusiva do modo de 8 jogadores.
+* '''Small Battlefield''': A mesma coisa da Battlefield normal, só que encolhida e com apenas 2 plataformas, para agradar os pro-players chatos que só jogam de um contra um.
+* '''New Donk City Hall''': Fase baseada na [[New Donk City]] do [[Super Mario Odyssey]], onde fica dando um giro pela fase e com as mais de 8000 referências ao jogo original.
+* '''Moray Towers''': Fase do Splatoon que ninguém joga no original.
+* '''Dracula's Castle''': Fase do Castlevania que deve fazer as criancinhas retardadas nintendistas se cagarem de medo.
+* '''Great Plateau Tower''': Fase baseada no [[The Legend of Zelda: Breath of the Wild]] que só tá aqui pelo marketing.
+* '''Mementos''': Fase baseada em Persona 5, basicamente é o cenário aonde você se sente como se estivesse jogando um jogo de Virtual Boy no hardware real.
+* '''Yggdrasil's Altar''': Fase baseada em Dragon Quest XI que é o que, no final das contas, está representando a série mais que os outros.
+* '''Spiral Mountain''': Fase baseada em Banjo-Kazooie pra aumentar a nostalgia dos fãs do N64.
+* '''King of Fighters Stadium''': Estádio aonde rola as porradarias de Fatal Fury e The King of Fighters.
+* '''Garreg Mach Monastery''': Chatuba aonde rola os acontecimentos de Fire Emblem: Three Houses, divida em pelo menos 4 seções.
+* '''Spring Stadium''': Estádio aonde rola as porradarias de ARMS.
+* '''Minecraft World''': Mundo de Minecraft aonde tudo tem que ser exatamente um pixel.
+* '''Northern Cave''': Fim de mundo no qual Cloud e sua turma sobrevoa atrás de Sephiroth e sua mamãe.
+* '''Cloud <s>de novo?</s> Sea of Alrest''': Arena que se passa em cima de um dragão bancando o [[Baby boomer|boomer]] a la Cranky Kong.
+* '''Mishima Dojo''': Centro de treinamento daonde os membros da família Mishima joga os seus rivais de um penhasco.
+* '''Hollow Bastion''': Ilha aonde a bruxa [[Malévola]] está habitada e Sora precisa meter a chave no útero da mesma.
+
+===Fases do N64===
+* '''Peach's Castle''': Fase do [[Super Mario 64]] que tem que estar em todo jogo do Smash Bros. agora.
+* '''Hyrule Castle''': Fase do Zelda do NES que só serve pra encher espaço na memória do jogo.
+* '''Mushroom Kingdom 1''': Uma fase obvia que todos já estão de saco cheio de jogar nela.
+* '''Kongo Jungle''': Fase clássica de Donkey Kong no meio de uma floresta qualquer.
+* '''Dream Land''': Fase do Kirby que é igual a do Melee.
+* '''Super Happy Tree''' (antiga Yoshi's Island): Fase mais gay do jogo.
+* '''Saffron City''': Fase do Pokémon que temos que pegar, eu sei... Pegá-los eu tentareeeeei...
+
+===Fases do Melee===
+* '''Princess Peach's Castle''': Cópia mal feita da fase do N64.
+* '''Rainbow Cruise''': Fase gay baseada na Rainbow Ride do Super Mario 64.
+* '''Mushroom Kingdom 2''': Fase baseada no Mario 2. Um pouco nostálgico no começo, mas até aparecerem os Shy Guys...
+[[Arquivo:250px-PokeFloats.jpg|thumb|Só faltou essa arena do Melee.]]
+* '''Kongo Falls''': Fase do Donkey Kong super sem graça.
+* '''Jungle Japes''': Outra cópia mal feita do 64, dessa vez da Kongo Jungle.
+* '''Great Bay''': Outra arena de Zelda, diferente da antiga essa está um pouco mais viva.
+* '''The Temple''': Fase do Zelda (ou seria da Zelda?).
+* '''Brinstar''': Fasezinha de lava super padrão, roubado do Smash original.
+* '''Brinstar Depths''': Mais uma cópia de fase do 64. Criatividade [[SAM|10/10]], Nintendo!
+* '''Yoshi's Island''': Em um mundo aberto, ou pelo menos em 7 metros quadrados, essa arena é a mais chata de todas.
+* '''Green Greens''': Mais OUTRA cópia... aff...
+* '''Fountain of Dreams''': Fase totalmente nova (FINALMENTE!), mas que no Ultimate não vai ser.
+* '''Corneria''': Bem... é MAIS UMA CÓPIA...
+* '''Yoshi's Story''': Fase cheia de frescuras do Yoshi's Island.
+* '''Venom''': Cópia de Corneria, só que com a nave de frente ao invés de de lado.
+* '''Pokémon Stadium''': Uma arena Pokémon... em um jogo de luta...
+* '''Big Blue''': Fase do F-Zero X que é um saco.
+* '''Onett''': Cidade das crianças sem mãe.
+* '''Fourside''': Não colocaram [[Moonside]] pois os jogadores teriam horríveis lembranças da tosqueira que é a fase.Tirando isso é uma Hyrule Castle de noite.
+
+=== Fases do Brawl ===
+
+* '''Delfino Plaza''': Vá para um lugar pacifico para tirar <s>ferias</s> a vida de algumas pessoas.
+* '''Mushroom Kingdom''': A terceira Mushroom Kingdom, desta vez no deserto.
+* '''Figure-8 Circuit''': Batalhe no meio de uma pista de kart.
+* '''Luigi's Mansion''': Estilo casa da mãe joana, só que de noite.
+* '''Mario Bros.''': Uma Arena dos [[anos 80]] onde tudo é quadrado e nem tem cor.
+* '''75 m''': Não confunda com pista de corrida, essa fase é mais uma dos jogos da terceira geração da nintendo.
+* '''Bridge of Eldin''': Nada além de <s>um minuto</s> uma ponte com um papel de parede incrível atrás. 
+* '''Pirate Ship''': Igual ao Rainbow Cruise, só que ao invés de voar ele vai pela água (se bem que de vez em quando ele dá uma voada, quando aparece um tufão e joga o barco lá em cima).
+* '''Norfair''': Uma fase chata que só tem lava. obs: são é o último mundo do Mario.
+* '''Frigate Orpheon''': A mesma fase do de cima, mas sem lava e com um bicho no meio vendo as cagadas dos jogadores.
+* '''Yoshi's Island''': Uma das milhões de fases fofas dos Yoshi com <s>uma árvore no meio</s> duas flores sorridentes.
+* '''Halberd''': Outra nave espacial, ainda sim você pode apreciar um rockizão lokaço.
+* '''Lylat Cruise''': Uma fase de nave que fica voando sem parar e ainda com plataformas lokas.
+* '''Pokémon Stadium 2''': Simplesmente uma copia do original estagio pokémon.
+* '''Spear Pillar''': Cópia de Temple de noite.
+* '''Port Town Aero Dive''': Uma fase alá Lylat Cruise.
+* '''Castle Siege''': Não basta colocar trocentos personagens de Fire Emblem ainda tem que colocar trocentos estágios do mesmo.
+* '''WarioWare, Inc.''': Fase sem graça com alguns rabiscos que sempre tem nos jogos de Warioware.
+* '''Distant Planet''': O Acre, também conhecida como a terra dos pikmins.
+* '''Smashville''': Fase básica com apenas uma plataforma lisa e com um papel de parede de Animal Crossing para se sentir que está jogando em outra arena.
+* '''New Pork City'''Uma fase cheia de plataformas perto de uma favela com luzes.
+* '''Summit''': Antártida.
+* '''Skyworld''': Mais uma fase de algum jogo de Zelda, por sinal esse é o que tem os pássaros e um anjo de gelo.
+* '''Shadow Moses Island''': Uma fase situada em um beco de uma ilha.
+* '''Green Hill Zone''': A fase pixelada do Sonic em 3D.
+[[Arquivo:SSBU-Hanenbow.png|thumb|Honenbow. Pode acreditar, isso é um arena.]]
+* '''Hanenbow''': Uma fase estranha provavelmente feita por alguém que está começando a saber desenvolver fases.
+
+=== Fases do 3DS/Wii U ===
+* '''Boxing Ring''': Uma cópia do Estágio Pokémon. 
+* '''Gaur Plain''': Pedaço de terra no meio do nada.
+* '''Wily Castle''': Aquela fase do megaman que tem dois bichos de massinha de modelar amarelos.
+* '''Duck Hunt''': A fase de duck hunt em um campo ultra realista.
+* '''Super Mario Maker''': Não o jogo, ignore a mão do bob o construtor e apenas lute.
+* '''Suzaku Castle''': Um castelo clássico <s>de contos de princesa</s> oriental com a luta clichê de filmes ruins dos [[Década de 1970|anos 70]] no telhado.
+* '''Midgar''': Uma copia do battlefield com plano de fundo de Final Fantasy VII.
+* '''Umbra Clock Tower''': Uma torre do relogio que se perdeu no tempo e continua a cair infinitamente, obviamente para baixo.
+* '''3D Land''': Super Mario Bros em 3D.
+* '''Golden Plains''': Uma copia do Super Mario Bros para o Wii U com muitas moedas.
+* '''Paper Mario''': Uma maquete daquelas que você fazia na escola, só que muito melhor.
+* '''Gerudo Valley''': Deserto com um canyon no meio, passe pela pontezinha de madeira para passar pro outro lado.
+* '''Spirit Train''': [[Trem bala]] em movimento.
+* '''Dream Land GB''': Também chamado de pesadelo para os olhos.
+* '''Unova Pokémon League''': Um museu pokémon prestes a ir pra vala.
+* '''Prism Tower''': Claramente um plágio da [[Torre Eiffel]].
+* '''Mute City SNES''': Se não fosse os personagens em 3D, todos pensariam que você está jogando no [[Super Nintendo]].
+* '''Magicant''': Canto mágico é um lugar [[Disneyland|onde os sonhos se tornam realidade]].
+* '''Arena Ferox''': Não confundir uma arena de Star Fox, já que tem poucos personagens de Fire Emblem, porque não colocar estágios.
+* '''Reset Bomb Forest''': A arena é exatamente igual quando os árabes invadiram a Espanha.
+* '''Tortimer Island''': Uma ilha com uma cabana da suruba.
+* '''Balloon Fight''': Pense em ballon fight... é exatamente isso.
+* '''Living Room''': Sala de estar com o [[sarcasmo|melhor assist Trophy de todos]] os [[Nintendogs|nintendogos]]
+* '''Find Mii''': Encontre Mii, o jogo acha que você está jogando StreetPass Mii Plaza.
+* '''Tomodachi Life''': Invada a casa das pessoas jogando seus inimigos contra a parede delas.
+* '''PictoChat 2''': Como um caderno de desenho, não espere uma vida extra, pois pode aparecer fácil, fácil um pênis atrás de você.
+* '''Mushroom Kingdom U''': Uma cópia de Super Mario Bros U
+* '''Mario Galaxy''': Um planeta verde com uma casa e árvores num lindo espaço, mas que não tem nada a ver com Super Mario Galaxy.
+* '''Mario Circuit''': Por causa do mapa travar de cabeça para baixo, recomendamos que você jogue no máximo 6 minutos, 6 segundos e 6 milissegundos nesse mapa se não quiser ver galinhas voando.
+* '''Skyloft''': A terra voadora de Zelda.
+* '''The Great Cave Offensive''': Também chamado de labirinto é uma caverna provavelmente localizada no [[Congo]].
+* '''Kalos Pokémon League''': A mesma coisa que a battlefield.
+* '''Coliseum''': O moderno coliseu, agora com mecanismos que sobem e descem plataformas, ou seja, nada de interessante.
+* '''Flat Zone X''': O mesmo que a Flat Zone do Melee com um X no nome só pra dizer que é melhor.
+* '''Palutena's Temple''': Uns pedados de terra no céu rodeado por nuvens, muito confundível com a favela de Skyloft.
+* '''Gamer''': Uma arena baseado no quarto do Sid de Toy Story.
+* '''Garden of Hope''': A terra dos pikmins, só não preste muita atenção na música felizinha se não quiser cair do mapa. E ainda perder.
+* '''Town and City''': A cidade do Animal Crossing, só não se sabe porque diabos tem uma plataforma na orbita do planeta animal crossing.
+* '''Wii Fit Studio''': A academia da Wii Fit Trainer.
+* '''Wrecking Crew''': Uma fase de testes.
+* '''Pilotwings''': Um avião minusculo que sobrevoa a ilha de Wuhu.
+* '''Wuhu Island''': Ilha autônoma de Dolphin Island, a mesma que aparece na arena acima.
+* '''Windy Hill Zone''': A mesma coisa que a Green Hill Zone só que mais básica e cheia de chatice, só a música que se salva.
+* '''Pac-Land''': Novamente deram chance para novos produtores e eles fizeram isso usando paint.
+
+==Itens==
+Os itens é o que dá graça ao jogo, assim podemos ver não só briguinhas de chute e soco. E como tudo nesse jogo é exagerado, nada melhor do que colocar 88 assessórios para ajudar você na sua vitória.
+
+===Os de Sempre===
+<gallery>
+Arquivo:Waluigi1.jpg|[[Waluigi|Assist Trophy]]
+Arquivo:Escudomadeira.jpg|[[Escudo|Escudo de Rabo]]
+Arquivo:Casca-de-banana.jpg|[[Banana|Casca de Banana]]
+Arquivo:Barril5.gif|[[Barril]]
+Arquivo:Espadalaser.jpg||[[Espada|Beam Sword]]
+Arquivo:Drillroid.JPG|[[Broca]]
+Arquivo:Colmeia-4229.jpg|[[Colmeia]]
+Arquivo:Besouro2 resize.jpg|[[Besouro]]
+Arquivo:Caixa economica.jpg|[[Caixa|Caixa de papelão]]
+Arquivo:Bomba desenho.jpg|[[Bob-Omb]]
+Arquivo:Juliomarxbomba.jpg|[[Bomba|Bombchu]]
+Arquivo:Boomeranga.jpg|[[Boomerang]]
+Arquivo:Bixopixel.png|[[Space Invaders|Boss Galaga]]
+Arquivo:Torpedo Ted 4.png|[[Bullet Bill]]
+Arquivo:Calotadomorro.JPG|[[Bumper]]
+Arquivo:TIARA-ORELHINHA-DE-COELHO-PELUCIA.jpg|[[Coelho|Orelhas de coelho]]
+Arquivo:Catuaba-capsula.jpg|[[Remédio|Cápsula]]
+Arquivo:Caixaow3w.jpg|[[Caixão]]
+Arquivo:Jpg babacaoBarata01.jpg|[[Comida]]
+Arquivo:Galinha Pintadinha.png|[[Galinha|Cucco]]
+Arquivo:Vibrador, arma de choque rosa.jpg|Daybreak
+Arquivo:Nozes.jpg|Deku Nut
+Arquivo:Nave-espacial.jpg|Dragoon
+Arquivo:Iraq-COA.png|Emblema de Franklin
+Arquivo:61ntxz6KJeL. SX385 .jpg|Fairy Bottle
+Arquivo:Bar-fire-show.jpg|Fire Bar
+Arquivo:Florfire.jpg|Flor de Fogo
+Arquivo:Antartica7.jpg|Freezie
+Arquivo:Martelo.jpg|[[Martelo]]
+Arquivo:1493632750 ac312661fe.jpg|[[Piko Piko|Martelo Piko Piko]]
+Arquivo:Slime-mold.jpg|Gooey Bomb
+Arquivo:Grama.jpeg|[[Grama]]
+Arquivo:SMKGreenShell.png|Casco verde
+Arquivo:Vasodeus.jpg|Gust Bellows
+Arquivo:Coracao.jpg|Heart Contairner
+Arquivo:PikminShip.jpg|<s>Chocolate</s> Hocotate Bomb
+Arquivo:Baseball accident.jpg|Home Run Bat
+Arquivo:Fotodelsol.jpg|Cabeça Quente
+Arquivo:Fnord2.jpg|Olho Assassino
+Arquivo:09b-lightning.jpg|Relâmpago
+Arquivo:Daisy flower.jpg|[[batom|Lip's Stick]]?
+Arquivo:Tomatass.jpg|Maximim Tomato
+Arquivo:Pokebola.png|[[Pokébola|PokÉbola]]
+Arquivo:Masterball leilão.jpg|[[Master Ball]]
+Arquivo:Caixa de mafagafos.jpg|Caixa de <s>[[mafagafo]]s</s> Metal
+Arquivo:C Saturn.jpg|Seu Saturno
+Arquivo:BombABAngryAttack.jpeg|Motion-sensor bomb
+Arquivo:Eles escolhem.jpeg|Ore Club
+Arquivo:Globoocularestravestidemais.jpg|Party Ball
+Arquivo:100px-Pitfall.png|Ponto de exclamação
+Arquivo:Mario poisonmushroon.jpg|Poison Mushroom
+Arquivo:POWBlock.jpg|POW Block
+Arquivo:Swissarmygunnw6.jpg|Ray Gun
+Arquivo:Chp rocket.jpg|[[Foguete|Rocket Belt]]
+Arquivo:UFC Saco em Gota.jpg|Saco de Pancada
+Arquivo:Naughty caixa.jpg|[[Caixote]] / de rodinhas
+Arquivo:Raio.jpg|Screw You Attack
+Arquivo:Atomic bomb gift.jpg|Smart Bomb
+Arquivo:Smash Ball.gif|Smash Ball
+Arquivo:Novelo-de-la-azul 1 1200.jpg|Novelo de Lã
+Arquivo:Bola-quadrada4816.jpg|Bola de Futebol
+Arquivo:Flag of Nazi Germany (1933-1945).png|Bandeira Especial
+Arquivo:SpinyShell.jpg|[[Casco Azul]]
+Arquivo:Itenstarrod.JPG|Varinha de Condão
+Arquivo:Arma de plástico.jpg|Steel Diver
+Arquivo:21577d0dd3dbde3.jpg|Super Leaf
+Arquivo:Cogumelos Alucinogenos.jpg|[[Cogumelo Alucinógeno|Super Cogumelo]]
+Arquivo:Superscope.jpg|[[Super Scope]]
+Arquivo:NewSuperMarioBros-Star.png|[[Super Estrela]]
+Arquivo:Relogiodigital.JPG|Timer
+Arquivo:Costela-flambada-na-cachaca.jpg|Superspicy Curry
+Arquivo:Baiacuh.jpg|[[Baiacu|Unira]]
+Arquivo:Estrela3.jpg|Warp Star
+Arquivo:Xboxlogo.png|X bomb
+</gallery>
+
+===Novos===
+<gallery>
+Arquivo:Leonidas banana.gif|Arma de Banana
+Arquivo:Basebowned.jpg|Beastball
+Arquivo:Osamase.jpg|Bomber
+Arquivo:Corrre.gif|[[Buraco negro]]
+Arquivo:Hammer and sickle.png|[[Foice|Foice da Morte]]
+Arquivo:Cilada-bino.jpg|[[Sérgio Mallandro|Smash Ball Falsa]]
+Arquivo:Lote abandonado.jpg|Plantinha de cura
+Arquivo:Cannabis.jpg|Broto de cura
+Arquivo:SamuraiCheff.jpg|[[Katana|Faca]]
+Arquivo:Cat5tr.jpg|Rage Blaster
+Arquivo:Abe simpson.png|Cogumelo reclamão
+Arquivo:A021d0251064 5809 80.jpg|Varinha
+Arquivo:Neutron1.jpg|[[Super Mario Galaxy|Super Launch Star]]
+</gallery>
+
+==Letra da música Vidaluz==
+
+===Versão [[EUA|Coca-Cola]]===
+
+ Cores narram entram uma agulha da chama
+ Distante fagulhas chamam o passado que tá sem nome
+ Urso toca a tocha contra o resfriado da noite
+ Procure sua alma e acorde a in-morrível luz<br>
+ Naquele dia, que o céu conheceu o [[Gil Brother|Away]]
+ [[Padeiro|O sonho acabou]]
+ Nossos olhos, o pôr do sol se esconde no preto?
+ Brilha fraco sombras<br>
+ Silêncio cresce, entre os " " 
+ [[Dong|Expandindo]] com o passar do tempo
+ Crescendo acima, os mimimi de almas encontram a voz
+ piscando sobre o [[Jailson|oco]]<br>
+ Essas luzes, escalam a vida,
+ todo mundo caiu no grande esforço,
+ E então as tempestades mudam, eles ventilam as fagulhas
+ alastrando [[cinza]]s pelo vento<br>
+ Toda alma contém um cochicho de luz
+ brilhando cansavelmente diminuindo rastro
+ Sem [[Esc]], sem grandes fatos pra fazer
+ No fim, as cadeias do tempo não vão quebrar<br>
+ Cores narram entram uma agulha da chama
+ Distante fagulhas chamam o passado que tá sem nome
+ Urso toca a tocha contra o resfriado da noite
+ Procure sua alma e acorde a in-morrível luz
+
+====Segunda Parte====
+
+ Os fatos giram em um filamento sem fim
+ nova vida dá o seu novo bafo
+ Plantando na terra o que era do passado
+ aonde o destino segura rápido<br>
+ Aqui a gente [[Za Warudo|stand]], mão firmada á mão
+ todo mundo caiu no grande esforço,
+ Este é o dia em que a gente vai achar a via
+ pisando no nosso amanhã<br>
+ Toda alma contém um cochicho de luz
+ crescendo alto pra chamar a [[açúcar|união]]
+ Da distância canta-se o refrão de almas
+ crescendo lerdo, atarefado cio das brasas<br>
+ Cores narram entram uma agulha da chama
+ Distante fagulhas chamam o passado que tá sem nome
+ Urso toca a tocha contra o resfriado da noite
+ Luz irá guiar, na sua via pro ultimato da luta<br>
+ Toda alma contém um cochicho de luz
+ crescendo alto pra chamar a união
+ Da distância canta-se o refrão de almas
+ crescendo lerdo, atarefado cio das brasas<br>
+ Cores narram entram uma agulha da chama
+ Distante fagulhas chamam o passado que tá sem nome
+ Urso toca a tocha contra o resfriado da noite
+ Luz irá guiar, na sua via pro ultimato da luta<br>
+
+===Versão [[Japão|Pepsiman]]===
+
+ Um arco-íris gay em uma espiral de chamas
+ Continue em frente com a luz que cega o herdeiro<br>
+ Nesse dia o céu se esborrachou no chão
+ É a culpa do sol fraco que vaga na noite infinita?<br>
+ Entre o eterno silêncio
+ Uma tonelada de almas, com ataque cardíaco<br>
+ As luzes da vida de todos
+ Deixaram o seu corpo ao sopro do vento<br>
+ Esses seres vivos libertam a luz fraca
+ Incapazes de escaparem do tempo e das cadeias do destino<br>
+ Um arco-íris gay em uma espiral de chamas
+ Continue em frente com a luz que cega o herdeiro<br>
+
+====Segunda Parte====
+
+ Enquanto o destino gira, uma respiração brota
+ Uma nova ordem cobrirá esta Terra<br>
+ Todos estão presos à lutar 
+ Juntos, avançaremos, enfrentando o amanhã<br>
+ Esses seres vivos de luz fraca, tecendo uma estrela
+ Até o armagedom, nossas almas cantarão<br>
+ Um arco-íris gay em uma espiral de chamas
+ Continue em frente com a luz que cega o herdeiro<br>
+ Esses seres vivos de luz fraca, tecendo uma estrela
+ Até o armagedom, nossas almas cantarão<br>
+ Um arco-íris gay em uma espiral de chamas
+ Continue em frente com a luz que cega o herdeiro<br>
+
+==Curiosidades==
+{{Trivia}}
+*Por incrível que pareça, SSB. U tem o pior [[online]] da série smash.
+*Pela primeira vez na história [[Peach]] come o [[Bowser]].
+*O viadinho do Pit é secretamente o [[Kagamine Len]]. <s>Miku for Smash confirmado.</s>
+*Chuck Norris está no jogo. (é verdade esse bilete)
+*Não esqueça que [[Mario]] não é o personagem principal do jogo só por estar em primeiro na seleção de personagens, nem mesmo considere que [[Fire Emblem]] é a série principal do jogo por conter mais personagens.
+*O personagem principal do smash é o [[Kirby|kibeleza]] de acordo com o [[Masahiro Sakurai|seu pai]].
+*Criadores conseguiram trazer um [[Minecraft|joguinho quadrado]] no Smash (é [[Sério]])
+
+==Vídeos==
+Saiba como o seu lutador Smash favorito come.
+<youtube>XRsta9YyZus&t=7s</youtube>
+
+
+{{Smash Bros}}
+
+[[Categoria:Jogos lançados em 2018]]
+[[Categoria:Jogos da Bandai Namco]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos de luta]]
+
+[[es:Super Smash Bros. Ultimate]]

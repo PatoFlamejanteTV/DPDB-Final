@@ -1,0 +1,159 @@
+{{Jogos Antigos}}
+{{game}}
+
+{{Infobox Game
+|title     = Aventuras do Tails - Uma História do [[Móbius|Sonicverso]]
+|image     = TA Title.png
+|caption   = Tela-título do jogo.
+|developer = [[Aspect]]
+|publisher = [[Sega|Cega]]
+|released  = [[1995]]
+|genre     = <s>Voar pra Caralho</s> [[Plataforma]] + [[RPG]] + [[Guerra]]
+|rating    = 50%
+|platform  = [[Game Gear|Tijolo Gear]]
+|ages      = Livre
+}}
+
+{{vqd|Tails Island}}
+{{experimente também|Adventure Island}}
+{{c|É [[Sonic Adventure|Adventure]] galera!!|Velberan|{{PAGENAME}}}}
+{{c|Que merda!|Sonic|{{PAGENAME}}}}
+{{c|Voar pra caralho é minha habilidade!|Tails|ele mesmo}}
+
+
+'''Tails Adventure''' (conhecido no [[Japão]] como ''Tails Adventure'''s''''') é um jogo da raposinha-Kyuubi dos jodos do [[sonic|rato de gel]], desenvolvido pela [[Aspect]] em parceria com o mestre Sun Tsu e distribuído pela [[Sega|Cega]] em [[1995]] para o [[Game Gear|Tijolo Gear]].
+
+==O jogo==
+
+Tails Adventures foi o terceiro e último jogo em que [[Tails]] fica sem Sonic.
+Os dois primeiros jogos dele são [[Tails and the Music Maker|Music Maker]] para o [[Sega Pico|Pica]] e [[Tails' Sky Patrol]], para o Tijolo Gear, embora seja o primeiro que foi lançado em outras regiões fora o Japão. 
+O jogo não segue o enredo de muitos outros jogos da série Sonic, e o enredo é diferente nas versões japonesa e ocidental do jogo.
+No jogo, Tails está sobre guarda de uma ilha da destruição pelos Battle Kukku Army, um exército de pássaros, enquanto ao mesmo tempo a obtenção de objetivos, tais como diversos tipos de armas e esmeraldas que ele encontra durante a sua aventura.
+A jogabilidade é ao contrário do que muitos outros jogos da série, que consiste em viagens mais [[1900 e guaraná com rolha|lentas]] e mais [[mais de 8 mil|tempo]] é gasto na procura de objetos para usar mais tarde no jogo, para usar através dos níveis. 
+O jogo foi relançado na compilação [[Sonic Mega Collection|Sonic Gems Collection]] e em [[Sonic Adventure]] DX: Director's Cut.
+
+Tails Adventures é um jogo de estratégia militar e guerra baseado no próprio "A arte da Guerra" e dirigido por ninguém menos que o mestre Sun Tsu. O jogo conta com dinâmicas do exército (da Salvação), Marinha e Aeronáutica. No caso três em um, já que o apareto principal que Tails usa é uma misturança dos três, mudando de acordo com a necessidade!
+
+==História do jogo==
+
+A versão em japonês do jogo tem um enredo diferente da versão Overseas.
+No entanto, a diferença é só no manual, porque tanto o cartucho japonês e os cartuchos overseas são idênticos. 
+A linguagem do jogo é automaticamente ajustado para qualquer região do Tijolo Gear unidade está dentro A versão em japonês de The Game tem uma versão mais complexa da história do que a versão ocidental, mas além desta diferença, e os nomes das diversas rubricas The Game, ambos são idênticos.
+
+===Versão em japonês===
+[[Arquivo:Tails Adventure SGG ScreenShot3.gif|thumb|left|Notem a qualidade dos graficos([[¬¬|100% original]])]]
+No Pacífico Sul, existe uma pequena ilha que não pode ser encontrada em nenhum mapa: Cocoa Island, um belo paraíso pouco que repousa sobre um recife de coral. 
+Diz que a lendária Chaos Emeralds fica aqui, e assim o fez o herói da nossa história, antes de conhecer seu [[Sonic|ídolo azul]].
+Os seguintes eventos ocorrem antes do primeiro encontro Tails "com Sonic:
+Durante a tarde [[42|ensolarada]] em Cocoa Island, [[Miles "Tails" Prower]] está tirando um [[Vagabundo|cochilo]] fora de seu laboratório de pesquisas. 
+Seu sono é interrompido por [[Bomberman|uma enorme explosão]], e antes que Tails pode dizer "Stop, Drop, and roll!" qm todo o lugar, já era tarde, pois já tava tudo em chamas. 
+Uns [[Flicky]]s falam da má notícia para Tails: o Battle Kukku Army invadiu Cocoa Island.
+O ditador Battle Kukku 15 descobriu as esmeraldas na ilha, e pretende usá-las para conquistar o mundo inteiro.
+Tails é o único que pode pôr fim nos caras.
+
+===Versão ocidental===
+
+Sonic e Tails são os melhores amigos, mas depois de sua aventura anterior ([[Sonic 3]]), os dois decidem <s>se divorciar</s> se separar por um tempo.
+Tails vem através de uma ilha, indo sozinho e decide passar umas férias lá por um tempo, chamada "Tails Island".
+Ele está descansando em paz quando ele é acordado por uma grande explosão.
+Os Flickys falam pro Tails que os BKA invadiram a ilha. É então que Tails faz contato com as forças armadas scavuzca, que mandam suprimentos de guerra para ele. Só que a bagagem cai pela ilha quando um pássaro verde enquanto tomava sorvete acerta como mosquito em retrovisor o avião e os pilotos perdem o controle!
+Cabe a Tails utilizar suas bugigangas patenteadas pelo exército russo que encontra pela ilha para eliminar os flancos inimigos e destruir o ninho----ahen,digo governo do exército inimigo, tudo isso com pouca força e agilidade, algumas bombas e um robô-cachorro-máquina-mortífera, ah, e um rádio.
+
+==Modos de jogo==
+[[Arquivo:Tails Adventure SGG ScreenShot4.gif|thumb|right|Tails no modo ''Viu-mais-[[cu|rabus]]'']]
+Contrariamente da jogabilidade clássica na [[Correr pra Caralho|série Sonic]], Tails Adventures é um puzzle baseado em plataformas com uma forte ênfase no ponto de pegar e de [[Rebobinador de DVD|retroceder]], como um RPG side-scrolling.
+Tails pode andar, pular, abaixar, olhar para cima, voar<s> pra caralho</s>, cair em bordas, e jogar todos os tipos de [[Bomberman|bombas]].
+Seu medidor de vida está em um monitor chamado Ring Box no canto superior esquerdo da tela.
+O [[HP]] (não é a empresa, [[Porra]]!) é reabastecido através da recolha de Anéis, que pode ser encontrado quando explodir rochas, pedras ou ao derrotar inimigos.
+Ele começa com 10 HP (ou Anéis), mas esse número vai até 99, quando todas as seis Chaos Emeralds forem recolhidas. 
+Seu tempo de ar é limitado pelo medidor de voo, que começa em cerca de 3 segundos e o máximo é 15. No total, há 12 ilhas para completar.
+Existem 26 itens para recolher ao longo do jogo.
+Cada um serve a um propósito diferente, mas Tails só pode [[Download|carregar]] 4 itens com ele em qualquer fase.
+Sabendo quais são para carregar, é uma questão de [[Burro|tática]].
+Utilizando o manual do jogo junto com o livro "A Arte da Guerra, você poderá utilizar todos os conhecimento de Sun Tsu que ele colocou no game, e virar um grande(ou não) estrategísta militar!
+
+===Remote Robot===
+[[Arquivo:GGTailsAdventuresPF.png|thumb|left|''Ei! Volte aqui!! Eu ainda não terminei de te humilhar!!!'']]
+Essencial para completar muitas partes do jogo é um robô remoto, conhecido no Japão como Mecha Tails.
+O robô remoto é minúsculo, todo-terreno robô modelado em que Mecha Tails pode espremer em um monte de lugares aonde Tails não pode.
+Ao usar o Remote Robot, Tails fica no lugar enquanto o jogador controla ele. 
+O robô pode andar, pular, voar, e andar em lugares pequenos, e ele não é danificado por inimigos (e nem ganha pontos), mas se for atingido por um tipo especial de laser azul, ele vai voltar pro Tails.
+Muitos dos enigmas do jogo envolvem manobrar o robô para abrir o caminho pra si mesmo.
+Sob a água, o Remote Robot muda pra Sea Fox, o pequeno submarino (de [[Sonic Triple Trouble]]) que se move na mesma forma que o robô remoto faz.
+Ao contrário da maioria dos outros jogos Sonic, o oxigênio é ilimitado, porque quando Tails vai pro mar, ele pode respirar debaixo d'água(?!?!).
+O robô se baseia no texto em que o mestre Sun diz que deveria haver um espião hábil para manobrar-se na frente de inimigos sem chamar atenção (o que o robô definitivamente consegue fazer, passando desapercebido até pelos chefes). E ainda assim, utilizando a super avançada tecnologia russa ele pode passar de combate aéreo, marinho e terrestre facilmente, sendo assim mais versáil que um Max Steel!
+
+{{vqd|Esse é dos meus, sem essa frescura de ser criado com alpiste e mamão papaia}}
+Gil Brother sobre Tails e sua invenção russa em contraste com o Battle Kukku Army.
+
+==Personagens==
+
+===Tails===
+
+Tails, é um personagem da série Sonic the Hedgehog em VGs, [[quadrinhos]] e em desenhos animdos lançados pela Cega (lógico.....dãããã). 
+O personagem foi conhecido como ajudante do Sonic. Seu nome "Miles Prower" é um trocadilho com [[Correr pra Caralho|"milhas por hora"]], uma referência à velocidade famoso da série Sonic the Hedgehog. 
+Ele tem [[Chaves|oito]] anos de idade, é antropomórfico e é uma raposa amarela, com <s>dois cus</s> uma cauda quase cortada ao meio.
+Ele é conhecido por ser amigo [[Sexo|íntimo]] do Sonic e por ser um mecânico.
+Ele é capaz de usar seus "dois rabos" pra voar no ar como um helicóptero por um tempo limitado.
+Sua estréia foi em 16 ([[Mega Drive|SIXTEEN-BIT!]]) de outubro de [[1992]], introduzida na versão 8-bit de [[Sonic the Hedgehog 2]], a versão [[Mega Drive|16-BIT!]] foi lançado em novembro do mesmo ano.
+
+===Battle Kukku Army===
+
+O Battle Kukku Army, são um exército de aves que invadem a ilha de abocanhar as esmeraldas escondidas.
+Depois que Tails derrota o seu líder, eles vão embora.
+O Battle Kukku Army é constituído por <s>Patos</s> aves de uniforme, um pouco [[Emo|zangões]] inteligentes e de máquinas avançadas.
+O Battle Kukku Army vive em uma enorme fortaleza voadora que pousou como uma ilha durante o jogo.
+Esses passáros vieram bolar um plano de conquistar o mundo após serem expulsos pelas frentes americanas da sua base no Central Park, em New York.
+
+{{vqd|Esses colibris aprontarão 1001 sacanagens direto do 32X para azucrinar a vida e as férias dessa raposinha do barulho de duas caudas no seu Game Gear}}
+Narrador da sessão da tarde sobre Battle Kukku Army.
+
+===Membros do Battle Kukku Army===
+[[Arquivo:Tails Adventure SGG ScreenShot2.gif|thumb|right|Tails desta vez vai ter que se virar pra matar os Chefões([[AAAAA|sem Sonic e sem Spin Dash's]])]]
+* Grand Battle Kukku 15: O ditador, como líder do exército.
+Ele é maior do que a maioria kukkus, e é o chefe final do jogo que no qual você luta na sua fortaleza voadora.
+Ele joga e atira bombas em torno do Tails e fica atirando no Tails se ficar muito perto.
+
+* Battle Kukku 16: Também conhecido como "Speedy", o filho de Grand Battle Kukku 15 e rival do Tails.
+Speedy é um Kukku rápido verde que, apesar de suas habilidades naturais e áerea, às vezes usa uma armadura equipada com um canhão de energia e um motor a jato que lhe permite alcançar voo ainda mais rápido.
+Ele aparece como um chefe, duas vezes ao longo do jogo, em primeiro lugar na Polly Mountain 1 e depois na fortaleza voadora pouco antes do jogador enfrentar seu pai.
+
+* Dr. Fukurokov: cientista principal do exército. 
+Ele é o primeiro chefe da fortaleza voadora, mas na verdade ele não luta, e deixa suas máquinas defensivas cuidar de Tails. 
+Sua tendência a ignorar pequenos detalhes é a sua maior fraqueza.
+
+{{vqd|Lembre-se de que não devem passar de três unidades por flanco inimigo nas Montanhas Polly }}
+Mestre Sun Tsu dando uma dica ao programador no desenvolvimento do jogo.
+
+
+==Itens do Tails==
+
+Todos os itens do jogo (sendo muitos plágiados do Bomberman):
+
+* Regular Bomb: A primeira arma do Tails;
+* Large Bomb: Bomba que demora mais explodir, mas sua explosão é mais longa;
+* Remote Bomb: Bomba que explode após apertar o mesmo botão (que nem no Bomberman);
+* Napalm Bomb: Bomba que quando explodida no chão, cria fogo na horizontal;
+* Triple Bomb: Tails joga três bombas de uma só vez;
+* Wrench: Chave de Fenda;
+* Helmet: Tails utiliza esse para proteção durante assaltos das frentes inimigas;
+* Remote Robot: projeto do Tails em união com o exército russo ;
+* Hammer: quem sabe ler inglês talvez saiba o que esse item faz!!!;
+* Teleport Device: Dá um Controle do Caos para o início da fase;
+* Night Vision: Para tails fazer cover do Tony Clancy e Solid Snake;
+* Speed Boots: Faz Tails correr pra Caralho;
+* Super Glove: Serve pro Tails arremesar (ou jogar) coisas, também usada para jogar baseball;
+* [[Fang the Sniper]]: vira franco atirador e sai mandando bala que nem o Fang;
+* [[Knuckles the Echidna]]: Dá uma porrada tão forte que só mata os pássaros mas não chega nem a lascar a parede (e faz ele ser dos mano também);
+* [[Sonic the Hedgehog]]: Faz Tails dar um Spin Dash;
+* Item Radar: Radar inútil;
+* Raido: A Cega escreveu Radio errado, era para ser em russo;
+* B, C, P, R, W, e Y: Esmeraldas do Chaos. 
+
+{{sonic}}
+
+[[Categoria:Jogos da Aspect]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Game Gear]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos lançados em 1995]]

@@ -1,0 +1,23 @@
+Um software de '''ambiente de desenvolvimento integrado''' do original '''Integrated Development Environment''' ('''IDE''' e esta sigla é um sinônimo do [[Eclipse IDE|Eclipse]]), é uma ferramenta que só falta fazer café e arrumar o código mal feito (ou [[Stack Overflow|copiado]]) pelo programador. É um software que ajuda o programador a arrotar código mais rapidamente e no menor tempo definido pelo chefe.
+
+==Histórico==
+Os ambientes da forma como conhecemos hoje (software de Ctrl+Space), surgiu pela primeira vez em 1913 com o [[Vi]]. Na época, aquele programa conseguia suprir bem as necessidades da época que era a de desenvolver programas jurássicos em [[COBOL]]. 
+
+Com o passar dos anos, as tecnologias evoluíram e o modo de [[prostituição|fazer programas]] também. Depois que a [[Microsoft]] resolveu lançar uma IDE para competir com os jogos mais pesados no mercado, o [[Visual Studio]], no fim do século passado, as IDEs passaram a ser sinônimo de testadores de ''carga de sistema''.
+
+==Funções e características==
+[[Arquivo:Eclipse-maven-java-error.jpg|thumb|320px|left|Java: Desfrute perder toda sua RAM ao abrir o IDE Eclipse.]]
+Um programa tão pesado quando o [[Crysis 3]] deve ao menos ajudar de alguma forma, isso ou voltar para o [[Notepad++|Notepédi-mais-mais]] que roda até na calculadora do padeiro da esquina. Para isso, uma ide deve atender alguns requisitos como:
+
+* '''[[Edição de texto]]''' – Obviamente, para início de conversa.
+* '''''[[Linker|Lin]][[Liniker|<s>i</s>]][[Linker|ker]]''''' – Uma IDE deverá ter algum [[empoderado|escroto empoleirado]] lá dentro para fazer a ligação vários arquivos binários.
+* '''[[Compilador]]''' – Um compilador a depender da linguagem que o indivíduo estiver copiando de algum site na internet
+* '''[[Debugger|De ''bug'' a dor]]''' – Tem que ter uma ferramenta legalzinha pra poder executar o código passo a passo, linha por linha
+* '''Testes''' – Uma boa IDE que se preze, tem que oferecer ferramenta de testes, mesmo que ninguém chegue a usar isso um dia
+* '''''Deploy''''' – Deve facilitar o processo de por o amontoado de gatos em produção, ou seja, para uso em testes de [[Bicho Ignorante Operando o Sistema|BIOS]]
+* '''''Refactoring''''' – Uma boa IDE tem que ter integração com [[sistema de controle de versões|versionadores de código]], assim dá pra contar quantas vezes o programador teve de ''refazer'' o mesmo sistema
+
+==Benefícios==
+O principal benefício no uso de uma IDE é que o programador pode ser melhor explorado pelo chefe que não sabe programar e acha que Orientação a Objetos é só clicar com o mouse em cima de "um objeto" e arrastá-lo, segundo um <span class="plainlinks">[https://www.youtube.com/watch?v=ySyrYrjC3gU especialista entendido do assunto]</span>.
+
+[[Categoria:Software]]

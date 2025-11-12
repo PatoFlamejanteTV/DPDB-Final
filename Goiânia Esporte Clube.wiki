@@ -1,0 +1,68 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = black
+|brasao            = Cade a bola.png
+|hino              = [https://www.youtube.com/watch?v=na_vUcLJG3Q ÊÊÊÊÊ GOIÂNIA]
+|nome_oficial      = Goiânia Country Club
+|origem            = {{GO}} - '''[[Goiânia]]'''
+|apelidos          = Pintinho Carijó
+|torcedores        = Idosos
+|torcidas          = Idosas
+|mascote           = Cesinho
+|ilustre           = [[Getúlio Vargas]]
+|estadio           = Eles não têm esse luxo
+|capacidade        = [[Erro 404|404]]
+|sede              = Bar do Justo
+|presidente        = Pergunte aos historiadores
+|treinador         = Jacinto Pinto
+|pior              = [[Túlio Maravilha]]
+|melhor            = Todos são ruins
+|patrocinador      = Funerária Um Irmão (o outro já morreu)
+|material          = Crochê
+|liga              = Enferrujou
+|divisao           = Última
+|títulos           = Pentacampeonato estadual em 1854
+|ranking           = -1000°
+|uniformetitular   = Goiania-esporte-clube-home-football-shirt-2001-s 28325 1.jpg
+|uniformealt       = 
+}}
+
+{{c|Quando o Galo ganhou aquele Goianão invicto, lá em 53...|Torcedor comum do Goiânia relembrando as glórias mais recentes do clube}} 
+
+'''Goiânia Esporte Clube''' é uma tentativa de time da cidade de [[Goiânia]] (ah vá, é memo?). Um dos clubes mais velhos de Goiás, se não o mais ancião deles, fundado na época em que ainda se chamava aquilo de ''Goyaz'' e consistia em duas linhas no mapa ligando minas no tempo longínquo que o estado ainda tinha ouro.
+
+==História==
+===Fundação===
+[[Arquivo:GEC 1941.jpg|thumb|left|Ao se pesquisar por "times bons do Goiânia" (por que alguém procuraria isso??) o que mais vai se achar são relíquias pré-históricas como essa - do elenco do GEC de 1841.]]
+O Goiânia surgiu em [[1936]], só três anos depois da fundação da cidade, o atraso devido ao fato de não haver ainda ali tecnologia que permitisse chegar aos nativos a notícia da invenção do futebol. E sem absolutamente ninguém pedir, o clube foi criado seguindo a tradição chata de nomear times inspirado em cidades, as suas cores copiando a tradição de outros estados de ter um time preto e branco pra rivalizar com um verde.
+
+===Profissionalização===
+Conforme a [[wikipédia|nossa sátira autorizada]] nos conta orgulhosamente, nas duas primeiras partidas realizadas pelo Goiânia Esporte Clube a equipe da capital só conheceu derrotas. A primeira por 3x1 pro time da cidade de [[Bela Vista de Goiás]] que nem nome tinha, em um feriado de domingo, quando se comemorava o dia da padroeira da cidade em que os jogadores compareceram com a promessa de [[pinga]] de graça para todo mundo e beberam demais antes do jogo. 
+
+Em 1938 os alvinegros tiveram a infeliz decisão de mudar de nome para '''Corinthians Goiano Futebol Clube''', e inspirado no [[Corinthians]], claro que só veio choro e ranger de dentes. Um ano depois, o nome antigo é restaurado por escolha dos próprios associados, que queriam ter um motivo a menos para passar vergonha.
+
+===Série A do Goianão===
+O Goiânia se orgulha fervorosamente de um pentacampeonato estadual que ninguém viu, entre [[1950]] e [[1954]], os dois últimos de maneira invicta numa época em que [[Goiás Esporte Clube|Goiás]] e [[Vila Nova Futebol Clube|Vila Nova]] eram times de [[cricket]].
+
+E assim esse ilustre timeco foi sendo ultrapassado, vendo sua torcida diminuir (o asilo tava ficando pequeno demais) até se tornar a negação no [[Campeonato Goiano]] que é hoje. Mas não pense que o Goiânia deixou de bater recordes: em [[1997]] foi o contemplado com a honra de ser o primeiro da capital a cair pra divisão de acesso do estadual. 
+
+==Nos Campeonatos==
+[[Arquivo:Goiânia E.C Torcida.JPG|thumb|left|Torcida do Goiânia, só tiozinho.]]
+O Goiânia é um daqueles times que em seus primeiros anos joga bem justamente porque não tem mais nenhum time bom para ganhar dele, mas tal qual a [[Portuguesa]] que já foi uma simpática potência e hoje é [[time ioiô]], ele nunca aguenta e sempre cai de todas as divisões possíveis.
+
+Apesar de dizer representar (muito mal por sinal) a capital do estado, consegue [[Rubens Barrichello|ficar atrás]] de uns 50 times do interior que volta e meia sobem pra elite do estadual antes de rebaixarem e sumir de novo. 
+
+Clube com aquele mal do ''[[rebaixamento]] crônico'', nem trazer o [[Túlio Maravilha]] em final de carreira como 90% dos times goianos fazem deu jeito nessa causa perdida. No caminho da falência, vendeu seu paleozoico estádio pelo preço simbólico de R$ 3,00 e um palheiro e hoje em dia "joga" suas partidas amadorescas no [[Estádio Olímpico Pedro Ludovico Teixeira|Estádio Olímpico]], um campinho de várzea público que o governo de Goiás empresta ao Galo por caridade.
+
+==Títulos==
+*'''[[Campeonato Goiano|Campeonato Caipira]]''': 14 vezes
+*'''[[Super Campeonato Goiano|Super Campeonato Caipira]]''' (uma espécie de [[Taça Brasil|torneio fax]] dos goianos): [[1958]], [[1959]] e [[1960]]
+*'''[[Torneio Início]]''' (uma pelada condecorada): 8 vezes
+*'''[[Campeonato Goiano - Série B|Série B da Roça]]''': [[1998]] e [[2006]]
+*'''Inúmeros outros troféus de incentivo e rachões municipais''': Muitos para contabilizar.
+
+{{Campeonato Goiano}}
+{{Campeonato Brasileiro}}
+
+[[Categoria:Galos]]
+[[Categoria:Times de futebol de Goiás|Goiania]]

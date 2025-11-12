@@ -1,0 +1,77 @@
+[[Arquivo:quadradoazul.jpg|center]]
+
+{{taxocaixa
+| cor             = #CD853F
+| nome            = Vermes aquáticos
+| imagem          = aaaaaneis.jpg
+| imagem_legenda  = Poliquetas usando seus aneis
+| reino           = [[Animalia|Animal]]
+| filo            = [[Annelida|Ana Lídia]]
+| classe          = [[Polychaeta|Polyshop]]
+}}
+
+{{c|Escrevi 40 páginas só para essas criaturas.|Algum estudante|Polychaeta}}
+{{c|Temos as minhocas e as sangessugas, e há muito mais páginas paras Polychata!|Oligochaeta e Hirudinomorpha indignadas|o comentário de Barnes}}
+{{c|Minha publicação é em inglês, as fuguras são coloridas e meu livro é mais fino, logo mais pessoas no mundo me procuram.|Brusca|sobre o comentário de Barnes}}
+
+'''Polychaeta''' (do [[língua grega|grego]] Poly=Muito + Chaeta=Chato) são animais muito chatos de serem estudados. Os Polychaetas pertencem ao filo [[Annelida]], cuja principal característica é ter o corpo coberto por anéis de prata e alianças de outro jogados na praia por humanóides insatisfeitos sexualmente com seus parceiros.
+
+Das 8 mil espécies, a maioria são coveiros e cavam suas próprias covas. Outros são ajudantes de pedreiros, furando conchas e rochas. Há também uns que sonham em serem cobras e rastejam pelo substrato. Mas, mesmo no mundo dos Polychaetas, há uns doidos naturalistas que adoram ser exclusivamente pelágicos.
+
+== Estrutura e Função ==
+[[Arquivo:i1.JPG|thumb|175px|Uma poliqueta cobaia se queixando da temperatura da pinça...]] [[Arquivo:i4.jpg|thumb|175px|A dupla sertaneja Prostômio e Peristômio]]
+* '''Prostômio:'''
+Primeira voz da Dupla sertaneja Preristômio e Prostômio. 
+* '''Peristômio:'''
+Segunda voz da Dupla sertaneja Peristômio e Prostômio. 
+* '''Parapódios''':
+Do grego ''Para-poder'', são projeções laterais da parede corpo que servem para “para-poder” nadar.
+* '''Sacos Septígeros:'''
+Sacos cheio de tígeros septuagenários.
+* '''Pigídio:'''
+Vulgarmente chamado de "Bunda", essa regigão é posta por muitos animais [[tubículas]], na parte superior do tubo em contato com a água. Tai o termo bem empregado "[[de bunda para cima]]". 
+* '''Cirros:'''
+Do grego ''Cirrose'', é o nome dado à doença dos Polychaetas após ingestão excessiva de álcool durante a [[Suruba|Plychaeta’s party]], mais conhecida como [[Enxameamento]].
+
+== Órgãos sensoriais ==
+* '''Órgãos [[nucais]]:'''
+Precisa dizer mais? Ou você não sabe ler? ¬¬
+* '''Oceolos:'''
+Do grego ''Ó Céus'' , sendo assim um órgão sensorial cuja função é atribuída a vontade de Deus.
+* '''Estatocistos: '''
+Do grego ''Está com cisto'', sendo assim um órgão sensorial cuja função é reconhecer o cisto quando cai em um oceolo.
+* '''Palpos:'''
+Iguais aos de galinha.
+
+=== Sistema Hemal ===
+Corporação de Emos dispostos a doarem seus sangues repletos de hemoglobina para os pequenos Polychaetas. As Lágrimas dos Emos também são enviadas para formar o Celoma.
+
+== Reprodução ==
+[[Arquivo:vp.jpg|thumb|150px|Uma viagra para Poliquetas]]
+Alguns preferem a regeneração e a reprodução colonial, mas a maioria dos polychaetas preferem ir a orgia do [[Suruba|Polychaeta’s Party]] ([[enxameamento]]). Mas, para participarem de dessa festa fenomenal, é preciso abastecer suas estruturas reprodutivas com bastante viagra até a formação do [[Épitoco]], o qual será separado do restante do corpo e subirá para superfície.
+
+== Taxonomia ==
+
+{{Clado
+|clado1     = Ordens
+|preposição = à
+|clado2     = classe polychaeta
+|texto      = 
+|lista      =
+* '''[[Amphinomida]]''' - minhocas-de-fogo
+* '''[[Phyllodocida]]'''
+* '''[[Eunicida]]'''
+* '''[[Terebellida]]'''
+* '''[[Sabellida]]'''
+* '''[[Spionida]]'''
+* '''[[Capitellida]]'''
+* '''[[Cossurida]]'''
+* '''[[Opheliida]]'''
+* '''[[Orbiniida]]'''
+* '''[[Questida]]'''
+* '''[[Scolecidaformia]]'''
+* '''[[Echiura]]''' - vermes-pênis
+}}
+
+[[Categoria:Annelida]]
+[[Categoria:Polychaeta|*]]

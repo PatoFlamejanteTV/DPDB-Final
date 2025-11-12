@@ -1,0 +1,27 @@
+[[arquivo:Regular polygon 8 annotated.svg|thumb|220px|Um [[octógono]] regular posando como se fosse o [[chefão]] da geometria: oito lados iguais, oito ângulos de 135° e ainda sobrando tempo pra ser [[placa de STOP]] ou [[ringue]] de [[UFC]]]]
+'''Octógono''' é o [[polígono]] com 8 lados que acha que é [[círculo]] com [[musculação]] tipo [[placa de pare]] ou [[mesa de pôquer]] com [[atitude]]. [[Regular]], todos os lados e ângulos batem: 135° internos, área <math>$2(1+\sqrt{2})s^2$</math> [[professor]] [[aplaude]], [[aluno]] [[pula]].
+
+==História Rápida==
+[[Euclides]] desenhou octógono em 300 a.C. pra [[construir]] com [[régua]] e [[compasso]]. [[Árabes]] usaram em [[mosaico]]. [[STOP]] americano popularizou em 1923.
+
+==Cultura Pop==
+* [[Placa STOP]]: octógono vermelho [[motorista]] [[freia]] ou [[morre]].
+* [[UFC]]: ringue octogonal [[lutador]] [[sangra]] nos cantos.
+* [[Mesa de pôquer]]: octógono pra 8 [[jogador]]s [[blefar]].
+
+==Curiosidades==
+* [[Abelha]] ignora 6 lados são [[suficientes]].
+* [[Papel]] octagonal? [[origami]] [[médio]].
+* [[Sinal]]: octógono amarelo [[perigo]] de [[multa]].
+
+{| class="wikitable"
+! Lados || Nome
+|-
+| 8 || [[Octógono]]
+|-
+| 10 || [[Decágono]]
+|-
+| ∞ || [[Círculo]] ([[troll]])
+|}
+
+{{Predefinição:Formas geométricas}}

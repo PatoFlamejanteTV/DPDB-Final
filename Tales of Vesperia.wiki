@@ -1,0 +1,99 @@
+{{game}}
+
+{{Infobox Game
+|title     = Tales of Vespeiro
+|image     = Tales of Vesperia cover.jpg
+|caption   = Capa do jogo
+|developer = [[Namco Tales Studio|Tales Manco Studio]]
+|publisher = [[Bandai Namco|Banda no Manco]]
+|released  = 2008
+|genre     = [[RPG]] com muita conversa
+|rating    = 8/10 na história<br>3/10 na jogabilidade
+|platform  = Consoles de playboy
+|ages      = Livre
+}}
+
+{{C|Yuri é tipo o vilão, que sequestrou a princesa Estelle para imolá-la como escrava pessoal do Adefago e aquele príncipe loiro lá fica tentando detê-lo.|Pessoa que não entendeu a história|Tales of Vesperia}}
+
+'''Tales of Vesperia''' (Rabos do Vespeiro, em português) é um jogo de simulador de conversa fiada que faz parte da aclamada série de [[RPG]] japonês [[Tales of]]. Neste título nos é disponibilizado mais de 20 horas em diálogos de um assuntos completamente irrelevantes que vão contribuir em nada para sua vida mas que requer pós-graduação em otakice para ser plenamente compreendido, pois toda hora será mencionado coisas como Blastia, Adefago, Formula, Aer, Apateia, Entelequeia e se você se distrair ao pular os diálogos, vai estar entendendo nada no final.
+
+O jogo ainda é premeditadamente cretino ao ponto de forçar o jogador a estar continuamente lendo esses diálogos maçantes porque durante a jogabilidade não há quaisquer marcações no mapa apontando os objetivos e o próximo destino, não sendo raro o jogador ficar preso completamente perdido sem saber para onde deve exatamente ir.
+
+== Jogabilidade ==
+
+[[Arquivo:Tales of Vesperia gameplay.jpg|thumb|left|O jogo mantém o estilo já consagrado da série de um gameplay de centenas de coisas acontecendo ao mesmo tempo na tela.]]
+
+Seguindo o exemplo de como deve qualquer RPG japonês a jogabilidade de Tales of Vesperia divide-se em dois momentos: 90% do tempo você está dialogando ou perambulando pelo mapa e 10% do tempo enfrentando combates repetitivos. Durante a exploração do mapa você pode andar e conversar, mas conversar muito mesmo, enquanto eventualmente soluciona puzzles que qualquer retardado mental saberia solucionar.
+
+Na hora do combate temos a jogabilidade clássica de qualquer game da série Tales of onde quatro personagens vão começar a soltar um monte de magia e golpes especiais tudo ao mesmo tempo criando uma verdadeira cacofonia na tela de um bando de gente gritando nomes de golpes e técnicas enquanto a tela é lotada de informações. O jogador pode zerar o jogo apenas usando o bater, bater, bater, defender, bater, bater, bater, defender, bater, bater, bater, defender. É claro que ficar 40 horas fazendo isso pode ser entediante, então é possível também usar uns golpes especiais e as vezes usar itens, caso você dê sorte de seu time não ter torrado tudo sem necessidade. Após encher um inimigo de porrada você pode encher uma [[barrinha de POW]] que vai permitir você usar a técnica do bater, bater, bater, bater, bater, bater, bater, bater, bater, bater, bater, bater, bater, bater, bater por 20 segundos.
+
+== Enredo ==
+=== O roubo da Blastia Aqua ===
+
+Estamos num mundo fictício terraplanista localizado na [[Cochinchina]] chamado Terca Lumireis, um mundo onde as pessoas ao invés de desenvolverem tecnologia e conhecimento preferem depender de um dispositivo chamado "Blastia" para fornecer todas suas necessidades. [[Motor de combustão interna]] ou [[motor a vapor]] são coisas que não existem, tudo é movido por blastias. Este mundo é habitado por uma infinidade de Pokémons altamente hostis que beberam muito [[Red Bull]] com [[catuaba]] e agora não pensam em outra coisa senão estuprar humanos, sendo uma existência perigosa, por isso todas cidades são protegidas pelas denominadas "barreiras", uma redoma mágica criada por blastias.
+
+Este é um jogo sobre o quão longe alguém pode ir para capturar um ladrão de blastia. Yuri Lowell, protagonista dessa história, decide investigar um ladrão descuidado que roubou a torneira de um hidrante, enquanto todos estavam distraídos no horário do almoço, o ladrão levou o núcleo de blastia que regulava o esgoto da cidade o que causou uma inundação na favela. Mas graças ao faro de seu cachorro de estimação, Repede, que percebe os traços de urina que o ladrão deixou enquanto fugia, Yuri e seu cachorro perseguem o responsável por aquele furto e chegam a um canteiro de obras nos distritos superiores da capital. O ladrão da blastia, no entanto, escapa, enquanto Yuri é capturado e multado por invadir uma propriedade privada, mas, como não tinha dinheiro para pagar essa fiança, é jogado na prisão. Sem se preocupar nem um pouco em ter sido sentenciado à prisão perpétua por uma simples violação de propriedade, ele apenas ficou ali em sua cela esperando que um sujeito desconhecido simplesmente entregasse a chave da prisão do nada. O cárcere, aliás, fica anexo ao castelo, por isso enquanto foge Yuri conhece Estelliseuraina Sidosina Hurassenite, a quem ele prefere chamar apenas de Estelise, uma princesa mimada que está procurando o seu crush, o cavaleiro Flynn. Tal princesa, embora ainda não tivesse desenvolvido seus seios, já havia atingido a idade da puberdade e estava curiosa sobre o mundo exterior, por isso que pede a um completo desconhecido (Yuri) que simplesmente a leve embora do palácio e da capital.
+
+Enquanto Yuri e Estelle viajam procurando o ladrão de blastia, acabam atravessando uma floresta onde encontram um pirralho que apesar de não ter ainda nem um pentelho no púbis acha que pode sair caçando monstros por aí, o seu nome é Karol e ele quer caçar um [[urso]] para reviver a árvore Halure. Essa ideia obviamente não faz sentido nenhum, por isso todos o ridicularizam com razão. Yuri até ajuda o moleque a caçar seu urso, e obviamente isso dá em porra nenhuma. Mas a árvore mágica é ressuscitada mesmo assim graças aos poderes de cura de Estelle.
+
+[[Arquivo:Tales of Vesperia flirting mission.png|thumb|left|400px|Há várias missões bem criativas, como aquela em que Estelle deve seduzir um guarda.]]
+
+A essa altura já era mais vantajoso comprar uma blastia nova, mas Yuri continua caçando aquele bandido, visitando a cidade dos nerds de Aspio, uma cidade localizada dentro de uma caverna onde os nerds podem se sentir mais a vontade longe da luz solar que tanto os incomoda. Infelizmente lá não há qualquer bandido, mas apenas a Rita Mordio, uma maga tsundere claramente lésbica que vai se unir ao grupo porque também não gosta de ladrões de blastia.
+
+Nessa jornada que nessa altura já não faz mais sentido (seria como se alguém roubasse o hidrante do seu bairro e você, sem ser qualquer autoridade, fosse a pé até [[Ciudad del Este]] procurando o ladrão) Yuri e seus amigos chegam a uma cidade portuária governada por um velho que controla clima e decidiu que quer uma tempestade 24 horas por dia. É ali que encontram Patty pela primeira vez, uma garotinha precoce e sem pais que perambula por aí sem medo da morte. Yuri e seus amigos precisam destruir a blastia que controla o clima para então pegarem um navio para um outro continente.
+
+O próximo destino é a cidade das Guildas, um lugar criado para tentar instaurar o [[anarcocapitalismo]] tão repudiado na capital do império, mas a ideia não deu muito certo e embora na teoria seja uma cidade onde todos fazem o que quiser, ainda acaba havendo hierarquias. O líder da cidade é Don Whitehorse (chamado na versão brasileira de "velhote Capo") um velho bombado que está sempre ocupado e fica passando missões idiotas e coloca um velho rabugento chamado Raven pra ficar de olho nesses garotos.
+
+Numa dessas missões Yuri persegue um pirata obeso que construiu uma [[arma de destruição em massa]] e ele acaba preso junto com uma elfa gostosa de cabelos azuis (chamados de "Krityans" por questões de direitos autorais do Tolkien não ser possível chamá-los de elfos) que se revela ser o dragoneiro misterioso que destruía blastias pelo mundo, o seu nome é Judith e seu sonho é curar sua frigidez, por isso passa a acompanhar Yuri. Só quando Yuri mata o pirata obeso que ele pode finalmente recuperar a tal Aquae Blastia. Incrível como um mero regulador de vazão de esgoto era o componente principal de um Megazord capaz de destruir cidades.
+
+=== Conhecendo as Entelequeias ===
+
+[[Arquivo:Tales of Vesperia Rita.png|thumb|400px|Os diálogos é o que tornam os personagens tão cativantes e profundos.]]
+
+O normal seria o jogo acabar por ali, Yuri concluiu sua missão, mas Estelle quer encontrar o monstro falante que a xingou de veneno do mundo. Yuro, Karol e Judith criam a guilda Vespa Braba (Brave Vesperia no texto original). Mas antes de encontrar esses monstros falantes Yuri e seus amigos precisam lidar com os dois vilões, Yeager e Cumore e as duas gurias de estimação de Yeager, Gauche e Droite.
+
+Nessa jornada para encontrar o tal pássaro falante, Yuri e sua turma vão fazer um monte de outras baboseiras juntos, sobretudo porque Estelle quer praticamente fazer todas side-missions possíveis (o que irrita Judith, aliás). Numa dessas desventuras eles até mesmo entram num [[navio fantasma]] repleto de espelhos incrivelmente bem lustrados. Um desses monstros falantes é um pavão gigante chamado Bellius que governa uma cidade onde tem uma arena de lutas, mas ele acaba morrendo e se transformando numa pedra de sal do Himalaia (o item denominado de Apateia). É nessa hora que Judith destrói o motor do navio da galera e foge voando numa piroca gigante voadora. Ela não se esconde por muito tempo e logo é reencontrada e descobrimos que a piroca gigante voadora na verdade é uma Entelequeia chamada Ba'ul e que está crescendo e evoluindo, ao ponto de se transformar numa baleia voadora gigante. É só então que Yuri consegue levar Estelle para falar com pássaro falante gigante Phaeroh, que ao invés de ser claro e conciso sobre seus objetivos, fala apenas coisas vagas e subjetivas, ajudando em porra nenhuma.
+
+O que Yuri, Estelle e seus amigos podem fazer é tentar encontrar alguma resposta na cidade perdida dos elfos que se encontra dentro de uma gelatina gigante voadora. Lá há apenas mais respostas vagas sobre o que o poder de Estelle é. Mas Estelle some raptada pelo inesperado vilão Alexei, e Raven revela-se um agente duplo.
+
+=== As tramoias de Alexei ===
+
+Quem estava por trás de tudo era o tal Alexei, ele ficou anos secretamente construindo uma tartaruga mecânica gigante com poder de fogo equiparável a um [[Kame-Hame-Ha]]. Seu plano seria infalível se quando essa tartaruga disparasse um tiro ele dizimasse a capital, mas aquele tirambaço acertou um nada só porque uns barquinhos bateram na tartarugona, desequilibrando-a. Mas se Alexei queria destruir a capital porque foi para lá depois de ter falhado? Ele está usando Estelle como marionete para algum plano maligno, e para não ser incomodado lança um feitiço de nerfar Ba'ul e obrigar o jogador a se deslocar a pé, precisando viajar pelas calotas polares, passando pelos refugiados na cidade da árvore gigante, até voltar à capital.
+
+A capital está tomada por mato, resultado de descaso. Alexei consegue usar Estelle para fazer um cu gigante surgir no meio do oceano. Estelle finalmente é resgatada e o jogador pode parar de comer Apple Gel para restaurar seus HP. Agora com o time completo, Yuri, Estelle e todos os demais vão para o meio do oceano visitar aquele cu gigante e finalmente derrotar Alexei, mas impedir seu plano maligno de tornar o lendário [[Monstro Espaguete Voador]] visível. Nesse momento chocante de distração de todos, Yuri toma punhalada de uma garota chamada Sodia e cai no mar. Yuri acaba resgatado pelo misterioso Duke.
+
+=== Impedindo o Adefago ===
+
+[[Arquivo:Tales of Vesperia Sodia.png|thumb|400px|Sodia revela porque deu uma facada sem sentido no Yuri.]]
+
+Agora que surgiu um [[Lula|Lula Gigante]] nos céus uma catástrofe global é eminente. Para impedir essa tragédia Yuri, Estelle, Rita e todo o time descobrem que vão precisar ressuscitar 4 espíritos para cancelar essa ameaça, que aliás são os quatro espíritos que aparecem em todos jogos da série Tales of, o espírito do encharcado Unidine, o espírito da Labareda Efreet, o espírito do pedregulho Gnome e o espírito do sopro Sylph.
+
+O último chefe acaba sendo o Duke, o velho clichê de "vou proteger a Terra exterminando todos humanos". Se não fosse o seu golpe especial safado de reduzir o HP de toda sua party para 1, ele poderia ser derrotado na base do bate, bate, bate, defende, mas grças a esse truque será necessário saber usar os itens sabiamente nessa batalha final. Mas uma vez que ele é derrotado a paz volta a reinar.
+
+== Personagens jogáveis ==
+
+* '''Yuri Lowell''' - O protagonista indiscutível do jogo, aquele que salvará o mundo da Adefago, a maldita água-viva roxa gigante, a entidade extra-planar que quer converter o mundo em antimatéria. É claro que antes disso ele passará mais da metade do jogo perseguindo um ladrão de blastia. É um homem de personalidade forte e que por adorar seus belos cabelos longos e sedosos precisa vestir uma camisa com gola V mostrando que não tem seios e que é um homem. Ao invés de manter a espada numa bainha amarrada à cintura, ele acredita que isso atrapalha seus movimentos, de modo que prefere é amarrar com algumas tiras a bainha na mão esquerda, o que lhe permite uma melhor mobilidade em correr, pular, nadar e subir escadas sem o menor impedimento. Possui o estilo de luta mais sem sentido de toda história da ficção pois ao invés de lutar de espada normalmente o seu estilo consiste em ficar arremessando a espada pro alto sem parar.
+* '''Estelle''' - Princesa inocente, caridosa, bondosa, extremamente fofa e de nobre coração, seria a esposa dos sonhos de qualquer otaku fedido amante dessas garotas bidimensionais se não fosse também tão indecisa, sempre querendo fazer um monte de missões ao mesmo tempo. Ela detém o poderoso poder do [[xarope]], capaz de curar qualquer enfermidade. [[AIDS]], [[COVID-19]], [[câncer]], queimadura, dano por chifrada de animal, dano por queda, osso quebrado, não importa, até árvore morta ela sabe curar, mas todo esse poder tem um preço... ou deveria ter... na prática ela fica curando todo mundo até o final do jogo sem criar qualquer consequência negativa.
+* '''Flynn Scifo''' - O Anti-Yuri da história e o personagem que menos estará junto na party (por isso não deixe itens importantes nele). Onde quer que Yuri vá, assim que vê seu amigo cometendo um crime, como respirar com a boca ao invés das narinas, Flynn aparece atrás dele sussurrando: "Yuri, você não pode fazer isso! Siga-me até a prisão está próxima" . No entanto, quando ele finalmente descobre que está na facção errada (depois que o império enviou um terço de seus habitantes para a vala), ele envia um de seus mensageiros para dar a Yuri o consentimento de ir matar o comandante do mal. Enquanto isso, Yuri já havia exterminado toda a classe aristocrática de Zaphius.
+* '''Repede''' - O cachorro de estimação de Yuri, mas que se você observar não é nada cachorro, sendo ele apenas da mesma espécie das centenas de monstros que Yuri e seus amigos matam e transformam em fumaça sem a menor dó durante todo jogo. Ele foi engenhoso em livrar-se desse destino cruel ao fingir-se de cachorro, colocando um cachimbo na boca.
+* '''Karol Capel''' - Versão raquítica e infantilizada do muito mais carismático [[Lloyd Irving]], Karol é só um garoto chorão que ao invés de estar brincando com os amigos está numa jornada para salvar o mundo (esses japoneses pedófilos sempre tem que por uma criança nessas porras). Mal consegue segurar uma arma direito e nunca sai de perto da porra de uma mochila do tamanho de seu corpo (japonês também tem esse fetiche de personagens de anime com mochilas gigantes).
+* '''Rita Mordio''' - A maga do grupo, é aquela pessoa genial que está ali para falar coisas difíceis. É a personagem mais irritante do jogo e que causa mais ódio ao jogador porque ela fala de Blastia, Formula, Aer e toda essa caralhada de coisas desconhecidas como se fosse a coisa mais cotidiana do mundo. Quando não está falando de Blastia ela está normalmente sendo uma [[tsundere]] de tendências lésbicas.
+* '''Raven''' - Um tipo de figura que vem se tornando bem frequente na série [[Tales of]], é o idoso que não para de falar sobre como ele é idoso. Apesar de toda sua história até um tanto interessante sobre ele ser um agente duplo tanto do império quanto da União das Guildas e que lutou na antiga guerra e foi ressuscitado, tudo isso acaba sendo secundário quando a única coisa que Raven sabe falar quando chega sua vez de abrir a boca é sobre como ele é idoso. Até mesmo tarado ele poderia ser um pouco mais.
+* '''Judith''' - Sem sombra de dúvidas a [[hentai girl]] desse jogo. Uma elfa seminua que peregrina por aí voando numa piroca voadora usando um dildo gigante como arma e que durante seu especial a atenção da animação do seu golpe secreto vai para em como seus peitões balançam enquanto efetua os golpes.
+* '''Patty Fleur''' - Já que uma das características da série [[Tales of]] é explorar os estereótipos otakus, nada mais natural que trazer uma [[lolicon]] para o grupo. Podiam fazer uma mulher adulta destemida, por que não? Podiam fazer um pirata bad ass, o próprio Aifred, por que não? Mas aí o japonês pedófilo não ficaria em paz, então ali está a pequena pirata super-fofinha de 10 anos de idade usando uma saia acima da altura da coxa. O enredo também deixa bem claro para o pedófilo que ele pode fantasiar com a Patty sem culpa, pois ela é a reencarnação de um pirata adulto em idade consensual, o Aifred.
+
+{{Tales of}}
+
+[[Categoria:Jogos lançados em 2008]]
+[[Categoria:Jogos da Namco Tales Studio]]
+[[Categoria:Jogos da Bandai Namco]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para PlayStation 3]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos de RPG]]
+
+[[it:Tales of Vesperia]]
+[[ja:テイルズオブヴェスペリア]]

@@ -1,0 +1,24 @@
+{{esboço}}
+
+{{Experimente também|WordPress}}
+
+[[Arquivo:Blogger221.jpg|right]]
+'''Blogger''', é um serviço do <s>[[gugu]]</s> Google, que oferece ferramentas para edição e gerenciamento de blogs, imitando o [[WordPress]].Indicado para usuários que nunca tenham criado um blog, ou que [[burro|não tenham muita familiaridade com a tecnologia]].
+O ''Blogger'' permite a hospedagem de quantos [[blog|blogs]] a pessoa quiser, até [[mais de 8 mil]] blogs nos servidores do Google, que adotam o endereço '''.blogspot.com'''. Anteriormente, era possível hospedar os blogs em um servidor próprio do usuário, mas atualmente, o Blogger deixou de suportar publicação via <s>[[FDP]]</s> FTP. Os blogs hospedados no ''Blogspot'' incluem uma barra de navegação do Blogger, que não pode ser removida, através de alguma opção da interface do Blogger. Porém, existem tutoriais explicando como removê-la, através de um [[hacker|hack]]. Os termos de serviço do Blogger não especificam se [[Sílvio Santos|pode ou não pode]] fazer isso, mas muitos usuários do serviço optam por fazê-la.
+
+==História==
+Lançado em agosto de [[1999]], foi uma das primeiras ferramentas de publicação de blogs e é conhecido por ''popularizar'' o formato. Mais especificamente, ao invés de colocar os posts à mão em [[HTML]] e frequentemente fazer o ''upload'' de novos [[poste|posts]], o usuário poderia criar posts para o [[blog]] através do site do Blogger. Isto era possível com qualquer navegador, até o ''[[Internet Explorer|internéti equísplôrer]]'' e o texto imediatamente aparece no site.
+O Blogger foi criado pelo [[Pyra Labs]] e, em [[2003]], foi comprado (Pelo [[Google]], é claro.). Mais [[Chaves|adiante <s>não, atrás.</s>]], funções especiais que tinham a necessidade de serem pagas para serem acessadas mas desde então podiam ser usadas ''[[Analfabeto|de grátis]]''.
+
+Em [[9 de maio]] de [[2004]], o ''Blogger'' foi relançado com um novo visual mais gay (ainda) em colaboração com as empresas de ''webdesign'' ''Adaptive Path'' e ''Stopdesign'', adicionando novos ''templates'', página própria para posts, comentários, <s>xingamentos</s> e postagem por [[e-mail]]. No mesmo ano, o Google comprou a <s>minha [[pica]]</s> [[Picasa]] e o seu utilitário de compartilhamento de fotos [[Hello]], que foi integrado ao '''Blogger''', permitindo [[viado|usuários]] a postarem suas fotos <s>toscas</s> nos blogs.
+
+== Ver também ==
+
+*[[Blog]]
+*[[WordPress]]
+
+{{google}}
+{{sites}}
+
+[[Categoria:Sites]]
+[[Categoria:Google]]

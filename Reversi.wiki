@@ -1,0 +1,30 @@
+{{c|VOCÊ NÃO VAI ACREDITAR, REVEEEERSIIIIIIII!|Steve Ballmer|ter Reversi no primeiro Windows}}
+
+[[Arquivo:Othello-Standard-Board.jpg|thumb|Jogo que dá um trabalho da porra pra jogar é esse aí.]]
+
+'''Reversi''' ou '''Othello''' é um jogo de tabuleiro chato para cacete que se utiliza de muita estratégia e blá blá blá, tornando ele um jogo absurdamente difícil de jogar, porque é um verte-reverte da porra, tornando a vida dos dois jogadores dessa porrinha um saco.
+
+E, acredite, esse era o grande triunfo do primeiro Windows, o fato de poder jogar isso. Genial... Enquanto no [[Windows 95]] o barato era poder jogar ''[[Doom]]'', esse aqui era jogar Reversi. Uau!
+
+== História ==
+
+O jogo foi criado em [[1883]] pelos ingleses Lewis Waterman e John W. Mollett, ou pelo menos [[Michael Scott|foi isso o que eles disseram]], cada um a seu modo e dizendo que o outro estava mentindo, o que eles bem que poderiam ter resolvido numa partida de reversi, ou sei lá, num [[cara ou coroa]], num [[par ou ímpar]]... enfim.
+
+Por incrível que pareça, existem federações mundiais (World Othello Federation) e brasileiras (Federação Brasileira de Othelo) para realização de torneios dessa porrinha. Cada maluco com suas ideias...
+
+== A estratégia do jogo ==
+
+O jogo é meio parecido com um [[resta-um]] misturado com [[damas]], ou algo do tipo. Um tabuleiro normalmente de 8x8 casas, normalmente verdinhas. Nesse colocam-se inicialmente no centro quatro peças, sendo duas de uma cor e duas de outra, em opostas umas as outras. Daí após decidir anteriormente por sorte quem joga primeiro, a cada peça de uma cor colocada, todas peças que estiverem na horizontal, vertical ou diagonal limitadas pelo disco colocado passam a ficar da cor do disco atual. Ganha quem preencher tudo com sua cor primeiro, ou quem tiver mais com a cor dele.
+
+E é aí que começa a chatice, porque tem que ficar trocando o tempo todo as pedras, as vezes rola uma confusão do cacete no posicionamento delas, enfim, sempre é um saco jogar esse jogo devido esse mexe remexe troca destroca de peças até chegar no final, quando não dá mais pra trocar porra nenhuma.  
+
+== Vídeos ==
+
+A empolgação absurda do [[Steve Ballmer]] para falar que tinha Reversi no [[Windows 1]] em 1986 é tamanha que só se compara a seus gritos de DEVELOPERS DEVELOPERS DEVELOPERS e o desejo dele de nos matar.
+
+<Youtube>EtuDS0ntaJY</Youtube>
+
+{{Jogos de windows}}
+{{Jogo de mesa}}
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos lançados em 1985]]

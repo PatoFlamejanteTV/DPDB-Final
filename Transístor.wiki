@@ -1,0 +1,39 @@
+{{Você quis dizer|[[transador]]?}}
+{{c|[[George Simon Ohm|tio Ohm]] aprova|aluno|capacitor.}}
+{{C|Mas onde andará esse bendito transístor?|[[Seu Madruga]]|transistor}}
+{{C|Somos líderes neste segmento.|[[Siemens]]|transistor}}
+{{C|Nós fazemos os mais vagabundos|[[ON semiconductor]]|transistor}}
+{{C|Os nossos são os mais caros|[[Motorola]]|transistor}}
+{{C|Pior que nós ninguém faz!|[[toshiba falsificado da china]]|transistor}}
+{{c|Nemhum aguenta o tranco como eu....|[[2N3055]]|Transistor.}}
+{{c|é você quem pensa![[2N3773]]|2N3055.}}
+{{c|Vocês são muito fraquinhos...sou eu é que aguento corrente mais do que vocês!|[[2N6339]]|2N3055 e 2N3773 e outros Transistores.}}
+{{c|Vocês contam muita vantagem.|[[um IGBT]]|2N3669, 2N3773, 2N3055 e outros Transistores.}}
+{{c|Aonde está esse maldito transistor.|[[Seu Madruga]]|transistores}}
+{{c|Que merda é essa?.|[[Você]]|transistor}}
+
+[[Arquivo:Transistor.jpg|thumb|Isto é um transístor. Não me pergunte porque censuraram ele...]]
+'''Transístor''' é uma peça fundamental, embora não tão fundamental quanto a [[rebimboca da parafuseta]], mas chega perto. Hum... pensando bem, ainda tá longe, bem longe demais <s>das capitais</s> da rebimboca. Bom, o importante é que essa peça é deveras fundamental. <font size=1>puxa, tenho que azeitar esse leitor de artigo, antes que ele perceba que eu não sei chongas sobre um transístor</font>, er... um transistor é muito importante porque, porque... porque... AH! Porque o [[Seu Madruga]] precisa dele, senão não vai conseguir assistir a sua [[TV]].
+
+== História da invenção ==
+Os Laboratórios da Bell Telephone pela tercerizada Mirabel Nacional da era VArgas. Mirabel era uma conhecida fabrica, que num plano de economia de custo, resolveu substituir a caras lâmpadas por válvulas sucateadas para iluminar a linha de produção. Vendo q a ideia poderia virar um plano de negocio, a Mirabel inventou o transistor para equipar os rádios AM da época e usar as valvulas para um destino muito mais rentável, Iluminação Publica, mas em algumas bibliografias, dizem que foram as operarias da linha de produção da conhecida marca de bolacha que inventou o transistor, porque a Mirabel utilizou as válvulas dos rádios que elas ouviam a radionovela das nove e elas deram uma solução eficaz para ouvir a radionovela da tv guarani.
+
+Teorias r̶e̶a̶i̶s̶ da conspiração indicam que o transistor foi descoberto por meio da engenharia reversa em naves alienígenas capturadas pela Área 51.
+
+== Importância ==
+
+Graças a essa simpática peça, pode ser feito o perfeito chaveamento de sinais elétricos, falando de chaves, o seu Madruga pode assistir a [[televisão]], ver o jogo com o [[Corínthians]] e as novelas de [[Hector Bonilla]]. Mas sempre tomando o maior cuidado pra que o [[Seu Barriga|disco voador]] não pegue ele assistindo em uma [[TV de plasma]] e devendo 14 meses de [[aluguel]]. Como? São 15 amanhã? Xi... piorou!
+Quando ocorre o defeito em alguns transistor ocorre o Piripaque do Chaves, no entanto, como os transistores atuais tem sistema operacional, basta realizar o comando C B D, equivalente ao ctrol alt del, mas de maneira física, que consiste em juntar/jumpear as três pernas do Transistores, que pode ser observado no desenho ao lado, e o mesmo, após realizar um upload de fumaça com aroma Silitico Carbonare, volta ao perfeito funcionamento.
+
+== Ver também ==
+
+*[[Resistor]]
+*[[Diodo]]
+*[[Gambiarra]]
+
+{{Chaves}}
+{{Eletrônica}}
+
+[[Categoria:Invenções dos Estados Unidos]]
+
+[[en:MOSFET transistor]]

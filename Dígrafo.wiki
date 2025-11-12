@@ -1,0 +1,68 @@
+[[Arquivo:Chespiritooo.jpg|thumb|[[Professor Linguiça]] e [[Chespirito]], dois especialistas em dígrafos.]]
+
+'''Dígrafo''' é uma palavra formada por... ah, foda-se, [[Wikipédia]], quem se importa que essa palavra é formada pelos termos gregos "[[NX Zero|Di]]" e "[[Grifo|grafo]]", formando o significado esdrúxulo de <s>dupla escrita</s> '''Emo Mitológico'''. Pode-se usar também a palavra '''[[merda|DISGRAMA]]''' pra definir esse tipo de ocorrência muito comum da nossa língua portuguesa. O dígrafo ocorre quando duas [[letra]]s são usadas para representar um único [[fonema]], ou seja, seria meio um "leve duas por uma". Portanto, não podemos confundir dígrafos com um [[encontro consonantal]], pois além de os dígrafos também poderem ser feitos com a ajuda de [[vogal|vogais]] e não só [[consoante]]s, também os encontros consonantais sempre custam mais caro, pois no caso deles não tem promoção nenhuma, tem que ser duas letras pelo preço de duas mesmo.
+
+== Dígrafos da língua portuguesa ==
+Podemos dividir os dígrafos da [[língua portuguesa]] em dois grupos: os consonantais e os vocálicos. Aqui vamos dividi-los e colocar do lado como [[MOBRAL|a maioria das pessoas do Brasil os usam]]:
+
+=== Dígrafos consonantais ===
+{| border="1" style="border-collapse: collapse;" cellpadding="2"
+|-----
+! Dígrafo
+<th>Exemplos
+|-----
+| '''ch''' || '''X'''uva, [[Xuxa|'''Ch'''u'''ch'''a]]
+|-----
+| '''lh''' || [[alho|á'''i'''o]], [[Milho|mi'''í'''o]]
+|-----
+| '''xs'''|| e'''z'''udar,
+|-----
+| '''nh''' || [[sonho|so'''i'''o]], v'''ê'''um
+|-----
+| '''rr''' (usado unicamente entre vogais)
+| ba'''rrrrr'''o, bi'''rrrrrrr'''a, [[burro|bu'''rrrrrr'''o]]
+|-----
+| '''ss''' (usado unicamente entre vogais)
+| a'''ç'''unto, a'''ç'''ento, i'''ç'''u, '''[[Gunbound|SS]]'''
+|-----
+| '''sc''' || a'''ss'''ensão, de'''c'''endente
+|-----
+| '''sç''' || na'''ç'''o, cre'''ss'''a
+|-----
+| '''xc''' || e'''ss'''eção, e'''ss'''esso
+|-----
+| '''gu''' (quando não pronunciamos o "u") || '''g'''elra, á'''gü'''ia
+|-----
+| '''qu''' (quando não pronunciamos o "u") || '''k'''estão, '''k'''ilo
+|}
+
+O que significa é:
+''gu'' e ''qu'' nem sempre representam dígrafos. Isso ocorre apenas quando, seguidos de ''e'' ou ''i'', representam os fonemas /g/ e /k/: '''gu'''erra, '''qu'''ilo. Nesses casos, a letra ''u'' não corresponde a nenhum fonema. Em algumas palavras, no entanto, o ''u'' representa uma semivogal ou uma vogal (antes de [[2015]], no [[Brasil]], representado pelo [[trema]] no u: ü): a'''gu'''entar¹, lin'''gu'''iça¹, fre'''qu'''ente¹, tran'''qu'''ilo¹, averi'''gú'''e, ar'''gú'''i - o que significa que ''gu'' e ''qu'' não são dígrafos. Também não há dígrafo quando são seguidos de ''a'' ou ''o'': '''qu'''ando, a'''qu'''oso, averi'''gu'''o.
+
+==== Rodapé ====
+¹ No [[Acordo Ortográfico de 1990|Acordo Ortográfico da Língua Portuguesa]], em vigor no Brasil desde [[1 de janeiro]] de [[2009]] (até 2015 as duas formas estão corretas), não mais existirá o [[trema]], mas a pronúncia dos dígrafos ''gu'' e ''qu'' não será alterada. Ou seja, o trema ganhou [[aposentadoria]] na fila do [[INSS]] antes do [[seu pai]]!
+
+=== Dígrafos vocálicos ===
+Quando '''m''' e '''n''' aparecem no final da [[sílaba]].
+
+{| border="1" style="border-collapse: collapse;" cellpadding="2"
+|-----
+! Dígrafo
+<th>Exemplos
+|-----
+| '''am ou an''' || c'''an'''po, s'''am'''gue
+|-----
+| '''em ou en''' || s'''en'''pre, t'''em'''to
+|-----
+| '''im ou in''' || l'''in'''po, t'''im'''gir
+|-----
+| '''om ou on''' || r'''on'''bu, t'''om'''to
+|-----
+| '''um ou un''' || b'''un'''bo, s'''um'''ga
+|} 
+
+== Dígrafos em outras línguas ==
+
+Em outras línguas têm também dígrafos, mas não vou falar muito de nenhuma delas, porque tem um monte e minha criatividade pra piadas pra outras línguas é tão grande quanto as palavras em [[japonês]] que eu conheço. Mas fico imaginando que nesse mundo fala a língua [[Wymysorys]]...
+
+[[Categoria:Ortografia]]

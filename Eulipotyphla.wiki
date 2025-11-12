@@ -1,0 +1,35 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Soricomorpha
+| imagem          = Soricomorpha.jpg
+| imagem_legenda  = O olhar deles é sempre simpático
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| subclasse       = [[Theria]]
+| infraclasse     = [[Placentalia|Placentários]]
+| ordem           = [[Eulipotyphla|Eulipratuatia]]
+}}
+
+'''Eulipotyphla''', antigamente denominado de '''Soricomorpha''' por não incluir os ouriços, é o nome dado a ordem de animais peludinhos, cegos e que vivem no subterrâneo sendo eles geralmente simpáticos e sorridentes (apesar de terem somente quatro dentes - dois em cima e dois embaixo) e alguns ligeiros e corredores, embora tímidos e reservados, reconhecidos pelo estranho hábito de comer lixo, dormir o dia todo, cavar buracos, ficar imundo frequentemente de barro, dormir, cagar, cavar mais buracos.
+
+Por muito tempo fizeram parte da obsoleta ordem dos insectívoros, só porque eles comiam merda sem distinção, mas isso é apenas a vantagem de não serem dotados de papilas gustativas, por isso o que parece nojento para humanos é normal para uma toupeira. Por conviverem com fungos eles foram incluídos na superfamília dos animais morfados, mais especificamente os soricomorfados.
+
+== Anatomia ==
+
+Os soricomorfos são caracterizados anatomicamente sobretudo pelo seu focinho repleto de tentáculos gosmentos ultra-sensíveis que eles ficam chafurdando no barro, na merda ou qualquer outro lugar. Apesar das garras afiadas e os dentões acavalados eles odeiam ser confundidos com o Ronaldinho Gaúcho ou seus primos [[roedores]] os quais são outra ordem distinta.
+
+O olhar de um soricomorfo é geralmente simpático e amistoso, mas embora inicialmente mansos possuem um temperamento explosivo caso sejam contrariados ou expostos à luz do dia.
+
+Variam pouco em tamanho, sendo o maior de sua espécime o [[Solenodon-cubano]] que é do tamanho do órgão genital do [[Kid Bengala]], enquanto o [[musaranho-pigmeu]] considerado o menor mamífero do mundo tem o tamanho de um amendoim japonês murcho.
+
+== Famílias ==
+
+* '''[[Soricidae]]''' - musaranhos
+* '''[[Solenodontidae]]''' - solenodontes
+* '''[[Talpidae]]''' - toupeiras
+* '''[[Erinaceidae]]''' - ouriços e porcos-espinhos
+
+[[Categoria:Placentalia]]
+[[Categoria:Eulipotyphla|*]]

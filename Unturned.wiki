@@ -1,0 +1,208 @@
+{{game}}
+{{trevas}}
+
+{{Infobox Game|title = Unturned
+|image = Unturned.jpg
+|caption = Mais um joguinho de zumbi
+|developer = Nelson <s>[[Sexo]]</s>Sexton
+|publisher = <s>Vapor</s> [[Steam]]
+|released = [[2014]] d.c
+|genre = [[Survival Horror]] - [[Pós-apocalíptico]] - [[Zumbi]] - [[Mundo Aberto]]
+|rating = 9/18, <s> mesmo tendo vários jogos de zumbi por aí, ao menos esse é de graça</s>
+|platform = [[PC]] <s>como todo o indie</s>
+|ages = +18 (têm muita violência contra zumbi)
+}}
+
+{{vqd|[[Minecraft]] com armas, veículos e zumbis?}}
+{{vqd|DayZ quadrado?}}
+{{traduzindo|sobre pedra}}
+{{C|Na união soviética, os zumbis fogem de VOCÊ!!|Reversal Russa|Unturned}}
+{{C|Cadê o filho da puta??|[[Você]] antes de ser morto no multiplayer|Unturned}}
+{{C|Caralho achei uma Timberwolf porra!!!!|Você quando acha uma sniper, antes de usar ela e descobrir que ela faz um barulho do caralho}}
+{{C|[[A]][[A]][[A]][[A]][[A]][[A]][[A]]|Você sendo comido (em todos os sentidos) por um monte de zumbis, após o acontecimento acima}}
+{{C|Fiz todos os achievements do Steam em 0,00001 milissegundos, além de ter todas os itens e veículos que existem no jogo|[[AAA]]|Unturned}}
+
+'''''Unturned''''' é um jogo de Survival Horror criado por Nelson <s>[[Sexo]]</s>Sexton, um adolescente de 16 anos desocupado, onde basicamente sua missão é :Sobreviver a um apocalipse zumbi, [[Ironia|Original, não?]]
+Ninguém sabe o porque ou o qual motivo de você está ali, sendo que no menu principal você está em um celeiro tranquilo e fortificado cheio de mantimentos (pelo menos o suficiente para sobreviver 3 semanas) e com bastante armamento ( que inclui uma [[ironia|maravilhosa]] Ace (Colt Python) e um machado de bombeiro).
+
+=Introdução(Ui)=
+[[Arquivo:Perso_Unturned.png|right|thumb|100px|Esse é você no Unturned.]]
+O Jogo começa com você pelado, provavelmente em um lugar longe de uma cidade, a sua missão é, basicamente, sobreviver (pois se não fosse isso, nem seria considerado um survival horror) e para isso você precisa de alimentos, armamento e roupas (pois sem roupas não têm como pegar muita coisa não), e para achar isso você precisa ir para áreas que já foram povoadas, pois agora só sobrou uma caralhada de zumbis famintos.
+
+=História=
+[[Arquivo:Scorpion-7_Unturned.png|left|thumb|200px|O Lugar onde tudo começou]]
+Como todo jogo de apocalipse zumbi que se preze, a causa de toda a merda que ocorreu é por causa de uns "cientistas" que decidiram fazer um agente patogênico capaz de transformar pessoas em zumbis (precisam trocar a fita, todo o jogo que envolve apocalipse zumbi têm algum tipo de vírus criado artificialmente que transforma tudo em zumbi), acabou que uma cobaia-zumbi decidiu "[[fugir|dar um passeio]]", quebrando o seu "tubo" (não me pergunte como, devem ter usado vidro do [[Paraguai]] para fazer esses tubos, só pode) e acabou que por gerando um apocalipse, sendo que só você sobrou de sobrevivente
+
+=Zumbis=
+Em um jogo de zumbi não pode faltar vários tipos de zumbis têm desde os mais rápidos (e fracos) até os mais lerdos (e mais desgraçados) confira uma lista desses seres "amigáveis e dóceis"
+
+==Normal==
+Esse é o zumbi normal, mais ou menos lerdo e mais ou menos resistente, eles aparecem em qualquer lugar e em qualquer dificuldade que você colocar, ou seja, se você for viadinho o suficiente de colocar no easy, ainda vai ter que enfrentar essas pragas, que avançam em montes para cima de você, a vida dessa porra varia do tipo de roupa, e do clima em que ele está, mas normalmente duas facadas na cabeça basta.
+
+==''Sprinter''==
+Esse é o zumbi [[Sonic]] que anda de quatro que nem uma cadela, o por ser o mais rápido é o mais fraco também, está ali só para encher o saco, mas relaxa que esse zumbi só aparece no Medium em diante, ou seja, se você for o mesmo viadinho que citei antes não poderá encontrar essa raridade da natureza, a vida desse zumbi varia igualmente a do normal e a do ''Crawler'' a única diferença é que ele não têm tanta vida quanto o normal, logo uma facada na cabeça basta para matar esse infeliz
+
+==''Crawler''==
+É nesse zumbi que a porra fica séria, apesar de ser tão rápido quanto uma lesma, quando ele te notar é melhor [[correr para caralho]], pois você não vai querer enfrentar esse filho do satanás, pois é quase impossível acertar ele de perto, e não adianta usar arma pois esse desgraçado têm uma vida que parece ser [[infinita]], além dele te perseguir até o [[inferno]], e quando ele te alcança, ele não terá dó não, só um ataque desse [[filho da puta]] é capaz de te deixar sangrando, o que não é uma coisa muito boa, pois a sua vida vai se esvaziando aos poucos ( aos poucos o caralho, em dez segundos você já tá com 10 de vida restando ), e como disse antes, ele têm uma puta de uma resistência, esse desgraçado precisa de uns 3 ou 4 tiros de [[sniper]] para morrer, e você deve estar pensando "[[mentira|ah, para ser tão difícil de matar ele, ele deve dar alguma coisa decente]]" e não, ele não dá nada de interessante, apenas o drop comum de qualquer zumbi, como ele aparece apenas no Medium em diante, [[você]] não vai precisar se preocupar com ele
+
+==Mega Zombie==
+[[Arquivo:Mega_Zombie_Full_Moon.jpg|left|thumb|150px|5 letras uma palavra e um sentimento: FUDEU!!!]]
+
+O Mega Zombie não passa de um zumbi com anabolizantes até a alma. ele sempre spawna perto de uma área militar, o que não é algo muito legal, pois vai ter uma caralhada de zumbis militares (DUH), pelo menos ele dropa 5 itens de classe militar, o que é bastante se levar em conta o fato de item militar se raro para cacete, se bem que essa desgraça spawna raramente
+
+==Zombie Boss==
+Esses zombies simplesmente são os [[Chefão|Chefões]], existe 3 tipos desses [[desgraça]]dos, provavelmente você vai morrer [[666]] vezes até conseguir tirar 1% da vida desses [[viados]], mas por sorte  eles só existem no mapa Russia, Você só vai tentar a sorte de matar algum desses caso decida fazer a quest de alguns <s>desocupados</s> sobreviventes no Liberator
+Aqui vai uma listinha de cada um dos 3 bosses.
+
+'''Groundpouder'''
+Esse é aquele [[filho da puta]] que só tem ataque em área, além do usual corpo a corpo, mas nada tão complicado, a quest referente a ele se chama ''Aftershock'' e é dado por um maluco chamado Peter, dá [[spawn]] em Yekativurg (o nome complicado, não pera, estamos falando de um mapa chamado Russia, lógico que vai ter um nome bizarro)
+
+'''Flamethrower'''
+Esse [[porra]], como o próprio nome diz, coloca [[fogo]] em qualquer infeliz que cruzar o seu caminho, basicamente seus ataques consiste em: Ataques corpo a corpo, usar a [[técnica milenar]] do [[bafo de pimenta]], e gritar [[Estado Islâmico|''allahu akbar'']] quando está prestes a morrer. A quest desse boss é "Scorched Earth" e recebe de um carinha chamado Norbert, dá [[spawn]] em Novobirsk
+
+'''Lightningstrike'''
+Esse é um bem chatinho, além dos habituais ataques zumbisticos, o principal ataque dele é uma catarrada elétrica que fica te seguindo até a [[casa do caralho]] que só pode ser parado por alguma estrutura do mapa, a missão dele se chama "Spark", é dada pelo Ensign Cliff, dá [[spawn]] em Jhavesk
+
+==Lua Cheia==
+[[Arquivo:full_Moon_Unturned.jpg|right|thumb|O Terror de qualquer jogador]]
+A lua cheia afeta os zumbis de uma maneira peculiar, eles ficam mais fortes, mais rápidos, eles podem fazer você sangrar, além de quebrarem seus ossos( o que impede você de correr e conseguir fugir deles) e ficam com os olhos vermelhos, [[sharingan|prevendo todos os seus movimentos]],além de ficarem surgindo zumbis a cada 3 segundos, a única coisa que você pode fazer é ficar deitado e chorando baixinho para que os zumbis não te notem, e para saber que você está numa lua cheia aparece lá no canto esquerdo inferior um par de olhos vermelhos brilhantes, em momentos como esse que não deve ser muito legal encontrar o mega zombie
+
+
+=Armas=
+Como todo o jogo de zumbis que existe, sempre vai ter armas, pois é melhor usar uma arma que descer o cacete em um zumbi com as mãos nuas <s> Apesar de ser perfeitamente possível</s>.
+As armas são divididas em classes e em tipos <s>Tal como qualquer outro item que tem nesse jogo</s>
+
+==Militar==
+São as que encontram em lugares militares, normalmente são as com mais dano, apesar da durabilidade ser uma [[bosta]]
+
+===Snipers===
+As Snipers militares são as melhores que existem, o dano base de qualquer uma [[é de mais de 8000]], entre as snipers, se encontram a TimberWolf (adorada pelos jogadores), a Grizzly e a Sabertooth ( Apesar de estar escrito na descrição que é uma sharpshooter, todo mundo usa como sniper) e a lista vai aumentando a cada infinita atualização.
+
+===Rifle de Assalto===
+Os Rifles de assalto são as armas mais presentes e mais apelonas, entre esses itens do demônio, temos a Maplestrike, a Eaglefire, a Heartbreaker
+
+Começando pela Maplestrike, ela aceita todo tipo de anexo, além de ter uma boa cadência de tiros e dá um dano considerável em zumbis e humanos, só que ocupa uma quantidade considerável de espaço no inventário, te evitando de pegar itens que serão mais úteis no futuro, além de ter um recuo vertical infeliz (mas isso nem é um problema, já que é só achar algo para pegar)
+
+Continuando para a Eaglefire, é quase a mesma coisa que a maplestrike (dá até para dizer que a maplestrike é uma versão piorada da Eaglefie) a única diferença é que de vantagem, têm o burst-Fire mode, um recuo quase inexistente, de desvantagem têm o próprio burst-fire mode que limita mais o poder de fogo
+
+E por último a Heartbreaker <s>a arma [[emo]]</s> Têm um dano alto, Recuo pequeno e controlável,  uma desvantagem que também é uma vantagem, a baixa cadência de tiros, dá para conservar bem mais munição assim (apesar de ser uma merda num x1), e é o rifle de assalto mais frágil que têm.
+
+===Carabinas===
+De Carabinas temos A HoneyBadger, a Viper, a Peacemaker (nome irônico para um negócio que te metralha até a alma, não?)
+
+===Pistolinhas===
+em classe militar, não têm muita pistolinha ( até porque seria perda de tempo produzir vários tipos de pistolinhas de classe militar, que merece algo melhor) mas entre elas temos a [[Desert Eagle|Desert Falcon]], aquele mini canhão que em um tiro estoura a cabeça da vítima e arranca o teu braço e a Avenger que é mais apelona que a Desert Falcon que apesar do nome, não faz parte dos [[vingadores|Avengers]].
+
+===Machine Gun===
+Por algum motivo desconhecido, têm apenas uma machine gun que se chama Dragonfang, que é bem bosta, diga-se de passagem, pois um tiro daquela porra leva a câmera para o canto superior da tela e nem dá tanto dano como se pensa, até as mãos é mais útil que isso, sem contar a caixa de munição, que é rara pra caralho
+
+==Milícia==
+As Armas de classe milicia são, nada mais nada menos, que armas [[contrabando|contrabandeadas]] da [[Russia|Mother Russia]], não tem um dano base alto, mas duram até o fim dos tempos, o que é algo bom em Servers de PvE ( já que [[você]] é [[viado|viadinho]] a ponto de jogar no modo de PvE), e a cor base delas é o laranja e preto
+
+===Snipers===
+De snipers de contrabando e de [[Paraguai|origem duvidosa]], temos a Snayperskya e a Ekho. A Snayperskya têm o mesmo problema da Sabertooth, era para ser uma sharpshooter mas é usada como sniper <s>e qual a diferença entre os dois?</s> 
+
+Agora a Ekho (o nome mais parece marca que [[funkeiro]] pirateia e se acha) por ser uma sniper ([[Homer Simpson|DOH]]), têm várias qualidades, têm um dano ótimo, recuo controlável, boa precisão, e aguenta 7 balas (não parece muito, mas para uma sniper, é bastante), só que têm a mesma durabilidade de papel higiênico vagabundo molhado, é uma merda em cadência de tiros, por ser o que chamam de bolt-action, precisa sair da mira para poder preparar a arma para fazer um novo disparo o que é uma merda se estiver caçando algo que se movimenta rapidamente, além de ser uma desgraça de difícil achar munição para essa porra
+
+===Rifle de Assalto===
+Agora contrabandearam uma quantidade maior de rifles, entre elas a manjada [[AK-47]], que aqui recebe o nome carinhoso de Zubeknakov, pelo menos a Zubeknakov é a arma mais durável DO JOGO INTEIRO! Ou seja, você pode matar vários zumbis, matar vários mega zombies, matar os seus amiguinhos e ela vai estar ali, inteirinha nas suas mãos, pronto para metralhar algum [[infeliz]] qualquer que aparecer na sua frente, claro se tiver munição, que é rara pra porra.
+
+Temos também a Augewehr, que dá um bom dano em zumbis e jogadores, além de já vir com algumas coisinhas a mais, como a própria mira de zoom (mas que é bem podre, diga-se de passagem mas dá para trocar e colocar essa desgraça em algo que você usa menos), além de ter um bom alcance, mas por outro lado, têm uma cadência de tiro que é uma bela porcaria, além de ser tão rara quanto a lendária zubeknakov, o que não vale o esforço de caçar ela.
+
+
+Já a Matamorez é o rifle de assalto oficial de [[apelândia]] pois essa porra já vem silenciada, isso mesmo, se [[você]] estiver em algum lugar e levar um tiro mas não saber de onde caralhos veio o tiro (pois é surdo) desconfie que alguém está com uma Matamorez ou uma HoneyBadger perto de você (ou quem sabe os dois, do jeito que esse povo é [[Apelão]]), aparentemente deixou de ser uma sniper e virou um rifle de assalto, mas mesmo assim não deixa de ser apelão, apesar de não atender a qualidade de cadência de tiro de qualquer outro rifle de assalto (talvez por que o seu propósito era o de ser uma sniper ao invés de rifle?)
+
+Agora a Fusilaut, é uma arma também bastante conhecida de [[Apelândia]], já que possui a condição Safety (segurança, algo que qualquer arma têm, que se baseia em não atirar) Semi (quase todas as armas têm esse modo, visando que algumas são manuais) e o modo Burst-Fire, que é bastante conhecida por ser estouradora de [[crânios]] (algo que algumas armas têm, que consiste em disparar mais que uma bala por tiro, mais ou menos 3 ou 4 balas por tiro), relativamente durável, têm uma munição menos rara que as de cima, além de ter uma boa cadência de tiros, mas apesar do nome indicar que era para fuzilar algo, não têm o modo automático.
+
+A Nightraider é uma das preferidas pelos noobs, já que têm um recuo baixo, uma ótima cadência de tiro, um dano bom em qualquer ser vivo, morto ou morto-vivo, aceita qualquer tipo de anexo, o único problema está na munição, que pode ser rara dependendo do mapa, e talvez seja um pouco rara, mas não impossível de achar como algumas por ai.
+
+===Carabinas===
+Tal como as armas militares, o contrabando também faturava com carabinas, e não são poucas, é coisa pra caralho
+
+Começaremos pela "Yuri" (não esse tipo de [[Yuri]] tarado!) Bem essa carabina em questão spama quase tanto quanto [[Zubat]] no [[Pokemon GO]] e em [[caverna]]s, ela têm bastante munição (64 balas numa carabina que já vem silenciada é quase um roubo!) e é bem compacta, tanto que se não fosse por essa arma 99% dos [[jogador]]es morreriam na primeira noite, seja tanto no multiplayer quanto no singleplayer, as deficiências dela é que têm um recuo fodido além de ter tanta durabilidade quanto [[cristal]]
+
+Continuamos com a "Bulldog" ( não esse [[Bulldog]]) diferente da carabina acima, essa é '''bem''' mais rara, contudo, ela têm uma cadência de tiros ala [[Sonic]], ser compacta e comporta bastante balas o pente dela (claro, não tanto quanto a Yuri acima, mas ainda assim 45 balas por pente não é de se desprezar), os problemas além da raridade dela, é que o pente dela é quase tão rara quanto a arma em si, além de ter um dano fodido de ruim
+
+Agora por último temos a "Calling Card" (Chamando Carta, em uma tradução literal) é estilo aquelas armas que mafiosos usam, Têm uma quantidade impressionante de balas por tambor (71 balas é coisa pra caralho), Não têm tanto recuo Vertical, consegue usar mira e tático (aquela lanterna e aquele laser que te deixa cego quando ligada, sabe), impressionantemente precisa, mas por contra-partida o recuo horizontal é um problema simplesmente impossível de evitar, já que não dá para colocar algo para [[penis|pegar]] nela.
+
+===Pistolinhas===
+Já Aqui estiveram com preguiça de contrabandear mais tipos de pistolinhas, e decidiram que é melhor contrabandear apenas duas pistolinha, a Kryzkarek, que apesar de ter uma durabilidade boa, não presta para matar pessoas, ou seja, a menos que seja bom ou que tenha uma arma decente com você, nem pense em usar essa merda no PvP, deixe ela para os zumbis que você encontrar.
+
+E a Teklowvka que é uma pistolinha um pouco mais elaborada visualmente, só que têm incríveis 15 balas por cartucho, algo que é vergonhoso, já que até uma pistola de classe civil (que é o resto dos restos das armas desse jogo) têm mais balas por cartucho
+
+===Machine Gun===
+De Machine Gun que têm aqui, nós temos agora a Nykorev, o bom nela é que têm uma cadência de tiros alta e aceita qualquer tipo de anexo (para deixar ela menos ruim), mas em compensação é alta para caralho, têm o mesmo problema da Dragonfang quanto ao recuo e precisão, e pega muito espaço no inventário.
+
+E a nossa saudosa, [[Minigun]], que aqui é apelida carinhosamente de Hell's Fury (Fúria do [[Inferno]], na tradução literal) essa arma é aquela que todo mundo sente [[medo]], [[terror]], [[desespero]], [[inveja]] e [[tesão]] só de ouvir falar
+
+===Shotgun===
+Dessa vez decidiram contrabandear mais coisas, no caso um carregamento de shotguns, os contrabandistas acharam que ia ter os mais variados tipos de shotguns, mas quando chegou para eles, descobriram que só tinha um tipo de shotgun, que chamam de Vonya, putos da vida decidiram trocar de mercadores, mas queriam manter as shotguns, já que consegue a façanha de ser automática, ter boa durabilidade, ter bastante munição, e principalmente, porque era sem devolução, mas infelizmente, é muito fraca, até uma [[biribinha]] causa mais dano que aquilo, e têm um péssimo alcance
+
+===Rocket Launcher===
+Sentiu saudades de algo que atire foguetes por ai para causar o mesmo caos que causava no [[Grand Theft Auto: San Andreas|GTA:San Andreas]]? Raramente um jogo de sobrevivência de zumbis te fornece uma [[bazuca]] para bazucar os zumbis, aqui nesse jogo a Rocket Launcher é simplesmente apelona, apesar dos foguetes irem tão rápido quanto uma lesma, o estrago que eles fazem é imenso, chega a valer a pena caçar essa arma tão famigerada num server de PvP apenas para explodir os players noobs.
+
+==Civil==
+Chegamos agora nas armas de classe <s>[[bosta]]</s> civil ou seja, várias pistolinhas e nada que realmente seja interessante, mas que quebram o galho no momento de maior necessidade ( no caso nos momentos que você está sendo caçado por zumbis, animais hostis que te caçam até o [[inferno]] ou [[jogador|players]] psicopatas que andam por ai como uma faquinha de cozinha pelados), além das que vão ser listadas abaixo, têm também a pistola de pregos e arma de paintball, mas não vale o esforço de aparecerem aqui
+
+===Rifles===
+Sim a classe civil conta com 3 rifles ( uma que te deixa surdo com o barulho do tiro, outra que têm precisão milimétrica e uma que é um [[recolor]] da primeira que mencionei) mas nenhuma que seja realmente uma sniper, <s>mesmo tendo maneiras de usar como se fosse snipers, mas afinal, têm como usar qualquer arma menos as machines guns como sniper </s> os nomes dessas [[ironia|maravilhas de deus]]:
+Sportshot ( a com precisão milimétrica), a Hawkhound ( a que te deixa surdo) e a Schofield ( recolor da Hawkhound)
+
+===Carabina===
+A Classe civil também conta com uma carabina, que se chama Viper, ela é usada pelos cidadãos de [[Apelândia]], ela é facilmente encontrada no mapa de washington ( que na verdade é um espaço isolado de apelândia) têm uma cadência ótima de tiros, têm quase nada de recuo, usa munição de pobre e aceita qualquer tipo de anexo, os únicos problemas é que é rara nos outros mapas e a munição é praticamente drenada da arma
+
+===Pistolinhas===
+Claro, o que mais têm na classe civil é as pistolinhas, mas quase nenhuma presta, com elas temos a Colt, a Ace e a Cobra, a Ace pode ter até 6 balas por clipe e a Colt possui apenas 7 balas por pente o que não é muita coisa comparada aos 20 FUCKING balas que a Cobra têm por pente ou as ''' 40 FUCKINGS BALAS QUE TÊM A CAIXA DE MUNIÇÃO DA COBRA CARALHO!!!!''' ou seja se for pegar uma arma de classe civil procure uma que é verde com a parte de cima preta ( esqueci o nome dessa porra) e pega ela porque AQUELA PORRA É UMA COBRA CARALHO!!
+
+===Shotguns===
+Um jogo em que o tem um apocalipse zumbi, não podia faltar as Shotguns, mas aqui só têm duas que uma é a famosa [[Escopeta|12]] que aqui leva o lindo nome de Bluntforce, que significa, segundo o google tradutor, Força bruta ( dá para saber muito bem o porquê desse nome) que é [[one-hit-kill]] de perto, mas de longe não presta nem para tirar 1 de dano, uma bela vantagem dela é que os "estilhaços" dela acerta vários alvos, a outra Shotgun se chama Masterkey, diferente da Bluntforce que consegue colocar 8 caruchos de uma vez, como se fosse um pente <s>para que lógica?</s>, a Masterkey só aguenta 2 de uma vez, mas têm a vantagem de ser a arma que mais dá para fazer gambiarras, seja serrando os canos para melhorar o dano que já é absurdo (de perto porque de longe fode mais ainda), ou fazer com que vire uma arma semi-automática, aguentando até 12 tiros de pura morte (de novo, de perto) sendo que os 8 primeiros disparos dá para fazer tão rápido quanto o [[Flash]] 
+
+===Arcos===
+Um jogo de sobrevivência não seria um jogo de sobrevivência sem arcos, aqui temos cerca de 5 arcos, sendo que 3 deles têm como fazer, os quais vou falar nas armas caseiras lá embaixo, sobrando apenas 2 que têm como achar, um desses 2 que só é possível ter se você conseguir achar ele ou se usar os [[cheat]]s marotos é o Arco composto, o qual têm como colocar apenas uma mira e uma luzinha ou um laser, e precisa mirar para usar ele, ou seja, se você acha que viu algo lá nos matinhos mas não tinha nada, é só parar de segurar o botão direito do mouse ao invés de soltar a flecha e desperdiçar ela, pois não têm como recuperar a flecha se você atirar para o chão, e o outro " arco" é a manjada [[Crossbow]], que têm como colocar a luzinha ou o laser, alguma mira e algo para você [[pênis|pegar]], que é só colocar a flecha e atirar, não precisa mirar para atirar a flecha, apesar de ser melhor mirar, mas se você se considera [[fodão]] o bastante para atirar sem a mira, tente e falhe miseravelmente.
+
+==Caseiras==
+As armas caseiras, ou são alguma gambiarra nas armas originais, ou são armas [[capitão sarcasmo|Novissimas e originais]], essas armas são, basicamente, frutos das gambiarras mais satânicas que se pode fazer, seja um troço todo remendado, ou armas que até [[MacGyver]] teria inveja, segue alguns exemplos
+
+===Arcos===
+E vamos começar a falar dos arcos, é apenas um arco, mas dá para fazer até 3 versões diferentes, a de <s>caralho</s>Carvalho, Eucalipto, e Pinheiro, a durabilidade segue da mais clara até a mais escura sendo a mais clara a mais bosta, e a mais escura a mais foda, são feitas de incríveis 3 gravetinhos e corda de qualidade duvidosa, e sua munição, obviamente são flechas, e o melhor, dá para ser de qualquer material a flecha, seja um graveto com um prego colado no topo, até aquelas flechas fodonas que quebram até um muro de tijolos em dois, sem perder durabilidade e e eficiência
+
+===Rifles===
+Já é algo mais elaborado, uma arma de fogo com certeza deve ser melhor que uma arma mecânica, mas têm um pequeno detalhe, sabe, minúsculo, CADÊ A PORRA DA PÓLVORA PARA FAZER ESSE TRAMBOLHO FUNCIONAR? Sério, o rifle funciona perfeitamente sem pólvora, mas tirando esse detalhe, têm até como colocar um silenciador feito de latas e [[esparadrapo]] que além de ser baratinho, ainda aumenta a precisão, diminui pra caralho o barulho, além de esconder qualquer vestígio de [[fumaça]], além de uma mira telescópica insana, feito de apenas um binóculos que tu acha largado e todo fodido no meio da rua e mais [[esparadrapo]], sua munição obviamente também é fabricável, só precisa de uns pedaços de [[sucata]], e ganham, misteriosamente, a cor amarela
+
+==Shadowstalker==
+{{C|Tenho medo|Regina Duarte|Shadowstalker}}
+Essa arma é tão foda, que qualquer jogador têm como foco, conseguir essa arma no jogo, seja para [[Zoeira|zuar]], seja para [[matar]] os amiguinhos no multiplayer, são várias as motivações, muitos usam de modos ilícitos para conseguir ela, mas têm aqueles que vão até o único lugar do mundo que pode ter uma chance de existir ela, a Scorpion-7, tendo em vista que essa arma é tão [[Cheats|cheatada]] ela é a coisa mais rara de conseguir no jogo, ela é praticamente [[One-Hit KO|OHK]] até se passar de raspão pela unha, não importa o quão foda tu estiver no jogo, se aparecer alguém com ela, tu tá fodido ao cubo, ela já vem com uma mira telescópica nela, um tiro dela dá umas 10 voltas na terra em menos de 3 milissegundos, só para caso acerta alguma pobre alma no caminho, dizem que 5 disparos dados no mesmo ponto, ao mesmo tempo estraçalha o tecido do universo e te leva para algum portal até o [[Acre]]
+
+===Shadowstalker MK.II===
+{{C|Que história é essa de MK.II?|Tony Stark|Shadowstalker MK.II}}
+É praticamente uma versão 2.0 da Shadowstalker original, você não escolhe ela é ela que te escolhe, então não adianta caçar essa arma nas Scorpion-7 ou perto de [[Objeto voador não identificado|OVNIs]], você precisa fazer uma quest com um [[puzzle]] fodido para conseguir esse rasgador de bundas aprimorado, e detalhe, apenas em um mapa dá para possuir legalmente essa arma, que é no mapa [[Russia]], essa gracinha vêm com um dano insano em qualquer ser existente e inexistente, diferente da shadowstalker normal, essa não têm nenhum tipo de recuo, não se desgasta, os problemas é que precisa fazer a quest infeliz que toma um tempo desgraçado, não têm como colocar munição nova, e faz um barulho que é praticamente um sino dizendo "A Comida está servida!!" para os zumbis
+
+==[[Armas Brancas]]==
+As Armas brancas são as coisas mais presentes nesse jogo, é vasto pra caralho as opções, vai desde uma [[Facas Ginsu|faquinha de cozinha com um fio de corte infinito]] até um machado de bombeiro que rasga cabeças e corta crânios, não têm muito o que falar, em sua vasta possibilidade temos [[canivete]]s, faquinhas, facões, machete do [[Jason Voorhees]], facas de guerra, facas de [[Viado|viadinhos]] que ficam se achando só porque sabe fazer gracinhas com a mesma,[[Machado]]s, [[Katana]]s e por ai vai, elas são usadas para cortar zumbis ([[ou não...]]) cortar players que são idiotas o suficiente de deixar a [[bunda|reta-guarda]] exposta para qualquer um, fazer seus amiguinhos morrer de <s>[[menstruação]]</s> Hemorragia e cortar qualquer coisa, desde árvores até postes de luz (se bem que dá pra brincar de [[Minecraft]] e quebrar qualquer coisa apenas com os [[soco|punhos]], mas ajuda bastante caso precise agilizar o processo de destruição)
+
+=Mapas=
+==PEI==
+O primeiro mapa do jogo desde o lançamento oficial dele, por isso que é idolatrado pelos fãs mais antigos do jogo, é de tamanho médio, têm algumas coisinhas que dá para fazer, mas só serve para adaptar-se depois que se adaptou um pouco ao jogo, entre os incríveis pontos turísticos temos:
+Uma base [[militar]], uma ponte destruída com zumbis em vários locais além de uma barraquinha militar e outra médica logo na frente dela, um [[farol]] com zumbis entorno e um dentro dele, um Bunker jogado numas das ilhas por ali com zumbis tanto fora quanto dentro, 4 fazendinhas [[Mentira|felizes]] com mais zumbis, 4 cidades infestadas de zumbis (que na verdade, estão mais para vilas), 2 lugares onde pode fazer um acampamento básico e também lotada de zumbis, uma prisão em uma das ilhas, a cova do pirata, de onde pode sair um [[Five Nights at Freddy's|Raposo robótico encapetado]] querendo comer o seu rabo, um aeroporto, um porto normal na maior cidade, um helicóptero derrubado numa outra cidade e muitas, mas MUITAS mesmo, praias jogadas.
+Esse é o mapa com mais versões alternativas, têm com a temática de Halloweeen, Arena e Festiva
+==[[Russia]]==
+O Mapa mais foda do jogo, ele é grande pra caralho, têm altas coisas para fazer aqui, e aqui é onde tu arranja as melhores paradas do jogo como a Shadowstalker MK. II mencionada mais acima, e onde têm [[quest]]s que alguns vagabundos no Liberator te dão porque eles não têm a capacidade de fazer por eles mesmo, seja pelo [[Medo|medinho]] dos morto-vivos que qualquer um pode enfrentar na [[luta|trocação]] com as mãos peladas, ou por pura preguiça mesmo, os pontos turísticos daqui são:
+O Liberator, onde tu pode pegar as [[quest]]s mais chatas ou insanas possíveis, que vão desde aquele clichê em que coloca um negócio dentro do bolo e dá para o prisioneiro fazer a sua grande fuga até em que você sai na sua jornada para pegar a [[Foda|fodônica]] Shadowstalker MK.II, o Silo 22 onde se entrar (quer dizer, se é que vai conseguir entrar) sem uma roupa anti-radioatividade, tu vai tomar forte no cu, já que é uma zona morta e é lá que tu vai ter que entrar para completar a [[quest]] "The Conspiracy's Conclusion" (algo como Conclusão da Conspiração em uma tradução direta), a base militar Volk, e mais alguns lugares sem grande importância como cidades, Fazendas e etc...
+==[[Washington]]==
+O mapa baseado na cidade de Washington (duh),com uma pista de corrida caso você queira bancar o Ayrton Cena da vida, uma área de construção perto de um OVNI (provavelmente abatido pelos teco tecos americanos),Uma base militar cheia de zum...Digo,pessoas amigáveis que totalmente não são zumbis querendo o seu corpo nu, dois acampamentos ao estilo sexta feira 13,uma cidade grande ao ponto de ser a arena mortal no multiplayer onde você encontra todos os zumbis do jogo em um aglomerado pronto para fazer uma ceia de natal com o prato principal:você,mais duas cidades menores que ninguém liga, só para pegar loot, um campo de golfe para você jogar golfe, afinal durante o apocalipse nada melhor do que jogar um golfe né? Duas pontes que cruzam os dois lados que se dividem por um rio cheio de merda, o local onde tudo deu merda, a famosa Scorpion-7,onde o amanhã que eles prometeram tem cheiro de cérebro e mentiras, três fazendas que não servem pra nada alem de serem foco do mosquito da...Digo,zumbis.Dois lugares com containers, lugares para pouso de helicóptero e outras coisas. Três possíveis ''saídas da cidade'' que na verdade estão bloqueadas e cheias de zumbis militares que por acaso desistiram de tentar sair dali e se mataram, e voltaram. Três ilhas sendo que uma delas é em um lago. Sendo um mapa bem menos bosta que o PEI.
+
+==[[Canada]]==
+Após os sucessos de PEI e Yukon, os desenvolvedores resolveram juntar tudo isso e [[Narrador da sessão da tarde|muito mais nesta aventura da pesada com esses zumbis durões que vão fazer a vida desses players uma LOUCURA]],onde você ira encontrar coisas como:Vancouver a única cidade do canada que eu conhecia o nome e você provavelmente também.[[Ontario|Você]],a cidade que define os criadores e jogadores do jogo. N&L,a cidade que copiou o M&M's,C&A <s>De pegasus</s> e Etc. Quebec, uma cidade que tem o nome que os jogadores de [[Garry's Mod|Gay Mod]] e seus mods Murder acharam o nome uma [[Referencia|UUUUUHH OLHA UMA REFERENCIA CAPITAUM AMERICA!!!]].[[Sua irmã|Alberta]] o nome baseado em uma [[Puta|mulher de bom coração]] que totalmente não faz parte da sua família. Alem de outras cidades pouco importantes exceto [[Cu|Manitoba]] do ingles ''muitos Tobas''.Não há muito oque falar deste mapa já que ninguém liga para esse já que o da russia é bem melhor que todos <s>os mapas lixos</s> os mapas que não são tão bons assim, são uns [[Goku|Fracaçados]].
+
+==Yukon==
+Mapa chato onde [[você]] morre congelado em 5 minutos se não colocar todas as roupas, outro mapa que você se fode e morre sem dó nem piedade e que só tem zumbi apelão.
+ Resumindo se voçe não for um PRO não joge nesse mapa.
+
+
+{{Survival}}
+
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos para Xbox Series X]]
+[[Categoria:Jogos lançados em 2017]]

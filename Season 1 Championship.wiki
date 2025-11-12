@@ -1,0 +1,135 @@
+{{vqd|Copa Rio de 1951}}
+{{C|Europeus burros, isso daí não é um mundial!|Americano|Worlds 2011}}
+{{C|Isso não é um mundial, não estávamos nele.|Coreano|Worlds 2011}}
+{{C|Nem nós!|Chinês|citação acima}}
+
+A '''Riot Season 1 Champioship''' (que na verdade nem da [[Rito Gomes]] era e sim uma Dreamhack) é considerado primeiro mundial, realizado na [[1900 e guaraná com rolha|época dos dinossauros]], onde o [[The International|Mundial de Dota]] era mais reconhecido do que o próprio de LoL, no qual a [[Riot Games|Rito Gomes]] com inveja, resolveu fazer um próprio mundial com parceria de empresas terceirizadas para competir com o jogo rival, no qual acabou um verdadeiro fracasso, com a expulsão dos times coreanos e chineses, que no momento estavam [[cagando e andando]] para esse jogo.
+
+O torneio foi feito no porão da casa de algum jogador sueco (e com torcida), além de regras que eram diferentes das edições mais novas do Mundial, com o sistema de dupla eliminação e a regra da vitória grátis para times bem colocados, que foi abolida rapidamente, um dos motivos para esse torneio fuleiro seja comparado a um torneio de várzea.
+==Controvérsias==
+O primeiro mundial de League of Legends é uma edição que costuma ser muito controversa, sendo mais aceito como canônico por europeus e fãs da Fnatic, enquanto a edição não é considerada canônica entre os americanos, coreanos, chineses e fãs da [[G2 Esports|G2]] que dizem que o [[Mid-Season Invitational 2019|MSI de 2019]] tinha mais a cara de um mundial do que essa edição de baixo orçamento, e por causa dessa competição que não é muito lembrada, quase nunca falam dela nos vídeos dos campeões.
+
+Para encerrar esse tira-teima, a própria [[Fnatic]] ganhou suas próprias skins depois de anos e até foi mencionada em um dos clipes animados para pagar pau de alguns jogadores do competitivo.
+
+==Fase de grupos==
+[[Arquivo:S1WC.jpg|250px|thumb|1ª temporada e seus [[sarcasmo|ótimos gráficos]]...]]
+{{C|NA > EU|Americano|as lideranças dos dois grupos}}
+{{C|Só viemos pra participar mesmo...|Singapureanos e filipinos|Worlds 2011}}
+
+A fase de grupos era apenas com três times americanos, três europeus e o resto do [[Sudeste Asiático]], que apenas entrou na competição para fazer número, onde como óbvio, passaram apenas os times europeus e os americanos.
+
+===Grupo A===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="20"|{{Tooltip|Pos.|Posição}}
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|D|Derrotas}}
+|-
+|bgcolor=#CCFFCC|1||align=left bgcolor=#CCFFCC|[[Arquivo:Bandeira_dos_EUA.png|20px|link=NA LCS]] [[Epik Gamer|É-Pica Gaymer]]||bgcolor=#CCFFCC|'''3-0'''||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|0
+|-
+|bgcolor=#CCCCFF|2||align=left bgcolor=#CCCCFF|[[Arquivo:Bandeira da França.png|20px|link=EU LCS]] [[Against All Authority|Anarquismo sem Autoridade]]||bgcolor=#CCCCFF|'''2-1'''||bgcolor=#CCCCFF|2||bgcolor=#CCCCFF|1
+|-
+|bgcolor=#CCCCFF|3||align=left bgcolor=#CCCCFF|[[Arquivo:Eu!naz1.gif|20px|link=EU LCS]] [[Fnatic|FNáutico]]||bgcolor=#CCCCFF|'''1-2'''||bgcolor=#CCCCFF|1||bgcolor=#CCCCFF|2
+|-
+|bgcolor=#FFCCCC|4||align=left bgcolor=#FFCCCC|[[Arquivo:Bandeira das Filipinas.png|20px|link=Garena Premier League]] [[Team Pacific|Noobs do Pacífico]]||bgcolor=#FFCCCC|'''0-3'''||bgcolor=#FFCCCC|0||bgcolor=#FFCCCC|3
+|}
+|}
+
+===Grupo B===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="20"|{{Tooltip|Pos.|Posição}}
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|D|Derrotas}}
+|-
+|bgcolor=#CCFFCC|1||align=left bgcolor=#CCFFCC|[[Arquivo:Bandeira Canadá e Estados Unidos.png|20px|link=NA LCS]] [[Team SoloMid|Team HanSolo]]||bgcolor=#CCFFCC|'''2-1'''||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|1
+|-
+|bgcolor=#CCCCFF|2||align=left bgcolor=#CCCCFF|[[Arquivo:Bandeira Canadá e Estados Unidos.png|20px|link=NA LCS]] [[Counter Logic Gaming|Foda-se a Lógica]]||bgcolor=#CCCCFF|'''2-1'''||bgcolor=#CCCCFF|2||bgcolor=#CCCCFF|1
+|-
+|bgcolor=#CCCCFF|3||align=left bgcolor=#CCCCFF|[[Arquivo:Bandeira da Alemanha.png|20px|link=EU LCS]] [[Team GAMED.DE|Team GEME.DÁ]]||bgcolor=#CCCCFF|'''1-2'''||bgcolor=#CCCCFF|1||bgcolor=#CCCCFF|2
+|-
+|bgcolor=#FFCCCC|4||align=left bgcolor=#FFCCCC|[[Arquivo:Bandeira de Singapura.png|20px|link=Garena Premier League]] [[Xan|Xana]]||bgcolor=#FFCCCC|'''1-2'''||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|2
+|}
+|}
+==Caminho dos vencedores==
+O Mundial de League of Legends tentou copiar alguns regulamentos de futebol, mas tiveram a sorte de pegar os regulamentos do Campeonato Argentino e transformar para um mata-mata confuso, o que gerou a regra totalmente retardada para evitar possíveis zebras no mata-mata, para favorecer os times melhores colocados, o que não deu certo, pelo fato da [[Fnatic]] ter passado contra a [[CLG]], pelo placar de 2 a "1". Para ficar mais confuso, além de dar mais uma chance para as equipes que perdiam durante as semi-finais, resolveram fazer outra chave para os times perdedores, para uma outra final, o que não deu certo e não evitou a vitória do time sueco-europeu [[Fnatic]].
+===Semi-finais irrelevantes===
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 
+|-
+| align=center |1
+| align=right  | [[Arquivo:Bandeira da França.png|20px|link=EU LCS]] '''[[Against All Authority|Anarquismo sem Autoridade]]'''
+| align=center | <ref name="um">Foi dado uma vitória grátis aos segundos colocados do grupo.</ref>2-0
+| [[Team GAMED.DE|Team GEME.DÁ]] [[Arquivo:Bandeira da Alemanha.png|20px|link=EU LCS]]
+|-
+| align=center |2
+| align=right  | [[Arquivo:Bandeira Canadá e Estados Unidos.png|20px|link=NA LCS]] [[Counter Logic Gaming|Foda-se a Lógica]]
+| align=center | <ref name="um">Foi dado uma vitória grátis aos segundos colocados do grupo.</ref>1-2
+| '''[[Fnatic|FNáutico]]''' [[Arquivo:Eu!naz1.gif|20px|link=EU LCS]]
+|}
+===Semi-finais relevantes===
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 
+|-
+| align=center |3
+| align=right  | [[Arquivo:Bandeira da França.png|20px|link=EU LCS]] '''[[Against All Authority|Anarquismo sem Autoridade]]'''
+| align=center | 2-1
+| [[Team SoloMid|Team HanSolo]] [[Arquivo:Bandeira Canadá e Estados Unidos.png|20px|link=NA LCS]]
+|-
+| align=center |4
+| align=right  | [[Arquivo:Bandeira_dos_EUA.png|20px|link=NA LCS]] [[Epik Gamer|É-Pica Gamer]]
+| align=center | 0-2
+| '''[[Fnatic|FNáutico]]''' [[Arquivo:Eu!naz1.gif|20px|link=EU LCS]]
+|}
+===Finais de mentira===
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 
+|-
+| align=center |1
+| align=right  | [[Arquivo:Bandeira da França.png|20px|link=EU LCS]] [[Against All Authority|Anarquismo sem Autoridade]]
+| align=center | 0-2
+| '''[[Fnatic|FNáutico]]''' [[Arquivo:Eu!naz1.gif|20px|link=EU LCS]]
+|}
+
+==Final de verdade==
+Na final, o time da Fnatic teve uma vale-vitória por causa de ter passado a final de mentira, no qual a aAa conseguiu ganhar o primeiro jogo, mas perdeu o terceiro, o que acabou dando o primeiro título <s>e único</s> para o time da [[Fnatic]], além de um título totalmente <s>ir</s>relevante para o [[EU LCS|cenário europeu]]. Atualmente a existência além da relevância desse mundial é disputado quanto o tão famoso Mundial de 1951, onde apenas europeus que estão [[cagando e andando]] para a rivalidade dos próprios times que odeiam os times americanos, além dos próprios fãs <s>modinhas</s> da [[Fnatic]] são os que consideram essa edição como um verdadeiro mundial.
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 
+|-
+| align=center |1
+| align=right  | [[Arquivo:Bandeira da França.png|20px|link=EU LCS]] [[Against All Authority|Anarquismo sem Autoridade]]<ref name="dois">Passou pela fase eliminatória dos perdedores.</ref>
+| align=center | 1-2<ref name="tres">Foi dado uma vitória grátis por ter ganho o jogo anterior.</ref>
+| '''[[Fnatic|FNáutico]]''' [[Arquivo:Eu!naz1.gif|20px|link=EU LCS]]
+|}
+
+{{ref-section}}
+==Campeão==
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!World Championship 2011<br/>
+|-
+![[Arquivo:Escudo da Fnatic.png|border|150px]]
+|-
+|align=center|'''[[Fnatic|Fnáutico]]'''<br />
+(1° título)<br />
+|}
+==Ver também==
+{{lolworlds}}
+[[Categoria:Competições de League of Legends|World Championship 2011]]

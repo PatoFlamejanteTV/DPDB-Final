@@ -1,0 +1,44 @@
+{{game}}
+
+{{Infobox Game
+|title     = Fallout Chinês Bizarro
+|image     = Kenshi cover.jpg
+|caption   = Capa do jogo
+|developer = Xing-Ling Games
+|publisher = Xing-Ling Games
+|released  = 2018
+|genre     = RPG pós-apocalíptico
+|rating    = 9/10
+|platform  = Jogo de PC
+|ages      = Livre
+}}
+
+'''Kenshi''' (não confundir com o Kenshin do [[Samurai X]]) é um jogo educacional sobre a dura realidade de uma sociedade pós-apocalíptica no que restou do que parece ser a China. Um jogo onde você pode ser o que quiser, fazer o que quiser, contanto que essas coisas sejam extremamente ilegais, imorais e completamente sádicas. Um jogo onde tudo quer te comer, te cozinhar, sugar seus órgãos ou arrancar sua pele para usá-la como tapete. Um jogo em que ser forçado a escravidão é considerado um final feliz em comparação com os outros finais que incluem ser cozinhado por canibais, cagar sangue depois de ser perfurado por aranhas gigantes, ter as pernas e braços devorados por uma girafa mutante e coisas do tipo.
+
+== Jogabilidade ==
+
+[[Arquivo:Kenshi gameplay.jpg|thumb|left|Uma situação corriqueira nesse jogo.]]
+
+Kenshi é um bizarro híbrido entre [[Mount & Blade (jogo)|Mount & Blade]] e [[Jagged Alliance 2]] com combate de [[Def Jam: Fight for NY]]. Este jogo com foco em [[gore]] é um [[survival]] com elementos de tráfico de drogas, tráfico de humanos e domesticação de caranguejos gigantes violentos.
+
+Não possui qualquer objetivo específico, tal qual qualquer [[escola]] de [[ensino médio]], você basicamente precisa apenas sobreviver aqueles 3 anos, ou na melhor das hipóteses se tornar o bully e cagar a porra toda sacaneando todo mundo enquanto se regozija da impunidade em ser um baita cuzão. Tudo é sobre sobreviver e fazer dinheiro para assim comprar equipamento, comida, e <s>mercenários</s> amigos para continuar sobrevivendo. Mas para isso temos que explorar o mundo e desbravar seus perigos como tempestades de areia, nuvens de veneno, tribos de canibais, ninhos de aranhas assassinas, escassez de água e canhões de raios solares que caem do céu e fritam tudo no caminho.
+
+O combate caracteriza-se pelos bonecos altamente descoordenados, como se algum tipo de dano cerebral tivesse impedido a todos de executar duas tarefas ao mesmo tempo, como por exemplo, mover dois braços ao mesmo tempo. O jogo ainda não tem um sistema de HP comum, cada membro ou órgão do corpo tem seu HP separado, então é comum você estar rastejando porque quebraram suas pernas, ou lutando com apenas um braço porque arrancaram seu outro braço. É muito comum você ficar aleijado e então precisar adaptar uma prótese com alguns cabos de panelas, até você inevitavelmente morrer ridiculamente.
+
+== Enredo ==
+
+O mundo foi jogado numa 'Era das Trevas Tecnológica' depois de um desastre desconhecido que exterminou a sociedade moderna e civilizada. Agora sobrou apenas o sonho anarcocapitalista de uma sociedade sem Estado e sem leis. Todo mundo voltou a usar chapéus de palha, portar katanas e se comportar como fanáticos psicopatas egoístas e sanguinários. Um perfeito mundo sem bondade onde tudo e todos querem apenas te foder e lucrara qualquer custo.
+
+Portanto, este jogo é claramente a sequência canônica de [[Battle Realms]], retratando o estado das coisas na China após uma longa seca e fome que causou falta de arroz e água, os dois elementos fundamentais para formar um [[chineses|chinês]], o que levou não apenas a um declínio populacional mas também a toda degradação moral que nos deparamos nesse jogo.
+
+== Raças ==
+
+* '''Humano''' - A raça básica e familiar, eles são bons em tudo. Só não são bons em sobreviver a chuva ácida, nadar em ácido, ou sobreviver a explosões solares.
+* '''Shek''' - Estes bons de briga e ruins de cérebro ou pensamento crítico. Só pensam em brigar e cair na porrada. Gostam de resolver seus problemas com briga d efaca.
+* Hive - São os homens-insetos que são excepcionalmente bons em perderem braços e pernas, e também em escravidão, em serem escravos para ser mais exato.
+* Skeleton - São bons em tudo, mas exatamente por isso são vítimas de bullying e perseguição. Infelizmente não conseguem se curar de maneira convencional, eles precisam de conserto, mas boa sorte achando um mecânico no meio do deserto.
+
+{{Game RPG}}
+
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos lançados em 2018]]

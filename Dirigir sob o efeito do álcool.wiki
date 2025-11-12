@@ -1,0 +1,98 @@
+{{Bêbado}}
+
+ 
+
+
+[[Arquivo:deturpadocarlifilho.jpg|thumb|350px|Manobra que deu o título da categoria "automóveis de passeio" a [[Luiz Fernando Ribas Carli Filho]].]]
+[[Arquivo:Jeremias.jpg|thumb|250px|[[Jeremias José]], bi-campeão na categoria "motocicletas", tentando subir para a categoria "Estado/País".]]
+[[Arquivo:Biarticulado02.jpg|thumb|250px|Motorista do [[biarticulado]] e a manobra que garantiu o título na categoria "caminhões e ônibus articulados".]]
+
+'''Dirigir sob o efeito do álcool''', '''dirigir alcoolizado''', ou '''dirigir bêbado''' é uma [[esporte|modalidade esportiva]] classificada como [[esporte radical]], muito popular no [[Brasil]]. A grande maioria dos condutalcoolatletas, como são conhecidos seus praticantes, são [[babaca]]s, [[otário]]s e [[playboy]]s.
+
+De fato, o Brasil possui os atuais campeões mundiais, em todas as categorias, incluindo [[automóvel|automóveis]] e [[motocicleta]]s, as principais.
+
+Uma parcela considerável dos praticantes de dirigir bêbado migram de esportes alcoólicos mais arriscados, como o [[truco valendo o toba]].
+
+==Características==
+'''Dirigir sob o efeito do álcool''' é praticado de forma semelhante ao [[duatlo]], sendo, portanto, dividido em duas etapas.
+
+#'''Alcoolização''':
+#:Essa etapa consiste basicamente em [[bêbado|encher a cara]]. São permitidas todas as formas de [[pinga|bebidas alcoólicas]]: destilados, doutrolados, fermentados, etc. Mesmo [[vinagre]], [[enxaguante bucal]], [[desodorante]] e [[álcool]] doméstico são permitidos. Não é permitido, no entanto, o uso de [[etanol|álcool combustível]]. Um dos pricipais erros de [[atleta]]s mais [[noob|novatos]] é exceder-se nessa etapa e acabar dormindo na mesa do [[boteco]].
+#*'''Pontuação''': o número de pontos é a 500 vezes diferença de dosagem alcoólica (''d.d.a.'') antes e depois da visita ao bar. Desde [[{{#time:Y|-15 years}}]] É usada a ''d.d.a.'' no lugar da dosagem alcoólica final para evitar o chamado "esquenta". Exemplo: Se antes da chegada ao bar a dosagem alcoólica era 0,1 g de álcool por litro de sangue (0,1 g/L) e sai do bar com 1,6 g/L, ele marca 750 pontos. Pois <math>(1,6 - 0,1) \times 500 = 1,5 \times 500 = 750</math>
+#'''Condução''':
+#:Etapa final, consiste em conseguir adentrar no veículo, dar a partida, e conseguir completar o trajeto somando pontos. 
+#*'''Pontuação''': Na segunda etapa, somam-se os pontos adquiridos na primeira etapa aos adquiridos das seguintes formas:
+##Um número de pontos igual à velocidade média atingida
+##Um número de pontos igual à diferença entre o tempo de prova (em segundos) e um valor predefinido para a prova. Ex.: Se numa prova de 10 minutos (600 segundos), o atleta concluí-la em 9 minutos (540 segundos), o competidor marca 60 pontos.
+##50 pontos para cada sinal vermelho ou prerefencial furada
+##20 pontos para cada sinal amarelo queimado, ou área de velocidade controlada (por câmeras ou radares) desrespeitado
+##[[300]] pontos para cada quilometro na contramão (incluindo frações). Ex.: Andar 1,5 km na contramão somaria 450 pontos
+##Em caso de acidente, um ponto para cada [[dólar]] de prejuízo (a atribuição do dólar segue as regras internacionais da FIAA, Federação Internacional de Automobilismo Alcoólico), incluindo danos em todos os veículos envolvidos, em anexos às vias, como postes e placas de sinalização, custos hospitalares ou de sepultamento. Não são incluidas as dispesas com multas
+##500 pontos para cada blitz que não parar o atleta
+##750 pontos para cada blitz que parar o atleta e não o multar ou prender
+
+Em caso de multa ou prisão, o competidor é desclassificado, a não ser que a prisão seja decretada após um acidente, como aconteceu com [[Luiz Fernando Ribas Carli Filho|Carli Filho]].
+
+==Categorias==
+Existem atualmente categorias para dirigir sob o efeito do álcool, são elas equivalentes às categorias das [[Carteira Nacional de Habilitação|CNH]]s brasileiras, exceto pela última:
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 100%;"
+!Categoria
+!Tipo de veículo
+!Atual campeão
+!Nacionalidade
+!Observação
+|-
+|A
+|Motocicletas
+|[[Jeremias José]]
+|{{BRA}}
+|Bi-campeão mundial
+|-
+|B
+|Automóveis de passeio
+|[[Luiz Fernando Ribas Carli Filho|Carli Filho]]
+|{{BRA}}
+|Renunciou o mandato de [[deputado federal]] pelo [[Paraná]] para se dedicar exclusivamente ao esporte
+|-
+|C
+|Caminhões
+|[[Ricardão|João do Caminhão]]
+|{{BRA}}
+|Nessa categoria não são permitidos os [[rebite]]s, apenas álcool
+|-
+|D
+|Ônibus
+|Motorista de linha carioca
+|{{BRA}}
+|Nessa categoria não são permitidos os [[rebite]]s, apenas álcool
+|-
+|E
+|Ônibus e caminhões articulados
+|[[biarticulado|Motorista do biarticulado]]
+|{{BRA}}
+|Nessa categoria não são permitidos os [[rebite]]s, apenas álcool
+|-
+|F
+|Estado/País
+|[[Luiz Inácio Lula da Silva]]
+|{{BRA}}
+|Título emérito e ''in memoriam'' atribuido a [[Boris Yeltsin]] {{--}} {{RUS}}
+|}
+
+== Ver também ==
+*[[Desmanuais:Como dirigir]]
+*[[Autoescola]]
+*[[Carteira Nacional de Habilitação]]
+*[[Bêbado]]
+*[[Truco valendo o toba]]
+*[[Dorgas]]
+*[[Alcoólicos Anônimos]]
+*[[Polícia Rodoviária]]
+*[[Radar]]
+*[[Álcool]]
+*[[Jeremias]]
+*[[Lula]]
+
+{{gov}}
+{{Crimes}}
+[[Categoria:Crimes]]

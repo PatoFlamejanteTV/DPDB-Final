@@ -1,0 +1,38 @@
+{{game}}
+
+{{Infobox Game
+|title     = Fortaleza dos Anões
+|image     = Dwarf_Fortress_-_mapa_świata.png
+|caption   = Sopa de letrinhas incompreensível supostamente representando o <s>Acre</s> mapa-múndi do jogo
+|developer = <s>Dois nerds</s> Baía 12 Games
+|publisher = é indie
+|released  = 2000
+|genre     = Gerenciamento de trocentas coisas
+|platform  = [[Windows|Janelas]], [[Mac OS X|Maçã]], [[Linux|Pinguim]]
+|rating    = 0/10
+|ages      = +99 anos
+}}
+
+'''''Dwarf Fortress''''' (oficialmente chamado '''Escravos de [[carro|Amarok]] II: Fortaleza dos [[Anão|Anões]]''') é o [[mentira|jogo mais absurdamente complexo já criado na história da humanidade]] segundo [[nerds|críticos de videogueime]], lançado em [[2006]] em sua [[Tibia|versão original]] pela [[Bahia|Baía]] 12 Games. [[Você]] controla uma renca de [[anões]] [[bêbados]] que fazem [[nada|várias coisas]] sem [[vida|nenhum próposito]] em uma fortaleza subterrânea - mas para isso você deve ler bíblias e mais bíblias intermináveis de tutoriais para sequer entender que porras está acontecendo na tela <s>e nunca conseguindo jogar de tanto ter que ler</s>.
+
+Quando de seu lançamento, o jogo originalmente freeware [[Tibia|não tinha gráficos]] e tudo era composto por [[LSD|letrinhas]], de forma que [[você]] ficasse [[vesgo]] jogando <s>e começasse a ter alucinações ao ver a letra "c" pensando que é um gato</s>. Mas em [[2022]], os programadores precisavam de [[dinheiro]] e decidiram lançar no [[Steam]] uma versão com <i>algum</i> gráfico que servisse para tirar dinheiro dos [[gordo|"fãs"]]. O jogo está em [[Desocupado|constante desenvolvimento]] <s>pelo [[Doutor Roberto]]</s> pelos seus dois criadores [[Hikikomori|matemáticos insanos]] que não cansam de deixar o jogo mais complicado <s>e impossível de ser jogado.</s>
+
+[[Minecraft]] é uma cópia descarada, mas mais tosca, e o gordo [[Notch]] já admitiu isso <s>na cara de pau</s>. Em 2012, o [[Museu]] de [[Modernismo|Arte Morderna]] (MoMA) o colocou em exposição como exemplo de um dos 40 jogos mais apropriados [[Desocupado|a quem está sem o que fazer]].
+
+[[Arquivo:Tarn_Adams.jpg|thumb|200px|Tarn Adams, famoso <s>mendigo</s> <s>filósofo</s> matemático que programou o jogo inteiro ]]
+
+== Ver também ==
+* [[Minecraft]]
+* [[Tibia]]
+* [[Terraria]]
+
+==Ligações externas==
+* [https://www.bay12games.com/dwarves/ "Sítio" oficial da Baía 12 Games]
+* [http://dwarffortresswiki.org/ Wiki do jogo a qual você será forçado a ler sem nunca conseguir de fato jogar]
+
+{{Construção e gerenciamento}}
+{{Roguelike}}
+{{Survival}}
+
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos lançados em 2006]]

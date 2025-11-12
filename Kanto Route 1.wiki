@@ -1,0 +1,159 @@
+{{PokéTownBox
+| nome = Kanto Route 1
+| nihongo = １ばんどうろ
+| romanji = Route 1
+| imagem = Kanto Route 1.png
+| slogan = Temos que percorrer todo esse caminho para chegar a um [[Bordel]]???
+| mapdesc = A Incrível Rota que nos leva a um incrível Bordel, mas, porque não fizeram essa Porra totalmente Reta???
+| routes = Ao sul [[Pallet Town|Pallet]] e ao Norte [[Viridian City|Viridian]]
+| mapa = Kanto Route 1 Map.gif
+| regiao = Kanto
+}}
+
+
+{{C|Aposto que nessa Rota tem Pokémons Ultra Fortes! :D|[[N00b]]|A Rota 1 de Kanto}}
+{{C|Toda essa merda para chegar a porcaria de um Bordel?|Qualquer um|A Rota 1 de Kanto}}
+
+A Rota 1 de Kanto é a primeira Route em que os Treinadores vão quando começam sua [[baranga|bela]] Jornada com aquele Pokémon de Nível 5 completamente inútil que perde até para um [[Rattata]] manco.
+
+==Sobre==
+
+Ela é a Rota mais inútil e que ninguém volta naquela porra, por não conter um Pokémon decente, não conter também nenhum Item decente nas Gerações abaixo da III e, por ter [[School Kid (Pokémon)|Criancinhas dorgadas]] e [[Ace Trainer (Pokémon)|Retardados com Roupa de Ski]], oque acaba traumatizando os Treinadores Novatos, os fazendo largar seu querido [[Game Boy]], [[Nintendo DS|Ñ Intendo DêÉssê]] e ir arrumar um emprego para sustentar sua família e ficar rico.
+
+Sendo ela a primeira Rota que as pessoas vão, ela não possui nenhum Pokémon decente, nem [[Pokémon Shiny|Pokémons Brilhantemente Gays que servem para completar a PokéDex]] podem ser encontrados lá sem fazer uma [[GameShark|bela macumbinha da boa]], trazendo então a frustação aos Treinadores, que acabam cometendo suícidio por não parar de aparecerem Pokémons inúteis enquanto eles seguem para o fim desse Inferno.
+
+==Cenário==
+
+Tal brilhante localização possui belas paisagens tipícas de qualquer Rota que pode ser encontrada nos Jogos, a tornando praticamente única e [[Paulo Bonfá|totalmente excelente]]. Segue as suas Atrações turisticas:
+
+*A Placa:
+
+A Placa é uma bela Placa feita da melhor madeira de Árvores de [[Apricorn|Apricorns]] encontradas em toda a [[Safari Zone]], ela possui letras ilegiveis, ou, foi escrita por um [[Analfabeto|Anafabeltista]] a tornando única por ter um belo tom avermelhado em sua escrita.7
+
+*As Plantações de Maconhas:
+
+Plantaçõezinhas de Maconha, ou Graminhas inteiramente suspeitas são essenciais para dar uma compostura ideal a paisagem, a deixando bela e muito <s>da boa</s> visitada por Dorgados e Traficantes, ou algo do genero.
+
+*Escadinhas:
+
+As escadinhas dão o toque triunfal nesta área, elas que a deixam com a bela aparência de {{aspas|Nossa que Rota bonita, não vou nem precisar pular pra subir nessas porras de Barranquinhos :D}}, oque poupa muito trabalho das pessoas preguiçosas, como {{USERNAME}}, também, já foi implementado um novo Projeto para trocá-las por elevadores automáticos movidos a energia elétrica de [[Pikachu]]s.
+
+*Pequena árvorezinha de Apricorn:
+
+Ela serve para dar toda a graça e suavidade encontrada na Route, seu belo tom vibrante a deixa muito cativante, sua bela Apricorn lembra uma [[Light Ball (Item)|Light Ball]] que caiu num vaso sanitário e ficou abaixo das fezes por um bom tempo e então passou pelo esgoto do [[Rio Tietê]] e acabou parando encima de uma árvorezinha, ou seja, totalmente [[Kawaii|Kawaaaaaaaaaaiiiii *-*]].
+
+*Estranha construção inútil no final da Rota:
+
+Ela dá o Toque final de mestre na Route, ninguém sabe oque essa porra é, [[Capitão Jack Sparrow|a deixando confundivel com um Bordel, um erro clássico que é cometido por muitas pessoas]].
+
+==Pokémons encontrados nesta Route==
+
+{{Catch/header}}
+{{Catch/entry
+| imagem = 016
+| formato = png
+| nome = Pidgey
+| tipo = Normal
+| tipo2 = Flying
+| hg = yes
+| ss = yes
+| localizacao = Grass
+| nivel = 2-4
+| manha = 45%
+| dia = 45%
+| noite = 0%
+}}
+{{Catch/entry
+| imagem = 019
+| formato = png
+| nome = Rattata
+| tipo = Normal
+| hg = yes
+| ss = yes
+| localizacao = Grass
+| nivel = 2-6
+| manha = 30%
+| dia = 30%
+| noite = 0%
+}}
+{{Catch/entry
+| imagem = 161
+| nome = Sentret
+| tipo = Normal
+| hg = yes
+| ss = yes
+| localizacao = Grass
+| nivel = 3
+| manha = 20%
+| dia = 20%
+| noite = 0%
+}}
+{{Catch/entry
+| imagem = 163
+| nome = Hoothoot
+| tipo = Normal
+| tipo2 = Flying
+| hg = yes
+| ss = yes
+| localizacao = Grass
+| nivel = 2-4
+| manha = 0%
+| dia = 0%
+| noite = 45%
+}}
+{{Catch/div|Grass|Headbutt}}
+{{Catch/entry
+| imagem = 163
+| nome = Hoothoot
+| tipo = Normal
+| tipo2 = Flying
+| hg = yes
+| ss = yes
+| localizacao = Headbutt
+| nivel = 2-6
+| manha = 50%
+| dia = 50%
+| noite = 80%
+}}
+{{Catch/entry
+| imagem = 204
+| formato = png
+| nome = Pineco
+| tipo = Bug
+| hg = yes
+| ss = yes
+| localizacao = Headbutt
+| nivel = 2-3
+| manha = 30%
+| dia = 30%
+| noite = 30%
+}}
+{{Catch/entry
+| imagem = 167
+| nome = Spinarak
+| tipo = Bug
+| tipo2 = Poison
+| hg = yes
+| ss = no
+| localizacao = Headbutt
+| nivel = 5-6
+| manha = 30%
+| dia = 30%
+| noite = 30%
+}}
+{{Catch/entry
+| imagem = 165
+| nome = Ledyba
+| tipo = Bug
+| tipo2 = Flying
+| hg = no
+| ss = yes
+| localizacao = Headbutt
+| nivel = 5-6
+| manha = 30%
+| dia = 30%
+| noite = 30%
+}}
+{{Catch/footer}}
+
+{{Kanto}}

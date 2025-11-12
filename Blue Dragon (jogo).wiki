@@ -1,0 +1,68 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Dragão Azul
+|image     = Blue Dragom cover.png
+|caption   = Capa do jogo
+|developer = [[Mistwalker|Criador do Final Fantasy]]
+|publisher = [[Microsoft Game Studios|Financiado pela Xbox]]
+|released  = [[2006]]
+|genre     = JRPG de turnos
+|rating    = 7/10
+|platform  = [[Xbox 360]] e só
+|ages      = Livre
+}}
+
+'''Blue Dragon''' é um joguinho de videogame desses bem genéricos (uma mistureba de [[Dragon Ball]], [[Digimon]], [[Beyblade]] e todas essas bobagens de criança otaka) que foi lançado exclusivamente para [[Xbox 360]] e por isso é um jogo que ninguém conhece (ninguém compra Xbox pra jogar RPG, aqueles caras só querem saber de jogo de tiro.
+
+== Desenvolvimento ==
+
+Numa época em que a [[Microsoft]] ainda estava testando seu público e para onde o [[Xbox 360]] deveria direcionar seus exclusivos, uma coisa já era certa: Os fãs da "caixa" já odiavam "jogos de historinha" e também odiavam coisas de otaku retardado. Essas duas certezas faziam de um [[JRPG|RPG japonês]] a última coisa possível de ser lançada nesse console.
+
+Mas depois do moderado sucesso de [[Fable (jogo)|Fable]], a Microsoft percebeu que tinha ali um nicho. Esses eram os "sonystas cuja mamãe não conseguiu comprar um PlayStation 3 ou Nintendo Wii". Esses pobres coitados tinham que receber pelo menos um agradinho. Foi então que deram início ao projeto de criarem um JRPG para Xbox 360.
+
+A Microsoft chamou ninguém menos que [[Hironobu Sakaguchi]], o criador de [[Final Fantasy]], ele que estava na sarjeta e na fossa após o fracasso do filme [[Final Fantasy: The Spirits Within]] que só trouxe um prejuízo de 94 milhões de dólares. Fatp é que Sakaguchi não estava mais em seu auge, mas ele teve uma ideia brilhante. Numa visita à [[Weekly Shōnen Jump]], ele aproveitou um momento de distração para vasculhar uma [[lixeira]] e de lá pegou uns rascunhos de [[Akira Toriyama]], e com isso fez o enredo do novo jogo. Para não ficar um negócio muito indie, Hironobu Sakaguchi criou um CNPJ semi-fantasma chamado "[[Mistwalker]]", contratou uns escravos, e começou o desenvolvimento do jogo.
+
+Bom, eles só esqueceram de contratador um bom mixador de som, muitas vezes você nem escuta o diálogo porque um monstro está ao mesmo tempo fazendo o som de uma britadeira que abafa todo resto. O investimento de som foi todo para as músicas de boss que foram criadas pela banda [[Deep Purple]] (ou pelo menos é o que parece).
+
+== Jogabilidade ==
+
+Trata-se de um RPG por turnos, então sim é mais um daqueles jogos pra nerd virgem com esse sistema paradão de jogo que só eles gostam. Nada que você já não tenha visto: Andar no Mapa do Mundo onde você fica gigante, até entrar nas dungeons onde está o boss. Os monstros ficam vagabundeando pelo cenário e o combate só começa se você triscar neles. Teoricamente dá para zerar sem lutar com ninguém? Sim. Mas não seria um RPG japonês se também não te obrigasse a grindar, então não se preocupe que serão centenas e centenas de lutas chatas e repetitivas.
+
+O sistema de combate é aquele por turnos. O típico aperta botão sem parar e vê as mesmas animações de ataques trocentas vezes, com raros momentos será necessário alguma estratégia. Até porque você destrava todos os golpes e magias rapidamente. O verdadeiro desafio é não enjoar de ver os bonecos fazendo os mesmos movimentos por horas para todos os golpes.
+
+== Enredo ==
+
+[[Arquivo:Blue-dragon-cutscene.jpg|thumb|São esses os moleques de merda que vão salvar o mundo. Tá explicado porque ninguém jogou esse troço.]]
+
+Em um mundo que o autor esqueceu de dar o nome, enfrentamos uma maldição [[Purple Haze]] que consiste em uma nuvem de peido roxo que pode aparecer em qualquer lugar do mundo e trazer consigo monstros, pestes e destruição. Então começamos no vilarejo de Talta, um pequeno lugar onde os pais são desnaturados e deixam seus filhos menores de idade viajar para outras partes do mundo e fazer coisas de adulto. Três dessas crianças retardadas são Shu, Kluke, e Jiro e elas querem parar esse monstro chamado "Land Shark" (se você achou que só o [[Sharknado]] era trash, então o que dirá de um tubarão gigante robô que navega embaixo da terra?). Esses três amigos que tem mania de caírem de lugares altos e serem salvos de algum jeito milagroso perseguem o monstro da maneira mais burra possível, tentando pescá-lo. Isso mesmo, pescar um monstro mortal de 500 toneladas. Por sorte eles sobrevivem e até encontram um elevador que os leva até uma nave que estava oculta dentro da nuvem de bufa roxa.
+
+Lá na nuvem, o trio conhece Nene (que nome merda). Nene vai ser o vilão da porra toda, ele é um goblin idoso e azul cujo único traço de personalidade é o de ser um sádico malvado e é isso, ele quer ver pessoas sofrerem. Então o vilão joga o trio no abismo através de um alçapão de sua nave. Mas antes que morram de forma trágica, os três são sugados por uma energia de volta para a nave de Nene e lá dentro uma voz misteriosa de mulher entrega 3 doces brilhando em azul (claramente [[césio-137]]) e manda os três comerem aquelas coisas. As crianças obviamente comem, afinal elas não tem pais e não receberam a importante lição de recusar comida de desconhecidos. Comer aquele treco faz surgir de trás de suas sombras três [[Digimon]]s mal renderizados. Pois é, são aqueles bonecos com cara de jujuba o tal do "Blue Dragon".
+
+Agora dotados do super poder de invocar monstros feitos de goma de mascar, o trio de protagonistas decide que a única alternativa viável não é chamar a polícia ou os pais (exceto Kluke que toda hora está nos relembrando que é órfã), a única alternativa é impedir Nene com as próprias mãos, e assim começa a aventura. Em meio a isso acompanharemos o [[triângulo amoroso]] mais merda que você já viu, com Shu e Jiro se comportando feito dois escravocetas idiotas completamente apaixonados pela Kluke que é madura o bastante para não ter interesse em nenhum desses dois perdedores e vai é se aproveitar da gadice desses dois para ganhar vários presentinhos deles.
+
+Em seguida o trio encontra Marumaro, um elfo anão amarelo e gordinho que teoricamente era para ser algum tipo de mascotinho adorável (vide o bem sucedido [[Tony Tony Chopper]]) mas só conseguiu ser um bicho extremamente irritante. Marumaro procura curar uma epidemia de preguicite que está fazendo todos em sua vila ter fadiga e querer só ficar na cama. Claro, é tudo efeito da bufa roxa de Nene, mas matando um chefão lá, Shu e seus amigos dão um jeito nisso e agora temos quatro integrantes no time. Aliás, Marumaro também tem seu Digimon de gelatina azul porque sim.
+
+Ao chegarem na capital, os quatro amigos conhecem uma pirata metida a gostosinha chamada Zola que também tem seu Digimon de gelatina azul. Ela conta uma historinha sobre como ganhou os poderes que só mesmo sendo uma criança para acreditar, que ela achou aquele doce sagrado no chão e comeu, e é isso.
+
+Após várias horas perseguindo esse vilão cretino, sem muitas side-quests, então finalmente os cinco amigos enfrentam Nene. Mas o vilão suga aqueles monstros e deixam todos sem seu Digimon revelando que tudo era parte de um plano dele para ficar mais forte e todo um "blá blá blá" que não justifica ele ter matado logo esses três. Mas graças ao poder da perseverança e da força de vontade, todo mundo recupera seus Digimons apenas "porque sim".
+
+E quando você acha que já viu tudo, a Terra é cortada ao meio como se fosse duas cuias. [[WTF!?]] Nene então revela que aquela é a forma real do mundo, duas cuias cheias de quadrados de [[Minecraft]] dentro e que quer governar aquele mundo. Mas por ser um vilão muito canastrão ele termina derrotado... mas então... nossa!! Que plot twist inesperado! A pirata Zola trai todo mundo e se ajoelha perante Nene. E agora? Bom, o vilão só não contava com o [[poder da amizade]], a solução de 95% de qualquer coisa japonesa, Zola volta aos amigos (sim, matar a Zola é Game Over) e termina com o vilão. Aí só para ter uma fase final, o mascotinho irrelevante de Nene se transforma num sapo gigante, mas aí é só derrotá-lo e zerar essa porra de jogo.
+
+E o triângulo amoroso? Bom, enquanto Shu e Jiro continuarem sendo gado, a Kluke vai continuar esnobando esses dois virgens.
+
+== Personagens ==
+
+* '''Shu''' - O típico protagonista de anime [[shounen]], uma criança irritante que só sabe dizer "I won't give up", ou seja, um teimoso daqueles que sempre vai tirar um poder do cu para não morrer nos momentos mais críticos. É aquele clássico moleque de amigo, um tonto desmiolado que está sempre empolgado, mas tem um coração puro e bondoso.
+* '''Kluke''' - Uma piveta chata pra caralho que só sabe é ficar relembrando todo mundo que ela é órfã. Ela está ali claramente para ser a namoradinha de Shu, mas o protagonista é um bobalhão e não consegue ficar com a garota que o roteiro claramente fez para ele.
+* '''Jiro''' - Personagem cuja melhor descrição é "um garoto", é o melhor amigo genérico do protagonista, ele tenta sem sucesso ter um jeitão de "Sasuke"/"Vegeta", mas falha miseravelmente por sua total falta de carisma que é equivalente ao carisma de um jabuti manco.
+* '''Marumaro''' - Está ali meio que para ser um mascote. Destaca-se mesmo é por possuir a voz mais irritante que você já viu num personagem importante. Sempre que começa a falar faz você querer jogar isso no mudo.
+* '''Zola''' - A pirata que está ali para trazer algum sex appeal por ser a única que não tem cara de menor de idade (mas também não tem mais de 19 anos). Ela é uma garota estoica metida a fodona. No final se revela uma traidora do nada, mas 5 minutos depois trai a traição e continua amiguinha.
+
+{{Blue Dragon}}
+
+[[Categoria:Jogos da Mistwalker]]
+[[Categoria:Jogos da Microsoft Game Studios]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos de RPG]]
+[[Categoria:Jogos lançados em 2006]]

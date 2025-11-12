@@ -1,0 +1,57 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = darkblue
+|brasao            = Escudo do Vélez Sársfield.png
+|hino              = Hino do Vélez Srsfield
+|nome_oficial      = Club Atlético Vélez Sársfield
+|origem            = [[Buenos Aires]], [[Argentina]]
+|apelidos          = El Fortin
+|torcedores        = velexiano
+|torcidas          = Fortinhos
+|mascote           = Sei lá
+|ilustre           = 
+|estadio           = José Amalfitani
+|capacidade        = 49.540 pessoas
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = [[Carlos Bianchi]]
+|melhor            = [[Chilavert]]
+|patrocinador      = [[Mondial]]
+|material          = [[Penalty]]
+|liga              = [[campeonato Argentino]]
+|divisao           = primeira divisão
+|títulos           = 1 Libertadores
+|ranking           = 
+|uniformetitular   = Velez sarsfield home 0506.jpg
+|uniformealt       = 
+}}
+
+'''Club Atlético Vélez Sársfield''' é um clube de futebol da Argentina, mais conhecido por ter ganhado uma Libertadores na final contra os [[São Paulo FC|bambis]].
+
+== História ==
+=== Fundação ===
+O Vélez foi fundado em 1910 em Buenos Aires e se tornou um dos grandes do futebol Argentino, mesmo não sendo um dos cinco maiores times da Argentino que conta com [[Boca Juniors]], [[River Plate]], [[Independiente]], [[Racing]] e [[San Lorenzo]] (até hoje ninguém sabe como o San Lorenzo que nunca ganha nada faz parte deste grupo e o Vélez e o [[Estudiantes]] que tem 1 e 4 Libertadores respectivamente não). O Vélez Sarsfield mesmo não fazendo parte dessa lista foi campeão argentino sete vezes. O melhor momento em sua história em 1994 quando foi campeão da Libertadores em cima do [[São Paulo FC|São Paulo]] e foi depois campeão mundial em cima do [[Milan]], feitos que acontecem uma vez por milênio e agora vai demorar se repetir.
+
+=== Supercopa de 1995 ===
+
+O time do Vélez tornou-se mundialmente famoso no ano de 1995, num clássico jogo contra o Flamengo de Edmundo e Romário, o jogador do Vélez Sársfield, irritado e revoltado com a injúria de ter sido chamado de "boludo", desceu o braço na cara do Edmundo que caiu a nocaute e não se ergueu na contagem de 10 segundos, ato que decretou a vitória do Veléz na partida por ''ippon''. Infelizmente no jogo seguinte o Flamengo venceu e o Vélez foi desclassificado.
+
+=== Centenário ===
+
+Assim como o [[Corinthians]], o Vélez comemorou em 2010 o ano de seu centenário, e tinha como meta ganhar a Libertadores, sonho que foi acabado pelo [[Chivas Guadalajara]], do [[México]]. Para tentar amenizar a situação com a torcida, os dirigentes prometeram ganhar o Apertura de 2010, mas o time [[Gordo|não teve fôlego suficiente]] para alcançar o [[Estudiantes de La Plata|Burritos Argentinos]] e decepcionou de novo.
+
+== Títulos ==
+
+* [[Mundial Interclubes]]: 1 (1994) 
+* [[Copa Libertadores da América]]: 1 (1994) 
+* [[Supercopa Libertadores|Supercopa Vale-Tudo Porradaria Libertadores]]: 1 (1996)
+* [[Campeonato Argentino]]: 7 (1968, 1993,1995, 1996, 1998, 2005 e 2009) 
+* Campeonato Argentino 2ª Divisão: 1 (1943)
+
+{{Campeonato Argentino}}
+{{Copa Libertadores}}
+
+[[Categoria:Times de futebol da Argentina|Vélez Sársfield]]
+
+[[es:Vélez Sarsfield]]

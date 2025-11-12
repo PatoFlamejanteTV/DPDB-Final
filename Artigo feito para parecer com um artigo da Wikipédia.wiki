@@ -1,0 +1,46 @@
+<!-- Eu fiz esse artigo com a intenção de fazê-lo parecer que é um artigo da Wikipédia. Por favor, não adicionem predefinições nem citações nele, a não ser que você faça parecê-lo ser um artigo da Wikipédia. E se ver alguém desrespeitando este aviso, reverta ou tire as citações/predefinições -->
+
+{{logotipo falso|Wikipedia-logo-v2-pt.png}}
+{|align=center class="noprint" style="width:80%; margin:0 auto; border-collapse:collapse; background: #fbfbfb; border: 1px solid #aaa; border-left: 10px solid #f28500;"
+|width=8% align=center|[[Arquivo:Question book-new.svg|50x40px|center]]
+|width=84%|Esta página cita fontes, mas que '''não cobrem todo o conteúdo.''' Ajude a inserir referências <small>(Encontre fontes: ABW  • CAPES  • Google (notícias • livros • acadêmico)). <sup>({{CURRENTMONTHNAME}} de {{CURRENTYEAR}})</sup></small>
+|width=8% align=center|
+|}
+{|align=center class="noprint" style="width:80%; margin:0 auto; border-collapse:collapse; background: #fbfbfb; border: 1px solid #aaa; border-left: 10px solid #f4c430;"
+|width=8% align=center|[[Arquivo:Ambox rewrite.svg.png|40px|center]]
+|width=84%|'''Esta página precisa ser [[Lixo|reciclada]] de acordo com o  [[Foda-se|livro de estilo]]''' <sup>({{CURRENTMONTHNAME}} de {{CURRENTYEAR}})</sup><br /> Sinta-se livre para editá-la para que esta possa atingir um [[Desciclopédia:Como ser engraçado e não apenas idiota|nível de qualidade superior]]. 
+|width=8% align=center|
+|}
+{|align=center class="noprint" style="width:80%; margin:0 auto; border-collapse:collapse; background: #fbfbfb; border: 1px solid #aaa; border-left: 10px solid #f28500;"
+|width=8% align=center|[[Arquivo:Ambox Content.svg.png|40px|center]]
+|width=84%|'''Um editor detectou que {{{1|este artigo ou partes de seu texto podem}}} não ser de natureza [[E o Quico?|enciclopédica]].'''<br />Por favor consulte [[Wikipédia#O que a Wikipédia não é|o que a Wikipédia não é]] e tente resolver estas objeções na [[Foda-se|página de discussão deste artigo]] <sup>({{CURRENTMONTHNAME}} de {{CURRENTYEAR}})</sup>
+|width=8% align=center|
+|}
+<!-- OBS: Usem neste artigo apenas imagens sob uma licença livre (domínio público, Creative Commons, etc.) para fazer este artigo parecer ainda mais com um da Wikipédia. Também evitem colocar palavras de baixo calão, gírias e xingamentos. -->
+[[Arquivo:Gandhi_writing_1942.jpg|thumb|200px|Ghandi ficou muito triste ao ler o artigo, pois ele pensou que fosse um artigo enciclopédico <small>OBS: Imagem meramente representativa. Obviamente, Ghandi está morto</small>]]
+'''Artigo feito para parecer com um artigo da [[Wikipédia]]''' é um artigo da [[Desciclopédia]] criado por algum editor com o propósito de se parecer com um artigo enciclopédico da Wikipédia<ref>[{{fullurl:{{PAGENAME}}|action=history}} De acordo com o histórico da página]</ref>. Para que isto fosse possível, foram adicionadas várias referências e foram feitos clones das predefinições de manutenção da Wikipédia<ref>[http://pt.wikipedia.org/wiki/Categoria:!Predefini%C3%A7%C3%B5es_de_manuten%C3%A7%C3%A3o Compare as predefinições da categoria com as que estão no código-fonte]</ref>, utilizando parte do código-fonte delas e imagens, tudo isso numa tentativa de fazer este artigo parecer o mais enciclopédico possível, o que na verdade segundo a Wikipédia seria [[Wikipedia:Wikipédia:Batom em um porco|colocar batom em um porco]]{{carece de fontes}}.
+
+== Técnicas ==
+Ao se ver o código-fonte da página, percebe que ela contém o código-fonte das predefinições de manutenção da Wikipédia e também o código-fonte de algumas predefinições de atalho{{carece de fontes}}, e que não contém as predefinições em si porque elas não seriam de ajuda nenhuma para a Desciclopédia e seriam rapidamente eliminadas, ou por eliminação rápida ou por eliminação por votação.
+
+Para fazer-se com que o artigo fosse mais parecido, também foram proibidas as palavras de baixo calão e também as imagens que não são de alguma licença livre (ex: [[Creative Commons]], [[domínio público]], [[GPL]], etc.).
+
+== Motivos ==
+O motivo do artigo ter sido criado foi para fazer com que alguma pessoa [[Idiota|portadora da idiotice]] cometesse um equívoco ao entrar e começar a ler a página. Entretanto, a Desciclopédia possui um aviso de que ela é humorística, então não há nenhuma maneira da pessoa tentar processar a Desciclopédia caso aconteça algum dano relacionado, por exemplo, a um trabalho escolar que a pessoa, na hora de fazer, usou o artigo da Desciclopédia como fonte principal<ref>[{{fullurl:Project:Aviso geral}} Leia o aviso geral da Desciclopédia]</ref><ref>[{{fullurl:Project:Sobre}} Leia tembém a página "Desciclopédia:Sobre"]</ref>.
+
+{{ref-section}}
+
+==Ver também==
+* [[Wikipédia]]
+* [[Wikipédia:]]
+
+== Ligações externas ==
+* {{Link|1=pt|2=http://pt.wikipedia.org/|3=Wikipédia, a enciclopédia livre}}
+[[Categoria:Artigos criados com algum propósito|parecer com um artigo da Wikipédia]]
+[[Categoria:Wikipédia]]
+
+
+{|class="noprint" style="border-top:3px solid silver; border-bottom:1px solid silver; background:none;" width=100%
+|align=center|[[Arquivo:{{{imagem|Wiki letter w.svg}}}|{{{tamanho|20px}}}]]
+|''Este artigo é um [[Merda|esboço]]. Você pode ajudar a Wikipédia <span class="plainlinks">[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} <span title="Expandir o artigo.">expandindo-o].''</span></span>
+|}

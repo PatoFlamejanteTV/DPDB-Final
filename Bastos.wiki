@@ -1,0 +1,98 @@
+{{DadosMunicípioBrasil
+
+<!-- Cabeçalho -->
+| nome                 = Bastos
+| foto                 = 
+| leg_foto             = 
+| apelido              = Capital do Ovo
+<!-- Dados gerais -->
+| brasão               = Fbrasao_bastos.jpg 
+| bandeira             = Bandeira_bastos.jpg 
+| link_brasão          = 
+| link_bandeira        = 
+| link_hino            = 
+| aniversário          = 18 de Junho.
+| fundação             = [[18 de junho]] de [[1928]]
+| gentílico            = bastense
+| lema                 = 
+
+<!-- Localização -->
+| mapa                 = Municipio_Bastos.jpg
+| latP                 = S | latG = 21 | latM = 55 | latS = 19
+| lonP                 = O | lonG = 50 | lonM = 44 | lonS = 02
+| estado               = <S>Japão</S>São Paulo
+| mesorregião          = Granja
+| microrregião         = Galinheiro
+| região_metropolitana = Tóquio
+| vizinhos             = Granjas, granjas,granjas, granjas e granjas!
+| dist_capital         = 550
+<!-- Características geográficas -->
+| área                 = 170,454
+| população            = 21.676 humanos e 8.000.000 galinhas(aves)
+| data_pop             = est. [[2006]]
+| densidade            = 127,2
+| altitude             = 445
+| clima                = Que não cause gripe aviária
+| fuso_hor             = -3
+<!-- Indicadores -->
+| idh                  = 0,888
+| data_idh             = [[PNUD]]/[[2000]]
+| pib                  = 583.447.679,00
+| data_pib             = [[IBGE]]/[[2003]]
+| pib_per_capita       = 27.551,01
+| data_pib_per_capita  = [[IBGE]]/[[2003]]
+}}
+
+
+Bastos é um município <S>japonês</s> brasileiro no estado de São Paulo e também com a maior densidade de galináceos e ovos por km² do Brasil, além de ser o único lugar no país que supera a [[Liberdade]] em termos de japoneses por m². E por tudo isso, Bastos é conhecida como... a Capital do Ovo!
+
+Bastos foi fundada por japoneses, tudo lá tem nome de japonês, se vê japoneses por todos os lados, existem igrejas de japoneses, lojas japonesas, os logradouros tem nome de japoneses, mas não fica no Japão!
+
+Um fato, Bastos possui uma pequena população de alemães e italianos que com os japoneses se tornam grandes aliados pois eles apoiam o <S>hitler</s> bigodinho! Mas as galinhas da cidades não gostaram nada disso construindo um campo de concentração e prendendo todos eles logo apos a guerra ter acabado as galinhas os executaram e se reproduziram tomando conta da cidade!
+
+== Economia ==
+
+Bastos possui 100 granjas avícolas, 8 milhões de galinhas (aves), sendo 5,6 milhões botando e 2,4 milhões ainda franguinhas, produzindo 48,6 ovos por segundo e 4.800 toneladas de cocô por mês.
+
+== Esportes ==
+O esporte mais popular de Bastos é... o golf! Uma curiosidade que Bastos é o único lugar que usam o ovo no lugar da bola!
+
+== Geografia ==
+
+Bastos localiza-se no Império Nipônico do Brasil, que engloba cidades do sudoeste do Estado de São Paulo como Bastos, Marília, Presidente Prudente, Oswaldo Cruz e Tupã, além de todo o noroeste paranaense.
+
+=== Logradouros de Bastos ===
+
+Rotatória Haruichi Sakita<BR>
+Praça Kunito Miyasaka<BR>
+Praça Senjiro Hatanaka<BR>
+
+=== Estabelecimentos Educacionais e Culturais de Bastos ===
+
+Centro Cultural Profª Tsuya Ohno Kimura<BR>
+Museu Histórico Regional Saburo Yamanaka<BR>
+Jardim Oriental da Granja Mizumoto<BR>
+E.E. Profª. Tsuya Ohno Kimura<BR>
+E.E. Harue Matsumoto Asakawa<BR>
+E.E. Parque das Nações<BR>
+E.E. Águia de Haia<BR>
+E.E. Dr. Irineu Buller Almeida<BR>
+E.E. Márcia Nuti Molina<BR>
+
+=== Prédios Públicos de Bastos ===
+Pronto Socorro Akira Taniguchi<BR>
+Estádio Municipal(de Beisebol) Tsutomu Maruyama<BR>
+Terminal Rodoviário Kisuke Momiwa<BR>
+Recinto de Exposições Kisuke Watanabe<BR>
+
+Praticamente todos os prédios públicos e 50% das ruas de Bastos tem nomes de japoneses.<BR>
+[[Arquivo:Ovos_arvores.jpg |thumb|left|Monte Fuji de ovos.]]
+
+
+
+
+
+
+
+
+{{São Paulo}}

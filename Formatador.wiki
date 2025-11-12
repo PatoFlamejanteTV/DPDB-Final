@@ -1,0 +1,40 @@
+Um '''formatador''' é aquele indivíduo que consegue ganhar dinheiro em cima da [[inclusão digital]] [[formatação|formatando]] [[disco rígido|discos duros]], [[drive de estado sólido|dispositivos de estado sólido]] ou [[flash drive|dispositivos rápidos]]. Os formatadores são, junto aos [[programador]]es e profissionais de [[redes de computadores|redes]], são conhecidos como os peões de T.I, com atuação na área bem parecidas com outras profissões conhecidas como [[pedreiro|peão de obras]], peão de fábrica e ''office boy'', com a única diferença que a profissão do artigo pode ser exercida por qualquer pirralho de 10 anos.
+[[Arquivo:Cdoriginal.jpg|thumb|250px|[[Pirataria|Material de trabalho]] de um formatador.]]
+
+==História==
+A profissão está intrinsecamente vinculado com o Windows e foi evolundo (ou regredindo) conforme a evolução dos sistemas não muito operacionais da [[Microsoft|Micro$oft]], começando no [[Microsoft Windows 95|windows 95]] e chegando até os dias de hoje, com o [[Windows 10]]. 
+
+Atualmente, a profissão também atua formatando [[Android (sistema operacional)|Android]]s, onde seus trabalhadores funcionam como ''mulas'' do des[[crime organizado|organizado crime]] de revenda de celulares roubados.
+
+[[Arquivo:EMule_s.png|thumb|157px|Exemplo de backup feito por um formatador]]
+
+==Classficações==
+Algumas das classificações de formatadores profissionais.
+
+===Estagiário===
+[[Arquivo:Rupertgrint.jpg|thumb|100px|Típico formatador estagiário]]
+O formatador estagiário, é aquele que aprendeu com algum computeiro, que a palavra formatar é a solução de todos os problemas. Alguns chegam a aprender o comando ''format c:'' imaginando que misticamente seu Windows retornará a funcionar como era antes, simplesmente por ter ''formatado o computador''. Existem relatos ocultos e obscuros de formatadores estagiários que após executarem o milagroso comando ''format c:'' ligarem para seus mestres computeiros desesperados perguntando: ''Formatei, e agora o que eu faço?''.
+
+===Júnior===
+O formatador júnior, é aquele que já sabe o próximo passo da formatação, consegue ''formatar o computador'', instalar o sistema não muito operacional, e seus respectivos aplicativos inúteis, e raramente os drivers para funcionamento de todos periféricos.
+Existem casos de formatadores juniores que formatam o computador pensando: Só formatar, que o windows update conecta na internet e acha os drivers. Porém ao ligar o computador ''formatado'', percebe que o windows não reconheceu nem seu modem onboard, nem sua placa de rede, nem sua usb, nem seu drive de cd-rom para copiar os drivers de outro lugar.
+Este é do tipo que senta na frente do micro enfia seu cd <s>original</s> do sistema não muito operacional para dar ''boot'' e em seguida ir clicando em ''next'', ''accept licence'', ''next'', ''next'', aguardar alguns minutinhos, dar outro ''next'' e clicar em ''finish''.
+
+===Pleno===
+Este formatador já é mais experiente, após longos anos formatando e perdendo tempo a procura de drivers e soluções para os computadores formatados, aprendeu que deve anotar os nomes dos drivers e periféricos das máquinas. Este nível de formatador já conhece ferramentas de backup, se preocupa em fazer cópias dos arquivos antes de sair formatando.
+
+===Sênior===
+O mais avançado dos formatadores, geralmente está prestes a largar a vida de computeiro, e virar padre, político ou pedófilo. Os que seguem carreira na vida de computeiro geralmente seguem para o um futuro promissor na [[POG]].
+Este se preocupa em procurar os drivers, fazer backups, instalar completamente o sistema não muito operacional, testar completamente, antivirus, atualizações completas, todos aplicativos dos clientes, e inclusive backup de coisas ocultas e misteriosas jogadas pelo diretório ''c:\Arquivos de programas'' como dados de pdas, celulares, ou lixos de declaração da receita federal do usuário.
+
+== Ver também ==
+*[[Sobrinho (Profissional)|Sobrinho da T.I.]]
+*[[Formatação de disco]]
+*[[Nerd]]
+
+{{profissões inúteis}}
+
+[[Categoria:Ciência da computação]]
+[[Categoria:Coisas de nerd]]
+[[Categoria:Informática]]
+[[Categoria:Nerds]]

@@ -1,0 +1,54 @@
+{{logotipo_falso|Konamipedia2.png|160|top=120|left=190}}
+{{game}}
+
+{{Infobox Game
+|title     = Bio Miracle Bokutte Upa
+|image     = MiracleUpa.png
+|caption   = Inchamento de inimigos. É bom que eles se prevenem de boquetes.
+|developer = [[Konami|Come na Mi]]
+|publisher = [[Konami|Come na Mi]]
+|released  = [[1988]], [[1993]], [[2008]]
+|genre     = [[Plataforma]]
+|rating    = 0%
+|platform  = [[Famicom Disk System|Famicom Disk Merda System]], [[Nintendinho|Famicom]], [[Virtual Console]]
+|ages      = Livre
+}}
+
+{{vqd|Game do bebê que faz inimigos inchar}}
+{{c|Fiul Fiul|Inimigo inchando}}
+
+'''Bio Miracle Bokutte Upa''' ('''バイオミラクル　ぼくってウパ''') foi um jogo de plataforma pro [[Famicom Disk System|FDS]], mais tarde, redigitalizado em cartucho. Feito em [[1988]], pela [[Konami|Come na Mi]].
+
+== Enredo ==
+
+Assim como o [[Alex Kidd|Porrada-Boy]], Upa é o príncipe de um reino [[Gay|mágico]] que contém bravos lutadores. Um dia, alguém quebrou um pote contendo a alma de Zai, um demônio, que com seu poder, matou os adultos do reino e raptou todos os bebês (execto Upa). Agora, Upa "engatinha" pra esta aventura.
+
+== O game ==
+
+[[Arquivo:UpaIce.png|left|thumb|Upa e sua estátua]]
+
+Upa só tem um ataque básico, no qual deve utilizar seu chocalho pra inchar inimigos. Upa pode encostar para que eles fiquem se rebatendo ou pode pisar neles enquanto eles estiverem inchados. Claro, eles explodem. Não se esqueça de pegar [[peito|leite]] e corações para recobrir sua enrgia. Somente há dois itens no game todo: Um [[Twinbee|sino]] de invencibilidade e um escorpião, que quando cai no chão, treme tudo e os inimigos morrem (os que voam não morrem).
+
+=== Chefões ===
+
+Não irá ser uma lista dos tipos de chefes (apesar de eu já ter fechado o game), mas, todos eles são fáceis de matar (só os cenários que complicam a sua ação): Basta jogar os inimigos inchados de ar nos chefões.
+
+== Relançamentos ==
+
+Devido a popularidade do game na expansão, em [[1993]], a Come na Mi resolveu lançar o game em cartucho pro Famicom. Só há poucas diferenças, entre elas, o chip de som FM do FDS que não está presente ([[Puta que pariu|PQP]]!!!), os modos Easy e Normal e a retiração de Upa na tela-título. 20 anos depois da versão de FDS, o game saiu pro Virtual Console nas três regiões em [[2008]]. A versão disponível é a de FDS (aí sim!)
+
+== Ver também ==
+
+* [[Yume Penguin Monogatari]]
+* [[Wai Wai World 2: SOS!! Parsley Jou]]
+* [[Fantastic Journey]] (na versão de [[SNES|Super Famicom]] Upa está presente, junto com Rupa, bebê secundário)
+* [[Jikkyou Oshaberi Parodius]]
+
+{{Parodius}}
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Famicom Disk System]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos lançados em 1988]]

@@ -1,0 +1,17 @@
+'''Recursividade''', ou recursão, é um negócio redundante e doentio, bastante usado na computação, principalmente a programação, que faz com que uma função possa invocar a si mesma, ou seja, pode fazer igual um esquizofrênico e chamar a si mesmo, numa espiral de loucura. Também se aplica à vida fora da virgindade, nas artes, naqueles desenhos que vão se repetindo dentro do próprio desenho, até o infinito.
+[[arquivo:recursão.jpg|thumb|center|120px|Quantas voltas!!!]]
+
+== O que é a recursividade? ==
+'''Recursividade''', ou recursão, é um negócio redundante e doentio, bastante usado na computação, principalmente a programação, que faz com que uma função possa invocar a si mesma, ou seja, pode fazer igual um esquizofrênico e chamar a si mesmo, numa espiral de loucura. Também se aplica à vida fora da virgindade, nas artes, naqueles desenhos que vão se repetindo dentro do próprio desenho, até o infinito.
+[[arquivo:recursão.jpg|thumb|center||120px|Quantas voltas!!!]]
+
+== Conceito de recursividade ==
+'''Recursividade''', ou recursão, é um negócio redundante e doentio, bastante usado na computação, principalmente a programação, que faz com que uma função possa invocar a si mesma, ou seja, pode fazer igual um esquizofrênico e chamar a si mesmo, numa espiral de loucura. Também se aplica à vida fora da virgindade, nas artes, naqueles desenhos que vão se repetindo dentro do próprio desenho, até o infinito.
+[[arquivo:recursão.jpg|thumb|center|120px|Quantas voltas!!!]]
+
+== Ver também ==
+
+*[[Recursão]]
+
+[[Categoria:Programação]]
+[[Categoria:AAAAA]]

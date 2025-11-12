@@ -1,0 +1,42 @@
+{{Infobox/elemento químico
+|nome              = Telúrio
+|imagem            = Pedaço de telúrio.jpg
+|legenda           = Um telúrio bem deprimido por ter sido confundido com bosta, habitando um piso de banheiro público
+|símbolo           = Teta
+|número            = 52
+|série             = [[Semimetal|metal indeciso]]
+|isótopo           = <sup>112</sup>Te ([[ou não]])
+|massa_atômica     = 127,60 cu
+|dureza            = 2,25 (acho que quer dizer mais ou menos duro)
+|radioatividade    = Nenhuma
+|toxicidade        = Nenhuma
+|comestível        = Não
+|inalável          = Sim
+|passar_na_pele    = por 1 próton não serve como [[Mertiolate]]
+|onde_encontrar    = [[ouro de tolo]]
+|ponto_de_fusão    = 449,51ºC
+|ponto_de_ebulição = 987,85ºC
+|super-herói       = Nula
+}}
+
+'''Telúrio''' é o 52° elemento da tabela periódica, sendo este um [[Semimetal|metal indeciso]], faltando só 1 próton e 1 elétron para ser um [[iodo]], portanto não serve para fazer [[Mertiolate]]. Na verdade quase não tem uso, por isso ninguém lembra ou se importa com o telúrio.
+
+==História==
+O elemento foi descoberto em 1782, mas isso não fez o seu descobridor mais feliz, o alemão Dr. Franz Chucrute, que descobriu o telúrio como sendo a impureza da [[calaverita|caveirita]] ([[Cachorro|Au]]Te<sub>2</sub>), minério estudado por [[Raul Seixas]] e apelidado de [[Ouro de Tolo]].
+
+Apesar da descoberta, o telúrio jamais foi explorado, procurado, utilizado ou tido como útil, então está ali mais para preencher uma lacuna na tabela periódica mesmo.
+
+== Características ==
+
+O telúrio, que é um elemento bem conformado e maduro que entende sua inutilidade, sabe que nãos erve nem para fazer boas ligas metálicas como os metais de transição, e menos ainda útil como gás, então tenta focar seus elétrons para torná-lo pelo menos resistente contra ácidos e ter assim pelo menos alguma característica mais própria. Dizem que é branco-prateado, mas parece que químico não sabe o que é a cor branca, porque é claramente só prateado. Além disso é frágil e solúvel em [[água de Fiji]], com quem forma uma cor vermelha rosada, resultando assim no [[Guaraná Jesus]].
+
+== Aplicações ==
+
+O telúrio é usado em painéis solares devido à sua alta condutividade de energia, mas como esse tecnologia é idiota de se usar atualmente, o telúrio só será importante quando os árabes venderem a última gota do petróleo de suas terras. Outro uso não é muito difundido é que é graças ao telúrio que é possível gravar dados em discos CD-RW e DVD-RW, o que, no entanto, deixa de ser importante com a criação de pendrives e smartphones. O telúrio tem ainda muitas outras aplicações que, como as já descritas, já saíram de moda e não há nada a mencionar sobre elas, porque a humanidade sempre vai achar algo melhor pra usar no lugar do telúrio.
+
+{{Tabela periódica}}
+
+[[Categoria:Elementos químicos]]
+[[Categoria:Semimetais]]
+
+[[pl:Tellur]]

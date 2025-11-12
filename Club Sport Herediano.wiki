@@ -1,0 +1,59 @@
+{{Box ClubeFutebol
+|cor_clara         = red
+|cor_escura        = orange
+|brasao            = Escudo do Herediano.png
+|hino              = 
+|nome_oficial      = Club Enfermedad Hereditaria
+|origem            = {{CRC}}''' - [[Heredia]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = [[tigre-de-bengala]]
+|ilustre           = 
+|estadio           = [[Estadio Eladio Rosabal Cordero|Estadio Cordero com Agridoce]]
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Costarriquenho
+|divisao           = Primera División
+|títulos           = 
+|ranking           = 
+}}
+
+'''Club Sport Herediano''' é o terceiro time da Costa Rica, ou seja, um time realmente extremamente muito ruim, pois tem dificuldades de ganhar até dentro da Costa Rica. Por mais que seus torcedores insistam e inventem justificativas para a falta de sucesso do time, do desfortúnio à arbitragem que sempre só favorece os outros, o fato é que é apenas um time muito ruim que precisa ficar vencendo de goleadas times horríveis de El Salvador para ter o mínimo de auto-estima.
+
+== História ==
+=== Fundação ===
+
+Clube fundado em 1918, o Herediano foi um dos responsáveis por fundar o campeonato costarriquenho junto ao [[Alajuelense]]. O combinado ficou para o Alajuelense ficar com as vitórias e troféus, enquanto o Herediano apenas faria número e perderia tudo, assim gerando popularidade para o campeonato, e prestígio para a equipe adversária.
+
+=== Primeiros anos ===
+
+[[Arquivo:Herediano hinchada.jpg|thumb|left|Torcida do Heridiano jogando [[gás mostarda]] nos adversários.]]
+
+Para não ficar assim tão na cara que o Herediano entregava todos os jogos, o time dominou o futebol costarriquenho a partir da década de 40. Ganhou dessa maneira os numerosos 12 títulos nacionais de 1920 a 1950.
+
+Quando voltou a ser impedido de ganhar alguma coisa em seu próprio país, passou a viajar para lixos vizinhos, como [[El Salvador]], onde fez torneios de verão contra times como o [[Cuscatlán]], vítima da maior goleada do Herediano, uma vitória de 11x0 no primeiro jogo e no segundo jogo nova vitória de 11x0 com placar agregado de 22x0.
+
+=== Época dos jejuns ===
+
+Depois do surgimento dos times [[Alajuelense]] e [[Deportivo Saprissa]], o Herediano passou a sofrer para chegar numa mísera final, e quando chegava sempre perdia. Foram 50 anos nessa rotina de derrotas, elegendo entre Alajulense e Saprissa para quem perder.
+
+=== Década de 2010 ===
+
+A partir de 2010 o Herediano passou a disputar a [[Liga dos Campeões da CONCACAF]] após 30 anos exilado de competições internacionais por ser time ruim demais (em 1980 perdeu para o Xurupita das Ilhas Turcas e Caicos, derrota que custou o virtual banimento do Herediano de competições internacionais, pois o time ficou com -4567 pontos negativos no ranking da FIFA, e precisou de muitos anos para zerá-los).
+
+== Títulos ==
+
+* '''[[Campeonato Costarriquenho]]''' - mais de 20
+
+{{Campeonato Costarriquenho}}
+{{Liga dos Campeões da CONCACAF}}
+
+[[Categoria:Times que há mais de 70 anos não caíram]]
+[[Categoria:Times de futebol da Costa Rica|Herediano]]

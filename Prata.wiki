@@ -1,0 +1,110 @@
+{{logotipo falso|Desciclo_sirver.png}}
+<font color=silver>
+{{Infobox/elemento químico
+|nome              = Prata
+|imagem            = Barco de prata.jpg
+|legenda           = Um mundo de prata. Obviamente o barco não sai do lugar já que o mar é sólido
+|símbolo           = [[Age of Empires|Ag]]
+|número            = [[47]]
+|série             = [[metais de transição|metal que é metal]]
+|isótopo           = <sup>107</sup>Ag
+|massa_atômica     = 107,86 cus
+|dureza            = Duro
+|radioatividade    = Nula
+|toxicidade        = Tem
+|comestível        = Só em embalagens
+|inalável          = Não
+|passar_na_pele    = Pode
+|onde_encontrar    = Medalhas do [[Rubinho Barrichello|Rubinho]] e do [[Vasco]]
+|ponto_de_fusão    = -
+|ponto_de_ebulição = -
+|super-herói       = sim ([[Surfista Prateado]])
+}}
+{{cgoogle|Barras de prata que valem mais do que dinheiro|prata}}
+{{experimente|Barras de ouro que valem mais que prata|prata}}
+
+{{c|Na União Soviética, a prata ganha o <s>[[Rubens Barrichello|Rubinho]]</s> 2º|Reversal Russa|prata}}
+{{c|Sair daqui é impossível...|Jogador de [[League of Legends|Lol]] sobre o elo Prata}}
+
+'''Prata''' é um elemento químico (na verdade para a maioria das pessoas é um negocinho cinza que eles colocam nas medalhas de quem fica em 2º).
+
+==<font color=silver>Utilidades==
+
+*Vender ouro 18k por 21k
+*Fiação de casas de ricos
+*Fazer medalhas para olimpíadas
+*<s>Premiar o [[Rubens Barrichello|Rubinho]]</s> essa utilidade passou a ser feita pelo bronze
+*Fazer moedas de países atrasados que ainda não conhecem o níquel
+*Ocupar uma casinha na tabela periódica
+*Simbolizar o [[Clube de Regatas Vasco da Gama]] (ouro que não é).
+
+==<font color=silver>Principais problemas causadas pelo mesmo==
+Até o presente momento nenhuma pessoa que tenha ingerido mais 1Kg da metal disse que faz qualquer mal a saúde humana, para tanto, tudo indica que não há contra-indicações contra a ingestão
+
+==<font color=silver>Características físicas do metal==
+[[Arquivo:Chrome prateado.jpg|thumb|right|200px|[[Chrome]] é prata. Somente o [[Firefox]] é ouro ou [[bronze]] já que ele é laranja (enquanto isso o [[Internet Explorer]] nem entra no pódio).]]
+*Apresenta cor prata
+*Vale menos que o [[ouro]]
+*Vale mais que o [[bronze]]
+
+==<font color=silver>Composição atômica==
+
+{{c|Prata pura usada em jóias é de 100% de átomos de prata|Capitão Óbvio|Composição atômica da prata}}
+{{c|A exceção são as bolas de prata ocas que são compostas também por [[ar]]|Capitão Óbvio|Composição atômica da prata}}
+
+Na verdade, o Capitão Óbvio acima está errado, na verdade a Prata 950 usada em joias tem pureza de 95% apenas.
+
+E você pergunta: e daí, o que isso muda na minha vida? Eu te respondo: você vai passar a saber que nem sempre o Capitão Óbvio está correto e que as vezes o que parece óbvio como você ser burro as vezes está errado (afinal, na verdade analisando bem você verá que você é, na verdade, muito burro).
+
+==<font color=silver>Onde encontrar==
+Embora seja muito comum em minas e outros locais do gênero, o local mais fácil de se encontrar são nas joalherias, e também é bastante fácil de conseguir umas por lá. Basta colocar o dedo debaixo da camisa e dizer isso é um assalto. Embora somente você seria tão bobo para roubar prata numa joalheria já que tem coisas muito melhores por lá.
+
+==<font color=silver>Publicidade DescicloAlquimiMaquina==
+Compre já sua incrível, versão limitada a 100 unidades por cliente. Temos preços e condições para os 100 primeiros que ligarem agora 0800 616161. A DescicloAlquimiMaquina é uma eficaz maquina de alquimia portátil capaz de criar 100g de prata a partir de 1 dos seguintes composto:
+
+*101g de prata
+*79g de [[ouro]]
+*1 [[rubi]]
+*2,5 [[diamantes]]
+*100 de toneladas de cabelo do [[Pelé]]
+*1 [[tua mãe]] viva
+*1000000000000 de [[você]]
+*10000000000000000000000000 de peidos seus (vai juntando num contêiner ai)
+*um fio de cabelo de chuck norris (se vira pra conseguir essa porra manolo)
+*8 trilhoes de mafagafos from hell 666
+
+==<font color=silver>Fotos que valem algumas [[dinheiro|pratas]]==
+<div align=center>
+<gallery>
+Imagem:agua prata.jpg|Um bebedouro de água de prata, a fonte da [[Água Prata]]
+Imagem:Porco voador de prata.jpg|Um porco voador de asas de prata
+Imagem:Prata no pescoco.jpg|O pescoço de uma gostosa, ah e uma corrente de prata
+Imagem:Bela moto.jpg|Uma moto prata grudada na [[parede]], ou seria a câmera que está torta?
+</gallery>
+</div>
+
+
+{{Tabela Periódica}}
+
+<css>
+#bodyContent {color:black}
+a {color:black}
+a:visited {color:black}
+a:new {color:red}
+</css>
+
+[[Categoria:Elementos químicos]]
+[[Categoria:Metais de transição]]
+
+[[bar:Silber]]
+[[da:Sølv]]
+[[en:Silver]]
+[[fr:Argent]]
+[[ja:銀]]
+[[ko:은]]
+[[nds:Silber]]
+[[no:Sølv]]
+[[pl:Srebro]]
+[[ru:Серебро]]
+[[sv:Silver]]
+[[zh-tw:銀]]

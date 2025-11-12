@@ -1,0 +1,28 @@
+{{computeiro}}
+
+[[Arquivo:Rede geográfica.jpg|thumb|300px|Uma rede geograficamente localizada (rede de grande porte)]]
+
+As '''redes geograficamente distribuídas''' ou '''redes de grande porte''' são [[redes de computadores]] de longo alcance, que talvez furem até o reto e o intestino tamanha a longura. É o [[Kid Bengala]] das redes. Também são chamadas de '''WAN'''.
+
+== Conceito ==
+
+As rede geograficamente distribuídas são as maiores redes, e podem envolver montanhas, vales, golfos e qualquer daquelas merdas de acidentes geográficos que aprendemos no ginásio.
+
+Por causa do tamanho, possuem taxa de transmissão menor, maior lentidão e mais erros, mas é bem como diz aquele ditado, o que adianta ser grande se não sabe fazer o serviço direito, então melhor um pequenino brincalhão (LAN).
+
+Devido ao tamanho, não é qualquer [[Oi|companhia vagabunda]] que poderá fazer o gerenciamento dessas redes geograficamente localizadas. Necessário que seja um provedor largo pra aguentar a pressão, talvez somente a ''suamãe.net'' aguente uma rede de gigante porte.
+
+Talvez o exemplo mais bosta de WAN é a própria [[internet]], e deve ser o única rede WAN também porque é sempre o mesmo exemplo dado.
+
+Sendo uma rede geograficamente localizada, ela necessidade uma QoS (Quero o Salame). E o que é QoS para a rede? Esse QoS define a vontade que a rede tem de meter rola de forma íntegra e satisfatória. A QoS evita que haja uma meia bomba ou uma gozada (transmissão) quebrada.
+
+Dentre os protocolos das redes geograficamente distribuídas e localizadas pode-se citar as redes ponto-a-ponto (PPP), que não devem ser confundidas com os P2P (aquele usado quando baixávamos putaria nos programas de compartilhamento de dados), e são o protocolo mais usado. Também existem as redes [[ATM]] (ass-to-mouth) e Frame Relay, mas isso ninguém nunca usou na vida.
+
+== Ver também ==
+
+* [[Redes de computadores]]
+* [[Frame Relay]]
+* [[Ponto-a-ponto]]
+* [[Asynchronous Transfer Mode|ATM]]
+
+[[Categoria:Redes de computadores]]

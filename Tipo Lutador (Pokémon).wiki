@@ -1,0 +1,26 @@
+{{lutador}}
+
+[[Arquivo:Mamamama.jpg|thumb|[[Seu Madruga|Exemplo]] de pokémon que é do tipo lutador e do [[Padre Quevedo|non eczistente]] tipo luz.]]
+O '''tipo Lutador dos Pokémon''' é um tipo que inicialmente foi criado apenas com o propósito de englobar 75% de todos os pokémons macho<s>cados</s> existentes. Na Geração I, acredite, eles quase empataram com os insetos no quesito inutilidade, já que como os pokémons venenosos apareciam em todo lugar, os de macumba estavam fazendo a festa, e na época nem existiam as trevas e os robôs para os pokémons de luta combaterem, eles eram sempre esquecidos, apesar de serem considerados os melhores... pelo seu [[irmãozinho mais novo]].
+
+Só que hoje em dia as bruxas e adivinhos em geral perderam popularidade entre os melhores treinadores, exceto se forem lendários (já que os seus ataques só são bons contra os pokémons lutadores e contra as caveiras que significam ''[[veneno]]'', e não afetam os pokémons satânicos). Foi assim que o tipo lutador passou a ser um dos mais usados, ainda mais agora que as trevas chegaram pra dominar as batalhas pokémon, e pra combatê-las foi necessário contratar mais alguns super-heróis no mundo Pokémon. Em contraste a isso hoje em dia já existem alguns pokémons lutadores mais boiolas, como o [[Blaziken|Blazi'''gay''']], o [[Gallade|'''Gay'''llade]], o [[Medicham|Me'''bicha'''m]] e o [[Virizion|'''Viadim'''zion]]. Além disso, seus ataques continuam sem poder afetar os pokémons mortos que saíram de suas tumbas, e como essa variedade cresceu, existe um bom número de pokémons que são imunes a golpes de karatê e que podem revidar de volta com um ataque da foice da [[Dona Morte]].
+
+Ofensivamente, os pokémons lutadores são bons contra as trevas e os robôs como cansamos de dizer acima, e também contra os pokémons de pedra pedrosa e os de gelo gelado (se tivessem levado um pokémon lutador pro Titanic, talvez eles tivessem se salvado), e são o único tipo que atinge super-efetivamente os pokémons <s>a</s>normais. Mas ainda assim, os pokémons macho-man são [[Bicha|preocupadíssimos, aiai]], com insetinhos pequeninos que resistem a seus ataques. Isso sem falar que pokémons de macumba, venenosos e com sangue de galinha resistem também a ataques de luta (os venenosos sabe-se lá porquê, deve ser porque [[anabolizante]]s são venenos). E como dito acima, seus ataques nem conseguem tocar um pokémon que já foi mandado pro colo do Capeta (não confundir com os pokémons DO capeta, que são atingidos super-efetivamente pelos golpes que a vida dá).
+
+Defensivamente, os pokémons lutadores resistem à bicadas de formiga, o que é bom pra eles não precisarem usar pomada pra curar essas bicadas. Eles também resistem a tacar pedras nele ([[golem]]s de plantão, cuidado!), e aos truques sujos das trevas. Mas eles são fracos contra qualquer macumba que joguem neles e por incrível que pareça, contra cocô de pombo. E eles não possuem imunidade a [[porra nenhuma]]. Falando em fraqueza contra macumbas, os lutadores também ganharam uma desvantagem grande contra o tipo fada e suas magiazinhas gays, mostrando o quanto o mundo pokémon também é um prato cheio para a masculinidade frágil...
+
+==Ofensivamente==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|'''<font color=#8B0000>Resistem aos seus ataques:</font>'''||'''<font color=green>São fracos aos seus ataques:</font>'''||'''<font color=#8B0000>São imunes aos seus ataques:</font>'''
+|-
+|[[Arquivo:Veneno.gif|75px|link=Tipo Veneno (Pokémon)|Veneno]] [[Arquivo:Bruxa-1-.jpg|100px|link=Tipo Psíquico (Pokémon)|Psíquico]] [[Arquivo:Orlyaveztruz.JPG|100px|link=Tipo Voador (Pokémon)|Voador]] [[Arquivo:Borboletinha kawaii.jpg|100px|link=Tipo Inseto (Pokémon)|Inseto]] [[Arquivo:Essa fadenha.jpg|100px|link=Tipo Fairy (Pokémon)|Fada]]||[[Arquivo:Animation Culumon Kawaiii.gif|100px|link=Tipo Normal (Pokémon)|Normal]] [[Arquivo:Pedra6.jpg|100px|link=Tipo Rocha (Pokémon)|Pedra]] [[Arquivo:Satanic big.gif|100px|link=Tipo Trevas (Pokémon)|Trevas]] [[Arquivo:Sorvete de baunilha e de chocolate.jpg|100px|link=Tipo Gelo (Pokémon)|Gelo]] [[Arquivo:Robô.png|100px|link=Tipo Aço (Pokémon)|Aço]]||[[Arquivo:Ghost tosco.jpg|100px|link=Tipo Fantasma (Pokémon)|Fantasma]]
+|}
+
+==Defensivamente==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|'''<font color=green>Resistem aos seguintes tipos:</font>'''||'''<font color=#8B0000>São fracos aos seguintes tipos:'''</font>||'''<font color=green>São imunes aos seguintes tipos:</font>'''
+|-
+|[[Arquivo:Pedra6.jpg|100px|link=Tipo Rocha (Pokémon)|Pedra]] [[Arquivo:Satanic big.gif|100px|link=Tipo Trevas (Pokémon)|Trevas]] [[Arquivo:Borboletinha kawaii.jpg|100px|link=Tipo Inseto (Pokémon)|Inseto]]||[[Arquivo:Bruxa-1-.jpg|100px|link=Tipo Psíquico (Pokémon)|Psíquico]] [[Arquivo:Orlyaveztruz.JPG|100px|link=Tipo Voador (Pokémon)|Voador]]||[[Arquivo:Tumbleweed01.gif|100px|Merda nenhuma]]
+|}
+
+{{TiposPokémon|tipo=Fighting}}

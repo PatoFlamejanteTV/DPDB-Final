@@ -1,0 +1,23 @@
+{{taxocaixa
+| nome           = Misturazoada
+| cor            = #FF0B0F
+| imagem         = Fdl17-9-grey.jpg
+| imagem_legenda = ''[[Myxobolus cerebralis]]'', um vírus em forma de [[hidra]]
+| domínio        = [[Eukaryota|Eu de cara rota]]
+| reino          = [[Animalia|Animaloide]]
+| filo           = [[Cnidaria|Quem me daria]]
+| subfilo        = [[Endocnidozoa|Andy Quinido Zoa]]
+| classe      = [[Myxozoa|Misturazoada]] 
+}}
+
+
+'''Myxozoa''' era um [[filo]] que posteriormente virou uma [[classe (biologia)|classe]] dos [[cnidaria|cnidários]], só que numa profundidade bem tosca, já que são literalmente [[pólipo]]s desgarrados que invés de se organizarem igual a uma hidra ou uma [[água-viva]], decidiram virar [[parasita]]s de diversos tipos de [[peixe]]s, com um nomezinho de mixozoários. 
+
+São divididos em dois tipinhos: os [[Malacosporea]], que curtem atacar o [[salmão]] e deixar ele com o gosto mais podre que [[sushi]] de beira de estrada; e os [[Myxosporea]], mais complexos, que exigem dois hospedeiros na vida, normalmente primeiro um [[poliqueta]] otário e posteriormente um peixe mais otário ainda que porventura decidir comer desavisadamente o tal poliqueta.
+
+Alguns mixozoários são ainda mais marotos, podendo contaminar animais terrestres e até mesmo o ser humano, e inclusive podendo viver o resto da vida só em hospedeiros terrestres, o que os tornam mais versáteis que o [[Nemo]] de [[Procurando Nemo]] na hora de fugir do mar e conhecer o mundo exterior. Coitados apenas dos que porventura têm de hospedar essas criaturas nojentas, achando estar sei lá com [[azia]] e na verdade são as cerdas urticantes dessas pocilgas minúsculas.
+
+{{Mini}}
+
+[[Categoria:Cnidaria|Myxozoa]]
+[[Categoria:Parasitas|Myxozoa]]

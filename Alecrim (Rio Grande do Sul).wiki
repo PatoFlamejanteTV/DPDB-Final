@@ -1,0 +1,91 @@
+{{DadosMunicípioBrasil
+<!-- GeoID=4300307 -->
+<!-- Cabeçalho -->
+| nome                 = Alecrim dourado<br>que nasceu no campo...
+| foto                 = 
+| leg_foto             = 
+| apelido              = 
+<!-- Dados gerais -->
+| brasão               = Alecrim_COR.jpg‎
+| bandeira             = Alecrim.jpg‎
+| link_brasão          = 
+| link_bandeira        = 
+| link_hino            = 
+| aniversário          = [[24]] de [[Onzembro]]
+| fundação             = [[24]] de [[Onzembro]] de [[19]][[69]]
+| gentílico            = alecrinense
+| lema                 = [[Foda-se]]
+| prefeito             = [[H. Romeu Pinto]]
+| partido              = [[Puta que pariu|PQP]]
+| fim_mandato          = [[31 de Fevereiro]] de [[8299]]
+<!-- Localização -->
+| mapa                 = 
+| latP                 = S | latG = 27 | latM = 39 | latS = 18
+| lonP                 = O | lonG = 54 | lonM = 45 | lonS = 50
+| estado               = Rio Grande do Sul
+| mesorregião          = [[Mesorregião do Noroeste Rio-Grandense|Noroeste Rio-grandense]]
+| data_mesorregião     = [[IBGE]]/[[2008]] <ref name="IBGE_DTB_2008">{{citar web |url=ftp://geoftp.ibge.gov.br/Organizacao/Divisao_Territorial/2008/DTB_2008.zip |titulo=Divisão Territorial do Brasil |data=1 de julho de 2008 |obra=Divisão Territorial do Brasil e Limites Territoriais| publicado=Instituto Brasileiro de Geografia e Estatística (IBGE) |acessodata=11 de outubro de 2008}}</ref>
+| microrregião         = [[Microrregião de Santa Rosa|Santa Rosa]]
+| data_microrregião    = [[IBGE]]/[[2008]] <ref name="IBGE_DTB_2008" />
+| região_metropolitana = 
+| vizinhos             = [[Casa do Caralho]], [[Onde o Vento faz a Curva]], [[Casa do Chapéu]] e [[Casa da Dinda]].
+| dist_capital         = 78364872643
+<!-- Características geográficas -->
+| área                 = 0,0002
+| população            = 5
+| data_pop             = est. [[IBGE]]/[[2008]] <ref name="IBGE_Pop_2008">{{citar web | url = http://www.ibge.gov.br/home/estatistica/populacao/estimativa2008/POP2008_DOU.pdf | titulo = Estimativas da população para 1º de julho de 2008| data = 29 de agosto de 2008 | publicado = Instituto Brasileiro de Geografia e Estatística (IBGE) | data = 29 de agosto de 2008 | acessodata = 5 de setembro de 2008 | formato = [[PDF]] }}</ref>
+| densidade            = 5
+| altitude             = - 200,4
+| clima                = Infernal
+| idioma               = [[alecrinês]]
+| sigla_clima          = 
+| fuso_hor             = -3
+<!-- Indicadores -->
+| idh                  = - 324736487634 <!--favor manter o formato-->
+| data_idh             = [[PNUD]]/[[2000]] <ref name="PNUD_IDH_2000">{{citar web |url=http://www.pnud.org.br/atlas/ranking/IDH-M%2091%2000%20Ranking%20decrescente%20(pelos%20dados%20de%202000).htm |titulo=Ranking decrescente do IDH-M dos municípios do Brasil |data=2000 |obra=Atlas do Desenvolvimento Humano|publicado=Programa das Nações Unidas para o Desenvolvimento (PNUD) |acessodata=11 de outubro de 2008}}</ref>
+| pib                  = - 44.373 mil
+| data_pib             = [[IBGE]]/[[2005]] <ref name="IBGE_PIB_2005">{{citar web |url=http://www.ibge.gov.br/home/estatistica/economia/pibmunicipios/2005/tab01.pdf |titulo=Produto Interno Bruto dos Municípios 2002-2005 |data=19 de dezembro de 2007 |publicado=Instituto Brasileiro de Geografia e Estatística (IBGE) |acessodata=11 de outubro de 2008}}</ref>
+| pib_per_capita       = - 28736482376482376443 
+| data_pib_per_capita  = [[IBGE]]/[[2005]] <ref name="IBGE_PIB_2005" />
+}}
+
+==A cidade==
+Todos os visitantes da cidade logo que passam o pórtico novo, devem obrigatoriamente parar no posto da Polícia Rodoviária Federal para retirar gratuitamente o guia do turista em Alecrim. São dicas sobre segurança: ("Não beba com o Marinão e nem pense chamar ele de 7 pila,se não ele irá jogar calcinhas, nós não nos responsabilizamos! "), dicas de turismo: Dê uma passada no cuíudo, é a balada de Alecrim, muita cerveja e sinuca. Existe o estádio de futebol, que fica no Clube Veterano, onde todo ano tem o famoso clássico, "Os de dentro" x "os de fora". "Visite o Bonquiévitch, se souber onde fica. Há também o ilustre Passarinho e suas medidas precisas em relação ao asfalto. E dicas sobre a língua oficial: o [[alecrinês]].
+
+Dentre os eventos municipais, destacam-se o Natal Luz, com presença ilustre do Chuck Noris, que todo ano, a bordo da pampa da prefeitura, distribui balas e doces às crianças que comparecerem ao local (sendo que nesse ano que passou foi considerado criança todo moleque de apenas até 10 anos, devido à crise, tendo sido necessária ameaça pelo microfone de que iam chamar o Brigadiano Sílvio, do contrário os marmanjos de 12 não sairiam da fila). 
+
+São características da cidade as carretas agrícolas, pequenas caminhonetes rústicas feitas de barro pelos agricultores usadas para transporte de todo tipo de cultura e os corcéis (não os cavalos, os carros mesmo). Mas é Corcel I, porque não tem dinheiro para comprar o Corcel II. Apesar de que sempre vemos uns 2 ou 3 corcéis na frente da oficina do Debi e Lóide, ou do Fogaça... ahhhh... esperando conserto.
+
+==Relevo==
+Basta cruzar as divisas dos municípios limítrofes com Alecrims  city para se notar o solo evadido e as lajes aflorando. Vastas extensões de rocha nua ou recoberta com uma finíssima camada de solo, onde apenas crescem gramíneas ou a característica mata espinhenta do noroeste do estado do Rio Grande do Sul – própia pra criar gado é claro, isto quando não dá seca. Avistam-se, imediatamente, os platôs não muito elevados apontando para o rio uruguai, os quais devem facilitar sobremaneira a agricultura, sendo por consequencia também responsáveis pelo latifúndio do Scalco e do Nei, que compram barato dos que se vão pra Novo Hamburgo.
+
+==Praias==
+A praia Porto Biguá Beach localiza-se nas proximidades da cidade, e vem a ser uma das mais badaladas praias do Oeste Gaucho.
+Iguarias como a cerveja de litro Budweiser e bala de leite são importados da Argentina atráves do Rio Uruguai, normalmente trazidas à caíco.
+Só tem gente boa, e o todos se orgulham por nunca um habitante dali ter sido preso.
+
+Como atração, também há a Ilha do Lageado Silva, que serve principalmente para "veraneio" das famílias mais abastadas, principalmente do município vizinho de Santo Cristo. Figuras ilustres daquela municipalidade possuem mansões na beira do rio, como o "Chandir Schumi" e sua turma.
+
+==Destaque na imprensa mundial==
+[[Arquivo:Rua alecrim.jpg|thumb|270px|Paisagem típica da cidade]]
+É crescente o destaque dado ao município na imprensa do mundo todo. NY Times, Le Monde, Clarín, Jornal Noroeste... Todos já deram ao menos uma notinha sobre esse amado recanto e prêmio de primeiro lugar no Brasil em gestão e qualidade de vida, claro, pacata como é tem que ganhar em alguma coisa.
+A glória suprema foi alcançada com a transmissão ao vivo do Jornal do Almoço regional ali da praça. O Jotaéder de terno e bermuda e a equipe toda ali firme no calor.
+
+Claro que nem tudo são flores de alecrim nesse município. A imprensa já muito noticiou sobre a rota do tráfico. Yes, temos nossas gangues também, como toda boa metrópole. Cidade pacata o carvalho! Todos sabem quem são nossos gloriosos traficantes mas é proibido falar. Sim. Quem falar, masca terra de cemitério e apanha de relho. Se é que me entende.
+
+==População==
+Até 2004, Moravam nessa cidade cerca de 7650 pessoas. Mas agora não se sabe a população exata. Há quem diga que em [[Santa Rosa]], cidade próxima a Alecrim, em dezembro de 2011, pode acontecer o [[UFC]] [[Santa Rosa]] x Alecrim, na qual dois garotos jovens, um de cada cidade disputarão o amor de uma garota.
+
+==Território==
+Alecrim possui um anexo territorial, mais conhecido como Missiones, e vai até aproximadamente a cidade de Oberá. Constantemente, são vistos habitantes de Alecrim em Oberá e muitos habitantes do anexo, andando pela ruas de Alecrim, dizem que a maioria trabalha para o Nei. O último avanço foi o Bailão situado na ZONA central da cidade de Alecrim, debaixo de uma lona, na esquina em frente da estação rodovial, com a boa música de violeiros e gaiteiros, e um grande número de frequentadores vindo do anexo. É o progresso chegando...
+
+==Idioma==
+{{Principal|[[Alecrinês]]}}
+A cidade possui o seu idioma próprio, uma variante da língua portuguesa que só é entendida pelos próprios habitantes de Alecrim.
+
+==Ligações externas==
+<references/>
+{{Rio Grande do Sul}}
+
+[[Categoria:Cidades do Rio Grande do Sul]]
+[[Categoria:Fronteira Argentina-Brasil]]

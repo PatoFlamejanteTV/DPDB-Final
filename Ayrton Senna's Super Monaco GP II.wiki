@@ -1,0 +1,83 @@
+{{DISPLAYTITLE: Super Monaco Grand Prix 2, estrelando Ayrton Senna}}
+{{game}}
+
+{{Infobox Game
+|title     = {{PAGENAME}}
+|image     = SuperGP2.jpg
+|caption   = As conquistas de Ayrton Senna!
+|developer = [[Sega|CEEEGAAA!]]/[[CRI Middleware|CSK Research Institute]]
+|publisher = [[Sega|CEEEGAAA!]]
+|released  = [[1992]]
+|genre     = {{RCG}}
+|rating    = 0%
+|platform  = [[Mega Drive|Merda Drive]], [[Master System]] e [[Game Gear|Tijolo Gear]]
+|ages      = Livre
+}}
+
+{{vqd|Super Monaco GP com endorsamento}}
+{{c|Agora que eu morri, não tem ninguém pra cuidar de meu game e nem os meus empresários!|Ayrton Senna|{{PAGENAME}}}}
+{{c|Eu entendo o seu problema!|Colin McRae|Ayrton Senna}}
+
+'''Aryton Senna's Super Monaco GP II''' (ou simplesmente '''Super Monaco GP II''') foi a sequência de [[Super Monaco GP]], no qual houve poucas mudanças, incluíndo endorsamento de [[Ayrton Senna]]. Feito em [[1992]], pela [[Sega|CEEEEEEEEEEEEEGAAAAAAAAAAA!!!]]
+
+==O game==
+
+O game tem os mesmos modos de seu antecessor. Senna GP é o Super Monaco GP, World Championship é uma espécie de [[Show Business]] do game e por fim, o Free Practice serve pra você andar nas pistas e treinar nelas. Você irá controlar Senna em todos os modos, pois ele já ganhou 16 ([[Mega Drive|SIXTEEN-BIT!]]) pistas seguidas, incluíndo a de [[Monaco]]. Em Options você pode configurar os controles, a quilometragem, o idioma (inglês ou japonês) e testar sons e vozes. Cansado de anotar [[Password]]s mais grandes que uma [[Televisão|tv]] de 14 polegadas? Nem precisa mais anotar! O game tem bateria própria (a [[CR2032]]) para salvar até 6 games do modo World Championship!
+
+==Pistas==
+
+* [[Estados Unidos da América|Estados Desunidos dos EUA]]
+* [[Brasil|República das Bananas]]
+* [[San Marino|São da Marina]] (Que Qué Isso?)
+* [[Monaco|Mona no co]]
+* [[Canadá|Em cano se dá]]
+* [[México|Mexe o Cu gostoso]]
+* [[França|Jéux Vídeo]]
+* [[Grã-Bretanha|Grande Brito]]
+* [[Alemanha|De um lado é Wodka]]
+* [[Hungria|Com fome]]
+* [[Bélgica|Bela a Angélica]]
+* [[Itália|Pizza!]]
+* [[Portugal|Seu Manuel!]]
+* [[Espanha|Que venham os touros, olé!]]
+* [[Japão|Nippon]]
+* [[Austrália|Golfinhos e Cangurus bons de porrada]]
+
+==Rivais==
+
+São os nomes dos carros:
+
+* [[Nossa Senhora|Madonna]] (o único com Rank S!)
+* [[Ferrari|Firenze]]
+* [[Show do Milhão|Millions]]
+* [[Benetton|Bestwal]]
+* [[Branco|Blanche]]
+* [[Tirano|Tyrant]]
+* [[Loser|Losel]]
+* [[Piada|Joke]]
+* [[Cool]] (???????????????????????????????)
+* [[Dardanelos|Dardan]]
+* [[Ligier|Linden]]
+* [[Minardi|Minarae]]
+* [[Orion|Rigel]]
+* [[Casa|Lares]]
+* [[Pé|Feet]]
+* [[Lua|Moon]]
+* [[Sega|Serga]] (você)
+
+[[Arquivo:SMGP2Sonic.png|left|thumb|[[Sonic the Hedgehog|Sonikkuuuuuu!!!!]]]]
+
+==[[Cu]]riosidades==
+
+* O Serga tem um chassis chamado Serga 1000, mais uma referência ao falido [[SG-1000]], e a Engine, nomeada de SC3000 F12, referência ao [[SC-3000]] (e a tecla [[F12]]?);
+* Todos os carros contém um CSK;
+* O game tem um código de como jogar com a moto de [[Super Hang-On]];
+* O game tem banners do [[Sonic the Hedgehog|Sonic]] em algumas pistas;
+
+{{Game Racing}}
+
+[[Categoria:Jogos lançados em 1992]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Game Gear]]

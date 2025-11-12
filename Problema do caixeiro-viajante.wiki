@@ -1,0 +1,32 @@
+{{Matemática}}
+<br>
+
+{{c|Bater perna é comigo mesmo|Caixeiro viajante|{{PAGENAME}}}}
+{{c|A [[TAM]] até me ofereceu patrocínio para as viagens, mas preferi ir a pé|Caixeiro viajante|seu medo de voar}}
+
+O '''{{PAGENAME}}''' é um problema de cunho econômico-social para o Caixeiro, mas um problema do caramba para a [[Computação]].
+
+== Introdução ==
+Basicamente, o caixeiro ''olho gordo'' quer ir a todas as cidades vender suas [[Polishop|bugigangas]] utilizando para isto o menor caminho, pois além de ''olho gordo'' é preguiçoso.
+
+Ele deve voltar à cidade origem ao final de sua jornada, mas ninguém sabe o porquê.
+
+== A solução ==
+[[Arquivo:Boneco-palito-caixeiro.JPG|thumb|right|O {{PAGENAME}} para iniciantes. O belo ator neste cena é o [[boneco palito]], tendo que escolher o menor caminho de ida e volta para a cidade A]]
+
+Para um número pequeno de [[cidade]]s é fácil, mas as coisas começam a ficar complicadas em lugares como [[São Paulo]], em que há diversos <s>amontoados de favelas</s> cidades formando uma megalópole.
+
+Um Algoritmo Guloso é a solução mais indicada para este problema, pois provê sempre uma solução ótima. O Algoritmo Guloso sugere que o caixeiro viajante coma todas as mercadorias, e a partir daí, não precisará mais ir a cidade alguma, nem voltar à cidade inicial, pois já estará nela.
+
+== A solução para um número grande de cidades ==
+[[Arquivo:Tumbleweed.gif|left]]
+{{break}}
+
+== Ver também ==
+* [[Ciência da Computação]]
+* [[Matemática]]
+<br><br>
+{{esboço}}
+
+[[Categoria:Ciência da computação]]
+[[Categoria:Matemática]]

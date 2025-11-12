@@ -1,0 +1,70 @@
+{{DadosMunicípioBrasil
+<!-- Cabeçalho -->
+| nome                 = Simon Days
+| apelido              = Terra de onde vem o milho 
+<!-- Dados gerais -->
+| bandeira             = Bandeira de Simão Dias.png
+| brasão               = 
+| link_bandeira        = Bandeira de Simão Dias
+| link_brasão          = 
+| aniversário          = 
+| fundação             = 1890 em diante
+| gentílico            = Simondayense
+| lema                 = Vou alí na praça pra fazer nada.
+| apelidos             = Cidade dos governadô
+| prefeito             = Até agora é o mesmo que tava antes desse, mas não mudou
+<!-- Localização -->
+| mapa                 = Sergipe municip simaodias.svg
+| estado               = {{SE}}
+| mesorregião          = [[Região Geográfica Intermediária de Itabaiana|Sergipe Pobre]]
+| microrregião         = [[Região Geográfica Imediata de Lagarto|Lagarto+Riachão]]
+| vizinhos             = [[Paripiranga]], que fica excluída na Bahia. [[Poço Verde]], [[Tobias Barreto (Sergipe)|Tobias Barreto]], [[Riachão do Dantas]], [[Lagarto (Sergipe)|Lagarto]], [[Macambira]], [[Pedra Mole]] e [[Pinhão (Sergipe)|Pinhão]] em Sergipe mesmo.
+| dist_capital         = 100
+<!-- Características geográficas -->
+| área                 = 564.360
+| população            = 40 486 indivíduos
+| idioma               = Alguns falam inglês, outros falam espanhol, outros falam e ninguém entende
+| data_pop             = [[2014]]
+| densidade            = 71,74
+| altitude             = Da serra do cabral pra baixo
+| clima                = quente pra carai, mas as vezes faz frio
+| fuso_hor             = -3
+<!-- Indicadores -->
+| idh                  = Podia ser pior
+| data_idh             = [[IBGE]]/2014
+| pib                  = Nem divulgaram com vergonha
+| data_pib             = [[IBGE]]/2014
+| pib_per_capita       = Menor que sua conta bancária
+| data_pib_per_capita  = [[IBGE]]/2014
+}}
+
+'''Simão Dias''' é apenas um vilarejo isolado nos confins do interior de [[Sergipe]] e que foi recusado pela Bahia que não fez muita questão daquele pedaço.
+
+== História ==
+
+[[Arquivo:Simão Dias-SE.jpg|thumb|left|Monumento da cidade que faz referência a [[As Aventuras do Jeca Valente]], folclórico conto que narra a fundação da cidade.]]
+
+Inicialmente o território de Simão Dias era ocupada por índios tapuias até o [[século XVI]]. Por serem uma civilização primitiva e sem muitas perspectivas do que fazer, eles apenas colocavam troncos na [[SE-270]] e ficavam ali cobrando [[pedágio]] com apoio da [[Funai]]. Por ficar quase no Acre, a coroa portuguesa nunca se importou com tais práticas e sempre respeitou essa manifestação cultural indígena.
+
+Tudo mudou quando as forças invasoras de [[Maurício de Nassau]] chegaram no [[rio São Francisco]], ameaçando [[Itabaiana (Sergipe)|Itabaiana]] que era famosa pela maior feira de porcaria do mundo. Todos aqueles considerados inconvenientes decidiram fugir para as proximidades da [[Puta que o Pariu]] (atual Simão Dias). Um desses medrosos era o vaqueiro Jeca Valente, cujo nome de batismo era Simão Dias, e ele foi o responsável por guiar as pessoas que não queriam combater a invasão holandesa para o interior de Sergipe, onde jamais seriam encontrados, e ele estava muito certo, tanto que virou herói e batizou o curral que ali foi construído sem hostilizações por parte dos indígenas.
+
+Assim, sem ser incomodado por ninguém, Simão Dias já era em 1655 um vilarejo e em 1850 foi desmembrado de Lagarto e criado como município '''Cauda da Lagartixa''', devido às suas origens, e criado para separar o estado baiano de Sergipe de um bairro baiano chamado [[Paripiranga]] que fica ali por perto.
+
+Sabe-se que no ano de 1912 decidiram colocar o nome de  '''Anápolis''' na cidade, porque Simão Dias parecia uma pessoa, mas em 1944 ocorre o advento de um primeiro habitante da cidade concluir o [[MOBRAL]] e assim ele descobriu que já existia uma [[Anápolis]] em [[Goiás]], e para evitar confusão voltaram para o nome de '''Simão Dias'''.
+
+== Geografia ==
+
+Simão Dias está localizado numa região demográfica criada pelo IBGE conhecida como [[Polígono das Secas|Casa do Caralho Onde é Quente pa Porra]], região caracterizada pela vegetação [[caatinga]], clima seco, pouca estrutura e condições favoráveis à pobreza e miséria, o que realmente não falta no município.
+
+É cortado por dois riachos de nome ridículo, primeiro porque chamam erroneamente de "rio", e depois porque os nomes são idiotas mesmo, o [[rio Caiçai]] e [[rio Vaza-Barris]].
+
+== Saúde ==
+
+O hospital mais decente de Simão Dias é o [[Hospital Israelita Albert Einstein|Hospital Albert Einstein]] que fica no bairro de Morumbi em São Paulo. Todavia, para aqueles que não tem capacidade de viajar 2.000 km num pau-de-arara, outras opções de menor qualidade são o Hospital de Aracaju e o Hospital de Lagarto (não confundir com clínica de veterinária para répteis). Agora na área urbana de Simão Dias o único hospital está desativado, por ter sido considerado desnecessário.
+
+== Turismo ==
+
+Não há turismo nesse meio do nada, apenas a Serra do Cruzeiro que é uma tentativa de cópia descarada da famosa escadaria de [[Jacobina]]. De resto, pode passar batido pela cidade.
+
+{{Grandes Cidades de Sergipe}}
+{{Sergipe}}

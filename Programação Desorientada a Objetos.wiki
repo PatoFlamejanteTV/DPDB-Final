@@ -1,0 +1,151 @@
+{{cilada}}<br>
+
+A '''Programação Desorientada a Objetos''' estabelece um novo paradigma de desenvolvimento que vem substituir a já tradicional POO (Programação Orientada a Objetos).
+
+Através deste novo paradigma os desenvolvedores poderão atingir níveis da Força nunca imaginados antes, podendo tornar-se um novo Mestre Yoda dentre seus pares.
+
+Os exemplos aqui relacionados estarão inicialmente em C#, mas o conceito poderá ser extendido para qualquer outra linguagem.
+
+== Conceitos ==
+===Encapsulamento do Encapsulado===
+[[Arquivo:Nerd-wig-24547-01-FR.jpg|thumb|O típico programador de '''PDO'''.]]
+Através desta técnica é possível encapsular funcionalidades já encapsuladas, como demostrado no exemplo abaixo:
+
+        public class NullControl : System.Web.UI.WebControls.WebControl
+        {
+           public NullControl(){}
+        }
+
+===Instanciando o Nulo===
+
+Este conceito extremamente complexo pode ser observado no trecho de código exemplificado abaixo que utiliza o conceito anterior, no qual foi criado um objeto do tipo NullControl, que deve ser instanciado para posteriormente ser tratado como Nulo.
+
+        public class MinhaPagina: Page{
+        ...
+           WebControl IPagina.botao
+           {
+             get
+             {
+                return new NullControl();
+             }
+           }
+        }
+
+===Inteligência Artificial===
+
+Para atividades simples, como ocultar o botão de uma página, se você não tem inteligência suficiente para isso, crie métodos que sejam capazes de fazer isso por você. Os comentários são muito importantes para que o método funcione corretamente.
+
+  /// <summary>
+  /// Provê a implementação dos métodos de IFormatterDecorator, implementando a chamada dos
+  /// decorators em cascata. Os decorators possuem a '''inteligência''' de quando devem ser aplicados
+  /// e esta classe implementa no método Execute, além da execução da operação quando
+  /// necessária, a delegação para os objetos decorados.
+  /// </summary>
+  public abstract class AbstractFormatterDecorator : IFormatterDecorator
+  {
+    protected readonly IPaginaDeDetalhes pagina;
+    protected readonly AbstractFormatterDecorator decoratedObject;
+  
+    protected AbstractFormatterDecorator(AbstractFormatterDecorator decoratedObject,
+        IPaginaDeDetalhes pagina)
+    {
+      this.pagina = pagina;
+      this.decoratedObject = decoratedObject;
+    }
+    /// <summary>
+    /// Execução da configuração propriamente dita
+    /// </summary>
+    public void Executar()
+    {
+      if (ConfiguradorDeveSerAplicado)
+      {
+        ExecutarConfiguracaoDaPagina();
+      }
+      if (decoratedObject != null)
+      {
+        decoratedObject.Executar();
+      }
+    }
+    /// <summary>
+    /// Método que deve ser implementado nas classes concretas, responsável
+    /// por realizar a configuração que a classe se destina a realizar.
+    /// </summary>
+    protected abstract void ExecutarConfiguracaoDaPagina();
+  
+    /// <summary>
+    /// Verifica o estado da página pra definir se a execução do decoratedObject
+    /// deve ou não ocorrer
+    /// </summary>
+    public abstract bool ConfiguradorDeveSerAplicado{get;}
+  }
+
+==== Aplicação da técnica ====
+A aplicação da técnica da IA é muito simples, como podemos observar o trecho de código abaixo
+utilizado para alterar a propriedade visible de '''um único controle'''.
+
+    internal class ConfiguracaoDoBotaoDeItem : AbstractFormatterDecorator
+    {
+       public ConfiguracaoDoBotaoDeItem(AbstractFormatterDecorator decoratedObject, 
+                           IPaginaDeDetalhes pagina) : base(decoratedObject, pagina)
+       {
+       }
+       protected override void ExecutarConfiguracaoDaPagina()
+       {
+          pagina.buttonItens.Visible = pagina.buttonItens.Visible && (
+            EstaNesseStatus(Status.Valores.StatusABC) ||
+            EstaNesseStatus(Status.Valores.StatusCBA));
+       }
+       public override bool ConfiguradorDeveSerAplicado
+       {
+          get{
+              return true;
+             }
+       }
+
+==Nomenclatura==
+
+'''''Texto a negrito''[[[[Título do link]]== [[Multimédia:Texto do cabeçalho]]<nowiki>--~~~~Inserir texto não-formatado aqui----</nowiki> ==]]'''===Multilanguage===
+
+Procure desenvolver seus métodos utilizando várias línguas, facilitando assim o entendimento para programadores de várias nacionalidades:
+
+   public class FuncionariosFinder : Miscellanea{
+      public FuncionariosFinder(){}
+      public string ListarByID(int ID){
+        ...
+      }	
+      public string ListarByAno(int Ano){
+        ...
+      }	
+   }
+
+===Nomes Famosos===
+
+Utilize nomes fáceis de serem identificados, como por exemplo do seu conjunto favorito de ? Rock ?, observar no código abaixo exemplo de melhores práticas:
+
+     DSRelatorio.InicializaRow[] '''spiceGirls''' = (DSRelatorio.InicializaRow[]) 
+                                   ds.Inicializa.Select("CodigoInicializacao<>0");
+     codigoFuncionario = '''spiceGirls'''[0].CodigoFuncionario;
+
+== Frases de Famosos Desorientadores ==
+
+
+{{C|Você já criou seu próprio TraceListener?|Mestre Yoda, ensinando humildade a seus pupilos}}
+
+{{C|Põe no CUkie do cliente!|Martha Suplicy, mais perdida que batata em salada de fruta}}
+
+{{C|Eu e o PDO demos um roundhouse kick na Orientação a Objetos!|Chuck Norris, sobre PDO}}
+
+{{C|Em 24horas destruiremos a POO!|Jack Bauer, sobre PDO}}
+
+{{C|Copia e cola, não tenta entender que dá zica!|Programador POG após analisar trecho de código PDO}}
+
+{{C|Na verdade a questão é o seguinte: 70% dos casos, o coiso, sabe? tem NP fatorial de complexidade... Entendeu? Tá?|Cascão Bundman explicando o POGrama que criou para mandar email}}
+
+{{C|Devido a quantidade de configurações necessárias, estamos reproduzindo o sistema em ambiente de reprodução com efeito para testes|Cliente, após trancar os devs na jaula para criação de sistemas em cativeiro}}
+
+== Ver também ==
+*[[POG]]
+
+
+
+[[Categoria:Paradigmas de programação]]

@@ -1,0 +1,66 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = red
+|brasao            = Escudo do Twente.png
+|hino              = Eu tô twente 
+|nome_oficial      = Football Club Vinte
+|origem            = {{HOL}}'''- [[Enschede]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[De Grolsh Veste]]
+|capacidade        = 30,205
+|sede              = [[Enschede]]
+|presidente        = [[Paul van der Kraan]]
+|treinador         = [[Ron Jans]]
+|pior              = [[Vaqif Javadov]]
+|melhor            = 
+|patrocinador      = [[Pure Energie]]
+|material          = [[Meyba]]
+|liga              = Campeonato Neerlandês
+|divisao           = Eredivisie
+|títulos           = 
+|ranking           = 
+}}
+
+'''Football Club Twente''' é um clube de [[Futebol Holandês|futebol holandês]] da cidade de [[Enschede]] considerado a quinta força daquele país.
+
+== História ==
+=== Fundação ===
+
+O surgimento do clube foi resultado de uma suruba entre o Sportclub <s>do Recife</s> Enschede e o Enschedese Boys<s>olas</s>, em [[1900 e guaraná com rolha|1965]].
+
+O time de muito podre, ficara no anonimato no futebol holandês nas sombras dos grandes [[AFC Ajax Amsterdam|Ajax]] e [[PSV Eindhoven|PSV]] pelos próximos 40 anos, similar a um Goiás EC da vida no Brasil, sempre estando lá mas nunca ganhando nada por eras..
+
+=== Décadas de 70 ===
+
+Seus primeiros dias de <s>azarão</s> grande conquistas ocorreram na década de 70 com a conquista de sua primeira Copa Neerlandesa em 1977. e chegou ao vice-campeonato da [[Copa da UEFA]] em 75 ao derrotar o [[Juventus FC]] na semifinal, resultado comemorado como título, antes de perder o título mesmo para o [[Borussia Mönchengladbach|Borussía de Nome Escroto]], e não por um placar módico, mas uma derrota por 5x1.
+
+=== O título holandês ===
+
+Na temporada 2009-10 conquistou seu primeiro campeonato holandês, confirmando a má fase de Ajax, PSV e Feyenoord. Depois ainda ganhou a Supercopa Holandesa em [[2010]] e uma Copa Holandesa em [[2011]] <s>mostrando que raio pode cair várias vezes no mesmo lugar</s>.
+
+Mesmo com esses títulos recentes a maioria das pessoas sequer conhecem o time, com exceção dos jogadores de [[PES]] e [[FIFA (Série)|FIFA]] onde tem todos times neerlandeses não sei porque.
+
+=== Liga dos Campeões de 2010-11 ===
+
+Não teve a menor chance em sua primeira participação numa Champions League, mesmo que num grupo composto por uma time secundário da Inglaterra (o [[Tottenham Hotspur]]) e um time falido da Itália (a Internazionale), comemorou a terceira colocação porque dava vaga para a [[Liga Europa]] onde perdeu para o [[Villarreal Club de Fútbol|Villarreal]] por 8x2.
+
+== Títulos ==
+
+* '''[[Campeonato Neerlandês]]''': 1 vez (2009-10)
+* '''[[Copa dos Países Baixos]]''': 3 vezes (1976-77, 2000-01, 2010-11)
+* '''[[Supercopa dos Países Baixos]]''': 1 vez (2010)
+* '''Vencer o Juventus da Itália''': 1 vez (1975)
+
+<big><big><big><big>...E mais nada!</big></big></big></big>
+[[Arquivo:Tumbleweed01.gif]]
+
+{{Campeonato Neerlandês}}
+{{Liga Europa da UEFA}}
+{{Liga dos Campeões da UEFA}}
+[[Categoria:Times de futebol dos Países Baixos|Twente]]
+
+[[nl:Twente]]

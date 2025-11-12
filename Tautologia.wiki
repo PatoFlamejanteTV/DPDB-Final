@@ -1,0 +1,113 @@
+[[Arquivo:Filha da putaaaa.jpg|thumb|Exemplo: Você nasceu de uma prostituta. Você é uma criança que foi parida por ela. Você é um filha da puta]]
+{{Ambiguação|uma redundância doentia da linguagem|uma redundância doentia na matemática}}
+'''Tautologia''' é uma reafirmação desnecessária de uma determinada conclusão. É o que acontece em [[lógica]] e em [[português]] quando se afirma o óbvio o tempo todo e sempre dá num resultado verdadeiro. Tipo:
+
+{| class="wikitable" style="text-align: center;"
+|-
+|Você dá o cu (A)
+|Você chupa pinto (B)
+|Você lambe bolas (C)
+|<math>A \land B</math>
+|<math>(A \land B) \to C</math>
+|<math>B \to C</math>
+|<math>A \to (B \to C)</math>
+|<math>((A \land B) \to C) \leftrightarrow (A \to (B \to C))</math> (Você é [[gay]])
+|-
+|V
+|V
+|V
+|V
+|V
+|V
+|V
+|V
+|-
+|V
+|V
+|F
+|V
+|F
+|F
+|F
+|V
+|-
+|V
+|F
+|V
+|F
+|V
+|V
+|V
+|V
+|-
+|V
+|F
+|F
+|F
+|V
+|V
+|V
+|V
+|-
+|F
+|V
+|V
+|F
+|V
+|V
+|V
+|V
+|-
+|F
+|V
+|F
+|F
+|V
+|F
+|V
+|V
+|-
+|F
+|F
+|V
+|F
+|V
+|V
+|V
+|V
+|-
+|F
+|F
+|F
+|F
+|V
+|V
+|V
+|V
+|}
+
+No fim de tudo sempre dá o [[óbvio]], mais óbvio que as [[Descitações:Leandro Karnal|falas do Leandro Karnal]] ou do [[Capitão Óbvio]]. O jeito mais fácil de aprender tautologia é lembrar de algo que é sempre verdade, como por exemplo: [[TV]] aberta tortura o intelecto, todo mundo que você conhece vai morrer, o pau de [[Pabllo Vittar]] é maior do que todos os da população asiática juntos, esse tipo de besteira.
+
+== Diferenças de tautologia pra pleonasmo ==
+
+*'''Tautologia''': Se uma nuvem está branca, significa que ela está alva.
+*'''Pleonasmo''': Toda nuvem branca é alva.
+
+Ou seja, é praticamente a merma merda, só que usando um nome bunitinho do grego pra parecer coisa de intelectual.
+
+
+== Ver também ==
+
+*[[Pleonasmo]]
+*[[Truísmo]]
+*[[Lapalissada]]
+*[[Raciocínio lógico]]
+*[[Figura de linguagem|Figuras]] e [[vício de linguagem|vícios de linguagem]]
+
+{{esboço}}
+{{Símbolos lógicos comuns}}
+
+[[Categoria:Figuras de linguagem]]
+[[Categoria:Filosofia]]
+[[Categoria:Lógica]]
+[[Categoria:Retórica]]

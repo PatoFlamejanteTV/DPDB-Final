@@ -1,0 +1,129 @@
+{{jogo}}
+{{Infobox Game
+|title     = Victoria II
+|image     = Victoria II cover.jpg
+|caption   = Capa do jogo
+|developer = Interações Paradóxicas
+|publisher = A mesma empresinha
+|released  = 1836, ué
+|genre     = Estratégia de mapinha
+|rating    = 9/11 ([[IGN]])
+|platform  = [[PC]]
+|ages      = Não recomendado para doutores em História: Pode causar náuseas e distúrbios mentais
+}}
+
+
+Victoria II, também conhecido como ''[[Europa Universalis]]: A Continuação'', é um pomposo jogo de estratégia em tempo real (apesar que você pode pausar o jogo, ferrando com a AI dos outros países), em que se passa na era vitoriana, isto é, <s> a era em que sua mã-- '''Chega dessa piada'''</s> passando-se da primeira metade do século XIX, em 1836, até 1936, o ano em que Hitler começou a cagar pra imprensa internacional e a infâmia (meio parecido com o que a Coreia do Norte está fazendo hoje). O motivo de que o jogo pára exatamente 100 anos na verdade tem a ver com a sua continuação capitalista, [[Hearts of Iron]] que começa justamente em mil novecentos e trinta e seis.
+
+==Como o jogo funciona==
+
+Das 257,5 nações que você pode escolher para começar a campanha, apenas as potências da Europa, os EUA, o Império Chinês e o Império Otomano que há conteúdo, fatos históricos e eventos mais densos, o que faz dos outros países uma jogatina muito vazia e agonizante para quem realmente entende de história. 
+
+O jogo separa os países em 4 tipos de nações: 
+
+*As Grandes Potências (as Great Powers), que são os fodões que mandam, colonizam e influenciam o resto do mundo;
+*As potências secundárias, que geralmente são as nações pequenas da Europa e algumas raras exceções na América como o [[Império do Brasil|Brasil]]. Podem colonizar (porcamente) e estão lutando para superar as Great Powers iniciais, mas só conseguem tirar a [[Espanha]] e o [[Império Otomano]] na maioria das campanhas;
+*As nações civilizadas, que são os países cagados que tem uma economia igualmente cagada, que é sempre uma bitch de alguma Great ou Secondary Power; 
+*E por fim temos as nações não-civilizadas ou nações primitivas, que são os países que não tem a tecnologia Ocidental. Apesar que não se deve subestimar alguns deles, como o Japão e a China, este que se caso civilizar-se, vira uma Great Power imediatamente por causa do maior [[exército]], em quantidade, de todo o jogo.[[Arquivo:ElectionsvictoriaII.png|thumb|right|Não importa o que você escolher nesta tela. O partido Comunista sempre vai vencer as eleições.]]
+
+Como um país civilizado você deve dedicar sua campanha a aumentar seus '''pontos de prestígio''', que é o quanto seu país é ''puxa-sacado''  pelos outros. É adquirido por eventos, guerras ganhadas e colônias colonizadas. Os '''pontos industriais''' referem-se ao quão maravilhosa tua [[indústria]] é ([[ou não]]). Estes dependem dos [[capitalistas]] para investirem em fábricas no seu país, exceto quando o partido político permita que o [[Estado]], ou seja, você, construa fábricas por si mesmo. E temos o pontos mais divertidos de serem adquiridos, os '''pontos militares''', que obviamente determina o número de divisões que possui, a marinha, o manpower e o número de líderes militares. É esses pontos que deixam as outras nações inferiores com o rabo entre as pernas. Crises (disputas) mundiais (um evento do jogo) são vencidas ao país ou países que tem o exército mais fodido.
+==Grandes Potências Iniciais==
+
+{|{{tabelabonita}}
+|-
+||[[Arquivo:Gurren.png|50px|center]]||'''Império Britânico'''||A nação mais apelona do jogo. É a que dita quem ou quem não vai ser anexado na [[Europa]], tem uma marinha fudida e protege a [[Bélgica]] como sua filhinha de ouro diamantado. Odeia a França e nunca se dá bem com o Império do Brasil. Existe a chance d'ele aliar-se com o Império Otomano, que geralmente resulta uma aliança entre a França e a Prússia (''SÉRIO''). Porém geralmente é o aliado mais podre do jogo.
+|-
+||[[Arquivo:Bandeira da França.png|50px|center]]||'''Reino da França'''||É forte no começo mas sempre leva um pau da Prússia e do Império Britânico logo nos 5 primeiros anos de gameplay. Perde a influência dos [[Vaticano|Estados Papais]] muito facilmente pra Áustria e tenta a qualquer custo ter sua influência garantida na [[Suíça]], além de tentar impedir que a Itália se unifique;
+|-
+||[[Arquivo:Bandeira_da_Prussia.jpg|50px|center]]||'''Prússia'''||Muito fragmentada e mais difícil de unificar, tem um manpower absurdo e quase sempre se alia com o Reino Unido no primeiro mês da campanha, com o claro objetivo de arregaçar a Franca e pegar a [[Alsácia|ponta direita dela]] pra si. Quando unificada, se transforma no Império Alemão, que é o mais picudo império, superando os ingleses facilmente. Tem claro ódio da França e da Áustria e por algum motivo sempre coloca a [[Argentina]] em sua esfera de influência.
+|-
+||[[Arquivo:Bandeira_retrô_da_Áustria.png|50px|center]]||'''Áustria'''||A potência-encosto, a insuportável que tenta impedir que a Itália e a Prússia se unifiquem, pois ela tem províncias de direito desses dois países, e sabe que pode ser arregaçada por ambos quando tiverem um pouco mais de manpower. Não consegue durar 50 anos sem ter que se tornar a Áustria-Hungria, sem correr o risco de ser fragmentada por ter tantas culturas diferentes dentro do território.
+|-
+||[[Arquivo:Bandeira do Império Russo (1721 – 1917).png|50px|center]]||'''Império Russo'''|| Sempre aliada do Império Otomano, a Rússia tem o maior exército civilizado, ''no começo''. É difícil pra porra melhorar a infraestrutura por ser tão extenso o território, a partir de 1900/10 os rebeldes comunistas vão começar a ser um porre, mais do que qualquer outro país. Virar a [[União Soviética]] é muito fácil, aí seu prestígio vai pro ralo e a economia pega fogo. Só hardcores jogam com a Rússia.
+|-
+||[[Arquivo:Bandeira do Império Otomano (1299–1923).png|50px|center]]||'''Império Otomano'''||Diferente de Europa Universalis, o Império Otomano está todo fodido, militância lá no espaço e guerreando com umas naçõezinhas insignificantes do norte da África. Perde os status de Great Power em 20 anos de gameplay e o império sempre acaba quebrando e virando uma federação comunista.
+|-
+||[[Arquivo:Bandeira_da_Espanha.png|50px|center]]||'''Espanha'''||Começa com uma [[guerra civil]] muito pesada e pode pegar de surpresa quem for noviço no jogo. Assim como o Império Britânico, a Espanha tem territórios e colônias no mundo inteiro, e isso significa exércitos e manpower que a Espanha não tem pra investir em proteção contra revoltosos, e aí tu já sabe. Além de claro, deixa de ser Great Power em 5 anos de campanha.
+|-
+||[[Arquivo:Bandeira dos EUA.png|50px|center]]||'''Estados Unidos DA NOVA ORDEM MUNDIAL'''||Um verdadeiro bebê engatinhando, começa colonizando as últimas províncias colonizáveis da América do Norte e geralmente anexa o [[México]], não levando muito tempo para tal acontecer. É o país perfeito para jogadores novos porque aparentemente tudo acontece a favor dos EUA. Tem sempre uma economia excelente e a [[imigração]] pesadíssima aumenta o manpower e o número de capitalistas fácil, fácil. Sempre se torna a primeira maior potência do jogo no final do mesmo e protege a América do Sul, barrando a possibilidade que esse países se ''guerrêem'', o que é um '''saco'''. 
+|}
+
+==A parte militar do jogo ==
+
+[[Arquivo:TEXAS.jpg|thumb|Um tipo de sonho molhado que os jogadores de Victoria II podem concretizar.]]
+
+Finalmente chegamos na parte do jogo que [[você]] quer descobrir como funciona mas não vai conseguir porque é burro. Não deve haver preocupação pois é a parte mais easy de compreender (em relação aos outros conceitos).
+
+====Unidades Terrestres====
+Composta pela Infantaria que é a segunda unidade mais baratinha de fazer e o essencial pra não criar um exército só com artilharia, temos o Guard que é o melhor porém o mais caro superando a manutenção da artilharia, esta que ajuda a conquistar as províncias mais rapidamente. Temos os engenheiros, quase inúteis, servem para fazer cerco e defesa em províncias que tem fortes.
+====Unidades Navais====
+Só são úteis se for uma potência inicial pois a marinha só serve pra sugar dinheiro para manutenção. Os navios de transporte com papel óbvio e os de combate que também enchem seus pontos militares, sendo essa sua utilidade principal.
+===Atributos e outras coisas chatas===
+Definem a habilidade dos seus exércitos e navios em fazer qualquer coisa, e são definidos por certas unidades de seu exército que normalmente estão lá apenas para lhe dar esse bônus, obrigando você a perder seu tempo tentando alcançar o equilíbrio militar perfeito.
+====Habilidade de reconhecimento====
+Serve para que seus [[Soldado]]s possam ficar fazendo <s>nada</s> ocupação em território inimigo sem fortificações com maior eficiência. Você consegue isso ao ter Hussardos ou [[Avião|Aviões]] em seu exército.
+
+====Habilidade de cerco====
+Para você esperar na porta do forte com mais velocidade. Obtida através de Artilharia, Engenheiros e Tanques.
+
+==Jogando com o Império do Brasil==
+
+A primeira coisa que é necessário citar é que os desenvolvedores cagaram pra fidelidade histórica da América do Sul. Pra começar o Império do Brasil nem se chama Império. A Confederação Peru-Bolívia simplesmente não existe, assim como a Confederação da Argentina. Ela e o Chile já tem todas as províncias do extremo Sul colonizadas ('''em 1836''') e o Paraguai está comido pela Bolívia.
+
+O Brasil tem o claro objetivo de industrializar, ter um exército e prestígio decente, como qualquer outro país de 2ª classe. Militarmente a primeira coisa que se faz é pegar a Província do Acre da Bolívia, depois anexar o Uruguai e adquirir um pedacinho do Paraguai ou, se a infâmia não estiver alta, anexar o país inteiro mesmo. A IA não consegue, mas é bem fácil tornar o Brasil uma Great Power, graças ao prestígio que é adquirido ao anexar os [[Inglês|cores]] que o Brasil tem.
+
+==Jogando com a Confederação Argentina==
+
+Assim como o Brasil, a Confederação só se chama Argentina, e já possui todos os territórios com exceção dos que estão sob controle Boliviano, a primeira coisa a se fazer é aceitar o partido até porquê você inicia sendo uma ditadura, taxando a sua população até morrer de fome além das suas indústrias que no inicio você nem possui (igual a Argentina atual), depois você reza dez pai nosso, se você conseguir um pouco de sorte, o Chile aliado do Brasil vai atacar a Bolívia e Peru antes de te declararem guerra, dai só aproveita, mobiliza a sua população inteira pra morrerem em uma guerra nas montanhas, pega Jujuy, outro estado dos caras e o Chaco, além disso humilhe seus rivais (até porquê não basta só ajudar a pegar metade do território dos maluco) depois disso você já vai ter pontos pra virar uma grande potência, depois de muito tempo, anexe o Paraguai e Uruguai porque sim, e industrialize seu país.
+
+==Jogando com Tripoli==
+
+Você inicia a play em 1836, você acaba a play em 1836.
+
+==Coisas que provavelmente vão acontecer==
+
+EUA
+ Estados Unidos vai conquistar as partes do Canada que ainda não foram colonizadas por um buraquinho minúsculo filha da puta. O que não afetara quase nada a play, mas deixara as fronteiras feias que é o que mais importa;
+ Estados Unidos vai anexar o Texas, pegar metade do México;
+ Estados Unidos sem fazer porra nenhuma vai se tornar a nação mais pontuada do mundo;
+ Estados Unidos vai explodi em 2 pedaços mas logo volta. 
+China
+ Não vai acontecer nada em 20 anos, até que Guangxi se rebela (junto de 5 mil revoluções na China Qing). Então ou a China só volta ao normal, ou explodi em pedaçinhos (muitas vezes isso enfraquece tanto os Qing que simplesmente ele acaba virando alvo dos antigos fantoches, ou seja, a caça virou caçador, e isso faz com que os própios antigos vassalos se aliem só pra come mais pedaços da China Qing).
+França
+ Existem 2 caminhos:
+-Caminho 1 (sonhado por muitos, odiado por todos):
+A França ganha no início da play da Prussia, e ainda consegue invadir navalmente a Grã-Bretanha (só Deus explica isso), e acaba se tornando a nação mais roubada e forte até 1936.
+
+-Caminho 2:
+(leia como se fosse um rap, até porque isso é um rap)
+
+A França viu 500 rebeliões eclodirem em seu chão,
+
+Perdeu territórios para Prússia e Reino Unido, sem perdão.
+
+Cinquenta governos distintos em apenas dois meses se sucederam,
+
+Enquanto 2% da África sob seu domínio eles mantiveram.
+
+Ao final, veio a humilhação com força e claridade,
+
+Com a unificação da Alemanha e Itália, sem piedade.
+
+A história da França, repleta de desafios e transições,
+
+Um capítulo tumultuado com diversas contradições.
+
+== Galeria ==
+<gallery>
+Image:Paraguainaafricaa.png|Victoria 2 mostra que é possível fazer coisas inimagináveis, como colonizar a África com o [[Paraguai]].
+<gallery>
+Image:URUGUAY.png|Ou anexar o [[Rio Grande do Sul]] com o Uruguai.
+</gallery>
+
+{{Victoria}}
+
+[[Categoria:Victoria II|*]]
+[[Categoria:Jogos lançados em 2010]]
+[[Categoria:Jogos da Paradox Interactive]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de estratégia em tempo real]]

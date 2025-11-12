@@ -1,0 +1,43 @@
+{{Matemática}}
+{{c|Meu saldo bancário.|[[Você]]|{{PAGENAME}}}}
+{{c|Deu <u>menas</u> sete, fessora.|[[Joãozinho]]|{{PAGENAME}}}}
+{{c|O quê?|[[Carla Perez]]|{{PAGENAME}} }}
+{{c|Eu tenho medo|[[Regina Duarte]]|{{PAGENAME}} }}
+
+==História==
+Tudo começou em [[Roma]]. Eles, acostumados a usar I, XII, DCLXVII, MDCCCLXVIII e outros, estavam preocupados com o trabalho que era para fazer todos esses números no papel. E mais importante ainda, tinha gente que emprestava mais grana do que tinha, e não pagava depois. Simplesmente porque os romanos não sabiam usar o maldito do <math>-</math> para representar que estavam devendo algo. Para eles, tudo terminava no zero e já era.
+[[Arquivo:Charge.6.jpg|thumb|right|[[Schrödinger]] pode estar certo, mas você não aprende sobre Schrödinger na quarta série, não é?]]
+Como os [[judeu|judeus]] estavam se ferrando demais com isso, resolveram mudar o jeito de se fazer os números, e assim criaram o sistema <s>indo-ariano</s> indo-arábico de contagem, no qual consistia de usar números como <math>1, 2, 3...</math>. E mais importante ainda, criaram um risquinho, que vai antes dos números, para representar que aquilo não representa necessariamente ''dinheiro no bolso'', mas sim, o quanto terá que pagar para evitar de ir ao [[SPC]].
+
+A invenção dos judeus revolucionou o mundo. Facilitou os cálculos, fazendo com que as filas nos bancos diminuíssem de dois dias de espera para apenas um, e que um monte de gente ficasse com o saldo negativo na mercearia, no banco, na loja, no armazém, entre outros.
+
+==Utilizações==
+Atualmente, os números negativos são utilizados em cálculos nos [[vestibular]]es, ferrando com a cabeça do pessoal (acha que se não colocar o sinal de negativo vão considerar sua questão?), dos [[engenharia|engenheiros]], para construir prédios que caem e equipamentos que não funcionam, e das donas-de-casa, para ver o quanto elas devem nas próximas 77 prestações da cafeteira.
+
+São também utilizados como teste de detecção de [[guria retardada|gurias retardadas]]. Faça uma pergunta simples, como <math>5-(-5)</math>. Caso ela não saiba resolver este tipo de coisa, pode [[morte|descer o chumbo]].
+
+O número também é comumente utilizado na sua conta de banco, vide o fato de que você nunca guarda nada, fica entupindo tudo em contas inúteis e ainda reclama do governo.
+
+==Exercícios de Fixação==
+'''Q. Mariazinha possui R$ 150 no banco, e deseja comprar uma camiseta no valor de R$ 200, à vista. Como ela conseguirá comprar a camiseta?'''
+''A. Depende. Se ela pegar R$ 50 emprestado do banco, ficaria no primeiro dia com R$ 50 de saldo negativo. Depois, no outro mês a dívida seria de R$ 120. Já que ela não tem dinheiro para uma camiseta, deduz-se que não tenha a capacidade de pagar os juros, entrando no SPC rapidamente.''
+[[Arquivo:LauraCarrossel.png|thumb|left|{{c|Eol sei como diminuir esse número bem facim rsrs, só coloka o risquinho antes, daí a fessora nem vai perceber rsrs|[[Guria retardada]]|questão aleatória de [[Matemática]]}}]]
+'''Q. Qual a raiz quadrada de -9?'''<br>
+''A1 ([[criança inteligente]]). Non sei {{xD}}''<br>
+''A2 ([[guria retardada]]). 81''<br>
+''A3 ([[n00b]]). ±3''<br>
+''A4 ([[engenharia|engenheiro]] retardado). [[número complexo|3i]]''<br>
+''A5 ([[eletricista|engenheiro elétrico]]). 3j''<br>
+''A6 ([[Matemática aplicada|matemático aplicado]]). ±3i''<br>
+''A7 ([[Matemática pura|matemático puro]]). Existem duas soluções distintas''<br>
+
+==O mistério do traço==
+Geralmente o traço do negativo (–) é vítima de confusão com o travessão (—). Tal confusão faz com que garotinhos pagando de espertos tenham problemas para:
+*Programação, quando vão copiar o código de algum lugar na internet;
+*[[Cálculo]], quando vão pegar da internet o resultado da questão para se dar bem no trabalho;
+*Quando vão passar o email para aquela <s>gordinha</s> gatinha;
+*Outras nerdices afins.
+
+[[Categoria:Matemática]]
+
+[[en:Negative numbers]]

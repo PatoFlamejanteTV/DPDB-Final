@@ -1,0 +1,190 @@
+{{SBT}}
+{{Box Novela
+|imagem              = 283373786 507473097823816 1131603285915685351 n.jpg
+|origem              = {{BRA}}       
+|emissora            = [[SBT]]
+|autor               = [[Nelson Rubens]]
+|tema                = romance, pieguice
+|artistas            = <li>[[Bianca Castanho]]<li>[[Cláudio Lins]]<li>[[Delano Avelar]]<li>[[Lucinha Lins]]<li>[[Daniel Andrade]]<li>[[Antonio Petrin]]<li>[[Karina Barum]]
+|especiais           = Tenório
+|outros              = Ninguém
+|viloes              = Lucio Malaver (Mascarado) - Delano Avelar
+|bonzinhos           = Esmeralda
+|idiota              = José Armando, machista total.
+|esperto             = 
+|drama               = É o que mais tem nesse dramalhão mexicano, digo, brasileiro
+|misterios           = Com quem Esmeralda vai ficar no final
+|moral               =
+|influencia          = Original mexicana
+|inspiracao          = 
+}}
+{{c|Oh oh Esmeralda|Conjunto [[Br'oz]]|Esmeralda}}
+{{c|A nova novela do SBT|Locutor|Esmeralda}}
+{{c|O Sucesso está de volta|Locutor|Esmeralda reprisando pela enésima vez}}
+'''Esmeralda''' é uma novela do SBT exibida em 2005 (mas que começou em 2004) e foi um sucesso para o padrão típico da baixa audiência do SBT. Por isso junto com [[Pérola Negra]] o SBT reprisa-a exaustivamente cansando os telespectadores - dizem que isso é uma tática pra Globo aumentar a audiência
+==A história==
+A mesma da original.
+Esmeralda é uma jovem cega apaixonada por Dr. José Armando. Num incendio ela é salva por Dr. Lucio Malaver um homem sinistro e malvadão que quer tê-la como mulher para compensar a cicatriz que ele tem na cara devido ao incendio. Depois Esmeralda vai morar com Malaver mas nunca é tocada por ele. Esmeralda engravida mas José Armando acredita que o bebê é de Malaver e passa a repudiar Esmeralda, provando ser um cuzão. Esmeralda passa a viver com Alvaro, que é apaixonado por ela, embora ela ainda ame José Armando. Enquanto isso o mascarado Malaver segue perseguindo Esmeralda e o suposto filho dele. Outro núcleo é o do peão Adrián que depois virou o ''Mascarado'' das Giquititas e se envolve com uma bela moça, a Graziela, mas ela morre em seus braços.
+
+Mas o melhor mesmo é o mendigo velho Sabiá (interpretado pelo Tenório de Pantanal) que anda aleatóriamente pelo estado de São Paulo e conversa com outros mendigos doidos e também com animais.
+==ELENCO e PERSONAGENS==
+*'''Esmeralda Alvares Real'''([[Bianca Castanho]]) - A mocinha gostosa e cega apaixonada por um babaca e perseguida por um cabra sinistro. No final faz cirurgia e volta a enxergar. Fica com J.A. no final.
+*'''José Armando''' (o enrustido [[Cláudio Lins]]) - O galã. Apaixonado por Esmeralda, passa a agir como um babaca machista quando ela tem um bebé, mas no final volta com ela.
+*'''Drº Lúcio Malaver''' ([[Delano Avelar]]) - Um mascarado sinistro que podia fazer parte do espetáculo O Fantasma da Ópera. É o vilão da novela, só gosta da Esmeralda. Morre no final.
+*'''Branca Alvares Real''' ([[Lucinha Lins]]) - A mãe de José Armando.
+*'''Sabiá''' (Antônio Petrin) - Mendigo velho e doido, mas na verdade é o mais sábio da novela
+*'''Adrián''' ([[Daniel Andrade]]) - Peão bombado
+*'''Graziela''' (Karina Barum) - Uma moça safada que namora Adrian e morre.
+*'''Rodolfo Álvares Real''' ([[Paulo César Grande]]) - Um peão quarentão
+*'''Fátima Álvares Real''' (Tânia Bondezan) - Uma vilãzona interesseira. No final vira empregada da [[Larissa Manoela]].
+*'''Patricia Perez Monteiro''' ([[Fabiana Alvarez]]) - Mais uma "gostosa" da trama.
+*'''Drº Álvaro Lafaietti''' (Olivetti Herrera) - O gado apaixonado pela Esmeralda
+*'''Irmã Piedade''' (Maria Estela) - A freira
+
+==Trilha Sonora==
+{{Info álbum
+|Nome       = Esmeralda
+|Imagem     = Cd trilha esmeralda.png
+|Legenda    = 
+|Lançado em = 2005
+|Gênero     = Diversos
+|Gravadora  = SBT Music <br> Universal Music
+}} 
+[[Arquivo:Cd sbt esmeralda.png|200px|miniaturadaimagem|direita|o cd da novela]]
+{{Lista de faixas
+| fechado         = 
+| topo            = 
+| duração_total   = 
+| linha_vazia     =  
+
+| toda_composição = 
+| toda_letra      = 
+| toda_música     = 
+| toda_direção    = 
+
+| crédito_nota    = sim
+| crédito_escrita = 
+| crédito_letra   = 
+| crédito_música  = sim
+| crédito_direção =
+| coluna_extra    = TEMA
+
+| título1         = Ela é Um Anjo
+| nota1           = 
+| música1         = [[Br'oZ]]
+| diretor1        = 
+| duração1        = 3:22
+| extra1          = Abertura
+| título2         = Grande Amor
+| nota2           = 
+| escritor2       = 
+| letra2          = 
+| música2         = Luciana Mello
+| diretor2        =
+| duração2        = 
+| extra2          = 
+| título3         = Sem Você
+| escritor3       = 
+| nota3           = 
+| letra3          = 
+| música3         = [[Rouge|Ruge]]
+| diretor3        =
+| duração3        = 
+| extra3          = 
+| título4         = Se (If)
+| nota4           =
+| escritor4       = 
+| letra4          = 
+| música4         = [[Chitãozinho & Xororó]]
+| diretor4        =
+| duração4        = 
+| extra4          =
+| título5         = Mi Mancherai
+| nota5           = 
+| escritor5       = 
+| letra5          = 
+| música5         = Josh Groban
+| diretor5        =
+| duração5        = 
+| extra5          = Esmeralda e José Armando
+|título6          =  Eu Amo Você
+| nota6           = 
+| escritor6       = 
+| letra6          = 
+| música6         = [[Maurício Manieri]]
+| diretor6        =
+| duração6        =
+| extra6          = 
+| título7         = If
+| nota7           =  
+| escritor7       = 
+| letra7          = 
+| música7         =  [[David Gates|Davi Pontes]]
+| diretor7        =
+| duração7        =  
+| extra7          = 
+| título8         =  Eu Estarei Pensando em Você
+| nota8           = 
+| escritor8       = 
+| letra8          = 
+| música8         =  [[Yahoo]]
+| diretor8        =
+| duração8        =  
+| extra8          =
+| título9         =  Esmeralda
+| nota9           = 
+| escritor9       = 
+| letra9          = 
+| música9         = [[Harmonia do Samba]]
+| diretor9        =
+| duração9        =  
+| extra9          = 
+| título10         =   Um Homem Também Chora <s>Pablo discorda</s>
+| nota10           = 
+| escritor10       = 
+| letra10          = 
+| música10         =   Joel Marques    
+| diretor10        =
+| duração10        =  
+| extra10          = 
+| título11         =  Ella és Un Angel
+| nota11           =
+| escritor11       =  
+| letra11          = 
+| música11         = [[Chris Durán]]
+| diretor11        =
+| duração11        = 
+| extra11          = 
+| título12         = [[Esmeralda]]
+| nota12           = 
+| escritor12       = 
+| letra12          = 
+| música12         = [[Javier Rodriguez]] (o personagem de [[Vitória (2014)|Vitória]])
+| diretor12        =
+| duração12        = 
+| extra12          = 
+}}
+'''MÚSICA DE ABERTURA'''
+
+ELA É UM ANJO - [[Br'oz|Br'oZ]]
+<poem>
+Ela é um anjo, ela é o amor que eu tanto quero
+Me faz viver um sonho lindo
+Sentimento verdadeiro
+
+Ela é um anjo, raio de luz que me guiava
+É a mulher que eu esperava
+Joia rara, esmeralda
+
+Ela é um anjo e no seu beijo 
+Me deu todo seu amor
+Eu entreguei meu coração e junto ao seu ela guardou e
+Nós fomos caminhando pelas ruas, coração com coração
+
+Ela é um anjo
+Uma esmeralda
+</poem>
+
+{{Novela/SBT}}
+{{novela}}
+[[Categoria:Novelas do SBT]]

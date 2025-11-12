@@ -1,0 +1,103 @@
+{{DISPLAYTITLE:Sistema Cego 16}}
+{{consoles}}
+
+{{vqd|Cega System SIXTEEN-BIT!}}
+{{c|Pim Pim Pim Pim Pim Pim Pim!|Opa-Opa|{{PAGENAME}}}}
+{{c|Foi aqui que eu tive meu primeiro game!|Alex Kidd|{{PAGENAME}}}}
+{{c|Paim Paim Paim Paim Paim Paim Paim Paim!|[[SDI (jogo)|Satélite de SDI]]|{{PAGENAME}}}}
+
+'''Sega System 16''' foi um sistema de [[Arcade]], feito em [[1985]], pela [[Sega|CEEEEEEEEEEEGAAAAAAAAAAA!!!!]]
+
+== O Hardware ==
+
+[[Arquivo:PS16MB.jpg|left|thumb|Placa-mãe do Pre-System 16, mais grande que uma melancia]]
+
+O Sysytem 16 teve um monte de jogos (mais de 30). O Arcade teve três variações: Pre-System 16, System 16A e System 16B. O foda do System 16, é que ele tem um sistema de encriptação para previnira pirataria, contida no FD1094 da [[Hitachi]].
+
+== Diferenças ==
+
+São diferenças das variações acima:
+
+* O PS16 tem uma placa-mãe mais maior do que uma [[Televisão|TV]] de 29 polegadas;
+* O S16A tem uma placa-mãe, porém, sendo funcional nos dois lados;
+* O S16B tem um chip de som chamado uPD7751, feito pela [[NEC Corporation|NEC]]. Ele é um decodifcador ADPCM;
+
+== Jogos ==
+
+O System 16 teve vários jogos, chegando até 40:
+
+=== Pre-System 16 ===
+
+* '''[[Alien Syndrome]]'''
+* '''[[Body Slam]]'''
+* '''[[Major League]]'''
+* '''[[Quartet (jogo)|Quartet]]'''
+* '''[[Quartet 2]]''' (é igual ao 1)
+
+=== System 16A ===
+
+* '''[[Action Fighter]]'''
+* '''[[Alex Kidd - The Lost Stars]]'''
+* '''[[Fantasy Zone|Pim Pim Pim]]'''
+* '''[[SDI (jogo)|SDI]]'''
+* '''[[Shinobi]]'''
+* '''[[Sukeban Jansi Ryuko]]'''
+* '''[[Tetris]]'''
+* '''[[Time Scanner]]'''
+* '''[[Wonder Boy III: Monster Lair]]'''
+
+=== System 16B ===
+
+Alguns games existem aqui para tomar vantagem do chip de aúdio novo.
+
+* '''[[Ace Attacker]]'''
+* '''Alien Syndrome'''
+* '''[[Altered Beast]]'''
+* '''[[Aurail]]'''
+* '''[[Bay Route]]'''
+* '''[[Bullet]]'''
+* '''[[Charon]]'''
+* '''[[Cotton]]'''
+* '''[[Dunk Shot]]'''
+* '''[[Dynamite Dux]]'''
+* '''[[E-Swat]]'''
+* '''[[Excite League]]'''
+* '''[[Flash Point]]'''
+* '''[[Golden Axe]]'''
+* '''[[Heavyweight Champ]]'''
+* '''[[M.V.P.]]'''
+* '''[[Passing Shot]]'''
+* '''[[Riot City]]'''
+* '''[[Ryu Kyu]]'''
+* '''[[Sonic Boom (jogo)|Sonic Boom]]'''
+* '''Sukeban Jansi Ryuko'''
+* '''[[Super League]]'''
+* '''Tetris'''
+* '''Time Scanner''
+* '''[[Toryumon]]'''
+* '''[[Tough Turf]]'''
+* '''Wonder Boy III: Monster Lair'''
+* '''[[Wrestle War]]'''
+
+== Sistema Cego 18 ==
+
+É mais uma furada. O System 18 teve apenas 9 jogos, porém, tinha CPUs mais foderosas. Alguns games vinham em disquetes.
+
+=== Lista ===
+
+* [[Alien Storm]]: Beat' em up conhecido como Golden Axe do futuro;
+* [[Bloxeed]]: Tetris no [[Mundo do Contra]];
+* [[Clutch Hitter]]: O único jogo de [[beisebol]];
+* [[D.D. Crew]]: Beat' em up fodão;
+* [[Desert Breaker]]: Shoot' em up tecnológico;
+* [[Laser Ghost]]: Shoot' em up em primeira visão;
+* [[Michael Jackson's Moonwalker]]: Cópia de Shinobi;
+* [[Shadow Dancer: The Secret of Shinobi|Swadow Dancer]]: Spin-off de Shinobi;
+* [[Wally|Wally no Sagase!]]: O jogo do Wally (o difícil é achar ele!)!
+
+== Ver também ==
+
+* [[Sega System 24|Sistema Gay]];
+* [[Sega Sysetm 32|System 32]];
+
+[[Categoria:Sega]]

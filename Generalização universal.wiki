@@ -1,0 +1,43 @@
+{{matemática}}
+
+{{vqd|[[Estereótipo|Estereotipação]]}}
+{{c|Todo homem é igual!|Mulher chorona|Generalização universal}}
+
+A '''Generalização universal''' é uma das quatro lógicas de primeira ordem ou [[lógica de predicados|lógicas de predicados]] existentes, onde a mesma serve para vários exemplos, sendo maioria deles a criação de vários [[estereótipo]]s toscos. A generalização universal também é conhecida por ser uma regra de inferência válida e uma metodologia de debate inválida, onde é marcada pelo termo <math>\vdash P(x)</math>, <math> \vdash \forall x \, P(x) </math>.
+
+
+As frases da generalização universal geralmente são feitas como ''Se (algum sujeito) (insira estereótipo aqui), logo todo/tudo (sujeito) (insira estereótipo aqui)''. A generalização universal e a existencial são quase a mesma porcaria, apenas trocando as palavras "todo", por "existe um", além de ser uma generalização menos tosca.
+
+A generalização universal também é famosa por muito confundida com um silogismo hipotético, apesar do próprio silogismo fazer mais sentido que uma generalização.
+
+*Sócrates é mortal.
+*Todo homem é mortal. (Generalização Universal)
+----
+*Logo, todo homem é Sócrates. (Silogismo)
+==História==
+[[Arquivo:Davidchorão.jpg|275px|thumb|{{C|Eu queria dar alegria a um povo, logo queria dar alegria a todos os povos|David Luiz|Generalização universal (<s>pelo menos deu para os alemães e os argentinos</s>)}}]]
+A Generalização universal começou a ser usada séculos atrás em [[1900 e guaraná com rolha|1000 e lá vai pedrada e mais alguns séculos]] quando um homem nobre estava dando uma festa qualquer no próprio reino e no dia seguinte, enquanto estava cuidando de seu reino, ao passar pelas ruas da determinada cidade, se apaixonou por uma mulher [[puta|meretriz]] burguesa e começou a namorar com ela escondido dos outros nobres, mas como alegria de pobr...não, pera, mas só sei que durou pouco mesmo assim, já que outro nobre pegou a mesma ganhando ouro em troca de [[sexo]].
+
+Ocorreu uma Por não ser legalizada ainda a tão sonhada e famosa profissão "[[profissional do séquisso]]", a burguesa disse que estava só [[puta|fazendo o seu trabalho]], mas não teve jeito e a mesma acabou algumas horas depois [[morte|comendo capim pela raiz]], dizendo a seguinte frase: "Todo nobre é igual!", onde essa frase foi refletida ao olhar de um filósofo burguês, a qual definiu esse termo, assim como as outras três lógicas de inferência mais inúteis. ([[ou não]])
+
+Atualmente a generalização universal é apenas usadas por pessoas que adoram estereótipos, ou por principalmente pessoas [[choro|birrentas]] que acham que são prejudicadas de alguma forma na vida, geralmente usando frases como "Todo(a) _______(grupo de pessoas) é igual!", entre outras baboseiras e [[mimimi]]s similares.
+==Exemplos de Generalizações Universais==
+*'''[[Moderador Malvado]]''': Um IP é vândalo, logo todo IP é vândalo.
+*'''Sadboy ou [[você|Homem feio]]''': Uma mulher me deu um fora, logo toda mulher irá me dar um fora.
+*'''[[Donald Trump]]''': Um mexicano é imigrante ilegal, logo todo mexicano é imigrante ilegal.
+*'''[[Ash Ketchum]]''': Eu perdi uma Liga, logo perderei todas as Ligas.<ref name="um">Não contando a Liga Laranja</ref>
+*'''[[Boiola|Manja-rola]]''': Se um japonês possui pau pequeno, logo todo japonês possui pau pequeno.
+*'''[[Boiola|Manja-rola (2)]]''': Se um africano possui pau grande, logo todo africano possui pau grande. (hum, boiola!)
+*'''Professor de cálculo''': Se [[você|um aluno]] tirou zero, logo todos alunos tiraram zero.
+*'''Artigos da Desciclopédia''': Se um artigo com excesso de [[clichê|piadas de Chuck Norris]] fica ruim, todos os artigos com excesso de piadas de [[Chuck Norris]] ficam ruins. (<s>essa não é uma generalização e sim uma verdade</s>)
+
+{{ref-section}}
+==Ver também==
+*[[Generalização]]
+*[[Generalização existencial]]
+*[[Generalização precipitada]]
+*[[Instanciação universal]]
+
+{{Oposto|Instanciação existencial}}
+
+[[Categoria:Regras de inferência]]

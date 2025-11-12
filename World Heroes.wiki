@@ -1,0 +1,40 @@
+{{game}}
+
+{{Infobox Série Game
+|title         = World Heroes
+|image_logo    = World Heroes GEN ScreenShot1.jpg
+|caption       = Tela para Atari
+|genre         = porradaria
+|developer     = [[Alpha Denshi]], [[SNK]]
+|publisher     = [[Alpha Denshi]], [[SNK]]
+|origin        = [[Neo Geo]]
+|first_release = [[World Heroes (jogo)|World Heroes 1]] (1992)
+|last_release  = [[World Heroes Perfect]] (1995)
+}}
+
+{{c|Pô, a ideia é legal|Retardado|World Heroes}}
+{{c|Parece com o [[Bruce Lee]].|Qualquer um|Kim Dragon}}
+{{c|É a vez dos piratas invadirem os jogos!!|[[Pirata|Piratas]]|C.Kido}}
+
+'''World Heroes''' é o game que inpirou o sériado [[Heroes]] e a série de jogos [[Fate/Stay Night]].
+
+Em World Heroes um cientista maluco muito doido e sem nada de melhor para fazer da vida, inventa uma máquina do tempo e atravessa a história da humanidade para trazer os lutadores de todos os tempos para lutarem em um torneio de luta totalmente excelente.
+
+Lógico que como qualquer jogo de luta da empresa [[SNK]], esse jogo não passa de uma paródia de [[Street Fighter]] e [[Mortal Kombat]].
+
+O grave defeito do jogo, é que em detrimento de direitos autorais, personalidades como [[Joana D'Arc]], aparecem com o nome tosqueado como [[Janne D'Arc]].
+
+== Screenshoots ==
+
+<gallery>
+
+Imagem:Wh luta1.jpg
+Imagem:Wh luta2.gif
+
+</gallery>
+
+{{World Heroes}}
+{{Game Fight}}
+{{SNK}}
+
+[[Categoria:Jogos da SNK]]

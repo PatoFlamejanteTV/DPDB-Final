@@ -1,0 +1,212 @@
+{{game}}
+{{spoiler gamístico}}
+
+{{Infobox Série Game
+|title         = Coração do Rei Dom
+|image_logo    = K.H logo.jpg
+|caption       = Logo da série
+|genre         = [[Action RPG]]
+|developer     = [[Square Enix]]
+|publisher     = [[Square Enix]]
+|origin        = [[Playstation 2]]
+|first_release = [[Kingdom Hearts (jogo)|Kingdom Hearts]] (2002)
+|last_release  = [[Kingdom Hearts III]] (2019)
+}}
+
+'''Kingdom Hearts''' é uma franquia de [[Action RPG]] criada pelo Quadrado que era macio antes de virar eunuco em 2002, que conta a história de um Naruto paraguaio chamado [[Sora (Kingdom Hearts)|Sora]], que vivia levando sova do [[Michael Jackson]] na ilha do Peter Pan enquanto dançava [[Thriller]] e chupava sorvete de água com <s>Sasuke e Sakura</s> seus amigos Riku e Kairi. Sua vida, no entanto, tem uma esperada e previsível reviravolta quando uns bichos feitos de esperma preta chamado [[Heartless]] surgem do nada e começam a tacar o terror no resort tropical, forçando Sora a roubar um vibrador gigante no baú de cuecas do proprietário da ilha para exorcizar as criaturas e salvar seus amigos, alem de visitar todos os mundos da [[Disneylandia]] e ajudar os heróis da Disney a bater nos vilões dos filmes.
+
+== Origem ==
+{{break}}
+{| style="float:right; margin:0 1em 1em 0; font-size:90%; line-height:100%;" cellspacing="0" cellpadding="1"
+|+'''Cornologia'''
+|-
+| 2002 –
+!  style="width:15px; height:15px; background:#0BDA51; border-top:1px solid black; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| – ''[[Kingdom Hearts (jogo)|Kingdom Hearts]]''
+|-
+| 2003 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+|
+|-
+| 2004 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| – ''[[Kingdom Hearts: Chain of Memories|Corrente de Chagas]]''
+|-
+| 2005 –
+!  style="width:15px; height:15px; background:#228B22; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+|''– [[Kingdom Hearts II]]''
+|-
+| 2006 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| – ''[[Cagar|KH]]: Cagando e Andando''
+|-
+| 2007 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| 
+|-
+| 2008 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| – ''LEGO Kingdom Hearts''
+|-
+| 2009 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| – ''Kingdom Hearts: Mil e Uma Noites''
+|-
+| 2010 –
+!  style="width:15px; height:15px; background:#228B22; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| - ''Kingdom Hearts: Backstroke of the West''
+|-
+| 2011 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| - 
+|-
+| 2012 –
+!  style="width:15px; height:15px; background:#228B22; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| – ''Kingdom Hearts 3D: Donald Deu Duro''
+|-
+| 2013 –
+!  style="width:15px; height:15px; background:#228B22; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| - ''Kingdom Hearts HD 2.4 DoRéMix''
+|-
+| 2014 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| 
+|-
+| 2015 –
+!  style="width:15px; height:15px; background:#228B22; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| - ''Kingdom Hearts Mobile''
+|-
+| 2016 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+|
+|-
+| 2017 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| – ''Kingdom Hearts: Arena
+|-
+| 2018 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| – ''Kingdom Hearts: Dancing All Night
+|-
+| 2019 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| – ''Kingdom Hearts III''
+|-
+| 2020 –
+!  style="width:15px; height:15px; background:#0BDA51; border-right:1px solid black; border-bottom:1px solid black; border-left:1px solid black;"|
+| – ''Kingdom Hearts: COVID-19 Edition''
+|-
+|}
+
+A ideia de fazer um [[crossover]] entre [[Final Fantasy]] e a [[Disney]] teve inicio quando o fabuloso [[Tetsuya Nomura]] cruzou com o cérebro congelado do Walt Disney no elevador da Squaresoft, e os dois ficaram presos no dito cujo por 358/2 dias devido a um blecaute. Alimentando-se apenas de sorvetes de gelo (eram azuis) mandados pelos bombeiros, a dupla passava o tempo falando de RPGs japoneses e Naruto (na falta de sexo), e acabam escrevendo um fanfic onde o [[Cloud Strife]] e o [[Mickey Mouse]] salvam o mundo da Akatsuki, liderada pelo [[Pateta]].
+
+O primeiro jogo era só sobre encontrar os amigos desaparecidos e resgatar meia duzia de princesas da Disney da malevolente [[Malévola]] e do [[João Bafo-de-Onça|Bafo]], que armaram um complô com Clayton, Jafar, Hades e tantos outros vilões descartáveis da Disney para legalizar um puteiro na [[Disneylândia]], mas depois a história virou uma suruba incompreensível contendo roteiros piores que [[fanfic]] de crianças de 10 anos e cheia de furos, retcons e clones chupadores de sorvete do Sora que lutam contra clones do [[Sephiroth]] com diversas cores de cabelo diferente, imitando [[Neymar]].
+
+Não se sabe o que acontecerá após o terceiro jogo, mas rumores apontam [[Rey (Star Wars)|Rey Palpatine]] e os [[Vingadores]] sendo incluídos em títulos futuros e ajudando Sora e Riku a impedirem que [[Jar Jar Binks]] use a Manopla do Infinito do [[Thanos]] para ressuscitar a [[Iugoslávia]] e o [[Disney CRUJ]].
+
+== Jogabilidade ==
+[[Arquivo:kingdom hearts-marvel1.jpg|thumb|right|230px|Imagem vazada de Kingdom Hearts IV mostram Sora e os homens [[Homem-Aranha|Aranha]] e o de [[Homem de Ferro|Ferro]] lutando contra Ultron e seus bots.]]
+
+Como vários Action RPGs, Kingdom Hearts possui uma câmera horrível e a jogabilidade geralmente se resume em ficar pulando e apertando {{botão-x}} até que tudo que tiver na tela morrer. ''Chain of memories'' é uma exceção, já que você também precisa apertar '''L''' e '''R''' para trocar as cartinhas. Sora também aprende a invocar vários personagens da Disney (que não deram lucro suficiente para terem seus próprios mundos), como o [[Chucky]], [[Bambi]], [[Megamente]], [[Pernalonga]] e [[Fuleco]].
+
+O segundo jogo também introduz fusões ménage à trois entre Sora, Donald e Pateta, alem de cutscenes no meio das lutas com chefes onde você tem que apertar os botões na hora certa para não morrer.
+
+Além disso, também tem um minigame de navinha e você pode cantar "Under the Sea" com a Pequena Sereia, o Sebastião e o Linguado no [[Pior|melhor]] mundo de todos.
+
+== Jogos ==
+* '''[[Kingdom Hearts (jogo)|Kingdom Hearts]] -''' Primeiro jogo, onde Sora descobre o [[Omnitrix]] e parte em uma jornada para encontrar Kairi e impedir seu amigo [[Riku]] de fumar baseado, ficar [[pobre]] e ir para o mau caminho. Ele conhece vários personagens de Final Fantasy (que tomam doril no terceiro jogo) e entra numa briga feia com o [[Squall Leonhart]] depois que diz a ele que sua Keyblade que abre portas e melhor que a Gunblade dele que nem da tiro.
+
+* '''[[Kingdom Hearts: Chain of Memories]] -''' Depois de derrotar Ansem, Sora fica com ânsia e vomita atras de uma moita, mas dai ele encontra o [[Castelo Rá-Tim-Bum]], um lugar onde todos que entram perdem a memoria. Sora obviamente entra e se fode, tendo agora que passar pelos mesmos mundos e derrotar os mesmos chefes do primeiro jogo (só que agora jogando truco) para voltar ao normal. Ele também deve encontrar Naminé, um palette swap da [[Kairi]] que é mantida em cativeiro pelos perigosos bandidos da Organização XIII (que estão mais ocupados tentando matar uns aos outros para subir no ranking da organização do que impedir o pirralho da keyblede de estragar seus planos).
+
+* '''[[Kingdom Hearts II]] ([[Kingdom Hearts II Final Mix|Final Mix]])-''' O jogo começa dentro da [[Matrix]] (que era modinha na época), onde [[Roxas]] e seus amigos sofriam bullying do Seifer e do [[Vivi Ornitier|Vivi]]. Depois de apanhar, Roxas vai pro quarto chorar, mas repara que o mundo não é real e decide abandonar os amigos e começar a andar com uns góticos barra-pesada seguidores do [[Anonymous]] que bebem café Três-Corações e aterrorizam os mundos da Disney com suas espadinhas de plastico. Depois disso, Sora acorda de um coma e é intimado pelo rato Mickey a salvar os mundos desses maus elementos.
+
+* '''Kingdom Hearts Coded -''' Sora fuça em seu diário e vê escrito ''"o meu tem 30 cm"''. Sem saber o que isso significa, ele parte em uma jornada épica cheia de cenários reciclados dos dois primeiros jogos para descobrir quem é o autor da mensagem e tirar satisfação.
+
+[[Arquivo:RoxasAxel.jpg|thumb|right|200px|Axé e Rochas relaxando e gozando depois de um duro dia de trabalho.]]
+* '''Kingdom Hearts 358/2 Days -''' Caça-níquel para NDS onde você controla Roxas e deve passar mais de 20 horas matando monstros para coletar EXP e puxar saco do Xemnas e dos demais membros da Organização XIII, além de socializar com Axel e Shion (primeiro clone transexual do Sora), que acaba virando purpurina de tanto chupar o sorvete do tio Axel e acaba não servindo pra porra nenhuma na história.
+
+* '''Kingdom Hearts Birth by Sleep -''' Caça-níquel para PSP, onde um trio de amigos (Aqua, Ventus e Terra) prestam vestibular na academia Jedi, mas só a fêmea do grupo passa, o que faz com que o <s>Anakin</s> Terra acabe sendo induzido pelo [[Palpatine]] a ir para o [[Lado Negro da Força]]. Enquanto isso, o clone do Sora da vez (Ventus) cruza com outro clone seu (só que do mal) chamado Vanitas, um ''badboy'' com capacete de [[Darth Vader]] que vive querendo bater em todo mundo com sua chave de plastico.
+
+* '''Kingdom Hearts 3D: Dream Drop Distance -''' Caça-níquel para 3DS, onde Sora e Riku roubam uma maquina do tempo para assistirem [[TV Colosso]] e comprarem armas de espoleta para consertarem os mundos que os Heartless foderam antes do primeiro jogo. A dupla também cruza com versões pacificas dos membros da Organização XIII, concertam a corcunda do [[O Corcunda de Notre Dame (Disney)|Quasímodo]] e perdem a virgindade no [[Fantasia (programa)|programa Fantasia]].
+
+* '''Kingdom Hearts χ -''' Joguinho para navegador de PC e para celular que tem celulite. Possui duas expansões: ''Lembranças de um Futuro Esquecido'' e ''Futuro Sombrio''.
+
+* '''Kingdom Hearts III -''' Depois de lançarem '''Kingdom Hearts I+II HD 9.9 True Final Chapter Remix 4K''', a Square não teve escolher a não ser parar com as compilações e os caça-niqueis baratos, e entregar algo novo. Neste jogo, Sora volta como protagonista e enfrenta trocentos Heartless (e Heartless com outros nomes, tipo Nobodies e Unversed) junto com Donald e Pateta, canta [[Frozen]], brinca de boneca com [[Toy Story|Woody e Buzz]], cheira o mel do [[Ursinho Pooh]], raspa o cabelo da [[Rapunzel]], reúne-se com os protagonistas anteriores e derrota Xehanort, Xemnas, Asnem e todos os outros Sephirots genéricos que o jogo põe contra você depois de uma luta de mais de três horas no cemitério-deserto das espadas-chave de plastico, onde a Kairi é esfolada pateticamente por um velho pedófilo, que vira adubo e vai jogar xadrez na boa com o amigo que ele apunhalou no ''Birth by Sleep'' enquanto o Sora fica sem sua miguxa.
+
+== Personagens-Chave ==
+{| class=sortable align=center width=100% cellspacing=0 cellpadding=3 border=1 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | 
+| width=88% | '''"Sora"'''
+|-
+| [[Arquivo:Soraviado.jpg|200px]]
+| Soraya é o protagonista da série que luta com uma chave de plástico gigante e derrota os vilões com mensagens de auto-ajuda sobre coragem, lealdade, amizade, amor ao próximo e todas os outros clichês desgastados do gênero. Acredita-se que Sora serja a autoinserção do próprio criador da série, Tetsuya Nomura, cujos pais nunca deixaram ir à Disneylandia e pro isso se imagina como um pré-adolescente de cabelo espetado que viaja pelo universo junto com os mascotes da Disney combatendo membros de uma banda de [[J-Pop]] vestidos com capas de chuva.
+Seu sêmen extraido por Ansem no fim do primeiro jogo e usado pela Organização [[11]] para criar dezenas de clones e enriquecer os bolsos da Square-Enix.
+|}
+
+{| class=sortable align=center width=100% cellspacing=0 cellpadding=3 border=1 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | 
+| width=88% | '''"Mago Donald"'''
+|-
+| [[Arquivo:Donald-fuck.jpg|200px]]
+| Donald é um ex-prisioneiro nazista que foi reintegrado à Disney e virou o braço direito do rato <s>Jerry</s> Mickey, rei da Disneylandia. Ele também aderiu ao satanismo e fez um pacto com a [[Maga Patalógica]] para poder soltar raios, bolas de fogo e cristais de gelo em troca da sua alma. Por causa do baixo salário que recebe do rato comunista, Donald tem pavio curto e está sempre de mau humor, mas secretamente planeja assassinar o [[Tio Patinhas]] para ficar com toda a sua fortuna e comprar a [[DC Comics]] e o [[Star Trek]] para se vingar do famigerado roedor. 
+|}
+
+{| class=sortable align=center width=100% cellspacing=0 cellpadding=3 border=1 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | 
+| width=88% | '''"Cavaleiro Pateta"'''
+|-
+| [[Arquivo:kh-pateta-oh-naw.jpg|200px]]
+|Pateta é o chefe da guarda do castelo do Mickey, alem de ser seu escudeiro pessoal, melhor amigo e vizir. No entanto, sua aparência amigável esconde um sociopata sádico, frio e calculista que não exita em trair e sacrificar seus aliados se isso o beneficiar. Vizinho do Bafo de Onça, Pateta é um cafetão e o chefe da [[cracolândia]] do bairro; onde ele deixa seu filho Max (que não aparece nos jogos) tomando conta da Boca de Fumo, alem de também deixa-lo cometer furtos menores junto com o obeso P.J para ganhar status na comunidade e tentar ser descolado com as cadelas da faculdade.
+|}
+
+{| class=sortable align=center width=100% cellspacing=0 cellpadding=3 border=1 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | 
+| width=88% | '''"Riku"'''
+|-
+| [[Arquivo:kh-riku-oral.gif|200px]]
+|Riku é um estereotipo de rival de mangá japonês, um pivete de cabelo cinza com tara por magia negra e que tem inveja do Sora porque a Kairi não quer dar para ele. Por ter trepado com o corvo de estimação da Malevola, Riku foi rejeitado pela própria keyblade, o que fez com que ele ficasse mais revoltado do que já era e sucumbisse aos poderes sedutores do [[Lado Afrodescendente da Força]], sendo possuído pelo Ansem e clonado (para variar) por um Sephiroth loiro e nerd virgem da Organização XIII. No fim, ele decide passar o resto da vida praticando stalking no Sora e, no fim faz as pazes com o dito cujo e os dois vão plantar batata.
+|}
+
+{| class=sortable align=center width=100% cellspacing=0 cellpadding=3 border=1 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | 
+| width=88% | '''"Kairi"'''
+|-
+| [[Arquivo:kh-kairi-sanduba.jpg|200px]]
+|Kairi é uma putinha ruiva e o interesse amoroso do protagonista (que é <s>gay</s> tapado demais para se interessar nela) que passa o primeiro jogo à merce dos malfeitores por ser uma das Sete Princesas da Disney, e portanto ter o poder de cantar [[Frozen]] para derreter a [[lua]] em forma de coração e abrir vaginas em forma de tranca. No segundo jogo, ela vira colegial e sai com a [[Selphie Tilmitt]] para cheirar cola e se embriagar for falta de atenção.
+|}
+
+{| class=sortable align=center width=100% cellspacing=0 cellpadding=3 border=1 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | 
+| width=88% | '''"Rei Mickey"'''
+|-
+| [[Arquivo:Mickey-feio.jpg|200px]]
+|Mickey é o filho prodigo do Walt Disney que acabou virando mascote e presidente da companhia depois que seu pai foi assassinado pelo [[PCC]] a mando dos [[Warner Bros.|Irmãos Warner]]. Mickey também é o primo rico do [[Jerry]] e era um frequentador diário do boteco do [[Mestre Splinter]], mas parou de beber depois que conheceu o feiticeiro [[Gandalf]], que viria a ser seu mentor e ensiná-lo a praticar bruxaria e magia negra para alavancar os negócios da empresa e transforma-la numa potencia mundial. Mickey também luta com uma keyblade por ser mais importante que o Donald e o Pateta, e passa a maior parte do roteiro desaparecido, alegando estar investigando os vilões.
+|}
+
+{| class=sortable align=center width=100% cellspacing=0 cellpadding=3 border=1 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | 
+| width=88% | '''"Organização XIII"'''
+|-
+| [[Arquivo:Organization XIII.jpg|200px]]
+|Organização XIII é uma [[Boy Band]] de cosplayers fãs de [[Final Fantasy XIII]] que atuam como terroristas nas horas vagas e adoram se apunhalar pelas costas. Eles não são ninguém, por isso caçam seres sem coração para se tornarem alguém. 
+
+Todos pagam pau para os [[X-Men]], pro isso cada membro tem "x" no nome e o nome é um anagrama da pessoa em que são <s>plagiados fumados</s> baseados. Além do "x", para ser membro d organização é necessário se vestir capa de chuva e passar gel no cabelo, além de comprar armas de plastico gigantes para arrombar o pirralho intrometido da keyblade e os figurantes da Disney.
+|}
+
+== Ver também ==
+* [[Espada grande pra caralho]]
+* [[Pixar]]
+* [[Star Wars Episódio III: A Vingança dos Sith]]
+
+{{Kingdom Hearts}}
+{{Square Enix}}
+{{Game RPG}}
+
+[[Categoria:Jogos da Square-Enix]]

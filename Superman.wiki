@@ -1,0 +1,261 @@
+<choose>
+<option>{{Super}}</option>
+<option>{{hero}}</option>
+</choose>
+<choose>
+<option>{{Alien}}</option>
+<option>{{Bombado}}</option>
+<option>{{voador}}</option>
+</choose>
+
+{{morto vivo}}
+
+{|class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+|-
+!style="text-align:center; {{{comic_color}}}"|<big>'''''Superman'''''</big>
+|-
+|style="text-align: center; font-size: 90%;"|
+<br />
+|-
+|[[Arquivo:Superglasses.jpg|center|200px]]
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+|- style="vertical-align: top;"
+|'''Publicação'''||[[Marvel]]
+|- style="vertical-align: top;"
+|'''Criado por'''||[[Stan lee]]
+|}
+|-
+|
+----
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+!colspan="2" style="text-align:center;{{{alliance_color}}}"|Características
+|- style="vertical-align: top;"
+|'''Nome Real'''[[Clark Kent|chupinga Valdeci cú de pedra]]
+|- style="vertical-align: top;"
+|'''Cidade'''||[[cracolandia]], no nordeste da [[Rússia]] (está ajudando na [[guerra da Ucrânia]])
+|- class="hiddenStructure{{{alliances}}}" style="vertical-align: top"
+|'''Afiliações'''||comunidade [[gay]] da DC, [[barzinho do seu zé]], [[Vilão|Superinimigos]],
+Clube do [[Kid Bengala]]
+|- class="hiddenStructure{{{relatives}}}" style="vertical-align: top;"
+|'''Parentes'''||'''lineu silva'''(pai adotivo), '''cirilo do carrosel'''(mãe adotiva), [[Supergirl|Ana Rose]](prima)
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''Inimigos'''||[[Darth Vader]], [[Lex Luthor]], [[Silvio Santos]], [[calvície]], [[Arnold Schwarzenegger]], [[pelo no cu]], [[Lobo(HQ)|Vin Diesel]]
+|- style="vertical-align
+Poderes:pesquisa que tu vai saber
+: .
+|}
+|}
+{{compactar|
+{{vqd|Super-Emo}}
+{{c|progressiva no pelo do saco}}
+{{c|É um pássaro? Um avião?|[[Carla Perez]]|Super-Man}}
+{{c|É um frango a passarinho?|[[Magali]]|Super-Man}}
+{{c|É O SUPER-MAN!!!|[[Yudi]]|Super-Man}}
+{{C|Ele é gay! Uniforme gay, cara de gay e que nunca come uma putinha que sempre da mole pra ele!|[[Capitão América]] com [[ciúme]]|{{PAGENAME}}}}
+{{C|Sabe voar, {{PAGENAME}}?|[[Capitão Nascimento]]|{{PAGENAME}}}}
+{{C|🎼There's a starman waiting in the sky/🎵He'd like to come and meet us/🎶But he thinks he'd blow our minds/🎵There's a starman waiting in the sky/🎶He's told us not to blow it
+'Cause he knows it's all worthwhile...|David Bowie|{{PAGENAME}}}}
+{{C|Pois o Super-Homem também teve sua adolescência!|[[SBT]]|Smallville}}
+{{C|I love Saturno!|piada super-engraçada do [[Rafael Cortez]]|Clark Kent}}
+{{c|...|[[você]]|piada acima}}
+{{C|Rose, isso não é um iceberg, é kriptoni...|{{PAGENAME}} pouco antes do naufrágio do Titanic}}
+{{C|Eu sinto como se [[eu]] vivesse num mundo feito de papelão, e tomo cuidado constante para não quebrar nada nem machucar ninguem. Eu nunca me permito perder o controle nem por um minuto pois alguém pode morrer. Mas vocês vândalos da desciclopédia [[sexo|aguentam]], não aguentam?|{{PAGENAME}} pensando em perseguir os <s>[[Filho da Puta|filhos da puta]]</s> sem graça que vandalizam a [[Desciclopédia]]}}
+{{C|Oi, eu sou o Goku.|Goku|Super-Homem}}
+{{C|Meu ídolo!|[[Super 15]], da [[Telefonica]]|{{PAGENAME}}}}
+{{C|Clark!!!! O que eu vou fazer com você? porque você sempre some quando algum vilão maluco aparece em ''Metrópolis''!!!|[[Lois Lane]] facilmente tapiada pela dupla identidade do {{PAGENAME}}}}
+{{C|O que? Melhor amigo? Porque você tem que ficar com a idiota daí de cima? Ela nem é loira de verdade!|Cloe Sullivan revoltada por nem ao menos existir na história do Superhomem}}
+{{C|E então me diga... você sangra? VAI SANGRAR!!!!|Batman|enfiar a porrada no {{PAGENAME}}}}
+{{C|Fodeu...|Batman|{{PAGENAME}} notar que a Kryptonita caiu de seu Batbolso}}
+{{C|Quando a velocidade é constante, a gravidade é 0!|[[Akira]]|{{PAGENAME}}}}
+{{C|Prefiro o [[Batman]]!|Robin|{{PAGENAME}}}}
+{{C|O disfarce de Clark Kent mostra a visão que ele tem dos humanos: seres fracos, desengonçados e medrosos!|Quentin Tarantino|{{PAGENAME}}}}
+{{C|Na [[União Soviética]], o {{PAGENAME}} é salvo por '''VOCÊ!!'''|Reversal Russa|{{PAGENAME}}}}
+{{C|Em [[Togo]], o você superhomiza o salvamento.|Inversão Togolesa|{{PAGENAME}}}}
+{{C|Eu nunca fui muito religioso, mas se você está aí em cima... Me salva, ó {{PAGENAME}}!|Homer Simpson|{{PAGENAME}}}}
+{{C|Passei por ele.|{{PAGENAME}}|[[Adelir de Carli]], o [[padre]] voador dos balões}}
+{{C|Olhem lá no céu, é uma pássaro... E aqui no chão é uma barata. Hei, aquilo ali é um esquilo?|[[Guria Retardada]] de [[Os Padrinhos Mágicos]]|{{PAGENAME}}}}
+{{C|Minha marreta biônica é maior que a dele!|Chapolin|{{PAGENAME}}}}
+{{C|O Pinguim jogou Kriptonita em mim, estou fraco. Mulher Maravilha, o jeito é dar uma fugidinha com você!|Superman|Mulher Maravilha}}
+{{C|Eu sou mais rápido que ele!!!|Flash|{{PAGENAME}}}}
+{{C|Eu odeio esse cara... mas um dia eu vou matar o Superman!!!!|Lex Luthor|{{PAGENAME}}}}
+{{C|Aprendeu a lutar comigo!|Lindomar|{{PAGENAME}}}}
+{{C|Não aguenta dez minutos de porrada comigo!|[[Gil Brother]]|Superhomem}}
+{{C|É de mais de 8000!|[[Vegeta]]|poder de luta do Superman}}
+{{c|É um pássaro? É um avião? Não! É o SUPER-BABACA!|[[Tocha Humana]]|Superhomem}}
+}}
+[[Arquivo:Superman armscrossed 2009-1.gif|left]]
+[[Arquivo:Superhomemguitarhero.jpg|thumb|Quando não tá fazendo [[porra nenhuma]] Superman joga Guitar Hero.]]
+
+{{Entrevista|Super-Homem}}
+[[Arquivo:Supermankrip.jpg|thumb|Hum... vou olhar nesta máquina de '''kriptonita''' pra ver o que tem dentro...]]
+
+'''Super-Homem''', chamado de '''Superman''', '''Superhomem''', '''superhomen''', '''[[Superpop]]''', '''Homem de Aço''', '''Sujeito que não é um passáro, não é um avião''', '''Escoteiro Voador de Cueca Vermelha''', '''o Fodão da Liga da Justiça''' é um personagem criado pelos [[nerd]]s sem vida social viciados em quadrinhos da [[DC Comics]]. A inspiração veio quando eles bolaram a fantasia vendo um amigo numa festa, completamente bêbado, se jogar do telhado da casa com os pulsos cerrados estendidos como quem fosse voar. E usava a coeca por cima da calça.
+
+Entre um pileque e outro acabaram ficando tão doidos que criaram uma história abusada de um filho ter conseguido sobreviver à explosão de um planeta, enfim. a temática é fraca, mas já foram criadas várias cópias em cima disso, na mais recente, ele é um adolescente que finalmente luta contra bandidos. Este <s>boioloso</s> fabuloso personagem seria um homem perfeito: conceito semelhante a um [[político honesto]]. 
+
+Hoje, o Super-Man é um [[velho]] [[barrigudo]] e [[desempregado]], ex-super-herói, [[divorciado]], que passa as tardes assistindo [[Super-Tv]] ou jogando [[Guitar-Hero]]. Está passando por uma depressão por não ter mais nenhum vilão para combater, já que todos foram exterminados por [[Chuck Norris]] ou [[Chapolin Colorado]].
+
+Tudo sempre começa num planeta cientificamente desenvolvido, que estava passando por fases difíceis. Até que um dia, um cientista chamado Jor El (Também conhecido como: O Kriptoniano maluco total) descobre que o planeta vai <s>cagar</s> explodir. 
+
+Numa tentativa desesperada, avisa que o planeta vai explodir, mas como as pessoas achavam que ele estava tentando converter outros para sua religião(cheiramento de gatiptonita), as pessoas nem dão bola (como as da [[Terra]] sobre o aquecimento global) e vendo que o tempo de Kripto explodir se aproximava. Ele tomou uma atitude desesperada: colocou seu filho, Kaike Aberto Lontra Eustácio Leonor (Sigla: Kal El) numa nave para viajar pelo espaço, sem nem pensar nas conseqüencias, e que ele tinha muito mais chance de viver até os dois anos de idade naquele planeta do que no espaço.
+
+Por alguma coincidência, a nave acaba caindo aqui na [[Terra]], perto da cidade de Cabaceiras(próxima ao <s>cu ralado</s> curralinho) numa pequena vila traduzida de [[Smallville]] para Pequenópolis. E o garoto, acabou sendo encontrado por Jonathan Kent e Martha Kent, que acabaram adotando o garoto, já que não podiam ter filhos. Deram-lhe o nome de Clark Kent.
+
+Com o o tempo, os super poderes de Clark foram aparecendo, mas ao invés de usar seus poderes para o bem, ele passou a usá-los para se dar bem nos esportes, como é visto em "''Smallville - As Aventuras do Superboy''" (subtítulo <s>imbecil</s> <s>[[idiota]]</s> <s>retardado</s> inteligente inventado pelo [[SBT]]), até que um dia seu [[Teu Pai|pai]] adotivo lhe falou a verdade: Que ele fora encontrado numa nave espacial. 
+
+Nesta série, Super-homem é interpretado por [[Diogo Mainardi]] - o único que possuía <s>[[viadagem]]</s> qualidades semelhantes ao herói original. Conta-se que nos testes disputaram pela vaga - além de Mainardi - [[FHC|Fernando Henrique Cardoso]], [[Aécio Never]], [[Zagallo]], [[Clodoaldo]] ([[Zorra Total]]), aquele cara que canta a música no [[Youtube]] (namorado do [[Wilson]]), [[Clodovil]] e o próprio [[Lindomar, o Sub-Zero Brasileiro]].Que é o filho dele logicamente, depois de tantos anos ele tinha que deixar um herdeiro, ele bota pra quebrar!!! Empregada maldita!
+
+== A origem do Super Homem ==
+[[Arquivo:superhomem.jpg|thumb|{{PAGENAME}}, posando para foto publicitária normal.]]
+
+Acreditava-se que no início dos anos 70 a nave do [[Super-Homem]] tivesse vindo direto para a terra, mas na verdade, ele ia em direção ao sol, quando um filha da puta espacial deu uns tiros na na nave do Super-Homem, que acabou indo em direção ao [[Planeta Terra]]. no princípio, ele decidiu treiná-lo, mas como ele falhou miseravelmente, jogou ele e sua nave no espaço, que acabou caindo em [[Smallville]], onde foi criando por [[pais adotivos]], e decidiu treinar sozinho para vingar-se desse filha da puta espacial por derrubar a nave dele, mas, não adiantou de merda nenhuma, pois ainda continua perdendo feio para ele.
+
+Sabendo que era estranho demais para ser filho de Jonathan e Martha, Clark toma a difícil decisão de sair de casa, e passa a usar seus super-poderes para evitar tragédias e prender bandidos.
+
+[[Arquivo:Varig.JPG|thumb|left|Retrato falado do Avião que o Superhomem salvou]]
+
+A primeira aparição do Superhomem foi quando <s>a sua mãe era virgem</s>, ele estava observando dois irmãos que estavam transando,já que eram gays. Por algum motivo, a trepadeira dos dois resultou em uma máquina que poderia fazer com que os seres-humanos pudessem perder o pinto, obviamente, todo mundo da imprensa estava lá, desde a [[Globo]], até o Planeta Diário.
+
+Como os [[irmãos Wright]] eram <s>tarados</s> cavalheiros, eles convidaram a única repórter que cobria o acontecimento a entrar no avião. Depois de toda encenação, o avião começou a decolar e todo mundo ficou surpreso, mas de repente algo deu errado e o avião começou perder altitude. 
+
+[[Arquivo:Supermancachaça.jpg|thumb|left|Superman enchendo a cara.]]
+
+Usando seus "super"-sentidos, Clark percebeu que o avião iria cair e foi voando até lá para evitar que uma tragédia acontecesse, fazendo o avião pousar em local seguro. Como a população não tinha visto nada, os americanos consideraram os irmãos Wright os inventores do avião, e a figura que os salvou continuou no anonimato.
+
+Com medo de que as pessoas descobrissem que foi ele que salvou os irmãos Wright, Clark saiu correndo para casa e pediu a ajuda dos pais, que bolaram o primeiro uniforme de super-herói do mundo, com algumas roupas que vieram da sua nave.
+
+Mais tarde, ele foi morar na cidade, onde conseguiu arrumar emprego num jornalzinho local, o Planeta Diário. Ao longo de sua vida, Clark Kent fez apenas dois amigos, Lois Lane e Jimmy Olsen.
+
+DC, então, pegou essa linda história e a transformou numa história em quadrinhos, em oposição áo lendário gibi [[Turma da Mônica]], as HQs do Superman foram bem populares, mas, a turminha chapada lendária o fudeu bem no anûs quando se juntaram com [[Faustão]] e usaram seus poderes de punheta contra Superman.
+
+== Amigos do Superhomem ==
+[[Arquivo:jjameson.JPG|thumb|Perry White pedindo fotos do Super Homem.]]
+[[Arquivo:Super idiota-1-.jpg|right|thumb|Fã demonstrando seu amor pelo ídolo.]]
+
+*'''Lois Lane''': a puta-paga que é sempre salva pelo Super Homem. No começo do desenho ela parece ser inteligente, mais é só impressão já que ela sempre está perto do Super Homem e nunca percebeu quem ele realmente é. Mesmo com a única diferença entre ele e Clark Kent sendo os óculos. Eventualmente, Lois já descobre o segredo do Clark, os dois se casam e tem um filho que é metade humano e metade kryptoniano. 
+
+*'''Jimmy Olsen''': fotógrafo(rival do [[Homem-Aranha|Peter Parker]]) e filho do dono do jornal. Foi responsável por fotografar várias celebridades, como [[Daniela Cicarelli]] e [[Lindomar]] <s>e o escândalo sexual entre Batman e Robin</s>.
+
+*'''Perry White''': é o dono do Planeta Diário, vive querendo fotos do Super Homem para seus prazeres pessoais, possui um irmão gêmeo que trabalha com um outro super-herói.
+
+*'''Supermoça''': É a prima do Super Homem. Também veio de Krypton como ele, e possui os mesmos poderes. Mas começou a ganhar mais notoriedades quando trocou a saia por um shortinhos de puta dos anos 70-80 e quando foi morta em Crises em Terras Infinitas. Mas acabou retornando como todo personagem da DC, com uma outra origem. 
+
+[[Arquivo:Valerioautografo.jpg|thumb|right|[[Lex Luthor]], dando uma esmola para um [[Pivetinhos de Fliperama|pivete]].]]
+
+*'''[[Lex Luthor]]''': homem mais rico do mundo e dono de metade de Metrópolis, originalmente era um velho milionário gordo e com cabelo ruivo. Mas depois a produção quis colocá-lo como o vilão principal da série (Amigo do Super-Homem o caralho!). E em função disso acabaram deixando o personagem como é conhecido hoje, um careca bombado e viado(Ver também: [[Vin Diesel]]). 
+
+*'''Lana Lang''': foi namorada de Clark na adolescência. Como o seriado Smallville mostra, é uma [[guria retardada|garota sem personalidade]] que namorava qualquer criatura que aparece em sua frente.
+
+*'''Bizarro''': o irmão inteligente do Superman. Em pouco tempo de super vilanismo já percebeu o quão pra nerd era fazer aquele papel e resolveu virar professor numa univesidade.
+
+*'''Superboy''': em algumas histórias é o próprio {{PAGENAME}} quando jovem e em outras é filho de Lois Lane com Clark Kent. O mais difícil não é imaginar que agulha furaria a orelha do homem de aço, mas sim como Lois aguentaria uma [[porra|ejaculação]] de Clark sem explodir.
+
+*'''Krypto''': Personagem ultra-criativo, o Supercão. Não passa disso, o cachorro do Superman. Originalmente ele veio antes dele em uma nave, porém quando descobriram que a história era muito sem noção/sentido, mudaram para um animal terrestre que teve relações sexuais com Clark Kent.
+
+== A Verdade... ==
+[[Arquivo:SantaCeiaDC.jpg|thumb|center|600px|{{C|Em verdade vos digo: um de vós irá me trair...|Super-Homem|a [[Liga da Justiça]].}}]]
+
+O Super Homem tem quase todos os tipos de poderes conhecidos nas histórias em quadrinhos (visão de calor e raio-x, voô, hyper força, super sopro, bafo gelado, super velocidade, habilidade de parar o tempo entre <s>outras coisas que tornam o desenho/ História em quadrinhos/ série de filmes / série de TV tão idiota e sem graça</s> outros, alem de ter a habilidade de fazer o anal giratorio com ar condicionado.Apesar disso (comprove você mesmo) ele só apanha, tanto nos filmes quanto nos desenhos, sendo que só bate no fim pra ter um final feliz.
+Já seu parceiro <s>sexual</s> de trabalho, Batman, (que só joga boomerang e da voadora) espanca tudo e todos sem nem ao menos rasgar a roupa.
+[[Arquivo:Batman_Bin_Suparman.jpg|thumb|200px|[[Batman]] [[Osama Bin Laden|Bin]] [[Superman|Suparman]]]]
+Além disso Superman é um caipira que nunca pega a Lois Lane, é pobre e tem uma franja medíocre.
+
+Enquanto Batman é um Megalionário que pega <s>O Robin</s> a gostosa da Mulher Maravilha, a Mulher Gato, Talia Al Ghul e a Mulher Gavião quando o <s>corno</s> Lanterna verde não está olhando, e tem voz de Cid Moreira.
+
+Outra verdade pouco conhecida e pouco comentada sobre o Super é seu complexo de Édipo enrustido. Vejamos os fatos: sua mãe se chamava Lara Lor-Van, iniciais L.L. Depois de adulto, o Superhomem só foi atrás de mulheres com as mesmas iniciais: primeiro Lana Lang, depois Lois Lane, Lex Luthor (ambos são biba) (e até a Lori Lemaris, se quiserem considerar a sereia dos quadrinhos dos anos 60). Alguém pode se perguntar o que o Super vai fazer, depois que não achar mais nenhuma mulher com as iniciais L.L., mas a resposta é óbvia - afinal, porque vocês acham que o '''L'''ex '''L'''uthor tem tanta inimizade com o Super? Porque ele sabe que quando as mulheres com L.L. acabarem, o [[cu|dele]] estará na reta!
+
+
+Você pensava que ele gostava da lois lane, cara ele come a mulher maravilha todo dia.
+
+== Versão SuperEmoh ==
+
+Nessa versão criada por Hitler durante a segunda guerra mundial, SuperHomem era um boiola assumido e Emo(opa, é a mesma coisa), a roupa, era uma fantasia de carnaval de borboleta, a super-liga contava com [[Lion]], Líder dos Thundercats, Robin, Batman, Ciclope, Homem-Aranha e Sr. Incrível do quarteto fantástico. 
+
+Eles passavam seus dias tendo superaventuras, sempre arranjavam desculpas para ir a casa do lanterna verde e do Lex Luthor. Também tinham o super carro, (com cadeiras vibradoras, e <s>propositalmente</s> estranhamente com uma deformação que lembrava a forma de uma salsicha.
+
+== Morte do Super Homem ==
+[[Arquivo:supergirlkara.JPG|left|thumb|Uma das maiores viagens da [[DC Comics]], [[Supergirl]] dando uma surra em si mesma]]
+
+Depois de tantos anos de lutas, o super-herói não estava dando mais toneladas de dinheiro para a DC(Distribuidora Cabaceiras). Então eles decidem tomar uma decisão desesperada: matar o Superhomem(de novo). 
+
+[[Arquivo:Superman fronha.jpg|thumb|Ih, fodeu. Agora ele vai descobrir porque o {{PAGENAME}} é o homem de aço.]]
+
+Então eis que surge a ideia: uma estranha criatura aparece em algum lugar do [[Acre]]. Como a ameaça surgiu no Acre, a Liga da Justiça não deu muita bola e acabaram mandando alguns heróis <s>inúteis</s> para investigar. Eles acabaram levando uma surra, mas o governo encobriu tudo, para que ninguém suspeitasse de que o Acre realmente existia. Porém mais tarde o caso Floresta do Acre veio a tona, e a Liga <s>das bibas</s> acabou tendo que fazer algo a respeito. 
+
+Superhomem, então decidiu ir até o [[Acre]] para investigar, onde encontrou uma estranha criatura(mais tarde apelidada de Apocalypse) parecida com uma versão Chuck Norris, de pele cinza, sem alguns dentes, com as garras do Wolverine e com 100.000.000.000.000.000.000 menos poder. Eles, então começaram uma luta e acabaram dando voltas ao mundo, que foram do Rio de Janeiro ao Afeganistão, mas infelizmente nem os terroristas nem os moleques da caixa-baixa(com seu "ataque soviético"), foram suficientes para derrotá-lo. Até parar em Metrópolis.
+
+Não podia contar com seus outros companheiros de liga da justiça já que Mulher-Maravilha gravava mais um de seus filmes de SoftPorn, Batman tinha ido acampar com Robin nas montanhas e o Aquaman nada podia fazer (já que ele só fica na água e não á nenhuma fonte de água em todo o Estado do Acre). 
+
+Nessa hora ele toma uma decisão arriscada, ligou para Pablo que queria um parceiro também tinha dinheiro e queria se armar. 
+
+Falou que não tinha como derrotar aquela criatura sozinho, Pablo trazia um contrabando da Bolívia, uma droga que faria o menino de Cabaceiras vencer qualquer coisa, quando Pablo chegou com a siringa pulou do pescoço do homem-de-aço e injetou a droga que causou uma overdose fatal no herói. Apocalypse continuaria até hoje no Acre se alimentando de Coliformes Fecais e dinheiro público, se um [[mafagafo]] finalmente não resolvesse destruí-lo.
+
+{{Morto vivo}}
+
+== Super Madruga ==
+[[Arquivo:Supmadrug.jpg|thumb|left|{{PAGENAME}} depois que virou [[homem]] ([[macho]])]]
+
+Ele fica acabado e larga tudo inclusive <s>a fantasia do orgulho gay</s> as roupas para trabalhar num seriado promissor lá no méxico, muda novamente de identidade e resolve usar seus super-poderes para encher o saco dos moradores da vila.
+
+== Curiosidades sobre o Superhomem ==
+[[Arquivo:Apolomidnight.JPG|thumb|Quem [[Sexo|dá]] mais?]]
+
+*Todas as pessoas [[amante|importantes]] na vida de Clark Kent começam com a letra L: Lois Lane, Loris Lemaris, Lana Lang, Lex Luthor;
+*Esta não é a versão original do Superman, o original era um ditador alienígena que mandava na Terra;
+*Metrópolis existe mesmo, só que não é tão grande quanto é retratada nos quadrinhos;
+*Tem um pau que arregaça qualquer buceta.
+*Super-homem nunca mais foi visto desde que Ben 10 apareceu fazendo sucesso com as crianças.
+*ele fez uma aposta com Chuck norris: quem perdesse no braço de ferro usaria a cueca por cima da calça.
+*Em um futuro distante, o Superman e a Mulher-Maravilha dão uma rapidinha entre dominação global e o jantar, mas por serem 2 irresponsáveis com titica na cabeça abandonam o muleque que nasceu, o corno do Batman fica com a guarda da criatura mais foderosa do universo... pobre universo...podre universo
+*O pessoal da Esquerda brasileira diz que ele é um símbolo do imperialismo yankee (só por causa dele usar uma roupa azul e vermelha) ... mas vamos parar para pensar um pouco ... o Super-Homem é super poderoso mas ele prefere esconder sua identidade e seus poderes como um simples e anônimo cidadão chamado Clark Kent (se eu tivesse os poderes dele eu iria arranjar um jeito de ficar rico e famoso ¬¬) isso tudo em nome de "um bem maior". Ele é bastante humilde e não se acha superior a ninguém, gosta de se misturar com o povo (diferente do [[Batman]]...). Ele acredita na igualdade suprema e o maior inimigo dele é um [[empresário]] que explora os fracos e oprimidos, [[Lex Luthor]] !!! De Direita o Super Homem não é.
+*Na verdade, ele é um [[vagabundo]] [[comunista]] que tem o objetivo de levar a [[fome]] ao mundo e comer criancinhas, como visto na HQ [[superman: entre a foice e o martelo]]
+*Um dia, o Pinguim jogou [[kriptonita]], e o Superman ficou fraco. Nesse mesmo dia, [[Lex Luthor]] e [[Coringa]] roubaram o laço da [[Mulher Maravilha]]. Desse modo, a Mulher Maravilha teve que fugir com o Superman.
+
+[[Arquivo:Supa face.jpg|thumb|300px|Super-Homem tendo pequenos problemas com o [[Facebook]].]]
+
+== Ver também ==
+*[[Batman]]: [[morcego]] mutante que dança o [[Dança do Créu|Créu]]
+*[[Aizen Sousuke]]: uma homenagem ao {{PAGENAME}} (bom, ao Clark Kent, pelo menos)
+*[[Goku]]: alérgico à [[Kryptonita|pedra]]
+*[[Super Sam]]
+*[[Super Vicky]]
+*[[Super Papo]]
+
+{{Oposto|Bizarro}}
+{{Recordistas|ser o primeiro super-herói, e também o personagem que a mais tempo aparece em videogames - desde 1978}} 
+{{Pessoas_Indestrutiveis}}
+{{Bloco de navegação
+|Super-Homem
+|MAN
+|DC
+|Tabela Super
+|Batman
+}}
+
+[[Categoria:Pessoas que eram sacaneadas na escola]]
+[[Categoria:Cristãos fictícios]]
+[[Categoria:Jornalistas fictícios]]
+[[Categoria:Franjudos]]
+[[Categoria:Escritores fictícios]]
+[[Categoria:Possuídos pelo demônio]]
+[[Categoria:Superdotados]]
+[[cs:Superman]]
+[[el:Σούπερμαν]]
+[[en:Superman]]
+[[es:Superman]]
+[[fi:Teräsmies]]
+[[fr:Superman]]
+[[he:בנימין נתניהו]]
+[[id:Suparman bin Sukarton]]
+[[it:Superman]]
+[[ja:スーパーマン]]
+[[ko:슈퍼맨]]
+[[no:Supermann]]
+[[pl:Superman]]
+[[sr:Супермен]]
+[[sv:Stålmannen]]
+[[tr:Süpermen]]
+[[zh:超人]]
+[[zh-tw:超人]]

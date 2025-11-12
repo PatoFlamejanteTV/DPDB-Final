@@ -1,0 +1,287 @@
+{{Game}}
+{{Infobox Game
+|title     = Pokémon Diamond / Pearl
+|image     = {{#switch: {{#expr: {{#time: H}} mod 2}}|0=PokémonDiamond|1=PokemonPearlCapa}}.jpg
+|caption   = {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Na capa, Dialga com o cu arriado rosnando pro Hominvisivel|1=Na capa, Palkia mostrando o tamanho do pau de quem enrabou ele de noite}}
+|developer = [[Game Freak|Game Tang]]
+|publisher = [[The Pokémon Company|Pokémon CoCo]]
+|released  = 2007
+|genre     = RPG/Viadagem
+|platform  = Nintendo DS/Nintendo 64
+|rating    = 8,1
+|ages      = 5-10 anos (isto não se aplica aos [[Nerd]]s)
+}}
+
+{{C|THUD!!!|Seu rival|uma de suas muitas "aparições surpresas".}}
+{{C|FIDAPUTAAAAAAAAAAAAA!|Você|a Nintendo te obrigar à comprar mais fitas só pra conseguir todos os Pokémons.}}
+{{C|MERDAAAAAAAAAAAAAAA!|Você|ficar sem itens no Mt. Coronet}}
+{{C|PORRAAAAAAAAAAAAAAA!|Você|os Pokémons mais fodas serem impossíveis de pegar.}}
+{{C|CARALHOOOOOOOOOOOOO!|Você|Floatzel.}}
+{{C|QUE LIXO!|Você|Poketch.}}
+{{C|PUTAMERDA!|Você|não ter nenhum Pokémon de fogo além do Ponyta pra pegar.}}
+{{C|AAAAAARGH!|Você|não poder usar certos lendários na Battle Tower.}}
+{{C|QUE BOBBA!|Você|lutar com Blissey e seu elevado HP.}}
+
+'''Pokémon Diamond/Pearl''' é a quarta geração dos jogos de Pokémons, e a mais caça-níquel de todas. É também a geração com os personagens mais bregas, os Pokémons mais idiotas, e nada de melhorarem os gráficos, que continuam o mesmo lixo de sempre exceto por uns efeitinhos 3D toscos, além de uma porrada de frescuras inúteis como o tal Pokétch, ou Pokémerd.
+
+== O jogo ==
+[[Arquivo:Sinnoh Iniciais.jpg‎|thumb|left|230px|Chimchar, Piplup e um ''pouco effective'' Turtwig são os Pokémons iniciais.]]
+Nada de novo: caçar Pokémons no meio do mato, bater nos caras maus, ganhar a liga Pokémon e ir atrás dos lendários. Porém eu tenho uma péssima notícia pra você: você NÃO vai conseguir nenhum lendário aqui! (''[[Risada Diabólica|MWAHAHAHAHAHAHAHA]]!'') A menos que você seja um cara podre de rico e possa comprar todas as cinco versões de GBA, mais as três de DS, sem contar uns ''spin-offs'' ridículos por aí, tudo para conseguir os Pokémons lendários e as novas evoluções, que nem são lá essas coisas...
+
+== História ==
+Blá-blá-blá, você quer ser o melhor treinador Pokémon (pra variar), tem esse seu rival que quer cortar seu barato, mais um grupo de caras maus que querem dominar o mundo com o poder dos Pokémons lendários e você tem que impedir, e toda aquela baboseira de sempre.
+
+== Personagens ==
+[[Arquivo:Rhydon2.png|thumb|right|O protagonista Lucas e seu Rhydon em belíssimos gráficos do [[Nintendo DS|Ñ-Intendo DS]].]]
+* '''Lucas:''' O carinha do jogo. Eles tavam com preguiça de criar um personagem novo, então pegaram o Red do primeiro Pokémon e deram uns ajustes. Mais um com cara de idiota.
+* '''Dawn:''' A minina do jogo, e também o personagem mais brega do jogo (aliás todos os personagens desse jogo são bregas).
+* '''Rowan:''' O novo pesquisador dessa versão, nada mais é que um paga-pau do Oak.
+* '''[[Professor Carvalho|Oak]]:''' O bom e velho, aparece depois que você zera só pra encher liguiça.
+* '''Ralph/Barry:''' Seu rival, e mestre na arte de [[correr pra caralho]]. Também é capaz de aparecer e desaparecer do nada, fazendo muitos pensarem que ele é [[ninja]].
+*'''Cintia''': mais uma [[mulher]] fresca e gostosa no jogo. Ela é Campeã da liga pokémon
+=== Líderes de Ginásio ===
+[[Arquivo:Shaymin.png|thumb|right|Olhem só, eu tenho um Shaymin!]]
+* '''Roark:''' Um minerador, e líder de ginásio nas horas vagas. É o único líder de ginásio que tem uma profissão de verdade. Usa Pokémons de pedra([[Sarcasmo|milagre o primeiro líder dos jogos não ser desse tipo]]).
+* '''Gardenia:''' É chegada numa [[Maconha|erva]], fazendo-a usar roupas estranhas e dizer coisas sem sentido. Usa Pokémons de grama/planta.
+* '''Maylene:''' Uma pivetinha de dez anos, quebrou todo mundo no ginásio com um [[Losango Aberto Invertido]] e virou líder do ginásio. Usa Pokémons lutadores.
+* '''Crasher Wake:''' Se acha o fodão, assim como acha que esse nome ridículo é legal e que aquela tranqueira na cara dele deixa ele mais fodão. Usa Pokémons de água.
+* '''Fantina:''' Mais [[Media:Exemplo.ogg]] uma perua, ganhou todos os concursos do [[Domingão do Faustão]] e começou a achar que isso era suficiente pra ser líder de ginásio. Usa Pokémons fantasmas.
+* '''Byron:''' Pai do Roark, e minerador aposentado, vivendo agora de aposentadoria e passando o tempo como líder de ginásio. Usa Pokémons aço/metálicos.
+* '''Candice:''' Mais uma pivetinha. Como não tinha sobrado nenhum outro treinador decente naquele [[cú]] de mundo, sobrou pra ela virar líder de ginásio. Usa Pokémons de gelo.
+* '''Volkner:''' Um cara com merda na cabeça, que pareçe mais com o quarto Hokage, instalou um puta painel solar no meio da cidade pra fazer umas experiências no ginásio, e acabou causando um blecaute na ilha inteira. Usa Pokémons elétricos.
+
+=== Team Galactic ===
+Substituindo as ridículas Team Magma e Team Aqua, e a falida Team Rocket, surge para essa geração a Team Galactic. Nada muito maligno: Um enorme grupo de babacas que fazem o que fazem sem saber porque (pelo menos até o Platinum chegar) e fazendo [[cosplay]] de astronautas. Também acham muito divertido dar nome de planetas e sobrenomes de [[Miley Cyrus|celebridades]] aos membros. Enquanto na Team Rocket os integrantes usavam [[Sadomasoquismo|roupas pretas e possuíam um temível chicote]] (que usavam em algumas [[Misty|treinadoras]] e alguns Pokémons também!), na Team Galactic todos usam uma roupinha de astronauta e um cabelo-de-tigela azul, o que os dá uma aparência de [[Emo|fragilidade emocional]], e de idiotas também.
+* '''Mars:''' Pensa que é alguma coisa só porque entrou pra essa equipe cheia de dementes que se fantasiam de astronauta. Tem mania de mandar nos outros.
+* '''Jupiter:''' A biscate do jogo (sempre tem uma), pra variar quer dar pro líder da equipe.
+* '''Saturn:''' Mais um puxa-saco, aparece só pra apanhar.
+* '''Cyrus:''' O líder da equipe, esse é ruim. Quer destruir o universo e criar um novo onde ele é o mais fodão, mas é claro que é só mais um perdedor pra você bater.
+* '''Charon:''' Um velho demente que foram buscar no Platinum. Não tem pokemons, e é só mais um puxa-saco retardado
+
+=== Elite Four (ah, você já sabe o esquema) e o campeão ===
+[[Arquivo:Elitesinnoh.jpg‎|thumb|left|Bertha, a vovó, Flint, o piromaniaco, Lucian, o travesti e Aaron, o [[maconheiro]].]]
+
+* '''Aaron:''' Pra variar, mais um pivete. O [[Bugsy|SEGUNDO]] treinador que chegou a algum lugar com Pokémons inseto.
+* '''Bertha:''' Aposentada do INSS, quando não tá na fila pra receber seu seguro fica na liga tapando buraco. Usa Pokémons terrestres.
+* '''Flint:''' Cosplay do Tomellirola, é o segundo treinador da Elite Four que aparece fora da liga.<s>Não</s> usa Pokémons de fogo.
+* '''Lucian:''' Um mágico, pensa que é melhor que [[David Copperfield]], Chris Angel e o [[Mister M]]. Usa Pokémons psíquicos.
+* '''Cynthia:''' Você encontra ela vagando por aí dando itens a troco de nada, daí descobre que ela é que é a campeã da liga. Todos os Pokémons dela são de tipos diferentes.
+
+==Diferenças dos Jogos Anteriores==
+===Safadeza no Pokémon===
+[[Arquivo:Pokétch.jpg‎|thumb|right|Lucario recebendo um Pokétch.]]
+Apesar do nome, o Pokétch é um relógio que usaram de desculpa para encher a tela de baixo do [[Nintendo DS|DS]] com alguma coisa. Mostra as horas e uma calculadora, mas se você for [[nerd]] suficiente para ir atrás de ''Pokétch Apps'' no jogo, você pode também utilizar o Pokétch como calendário, como aparelho de encontrar itens e como bloco de notas (inútil, pois suas notas são apagadas se você sair do aplicativo, até a [[Microsoft]] o cu da puta sabia disso!). Só não serve para dar prazer, como o nome diz...
+
+===Novos Pokémons===
+Os Pokémons dessa geração são os mais escrotos, mais toscos, mais mau desenhados, mais sem imaginação e mais sem graça de todas as gerações. Não basta isso como também selecionaram apenas os Pokémons mais idiotas das gerações anteriores para esse jogo, como o [[Zubat]] e o [[Magikarp]]. Os iniciais são ridiculamente parecidos com os iniciais da primeira geração, e tiveram coragem de fazer [[Togekiss|uma terceira evolução]] para o [[Togepi]], que sempre foi considerado o pior Pokémon do tipo normal do jogo inteiro!
+
+====Pokémons Lendários====
+[[Arquivo:Super effective.gif‎|thumb|left|<s>Pegando</s> Destruindo um Arceus.]]
+[[Arquivo:XiterPokemon.png|thumb|right|Sou cheater mesmo, e daí?!]]
+Sem muita imaginação para criar mais 107 Pokémons novos para essa geração, a equipe de design de Pokémons da Game Freak criou [[14|catorze]] lendários!!! Porque os lendários ficaram tão comuns?!? Eram [[5|cinco]] nos jogos da primeira geração!!! [[6|Seis]] nos da segunda geração.[[8]] na terceira. Porque quiseram colocar [[14|catorze]] lendários?!!?!
+* '''[[Uxie]], [[Mesprit]] e [[Azelf]]:'''Trio lendário mais cagado de todos (sim meus amigos, conseguiu superar os pedregulhos).Na geral são três guardiões da lagoa inúteis que só serviram para o vilão ficar emputecido quando pegou eles.
+* '''[[Dialga]]:''' o deus Pokémon do tempo, é mais um cachorro, como se você já não estivesse cheio de cachorros.
+* '''[[Palkia]]:''' o deus Pokémon do espaço, é alguma coisa incompreensível. Na capa parece estar com um problema intestinal.
+* '''[[Heatran]]:''' Parente do [[Groudon]],Ele nem Parece um Lendário, é uma rolha que tapa o buraco de um vulcão. Mundialmente odiado por ser o único Pokémon que possui um ataque que por [[5|cinco]] tira um dano de força 140.
+* '''[[Regigigas]]:''' Mestre das pedras lendárias, e o primeiro lendário que te sacaneia, lhe obrigando a ter os três pedregulhos do Pokémon de GBA e transferir pro DS pra poder pegá-lo. '''AVISO: PREPARE-SE PARA TOMAR UM CACETE DELE, POIS ELE ESTÁ NO lv. 1.'''
+* '''<s>Gelatina</s> [[Giratina]]:''' o deus Pokémon das dimensões, é um puta dum bichão gigante escondido numa caverna, e mais um que vai te dar um toco.
+* '''[[Cresselia]]:''' Mais um lendário miserável que fica vagando vagando por aí, te obrigando a usar sua preciosa Master Ball caso não queira ficar uma hora caçando ele e rezando pra conseguir pegar ele. Aparentemente é a mãe de [[Porygon]].
+* '''[[Manaphy]]:''' Outro lendário que te sacaneia, te obrigando a zerar um ''spin-off'' inteiro para conseguir pegá-lo, e descobrir que não passa de mais um Pokémon fofinho nojento. Salve o fato de que pelo menos é um ''spin-off'' <s>lixo</s>legal (Pokémon <s>Power</s> Ranger), não um lixo qualquer como [[Pokémon Mistery Dungeon]].
+* '''<s>iPhone</s> [[Phione]]:''' Cruze seu Manaphy com um <s>Hermafro</s>[[Ditto]] e consiga um lendário mais inútil ainda. É possível também obte-lo cruzando Manaphy com [[Celebi]], como é mostrado no [[Celebi|artigo dele]].
+* '''[[Darkrai]]:''' Pra conseguir ele, desligue seu DS e vá dormir, então tenha um pesadelo com ele e capture ele no pesadelo. Quando acordar, ligue seu DS e lá estará ele no seu time.
+* '''[[Shaymin]]:''' um hamster florzinha. PUTA QUE PARIU! E o pior é que o [[Oak]] tá atrás dessa merda. Lamentável. Custa uma passagem para os [[Estados Unidos]] pegar esse Pokémon, já que ele só é liberado naqueles eventos que a Nintendo cria para arrancar dinheiro.
+* '''[[Arceus]]:'''<s>Mais um clone do [[Mew]]</s> O deus de todos os Pokémons, ou seja, o mais fodão, apelão, cabulosão, etc. E você, seu [[cheater]] de merda, será capaz de controlar um deus! É isso aí, é só inserir o seguinte Cheat no seu Action Replay:
+
+ 94000130 FCFF0000
+ B21C4D28 00000000
+ B0000004 00000000
+ 0000AA3C EDB88320
+ 2000AA68 0000000A
+ D2000000 0000
+
+Pronto! Agora você tem o mais poderoso de todos os Pokémons sobre o seu controle! Mas cuidado pra não ficar chateado e acabar por perder a porcaria do Arceus numa aposta online. Ah! Acabei de me lembrar que se você não tiver cuidado talvez o tal do Arceus peça pro Darkrai pra te enfiar o Arceus da goela abaixo nos seus piores pesadelos...
+
+===Pal Park===
+[[Arquivo:Crykid.jpg|thumb|right|Você sobre ''Pal Park''.]]
+Depois que o [[gamer]] dá algumas chances para esse jogo furado, ele acaba se deparando com o ''Pal Park'', que seria um parque onde você pode capturar todos os Pokémons que não apareciam em [[Sinnoh]], usando Pokébolas tão fortes quanto a ''Master Ball''. Só tem uma coisa! Você só pode capturar os Pokémons que você já tem!!!<br>
+{{C|QUE IDEIA IDIOTA É ESSA?!?!|Você|o Pal Park.}}
+Isso mesmo! Só se pode pegar todos os Pokémons quem tiver uma fita dos [[Pokémon Ruby / Sapphire / Emerald|jogos de Pokémon da terceira geração]] com os Pokémons dos jogos da segunda e primeira geração também!!! [[Nintendo]]!!! Vai tomar no cu!!!
+
+===Pokédex===
+[[Arquivo:Pokemon9000.gif|thumb|300 px|left|Pokémon demais!]]
+Como de costume, a Pokédex é dada pelo professor desse continente à você logo no começo do jogo. O mais surpreendente desta Pokédex é que você pode clicar para ver ambas as versões masculinas e femininas de um mesmo Pokémon. Agora o Nidoran, na Pokédex atual cada sexo é constado como um Pokémon independente! Cade o ''[[Angry Video Game Nerd]]'' nestas horas?
+
+===Trilha Sonora===
+A trilha sonora dos jogos de Pokémon dessa geração é particularmente insuportável. Primeiro a música tema, logo no comecinho do jogo,   só começa a parte principal da música depois de [[42|quarenta e dois]] segundos de uns sonzinhos ''8-bit''. Depois vem aquela musiquinha chata de quando o professor fala com você. Aí vem aquela música da cidade em que começa e aí você tira o som, porque já não aguentava mais. Quando você vai dar uma espiada na música que está tocando, você ouve aqueles barulhos infernais de quando se fala com alguém, aí você tira o som de novo.
+
+===Renderização===
+Quem viu o trailer do Diamond/Pearl em baixa definição no [[Youtube]] ficou maravilhado com os incríveis gráficos 3D dos novos jogos de Pokémon. Surpresa! Ao comprarem o jogo, logo vem que só os prédios são em 3D. Você, os NPCs, os Gym Leaders, a Elite Four, os Pokémons e as batalhas são em puro 2D. O pior é que ao invés de fazerem animações para quando os Pokémons apareciam, como nos jogos da segunda e terceira geração, colocaram uns efeitos de distorção e uns filtros de cor que fizeram com que os pixels dos Pokémons ficassem ainda mais toscos, e mais horríveis de se ver.
+
+== Coisas comuns de se acontecer nos jogos ==
+
+*Você perde pro [[Barry]] na primeira batalha.
+*Você levar um pau pro [[Bidoof]]
+*Você jamais vai conseguir capturar um [[Starly]].
+*Seu pokémon morrer com um CRITICAL HIT do [[Garchomp]] da [[Cynthia]].
+*Sempre da esse erro -The rom image as crashed.
+*[[Você]] se perde no [[Mundo do Contra|Mundo Destorcido]].
+*Lutar contra o [[Cranidos]] do Roark com o [[Chimchar]].
+*Você aperta um botão quando não deve. Por exemplo na evoluçao do [[Magikarp]] para [[Gyarados]].
+*Achar um pokémon Shiny no matinho e matá-lo
+*[[Você]] nunca sabe o que fazer no meio do jogo.
+*[[Você]] perder 1000 vezes pra [[Cynthia]]
+*Dar Toss no item que te leva para a ilha do lendário
+*Vender no Mart uma Rare Candy
+*Gastar a sua única [[Master Ball]] em um [[Pikachu]].
+*Desligar o DS e esquecer de salvar o jogo quando capturou um pokémon raríssimo
+*Ter que jogar com a página do detonado aberta ou usar os códigos de Action Replay.
+
+E muitas outras burradas.
+==Falas do Jogo==
+O jogo possuí algumas textos estranhos, que não se encaixam muito bem em um jogo infantil:
+*"''Friendship, All lives touch other lives to create something anew and alive''." / "''Amizade, Todas as vidas tocam outras vidas para criar algo novo e vivo''". Essa notável alusão ao processo de [[Sexo|reprodução]] pode ser encontrada na sala final de ''Solaceon Ruins''.
+*"''This hotel is so romantic. I hope a knight on a Pokémon will sweep me away for a honeymoon here!''" / "''Este hotel é tão romântico. Eu espero que um cavaleiro em cima de um Pokémon me varra para longe em uma lua de mel aqui!''" Fala de uma NPC que diz para o mundo que faz [[Zoofilia|sexo com seus Pokémons]] e o usa drogas alucinógenas. Duvida? Encontre a NPC no ''lobby'' do ''Hotel Grand Lake'' perto do lago Valor.
+*"''o....p....f ....y....s.''"/ ''o....p....f ....y....s.''. Um treinador de Pokémons lutadores diz isso em ''Star Mountain'' diz isso após a derrota. Esse jogo é imbatível!
+
+==O Que Você Precisa para Conseguir Todos os Pokémons==
+
+===Jogos===
+Para conseguir todos os Pokémons, essa é a lista de jogos que você precisa jogar:
+{{compactar|
+*''Pokémon Green''
+*''Pokémon Red''
+*''Pokémon Blue''
+*''[[Pokémon Yellow]]''
+*''Pokémon Gold''
+*''Pokémon Silver''
+*''Pokémon Crystal''
+*''Pokémon Ruby''
+*''Pokémon Sapphire''
+*''Pokémon Emerald''
+*''Pokémon FireRed''
+*''Pokémon LeafGreen''
+*''Pokémon Diamond''
+*''Pokémon Pearl''
+*''[[Pokémon Platinum]]''
+*''Pokémon HeartGold''
+*''Pokémon SoulSilver''
+*''Pokémon Mystery Dungeon: Red Rescue Team''
+*''Pokémon Mystery Dungeon: Blue Rescue Team''
+*''Pokémon Mystery Dungeon: Explorers of Time''
+*''Pokémon Mystery Dungeon: Explorers of Darkness''
+*''Pokémon Mystery Dungeon: Explorers of Sky''
+*''Pokémon Ranger''
+*''Pokémon Ranger: Shadows of Almia''
+*''Pokémon XD: Gales of Darkness''
+*''[[Pokémon Stadium]]''
+*''[[Pokémon Stadium 2]]''
+*''[[Pokémon Colosseum]]''
+*''Pokémon Battle Evolution''
+*''Pokémon Pinball''
+*''Pokémon Pinball: Ruby and Sapphire''
+*''Pokémon Battrio''
+*''Pokémon: Hey You, Pikachu!''
+*''Pokémon Puzzle League''
+*''Pokémon Puzzle Challenge''
+*''Pokémon Dash''
+*''Pokémon Snap''
+*''My Pokémon Ranch''
+*''Pokemon Hentai''
+*''Pokémon Hentai 2''
+*''Pokémon Hentai Furry Edition''
+*''Pokémon Hentai Yaoi Edition''
+*''Pokémon Shotacon''
+*''Pokémon Lolicon''
+*''Pokémon Ditto Minigames''
+}}
+
+Essa foi a lista de jogos necessários para completar a Pokédex de qualquer um dos jogos de Pokémon da quarta geração. Ainda serão lançados novos jogos de Pokémon sem data prevista. É claro que a Nintendo e a Game Freak irão inventar um jeito de fazer com que você os compre também... Eles são:
+
+*'''5º Geração'''
+**''[[Pokémon Black]]''
+**''[[Pokémon White]]''
+**''Pokémon <s>[[Gay]]</s> Gray?''
+**''[[Pokémon Black 2]]''
+**''[[Pokémon White 2]]''
+**''Pokémon Gray 2 ?''
+
+*'''6ª Geração''' (Homenagem da Game Fresco ao Brasil)                                                     
+**''Pokemon Y''
+**''Pokemon X''
+**''Pokemon Z ???''
+**''Pokémon Queijo''
+**''Pokémon Goiabada''
+**''Pokémon Caipirinha''
+
+*'''7ª Geração'''
+**''Pokémon Sun''
+**''Pokémon Moon''
+**''Pokémon Stars''
+**''Pokémon Acre''
+
+*'''8ª Geração'''
+**''Pokémon Titanium''
+**''Pokémon Áço''
+**''Pokémon Adamantium''
+
+[[Arquivo:Pokemonstartrek.jpg|thumb|right|Jim, he is fainted.]]
+*'''Outros Jogos Chatos de Pokémon Mystery Dungeon'''
+**''Pokémon Mystery Dungeon: Explorers of [[Star Trek|Where No Man Has Gone Before]]''
+**''Pokémon Mystery Dungeon: Explorers of [[Vagina|Even Darker Places]]'' (Um jogo obscuro onde Pokémons fofos como [[Pichu]], [[Smoochum]], [[Riolu]],[[Clefa]], [[Igglyttuf]] e [[Pachirisu]] descobrirão de [[Sexo|onde vem os bebês]]. De acordo com a NGamer: "Nivel de Empolgação: <9000!!!"
+**''Pokémon Mystery Dungeon: Explorers of Nowhere''
+
+*'''Jogos Piratas'''
+**''Pokémon You Are A Pirate
+**''Pokémon Meowth''
+**''Pokémon Crystal Shards''
+**''Pokémon Shiny Gold''
+**''Pokémon Naranja''
+**''Pokémon Lunares''
+**''Pokémon Battle Legendary''
+**''Pokémon Dark Lugia''
+**''Pokémon Legend''
+**''Pokémon Dark Black''
+**''Pokémon Dark Pearl''
+**''Pokémon Light Platinum''
+**''Pokémon Ash Gray''
+**''Pokémon Flora Sky''
+**''Pokémon Desciclopédia''
+**''Pokémon Chaos Black''
+**''Pokémon Apollo''
+**''Pokémon ManlyPink''
+**''Pokémon The Tempest''
+**''Pokémon Sky Line''
+**''Pokémon X and Y GBA''
+**''Pokémon Dreamland''
+**''Pokémon Karton''
+**''Pokémon Líder Gyms''
+**''Pokémon Shiny''
+**''Pokémon Volcano''
+**''Pokémon Never Black White''
+**''Pokémon Genesis''
+**''Pokémon Heroes''
+**''Pokémon Mystical Version''
+**''Pokémon Advanced Adventure''
+**''Pokémon Skyline Final''
+**''Pokémon Flame of Rage''
+**''Pokémon Liquid Ocean''
+**''Pokémon <s>Urina</s> Uranium ''
+**''Pokémon Battle Fire''
+**''Pokémon Origen''
+**''Pokémon Omega''
+**''Pokémon Blaze Black 2''
+**''Pokémon Volt White 2''
+**''Pokémon Bloody Plantium''
+**''Pokémon Bloody Diamond''
+**''Pokémon Spirit Gold''
+
+E ... PRONTO!!! COM OS JOGOS PIRATAS VOCÊ CONSEGUIU OS POKÉMON DA GERAÇÕES 1, 2, 3, 4, 5, 6 DE OUTRAS REGIÕES E TAMBÉM OS [[Digimon|FAKEMON]] !!!
+
+{{Pokémon games}}
+
+[[Categoria:Jogos lançados em 2007]]
+[[Categoria:Jogos da Game Freak]]
+[[Categoria:Jogos da The Pokémon Company]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo DS]]
+[[Categoria:Jogos de RPG]]

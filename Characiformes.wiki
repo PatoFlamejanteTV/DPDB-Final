@@ -1,0 +1,54 @@
+{{taxocaixa
+| nome           = Characiformes
+| cor            = #0047AB
+| imagem         = Characiformes.jpg
+| imagem_legenda = Repare no olhar melancólico destes Characiformes, condenados a viver presos num aquário desde que nascem
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aquáticos]]
+| classe         = [[Actinopterygii|Peixes com espinha]]
+| ordem          = [[Characiformes|Peixes com cara de peixe]]
+}}
+
+'''Characiformes''' são uma ordem de peixes com cara de peixe morto, porém vivos, habitantes de água doce da [[América do Sul]] e [[África]], seu nome vem do latim e significa literalmente "forma de charada", e são chamados assim porque tem todos cara de peixe, e os peixes coitados são muito inexpressivos, tímidos, ignorantes e portanto é difícil classificá-los, parecem tudo igual e dividi-los apenas por cor parece tentador. Todavia a [[punheteiros|Sociedade Americana de Ictiólogos e Herpetólogos da Família e Bons Costumes]] decidiu começar um trabalho hercúleo de classificar estes peixes mesmo assim e isso resultou na fenomenal descoberta de que peixes são peixes, as vezes com uma barbatana a mais, uma cor diferente, mas que se bem cuidados podemos comer.
+
+== Anatomia ==
+
+[[Arquivo:PacuCharaciforme.jpg|thumb|200px|left|Um characiforme denominado [[Pacu]] esbanjando beleza e dentes bem escovados.]]
+
+Os peixes characiformes são peixes com formato de peixe e nadadeira de peixe, são notoriamente frágeis e portanto não recomendáveis para serem usados como arma ou objeto contundente para gerar agressão, eles servem apenas para comer mesmo (ou ser comido, no caso das piranhas). São escamados e quando mortos fedem bastante, suas barbatanas são gordurosas e são coloridos pois gostam de chamar atenção de predadores, afinal eles existem para servir de alimento para carnívoros, os characiformes não precisam se alimentar eles fazem fotossíntese com o plâncton fluvial que ingerem junto com a água que respiram pelas brânquias de 5 fendas.
+
+São muito diversificados em tamanho, existindo por exemplo o [[Peixe-tigre-golias]] que vive nos rios do Congo e come bisões, mas também existe o [[Cyanogaster noctiva|peixinho-transparente-que-parece-brinquedo]] que possui apenas 1,5 milímetros e vive em latrinas abandonadas.
+
+A diversidade também é psicológica já que a ordem engloba tanto os [[lambari]]s que são pacatos e nãos e importam ems erem pescados para servirem de alimento a humanos, mas também as [[hujeta]]s que odeiam crustáceos e tentam exterminar todo crustáceo que encontram pela frente com ódio.
+
+A promiscuidade dos peixes characiformes também é diversa, pois temos desde as [[piranha]]s que comem qualquer orifício aos pacus que só querem saber de [[sexo anal|anal]].
+
+== Habitat ==
+
+O [[habitat]] destes peixes são os rios, córregos, aquários e quitandas já que a principal característica dos peixes characiformes é sua incapacidade de viver no mar, pois odeiam sal, dizem que retém líquidos e causa problemas de hipertensão arterial e por isso abominam Coca Cola Zero ou qualquer outro produto falso dietético que substitua açúcar por sal, estes peixes todavia preferem água doce.
+
+== Famílias ==
+
+* '''[[Acestrorhynchidae]]''' - peixes-agulha
+* '''[[Alestidae]]''' - peixinhos
+* '''[[Anostomidae]]''' - peixinhos que fazem bico com a boquinha
+* '''[[Characidae]]''' - lambaris e peixinhos
+* '''[[Chilodontidae]]''' - peixinhos com boquinha de boqueteiro
+* '''[[Citharinidae]]''' - peixes em formato de alaúde
+* '''[[Crenuchidae]]''' - peixes arqueiros
+* '''[[Ctenoluciidae]]''' - peixes bicudos
+* '''[[Curimatidae]]''' - branquinhos
+* '''[[Cynodontidae]]''' - peixes com dente de cão
+* '''[[Distichodontidae]]''' - peixes africanos
+* '''[[Erythrinidae]]''' - traíras
+* '''[[Gasteropelecidae]]''' - peixes-borboleta
+* '''[[Hemiodontidae]]''' - peixinhos paraguaios
+* '''[[Hepsetidae]]''' - chacariformes africanos
+* '''[[Lebiasinidae]]''' - sim, peixes lésbicos
+* '''[[Parodontidae]]''' - mais peixes
+* '''[[Prochilodontidae]]''' - characiformes boca de flanela
+* '''[[Serrasalmidae]]''' - piranhas e pacus
+
+[[Categoria:Actinopterygii]]
+[[Categoria:Characiformes|*]]

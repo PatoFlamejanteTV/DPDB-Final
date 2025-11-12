@@ -1,0 +1,587 @@
+{{DISPLAYTITLE:Scottish Premier League}}
+
+'''Campeonato Escocês de Futebol''' é uma tentativa frustrada de Premier League, e que só se resume a dois times: Os católicos do [[Celtic Football Club|Celtic]] e os protestantes do [[Rangers Football Club|Rangers]], sendo que ambos estão constantemente falidos, então as vezes nem isso.
+
+==Torneio==
+
+[[Arquivo:Oldfirm.jpg|200px|thumb|right|Clássico que os escoceses se matam pra ver.]]
+
+O torneio começou a ser disputado quando o Rei [[Henrique VIII]] estava em disputa com o [[Papa]] e resolveu que a disputa deveria ser resolvida no futebol, então o Rei Henrique criou o time do Rangers e o Papa criou o time do Celtic. E ambos vivem nessa guerra até hoje. Mas o campeonato é tão medíocre que não passa em nenhuma emissora do Brasil, nem [[ESPN]], nem no [[SporTV]] e nem na [[Fox Sports]]. Os únicos clubes que tem um tiquinho de tradição mesmo são o Celtic e Rangers que ganham tudo. Quanto ao resto dos times, são todos uma bosta que em mais de 1 século de campeonato não ganharam mais do que meia-dúzia de títulos.
+
+== Campeões ==
+
+'''Liga Escocesa'''
+{| class="wikitable" style="width: 50%"
+|- bgcolor=#FF6600
+|-
+! Ano
+! Campeão
+! Vice
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1890/91|1890/91]]
+| [[Dumbarton Football Club|Dumbass]]<br>[[Rangers Football Club|Power Rangers]]<ref>Título dividido</ref>
+| -
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1891/92|1891/92]]
+| [[Dumbarton Football Club|Dumbass]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1892/93|1892/93]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|}
+
+'''Primeira Divisão da Liga Escocesa'''
+{| class="wikitable" style="width: 50%"
+|- bgcolor=#FF6600
+|-
+! Ano
+! Campeão
+! Vice
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1893/94|1893/94]]
+| [[The Celtic Football Club|Sellik]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1894/95|1894/95]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1895/96|1895/96]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1896/97|1896/97]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+| [[Hibernian Football Club|Hibernar]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1897/98|1897/98]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1898/99|1898/99]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1899/00|1899/00]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1900/01|1900/01]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1901/02|1901/02]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1902/03|1902/03]]
+| [[Hibernian Football Club|Hibernar]]
+| [[Dundee Football Club|Duende]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1903/04|1903/04]]
+| [[Third Lanark Athletic Club|Twlight Sparkle]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1904/05|1904/05]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1905/06|1905/06]]
+| [[The Celtic Football Club|Sellik]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1906/07|1906/07]]
+| [[The Celtic Football Club|Sellik]]
+| [[Dundee Football Club|Duende]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1907/08|1907/08]]
+| [[The Celtic Football Club|Sellik]]
+| [[Falkirk Football Club|Fakir]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1908/09|1908/09]]
+| [[The Celtic Football Club|Sellik]]
+| [[Dundee Football Club|Duende]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1909/10|1909/10]]
+| [[The Celtic Football Club|Sellik]]
+| [[Falkirk Football Club|Fakir]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1910/11|1910/11]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1911/12|1911/12]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1912/13|1912/13]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1913/14|1913/14]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1914/15|1914/15]]
+| [[The Celtic Football Club|Sellik]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1915/16|1915/16]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1916/17|1916/17]]
+| [[The Celtic Football Club|Sellik]]
+| [[Greenock Morton Football Club|Greencock Morto]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1917/18|1917/18]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1918/19|1918/19]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1919/20|1919/20]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1920/21|1920/21]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1921/22|1921/22]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1922/23|1922/23]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Airdrieonians Football Club|Aerolinhas]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1923/24|1923/24]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Airdrieonians Football Club|Aerolinhas]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1924/25|1924/25]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Airdrieonians Football Club|Aerolinhas]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1925/26|1925/26]]
+| [[The Celtic Football Club|Sellik]]
+| [[Airdrieonians Football Club|Aerolinhas]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1926/27|1926/27]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Motherwell Football Club|Motherbad]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1927/28|1927/28]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1928/29|1928/29]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1929/30|1929/30]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Motherwell Football Club|Motherbad]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1930/31|1930/31]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1931/32|1931/32]]
+| [[Motherwell Football Club|Motherbad]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1932/33|1932/33]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Motherwell Football Club|Motherbad]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1933/34|1933/34]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Motherwell Football Club|Motherbad]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1934/35|1934/35]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1935/36|1935/36]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1936/37|1936/37]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1937/38|1937/38]]
+| [[The Celtic Football Club|Sellik]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1938/39|1938/39]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | 1939-1946
+| colspan="2" | Segunda Guerra Mundial
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1946/47|1946/47]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Hibernian Football Club|Hibernar]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1947/48|1947/48]]
+| [[Hibernian Football Club|Hibernar]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1948/49|1948/49]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Dundee Football Club|Duende]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1949/50|1949/50]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Hibernian Football Club|Hibernar]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1950/51|1950/51]]
+| [[Hibernian Football Club|Hibernar]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1951/52|1951/52]]
+| [[Hibernian Football Club|Hibernar]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1952/53|1952/53]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Hibernian Football Club|Hibernar]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1953/54|1953/54]]
+| [[The Celtic Football Club|Sellik]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1954/55|1954/55]]
+| [[Aberdeen Football Club|Abobrinha]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1955/56|1955/56]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1956/57|1956/57]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1957/58|1957/58]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1958/59|1958/59]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1959/60|1959/60]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+| [[Kilmarnock Football Club|Killtherock]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1960/61|1960/61]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Kilmarnock Football Club|Killtherock]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1961/62|1961/62]]
+| [[Dundee Football Club|Duende]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1962/63|1962/63]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Kilmarnock Football Club|Killtherock]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1963/64|1963/64]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Kilmarnock Football Club|Killtherock]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1964/65|1964/65]]
+| [[Kilmarnock Football Club|Killtherock]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1965/66|1965/66]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1966/67|1966/67]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1967/68|1967/68]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1968/69|1968/69]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1969/70|1969/70]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1970/71|1970/71]]
+| [[The Celtic Football Club|Sellik]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1971/72|1971/72]]
+| [[The Celtic Football Club|Sellik]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1972/73|1972/73]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1973/74|1973/74]]
+| [[The Celtic Football Club|Sellik]]
+| [[Hibernian Football Club|Hibernar]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1974/75|1974/75]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Hibernian Football Club|Hibernar]]
+|}
+
+'''Premier Division da Liga Escocesa'''
+{| class="wikitable" style="width: 50%"
+|- bgcolor=#FF6600
+|-
+! Ano
+! Campeão
+! Vice
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1975/76|1975/76]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1976/77|1976/77]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1977/78|1977/78]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1978/79|1978/79]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1979/80|1979/80]]
+| [[Aberdeen Football Club|Abobrinha]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1980/81|1980/81]]
+| [[The Celtic Football Club|Sellik]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1981/82|1981/82]]
+| [[The Celtic Football Club|Sellik]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1982/83|1982/83]]
+| [[Dundee United Football Club|Duendes Unidos]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1983/84|1983/84]]
+| [[Aberdeen Football Club|Abobrinha]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1984/85|1984/85]]
+| [[Aberdeen Football Club|Abobrinha]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1985/86|1985/86]]
+| [[The Celtic Football Club|Sellik]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1986/87|1986/87]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1987/88|1987/88]]
+| [[The Celtic Football Club|Sellik]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1988/89|1988/89]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1989/90|1989/90]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1990/91|1990/91]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1991/92|1991/92]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1992/93|1992/93]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1993/94|1993/94]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1994/95|1994/95]]
+| [[Rangers Football Club|Power Rangers]]
+| [[Motherwell Football Club|Motherbad]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1995/96|1995/96]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1996/97|1996/97]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1997/98|1997/98]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|}
+
+'''Scottish Premier League'''
+{| class="wikitable" style="width: 50%"
+|- bgcolor=#FF6600
+|-
+! Ano
+! Campeão
+! Vice
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1998/99|1998/99]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 1999/00|1999/00]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2000/01|2000/01]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2001/02|2001/02]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2002/03|2002/03]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2003/04|2003/04]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2004/05|2004/05]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2005/06|2005/06]]
+| [[The Celtic Football Club|Sellik]]
+| [[Heart of Midlothian Football Club|Heart Attack]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2006/07|2006/07]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2007/08|2007/08]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2008/09|2008/09]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2009/10|2009/10]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2010/11|2010/11]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2011/12|2011/12]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2012/13|2012/13]]
+| [[The Celtic Football Club|Sellik]]
+| [[Motherwell Football Club|Motherbad]]
+|}
+
+'''Premier Division da Liga Escocesa'''
+{| class="wikitable" style="width: 50%"
+|- bgcolor=#FF6600
+|-
+! Ano
+! Campeão
+! Vice
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2013/14|2013/14]]
+| [[The Celtic Football Club|Sellik]]
+| [[Motherwell Football Club|Motherbad]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2014/15|2014/15]]
+| [[The Celtic Football Club|Sellik]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2015/16|2015/16]]
+| [[The Celtic Football Club|Sellik]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2016/17|2016/17]]
+| [[The Celtic Football Club|Sellik]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2017/18|2017/18]]
+| [[The Celtic Football Club|Sellik]]
+| [[Aberdeen Football Club|Abobrinha]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2018/19|2018/19]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2019/20|2019/20]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2020/21|2020/21]]
+| [[Rangers Football Club|Power Rangers]]
+| [[The Celtic Football Club|Sellik]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2021/22|2021/22]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2022/23|2022/23]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|- bgcolor=#FFFFFF
+| align="right" | [[Campeonato Escocês de Futebol de 2023/24|2023/24]]
+| [[The Celtic Football Club|Sellik]]
+| [[Rangers Football Club|Power Rangers]]
+|}
+
+== Títulos por clube ==
+
+* '''[[Rangers Football Club|Power Rangers]]''' - 55
+* '''[[The Celtic Football Club|Sellik]]''' - 54
+* '''[[Heart of Midlothian Football Club|Heart Attack]]''' - 4
+* '''[[Aberdeen Football Club|Abobrinha]]''' - 4
+* '''[[Hibernian Football Club|Hibernar]]''' - 4
+* '''[[Dumbarton Football Club|Dumbass]]''' - 2
+* '''[[Motherwell Football Club|Motherbad]]''' - 1
+* '''[[Kilmarnock Football Club|Killtherock]]''' - 1
+* '''[[Dundee Football Club|Duende]]''' - 1
+* '''[[Dundee United Football Club|Duendes Unidos]]''' - 1
+* '''[[Third Lanark Athletic Club|Twlight Sparkle]]''' - 1
+
+{{ref-section}}
+{{Campeonato Escocês}}
+{{UEFA}}
+
+[[Categoria:Competições nacionais de futebol|Escócia]]

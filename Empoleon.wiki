@@ -1,0 +1,34 @@
+{{água}}
+{{mineral}}
+{{PokéBox
+| imagem = Empoleon.jpg
+| frase = O Pokémon que tem o rei na barriga.
+| tamanho = 215px
+| tipo1 = Water
+| tipo2 = Steel
+| nihongo = エンペルト
+| romaji = Emperte
+| habilidade1 = Se achar muito
+| pokedex = 395
+| espécie = Le empereur de les pinguins de la France
+| cadeia evolutiva = [[Arquivo:393.png|link=Piplup‎]] [[Arquivo:Seta.JPG|30px]][[Arquivo:Prinplup.png|link=Prinplup]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:Empoleon.png|Empoleon]]
+}}
+[[Arquivo:Empoleon1.jpg|thumb|left|200px|{{c|Pikachu, você conhece o [[Dunha]]?}} <br>{{c|Pika, pika? (Tradução: Que Dunha?)}} <br>{{c|HAHAHAHA!}}]]
+'''Empoleon''' é um pinguim gigante preto e azul que acha que é rei, mas que não consegue reinar nem sobre a própria vida, só ver que ele é escravizado por um vagabundo mirim que não cresce nunca ([[Barry]]) e obrigado a viver em uma pokébola minúscula e a lutar em rinhas quando seu dono manda.
+
+Ele é a forma final daquele patinho retardado [[Piplup]], mas ninguém se importa, provavelmente nem ele mesmo, que prefere esconder seu passado vergonhoso como membro dos [[Backyardigans]].
+
+Enquanto as formas anteriores utilizam apenas bolhas de sabão pra atacar os inimigos, Empoleon prefere partir pra dedada, passando a agir com ignorância mesmo. 
+
+==Dados==
+
+Empoleon é um pokémon que se especializou no estilo aço, como ele nunca conseguia aprender técnicas de água que prestam mesmo, como uma "Hidro Bomba", ele resolveu pentelhar os pokémons de outros tipos melhorando sua defesa contra eles. Assim, ele torna-se um tank, balanceando o time dos iniciais de [[Sinnoh]]. Enquanto [[Infernape]] dá um dano do caralho, Empoleon se defende pra caralho, e [[Torterra]] faz tudo mais ou menos.
+
+==Curiosidades==
+[[Arquivo:Pinguim mala.gif|thumb|left|200px|Empoleon demonstrando sua técnica de mãos.]]
+Apesar dos Empoleons viverem no gelo, não dá pra achar esses bichos nas regiões geladas de Sinnoh. O único jeito de conseguir um é evoluindo o [[Prinplup]] mesmo, matando inimigos com as bolhas de sabão, já que a cadeia evolutiva dos pinguins não aprende técnicas boas de água naturalmente mesmo.
+
+O que também é engraçado nos Empoleons é que, apesar de eles teoricamente serem reis, eles não mandam em absolutamente NADA, sendo que até mesmo os pequeninos [[Piplup|Piplups]] dão ordens para eles e não os escutam. Isso sem contar que, perto de qualquer outro pokémon, mesmo que em forma intermediária, os Empoleons são uns tremendos de uns fracotes, afinal, os pokémons são imunes as cutucadas de [[Dunha]] ([[ou não]]).
+
+{{poke4}}
+[[Categoria:Pinguins]]

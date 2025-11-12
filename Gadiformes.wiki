@@ -1,0 +1,41 @@
+{{gastronomia}}
+{{taxocaixa
+| nome           = Gadiformes
+| cor            = #0047AB
+| imagem         = McFish.jpg
+| imagem_legenda = R.I.P. Gadiforme
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aquáticos]]
+| classe         = [[Actinopterygii|Peixes com espinha]]
+| ordem          = [[Gadiformes|Peixes salgados]]
+}}
+
+'''Gadiformes''' são a ordem dos peixes comestíveis, especificamente aqueles que são salgados, reconhecidos pela cara de besta, estes peixes são tratados como deuses por muitas culturas celtas e druídicas. O primeiro gadiforme descoberto foi o [[bacalhau]], descoberto por um grupo de marinheiros gnomos que ao comer bacalhau ela primeira vez na vida perceberam como estes peixes não tinham o menor sabor e era melhor comer isopor se fosse assim, foi então que surgiram os geniais portugueses em toda sua genialidade e descobriram que ao não limpar as escamas desses peixes e afogá-los em toneladas de sal, poderiam criar um prato totalmente poser de requinte, o famoso bolinho de bacalhau que não adianta enganar, só tem gosto de babata desfiada. Os estadunidenses por sua vez descobrirem a sua versão de gadiforme, as [[merluza]]s que são igualmente sem gosto como seus primos bacalhaus, mas que justamente por isso eram ideias para serem usadas em sanduíches com gosto de nada lotados de condimentos dos fast food, a comida nacional dos Estados Unidos.
+
+== Anatomia ==
+
+A principal característica dos peixes gadiformes é apresentar-se encapado numa lapa de sal calcificado às suas escamas, geralmente avistados nas áreas de peixarias, feiras e mercados onde não há gelo para preservação destes peixes que se adaptam bem ao ambiente sem água. As barbatanas e cabeça dessa ordem de peixes é totalmente irrelevante pois ninguém come essa porcaria, então como são limpas  ejogadas fora não estão passíveis de estudo ainda.
+
+São peixes calmos, pacíficos e que se reúnem em grandes cardumes, ou seja, são muito gente boa, senão eles não se tolerariam naqueles grupos tão grandes aos milhares. Quando são pescados não oferecem a menor resistência e aceitam seu destino sem reclamar, e tanta passividade tem uma explicação: De acordo com a profecia, o rei-bacalhau vai despertar no sétimo dia do sétimo mês do ano de 7777 do [[Atlântida|calendário atlântico]], para julgar vivos e os mortos, condenando todos os não-crentes (ou "marinheiros de primeira viagem") ao afogamento numa privada ao som de um concerto de Nelly Furtado.
+
+== Habitat ==
+
+Os peixes gadiformes vivem em salinidades e são encontrados em sua maioria expostos em feiras, peixarias, quitandas e sempre cobertos em toneladas de sal ou qualquer outra coisa possível que possa dar sabor a eles. Fontes afirmam existir gadiformes nos oceanos pela lógica de que lá é salgado,mas fomos pescar no mar um dia desses e não encontramos nenhum gadiforme, então é tudo apenas especulação.
+
+== Famílias ==
+
+* '''[[Bregmacerotidae]]''' - bacalhaus com chifre
+* '''[[Euclichthyidae]]''' - bacalhau de água profunda
+* '''[[Gadidae]]''' - bacalhaus comuns
+* '''[[Lotidae]]''' - bacalhaus tipo ling
+* '''[[Macrouridae]]''' - granadeiros
+* '''[[Moridae]]''' - abróteas
+* '''[[Melanonidae]]''' - bacalhaus pelágicos
+* '''[[Macruronidae]]''' - primos das merluzas
+* '''[[Muraenolepididae]]''' - bacalhau-enguia
+* '''[[Merlucciidae]]''' - merluzas
+* '''[[Phycidae]]''' - merluzas estranhas
+
+[[Categoria:Actinopterygii]]
+[[Categoria:Gadiformes|*]]

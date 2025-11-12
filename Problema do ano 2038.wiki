@@ -1,0 +1,23 @@
+{{C|Sem problema! Faltam ainda muitos anos pra isso!|[[Você]]|16 anos daqui}}
+{{C|FUDEEU!|[[Você]]|em 2038}}
+[[Arquivo:Linhadiscada1.jpg|thumb|Alguém que usou uma máquina do tempo para ir em 2038 e teve o computador afetado por esse problema]]
+O '''problema do ano 2038''' é uma falha que vai ferrar muitos PC's, inclusive o '''seu'''. Ele causará um retardamento no horário de alguns programas. Diferente do retardamento que os programas de TV causam, esse fará tudo "voltar no tempo" no ano de 2038.
+
+Este problema afetará os programas que usam a representação de tempo POSIX, que é uma porcaria. Ela calcula a data pelos segundos, a partir do dia 1 de janeiro de 1970. Essa treta afeta um monte de sistemas, pois foi feito na linguagem C, falada pelos [[cezianos]]. Na maioria dos sistemas de 32 bits, o tipo de dados usado para armazenar é um inteiro de 32 bits do tipo ''siguinedi'', ou seja, considera o sinal.
+
+Como quem fez isso estava com uma tremenda falta do que fazer, criou uma coisinha vagabunda, que só vai contar o tempo até 03:14:07, terça-feira, 19 de janeiro de 2038. Após essa data, dependendo de [[Computador|um monte de merda]], a data voltará para o ano de 1970 ou 1901. Isso resulatará em muitos problems porque tem [[Você|gente que não sabe olhar o relógio de parede]], só olha pro reloginho no canto inferior direito da tela.
+
+É muito provavel que quem planejou tudo isso foi algum louco como [[Bill Gates]], com algum plano maluco de <s>fod</s> ferrar com todos os concorrentes que nem o da [[Microsoft]].
+== Solução ==
+
+Não há nenhum jeito de resolver isso. Todos estão perdidos, pois em 2038 ninguém mais saberá que dia é. Para aumentar esse tempo, precisariam ser feitas muitas mudanças, o que retardaria o horário dos programas que usam isso aí, além das pessoas que já ficarão retardadas.
+
+A maioria dos sistemas suportam outro formato. Já estão tentando inutilmente mudar para essa outra arquitetura. Há milhões de sistemas de 32 bits, e não tem jeito de trocar tudo até lá.
+
+Segundo teorias, esta praga seria em comemoração a um evento promovido pelo III Reich, que teria aproveitado este momento para fazer alguma invasão coordenada por [[Adolfinho]], que segundo alguns seria o tutor-mor de [[Bill Gates]].
+
+== Artigos Relacionados ==
+
+* [[Bug do Milênio|Bug do milênio]]
+
+{{esboço}}

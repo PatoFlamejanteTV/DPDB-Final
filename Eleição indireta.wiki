@@ -1,0 +1,26 @@
+'''Eleição indireta''' é um tipo de [[eleição]] em que tecnicamente o eleitor não elege de fato os candidatos, na verdade elegendo um [[colégio eleitoral]] ou similar, seja de delegados, seja de [[inception|eleitores eleitos pelos eleitores]] ou elegendo parlamentares que elegem posteriormente os candidatos e etc e tal. Enfim, é uma eleição bugada em que os eleitos não são eleitos realmente pelos eleitores e blá blá blá, o que pode dar uma merda sem tamanho no fim da eleição quase sempre.
+
+== Eleições indiretas no mundo ==
+
+=== No Brasil ===
+[[Arquivo:Vote no pinto.jpg|thumb|300px|Nos dias de ontem, era comum pintos se elegerem indiretamente nas granjas das galinhas...]]
+
+
+No Brasil já teve diversas formas de eleições indiretas. Na época do [[Brasil Império]] todas as eleições eram de [[Sufrágio censitário|voto censitário]], que inclusive era confusa para um caralho. Tentando explicar: você ganha 1000 [[euro]]s por mês, pode votar em QUEM vai votar nos candidatos, esses têm de ganhar 2000 euros por mês, e os candidatos obviamente têm que ganhar bem mais que isso.
+
+Além dessa fase, já no [[Brasil República]], em diversas eleições, como as de 1891, de 1934, de 1964, de 1966, de 1969, de 1974, de 1978 e a de 1985 todas foram com colégio eleitoral, tornando os pobres eleitores meros reféns da vontade de deputados, senadores e algumas vezes de milicos cuzões.
+
+Atualmente no Brasil só pode rolar eleição indireta em casos muito fodidos, caso antes de fazer dois anos de mandato, tanto o titular da presidência como seu vice serem expulsos, morrerem ou seja lá o que. Assim rola essa eleição nesses casos apenas, coisa que nunca realmente aconteceu, e todas eleições indiretas no Brasil até hoje foram verdadeiras palhaçadinhas pra iludir otários.
+
+=== Nos EUA ===
+
+Estados Unidos desde 1700 e guaraná com tampa de pedra todas as eleições são totalmente em eleição indireta, com diversos colégios eleitorais. Ou seja, os que realmente desejam participar das eleições lá (lá o voto não é obrigatório - melhor coisa) na verdade votam em delegados, e a quantidade de delegados por partido dependem da quantidade de votos individuais por partido. Sendo assim, o [[Partido Democrata (EUA)|Democrata]] e o [[Partido Republicano (EUA)|Republicano]] (além de outros partidos menores que ninguém dá um puto pra eles) conseguem seus delegados pela quantidade de votos por cada cidade e estado dos [[EUA]], um sistema eleitoral tão críptico que até hoje todos viajam com essa técnica louca, que já causou tretas desde [[Eleição presidencial nos Estados Unidos em 2000|2000 inclusive]], com maus perdedores pedindo recontagem e a porra toda (inclusive porque lá votação é ainda EM PAPEL! '''EM PAPEL!''')
+
+== Ver também ==
+
+*[[Eleições no Brasil]]
+*[[Eleições em Portugal]]
+*[[Eleição direta]]
+*[[Sistema de votação]]
+
+[[categoria:Política]]

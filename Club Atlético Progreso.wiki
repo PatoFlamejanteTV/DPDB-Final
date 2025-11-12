@@ -1,0 +1,55 @@
+{{Box ClubeFutebol
+|cor_clara         = yellow
+|cor_escura        = red
+|brasao            = Escudo do Progresso.png
+|hino              =  
+|nome_oficial      = Club Atlético Regresso
+|origem            = {{URU}}''' - [[Montevideo]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Estadio Abraham Paladino|Estadio Abriram o Paladino]]
+|capacidade        = 7.200
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      =  
+|material          = 
+|liga              = Campeonato Uruguaio
+|divisao           = Primera Divison
+|títulos           = 
+|ranking           = 
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Club Atlético Progreso''' é para a cidade de [[Montevideo]] o que o [[Juventus da Mooca]] é para o [[São Paulo (cidade)|município de São Paulo]]: Uma presença completamente irrelevante. Nunca ganhou nada, nunca incomodou ninguém, é mais conhecido pelo seu uniforme, considerado o uniforme mais feio da [[América do Sul]] (só não é o mais feio a nível mundial porque ainda temos o [[Espérance da Tunísia]] e o [[Unione Sportiva Città di Palermo|Palermo]] pra rivalizar).
+
+== História ==
+=== Fundação ===
+
+O time foi fundado em 1917, mas tal qual o [[Sport Club Rio Grande]], ser um time antigo quer dizer nada, especialmente quando você passa 72 anos sem ganhar nem um título, uma quantidade maior de tempo do que a [[expectativa de vida]] no [[Uruguai]]. Torcer pelo Progreso não é algo feito, portanto, pelas glórias do time, mas apenas uma forma de masoquismo. Quanto à escolha do nome do time, obviamente é só uma [[ironia]], não há progresso literal ali.
+
+=== Título uruguaio ===
+
+Em 1989 ocorria o [[campeonato uruguaio]] mais foleiro já visto (tipo o [[Campeonato Brasileiro de Futebol de 1985|Brasileirão de 1985]]), bem mal feito e bem simples, aparentemente os uruguaios estavam com bastante preguiça aquele ano. Os 13 times se enfrentariam em turno único, e assim em apenas 12 jogos o Progreso conseguiu ser campeão uruguaio, um dos títulos nacionais mais molezas já conquistados na América do Sul.
+
+=== Duas primeiras participações na Libertadores ===
+
+Suas duas primeiras participações na Libertadores foram discretas. Em 1987 não passou da primeira fase da competição, e sua única vitória foi um 3x0 sobre o [[San Agustín|Seu Agostinho]] do [[Peru]]. Já em 1990, após eliminar uns times venezuelanos que nem sabiam o que era [[futebol]], o máximo que cosneguiu foi ser facilmente eliminado pelo [[Barcelona de Guayaquil]] nas oitavas-de-final.
+
+=== Libertadores 2020 ===
+
+Desde 2019, quando a Libertadores foi inchada e passou a aceitar times até de Tangamandápio, o Uruguai ganhou 4 vagas para a competição. Sabemos que Peñarol e Nacional sempre estarão com duas dessas vagas, mas as outras vagas são para os demais times ruins. Por isso mesmo não ganhando nenhum turno e ficando longe de qualquer título, o Progreso garantiu sua vaga na fase dos times café-com-leite da preliminar da Libertadores.
+
+== Títulos ==
+
+* '''[[Campeonato Uruguaio]]''': 1 vez (1989) se até o Novo Hamburgo já foi campeão gaúcho, o Progreso também pode ter ganho o uruguaio uma vez.
+
+{{Campeonato Uruguaio}}
+
+[[Categoria:Times de futebol do Uruguai|Progreso]]

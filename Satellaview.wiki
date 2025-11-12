@@ -1,0 +1,81 @@
+{{vqd|Merda Net?}}
+{{vqd|SNES Online}}
+{{c|E eu que pagava 800 Iens nessa bosta...|Dono do Merda Net japonês|BS-X}}
+
+'''Satellaview''' foi um <s>[[modem]]</s> add-on pro [[SNES|Super Famicom]] da [[Nintendo|Ñ-Entendo]], feito em [[1995]]. Disponível em pré-lançamento por 14.000 [[Ien]]s (uns 530 contos) e vinha com o cartucho do BS-X e um Memory Pack de 8 MB.
+
+== História ==
+
+O SV foi criado pela Ñ-Entendo (novamente...) pra receber sinais via satélite de [[Televisão|TV]] da rádio WOWOW, afiliada da [[St.GIGA]] em alguns lugares do Japão. O St.GIGA bancou tudo que era de bom e ruim no serviço, incluíndo um programa na rádio chamado '''''Super Famicom Hour''''', no qual dados dos games eram transmitidos via o '''BS Digital Hi-Vision TV'''. Quem comprou o Satellaview, os donos tiveram que comprar um '''BS Tunner''' (em serivços de [[internet]] aquela coisa que tem que se cadastrar, etc.). O serviço até que foi boa coisa, pois em [[1997]], já chegava há <s>[[mais de 8000]]</s> mais de 100000 assinantes, mas, em [[2001]], o número caiu pra [[4]][[6]]00[[0]].
+
+== O nome ==
+
+Sattelaview é uma espécie de [[palíndromo]] (!!!!!!) entre Satélite ('''Satellite''' no [[Engrish]]) e Vista ('''View'''). A sigla BS-X vem de [[Transmissão|Broadcast]] Satellite. 
+
+{{c|Mas e o X?}}
+
+Significa o [[Acre|desconhecido]], mas pode ser conhecido como [[penetração|transferidor]].
+
+[[Arquivo:Satellaview.jpg|right|thumb|A [[Dragon Ball Z|fusão]] lembra o protótipo do [[SNES CD]].]]
+
+== Hardware ==
+
+Quando você comprava o BS-X, ele vinha com:
+
+* Adaptador BS-X: Era conectado naquela entrada na parte de baixo do SNES. Ela não é usada nos outros países por nenhum acessório;
+* Cabo L: Para transeferir energia entre o BS-X e o SNES;
+* Adaptador AC: Mais uma coisa pra ligar no beijamim;
+* AV Selector: Cabo A/V (lógico...);
+* Cartucho do BS-X : Conectado no slot de cartuchos do SNES (lógico...). O nome do cartucho é '''BS-X: Sore wa Namae o Nusumareta Machi no Monogatari'''
+* Cartucho de 8 MB: [[Save Point|Salva os games]] nesse cartucho regravável que não é alimentado a bateria (!!!).
+
+== BS-X: Sore wa Namae o Nusumareta Machi no Monogatari ==
+
+A aplicação é assim como o cartucho do [[MegaNet|Merda Net]] brasileiro: Forneça nome, dados, números, etc. O usuário deve escolher um [[avatar]] que combine mais com você (são dois muleques). Você andará na cidade, com casas e shoppings que são pontos de [[Download]] (podem ser fotos, notícias, games, dados, etc.). O jogador pode ler notícias no Wall Newspapaer Co., no qual mensagens da St.GIGA e da Ñ-Entendo são publicadas nela.
+
+== Como fazer a gambiarra na sua casa ==
+
+Simples:
+
+* Conecte o Cabo L entre o Satella e o SFC;
+* Ponha o cartucho do BS-X no Satella;
+* Ligue o BS Tunner no seu canal que você escolher;
+* [[Link]] o BS Tunner na TV e no satélite;
+* Depois de tudo isso, conecte o BS Tunner, a TV, o Satella, o SFC, o cartucho e adaptador AC no AV Selector.
+
+Tudo isso era uma tremenda gambiarra, porém, valia a pena pra quem era fã do SNES.
+
+== Games pra Download ==
+
+Alguns dos games eram Dezaemon, BS-X Shooting, Sattela<s>[[Michael Jackson's Moonwalker|Moon]]</s>Walker e SattelaWalker 2. Os games da série SatellaWalker são dois games de [[RPG]] (marca registrada da [[Namco Bandai|Bandai-d]]) usando os mascotes do Sattelaview (além dos avatars): Satebō (um satélite na TV) e Parabō (outro satélite, porém, parabólico) como ajudantes.
+
+=== Acessórios compátiveis ===
+
+* Cartucho de 8MB: Veja acima;
+* Character Cassete: Vem no [[Same Game]] da [[Hudson Soft|Hudson]];
+* Character Data: Tengai Makyo: Vem como prêmio no Same Game;
+* Map & Collections: vem no SD Gundam G-NEXT;
+
+=== Games que utilizam BS-X ===
+
+* BS-X Sore wa Namae o Nusumareta Machi no Monogatari (lógico...)
+* [[Hipódromo|Derby Stallion]] '96
+* Joushou Mahjong Tenpai
+* Ongaku Tsukuuru: Kanadeeru
+* RPG Tsukuuru 2
+* Same Game
+* SD Gundam G-Next
+* Shigesato Itoi's No. 1 Bass Fishing (sim, o jogo do criador da série [[EarthBound|MOTHER]]!)
+* Sound-Novel Tsukuuru
+
+== Ver também ==
+
+* [[Famicom Modem]]
+* [[Sega Game Library|Merda Net japonês]]
+* [[MerdaNet|Merda Net Brasileiro]]
+* [[Sega Channel|Canal CEEEEEEEEEEGOOOOOOOOO!!!]]
+
+{{Super Nintendo}}
+{{Nintendo}}
+
+[[Categoria:Nintendo]]

@@ -1,0 +1,37 @@
+
+
+{{c|Eu gosto do Arch, o logotipo é massa.|Criador do Quirinux|Arch Linux}}
+
+{{c|Eu faço todas as .confs em um milésimo de segundo!|Chuck Norris|Arch Linux}}
+
+{{c|Uso quando quero descansar do slackware... Por favor, não conte a ninguém!|Patrick, criador do [[Slackware]]|Arch Linux}}
+
+{{c|Que porra é essa??? Tem na AUR?|Usuário de Arch|mulher}}
+
+{{c|btw eu uso arch|Usuário de Arch|Arch Linux-}}
+[[Arquivo:Linux crop circle.jpg|thumb|Marca estranha numa plantação de Piracicaba.]]
+'''Arch Linux''' (sic) é o apelido dado em [[Piracicaba]] a uma distribuição Linux criada no [[Rio Grande do Sul]]. Essa distribuição se chama Alque Linus, mas em Piracicaba, com a dificuldade na pronúncia chique no último, ela foi adaptada ao idioma da região. Logo, Alque se torna Arque, mas para ficar mais glamourosa vira Ark (sic). Linus se transformou em Linux (sic) por questões de perfumaria.
+
+Segundo o criador do Ark (sic) "É mais chik falar em ingrêis, because até nos Isteites os mendigo falam ingrêis".
+
+==Requisitos mínimos ==
+Para usar o Ark Linux (sic) são necessários os seguintes requisitos:
+*Nascer em Piracicaba.
+*Gostar de [[pamonha]].
+*Gostar de coisas fáceis e autoconfiguráveis.
+*Gostar de jogar [[Atari]].
+*Não ligar ao ser chamado de [[índio]]. Porque quem usa arco é índio.
+
+==História==
+Perto da [[Idade Média]] o Archlinux foi governado pelo Vim onipotente Judd! (Que usou um Elmo de sabedoria para ser como Elmer Fudd e foi tomado agora pelo Turd antigo de Phrak o sacerdote elevado do [[KKK|King Kong Klan]] (Phrak foi quem escreveu o " \ alias Phrak Turd=' \ Burro do Argônio \ ' \ " em um bloco de notas real comprado de uma loja chinesa perto de VOCÊ, Phrak foi ao seu povoado e disse: " o YO, todas aquelas distribuições de Leetnux e suckomaticks principais, eu fá-lo-ei mais rápido e melhor e para descascar toda a documentação para mostrá-lo o mundo, que nós somos os mais leetest, e todos seguir-me-ão da minha maneira à terra aonde o leite e o mel fluem! " Uma comunidade pequena de refugiados do [[Slackware]] e do [[Gentoo]] recolheu-se em torno do almighty Judd para segui-lo à terra prometida. Ao longo do tempo, um profeta poderoso chamado Eugenia Loli-Queru juntou-se a sua procura nobre e começou-se publicar o FUD nobre, em seu local nobre, para ajudar o Judd a prosseguir. Há uns contos que [[Chuck norris]] - ele mesmo - foi nesta cruzada para a salvação, este mais atrasado, alguns dizem que esta junção do holiness e do geekness, é de onde os Judeus vieram.
+
+==Quer Saber Mais?==
+*[[GNU/Chato]]
+*[[Linux]]
+*[[Pacman]]
+
+{{Linux}}
+{{oposto|Ubuntu}}
+
+[[en:Archlinux]]
+[[pl:Arch Linux]]

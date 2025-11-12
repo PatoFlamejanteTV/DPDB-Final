@@ -1,0 +1,39 @@
+<choose><option>{{Computeiro}}</option>
+<option>{{Matemática}}</option></choose>
+[[Arquivo:Banco de dados.jpg|thumb|Banco de dados da [[Desciclopédia]].]]
+
+'''Banco de dados''' ou '''base de dados''' é um banco muito solicitado pelos computeiros do universo para tentar entender o funcionamento básico de um [[computador]] ou de um [[website]], ou de um banco mesmo, ou de um [[dado]], caso ele esteja viciado em [[dorgas]]. Dizem que quando se cria um, passam-se milênios sem nenhuma alteração estrutural alguma. Isso explica porque o banco de dados do [[servidor da Desciclopédia]] vive dando [[Erro no banco de dados|erro]] sem correção alguma.
+
+== Como se conhece um banco de dados? ==
+1 - Rodar o comando update sem where
+
+Ocorreu um erro gramático de sintaxe na pesquisa à base de dados. A última tentativa de busca na base de dados por [[Jesus do SBT]] causou explosões nucleares. Ela foi:
+
+(Um dia vamos nos encontrar SQL [[juízo final]])
+
+na função "MediaWikiMorri::_doquery". MySQL retornou o erro "[[Mais de 8000|8001]]: Esse aparelho deve estar quebrado; tente fazer como o [[Vegeta]] e quebre-o na mão.".
+
+É inevitável que você encontre esse erro se for navegar em um sistema nacional desenvolvido em [[ASP.NET|ASP]] ou [[JavaServer Pages|JSP]]. Normalmente os programadores de PHP os desenvolvem usando como base o [[POG]].
+
+== Modelos ==
+
+Modelos de base de dados existem 3 principais: O modelo plano, o modelo relacional e o modelo experimental.
+
+*'''Modelo plano''': Pouco utilizado, é um modelo em que os dados são partidos em suas 6 faces e todas são colocadas em plataforma 2D, para apontar as partes envolvidas num simples papel. Usado por professoras de 1º ao 5º ano do ensino fundamental e por professoras de creches para fazer montagens "recorte e cole" com seus pirralhos.
+
+*'''Modelo relacional''': Mais comum, é um modelo muito útil, pois nele os dados são jogados juntos, podendo assim rolar um Full House ou uma pontuação maior usando dados icosaédricos (com 20 faces) ou dados duplos (com um dado menor dentro). Muito usado em sites como [[Facebook]], [[Google+]] e o falecido [[Orkut]], sendo útil principalmente para os [[hater]]s zoarem com os outros usando-se de uma jogada de sequência real.
+
+*'''Modelo experimental''': Também conhecido como [[POG|Programação Orientada a <s>Gambiarras</s> Grandes Jogadas]], é o usado em sites como a [[Desciclopédia]], [[pudim.com.br]] e o blog que [[seu pai]] criou sobre suas partidinhas de [[pôquer]]. Esse sistema emprega apenas dados viciados, sendo assim um modelo que emprega problemas sérios, pois os dados podem causar acidentes de trânsito com um [[ludo]] acidentalmente, causando o fim imediato do jogo, ou um [[erro 404]]. Apesar disso, é uma opção mais barata, e sempre funciona. Vide um esquema básico do funcionamento lógico, simples e fácil de um banco de dados assim:
+
+[[Arquivo:MOG.gif|thumb|center|400px]]
+
+== Como obter bancos de dados? ==
+
+<s>Colando vários dados de mesa um no outro</s> Existem programas de computador que ajudam no trabalho. Originalmente surgiu o velhote [[dBASE]], que quase ninguém mais usa, depois veio o [[xBase]], o StarBase, o [[Microsoft Access]], o nerdão [[Microsoft SQL Server]], o pobretão [[OpenOffice.org Base]], o [[POG|P.O.G. Base]] enfim, uma porrada de programas que ajudaram programadores nerds a criarem soluções geniais, programinhas de PC feiosinhos (o [[Jogo do Collor]] foi criado assim) e até formas de escapar de uma merda que você mesmo fez.
+
+{{esboço}}
+
+
+{{Bancos}}
+
+[[Categoria:Banco de dados]]

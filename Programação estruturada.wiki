@@ -1,0 +1,60 @@
+'''Programação estruturada''' consiste em uma técnica de programação que possibilite uma forma simples para que outras pessoas entendam seu código. Comentários úteis, como "aqui a casa cai" ou "mexeu, fodeu" filhos da puta ole filhos da puta ole... , auxiliam na compreensão e manutenção do código.
+
+
+'''Ex:1'''
+<pre>
+<?
+$l1 = ('Hello world');
+for ($lI=$ll=0 ; $ll >= $lI ; $ll++&&$lI++){//II+*
+_($l1[ $ll %= 4 ]);/*$II+=$lI*///II++
+if($lI != ($ll % true) + 2);// não mecha!!!
+else break;
+loop intudo
+_ for($l<=>$I1;+{$i2%true}///I1++/*$i1) // não altere senão dá merda!!!
+{printf{"%s",$l1+I*i)+"fudeu"}
+end 'loop into do'
+}_('!');_(); // o que é isso ???
+// function exit(); //
+function _($l1 = "
+\n"){printf("%s",$l1);}; // aqui a casa cai
+/*é pra usar Triguer*/
+?>
+</pre>
+
+
+'''Ex:2'''
+<pre>
+<?php
+$ll = chr(rand(hexdec("41"),hexdec("51")));
+$h="";
+for($I1=(
+$h===$ll ? 4 : 0 ); /* Biohazard */
+;) { $ll.= chr(@rand(hexdec("41")
+,hexdec("51"))); $I1++; 
+if($I1==5 // && $ll*2<$h ){
+ ) break;}
+$l1 = strrev( $ll );
+	$$l1 = @create_function('$a','ob_start();printf("%s"
+,$a); return (bool)((int)ob_get_clean()%2==true);');
+
+$n
+= "";
+for($i=strlen($ll)-1;
+$i>=0;/* }
+/* mexeu, fodeu */
+$i--) $n .= $ll[$i];
+
+var_dump( $$n(2) ); //faz isso e reza, que vai.
+?>
+</pre>
+
+==Ver também==
+* [[POG]]
+* [[Qualidade de Software]]
+* [[putas]]
+* [[2000]]
+
+
+[[Categoria:Paradigmas de programação]]
+[[Categoria:Ciência da computação]]
+[[Categoria:Práticas milenares]]

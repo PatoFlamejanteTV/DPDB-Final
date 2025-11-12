@@ -1,0 +1,92 @@
+{{taxocaixa
+| nome           = Lagartos
+| cor            = #006400
+| imagem         = Camaleão bonito.jpg
+| imagem_legenda = Escamado com medo de virar bolsa, mimetizando com ambiente ao seu redor
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Tetrapoda|Quadrúpedes]]
+| classe         = [[Reptilia|Dinossauros]]
+| ordem          = [[Squamata|Acamados]]
+}}
+
+'''Squamata''', traduzido para o português '''Escamados''', é o nome do principal grupo de répteis existentes, sendo eles uma das ordens mais numerosas do reino animal com pelo menos [[mais de 8000]] espécies catalogadas (e de verdade, não é [[hipérbole]] piada do Vegeta), sendo eles mais conhecidos como mini-dinossauros, dinossauros-raquíticos, lagartixas-com-câimbra ou primos-pobres-dos-dinossauros.
+
+== Anatomia ==
+
+A principal característica dos escamados é ter escamas como os [[peixe]]s, só que diferente dos peixes que evoluíram suas escamas para se tornarem seres escorregadios de maneira que fossem dificilmente manuseados. Os répteis escamados por sua vez as usam como armadura com tons de verde-musgo a verde-marinho, essas couraças naturais são geralmente impenetráveis e apenas lanças especiais podem ferir os répteis escamados.
+
+Os escamados podem vir com pés ou sem pés. Os que tem pés são apelidados de calangos e os sem pés são as cobras, mas independente de ter pés ou não todos tem mania de andar se rastejante, frequentemente esfregando a barriga na terra, cascos de árvores e pedras.
+
+Os escamados machos possuem [[hemipênis]], nome biológico dado aos órgãos sexuais masculinos destes animais, é muito similar a um ânus arrombado de uma atriz pornô, pois é invertido.
+
+Outra característica dos escamados são suas propriedades venenosas, todos eles possuem saliva podre venenosa, dentes venenosos e garras venenosas, embora prefiram muitas vezes espremer tuas vítimas.
+
+== Taxonomia ==
+
+[[Arquivo:Reprodução dos iguanas.jpg|thumb|210px|Reprodução dos escamados.]]
+
+{{Clado
+|clado1     = Subordens e famílias
+|preposição = à
+|clado2     = ordem squamata
+|texto      = Os escamados subdividem-se em 3 sub-ordens, os [[lagartos]], [[serpentes]] e [[anfisbenas]], sendo que apenas os dois primeiros importam já que os asfisbenas são seres alienígenas e pouco se conhece sobre eles. E as famílias dessas três subordens são:
+|lista      = 
+* '''[[Sauria]]''' - lagartos
+** '''[[Corytophanidae]]''' - basiliscos
+** '''[[Iguanidae]]''' - iguanas
+** '''[[Phrynosomatidae]]''' - lagartos de cauda listradas
+** '''[[Polychrotidae]]''' - miniaturas de iguanas
+** '''[[Leiosauridae]]''' - leisosauros
+** '''[[Tropiduridae]]''' - calangos
+** '''[[Liolaemidae]]''' - lagartos jóias
+** '''[[Leiocephalidae]]''' - lagartos de cauda curva
+** '''[[Crotaphytidae]]''' - lagartos de colar
+** '''[[Opluridae]]''' - iguanas malgaxes
+** '''[[Hoplocercidae]]''' - pitocos
+** '''[[Agamidae]]''' - miniatura de dragões
+** '''[[Chamaeleonidae]]''' - camaleões
+** '''[[Gekkonidae]]''' - geckos ou lagartixas
+** '''[[Pygopodidae]]''' - cobras-lagarto
+** '''[[Dibamidae]]''' - lagartos aleijados
+** '''[[Scincidae]]''' - scincos
+** '''[[Cordylidae]]''' - lagartos cercados
+** '''[[Gerrhosauridae]]''' - lagartos encouraçados
+** '''[[Xantusiidae]]''' - lagartos da noite
+** '''[[Lacertidae]]''' - lagartos lagartos
+** '''[[Teiidae]]''' - rabos de chicote
+** '''[[Gymnophthalmidae]]''' - lagartos de óculos
+** '''[[Anguidae]]''' - cobras-de-vidro
+** '''[[Anniellidae]]''' - lagartos americanos sem pernas
+** '''[[Xenosauridae]]''' - lagartos protuberantes
+** '''[[Varanidae]]''' - dragões-de-komodo e monitores
+** '''[[Lanthanotidae]]''' - lagarto-sem-orelha
+** '''[[Helodermatidae]]''' - monstro-de-gila
+* '''[[Serpentes]]''' - cobras
+** '''[[Anomalepididae]]''' - cobras cegas da américa central
+** '''[[Typhlopidae]]''' - cobras cegas
+** '''[[Leptotyphlopidae]]''' - cobras cegas delgadas
+** '''[[Aniliidae]]''' - falsas-corais-brasileiras
+** '''[[Anomochilidae]]''' - cobras tudo
+** '''[[Boidae]]''' - jiboias
+** '''[[Pythonidae]]''' - pítons
+** '''[[Bolyeridae]]''' - jiboia-da-ilha-round
+** '''[[Cylindrophiidae]]''' - cobras cilíndricas
+** '''[[Loxocemidae]]''' - jiboias-mexicana
+** '''[[Tropidophiidae]]''' - boas anãs
+** '''[[Uropeltidae]]''' - caudas de escudo
+** '''[[Acrochordidae]]''' - cobras verrugosas
+** '''[[Colubridae]]''' - colubrídeos
+** '''[[Elapidae]]''' - corais e najas
+** '''[[Hydrophiidae]]''' - cobras-do-mar
+** '''[[Viperidae]]''' - víboras
+* '''[[Amphisbaenia]]''' - asfisbenas
+** '''[[Amphisbaenidae]]''' - lagartos minhocas
+** '''[[Bipedidae]]''' - ajolotes
+** '''[[Rhineuridae]]''' - lagartos minhocas norte-americanos
+** '''[[Trogonophidae]]''' - lagartos minhocas do paleártico
+** '''[[Blanidae]]''' - lagartos minhoca do mediterrâneo
+}}
+
+[[Categoria:Reptilia]]
+[[Categoria:Squamata|*]]

@@ -1,0 +1,59 @@
+{{Game}}
+{{Infobox Game
+|title     = [[Puyo Puyo|Poyo Poyo]]
+|image     = Kirby's Avalanche.jpg
+|caption   =  Kirby brincando na selva com chicletes coloridos. Ao lado, [[King Dedede]] sob efeito de drogas vê nuvens feitas de [[gelo]].
+|developer = [[Compile]] e [[Banpresto]]
+|publisher = [[Nintendo]]
+|released  = [[1995]]
+|genre     = [[Tetris]]
+|rating    = 74%
+|platform  = [[Super Nintendo]]
+|ages      = +16
+}}
+{{vqd|[[Tetris Attack]]}}
+{{experimente|[[Puyo Puyo]]}}
+{{c|Zerei em 2 anos jogando todos os dias!!!|Seu vô|Kirby's Avalanche}}
+{{c|O primeiro do easy é muito complicado!|Carla Perez|Kirby's Avalanche}}
+
+'''Kirby's Avalanche''', ou '''Kirby's Ghost Trap''' para os [[europeu]]s, é um jogo de [[puzzle]] bizarro pra [[SNES]] com o [[Kirby]] e todos os outros esquilos lombrosos que fazem parte de toda a série de jogos desse personagem, todos disputando um jogo de "Avalanche". O que seria isso, vamos desvendar nos próximos capítulos abaixo, acompanhem com a gente.
+
+== Jogo ==
+
+Como é uma cópia de [[Puyo Puyo]], esse jogo segue as regras dele. Ai você dirá "que porra de regras, eu nunca vi esse jogo na vida!" E realmente não viu, mas dane-se você e sua burrice, você não saberá nada das regras. Se vire.
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+{{Pegadinha}}
+
+Brincadeirinha....
+
+As regras são muito simples: você solta uma porrada de [[chiclete]]s de cinco cores diferentes ([[vermelho]], [[roxo]], [[amarelo]], [[azul]] e [[verde]]), todos misturados em blocos de dois. Solte de acordo com o momento que elas vão surgindo na tela. Quando juntam quatro ou mais da mesma cor, eles explodem. A estratégia se dá quando você começa a criar várias linhas a explodir rapidamente, pois assim você cria umas pedras... acho que é isso... e elas são soltadas no cenário do seu adversário, dificultando legal a vida do mesmo. Mas isso, claro, também serve pra você (e como, já que você é lerdo e vai morrer ainda no primeiro nível).
+
+== Inimigos ==
+[[Arquivo:KirbyvsHeavyMole.jpg|thumb|Um exemplo de briguinha desse jogo.]]
+Ai vai uma pá de inimigos, são no total 16. Os três primeiros só aparecem no modo "[[noob]]" (e são os únicos que você enfrenta mesmo nesse modo), os três seguintes só irão aparecer se você começar do modo "normalzinho". Caso você seja valentão e queira começar já do modo "arde", então será direcionado direto pro sétimo chefe.
+
+*[[Waddle Dee]]: Um bananão, é lento, não sabe girar as peças do seu jogo, e com isso acaba sempre fazendo merda;
+*[[Bronto Burt]]: Metido a valentão, se enrola todo caso você consiga encher ele com algumas pedrinhas;
+*[[Waddle Doo]]: Irmão do de cima, um pouco mais sacana e complicado de derrotar, mas como esse é o nível fácil, vez por outra dá vacilos terríveis;
+*[[Poppy Bro. Sr.]]: Tenta jogar bombas enquanto joga esse game, o que o leva a se confundir e nunca virar suas peças também, o mais fail do nível normal;
+*[[Whispy Woods]]: A árvore gigantona, costuma montar uma barricada com quatro linhas de blocos completamente aleatórios, mas não se engane, ela não tá fazendo merda, do nada essa mistureba vai dar merda pra você;
+*[[Kabu]]: Joga rápido pacas, as vezes isso se volta contra ele;
+*[[Broom Hatter]]: Primeiro mestre do modo hard, ela sempre faz uma coisa ainda sem explicação para nós: cobre por completo as laterais de sua tela com os chicletes;
+*[[Squishy]]: A partir daqui a maioria faz quase tudo a merma merda, por isso, vai seguir mais nomes que tudo daqui pra baixo, e que se foda;
+*[[Lololo & Lalala]]
+*[[Bugzzy]]
+*[[Paint Roller]]
+*[[Heavy Mole]]: O primeiro adversário quando você finalmente chega à disputa oficial em Dream Fountain (e daí?), e sempre destrói blocos até dizer chega, sem nenhuma estratégia bem definida (a famosa "estratégia de bêbado");
+*[[Mr. Shine and Mr. Bright]]
+*[[Kracko]]
+*[[Meta Knight]]: Sabe-se lá como, ele consegue por ser o mais <s>rico</s> fodão dos jogadores acima, soltar muitas pedras pra encher seu saco;
+*[[King Dedede]]: O fodão do jogo, metido a rei de [[Dream Land]], só pra se amostrar ele sempre que explode blocos, fica balançando a tela feito jogador de [[pinball]] dando porradas no fliperama. Mas só pra se amostrar mesmo, pois não afeta em nada o jogo (a não ser pra te deixar com medinho).
+
+{{Kirby}}
+{{Puzzle}}
+
+[[Categoria:Jogos da HAL Laboratory]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos lançados em 1995]]

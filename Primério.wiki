@@ -1,0 +1,65 @@
+<!--
+dados da tabela; siga adiante para alterar o texto 
+-->
+{| style="margin-left: 0.5em;" align="right" border="1" cellpadding="2" cellspacing="0"
+|-
+| colspan="2" |
+{| align="center" border="0"
+|-
+| colspan="2" align="center" | '''Primério'''
+|-
+! colspan="2" bgcolor="#a0ffa0" | <font color="green">Geral</font>
+|-
+|'''Nome''', '''Símbolo''', '''Número'''
+| Primério, 1º, 1
+|-
+| '''Série alquímica''' || Escanteados
+|-
+| '''Densidade''', '''Macheza'''
+| 1[[p(alquimia)|p]], 1[[p(alquimia)|p]]
+|-
+| '''Cor e aparência'''
+| align="center" | Alaranjado<br>
+|-
+! colspan="2" bgcolor="#a0ffa0" |Propriedades atómicas
+|-
+| '''Massa atómica'''
+| 1[[p(alquimia)|p]]
+|-
+| '''Raio atómico''' || 1[[p(alquimia)|p]]
+|-
+| '''Raio de Van der Van Halen''' || 1.0000010248[[p(alquimia)|p]]
+|-
+| '''Número de Oxidação'''
+| +1
+|-
+| '''Estrutura [[Geometria|Geométrica]]''' | 
+|-
+! colspan="2" bgcolor="#a0ffa0" |Propriedades físicas
+|-
+| '''Estado da matéria''' || [[Estado gasoso|Gasoso]]
+|-
+| '''Ponto de fusão'''
+| -1º[[Graus Desciclopedianos|Des]]
+|-
+| '''Ponto de ebulição''' || 1º[[Graus Desciclopedianos|Des]]
+|-
+|-
+| '''Potencial de ionização''' || 1[[p(alquimia)|p]]
+|}
+|-
+! colspan="2" bgcolor="#a0ffa0" |Dados [[correto]]s exceto onde indicado o contrário.
+|}
+<!--
+fim dos dados da tabela
+-->
+
+O '''Primério''' (do latim Primerium) é um elemento alquímico de símbolo '''1º''', de '''número atômico''' 1 e '''massa atômica''' 1. Costuma apresentar-se como [[Estado gasoso|gás]] embora aparições em forma [[Estado liquido|liquida]] sejam documentadas.
+Foi o '''primeiro''' elemento a nascer no [[Universo]]. E o '''segundo''' mais populoso, perdendo apenas para o [[Iluminátio]]. Formando os compostos mais [[Normal e sem graça|Normais e sem graça]] do universo.
+
+10 (dez) em cada 9 (nove) cientistas políticos [[Fé|Creem]] que o mundo seria 10 vezes mais divertido se todos os átomos de Primério fossem mandados para campos de extermínio.
+
+O culto ao '''Primério''' se tornou popular na [[Internet|Intenet]] quando começou a moda de inventar [[Divindades esdrúxulas da Internet|Divindades esdrúxulas]].
+Segundo os cultistas, o '''Primério''' criou todo o resto do [[Universo]] por que estava entediado.
+{{esboço}}
+[[Categoria:Elementos Alquímicos]]

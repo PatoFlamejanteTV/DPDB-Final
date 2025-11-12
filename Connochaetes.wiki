@@ -1,0 +1,46 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = GNU
+| imagem          = Gnu.jpg
+| imagem_legenda  = Um autêntico gnu, somente não modificado e redistribuído pelo Santo da Gaita por questões de biopirataria.
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| classe          = [[Mammalia|Mamadores]]
+| ordem           = [[Artiodactyla|Pé-de-pano]]
+| família         = [[Bovidae|Mortadelidae]]
+| subfamília      = [[Alcelaphinae|Alces finos]]
+| gênero          = [[Connochaetes|Cones chatos]]
+}}
+
+{{c|Eles mataram meu pai!|Simba|Manada de gnus}}
+
+'''Connochaetes''' é um gênero de bois africanos selvagens fedorentos mais conhecidos como '''gnus''', que até o final da revolução industrial estavam fadados ao ostracismo pois nem mesmo os leões se interessam pela carne deles. Numa genial jogada de marketing, estes animais fundaram uma empresa com seu nome, mas como "Connochaetes" seria escroto demais, eles abreviaram para "gnu", acrônimo para "gays numa umbanda".
+
+== Popularização ==
+
+Em 1980, na [[Escócia]], um tocador de gaita de foles, instrumento da família dos aerofones, conhecido pelos conhecidos (não tinha amigos) como Santo da [[Gaita]], viu um boi e procurou sobre tão lindo animal na Desciclopédia. Lá ele encontrou uma referência ao gnu, espécie de bisão africano. Apaixonou-se e criou uma organização com seu nome. Músico como ele só, fez de GNU um acrônimo para Gates Not Under (Portões Não Abaixo), referência à loja de gaitas onde ficou preso por 2 dias sob o portão até que percebessem que ele não era um [[GNOME]] de enfeite.
+
+Mas surgiu então em sua humilde cabecinha a questão avassaladora: "O que vou fazer com este nome?". Ignorando a primeira resposta que surgiu, decidiu ser um escritor binário e liberar para todo mundo fazer o que quiser. E assim foi feito...
+
+Atualmente, o GNU luta arduamente para ser lembrada, obrigando todos os adolescentes, espinhentos ou não, a usarem o nome, inclusive sobre o que não originalmente pertence ao Bisão (ex: linux, que o Bisão obriga a chamar de GNU/Linux). Se você disser a um adolescente geek leeto qualquer "linux", ao invés de "GNU/Linux", ele irá se revoltar e irá agredir você.
+
+O GNU não é só composto por radicais revoltados comunitas comedores de criancinha, mas também por desocupados em geral.
+
+== Primeiros Problemas ==
+
+A partir daquele momento, todos passaram a ser felizes. Podiam ter todos os [[1]] (hums) e [[0]] (zerums) que quisessem, fazer mais e dar para todo mundo! Mas, após a empolgação inicial, caíram na real: "E o que vou fazer com isto tudo?". Eles tinham 1, tinham 0, mas não tinham 1 e 0 para que os anteriores realmente fizessem sentido. O Santo da Gaita, frustrado, planejou suicidar-se, mas nem isso ele tinham coragem de fazer. Então pediu que outros o suicidassem, mas ninguém entendeu o recado. Ele teve que viver.
+
+== Espécies==
+
+* '''[[gnu-negro]]''' ''(connochaetes gnou)''
+* '''[[gnu-azul]]''' ''(connochaetes taurinus)''
+
+[[Categoria:Alcelaphinae]]
+[[Categoria:Connochaetes]]
+
+[[de:Gnu]]
+[[en:GNU]]
+[[es:GNU GPL]]
+[[ja:GNU]]
+[[no:Gnu]]
+[[ru:ГНУ]]

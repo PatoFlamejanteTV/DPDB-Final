@@ -1,0 +1,100 @@
+{{Quimica}}<br>
+{{corrosivo}}<br>
+{{ciencia}}
+
+{{c|O que significa pH?|[[Você]]|pH}}
+{{c|Nem sei...|Professor de química, física ou ciências|significado de pH}}
+{{c|[[AAAAA|AAAAAAAAAAAAAAAAAAAAAA]]!!!!!|[[AAAAA]]|pH}}
+
+Desespero e ódio entre os estudantes, a '''Escala de pH''' ou '''Pê Agá''' é um tipo de medida invetada por alguns <s>psicopatas</s> cientistas para saber se uma substância é ácida, básica, molhada ou neutra. Foi <s>plagiada</s> criada por acaso na [[Austrália]] por um aluno [[Dinamarca|dinamarquês]] com instrumentos [[EUA|americanos]] e matéria-prima [[Brasil|brasileira]] para ser usada na [[Escócia]] e medir a propriedade de um determinado líquido. Atualmente sabe-se que esa medida era interessada ao escoceses, pois um uísque com pH básico é pior do que um uísque com pH neutro ou ácido.
+
+Tudo começou quando faltavam uns minutos para o intervalo entre as aulas nessa universidade australiana. O estudante estava na aula de química mexendo com líquidos e repentinamente bateu uma fome. Com pressa, pegou o lanche e derrubou o repolho roxo no líquido (meio [[ácido]]). Após a explosão ocorrida, reparou que o líquido mudava de cor. Quando foi escovar os dentes, percebeu que a cor dos restos do indicador, que ficou nos dentes (ele comeu o lanche mesmo depois que o mesmo tinha caído no líquido), mudava novamente (meio [[base (química)|básico]]).
+
+E como tinha certo domínio em ácido e base, concluíu que tinha algo relacionado entre o lanche, a pasta de dentes, a cor e toda aquelas coisas. Convidou mais alguns colegas para <s>[[Sexo|fazerem]] [[Gay|troca-troca]]</s> estudar o ocorrido e chegaram  na '''Escala de pH'''.
+
+==A Escala de pH==
+A medida do pH é dividida em cerca de 32 ([[cu]]atorze) unidades arbitrárias, correspondendo ao pH 0 (zero) uma solução concentrada de ácido altamente corrosivo (ácidos sulfúrico e perclórico), o pH 7 a uma solução neutra de [[água]] a 25°C e o pH 14 a uma solução concentrada de uma [[base (química)|base]] altamente corrosiva (Etóxido de sódio e de potássio). Os valores correspondentes aproximados de outras substâncias importantes ([[ou não]]) estão no quadro ao lado.
+<br><br>
+{| class=center style="border:2px dotted black; margin: 0 0 0.3em 0.5em;"
+! Substância || pH 
+|- 
+| [[ácido sulfúrico|Ácido de bateria]] ||bgcolor=red| 1
+|-
+| [[suco gástrico|Ki-Suco]] ||bgcolor=#FF5500| 2
+|-
+| [[Coca-cola]] ||bgcolor=#FF9900| 3
+|-
+| [[Pinga]] ||bgcolor=#FFDD00| 4
+|-
+| [[Chuva ácida]] ||bgcolor=yellow| 5
+|-
+| [[Saliva]] ||bgcolor=#CCFF00| 6
+|-
+| [[Água]] ||bgcolor=#55DD00 style=color:white| 7
+|-
+| [[Sangue]] ||bgcolor=#00CC99 style=color:white| 8
+|-
+| [[Porra]] ||bgcolor=#0099FF style=color:white| 9
+|-
+| [[Sabão]] ||bgcolor=#0055FF style=color:white| 10
+|-
+| [[Amoníaco]] ||bgcolor=0000FF style=color:white| 11
+|-
+| [[Água sanitária]] ||bgcolor=#5500FF style=color:white| 12
+|-
+| [[hidróxido de magnésio|Leite de magnésia]] ||bgcolor=#9900FF style=color:white| 13
+|-
+| [[hidróxido de sódio|Soda cáustica]] ||bgcolor=#9900CC style=color:white|14
+|}
+
+== Indicadores ácido-base==
+
+Indicadores [[ácido]]-[[base]] são outros métodos de calcular se uma coisa é ácida ou básica. Pode ser qualquer coisa, contanto que você saiba usar. Abaixo uma lista de objetos, como funciona e como calcular.
+
+*'''Repolho <font color ="purple">Roxo</font>'''
+
+O Repolho é um dos melhores indicadores pois funciona na maioria das vezes. O Roxo em contato com outras substâncias muda de cor. Isso mesmo! Muda de cor. Não só serve com líquidos mas também com sólidos e até gasosos. <br> Se [[Idiota|você]] pegar um repolho que seja roxo e jogar em um ácido, o repolho vai <s>sumir</s> mudar de cor. De roxo ficará vermelho. Agora se jogar em uma base, ficará verde. Se você o jogar na água, ficará roxo.
+Jogando o repolho no chefe, ficará vermelho e depois a coisa ficará preta. Experimente também jogar em outras <s>pessoas</s> substâncias.
+
+*'''[[Dedo]]'''
+
+Isso mesmo que você leu. O dedo funciona como um indicador ácido-base. Foi descoberta por um funcionário de uma universidade a propriedade indicadora do dedo<sup>[[Foda-se|(Precisa de mais fontes)]]</sup>.
+Esse funcionário havia deixado um copo de pinga<sup>[[51]]</sup> perto de outros três copos: Um de água, um com uma base e outro com um ácido. Esse [[Lula|companheiro]] não sabia qual era qual pois todos líquidos eram transparentes e pareciam água, porém estava louco para se embebedar. Tomada a coragem, colocou o dedo no primeiro copo. Esperou um pouco e tirou o dedo. Notou que não acontecia nada e deduziu que era a água. <br> Pôs o dedo no copo seguinte e percebeu que sentia o dedo diferente. Deduziu que era a [[Base (química)|base]].
+Colocou o dedo no terceiro copo e [[dedo|o]] sentiu fervendo. Colocou o dedo no último copo e quando tirou, ficou sem dedo. Deduzindo que o terceiro era o [[ácido]], pegou o último copo e virou em um só gole.
+
+*'''Fenolftaleína'''
+
+Esse indicador é racista, já que só muda de cor perante [[base (química)|bases]]. Nos ácidos ele fica incolor como água, de forma que não presta pra nada. Mas quando é jogano numa base, <s>sai do armário</s> assume uma cor rosa bem carácterística, o que prova a capacidade das bases de ''dar'' [[elétron]]s com gosto.
+
+*'''Tornassol'''
+
+Apesar do nome esquisito, não é um remédio ''(não confundir com [[Tylenol]])''. Esse indicador é o verdadeiro ''vira-casaca'', já que muda de cor quando cai num ácido e troca de novo quando cai numa base. O tornassol muda para a cor vermelha quando está em meio [[ácido]] e muda para azul quando está em meio [[base (química)|básico]], o que prova as tentativas de disfarce desse indicador para não ser <s>corroído</s> atacado pela substância, no entanto, em vão.
+
+== Substâncias com valores extremos de pH==
+[[Arquivo:Dent_tdk.jpg|thumb|225px|Os efeitos do [[Chuck Norris|Ácido Chucknórrico]] nos tecidos orgânicos.]]
+Embora a escala de pH comporte com certa abrangência quase todos os compostos químicos, [[ácido]]s e [[base (química)|bases]] muito fortes podem ter valores negativos e positivos, respectivamente, de pH. Entre eles, citamos:
+
+'''Valores negativos:'''
+*[[Ácido trifluorsulfúrico]] - pH =  -14,72
+*[[Ácido fluoroantimônico]] - pH = -33,15
+*[[Seiva de Sogra]] (estado natural) - pH = -57,18
+*[[Capitão Nascimento|Ácido Nascimentídrico]] - pH = -100,45
+*[[Chuck Norris|Ácido Chucknórrico]] - ''(derreteu o aparelho de medição)''
+
+'''Valores positivos:'''
+*[[Hidróxido de Césio]] - pH = 22,04
+*[[Hidróxido de Frâncio]] - pH = 31,7
+*[[Alborghetti|Hidróxido de Alborghetti]] - pH = 49,[[69]]
+*[[Zinedine Zidane|Hidróxido de Zidânio]] - pH = 62,94
+*[[Adolf Hitler|Hidróxido de Hitler]] - pH = 85,15
+
+== Veja também ==
+
+*[[Ácido]]
+*[[Base]]
+
+{{ácidos}}
+{{bases}}
+{{oposto|pOH}}
+
+[[Categoria:Química analítica]]

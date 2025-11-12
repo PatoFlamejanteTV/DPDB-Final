@@ -1,0 +1,43 @@
+{{taxocaixa
+| nome           = Elasmobranchii
+| cor            = #0047AB
+| imagem         = Shark-ray.jpg
+| imagem_legenda = Um animal que levou a definição de "Elasmobranchii" a sério
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aquáticos]]
+| classe         = [[Chondrichthyes|Gelatinosos]]
+| subclasse      = [[Elasmobranchii|Elasmobrancos]]
+}}
+
+'''Elasmobranchii''' é uma subclasse específica de peixes cartilaginosos que inclui todos [[tubarões]] e todas [[raia]]s, ou seja, todos peixes cartilaginosos, então o motivo da criação desta subclasse é apenas excluir as [[Chimaeriformes|quimeras]] que sofrem preconceitos dos tubarões e merecem ficar numa subclasse a parte, a [[Holocephali]].
+
+== Anatomia ==
+
+Estes animais são como os peixes fisicamente, mas por dentro diferem-se tanto que possuem sua subclasse separada, pois são feitos de gelatina ao invés de carnes, e portanto não são comestíveis, mas em cotrapartidas podem todos comer você, afinal você sim é feito de carne e os Elasmobranchii são carnívoros fervorosos. São ocos por dentro o que os permitem engolir qualquer coisa que desejarem.
+
+Estes animais aquáticos não possuem [[bexiga natatória]] e portanto não possuem a habilidade de emergir ou submergir livremente na água, sendo eles deslocados na água conforme a correnteza ou o campo magnético dos peixes que os atraem e lhes servem de presas.
+
+Os Elasmobranchii são dotados de sete pares de [[guelra]]s, potencializando sua reprodução, pois sabemos que as guelras são usadas nestes animais para a reprodução assexuada dos mesmos.
+
+São carnívoros, e para tanto são sempre dotados de dentes afiados de infinitas vidas que são constantemente trocados por novos.
+
+== Ordens ==
+
+* '''[[Batoidea]]''' - raias
+** '''[[Rajiformes]]''' - raias comuns
+** '''[[Myliobatiformes]]''' - jamantas
+** '''[[Pristiformes]]''' - raias-de-serra
+** '''[[Torpediniformes]]''' - raias elétricas
+* '''[[Selachimorpha]]''' - tubarões
+** '''[[Hexanchiformes]]''' - tubarões primitivas
+** '''[[Squaliformes]]''' - tubarões sem barbatana anal
+** '''[[Pristiophoriformes]]''' - tubarões-serra
+** '''[[Squatiniformes]]''' - tubarões anjo
+** '''[[Heterodontiformes]]''' - tubarões de cabeça achatada
+** '''[[Orectolobiformes]]''' - tubarão-baleia
+** '''[[Carcharhiniformes]]''' - tubarão-azul, tubarão-cabeça-chata, tubarão-tigre, tubarões martelo
+** '''[[Lamniformes]]''' - tubarão-branco, tubarão-touro
+
+[[Categoria:Chondrichthyes]]
+[[Categoria:Elasmobranchii|*]]

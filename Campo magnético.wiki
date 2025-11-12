@@ -1,0 +1,95 @@
+{{Magnético}}
+
+'''Campo magnético''' é o nome dado a um efeito sobrenatural gerado por partículas hiperativas em movimento ("eletricamente carregadas", para [[físico]]s e [[CDF|CDF's]]), por objetos de origem alienígena (conhecidos como "[[ímã]]s") ou por alguns elementos químicos tóxicos que causam [[diarreia]], [[câncer]] e [[atrofia testicular]], como [[níquel]], [[cobalto]] e [[ferro]]. Embora muito estudado em Física de [[Ensino Médio]] e em cursos de exatas, é pouco entendido pelos alunos, que geralmente estão ocupados demais pensando nas aulas de [[Educação Física]] (no primeiro caso) ou em matar a aula para encher a cara no [[boteco]] da esquina (no segundo caso).
+
+==História==
+[[Arquivo:Magnemite campo magnético.png|thumb|right|300px|Primeira descrição científica do processo de geração de um campo magnético.]]
+Tudo começou quando [[Pedro de Maricourt]], um dos primeiros treinadores Pokémon da história, após levar um fora da namorada, encheu a cara de vinho adoçado com [[acetato de chumbo]], com o objetivo de afogar as suas mágoas. 
+
+Infelizmente, como o [[chumbo]] é altamente tóxico, o infeliz acabou recebendo mais do que uma mera ressaca no dia seguinte, e acabou sofrendo uma mutação bizarra que lhe permitia ver coisas que ninguém mais via, coisas verdadeiramente horríveis, como o ritual de acasalamento dos ácaros, almas penadas vagando no mundo espiritual e demônios do [[tabuleiro Ouija]].
+
+Cansado de tamanho terror e decidido dar um fim em sua miserável existência, como último gesto em vida, Maricourt foi se despedir de seu [[Magnemite]], que era o único Pokémon que tinha conseguido capturar (já que também era um péssimo treinador Pokémon). Porém, no momento da sua despedida ele observa algo estranho ao redor do bicho: estranhos riscos pretos com setas iam de uma ponta a outra das mãos do Magnemite. Maricourt não fazia ideia do que caralhos era aquilo, mas por ser algo complicado e que provavelmente nenhum [[ser humano]] no mundo jamais seria capaz de entender, ele deduziu que aquilo talvez tivesse algum significado obscuro. 
+
+Acreditando piamente que aquela visão era na verdade uma revelação divina, Maricourt decidiu abandonar sua vida de treinador Pokémon, se apropriando de sua capacidade anormal de ver coisas que ninguém mais via e inventar coisas que seres humanos são incapazes de entender para se tornar um [[físico]]. Realizando experimentos com [[prego]]s enferrujados, [[agulha]]s de [[vudu]] e outros objetos capazes de causar [[tétano]], Maricourt estabeleceu as primeiras noções do que seria um campo magnético, embora ninguém nos mais de 300 anos seguintes entendeu bulhufas daquilo.
+
+===As bases iniciais===
+
+Por volta do ano de 1600, um físico figurante conhecido como [[William Gilbert]] replicou os experimentos de Maricourt, dessa vez, usando agulhas de [[crochê]] de sua avó e optando pela utilização de um [[Magneton]]. Com base em seus experimentos, Gilbert publicou [[De Magnete]], um livro científico dividido em 6 capítulos chatos e maçantes que abordam desde a anatomia de Pokémons magnéticos até os fundamentos básicos da teoria do [[magnetismo]], uma obra que até hoje é referência para vendedores de [[colchão magnético]] do mundo todo. 
+[[Arquivo:Cães poquer.jpg|thumb|left|350px|Ørsted, Ampère, Biot e Savart, durante uma minuciosa investigação científica, abalando as bases do magnetismo com um acalorado debate acerca da influência que um fio eletricamente carregado exerce sobre um imã.]] 
+Durante o século de 1700, diversos desocupados antissociais se recolheram nas catacumbas de seus quartos para estudar os princípios básicos do magnetismo, [[virgem|abdicando-se dos prazeres carnais]] e de qualquer outro tipo de diversão para se aprofundar no estudo desses fenômenos, muitas vezes ficando semanas sem [[comer]], [[dormir]] ou [[tomar banho]]. Toda essa dedicação acabou resultando na conclusão de que os pólos norte e sul de Magnemites e Magnetons não podem ser separados, sob o risco de se cometer um [[assassinato|pokecídio]]. 
+
+No ano de 1820, quatro desempregados - [[Hans Christian Ørsted|Ørsted]], [[André-Marie Ampère|Ampère]], [[Jean-Baptiste Biot|Biot]] e [[Félix Savart|Savart]] - se reuniram para jogar [[Mario Kart]] e conversar sobre como a vida andava uma merda. Em meio as suas lamentações, Ørsted sugeriu que eles jogassem algo mais ousado, convencendo seus colegas a jogar [[Verdade ou Consequência]]. 
+
+Após ser perguntado se já tinha beijado alguém alguma vez na vida, Biot optou por "consequência", e como resultado disso, teve que jogar um imã de [[geladeira]] nos fios de um [[poste]], o que acabou gerando um [[apagão]] em todo o quarteirão. 
+
+A partir dessa brincadeira, os quatro chegaram a algumas conclusões importantes que revolucionaram o estudo do magnetismo, estabelecendo que fios carregados com uma [[corrente elétrica]], além de serem uma eficiente ferramenta de assassinato, geram certos efeitos sobre os ímãs. Baseado nessa descoberta, por volta do ano de 1825 o físico e pesquisador [[Magneto]] propôs o primeiro modelo bem-sucedido de um campo magnético, que posteriormente foi estudado por muitos de seus discípulos, como [[Michael Faraday|Faraday]], [[Franz Ernst Neumann|Neumann]], [[William Thomsom|Kelvin]], [[James Clerk Maxwell|Maxwell]] e [[Albert Einstein|Einstein]].
+
+==Definições==
+
+Quando falamos em campos magnéticos, estamos automaticamente invocando os conceitos de campo B e campo H (muitas vezes chamado simplesmente de ''campo magnético''), cujas letras se referem as palavras "brutal" e "hediondo", dada a sua incrível capacidade de derrubar as notas dos estudantes para a zona vermelha. O campo magnético B nada mais é do que uma grandeza vetorial, o que significa que sua principal função no mundo é ser odiado, já que ninguém gosta de [[vetor]]es. Por ser um vetor, ele naturalmente é brega, usando um chapéu cafona sobre a cabeça, no formato de seta. 
+[[Arquivo:Coyote ímã.jpg|thumb|right|250px|O manuseio de objetos capazes de gerar campos magnéticos deve ser feito com muito cuidado, a fim de evitar possíveis acidentes.]]
+Como vetores costumam ser indesejados e nunca são queridos por ninguém, o campo magnético B costuma ser tratado como um zero à esquerda, e em virtude disso, sua direção tende a ir ao encontro do ponto em que a [[força]] é zero, de forma a ilustrar sua triste situação. O campo magnético B pode ser expresso por:
+
+[[Arquivo:Campo magnético B 2.png|center]]
+
+Onde ''F'' representa a força magnética, ''q'' representa a carga da partícula e ''v'' representa a velocidade da partícula. Ou seja, segundo essa fórmula, caso uma indefesa e inocente partícula ande na quebrada de um campo magnético valentão, ela será repreendida com o uso da força, ou seja, levará um corretivo.
+
+Na esperança de ser amado, o campo magnético B acabou criando um amigo imaginário, o campo H, para ser seu melhor amigo. Entretanto, para a infelicidade do campo B, o campo H se tornou muito mais popular nas festas, e o pobre campo B continuou recluso em sua insignificância, mesmo que o campo H muitas vezes seja considerado uma variação do campo B aplicável apenas em casos onde se considera o tipo do material. O campo H, por sua vez, é representado por:
+
+[[Arquivo:Campo h fórmula.png|center]]
+
+Aqui ''M'' representa a [[magnetização]] do material e ''μ0'' a [[permeabilidade magnética do vácuo]]. Essa fórmula é muito utilizada para definir que pessoas possuem maior probabilidade de desenvolver o superpoder da [[magnetocinese]]. Entretanto, vale ressaltar que ela não serve pra porra nenhuma em condições da vácuo, já que o [[vácuo]] é um lugar enfadonho onde não existe magnetização. Logo, em condições de vácuo o campo H é proporcionalmente sem-graça ao campo B. 
+
+==Linhas do campo magnético==
+
+Os campos magnéticos costumam ser representado em livros de física por riscos pretos com setas. Esses riscos são chamados de "linhas de campo magnético", e sua principal função é tentar convencer as pessoas de que campos magnéticos não são os frutos do devaneio de algum desocupado, já que boa parte das pessoas é [[ignorância|ignorante]] e pode ser facilmente induzida a acreditar que se algo aparece desenhado em uma figurinha nas laterais de um [[livro]] de [[física]], é porque realmente existe. 
+
+O [[modus operandi]] de uma linha de campo magnético é simples, tornando-as previsíveis. As linhas do campo magnético sempre entram pelo polo sul do [[ímã]] e saem pelo polo norte, sendo condenadas a viver eternamente na [[rotina]] e na [[monotonia]], sempre andando em forma de [[curva]]s fechadas. Por conta do triste [[destino]] que lhes foi designado, as linhas de campo magnético costumam ser cheias de [[ódio]], e canalizam toda sua [[raiva]] para direcioná-la aos estudantes na hora de uma [[prova]] de física, tendo um prazer doentio em ferrar com as notas dos alunos. Quanto menor for o espaçamento entre as linhas mais intenso é o campo magnético, já que maior será o ódio que as linhas sentem da [[humanidade]]. 
+
+==Equações de Maxwell==
+[[Arquivo:Poster - Magnetic fields 2.jpg|thumb|right|250px|Além de sua importância para a Física, o campo magnético também influenciou toda uma geração de [[indies]] desprimorosos, de muito mau-gosto e pouca sofisticação.]]
+As equações de Maxwell são um conjunto de fórmulas físicas cuja principal característica é NÃO terem sido criadas por [[James Clerk Maxwell|Maxwell]]. Na verdade, essas quatro equações foram criadas por [[Carl Friedrich Gauss]], [[Michael Faraday]] e [[André-Marie Ampère]], sendo que Maxwell apenas inventou que existia alguma ligação obscura entre elas para poder levar os créditos. No máximo ele fez uma modificação insignificante na [[Lei de Ampère]] para não dizerem por aí depois que ele não contribuiu com porcaria nenhuma. 
+
+Essas equações formam as bases do [[eletromagnetismo]], e sua principal ligação com esse artigo é que elas explicam o processo de geração de campos magnéticos, bem como sua relação com o [[campo elétrico]], sempre de forma que nenhum ser humano normal consiga entender bulhufas.
+
+===Lei de Gauss===
+
+A Lei de Gauss é uma das clássicas leis da [[física]], e até hoje, uma das mais temidas. Foi desenvolvida por Carl Friedrich Gauss após este ser atacado por um [[Kabuterimon]] selvagem durante um acampamento de férias. Existem inúmeras variações e formas de representar essa lei por meio de suas deduções, todas levando ao mesmo caminho e sendo igualmente incompreensíveis. A Lei de Gauss é expressa por:
+
+[[Arquivo:Fórmula Lei de Gauss.png|center]]
+
+Por algum motivo Maxwell decidiu incluir uma fórmula de [[eletricidade]] em seus estudos sobre campos magnéticos. De acordo com um intenso estudo biográfico conduzido por renomados pesquisadores do [[X-Men|Instituto Xavier]], Maxwell provavelmente era um [[mutante]], o que lhe permitiu fazer coisas que ninguém mais poderia, como relacionar fluxos elétricos a campos magnéticos. 
+
+Nesta fórmula, o vetor ''E'' (tão odiado quanto o vetor B) representa um [[campo elétrico]] gerado por alguma fonte aleatória, tal como um Choque do Trovão do [[Pikachu]] ou a precária rede elétrica da vila do [[Chaves]]. ''A'' representa uma região qualquer inventada, seja pela [[criatividade]] de algum físico, seja pelos devaneios de um esquizofrênico (dependendo da situação, ambas podem ser a mesma coisa). ''Q<sub>int</s>'' é a quantidade de carga elétrica que supostamente existiria dentro dessa região fictícia, ao passo que ''є<sub>0</sub>'' é a [[permissividade no vácuo]]. 
+
+Ou seja, essa fórmula nos diz que sempre que um [[campo elétrico]] quiser se divertir em alguma área de recreação qualquer (chamada de [[superfície gaussiana]]), ele será acompanhado, contra sua própria vontade, por um indesejado e inconveniente fluxo elétrico.
+
+===Lei de Gauss para o magnetismo===
+
+A Lei de Gauss para magnetismo nada mais é do que a prima pobre e desnutrida da Lei de Gauss, com menos poder aquisitivo para investir em mais variáveis para sua fórmula.
+
+[[Arquivo:Fórmula Lei de Gauss para o Magnetismo.png|center]]
+
+Nessa fórmula ''B'' é o famigerado campo magnético e ''A'' a área, indicando que o valor do fluxo magnético sempre será nulo, independentemente da área. Em síntese, essa fórmula apenas evidencia o que já era conhecido: não importa para qual lugar o pobre campo B decida ir, ele estará eternamente fadado a ser um zero a esquerda odiado e sem amigos. Essa fórmula também desmente a [[fake news]] da suposta existência de monopolos magnéticos, que são o mito do [[chupacabras]] do [[magnetismo]].
+
+===Lei de Ampère===
+[[Arquivo:Magneto 13.jpg|thumb|right|250px|Exemplo do processo de geração de um campo magnético.]]
+Muitas vezes essa lei é chamada também de "Lei de Ampère-Maxwell" quando presente em alguma apresentação cafona de [[PowerPoint]] nas aulas de Física, devido algumas [[Artigos criados através de um texto da Wikipédia trazido para a Desciclopédia com leves alterações cômicas|leves alterações]] feitas por Maxwell. Foi estabelecida por um [[André-Marie Ampère|desocupado de mesmo nome]] após este cheirar uma grande quantidade de [[cola de sapateiro]]. Esse aglomerado de letras e símbolos dantescos (provavelmente derivados do idioma do [[Cthulhu]]) apresenta uma receita [[ironia|simples e básica]] para a produção de um campo magnético caseiro.
+
+[[Arquivo:Fórmula Lei de Ampère.png|center]]
+
+Nessa fórmula ''l'' é uma curva de comprimento qualquer, ''μ0'' a permeabilidade magnética do vácuo, ''i<sub>c</sub>'' representa uma corrente, e ''ɸ<sub>E</sub>'' o fluxo elétrico. Isso significa duas coisas: a primeira é que o campo magnético não passa de uma mera sombra do campo elétrico, muitas vezes aparecendo a partir dele e estando destinado a ser o eterno [[Luigi]] do [[eletromagnetismo]]. A segunda é que o campo magnético desenvolveu uma forte obsessão em torno da ideia de fazer amigos, o que o levou a se tornar um [[stalker]] da corrente ''i<sub>c</sub>'', sempre dando o ar da <s>des</s>graça até mesmo quando a pobre coitada decide sair para tomar um ar na rua.
+
+===Lei de Faraday===
+
+Também chamada de "Lei de Faraday-Lenz" ou "Lei da Indução Eletromagnética", é mais um conjunto de equações surgidas a partir da mente doentia de um nerd antissocial que encontrou na Física uma maneira de afogar as mágoas por ter uma vida frustrada.
+
+[[Arquivo:Fórmula Lei de Faraday.png|center]]
+
+O vetor ''E'' representa o campo elétrico, ''l'' representa uma curva de comprimento e ''ɸ<sub>B</sub>'' representa o fluxo magnético. Essa fórmula é na verdade uma espécie de livro de auto-ajuda para o depressivo campo magnético, usando conhecimentos de [[life coaching]] para explicar que se ele reprogramar sua mente e passar a variar no tempo, sempre com muito positivismo e perseverança, ele poderá ser capaz de gerar um belíssimo campo elétrico.
+
+==Ver também==
+
+* [[Eletromagnetismo]]
+
+* [[Campo elétrico]]

@@ -1,0 +1,20 @@
+{{Computeiro}}
+{{Microsoft}}
+
+[[Arquivo:Porta-archivos.jpg|thumb|Um bagulho que era puro enfeite.]]
+
+{{Sua intenção era pesquisar|[[Minhateca]] versão offline}}
+
+'''Meu porta-arquivos''' era um bagulho inútil do [[Windows]] que praticamente tem a mesmíssima função que as pastas do Windows, só que com uma particularidade a mais: ele servia como uma espécie de [[portal]] que tornava possível você colocar um monte de arquivos à disposição de todos os usuários daquele computador, independente da senha que usassem. Era um escritório portátil, ou algo do gênero, e tinha a vantagem de mandar de volta tudo pros seus cantos automaticamente. Ou seja, o sonho de [[teu pai]] toda vez que pega os documentos pra levar pro cartório e depois pra guardar tudo é uma desgraceira.
+
+== Pra que servia isso ==
+
+Já disse acima, mas vou deixar mais [[encher linguiça|extenso]]: Basicamente é uma maleta com uns bagulhos teleguiados dentro dela, que se ativam logo que você punha alguma bosta lá dentro, já pra ter certeiro quando você precisa levar esse estrume de um lugar pra outro de que [[cu]] saiu. Ok, essa descrição foi muito [[escatologia|escatológica]], eu peço desculpas. Então, tendo essa incrível utilização, tornava-se praticamente impossível você levar arquivos de um lugar pro outro e depois quando precisasse retornar pros devidos lugares, ter de ficar feito um babaca de pasta em pasta do seu [[sistema operacional]] pra devolver tudo em seus devidos lugares. 
+
+Essa tecnologia incrível era tão eficaz, mas tão eficaz, que a [[Microsoft]] simplesmente tratou de a eliminar gradualmente, desde o [[Windows XP]] o programinha virou um programa residente praticamente inacessível, a não ser usando o código ''syncapp.exe'' (que nome nada a ver), e desde o [[Windows 8]] ela simplesmente mandou o programa pro buraco do inferno, de onde não voltou mais, junto com o [[Scandisk]], o [[Hiperterminal]], o [[MSN Messenger]] e o saudosíssimo [[Jdbgmgr.exe]].
+
+{{Oposto|Lixeira}}
+
+
+{{Ampliar}}
+[[Categoria:Aplicativos do Windows]]

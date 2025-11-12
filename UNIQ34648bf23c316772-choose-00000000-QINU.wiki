@@ -1,0 +1,25 @@
+[[Arquivo:-UNIQ7088a6a02126fa61-choose-00000002-QINU- page.png|thumb|500px|A página principal de Desciclopédia sofrendo do UNIQ7088a6a02126fa61-choose-00000002-QINU.]]
+{{vqd|UNIQ15d1cb32224817f9-choose-00000000-QINU?}}
+{{experimente|UNIQd344e6c2b48266e-choose-00000000-QINU}}
+
+'''UNIQ34648bf23c316772-choose-00000000-QINU''' ("Unique 34648 [[Big Foot]] 23 cavalos 316772 menos o choose dando em um monte de zeros QI Nulo", ou sei lá que porra é essa) é um bug completamente insano da [[Desciclopédia]] que apareceu pela primeira vez em maio de 2015 atingindo o [[servidor da Desciclopédia|servidor]] do site, mas por alguma coisa do capeta somente e só o site da Desciclopédia, e nenhum outro site que está nesse mesmo servidor, incluindo ai nossos clones descarados [[Malucopédia]], [[Wikinet]] e [[Wikimerda]] foi atingido por esse erro completamente tosco (curiosamente, a maioria dos bugs só afetam a Desciclopédia, provavelmente pela quantidade de artigos) que afeta exclusivamente a tag <nowiki><choose></choose></nowiki>, aquela que faz com que um monte de opções aleatórias apareçam, seja de predefinições, frases idiotas ou quaisquer outras [[Especial:Aleatória|coisas randômicas]].
+
+==Causa==
+Não se sabe ainda ao certo o que teria ocasionado o {{PAGENAME}}, digo... este bug tão bizonho. Mas especula-se que tenha surgido após o terrível momento em que foram descobertos vários ''backups'' do [[banco de dados]] em meio a um monte de cocô de castor. Os próprios [[castor]]es, que trabalham incessantemente para a manutenção do site, tiveram um cansaço intestinal e não conseguiram digerir tags de sabor queijo suficientes.
+
+== O erro em si ==
+Imagine que eu queira colocar duas predefinições: a {{tl|Bosta}} e a {{tl|Blasfêmia}}, alternadamente (elas servem praticamente pra mesma coisa, pra falar que um artigo como esse que eu tou escrevendo agora é ruim pra caralho). Daí então, ia aparecer uma das duas predefinições cor verde bosta, ora uma com um cocôzinho de pombo dourado e um dedo apontando pra sua esdruxulosidade (acho que essa palavra não existe, mas phoda-C), ora uma com o [[Bento XVI]] e sua cara de demônio a fim de comer o cu de todo mundo.
+
+Lindo não? Agora imagine que isso tudo dá errado, e ao invés de aparecer essa pocilga toda, aparece sempre a mesma coisa: essa abominação de código que não explica merda nenhuma, só sabemos que é uma falha que sei lá porque fode o código e assim não existe choose alguma. Por não ter choose (escolha) alguma, esse erro também poderia ser chamado de "Error [[AYBABTU]]", graças ao facto que não temos chance de sobreviver façamos nosso tempo. Ha Ha Ha Ha....
+
+==Variantes==
+É sabido também (pra quem é um [[nerd]] chato e gosta de reparar nos detalhes) que a sequência de números após o nome "UNIQ" sempre é diferente pra cada erro, ou usuário. Seria um indício do que apostar na [[Mega-Sena]]? Sei lá, vai que dá certo... mas enfim, há boatos de que o {{PAGENAME}}, perdão, o problema desapareça quando o [[Servidor da Desciclopédia|servidor]] finalmente desapareça junto, ou quando for colocado na [[Chechênia]].
+
+==Ver também==
+*[[Tableu|UNIQ6cd2197416a2c75-choose-00000000-QINU]].
+*[[Erro no banco de dados|UNIQ3aa2f46b2fdd2793-choose-00000000-QINU]].
+*[[O maior bug da história|UNIQ403e07ad45f278d1-choose-00000000-QINU]].
+*[[Rollback de Dezembro de 2008|UNIQ459bc6496623dc32-choose-00000000-QINU]].
+*[[Bug das edições atrasadas|UNIQ3e75ed83392a66bf-choose-00000000-QINU]].
+
+[[Categoria:Bugs da Desciclopédia]]

@@ -1,0 +1,129 @@
+{{game}}
+
+{{Infobox Game
+|title     = Têquinqui 99
+|image     = The King of Fighters 99 cover.png
+|caption   = Capa da versão para console
+|developer = [[SNK]]
+|publisher = [[SNK]]
+|released  = [[1999]] (sério!?)
+|genre     = porradaria
+|rating    = 9/10 para pessoas normais/<br>1/10 para fãs do Iori
+|platform  = [[Arcade]]s, [[Neo-Geo]] e [[PS1]]
+|ages      = Livre
+}}
+
+{{C|É o paraíso!|Shingo Yabuki|epidemia de [[Kyo Kusanagi|Kyos]]}}
+{{C|Toma essa seu desgraçado, e mais essa, sangra, SANGRA! |K'|seus oponentes}}
+{{C|Esse é o [[herói]]? Nem quero imaginar o vilão!|Pessoa de bom coração|K'}}
+{{C|MORRE DESGRAÇA! INÚTIL, INÚTIL! |Krizalid|seus inúteis oponentes}}
+{{C|...|Pessoa de bom coração}}
+{{C|Se você aperta meia lua tráz frente ele solta o Horiuken!|Tiozão do fliperama}}
+
+'''The King of Fighters' 99''', vulgo '''Tequingui do K''', é um jogo criado pela [[SNK]] e mais uma sequência de [[The King of Fighters]], aparentemente lançado em 1999. A exemplo dos jogos anteriores, ainda faz parte do [[jogos de luta|gênero "porradaria"]], no qual se escolhe algum personagem entre as opções e o bota para bater no oponente usando-se técnicas impossíveis de serem executadas na vida real de verdade por questões físicas. É um jogo muito popular entre os [[nerd]]s mais viados que gostam de personagens que se assemelhem mais a cantores de [[k-pop]] e prostitutas do que propriamente lutadores.
+
+== Desenvolvimento ==
+
+[[Arquivo:Evolucaografica.png|thumb|left|Acima temos [[The King of Fighters '94]], e abaixo a sua evolução, o The King of Fighters '99. A evolução estrondosa dos gráficos da série sempre impressiona.]]
+
+A [[SNK]], por mais que tenha formado seu nicho de fãs formados por nerds boiolas, ainda mantinha a mania insistente de ficar copiando a [[Capcom]]. Dessa vez quis copiar o insucesso de [[Street Fighter III]] que renegou diversos personagens famosos e carismáticos, removendo assim totalmente a relevância de seus personagens principais, Kyo e Iori, para trazer novos personagens que ninguém gosta. Afinal, após anos sendo chamada de plagiadora da Capcom, decidiu então plagiar a si própria, criando um plágio do Kyo (Shingo) então uma outra copia do Kyo (K') então uma cópia literal do Kyo (Kyo-1) e outra cópia do Kyo (Kyo-2), tornando assim The King of Fighters '99 o jogo com a maior quantidade de personagens sem criatividade do século XX.
+
+Depois de verem que o [[Kyo Kusanagi|Kyo]] estava se tornando [[apelão]] demais, já havia matado até mesmo um [[Orochi|Deus]], a SNK decidiu jogá-lo no limbo da obscuridade e criar um novo herói principal para a série.
+
+Vários designs foram criados, mas nenhum serviu, a SNK havia desenhado uns 50 Chrises/Kensous/Kyos, 40 Terrys/Andys/Ryos e 20 Shiranuis/Shermies/Yuris, só sabiam fazer personagem igual. Então numa crise de falta de criatividade eles decidiram criar mais um cara que usasse fogo, mas havia esse problema que estava na cara demais que se tratava de uma cópia descarada do Kyo. Mas em algum momento eles perceberam que o Kyo era muito bonzinho, preocupado com o futuro da humanidade, com o desmatamento das florestas e todas essas coisas, em suma, um chato do caralho mas um cara do bem. Então decidiram [[Reversal Russa|reverter]] o personagem, criando um fumante, boca suja, espancador de crianças que não dá a miníma para o mundo e só salva o mundo porque esse salvamento envolve porrada. Surgia aí o novo herói da série, o [[K']]. K' porque também por um acaso é a inicial de Kyo e porque sempre está no logo do jogo KOF e também da empresa SNK.
+
+Mas aí veio uma nova questão: Que desculpa usaremos para ele usar fogo? Foi feita uma [[eleição]] e ficou acordado por 543 votos a 97 que o salário dos deputados seria dobrado. Ops, história errada... Voltando ao assunto, eles começaram a pesquisar em [[Star Wars|fontes]] [[Star Trek|confiáveis]], e outras [[O Clone (Novela)|não tão confiáveis assim]], também conhecidas por [[ficção científica]] e optaram por dizer que ele é um clone do Kyo. Depois, precisavam de um parceiro para ele, mas as ideias também estavam em baixa, até que em certa data, [[alguém]] assistiu o [[Exterminador do Futuro]] saindo dali a miraculosa [[ideia]] de criar o [[Maxima]], um Goro Daimon do futuro. Cansados do puta trabalho que envolvia a criação de personagens, pois precisariam de mais dois, eles apenas falaram que o [[Benimaru Nikaido|Benimaru]] e [[Shingo Yabuki|Shingo]] entraram no time deles e pronto (ninguém se importa mesmo, o importante é a porrada).
+
+Ligar os pontinhos para explicar essa porcaria toda foi a parte mais complicada. Mas quando um dos funcionários da empresa ligou o seu PC, ao ouvir a famosa musiquinha de abertura do [[Windows]] ele teve uma [[epifania]] e brilhante ideia: ''"UMA ORGANIZAÇÃO DO MAL!"'', pensou ele. Foi criada então a maléfica organização [[Nestlé|Nestlé Ninhos]] (NESTES) que clonava pessoas que soltam fogo e essas coisas. O jogo estava assim criado em menos de 1 ano após [[The King of Fighters '98]].
+
+== Jogabilidade ==
+
+Pela primeira vez depois de 5 jogos idênticos, a SNK percebeu que as lutas já estavam se tornando muito repetitivas no formato três contra três e decidiram alterar o formato das lutas para quatro contra quatro. Porém durante o beta test, eles perceberam que lutas 4X4 poderiam chegar ao round [[7]], e que isso prolongava muito o tempo de luta, e, portanto a vida útil da fichas, algo completamente contra todos os [[Metal Slug|princípios da empresa]]. Então para contornar o problema e ainda assim dizer que inovaram sem precisar refazer todo o trabalhão que foi criar esse sistema de quartetos, eles criaram o sistema denominado de "Miguxos" (ou "Strikers"), que consistia em chamar um quarto lutador para a treta por um breve momento (um [[décimo de segundo]]), apenas para dizer olá (em forma de porrada, óbvio) e ir embora, deixando os duelos ainda mais desbalanceados e completamente impossibilitados de serem adotados em torneios mais sérios.
+
+Para compensar o alto grau de desbalanceamento criado pelos Strikers, a SNK refez os golpes de todos personagens, adicionando a cada um deles um set de 4 a 5 golpes completamente inúteis os quais o jogador mais profissional deve memorizar os comandos a fim de não executar tais golpes de jeito nenhum, ou isso custará sua vitória.
+
+O modo Extra que ninguém nunca usava foi finalmente abolido mas para compensar a rolada foi trocada por uma esquiva ridícula onde o personagem vai pra trás e depois automaticamente volta pra frente (tomando uma bifa obviamente) sendo o pior dash de recuo da história dos jogos de luta.
+
+Em adição a isso, ainda foi criado dois novos modos de lutas, para que o termo "estourar a barra" passasse a ser confuso. Houve diversos casos em que jogadores levaram tapões, após estourarem a barra errada ao ouvir um "Estora a barra porra!" do dono da ficha que tinha deixado ele pegar com o [[Iori Yagami|Iori]]. Agora há dois jeitos de estourar a barra, o primeiro jeito é o '''Counter Mode''' e neste modo, o personagem passa a brilhar em rosa e neste modo o personagem é capaz de cancelar um golpe com um [[especial]], algo que deveria ser muito bom e útil... Deveria, por que os especiais levam uns [[3]] segundos para sair, e eu estou sendo bonzinho na estimativa. Dou um [[biscoito]] para [[qualquer um]] que descubra uma utilidade real para esse modo de luta. E há também o '''Juggernaut Style Armor Mode''' e neste modo o personagem passa a brilhar em uma cor amarelada e a vantagem obtida nesse modo é o fato do personagem se tornar um verdadeiro [[Juggernaut]] da vida, ignorando toda e qualquer porrada vinda em sua direção, e nem sequer indo para trás, nem rasteira derruba o indivíduo, algo que deveria ser útil mas não é, afinal de contas, você já viu o Juggernaut ganhar de alguém?
+
+== Enredo ==
+
+[[Arquivo:KOF99 story.png|thumb|Com um enredo de volta a interação entre os personagens volta a ser mais frequente.]]
+
+A história continua 2 anos após o enceramento do último torneio em 1997 (os eventos de 1998 não fazem parte da história). Ninguém mais viu [[Kyo Kusanagi]] e [[Iori Yagami]] que tomaram chá de sumiço depois que eles derrotaram Orochi, e [[Chizuru Kagura|Chizuru Cagona]] não quis mais saber do KOF e foi passar férias em [[Crateús]] no interior do [[Ceará]]. [[Yamasaki]] e [[Billy]] voltaram a ser capachos de [[Gesse]], e o grupo CYS (Chris, Yamashiro e Shermie) foram para um terreiro de macumba tentar tirar o capiroto de suas almas.
+
+Depois de treinarem arduamente durante dois anos, todos os lutadores mudaram suas aparências (ou não) e aprenderam novas técnicas revolucionárias e novos especiais e magias, mas quase nenhum deles seria convidado quando do nada chegaram convites para vários lutadores para um novo torneio.
+
+O torneio dessa vez seria novamente secreto, sem palhaçada de UFC envolvida como foi em 1996 e 1997 que tinha um monte de patrocinadores e transmissão televisionada pois viram que [[Galvão Bueno]] estava [[cagando]] nas narrações das lutas chamando os lutadores de "gladiadores do século XXI" e aquele monte de comentaristas babacas que [[Romário|nunca lutaram em lugar nenhum e nunca ganharam porra nenhuma]] estavam enchendo muito o saco e [[Júnior dos Santos|os comentaristas que lutam]] só perdem as lutas.
+
+No total formaram-se 7 times contendo cada um 4 lutadores. Um número reduzido de lutadores porque nesse torneio o antidoping seria rigoroso o que acabou cm as versões chapadas, noiadas e drogadas de alguns dos combatentes. Todos estavam prontos para derramarem sangue uns dos outros sem parar e ninguém se importou com o polêmico desaparecimento de Kyo e Iori, o que causou revolta e protestos. Afinal sem os dois melhores lutadores do jogo, o torneio ia ficar uma merda sem precedentes, então várias pessoas foram as ruas de [[Southtown]] para reivindicarem melhorias {{strike|em seus salários e condições melhores de trabalhos}} no torneio.
+
+A Nestlé, empresa que é a grande antagonista desse game, teria capturado Kyo após sua batalha contra Orochi e criado um exército de clones do mal dele, visando... Você já sabe não é? Isso mesmo, dominação global! O quê mais os vilões querem? Fama? Dinheiro? Eles querem a porra do mundo, mesmo este não valendo um tostão furado!
+
+Logo após a criação de tais clones o protótipo, [[Krisalid]], foi incumbido da missão de encontrar <s>trouxas</s> lutadores dignos de terem suas energias sugadas para a ativação do exército, usando assim o torneio KOF. O time de [[K']] chega às finais onde o cenário de luta são os esgotos do [[Rio Tietê]]. Depois de vencerem, a água dos esgotos baixam e então eles perceberam que estavam sobre um elevador, e como se não bastasse o elevador começou a levá-los para um subterrâneo secreto. O elevador finalmente para e eles chegam a um laboratório sinistro, onde um cara mais esquisito ainda de cabelo branco com uma roupa de bixona se apresenta... era o tal de [[Krisalid]] que os convida para a luta final. Logo após a luta '''(se você conseguir superá-lo)''' ele revela seus planos de dominar o mundo ativando os clones do Kusanagi espalhados pelo mundo, mas pra isso ele precisava de um dado especial, o "Instinto Assassino". Como ele ia conseguir isso?? Acabando com suas fichas é claro. Em determinado momento [[Krisalid]] queima suas roupas de bixona e começa a lutar que nem macho... antes ele só estava zuando e '''mesmo assim você perdia pra ele'''.
+
+Se por um milagre você conseguir vencer sua segunda forma. Krisalid não vai conseguir coletar os dados finais, então o [[Zero (The King of Fighters)|Zero]] taca uma perdrada gigante direto na cabeça dele.
+
+O final do jogo depende de quem você zerou essa porra. O [[Kyo Kusanagi]], o original, finalmente consegue escapar do cativeiro e jura vingança contra a Nestlé. [[Iori Yagami]] não quis ser o novo chefão da NESTS pois eles eram um bando de imbecis fracotes. [[K']] e seu parceiro Maxima são perseguidos pela turma de [[Ralf e Clark]] e conseguem escapar mesmo os soldados mandando bala neles sem parar. [[Takuma Sakazaki]] ficou preso nos escombros da explosão da base da Nestlé, mas por um  milagre conseguiu sobreviver. [[Terry Bogard]] decide sumir do mapa, afinal ele não aguentava mais o fanfarrão do [[Joe Higashi|Joe]] nem o corno do [[Andy Bogard|Andy]]. Os clones Kyo-1 e Kyo-2 desaparecem pois os todos os clones foram desativados. O [[Sie Kensou|Kensou]] perde seus poderes, fica [[depressivo]] e choramingando pois não iria mais poder soltar seu GUGU DADA. [[Whip]] descobre que tem alguma relação familiar com [[K']] mas ela não tem certeza se ele ou [[Krizalid]] é seu irmão.  O time das meninas peitudas da [[Blue Mary|Maria Azul]] passam a maior vergonha tendo que usar aquela roupa ridícula da [[Li Xiangfei]]. O [[Chang Koehan|Gordão]] e o [[Choi Bounge|velhinho das zuinha]] tentam se rebelar contra o [[Kim Kaphwan|Kim]] e [[Jhun Hoon]] mas não conseguem mais uma vez.
+
+== Personagens ==
+
+* '''Hero Team'''
+** '''[[K']]''' - Um jovem de cabelos brancos ex-cobaia de cientistas malucos que teve suas memórias apagadas e as chamas de Kyo Kusanagi inseridas em seu [[DNA]]. Ele é o novo protagonista, uma tentativa da SNK em trazer alguém mais descolado e tentar desvincular a série do público emo que andava cometendo suicídio demais e estava começando a machar a imagem da empresa.
+** '''[[Maxima]]''' - Um [[android]] exterminador e homem bomba, é meramente uma versão moderna do Goro Daimon.
+** '''[[Benimaru Nikaido]]''' - O [[baitola]] do Raijin Ken aparentemente está nem aí para o sumiço de Kyo. Pelo visto nunca foram amigos.
+** '''[[Shingo Yabuki]]''' - O [[Vegeta|inseto insignificante]] que copia o [[Kyo|playboyzinho de merda]], só que errando todos os movimentos dele.
+* '''Fatal Fury Team'''
+** '''[[Terry Bogard]]''' - Pelo sexto ano consecutivo Terry ainda não conseguiu qualquer protagonismo, continua apenas um mero coadjuvante na história e pior ainda, foi completamente nerfado, perde todas voadoras, tem alcance menor, só tem uma magia. O seu golpe pelo menos ainda é o famoso Pau-á-gayza.
+** '''[[Andy Bogard]]''' - - Por 5 jogos consecutivos fugiu da Mai na esperança de manter-se virgem, mas agora a gostosa está em seu time, por isso ele decidiu soltar a franga ainda mais, para convencer a mulher que ele é viadão assumido e não quer buceta. O seu grande golpe ainda é o O-he-param.
+** '''[[Joe Higashi]]''' - Não mudou muita coisa, continua com seus golpes Oraa-oraa.
+** '''[[Mai Shiranui]]''' - Gostosona que por vários anos foi o maior símbolo do "time das mulheres", traiu as amiguinhas porque estava cansada de ser feminista virgem e foi para o time dos bofes bombados afim de tentar convertê-los à heterossexualidade, missão que nem a Mai conseguiu executar com sucesso, ninguém comeu ela.
+* '''Art of Fighting Team'''
+** '''[[Ryo Sakazaki]]''' - Ryu.
+** '''[[Robert Garcia]]''' - Guile.
+** '''[[Yuri Sakazaki]]''' - Sakura (e agora com SHoriukens).
+** '''[[Takuma Sakazaki]]''' - Akuma.
+* '''Ikari Warriors Team'''
+** '''[[Leona Heidern]]''' - Após frequentar uma clínica de reabilitação para dependentes químicos, Leona perdeu seu vício por cocaína e agora não existe mais a sua versão da '''Leona cheirada''', clássica de [[The King of Foghters '96]]. Ela agora inclusive luta contra o tráfico de drogas e criou um mascote inspirao em seu nome, o [[Leão do Proerd]].
+** '''[[Ralf e Clark]]''' - O cara com boné e o cara do murrão. Servem só de strikers, catando o oponente e arremessando-o pra tomar um especial.
+** '''[[Whip]]''' - Personagem novo, é a menina do chicote que futuramente é revelada como sendo irmã do K' (ah, esqueci de avisar, tem um spoiler muito foda nessa parte, portanto não leia se não quiser saber que a Whip é irmã do K'. Eu avisei) só sabe andar rebolando, visivelmente uma puta sádica, até usa uniforme de dominatrix e tudo (não a versão de latex preto, mas a versão militar).
+* '''Psycho Soldier Team'''
+** '''[[Athena Asamiya]]''' - Conhecida por usar um visual novo por jogo, em 1999 Athena regressa mais piriguete do que nunca. Shortinho e blusinha. Causa fúria no adversário quando você começa a spamar com ela teleport->magia->magia->róri->teleport.
+** '''[[Sie Kensou]]''' - Seguindo a Athena, também é irritante, basta seguir com rasteira->magia->rasteira->magia->rasteira->magia. Amado pela pivetada, principalmente devido a sua grande facilidade de [[apelão|apelação]] mesmo após perder seus poderes psíquicos, então teve aulas com o Yang e o Yun de Street Fighter.
+** '''[[Chin Gentsai]]''' - O véio bêbado, esse serve melhor como Striker para apelar mais ainda!
+** '''[[Bao]]''' - Um pivete com voz de menina que fica lotando o cenário com [[coronavírus]], basta spamar sem parar rasteira->magia->róri e encher a tela de SAIKOBOUs.
+* '''Women Fighters Team'''
+** '''[[King (Art of Fighting)|King]]''' - Garoto que trabalha de garçom e que finalmente cortou o pinto, assumindo sua mulher interior.
+** '''[[Blue Mary]]''' - Devido a ausência de [[Mai Shiranui]], o time das mulheres perdeu toda sua capacidade de [[Hentai]] e coube à Blue Mary ocupar esse espaço vago, retornando ainda mais vadia e ainda mais gostosa, claramente piriguete e sem sutiã, com os peitões chacoalhantes completamente soltos sob a blusinha vermelha.
+** '''[[Kasumi Todoh]]''' - Estava desaparecida por ser apelona demais, mas a maldita apelona dos counters voltou.
+** '''[[Li Xiangfei]]''' - Uma [[guria retardada]] sem vergonha que ninguém sabe de onde veio porque ninguém conhece Real Bout Fatal Fury 2, no jogo é chamada de "guri que não-cai-no chão", porque mal cai já tá de pé (pra continuar levando combo, por isso essa velocidade em se levantar tão rápido na verdade é horrível).
+* '''Korea Justice Team'''
+** '''[[Kim Kaphwan]]''' - Ganhou levemente mais relevância em relação aos jogos anteriores porque agora tinha um rival de viadagem, o Jhun.
+** '''[[Chang Koehan]]''' - O gordão que luta usando o [[corpo do Benito]].
+** '''[[Choi Bounge]]''' - Anão irritante que apesar de ser pouco escolhido por ser feio demais, quando é escolhido apela pra caralho porque quebra defesa que é uma beleza.
+** '''[[Jhun Hoon]]''' - um fã retardado da [[Athena Asamiya]] e outras cantoras pops como [[Madonna]], [[Sandy e Junior]], [[Katy Perry]], [[Anitta]] e [[Pabllo Vittar]]. Ele entrou no time para ajudar Kim a re-socializar os bandidos [[vagabundos]] Choi e Chang.
+* '''Personages secretos'''
+** '''[[Kyo Kusanagi]]''' - Surge com roupas totalmente diferentes, depois de anos usando um uniforme escolar ele agora queima sua bandana e usa uma jaqueta branca com uma camiseta preta por baixo, calça jeans desbotada e uma corrente de metaleiro nas alças do cinto. Ou seja, virou de vez cantor de [[k-pop]]. Kyo virou um delinquente sem causa, não quer mais saber da porra do time do Japão e agora luta sozinho nessa desgraça, nesse ano de sumiço ele ainda desenvolveu novas técnicas e um especial fodástico que tira qualquer coisa.
+** '''[[Iori Yagami]]''' - Continua com aquela franja de emo, está frequentando a mesma clínica de reabilitação da Leona, tentando se livrar das drogas, por isso acabou se tornando um dos personagens mais fracos do jogo. Não quis tomar conta dos negócios da Nestlé depois que essa faliu, mandou todos tomarem no cu.
+* '''Sem time'''
+** '''[[Kyo-1]]''' - Cópia da cópia da cópia.
+** '''[[Kyo-2]]''' - Cópia da cópia da cópia da cópia.
+* '''Chefe'''
+** '''[[Krizalid]]''' - Um clone avançado e envelhecido de [[K']] que também teve suas memórias apagadas e foi empregado pela Nestlé para realizar um de seus nefastos planos de dominação global. Ele pode ser visto em duas formas: Na primeira ele aparece com um casaco que rouba os dados de luta e energia do oponente, mas depois de derrotado ele [[Karate Kid (2010)|tira o casaco, bota casaco, tira casaco]] e começa a lutar que nem macho, aumenta sua força enquanto ganha golpes mais fortes, e sua apelação é de [[mais de 8.000]].
+
+== Recepção ==
+
+Os fanboys da série [[The King of Fighters]] gostam de fingir que o 99 nem existe, não conseguem aceitar o fato de terem nerfado seu querido Iori e transformado o Kyo num coadjuvante do K', então esses você sempre vai ver jogando o 98. Os jogadores de KOF, lembre-se também que são também os mais pedantes do fliperama e até hoje reclamam de terem colocado nesse jogo o quarto lutador para dar apenas assistências, alegando que essa putaria só transformou o jogo num Marvel vs. Capcom todo bagunçado e desbalanceado. Além de reclamarem que só tem 32 personagens, resultado da exclusão de todas as versões drogadas, fumadas, noiadas e corcundas que não voltaram de 98 graças ao fim da saga Orochi.
+
+{{The King of Fighters}}
+
+[[Categoria:Jogos da SNK]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Neo-Geo]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos para Dreamcast]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos de luta]]
+[[Categoria:Jogos lançados em 1999]]

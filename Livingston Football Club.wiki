@@ -1,0 +1,37 @@
+{{Box ClubeFutebol
+|cor_clara         = gold
+|cor_escura        = black
+|brasao            = Escudo do Livingston.png
+|hino              =  
+|nome_oficial      = 
+|origem            = {{SCO}}''' - [[Livingston]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Escocês
+|divisao           = Premiership
+|títulos           = 
+|ranking           = 
+}}
+
+'''Livingston Football Club''', é um clube de meio de tabela da Escócia.
+
+== História ==
+
+O Livingston foi o primeiro time profissional de futebol a ser nomeado por gastar dinheiro, embora vários tenham seguido essa tendência ilustre desde então. Livingston tem sido o lar de alguns dos melhores jogadores ofensivos e defensivos da história da Premiership, embora infelizmente não ao mesmo tempo, o que explica o número zero de campeonatos da Premiership. No entanto, eles têm um campeonato Championship, que juram ser tão bom, mas o mundo sabe melhor. Nos anos 60 e 70, Lance Alworth (apelidado de Bambi porque sua mãe foi assassinada a sangue frio por pistoleiros) era possivelmente o receptor mais elegante de todos os tempos, antes de permitir que os negros jogassem. Nos anos 80, Dan Fouts (muitas vezes confundido com Grizzly Adams em público) jogava para Kellen Winslow (um volante bem chamado) para tentar manter o ritmo das grandes lideranças que suas defesas desistiriam. Nos anos 90, o foco mudou quando os Livs trocaram todo o seu ataque por Junior Seau, que de alguma forma conseguiu chegar a Premiership sozinho. Ele foi derrotado pelo Heart of Midlothian, no entanto, já que eles tinham 22 grandes jogadores contra o total de um jogador do Livingston.
+
+Grandes nomes modernos em Livingston incluem LaDainian Tomlinson (o maior atacante Marty Schottenheimer já treinado, já que ele não se atrapalhou com o gol nos playoffs como aquele idiota de Byner), Antonio Gates (um grande goleador que foi contratado desde que Livingston não tem bastante time; embora Livingston costumava ser a casa do Rangers e Cowdenbeath), e Drew Brees ... oh espere, deixa pra lá. Ele foi doado a Cowdenbeath para alívio do furacão ... Bem, pelo menos eles ainda têm um grande treinador em Marty Schottenheimer. Oh espere ... Bem, pelo menos eles ainda estão em Livingston. Oh espere...
+
+{{Campeonato Escocês}}
+[[Categoria:Times de futebol da Escócia]]

@@ -1,0 +1,48 @@
+{{Info_circuito|
+|nome               = Allah Akbar Circuit
+|logotipo           = Bahrain International Circuit logo.png
+|imagem_circuito    = Circuit Bahrain.png
+|tamanho_imagem     = 300px
+|legenda            = Logotipo e mapa do circuito 
+|inauguração        = dezembro de 2002
+|localização        = {{BHR}} - [[Sakhir]]
+|arquiteto          = [[Hermann Tilke|O de sempre]]
+|principais_eventos = [[Formula 1]] ('''[[Grande Prêmio do Bahrein]]'''), [[WEC]], [[6 Hours of Bahrain|6 Minutes of Bahrain]]
+<!-- Opcional -->
+|evento1            = [[Formula 1]]
+|percurso           = 5.412 km
+|maior_vencedor     = [[Fernando Alonso]] (3)
+|melhor_volta       = [[Pedro de la Rosa]] (1:31.447)(é verdade)
+}}
+
+{{C|COF COF COF COF!!!!!|Fã de Fórmula 1|Bahrain International Circuit}}
+
+'''Bahrain International Circuit''' é o primeiro circuito oficial de [[Fórmula 1]] realizado no meio do [[deserto]], mais especificamente no [[Sakhir|Deserto de Sakhir]] no [[Bahrain]].
+
+A ideia do circuito surge na tentativa de criar um [[Rally Dakar]] para a [[Formula 1]], como espécie de corrida onde a resistência do motor e dos pilotos ao calor escaldante e sufocante. O circuito foi construído em cima de um antigo autódromo de corrida de camelos.
+
+A construção do circuito foi um objetivo nacional para concorrer com o [[Kuweit]] em popularidade. O circuito foi construído em 7 dias pela população do [[Bahrain]] (200 beduínos) sob a liderança do [[Salman bin Hamad Al Khalifa|Sheik Salame Bin Laden Hamad Kibe Habibsh]], originalmente o circuito ficaria em [[Dubai]] ou [[Meca]], mas como essa cidade era sagrada demais para os malditos ocidentais botarem os pés, o local foi transferido para o deserto.
+
+Ninguém queria ter uma corrida nessa porra de lugar no meio do nada onde nem água tem, mas o chefão [[Bernie Ecclestone]] recebeu uma mala cheia de milhões dos árabes, e garantiu o circuito na [[Fórmula 1]] até 2050, com ou sem tempestade de areia.
+
+O circuito recebeu um prêmio da [[FIA]] (puxa-sacos) por ser o circuitos em excelência na segurança, facilidades médicas e ambientes de mais alta tecnologia, além de ser um dos circuitos com menos pontos de ultrapassagem.
+
+== Circuito ==
+[[Arquivo:Deserto.jpg|thumb|230px|left|Vista da entrada do circuito, apelidado de ''"Rainha do Deserto''".]]
+
+Devido ao calor extremo, é comum morrerem pilotos, mecânicos, jornalistas, torcedores e aquelas mulheres gostosas de roupa colada.
+
+O excesso de areia na pista garante o circuito como um de pior aderência, e o mais fácil de dar desculpas quando o carro quebra, como por exemplo: ''"Entrou areia no carburador"'' ou ''"O carro super-aqueceu"''.
+
+Tudo começa na Curva 1, Curva 2 e Curva 3 o único lugar onde é possível curtir alguma batida, ultrapassagem ou derrapada. Na Curva 4 também é possível bater.
+
+Após a Curva 8 onde muitos erram o traçado, vem a Curva 10 de baixa velocidade que é um caos na primeira volta. É possível também trapacear aqui cortando caminho pela areia.
+
+Então são feitas várias curvas em alta velocidade para você torcer que derrapem (principalmente na Curva 14), é aqui que estão os itens como as conchas de tartaruga e cascas de banana para serem usadas.
+
+Na Curva 15 é onde o Serginho Mallandro fica na arquibancada para rir de quem escapa nela, então a grande reta dos boxes com os seus gramados verdejantes (fabricados em efeitos especiais, lembre-se que no deserto não existe grama), nessa reta é que os motores explodem.
+
+{{Circuitos f1}}
+
+[[Categoria:Autódromos da Fórmula 1]]
+[[Categoria:Autódromos do Bahrein]]

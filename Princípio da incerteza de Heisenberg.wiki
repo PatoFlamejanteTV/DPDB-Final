@@ -1,0 +1,88 @@
+----
+<center>'''Nota: Não se tem certeza de que esta página realmente existe.'''</center>
+----
+<br>
+{{Física}}
+
+{{Você quis dizer|[[Ou não]]?}}
+{{c|Uma merda! Ou não.|Elétron|{{PAGENAME}}}}
+{{c|Está certo disso?|Sílvio Santos|{{PAGENAME}}}}
+{{c|A resposta desse cálculo é incerta...|Físico|{{PAGENAME}}}}
+{{c|Se o valor não for igual à resposta, será devido ao {{PAGENAME}}.|Aluno de Física, tentando enrolar o professor,|a prova de Mecânica Quântica II}}
+{{c|Tudo que sei é que nada sei.|[[José Sócrates]], grande futebolista e filósofo|o {{PAGENAME}}}}
+{{c|Adoro [[Breaking Bad]]!|[[Guria Retardada]]|o {{PAGENAME}}}}
+{{c|Princípio da incerteza de Heisenberg... não estou bem certo quanto a isso.|Capitão Óbvio|{{PAGENAME}}}}
+
+O '''Princípio da Incerteza de Heisenberg''', criado pelo [[bêbado|boêmio]] [[Werner Heisenberg]] em meados de [[1900 e guaraná com rolha]], trata-se do princípio principal, inicial e fundamental da [[Mecânica Quântica]]. Resume-se ao fato, constatado por Heisenberg, de que não se pode saber o momento e a posição do que se está observando em um sistema quântico. A notação matemática desse princípio é:
+
+<center><math>\Delta x_i \Delta p_i \geq \frac{\hbar}{2} </math></center> 
+No qual ''<math>\hbar</math>'' é a [[Velocidade da luz]] (<math>3.10^8</math> m/s) dividida pelo peso da [[mãe]] do observador.
+
+Ou, utilizando a notação de [[limite (matemática)|limites]]:
+
+<center><math>\lim\limits_{x \to p} {\frac{p}{x} =\frac{\lim\limits_{x \to p} {p}}{\lim\limits_{x \to 0} {x}}} = \frac{p}{0} = \infty.</math></center>
+
+Após alguns anos de pesquisas, vários cientistas reduziram esse princípio ao lidar com sistemas macroscópicos, substituindo-o pelo ''[[ou não|Princípio do ou não]]''. No entanto, o macete acima apenas se aplica a sistemas macroscópicos e que não necessitem de cálculos para serem resolvidos como o fato de você não ser filho do seu pai. Para a [[Mecânica Quântica]] o {{PAGENAME}} precisa ser usado ''na íntegra'' (para tristeza dos físicos).
+
+== Aplicação na [[Mecânica Quântica]] ==
+
+A explicação desse princípio parece fácil de se entender (mas só parece) e você tem que imaginar para entender isso, embora o raciocínio clássico e os aspectos formais da análise matemática tenham levado os cientistas a pensarem diferentemente por muito tempo.
+
+Quando se quer encontrar a posição de um [[elétron]], por exemplo, é necessário fazê-lo <s>brincar</s> interagir com algum instrumento de medida, direta ou indiretamente. Por exemplo, faz-se incidir sobre ele algum tipo de [[radiação]]. Se se quer determinar a posição do elétron, é necessário que a radiação tenha comprimento de onda da ordem da incerteza com que se quer determinar a posição. Com isso, não se pode dizer onde ele está exatamente, resumindo que tem que se usar equações enormes para tentar chegar num valor aproximado da posição dessa partícula. Segue um exemplo dessas equações de campo:
+
+: <math>\frac{1}{2^6}\sum_{n=0}^\infty \frac{(-1)^n}{2^{10n}} \left (-\frac{2^5}{4n+1}-\frac{1}{4n+3}+\frac{2^8}{10n+1}-
+ \frac{2^6}{10n+3}-\frac{2^2}{10n+5}-\frac{2^2}{10n+7}\right )</math>
+
+Quanto ''menor'' for o <s>tamanho</s> comprimento de onda da radiação maior é a precisão (segundo cálculos). Contudo, maior será a energia cedida pela radiação em virtude da relação de [[Max Planck|Planck]] entre energia e frequência da radiação:
+
+<center><math> E = h \cdot \nu</math></center>
+
+e o elétron sofrerá um ''recuo'' tanto maior quanto maior for essa energia, em virtude do d[[efeito Compton]]. Como consequência, a velocidade sofrerá uma alteração que não pode ser calculada, mostrando que o Princípio está correto.
+
+== Incerteza na Mecânica Quântica ==
+
+A '''incerteza''' de qualquer objeto (medido em micromurphys - ver [[Murphydinâmica Quântica]]) é a impossibilidade de se dizer algo sobre qualquer coisa que se observe em um sistema quântico. Portanto, na [[Mecânica Quântica]], tudo está absolutamente certo e completamente errado ao mesmo tempo. Isso ocorre devido a interação do observador com a partícula que se observa. Como a partícula estará sempre adulterada, nunca saberemos nada de qualquer partícula na [[Mecânica Quântica]] e, por isso, fazem-se aproximações. Um exemplo de função de onda usado para calcular a velocidade do elétron é:
+
+:<math>\left(1-\left(\frac{v}{c}\right)^2\right)^{-\frac{1}{2}} \approx 1 - \left(-\frac{1}{2} \left(\frac{v}{c}\right)^2\right) + O\left(\left(\frac{v}{c}\right)^4\right) \Rightarrow \gamma m c^2 \approx mc^2 + \frac{m v^2}{0} = ?</math>
+
+Embora a equação acima pareça absurda, ela não possui mais de cinco variáveis, sendo considerada uma ''equação simples'' ([[O RLY?]]), sendo que os propagadores de neutrinos ocupam três páginas só de dedução.
+
+== Medição em [[Mecânica Quântica]] ==
+[[Arquivo:PositionVsMomentumOfAQuantum.PNG|thumb|400px|Aplicação do {{PAGENAME}} em um [[função|gráfico]]. o eixo X (horizontal) relaciona a posição e o eixo Y (vertical) a velocidade de uma partícula.]]
+A medição, na [[Mecânica Quântica]], se refere ao modo de observação da partícula. Como já se sabe que, ao medir, iremos adulterar essa partícula, o melhor a fazer é saber com o que se adulterou para poder usar uma equação aproximada e poder sustentar os valores que você encontrou. às vezes, é preciso criar fórmulas do nada, sendo necessário usar artifícios que o [[Cálculo]] oferece, como [[Derivada]], [[Integral]] e a renormalização.
+
+As interações de medição frequentemente usadas são fótons (radiação) e ondas eletromagnéticas diversas, como os Raios X e micro-ondas, mas como todas mexem com o que se quer observar, nenhum é considerado ''o melhor'' meio. Cabe ao observador definir o método de medição que menos der trabalho.
+
+No entanto, com a [[Lei de Murphy]] e o surgimento da [[Murphydinâmica Quântica]], os cientistas já chegaram a um consenso de que sempre se usará o pior meio de medição para o que se quer observar, principalmente por dois motivos:
+
+*o fato de que sempre ocorrerá tudo da pior maneira possível;
+*o {{PAGENAME}} defende que nunca se tem certeza de qual método é o melhor, portanto, nenhum é o melhor;
+
+Como percebe-se, o {{PAGENAME}} possui uma ampla aplicação em toda a teoria quântica, sem falar que está em perfeita consonância com a [[Murphydinâmica Quântica]] (teoria quântica mais aceita hoje), mas, segundo este princípio, não se pode ter certeza  dessas afirmações e também do que está escrito aqui.
+
+== A Teoria fora da [[Mecânica Quântica]] ==
+[[Arquivo:Vejacor.jpg|thumb|right|230px|[[Revista Veja]], fonte suprema de certezas. [[ou não|Ou será que não?]]]]
+O Princípio da incerteza de Heisenberg, na realidade, se baseia na ideia de que você pode jogar uma pedra para cima e ela nunca mais parar de subir. Claro que há uma pequena chance da pedra simplesmente cair, mas isso acontece somente em casos especiais, decorrentes da Lei Áurea que obrigou as pedras emergentes a retornarem a sua classe de origem, a proletária.
+
+Desde sua invenção o mundo passou a sofrer com as Incertezas: antes você tinha certeza que ganharia na loteria, ou que se casaria com uma mulher gostosa, bonita e muito rica, agora você não tem certeza de nada.
+
+Os intelectuais resolveram inventar uma teoria a fim de substituir a real teoria do Princípio da incerteza de Heisenberg, o ''[[ou não|Princípio do Ou não]]'', que pode explicar como que pode aparecer uma calcinha que não é da sua namorada no porta luvas do seu carro.
+
+== Veja também ==
+
+*[[Princípio da exclusão de Pauli]]
+*[[Mecânica Quântica]]
+*[[Murphydinâmica Quântica]]
+*[[Werner Heisenberg]]
+*[[Ou não]]
+
+
+{{Teorias e Teoremas}}
+[[Categoria:Mecânica quântica]]
+[[Categoria:Princípios|Incertezadeheisenberg]]
+[[Categoria:Teorias|Incertezadeheisenberg]]
+
+[[de:Heisenbergsche Unschärferelation]]
+[[en:Uncertainty Principle]]
+[[ja:不確定性原理]]
+[[zh-tw:測不準原理]]

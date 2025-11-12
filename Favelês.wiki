@@ -1,0 +1,140 @@
+<div style="background-color: white;">
+<!-- 
+
+1. CABEÇALHO 
+------------------------------------------------>
+<!-- 1.1 - Links da Desciclopédia 
+------------------------------------------------>
+
+<p style="margin: 0 0 2px 0; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; padding: 0; font-size: 85%; text-align: right;">
+[[Arquivo:7px-Bullet red.jpg|7px]][[Desciclopédia:Bem-vindo|Chega ae, truta!]] 
+[[Arquivo:7px-Bullet red.jpg|7px]][[Desciclopédia:Perguntas Questões e mais Perguntas|Diz teus pobrema ae, doido!]]
+[[Arquivo:7px-Bullet red.jpg|7px]][[Ajuda:Tutorial Básico de html e wiki|Anda na linha se não a bala come, tá ligado?]]
+[[Arquivo:7px-Bullet red.jpg|7px]][[Desciclopédia:Página de testes|A quebrada pra nóis faz uns bauguiu bem loco]]
+[[Arquivo:7px-Bullet red.jpg|7px]][[Ajuda:Manual do Desciclopediano|Aprendendo com os cabuloso!]]
+[[Arquivo:7px-Bullet red.jpg|7px]][[Desciclopédia:Mídia|Uns baguiu lôco pa nois vê]]
+[[Arquivo:7px-Bullet red.jpg|7px]][[Desciclopédia:Guia dos Iniciantes para ser um Desenciclopediano|Mechendo na parada, aê!]]
+[[Arquivo:7px-Bullet red.jpg|7px]][[Desciclopédia:Portal comunitário|Vem troca uma ideia com os manos!]]
+[[Arquivo:7px-Bullet red.jpg|7px]][[Desciclopédia:Embaixada|As boca]]
+</p>
+<table style="background-color:#F2F5FD; font-family:verdana,Arial, Helvetica, sans-serif; font-size:100%; margin:0; border: 1px solid #C7D0F8; padding:7px 7px 0px 7px;" width="100%">
+<tr><td>
+<!-------------------------------------------
+ 1.2 - Data e estatísticas
+----------------------------------------------->
+<div style="margin: 0; padding: -27px 0 0 0; float: right; font-family:verdana, Arial, Helvetica, sans-serif; font-size: 100%; text-align: right; line-height: 135%;">
+<small>{{CURRENTTIME}} ([[UCT]]); [[{{CURRENTDAYNAME}}]], [[{{CURRENTDAY}} de {{CURRENTMONTHNAME}}]] de [[{{CURRENTYEAR}}]]</small><br />'''[[Especial:Newpages|{{NUMBEROFARTICLES}} barraco na comunidadi]] · [[Especial:Categories|As quebrada no geral]]'''</div>
+
+<!--------------------------------
+ 1.3 - Mensagem de boas-vindas
+---------------------------------->
+<div style="margin: 0; padding: 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 160%;">[[Desciclopédia:Bem-vindo|Demorô! Chega mais]] na '''[[Desciclopédia|Decicropédia]], mano!'''</div>
+<div style="padding: 2px 0 0 20px; margin: 0; font-family: Arial, Helvetica, sans-serif; font-size: 90%;">Chega mais que o bagulho aqui é nosso! tá ligado?! a [[qualquer um|cumunidadi toda]] podi editá essa porra que aqui não tem exculaxo de verme fardado mano!.</div>
+</td></tr>
+</table>
+<!-----------------------------
+2 - DESTAQUES
+----------------------------------->
+{| style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width: 60%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
+<!---------------------------------
+2.1 Artigo em destaque
+----------------------------------->
+! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #B1CDEB; text-align: left; -moz-border-radius:10px"  | <div style="float:right;">[[Arquivo:Wbar_blue.jpg]]</div><div style="float:left;">[[Arquivo:Star Ouro 9bits.jpg]]'''[[Predefinição:Em destaque|Ae mano, esse artigo é pelas ordi!]]'''</div>
+
+|-
+| style="; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | {{em destaque}}
+|-
+<!---------------------------------
+Neste dia em....
+----------------------------------->
+! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Arquivo:Wbar_green2.jpg]]</div><div style="float:left;">[[Arquivo:Pp calendar 8bits.jpg]]'''[[Predefinição:Datas|Oje é dia de rouba uns preiboi e dia de...]]'''</div>
+
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
+{{Datas}}
+|-
+|-
+
+<!---------------------------------
+VoceSabia
+----------------------------------->
+! style="background-color: #F0F3CD; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Arquivo:Wbar_green3.jpg]]</div><div style="float:left;">[[Arquivo:22px-Pp interrogation.jpg]] '''[[Predefinição:vocêSabia|Aê doido, tá ligado que os manos da boca disse que ...]]'''</div>
+
+|- 
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
+{{vocêSabia}}
+
+|}
+<!-------------------------------------
+ Coluna da direita 
+---------------------------------------->
+|class="MainPageBG" style="border:1px solid #cedff2; background-color:#ffffff; vertical-align:top; -moz-border-radius:10px"| <div style="margin: 4px 4px 2px 4px; text-align: left;">
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align: top; background-color:#ffffff; -moz-border-radius:10px;"
+
+|-
+<!---------------------------------
+Eventos Recentes
+----------------------------------->
+! style="background-color: #CEF2E8;; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Arquivo:Wbar_green1.jpg]]</div><div style="float:left;">[[Arquivo:Pp clock 8bits.jpg]] '''[[Desnotícias:Página principal|Aê truta, dá umas fragada nas treta que ocoreru urtimamente!]][[Predefinição:Eventos atuais|Mó cabuloso!]]'''</div>
+
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | {{Eventos atuais}}
+
+----
+<div style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 80%; text-align: center">[[Arquivo:DesNotícias (sem texto).PNG|25px]] Veja maisu en [[DesNotícias:Página principal|Nochishia de Uiningu Ireben]].</div>
+|-
+<!---------------------------------
+Imagem em destaque
+----------------------------------->
+! style="background-color: #F7CADA; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #EF98B7; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Arquivo:Wbar_pink.jpg]]</div><div style="float:left;">[[Arquivo:Nuvola filesystems camera 8bits.jpg]] '''[[Predefinição:Imagem em destaque|Dá uma fraga na imagem que o Mano Creitu troxe pra nois.]]'''</div>
+|-
+|{{Imagem em destaque}}
+|-
+| style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
+<div style="float:right; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 80%; padding:0 .5em 0 2em">''[[Predefinição:Imagem em destaque|Arukibu]]''</div>
+</div>
+----
+{{Comunidade_desciclopédia_alternativa}}
+|}
+|}
+<!-------------------------------------------------
+ ÍNDICE F7F7FF
+--------------------------------------------------->
+{| width="100%" style="border-spacing:0px;"
+|class="MainPageBG" style="width: 100%; border:1px solid #778FE1; background-color:#CCD5F4; vertical-align:top;   -moz-border-radius:10px" |
+{| width="100%" cellpadding="2" cellspacing="3" style="vertical-align:top; background-color: #CCD5F4;   -moz-border-radius:10px"
+| style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #778FE1; text-align: center; padding-left: 1px; -moz-border-radius:10px" |
+[[Arquivo:Indice.gif]]
+|
+{| width="100%" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; line-height: 110%; background-color: #FFFFFF;"
+|-
+| width="45%" style="padding: 0 2px 0 0;"|
+
+{{Enciclopédia seções alternativas}}
+
+|-
+|}
+|-
+|}
+|}
+
+<div style=" font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%; margin: 0; padding: 7px 0px 0px 0px; -moz-border-radius:10px">
+<!------------ Linguas ------------->
+
+{{Línguas_Desciclopédia}}
+<!-- PROJETOS PARALELOS --------------------------------------->
+<small>
+{{projetos_correlatos}}
+</small>
+<!--somente as 20 maiores, nos excluindo - em ordem de tamanho e não alfabética-->
+<!-- maiores (1000+ páginas) -->
+<!--[[]]--><!-- 100 - 999 páginas -->
+<!-- todos pequenos -->
+<!-- [[ang:]] [[af:]] [[nap:]] [[simple:]] [[vi:]] [[xh:]] -->
+<br/>
+
+{{logotipo_falso|Maconhap%C3%A9dia.png|160|top=120|left=190}}
+
+[[Categoria:Página Principal]]

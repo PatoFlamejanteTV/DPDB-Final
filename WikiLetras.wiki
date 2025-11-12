@@ -1,0 +1,53 @@
+<table style="background-color:#F2F5FD; font-family:verdana,Arial, Helvetica, sans-serif; font-size:100%; margin:0; border: 1px solid #C7D0F8; padding:7px 7px 0px 7px;" width="100%">
+<tr><td>
+<div style="margin: 0; padding: -27px 0 0 0; float: right; font-family:verdana, Arial, Helvetica, sans-serif; font-size: 100%; text-align: right; line-height: 135%;">
+<small>Agora são {{CURRENTTIME}} ([[TPM]]) de {{CURRENTDAYNAME}}; {{CURRENTDAY}} de {{CURRENTMONTHNAME}} de {{CURRENTYEAR}}</small><br>'''<span class="plainlinks">[[:Categoria:Artistas|255 artistas]] - [[666]] [[:Categoria:Bandas|letras de música]]</span> · [[Especial:Aleatória|Índice geral]]'''</div>
+<div style="margin: 0; padding: 0; font-family:Trebuchet MS, Arial, Helvetica, sans-serif; font-size: 160%;">Bem-vindo(a) ao '''WikiLetras'''</div>
+<div style="padding: 2px 0 0 85px; margin: 0; font-family: Arial, Helvetica, sans-serif; font-size: 90%;">Um novo conceito em letras de músicas</div>
+</td></tr></table>
+<br>
+[[Arquivo:Nerdomg.jpg|thumb|230px|Os administradores do WikiLetras estão sempre a postos pra tornar seu trabalho muito mais fácil...]]
+[[Arquivo:Nerdnacama.jpg|thumb|240px|Sempre '''mesmo'''!!]]
+{{Você quis dizer|[[Vagalume]] + [[Wikipédia]]}}
+{{c|Caraca, aqui tem o Funk do Peido!!|Orkuteiro|{{PAGENAME}}}}
+{{c|Esse site é rock n' roll!!|Metaleiro|{{PAGENAME}}}}
+{{c|[[FDP]]!!|Vagalume|{{PAGENAME}}}}
+{{c|Até eu que sou [[noob]] consigo editar!!|Carla Perez|{{PAGENAME}}}}
+{{c|Cansei de vandalizar a [[Desciclopédia]]...demorou!!|Você|{{PAGENAME}}}}
+{{c|E o salário óóóóó...|Chico Anysio|{{PAGENAME}}}}
+
+O '''wikiletras.org''' foi mais uma tentativa de agrupar conteúdo de música na internet. A diferença é que os administradores por lá eram muito bonzinhos, e até [[você]], [[noob]] do jeito que é, consegueria adicionar algum conteúdo por lá!!
+
+== Criação ==
+
+Como toda história <s>de amor</s>, o site nasceu da união de gente cheia de ideias, pouca oportunidade e muita ociosidade durante o dia todo!! Através da tecnologia que aproxima você até aos [[pedófilo]]s do outro lado do planeta, vários metidos a [[Beethoven]] uniram-se pra criação do site. Colocaram as mãos no bolso da calça, tiraram suas preciosas moedas e investiram neste saudoso projeto sem fundo monetário. É como um trabalho voluntário pela [[internet]], não é [[gay|lindo]]?!
+
+Os administradores buscavam informações dos lugares mais inusitados pra adicionar no site. Tudo é válido: comentário da visita, spam da [[UOL]], aula de [[História]] e (principalmente) é claro os sites concorrentes!!
+
+== Conteúdo do site ==
+
+Como dava (e ainda dá) pra contar nos dedos quem contribuiu no site, começaram colocando apenas suas musiquinhas favoritinhas dentro do WikiLetras. Nessa tudo virou uma espécie de Hall da Fama do Rock n' Roll, e só se via música pesada e máscula como [[Slipknot]] e [[Iron Maiden]] dentro do site. Até que alguém teve a brilhante ideia de miscigenar essa coisa de música, adicionando artistas como [[Coldplay]] e [[Aviões do Forró]] na playlist também!!
+
+A testosterona correspondia a mais de 90% do hormônio que faz essa roda girar. Portanto, ao clicar em uma página aleatória, a chance de esbarrar em uma música de macho varão é muito grande. Se você for uma menina delicada, ou quem sabe uma [[bicha]] delicada (por que não?), crie sua conta e cale a boca dessas [[computeiro]]zinhos de [[merda]] com muito [[RBD]] e [[Miley Cyrus]]!!
+
+== Curiosidades ==
+{{trivia}}
+[[Arquivo:Teclado_balada.jpg|thumb|235px|Se você gosta de música eletrônica, pode usar um teclado como este pra editar com estilo <s>de [[idiota]]</s>.]]
+*Mesmo colocando [[mais de oito mil]] músicas de [[rock]] no site, a música mais visitada é do [[Aviões do Forró]].
+*O site foi o único que deu a chance pra comunidades do [[Orkut]] ficarem famosas por alguma razão. Aliás, todas as razões negativas possíveis!!
+*Até mesmo você que escreve no teclado como um [[macaco]] numa máquina de escrever podia contribuir neste site.
+*O fórum do WikiLetras foi o mais [[feno|fenado]] da história das wikis na [[Internet]].
+*Recebia mais visitas por dia que <s>[[tua mãe]], aquela velha carcomida</s> o [[Humortadela]] ({{risada}}).
+
+== Ver também ==
+
+*[[vagalume.com.br|Vagalume]]
+*[[terra.letras.com.br|Terra Letras]]
+*[[Wiki]]
+
+== Ligações externas ==
+[http://wikiletras.org/w/index.php?title=P%C3%A1gina_principal Página principal da Uique-letras]
+
+{{Sites}}
+
+[[Categoria:Sites extintos]]

@@ -1,0 +1,59 @@
+{{samba}}
+{{C|Carnaval é do caralho!|João Gordo|Unidos do Caralho a Quatro}}
+{{C|Você traiu o movimento rock, véio|Dado Dolabella|Unidos do Caralho a Quatro}}
+
+'''GRES Unidos do Caralho a Quatro''' é uma [[escola de samba]] [[brasil]]eira. Até aí isso não quer dizer muito pois 99% das escolas de samba são mesmo brasileiras. Costuma-se dizer que é de [[Petrópolis]], terra de seus fundadores, [[Hermes e Renato]], isso se é que Petrópolis tem [[Carnaval]].
+[[Arquivo:Marcos Fuinha.jpg|thumb|right|195px|Marcos Fuinha, famoso nome do samba]]
+
+Apesar de ser oriunda de uma terra afastada do grande circuito carnavalesco, a Unidos do Caralho a Quatro é uma agremiação bastante respeitada no meio [[rock]]eiro, fazendo mais sucesso que o [[Carnaval de São Paulo]].
+
+Seu puxador é [[Marcos Fuinha]], famoso por "puxar fumo, puxar carro", mas não por puxar saco<ref>ver também [[Jamelão]]</ref>. Seu samba-enredo de 2002 é considerado por críticos do mundo do samba como uma das maiores obras da poesia sambística, expressando em frases fortes a sabedoria da cultura popular [[brasil]]eira.
+
+Seu melhor resultado foi um vice-campeonato em 2002, a agremiação ficou atrás do GRES Grande Grelo. A apuração foi polêmica mas, no fim, o Caralho aceitou ficar sob o Grande Grelo, e ambos terminaram bem felizes.
+
+== Samba-enredo ==
+Abaixo, o mais famoso [[samba-enredo]] da entidade.
+<poem>
+''Desde os tempos mais primórdios 
+''o Caralho tá aí (tá aí, tá aí) 
+''Arrombando as vaginas
+''Apavorando as meninas
+''de família  (mas que lindo!) 
+
+''Desde os tempos mais primórdios 
+''o Caralho tá aí (tá aí, tá aí)
+''Roliço e veiudo
+''Pentelhudo e cabeçudo 
+''na Sapucaí 
+
+''Caraaaalho (wououou), 
+''piroca e mijão 
+''Rola, trolha, cabeção
+''Pemba, vara ou linguiça 
+''Pirulito, banana ou salsicha
+''Mulher gosta é de dinheiro 
+''Quem gosta de piru é bicha 
+''Pirulito, banana ou salsicha
+''Mulher gosta é de dinheiro 
+''Quem gosta de piru é bicha
+
+''Arreia a calça e mostra o pau
+''Unidos do Caralho a Quatro
+''abalando o Carnaval
+''A minha rola é instrumento de trabalho 
+''Quem gostou, gostou
+''Quem não gostou vai pro caralho!
+</poem>
+
+
+
+{{hes|Referências|{{#if:  | {{{2}}} | 2}} }}
+<div class="references-small" style="{{#if: | -moz-column-width:{{{colwidth}}}; -webkit-column-width:{{{colwidth}}}; column-width:{{{colwidth}}}; | {{#if: | -moz-column-count:{{{3}}}; -webkit-column-count:{{{3}}}; column-count:{{{3}}} }} }}"><references /></div>
+
+== Ligações externas ==
+
+<references />
+* [http://www.youtube.com/watch?v=r3bOvbz57jQ Lançamento do samba da escola]
+{{HermesERenato}}
+
+[[Categoria:Escolas de samba]]

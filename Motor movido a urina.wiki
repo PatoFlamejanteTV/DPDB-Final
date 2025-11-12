@@ -1,0 +1,47 @@
+[[Arquivo:Peegas.jpg|thumb|250px|Homem abastecendo um automóvel com motor à urina]]
+'''Motores movidos a [[urina]]''' são motores de combustão de [[ureia]] líquida diluida utilizados principalmente em [[automóvel|automóveis]] de passeio.
+
+==Protótipos==
+Protótipos de motores a urina existem desde meados dos [[anos 80]], sendo que o primeiro modelo desse tipo de motor é atribuido a [[Japonês|Mijaro Nakombi]], [[engenharia mecânica|engenheiro mecânico]] e [[urinoterapia|urinoterapeuta]] [[nipônico]].
+
+Segundo Nakombi, a ideia surgiu de um problema duplo enfrentado por ele durante as viagens de carro mais longas. Em primeiro lugar, aumentar a autonomia do automóvel, e em segundo lugar, resolver o problema de não ter onde [[mijo|tirar água do joelho]] em tais viagens.
+
+De fato, o Sr. Mijaro encontrou na urinoterapia uma solução para o segundo problema, mas não via como poderia beber toda a urina produzida se além dela ainda gostava de um bom [[saquê]] e uma [[cerveja|cervejinha]].
+
+A lógica era símples. Se bebesse toda a urina, Nakombi produziria a mesma quantidade de mijo no fim do dia. Bebendo umas e outras, a quantidade de urina era incrementada, por [[indução matemática|processo indutivo]] pela seguinte fórula.
+
+{|{{tabelabonita}}
+|'''''<big>U<sub>2</sub> = U<sub>1</sub> + L</big>'''''
+|}
+
+Onde 
+*'''U<sub>1</sub>''' é a quantidade de urina feita no ''Dia 1'' (arbitrário)
+*'''U<sub>2</sub>''' é a quantidade de urina feita em no dia seguinte ao ''Dia 1''
+*'''L''' é a quantidade de líquido que não ''U<sub>1</sub>'' ingerido no ''Dia 1''
+
+A autonomia de tal motor limitava-se a quantidade de [[cerveja]] que o automóvel era capaz de carregar.
+
+Para infelicidade do Sr. Mijaro Nakombi, uma falha conceitual impediu o progresso do projeto do primeiro carro movido a urina. [[Dirigir sob o efeito do álcool]] é crime em quase todo país (menos na [[Índia]], onde não há leis de trânsito, mas também os [[hindu]]s não bebem de qualquer forma).
+
+==Motores UrinoFlex==
+Embora a prática de adulteração da [[gasolina]] já fosse comum desde que a mesma foi inventada, com o advento dos [[motor flex|motores flex]] essa adulteração passou a ser mais frequente e mais assintosa.
+
+Além de álcool forma oficial de adulterar a gasolina, a água, o [[tiner]], o [[chorumem]], e a [[Cerveja Brahma]] passaram a ser adicionados de forma ilegal ao combustível puro, reduzindo-se o custo e ferrando com o consumidor. A urina, que antes era usada para sabotar aquele [[vizinho]] pentelho, passou também a ser 30% do conteúdo da gasolina no bico da bomba.
+
+Com isso, a tecnologia flex foi migrando e evoluindo ao ponto de aceitar o excreto líquido humano (e até de alguns animais) como único combustível de tais motores.
+
+O [[Brasil]] é líder mundial na produção do [[Biocombustível|urinocombustível]] e o presidente [[Luiz Inácio Lula da Silva]] vem participando de diversos fóruns de [[ecosustentabilidade]] expondo o sucesso do combustível alternativo brasileiro.
+
+==Impacto do crescimento dos urinocombustíveis sobre economia brasileira==
+
+Com o crescimento da demanda de [[urina]], cresceu em paralelo a procura por [[cerveja]], matéria prima daquela.
+
+As cervejas mais baratas e aguadas passaram a ser as mais procuradas, devido ao baixo custo, baixo teor alcoólico e baixinho da Kaiser, que é insesquecível.
+
+As empresas brasileiras do setor reagiram tentando formar um cartel, depois convertido e monopólio. em 1999 [[Antarctica]] e a Brahma [[fusão|fundiram-se]] formando a [[AmBev]]. Em [[2004]] a AmBev comprou a Interbrew, da [[Bélgica]], a [[Budweiser]] e a [[Duff]] dos [[Estados Unidos da América]], concretizando seu plano de [[dominação mundial]] do mercado de cervejas e em paralelo do mercado de insumos para a indústria urineira.
+
+==Ver também==
+*[[Carro movido a água]]
+*[[Urinoterapia]]
+
+[[Categoria:Engenharia]]

@@ -1,0 +1,104 @@
+{{nerd}}
+{{viking}}
+
+{{Tarja/Img|Winoriginal.png|80|480}}
+<br><br>
+''Aviso: Este artigo é melhor visualizado com os navegadores [[Google Chrome]], [[Mozilla Firefox]], [[Opera]], [[Safari (navegador)|Safari]] ou qualquer outro que preste (o que não inclui o [[Internet Explorer]]).''
+
+{{Você quis dizer|Microsoft Windows}}
+{{Experimente|[[Mac OS]]}} 
+
+{{fato|Linux é gratuito, mas Windows pirateado também é, e roda muito mais programas?}}
+{{c|prefiro hortelã|[[eu]]|Linux Mint}}
+{{c|Achei refrescante|[[alguém]] antes de conseguir um contrato na [[A Praça é Nossa]]|Linux Mint}}
+{{c|que versão do windows é essa?|[[você]]|Linux Mint}}
+{{c|prefiro Windows|[[Bill Gates]]|Linux Mint}}
+{{fato|Linux Mint é tão irrelevante que apenas a [[Desciclopédia]] [[Brasil|Brasileira]] tem um artigo sobre ele?}}
+{{c|prefiro Arch Linux|[[troll]]| usuários de Linux Mint}}
+{{c|porque o Ctrl+Alt+Del não funciona?|[[sua irmã]] depois que você instalou o Linux Mint no seu computador}}
+{{fato|Linux Mint é perfeito para quem tem mau hálito?}}
+{{c|porque o Disco Local C: não aparece?|[[sua irmã]]|a mesma situação acima}}
+{{c|Não estou conseguindo instalar [[Tíbia]] no seu PC|seu amigo pseudo-[[nerd]]|Linux Mint}}
+{{c|vamos começar a distribuir com chicletes|Criadores do Linux Mint}}
+{{c|Opa, uma porta aberta. O que será que tem lá dentro?|Vírus}}
+{{c|Na União Soviética, Linux Mint usa VOCÊ!!|[[Reversal Russa]]|usar Linux Mint}}
+
+
+
+[[Arquivo:Linux inside.gif|thumb|200px|adesivo que todos os usuários do Mint usam no computador]]
+<br>
+
+==Que Diabo é Isso?==
+Linux <s>Merda</s> Mint (ou simplesmente "Mint" para os [[miguxo|íntimos]]) é um Sistema <s>não tão</s> Operacional ("Sistema Operativo", caso você seja [[Portugal| Português]]) baseado em [[BSD]], apesar de conter "Linux" no nome. Sua origem é Irlandesa, onde, curiosamente, não existem plantações de Menta.  
+<br> 
+<br>O Linux Mint é uma versão pirateada <s>e com esteroides</s> do [[Ubuntu]], que, por sua vez, é uma das 937486745867459 paródias malfeitas do [[Debian]], este, por sua vez, é um [[garfo|fork]] do [[Windows]]. É famosa por ser a primeira distro com sabor, e é a única distro cujo a [[Tela Azul da Morte]] é verde (veja um exemplo na seção "galeria"). Sua versão atual é a 19, com o codinome de Tara<s>do</s>, sendo otimizada para visualizar pornografia. 
+
+[[Arquivo:Computador portatil.jpg|thumb|Notebook rodando Linux Mint.]]
+
+===Linux Mint x Ubuntu===
+'' '''Obs''': Para ver comparações entre o Linux contra o Windows, por favor, visite o artigo [[Linux vs. Windows]]''. '''MAS TERMINE DE VER ESSE ARTIGO AQUI, PORRA!!!!!'''
+<br>
+<br>O Linux Mint é um sistema que contem '''todas''' as vantagens do Ubuntu, sem as desvantagens dele. veja quantos exemplos existem:
+
+{| width=55% border="1px solid #000"
+|-
+!Ubuntu
+!Linux Mint
+|-
+| Usa a interface ''Gnome'' || Usa a inteface ''Canela'' (''Cinnamon'', se você manja dos [[Fisk|inglês]])
+|}
+
+<br>{{c|mas porque isso é uma coisa boa?|[[você]]|tabela acima}}
+<br>Entenda, [[otário|caro leitor]], que uma interface que se chama "Gnome", claramente só pode ter sido criada por pessoas que viam [[maconha|gnomos]]. Em outras palavras, são [[Maconheiro|pessoas preguiçosas]] que não fazem as melhorias esperadas pelos usuários, obrigando-os a usar <s>gambiarras</s> paliativos para conseguir modificar o sistema a seu próprio gosto <s>lê-se: "frescura"</s>.
+<br>
+<br> Outra desvantagem do Gnome é o consumo excessivo de [[memória RAM]] <s>(igual o [[Chrome]], sabe?)</s>, enquanto o Cinnamon é mais leve, sendo perfeito para aquele seu PC/dinossauro que foi lançado com [[Windows 98]] <s>[[Só que não|SQN]]</s>.
+
+[[Arquivo:Macaco-nerd-581.jpg|thumb|200px|como um usuário de Linux Mint vê usuários de Windows]]
+
+==Origem do Nome==
+caso você <s>não seja burro e</s> tenha lido a introdução deste artigo, deve estar se perguntando:
+<br>{{c|mas qual a origem do nome Linux Mint então?|[[você]]|Nome do Sistema}}
+<br> eu, <s>Mestre Supremo do Universo</s> irei explicar, jovem gafanhoto: Apesar de não existir Menta na [[Irlanda]], a menta tem a cor <span style="color:green;">verde</span>, e os irlandeses [[Amor|amam]] a cor verde. Boatos dizem que os [[Deus|criadores]] da distro queriam usar um personagem do folclore irlandês: os gnomos (de preferência aqueles que se vestem de verde), mas como a Gnome Foundation já estava usando o nome <s>e estragaram, diga-se de passagem</s>, eles mudaram para "Linux Mint", um nome sem graça, mas ainda referente a algo da cor [[maconha|verde]].
+
+==Malwares instalados de Fábrica==
+* [[Python]] - famoso "jogo da cobrinha"
+* Editor de Texto - muito útil para escrita de [[fanfic|fanfics]] [[Yaoi]]
+* [[LibreOffice]] Writer - para você fazer trabalhos escolares e tirar zero porque o arquivo não é compatível com a [[Microsoft Office|Suíte de Escritório de verdade]] que tem na escola.
+* [[LibreOffice]] Impress - mesma coisa do item acima, só que agora com o detalhe de que você vai '''passar vergonha na frente da sala inteira'''.
+* [[LibreOffice]] Draw - para seu filho desenhar na sua cópia malfeita do [[Paint]]
+* [[LibreOffice]] Calc - tipo uma calculadora, só que 1000 vezes mais difícil de usar
+* [[LibreOffice]] Math - o único programa que não é uma cópia de algum componente do M$ Office
+* [[Mozilla Firefox|Godzilla Giroflex]] - para causar estranheza em quem está acostumado a instalar o Windows e encontrar o [[Internet Explorer]] como navegador. <s> também é muito útil para assistir [[pornô]] </s>
+* Transmission - para você piratear filmes e músicas sem ter medo da [[Megafilmes|polícia fechar o site]]
+* [[VLC]] - afinal, os filmes que você baixou por [[torrent]] precisam abrir em algum lugar, certo?
+* Terminal - Muito útil para pegar câncer terminal. também muito utilizado para apagar pastas do sistema, como a pasta <s>"System32"</s>  "/root"
+
+não há jogos pré-instalados nesta distro, claramente uma tentativa dos criadores de deixar a ISO mais leve para ser baixada, se preocupando apenas com programas importantes, como... um programa para gravar CDs e DVDs
+
+==Segurança==
+Já reparou como usuários do Linux sempre usam o mesmo argumento de que Linux não pega vírus? <s>parecem [[Pokémom|pokémons]]: "linux não pega vírus, Linux não pega virus"</s> isso se deve a uma série de fatores:
+* Eles são usuários experientes, e diferente de [[você]], eles não clicam no email do [[Santander]] dizendo que a conta deles foi bloqueada. 
+* Não existem programas para Linux, porque ninguém sabe programar esta merda. Logo, você não tem o que baixar da internet <s>achando que é o [[GTA]]7</s> infectado com um [[cavalo de troia]].
+
+
+==Galeria==
+<div style="background: none repeat scroll 0% 0% rgb(26, 255, 102); color: white; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; height: 400px; width: 580px; padding: 35px 115px 116px;">
+<div style="font-size: 96px;">:D</div>
+<p><br></p><div style="font-size:18px;">DEU RUIM!</div><br>Sinta-se a vontade para pesquisar no Google: PROBLEMA NO LINUX MINT... <br> Uma das respostas que você encontrar por lá podem te ajudar. Mas nós duvidamos disso.
+</div>
+
+Um [[print screen]] de algo muito comum no Linux Mint: a tela de Kernel Panic ("Tela Azul da Morte")
+
+== Ver também==
+*[[Arch Linux|Ache o Linux]]
+*[[Ubuntu]]
+*[[Windows|RUindow$]]
+*[[Igreja Universal do Linux de Deus]]
+*[[Pirataria]]
+
+<br>
+{{oposto|Windows}}
+<br>
+{{linux}}
+
+[[categoria:Linux]]

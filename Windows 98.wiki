@@ -1,0 +1,103 @@
+{{Microsoft}}
+
+[[Arquivo:ilegal_wiki.jpg|350px|right]]
+[[Arquivo:Bsod-clip.JPG|thumb|350px|Só pra variar.]]
+{{Clipe|Sou o melhor Assistente virtual:)}}
+{{c|Ele é meu melhor amigo!|Vírus Chernobyl|Windows 98}}
+{{c|[[Mentira|No Windows 98 não haverão operações ilegais]].|Bill Gates|Windows 98}}
+{{c|[[Mentira|No Windows 98 não haverá travamento de máquina]]|Bill Gates|Windows 98}}
+
+O '''Mico$oft Ruindow$ Nojento e Oito''' é um front-end do Sistema Operacional [[DOS]] da [[Microsoft]] que, como se não bastassem as falhas do próprio [[DOS]], acrescenta-lhe falhas astravancando, assim, o progresso da computação.
+
+O Microsoft Windows 98 é um retrocesso do [[Microsoft Windows 95]], que é uma casca do [[DOS]], que é uma sistema operacional idealizado originalmente para máquinas de escrever. Entre outros inúmeros avanços tecnológicos, o Windows 98 trouxe o fantástico recurso [http://www.youtube.com/watch?v=kR6B2qNM3O0 "Plug and '''Pray'''"] que dispensa comentários. Também inseriu novas mensagens de erro, um help de aproximadamente 100MB (à época, uma cifra astronômica para um arquivo de help) que não esclarece absolutamente NENHUMA dúvida do usuário, e um novo logotipo, substituindo o 95 pelo 98.
+
+== Código fonte ==
+<pre>
+/*
+    Project: Windows 98
+*/
+
+#include "win31.h"
+#include "win95.h"
+#include "evenmore.h"
+#include "oldstuff.h"
+#include "billrulz.h"
+#define INSTALL = HARD
+
+char dummy_chars[1600000_MB];
+
+void main()
+{
+    while(!CRASHED)
+    {
+        message(copyright);
+        message(bill_rules);
+        hang_system(60s);
+        if (first_time_installation)
+        {
+            make_50_megabyte_swapfile();
+            do_nothing_loop();
+            screw_filesys(HPFS);
+            search(OS/2);
+            destroy(OS/2);
+            halt_system();
+         }
+            write(anything);
+            message(copyright);
+            hang_system(60s);
+            work_stuff();
+            if (!CRASHED<1)
+            {
+              message(copyright);
+              do_nothing_loop();
+              basically_run(windows_3.1);
+              hang_system(120s)
+              }
+          }
+
+          if (detect_cache())
+              disable_cache();
+
+          if (fast_cpu())
+          {
+              set_wait_states(lots);
+              set_mouse(speed, very_slow);
+              set_mouse(action, jumpy);
+              set_mouse(reaction, sometimes);
+          }
+
+          /* printf("Welcome to Windows 3.11"); */
+          /* printf("Welcome to Windows 95"); */
+          printf("Welcome to Windows 98");
+          if (system=ok())
+               crash(dos_prompt);
+          else
+              system_memory = open("a:\swp0001.swp", O_CREATE);
+
+          while(something)
+          {
+              sleep(5);
+              get_user_input();
+              sleep(5);
+              act_on_user_input();
+              sleep(5);
+          }
+error_trigger(gpf, general_protection_fault);
+shutdown();
+</pre>
+
+[[Arquivo:DSC01467ALL.jpg|thumb|center|290px|Windows 98 ao ver seu artigo na Desciclopédia. Ele apresentou a tela azul da morte, porque pensou que ele mesmo fosse do mal. Mas na verdade é mentira, porque a Desciclopédia flagrou [[WTF|ele comendo o Windows Vista]]]]
+
+==Veja também==
+*[[Tela azul da morte]]
+*[http://copy.sh/v86/?profile=windows98 E o próprio Windows 98] (mas só não pega Internet nela)
+
+{{windows}}
+
+[[en:Windows 98]]
+[[es:Windows 98]]
+[[it:Windows 98]]
+[[ja:Windows 98]]
+[[no:Windows 98]]
+[[ru:Windows 98]]
+[[uk:Necrosoft Windows 98]]

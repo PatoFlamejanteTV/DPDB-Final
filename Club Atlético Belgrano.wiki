@@ -1,0 +1,54 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = blue
+|brasao            = Escudo do Belgrano.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{ARG}}''' - [[Córdoba]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Córdoba]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Argentino de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Club Atlético Belgrano''' é o time que mostra que na cidade de Córdoba, não é só o vinho e a pizza que são famosos — e que o futebol também tem seu espaço. Ele joga a Sul-Americana com a mesma energia de uma partida de tango no meio das montanhas cordobesas.
+
+== História ==
+=== O Início: Capítulo 1 - "Nasce um Gigante" ===
+Fundado em 1905, o Belgrano FC surgiu na cidade de Córdoba com uma missão clara: ser tão grandioso quanto o nome sugere. Imagine a cena: um grupo de apaixonados por futebol decidiu que era hora de a cidade ter um time que não só carregasse o nome de um dos grandes líderes da independência argentina, mas também que brilhasse nos campos. E assim, com muito entusiasmo e uma pitada de audácia, nasceu o Belgrano FC.
+
+=== Primeiros Passos: Capítulo 2 - "Primeiros Dribles e Passos" ===
+Nos primeiros anos, o Belgrano jogava nas divisões inferiores do futebol argentino, como um aspirante a estrela que está apenas começando a mostrar seu talento. O clube batalhava com determinação, sempre buscando uma oportunidade para brilhar no palco principal do futebol argentino.
+
+=== A Ascensão: Capítulo 3 - "Subindo ao Palco Principal" ===
+Com muito esforço e dedicação, o Belgrano FC conseguiu subir para a primeira divisão argentina e se estabelecer como um time respeitado. A cidade de Córdoba comemorou como se fosse uma festa de aniversário, e cada jogo se tornou um evento aguardado com entusiasmo. O time dançava nas vitórias com a mesma alegria dos bailes cordobeses.
+
+=== A Torcida: Capítulo 4 - "Los Piratas Leales" ===
+A torcida do Belgrano FC, conhecida como "Los Piratas", é um espetáculo à parte. Com bandeiras azul e branco, tambores e uma energia contagiante, eles transformam cada jogo em uma verdadeira celebração. É como se cada partida fosse um carnaval em Córdoba, com torcedores prontos para apoiar seu time com fervor e paixão.
+
+=== Momentos de Brilho: Capítulo 5 - "Brilhando nas Estrelas" ===
+O Belgrano FC teve momentos de grande brilho, incluindo campanhas notáveis na primeira divisão e participações em torneios internacionais. Cada vitória era comemorada com a mesma intensidade de uma grande festa de Córdoba, trazendo alegria e orgulho para os torcedores.
+
+=== Desafios e Lutas: Capítulo 6 - "Superando os Obstáculos" ===
+Manter-se competitivo não foi tarefa fácil. O Belgrano FC enfrentou muitos desafios ao longo dos anos, incluindo dificuldades financeiras e rebaixamentos. Mas, assim como os habitantes de Córdoba que enfrentam os desafios da vida com garra, o time nunca desistiu de lutar, sempre buscando melhorar e alcançar novos patamares.
+
+=== Investindo no Futuro: Capítulo 7 - "Formando Novos Talentos" ===
+O Belgrano FC investiu fortemente em suas categorias de base, ajudando a formar jovens talentos que, posteriormente, se destacaram no cenário nacional e internacional. O clube se tornou um verdadeiro celeiro de craques, mostrando que a perseverança e o trabalho árduo podem render bons frutos.
+
+{{Campeonato Argentino}}
+
+[[Categoria:Times de futebol da Argentina|Belgrano]]

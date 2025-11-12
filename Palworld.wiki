@@ -1,0 +1,148 @@
+{{Game}}
+
+{{Infobox Game 
+|title     = Mundo dos Pals
+|image     = Palworld capa.png
+|caption   = {{C|Pegue os Pals!}} (detalhe para a cara [[Grizzbolt|do amarelão]], se achando o [[fodão]] com a metralhadora que tem em mãos)
+|developer = [[Pocket Pair|Bocket Pair]]
+|publisher = [[Pocket Pair|Pocket Pal]]
+|released  = [[2024]] 
+|genre     = Pokezeldacraft
+|rating    = Mete o Pal e compra
+|ages      = Para pirralhos acima da quinta série
+|platform  = [[Windows|Ruindows]], [[Xbox Series X/S|Geladeira]], [[Xbox One|Caixa Um]]
+}}
+
+'''Palworld''' (ou o "mundo dos pals") é mais um jogo lá do [[Steam]] e [[Xbox Game Pass|PobrePass]], cujo diferencial é ser a mistura peculiar de várias outras mecânicas e características presentes em vários outros jogos: sobrevivência, exploração, mundo aberto, captura de [[pokémon]]s, [[tráfico]] de seres vivos, [[Rio de Janeiro (cidade)|tiroteio]]s, trabalho escravo, terrorismo, etc. Esse é, sem dúvidas, o game ideal pra quem queria saber quantos tiros de doze o [[Pikachu]] aguentaria levar antes do velório oficial. Aliás, tal jogo seria mais ou menos um produto do que aconteceria caso a franquia Pokémon fosse inteiramente vendida para a [[Rockstar Games]], e esta última resolvesse lançar um jogo bem desgraçado das ideias com base nesse verdadeiro presente de japonês.
+
+==Mas antes de tudo...==
+===Bastidores da produção===
+É preciso saber como diabos esse jogo se tornou tão popular em tempo recorde, desbancando outros títulos conhecidos como [[Counter-Strike]], [[Dota 2]] e [[Call of Duty]] (como visto na imagem abaixo) e fazendo diversos executivos da [[Nintendo]] arrancarem o rabo do avesso. Então [[senta que lá vem a história]].
+
+[[Arquivo:Palworldsteam.png|thumb|600px|center|Imagem abaixo do texto acima]]
+
+Tudo começa com uma suposta empresinha que faz joguinhos, chamada [[Pocket Pair]]. Na ânsia de tentar engrenar alguma coisa em [[2024]], visto que sua última tentativa (de nome [[Craftopia]]) não deu lá muito certo por conta de ter sido lançado com uma quantidade quase infinita de [[171 (jogo eletrônico)|bugs e modelos copiados]], o chefe decide fazer uma reunião de emergência com a equipe de desenvolvimento.
+
+A equipe pergunta: {{c|Qual será o gênero do nosso próximo lançamento?}}
+
+Ao que o chefe responde: {{c|Sim.}}
+
+Daí então, o sênior mais viciado em café com energético dos desenvolvedores ali no balaio define que dessa vez a pegada vai girar em torno de pokémons; então o segundo mais velho na companhia vai lá e mete armas no jogo; o terceiro resolve botar agricultura no meio... e aí a bagaceira fica mais ou menos como foi observado nos primeiros trailers que revelaram pro público.
+
+===A grande sacada===
+Até aí, ninguém dava nada pelo jogo, mas [[South America Memes|eis que]] surge a equipe de marketing e ela começa a perguntar como é que esses bichos (que não são pokémons, claro) vão se chamar. Claro que existe tradução para "pal", até o [[Google Translate]] sabe disso. Mas a galera que ficou responsável pela tradução brasileira logo viu que não podia deixar essa chance passar.
+
+{{c|Deixa do jeito que tá mesmo e [[foda-se]], vai vender que nem água! Porque a quinta série vai prevalecer!|Resposta da equipe de tradução em um email interno da empresa}}
+
+Sim, os bichos vão se chamar <big><big><u>pals</u></big></big>. Sim, a falta de tradução é intencional, e sim, muito imbecil vai comprar essa porra aí apenas pelos [[meme]]s:
+
+<center>
+<gallery widths=200px>
+Arquivo:Palworld1.jpg|Um simples anúncio de dicas sobre o jogo
+Arquivo:Palworld4.jpg|Exemplo de conquista do Palworld
+Arquivo:Palworld5.jpg|Relato de um jogador completamente viciado em pal
+</gallery>
+</center>
+
+Em resumo, Palworld pode até não ser o jogo do ano de 2024; mas como tudo que o envolve vira um meme de retardado, então já é sem dúvidas o meme do ano de 2024.
+
+==Análises dos trailers==
+===Primeiro trailer===
+
+<div class="noprint toccolours" style="width: 80%; text-align: center; clear: both; margin-left: auto; margin-right: auto;">
+<div class="NavFrame">
+<div class="NavHead" style="font-size:10pt;"><small><font color=gray>{{Nota:|o trecho seguinte está "compactado" de modo a despoluir visualmente o contexto da página toda.}}</font></small></div>
+<div class="NavContent">
+{| style="border: 1;"
+| align="left" style="font-size:10pt; padding-right: 2px; padding-left: 2px;" |
+{|{{tabelabonita}}
+|-
+||[[Arquivo:Palworldtrailer1img1.png|200px|center]]||Nos primeiros segundos, tudo é sempre muito bonito: vemos a personagem (que não se parece nem um pouco com aquela lá de [[Horizon Zero Dawn]], de penteado diferente) correndo com um pal do lado. Até aqui nada demais, no máximo um filhote de [[Supla]] ali no cantinho, em cima duma pedra, apreciando a paisagem.
+|-
+||[[Arquivo:Palworldtrailer1img2.png|200px|center]]||0:18 - Aqui a coisa começa a mudar um pouco de figura, porque já vemos uma penca de pinguins de capacete num baita de um trabalho escravo junto com o jogador. Como veremos mais adiante, nesse jogo existem pals que trabalham dia e noite.
+|-
+||[[Arquivo:Palworldtrailer1img3.png|200px|center]]||0:36 - Tá rolando um tiroteio pesado no meio do nada, pra variar, mas quem rouba a cena aqui é o amarelão (que não, não é é um [[Electabuzz]]). Esse pal grandão vai lá, liga o foda-se e resolve chegar na base da voadora mesmo.
+|-
+||[[Arquivo:Palworldtrailer1img4.png|200px|center]]||0:55 - Um pal que parece uma ovelha, sendo usado como escudo. Pois é, tão dando tiro no pal dos outros... sem contar que, no instante seguinte, o bicho em questão é brutalmente jogado de lado só pra combinar com o ritmo da música.
+|-
+||[[Arquivo:Palworldtrailer1img5.png|200px|center]]||1:05 - É nesse instante em que temos, sem dúvida, a cereja do bolo desse trailer de um minuto e meio. Como toda desgraça pouca é bobagem, pra arrombar de vez o negócio vemos simplesmente uma porra de uma linha de montagem de armas, onde os pals trabalham na fabricação (repare no quão contagiante é o entusiasmo deles).
+|-
+||[[Arquivo:Palworldtrailer1img6.png|200px|center]]||E para encerrar esse show por enquanto, isso é um exemplo do que acontece se o jogador pegar o filhote de Supla lá do início e resolver usá-lo como isca elétrica pra pescar mais peixes (ou melhor ainda: "pals de água").
+|}
+|}
+</div></div></div>
+
+===Segundo trailer===
+(Supostamente lançado apenas no Japão, só pra sacanear ainda mais a Nintendo e a [[Game Freak]]...)
+
+<div class="noprint toccolours" style="width: 80%; text-align: center; clear: both; margin-left: auto; margin-right: auto;">
+<div class="NavFrame">
+<div class="NavHead" style="font-size:10pt;"><small><font color=gray>{{Nota:|o trecho seguinte está "compactado" de modo a despoluir visualmente o contexto da página toda.}}</font></small></div>
+<div class="NavContent">
+{| style="border: 1;"
+| align="left" style="font-size:10pt; padding-right: 2px; padding-left: 2px;" |
+{|{{tabelabonita}}
+|-
+||[[Arquivo:Palarmado.png|200px|center]]||Não dá nem quinze segundos de trailer e já vemos um verdadeiro pal armado, sentado justo na cabeça do jogador. Repare no seu rostinho (bastante ameaçador por sinal) de poucas ideias, todo malandrão e pronto pra cometer os crimes mais terríveis.
+|-
+||[[Arquivo:Palworldtrailer2img1.png|200px|center]]||0:26 - Após mostrar mais um pouco dos aspectos de fazendinha e sobrevivência desse game, essa parte é um tanto curiosa pois mostra... é... pois é: olha o pal comendo solto!
+|-
+||[[Arquivo:Palworldtrailer2img2.png|200px|center]]||Aí logo nos frames seguintes aparece esse puta foguete, [[WTF]], o negócio é exploração espacial agora? Então quer dizer até a [[NASA]] vai entrar no pal também? Vão buscar o quê, o [[pica das galáxias]]?
+|-
+||[[Arquivo:Palworldtrailer2img3.png|200px|center]]||0:55 - Essa é a parte que prova que todo pal amarelão (que não é um Electabuzz) é, na verdade, um produto de experimentos altamente secretos, feitos por alguma agência secreta de bioengenharia a mando de algum governo secreto no Palworld... Pior que até mesmo quando parece estar sofrendo, [[Masoquismo|o bicho continua rindo]].
+|-
+||[[Arquivo:Palworldtrailer1img5.png|200px|center]]||Mais um pouco de trabalho escravo, como visto no primeiro trailer.
+|-
+||[[Arquivo:Palworldtrailer2img4p2.png|200px|center]]||Daí então, mais ou menos na marca de um minuto e onze, um combate rápido onde o jogador pode pegar um pal chocadeiro a fim de usar um cu de pato como arma: é só dar um tapão nas costas do bicho que ele peida uma [[Jason Statham|carga explosiva]].
+|-
+||[[Arquivo:Palworldtrailer2img4p1.png|200px|center]]||Sim, ele realmente peida um ovo maior que ele! Veja só a expressão de dor no olho do pal no exato momento em que sai até faísca do cu da criatura!
+|}
+|}
+</div></div></div>
+
+==Detalhes do jogo==
+[[Arquivo:Relaxaurus 2.png|200px|thumb|Agora você sabe o porquê [[Relaxaurus|dessa criatura]] ser escolhida para ser o mascote do "Mundo dos pals".]]
+Logo que o personagem é criado, o primeiro [[NPC]] já fala na lata que o jogador "não cheira a pal". Pois bem, como se trata de um mundo repleto de várias criaturas bizonhas, que são literalmente chamadas de pals devido ao que aconteceu na história acima, então no fim das contas tudo funciona que nem no mundo dos pokémons. Isso aí, o objetivo principal é idêntico: pegar o máximo de pals (estourando assim todo e qualquer contador de "[[Descionário:Lá ele|lá ele]]").
+
+Só que nesse jogo em especial, além de poder montar em alguns pals específicos, incubar ovos de pals para gerar mais pals, e fazer carinho nos pals, o jogador também pode: dar tiro nos pals, se defender de tiros com os pals no meio, comer carne de pal, e até mesmo espancar e escravizar os pals. Enfim, o jogo é um [[Fortnite]][[Minecraft|-craft]] da vida, só que com Pokémon no meio.
+
+Segundo relatos dos jogadores mais viciados em pals, também é possível jogar de forma cooperativa, ou seja: juntar os próprios pals com os pals do amigo em questão dentro de salas fechadas, e dessa forma um jogador pode até mesmo interagir com os pals do outro.
+
+===Alguns pals e suas características===
+{{c|Cadê meu pal?|[[Rogério Skylab]]|Palworld}}
+
+A criatividade e originalidade de quem inventou esse jogo são realmente coisas a serem estudadas. Basta reparar nos exemplos a seguir, retirados da "[[Pokédex|paldex]]".
+
+*'''Chikipi''': um pal que é literalmente uma galinha;
+*'''Cattiva''': um pal que é literalmente um gato rosa selvagem;
+*'''Lamball''': um pal que é literalmente uma ovelha, etc, etc...
+
+Há vários outros tipos, é claro: pals de água, pals de fogo, pals voadores, e por aí vai. Quando um bicho desses é escravizado para trabalhar no acampamento, o próprio jogo mostra que todo pal precisa de pelo menos uma cama pra poder descansar, do contrário o jogador pode ter que lidar com um [[Reportagem do Cidade Alerta sobre a rota da prostituição em São Paulo|pal furioso]].
+
+Ainda no quesito trabalho, há pals específicos para extrair lenha, pedra e outros recursos, como também há pals pra toda obra. Para ajudar no combate, tem pals que podem ficar armados, e seguindo essa lógica, o tamanho da arma carregada depende do tamanho do pal em questão.
+
+===Uns itens e outras bugigangas===
+<gallery widths=200px>
+Arquivo:Palworld2.jpg|O infame "Fluido de Pal".
+Arquivo:Palworld3.jpg|Nem o portão de madeira escapou.
+</gallery>
+
+===Lucky Pals (Pals Sortudos)===
+Assim como que Pokémon tem uma variação rara dos bichos que faz os bichos fiquem com a sua coloração mais (ou menos) saturada com uns brilhinhos conhecida como [[Pokémon Shiny]], esse jogo também possui uma variação rara de Pals chamada de Lucky Pal (ou Pal Sortudo como é chamado no Brasil) que no caso são Pals maiores com um brilhinho ao redor, ou seja uma mistura dos Pokémons Shiny com os Pokémons Alpha do [[Pokémon Legends: Arceus|Pokémon Legenda do Seu Alceu]]. Diferente dos shinys de Pokémon que mudam porra nenhuma nos status do bicho só deixando a maioria feio, os Lucky Pals são mais fortes do que a maioria dos Pals Comuns.
+
+===Capturando Humanos===
+Além de capturar as mais bizarras e as mais genéricas criaturas possíveis, o jogo também permite o jogador capture pessoas (os NPCs do jogo) com as próprias [[Pokébola|Pal Bolas]] do jogo com uma taxa captura bem baixa realizando o sonho de [[Punheteiro|certos tipos de fãs]] de Pokémon. Em questão de utilidades o ser humano capturado é deveras inútil, pois no combate ele vai no soco com os inimigos, mesmo se ele estiver armado, ele vai dá coronhada com a arma e <s>na escravidão</s> no trabalho ele pode ajudar só construindo algumas coisas da base já que o resto das coisas é incapaz de fazer, ou seja não presta nem pra ser escravo <s>sexual</s>. O jogo também testa o tão doentio é o jogador permitindo que ele mate essas pessoas que foram capturadas e vendam as partes do corpo (sendo pelo [[Mercado negro|mercadinho da esquina]] ou [[Canibalismo|fazendo espetinho e vendendo na praia]]), sendo pago um alto valor.
+
+==Controvérsias==
+Supostos autores de [[fanart]]s de coisas que se parecem com pokémons já se encontram chorando pelos quatro cantos da internet, alegando que o jogo copiou muita coisa (mesmo não tendo pronunciado um pio quando o primeiro trailer saiu há anos atrás).
+
+Mas para os indecisos, a dúvida continua... Seria mesmo o Palworld mais um [[plágio]] descaradamente descarado de Pokémon? Tem muito arquivo roubado dentro do jogo? Vai saber. Fato é que, no momento, tem muito jogador entretido com os pals. Se a Nintendo não curtiu a grandiosidade dos pals e vai querer acabar com os pals de todo mundo, veremos nas cenas dos próximos capítulos.
+
+{{Pals}}
+{{Game RPG}}
+{{Survival}}
+
+[[Categoria:Jogos lançados em 2024]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Palworld|*]]

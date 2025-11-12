@@ -1,0 +1,53 @@
+{{super}}
+{{Jogos Antigos}}
+{{Infobox Game
+|title     = Wolfenstein na Arca de Noe
+|image     = Super 3D Noah's Ark.jpg
+|caption   = Pela tela inicial nem dá pra desconfiar que a merda é ainda maior que se possa imaginar...
+|developer = [[Wisdom Tree]]
+|publisher = [[Wisdom Tree]]
+|released  = [[1994]]
+|genre     = Jogo de Crente/Tiroteio
+|rating    = 0,1%
+|platform  = [[Super Nintendo]] e [[DOS]]
+|ages      = +13 (ou não)
+}}
+
+'''''Super 3D Noah's Ark''''', também chamado de ''Super Noah's Ark 3D'', é mais um dos jogos de crente (sim, de crente), o único lançado para Super Nintendo e também para DOS. Esse jogo é tão ruim, mas tão ruim, que pra jogar essa merda em seu SNES só era possível se você enfiasse um cartucho legalizado da [[Nintendo]] em cima dele. Pois é, esse jogo e [[Little Red Hood]] são os únicos jogos da história que você precisa pra poder jogar o maldito colocar um jogo original em sua cabeça. E a história de desenvolvimento desse jogo, somado à jogabilidade do mesmo, são coisas tão fabulosas que certamente o autor desse artigo terá colapsos cerebrais para conseguir conceber tudo isso e explicar aqui de maneira que não pareça tão absurdo quanto já é.
+
+OK, É UMA MERDA ESSE JOGO, CARALHO!!!
+
+Ufa, tou mais calmo agora...
+
+== História do desenvolvimento ==
+
+Dizem as [[más línguas]] que a [[ID Software]], puta da vida com a Nintendo pela conversão porca feita por eles para o ''[[Wolfenstein 3D]]'' no SNES: Sem sangue, sem violência, sem porra nenhuma. Sendo assim, eles deram gratuitamente pra Wisdom Tree o código do jogo, dando a eles autoridade pra modificar do jeito que quisessem. E assim surgiu essa coisa farinácea chamada S3DNA,que inicialmente,era para ser um jogo da franquia de hellraiser.
+
+O cartucho ainda vinha com uma astúcia criada pelo [[Reverendo Lovejoy]]: um leitor de chips gigante em cima do mesmo, que era uma forma de destravar o sistema, pois colocando um cartucho oficial do SNES em cima, o SNES dava uma maluquice e pegava o jogo.
+
+== O gameplay ==
+
+A ação se dá na enorme arca do [[Noé]]. Noé aparece com um... ESTILINGUE... e usa o mesmo para atacar seus inimigos que são... bodes cinzentos que ficam te chifrando até te matar e ovelhas brancas possuídas por algum espírito diabólico que te atacam à distância sei lá como. O pior é que quando você dá estilingadas nos miseráveis, eles apenas DORMEM, não morrem, ao passo que se eles conseguirem tirar todo seu sangue, sim, VOCÊ MORRE.
+
+O que eu queria entender só era... se Noé levava só um casal de cada filha da puta de bichos (podemos ver isso em [[Bible Adventures]]), como é que então aparece essa proliferação satânica de bodes e ovelhas? Eu heim...
+
+== Jogue também (e vá pro inferno) ==
+
+*''[[Bible Fight]]''
+*''[[Chex Quest]]'', um clone do [[Doom]] horrendo igual ao [[cereal]] que vendia ele.
+
+OPA OPA OPAAAA falando em ir para o inferno... bem, é sempre bom terminar um artigo de maneira bem anticlimática... mas você imaginaria que uma produtora dita cristã como a Wisdom Tree teve a capacidade de pegar o projeto do que seria um jogo do [[Hellraiser]] e criou isso no lugar? Pois é, acredite, porque é EXATAMENTE ISSO! 
+
+Agora sim, se você não quiser ir [[Stryper|pro inferno com o diabo]], com certeza entretanto o pessoal da igreja que financiou essa porra quando descobriu a origem dela deve ter mandado quem fez essa desgrama com toda certeza! 
+
+{{Wolfenstein}}
+{{Hellraiser}}
+{{First-person shooter}}
+{{Título em itálico}}
+
+[[Categoria:Dilúvio]]
+[[Categoria:Jogos eletrônicos religiosos]]
+[[Categoria:Jogos lançados em 1994]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos da Wisdom Tree]]

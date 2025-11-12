@@ -1,0 +1,22 @@
+[[Arquivo:Chevette.jpg|thumb|250px|O ruim de fazer cálculo retilíneo e uniformemente variado com um chevette é que essa coisa não anda reto e nem consegue variar a velocidade]]
+O '''movimento retilíneo uniformemente variado (MRUV)''' é um [[movimento]] reto que varia de forma uniforme. É um conceito teórico da cinemática (física) então nada tem a ver com esses movimentos de vagabundos comunistas, igual o [[MST]] ou [[MTST]], ainda mais porque, ao contrário desses movimentos comunistas, o movimento retilíneo uniformemente variado evolui.
+
+== Conceito ==
+
+Explicando da forma mais [[MOBRAL]] possível, o movimento retilíneo uniformemente variado é o movimento em que uma coisa vai andando, e a cada momento cronometrado varia a velocidade de forma sem ritmada. [[Tiririca]]ndo a explicação: tem-se uma rua e um carro, pode ser um chevetinho mesmo. Na posição inicial da contagem, ou seja, na hora que a gente for olhar, o chevette está andando a 30 km/h, num pau brabo. Cinco minutos depois, ele aumentou a velocidade para 35km/h, assim, aumentou 5km/h. Mais cinco minutos depois, agora o chevette tá andando a 40km/h, então aumentou mais 5km/h. Então, por enquanto, a cada cinco minutos o chevette aumenta a velocidade em 5km/h. Mais cinco minutos, e o chevette já está andando em inacreditáveis 45km/h, quase quebrando. E mais cinco minutos depois, o chevette está nos mesmos 45km/h... ué, e o movimento retilíneo uniformemente variado? Quebrou? Não, o que quebrou foi o chevette, já andou 20km/h acima do que poderia e pifou, não há movimento uniformemente variado que aguente num chevette. Então, antes de o chevette quebrar, já deduzimos que a aceleração do automóvel, se é que podemos chamá-lo de automóvel, era constante até a hora que enguiçou o motor, e então a velocidade era uniformemente variável.
+
+== Equações ==
+
+*[[Arquivo:Equação das posições.jpg]]: Esta é a equação das posições. O ''s'' significa posição, porque talvez posição em inglês é ''stance'', mas isso é só um chute. ''s0'' é a posição inicial, afinal o zero significa nada, e o corpo móvel nada fez ainda. Quanto tiver esse zero em uma variável, sempre será algo inicial, igual ao ''v0'' que aparece depois; o ''v'' é de velocidade, por causa do filme Velozes e Furiosos, então o ''v0'' é a velocidade inicial, pois nada andou ainda. O ''t'' agarrado na velocidade inicial é o tempo, e a variável de tempo é ''t'' porque tempo em polonês é ''czas'', e ''czas'' lembra a palavra ''tzar'' que começa com [[T]]. Quanto uma variável fica agarrada noutra, igual o ''t'' estuprando o espaço do ''v0'', significa que deve multiplicar as duas, porque claramente depois que se unem começa a aparecer a ninhada. O ''a'' é de aceleração, esse não há dúvida, facilmente a gente identifica que seja a de aceleração pois vem da palavra aceleração em alemão, que é ''Beschleunigung'', e quando ouvimos essa palavra soltamos um [[AAAAA]] de susto. Então a fórmula é bem simples: posição é igual à posição inicial mais a velocidade inicial agarrada no tempo, mais a metade da fornicação entre a aceleração e o tempo ao quadrado, moleza véi!
+
+*[[Arquivo:Equação da velocidade.jpg]]: Essa aqui é melzinho na chupeta. Já sabemos que o ''v'' é de velocidade, por causa do filme, então essa equação aqui é mais fácil que dar um cuecão no avô com [[Parkinson]]. Velocidade é igual à velocidade inicial (lembra do zerinho?) mais a aceleração agarrada no tempo.
+
+*[[Arquivo:Equação Torricelli.jpg]]: Que porra é essa, mano? Tem até a porra de um triângulo no meio da conta? Essa não tava no ''script''. Tudo bem, tudo bem, como eu já fiz aulas de geometria, consigo resolver contas com figuras geométricas. A velocidade ao quadrado é igual à velocidade inicial ao quadrado (ali na figura parece que o dois está trepando com o zero, mas é só uma falha de montagem) mais duas vezes a aceleração vezes a [[pirâmide de Kelsen|pirâmide de KelSen]]. Sabemos que o S significa ''stance'', que é posição, então a pirâmide da posição significa a velocidade que um raio de sol atinge o lado mais afastado da posição inicial de uma pirâmide egípcia, então até que não é tão difícil fazer o cálculo agora.
+
+== Ver também ==
+
+*[[Movimento retilíneo uniforme]]
+*[[Cinemática]]
+
+[[Categoria:Física]]
+[[Categoria:Física mecânica]]

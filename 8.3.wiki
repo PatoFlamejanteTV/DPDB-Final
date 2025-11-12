@@ -1,0 +1,28 @@
+__NOTOC__ __NOEDITSECTION__
+{{Título|<tt>H:\DESCIC~1.WS\WIKI\8.3</tt>}}
+
+<div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; spacing: 0px; text-align: left; float: right;">
+<div style="float: left;"> [[Arquivo:WikilogoNaoTem.gif]]</div>
+<div style="margin-left: 60px;">'''QUEBROU A CARA!''' OS [[Nerd|ESPERT~1]] DA [[Wikipédia|WIKIPE~1]] '''NAO''' TEM UM ARTIGO SOBRE '''''[[Wikipedia:{{{1|{{PAGENAME}}}}}|{{{2|{{{1|{{PAGENAME}}}}}}}}]]'''''.</div>
+</div>
+
+<tt>
+'''8.3''' E O LIMITE PARA NOMES DE ARQUIVOS IMPOSTO PELO [[FAT]] USADO PELO [[DOS]] E VERSOES DO [[Microsoft Windows|MICROS~1]] SENDO ELAS O [[Microsoft Windows 95|WINDOW~1]] E O [[Microsoft Windows NT|WINDOW~2]] 3.5
+
+'''FAT''', E A ABREVI~1 PARA ''FILE ALLOCA~1 TABLE'', E E O SISTEMA DE NOME DESIGN~1 PELA [[Microsoft|MICROS~1]] PARA O SEU [[DOS]].
+
+== TECNIC~1 APLICA~1 AO 8.3 ==
+
+INICIA~1 O 8.3 FOI UMA TECNICA INOVAD~1 POIS CONSEG~1 COLOCAR INACRE~1 8 CARACT~1 PARA CADA NOME DE [[arquivo|ARQUIVOS]]. MAS ELA FICOU DESATU~1 COM O [[tempo|TEMPO]].
+
+UM DOS PRINCI~1 PROBLE~1 DESSE SISTEMA E QUE ALEM DE NAO PODER ESCREVER [[nome|NOMES]] LONGOS, NAO SE PODIA USAR ACENTOS NEM MESMO LETRAS EM MINUSC~1, APENAS EM MAIUSC~1 E EXISTIAM POUCOS CARACT~1 ESPECI~1.
+
+PARA SE ESCREVER NOMES NO FORMATO 8.3 ERA PRECISO QUE O NOME TIVESSE NO MAXIMO DE 8 CARACT~2 OU SENAO CABIA ERA NECESS~1 ENCURTAR PARA 6 E COLOCAR O NOME SEGUIDO COM UM NUMERO ____~1.___ MAIS UMA EXTENCAO, ALEM DE COLOCAR TODAS AS LETRAS EM MAIUSC~1 E NAO USAR NENHUM ACENTO.
+
+<div id="catlinks"><p class="catlinks"><span style="color:#002BB8;">[[Especial:Categories|CATEGO~1]]: [[Categoria:Páginas que se parecem com o que elas são|PAGINA~1]] [[Categoria:Informática|INFORM~1]]</span></p></div>
+
+[[Categoria:Páginas que se parecem com o que elas são]]
+[[Categoria:Informática]]
+
+[[en:8.3]]
+[[es:8.3]]

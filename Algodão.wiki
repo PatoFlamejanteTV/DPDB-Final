@@ -1,0 +1,50 @@
+{{vegetal}}
+
+{{taxocaixa
+| nome           = Algodão
+| cor            = #00FF7F
+| imagem         = CottonPlant.JPG
+| imagem_legenda = Típico algodão sem-graça.
+| reino          = [[Plantae|Plantinhas]]
+| superdivisão   = [[Spermatophyta|Plantas com esperma]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Eudicotidae|Eudissecotia]]
+| subclasse      = [[Rosídeas|Rosinhas]]
+| ordem          = [[Malvales|Malvadas]]
+| família        = [[Malvaceae|Malavadas]]
+| gênero         = [[Gossypium|Grossipum]]
+}}
+
+{{Você quis dizer|Algodão doce sem açúcar}}
+{{C|Na Bolívia o Algodão é nosso!|[[Privatizal Boliviana]]|Algodão}} 
+{{C|Na Colômbia você produz o algodão depois empacota e vende|[[Cocaínal Colombiana]]|Algodão}}
+{{C|Na Fronteira do Brasil com o Peru você passa carregado de Algodão e ninguém percebe|[[Fronteiral Brasileña Peruana]]||Algodão}} 
+
+==Composição Química==
+O '''Algodão''' é um elemento químico da classe dos algodilopodos. Sua extração da natureza dá-se por plantas que sugam o algodilônio bruto do solo e através de muitas reações químicas no interior da planta o algodilônio é transformado em algoplotônio que por sua vez vira o Algoletôneo que em português é mais conhecido como Algiodão ou Algudão. 
+
+==História do cultivo do algodão pelas cicilizações do mundo==
+
+===Povos primitivos que usavam algodão há mais de 10.000 anos===
+Tribos Africanas, Asiáticas e Sulamericanas já manipulavam o Algudão, usando-o para filtrar a heroína e encher a seringa que era feita de cera de abelha. Posteriormente essas tribos desfiaram o algudão trançando-o em fios e nasceu a Tecelagem que é a mãe do cultivo de algodão. 
+
+===Os grandes Impérios e o cultivo de algodão=== 
+Os egípcios usavam algodão para tapar o nariz das múmias (isso era muito importante). Os persas usavam algodão tapar os ouvidos. Os romanos usavam o algodão enfeitar os presépios de natal. 
+
+===Povos que usavam algodão depois do Fim do Império Romano ===
+*Italianos: Usavam o algodão para filtrar o molho de tomates da macarronada
+*Ingleses:usavam o algodão para filtrar o chá
+*Alemãos:usavam o algudão para filtrar a cerveja
+*Espanhóis:usavam o algodão para tapar os buracos nos toureiros durante as touradas
+*Franceses:usavam o algodão para limpar os corpos degolados pela guilhotina
+*Portugueses:usavam o algudão como papél higiênico
+
+===O Algodão no Início do século XX===
+Com as colônias Americanas já independentes os plantadores de Algodão se dedicaram ao blues na região de New Orleans. Depois o Algodão entrou em extinção com a chegada no nylon e dos emos.
+
+{{Têxtil}}
+
+[[Categoria:Malvaceae]]
+[[Categoria:Gossypium|*]]
+
+[[eo:kotono]]

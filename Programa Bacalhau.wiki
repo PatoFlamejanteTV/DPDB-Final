@@ -1,0 +1,16 @@
+{{Wikify}}
+
+{{c|Run-time error 206 at 0x37BEBADA|Compilador Pascal|{{PAGENAME}}}}
+
+O Programa Bacalhau se iniciou em 1960 quando Kubitschek, com sua doutrina de desenvolvimentismo, resolveu dar o primeiro passo aos avanços tecnológicos da futura ERP. 
+
+Nesse ano as frotas de pesca do bacalhau estavam decrementando pois o estado do bacalhau era undefined. Logo, se utilizando da técnica de cartões perfurados e um disco magnético RAMAC (Random Access Method of Accounting and Control), desenvolveram-se as primeiras técnicas de POG num bureau de serviços em informática que determinava cotas máximas da pesca do bacalhau.
+[[Arquivo:FfffGWWW.jpg|thumb|right|195px|O rei do bacalhau]]
+Para fazer o controle da pesca nos barcos e evitar que os pescadores escondessem o bacalhau na cueca eram implementados cartões perfurados nos barcos, onde se marcava o peso antes e depois da pesca. Depois os cartões eram recolhidos e ficavam em spool até todos serem processados.
+
+Devido a geniosidade de Kubitschek, o Programa Bacalhau é reconhecido no mundo inteiro como o primeiro sistema de ERP.
+
+Sistemas ERP seguem os mesmos conceitos originais do primeiro Programa Bacalhau. Atualmente estes sistemas podem ser considerados grandes e complexos Programas Bacalhau. As maiores empresas desenvolvedoras destes sistemas a nível brasileiro concentram-se na cidade de Joinville, Santa Catarina.
+
+Com o advento de softwares mais sofisticados, desenvolvidos sob a tecnologia [[POG]], programas deste tipo ganharam um espaço maior. Percebendo que era o momento para marcar definitivamente a presença da POG no ambiente de [[TI]] , o jovem talentoso [[Bill]] criou uma gama de produtos que se completaram-se mutuamente entre si.
+{{República Populista}}

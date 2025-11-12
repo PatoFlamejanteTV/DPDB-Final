@@ -1,0 +1,35 @@
+{{ver desambiguação|GNU}}
+
+{{C| Você quis dizer virgem gordinho e com tetinhas! | Google sobre GNU/Chato }}
+
+'''GNU/Chato''' é toda aquela pessoa na faixa dos 15 a 18 anos que leu o site do [[GNU|Projeto GNU]] todo, ficou deslumbrada e passa seus dias importunando listas de [[discussão]], canais de [[IRC]] com seu lero-lero filosófico. Normalmente um [[Vagabundo|membro não-produtivo da sociedade]] que começou a usar [[Linux]] recentemente (inicialmente com [[Ubuntu]]) e depois partiu para usar [[Debian]] sob indicação de algum [[Nerd|amigo]]. 
+Sente ojeriza por usuários do SUSE e Red Hat (Fedora) porque algum amiguinho falou que eles tem um negócio lá que bloqueia alguma coisa que eles não entendem o que é.
+Enchem a boca para falar que o Linux é melhor, mas na verdade tem Windows instalado na sua máquina para quando precisam fazer atividades avançadas, como navegar na internet. Ficam bravos com pessoas que não sabem a diferença entre o GNU e o Linux (normalmente  usuários de RedHat e Suse, ou mesmo de Mandriva ou Kurumin) sendo aconselhável não contrariá-las. Caso apresentem uma crise histérica peça para que vejam o changelog do último kernel ou alguma notícia sobre quando o próximo release do [[Debian]] será lançado, no [[Acre]].
+
+Outros alegam que este seria um homem de 30 anos ou mais que pensa da mesma maneira. O que piora ainda mais a situação, pois com 15 anos a pessoa mal sabe [[Punheta|melar a cueca]], então é aceitável um certo grau de [[burrice]]. Alguns dos mais velhos são politicamente ativos e tentam misturar desenvolvimento de [[software]] com posicionamento [[Política|político]]. Todos tentam mostrar que existe alguma importância metafísica no uso de software livre. Geralmente associam uma forma de santidade a pessoas como [[Richard Stallman]] e em quase todas as ocorrências usam '''[[Debian]]''' e falam [[GNU/Linux]].
+
+== Definição da Biologia ==
+[[Arquivo:Nerd boy.jpg|thumb|Momentos antes de entrar num canal sobre o projeto.]]
+Espécie de inseto em extinção. Normalmente tem entre 15 e 21 anos e não sobrevive fora do seu quarto ou em ambientes com muitas
+pessoas. Vive com a ajuda dos pais e sonha em levar uma vida de viagens pelo mundo, dando palestras vestindo um manto. 
+Só anda em bandos virtuais que se reúnem no IRC ou listas de discussão 7 dias por semana(e toda discussão particular acaba com uma indicação do canal/lista dos amigos uma vez que este não consegue vencer(ou achar que está vencendo) uma discussão sozinho).
+Não gosta de trabalhar, mas quer se tornar famoso, uma espécie de "guru", levantando teorias sobre o software dos outros (notadamente [[Linux]], que tem em seu criador alguém que vive a debochar desses tais bichinhos).
+
+== Ubuntu/Chato ou Ubuntonto ==
+
+{{C| Burros demais para usar uma distribuição Linux de verdade! |Slackusers sobre Ubuntontos}}
+
+Mais uma espécie de militontos, que se reúne ao redor do mundo, entre Launchpads, canais de [[IRC]], Listas, e no [[Jabber]](não usam outro IM porque só o Jabber é GPL). São terrivelmente mais chatos que os Gnu/Chatos vivem defendendo o [[Ubuntu]], que é Filho Bastardo do [[Debian]], e que quando não negam sua paternidade, dizem que o Pai não paga pensão e que é um velho bêbado e patético além de ser brocha. Esses seres se aglomeram pelo mundo divulgando o [[Ubuntu]] (uma reorganização do [[Debian]]) que ganhou popularidade recentemente por ser facilmente manuseável pelas (massas) com a desculpa de ser de fácil instalação pelo uso do feature LIVE CD(Mas que na verdade, na verdade, ele só tenta copiar as facilidades do R[[Windows]] (o sistema do Bill Gaytes) usando a roupagem de software livre para fazer os pseudo-nerds/geeks se sentirem poderosos), se prolifera pelo mundo a fora, criado por um dos Nerds do [[Debian]] desgarrado chamado Mark ShuttleSpaceWorthGeek, que ficou trilionário depois e vender uma carrocinha de cachorro quente pra Verisign dizendo que era uma empresa de software bacana. 
+
+Os Ubuntontos normalmente são reconhecidos por (não) contribuir (gratuitamente) para o [[Ubuntu]], traduzindo programas, e fazendo volume em canais de IRC, principalmente em uma rede de IRC predominantemente povoada de NERDS chamada FreeGeekNode, eles acham que estão contribuindo com algo nobre e que vão fazer parte de algo grande, que vai salvar suas almas aqui na terra, e encher seu ego. A maioria deles não entendem nada de computadores e nem sabem programar um videocassete, mas ainda assim insistem em usar [[Linux]] para (serem diferentes) e ganharem uma AURA NERD (com [[gpl]])(O que é realmente estranho é o fato de eles exigirem código fonte nas aplicações, uma vez que 99,999% deles jamais tentou lê-lo, e os que tentaram, nao entenderam nada). Como todos os Nerds/Geeks e afins os Ubuntontos tratam os programas de computadores como se fossem personalidades, ou amigos, sendo capazes de pronunciar frases do tipo:
+
+{{c|Eu amo [[Python]], ela torna minha vida mais prazerosa}}
+
+{{c|O que tah havendo com o gcc, parece estar de mau humor.}}
+
+Atualmente têm-se verificado uma grande proliferação de Ubuntontos em faculdades com graduação em computação e de tecnologia(Em grande parte, resultado da "ação" dos grupos de software livre dos cursos de computação, que querem pesquisar algo, mas não tem peito (leia: QI) para pesquisar IA, <s>gráficos</s> teoria dos grafos, métodos numéricos ou qualquer coisa que valha a pena). 
+Quase que na mesma proporção, encontram-se usuários de cursos que tem tudo a ver com [[Ubuntu]] (como PEDAGOGIA), pregando este *nix como a salvação da humanidade.
+O sistema Ubuntu tem várias versões, conhecidas como sabores (é de comer essa porra?), que se adaptam às preferências sexuais dos ubuntontos. Existem atualmente os sabores Xupabunto, Doukubuntu, Lustrabolabuntu e Edurobuntu. Além desses, existe o Ubuntu Mate, usado pelos gaúchos do pampa tchê, que praticam a milenar arte de tomar na (cu)íca o chá feita de erva Mate.
+
+[[Categoria:Pessoas que ninguém gosta]]
+[[Categoria:Nerds]]

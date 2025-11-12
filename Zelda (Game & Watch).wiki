@@ -1,0 +1,45 @@
+{{game}}
+
+{{Infobox Game
+|title     = Zeldinha das antiguíssimas
+|image     = Zelda minigame.jpg
+|caption   = Caixa do jogo. Na época era uma octoforce
+|developer = [[Nintendo|Não-intendo]]
+|publisher = [[Nintendo|Não-intendo]]
+|released  = 1989
+|genre     = minigame de Zelda
+|platform  = [[Game & Watch]]
+|rating    = Indefinido
+|ages      = Livre para pessoas sem miopia
+}}
+
+'''Zelda para [[Game & Watch]]''' é o nome de uma porrita de plástico, muito similar a uma calculadora de R$1,99, mas que ao invés de ter processamento para cálculos, usa essa capacidade para rodar um joguinho podre, este minigame de Zelda, que em sua época (1989) era considerado um [[mini-game]] de ponta.
+
+Por muitas décadas esse joguinho permaneceu obscuro e desconhecido do público em geral. Por ser um produto vergonhoso e de baixíssima qualidade, a Nintendo também nunca fez questão de mencionar sobre a sua existência, mas com o sucesso de [[The Legend of Zelda: Ocarina of Time|Ocarina of Time]],
+a Nintendo viu surgir uma comunidade dos denominados "zeldamaníacos", pessoas sem [[vida social]] que comprariam absolutamente de tudo que fosse de Zelda, mesmo os piores produtos (como um Zelda para Game & Watch), então o tal minigame ainda foi relançado em 1998 para um chaveirinho portátil chamado [[Nintendo Mini Classics]].
+
+== Jogabilidade ==
+
+[[Arquivo:Zelda para Game & Watch.jpg|thumb|left|Tela do jogo, precisando ser aumentada mil vezes para ser observável.]]
+
+Pela falta de botões, de processamento, de pixels na tela, de qualidade em geral e de tudo, não é humanamente possível fazer muita coisa para esse Zeldinha. Na verdade já foi até demais conseguir fazer o duende pixelado preto e branco para esse negócio, então a jogabilidade é num tosco 2D mesmo, totalmente similar ao [[Zelda II: The Adventure of Link]], que já é ruim, só que ainda mais piorado.
+
+Desde estes tempos Link já não possui cérebro, então não é capaz de executar duas ações ao mesmo tempo. Ou ele anda, ou ele golpeia com sua espada. Andar é só pra frente e pra trás, como está de saia ele tem vergonha de agachar, então se apertar pra baixo ele bebe um chá de cogumelos que restaura seus corações, que uma vez cheios permitem a Link soltar roscas com a espada.
+
+Apesar do minigame ter duas telas, como num Nintendo DS, a telinha de cima serve pra nada, mostra um mapa bugado e um inventário de 1 item só.
+
+== Enredo ==
+
+Se num jogo de [[The Legend of Zelda: Breath of the Wild|Zelda lançado em 2017]] o enredo é sobre Link ter que resgatar a estúpida da [[Princesa Zelda]], não será num Zelda de minigame de 1989 que alguma coisa será diferente né?
+
+Se há algo de diferente neste Zelda para os demais, é que o Ganondorf não é o vilão dessa vez, mas sim uma trupe de oito dragões que desejam que o [[hentai]] [[furry]] seja melhor aceito na sociedade, então eles raptam a Zelda para tentar criar o gang bang mais grotesco e bestial da história. Link deve então dar uma de corno manso e ficar enrolando e passando o tempo em 8 dungeons procurando por uns pedaços de [[Triforce|algum item irrelevante]], enquanto a Zelda é arrombada pelos dragões continuamente nesse ínterim, talvez pegando ali o seu gosto de ser raptada.
+
+{{G&W}}
+{{zelda}}
+
+[[Categoria:Jogos lançados em 1989]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Game & Watch]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos para Wii U]]
+[[Categoria:Jogos de plataforma]]

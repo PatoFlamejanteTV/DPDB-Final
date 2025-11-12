@@ -1,0 +1,46 @@
+{{nerd}}
+
+{{citar|Ah, meu filho mexe com computador, não sei o que ele faz!|Mamãe desiludida|filho programador}}
+{{citar|Huehuehue, eu sou garoto de programa!|Piada tosca de programador}}
+{{citar|"Ah, eu programava muito em Delphi, Basic ainda tem mercado?"|Pessoa de 70 anos sobre Programação}}
+{{citar|Sou muito programador!|Criança de 7 anos que usa scracth sobre Programação}}
+{{citar|Nunca entendi essas piadas de ''';'''|Desenvolvedor Python sobre piadas de Programação}}
+
+[[Arquivo:Nerdsolitario.png|thumb|300px|Programador em seu ''habitat'' natural]]
+
+'''Programação''' é a área da [[tecnologia de informação]] que mais forma nerds tetudos dentre todas as áreas da computação, que é formada exclusivamente de outros nerds tetudos e mulheres feias. A [[programador|própria profissão]] exige que o profissional seja uma bola de banha com virgindade explosiva. A programação é a parte da computação que cuida da parte de escrita de programas, e para o profissional atingir um nível ''top'' na área precisa deixar de lado a vida social, as mulheres e o próprio asseio. Não são raros os casos de profissionais da programação que criam ratazanas debaixo do sovaco encardido. O profissional dessa área é chamado de [[programador]], ou apenas gordo estranho.
+
+== O estudo ==
+
+A programação é uma ciência formada pela mistura de [[matemática]] com as [[artes]] (por incrível que pareça), que pega o que tem de pior na matemática - algoritmos, lógica, matrizes, todas essas merdas de Satanás - e o que há de pior nas artes, ou seja, tudo. O ''web design'' é um tipo de programação que usa bastante as artes, enquanto que o desenvolver puramente ''[[Front-end e back-end|back-end]]'' usa praticamente apenas matemática e suquinho de laranja.
+
+Muitos ligam a programação à engenharia, mas os engenheiros de outras áreas, ainda que da [[engenharia de software]] ou [[engenharia de computação]], não queriam se misturar com essa gentalha. De qualquer forma, a programação tem tudo a ver com a engenharia de software, e uma não poderia andar sem a outra, tornando então os programadores "engenheiros da programação".
+
+A programação é realizada através de codificação, através de linguagens de programação, mas podem ser também linguagens de máquina ou grunhido de tesão ao assistir ''[[hentai]]'' do [[The Big Bang Theory]].
+
+== Programadores ==
+
+São sujeitos livres de qualquer pecado (são virgens), habitantes do mundo do Minecraft e Dungeons & Dragons. Trabalham normalmente em empresas que criam carros sem motorista ou no conforto de suas casas após assistirem um ''hentai'' básico e tocarem o punhetão matinal.
+
+Levam muito tempo para encontrarem pessoas de sua espécie, já que qualquer pessoa que gostaria de conviver com eles também se encontram no conforto de seus quartos programando códigos que os ensinem a pegar mulheres ou homens (ninguém nunca pensou em criar um APP para isso?)
+
+== Ver também ==
+
+*[[Banco de dados]]
+*[[Gestão de projetos]]
+*[[Hacker]]
+
+
+== Vídeos ==
+<center>'''<YouTube> 
+title=If SQUID GAME was made for Software Engineers - Ep 1: Hello World!
+movie_url=http://youtube.com/watch?v=IkpZggx4yNI
+embed_source_url=http://www.youtube.com/v/IkpZggx4yNI
+wrap=no 
+width=425 
+height=344 
+</YouTube>'''</center>
+
+[[Categoria:Ciência]]
+[[Categoria:Profissões inúteis]]
+[[Categoria:Programação]]

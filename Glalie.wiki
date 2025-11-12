@@ -1,0 +1,56 @@
+{{pokedex}}
+{{gelado}}
+{{PokéBox
+| imagem = Glalie.png
+| frase = Glalie com sua típica cara de cabeça chifruda flutuante.
+| tamanho = 200
+| tipo1 = Ice
+| tipo2 =
+| pokedex = 362
+| nihongo = オニゴーリ
+| romaji = Onigohri
+| espécie =Capacete de Hockey Machão e Possuido
+| cadeia evolutiva = [[Arquivo:SnoruntSprite.gif‎|link=Snorunt|Snorunt]][[Arquivo:Seta.JPG|Shiny Stone|30px]][[Arquivo:Glalie Spr 3e 362.gif|link=Glalie|Glalie]]'''OU'''[[Arquivo:FroslassSprite.gif|link=Froslass|Froslass]]
+}}
+
+{{Você quis dizer|Máscara de [[hockey]] demoníaca flutuante}}
+{{c|Vem pro gelo que eu te arrebento todinho unclefucker... eh!|Gralie|treinador}}
+{{C|Oh Canadá terra gelada do Hockey!!!!|Gralie|país favorito}}
+{{c|Eu tenho um!!!|Ash Ketchum|Gralie}}
+{{c|É o Pokémon mais feio do Ash!!! AAAAAAAAAAAAA!!! Ash... esse bicho tá querendo me congelar!!!|Misty|Gralie}}
+{{c|Interessante|Brock|Gralie}}
+
+'''Glalie''', também conhecido como '''cabeçona estranha gigante flutuante maldita com chifres e que parece uma máscara de hockey de outra dimensão''', é um pokémon do tipo gelo criado na terceira geração. Ele é conhecido por ser uma das criaturas mais poderosas de seu tipo, mas não tanto assim já que até a [[Ash Ketchum|Mula de Pallet]] já tem um.
+
+==Dados==
+[[Arquivo:Glalie carta.jpg|thumb|left|150px|Carta de TCG do Glalie, com imagem onde ele é obrigado a eternamente suportar uma nevasca dos infernos.]]
+
+Glailies são muito grandes e feios, geralmente ficam em cavernas escuras esperando que algum treinador idiota apareça para tentar capturá-lo: os Glailies os devoram vivos com muito prazer e ainda o fazem da forma mais lenta e dolorosa possível. Eles ainda costumam devorar a alma e toda a família e amigos da vítima.
+
+Entretanto se você quer ter um Glalie sem ter que se arricar tanto, basta você pegar um daqueles estranhos monstrinhos chamados [[Snorunt]]s, que parecem  estar sempre carregando sobre si algum tipo de manto, pele ou cobertor. Por algum motivo que ninguém consegue entender, são eles que evoluem para os Glalies após chegar até o nível 42. 
+
+É desconhecido o porque deles evoluírem para monstros tão diferentes e estranhos ( assim como o paradeiro de seus pés quando evoluem ) mas imagina-se que algum Snorunt do passado tenha feito algum pacto maligno para ficar mais forte, o que explicaria a aparência demoníaca do Glailie.
+
+Recentes estudos mostram que aquela parte branca que recobre a criatura seja na verdade gelo, o que indica que, caso você tenha em mão um fósforo, um isqueiro ou mesmo um secador de cabelos, não será difícil derrotá-lo
+
+==Aparições==
+[[Arquivo:Glalie 3D.jpg|thumb|200px|Um raríssimo e único Glalie tridimensional de algum jogo qualquer.]]
+
+Nos jogos, Glailies são muito raros de serem encontrados, provavelmente para que as criancinhas mais noobs que os jogarem não precisarem dar de cara com ele.
+
+Já no anime houve um Glailie que por mais estranho que se possa parecer, foi cair nas mãos de um  certo treinador idiota de Pallet, acabando para sempre com a moral que os Glailies tinham outra hora.
+
+==Ataques==
+
+*'''Raio de Gelo''' - Um tradicional raiozinho congelante básico que todo pokémon de gelo precisa ter.
+
+*'''Cabeçada''' - Vindo de uma cabeçona gigante que flutua, esse golpe pode ser mortal.
+
+*'''Tempestade de Granizo''' - Faz um monte de pedrinhas pesadas caírem sem parar no oponente, fazendo-o ter ferimentos sérios no crânio e até hemorragia interna.
+
+*'''Ataque de chifre''' - Glalie, assim como seu pai, possui um enorme par de chifres, e os usa pra perfurar inimigos com uma investida.
+
+*'''Triturar''' - Glalie abre seu bocão enorme e mastiga com sua bela boca gelada seu inimigo.
+
+{{poke3}}
+[[Categoria:Artigos congelados]]

@@ -1,0 +1,132 @@
+{{game}}
+
+{{Infobox Game
+|title     = Contra DS
+|image     = Capa Contra 4.JPG
+|caption   = "Os tios [[Arnold Schwarzenegger|Bill Rizer]] & [[Sylvester Stallone|Lance Bean]] estão de volta"
+|developer = [[WayForward Technologies]]
+|publisher = [[Konami]]
+|released  = 2007
+|genre     = Shoot'em Up, [[Plataforma]]
+|rating    = 9%
+|platform  = Só para [[Nintendo DS]], chupa [[PSP]]!
+|ages      = Acima de 12 anos
+}}
+
+{{cgoogle|Jogo de macho}}
+{{C|Este jogo é a continuação de Contra 3.|[[Capitão Óbvio]]|Contra 4}}
+{{C|Que jogo ruim, prefiro Metal Slug.|[[noob|Moleque]] que perdeu as 5 vidas na primeira tela|Contra 4}}
+{{C|Cade o [[Save Point|Save State]] ?.|[[Noob do emulador]]|Contra 4}}
+{{C|Não tem bomba? Aff.|Jogador de Contra 3|Contra 4}}
+{{C|...e então, eles enviam quatro fodões pra cacete pra fazer o que eles fazem de melhor!|Comic do Contra 4|Contra 4}}
+
+
+[[Arquivo:Contra4cast.jpg|left|thumb|150px|[[50 Cent|Mad Dog]],[[Arnold Schwarzenegger|Bill Rizer]],[[Sylvester Stallone|Lance Bean]] e [[Evo Morales|Scorpion]]]]
+
+'''Contra 4''', [[Contra 3|após 15 anos]], o jogo difícil pra cacete está de volta, é conhecido no [[Japão]] como Contra: Dual Spirits. Para o seu [[desespero]], o jogo agora está mais [[Hard|difícil]] do que nunca, pois você tem que ser vesgo para jogar bem, o jogo usa as 2 telas do DS, e se você piscar morre. Além disso, você não tem mais bombas, [[Risada diabólica|Muahauhauhauh]].
+
+== História ==
+Dois anos após os eventos de Contra 3, Black Viper volta para aniquilar todos os homens da terra,  raptar as [[mulher gostosa|mulheres]] para procriar e espalhar a raça Alien Acreana pelo universo. Mas como isto não seria tolerável, os nossos [[herói]]s entram em ação mais uma vez.
+Desta vez acontece algo estranho, pois [[50 Cent|Mad Dog]] e [[Evo Morales|Scorpion]] que são decendentes de [[Arnold Schwarzenegger|Bill Rizer]] & [[Sylvester Stallone|Lance Bean]], estão lutando lado a lado com seus tataravôs, mas já que para vencer tudo é válido, então [[foda-se]].
+
+== Visual & Design ==
+
+Os gráficos ficaram bons, comparados a outros jogos de [[Nintendo DS|DS]]. As fases continuam [[Exterminador do futuro|plageadas]] de [[Alien|filmes]] de [[Rambo|ação]], mas mesmo assim, elas ainda acabam com você, são difíceis pra porra.
+Apesar de terem tirado as bombas, o jogo [[easy|facilitou]] a vida dos jogadores, pois colocou os upgrades nas [[apelão|armas]], se você acumular 2 armas do mesmo tipo, ela vira Ultra mega blaster forte. Mas acho que você não vai conseguir ver uma assim, porque você vai morrer toda hora.
+
+[[Arquivo:Contra4F.jpg|left|thumb|180px| Você <s>na fase do sonic</s> prestes a morrer]]
+[[Arquivo:Contra4M.JPG|right|thumb|180px|Isto é uma moto na água? Não, é um Jet Ski mesmo]]
+
+== Comandos do jogo ==
+
+Comandos:
+
+ B = Pulo
+ Y = Atira
+ X = [[Gancho do Scorpion|Grappling Hook]]
+ A = Joga a arma no chão
+ L = Troca as armas
+ R = Trava o personagem no chão
+
+Se [[você]] estiver se perguntando, para que serve travar o personagem no chão, já sei em qual [[Noob|nível]] você se enquadra. Se você não tiver bons [[Ninja|reflexos]] só vai se foder quando precisar usar o [[Gancho do Scorpion|Grappling Hook]].
+
+
+
+
+
+=== Personagens ===
+
+[[Arquivo:Contra4Stage.jpg|right|thumb|180px|Você fugindo no desespero]]
+
+* [[Arnold Schwarzenegger|Bill Rizer]] = Ex-governador da [[California]] e [[Exterminador do Futuro|ex-terminador do Futuro]].
+* [[Sylvester Stallone|Lance Bean]] = [[Rocky Balboa|Ex-lutador de boxe]] e [[John Rambo|ex-soldado]] que virou diretor de cinema.
+* <s>Bill Rizer</s> [[50 Cent|Mad Dog]] = Do [[Contra]] e [[Super Contra|Super C]]. É o Bill Rizer rebatizado pelo [[Estados Unidos|Ronald McDonalds]], hoje ele é [[Jon Hall|Diretor Executivo da Linux International]].
+* <s>Lance Bean</s> [[Evo Morales|Scorpion]] = Do [[Contra]] e [[Super Contra|Super C]]. É o Lance Bean rebatizado pelo [[Estados Unidos|Bozo]], parceiro do Mad Dog e rival do [[Sub-Zero]].
+* [[Badnik|Probotector]] = Versão europeia cibernética dos <s>dois</s> quatro acima (no ano de lançamento do primeiro [[Contra]], humanos não podiam atirar em humanos na Europa, então a [[Konami]] mandou os heróis e os inimigos em uma caravana para o [[Sub-Zero|Clã Lin-Kuei]] para se tornarem robôs).
+* Lucia = Uma <s>boneca inflável</s> guerreira cibernética, foi <s>garota de programa</s> estagiária do Bill Rizer em [[Contra Shattered Soldier]].
+* Sheena Etranzi = A única [[gostosa]] humana, amiga do [[Sonic]] em [[Contra Hard Corps]].
+* <s>Bill Rizer</s> Jimbo = É o Bill Rizer rebatizado (você já se sabe por quem) em [[Contra III The Alien Wars]].
+* <s>Lance Bean</s> Sully = É o Lance Bean rebatizado em [[Contra III The Alien Wars]].
+* Black Viper = É um vilão que não é malvado, só mata para comer.
+* Você = O único que o Black Viper come sem matar.
+
+=== Tipos de Armas ===
+
+* Metralhadora comum = Arma padrão que você sempre vai ter porque você sempre vai morrer. É a arma que atira balinhas de coco que os protagonistas roubam dos aniversários das crianças.
+* Metralhadora (M) = Metralhadora que dispara 10 milhões de bolotas vermelhas por segundo. No 2° nível são 20 milhões.
+* Spread (S) = Sempre me perguntei porque na vida real não tem uma arma que atira 3 a 5 bolas vermelhas pra td que é lado. Se você não se confundir com as outras bolas que ficam voando por aí, nem atirar no seu pé, é a melhor arma do jogo.
+* Míssil Perseguidor (H) = Lança uns míssil que perseguem os inimígos q nem mosca atrás de bosta, mas causam um dano que parece lambida de mosca em bosta.
+* Fogo (F) = A primeira arma apelona, o nível 1 é um cocô: atira roscas de fogo que grudam no seu cu. No 2º nível se torna a arma (há controvérsias) mais apelona do jogo, os aliens morrem torradinhos. Ah sim, ela solta 4 faisquinhas gays.
+* Laser (L) = Solta lâmpadas fluorecentes que atravessam paredes. Atravessam aliens também. Tem gente que diz que são supositórios mágicos. Outros dizem que são lâmpadas de botar no cu.
+* Míssel (C) = Traque que explode perto da sua cara. No 2º nível é uma bomba atômica motherfucker.
+
+No Challenge Mode há mais duas armas exclusivas:
+
+* Classic Laser = O Laser clássico do [[Contra]] e [[Super Contra|Super C]], que assim como nas versões anteriores, não serve para porra nenhuma.
+* Míssil Perseguidor Protótipo = Igual ao Missil Perseguidor (H) acima, só que com balas mais gordas e mais burras.
+
+== Bonus ==
+
+* Challenge Mode - São 40 missões cabulosas que você tem que passar para liberar tudo no jogo, mas eu tenho certeza que você nunca irá conseguir. Para abrir é necessário zerar o jogo.
+
+* Classic Contra - Jogue os dois primeiros jogos da série, [[Contra]] e [[Super Contra]], só que não espere [[Easy|moleza]], porque aqui também não tem Save State. Vença 8 challenge para abrir os jogos antigos da série.
+ 
+* Museum - Nomes, detalhes e captura de ecrã de todos os jogos criados até hoje, incluindo os lixos para PSX e PS2.
+
+* Comic Books - algumas revistinhas toscas feitas pelo criador do jogo, lançadas em 2002 para ganhar mais dinheiro pra Konami.
+
+* Sound Test - Para testar os sons do jogo, não é óbvio? Para abrir, você tem que completar os 40 Challenges, [[Risada Diabólica|Muahuahuauha]].
+
+* Interview - Entrevista com o criador do jogo, onde ele apresenta detalhes técnicos do jogo.
+
+* Personagens Extras - [[hentai|Lucia]], [[hentai|Sheena Etranzi]], [[Probotector]], Jimbo e Sully. Com exceção das 2 [[gostosa]]s, o resto são apenas os mesmos sprites com cores diferentes. 
+
+=== Challenge Mode  ===
+
+Devido a falta de criatividade da [[Konami]], existem alguns tipos padrões no Challenge Mode, vão se repetir do número 1 ao 6.
+
+* Gunplay - Você é um [[estagiário|cobaia]] e tem que testar um novo tipo de arma.
+
+* Bad Guy Blitz - É apenas um trecho da fase que você deve passar, devido a grande criatividade da Konami, a fase é idêntica a original. Parabéns Konami.
+
+* Rematch - Não satisfeitos, os [[chefão|chefões]] voltam para te detonar de novo.
+
+* Speed Run - A palavra aqui é [[correr pra caralho]], você tem que chegar num ponto específico da fase o mais rápido possível, sem tempo para piscar.
+
+* Pacifism - Atravesse a fase sem matar ninguém, de uma de [[Bento XVI|Papa]] e perdoe todos os seus inimigos, correndo e rezando.
+
+* Mutt Hunt - Mate os cachorros aliens com cara de acreanos, são poucos mas ficam numa parte bem filha da puta, sempre pra você nunca acertar tiro neles.
+
+* Accuracy - Mantenha sempre 100% de acerto nos tiros ou você falha miseravelmente.
+
+* Friendly Fire - Agora tem uns estúpidos que ficam correndo na frente dos inimigos, eles não morrem para os tiros dos aliens, mas morrem para o seu.
+
+* Low Ammo - Achou o Accuracy difícil? Então nem tente este, aqui a munição é limitada, você tem que escolher no dedo quais inimigos deve matar, e quando você pensar que acabou, vem um [[chefão]] para te foder.
+
+{{Contra}}
+
+[[Categoria:Jogos da WayForward Technologies]]
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Nintendo DS]]
+[[Categoria:Jogos de tiro em terceira pessoa]]
+[[Categoria:Jogos lançados em 2007]]

@@ -1,0 +1,49 @@
+{{Box ClubeFutebol
+|cor_clara         = gold
+|cor_escura        = red
+|brasao            = Escudo do Arsenal de Caridade.png
+|hino              = 
+|nome_oficial      = Associação Desportiva Assanal de Caridade
+|origem            = {{CE}} '''[[Caridade]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Cearense]]
+|divisao           = 3° Divisão
+|títulos           = 
+|ranking           = 
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Associação Desportiva Arsenal de Caridade''' é o único time semi-amador do amador futebol cearense, sendo uma das equipes mais tradicionais daquele estado. Disputa atualmente a sexta divisão do [[campeonato tocantinense]], a terceira divisão do campeonato amador de futebol do Ceará e a segunda divisão do campeonato da Copa Fares Lopes. Como o desorganizado futebol do Ceará, o Arsenal tem uma gestão tão confusa quanto, ninguém nunca sabe qual time vai jogar, quando vai jogar ou se vai jogar ou não ano que vem, sempre vai depender do ânimo dos peladeiros que formam a equipe amadora do Arsenal .
+
+== História ==
+=== Fundação ===
+
+O time foi criado em 2007 como filial do [[Caridade Atlético Clube]], um tradicional time de Caridade que era tão bom que se tornou pior que a filial e se fundiu depois (ou não). Disputou a Liga Caridadense de Desportos do ano em que surgiu até 2010, se ganhou ninguém sabe, afinal não há registros mais específicos, mas se ganhou mesmo pouco importa porque vale de nada.
+
+=== Falência e reabertura ===
+
+Os registros e as informações são tão confusas, que no site do Arsenal de Caridade aparece que o clube ficou inativo e falido de 2012 a 2019, mas no site da Federação Cearense o Arsenal de Caridade aparece como bi-campeão Caridadense de 2012 e 2013. O tipo de coisas que só acontece no Ceará mesmo.
+
+=== Série C Cearense de 2017 ===
+
+Em 2019 o Arsenal, mesmo com um nome que mais parece de um [[Arsenal Football Club|time inglês]] renegado, conquistou sucesso como vice-campeão de seu grupo na [[Série C Cearense]]. Se acha que a classificação foi meritosa, está bem enganado, pois o time conseguiu façanhas do mal futebol ao empatar com o [[Tianguá EC]] de [[Tianguá]], e depois empatar de novo dessa vez com o [[Maracanã FC]] de [[Maracanaú]]. Só ficou em segundo graças ao saldo de gols por ter vencido o time de pernetas do [[Calouros do Ar]] por 5x0.
+
+Na Copa Fares Lopes o Arsenal orgulhou o futebol caridadense ao ser o primeiro time de Caridade a tomar 10 gols de [[Ferroviário Atlético Clube|uma equipe cearense]]. Nos dois confrontos contra o [[ADRC Icasa]] de Juazeiro do Norte o Arsenal foi derrotado por 8x1 e depois por 14x1. Os dois gols marcados foram comemorados como títulos. E só para se ter ideia da ruindade da equipe, ainda deu adeus à competição perdendo para o [[Atlético de Cratéus]] (quem?) de Cratéus por nada menos que 5x0.
+
+{{Campeonato Cearense}}
+
+[[Categoria:Times de futebol do Ceará]]

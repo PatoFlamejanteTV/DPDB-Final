@@ -1,0 +1,35 @@
+{{Matemática}}
+
+[[Arquivo:Protesto Antivacina.jpg|thumb|Se fizer a média aritmética da quantidade de inteligência existente nesse protesto, vai dar [[zero]].]]
+
+'''Média aritmética''' é a forma mais fácil de média disponível em [[cálculo]] aritmético, designada assim pelo filósofo e matemático pitagórico [[Arquitas de Tarento]] por volta de uns 400 a.C., ou seja, tempo para um caralho, que também designou suas irmãs mais famosinhas, a [[média geométrica]] e a [[média harmônica]].
+
+== Definição ==
+
+A média aritmética de dois números ou mais é assim dita quando um determinado [[número]] é igual ao excesso numérico presente em diversos outros números em [[sequência]]. Tipo esse exemplo básico:
+
+<math display="block">x - m = m - y</math>
+
+E o cálculo ficaria assim ó:
+
+<math display="block">m = \frac {x + y}{2}</math>
+
+Ou seja, traduzindo porque em letrinhas ninguém entende mesmo, e se pá nem eu botando os números vão entender, a média aritmética entre os números 2, 4 e 6 é 2, já que 6 - 4 = 4 - 2. Olha que facinho né? Quer mais fácil que isso? <s>Pega meu telefone lá na discussão de usuário e passa um zap que nós marca pra você baixar suas calças e eu passar a rola no seu cu</s> Aí você é burro para caralho heim!
+
+== Tipos de média aritmética ==
+
+*'''Média aritmética simples''': A mais usada em contas de [[padaria]] por aí afora, é feita através da [[adição|soma]] da caralhada toda de números [[divisão|dividida]] pela quantidade de números exata que foram somados. É usada a exaustão por professores de [[aula chata]] para fazer a conta de notas baixas da sala, só pra saber mesmo também quantos otários como você foram parar na [[recuperação]].
+*'''Média aritmética ponderada''': É quase a mesma merda que acima, só que tipo, existe um [[peso]], ou seja, uma [[constante]] ou mais constantes aí enfiadas multiplicando cada um dos fatores, mas no fim a [[somatória]] final vai ser dividida pela somatória dos pesos e não pela quantidade de fatores de cima, o que torna essa média uma bosta do caralho, só usada por uns [[matemático]]s e babacas de [[estatística]] para obter um monte de dados que na real ninguém dará um puto pra nenhuma delas.
+
+== Ver também ==
+
+*[[Média geométrica]]
+*[[Média harmônica]]
+*[[Média quadrática]]
+*[[Média cúbica]]
+*[[Mediana (estatística)]]
+*[[Moda (estatística)]]
+
+{{Aritmética}}
+
+[[Categoria: Estatística]]

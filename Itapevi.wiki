@@ -1,0 +1,275 @@
+{{Cagando e andando}}
+{{DadosMunicípioBrasil
+
+<!-- Cabeçalho -->
+| nome                 = Itapevi
+| foto                 =
+| leg_foto             = itapevi
+| apelido              = Interior
+<!-- Dados gerais -->
+| brasão               = Brasão Itapevi.gif
+| bandeira             = Bandeira Itapevi.gif
+| link_brasão          = 
+| link_bandeira        = 
+| link_hino            = s:Hino do município de Itapevi
+| aniversário          = 18 de fevereiro
+| fundação             = [[18 de fevereiro]] de [[1500]]
+| gentílico            = ultima escolha
+| lema                 = ''Em caso de assalto não faça movimentos bruscos''<small>"LEI DO CÃO"</small>
+| prefeito             = Irgão Avatar Soares
+| partido              = '''PV''' (Partido dos Virgens)
+| fim_mandato          = 2016
+<!-- Localização -->
+
+| mapa                 = Itapevi2.jpg 
+| latP                 = S | latG = 23 | latM = 32 | latS = 56
+| lonP                 = O | lonG = 46 | lonM = 56 | lonS = 02
+| estado               = São Paulo
+| mesorregião          = [[Mesorregião Metropolitana de São Paulo|Metropolitana de São Paulo]]
+| data_mesorregião     = [[IBGE]]/[[2008]] <ref name="IBGE_DTB_2008">{{citar web |url=ftp://geoftp.ibge.gov.br/Organizacao/Divisao_Territorial/2008/DTB_2008.zip |titulo=Divisão Territorial do Brasil |data=1 de julho de 2008 |obra=Divisão Territorial do Brasil e Limites Territoriais| publicado=Instituto Brasileiro de Geografia e Estatística (IBGE) |acessodata=11 de outubro de 2008}}</ref>
+| microrregião         = [[Microrregião de Osasco|Osasco]] Congo
+| data_microrregião    = [[IBGE]]/[[2008]] <ref name="IBGE_DTB_2008" />
+| região_metropolitana = [[Região Metropolitana de São Paulo|São Paulo]] Ultima parada para o interior.
+| vizinhos             = '''Oeste:''' [[São Roque]]; '''Norte:''' [[Santana de Parnaíba]]; '''Nordeste:''' [[Barueri]]; '''Leste:''' [[Jandira]]; '''Sul:''' [[Cotia]] '''Sudoeste:''' [[Vargem Grande Paulista]].
+| dist_capital         = 350000000
+<!-- Características geográficas -->
+| área                 = 91,353 campos de futebol
+| população            = 200.8741 MANOS E MINAS.
+| data_pop             = est. [[IBGE]]/[[2010]] <ref name="IBGE_Pop_2010">{{citar web | url = http://www.ibge.gov.br/home/estatistica/populacao/estimativa2009/POP2009_DOU.pdf | titulo = Estimativas da população para 1º de julho de 2009| obra = Estimativas de População | publicado = Instituto Brasileiro de Geografia e Estatística (IBGE) | data = 14 de agosto de 2009 | acessodata = 16 de agosto de 2009 | formato = [[PDF]] }}</ref>
+| densidade            = 2.211,1
+| altitude             = 741
+| clima                = [[Cwa]] - [[subtropical]]
+| sigla_clima          = 
+| fuso_hor             = -3
+<!-- Indicadores -->
+| idh                  = 0.759 <!--favor manter o formato-->
+| data_idh             = [[PNUD]]/[[2000]] <ref name="PNUD_IDH_2000">{{citar web |url=http://www.pnud.org.br/atlas/ranking/IDH-M%2091%2000%20Ranking%20decrescente%20(pelos%20dados%20de%202000).htm |titulo=Ranking decrescente do IDH-M dos municípios do Brasil |data=2000 |obra=Atlas do Desenvolvimento Humano|publicado=Programa das Nações Unidas para o Desenvolvimento (PNUD) |acessodata=11 de outubro de 2008}}</ref>
+| pib                  = 1.809.328 mil
+| data_pib             = [[IBGE]]/[[2005]] <ref name="IBGE_PIB_2005">{{citar web |url=http://www.ibge.gov.br/home/estatistica/economia/pibmunicipios/2005/tab01.pdf |titulo=Produto Interno Bruto dos Municípios 2002-2005 |data=19 de dezembro de 2007 |publicado=Instituto Brasileiro de Geografia e Estatística (IBGE) |acessodata=11 de outubro de 2008}}</ref>
+| pib_per_capita       = Depende do vendedor de alho em frente a bolachinha.
+| data_pib_per_capita  = [[IBGE]]/[[2005]] <ref name="IBGE_PIB_2005" />
+}}
+
+
+{{cgoogle|[[Carapicuíba]]}}
+{{cgoogle|[[Xurupita´s Farm]]}}
+{{cgoogle|[[Morro da bala perdida]]}}
+{{cgoogle|[[Cracolândia]]}}
+{{cgoogle|[[Grand Theft Auto: San Andreas]]}}
+{{cgoogle|[[Fim do Mundo]]}}
+{{Experimente|[[Rio de janeiro e Capão Redondo]]}}
+{{C|Net Virtua? Nunca terão, Nunca!|Capitão Nascimento|Itapevi}}
+{{C|Ô Coitado,|Filomena|Povo de Itapevi}}
+{{C|Essa cidade é a melhor do mundo|[[Random people]]|Itapevi}}
+{{C|Isto non ecziste|Padre quevedo|{{PAGENAME}}}}
+{{C|Reformei a casa de um Favelado lá|Gugu Liberado |Itapevi}}
+{{C|Eu também! |Celso Portiolli |Itapevi}}
+{{C|Veio de lá o cara que me sequestrou | Silvio Santos | Itapevi}}
+{{C|Única saida da cidade foi totalmente destruida pelo desmoronamento "Impressionante" | Jornal da Record | Itapevi}}
+{{C|Itapevi, isso é apelido de gente?, Me chamem de indigente de uma vez!|Esdras (SEQUESTRADOR DE SILVIO SANTOS)|Itapevi}}
+{{C|Esse é fodão|Opinião de Chuck Noris|Itapevi}}
+{{C|Itapevi vai ser citada o ano inteiro."Isto é uma vergonha!"  |Boris Casoy  |1° chacina do ano de 2010 em Itapevi}}
+{{C|Que porra, perdemos nosso espaço.| Rockeiros, Otakus, Rastas e NERD's reclamando | a praça principal da cidade que foi <s>infestada</s> ocupada pelos funkeiros do <s>CABARÉ</s> danceteria ''Boulevard'' 18.}}
+{{C|"Tá dominadú, tá tudo dominadú", é nóis memu mané, as cócótinha tá em peso na praça, os pirigueti tá a solta, a 18 é nossa.|<s>Indigente,</s> funkeiro|Itapevi}} 
+{{C|Essa cidadezinha do barulho vai te colocar em altas confusões que até Deus duvida.|narrador da sessão da tarde|Itapevi}}
+{{C|Na União Soviética Itapevi faz piada de você.| [[Reversal Russa]]|Itapevi}}
+{{C|Lan House ou Igreja evangélica?| Duvida tipica dos moradores empreendedores|Itapevi}}
+{{C|Esse lugar é abençoado por DEU"$" irmão aproveita, computador é coisa do capeta...| resposta do pastor da nova igreja Universal|Itapevi}}
+{{C|Bela vista, jardim angela, Heliopólis, Itapevi...|Racionais cantando|Itapevi}}
+{{C|Filho vamos mudar para uma cidade menos pior, lá tem cinema e McDonald's.|Jandirense|Itapevi}}
+{{C|Antes uma cidade sem cinema e McDonald's do que uma com uma mini cidade de Deus  <s>AREIÃO</s> |Resposta do jandirense|Itapevi}} 
+{{C|Se depender de mim, ninguém dessa cidade ganha 1 milhão.|Silvio Santos| Itapevi}}
+{{C|Por que isso não e considerado interior?|Você|Itapevi}}
+{{C|Vou para São Roque para economizar no pedágio| Qualquer pobretão da capital paulista |Itapevi}}
+{{C|Nunca ouvi falar!!! | Qualquer morador da capital paulista |Itapevi}}
+{{C|Estação terminal... Itapevi | Maquinista da [[CPTM]] - com voz fantasmagórica - | Itapevi}} 
+{{C|Que porra de cidade é essa caraio? | Dercy Gonçalves | Itapevi}}
+{{C|This is FAVELA!!!| Leônidas| Itapevi}}
+{{C|Jamais moraria nessa cidade! |Qualquer morador de Aldeia da Serra | Itapevi}}
+{{C|Fui eu que fiz!!! | Paulo Maluf | a Cohab de Itapevi}}
+{{C|Fica no litoral, né? | Carla Perez | Itapevi}}
+{{C|E ninguém tá nem aí, - Itapevi... | RZO | Itapevi}}
+{{C|Só num podi andar cuns mão branca |Favelado no ônibus | Itapevi}}
+{{C|Ah, eh, Itapevi é a capital da Suíça, né?|[[Carla Perez]]| Itapevi}}
+{{C|Limpe seu nome sem pagar a divida |Spc e Serasa |Itapevi}}
+{{C|Ah, Itapevi é aquela cerveja, né?| Um outro fatecano qualquer | [[Itaipava]]}}
+{{C|Tomei um susto hoje do tiu da BATATA!quase morri do coração.| Sacoleiro | Itapevi}}
+{{C| O Pizzaiolo judiou de mim!| Indiano Manjib | Não conseguir mais sentar}}
+ 
+
+{{nota:|[[Carapicuíba]] não é '''Itapevi''', seu [[idiota]]!}}
+
+'''Itapevi''' é uma cidadezinha no cu da Grande SP (literalmente). Em seu último censo, o IBGE contabilizou 200 mil manos dentre os quais (95%) são nordestinos vivendo na "quebrada", 4% se encaixam na categoria gente e o 0,05% infelizmente não conseguimos dados porque eles agrediram os pesquisadores e furtaram suas carteiras e 0,05% de novos ricos que fazem monopolização do comércio local.
+
+== História de Itapevi ==
+[[Arquivo:coelhoavenida.jpg|thumb|left|220px| Arquitetura barraqueira no Suburbano de Itapevi, casas de alvenaria são um luxo.]]
+[[Arquivo:Transamazonica222.jpg|thumb|220px|right|Trânsito em Amador Bueno em dia de chuva]]
+Itapevi foi emancipada, motivo pelo qual passou da categoria bairro (de [[Cotia (Cidade)|Cotia]]) para a categoria de cidade, sendo batizada com o nome de uma espécie de gorila. Isso viabilizou o nome da estação de trem, que deixava todo mundo confuso.
+
+Antigamente (por volta de 13500 X 10¹²), quando esta horrenda cidade foi fundada, pouco antes da vizinha Osasco, paulistas de outras regiões apelidaram esse troço de "cidade buraco", "matadouro" (por causa do frigorífico) "fim da linha" e "[[cu]] do mundo". Com o tempo, a situação foi ficando cada vez mais punk. Cotia se desfez de Itapevi porque sabia que ponto final de trens de subúrbio só dá merda, o que realmente aconteceu nos anos 80.
+
+
+Na década de 80 (entre 1984 e 1986), Itapevi muda radicalmente. Paulo Maluf construiu a Cohab (e as casinhas de gesso e isopor com suas paredes que caiam com voadoras), e com isso toda a <s>escória pobraiada</s> pessoas carentes da capital paulista se mudaram para lá junto com seus familiares que ainda moravam no nordeste (e também para a vizinha Carapicuíba). Foi nessa época que os poucos inafortunados fazendeiros que ainda tinham terras nesta cidade resolveram lotear tudo em pequenos terrenos de 125m² e vender para a massa falida (antes que fossem ocupadas por "sem-terras", "sem-teto" e "sem-porra-nenhuma"), que ocuparam esta cidade com sua linda arquitetura barraqueira de <s>casas</s> favelas, suspensas nos morros (muita gente do rio de janeiro veio parar aqui também).
+
+
+
+{{fato|todo itapeviense sonha morar em Barueri ou Osasco.}}
+
+{{fato|Todo Itapeviense que usa roupa da Hollister e tênis Nike Shox ou Air Max acha que é rico"}}
+
+== Infra-estrutura ==
+
+Itapevi tem 450&nbsp;km de vias públicas, porém, apenas 8% delas tem asfalto (quando tem, é esburacado).
+
+Também tem dois trens: um que vai (pro inferno), outro que volta (do inferninho).
+
+Possui um terminal de ônibus com três vias. Onde se encontram mais camelos do que ônibus. 
+
+
+== Cultura ==
+
+  [[Arquivo:nome2 do ficheiro.jpg|thumb|left|220px|Pseudo <s> From Uk </s> em Itapevi chamasse From Guetto.]]
+
+                                                                                                                                                                                            [[Arquivo:nome do ficheiro.jpg|thumb|right|220px|Essa foto resume o nivel cultural da cidade]]
+
+
+[[Arquivo:EmoComum.jpg‎|thumb|right|220px|Emo <s> mano</s> de <s> guetto </s> Itapevi]]
+Infelizmente a cultura em Itapevi é deprimente algo realmente preocupante, recentemente pesquisadores do IBGE  apontaram que o QI dos moradores está dividido em sub grupos, lembrando que o Qi de uma pessoa normal está na media de 98 :
+
+*'''Mano do Gueto ou "aba reta" não confunda com o boné "aba reta é = <s> baiano </s>   Qi = <font color=#EC2300> - 75</font>'''
+*'''Babuíno Stand Blaster Qi = 0,25'''
+*'''Emo <s>pseudo From Uk ou Otaku</s> Qi = 24'''
+*'''Drão <s>Jão, Vagabundo e Prostituta, Nóia e Brizadão</s>  Qi = 000,1'''
+*'''Nerd, Estelionatário Qi = 169,69'''
+*'''Atores e Atrizes do espaço 960° = 200 (contanto apenas para as habilidades de estelionatários, golpistas e prostitutas (muitas que se formam acabam se graduando e indo trabalhar na Love Story em outra cidade usando das artimanhas de atuação para serem putas sem que ninguém perceba, pelo menos é o que elas pensam.) 
+
+Especialistas alertam que esses dados são preocupantes devido ao fato da única biblioteca da cidade ter sido fechada, o que não contribui muito para esses dados já que 95% da população <s> manos </s>  são analfabetos, esquizofrénicos ou comem comida feia com a água da Sabesp que é puro cloro (PARECE REFRI DE SÊMEN).
+Alguns acham que a culpa dessa merda toda é dos redutos Favelisticos Periféricos aonde a massa está  mais exposta como: Club Q <s> Casa de Swing, Fumódromo Holandês, Ringue de Vale Tudo </s> e no Boulevard 18 <s> Prostibulo infantil, Zoológico humano ou Portal do Inferno </s> lá a qualidade sonora é tão grande que além dos timpanos seu cérebro também é deturpado flagelando a massa cinzenta, transformando você em um  autêntico babuíno da era  MESOZÓICA, isso se você tiver sorte de sair de lá ileso.
+E não é só isso, os aba retas <s> baianos </s> é uma espécie em grande peso na cidade você os reconheçe com muita facilidade; eles sempre pegam o carro velho do pai  <s> popular caindo aos pedaços </s> fazem o favor de terminar de estragar o coitado rebaixando o mesmo e colando uma merda de adesivo: Ex " Equipe Noiz é muito Otario" mais isso ainda não é nem
+de perto o pior, essa criaturas sub-desenvolvidas transitam na '''Night''' <s>se é que isso existe lá </s> com o veículo cheio de macho, todos estão com a cabeça pra fora da janela como se nunca tivessem entrado em um carro antes, o som é "psy" no talo já que a massa cefálica dessas antas foi comprometida, para o aba reta  <s> baiano </s>  só existe três tipos de música isso segundo eles: Psy, Black e Funk ele pode escutar <s>  Jungle, Minimal, House,Progressive, Alternative ou Drum and Bass </s>  . Quando questionado pra ele tudo é Psy... é assim que eles vão atrás das <s> piriguetis </s> para o ritual do acasalamento.
+Também temos o Paga de Boy essa classe além de alienada é digna de pena, reconheçê-los é simples pois sempre estão acompanhados de uma moto  <s>VÉIA MAS TÁ PAGA</s> Titan qual ele parcelou no carnê em 60x sem entrada com ajuda do pai já que a renda dele não é suficiente para isso, alias ele é um fudido, o único bem desses seres desprovidos de tudo <s> pobre </s>  é <s> a merda </s> é a moto. O vestuário é igual a do aba reta "China Town Style" ou Paraguay Wear. Se acham "o ser mais Cool do planeta" por terem a capacidade de arrancar o miolo do escapamento, entregarem pizza a noite, descolar as <s>Maria Gasoza</s> interesseiras, ficar o dia interio puxando ferro e tomando GH pra ficar bombado <s> BROXA </s> pra ir <s> fritar </s> na Tribe.
+Agora você deve se preocupar com "Os vida loka <s> jão,drão,matador</s>" eles são visto em maior número no período noturno, não os encarem a não ser se você porte uma HK ou uma PT, caso contrário disfarçe e atravesse para o outro lado da rua, não se apavore e saia correndo a especialidade deles é atirar pelas costas já que a maioria não tem princípios, são cuzão é covardes eles se pareçem muito com os otários que vivem deletando esse artigo por inveja, eles não conseguem pensar então tentam vandalizar e destruir, culpam a sociedade por serem excluído achando que o dinheiro trás conteúdo uma vez vida loka pra sempre vida loka. 
+
+[[Arquivo:Receptor da tv digital goiania.jpg|thumb|150px|A grande capacidade do Itapeviense em driblar contas mensais e prestadoras de serviços é algo surpreendente, veja nessa imagem que o <s>MALDITO</s> Itapeviense usou até de linhas de costura para fazer de sua gambiarra algo realmente útil e satisfatório para si. Consideramos que não é preciso pagar pela TV digital, basta comprar um conversor ou uma TV que possua essa função, mas espere! Antes de formatar sua opinião por estarmos falando de um itapeviense que não pagou nem pela televisão muito menos pagará por um conversor, ele prefere estimular seus dons gambiarrentos para se prevalecer até mesmo em um serviço gratis, concluindo que malandro é malandro, mané é mané, e itapeviense é itapeviense.
+Podemos realmente aprender com essa foto que a preguiça e a falta de dinheiro podem trazer enriquecimentos eletrónicos na parte da gambiarra de um jeito e forma que somente Itapevienses podem ensinar.]]
+
+== Economia ==
+[[Arquivo:metroitapevi.jpg|thumb|left|300px|Futuras instalações do Metro em Itapevi]]
+[[Arquivo:Economia itapevienseok.jpg|thumb|right|220px|Marketing de um morador Itapeviense]]
+[[Arquivo:Comércio popular de itapevi.jpg|thumb|right|220px|Itapeviense comprando no comércio local]]
+
+A economia Itapeviense é composta por:
+* Novos ricos moradores dos arredores como Alphaville e Aldeia da Serra com “complexo de Massachusetts” abrem seus comércios na região;
+* Devido  á manufatura e mão de obra escrava mais acessível Itapevi e o berço das indústrias;
+*Açougues aonde você encontra a melhor e devidamente selecionada carne de Gato da regiã;o;
+* San, San Supermercados San;
+* 10% do Dizimo das igrejas evangélicas corruptas, a Universal itapeviense é a única que contribui com 60% do dizimo dos <s>trouxas</s> fiéis;
+* Esmolas de Mendigos;
+* Vendedores de Alho em frente à Estação Itapevi;
+* Lojas de R$ 1,99;
+* Vendedores de Moranguete, Dupi e Hall's no Trêm e estações;
+* Venda de tintura de cabelo colorida (para os emos malditos);
+* Guardadores de carros (que ajudam os ladrões;
+* Vendedores de cd´s e dvd´s cafonas (para a massa nordestina e carioca;
+* Lojas de departamentos da elite periférica como "Lojão do Brás" "<s>Dosmanos</s> ou melhor Demanos" e entre outras como "Casas Bahia";
+* Um grande número de Lan House já que a inclusão digital não chegou até aqui;
+* O que chama mais atenção um Shopping que é menor que a minha casa e ainda sim consegue pegar fogo;
+* Pizzarias;
+* McDonald's da família Caramez;
+* Posto BR todos também da família Caramez;
+* Vendedores ambulantes do pontilhão, todos também funcionários da família Caramez;
+* Ciganos, que na cidade tem passe livre para anarquizar, dirigir sem carteira de motorista e só em Itapevi e em nenhum outro lugar do mundo eles possuem cassa de alvenária movéis;
+* Tio da batata, um vendedor que fica gritando "BATATA" da maneira mais aburda possível assustando as pessoas no centro, mas que vai se eleger para vereador e *Óbvio irá ganhar devido a burrice dos eleitores de Itapevi;
+* Banana Piercing: a mini lojinha de tattoo com nome genérico babuíno tem com missão extraordinária dominar todo território de Itapevi, <s>Xurupita´s Farm</s> transformado os em "pseudo descolados" motherfucker junkies com qualidade duvidosa é preço elitista essa porra se acha grande merda, mas manipular um povo alienado e falido e sem cultura; Isso até o Bozo consegue fazer, já que é típico de um bando de zé ruela ficar babando ovo de meia duzia de "pseudos" tatuadores, <s>nem aqui nem na tchecoslováquia</s> que fez a 1° tattoo ontem, em troca de um mísero rabisco mal feito.
+
+
+{{fato|o "gorrinho" de barriloche é a ultima moda em Itapevi, todo <s>baiano aba reta</s> mano tem um.}}
+
+
+[[Arquivo:Linha B4800-aCPTM.jpg|left|thumb|300px|TUE Série 4800 da [[Companhia Paulista de Trens Metropolitanos|CPTM]] (que serve como <s>NAVIO NEGREIRO</s> meio de transporte de objetos, traficantes, prostitutas e nordestinos, isso quando o mesmo funciona devido a sua tecnologia da era paleozoica vive==  quebrado ou em manutenção, Quando funciona é por milgre de Deus.  [[Linha 8 da CPTM|Linha 8]] - Itapevi?Inferno), e vice e versa não necessariamente nessa mesma ordem, o <s>Navio Negreiro</s> ou melhor trem == foi costumizado pelos "Os gemêos" em um ato de caridade a pedido de um Artista Plástico que prefere permanecer anônimo com medo de sequestradores e afins, como 95% da população Itapeviense nunca viram o mar, esse trem anda com as portas abertas e faz a alegria da mulecada nos fins de semana, foi nesse trem que o "SURF TRAIN STYLE" surgiu e vem sendo imitado em todo pais, principalmente no Rio de Janeiro.]]
+
+= Pontos Turísticos =
+
+
+'''Se você por algum infortunio da vida vier parar em Itapevi não deixe de visitar:''' [[Arquivo:Surfista de trem de Itapevi.jpg|thumb|220px|Itapevi: O berço do "SURF TRAIN STYLE."]][[Arquivo:Pccband.jpg|thumb|220px|Típico morador do Areião.]]
+[[Arquivo:pobre0002.jpg|thumb|220px|Vencedora do 3° concurso "Banho de bacia" realizado no areião em 2009.]]
+'''Retudo dos Emos''' Igreja Renascer: onde os emos seguidores da seita: dinheiro, seita ouro, seita jóias, seita tudo se encontram para <s>CHORAR</s> Orar...
+* '''Prefeitura''' onde os vereadores sem ensino médio ganham  <s>ROUBAM</s> o mesmo que pós graduados.
+* '''ItaShopping''': Point dos manos e das minas à noite.
+* '''Estátua do Cristo Redentor''': Imitação fajuta do Cristo Redentor do RJ, e onde o pessoal costuma fazer macumbas, orgias, presságios, círculos de orações, etc... (sim, já foram vistos alguns vereadores fazendo rituais cabalísticos nesta estátua!!!)
+* '''Pedágio''' do km 33 da Castello Branco (um roubo!)
+* '''Poste da ex-biblioteca municipal''': Falta do que fazer vai lá tomar um choque...
+* '''Estádio Municipal''': para ver o clássico entre Caveira e Calção Arreado.
+* '''Consulado da pizza''': Não fique até fechar porque sempre tem uma briga e você corre um sério risco de levar uma saraivada de balas!
+* '''Club Q''': Onde você ouve músicas educativas como as de Tati Quebra Barraco e ver a dançarina local Etiene Vitorino conhecida como a obesa do efeito sanfona (pois vive emagrecendo e engordando, se você abraçar ela, é capaz de escutar um forró), pode também conhecer pessoas do mesmo garbo e elegância de Esdras, sequestrador de Silvio Santos, resumindo a maioria são pessoas de bem, foi de lá que surgiu a inspiração para o nome da comunidade no orkut [http://www.orkut.com.br/Main#Community?cmm=48953301] '''Ou tem cérebro ou dança créu. '''
+* '''CEMIP''': onde você ouve clássicos do RockNRoll, como NXZero, Fresno, Cine e todas essas boiolices de jovens sem cultura apoliticos...
+* '''Rodeio''': Todo ano é uma saraivada de balas!
+* '''Av. Rubens Caramez''': onde você se sente na 25 de Março.
+* '''Viaduto central''': O viaduto central é utilizado para passagem dos carros para o outro lado da cidade e como comércio. Embaixo dele fica o famoso pontilhão.
+* '''Pontilhão''': Comércio popular embaixo do viaduto central, onde os manos e minas faveladas compram roupas piratas da pior qualidade, com logos da Hollister, abercrombie e outras marcas para se mostrar na rua e na escola. Já que seu QI baixo lhes permitem fazer tal idiotice. 
+* '''Praça 18 de Fevereiro''': Um local "familiar" aonde as tias vendem "Hot Dog" contaminado, retardados sempre fazem pregações, emo <s>Otakus</s> choram, funkeiros dançam o créu, os manos xavencam as <s>piriguetes</s> as minas,Maconha,maconha e maconha, os roqueiros enxem a cara e as criancinhas <s>marmanjos</s> bricam no parquinho, E aonde Funkeiros arrumam treta com rockeiros frequentemente as sextas-feiras. esse fenômeno aconteçe tudo junto é misturado supervisionados pela guarda municipal que   <s>fica coçando</s> cuidando da segurança do local.
+* '''Pronto-Socorro <s>funerária</s>''': Lugar onde se acredita ter atendimento de saúde, o atendimento costuma ser rapido com tempo de espera médio de 4 horas, portanto, se for uma emergência procure um cemitério .
+* '''Padarias''': onde você pode ser assaltado e ainda tomar um cafezinho.
+* '''Ginásio de Esportes''': Atual sede da [[Igreja Universal]], alugada por alguns milhões de <s>almas</s> ou <s>votos</s> Reais, que vão direto para o bolso da Pré-feita...
+* '''Pista de Skate''': Reduto dos integrantes de bandas emos paga pau de bandas como Nx Zero, Fresno e Cine vão lá <s>chorar</s> e tirar fotos de mal gosto pra fazer edição mal feita no photoshop pra ficar o dia inteiro pedindo <s>IMPLORANDO</s> para meninas virgens ficarem dando ibope pra esses merdas, já que a música é o que menos importa pra esse bando de <s>VIADINHO</s> emos. "Saiba mais sobre essa praga dos inferno acessando os links ao lado ~>  [http://desciclo.pedia.ws/wiki/Emo] [http://desciclo.pedia.ws/wiki/From_uk] [http://desciclo.pedia.ws/wiki/Otaku]
+
+= O famoso AREIÃO =
+[[Arquivo:Cristo Itapevi.jpg|thumb|left|220px|Cristo Redentor de Itapevi]]
+'''Não confunda com o areião do Cimenrita animal.'''
+
+[[Arquivo:Favela areião.jpg|thumb|right|220px|Foto áerea do areião]]
+[[Arquivo:coisinha do pai.jpg|thumb|left|220px|Primeira vencedora do concurso "BANHO DE BACIA".]]
+Reduto de nordestinos anarquistas que por não estarem dispostos, e com muita <s>PREGUIÇA,</s> vontade de viver em sociedade, invadiram o lugar em 22 de abril 1503 para não pagarem contas de água, impostos e futuramente luz, telefone e carnês das "CASAS BAHIA" por essa razão vivem em condições sub-humanas por opção e não querem que o governo interfira. Por mais que isso seja ruim para as pessoas que vivem em volta desse <s>inferno</s> lugar, eles não ligam de deixar seus filhos pequenos andarem pelados na rua e criarem porcos no mesmo espaço, nós da '''"desciclopédia"''' estamos terminando um estudo onde iremos provar que eles são uma raça de seres humanos sub-desenvolvidos e que ainda não aprenderam a viver em sociedade.
+O grau de ignorância do lugar é uma coisa impressionante, lá um simples bom dia para um desconhecido pode ocasionar na morte de toda sua família e amigos, contudo "ALERTAMOS" se for passar na frente do areião sempre ande com "RG", cabeça baixa e em linha reta, jamais... jamais olhe para trás, essas são dicas valiosas que podem salvar a sua vida.
+Mas o lugar não é só coisa ruin não, lá acontece o concurso, "BANHO DE BACIA" onde garotas lindas e maravilhosas ficam de roupas de banhos em poses sensuais dentro de uma bacia.
+Com a chegada das Lan-houses e com isso conhecimento de marcas famosas como "FATAL", "GANGUE", "NEW BALANCE" alguns moradores estão deixando o lugar para aprenderem <s>Se é que vão conseguir</s> viver em sociedade.
+Acreditasse que há um ditador no lugar impondo as pessoas a esse estilo de vida, graças ao depoimento de ESDRAS (SEQUESTRADOR DO SILVIO SANTOS) para os conhecidos o ITAPEVI, conseguimos essa informação.
+== Dados importante e curiosidades sobre o Areião ==
+
+*Segundo nossas pesquisas, dentre 10 e 15 anos, o areião terá a população atual de Itapevi, 200,000 habitantes.
+
+* 95%  todos os seus moradores tem o nome SUJO no SPC e SERASA, ENORME ficha criminal e porte ilegal de arma, o PCC sempre e visto recrutando por lá.
+
+*Eles estão pensando em construir um muro para vangloriar o modo de vida dos que lá vivem, segundo informações estão escondendo meumbros da Alquaeda no lugar!
+
+*A expectativa de vida dessa comunidade também é bastante curiosa, quando entram no "SUB-SUB-SUB" mundo do areião o que eles chamam de <s>'''BOCADA</s> Farmacia popular, garotos de 12 anos vivem até 12 anos de 18 anos até 18 anos e assim sucessivamente.
+
+*As mulheres são muito férteis e movidas a músicas sensuais sem valor social e moral <s>FUNK CARIOCA</s> procriam como coelhas tornando o areião cada dia mais povoado.
+
+*O areião é a única comunidade Brasileira onde todos os seus moradores tem o nome <s>SUJO</s> no banco de dados do SPC e SERASA.
+
+*O nome "AREIÃO" surgiu em 1856 quando "Tisiu cápenga'''" morador ilustre do local construiu uma praia artificial no quintal com 2 metros de areia <s>ROUBADOS</s> comprados no depósito de construção da região, como 99,8% de todas as pessoas que já viveram no <s>inferno</s> Areião nunca viram o mar, "Tisiu Cápenga" criou uma cultura onde o grande luxo dos <s>BARRACOS</s> lares do areião é terem 2 metros de areia no quintal, a bacia foi introduzida em 1960 por Maria Chica graças a liberação feminina.
+{{Contador}}
+<font color=#0000FF><small>Número de crianças que nascem no areião só no tempo que você permaneceu on-line nesse artigo. E subindo!, '''*ESSA MENSAGEM É DE USO EXCLUSIVO DE CARLA PEREZ:''' Se você sair do artigo as crianças não vão parar de nascer tudo bem? </small></font>
+
+= O dia em que um Itapeviense brilhou e parou o Brasil. =
+
+
+
+
+[[Arquivo:FERNANDODUTRA.JPG|thumb|150px|<s>Batoré</s> {{PAGENAME}} e o seu jeito conquistador]]
+Fernando Dutra [[Pênis|Pinto]] conhecido também como Spider Man foi um sequestrador fodido que parou o [[Brasil]],no mesmo ano em que as torres gêmeas foram derrubadas nos [[EUA]],ficou muito conhecido em ter sequestrado [[Patrícia Abravanel]] filha do apresentador e múmia viva [[Silvio Santos]],foi morto covardemente em [[2002]],depois de agentes penitenciarios colocarem leite no veneno dele.
+
+== História ==
+Nascido em [[guarulhos]] {{PAGENAME}} tem [[mais de oito mil]] irmãos, sempre foi muito inteligente aprendeu a fazer sua 1° [[Divisão|continha de dividir]] aos [[19]] anos de idade, e esqueceu como se fazia aos [[21]],devido o uso excessivo de [[maconha]],era conhecido como don juan por causa da sua [[xaveco|lábia]]. 
+
+== Minuto de fama ==
+Itapevi esperou Patrícia Abravanel na saída da faculdade dela após muita conversa, convenceu ela de ir a um [[motel]] com ele, depois de <s>dar 5 sem tirar de dentro</s> algum tempo no motel anunciou o sequestro, o sequestro percorreu durante alguns dias, depois de ser efectuado o pagamento do resgate, Patrícia foi finalmente liberada, não sossegado {{PAGENAME}} retorna a casa de Patrícia pra [[Sexo|resolver algumas pedências com ela]],depois de flagrar {{PAGENAME}} com a sua filha [[Sílvio Santos]] resolve chamar a policia, e {{PAGENAME}} é encurralado no barraco de Sílvio Santos, Fernado decide então que só vai se entregar depois de dar uma com o então governador de São Paulo [[Geraldo Alckmin]],depois de dar uma Fernando é preso, e tem a sua morte é declarada alguns meses depois.
+
+<references />
+
+== Ver também ==
+
+*[[Sonia Abrão]]
+
+*[[Brasileiro]]
+
+*[[Sequestro]]
+
+*[[SBT]]
+
+*[[Jandira]]
+
+
+
+{{São Paulo}}

@@ -1,0 +1,56 @@
+{{game}}
+
+{{Infobox Game
+|title     = {{PAGENAME}}
+|image     = Power League 64.jpg
+|caption   = Olha a base!
+|developer = [[Hudson Soft|Hudson]]
+|publisher = [[Hudson Soft|Hudson]]
+|released  = [[1997]]
+|genre     = [[Beisebol]]
+|rating    = 0%
+|platform  = [[Nintendo 64|ULTRAAAAAAAAAAA SIXTYYYYYYY FOOOOURRRRRRR!]]
+|ages      = Livre
+}}
+
+{{c|Os caras são mais quadrados que tudo!|Qualquer um|os batters}}
+
+'''Power League 64''' foi o último (acho) jogo da série [[World Class Baseball|Power League]]. Com o sucesso no [[PC Engine]] com 6 jogos da série e com o sucesso no [[SNES]] com 4 games ([[Super Power League 4]] tem o chip [[SPC7110]], um chip de decompressão de vídeo), a [[Hudson Soft|Hudson]] criou mais três jogos para os cosoles da quinta geração: Power League para [[PlayStation|PolyStation]], [[Super Power League FX]] para o console [[PC-FX|Hentai]] e este jogo que é Power League 64. Feito em [[1997]] pela Hudson Soft.
+
+==O jogo==
+
+O jogo contém como sempre, o logo da Hudson no início dos games da empresa (e a sua [[abelha]] infame). O jogo começa bem, mostrando personagens com partes do corpo montadas, e sem faces desenhadas. O jogo mostra uma partida com o BlueWave vs. Gaints na introdução. Após ver a Intro, você terá os modos de jogo.
+
+==Modos de jogo==
+
+* Open: Jogue uma partida amigável com 1 ou 2 jogadores;
+* Pennant: Administre um time com jogos agendados pelo game;
+* Watch: Assista uma partida de beisebol com dois times;
+* HR Race: É o Home Run Contest. Escolha com 10, 20, 50 ou 100 rebatidas! Pode ser jogado com 1 ou 2 jogadores;
+* Edit: Edita a ordem de Batters e Pitchers de cada time;
+* Option: Confiugura várias opções (lógico...), porém, em japonês.
+
+==Times==
+
+* Gaints
+* Dragons
+* Carp
+* Swallows
+* Tigers
+* Whales
+* Bluewave
+* Fighters
+* Lions
+* Buffaloes
+* Marines
+* Hawks
+* Orions
+* Central All-Stars
+* Pacific All-Stars
+
+{{Power League}}
+
+[[Categoria:Jogos da Hudson Soft]]
+[[Categoria:Jogos para Nintendo 64]]
+[[Categoria:Jogos de esportes]]
+[[Categoria:Jogos lançados em 1997]]

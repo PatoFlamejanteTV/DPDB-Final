@@ -1,0 +1,57 @@
+{{Matemática}}
+{{c|Os fins justificam os meios|Nicolau Maquiavel|{{PAGENAME}}}}
+{{c|7 - 3 <nowiki>=</nowiki> 2 |Aluno|questão após saber que o resultado era 2}}
+{{c|[[Risada diabólica|Hwahahahahahaha!!!]]|Banca do Vestibular|{{PAGENAME}}.}}
+{{c|Não é feitiçaria, é tecnologia|Feiticeira|{{PAGENAME}}}}
+{{C|Já passei muito por isso...|[[Burro]]|{{PAGENAME}}}}
+{{C|Eu não!|[[CDF]]|{{PAGENAME}}}}
+{{C|Nãão! A fessora tá vindo na minha carteira!|Você entrando na Teoria do Desespero}}
+
+'''A Teoria do Desespero''' consiste em criar uma resposta para problemas inexplicáveis naqueles [[5]] minutos finais da prova do vestibular ou de Equações Diferenciais, principalmente desta última.
+
+== Introdução ==
+
+Também conhecida como "Teorema do Forçamento", é muito usada por matérias que exigem cálculos complexos como [[Matemática]], [[Física]] e [[Química]], a teoria do desespero é a base das questões de vestibulares por todo o [[Rede Globo|globo]]. Sendo obsevada em maior percentagem na matemática.
+
+<center><math>N_P=276+0 \cdot \frac{666^{666}+2 \cdot 899+\mathbb{H}+\gamma \cdot \mathbb{N}-\lambda+666^3+\sqrt{88965546515135118}}{\int_\gamma^\infty3 \cdot \gamma^2+11+\aleph^2+\arccos 90^{(\sin\dot{a})} \cdot \hat{a}+\sqrt{\Psi'}+2^{c^2}+666}</math></center>
+
+Para o exemplo acima era necessário chegar ao resultado 276 e, desta forma, conseguiu-se através de algo completamente lícito na matemática, multiplicação por 0 transforma qualquer coisa em zero, até infinito se os astros estiverem alinhados com a segunda questão de cada enunciado.
+
+Esta teoria é a que melhor exprime matematicamente a frase de [[Maquiavel]], ''"Os fins justificam os meios"''. Justamente por isto a ideia é chegar ao resultado, pois a [[matemática]] vive de resultados, o processo para se chegar a eles é um [[Peixe|mero]] gasto de lápis, muita, muita borracha e cérebro, este último [[você]] não tem muito para gastar.
+
+== O funcionamento ==
+
+[[Arquivo:Simmonsscream.jpg|thumb|right|210px|Desepero. "O seu tempo acabou. Entregue a prova."]]
+
+A ideia por trás da '''Teoria do Desespero''' ainda é um pouco obscura, mas o que se sabe é que os últimos minutos de uma prova de matemática, principalmente de [[Cálculo]] IV, [[Matemática Computacional]] e [[Eqüações Diferenciais]] são transformadores na vida do ser humano, isto se ele ainda é um ser humano neste ponto. Ao olhar a sala quase completamente vazia e o professor já se arrumando para encerrar a prova, o aluno cria uma espécie de sétimo sentido sim, pois o sexto já se desenvolveu nos minutos anteriores da prova e, desta forma, ele consegue mentalizar aquele ''numerozinho'' que faltava para a conta ''fechar''.
+
+Este ''numerozinho'' pode ser determinado de várias formas como, por exemplo, com aquela ''pescoçada'' na prova do aluno vizinho, ou até mesmo com aquele ''lembrete'', erroneamente chamado de cola, que estava acidentalmente posicionado, de maneira estratégica, com chiclete por baixo da carteira. Além disto, pode-se utilizar a renomada teoria do [[Poof, a teoria|''"Não existia, Poof, agora existe."'']] e, com esta fabricar tudo o que for necessário para o ''fechamento'' da conta e, por consequência, gabaritar qualquer prova.
+
+De qualquer forma, como dito, a maneira mais comum é utilizar a ''mentalização'' e buscar o número que faltava, mesmo se for preciso discutir 45 minutos com o professor no dia da entrega da prova para mostrar que você conseguiu racionalmente chegar ao resultado.
+
+== Na prática ==
+
+Como visto, a Teoria do Desespero é utilizada para simplificar cálculos matemáticos. Vejamos um exemplo prático. 
+
+* Para se calcular a área do Círculo tem-se <math>A=\pi*r^2</math>
+  
+Tomando r = 20cm. Temos:
+:*<math>A = \pi \times 20^2</math>
+:*<math>A = \pi \times 400</math>
+:*<math> \textstyle A = 1256 cm</math>
+
+Cálculo usando a Teoria do desespero:
+ 
+Tomando R = 20cm. Temos:
+:*<math> \textstyle A = 1232.86 + \pi + 20</math>
+:*<math> \textstyle A = 1256 cm</math>
+
+Veja que foi necessário um ''mero detalhe de 6 dígitos'' para determinar a resposta, mas este foi facilmente criado utilizando um dos métodos citados acima e, após isto, foi fácil realizar uma conta merabolante, não importando como, determinando assim o resultado.
+
+== Ver mais ==
+
+*[[Acoxambramento]]
+
+[[Categoria:Matemática]]
+[[Categoria:Teorias|Desespero]]
+[[eo:la Malespero]]

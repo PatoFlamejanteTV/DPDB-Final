@@ -1,0 +1,51 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Papéis, Por Favor
+|image     = Papers Please cover.jpeg
+|caption   = Capa do jogo
+|developer = 3909 LLC
+|publisher = 3909 LLC
+|released  = 2013
+|genre     = Checagem de pronomes
+|rating    = 5/10
+|platform  = PC barato
+|ages      = Livre
+}}
+
+{{c|Artigos, Por Favor|Google Translate|Papers Please}}
+
+'''Papers, Please''' (''"Do'''cu'''mentos, Por Favor", em tradução livre''), em  é um jogo eletrônico [[indie|independente]] de qualquer noção e bom senso das ideias com qualidade gráfica comparável com [[Tibia]], do gênero de simulação e estratégia. Em '''Papers, Please''', o jogador assume o personagem de um inspetor de imigração da [[punheta|gloriosa]] nação de [[Arstotzka]] (saúde!).
+
+==Enredo e Jogabilidade==
+Encerrada uma guerra de 6 anos entre Arstotska e Kolechia, [[você]], <s>pacato</s> cidadão da [[mentira|desenvolvida e livre]] nação de Arstotska, ambientada numa <s>nem tão</s> fictícia [[Cortina de Ferro]] na década de 1980 e fora convocado pela Loteria do Trabalho ([[ou não|aparentemente um método bastante transparente e honesto de seleção para vagas de emprego]]) para prestar serviço como inspetor de imigração da cidade de <s>[[Berlim]]</s> Grestin, cuja parte leste ou oriental pertence à Artostska, e a ocidental, à Kolechia.
+
+Você, como inspetor, tem um [[chato|empolgante]] trabalho de conferir as documentações e, se necessário, [[voyeurismo|inspecionar]] e [[tortura|interrogar]] os que imigram para sua [[não|querida]] nação. Com o dinheiro que você recebe, você tem que gerenciar suas finanças e sustentar sua família (esposa, filho, sobrinha, tio e infelizmente, sogra).
+
+Muitos com irregularidades nos documentos irão pedir para que deixem passar, outros irão oferecer [[propina|um cafézinho]] inclusive. Você inclusive será convidado a colaborar com uma organização que visa derrubar o governo de Arstostka. Mas, graças ao [[merda|excelente]] salário que você recebe e à [[ironia|qualidade de vida e liberdade de expressão]] de seu país, você é estimulado à não se desviar de suas funções.
+
+==Jogabilidade==
+As regras para quais documentos devem ser apresentados mudam todos os dias, e os documentos que poderão ser checados são os seguintes:
+
+*'''Passaporte'''
+*'''Bilhete de Acesso''', para estrangeiros
+*'''Identidade''', para cidadãos de Arstotska
+*'''Licença de Entrada''', para estrangeiros
+*'''Visto de Trabalho''', para estrangeiros
+*'''Certificado de Vacinação'''
+*'''Nota Fiscal do [[George Foreman Grill]]'''
+*<s>'''[[Propina]]''', para o fiscal</s>
+*'''Um frasco de sangue de virgem'''
+*'''Um [[pirocóptero]]'''
+*'''[[Bola quadrada]]''', para o [[Kiko]]
+*'''Uma garrafa de [[corote]]'''
+
+{{PapersPlease}}
+{{Puzzle}}
+
+[[Categoria:Jogos lançados em 2013]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para iOS]]
+[[Categoria:Jogos para PlayStation Vita]]
+
+[[es:Papers, Please]]

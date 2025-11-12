@@ -1,0 +1,54 @@
+{{Matemática}}
+{{Verbete}}
+
+{{C|Ora (direis) ouvir quadrados...|[[Olavo Bilac]]|Estrela}}
+
+'''Quadrado''', em [[Matemática|matematiquês]], pode ser tanto o ², quanto o [[Vagina|órgão genital]] da [[hipotenusa]], quanto à [[Geometria|forma geométrica]].
+
+== ² ==
+
+[[Arquivo:Vácuo.jpg|thumb|Quadrado [[incolor]]. Agora qual deles...]]
+O símbolo <sup>[[2]]</sup> indica elevado à dois, ou seja, pode significar tanto subir pro 2º andar quanto subir dois andares (não se sabe ao certo). Os matemáticos que desenvolveram esse símbolo também não sabem porque escolheram o [[2|dois]] para representar a operação, mas receia-se que confundiram o [[42]] com [[42|4²]]. O ² é responsável por quase 98% das [[Reprovação|reprovações em vestibulares]], pois os estudantes esquecem o que [[Nada|aquele símbolo representa]], e acabam multiplicando o número em questão por dois.
+
+== O quadrado da hipotenusa ==
+
+O quadrado da hipotenusa é um dos maiores mistérios da matemática, pois ninguém sabe encontrá-lo. Todas as pessoas que tentaram se perderam no caminho. Hoje em dia é fácil obrigar a hipotenusa a mostrar seu [[Buceta|quadrado]], com aquela fórmula e tudo mais, mas antigamente só na [[Estupro|base da força bruta mesmo]]. Este quadrado também é uma das maiores causas de reprovação, mas no [[Ensino Médio]], porque é praticamente impossível decorar aquela fórmula.
+
+=== A fórmula ===
+
+* <Math>\int_{a}^{b} \, f(t)\ dt \  = \infty</math> significa X
+* <Math>\int_{-\infty}^{\infty} \, f(t)\ dt \  = \infty</math> significa que [[f]] vem depois do [[e]].
+* <Math>\int_{-\infty}^{\infty} \, f(t)\ dt \  = 1</math> significa [[porra nenhuma]].
+* <math>\sum_{i=0}^{\infty} \, f(i) = x</math> significa que alguma coisa é igual a X.
+* <math>\sum_{i=0}^{\infty} \, f(i) = \infty</math> significa o que você comeu (ou vai comer) no almoço de hoje.
+
+Assim,
+
+:<math>\mathbf{c}^2 = (2^{\aleph_0})^2 = 2^{2\times{\aleph_0}} = 2^{\aleph_0} = \mathbf{c},</math>
+:<math>\mathbf c^{\aleph_0} = (2^{\aleph_0})^{\aleph_0} = 2^{{\aleph_0}\times{\aleph_0}} = 2^{\aleph_0} = \mathbf{c},</math>
+:<math> \mathbf c ^{\mathbf c}  =  (2^{\aleph_0})^{\mathbf c}  = 2^{\mathbf c\times\aleph_0} = 2^{\mathbf c}.</math>
+
+<choose><option>Entedeu? Não? [[Foda-se]].</option><option>Fórmula recomendada pela [[Desciclopédia]] para utilização em provas.</option></choose>
+
+== A forma geométrica ==
+[[Arquivo:Abstract_square.jpg|thumb|Quadrado [[arte abstrata|abstrato]].]]
+É uma das formas geométricas mais difíceis de desenhar(precisamente, a segunda mais difícil, depois do [[círculo]]), pois precisa de exatamente [[4]] linhas retas perfeitas, coisa que quase ninguém faz. É bastante utilizado para encontrar a área de [[bola]]s, estádios de futebol, planetas e relacionados. Descoberto por matemáticos [[árabe]]s, seu formato original simples o deixou à margem da [[trigonometria]] e [[Globo|astro]][[Cérebro|neuro]][[Física|fisio]][[Necrofilia|logia]] primordiais e primitivas. Contudo, a busca por novos elementos com conotações [[sexo|sexuais]] acabou elevando o quadrado (mais precisamente sua quina) à condição de ''super star'' pornô.
+
+==Ver também==
+
+*[[Quadrado Mágico (futebol)|Um exemplo de quadrado]]
+*[[Quadrado Mágico (matemática)|Idem]]
+*[[Dança do Quadrado|O que você pode fazer com um quadrado]]
+
+{{formasgeometricas}}
+[[Categoria:Figuras geométricas]]
+
+[[cs:Kruh]]
+[[sk:Kruh]]
+
+[[en:Circle]]
+[[es:Cuadrado]]
+[[fr:Cercle]]
+[[ja:円 (数学)]]
+[[ko:동그라미]]
+[[pl:Okrąg]]

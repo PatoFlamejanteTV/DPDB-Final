@@ -1,0 +1,70 @@
+{{magnético}}
+{{física}}
+[[Arquivo:Livro que faz chorar.jpeg|thumb|300px|Até o [[Chuck Norris]] choraria...]]
+{{vqd|Magnetismo?}}
+{{experimente|[[Suicídio]]}}
+{{c|Um dia você aprende...|Shakespeare|eletromagnetismo.}}
+{{c|Não!|Estudante de engenharia|citação acima.}}
+
+O [[eletromagnetismo]] é uma perturbação que será constante em sua vida...
+
+==O que é==
+[[Arquivo:Fórmula.jpg|thumb|235px|left|Não entendeu, não é?]]
+[[Arquivo:Fórmula 2.jpg‎|thumb|230px|left|Observe como faz sentido.]]
+No estudo da [[física]], o eletromagnetismo é nada mais que um modo de complicar ainda mais as coisas tentando fazer a junção de duas ciências diferentes. O [[desocupado]] da vez é o senhor James Maxwell que tentou e <s>infelizmente</s> conseguiu obter mais uma dor de cabeça juntanto o [[magnetismo]] à [[eletricidade]]. Essa teoria sem fundamento de Maxwell baseia se no conceito igualmente fundamentado do Campo eletromagnético (veremos isso depois).
+
+Infelizmente ([[ou não]]) com o passar do tempo Maxwell deixou de ser sóbrio (e algum dia ele foi?) e não pode assim concluir sua teoria, mas como sempre há alguém disposto a terminar uma [[merda]] começada, as teorias fora continuadas pela geração seguinte, Maxwell Filho, ajudado por Oliver Heaviside, o responsável por deixar por escrito todas as fórmulas da tal teoria, que só por acaso foi considerada a maior inovação do da física no século XIX (quanta criatividade). 
+
+Tal descoberta posteriormente levou a um melhor entendimento da natureza da [[luz]], ou seja, pôde-se entender que a luz é uma propagação de uma perturbação eletromagnética, ou melhor dizendo, a luz é uma <s>perturbação</s> onda eletromagnética. Essas teorias doidas nunca param por si só e sempre dão um jeito de alavancar ou inspirar outras teorias, no caso, a teoria do eletromagnetismo deu o alvará para o princípio da teoria da relatividade de [[Albert Einstein]].
+
+===O campo eletromagnético===
+Na física do eletromagnetismo, um campo eletromagnético é um campo ([[O RLY]]?), esse campo é composto de dois vetores campo: o campo elétrico e o campo magnético (prefiro o de [[futebol]], cadê?)
+
+Os vetores que caracterizam esses dois campos possuem um valor definido a cada ponto no espaço e tempo (ou seja, um valor indefinido). Se apenas o campo elétrico (E) não for nulo, e é constante no tempo, esse campo é denominado campo [[eletrostática|eletrostático]]. E e B (o campo magnético) são unidos pelas Equações de Maxwell.
+
+Dizem que a variação do fluxo magnético resulta em um campo elétrico (fenômeno conhecido por indução eletromagnética). Semelhantemente, a variação de um campo elétrico gera um campo magnético. Devido a essa (suposta) interdependência entre campo elétrico e campo magnético, faz sentido falar em uma única entidade chamada campo eletromagnético (não faz não).
+Campos eletromagnéticos podem ser explicados com base quântica pela eletrodinâmica quântica, sendo assim, se você quiser saber mais detalhes vai num artigo que fala sobre eletrodinâmica e aprende.
+
+==A força eletromagnética==
+[[Arquivo:Queda de raio.jpg|thumb|250px|left|A queda de um raio na visão de um físico.]]
+A [[força]] eletromagnética é uma das quatro forças fundamentais (não me pergunte para que), essa força faz parte do <s>[[lado azul da força]]</s> do grupo dos [[4]] junto com a força [[gravidade|gravitacional]], a força nuclear forte e a força nuclear fraca (força fraca?).
+
+A força eletromagnética para a tristeza de todos está ligada a todos os fenômenos físicos (maldita física), dessa forma ela está totalmente ligada a nós através do cotidiano, apesar de que ninguém anda medindo a [[velocidade]] média dos [[carro]]s ou a discrepância de carga dos [[raio]]s.
+
+Cabe ressaltar (ou não) que, conforme a eletrodinâmica quântica (lá vem ela de novo), a força eletromagnética é resultado da interação de cargas elétricas com [[fóton]]s (e o quico?).
+
+==O eletromagnetismo clássico==
+[[Arquivo:Queda de raio2.jpg|thumb|240px|A queda de um raio na visão de um ser humano normal.]]
+Como nem tudo na vida são flores, em mil oitocentos e ... o [[desocupado|cientista]] William Gilbert tentou jogar [[água]] no melado de muita gente que <s>perdia o tempo</s> estudava o eletromagnetismo ao dizer que o magnetismo e a eletricidade causavam efeitos distintos, portanto não poderiam ser unidos de tal forma. Entretanto, a própria natureza deu um jeito de [[morte|calar]] William lançando lhe um raio sobre a cabeça. 
+
+Mais tarde, esse mesmo raio, tão afamado por "destruidor de [[bússola]]s", foi inspiração para os profundos estudados e experimentos de Benjamin Franklin. Mas, Franklin chegou atrasado, anos antes o estudioso Romagnosi já havia tentado e conseguido fazer uma relação entre corrente elétrica e magnetismo com um experimento <s>de primário</s> que ligava uma pilha a um fio e mostrava como essa força interferia no ponteiro da bússola; para a desilusão de Romagnosi, ninguém deu a mínima para sua droga de experimento e esse conceito só ficou conhecido quando um outro cara bem mais famoso fez a mesma coisa e recebeu todo crédito.
+
+Muita gente perdeu tempo com estudos físicos sobre o eletromagnetismo até o século XIX, até que surgiu Maxwell, que juntou toda [[lixo|papelada]] acumulada durante os séculos anteriores e disse ter formado sua própria teoria. No eletromagnetismo clássico, o campo eletromagnético obedece a uma série de equações conhecidas como equações de Maxwell, e a força eletromagnética pela Lei de Lorentz (...).
+
+Uma das características do eletromagnetismo clássico é a dificuldade em associar com a mecânica clássica (por que será que isso não me espanta); naquela época eles queriam que todas as forças físicas fossem associadas, o que seria impossível, vai que elas não se gostam... [[Tio do Jackie Chan|Mais uma coisa]], forças distintas não podem ser relativas mesmo que haja alguma teoria, como a da relatividade relativa entre elas (entendeu? É, eu também não).
+
+==O efeito fotoelétrico==
+Saindo de Maxwell e indo para Einstein, voltamos às grandes dúvidas em relação à veracidade das teorias clássicas do eletromagnetismo, ou seja, o período clássico nesse aspecto físico só serviu para atrapalhar (como sempre)... A teoria de Einstein sobre o efeito fotoelétrico (que não tem nada a ver com o que estava sendo dito) diz que além dos impulsos eletromagnéticos a luz também tem um comportamento corpuscular (não sei o que é). Através de sua pesquisa, Max Planck (não era o Einstein?) mostrou que qualquer objeto emite radiação eletromagnética discretamente em pacotes <s>de U$$ 1,37</s>, ideia que leva a teoria de [[Radiação]] de Corpo <s>Negro</s> afrodescendente. 
+
+Todos esses resultados estavam em contradição com a teoria clássica (não me diga) da luz como uma mera onda contínua. As teorias de Planck e Einstein foram as causadoras da <s>sua dependência em física</s> teoria da mecânica quântica (desgraçados), a qual, quando formulada em 1925, necessitava ainda de uma teoria quântica para o eletromagnetismo.
+
+==Unidades==
+[[Arquivo:Campo elétrico.jpg‎|thumb|280px|Campo eletromagnético ao redor da terra que possibilitou a vida, nem é importante...]]
+As unidades relacionadas ao eletromagnetismo são várias e variadas, portanto vamos citar apenas algumas mais básicas (já que se eu citar as complexas você não vai entender nada mesmo).
+
+*'''i''' de corrente, medida em Ampère, '''A'''.
+*'''V''' de tensão (sem piada), medida em Volt, também '''V'''.
+*'''R, Z''' e '''X''' de resistência, impedância e reatância, medidas em <s>[[Jeremias|<font title="aqui pode ter piada">cabra-</font>]]</s>Ohm, '''Ω'''.
+*'''C''' de capacitância, medida em Farad, '''F'''.
+*'''κ''' de condutância, medida em Siemens, '''S'''
+
+Ao ponto de partida que nele equivale a um ovo lançado de um certa distancia essa distancia tal ela, Tua mãe é tão gorda que se tiver um chroma key atrás dela dá pra fazer um filme sobre Júpiter, que tenhe a medida de um copo de milkshk
+
+==Utilidade prática de tudo isso==
+Fora as utilidades inúteis como endoidar bússolas e deixar marinheiros perdidos, fazer com que raios caiam em pontos altos (ou na sua cabeça), não há muita coisa que o eletromagnetismo possa fazer por você, afinal de contas ele nem presta pra nada.
+
+Só por um acaso, o eletromagnetismo é apenas um dos maiores responsáveis pelo poder do centro gravitacional que mantém a [[Terra]] estável e a gravidade apropriada; ele é o dito culpado por nós não estarmos mergulhados numa deliciosa lava vulcânica; ele só é o infeliz responsável pela luz e sua chegada até nós e também por todos os meios de transmissão como as ondas, enfim, é só isso que ele faz (é muito pouco, quase nada). Você deve odiá lo, pois ele é o desgraçado que não deixa você brincar de voar e ainda pegou você no detector de metais não deixando assim que você assaltasse o [[banco]] de sua cidade (bem feito).
+
+{{Forças fundamentais}}
+
+[[Categoria:Eletromagnetismo|*]]

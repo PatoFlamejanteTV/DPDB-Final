@@ -1,0 +1,43 @@
+
+{{game}}
+
+{{vqd|3-D só na vista aérea}}
+{{c|Que que há de 3D aqui?|Qualquer um|{{PAGENAME}}}}
+
+'''Maze Hunter 3-D''' é um joguinho de labirinto do jeito meio espadachin (porém, com um pau, Uuuuii!) no qual tem que ficar batendo em inimigos. Feito em [[1987]], pela [[Sega|Empresa que precisa de usar ocúlos 3-D mesmo quando não precisa]].
+
+{{Infobox Game|title = Maze Walker
+|image               = Maze Walker JP.jpg
+|caption             = Porrada!
+|developer           = [[Sega|CEEEEEEEEEGAAAAAAAAA!!]]
+|released            = [[1987]]
+|genre               = [[Labirinto]] (se o nome é Maze, o animal!)
+|rating              = 1%
+|platform            = [[Master System]]
+|ages                = Livre
+}}
+
+== o game ==
+
+O game consiste em você escapar de vários labirintos e bater nos bichos, amebas, e outras coisas. Você pode achar vários itens especiais como shiriukens, uniformes e sapatos. Outros serão itens que podem desaparecer inimigos para levarem todos as profundezas do inferno mais rápido.
+
+== Worlds ==
+
+São vários os mundos que tem aqui:
+
+* Metal Area: Mundo que é todo eletrônico e futurista;
+* Rugged Area: Mundo no qual tudo é quente
+* Jungle Area: Labirintos com tema da selva [[Floresta Amazônica|amazônica]]
+* Ice Area: Mundo no qual tudo é gelado (ou então Morra!!!!!!!!!!!!!)
+* Blaze Area: Mundo no qual fode tudo em todos os aspectos! É o mundo mais perigoso do game (por ser o último)
+
+== Ver também ==
+
+* [[Master System]]
+* [[SegaScope 3-D]]
+* [[Sega|CEEEEEEEEEEEEEEEEGAAAAAAAAAAAAAAAAAAAA!!!]]
+
+{{sega}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Master System]]

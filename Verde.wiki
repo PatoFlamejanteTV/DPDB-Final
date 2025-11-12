@@ -1,0 +1,51 @@
+{{esboço}}
+{{Hippie}}
+{{Vegetal}}
+
+O '''Verde''' é uma [[cor]] que se refere a uma coloração referida a um pigmento que nunca amadurece, que provoca [[vômito]]s, mas que não é gay como o [[rosa]], o [[amarelo]] e o [[violeta]] (até porque é "filho" do [[azul]], mas provoca os vômitos por ser também do [[amarelo]]), e que representa a [[natureza]], as [[floresta]]s, o [[tabaco]], e no caso da bandeira [[jamaica]]na e a [[maconha]].
+
+[[Arquivo:Hulk.jpg|thumb|Verde por natureza.]]
+[[Arquivo:Poison Ivy.jpg|thumb|Essa sim é verde por natureza.]]
+
+
+== Fatos Sobre o Verde ==
+[[Arquivo:Lybia.gif|thumb|O "Verde" [[Líbia|em sí.]]]]
+
+
+
+*É a cor que nunca amadurece. Mesmo no [[outono]].
+*Está presente na bandeira do [[Brasil]], por tanto é brasileiro, meu rei.
+*Nos [[mapa]]s, representa zonas de [[vegetação]].
+*É a cor do [[Palmeiras]].
+*É a cor do [[Hulk]], 
+*É a cor do dia de todos os dias do [[Green Day]].
+*É a cor da bandeira da [[Líbia]]. É a única bandeira do mundo que não tem outra cor porque aquela bicha do [[Muammar al-Qaddafi]] mandou.
+*Fique alcoolizado ao extremo, e vomite. Observe aquele líquido bilial no meio de seu próprio vômito. É verde? Se é, você comeu [[grama]].
+*É a cor do Greenpeace
+*É a cor da Maconha
+*Com certeza você já fumou aquela coisinha verde.
+*É akela coisinha que você adora comer quando sai do seu nariz.
+{{cores}}
+<css>
+#globalWrapper {color:#008800;}
+#bodyContent {color:#008800;}
+a { color:#004400;}
+a:visited { color:#005500;}
+a:new {color:#006600;}
+h1 { color:#008800;}
+h2 { color:#008800;}
+h5 { color:#008800;}
+</css>
+
+[[cs:Zelená]]
+[[Categoria:Artigos do bão]]
+
+[[da:Grøn]]
+[[de:Die Grünen]]
+[[en:Green]]
+[[es:Verde]]
+[[fi:Vihreä]]
+[[nl:GroenLinks]]
+[[no:Grønn]]
+[[pl:Kolor zielony]]
+[[zh:绿色]]

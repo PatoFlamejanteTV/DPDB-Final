@@ -1,0 +1,71 @@
+{{SBT}}
+{{Entrevista}}
+[[Arquivo:operadorsom.jpg|thumbnail|right|Operador acionando o sistema de risadas do Chaves.]]
+'''Sistema de risadas''' tipo ''DVAS'' (Dog Voice Activated System), ou seja, ativado por voz de cachorro. É utilizado em inúmeros programas televisivos do [[SBT]], incluindo [[El Chavo del Ocho|Chaves]], [[A Praça é Nossa]], [[Eu, a Patroa e as Crianças]], dentre outros. 
+
+Esse mecanismo veio suprir as falhas dos '''sistemas de risadas''' ativados por grito (''SAS'' - Scream Activated System, anteriormente utilizado pela [[Praça é nossa|A Praça é Nossa]]) e ativados por armas (''GAS'' - Gun Activated System, utilizado pelo [[Zorra Total]]). É atualmente o único '''sistema de risadas''' que não causa riscos à vida humana.
+
+==História==
+[[Arquivo:cachorro.jpg|thumbnail|right|[[Roberto Gomes Bolaños]] teve a ideia de criar o sistema de risadas do Chaves ao observar que os cachorros sorriem o tempo todo.]]
+O primeiro '''sistema de risadas''' foi desenvolvido por [[Carlos Alberto da Nóbrega]] para ser utilizado no programa [[A Praça é Nossa]]. 
+
+Consistia em um arcaico mecanismo eletrônico que aplicava choques na plateia em momentos-chave do programa. A cada choque, o público emitia gritos, de maneira a simular risadas. Devido a diversas críticas e pressões, houve necessidade de aperfeiçoamento. 
+
+Foi quando, na década de 1970, com o surgimento do [[Chaves|programa do Chaves]], que [[Chespirito]] criou um novo sistema de risadas que se utilizava de latidos de cachorros. Esse novo sistema surgiu graças às observações de [[Chespirito]]. "Percebi que os cachorros viviam sorrindo. A partir daí tive a ideia", ressalta. A comprovação científica veio quando os gráficos sonoros de risadas de cachorros e seres humanos foram comparados. "Eram idênticos", confirma o orgulhoso [[Chespirito]].
+
+Misturado aos latidos havia também efeitos <s>do [[corpo do benito]]</s> de bolas de [[boliche]] atingindo os pinos durante um strike em uma partida no qual possivelmente Seu Madruga estava jogando, dando esse efeito tão peculiar nos efeitos das risadas.
+
+==As Gravações==
+Você deve estar se perguntando como as gravações que tocam foram feitas, não é mesmo? De qualquer maneira vou explicar. Obviamente que não poderiam basear-se nas piadas do programa, pois caso contrário as gravações sairiam mudas, com barulhos de grilo ou até mesmo com choros. O mecanismo usado foi muito simples e engenhoso: Consistia em distribuir um computador com acesso à internet e gravador de voz embutido para cada um dos figurantes, e a seguir ordená-los a acessar o site da [[Desciclopédia]], o que explica as risadas sem graça e sem esdrúxulos.
+
+==Funcionamento==
+O sistema é acionado por um operador contratado, o [[Pepe (Chapolin Colorado)|Pepe]]. A cada momento em que há necessidade de riso Bolaños manda [[Pepe (Chapolin Colorado)|Pepe]] apertar o [[Cu|botão]] de um cachorro falando {{aspas|Pepe, já tirei a vela!}}
+
+==Certificados==
+O sistema de risadas do Chaves é o único que não põe vidas humanas em risco, diferentemente do sistema do [[Zorra Total]] e o primeiro sistema utilizado pela [[A Praça é Nossa|Praça é Nossa]]. É possuidor de certificados tanto da '''Comissão Nacional de Direitos Humanos''' quanto da '''Assosiação Brasileira de Proteção aos Animais'''.
+
+== Pra quem quer ouvir as risadas do Chaves ==
+[[Arquivo:ClaqueChavesChapolinv-2.ogg|thumb|center|Risadas normais]]
+[[Arquivo:ClaqueChavesChapolinv3.ogg|thumb|center|Risadas de 1992/1993]]
+
+Só não se esqueça de reservar um kit de primeiros socorros antes de ouvir as risadas, ou você sofrerá [[Surdez|as consequências]].
+
+==Vídeo==
+<Youtube>
+title=Risada engraçada de um velho com as risadas do chaves no fundo: 
+
+movie_url=http://www.youtube.com/watch?v=HiQfBNuHJic
+
+embed_source_url=http://www.youtube.com/v/HiQfBNuHJic
+
+wrap=no 
+
+width=400 
+
+height=400
+</Youtube>
+
+==Vejam como foi gravada as risadas do Chaves==
+<Youtube>
+title=Vejam como foi gravada as risadas do Chaves: 
+
+movie_url=http://www.youtube.com/watch?v=5LvNjgLm2W8
+
+embed_source_url=http://www.youtube.com/v/5LvNjgLm2W8
+
+wrap=no 
+
+width=400 
+
+height=400
+</Youtube>
+
+== Risadas Externas ==
+
+*[http://www.youtube.com/watch?v=dWz8VU6oghA&feature=related Ah, tem uma risada do CHAVES também]
+
+{{Risadas}}
+{{Chaves2}}
+
+[[Categoria:Humor]]
+[[Categoria:SBT]]

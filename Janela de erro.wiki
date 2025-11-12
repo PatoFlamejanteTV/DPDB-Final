@@ -1,0 +1,25 @@
+{{DISPLAYTITLE: }}
+{| align="center" bgcolor="#A9A9A9" width="50%" cellpadding="0" cellspacing="0" border="2"
+|- bgcolor="#00008B"
+| <font face="system" color="white" >Janela de Erro!</font>
+| width="15" bgcolor="#A9A9A9" style="border:2px outset #A9A9A9; border-color:#A9A9A9; background-color:#A9A9A9" | <font color="#A9A9A9">.</font>[[Inferno|<font color="black">'''x'''</font>]]
+|- Bgcolor="#D3D3D3" width="50%"
+|  An error occurred while trying access:
+'''www.pornozaoCabuloso.com.br/videos/downloadxxx/'''<br>
+Error code: #S3-FUD3U
+<br><br>
+If you want to restart your computer press: '''Ok'''<br>
+If you want to logoff press: '''Ok'''<br>
+If you are one idiot, press: '''Ok'''<br>
+Se você não sabe ler inglês aperte: '''Ok'''<br><br>
+<center>[[Special:Random|<span style="border:2px outset #A9A9A9; border-color:#A9A9A9; background-color:#A9A9A9"><font color="black">'''OK'''</font></span>]]</center>
+!
+|}
+
+<css>
+      #siteNotice { display: none; }
+      #footer{ display: none; }
+      #catlinks{ display: none; }
+</css>
+[[Categoria:Ciência da computação]]
+[[Categoria:Páginas que se parecem com o que elas são]]

@@ -1,0 +1,28 @@
+{{computeiro}}
+{{citar|Vagabundo! Vagabundo!|Kassab|protocolo UDP, pois não recebeu a droga de sua encomenda online}}
+{{citar|Ai, eu prefiro evitar a fadiga|Protocolo UDP|ter que entregar um pacote corretamente}}
+[[Arquivo:Mandou-chegou.jpg|thumb|300px|O que normalmente ocorre com um pacote UDP]]
+O '''UDP''' ('''U'''nidade '''D'''emorada e '''P'''reguiçosa) é um protocolo de rede, que serve como entregador de cartas dos [[Correios]], e por isso um ou outro pacote sempre acaba sumindo, indo parar em outro canto da [[internet]].
+
+== Características ==
+
+Como se sabe, possui a função de carteiro dos Correios brasileiros, ele é totalmente não confiável, assim nunca se saberá se os pacotes foram enviados ou entregues. Apesar disso, ele é bem rápido, claro, é só pegar o pacote e catapultar; onde chegar, chegou.
+[[Arquivo:JaiminhoCarteiro.jpg|thumb|250px|left|O protocolo UDP prefere evitar a fadiga a ter que sair de seu conforto e ter que entregar um pacote em outro canto na internet]]
+O protocolo UDP normalmente usa o esquema de "transferência de responsabilidades", o que significa que em vez de entregar os pacotes ele simplesmente manda o [[estagiário]] fazer. Ele não faz a menor questão de corrigir os problemas do pacote. Se ele vir que há um erro no endereço, em vez de tentar descobrir, simplesmente abre o pacote e vê se tem algo valioso pra trocar por [[crack]] no Beco da Saudade.
+
+O protocolo UDP não faz a comunicação fim a fim, assim, não é necessário que o receptor receba mesmo o pacote pra ele ganhar o salário. Ele também não ordena ou sequencia pacotes, então se um dispositivo requer uma coleção de revistas em quadrinhos, certamente a revista final chegará primeiro que a revista inicial, e o receptor tomará um baita [[spoiler]]. É o protocolo de transporte mais folgado da rede.
+
+== Funcionamento ==
+[[Arquivo:Carteiro bêbado dormindo.jpg|thumb|300px|Como o UDP não tem a necessidade real de entregar uma encomenda, é possível que ele acabe indo pra outra camada da rede só pra tomar uma cervejinha, e foda-se o pacote]]
+Aqui há uma pequena diferença entre o UDP e um carteiro [[brasileiro]]; ele só entrega pacotes de a porta estiver aberta. No caso do carteiro, normalmente o pacote voa pela janela, e quebra o vidro. No caso do UDP, se a porta de disponibilização do receptor estiver fechada, simplesmente o UDP vai embora. No caso do servidor estar com as portas fechadas, ele nem sai de casa.
+
+O UDP possui um cabeçalho, que é tipo o seu itinerário (ou [[mapa]]); se ele não tiver isso esquece qual o lugar que tem que ir. No cabeçalho se tem o local da origem, que é o correio, sendo opcional o carteiro colocar isso afinal acho que ele deve saber pra onde deve voltar; o local de destino, que é o cliente que nunca recebe a encomenda; o tipo do produto propriamente dito e seu peso; e uma caneta para corrigir os erros, mas que o carteiro UDP nunca usa.
+
+== Ver também ==
+
+* [[TCP]]
+* [[Modelo OSI]]
+* [[Jaiminho]]
+
+[[Categoria:Protocolos de rede]]
+[[Categoria:Vagabundos]]

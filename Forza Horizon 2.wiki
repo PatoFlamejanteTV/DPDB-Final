@@ -1,0 +1,41 @@
+{{Infobox Game 
+|title     = FraqueZa Horizonte 2
+|image     = Forza Horizon 2.png
+|caption   = Capa da versão paraguaia do jogo
+|developer = [[Playground Games]]/[[Turn 10 Studios|Turn Down for What]]
+|publisher = [[Microsoft Studios]]
+|released  = 2014
+|genre     = Corrida com malandragem e contravenções de trânsito
+|platform  = [[Xbox 360]] para os pobres, [[Xbox One]] para os burgueses
+|rating    = 80%
+|ages      = Quem gosta de Need for Speed mas só tem um Xbox 360
+}}
+
+'''Forza Horizon 2''' é mais um jogo de corrida e contravenção de trânsito da série [[Need for Speed]] só que exclusivo da Microsoft. Dessa vez o jogo é para o [[Xbox One]] e se passa na fronteira entre a França e a Itália, cujo ambiente é muito parecido (e muito melhor) com o ambiente do [[Need of Speed Rivals]], o jogo anterior da série. 
+
+== Desenvolvimento ==
+
+Lançado em 2014, a Microsoft decidiu continuar a sua sub-série Forza Horizon ao perceber que ninguém queria saber do enjoativo Motorsport. A [[EA]] ficou putrefácia com o [[Forza Horizon 1]], já que muitos fãs do NFS, tanto dos novos quantos dos antigos, decidiu apostar suas fichas e bundas no rival da Microsoft e em 2013 saiu o [[Need for Speed Rivals]], na tentativa de recuperar a série, e que, deu errado. 
+
+== Enredo ==
+
+Ninguém se importa com enredo em jogos de corrida, então os desenvolvedores fizeram o favor de não criar nenhum enredo para este jogo, já sabendo que seria melhor fazer nada do que fazer algo mal feito e só irritar as pessoas com histórias imbecis. Ou será que aquela coisa tosca que jogamos é uma tentativa de enredo? O Objetivo final ainda é o mesmo: Ficar no papel de um manezão que provavelmente mora no carro atrás de carros e bundas (seja masculinas ou femininas).
+
+== Jogabilidade ==
+
+Tal qual todos seus jogos antecessores ([[Need for Speed: Most Wanted]], [[Need for Speed (2015)]], [[The Crew]] e tantos outros) o jogo se passa num [[mundo aberto]] de carros. Devemos então explorar cenários nos quais nossos carros não conseguem subir um meio-fio, apostando corridas, juntando dinheiro e adquirindo mais de 200 carros que são todos igualmente ruins. A customização foi piorada e ficou mais realista e ainda tem um modo rally. 
+
+A chuva no jogo (exclusiva do [[Xbox One]]) foi meticulosamente tratada de modo a trazer um ultrarrealismo e uma experiência única aos jogadores. Agora as chuvas duram 30 segundos, afinal a meteorologia funciona assim e uma pista seca em outros 30 segundos, pois é assim que a física do asfalto molhado funciona. E ainda nessa onda de realismos, o jogador ganha XP por ficar dando cavalo-de-pau ou pulando de carro em rampas, porque é assim que nos tornamos melhores pilotos e conseguimos carros raros na vida real.
+
+A jogabilidade online foi inovadora para a sua época pois ao contrário da maioria dos jogos online você não precisa ficar esperando todo mundo ficar online numa sala, apenas clica e aparece numa competição online na qual a sua internet horrível vai fazer seu carro bugar, lagar, crashar e estragar toda a sua experiência que foi pensada apenas para locais de internet boa como EUA. Por isso criaram os '''Drivatars''', algo que chamou muito a atenção, que são uma inteligência artificial que dirige por você nas competições online enquanto seu Xbox está desligado ou sua internet uma merda, assim até as pessoas da Etiópia poderiam ter a chance de jogar.
+
+{{Forza}}
+
+[[Categoria:Jogos lançados em 2014]]
+[[Categoria:Jogos da Playground Games]]
+[[Categoria:Jogos da Sumo Digital]]
+[[Categoria:Jogos da Turn 10 Studios]]
+[[Categoria:Jogos da Microsoft Studios]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos de corrida]]

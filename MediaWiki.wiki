@@ -1,0 +1,37 @@
+[[Arquivo:MediaWikiNewLogo.png|thumb|O símbolo oficial do {{PAGENAME}}]]
+[[Arquivo:Girassol.jpg|thumb|200px|O logotipo antigo do {{PAGENAME}}]]
+{{Computeiro}}
+'''MediaWiki''' é um software [[pleonasmo|de computador]] escrito em [[BASIC]] (por isso dá tanto problema) utilizando sistemas de gestão de [[My Chemical Romance|MyCR]], tem como símbolo um [[girassol]] amarelo decadente, embora no final do mês mais infernal e chato da [[história]] do [[Brasil]], março de 2021 onde todo mundo pensaria que seria o [[fim do mundo]] (no Brasil é claro) o logo <s>dessa bostinha</s> do {{PAGENAME}} mudou para uma flor rosa com várias petalas coloridas (só algumas para você pensar que é [[gay]]) de rosa a amarelo, significando que tudo que é da [[Wikipédia|Wikimerda]] evolui, embora desde o surgimento do código a [[logomarca]] nunca mudou e sempre ficou como um girassolzinho tosco tomando sol (ou não) dentro de dois colchetes (isso aqui [[]]) e também pesquisadores buscam até hoje o que diabos um girassol tem a ver com um software de formatação. O projeto é desenvolvido através da banda [[Cansei de Ser Sexy|CSS]] e sua tecnologia é utilizada em projetos da [[Wikimedia]]. Agora você deve se questionar: Qual a diferença entre MediaWiki e WikiMedia?
+
+==Diferença entre MediaWiki e WikiMedia==
+A diferença é que MediaWiki tem seu "Media" antes de "Wiki" enquanto a WikiMedia tem seu "Media" depois de "Wiki".
+
+== História ==
+O MediaWiki foi originalmente escrito para a [[Desciclopédia]] pelo [[garoto alemão doido]], que estava enlouquecendo com a lentidão das páginas e não aguentava mais aquilo. Isso o levou a estudar [[programação]] e a criar esse software, aparentemente mais rápido que os outros. Apenas aparentemente mesmo. O [[Doutor Roberto]] apreciou o trabalho do garoto e adotou o tal MediaWiki a seus projetos, tornando-se assim o software oficial das Uncyclopedias. 
+
+Após ganhar notoriedade como software oficial da grande [[Desciclopédia]], ele passou a ser instalado em wikis menores como a [[Wikipédia]].
+
+== Problemas ==
+
+{{principal|[[Desciclopédia has a problem]]}}
+Apesar de [[mentira|aparentemente mais rápido]], esse [[software]] é famoso por travar com frequência, dar rollback sem aviso e bugar o pc do usuário todo. Você não conseguiu salvar sua edição? A Desciclopédia fechou do nada? Seu computador pegou vírus? Sua namorada te deixou? Culpe a MediaWiki.
+
+== Curiosidades ==
+{{Trivia}}
+*Uma MediaWiki é uma wiki que nem é boa, nem é ruim, é média.
+*O público alvo da MediaWiki são as pessoas que gostam de fazer média.
+*Os professores gostam de fazer Média, então eles frequentam sites que se utilizam da MediaWiki.
+*Os alunos que passam na média também.
+*Os alunos que reprovam e os cdfs que passam com 10 não.
+*Os [[wp:Wikipédia:Café|cafés]] da Wikipédia, equivalentes ao [[Forum:Boteco|boteco]] da Desciclopédia, vêm com leite, uma média.
+
+{{Enciclopédia}}
+[[bar:MediaWiki]]
+[[en:MediaWiki]]
+[[es:MediaWiki]]
+[[fi:MediaWiki]]
+
+[[it:MediaWiki]]
+[[ja:MediaWiki]]
+[[ko:미디어위키]]
+[[nds:MediaWiki]]

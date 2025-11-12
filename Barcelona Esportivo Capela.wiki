@@ -1,0 +1,45 @@
+{{futebolismo}}
+
+{{Box ClubeFutebol
+|cor_clara         = #8B0000
+|cor_escura        = #0047AB
+|brasao            = Escudo do Barcelona de Capela.png
+|hino              = "BEC: O perdedor de Ibiúna"
+|nome_oficial      = Barcelona Esportivo Capela
+|origem            = {{SP}} '''[[Barcelona]]'''
+|apelidos          = Barça, BEC do Bar
+|torcedores        = Elefantes da Capela
+|torcidas          = Elefante do Capela
+|mascote           = Elefante Boiolinha
+|ilustre           = [[Ninguém]]
+|estadio           = Aníbal Carreteiro
+|capacidade        = 8000
+|sede              = '''[[São Paulo (cidade)]]'''; Rua dos sem-rato, 106
+|presidente        = Dudu Xavantino
+|treinador         = Abel Braga
+|pior              = [[Diego Maradona]]
+|melhor            = [[Messi]]
+|patrocinador      = [[Qatar]]
+|material          = Deca privadas
+|liga              = Campeonato Paulista
+|divisao           = [[Arquivo:FauxCounter.gif]]
+|títulos           = MUAWHHAWAHWHAAHWWHAAWHWAHHWAAHW
+|ranking           = 5°
+|uniformetitular   = Uniforme01.jpg
+|uniformealt       = Uniforme02.jpg
+}}
+
+'''Barcelona Esportivo Capela''' é uma cópia cretina de Barcelona de algum bairro escondido qualquer de São Paulo.
+
+== História ==
+=== Fundação ===
+
+Equipe formada em 2004 com uma "grande força". Seu mascote adotado foi o elefante, símbolo do antigo torcedor gordão que [[Morte|teve sua vida abreviada]] aos 45 anos de idade. Assim, a pequena equipe da Capela da casa da [[Socorro]] foi licenciada pela [[Federação Paulista de Futebol|FPF]] após contar a sua comovente história, criada em [[1999]] em um time da cidade de [[Ibiúna]] e um <s>miserável</s> time do [[Jaçanã]] que é o dono do estádio pobretão que essa equipe joga suas partidas.
+
+=== Campanhas ===
+
+O Barcelona em seus primeiros anos não passou da última divisão estadual (Série ZC456) onde apenas cumpre tabela. O auge da equipe foi num amistoso realizado em 2013 no seu estádio [[Camp Nou]], onde goleou na pré-temporada a equipe do Santos por uma memorável e histórico 8x0.
+
+{{Campeonato Paulista}}
+
+[[Categoria:Times de futebol de São Paulo]]

@@ -1,0 +1,48 @@
+{{Química}}<br/>
+{{Biologia}}<br/>
+
+{{C|Uma das maiores invenções da humanidade|<s>[[Pedro Bial]]</s> Biólogo|PCR}}
+{{C|Ai, me fudi!|Pai|exame de DNA feito pelo PCR}}
+{{C|Na [[União Soviética]], o PCR replica '''VOCÊ'''''!!''|[[Reversal Russa]]|PCR}}
+{{C|Deixa a máquina de PCR trabalhar enquanto vamos comer|Engenheiro Genético|PCR}}
+[[Arquivo:Pcr.jpg|thumb|right|220px|<s>Estufa</s> Máquina de PCR, usada em laboratórios de <s>[[cheiramento de gatinho]]s</s> [[biologia]]]]
+A '''Reação em Cadeia da Polimerase''', ou '''PCR''' (do [[Língua Inglesa|inglês]] ''Polymerase Chain Reaction'') é uma técnica/equipamento usado em [[biologia]] molecular, [[engenharia]] [[genética]] e exames de [[DNA]] em geral. Trata-se de um equipamento que copia pedaços de [[DNA]] bilhões de vezes, fazendo todo o trabalho duro dos <s>[[vagabundo]]s</s> pesquisadores desas áreas.
+
+==Informações Técincas==
+
+O ''ácido desoxirribonuclêico'' (vulgo [[DNA]]), é copiado por enzimas específicas, chamadas de ''DNA Polimerase''. Os biólogos, bioquímicos e outros <s>loucos</s> profissionais envolvidos nessas áreas chamam esse processo de '''replicação'''.
+O [[DNA]] consegue se copiar sozinho (sem a ajuda das enzimas), mas o processo fica muitíssimo demorado (e depois dizem que a [[burocracia]] vem dos seres humanos...).
+
+==Idealização e História==
+
+Em 1975, um pesquisador [[Itália|italiano]] chamado Aspirino, enquanto estudava a vida sexual dos caracóis de jardim e sua anatomia, descobriu que esses animais não possuíam as enzimas que copiam o [[DNA]] (de onde surgiu a tese científica do porquê os caracóis serem tão lentos). Começou estudos de como copiar o [[DNA]] sem a ajuda de um ser vivo, chegando a [[nada|importantes conclusões]]. Após sua morte, em 1983, deixou suas anotações, sua coleção de revistas pronográficas e sua lancheira a seu pupilo, Laka Gamos, que contunuou o trabalho do mestre.
+
+==Desenvolvimento do projeto==
+[[Arquivo:tubos-pcr.png|thumb|right|<s>Tampas de caneta</s> Tubos usados na máquina de PCR, já preenchidos com a solução.]]
+Laka Gamos continuou suas pesquisas nos [[EUA]], mas como a legislação da época proibia qualquer espécie de experimento genético, teve de deixar o país ao ser contenado à [[morte]] por empalamento. Aportou no [[Brasil]] e concluiu suas pesquisas na [[Argentina]].
+Enquanto estudava o DNA, percebeu que, com os nucleotídios ''(isso não é um palavrão)'', temperatura em torno de 45°C e um [[pH]] bastante alcalino, o [[DNA]] se copiava espontaneamente.
+Com isso, Laka conseguiu montar a primeira máquina de PCR. Ela consiste em uma estufa com suportes para os tubos (durante o projeto foram usados tampas de caneta) que contém o DNA, os nucleotídios e água com 0,00005 [[mol]] de Hidróxido de Sódio ''(vulga soda cáustica)''.
+Cada uma dessas peças atende a um processo específico:
+
+*A <s>estufa</s> máquina de PCR entra com o calor para facilitar a reação;
+*Os nucleotídios oferecem a matéria-prima para o [[DNA]] se copiar;
+*O Hidróxido de Sódio dissolvido na água, para dar o pH alcalino;
+*O [[DNA]], óbvio, para se copiar;
+
+==<s>In</s>Utilidade==
+
+O '''PCR''' é muito utilizado para realizar exames de paternidade, em medicina forese, para encontrar o culpado de um crime julgado ''perfeito'', na criação de plantas (e animais) transgênicos, em pesquisas genéticas e mais um monte de blá blá blá. Em outras palavras, o DNA foi uma ''mão na roda'' para os biólogos, bioquímicos e engenheiros genéticos e <s>fudeu</s> ferrou com pais que não assumem os filhos e criminosos. É uma pena que não se aplique essa técnica em [[Brasília]], proibida por decreto federal.
+
+
+
+==Ver também==
+
+*[[DNA]];
+*[[Biologia]];
+*[[Genética]];
+
+[[Categoria:Biologia]]
+[[Categoria:Ciência]]
+[[Categoria:Engenharia]]
+
+[[en:PCR]]

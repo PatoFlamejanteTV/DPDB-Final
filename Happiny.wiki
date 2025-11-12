@@ -1,0 +1,51 @@
+{{Pokedex}}
+
+{{PokéBox
+| imagem = Happiny.png
+| tamanho = 160
+| frase = Hominvisivel ataca novamente, Happiny pagando um [[Boquete|favor a ele]], porra cara, é só uma criança!
+| nihongo = ハピナス
+| romaji = {{exp|Happinas|Happy e Narinas}}
+| pokedex = 440
+| habilidade1 = [[Drogas|Cura Natural]]
+| habilidade2 = 
+| habilidade3 = Guarda-cu
+| tipo1 = Normal
+| tipo2 = 
+| espécie = Kinder Ovo rosa
+| cadeia evolutiva = '''[[Arquivo:HappinySprite.gif|link=Happiny|Happiny]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:ChanseySprite.gif|link=Chansey|Chansey]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:BlisseySprite.gif|link=Blissey|Blissey]]'''
+}}
+
+{{Você quis dizer|[[Kinder Ovo]]}}
+{{C|[[PQP]]! Um [[Kinder Ovo]] ambulante!!|[[Qualquer um]]|{{PAGENAME}}}}
+{{C|Ó que gracinha|[[Brock]]|Happiny}}
+
+[[Arquivo:HappinySprite.gif|left]] 
+'''Happiny''' é uma estranha bola rosada que segura um ovo. {{PAGENAME}} ocupa o número '''#440''' na [[National Dex|Infinite Infernal Pokémon Dex]], além de ser a anti-evolução do [[Chansey|outro ovo que segura um ovo]], mas [[ninguém se importa]].
+
+==Dados==
+
+Happiny foi introduzida na 4ª geração de [[Pokémon]], sendo que o seu objetivo era apenas [[encher linguiça]] nas evoluções da [[Chansey]] (sim, o pokémon preferido da [[Enfermeira Joy]] precisava de mais alguma evolução além do retardado do [[Blissey]] (este que é conhecido popularmente como ''ovo bailarino que segura um ovo''). Como estavam sem criatividade para criar uma evolução completamente diferente e inovadora, os produtores da [[Nintendo]] resolveram fazer o que eles sabem melhor: Pegar o pokémon e apenas adicionar alguns detalhes inúteis, para ele parecer fodão. Utilizando este método, eles conseguiram criar '''Happiny'''. 
+
+Apesar de ser mais fácil para os produtores da Nintendo apenas dizer que Happiny era uma "evolução normal" de Chansey, eles resolveram inventar uma coisa '''''nunca antes vista na história de Pokémon''''': Eles batizaram {{PAGENAME}} como sendo a '''''anti-evolução''''' de [[Chansey]]. Em outras palavras, {{PAGENAME}} é a primeira forma de Chansey, o que é difícil de compreender (assim como esse artigo), pois nas primeiras temporadas Chansey não tinha uma primeira forma. Junto com {{PAGENAME}} vieram outras anti-evoluções, chamadas [[Bonsly]] e [[Mime Jr.]], que também são inúteis, mas isso deixemos para contar em outro artigo.
+
+Happiny possui uma estranha forma de [[Kinder Ovo]] (sim, ela é de chocolate, [[Willy Wonka|até eu sou de chocolate! Mas me comer seria canibalismo]])
+
+[[Arquivo:HappinySopa.jpg|160px|thumb|left|[[Kawaii|Tirem suas conclusões.]]]]
+
+==A Happiny de Brock==
+
+[[Brock]] é conhecido mundialmente por ter conseguido uma Happiny útil ,já que após ele ter recebido um [[Ovo Pokémon]] ,dele nasceu uma Happiny ,que ao contrário das outras ,não era inútil ,não era fresca e sabia lutar ,ficou taxada como tendo as [[Lésbica|Prioridades Femininas Invertidas]] ,após muita encheção de Linguiça ,ela finalmente evoluiu numa bela [[Chansey]] ,então ,como os inúteis Roteiristas de Pokémon gostam de encher linguiça e destruir a mente de quem assiste aquilo ,eles fizeram [[Brock]] desistir da Carreira de Criador Pokémon ,para virar um Médico Pokémon ,tsc ,tsc...Pobres Pokémons .
+
+==Curiosidades==
+
+Você sabia que...
+
+*A Happiny é uma inútil ?
+
+*Que só o [[Brock]] conseguiu uma Happiny decente ?
+
+*Que o Cabelo dela é ótimo para se praticar [[Pokefilia]] ?
+
+{{poke4}}
+[[Categoria:Ovos]]

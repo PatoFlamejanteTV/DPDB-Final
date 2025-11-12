@@ -1,0 +1,132 @@
+{{reorganizar}}
+
+{|cellpadding="0" cellspacing="0" style="width:95%; background-color:{{{fundo}}};clear:both;margin:1em auto 1em auto;border:2px outset mediumaquamarine;background-color:mediumaquamarine;text-align:center;font-family:Trebuchet MS;"
+|-
+| style="width:50px;padding:2px" | [[Arquivo:Gnome-searchtool_blue.png|40px]]
+| valign="middle" style="height:50px;padding:4px;color:black;font-size:120%;line-height:120%" | ''<big>'''{{{1|{{PAGENAME}}}}} é uma pequena cidade desconhecida.'''</big><br /><font size="1">Você pode estar perdendo seu tempo à-toa ao ler sobre essa joça.</font>'''<br /><font color="white"><small>'''''{{Cidadezinha/frases}}'''''</small></font>
+| style="width:50px;padding:2px" | [[Arquivo:Sciences_de_la_terre.svg.png|40px]]
+|-
+|}
+
+{{DadosMunicípioBrasil   
+<!-- GeoID=3542602 -->
+<!-- Cabeçalho -->
+| nome                 = Entre Rios de Minas
+| apelido              = 'A Cidade do Cavalo Campolina'
+<!-- Dados gerais -->
+| brasão               = Brasão entre riosB245.jpg
+| bandeira             = Bandeira entre rios245.jpg
+| link_brasão          = 
+| link_bandeira        = 
+| aniversário          = [[20 de dezembro]]
+| fundação             = [[20 de dezembro]]
+| gentílico            = enterriano| 
+| lema                 = 'Audatia parvuli vincunt' 
+| prefeito             = Mário Augusto
+| partido              = DEM, PDS, PT,PR,PP,PV,PMDB,
+PTB, PDT, PCB, PSB,PTC, PTC, PRP, PPS, PP, PHS,PTN, PSOL, PR  
+| fim_mandato          = 2111
+<!-- Localização -->
+| mapa                 = MinasGerais_Municip_EntreRiosdeMinas.svg
+| latP                 = S | latG = 20 | latM = 40 | latS = 
+
+15| lonP  
+               = O | lonG = 44 | lonM = 03 | lonS = 57| 
+estado  
+             =  Minas Gerais
+| mesorregião          = Mesorregião do [[Cu]] do Mundo
+| microrregião         = Microrregião da Preguinha nº 4 do [[Cu]] do Mundo
+| região_metropolitana = [[Belzonte]]
+| vizinhos             = [[Teresina]], [[Desterro de Entre Rios]], [[Jeceaba]], [[Lagoa Dourada]], Queluzito, [[Resende Costa]], São Brás do Suaçuí e  [[Januária]].
+| dist_capital         = 1.013
+<!-- Características geográficas -->
+| área                 = 463
+| população            = 14.262
+| data_pop             = Contagem da População 2010 - [[IBGE]]
+| densidade            = 31
+| altitude             = 1.450
+| clima                = quente, morno, temperado, frio e gelado
+| sigla_clima          =
+| fuso_hor             = -39
+<!-- Indicadores -->
+| idh                  = 0,746
+| data_idh             = [[PNUD]]/[[2000]]
+| pib                  = 90.086.095
+| data_pib             = [[IBGE]]/[[2008]]
+| pib_per_capita       = 6.196| data_pib_per_capita  = [[IBGE]]/[[2008]]
+}}
+
+== História ==
+
+A paragem de Bromado, na estrada (mais tarde denominada Estrada Real) que ligava [[São João Del Rei]] às minas de ouro  de Vila Rica ([[Ouro Preto]]) e [[Mariana]], surgiu em 1713 quando Pedro Domingues obteve do governador uma sesmaria  no lugar. A denominação de Bromado, tem a ver com 'embromação' (protelação ardilosa de um ato esperado) e foi dado pelo próprio Pedro Domingues ao qual o governador tinha prometido uma sesmaria em [[Congonhas]] e terminou por receber aqui. Ele deu sorte, pois descobriu ouro num 'tabuleiro' do vale do rio Camapuã  e o nome foi trocado para Brumado. 
+
+Na década de 1720 ele mandou construír uma capela em honra de Nossa Senhora das Brotas, padroeira da vila  onde era originário em [[Portugal]]. Na década de 1730 a capela foi declarada filial da matriz de [[Congonhas]]. As primeiras famílias a radicarem em Brumado foram os Machado, os Oliveira, os Pena, os Vale, os Silva, os Monteiro e os Pinto.
+
+=== Momento Cultural: Nossa Senhora de Brotas===
+
+A Brotas a que referimos é uma vila no concelho de Mora no Alentejo em [[Portugal]], viu seu burro, não é a cidade paulista onde nasceu o cantor  [[Daniel]]. Conta a lenda que um  jovem vaqueiro ao transferir a vacada de pasto,  uma das suas melhores vacas escorregou ao atravessar um córrego quebrando a perna. Ele já estava se preparando para sacrificar a vaca,  quando lhe apareceu a [[Virgem Maria]] que lhe disse: “Constrói neste local uma capela em minha devoção que a tua vaca será curada”. ( já repararam como [[Nossa Senhora]] gosta de aparecer para os portugueses? Que povo abençoado!).
+
+Ali mesmo o  habilidoso vaqueiro talhou em madeira a canivete  a imagem que viu da santa  (modelo que serviu para a que está hoje no altar) e quando foi ver a vaca estava andando e saudável.
+
+Ele chamou o povo para contar este milagre e começou a arrecadar dinheiro para construir a capela que depois transformada em santuário pela devoção popular que adotou a santa como protetora da criação de gado. Foi também o povo que exigiu que na representação iconográfica de [[Nossa Senhora]] de Brotas passasse  a figurar uma vaca.
+
+== Geografia==
+
+O município de Entre Rios de Minas está localizado na zona de [[Conselheiro Lafaiete]]. A superfície é de 463&nbsp;km² numa região montanhosa com altitude entre 1.400 metros e 1.650 metros. Suas principais elevações são a Serra Talhada, a Serra da Colônia (bastante frequentado pela rapaziada local nos finais de semana !!!). O município é bem servido de cursos d'água destacando o rio Brumado, o rio Camapuã e seus tributários, sendo estes afluentes do rio Paraobeba.
+
+A rodovia BR 383 que sai de [[São João Del Rei]] e faz conexão com a Rodovia BR 040 ([[Rio de Janeiro]]-[[Belo Horizonte]]) atende a cidade. 
+
+== Formação Administrativa==
+[[Arquivo:igreja matriz de entre rios245.jpg|thumb|left|200px|Igreja matriz de Entre Rios]]
+
+Em 1832, por decreto da Regência, Brumado foi transformado em paróquia, sendo seu primeiro vigário o [[padre]] Antonio Fernandes dos Santos, que colaborou muito com o crescimento da população da freguesia, pois teve mais de uma dezena de filhos com mulheres diferentes. O homem era muito 'progressista'. Muitos da família Santos que hoje habitam Entre Rios é descendente do padre.
+
+Em 1875,  por decreto provincial foi criado o município de Brumado do Suaçuí, desmembrado do município de  Queluz ([[Conselheiro Lafaiete]]).
+Em 1878 pela lei 2.455 foi criada a comarca e o município, tendo o seu nome mudado para Entre Rios.
+Em 1880  pela lei 2.579 foi elevado a categoria de cidade  com o mesmo nome. 
+Em 1938 um decreto do ditador [[Getúlio Vargas]] mudou o nome da cidade para João Ribeiro (famoso historiador fluminense) e somente em 1953 é que recuperou a denominação de Entre Rios, que teve de ser acrescentado 'de Minas' para diferenciar de outras duas cidades com o mesmo nome, uma na [[Bahia]] (que mantém o nome) e outra no estado do [[Rio de Janeiro]] (que trocou, mais tarde, o nome para [[Três Rios]]).
+[[Arquivo:1234.jpg|thumb|left|230px]]
+
+==Demografia==
+
+Durante o ciclo do ouro, devido a sua localização privilegiada, Entre Rios foi um dos mais importantes municípios da província. Era o elo de ligação entre [[Ouro Preto]]/[[Mariana]] e [[Sabará]]/[[Caeté]] com [[São João Del Rei]]. Com o declínio da mineração sofreu uma redução drástica em sua população e só a partir da segunda metade do século XX é que conseguiu a recuperação, graças ao desenvolvimento da criação de bovinos, de equinos e  de muares. No final de 2010 a população era de 14.262 pessoas sendo  50,6% de mulheres, 39,7% de homens e 9,7 de 'indefinidos' na linguagem técnica do IBGE,o. Os entrerrianos são bem mestiçados. Temos muitos mulatos, cafuzos e mamelucos, o que produziu uma característica que diferencia as nossas mulheres das mulheres das outras cidades. Quando se encontra uma desprovida de glúteo é de família de imigração recente ou de fora. 87% da população vive na cidade e 13% na zona rural.
+
+==Economia==
+[[Arquivo:casario antigo entre rios245.jpg|thumb|left|300px|Casario antigo da cidade]]
+
+O rebanho de bovinos no município, levantado pelo IBGE é de 18.973 cabeças, a maioria de gado leiteiro. Tem mais vacas no município do que gente. Com relação a equinos o  município  tem o privilégio de ser a origem do cavalo da raça Campolina, do [[jumento]] Pêga e importante fornecedor de valiosos animais com 'pedigree'. NAS LOJAS, os empresários fura zois vai em belzoti compra roupa de 10 pra revender por 50 $.
+
+=== Momento Cultural: O cavalo Campolina===
+
+A raça Caampolina foi formada na fazenda do Tanque,  cujo proprietário Cassiano Campolina era apaixonado por [[cavalo]]s e  desde 1857 trabalhava no aperfeiçoamento do seu plantel.
+
+Em 1870 recebeu de Antonio Cruz, seu amigo e compadre, uma égua preta de nome ‘Medéia’ que estava prenha de um cavalo Andaluz de propriedade de Mariano Procópio, de [[Juiz de Fora]]. Este cavalo Andaluz tinha sido um presente de  D. Pedro II a Mariano Procópio. 
+A égua ‘Medéia’ pariu um potro meio sangue que foi dado o nome de ‘Monarca’. Mais tarde, quando adulto, o cruzamento deste garanhão com éguas selecionadas da fazenda de Cassiano Campolina deu origem à raça. Hoje é uma raça muito admirada e os garanhões e as éguas alcançam altos preços. Todo novo rico tem que no mínimo, meia dúzia de Campolina na sua fazenda.
+
+===Momento Cultural: O Jumento Pêga===
+
+O melhoramento da raça foi iniciado em 1810 pelo [[padre]] Manuel Maria Torquato de Almeida na fazenda do Curtume. O nome 'Pêga' foi tomado de uma braga de ferro usada para prender  os pés dos escravos fugitivos, por que a marca de fogo do padre aplicada aos animais tinha este formato. O rebanho do padre foi vendido em 1847 para Eduardo José de Rezende, de [[Lagoa Dourada]]. A cidade é hoje o maior centro de criação do jumentos Pêga do [[Brasil]]. Os jumentos do padre tiveram a sua origem no cruzamento de jumentos ibéricos com egípcios. Mantida por força das circunstâncias num estado de total isolamento, esta raça conservou a sua pureza.
+
+==Educação==
+
+Da população de 14.262 pessoas, 57% são alfabetizados (sabem ler pelo menos), 13% sabem apenas assinar o nome com dificuldade e 30% são analfabetos de pai e mãe. Na cidade temos  5.567 pessoas frequentando escolas, 22% cursam o pré-escolar, 63%  cursam o ensino fundamental, 14% cursam o ensino médio e 1% cursam faculdades em [[São João Del Rei]]  e outras cidades da região. São 32 mulheres e 24 homens e 'indefindos'. A maioria das mulheres cursa Artes Marciais, Ioga e Arte Culinária e os homens e 'indefindos' cursam  Letras, Artes Plásticas, Corte e Costura e [[Balé]].
+
+==Saúde==
+A cidade não tem  hospital e todos os que precisam de assistência médica morrem ou  tem que ir de ambulância para  [[Belo Horizonte]] para morrerem um pouco mais longe, pois são tratados como pessoas de segunda classe. Registra-se a média de 486 óbitos por ano, sendo 5% de [[AIDS]], 15% de intoxicação por [[anabolizante]]s e [[droga]]s, 8% de acidentes de automóvel, 10% de acidente de motocicleta, 5% por acidentes com animais, 20% por erro médico e 37% de velhice e outros motivos que os médicos (???) estagiários não descobriram ou não tiveram tempo de consultar o curandeiro. Se os médicos formados que trabalham na rede pública são inesperientes, imaginem então os estagiários? Não sabem nem de que lado fica o fígado... Só sabem dizer que você tem uma virose.
+
+
+==Turismo==
+[[Arquivo:festival inverno entre rios.jpg|thumb|left|300px|Festival de Inverno]]
+[[Arquivo:Festa da colheita.jpg|thumb|right|300px|Festa da Colheita]]
+
+O evento mais importante da cidade é a Exposição Agropecuária que acontece simultanemante com a Festa da Colheita, que é realizada no mês de julho. Além do torneio de animais, à noite são realizados shows com manjados cantores [[sertanejo]]s que ficam rebolando no palco e de música baiana (música?). Outro bem frequentado é o Festival de Inverno, que também se realiza em julho, com serestas na praça e barraquinhas vendendo comes e bebes, maçã do amor, óculos escuros do [[Paraguai]] e outras bugigangas.
+ 
+O [[Carnaval]] de rua, patrocinado pela Prefeitura, é festejado ao estilo [[baiano]], com carros de som imitando 'trio elétrico' e música baiana em volume ensurdecedor a noite inteira. 
+
+Nos shows da Exposição e no [[Carnaval]] é uma doideira.  As virgens da cidade (39 pela última estatística disponível), as que já foram virgens e os pais acham que ainda são,  os garotos com o jeitinho do [[Justin Bieber]]  e do [[Luan Santana]], os [[boiola]]s assumidos, os candidatos a boiolas,  ficam todos pulando e levantando as mãos alucinadamente. O efeito do [[álcool]] e de 'otras cositas' libera os instintos e a consequência é a diminuição do número de virgens e o aumento do número de [[veado]]s. A turma dos candidatos a veado e dos imitadores de [[Justin Bieber]] e [[Luan Santana]], depois de beber tudo o que conseguem, ficam tontos, largados e 'carentes' e no outro dia amanhecem com uma dorzinha danada na hora de [[cagar]]. Segundo um [[psicólogo]] que apareceu outro dia no programa da [[Ana Maria Braga]], na [[Globo]], isto não quer dizer nada. Segundo ele, se um cara tomar algumas cachacinhas de vez em quando pode ser considerado alcoolatra? E se der a [[bunda]] de vez em quando pode ser considerado [[homossexual]]? Sei não, viu?
+[[Arquivo: Veadinho.gif|thumb|left||70px]]
+
+== Ver também ==
+*[[Minas Gerais]]
+
+{{Minas Gerais}}

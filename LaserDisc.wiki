@@ -1,0 +1,30 @@
+{{Fracassou}}
+[[Arquivo:LaserDisc e DVD.jpg|thumb|LaserDisc e seu filhotinho, o [[DVD]].]]
+{{Sua intenção era pesquisar|[[LP]] versão espelhada}}
+
+'''LaserDisc''', '''Laser Disc''' ou '''DVD Gigante''', também chamado de '''MCA DiscoVision''' ou '''DiscoVision''' ou seja lá o que era isso, foi uma tentativa fracassada de mudar o tipo de mídia de gravação e exibição de filmes e jogos de analógico pra digital, ao invés de ficar em trilhas de fitas ou de cartuchos ficar tudo impresso via laser. Surgiu em 1978 e pela década de 80 até chegou a fazer um relativo sucesso e até gerando um filho bastardo chamado [[CD]], e foi justamente quando o CD nasceu que o LD acabou cavando a própria cova, já que todo mundo começou a substituir seus vinis gigantes pelos CDs, mas o [[VHS]] e o [[Betamax]], apesar de terem uma qualidade menor, eram menores em tamanho que o trambolho do LD, o mesmo se aplicando aos cartuchos de jogos, e logo o LD acabou se destruindo sozinho. Todos reproduziam em [[NTSC]], o que ferrava mais ainda, porque quem usava TV em [[PAL-M]] queria seu dinheiro de volta por falta de cor.
+
+== Funcionalidade ==
+
+O gigantão usava a tecnologia de [[vídeo analógico]], só que com um cheat esse vídeo ficava um [[vídeo digital]], sendo tecnicamente apenas uma coisa do gênero [[Atari Jaguar]] ou [[Denorex]]: parece, mas não é. Com isso, ele ficava uma bagunça terrível, mas ainda assim ele começou a ser o primeiro caso de utilização de multissetor da história. Uma curiosidade mórbida é que ele tinha mídia dos dois lados, igual um LP mesmo, só que ao menos não precisava de agulha nem de ficarmos trocando o lado feito os LPs e as fitas [[K7]]. O áudio era em [[FM]], e não em digital, portanto era meio como se tivéssemos colocado um filme num LP espelhado mesmo, uma bela bosta no fim de tudo. Teve 3 formatos básicos: 
+
+* CAV, que conseguia congelar perfeitamente a imagem num pause e [[câmera lenta]]. Foi a técnica utilizada por muitos desses críticos de cinema pra achar erros de filmagem e ficar trollando com os diretores;
+* CLV, era mais longo e conseguia fazer finalmente a troca de cenas, como no futuro o [[DVD]] faria;
+* CAA, versão turbinada do último, mas que ninguém comprava por ser caro pra caralho.
+
+== Leitores ==
+
+Houveram vários de 1978 em diante. Alguns dos mais notáveis foram o Auto-reverse, que conseguia trocar o lado do LD sem precisar de tirar o trambolho de dentro do aparelho e por de novo; O CLD, que foi o primeiro a ler também CDs, o DVL, que conseguia ler também DVDs (tipo uma [[radiola]] das mais modernas que toca de LP à [[MP3]] de boa) e o [[Pioneer LaserActive]], que foi um fracasso completo, tentava ser uma mistura de um console próprio pra jogos em formato LaserDisc (que inclusive já operavam em alguns [[arcade]]s como o [[Dragon's Lair]]), além de rodar CDs, LPs, [[LV-ROM]]s (pra [[Karaokê]]), K7s, [[cartão de memória]], [[cartão perfurado]], [[fita perfurada]], [[ficha de orelhão]], [[cartão telefônico]] e mais de oito mil diferentes tipos de mídias de leitura. Era caro pra cacete e foi um fracasso ao tentar ser o primeiro <s>[[home theater]]</s> [[central multimídia]] da história. Tinham também as criações da [[American Laser Games]], que também não deu muito certo no fim das contas, com aqueles jogos de [[Full Motion Video]] que eram um saco.
+
+== Ver também ==
+
+* [[Disco Eletrônico de Capacitância|CED]], o pior formato da história das mídias de filmes. 
+* [[U-matic]]
+* [[Video CD]]
+* [[Super-8]]
+* [[Blu-Ray]]
+
+{{Consoles}}
+
+[[Categoria:Mídias]]
+[[es:LaserDisc]]

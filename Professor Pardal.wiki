@@ -1,0 +1,80 @@
+{{inteligente}}
+
+{| class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+|-
+!style="text-align:center; {{{comic_color}}}"|<big>'''''Professor Pardal'''''</big>
+|-
+|style="text-align: center; font-size: 90%;"|
+<br />
+|-
+|[[Arquivo:Pardal 999.jpg|center|220px]]
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+|- style="vertical-align: top;"
+|'''''Nome Real'''''||''Professor Pardal''
+|- style="vertical-align: top;"
+|'''''Cidade'''''||''[[Patópolis]]''
+|}
+|-
+|
+----
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+!colspan="2" style="text-align:center;{{{alliance_color}}}"|Características
+|- style="vertical-align: top;"
+|'''''Inteligência'''''||''{{099}}''
+|- class="hiddenStructure{{{alliances}}}" style="vertical-align: top;"
+|'''''Afiliações'''''||''[[Lampadinha]]''
+|- class="hiddenStructure{{{relatives}}}" style="vertical-align: top;"
+|'''''Parentes'''''||''[[Ah, sei lá!]]''
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''''Inimigos'''''||''[[Professor Gavião]]''
+|- style="vertical-align: top;"
+|'''''Poderes'''''||''Construir uma máquina de matar from hell utilizando apenas um palito de dente e um fósforo''
+|}
+|}
+{{Vqd|[[MacGyver]]}}
+{{Vqd|[[Adílson Batista]]}}
+{{Vqd|[[Vítor pereira]]}}
+{{Vqd|[[Mano menezes]]}}
+{{Vqd|[[Paulo César Carpegiani]]}}
+{{C|Ei, Pardal, você pode me ajudar a reforçar as seguranças da minha caixa-forte?|[[Tio Patinhas]]}}
+{{C|Claro, o que você precisa?|{{PAGENAME}}}}
+{{C|Eu gostaria de uma tecnologia de defesa suprema, que suporte até os mais poderosos mísseis. E que não custe mais do que [[dois]] centavos|[[Tio Patinhas]]}}
+
+'''{{PAGENAME}}''' é uma espécie de [[MacGyver]] de [[Patópolis]], pois ele consegue construir qualquer coisa que se pode imaginar usando apenas materiais encontrados em um ferro-velho.
+
+== História ==
+[[Arquivo:Pardal 1001.jpg|thumb|left|O verdadeiro '''{{PAGENAME}}'''.]]
+Desde pequeno, o {{PAGENAME}} sempre teve um interesse especial pela ciência, e, diferentemente de seus colegas, que apenas queriam nadar pelados no [[rio]], o {{PAGENAME}} ficava em casa, estudando as teorias de [[Einstein]]. 
+
+Como o {{PAGENAME}} era muito estranho, ela ficava sempre isolado, e acabou ficando sem amigos. Mas ele estava [[Andar e cagar|andando e cagando]] para isso, pois o que ele queria mesmo era se tornar o cientista mais inteligente de toda a região. Com esse objetivo, o {{PAGENAME}} estudou, estudou e estudou, até que um dia ele finalmente conseguiu fazer um invento que iria [[Polishop|revolucionar a sua vida de uma maneira sem igual]]. Essa invenção era o capacete de ideias, que transformava qualquer um que o colocasse em um verdadeiro gênio. Com essa invenção em mãos, em pouco tempo o {{PAGENAME}} conseguiu se transformar em um grande gênio, tendo a sua fama extendida por todo o [[mundo]].
+
+Porém, mesmo sendo o maior gênio, o {{PAGENAME}} começou a sentir falta de companhia. Então, depois de estudar muito, o {{PAGENAME}} finalmente construiu um robô chamado [[Lampadinha]], que, além de companhia, seria um excelente estudante, apesar de que o tamanho dele era menor do que o teu [[salário]].
+
+Trabalhando em parceria com o Lampadinha, o {{PAGENAME}} começou a produzir muitas invenções muito úteis, como por exemplo, um [[chapéu assoador de nariz]]. Com a popularização de suas invenções, o {{PAGENAME}} resolveu abrir uma oficina fixa, perto da casa do [[Pato Donald]]. Essa oficina era bem parecida com um simples galpão de madeira {{Strike|porque é}}, mas ele diz que ali é uma espécie de centro de estudos.
+
+Com o tempo, o {{PAGENAME}} se tornou amigo do [[Pato Donald]] e de seus sobrinhos, Huguinho, Zezinho e Luisinho, que sempre utilizavam as suas invenções. Ele também ficou amigo do [[Tio Patinhas]], sendo que este sempre pede a ajuda do {{PAGENAME}} para proteger a sua caixa-forte contra alguns ladrões de galinha.
+
+== Invenções ==
+
+O {{PAGENAME}} já inventou [[mais de 8000]] coisas diferentes, porém, a grande maioria é defeituosa ou não tem nenhuma utilidade prática. As principais invenções são:
+
+* '''Capacete de ideias''': Um [[Paulo Bonfá|totalmente excelente]] capacete, que transforma em um [[Einstein]] qualquer [[idiota]] que o coloque.
+* '''Lâmpada gigante voadora''': Uma lâmpada gigante que o {{PAGENAME}} inventou para escapar do [[fim do mundo]], mais precisamente do vale onde moram os maiores nerds do mundo.
+* '''Aparelho inventor''': Um aparelho que é uma espécie de gênio da lâmpada, e, após se colocar os materiais necessários, ela cria qualquer coisa. Porém, ela foi destruída quando um [[idiota]] quis fabricar uma cópia da máquina para ele usar sozinho.
+* '''Carro voador''': Um carro que o {{PAGENAME}} criou para competir com o [[Professor Ludovico]]. Esse carro era uma das maiores invenções do século, e a [[Polishop]] já queria comprar a patente, afinal, o carro voador não usava [[gasolina]] e nem [[Pneu|pneus]]. Porém, o dono do posto de gasolina e o fabricante de pneus, indignados com isso, pois iriam acabar falindo, resolveram mandar o carro voador para o ferro-velho.
+
+== Ver também ==
+
+* [[Lampadinha]]
+* [[MacGyver]]
+
+{{Oposto|Professor Gavião}}
+{{louco}}
+{{Disney}}
+
+[[Categoria:Galos]]
+[[Categoria:Gênios]]
+[[Categoria:Professores fictícios]]
+[[Categoria:quatro olhos]]

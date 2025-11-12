@@ -1,0 +1,45 @@
+{{Filmes}}
+{{Filme|
+título=<font size="+1">Barbosa</font>|
+título-br=Bearboze|
+imagem=[[Arquivo:Barbosa.jpg|200px]]|
+ano=3986|
+duração=-0|
+idioma= Portunhol|
+gênero= Ação, Documentário, Histórico, Hippie, Novela |
+direção=[[Jorge Furtado]]|
+roteiro=Jorge Furtado|
+elenco= (em ordem alfabética)
+*''Odete Roitman - Ney Latorraca''
+*''Barbosa - Ney Latorraca''
+*''Rapaz - Antonio Fagundes''
+*''Ney Latorraca - Ney Latorraca''
+*''Câmera - Qualquer um''|
+país=[[Estados Unidos da América]]|
+cor-pb=cor}}
+
+'''Barbosa''' ([[2006]]) é considerada a obra máxima de [[Jorge Furtado]], cineasta ex-brasileiro que perdera o título por não falar da seca do nordeste, que devido a um bug no computador foi mandado acidentalmente por e-mail para o ano de 1986, que será quando o filme estreará – alguns membros da oposição afirmarem que foi uma jogada de marketing para valorizar o filme no [[mercado]].
+
+==Sinopse==
+{{spoiler}}
+
+Rapaz (Antonio Fagundes), traumatizado ao ver a morte do personagem [[Barbosa]] (Ney Latorraca) com apenas 11 (onze) anos, crece e constrói uma maquina do tempo para voltar e impedir que o assassino misterioso mate o personagem, o que resultou anos mais tarde no termino do programa e no assassinato da também interpretada pelo Ney Latorraca, [[Odete Roitman]].
+Ninguém sabe como o filme termina por que ninguém viu o filme, mas sendo que a predefinição de spoiler já está ali em cima diremos que o assassino é Ney Latorraca, ou não.
+
+==Teorias sobre o fim==
+
+Em 1945, 5 (cinco) anos antes de Jorge Furtado nascer um agrupamento de cientistas políticos se reuniram para determinar quais seriam os finais possíveis para o filme. Suas conclusões foram que os dois finais mais prováveis seriam:
+
+* '''Barbosa sobrevive:''' O rapaz é um herói e consegue salvar Barbosa.
+* '''Barbosa morre:''' O rapaz é um fracassado e não consegue salvar Barbosa.
+
+==Citações==
+{{c|A morte de Barbosa foi a morte de uma época; morria ali um ícone, um ídolo, uma legenda; e nesta legenda estava escrito... Barbooooosa !|Alguém|a morte de Barbosa.}}
+
+==Ligações externas==
+*[http://www.portacurtas.com.br/pop_160.asp?cod=150&Exib=2575 Barbosa]
+*[http://www.youtube.com/watch?v=AELEB9pI4xA Barbosa Nove e Meia]
+
+{{esboço}}
+
+[[Categoria:Filmes do Brasil]]

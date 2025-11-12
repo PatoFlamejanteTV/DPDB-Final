@@ -1,0 +1,72 @@
+{{trevas}}
+{{Matemática}}<br>
+
+{{Fato| '''a Triga não tinha filhos porque''' '''''o trigo no metria'''''?
+    E que essa piada idiota é um [[Série Trocadalhos do Carilho|Trocadalho do carilho]] sobre [[Trigonometria]] que foi inventada pelo próprio Pitágoras???}}
+{{c|É um ramo da matemática que estuda as relações entre os comprimentos de 2 lados de um triângulo retângulo (triângulo onde um dos ângulos mede 90 graus), para diferentes valores de um dos seus ângulos agudos. |Sua professora particular te explicando o que é trigonometria}},
+{{c|No [[Haiti]], '''NÃO HÁ''' trigo, portanto '''NÃO HÁ''' trigonometria!"!!|[[Escassez Haitiana]]|Trigonometria}}
+
+{{c|Minha terra tem palmeiras, onde canta o sabiá. Seno A Cosseno B, Seno B Cosseno A.|Professor de matemática dando macete}}
+
+'''Trigonometria''', do grego "metendo a três", é o ramo da [[Matemática]] que estuda os triângulos e faz com que [[você]] tenha de estudá-los também, senão o seu professor lhe dará uma nota igual a [[zero|<math>\operatorname{sen}\,x \times \operatorname{sen}\,x + \operatorname{cos}\,x \times \operatorname{cos}\,x - 1</math>]].
+
+== História da Trigonometria ==
+
+Certo dia, um cidadão grego chamado [[Pitágoras]] estava em seu [[vagabundo|ócio]] diário, quando pensou em como poderia passar o tempo se divertindo com [[triângulo]]s, afinal nenhum de seus jovens discípulos estava com ele para práticas [[pedofilia|filosóficas]] naquele dia. Ele já havia criado o [[Teorema de Pitágoras]] e agora queria colocar mais coisas para dentro (hum) dos triângulos. Bastaria adicionar ângulos retos e tortos às linhas para criar a mais nova <s>inutilidade</s> [[ciência]], a Trigonometria.
+
+Anos mais tarde, o árabe [[Abdul Alhazred]], em um de seus instantes de loucura, resolveu incrementar os cálculos trigonométricos, incluindo letras, incógnitas e outras coisas da [[Álgebra]].
+
+== Funções Trigonoméricas ==
+
+[[Arquivo:encontre x.jpg|right|thumb|Exemplo de um complexo cálculo trigonométrico.]]
+
+Para complicar ainda mais, a Trigonometria é dividida em vários nomes para decorar. Entre eles, temos as chamadas funções trigonom condominio jardim america clotildete étricas, que são relações entre ângulos e lados do triângulo. São também uma ótima opção de nomes para filhos de [[pobre]]s.
+
+=== Seno ===
+
+Razão entre a medida do [[cateto]] oposto e a [[hipotenusa]], ou então aquela diagonal que sempre fica no meio se o ângulo for de 90 graus, como acontece em 80% dos exercícios da apostila.
+
+=== Cosseno ===
+
+Dado um triângulo retângulo com um de seus ângulos internos igual a θ, define-se cos(θ) como sendo a proporção entre o cateto adjacente a θ e a hipotenusa deste triângulo. Ou seja:
+
+ 
+cosº = cateto adjacente/hipotenusa
+
+=== Tangente ===
+
+Ninguém se lembra dela até cair na [[prova]]. É aquela função que fica esquecida em um canto, lá na tangente do [[livro]].
+
+Exemplo do uso de tangente:
+Ei joão, você tava no banheiro?
+Não, porque?
+Ahhh eu gostaria de saber se TANGENTE!
+
+== Círculo Trigonométrico ==
+
+Não satisfeitos em brincar de meter a três com triângulos, os gregos resolveram introduzir o círculo à brincadeira (hum). Mas se a Trigonometria estuda triângulos, o que o círculo está fazendo aqui? Simples. Colocando o triângulo dentro do círculo trigonométrico, <s>'''tendo uma inejável ereção'''</s> com a maior ponta para cima, de preferência, pode-se calcular o tamanho do triângulo, as medidas dos lados e ângulos e também o quanto o círculo suporta. Pode-se também girar o triângulo para a esquerda ou direita, tornando o valor do seno positivo ou negativo, assim como o cosseno e a tangente, mas aí os giros são diferentes.
+
+== Relações trigonométricas ==
+<br>
+''Minha terra tem palmeiras''<br>
+''Onde canta o sabiá''<br>
+<math>\operatorname{sen}\,a \times \operatorname{cos}\,b + \operatorname{sen}\,b \times \operatorname{cos}\,a = \operatorname{sen}\,(a+b),</math>
+
+<math>\frac{sen(gerina)}{cos(gerina)}</math> = [[Arquivo:Aquarela mexerica 01-06-08.jpg|50px]] 
+
+
+== Utilizações práticas da Trigonometria ==
+
+[[Arquivo:trigonometria.png|right|200px|thumb|A não ser que você seja [[Nerd]], é impossível ver alguma utilidade nisso.]]
+
+*Preencher o tempo de gregos e [[nerd]]s desocupados com algo <s>inútil</s> interessante para fazer a cabeça.
+*Professores de Matemática usam-na para torturar seus alunos mais chatos.
+*Calcular coisas que seriam facilmente medidas com uma trena.
+*Se existir mais alguma serventia, favor escrever aqui, apesar de que isso é improvável.
+*{{c|'''Ferrar [[você]] no vestibular, seu trouxa !!!'''.|'''[[Eu]]''', respondendo à petição acima.}}  
+*Calcular o tamanho da Terra, a altura de prédios, a distância entre duas margens de um rio, ajudar a enviar um foguete para a Lua, garantir que as paredes dos prédios sejam construídas retas e, portanto, não caiam... É acho que sou [[nerd]], tô vendo muita utilidade para isso...
+*Usada para que nerds tenham a oportunidade de dar aulas a garotas burras pensando em pedir um "pagamento" em troca, mas no final ficam só na punheta.
+
+[[Categoria:Matemática]]
+
+[[es:Trigonometría]]

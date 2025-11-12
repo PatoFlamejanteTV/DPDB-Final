@@ -1,0 +1,69 @@
+{{Computeiro}}
+[[Arquivo:ChatOO.jpg|thumb|400px|ChatO e seu elogio a sua pessoa.]]
+O Microsoft '''ChatO''' é um programa de computador feito no [[Microsoft DOS 6.2]]. Foi feito por um [[Ceará|cearense]] torcedor do [[Fluminense]] em [[1995]].
+
+== Descrição ==
+
+Ele é o seu [[computador]] falando com você. É!!! O seu [[PC]]. Bom, você que sempre sonhou com um [[amigo imaginário]] de verdade, tem um todo pra você. Mas eu tenho uma coisinha só pra dizer...
+
+Ele é o ser mais honesto desse mundo. [[Você]] sabe por quê?
+não
+
+== Veja só o que ele acha de você: ==
+[[Arquivo:Winlogo666.JPG|thumb|right|185px|Símbolo do programa.]]
+* Que nome [[feio]] o seu não, {{USERNAME}}?
+* Você torce pra o pior time do mundo!
+* O QUE? UM [[idiota|IDIOTA]] COMO VOCÊ TORCER POR FLUMINENSE?
+* Acho que [[você]] é meio... peida na [[farofa]], caga pra dentro...
+* Você não tem talento nenhum
+* Se eu tivesse o teu nome, me matava.
+* Sabe, você já conversou com um pc antes? Não? Claro idiota, você já viu um computador falar?
+
+== Podemos ainda acessar esse programa? ==
+
+<s>Infelizmente não. [[Eu]] tenho o [[CD]] com esse jogo, mas nós, usuários de [[Microsoft Windows XP]] pirata, não conseguimos mais acessar essa droga. Mas melhor mesmo. Só um [[Sadomasoquista]] como você pra ficar entrando em bostas iguais a aquela...</s>
+
+
+Sim. Você só precisa instalar uma Sandbox (para o programa não formatar o seu computador), um emulador de DOS e o programa ChatO.
+Baixe e instale:
+
+- [http://www.sandboxie.com/SandboxieInstall.exe Sandboxie]
+
+- [http://sourceforge.net/projects/dosbox/files/dosbox/0.74/DOSBox0.74-win32-installer.exe/download DOSbox]
+
+- [https://anonfiles.com/file/e5357ba93489daa6ae99c57e70f66774 ChatO]
+
+
+1. Extraia o ChatO para o C:\Chato
+
+2. Procure a pasta de instalação dos DOSbox (Por padrão C:\Program Files (x86)\DOSBox-0.74)
+
+3. Clique com o direito e abra com o Sandbox.
+
+4. Na tela do DOSbox, digite MOUNT C C:\Chato e aperte enter
+
+5. Digite C: e aperte enter
+
+6. Digite CHATO.EXE
+
+7. Aproveite
+
+
+O Sandboxie evita que o ChatO formate o seu computador e o DOSbox serve para que você consiga rodar o programa.
+
+
+{{c|O QUE??? Repita isso e eu me formato!!!|ChatO|minha fala}}
+[[Categoria:Tecnologia maligna]]
+
+== Correção: Sim, é possível sim ainda ter a chatisse do Chato no seu Windows! ==
+
+O jogo chato poderá lhe chatear novamente, para isto basta utilizar um emulador chamado DosBox( [http://www.dosbox.com/download.php?main=1] ), o download do jogo Chato poderá ser conferido aqui: [http://www.4shared.com/file/sNuO8EuP/Chato_-_Game_Win98.html], aproveite a dica (se é que vai te servir de algo mesmo...).
+
+== Ver também ==
+
+*[[Jogo do Collor]]
+*[[Jezzball]]
+*[[Super Mario (DOS)]]
+
+[[Categoria:Chatos]]
+[[Categoria:Tricolores ]]

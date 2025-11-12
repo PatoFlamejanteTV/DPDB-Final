@@ -1,0 +1,59 @@
+{{game}}
+
+{{Infobox Game
+|title     = Duke Nukem Arruinado Forever
+|image     = Duke Nukem Forever cover.png
+|caption   = Capa do jogo
+|developer = [[3D Realms|0D Realms]]
+|publisher = [[2K Games]]
+|released  = [[2011]]
+|genre     = Engraçalharo
+|rating    = 0/10
+|platform  = [[PlayStation 3]], [[Xbox 360]]
+|ages      = Livre
+}}
+
+{{C|É o jogo mais bosta de 2011|Rara análise sincera da [[IGN]]}}
+
+'''Duke Nukem Forever''' é para os videogames o que [[Chinese Democracy]] é para a música, algo que não deveria existir, um exemplo que [[Half-Life 3]] deu e não foi seguido. Trata-se de uma aberração em formato de jogo dos anos 90 que foi lançado em 2011 com humor dos anos 80, e foram tantas empresas que o produziram que nem dá mais pra saber de quem foi a culpa de ter lançado um jogo desses.
+
+== Desenvolvimento ==
+
+Acredite se quiser, Duke Nukem Forever foi anunciado em 1997 para ser lançado em 1998, ainda com o título "Duke Nukem: You will Wait Forever", na época só um [[clickbait]] da [[Apogee Software]] que na verdade não planejava lançar nenhum jogo. Eles fizeram aquilo apenas para ver quantos otários acreditavam nesse caô, mas a mentira tomou proporções grandes demais quando um usuário do [[Reddit]] resgatou uma passagem do livro [[charlatanismo|Les Propheties]] de [[Nostradamus]] que dizia:
+
+ Primeiro, tanto quanto qualquer outro que se atirar para fora do [[3D Realms|reino tridimensional]];
+ Para duas águias douradas se isola nas sombras; 
+ Enquanto muitos esperam a aproximação do [[Apogee Sotfware|apogeu]], 
+ Seus fãs superficiais serão todos recompensados.
+
+O que gerou um alvoroço de que o mundo iria mesmo acabar no ano de [[2012]] conforme os [[maias]] previram, cabendo aos funcionários da 3D Realms realmente começarem a fazer o jogo e adiar o lançamento de Duken Nukem Forever por 14 anos, para lançá-lo no ano exato da profecia do Nostradamus.
+
+Para conseguir manter um jogo sendo adiado por tantos anos, a 3D Realms teve que se esforçar bastante em arrumar várias desculpas esfarrapadas, sendo uma dessas desculpas as trocas constantes de [[motor gráfico|engine]]. Sendo assim fizeram um jogo inteiro na [[Quake engine]], depois tiveram que refazer o jogo inteiro na [[Quake II engine]], depois tiveram que refazer de novo o jogo na [[Unreal engine]].
+
+Apesar do tanto de troca de engine, isso havia atrasado Duke Nukem Forever só uns 8 anos, a equipe precisava de mais desculpas. É então que brilha a genialidade de um diretor maluco chamado [[George Broussard]], que toda hora ficava querendo adicionar coisas novas no seu game. Sempre que George Broussard jogava um jogo novo ele voltava para a empresa com vontade de implementar aquilo e parava toda a produção do game.
+
+Os planos de adiar o jogo até 2012 estavam caminhando muito bem, mas pagar funcionários pra trabalhar por 14 anos sem entregar resultados cobra um valor financeiro que a 3D Realms não podia pagar mais, por isso foram na [[Finivest]] e fizeram um empréstimo consignado, além de pegar empréstimo da [[2K Games]] também. Para dar calote nesses credores, a 3D Realms fingiu que entrou em falência e fez seus funcionários desempregados trabalharem na [[Triptych Games]] num prédio alugado da [[Gearbox Software]]. Como o jogo era para PolyStation, precisou também contar com a ajuda da [[Piranha Games]] para fazer o port para PlayStation 3 e Xbox 360. Em 2011 o jogo já estava amaldiçoado o bastante e nem precisaram esperar o fim do mundo em 2012.
+
+== Jogabilidade ==
+
+[[Arquivo:Duke Nukem Forever gameplay.jpg|thumb|Em todos aspectos esse jogo é um excelente simulador de fezes.]]
+
+Duke Nukem Forever é um raro jogo de simulador de fezes. Ao jogar esse jogo o jogador poderá experimentar a sensação real de estar lidando com fezes, com a possibilidade de literalmente coletar fezes das privadas de banheiros públicos ou simplesmente caminhar em fases mal feitas, enfrentar inimigos mal feitos e jogar um jogo tão mal feito quanto cagar fora da privada. Além de ser um belo simulador de jogo merda, Duke Nukem Forever ainda consegue com fidelidade transmitir a sensação de estar jogando um FPS tosco da década de 1990, com direito a excessiva quantidade de piadinhas machistas e autoenaltecedoras que depois de 5 minutos fazem qualquer um imaginar se o Duke na verdade não é gay, pra precisar tanto se autoafirmar a todo instante.
+
+O jogo em si consiste em atravessar uns mapas vazios e avançar por corredores mais vazios ainda e zerar em 5 horas.
+
+== Enredo ==
+
+Após salvar a Terra de invasões alienígenas nos jogos anteriores, Duke volta 14 anos depois para salvar a Terra de uma invasão alienígena. Por algum motivo não muito explorado pelo enredo do game, mas que pelo visto aparenta ser por excesso de consumo de bebidas energéticas por parte da população mundial, todos NPCs homens são extremamente burros, lesados e retardados e todas NPCs mulheres são putinhas no cio, o que tornou Duke o homem mais inteligente, bombado e fantástico da face da Terra, cabendo a ele a missão de proteger o mundo de outra invasão alienígena.
+
+{{Duke Nukem}}
+
+[[Categoria:Jogos da 3D Realms]]
+[[Categoria:Jogos da 2K Games]]
+[[Categoria:Jogos para PlayStation 3]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de tiro em primeira pessoa]]
+[[Categoria:Jogos lançados em 2011]]
+
+[[en:Duke Nukem Forever]]

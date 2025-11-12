@@ -1,0 +1,38 @@
+{{game}}
+{{Correr pra Caralho}}
+{{Infobox Game
+|title     = {{c|Ta Saikiato!}}
+|image     = TheCircuit.jpg
+|caption   = Rival de F-1 Race do Famicom!
+|developer = [[Sega|<font color=blue>CEEEEEGAAAAAAA!</font>]]
+|publisher = [[Sega|<font color=blue>CEEEEEGAAAAAAA!</font>]]
+|released  = [[1986]]
+|genre     = {{RCG}}
+|rating    = 0%
+|platform  = [[Master System|SMS]]
+|ages      = Livre
+}}
+
+{{vqd|Primeiro e verdadeiro game de corrida no SMS}}
+{{vqd|F-1 Race?}}
+{{vqd|[[Carros 2]]}}
+
+'''World Grand Prix''' ('''The Circuit''' em [[Nippon]]) é o primeiro game de corrida no [[Master System]] (além de Hang-On, porém, {{PAGENAME}} é de carros ao invés de motos).
+
+==O game==
+
+Bem você tem um objetivo, assim como em F-1 Race: Chegar antes que o tempo acabe. Você tem três níveis de AI (novamente, coisa lá do F-1 Race):
+
+* Level 1: A CPU não apela tanto com os outros carros;
+* Level 2: A CPU tem um AI mais inteligente pra te foder;
+* Level 3: A CPU apela até umas hora.
+
+==Edit Mode==
+
+Você pode construir uma pista, selecionando o modo '''Edit'''. Nele você pode montar sua pista personalizada, porém, você não poderá salvar a pista, pois o game não tem suporte a bateria, e não há um método de continuação. Ou seja, se o tempo acabar, é [[Game Over|Gemu Oba!]]. Assim que você acabar de andar na pista, você volta pra tela-título.
+
+{{Game Racing}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos lançados em 1986]]

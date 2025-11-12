@@ -1,0 +1,70 @@
+{{game}}
+
+{{Infobox Game
+|title     = Super Mario CORRE
+|image     = Super Mario Run logo.png
+|caption   = Aproveitando também para fazer um merchan das próximas olimpíadas
+|developer = [[Nintendo|Não-intendo]]
+|publisher = [[Nintendo|Não-intendo]]
+|released  = [[2016]]
+|genre     = 2.5D
+|rating    = sei lá, só [[nintendista|fanboy]] gosta disso
+|ages      = Jogue quantas vezes quiser, até suas vidas acabarem é claro.
+|platform  = Celular: [[Android]], [[iOS]] e <s>[[Nokia]]</s>.
+}}
+
+{{vqd|Remake de Super Mario Bros.}}
+'''Super Mario Run''' é um simulador de [[parkour]] do [[Mario]] feito por [[maconheiro]]s e muleques skatistas.
+
+==Jogabilidade==
+[[Arquivo:Super-mario-run-18365-1.jpg|left|thumb|240px|Mario pensando se já fugiu o suficiente.]]
+No total existem 6 mundos com 4 fases cada, isso já mostra que nem deram bola pela tradicionalidade que Mario tinha e até mesmo é contraditório já que [[japonês]] é todo certinho. Diferente dos outros jogos da série, nesse Mario corre sozinho igual um ultramaratonista, pulando até os seus inimigos, e você com seus dedinhos gordinhos aperta a tela do celular para fazer Mario pular.
+
+O [[Mario]] nesse jogo está cada vez mais independente, já que ele passa automaticamente por [[goomba]]s, [[koopa]]s, canos e escadinhas, mas novamente não tem a capacidade de pular um [[buraco]]. Caso você (lerdo) não conseguir pular na hora certa, há uma bolha que te leva pro [[quintos dos infernos]] só para você reiniciar a corrida sem de fato reinicia-la, seria como um continue pré-pago.
+
+[[Arquivo:SeuSirigueijoDrogado.jpeg|thumb|Mario depois de imergir por 6 mundos em poucos segundos.]]
+Também existe os itens que te <s>atrapalham</s> ajudam como o [[cogumelo alucinógeno]] vermelho que dá a ilusão de crescimento, além da [[super estrela]] que é nada mais nada menos que um [[LSD]] puro que faz a pessoa ficar invencível e depois um [[lixo]], segundo os efeitos colaterais.
+
+===Modos de Jogo===
+*'''World Tour''': Modo em que você trouxa joga 24 fases para no final resgatar a [[peach|donzela bitch]]. Depois de resgata-la re-jogue os níveis mais 3 vezes para coletar as moedinhas [[gay]]s.
+*'''Toad Rally''': Esse modo é uma corrida fantasma contra outros lunáticos que jogam esse jogo, seu objetivo é pegar mais moedas e vencer o defunto.
+*'''Friendly Run''': A mesma coisa que o decima, mas agora com os seus miguxos.
+*'''Remix 10''': O modo mais drogado do jogo onde você passa por 30 níveis seguidos para resgatar a [[daisy|concubina do Luigi]].
+
+==Níveis==
+{| class="wikitable sortable"
+|-
+! Mundo !! Nível Fácil !! Nível Médio !! Nível Difícil !! Boss
+|-
+| <center>'''1'''</center> ||[[Arquivo:BILLY.JPG|center|170px]] <center>'''Vamos Pular!!!'''</center> ||[[Arquivo:Caverna01.jpg|center|170px]] <center>'''As Piranha da Caverna'''</center>|| [[Arquivo:Mario chapado.jpg|center|150px]] <center>'''Mario Chapado'''</center>|| [[Arquivo:Fakebowser.png|center|140px]] <center>'''A princesa está em outro castelo...'''</center>
+|-
+| <center>'''2'''</center> || [[Arquivo:Luigi Mansion real.jpg|center|160px]] <center>'''Casa do Bicho-papão'''</center>|| [[Arquivo:Nuvem Branca.jpg|120px|center]] <center>'''Andando no Céu'''</center>|| [[Arquivo:Morcego.jpg|center|150px]] <center>'''Tesouro do Morcegão'''</center>|| [[Arquivo:KombiNave.JPG|150px|center]] <center>'''Planador com Fogo'''</center>
+|-
+| <center>'''3'''</center> || [[Arquivo:Mapadeserto.jpg|150px|center]] <center>'''Quente Caraio!!'''</center> || [[Arquivo:Bullet Bills.jpg|150px|center]] <center>'''Barragem de Tiro'''</center> || [[Arquivo:Pasto verde.jpg|150px|center]] <center>'''Mostre-me o Caminho'''</center> || [[Arquivo:Castelo chamas.jpg|150px|center]] <center>'''Castelo em chamas'''</center>
+|-
+| <center>'''4'''</center> || [[Arquivo:Estrelaespinho.jpg|150px|center]] <center>'''Cortando em Picadinho'''</center> || [[Arquivo:Labirinth Parkour.jpg|150px|center]] <center>'''PARKOUR'''</center> || [[Arquivo:Cavernadodragãoentrada.jpg|150px|center]] <center>'''Perigo, Perigo, Perigo'''</center> || [[Arquivo:BarcoVoador.jpg|140px|center]] <center>'''Outro barco voador'''</center>
+|-
+| <center>'''5'''</center> || [[Arquivo:Ikarotsubasa lakitu.png|120px|center]] <center>'''A Vingança de Lakitu'''</center> || [[Arquivo:Cat and a cactus.jpg|150px|center]] <center>'''Infestação de Cactus'''</center>|| [[Arquivo:Portadaesperanca.jpg|150px|center]] <center>'''As Portas do Inferno'''</center>|| [[Arquivo:Bombril fogo.jpg|150px|center]] <center>'''Círculo de Fogo'''</center>
+|-
+| <center>'''6'''</center> || [[Arquivo:Diaboespinhoso(1).jpg|150px|center]] <center>'''Terra dos Bicho Espinhoso'''</center> || [[Arquivo:FANTASMA.jpg|130px|center]] <center>'''Casa das Almas Penadas'''</center>|| [[Arquivo:Titanicafundando.jpeg|150px|center]] <center>'''Fim de um barco'''</center>|| [[Arquivo:Bomba atomica1.jpg|150px|center]] <center>'''CORRE QUE ATRÁS VEM BOMBA'''</center>
+|-
+|}
+
+==Personagens==
+De inicio apenas Mario, o gordo é jogável. Para ganhar o cabeça de cogumelo apenas é necessário uma dose de LSD, o mesmo vale para Toadette. Peach e Daisy estarão te esperando no final do jogo, e como sempre você tem que salva-las. Já para desbloquear o Luigi é só tira-lo da pobreza construindo uma casa para ele. Para o Yoshi e seus irmãos coloridos você precisará construir um puteiro.
+<gallery>
+Arquivo:Mario Neon.jpg|[[Mario]], o pizzaiolo e herói do reino das drogas
+Arquivo:Luigi-of-mario-bros-sank-pop-art-nintendo.jpg|[[Luigi]], vice-presidente do reino e espião pessoal de Daisy
+Arquivo:0b8d2e0cae3c1347cfa2aeed71c54442.jpg|[[Peach]], principal símbolo sexual do reino
+Arquivo:Best-dog-costumes-homemade.jpg|[[Daisy]], a cadela do reino das drogas e do deserto
+Arquivo:Super mario toad papercraft.jpg|[[Toad]] Drogalino, responsável pela entrada do bagulho no reino
+Arquivo:Toadette Crazy.jpg|[[Toadette]], versão moça de Toad, a mais louca da turma
+Arquivo:YoshiStory.jpg|[[Yoshi]]s, fazem parte da infantaria do reino
+</gallery>
+
+{{Super Mario}}
+[[Categoria:Jogos lançados em 2016]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para iOS]]
+[[Categoria:Jogos para Android]]

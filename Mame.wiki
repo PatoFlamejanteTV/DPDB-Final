@@ -1,0 +1,44 @@
+{{c|TIO! aperta o botão [[5]]!|[[pivetinhos de fliperama]]|Mame}}
+{{c|se existe um [[arcade]],o mame emula, e se o mame não emula você tem que 
+fazer ele emular|regra 34 nerd|Mame}}
+
+{{c|Eeeew!|você|a verdadeira regra 34 sobre o Mame e o Mess}}
+
+[[Arquivo:Boonga.jpg|thumb|right|150px|sim,até esse ele vai ter que emular]]
+
+'''Mame''' ou '''Multiple Arcade Machine Emulator''', é basicamente a versão nerdcore da [[regra 34]], isso é, se existe um arcade, ele é emulado pelo Mame, e se ele não é Emulado pelo mame, é seu dever fazer ele funcionar.
+
+== Regras do basicas do Mame ==
+o Mame para manter seu padrão de Mamice tem certas regras basicas:
+
+*o mame em si sempre vai ser 50 vezes maior do que o [[jogo]] que [[você]] esta tentando emular
+
+*se o mame não for 50 vezes maior que o jogo, o jogo vai rodar lento pra cacete
+
+*Assim que você termina de baixar o mame, eles soltam outro mame melhor, e rodando o jogo que você quer emular melhor
+
+*e esse mame novo por acaso tem romset incompativel com a [[rom]] que você acabou de AHEM dumpar
+
+*Depois que por milagre você junta a rom e o [[emulador]] certos, você descobre que o mame não roda a revisão exata da rom que você tem
+
+*a ultima coisa que vai acontecer no fim da [[internet]] vão ser 3 releases de mame
+
+*Nunca rode o Mame junto com o [[Word]],porque além de isso estuprar sua [[ram]],vai fazer o clip se transformar num pivete de fliperama, e ficar pedindo fichas
+
+== Mess ==
+Só para entupir mais ainda os sites de [[emulação]] de releases, o povo do Mame decidiu criar uma variante bizarra do mame chamada Mess, o Mess tenta fazer o impossível, isso é, emular todos os [[computador]]es e [[video game]]s, mas ele obviamente falha miseravelmente e nem consegue emular um pc direito, mesmo rodando de um pc (!)
+
+==Curiosidades==
+*E o jeito mais barato de zerar final fight, metal slug, cadillacs and dinossaur e qualquer jogos de plataforma que existe
+*Ele tem o recurso de usar cheats (antiético e muito imoral)
+*Tem pessoas que só zeram [[Street Fighter]], [[Mortal Kombat]] e [[The King of Fighters]] usando cheats.
+*Dar especias no mame em jogos de luta é difícil pra cacete
+*Seu pai mandou o criador do mame se foderem porque não consegue dar um especial no street fighter
+*Seu tio também
+*Prefiro não comentar
+
+{{esboço}}
+
+[[Categoria:Milagres]]
+[[Categoria:Video games]]
+[[Categoria:Siglas]]

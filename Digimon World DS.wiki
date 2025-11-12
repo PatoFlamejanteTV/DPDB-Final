@@ -1,0 +1,49 @@
+{{games}}
+
+{{Infobox Game
+|title     = Digimon World DS
+|image     = 250px-1DS.jpg
+|caption   = A capa do jogo, com os digimons principais do Digimon 5.
+|developer = [[Bandai Namco]]
+|publisher = [[Bandai Namco]]
+|released  = [[2006]]
+|genre     = RPG
+|rating    = Legal para os fãs de Digimon.
+|platform  = [[Nintendo DS]], como diz o nome.
+|ages      = Qualquer idade.
+}}
+
+{{vqd|Pokemon Diamond and Pearl Versions?}}
+{{c|Legal esse jogo!|[[você]] jogando Digimon World DS antes de seus digimons chegarem ao nivel máximo.}}
+{{c|Porra! Porque meu Digimon não quer subir mais de nível?|[[você]]|O fato de seus digimons não poderem subir de nível mais, pois chegou na aptitude máxima.}}
+{{c|Como é que a [[Culumon]] sozinha pode derrotar os 7 Devas se por acaso só podemos ter essa Culumon depois de poder derrotar todos eles primeiro?|Você|Digimon World DS}}
+
+'''Digimon World DS''' é um jogo de [[Nintendo DS]], como o nome diz, que foi lançado em 2006.
+
+== História ==
+O [[Protagonista]] do jogo é um gurí com um óculos de natação na cabeça, que nem o [[Tai Kamiya]], que foi sugado para dentro do [[PC]]. Após ser [[boquete|sugado]], ele percebeu que ele estava no <s>[[Inferno]]</s>[[Digimundo]], e resolveu ser um digiescolhido, e então você tem que escolher um dos três digimons: [[Koromon]], [[Tsunomon]], e [[Tanemon]]. <s>isso parece cópia de Pokémon</s>. E então a aventura começa.
+
+== Gameplay ==
+Nesse jogo, você tem 300 digimons para treinar e digivolver, e você também pode criar Digitamas usando o wi-fi, ao menos que você use um emulador. Os digimons fresh, como o [[Botamon]] e o [[Poyomon]] são tratados como os do tipo In Training no jogo, pois os criadores do jogo não queriam que demorasse muito tempo para chegar no estágio [[Rookie]]. Os personagens de Digimon 5 como o [[Marcus Daimon]], também aparecem nesse jogo.
+
+[[Arquivo:200px-Start of game.jpg|left|thumb|O protagonista, antes de ser sugado.]]
+
+== Digifarms ==
+As Digifarms, ou Digifazendas caso você seja [[burro]] e não saiba falar [[inglês]], são lugares aonde você pode treinar seus digimons. Mas para manter seus digimons você precisa de muita [[comida]] ou seus digimons irão [[morte|morrer]] de [[fome]].
+
+== A Aptitude dos Digimons ==
+Para sacanear os jogadores, a Bandai colocou um recurso no jogo chamado de aptitude, que é o nível máximo que o [[digimon]] pode alcançar, ou seja se seu digimon precisa estar no nível 59 para digivolver, e ele tiver aptitude de 45, ele nunca chegará ao nível desejado. Mas não fique desanimado, pois você pode aumentar sua aptitude degenerando seu digimon para uma forma inferior, fazendo com que você tenha que treinar seu digimon desde o começo. E o pior é que só depois de você ganhar o título de Silver Tamer, é que você pode degenerar seu digimon.
+
+{{c|Por isso que os jogos de [[Pokémon]] são bem melhores.|[[Pokemaníaco]]|Digimon World DS.}}
+
+== Curiosidades ==
+*Dos digimons que aparecem em [[Digimon Frontier]], apenas o [[Bokomon]] e [[Neemon]] apareçem no jogo.
+*Você só pode conseguir um [[Veemon]] se você fizer um ovo que irá chocar em um [[Chibomon]] via wifi, mas como você é [[pobre]] e não tem dinheiro para comprar um Nintendo DS e por isso joga no emulador, você nunca consegirá um [[Veemon]] no jogo. [[Risada Diabólica|MWAHAHAHAHAHAHAHAHAHAHAHA!!!!]]
+
+
+{{Digimon games}}
+{{Game RPG}}
+
+[[Categoria:Jogos da Bandai Namco]]
+[[Categoria:Jogos para Nintendo DS]]
+[[Categoria:Jogos lançados em 2006]]

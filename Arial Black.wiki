@@ -1,0 +1,34 @@
+{{DISPLAYTITLE:<font color=black face="Arial Black">Arial Black</font>}}
+{{Jesus Negão}}
+{{Wikipedianaotem}}
+[[Arquivo:Amostra DP Arial Black.gif|thumb|right|200px]]
+{{c|Que fonte é essa mesmo? Acho que nunca usei.|Você|Arial Black}}
+{{c|É feia.|Qualquer um|Arial Black}}
+{{c|Fica linda naquele trabalho que eu tirei 10 e esfreguei na cara dos meus colegas de classe.|Nerd otário|Arial Black}}
+{{Você quis dizer|Areia Negra}}
+{{Você quis dizer|Fonte maldita}}
+{{Você quis dizer|Ariel Negra}}
+{{Você quis dizer|Fonte para trabalho de nerd}}
+
+A fonte '''Arial Black''' não passa de apenas uma <s>droga</s> junção de [[Arial]] com [[Negrito]]. Criada pelos mesmos [[nerds]] idiotas que criaram sua versão normal.
+
+==<font face="Arial Black">Descrição</font>==
+[[Arquivo:Relog.jpg|thumb|left|O tipo de coisa que acontece se você exagerar no Arial Black.]]
+[[Arquivo:Sombra.JPG|thumb|pessoa com a triste existência negra, por achar essa fonte uma perfeição.]]
+Arial Black, morre de inveja de [[Arial]], portanto, foi destinado a buscar vingança, por não aparecer primeiro na lista de fontes de nerds idiotas do [[Word]]. Essa fonte <s>maldita</s> de alta qualidade apenas veio do além, e busca ser <s>[[idiota]]</s> compreendida, e encontrar <s>o inferno</s> seu lugar no mundo. Também frequenta pontualmente um '''psicólogo''' disposto a <s>ganhar dinheiro</s> ouvir a [[pobre]] [[fonte]], e seus <s>chiliques idiotas</s> desabafos por [[falta de atenção]].
+
+Uma versão em itálico da Arial Black era embutida em versões antigas do [[Microsoft Office]]. Hoje, sabe-se lá por que cargas d’água, a [[Microsoft]] – talvez porque nunca pensou mesmo em melhorar a vida dos usuários {{strike|otários}} de seus programas – tirou essa fonte do pacote, mas qualquer site requenguela de [[download]]s a tem. Se [[você]] não a tem instalada, pode ver que a inclinação simulada da fonte normal piora ainda mais a leitura deste artigo. A Microsoft disse que incluiu o Arial Black itálico no Service Pack 3 do [[Windows XP]], mas quem o instalou, não achou essa maldita fonte – [[eu]], pelo menos, não.
+
+{{fontes}}
+{{ampliar}}
+<css>
+# globalWrapper {font-family:Arial Black}
+# bodyContent {font-family:Arial Black}
+a {font-family:Arial Black}
+a:visited {font-family:Arial Black}
+h1 {font-family:Arial Black}
+h2 {font-family:Arial Black}
+h5 {font-family:Arial Black}
+</css>
+
+[[Categoria:Páginas que se parecem com o que elas são]]

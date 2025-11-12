@@ -1,0 +1,73 @@
+{{jogo}}
+{{otaku}}
+
+{{Infobox Game
+|title     = Touhou - Morro do Tráfico
+|image     = 256px-Th10cover.jpg
+|caption   = Capa do jogo
+|developer = [[Team Shanghai Alice]]
+|publisher = [[Team Shanghai Alice]]
+|released  = 2007
+|genre     = Navezinha
+|rating    = 90%
+|platform  = Pc
+|ages      = 10
+}}
+
+'''Mountain of Faith''' é mais um jogo da série [[Touhou]], nesse jogo você escolhe entre as mesmas personagens de sempre pra resolver algum problema e liberar o estágio extra como sempre, ou seja, nada de novo tirando uma minima melhora gráfica.
+
+==História==
+
+Durante o outono, Reimu recebe uma visita em seu santuário (coisa que nunca acontece) de uma pessoa que diz ser representante de deus dizendo pra ela fechar seu santuário pois uma nova filial da [[Igreja Universal|Universal]] foi inaugurada na Montanha Youkai, e a Universal enxerga Reimu como uma possível rival nos negócios, afim de acabar com essa porra toda, Reimu e Marisa devem ir até o morro do tráfico resolver isso tudo pois não se pode fechar o santuário por que ele serve pra vigiar a fronteira entre Gensokyo e o mundo exterior.
+[[Arquivo:MoFCharacters.jpg|left|300px|thumb|Os fdps que enfrentamos no jogo (a autista no canto inferior direito é o chefe extra)]]
+
+* '''Estágio 1''' - Durante o caminho até o morro, você acaba encontrando dois deuses, Shizuha Aki, que pensa que Reimu veio interromper o outono e Minoriko Aki, que pensa que Reimu vai comê-la (no bom sentido) e ai começa mais uma batalha desnecessária.
+
+* '''Estágio 2''' - Nesse estágio encontramos mais uma deusa, Hina Kagiyama, que tenta assustar a protagonista pra ela desistir de subir a montanha e evitar qualquer merda que aconteça, porém acontece o contrário e ela apanha da protagonista em mais uma batalha que poderia ser evitada.
+
+* '''Estágio 3''' - Aqui enfrentamos mais um adversário chato pra caralho que tenta te impedir de subir a montanha, Nitori Kawashiro, uma [[kappa]] que também apanha, depois de apanhar, ela fala de um deus que tá fudendo a montanha toda.
+
+* '''Estágio 4''' - Aqui a porra começa a ficar séria, nesse estágio enfrentamos duas tengus, Momiji Inubarashi, que parece um cachorro ou seja lá que porra for aquilo, e Aya Shameimaru, a tengu repórter tarada, depois de derrotá-la, ela permite você seguir em frente e ir para o novo santuário da montanha.
+[[Arquivo:Sanae kochiya.png|right|250px|thumb|Sanae Kochiya <s>ou Reimu verde se preferir</s>, a sacerdotisa do santuário Moriya]]
+
+* '''Estágio 5''' - Quando chegamos nesse estágio, somos recebidos com uma caralhada de tiros pelos traficantes locais, depois de passar por todos eles, enfrentamos a <s>Reimu verde</s> sacerdotisa do santuário Moriya, Sanae Kochiya, depois de derrotá-la, vem a batalha final.
+
+* '''Estágio 6''' - Depois de sobreviver a tudo isso, enfrentamos a deusa que causou a merda toda, Kanako Yasaka, um ''boss'' apelão do caralho, ela planejava alienar todo mundo de Gensokyo roubando sua fé pra enfraquecer os outros deuses e foda-se o resto, depois de meia hora lutando, ela deixa você vencer e ai você libera o estágio extra e se fode mais um pouco.
+
+* '''Estágio Extra''' - As protagonistas com falta do que fazer resolvem volta à Montanha Youkai pra fazer mais merda e acabam descobrindo que existia mais um deus ali, quando você chega lá, você enfrenta Kanako novamente, que manda você ir embora, mas você com seu espírito de fazer merda, resolve continuar ali, depois de enfrentar Kanako, você encontra a outra deusa daquele lugar,<s>Suvaco</s> Suwako Moriya que é a verdadeira deusa daquela porra e ela exige que a protagonista batalhe com ela também.
+
+[[Arquivo:Th10laststage.jpg|left|300px|thumb|Aqui você se arrepende de ter começado a jogar]]
+== As Protagonistas e os poderzinhos ==
+
+As protagonistas são as mesmas de sempre, porém os poderes delas mudam um pouco.
+
+=== Reimu Hakurei ===
+
+A sacerdotisa do templo que vai ser fechado pela Universal, os tiros dela são:
+
+* '''Homing Type''' - O tiro apelão que segue os inimigos pela fase, pros ''noobs'' que não sabem mirar.
+
+* '''Forward Focus Type''' - É um tiro padrão sem nada de especial.
+
+* '''Sealing Type''' - Um tiro do caralho que vai pra todos os lados da tela (menos atrás de você).
+
+=== Marisa Kirisame ===
+
+A maga com os tiros mais legais e bugados do jogo, os tiros dela são:
+
+* '''High-Power Type''' - O tiro que segue o personagem e quando você aperta shift, ele trava.
+
+* '''Piercing Type''' - O ''laser'' do caralho que destrói que mata todo mundo, se você escolher ele e deixar seu personagem com o poder entre 3.00 e 3.99, o tiro vai bugar e ficar apelão pra caralho matando todo mundo em menos de 10 segundos, porém foi lançado um patch pra corrigir isso.
+
+* '''Magic-User Type''' - Um tiro foda com curto alcança que solta fumaça pra matar os inimigos, você pode deixar em qualquer lugar na fase, até na frente do chefe.
+
+===SpellCards das Protagonistas===
+
+Apesar dos tiros fodas do jogo, suas Spell Cards não são as apelonas de sempre, é só um círculo sem graça que some com todos os tiros que estão em volta de você e te deixa imortal por um tempo.
+
+{{touhou}}
+
+[[Categoria:Jogos da Team Shanghai Alice]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de shoot 'em up]]
+[[Categoria:Jogos lançados em 2007]]

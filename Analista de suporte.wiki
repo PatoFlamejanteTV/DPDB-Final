@@ -1,0 +1,39 @@
+{{compactar|
+{{Vqd|Analista da Preguiça?}}
+{{Vqd|O faz nada?}}
+{{Vqd|Sem paciência com o usuário?}}
+{{C|Mandei o chamado para a sua fila porque não dei conta de fazer|N1|o N2}}
+{{C|Devolvi o chamado para o N1 porque não tinha número de telefone pra ligar|N2|o N1}}
+{{C|Por que o chamado ta parado na fila há mais de 1 minuto?|Supervisor|o N1 e N2}}
+{{C|Sim, o cliente é mais importante que a sua vida, se ele te xingar, você vai tomar um feedback|Supervisor|o N1}}
+{{C|Não é problema meu|N3|o NOC}}
+{{C|Pessoal, o que tá acontecendo com a operação? Eu recebi uma reclamação e não tô sabendo de nada|Preposto|Todo o resto}}
+{{C|Desculpa senhora, mas o seu chamado já foi encaminhado para a torre responsável há 2 anos atrás|N1|o [https://desciclopedia.org/wiki/Usu%C3%A1rio Usuário]}}
+{{C|Ok, vou registrar pela 120º vez que o senhor solicita urgência na tratativa do chamado|N1|o [https://desciclopedia.org/wiki/Usu%C3%A1rio Usuário]}}
+}}
+
+O '''analista de <s>preguiça</s> suporte''' tem como função cuidar da infraestrutura da empresa, na tradução. Ele faz tudo funcionar e ao mesmo tempo faz nada e ainda é constantemente cobrado pela falta de recurso da empresa. São aqueles profissionais que não tiveram sucesso em tentar ser [[programador]]es ou por mera preguiça de tentar. Este artigo é para você que pensa em ingressar nessa "maravilhosa" carreira.
+
+== Requisitos necessários ==
+*Ser preguiçoso
+*Ser inexperiente 
+*Ter qualquer diploma na área de [[TI]] (Qualquer um mesmo)
+*Não saber a diferença entre Hardware e Software
+*Fazer tudo o que te mandam (mesmo você sabendo que vai dar merda)
+*Saber utilizar ferramentas de Service Desk (Somente para transferir chamado para a fila de outra pessoa para que você não precise trabalhar)
+
+== A carreira ==
+[[Arquivo:Analista de suporte.jpg|thumb|300px|Analista de suporte satisfeita com a vida de merda que tem (troxa)...]]
+
+*'''Service Desk 1º Nível''' - Assim como no [[Exército]], você começa como Service Desk 1º Nível (mesmo que Recruta) chamados carinhosamente de quebra galho, é basicamente o [[telemarketing]] da empresa e ainda assim é constantemente cobrado por coisas que nem é culpa sua. São os caras que passam mais de 24 horas por dia pendurado em um telefone maldito que constantemente toca e você é obrigado a atender. Mesmo que você esteja atendendo mais de 20 pessoas diferentes ao mesmo tempo, ainda assim terá que atender todas as outras. É constantemente obrigado a fazer coisas fora de suas funções e ainda é criticado pelos supervisores mesmo quando você está certo. Constantemente recebe feedbacks (eles te chamam uma sala que nem numa [[Escolinha Acarajé Feliz|escolinha primária]] e ficam falando um monte de asneira e pregando sempre que o "cliente" é mais importante que sua saúde mental). A melhor hora do dia é a hora de ir embora, e você sortudo recebe uma última ligação e é um incidente (um erro que foi gerado por algum desenvolvedor "gênio" ou culpa da própria INFRA, mas quem paga no fim é você) que basicamente te obriga a ficar mais horas do que você já ficou até concluir o atendimento. São pessoas que estão constantemente sendo desvalorizadas, não possuem vida social, não conseguem ter paciência com o cliente e dão socos na mesa cada vez que o telefone toca.
+*'''Service Desk 2º Nível''' - Esses são os garotos da TI. Se você fez um cursinho de informática na esquina que custava 100 reais por mês, você já pode ser um N2. É aquele pessoal que formata computador e carrega monitor pra cima e para baixo. Geralmente são adolescentes inexperientes ou velhos gordos que não avançaram mais na carreira e se arrependem de não ter tirado um certificado. Não sabem fazer mais nada além de reiniciar impressoras e computadores. Sempre deixam chamado acumular, são extremamente preguiçosos, e colocam a culpa no 1º Nível por tudo. Não brigam porque não são supervisores e não fazem porque não são N1.
+*'''Supervisor de Operações''' - Depois de muito ser criticado, depois de apanhar muito e tirar um certificado que custa o preço do seu salário todo de N2 (que ironicamente é 1.000 Bolsonaros), você vira Supervisor. Finalmente a vida melhorou né? [[Só que não]]. Agora você é quem leva a culpa por todo o resto além das burrice que o N1 faz. Acha que acaba por ai? Não mesmo. Agora você trabalha mais 8 horas por dia. Como se 24 horas já não fosse o suficiente... e ainda tem que fazer uma pancada de relatório chato que ninguém lê e nem da a mínima e ainda ser criticado por isso. E se o N1 não está sendo <s>escravizado</s> bons atendentes, a culpa é sua. São extremamente frustados com a função e se arrependem de não terem tirado outro certificado.
+
+[[Arquivo:Computador de pobre.jpg|thumb|300px|Nem todo analista de suporte têm uma vida fácil, por sinal nenhum deles têm...]]
+
+*'''Operador NOC (Monitoramento)''' - Se você tirou 2 certificados e tem 3 anos de experiência (o que ironicamente nem é preciso porque qualquer idiota faz o seu trabalho) agora você pode ser do NOC, é aquele pessoal que nos filmes ficam olhando para telas gigantes, escrevendo relatórios, visitando salas de servidores, não dormindo nem tendo vida social... Agora você fará o mesmo, mas com o salário muito menor (se você ganhava 1.000, agora vai ganhar 1.500). Se já achava ruim antes, agora vai ficar ainda pior. Trabalha todo final de semana, em qualquer turno que a empresa quiser, é extremamente desvalorizado. Se todas as outras torres ficarem de folga, você terá de estar lá. Se a empresa pegar fogo, você terá de estar lá. Se cair um avião na empresa, você terá de estar lá. Sua função é basicamente ficar olhando para uma tela que nem um zumbi esperando que algum servidor ou sistema caia, para que só então você ligue para os preguiçosos dos analistas de 3º Nível, para que eles só te respondam "Problema do NOC" e você tenha que se virar para resolver.
+*'''Service Desk 3º Nível''' - Agora sim, depois de muitos anos sem dormir direito, vários turnos <s>dormidos</s> cumpridos, várias puxação de saco, mais 4 certificados (que levou mais de 5 anos para pagar com o salário baixo) você vira N3. Esses analistas são a pior parte da história, não atendem os chamados que são de responsabilidades deles e mandam tudo para o NOC fazer. São profissionais na arte da preguiça e inexperientes na área de TI. Eles fingem que sabem tudo, mas quando a situação aperta, saem apontando dedos. Não fazem porque não são NOC e não mandam porque não são Preposto.
+*'''Preposto''' - Após mais de 10 anos de carreira e muito <s>preguiça</s> trabalho e alguns certificados na área de Gestão, muita [[encheção de saco]], muita mentira e apontar o dedo e muita indicação de gente pior que você, você vira o Preposto. Nada mais é que um fantoche, ele serve para assumir os erros das demais torres na frente do cliente, basicamente o dono real do contrato late para o Prepostop e ele abaixa a cabeça e obedece. Se arrepende de não ter feito uma faculdade decente e tirado melhores certificados. É constantemente cobrado pela alta Gestão da empresa. E seu salário ainda continua baixo.
+
+{{Ampliar}}
+{{Profissões}}

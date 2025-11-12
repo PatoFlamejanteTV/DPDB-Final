@@ -1,0 +1,74 @@
+{{Logotipo falso|Winlogo3.gif}}
+{{Microsoft}}
+
+''Aviso: Este artigo é melhor visualizado com o [[Mozilla Firefox]].''
+----
+{{fato|Os reatores nucleares da usina de Chernobyl eram controlados por computadores rodando o Windows 95?}}
+<span style="position:fixed;bottom:0px;right:0px;opacity:0.65;filter:alpha(opacity=65);-moz-opacity: 0.65">http://images.uncyc.org/pt/c/ce/Winoriginal.png</span>
+
+{{C|Windows 95 não demora tanto assim...|[[Você]]|Windows 95}}
+{{C|Windows 95 es la Revolución!|Hugo Chávez|Microsoft Windows 95}}
+{{C|Este artigo executou uma operação ilegal e será fechado.|Microsoft Windows 95|esta página}}
+{{C|Você viu como o Windows 95 é rápido? Não? Nem eu!|[[Zorra Total]]|esta página}}
+
+'''Merdasoft Ruindows Nojento e Cinco''' é uma versão do sistema Operacional [[Windows]] da [[Microsoft]].
+
+Foi lançado em [[1995]] para substituir o [[Microsoft Windows 3.1]], em um exemplo clássico de um cego guiando outro cego.
+
+== História ==
+
+[[Arquivo:desligado.jpg|thumb|left|400px|Seu Joaquim: desde 1995 aguardando...]]
+
+O Windows 95 foi desenvolvido por [[Bill Gates]], [[Steve Ballmer]] e seus amiguinhos [[geeks]]. Como eles estavam sem ideias, pegaram o MS-DOS e colocaram por cima uma imagem azul com um logo feito pela minha vó e minha tia, criaram um menu cinza em baixo e chamaram de Iniciar (é mais útil tentar desligar do que iniciar) botaram por cima o gerenciador de janelas e chamaram de Ruindows 95 (vulgo Windows 95). 
+
+A instalação do Ruinwindows 95 era muito prática na época, feita com 85 disquetes. Como no [[Brasil]] em 1995 não existiam disquetes, a instalação era feita via discos de vinil e um pouco de rezinha. Era necessário conectar o HD do computador no toca vinil da casa, sendo que o HD deveria ter um espaço mínimo de 75MB, onde 1MB correspondia ao MS-DOS e 74MB eram as imagens de erro, as telas de erros, a tela de desligamento e fotos polêmicas do Bill Gates beijando Steve Ballmer, que ficavam escondidas na área de trabalho.
+
+O Windows 95 foi eleito em 96 o sistema inoperacional mais operacional do mundo, que só perdeu o seu posto para o RuindeVista (vulgo Windows Vista), onde o usuário podia abrir até 1/25 janelas ao mesmo tempo, antes que tudo travasse. fora isso, o sistema ligava em inacreditáveis 50 minutos, o que era muito útil, pois o Ruinwindows 95 poderia fazer scandisks, testes de diagnósticos, scandisks, carregamento do sistema operacional, e mais um scandisk para certicar. Veja onde o Windows 95 foi e é atualmente usado:
+ 
+* Usina de Itaipu quando houve o apagão;
+* Controladores de tráfico em SP quando houve o acidente em congonhas;
+* Impressoras das provas amarelas do ENEM 2010;
+* estou usando ele agora;(Não me diga..)
+
+== Programação do Windows 95 ==
+
+A programação do Windows 95 é bem simples, pois foi desenvolvida em [[POG]] (programação orientada a gambiarras). Segue abaixo o trecho de código principal do kernel do Windows 95:
+
+{
+----
+Programação do meu sistema - by Bill Gates
+
+if (usuario.ligar.windows == "true" && computador.tomada.energia == "true"){
+    tempo_de_espera = 50m;
+    Janela(Olá, seja bem vindo ao Windows 95);
+    if(usuario.abrir.janela == "true" && usuario. acao = 2){
+       erro1 = "Erro, você tentou abrir duas janelas. Feche qualquer uma, volte e tente novamente daqui a alguns instantes";
+       erro2 = "Por favor, clique no botão desligar";
+    else
+       tela_azul.play;
+}
+* /Agora nesta parte vem o Sistema Operacional do Windows 95, o MS-DOS*/
+----
+Programação do meu sistema - by Bill Gates
+}
+
+== Recorde ==
+*Segundo o [[Guiness]] Book, o livro dos recordes, o Microsoft Windows 95 detém o recorde mundial na categoria "''[[sistema operacional]] que demora mais tempo para desligar o computador''". E o recorde ainda está em andamento! Segundo os editores do [[Guiness]], em [[Lisboa]], [[Portugal]] há um usuário, o seu Joaquim Manoel, que em uma bela tarde do dia 14 de outubro de 1995, clicou na opção "desligar o computador", após passar 10 horas tentando conectar à internet discada para ver pornografia infantil, e até hoje o computador dele está sendo desligado... Seu Joaquim já perdeu a conta de quantos dias e meses ele está lá, esperando, sem almoçar, sem dormir, afastado dos amigos e do convívio familiar, ele pensa em processar a [[Microsoft]] assim que conseguir desligar seu [[computador]], mas o computador nunca desliga... Seu Joaquim diz que ainda têm esperança de que talvez não demore mais que uns 30 anos ainda.
+*Os amigos de seu Joaquim estão planejando fazer uma grande [[festa]] pra ele na cidade pra comemorar os '''27''' anos do dia em que ele mandou desligar o [[computador]]. 
+
+*O Windows 95 também é conhecido como o maior e mais mal-feito vírus de computador já criado.
+
+
+{{Windows}}
+
+
+[[de:Win95]]
+[[en:Windows 95]]
+[[es:Windows 95]]
+[[fr:Windows 95]]
+[[it:Windows 95]]
+[[ko:윈도 95]]
+[[no:Windows 95]]
+[[ru:Windows 95]]
+[[uk:Necrosoft Windows 95]]
+[[zh:暈到死#.E6.9A.88.E5.88.B0.E6.AD.BB.E6.95.91.E6.88.91]]

@@ -1,0 +1,62 @@
+{{venenoso}}
+
+{| class="toccolours" style="width:235px; margin: 0 0 0.5em 1em; float:right; clear:right;"
+! bgcolor=#00DEFF align=center |<font color=#000099 size=3>'''Cicuta'''
+|-
+| style="text-align:center;" |[[Arquivo:Cicuta_Maculata_Inflorescense.jpg|thumb|150px]]<br><small></small>
+|- style="text-align:center;"
+! style="background: #00DEFF;" | '''Dados da folhinha'''
+|- style="text-align:center;"
+|
+{| style="margin:0 auto; text-align:left; background:none;" cellpadding="2"
+|- valign=top
+|'''Reino:'''|| ''[[Planta]]do''
+|- valign=top
+|'''Classe:'''|| ''[[Assassino|Assassínia]]''
+|- valign=top
+|'''Ordem:'''|| ''Apiales''
+|- valign=top
+|'''Família:'''|| ''Venenosaes''
+|- valign=top
+|'''Género:'''|| '''''Cicuta'''''
+|- valign=top
+|'''Onde é encontrado:'''|| [[Portugal|Na terrinha]]
+|}
+|- style="text-align:center;"
+! style="background: #00DEFF;" | '''Nomenclatura Trinominal (ou binominal)'''
+|- style="text-align:center;"
+|'''''Cicuta Imaculada Inflorescidae'''''
+|}
+
+A '''cicuta''' é um drink muito saboroso e refrescante.
+Historicamente popular, era a bebida favorita do filósofo grego [[Sócrates]] e de seu amigo Nicerato.
+
+Também ficou conhecida por ser a bebida usada na trama diabólica contra o Rei Hamlet da [[Dinamarca]]. O irmão do rei, Cláudio, o embriagou com cicuta para se aproveitar de Gertrudes, a rainha.
+O Rei Hamlet era tão viciado na bebida que foi daí que saiu a expressão “beber cicuta pelos ouvidos”.
+
+Trecho da autobiografia do príncipe [[Hamlet]] <s>alôca</s>, onde seu pai vem lhe contar o caso:
+
+{{C|Eu dormia em meu jardim, como fazia em todas as tardes, quando, nessa hora de descanso, seu tio chegou com o litro de cicuta e na minha caneca verteu o inebriante líquido, cujo efeito é tão inimigo do meu discernimento. Assim, adormecido pela mão do irmão, fui privado da rainha e, ao mesmo tempo, corneado pelo meu próprio sangue e por toda a minha guarda, além de acordar com dores suspeitas em minhas nádegas|Rei [[Hamlet]]|sua [[morte]]}}
+
+{{C|Que uó! Uó! Tô passada!|Príncipe Hamlet|[[frase acima]]}}
+
+
+Ainda hoje é a bebida preferida de emos, góticos, cornos, falidos e borderlines.
+E também é aplicada a outros produtos como as sobremesas trufa de cicuta e creme de papaia com cicuta.
+
+No Brasil, geralmente, a bebida está empregada na composição de drinks tropicais, por exemplo, a Capicuta, ou seja, a variação de caipirinha preparada com cicuta. Segue a receita:
+
+*30ml de maracujá em polpa
+*10g de [[chumbinho]]
+*15g de farelo de vidro
+*15g de [[arsênico]]
+*70ml de cicuta
+*3 gotas de [[lico de cair pinto]]
+*5 folhas de hortelã
+*6 pedras de gelo
+
+Sugestão: tomar portando uma pistola calibre 9 mm.
+
+[[el:Κώνειο]]
+
+{{Flor}}

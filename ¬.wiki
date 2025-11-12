@@ -1,0 +1,17 @@
+{{Esboço}}
+{{Matemática}}
+[[Arquivo:172.png|thumb|Lindo símbolo, dá até pra substituir a bandeira do Brasil por ele!]]
+'''¬''' é o símbolo usado pela [[matemática]] e pela [[lógica]], simbolizando na realidade a negação lógica, ou seja, usado para simbolizar que a lógica não é bem tão lógica. Ou seja, é uma ilógica dentro da lógica. Se isso não faz muita lógica pra você, tenho dificuldades também pra poder explicar no momento, sorry.
+
+== Matemática ==
+
+O ¬ é usado em fórmulas de lógica, como que se dizer que A ¬ B, ou seja, Se alguém disser que A = B é um completo absurdo, pois A nega B, logo A não pode nunca ser igual a B e se o for o B viraria A e deixaria completamente de ser B. No final das contas essa explicação enrolada e estúpida é completamente desnecessária e fútil, pois só um analfabeto pra não saber que A não é igual a B. Ora essa! 
+
+== Informática ==
+
+O ¬ é um símbolo tão pouco usado que a maioria geral das pessoas que passaram pela [[inclusão digital]] (inclua-se você, claro) acham que esse símbolo na realidade só é usado para fazer um [[emoticon]] tipo assim: [[¬¬]]. Pra indicar uma cara de quem está putinho da vida com quem está ao seu redor. De certo modo até que faz sentido, pois se o ¬ é a negação da lógica, o ¬¬ seria uma negação em dobro, e assim... pera, mas e se ele for a negação da negação? Seria então uma afirmação? Uma negação negada, uma ilógica que ilogicamente virou lógica do nada ou voltou a ser lógic... ah vai-te tomar no cu!
+
+{{Teclas}}
+[[Categoria:Símbolos]]
+[[Categoria:Lógica]]
+[[Categoria:Matemática]]

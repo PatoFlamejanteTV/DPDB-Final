@@ -1,0 +1,131 @@
+{{game}}
+{{ninja}}
+
+{{Infobox Série Game
+|title         = Shinobi
+|image_logo    = ShinobiArcade.png
+|caption       = Capa do jogo. Vendendo ideias de como sair matando sem máscara
+|genre         = plataforma ninja
+|developer     = [[Sega|CÉGA]]
+|publisher     = [[Sega|CÉGA]]
+|origin        = [[Arcade]]
+|first_release = [[Shinobi (jogo)|Shinobi 1]] (1987)
+|last_release  = [[Shinobi 3D]] (2011)
+}}
+{{Compactar|
+{{cgoogle|[[Chernobyl]]}}
+{{experimente|Ninja Gaiden}}
+{{c|Olhe ele ali.... ué?? Cadê ele??|[[Sua mãe]]|Shinobi}}
+{{c|Mãe! Quero uma espada dessa!!|Seu primo|Shinobi}}
+{{c|Aff... Eu sou muito mais rápido!!|[[Sonic the Hedgehog]]|Shinobi}}
+{{c|Essa espada corta dos dois lados?? Hehehe...|[[Batoré]]|Shinobi}}
+{{c|Bons tempos...|[[Seu pai]]|era 8-bits de Shinobi}}
+{{c|O meu é melhor que o seu!!|[[Você]] comparando seu [[PS2]] ao [[Mega Drive]] do [[seu pai]]}}
+{{c|Sou mais eu!!|[[Jackie Chan]]|Shinobi}}
+{{c|Não concordo!! EU sou  melhor!!|[[Jet Li]]|citação anterior}}
+{{c|Ahh é? Você quer que eu prove??|[[Jackie Chan]] e [[Jet Li]]|origem da parceria deles nos cinemas}}
+{{c|Nossa!! Nem parece que é mais velho que eu...|[[Kratos]]|Shinobi}}
+}}
+'''Shinobi''' é um game estilo [[Ninja|oriental]] produzido pela [[Sega|CÉGA]] feito para vários consoles (aliás atenção naquela época era o que mais era preciso).
+
+== A história de um Ninja ==
+[[Arquivo:Arcade-sega-shinobi1.png|thumb|right|255px|Joe cumprimentando alguns cyber-ninjas-terroristas-sapos.]]
+Era uma vez Joe Musashi, um garoto [[Japão|oriental]] bom de briga. Durante sua infância, era conhecido pelos suas incríveis habilidades de manuseio de armas, como por exemplo podia jogar uma faca a 1000k/m por hora, e do nada voltava para sua mão, e vice versa. Como seus pais eram [[Capitalismo|capitalista]]s, eram fãs de [[anime]]s e se originavam do [[Brasil]], decidiram largar o filho em um clã de maloqueiros rebeldes para ver se o seu filho podia se virar com a bagunça.<br>
+1 ano depois, Joe ajudou os meliantes a fundarem um clã de ninjas indempendentes dos outros (como se isso fosse novidade), com equipamentos roubados de vários outros clãs ninjas. Após a construção, decidiu largar o clã na mão pra viver suas próprias aventuras (ele prometeu que iria voltar, por que foi buscar [[sushi]] pra festa de aniversário do mestre). Porém, rua a fora, descobriu um desastre natural; um velho com sindrome de pintura japonesa conheçido como ZÉÉÉÉÉÉÉÉÉd decidiu limpar geral com seu clã de cybers-ninjas-terroristas, raptando os novatos do clã Oboro, e anunciando que [[Terceira Guerra Mundial|a coisa vai ficar preta]]. Como Joe ainda tinha 30 segundos de sobra pra passear, decidiu catar <s>em</s> sua espada, vestir um kinômo preto, assinar um contrato com o [[governo]] para receber dinheiro pro sushi (já que ele esqueceu o dinheiro quando saiu do dojo), e, SEM MÁSCARA NENHUMA, saiu pra limpar o chão com todos os cyber-ninjas-terroristas no local (não, não é [[Beat'em up]]).
+
+=== Depois dos Acontecimentos Ninjas ===
+[[Arquivo:Sninja.jpg|120px|right|thumb|155px|Hibana antes de virar uma cyber-ninja.]]
+[[Arquivo:Shinobi game.jpg|239px|left|thumb|Acredite este é outro ninja (Hotsuma). Afinal Joe nunca gostou de preto mesmo.]]
+Algum tempo depois de ele finalmente acabar com todos os cyber-ninjas-terroristas e dar um fim a organização ZÉÉÉÉÉÉÉÉÉd, ele <s>teve a cara-de-pau e</s> voltou para o seu dojo. Porém, aconteceu uma tragédia; Joe se esqueceu do [[Sushi]], fazendo seu mestre morrer de [[Inanição]]. Todos os ninjas do clã se separaram após verem que a festa não ía acabar nunca e, pra piorar, sua namorada foi sequestrada pela gangue do ZÉÉÉÉÉÉÉÉÉd. Ele jurou morte aos seus inimigos, e blá blá blá... saiu em busca de porrada, agora vestindo um kinômo branco como o branco (porém ele ía ficar vermelho com o tempo).<br>
+Depois dos acontecimentos, Joe declarou guerra a gangue do ZÉÉÉÉÉÉÉÉÉd, fazendo inúmeras batalhas de 2 em 2 anos (cada ano sugere um dos jogos do Shinobi. Spin-offs e versões de outros consoles contam na história, afinal Ninja foda mata quantas vezes quiser).<br>
+Quando chegou em 2XXX, Joe se cansou e decidiu sair do rumo, indo fazer alguns [[Assasinato|bicos]] em outros países pelo mundo, deixando o trabalho para Hotsuma e Hibana; dois cyber-ninja sócias do Joe que tiveram bolas de terminar o serviço de Joe. É a mesma história; alguma organização ao estilo ZÉÉÉÉÉÉÉÉÉd que quer dominar o mundo metendo a espadada no rabo dos outros, e tanto Hotsuma quanto Hibana devem salvar o mundo, matando todos os cyber-ninjas-terroristas que encontrarem pelo caminho. A diferênça é que aqui o mundo é [[Futuro|high-tec]], você pode sair teletransportanto pelas ruas e um monte de meliantes paga paus ficam como encosto no seu caminho, até rival fica ([[Sonic the Hedgehog]]? Talvez).
+
+== Jogo Ninja ==
+[[Arquivo:Shinobi3 2.jpg|left|thumb|230px|{{c|Eu vou te peg... Aaargh!!|Pobre samurai adversário}}]]
+Na maioria dos jogos, Joe (ou seus sóçias) deve sair pelas ruas das cidades sei-lá-aonde-deve-ser, metendo a shuriken e a espadada na cara de todos os cyber-ninjas-terroristas que encontrar no local (até para jogos de plataformas, todos os civís da cidade tiveram que se instalar em outro país para facilitar seu trabalho que rezide em apenas um [[estado]]). Para inovar um pouco o bico, Joe pode se utilizar dos mais sofisticados armamentos que encontrar no local ([[ninja]] foda não precisa disso, mas aqui você precisa, meu amigo), além de usar suas mais poderosas técnincas ninjas para saltar para pontos mais altos durante o jogo.
+
+=== Inovações Ninja ===
+[[Arquivo:Ps2 shinobi 2002 1.jpg|right|thumb|235px|Como todo ninja, mata 200 de uma só vez!!]]
+*'''Shinobi''' para Master System ou Arcade, (indempendente do ano em que você nasceu), ofereçe também uma rodada bônus, de acordo com o novato que Joe catou. Neste bônus, Joe passa um tempo de descanso em um armazém, atirando shurikens no meio do rabo de ninjas que apareçem praticando maratona. Se Joe conseguir fazer com que nenhum ninja lhe ataque, o game lhe ofereçe [[Star Wars|o poder]] de usar Ninjutsus (favor não confundir com [[Naruto|Jutsu]]. Você está avisado); alguns especiais que talvez você queira testar quando tiver perto de acabar a fase.
+**Outra inovação é que este jogo tem um objetivo único, [[Pedofilia|salvar todas as crianças novatas do clã Oboro]].
+*'''The Revenge of Shinobi''' para [[Mega Drive|Merda Drive]] ofereçe uma jogabilidade mais... ninja, para você. Além de uma jogabilidade mais... ninja, Joe agora pode utilizar 4 Ninjutsus diferêntes: 
+**''Ninjutsu of Ikazuchi'' (a arte do Trovão, que lhe ofereçe o poder de invocar trovões para proteger se cu);
+**''Ninjutsu of Karyu'' (a arte do Fogo<s>-no-rabo</s>, que lhe permite invocar [[4]] dragões de fogo que queimam seus inimigos, literalmente); 
+**''Ninjutsu of Fushin'' (a arte da Flutuação, mesmo que isso não pareça flutuação, por que Joe somente faz clones que lhe ajudam a pular de trampolim);
+**''Ninjutsu of Mijin'' (a arte da Puverização, aonde Joe vende [[1]] life para sofrer de síndromes se vaporizar em mil Joes, capazes de puverizar os inimigos).
+*'''Shinobi III: Return of the Ninja Master''' é a mesma merda que o anterior, só que Joe está maior, e pode correr.
+*Com o tempo, as shurikens deixaram de ser um quadradinho branco, e sua espada perdeu a aparência de um bambú. Agora ele anda pra todos os lados, e tem até aqueles iguais ao do [[Megaman]]!! Mas tudo é uma questão de tempo... Você precisa matar o ninja preto com o...
+
+== As Armas Ninja ==
+[[Arquivo:Shinobi iii wii vc large.jpg|thumb|left|220px|Joe passeando nas ruas de malandros. Note como ele está feliz em conheçer as iguarias.]]
+Durante todas as aventuras, Joe pode se encontrar com as mais sofisticadas armas que ele encontrar no caminho. Todas as armas são do estilo "essa é mais poderosa que a bla bla bla...":
+
+=== Armas de Longo Alcançe Ninja ===
+[[Arquivo:SShinobiBonus.jpg|thumb|right|230px|Prazer, você falhou.]]
+
+*'''Shuriken:''' Arma principal. Joe a lança a 50k/h, matando o primeiro meliante que ousar respirar o ar dele. '''''Como ele conseguiu:''''' Oras, Shuriken é a estrela principal de um Ninja. Caso contrário, uma boa [[Fatality|espada]] pode resolver o caso
+*'''Shuriken de Três:''' Um Power Up feito especialente para quem não quer usar uma peicheira. Joe tem a <s>cabça</s> possibilidade de lançar três Shurikens em seguida. '''''Como ele conseguiu:''''' Existe relatos que Joe havia batalhado com [[Megaman]], e no final a situação ficou como essa.
+*'''KÚnai (exclusivo dos jogos posetiores):''' É a mesma história que a Shuriken, por isso não espere muito. '''''Como ele conseguiu:''''' Quando saiu do dojo pela segunda vez decidiu trocar suas shurikens pelas KÚnais, assim que percebeu que fez a escolha certa ([[ou não]]).
+*'''KÚnai com Fluoresente (exclusívo dos jogos poseriores):''' Quando Joe pega um Power Up e se lembra que ele tem uma espada guardada nas suas costas, ele se lembra também que pode usar Fluoresente para fazer a sua Kunai ficar com dupla <s>penetração</s> força. O resultado é uma Kunai de fogo, luz e fluoresente (afinal ninguém ainda soube o que acontece naquele troço). '''''Como ele conseguiu:''''' Relatos afirmam que Joe usou o dinheiro que era para comprar o [[Sushi]] para ir a [[Polishop]], comprar alguns fluoresentes e espadas mais afiadas.
+*'''<s>Peixeira</s> Faca:''' Uma arma modificada, segundo o game. Joe consegue manusear a faca como um jato de brinquedo, a lançando na cara dos inimigos, além de ser um ótimo cozinheiro nas horas vagas. '''''Como ele conseguiu:''''' Joe era mestre na cúlinaria japonesa, sabendo até fazer o [[Faquinha na boca]].
+[[Arquivo:Shinobi3 titulo.jpg|right|thumb|239px|Na época em que Shinobi era novidade.]]
+*'''Bomba:''' Joe também era único, aonde decidiu ir além do que um Ninja deve fazer. Ele decidiu levar algumas bombinhas de curto alcançe para ver o expetáculo que causava. As bombas, apesar de fatais, fazem explosões azuis do tamanho de sua expessura. É considerada a arma mais legal do jogo pelos fãs alienados, pois ela pode sair rolando pelo caminho até se encontrar com sua vítima. '''''Como ele conseguiu:''''' Na verdade isso foi obra do Governo. Como estava na época da política do [[George Walker Bush|Bush]], eles afirmaram que não queriam deixar Joe matar furtivamente os inimigos, pois furtividade para os [[Estados Unidos]] eles não gostam (não, não gostam não). Ao invés disso, lhe forneçeram algumas <s>merdinhas</s> bonbinhas para Joe usar. Porém Joe óbviamente como um ninja não gostou da ideia, as jogando fora eventualmente (exatamente. Você já atirou bombas no Shinobi? Na verdade Joe não estáva atirando elas nos inimigos, só estáva as jogando fora).
+*'''Pistola:''' Você nunca viu Ninja matando geral com uma pistola? Pois então Shinobi foi fetito exclusivamente para você. Como a arma mais poderosa do jogo (infelismente), Joe manuseia um Pistola como qualquer outra arma do jogo. A única diferênça é que ele tá com a porra de uma pistola. '''''Como ele conseguiu:''''' Joe matou tantos cyber-ninjas-terroristas portadores de pistola que ficou com curiosidade de testar uma das killers, porém isso lhe rendeu vários protestos e consequências de outros [[ninja]]s, como baixa popularidade, spin-offs ao estilo [[Konami]] e Shinobi para [[Playstation 2]].
+
+=== Armas de Combata Mano-a-Mano Ninja ===
+
+*'''Porrada:''' Ninja que é ninja também deve ser foda. Por isso porrada é coisa de foda. '''''Como ele conseguiu:''''' Joe costumava jogar muito [[Rumble Roses]] com a Benikage. Ele tentou fazer igual, mas no final só conseguia dar socos e chutes baixos.
+[[Arquivo:Mistblade shinobi.jpg|left|thumb|170px|Como todo [[herói]] fodão, foi parar até nas cartinhas do [[Magic]].]]
+*'''Espada:''' A espada larga com formato de bambú no jogo. Deveria ser a arma padrão do Joe, mas o problema é que ele precisa dar umas porradas antes de utiliza-la. '''''Como ele conseguiu:''''' Óbviamente Joe já manuseava esta iguaria desde pequeno, porém o problema foi que Joe perdeu sua espada logo no início da sua jornada, tendo que catar emprestado de algum dos iniciantes do Clã Oboro.
+*'''Nunchaku:''' Durante sua aventura Joe decidiu aproveitar o tempo para dar uma de [[Bruce Lee]], catando seu Nunchaku e arrebentando geral (isso já que ele tá sem máscara no jogo mesmo). '''''Como ele conseguiu:''''' Na verdade, antes destes acontecimentos, Joe fazia alguns bicos Ninjas, sobre o codinome Yagyu Ranzou. Durante a visita ele foi derrotado por uns caras chamados [[Double Dragon|Billy & Jimmy]], e um outro gordão chamado Chin. Mesmo aceitando a ajuda deles depois disso, Joe (ou Ranzou) ainda guardava fúria interna, e poir isso roubou os Nunchakus do gordão do Chin. O final original do Double Dragon III na verdade deveria ser uma cena aonde Joe (ou Ranzou) mata todos os terroristas, Billy & Jimmy e Chin duas vezes, mas como a [[Nintendo]] achou que isso ficaria parecido com [[Ninja Gaiden]], ficou naquele final mesmo. Ao menos Joe ([[Flood|ou Ranzou]]) ficou com os Nunchaku.
+*'''<s>Vampire Killer</s> Corrente:''' Ultima arma de combate Mano-a-Mano. Joe agora aderiu as atividades de assassino, sacando sua corrente de [[Os mano|Mano]]s. '''''Como ele conseguiu:''''' Joe uma vez lutou contra um cara com o codinome "[[Castlevania|Belmont]]". Apesar de Joe ter recuado durante a luta por que tava no bônus game secreto do Shinobi, ele estudou os movimentos de luta do [[gótico]], e decidiu tentar fazer igual usando uma corrente qualquer <s>(e não é que ficou igualzinho?)</s>.
+
+== Os <s>Joes</s> Shinobis Ninjas ==
+
+Ao longo que Shinobi foi aumentanto seu número de jogos, milhões de <s>Joes</s> Shinobis vieram com suas devidas inovações, a maioria inútil, e a minoria [[você]] nunca memoriza:
+
+<gallery>
+Imagem:Shinobi1Joe.jpg|'''Shinobi -''' Joe em sua primeira carreira. Nada de mais, apenas o fato de ter uma cara quadriculada, e ter esqueçido de utilizar a [[porra]] da máscara.
+Imagem:ShinobiArcJoe.png|'''Shinobi (Arcade) -''' Joe decidiu fazer um bico nos fliperamas. Porém isso só deixou sua face mais detalhada para investigações. [[Governo|PEGA LADRÃO!!]]
+Imagem:CyberShinobiJoe.jpg|'''The Cyber Shinobi -''' Antes de voltar ao dojo, Joe discretamente catou <s>em</s> um kimono azul e saiu surrando mais alguns ninjas pra passar o tempo.
+Imagem:RevengeofShinobiJoe.jpg|'''Revenge of Shinobi -''' Finalmente a passagem para o [[Mega Drive|Merda Drive]], com kimono branco, ninjutsu... e só.
+Imagem:ShadowDancerJoe.jpg|'''Shadow Dancer -''' Joe decidiu [[Porrada|dancar]] com mais ninjas, agora com a ajuda de um companheiro canino. O [[Tíbia|incrível detalhe gráfico]] fez sua cara parecer um lobo.
+Imagem:ShadowDancerArcJoe.jpg|'''Shadow Dancer (Arcade) -''' Assim como na primeira aventura, Joe também fez bico nos fliperamas. Porém o incrível detalhe gráfico lhe fez pareçer tudo... menos o Joe.
+Imagem:ShinobiIIIJoe.jpg|'''Shinobi III -''' Finalmente o melhor de Joe Musashi. Ninja puro, qualidade gráfica de tirar o fôlego e muito mais [[Suruba|ninjutsu]].
+Imagem:RevengofShinobiGBAPlayer.gif|'''Revenge of Shinobi (GBA) -''' Spin-off com ninja não identificado. Apenas sabemos que ele é seguidor de [[Kung Fu|chinêses]].
+Imagem:ShinobiLegionsSho.jpg|'''Shinobi Legions -''' Apesar de parecer, este não é o Joe. É só um japonês gay chamado Sho que roubou o kinomo branco do Joe, sua espada e até o nome título da série.
+Imagem:ShinobiPS2Hotsuma.jpg|'''Shinobi (PS2) -''' Finalmente a passagem para a nova geração, com Jo... ei! Esse não é o Joe! É o Hotsuma!
+Imagem:NightShadeHibana.jpg|'''Nightshade -''' Shinobi seguindo em frente, com mais inovaçõ... PÔ, esse também não é o Joe! CADÊ AQUELE SAFADO?!
+Imagem:ShinobiPs2Joe.jpg|Ahhhh bom, aí está você.
+</gallery>
+
+== Os Títulos Ninja ==
+
+Joe não foi somente um Ninja, mas foi um grande Ninja. E GRANDE pra cacete, por que ele já fez tantas coisas que só mesmo em uma lista para responder tais questões. Em toda sua carreira Joe reçebeu títulos, sendo que:
+
+*...É o unico ninja que luta ouvindo Techno e Jazz.
+*...É o unico ninja que luta usando um Kimono Branco.
+*...É o unico ninja que consegue lutar em uma prancha de surfe (As Tartarugas Mutantes Ninja são só peso morto).
+*...É o unico ninja que já lutou sem usar mascara nenhuma.
+*...É o unico ninja que lutou com o Exterminador do Futuro, o Homem Aranha, o Batman e o Godzilla, respectivamente.
+*...É o unico ninja que aniquilou sozinho um exército de uma façam criminosa umas bilhões de vezes (podemos levar em conta que Ryu Haybausa (do [[Ninja Gaiden]]) também aniquila sozinho, mas o Ryu é conhecido entre seus amigos, enquanto o Joe nem seu próprio mestre sabe que foi ele que o treinou).
+*...É o unico ninja que não precisa de uma [[Kunoichi]] gostosa te seguindo para auxilia-lo (ele só precisa de sua espada).
+*...É o unico ninja que sabe lutar como samurai (pesquisar The Cyber Shinobi).
+*...É o unico ninja que já lutou com a ajuda de um cão (bem treinado por sinal, pois consegue reconhecer os [[Pinto|pontos fracos]] de cada inimigo).
+
+== Curiosidades Ninja ==
+[[Arquivo:Ninja true ninjas.gif|thumb|right|215px|Uma das antigas fotos anuais da clã de ninjas do Joe. Pela qualidade da foto, é <s>im</s>possível encontra-lo na foto.]]
+*O fato de Joe não usar uma máscara no primeiro jogo é por que <s>ele quis fazer igual ao [[Strider Hiryu]]</s> a máscara era tão apertada que não dava para respirar.
+*Qualquer [[ninja]] de vestimenta branca que você encontrar é só o Joe dando um passeio, mesmo se tiver em batalha, ou se for diferênte do normal.
+*No Metal Gear Solid 4, Raiden queria ser um ninja, mas ficava com medo de sujar suas mãos com as cenas, por isso a [[Konami]] chamou o Joe para ser dublê nas cenas de luta (porém tiveram que pagar com 900000 plantas bonsai e um seguro para levar o dinheiro ao Joe caso ele queira mata-los).
+*Em The Revenge of Shinobi, o jogo teve participações especiais de várias celebridades, como [[Exterminador do Futuro]] (que era só mais um dos clones, tava lá de bobagem), [[Hulk|O Hulk]] (''"Hulk Esmag... Arghhhhhh!!!!"''), [[Homem Aranha]] (queria tirar fotos para o jornal diário, mas Joe não deixou, deixando o Homem Aranha [[Gay|puto]]), [[Batman]] (foi processa-lo por ter roubado os equipamentos do clã de ninjas do filme do Batman Begins), e [[Godzilla]] (preciso explicar por que ele tá aqui?).
+{{break}}
+{{Shinobi}}
+{{sega}}
+{{plataforma}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos para PlayStation 2]]

@@ -1,0 +1,77 @@
+{{game}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Enduro
+|image     = Enduro atari 2600 box art paint.png
+|caption   = Assim como o jogo, a capa também foi feita no [[paint]]
+|developer = [[Activision|Ação Visão]]
+|publisher = [[Activision|Ação Visão]]
+|released  = [[1983]]
+|genre     = Corrida de pixels 
+|platform  = [[Atari 2600]]
+|rating    = 100% faz qualquer um cair no sono em poucos segundos
+|ages      = +40, seu pai deve se lembrar.
+}}
+
+{{experimente|[[Autorama]]}}
+{{C|É dureza, esse jogo!|Jogador de Enduro fera dos trocadilhos|Enduro}}
+{{C|Made by Paint|Frase retirada dos créditos da embalagem de Enduro}}
+{{C|Ah, que nostalgia!|[[Teu pai]]|Enduro}}
+{{C|Ah, sai da frente! O motorista deve ser mulher ou nordestino!|[[Teu pai]] de novo, após ter batido 361 vezes jogando Enduro}}
+{{C|Cadê a embreagem?|[[Teu avô]], tentando jogar Enduro}}
+{{C|O trânsito de São Paulo é igual ao jogo de Enduro, só que mais lento|[[Capitão Óbvio]]|Enduro}}
+{{C|Nosso simulador de corridas para os pilotos|Chefe da equipe McLaren de F1|Enduro}}
+{{C|Eu devia ter jogado mais isso aí quando criança... Aí não faria as mesmas bobagens de hoje|[[Nordestino]]|transtornos no trânsito causados por ele em [[São Paulo]]}}
+
+<s>[[Kuduro]]</s> '''Enduro''' é um <s>item raro pré-histórico</s> clássico game de [[Atari]], lançado em mil novecentos e alguma coisa com dois algarismos que não vem ao caso, pois ninguém se importa, mesmo. Trata-se de um jogo de corrida. O objetivo básico é acelerar e ultrapassar os outros carros. [[O RLY?]]
+
+==Descrição==
+[[Arquivo:Etapas do Enduro no Atari.jpg|thumb|Um enduro encarado por horas.]]
+Em Enduro, você controla <s>algo que parece</s> um carro de corrida, numa pista com percurso aleatório. Cada corrida corresponde a um dia inteiro. Seu objetivo é <s>trombar em todo mundo e destruir os outros carros. YEAH!</s> ultrapassar determinado número de carros (ou seriam protótipos de carros?) antes que o dia acabe, para que assim, você possa continuar correndo no dia seguinte, e assim sucessivamente. Ou seja, o game não termina nunca. O maior desafio é aumentar a sua pontuação, e depois sair contando vantagem pra seus amigos [[nerd]]s. Óbvio que correr durante dias seguidos exige muita paciência, técnica, habilidade, [[CNH]], diploma da [[autoescola]], pequeno histórico de multas, e um [[mol]] de latas de energético.
+
+Sua pontuação corresponde à distância que você conseguiu percorrer antes do game over. Se o jogador conseguisse correr durante cinco dias seguidos (cinco dias no jogo, não dias reais, seu burro), um troféu aparecia na tela. Então, o jogador poderia tirar uma foto da tela da TV e mandá-la para a desenvolvedora do game, o que lhe garantiria o <s>insignificante</s> maravilhoso prêmio de um patch declarando-o como um "Activision Roadbuster".
+
+Porém, jamais um jogador conseguiu tal prêmio! Também, né? Tirar foto de TV anos 80 com máquina fotográfica meia-boca não vai apresentar uma screenshot de qualidade. Geralmente, quando alguém tonto o suficiente <s>como [[você]]</s> tentava, saía um foto borrada, parecida com a tarefa de artes daquele seu [[sobrinho]] [[pentelho]]. [[Ryu]] poderia ter sido o único ganhador desse prêmio, mas ele preferia destruir os carros, ao invés de ultrapassá-los.
+
+==História==
+Preocupada com os constantes problemas no trânsito, como batidas, acidentes, gente estressada, e afins, a Activision decidiu desenvolver um programa de simulação de carros em alta velocidade, para servir de treino aos baderneiros. A ideia era implementar tal software nas autoescolas de todo o mundo, para que eles fossem usados na avaliação para motorista.
+
+A ideia foi um fracasso completo, pois muitas pessoas foram reprovadas no teste, em especial as [[mulheres]], [[nordestinos]] e [[idosos]], o que explica <s>o tanto de merda que eles fazem</s> os constantes transtornos que eles provocam no trânsito das grandes cidades.
+
+Com o fracasso, a Activision decidiu transformar o software de simulação em um game. Foi lançado para a plataforma [[Atari 2600]], mais conhecido como [[máquina de escrever]].
+
+==Detalhes técnicos==
+A jogabilidade de Enduro se consiste basicamente na de todos os games do tempo <s>da [[Hebe Camargo]]</s> dos dinossauros. Um botãozinho pra acelerar, e uma alavanca para guiar <s>a ximbica</s> o carro. Você pode bater quantas vezes quiser, que nunca se esparramará pelos ares! O carro, claro!
+
+Enduro possui gráficos feitos no estilo [[Paint]]. Ou seja, desenhar um frame, desenhar outro, e mais outro, e mais outro, e por fim, juntar tudo isso numa sequencia animada. Pronto! Seu sobrinho pentelho fez uma tarefa assim no ensino fundamental, né? Essa é a prova da <s>horribilidade</s> simplicidade dos gráficos.
+
+Um detalhe interessante é que o cenário vai mudando de aspecto conforme a hora do dia do jogo. De dia, céu azul, de noite, tudo escuro, e etc. Tudo elaborado com a sofisticadíssima ferramenta de tinta do Paint.
+
+O áudio de Enduro foi gravado da seguinte maneira: pegava-se um gravador; Um funcionário medíocre ia para uma corrida de [[Fórmula 1]], gravava o som ambiente numa fita <s>cacete</s> cassete, mandava pra desenvolvedora, e eles colocavam o som em cima das imagens do jogo. Simples.
+
+==Usos frequentes==
+
+[[Arquivo:Formula_1_decolando.jpg|thumb|Representação artística do que realmente acontece no jogo Enduro!]]
+
+Além de ser fonte de diversão de muitos nostálgicos, este game também é usado de uma outra maneira: no automobilismo, em treinamento de jovens pilotos [[Noob|inexperientes]], para evitar colisões durante as corridas. Só serão promovidos a profissionais pilotos que conseguirem pontuação de [[Dragonball|mais de 8000]] '''e''' que correrem durante 5 dias seguidos sem dar uma batidinha sequer. Reza a lenda que [[Michael Schumacher]] conseguiu bater o recorde em Enduro em 1986, correndo durante 11 dias e com pontuação 22314.
+
+
+Apesar disso, ainda acontecem muitas batidas em corridas, principalmente na Fórmula 1. E a punição dada por certas escuderias a cada batida grave é trancar o piloto numa sala pequena com a sogra e alguns sobrinhos, e obrigá-lo a jogar Enduro 5 horas seguidas. Tal técnica foi possivelmente usada como forma de tortura durante a [[ditadura militar]] brasileira. Mas foi rapidamente abandonada, por causa de sua tamanha crueldade.
+
+==Quem joga==
+Enduro é jogado atualmente por:
+
+* Pessoas com 40, 50 anos de idade, que jogam para matar as saudades, e também para se aliviar da dor causada pelo [[exame de próstata]].
+* <s>Nerds</s> Gamers que não tem o que fazer, e passam o dia batendo punheta, comendo batatas fritas e jogando tudo quanto é game!
+* Gamers saudosistas que acham Need for Speed um [[Merda|coliforme fecal]].
+* [[Pobre|Pessoas que não têm dinheiro suficiente]] pra comprar consoles de verdade!
+* [[Mulheres]], na tentativa de aprender a dirigir sem fazer merda.
+* Crianças aspirantes a pilotos de automobilismo.
+
+{{Game Racing}}
+
+[[Categoria:Jogos lançados em 1983]]
+[[Categoria:Jogos da Activision]]
+[[Categoria:Jogos para Atari 2600]]
+[[Categoria:Jogos de corrida]]

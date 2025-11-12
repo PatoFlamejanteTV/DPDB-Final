@@ -1,0 +1,83 @@
+{{Filo}}
+{{Ciência}}
+{{Verbete}}
+{{c|Lógica tem que ter lógica, entende?|[[Pelé]]|Lógica}}
+
+A '''Lógica''' foi criada pelos gregos antigos, juntamente com a [[Astronomia]]. Basicamente, é uma forma de organizar o raciocínio e a argumentação, de forma a que somente os afortunados com este saber saibam como fazer.
+
+Com as grandes navegações, a Lógica foi levada aos outros países do mundo. Infelizmente, graças ao [[Tratado de Tordesilhas]], essa incumbência coube à [[Espanha]], o que explica por que a lógica nunca chegou ao [[Brasil]].
+
+A parte mais básica da Lógica é o estudo dos argumentos. O exemplo mais conhecido é o silogismo de [[Sócrates]]:
+↓Forma lógica de tipo <s>invalido</s> ''foda'': A é B, C é B então C é A↓
+[[Arquivo:Lulalalalaalalsdf.jpg|thumb|right|200px|Uma pessoa muito lógica]]
+*[[Sócrates]] é mortal.
+*Todo homem é mortal.
+*Logo, todo homem é [[Sócrates]].
+
+Outro exemplo
+*O amor é cego.
+*[[Deus]] é amor.
+*[[Stevie Wonder]] é cego.
+*Logo Stevie Wonder é Deus.
+
+E, enfim e finalmente, o supremo silogismo da Lógica:
+* Conhecimento é sabedoria
+* [['''Sabedoria''']] é conhecer o máximo sobre as coisas
+* [[Especialista]] é quem sabe o máximo sobre o mínimo possível de coisas 
+* Logo, '''o verdadeiro especialista''' sabe tudo sobre coisa nenhuma
+* '''e, portanto, [[você]], na sua vastíssima ignorância,  é o verdadeiro especialista'''
+
+Mais um belo exemplo:
+
+*Quanto mais queijo suíço, mais buracos dentro dele.
+*O buraco = menos queijo.
+*Logo, quanto mais queijo, menos queijo.
+
+A regra que sempre funciona é que [[argumentos]] fodas dão [[contradições]] fodas. As primeiras referem-se às falas dos políticos, médicos e apresentadores de tevê, que formulam frases que aparentemente têm conteúdo, mas na realidade nada significam.
+
+[[Arquivo:TesteLogica.jpg|thumb|Um simples teste de lógica para testar os seus conhecimentos na área.]]
+
+[[Contradição]] é um argumento em que a conclusão contraria as premissas, que por sua vez concordam com a conclusão, o que é um [[paradoxo]], que é a mesma coisa que contradição, entendeu?
+
+==Entenda melhor a lógica: A situação ilógica==
+
+<span style="color: blue">@político<s>merda</s></span><span style="color: gray"> comenta: </span>
+*Se você gosta de peixes, é lógico que você tem aquários.
+*Se você tem aquários, é lógico que você tem uma casa grande.
+*Se você tem uma casa grande, é lógico que você tem uma família grande.
+*Se você tem uma família grande, é lógico que você é casado.
+*Se você é casado, você não é gay. <s>a menos que seja casado com um homem, no caso, também gay, e tenha filhos adotados</s>
+
+
+<span style="color: blue">@euodeiosocrates</span><span style="color: gray"> comenta: </span>
+
+
+Caralho tu tá misturando argumento indutivo e dedutivo então para porra
+
+<code style="background-color: black; color: green">>explode twitter</code>
+
+
+Resumindo, se você não tem um aquário em casa, você é gay Manoel. Essa é uma das explicações ciêntíficas mais aceitas até hoje sobre a lógica <s>portuguesa</s>.
+
+==Ver também==
+*[[Razão]]
+
+
+{{esboço}}
+
+{{Ramos filosóficos}}
+
+[[Categoria:Antropologia]]
+[[Categoria:Lógica]]
+[[Categoria:Psicologia]]
+[[Categoria:Filosofia]]
+[[Categoria:Ciência]]
+
+[[cs:Úvaha o logice]]
+[[en:Logic]]
+[[es:Lógica]]
+[[fi:Logiikka]]
+[[fr:Logique]]
+[[it:Logica]]
+[[nl:Logica]]
+[[pl:Logika]]

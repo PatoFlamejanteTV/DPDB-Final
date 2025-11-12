@@ -1,0 +1,50 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Equus
+| imagem          = Um equino aí.png
+| imagem_legenda  = As espécies de equinos hoje em dia são tão híbridas que é difícil defini-las
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| ordem           = [[Perissodactyla|Pterodáctilo]]
+| família         = '''[[Equidae|Equídeos]]'''
+| gênero          = [[Equus|Éguas]]
+}}
+
+'''Equus''', mais popularmente chamados de '''equinos''', são um gênero de animais quadrúpedes e cavalares criados em laboratório para servirem de escravos para o [[homo sapiens]], após tantos experimentos na tentativa de recriar um unicórnio em laboratório, hoje em dia já ninguém sabe definir direito quais são as espécies de equinos, já que metade delas são estéreis e a outra metade pode cruzar entre si.
+
+Todos os equinos do mundo moderno coexistem em [[simbiose]] com os [[homo sapiens]], um tipo de [[primata]] bem egoísta que usa os equinos para práticas de parafilias, mais especificamente uma versão acéfala conhecida melhor como [[Monica Mattos]] e eventualmente para torturá-los com veneno de [[serpentes]] diversas para a fabricação de [[ácido ascórbico]] (Energil C e as demais marcas) em cápsulas a partir da urina do animal e também soro antiofídico. Os equinos também são usados para transportarem coisas e pessoas de vez em quando.
+
+Na cultura popular é interessante notar que o cavalo é um dos três únicos temas aceitáveis para uma pintura, junto com navios com velas e homens que seguram espadas enquanto adotam um olhar perdido ao horizonte. Enquanto alguns argumentam que talvez vasos de flores ou paisagens coloridas com nuvens bonitas também podem ser aceitáveis temas de pintura, equinos majestosos ainda continuam unânimes.
+
+== Anatomia ==
+
+A característica mais chamativa dos equinos é a presença de apenas um dedo em cada pata que é denominada como "casco", esta característica é incomum entre os animais. Muito poucos outros animais têm apenas um dedo do pé, porque é uma maneira realmente estúpida para se locomover. Imaginem patos com apenas um dedo do pé, ou macacos. Apenas um criador bastante estúpido iria produzir um trabalho tão defeituoso, o que reforça as teorias do [[evolucionismo]]. Afinal, até os [[veado]]s têm dois dedos nas patas. Os rinocerontes velhos e fedidos tem três. Mesmo o pequeno gambá desagradável, indesejável chafurdando nas latas de lixo em toda a América tem nada menos do que cinco dedos! E as baleias tem zero dedos, o que faz sentido também. Mas o cavalo, o belo, majestoso cavalo, tem apenas um dedo solitário em cada pata.
+
+Os equinos geralmente apresentam ter uma cabeça de cavalo com crinas, corpo alto e robusto e cauda longa em formato de espanador, um apêndice anatômico traseiro muito conveniente, visto que com apenas um dedo em cada pata os equinos não conseguem usar o papel higiênico apropriadamente para higienizar seu ânus após a defecação, o que pode acumular moscas na região que o dedo solitário de cada pata também não pode ser usado para coçar, logo a cauda serve idealmente para espantar parasitas enquanto balança.
+
+== Habitat ==
+
+O cavalo que geralmente se acredita ter evoluído ao longo dos últimos 4 a 6 séculos a partir de uma pequena criatura de multi-dedos, o mais provável uma lontra ou outra coisa pequena como uma fuinha ou musaranho pré-histórico, ou talvez como uma salamandra ou rato-saltador ou uma coisa ou outra, para se tornar magicamente este grande e único animal-de-coleira de hoje. Os seres humanos decidiram destruir com a liberdade destes equinos caçando-os e domesticando-os por volta do último século o que resultou que hoje os equinos estão extintos na natureza, mortos aos milhões para a predação de suas deliciosas línguas utilizadas para a fabricação de [[mortadela]] e os macios pelos do nariz, salgados.
+
+== Espécies ==
+
+* '''[[Cavalo-selvagem]]''' ''(equus ferus)''
+** '''[[Cavalo|Cavalo-doméstico]]''' ''(equus ferus caballus)''
+** '''[[Cavalo-de-przewalski]]''' ''(equus ferus przewalskii)''
+* '''[[Hemíono]]''' ''(equus hemionus)''
+** '''[[Hemíono-selvagem-da-mongólia]]''' ''(equus hemionus hemionus)''
+** '''[[Hemíono-selvagem-da-índia]]''' ''(equus hemionus khur)''
+** '''[[Hemíono-turcomeno]]''' ''(equus hemionus kulan)''
+* '''[[Kiang]]''' ''(equus kiang)''
+* '''[[Zebra-de-grévy]]''' ''(equus grevyi)''
+* '''[[Zebra-da-planície]]''' ''(equus quagga)''
+* '''[[Zebra-da-montanha]]''' ''(equss zebra)''
+* '''[[Asno-selvagem-africano]]''' ''(equus africanus)''
+** '''[[Asno-doméstico]]''' ''(equus africanus asinus)''
+** '''[[Asno-da-núbia]]''' ''(equus africanus africanus)''
+** '''[[Asno-da-somália]]''' ''(equus africanus somaliensis)''
+
+[[Categoria:Perissodactyla]]
+[[Categoria:Equus|*]]

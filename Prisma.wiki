@@ -1,0 +1,28 @@
+[[arquivo:Prisme.gif|thumb|220px|Um [[prisma]] parecendo um pedaço de [[queijo]] enquanto está posando como se fosse o de [[Hora de Aventura]]: duas bases paralelas, faces laterais retangulares e ainda sobrando tempo pra ser [[lápis]] geométrico ou [[portal]] de [[desejo]] cósmico]]
+
+'''Prisma''' é o [[poliedro]] que estica como [[elástico]]: duas [[base]]s [[polígono]]s idênticas e paralelas, ligadas por faces laterais [[paralelogramo]]s tipo [[lápis]] hexagonal ou [[cubo]] achatado. [[Reto]] quando laterais são [[perpendiculares]] às bases [[cristal]] agradece. Volume? Área da base × altura [[professor]] [[multiplica]], [[aluno]] [[copia]].
+
+==História Rápida==
+[[Euclides]] definiu em 300 a.C. como "[[cilindro]] poligonal". [[Newton]] usou pra [[óptica]] com prisma de [[vidro]]. [[Hora de Aventura]] eternizou com Prismo, o [[gênio]] bidimensional da Sala do Tempo que realiza [[desejo]]s multiversais tipo "um sanduíche" vira [[apocalipse]] se não for específico.
+
+==Cultura Pop==
+* [[Óptica]]: prisma de [[vidro]] divide [[luz]] em [[arco-íris]] [[Pink Floyd]] [[album]].
+* [[Hora de Aventura]]: Prismo, o prisma cósmico rosa que concede desejos Jake pede "um sanduíche" e quase destrói o [[multiverso]].
+* [[Lápis]]: prisma hexagonal [[escola]] [[obrigatória]].
+
+==Curiosidades==
+* [[Prismo]] de Hora de Aventura: manifestado de sonhos de um velho, altera [[tempo]] mas falha com [[GOLB]] [[desejo]] mal feito = [[caos]].
+* [[Papel]] prismático? [[origami]] [[tubo]].
+* [[Cilindro]] é prisma [[circular]] [[troll]] [[curvo]].
+
+{| class="wikitable"
+! Tipo || Base
+|-
+| [[Triangular]] || 2 [[triângulo]]s
+|-
+| [[Hexagonal]] || 2 [[hexágono]]s ([[lápis]])
+|-
+| [[Cósmico]] || 2 [[desejo]]s ([[Prismo]])
+|}
+
+{{Predefinição:Formas geométricas}}

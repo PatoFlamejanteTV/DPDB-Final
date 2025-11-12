@@ -1,0 +1,107 @@
+{{C|Richard M. Stallman não é Unix.|Unix|Richard M. Stallman}}
+
+
+'''Richard Malodorous Stallman''' (também conhecido por '''rms''', '''GNU/Stallman''', ou '''Karl Marx''') é o [[autor]] e o proponente mais proeminente da ''Grande Unificada Teoria da Franca e Acessível Tecnologia'' ([[Gordo|GUTFAT]]), e o fundador da [[GNU]].  GNU é um acrônimo inteligente e descritivo, mas ''definitivamente não-recursivo'', e significa ''Geralmente Não Usado''.
+
+Essencialmente, a teoria de ''rms'' afirma que é mais importante que [[Software livre|softwares sejam livres]] do que usáveis. Recentemente ele se tornou o porta-voz de outros movimentos pela liberdade, incluindo [[amor]] livre, drogas livres e gratuitas (maconha e GNU/Android), [[Tibet]] livre e Whopper® livre com a compra de um ''Whopper Ultra Value Meal''® — por tempo limitado, preços e participação podem variar.
+
+[[Arquivo:800px-Wikimania stallman keynote2.jpg|thumb|350px|"Eu fumei um baseado deste tamanho!"]]
+
+==Primeiros anos==
+Embora o próprio ''rms'' esteja em dúvidas quanto a detalhes exatos sobre sua origem, de acordo com "O [[Dicionário]] do [[Hacker]]" ele foi inadvertidamente criado em uma fábrica de polímeros em [[1953]].  
+
+Um empregado desinteressado estava procurando por um depósito de lixo para um excedente de cera, borracha liquida e resina sintética.  Quando ele descobriu que todo o lixo estava cheio e toda fundição estava em uso, ele jogou a mistura no chão, com a intenção de talvez limpar mais tarde (talvez próxima semana, se ele não tiver nada melhor pra fazer, e seu chefe ameaçar demitir ele outra vez).
+
+O empregado mais tarde percebeu que tal pilha havia se locomovido para outro lugar, deixando apenas um rastro de poliuretano como uma pista de que chegou a existir.
+
+==Feitos acadêmicos==
+[[Arquivo:Rms-blob.jpg|thumb|left|'''Uma feliz reunião:''' O trabalhador da fábrica de polímeros visita ''rms'' em seu primeiro aniversário.]]
+Algum tempo depois, ''rms'' entrou na prestigiosa ''[[:en:Harvard|Universidade de Harvard]]'', aparentemente se posicionando perto a entrada dos fundos, disfarçado como uma gosma de cera, borracha líquida e poliepóxido... e então entrando sorrateiramente quando os seguranças não estavam olhando.
+
+Apesar de não pegar ninguém (''"Rancid muddy stain!  Rancid muddy stain!"''), ''rms'' era um exímio datilógrafo, e pôde se formar em Harvard no ano de [[1974]] com um bacharelado em [[física]], em grande parte graças a cursos intensivos de computação onde nenhum contato real precisaria ser feito com os professores.
+
+Durante o mesmo período, ele conseguiu passar por debaixo das portas e pelas caixas de correio do Laboratório de Inteligência Artificial do [[:en:MIT|MIT]], onde gozou de um relacionamento frutífero (se não-consensual de alguma forma) com o computador PDP-10 do complexo.
+
+==GNU e a FSF==
+[[Arquivo:Brave GNU world (mask).png|right|thumb|Imagens de RMS estão [[pixação|pixadas]] por toda a propriedade da FSF]]
+Em Janeiro de 1984, ''rms'' sofreu queimaduras químicas severas devido ao uso de um spray de desinfetante, portado por um porteiro perplexo que acreditara ele ser um [[fungo]] crescendo a partir de uma xícara de café que algum professor esqueceu. Ele fugiu do MIT com disquetes debaixo de seus braços e atochados em todos os orifícios possíveis, para iniciar o projeto GNU.
+
+Um de seus primeiros trabalhos não relacionados a programação, o ''Manifesto GNU'', foi comprovadamente um festival de pessoas pegando no sono, e mais tarde foi adotado por um empreendimento comercial, reembalado e vendido no mercado farmacêutico industrial como sedativo para [[cirurgia]]s invasivas.
+
+O manifesto detalhava as duras realidades políticas ao encarar o lixo industrial na sua luta ''classe vs. classe'' contra a burguesia bípede carbônica. Também houve menções sobre o design e a criação de um sistema operacional livre e compatível com o [[Unix]], mas ninguém conseguiu lê-lo até tal ponto até a disponibilidade popular de ''No-Doz.''
+
+Quando se tornou óbvio que sua aparência globular constituía uma barreira insuperável para o sucesso do seu empreendimento de software, ''rms'' incorporou a ONG ''[[:en:Free Sockpuppet Foundation|Free Sockpuppet Foundation]]'' (FSF) para prover oportunidades a entidades com o mesmo problema (slogan: "Novas identidades, novos começos, novos horizontes.")
+
+==Sistema Operacional==
+[[Arquivo:Rms.jpg|thumb|left|'''Na busca por algum tipo de inclusão,''' ''rms'' foi afiliado por pouco tempo de um perigoso grupo de explosivos plásticos durante o fim da adolescência.]] 
+Com seu novo empreendimento dormente, ''rms'' se viu derrotado, incapaz de criar um [[Milho|kernel]] funcional para complementar sua gama de utilitários e finalizar o ''GNU Operating System''. Ele criou uma equipe de programadores de sua rede de poli-simpatizantes, e então deu-lhes a missão e seu slogan: "Máxima União para Rapidamente Desenvolver Algo"
+
+Assim, o ''Projeto MURDA'' se iniciou pra valer no início dos anos 90, mas logo ficou claro que o esforço enorme para produzir um pacote revolucionário foi, de fato, para nada, graças a péssimas decisões de design. O público, que estava ansiosamente esperando atrás da porta por algum tempo, eventualmente foi para os campos férteis do [[Linux]], e o projeto da GNU foi para o lixo.
+
+==Críticas==
+Enquanto ele pode ter começado a ter uma vida como um objeto flexível, quase como uma entidade maleável, ''rms'' é agora descrito por quase todos como um ser extremamente dificil de se trabalhar junto. A equipe Emacs|XEmacs, por exemplo, catalogou uma lista com 10,000 denuncias especificas sobre o  assunto, em que "rms" disse a eles para dividirem seus projetos. 
+
+O primeiro perito no campo da química do polímero tem especulado que o material base de "rms" são lentamente endurecidas com o tempo , mas não se sabe por que, ou se essa condição é reversivel.  Historicamente, ''rms''  esta extremamente conservado e é veementemente contr prover qualquer tecido (de seu corpo) como prova, então a verdade pode nunca ser conhecida.  De qualquer modo, é postulado que após o tempo de sua morte, os próprios restos de ''rms'' vão servir como uma estátua de tributo no quartel general GNU em [[Boston]], [[Massachusetts]].
+
+==Fatos==
+
+* ''rms'' é o compositor da ''Free Sockpuppet Song'', e se tornou conhecido por tocá-la sempre, ou correr para onde outros estiverem ouvindo.
+* Não pode nadar, mas ''flutua'' majestosamente.
+* Uma vez recebeu uma vela sob medida de [[Bill Gates]], mas veementemente se recusou a usá-la, mesmo sabendo que era "free".
+* Já foi confundido com [[:en:Charles Mansion|Charles Mansion]] várias vezes.
+* [[Linus Torvalds]] disse: “''rms'' será para sempre lembrado como o cara cuja ''MURDA'' não flutuaria de jeito nenhum.”
+* Em sua propaganda pessoas, ''rms'' declara que é bem arredondado, não tão denso quanto as pessoas pensam e orgulhoso de suas reaçozaões, apesar de seu péssimo início de carreira no chão de fábrica.
+* Na sua religião ([[Cientologia]]), proíbe banhos e depilação para não-atores, por ser um insulto aos [[:en:L. Ron Hubbard|deuses]].
+* Embora seu nome possa ser pronunciado como ''Richard M's tall, man!'' (Richard M. é alto, cara!), ele na verdade tem menos de um metro de altura.
+
+==Mitos==
+1. Richard Stallman não usa navegadores da web, ele envia um link para um demon que usa o wget para buscar a página e envia-la de volta para ele.
+
+2. Richard Stallman é o único homem vivo que pode pronunciar GNU da maneira que deve ser pronunciada.
+
+3. Richard Stallman não lê páginas da web. Eles escrevem para ele.
+
+4. Algumas pessoas verificam seus computadores em busca de vírus. Vírus verificam seus computadores em busca de Richard Stallman.
+
+5. A barba de Richard Stallman é feita de parêntesis.
+
+6. O sistema nervoso de Richard Stallman é completamente wireless.
+
+7. Richard Stallman escreveu o compilador Deus. O Big Bang do Universo foi a primeiro segfault.
+
+8. Algumas pessoas usam pijamas Linus Torvalds’s para dormir, Linus Torvalds usa pijamas Richard Stallman’s.
+
+9. Richard Stallman uma vez comeu três bifes de 2Kg em uma hora. Ele passou os primeiros 45 minutos codificando uma nova extensão do Emacs elisp.
+
+10. Richard Stallman não tem mãe, ele se codificou sozinho.
+
+11. Richard Stallman criou a singularidade, mas, uma vez que ela geralmente funciona sem conexão à internet, não será visível por mais duas semanas.
+
+12. Richard Stallman não faz wget, Richard Stallman faz wdemands!
+
+13. Richard Stallman não tem nenhum problema usando o emacs. Ele escreveu-o o seu usando suas 4 mãos.
+
+14. Richard Stallman nunca usa chuveiros: ele executa um ‘make clean’.
+
+15. Richard Stallman lançou seu próprio DNA sob a GNU FDL.
+
+== Ver também == 
+*[[:en:St. Ignucius|St. Ignucius]]
+*[[Linux]]
+*[[GNU]]
+*[[:en:.communists|.communists]]
+
+
+{{Linux}}
+
+[[Categoria:Programadores dos Estados Unidos]]
+[[Categoria:Dominação mundial]]
+
+[[bar:Richard Stallman]]
+[[en:Richard M. Stallman]]
+[[es:Richard Stallman]]
+[[it:Richard Stallman]]
+[[ja:リチャード・ストールマン]]
+[[ko:리처드 스톨만]]
+[[nds:Richard Stallmann]]
+[[ru:Столлмэн, Ричард Мэтью]]

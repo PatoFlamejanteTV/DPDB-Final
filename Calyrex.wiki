@@ -1,0 +1,41 @@
+{{Mental}}
+{{pokedex}}
+
+{{PokéBox
+| imagem = 898Calyrex.png 
+| frase = Calyrex em sua forma saco de pancadas.
+| nihongo = バドレックス
+| romaji = Budrex
+| pokedex = 898
+| tipo1 = Psychic
+| tipo2 = Grass
+| habilidade1 = Fazer nada de útil
+| habilidade2 = Imitar o [[Glastrier]] ou o [[Spectrier]]
+| espécie = Coelho-cervo fã de Zelda
+| cadeia evolutiva = [[Arquivo:898MS.png|Calyrex]]/[[Arquivo:898MS2.png|Ice Rider Calyrex]]/[[Arquivo:898MS3.png|Shadow Rider Calyrex]]
+}}
+
+'''Calyrex''' é mais outra invenção esquisita feita pela [[Game Freak]] para ocupar espaço na pokédex da oitava geração, sendo este o último monstro ocupado na Pokédex de [[Pokémon Sword|Sword & Shield]], mesmo não sendo um mítico inútil cujo objetivo é gerar filmes meia-boca para a série. Calyrex é apenas uma versão piorada do [[Celebi]].
+
+Calyrex é o mascote da segunda DLC da oitava geração, a [[Pokémon Crown Tundra|Crown Tundra]], sendo uma espécie de rei do local por simplesmente confundirem seu cérebro enorme com uma coroa. Além de sua forma tosca normal, todos estavam especulando uma nova forma que fosse uma fusão como as formas de [[Kyurem]] e [[Necrozma]] para ele, mas as novas formas de Calyrex eram apenas ele montado nos dois cavalos escravos dele, [[Glastrier]] e [[Spectrier]], ganhando duas habilidades e dois golpes especiais de graça.
+==Sua história==
+Calyrex se trata de um cruzamento esquisito de um cervo com um coelho que acabou ficando defeituoso, porém como um dos animais acabou engolindo uma parte da [[triforce]] sem querer querendo, essa criatura acabou ganhando poderes mágicos psíquicos, incluindo a habilidade de voar, inclusa em quase todos os lendários deste jogo.
+
+Como as duas espécies eram bem presentes em terras como a [[Inglaterra]], então Calyrex acabou se mudando para lá, onde conseguiu se adaptar ao inverno rigoroso e como várias pessoas em [[Galar]] ficavam com reações distintas sobre a nova criatura, logo deram o apelido de "rei" para ele por causa de sua possível coroa.
+
+Como Calyrex era muito louvado pelo povo de Galar, logo conseguiu a habilidade de telepatia e falar com humanos, o que fez que ele fosse um dos pokémons mais poderosos de Galar. Nem tudo são rosas para história dele, já que em uma época, Calyrex passou a ser ridicularizado pelo seu design tosco e virou uma espécie de piada, o que fez que sua espécie passasse a viver em terras mais geladas, como a [[Escócia]] (ou Crown Tundra), onde o cervo-coelho passou a tirar férias lá para passar longe de humanos.
+==No jogo==
+[[Arquivo:Calyrex preocupado.png|thumb|left|Calyrex com cara de quem esqueceu da roupa no varal.]]
+Durante sua estadia na Crown Tundra, o mesmo conhece dois cavalos, [[Spectrier|um fantasma]] e [[Glastrier|outro de gelo]] e usando seus poderes restantes, Calyrex consegue criar uma cenoura que atrai um dos cavalos para fazer uma união sinistra com Calyrex, o que consegue tanto aumentar o poder de Calyrex quanto do próprio cavalo, gerando uma nova forma para ele, conseguindo usar os golpes Glacial Lance e Astral Barrage.
+
+Como os cavalos eram usados como escravos, um dia os próprios conseguiram se rebelar e deixaram Calyrex sozinho e fraco, como na história de Crown Tundra. Quando o jogador consegue visitar um pouco daquele lugar gelado, o próprio Calyrex se introduz ao jogador, mas por ser um pokémon, é óbvio que não entende nada, isso até ser mostrado que o cervo-coelho também consegue aprender a arte da [[possessão demoníaca]] e usa em [[Peony]], que [[Luís Inácio Lula da Silva|sabe de nada o jogo inteiro]] para conseguir falar com o protagonista.
+
+Após essa confusão toda, Calyrex cria novamente uma cenoura especial para atrair um de seus cavalos escravos para criar uma armadilha para um deles. Usando a sua corrente especial, Calyrex consegue capturar um dos cavalos e se "funde" a ele, ficando mais forte. Depois disso, é aonde você consegue capturar tanto Calyrex quanto o cavalo escolhido, que vem de brinde ao separar os dois. Mesmo Calyrex sendo um dos pokémons mais fracos enquanto está sozinho, já suas formas enquanto monta em um de seus cavalos, se torna um dos pokémons mais fortes do jogo, tanto que as duas são usadas pelos fãs mais desocupados dos jogos, os jogadores de competitivo.
+
+Mesmo sendo adorado por alguns jogadores, também é odiado por vários, já que o cervo-coelho faz parte do grupo dos "lendários pay to win" (como qualquer lendário das DLCs de Sword e Shield, Scarlet e Violet e Legends Arceus) de acordo com jogadores de competitivo birrentos, já que os próprios apenas têm dinheiro para ir para qualquer fim do mundo e gastar em pelúcias, mas não tem dinheiro para gastar em DLCs dos jogos da franquia.
+==No anime==
+Calyrex ainda não apareceu por não ser foco nem do Ash e nem do Go, além de não ser interessante para algum vilão da série capturar.
+
+{{Poke8}}
+[[Categoria:Coelhos]]
+[[Categoria:Antílopes]]

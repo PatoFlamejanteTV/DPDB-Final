@@ -1,0 +1,49 @@
+{{pokedex}}
+<choose><option>{{reptil}}</option> 
+<option>{{agua}}</option> </choose>
+{{PokéBox
+| imagem = 007Squirtle.png
+| tamanho = 250px
+| frase = Veja o tamanho gigantesco das orelhas desta criatura liiinda
+| pokedex = 007
+| nihongo = ゼニガメ 
+| romaji = Zenigame
+| tipo1 = Water
+| tipo2 =
+| habilidade1 = <s>Pirataria no</s> [[Torrent]]
+| habilidade3 = [[WTF?|Jantar na chuva]]
+| espécie = Mini-tartaruga que gosta de [[Queimar a rosca|queimar o cosmo interior]]
+| cadeia evolutiva = [[Arquivo:SquirtleSprite.gif]][[Arquivo:Seta.JPG|30px]][[Arquivo:WartortleSprite.gif|link=Wartortle|Wartortle]][[Arquivo:Seta.JPG|30px]][[Arquivo:BlastoiseSprite.gif|link=Blastoise|Blastoise]]
+}}
+
+{{Você quis dizer|[[Totodile]] de casco?}}
+{{c|Squirtle, ataque de bolhas!!!|Ash|Squirtle}}
+{{c|Squiruiruiruiruiruiruiruiruiruiruiruirtle Squirtle!|Squirtle|Ataque de Bolhas}}
+
+[[Arquivo:SquirtleSprite.gif|left]]'''Squirtle''' é o [[pokémon]] #7 da primeira geração. Uma <s>apetitosa</s> tartaruga azul que atira jatos de água de sua boca e adora causar [[Narrador da Sessão da Tarde|altas confusões]] quando está surfando com seus miguxos. Normalmente simpático, só para atrair qualquer [[guri retardado]] que ousa escolhe-lo como ínicio de sua aventura, mas no final vira um [[Blastoise|monstrengo]] como qualquer terceira evolução de um pokémon inicial.
+
+==Características==
+[[Arquivo:squirtle water gun.png|left|thumb|250px|Squirtle dando aquela cuspida.]]
+[[Arquivo:Charmander se fudendo.png|left|thumb|250px|Assim como a maioria dos répteis, o Squirtle também é carnívoro.]]
+Squirtle é um pokémon de água, conhecido pelos seus <s>nada</s> poderosos ataques de cuspe e bolhas de sabão, que matam qualquer adversário <s>de risada</s>. Também, esse pokémon não poderia ser de outro tipo, se bem que cuspes e bolhas de sabão até [[eu]] consigo fazer, sem precisar da ajuda de nenhum pokémon para isso. É uma tartaruga pequena e amplamente consumida por comedores de tartarugas [[China|chineses]], tendo a carne mais macia e fácil de se cozinhar; acreditam que sua carapaça é um ótimo afrodisíaco. Ora, mas qualquer coisa serve como alimento para chineses, até pokémons pedra/terrestres.
+
+Squirtle, apesar de ser um fracote que só sabe fazer bolhinhas, é um dos pokémons mais raros do mundo, aparecendo apenas em lugares como o laboratório secreto do [[Professor Carvalho]] e o Oráculo do Game Shark. Para obter um Squirtle, [[você]] terá de ir ao oráculo, digitar A A B A B baixo cima cima esquerda reset power reset reset power e recitar [[Camões|Os Lusíadas]] três vezes, ou simplesmente escolhê-lo como seu pokémon inicial, mas se fizer isso não poderá pegar os demais pokémons iniciais, exceto se fizer o ritual acima com os respectivos pokémons. Se fosse um pokémon mais comum, todo mundo sairia por aí pegando o seu Squirtle e ninguém teria de fazer trocas para obter o seu genuíno exemplar, e aí o jogo não seria mais fabricado por não dar mais lucros aos capitalistas japoneses. Então você não tem escolha, senão agarrar (não no sentido [[furry]]) o seu único Squirtle e treiná-lo como se fosse o seu último pokémon.
+[[Arquivo:Squirtle bebê.jpg|thumb|150px|left|Um Squirtle ainda bebê, no colo de sua mamãe]]
+[[Arquivo:Squirtleash.jpeg|thumb|200px|right|Depois que o salário pelas participações em [[Pokémon]] cai na conta]]
+Conforme foi supracitado, a grande maioria dos ataques de um Squirtle se resume a dar [[cuspe]]s nos inimigos, eventualmente intercalando com bolhas de água que só causam dano a alguma coisa no mundo fictício dos jogos. Para mostrar que não se trata de um pokémon tão insignificante, alguns Squirtles aprendem a soltar jatos de água com suas bocas, inspirados no chafariz que tem na praça do centro de [[Pallet Town|Pallet]], afinal toda cidadezinha interiorana de fim de mundo precisa ter um chafariz brega. Para não apanhar feio, a alternativa mais usadas por esses pokémons é esconder-se atrás de seu casco até seu oponente se cansar ou até o casco não suportar mais nenhum impacto, porque milagre ele não faz. ''Ô bicho imprestável.''
+
+== Curiosidades ==
+Sabia que...
+
+*O [[Ash]] deu seu Squirtle para [[Oficial Jenny]] depois de ser sodomizado por trezentas policiais?
+*Porque o [[Ash]] não gosta da fruta e chorou feito uma marica?
+*Squirtle foi um [[pokémon]] sortudo por tal fato?
+
+
+{{poke1}}
+{{Smash Bros}}
+[[Categoria:Tartarugas]]
+
+[[it:Squirtle]]
+[[es:Squirtle]]
+[[ja:ゼニガメ]]

@@ -1,0 +1,54 @@
+{{games}}
+{{Infobox Game
+|title     = Um jogo que não é Persona 5
+|image     = Shin Megami Tensei V cover.png
+|caption   = Capa do jogo
+|developer = [[Atlus]]
+|publisher = [[Atlus]], [[Sega]]
+|released  = 2021
+|genre     = RPG satânico (literalmente)
+|platform  = [[Nintendo Switch]] e só
+|rating    = 10/10 para quem ama grinding
+|ages      = Pré-adolescentes
+}}
+
+'''Shin Megami Tensei V''' é um RPG japonês metido a cult, tal qual qualquer outro jogo da série [[Shin Megami Tensei]], um jogo onde um monte de personagem sem carisma ficam filosofando o tempo inteiro sobre [[existencialismo]], [[fé]], conceitos sobre bom e mal, tudo em meio a um sincretismo religioso tão grande que até um ateu e sentirá ofendido jogando esse negócio. Mas para aqueles que são ignorantes demais para entender de religião, então esse jogo é basicamente "um Pokémon com demônios e seres mitológicos".
+
+== Jogabilidade ==
+
+O jogo é aquele clássico combate por turnos paradão que nenhuma pessoa normal tem paciência pra jogar. Sempre controlamos o protagonista Nahobino - que nesse jogo não tem amigos e muito menos uma namorada, como em qualquer Persona - e por isso precisa usar três escravos para ajudá-lo em combates. E já que o normal de Shin Megami Tensei V é ser comparado à Persona 5, o combate é bem parecido, com exceção que aqui existe a barra Limit Breaker do [[Final Fantasy]] para soltar um especial que é sempre um golpe bonito.
+
+Para tentar se diferenciar dos outros RPGs por turnos que são essencialmente idênticos entre si, em Shin Megami Tensei V aqueles golpes de buffs e debuffs que você ignora totalmente nos jogos de RPG por turno, aqui são praticamente obrigatórios para vencer quaisquer chefões. Se você for só na velha tática: "atacar sem parar e curar de vez em quando" vai morrer rapidinho, com certeza vai precisar aumentar ataque, defesa, esquiva, diminuir atributos dos adversários, enfim, tudo o que vai deixar os combates ainda mais truncados e maçantes.
+
+Fora do combate, no mapa aberto, o jogo tem mais exploração que o normal, só não é maior que a quantidade de [[grinding]], serão aproximadamente 80 horas de grinding.
+
+Certamente faltou um elemento de [[dating sim]]. Ir com o seu personagem solteiro e virgem até o fim não é geralmente o que um fã da [[Atlus]] espera num jogo.
+
+== Enredo ==
+
+[[Arquivo:SMTV-gameplay.jpg|thumb|left|420px|É um jogo cultuado por seus diálogos profundos e temas controversos.]]
+
+[[Friedrich Nietzsche|Deus está morto]]! Passando-se numa Tokyo pós-apocalíptica, o mundo foi aniquilado por uma guerra entre ex-praticantes de [[BDSM]] (os [[anjo]]s que agora não se vestem mais com tiras de couro) e demônios. Novamente, o destino da humanidade está nas mãos de um [[femboy]]. O seu nome, não é revelado, mas logo ele ganha o apelido de Nahobino.
+
+O protagonista é um viadinho sem amigos e sem namorada que acidentalmente cai num mundo paralelo onde criaturas sobrenaturais de todas mitologias existentes estão brigando (menos o [[Porta dos Fundos|deus polinésio]] que não é visto no jogo) para decidir quem vai ficar no lugar de [[Deus]], que foi literalmente morto (no Japão eles não leem a [[Bíblia]], então podem falar uma viagem dessas). É aí que o protagonista encontra e se funde com um bofe chamado Aogami assim se tornando uma diva fabulosa de longos cabelos azuis e bumbum arrebitado chamado Nahobino, que embora seja do [[gênero não binário]] vai passar o jogo inteiro sendo chamado de "young man". Mas como ele é para todos os propósitos, assexuado, a sua sexualidade não importa tanto, o que importa é que cabe agora ao jogador se decidir entre unir-se à Ordem, ao Caos, ou à Neutralidade.
+
+Vão haver uma penca de sidequests, algumas até com alguma história ou filosofia decentes, mas como não afetam e nem impactam no final do jogo, é tudo encheção de linguiça no final das contas.
+
+*Você pode se aliar à Abdiel, uma mulher-anjo vestida para o carnaval que tem como seu mascote humano Ichiro Dazai um garoto bobalhão que depois de pentear o cabelo para trás fica com cara de vilão, e assim aliar-se à Ordem para criar um mundo de adoração total a um Deus morto;
+*Ou então aliar-se a Tsukuyomi o Deus da Lua nihilista que deseja uma guerra eterna entre os deuses, ele que tem Yuzuru Atsuta como mascote, um desses carinhas metidos a "uso óculos, sou sério e nunca sorrio" que na verdade é só um tarado incestuoso que só pensa irmã, e assim aliar-se ao Caos;
+*Ou então aliar-se a Nuwa, aparentemente a divindade das putas de luxo, ela que com suas habilidades de [[gueixa]] conseguiu hipnotizar Shohei Yakumo, um escravoceta, e assim conquistar o final do [[Ateísmo]] onde você vai destruir trono de Deus e criar um novo mundo para os humanos sem deuses;
+*E ainda um quarto final secreto, onde no meio do final do Ateísmo, [[Lúcifer]] vai aparecer e te interromper para uma batalha final, onde caso ele seja derrotado, você vai voltar no tempo na forma de um clone de si próprio.
+
+== Recepção ==
+
+{{C|Shin Megami Tensei V é o Dark Souls da série Shin Megami Tensei|IGN}}
+
+O que não falta são reviews de sites especializados que não conseguem falar de Shin Megami Tensei V sem compará-lo a [[Persona 5]]. Já que esse parece ser o padrão, então podemos afirmar que "Shin Megami Tensei V tem música boa, mas não tão boa como Persona 5", "Shin Megami Tensei V não tem personagens carismáticos como Persona 5", "Shin Megami Tensei V não tem namoradinhas como em Persona 5", "Shin Megami Tensei V tem mais grinding que Persona 5", "Shin Megami Tensei V parece ser um irmão mais novo metido a gótico trevoso de Persona 5", e "Shin Megami Tensei V não tem anjos vestidos em trajes de BDSM como Persona 5".
+
+{{Megami Tensei}}
+
+[[Categoria:Jogos da Atlus]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos de RPG]]
+[[Categoria:Jogos lançados em 2021]]

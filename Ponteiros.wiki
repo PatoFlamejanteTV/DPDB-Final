@@ -1,0 +1,41 @@
+{{Trevas}}
+
+== '''Ponteiros''' ==
+Ponteiro, denotado por * em C e [[C++]], foi inventado pelo [[nerd|Clube dos Desocupados do Padrão ASCII]] que, em uma conferencia no [[orkut]], chegaram a conclusão de que se havia a necessidade vital de criar algo que apontasse para um local no espaço sideral fazendo uma curva no eixo X, mostrando que as situações em que os efeitos de ordem microscópica não podem ser desprezados, ou seja, criaram o ponteiro onde tudo pode influenciar: a entrada de um disquete, o piscar de uma luz, a luz do [[HD]] piscando, as ondas de wireless, GSM e EDGE, dando
+[[Arquivo:ponteiro1.jpg|thumb|O ponteiro pode mandar horas de programação para o espaço]]
+assim uma gama enorme de utilidades fúteis para qualquer programador que soubesse usa-lo com classes abstratas da MFC criadas por Salvador Dali no movimento surrealista.
+
+== '''Como fazer um ponteiro''' ==
+Para fazer um ponteiro referenciar um local no espaço e tempo deslocado basta usar variáveis assim como estas abaixo:
+
+<pre>
+    int float *herpesGenital = (char) 3.1415F;
+    printf("%d", &herpesGenital);
+</pre>
+
+O asterisco acima faz ''herpesGenital'' apontar para 0xD251F03A666C anos luz do quadrântico de Pégasus Maior, dando assim a possibilidade do programador conhecer lugares jamais conhecidos pelo ser humano, como, por exemplo, o centro de um buraco negro onde um horizonte de eventos improváveis podem acontecer.
+
+== '''Utilidade''' ==
+''"Para que vamos usar x=y se podemos usar x = &y e depois usar *x?"''
+É assim que empresas multinacionais como a [[NASA]] pensam e usam ponteiros em [[C++]]: para descobrir se existe vida no limbo galático, pois, ao usar o sinal ''& (E COMERCIAL)'' começando uma variável, podemos saber o endereço de qualquer ponto no universo e representá-lo como um inteiro, mapa de bits ou até mesmo uma mensagem que é jogada para uma variável ''string'' através do código
+
+<pre>
+    strcpy (imagemDoLúcifer, &herpesGenital);
+</pre>
+
+onde conseguimos definir a face desconhecida de Lúcifer ou um bit de dado perdido em Ursa Maior ou então voltar ao passado dereferenciando tais variáveis ponteiro, todos esses recursos sofisticados de programação são chamados de camada de abstração de booly, afinal sabe-se que o ponteiro é algo poderoso, mas não se sabe muito que utilidade tem, daí o nome abstração.
+
+O ponteiro usado com a tecnologia das classes que visam reutilizar códigos totalmente modificados em um outro local desconhecido do cosmos ajuda aos programadores simplificarem radicalmente seus códigos, substituindo variáveis por ponteiros e funções por classes.
+O maior exemplo de utilização dos ponteiros é quando abrimos o Windows Media Player e nele vemos gráficos diabólicos de constelações jamais conhecidas pelo homem com mensagens subliminares insitando a discórdia e o ódio.
+
+=== '''Bibliografia Consultada:''' ===
+*''Ponteiros de loucura, de Britney Spears.
+*Classes, um rolo, de Salvador Dali.
+*Classes a arte de ser en-rolado, de Clodovil Hernandes.
+*Matei meus pais através de um ponteiro char, de Suzane Von Richthofen.
+*Ponteiros e Prosperidade, de Luiz Gasparetto.
+*Ponteiros abrindo portas para o mundo astral, de Zíbia Gasparetto
+*Variáveis altamente tipificadas e elitizadas, de Arnaldo Jabour''
+<BR>
+
+[[Categoria:WTF??]]

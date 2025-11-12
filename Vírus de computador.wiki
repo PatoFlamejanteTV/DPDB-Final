@@ -1,0 +1,74 @@
+<choose><option>{{pacto}}</option><option>{{cilada}}</option></choose>
+[[Arquivo:0acavalo.jpg|thumb|Até os [[Palmeiras|cavalos paraguaios]] são considerados vírus]]
+
+{{Você quis dizer|Aquilo que você, nem tua família não tem a mínima capacidade de fazer}}
+{{Você quis dizer|Aquilo que você baixa todo dia pra deixar o [[Orkut]] coloridinho}}
+{{Você quis dizer|Doença}}
+{{C|Eu já fui ao veterinário!|[[Carla Perez]]|Vírus}}
+{{C|Eu aperto onde eu quiser no meu computador!|[[Idiota usando linux]]|Seu computador}}
+{{C|Eu AdOlo, [[xD]]|EMO|Vírus}}
+{{C|Vou clicar, não dá nada não...|Você|clicar em algum link com vírus}}
+{{C|Na União Soviética, o vírus é infectado por '''VOCÊ'''!!|Reversal Russa|Vírus}}
+
+'''Vírus''' de [[computador]] são programas feitos com o único propósito de aporrinhar o próximo. Também é um nome genérico que é dado (normalmente por [[anta]]s que não entendem nada de informática) a [[spywares]], [[adwares]], [[trojans]], [[backdoors]], [[worms]] e todo tipo de porcariada que tem como objetivo danificar o seu computador.
+
+== História ==
+[[Arquivo:Error-virus.gif|thumb|Desespere-se!! Esse site tem vírus]]
+Os vírus de computador existem há milhares de anos. Arqueólogos descobriram nas paredes das pirâmides do Egito hieroglifos que são, na verdade, listagens em [[assembler]] de códigos maliciosos. Uma lenda diz que a frase [[decifra-me ou te devoro]], relacionada à Esfinge, faz parte de um vírus de computador.
+
+Dizem que foi um vírus, implantado no sistema de aquecimento central de [[Sodoma e Gomorra]] foi a causa da destruição das cidades.Na verdade o que aconteceu ,é que o vírus ativou o modo de auto destruição deixando todos da cidade do mal (igual o Chuck boneco <s>bonzinho</s> assassino, e igual a galera do PT), o que acarretou (para os inteligentes acarretou nesse caso e aconteceu) em uma chuvinha de meteoros tanto que uma mulie(mulher) que fugiu com o seu marido foi avisada que não deveria olhar para trás mas a ignorância e tanta que eu esqueci o que aconteceu com ela .
+
+O problema dos vírus antigos é que, como não havia computadores para se propagarem, eles não fizeram muito sucesso. Para se espalhar um vírus, o código tinha que ser replicado manualmente, em papiro e levado por mensageiros em camelos até os impérios vizinhos.
+
+Apenas a partir de [[mil novecentos e guaraná com rolha]], quando surgiu o computador, os vírus encontraram um ambiente favorável ao seu desenvolvimento. Com o advento da [[Internet]], os vírus entraram em mutação e começaram a se propagar com uma velocidade cada vez maior.
+
+== Os efeitos dos vírus ==
+Vírus podem fazer todo tipo de porcaria com seu computador. Apagar suas fotos , apagar suas tranqueiras (joguinhos do tipo Tibia)  que estão lá há séculos, deixar seu micro uma carroça (mais do que ja está), levar você a perder os cabelos (ninguém aguenta o pc fazendo shutdown toda hora), enviar dados confidenciais (como por exemplo suas fotos bebaço no churrasco com os vizinhos) de seu computador e ocupar muito espaço em disco. Mais ou menos como o Windows, com a diferença que os vírus funcionam perfeitamente, são mais fáceis de instalar, não custam o olho da cara e não precisam de autenticação ou porcaris parecidas.
+
+== Os Antivírus ==
+Para competir com isso, foram criados os Antivírus.
+[[Arquivo:ATUAL terra.GIF|thumb|right|Um exemplo de e-mail seguro, protegido por um antivírus atualizado.]]
+
+O princípio de ação de um Antivírus é bastante simples. Considerando que os vírus ocupam espaço em disco e tornam seu computador mais lento e mais sujeito a dar pau, os antivírus foram concebidos para ocupar muito mais espaço em disco, muito mais capacidade de processamento e dar muito mais pau, dessa forma ocupando todos os recursos do computador e não deixando espaço para o vírus se instalar.
+[[Arquivo:Antivirusbom.jpg|thumb|Um novo Antivírus extremamente eficaz!]]
+O melhor antivírus é o Nortom Antivírus.. pois ele ocupa quase 100% dos recursos do seu computador.. e foi projetado para não se conseguir desinstalar. Nem os vírus mais sofisticados desinstalam o Norton. Uma vez instalado, nunca mais sai.. é simplesmente impossível tirar.. E temos novidades.. as próximas versões do Antivírus serão anexadas a EPROM do computador, ou seja, se você formatar o computador não terá que reinstalar o Norton, ele já estará instalado! Que praticidade, não?
+
+== Lista de Vírus ==
+Existem aproximadamente <s>oitenta e sete</s> <s>oitenta e oito</s> <s>oitenta e nove</s> noventa bilhões de vírus conhecidos. Enquanto você lia este artigo, foram criados mais dois milhões e meio, aproximadamente. No entanto, alguns vírus figuram na lista dos dez mais populares. Hoje, até emos podem fazer vírus com programas idiotas, assim como nerds fazem jogos idiotas no [[RPG maker]], que, dependendo de qual site você baixou, veio com vírus
+
+Existem alguns tipos de vírus diferentes, assim como os zombies são divididos em zomb-a, zomb-b e o recém descoberto zomb-c, que depois de comer um cérebro humano à la bolonhesa, dançam o thriller. Vejamos alguns deles
+
+*'''Vírus:''' Esses são os mais comuns, se hospedam em outros programas pra fuckar e ter filinhos idiotas, criados facilmente por progaminhas idiotas, podem ser eliminados com o [[antivirus do guaraná com rolha]] ou o fodástico AVGAY 8.5, de 8 bilhões de malwares(vírus) que existem, 6 milhões são vírus. Esse tipo de vírus se desenvolveu ao longo dos tempos com as versões diferentes dos pcs da microsoft.Vírus de [[DOS]]: não serviam pra nada, normalmente aparecia um desenho para te assustar e um som macabro e depois seu HD de 50 kbs era formatwado. Vírus de [[Ruindowns]]: desses vírus, só alguns assustam, todos os outros só deixam seu PC lerdo ou formatam ele levando ele ao inferno tecnológico conhecido como [[Tela azul da morte]], também pode ser incluído pornografia ou telas epilépticas da morte.
+
+*'''Worms:''' Worms são os vírus menos fodásticos, criados só pra dar sustinhos em você(Ui!), mas alguns Mestres Nerds criaram alguns worms fodásticos para criar um lag do carai no seu pc e fazer ataques a sites. O maior massacre já conhecido foi por causa de um jogador tibiano enfurecido que fez um ataque em massa ao club-penguin pois o [[admin malvado]] versão penguin rosa Baniu ele por 2 meses, todos os jogadores ficaram sem jogar por 1 semana e se mataram por terem perdido o Pin semanal do [[club-penguin]]
+
+*'''Trojan:''' Ferramentinhas criadas por hackers para hackear teu pc, eles põe o trojan dentro de um joguinho que você joga, como Tibia, assim que você instala, ele tem total controle do seu pc e pode deletar o que quiser, até mesmo os seus filmes do kid bengala men-on-men.
+
+*'''Spywares:''' Servem pra poha nenhuma, só pra roubar sua senha do banco, do cartão de crédito e da sua acc no tibia level 251 que é amigo do Lord Paulistinha e do char do Di, do NXemo.
+
+== Ver também ==
+* Cantos e cantigas do Gugu
+* [[Chacrinha|A pipa do vovô não sobe mais]]
+* [[Baú da Felicidade]]
+* [[Windows 98|Ruindows 98]]
+* Leitor da Desciclopédia que inventa em acrescentar qualquer coisa nas páginas da Desciclopédia
+
+{{vírus}}
+{{DEFAULTSORTKEY:Virus}}
+[[Categoria:Segurança da informação]]
+[[Categoria:Vírus de computador|*]]
+
+[[bar:Computervirus]]
+[[de:Computervirus]]
+[[en:Virus (computer)]]
+[[eo:Komputila viruso (gardu vin!)]]
+[[es:Virus virtual]]
+[[ja:コンピュータウィルス]]
+[[ko:컴퓨터 바이러스]]
+[[nds:Computervirus]]
+[[nl:Computervirus]]
+[[no:Datavirus]]
+[[pl:Wirus komputerowy]]
+[[sr:Рачунарски вирус]]
+[[zh:电脑病毒]]
+[[zh-tw:電腦病毒]]

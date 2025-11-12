@@ -1,0 +1,53 @@
+{{Game}}
+{{Infobox Série Game
+|title         = Ui
+|image_logo    = Wii logo.png
+|caption       = 
+|genre         = Simulação
+|developer     = [[Nintendo|Não intendo]]
+|publisher     = [[Nintendo|Não intendo]]
+|origin        = [[Nintendo Wii|Nintendo Uii]]
+|first_release = [[Wii Sports]] ([[2006]])
+|last_release  = [[Wii Sports Club]] ([[2014]])
+}}
+
+A '''série de jogos "Wii"''' é um monte de jogos em fase beta que servem para mostrar as funções que existem e ninguém usa tanto no console [[Nintendo Wii]] quanto no falido [[Wii U]]. Quando criaram o Nintendo Wii os desenvolvedores do console entupiram o videogame de funções loucas, buscando compensar a falta de qualidade gráfica dos jogos, mas o problema é que 90% das desenvolvedoras de jogos ligam só para gráficos (porque os gamers só ligam pra isso) e os outros 10% são jogos indies e feios mas que não usam função nenhuma. Isso resulta numa situação que nenhum jogo existente usa as funções do Wii, então se foi necessário criar esses minigames foleiros.
+
+Esses <s>projetos beta</s> jogos têm o objetivo de apresentar (na maioria das vezes) os sensores do movimento recém introduzidos no mercado de videogames, além de fazer você perder tempo jogando-os. A jogabilidade de simulação em estilo casual também inclui a possibilidade de todos jogarem. Normalmente esse jogos são conhecidos como "jogos para velhos".
+
+==Jogos==
+Existem um total de 12 jogos, todos desenvolvidos pelo mestre [[Shigeru Miyamoto]] que sem ter o que fazer criou essa série.
+
+{| class="wikitable"
+|-
+!    Jogo  || Foto || Ano  || Console || Descrição
+|-
+| '''[[Wii Sports]]''' || [[Arquivo:Wii Sports.png|60px]] || [[2006]] || Wii || Wii Sports é o primeiro de uma enxurrada de jogos sem graça e pobres para o Wii. Ele é nada mais nada menos que um compilado de 5 esportes: [[Tênis]], [[Baseball]], [[Boliche]], [[Golfe]] e [[Boxe]]. Ele é o mais famoso, o mais jogado e o único jogo em que as pessoas pensam quando você fala que joga Wii. O jogo é o mais vendido do mundo em um único console, até porque ele vinha junto quanto você comprava o console, sendo vendido [[mais de 8 mil]] vezes.
+|-
+| '''[[Wii Play]]''' || [[Arquivo:Wii Play capa.png|60px]] || [[2006]] || Wii || Um simples jogo de lançamento, é um compilado de joguinhos de roda e de feira, feitos para calibrar o Wii Vibrador. Esses jogos vão dês de matar mosquitos até a fase de [[pescaria]] que tem em qualquer aparelho.
+|-
+| '''[[Wii Fit]]''' || [[Arquivo:Wii Fit.png|60px]] || [[2007]] || Wii || Wii Fit é um jogo de fazer [[yoga]] e posições sexuais, através do Wii Balance (produto obrigatório pra jogar e ainda aumentar o preço dele) é comandado inúmeros exercícios de flexibilidade e de se enrolar igual a uma [[cobra]]. Ele contém a anfitriã [[Wii Fit Trainer]] que te ajudará nesse trajeto da perda da banha de chope.
+|-
+| '''[[Wii Chess]]''' || [[Arquivo:91172 front.png|60px]] || [[2008]] || Wii || [[Xadrez]], um simples simulador de xadrez.
+|-
+| '''[[Wii Music]]''' || [[Arquivo:PS Wii WiiMusic enGB.png|60px]] || [[2008]] || Wii || Um simulador de uma [[orquestra]], onde você deve mover o Wii Remote com o Nunchuk e fingir que está em um show de rock, caso alguém te pegue pagando esse mico é só dizer que estava tendo um ataque de [[esquizofrenia]]. Foi um tremendo sucesso na E3 de 2008, mas não vendeu nem uma copia.
+|- 
+| '''[[Wii Sports Resort]]''' || [[Arquivo:Wii Sports Resorts.png|60px]] || [[2009]] || Wii || Esse jogo é uma sequencia do Wii Sports, mas diferente do outro que só tinha 5 esportes, esse tem 12 e todos se passam em um resort praiano. Mesmo estando em um lugar ensolarado nem todos os esportes são de praia, fazendo você se sentir que está no meio de uma [[Jogos Olímpicos de Verão de 2016|olimpíada no Rio de Janeiro]].
+|-
+| '''[[Wii Fit Plus]]''' || [[Arquivo:Wii Fit Plus.png|60px]] || [[2009]] || Wii || Wii Fit Plus é a sequencia de Wii Fit, de novo no jogo não tem absolutamente nada, exceto por algumas novas posições sexuais e pela capa do jogo que adiciona um plus ([[+]]) bem grande que dá a entender que teria algo a mais no jogo.
+|-
+| '''[[Wii Party]]''' || [[Arquivo:Wii Party cover.png|60px]] || [[2010]] || Wii || Copia de [[Mario Party]], usa a mesma mecânica da festa do bigodudo e sua turma e a transforma em um jogo genérico de tabuleiro e dados, mais parecendo um [[Monopoly]] com trocentas versões.
+|-
+| '''[[Wii Play: Motion]]''' || [[Arquivo:Wii Play Motion US box.png|60px]] || [[2011]] || Wii || Mais uma sequencia, desta vez do Wii Play, trás novamente os monótomos jogos do original jogo e adiciona uns ainda mais chatos. A única novidade nesse jogo é o [[vibrador]] que você ganhará quando comprar o jogo pelo dobro do preço de um jogo comum.
+|-
+| '''[[Wii Party U]]''' || [[Arquivo:Wii Party U Box art.jpg|60px]] || [[2013]] || Wii U || O mesmo que Wii Party com uma mistura de Mario Party, só que rodando em HD e agora jogando até com os dedos do pé.
+|-
+| '''[[Wii Fit U]]''' || [[Arquivo:194692 front.png|60px]] || [[2013]] || Wii U || A mesma coisa que o Wii Fit original só que disponível no [[Hardware|labirinto de desenvolvimento]] do Wii U.
+|-
+| '''[[Wii Sports Club]]''' || [[Arquivo:Wii-Sports-Club-Logo.png|60px]] || [[2013]]-[[2014]] || Wii U || O Wii Sports Club não é um clubinho tipo [[Turma da Mônica]], ele novamente conta com os 5 esportes clássicos do original todos reformados para a nova geração. Ao invés de fazer um jogo com todos os esportes, o jogo foi lançado com apenas um esporte, [[político|prometendo]] atualizações com a inclusão de novos esportes.
+|}
+
+{{Wii games}}
+{{Nintendo games}}
+
+[[Categoria:Jogos da Nintendo]]

@@ -1,0 +1,62 @@
+'''123''' é um número comum, como outro qualquer, pelo menos até que se descubra que ele não é um número qualquer.
+Ele é o 123° dos números naturais, representa <b>1 centena, 2 dezenas e 3 unidades</b>, e, afora isso, quase nada há para ser dito dele.
+
+==Buracos-negros e Matemática==
+
+[[Arquivo:Número 123.jpg|thumb|123 Tumblr.]]
+
+Ao contrário do que os [[astronomia|astrônomos]] acreditam, não é apenas lá no [[espaço sideral]] que existem [[buraco-negro|buracos-negros]]. Na [[Matemática]] também há, e ele é o <b>123</b>.
+Essa peculiar propriedade mística foi descoberta por um professor de [[Harvard]] chamado... putz... não sei qual o nome do tal professor! O certo é que o sujeito descobriu que, assim como o [[6174]], o <b>123</b> é um número para o qual se pode levar qualquer outro, mas, diferente do supracitado, absolutamente <b>qualquer</b> número de [[0]] ao [[infinito]] pode ser levado a tornar-se <b>123</b>. E, uma vez que um número chega a se tornar <b>123</b> ele não pode mais ser qualquer outra coisa, pois caiu num <b>Buraco Negro Matemático</b> e, assim sendo, era uma vez...
+
+==Que conversa fiada é essa? Como um número pode atrair números e engoli-los? É piada?==
+Sim. É piada. Mas não é por ser uma piada que não seja verdade. O certo é que por meio de um artifício matemático - uma [[gambiarra]] qualquer com números - é possível transformar qualquer número em <b>123</b>. O problema é que o mesmo método que leva qualquer número a <b>123</b> simplesmente [[não funciona]] com <b>123</b>, pois quando se usa esse truque com ele, o resultado é... <b>123!</b> E assim sucessivamente e indefinidamente até encher o saco ou esgotar a extensão da folha de papel, acabar a carga da [[caneta Bic]] ou quebrar a ponta do [[lápis]].
+
+==Como funciona?==
+Simples. Para ver o [[buraco negro]] do <b>123</b> antes de tudo, escolha um número qualquer, que pode ser qualquer um mesmo, de [[0]] ao [[infinito]] ou até mesmo maior ainda.
+
+*'''<b>Exemplo:</b>'''
+Vamos usar para este exemplo superdidático, divertido e instrutivo o número [[6174]], que já tem um artigo só dele e é um outro destes númeroe esquisitos. Vejamos então como a coisa funciona:
+
+<b>[[6174]]</b>
+
+*Número de algarismos pares: 2;
+*Número de algarismos ímpares: 2;
+*Número total de algarismos: 4.
+
+Agora juntamos os 3 valores achados acima: 2, 2 e 4 no caso. Temos <b>224</b>.
+
+<b>ATENÇÃO MANÉ DE PLANTÃO:</b> Não é pra [[soma|somar]] os algarismos, é só pra juntar tudo um atrás do outro como um trenzinho ou uma [[suruba]].
+
+Bom, prosseguindo...
+
+<b>224</b>
+
+*Número de algarismos pares: 3;
+*Número de algarismos ímpares: 0;
+*Número total de algarismos: 3.
+
+Temos, então <b>303</b>. Fácil, né?
+
+<b>303</b>
+
+*Número de algarismos pares: 1 (é, gente boa, o [[0]] é [[par]]!);
+*Número de algarismos ímpares: 2;
+*Número total de algarismos: 3.
+
+<b>E ESTÁ AÍ NOSSO 123!!!!</b>
+
+Para provar que de 123 não há escapatória, vamos seguir a coisa daqui, mesmo sabendo que vai ser inútil:
+
+<b>123</b>
+
+*Número de algarismos pares: 1;
+*Número de algarismos ímpares: 2;
+*Número total de algarismos: 3.
+
+<b>VIU SÓ? CAIU NO BURACO NEGRO! DAQUI NÃO TEM MAIS JEITO!</b>
+
+
+==Aplicações matemáticas, acadêmicas, lógicas e teológicas:==
+Existem estudos profundos que tentam encontrar uma utilidade para este conhecimento matemático, mas até agora tudo que eles conseguiram foi dar um nome a essa porcaria. Os metidos a professores das faculdades universitárias de [[Massachussetts]] chamaram o <b>123</b> de <b>Número de Sísifo</b>, em homenagem ao personagem da [[mitologia grega]] que ficava rolando uma pedra morro acima e quando chegava no topo ela rolava pra baixo e lá ia ele atrás pra empurrá-la pra cima de novo. Fora um nome, o <b>123</b> não recebeu mais nada. O professor que o descobriu morreu pobre, sozinho e triste, sem ganhar um centavo sequer por sua descoberta.
+
+[[Categoria:Números]]

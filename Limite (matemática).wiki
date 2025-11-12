@@ -1,0 +1,89 @@
+{{Matemática}}
+
+[[Arquivo:Calculo sex fun.jpg|thumb|200px|Um dos usos da notação de limite.]]
+{{c|[[Você]] precisa de limites!|Tua mãe|limite}}
+{{c|Não é zero, tende a zero.|Professora de Cálculo|limite}}
+{{c|O rei não tinha limites.|Matemático da época da [[Revolução Francesa]]|a situação do país à época}}
+{{c|<math>\lim\limits_{paciencia \to 0} {paciencia} = Banimento\,</math>|[[Moderador Malvado]]|limite}}
+{{c|As notas tendem a zero e a reprovação tende a infinito!|Oscar Wilde|limite}}
+{{c|{{Risada}} Senta na [[pênis|assíntota vertical]]!|Professora de Cálculo|a prova sobre limites em que toda a turma se fodeu}}
+
+'''Limite''', em linguagem [[matemática]], é a que determinado valor vale ([[ou não]]) uma [[função]] quando a variável dela tende a <s>ser [[gay]]</s> um determinado número. Essa prática é conhecida como ''<s>[[encher linguiça]]</s> estabelecer limites'', coisa que a [[sua mãe]] já deveria ter feito com [[você]] há muito tempo. Em notação matemática:
+
+:<math>\lim\limits_{x \to z} {f(x)} = y\, </math>
+
+Onde:
+
+* '''x''' é a variável <s>[[TPM|de humor]]</s> da [[função]];
+* '''z''' é o valor para onde a variável ''tende'' (ou seja, o valor que [[você]] vai colocar no lugar do x);
+* '''f(x)''' é a função, onde você vai colocar o z no lugar de x e achar um número ([[WTF]]??);
+* '''y''' é o resultado da conta acima;
+
+ 
+== Limite definido ==
+[[Arquivo:Engenharia.jpg|thumb|200px|right|Exemplo de uso de limites em [[divisão por zero]].]]
+Em inúmeras continhas de matemática que podem aparecer, ao calcular o limite delas [[você]] vai chegar a um número. Antes que [[qualquer um|alguém]] prove o contrário, um número é algo definido (5 sempre vai valer 5, [[ou não]]). Esses limites acontecem com frequência em funções normais, onde você tem de calcular um limite em que o seu professor dá ''(literalmente)'' o x.
+
+Um ''limite definido'' especial é o ''zero''. Quando os limites tendem a zero, geralmente deve-se tomar cuidado com certas implicações que o zero tem, como o fato de não se poder [[dividir por zero]]. Muitas vezes o zero é inofensivo e até benéfico, pois zera expressões incomensuráveis. No entanto, quando o zero está no denominador, deve-se usar todo o tipo de artifício para tirá-lo de lá, ou a [[buraco negro|fisura espaço-temporal]] criada pela divisão irá destruir tudo.
+
+[[pleonasmo|Mas, porém, contudo, todavia, entretanto]], na notação de limites você não está dividindo ''de fato'', mas sim vendo até que valor a função vai ([[ou não]]). Isso significa que [[você]] não está dividindo [[porra nenhuma]], então o zero pode até aparecer embaixo, mas apenas nesse caso. Se você tiver de resolver, vai ter de tirar o zero de lá, nem que seja fazendo uma gambiarra. Isso lembra a famosa frase falada por [[Bhaskara]], em meados do séc XII: {{aspas|Não pode [[sexo anal|dar o zero]] embaixo!}}. 
+
+Um grande exemplo de limite definido é quando a [[sua mãe]] te proíbe de pegar alguma coisa que [[você]] quer muito, como, por exemplo, o batom novo dela. Como ela está ''definindo'' o que [[você]] não pode fazer, então os limites estão muito bem definidos (e ai de você se se atrever a ultrapssar esses limites).
+
+== Limites indefinidos (infinitos) ==
+[[Arquivo:Limite.jpg|thumb|right|250px|Aplicação correta de limites indefinidos.]]
+Alguns dos problemas de mexer com funções é o fato do seu professor mandar você dizer ''como fica a função quando x vale infinito''. Mas, como as calculadoras não sabem calcular o valor de infinito você não tem como saber aonde vai a [[porra]] do limite, [[ou não]].
+
+Ao calcular os ''limites laterais e superiores'', você é obrigado <s>por lei</s> a colocar o <math>\infty</math> no lugar do x e se virar pra resolver a conta. Ao resolver essas contas, ou você vai ter um número ''(que é um limite definido, ou [[você]] não leu a seção de cima?)'' ou vai aparecer o famigerado <math>\infty</math>. Quando ele aparece temos o que se chama de ''assíntotas'', que nada mais são do que linhas do gráfico que vão para o infinito de forma quase reta. Segue agora um exemplo de como se trabalha com limites indefinidos ([[ou não]]):
+
+:<math>\lim\limits_{x \to 0} {\frac{1}{x} =\frac{\lim\limits_{x \to 0} {1}}{\lim\limits_{x \to 0} {x}}} = \frac{1}{0} = \infty.</math>
+
+Se houver a remoção dos limites, acontecerá a [[divisão por zero]], e [[você]] estará fodido com a criação do [[buraco negro]].
+
+Para a [[sua mãe]], um ''limite indefinido'' nada mais é do que quando ela fala {{aspas|não mexa em [[porra nenhuma]]}}. Você não sabe no que não pode mexer especificamente, mas mesmo assim sabe que, se botar a mão em alguma coisa, o pau vai correr solto em ti.
+
+== Limites laterais ==
+[[Arquivo:Limite-funcao.gif|thumb|250px|right|Este é um exemplo de função onde os limites laterais dão em [[merda]].]]
+Quando se deseja calcular quanto vale o x um pouco antes dele mesmo ([[WTF?|???]]) ou um pouco depois [[pleonasmo|dele mesmo]], deve-se utilizar a notação de ''limites laterais''. Mas que [[merda]] é essa? De acordo com os <s>[[nerd]]s</s> matemáticos, os limites laterais são quanto vale a função (ou seja, o resultado da continha) quando x é ligeiramente menor ou maior que x ''(e daí?)''. Quando queremos saber antes do x, colocamos na notação um <math>x^{-}</math> e quando queremos saber depois, colocamos um <math>x^{+}</math>. Simples, não? <s>Não.</s> Com o uso da notação:
+
+Limite esquerdo (anterior):
+
+:<math>\lim\limits_{x \to z^{-}} {f(x)} = y\, </math>
+
+Nota: <math>z^{-}</math> é igual a z - 0,01 (ou seja, [[nada]]);
+
+Limite direito (posterior):
+
+:<math>\lim\limits_{x \to z^{+}} {f(x)} = y\, </math>
+
+Nota: <math>z^{+}</math> é igual a z + 0,01 <s>[[ou não]]</s>;
+
+Em alguns casos especiais de funções, como as que o seu profesor vai certamente dar na prova, os limites anterior e posterior não serão iguais. Então o que fazer? É muito simples. Esse limite [[Padre Quevedo|nón ecziste]], logo, você apenas tem de dizer isso. Utilizando a notação:
+
+:Se <math>\lim\limits_{x \to z^{-}} {f(x)} \neq \lim\limits_{x \to z^{+}} {f(x)}\,</math>, então <math>\lim\limits_{x \to z} {f(x)} = ?\, </math>
+
+Nota:Muito cuidado com esses pega-ratões, pois [[666]]% dos alunos caem neles.
+
+== Aplicações ==
+
+Uma das principais aplicações de limites é em provas de [[matemática]] para alunos nas cadeiras de [[Cálculo]]. Embora pareça que o pobre aluno entenda algo, tudo vai por água abaixo quando aparece aquela função monstruosa que nem [[Gauss]] sabe resolver. Então quando toda a turma se fode ''(ou seja, sempre)'', a sua [[Professora de Cálculo]] praticamente tem um [[orgasmo]] ao entregar as provas e ver as caras desoladas dos alunos. Outra grande função é ''limitar'' para próximo de zero as notas das turmas e foder substancialmente os pobres alunos. Entre outras aplicações:
+
+* '''Continuidade''': Uma função só será contínua se o <small><math>\lim\limits_{x \to z^{-}} {f(x)} = \lim\limits_{x \to z^{+}} {f(x)}</math></small> e <small><math> f(z)\,</math></small> for definido (não que isso importe para alguma coisa). Geralmente quando os limites vão a <math>\infty</math> ou <math>- \infty \,</math>, a função não fica com todos os pontinhos ligados e, portanto, configura ou uma [[divisão por zero]] ou o x está no infinito. Se todos os pontinhos não se ligam, a função tem quebras. Esse uso é muito comum em [[Cálculo]] <s>renal</s>.
+
+* '''[[Derivada|Diferenciação]]''': Quando a variação da variável ''([[pleonasmo]]?)'' tende a zero ocorre a <s>[[divisão por zero]]</s> ''derivada'' da referida função, que é vulgarmente conhecida pelas três fórmulas abaixo:
+[[Arquivo:Naruto no limite.JPG|thumb|280px|right|Aplicação de limites quando [[pênis|a coisa]] tende ao [[cu|zero]].]]
+* <math>\lim\limits_{\Delta x \to 0} {f(x)} = f'(x)</math>
+
+
+* <math>\lim\limits_{\Delta x \to 0} {f(x)} = \frac {f(x+\Delta x) - f(x)}{\Delta x}</math>
+
+
+* <math>\frac {d[f(x)]}{dx}</math> 
+
+'''''Nota: não nos responsabilizamos por possíveis danos cerebrais causados pela visualização destas fórmulas.'''''
+
+Ela é conhecida por ser o [[pênis|instrumento]] mais importante no Cálculo Diferencial e também tem o poder de ferrar muitos alunos, como tudo o que é relacionado com [[Matemática]], [[Física]] ou [[Química]].
+
+* '''[[Integral|Integração]]''': embora seja contrária à diferenciação, fode de forma ainda pior os alunos. A diferença é que, ao invés de <math>\Delta x\,</math> tender a zero, tende a infinto. Dessa forma: <math>\lim\limits_{\Delta x \to \infty} {f(x)} = \int_{a}^{b} e^x dx\, </math>, que resumindo para uma forma verbal, significa [[AAAAA|AAAAAAAAAAAAAAAAAAA!!!]]
+
+{{Cálculo}}

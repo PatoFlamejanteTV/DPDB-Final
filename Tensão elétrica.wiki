@@ -1,0 +1,23 @@
+{{Elétrico}}<br>
+{{vqd|Quem [[Tensão Elétrica|vê]],[[Resistência Elétrica|r]][[Corrente Elétrica|i]]}}
+
+
+[[Arquivo:High voltage warning.svg|thumb|300px|Fiação com [[fio-terra]] e sistema antichoque, pode tocar em tudo.]]
+Tensão eletrica é uma medida, uma teoria e também alguma coisa relacionada a [[Eletricidade]], onde há um alto risco de periculosidade por conta dos danos que pode causar a um [[Idiota|ser descuidado]].
+
+== Sobre ==
+'''Tensão elétrica''' trata-se da potência que existe na energia entre dois determinados pontos localizados e conectados e em sua [[Teoria da Relatividade|relatividade]] com as forças relativas e próximas, sendo assim a tensão elétrica é nada mais e nada menos que uma medida que é medida em [[Volt]]s, ela foi desenvolvida pelo seu cientista-mentor [[Alessandro Volta]], a medida é feita seguindo a [[Lei de Coulomb|Lei de Cristóvão Colombo]] na qual se mede pela [[Tensão]] da energia que vai de um ponto ao outro.
+
+[[Arquivo:LinhasdeAltaTensão.jpg|thumb|250px|left|[[Telefone|Linhas]] de Alta [[Tensão]].]]
+== Perigos ==
+Com o crescimento da rede elétrica mundial, o mundo ficou mais [[Tenso]], dessa forma aumentou o número de pessoas acidentadas com energia elétrica, como por exemplo enfiar um garfo em uma tomada quando criança ou ainda para os azarados estar dentro de um carro numa baita de uma chuva embaixo de um [[Gerador]] que explode e cai em cima de você com fios de alta tensão.
+
+Esse aumento da tensão no Brasil ocorreu com o crescimento do programa [[Luz para todos]] feito pelo governo [[Lula]] com objetivo de levar energia de alta tensão a todas as pessoas, inclusive do [[Taubaté|interior]]. Atualmente no Brasil o programa vem sendo descontinuado para evitar o crescimento do número de mortes de animais silvestres.
+
+== Tensão elétrica ou voltagem? ==
+Especialistas se preocupam com o aparecimento dos pontos de voltagens difusas eletrostáticas. Esses pontos são um enigma, uma vez que o termo “voltagem” não existe, mas é mais difundido pelo povo do que a “tensão elétrica”, como o povo é maioria e vivemos em uma democracia, o termo “voltagem” é atualmente o mais aceito pela comunidade não-científica internacional.
+É fato que a capacidade introdutória estática da tensão elétrica no campo pseudo-intelectual tem se revelado ineficaz para conter o avanço dos conglomerados que apóiam o dito termo popular “voltagem”. Hoje podemos afirmar que a “voltagem” é um exemplo da superação da capacidade intelectual do povo brasileiro, que inventou um termo sem duplo sentido, de fácil entendimento e que tem influenciado a geração de outros termos na elétrica como a “amperagem”.
+
+{{Esboço}}<br>
+
+[[Categoria:Artigos elétricos]]

@@ -1,0 +1,31 @@
+{{taxocaixa
+| nome            = Glaucocistófitas
+| cor             = #7FFFD4
+| imagem          = Glaucophyta.jpg
+| imagem_legenda  = São essas jujubas verdes aí
+| reino           = [[Plantae|Plantinhas]](?)
+| divisão         = '''[[Glaucophyta|Glaucoma]]'''
+| classe          = '''[[Glaucophyceae|Glaucofismo]]'''
+| ordem           = '''[[Glaucocystales|Glaucocisto]]'''
+| família         = [[Glaucocystaceae|Glaucosistema]]
+}}
+
+'''Glaucocystaceae''' é a única família, da única ordem da única classe da divisão '''Glaucophyta''', uma espécie de ser vivo indefinido que consiste em algas microscópicas que habitam lagoas e rios do Acre (o que explica a quase total falta de estudos relacionado a esta família de vegetais - se é que são mesmo vegetais). Possui grave crise de identidade (não sexual, porque ele se auto-fode mesmo, e não no sentido da masturbação, mas no sentido da [[mitose]]) e ainda não se decidiu se é uma [[cianobactéria]] ou uma [[alga]] (em alguns casos mais radicais até acha que é um [[animal]], como espécies flageladas que se movem), embora prefira muito mais se definir como alga, porque considera mais chique do que uma mera bactéria, não a toa se pintou de verde para este disfarce. O motivo de tanta discórdia sobre a sua correta definição é que são unicelulares como as bactérias mas fazem fotossíntese como as plantas, mais ou menos como um fã de Lady Gaga, que tem organismo de um humano mas aparência, comportamento e empatia ao de um bovino, o que dificulta sua classificação.
+
+== Características ==
+
+Embora se force a ser considerado uma alga qualquer estudo apurado percebe que as glaucocistófitas são apenas bactérias coloridas de verde, como bom seres unicelulares e desprezíveis que são, dotado de apenas uma única célula com um único núcleo, uma única mitocôndria e todas aquelas demais coisas sem importância que aprendemos no [[ensino médio]].
+
+Sua parede celular, todavia, é composta de [[peptidoglicano|pitidojuliano]], uma estrutura que francamente... tanto faz. Como quer confundir os outros que é uma alga, possui também em seu interior um teor de [[clorofila|clorofila A]] (corante verde) só para confundir ainda mais os biólogos, e junto a esta clorofila, o [[ficobilissomo|fiofó do bilissomo]], que é aquela estrutura em formato de ioiôs amontoados que garantem a [[fotossíntese]], porque é um organismo inútil demais para conseguir caçar algum alimento, até porque no Acre, onde essas algas são encontradas, ele só teria dinossauros como alimento, o que não bom para digestão nem de urubus, então as glaucocistófitas ficam só com a luz solar mesmo.
+
+== Gêneros ==
+
+* '''[[Glaucocystis]]''' - Esse quer ser planta, é imóvel apesar dos flagelos.
+* '''[[Cyanophora]]''' - Esse quer ser animal, é móvel e se recusa a ter parede celular.
+* '''[[Gloeochaete]]''' - Este é bem indeciso, hora tá imóvel hora tá móvel.
+* '''[[Cyanoptyche]]''' - Encontrado apenas na fronteira hipotética entre o Acre e a Bolívia, é o único que é conformado com a verdade, que não passa de uma bactéria.
+
+{{Seres Vivos}}
+
+[[Categoria:Plantae]]
+[[Categoria:Glaucocystaceae|*]]

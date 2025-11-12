@@ -1,0 +1,51 @@
+{{ave}}
+{{Burro}}
+ 
+
+{| class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+|-
+!style="text-align:center; yellow"|<big>'''''Peninha'''''</big>
+|-
+|style="text-align: center; font-size: 90%;"|
+<br />
+|-
+|[[Arquivo:Peninha (1).jpg|center|250px]]
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+|- style="vertical-align: top;"
+|'''''Nome Real'''''||''Fethry Duck''
+|- style="vertical-align: top;"
+|'''''Cidade'''''||''[[Patópolis]]''
+|}
+|-
+|
+----
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+!colspan="2" style="text-align:center;{{{alliance_color}}}"|Características
+|- style="vertical-align: top;"
+|'''''Salário'''''||''Depende do [[Trocadilho|tipo de bico que ele faz]]''
+|- class="hiddenStructure{{{alliances}}}" style="vertical-align: top;"
+|'''''Afiliações'''''||''<s>Escravo</s> Empregado do [[Tio Patinhas]]''
+|- class="hiddenStructure{{{relatives}}}" style="vertical-align: top;"
+|'''''Parentes'''''||''Primo do [[Pato Donald]] e do [[Gastão]], tio-pai do [[Biquinho]], neto da [[Vovó Donalda]] e namorado da [[Margarida]] (ela sempre trai o Donald com o Peninha)''
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''''Inimigos'''''||''Pato Donald (pois o mesmo sempre quer competir com seus primos''
+|- style="vertical-align: top;"
+|'''''Poderes'''''||''Ser tão burro e desastrado quanto a [[Carla Perez]]''
+|}
+|}
+{{vqd|Seu Madruga}}
+{{C|Não se animem demais o Peninha é meio ... é ... Quer dizer é ...|Tio Patinhas tentando descrever o Peninha}}
+{{C|Doido !!! Muito doido !!!|Pato Donald complentando a frase acima}}
+
+'''Peninha''' é o primo do [[Pato Donald]] e por consequência, rival dele. É um pato vagabundo, retardado, que (com o perdão do trocadilho) fica fazendo bico para sobreviver e poder sustentar seu sobrinho [[Biquinho]] (aí está outro trocadilho). Ele é o [[Seu Madruga]] do mundo da Disney.
+[[Arquivo:Trecho revista Peninha.JPG|thumb|left|Uma curiosidade: Suspeita-se que Peninha seja portador da [[síndrome de Asperger]]]]
+Apesar dele ser um faz de tudo, na maior parte do tempo ele está sendo escravo do Tio Patinhas no jornal "A Patada". É ele quem escreve as histórias sensacionalistas que os cidadãos de Patópolis lêem. E o Tio Patinhas fica bem irritado toda vez que o Peninha faz cagadas no jornal, como uma vez onde ele fez uma reportagem sobre a influência das batatas na cultura grega ([[Batata frita|considerando que eles foram bombardeados culturalmente pelos Estados Unidos]]), mas ele colocou uma foto do [[Kid Bengala]].
+
+
+{{esboço}}
+{{disney}}
+
+[[Categoria:Patos]]
+[[Categoria:Jornalistas fictícios]]

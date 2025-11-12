@@ -1,0 +1,101 @@
+{{yaoi}}
+{{game}}
+
+{{Infobox Game
+|title     = MAMÃE 3
+|image     = MOTHER 3 cover.jpg
+|caption   = Famosa capa do remake para [[Wii U]]
+|developer = [[HAL Laboratory|Au]], [[Brownie Brown|Marrom Marronado]]
+|publisher = [[Nintendo|Ñ-Entendo]]
+|released  = [[2006]]
+|genre     = {{RPGG}}
+|rating    = 0%
+|platform  = [[Game Boy Advance|PBA]]
+|ages      = Livre
+}}
+
+{{vqd|Mamãe 3}}
+{{vqd|EarthBound 64?}}
+{{vqd|EarthBound 2}}
+
+'''MOTHER 3''' é a continuação meio afeminada de [[EarthBound|MOTHER 2]] e o terceiro game da série [[MOTHER]] (lógico...). Feito em [[2006]] (um dos últimos games do PBA) pela [[Nintendo|Ñ-Entendo]].
+
+==História==
+
+A história se passa pelo menos há uns 12 anos após MOTHER 2. Começa tudo numa ilha perdida ao mar (talvez deva ser uma ilha no [[Acre]], porque ninguém sabe aonde ela fica), no qual ainda a tecnologia não estava nem perto de chegar lá. Daí então, uns soldados com caras de [[porco]] pousaram lá e causam [[Narrador da Sessão da Tarde|a maior confusão por lá]].
+
+==O game==
+
+Segue o padrão de MOTHER 1 e EB: Usar PSI, itens e coisa tal, mas, agora você pode fazer combos nas batalhas! Basta ter timing certo. Outra coisa, é que agora o famoso telefone de [[Save Point|save]] não existe mais, já que o Pai de Lucas é jogável e aparece (ao invés do pai do Ness que nunca aparecereu). Agora, um sapo salva o game e banca também o caixa eletrônico (só quando chegar no capítulo 4). Outra coisa que existiu, é que agora os [[NPC]]s que não ajudam você tem nome, e os NPCs que te ajudam, [[AAAAA!|não pode guardar itens pra você!]].
+
+==Personagens==
+
+===Jogáveis (mesmo por um tempo)===
+
+{| class="wikitable"
+|-
+! <center>'''Nome'''</center> !! <center>'''Foto'''</center> !! <center>'''Descrição'''</center>
+|-
+| '''<center>[[Lucas (EarthBound)]]</center>''' || <center>[[Arquivo:Lucasmothersprite.png|40px|semmoldura]]</center> || É o muleque quase mudo que completa a tríade dos protagonistas da série ([[Ness]] e [[Ninten]]). Lucas é filho de pai e mãe [[Cowboy|caubóis]] que moram num morro. Sua comida favorita é <s>a Kumatora</s> [[Omelete]].
+|-
+| <center>'''Claus'''</center> || <center>[[Arquivo:Clausmothersprite.png|40px|semmoldura]]</center> || <center>Irmão de Lucas que vira [[Anti-herói|anti-herói]] no capítulo 4. Assim como seu irmão, adora omelete, porém, seu cérebro tá todo fodido por causa dos aparelhos dos caras com máscara de porco, ele é o [[Chefão|Final Boss]].</center>
+|-
+| <center>'''Flint'''</center> || <center>[[Arquivo:Flintmothersprite.png|40px|semmoldura]]</center> || Pai dos de Lucas e Claus, metido a caubói e [[Macho|machão]]. É o segundo personagem mais forte, devido a sua técnica chamada [[Power Smash]].
+|-
+| <center>'''Boney'''</center> || <center>[[Arquivo:Boney.png|40px|semmoldura]]</center> || Cão de Lucas e Claus. É o personagem mais [[Loser|fraco]] do game, e assim como o [[Poo]] em [[EarthBound]], só tem uma arma em todo o game pra ele.
+|-
+| <center>'''Duster'''</center> || <center>[[Arquivo:Dustermothersprite.png|40px|semmoldura]]</center> || [[Ladrão]] bundão que só [[Baiano|quer saber de dormir]]. Plagia o [[Lloyd]] de [[MOTHER]] em alguns momentos.
+|-
+| <center>'''<s>Cu na tora</s> Kumatora'''</center> || <center>[[Arquivo:Kumatora.png|40px|semmoldura]]</center> || Famosa maria-macho, geralmente age como e tem aparência de homem devido ao seu cabelo levado pra cima. Ela é a princesa do abandonado Castelo Oshoe. De acordo com a parte obscura do fandom dessa desgraça, ela [[Sexo|afoga o ganso]] com o Lucas nas horas vagas, e sim, tem isso no [[Rule 34]], seu [[Punheteiro|punheteiro]].
+|-
+| <center>'''Salsa'''</center> || <center>[[Arquivo:Salsamothersprite.png|40px|semmoldura]]</center> || [[Macaco]] que é o segundo personagem mais fraco do game. Ele só tem algumas habilidades como [[Rodrigo Faro|dançar]] e [[Adelir Antônio de Carli|rezar]].
+|}
+
+===Ajudantes===
+
+{| class="wikitable"
+|-
+! <center>'''Nome'''</center> !! <center>'''Foto'''</center> !! <center>'''Descrição'''</center>
+|-
+| <center>'''Wess'''</center> || <center>[[Arquivo:Wessmothersprite.png|40px|semmoldura]]</center> || Pai de Duster. Só serve pra tacar [[bombas]] e [[meias]] [[Fedor de sovaco|fedidas]] pra caralho.
+|-
+| <center>'''Alec'''</center> || <center>[[Arquivo:Alecmothersprite.png|40px|semmoldura]]</center> || Pai de Hinawa e avô dos dois pirralhos. Só serve pra ajudar Flint no capítulo 1.
+|-
+| <center>'''Ionia'''</center> || <center>[[Arquivo:Ioniamothersprite.png|40px|semmoldura]]</center> || Um(a) dos(as) magypsies que residem na [[ilha]].
+|-
+| <center>'''[[Ness]]'''</center> || <center>[[Arquivo:Nessmother3sprite.png|40px|semmoldura]]</center> || Supostamente voltou como um NPC para [[encosto|azucrinar todo mundo]].
+|}
+
+===Vilões===
+
+{| class="wikitable"
+|-
+! <center>'''Nome'''</center> !! <center>'''Foto'''</center> !! <center>'''Descrição'''</center>
+|-
+| <center>'''Pigmask'''</center> || <center>[[Arquivo:Pigmaskmothersprite.png|40px|semmoldura]]</center> || São os soldados [[Porco|porcos]] do Porky. Causam o caos na [[ilha]] e atrapalham muito no capítulo 2.
+|-
+| <center>'''Yokuba'''</center> || <center>[[Arquivo:Yokubamothersprite.png|40px|semmoldura]]</center> || Chamado de Fassad na tradução, é um gordo que judia de Salsa dando choques elétricos e que fica comendo [[Punheta|banana]] toda hora.
+|-
+| <center>'''[[Porky]]'''</center> || <center>[[Arquivo:Porkymothersprite1.png|40px|semmoldura]]</center> || Foi promovido a chefão após a morte de [[Giygas]]. Utiliza uma [[aranha]] com ele lá dentro.
+|}
+
+===Inúteis===
+
+{| class="wikitable"
+|-
+! <center>'''Nome'''</center> !! <center>'''Foto'''</center> !! <center>'''Descrição'''</center>
+|-
+| <center>'''Hinawa'''</center> || <center>[[Arquivo:Hinawamothersprite.png|40px|semmoldura]]</center> ||  Mãe de Lucas e Claus que morre logo no capítulo 1 pra um [[tiranossauro]] [[robô]]. Irônico, porque o nome do jogo é Mãe 3. Só ajuda a criar [[Chato|lerdeza]] no game, nada mais.
+|-
+| <center>'''Mr. Saturn'''</center> || <center>[[Arquivo:Mrsaturnmothersprite.png|40px|semmoldura]]</center> || Jogam [[Sega Saturn|Cega em Saturno]] todos os dias.
+|-
+| <center>'''Magypsie'''s</center> || <center>[[Arquivo:Ioniamothersprite.png|40px|semmoldura]]</center> || São 7 [[Gay|bichas]] que protegem um [[dragão]].
+|}
+
+{{EarthBound}}
+
+[[Categoria:Jogos da HAL Laboratory]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos de RPG]]
+[[Categoria:Jogos lançados em 2006]]

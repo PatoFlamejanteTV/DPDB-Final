@@ -1,0 +1,534 @@
+{{vqd|<choose><option>Hamilton Supremacy</option><option>Mercedes Supremacy</option><option>Replay da temporada de 2014</option></choose>}}
+{{C|Temos um novo Senna!|Fã do Hamilton|seu ídolo}}
+{{C|McLaren e Honda? Não, EU é que serei o novo Senna!|Alonso|sua transferência pra McLaren}}
+{{C|GP2 ENGIIIIIIIINNNNNNEEEEEEE!!!|O mesmo Alonso meses depois, durante o GP do Japão}}
+{{C|Agora sim, temos um piloto de verdade!|Ferrari|Sebastian Vettel}}
+{{C|Essa vaga é minha, Sauber! Me deixa entrar!|Giedo van der Garde|o golpe que tomou da Sauber}}
+{{C|Sai, maluco, todo dia isso!|Monisha Kaltenborn|a frase acima}}
+{{C|O novo Senna tá vindo aí!|Globo|o Nasr ter conseguido um quinto lugar na sua primeira corrida na F1}}
+{{c|É o Senna Reverso!|Fernanda Gentil|Felipe Nasr}}
+{{c|Moleque FDP, olha por onde anda, cabaço!|Felipe Massa|Verstappen e sua direção perigosa}}
+{{c|Passa por cima, otário!|Max Verstappen|o xingamento acima}}
+{{C|Molezinha, molezinha...|Lewis Hamilton|{{PAGENAME}}}}
+{{C|FDP, você vai ver no ano que vem!|Nico Rosberg|ser vice de novo}}
+
+
+A '''{{PAGENAME}}''' é a 66ª edição do campeonato da [[Fórmula 1]], o racha de playboys mais popular do mundo. Essa temporada foi o replay de 2014, pois a Mercedes continuou voando nas pistas e [[Lewis Hamilton]] ganhou com ainda mais facilidade.
+
+==Pilotos e Equipes==
+
+{| class="wikitable" border="1" style="font-size: 90%;"
+!Equipe
+!<s>Bob, o</s> Construtor
+!Chassi(s)
+!Motor
+!Pneu
+!N°
+!Pilotos
+!Rodada
+|-
+|rowspan=2| [[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Ferrari]]
+!rowspan=2 align="center"| [[Scuderia Ferrari|Ferrari]]
+|rowspan=2 align="center"| [[Ferrari SF16-H|SF16-H]]
+|rowspan=2 align="center"| [[Ferrari]]
+|rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 5
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Sebastian Vettel]]
+| align="center" | 1-19
+|-
+| align="center" | 7
+| [[Arquivo:Banderafinlandia.png|20px]] [[Kimi Räikkönen|Ice Man]]
+| align="center" | 1-19
+|-
+|rowspan=2| [[Arquivo:India flag.png|20px]] [[Force India|Sahara Force India Formula One Team]]
+!rowspan=2 align="center"| [[Force India]]-[[Mercedes]]
+| rowspan=2 align="center"| [[Force India VJM09|VJM09]]
+| rowspan=2 align="center"| [[Mercedes]] PU106C Hybrid
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 27
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Nicolas Hülkenberg|Nico Huckleberry]]
+| align="center" | 1–19
+|-
+| align="center" | 11
+| [[Arquivo:Flagge Mexiko.png|20px]] [[Sergio Pérez|Sergio Pires]]
+| align="center" | 1–19
+|-
+| rowspan="2" | {{GBRb}} [[Team Lotus|Lotus F1 Team]]
+!rowspan=2 align="center"| [[Lotus]]-[[Mercedes]]
+| rowspan=2 align="center"| E23 Hybrid	
+| rowspan=2 align="center"| Mercedes PU106B Hybrid
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 8
+| [[Arquivo:Bandeira da França.png|20px]]  [[Romain Grosjean|Romã Groselha]]
+| align="center" | 1–19
+|-
+| align="center" | 21
+| {{VENb}}  [[Pastor Maldonado|Pastor Mal Danado]]
+| align="center" | 1–19
+|-
+|rowspan=3| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Manor Racing|Menor Marussia F1 Team]]
+!rowspan=3 align="center"| [[Marussia]]-[[Ferrari]]
+| rowspan=3 align="center"| MR03B
+| rowspan=3 align="center"| [[Ferrari]] 059/3
+| rowspan=3 align="center" | [[Pirelli]]
+| align="center" | 28
+|{{GBRb}} [[Will Stevens]]
+| align="center" | 2–19 
+|-
+| align="center" | 53
+| {{USAb}} [[Alexander Rossi]]
+| align="center"| 13–14, 16–18
+|-
+| align="center" | 98
+|{{ESPb}} [[Roberto Merhi]]
+| align="center" | 2–12, 15, 19
+|-
+| rowspan="3" | [[Arquivo:Bandeira do Reino Unido.png|20px]] [[McLaren|McLaren Honda Formula 1 Team]]
+!rowspan=3 align="center"| [[McLaren]]-[[Honda]]
+| rowspan=3 align="center"| [[McLaren MP4-30|MP4-30]]
+| rowspan=3 align="center"| [[Honda]] RA615H Hybrid
+| rowspan=3 align="center" | [[Pirelli]]
+| align="center" | 14
+| [[Arquivo:Bandeira da Espanha.png|20px]] [[Fernando Alonso|Nandito Choronso]]
+| align="center" | 2–19
+|-
+| align="center" | 20
+| {{DENb}} [[Kevin Magnussen|Kevin Magnitude]]
+| align="center" | 1
+|-
+| align="center" | 22
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Jenson Button|Jenson Push the Button]]
+| align="center" | 1–19
+|-
+|rowspan=2| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Mercedes Grand Prix|Mercedes AMG Petronas Formula One Team]]
+!rowspan=2 align="center"| [[Mercedes Grand Prix|Mercedes]]
+| rowspan=2 align="center"| {{nowrap|[[Mercedes F1 W06|F1 W06 Hybrid]]}}
+| rowspan=2 align="center"| [[Mercedes]] PU106C Hybrid
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 44
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Lewis Hamilton|Luís Hamilton]]
+| align="center" | 1–19
+|-
+| align="center" | 6
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Nico Rosberg|Nico Rosbife]]
+| align="center" | 1–19
+|-
+|rowspan=2| [[Arquivo:Bandeira da Austria.png|20px]] [[Red Bull Racing]]
+!rowspan=2 align="center"| [[Red Bull Racing|Red Bull]]-[[Renault]]
+| rowspan=2 align="center"| [[Red Bull RB11|RB11]]
+| rowspan=2 align="center"| [[Renault Energy F1-2015]]
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 3
+| [[Arquivo:Bandeira da Australia.png|20px]] [[Daniel Ricciardo|Daniel Risadinha]]
+| align="center" | 1–19
+|-
+| align="center" | 26
+| [[Arquivo:Bandeira da Rússia.png|20px]] [[Daniil Kvyat|Daniil Kvyagem]]
+| align="center"| 1–19
+|-
+|rowspan=2| [[Arquivo:Bandeira da Suiça.png|20px]] [[Sauber F1 Team|Saubabaca]]
+!rowspan=2 align="center"| [[Sauber]]-[[Ferrari]]
+| rowspan=2 align="center"| [[Sauber C35|C35]]
+| rowspan=2 align="center"| [[Ferrari]] 059/4
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 9
+| [[Arquivo:Bandeira da Suecia.png|20px]] [[Marcus Ericsson|Sony Ericsson]]
+| align="center" | 1–19
+|-
+| align="center" | 12
+| [[Arquivo:Banderabrasil.png|20px]] [[Felipe Nasr|Senna Reverso]]
+| align="center" | 1–19
+|-
+|rowspan=2| [[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Toro Rosso]]
+!rowspan=2 align="center"| [[Scuderia Toro Rosso|Toro Rosso]]-[[Renault]]
+|rowspan=2 align="center"| [[Toro Rosso STR11|STR10]]
+|rowspan=2 align="center"| [[Renault Energy F1-2015]]
+|rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 33
+| [[Arquivo:Bandeira dos Paises Baixos.png|20px]] [[Max Verstappen|Max Crashtappen]]
+| align="center" | 1–19
+|-
+| align="center" | 55
+| [[Arquivo:Bandeira da Espanha.png|20px]] [[Carlos Sainz Jr.|Carlos Sais]]
+| align="center" | 1–19
+|-
+|rowspan=2| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Williams F1|Williams Dry Martini Racing]]
+!rowspan=2 align="center"| [[Williams F1|Williams]]-[[Mercedes]]
+| rowspan=2 align="center"| [[Williams FW37|FW37]]
+| rowspan=2 align="center"| [[Mercedes]] PU106C Hybrid
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 19
+| [[Arquivo:Banderabrasil.png|20px]] [[Felipe Massa|Felipe Massada]]
+| align="center" | 1–19
+|-
+| align="center" | 77
+| [[Arquivo:Banderafinlandia.png|20px]] [[Valtteri Bottas|Val77eri Bo77as]]
+| align="center" | 1–19
+|}
+
+== Resumo ==
+[[Arquivo:Will Stevens figurante.jpg|300px|miniaturadaimagem|direita|Hamilton ria à toa naquele ano, enquanto Perez e Alonso tinham que rir pra não chorar, e Stevens e Maldonado tinham que se contentar com a figuração]]
+
+* Foi uma das temporadas mais fáceis da vida do Hamilton, tanto que ele tirou férias antecipadas logo depois de conquistar o tri. Mas o que ele não imaginava era que Rosberg tramaria uma vingança na [[Temporada de Fórmula 1 de 2016|temporada seguinte]].
+* Nessa temporada, tanto ele quanto o Vettel superaram o recorde de vitórias do Senna. Vettel, aliás, estreou na Ferrari e se iludiu com o seu bom primeiro ano, achando que iria repetir [[Schumacher]] e ganhar tudo. A Ferrari também se iludiu com ele, achando que Vettel era o novo Schumacher só porque era alemão.
+* Mais uma vez, os brasileiros se iludiram achando que [[Felipe Massa|Massa]] iria dar algum trabalho às Mercedes, e que o [[Felipe Nasr|Nasr]] iria ter uma carreira brilhante na F1 só porque conseguiu um quinto lugar cagado em sua estreia.
+* Mas ninguém se iludiu mais que o Alonso, que largou a Ferrari e assinou com a McLaren porque achou que a parceria da equipe inglesa com a Honda iria ser tão fodástica quanto a dos anos 80, quando o [[Ayrton Senna|Senna]] foi tricampeão. Só foi ele sentar no carro e dar a partida que ele viu a furada em que se meteu...
+* Essa temporada viu a estreia do [[Max Verstappen]], que àquela altura, era só um n00b virgem de 17 anos, que só sabia bater no muro, destruir o carro, bater nos outros carros e xingar os outros. Ele causou tanto prejuízo que a FIA resolveu proibir virgens abaixo dos 18 anos de correr na categoria dali por diante.
+* O holandês não foi o único estreante do ano. Além do Nasr, também tivemos [[Roberto Merhi]] (que foi trocado logo), Alexander Rossi (que só se deu bem na Indy) e [[Carlos Sainz Jr.]], o único que conseguiu correr por mais de três temporadas e vencer corrida.
+* [[Giedo van der Garde]], um piloto bem furreca que eu duvido que você se lembre, tentou comprar uma vaga na Sauber, mas tomou um golpe da chefe de equipe, Monisha Kaltenborn, que decidiu vender a vaga pra dois pagantes mais endinheirados e bem dotados: Nasr e Ericsson. Van der Garde fez de tudo pra tomar a vaga de volta: acampou na porta da sede da Sauber, fez protestos, promoveu buzinaços, panelaços, [[Xingar muito no Twitter|xingou muito no Twitter]], até mesmo roubou o macacão do Ericsson e tentou roubar o carro dele pra participar da F1 nem que fosse na marra. Ele também entrou na justiça, e após apresentar a nota fiscal, conseguiu provar que tinha comprado a vaga antes dos outros, mas recebeu ordem de restrição por conta de suas maluquices e acabou sem conseguir participar da F1.
+
+== Melhores momentos ==
+
+<YouTube>
+title= Top 10 batidas da F1 2015
+movie_url= 
+embed_source_url= https://www.youtube.com/watch?v=euGWSpqK8GA
+wrap= no
+width= 350
+height= 350
+</YouTube>
+
+<YouTube>
+title= GP2 Engine!
+movie_url= 
+embed_source_url= https://www.youtube.com/watch?v=RwpiDqdugYY
+wrap= no
+width= 350
+height= 350
+</YouTube>
+
+<YouTube>
+title= A cagada do Rosberg
+movie_url= 
+embed_source_url= https://www.youtube.com/watch?v=NH8ZQhPX6sk
+wrap= no
+width= 350
+height= 350
+</YouTube>
+
+
+== Galeria ==
+<Gallery>
+Imagem:Rosberg-segura-Hamilton.png|Rosberg tentando impedir o tri do Hamilton
+Imagem:Alonso_empurrando_carro.jpg|Essa era a rotina de Alonso na McLaren
+Imagem:Alonso_saudades.jpg|Alonso tirando uma soneca e sonhando com um passado muito distante.
+Imagem:Massa look.jpg|Massa vendo os outros passarem por ele.
+Imagem:Wolff-feliz.jpeg|{{c|Minha vida nunca foi tão fácil|Toto Wolff|{{PAGENAME}}}}
+Imagem:Hülkenberg e Ericsson Sochi 2015.jpg|Ericsson tentando pegar carona no carro do Hulkenberg
+Imagem:Roberto_Merhi_Will_Stevens_Marussia_2015.jpg|Esses carros quase nunca apareciam na sua TV, porque eram retardatários demais para isso
+Imagem:Verstappen-dando-dedo.png|Verstappen reagindo a quem o chama de n00b
+Imagem:Daniel_Ricciardo.jpg|Ricciardo todas as vezes que a câmera focava nele 
+Imagem:Kimi_ferrari.png|Reação do Kimi sobre essa temporada
+</Gallery>
+
+== Resultados e classificação ==
+
+=== Por Grande Prêmio ===
+{| class="wikitable" border="1" style="font-size: 90%;"
+! colspan="2" | Grande Prêmio
+! Circuito e Cidade
+! Data
+! [[Pole Position|Poli-posichon]]
+! Volta mais rápida
+! <choose><option>[[Ayrton Senna|Vencedor]]</option><option>[[Michael Schumacher|Vencedor]]</option></choose>
+|-
+! 1
+|{{AUSb}} [[GP da Austrália]]
+| [[Circuit Albert Park]] [[Melbourne]]
+| [[15 de março]]
+|  colspan="3" | <center>  [[Lewis Hamilton|Senna Negão]]
+|-
+! 2
+|[[Arquivo:Bandeira da Malásia.png|20px]] [[Malásia|GP da Malásia]] 
+| [[Circuito Internacional de Sepang]] ([[Kuala Lumpur]])
+| [[29 de março]]
+| [[Lewis Hamilton|Senna Negão]]
+| [[Nico Rosberg|Nico Rosbife]]
+| [[Sebastian Vettel|Sebastião Féttel]]
+|-
+! 3
+|{{CHNb}} [[Grande Prêmio da China|GP da China]] 
+| [[Circuito Internacional de Xangai]] ([[Xangai]])
+| [[12 de abril]]
+|  colspan="3" | <center>  [[Lewis Hamilton|Senna Negão]]
+|-
+! 4
+|{{BHRb}} [[Grande Prêmio do Bahrein|GP do Bahrein]] 
+|[[Bahrain International Circuit|Tatooine]] (Sakhir)
+|[[19 de abril]]
+|[[Lewis Hamilton|Senna Negão]]
+|[[Kimi Räikkönen|Just leave me alone]]
+|[[Lewis Hamilton|Senna Negão]]
+|-
+! 5
+|{{ESPb}} [[Grande Prêmio da Espanha|GP da Espanha]]
+| [[Circuito da Catalunha]] ([[Barcelona]])
+| [[10 de maio]]
+| [[Nico Rosberg|Nico Rosbife]]
+| [[Lewis Hamilton|Senna Negão]]
+| [[Nico Rosberg|Nico Rosbife]]
+|-
+! 6
+|{{MCOb}} [[Mônaco|GP de Mônaco]]
+|[[Circuit de Monaco|Onde Senna era Rei]] (Monte Carlo)
+| [[24 de maio]]
+| [[Lewis Hamilton|Senna Negão]]
+| [[Daniel Ricciardo|Daniel Risadinha]]
+| [[Nico Rosberg|Nico Rosbife]]
+|-
+! 7
+|{{CANb}} [[Canadá|GP do Canadá]]
+| [[Circuit Gilles Villeneuve|Imola 2.0]] ([[Montreal]])
+| [[7 de junho]]
+|[[Lewis Hamilton|Senna Negão]]
+|[[Kimi Räikkönen|Just leave me alone]]
+|[[Lewis Hamilton|Senna Negão]]
+|-
+! 8
+|{{AUTb}} [[Áustria|GP da Áustria]]
+| [[Red Bull Ring]], [[Spielberg (cidade)|Spielberg]]
+| [[21 de junho]]
+| [[Lewis Hamilton|Senna Negão]]
+|  colspan="2" | <center> [[Nico Rosberg|Nico Rosbife]]
+
+|-
+! 9
+|{{GBRb}} [[Inglaterra|GP da Grã-Bretanha]]
+| [[Silverstone Circuit|Circuito da Pedra Prateada]] ([[Silverstone (cidade)|Silverstone]])
+| [[5 de julho]]
+|  colspan="3" | <center>  [[Lewis Hamilton|Senna Negão]]
+|-
+! 10
+|{{HUNb}} [[Hungria|GP da Hungria]]
+| [[Hungaroring|Onde o Massa levou a molada]] ([[Budapeste]])
+| [[26 de julho]]
+| [[Lewis Hamilton|Senna Negão]]
+| [[Daniel Ricciardo|Daniel Risadinha]]
+| [[Sebastian Vettel|Sebastião Féttel]]
+|-
+! 11
+|{{BELb}} [[Bélgica|GP da Bélgica]]
+| [[Spa-Francorchamps|Circuito que é tudo, menos um Spa]], ([[Spa-Francorchamps]])
+| [[23 de agosto]]
+| [[Lewis Hamilton|Senna Negão]]
+| [[Nico Rosberg|Nico Rosbife]]
+| [[Lewis Hamilton|Senna Negão]]
+|-
+! 12
+|{{ITAb}} [[Itália|GP da Itália]]
+| [[Circuito de Monza]] ([[Monza]])
+| [[6 de setembro]] 
+|  colspan="3" | <center>  [[Lewis Hamilton|Senna Negão]]
+|-
+! 13
+|{{SGP}} [[Singapura|GP de Singapura]]
+| [[Circuito Urbano de Marina Bay|Cingapura Gate]] ([[Cidade de Singapura]])
+| [[20 de setembro]]
+| [[Sebastian Vettel|Sebastião Féttel]]
+| [[Daniel Ricciardo|Daniel Risadinha]]
+| [[Sebastian Vettel|Sebastião Féttel]]
+|-
+! 14
+|{{JPN}} [[Grande Prêmio do Japão|GP do Japão]]
+| [[Circuito de Suzuka]] ([[Suzuka]])
+| [[27 de setembro]]
+| [[Nico Rosberg|Nico Rosbife]]
+|  colspan="2" | <center>  [[Lewis Hamilton|Senna Negão]]
+|-
+! 15
+|{{RUSb}} [[Grande Prêmio da Rússia|GP da Rússia]]
+| [[Circuito de Sochi]] ([[Sochi]])
+| [[11 de outubro]]
+| [[Nico Rosberg|Nico Rosbife]]
+| [[Sebastian Vettel|Sebastião Féttel]]
+| [[Lewis Hamilton|Senna Negão]]
+|-
+! 16
+|{{USAb}} [[Estados Unidos|GP dos Estados Unidos]]
+| [[Circuito das Américas]] ([[Austin]])
+| [[25 de outubro]]
+|  colspan="2" | <center> [[Nico Rosberg|Nico Rosbife]]
+| [[Lewis Hamilton|Senna Negão]]
+|-
+! 17
+|{{MEXb}} [[México|GP do México]]
+| [[Autódromo Hermanos Rodríguez]] ([[Cidade do México]])
+| [[1 de novembro]]
+|  colspan="3" | <center> [[Nico Rosberg|Nico Rosbife]]
+|-
+! 18
+|{{BRAb}} [[Grande Prêmio do Brasil|GP do Brasil]]
+| [[Autódromo de Interlagos|INTERLAGOOOSSSS]] ([[São Paulo (cidade)|São Paulo-SP]])
+| [[15 de novembro]]
+| [[Lewis Hamilton|Senna Negão]]
+| [[Nico Rosberg|Nico Rosbife]]
+| [[Lewis Hamilton|Senna Negão]]
+|-
+! 19
+| [[Arquivo:Bandeira dos Emirados Arabes Unidos.png|20px]] [[Abu Dhabi|GP de Abu Dhabi]]
+| [[Circuito de Yas Marina|Yay Marina]] ([[Abu Dhabi]])
+| [[29 de novembro]]
+| [[Lewis Hamilton|Senna Negão]]
+| [[Nico Rosberg|Nico Rosbife]]
+| [[Lewis Hamilton|Senna Negão]]
+|-
+|}
+
+===Campeonato de Pilotos===
+
+{| class="wikitable"
+|-
+! Pos.
+! Piloto
+! Equipe
+! Pontos
+|-
+! 1º
+| [[Lewis Hamilton|Senna Negão]]||[[Mercedes Grand Prix|Meucedes GP]]
+! 381 
+|-
+!2º
+| [[Nico Rosberg|Nico Rosbife]]||[[Mercedes Grand Prix|Meucedes GP]]	
+!322 
+|-
+!3º
+| [[Sebastian Vettel|Sebastião Féttel]]||[[Scuderia Ferrari|EsCÚderia Ferradura]]	
+!278 
+|-
+!4º
+|[[Kimi Räikkönen|Just leave me alone]]||[[Scuderia Ferrari|EsCÚderia Ferradura]]	
+!150 
+|-
+!5º
+|[[Valtteri Bottas|Válter Botinas]]||[[Williams F1|Williams Dry Martini Racing]]	
+!136 
+|-
+!6º
+|[[Felipe Massa|Felipe Massada]]||[[Williams F1|Williams Dry Martini Racing]]	
+!121 
+|-
+!7º
+|[[Daniil Kvyat|Daniil Kvyagem]]||[[Red Bull Racing|Red Boooo]]	
+!95 
+|-
+!8º
+|[[Daniel Ricciardo|Daniel Risadinha]]||[[Red Bull Racing|Red Boooo]]
+!92 
+|-
+!9º
+|[[Sergio Pérez|Checo Pérez]]||[[Force India|Força Indiana]]	
+!78 
+|-
+!10º
+|[[Nico Hulkenberg|Nico Huckleberry]]||[[Force India|Força Indiana]]	
+!58 
+|-
+!11º
+|[[Romain Grosjean|Romano Groselha]]||[[Team Lotus]]
+!51 
+|-
+!12º
+|[[Max Verstappen|Max Crashtappen]]||[[Scuderia Toro Rosso|Touro Roxo]]	
+!49 
+|-
+!13º
+|[[Felipe Nasr|Senna Reverso]]||[[Sauber F1 Team|Saubabaca]]	
+!27 
+|-
+!14º
+|[[Pastor Maldonado|Pastor Mal Danado]]||[[Team Lotus]]	
+!27 
+|-
+!15º
+|[[Carlos Sainz Jr.|Carlos Sais]]||[[Scuderia Toro Rosso|Touro Roxo]]	
+!18 
+|-
+!16º
+|[[Jenson Button|Jenson Push The Button]]||[[Team McLaren|McLata]]	
+!16 
+|-
+!17º
+|[[Fernando Alonso|El Chorón de las Astúrias]]||[[Team McLaren|McLata]]	
+!11 
+|-
+!18º
+|[[Marcus Ericsson|Sony Ericsson]]||[[Sauber F1 Team|Saubabaca]]	
+!9 
+|-
+!19º
+|[[Roberto Merhi|Roberto Merdi]]||[[Manor Racing|Menor Marussia F1 Team]]
+!0 
+|-
+!20º
+|[[Alexander Rossi|Alexandre Roce em mim]]||[[Manor Racing|Menor Marussia F1 Team]]
+!0 
+|-
+!21º
+|[[Will Stevens|Will Estivens em último]]||[[Manor Racing|Menor Marussia F1 Team]]	
+!0
+|}
+
+===Campeonato de Construtores===
+{| class="wikitable"
+|-
+! Pos.
+! Equipe
+! Pontos
+|-
+!1º
+|[[Arquivo:Bandeira da Alemanha.png|20px]] [[Mercedes Grand Prix|Meucedes GP]]
+! 703
+|-
+!2º
+|[[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Ferrari|EsCÚderia Ferradura]]
+! 428
+|-
+!3º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Williams F1|Williams Dry Martini Racing]]
+! 257
+|-
+!4º
+|[[Arquivo:Bandeira da Austria.png|20px]] [[Red Bull Racing|Red Boooo]]
+!187
+|-
+!5º
+|[[Arquivo:India flag.png|20px]] [[Force India|Força Indiana]]
+! 136
+|-
+!6º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Team Lotus]]	
+!78
+|-
+!7º
+|[[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Toro Rosso|Touro Roxo]]
+! 67
+|-
+!8º
+|[[Arquivo:Bandeira da Suiça.png|20px]] [[Sauber F1 Team|Saubabaca]]
+!36
+|-
+!9º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Team McLaren|McLata]]
+! 27
+|-
+!10º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Manor Racing|Menor Marussia F1 Team]]
+!0
+|}
+
+
+==Campeão==
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Vencedor da {{PAGENAME}}
+|-
+![[Arquivo:Lewis-Hamilton-Through-the-years.jpg|300px]]
+|-
+|align=center|<br />'''[[Lewis Hamilton]] ([[Mercedes-AMG Petronas Motorsport|Mercedes]])'''<br />'''(3º título)'''
+|}
+
+==Ver também==
+* [[F1 2015]]: o game dessa bagaça
+
+
+{{Temporadas f1}}

@@ -1,0 +1,49 @@
+{{Box ClubeFutebol
+|cor_clara         = lightblue
+|cor_escura        = red
+|brasao            = Escudo_do_angra_dos_reis.png
+|hino              = 
+|nome_oficial      = Área de Risco Esporte Clube
+|origem            = {{RJ}}''' - [[Angra dos Reis]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Mun. Jair Carneiro Toscano de Brito]]
+|capacidade        = 1000
+|sede              = 
+|presidente        = [[Cristiano de Carvalho]]
+|treinador         = [[Leandro Silva]]
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = [[Cítera]]
+|liga              = Campeonato Carioca
+|divisao           = Série A2
+|títulos           = 
+|ranking           = 
+}}
+
+'''Angra dos Reis Esporte Clube''' é o time de futebol herdeiro dos restos mortais deixados pelo falido [[Fonseca Atlético Clube]], herdou não apenas a ruindade do antecessor, mas também a freguesia para o [[Pérolas Negras]] de quem parece ter dificuldades de ganhar, especialmente se [[Fábio Saci]] estiver jogando a adversário.
+
+O time inventou várias tradições idiotas, como soltar um cuzão antes do início de cada jogo, ter no mínimo 3252 torcedores num jogo, tomar viradas antológicas do rival Pérolas Negras e não aceitar mais jogadores haitianos no time.
+
+== História ==
+=== Fundação ===
+
+Em 2014 o Fonseca Atlético Clube falia. Com a crescente Favela da Rocinha crescendo no Rio de Janeiro não havia mais espaço para um time grande naquela liga, os estádios eram ridiculamente vazios e o time um constante derrotado. Isso ocorria porque os habitantes de Nilópolis que viviam em Angra dos Reis não estavam nem um pouco interessados em jogar futebol, ninguém atravessa o deserto de [[Teresópolis]] querendo jogar futebol, o que mais querem é um sub-emprego de garçom, lavador de privadas ou faxineiro. Sem jogadores haitianos bons e sem brasileiros se sujeitando a jogar no Pérolas, o time faliu.
+
+A [[FERJ]] agiu rápido, vendeu o time para um empresário português qualquer e pediu para criar um segundo time em [[Angra dos Reis]], que pudesse atuar como freguês do mais tradicional [[Academia de Futebol Pérolas Negras]]. A rivalidade seria artificialmente criada porque enquanto o Pérolas só contrata medalhão em final de carreira ou AREC só faria times com jogadores extremamente desconhecidos dos países que as pessoas nem ouviram falar (o exato oposto do AF Pérolas Negras), por isso verá no Angra dos Reis jogadores brasileiros, portugueses, angolanos, cubanos, trinitários, etc.
+
+=== Sofrimento em 2021 ===
+
+Sem Magnor D'Paula no rival, a segunda temporada do Angra dos Reis na Série A2 do Carioca foi bem melhor e terminou com a fuga de rebaixamento mais cagada possível (realmente, pois a arbitragem ficou prejudicando o time da Cabofriense). O seu desempenho garantiu vaga para sua primeira participação na [[Copa Rio]] de 2022, onde o Angra dos Reis foi sorteado para enfrentar o [[Itaboraí Profute]].
+
+== Títulos ==
+
+* '''[[Campenato Carioca - Série B1]]''': 2 vezes (1999 e 2017)
+
+{{Campeonato Carioca}}
+
+[[Categoria:Times de futebol do Rio de Janeiro]]

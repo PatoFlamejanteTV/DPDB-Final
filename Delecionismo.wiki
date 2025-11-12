@@ -1,0 +1,32 @@
+{{trevas}}
+<br>
+{{c|Eu acho que artigos como este não devem ter espaço na Desciclopédia|Típico comentário de um delecionista|sobre delecionismo}}
+
+'''Delecionismo''' é uma [[filosofia]] <s>de botequim</s> praticada por usuários de uma [[wiki]] que sustenta a adoção de critérios claros e relativamente rigorosos para que artigos, predefinições e outras páginas sejam aceitas na enciclopédia. [[Wikipedista]]s ou [[descíclope]]s que, de um modo geral, adotam esta filosofia são aqueles que, provavelmente, solicitarão a eliminação de qualquer artigo que não atenda a tais critérios. Ao contrário, os usuários que acreditam que deve haver lugar para artigos sobre quase todos os assuntos numa wiki, e que deveria haver poucos ou nenhum critério que impedisse tais artigos, enquadram-se no [[inclusionismo]].
+
+== Descrição da filosofia ==
+
+Na maior parte dos artigos da [[Desciclopédia]] (foda-se a nossa [[apinião]] sobre a [[Wikipédia]]), há pouca discordância entre editores deste ou daquele [[ponto de vista]]. A maioria dos usuários concordaria que artigos como a lista de amantes de Dom [[Pedro II]] e [[Teoria da relatividade]], por exemplo, devam ter lugar certo na enciclopédia, assim como muitos querem ver excluído da Desciclopédia um material que seja extremamente pobre. As discordâncias, entretanto, geralmente surgem com artigos de conteúdo relativamente pobre ou que relacionem-se a temas de pouca notoriedade em muitos lugares definidos como rinhas de galo.
+
+== Argumentos favoráveis ao delecionismo ==
+
+* Alguns artigos tornam complicada a indexação (palavrinha complicada). Por exemplo, manter artigos sobre muitos indivíduos pouco notáveis chamados {{USERNAME}} torna difícil a localização de um sujeito específico com este nome.
+* Da mesma maneira, a presença de indivíduos obscuros em listas e [[TARDIS|linhas do tempo]] torna mais difícil para os leitores localizar pessoas e eventos chave.
+* Alguns artigos tratam de assuntos obscuros demais para o processo wiki de trabalho. Por exemplo, um assunto do qual apenas um pequeno grupo de pessoas tem conhecimento provavelmente não terá expansão nem correção de erros feitas por ninguém, com exceção do autor original.
+* Os delecionistas acreditam que a presença de artigos não-informativos prejudica o uso e a credibilidade do projeto, particularmente quando visitantes casuais os encontram por meio de sistemas de busca ou através de "página aleatória" e "mudanças recentes" da Desciclopédia.
+* Alguns delecionistas argumentam que permitir a permanência de artigos curtos e não-informativos promove a produção de artigos pobres escritos casualmente, e que deletá-los estimula os escritores a produzirem artigos mais informativos e bem escritos em sua primeira edição.
+* Artigos sobre assuntos obscuros, ainda que sejam - em princípio - verificáveis, tendem a ser muito difíceis de se verificar. Geralmente quanto mais obscuros mais difíceis de se verificar.
+
+== Argumentos contrários ao delecionismo ==
+
+* A notoriedade dos artigos é, na maior parte das vezes, muito subjetiva. Dependendo de quem faz a busca, por exemplo, o militar e administrador colonial {{USERNAME}} pode ser mais notório que o revolucionário {{USERNAME}}.
+* Editores novatos tendem a ser desestimulados se o(s) artigo(s) que eles começaram for(em) eliminado(s) sem uma boa razão. No ponto de vista deles, pelo menos, o assunto em questão é relevante e notório. Na verdade eles fogem para wikis menos conhecidas como [[Malucopédia]], [[Wikinet]] ou [[Wikimerda]] e criam [[Viadagem|nova identidade]].
+* Ao invés de simplesmente apagar o artigo e seu conteúdo, ele pode ser incorporado a uma página de desambiguação.
+* Por que não simplesmente expandir o artigo ao invés de apagá-lo?
+* Eliminar um artigo bem escrito e fundamentado em referências apenas com base em notoriedade reduz a informação total da wiki.
+
+== Ver também ==
+
+* [[Inclusionismo]]
+
+[[Categoria:Filosofias Wiki]]

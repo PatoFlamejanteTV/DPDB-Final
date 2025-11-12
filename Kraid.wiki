@@ -1,0 +1,42 @@
+{{Chefe De Jogo}}
+
+{{taxocaixa
+| cor             = green
+| nome            = Kraid
+| imagem          = Kraid Prime.jpg
+| imagem_legenda  = Bicho Gordo Bizarro
+| reino           = Animal
+| filo            = Chordata
+| classe          = Reptilia
+| ordem           = Crocodylia
+| família         = Crocodylidae
+| gênero          = 
+| subdivisão_nome = Espécie
+| subdivisão      = Kraid
+}}
+
+'''Kraid''' é mais uma das inúmeras criaturas grotescas que Samus já matou mais de 200 vezes. Parceiro do [[Ridley]], gosta de se unir ao amigo pterodactl para atacar Samus e tentar a sorte na vida amorosa, mas a lorinha nunca da bola, ela sempre preferiu os [[metroids]].
+
+== Taxonomia ==
+
+[[Arquivo:Kraid Zero Mission.jpg|thumb|left|260px|[[Samus]] pegando um [[boquete]] para Kraid em [[Metroid: Zero Mission]].]]
+
+A criatura é um dinossauro obeso originário de um planeta chamado [[Terra]] (mais especificamente [[América do Sul]], denominada no futuro de Brinstar). Dominando tais paisagens, o Kraid é como se fosse um Space Pirate hiper-desenvolvido. Lento pra caralho, atinge 160 toneladas e 20 metros de altura. A sua barriga espele três bizarros órgãos genitais, cada um com três pênis, totalizando nove pintos ao todo, e por isso é um memorável inimigo que oferece um dos maiores desafios sexuais a [[Samus Aran]].
+
+== Aparições ==
+
+Estreia naquele [[Metroid (NES)|Metroid do NES]] na década de 80, quando a fase punk estava em alta (apenas no [[Brasil]], seu país de origem), por isso exibe cabelos longos, e seu visual lembrava um [[rinoceronte]] com [[tuberculose]] tendo reumatismo na coluna.
+
+Reaparece em [[Super Metroid]] para ser uma das inúmeras criaturas a tentar seduzir Samus, é preciso derrotar o bicho duas vezes acertando tiros em sua boca vulnerável.
+
+Faz aparição em [[Metroid: Zero Mission]], excitado, corre atrás daquelas fotos eróticas da Samus.
+
+Na série [[Metroid Prime]] Kraid não reaparece porque os produtores ficaram com preguiça de adaptar o pançudo. Alguns rumores dizem que Ridley o matou por ciúmes...
+
+== Fake Kraid ==
+
+Uma coisa intrigante na série [[Metroid]] é a existência de um "Fake Kraid" (Kraid Falso), que na verdade é o [[Master Chief]] disfarçado de Kraid para tentar comer a Samus.
+
+{{Metroid}}
+
+[[en:Kraid]]

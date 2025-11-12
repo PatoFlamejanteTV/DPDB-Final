@@ -1,0 +1,49 @@
+{{futebolismo}}
+
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = red
+|brasao            = Escudo do Linense.png
+|hino              = "Uma vez Linense, sempre Linense"
+|nome_oficial      = Clube de Regatas do Linense
+|origem            = {{SP}} '''[[Lins]]'''
+|apelidos          = Elefante da Noroeste 
+|torcedores        = Gordos
+|torcidas          = UNIDOS DO ELEFANTE...CAMISA 12
+|mascote           = Elefante
+|ilustre           = [[Lins de Vasconcelos]]
+|estadio           = Estádio Gilberto Siqueira Lopes
+|capacidade        = 25 mil toneladas
+|sede              = '''[[Lins|Linfa]]'''; Casa do Mijão, 24
+|presidente        = [[Rogério Ceni]]
+|treinador         = [[Tadeu|Tá dei]]
+|pior              = Burako
+|melhor            = Morreu em 1953
+|patrocinador      = MicroLins, Prefeitura de Lins, [[TV TEM]]
+|material          = Não tem
+|liga              = Campeonato Paulista
+|divisao           = subtração e adição
+|títulos           = Em protesto no cartório da cidade
+|ranking           = 8000°
+|uniformetitular   = Flamerda.png
+|uniformealt       = 
+}}
+
+'''Clube Atlético Linense''' é um grande time de [[Lins]], famoso por suas grandes vitórias contra o [[São Paulo Futebol Clube|Bambilê]] (por 5 x 1), o [[Santos Futebol Clube|Um time de machos e sapatas]] (6 x 2) e o [[Oeste Futebol Clube|Oeste Paulista]] (7 x 0), e só. Seus jogadores quando são campeões desfilam com elefantes de um circo local chamado Estádio Gilberto Gil.
+
+Destacou-se, nos últimos anos, por uma média de torcedores bem abaixo dos padrões para um clube [[Caipira|interiorano]] e pela relativa dispersão de torcedores fora do estado (boa parte dos torcedores se localiza no [[Acre]]), provavelmente em decorrência do contingente universitário oriundo da [[Lins|cidade]].
+
+== História ==
+=== Fundação ===
+
+[[Arquivo:Dont play with the elephant.jpg|thumb|left|Placa pedindo encarecidamente que não se peça a um torcedor do Linense para te masturbar.]]
+
+O Linense foi fundado no ano de 1927, e por quase 100 anos nada fez para o futebol além de ser mero figurante amador peladeiros das divisões mais inferiores possíveis do estadual paulista. Alegava injustiça haver um torneio com mil times (a Segunda Divisão Paulista - que na verdade é a quarta) para classificar apenas dois, mas esquecia-se que desses mil times 99% deles eram combinados reunidos de última hora, e que se perder para uma bostas dessas (como perdeu continuamente por mais de 80 anos) é porque não merece subir mesmo.
+
+=== Ascensão de 2008 a 2014 ===
+
+A partir do ano 2008 o Linense entrou em ascensão e começou a vencer as divisões de base do estadual paulista (perdendo várias é verdade), mas de tanto insistir conquistou vaga na Série A1 paulista onde briga anualmente para não rebaixar, porque algo além disso é loucura de torcedor fanático, que na verdade neme xistem.
+
+{{Campeonato Paulista}}
+
+[[Categoria:Times de futebol de São Paulo|Linense]]

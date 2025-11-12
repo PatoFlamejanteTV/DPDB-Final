@@ -1,0 +1,35 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Cavídeos
+| imagem          = Capivara e porquinho-da-índia.jpg
+| imagem_legenda  = [[Capivara]] e seu filhotinho [[porquinho-da-índia]], ambos da família caviidae
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| classe          = [[Mammalia|Mamadores]]
+| ordem           = [[Rodentia|Ruimdentia]]
+| família         = [[Caviidae|Cavídeos]]
+}}
+
+'''Caviidae''' é uma família de roedores fofos e redondos de variados tamanhos que incluem todas espécies de porquinhos-da-índia e preás. São mansos e preguiçosos, por isso possuem tendências em escravizar outras espécies para realizar seus desejos e alimentá-los. Lembrando que a [[capivara]] é apenas um porquinho-da-índia que habitava Chernobyl antes de se espalhar pelo mundo, portanto é uma espécie a ser analisada a parte.
+
+== Anatomia ==
+
+A principal característica destes roedores é a presença de um vasto couro peludo e espesso que foi durante muito tempo objeto de cobiça de caçadores que usavam este couro como matéria-prima para a fabricação de [[piaçava]].
+
+Os dentes dos cavídeos tem formato de alicate e são ideais para amassar vegatais, são estes ratos gordinhos e fofinhos todos herbívoros com hábitos de comer porcarias, gramas e folhas. Em seus estômagos existem até 1 bilhão de espécies diferentes de bactérias que digerem o alimento, o que explica porque os porquinhos-da-índia não morrem nem se comerem isopor.
+
+Ao contrário dos ratos que nascem cegos e estúpidos, os cavídeos nascem com total capacidade de enxergar e com toda a sabedoria acumulada geneticamente dos seus antepassados. Tão grande é a sua sabedoria que as pernas traseiras de qualquer preá e porquinho-da-índia apontam sabiamente para fora de maneira a fazê-los encaixar em qualquer tubo. A sua capacidade de detectar alimentos é também única na natureza, sendo que a força dos cavídeos em submeter seres humanos às suas vontades é incomparável. Aqueles que tentam resistir a hipnose deste animais provavelmente perdem a audição. Aqueles que não resistem tornam-se escravos, mas como cavídeos são macio, gordinhos e emitem gritos graciosos de aprovação quando acariciados, conseguem derreter qualquer coração gelado. Os  cavídeos as vezes disciplinam seus escravos humanos roendo tudo pelo caminho e fazendo xixi em suas roupas, mas você tem que ser um ser humano muito tolo para deixar isso acontecer.
+
+Por incrível que possa parecer, os cavídeos não são perfeitos. Devido a uma falha cerebral, eles podem ficar preso em um loop infinito enquanto lambem (ou cheiram) alguma coisa, forçando-os a continuar a lamber (ou cheirar) para sempre. A única solução conhecida é remover tudo o que eles estejam lambendo (ou cheirando), e eles vão voltar para a realidade.
+
+== Gêneros ==
+
+* '''[[Cavia]]''' - porquinhos-da-índia
+* '''[[Galea]]''' - preás
+* '''[[Microcavia]]''' - preás-dos-andes
+* '''[[Dolichotis]]''' - maras
+* '''[[Hydrochoerus]]''' - capivaras
+* '''[[Kerodon]]''' - mocós e preás-acrobatas
+
+[[Categoria:Rodentia]]
+[[Categoria:Caviidae|*]]

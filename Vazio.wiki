@@ -1,0 +1,42 @@
+<font color=white>
+{{Logotipo falso|Sophia_%28Nude%29.png}}
+----
+{{C|Má eu não to vendo nada!!!|Coringa sobre {{PAGENAME}}}}
+{{C|Estou cego dos olhos!|Kiko sobre {{PAGENAME}}}}
+{{C|É igual eu!|Vácuo sobre {{PAGENAME}}}}
+{{C|Meuf Férebro!|Lula sobre {{PAGENAME}}}}
+{{C|Veja a diferença entre...|Alckmin sobre {{PAGENAME}}}}
+{{c|Já estou cheio de me sentir vazio|[[Renato Russo]]|{{PAGENAME}}}}
+<br /><br /><br />
+[[Arquivo:Tumbleweed.gif]]
+
+'''O vazio''' é a arte de não existir [[Nada|<font color=white>nada</font>]], igual ao seu [[Cérebro|<font color=white>cérebro</font>]].
+
+Por que?
+
+Pois [[Você|<font color=white>você</font>]] perdeu tempo tentando encontrar essa mensagem procurando alguma coisa... Logo, o senhor ''provavelmente é um [[Nerd|<font color=white>|\| 3 R |></font>]] bem [[Virgem|<font color=white>virgem</font>]].
+[[Arquivo:Tumbleweed.gif]]
+{| class="boilerplate metadata" id="stub" CELLPADDING=5 CELLSPACING=5 style="background-color: #FFFFFF; color: #FFFFFF; border-top: 2px solid white; border-bottom: 2px solid white; border-right: 2px solid white; border-left: 2px solid white;" align="center"
+|-
+| [[Arquivo:Nihilism.png|95px|nada!|left]] [[Arquivo:Nihilism.png|110px|nada!|right]]<center><font size="+1">Este artigo é uma '''piada de [[computeiro|<font color=white>computeiro</font>]]'''!</font>
+<br /><br /><br />
+Caso não entenda, aperte '''Alt+F4''' para a leitura ficar mais fácil.
+|}
+[[Arquivo:Tumbleweed.gif]]
+<css>
+      #siteNotice{display:none}
+      #footer{display:none}
+      #catlinks{display:none}
+      #p-tb{display:none}
+      #p-lang{display:none}
+      .searchButton{color:#d0d0d0}
+      a {color:#f0f0f0}
+      a:visited {color:#f0f0f0}
+      h1 {display:none}
+      h2 {color:#f0f0f0}
+      h5 {color:#f0f0f0}
+</css>
+
+[[Categoria:AAAAA]]
+
+[[en:Nihilism]]

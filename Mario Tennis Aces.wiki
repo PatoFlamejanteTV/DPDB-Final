@@ -1,0 +1,117 @@
+{{game}}
+
+{{Infobox Game
+|title     = Mario Tennis: Ultra Smash 2
+|image     = MarioTennisAcesBox.png
+|caption   = Seria ido melhor jogar [[Super Mario Odyssey]]
+|developer = [[Camelot Software Planning]]
+|publisher = [[Nintendo|Nãointendo]]
+|released  = [[2018]]
+|genre     = [[Tênis]]
+|rating    = 000000000,0000001%
+|platform  = [[Nintendo Switch]]
+|ages      = qualquer um que gosta de remexer o braço
+}}
+
+[[Arquivo:Chainchomp-MTA.png|thumb|180px|left|Como Chain Chomp entrou para o tenis.]]
+'''Mario Tennis Aces''' é mais um port do port do port do port do primeiro [[Mario Tennis]] lançado lá pro [[Nintendo 64]]. Novamente contando os mesmos puxa sacos de sempre como Mario, Luigi, Peach e mais um bando de gente. Diferente do [[Mario Tennis: Ultra Smash|Mario Tennis]] antecessor esse parece ser mais decente, [[mentira|mostrando que vale a pena gastar 1000 em um jogo]] onde o jogador só move a mão pra lá e pra cá.
+
+==Jogabilidade==
+Bem, esse é um jogo que as leis da [[Física]] não funcionam, pois ao lançar a bola com a maior potência, o(a) personagem dá um salto de 5m de altura e continua no ar até você decidir o lugar onde a bola vai bater ou então [[Perdedor|lançar a bola com uma força do caralho e quebrar a raquete do oponente]]. Como todos da série tem a mesma funcionalidade com algumas [[mentira|coisas que torna o jogo unico e diferente]] do resto dos outros, desde o primeiro mario tenis todo poligonal e bugado o objetivo é marcar ponto na área adversaria e torcer para o adversário não fazer aquele poder especial, onde com 100% de certeza você perde.
+
+Assim como qualquer jogo de Mario que é fácil de aprender e jogar, esse não tem nada de fácil e simples, pelo contrario ele é tão complexo que até o console não consegue entender a funcionalidade do jogo. Ele tem tipos de bolas de distancias e velocidades diferentes o que também desenvolve tipos de raquetadas, além de poderes especiais, barra de vida da raquete, peso e classe dos personagens<s>, escolha da cor da raquete, escolha da cueca do Mario, Deixar o Toad no mudo, reclamar de um bug do jogo</s> e tentar não perder a paciência, antes, entre ou depois do jogo.
+
+===Modos de jogo===
+*'''Aventura''': Modo história onde o jogador corre pelo mapa derrotando todos os [[noob]]s que se gabam na [[Super Mario Sunshine|ilha Delfino]].
+*'''Torneio''': Torneios a partir de 0,99 centavos para ver o espetáculo de [[você]] os [[japoneses|japas]] te matando constantemente mundo afora.
+*'''Swing''': Um modo que simula [[Just Dance]] enquanto você joga tênis, ganha quem dançar mais e não deixar a bola cair no chão.
+
+==Personagens==
+[[Arquivo:Luigi-MTA.png|thumb|Luigi e sua raquete.]]
+*[[Mario|O que está no título do jogo]]
+*[[Luigi|Aquele que todo mundo conhece por Mario verde]]
+*[[Peach|Maria Sharapova do universo Mario]]
+*[[Toad|O chato e inútil]]
+*[[Bowser|Tartaruga do Kame]]
+*[[Daisy|Daniela Hantuchová do universo Mario]]
+*[[Rosalina|A gostosa poeira cósmica]]
+*[[Yoshi|Convidado do Acre]]
+*[[Wario|Venceu a anorexia]]
+*[[Waluigi|Venceu a obesidade mórbida]]
+*[[Donkey Kong|Convidado do Congo]]
+*[[Diddy Kong|O penetra]]
+*[[Bowser Jr|Filho da Peach]]
+*[[Toadette|A chata inútil]]
+*[[Boo|Gasparzinho da nova geração]]
+*[[Chain Chomp|O cãozinho do capeta]]
+*[[Koopa Troopa|Tartaruga Abobada]]
+[[Arquivo:Mario-Tennis-Aces 02-27-19.jpg|thumb|[[Pauline]] jogando um charme pra mim, claro.]]
+*[[Koopa Troopa|Tartaruga Abobada Voadora]]
+*[[Birdo|Dinossauro travesti do Acre]]
+*[[Spike|Um bicho que só serve para encher linguiça]]
+*[[Blooper|Lula lé Lé]]
+*[[Shy Guy|Mafagafo tímido]]
+*[[Petey Piranha|Planta carnívora]]
+*[[Luma|Estrelinha brilha brilha]]
+*[[Boom Boom|Um dos de Super Mario 3D Land]]
+*[[Pauline|Ex do Mario (ou não)]]
+*[[Kamek|Tartaruga magica]]
+*[[Dry Bones|Tartaruga só os ossos]]
+*[[Dry Bowser|Bowser só os ossos]]
+*[[Piranha Plant|Planta Piranha flamejante]]
+*[[Você|Mais um para encher linguiça]]
+
+==Quadras==
+Acredite ou não, todas as quadras estão localizadas no mar do Acre, não me pergunte como.
+{| class="wikitable sortable"
+|-
+! Foto !! Nome !! Descrição
+|-
+| [[Arquivo:Marina Stadim (noite).png|250px|center]]
+| '''Marina Stadium (noite)'''
+| Uma arena básica sem muita, um tanto meia boia boca, é igualzinha a do jogo anterior exceto pelo brilho exagerado da plateia. {{c|Ela é de noite|[[Capitão Óbvio]] sobre Marina Stadium (noite)}}
+|-
+| [[Arquivo:Marina Stadim.png|250px|center]]
+| '''Marina Stadium (difícil)'''
+| Diferente da sua versão a [[noite]], esse acontece de [[dia]]... é só isso mesmo.
+|-
+| [[Arquivo:Marina Stadim (lamaçal).png|250px|center]]
+| '''Marina Stadium (barro)'''
+| Uma área que faz você se lembrar do tempo que era [[muleque]] e com certeza não ia jogar tênis no [[lamaçal]].
+|-
+| [[Arquivo:Marina Stadim (grama).png|250px|center]]
+| '''Marina Stadium (grama)'''
+| Uma copia da segunda quadra de dia, só que com grama sintética.
+|-
+| [[Arquivo:Arte Rupestre de Hail.jpg|250px|center]]
+| '''Bask Ruins'''
+| Apenas uma ruína onde o personagem fala constantemente com fantasmas. Assim como todo o segundo mundo de super Mario, a sua temática e de [[deserto]] do [[Saara]].
+|-
+| [[Arquivo:Floresta amazonica.1.jpg|250px|center]]
+| '''Piranha Plant Forest'''
+| É  aqui que você encontra cobras, insetos e ursos, além de plantas que querem te comer. Então jogue e não perca o foco na bola, no oponente e nos bichos selvagens.
+|-
+| [[Arquivo:Luigi Mansion real.jpg|250px|center]]
+| '''Mirage Mansion'''
+| Jogue numa mansão cheia de fantasmas e comprovantemente algumas aranhas, ratos e outros bichos ainda não descobertos nessa casa. (n]ao confundir com mansão dos espelhos)
+|-
+| [[Arquivo:Monte everest.jpg|250px|center]]
+| '''Snowfall Mountain'''
+| Apenas uma montanha com muita, muita, muita, muita, muita neve.
+|-
+| [[Arquivo:Dino e naufragio.jpg|250px|center]]
+| '''Savage Sea'''
+| Mar selvagem, jogue tênis em um navio enquanto [[viking]]s bombardeiam você e o [[monstro do lago ness]] anda te caçando.
+|-
+| [[Arquivo:Lava domes2.jpg|250px|center]]
+| '''Inferno Island'''
+| Ninguém voltou dessa arena para contar historia, então esse nível vai ficar sem explicação mesmo..
+|}
+
+{{Super Mario}}
+{{Game Sports}}
+
+[[Categoria:Jogos da Camelot Software Planning]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos lançados em 2018]]

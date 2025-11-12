@@ -1,0 +1,69 @@
+{{DadosMunicípioBrasil
+<!-- Cabeçalho -->
+| nome                 = Socorro Nossa Senhora
+| apelido              = Bairro de Aracaju
+<!-- Dados gerais -->
+| bandeira             = Bandeira de Nossa Senhora do Socorro.png
+| brasão               = 
+| link_bandeira        = Bandeira de Nossa Senhora do Socorro
+| link_brasão          = 
+| aniversário          = 
+| fundação             = Não se sabe
+| gentílico            = nossense-senhorense-socorrense
+| lema                 = Porra nenhuma
+| apelidos             = Bairro de Aracaju
+| prefeito             = Alguém aí
+<!-- Localização -->
+| mapa                 = Nossa Senhora do Socorro location map.png
+| estado               = {{SE}}
+| mesorregião          = [[Mesorregião do Leste Sergipano|Sergipe para Turistas]]
+| microrregião         = [[Microrregião de Aracaju|Aracaju se Achando Cidade Grande]]
+| região_metropolitana = [[Região Metropolitana de Aracaju|Aracaju e suas Favelas]]
+| vizinhos             = [[Aracaju]], [[Laranjeiras]], [[Areia Branca (Sergipe)|Areia Branca]], [[São Cristóvão (Sergipe)|São Cristóvão]] e [[Santo Amaro das Brotas]]
+| dist_capital         = 8 Km só
+<!-- Características geográficas -->
+| área                 = 0.157
+| população            = Difícil determinar
+| idioma               = [[sergipanês]]
+| data_pop             = [[2014]]
+| densidade            = 
+| altitude             = 0
+| clima                = 
+| fuso_hor             = 
+<!-- Indicadores -->
+| idh                  = Melhor que Maceió (seu parâmetro)
+| data_idh             = [[IBGE]]/2014
+| pib                  = Melhor que Maceió (seu parâmetro)
+| data_pib             = [[IBGE]]/2014
+| pib_per_capita       = Melhor que Maceió (seu parâmetro)
+| data_pib_per_capita  = [[IBGE]]/2014
+}}
+
+'''Nossa Senhora do Socorro''' é o maior bairro de [[Aracaju]], afastado apenas 8km do centro da capital de [[Sergipe]]. Por ser uma cidade-dormitório e que não foi planejada no ridículo formato de xadrez, foi expulsa para ser um município a parte e por isso alguns veículos informam erroneamente que Nossa Senhora do Socorro é a segunda maior cidade de Sergipe, quando na verdade é na prática visivelmente apenas um grande bairro de periferia de Aracaju.
+
+== História ==
+
+As primeira habitações na região surgiram por volta de 1575, ano em que a coroa portuguesa ordenou que o interior de Sergipe fosse melhor e mais explorado. Como na época o Sergipe não existia e aquilo tudo era apenas a Bahia e controlado por baianos, o máximo que os baianos conseguiram ir para o interior, devido à sua baianice, foi subir um pouquinho o [[rio Sergipe]] e desistir ali mesmo, onde decidiram fazer um vilarejo e alegar que já havia explorado o bastante. Por sorte, nunca houve algo realmente de útil no interior de Sergipe, então nunca puniram a preguiça dos primeiros exploradores da região e fundadores de Nossa Senhora do Socorro.
+
+No [[século XVIII]] o vilarejo já era líder produtor de [[mandioca]] e [[cana-de-açúcar]], motivos de seu subdesenvolvimento até hoje, e com uma população de 3 mil habitantes bóias-frias já era a maior cidade do Brasil Colonial de sua época.
+
+Sabe-se que em 1832 é criado ao norte o povoado de [[Laranjeiras (Sergipe)|Laranjeiras]], e estes protestaram violentamente quando o governo define que Nossa Senhora do Socorro deveria pertencer a eles, estourando assim a famosa Guerra dos Vagabundos, quando os laranjeirenses deitaram em suas redes e passaram a cagar solenemente, ignorando totalmente os socorrenses, até que em 1868 fosse concedido autonomia para que Nossa Senhora do Socorro pudesse se tornar um bairro-dormitório de [[Aracaju]].
+
+== Economia ==
+
+A economia de Nossa Senhora do Socorro é totalmente dependente de Aracaju, capital cujo fiapo de terra em que se encontra não tem espaço para mais nada ser construído ali, ainda mais porque o [[Aeroporto de Aracaju]] ocupa metade de seu território, então quando surgiu a ideia de criar um terceiro shopping em Aracaju, por exemplo, eles tiveram que erguer o Shopping Prêmio em Nossa Senhora do Socorro por falta de espaço em Aracaju. Os socorrenses, claro, não frequentam o shopping ("chópis" no dialeto local) que serve apenas para os aracajuenses.
+
+No setor primário, destaca-se a produção de produtos sem valor agregado de mercado e de plantio simples e fácil que qualquer agricultor consegue produzir, como [[banana]], [[coco-da-baía]], [[manga]], [[batata-doce]], [[cana-de-açúcar]], [[mandioca]] e [[feijão]]. Até possui uma zona industrial, mas ninguém sabe o que é produzido lá ou quem trabalha lá.
+
+Porém, notadamente, a economia de Nossa Senhora do Socorro é 99% baseada no setor de serviços, no qual quase que toda a população vai trabalhar de garçom, faxineiro, ambulante, vendedor na praia, atendente, balconista e caixa em [[Aracaju]]. Na própria cidade os serviços mais comuns são de garçom, faxineiro, ambulante, vendedor na praia, atendente, balconista e caixa no Shopping Prêmio.
+
+== Turismo ==
+
+[[Arquivo:Caranguejo sanfoneiro de Nossa Senhora do Socorro.jpg|thumb|left|Um desconcertante ponto turístico da cidade.]]
+
+Não há turismo em Nossa Senhora do Socorro, estrangeiros ali só quem se perdeu muito da Praia do Atalaia ou da Praia 13 de Julho. O máximo que a cidade oferece é um mangue cheio de mato que chamam de Prainha do Porto Grande, que na verdade serve apenas à população local, que tem preguiça de se locomover para uma praia mais decente na capital.
+
+Por muitos séculos nunca houve algum ponto turístico na cidade, mas algum gênio teve a ideia de criar uma escultura que posteriormente viria ser considerada por unanimidade como a escultura mais ridícula do mundo, que trata de um caranguejo de 2 metros de altura tocando um acordeão no meio do gramado. Toda pessoa que passa pelo local e se depara com uma escultura de tamanho mal gosto não resiste tirar uma foto e rir sobre como os sergipanos não possuem senso do ridículo na hora de criar um monumento.
+
+{{Grandes Cidades de Sergipe}}
+{{Sergipe}}

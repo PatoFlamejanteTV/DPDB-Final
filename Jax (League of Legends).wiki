@@ -1,0 +1,70 @@
+{{lutador}}
+
+{{c|Imagine se eu tivesse braços de verdade!|[[Jax (Mortal Kombat)]]|Jax (League of Legends)}}
+
+{{c|Ganhei!|[[Master Yi]]|ter mais olhos no capacete que Jax}}
+
+{{Info lutadores de video-game
+|nome                    = Jax
+|imagem                  = JaxSquare2.png 
+|País de Nascimento      = Ih Kátia
+|Data de Nascimento      = Antes do [[Vazio]] tomar Ih Kátia
+|Idade                   = Não sei, mas dedos ele tem três!
+|Altura                  = 1,88
+|Estilo de Luta          = Qualquer um
+|Arma Preferida          = [[Poste]]
+|Técnica Máxima Secreta  = Bater (forte) com um poste
+|Profissão               = Guerreiro, eletricista e animador de festas infantis
+|Característica Marcante = Carregar consigo a tocha olímpica de Icathia num poste
+|Comida Favorita         = Ovo
+|Frase Favorita          = "Imagine se eu tivesse uma arma de verdade!"
+|Esporte                 = Fazia a abertura das Olimpíadas de Icathia
+|Mania                   = Abandonar partidas para ir pescar
+}}
+
+'''Jax''' é um campeão de League of Legends. Assim como seu grande amigo de bebedeira [[Master Yi]], é chamado de cotoco por sua mecânica extremamente simples que basicamente se resume em bater nos outros com um poste, bater mais forte com o mesmo poste, bater mais rápido com o bendito poste, parar ataques com seu já mencionado poste e brilhar. Normalmente ele é escolhido na rota Topo, mas existem jogadores <s>bronzes sem noção de jogo</s> com uma visão alternativa do campeão, defendendo sua capacidade de ir na Selva ou até mesmo Suporte (nós da Desciclopédia recomendamos inclusive o máximo de cuidado caso você venha a ter um Jax suporte no seu time).
+
+== História == 
+[[Arquivo:Jaxlolcosplay.png|300x300px|miniaturadaimagem|esquerda|Jax em sua juventude]]
+Saijax Cail-Rynx Icath’un, chamado por seus amigos de Jax, era um morador das lindas terras de Icathia, dominada por [[Shurima]]. Desde garotinho, gostava muito de bater em coisas utilizando rodos, vassouras, bengalas, varas de pesca, cercas e basicamente qualquer coisa que machucasse mas não fosse uma arma de verdade. Um pouco mais velho, seu pai lhe presenteou com o tesouro da família, passado de geração em geração: Um poste que seu tataravô roubou da rua enquanto bêbado pra vender e apostar no [[Grêmio]]. O Grêmio, como todos esperavam, perdeu, e como ninguém queria a bosta de um poste, mataram o velho na porrada, roubaram o que tinha com ele e deixaram o poste. 
+
+Mais velho ainda, Jax foi convidado para carregar a tocha olímpica da cerimônia de abertura dos Jogos Olímpicos de Icathia (na verdade, era de Shurima) e colocaram a chama da tocha em seu amado poste. Quando prestes a acender a pira olímpica, um grande terremoto de luz florescente <s>emo</s> roxa explodiu do chão, revelando criaturas terríveis do Vazio, que buscavam vingança implacável contra o povo de Icathia por um simples motivo: Tá ligado aquele poste roubado que eu disse no começo? Então. O Vazio fica [[Lugar Nenhum|bem, bem longe]], e aquele seria o primeiro poste com cabo de internet que permitiria aos monstrengos jogar seu [[Counter-Strike|Rio de Janeiro Simulator Edição jogo do ano]]. Demoraram muitos anos pra buscar vingança (burocracia, identificar qual poste foi, resolver com o governante) e finalmente vieram fazer. Botaram Icathia no chão, soltaram uns [[Rek'Sai|bichos putos]] pra caçar Shurimane e nosso amigo Jax se aliou com o [[Zilean|velho broxa]] para combater o Vazio, embora sua preguiça e falta de dinheiro o impeçam de focar 100% nisso.
+
+== Habilidades ==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+
+|'''Tecla'''||'''Habilidade'''||'''Imagem'''||'''Sobre'''
+|-
+|Passiva||'''Investida Implacável'''||<center>[[Arquivo:Jax-relentless-assault.png]]</center>|| Jax, com seu enorme conhecimento marcial afiado desde sua infância, assim como seus conhecimentos na pesca, bate mais rápido a cada golpe que dá no seu adversário. Não se sabe por que ele não bate na velocidade máxima logo de uma vez, talvez ele precise ficar [[Puto|puto]], talvez ele goste de dar uma chance, ou talvez, só talvez, seria muito [[Apelão|roubado]].
+|-
+|Q||'''Salto Atacante'''||<center>[[Arquivo:Jax-leap-strike.png]]</center>||Jax realiza um pulo em um aliado, inimigo ou sentinela. Em seus inimigos, esse pulo causa dano, em aliados é só um pulo mesmo. Permite que ele escape de muitas situações merdas <s>que ele mesmo se meteu</s> pulando em sentinelas por cima de paredes.                                                                                                       
+|-
+|W||'''Energizar'''||<center>[[Arquivo:Jax-empower.png]]</center>||Jax se lembra que tem uma tocha olímpica na mão e faz ela começar a queimar com força, aumentando o dano do próximo ataque. Se você for bom, pode até cancelar a animação de um ataque com essa habilidade, dando um segundo golpe bem rápido que é fruto da única mecânica desse campeão que requer mais de dois neurônios e um dedo completo para utilizar.
+|-
+|E||'''Contra-Ataque: Ofensiva Global'''||<center>[[Arquivo:Jax-counter-strike.png]]</center>||Ele achou que seria muito engraçado nomear sua habilidade com o nome do jogo que as beldades mutantes do Vazio não consegue jogar. Nessa técnica, Jax gira seu poste, desviando de qualquer coisa que o jogo considere um 'Ataque-Básico', indo de socos até tiros de [[Graves|Escopeta]].
+|-
+|R||'''Poder do Grão-Mestre'''||<center>[[Arquivo:Jax-grandmasters-might.png]]</center>||Parabéns! Depois de cinco longos níveis dando postada, adivinhe sua recompensa no nível 6! Sim, uma incrível promoção '''''imperdível''''': A cada duas postadas, a terceira dá mais dano! Ligue agora e reserve já a sua ult! Mas isso tudo é só na sua passiva, pois você pode Ativar essa habilidade para brilhar como um [[Lampyridae|vagalume]], aumentando sua resistência (seja lá como isso funciona).
+|}
+
+== Curiosidades ==
+Jax é um campeão de [[Lag of Legends|Liga das Legendas]] desde 2009, e por isso coleciona vários feitos e detalhes no mínimo curiosos que nem sempre foram intencionais, como:
+
+* Jax conseguia '''''desviar''''' de tiros da torre e da fonte antigamente (ver no vídeo)
+* Jax possui três dedos, ou seja, três dedos a mais do que o necessário para aplicar toda a mecânica desta lenda
+* Jax possui uma skin em homenagem a um guri que morreu de câncer
+* Em um vídeo oficial da [[Riot Games|Rito Gomes]], Jax é morto por um [[Nautilus|suporte]]
+* O dublador de Jax, [[Waldyr Sant'anna]], já passou dessa pra melhor 
+
+{|align=center
+|<YouTube>
+title=Jax desviando dos tiros da fonte
+movie_url=https://youtu.be/gI1aeS5H1Vs
+embed_source_url=https://www.youtube.com/embed/gI1aeS5H1Vs
+width=560
+height=315
+</YouTube>
+|}
+
+{{League of Legends}}
+
+[[Categoria:Personagens de League of Legends]]

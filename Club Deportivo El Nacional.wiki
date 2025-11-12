@@ -1,0 +1,59 @@
+{{Box ClubeFutebol
+|cor_clara         = yellow
+|cor_escura        = blue
+|brasao            = Escudo do El Nacional.png
+|hino              =  
+|nome_oficial      = Club Deportivo El Nacional
+|origem            = {{EQU}}'''- [[Quito]]'''
+|apelidos          = Puros Criollos
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Olímpico Atahualpa]]
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      =  
+|material          = 
+|liga              = Campeonato Equatoriano
+|divisao           = Primera División
+|títulos           = 
+|ranking           = 
+}}
+
+'''Club Deportivo El Nacional''' é um time irrelevante situado em Quito, no Equador, que disputa com o [[Deportivo Quito]] qual deles é o pior time da capital. O El Nacional tem esse nome porque jamais ganha qualquer título internacional, mas para valorizar ainda mais essa alcunha de "Nacional", o El Nacional é o único time do Equador que se recusa a utilizar jogadores estrangeiros, por melhor que sejam, e por usar apenas jogadores equatorianos, fica explicado o motivo do insucesso do clube.
+
+== História ==
+=== Fundação ===
+
+O clube foi fundado em 1964 por uma junta de militares que tal qual o Chile, planejava tomar o poder no Equador. O plano começou bem, com a criação de um time de futebol que se tornaria popular e vitorioso o bastante para o povo apoiar os militares. O problema foi o time ter ficado 10 anos sem ganhar nem campeonatinho de pebolim.
+
+=== Duas vezes tri ===
+
+O El Nacional é o único time equatoriano a possuir um tri-campeonato legítimo, e é detentor de duas sequências desses, sendo campeão nos anos de 1976, 1977 e 1978, e depois nos anos de 1982, 1983 e 1984. A importância desses dois tri-campeonatos foi de suma importância para a compreensão do [[futebol equatoriano]], pois serviu para a [[Conmebol]] classificar o [[campeonato equatoriano]] na categoria das ligas sul-americanas horríveis junto com Bolívia, Venezuela e Peru, o que viria a formar a Série C da Libertadores por causa disso, um campeonato chamado de [[Copa Merconorte]], e tudo por causa de dois tri do El Nacional.
+
+=== Libertadores de 1995 ===
+
+O El Nacional entrou para a história em 1995, ano em que ganhou reconhecimento internacional e fez sua primeira coisa de bom. A Libertadores de 1995 foi a primeira competição internacional do El Nacional (ou se jogou em algum ano anterior, não houve notícias). Nesta oportunidade venceu o [[Sociedade Esportiva Palmeiras|Palmeiras]] por 1x0 num jogo em que a ''poliça'' equatoriana prendeu o atacante Edmundo por excesso de velocidade ao volante, dirigir embriagado, homicídio doloso (que assumiu o risco de matar) qualificado por atropelamento e também por agredir um repórter que perguntou se ele havia dado o cu pra travesti.
+
+=== A virada de mesa ===
+
+Em 2018 o El Nacional encontrou o [[Clube Atlético Mineiro|destino]] [[Botafogo de Futebol e Regatas|que]] [[Sport Club Corinthians Paulista|qualquer]] [[Sport Club Internacional|time]] [[Fluminense Football Club|pequeno]] [[Grêmio|já]] [[Palmeiras|passou]] [[Cruzeiro Esporte Clube|em]] sua história, e foi miseravelmente rebaixado no campeonato equatoriano. E como qualquer time pequeno que se acha grande, houve toda uma comoção de tentativa de virar a mesa e evitar o vexame, mas o time foi muito mal e nem aumentando o número de participantes na Série A equatoriana resolveu o problema, e o time foi jogar a Série B em 2019.
+
+Mas o El Nacional não desistiu, de última hora o time inventou uma regra de que times que já foram campeões municipais podem disputar a primeira divisão equatoriana e aumentou ainda mais o número de times que deveriam disputar a primeira divisão, e assim na marra evitou o rebaixamento numa viada de mesa cretiníssima. Manteve-se na Série A equatoriana, mas só pra passar vexame de novo em 2019 e cair definitivamente em 2020.
+
+== Títulos ==
+
+* '''Perder só de 7x0 para Palmeiras''' 1 vez (1995)
+* '''Prender Edmundo num hotel por 2 semanas''' 1 vez (1995)
+
+{{Campeonato Equatoriano}}
+{{Copa Libertadores}}
+
+[[Categoria:Times de futebol do Equador|Elnacional]]
+
+[[es:Club Deportivo El Nacional]]

@@ -1,0 +1,56 @@
+{{Game}}
+{{Infobox Game
+|title     = RoboCop
+|image     = RoboCop 1988 cover.jpg
+|caption   = Capa do jogo
+|developer = [[Data East]]
+|publisher = [[Data East]]
+|released  = [[1988]]
+|genre     = Simulador de robô que não pula
+|rating    = 1/10
+|platform  = [[NES]]
+|ages      = Livre
+}}
+
+'''RoboCop''' é um mini-game de meia-hora feito de qualquer jeito pela [[Data East]] e uma dentre as várias porcas adaptações de filmes para o [[NES]], um console que mais parecia um cinema dos infernos com tanto jogo de filme porcamente adaptado e RoboCop mais um desses.
+
+== Desenvolvimento ==
+
+Mantendo a tradição que todo filme obrigatoriamente deve virar um jogo horroroso (e vice-versa que filmes de jogos de videogame são tudo uma porra), o primeiro jogo de RoboCop cumpriu seu papel como jogo porcaria, um trabalho muito bem feito da [[Data East]], empresa amplamente conhecida por seus jogos ruins que agraciou os gamers de 1988 com um jogo tão ruim quanto se masturbar analmente com uma peixeira.
+
+Foram gastos ao todo no projeto 25 dólares, o equivalente aos valores atuais a compra de um enroladinho de salsicha requentado e engordurado. O orçamento não incluía produção de música, por isso o que foi feito foi um remix de uma música aleatória de [[Alex Kidd]] que fica tocando em loop da tela de abertura até a tela de zeramento.
+
+== Jogabilidade ==
+
+RoboCop é um dos primeiros [[jogos de plataforma]] no qual o boneco não pula, sendo portanto basicamente andar em linha reta pra frente, mais ou menos como um ciborgue faria, mantendo assim uma maior fidelidade ao enredo do filme (em detrimento de qualquer gameplay confortável), algo raro de se ver nos jogos de filmes pra NES que geralmente cagavam para o enredo dos filmes. O jogo busca ser tão fidedigno ao material original que o maior desafio do jogo nem são os inimigos ou qualquer chefão (exceto aquele fdp das vigas de aço), o maior desafio é subir escadas, tal qual o RoboCop original com aquelas pernas de ponta esquerda do [[XV de Piracicaba]] certamente teria dificuldades em subir escadas.
+
+Fora o desafio de subir escadas no qual o jogador deve posicionar o Robocop milimetricamente perpendicular em relação ao primeiro degrau, o outro desafio do jogo inclui espancar malandros, motociclistas, cachorros, carinhas de rosa dando voadora, ultra-leves, aranhas robóticas e carinhas que arremessam fezes de macaco contra você.
+
+== Enredo ==
+
+[[Arquivo:Robocop 1 gameplay.png|thumb|left|RoboCop precisando lidar com um canhão de bufas.]]
+
+O jogo é um raro exemplo de fidelidade a um filme, narrando a história de como o RoboCop é um assassino sanguinário líder de uma milícia de um ciborgue só e que sai pela cidade distribuindo porrada e tiro indiscriminadamente em qualquer pessoa que surja em seu caminho. Apareceu na tela o RoboCop enfia o soco ou mete bala, inclusive pobres cães que não tem culpa nenhuma são simplesmente socados ou fuzilados. No final dessa primeira fase que ocorre num beco, o RoboCop enfrenta um careca sem calças dentro de um armazém, provavelmente crime de [[atentado ao pudor]], um momento spin-off que não lembro ter acontecido no filme.
+
+Em seguida o RoboCop decide ir para o maior antro de marginais da cidade, a [[prefeitura]], onde sai distribuindo porrada e tiro em todos os servidores que lá trabalham, resolvendo ao seu modo truculento a ineficácia do poder público. Ao chegar no escritório do prefeito o RoboCop fica estarrecido com a cena que vê ao flagrar o prefeito em sodomia sendo encoxado por um bofe qualquer, cabendo ao RoboCop finalizar essa pouca vergonha com o dinheiro público matando o go-go-boy.
+
+A terceira fase ocorre numa fábrica de narcóticos onde é a vez do RoboCop distribuir surras em maconheiros, os principais financiadores da violência, e não tem dó, mete tiro nos maconheiros loucos sem pestanejar. Um grupo de três noias são o chefe da boca de fumo, mas eles estão tão chapados que só sabem é ficar pulando e acabam sendo vítima fácil pro RoboCop.
+
+Na próxima fase RoboCop precisa investigar o presidente da Microsoft que está em atividades suspeitas, então ele invade os servidores da Google que são protegidos por aranhas mecânicas, torretas que atiram laser, e funcionários da Google que serão todos chacinados sem dó nem piedade. Destaque para um canhão que atira flatulências. Obviamente o lugar é protegido pelo famoso robô [[ED-209]] da [[Boston Dynamics]], mas que termina derrotado também.
+
+Por fim o RoboCop vai investigar a corrupção [[Pasadena]], algo sobre uma compra irregular de uma refinaria de petróleo. Após matar todos os petroleiros do lugar, RoboCop identifica o [[doleiro]] líder da organização, ele que aliás é um dos chefões mais chatos de todos os tempos e fica tacando vigas de aço do Pica-Pau na tua cabeça.
+
+Continuando a investigação sobre os petrodólares desviados, a última fase ocorre numa rampa cheia de barris de petróleo antes do RoboCop poder subir o prédio da sede da [[Odebrecht]] onde para seu pavor o RoboCop encontra o seu chefe da polícia que faz parte de todo o esquema, e embora ele demita o RoboCop que se recusa fazer parte da milícia, toma tiro e assim o jogo acaba, com vários inocentes mortos e alguns bandidos também.
+
+{{Robocop games}}
+{{Plataforma}}
+
+[[Categoria:Jogos lançados em 1988]]
+[[Categoria:Jogos da Data East]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Amiga]]
+[[Categoria:Jogos para Commodore 64]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para  MSX]]
+[[Categoria:Jogos para ZX Spectrum]]

@@ -1,0 +1,49 @@
+== Começo da lógica ==
+[[Arquivo:Infinito-thumb.jpg|thumb|left|Se fosse em comprimentos, o comprimento de 0 seria este.]]
+
+O número [[0]] pode representar qual quer número, conforme o exemplo abaixo:
+* [[0]] + [[0]] = [[0]]
+* [[2]] - [[2]] = [[0]]
+* 5 - 5 = [[0]]
+* 76 - 76 = [[0]]
+* 487298459835236538976 - 487298459835236538976 = 0
+* 8754² - 8754² = 0
+
+== Avançado ==
+Logo, o [[0]] = [[Infinito]].
+Mas todos os [[números]] possúem '''Simetrico''', logo [[0]] = [[Infinito]] - Simetrico.
+
+=== Mas por qual motivo é - Simetrico? ===
+Isto é pelo fato de [[não]] pode ser mais pelo fato de ter o [[infinito]].
+Como o [[infinito]] é tudo (e tudo é infinito), logo [[não]] é possível ter um valor mais elevado que o [[infinito]], logo, deve ser menos.
+
+== Usando no condidiano ==
+Por exemplo, já que [[0]] = [[Infinito]] - Simetrico, pode dar vários resultado, conforme o exemplo:
+* 2 - 0 = 2
+* 2 - 0 = 65
+* 2 - 0 = 7875436543
+* 2 - 0 = -65
+
+Como o Simetrico altera o valor, deve ser o valor acontrário do sinal, siga o exemplo:
+* 2 - 0 = 5
+* 2 + 0 = -65
+
+== Pessoas que são <s>espertas</s> burras que não aprova esta teoria ==
+* [[Você]].
+* [[Albert Einstein]].
+* Wikipedianos.
+* O cara que criou a [[matemática]].
+* Sei lá quem.
+* Aquele cara alí.
+* O seu vizinho.
+* Todos que discordam com esta teoria.
+
+== Pessoas que são <s>burras</s> espertas que aprova esta teoria ==
+* [[Eu]].
+* Desiclopedianos.
+* A pessoa que você ligou [[ontem]].
+* A pessoa que você brigou [[ontem]].
+* A pessoa que estar sentada com você do lado lendo a [[desciclopédia]].
+* Todos que concordam com esta teoria.
+
+[[Categoria:Números]]

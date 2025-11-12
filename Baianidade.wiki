@@ -1,0 +1,288 @@
+{{Modelo 01
+| cor            = turquoise
+| icone          = Nuvola_apps_core.png
+| fonte          = Comic Sans MS
+| titulo_cor     = turquoise
+| texto_cor      = black
+| titulo         = '''Ô baianada retáda'''
+| texto          = <li>Este texto nem é tão ofensivo se você o ler com senso de humor<li>Se ainda está ofendido vai embora daqui.
+}}
+{{Box Seres
+| imagem         = Baiano.jpg
+| legenda        = Cômodo da casa preferido do Baiano
+| local          = {{BA}} [[Bahia]]
+| idioma         = Baianês
+| caracfisicas   = Dançam o tempo inteiro
+| caracmentais   = Cantam o tempo inteiro
+| popularidade   = {{099}} '''Alta'''
+| inteligencia   = {{099}} '''Alta'''
+| profissoes     = Muitas, todas exercidas com pouco esforço
+| nivelcorrupto  = {{099}} '''Graças ao ACM''' e seus próximos, no [[Mínimo divisor comum|MDC]], é altíssima.
+| alimentacao    = Acarajé, água de côco, pimenta, vatapá e iaiá à quatro
+| moradia        = Rede, a rede fica na casa, mas se mora na rede.
+| vicios         = Cochilar, Dormir e Relaxar... E fazer música
+| doencas        = Trabalho (para os baianos doença é querer trabalhar)
+| tv             = Preferência por progamas de dançarinos esinando os passos do hit do próximo Carnaval
+| cinema         = Preferência por pornochanchada de adaptações de [[Jorge Amado]]
+| musica         = Poeira, de Ivete Sangalo
+| ilustres       = [[Cláudia Leite]], [[Ivete Sangalo]], [[Chiclete com Banana]], [[Didi]], [[Gilberto Gil]], [[Tom Cavalcante]]
+}}
+
+{{C|Cadê o Baiano???|Capitão Nascimento|sobre Baiano}}
+{{C|A Bahia é Linda, São Salvador é Linda, a Baía de Todos os Santos é Linda! Sampa é linda. [[Ou não]].|Caetano Veloso|a  cidade de São Paulo}}
+{{C|Eu voltei porque a [[Bahia]] quer! E se não quisésse ia ter porrada!|ACM|sua volta ao Senado após fugir da cassação}}
+{{C|The FUBÁ - Federal University of Bahia is now in holyday because the death of ACM and your meet with Satan!|Recado escrito na porta da assitência aos alunos de intercâmbio da UFBA|a morte do líder baiano}}
+{{C|Salve a santa Bahia imortal, Bahia de sonhos mil, eu fico contente da vida em saber que Brasil é Bahia!|João Gilberto|a  Bahia}}
+{{c|Deus é um cara gozador adora brincadeira, pois pra me jogar no mundo tinha o mundo inteiro, mas achou muito engraçado me botá  cabreiro, na barriga da mizéra eu sou brasileiro... Se fôsse Rio de Janeiro|Baiano do Pagode Swingue em momento raro de  inspiração (plágio da música de Caetano)}}
+{{C|A Bahia é Samba, Bossa Nova, MPB, Gil, Caê, Gal, Miranda, Bethania... E o Brasil é Bahia!|Gilberto Gil|a Bahia}}
+{{c|É samba na minha terra, e a gente mole, se ninguém come todo mundo morre, com fome dança pra ver se nóis come, se nós não  dança a gente se fode (bis)|versão realística da música de Jão Gilberto|a condição festeira do baiano}} 
+{{C|Maaanhínha, esse povo é tudu dôido, u pôvo nem se abraça, vive atrás de fila, eu num entendu não viu!|Retirante  Baiano|sua chegada a terra estranha}}
+{{C|Um dia cê vai pra Sam Paulu meu fio! Vai ficá rico lá, pra ajudá seu paínho, sua maínha, seu vôínho, sua vóínha, sua  tiazinha, seu tiozin, sua irmãzinha, seu cunhadin, seu primin, seu sobrinho, sua sobrinha, seu irmãozin, sua  cunhadinha...|Pai Baiano|as responsabilidades de seu filho de 12 anos}}
+{{c|Eu gosto de ser baiano, ai ai Bahia, ando perguntando quem é que não gostaria. Não gosto de ser brazuca, prefiro Bahia, se  baiano não fôsse, Brasil renunciaria|Propaganda do governo de [[ACM|Tônin Malvadeza]] com intenções claramente separatistas}}
+
+
+O Baiano durante milhares de anos foi quem nascia no estado da Bahia, só que hoje, há mais baianos fora da Bahia do que lá, aí as coisas complicam. Após mutios estudos da '''baianidade''' ficou concluido que ser baiano é uma questão muito maior do que a de ter ou não ter a famosa Malemolência. Que porta você tá falando, MDS apaga esse texto que dá tempo
+
+== A Baianidade ==
+
+Segundo o senso-comum,  Baianismo ou Baianidade, é o nome da Cultura da Etnia Baiana, que é uma mistura de características espirituais, predisposições mentais e de síncretismos musicais, bem definidos, expressos em língua própria ([[Bahianês]] e [[Baianês-Soteropolitano]]). Algumas citações
+
+{{c|É a filosofia fundamental da cultura [[Bahia|baiana]]|[[ACM|Toninho Magalhães]], mestre da Medicina Política baiana}}
+{{c|É onde mora toda a essência  do ser baiano|[[Caetano Veloso|Caê de Dona Canô]], mestre Musicologia, Pseudo-Filosofia baiana e perito em Porra Nenhuma}}
+{{c|É onde encontra-se a chave da luz de tal enfevecência cultural|[[Gilberto Gil|Gi-Gil]], meio-bacharelado em Filosofia e mestre em Música e Pseudo-Política Cultural e discípulo de Caê}}
+{{c|A tonga da mironga do kabuletê.|Toquinho, que teria ouvido isso numa tarde vagabundeando no Mercado Modelo}}
+
+O negócio mesmo é que a '''Baianidade''', ou '''Baianismo''', com H ou sem, é moda desde que a [[Tropicália]] apareceu, e depois com o movimento [[Axé]]...
+
+=== Dados Comportamentais ===
+* São acolhedores gentis, humildes e alegres. Não se sabe porque motivo, no entanto, estão dentre os campeões nacionais nos indíces de linchamentos.
+* São trabalhadores sim, quando comparados a um bicho preguiça em estado de coma. Enquanto os paulistas trabalham 50 horas semanais, os baianos trabalham apenas 5.
+* Tem habito de dizer que construíram São Paulo (até porque construíram mesmo, apesar de um ou dois paulistas ricos terem pagado salário dos baianos, e maioria dos paulistas não terem nem dado o dinheiro e nem colocado a mão na massa).
+* Tiram sarro dos paulistas quando estão na Bahia, entre eles, mas ganharam os dinheiro das férias em São Paulo.
+* São festeiros em todo e qualquer lugar - inclusive igrejas, cemitérios e na frente de hospitais. Acham que todo lugar é uma extensão da Bahia. Você pode tirar fulano da Bahia, mas nunca tira a Bahia do fulano.
+* São sossegados e não se estressam facilmente - até porque, ninguém merece trabalhar com aquela brisa. O negócio é ficar batucando em agogô, timbau e macumba.
+* Quando estressados demonstram um potencial terrivel de violência e espancam todo mundo na volta do trio elétrico. Ou ficam nervosos com os solos de guitarra da axé-music e, por isso, espancam todo mundo na volta do trio elétrico, até que Carlinhos Brown peça pra parar.
+* Se aglomeram embaixo de trios elétricos para verem a calcinha de Daniela Mercury, Ivete Sangalo e dos caras do Chiclete com Banana.
+* Gostam de rodopiar em grande velocidade num pé só quando veem turistas.
+* Como sofrem de carência afetiva durante toda a vida. o baiano tenta a todo custo chamar a atenção das pessoas (mesmo que depois acabem sendo linchados, vaiados, humilhados ou expulsos do lugar onde estão). Dentre as técnicas para atrair atenção alheia incluem:
+
+- Imitar sirene no meio da rua;
+
+- Fazer roda de capoeira em plena praça da Sé, atrapalhando o transito de pedestres que estão apressados, pois necessitam trabalhar para depois ver o seu dinheiro indo pra Bahia e transformado em Bolsa Família.
+
+- Dançar forró em lugares onde o som é meramente ambiente, pensando que estão em algum salão de baile da Bahia.
+
+=== Como descobrir se alguém é baiano, ou não, Como perder Seu tempo tentando atestar se alguém é baiano ===
+
+Uma todos os testes clássicos são simples.
+*Observar se fala mudando de entonação, estendendo os fonêmas ou diminuindo, variando a velocidade - ou seja: cantando.
+*Observar sua reação ao tocar um Axézão - se for homem e começar a mexer os quadris como se fosse mulher em cima do parceiro sexual na posição deitada, é baiano.
+*Observar sua reação a mudanças bruscas de temperatura, como 50<sup>o</sup> para 25<sup>o</sup>.
+*Observar o tempo de reação ao solicitar qualquer coisa simples a um atendente, por exemplo, um réles cafézinho. Se demorar 20 minutos, está confirmada a sua teoria.
+
+== O Baianismo: Categorias de Baianos ==
+
+Dentro do Baianismo existem as seguintes linhas, porém, vale a pena ressaltar, que não necessariamente um seguidor de uma linha do Baianismo só siga ela já que muitas vezes ele pode  ter mais de uma dessas linhas como filosofia de vida. Por exemplo, geralmente um Lavador costuma seguir uma outra linha como  Eclesiástico, Axézeiro, Pagodeiro, Macumbeiro. As vezes tudo misturado: Ou pode ser Um Dominador Maluco Beleza, um  Capoeirista Maluco Beleza, um Dominador rede ou até mesmo é comum existir um Macumbeiro Eclesiastico.
+
+=== Maluco Beleza ===
+[[Arquivo:Paulo-raul.jpg|thumb|200px|Maluco Beleza em ataque de loucura]]
+* Mentor mais famoso:
+**[[Raul Seixas]]
+**[[Tom Zé]]
+**[[Zéu Brito]] ''Eu quero vê soraia queimada! Soraia queimada! Porque soraia me quimô
+
+* Características: As figuras mais exóticas, loucas, que se destacam no meio de qualquer multidão por simplesmente serem  insanos, também compõem uma linha intelectual de pensamento multifacetado e nunca parecido com o anterior.
+
+* Frases típicas:
+
+{{C|Enquanto você se esforça pra ser um sujeito normal, na loucura real. Eu do meu lado aprendendo a ser louco, maluco  total|[[Raul Seixas]]|[[loucura]]}}
+{{c|Eu prefiro ser essa metarmofose ambulante do que ter aquela velha opinião formada sobre tudo|Um típico '''Maluco  Beleza''' com sua filosofia profunda}}
+{{c|... Eu quero dizer o oposto do que disse antes. Eu prefiro ser essa metamorfose ambulante...|'''Maluco Beleza''' dando um  show de coerência em seu discurso}}
+
+
+=== Axezeiro ===
+[[Arquivo:Ivete juazeiro.jpg|thumb|200px|Axezeira em ação]]
+* Mentores mais famosos:
+** [[Luiz Caldas]]
+** [[Bel Marques]]
+** [[Ivete Sangalo]]
+** [[Olodum]] - Uma seita difusora dessa linha
+
+* Características:
+Axezeiro, pronuncia-se em baianês Axézêiru. A palavra [[Axé]] significa energia em Iourubá (segunda lingua oficial da Bahia)  desta forma os seguidores dessa linha, vivem para gastarem a maior quantidade de energia que conseguirem; O problemas é que  eles nunca se cansam. Favor não confundir com falsificações de mercados orientais nas tentativas de se ocidentalizar:  [[psy]]zeros A maioria é analfabeta.
+
+* Frases típicas:
+
+{{c|Chiclete! Chiclete! Quero Chiclete! Chiclete! Quero Chiclete|Axezeiro|comprando chiclete na banquinha}}
+{{C|Joga as mãos pra cima e vái!!!|Axezeiro|o crime organizado}}
+{{C|AaaaAaAaAaaaAaAaAaaa|Axezeiro|seu prestigioso conhececimento das vogais}}
+{{C|ÔôôÔÔôôÔôôÔÔôô|Axezeiro, o que seria do Axé sem as vogais?}}
+{{C|SAI DO CHÃO, SAI DO CHÃO, SAI DO CHÃO|Axezeiro|suas frases preferidas}}
+
+Mesmo com essa quantidade de movimentos eles não conseguiram levitar nem voar ainda.
+
+=== Swinguiro ou Pagodeiro Baiano ===
+[[Arquivo:Eotchan.jpg|thumb|200px|Segura o Tchan! Amarra o Tchan! Segura o Tchan, Tchan Tchan, Tchan Tchan!]]
+* Mentor mais famoso:
+**[[É o Tchan|Cumpadi Uóshintu]],
+**[[Márcio Vittor]] (a.k.a. Pisirico),
+**[[Parangolé]] entre outros.
+
+* Características: Não deve-se confundir com [[Axé|axezeiros]]! Os Swingueiros e Piriguetes (Sinônimo Feminino) costumam-se  misturar nessas duas linhas (axezeiro com pagodeiro) mas, na verdade o pagodeiro nem sempre está dentro da filosofia do  gastar energia, para ele, o essencial é mexer a bunda - o que nem sempre significa gasto de energia já que eles tem o gosto  por este ato. Outro fator é que ao contrario do Axezeiro, o Pagodeiro possui um estilo de vida bem peculiar, uma moda  própria, corte de cabelo típico e gírias similares, desta forma caracterizando-se grupos bem distintos. Inclusive, inúmeros  Pagodeiros, não suportam Axezeiros, e vice-versa mas, na grande maioria das vezes essas correntes costumam conviver em  perfeita harmonia no espaço, formando boas parcerias em trios de carnavais.
+
+* Frases típicas:
+
+{{C|Agora mexe mainha, mexe mainha (repete-se exaustivamente até a bunda ficar roxa)|Swingueiro|amor materno}}
+{{c|Pega na minha mão, pega na minha mão. Mas se você quiser algo mais emocionante: pegue na minha e balance|Swinguiro e sua  filosofia sobre o [[sacanagem|romantismo]]}}
+{{c|"Tome, Tome, Tome, Tome" ou "Sei o que quer tome aí" ou "Tome e fica, Tome e fica, Tome e fica" "Se você quer tome, quer, quer, tome, Tome, Tome"| Pagodeiro Baiano, vulgo Swingueiro|a Solidariedade}}
+
+
+=== Rede ===
+[[Arquivo:Cocogelado.jpg|thumb|200px|O que está sempre ao lado de um "Rede"]]
+* Mentor mais famoso:
+**[[Jorge Amado]],
+**[[Doryval Caymmi]],
+**[[Vinicius de Moraes]] ''(xi é carioca)''
+
+* Características: Dormir, descansar e depois, descansar mais um pouquinho. Essa linha está se tornando rara, mesmo porque  frequentemente os seguidores dela, ou são intelectuais (raro por natureza), ou tem morrido de fome por terem preguiça de ir  buscar comida. Na verdade estudos afirmam que em sua maioria não são bem filhos da terrinha os seguidores dessa linha (até  que deu pra fazer riminha, sei que sei fazer poesia... acabou, e não é música do Jammil). Ou são os baianos vindos de fora, que encontrando lá ambiente propicio para essa prática terminam por fazê-la, ou são baianos que desarraigados muito cedo de suas terras voltam com a cultura que lhes foi imposta pela doutrina herege, ou é baianozinho fiínho de papai e mamãe que creceu na folga em riqueza infinita (ver: família Magalhães).
+
+* Frases típicas:
+
+{{C|Um velho calção de banho. Um dia pra vadiar. Um mar que não tem tamanho. E um arco-iris no ar. Depois na praça Caymi.  Sentir preguiça no corpo. E numa esteira de vime. Beber uma água de coco|Vô Dôri|preguiça}}
+
+=== Capoeirista ===
+[[Arquivo:BaianosTrabalhando.jpg|200px|thumb|Capoeiristas]]
+* Mentore mais famosos:
+** Mestre Bimba
+** Mestre Vermelho 17
+** Mestre Bezouro Verde
+** Mestre João Pequeno
+
+* Características: Tem duas sub-linhas:
+**[[Capoeira]] [[Angola]]: fazem tudo rastejando pelo chão (as vezes até entram na terra)
+**[[Capoeira]] [[Regional]]: Fazem tudo dando saltos de 20 metros de altura
+
+* Frases típicas:
+
+{{c|Ô pega ele qui Zumbi mandou Xamar, Ô pega ele que zzZumbi mandu Xamar, tôdos já sabi que Zumbi é matador, e cum Zumbi  ninguém volta pra brigá|Capoeirista|a benevolência da cultura baiana}}
+{{c|Paranauê, Paranauê, Paraná, Paranauê, Paranauê, Paraná|Capoeirista arriscando o Hino do Estado do Paraná}}
+{{c|Zum, zum, zum, capoeira matá um, Zum, zum, zum, capoeira mata um|Capoeirista opina|a cultura de paz}}
+
+
+=== Eclesiástico ===
+
+* Mentor mais famoso:
+**Padre <s>Pênis</s> Pinto
+* Características:
+** Se benzem sempre que passam por uma igreja. Em uma cidade como Salvador, isso termina sendo um problema, causando  acidentes de carro entre outras coisas, já que a cidade consegue ter mais Igrejas do que católicos em si.
+** Sempre estão em alguma igreja
+** Quando não estão em uma estão pensando em ir em alguma Igreja - normalmente morrem antes de visitar todas, tarefa que  necessitaria de 400 anos.
+
+* Frases típicas:
+
+{{C|[[Amém]]|Eclesiástico|tudo}}
+{{c|"Vixe!" ou "Ave Maria Senhor Jesus!" ou "Vige Santa!" ou "Aí Jesus!" ou ...|Eclesiástico na felicidade, na tristeza, na  surpresa, na ansiedade...}}
+
+
+=== Lavadores ===
+
+* Mentor mais famoso: [[Baiana do Acarajé]]
+* Características:
+** São os seres mais asseados, limpos, de todo o Universo
+** Passam metade do ano lavando as escadarias das Igrejas (as famosas lavagens)
+** E a outra metade do ano enxugando elas.
+** Não satisfeitos com as Igrejas, já estão inventando outras lavagens como a Lavagem do Bar do Binho, lavagem do beco dos  sem nome ou a Lavagem do [[Eregene]]...
+
+* Frases típicas:
+{{C|Você vai para a [[Lavagem do Bonfim]]?|Lavador para qualquer pessoa}}
+{{C|Você vai para a ...|Lavador|Lavagem do Bonfim}}
+{{C|Mas num foi ontem?|Qualquer pessoa|[[frase acima]]}}
+{{C|Não mô filho, a do ano que vem|Lavador|[[frase acima]]}}
+
+*Curiosidade: As malditas lavagens sempre terminam com mais porcaria e sujeira do que antes quando de está limpo.
+**Alta densidade de lixo no chão.
+
+
+=== Dominadores ===
+
+* Mentores mais famosos:
+** [[ACM]]
+** [[Caetano Veloso]]
+** [[Gilberto Gil]]
+
+* Características:
+** Acreditam píamente que a [[Bahia]] é o melhor lugar do [[mundo]].
+
+* Frases típicas:
+
+{{C|A Bahia é linda|Dominador|Bahia}}
+
+
+=== Macumbeiro ===
+[[Arquivo:Jorge2.jpg|thumb|200px|Preto Véio, em uma rara aparição]]
+* Mentor mais famoso: [[Preto Véio]]
+* Características:
+** Sempre estão com um pezinho de Figo, um colarzinho do seu orixá.
+** Gostam de ser montados, porquê são o cavalo de um orixá
+** Costumam ser vistos em alguma encruzilhada, depois da meia noite, com garrafas de cachaça, galinha preta morta, sangue de  boi e velas de todas as cores.
+
+* Frases típicas:
+{{C|Eparrê baba|[[Macumbeiro]] profissional|despacho}}
+{{C|Sarava meu Pai|Qualquer macumbeiro|o mesmo despacho}}
+{{C|EU QUERO CHICLÉ! EU QUERO CHICÉ! (...) AGORA EU QUERO GUARANÁ, EU QUERO GUARANÁ|O Erê|um Macumbeiro}}
+
+=== Tabaréu ou Caípira ===
+
+*Mentor mais famoso:
+**Elomar & Xangai
+*Características
+**Costumam apresentar um Baianês Mineirado ou Nordestino
+**Costumam gostar de Música da Terra, Caipira ou Regional, ou Música Folclórica.
+
+* Frases Típicas:
+{{c|Ô cabrinha vem pá cá|Tabaréu|seus bichinhos}}
+{{c|Pega a vióla Jão|Tabaréu|seu lazer}}
+{{c|Ôoo terra rachada do sertão!|Tabaréu|qualquer coisa}}
+
+=== Intelectuais ou "do Borogodó" ===
+[[Arquivo:Ruybarb.jpg|200px|thumb|Rui Barbosa, um idolatrado intelectual baiano]]
+* Mentor mais famoso:
+**[[Gilberto Gil]],
+**[[Castro Alves]],
+**[[Rui Barbosa]],
+**[[João Ubaldo Ribeiro]],
+**[[Caetano Veloso]],
+**[[João Gilberto]]...
+
+* Características:
+
+** São sempre respeitados por seu cabedeu intelectual, ou pelo tamanho de sua cabeça.
+** Você já os estudou, está a os estudar, ou irá os estudar nos próximos meses.
+** Têm pra todo gosto de curso superior, desde da àrea do [[Direito]], [[Literatura]], [[História]], [[Filosofia]]...
+** Gostam de experimentar em suas áreas de estudo, e não raramente na sexualidade...
+** Historicamente, nunca ninguém pegou mais mulé que esses indivíduos, também hômi às vezes...
+** São os mais famosos por disporem de mil argumentos para convecerem VOCÊ a ir pra cama com eles.
+** Cheios de papo, cheios de elogios, chegam de mansinho e quando a vitima ver, O Bicho Comeu!
+** São extremamente perigosos, foram eles que povoaram todo o país.
+** Estudos afirmam que todo mundo é filho de baiano e tudo indica que os comedores são os grandes responsáveis por isso.
+** São pseudo-romanticos, você já foi enganada(o) por eles!
+** Ainda podemos encontrar os que utilizam das técnicas mais clássicas, de horas e horas de conversas e envolvimento  lubridiante para atacar as vítimas.
+
+* Frases típicas:
+{{c|Coisa mais bonita é você, assim justinho você, eu juro não sei porquê, você é mais bonita que a flor, quem derá a primavera da flor tivesse todo esse aroma de beleza que é teu amor perfumando a natureza em uma forma de mulher...|João Gilberto|em sua idade avançada atacando uma mocinha}}
+{{C|Você é linda, mais que demais. Você é linda sim, está canção é só pra dizer e diz...|[[Caetano Veloso]]|Vítima  <s>masculina</s> em potencial}}
+{{c|Há de surgir uma estrela no céu cada vez que você sorrir, Há de apagar uma estrela no céu cada vez que você chorar, o  contrário bem que pode acontecer... De uma estrela do céu cair só para te ver|Gilberto Gil|<s>Caê...</s> sua vítima em  potencial}}
+{{c|Acredita em Anjo, pois é sou eu...|Saulo da Banda Eva|suas ardilosas técnicas que levaram <s>Ivete, Claudinha, Sua mãe,  Sua namaorada</s> vítimas para a cama}}
+
+
+
+== Ver também ==
+* [[Baiano]]
+* [[Abadá]]
+* [[Tribalistas]]
+* [[ACM]]
+* [[Salvador]]
+* [[Casas Bahia]]
+* [[Gilberto Gil]]
+
+[[Categoria:Seitas]]

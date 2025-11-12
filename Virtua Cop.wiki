@@ -1,0 +1,41 @@
+{{Infobox Série Game
+|title         = Virtual Copo
+|image_logo    = janet marshall.jpg
+|caption       = A galera do jogo, fazendo pose de fodões
+|genre         = policial
+|developer     = [[Sega]]
+|publisher     = Sega
+|origin        = [[Arcade]]
+|first_release = [[Virtua Cop (jogo)|Virtua Cop 1]] ([[1994]])
+|last_release  = [[Virtua Cop 3]] ([[2003]])
+}}
+'''Virtua Cop''' é uma franquia de jogos criada e desenvolvida pela [[Sega]], em que o jogador controla um policial que sai por aí metendo bala em qualquer merda que veja pela frente. Sim, é apenas isso.
+
+A série leva o prefixo ''Virtua'' no título por ter sido produzida em [[computação gráfica]], o que era considerada uma inovação ultra-foderástica para a época, e este padrão de nomenclatura foi adotado pela Sega para diferenciar os jogos em [[3D]] daqueles que eram em [[2D]]. Virtua Cop foi uma das [[primeira]]s realizações da Sega neste estilo, juntamente com [[Virtua Fighter]], [[Virtua Racing]], [[Virtua Striker]], [[Virtua Tennis]] e sabe-se lá qual mais. Como atualmente qualquer joguinho fuleiro tem esse tipo de produção, a Sega acabou abandonando a ideia de adicionar a palavra ''Virtua''.
+
+==Jogos==
+Virtua Cop rendeu um total de [[três]] jogos canônicos, mais uma suposta edição especial, que de especial não tem [[porra nenhuma]].
+
+===Virtua Cop 1===
+O jogo porcão e inicial da série, lançado em [[1994]]. Vendo os gráficos hoje em dia, é de se ficar com vergonha, pois todas as pessoas e objetos parecem feitos de [[origami]], bem quadradões. E pensar que foi esse mesmo estilo horrendo que imortalizou [[Lara Croft]] como uma das maiores musas dos videogames... Realmente, ainda bem que o tempo passou. Mas enfim, devaneios à parte, o jogador escolhe entre o protagonista Rage ou seu parceiro Smarty, que são [[Narrador da Sessão da Tarde|uma dupla de detetives da pesada prontos para entrar na maior fria enquanto tentam defender uma cidade do barulho]]. Depois, basta sair por aí controlando o personagem escolhido e atirando com sua arma.
+
+===Virtua Cop 2===
+Os gráficos tiveram uma significativa melhora, sendo já possível discernir a aparência física dos personagens. Aproveitando-se disso, a Sega decidiu introduzir à série a [[hentai girl]] jogável Janet para fazer companhia aos machões do jogo anterior e, lógico, povoar as fantasias doentias dos nerds solitários. Este jogo teve seu lançamento já em [[1995]], pegando carona total no inexplicável sucesso do antecessor, e tem apenas três fases padrão, mais a fase final em que se enfrenta o chefão, ou seja, é perfeito para os [[n00bs]] afobados que não sabem jogar direito.
+
+===Virtua Cop: Elite Edition===
+A franquia Virtua Cop ficou abandonada durante [[cinco]] anos, até que a Sega teve a ideia de ressuscitá-la em [[2000]] com esta edição especial, que na verdade é apenas uma compilação cretina dos [[dois]] primeiros jogos, incluindo uma galeria com ilustrações inéditas. Os fãs sentiram-se profundamente enganados {{Strike|e foram mesmo}}, porque esperavam pelo [[terceiro]] jogo.
+
+===Virtua Cop 3===
+A Sega decidiu esperar alguns anos até que passasse a raiva daqueles que compraram o jogo anterior para enfim lançar esta terceira e última parte em [[2003]]. Diga-se de passagem, não mudou muita coisa, sendo Virtua Cop 3 apenas mais um repeteco dos jogos anteriores, com pouca inovação além dos gráficos levemente melhorados. As fases são agora divididas em capítulos, o que posssibilita jogar qualquer uma delas aleatoriamente quando bem entender, sem precisar passar de uma para liberar a outra.
+
+==Personagens==
+*'''Michael "Rage" Hardy''' - Rage reúne todos os clichês necessários para um típico protagonista. Tem cabelos e olhos escuros, já que a maior parte da população mundial possui este mesmo estereótipo, ainda mais os japoneses, e é considerado um dos melhores policiais do mundo. Apesar de ser um excelente atirador, tem o pavio curto e é muito temperamental, o que acaba prejudicando um pouco seu desempenho.
+
+*'''James "Smarty" Cools''' - Parceiro e amante de Rage, Smarty é praticamente seu oposto em personalidade, sendo um cara muito calmo e relaxado, talvez por fumar maconha demais. Para agradar aquela minoria europeia, ele é loiro dos olhos azuis. Eventualmente, usa uns óculos estilosos, possivelmente para disfarçar que os olhos cristalinos estão avermelhados devido ao uso da ''marijuana''. Seus tiros têm mais precisão que os de Rage, mas não causam tanto estrago.
+
+*'''Janet Marshall''' - A personagem mais inútil e sem graça. É uma novata inexperiente que acabou de ser recrutada pela polícia e foi contratada para tentar trazer Rage e Smarty de volta ao [[lado azul da força]], já que os anos de convivência fez com que ambos desenvolvessem uma relação homoafetiva. Gostosa, ruiva e de olhos verdes, foi criada apenas para chamar atenção do pessoal que se masturba para as personagens femininas de jogos.
+
+{{Virtua Cop}}
+{{Sega}}
+{{First-person shooter}}
+[[categoria:Jogos da Sega]]

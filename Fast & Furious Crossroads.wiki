@@ -1,0 +1,49 @@
+{{Game}}
+{{Infobox Game
+|title     = Velozes & Furioso: Macumba na Encruzilhada
+|image     = Fast & Furious Crossroads cover.png
+|caption   = Capa do jogo
+|developer = [[Slightly Mad Studios|Estúdio Muito Mal da Cabeça]]
+|publisher = [[Bandai Namco|Banda no Manco]]
+|released  = 2020 com gostinho de 2000
+|genre     = Aventura de carro, muitas cutscenes ruins, bugs pra todo lado
+|rating    = -1/10
+|platform  = [[PlayStation 2]], mas rodando no [[PlayStation 4]] por acidente
+|ages      = Livre
+}}
+
+'''Fast & Furious Crossroads''' é um raro caso de [[jogo de corrida]] sem corrida, não passando de um "simulador de dirigir de um ponto ao outro sem cortar caminho", com momentos de você estacionar o carro certinho e perfeitamente bem no quadrado demarcado pelo jogo. Lançado em 2020 com atraso de 20 anos (pois parece um jogo ruim de 2000) foi um forte candidato a pior jogo do ano, vencendo essa [[framboesa]] aí.
+
+== Desenvolvimento ==
+
+A franquia de filmes [[Velozes & Furiosos]], na época do lançamento de seu décimo filme, decidiu que seria uma boa ideia lançar um jogo que fosse tão ruim quanto seus filmes. Para realizar esse feito, eles contrataram a [[Slightly Mad Studios]], que a primeira vista pode até trazer alguma esperança, será que teríamos um belíssimo jogo de carros igual [[Project Cars]]? Mas quem esperava um Project Cars adquiriu um jogo feito com o mesmo [[motor gráfico]] de [[Big Rigs]]. Tal escolha foi realizada porque assim os desenvolvedores poderiam desprezar a [[física]] e focar num jogo de carro totalmente [[arcade]] <s>de merda</s>.
+
+E só por causa disso eles realmente acharam que estavam no direito de cobrar 250 reais por esse jogo no seu lançamento, sem contar os 100 reais pela [[Season Pass]]. Um total de 31 pessoas adquiriram esse jogo por um preço absurdo desses.
+
+== Jogabilidade ==
+
+[[Velozes & Furiosos]] são filmes de '''rachas de carros''', então o mínimo que se espera de um jogo baseado em filmes de rachas de carro é o jogo tenha corridas clandestinas de carros. Quando inventaram [[Need for Speed]] foi pensando nisso. Mas ao invés de corrida de carro, algum gênio desenvolvedor achou melhor colocar uma historinha de merda no meio. Por isso Fast & Furious Crossroads não pode ser considerado um jogo do gênero de corrida, ele é um jogo de um gênero completamente novo que pode ser chamado de "dirija para tal lugar para assistir mais uma péssima cutscene".
+
+Neste jogo é absolutamente proibido ter qualquer diversão, tudo o que você imaginar que possa ser considerado divertido você não pode fazer. Você não pode ir para onde quiser, você não pode subir com o carro nos canteiros, você não pode atropelar pedestres, você não pode cortar caminhos, você não pode estacionar do jeito que quiser. Você tem que fazer exatamente como roteiro mandou. O jogo é sem graça até para te dar um [[game over]], acha que consegue esborrachar teu carro na mureta e ver pedaços de carro voando ou uma explosão maneira? Não, verá apenas uma tela branca de "Mission Failed".
+
+Quanto ao controle do carro, dirigir qualquer veículo nesse jogo transmite a sensação exata de como é estar dirigindo um carrinho de supermercado com 3 rodinhas quebradas.
+
+Aliás, tem cooperativo online, mas ninguém tá lá jogando, então foda-se.
+
+== Enredo ==
+
+[[Arquivo:Fast-Furious-Crossroads-cutscene.jpg|thumb|left|O [[sósia do Vin Diesel]] também faz sua participação no game.]]
+
+Achou que você jogaria com o [[Vin Diesel]]? Nada disso, você vai jogar com o [[sósia do Vin Diesel]] e a [[Michelle Rodriguez]] quadrada com cara de [[PlayStation 2]]. E mesmo assim, nem será com esses que você vai jogar, o jogo vai acompanhar a sensação história de Vienna Cole!! Exatamente, uma personagem criada para esse jogo que não está nos filmes, uma mulher chata, egoísta, reclamona, nada carismática e ignóbil. Você vai estar sempre junto da sua parceira Cam, uma nerd esquisita hacker que vai ajudar numas 3 missões. Você vai então acompanhar a história totalmente desinteressante dessas duas, ouvindo as duas conversando coisas idiotas, enquanto tentam impedir alguma máfia genérica aí.
+
+Somente a última missão desse jogo é a única coisa realmente "[[Velozes e Furiosos]]", quando você precisa perseguir um [[foguete]] [[Saturno V]] com um Mustang comum do Vin Diesel.
+
+{{Fast & Furious games}}
+
+[[Categoria:Jogos da Slightly Mad Studios]]
+[[Categoria:Jogos da Bandai Namco]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de ação-aventura]]
+[[Categoria:Jogos lançados em 2020]]

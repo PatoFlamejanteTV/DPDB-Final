@@ -1,0 +1,49 @@
+{{Jogos Antigos}}
+{{Infobox Game
+|title     = [[As Tartarugas Mutantes Ninjas]]
+|image     = tmnt-arc titlescreen.png
+|caption   = COWABUNGA!
+|developer = [[Konami|<font color=#909090>''KONMAI''</font>]]
+|publisher = [[Konami|<font color=#909090>''KONMAI''</font>]]
+|released  = [[1989]]
+|genre     = [[Beat'em up]]
+|rating    = 2%
+|platform  = [[Arcade]]
+|ages      = Todas
+}}
+
+{{C|COWABUNGA!|As Tartarugas Mutantes Ninjas|Teenage Mutant Ninja Turtles}}
+{{C|Santa tartaruga!|Idem|Teenage Mutant Ninja Turtles}}
+{{C|Sonic é mais sensual!|Furry|Teenage Mutant Ninja Turtles}}
+{{C|Por que esse jogo é japonês se o desenho é americano?|Alguém|Teenage Mutant Ninja Turtles}}
+{{C|Não é justo, eu também mereço ter um game...|Franklin, a Tartaruga|Teenage Mutant Ninja Turtles}}
+{{C|Na [[União Soviética]], Teenage Mutant Ninja Turtles Joga '''VOCÊ'''!!|[[Reversal Russa]]|Teenage Mutant Ninja Turtles}}
+{{C|Na [[Holanda]], Teenage Mutant Ninja Turtles se Joga sozinho, não precisa de '''VOCÊ'''!!|[[Reversal Holandesa]]|Teenage Mutant Ninja Turtles}}
+[[Arquivo:tmnt-tf-snes_leo_stand-anim.gif|left]]
+'''Teenage Mutant Ninja Turtles''', ou '''TMNT''' para encurtar, é um [[beat'em up]] [[baseado]] no [[desenho animado]] [[As Tartarugas Mutantes Ninjas]], aquele que o teu [[irmão mais velho]] assistia nos [[anos 80]].
+==Review==
+Embora o [[desenho]] fosse bem original, o game é o mesmo [[clichê]] de sempre: [[Destruidor]] sequestra a repórter [[gostosa]] [[April O'Neil]], [[amiga]] das [[tartarugas ninja]], e o quarteto de [[herói]]s [[verde]]s vai resgatá-la. Os [[vilões]] são os mesmos da [[televisão]] e o último [[chefão]] é o próprio Destruidor, lógico.
+
+==Jogadores==
+*'''[[Leonardo]] - '''A [[tartaruga]] [[azul]], possui como arma duas [[katana]]s. É o personagem mais equilibrado do [[jogo]], com ataques de alcance e [[velocidade]] médios.
+*'''[[Donatello]] - '''De [[cor]] [[roxa]], sua arma é um <s>[[bambu]] que ele enfia no [[cu]]</s> bastão. Seus ataques são de longo alcence, porém lentos.
+*'''[[Raphael]] - '''O [[vermelho]], tem como arma um par de adagas. Possui ataques rápidos, mas de curto alcance.
+*'''[[Michelangelo]] - '''Portando um nunchaku e vestindo [[laranja]], seus ataques são iguais aos de Raphael: curtos e rápidos.
+==Screenshots==
+<gallery>
+Imagem:Tmnt-arc 01 rocksteadyappears.png|Será que churrasco de tartaruga é bom?
+Imagem:Tmnt-arc 02 001.png|Enfrentando inimigos genéricos emprestados dos [[Power Rangers]].
+</gallery>
+
+{{Teenage Mutant Ninja Turtles games}}
+
+[[categoria:Jogos da Konami]]
+[[categoria:Jogos para Arcade]]
+[[categoria:Jogos para MSX]]
+[[categoria:Jogos para Amiga]]
+[[categoria:Jogos para Commodore 64]]
+[[categoria:Jogos para Nintendo Entertainment System]]
+[[categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos de beat 'em up]]
+[[Categoria:Jogos lançados em 1989]]

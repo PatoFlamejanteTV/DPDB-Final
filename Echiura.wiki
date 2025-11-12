@@ -1,0 +1,24 @@
+{{taxocaixa
+| nome           = Equiura
+| cor            = #FF0B00
+| imagem         = Bonélie_(Bonellia_viridis)_PC301461.JPG
+| imagem_legenda = Saco de fezes gigante marinho
+| domínio        = [[Eukaryota|Eu cara bota]]
+| reino          = [[Animalia|Edmúndia]]
+| filo           = [[Annelida|Ana Lídia]]
+| classe         = [[Polychaeta|Polyshop]]
+| subclasse      = [[Echiura|Equinos da URA]] 
+}}
+
+'''Echiura''', ou '''Equiura''' (significado do [[latim]]: "espinho no cu"), é o nomezinho de um [[filo]] (ou [[classe (biologia)|classe]], dependendo do [[biólogo]] que tiver estudando essa birósquia e decidir colocar ele no filo dos [[anelídeos]]) bem pequeno de animais invertebrados, todos vivendo no fundo do mar, portanto tudo filho dos [[bentos]] que não são o [[Bento XVI]], as vezes só de pertinho da praia, as vezes realmente em substratos tão fundos que só se sabe que provavelmente eles vivem lá, porque de fato ninguém foi doido de enfiar a cara para comprovar.
+
+Os indivíduos dessa turma podem ter desde [[milímetro]]s até mesmo serem bem grandinhos, chegando a 20 cm, e esse dismorfismo inclusive é maior ainda quando se fala em [[dismorfismo sexual]], haja vista que o representante mais conhecidinho dessa turma, a ''[[Bonellia viridis]]'', a fêmea pode chegar a quase 30 cm, já o macho mede uns 20 [[micrômetro]]s, normalmente sendo obrigado a viver literalmente dentro do corpo da fêmea como um [[parasita]] igual ao teu [[cunhado]]. É, cada um tem o macho que merece.
+
+== Divisões ==
+
+Existem 165 espécies reconhecidas como partes dessa turminha, distribuídas nos substratos de quase todos os oceanos, menos no [[Oceano Ártico]] (pelo menos até hoje ninguém viu por lá, mas vai que vivem lá embaixo daquele monte de gelo). Suas famílias são as seguintes: Boneliidae, Echiuridae e Urechidae, uma mais bizarra que a outra, quase sempre parecendo grandes sacos gigantes, o que pode levar um [[oceanografia|oceanógrafo]] achar que pode ser poluição de sacolas de lixo no mar por engano.
+
+{{Mini}}
+
+[[Categoria:Polychaeta]]
+[[Categoria:Echiura]]

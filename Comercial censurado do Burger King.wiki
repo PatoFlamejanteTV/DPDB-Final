@@ -1,0 +1,63 @@
+{{DISPLAYTITLE:Comercial <span class="censtext">censurado</span> do Burger King}}
+{{Sem Vergonha}}
+[[Arquivo:Z51905882.gif|thumb|Esse é [[foda|f*da]].]]
+{{esboço}}
+
+{{C|Aviso: este comercial não é recomendado para pessoas de idade menor que 17 anos|{{PAGENAME}}}}
+
+O '''comercial <span class="censtext">censurado</span> do [[Burger King]]''' é um comercial dessa lanchonete criado pela agência de publicidade [[W/Brasil|F*/Brasil]] em homenagem ao {{Aleatória/Número||1000|999999}}º aniversário de [[Dercy Gonçalves]].
+
+==Criação==
+Segundo [[Washington Olivetto|Washingou Olivetto]] o texto foi inspirado nas afirmações da própria Dercy ao comer um [[Ruth Lemos|sanduíche (íche)]] da [[Mc Donald's|concorrência]].
+
+{{C|A diferença}} {{--}} explicou Washingou {{--}} {{C|é que no caso do [[Big Mac|outro sanduíche]], a Dercy disse que era uma {{censurado2|[[merda|m*rd*]]}} do {{censurado2|[[caralho|c*r*lh*]]}} e que nunca tinha comido uma {{censurado2|[[porra|p*rra]]}} tão nojenta, que não voltaria naquele lugar {{censurado2|[[filho da puta|filh* da put*]] [[nem fodendo|nem f*dend*]]}}. Adaptamos para vender o [[caralho|c*r*lh*]] do sanduíche do BK, porque não somos uns {{censurado2|[[puto|put*s]]}} duns [[idiota]]s, embora a [[merda|m*rda]] seja a mesma!}}
+
+== Veiculação ==
+
+Como o [[Burger King]] é um ''[[fast food]]'' para [[rei]]zinhos [[buguesia|burgueses]]<ref>'''Burger King''': {{babelfish|Rei Burguês|Burger King}}</ref> a propaganda do [[Whopper]] só foi veiculada nos canais de [[TV a cabo]], dentre eles: [[Cartoon Network]], [[Discovery Kids]], [[Nick Jr.]] e [[Disney Channel]] e [[Jetix]], o que ajudou a difundir o uso do [[pi]] entre os estudantes do [[ensino fundamental]]. Segundo os professores de [[matemática]] entrevistados, os alunos mais [[burro]]s evoluiram bastante, conseguindo agora resolver as equações mais [[foda|f*das]].
+
+==Vídeo==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 125%;" align="center"
+|
+<YouTube> 
+title=Comercial censurado do Burger King.
+movie_url=http://www.youtube.com//watch?v=7pUlBnKu52g
+embed_source_url=http://www.youtube.com/v/7pUlBnKu52g
+wrap=no
+width=425 
+height=344
+</YouTube>
+|}
+
+== Ver também ==
+{{Fato|quem come um [[Whopper]] fica com a [[boca suja]]... de [[catchup]]!}}
+*[[Burger King]]
+*[[Palavrão]]
+*[[Boca suja]]
+
+== Ligações externas ==
+*{{link|1=pt,en|2=http://www.youtube.com/watch?v=C0lz86B7vFw|3=O mesmo comercial, só que com piiis "traduzidos"|4=[[Youtube{{!}}YouToba]]}}
+*{{link|1=pt|2=http://www.burgerking.com.br|3=Burger King|4=site oficial}}
+
+{{ref-section}}
+
+[[Categoria:Propagandas de televisão]]
+
+<!--- Não editar o código abaixo --->
+<css>
+/*Escrito por Silent Penguin
+ *Uso livre sob CC-BY-NC-SA
+ *Se precisa roubar isso, deus te ajude.
+ */
+span.censtext{
+text-color:black;
+background-color:black;
+padding:1px;
+}
+span.censtext:hover, span.censtext:focus{
+text-color:black;
+background-color:white;
+padding:1px;
+}
+</css>
+<!--- Fim do código --->

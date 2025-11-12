@@ -1,0 +1,53 @@
+{{taxocaixa
+| nome           = Salmonídeos
+| cor            = #0047AB
+| imagem         = Salmonídeos.jpg
+| imagem_legenda = Casal de salmonídeos chacinados
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aquáticos]]
+| classe         = [[Actinopterygii|Peixes com espinha]]
+| ordem          = '''[[Salmoniformes|Formas de Salmão]]'''
+| família        = [[Salmonidae|Salmonela]]
+}}
+
+'''Salmonidae''' é a família que reúne os peixes comestíveis mais conhecidos como '''salmões''' e os peixes da quebrada mais conhecidos como '''trutas'''. São mais de 100 espécies desses peixes, sendo a sua espécie mais conhecida o [[salmão-do-atlântico]], que é aquele que pode ser visto na sua mesa de almoço (caso o peixe tenha passado pela [[Certificação Sanitária Nacional]] sem a necessidade de propina para o [[Ministério da Agricultura]], senão será apenas [[tilápia]] pintada de laranja).
+
+Por muitos anos consumidos apenas por [[urso]]s filmados pelo [[Discovery Channel]], o primeiro sujeito a consumir esse belo peixe foi o [[rei Salomão]], algo registrado nos anais deste rei sábio da [[Judeia]] que provou esse peixe requintado e ficou tão feliz que decidiu dar seu nome a essa família de peixes. A riqueza do sabor de sua carne tornou estes peixes os mais caros do mundo; por isso, aquele peixe que [[você]] comprou como sendo salmão deve ser uma [[sardinha]] [[mutante]] metida a besta, porque, é claramente evidente e óbvio, você - como todo [[pobre]] - não tem [[dinheiro]] para comprar um só salmão..
+
+== Anatomia ==
+
+Os salmonídeos são peixes que se parecem com os salmões e as trutas, ou seja, são bem parecidos com peixes. Têm cabeça, barbatana, escamas e cauda. Não podem ser criados em aquário porque na época do acasalamento fica com tanto tesão que sai voando da água: por isso é um peixe tão caro: precisa ser pescado no [[Yukon]] no [[Canadá]].
+
+== Habitat ==
+
+Os salmonídeos podem ser encontrados em todos os oceanos do mundo, mas definitivamente o lugar que eles mais amam estar são as [[Ilhas Salomão|Ilhas do Salmão]], um arquipélago da Oceania que é seu reino por excelência. O lugar em que os salmonídeos mais odeiam estar, por outro lado, é no Japão, porque ali as pessoas os comem vivos e sem cozinhar, um troço completamente nojento.
+
+== Reprodução ==
+
+Alguns salmões são andróginos e por isso na época do acasalamento migram dos mares frios para rios mornos onde preferem acasalar e soltar os seus ovos, também conhecidos como "caviar de classe média". Esta época da reprodução dos salmonídeos é um espetáculo à parte no interior do Canadá, porque os peixes estão tão loucos querendo foder que chegam a alçar voo enquanto sobem o [[rio]] com destino ao bacanal no final da corredeira.
+
+== Taxonomia ==
+{{Clado
+|clado1     = Gêneros
+|preposição = à
+|clado2     = família Salmonidae
+|texto      = 
+|lista      = 
+* '''[[Coregonus]]''' - Salmões-brancos
+* '''[[Prosopium]]''' - Salmões-brancos-dos-lagos
+* '''[[Stenodus]]''' - Salmão-branco-de-beloribitsa e salmão-nelma
+* '''[[Thymallus]]''' - Tílamos
+* '''[[Brachymystax]]''' - Lenox
+* '''[[Hucho]]''' - Salmões-asiáticos
+* '''[[Oncorhynchus]]''' - Salmões e trutas do Pacífico
+* '''[[Sakhalin]]''' - Salmão-japonês
+* '''[[Salmo (gênero)|Salmo]]''' - Salmões e trutas do Atlântico
+* '''[[Salvelinus]]''' - Trutas
+* '''[[Salvethymus]]''' - Truta-de-barbatana-longa
+}}
+
+[[Categoria:Actinopterygii]]
+[[Categoria:Salmonidae|*]]
+
+[[es:Pez Salmón]]

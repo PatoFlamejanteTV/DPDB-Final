@@ -1,0 +1,50 @@
+{{taxocaixa
+| nome           = Passarinhos
+| cor            = #FFEBCD
+| imagem         = Andorinhas carregando um coco de uma zona tropical.png
+| imagem_legenda = Andorinha-europeia e andorinha-africana se unem para conseguir transportar um coco de uma zona tropical para uma zona mais temperada
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| classe         = [[Aves|Voadores]]
+| ordem          = [[Passeriformes|Passarinhos]]
+| família        = [[Hirundinidae|Shoryuken]]
+}}
+
+'''Hirundinidae''', família de [[aves]] melhor conhecidas como '''andorinhas''', são animais viadores de pequeno porte que possuem extrema importância para a [[climatologia]] mundial, por serem os principais responsáveis por trazer o [[verão]] aos hemisférios em que visitam, mas uma andorinha sozinha não é o suficiente para conseguir criar essa mudança climática, precisa de toda uma turma de dezenas delas para saber que já é verão. Embora 99% das espécies e andorinhas existentes no mundo sejam migratórias, vale ressaltar que a [[Petrochelidon spilodera|andorinha-africana]] é a única espécie não migratória, portanto sua habilidade de carregar cocos existentes apenas em zonas tropicais não explica a existência destes mesmos cocos na Britânia do século V.
+
+As andorinhas são animais que se demonstraram providenciais para o progresso da humanidade, graças à sua habilidade de migrar enquanto carrega coisas, sendo o animal responsável por induzir a humanidade à globalização, desde o dia em que trouxe um ramo de [[Ayahuasca]] para [[Noé]] até o dia em que carregou uma [[espada]] para largá-la num campo de tribo para [[Joana d'Arc]], as andorinhas estão sempre por trás das mudanças de curso da humanidade.
+
+== Anatomia ==
+
+As andorinhas são aves que não possuem pés, portanto precisam estar voando durante toda a sua vida, coisas que pássaros devem fazer mesmo, ao contrário de pássaros derrotados, como as galinhas, que se recusam a voar. Para manterem-se voando uma vida inteira, o corpo das andorinhas é anatomicamente projetado para essa função, possuindo eles o conveniente formato de passarinho, cauda com penas e um par de asas. O seu tamanho, todavia, varia de espécie para espécie, embora entre as espécies exstantes todas andorinhas possuam o mesmo tamanho que vai de pequeno a irrelevante. As espécies maiores de andorinhas, que tinham 13 metros de altura, foram extintas antes do século VIII, muito porque os cavaleiros medievais frequentemente as confundiam com dragões e por isso as matavam com tiros de lança-míssil.
+
+Animais amplamente estudados por eruditos de guaritas de torres medievais, hoje sabe-se que uma andorinha precisa bater as asas 43 vezes por segundo para alcançar velocidades de até 11 m/s².
+
+== Comportamento ==
+
+uma das atividades mais emblemáticas do comportamento das andorinhas é a sua habilidade em carregar cocos de zonas tropicais para zonas temperadas. Uma tarefa que a primeira vista parece tão mundana, na verdade requer toda uma engenhosidade por parte do animal, visto que a proporção de peso é desvantajosa para um pássaro de 100 gramas carregar um coco de meio quilo. Desse modo, para carregar os tais cocos se faz necessário um trabalho em conjunto de duas andorinhas, que aí sim podem carregar um coco usando um cipó preso em suas penas dorsais como amarra. Isso explica porque as andorinhas são animais altamente sociáveis e andam só em bando, porque sabem que sempre vão precisar de um amigo para carregar cocos de um [[continente]] para outro durante as mudanças de estações.
+
+== Gêneros ==
+
+* '''[[Pseudochelidon]]''' - martins africanos
+* '''[[Psalidoprocne]]''' - andorinhas-de-asa-serrilhada
+* '''[[Pseudhirundo]]''' - andorinha-de-rabadilha-cinzenta
+* '''[[Cheramoeca]]''' - andorinha-de-dorso-branco
+* '''[[Phedina]]''' - martin-das-mascarenhas e martin-de-brazza
+* '''[[Riparia]]''' - andorinhas-do-rio
+* '''[[Tachycineta]]''' - andorinhas-arborícolas
+* '''[[Progne]]''' - andorinhas do novo-mundo
+* '''[[Notiochelidon]]''' - andorinhas sul-americanas
+* '''[[Haplochelidon]]''' - andorinha-andina
+* '''[[Atticora]]''' - andorinhas-de-colar
+* '''[[Neochelidon]]''' - andorinha-de-coxa-branca
+* '''[[Stelgidopteryx]]''' - andorinhas-de-asas-grossas
+* '''[[Alopochelidon]]''' - andorinha-de-cabeça-castanha
+* '''[[Hirundo]]''' - andorinhas-das-chaminés
+* '''[[Ptyonoprogne]]''' - martins-do-rochedo
+* '''[[Delichon]]''' - andorinhas comuns
+* '''[[Cecropis]]''' - andorinhas asiáticas
+* '''[[Petrochelidon]]''' - andorinhas-do-penhasco
+
+[[Categoria:Passeriformes]]
+[[Categoria:Hirundinidae|*]]

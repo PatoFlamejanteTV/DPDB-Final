@@ -1,0 +1,59 @@
+{{games}}
+{{Ninja}}
+
+{{Infobox Game
+|title     = Ninja Frutinha
+|image     = Unicornioninja.jpg
+|caption   = O ninja da fruta em pessoa.
+|developer = [[Halfbrick Studios|Meio-tijolo Studios]]
+|publisher = [[Halfbrick Studios|Meio-tijolo Studios]]
+|released  = [[2010]]
+|genre     = Cortar frutas
+|platform  = [[Mobile]] e outros aparelhos esquecidos
+|rating    = 1/2
+|ages      = Recomendado para ninjas
+}}
+
+{{c|AAAAAAAAAAA!|Fruta|Fruit ninja}}
+{{c|Splash!|Fruta em agonia}}
+{{c|MUAHUAHUAHUA|Ninja após cortar uma melancia}}
+{{c|Mulher melancia, você é a próxima|Ninja|[[Mulher Melancia]]}}
+
+'''Fruit Ninja''', foi inventado pelos japoneses, portanto é uma arte milenar. Consiste em cortar frutas loucamente e freneticamente com nenhum objetivo específico. Como já se sabe, todo ninja odeia fruta! É por isso que o samurai incita os frutantes a cortarem as malditas frutas e acabar com essa praga frutosa. 
+
+==Modos de Jogo==
+===Classic Mode===
+[[Arquivo:bananadorgas.jpg|right|thumb|BANANA!]]
+Corte frutas <s>até seu dedo cair</s> sem estourar nenhuma bomba, cada fruta que você cortar vale 1 ponto e cada bomba -10 pontos. Modo de jogo para os noobs que ainda não descobriram o prazer de cortar milhares de frutas no modo arcade.
+
+Detalhe: se você cortar a bomba, será [[Game over]], mesmo que faltem 2 frutas para [[Punheta|bater]] seu récord.
+
+===Arcade mode===
+
+Mais conhecido como modo das bananas que são fudidas ([[O RLY?]]). [[Nerds|Estudiosos]] consideram que dentro das bananas tem [[dorgas]]. 
+
+====Freeze banana ====
+
+[[Arquivo:Dancing_Banana.gif|Banana feliz segundos antes de ser cortada|right|thumb]]
+
+Banana que congela, ela faz tudo ficar mais lento e você consegue dar combos insanos nas frutas fodas. Esta banana contém <s>maconha</s> gelo aprisionado nela.
+
+====Frenzy Banana==== 
+Banana que faz vir frutas de todos os lados e você comba que nemnum maluco. Mais conhecida como banana do capeta, esta banana liberará toda a <s>fruta</s> fúria do ninja levando frutantes à loucura.
+
+====Double Points Banana====
+
+É a banana dos pontos duplos, ela duplica seus pontos (UI!). Está banana é um lixo, não tem dorgas e nem faz nada.
+{{esboço}}
+
+{{Jogos de celular}}
+{{Puzzle}}
+
+[[Categoria:Jogos lançados em 2010]]
+[[Categoria:Jogos para iOS]]
+[[Categoria:Jogos para Android]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para PlayStation Vita]]

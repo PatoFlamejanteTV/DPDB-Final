@@ -1,0 +1,54 @@
+{{pokedex}}
+<choose><br /> 
+<option>{{lutador}}</option> </choose>
+
+{{PokéBox
+| imagem = 066Machop.png
+| frase = Machop colocando [[Equipe Rocket|alguém]] pra decolar de novo!
+| tamanho = 250
+| pokedex = 066
+| tipo1 = Fighting
+| tipo2 = 
+| nihongo = ワンリキー
+| romaji = Wanriky
+| habilidade1 = Ser inútil (até evoluir)
+| espécie = <center>Trombadinha
+| cadeia evolutiva = [[Arquivo:MachopSprite.gif|link=Machop|Machop]][[Arquivo:Seta.JPG|30px]][[Arquivo:MachokeSprite.gif|link=Machoke|Machoke]] [[Arquivo:Seta.JPG|30px]][[Arquivo:MachampSprite.gif|link=Machamp|Machamp]]
+}}
+{{você quis dizer|Macho}}
+{{c|Bom, isso depende da orientação sexual do seu treinador...|Pokédex|Ciatação do Google}}
+{{c|Guoh! Gogogoh!|Machop pisoteando a terra achatada em Vermilion}}
+{{c|Makchôp, te golpea con el [[caráter]]|Josué Yrión duvidando da integridade de Machop}}
+
+[[Arquivo:MachopSprite.gif|left]] '''Machop''' é o [[pokémon]] #66 da primeira geração. Um bichinho que parece ser bem fofinho e [[kawaii]] ([[ou não]]), mas pode fazer [[qualquer um]] voar com um soco. O seu nome deve-se a uma brincadeira machista, onde ele é confundido com um macho que toma chope.
+
+==Características==
+
+Machop é um pokémon do tipo lutador, fato que pode ser facilmente comprovado se [[você]] xingar a mãe dele, portanto não tente fazer isso se não quiser [[Equipe Rocket|decolar na velocidade da luz]]. Apesar de ser baixinho, há rumores de que um Machop consegue carregar um [[Golem]] sozinho, provavelmente porque é um Golem de isopor, ou então deram a poção do [[Asterix]] para esse Machop. É um pokémon bastante visado por treinadores [[noob]]s, por ser relativamente forte para um pokémon comum, e também por carregadores de móveis das [[Casas Bahia]]. Fora isso, não tem grande utilidade, não servindo para outras coisas que não exijam o emprego de força física.
+
+Por ser um pokémon comum, é possível tropeçar em Machops dependendo da rota de Kanto, Johto, Hoenn ou Sinnoh, depende da versão que você joga ou da temporada do [[anime]]. Segundo a Pokédex, Machop é um pokémon de montanha, mas na verdade eles podem ser achados em praticamente qualquer tipo de lugar, desde a Victory Road até a Mansão de Cinnabar, locais não muito montanhosos. É um pokémon indicado para noobs que nunca conseguiram pegar outro lutador, e se não puderem capturar nem um Machop, é melhor desistir de uma vez. Para capturar um Machop selvagem, basta enfrentá-lo com um pokémon capaz de suportar murros e pontapés, única coisa que um Machop sabe fazer bem; só não vá usar o seu lindo pokémon normal, a não ser que o seu objetivo seja se livrar do tal pokémon. ''K. O.''
+
+[[Arquivo:machop2.jpg|160px|thumb|left|Um Machop [[hippie]]. Paz e Amor.]]
+
+Treinar um Machop capturado não costuma ser uma tarefa muito complexa, a não ser quando o pokémon quebra os sofás que ele deveria carregar. Depois de muita mobília transportada e alguns oponentes lançados para a estratosfera, eventualmente um Machop pode evoluir para [[Machoke]], uma versão azul e mais bombada do Machop, sem nenhuma outra grande diferença, já que continuará fazendo de sua vida socos e chutes. Machops aprendem desde cedo a dar golpes de caratê e acertar chutes no saco do adversário para derrubá-lo mais rapidamente, embora a maioria prefira mesmo o bom e velho murro na cara, que também faz tombar até a ressaca do [[Jeremias]]. Por isso é uma boa opção para começar uma batalha PvP, usando técnicas baratas e até que boas, pelo menos até o outro treinador se invocar e colocar um psíquico no jogo.
+
+==Curiosidades==
+
+São fatos sobre qualquer Machop...
+
+*São ostensivamente usados no joguinho de cartas porque batem 20 com 1 energia (WTF?)?
+
+*Machops dominam perfeitamente o [[Love Hina|Narusegawa Roundhouse Punch]]?
+
+*Machops tem os musculos que qualquer guri retardado sonha ter apesar de sua bariga parecer  mostrar suas costelas?
+
+==Veja Também==
+
+[[Machoke]]
+
+[[Mankey]]
+
+[[Abra]]
+
+{{poke1}}
+[[Categoria:Lagartos]]

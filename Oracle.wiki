@@ -1,0 +1,29 @@
+
+{{Esboço}}
+
+O '''Orakou''' é um SGBD (Sistema de Gays ou Bibas Demoníacas ) que surgiu no fim dos anos 70, quando Larry Ellison vislumbrou uma oportunidade que outras companhias não haviam percebido, quando encontrou uma descrição de um protótipo funcional de um banco de dados relacional e descobriu que nenhuma empresa tinha se empenhado em comercializar essa tecnologia.
+
+{{C|O [[SQL Server]] e mais rapido.|[[Bill Gates]]|Orakou}}
+
+{{C|Na [[Uniao sovietica]] o Oracle dropa [[você]].|DBA Russo|Orakou}}
+
+{{C|Eu já ví isso antes.|Postgresql sobre Orakou}}
+
+{{C|O que é essa porra?|NOOB sobre Orakou}}
+
+{{C|Fui confundido uma vez com um tal DebeÁ Orakou.|Roberto Justus quando foi confundido com um DBA pelo repórter}}
+
+{{C|Vou ter que perguntar ao oráculo!!.|Neo (matrix)}}
+
+
+
+
+==Histórico==
+
+Após a versão 9i (onde ''"i"'' é de [[idiota]]), foram lançadas as versões [[Gay]], denominadas 10g e posteriormente 11g. O oracle é mágico, seja lá qual for o problema de sincronismo, lock, update, etc, ele resolve, ou não. 
+[[Arquivo:Ch2.jpg|thumb|right|185px|A criadora do sistema, o oráculo do 71.]]
+Basta ter umas máquinas ligadas em cluster, onde cada uma tenha cerca de 10 processadores, Alguns TB de disco IDE (Não roda em SCSI) e aproximadamente 30 GB de memória [[RAM]]. Inclusive a associação nacional dos cabelereiros lançou um alerta sobre a possibilidade de faltar pentes no mercado, devido ao alto consumo de pentes de memória causado pelos servidores que rodam Oracle, principalmente ser for um dos sistemas operacionais de [[Bill Gates]].
+
+==Prodouto<s>s</s> de Sucesso==
+
+*[[J2ME (sistema operacional de celulares)]]

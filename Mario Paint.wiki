@@ -1,0 +1,57 @@
+{{game}}
+
+{{Infobox Game
+|title     = Mario Paint
+|image     = Mario Paint box.jpg
+|caption   = Sim, essa aberração tem capa
+|developer = [[Nintendo|Nãointendo]]
+|publisher = [[Nintendo|Nãointendo]]
+|released  = [[1992]]
+|genre     = Arte
+|rating    = 0%
+|platform  = [[SNES]]
+|ages      = Livre
+}}
+
+{{c|Foi daí que eu tirei o Microsoft Paint.|[[Bill Gates]]|Mario Paint}}
+ 
+'''Mario Paint''' é um jogo de pixel art criado pela empresa serra leonense [[Nintendo]] que tem como objetivo único no jogo: desenhar.
+
+== Que graça tem isso? ==
+Absolutamente nenhuma. Esse joguinho de [[merda]] só foi feito para aumentar a popularidade do [[Mario]]
+(que Mario?). E também é praticamente o único jogo que é obrigatório o uso do Super NES Mouse. E ainda vem com um mouse-pad de plástico! Mas você provavelmente só irá encontrar esse acessório inútil na Uruguaiana usado, todo amarelado e com os botões quebrados. É mais raro encontrar essa quinquilharia do que encontrar o [[Mewtwo]].
+
+== STOP. <s>Hammer Time!</s> ==
+Pare alguns minutos da sua vida sem significado e veja isso, isso é, o que você nunca conseguiu e nunca conseguirá fazer no criador/compositor de música.  
+
+<YouTube>
+title= Mega Man 2 Dr. Wily's Stage 1 Theme on Mario Paint
+movie_url= http://www.youtube.com/v/EDWSeFvIP5s
+embed_source_url= http://www.youtube.com/v/EDWSeFvIP5s
+wrap= no
+width= 400
+height= 300
+</YouTube>
+
+
+Nele você também pode fazer ''musiquinhas pra cá, musiquinhas pra lá, e com as musiquinhas tu vai ter que se virar.''
+
+== Só isso? ==
+Não. Ainda tem mais. Nele você também pode fazer pequenas animações com até no máximo 9 quadros. Mas você não vai poder usar esses quadros para fazer nenhum GIF animado com o [[Adobe Image Ready]].
+
+== Isso é um jogo ou é só dinheiro jogado fora? ==
+Dá pra esperar? Esse incrível jogo ainda vem com umas figurinhas pra colorir do jeito que você quiser. Mas caso você queira salvar alguma coisa como uma musiquinha ou uma figura, você é obrigado a ver uma animação tosquíssima que leva mais de um minuto para salvar uma simples imagem.
+
+== É só isso mesmo? ==
+Não, para não dizer que é dinheiro jogado fora, o [[autor]] deste jogo ainda colocou umas moscas idiotas para você passar o dia inteiro matando. Se o jogo não travar e você ter que começar de novo.
+
+[[Arquivo:Mario Paint 00000.png|thumb|300px|center|Animação tosca que você é obrigado a ver durante quase 2 minutos para salvar uma mísera imagem. E enquanto você salva a imagem, seu trabalho sai por aquela torneirinha.]]
+
+{{Super Mario}}
+{{oposto|Art Alive!}}
+
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos lançados em 1992]]
+
+[[ja:マリオペイント]]

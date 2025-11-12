@@ -1,0 +1,17 @@
+[[Arquivo:Mosestheprogrammer.jpg|thumb|[[Moisés]] lendo os ''Mandamentos Binários''.]]
+O '''Dia do Programador''' é uma data festiva no 256º dia do ano, celebrada em boa parte por <s>[[nerd]]s tapados</s> [[programador]]es (duh). Esta é uma data significativa para os programadores, porque 256 é igual a 2 elevado à 8ª potência, e 8 é o números de bits de um tipo byte de dado.
+
+[[Mundo]] afora, a tradição inclui comportar-se de forma retardada, editar erroneamente a [[Wikipedia]], codificar programas [[POG]], jogar [[CS]], programar com velhos [[computador]]es, etc. Tudo isso, é claro, sob a condição de que o celebrante tenha feito <s>códigos de qualidade</s> [[POG]] nos outros dias do ano, e tenha tentado ao máximo não se comportar como retardado nos outros dias. Para estes programadores (leia-se todos) que estão habituados a "celebrações" em todos os dias de sua [[vida]], esta data festiva é injustificada, e considerada redundante por alguns.
+
+O Dia do Programador geralmente cai no dia [[13]] de [[setembro]], exceto em anos bissextos, nos quais ele é comemorado no dia 12 de setembro, pois esse é o 256º dia do ano.
+
+== No Brasil ==
+No [[Brasil]], a tradição ainda não existe, mas a data já se apresenta em "spams" de e-mails, fazendo com que a leitura de algum [[spam]] também seja parte da celebração. Além disso, no meio acadêmico, a data deve proporcionar um encontro dos primeiros programadores locais com os atuais, promovendo palestras e minicursos de linguagens que não são mais utilizadas, além de [[Assembly|Assembleia]], [[COBOL|BOCOL]] e [[Fortran|Fracan]], para que suas sintaxes não sejam esquecidas no futuro próximo.
+
+Conversar sobre programação com quem não entende nada e assistir a filmes como [[Guerra nas Estrelas]] também devem fazer parte dessa celebração.
+Além de fumar cigarros vagabundos e falar sobre o teclado queimado pelo uso do mesmo como cinzeiro, sem falar nas disputas para saber quem ficou mais tempo acordado programando.
+Os programadores que gostam de ser lembrados e conhecidos como "garotos de programa" costumam fazer programas mais baratos para celebrar (mas só para o computador viu?). Mas mesmo assim, no futuro todos os programadores ficam iguais: barbudos, cabeludos, de óculos e gordos.
+
+[[Categoria:Feriados]]
+
+[[pl:Dzień Programisty]]

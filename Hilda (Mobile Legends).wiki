@@ -1,0 +1,89 @@
+{{DISPLAYTITLE|Hilda}} 
+
+{{Box HeroMlbb
+|cor_titulo  =#DAA520
+|cor_imagem  =#FFDEAD
+|titulo      =Machona do velho Oeste
+|resenha     =Um olhar de desprezo para certos homens
+|imagem      =Hilda cosplay.jpeg
+|nome        =Hilda 
+|apelido     =Homan da Porra
+|origem      =Vale do Norte <br>[[Megalith Wasteland]] 
+|classe      =Soldado/Tank
+|lane        =Side da XP ou Rotacionar
+|feitiço     =Eliminar 
+|dificuldade =Não é pra qualquer um, inclusive para os que dizem ser macho 
+|fx          =Transformar as bixas em homens de verdade; <br> E fazer ADC sumir 
+|util_p      ={{066}} Depende da comp
+|util_h      ={{099}} Altamente eficiente contra heróis de masculinidade frágil. 
+|raça        =Machon do Caralho
+|conhecido   =Ninguém. 
+|inimigo     =Homens sensíveis
+}} 
+
+{{vqd|Marinheira?|Hilda}} 
+{{C|Ela é uma das minhas favoritas|Chuck Norris|'''Hilda'''}}
+{{C|Tudo o que eu sei aprendi com ela|Xandão|'''Hilda'''}} 
+{{C|Hur... Que tipo de monstro se diz ser mulher?|<s>Gado</s> [[Lancelot (Mobile Legends)|Lancelot]] e outros heróis de masculinidade inferior|'''Hilda'''}} 
+{{C|Vamos cancelar eles minas!!!|Blogueiras canceladoras usando '''Hilda'''}} 
+{{C|Venha, não seja um pamonha!|Fala da '''Hilda''', a mesma que no jogo se esconde na moita ou corre pra longe quando algo dá merda}}
+
+A '''Hilda''' é um personagem [[MOBA]] de [[Mobile Legends]], e é da categoria de heroínas que arrasam os ditos "homens" na porrada, mas ao invés de fazer uso de posturas de classe ou de habilidades complexa e belas aos olhos, temos o uso da pura força braçal pra fazê-los chorar. É mais uma das criações da [[Moonton]] (que ainda eram criativas na época) pra satisfazer um certo público alvo aí.
+
+== História ==
+
+Em um lugar que serve de passagem entre [[Império Moniyan|florestas imperiais]] e a [[Vale do Norte|terra do Pai Inverno]], é o local onde a '''Hilda''' nasceu, o mesmo local onde os recursos para a sobrevivência tem a mesma raridade que água no [[Saara]] e também é o mesmo lugar em que vivem clãs bárbaros que lutam quase 24 horas por dia durante o ano inteiro por esses recursos.
+
+O clã Garland, na qual a Hilda nasceu, era uma organização tribal que segue a lei da selva <s>embora não vivessem em uma</s> e é considerado o clã mais forte da região atualmente, não por competência mas por ter a proteção do [[Poder Megálito]], algo que nem a própria história do jogo explica direito (típico da [[Moonton]] e seus estagiários) mas que graças ao líder da tribo que detinha esse poder, garantiu a sobrevivência do clã contra o Frio do Ártico, contra os monstros da região e até contra os outros clãs que queriam as entranhas deles.
+
+O clã tinha muita expectativa sobre a Hilda, afinal ela era a descendente da líder do clã que acabou morrendo num combate estilo [[300]], pois quando chegar a idade adulta é possível herdar a capacidade de usar o tal Poder Megálito com um certo ritual, e assim garantir qualquer luta do clã tranquilamente. Sendo assim, fizeram a Hilda adotar uma versão beta do [[treinamento espartano]], aprendendo desde cedo o ofício da caçada, e não demorou muito para ela desenvolver essas toras com o qual o chamamos de braços, além de ter outras mudanças físicas notáveis. 
+
+[[Arquivo:Meme chad textao.png|thumb|[[Você]] sobre a história da '''Hilda''']]
+
+Completando 20 anos, Hilda foi pro local de cerimônia para herdar o Poder Megalito e tudo o que precisava fazer era levantar um disco de pedra de dezenas de toneladas, as pessoas do clã Garland (que agora se encontra em decadência) assistiram o evento com expectativa de sucesso mas eu e você sabemos que tamanha estupidez não daria certo e ela não conseguiu levantar, afinal o motivo era óbvio, a Hilda não era filha biológica da antiga detentora e foi adotada pela líder, sim, esse é o motivo.
+
+Quem disse essa informação foi ancião do clã, e foi SOMENTE neste exato momento que ele cantou essa pedra que nem a própria Hilda sabia e, advinha? as pessoas do clã ao invés de linchar o ancião foram fazer isso com a Hilda, a pobre macha nessa situação lembrou de uma frase longa da sua "mãe" mas que dizia resumidamente que "O Poder do Megálito não é simplesmente herdado" e com essas palavras e com sua frustração, ela saiu da sua terra natal e viajou por quase toda a ''Terra do Amanhecer'' como uma mercenária.
+
+Anos depois, em uma certa missão, a Hilda resgatou uma escrava e ela reconheceu como membro do clã Garland, a escrava contou que o clã conseguiu uma nova liderança e que o mesmo conseguiu o Poder Megálito mas como o líder é um moleque, o clã se encontra no fundo do poço e subjugado por outro tribo da região. Ao ouvir isso, a Hilda tomou a decisão de voltar para [[Megalith Wasteland]] e reestruturar o seu clã, ela se lembra claramente do tratamento que recebeu do seu clã ao sair mas mesmo assim voltou a ajudar, expulsando o tribo inimigo com os punhos nus e dando um esporro no líder do clã, claro.
+
+No final, o clã é reconstruído e todo mundo aprende que a ancestralidade não tem nada a ver em como herdar o [[Poder Megálito]] e também que uma liderança digna é muito melhor que uma sob a de um retardado, eles até propuseram a Hilda como uma nova líder do clã e esperavam que ela ficassem mas não aceitou, a Hilda queria herdar esse poder para liderar a tribo mas não sabia, pois segundo outro trecho das longa frase da mãe dela "O Poder Megálito de cada geração tinha seu próprio significado único" e a Hilda não sabia o que esse poder significa para si.
+
+No verdadeiro final, a Hilda volta mais uma vez a trilhar em uma terra estrangeira mas mantêm em mente que ela acharia o seu significado para esse poder e um dia o herdaria.
+
+== Rework ==
+
+[[Arquivo:Meme - Dança do caixão.jpg|thumb|Você voltando base após a Hilda te ultar]]
+
+Com a chegada do [[Projeto NEXT]], onde a [[Moonton]] teve que "melhorar" o jogo pela pressão de perder jogadores pro [[League of Legends: Wild Rift|Wilson Rifit]], muitos heróis esquecidos e inúteis foram retrabalhados e [[Buff|buffados]], sendo a '''Hilda''' uma delas.
+
+Antigamente a Hilda, assim como outros bonecos antes do rework, era forte na cabeça de poucos (só na cabeça, na pratica era um lixo), era difícil fazer um x1 sincero com outros bonecos mas pelo menos dava mais dano que a [[Hanabi]] e a passiva dela tinha 20 stacks, o que tornava difícil chegar no real potencial dessa cabra. Com a chegada do rework deu uma melhorada, onde mudaram a passiva, mudaram as imagens das habilidades, mudaram até a história da seção acima que a maioria deve ter pulado um pouco, afinal a antiga história era mais curtinha que esse textão.
+
+Agora a Hilda consegue curar e tankar mais, dar mais dano, correr mais rápido e também pode solar a maioria dos personagens papéis, ou seja, todos os requisitos para ser meta ban no Épico. Na verdade a Hilda ficou tão forte quando lançaram o rework dela que a Moonton precisou nerfar de novo, porque a Marombeira estava muito quebrada.
+
+== Habilidades ==
+
+*'''Passiva - Bênção da Terra Selvagem:''' Essa passiva de ''macho'' funciona da seguinte maneira: Quando estiver no matinho, vai ganhar escudo e regeneração e vai aumentar a brutalidade da Ultimate a cada kill ou assistência. Quer saber mais? Aprende na raça. 
+
+*'''Primeira Habilidade - Ritual de Guerra:''' também chamado de ''Correr pra Caralho'', é uma habilidade que permite aplicar adrenalina na veia e fazer ela correr avoada atrás dos seus inimigos. Além disso seu ataque básico é melhorado, causando dano extra e lentidão. Sendo mais efetivo contra os "homens pamonhas". 
+
+*'''Segunda Habilidade - Arte da Caça:''' Hilda faz uso da sua marreta para dialogar com seus inimigos, empregando três argumentos extremamente fortes e sendo o último deles o mais irrefutável, empurrando um pouco os adversários ao redor. 
+
+*'''Ultimate - Poder da Natureza:''' Mais conhecido como ''Deletador'', prove da natureza hétera desta ultimate, no qual o inimigo sofre uma marretada em sua cabeça e faz o mesmo descansar no limbo. É dito que o golpe é forte o suficiente pra mudar um homem (deformando a aparência, claro). 
+
+== Dicas ==
+
+*'''Como jogar:''' Hilda é uma {{cor|red|Soldada}} que exala sua força no early game, sendo assim, use esse período para pressionar o time inimigo na selva até eles quitarem. 
+
+*'''O que é preciso na Build:''' É de conhecimento de todos os 'Mains Hilda' que a ''Build de Maxxxxo'' é a que serve melhor nela, que são um conjunto de itens explosivos e com a '''Sete Mares''' sendo o catalisador do dano, garantindo uma morte instantânea numa Ultimate completamente stackada sobre qualquer herói papel. 
+
+*'''Como agir na lane:''' No caso de ''Rotação'', sua função inicialmente é expulsar o jungle inimigo da própria selva pois a mesma pertence a ela e é só '''DELA''' e, passado algum tempo, ela adota a função clássica como um tank. Já na side, ela é designada para enfrentar soldados ou ADC's, e da mesma maneira adote a ofensiva pois a violência é a solução. 
+
+*'''Como cauterar a Hilda:''' Para cauterar essa cabra macha é necessário alguém do mesmo calibre, sendo esse um indivíduo forte e resistente num x1 sincero ou fazer 5v1 com ela (ou simplesmente usar essa [[Esmeralda (Mobile Legends)|cigana]] para o azar da Hilda). Fora desses padrões, é melhor nem tentar a sorte, principalmente os homens, já que são mais propensos à humilhação.
+
+== Ver também == 
+
+{{Mlbb}}
+
+[[Categoria:Personagens de Mobile Legends: Bang Bang]]
+[[Categoria:Pessoas que correm pra caralho]] 
+[[Categoria:Hentai Girl]]

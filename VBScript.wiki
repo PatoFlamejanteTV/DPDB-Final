@@ -1,0 +1,30 @@
+{{expandir}}
+
+{{Você quis dizer|Porcaria}}
+{{c|VBScript é uma bosta! Não tem ponteiros, não é orientada a objetos, e não gerencia memória!|Programador Java sobre VBscript}}
+{{c|Mas nossas hospedagens são bem baratas! Aliás, não precisamos pagar por memória reservada!|Programador VBScript sobre Java}}
+{{c|O que é isso?|Pessoa Normal|VBscript}}
+
+[[Arquivo:vbscript.jpg|thumb|200px|Típico usuário de VBScript.]] 
+O '''VBScript''' também chamado de VBS pelos mais íntimos, é uma porcaria criada pela [[Microsoft]] no século passado e usado até hoje por aqueles que desejam manter um Windows Server 2003 rodando na marra até hoje. É bastante utilizado para automações de tarefas como limpar a lixeira do servidor, exibir uma caixa de mensagem de boas vindas, dentre outras ''utilidades''.
+
+Depois de ver que o Visual Basic vinha sendo muito utilizado pelos [[nerds]] de todo o mundo que não tinham capacidade para aprender [[Java]] ou o C++, criaram a [[merda]] do VBscript. Esses infelizes usam essa aberração da Microsoft, costumam trocar com os colegas de infância e são revoltados por serem cabaços depois dos 18 anos.
+
+== Principais consumidores ==
+
+[[Nerds]] estudantes de Sistemas de Informação, cabaços autônomos, estudantes de Ciência da Computação que não conseguiram aprender C++, Pascal, Assembly mesmo depois de tantos anos de sacrifício dos professores, e, por último, os idiotas que acham o nome bonito!
+
+==Finalidade ==
+Para satisfazer os cabaços da Microsoft que queriam um ''[[shell script]] for Windows''.
+
+== Criação ==
+De acordo com o [[Bill Gates]] foi a [[Al Qaeda]], mas a mesma coloca a culpa no Islâ, e ninguém se responsabilizou até o momento.
+
+== Uso ==
+Empresas de pequeno a pequeníssimo porte, alem de [[nerds]], [[idiotas]], [[você]], [[tua mãe]], cheiradores de gatinho, etc...
+
+[[en:VBScript]]
+
+
+
+{{Linguagens de Programação}}

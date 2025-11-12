@@ -1,0 +1,38 @@
+{{nerd}}
+
+{{fato|que [[Linus Torvalds]] roda o [[Microsoft Office]] no Linux sem o Wine? E que funciona melhor do que no próprio Windows??}}
+{{Experimente também|usar o [[Windows]]}}
+{{C|Porque você não instala logo o [[Windows]]?|Alguém lúcido sobre o [[Wine]]|}}
+{{C|No Pain No Gain.|Usuário [[Linux]] masoquista sobre a pergunta acima|}}
+{{C|Quero ver você instalar o [[Adobe Photoshop]] no seu linux|Usuário de Windows|Linux não ter programas}}
+{{C|Pronto!|Usuário de Linux|a frase acima}}
+{{C|I drink it everyday|alguém que fez Fisk|beber [[vinho|wine]]}}
+<br><br>
+
+'''Wine''' (<s>[[Acre]]</s>Acrônimo para '''Wi'''ne '''I'''s '''N'''ot an '''E'''mulator, ou, em [[português]]: ''WINE NÃO É UM EMULADOR, SUA MULA!!!'') é um [[emulador]] de [[Windows]], sendo uma camada de compatibilidade utilizada por [[virus|malwares]] de Windows para infectar sistemas com melhores defesas de segurança, como o [[laptop da xuxa]].
+
+Esta é a principal porta de entrada de vírus nestes sistemas, uma vez que malwares sempre vêm junto dos programas para Windows.
+
+==Utilização==
+[[Arquivo:Bluescreen.gif|thumb|Wine emulando o Windows com perfeição]]
+
+Wine é uma [[gambiarra]] criada por pessoas que odeiam o Titio [[Bill Gates|Gates]] para falsificar o Windows, mas sem falsificar o Windows.
+<br><br>Não entendeu? <s>pare de ser burro,</s> Por exemplo: vamos supor que alguém quer jogar [[LoL]] e ela é uma pessoa normal. ela simplesmente entra no site e baixa o [[.exe]] do jogo. Mas se a pessoa for algum tipo de nerd, como usuários de [[Linux]] ou Mac OS, ela precisará de um emulador de Windows, já que a desenvolvedora do jogo (assim como qualquer empresa decente) não faz uma versão do jogo para Linux.
+
+===Quem utiliza===
+[[Arquivo:Bebevinho.jpg|thumb|Left|200px|Existem duas versões do [[vinho]]. Este artigo se trata do programa de computador, mas a versão desta foto se trata da bebida alcoólica]]
+*[[Você]], pois se não utilizasse, não perderia seu tempo lendo essa porra de artigo
+* [[Eu]], pois se não utilizasse, estaria escrevendo um artigo sobre outra coisa
+* Usuários de [[Linux Mint|Linux]] (ou seja: Você de novo)
+* Usuários de [[Mac OS]] (ou seja: você não, porque você não tem dinheiro para comprar algo que rode este sistema)
+*[[Mendigos]] da informática, que não possuem dinheiro para pagar a licença do tio Bill, mas precisa dos recursos que o [[Windows]] oferece, apesar de ficar dizendo que o sistema é uma [[bosta]].
+
+===Quem '''não''' utiliza===
+* Usuários de windows, porque o sistema deles já roda o que você quer rodar ([[ou não]])
+
+==PlayOnLinux==
+Uma vez que exista tantos [[noob]]s no Linux, foi criada uma forma ainda mais <s>[[difícil]]</s> [[fácil]] de se utilizar suas <s>des</s>funcionalidades: o PlayOnLinux (Inglês para "''Jogue seu Linux Fora''"). O PlayOnLinux cria uma [[GUI|Interface Gráfica]] para o Wine com o intuito de facilitar a instalação de [[programa]]s, e, em suas versões mais recentes, ele mesmo já traz uma lista de programas "testados e debugados"   ''(carece de fontes)'' [[?]]
+
+
+{{linux}}
+[[Categoria:Linux]]

@@ -1,0 +1,81 @@
+{{quimica}}
+
+[[Arquivo:Iceberg de merda.jpg|thumb|[[Iceberg]] de merda, exemplo de material altamente denso, e que por isso boia. Você acha que materiais menos densos boiam e mais densos afundam? [[N00b]]! Leia o artigo.]]
+
+{{fato|ao contrário do que se prega, quanto mais denso um material, melhor ele boia}}
+
+'''Densidade''' é uma [[grandeza física]] usada para definir se algo boia ou não. É basicamente uma comparação de um determinado material com a [[merda]].
+
+==Fórmula==
+A densidade é dada pela seguinte relação [[matemática]]:
+
+<math>D = \frac{m}{V}</math>
+
+Onde:
+*'''D''' = Densidade (já sabia, né gênio!)
+*'''m''' = massa
+*'''V''' = volume
+
+Lê-se: {{C|Densidade é a razão entre a merda e seu volume}}
+
+Muitos [[pseudociência|teóricos]] argumentam ser '''m''' o valor da massa do material em questão. Simplesmente ignore-os, são uns [[otário]]s. Afinal se a densidade serve pra saber se algo vai boiar, nada mais [[capitão Óbvio|óbvio]] do que usar a merda como referência.
+
+==Unidade de medida==
+
+A unidade de medida no [[Sistema Internacional de Medidas|Sistema Internacional]] é o ''[[Quilos de carne pra 20 comer|kg]]/[[metro|m]]<sup>[[3]]</sup>'', usada [[mundo|mundialmente]], exceto nos [[Estados Unidos|gringos]], pois eles são muito bons para usar um sistema de medidas [[comunismo|igual ao de todos]], até mesmo dos [[pobre|países subdesenvolvidos]]!
+
+Como nos Estados Unidos a unidade de massa é a [[libra]] (''lb'' ou ''pd'', já que lá é chamada ''pound''), e a unidade de comprimemento é a [[Futebol Americano|jarda]] (''yd''), e desta última por consequência a unidade de volume seria a jarda cúbica (''jd<sup>3</sup>''), então a unidade de medida de densidade [[estadunidense|gringa]] é ''lb/jd<sup>3</sup>'', ou, como se diz por lá, ''lbppd<sup>3</sup>'', já que lá eles detestam aquela barrinha, preferindo o ''p'' de ''per'', uma verdadeira babaquice. É claro que para manter a coerência dimensinal entre as unidades de medida, é preciso usar a módica [[constante matemática]] 2,8835375236016251961054519950976.<ref>É sério!</ref> Gringo é muito otário mesmo!
+
+Mas isso não é tudo: a unidade de medida mais comum não é nem a do sistema internacional, nem aquela gambiarra ali em cima. A unidade mais comum é o ''g/mL''. Por quê? Pra complicar a sua vida!
+
+==O que "pesa" mais? ==
+É muito comum ouvir tal pergunta, ou similares a esta: {{C|O que pesa mais: um quilo de [[chumbo]], um quilo de [[feno]], um quilo de [[bife à milanesa]] ou um quilo de [[merda]]?}}
+
+A definição de peso é dada pela relação entre '''m''' (merda) e G ([[ponto G]], ou [[constante gravitacional]]), e acaba sendo um equívoco, uma vez que, me [[planeta]]s iguais, todos pesam o mesmo. O correto seria perguntar: {{C|O que é mais denso: um quilo de chumbo, um quilo de feno, um quilo de bife à milanesa ou um quilo de merda?}}
+
+Ora, formulada assim a questão fica mais fácil entender a propriedades de diferentes materiais, como se demonstrará:
+
+===Feno===
+[[Arquivo:Tumbleweed.gif|center|thumb|550px|Feno, material de densidade inexistente. Afunda mais que [[Estados Unidos]] em [[Crise Econômica Mundial de 2008|recessão]].]]
+De todos, um quilograma de feno é o menos denso, pois "feno = [[Acre]]" e Acre tem volume zero (pois não existe).
+
+Dada a fórmula da densidade (D = m/V) , pra feno temos: 
+
+<math>D(f) = \frac{1 kg}{0}</math>
+
+Como sabemos, [[divisão por zero]], assim como o Acre, [[non ecziste]].
+
+===Merda===
+Enquanto no caso da merda temos:
+
+<math>D(m) = \frac{1 kg}{7 L}</math><ref>7 Litros é o volume médio de um [[vaso sanitário]], duvida? [[wp:vaso sanitário|tenta ver na Wikipédia]]</ref>
+
+Segue:
+
+<math>D(m) = 0,14285714285714285714285714285714 kg/m^3</math>
+
+===O bife à milanesa e o chumbo===
+
+Embora não se possa afirmar categoricamente, crê-se que nos casos do bife a milanesa e do chumbo, a concentração de merda (Q(m)) seja menor, em primeiro lugar no chumbo, que nunca será merda (merda boia, chumbo afunda), e em segundo lugar no bife à milanesa. O bife à milanesa (BM), no entanto, merece uma análise mais detalhada.
+
+O BM certamente enquadra-se em um dos dois casos: ou já é uma merda, dependendo de quem o preparou, ou será uma merda depois de comido.
+
+===Conclusão===
+Isto posto, podemos concluir que a ordem da densidade dos materiais tomados por exemplo é:
+
+#1 kg de [[merda]] (maior ''Q(m)''), densidade aproximada de 0,14285714285714285714285714285714 kg/m<sup>3</sup>
+#1 kg de [[bife]] à milanesa (menor ''Q(m)'')
+#1 kg de [[chumbo]] (''Q(m)'' ínfimo, tendendo a zero)
+#1 kg de [[feno]] (pois feno = Acre, portanto tem ''Q(m) = 0'')
+
+Sabendo-se que quanto mais denso, mais boia: A merda boia mais (vide [[iceberg de merda]]), e o feno afunda fácil.
+
+== Ver também ==
+*[[Densidade populacional]]
+*[[Iceberg de merda]]
+
+{{ref-section}}
+
+[[Categoria:Física]]
+[[Categoria:Química]]
+[[Categoria:Grandezas físicas]]

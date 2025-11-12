@@ -1,0 +1,50 @@
+{{Livro}}
+
+{{Info Livro
+|Nome       = Prolixidade para Falar da Metafísica dos Costumes
+|Imagem     = Fundamentação da Metafísica dos Costumes.png
+|Legenda    = Capa da versão brasileira
+|Autor      = [[Immanuel Kant|Immanuel Quente]]
+|País       = {{POL}}
+|Gênero     = Prolixidade pura
+|Editora    = -
+|Lançamento = [[1785]]
+}}
+
+'''Fundamentação da Metafísica dos Costumes''' é o livro introdutório de [[Immanuel Kant|Manuel Quente]] sobre sua [[filosofia]] [[ética]], um livro obscuro da obra deste filósofo porque logo depois ele lançaria [[Crítica da Razão Prática]] e [[Crítica da Razão Pura]], dois livros ainda mais prolixos que este, então os filósofos metidos a espertalhões ficariam lendo e relendo só as críticas de Kant.
+
+== Estudos ==
+
+Esta singela obra é considerada um dos livros de maior importância da filosofia visto o desafio grandioso que é necessário fazer para concluir sequer um único parágrafo sem enjoar dessa leitura ou dormir no meio do processo. Se a intenção for então entender o que Kant tenta dizer, aí é melhor nem tentar, as poucas pessoas no mundo que dizem compreender esse livro na verdade apenas inventam qualquer coisa e dizem que o livro se trata daquilo que estão falando, pois o livro foi escrito em idioma kantiano, de modo que palavras como "objetividade" e "subjetividade" podem ter o mesmo significado, do mesmo modo que imperativo categórico, mesmo sendo só um, pode aparecer no plural como imperativos categóricos, e assim por diante em várias assimetrias semânticas similares. Acontece que Kant, genialmente, durante toda leitura chama as pessoas de burras, e que por serem burras não compreenderão seus textos, então quem finge entender este livro o faz para se fazer de inteligente.
+
+== Estrutura do livro ==
+=== Prefácio ===
+
+Nesta breve introdução Kant tenta, sem sucesso, explicar porque escolheu chamar o livro de "metafísica dos costumes" e não de "ética" ou "moral", e embora não consiga ser muito claro nos seus motivos, é exatamente essa falta de clareza que explica a escolha do título do livro, pois chamando-se "metafísica dos costumes" pareceria muito mais pedante, arrogante e pretensioso, tudo o que Kant essencialmente gosta de ser.
+
+Dessa forma, Kant define a ética como ciência das leis da liberdade, e como parece ter um certo vício em ridicularizar o pensamento dos outros, diz que nas três seções de seu livrinho, vai pegar o "conhecimento moral da razão vulgar" e "filosofia moral popular" (modo bonito de dizer "filosofia do senso comum feita por leigos burros") e adaptar para sua filosofia supostamente irrefutável, incrível e fabulosa.
+
+=== Seção I ===
+
+Como precursor do [[Capitão Óbvio]], Kant já começa com sua pérolas ao dizer que o que é bom, é bom, mas bom sem limitação, ou seja, a boa vontade que seja intrinsecamente boa. É a partir desse pressuposto ridículo que o resto desse livro e de todos demais livros de Kant vão se basear.
+
+É nesse momento que Kant define que a [[felicidade]] não é um bom sem limitação e que para ser ético é necessário ser infeliz, seguir as regras, ser uma pessoa desgraçada, ele dá até um exemplo de que se uma pessoa deseja se suicidar ela só será considerada moralmente aceita se não se suicidar e aguente as infelicidades de uma vida miserável.
+
+É para explicar esse apego à vida desgraçada que é introduzido o conceito de "[[dever]]", que consiste em agradar os outros por obrigação, de modo que puxar o saco dos outros (caridade) seja a melhor forma de ser moral.
+
+E claro que, por fim, mantendo a mania de escrever o livro em idioma kantiano, é nesse capítulo também que é introduzido a palavra "máxima", e só depois, quando Kant percebe que para os seres comuns e burros a palavra "máxima" significa outra coisa (aquilo que atinge ou atingiu o seu maior número, sua maior quantidade, seu mais alto grau), que Kant introduziu uma nota de rodapé explicando o que é máxima no idioma kantiano, que significa a motivação inicial.
+
+=== Seção II ===
+
+O capítulo onde Kant fala pela primeira vez do [[imperativo categórico]], que diz que para definirmos se algo é ético ou não, devemos nos tornar egocêntricos e imaginar que nossas máximas (não "máxima de "maior", mas máxima do idioma kantiano lá, o "princípio da vontade") se tornem lei universal, de modo que apenas a [[humanidade]] limita os fins. Ou seja, escreveu uma porrada de parágrafos para dar uma de [[Capitão Óbvio]] no final e ainda se achar o tal só porque fez isso usando palavras difíceis e inventar.
+
+Apesar de toda essa arrogância em definir a ética, faltou Kant aplicar para si mesmo, já que para ele animais não merecem ser tratados com ética, escravos não merecem ser tratados como seres racionais e passivos de ética, e uma menção especial "[[brasileiros|habitantes dos mares do sul]]" taxados como preguiçosos e burros.
+
+=== Seção III ===
+
+Normalmente apenas 1 de cada 5000 pessoas chegam na seção 3 desse livro desgraçado, mas basicamente essa seção traz apenas mais do mesmo de tudo o que já foi dito. Uma seção em que Kant exercita sua [[prolixidade]], mas aplicando essa metodologia exercendo as conclusões mais óbvias possíveis.
+
+[[Categoria:Livros]]
+[[Categoria:Livros de filosofia]]
+[[Categoria:Livros de Immanuel Kant]]
+[[Categoria:Literatura da Alemanha]]

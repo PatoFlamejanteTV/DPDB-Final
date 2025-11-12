@@ -1,0 +1,21 @@
+{{taxocaixa
+| cor             = pink
+| nome            = Peixe pirata
+| imagem          = Anfioxo anatomia.png
+| imagem_legenda  = Aquele bicho que só aparece em aulas de biologia pra falar de [[embriologia]]
+| domínio         = [[Eukaryota|Cara de idiota]]
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Cordinhas]]
+| subfilo         = '''Cabeçacordinhas'''
+}}
+
+'''Cephalochordata''' ou '''Cefalochordata''' ou '''Acraniata''', ou só '''cefalocordados''', são um subfilo dos bichos com cordinha no meio do corpo que quase ninguém lembra quem sejam, até porque são bichos bem bizarros que as vezes são confundidos com [[peixe]]s, as vezes com [[verme]]s, mas que pra turma da [[zoologia]] eles são sempre lembrados pelos motivos de serem bichos importantes no desenvolvimento dos animais [[vertebrado]]s, já que sua [[notocorda]] é uma das primeiras a desenvolver de fato uns ossinhos que seriam uma proto-[[coluna vertebral]] ou alguma porra do tipo, sendo assim, eles poderiam ser o primeiro caso do mundo animal a poderem ficar paraplégicos ou tetraplégicos, uma situação no mínimo patética pra um bicho que nem cabeça direito tem, deixando-o 100% imóvel. Também aparecem muito em embriologia como os corpos genéricos para mostrar a formação de um [[zigoto]] até o estado de [[embrião]], e só pra isso mesmo, o que faz com que rapidamente esqueça-se quem eles são e o que são.
+
+Os representantes principais dessa classe são os [[anfioxo lanceolado|anfioxos]], um bicho que praticamente é só duas pontas afiadas que descobrir onde é a cabeça dele é tão complicado quanto a confusão do [[Minhoca Beijoqueira|Minhoco Beijoqueiro]] que tenta sempre roubar beijo da [[minhoca]], mas beija [[cu|do lado errado]] da onde deveria ser a [[boca]]. Apesar de ter sim uma cabeça, é justamente por esse formato tosco que descobrir onde ela fica é um esforço titânico de quem tem olhos de águia e pouca coisa a fazer na vida. Esse bicho vive em diversos lugares do planeta, sempre enfiado em areias de praia (provavelmente você, se mora perto de praia, já pisou em um monte deles), sendo encontrado até onde a maioria dos brasileiros nunca irão, em [[Fernando de Noronha]], ou seja, uma tripa tosca dessas chega lá e provavelmente você nunca irá.
+
+Além dos [[Branchiostoma]] (família principal dos anfioxos), ainda existem nesse grupo os [[Asymmetronidae]] (anfioxos assimétricos e meio bugados), além dos já extintos ''[[Pikaiidae]]'', que viveram lá no [[Cambriano]] a quase 500 milhões de anos atrás e que provavelmente foram os primeiros bichos a realmente existirem já com cordinhas nas costas, o que futuramente daria origem aos primeiros peixinhos que geral pesca até hoje. Diferentes desses, que geralmente mesmo as menores [[piaba]]s dão pra pelo menos ter um [[tira gosto]], os cefalocordados não dá pra sentir nem o salzinho de um [[Stiksy]] de carne que eles praticamente são. 
+
+{{esboço}}
+
+[[Categoria:Chordata]]
+[[Categoria:Cephalochordata|*]]

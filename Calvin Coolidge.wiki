@@ -1,0 +1,51 @@
+{{Presidente
+| nome            = Calvo Corrige
+| país            = [[EUA]]
+| foto            = Imagem: Presidente Calvin.jpg
+| tamanho         = 180px
+| fotodesc        = One, two, three little indians...
+| observação      =
+| lista_presidente= Presidente dos Estados Unidos
+| ordem           = 30
+| posse           = 2 de agosto de 1923
+| termino         = 4 de março de 1929
+| vice-presidente = [[Charles G. Dawes]] (só no segundo mandato).
+| predecessor     = [[Warren G. Harding]]
+| sucessor        = [[Herbert Hoover]]
+| datanasc        = 4 de julho de 1872
+| localnasc       = [[Plymouth Notch]], [[Vermont]]
+| datafalec       = 5 de janeiro de 1933 
+| localfalec      = [[Northampton]], [[Massachusetts]]
+| primeiradama    = Grace Goodhue
+| profissao       = [[Advogado|Adevogado]]
+| lista_partido   = Lista de partidos políticos nos EUA
+| partido         = [[Partido Republicano (Estados Unidos)|PR]]
+|}}
+
+'''John Calvin Coolidge, Jr.''' (Plymouth Notch, [[4 de julho]] de [[1872]] – Northampton, [[5 de janeiro]] de [[1933]]) era um adevogado <s>viado</s> seguidor do [[congregacionalismo]] de Vermont que poderia ter vivido sua vidinha como um [[Luiz Pareto]] da vida, porém decidiu virar político, e aí do nada virou [[governador]] de [[Massachusetts]] (ué, e Vermont? Ah, foda-se) e virou também [[vice-presidente]] e, por sorte, [[presidente]] dos [[EUA]]. Que foda!
+
+Que pena que ele era um tremendo estrupício e foi um dos presidentes mais lesados da história dos americanos...
+
+== História ==
+
+Calvin nasceu no [[Dia da Independência dos Estados Unidos]] (olha que patriótico!) no [[Condado de Windsor]]. Parecia portanto destinado à grandeza, a ser o presidente dos Estados Unidos, um ser iluminado.
+
+E foi pensando nisso, nessa possibilidade, que ele, que aparentemente tinha sangue de [[Povos nativos dos Estados Unidos|pele vermelha]] nas veias, mesmo não entendendo porra nenhuma do mundo que seus antecessores de alguma parte da família dele viviam, virou um advogado formado no [[Condado de Hampshire]], de onde conheceria um monte de político para angariar as chances de algum cargo público.
+
+Após casar com a professorinha Grace Anna Goodhue (e com ela descolar dois pirralhos), ele conseguiu entrar no Partido Republicano, fazendo campanha pro futuro presida [[William McKinley]], com isso ganhando apoio pra virar presidente da [[câmara municipal]] de [[Northampton]]. Não ganhou grana com isso, mas contatinhos pra virar depois [[deputado federal]] e também [[prefeito]] da cidade de Northampton.
+
+Após essa ascensão meteórica - que continuou com ele virando [[cabo eleitoral]] do [[Theodore Roosevelt]] e depois [[senador estadual]] em 1914 (e presidente do senado estadual) e vice-governador em 1915, 1916 e 1917 (EUA era uma bagunça, governadores e vices ficavam só UM ANO no cargo LOL), e em 1918 virou governador mesmo de lá do Massachusetts, só largando o queijo de lá em 1921.
+
+Já que nesse ano de [[1921]] ele virou o vice do pinguço [[Warren G. Harding]]. Deveria ter ficado só nessa função ([[ou não]]) - e curioso que a [[Wikipédia]] [[wp:Calvin Coolidge|nem fala do período dele como vice, nem como presidente]], que animais! -, mas o Warren acabou tendo uma [[Descionário:Ziguezira|ziguezira]] e bateu as botas em [[1 de agosto]] de [[1923]]. Com isso, no dia seguinte, Calvin viraria o mais novo presidente dos EUA, a missão que ele estava destinado sua vida inteira aparentemente.
+
+Só que, ao assumir o cargo, ele acelerou o processo do ''[[laissez faire]]'' [[liberalismo|liberal]] na [[economia]] ianque, o que lá pro futuro não muito distante daria uma [[Grande Depressão|merda maligna]]. Apesar desse lado liberal, Calvin era tipo a turma da [[alt right]]: liberal na economia, mas conservador nos costumes (blá blá blá), e teve a brilhante [[ideia de jerico|ideia <s>de jerico</s>]] de instituir a [[Lei Seca nos Estados Unidos|Lei Seca]], que proibia a venda e produção de qualquer tipo de [[bebida alcoólica]], tornando a vida dos americanos uma tremenda [[depressão]] mesmo, além de ajudar uns carcamanos como [[Al Capone]] criarem a primeira [[máfia]] no país pra vender [[uísque]] contrabandeado, encher o [[cu]] deles de grana e o cu dos maus pagadores e policiais de bala. É sempre assim, os animais acham que proibir a venda de [[droga]]s vai resolver o problema, mas só fazem existir [[traficante]]s e foder com a vida do próprio povinho deles...
+
+Calvin, mesmo com essa ideia de merda, conseguiu a [[reeleição]] (mostrando que não é só no [[Bundil]] que se reelege político bosta), e deixaria o país nas mãos <s>in</s>capazes de seu amigo de partido [[Herbert Hoover]], que seria o causador em definitivo da Crise de 1929 e de fazer o país virar uma piada no mundo inteiro. Depois disso, Coolidge [[morte|bateu com as dez]] em 1933, deprimido ao ver que ajudou a eleger um tremendo imbecil, que ainda por cima perderia pra um fdp do [[Partido Democrata (Estados Unidos)|Partido dos Jumentos]], [[Franklin D. Roosevelt]], que já vinha com umas ideias meio "[[comunista]]s" como o ''[[New Deal]]'', que foderiam todo o legado dos chupa-picas de industriais gananciosos.
+
+{{Presidentes dos Estados Unidos}}
+
+[[Categoria:Advogados dos Estados Unidos]]
+[[Categoria:Membros do Partido Republicano (Estados Unidos)]]
+[[Categoria:Protestantes dos Estados Unidos]]
+[[Categoria:Testudos]]
+[[Categoria:Vice-presidentes dos Estados Unidos]]

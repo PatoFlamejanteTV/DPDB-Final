@@ -1,0 +1,45 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Rena
+| imagem          = Gato Rena.jpg
+| imagem_legenda  = Uma das renas encontradas nos bosques setentrionais.
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| ordem           = [[Artiodactyla|Pé-de-pano]]
+| família         = [[Cervidae|Servos]]
+| gênero          = '''[[Rangifer]]'''
+| espécie         = [[Rena]]
+| binomial        = '''''Renus taradus'''''
+}}
+
+'''Renas''' são aqueles bichos chifrudos parecidos com [[veado]]s, cuja principal e única função na natureza é puxar a carroça do velho que só aparece no final do ano, [[Roberto Carlos]].
+
+==Características==
+
+A principal característica das renas é a capacidade de voar. No final de cada ano, é bastante comum ver renas voando por aí puxando uma carroça cheia de presentes.
+
+Uma outra característica importante das renas é a velocidade. Para conseguirem cruzar o planeta em apenas uma noite, as renas atingem a velocidade da luz.
+
+Fora isso, as renas são apenas animais comuns e chifrudos.
+
+==Habitat==
+
+No mundo inteiro, o principal ponto de encontro entre renas é a Tundra da Região Árctica, um lugar badalado e frio pra cacete, onde é possível deixar as brejas trincando apenas colocando-as na calçada. É lá que as renas se reúnem para altos agitos e para fofocar sobre a vida dos outros.
+
+Outros points muitos populares, frequentados apenas por renas de alto nível, são os bosques setentrionais. Apesar de não serem tão gelados quanto as tundras árcticas, os bosques oferecem um clima bastante agradável para as renas de fino gosto que não dispensam a sombra de uma árvore e um beijo do Sol em suas nucas.
+{{Fato|é perigoso tentar ver o trenó do Papai Noel, porque é bem capaz de uma rena - ou mais de uma - cagar em você?}}
+
+==Alimentação==
+
+As renas mais humildes alimentam-se, principalmente, de folhas de bétula e salgueiro. Apesar do sabor ser horrível, estes alimentos possuem as quantidades necessárias de vitaminas e sais minerais que irão garantir a sobrevivência destes animais por mais algum período de tempo.
+
+Já as renas mais sofisticadas, de paladar exigente, alimentam-se apenas de ervas finas frescas. Porém, em determinadas épocas do ano, em que as ervas tornam-se escassas, essas renas ingerem alimentos alternativos, como musgos e líquenes.
+
+==Reprodução==
+
+As renas acasalam-se, principalmente, entre o final de Setembro e o começo de Novembro. No restante do ano, as fêmeas alegam que estão com dor de cabeça e os machos não tem outra opção a não ser assistir aos vídeos zoófilos da [[Mônica Mattos]].
+
+[[Categoria:Cervidae]]
+[[Categoria:Espécies animais]]

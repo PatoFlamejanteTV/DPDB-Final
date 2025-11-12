@@ -1,0 +1,71 @@
+{{Box ClubeFutebol
+|cor_clara         = gold
+|cor_escura        = darkblue
+|brasao            = Escudo do Rostov.png
+|hino              =  
+|nome_oficial      = Futból'nyy Klub Rostov-on-Don
+|origem            = {{RUS}}''' - [[Rostov-on-Don]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Olimp-2]]
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Russo
+|divisao           = Чемпионат
+|títulos           = 
+|ranking           = 
+}}
+
+'''Futbol'nyy Klub Rostov''' é um time terciário da Rússia, de modo que em [[condições normais de temperatura e pressão]] estaria numa Série C, mas como na Rússia as coisas não são normais, a temperatura é muito baixa, o povo é muito louco e o futebol é escasso, por mais que o FC Rostov seja muito ruim, ele disputa comumente a primeira divisão do país, embora nunca chegue nem perto de ser campeão.
+
+==História==
+=== Fundação ===
+
+Um dos times mais antigos da Rússia, fundado em 1900 sob o nome de '''FC Selmashstroy''' (que em [[língua russa|russo]] significa literalmente "Salamandra Destrói", em homenagem à fauna local) era nesses primórdios apenas um time amador, visto que o [[czar]] da Rússia nem sabia o que era futebol para criar algum campeonato do tipo.
+
+Em 1913 mudou nome para '''Traktor''', em homenagem aos agricultores da cidade que receberam a nova máquina agrícola que era novidade na época. Ficaram tão espantados que começaram a tratar o trator como Deus, e até mudaram o nome do time, que desde então seria formado pelos melhores roceiros de Rostov.
+
+=== Campeonato Soviético ===
+
+Foi no ano de 1950 que o time filiou-se ao Campeonato Soviético e foi relegado a ir disputar o torneio da Zona Sul junto com as porcarias do Cáucaso. Nesse ano mudou o nome para '''FC Torpedo''' em homenagem à arma de formato fálico. O objetivo era tentar aterrorizar os adversários só com o nome, algo que não conseguiu.
+
+Somente em 1964 subiria para a primeira divisão soviética, momento em que descobriu sua função, que seria servir de freguês o [[CSKA Moscow]] de modo a agradar Stalin e que o time da capital sempre ganhasse.
+
+No último campeonato soviético de 1991 ficou em quarto lugar, assim garantindo jogar a primeira edição da primeira divisão russa que ocorreria no ano seguinte após a falência soviética.
+
+=== Campeonato Russo ===
+
+O Rostov cumpriria tabela no primeiro campeonato russo de 1992, quando terminou em oitavo. Mas como o sistema soviético havia colapsado, os esquemas de compra e combinação de resultados foram abolidos, o que prejudicou o Rostov que teve que depender apenas exclusivamente da habilidade futebolística de seus jogadores, o que explica como em 1993 ficou em penúltimo e foi rebaixado. Por sorte na Rússia não existiam times o bastante, então em 1994 retornaria à primeira divisão. Depois disso, de 1995 a 2007 o Rostov por longos 13 anos consecutivos seria mero figurante, até rebaixar novamente em 2007, como estratégia para o time ganhar pelo menos um título após seu centenária, a conquista da Série B russa de 2008.
+
+=== Copa da Rússia de 2013–14 ===
+
+Acompanhando a decadência do [[futebol russo]], o Rostov venceu a Copa da Rússia enfrentando nada menos que o desconhecido e irrelevante [[FC Krasnodar]] na final, afirmando como aquela temporada os times russos estavam péssimos.
+
+O título rendeu vaga ao clube na [[Liga Europa]], vaga esta que quase foi perdida extra-campo para o [[Spartak Moscow]], que achando que ainda estava na União Soviética achava que poderia simplesmente comprar a vaga como antigamente, já que nem vice o Spartak foi. Como a UEFA é capitalista, a entidade deferiu e confirmou a participação do Rostov em seu primeiro torneio internacional. E toda essa confusão foi apenas para o Rostov empatar de 0x0 e depois perder por 2x0 para o [[Trabzonspor]], um time secundário da [[Turquia]].
+
+=== Campeonato Russo 2015–16 ===
+
+A participação mais notável do clube num [[campeonato russo]] foi na temporada de 2015-16, quando passou o campeonato inteiro em segundo lugar, perseguindo o [[CSKA Moscow]] de longe. O vice foi comemorado como título, pois graças a isso o time conquistou uma vaga na fase preliminar dos times ruins da UEFA Champions League.
+
+== Torcida ==
+
+Com uma média de 12.000 torcedores por jogo, o time reúne todos agricultores de [[Rostov-on-Don]], grandes apreciadores dos jogadores roceiros do clube. Zagueiros que não saibam dar chutão para frente a todo momento são proibidos no FC Rostov.
+
+== Títulos ==
+
+* '''[[Copa da Rússia]]''': 1 vez (2013–14)
+* '''[[Campeonato Russo]]''': 1 vez (2015–16)
+* '''Ganhar do [[Bayern de Munique]] na Liga dos Campeões''': 1 vez (2016-17)
+
+{{Campeonato Russo}}
+
+[[Categoria:Times de futebol da Rússia|Rostov]]

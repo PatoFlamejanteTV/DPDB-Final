@@ -1,0 +1,44 @@
+{{Infobox/elemento químico
+|nome              = Protactínio
+|imagem            = Protactínio.png
+|legenda           = Minério de protactínio, considerado traiçoeiro porque não brilha no escuro, mas é radioativo mesmo assim
+|símbolo           = [[Pá|Pa]]
+|número            = [[91]]
+|série             = [[Actinídeo|Radioativídios]]
+|isótopo           = <sup>231</sup>Pa
+|massa_atômica     = 231,03588 [[cu]]s
+|dureza            = O bastante para não quebrar fácil
+|radioatividade    = Altíssima
+|toxicidade        = Alta
+|comestível        = Só suicidas
+|inalável          = Não
+|passar_na_pele    = Não
+|onde_encontrar    = [[Chernobyl]]
+|ponto_de_fusão    = Bem alto
+|ponto_de_ebulição = Mais alto ainda
+|super-herói       = Altíssima, como todo elemento radioativo
+}}
+
+'''Protactínio''' é um metal radioativo e semi-desconhecido de número qualquer coisa que faz parte dos elementos [[Actinídeo|Radioativídios]]. Geralmente ele está à sombra de seus amigos do seu grupo, como [[urânio]] e [[plutônio]] que são mais famosos quando a questão é derreter a pele das pessoas com radioatividade concedendo-as uma morte grotesca, mas o protactínio possui essa mesma propriedade nada amigável, sendo ideal para garantir mortes lentas e dolorosas para quem se prontificar.
+
+== Características ==
+
+Nas condições ambiente, o protactínio é sólido, de aparência branco-prateada, brilhante e inexistente (até por isso você nunca ouviu falar nele). Para adquirir protactínio é necessário criar condições não avistadas naturalmente no ambiente, como reatores nucleares fazendo fissão de átomos.
+
+Suas duas principais características (e talvez as únicas que importem) é ser radioativo (núcleo instável com graves crises de identidade, que embora seja protactínio adora se travestir de [[tório]]) e altamente tóxico (alta emissão de [[partícula alfa|partículas alfa]], que formam [[hélio]] e consequentemente causam voz de pato fanho em pessoas, o que é tido como a definição para "venenoso").
+
+== História ==
+
+Desde a invenção da [[tabela periódica]] por [[Dmitri Mendeleev]], o Protactínio era um elemento que sempre existiu na teoria, na lacuna entre [[tório]] e [[urânio]]. Mas como ninguém queria ter uma morte lenta e dolorosa com queda de cabelos e derretimento dos olhos, devido à radioatividade desse negócio, por muitos anos o elemento jamais foi estudado ou descoberto. Somente em 1913 [[Kasimir Fajans]] e seu capacho descobriram o elemento, e como ele durou menos que uma foda, só 1 minuto, não deu tempo nem de fazer um [[miojo]], deram o nome de "Picajaponésia" ao novo elemento, em alusão à sua curta duração.
+
+O nome foi modificado só em 1949, para protactínio, que significa "o primeiro actínio", o que não poderia ser mais incorreto, já que ele visivelmente é apenas o terceiro actínio. Absolutamente qualquer elemento com um número atômico menor que 89 poderia ter esse nome, mas deram esse nome justo para um elemento de número atômico 91, vai entender a cabeça de químico. A única lógica para explicar este nome incorreto é o fato do protactínio ser altamente venenosa e aqueles que ingerirem protactínio estarão morrendo primeiro que aqueles que ingeriram [[actínio]] ou [[tório]].
+
+== Aplicações ==
+
+O elemento não tem aplicações práticas, serve apenas para causa câncer, mutação genética e garantir morte lenta às pessoas.
+
+{{Tabela periódica}}
+[[Categoria:Elementos químicos]]
+[[Categoria:Actinídeos]]
+
+[[pl:Protaktyn]]

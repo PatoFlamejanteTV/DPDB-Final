@@ -1,0 +1,41 @@
+{{pokedex}}
+{{PokéBox
+| imagem = Walking Wake.png
+| frase = Um Suicune que acabou cruzando com um Rampardos.
+| nihongo = ウネルミナモ
+| romaji = Suikunosaurusu
+| pokedex = 1009
+| tipo1 = Water
+| tipo2 = Dragon
+| habilidade1 = O mesmo que os outros paradoxos
+| habilidade3 = Trollar todo mundo
+| espécie = [[Suicune]][[dinossauro|ssauro]]
+| cadeia evolutiva = [[Arquivo:1009MS.png|60px|link=Walking Wake]]}}
+
+{{vqd|Walking Dead}}
+
+'''Walking Wake''' é o nome de mais um pokémon da nona geração, a geração mais bugada entre todos jogos. Essa aberração é mais uma que teve origem no [[Acre]] da região de [[Paldea]], a Área Zero e ele é uma forma exclusiva do jogo [[Pokémon Scarlet]] por se tratar de um pokémon antigo vestido de dinossauro. Por causa desta espécie ser do grupo de [[pokémon paradoxo|pokémon esquisito de nomes compostos]], já este parece algum nome genérico de álbum ou música de algum grupo [[indie]].
+
+Walking Wake surgiu depois do período de todos já estarem cansados de ficar fazendo nada no jogo inteiro para ter mais de 1000 horas no jogo para mostrar que é um fã de verdade ou também ficar procurando os trocentos bugs existentes e antes do período da primeira DLC do jogo. Não se sabe ainda a posição que esta criatura ocupará no folheto infinito de espécies do jogo, apenas sabendo que será um número maior que 1008.
+
+Em termos de tipagem, esse pokémon em si possui os [[Tipo Água (Pokémon)|tipos peixe]], já que Suicune é um monstro que possui poderes de hidrocinese e também o [[Tipo Dragão (Pokémon)|tipo calango voador]], já que a Game Freak só conhece dois tipos quando se tratam de lendários, que é o tipo dragão e o tipo psíquico...e adivinha [[Tipo Psíquico (Pokémon)|o tipo secundário]] [[Iron Leaves|do outro lendário paradoxo da versão Violet]]? Isso mesmo, [[Acertou Mizeravi|acertou, mizeravi!]]
+==Design==
+A forma inicial deste pokémon foi visto no livro principal do jogo como uma verdadeira fusão entre Entei, Raikou e Suicune e todos estavam esperando para ver um quadrúpede que incorporasse detalhes destes três pokémon em específico, porém a Game Freak após fazer espécies como [[Dudunsparce]] ainda queria foder de tudo que é jeito com a expectativa dos fãs, apenas pegando o Suicune, já que é o favorito deles e fazendo-o como se fosse um dinossauro genérico, o que gerou revolta de alguns fãs mais birrentos, isso até mostrarem as múltiplas aberrações vindo de [[Momotarō|Momotaro]] e já começaram a pedir desculpas para essa forma.
+
+Enfim, Walking Wake possui aquele mesmo detalhe esquisito que fica na cara de Suicune, só que apenas mudando poucos detalhes para não fazer igual e o cabelo roxo do leopardo azul agora vira uma espécie de juba que está rodeado em toda sua cara e como de costume de formas paradoxais do passado, o suicunossauro também possui alguns espinhos vermelhos localizados atrás de seu corpo para mostrar que fizeram algo totalmente diferente e para fazer a sua pose, pegaram o primeiro desenho totalmente [[furry]] de Suicune para transformá-lo em uma espécie bípede e colocaram alguns detalhes de dinossauros já existentes na franquia, tais como [[Tyrantrum]] e [[Rampardos]], já que possui braços curtos. Já as pernas, é a mesma coisa que um Suicune normal, com exceção de suas patas felinas, que agora viram patas de pássaro. As fitas que rodeavam Suicune em seu design normal agora viraram partes de sua cauda, que simplesmente duplicou sem algum motivo específico.
+==Pokédex==
+Mesmo se tratando de um pokémon novo, a Game Freak cagou e andou para fazer uma descrição de pokédex para ele, mas provavelmente será corrigido no meio do ano.
+==No jogo==
+[[Arquivo:Walking Wake protótipo.png|230px|thumb|Pensou que teria Entei e Raikou? [[Sérgio Mallandro|Pegadinha do Mallandro]]!]]
+A nova espécie paradoxa foi especulada quando um dos pesquisadores acabou desenhando como era a possível nova forma dos cães/felíneos de [[Johto]], já que a Game Freak cansou de fazer trocentas formas para pokémon de Kanto (exceto se for Charizard, como óbvio) e a forma inicial de Walking Wake aparece em um livro secreto do jogo, o livro escarlate e nessa forma aparece uma verdadeira suruba entre os três lendários da região, mas como a [[Game Freak]] é a mãe da oportunidade perdida, o resultado final foi muito diferente da versão do livro, o que como óbvio, gerou várias reclamações de fãs estressados da franquia, mas isso a própria Game Freak já consegue lidar toda hora, já que descobriram que a controvérsia é a chave do sucesso.
+
+Como é um pokémon tratado como especial no jogo, Walking Wake conseguiu ter um golpe todo especial para ele, que é chamado de Hydro Steam, e de primeira todos achavam que seria total burrice a Game Freak criar um golpe de água para um pokémon que possui uma habilidade que se beneficia do sol para se tornar mais forte, e se em 99% das vezes a Game Freak possui algum tipo de [[retardado|retardo mental]], Walking Wake teve muita sorte da Game Freak estar em seus 1% usando a sua inteligência para criar uma exceção que o seu golpe não perdesse força durante um tempo muito ensolarado, e sim ganhasse ainda mais força, o que torna Walking Wake um dos pokémon mais fortes do jogo, ainda mais com a sua ótima tipagem.
+==Usos==
+No jogo normal não será muito usado, a não ser por meios externos. Como essa espécie se trata de ser um pokémon lendário que possui uma boa combinação de tipos, bons stats e bons golpes, é um dos favoritos para serem odiados por jogadores tanto de Showdown quanto de VGC.
+
+{{Poke9}}
+[[Categoria:Animais lendários que são azuis e só aparecem a cada 300 anos]]
+[[Categoria:Dinossauros]]
+[[Categoria:Dragões]]
+[[Categoria:Leopardos]]
+[[Categoria:Fontes de H2O]]

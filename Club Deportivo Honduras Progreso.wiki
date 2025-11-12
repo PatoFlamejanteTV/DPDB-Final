@@ -1,0 +1,58 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = darkblue
+|brasao            = Escudo do Honduras Progreso.png
+|hino              = 
+|nome_oficial      = Club Deportivo Honduras Regresso
+|origem            = {{HON}} - '''[[El Progreso]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Hondurenho|Copa Manuel Zelaya]]
+|divisao           = 1° Divisão
+|títulos           = 
+|ranking           = 
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Club Deportivo Honduras Progreso''' é um time de [[Honduras]] ([[ORLY?]]) que não tem tradição ou importância alguma, mas que bastou ser mais ou menos bem gerido e já foi campeão nacional em 2016, provando que qualquer bosta pode ser campeã hondurenha, basta esforçar-se só um pouquinho
+
+== História ==
+=== Fundação e extinção ===
+
+O time foi fundado às pressas em 1965, ainda com o nome de '''Club Deportivo Honduras''', o que absolutamente era uma grande prova de falta de criatividade, e o único objetivo era haver times o bastante para a criação do primeiro [[campeonato hondurenho]]. Uma vez criada, a equipe desempenhou bem o seu papel e serviu de ponto ganho para [[Platense Fútbol Club|Platelminto FC]] e [[Club Deportivo Olimpia|Olimpia]] que eram realmente times de futebol.
+
+Já em 1970 a equipe era tão ruim que foi rebaixada mesmo sem nem existir segunda divisão na Honduras, e seus antigos donos, sentindo-se humilhados, tomaram vergonha na cara e acharam por melhor fechar o clube e encerrar as atividades, assim ninguém deveria sentir-se envergonhado de assistir um time tão ruim jogar.
+
+=== Reativação e título hondurenho ===
+
+O time foi reativado em 2011 quando escavações de arqueólogos procurando tesouros maias encontraram por acidente o uniforme velho do antigo Deportivo Honduras, e como não custava nada, criaram o time de futebol.
+
+Somente na temporada de 2013-14 venceu a segunda divisão hondurenha (jogando apenas contra sigo mesmo, já que nem existe ainda, afinal não há times o suficiente), e assim ganhou acesso à Primera División.
+
+O time precisou de apenas um ano de aclimatação (2014-15) e já no campeonato hondurenho de 2015-16 conquistaria o título ao derrotar na final o poderoso e tradicional [[CD Motagua]].
+
+== Torcida ==
+
+Segunda últimas pequisas recentes, 95% da população hondurenha não se importa com o Honduras Progreso, nem mesmo aqueles que nem sabem que isso é um time de futebol, pois não ligam para o progresso do país tambem.
+
+== Títulos ==
+
+* '''[[Campeonato Hondurenho]]''': 1 vez (2015-16-A)
+* '''[[Liga Nacional de Ascenso de Honduras|Campeonato Hondurenho - Segunda Divisão]]''': 1 vez (2013–14 A)
+
+{{Campeonato Hondurenho}}
+
+[[Categoria:Times de futebol de Honduras|Hondurasprogresso]]

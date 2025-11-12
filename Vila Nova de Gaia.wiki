@@ -1,0 +1,63 @@
+[[Arquivo:8fe1f0b50957516ffda6b5ce73ee4e1f-754x394.jpg|thumb|Caravelas de Vila Nova se preparando para fazer uma invasão marítima ao Brasil]]
+'''Vila Nova de Gaia''' é uma cidade portuguesa que ninguém de fora de Portugal conhece, um local histórico que sob essa desculpa nunca recebe reformas, para sempre ter um aspecto de coisa velha que merece ser visitada, embora nunca seja realmente visitada, porque se alguém vai à Portugal beber [[vinho]] do [[Porto]] ele vai ao Porto beber vinho do Porto e não a Vila Nova de Gaia beber vinho do Porto.
+
+{{DadosMunicípioPortugal
+<!-- Cabeçalho -->
+| nome                 = Vila Nova de Gaia
+| apelido              = Setúbal do Norte
+<!-- Dados gerais -->
+| bandeira             = 
+| brasão               = 
+| link_bandeira        = 
+| link_brasão          = 
+| aniversário          = 
+| fundação             = Um dia depois da fundação do Porto
+| gentílico            = Pobretão que não conseguiu arranjar dinheiro o suficiente para pagar a renda de um imóvel no Porto
+| lema                 = Qualquer coisa que o Porto falar
+| apelidos             = Mini-Porto
+| pres_cm              =
+<!-- Localização -->
+| mapa                 = 
+| estado               = 
+| nuts2                = Norte
+| nuts3                = Área Metropolitana do Porto
+| distrito             = Porto
+| provincia            = Douro Litoral
+| vizinhos             = Porto
+| dist_capital         = Colado no Porto
+| toxicidade           = 4
+<!-- Características geográficas -->
+| área                 = 
+| população            = 300 mil pessoas à noite; durante o dia todos estão trabalhando ou estudando no Porto
+| idioma               = Pronúncia do Norte
+| data_pop             = 
+| densidade            = 
+| altitude             = 
+| clima                = 
+| sigla_clima          = 
+| fuso_hor             = 
+<!-- Indicadores -->
+| idh                  = 
+| data_idh             = 
+| pib                  = 
+| data_pib             = 
+| pib_per_capita       = 
+| data_pib_per_capita  = 
+}}
+
+== História ==
+
+Haviam duas cidades, Vila Nova e Gaia, só que eram duas cidades sem criatividade e sem personalidade própria, o que sempre faziam eram explorar qualquer novidade que viesse da cidade do Porto. Um certo dia essas cidades se uniram, e desde então o seu sonho é um dia unir-se ao Porto, para se chamar '''Porto de Vila Nova de Gaia'''.
+
+== Economia ==
+
+A economia de Vila Nova de Gaia sustenta-se exclusivamente de copiar tudo o que a cidade do Porto faz. Se Porto está a fazer sucesso vendendo bacalhau, então Vila Nova de Gaia vai vender bacalhau. Se Porto criou um dos vinhos mais famosos do mundo, Vila Nova de Gaia vai vender esse vinho também. Se em Porto eles fazem tremoços muito gostosos, Vila Nova de Gaia vai vender tremoços também.
+
+== Transportes ==
+
+Cidade cheia de buracos do tamanho de árvores, por isso é também conhecida como Vila Nova de Cagaia, uma ótima cidade para estragares os amortecedor dos vossos carros. Enquanto os políticos locais gastam dinheiro em carros, motoristas privados e outras merdas a cidade continua com buracos até dizer chega. Ninguém entende como essa cidade pode ser algum tipo de patrimônio para a humanidade, até as estradas das aldeias pequenas de [[Aveiro]] estão melhores que Gaia.
+
+{{Distrito do Porto}}
+[[Categoria:Área Metropolitana do Porto]]
+[[Categoria:Cidades do Distrito do Porto]]
+{{Portal3|Portugal}}

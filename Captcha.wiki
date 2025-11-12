@@ -1,0 +1,61 @@
+ 
+{{tecnologia}}
+
+[[Arquivo:The-first-captcha.jpg|thumb|Historiadores equivocados dizem que isso é arte, mas podemos ver claramente que são Captchas primitivos.]]
+
+{{c|Mas que preconceito! Eu também quero participar da inclusão digital.|Robô|captcha}} 
+
+{{c|Espera aí que eu vou buscar a minha tabelinha de tabuada.|Carla Perez|captcha}} 
+
+'''Captcha''' é uma ferramenta utilizada para <s>fazer você perder o seu tempo</s> bloquear o acesso de [[Spambot|robôs]] ou ETs em um site, evitando uma possível tentativa de dominar o mundo através da internet. É também útil para evitar edições de pessoas com baixo nível de inteligência, os excluídos da globalização (usuários das [[Lan House]] na favela). O captcha é visto como um vilão, no ponto de vista deles, porém como um herói na opinião dos [[Moderador Malvado|moderadores malvados]]. 
+
+Inúmeras vezes, o captcha apresenta uma [[mensagem subliminar]] para mostrar que você não é bem-vindo ao site ou simplesmente para desabafar o árduo dia que ele teve que aturar vendo inúmeras pérolas, descarregando em um xingamento indireto, como por exemplo: 
+
+*'''Complete o espaço em branco com as letras abaixo: '''
+
+ ''<s>PQPVTNC</s>''
+
+*'''Para evitar uso de bots, complete o espaço em branco:'''
+
+ ''MotHeRFucKeR''
+
+E, caso alguém conteste sobre isso, eles darão a falsa justificativa de que o Captcha é formulado com letras e números aleatórios, o que não é verdade.
+
+==Exemplos comuns de Captcha==
+[[Arquivo:CaptchaMongol.jpg|thumb|Você é realmente <s>uma pessoa</s> um mongol?]]
+Captchas usados em demasia por sites de download e de relacionamento:  
+
+*Escreva a equação da Teoria da Relatividade no espaço em branco abaixo. 
+
+*Há quantos garotinhos com câncer na [[África]]? 
+
+*Há quantos patinhos na lagoa? 
+
+*How many books are on the table? 
+
+*Quantos cavalos brancos de [[Napoleão]] você consegue ver na imagem? 
+
+*Há quantas moléculas de O<small>2</small> na troposfera? 
+
+*Preencha o espaço em branco abaixo com a senha do seu banco. 
+
+*Para evitar edições automáticas, coloque o número de negros nazistas que você consegue ver nessa imagem.
+
+==Tipos especiais de Captcha==
+[[Arquivo:Rapidshare Futuro.png|thumb|Captcha para nerds.]]
+
+Existem também, em alguns sites, os Captchas que não apenas bloqueiam as edições de bots, como também de determinados usuários "especiais", por exemplo: 
+
+*Escreva quantos gatinhos vermelhos você enxerga na imagem" (bloqueia usuários portadores de [[daltonismo]])
+ 
+*Preencha o espaço abaixo com o que está escrito na imagem: ™♠§†" (bloqueia usuários não [[computeiro]]s)
+
+*escreva o nome cientifico do animal acima (vai toma no cu quem inventou esse caralho)
+
+== Ver também ==
+*[[Filtro de proteção contra spam]]
+*[[Moderador Malvado]]
+*[[Ligações externas]] 
+*[[Computeiro]]
+
+[[Arquivo:Captcha malicioso.jpg|800px|thumb|center|É o que os captchas fazem com você]]

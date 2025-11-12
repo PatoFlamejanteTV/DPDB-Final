@@ -1,0 +1,78 @@
+[[Arquivo:kernel1.jpg|thumb|Carro de [[Linus Torvalds]] utilizando o kernel v1.0 com alguns poucos módulos carregados.]]
+{{C|Só Jesus compila o Kernel Linux em modo avançado.|Frase de muro do Maracanã|sobre o Kernel Linux|}}
+{{C|Kernel 32 causou prolema Motivo:desconhecido|Windows ME|Kernel}}
+{{C|Você traiu o movimento M$, véio.|Dado Dolabella|Kernel}}
+{{C|O meu é mais estável.|Bill Gates|Kernel}}
+{{C|O meu é livre.|Linus Torvalds|Kernel}}
+{{C|O meu é perfeito.|Steve Jobs|Kernel}}
+{{C|O meu é indestrutivel, além de ser perfeito.|Chuck Norris|Kernel}}
+{{C|Ahh... eu comprei um desses pra hidratar meus cabelos.|Carla Perez|Kernel}}
+{{Você quis dizer|[[Deus]]}}
+[[Arquivo:Osama_explosao.jpg|thumb|Computador após dar KERNEL PANIC]]
+{{C|Se eu pudesse eu compilava mil.|Jeremias|Kernel}}
+{{C|Esse eu aprovo!|Steve Balmer|Kernel Linux}}
+{{C|O [[gcc]] me compilou.|Linux|Kernel}}
+{{C|Na [[União Soviética]], o kernel compila '''''VOCÊ'''''!!''|Reversal Russa|Kernel}}
+{{C|Kernel in panic|Chuck Norris|Kernel}}
+{{C|alguem tem o link pra download freeware em portugues?|Você|kernel}}
+
+<!--expandir-->
+
+== Já compilou seu Kernel hoje? ==
+
+[[Arquivo:Kernel.jpg|thumb|400px|Kernel posando para foto em vários ângulos.]]
+'''Kernel''' é um dos principais projetos de software mantido por uma infinidade de [[desenvolvedor]]es, é [[Maconha|baseado]] em sei-lá-o-que. Ele também pode ser caracterizado como um passa-tempo para [[nerd]]s, aonde os mesmos podem configurá-lo, compilando e recompilando o código fonte, para dar ao Kernel habilidades como:  
+* fazer funcionar teclado;
+* fazer funcionar mouse;
+* fazer funcionar o seu bilau;
+* fazer funcionar o seu cérebro (se é que [[você]] tem um);
+* enviar emails (quem escreveu isso???);
+* alimentar-se sozinho;
+* compilar outros Kernels
+ 
+
+(plano de [[Dominação Mundial]]).
+
+Normalmente as pessoas(?) que compilam Kernel, passam horas (dias) [[Cheiramento de gatinhos|cheirando gatinhos]] durante a compilação, que pode demorar semanas para acabar.
+
+O [[nerd]] que criou as primeiras habilidades para o Kernel foi [[Linus Torvalds]], ele desenvolveu o bichinho até ele ficar independente e fugir do seu HD. Hoje em dia o Kernel passeia livremente pela rede mundial de computadores com o objetivo de compilar mais e mais Kernels e [[Dominação Mundial|dominar o mundo]].
+
+O site oficial do Kernel está em http://www.kernel.org. Mas tome cuidado ao fazer download de alguma versão, pois nesse site estão disponibilizados Kernels ainda selvagens. [[Você]] está correndo o risco de obter um Kernel Panic.
+
+== A vida do Kernel [[Linux]] ==
+[[Arquivo:Ugly17.jpg|thumb|Foto do Kernel já desenvolvidinho ao entrar no bi-articulado em [[Curitiba]] sem pagar passagem.]]
+[[Arquivo:ugly-dog.jpg|thumb|Cachorro com Kernel 2.2 em Kernel Panic.]]
+Muitos maníacos viciados em [[Software Livre]] dizem terem visto o Kernel passeando de bi-articulado em [[Curitiba]]. Não se sabe se isso é uma alucinação causada pelo excesso de horas diárias utilizando o sistema operacional [[Linux]], ou o Kernel já está evoluído o bastante para sair da rede mundial de computadores e se movimentar sozinho por [[Curitiba]].
+
+Existe a árvore do Kernel, e ele a leva para todos os lugares para onde vai. É nesta árvore que se encontram os módulos que fazem o Kernel tão famoso. As habilidades do Kernel dependem destes módulos, por exemplo o módulo ''"piss"'': ativando o módulo ''"piss"'', um cachorro rodando um Kernel 2.2 é capaz de mijar; um cachorro rodando um Kernel 2.4 já consegue mijar quase apenas em árvores e postes, e de vez em quando no sofá; um cachorro com Kernel 2.6 ainda não existe, mas dizem que vai andar em duas patas para poder utilizar as outras duas para mirar o jato de urina em [[você]].
+
+'''Kernel Panic''': O famoso [[Kernel Panic]] é um evento que ocorre quando há algo de errado na compilação do Kernel (Quem foi o gênio que escreveu essa frase? Não tem nada a ver). Por exemplo, se você ativa o módulo ''"piss"'' do Kernel a ser utilizado em um cachorro que não tem suporte ao ato de mijar... como o cachorro vai mijar se ele não tem suporte ao ato de mijar? Nesse caso ocorre um Kernel Panic. As habilidades compiladas no Kernel devem estar de acordo com o que o hardware suporta. Conhece a piada do pintinho que não tinha [[Cu|cú]]? Foi [[Peido|peidar]] e explodiu. Kernel Panic é isso.
+
+== Versões do Kernel ==
+
+Co-existências temporais das versões existentes do kernel com outros sistemas operacionais:
+
+* Kernel 0.x = Qualquer [[windows|Rwindows]]
+* Kernel 1.0 = [[Kurumin]] = MacOS II
+* Kernel 2.0 = [[Ubuntu]] = MacOS IV
+* Kernel 2.2 = [[Fedora]] = MacOS XIII
+* Kernel 2.4 = [[Slackware]] = Mac OS X
+* Kernel 2.6 = "Ainda não foi inventado algo tão poderoso para ser comparado com esta versão"
+* Kernel 2.8 ( Somente [[DEUS]] tem controle sobre esta versão. o Planeta Terra roda sobre esta versão.)
+* Kernel 3.0 = ( Linus estava cansado de tanto 2.x e criou a versão 3, que na verdade não passa de um codenome para a versão 2.6.69696966623234213461485145)
+* {{PAGENAME}} {{USERNAME}} = Só perde para o GOD kernel
+* GOD kernel = ( Somente [[Chuck Norris]] tem o controle sobre esta versão, mas [[Deus]] tem a senha do root. o Universo roda sobre esta versão.)
+É sabido que o planeta [[Terra]] roda em cima de um Kernel 2.8 compilado por [[Deus]], mas infelizmente houve alguns erros, surgindo assim os [[Estados Unidos]] e a [[Argentina]]. Após o mundo estar completo, um grande [[Microsoft|Bug]] apareceu, matando todos os dinossauros.
+
+== Ver também ==
+
+* [[Linux]]
+* [[GNU/Chato]]
+* [[Software Livre]]
+
+<br>
+{{linux}}
+
+[[en:Linux Kernel]]
+
+[[Categoria:Informática]]

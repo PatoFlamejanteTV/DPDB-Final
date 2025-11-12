@@ -1,0 +1,232 @@
+{{ver desambiguação|C|C}}
+[[Arquivo:Ken n dennis.jpg|300px|thumb|Ken Thompson e Dennis Ritchie os respectivos <s>Idiotas</s> inventores da linguagem c]]
+{{C|C traiu o movimento programador, véio!|Dado Dollabela|C}}
+{{C|include <mybrain.h>
+printf(" faca-se o mundo");
+system("run")|Chuck Norris|C}}
+{{C|Eu prefiro C...|Raul Seixas|C}}
+{{C|Ué... Cadê o mouse?|Delpheiro|C}}
+{{C|Como é que eu limpo a tela mesmo?|n00b|C}}
+{{C|Passa um pano molhado!|Carla Perez|n00b}}
+{{C|Falha de segmentação|C|C}}
+{{C|C trata os tipos de dados do jeito que meus clientes me tratam.|Puta|C}}
+{{C|╓▀▒╂┲▅▧█╪╪╙╙▊▓▓|Programador|o suporte de C a i18N}}
+{{C|Seus brutos.|Emo Programmer|C}}
+{{C|Pronto, agora é só colocar uma funçãozinha aqui, pra chamar aquela outra, e eu nem precisei fazer nenhum loop!|Praticante de POG|C}}
+{{C|Se não existisse C hoje estaríamos programando em Obol, Pasal, BASI!|Dennis Ritchie|C}}
+{{C|Cê... cê... cê cê re le cê cê|Mamonas Assassinas|C}}
+{{C|C é feio!|C|você}}
+{{C|'''1.''' sm Terceira letra do alfabeto, consoante '''2.''' num Como algarismo romano, equivale a 100 '''3.''' Terceiro numa série indicada pelas letras do alfabeto|Dicionário |C}}
+{{C|Em que lugar do código eu coloco as exceções?|Programadora Java estagiária|C}}
+{{C|Quer dizer então que aquilo era um ponteiro, e não o operador aritmético de multiplicação? Ai meu Jisuius! Eu sabia que ia dar merda!|Programador VB|C}}
+{{C|Lexograficamente falando, é de total verossimilhança que um programa escrito em Linguagem C devolva o controle ao sistema operacional, ao término de sua execução, nos dando a impressão de que não foi executado. Mas existem formas de burlar tais eventos, uma delas é usando a função getche()...|Professor universitário [[Pog]]ger metido a sabichão|C}}
+{{C|O que esse cara quis dizer?|Aluno universitário sobre professor universitário pogger|C}}
+{{C|Oh My God! O buffer está cheio de lixo, e o garbage colector não funciona. Oh My God!|Programador Java Emo|C}}
+{{C|É C de Cilada, Bino!|Pedro|C}} 
+{{C|Professor, então quer dizer que eu posso escrever long long long long long ... long int?|Aluno universitário após uma aula de tipos de dados|C}}
+{{C|Na [[União Soviética]] o ponto e vírgula se esquece de [[você]]!!!|[[Reversal Russa]] sobre ponto e vírgula}} 
+
+'''C''' é uma linguagem de programação imitada da linguagem B (daí o nome C) para escrever os tipos mais fodidos de software, como Orkut, MSN, ''trojans'', ''keylogers'', e outros tipos de vírus para sistemas <s>in</s>operacionais como o [[Windows]].
+
+==A linguagem==
+Veja um exemplo típico de [[Hello World]] C:
+
+ #include <stdio.h>
+ Int main (void) {
+  Printf("hellu worldi");
+ Return 0;
+ }
+
+Vejam agora uma típica gambiarra em C, muito utilizada por POGramadores Seniors de comunidade hacker de Orkut.
+
+ #include<stdio.h>
+ #include<stdlib.h>
+ int main(){
+ system("echo hello word"); //Sim, eles escrever word em vez de world.
+ system("pause");
+ return main()
+ }
+
+Esse é o típico exemplo do bom programador. Programadores babacas que programam C em [[Windows]] fazem assim:
+ 
+ #include <conio.h>
+ #include <stdio.h>
+ #include <stdlib.h>
+ void main(void)
+ {
+  char str[] = {'H','e','l','l','o',' ','w','o','r','l','d', '\0'}
+  puts(str);
+  system("pause"); //comando do DOS
+  getche(); //apenas para garantir
+  getch(); // que cara mais inseguro
+  return 0;
+ }
+
+Apesar de ninguém saber para que serve essa merda do ''conio'', 98.43% dos <s>POG</s>programadores C a usam.
+
+Código mais usado:
+
+ #include <stdio.h>
+ 
+ int main(){
+  printf("Segmentation Fault.");
+  return 0;
+ }
+
+Exemplo mostrando o quão desnecessarios os tratamentos de erro são...
+
+ #include <conio.h>
+ #include<string.h>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include<math.h>
+ void main(void)
+ {
+  char str[] = {'H','e','l','l','o',' ','w','o','r','l','d', '\0'}
+  if(strcmp(str,"Hello world")==0)
+ {
+  puts(str);
+ }
+ else
+ {
+ printf("Hello world");
+ printf("\n");
+ exit(1);
+ }
+  system("pause"); 
+  getche();
+  getch();
+  return 0;
+ }
+
+== Comparação entre C e Java ==
+<table style="text-align: left; width: 446px;" border="1"
+cellpadding="2" cellspacing="2">
+<tr>
+<td style="vertical-align: top; width: 167px;"><b>C</b><br>
+</td>
+<td style="vertical-align: top; width: 57px;"><b>Pts</b><br>
+</td>
+<td style="vertical-align: top; width: 49px;"><b>Pts</b><br>
+</td>
+<td style="vertical-align: top; width: 139px;"><b>Java</b><br>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; width: 167px;">Ninguém sabe usar.<br>
+</td>
+<td style="vertical-align: top; width: 57px;">0<br>
+</td>
+<td style="vertical-align: top; width: 49px;"><b>1</b><br>
+</td>
+<td style="vertical-align: top; width: 139px;">Até um idiota usa.<br>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; width: 167px;">Faz o programador
+parecer o fodão, pois ninguém entende o código.<br>
+</td>
+<td style="vertical-align: top; width: 57px;"><b>1</b><br>
+</td>
+<td style="vertical-align: top; width: 49px;">1<br>
+</td>
+<td style="vertical-align: top; width: 139px;">Até um estágiário
+poderia entender o código.<br>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; width: 167px;">É rápido pra
+caralho.<br>
+</td>
+<td style="vertical-align: top; width: 57px;"><b>2</b><br>
+</td>
+<td style="vertical-align: top; width: 49px;">1<br>
+</td>
+<td style="vertical-align: top; width: 139px;">É leeeeeeeeeeento
+para caralho.<br>
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top; width: 167px;">Possue vários
+compiladores<br>
+</td>
+<td style="vertical-align: top; width: 57px;"><b>3</b></td>
+<td style="vertical-align: top; width: 49px;"><b>2</b></td>
+<td style="vertical-align: top; width: 139px;">Possue várias API`s<br>
+</td>
+</tr>
+</table>
+<br>
+
+== Falhas de segurança ==
+
+C é a linguagem de programação preferida dos [[hacker]]s, [[lammer]]s, pessoas que não conseguem pegar ninguém e fabricantes de antispyware. É estatisticamente comprovado que um programa escrito em C tem 73,48% de chances de ser ilegível e 44,88% de chance de conter um ou mais furos de segurança (existe também uma chance de 3,14159% de que o programa faça uso da biblioteca indexada pelo [[Vaticano]], a conio.h).
+
+A linguagem C é muito utilizada para criar vírus no sistema operacional <s>vírus</s> [[Windows]]. A maioria das vulnerabilidades tinha como causa os seguintes problemas:
+
+* Buffer overflow
+* Internal Stack Overflow error
+* Buffer overrun
+* Buffer underrun
+* Buffer rape
+* Desconhecimento da função free() por parte dos <s>des</s>programadores
+* Uso exagerado da função malloc() por parte dos <s>des</s>programadores
+* Uso exagerado da função calloc() por parte dos <s>des</s>programadores
+* Total falta de noção quanto ao uso da função realloc() por parte dos <s>des</s>programadores
+* A biblioteca conio.h
+* A dificuldade em manipular strings
+* Retornar endereços de variáveis locais em funções que retornam chars automaticamente promovidos para ints por meio de funções que recebem argumentos variádicos com macros pertencentes ao padrão C99
+* A dualidade ponteiro/vetor. De acordo com o [[princípio da incerteza de Heisenberg]], se você sabe o endereço de memória contido num ponteiro, você não sabe o tamanho do vetor equivalente; se você sabe o tamanho do vetor, você não sabe o endereço de memória sem convertê-lo antes num ponteiro (o que automaticamente faz com que você deixe de saber o tamanho do vetor)
+* O desprogramador <s>e a mula do usuário final</s>
+* Falta de [[café]]
+* Lesão por <s>des</s>Esforço Repetitivo (LER)
+
+Estudos apontam que o uso de coleta de lixo (''garbage collector'') eliminaria todos esses problemas, mas alguns <s>des</s>programadores temem que isso eliminaria (coletaria) a própria linguagem. A própria Boiorland realizou algumas experiências nesse sentido, mas falhou miseravelmente. Felizmente, o coletor de lixo implementado pela Boiorland recolheu apenas o compilador (que, inacreditavelmente, fedia mais que a própria linguagem), mantendo a linguagem intacta.
+
+Uma grave falha de segurança da linguagem C, entretanto, não tem nada a ver com sistemas computacionais, mas com a integridade sexual do <s>des</s>programador. Tal falha se deve ao uso do operador de excitamento ++ que, lamentavelmente, pode levar o programador a atos de sexualidade discutível. Por exemplo, veja o seguinte trecho de código:
+
+ i = i++;
+
+Nesse exemplo, o <s>des</s>programador tenta aplicar o operador de excitamento ++ ao objeto i e inseri-lo no seu próprio objeto, causando comportamento sexualmente indefinido. Apesar dessa falha, a linguagem de programação C é considerada uma linguagem de macho, pois ainda mantém as aparências usando linguagem chula e de baixo-nível... Exceto no caso geral de <s>des</s>programadores do sistema da [[Apple|frutinha]].
+
+== C no Windows ==
+
+<s>Des</s>programadores que usam C no [[Windows]] não conseguem dar um passo sem a salvadora-de-empregos-onipotente biblioteca ''windows.h''. Até mesmo para se criar o método ''main'' é necessário tal avançadíssimo recurso criado, patentiado, registrado e castrado pela <s>MicoSoftware</s> ''[[Microsoft]]''. Vejamos como típico <s>des</s>programador C de Windows começa um programa:
+
+ '''#include <windows.h>'''
+ '''#include <conio.h>'''
+ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
+ LPSTR lpCmdLine, int nCmdShow) {
+    MessageBox(NULL, "Adeus, mundo cruel!\n", "Mensagem", MB_OK);
+    getche();
+    return 0;
+ }
+== <s>(in)</s>Utilidades da linguagem ==
+
+Como sempre, uma linguagem tão [[Dercy Gonçalves|arcaica]] quanto C ainda pode ser útil ([[ou não]]). Segue uma lista das <s>In</s>utilidades da linguagem C.
+
+* '''Fazer o <s>[[POG]]Amador</s> [[programador]]''' parecer o filho de [[Chuck Norris]] uma vez que ninguém entenderá o código dele.
+
+* '''Sistema de controle de estoque da padaria do seu João.
+
+* Programar [[Controle Remoto|microcontrolador]]es
+
+* Fazer o cliente pagar pela manutenção graças as falhas alocação de ponteiros.
+
+== Futuro ==
+
+Hoje existem as linguagens C-dislike-pioradas (tais como [[C mais mais|C++]]), linguagens naturalmente afrescalhadas (como [[Java (linguagem de programação)|Java]]) ou ainda pseudo-linguagens (como [[C#]]). Isso porque quem as inventou não era macho o suficiente para usar C e mete umas porcarias no C, dando a entender que é macho. A isso se chama de metrossexualidade.
+
+Apesar disso, atualmente está em desenvolvimento um novo padrão da linguagem C. O novo padrão irá acrescentar novas funcionalidades àquilo que ninguém sabe como funciona e todo mundo acha que não precisa. Rumores indicam que o novo padrão será chamado '''Cc-Z~''' (pronuncia-se "[[Cecê]]-zão") em homenagem aos [[nerds]] que já trabalham há meses no seu desenvolvimento sem tomar banhos.
+
+{{Linguagens de Programação}}
+
+
+
+
+[[en:C programming language]]
+[[fi:C (ohjelmointikieli)]]
+[[it:C (linguaggio)]]
+[[ja:古代C言語]]
+[[ko:C 프로그래밍 언어]]
+[[pl:C (język programowania)]]

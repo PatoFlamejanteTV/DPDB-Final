@@ -1,0 +1,30 @@
+{{taxocaixa
+| nome            = Embriófita
+| cor             = #7FFFD4
+| imagem          = Lote abandonado.jpg
+| imagem_legenda  = A proliferação de embriófitas é o principal indício de que um lote está abandonado
+| reino           = [[Plantae|Plantinhas]]
+| clado2          = [[Viridiplantae|Viripendio]]
+| clado3          = [[Embryophyta|Embriofita]]
+}}
+
+'''Embryophyta''', ou em português '''embriófitas''', é o nome do grupo das plantas que vivem na [[terra]], não necessariamente apenas no planeta Terra, afinal [[Matt Damon]] já plantou embriófitas com sucesso na terra de Marte, mas que vivem no barro, na lama, na terra. São as plantas que você conhece, que estão no seu vaso de plantas, na sua refeição, no seu jardim, enfim, as plantas que são plantas, excluindo as plantas que são algas por exemplo que aí não são embriófitas mas sim plantas aquáticas. As embriófitas são esses seres inanimados que servem apenas de cenário e para produzir um pouquinho de oxigênio durante o dia, embora roube esse mesmo oxigênio quando fica a noite, então nenhum grupo de embriófita será realmente o pulmão do planeta Terra, até porque o que pulmões fazem fazer é absorver oxigênio e expelir gás carbônico, e nenhuma embriófita faz isso. As embriófitas incluem portanto as árvores, os musgos, os arbustos, as gramas e os matos.
+
+== Características ==
+
+As embriófitas são as plantas terrestres, seres que possuem pouca ou nenhuma mobilidade, que para se mover precisam se humilhar completamente, que pássaros ou macacos comam seus frutos e depois caguem a semente em algum outro lugar, isso no caso das embriófitas vasculares, porque existem as embriófitas não vasculares, estas que mais se assemelham a [[mofo]]s, mas como não são algas, são embriófitas mesmo. O que mais importa é que são todas [[verde]]s.
+
+Como são plantas, se comportam como plantas, e portanto não caçam, ficam ali apenas fazendo [[fotossíntese]] se alimentando de [[dióxido de carbono]], numa preguiça danada, muitas vezes capazes de passarem centenas de anos numa mesma posição.
+
+A sua principal diferença em relação às algas, além de não viver na água, é que as embriófitas possuem gametas femininos e masculinos bem definidos, mas essa é uma definição tão técnica que nem a Wikipédia sabe explicar direito.
+
+== Clados ==
+
+* '''[[Bryophyta]]''' - hepáticas, musgos e antóceros
+* '''[[Tracheophyta]]''' - licopódios, samambaias e plantas com sementes
+
+{{Fitogeografia}}
+{{Seres Vivos}}
+
+[[Categoria:Viridiplantae]]
+[[Categoria:Embryophyta|*]]

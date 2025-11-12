@@ -1,0 +1,55 @@
+{{pokedex}}
+{{voador}}
+
+
+{{PokéBox
+| imagem = Oricorio{{#switch: {{#expr: {{#time: H}} mod 4}}|0=B|1=P|2=Pa|3=S}}.jpg 
+| frase = Oricorio {{#switch: {{#expr: {{#time: H}} mod 4}}|0=bravo por ser comparado a um [[Talonflame]]|1=comemorando por ter um artigo|2=tentando fazer uma macumba|3=tentando te amaldiçoar}}.
+| nihongo = オドリドリ
+| romaji = Odoridori
+| pokedex = 741
+| tipo1 = {{#switch: {{#expr: {{#time: H}} mod 4}}|0=Fire|1=Electric|2=Psychic|3=Ghost}}
+| tipo2 = Flying
+| habilidade1 = Dançar
+| habilidade2 = {{#switch: {{#expr: {{#time: H}} mod 4}}|0=Queimar todo mundo|1=Dar choque em todo mundo|2=Fazer macumbas|3=Amaldiçoar todo mundo}}
+| espécie = Pássaro {{#switch: {{#expr: {{#time: H}} mod 4}}|0=flamejante dançarino|1=líder de torcida|2=dançarino de hula-hula|3=espiritista}}
+| cadeia evolutiva = [[Arquivo:Oricorio{{#switch: {{#expr: {{#time: H}} mod 4}}|0=B|1=P|2=Pa|3=S}}Spr.gif|Oricorio (Baile)]]}}
+
+
+
+{{c|Sério que perdi pra essa coisa?|Rowlet|ser treinado por [[Ash Ketchum|um noob]] e perder para um Oricorio}}
+{{c|Adoro a forma Pa'u.|Alguma [[puta]] <s>ou gay</s>|Oricorio}} 
+{{C|Como essa [[porra]] ainda pode ser macho?|Alguém|Oricorio}}
+{{c|Melhor ser 25% do que 87,5% <s>travesti</s> macho.|Primarina|Citação acima}}
+
+'''Oricorio''' é mais das várias centenas de inúmeros pokémons da <s>infinitodex</s> Pokedex. Ao contrário do [[Vivillon]], que existem [[mais de 8000]] variações, o Oricorio apenas possui <s>de</s> quatro, que se definem por cada ilha. É o número <nowiki>#</nowiki>741 da Pokedex.
+
+Dentre suas formas, Oricorio possui a forma com fogo no rabo, que se chama de ''Oricorio Baile'', a forma líder de torcida ''Pom-Pom'', a forma <s>adoradora de Pau</s> ''Pa'u'', que costuma fazer macumbas psíquicas, e a forma ''Sensu'', que é fantasma e adora amaldiçoar [[todo mundo]] por pura <s>tortura</s> diversão.
+==Suas formas==
+===Baile===
+[[Arquivo:Oricorioformas.jpg|175px|thumb|left|Oricorio e suas formas reunidas <s>para uma suruba</s>.]]
+É a forma principal e mais modinha do Oricorio. Nessa forma, Oricorio gosta de queimar todo mundo com suas asas e consegue ficar [[orgasmo|excitado]] quando faz isso <s>até mesmo colocar fogo em seu rabo</s>. Depois de conseguir chupar <s>sangue</s> o [[sangue|nectar vermelho]] na ilha de Ula'Ula, ele consegue virar nessa forma.
+
+Das principais pessoas que possuem esse pokémon <s>inútil</s>, apenas a pseudo-desconhecida da [[Kahili]] que [[suborno|não se sabe como]], se tornou uma das [[Elite 4]] de Alola, onde possui a versão de fogo, que provavelmente será esquecida por ter que competir com pokémons mais modinhas, tipo [[Charizard|o inicial que virou dragão por <s>choro de seus fãs</s> cotas]] e o [[Talonflame|usuário de Brave Bird]].
+
+===Pom-Pom===
+É a forma secundária de Oricorio, que possui a cor amarela  e como [[Capitão Óbvio|diz seu nome]], possui pom-poms nas suas mãos e como uma líder de torcida, costuma comemorar muito, até quando o treinador quando faz [[merda]]s e com tudo isso, acumula eletrecidade em seus pom-poms que consegue dar choque em todo mundo. Costuma ser visto na ilha de Melemele, por ser o mais inútil deles ([[ou não]])
+
+No anime, aparece na mão de James (não confundir com [[James|esse mesmo idiota]] de mesmo nome), que era o <s>empregado</s> mordomo da Lillie, que batalhou com o [[noob]] do Ash usando esse mesmo Oricorio para testar se o Rowlet do Ash era útil, mas se provou ao contrário e esse mesmo Oricorio venceu fácil o Rowlet fazendo-o dormir, assim como impedir um [[Salandit]] que estava querendo [[roubo|pegar emprestado]] um ovo de [[Vulpix]] que pertencia a Lillie para comer. (<s>nos dois sentidos</s>) Um Oricorio pode ficar nessa forma se tomar <s>urina</s> um néctar amarelo.
+===<s>Pau</s> Pa'u===
+O Oricorio <s>Pau</s> Pa'u apenas costuma ser encontrada na ilha de Akala, onde adora fazer danças mais calmas e adora fazer [[macumba]]s também. É a forma que mais quase faz [[porra nenhuma]], mas com isso, consegue fazer danças psíquicas, confundindo o adversário com isso.
+
+É o único dos pássaros a ter uma dança realmente baseada em [[Havaí|cultura de Alola]], além de seu vestido. Um Oricorio pode se transformar nessa forma se beber <s>sangue misturado com esperma</s> um néctar rosa.
+===Sensu===
+Inspirado na cultura <s>esquisita</s> japonesa, Sensu é a última forma de Oricorio. Nessa forma, ele começa a dançar [[Thriller]] e com isso até pode atrair os mortos. Aqueles que acharem essa dança uma [[merda]] ou até [[xingar muito no Twitter]] sobre sua dança, ele ficará muito [[puto]] com isso e começará a amaldiçoar seus adversários, com seus poderes fantasmas. O Oricorio pode ficar nessa forma se tomar <s>esperma roxa de fantasmas</s> um nectar roxo, na ilha de Poni.
+==Estatísticas==
+Todo Oricorio possui a mesma estatística, e não é muito fraco, também não é apelão. Possui ''476'' e pode ser mais fraco que forte. Tanto sua vida, quanto seu ataque, sua defesa ou sua velocidade são quase a mesma [[merda]]. Oricorio, diferente de vários pokémons da ilha de Alola, por ser uma região <s>baiana</s> preguiçosa, possui velocidade moderada de 93, não sendo tão lento quanto a maioria dos pokémons de Alola.
+==Ver também==
+*[[Kahili]], sua <s>única</s> usuária.
+
+{{Poke7}}
+[[Categoria:Pássaros]]
+[[Categoria:Artigos elétricos]]
+[[Categoria:Fogo]]
+[[categoria:Fantasmas]]
+[[Categoria:Artigos mentais]]

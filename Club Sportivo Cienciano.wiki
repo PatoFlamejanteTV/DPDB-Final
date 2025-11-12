@@ -1,0 +1,54 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = red
+|brasao            = CIENCIANO.gif
+|hino              = 
+|nome_oficial      = Club Sportivo Cienciano
+|origem            = [[Cuzco]], [[Peru]]
+|apelidos          = 
+|torcedores        = Cientistas
+|torcidas          = Cientistas
+|mascote           = Um Burro
+|ilustre           = 
+|estadio           = 
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Peruano de Futebol]]
+|divisao           = 1ª Divisão
+|títulos           = [[Copa Sul-Americana]]
+|ranking           = 
+|uniformetitular   =
+|uniformealt       = 
+}}
+{{c|Chora! Único clube a ser vice de um time peruano!|Torcedor do [[Boca Juniors]] antes de jogar a Recopa|River Plate}}
+{{c|Nem ligo pra esse torneio, já ganhei quatro vezes!|Torcedor do [[Boca Juniors]] mudando o discurso|Recopa}}
+
+'''Club Sportivo Cienciano''', é um clube de futebol velho pra "burro" (Que é justamente o mascote do clube).
+
+== História ==
+=== Fundação ===
+[[Arquivo: Shrek-donkey1.jpg|thumb|left|Mascote do clube.]]
+O Cienciano surgiu em 1901, como um projeto da faculdade de ciências, em um experimento na tentativa de formar um time de futebol formado por burros, assim surgiu o Cienciano, clube predestinado a ser sempre mediano no Peru.
+
+=== Copa Sul-Americana ===
+Com 102 anos de existência o clube nunca tinha ganhado bosta nenhuma, mas foi em 2003 que ele conseguiu o maior feito da história do futebol peruano, o clube foi campeão da Copa Sul Americana. Começou eliminando o grande clube do Peru, [[Alianza Lima]], depois mandou os padre da [[Universidad Católica]] irem embora. O Cienciano despachou três grandes campeões da [[Libertadores]], [[Santos FC|Santos]], [[Atlético Nacional]] e [[River Plate]], papou o título e se tornou o único time do Peru a conseguir ganhar um título internacional, apesar de nunca ter ganhado porra nenhuma no Peru.
+
+=== Recopa Sul-Americana ===
+Se não fosse bastante, o Cienciano jogou a [[Recopa Sul-Americana]] no ano seguinte contra o [[Boca Juniors]], saiu perdendo e só empatou no último minuto, e nos pênaltis os peruanos levaram a melhor.
+
+== Títulos ==
+* '''[[Copa Sul-Americana]]''': 1 vez (2003)
+* '''[[Recopa Sul-Americana]]''': 1 vez (2004)
+* '''[[Campeonato Peruano]]''': NUNCA!!!
+
+{{Campeonato Peruano}}
+
+[[Categoria:Times de futebol do Peru|Cienciano]]
+
+[[es:Cienciano del Cuzco]]

@@ -1,0 +1,39 @@
+{{taxocaixa
+| nome           = Iguanídeos
+| cor            = #006400
+| imagem         = Iguanidae.jpg 
+| imagem_legenda = Iguanídeo lendo este artigo (mentira, ele precisaria de um [[monóculo]] para ler)
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Tetrapoda|Quadrúpedes]]
+| classe         = [[Reptilia|Dinossauros]]
+| ordem          = [[Squamata|Acamados]]
+| subordem       = [[Sauria|Lagartos]]
+| família        = [[Iguanidae|Iguaria]]
+}}
+
+'''Iguanidae''' são uma família popular de [[lagarto]]s comestíveis frequentemente usados para fins de estimação e que são vítimas frequente de parafilias humanas, especificamente os biólogos aficionados em [[Charles Darwin|Darwin]] (o primeiro homem do mundo que admitiu sua tara por iguana) que o tratam com mais importância que Deus. Os '''iguanídeos''' vivem no litoral da América e em ilhas isoladas onde gostam de ficar amontoados sem fazer porra nenhuma da vida.
+
+== Anatomia ==
+
+Os iguanídeos são todos animais [[Eletricidade|elétricos]], mas que conforme tua evolução se sucedeu, tiveram esta capacidade de dar choques direcionada em seus genes recessivos, de maneira que iguanas que dão choque sejam raríssimos na natureza. A prova disso está numa simples observação das bochechas de qualquer iguana, onde será observado que há lá uma bola desenhada que é anatomicamente descrita como "[[eletrócito]]", e tal qual o [[Pikachu]] estes bolas na bochecha lhes serve para polarizar as cargas negativa e positiva do ar ao seu redor e disparar raios de eletricidade.
+
+As escamas dos iguanídeos são únicas na ordem dos [[lagarto]]s, parecendo que eles estão frequentemente usando um casaco feito de couro tricotado com vários detalhes em babados ao redor da face.
+
+Não possuem órgão sexual, e se reproduzem de maneira cutânea, ou seja, basta um iguana se esfregar no outro que eles já estão se fertilizando. O que explica porque eles sempre são vistos amontoados uns nos outros.
+
+As vértebras dos iguanídeos se expandem, criando uma crista ao longo de toda a costa do animal dando a eles um visual [[punk]], mas os iguanídeos não gostam de serem chamados de punk (e muito menos de hibster, se quer saber), afinal a maioria deles são animais de bons costumes.
+
+== Gêneros ==
+
+* '''[[Amblyrhynchus]]''' - iguana-marinha
+* '''[[Brachylophus]]''' - iguanas-fijianas
+* '''[[Conolophus]]''' - iguanas-terrestre-das-galápagos
+* '''[[Ctenosaura]]''' - iguanas-de-cauda-espinhosa
+* '''[[Cyclura]]''' - iguanas-das-rochas
+* '''[[Dipsosaurus]]''' - iguana-do-deserto
+* '''[[Iguana]]''' - iguanas-verdes e iguanas-antilhanos-menores
+* '''[[Sauromalus]]''' - chuckwallas
+
+[[Categoria:Sauria]]
+[[Categoria:Iguanidae|*]]

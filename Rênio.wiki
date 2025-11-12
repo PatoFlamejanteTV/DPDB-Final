@@ -1,0 +1,47 @@
+{{Infobox/elemento químico
+|nome              = Rênio
+|imagem            = Rhenium element.jpg
+|legenda           = Rênio em pó, ótimo pra misturar no leite
+|símbolo           = [[Ré|Re]]
+|número            = [[75]]
+|série             = [[metais de transição|metal que é metal]]
+|isótopo           = <sup>185</sup>Re
+|massa_atômica     = 186,2 cu
+|dureza            = -
+|radioatividade    = Nula
+|toxicidade        = Pirofórico
+|comestível        = Na [[feijoada]]
+|inalável          = Não
+|passar_na_pele    = Não
+|onde_encontrar    = Pode começar cavando no [[Rio Reno]]
+|ponto_de_fusão    = -
+|ponto_de_ebulição = -
+|super-herói       = Te transforma no [[Ren & Stimpy]]
+}}
+'''Rênio''' é um elemento químico da famigerada tabelinha colorida. Ao contrário do que você possa pensar ele nada tem a ver com [[rena]]s, e portanto não pode ser trazido pelo [[Papai Noel]]. Aliás ele não está presente na vida de ninguém, sendo tão raro que nem eu conheço.
+
+==História==
+
+O rênio foi o último elemento natural a ser descoberto, o resto deles foi coberto pelo [[Dmitri Mendeleev]]. Recebeu esse nome tosco que lembra o [[nada]] em homenagem ao rio [[Reno]], que fica próximo esconderijo do [[Hitler]], e não em homenagem ao [[Rudolf]], para quem ainda acredita no [[Papai Noel]]. O elemento foi encontrado durante a procura pela [[42|resposta para a vida, o universo e tudo mais]], quando extraíram 1 grama desse elemento processando <s>[[666]]</s> 660 gramas de [[molibdenita]], um mineral derivado do elemento 42, a resposta para tudo na Química. 
+
+Porém, na década de 1940, o processo de obtenção do rênio se torna caro e difícil, então algum gênio sem qualquer tipo de vida social criou as ligas metálicas [[tungstênio]]-rênio e [[molibdênio]]-rênio. Aquela indústria fuleira dos anos 40 acabou ganhando uma ajuda cabulosa e deu um ''upgrade'' na produção, o que gerou a alta produção do rênio e consequentemente o [[tráfico]] deste.
+
+==Características==
+
+Metal branco prateado e brilhante que apresenta um dos maiores pontos de fusão dentre os coleguinhas, é um dos elementos que se derretem com mais graciosidade e desenvoltura. É o quarto mais denso, pois sua espessura considerável tem a capacidade de satisfazer até a [[sua mãe]]. Devido a ser um metal com sangue de <s>rena</s> barata, tem inúmeros estados de oxidação, ideais para aprender os números.
+
+Sua forma comercial geralmente é em pó, porém o rênio não deve ser cheirado em hipótese alguma, pois muito pouco se sabe sobre sua toxicidade devido ao fato de ninguém ter tido paciência suficiente para estudar o rênio a fundo.
+
+==Aplicações==
+
+* Utilizado naquelas lâminas gigantes que você viu girando nas turbinas de [[avião|aviões]]... porque eu nunca vi.
+* Usado extensiva e irrelevantemente como filamentos em espectrógrafos de massa e em detectores de íons.
+* Ligado ao tungstênio ou ligas a base de molibdênio para melhorar suas propriedades e deixá-los mais bonitinhos.
+* O fio do rênio é usado em lâmpadas de flash para fotografias.
+* Em termopares de rênio e tungstênio que medem temperaturas de 2200ºC, pois o mercúrio não tem cacife para medir tamanha ''quentura''. 
+
+{{Tabela periódica}}
+{{DEFAULTSORTKEY:Renio}}
+
+[[Categoria:Elementos químicos]]
+[[Categoria:Metais de transição]]

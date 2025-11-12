@@ -1,0 +1,31 @@
+{{taxocaixa
+| cor             = white
+| nome            = Eukaryota
+| imagem          = Jim Carrey Dumb-and-Dumber-Inside.jpg
+| imagem_legenda  = Um ser composto por células eucariontes, esbanjando superioridade sobre os procariontes
+| domínio         = [[Eukaryota|Eu cara idiota]]
+}}
+
+'''Eukaryota''' é o domínio que inclui todos seres vivos formados por células encapadas num invólucro citoplasmático de alguma coisa. Ou melhor dizendo, seres vivos que não sejam as bactérias e não sejam células em formato de Tic Tac. É algo tão simples mas que os biólogos insistem em complicar com cada professor aloprado dando a sua própria versão do que é exatamente nos mínimos detalhes um ser eucarionte e qual o nome de sua classificação, mesmo que para métodos práticos o grupo seja considerado um [[domínio (biologia)|domínio]].
+
+== Características ==
+
+As células eucariontes possuem necessariamente um núcleo, que geralmente é formado por vitaminas, antibióticos, ácidos nucleicos, ácidos graxos e todos demais nomes esquisitos que lhe vier à mente, muito embora em todos desenhos de qualquer célula eucarionte que eu tenha visto, este tal núcleo mais parece aqueles tufos de sujeira acumulada, o que sustenta a tese de [[abiogênese]] de que animais unicelulares possam surgir daquele acúmulo de pelos, pele e sujeira que se acumulam atrás de móveis.
+
+Possuem também [[DNA]] sequenciado e protegido, o que significa que as células do ser nascem com funções predeterminadas de morrer algum dia (curioso, não?). E também os [[gene]]s, que são informações químicas passadas aos descendentes, de maneira que um espertalhão que acasale com uma cabra não vá gerar sob hipótese nenhuma algum [[sátiro]] que hoje sabemos ser apenas uma espécie independente.
+
+Os eucariontes também possuem em suas células as famigeradas [[mitocôndria]]s, um pequeno pedaço do diabo incrustado nas células os quais as professoras de todas classes de ensino médio do mundo amam perguntar para que servem para que ninguém acerte todas questões da prova, afinal ninguém sabe o que uma mitocôndria realmente faz.
+
+A sua reprodução se dá por [[mitose]] ou [[meiose]] numa tentativa frustada de formar seres assexuados, porém quando os eucariontes tornam-se seres pluricelulares que quando cortados ao meio morrem ao invés de se tornarem dois indivíduos, eles precisam [[sexo|meter]] para que a mitose e meiose de suas células gerem descendentes.
+
+== Reinos ==
+
+* '''[[Animalia]]''' - animais
+* '''[[Fungi]]''' - fungos
+* '''[[Plantae]]''' - plantas
+* '''[[Protista]]''' - seres vivos indefinidos que são agrupados aqui quando não são nem planta, nem fungo, nem animal, nem bactérias
+** '''[[Amoebozoa]]''' - amebas
+* '''[[Cromista]]/[[Chromalveolata]]''' - algas
+
+[[Categoria:Seres vivos]]
+[[Categoria:Eukaryota|*]]

@@ -1,0 +1,30 @@
+[[arquivo:Parallelogram AB eq CD BC eq DA.svg|thumb|220px|Um [[paralelogramo]] posando como se fosse o [[retângulo]] bêbado da geometria: quatro lados, lados opostos iguais e paralelos, e ainda sobrando tempo pra [[inclinar]] como [[Torre de Pisa]] com [[ressaca]]]]
+
+'''Paralelogramo''' é o [[quadrilátero]] que vive de [[paralelismo]]: lados opostos iguais e [[paralelos]], ângulos opostos iguais, mas pode ser [[torto]] como [[político]] em [[campanha]]. [[Retângulo]], [[losango]] e [[quadrado]] são filhos dele [[família disfuncional]]. Área? Base × altura [[professor]] [[aponta]], [[aluno]] [[dorme]].
+
+==História Rápida==
+[[Euclides]] definiu em 300 a.C. como "[[figura]] com lados [[paralelos]]". [[Descartes]] deu [[coordenada]]s pra não [[desabar]]. [[Arquitetura]] usa pra [[janela]] [[inclinada]].
+
+==Cultura Pop==
+
+* [[Bandeira]]: [[Brasil]] tem losango dentro de [[retângulo]] paralelogramo [[escondido]].
+* [[Mesa de sinuca]]: [[retângulo]] é paralelogramo [[perfeito]].
+* [[Esquema de pirâmide]]? Não, mas [[hierarquia]] é [[paralela]] ao [[fracasso]].
+
+==Curiosidades==
+
+* [[Quadrado]] é paralelogramo [[careta]].
+* [[Papel]] paralelogramo? [[origami]] [[torto]].
+* [[Vector|Vetores]]: soma forma [[diagonal]] [[física]] [[ama]].
+
+{| class="wikitable"
+! Tipo || Característica
+|-
+| [[Retângulo]] || Ângulos retos
+|-
+| [[Losango]] || Lados iguais
+|-
+| [[Quadrado]] || Tudo igual ([[rei]])
+|}
+
+{{Predefinição:Formas geométricas}}

@@ -1,0 +1,149 @@
+{{Matemática}}
+
+
+
+'''Números decimais''' são números que dizem que o número é ''quebrado'' ([[Capitão óbvio|Ou não é inteiro]]), ou está na casa das décimas... Então você se pergunta: ''mas como assim, quebrado''? (Simples, alguém foi lá e surrou ele.) Olhe nesse exemplo: <math>0,259821</math>.
+Entendeu? Bom, se sim, continue lendo, se não, vá embora daqui, e vá [[Especial:Aleatório|ler sobre algo que precise de menos neurônios]].
+
+==História==
+
+[[Fração]] e Número Decimal é a mesma coisa, só que os Decimais são mais [[Frescura|bunitinhos]]. Segundo a [[Enciclopédia Barsa]], quem criou essa complicação de provas escolares foi [[Simon Stevin]], que não tinha mais o que fazer, criou isso quando fazia uma receita de bolo, e percebeu que precisava anotar de ''Modo Diferente'' a medida ''Meia Xícara de trigo'', então criou um [[Gay|Pau Cruzado]] entre dois números para simbolizar ''um meio'' e depois de pensar por várias horas ele desenvolveu isso: <math>\frac{1}{2}</math>. 
+Mas como isso fica muito incômodo para números grandes, um holândes chamado [[John Naiper]] (ele é matemático, não jogador de truco) desenvolveu essa vírgula miserável para ficar tudo mais simples. Em teoria, porque só complicou mais as coisas.
+
+==A Casa Decimal==
+
+Casa Decimal nada mais é o número que está depois da vírgula <s>Nem precisava de explicação</s>
+Exemplos:
+
+*'''0,43'''[[Arquivo:Numerodecimal.jpg|thumb|Você <s>se fodendo</s> tentando responder contas com números decimais]]                                
+
+*'''43,44454647'''
+
+E assim Sucessivamente. É muito simples ([[Ou não]]).
+
+==Nomes que se dão as essas porras==
+
+{| class="wikitable"
+|-
+! Valor !! Nome !! Quantidade casinhas que você pula
+|-
+| align="right" | 10<sup>−1</sup> || Décimo || 1
+|-
+| align="right" | 10<sup>−2</sup> || Centésimo || 2
+|-
+| align="right" | 10<sup>−3</sup> || Milésimo || 3
+|-
+| align="right" | 10<sup>−4</sup> || Décimo de milésimo || 4
+|-
+| align="right" | 10<sup>−5</sup> || Centésimo de milésimo || 5
+|-
+| align="right" | 10<sup>−6</sup> || Milionésimo || 6
+|-
+| align="right" | 10<sup>−7</sup> || Décimo de milionésimo || 7   
+|-
+| align="right" | 10<sup>−8</sup> || Centésimo de milionésimo || 8
+|-
+| align="right" | 10<sup>−9</sup> || Bilionésimo || 9
+|-
+| align="right" | 10<sup>−10</sup> || Décimo de bilionésimo || 10
+|-
+| align="right" | 10<sup>−11</sup> || Centésimo de bilionésimo || 11
+|-
+| align="right" | 10<sup>−12</sup> || Trilionésimo || 12
+|-
+| align="right" | 10<sup>−13</sup> || Décimo de trilionésimo || 13
+|-
+| align="right" | 10<sup>−14</sup> || Centésimo de trilionésimo || 14
+|-
+| align="right" | 10<sup>−15</sup> || Quatrilhonésimo || 15
+|-
+| align="right" | 10<sup>−16</sup> || Décimo de quatrilhonésimo || 16
+|-
+| align="right" | 10<sup>−17</sup> || Centésimo de quatrilhonésimo || 17
+|-
+| align="right" | 10<sup>−18</sup> || Quintilhonésimo || 18
+|-
+| align="right" | 10<sup>−19</sup> || Décimo de quintilhonésimo || 19
+|-
+| align="right" | 10<sup>−20</sup> || Centésimo de quintilhonésimo || 20
+|-
+| align="right" | 10<sup>−∞</sup> || Infinitésimo || [[Infinito|∞]]
+|-
+|}
+
+Se você leu a tabelinha, parabéns, você sabe uma coisa ''Verídica'' sobre Decimais. Se não leu, você provou que não é [[Nerd]] e não perde tempo com tabelinhas copiadas da [[Wikipédia]].
+
+==Operações com esses números do Capeta==
+
+Fazer contas com esses números é igual a qualquer outra operação <s>só que não</s>.
+
+===Adição===
+
+{{c|Quando se [[adição|adiciona]] um número decimal com outro número decimal, a regra deve ser "Número inteiro abaixo de número inteiro, vírgula abaixo de [[vírgula]] e casa decimal abaixo de casa decimal."|Seu professor de matemática|adição com números decimais}}
+
+Se você foi burro e não entendeu a citação, observe isto:
+
+    <center>'''  30,30'''</center>
+    <center>'''+ 30,30'''</center>
+   <center>'''  ————————'''</center>
+    <center>'''  60,60'''</center>
+
+===Subtração===
+
+Segue praticamente a mesma regra da Adição, só que aqui [[Capitão óbvio|você diminui]]:
+
+Ex:<center>'''   40,40'''</center>
+    <center>'''- 20,20 '''</center>
+   <center>'''  ———————'''</center>
+    <center>'''  20,20'''</center>
+
+Se mesmo assim você não entendeu, sugiro que não durma nas aulas de matemática, porque daqui pra frente só complica mais.
+
+===Multiplicação===
+
+Nessa operação você Multiplica, e anda quantas [[Frescura|casinhas]] tiver depois dos números que tiver depois da vírgula. AINDA não entendeu? Mais um Exemplo:
+
+    <center>''' 10,10'''</center>
+    <center>'''* 10,10 '''</center>
+    <center>'''  ———————'''</center>
+    <center>'''  102,01'''</center>
+
+Viu? dois números depois da vírgula, no resultado da no mesmo. Até a [[Carla Perez]] consegue fazer! <s>Acertar o resultado da conta é outra história..</s>
+
+===Divisão===
+
+Essa é fácil também, mas a [[Carla Perez]] não consegue fazer. Quando vai fazer a Divisão e "Vê" que o número não divide pelo que está na chave, coloca um '''0''' e uma vírgula no resultado e mais um '''0''' no número que vais ser dividido e termina a conta normalmente. 
+
+ <center>'''5,55 ÷ 10 '''</center>
+
+
+ <center> o '''5''' não divide por '''10''', então coloca um '''0''' e uma vírgula no resultado </center>
+
+
+ <center>'''5,55 ÷ 10 = 0, '''</center>
+
+
+ <center>'''55''' dividido por '''10''' é '''5''', e como só tem '''5''' nessa conta, continua dividindo infinitamente...</center>
+
+
+ <center>'''5,55 ÷ 10 = 0,555555555555555555555555.....∞'''</center>
+
+Viu? Qualquer [[noob]] consegue fazer essa operação, é [[Mentira|muito simples]].
+
+==Exemplos de números decimais <s>Seção só pra encher linguiça</s>==
+
+*'''0,42'''
+
+*'''0,66666'''
+
+*'''0,333333333333'''
+
+==Ver também==
+
+* Números DeciMenos
+
+* [http://www.saladosprofessores.com/index.php?option=com_smf&Itemid=62&topic=3422.0 Vácuo na "Sala dos Professores": discussão sobre os Números Decimenos]
+
+{{oposto|Números Decimenos}}
+
+[[Categoria:Números|decimais]]

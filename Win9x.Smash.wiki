@@ -1,0 +1,39 @@
+[[Arquivo:Smash virus.jpg|thumb|Smash dando seu aviso: sua vida virou um inferno!]]
+
+{{c|[[Tou Com Bit na Cabeça]]!|Teu pai|pegar o Smash no PC}}
+
+'''Smash''' ou '''Win9x.Smash''' é um [[vírus de computador]] polimórfico, um dos raros de sua classe, que deu uma merda do cacete para diversos usuários de Windows 9x ([[Windows 95]], [[Windows 98]] e [[Windows ME]]) enquanto esteve espalhado por aí afora. Como ele é dos tempos dos anos 1990, não foi necessariamente um demônio espalhado tanto pela internet, já que nesse tempo a [[inclusão digital]] estava a anos luz de existir, e sim espalhados por um troço aí que provavelmente você duvidaria que isso existiu um dia: [[disquete]]s.
+
+== História ==
+
+Era o dia [[14 de julho]] de [[2000]]. Muitos meses se passaram desde que o tão temível [[Bug do Milênio]] se provou um fracasso na tentativa de causar um cybercalipse, só destruindo computadores de pobres imbecis que não tinham grana para ajeitar o clock da máquina. 
+
+E aí um monte de gente estava de boa tentando jogar um joguinho que vinha em disquetes que supostamente seria um joguinho a la [[Tetris]], de montar e esmagar, por isso o nome de "Smash". Essas primeiras pessoas tiveram acesso a esse suposto jogo nessa data, já outros já haviam tentado jogar ele em outras datas, mas curiosamente sem sucesso, clicavam no programa e nada acontecia ou se abria.
+
+Daí no dia 14 de julho, por algum motivo aleatório, essa criação de um tal de Domitor se ativava, bugando o programa [[Rundll]] e a [[DLL]] principal do Windows, [[IO.SYS]], e aí diversos executáveis que você tentar abrir acabará mostrando uma [[Tela Azul da Morte]] especial assim:
+
+ '''{{cor|blue|ALERTA DE VÍRUS!}}'''
+ {{cor|blue|Seu computador foi infectado por um vírus}}
+ {{cor|blue|Seu nome é 'SMASH', projeto D versão 0x0A.}}
+ {{cor|blue|Criado e compilado por Domitor.}}
+ {{cor|blue|Acho que seus piores pesadelos viraram realidade...}}
+
+E aí fodeu, ele vai começar a destruir um a um teus executáveis, tornando o computador praticamente inacessível. Pior: se você reiniciar o computador... bem, o vírus simplesmente iniciará um processo de [[formatação]] geral e adeus HD e tudo que tinha nele!
+
+== Como resolver o problema? ==
+
+Bem, é só não reiniciar o programa e colocar um [[antivírus]] decente, aí o problema se acaba totalmente. Mas né, ano 2000, maioria dos usuários era burro demais para saber disso e eles mesmos assassinavam seu próprio computador. Burrice...
+
+== Curiosidade ==
+
+Tentar rodar essa porcaria em Windows depois do [[Windows 2000]] e outros de tecnologia NT, bem como outros sistemas operacionais, dá errado demais porque esses funcionam de um jeito bem diferente. Logo, esse vírus bem dizer apareceu numa época meio errada, já que pouco depois, com a popularização do [[Windows XP]] e [[Linux]], o propósito dessa porra foi pra puta que a pariu.
+
+== Autoinfecção com o Smash ==
+
+<youtube>https://youtube.com/watch?v=auzumF2F4pQ</youtube>
+
+(Mas, na moral, que animal se autoinfecta com isso?)
+
+{{Vírus}}
+
+[[Categoria:Década de 2000]]

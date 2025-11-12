@@ -1,0 +1,60 @@
+{{Logotipo falso|Descomics.jpg}}
+<table style="background-color:#BDB76B; font-family:verdana,Arial, Helvetica, sans-serif; font-size:100%; margin:0; border: 1px solid #FFA07A; padding:7px 7px 0px 7px;" width="100%">
+<tr><td>
+<!-------------------------------------------
+ 1.2 - Data e estatísticas
+----------------------------------------------->
+<div style="margin: 0; padding: -27px 0 0 0; float: right; font-family:verdana, Arial, Helvetica, sans-serif; font-size: 100%; text-align: right; line-height: 135%;">
+<small>{{CURRENTTIME}} de [[{{CURRENTDAYNAME}}]]; [[{{CURRENTDAY}} de {{CURRENTMONTHNAME}}]] de [[{{CURRENTYEAR}}]]</small><br>'''<span class="plainlinks">[http://pudim.info/wiki/Categoria:Descomics {{PAGESINCATEGORY:Descomics}} Personagens] · [[Special:Categories|Índice geral]]</span></div>
+
+<!--------------------------------
+ 1.3 - Mensagem de boas-vindas
+---------------------------------->
+<div style="margin: 0; padding: 0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 160%;">Bem-vindo(a) ao '''Descomics'''</div>
+<div style="padding: 2px 0 0 85px; margin: 0; font-family: Arial, Helvetica, sans-serif; font-size: 90%;">O maior universo de [[Super-herói]]s de todos os [[multiverso]]s. Até os que eu não conheço!</div>
+</td></tr>
+</table>
+
+<!--------------------------------
+1.4 - Conteúdo Principal
+---------------------------------->
+<!-- {|cellspacing="5" cellpading="3"
+|- 
+|style="width:60%;  vertical-align: top; padding: 0.5em 2em 1em 0em; text-align: left;" rowspan="3"|-->
+{|style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width:55%;border:1px solid #cef2e0;background-color:#F5F5F5;vertical-align:top;color:#000"|
+{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#F5F5F5"
+|-
+|-
+|<span style='font-size: 100%; font-weight: bold; font-family: georgia, serif;line-height:105%'>[[predefinição:Descomics destaque|Personagem em destaque]]:</span>
+|-
+|style="color:#000"|{{Descomics destaque}}
+|}
+|class="MainPageBG" style="width:45%;border:1px solid #cedff2;background-color:#f5faff;vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff"
+|-
+|  height="1" bgcolor="#BDB76B"|<center>'''[[Predefinição:Últimos personagens|Últimos personagens:]]'''</center><br>
+|-
+|  height="1" bgcolor="#F0F5FF" class="plainlinks" valign="top" | {{Últimos personagens}}
+|-
+| {{Criar novo personagem}}
+|-
+| '''Você pode criar:'''
+|-
+|
+*[[Cuspidor Assassino]]
+*[[Mestre da Rapadura]]
+*[[Nussakkoman]]
+*[[Mulher Rodadora de Bolsa]]
+|-
+|}
+|}
+
+<!-- PROJETOS PARALELOS --------------------------------------->
+<h2 style="border-top:1px solid #dfdfdf; background-color:#CBD7F9; font-size:1.1em; font-weight:700; margin:8px 0px 0px; padding:0.2em 1em; -moz-border-radius:30px; -moz-border-radius-bottomleft:0; -moz-border-radius-bottomright:0;" align="center">Outros Desprojetos</h2>
+<div class="desentrevistas-box" style="padding-bottom: 0.2em; padding-right: 0em;">
+{{projetos_correlatos}}
+</div>
+{{Línguas Desciclopédia}}
+
+[[Categoria:Página Principal]]

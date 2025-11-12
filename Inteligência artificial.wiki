@@ -1,0 +1,60 @@
+{{ampliar}}
+{{Tecnologia}}
+
+{{c|Não é feitiçaria, é tecnologia|[[Feiticeira]]|{{PAGENAME}}}}
+{{c|É muito difícil ir de Arad a Bucareste! Preciso de um algoritmo!|[[Stuart Russell]] e [[Petter Norvig]](Autores do livro texto mais usado em [[IA]], Sua Anta!!!)|{{PAGENAME}}}}
+{{c|Melhor! vamos fazer um livro de 1000 páginas sobre isso e mandar nossos alunos fazer o algorítmo!!|[[Petter Norvig]] falando para [[Stuart Russell]] |{{PAGENAME}}}}
+{{c|Genial!|[[Stuart Russell]] falando para [[Petter Norvig]] |a Citação anterior}}
+{{C|Oba !!!|Onde é que eu compro?|Carla Perez|Inteligência artificial}}
+{{C|É um programa, [[Loira burra|loira]], e não um fazedor de milagres!!! Quer milagre? Vai na [[igreja Universal|Universal]], deixa teu dinheiro lá e espera; quando a Ilha Solteira se casar, o teu milagre vai acontecer. [[Ou não |OU NÃO]].|[['''[[eu|EU]]''']]|Citação acima}}
+
+A '''Inteligência Artificial''' não tem uma definição única, pois ela é algo muito complexo para que seja definido e várias frentes teóricas discutem qual seria a melhor denominação desta. Em suma, esta ciência tenta regredir a inteligência do computador a algo mais humano, ou seja, mais tolo. Uma hora, é capaz de ficar atingir o mesmo grau de inteligência de que são dotados os seres humanos. Não, pera... [[Você]] que está lendo este artigo ''não está incluído nisso''.  
+
+
+== Introdução ==
+[[Arquivo:FamiliaNerd.jpg|thumb|170px|Crianças robôs com inteligência artificial são comumente usadas por [[nerd|cidadãos incapacitados de constituir família]]]]
+Há uma definição desta ciência tem como base duas frentes teóricas principais. A primeira chamada ''[[Ciência da Computação#Intelig.C3.AAncia_Artificial|Existencial-Purista-Weak]]'' diz que a Inteligência Artificial envolve métodos utilizados para deixar computadores estúpidos o bastante para parecer humanos e tomar decisões pífias. Ela tem como principal objetivo propor a construção de um cérebro artificial que pudesse, finalmente responder à pergunta: "Qual é a definição de Inteligência Artificial?" E o primeiro e principal objetivo da construção desta nova inteligência é finalmente matar uma angustiante curiosidade que atormenta e atordoa muitos brasileiros: {{C|'''"Quando é que (se é que) o Palmeiras vai ganhar o Mundial???"'''|}}
+
+Já a segunda, ''Polinomial-Dadaísta-Turingiana'' define que a Inteligência Artificial não precisa tomar decisões como a ''Purista-Weak'', mas tem que raciocinar como um humano, não necessariamente tomando decisões e dando respostas, sendo que estas respostas devem ser tão idiotas quanto o possível.
+
+Resumindo, ambas as frentes teóricas formam um complô para tornar o computador, esta legítima máquina
+onipotente-onipresente-oniconsciente-inteligente em algo dotado de nanismo mental chamado [[humano]].
+
+== História ==
+
+A Inteligência Artificial foi proposta no [[Japão]], na década de 60, inicialmente para ser usada nos robôs, sim robôs, que cerca de 20 anos depois seriam chamados por diversos nomes como [[Jiban]], [[Jiraya]], [[Jaspion]] dentre outros.
+
+== Aplicações ==
+[[Arquivo:RoboIA.jpg|thumb|Robô com Inteligência Artificial penteando seus longos cabelos]]
+As aplicações desta área são as mais interessantes e têm potencial de ajudar a humanidade trazendo novas perspectivas para o futuro, seja com cachorros-robô que latem ao ver o dono, robô que faz ginástica, luminárias que mudam de cor com a mudança da temperatura. Veja que estas aplicações têm a maior relevância e são o que bilhões de dolares em pesquisas conseguiram [[Merda|gerar]] até hoje.
+
+Além disto, ela serve como base para filmes que nada tem a ver com Inteligência Artificial, apesar de serem denominados como tal, mas que dão a diretores e atores dinheiro de pessoas que após assistirem o filme pensam ter entendido o sentido da vida e tudo que realmente pode ser feito com um cérebro artificial, que é nada.
+
+[[Arquivo:IA_erro.png|thumb|e tá errado?]]
+Outra aplicação comum são os jogos de [[computador]] e [[video games]]. Jogos como [[The Sims]] contam com uma ''engine'' de Inteligência Artificial que consegue imitar um humano como poucos, apenas os do [[Mobral]]. Em contrapartida, um outro exemplo é o jogo [[Driver]] no qual os pedestres nunca são atropelados devido a perspicácia definida pela IA empregada neste jogo, ou seja, uma mentira cabeluda.
+
+Mas as aplicações mais importantes da IA são dentre elas: Descobrir o caminho para ir de Arad a Bucharest; colocar oito rainhas em um tabuleiro de xadrez sem que nenhuma ataque a outra; fazer o guerreiro chegar ao ouro sem cair no poço e sem ser devorado pelo Wumpus; ou então descobrir quem é pai ou filho, primo ou avô, mãe ou tataraneta, papagaio ou cachorro do tio da vizinha de alguém.
+
+==A poda alfa beta ==
+
+É o algoritmo que a inteligência da polícia utiliza para prender os bandidos. Usam o corte alfa beta para podar os bandidos menores, e nunca o pai deles, para poderem continuar a ser úteis. É usado também em larga escala por jardineiros e floriculturas que, podam sempre os nos folhas desnecessários e preservam os nos raízes. A poda consiste em uma verificação pericial de toda a árvore se há galhos ou no folhas desnecessários eles são podados.
+
+== Ver também ==
+* [[WNN]]
+* [[Ciência da Computação]]
+* [[Carla Perez]]
+* [[Artigo escrito por uma inteligência artificial]]
+
+{{oposto|Burrice natural}}
+{{Temas da ficção científica}}
+{{Inteligências Artificiais}}
+
+[[Categoria:Ciência]]
+[[Categoria:Inteligência artificial|*]]
+[[Categoria:Tecnologia maligna]]
+
+[[da:Kunstig intelligens]]
+[[de:Künstliche Intelligenz]]
+[[en:Artificial intelligence]]
+[[eo:Artefarita intelekto]]
+[[fi:Tekoäly]]

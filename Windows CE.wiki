@@ -1,0 +1,40 @@
+{{você quis dizer|[[Dreamcast]]}}
+
+[[Arquivo:Windows CE standarized logo.jpg|left|150px]]
+'''Windows CE''', ou simplesmente '''WinCE''', é aquele [[Windows]] que [[você]] (e eu) usava no [[celular]], muito antes do surgimento do [[Windows Phone]], e muitas vezes não consegue-se rodar coisinhas simples, como, por exemplo, ''[[Runescape]]'', ''[[GTA IV]]'', ''[[Battlefield 3]]'', ''[[Lunia]]'', ou aqueles joguinhos de poucos gigabytes {{-}} 565656471384617826487127356156471256547,648127647182648716476 (e por ai fora) {{-}}, mas principalmente ''Mega City'', ''Minifazenda'', ''Cafemania'' etc., etc.
+
+==História==
+[[Arquivo:WinCE 3.0 for Handheld PC.png|right|thumb|200px|O WinCE não era semelhante ao Win95 apenas na interface. Também possuía os mesmos travamentos e BSODs.]]
+O Windows CE foi criado em [[1996]] por um programador [[Região Nordeste|nordestino]] que fazia freelances para a [[Microsoft]]. A empresa de [[Bill Gates]] estava decidida a lançar uma versão do [[Windows 95]] para telemóveis e ''handhelds'', mas encontrava dificuldades para adaptar o sistema operacional a dispositivos móveis. Foi aí que esse programador veio com a solução.
+
+Nos primeiros testes, a empreitada tinha tudo para ter êxito. O celular em que a versão de testes foi iniciada apresentava constantes travamentos e, numa das vezes em que foi resetado, apareceu a [[tela azul da morte]].
+
+Gates, observando os testes, exclamou admirado: {{Aspas|Ótimo! Perfeito! Absolutamente igual à versão para PC! Parabéns! Podem lançar no mercado!}} Inicialmente, a Microsoft cogitava dar o nome Windows 95 Mobile Edition, mas logo deu o nome definitivo de Windows CE {{-}} com o CE não significando “Embedded Compact”, como se acredita, mas como uma homenagem ao [[Ceará|estado natal]] do programador freelance.
+
+== O que você '''não''' pode fazer com o Windows CE ==
+[[Imagem:Dreamcast windows ce.jpg|thumb|Sim, se não fosse o [[Dreamcast]] você nem saberia da existência do Windows CE.]]
+* Jogar
+* Transar (apesar de que os bugs lhe fodem)
+* Acessar redes {{strike|antis}}sociais
+* Curtir o som
+* Sentar
+* Beijar
+
+== O que você pode fazer com o Windows CE ==
+* Olhar para ele estupidamente
+* Rodar ''Freecell'' e outras porcarias
+* Enlouquecer a ponto de acabar no [[inferno]]
+* Bater a [[cabeça]] na [[parede]] de [[raiva]]
+
+==Curiosidades==
+{{Curiosidades}}
+* O Windows CE é o sistema operacional usado no [[Dreamcast]], o que propiciou aos ''gamers'' a incrível sensação de experimentar no [[videogame]] a frustração de se deparar com uma [[BSOD]] num console.
+
+== Ver também ==
+
+* [[Dreamcast]]
+* [[Windows Mobile]], sucessor fracassado do CE
+
+{{esboço}}
+
+{{Windows}}

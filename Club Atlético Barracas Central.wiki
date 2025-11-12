@@ -1,0 +1,51 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = red
+|brasao            = Escudo do Barracas Central.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{ARG}}''' - [[Barracas]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Barracas]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Argentino de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Club Atlético Barracas Central''' é o time que prova que na vasta cidade de Buenos Aires, até mesmo os clubes com nomes menos conhecidos podem ter uma história tão vibrante quanto uma milonga!
+
+== História ==
+=== O Início: Capítulo 1 - "Um Clube Nascido da Paixão" ===
+Fundado em 1904, o Barracas Central FC nasceu no bairro de Barracas, em Buenos Aires, em meio à efervescência do início do século XX. Imagine a cena: um grupo de entusiastas do futebol decidiu que o bairro merecia um time que refletisse sua paixão pelo esporte. E assim, com muito entusiasmo e um toque de ousadia, nasceu o Barracas Central FC.
+
+=== Primeiros Passos: Capítulo 2 - "Dançando nas Divisões Inferiores" ===
+Nos primeiros anos, o Barracas Central FC jogava nas divisões inferiores do futebol argentino, como um dançarino iniciante tentando encontrar seu ritmo. O time batalhou com garra e determinação, sempre em busca de uma chance de brilhar no palco principal do futebol argentino.
+
+=== O Crescimento: Capítulo 3 - "Passos Firmes na Ascensão" ===
+Ao longo das décadas, o Barracas Central FC fez uma jornada constante através das divisões do futebol argentino, mostrando que não só é possível crescer, mas também que um pouco de perseverança e muito trabalho duro podem levar a grandes conquistas. A cidade de Buenos Aires começou a notar o clube, e o Barracas Central começou a ganhar notoriedade.
+
+=== A Torcida: Capítulo 4 - "Los Barracas Fanáticos" ===
+A torcida do Barracas Central FC, conhecida como "Los Barracas", é um espetáculo à parte. Com bandeiras vermelhas e brancas, tambores e uma energia contagiante, eles transformam cada jogo em uma verdadeira celebração. É como se cada partida fosse um show de tango, com torcedores prontos para apoiar seu time com paixão e alegria.
+
+=== Momentos de Brilho: Capítulo 5 - "A Brilhante Estrela" ===
+O Barracas Central FC teve alguns momentos de grande brilho, incluindo campanhas notáveis em divisões menores e a conquista de títulos regionais. Cada vitória era comemorada com a mesma intensidade de uma festa popular no bairro, trazendo alegria e orgulho para os torcedores.
+
+=== Desafios e Lutas: Capítulo 6 - "Superando as Adversidades" ===
+Manter-se competitivo não foi tarefa fácil. O Barracas Central FC enfrentou muitos desafios ao longo dos anos, incluindo dificuldades financeiras e rebaixamentos. Mas, assim como os habitantes de Buenos Aires que enfrentam os desafios da vida urbana com garra, o time nunca desistiu de lutar, sempre buscando melhorar e alcançar novos patamares.
+
+{{Campeonato Argentino}}
+
+[[Categoria:Times de futebol da Argentina|Barracas Central]]

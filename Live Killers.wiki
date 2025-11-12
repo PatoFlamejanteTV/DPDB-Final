@@ -1,0 +1,91 @@
+<center>{{CertificaçõesPlatinaDupla}}</center>
+{{traduzindo|Assassinos Ao Vivo}}
+[[Arquivo:Live Killers.png|thumb|right|290px|Capa do álbum]]
+'''Live Killers''' é o primeiro álbum ao vivo do Queen. Só foi gravado graças a mais uma frescura da Banda, para registrar a fase [[Anos 70]] deles.
+
+==História==
+
+O Queen estava mudando, não se podia negar..todos estavam se embaitolando mais, todos cortaram o cabelo (menos o cabelo de Bom Bril do Brian May) e até o gosto musical deles mudava (para que seria o primeiro disco aviadado deles, [[The Game]]), mas Freddie, não queria deixar em Branco a fase Semi-Macho anterior da Banda, e por isso resolveu fazer uma turnê no inverno de 1979 só pra gravar o disco, a famosa turnê menor que pinto de japonês, a [[Crazy Tour]]. Teve esse nome porque houve muitas [[Dorgas|Loucuras]] durante ela. Passou somente pelos [[Estados Unidos]]. Freddie achou que pra registrar todo o repertório da banda, era necessário Dois LPS, então, por mais uma Frescuragem dele, foi lançado o Primeiro <s>e único</s> disco duplo da história do Queen. Esse disco <s>não</s> vendeu <s>nada</s> um monte de cópias, e é considerado um dos melhores de todos os tempos, simplesmente por falta de discos concorrentes no Seguimento. Tem faixas do tempo do [[Uepa!]], como [[Keep Yourself Alive]], [[Killer Queen]] e outras <s>des</s>conhecidas da banda e que ninguém queria ouvir, mas Freddie queria no disco porque segundo ele {{c|Nós devíamos registrar todas as canções dos anos 70, antes que a gente Arransse o Azulejo de Vez}}.
+
+==Lista de Faixas==
+
+===CD 1===
+{{Lista de faixas
+| créditos_escrita = sim
+| título1          = [[We Will Rock You]] (Fast)
+| escritor1         = [[Brian May]]
+| duração1         = 3:30
+| título2          = [[Let Me Entertain You]]
+| escritor2         = [[Freddie Mercury]]
+| duração2         = 3:02
+| título3          = [[Death on two Legs]]
+| escritor3         = Mercury
+| duração3         =3:33
+| título4          = [[Killer Queen]]
+| escritor4         = Mercury
+| duração4         =1:59
+| título5          = [[Bicycle Race]]
+| escritor5         = Mercury
+| duração5         = 1:29
+| título6          = [[I'm in Love with My Car]]
+| escritor6         = Roger Taylor
+| duração6         = 2:02
+| título7          = [[Get Down, Make Love]]
+| escritor7         = Mercury
+| duração7         = 4:31
+| título8          = [[You're My Best Friend]]
+| escritor8         = John Deacon
+| duração8         = 2:08
+| título9          = [[Now I'm Here]]
+| escritor9         = May
+| duração9         = 8:42
+| título10         = [[Dreamer's Ball]]
+| escritor10        = May
+| duração10        = 3:42
+| título11         = [[Love of My Life]]
+| escritor11        = Mercury
+| duração11        = 5:00
+| título12         = [['39]]
+| escritor12        = May
+| duração12        = 3:26
+| título13         = [[Keep Yourself Alive]]
+| escritor13        = May
+| duração13        = 4:02
+}}
+
+===CD 2===
+{{Lista de faixas
+| título1         = [[Don't Stop Me Now]]
+| escritor1        = Mercury
+| duração1         = 4:29
+| título2          = [[Spread Your Wings]]
+| escritor2          = Deacon
+| duração2          = 5:15
+| título3           = [[Brighton Rock]]
+| escritor3          = May
+| duração3          = 12:15
+| título4           = [[Bohemian Rhapsody]]
+| escritor4          = Mercury
+| duração4          = 5:58
+| título5           = [[Tie Your Mother Down]]
+| escritor5          = May
+| duração5          = 3:40
+| título6           = [[Sheer Heart Attack]]
+| escritor6          = Taylor
+| duração6          = 3:34
+| título7          = [[We Will Rock You]]
+| escritor7          = May
+| duração7          = 2:49
+| título8          = [[We Are the Champions]]
+| escritor8          = Mercury
+| duração8          = 3:27
+| título9          = [[God Save the Queen]]
+| escritor9          = Tradicional
+| duração9          = 1:32
+}}
+{{Queen}}
+
+[[Categoria:Álbuns de 1979]]
+[[Categoria:Álbuns do Queen ]]
+[[Categoria:Álbuns ao vivo]]
+[[Categoria:Álbuns de rock]]

@@ -1,0 +1,29 @@
+
+[[Arquivo:Atari5200 xbox.jpg|thumb|Esse trambolho conseguia ser maior que um [[Xbox]].]]
+{{vqd|Pré-SG-1000?}}
+{{c|Tem poucos jogos...|Qualquer um|{{PAGENAME}}}}
+{{c|Sou mais o 7800!|Todo mundo|{{PAGENAME}}}}
+{{c|Vou me suicidar!|{{PAGENAME}}|ColecoVision}}
+
+'''Atari 5200 SuperSystem''' que não tinha nada de Super, foi o segundo console feito pela [[Atari]]. Ele acabou caindo na sarjeta, graças ao [[ColecoVision]].
+
+== História ==
+
+[[Arquivo:Atari 5200 Cartridges.jpg|thumb|left|O Atari 5200 e toda sua enorme biblioteca de jogos.]]
+O console foi feito em [[1982]], para competir com o [[Intellivision]], da [[Mattel]] e com o poderoso (na época) Colecovision, com o nome de projeto Pam (Personal Arcade Machine ou Porcaria Avistando Merda). O 5200 teve a arquitetura do [[Atari 400]] e do [[Atari 800]], porém, com um conector diferente da entrada de cartuchos e controles super diferentes do [[Atari 2600]]. Sem aquele manche <s>do tamanho do meu pau</s> o controle poderia ofereçer movimentos a 360 graus. Outras coisas que adicionaram no controle (para ele ficar com mais peso), foi um teclado númerico e um botão de [[Pause]].
+
+=== Quando ele ia começar a cair ===
+
+[[Arquivo:Caralhomane.jpg|thumb|Controle do Atari 5200, o único de sua geração que conseguia fazer ligações interurbanas.]]
+O 5200 não era compatível em [[Porra Nenhuma]] com o 2600 (porém, lançaram um adaptador, porém tarde demais). O console ficou na [[Faliu|sarjeta]] graças a Coleco, ainda mais quando a Warner comprou parte da Atari pra ela mesma, o console foi removido de vez.
+
+== Ver também ==
+
+* [[Atari 2600]]
+* [[Atari 7800]]
+* [[Atari]]
+* [[Segunda Geração de Consoles]]
+
+{{Fracassou}}
+{{esboço}}
+{{consoles}}

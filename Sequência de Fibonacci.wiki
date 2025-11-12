@@ -1,0 +1,45 @@
+{{Matemática}}
+[[Arquivo:Leonardo-fibonacci.gif|thumb|A carinha do safado que inventou essa palhaçada.]]
+'''Sequência de Fibonacci''' é uma sequência de números inteiros, ou seja, não pode ter nenhum número cortado no meio do [[caminho]], até porque isso dificultaria a leitura do [[número]] né? imagina uma sequência de Fibonacci com números cortados <s>1, 1, 2, 3, 5, 8, 13, 21, 34, 55</s> é tá vendo não fica legal, ela representa [[matemática|matematicamente]] as proporções perfeitas e principalmente as imperfeitas encontradas na [[natureza]] e na vida urbana, até porque esse negócio é meio palhaçada mesmo, que tu bate o olho assim e diz que é [[Fibonacci]], mas é só [[porra nenhuma]] mesmo, sacou? 
+
+== Descobrimento ==
+[[Arquivo:Aniversario-Fibonacci.jpg|thumb|left|Até no aniversario de uma [[capivara]] você encontra Fibonacci.]]
+[[Capitão Óbvio|Foi descoberta por Fibonacci]] no comecinho do século XIII, ou melhor, do século Xiiiiiiiiii a coisa está feia! O Pizzaiolo [[Leonardo Pisano Fibonacci]] era um pacato cidadão italiano, que as vezes cantava com seu irmão "Leandro Pisano Fibonacci", onde surgiu a dupla [[Leandro & Leonardo]], até porque o nome "Os Fibonacci" não pegou na época.
+
+Leonardo estava então fazendo suas massas de pizza e percebeu que as proporções da pizza eram sempre tão perfeitas, então ele foi atrás de ver o que era aquilo e analisou outras figuras da natureza (sim, estou me baseando no [[estereótipo]] de que o italiano é bom de fazer [[pizza]] e [[macarrão]], não tenho vergonha de admitir). 
+
+Fibonacci chegava nas garotas italianas dizendo que precisavam ver os [[Seios|padrões numéricos dela]] sem roupa e assim comprovou que <s>era um tarado</s> de fato havia um padrão para as formas da natureza serem do jeito que são, principalmente das [[mulher|mulheres]] que parecem ter sido esculpidos por [[anjo]]s.
+
+Há também outra teoria que [[Fibonacci]] estava só brincando de somar o número anterior em sequência, como se fosse uma brincadeira mesmo de [[criança]]. Tipo 1, 1, 2, 3, 5, 8, 13, 21, 34, 55... por aí vai. Verdade seja dita, Fibonacci era bem infantil, essa palhaçada de ver uma espiral em volta das coisas é igual ficar vendo animal em [[nuvem]].
+
+== Aplicações == 
+
+[[Arquivo:Sequencia de Fibonacci hentai.png|thumb|A Sequência de Fibonacci é utilizada em vários trabalhos de arte afim de garantir curvas e proporções perfeitas.]]
+
+Fibonacci é de <s>[[Pizza]]</s> Pisa na [[Itália]], o primeiro teste de suas teorias da proporção perfeita foi na construção da famosa [[Torre de Pisa]], tu acha que ela ficou torta daquele jeito atoa? Foi Fibonacci aplicando essas ditas proporções áureas em um projeto arquitetônico, certo ele, errado foi quem chamou esse irresponsável para um projeto desse nível.
+
+Além dessa aplicação prática mal sucedida, a sequência é posta a prova em tudo que é coisa na nossa realidade de um simples [[coral]] até os [[Peitos de Denise Milani]], indo além de uma simples ordem de números e indo para quase o sentido da vida, claro se tu acreditar nisso né, se não não tem efeito nenhum.     
+
+Outros usos dos números da sequência de Fibonacci incluem: ter os números para jogar na [[Loteria]] removendo do apostador o constrangimento de escolher por si próprio os números; permitir fazer previsões científicas muito precisas sobre a tendência aproximada do número de habitantes de uma suposta população de coelhos imortais e reprodutivos; Ter um ótimo assunto no seu jantar romântico de pedido de namoro ao mencionar esses números; Hmm... na verdade, o principal uso dessa sequência é apenas se gabar intelectualmente de conhecê-la. 
+
+== Controvérsia ==
+
+[[Arquivo:Fibonacci-tweet.jpg|thumb|left|A labuta diária da sequência de Fibonacci em tudo que existe.]]
+
+Como tudo debatido na faculdade de matemática, a sequência de Fibonacci não é unanimemente aceita como algo de valor. Muitos dos críticos a essa sequência alegam que "não passa de números aleatórios que representam porra nenhuma". De fato, se eu inventar agora a sequência 2, 7, 18, 45, 51 eu posso fingir que isso descreve o movimento dos astros ao redor do Sol e quem poderá refutar essa alegação?
+
+Muitas vezes também é debatido se o 1 extra deve fazer parte da Sequência de Fibonacci. Muitos estudiosos acham difícil acreditar que Fibonacci, com sua vida em risco quando foi forçado a desenvolver uma sequência matemática, cometeria um erro tão simples quanto contar 1 duas vezes. Outros acreditam que Fibonacci apenas gaguejou enquanto anunciava sua tese e seu aluno resolveu manter o 1 extra em sua anotação. De qualquer forma, tornou-se uma parte fundamental da sequência.
+
+O [[infinito]], muitas vezes retratado por [[reticências]], também é parte controversa da sequência. Como ele entrou lá é incerto. É provável que esteja lá por causa da preguiça de Fibonacci que não teve paciência de chegar ao último número da sequência e resolveu fazer algo mais útil para a humanidade, como procurar o último [[número primo]].
+
+== Ver também ==
+*[[Fibonacci]]
+*[[Fração]]
+*[[Peitos de Denise Milani]] (o que custa ver isso aqui também?)
+
+[[Categoria:Matemática]]
+[[Categoria:Geometria]]
+
+[[en:Fibonacci Sequence]]
+[[en-gb:Fibonacci Sequence]]
+[[it:Successione di Fibonacci]]

@@ -1,0 +1,73 @@
+{{microsoft}}
+
+{| class="toccolours" style="float: right; margin: 0 0 .5em .5em; width: 20em; font-size: 90%;" cellspacing="5"
+|-
+| colspan="2" {{American politics/party colours/{{{party_wikicolourid}}}}}|
+|-
+! colspan="2" style="text-align: center; font-size: larger;" | '''Microsoft Flash MX Stick Fight Edition'''
+|-
+| colspan="2" {{American politics/party colours/{{{party_wikicolourid}}}}}|
+|-
+| colspan="2" style="padding: 1em 0; text-align: center;" | [[Arquivo:MicrosoftFlash.png|none]]
+|-
+| colspan="2" {{American politics/party colours/{{{party_wikicolourid}}}}}|
+| colspan="2" {{American politics/party colours/{{{party_wikicolourid}}}}}|
+|- style="vertical-align: top; text-align: left;"
+|'''Fabricado por:'''
+| [[Microsoft]]
+|- style="vertical-align: top; text-align: left;"
+|'''Lançado em'''
+| 24 de Junho de 1991.
+|- style="vertical-align: top; text-align: left;"
+|'''Último lançamento'''
+| MX (Muito Xarope)
+|- style="vertical-align: top; text-align: left;"
+|'''Gênero'''
+| [[Stickman]]/[[Stickdeath]]/[[Stickfight]]/[[Programas Nerds]]
+|- style="vertical-align: top; text-align: left;"
+|'''Modo de jogo'''
+| [[single player]] (ou dois, se for stickfight)
+|- style="vertical-align: top; text-align: left;"
+|'''Plataforma'''
+| McIntosh, Windows XD ([[Predefinição:Windows|Lista completa]])
+|- style="vertical-align: top; text-align: left;"
+|'''Status de Suporte'''
+| Intaivo, mas qualquer [http://www.baboo.com.br fórum nerd] tem.
+|-
+| colspan="2" {{American politics/party colours/{{{party_wikicolourid}}}}}|
+|}
+
+[[Arquivo:Fabrica Friki.gif|thumb|left|Fábrica de [[웃]],o paraíso dos programadores de flash]]
+{{C|Flash! Aaaah!|Freddie Mercury|{{PAGENAME}}}}
+{{C|O Super-herói The Flash?|Carla Perez|{{PAGENAME}}}}
+{{C|Você quis dizer:Adobe Flash|Google|{{PAGENAME}}}}
+
+'''Microsoft Flash''' é um programa manipulador de gráficos Stickvetoriais, para se fazer luta de [[웃|bonecos]]. Progamadores utilizam o Flash para fazer sites com gráficos bonitinhos, mas que adicionam nada ao conteúdo do site, com exceção dos botões [[coloridos]] que pulam na sua frente e ferem suas retinas. [[Arquivo:Groo.PNG|thumb|left|Animação do Flash mostra [[웃|Stickmans]] em combate. Pena que é inútil lutar contra um [[Mafagafo]].]]
+
+== História do Flash ==
+[[Arquivo:7477ho7cl987eb.gif|thumb|left|Alguém tentando revolucionar e incluindo a cor roxa num personagem que também é diferente]]
+[[Steve Jobs]], dono da [[Macintosh|McIntosh's]] Computers Company via que sua concorrente, a [[Microsoft]], desenvolveu um aplicativo que pudesse fazer [[웃|Stickmans]] realistas. [[Grupo Microsoft|Eles]] chamaram o programa de Microsoft Paint. O sucesso da nova arma da Microsoft (talvez mais mortal até mesmo que a [[Tela azul da Morte]]) promoveu a criação de fóruns [[nerds]] de Flash onde eles faziam concursos de [[Stickman]]s soltando bolas azuis radiais em outros Stickmans gigantes e com espadas.
+
+Porém se descobriu um fatal defeito no MsPaint. Ele era rodado por pixels, e tinha que se cobrir pixel por pixel para se pintar algo, de tão fudido que era. Stevie, analisando os erros, construiu um novo, vitaminado e [[gay]] tipo de gráfico: o vetorial. (Na verdade, ele roubou a invenção do Corel Draw, mas ninguém liga pra ele) Então, com a nova ferramenta line, camadas, e o botão F6, todos consideraram o MSPaint velho e obsoleto. 
+
+Fazer Stickmans era fácil e funcional agora! [[Bill Gates|Billy Gates]] iria perder mercado e ofereceu uma proposta a Stevie: comprar o McIntosh Flash. Steve conseguiu dinheiro suficiente e abriu dois negócios: um de vender [[McDonalds|Big Mac's e fast food]] e outro de [[Apple|frutas, sendo grande parte delas, maçãs]]. Ele também desenvolveu um concurso de Stickfight. O vencedor foi [[Xiao Xiao]].
+
+== Uso atual ==
+
+[[Arquivo:Yac.gif|frame|right|Amostra das medonhices que as miguxas fãs de RBD fazem com a sagrada ferramenta vetorial]]
+Além do principal uso para qual foi criado, ele é usado na construção de sites, para aqueles que não entendem de HTML e acha que isso é bonitinho. A maioria tem um peso absurdamente grande, e demora para carregar. Quando carrega, aquele monte de [[cores]], botões, whatever pulam na sua frente cheio de [[cores]], mais [[colorido]] que a parada gay de [[São Paulo]], com um poder de ataque suficiente para matar um epilético mais de 5 vezes.
+
+Outro uso triste dessa ex-plêndida e vetorial é para gifs miguxos. Infelizmente, como MSFlash é fácil de operar e até um leecher sabe usar, os [[Tr00]]-[[emos]], [[Fotolog]]gers e [[RBD]]s fazem gifs [[Cor|coloridinhus]] ou com a cara deles ou com a [[Hello Kitty]], com Saturation rosa, com aquele brilho (na verdade é uma cruz) tosco, e, no caso dos [[Black Emo]]s e [[Gótico]]s de Shopping, raios. 
+
+É necessário detê-los ou eles tomarão o Flash, assim como tomaram programas como o Corel Photo-Paint. (usado frequentemente para fazer aquelas mesclagens e bordas com Fade, aquilo é uma merda) E sim, existem miguxas que vendem esses gifs nojentos. 
+
+Um outro uso para o Flash é para jogos, apesar de que [[Neopets|poucos]] possuem nerdice o suficiente para tal uso.
+
+== Ver também ==
+*[[Adobe]]
+*[[Microsoft]]
+*[[Photoshop]]
+*[[Braid]]
+
+
+[[Categoria:Microsoft]]

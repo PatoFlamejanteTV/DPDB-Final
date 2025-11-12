@@ -1,0 +1,90 @@
+{{Logotipo falso|Desciclooopédia.png}}
+[[Arquivo:Chrome1.png|left]]
+
+<p>
+<table width="250px"><tr><td>
+<inputbox>
+type=search
+break=no
+buttonlabel=⌂
+default=desciclo.pedia.ws
+width=40
+</inputbox>
+</td></tr></table>
+<br clear=all></p>
+[[Arquivo:Papel pixel triste.png|left|150px]]
+
+
+<big><br>'''<font color=black>Confirmar reenvio do formulário</font>'''</br></big>
+
+<font color=gray>Esta página da Web requer os dados inseridos anteriormente para ser exibida de modo correto. É possível enviá-los novamente mas, ao fazer isso, você repete qualquer ação realizada anteriormente na página.
+Pressione o botão "Atualizar" para reenviar os dados necessários para carregar a página.
+
+<small>ERR_CACHE_MISS</small></font>
+---------------------------------
+[[Arquivo:Papel pixel triste.png|left|150px]]
+
+
+<big><br>'''Não é possível acessar esse site'''</br></big>
+
+<font color=gray>Verifique se há um erro de digitação em desciclo.pedia.ws
+
+<small>DNS_PROBE_FINISHED_NXDOMAIN</small></font>
+---------------------------------
+[[Arquivo:Papel pixel triste.png|left|150px]]
+
+
+<big><br>'''Não foi possível acessar seu arquivo'''</br></big>
+<font color=gray>Talvez ele tenha sido movido, editado ou excluído.
+
+<small>ERR_FILE_NOT_FOUND</small></font>
+---------------------------------
+[[Arquivo:Papel pixel morto.png|left|160px]]
+
+
+<big><br>'''Ah, não!'''</br></big>
+<font color=gray>Algo deu errado ao exibir esta página na web.</font>
+
+[[Dúvida|<font color=gray><u><small>Saiba mais</small></u></font>]]
+---------------------------------
+[[Arquivo:Chrome Dino.jpg|150px|esquerda]]
+
+
+<big><br>'''Sem Internet''' [[Internet|<font color=black>⍰</font>]]</br></big>
+<font color=gray><div style="background: white; border: 1px solid gray; padding: 1em; clear: both;">O Chrome avisará quando esta página estiver pronta. Cancelar</div></font>
+---------------------------------
+[[Arquivo:Papel pixel triste.png|left|150px]]
+
+
+<big><br>'''O acesso ao arquivo foi negado'''</br></big>
+<font color=gray>O arquivo em '''file:///''' não está legível. Ele pode ter sido removido ou movido, ou as permissões do arquivo podem estar impedindo o acesso.
+
+<small>ERR_ACCESS_DENIED</small></font>
+---------------------------------
+{{Não disponível}}
+---------------------------------
+[[Arquivo:InfoBug.jpg|left|150px]]
+
+
+<big><br>'''Você quis dizer''' [[WP:Desciclopédia|desciclopedia.org]]'''?'''</br></big>
+<font color=gray>O site que você tentou acessar parece falso. Os invasores às vezes imitam sites fazendo pequenas alterações quase imperceptíveis no URL.</font>
+---------------------------------
+[[Arquivo:Alerta de Vírus Chrome.png|left|150px]]
+
+
+<big><br>'''Sua conexão não é particular'''</br></big>
+<font color=gray>Invasores podem estar tentando roubar suas informações de desciclopedia.org (por exemplo, senhas, mensagens ou cartões de crédito). [[Dúvida|<font color=gray><u>Saiba mais</u></font>]]
+<small>NET::ERR_CERT_COMMON_NAME_INVALID</small>
+<div style="background: #f5f5f5; border: 1px solid gray; padding: 1em; clear: both;"><big>ᙉ</big><small> Para usar o nível mais alto de segurança do Chrome, [[AVG|<u>ative a proteção reforçada</u>]]</div>
+
+O site desciclopedia.org geralmente usa criptografia para proteger suas informações. Quando o Google Chrome tentou se conectar a desciclopedia.org dessa vez, o website retornou credenciais incomuns e incorretas. Isso pode acontecer quando um invasor está fingindo ser www.m.youtube.com ou quando uma tela de login por Wi-Fi interrompeu a conexão. Suas informações ainda estão protegidas, porque o Google Chrome interrompeu a conexão antes que os dados fossem trocados.
+
+Você não pode visitar desciclopedia.org agora, [[E o quico?|porque o site usa HSTS]]. Erros de rede e ataques são geralmente temporários. Esta página provavelmente funcionará mais tarde.</font></small>
+
+
+[[Arquivo:RecarregarBug.png|right|200px|link=e dai]]
+<css>#siteNotice { display: none; }
+      #footer{ display: none; }
+      #catlinks{ display: none; </css>
+[[Categoria:Internet]][[Categoria:Google]]
+[[Categoria:Páginas que se parecem com o que elas são]]

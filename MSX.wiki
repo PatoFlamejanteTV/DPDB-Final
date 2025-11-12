@@ -1,0 +1,109 @@
+{{Microsoft}}
+{{esboço}}
+
+{{c|64kB sempre serão suficientes|Bill gates|MSX}}
+{{c|Muito melhor que o Xbox!|Japonês|MSX}}
+{{c|Eu sou EXPERT PLUS, um grande amigo seu.|MSX PLUS|você,toda vez que liga essa p*}}
+{{c|Esse ai é uma bichoooona!|Oscar Wilde|MSX PLUS}}
+{{c|10 PRINT "BOA NOITE!"|William Bonner|MSX}}
+{{c|MSX serve como terminal de PC|Gradiente|MSX PLUS / DD PLUS}}
+
+'''MSX''' (abreviação de MicroSoft eXtorsion) é um computador lançado nos anos 80 pela [[microsoft]] para dominar o mercado de computadores mundial, mas só fez sucesso na [[Europa]], [[Japão]], [[Ásia]], [[Australia]], [[Namek]], [[Marte]] e [[Brasil]].
+
+== Descrição ==
+O MSX vem de fabrica com o sistema operacional MSX-[[BASIC]] (<s><u>M</u>ario, [[Sunda|<u>S</u>unda]] & Lo<u>X</u>a</s> Micro Shit eXtended) e tornou lendário por sua capacidade de gerar barulhinhos irritantes e gráficos medíocres.
+
+o Hardware dele consiste basicamente de:
+* Uma CPU [[Z80|Z80-a]] de 3.58 MHz da Zilog, o mesmo do [[Master System]] (a [[AMD]] da época, já que copiava o design da [[Intel]] mas fazia mais barato e rápido).
+
+*[[64]]kB RAM e [[32]]kB ROM.
+*Um video TMS-alguma-coisa que apesar de ser muito fuleiro tinha mais [[cores]] que a bosta de PC com placa [[CGA]].
+*Outro chip terrível da TMS que faz beeps infernais de 3 canais mas que soam mais como música do que o ''PC speaker'' nojento do [[PC]].
+*Algum tipo de [[mídia]] gravável como [[disquetes]] ou [[fitas K7]].
+
+== Versões ==
+[[Arquivo:Plustard.jpg|thumb|right|256px|tela de boot do MSX PLUS, já com a famosa [[tela azul da morte]].]]
+
+===MSX 1===
+
+É o MSX normal, aquele mesmo, o de [[16]] [[cores]], o que zune e pifa. Usado pra competir com o [[Colecovision]] e [[SC-3000]].
+
+;MSX PLUS
+:imagine o que acontece quando um [[retardado mental]] faz [[sexo]] com um MSX: esse é o resultado.
+;MSX DDPLUS
+:imagine a mesma cena acima, mas com um [[drive]] de [[disquete]] incluso na [[putaria]].
+
+===MSX 2===
+
+Versão feita pelos japoneses do MSX com mais [[cores]] e podendo rodar jogos como [[Metal Gear]], e [[hentai]]s, geralmente vem com mais RAM e às vezes som de [[Master System]] nipônico.
+
+===MSX 2+===
+* Versão feita pelos japoneses exclusivamente pro mercado brasileiro, já que possuía a incrível capacidade de guardar imagens tiradas direto da televisão, como do Bozo, Sarney ou da Maria Mercedes.
+
+===MSXturboR===
+* Último MSX lançado oficialmente pela [[Panasonic|PÁ! no Sonic]], possuía mais de [[19000|19.000]] [[cores]], voz digitalizada com qualidade de [[PC]] ''speaker'' (além som de SMS nipônico) e uma das maiores maravilhas maravilhosas, o R800 que era uma CPU de [[16]] bits. Possuía uma vasta biblioteca de software composta dos jogos Seed of Dragon, Illusion City e Fray. 
+
+MSX 3
+:lendaria maquina prometida para os fudebas que virá em 2035, e será tão rápida que conseguira derrotar a [[SKYNET]].
+;MSX 360
+:apos o fiasco violento do X-box 360 no japão, a [[Microsoft]] relança ele com [[Basic]] na memória com o nome de MSX 360.
+
+==Cartuchos de expansão ==
+
+O MSX conta geralmente com [[2|duas]] portas de cartucho que podem ser usadas para expandir seu hardware, incluindo:
+
+*interfaces para [[drives]] de [[disquete]]
+*FM PAC (para deixar com som de SMS nipônico)
+*[[SCC]] (utilizado em poucos games da [[Konami|<font color=silver>''KONMAI''</font>]])
+*interface para [[drives]] de [[CD]]/[[DVD]]/[[HD-DVD]] ([[Bluray]] não suportado,já que o [[Bill Gates]] previu que a [[Sony]] ia fazer o [[Bluray]] e como o dono da [[Microsoft]] não suporta a [[Sony]], o MSX não suporta e nunca suportará o [[Blueray]])
+*[[Assembler]]
+*[[GPS]]
+*Lança foguetes
+*Escovador elétrico de dentes
+*Espanta Coiotes
+*Invocador de espíritos e discos voadores
+*Vibrador para as mulheres e afins
+
+==MSX no brasil==
+
+O MSX foi extremamente popular no brasil, porque se parecia tanto com um brinquedo, que os <s>idiotas</s> agentes tributários nem viram a diferença e assim não jogaram a taxa de [[600]]% em cima. Várias aplicações e jogos foram criadas para o MSX no brasil, veja algumas:
+
+;Zorax
+:incrível jogo que deu origem a jogos como [[Gradius|Gradius 3]],Ikaruga e Omega boost.
+;Aquarela
+:editor de imagens brasileiro que foi comprado pela [[Adobe]] e renomeado para [[Photoshop]].
+;Uzix
+:o sistema operacional que deu origem ao [[Linux]].
+;Avenida Paulista
+:jogo que mais tarde foi a inspiração pra rockstar criar o [[GTA|Grand Thief Auto]], devido à violência presente.
+
+== Culto fudebista ==
+Em [[1996]]; um profeta teve uma visão em seu MSX plus, uma visão aterradora do futuro, mas uma visão que mostrava que o mundo mudaria para sempre graças ao MSX, esse era fudeba.
+
+Hoje ele é cultuado por mais de [[15]] milhões de nerds brasileiros que acreditam que ele seja a reencarnação de cristo, ou de buda, porém muitos duvidaram de seu poder, então o grande profeta Fudeba fez o Fudebrowser, que permitia ao MSX - rico ou pobre, retardado ou inteligente, turbinado ou queimado - entrar na internet e navegar mais rápido que no [[Internet Explorer]], e esse milagre foi reconhecido até pelo [[Papa]].
+
+== Fatos sobre o MSX ==
+*o MSX foi até agora o único hardware da [[Microsoft]] que vendeu mais de meia dúzia de unidades no [[Japão]].
+
+*a estação espacial MIR tinha um MSX, porém ela caiu quando fizeram upgrade para Windows 95
+
+*Várias coisas hoje em dia são operadas com MSX devido ao seu baixo custo de programabilidade graças ao [[BASIC]]: essas coisas incluem [[forno de micro-ondas|fornos de micro-ondas]], [[geladeira]]s, [[televisão|televisões]], [[robô]]s de fabrica e o [[George W. Bush]] (esse último obviamente operado por um MSX PLUS)
+
+*a rede de informações secreta da Al-qaeda é de fato um Monte de MSX com suas portas de fita cassete ligadas em aparelhos de som velhos
+
+*a única coisa mais retardada que um MSX PLUS é um MSX PLUS rodando Windows ME e Word com o clip na tela
+
+== Ver também ==
+* [[Commodore 64]]
+
+{{consoles}}
+
+[[Categoria:Anos 80]]
+[[Categoria:Microsoft]]
+[[Categoria:Antiguidades]]
+[[Categoria:Coisas de nerd]]
+[[Categoria:Siglas]]
+[[Categoria:Computador]]
+
+[[fi:MSX]]
+[[ja:MSX]]

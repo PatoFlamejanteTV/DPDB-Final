@@ -1,0 +1,106 @@
+{{C|Nem vou comentar...|Programador Júnior|Portugol}}
+{{c|Você traiu o movimento lusitano, véio|[[Dado Dolabella]]|Portugol}}
+{{vqd|Bacalhau}}
+{{vqd|Pascal}}
+
+==A História==
+O analista de sistemas [[Pedro Alvares Cabral]] comandava uma equipe de desenvolvedores de softwares básicos de caravelas. Nenhuma das linguagens que ele conhecia até o presente momento o agradava, pois todas requeriam inteligência para programar, coisa que é muito incomum entre os lusitanos. Porém, [[Pedro Alvares Cabral|Pedroca]] havia recebido uma bênção divina, para cumprir a profecia de que um dia um [[Lusitano]] <s>descobriria o </s> removeria a cobertura do Brasil.
+[[Arquivo:Nerdaaaarg.jpg|thumb|right|185px|O criador do Portugol]]
+[[Pedro Alvares Cabral]] iria fazer uma pesquisa no [[Google]] pela expressão "como criar uma linguagem de programação". Porém, quando o site de buscas terminou de carregar, a caneta que [[Pedro Alvares Cabral|Pedroca]] iria usar para escrever no campo de texto caiu. Com sua extrema coordenação motora, [[Pedro Alvares Cabral|Pedroca]] foi ao chão e deixou o teclado cair. Neste momento, [[Jesus]] fez com que a profecia tivesse contiuidade, e fez com que a seqüencia de teclas "flex(SPACE)lexical(SPACE)analyzer(SPACE)generator(ENTER)" fosse pressionada.
+
+Após encontrar um site com um texto chamado "Flex para Lusitanos: faça seu próprio analisador léxico, mesmo se você for um português", [[Pedro Alvares Cabral|Pedroca]] escreveu as especificações da linguagem que chamaria de Portugol, que é a aglutinação das palavras "Português" e "Mongol", ou seja, uma linguagem de programação para ser utilizada por portugueses e mongoloides. Obviamente, [[Pedro Alvares Cabral|Pedroca]] não tinha QI suficiente para executar esta tarefa. Isso tudo aconteceu graças à bênção que ele tivera recebido de [[Jesus]].
+
+===A Primeira "IDE"===
+
+[[Arquivo:LaboratorioDeDesenvolvimentoPortugol.jpg|thumb|right|O Laboratório de Pesquisa onde foi desenvolvido o Portugol]]
+
+Quando [[Pedro Alvares Cabral|Pedroca]] terminou de criar o Portugol, ele viu que o [[Java]] tinha uma IDE. Então disse ao seu amigo [[Pero Vaz de Caminha]] que tinha uma linguagem nova mas precisava de uma IDE. [[Pero Vaz de Caminha]], usuário do [[Emacs]] disse que tinha uma IDE que poderia ser utilizada para programação em Portugol. Esta IDE em questão era o [[Emacs]].
+
+===O Primeiro Programa===
+
+[[Pedro Alvares Cabral|Pedroca]] estava ansioso para testar sua nova linguagem, e então abriu o [[Emacs]]. Lá, [[Pedro Alvares Cabral|Pedroca]] digitou o seguinte código de teste:
+
+<pre>
+escreva "Olá, Bacalhau!"
+</pre>
+
+Infelizmente, quando [[Pedro Alvares Cabral|Pedroca]] fez este teste, ele descobriu que essa bosta dessa porra não funcionaria só com um analisador léxico. Mas, como ele era abençoado, [[Jesus]] fez com que aparecesse milagrosamente um compilador chamado GCC-Portugol.
+
+===O Sonho de [[Pedro Alvares Cabral|Pedroca]]===
+
+Após todo este esforço, [[Pedro Alvares Cabral|Pedroca]], com ajuda de sua equipe de programadores, concluiu seu software, e levou ele embarcado nas caravelas para dar umas bandas. Isso para [[Pedro Alvares Cabral|Pedroca]] foi a realização de um sonho. O que [[Pedro Alvares Cabral|Pedroca]] não percebia era que ao realizar seu sonho, e levar seu software em uma embarcação, ele estava criando o famoso conceito de [[Software Embarcado]].daiane
+
+==Aplicação==
+
+Portugol é uma linguagem muito importante de extrema importância para tornar a sociedade detentora de maior importantibilidade. Ela é aplicada em diversos tipos de aplicação, como por exemplo:
+
+*Softwares Básicos de Caravelas;
+*Softwares Embarcados(embarcados principalmente em Caravelas, mas também podem embarcar em ônibus);
+*Hello Worlds no [[SENAI]];
+*Softwares que leem 2 valores da entrada padrão, somam e mostram eles na tela;
+*Sistemas Operacionais Portugueses(Lusitux);
+*Softwares Inúteis Desenvolvidos por Crianças;
+*Softwares de [[EMO]];
+*Websites de bandas de EMOCore (ex: [[Simple Plan]]);
+
+Além destes diversos tipos de aplicação, o Portugol é frequentemente utilizado por formados em cursos como [[Sistemas de Informação]], que não sabem programar e se dizem "[[Analistas de Negócios]]".
+
+==Paradigmas==
+
+O Portugol é uma linguagem multiparadigmas, que possui características de [[Programação Desestruturada]], [[Programação Desorientada a Objetos]], [[Programação Lusitana]] e [[POG]]. Mas, antes de atingir o sucesso e vender 1 milhão de discos, o Portugol não implementava as características de [[POG]], o que fazia da linguagem bem menos interessante.
+
+A [[Programação Lusitana]] é um paradigma totalmente novo, criado no Portugol. Veja este exemplo de código que utiliza as técnicas de [[Programação Lusitana]]:
+
+<pre>algoritmo "Verificar_a_media_das_notas_de_alunos_de_recuperação"
+// Função : Te deixar de recuperação
+// Autor : Joaquim
+// Data : 21/06/2010
+// Seção de Declarações 
+var
+x:caracter
+inicio
+// Seção de Comandos 
+x<-"não"
+escreval ("Este programa vai verificar como voce esta indo nos estudos")
+enquanto (x<>"sim") faca
+         escreval ("Voce ficou de recuperação??")
+         leia (x)
+         se (x="sim") entao
+            escreva ("Vai estudar!")
+         fimse
+fimenquanto
+fimalgoritmo
+</pre>
+
+== Pacotes ==
+
+O Portugol é uma das linguagens com maior ''multiplicidade pacotária'' já criada, pois é só imaginar um pacote que ele existe e seu [[professor]] irá considerar a resposta - Isto se, por um milagre, ele deixar você fazer a prova em Portugol.
+
+Para utilizar um pacote basta utilizar a seguinte sintaxe: "acção a importar: ''<nome do pacote>''" - Lembre-se que "acção" deve possuir um ''c'' antes do ''ç'' e antes de "importar" coloque o "a" ou o GCC-Portugol irá acusar: ''"Por favore gajo, consertes o erro gramatical: Linha X"''
+
+Portanto, se formos utilizar a "Estrutura de Dados Fila", devemos fazer da seguinte forma:
+
+<pre>
+acção a importar: Bicha
+</pre>
+
+''Obs.: Lembre-se de escrever o nome dos pacotes na língua nativa do GCC-Portugol. Desta forma, "Fila" é "Bicha" ou, por exemplo, para um programa de consultória médico "Vacina" seria "Pica".''
+
+==IDE==
+
+A IDE de Portugol mais utilizada nos dias de hoje é o [[NetBACALHAUS]], que serviu de inspiração para a [[Sun]] criar o [[NetBEANS]]. Como pode-se notar, a IDE foi plagiada pela [[Sun]], que apenas mudou de bacalhau para feijão e trocou a linguagem.
+
+O NetBACAHAU é totalmente multiplataforma, além de ser extremamente robusta, o que fez rapidamente com que ela substituisse o [[Emacs]]. Além de tudo, ele seguiu os princípios de seu ancestral [[Emacs]] no tamanho, sendo extremamente grande, e seguiu a tendência dos softwares desenvolvido em [[Java]], levando em média de 18 dias para carregar. 
+
+Além do NetBACALHAU, temos uma outra IDE extremamente utilizada, o VisuarArg, um editor de "argoritmo visuar" desenvolvido na roça. Ela apenas não domina o mercado de programadores Portugol por rodar apenas no [[Windows ME]], sendo que quase todos os programadores Portugol utilizam o sistema operacional [[Lusitux]].
+
+==Softwares Desenvolvidos em Portugol==
+
+Abaixo a lista de softwares desenvolvidos em Portugol:
+
+*Sugestões de busca do Google (aquele que diz "você quis dizer [[Pornô|XXX]]");
+*[[Microsoft Windows]]
+*[[Lusitux]]
+*[[Tua Mãe]]
+
+{{Linguagens de Programação}}

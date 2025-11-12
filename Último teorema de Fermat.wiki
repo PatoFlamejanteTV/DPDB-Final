@@ -1,0 +1,77 @@
+{{física}}
+{{matemática}}
+[[Arquivo:Teorema_de_fermat.png|370px|right|thumb|Tá aí o teorema, viu? Feliz?]]
+[[Arquivo:Teorema Fermat.jpg|thumb|Você tentando solucionar o Último Teorema de Fermat]]
+{{vqd|Coisa inútil?|Último Teorema de Fermat}}
+{{c|Certa resposta!|[[Sílvio Santos]], após o prof. Andrew Wiles ter encontrado a solução do problema}}
+{{c|Suspeitei desde o princípio!|[[Chapolin]]|a solução do problema}}
+{{c|Mamma mia|[[Mario Bros]], ao se deparar com o teorema}}
+{{c|Foi o último teorema postulado por [[Fermat]]|[[Capitão Óbvio]]|{{PAGENAME}}}}
+{{c|MAS QUE PORRA É ESSA ?|Você|Último teorema de Fermat}}
+{{c|Aff, fichinha, aprendi isso quando cursei meu quinquagésimo curso de programação de[...]|Nerd|Último teorema de Fermat}}
+{{c|Pokerface.|Meme|Último teorema de Fermat}}
+{{c|Um dia você aprende... Bem provável que não...|Shakespeare|Último teorema de Fermat}}
+
+O '''Último teorema de Fermat''' é um problema matemático que - assim como um problema que você arruma com a sua mulher - demorou anos para ser solucionado - mais precisamente, 358 anos. Trata-se de mais um entre os [[mais de oito mil]] teoremas totalmente <s>inúteis</s> indispensáveis para a humanidade. Além de sua comprovada conexão com o [[Apocalipse]] e o fim do universo, o Último Teorema é de pouca ou, mais precisamente, nenhuma consequência - enfim, não serve pra porra nenhuma, a não ser para fazer os matemáticos perderem noites de amor com suas esposas para tentar solucioná-lo, e para o professor de matemática colocar na prova só para que seu aluno nerd não tire 100 nas suas provas.
+
+O teorema foi postulado pelo matemático [[Pierre de Fermat]], em 1628. Ao formulá-lo, Fermat pensou: "''Ei, se eu alegar descobrir algum [[teorema]] matemático realmente estúpido e não der a prova para isso, então as pessoas vão gastar um monte de tempo nos próximos anos tentando prová-lo. Além disso, vou deixá-lo escrito em latim, o que apenas agravará o problema''". Foi então que ele formulou o '''Último Teorema''', afirmando: Ao substituir o expoente 2 na fórmula do [[Teorema de Pitágoras]] por um número qualquer maior do que 2 (<math>  x^n + y^n = z^n</math>), a equação não terá solução, se n for um inteiro maior do que 2 e (x,y,z) naturais (inteiros > 0). O teorema foi finalmente solucionado<s>até que enfim</s> em 1995 - 358 anos após sua formulação - pelo matemático britânico [[Andrew Wiles]]. É óbvio que ele não estudou isso por 358 anos, já que ele teria morrido antes... A solução do problema é explicada no livro "O Último Teorema de Fermat", de Simon Singh, que, em 324 páginas tenta explicar como foi resolvido o teorema. É claro que depois de ler esse livro (se é que alguém teve saco para ler tudo) o leitor que tinha dúvidas vai ficar com mais dúvidas ainda já que o tal livro não diz coisa com coisa alguma.
+
+A banda de rock matemático [[Meshuggah]], que compõe suas músicas utilizando fórmulas matemáticas, certamente já utilizou este teorema em uma de suas composições.
+
+==Fermat== 
+
+Pierre foi um <s>pseudo-</s>matemático  francês que ficou conhecido por suas teorias dos números (O RLY?). Ele,  ao contrário de muitos outros estudiosos da época, era podre de rico,  dessa forma ele não precisava trabalhar e podia perder quanto tempo  quisesse inventando moda e depois falando que descobriu ou formulou  novas teorias.
+
+Teve educação privilegiada (ou não), pois estudava em um mosteiro <s>e isso era um saco</s>, mas logo Pierre descobriu os [[sexo|bens da vida profana]] e abandonou sua triste vida religiosa (bem fez ele).
+
+Mas  até que seus estudos na casinha dos monges serviu para alguma coisa,  ele usou de seu conhecimento para traduzir estudos matemáticos de um  quase inglês para sua língua mãe, o "xumarquiaguinaã", não precisa nem  perguntar já que eu não faço ideia de como é essa droga de língua e de  onde essa porcaria surgiu, só sei que ele a falava (ou não). 
+
+Agora,  um pouco de história e geografia, eu sei que você, leitor é burro e  ainda está se perguntando porque ele fala uma língua que ninguém conhece  já que era francês e deveria falar francês. Acontece que naquela época  os estados eram formados por diferentes províncias ou comunas, que mesmo  que unificadas ainda conservavam grande parte de sua (des)cultura,  entre elas, a língua. Fermat era da comuna de Beaumont-de-Lomagne, mas isso não vem ao caso, já que não influi em nada na sanidade mental duvidosa de Fermat ou no excesso de [[drogas]] utilizadas por ele no momento em que o teorema foi inventado.
+
+==Um pouco da história==
+[[Arquivo:Camiseta o ultimo teorema de Fermat.jpg|thumb|200px|Nerd tentando impressionar uma garota usando uma camiseta com a fórmula do Último Teorema de Fermat.]]
+No seu <s>[[Paraguai|produto altamente falsificado]]</s> exemplar da "Aritmética" de Diofanto, Fermat escreve numa margem aquele enunciado e diz que tem uma demonstração <s>sexual</s>,  mas que ela não cabe na margem. Esta conjectura ficou por demonstrar     e constituiu um verdadeiro desafio para os matemáticos ao longo dos  tempos, <s>porém o problema era que nenhum deles saia da segunda fase, o que os fez ter outra ideia</s>     apesar de parecer simples e o enunciado ser fácil de entender. Ao  longo    destes séculos, houve inúmeras pessoas que anunciaram terem  demonstrado    a conjectura, mas foram sendo encontrados erros, na maior  parte dos casos bastante    grosseiros <s>bem grossos</s>.
+
+Até que, em Junho de [[1993]],    Andrew Wiles, matemático [[Inglaterra|inglês]]  a trabalhar na Universidade de    Princeton (Estados Unidos),  apresenta, no famoso seminário anual de matemática    em Cambridge, o  que considera ser a demonstração do último    teorema de Fermat,  resultado de um trabalho de 7 anos. Mas é descoberta    uma falha nessa  demonstração, que ocupava aproximadamente 200    páginas. Com a  colaboração de Richard Lawrence Taylor,    da Universidade de Cambridge  (no Reino Unido), Wiles consegue corrigir o erro    e em Outubro de 1994  apresenta essa correcção. Fica assim concluída    a demonstração do  chamado último teorema de Fermat,    cerca de 350 anos após ter sido  enunciado. É curioso que este    resultado, mesmo antes de provado,  tenha sido sempre conhecido pela designação    de último teorema de  Fermat em vez de última conjectura    de Fermat, como teria sido mais  natural.
+
+O ''applet'' permite-nos    uma leitura geométrica desse enunciado. No applet mostra-se     uma superfície que é a representação gráfica    dos pontos da forma      em que ,    com n natural,    e um plano horizontal (formado pelos  pontos (x,y,0)), no qual    estão ainda desenhadas a branco as linhas  que correspondem a x    inteiro e as que correspondem a y inteiro. Os  vértices dos quadrados    brancos são, pois, precisamente os pontos do  plano com ambas as coordenadas    inteiras. Na superfície, está  desenhada a amarelo uma das curvas    de nível,    de altura inteira (z é  aqui considerada a altura).    A curva de nível é modificável no ''applet''. Vê-se  também    no applet a projecção da curva de nível no plano     horizontal. Estão ainda marcados os pontos da superfície que têm     todas as coordenadas inteiras, e linhas verticais unindo-os às respectivas    projecções no plano horizontal. Inicialmente, ''n'' é    igual a 2 e o ''applet'' tem o seguinte aspecto:
+
+==O Teorema em si==
+
+O famoso "Último Teorema de Fermat" afirma que não há solução para várias equações, tal como ''x"+y" = z"''    se ''n'' for um inteiro maior do que 2 e ''x'', ''y'' e ''z'' naturais    (inteiros > 0, <s>mas Einstein nega isso, pois a solução disso é...</s>
+
+== Tentativas de soluções ==
+[[Arquivo:Mulher = Problemas.jpg|thumb|200px|Numa das inúmeras tentativas de solução, os matemáticos desenvolveram mais uma teoria.]]
+Este teorema permaneceu não comprovado até recentemente. O pragmatismo matemático (a filosofia de que transar é a primeira prioridade de um matemático) desencorajou a prova desse teorema, e as únicas provas conhecidas desse teorema só foram realizadas pelo onipotente ou descobertas por acaso.
+
+É possível fornecer uma prova verdadeiramente notável, mas receio que este site não tenha espaço suficiente para isso.
+
+=== Homer Simpson ===
+[[Arquivo:Homer fermat.jpg|left|thumb|200px|Homer tentando provar que Fermat estava errado.]]
+O último teorema foi desmentido por uma equipe multidisciplinar, trabalhando em bicicletas em vários locais ao redor do globo. O primeiro a reconhecer o avanço foi o famoso personagem de desenho animado, matemático e estrela de cinema [[Homer Simpson]], que, em um ataque de raiva, tentou incomodar todo mundo com o som de giz em um quadro negro. Quando viu o que havia rabiscado, no entanto, seu "sangue gelou". Felizmente, todo o incidente foi gravado em vídeo, dando-nos um vislumbre sem precedentes da nossa própria mortalidade e da fragilidade do universo.
+
+Esta visão instigante é capturada em um episódio de Os Simpsons, "Treehouse of Horror VI". No mundo tridimensional que habita "Homer<sup>3</sup>", a equação <math>1782^{12} + 1841^{12} = 1922^{12}</math> é visível, assim como o universo começa a desmoronar. Isso faz com que seja absorvente, apreciado com uma boa garrafa de vodca, salame caro e a viúva ao lado.
+
+Homer Simpson repete o feito em um episódio posterior, "The Wizard of Evergreen Terrace": onde a equação sinistra <math>3987^{12} + 4365^{12} = 4472^{12}</math> aparece, invertendo assim o Big Bang. A discrição do espectador é aconselhada.
+
+=== Enzo Valenzetti ===
+Em um desenvolvimento separado, a equação teria sido originalmente resolvida por um cientista desconhecido regozijando-se em nome de Enzo Vallenzetti (também o criador da inútil Equação Vallenzetti) em algum momento no final da década de 1960. No entanto, devido à sua natureza excêntrica e reclusa, depois de ter a prova verificada por seus colegas, Vallenzetti teria queimado seu trabalho para que, de acordo com seu assistente, "''outros pudessem se divertir tanto resolvendo isso''". Este simples ato o relegou de "relativa obscuridade" a "total obscuridade" e nunca mais foi ouvido.
+
+=== Elizabeth Hurley ===
+[[Arquivo:Fermat professora.jpg|thumb|Professora de matemática fazendo uma aposta com um de seus alunos [[nerd]]s: Se conseguir revolver a equação, ele terá uma noite de amor com ela.]]
+Outra estrela de cinema e matemática, [[Elizabeth Hurley]], também resolveu o teorema no filme Bedazzled, quando a mesma interpretou o Diabo que, em uma de suas muitas formas, apareceu como professora de escola. Nesta cena em particular, a lousa atrás dela diz: "Esta lição de casa: Prove <math>a^n + b^n = c^n</math>''". Nenhuma prova foi apresentada, refutando assim o teorema.
+
+=== Brendan McKay ===
+Brendan McKay descobriu uma prova do teorema usando sequências de letras equidistantes em [[Moby Dick]].
+
+=== Andrew Wiles ===
+[[Arquivo:Teorema femat - grande.jpg|left|thumb|200px|Sua cara de espanto ao ver a solução do teorema.]]
+O Último Teorema de Fermat foi finalmente provado ser conclusivamente verdade pelo matemático britânico Andrew Wiles, que, enquanto olhava distraidamente através de um livro em uma tarde de domingo, casualmente observou: "as pessoas gastaram um monte de tempo tentando provar este teorema". Ele então dedicou alguns minutos para escrever sua prova mais formal, de 500 páginas, do teorema, no decorrer do qual ele também provou conclusivamente que Deus existe e que com as loiras os homens realmente se divertem mais. A prova completa é realmente uma demonstração maravilhosa, no entanto, não cabe nas margens da página desta Desciclopédia, e por isso é deixado como um exercício para o leitor.
+
+== Dicas para encontrar a solução do teorema ==
+* Compre uma arma e continue usando a [[prova por intimidação]].
+* Suponha que o teorema seja verdadeiro e, em seguida, questione a sexualidade de todos que pensam que é falsa.
+* Invente uma prova aparentemente falsa e, em seguida, apresente-o usando dança interpretativa.
+
+{{Teorias e Teoremas}}
+[[Categoria:Teoremas de matemática]]

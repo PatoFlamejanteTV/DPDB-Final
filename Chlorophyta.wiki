@@ -1,0 +1,38 @@
+{{taxocaixa
+| nome            = Algas clorófitas
+| cor             = #7FFFD4
+| imagem          = Hamburguer de siri.JPG
+| imagem_legenda  = Uma clorófita compondo um clássico [[hambúrguer de siri]]
+| reino           = [[Plantae|Plantinhas]]
+| clado2          = [[Viridiplantae|Viripendio]]
+| clado3          = [[Chlorophyta|Clorofila]]
+}}
+
+'''Chlorophyta''', ou '''clorófitas''', é o grupo que reúne todas as [[algas]] existentes no planeta Terra, e fora também, dependendo do filme de ficção científica que esteja assistindo, você só exclui as [[Rhodophyta|algas vermelhas]], [[Glaucophyta|algas que parecem protozoários]], [[Charophyta|algas de aquário]] e [[corais]]. Todo aquele mato subaquático nos oceanos são algas clorófitas, da mais inútil plantinha até aquele enorme cocozão pastoso esverdeado, se está no oceano é uma clorófita, porque são as únicas que aguentam água salgada.
+
+== Características ==
+
+É muito fácil descrever o que é uma clorófita, é como um [[alface]], só que ensopado e enterrado no fundo do [[oceano]]. Em outras palavras, uma [[alga]]. Mas como tem outros tipos de algas, os botânicos precisam ficar criando essas mil divisões miseráveis, cada uma menos [[monofilético|monfilética]] que a outra. Mas enfim, não é sobre a incompetência dos biólogos que é este artigo, mas sim sobre algas, o ser mais sem graça dos oceanos, mais sem graça até que o plâncton e os corais, basta assistir qualquer episódio de Bob Esponja e perceber que até as águas-vivas, que nem cérebro tem, possuem um certo propósito, enquanto as clorófitas não passam de cenário.
+
+A variedade é enorme e abrangente, muitas vezes se assemelham mais à um alface ensopado, mas outras vezes mais se assemelham a poças enormes de vômito verde, havendo [[mais de 8000|mais de 17 mil]] espécies catalogadas, sem contar com as não catalogadas ou as alienígenas.
+
+O que sabe é que além de serem plantas, ou seja, seres não dotados de [[alma]], estes seres são, embora desalmados, um grupo de seres vivos extremamente resistentes, já sendo registrado situações em que jogaram lixo em cima dessas algas, depois cagaram em cima dessas algas, depois mijaram em cima, depois despejaram esgoto, e mesmo assim as clorófitas continuam proliferando.
+
+== Classes ==
+
+* '''[[Chlorodendrophyceae]]'''
+* '''[[Chloropicophyceae]]'''
+* '''[[Mamiellophyceae]]'''
+* '''[[Nephrophyceae]]'''
+* '''[[Prasinophyceae]]'''
+* '''[[Pedinophyceae]]'''
+* '''[[Picocystophyceae]]'''
+* '''[[Pyramimonadophyceae]]'''
+* '''[[Ulvophyceae]]'''
+* '''[[Trebouxiophyceae]]'''
+* '''[[Chlorophyceae]]'''
+
+{{Seres Vivos}}
+
+[[Categoria:Viridiplantae]]
+[[Categoria:Chlorophyta|*]]

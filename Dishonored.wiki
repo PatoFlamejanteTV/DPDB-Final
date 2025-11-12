@@ -1,0 +1,80 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Desonrado
+|image     = Dishonored.jpg
+|caption   = 
+|developer = [[Arkane Studios]]
+|publisher = [[Bethesda]]
+|released  = [[2012]]
+|genre     = semi-[[RPG]]
+|rating    = 40%
+|ages      = +15
+|platform  = [[PlayStation 3|PolyStation 3]]; [[Xbox 360|Cubo 360°]]
+}}
+
+'''Dishonored''' é um jogo [[Assassin's Creed]] em primeira pessoa e com poderes mágicos, possui elementos de stealth, RPG, First person shooter, é tanta coisa misturada que nem dá para definir esse jogo. Os fãs de Skyrim viram que era um jogo da [[Bethesda]] e torraram toda a grana da avó achando que se tratava de um jogo de um mega-mundo aberto cheio de opções não-linear, e claro, decepcionaram-se com um jogo que dá para zerar em 5 horas, e você tem que ficar fazendo as mesmas missões mil vezes de maneiras variadas.
+
+== História ==
+
+[[Arquivo:Dishonored gangnan style.jpg|thumb|220px|left|''Dishonored Gangnan style version''.]]
+
+Basicamente você é um pobre coitado que foi acusado injustamente de assassinato, e para provar sua inocência você decide fazer a coisa mais lógica e sensata de todas: Fugir da prisão e matar todo mundo que encontrar pela frente.
+
+Enquanto sai andando por uma cidade que parece ter saído de [[Killzone 2]], além de se deparar com guardas cegos que você pode optar matar ou não como divertimento, frequentemente se deparará com uma horda de [[rato]]s carniceiros zumbis que comem tudo o que veem pela frente até os ossos. Mesmo que uma praga esteja assolando a cidade, você não precisa se incomodar em sair comendo qualquer comida que achar no esgoto.
+
+Então o jogo acaba repentinamente e você chega a conclusão que gastou 200 reais a toa comprando o jogo na estreia só porque ele foi elogiado nas reviews mundiais.
+
+== Jogabilidade ==
+
+Misture combos de [[Bioshock]], com a primeira pessoa estranha de [[Skyrim]], a habilidade de controlar o tempo de [[Braid]] e uma história sem lógica de [[Assassin's Creed]], e pronto, temos a jogabilidade de Dishonored.
+
+O jogo é feito por missões lineares onde você pode explorar de [[mais de 8000]] maneiras diferentes. Entre as duas opções clássicas, você pode avançar nas fases furtivamente abusando da cegueira dos guardas que são todos míopes e não conseguem te ver só porque está agaichado, até chegar a hora que você perder a paciência e ir na louca causando a maior carnificina, matando inclusive cidadãos inocentes.
+
+== Personagem ==
+
+Você é Corvo, um assassino sangue-frio de verdade que [[Assassin's Creed|não precisa ficar fazendo]] [[Le Parkour]] pela cidade para causar o maior caos urbano.
+
+O resto são os guardas e pessoas ricas inúteis que você vai matar, por exemplo:
+
+===Campbell===
+Alto-Bispo, General, Careca, Supervisor, Overseer ou qualquer outra coisa que uma pessoa careca pode fazer, '''Thaddeus Campbell''' é a primeira pessoa pouco inútil que você deve, ou não, matar. Campbell vive em uma gigantesca mansão, como todo pastor de igreja, com uma sala secreta repleta de [[Pornografia|coisas que não podem vir a público]], ratos e leptospirose.
+
+===Morgan e Custis Pendleton===
+Os '''irmãos Pendleton''' são dois deputados federais, logo, nunca trabalharam na vida. Moram em um bordel e mantém uma mina de prata cheia de escravos <s>sexuais</s>. Você pode matar os dois em uma sauna gay, ou entregá-los para um bandido pirata bêbado com bigode... Ou matar eles com sua faca de manteiga... Ou com ratos... Ou com plutônio...
+
+===Anton Sokolov===
+Primo distante de [[Rasputin]], '''Antônio "Tonho" Sokolov''' é um cientista brilhante que morre em uma ponte e deve ser sequestrado. Sokolov mantém várias vítimas de uma terrível praga para fazer seus [[Sexo|experimentos]]. Além de construir bombas atômicas de óleo de baleia.
+
+===Lady Boyle===
+Vadia particular do Lorde Regente, '''Lady Boyle''' é uma mulher com síndrome de identidade que gosta de usar roupas iguais às de suas irmãs. A verdadeira Lady Boyle pode se chamar Waverly, Lydia ou Esma, e essa informação deve ser útil para aqueles que jogam, apesar da possibilidade de ser completamente ignorada por sua inutilidade iminente.
+
+===Lorde Regente===
+'''Hiram Burrows''', o Lorde Regente, também  conhecido como Filho da Puta ou Michel Temer careca é outra pessoa que deve morrer. Ele é o novo comandante de Dunwall e governa com [[Getúlio Vargas|tirania e opressão, mantendo uma imagem heroica]] dentro de sua torre altamente protegida por pessoas que morrem. Você pode matá-lo, ou deixar seus crimes virem à público, para que o pobre menino Hiram seja executado. De qualquer forma, ele morre.
+
+===Daud===
+'''Daud''' é o líder dos assassinos ucranianos conhecido como "os Baleeiros", e o cara que matou a imperatriz. Assim como Corvo, Daud já teve [[Sexo|contato]] com o Outsider, então pode soltar poderzinho e não é afetado por outros poderzinhos. Corvo e Daud têm uma [[Mentira|épica batalha por honra e vingança que acaba em um desfecho emocionante onde Daud se arrepende dos seus crimes, e é poupado pelo herói!]]. Ou então, você pode simplesmente matá-lo, e foda-se a misericórdia.
+
+===Teague Martin===
+'''Martin''' era um dos Overseers sob o comando de Campbell. Você salva ele na primeira missão, liberando-o do instrumento de [[Sadomasoquismo|tortura]] em que ele está confinado. Ele então te ajuda a cumprir seu nobre objetivo de trazer paz a Dunwall matando metade da população civil e 90% dos guardas, [[Spoiler|mas no final do jogo, te envenena e te trai, conspirando com Farley Havelock e Treavor Pendleton]]. Supostamente é um mestre estrategista. Mas isso é mentira.
+
+===Treavor Pendleton===
+Irmão mais novo de [[Morgana|Morgan]] e [[Cu|Custis]], '''Treavor Pendleton''' é apenas mais um bêbado rico inútil que não gosta do Lorde Regente, assim como a maior parte da população. Apesar dos [[Estupro|abusos e violências que sofreu dos seus irmãos quando era jovem]], Treavor ainda se importa com eles, e fica triste quando morrem... Enfim, Treavor te trai e você mata ele.
+
+===Farley Havelock===
+Antigo almirante da marinha de Dunwall, Farley Havelock é um cara que te ajuda até resolver te matar. Ele lidera a conspiração contra o domínio do Lorde Regente, lidera a conspiração contra Corvo, e provavelmente liderou a Revolução Cubana, ao lado de Fidel Castro e Che Guevara. Lendas dizem que Havelock ainda lidera conspirações, apesar de estar morto...
+
+{{Dishonored}}
+{{ZeniMax Media}}
+{{Ação-aventura}}
+{{Stealth}}
+
+[[Categoria:Jogos lançados em 2012]]
+[[Categoria:Jogos da Arkane Studios]]
+[[Categoria:Jogos da Bethesda]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para PlayStation 3]]
+[[Categoria:Jogos para Xbox 360]]
+
+[[it:Dishonored]]
+[[pl:Dishonored]]

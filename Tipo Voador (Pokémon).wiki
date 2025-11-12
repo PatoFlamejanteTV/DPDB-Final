@@ -1,0 +1,25 @@
+{{voador}}
+
+O '''tipo voador de Pokémon''' é o tipo que engloba quase todos os pokémons que têm sangue de galinha, usam o vento de alguma maneira, que possuem asas, bico ou qualquer outra coisa. Só não engloba os pokémons que levitam com as técnicas milenares dos [[monges budistas hippies que plantam maconha para subsistência]], estes voam também mas é devido ao próprio poder deles.
+
+É aqui onde você verá todos os pokémons baseados nas mais variadas espécies de [[frango]] (com exceção do [[Blaziken]] e do [[Empoleon]], que sabe-se lá porque não colocaram desse tipo) e também é aqui onde há vários pokémons baseados em insetos chatinhos que a gente tenta matar a todo momento. Também é aqui onde vários dragões como a [[tua mãe]] residem. O tipo voador no entanto é inútil para os últimos dois; só serve para os insetos ficarem ainda mais fracos contra tacar pedras neles, e para os dragões, só serve para duplicar o problema que eles já tem de terem sangue frio.
+
+Ofensivamente, os ataques dos frangos são capazes de derrotar insetos e plantas. Isso já era de se esperar deles, mas o que você nem imagina é que eles também são bons contra os pokémons macho-mens! Isso mesmo, um bando de marmanjo que sabe não sei quantas técnicas de luta têm medo de receber bicadas de frangos e até mesmo de [[pintinho]]s [[kawaii]]s que não machucam ninguém! Só que eles também possuem suas fraquezas. Ataques <s>de frango</s> voadores são resistidos pelos [[golem]]s, [[robô]]s e pokémons [[Eletricidade|plugadões]] em geral. Isso quer dizer que um pokémon plugadão pode aguentar uma bicada numa boa e depois revidar com um choque de 10 mil volts.
+
+Defensivamente, os frangões não estão numa boa. Resistir às picadas de insetos, às urtigas e a todo e qualquer tipo de [[técnica milenar]] existente que o [[Pai Mei]] ou o [[Lindomar]] saibam é algo bom. Além disso, eles também são imunes a ataques de terra; quando houver um terremoto como aquele que houve no Japão, os pokémons frangões vão ficar numa boa já que eles podem voar pra evitar a agitação. Mas de que essas coisas adiantam? Eles possuem uma fraqueza enooooooooooorme contra tacar pedras neles. Ou seja, eles são fracos contra [[Stealth Rock|aquelas pedrinhas pontudas que voam no ar]]. Isso sem falar de suas fraquezas contra coisas de eletricidade; Definitivamente, um pokémon frango nunca deve ser mandado para fazer um trabalho de um eletricista, a não ser que ele seja o [[Gliscor]], e o Gliscor não é um frango! E [[Tio do Jackie Chan|mais uma coisa]], os frangões também não resistem quando a temperatura cai. Por isso que você não vê batalhas pokémon envolvendo pokémons voadores em lugares como a [[Sibéria]], o [[Rio Grande do Sul]] ou o [[Alaska]]. Os russos nem sabem da existência de pokémons voadores. Nunca convide um pokémon voador pra tomar um sorvete ou uma sopa de pedra, por estas razões.
+
+==Ofensivamente==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|'''<font color=#8B0000>Resistem aos seus ataques:</font>'''||'''<font color=green>São fracos aos seus ataques:</font>'''||'''<font color=#8B0000>São imunes aos seus ataques:</font>'''
+|-
+|[[Arquivo:Robô.png|100px|link=Tipo Aço (Pokémon)|Aço]] [[Arquivo:Pedra6.jpg|100px|link=Tipo Rocha (Pokémon)|Pedra]] [[Arquivo:Tomada.jpg|75px|link=Tipo Elétrico (Pokémon)|Elétrico]]||[[Arquivo:Folha.png|100px|link=Tipo Planta (Pokémon)|Planta]] [[Arquivo:Borboletinha kawaii.jpg|100px|link=Tipo Inseto (Pokémon)|Inseto]] [[Arquivo:Lutador de boxe.png|100px|link=Tipo Lutador (Pokémon)|Lutador]]||[[Arquivo:Tumbleweed01.gif|100px|Merda nenhuma]]
+|}
+
+==Defensivamente==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|'''<font color=green>Resistem aos seguintes tipos:</font>'''||'''<font color=#8B0000>São fracos aos seguintes tipos:'''</font>||'''<font color=green>São imunes aos seguintes tipos:</font>'''
+|-
+|[[Arquivo:Folha.png|100px|link=Tipo Planta (Pokémon)|Planta]] [[Arquivo:Borboletinha kawaii.jpg|100px|link=Tipo Inseto (Pokémon)|Inseto]] [[Arquivo:Lutador de boxe.png|100px|link=Tipo Lutador (Pokémon)|Lutador]]||[[Arquivo:Sorvete de baunilha e de chocolate.jpg|100px|link=Tipo Gelo (Pokémon)|Gelo]] [[Arquivo:Pedra6.jpg|100px|link=Tipo Rocha (Pokémon)|Pedra]] [[Arquivo:Tomada.jpg|75px|link=Tipo Elétrico (Pokémon)|Elétrico]]||[[Arquivo:Duna de deserto.jpg|100px|link=Tipo Terra (Pokémon)|Terra]]
+|}
+
+{{TiposPokémon|tipo=Flying}}

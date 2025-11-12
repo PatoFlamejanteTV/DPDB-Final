@@ -1,0 +1,57 @@
+
+== Conceitos gerais ==
+'''Programação Orientada ao Internet Explorer''', ou '''POIE''', é a forma mais elementar de programação que existe, pois qualquer coisa roda no [[IE]], tais como vírus, spyware, e a droga de um código imundo. Na verdade, programadores de verdade permitem que seus espermatozóides treinem usando POIE, para que depois de fecundados, passem para um estágio mais avançado de programação.
+
+== História do POIE ==
+[[Arquivo:Heatseek save.png|thumb|O POIE é responsável pelo fato de que qualquer um pode agora ver pornografia]]
+* 1982 - A Microsoft lança o Basic. Como ele era muito complicado para certos energúmenos, o departamento de marketing exigiu um ambiente de desenvolvimento para este público. Mais tarde foram encontrados documentos provando que eram os próprios funcionários do departamento de marketing que não entendiam os complexos conceitos do Basic.
+
+* 1985 - 97% dos usuários de POIE nascem neste ano. Ele é chamado de "O ano perdido".
+
+* 1989 - A Microsoft inventa a internet, depois de comprar todas as redes de BBS do continente americano, europeu, asiático, pageático e dos planetas vizinhos.
+
+* 1995 - É lançado do Internet Explorer, num evento que reúne [[Bill Gates]], O [[Papa]], [[Gengis Khan]], [[Hittler]] e claro, ele, [[Chuck Norris]]. Não houve sobreviventes, exceto o próprio Chuck.
+
+* 2004 - A Microsoft inventa a web 2.0, já que a versão 1.0 já tinha esgotado sua principal missão, a pornografia. Aqui a POIE desponta com grande vedete do desenvolvimento, ocupando milhares de profissionais. Foi mais ou menos neste período que os servidores do [[MSN]] começaram a ficar ociosos durante o horário comercial.
+
+== A Web 2.0 ==
+A Web 2.0 é um complô dos [[Emos]] que se julgaram excluídos da internet. Depois de baixarem todas as músicas do [[Radiohead]], optaram em desenvolver furiosamente sites para a web 2.0, multiplicando centenas de vezes a população de emos da internet.
+
+== Detratores ==
+Os principais detratores do POIE, agora já confundido com Web 2.0, são uma subdivisão dos emos, o tableless-emo-w3c. Os próprios emos tem preconceito contra elas, para se ter uma ideia de quão desprezíveis eles são. Sua principal atividade é ficar reclamando que os sites não funcionam nos seus browsers - devidamente simbolizados por [[Ninja|Ninjas]], o Firefox - ou browsers para miguxos, Opera.
+
+== Paradigmas da POIE: ==
+* '''Qual linguagem de script usar? JavaScript, JScript ou VBScript?'''
+Depende. Se seu site é um site cabramacho, que mata mais de mil, então não use nada. Mas se seu site foi o Cão que botô pra ser acessado, deve-se usar preferencialmente o Jscript.
+
+* '''E quanto à formatação?'''
+Não se preocupe em estudar css para formatar seus textos, use a tag FONT mesmo, é pra isso que ela serve.
+
+* '''O que?? Tableless?? O que é isso??'''
+Não se preocupe com isso, o Frontpage faz tudo isso pra você, com tabelas mesmo. 
+E também lindos modelos de sites importados diretamente do Word ou templatesmonter.com.
+
+== Não Funciona com o FireFox! ==
+* '''Um belo dia alguém chega pra você e diz que o seu site não funciona corretamente em outro navegador ([[Mozilla_Firefox|Firefox]], [[Opera|Opera]], etc...). O quê fazer??'''
+Simples, abra o IE e
+carregue o site na frente desta pessoa e mostre a ela que tudo está funcionando perfeitamente bem no IE e não há motivos
+pra se usar outro navegador. Se ela disser que não gosta do IE então recomende-a ou outro navegador, 
+como [[Microsoft_Internet_Explorer|Maxthon]] ou [[Microsoft_Internet_Explorer|Avant Browser]] (ambos usam o núcleo do IE para renderizar seu site).
+Pode-se também em casos extremos de usuários muito fiéis ao Firefox, instalar um plugin (Complemento) chamado IE Tab, fazendo com que o Firefox utilize também o núcleo do IE para abrir as páginas, resolvendo assim este detalhe.
+
+== Técnicas de programação ==
+Uma técnica utilizada com freqüencia consiste em inserir códigos javascript que verificam se o usuário está utilizando o IE. Caso contrário, o acesso ao site é bloqueado e é apresentada uma página tosca dizendo que você deve possuir [[Internet_explorer|este]] programa enviado pelo [[Bill_Gates|lado negro da força]].
+
+== Exemplos de sites que utilizam a técnica ==
+Para conscientizarão de nossos programadores (leia-se "simancol"), segue uma lista de alguns websites programados em Orientação a IE:
+* http://www.consul.com.br/ - Consul
+* http://www.urbietorbi.com.br/ - Urbi et Orbi
+* http://lojavirtual.vivo.com.br/ - Essa bosta não funciona fora do IE MESMO
+
+== Aviso Final ==
+Este artigo não contempla o caso dos [[Windows|programas populares]] (Dicionários, Enciclopédias e Shows do Milhão) que usam o IE como base para inter[[merda|fezes]] gráfica. !!
+
+{{esboço}}
+[[Categoria:Paradigmas de programação]]
+[[Categoria:Ciência da computação]]
+[[Categoria:Práticas milenares]]

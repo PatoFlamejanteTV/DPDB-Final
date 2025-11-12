@@ -1,0 +1,62 @@
+{{hero}}
+{{Policial}}
+{| class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+|-
+!style="text-align:center; {{{comic_color}}}"|<big>'''''Capitão R.E.D'''''</big>
+|-
+|style="text-align: center; font-size: 90%;"|
+<br />
+|-
+|[[Arquivo:Capitão R.E.D. fodão.png|center|220px]]
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+|- style="vertical-align: top;"
+|'''''Nome Real'''''||''Isso é confidencial!''
+|- style="vertical-align: top;"
+|'''''Cidade'''''||''[[Rio de Janeiro]]''
+|}
+|-
+|
+----
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+!colspan="2" style="text-align:center;{{{alliance_color}}}"|Características
+|- style="vertical-align: top;"
+|'''''Inteligência'''''||''{{066}}''
+|- class="hiddenStructure{{{alliances}}}" style="vertical-align: top;"
+|'''''Afiliações'''''||''R.E.D (Distrito de Risco e Emergência) ''
+|- class="hiddenStructure{{{relatives}}}" style="vertical-align: top;"
+|'''''Parentes'''''||''[[Sei lá]]''
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''''Inimigos'''''||''Traficantes, Maconheiro e um tal de <s>Baiano</s> Ratão''
+|- style="vertical-align: top;"
+|'''''Poderes'''''||''Nenhum (tudo que ele faz é por causa da armadura dele. Que é compostas dos materiais mas resistentes do planeta, o escudo dele pode cortar um braço fora e ele tem um canhão fodônico no braço dele).''
+|}
+|}
+
+{{Você quis dizer|[[Capitão América do Sul]]}}
+{{C|Chegado, só não é mais fodão que eu que sou o Superman do Brasil.|Capitão 7|{{PAGENAME}} }}
+{{C|Policial gostoso esse, já me comeu em crossovers.|Velta|{{PAGENAME}} }}
+{{C|Me copiou, mas representa nos país e é CAVEIRA!|Capitão Nascimento|{{PAGENAME}} }}
+{{C|Usa uma armadura vermelha que nem eu|Homem de Ferro|{{PAGENAME}} }}
+{{C|Usa um escudo fodônico que nem o meu|Capitão América|{{PAGENAME}} }}
+
+[[Arquivo:Cap. Red.jpg|100px|left]]
+'''Capitão R.E.D''' é um [[super-herói]] 90% desconhecido pelos fãs de [[Marvel]], [[DC Comics]] e outras presepadas nas terras do [[Tio Sam]], isso porque ele é um herói genuinamente criado por um autor [[brasileiro]] (mas nem por isso faz parte da [[Legião dos Super-Herois Brasileiros]]) líder do grupo '''A Ordem''' (uma concorrente dos [[Vingadores]] e da [[Liga da Justiça]]). É um enorme representantes dos [[Bangá]]s (quadrinhos dos BR) e suas histórias solo estão disponíveis online, já o crossover dele com a [[Velta]] e outros heróis desconhecidos do grupo já citado ainda esta em andamento.
+
+==Quem?!==
+[[Arquivo:Herói Capitão Nascimento.png|left|thumb|200px|Capitão Nascimento, o personagem que serviu de inspiração para a criação de Capitão R.E.D.]]
+
+O [[real]] nome de Capitão R.E.D permanece em mistério por sua identidade secreta ser confidencial, o super-herói carioca foi criado em [[2012]] sendo inspirado em [[Capitão Nascimento]] do filme [[Tropa de Elite]], por isso que o Capitão R.E.D é um policial do [[Rio de Janeiro]]. Ate ai tudo bem, só que a história dele se passam em um ano de [[2016]] alternativo onde uma organização de policiais futuristas chamada '''R.E.D''' (Distrito de Risco e Emergência) fica combatendo o crime organizado depois que o Brasil ficou uma zorra com a merda das Olimpíadas do Rio.
+
+Por isso, o nosso querido herói BR recebe o título de '''Capitão América do Sul''', primeiro porque ele também usa usando um escudo foderoso e segundo que ele nasceu na [[América do Sul]] e não na [[América do Norte]] como o vingador [[Steve Rogers]]. Por isso na lógica o R.E.D é o nosso "''Capitão América''".
+
+{{C|Como assim outro Capitão América? Americano não é uma pessoa que nasceu nos Estados Unidos?.|[[Noob]] ao ler essa parte do artigo.}}
+
+Não! Isso é coisa de [[Imperialismo]], brasileiros também são américanos! Só que são latino americanos, os estadunidenses são norte americanos, entendeu seu burro?! Mas deixa isso pra lá. E para saber mais sobre esse grande protagonista de quadrinhos, somente entrando no [[Facebook]] (ou no Google mesmo) porque já cheio de material dele por lá.
+
+{{oposto|Capitão América}}
+{{Elyan Lopes}}
+{{Capitão}}
+{{Quadrinhos}}
+[[Categoria:Personagens fictícios do Brasil]]

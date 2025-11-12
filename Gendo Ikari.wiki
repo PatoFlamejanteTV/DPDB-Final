@@ -1,0 +1,78 @@
+<choose><option>{{Anti-herói}}</option>
+<option>{{Bad Boy}}</option></choose>
+
+{| border="0" cellpadding="4" style="background-color:#f9f9f9; border: 1px solid #aaa; float: right; margin: 0 0 1em 1em; width:300px; border-collapse: collapse; font-size: 95%; clear: right"
+<div align="center">
+|-
+! colspan=2 style="background: #F00001;" | <big>碇ゲンドウ</big></div>
+[[Arquivo:gendo.jpg|200px]]
+|- style="vertical-align: top;"
+| '''Idade'''
+| style="padding-right: 1em;" | 48 anos
+|- style="vertical-align: top;"
+| '''Sexo'''
+| style="padding-right: 1em;" |{{Icon_mas}}
+|- style="vertical-align: top;"
+| '''Cidade natal'''
+| style="padding-right: 1em;" | [[Tóquio]] 
+|- style="vertical-align: top;"
+| '''Filmes em que estava'''
+| style="padding-right: 1em;" | [[Neon Genesis Evangelion]]
+|- style="vertical-align: top;"
+| '''EVA que possui'''
+| style="padding-right: 1em;" | Todos 
+|- style="vertical-align: top;"
+| '''Para que possui o EVA'''
+| style="padding-right: 1em;" | Para nada
+|- style="vertical-align: top;"
+| '''Companheiros'''
+| style="padding-right: 1em;" | [[Shinji Ikari]] (filho), [[Yui Ikari]] (esposa morta), [[Rei Ayanami]] (fantoche)
+|- style="vertical-align: top;"
+|}
+{{Vqd|José Mayer}}
+
+'''Gendo Ikari''' é o [[pai]] negligente de [[Shinji Ikari]], o [[protagonista]] [[emo]] de [[Neon Genesis Evangelion]]. <s>Se meu [[filho]] fosse daquele jeito [[eu]] faria até pior...</s>
+== Vida ==
+[[Arquivo:gendo ikari evangelion.jpg|thumb|left|Gendo Ikari, o poderoso chefão da NERV.]]
+Nascido Gendo Rokubungi, assim como todos os outros personagens de [[Evangelion]] ele teve um [[passado]] traumático que foi muito mal explorado no [[anime]] e se arrasta até [[hoje]] no [[mangá]]. 
+
+Graças a seu [[hyper QI]], ele conseguiu passar no dificílimo [[vestibular]] da SEELE (''Sindicato Estudantil Especial de Loucos Experimentos''), uma concorrida [[universidade]] [[japonesa]] especializada na formação de [[cientistas loucos]], e lá conheceu [[Yui Ikari]], uma [[nerd gostosa]] emocionalmente fraca (como todas as [[mulheres]] da série) de quem se aproveitou para dar umas [[comida]]s.
+
+Yui acabou engravidando e Gendo casou-se com ela em uma tentativa de dar o [[golpe do baú]], alterando inclusive seu sobrenome de Rokubungi para Ikari assim como a [[esposa]]. Não que Yui tivesse muito [[dinheiro]], mas ela detinha a patente do promissor projeto Evangelion, assim caso acontecesse algo com ela, os [[direito]]s [[autor]]ais passariam para Gendo.
+
+Porém, após a [[morte]] de Yui absorvida por um dos EVAs de seu próprio projeto, Gendo descobriu que realmente a amava, então enlouqueceu e criou uma orla de [[clone]]s albinos dela, todos chamados de [[Rei Ayanami]], a quem Gendo dá muito mais importância do que a Shinji, seu filho biológico com a falecida.
+== Relacionamentos ==
+[[Arquivo:gendo ikari house.jpg|thumb|left|Gendo fazendo cosplay do [[Dr. House]].]]
+Além da [[ex-mulher]] de quem se aproveitou, Gendo manteve um relacionamento simultâneo na SEELE com [[Naoko Akagi]], uma colega que morria de [[inveja]] de Yui porque queria ser a [[namorada]] oficial de Gendo e não sua reles [[amante]].
+
+Após Naoko enlouquecer e ter seu [[cérebro]] tranferido para um [[computador]], Gendo ainda não se deu por satisfeito e passou a [[transar]] com [[Ritsuko Akagi]], a filha dela, que por sua vez queria matá-lo por atribuir a ele a culpa pelo que aconteceu com [[sua mãe]].
+
+Mas a melhor companheira de Gendo é Rei, sua fiel [[boneca inflável]] com estoque ilimitado.
+== NERV ==
+[[Arquivo:gendo ikari super.png|thumb|220px|Eis no que consiste o trabalho de Gendo.]]
+A carreira profissional de Gendo ocorre na NERV (de ''Nervoso'', mesmo), uma [[sociedade secreta]] aparentemente filiada à SEELE da qual ele é o [[chefão]], embora nem saiba exatamente o que faz por lá.
+
+A sua função é dar ordens e participar de reuniões chatas feitas no escuro onde um bando de [[homens]] desconhecidos lhe dá conselhos sinistros e ininteligíveis à la [[Mestre dos Magos]] e [[Mestre Yoda]]. 
+
+Foi dele a ideia de transformar Shinji em um piloto de EVA, na intenção de que o moleque fosse absorvido assim como Yui e enfim Gendo ficasse livre de sua maldita [[família]].
+== Curiosidades ==
+* [[Takaaki Mitsuhashi]], um [[político]] [[japonês]] sem noção, fez [[cosplay]] de Gendo durante sua campanha eleitoral.
+* Gendo mandou Shinji morar com [[Misato Katsuragi]] com [[esperança]] de que ele perdesse a [[virgindade]] com ela.
+* A tradicional pose pensativa de Gendo, com as [[mão]]s cruzadas na frente do rosto, é uma das mais imitadas entre personagens de animes (veja abaixo).
+== Galeria do plágio ==
+<gallery>
+Imagem:alucard gendo ikari.jpg|[[Alucard (Hellsing)]]
+Imagem:james equipe rocket.jpg|[[James]]
+Imagem:Gendo pose gendo ikari neon genesis evangelion eva anime man demotivational poster.jpg|[[Light Yagami]]
+Arquivo:Sasuke0002.JPG|[[Sasuke Uchiha|Sasuke]]
+Imagem:Pose gendo ikari neon genesis evangelion eva anime man demotivational poster.jpg|[[macross|Milia Fallyna Jenius]]
+</gallery>
+
+[[Arquivo:Evangelion-gendo-cagando.jpg|thumb|center|250px|'''Gendo pose:''' fiel ao personagem até no banheiro.]]
+
+{{evangelion}}
+
+[[Categoria:Cientistas fictícios]]
+[[Categoria:personagens fictícios do Japão]]
+[[Categoria:Políticos fictícios]]
+[[Categoria:quatro olhos]]

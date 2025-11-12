@@ -1,0 +1,65 @@
+{| style="float:right; margin-left: 0.5em;" border="1" cellpadding="2" cellspacing="0"
+|-
+| colspan="2" |
+{| align="center" border="0"
+|-
+| colspan="2" align="center" | '''Novembrio'''
+|-
+! colspan="2" bgcolor="#a0ffa0" | <font color="green">Geral</font>
+|-
+|'''Nome''', '''Simbolo''', '''Numero'''
+| Novembrio, Nb, 11
+|-
+| '''Série alquímica''' || Elementos de Corrosa
+|-
+| '''Densidade''', '''Machesa'''
+| 0.10² [[p(alquimia)|p]], 11[[p(alquimia)|p]]
+|-
+| '''Cor e aparência'''
+| align="center" | Avermelhado.<br>
+|-
+! colspan="2" bgcolor="#a0ffa0" |Propriedades atómicas
+|-
+| '''Massa atómica'''
+| 4,6 meios[[p(alquimia)|p]]
+|-
+| '''Raio atómico''' || 100kW.[[p(alquimia)|p]]
+|-
+| '''Raio de Van der Van Halen''' || 80574[[p(alquimia)|p]]
+|-
+| '''Numero de Oxidação'''
+| -531 L4´
+|-
+| '''Estrutura [[Geometria|Geometrica]]''' || Quadrada/Calendárica.
+|-
+! colspan="2" bgcolor="#a0ffa0" |Propriedades físicas
+|-
+| [[Fases da matéria|Estado da matéria]] || [[Estado sólido|Sólido]]
+|-
+| [[Ponto de fusão]]
+| 100º[[Graus Descicliopédianos|Des]]
+|-
+| [[Ponto de ebulição]] || 99º[[Graus Descicliopédianos|Des]]
+|-
+|-
+| [[Potencial de ionização]] || 0[[p(alquimia)|p]]
+|}
+|-
+! colspan="2" bgcolor="#a0ffa0" |Dados [[Correto|corretos]] exceto onde indicado o contrário.
+|}
+
+O '''Novembrio''' é um elemento muito abundante na natureza. A época de procriação do Novembrio é por volta do fim do ano [[Escola|letivo]]. Ele foi descoberto por um Químio-pirata [[Caribe|caribenho]] [[Johnny Depp]], que o achou entre [[Outubro]] e [[Dezembro]]. Por muito tempo passou despercebido, devido a sua cor ser inodora, sua superfície insípida, e seu cheiro incolora.
+
+== Usos ==
+Costuma-se usar esse elemento na criação de calendários, relógios [[James Bond|JamesBond]]-Functions e outras coisas que não vem ao caso citar aqui.
+
+Também foi usado na criação da substância foi usada na criação da [[Casa Muito Engraçada]], que não tinha teto, não tinha nada, e muitas outras caracterísicas comuns ao '''Novembrio'''.
+
+== Elementos Inexistentes Semelhantes ==
+* '''''Julholio'''''
+* '''''Outubrio'''''
+* '''''Dezembrio'''''
+* '''''Todozosmêsios'''''
+
+[[Categoria:Elementos Alquímicos]]
+[[Categoria:Meses do ano]]

@@ -1,0 +1,45 @@
+{{Imagem}}
+A '''Teoria Pegacional''' é um subcampo da Ciência Pegacional, que se propõe a estudar por modelos teóricos os princípios e fenômenos que regem a Pegação.
+
+Embora os principais pensadores da Teoria Pegacional tenham se voltado para o contexto humano, há relatos de Cientistas Pegacionais da roça que os mesmos princípios são aplicados com sucesso à Pegação Caprina (interação Homem-Cabra) e Pegação Suína (interação Homem-Porco).
+
+(OBS: para as feministas chatas pra burro de plantão, antes de reclamar, reconhecemos que onde se lê mulher, pode-se ler homem e vice-versa, é só usar o tico e o teco).
+
+= Teorema dos Múltiplos Slots =
+
+== Histórico ==
+
+Foi em 1635 que o pegador-prático (ou como conhecido em Sevilha, o "burlador") [[Don Juan|Don Juan de Marco]], através de seu artigo "On the management of multiple women: an automatic approach", sintetizou o princípio que lhe permitia manter a pegabilidade e a fodebilidade de diversas mulheres "em paralelo", num mesmo período de tempo.
+
+A idéia por trás do teorema é simples: se direcionamos toda a nossa atenção (energia vital, ki, ou mojo) a uma mulher, ela interpreta que você é um fraco pegador, brocha, emo ou está xonado. Por mecanismo de feedback, a mulher cada vez mais desvaloriza a atenção recebida em abundância (lei da demanda e oferta), e passa a vislumbrar vôos mais altos. Em contrapartida, quando nos acoplamos a diversas mulheres em paralelo (multiplos "slots"), o baixo fluxo de atenção dada a cada uma delas garante uma conexão estável e proveitosa, além de ser um investimento com menor risco (devido à diversidade).
+
+O termo "slot" nada tem a ver com o personagem Slot dos Goonies, apenas reproduz a noção de um slot em eletrônica, espaço que pode ser conectado/desconectado a algo conforme necessário.
+
+Com o advento do Teorema dos Múltiplos Slots, é inconteste que as gerações seguintes de pegadores tiveram um upgrade significativo na quantidade e qualidade de mulheres. Inclusive, especula-se que esta seria a verdadeira razão para as explosões demográficas da Era Contemporânea.
+
+== Enunciado Formal ==
+
+Seja |S| a quantidade de slots (interação com mulher para fins de pegação) de um homem, e R_i a quantidade de "mole", "condição", ou "moral" que uma mulher alocada no slot S_i dá a este homem. 
+
+R_i ∝ |S|  (a atenção cresce com a quantidade de slots)
+
+= Teorema do Sacrifício do Acesso =
+
+=== Histórico ===
+
+Este segundo teorema fundamental deve-se ao filósofo-pegador [[Gil Brother]], em 1989, durante um congresso em Petrópolis - RJ. Na ocasião, Gil havia sido apresentado a uma mulher parcialmente gata (segundo a classificação ISO-9045, categorias G-31 "Gostosinha com ressalvas" ou G-44 "ex-gata que enfeiou com o tempo, mas engana"). No desespero, com sua fábrica de leite em plena produção, Gil aceitou o envolvimento com aquela mulher. Pouco tempo depois, para seu arrependimento, descobriu que a mulher tinha um admirável plantel de amigas necessitadas, de qualidade infinitamente superior.
+
+Conclusão: Devido a seu envolvimento com a mulher acesso, restou-se impossibilitada (ou pelo menos dificultada) a pegação das amigas. Para usufruir do grupo de amigas, seria necessário sacrificar (abrir mão) da mulher que é acesso ao grupo.
+
+=== Enunciado Formal ===
+
+Seja M1 uma mulher conhecida, tal que exista um conjunto de N amigas Ca = {R_i, i = 1..N} de qualidade notoriamente superior.
+
+Seja P(X) a possibilidade de pegação de uma mulher X.
+
+O consumo do acesso (mulher acesso) impossibilita a pegação do grupo de amigas:
+
+P(M1) -> ~ P(R_i), para i = 1..N.
+
+Alternativamente, o sacrifício do acesso permite (mas não garante) o consumo do grupo.
+{{Metodologias}}

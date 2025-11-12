@@ -1,0 +1,161 @@
+'''''Nota''': Se procura pelo demônio que [[Dar|dá]] '''muita''' atenção para [[Sam Winchester]] no seriado [[Supernatural]], consulte [[Ruby (Supernatural)]]''. E pela música do [[Kaiser Chiefs]], [[Ruby (canção)]]
+----
+{{compactar|
+{{Você quis dizer|[[Rugby]]}}
+
+{{C|Geeente, eu a-do-ro Ruby! Quando eu escrevo aqueles garanchinhos japoneses, me sinto uma verdadeira Sailor Moon!|[[Emo Programmer|Programador EMO]]|Ruby}}
+
+{{C|Não precisa nem saber programar, só encher de gem que ta pronto.|Qualquer desenvolvedor de verdade|Ruby}}
+
+{{C|Programação orientada a gem. | Sua mae | Ruby}}
+{{C|Existem coisas boas na vida. Existem as ruins. As porcarias. E existe isso aqui.|Oscar Wilde|Ruby}}
+
+{{C|Oh Ruby, don't take your love to town.|[[The Killers]]|Ruby}}
+
+{{C|Ruby, Ruby, RUBY!|Vocalista do [[Kaiser Chiefs]]}}
+
+{{C|Demon Ruby! She's hot!| [[Supernatural|Sam Winchester]], em Supernatural}}
+
+{{C|She's a Demon Sam!| [[Supernatural|Dean Winchester]], em Supernatural sobre comentário acima}}
+
+{{C|Zerei em 4 horas e peguei o Groudon<nowiki>!!</nowiki>|Treinador [[Pokémon]] sobre Ruby}}
+
+{{C|For.ever { self.love }|Ruby|Ruby}}
+
+{{C|Rubi? Aquela novela do SBT?|Carla Perez|Ruby}}
+
+{{C|Eu já vi isso antes...|Programador [[Perl]] sobre Ruby}}
+
+{{C|MeUxXx, IeU teNhU kI apRenDêÊ RuBYxX, é A NoUvA mOdiNhAx<nowiki>!</nowiki>|[[Emo Programmer|Programador Java]] sobre Ruby}}
+
+{{C|Se fosse um int,qual o valor da inteligibilidade do codigo?|Programador C++|Ruby}}
+
+{{C|System.OverFlow|[[Visual Basic]] sobre Comentário acima}}
+
+{{C|Lento.|[[C mais mais|C++]] sobre a performance de Ruby}}
+
+{{C|Eu prefiro a cobra.| Programador [[Python]] sobre a aprendizagem de Ruby}}
+
+{{C|Ruby! Meu poderosos Ruby!|Cantora de [[Brega]] sobre o Ruby}}
+
+{{C|Eu só transo com programadores Ruby.|Programadora Ruby sobre como os Rubystas são legais}}
+
+{{C|Ruby ruby ruby ruby soho...|Rancid sobre Ruby}}
+
+{{C|Nunca ouvi falar|Resposta ouvida quando [[você]] diz que trabalha com Ruby}}
+}}
+[[Arquivo:Jpangea.jpg|thumb|300px|Veja o Vídeo da separação da Pangea, ocasionada pela exception em Java. [[Media:Npangea.gif|Clique Aqui]] ]]
+
+'''Ruby''' é uma [[linguagem de programação]] capaz de fazer '''tudo''' de maneira que '''ninguém''' consiga entender. Pudera: Ruby foi criada por deuses [[ninja]]s [[Japão|japas]], para redimir o homem do [[pecado original]], quando [[Eva]] induziu [[Adão]] a programar em [[Java]], ''"a primeira criação do Senhor pela qual toda a existência se fez."'' (Struts 5:25). Como nenhum ser humano fora preparado o suficiente para escrever código Java '''eficiente''', Adão acabou gerando uma Exception que acabou por dividir a crosta terrestre nos cinco continentes que conhecemos atualmente.
+
+Ruby é a remissão dos pecados da [[humanidade]], feita especialmente para afastar o homem de Java, que só pode ser entendida e manipulada eficientemente por Deus e pelos [[Emo Programmer|programadores EMOs]] que a-do-ram a cor do Ruby e aqueles garanchinhos japoneses.
+
+Ruby é a ideia por trás da Torre de Babel: não é à toa que eles falavam línguas diferentes. Todos falavam Rubyst, o dialeto que deu origem a Ruby. O que acontece até hoje é quando 3 programadores Ruby se encontram: nem eles mesmo se entendem, mas concordam que é melhor que Java.
+
+== Origem ==
+
+[[Arquivo:Rubyconnector ruby console.gif|thumb|300px|Linguagem ruby. Para doidos]]
+
+Ruby foi descoberta por [[Silvio Santos]] no [[México]] em 849 a.C., na forma de [[manuscrito]]s [[hebraico]]s que descreviam sua sintaxe. Desde então tem sido usada para os mais diversos fins, bons ou maus, sendo um dos primeiros a criação dos [[Gay|homossexuais]] na [[Grécia]] Antiga em 404 a.C., através de técnicas avançadas de [[polimorfismo]]. 
+
+Pesquisas recentes confirmaram o fato que a sintaxe é idêntica à do [[Lisp]] onde cada parêntese foi substituído por um caracter aleatório extraído da sintaxe do [[Perl]].
+
+Ruby também foi usada para derrubar o [[Império Romano]], através de poucas linhas de script. Na [[Idade Média]] foi utilizada pela [[Igreja Católica]] como instrumento da [[Inquisição]]. Foi base fundamental das Revoluções [[Revolução Francesa|Francesa]] e [[Revolução Industrial|Industrial]]. [[Albert Einstein]] utilizou a linguagem para provar a [[Teoria da Relatividade]] (especificamente, quando introduziu a [[Constante Cosmológica]] em seus cálculos). A aparição mais bombástica de seu poder aterrador nos dias atuais foi no [[11 de Setembro]], quando o programador [[Osama Bin Laden]] criou um script para derrubar as Torres Gêmeas.
+
+== O nome ==
+
+Ruby vem do [[Hebraico]], tendo origem no verbete '''רובל''' (''rub-el'') que significa "Ninguém me entende".
+
+== Exemplo de código Ruby ==
+
+=== Hello World ===
+
+O clássico "Hello, world" em Ruby:
+
+ puts 'hello world'
+
+O mesmo programa em [[Python]] ou [[Perl]]:
+
+ print "Hello, world"
+
+E em [[Java]]:
+
+ class HelloWorldApp {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+ }
+
+em C:
+
+ int main(int argc, char *argv[]) {
+   printf("Hello world\n");
+   return 0;
+ }
+
+em RGSS (descendente do Ruby e usada por programadores de RPG Maker):
+
+ class Hello_World
+  texto = Hello World!
+  print texto.to.s
+ end
+
+=== Vida real ===
+
+O código abaixo foi utilizado em [[11 de Setembro]] para atacar o World Trade Center:
+
+ WTC.each {|tower| AlQaeda::Airplane.new.crash(tower) }
+
+Na verdade, a [[CIA]] e outros serviços de inteligência norte-americanos foram capazes de interceptar o código, mas, como ninguém entendeu o que queria dizer, deixaram passar.
+
+A própria [[Al Qaeda]] precisou de mais tempo e investiu mais recursos no treinamento de seus programadores do que no treinamento dos seus pilotos.
+
+O mesmo código em [[Python]] (que teria frustrado os planos da [[Al Qaeda]], pois o governo americano teria interceptado os ataques) seria:
+
+ map(AlQaeda.Airplane().crash, WTC)
+
+== Curiosidades ==
+* É uma linguagem ensinada por uma [[Quadrinhos|história em quadrinhos]]<ref>http://mislav.uniqpath.com/poignant-guide/</ref>, um dos principais motivos de os [[Emo Programmer]]s adorarem.
+* Ruby frequentemente sofre de crises de identidade e começa a se comportar como se fosse uma pérola (em cantonês, [[perl]]). [[POG|Programadores experientes]] são frequentemente acometidos por surtos de admiração a [[Python]] quando se dão conta disso.
+* É [[Ciência|cientificamente provado]] que aprender [[Língua japonesa|japonês]] torna mais fácil o aprendizado de Ruby. [[Língua chinesa|Chinês]] e [[árabe]] são menos eficientes, mas também funcionam. Em geral, qualquer língua que se escreva de trás para frente e com caracteres não-romanos facilita o aprendizado.
+
+== Aplicações ==
+
+* Ruby foi utilizada por uma empresa [[gringo|gringa]] para programar uma [[Ruby on Rails|plataforma de aplicações]] [[Internet|web]], porque eles acharam que assim ninguém iria entender como a plataforma funcionava e teriam o monópolio de seu uso. Infelizmente, eles esqueceram dos programadores [[Java]], que foram os únicos que tiveram paciência para aprender uma sintaxe completamente nova e pouco inteligível do zero.
+* Outras aplicações de Ruby ainda são atualmente desconhecidas.
+
+== Futuro ==
+
+* Deus está construindo os céus com Ruby, pois se o homem entender, pode avacalhar o negócio, numa nova abordagem de [[paz]], [[amor]] e [[vida]], sem [[pecado]]s, sem os [[bug]]s que Java e todas as outras linguagens de programação têm gerado na história da humanidade. Para todos aqueles que escolherem programar em Ruby e em seu filho [[Ruby on Rails|Rails]], Deus reservará um lugar no Paraíso, segundo o [[rdoc]]. Pois passar a vida sem entender o que você mesmo falou já é castigo suficiente para qualquer pobre pecador.
+* [[Satã]] teve uma crise de riso quando ficou sabendo dessa história.
+
+== Controvérsias ==
+
+* Há rumores que Ruby seja um [[Cavalo de Tróia]] introduzido no reino dos [[Céu|ceús]] por [[Lúcifer]]. Os que acreditam nessa versão se baseiam principalmente no fato de que as argumentações de [[Olavo de Carvalho]] parecem terem sido programadas em Ruby.
+* Uma parte dos [[Emo Programmer|programadores de Ruby]] (principalmente os que vieram de [[Java]] e/ou são [[Ciência da Computação|cientistas da computação]]), após momentos de regozijo com a feiura, ilegibilidade, não-manutenibilidade da sintaxe de Ruby, acabam por achar a linguagem simples demais, e começam a se enfeitiçar pela arte da viadagem, é praticamente o canto do ''sereio''. Após alguns meses de produtividade alta em que o programador conseguiu fazer [[3]] vezes o que conseguiria fazer em Java, ele se vê no momento de dar manutenção, é neste ponto que o cérebro trinca e, em geral, esses programadores acabam migrando para [[Malbolge]] ou [[Brainfuck]].
+
+== Meta-Framework Rails ==
+
+Vendo que [[Descionário:Programar|programar]] folhas de pagamento não traria muitos lucros, um rapaz da raça dinamarquês gastou sua juventude contruindo um ''framework'' (ou arcabolço para os mais pseudo-nerds) chamado [[Ruby on Rails]]. E justamente este faz jus ao nome, pois você fica nos trilhos ao usar ''Rails'' (se sair do trilho acaba usando [[Ruby off Rails]]), mas de qualquer forma poderá fazer programas além de folhas de pagamento que rodem no console e, agora pode escrever aplicações Web (ohhhhhh!). Não se anime muito, pois você poderá fazer menos que usando ''frameworks'' ''J2EE'' e terá menos possibilidade de empregos que ''frameworks'' como ''CakePHP''. Isto é que podemos dizer de uma juventude mal gasta, dinamarquês.
+
+== Ver também ==
+
+* [[Argentina]]
+* [[Java]] (antônimo)
+* [[Perl]], [[Smalltalk]] (sinônimos)
+
+== Referências ==
+
+<references/>
+
+{{Linguagens de Programação}}
+
+
+
+[[Categoria:Informática]]
+[[Categoria:Linguagens de programação]]
+
+[[en:Ruby]]
+[[fr:Ruby]]
+[[ja:Ruby]]
+[[ru:Ruby]]

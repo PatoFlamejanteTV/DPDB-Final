@@ -1,0 +1,71 @@
+{{Imagens}}
+'''Perl''' (e não '''PERL''', nem '''perl''', muito menos '''pééél''', mas talvez '''Camelo''' ou '''Que joça ilegível, quem foi que escreveu essa porcaria ?''') é uma linguagem de programação orientada a ASCII Art, criada por Larry Wall em 1987 para promover o desenvolvimento daquilo que futuramente se chamaria de [[Programação Orientada a Gambiarras]].
+
+==Sintaxe==
+
+Perl foi desenvolvido através de um experimento mal-sucedido de [[alquimia]], que tentava criar uma quimera baseada em [[BASIC]], [[COBOL]], [[russo]] e [[japonês]]; portanto sua sintaxe acabou por herdar os piores recursos de todas as linguagens envolvidas.
+
+Perl apresenta comandos ''if'', ''for'' e ''while'' como o BASIC, mas devido à [[Reversal Russa]] ele são escritos após os comandos. Além disso, como seu bisavô COBOL é orientado ao comércio, Perl herdou o gosto por cifrões ($$$). E o código resultante é quase tão legível quanto japonês.
+
+Por exemplo, em vez de escrever
+
+ while (contador != 0)
+    contador--
+ 
+ if (total > 0)
+    print total
+ 
+
+se escreve
+
+  $foo-- while $foo != 0;  # naum mecha !!!1!!!onze!
+  
+  print $ttl_13 if $ttl_13 > 10; # TODO: arrumar algum dia!!!
+
+
+==Exemplos==
+
+===Hello world!===
+
+<!-- o código funciona de verdade -->
+
+ ' '=~('(?{'.('[[).[|`%,,/`[/[@$'^'+)@@/^(@@@@@,@),@').'!
+ "})')
+
+===99 garrafas de cerveja no muro===
+
+<!-- código de verdade, novamente -->
+
+   ' '=~(        '(?{'        .('`'        |'%')        .('['        ^'-')
+    .('`'        |'!')        .('`'        |',')        .'"'.        '\\$'
+    .'=='        .('['        ^'+')        .('`'        |'/')        .('['
+    ^'+')        .'||'        .(';'        &'=')        .(';'        &'=')
+    .';-'        .'-'.        '\\$'        .'=;'        .('['        ^'(')
+    .('['        ^'.')        .('`'        |'"')        .('!'        ^'+')
+   .'_\\{'      .'(\\$'      .';=('.      '\\$=|'      ."\|".(      '`'^'.'
+  ).(('`')|    '/').').'    .'\\"'.+(    '{'^'[').    ('`'|'"')    .('`'|'/'
+ ).('['^'/')  .('['^'/').  ('`'|',').(  '`'|('%')).  '\\".\\"'.(  '['^('(')).
+ '\\"'.('['^  '#').'!!--'  .'\\$=.\\"'  .('{'^'[').  ('`'|'/').(  '`'|"\&").(
+ '{'^"\[").(  '`'|"\"").(  '`'|"\%").(  '`'|"\%").(  '['^(')')).  '\\").\\"'.
+ ('{'^'[').(  '`'|"\/").(  '`'|"\.").(  '{'^"\[").(  '['^"\/").(  '`'|"\(").(
+ '`'|"\%").(  '{'^"\[").(  '['^"\,").(  '`'|"\!").(  '`'|"\,").(  '`'|(',')).
+ '\\"\\}'.+(  '['^"\+").(  '['^"\)").(  '`'|"\)").(  '`'|"\.").(  '['^('/')).
+ '+_,\\",'.(  '{'^('[')).  ('\\$;!').(  '!'^"\+").(  '{'^"\/").(  '`'|"\!").(
+ '`'|"\+").(  '`'|"\%").(  '{'^"\[").(  '`'|"\/").(  '`'|"\.").(  '`'|"\%").(
+ '{'^"\[").(  '`'|"\$").(  '`'|"\/").(  '['^"\,").(  '`'|('.')).  ','.(('{')^
+ '[').("\["^  '+').("\`"|  '!').("\["^  '(').("\["^  '(').("\{"^  '[').("\`"|
+ ')').("\["^  '/').("\{"^  '[').("\`"|  '!').("\["^  ')').("\`"|  '/').("\["^
+ '.').("\`"|  '.').("\`"|  '$')."\,".(  '!'^('+')).  '\\",_,\\"'  .'!'.("\!"^
+ '+').("\!"^  '+').'\\"'.  ('['^',').(  '`'|"\(").(  '`'|"\)").(  '`'|"\,").(
+ '`'|('%')).  '++\\$="})'  );$:=('.')^  '~';$~='@'|  '(';$^=')'^  '[';$/='`';
+
+Notem a formatação do programa acima; o fato dele representar garrafas de cerveja faz com que o programa rode de forma mais eficiente. Se você não consegue entendê-lo, experimente voltar depois de tomar as 99 garrafas de cerveja.
+
+{{esboço}}
+
+{{Linguagens de Programação}}
+
+
+
+[[en:Perl]]
+[[ru:Perl]]

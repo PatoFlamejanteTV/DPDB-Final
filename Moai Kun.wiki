@@ -1,0 +1,35 @@
+{{game}}
+
+{{Infobox Game
+|title     = Moai Kun
+|image     = MoaiKun.jpg
+|caption   = {{c|The Moai's Rescue!}}
+|developer = [[Konami|Konmai]]
+|publisher = [[Konami|Konmai]]
+|released  = [[1990]]
+|genre     = {{PZL}}
+|rating    = 0%
+|platform  = [[NES|Famiri Konpiruta]]
+|ages      = Livre
+}}
+{{vqd|Jogo dos Moais do Gradius?}}
+{{vqd|Moai do Wai Wai World encolhido?}}
+{{vqd|Moai [[Cu|Ku]]}}
+{{c|Koya!|Fala de todos os Moais}}
+{{c|Koyaya! Koyaya!|Moais pedindo socorro}}
+
+'''Moai Kun''' é o famoso game dos [[moais]] que aparecem em [[Gradius]], joguinhof eito pela [[Konami|Konmai]], conhecido só por masoquistas mesmo.
+
+== Jogabilidade ==
+
+O game é um game <s>que é um game</s> no qual o Moai Kun deve resgatar Moais que pulam desesperados (sendo que todos eles tem as mesmas habilidades do Moai Kun!). Daí, Moai Kun deve resgatar os pobres Moais pulando que nem uns louco para passar de fase, e então, chegar numa porta de ferro (isso aí lembra um [[Flicky|game]]...).
+
+O game possuí o sistema ''tradicional'' de continuação que é o [[Password]], mas você não morrerá tão cedo, já que a cada fase passada você ganha [[1-Up]].
+
+O game deve ter aproximadamente [[Enéas|56]] fases, pois o escritor dessa [[Argentino|mierda]] de artigo só chegou até o Round 19. Outro escritor intrometido chegou e falou que a bagaça desse jogo tem realmente [[Enéas|56]] fases e que as fases do jogo são tão difíceis que ele passou mais de 30 minutos em cada uma das últimas fases, não conseguiu fechar o jogo e pediu arrego pras gameplays do youtube. Depois de suar, pensar, ficar com dor de cabeça de tanto quebrar pedra, ele percebe que o final é só um CONGRATULATION em fonte consolas de cor branca com uma ingrata tela preta (sim, solto spoiler mesmo, doa a quem doer).
+
+{{Gradius}}
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos lançados em 1990]]

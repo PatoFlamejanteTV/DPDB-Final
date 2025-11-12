@@ -1,0 +1,71 @@
+'''Salto triplo''' é uma invenção bizarra do [[atletismo]], porque o [[salto em distância]] era sem graça demais e alguém precisava inventar algo mais divertido de se assistir, então surgiu essa modalidade onde atletas devem dar três pulos feito coelhos reumáticas e vence quem for mais longe, simples assim. Como é a modalidade mais desprezada do atletismo, é a única onde o Brasil tem uma discreta tradição de atletas bem sucedidos.
+
+== História ==
+
+[[Arquivo:Phillips Idowu triple jump.jpg|thumb|230px|Voo de um atleta durante um salto triplo. A coordenação motora para dar esse pulo estranho é essencial.]]
+
+Em algum momento um gênio percebeu que o [[salto em distância]] era sem graça demais, então alguém inventou que os atletas deveriam, antes de saltar, dar três reboladas, e assim surgia a modalidade bizarra.
+
+Na Grécia Antiga, onde os pederastas não tinham o que fazer da vida, havia marcas de saltos de até 18 metros de distância, o que levou todos a deduzirem que isso só poderia ter sido alcançado com três saltos, quando na verdade eram apenas juízes corruptos roubando para alguém. Afinal ao contrário do [[salto em distância]] que pelo menos tinha a utilidade de treinar soldados, o salto triplo não tem utilidade prática para ninguém e para momento algum.
+
+A modalidade foi então incluída nos jogos da Era Moderna nas Olimpíadas de 1986, na época a ideia era que o salto triplo fosse o mais bizarro possível, para tentar atrair um público curioso, portanto os dois primeiros pulos eram dados na mesma perna. Posteriormente isso foi modificado e os pulos poderiam ser feitos em pernas alternadas contanto que o atleta rebolasse muito na passagem de uma perna para outra. Como o limite para bizarrices não era claro, havia ainda a modalidade do salto triplo sem corrida feito a partir da inércia, mas essa modalidade foi depois removida.
+
+As mulheres só começaram a participar da competição apenas em 1996, embora as primeiras colocadas e recordistas ficarem em último caso competissem contra homens.
+
+== Regras ==
+
+[[Arquivo:Triple jump photogenic girl.jpg|thumb|230px|Um pouso bem sucedido (e apaixonante).]]
+
+O nome da modalidade é salto triplo, então as regras são bem simples, todos devem pular três vezes o mais longe possível. Para não deixar as coisas tão simples assim, há uma regra que diz que os três saltos devem ser executados da maneira mais descoordenada possível, por isso todos saltadores parecem estar com areia dentro de seus calções coçando no cu, pois rebolam muito na passagem de uma perna a outra.
+
+Os atletas devem fazer o pouso mais agressivo possível, pois quanto mais atochado o shortinho deles ficar ao ralar a bunda na areia, mais pontos ganham, por isso é tão comum vermos os saltadores sempre saírem desatochando o shortinho após executarem o salto.
+
+É proibido correr por fora da pista, queimar o salto, bater nos juízes ou usar roupas que não estejam enfiadas no cu.
+
+== Recordistas ==
+
+=== Homens ===
+{| width=60%
+|- bgcolor="lightsteelblue"
+!align="center" style="width: 6em"|Distância
+!align="center" style="width: 6em"|Vento (m/s)
+!align="center" style="width: 18em"|Atleta
+!align="center" style="width: 8em"|País
+|- bgcolor="efefef"
+| <center>18.29 m</center> ||<center>1.3</center>||<center>[[Jonathan Edwards]]</center>||{{ING}}
+|- bgcolor="efefef"
+| <center>18.21 m</center>||<center>0.2</center>||<center>[[Christian Taylor]]</center>||{{EUA}}
+|- bgcolor="efefef"
+| <center>18.09 m</center>||<center>−0.4</center>||<center>[[Kenny Harrison]]</center>||{{EUA}}
+|- bgcolor="efefef"
+| <center>18.08 m</center>||<center>0.0</center>||<center>[[Pedro Pablo Pichardo]]</center>||{{CUB}}
+|- bgcolor="efefef"
+| <center>18.04 m</center>||<center>0.3</center>||<center>[[Teddy Tamgho]]</center> ||{{FRA}}
+|- bgcolor="efefef"
+| <center>17.97 m</center>||<center>0.3</center>||<center>[[Willie Banks]]</center> ||{{EUA}}
+|}
+
+=== Mulheres ===
+{| width=60%
+|- bgcolor="lightsteelblue"
+!align="center" style="width: 6em"|Distância
+!align="center" style="width: 6em"|Vento (m/s)
+!align="center" style="width: 18em"|Atleta
+!align="center" style="width: 8em"|País
+|- bgcolor="efefef"
+| <center>15.50 m</center> ||<center>0.9</center>||<center>[[Inessa Kravets]]</center>||{{UCR}}
+|- bgcolor="efefef"
+| <center>15.39 m</center> ||<center>0.5</center>||<center>[[Françoise Mbango Etone]]</center>||{{CAM}}
+|- bgcolor="efefef"
+| <center>15.36 m</center> ||<center>indoor</center>||<center>[[Tatyana Lebedeva]]</center>||{{RUS}}
+|- bgcolor="efefef"
+| <center>15.32 m</center> ||<center>0.9</center>||<center>[[Hrysopiyi Devetzi]]</center>||{{GRE}}
+|- bgcolor="efefef"
+| <center>15.31 m</center> ||<center>0.0</center>||<center>[[Catherine Ibargüen]]</center>||{{COL}}
+|- bgcolor="efefef"
+| <center>15.29 m</center> ||<center>0.3</center>||<center>[[Yamilé Aldama]]</center>||{{CUB}}
+|}
+
+{{Esportes}}
+
+[[Categoria:Provas do atletismo]]

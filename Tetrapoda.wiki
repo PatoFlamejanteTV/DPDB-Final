@@ -1,0 +1,30 @@
+{{taxocaixa
+| nome           = Quadrúpedes
+| cor            = black
+| imagem         = Tribo1.jpg
+| imagem_legenda = O [[ser humano]] também é um tetrápode.
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Tetrapoda|Quadrúpedes]]
+}}
+
+{{Vqd|[[Jumento|Quadrúpede]]}}
+
+<s>'''Quadrúpedes'''</s> '''Tetrápodes''' é <s>um [[super-herói]]</s> a [[superclasse]] dos animais dominantes do [[Planeta Superpopuloso do Sistema Solar]] que engloba todos os [[vertebrado|animais com coluna vertebral]] que evoluíram à partir do [[Ichthyostega|Ichthyostega, o primeiro vertebrado terrestre]]. Nessa superclasse se encontram todos os [[anfíbio]]s, [[Réptil|répiteis]], [[ave]]s e [[mamífero]]s, ou seja, toda a sua família de animais pertence à essa superclasse.   
+
+== Se você está lendo isso é porque você é um Tetrápode ==
+O primeiro ancestral dos Tetrápodes saiu do mar no período [[permiano]] há cerca de [[420|200]] milhões de anos em direção ao [[passado]]. Tetrápode é todo [[animal]] que é descendente dos [[Sarcopterygii]] (que foi a última classe de [[peixe]]s da nossa acestralidade). Os Sarcopterygianos <s>digievoluiram</s> evoluiram para [[Ichthyostega]] que foi o nosso primeiro ancestral terrestre e deles surgiram desde os [[anfíbios]] até os [[mamíferos]], ou seja, [[você]], o [[cachorro|cachorro do seu pai]], a [[vaca|a vaca da sua vó]], a [[sua irmã|cadela da sua irmã]], [[galinha|da sua prima]] e até mesmo a [[cobra|cobra da sua tia]](que não tem membros pois sofreu um processo de <s>brochamento de membros</s> regressão de membros e também o [[sapo|sapão do seu amigo]] somos todos '''Tetrápodes'''.  
+
+== Os seres Humanos ==
+Note-se ainda que embora os seres humanos possam em teoria caminhar com  as quatro patas no chão eles não são [[quadrúpedes]], todo ser humano (até mesmo o [[Homem Torso]]) é um Tetrápode, isso mesmo, você é um tetrápode, [[biscate|a biscate que você copula]] também é uma tetrápode e qualquer outro [[jacú]] da [[sua família]] também é um tetrápode.  
+
+== Classes ==
+
+* '''[[Amphibia]]''' - anfíbios
+* '''[[Sauropsida]]''' - dinossauros
+* '''[[Reptilia]]''' - reptilianos
+* '''[[Aves]]''' - aviários
+* '''[[Mammalia]]''' - mamadores
+
+[[Categoria:Chordata]]
+[[Categoria:Tetrapoda|*]]

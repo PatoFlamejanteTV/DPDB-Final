@@ -1,0 +1,174 @@
+{{ver desambiguação|C|C}}
+
+{{microsoft}}
+{{DISPLAYTITLE:<s>Cu</s> C#}}
+[[Arquivo:Hacker mao.jpg|thumb|C# se autoprogramando.]]
+{{Compactar|
+{{Você quis dizer|Dó [[Acidentes musicais#Sustenido|sustenido]]?|C#}}
+{{Você quis dizer|Ré [[Acidentes musicais#Bemol|bemol]]?|C#}}
+{{c|C [[hashtag]]?|[[Twitteiro]], sobre C#.}}
+{{c|Até meu cachorro consegue programar em C#!|Programador Java, sobre C#.}}
+{{c|Ta com medinho de trabalhar com ponteiro de memória, senhor 01?|Capitão Nascimento|Programador C# que não programa em C++}} 
+{{c|Melhor que o JAVA|Bill Gates|C#}}
+{{c|PHP é melhor pois possui "desorientação a objeto", seja lá o que for isso!|Programador PHP|C#}}
+{{c|C# é pré-escola perto de Java|Programador Java|C#}}
+{{c|É pré-escola mesmo! Não precisamos declarar se o botão está invisível e nem se ele é 0x0 pixels!|Programador C#|Java}}
+{{c|Camada CLR e .Net Framework? Hahahaha!|Programador Java|C#}}
+{{c|Prompt do DOS toda vez que abre o programa? E ainda por cima tem que ficar compilando direto? Hahahaha!|Programador C#|Java}}
+{{c|Claro, é o sistema operacional mais utilizado. Pelo menos no C# você não precisa ficar configurando milhares de frameworks com os seus milhares de XML para rodar um serviço. O .Net é só instalar usando o install.exe. Hahahaha!|Programador C#|Java}}
+{{c|Ponteiro pra quê? Isso é coisa de [[POG]]!!!|Programador C#|Java}}
+{{c|Java não usa ponteiro. Só mesmo dum ignorante!|Programador Java em resposta ao programador C#}}
+{{c|Ponteiro? O que é isso?|Programador estagiário se intrometendo na briga entre o Programador Java e o Programador C#}}
+{{c|Ponteiro é aquela coisinha que se movimenta no relógio!|[[Carla Perez]] respondendo a dúvida do estagiário}}
+{{c|Para que fazer em três camadas se eu posso fazer em uma?|Programador C# limpando a baba no canto da boca durante uma palestra de POG.}}
+{{c|C# é o Java que deu certo.|Verdade|C#}}
+{{c|Logo, o Java é o C# que deu errado.|Lógica|[[Java]]}}
+}}
+
+'''C#''' ('''Dó Sustenido''', também conhecido como '''Ré Bemol''', '''C Jogo da velha''' ou em inglês '''C Sharp''') é uma linguagem de programação muito tosca criada pela [[Microsoft]] com alternativa ao C++ que é amigável e ao [[Java]] que é fácil, o que nos meios computacionais, significa algo menos valioso.
+
+== Origem ==
+
+[[Arquivo:Relogio do tarado.jpg|thumb|right|200px|Capa do DVD, C++ e seus ponteiros.]]
+Fontes não oficiais afirmam que essa <s>porcaria</s> [[Linguagem de programação|Linguagem de Programação]] foi criada pela [[Calipso|Banda Calipso]], mas existe uma versão <s>mentirosa</s> <s>true</s> <s>false</s> alternativa onde um cantor de [[forró]] chamado ''[[C++|C mais mais e seus ponteiros]]'' após encher o caneco teria abaixado a calça e apontado o ponteiro para onde não devia, daí foi pra cadeia, onde junto com [[Bill Gates]] deu início ao grupo <s>Cópia mal-feita do Java</s> C#, cantando uma mistura de [[hip-hop|RAP]] com [[forró]] .
+[[Arquivo:Bolo3camadas.jpg|thumb|right|200px|Programando em 3 camadas: DAL, BLL e Apresentação]]
+
+== Características ==
+
+Visual C# permite a programação através de uma interface visual: o usuário desenha o código sobre uma partitura musical em dó sustenido.
+
+Para um bom programador, é dever de toda a equipe programar em 3 camadas: DAL, BLL e Apresentação. Como se fosse um bolo. Na camada DAL, quem manda é o DBA, ali ninguém pode acessar, senão o bicho pega! Na camada BLL é onde os programadores acessam a camada DAL (Base de dados) para recuperar os dados e trabalharem com os mesmos. Depois entra a camada de apresentação, onde os desenvolvedores de interface formatam os dados e objetos deixando-os visívelmente amigáveis e legíveis. Não é necessário ser um programador para trabalhar na camada de apresentação, basta ter o mínimo de conhecimento de programação.
+
+Enfim, os programadores "que são músicos" preferem a linguagem C# (Dó sustenido).
+
+
+== Exemplos ==
+
+Veja um exemplo de C#:
+
+<code>
+   public partial class MyClass
+   {
+    public MyClass()
+    {
+        // implementation
+    }
+   }
+      public partial class MyClass
+   {
+       public SomeMethod()
+       {
+           // implementation
+       }
+   }
+      // Method that takes an iterable input (possibly and returns all even numbers.
+      public static IEnumerable<int> GetEven(IEnumerable<int> numbers)
+   {
+    foreach (int i in numbers)
+    {
+        if (i % 2 == 0) yield return i;
+    }
+   }
+   public void Foo(object parameter) {
+    // ...
+ 
+    ThreadPool.QueueUserWorkItem(delegate
+    {
+        // anonymous delegates have full access to local variables of the enclosing method
+        if (parameter == ...)
+        { 
+            // ... 
+        }
+ 
+        // ...
+    });
+   }
+   string status = string.Empty;
+ 
+      public string Status
+      {
+    get { return status; }             // anyone can get value of   this property,
+    protected set { status = value; }  // but only derived classes can change it
+   }
+   int? i = null;
+   object o = i;
+   if (o == null)
+    Console.WriteLine("Correct behaviour - you have a runtime version from September 2005 or later");
+   else
+    Console.WriteLine("Incorrect behaviour - you are running a pre-release runtime (from before September 2005)");
+   object nullObj = null; 
+   object obj = new Object(); 
+   return nullObj ?? obj; // returns obj
+   int? i = null;
+   int j = i ?? 0; // Unless i is null, initialize j to i. Else (if i is null), initialize j to 0.
+   public static class IntExtensions
+   {
+    public static void PrintPlusOne(this int x) { Console.WriteLine(x + 1); }
+  }
+ 
+   int foo = 0;
+   foo.PrintPlusOne();
+   public class Foo
+   {
+    /// <summary>A summary of the method.</summary>
+    /// <param name="firstParam">A description of the parameter.</param>
+    /// <remarks>Remarks about the method.</remarks>
+    public static void Bar(int firstParam) {}
+   }
+   class ExampleClass
+   {
+    static void Main()
+    {
+        System.Console.WriteLine("Olá, Mundo!");
+    }
+   }
+
+</code>
+
+
+Exemplo de Hello word em [[BASIC]]:
+
+<code>
+100 Print "Olá Mundo!"
+</code>
+
+Exemplo de Hello word em c#:
+<code>
+  using System;
+  namespace ExampleNamespace
+  {
+      public class ExampleClass
+      {
+          public static void Main(string[] args)
+          {
+              Console.WriteLine("Olá, Mundo!");
+              Console.ReadKey();
+          }
+      }
+  }
+</code>
+
+== Casos de sucesso utilizando C# ==
+<ul>
+   <li>Microsoft Office 2007 (nem tão sucesso mas ok...)</li>
+   <li>[[Orkut]] abandonou o C# porque só dava "Bad, bad server"</li>
+   <li> [[Windows Vista]] daí ser um fiasco</li>
+   <li>Algumas músicas dos Beatles...</li>
+</ul>
+
+== Ver também ==
+
+*[[Microsoft]]
+
+
+{{Linguagens de Programação}}
+
+[[bar:C-Sharp]]
+[[cs:C sharp]]
+[[en:C Sharp]]
+[[es:C-Sharp]]
+[[he:C Sharp]]
+[[ja:C＃]]
+[[ko:C井]]
+[[pl:C Sharp]]
+[[zh-tw:C＃]]

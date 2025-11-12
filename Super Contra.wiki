@@ -1,0 +1,68 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Super Contra
+|image     = Super_contra.jpg
+|caption   = "[[Sylvester Stallone|Lance Bean]] & [[Arnold Schwarzenegger|Bill Rizer]]"
+|developer = [[Konami]]
+|publisher = [[Konami]]
+|released  = 1988
+|genre     = Shoot'em Up, [[Plataforma]]
+|rating    = 10%
+|platform  = [[Arcade]], [[NES]], [[DOS|PC MS-DOS]], [[MSX]], [[Xbox 360]]
+|ages      = Só pra macho.
+}}
+
+{{C|Contra 2 |[[Capitão Óbvio]]|Super Contra}}
+{{C|Vocês não tem chance de sobreviver.|[[Cats]]|[[Você]]}}
+{{C|Neste jogo eu sou o protagonista, se fudeu [[Risada Diabólica|Muhahuaha]].|[[Sylvester Stallone|Lance Bean]]|[[Arnold Schwarzenegger|Bill Rizer]]}}
+{{C|Why? |[[Arnold Schwarzenegger|Bill Rizer]]|[[frase acima]]}}
+{{C|↑ ↑ ↓ ↓ ← → ← → B A|[[Você]] tentando inutilmente trapacear no jogo}}
+
+'''Super Contra''' é o [[Contra]] mais difícil da série, se você não é [[Eu|bom no jogo]], nem tente jogar. A [[Konami]] viu que a bagaça fez sucesso, então resolveu fazer uma continuação.
+
+== História ==
+[[Arquivo:Lance_Stallone.jpg|left|thumb|200px| Qualquer semelhança é mera coincidência.]]
+O jogo se passa em [[2012|Dezembro de 2634 D.C]], um ano após a bagunça feita pelo [[meteoro]] no [[Acre]]. O [[chefe|General Hal]], reportou que o 7º exército militar GX está revoltado, e está causando grandes problemas para a [[Acre|região]]. Então novamente são chamados os heróis [[Sylvester Stallone|Lance Bean]] & [[Arnold Schwarzenegger|Bill Rizer]], e desta vez [[Sylvester Stallone|Lance Bean]] é o principal, já que o seu [[Rambo 2|filme]] estava prestes a ser lançado no cinema.
+
+Ao chegarem no local, [[Sylvester Stallone|Lance Bean]] & [[Arnold Schwarzenegger|Bill Rizer]] se depararam com um exército [[maconha|diferente]], pois os membros do GX, estavam com a cor [[azul]] e comportamento [[ofensivo|agressivo]]. Após matarem alguns camaradas, [[Sylvester Stallone|Lance Bean]] & [[Arnold Schwarzenegger|Bill Rizer]] percebem que o exército estava contaminado com o sangue Acre Alienígena, o que na verdade causou a mutação nos soldados do exército. Sem nenhuma outra opção, [[Sylvester Stallone|Lance Bean]] & [[Arnold Schwarzenegger|Bill Rizer]] resolvem meter bala nas aberrações.
+Após matarem todos, eles perceberam que aqueles não eram os únicos inimigos, existia outra raça superior, liderada pelo [[chefão|Black Viper]], esta raça era a fusão dos Alienígenas Acreanos com [[Maia]]s, assim formando os Super [[Alien]]s que tinham um objetivo único e inédito, destruir a terra.
+
+== Visual & Design ==
+[[Arquivo:super_c.jpg|left|thumb|180px| Único lugar seguro do jogo.]] 
+
+Os gráficos continuam toscos pois ainda são de NES, mesmo a versão de arcade é tosca, mas como visual não importa para jogadores [[Machos]], o interessante é a pancadaria e violência. Para provar a criatividade do pessoal da Konami, os cenários foram [[plágio|baseados]] nos filmes, [[Rambo|Rambo 2]] e [[Arnold Schwarzenegger|Comando para Matar]]. Já que eles copiam os [[ator]]es, porque não copiar os filmes também?
+Como a Konami é uma empresa respeitável, ela resolveu deixar o jogo mais difícil, acabando com as fases toscas em 3D substituindo por umas fases com visão de topo. E como estas fases não ficaram tão toscas, a dificuldade não foi reduzida, você vai morrer muito nelas. Como nada se cria e tudo se copia, fases com visão de topo foram [[plágio|plageadas]] do jogo Ikari Warriors da SNK, então deve ser por isso que a SNK resolveu copiar a série Contra, colar e depois renomear como [[Metal Slug]].
+
+== Comandos do jogo ==
+
+Comandos:
+
+ B = Atira
+ A = Pulo/Megashell(A 2x)
+
+
+
+O jogo possui 4 armas, continua com o esquema de Upgrade na mesma arma e agora até aparece o ícone da arma atual no canto da tela, antes eram as letras toscas.
+
+Bomb launcher = Como o próprio nome induz, é a arma mais apelona do jogo, lenta mas poderosa.
+
+Laser rifle = O Laser básico de sempre, vara todo mundo enfileirado, mas é ruim para inimigos espalhados.
+
+Machine Gun = Metralhadora comum, ótimo para noob que anda com o botão de tiro pressionado.
+
+Spread Gun = Mais noob que a metralhadora, atira espalhado e pega em grande parte da tela, se você não tem [[mongol|coordenação]], só use esta arma.
+
+== Diferenças nos lançamentos ==
+
+[[Arquivo:Redfalcon.gif|right|thumb|180px|Esta é a aberração mutante Alienígena Acreana, [[Chefão|Black Viper]], ele vai comer o seu [[cu]].]]
+Como era de se esperar, as verões do jogo Orientais e Ocidentais continuam sendo diferentes. A [[censura|violência]] continua na cola da Konami por causa dos filmes que foram plagiados, então a mesma merda de substituir humanos por robôs continua. Afinal todo ocidental é burro comparado aos [[Japonês|asiáticos]], e todos saem matando nas ruas com metralhadoras pulando em fios e soltando bombas.
+
+{{Contra}}
+
+[[Categoria:Jogos lançados em 1988]]
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de tiro em terceira pessoa]]

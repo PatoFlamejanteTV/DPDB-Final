@@ -1,0 +1,42 @@
+{{Game}}
+{{Título em itálico}}
+{{Infobox Game
+|title     = Alone in the Dark 3: Agora com Faroeste e Radioatividade
+|image     = Alone in the Dark 3 cover.png
+|caption   = Capa do jogo
+|developer = [[Infogrames|Fuckgames]]
+|publisher = [[Infogrames|Fuckgames]]
+|released  = 1994
+|genre     = Lidar com monstros de papelão
+|platform  = [[PC|PC velho]]
+|rating    = 1/10
+|ages      = Livre (temas leves)
+}}
+
+'''''Alone in the Dark 3''''' foi a última tentativa da série ''[[Alone in the Dark]]'' sob comando da [[Infogrames|Fuckgames]] em criar um simulador de combate a monstros de papelão, lançado em 1994 quando esse tipo de temática estava saindo de moda devido a existência de jogos com gráficos infinitamente mais decentes. O jogo se passa numa cidade imensa do velho oeste composta por duas ruas cheias de cowboys filhos da puta imortais que vivem bloqueando seu caminho, e como costume, qualquer merda que for feita é game over, além de possuir um intenso realismo onde manequins anões atiram com buquês e violinos.
+
+== Jogabilidade ==
+
+Alone in the Dark 3 mantém o estilo visto nos dois primeiros jogos da franquia, ainda sendo um jogo no qual você controla um tiozinho que está sofrendo de degeneração muscular devido a uma esclerose amiotrófica e por isso deve praticamente se arrastar pelos cenários do jogo sem qualquer demonstração de agilidade, na maior lerdeza do mundo, coletando itens completamente aleatórios como uma caixa de fósforos, uma maraca, uma pérola, um pacote de carne seca e várias outras tranqueiras sem a menor dica do que fazer com esses bagulhos todos, tudo enquanto um par de cowboys fantasmas te perseguem sem parar e outros cowboys fantasmas fecham certos caminhos onde te matam com 1 hit 1 kill. Ou seja, muito antes de [[Flappy Bird]] já existia um jogo cujo único objetivo era fazer o jogador passar raiva e sentir ódio.
+
+== Enredo ==
+
+[[Arquivo:Alone in the Dark 3 gameplay.jpg|thumb|left|240px|Edward Carnby caminhando para mais um Game Over.]]
+
+Acompanhamos a história do incansável Edward Carnby que, após solucionar dois mistérios paranormais, decidiu largar esse emprego de investigador sobrenatural para se tornar um dançarino de sapateado, o que explica o calçado que ele usa no jogo inteiro e como cada passo que ela dá provoca um som de pisão que dá pra ouvir há 50 metros de distância. Os problemas paranormais, porém, não deixam Edward em paz, pois quando ele foi fazer sua apresentação de sapateado de estreia numa cidade fantasma abandonada no meio do deserto do Mojave ele logo descobre que criaturas do além comandavam o local.
+
+Na medida que as investigações avançam, Edward descobre que tudo é culpa de um fantasma chamado Jed Stone que bebeu muita radioatividade e agora se vestiu numa armadura de papelão 25 anos antes de qualquer [[Nintendo Labo]] cogitar esse tipo de coisa
+
+== Personagens ==
+
+* '''Edward Carnby''' - Aparentando mais joviais 43 anos de idade, não conseguiu se aposentar da vida de investigador sobrenatural e enquanto uma equipe inteira de filmagem sumiu no meio do deserto, nada de chamar a Polícia Federal, FBI ou CIA, Edward parte sozinho pra solucionar o mistério.
+* '''Jed Stone''' - Filho mal criado, vivia fazendo atrocidades desde pequeno, como queimar teatros, etc. É o principal inimigo do jogo. Além de beber com o xerife, gosta também de trepar com seus companheiros, além de ser muito viciado em dinheiro.
+* '''"John e Duke" Elwood''' - Irmãos imortais, servem para atrapalhar você durante o jogo todo, são só dois filhos da puta mesmo, nunca é explicado o motivo da implicância deles com você, era só pra sacanear mesmo.
+* '''Lone miner''' - Outro fantasma filho da puta, este é tão mercenário que só morre se tomar um tiro de bala de ouro.
+
+{{Alone in the Dark}}
+
+[[Categoria:Jogos lançados em 1994]]
+[[Categoria:Jogos da Infogrames]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de survival horror]]

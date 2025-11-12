@@ -1,0 +1,65 @@
+{{Game}}
+{{Título em itálico}}
+{{Infobox Game
+|title     = Alone in the Dark: Aquele primeirinho bem tosco
+|image     = Alone in the Dark 1992 cover.png
+|caption   = Capa do jogo
+|developer = [[Infogrames|Fuckgames]]
+|publisher = [[Infogrames|Fuckgames]]
+|released  = 1992
+|genre     = Lidar com monstros de papelão
+|platform  = [[PC|PC velho]]
+|rating    = 1/10
+|ages      = Livre (temas leves)
+}}
+
+'''''Alone in the Dark''''' (em português ''Masturbação no Escuro'') é um jogo de [[computador]] antigo tão mal feito e com gráficos tão toscos que parece que foi lançado no começo do universo minutos após o Big Bang, porque em 1992 a tecnologia não era tão limitada assim. Os cientistas teorizam que após a [[singularidade]] do [[Big Bang]], surgiram as cordas, as [[partículas elementares]], as [[partículas compostas]], o famoso relógio londrino, [[Dercy Gonçalves]], e logo em seguida um [[Floppy Disk]] com a primeira cópia de Alone in the Dark, porque só isso justifica os gráficos tão feios.
+
+O que mais marcou este jogo foi a expressão facial do personagem principal, um tiozinho enfesado que um olhar que lembra algo como "eu vejo gente morta" ou "vi minha vó se masturbando".
+
+== Desenvolvimento ==
+
+[[Arquivo:Alone in the Dark 1992.jpg|thumb|left|Apesar dessa aparência, a intenção não era um jogo de comédia.]]
+
+Alone in the Dark foi criado pela Infogrames em 1992 para ser o primeiro jogo da história em 3D que colocasse medo nos jogadores, algo que conseguiu com sucesso, pois a tosqueira desse jogo era tão alta que qualquer um passava mal jogando esse negócio. Com gráficos que rodavam a -60 frames por segundo, conquistou muitos fãs, na maioria posers que não tinham dinheiro pra comprar consoles.
+
+[[Frédérick Raynal]] foi o idealizador do jogo e sua ideia era lançar o jogo com o melhor visual já visto em todos os games 3D do planeta, com 364 quadrilhões de polígonos processados em tempo real numa resolução de 5510 X 3650 com 450 bits de cores, ray tracing e tecnologia de quinquilinear filtring. Infelizmente ele não conseguiu o orçamento necessário da Infogrames e recebeu apenas um PC 166 com Paint instalado, que foi da onde ele precisou fazer o jogo
+
+Alone in the Dark foi então lançado em 1992 exibindo gráficos indecentes... As pessoas naquele século tinham certos tipos de problemas ao jogar Aline in the Dark, como confundir seu personagem com um animal qualquer perambulando pelo cenário (isso era horrível, pois se realmente tivesse um animal no cenário, era mais fácil ficar brincando de secretária bancária no prompt de comando do DOS do que tentar achar seu personagem...) devido à extrema distorção nos gráficos. Para contornar essa dificuldade, o jogo foi desenhado com cores vibrantes e que causaram epilepsia em muitas crianças da época, tornando o nome "Dark" do título apenas uma divertida ironia.
+
+=== Pré-requisitos mínimos ===
+* Estar sozinho no escuro
+* Processador Intal com no mínimo 8 núcleos (socketes 5666)
+* 69 Gb de memória [[ram]] DDR21123
+* 5 GB no HD (para carregar os sons) e 500 GB para texturas
+* GayForce 129000008000700000 GTXOPQPFDP
+* [[Monitor]] modelo LED TV com suporte a realidade aumentada
+* [[DirectX|DirectY]] 22.24
+* Lanterna, óleo para lanterna e caixa de fósforos.
+* Winchester com balas
+* Amuleto indiano
+* Vários frascos com bebida curativa
+* Paciência, pois qualquer merda feita no jogo, você terá que recomeçar.
+
+== Jogabilidade  ==
+
+Em Alone in the Dark o jogador controla um personagem de aparentes 68 anos de idade e deve perambular por corredores extremamente claros e nada escuros de uma mansão mal assombrada repleta de zumbis de gente que morreu por artrose e por isso se movem como se não tivessem coluna vertebral, além de precisar lidar com uma espécie de galinha assada gigante que parece que saiu de [[Bubsy 3D]], isso sem contar os vários banheiros e bibliotecas repletos de peidos fantasmagóricos hostis.
+
+== Enredo ==
+
+Edward Carnby é um tiozinho barrigudo e porradeiro que foi contratado pra achar um piano numa mansão mal assombrada. Ele aceita o trabalho com a condição de que acendessem as luzes de toda a casa, porque ele não gostava de escuro. Chegando na mansão, Edward se impressiona com o enorme mal gosto do antigo morador do local, um cara chamado Jeremy Hartwood, e começa a entender porque Jeremy se suicidou. Eventualmente Edward descobre que aquela mansão foi construída em cima de um antigo cemitério pirata amaldiçoado, uma maldição que transforma todo e qualquer pedaço de papelão numa criatura senciente com sede de sangue.
+
+== Personagens ==
+
+* '''Edward Carnby''' - Protagonista da história e personagem controlável, ele não sabe correr decentemente e cansa de tal maneira que parece que carrega o Jô Soares nas costas, o que obriga o jogador a ter uma paciência do caralho para esperar o desgraçado descansar para continuar a correr de zumbis que fortuitamente sofrem de artrose e são tão lentos quanto Edward.
+* '''Emily hartwood''' - Teoricamente era para ser uma gostosa, mas essa loira pixelada com peitos triagulares extra grandes é apenas o que se considera de "baranga esquisita". É ela a responsável por contratar Edward Carnby para investigar a tal mansão, mas se ela própria eventualmente sai vagando sozinha pela casa matando zumbis, pra que diabos ela contratou aquele tiozinho?
+* '''Ezechiel Pregzt''' - Um pirata que vive na mansão Derceto. Além da escrotisse de ser um pirata bêbado que desvia de tiros, ele também é uma árvore que solta bolas de fogo.
+
+{{Alone in the Dark}}
+
+[[Categoria:Jogos lançados em 1992]]
+[[Categoria:Jogos da Infogrames]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de survival horror]]
+
+[[en:Alone in the Dark]]

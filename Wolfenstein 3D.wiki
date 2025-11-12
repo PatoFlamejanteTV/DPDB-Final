@@ -1,0 +1,54 @@
+{{game}}
+
+{{Infobox Game 
+|title     = Doom vs Nazi
+|image     = Wolfenstein 3D cover.png
+|caption   = Capa do jogo
+|developer = [[id Software|empresa do Doom]]
+|publisher = [[Apogee Software]]
+|released  = 1992
+|genre     = Simulador de matar nazista
+|platform  = [[DOS]]
+|rating    = 10/10
+|ages      = Livre
+}}
+
+'''Wolfenstein 3D''' é um jogo antigo de [[DOS]] que consiste em matar nazistas em um castelo. Em 2000 foi feito um remake chamado [[Return to Castle Wolfenstein]], muito odiado porque Hitler não apareceu. A [[Nintendo]] até tentou fazer uma conversão para o seu [[SNES]], mas por ser um console para crianças eles decidiram <s>arruinar o jogo</s> remover qualquer referência ao nazismo, incluindo tirar o sangue, substituir cachorros por ratos gigantes superdesenvolvidos, e tirar o bigode de Hitler e chamá-lo de "Staatsmeister". Que merda.
+
+== Desenvolvimento ==
+
+O jogo foi criado por volta de 1935 pela própria [[Alemanha Nazista]] para treinar seus soldados em combate com mais eficiência. Claro que o jogo não parecia como o conhecemos hoje, os inimigos eram russos, o último chefão era Josef Stalin e o jogador usava as super armas secretas dos nazistas. [[Joseph Goebbels]] estava com tudo pronto para o lançamento do jogo, mas infelizmente os russos chegassem em [[Berlim]], derrotaram os nazistas, e cancelaram o lançamento do jogo.
+
+Várias décadas depois, em 1992, [[John Carmack]] estava visitando o [[Castle Wolfenstein|die Burg von Wolfenstein]] e encontrou naquele castelo o código-fonte do jogo gravado em uma pedra, pegou-o com cautela e voltou para os [[Estados Unidos]], pediu dinheiro emprestado de sua mãe e fundou a [[id Software]]. Carmack precisou fazer apenas algumas modificações no jogo original (substituir russos por nazistas). Depois apenas contratou um casal de moradores de rua para fazer os sons e os gráficos. Finalizado, Carmack decidiu comercializar o jogo como "Wolfenstein 3D".
+
+== Jogabilidade ==
+
+Após escapar de sua cela de prisão, o jogador está armado apenas com uma faca e 56% de saúde. Mas após esfaquear o primeiro guarda, o jogador rouba sua pistola e assim começamos a jogar esse "Doom com nazistas" que claramente não é 3D, todo mundo é feito de papelão (título enganoso). Para prevenir um motim, cada guarda nazista está munido com apenas 4 balas que o jogador pode roubar ao matá-los. O jogador pode restaurar a saúde pisando nos jantares de peru espalhados pelo castelo.
+
+Além dos guardas básicos, o jogo contém muitos tipos diferentes de inimigos. Existem alguns guardas vestidos de azul que têm o dobro da altura e do peso de um guarda normal. Esses guardas tiveram seus cérebros removidos e substituídos por pedras (como todo nazista) para evitar que se rebelassem, e ao ver BJ eles dizem "HOO HOO HA HA HA HA" e começam a atirar com suas metralhadoras no jogador. Mais tarde é possível obter a [[Chaingun]]. Infelizmente, o desenvolvedor não desejou que essa arma fosse divertida para o jogador que não pode carregar munição o suficiente de uma arma que dispara 400 balas por segundo.
+
+O jogador também é atacado por cães que devem ser imediatamente alvejados. Ironicamente, o jogo recebeu mais críticas pela matança de cães do que pelo sangue humano. O jogador mais decente nunca atira nos cachorros, mas em vez disso atira acima deles, o que faz com que os cachorros se assustem e façam um barulho de peido antes de dormir no chão. Com os cães desativados, o jogador tem a opção de comer as fezes do cão para um bônus de saúde.
+
+== Enredo ==
+
+O superagente americano William "B.J." (BlowJob) Blazkowicz foi sequestrado pelos nazistas para fins de experimentação científica. Ele estava no bar local bebendo algumas cervejas com o amigo de longa data [[Duke Nukem]], quando de repente ele foi atingido por um dardo envenenado de um nazista que estava escondido sob o banco do bar de Duke. Duke imediatamente entrou em ação, mas suas botas especiais o fizeram pular muito alto e ele bateu a cabeça no teto do bar. BJ foi sequestrado e jogado na carroceria de um caminhão de onde foi levado para um castelo na [[Alemanha]].
+
+BJ foi jogado em uma cela de prisão no castelo com um pôster de Hitler na parede. Ao tentar desfigurar este pôster com sua urina, ele percebeu que não havia parede atrás do pôster e escapou. Os engenheiros que construíram o castelo projetaram cada andar de maneira diferente, justamente para confundir os intrusos. Os elevadores eram realmente uma merda e conectavam apenas 2 andares, então BJ precisava encontrar o elevador em cada andar para chegar ao próximo. Ele não podia simplesmente procurar a saída no andar térreo do castelo, porque isso faria muito mais sentido. Em vez disso, BJ precisava chegar ao topo do castelo para poder matar Hitler e voar para longe. Depois de derrotar o castelo inteiro, BJ é recompensado com comida e um novo conjunto de calças de moletom.
+
+== Recepção ==
+
+O jogo acabou sendo um sucesso total, nunca foi tão divertido matar nazistas. Na Alemanha, porém, o jogo foi proibido e censurado porque haviam nele um par de [[suástica]]s e eles queriam fazer o mundo acreditar que eles não eram mais nazistas.
+
+{{Wolfenstein}}
+
+[[Categoria:Jogos lançados em 1992]]
+[[Categoria:Jogos da id Software]]
+[[Categoria:Jogos da Apogee Software]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos de tiro em primeira pessoa]]
+
+[[en:Wolfenstein 3D]]
+[[es:Wolfenstein 3D]]
+[[it:Wolfenstein 3D]]
+[[pl:Wolfenstein 3D]]

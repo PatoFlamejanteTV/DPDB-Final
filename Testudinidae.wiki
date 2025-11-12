@@ -1,0 +1,50 @@
+{{taxocaixa
+| nome           = Testudinidae
+| cor            = #006400
+| imagem         = Testudinidae.jpg
+| imagem_legenda = A [[espécie-tipo]] de jabuti
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Tetrapoda|Quadrúpedes]]
+| classe         = [[Reptilia|Dinossauros]]
+| ordem          = [[Testudines|Cascudos]]
+| família        = [[Testudinidae|Testadinhas]]
+}}
+
+'''Testudinidae''' é a família de répteis conhecidos como '''jabutis''', uma versão terrestre das tartarugas e cágados, conhecidos por serem répteis traiçoeiros, peçonhentos e perigosos, filogeneticamente representados e aceitos como uma forma simbiótica surgida através do hibridismo entre uma sub-espécie de sapo qualquer e um molusco [[bivalvia]] conhecido como [[amêijoa]].
+
+== Evolução ==
+
+O estudo de alguns ossos fossilizados na baixa Europa concluíram que as antigas [[rã]]s alemãs durante os eventos da [[Segunda Guerra Mundial]], exaustas de serem esmagadas por [[panzer]]s durante exercícios da [[Wehrmacht]] nos pântanos da Germânia, aprenderam a refugiar-se na armadura robusta das amêijoas que, aderindo ao corpo do anfíbio ventoso, assegurou defesa adequada contra esmagamentos. O custo, no entanto, é uma enorme quantidade de energia para o deslocamento, o que gera a antipatia dos jabutis em se moverem.
+
+== Anatomia ==
+
+Os jabutis são animais terrestres, embora porcamente adaptados para este meio, lentos como o [[Rubinho Barrichello]], eles são o exemplo nítido de que as teorias de evolução de Darwin estavam incorretas, o que explica o seu fascínio pelos jabutis gigantes das Galápagos, animais nitidamente mal evoluídos, lentos, fracos, burros (tão burros que conseguem viver sem o cérebro) e mesmo assim sobreviveram, um mistério que até hoje é tentado ser desvendado pelos evolucionistas.
+
+São como as tartarugas, mas com patas de elefante para andar na terra. Possuem uma carinha dissimulada de tolos, mas na verdade apenas tem preguiça de se socializar e não gosta que conversem com eles e nem que façam carinho em suas sensíveis carapaças, por isso eles ignoram os humanos.
+
+Os jabutis são considerados os animais mais longevos do mundo, sendo capazes de viverem quase 200 anos, pois até para envelhecerem eles tem preguiça. Como não fazem nada também não tem do que se desgastarem, e como são animais de bons costumes que não fumam, não injetam drogas em si, comem só salada e passam horas meditando, também conseguem nisto o segredo da longa vida.
+
+Estes animais são herbívoros porque a única coisa mais lenta que eles é o gramado, para poderem caçar portanto comem grama, é sua única opção de alimento viável.
+
+== Gêneros ==
+
+* '''[[Aldabrachelys]]''' - jabutis-de-aldabra
+* '''[[Astrochelys]]''' - jabutis-malgaxes
+* '''[[Centrochelys]]''' - jabuti-de-esporas-africana
+* '''[[Chelonoidis]]''' - jabutis-comuns e jabutis-das-galápagos
+* '''[[Chersina]]''' - jabuti-angulado
+* '''[[Geochelone]]''' - jabutis-estrela
+* '''[[Gopherus]]''' - jabutis-de-gopher
+* '''[[Homopus]]''' - jabutis-areoladas
+* '''[[Indotestudo]]''' - jabutis-alongados, jabutis-de-forsten e jabutis-travancore
+* '''[[Kinixys]]''' - jabutis-de-bell
+* '''[[Malacochersus]]''' - jabuti-pancake
+* '''[[Manouria]]''' - jabutis-impressionado
+* '''[[Psammobates]]''' - jabutis-estrela-sul-africana
+* '''[[Pyxis (gênero)|Pyxis]]''' - jabutis-aranha
+* '''[[Stigmochelys]]''' - jabuti-leopardo
+* '''[[Testudo]]''' - jabutis-gregos
+
+[[Categoria:Testudines]]
+[[Categoria:Testudinidae|*]]

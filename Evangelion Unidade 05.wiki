@@ -1,0 +1,38 @@
+{{máquina}}
+
+{| border="0" cellpadding="4" style="background-color:white; border: 1px solid #aaa; float: right; margin: 0 0 1em 1em; width:300px; border-collapse: collapse; font-size: 95%; clear: right"
+<div align="center">
+|-
+! colspan=2 style="background: green;" | <big>EVA-05<br>エヴァンゲリオン５号機 </big>
+[[Arquivo:Quevedolaser.jpg|200px]]
+|- style="vertical-align: top;"
+| '''País de construção'''
+| style="padding-right: 1em;" | [[Inglaterra]]
+|- style="vertical-align: top;"
+| '''Onde aparece'''
+| style="padding-right: 1em;" | Rebuilt of Evangelion
+|- style="vertical-align: top;"
+| '''Habilidades de luta'''
+| style="padding-right: 1em;" | Bomba kamikaze
+|- style="vertical-align: top;"
+| '''Piloto'''
+| style="padding-right: 1em;" | [[Mari Makinami Illustrious]]
+|- style="vertical-align: top;"
+| '''Morto por'''
+| style="padding-right: 1em;" | [[Mari Makinami Illustrious]]
+|- style="vertical-align: top;"
+|}
+
+
+'''EVA-05''' é um mecha paraplégico que aparece em [[3]] minutos de Rebuilt of Evangelion. É pilotado por [[Mari Makinami Illustrious]], uma linda <s>dama</s> de olhos verdes.
+
+== Histórico ==
+Foi construído na [[Inglaterra]] como contribuição para a guerrinha contra os angels no mundo/Japão, e para inflar o orgulho nacional. Porém, lhe faltaram as pernas, pois acabaram as peças de [[lego]], e os não haviam megazords verdes em quantidade o suficiente para doar peças. Aliás, ninguém por lá aceitaria pegar nada emprestado dos [[Power Rangers]]. Então tiveram que improvisar com pernas de mesas de rodinhas gigantes. 
+
+Este EVA também não usa um cordão anal para fornecer energia a sua bateria interna. Porque os ingleses inventaram um super-sistema de alimentação, que usa uma antena que raspa em um suporte metálico eletrificado no teto do recinto. Ou seja, o EVA é na verdade um carrinho bate-bate gigante e a não ser que a batalha ocorra em uma caverna, esse sistema é inútil.
+
+== Participação em Rebuilt ==
+Já começa de forma razoável, sendo ativado por uma garota ainda desconhecida no enredo. Só que se você leu o artigo da [[Mari Makinami Illustrious]] já sabe depois de 3 minutos o EVA explode, dando fim a sua curtíssima vida operacional.
+[[Arquivo:Sistema_glitter.gif|thumb|200px|center|Pois é, olha que a Mari pensa do seu EVA e de todos os outros]] 
+
+{{Evangelion}}

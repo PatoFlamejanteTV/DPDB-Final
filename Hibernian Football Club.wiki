@@ -1,0 +1,48 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = green
+|brasao            = Escudo do Hibernian.png
+|hino              =  
+|nome_oficial      = 
+|origem            = {{SCO}}''' - [[Leith]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Escocês
+|divisao           = Premiership
+|títulos           = 
+|ranking           = 
+}}
+
+'''Hibernian Football Club''' é um time semi-amador de futebol que se baseou em três times grandes da [[Escócia]].
+
+== História ==
+
+A decisão causou consternação por vários motivos.
+
+Em primeiro lugar, o Hibernian estava jogando na [[Scottish League Two]], uma divisão que mal se mantinha em seu status ocidental. A presença de times em Midlothian e Kilmarnock apenas equilibrou os intrusos de Cowdenbeath, Coatbridge e, incrivelmente, os novatos da liga Inverness. Embora Leith fosse pelo menos uma cidadezinha qualquer, o Hibernian ainda se encontravam ao leste das equipes da Scottish League Two e da Scottish League One, e agora quatro das cinco equipes da Scottish League Two estavam localizadas a cerca de 900 milhas da costa leste.
+
+Deve-se notar que, nas décadas seguintes, muitos fãs de futebol resolveram o problema simplesmente ignorando a geografia.
+
+Frontiere, talvez se armando com a lógica de que se Leith era uma merda e o Hibernian tiveram sucesso lá, então Hibernian sendo uma merda ainda maior só poderia significar uma coisa: sucesso na Premiership.
+
+O zagueiro [[Rory MacEwan]] não ficou convencido e foi ouvido no treinamento da pré-temporada descrevendo a cidade como "a maior merda do mundo", uma frase que os moradores descreveram como "um leve exagero".
+
+Em uma réplica quase exata em carbono dos primeiros anos do Hibernian, o Hibernian começou modestamente antes de explodir em sucesso após 5 anos. Quando o brilhantismo ofensivo do time os levou a Copa da Liga Escocesa em 1972, a calúnia de MacEwan sobre a cidade foi divertidamente transformada pelos fãs em "o melhor buraco de merda do mundo", "o melhor show de merda do mundo" e, finalmente, "o maior show do mundo território".
+
+O time voltou ao Campeonato Escocês dois anos depois, para jogar contra o [[Cowdenbeath]], que, se o Rangers é um time fraco hoje, é o oposto.
+
+
+{{Campeonato Escocês}}
+[[Categoria:Times de futebol da Escócia]]

@@ -1,0 +1,27 @@
+{{Química}}
+[[Arquivo:Hebeplay1.jpg|thumb|Graças ao Carbono-14 pudemos saber com precisão a idade de [[Hebe Camargo]].]]
+
+{{c|Carbono-14, Madame Satã...|RPM|Carbono-14}}
+{{c|É com isso que a tua mãe descobriu a idade dela, né, querida?|Você|sua [[sogra]]}}
+
+'''Carbono-14''', '''C14''' ou '''radiocarbono''' é um [[isótopo]] [[radioativo|extremamente perigoso e fodedor de gente]] do elemento [[Carbono]] que é usado para a [[digestão]] e também para diversas outras utilizações, principalmente usado por [[arqueólogo]]s para decifrar a idade da [[tua mãe]]. 
+
+Tem esse nome esdrúxulo porque possui dois [[nêutron]]s a mais que o normal pra um Carbono, o que o torna completamente instável, já que ele acha pesado demais carregar tanta gente neutra.
+
+Forma-se nas camadas superiores da [[atmosfera]] onde os [[átomo]]s de [[nitrogênio]]-14 são bombardeados por nêutrons contidos nos [[peido]]s de [[Deus]], formando a seguinte coisa que eu não entendi abaixo:
+
+7N14 + 0n1 → 6C14 + 1H1 
+
+[[Eu]] não entendi bulhufas acima, e como eu não entendi nada mesmo, vou só copiar o artigo da [[Wikipédia]], sei que isso não tem graça, [[Dooley]], mas que se dane:
+
+Reagindo com o oxigênio do ar forma dióxido de carbono (C14O2), cuja quantidade permanece constante na atmosfera. Este C14O2, juntamente com o C12O2 normal, é absorvido pelos animais e vegetais sendo, através de mecanismos metabólicos, incorporados a estrutura destes organismos. Enquanto o animal ou vegetal permanecer vivo a relação quantitativa entre o carbono-14 e o carbono-12 permanece constante. A partir da morte do ser vivo, a quantidade de C-14 existente em um tecido orgânico se dividirá pela metade a cada 5 730 anos. Cerca de 50 mil anos depois, esta quantidade começa a ser pequena demais para uma datação precisa.
+
+Quando o ser vivo morre inicia-se uma diminuição da quantidade de carbono-14 devido a sua desintegração radiativa. No carbono-14 um nêutron do núcleo se desintegra produzindo um próton ( que permanece no núcleo aumentando o número atômico de 6 para 7 ) com emissão de uma partícula beta ( elétron nuclear ). O resultado da desintegração do nêutron nuclear do carbono-14 origina como produto o átomo de nitrogênio-14:
+
+6C14 → 7N14 + -1β0
+
+Blá blá blá, blá blá blá...
+
+Bom, o fato é que essa merda demora uns 5730 anos pra [[meia-vida|desaparecer por completo e espalhar radiação por todo canto]], esse troço pode ser usado pra datar coisas velhas pra cacete. É o que chamamos de "datação por radiocarbono". Essa técnica só é usada para períodos não tão longos, já que quanto mais longo, precisa-se usar um outro tipo de [[datação radiométrica]] com átomos mais fuderosos. Por isso, não podemos por exemplo usar o Carbono 14 pra saber o ano em que surgiu [[Dercy Gonçalves]]. No caso de [[Hebe]] ou de sua sogra, até dá pra saber, mas apenas de maneira bem aproximada, pois elas são velhas pra cacique também.
+
+[[Categoria:Isótopos]]

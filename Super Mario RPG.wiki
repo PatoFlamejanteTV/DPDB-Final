@@ -1,0 +1,41 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Super Mario Paçoca RPG
+|image     = Super Mario Bros RPG 2023.png
+|caption   = Capa de mais um jogo normal do Mario
+|developer = [[Nintendo]]
+|publisher = [[Nintendo]]
+|released  = 2023
+|genre     = [[Super Mario|Super Mario Broxa]]
+|platform  = [[Nintendo Switch]]
+|rating    = E eu sei lá
+|ages      = Livre (Exceto para pessoas alérgicas a amendoim)
+}}
+
+{{C|O Mario virou uma paçoquinha!|Hagazo|Super Mario RPG}}
+
+'''Super Mario RPG''' é o remake paçoquinha do [[Super Mario RPG: Legend of the Seven Stars]] do Super Nintendo. O jogo tem a mesma história de sempre: O Mario tem que salvar a Princesa Peach das garras do Bowser, e depois ter que formar uma equipe para lutar contra os monstros, mas o jogo sofreu algumas mudanças. 
+
+== História ==
+O jogo tem a seguinte história (Que todo mundo já está cansado de saber): A Princesa Peach estava de boa, cheirando <s>maconha</s> as flores e falando com as borboletas do seu maravilhoso jardim, quando, de repente, aparece o terror das princesas do Reino Cogumelo, ele, o [[Bowser]], capturando a coitada da Princesa. Então, o Mario sai de dentro de uma casa para salvar sua amada, afinal, ele é gado. Depois de invadir o castelo e salvar a Princesa Peach, ele decide viajar para terras distantes, chamar pessoas, e formar uma equipe para lutar contra os monstros. 
+
+== Jogabilidade ==
+O jogo é simplesmente a mesma coisa do jogo do Super Nintendo, só que remasterizado, afinal, é para Nintendo Switch. O game segue o mesmo modelo do Final Fantasy 6, com um sistema de turnos. Você pode lutar contra monstros, ratos, sapos amarelos, dinossauros, entre outros. 
+
+== Novidades ==
+O remake tem uma série de novidades em relação ao jogo originais, entre elas:
+
+*Os aprimoramentos gráficos, é claro;
+*[[Hagazo|O Mario virou uma paçoquinha]];
+*Os personagens podem dançar <s>funk</s> quando sobem de nível;
+*Uma barra de porcentagem que sobe quando você ataca ou defende;
+*Mudanças no menu (Vai tomar no cu);
+
+{{Super Mario}}
+
+[[Categoria:Jogos lançados em 2023]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos de RPG]]
+[[Categoria:Remakes de jogos]]

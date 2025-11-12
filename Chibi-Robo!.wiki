@@ -1,0 +1,46 @@
+{{Game}}
+{{Aventura}}
+
+{{Infobox Série Game
+|title         = Chibi-Robo!
+|image_logo    = Chibi-Robo-logo.png
+|caption       = A nova logo
+|genre         = Limpar a casa, pular e correr
+|developer     = [[Skip Ltd.]]
+|publisher     = [[Nintendo]]
+|origin        = [[Game Cube|caixa de jogo]]
+|first_release = [[Chibi-Robo! (jogo)|Chibi-Robo!]] ([[2005]])
+|last_release  = [[Chibi-Robo! Zip Lash]] ([[2015]])
+}}
+
+{{vqd|Aspirador de pó automático}}
+'''Chibi-Robo!''' é uma franquia da Skip Ltd., mas todo pensa que é da [[Nintendo|Não-intendo]] porque todos os jogos dessa franquia saíram para os consoles da mesma. Cada jogo é uma aventura para [[Chibi]], um minusculo [[robô]] que limpa o [[Terreno baldio|lixão]] dos patrões.
+
+==Jogabilidade==
+[[Arquivo:Chibi-Robo (Chibi-Robo! Photo Finder).png|thumb|Chibi tentando colocar sua tomada em qualquer buraco.]]
+Na família [[Simpsons|Simpson]] é [[aniversário de criança|aniversário]] de <s>uma [[guria retardada]]</s> [[Lisa Simpson]], e ela ganha um [[robô]] que limpa toda a sujeira que ver pela frente. Então você começa a perambular pela casa cheia de entulho, mas como o bichinho é de primeira geração, não tem muita bateria e toda hora precisa correr para tentar encontrar uma tomada. 
+
+Enquanto você vai arrumando o lixo, vão aparecendo umas surpresas e outras coisas mais velhas que sua bisavó, no caso, pontos de felicidade para ajudar essa família que se encontra com [[depressão]] profunda-aguda. Além de arrumar a casa, o protagonista precisa resolver os dilemas da família e dos inúmeros [[Toy Story|bonecos esquecidos]], também tendo que cuidar do [[cachorro]] [[morto]] de [[fome]].
+
+==Jogos==
+*'''Chibi-Robo!''': Ajuda [[donas de casa]] a ter mais agilidade e serem mais espertas em encontrar uma sujeira em algum canto da casa.
+*'''Park Patrol''': Agora Chibi não só arruma as casa dos simpsons, mas a [[cidade]] toda. Esse é o mais difícil dentre os da franquia, já que para conseguir enxergar alguma coisa na tela do [[Nintendo DS|nintendo LSD]] é preciso de uma [[lupa]].
+*'''Happy Richie Ōsōji!''': A mesma jogabilidade lixo, só o que muda é que agora da pra roubar dinheiro e comprar coisas legais na loja [[comunismo|comunista]] da guria retardada.
+*'''Photo Finder''': Esse foca mais nas pessoas que adoram ficar no celular 25 horas por dia e tirar fotos com tudo e todos. Mas afinal, o que tem haver chibo-robo em tirar fotos?
+*'''Zip Lash''': Mod de Kirby com o protagonista sendo chibi-robo.
+
+==Galeria==
+
+<gallery>
+Arquivo:Chibi-Robo!-24.jpg|Pronto para dormir.
+Arquivo:ChibiRobo8Bit.jpg|Chibi-Robo! para [[GBA]].
+Arquivo:!!eBd9cw!WM $(KGrHqR,!igE0G0M2QJNBNQtE!VeR! 32.jpg|Está enxergando algo, ou precisa de uma lupa?
+Arquivo:ChibiFROGadV2g.jpg|Cartão de seu [[prostituta|segundo trabalho]].
+Arquivo:11170755-1604343843786457.jpg|Lançou jogo novo, lança [[amiibo]] também.
+Arquivo:Chibi-Robo-Zip-Lash-Snacks.jpg|Chibi também é patrocinador das balinhas de 5 [[centavo]]s. 
+</gallery>
+
+{{Oposto|Katamari Damacy}}
+{{Chibi-Robo!}}
+{{Nintendo games}}
+{{Plataforma}}

@@ -1,0 +1,41 @@
+{{pokedex}}
+{{PokéBox
+| imagem = Ogerpon.png
+| frase = Ogerpon se escondendo sua feiura em sua máscara.
+| nihongo = オーガポン
+| romaji = Ogurūporuno
+| pokedex = 1017
+| tipo1 = Grass
+| tipo2 = {{#switch: {{#expr: {{#time: H}} mod 4}}|0=|1=Water|2=Rock|3=Fire}}
+| habilidade1 = Assustar os outros {{#switch: {{#expr: {{#time: H}} mod 4}}|0=com grama|1=com água|2=com pedras|3=com fogo}}
+| habilidade3 = Usar uma máscara gigante
+| espécie = [[Skull Kid]] versão [[family-friendly]]
+| cadeia evolutiva = [[Arquivo:1017MS.png|60px|Ogerpon (Teal Mask)]] / [[Arquivo:1017WMS.png|60px|Ogerpon (Wellspring Mask)]] / [[Arquivo:1017HMS.png|60px|Ogerpon (Hearthflame Mask)]] / [[Arquivo:1017CMS.png|60px|Ogerpon (Cornerstone Mask)]]
+}}
+
+'''Ogerpon''' é um pokémon que foi cagado durante a produção dos jogos [[Pokémon Scarlet]] e [[Pokémon Violet]], e que serve como lendário protagonista da expansão <s>da carteira do jogador</s> chamada de [[The Teal Mask]]. Ogerpon é um pokémon que tem como seu tipo principal, o tipo maconheiro. quando Ogerpon quer acender uma, usa a sua forma Hearthflame Mask, que adiciona o tipo fogo, quando Ogerpon fala sobre outras pedras, usa sua forma Cornerstone Mask, adicionando o tipo pedra, e quando toma uma, usa sua forma Wellspring Mask, que adiciona o tipo água.
+
+Ogerpon é o pokémon de número 1017 na lista que beira o infinito de monstros de bolso e o último catalogado dos novos adicionados na região de [[Kitakami]]. Por ser um protagonista e capa de algum jogo da franquia, foi óbvio que foi um dos sortudos a serem revelados.
+==Design==
+{{C|Trollei!|Vazadores e dataminers do jogo|Ogerpon ser o primeiro pokémon pedra e fantasma na franquia}}
+No início, Ogerpon em sua forma mascarada principal, parecia um monstro rejeitado de qualquer jogo da série [[The Legend of Zelda]] (em especial [[Majora's Mask|esse]]), sendo um monstro esquisito e pequeno como uma máscara estranha, com jeito de um [[pokémon mítico]]. Pelo nome da primeira expansão, se descobriu que essa máscara em si teria algum tipo de poder, e para compensar os stats ridículos deste pokémon, o deram quatro formas especiais que mudam com a máscara, uma normal, outra de fogo, outra de água, e para evitar que fãs comecem a reclamar de mais uma menção a primeira geração, a outra colocaram de pedra mesmo.
+
+Com a confusão de várias informações diferentes, isso fez que outro rumor sobre este pokémon o tornasse relevante, o fato que seria o primeiro pokémon de pedra e fantasma ao mesmo tempo, mas a Game Freak é contra o entretenimento e se descobriu que seu tipo principal seria o grama, adicionando ao resto das outras máscaras, ganhando mais um [[Ludicolo|grama/água]] e [[Scovillain|grama/fogo]] para a franquia.
+
+Assim como alguns lendários e míticos suspeitos deste jogo, a Creatures mais uma vez usou como inspiração a [[reciclagem]], reciclando ideias já passadas e ao contrário dos vários plágios que há nesta geração, a Creatures usou como inspiração a própria [[Meowscarada]] (embora já [[Incineroar|tenha]] [[Zeraora|acontecido]] [[Rillaboom|isso]] [[Zarude|anteriormente]]) e pelo fato de Ogerpon ter inveja secreta de sua popularidade (seja a boa ou a [[putaria|por engano]]), Ogerpon, ao contrário da própria, deu algo que todo [[furry|fã]] da gata mascarada deseja, que é a possibilidade de conseguir uma fêmea facilmente, já que por algum motivo não especificado, Ogerpon é um ogra que apenas possuem versões femininas dela, se juntando a trupe dos pokémon populares pelos motivos errados.
+
+==No jogo==
+{{C|Por que?|Kieran|ser rejeitado por Ogerpon}}
+Ogerpon era uma ogra que mesmo com sua forma normal que mais parece um [[abacate]] sem a máscara, se aliou a um humano gigante que andava pela região de Kitakami, mas que ao passar pela vila, isso enfureceu vários aldeões que passavam pela vila achando que era mais um cidadão nojento de [[Sinnoh]] que estava tentando incentivar a região de Kitakami a aprovar a [[pokefilia]] e após uma discussão, tanto Ogerpon quanto o gigante foram expulsos daquele lugar. Um dos aldeões viu que Ogerpon não tinha nada de errado e criou uma máscara chamativa cheia de poder para se infiltrar lá, e isso acabou dando certo, até que um dos desastrados deixou a máscara cair e novamente foi expulso daquele lugar.
+
+Ogerpon e o gigante dormiram juntos em uma montanha alta de Kitakami e um dia, quando estavam passeando para pegar água ou dar alguma volta da região, avistaram [[Okidogi|três]] [[Fezandipiti|animais]] [[Munkidori|esquisitos]] com uma corrente roxa que queriam fazer um arrastão nas máscaras que consideraram valiosas de Ogerpon, e isso resultou nos três batendo no humano gigante até a morte dele, o que fez Ogerpon ficar furiosa pela primeira vez em sua vida, pegar o seu [[porrete]] feito de grama e bater nos três pokémon até que os três fossem [[morte|contratados pelo Vasco]] e quando Ogerpon usou seu porrete perto da vila, todos pensavam que queria se vingar. Os corpos dos três foram achados nas montanhas e levados para um túmulo especial.
+[[Arquivo:Ogerpon Triple Kill.png|260px|thumb|left|Ogerpon durante a história de Kitakami.]]
+Os aldeões fizeram uma caçada, o que fez ela se esconder em algum lugar secreto de Kitakami e em alguns anos, vai atrás de pessoas para ver se ainda estão com raiva dela, o que ainda acontecia por muito tempo. Ogerpon vê tanto o protagonista quanto [[Kieran|o seu maior puxa-saco na história]] falando bem dele, mas deixa sua máscara cair e foge daquele lugar ao ver [[Carmine (Pokémon)|uma adolescente agressiva]]. Ogerpon continua se escondendo em sua casa nas montanhas, e em sua forma menos poderosa, vira vítima de [[bullying]] dos "três leais", até ser salvo pelos três patetas principais da história.
+
+Ogerpon e os três protagonistas recuperam suas máscaras ao bater nos "heróis" da região, o que faz ela gostar do protagonista e a ogra consegue o pedido de desculpas da vila após escutarem sua história verdadeira por causa de um pirralho e ao ver que [[Entei|tudo estava bem agora]], a ogra escolhe o protagonista como seu principal companheiro e o escolhido para batalhar-la, o que faz Kieran novamente ficar puto com isso, o que faz o próprio Kieran ser humilhado na frente do lendário que gostava e entrar em mais uma crise de chilique e chororô em sua casa. Ogerpon é caçada pelo protagonista e só será usada para mostrar seus golpes especiais, antes de ser mais uma vítima da box do jogo.
+==Usos e popularidade==
+Para usar esse pokémon, apenas no modo história do jogo e em artes picantes da franquia, já que foi revelada que é mais uma espécie fêmea, ganhando notoriedade após vários [[furry|doentes mentais]] ficarem bravos ao saber que um certo pássaro vem acompanhado de [[pênis|uma surpresinha]]. Além de ser um lendário e do detalhe relatado anteriormente, por ser uma espécie que seja considerada fofa ao menos sem ser irritante a ponto de apenas os japoneses mostrassem seu lado masoquista <s>e do fato dos outros pokémon da DLC serem ou feios ou DLCs de espécies antigas</s> fez que surpreendentemente Ogerpon ganhasse uma popularidade extra com os fãs da franquia e tem grande chance de se tornar uma das dez espécies mais populares do jogo.
+
+{{Poke9}}
+[[Categoria:Ogros]]
+[[Categoria:Coisas vegetais]]

@@ -1,0 +1,55 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = darkgreen
+|brasao            = Escudo do Marathón.png
+|hino              = 
+|nome_oficial      = Club Deportivo Maricón
+|origem            = {{HON}} - '''[[San Pedro Sula|San Pedro Hijo de Puta]]'''
+|apelidos          = Verdolagas (Lagartixas Verde)
+|torcedores        = 
+|torcidas          = La Mofeta Verde
+|mascote           = [[Lagartixa]]
+|ilustre           = 
+|estadio           = Estádio da Cidade
+|capacidade        = 45.000
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Hondurenho|Copa Manuel Zelaya]]
+|divisao           = 1° Divisão
+|títulos           = 
+|ranking           = 
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Club Deportivo Marathón''' é um semi-tradicional clube de futebol de [[Honduras]], sendo um time amplamente desconhecido, como qualquer outra coisa relacionada ao [[futebol hondurenho]]. Com a conquista de só uma meia-dúzia de campeonatinhos locais, mal consegue estar entre os três times mais tradicionais de seu país.
+
+== História ==
+=== Fundação ===
+
+Diz uma lenda que o Marathón de Honduras foi fundado em 1925, apesar de todo o anacronismo que diz que [https://www.youtube.com/watch?v=SdtpoF8VIB0 o futebol hondurenho foi inventado apenas em 2001].
+
+Aceitando-se que o Marathón é um time antigo assim mesmo, fica evidente que ele sempre foi ruim desde o começo, já que nunca teve expressão sequer a nível sub-continental, mesmo que por ali só existam os times de Tangamandápio.
+
+=== O primeiro título ===
+
+Todos os fundadores do clube já estavam mortos ou caquéticos quando o título hondurenho de 1979–80 foi conquistado. Tal qual até o Bahia tem as suas conquistas de Brasileirão, o Marathón começa ali sua trajetória de ganhar um título a cada 18 anos.
+
+=== Estabelecendo-se como quarta força de Honduras ===
+
+Com a conquista de seus títulos esporádicos e muitas participações vergonhosas nas competições continentais, somando-se o fato de jamais ter vencido um time mexicano na história, o Marathón firmou-se como a quarta potência do futebol hondurenho (se o primeiro já é ruim, imagina o quarto).
+
+Dentre as dezenas de fiascos acumulados pelo clube, o seu momento mais histórico sem dúvida foi o desempenho da equipe na [[Recopa da CONCACAF]] de 1995, quando chegou a perder de 4x1 para o [[Cosmos FC]] do Panamá, e sem Pelé, para depois reverter com um 4x0 em casa. Mas aí na semifinal pegou o [[Tecos Fútbol Club|Tacos FC]] do México, e aí perdeu. Mas pelo menos finalizou o torneio honrosamente, quando na disputa do terceiro lugar goleou por 12x0 o [[Jong Colombia]] de [[Tuvalu Ulterior|Antilhas Tuvaluanas do Caribe]] (atual [[Curaçao]]), até hoje detendo o recorde de goleada menos expressiva sobre um time tuvaluano.
+
+== Títulos ==
+
+* '''[[Campeonato Hondurenho|Campeonato da Puta que o Pariu]]''': 9 vezes (1979–80, 1985–86, 2001–02 C, 2002–03 C, 2004–05 A, 2007–08 A, 2008–09 A, 2009–10 A, 2017-18 C)
+
+{{Campeonato Hondurenho}}
+
+[[Categoria:Times de futebol de Honduras|Marathon]]

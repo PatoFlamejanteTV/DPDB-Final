@@ -1,0 +1,21 @@
+{{avemaria}}
+{{Português errado}}
+[[Arquivo:Mapa de Caracteres.jpg|thumb|E é assim que você pode fingir que sabe como fazer [[criptografia]].]]
+
+'''Mapa de Caracteres''' é um daqueles [[aplicativo]]s do [[Windows]] que geral nem sabe que existe e quem sabe só usa uma vez perdida na vida para pegar uns caracteres estranhos que não costumam estar no teclado de nenhum computador do universo, mesmo os computadores tendo uns caracteres já que o uso normalmente é bem ignorado ou inútil como ¢ e ¬. Pois é, se esses aí geral nem sabe realmente pra que usar, mas estão em quaisquer teclados [[QWERT]] que se prezem, imagina o uso de vários dos caracteres contidos no tal mapa dos caracteres...
+
+== Caracteres que podem ser encontrados nele ==
+
+O mapa suporta caracteres das mais diversas fontes, como [[Arial]] ou [[Times New Roman]], em [[Unicode]] ou [[ASCII]]. Eu sei, esses dois últimos você não entendeu, nem eu, é coisa puramente nerd mesmo. No mapa aparecem símbolos, letras e números que qualquer um pode digitar normalmente como 5, A, ´, %, (, ^, ;, ,, ", [[Trema|¨]] (que quase ninguém mais usa), °, -, _, e também um monte de outros que eu duvido que você saberia como usar, e que se você pôr num artigo pode fazer geral achar que a página foi atacada por um [[vírus de computador]], como letras de alfabetos da PQP, alguns alfabetos até extintos ou raramente usados por falantes lusófonos, tipo nesse exat¤¦§z«¯±¶ƵŧƷǄǂƿƫĦŔœőŏŒǥǣǲȲȵɆȽȽǺǻƟǾƧʥʬ˨˽ˠ˅˃ʯʍɷ̴ͲͷΦϢϐΐѫҼ҉҈ѸѯѾԭ֍֎֏ԪԘԞՄՃ׆؊؇؇؈خٓ٧پ۞۩ۨṏỤὊửΏῶ‡†⁴⁶⁰ₑₔ₡₧₥₨₩₪₯⅜←ↄ⅍№₿℗☻☼▓╬♦♥♪♯ⱥ◌↨℅€ꜛꜼⱻⱦⱤⱣⱠꜲꝿꝰꝯꝮꝚꝈꝎꝏꞞꞚꞗꭑꭍꭙﭦוֹﷺ▌▀╬╨♂◙◊○ṌṷṧḈᶭᶬﮱﭿﭔ﴿ﺤ  
+
+[[Arquivo:Bluescreen.gif|center|600px]]
+
+== Ver também ==
+
+*[[CD Player]]
+*[[Desfragmentador de disco]]
+*[[Scandisk]]
+
+[[Categoria:Aplicativos do Windows]]
+[[Categoria:Mapas|Caracteres]]
+[[Categoria:Páginas que se parecem com o que elas são]]

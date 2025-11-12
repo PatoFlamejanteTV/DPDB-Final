@@ -1,0 +1,85 @@
+{{Computeiro}}
+
+'''POF''' ou Programação Orientada à Flags é uma modalidade de [[POG]]. Este método de programação de [[Qualidade de Software|alta qualidade]] e está totalmente de acordo com as normas de POG e é usado extensivamente nos exemplos dados no seu artículo.
+
+===Exemplo===
+Pseudolinguagem:
+
+<pre>
+virgin = ouiébeibe;
+lista <- dados from database
+for item dentro-de lista:
+    is cabaço?
+       criar arquivo
+       write header
+       desvirgina
+       cabaço = !cabaço
+    si
+
+    processa dados // joga YAM
+
+ainda virgem?
+    atira exceção "Pense num número de 1 a 10..."
+else
+    write trailer
+adnia
+
+</pre>
+
+
+===Checagem de robustez===
+Para que seu sistema Orientado à Flags esteja robusto o suficiente, algumas checagens são necessárias. As regras são:
+
+1- Para toda flag deve existir ao mínimo um if associado a ela. <BR>
+2- A quantidade de if´s deverá ser sempre maior ou igual ao número de flag´s. <BR>
+3- As flag´s deverão ser direta ou indiretamente visíveis globalmente. Se não forem, um dia serão. <BR>
+4- Qualquer tabela de domínio das flag´s é incorreta, proibida, antiética e imoral.<br>
+
+
+===Origem do POF===
+
+A programação orientada a flag teve inicio com uma garota de programa, que quiz virar "programadora"(ah táa), sua primeira obra foi método highlander, que era capaz de fazer N coisas utilizando flags. Segue abaixo um exemplo básico de "método Flagguer":<BR>
+
+C#, com si bemol<BR>
+<pre>
+ public void plotter(bool MotherFlag)
+{
+  bool flagJunior;
+
+  // Inicializa Flag Junior
+  if(MotherFlag == true)
+    flagJunior=false;
+  else
+    flagJunior=false;
+
+  if(MotherFlag)
+  {
+     //Executa 1º metade do plotter
+  }
+  else
+  {
+     // Outra metade do plotter
+  }
+}
+</pre>
+
+Assim para usar o plotter basta fazer:
+
+<pre>
+void flagMain()
+{
+ bool flagVerdadeira;
+ flagVerdadeira = true;
+
+  if(flagVerdadeira == true)
+  {
+    plotter(true);
+    plotter(false);
+  }
+}
+</pre>
+Observe que esta é apenas uma demonstação do poder das flags, uma exímia programadora POF ou FOP(sigla utilizada no Flag Patterns da Monkrey Sroft Prés), é capaz de imaginar um mundo através flags, e desenvolver sistemas com uma "visão flagguer" de sistema. É possível até mesmo construir sistemas bancários, utilizando [[Flags Monetárias]], mas para isso é necessária uma certificação em Flags, que só possível de se obter após completar o nível máximo de POG.
+
+{{Esboço}}
+
+[[Categoria:Siglas]]

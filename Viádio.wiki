@@ -1,0 +1,81 @@
+
+
+<!--
+dados da tabela; siga adiante para alterar o texto 
+-->
+{| style="margin-left: 0.5em;" align="right" border="1" cellpadding="2" cellspacing="0"
+|-
+| colspan="2" |
+{| align="center" border="0"
+|-
+| colspan="2" align="center" | '''Viádio'''
+|-
+! colspan="2" bgcolor="#a0ffa0" | <font color="green">Geral</font>
+|-
+|'''Nome''', '''Símbolo''', '''Número'''
+| Viádio, Vi, 24
+|-
+| '''Série alquímica''' || Elementos de Corrosa
+|-
+| '''Densidade''', '''Machesa'''
+| 24[[p(alquimia)|p]], -24[[p(alquimia)|p]]
+|-
+| '''Cor e aparência'''
+| align="center" |Cor-de-rosa
+|-
+! colspan="2" bgcolor="#a0ffa0" |Propriedades atómicas
+|-
+| '''Massa atómica'''
+| 24[[p(alquimia)|p]]
+|-
+| '''Raio atómico''' || 24,2424[[p(alquimia)|p]]
+|-
+| '''Raio de Van der Van Halen''' || 24,[[11]][[p(alquimia)|p]]
+|-
+| '''Número de Oxidação'''
+| +24.
+|-
+| '''Estrutura [[Geometria|Geométrica]]''' || [[Cubo|Cúbica]] centrada nos [[cu|pontos de ligação]] 
+|-
+! colspan="2" bgcolor="#a0ffa0" |Propriedades físicas
+|-
+| '''Estado da matéria''' || [[sólido|Estado Sólido]] (amolece faclimente)
+|-
+| '''Ponto de fusão'''
+| -24º[[Graus Descicliopédianos|Des]]
+|-
+| '''Ponto de ebulição''' || 24º[[Graus Descicliopédianos|Des]]
+|-
+|-
+| '''Potencial de ionização''' || 24[[p(alquimia)|p]]/[[Volt|V]]
+|}
+|-
+! colspan="2" bgcolor="#a0ffa0" |Dados [[correto]]s exceto onde indicado o contrário.
+|}
+<!--
+fim dos dados da tabela
+-->
+
+
+[[Arquivo:ClodovilViadoBicha.jpg|thumb|left|185px|O descobridor do elemento]]
+
+O '''Viádio''' é um elemento alquímico de símbolo '''Vi''', de '''número atômico''' 24 e '''massa atômica''' 24. 
+
+==Extração==
+
+O Viádio é encontrado em todas as partes do Globo Terrestre. Há jazidas enormes em [[Campinas]],[[Pelotas]], [[Brasília]], na [[Bahia]] e inclusive na [[França]]. Porém, suspeita-se que a [[Argentina]] tenha bilhões de toneladas deste material sob sua superfície.
+
+==Propriedades==
+
+É bastante usado em uma liga com o elemento Como, formando a famosa liga Como-viádio. Essa liga, por ser muito dura, é normalmente utilizada na fabricação de giletes e outros intrumentos cortantes.
+
+É encontrado normalmente na cor Rosa ou Lilás. Também há variedades totalmente coloridas.
+
+Oxida facilmente. É um dos elementos que mais costuma oxiDAR por aí.
+
+Não combina de maneira nenhuma com o elemento 59 [[Mulher#O_Elemento_Alqu.C3.ADmico_.22Mulher.22|Mulher]], a não ser que seja como boas amigas.
+
+Tem baixo índice de Reatividade. Poucos isótopos são ReAtivos. A maior parte é de RePassivos.
+
+
+[[Categoria:Elementos Alquímicos]]

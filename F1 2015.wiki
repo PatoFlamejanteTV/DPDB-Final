@@ -1,0 +1,45 @@
+{{Game}}
+
+{{Infobox Game
+|title     = F12015
+|image     = F1 2015 capa.png
+|caption   = Capa da versão para PS4
+|developer = [[Codemasters]]
+|publisher = [[Codemasters]]
+|released  = julho de [[2015]] (com o campeonato praticamente já definido já) 
+|genre     = Corrida
+|rating    = 20%
+|ages      = 
+|platform  = [[PlayStation 4|PolyStation 4]]; [[Xbox One|X-ovo com bacon]]
+}}
+
+'''F1 2015''' é mais um jogo anual de simulador de [[Fórmula 1]] criado pela [[Codemasters]], que conseguiu a incrível façanha de lançar um jogo totalmente focado em formula 1 e mesmo assim ser infinitamente pior que os modos de corrida de monoposto em jogos como [[Forza Motorsport 5]] ou [[Driveclub]] onde formula 1 está longe de ser o foco. O jogo foi obviamente um grande fracasso de vendas, visto que já não existem mais fãs de fórmula 1, e os poucos que existe, se recusaram a comprar um jogo onde os pilotos parecem bonecos de cera vindos do [[PlayStation 2]] e a torcida é toda feita de papelão. O jogo foi lançado às pressas em julho de 2015, pois se demorasse mais, o campeonato de Formula 1 iria acabar, então lançaram um game cheio de bugs com carros fantasmas que atravessam o chão e uns aos outros, com uma refinada física bugada onde as vezes carros capotam 10 vezes e voltam a correr como se não tivessem sofrido nenhum dano relevante.
+
+== Carreira ==
+
+O jogo foerece a escolha de disputar tanto a temporada 2014 como a temporada 2015 de Fórmula 1, numa tentativa frustrada de simular como as regras mudam bruscamente de um ano para outro na Formula 1, deixando pilotos estúpidos batendo muito com carros totalmente novos, mas na prática a única mudança é a cor dos carros e o nome dos pilotos. Nesta versão do jogo, por preguiça geral, não há a opção de criar seu piloto, então o segredo é escolher o Hamilton e vencer tudo, a não ser que seja um n00b que vai pro gramado em toda santa curva. Para os mais hardcores há a opção de escolher dirigir o carro da [[Marussia]] numa dificuldade secreta chamada ''"masoquismo"''.
+
+O jogo fará de tudo para evitar que você compareça ao pódio, desde proporcionando uma jogabilidade pífia que te faz ir pro gramado toda hora, adversários barbeiros que te acertarão a traseira ou frearão com tudo em sua frente, tudo para evitar que o jogo testemunhe a comemoração de pódio absolutamente medonha.
+
+== Jogabilidade ==
+
+[[Arquivo:F1 2015 gameplay.png|thumb|left|250px|Em toda largada, você necessariamente bate e causa treta nesse jogo.]]
+
+F1 2015 inovou seu sistema de jogabilidade, focando-se em ser voltado para um público mais amplo que os jogos anteriores, a intenção era criar um jogo que satisfizesse tanto viciados sem vida social, mas também n00bs que nunca pegaram um controle na vida. Todavia, a vontade de satisfazer vários nichos acabou satisfazendo nenhum, pois o n00b continuará indo pra grama em toda curva enquanto o viciado vai preferir comprar outro jogo mais decente. Há várias ajudas que podem ser habilitadas ou desabilitadas, como perícia na direção, ajuda de freio, controle de tração, traçado ideal pintado na pista, câmbio automático e até freio automático.
+
+Antes de cada corrida, há a opção de mexer na aerodinâmica e escolher os pneus do carro, mas essa possibilidade é meramente uma armadilha, pois se mexer 1 grau que seja em qualquer coisa, o carro ficará automaticamente esquisito e indirigível.
+
+Durante as corridas, o jogador enfrentará uma inteligência artificial onde metade dos pilotos parecem o [[Pastor Maldonado]] e a outra metade o [[Romain Grosjean]], de tão carniceiros, barbeiros e agressivos que são, tanto que até os retardatários ficam te fechando e batendo em você em plena bandeirada azul. O desgaste dos pneus dos rivais é praticamente nulo, todos eles correm sempre no talo.
+
+== Multiplayer ==
+
+Os chats para corrida online são sempre um enorme e decepcionante deserto, e se após algumas horas aparece alguma alma online para correr contra você, ambos entrarão num mundo de quantidades massivas de bugs jamais vistas antes num jogo online, pois são carros batendo, dando lag, sumindo e reaparecendo, atravessando paredes, chão, atravessando uns aos outros, uma experiência chocante.
+
+{{F1}}
+
+[[Categoria:Jogos da Codemasters]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos de corrida]]
+[[Categoria:Jogos lançados em 2015]]

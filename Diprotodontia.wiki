@@ -1,0 +1,38 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Diprotodontia
+| imagem          = Diprotodontes.gif
+| imagem_legenda  = Não se engane pela aparência fofa, são todos mortíferos
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| subclasse       = [[Theria]]
+| infraclasse     = [[Marsupialia|Marsupilami]]
+| ordem           = [[Diprotodontia|Cangurus-pernetas]]
+}}
+
+Os '''diprotodontes''' (ou '''Diprotodontia''') é o nome dos marsupiais que vivem na [[Austrália]], animais aparentemente fofinhos e legais mas capazes de matar quem atravessar seus respectivos caminhos, caracterizados por serem venenosos, herbívoros e no lugar do saco escrotal terem uma bolsa abdominal para guardarem seus pertences, inclusive os filhos. Provavelmente tu conheças apenas a espécie tradicional de canguru, aquele que é lutador de boxe e tudo mais, todavia para aqueles fãs de [[Animal Planet]] (que está toda semana vasculhando a Austrália) sabe-se que há cangurus de todos tipos, tem cangurus parecidos com fuinhas, com lagarto, com coala, com gambá, com ratazana, e todos eles são diprotodontes.
+
+== Anatomia ==
+
+Os diprotodontes são animais detentores especialmente de um estranho e infeliz hábito de serem comidos por gatos, cães e seres humanos australianos, sem qualquer advogado razoável ou comitê consultivo ambiental para defendê-los da extinção, portanto mais da metade de sua espécie já foi extinta. Estes animais tem extrema facilidade em fazer expressões faciais fofas como estratégia de caça, apenas aguardando que a possível vítima venha acariciá-los para que então sejam atacados e surrados, afinal uma das principais características dos diprotodontes são suas patas com dedos deformados essenciais para despejar bons socos.
+
+A principal característica anatômica de um animal diprotodonte é ser diprotodonte, que significa ser dentuço na mandíbula inferior e ter um monte de dentes na mandíbula superior. Os dedos do que seriam uma mão são colados formando uma pata ideal para saltitar por aí, e a cauda felpuda é geralmente uma tática para se disfarçarem de fofos e inofensivos animais.
+
+== Famílias ==
+
+* '''[[Phascolarctidae]]''' - [[Coala]]
+* '''[[Vombatidae]]''' - Vombates
+* '''[[Phalangeridae]]''' - Mistura de bicho-preguiça com porcos
+* '''[[Burramyidae]]''' - Gambás pigmeus
+* '''[[Tarsipedidae]]''' - [[Gambá-do-mel]]
+* '''[[Petauridae]]''' - Esquilos com olhos esbugalhados
+* '''[[Pseudocheiridae]]''' - Um rato-guaxinim
+* '''[[Acrobatidae]]''' - Só mais ratos
+* '''[[Macropodidae]]''' - Cangurus
+* '''[[Potoroidae]]''' - Ratos-canguru
+* '''[[Hypsiprymnodontidae]]''' - [[Rato-canguru-almiscarado]]
+
+[[Categoria:Marsupialia]]
+[[Categoria:Diprotodontia|*]]

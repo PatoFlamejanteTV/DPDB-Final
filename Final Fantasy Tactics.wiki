@@ -1,0 +1,419 @@
+{{game}}
+
+<center><div style="width:90%; border: 1px solid gray; background-color: #E0BE40; padding: 10px; ">'''Alerta de spoilers:''' Atenção, o texto abaixo pode conter spoilers tais como o fato que
+
+<font size=5>'''DELITA MATA OVELIA, MAS MORRE TAMBÉM!!!'''</font>
+Leia com atenção.</div></center>
+
+
+{{Infobox Game
+|title     = Final Fantasy Tatics
+|image     = Final Fantasy Tactics cover.png
+|caption   = Capa do jogo
+|developer = Square
+|publisher = [[Sony Computer Entertainment]]
+|released  = 1998
+|genre     = RPG
+|rating    = 9,99999999....
+|platform  = [[Polystation]]
+|ages      = 18
+}}
+
+{{Você quis dizer|Play Mobil}}
+{{C|Cada um no seu quadrado"|Funkeiro sobre o jogo}}
+{{C|...Desde pequenos nós comemos lixo, comercial e industrial... Mas agora chegou nossa vez, vamos cuspir de volta o lixo em cima de vocês...|Renato Russo|Wiegraf}}
+{{C|Mas que porra é essa???|Sua Mãe|Final Fantasy Tactics}}
+{{C|Essa merda estraga a TV|Seu Avô|todos os videogames}}
+{{C|Você traiu o movimento Hokuten veio!!|Dado Dolabella|Algus de Final Fantasy Tactics}}
+{{C|O Cloud é foda!!!|[[Emo|Emo/Fan-boy]]|Final Fantasy Tactics}}
+{{C|Você é uma doença e eu sou a cura|Stallone Cobra|Ambev}}
+{{C|Puta jogo difícil!!!|Noob|Final Fantasy Tactics}}
+{{C|Porque eles andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam, andam e não saem do lugar?|Qualquer pessoa que nunca jogou Final Fantasy Tactics|Final Fantasy Tactics}}
+{{C|Hahaha! Venci o Velius com uma rodada|[[Nerd|Fodão]]|Final Fantasy Tactics}}
+{{C|Summoner Power!!!!|Bêbado|Rygar e os Soldados do Rei}}
+{{C|Ladrão e Mime são uma desgraça|Você|Final Fantasy Tactics}}
+{{C|...Ladrão é foda...|Você|Item roubado no Final Fantasy Tactics}}
+{{C|Foi muito gratificante fazer o papel do Orlandu|Chuck Norris|Final Fantasy Tactics}}
+{{C|Ramza é nome de viado!|Diretor da Square|Ramza}}
+{{C|E daí? Delita é nome de Travesti!|Produtor da Square|Delita}}
+{{C|Deixa essa porra mesmo... é disso que o povo gosta...|Diretor da Square|Nomes}}
+{{C|Taí uma loira que sabe pegar numa espada!|Jogador seco|Agrias}}
+{{C|Eu matei Velius em uma rodada, tenho 99 de todos status e 999 de HP e MP e fiz todos 
+os glitchs possíveis|Nerd alienado em FFT|FFT}}
+{{C|Você é esses passarinhos?!?!???|Amigo noob|Você numa luta contra chocobos}}
+{{C|Da pra caça Draggy???|Nerd viciado em Tibia|FFT}}
+{{C|É tipo xadrez???|Kasparov|FFT}}
+
+'''Final Fantasy Tactics''' é a primeira versão de um jogo da série [[Final Fantasy]] que obriga o jogador a gastar neurônios. Os caras da Square-Eunucos (na época Shitquare) estavam cansados daquelas lutas por menuzinhos, então resolveram fazer uma versão de estratégia! 
+
+Futuramente seria lançada uma ´´continuação`` para [[GBA]] (Grande Bosta Amarela), chamada [[Final Fantasy Tactics Advance|Fantasia Final de Táticas Avançadas]]. Um cocô mole, puro caça-níquel...
+
+== Sistema ==
+Foi criado no [[RPG Maker]] com o objetivo de se jogar no forno da [[avó|vovó]]. Você anda por um monte de quadradinhos no tabuleiro se desviando da torta da mamãe do cafe do vovô e de qualquer outra coisa que possa estar no tabuleiro,  e vai mandando seus personagens fazer alguma coisa sem lógica desde que ele for treinado para tal, como o personagem pode ser treinado para fazer qualquer coisa ele pode fazer de tudo como atacar, jogar bosta no ventilador, cavar buracos pra ver se encontra algum potion, cutucar por traz outros personagens para encontra algum potion, sair do jogo e enrabar o jogador ou nas horas vagas bater um papo com os monstros (bom ai cada um sabe de si). Muitos noobs por aí dizem que é muito foda jogar esse jogo, e por terem conseguido jogar agora eles se consideram os fodidos e andam por ai todos metidos e gozados, mas eles são só um bando de retardados dementes, até minha vó zera essa budega!
+
+Para controlar os bichim no tabuleiro o jogo utiliza um intuitivo e simples sistema de menus que tem ações, sub-ações, sub-sub-ações, e também alvos, sub-alvos, sub-alvos-alvos e tipo, sub-tipo, sub-tipo-tipo ou sanduíche, [[Ruth Lemos|sanduíche-iche]], sanduíche-iche-iche que por não ter valor nitri-nutri-nutri-adequado podem ser combinados. Assim, o maluco faz a sub-sub-ação do sub-tipo-tipo no sub-alvos-alvos, por causa deste revolucionário sistema o jogo foi um sucesso entre os gagos e as nutricionistas.
+
+Vamos mostrar um exemplo bem prático:
+
+Primeiro você escolhe a ação apertando um botão lá aparece as seguintes opções bater, correr, andar, andar, dar, chorar, falar... Bom, vamos supor que você escolheu a ação bater, então aparece o menu da sub-ação com as opções punheta, siririca, boquete, racha na cara e por aí vai... Se você escolher punheta, então o jogo vai te mostrar os alvos, que podem ser desde você mesmo até qualquer aliado ou inimigo, se você escolher o inimigo vai aparecer o menu do sub-alvo aonde você pode escolher entre os inimigos machos, viados, baitolas ou enrustidos, selecionando por exemplo os enrustidos você começa a selecionar o sub-alvos-alvos aonde aparece as opções pinto: no cu, toba, na cara ou tudo junto, etc... Vamos supor que você escolha a opção cu, aí o jogo escreve na tela não é possível bater->punheta->inimigo->enrustido->no cu, nesta hora o menu volta para o começo e tudo que você fez até aqui some e você tem que começar tudo de novo, e de novo e de novo ate você fazer a merda direito.
+
+Graças a este revolucionário sistema de jogo, os jogadores dessa porra ficam horas (segundo eles) jogando e não conseguem sequer sair do lugar.
+
+== Monstros ==
+
+* '''Chocobos''' - Como não poderia deixar de ser. Aparentemente não servem para nada. Chocobos roxos, ou Black chocobos tem um golpe FDP chamado Choco Ball. Quase todo seu HP vai pro saco. Também são os únicos que voam e assim podem andar mais da metade do cenário—podendo te pegar na puta que pariu. Os Chocobos vermelhos são piores ainda, possuindo um golpe chamado Choco Meteor, que é literalmente um meteoro na tua cachola. Morte na certa. Esses não voam, mas tem um At. desgraçado de bom. 
+
+* '''Goblins''' - Coisinhas feias que serviriam de saco de pancada pra ganhar Exp. e Jp. Se você não estiver bem preparado e treinado, esses caras te descem porrada legal. São fracos contra gelo. 
+
+* '''Skeletons''' - A coisa mais patética do FFT... use um [[Phoenix Down]] neles e seja feliz. São fracos contra fogo. Podem reviver várias vezes até o final da batalha. 
+
+* '''Bombs''' - Granadas de mão usadas pelos U.S. Navy Seals. A única coisa realmente preocupante desses bichos são o Self Destruction, em que ele se explode e pode matar os que estiverem ao seu redor. Se sobreviver, você fica encharcado de óleo. 
+
+* '''Cockatrices''' - Bichos chatos pra caralho que adoram atacar e ir para o outro lado do cenário, deveriam parecer umas galinhas, mas na verdade são gaivotas. As do tipo vermelha podem te petrificar. 
+
+* '''Pisco Demons''' - Demônios que piscam. Os mais fortes adoram te encher de status negativos, inclusive confusion ou berserk. 
+
+* '''Bull Demons''' - São fortes, mas tem a inteligência de uma vaca, e também são lentos. Não os subestime mesmo assim. 
+
+* '''Cougars''' - Fugiram da fábrica de fogões para te encher o saco. Os do tipo roxo podem sugar seu sangue e também podem te petrificar ou paralisar com aquele maldito Blaster. Se tu for cabra louco, pode tentar cheirá-los—afinal, são felinos. 
+
+* '''Malboros''' - Cigarros com mais de 2.346.567 substâncias tóxicas... causam status negativos, além de câncer de pulmão... alguns deles podem dar um barato se fumados com orégano, ou se cheirados junto com gatinhos...
+
+* '''Uribos''' - Porquinhos inúteis, que não tem nada de bom, além de quem for ultra viciado nesse jogo evoluí-lo para que este dê a cria mais evoluída, que ao ser morta com secret hunt, gera um item cabuloso, que também é inútil—na verdade é um Ribbon, mas é dispensável (você pode viver sem isso). Dá pra fazer aquele torresminho bão no final de semana. 
+
+* '''Trents''' - Arvores super-resistentes que não fazem nada. Fizeram um bico na trilogia do J.R.R.R.R.R.R. Tolkien, ´´O Senhor dos Rodoanéis``. São fracas contra fogo. As de folhagem rosa podem curar seus aliados. As de folhagem laranja podem, se você matá-las usando Secret Hunt, te fornecer uma espada melhor do que as medianas do mercado normal. 
+
+* '''Dragons''' - Fortes, mas lentos e realmente burros. Use os Lancers ou ainda Dragoons para lidar com eles. Costumam fornecer itens úteis com o Secret Hunt. Os azuis são os mais desgraçados.
+
+* '''Behemoths''' - Outra criatura extremamente forte. Aparecem mais pelo final do jogo e seus HPs costumam estar no máximo (999). São lentos e praticamente não possuem evasão. 
+
+* '''Hydras''' - O [[Tiamat]] fugiu da [[Caverna do Dragão]] e caiu nesse jogo, de praxe, corte uma cabeça e... ela cai. este sim é foda pra caralho. se você ver um, mate logo ou corra que nem uma menina de 10 anos. Só o contra-ataque dessa desgraça te mata. HP por volta dos 999 também. 
+
+* "'Ghouls'" - Skeletons com magia. Use a Phoenix Down.
+
+
+== Profissões e habilidades ==
+[[Arquivo:Final-fantasy-tactics-the-lion-war-07.jpg|thumb|260px|É isso aí, aqui você tem que trabalhar, vagabundo!]]
+
+=== Squire ===
+
+[[Arquivo:000 garnet111.jpg|left|250px|thumb|Treinar Classes é difícil...]]
+
+Primeira profissão do jogo, são como recrutas, o melhor ataque é jogar pedra. O Ramza é um Squire especial, já que pode aprender mais habilidades como a poderosa Ultima (acho que já vi esse nome em algum lugar).
+
+*Heal- Cura alguns status negativos.
+
+*Accumulate- Aumenta ataque físico em mais um ponto. Útil pra você acumular JP e ataque ao invés de dar Wait. 
+
+*Throw Stone- Taca pedra.
+
+*Dash- Investida, é bom pra empurrar o cara no abismo.
+
+*Yell- (restrito pro Ramza) Aumenta a velocidade com um grito. Usado por [[Bernadinho]] (pra você ver, se a seleção brasileira de vôlei é decacampeã, contigo vai ser uma beleza).
+
+*Scream (restrito pro Ramza)- Aumenta a velocidade, o Brave, Speed, mas só do Ramza! Veja só como ele é um fanfarrão!!
+
+*Ultima (restrito pro Ramza)- Magia que demora pra conseguir mas que é horrível na hora de usar.
+
+
+{{C|CORRE SEU FIU DA P***!!!|[[Ramza]] usando Yell}}
+
+=== Chemist ===
+
+Em vez de jogar pedra, joga Potion e outros items. Pelo menos sabe usar uma arma de fogo, além de mexer com umas químicas pesadas, foi instruído por [[Edward Elric]] de [[Fullmetal Alchemist]]
+
+*Potion, Hi-Potion, X-Potion- Poção. Lá pro capítulo 4 todos eles são inúteis: o X-Potion (mais potente) recupera 150 HP, mas aí você já tá com 400 de HP!! (Isso se suas unidades não forem de mage, isto é, forem de ataque como Knights, Monks, Lancers, Samurais). 
+
+*Mais uma porrada de items que cancelam Status negativos- Você quase não os usa, principalmente se conseguir se virar com os benefícios fornecidos pelas classes mágicas (priests, por exemplo). 
+
+*Phoenix Down- O item mais usado. É ele que causa a imorribilidade do [[Ikki de Fênix]]. TODA UNIDADE TEM QUE SABER USAR ISSO, TODA! É LEI! Senão é que nem sexo sem camisinha. 
+
+
+{{C|SEGURA AI SEU VIADO!!!|[[Chemist]] jogando um Potion}}
+
+=== Archer ===
+
+Adoram se dependurar em telhados e outros lugares inacessíveis para te encher o saco, sempre arrancam um puta [[HP|Life]] quando no outro time, mas no teu time são inúteis... Para melhor eficiência, sempre os coloque em lugares altos e lhes dê arcos, não crossbows. Use acumulate pra aumentar o At. Porém, conforme avança o jogo, eles vão se tornando meio que inúteis. 
+
+*Charge +1 até +50- Quanto mais você carrega, mais forte fica. E só.
+
+
+{{C|PEGA ESSA SEU FILHO DA PU**!!!|[[Archer]] usando Charge 50}}
+
+=== Knight ===
+
+Só sabem atacar de perto, e quebrar armas, portanto são inúteis—se você for um otário, no mínimo. Knights são uma boa classe, mas realmente são superados pelos Monks e Lancers. Se bem treinados, arrancam por volta de 700 pontos de HP. E experimenta equipar bem a unidade. O puto simplesmente não morre, dá guarded toda hora. 
+
+
+*Break Armor, Shield, Helmet, ''Penis''- Quebra as armas e equipamentos. É bom pra usar naquelas batalhas contra o Gaffgarion (dá um broke na espada dele e acaba aquela putaria de Night Sword).
+
+=== Priest ===
+
+Alguns bispos que você sequestrou da Universal, adoram ficar rezando o tempo todo (e não fazem mais nada). Só serve mesmo pra tacar a Holy que faz um puto dano. Comparado ao Chemist é bem melhor, porque não precisa gastar dinheiro pra comprar item.
+
+*Cure 1, 2, 3, 4- Cura, mais útil que Potion, já que pode recuperar mais HP.
+
+*Raise- Levanta unidades mortas <s>e até seu pênis, se você precisar</s>.
+
+*Regen- Passa um talco nas tuas unidades. É semelhante ao Move-HP-Up, mas é temporário.
+
+*Reraise- Invoca le anjo da guarda. Se você morrer, você levanta depois automaticamente. Se pelo me engano é a habilidade mais cara dessa porra. 
+
+*Protect/Shell 1, 2; Wall- Diminui dano, você usa quando o inimigo ainda está longe ou quando você quer dar JP pro Priest.
+
+*Esuna- Cura quase todos os Status negativos.
+
+*Holy- Única magia agressiva: mesmo se seu Priest for novato, ela causa um baita estrago.
+
+=== Wizard ===
+
+"''Feel my wrath, mothafucker!''" A classe mágica mais foderosa de todos a série, a mais amada pelos [[Satanista|RPGistas]] por usar [[Macumba|MAGIA <s>ROSA</s> NEGRA]]! É uma das classes mais chatas dar MASTER (dominar todas as habilidades) junto como Priest, o Oracle e o Summoner (Claro classe inútil, demora 2 anos para soltar uma magia, dando tempo do inimigo dar um tiro bem no meio da testa) e morre com 1 golpe só, encostou morreu.
+
+*Fire/Ice/Thunder 1, 2, 3, 4- Fogo, Gelo e Trovão. Só servem pra colocar de habilidade secundária e quando você pega todos os níveis você já tá de saco cheio dessa classe.
+
+*Flare- Fire melhorado, faz mais dano que Fire 3, e 4 até.
+
+*Frog- Transforma o alvo em sapo! Bem útil para sacanear aquele cavaleiro chato que só sabe esquivar.
+
+*Death- Isso aí meu filho! Mata na hora, mas tem pouca porcentagem de sucesso. Só use se a vitória for garantida, se não no próximo turno o oponente te come com farofa.
+
+*Poison- Venenex de rato in your veins pela magia. 
+
+
+{{C|Azarath-Metrion-Zinthos!!!|[[Wizard]] apelando na Magia}}
+
+{{C|Wu mu bu gha fei di tao!|[[Tio]](do desenho Jackie Chan) apelando na Magia}}
+
+=== Monk ===
+
+Monges que sabem dar [[Tiger Robocop]], [[Tsa Tsa Tsuge|apretétchugen]] e [[Alex Full]], quando bem evoluídos, essa classe chega a ser a suprema, tão [[OVERPOWER]] quanto o próprio Orlandu porque para realizar suas habilidades não gastam MP nem Gil. Servem como terapeutas, já que os golpes consistem em mexer nos vasos sanguíneos, no Chi, enfim papo de acuputura pra você gastar dinheiro e ter agulhas no teu corpo. É uma classe um pouco chata já que não usa capacetes e como todo mundo dá espadada na cabeça.... Devia se chamar Mongo...
+
+*Spin Fist- Dá um soco e gira. Pega 4 inimigos de uma vez.
+
+*Wave Fist- Dá um soco que pega de longe.
+
+*Earth Slash- Dá um soco, que pega quantos inimigos puder em linha reta—esse golpe... É do caralho. 
+
+(VOCÊ JÁ PERCEBEU QUE AS HABILIDADES CONSISTEM EM SOCO, ISSO PORQUE OS GRÁFICOS DO PS1 SÓ PERMITIAM ESSE TIPO DE ANIMAÇÃO)
+
+*Secret Fist- Mexe nos pontos de vida do advesário deixando em Death Sentence.
+
+*Chakra- Mexe nos vasos sanguíneos recuperando HP e MP sem gastar nada!! Por isso é uma classe sub-overpower.
+
+*Revive- Traz o amigo de volta a vida com um grito.
+
+
+{{C|Éh MiÓhh tu Revivêh seu LazaRêntU, sÍ nAum Te pEgo nù inFerNo Fíhh duma Púhh!!|[[Monk]] sobre Qualquer <s>[[Noob]]</s> player que morreu}}
+
+=== Thief ===
+
+[[Corinthiano|Ladrões pé-rapados]] que adoram roubar seu coração. Tem diploma de pilantragem pelo [[Brasília|Planalto Central Universidades Integradas]]. Só servem mesmo pra roubar os itens secretos do jogo pra fazer o 100%. Aumente o speed dessas unidades e você serás o rei do despojo. 
+
+*Steal todos os equips- É assim que você pega os itens secretos.
+
+*Steal Heart- Joga um charme, xavecão e <s>pega as vadia tudo</s> coloca o adversário no seu grupo por um tempo. Só pode ser feito no sexo oposto. Essa habilidade é complexa: não funciona em nenhum chefe, esteja ele equipado com o item anticharme ou não.
+
+*Steal Exp.- Por algum método estranho ele consegue roubar experiência.
+
+*Steal Gil.- Furta sua carteira.
+
+
+{{C|Por favor, o senhor poderia me dar uma informação?|[[Thief]] roubando sua Carteira}}
+
+=== Oracle ===
+
+Banco de Dados que te enche de status negativos, principalmente se usado em conjunto os caras da sua gangue: Java, PHP, pearl, python e C++. Eles atacam com livros, e não eles não jogam o livro, o livro se abre e joga um vento cortante no alvo (??). Eles ainda podem usar um bamboo <s>e enfiar no seu cu</s> e te arrancar alguma energia significativa. 
+
+*Quase todas as Habilidades- Jogam Status negativos, também só serve pra secundária.
+
+
+{{C|Eu amo essa classe, não sei porque me identifico tanto com ela...|[[Bill Gates]] sobre Oracle}}
+
+=== Time Mage ===
+
+Discípulos de [[Moebius]], portanto sabem viajar no tempo e matar o oponente antes da luta começar. Também tem a habilidade de mudar o FPS do jogo de 3 para 13 FPS, dando ''overclock'' no hardware do PSOne. Também são fodões no ataque... Mágico. Se forem os seus principalmente, basta uma porrada de um knight inimigo e se escafede. 
+
+*Haste/Slow 1, 2- Aceleram ou lerdeiam o alvo.
+
+*Stop- para o alvo. Ele fica que nem státua. Até ele voltar ao normal você já pegou os itens deles/matou os capangas/achou a arma secreta.
+
+*Float- Deixa o alvo flutuando. Útil para quando tem que atravessar um rio perigoso ou um desfiladeiro.
+
+*Reflect- Cria um colete à prova de magia.
+
+*Meteor- É uma das melhores habilidade. Demooora que é uma beleza, mas quando lança é uma maravilha. Reza a lenda que os dinossauros foram mortos com isso. 
+
+=== Lancer ===
+
+Ex-atletas campeões no salto com vara, porém aqui eles saltam sem a vara, mas com lanças. Esse é o Skill: [[Super Mario|pula e pisa no alvo]]. Os LANCERS também são conhecidos por sua covardia, quando eles pulam (e demoram pra voltar...) e comum que seus amigos nem estejam mais lá... E eles nem ligam... Tem um ataque e HP bom pra raio, melhor que o dos kinghts. 
+
+*Jump Horizontal/Vertical +1 até +10- Quanto maiores os valores, mais distante/alto ele pula. É um saco pegar todos.
+
+{{C|FALO AI OTÁRIOS!!!|[[Lancer]] usando Jump}}
+
+=== Geomancer ===
+
+Invocam o poder daquelas árvores do [[Mortal Kombat]]. Faz uma participação no [[Final Fantasy XXII]]. Mas quando um personagem aparece assim é para te dar trabalho, é sempre assim... Bom pra usar no começo do jogo. São mais básicos e baratos que os Knights, podendo usar itens de Squire mesmo. Eles parecem hippies, falam de natureza, tocam violão e aparentemente fumam maconha, além de parecer desnutridos.
+
+*Elemental- Todos os poderes são de usar o terreno com um poder específico: areia deixa cego, neve deixa silenciado e por aí vai.
+
+=== Mediator ===
+
+Dizem que essa classe é inútil. Na verdade, podem causar um estrago desgraçado de bom, manipulando os níveis de Brave e Faith. Um negociador, pro caso de você não querer perder seu tempo com seres inúteis. DEVE usar arma de fogo, dar-lhes facas é sacanagem. Ironicamente, a classe que tem como skill o dialógo, é uma das que usam armas... São raros. Dificilmente você encontra um desses por aí. 
+
+[[Arquivo:Atira então sua bicha.jpg|thumb|left|150px|Um ''[[Chefão|Boss]]'' pronto pra morrer com dignidade...]]
+
+Talk Skill- Cada dialógo é para determinados fins. Serve tanto pra tua turma quanto pra turma inimiga.
+
+*Invite- Convida o adversário pra sua equipe com [[Suborno|um bom argumento]].
+
+*Persuade- Faz com que a unidade em questão dispense sua rodada.
+
+*Negotiate- Pega o dinheiro com uma conversa de horário político.
+
+*Praise e Preach- Aumenta Bravura e Faith. 
+
+*Threaten e Solution- Baixa Bravura e Faith.
+
+*Death Sentence- Condena á morte.
+
+*Insult- Xinga sua mãe e de tá status berserk.
+
+*Mimic Dravon- Te põe pra dormir, contando historinhas da Disney ou da [[Stephanie Meyer]].
+
+=== Summoner ===
+
+Pais de Santo que invocam seres bizarros, como o [[Faustão]], a [[Dercy Gonçalves]], o [[Agar Torres]], a [[Cilene]] ou os arroz-de-game como o [[Bahamut]], Ifrit, Shiva e até o <s>google</s> Moogle como não poderia deixar de ser em algum Final Fantasy. O mais fodão é a [[Flora Pereira da Silva|Flora]], que chega matando todo mundo. É outra classe que é <s>um saco</s> '''IMPOSSÍVEL''' de dar Master já que os monstros são um baita JP de distância, além de mesmo que você aprenda tudo que tenha na lista, ainda vai faltar uma summon secreta que você só consegue se conseguir uma série de eventos secretos e derrotar o chefe secreto no labirinto secreto da torre secreta que tem passagens secretas a cada andar.
+
+*Summon- Evoca os monstros.
+
+{{C|Adabindu-bababi-tundun-firófi-zumzum|[[Summoner]] evocando Bahamut}}
+
+=== Samurai ===
+
+Guardiões feudais que adoram picotar papel. São os mestres em [[Blitch|libertar o espírito]] da [[Katana]], mas elas podem quebrar depois. Então eles tem a mania de detonar espadas de 70000 [[Gil]].
+
+*Draw Out- Pegue uma Katana e a use: pode sair qualquer coisa, desde cura até o ''Rita-Mitsubishi''. Mas se quebrar fodeu, aí vai ter de comprar umas 6 Katanas do mesmo tipo, porque se quebrar e não tiver mais no estoque danou-se...
+
+=== Ninja ===
+
+Você viu algum? Então ele já te matou, trouxa! Não é a melhor classe do jogo, mas tem a MELHOR habilidade do jogo: Two Swords (técnica overpower) (mata praticamente qualquer coisa com 1 ataque, mesmo estando praticamente do outro lado do mapa). Faça uma equipe com todos como Ninja e você detonará o jogo em 30 minutos. 
+
+*Throw- É que nem Chemist, mas taca arma. Só assim que você pega as armas secretas da Deep Dungeon.
+
+=== Calculator ===
+
+Um nerd que te ajuda a calcular seus golpes, já que você é vesgo e burraldo. Outra classe overpower, mas lenta pra caralho. Só é bom se você dar Master em um monte de classe Mágica, se não você só vai tacar magia podre.
+
+*Math Skill- Calcula a magia e faz automaticamente. Isso mesmo sem carregar!! Mas nem todas as magias são assim...
+
+Aqui vai uma dica de como as magias de Calculator funcionam:
+x + y² = y + 666³. 24¹: x Ø + 9 * w = E=MC²
+
+Se você conseguiu entender então com certeza vai ter um Calculator no seu grupo! Se não, é melhor voltar para a 4º série... Ou faz como a maioria dos players mesmo: Põe qualquer coisa e manda ver!
+
+=== Dancer ===
+
+Pra [[Suruba|alegrar]] os soldados após a batalha! Funciona contra a turma adversária, dando-lhes status negativos, como necrose peniana, diarreia, hemorroidas, por aí vai. 
+
+*Dance-  Ela dança e os adversários ficam <s>babando</s> com Status Negativo.
+
+=== Bard ===
+
+Esse é para as soldadas, afinal todos são filhos de [[Deus]]! Na verdade, esse funciona apenas pra tua turma e te enche de status positivos. É a contraparte da Dancer.
+
+*Sing- Canta músicas de verdade, não Emocore e dá Status positivo pros aliados.
+
+=== Mime ===
+
+Inútil que só sabe imitar os outros. Típica coisa fodônica de se conseguir que é uma [[merda]] pra usar.
+
+*Mime Skill- Um saco, até você aprender a usar você já fica de saco cheio dele.
+
+== História ==
+
+A história se passa na [[Acre|"terrinha de nós todos"]] chamada Ivalice, Depois da 50" Year War (A guerra dos Trocentos anos).
+com a morte do líder dos Hokuten, Balbanes Beoulve e então a guerra acabou.
+Mas o reino foi judiado pela Guerra dos Trocentos anos, que matou uma pá de gente. Essa guerra acabou graças a Orlandu, também conhecido como T.G. Chuck, que deu um Roundhosekick em todo mundo. Eis que os nobres começaram a brigar pra ver quem ficaria com a Ambev. Mas todos querem a Ambev e seu suprimento infinito de breja, então começou uma outra guerra, conhecida como Lion War, e o Ramza entra de gaiato no navio, e descobre que tem toda uma treta da Igreja Universal pra dominar o mundo, usando as prédas do zodíaco para virarem Cavaleiros do Zodíaco!
+Ramza passa a ser caçado feito um animal pela a Ambev, depois pensou que envolvendo mais gente ele fosse esquecido, mais foi o contrario, fodeu todo mundo...com areia!!
+
+== Personagens ==
+
+* '''Ramza''' - É irmão dos dois idiotas que começaram a guerra. É burro que nem uma porta, sempre está no lugar errado na hora errada! Após descobrir toda a trama da Universal, passa a ser perseguido por [[Papa Bento XVII]](isso mesmo XVII porque só no futuro que vamos ter magia negra), que pretende exorcizá-lo. Alguns dizem que ele é gay, mas na verdade ele pega a própria irmã. Detalhe: caso você não tenha notado, esse neguinho aí que é o personagem principal
+
+* '''Delita''' - Era o melhor amigo do Ramza, mas um personagem aleatório (exatamente, poderia até ser o Ramza de a Shitsoft quisesse) mata sua irmã (a qual ele nutria um amor incestuoso, como o de Ramza por Alma) e ai ele decide dominar o mundo por conta própria, esfaqueando quem estivesse no caminho, como Princesas, Amiguinhos, Putas loucas etc...Assim poderia criar a maior fábrica de coadores de café do mundo e ser finalmente um puta de um fodão e acabar com a vida e o negócio do Bill Gates
+
+* '''Zalbag e Dycedarg''' - Os dois irmãos trouxas. Um quer apenas virar rei pra sentar no [[privada|trono]] enquanto o outro quer dominar o mundo e criar uma plantação de crack pra fumar. Dycedard acaba fumando por acidente uma das pedras do satã (adaptadas pra "Zodíaco"), virando um bode verde chifrudo que sabe invocar o Bahamut, mas demora uma década pra invocar. Você dá um pau nos dois e o legado Beoulve vai pro brejo junto com sua masculinidade.
+
+* '''Algus''' - É a primeira aparição de Macaulay Culkin nos video games. Na trama, ele é um riquinho de merda que faz alguma coisa com você lá pelo final do primeiro capítulo. O problema é que eu não posso dizer o que é, porque daí todo mundo ia saber que ele te trai ao sangue frio e mutila toda a sua equipe porque é um bostinha, e ainda manda mata a irmã de Delita.
+
+* '''Alma''' - também conhecida como: fantasma, assombração, etc. É a irmãzinha inocente que o Ramza pega. Só serve pra ficar jogando Mbarrier o tempo todo, já que não sabe nenhuma outra magia decente; a não ser que você queira tentar mutilar ela com um Ultima e ela sobreviver, mas de um jeito ou de outro ela vai continuar usando Mbarrier porque é uma desgraçada.
+
+* '''Wiegraf''' - A princípio, era apenas um [[Corinthiano|ladrão de galinhas]] que queria acabar com os ricos para dar aos [[Gay|pobres]]. Mas a gangue dele, os "corpos da morte"(tradução via [[Google]]), morre, assim como sua irmã (nenhuma irmã sai viva nesse jogo). Em busca de vingança, entra pra igreja universal e consegue uma das pedras do Satã, e se transforma super-foderoso-indestrutível Velius, que você só vai derrotar com GameShark, pois [[Chuck Norris|Orlandu]] só vai entrar no seu grupo mais tarde.
+
+* '''Gafgarion''' - Cavaleiro que se rendeu ao lado negro da força, faz bicos de matador, camelô <s>e também de Gigolô</s>. Resolveu que ia te matar só porque a Agrias preferiu dar pro Ramza em vez dele.
+
+* '''Agrias''' - Dona de uma fábrica de macarrão (como insinua o [[cabelo]]) e super foderosa. Ela resolve te ajudar, pois está na seca há um bom tempo, e não quer saber do velho decrépito do Gafgarion, embora fontes dizem que esta é lésbica e gosta da princesa Ovelha. Ela esconde que deu pro Ramza pra entrar no grupo. Esta num processo contra Orlandu por ter copiado seus golpes (Junto do Gafgarion, da Meliadoul, do Vormav, etc...).
+
+* '''Ovelia''' - Também conhecida como Cabra ou Bode. Ela acha que é princesa, mas na verdade é só uma marionete da Universal porque foi adotada pelo parlamento pra ser sub-filha do Reino da Ivaindo. Daí o Delita "salva/sequestra" ela e se casa com ela, para usá-la de modelo para o Coador de café nº 22.
+
+* '''Mustadio''' - Meio-irmão do [[Steve Seagal]], sabe usar armas que paralisam os inimigos e até transformam em pedra (de plástico). Ao contrário do idiota do Ramza, já sabia dos esquemas da Universal antes de todo mundo, então se alia a você pra não virar churrasquinho do Papa Bento XVII.
+
+* '''Draclau''' - Um dos bispos da Universal, te faz de trouxa pra entregar as pedras do Satã pra ele, mas aí Mustadio entra no seu grupo e deixa o Draclau com cara de bobo. Para se vingar, usa uma das pedras para virar o [[João Gordo]] e tentar te matar com seu peido tóxico, mas não adianta nada, é o chefão mais fácil do jogo, se você morreu nele, tu é um pra nada!
+[[Arquivo:Euricomiranda.jpg|thumb|right|Draclau, após se Satãnizar]]
+
+* '''Zalmo''' - Outro pastor da Universal, resolve exorcizar o Ramza pessoalmente. E é claro, toma uma sova do Ramza e do Delita porque se eles morrerem acaba o Ibope.
+
+* '''Izlude''' - Filho de Vormav. Ele é bonzinho e tem a mente pura, mas ele é mais burro que o Ramza e acha que seu pai é bonzinho, acha que as pedras vão salvar o mundo, então dá uma delas pro Wiegraf, e depois é morto por seu pai transformado no titio Lobo-Satã(Por que o pai ficou Izludindo o filho só pra foder com a vida dele)
+
+* '''<s>Muleque</s> Malak''' - Outro trouxa e inútil, inicialmente é um pentelho do mal que quer traçar a própria irmã (o que Barinten já fez antes dele, hehe), depois vira um pentelho do mal que quer traçar a própria irmã na cara do Ramza (inveja de Barinten). Fez uma ponta recentemente no filme "Tropa de Elite" atuando como "Sementinha do Mal"
+
+* '''Rafa''' - Escrava sexual do Duke Barintem, cansada de liberar para aquela coisa gorda e escrota, ela entra no seu grupo apenas para trazer o Malak de volta pro lado feliz da força. Além disso, ela também serve pra fazer você morrer umas duzentas vezes contra Elmdor, fazendo você ter que dar Load Game toda hora. Depois disso não serve pra mais nada a não ser te atrapalhar na batalha do telhado.
+
+* '''Vormav''' - Pai de Izlude e Meliadoul. Braço direito do [[Papa Bento XVII]]. Resolve ressuscitar um Sub-Capeta com as pedras do Satã. Na verdade ele é o Gilberto Barros disfarçado, o que é comprovado depois que ele se transforma. Ele quer mais é que os filhos se danem porque afinal, um filho [[Gay]] e uma [[Guria retardada|filha tapada]]! Até eu né!? 
+
+* '''Elmdor''' - Cópia descarada versão vampira cafetonizada do [[Sephiroth]]. Um cara que era mais fodão quando era humano. Tinha duas [[RBD|putas pagas]] particulares e ainda tinha poder de Samurai.  Depois que se transforma, vira um inútil com um monte de zumbis inúteis. Mas carrega os itens mais cobiçados pelos ladrões: o Genji set, dito ter sido utilizado por Chuck Norris em pessoa.
+
+* '''<s>Puta 1</s> Celia''' - Como foi dito antes, uma das biscates do senhor "aspirante-à-Sephiroth". Pense numa bixas power, são mais fortes que os chefões praticamente invenciveis pois suas tecnicas causam 100% de acerto nem adianta escapar delas a não ser por você ter roubado o gigolet da alma que anula esses ataques. Depois que você mata ela, dá pra reparar que é na verdade um Ultima Demon. O que torna o Elmdor um [[Zoofilo]]
+
+*'''<s>Puta 2</s> Lede''' - A outra puta do Elmdor. É a mais gostosa e poderosa do jogo, pois lança o inimigo a uma grande distancia só com um braço e é a única assassina que tem ailure (charme fatal das raparigas). Como a Celia, ela é um Ultima Demon que é abusada pelo nosso amiguinho Sephiroth DIGO...Elmdor
+
+* '''Olan''' - filho adotado de [[Chuck Norris|Overpower Orlandu]]. Um cara que tem o poder de fazer a terra sair do eixo (Galaxy Stop) e rodar na velocidade do som. Lógico, todo mundo fica doidão e com status (Stop, Don't Act e Don't Move) depois disso; e por causa dessa blasfêmia, acaba queimado na fogueira quando o jogo acaba (E foi queimado com razões justas!!).
+
+* '''Meliadoul''' - filha de Vormav. Acha que você é do mal, então resolve te matar. Mas aí ela vê o Elmdor monstrengo portanto desiste de ter orgasmos usando as pedras do Satã. Daí resolve se aliar a você, afinal também estava na seca a algum tempo.
+
+* '''Overpower Orlandu (T.G. Cid)''' - Na verdade, ele é Chuck Norris disfarçado, em uma de suas viagens temporais. Uma vez que ele entra em seu grupo, nem mesmo o Papa pode contigo!
+
+* '''Worker 8''' - Um robô de uma época antiga. (Peraí, robô devia ser do futuro!) Ele entra no grupo para derrotar a Dako e provar superioridade da Brastemp.
+
+* '''X''' - Outro da época antiga, vem para foder o Worker 8 pois o dito cujo é criação de [[Doutor Willy]],E também por estar contaminado pelo [[Aids|Sigma Vírus]].
+
+* '''Zero''' - Fiél escudeiro de X, esse veio só para pegar as garotinhas da série, já que a Capcom já não tinha mais criatividade para fazer outras putas pra ele.
+
+* '''Beowulf''' - Ex-Shrine Knight (os caras tipo: Vormav, Izlude, Wiegraf, caras com paninhos coloridos no corpo). Um cara que surge do nada dizendo que quer te ajudar numa esculhambação nas minas, mas na verdade ele quer pegar um certo dragão, que depois ele consegue transformar em uma mulher de verdade, que acaba sendo sua mulher desde o inicio, mas aí se frustra, porque sua mulher é literalmente: "um dragão". se bem utilizado, é conhecido como sub-overpower, ficando de substituto do Orlandu. Usa várias magias apelativas e costuma transformar as pessoas em galinhas.
+
+* '''Reis''' - A Cafetina-dragão com que Beowulf é casado... primeiro com dragão, depois como Cafetina... o amor é cego mesmo...
+
+* '''Cloud''' - Enfiaram ele no meio do jogo só pros paga-pau do [[Final Fantasy VII]] ficarem felizes. Lógico que ele é um bosta! Prepare-se para matar Chemists, Dragões e Robôs inúteis para descobrir que você não poderá usar as Limit Breaks sem a espadinha secreta, que não causa porra nenhuma de dano! E você só acharia a espada se alguém te contasse que esta no topo da faze de lava(??). Cloud pode se virar sozinho, ele é bem grandinho. Dispense-o. 
+
+* '''Allejo''' -(a lenda dos 8 gols por partida) A Square Enfiou o canarinho no jogo por causa do assédio dos fãs. É o único que pode deixar os inimigos em "Lesionado" com a sua foderosa técnica "[[Round House Kick|Fuorte Bomba!]]".Além disso, vem com seus dois fiéis escudeiros:Cícero e Beranco.
+
+* '''Sub-Jesus(Ajora(ou Debois))''' - Ele morreu muito antes da guerra dos trocentos anos. Todos o consideram como um santo, mas na verdade ele espera por seu retorno triunfal, então cria a [[Igreja Universal]], para Izludir o povo, enquanto seus bispos reúnem as pedras do Satã(Sim! Pedras do Satã pro Sub-Jesus) para ressuscitá-lo e dominar o mundo. Ele na verdade é o [[demônio]] e o último filho-da-puta do jogo. Que é mais fácil do que os chocobos que você enfrenta na floresta.
+
+==Ver também==
+* [[Final Fantasy Tactics Advance|Final Fantasy Tactics para pirralhos]]
+* [[Cocaína|Pedras magicas]]
+* [[Tactics Ogre]]
+
+{{Final Fantasy}}
+
+[[Categoria:Jogos da Square]]
+[[Categoria:Jogos da Sony Computer Entertainment]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos de RPG]]
+[[Categoria:Jogos de RPG tático]]
+[[Categoria:Jogos lançados em 1997]]
+
+[[en:Final Fantasy Tactics]]
+[[it:Final Fantasy Tactics]]
+[[ja:ファイナルファンタジータクティクス]]

@@ -1,0 +1,56 @@
+{{nota:|Se procura pelo PCC carioca, veja [[Terceiro Comando]]}}
+
+{{computeiro}}
+[[Arquivo:14bis-1-.jpg|thumb|250px|Pacote TCP]]
+O protocolo '''TCP''' ('''''Traffic Control Protocol''''') é um sujeito da camada de transporte de redes, que faz as vezes de um [[drone]] entregador de [[drogas]] em uma penitenciária. Ele é infalível.
+
+== Descrição ==
+
+Ele atua na camada de transporte da rede, que é a camada onde ocorrem as entregas de produtos contrabandeados. Há um outro protocolo na camada de rede chamado [[UDP]], mas esse é um folgado do caramba e não vale a pena falar dele.
+
+Seu correto funcionamento depende do estabelecimento de uma conexão antes de enviar o produto; primeiro o noia liga pro TCP; este, por sua vez, confere o produto, e liga pro noia pra saber se a casa tá limpa; o noia então confirma que tá tudo limpo. Assim, o TCP pode enviar o produto na boa. Essa conexão é chamada de "aperto de mão triplo", uma gíria de [[vagabundo]].
+
+== Técnicas ==
+
+Para que a entrega do produto ocorra da melhor forma possível, o TCP usa umas técnicas de primeira qualidade:
+
+*'''Correção de falhas''': se ocorrer um erro na entrega (algum guarda [[pau no cu]] interceptar a droga antes de cair no pátio), ele já fica sabendo através do contato com o noia;
+
+*'''Recuperação de perda de pacotes''': sabendo que ocorreu uma falha na entrega, ele prepara outro pacotinho e entrega ao noia;
+
+*'''Descarte de pacote duplicado''': se o guarda que interceptou a droga devolver o bagulho pro noia, o TCP imediatamente cancela o envio do novo pacotinho;
+
+*'''Confirmação da entrega''': sempre há um contato de confirmação do recebimento do produto por parte de noia;
+
+*'''Transferência Full-Duplex''': o noia também pode realizar entregas pelo drone para o próprio TCP.
+
+== Cabeçalho ==
+
+Como o itinerário do TCP é muito confuso sobrinho, ele precisa de um mapa de entregas. A gente sabe que é muita prisão pra ele visitar e entregar produtos, por isso ele depende desse passo a passo. Esse passo a passo é chamado de cabeçalho do protocolo.
+
+O cabeçalho do TCP é absurdamente [[gigante]], não sei como o TCP não tem um treco com isso. Esse cabeçalho é formado pelos seguintes itens:
+
+*'''Porta de origem''': local de onde sai o drone;
+
+*'''Porta de destino''': a cadeia que o drone irá visitar;
+
+*'''Número de sequência''': o endereço da cadeia que o drone visitará;
+
+*'''Número esperado''': no caso de muitas entregas para uma mesma cadeia, esse é o número da entrega do bagulho posterior;
+
+*'''Informe do bagulho''': informa o tipo do produto a ser entregue;
+
+*'''''Flags''''': em caso de algum evento inesperado, identifica o evento. Se o bagulho for interceptado recebe uma identificação, se o bagulho for capturado por um pelicano durante o voo, recebe outra identificação, e assim por diante.
+
+*'''Janela''': é uma amostra grátis do produto, no caso que o drone só tá fazendo propaganda do produto para os outros [[Bandido|pebas]];
+
+*'''''Checksum''''': detector de erros, identifica o problema ocorrido no caminho e registra, para que não ocorra mais isso, senão o protocolo TCP inteiro pode ser colocado dentro de uma pilha de pneus no morro e ser queimado vivo;
+
+*Outras coisas menos importantes: ponto final, que descreve o peso do produto; campo extra para anotações; entre outros.
+
+== Ver também ==
+
+* [[Camada de transporte]]
+* [[Modelo OSI]]
+
+[[Categoria:Protocolos de rede]]

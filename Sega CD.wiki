@@ -1,0 +1,72 @@
+[[Arquivo:Sega CD Mark 1.jpg|thumb|Sega CD, a forma mais primitiva de camuflar um console que só funciona a base de cartucho]]
+
+{{vqd|Gramofone}}
+{{c|Iszo non ecziste!!|[[Padre Quevedo]]|Sega CD}}
+{{c|Na União Soviética, o Sega CD é que demora um ano para carregar '''VOCÊ!!!'''|Reversal Russa|Sega CD|}}
+
+O '''Sega CD''' foi um videogame criado pela [[Sega|Cega]], a mesma que criou o [[Windows Vista]] para competir com o Pay$tation, da [[Sony|Somy]] e o [[Xbox|V-cube]] da Micosoft.
+
+== História ==
+[[Arquivo:The third world war capa mega cd.jpg|thumb|Jogo totalmente excelente do console.]]
+Após o lançamento do [[Master System]], a Cega queria fazer algo tão revolucionário quanto o Atari. Quer dizer, começar a fazer jogos em CDs para que, quando um estragar, venda outro <s>para lucrar mais</s> . Então, depois de [[mais de 8000]] anos de nada, eles criaram o "Cega 64 Power". Mas os discos eram pequenos demais e, ainda por cima, baratos. Então, a Cega reuniu seus <s>escravos contrabandeados de algum lugar da Ásia</s> trabalhadores folgados e resolveu criar o Merda CD.
+
+== Código ==
+[[Arquivo:SEGACDBIOSm.jpg|thumb|Após apertar o Start, são três horas nessa tela de boot...]]
+[[Arquivo:SEGACD.jpg|thumb|170px|O Cega CD em operação.]]
+
+O código fonte da BIOS do Cega CD foi aberto ao público 3 minutos depois do lançamento, numa tentativa da Cega de alguém melhorá-la. Veja o código fonte da BIOS do Cega CD versão 1.0.543.243534551.54231 build 666, extraído diretamente da pagina da Cega:
+ Class CegaCD
+ num um tempão;
+ um_tempão := 3000x3000xdata //data=Quantidade de dados no cd em MB 
+ num data;
+ data = null
+ Ao(ligar_console);
+ {
+ reproduzir.músíca(loading.mid);
+ reproduzir.sequencia(loading.csf); //CSF = Cega Sequency Format
+ do;
+ Se cd_dentro = true
+ goto read;
+ loop;
+ :read
+ data = ler.cd(Espaço_usado;1x);
+ esperar (um_tempão);
+ paralelo
+ Se (usuário -> ficar_irritado)
+ {
+ dá (mensagem de erro);
+ Senão
+ (Ativa -> sequencia_de_autodestruicao);
+ /paralelo
+ ler.cd(tudo;1x)
+ executar rodarjogo.cbs; //CBS = Cega Bios Script
+ executar sonicnao.cbs;
+ verificar CEEEEEEEEEEEEGAAAAAAAAAAA.ym; //YM = Yamaha Sound
+ Porcaria.nenhuma = true 
+ Pifar -> exit 
+
+== Jogos ==
+[[Arquivo:Aiwamegacd.jpg|thumb|Um Merda-CD compacto.]]
+* [[Sonic CD|Çoniqui CD]]
+* World Domination 99
+* Cocô na casa da Pedrinho
+* Space Invaders
+* GTA: Favela da Rocinha
+* Super {{USERLINK}} Bros!
+
+Lista enorme, não?
+
+== Ver também ==
+* [[Sega]]
+* [[Mega Drive]]
+* [[Sega 32X]]
+* [[Sonic the Hedgehog]]
+* [[WonderMega]]
+* [[Sonic CD]]
+* [[Night Trap]]
+
+{{Mega Drive}}
+{{sega}}
+{{consoles}}
+
+[[Categoria:Jogos eletrônicos]]

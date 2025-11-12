@@ -1,0 +1,24 @@
+{{Infobox empresa
+|nome_empresa   = CEBRASPE
+|razao_social   = 
+|imagem         =Centro-de-selecao-e-de-promocao-de-eventos-cespe-original.png
+|imagem_largura =150px
+|imagem_legenda = Simbolo do CESPE
+|tipo_empresa   = Organização social
+|gênero         =
+|ramo_atividade = Promoção de <s>provas 3 por 1 milhão!!</s> eventos
+}}
+O '''Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos''' ou '''Cebraspe''' (antigo '''Cespe''') é uma organização que organiza alguns dos exames de seleção mais concorridos, como o [[Exame Nacional do Ensino Médio|ENEM]] e provas de [[concurso público]] em geral, quando a mesma é selecionada. É uma banca conhecida por manter critério dúbio de avaliação e também pelo modo tosco de prova, onde o aluno não precisa aprender, mas tem que aprender a decorar ao máximo, já que uma questão errada anula uma questão certa.
+
+==História==
+A empresa surgiu em 1990, como uma forma de castigo aos alunos que conseguissem a proeza de ir mal nas provas da [[Universidade de Brasília]]. Como castigo, eles ganhavam um contrato de estágio não remunerado com a organização. Então os estudantes descontavam corrigindo provas com a mesma habilidade de um estagiário.
+
+Para dar aquela arejada na "marca", o Cespe mudou de nome, coincidentemente após a divulgação de mais uma de suas vendas de resultados de provas, algo considerado normal e corriqueiro, segundo a instituição. Na mudança, foram acrescentados uma caralhada de outros termos de efeito no antigo nome, que passou de '''''Centro de Seleção e Promoção de Eventos''''' para '''''Centro Brasileiro de Pesquisas''' na Wikipedia, [[Manja-Rola|'''{{color|#252525|Avaliação}}''' de Rôlas]] '''e Seleção''' daqueles que forem melhores, com '''Promoção''' de frutas e verduras '''e Eventos''' raves''. Apesar de terem mudado de nome, todo mundo continua chamando pela antiga sigla, '''Cespe''', pois ela continuou com as mesmas práticas que a consagrou nas delegacias de Polícia.
+
+==Principais trabalhos==
+{{principal|[[Pérolas do ENEM]]}}
+
+Além de todo ano produzir pérolas do ENEM, os avaliadores ainda realizam provas onde os candidatos podem negociar com alguém da banca algum bom, bastando para isso apenas pagar ao um dos ''representantes autorizados'' da empresa.
+
+[[Categoria:Organizações]]
+[[Categoria:Títulos realmente longos]]

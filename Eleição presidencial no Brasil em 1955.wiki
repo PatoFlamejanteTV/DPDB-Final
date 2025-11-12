@@ -1,0 +1,102 @@
+[[Arquivo:Getúlio e Juscelino.png|thumb|Sabe esses políticos que ficam usando a imagem de um defunto para conseguir votos devido isso? Foi aqui que isso começou!]]
+
+A '''eleição presidencial brasileira de 1955''' foi a décima-sexta eleição presidencial e a décima-quarta direta. Essa eleição acabou por ser resolvida quase que na base da bala, graças ao [[Movimento de 11 de Novembro]], um movimento que impediu que uns golpistas maus perdedores da [[UDN]] inventassem de tentar roubar a presidência pra eles. Se tivessem conseguido, provavelmente ninguém saberia a existência da tal de [[Brasília]].
+
+== Clima pesado e candidatos ==
+
+Com o [[suicídio de Getúlio Vargas]] e a sua [[Carta-testamento de Getúlio Vargas|carta-bomba]], o clima ficou bem fodido pros chorões da UDN, tanto que boa parte sumiu por uns meses do [[Brasil]]. Só que as eleições se aproximavam, e eles não iriam simplesmente deixar tudo de boinhas pro PSD e pro PTB fazer o que queriam.
+
+E aí começou os movimentos de candidaturas. O PSD decidiu fazer sua velha aliança com o PTB, sendo assim pra presidente seria o governador de [[Minas Gerais]] Juscelino Kubitschek do PSD, e como vice presidente o ex-ministro do trabalho de [[Getúlio Vargas]], o João Goulart (Jango), do PTB. Mas a galera sabia que o Jango, quando ministro do trabalho, decidiu do nada aumentar o [[salário mínimo]] (que na época eram 2 [[Cruzeiro (BRZ)|cruzeiros]]) em 100% (indo pra 4 cruzeiros). Isso acabou por deixar a negada puta com ele, e aí ele passou a ser [[persona non grata]] pra sempre, já obviamente chamado de [[comunista]] (porque até hoje quem se importa com pobre ou é [[padre]] ou comuna...).
+
+Por outro lado, a UDN decidiu se juntar com um monte de partidos (inclusive os [[PSB|Socialistas de Fachada]]) para tentar eleger, adivinha, um milico, o cearense Juarez Távora. E como vice o ex-governador mineiro e rival do JK Milton Campos. Como sabemos, eles perderam, dizem que porque em uma tal passeata política o JK teria prometido realizar uma promessa que aparentemente constava desde a [[constituição brasileira de 1824]] de fazer uma nova capital no meio do país, e aí ele teria ganho só por isso. Mas isso tem mó cara de lenda urbana e papo furado.
+
+Além desses, teve a candidatura do dono do [[Partido Progressista]], ops, [[PSP]] Adhemar de Barros e seu vice Danton Coelho, e o chefinho do Partido Fascista do Brasil, ops, [[Partido da Representação Popular|Partido do Retardamento Popular]] Plínio Salgado (que, como belo nazistinha que era, nem se importou em meter um candidato a vice-presida. Enfim, ele se fodeu bonito).
+
+
+== Eleições mais apertadas da história do Brasil ==
+
+Se nesse tempo tivesse [[segundo turno]], com certeza essa eleição iria parar aqui. Como não tinha... isso causaria uma treta maligna daquelas.
+
+=== Presida da república (foi por um triz) ===
+
+{| border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="3" | Eleição para presidente do Brasil em 1955
+|-bgcolor="#EEEEEE" align="center"
+! style="width: 25em" |Candidato
+! style="width: 5em" |Votos
+! style="width: 7em" |Porcentagem
+|-
+| '''[[Juscelino Kubitschek|Juscelino Cu de Cheque]]''' ('''''[[Partido Social Democrático (1945-2003)|PSD]]''/[[Partido Trabalhista Brasileiro|PTB]]/[[Partido Republicano (Brasil)|PR]]/[[Partido Trabalhista Nacional|PTN]]/[[Partido Social Trabalhista|PST]]/[[Partido Republicano Trabalhista|PRT]]''')
+| align="right" | '''3.077.411'''
+| align="right" | '''35,68%'''
+|-
+| [[Juarez Távora|Juarez Tua Avó]] (''[[União Democrática Nacional|UDN]]''/[[Partido Democrata Cristão (1945-1965)|PDC]]/[[Partido Libertador|PL]]/[[Partido Socialista Brasileiro|PSB]])
+| align="right" | 2.610.462
+| align="right" | 30,27%
+|-
+| [[Adhemar de Barros|Paulo Maluf Original]] (''[[Partido Social Progressista|PSP]]'')
+| align="right" | 2.222.725
+| align="right" | 25,77%
+|-
+| [[Plínio Salgado|Nazistinha Amargo]] (''[[Partido de Representação Popular|PRP]]'')
+| align="right" | 714.379
+| align="right" | 8,28%
+|-bgcolor="#EEEEEE"
+| align="right" colspan="2" | '''Votos nominais'''
+| align="right" | '''8.624.977 (100%)'''
+|-bgcolor="#EEEEEE"
+| align="right" colspan="2" | '''Votos brancos'''
+| align="right" | '''161.852 (1,77%)'''
+|-bgcolor="#EEEEEE"
+| align="right" colspan="2" | '''Votos nulos'''
+| align="right" | '''310.185 (3,40%)'''
+|-bgcolor="#EEEEEE"
+| align="right" colspan="2" | '''Votos apurados'''
+| align="right" | '''9.097.014 (100%)'''
+|-bgcolor="#EEEEEE"
+| align="right" colspan="3" |
+|}
+
+=== Vice (ao menos aqui não foi apertado, mas iria dar mais treta do que você pensou) ===
+
+{| border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|- style="background-color:#E9E9E9"
+! colspan="3" | Eleição para vice-presidente do Brasil em 1955
+|-bgcolor="#EEEEEE" align="center"
+! style="width: 25em" |Candidato
+! style="width: 5em" |Votos
+! style="width: 7em" |Porcentagem
+|-
+| '''[[João Goulart|Jango Parmalat]]''' ('''[[Partido Social Democrático (1945-2003)|PSD]]/''[[Partido Trabalhista Brasileiro|PTB]]''/[[Partido Republicano (Brasil)|PR]]/[[Partido Trabalhista Nacional|PTN]]/[[Partido Social Trabalhista|PST]]/[[Partido Republicano Trabalhista|PRT]]''')
+| align="right" | '''3.591.409'''
+| align="right" | '''44,25%'''
+|-
+| [[Milton Campos|Minto Fazendas]] (''[[União Democrática Nacional|UDN]]''/[[Partido Democrata Cristão (1945-1965)|PDC]]/[[Partido Libertador|PL]]/[[Partido Socialista Brasileiro|PSB]])
+| align="right" | 3.384.739
+| align="right" | 41,70%
+|-
+| [[Danton Coelho|Duto Lebre]] (''[[Partido Social Progressista|PSP]]'')
+| align="right" | 1.140.261
+| align="right" | 14,05%
+|-bgcolor="#EEEEEE"
+| align="right" colspan="2" | '''Votos nominais'''
+| align="right" | '''8.116.409'''
+|-bgcolor="#EEEEEE"
+| align="right" colspan="2" | '''Votos brancos'''
+| align="right" | '''722.674'''
+|-bgcolor="#EEEEEE"
+| align="right" colspan="2" | '''Votos nulos'''
+| align="right" | '''257.931'''
+|-bgcolor="#EEEEEE"
+| align="right" colspan="2" | '''Votos apurados'''
+| align="right" | '''9.097.014'''
+|-bgcolor="#EEEEEE"
+| align="right" colspan="3" |
+|}
+
+== A treta maligna ==
+
+Mesmo o Jango vencendo a vice-presidência com até mais votos que o titular JK, da mesma chapa, a galerinha, em especial o presida dos deputados [[Carlos Luz]], aproveitando-se que o [[Café Filho]] estava dodói e de licença, tentou orquestrar um golpe com a ajuda de seu patrãozinho [[Carlos Lacerda]], para impedir JK e Jango assumirem, mas com a ajuda do marechal [[Henrique Lott]], um caso raro de milico que não era doido por poder, decidiu impedir essa turminha de brincar de foder com a [[democracia]], assim os dois (Carlos e Café) são [[impeachment|impinchados]] do poder e o presida do senado [[Nereu Ramos]] assume e deixa de boa a situação pro JK e Jango assumirem.
+
+{{EleiçõesPresidenteBrasil}}

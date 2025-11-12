@@ -1,0 +1,57 @@
+[[Arquivo:999_Perspective.svg|thumb|Acredite, isso tudo é só 1. Literalmente só o 1.]]
+{{Redirect falso|1}}
+
+'''0,99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999...''' pera, eu já falei quantos [[prova dos nove|noves fora]]? Enfim, esse trambolho todo aí e mais [[quarenta e dez]] e contando [[9|noves]] é um [[número]] que é basicamente uma [[dízima periódica simples]] que pode ser representado como um 0,9 com uma [[underline]] em cima do 9 (ou seja, uma "upline", ou isso...), um 0,9 com um sinal em cima da cabeça <s>do meu pau</s> do 9 ou um '''0,(9)'''.
+
+Ou, um [[1]].
+
+Sim, um 1 = 0,9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999... vai te foder noves!
+
+{{c|Ué, como assim?|Você|uma conta besta de matemática como essa}}
+
+Está chocado com essa descoberta? <s>[[Eu]] também!</s> Mas é fácil de explicar. Espia só aí embaixo nossa aula do [[Telecurso 2000]]!
+
+== Como que descobriram essa paridade? ==
+[[Arquivo:12999.jpg|thumb|Que 12,9999999... = [[13]], é óbvio, porém existe um "segredinho" oculto aí...]]
+Então, pode parecer uma viagem na [[maionese (lugar)|maionese]], mas é relativamente simples como se chegou a essa [[conta de padaria]] doida:
+
+Um belo dia o matemático [[Leonhard Euler]] (o maluco que tem [[Teorema de Euler|um monte de teoremas]] e uma [[Fórmula de Euler para poliedros|fórmula para poliedros]]) não tinha nenhum teorema importante para ficar enchendo o saco de estudantes de [[cálculo]] nem de [[geometria]], e começou a brincar com algumas [[fração|frações]]. Desse modo ele começou a brincadeira com frações de denominador 9, obtendo um monte de dízima periódica assim:
+
+<poem>
+<s>0÷9 = 0,00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000...</s>
+1÷9 = 0,111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111...
+2÷9 = 0,222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222...
+3÷9 = 0,333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333...
+4÷9 = 0,444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444...
+5÷9 = 0,555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555...
+6÷9 = 0,[[666]]666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666...
+7÷9 = 0,[[Raffa Moreira|777]]777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777...
+8÷9 = 0,888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888888...
+</poem>
+
+Daí veio o momento mais insano: e 9÷9, daria quanto?
+
+Você, [[ironia|ótimo estudante matemático]], diria na lata "ué, aí não daria dízima nenhuma, pombas, qualquer número dividido por ele mesmo dá hum <s>tirando [[divisão por zero|dividir zero por zero, claro]]</s>!" E faz todo sentido do mundo, talvez.
+
+Porém não para Euler. O carinha pensou "e por que não aqui dar também uma dízima periódica, ora bolas?" E assim:
+
+9÷9: 0,999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999...
+
+E como deu para qualquer disléxico perceber, essa palhaçada toda criou uma bizarra [[igualdade]], uma estranha [[relação]], uma zoeira no [[rigor]] matemático, uma [[ideia]] matemática ruim, uma [[identidade (matemática)|identidade bizonha]] em que dois [[numeral|numerais]] tão díspares com [[símbolo]]s tão totalmente diferentões quanto 1 e 0,999999999999999999999999999vocêjáentendeuqueénoveparacaralhoné... na verdade são exatamente o mesmo número.
+
+== Outras pirações que isso gerou ==
+
+Então, em [[número decimal|numeração decimal]], isso fez com que diversas dízimas periódicas fossem consideradas não mais "arredondamentos" ou um "[[≅]]" (aproximação, também escrita como =~ ou ≃), um [[~]] (quase equivalência), ou um [[≡]] (equivalência), não não, nada disso, é literalmente um [[=]], uma igualdade mesmo, com um [[número inteiro]].
+
+Assim, 23,9999999999999999999999999999999... na verdade é a mesma merda que dizer o [[24|seu número preferido]] de um jeito mais disfarçado, ou aquilo que qualquer pessoa de bom senso deveria saber ao chegar numa "[[promoção]]" de [[queima de estoque]] em lojas por aí afora e o vendedor mete que a [[geladeira]] que você queria está por 2999,99, e você vai feito um imbecil achando equivocadamente que vai pagar por volta de 2900 reais, e sai de lá puto que gastou bem mais de 3 mil, já que além dos na realidade 3 mil reais pelo refrigerador, você, trouxão, ainda pagou o [[seguro]] que provavelmente cê nem vai usar nunca na sua vida e a loja só oferece essa porra para sugar mais grana dos clientes otários.
+
+Noutras palavras: todo número não-nulo com uma notação decimal finita (ou, equivalentemente, infinitos dígitos "0" à direita) tem uma contrapartida com infinitos "9" à direita. Simplificando: todo número inteiro pode virar um [[número racional]] com uma caralhada de noves após uma vírgula, com o número antes da vírgula sendo o número menos um, mas ao mesmo tempo sendo o próprio número.
+
+== Para que serve isso? ==
+
+Para fazer um monte de [[pegadinha]]s em provas e trollar alunos que não vão se ligar que o [[666|665,9999999999999999999999999999...]] é o número da [[Besta do Apocalipse]]. Tá, na verdade deveria ser [[616|615,999999999999999999999999...]], mas essa aí nem [[tua mãe]] crentelha saberia dizer isso...
+
+[[Categoria:Álgebra]]
+[[Categoria:Aritmética]]
+[[Categoria:Infinito]]
+[[Categoria:Números]]

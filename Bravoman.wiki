@@ -1,0 +1,41 @@
+{{Jogos Antigos}}
+{{Tarja|[[Arquivo:Bravoman-fgtsze_bravoman_pose1.png]]}}
+{{Infobox Game
+|title     = Homem Bravo
+|image     = berabohman-arc_titlescreen.png
+|caption   = Tela de início do Arcade, apenas em japonês, nô?!
+|developer = [[Now Production]]
+|publisher = [[Namco|Manco]]
+|released  = [[1988]]
+|genre     = [[Ação]], [[Comédia]]
+|rating    = 5
+|platform  = Um monte
+|ages      = Tanto faz
+}}
+[[Arquivo:Berabohman-arc berabohman story-anim.gif|left]]
+'''Bravoman''' foi uma tentativa da [[Namco]] de copiar o [[Megaman]] e disputar com a [[Capcom]] a preferência dos [[gamer]]s. Levando em consideração que Bravoman só teve este [[jogo]] produzido e Megaman teve [[mais de 8000]], nem precisa dizer que a tentativa foi extremamente mal sucedida, né?
+==Que raio de jogo é esse?==
+É uma mistura bizarra de [[beat'em up]], [[plataforma]] e [[tiro]]. Como a Namco jamais admitiria ser um [[plágio]] da concorrência, foi divulgado que Bravoman seria uma sátira aos [[tokusatsu]]s, o que gerou um enorme [[fail]], pois agora [[todo mundo]] achava que o jogo seria uma [[cópia]] da série [[Parodius]], da [[Konami]].
+[[Arquivo:Berabohman-arc drbomb-attractmode.gif|left|thumb|O temível vilão dessa tosqueira. Parece [[tua avó]].]]
+Na [[história]], um [[homem]] chamado Arnold Nakamura, que tem a maior [[cara]] de {{Strike|[[otário]]}} [[nerd]], conhece um [[alienígena]] vindo do [[planeta]] Alpha em busca de ajuda contra o terrível Dr. Bomb, um [[cientista louco]] que planeja o [[fim do mundo]] através de uma nova arma criada por ele. Após ser subornado pelo [[alien]] com [[100]] [[iene]]s, Nakamura aceita se transformar no [[super-herói]] Bravoman através de um [[garfo]] biônico e fica igualzinho ao [[Grande Saiyaman]], mostrando novamente a grande criatividade e originalidade deste jogo.
+
+Dr. Bomb, como todo [[vilão]] de [[videogame]], tem um [[exército]] de subordinados malignos que irão enfrentar Bravoman e tentar inutilmente defender seu [[mestre]] do alcance do [[herói]], que irá enfrentá-los ao longo de fases repetitivas que se passam em lugares [[besta]]s como [[aldeia]]s, [[dojo]]s e até mesmo embaixo da [[água]], como se isso fosse muito inovador...
+==Recepção==
+Apesar do seu fracasso nos videogames, Bravoman conseguiu cativar um pequeno grupo de [[pessoa]]s {{Strike|com mau gosto}} que se tornaram [[fã]]s e resolveram expandir o [[universo]] do [[personagem]], produzindo de forma independente uma série em [[quadrinhos]] e um [[desenho animado]] lançados via [[internet]]. Essas [[porcaria]]s continuam na ativa até [[hoje]], e o [[desenho]] inclusive conta com um elenco de [[subcelebridade]]s atuando como [[dublador]]es. 
+
+Alguns personagens de Bravoman também apareceram no game [[Namco X Capcom]], mas só para tapar buraco mesmo, já que a Capcom tem bem mais franquias bem sucedidas, então a Namco teve que apelar para esses [[figurante]]s se não quisesse [[ficar]] desfalcada perto da outra [[empresa]].
+==Screenshots==
+<gallery>
+imagem:berabohman-arc_s02_vsblackbravo.png|Bravoman dando um [[soco]] no [[Darkseid]], que faz uma participação especial.
+imagem:berabohman-arc_s02_lotteryman-endofstage.png|Não sei ler em [[japonês]].
+imagem:berabohman-arc_s03_001.png|Bravoman no mundo de [[Ecco the Dolphin]].
+</gallery>
+{{Beatemup}}
+{{MAN}}
+
+[[Categoria:Jogos da Now Production]]
+[[categoria:Jogos da Namco]]
+[[categoria:Jogos para Arcade]]
+[[categorIa:Jogos para TurboGrafx-16]]
+[[categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos lançados em 1988]]

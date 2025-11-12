@@ -1,0 +1,80 @@
+{{Vqd|Libertadores de 1960|{{PAGENAME}}}}
+{{C|Muito fácil!|Real Madrid|{{PAGENAME}}}}
+{{C|Esse ano não deu, mas no próximo vai dar!|Milan|{{PAGENAME}}}}
+
+A '''{{PAGENAME}}''' foi um torneio mixuruca de [[Futebol|Hóquei na grama sem patins e com bola]] criado pela UI-EFA só pro Real Madruga ficar acumulando mais e mais troféus. Como não era moda na época ter um torneio desse tipo, eles só colocavam os campeões das ligas só de alguns países (Incluiram até [[Sarre|um país que só tinha um time na liga]] e acabaram excluindo [[Inglaterra|outros]]).
+==Primeira fase==
+{|class="wikitable"
+|-
+!Time 1 !! Total !! Time 2 !! 1º Jogo !! 2º Jogo
+|-
+|[[Arquivo:Bandeira de Portugal.png|20px]] [[Sporting Clube de Portugal|Ixxportin]] || 5-8 || '''[[FK Partizan|Partiram]]''' [[Arquivo:Bandeira da Iugoslavia.png|20px]] || 3-3 || 2-5
+|-
+|[[Arquivo:Bandeira da Hungria.png|20px]] '''[[Vörös Lobogó|Vämös logó]]''' || 10-4 || [[Anderlecht|Ando lento]] [[Arquivo:Bandeira da Belgica.png|20px]] || 6-3 || 4-1
+|-
+|[[Arquivo:Bandeira da Suiça.png|20px]] [[Servete FC|Sorvete de Genebra]] || 0-7 || '''[[Real Madrid|Real Madruga]]''' [[Arquivo:Bandeira da Espanha.png|20px]] || 0-2 || 0-5
+|-
+|[[Arquivo:Bandeira da Alemanha.png|20px]] [[Hot-Weiss Essen|Esse uísque tá quente]] || 1-5 || '''[[Hibernian F.C.|Ursos polares]]''' [[Arquivo:Bandeira da Escócia.png|20px]] || 0-4 || 1-1
+|-
+|[[Arquivo:Bandeira da Suecia.png|20px]] '''[[Djurgården|Jardim do João]]''' || 4-1 || [[Gwardia Warszawa|Guardas da URSS]] [[Arquivo:Bandeira da Polonia.png|20px]] || 0-0 || 4-1
+|-
+|[[Arquivo:Bandeira da Dinamarca.png|20px]] [[AGF Aarhus|Nome WTF??]] || 2-4 || '''[[Stade de Reims|Estátua do Reich]]''' [[Arquivo:Bandeira da França.png|20px]] || 0-2 || 2-2
+|-
+|[[Arquivo:Bandeira da Austria.png|20px]] '''[[SK Rapid Wien|The Flash]]''' || 6-2 || [[PSV Eindhoven|Peça de Entrada (ui!)]] [[Arquivo:Bandeira dos Paises Baixos.png|20px]] || 6-1 || 0-1
+|-
+|[[Arquivo:Bandeira da Italia.png|20px]] '''[[Milan|Á Milanesa]]''' || 7-5 || [[1.FC Saarbrücken|Time sem artigo, bandeira e país]] || 3-4 || 4-1
+|}
+
+==Quartas de Final==
+{|class="wikitable"
+|-
+!Time 1 !! Total !! Time 2 !! 1º Jogo !! 2º Jogo
+|-
+|[[Arquivo:Bandeira da Suecia.png|20px]] [[Djurgården|Jardim do João]] || 1-4 || '''[[Hibernian F.C.|Ursos Polares]]''' [[Arquivo:Bandeira da Escócia.png|20px]] || 1-3 || 0-1
+|-
+|[[Arquivo:Bandeira da França.png|20px]] '''[[Stade de Reims|Estátua do Reich]]''' || 8-6 || [[Vörös Lobogó|Vämös logó]] [[Arquivo:Bandeira da Hungria.png|20px]] || 4-2 || 4-4
+|-
+|[[Arquivo:Bandeira da Espanha.png|20px]] '''[[Real Madrid|Real Madruga]]''' || 3-1 || [[FK Partizan|Partiram]] [[Arquivo:Bandeira da Iugoslavia.png|20px]] || 4-0 || 0-3
+|-
+|[[Arquivo:Bandeira da Austria.png|20px]] [[SK Rapid Wien|The Flash]] || 5-1 || '''[[Milan|Á Milanesa]]''' [[Arquivo:Bandeira da Italia.png|20px]] || 1-1 || 2-7
+|}
+
+==Semifinais==
+{| class="wikitable"
+|-
+! Time 1 !! Total !! Time 2 !! 1º jogo !! 2º jogo
+|-
+| [[Arquivo:Bandeira da França.png|20px]] '''[[Stade de Reims|Estátua do Reich]]''' || 3-0 || [[Hibernian FC|Ursos Polares]] [[Arquivo:Bandeira da Escócia.png|20px]] || 2–0 || 1–0
+|-
+| [[Arquivo:Bandeira da Espanha.png|20px]] '''[[Real Madrid|Real Madruga]]''' || 5–4 || [[Milan|Á Milanesa]] [[Arquivo:Bandeira da Italia.png|20px]] || 4–2 || 1–2
+|}
+
+==Final==
+Assim como toda final da Liga dos Campeões no futuro será, quando o Real Madrinha tiver na final, ele sempre vai vencer, independentemente do time que ele enfrentar ou onde ele vai jogar. Porque na Europa é assim, tudo previsível e sem a menor graça.
+
+{| style="width:{{{width|100%}}}; background: transparent;" cellspacing="0"
+|- valign="top"
+|align="right" width="16%" style="font-size:85%;"|[[13 de junho]] de [[1956]]<br>(UTC+0)
+|width="24%" align="right"|'''[[Arquivo:Bandeira da França.png|20px]] [[Stade de Reims|Estátua do Reich]]'''
+|width="12%" align="center"|'''3 – 4'''
+|width="24%"|'''[[Arquivo:Bandeira da Espanha.png|20px]] [[Real Madrid|Real Madruga]]'''
+|style="font-size:85%;"|Parc des Princes, [[Paris]] <s>[[Paris Hilton|Hilton]]</s>
+|- style="font-size:85%;" valign="top"
+|align="right" width="16%" style="font-size:100%;"|{{#if: {{{hora|}}}|{{{hora}}}}}<br />{{#if: {{{hist|}}}|[[Arquivo:Crystal Clear app kworldclock.png|20px]] [[{{{hist|}}}|Histórico]]}}
+|align="right"|{{ #if: [[Arquivo:Bolaoficial_2010.jpg|10px]]  | [[Arquivo:Bolaoficial_2010.jpg|10px]] Leblond<br>[[Arquivo:Bolaoficial_2010.jpg|10px]] Templin<br>[[Arquivo:Bolaoficial_2010.jpg|10px]] Hidalgo }} 
+|align="center"|{{ #if: {{{report|}}} | {{{report}}} }} 
+|{{#if: {{{gols2|}}} | [[Arquivo:Bolaoficial_2010.jpg|10px]], [[Arquivo:Bolaoficial_2010.jpg|10px]]  Rial<br>[[Arquivo:Bolaoficial_2010.jpg|10px]] Di Stéfano<br>[[Arquivo:Bolaoficial_2010.jpg|10px]] Marquitos
+|{{#if: {{{público| {{{publico|}}} }}} | '''Público:''' {{#if: {{{público|}}} | {{formatnum:{{{público}}} }} | {{{publico}}} }} }}{{#if: {{{renda|}}} | {{#if: {{{público| {{{publico|}}} }}} | <br /> }}'''Renda:''' {{{renda}}} }}{{#if: {{{arbitro|}}} | {{#if: {{{renda|}}} | <br /> | {{#if: {{{público| {{{publico|}}} }}} | <br /> }} }}'''Árbitro:''' Arthur Edward do Crepúsculo }}
+|}
+
+==Campeão==
+{| class="wikitable" style="margin: 0 auto; width: 220px;"
+|-
+!Taça dos Clubes Campeões Europeus de 1955-56
+|-
+![[Arquivo:Escudo do Real Madrid.png|100px]]
+|-
+| align="center" |[[Real Madrid Club de Fútbol|Real Madruga]] <br />'''Campeão'''<br /><small>(1º título <s> de muitos </s>)</small>
+|} 
+
+{{Liga dos Campeões da UEFA}}

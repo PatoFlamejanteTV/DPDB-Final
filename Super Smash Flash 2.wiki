@@ -1,0 +1,1729 @@
+<choose>
+<option>{{Logotipo_falso|Bdc.png|152px}}</option>
+<option>{{Logotipo_falso|Smashpédia.png|152px}}</option>
+</choose>
+
+{{game}}
+{{freeware}}
+{{briga}}
+
+{{vqd|Súper Isméshi Fléshi Dois?}}
+{{traduzir|Super Esmagar Clarão 2}}
+{{c|Quem é esse tal de [[Lloyd]]?|Qualquer um|Lloyd}}
+
+{{Infobox Game
+|title     = Super Smash Flash 2 
+|image     = Flash 2 Cover.jpg
+|caption   = (Possível) Capa do jogo
+|developer = [[Ninguém|McNuvemJogos]]
+|publisher = [[Ninguém|McNuvemJogos]]
+|released  = 2007-atualmente
+|genre     = Plataforma e Luta <s>com muito sangue</s>
+|rating    = Internet: [[8000|8001]]
+|platform  = [[Computadores]]
+|ages      = Mature: apenas para jogadores com experiência
+}}
+
+Super Smash Flash 2 é a sequência satância de [[Super Smash Flash]]. Ela ainda está em projeto, entretanto devido a muitos manifestos por faltar outros astros famosos nos desenhos nesse jogo, então foram finalmente colocado o [[Goku|do cabelo amarelo]], o [[Ichigo Kurosaki|carinha da espada grandona]], o [[Sora (Kingdom Hearts)|carinha da chave]], o [[Ness|viado dorgado mudo]], o [[Bomberman|aprendiz de Bin Laden]] e um tal de [[Final Fantasy|Black Mage]] nesse jogo. Ela ainda é um demo então só existe os modos de '''Treino''', '''Quebre os blocos''', '''Solo''' e '''Brawl''' (onde os personagens metem porrada uns aos outros). 
+
+Porém, numa atualização mais recente, agora se tem mais alguns personagens para a pancadaria, como o [[Golden Sun (jogo)|loirinho das mão louca]], [[Chibi-Robo!|a lata-velha inútil]], [[Pac-Man|o comedor de casadas]], [[Simon Belmont|o cara do chicote]], [[Monkey D. Luffy|o pirata que estica]], [[Waluigi|o luigi roxo]] e o [[Ganondorf|negão porra louca]] e mais encheção de linguiça no modo "eventos", só para a enrolação dessa joça que se diz estar totalmente completa em [[8299]], isso se você tiver saco em esperar isso estar pronto.
+
+Então... vamos falar sobre os lutadores dessa [[Bosta|Maravilha]].
+
+=Personagens=
+Dessa vez tem mais personagens que o [[Super Smash Bros. Brawl]], mas metade deles nem aparecem nos jogos de Smash como jogáveis. As roupas deles também podem ser alteradas e muitas são referências a várias merdas de suas franquias.
+
+==Principais==
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''1'''</font> - '''[[Mario]]'''
+| width=88% | '''Técnicas:''' [[Fogo|Porpeta de Fogo]] (O), [[Superman|Lençol da tua cama]] (O+Lado), [[Shoryuken|ShoRyuKen]] (O+Cima), [[Tornado|Espiral de Porrada]] (O+Baixo), [[Arremesso de bebês|So long gay Bowser]] (U+Para trás), [[Soco|Meteoro dos Caralhos]] (P+Frente no ar), '''Final Esbroxa:''' [[Queima rosca|Dragões do Inferno]] (originalmente Fire Mario)
+|-
+| <choose><option>[[Arquivo: Mario cosplay.JPG|80px]]</option><option>[[Arquivo: Mario cervejero.png|80px]]</option></choose>
+| '''Descrição:'''  O clássico encanador e consumidor de cogumelos alucinógenos que todo mundo tem a felicidade de conhecer. Mario e seus bigodes conquistaram o mundo porque seu jogo foi considerado uma carta branca para o cultivo e uso de [[cogumelos alucinógenos]]. É um dos personagens mais terríveis do jogo, pois seu ataque especial ''Eat behind closet'' acaba instantaneamente com a força e a moral do inimigo.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''33'''</font> - '''[[Luigi]]'''
+| width=88% | '''Técnicas:''' [[Fogo|Porpeta de Fogo verde]] (O), [[Míssil|Míssil Balistico]] (O+Lado), [[Shoryuken|ShoRyuKen Advanced]] (O+Cima), [[Ciclone|Espiral de Porrada Advanced]] (O+Baixo), [[Combo Breaker]] (P no ar), [[One-Hit KO|Chute Depressivo]] (Provocação+Baixo), '''Final Esbroxa:''' Aspirador de Pó 
+|-
+| <choose><option>[[Arquivo: Luigi 270x203.jpg|95px]]</option><option>[[Arquivo: Lugee.jpg|95px]]</option></choose>
+| '''Descrição:'''  Luigi é o irmão e paga-pau do Mario, formando a dupla Maria Joana com seu irmão. Diferentemente do seu irmão Mario, Luigi não ataca ninguém atrás do armário, mas tem vezes em que seu ataque de míssil faça com que ele dê um peido verde voando como um míssil verdadeiro, destruindo todos no caminho.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''14'''</font> - '''[[Peach]]'''
+| width=88% | '''Técnicas:''' [[Toad|Toad Escudo Vivo]] (O), [[Bunda|Bundada Explosiva]] (O+Lado), [[Guarda-Chuva|ShoRyuKen com Guarda-Sol]] (O+Cima), [[Vegetal|Chamar o Vegeta]] (O+Baixo), [[Especial de Porrada]] (P smash+Baixo), '''Final Esbroxa:''' Dança da Beterraba
+|-
+| [[Arquivo: Img 6327.jpg|95px]]
+| '''Descrição:'''  Peach é a princesa putinha particular do Mario, que finge os próprios sequestros para ter novas experiências sexuais. Ela é irritante e vai foder com você spammeando a Bundada Explosiva. É mais uma vadia que todo mundo já comeu.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''31'''</font> - '''[[Bowser]]'''
+| width=88% | '''Técnicas:''' [[Fogo|Porpeta de Fogo gigante]] (O), [[Sexo|Ultimate Dragon Smash]]/[[Suicídio]] (O+Lado), [[Giro|Casco Giratório]] (O+Cima), [[Cu|Esmagamento]] (O+Baixo), [[Morte|Headbutt of Banish]] (P smash+Lado), '''Final Esbroxa:''' Giga Bowser
+|-
+| <choose><option>[[Arquivo: Bowsette.png|90px]]</option><option>[[Arquivo: Bowse.jpg|90px]]</option><option>[[Arquivo: Bowser.jpg|90px]]</option></choose>
+| '''Descrição:'''  Bowser é a tartaruga gorda com bronquite parente do Godzilla. Os ataques dele são muito fortes, tendo o poder de te mandar lá [[Terra onde Judas perdeu as botas|onde Judas perdeu as botas]], e o seu ataque de giro pode quebrar escudos antes que você possa dizer "[[AAAAA|a]]".
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''19'''</font> - '''[[Yoshi]]'''
+| width=88% | '''Técnicas:''' [[Comer|Engolir tudo]] (O), [[Ovo|Ovo rolante do Faustão]] (O+Lado), [[Ovos|Arremesso de Ovos com a Munheca Frouxa]] (O+Cima), [[Cu|Esmagamento]] (O+Baixo), [[Nada|Headbutt of Banish fraco]] (P smash+Lado), [[Ataque das Mil Mãos#Ataque dos Mil Pés|Ataque dos mil pés]] (P+Baixo no ar), '''Final Esbroxa:''' Tomar RedBull de Fogo
+|-
+| [[Arquivo: Manifest 07 Yoshi by iluvdrawing.jpg|100px]]
+| '''Descrição:'''  Yoshi é o "Cavalinho" salva vidas do Mario que possui mais de 8000 versões coloridas (aqui é só 12). Ele é foda nas mãos de um jogador bom (ou um CPU no lv9).
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''13'''</font> - '''[[Wario]]'''
+| width=88% | '''Técnicas:''' [[Comer]] (O), [[Ombro|Ombrada do Cacete]] (O+Lado), [[Giro|Espiral de Porrada aéreo]] (O+Cima), [[Peido|Peido Nuclear]] (O+Baixo), [[Morte|Clap of Banish]] (P+Cima no ar), Ataque das mil <s>[[Domingão do Faustão|cacetadas]]</s> [[51|cabeçadas]] (P+Baixo no ar), '''Final Esbroxa:''' [[Superman]]
+|-
+| [[Arquivo: CosplayWario.jpg|85px]]
+| '''Descrição:'''  Wario é o suposto primo do Mario e é viciado em dinheiro, e chegou a um ponto até fazer seus próprios jogos com seus amigos. Wario é alguém com quem você não pode dormir na briga, pois seus golpes podem aumentar seu dano muito rápido, e seu peido carrega com o tempo. Se o peido carregar e não te acertar, [[Ninguém se importa|bom pra você]], mas se acertar... AW SHIT!!!
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''17'''</font> - '''[[Donkey Kong]]'''
+| width=88% | '''Técnicas:''' [[Socão Quebra-dentes|Punch of]] [[Morte|Banish]] (O), [[Jooj pela cabeça|Cabeçada enterradora]] (O+Lado), [[Helicóptero|Giro do Macaco Doido]] (O+Cima), [[Peido|Tabefe no chão]] (O+Baixo), [[Cesta|Ataque da Cesta de Basquete]] (P+frente no ar), [[Suicídio]] (U+Lado), [[Mata Mosquito|Inseticidus Mortallis]] (P smash+Lado/Cima), '''Final Esbroxa:''' [[Donkey Kong (jogo)|Invocação dos anos 80]]
+|-
+| <choose><option>[[Arquivo: Donkeyonbrawwell kong.jpg|90px]]</option><option>[[Arquivo: 200.gif|100px]]</option></choose>
+| '''Descrição:'''  Donkey Kong é o macaco retardado superpoderoso que toma bomba e come 20 quilos de banana por dia <s>com isso ele deve cagar uns 100 quilos!</s>, o que é uma das razões da sua musculatura e força bruta. Ele é muito rápido e seus golpes são muito fortes, seu único problema são [[Merda|projéteis]] e personagens com combos fortes, mas mesmo assim, o Donkey Kong sempre acaba dando uma [[Castigo|surra]] nesses também.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''6'''</font> - '''[[Link]]'''
+| width=88% | '''Técnicas:''' [[Flecha|Kit Robin Hood]] (O), [[Bumerangue|Bumerangue dos Ventos Aporrinhadores]] (O+Lado), [[Mulher Maravilha|Giro Fodedor]] (O+Cima), [[Bomba|Kit Bin Laden Jr.]] (O+Baixo), [[O Char Mais Apelão do Mundo|Gancho da Apelação]] (U), '''Final Esbroxa:''' [[Especial de porrada|Especial de Cortada]]
+|-
+| [[Arquivo: USB Direct Link Cable.jpg|90px]]
+| '''Descrição:'''  Link é um elfo autista com que salva o mundo todo dia montado num cavalo blindado. O mais irritante no modo online (isso é se aparecer e estiver nas mãos de um pirralho), mas seu kit de [[coisas]] faz com que ele se torne uma força (semi) impenetrável. Um dos poucos machos do jogo.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''24'''</font> - '''[[Zelda]]'''
+| width=88% | '''Técnicas:''' [[Nayru|Escudinho Mágico]] (O), [[Din|Foguinho Semi Teleguiado]] (O+Lado), [[Farore|Teletransporte de Ventania]] (O+Cima), [[Sheik|Travesti Reverso]] (O+Baixo), [[Chute|Chute Fodedor]] (P+Frente/Trás/Baixo no ar), '''Final Esbroxa:''' [[Morte|Flecha na <s>maçã</s> cabeça]]
+|-
+| [[Arquivo: Princess Zorldo.jpg|90px]]
+| '''Descrição:'''  Zelda é a Princesa de Hyrule bissexual que o Link sempre tem que salvar em todos (bom, quase todos) os jogos de Zelda. Nem preciso falar dos chutes fodedores. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''25'''</font> - '''[[Sheik]]'''
+| width=88% | '''Técnicas:''' [[Agulhas]] (O), [[Peixe|Salto > Cair na Água]] (O+Lado), [[Teletransporte]] (O+Cima), [[Zelda|Desfazer Traveste]] (O+Baixo), [[Tapa|Mão Matadora]] (P+Frente no ar), '''Final Esbroxa:''' [[Morte|Mesmo que a Zelda]]
+|-
+| [[Arquivo: 6137.jpg|95px]]
+| '''Descrição:'''  Versão macho da Princesa Zelda, uma ninja sheikah e mestre de [[Chuck Norris|artes marciais]]. Muito rápida e especialista em aumentar danos. Usada em casos de emergência.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''20'''</font> - '''[[Captain Falcon]]'''
+| width=88% | '''Técnicas:''' [[Falcon Punch]] (O), [[Gancho|Impulso do Lagarto]] (O+Lado), [[Sexo|Enrabada Aérea]] (O+Cima), [[Falcon Kick|Falcon Punch versão chute]] (O+Baixo), [[Joelho|Joelho da Justiça]] (P+Frente no ar), [[Inferno|Chute Satânico]] (P+Baixo no ar), [[Roundhouse Kick]] (P smash+Baixo), '''Final Esbroxa:''' [[Atropelar|Atropelamento do Falcão Azul Sagrado]]
+|-
+| [[Arquivo: Falcon Punch by LoboStylez.jpg|95px]]
+| '''Descrição:'''  O personagem mais FODA e MACHO do jogo inteiro. Aluno de Chuck Norris, mestre do Falcon Punch e super agilizado em tudo. Bate pra cacete e aumenta dano mais que a Sheik. O melhor combo e confirmador de mortes é o do Chute Satânico e o Falcon Punch bem na hora que o oponente cai. O seu Chute Satânico também serve fora do estágio pra mandar o oponente pro [[Inferno]] o mais rápido possível. Ninguém derrotou ele até agora.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''16'''</font> - '''[[Pikachu]]'''
+| width=88% | '''Técnicas:''' [[Eletricidade|Cuspe Elétrico]] (O), [[Zidane Round Head Strike]] (O+Lado), [[Yondaime|Teleporte de Yondaime]] (O+Cima), [[Choque do Trovão|Para-raio Suicida]] (O+Baixo), '''Final Esbroxa:''' Ovo elétrico
+|-
+| [[Arquivo: Pika libre reaction.jpg|100px]]
+| '''Descrição:'''  [[Picachu]] é o mais famoso dos clássicos bichinhos de rinha dos otakus, também conhecidos como pokémons, um dos mais irritantezinhos do universo pokémon (qual é a diferença todos são irritantes), só sabe spammear aquele cuspe elétrico. Tem uma boca bastante suja e está constantemente falando palavrão.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''26'''</font> - '''[[Jigglypuff]]'''
+| width=88% | '''Técnicas:''' [[Rollout]] (O), [[Nada|Soco Inútil que quebra escudo]] (O+Lado), [[Magia Negra|Canção de Ninar]] (O+Cima), [[Dormir]] (O+Baixo), '''Final Esbroxa:''' [[Peido|Gases Intestinais]]
+|-
+| [[Arquivo: Evil-jiglepuffy.gif|100px]]
+| '''Descrição:'''  Um dos poucos personagens [[666]] do jogo (Satanicamente irritantes e poderosos), Se você for pego na canção de ninar dela, pode dar adeus a vida pois depois dessa você nunca mais volta...
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''2'''</font> - '''[[Kirby]]'''
+| width=88% | '''Técnicas:''' [[Plágio|Sugar]] (O), [[Marreta Biônica]] (O+Lado), [[Espada|Sword Strike of Hell]] (O+Cima), [[Pedra|Forma de Pedra]] (O+Baixo), Chute Fodastico (P smash+Lado), '''Final Esbroxa:''' [[George Foreman Grill|Foreman Grill]] no [[Anonymus Gourmet]]
+|-
+| [[Arquivo: Kirby1.jpg|95px]]
+| '''Descrição:'''  Kirby é uma bola rosa que só sabe [[comer]] todo mundo e depois [[Irate Gamer|plagiar]] todos, pois o Kirby é uma [[Guri Retardado|criança retardada]] que não tem um pingo de originalidade. Mas ele salvou o mundo várias vezes então... [[Ninguém liga|eba...]]
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''21'''</font> - '''[[Meta Knight]]'''
+| width=88% | '''Técnicas:''' [[Tornado]] (O), [[Furadeira]] (O+Lado), [[Espada|Double Sword Strike]] (O+Cima), [[Teleporte]] (O+Baixo), Combo Maker (P+Cima no ar), '''Final Esbroxa:''' [[Rima|Fatiação na Escuridão]]
+|-
+| [[Arquivo: Balfgsgsdgl.jpg|95px]]
+| '''Descrição:'''  Meta Knight é uma bola azul parecida com o Kirby só que parecendo mais velho. É um [[gótico]] metido a <s>besta</s> fodão que só incomoda e enche a [[linguiça]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''38'''</font> - '''[[Waddle Dee|Bandana Dee]]'''
+| width=88% | '''Técnicas:''' [[Purpurina|Magia]] (O), [[Lança|Lançar a Lança]] (O+Lado), [[Helicóptero|Lança das Mil Utilidades]] (O+Cima), [[Guarda-chuva|Guarda-Sol inútil]] (O+Baixo), Punhalada Fodastica (P+Cima no ar), [[Tudo|Chute inútil]] (A+Trás no ar), '''Final Esbroxa:''' [[Bola da Pixar]]
+|-
+| <choose><option>[[Arquivo: ImagesCAD8L37D.jpg|95px]]</option><option>[[Arquivo: Ricardo milos.jpg|90px]]</option></choose>
+| '''Descrição:'''  Bandana Dee é um Waddle Dee que tenta ser homem mas [[Fracassado|fracassa]]. Ele se faz de alguém de uma tribo só pra dizer que é religioso (talvez ele sai por ai [[Knuckles da Uganda|perguntando pras pessoas se elas sabem o "caminho"]]). (talvez seu Deus é o [[King Dedede]]) Está temporariamente substituindo o King Dedede.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''18'''</font> - '''[[Fox]]'''
+| width=88% | '''Técnicas:''' [[Laser|Pistola Laser]] (O), [[Flash Step]] (O+Lado), [[Foguete|<s>Mozilla</s> Fire Fox Jetpack]] (O+Cima), [[Espelho|Shield of Arrogance]] (O+Baixo), Furadeira (P+Baixo no ar), [[Guile|Flash Kick]] (P smash+Cima), '''Final Esbroxa:''' [[Tanque de guerra]]
+|-
+| [[Arquivo: Fox McCloud Costume by dragonheart07.jpg|90px]]
+| '''Descrição:'''  Outro 666 que só serve pra encher linguiça, os desenvolvedores dessa joça focaram muito na [[Burrice|inteligência artificial]] dele, pra ele ser um bosta de [[Super Smash Bros. Melee|20XX]], o que leva ele a ficar usando o mesmo movimento todas as vezes sem saber que um golpe está vindo na cara dele, e se mata muito.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''37'''</font> - '''[[Falco Lombardi]]'''
+| width=88% | '''Técnicas:''' [[Laser|Pistola Laser Azul]] (O), [[Flash Step|Red Flash Step]] (O+Lado), [[Foguete|Fire Bird Jetpack x0,5]] (O+Cima), [[Espelho|Red Shield of Arrogance]] (O+Baixo), Super Furadeira (P+Baixo no ar), [[Pica-pau]] (P smash+Lado), '''Final Esbroxa:''' OLHA O AVIÃOZINHO!!!
+|-
+| [[Arquivo: Falco cosplay.jpg|95px]]
+| '''Descrição:'''  Deu sorte de nascer um pássaro e os furries não gostam de fazer pornografia com esses animais. Ele é quase a mesma bosta que o Fox, só que os lasers dele realmente fazem algo no oponente, e o escudo dele manda o cara pra [[Céu|cima]] só pra depois ser mandado de volta pra [[Inferno|baixo]]. O Silvio Santos ainda tá com falta dele.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''22'''</font> - '''[[Samus Aran]]'''
+| width=88% | '''Técnicas:''' [[Big Bang Attack]] (O), [[Míssil|Míssil Teleguiado/Forte]] (O+Lado), [[Spin Dash|Screw <s>You</s> Attack]] (O+Cima), [[Bomba|Bomba Porpeta]] (O+Baixo), [[Michael Bay|Soco Explosivo]] (P smash+Lado), [[O Char Mais Apelão do Mundo|Gancho da Apelação High-tech]] (U), '''Final Esbroxa:''' [[Shoop da Whoop]]
+|-
+| [[Arquivo: Metroid-samus-custume-blonde.jpg|95px]]
+| '''Descrição:'''  Samus é a mulher que todo mundo pensava que é homem, e é uma das gostosas da Nintendo. Uma loira gostosa que detona com tudo e mesmo nesse jogo ainda se move como se tivesse na [[Rua|Lua]]. Seus ataques são duros pra cacete e mortais, basicamente um Bowser mais leve e rápido.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''27'''</font> - '''[[Zero Suit Samus]]'''
+| width=88% | '''Técnicas:''' [[Pare!|Paralizador]] (O), [[Corda|Corda Estrelinha]] (O+Lado), [[Corda|Corda pra Cima]] (O+Cima), [[Pulo|Salto > Chute na Cara]] (O+Baixo), '''Final Esbroxa:''' [[Strip tease|Cristalina Flesha]]
+|-
+| [[Arquivo: PeachRD.jpg|90px]]
+| '''Descrição:'''  Samus sem roupa e mais leve do que antes. Tão foda quanto sua versão no [[Super Smash Bros. for Nintendo 3DS and Wii U|Super Smash Bros. 4]], mas pena que tem uma recovery meio bosta, pois é um tipo de gancho que vai pra cima, [[Olimar|e todos sabem o quão inúteis são esses tipos de recoveries.]]
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''10'''</font> - '''[[Ness]]'''
+| width=88% | '''Técnicas:''' [[Bomba atômica|Ball of the Kami Kaze]] (O), [[Tiro à queima-roupa|Blaster-master OMG! Hand-Hellfire]] (O+Lado), [[Porra|Sperm of the Creation]] (O+Cima), [[Vaticano|Shield of Jesus]] (O+Baixo), [[Taco de beisebol]] (P smash+Lado), [[YoYo Games|Yo-yo]] (P smash+Cima/Baixo), '''Final Esbroxa:''' [[Estrelas|Armageddon]]
+|-
+| [[Arquivo: Nessss.jpg|95px]]
+| '''Descrição:'''  Ness é um pivete invocado que gosta de queimar o cu dos outros. Ninguém se mete com ele por causa do quão rápido seus ataques são, e o seu taco pode refletir projéteis. Seu ataque de esperma é um forte pra cacete se acertar o Ness e gerou umas duvidas se ele é gay [[ou não]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''28'''</font> - '''[[Marth]]'''
+| width=88% | '''Técnicas:''' [[Morte|Quebra-escudo]] (O), [[Combo]] (O+Lado), [[Golfinho|Corte do Golfinho]] (O+Cima), [[Contra|Contra-ataque]] (O+Baixo), [[Espada|Esmagamento com Espada]] (P smash+Lado), [[Você já entendeu|Mão da Apelação]] (U), '''Final Esbroxa:''' [[Hospital|<s>Estado</s> Acerto Crítico]]
+|-
+| [[Arquivo: Masrthonbrlawll.jpg|95px]]
+| '''Descrição:'''  Marth é um jovem príncipe/rei de cabelo azul (como tinha cabelo dessa cor na época?). Também é o único <s>emo</s> príncipe do jogo, parece delicado mas até que é forte! Note: Também conhecido por Príncipe da Chapinha.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''36'''</font> - '''[[Pit]]'''
+| width=88% | '''Técnicas:''' [[Flecha|Flechinha que pode ser movimentada]] (O), [[Brinquedo|Brinquedinho de bater]] (O+Lado), [[Asas|Angel Dive]] (O+Cima), [[Espelho|Espelhos Espelhos Meus]] (O+Baixo), [[Helicóptero|Helicopter Slash]] (P+cima no ar), '''Final Esbroxa:''' [[Tesouro|Três Tesouros de Bosta]]
+|-
+| [[Arquivo: Pit Cosplay126551.jpg|95px]]
+| '''Descrição:'''  Pit é um anjinho servindo a <s>gostosa</s> deusa [[Palutena]]. Ele usa suas asinhas e suas faquinhas (que também são um arco) pra foder com você. Mesmo assim, ele continua sendo uma bicha suprema (não tanto quanto o [[Elpizo]]), e o burro nunca aprendeu a ler (pera, anjos CRESCEM?).
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''30'''</font> - '''[[Isaac]]'''
+| width=88% | '''Técnicas:''' [[Tarzan|Cipó do Tarzan]] (O), [[Master Hand|Master Hand Of Maluf]] (O+Lado), [[Impulso]] (O+Cima), [[Pedra]] (O+Baixo), [[Pedra|Duas Pedras]] (P smash+Baixo), [[Corte|Ataque genérico de RPG]] (P smash+lado), '''Final Esbroxa:''' [[Solemn Judgement]]
+|-
+| [[Arquivo: Newton_spectrum.jpg|100px]]
+| '''Descrição:'''  Não há muito a comentar sobre ele. Ele é simplesmente um Pit mais útil com espada e usa Master Hands. Também é um gênio da física.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''29'''</font> - '''[[Chibi-Robo!|Chibi-Robo]]'''
+| width=88% | '''Técnicas:''' [[Nada|Laser Pew Pew]] (O), [[Escova|Escovar os Dentinhos]] (O+Lado), [[Helicóptero]] (O+Cima), [[Lula|Roubar]] (O+Baixo), '''Final Esbroxa:''' [[The Iron Giant]]
+|-
+| [[Arquivo: Lixooo.jpg|100px]]
+| '''Descrição:'''  ATENÇÃO, ESSE PERSONAGEM É UMA BOSTA!!! Ele simplesmente não faz porra nenhuma, porra nenhuma mesmo! Pesado pra cacete, ataques muito mixurucas, projétil inútil, quase nenhum combo e ataques muito devagares!
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''32'''</font> - '''[[Mr. Game & Watch]]'''
+| width=88% | '''Técnicas:''' [[Desperdício|Jogar Comida]] (O), [[Banhammer]] (O+Lado), [[Paraquedas]] (O+Cima), [[Petrobras|Balde de Óleo]] (O+Baixo), [[Fogo|Foguinho]] (P smash+Lado), '''Final Esbroxa:''' [[Lula|Current President of the Brazilian State]]
+|-
+|      [[Arquivo: Boneco palito misterioso.JPG|55px]]
+| '''Descrição:'''  Um [[Afrodescendente]] 2-dimensional e possível aprendiz de Sora pelo fato de usar uma chave em um de seus ataques. É fodasticamente sortudo e o líder dos [[bonecos-palito]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Aleatorismo|Random]]'''
+| width=88% | '''Técnicas:''' ???
+|-
+| [[Arquivo: Semmapa.png|100px]]
+| '''Descrição:'''  Quando você não está decidido, o <s>[[Acre]]</s> Random vai pegar um personagem aleatório para você. Na maioria das vezes é um personagem bosta.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''5'''</font> - '''[[Sonic]]'''
+| width=88% | '''Técnicas:''' [[Spin Dash|Homing Attack]] (O), [[Flash Step]] (O+Lado), [[Mola]] (O+Cima), [[Spin Dash]] (O+Baixo), [[Soco|Socao]] (P smash+Lado), [[Losango Aberto Invertido]] (P+Baixo no ar), '''Final Esbroxa:''' [[Super Saiyajin|Super Saia Jeans]]
+|-
+| [[Arquivo: Sonic_Boneco.jpg|95px]]
+| '''Descrição:'''  Bom, o que podemos dizer? É o Sonic!
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''11'''</font> - '''[[Tails]]'''
+| width=88% | '''Técnicas:''' [[Eletricidade|Bola Elétrica]] (O), [[Sexo|Enrabada Voadora]] (O+Lado), [[Robocop|Robôzinho Inútil]] (O+Cima), [[Spin Dash]] (O+Baixo), [[Head Exploder]] (P smash+Lado), '''Final Esbroxa:''' [[Segunda Guerra Mundial]]
+|-
+| [[Arquivo: Demonfox.jpg|95px]]
+| '''Descrição:'''  Por algum motivo esse demo tá mais alto que o Fox na tier list dessa joça, mas pode se entender porque, primeiro porque os dois são [[Raposa Demoníaca|Raposas Demoníacas]], segundo porque o Tails é o filho do Fox, o que leva ele a ser quase tão técnico quanto seu pai. Também é o [[Gay|melhor amigo]] do Sonic.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''8'''</font> - '''[[Megaman]]'''
+| width=88% | '''Técnicas:''' [[Energia|Bazooka de Limões]] (O), [[Bomba|Bomba Adesiva]] (O+Lado), [[Beat]] (O+Cima), [[Água|Água da Piscina]] (O+Baixo), [[Explosão]] (P smash+Baixo), '''Final Esbroxa:''' Mega Bostas
+|-
+| [[Arquivo: Megamanvin.jpg|95px]]
+| '''Descrição:'''  Robô foda criado pelo Dr. Light que também sabe a melhor estratégia: [[Colônia Contra-Ataca|Roubar o poder e matar o cara]]. Só participou pra não enferrujar (mas tava aqui antes do Smash 4 AHAHAHAHA).
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''35'''</font> - '''[[Pac-Man]]'''
+| width=88% | '''Técnicas:''' [[Coisas|Frutas e outras Merdas]] (O), [[Comer]] (O+Lado), [[Pula-pula]] (O+Cima), [[Hidrante de Incêndio|Negócio que só serve pra cachorro mijar (ou não)]] (O+Baixo), [[WTF?|Usar seus inimigos]] (P smash+Lado/Cima/Baixo), '''Final Esbroxa:''' [[Pixels|Versão 8-bits gigante]]
+|-
+| [[Arquivo: Pachumano.gif|95px]]
+| '''Descrição:'''  Outro [[Game|retrosexual]] que veio só porque o jogo precisava de personagens clássicos (igual o Smash 4). Uma pizza com uma fatia a menos que gosta de comer todo mundo.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''4'''</font> - '''[[Lloyd Irving|<s>Mo</s>Lloyd]]'''
+| width=88% | '''Técnicas:''' [[Gelo|Gelinho]] (O), [[Morte|Fatiação em 100 pedaços]] (O+Lado), [[Genérico|Uppercut Genérico]] (O+Cima), [[?|"Rising" Falcon que vai pra baixo]] (O+Baixo), [[Raposa Demoníaca]] (P smash+Lado), '''Final Esbroxa:''' [[Morte|Esmagamento Mágico]]
+|-
+| [[Arquivo: Lloyd fem.png|95px]]
+| '''Descrição:'''  O metrossexual do Tales of Symphonia volta nesse jogo também sendo o ÚNICO personagem com os mesmos sprites do primeiro jogo.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''23'''</font> - '''[[Bomberman]]'''
+| width=88% | '''Técnicas:''' [[Bomba|Kit Bin Laden Authentic]] (O), [[Chute|Fix Bomb Position]] (O+Lado), [[Aviões|Fly Rocket]] (O+Cima), [[Detona Ralph|Detonator of the Armageddon]] (O+Baixo), '''Final Esbroxa:''' [[11 de setembro|Bomb the Americas]]
+|-
+| [[Arquivo: Bryan man carrying bomb 500.jpg|90px]]
+| '''Descrição:'''  O aprendiz de Bin Laden faz sua primeira apariação de flash nesse jogo, e é realmente o mais Bin Laden do jogo. Ele planta bomba pra tudo quanto é lado, e fica esperando um [[Você|idiota]] tropeçar nela pra depois ele detonar elas e foder com você e com o estágio também.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''15'''</font> - '''[[Final Fantasy|Black Mage]]'''
+| width=88% | '''Técnicas:''' [[ZA WARUDO!]] (O), [[Combo]] (O+Lado), [[Teleporte|Magic Teleport]] (O+Cima), [[Meteoro da Paixão]] (O+Baixo), [[Morte|Ceifar]] (P+Baixo no ar), [[Veneno|Sopa]] (U+Baixo), '''Final Esbroxa:''' [[Quarteto Fantástico]], depois um Fogaréu gigante.
+|-
+| [[Arquivo: TsungOwner.jpg|95px]]
+| '''Descrição:'''  Outro afrodescendente (diferente do Game & Watch, ele é mais vivo). Ele é chato pra [[cacete]] e muito retardado e tem muitas coisas em seu arsenal, como [[Água]], [[Fogo]], [[Gelo]], [[Raio|Trovões]], [[Veneno]], [[Faca]], [[WTF?|Pés de Galinhas]], e seu fiél [[Pinto|Bastão]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''9'''</font> - '''[[Sora (Kingdom Hearts)|Sora]]'''
+| width=88% | '''Técnicas:''' [[Chaves|Lá vem o Chaves...]] (O), [[Voar]] (O+Lado), [[Pulo|Voltar ou não]] (O+Cima), [[Alexa|Comandos de Voz]] (O+Baixo), [[Sexo|Enfiar na Fechadura]] (P smash+Lado), '''Final Esbroxa:''' [[Chaves's Triple Knockout Punch|Chaves Combo]]
+|-
+| [[Arquivo: Soraviado.jpg|95px]]
+| '''Descrição:'''  Sora é o protagonista da série capitalista Kingdom Hearts. Conseguiu graças que era amigo de [[Walt Disney|Walter Disley]] e trabalhou, por muitos anos, como figurante de jogos da [[Square-Enix|Square-Eunucos]]. É um dos viados da turma junto com o Pit e outros.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''12'''</font> - '''[[Son Goku|<s>Kakarotto</s> Goku]]'''
+| width=88% | '''Técnicas:''' [[Kamehameha]] (O), [[Ki|Ki-Blasts]] (O+Lado), [[Teleporte|Instant Transmission]] (O+Cima), [[Kaioken]] (O+Baixo), [[Soco|Soco do Dragão]] (P smash+Lado), '''Final Esbroxa:''' Combinação do [[Luan Santana|Meteoro da Paixão]]
+|-
+| [[Arquivo: Goku real.jpg|100px]]
+| '''Descrição:'''  <s>Kakarotto</s> Son Goku é um dos maiores, senão o maior [[Saiyajin|meio-homem-meio-macaco]] de todos os universos, mas não em tamanho (em tamanho é o [[Panbuikin]]), muito menos carisma (ver: [[Bardock]]). Entrou no jogo só porque ele é o personagem principal da famosa série animada Dragon Ball (e porque o criador dessa joça é um otaco fedido).
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''39'''</font> - '''[[Monkey D. Luffy]]'''
+| width=88% | '''Técnicas:''' [[Pistola|Gomu Gomu no Pistola]] (O), [[Sexo|Gomu Gomu no Foguete]] (O+Lado), [[Originalidade|Gomu Gomu no Foguete pra cima]] (O+Cima), [[Balão|Gomu Gomu no Balão]] (O+Baixo), [[Falcon Punch]] (P smash+Lado), '''Final Esbroxa:''' [[Gear|Falcon Punch com Engrenagem]]
+|-
+| [[Arquivo: Luffy cosplay.jpg|100px]]
+| '''Descrição:'''  [[Donkey Kong|Macaco]] de [[Master Hand|Luvas]] é mais um personagem de anime, que pode esticar todos as partes de seu corpo (até o pênis, mas ele é japonês, para a infelicidade das mulheres...). Ele ficou assim depois que comeu a fruta do diabo Gomu Gomu no Mi. Entrou no jogo porque um monte de [[Verme insolente|pirralhos]] queriam que ele estivesse no jogo.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''7'''</font> - '''[[Naruto Uzumaki]]'''
+| width=88% | '''Técnicas:''' [[Rasengan]] (O), [[Jutsu|Clone Wars]] (O+Lado), [[Shoryuken|ShoRyuKen]] (O+Cima), [[Jutsu|Shadow Clone Jutsu]] (O+Baixo), [[This Is Sparta Death Kick]] (P smash+Lado), '''Final Esbroxa:''' Combo Aéreo da [[Raposa Demoníaca]]
+|-
+| [[Arquivo: Naruto cosplay feioso.jpg|100px]]
+| '''Descrição:'''  Naruto Uzumaki é o ninja mais idiota da [[Konoha|Vila Oculta da Folha de Bananeira]], que se veste todo de [[laranja]] e [[preto]], e sonha em se tornar [[Hokage]], o líder de sua vila. Em condições normais isso seria impossível, mas como ele é o protagonista do anime [[Naruto|Todo Mundo Odeia o Naruto]], no fim acaba conseguindo. Se ele tava no primeiro jogo, então é óbvio que ele viria no segundo também.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''3'''</font> - '''[[Ichigo Kurosaki]]'''
+| width=88% | '''Técnicas:''' [[Getsuga Tenshou|Meia-lua]] (O), [[Rima|Teleporte e Corte]] (O+Lado), [[Helicóptero]] (O+Cima), [[Esmagamento]] (O+Baixo), [[Fatiação]] (P smash+Lado), '''Final Esbroxa:''' [[Mugetsu]]
+|-
+| [[Arquivo: Kurosaki Ichigo cosplay.jpeg|100px]]
+| '''Descrição:'''  Ichigo Kurosaki é o protagonista principal do anime/mangá [[Bleach]]. Um rebelde marginal e arruaceiro, sempre foi zoado pelos seus colegas de classe, por causa de seu cabelo laranja. Além de jeito de "poucos-amigos", Ichigo sempre revida, dizendo não se importar com o que os outros pensam sobre ele, ou sobre o seu cabelo, além de achar divertido lutar contra os "valentões". Foi o primeiro personagem codificado no jogo inteiro desde a primeira versão.
+|}
+
+==[[Arquivo:Cadeado.jpg|25px]]Personagens secretos==
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''40'''</font> - '''[[Pichu]]'''
+| width=88% | '''Técnicas:''' Quase o mesmo que o Pikachu, '''Final Esbroxa:''' Transformação Super Sayajin (e ainda falha)
+|-
+| [[Arquivo: inflated beta pichu.png|90px]]
+| '''Descrição:'''  Pichu é o Pikachu quando era bebê, mas aqui ele é um clone retardado do Pikachu que quando atinge 50% de dano ele entra em um estado diferente e se torna uma merda. Para desbloqueá-lo, você precisa ser um Pikachu e vencer/perder uma batalha com 172% de dano (ou vá no modo Smash e bote a porcentagem de começo a 999% e uma vida. Sim, isso funciona também).
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''34'''</font> - '''[[Saco|Sandbag]]'''
+| width=88% | '''Técnicas:''' [[Remédio]]s (O), [[Arremesso de bebês|Enrabada Voadora 2.0]] (O+Lado), [[Suicídio|Bomba Suicida]] (O+Cima), [[Super Smash Bros. Melee|Wavedash]] (O+Baixo), '''Final Esbroxa:''' [[Vingança]] <s>[[Seu Madruga|mata a alma e...]] pera, esse saco nem tem alma!</s>
+|-
+| [[Arquivo: Velho do saco.jpg|90px]]
+| '''Descrição:'''  Sandbag é um saco de areia inútil e o personagem [[piada]] do jogo. Para desbloqueá-lo, você precisa vencer o modo Classic com Random.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''41'''</font> - '''[[Simon Belmont]]'''
+| width=88% | '''Técnicas:''' [[Machado|Cortador de Carne no Churrasco]] (O), [[Cruz|Bumerangue de 4 Pontas]] (O+Lado), [[Corda|Corda Bamba]] (O+Cima), [[Fogo|Água Benta]] (O+Baixo), [[Ui|Chicotada de 1000 km]] (P smash+Lado), '''Final Esbroxa:''' [[Zé do Caixão]]
+|-
+| [[Arquivo: Belmont espada.jpg|90px]]
+| '''Descrição:'''  Simon Belmont é um dos maiores caçadores de vampiros da história, derrotando o Drácula [[Mais de 8000|sei lá quantas vezes]], também é possivelmente o membro mais conhecido da clã Belmont. Seu "modelito" foi feito com bastante carinho pelo [[Clodovil|ClodoEvil]], mas improvisado pela [[Ayami Kojima|possível irmã do Hideo Kojima]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''42'''</font> - '''[[Krystal]]'''
+| width=88% | '''Técnicas:''' [[Counter Strike]] (O), [[Morte|Chute da <s>Mayo</s> Bayonetta]] (O+Lado), [[Nada|Foguete]] (O+Cima), [[Granada|OMG KAMIKAZE BOMB!!!]] (O+Baixo), '''Final Esbroxa:''' Bombardeio geral
+|-
+| [[Arquivo: Krystal cosplay.jpg|90px]]
+| '''Descrição:'''  Krystal é a raposa [[furry]] [[Nunca nem vi|muito bem conhecida]] da série furry Star Fox. Desde pequena ela possuía poderes místicos e anormais e depois que aprendeu a desenvolve-los tornou-se uma profissional hentai na arte da telepatia, bem como suas habilidades naturais para usar o seu [[Vibrador|cajado mágico]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''43'''</font> - '''[[Rayman (personagem)|Rayman]]'''
+| width=88% | '''Técnicas:''' [[Scorpion|GET OVER HERE!!!]] (O), [[Vortex|Espiral da Porra]] (O+Lado), [[Helicóptero]] (O+Cima), [[Berinjela|Plantinha do jogo dele]] (O+Baixo), [[Falcon Punch]] (P smash+Lado), '''Final Esbroxa:''' [[Mosquito|MOSQUITO FILHO DA PUTA]]
+|-
+| [[Arquivo: Raymans.jpg|100px]]
+| '''Descrição:'''  Rayman é um bobão sem braço sem pernas mascote da Ubisoft <s>meio gay</s>, com mãos e pés flutuando no espaço, parecendo que foi recebido com 1000 foguetadas na guerra.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''45'''</font> - '''[[Lucario]]'''
+| width=88% | '''Técnicas:''' [[Kamehameha]] (O), [[Morte|Apunhalada da Aura]] (O+Lado), [[Avião|Olha o aviãozinho...]] (O+Cima), [[Contra|Quase a mesma merda que o Marth]] (O+Baixo), [[Capitão Nascimento|PEDE PRA SAIR!]] (P smash+Baixo), '''Final Esbroxa:''' Vira o Goku
+|-
+| <choose><option>[[Arquivo: Lucario furries.png|100px]]</option><option>[[Arquivo:Lucaxluca.jpg|100px]]</option></choose>
+| '''Descrição:'''  Lucario é o cachorro de Son Goku, um dos poucos pokémons machos além do Mewtwo. Não fica falando próprio nome com uma voz afeminada e ainda sabe usar o [[Hadouken]], ou até mesmo enxergar de olhos fechados.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''46'''</font> - '''[[Ryu]]'''
+| width=88% | '''Técnicas:''' [[Hadouken|A Nuvem]] (O), [[Tatsumaki Senpuu Kyaku|Teta com mais queijo]] (O+Lado), [[Roriugui]] (O+Cima), Tenha Foco (O+Baixo), Chutar com a perna e o [[Pênis|PELES]] (P smash+lado), '''Final Esbroxa:''' Zinco A Nuvem/Xim Roriugui
+|-
+| [[Arquivo: Aduguen.jpg|90px]]
+| '''Descrição:'''  <s>Nãointendo</s> McNuvem querendo roubar coisa que não é dela. O trouxa do meia lua pra frente e soco está aqui, e tão forte quanto o de costume. No Suzaku Castle tem a tenda do Ryu em que você pode comprar Conversa [[Trivago|pelo menor preço]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''44'''</font> - '''[[Waluigi]]'''
+| width=88% | '''Técnicas:''' [[Dado]] da [[Morte]] (O), [[Bomba|Torpedo Kamikaze Ambulante]] (O+Lado), [[Roda a Roda|Giro]] do [[Donkey Kong|Macaco Doido]] (O+Cima), [[Piranha Plant|Planta Ladrona]] (O+Baixo), [[Ataque das Mil Mãos|Ataque dos mil chutes]] (P+Baixo), [[Raquete]] [[Espelho]] (P smash+Lado), Tesoura (P+Cima no ar) '''Final Esbroxa:''' [[Chicote de vinha]]
+|-
+| [[Arquivo: Cospobre waluigi.jpg|100px]]
+| '''Descrição:'''  Waluigi é o fodão de raquete que se veste de [[roxo]] da série Super Mario. Ele com certeza vai ser o novo fodão do jogo, tirando o Tails do trono. Uma das suas técnicas milenares é o Ataque dos mil chutes, que também te enterra vivo. Pode não ter aparecido no [[Super Smash Bros. Ultimate]] como jogável, mas pelo menos conseguiu uma vaga num fangame BOM. Muito melhor que sua versão bosta do [[Super Smash Bros. Crusade|Crusade]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | <font size="4">'''47'''</font> - '''[[Ganondorf]]'''
+| width=88% | '''Técnicas:''' [[Warlock Punch]] (O), [[Suicídio|Afogamento do Porcão]] (O+Lado), [[Sexo|Enrabada com a Mão]] (O+Cima), [[Dropkick|Dropkick do Mago sombrio]] (O+Baixo), [[Espada]] (P smash+qualquer lado), [[This Is Sparta Death Kick]] (P+Lado), [[Morte|Pisão Voador]] (P+Baixo no ar) '''Final Esbroxa:''' [[Timão e Pumba|SENHOR PORCOOOO]]
+|-
+| [[Arquivo: Pumbaa3.jpg|100px]]
+| '''Descrição:''' Ganondorf é o negão porra louca que não desiste nunca. É o vilão da série gamística [[The Legend of Zelda|A Lenda de Ziraldo]]. Sendo o pai do [[Captain Falcon]], ele é um dos, se não O personagem mais FODA do jogo inteiro. Ele não usa apenas suas técnicas ultra poderosas, como também uma espadona gigante que ele roubou dos sages, que pode cortar até [[Chibi-Robo!|robôs inúteis]].
+|}
+
+==[[Arquivo: Foto-x.gif|23px]]Personagens removidos==
+NOTA: Esta seção se trata de conteúdo que NON ECZISTE MAIS!
+Este conteúdo foi removido por várias razões, como os personagens não terem aparecido em jogos, sendo fanchars, ou porque seriam muitos personagens de anime (pois a otaquisse tem limites).
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Vegeta]]'''
+| width=88% | '''Técnicas:''' [[Garlick Gun|Garlick Hoe]], [[Ki|Ki-Blasts]], [[Teleporte|Instant Transmission]], [[Big Bang Attack]], [[Final Flash]], '''Final Esbroxa:''' [[Super Saiyajin|Super Saia Jeans]]
+|-
+| [[Arquivo: Vegetas.jpg|100px]]
+| '''Descrição:'''  Vegeta, o príncipe dos Saia Jeans, é um anão lunático pau mandado de Freeza que vem para Terra com o intuito de levar para Freeza a maior quantidade possível de gatinhos que encontrar para sustentar o seu vício e dos seus 8978346376476 soldados, em especial raptar um gatinho com poderes sobrenaturais, capaz de falar, e até cultivar sua própria plantação de sementes revitalizantes, chamado Mestre Karin. Vegeta também é conhecido por apresentar duas entradas para careca em sua testa.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Sasuke Uchiha]]'''
+| width=88% | '''Técnicas:''' Vibradori, Vibradori Nagashi, [[Katon]], Emoterasu, Kuririn, Kishimoto no Jutsu, '''Final Esbroxa:''' Cursed Seal
+|-
+| [[Arquivo: OMGSasuke!.jpg|100px]]
+| '''Descrição:'''  Sasuke Uchiha é o sobrevivente do famoso [[Clã Uchiha]]. Frio, distante e marrento, passa todos os dias da sua vida com apenas um objetivo: Vingança. Dizem que ele é o verdadeiro protagonista do anime Naruto sendo amado e odiado na mesma proporção pelos otakus seguidores da série.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Rock Lee]]'''
+| width=88% | '''Técnicas:''' Ninguém sabe
+|-
+| [[Arquivo: Rockleecosp.jpeg|100px]]
+| '''Descrição:'''  Rock Lee é o unico pseudo-ninja de Naruto que, ao invés de ficar fazendo viadagem com as mãos, parte para a porrada, como todos os homens deveriam fazer. Por conta disso, apesar do cabelinho emo de pega-rapaz, Rock Lee é um dos personagens mais queridos do anime. Removido pois três personagens de só um anime era demais, e porque por [[Nada|algum motivo]], tinha um [[Bolsonaro|ódio]] gigante em volta dele.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Renji Abarai]]'''
+| width=88% | '''Técnicas:''' [[Espada|Espadona]], [[Poder]], [[Helicóptero]], '''Final Esbroxa:''' [[Bankai]]
+|-
+| [[Arquivo: Thumb flex-1219682808685484 file.jpg|100px]]
+| '''Descrição:'''  Renji Abarai é um daqueles típicos personagens de anime que adora se gabar. Ele, com cereza, é o Shinigami que mais perde sangue em todo o anime depois do Ichigo, cerca de 270 litros por cada episódio. Renji é um personagem fodão.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Inuyasha]]'''
+| width=88% | '''Técnicas:''' [[Espada]], Ninguém sabe o resto.
+|-
+| [[Arquivo: Inu sessho.JPG|100px]]
+| '''Descrição:'''  Inuyasha é um Pokémon lendário resultante da fusão entre [[Família Addams|Primo Itt]] e um [[Pastor Alemão]] branco. Dentre muitas desventuras, acabou indo parar na Era Feudal japonesa. Removido por razões óbvias.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Megaman X]]'''
+| width=88% | '''Técnicas:''' Tudo que ele sabe. '''Final Esbroxa:''' Ultimate Armor
+|-
+| [[Arquivo: Xoriginalof4.jpg|100px]]
+| '''Descrição:'''  Megaman X é o robô super fodão da série Megaman X. Ele iria aparecer com um design estilo Megaman Zero (não a versão de fadinha de camisola), e seu final smash seria a Ultimate Armor. Substituído pelo Megaman original.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Riku]]'''
+| width=88% | '''Técnicas:''' [[Fogo]], [[Espelho]], [[Purpurina]], [[Sexo|O que ele sabe fazer]], '''Final Esbroxa:''' Combo
+|-
+| [[Arquivo: Kingdom hearts riku sora large.jpg|100px]]
+| '''Descrição:'''  Ri[[Cu|ku]] é o <s>melhor amigo</s> namoradinho e parceiro-sexual-ativo do [[Sora]] e um miguxo da [[Kairi]]. Foi rebaixado para Assist Trophy, como Waluigi em SSBU.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Riku|Dark Riku]]'''
+| width=88% | '''Técnicas:''' [[Sexo|Quase a mesma merda que o Riku]]
+|-
+| [[Arquivo: Riku gay.jpg|90px]]
+| '''Descrição:'''  Ricu depois de ser [[Sexo|possuído]] pelo Heartless de Xehanort. Dessa vez ele usa uma chave pra fazer [[Fechadura|o mesmo troço que o Sora faz]]. Sendo uma forma alternativa do Riku, também foi removido da lista de jogáveis e possivelmente não voltará de jeito nenhum.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Blade the Hedgehog]]'''
+| width=88% | '''Técnicas:''' [[Espada]], [[Eletricidade]], [[Spin Dash]], '''Final Esbroxa:''' PELOS PODERES DE <s>GRAYSKULL</s> [[THOR]]!!!
+|-
+| [[Arquivo: PINGAS Blade by blade hedgehog.png|100px]]
+| '''Descrição:'''  Blade the Hedgehog é um dos fanchars do Sonic (junto com o amante (ou não) dele, Blue) das arenas de batalha no Super Smash Flash original, e também um dos seres mais fraco desse mundo ([[ou não]]). Blade é tão fraco que apanha pra o próprio Nhuck Chorris. Removido por ser um fanchar.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Blue the Hedgehog]]'''
+| width=88% | '''Técnicas:''' [[Espada]], [[Fogo]], [[Spin Dash]], '''Final Esbroxa:''' [[Through the Fire and Flames]]
+|-
+| [[Arquivo: Persona3_Minato_Evoker.png]]
+| '''Descrição:'''  Blue é outro fanchar de Sonic e o amante de Blade (ou não). Ao contrário do que as pessoas pensam, ele não é um personagem clone do Blade como no primeiro jogo. Outro removido por ser um fanchar.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Azrael]]'''
+| width=88% | '''Técnicas:''' [[Foice]], [[Morte|Chamar os aprendizes da Morte]], [[Gasparzinho|Fantasminhas Camaradas]], [[Teleporte]], '''Final Esbroxa:''' [[Inferno|Portão pro Inferno]]
+|-
+| [[Arquivo: Golimar.gif|100px]]
+| '''Descrição:'''  Azrael é um emo [[Moreno|meio afro]], e possívelmente o próprio anjo da morte. Azrael é único entre os outros fanchars, pois ele teve uma história, pra contar suas origens, mas a história foi revelada ser um [[Kirby|plágio]] da história de [[The Matrix]], até o [[Filho da puta|criador dele]] admitiu isso. Mais um removido por ser um fanchar.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Spikeman]]'''
+| width=88% | '''Técnicas:''' [[Língua]], [[Comer|Engolir tudo]], [[Ataque das Mil Mãos#Ataque dos Mil Pés|Ataque dos Mil Pés]], [[Spin Dash]], '''Final Esbroxa:''' [[Insanidade|Overdose]]
+|-
+| [[Arquivo: Gogeta banana.JPG|100px]]
+| '''Descrição:'''  Spikeman é um Kirby vermelho emo com cabelo de [[Saiyajin|Saia Jeans]]. É um pirralho dos anos 2000 que foi criado por outro cara relacionado com os criadores do jogo na época. MAIS [[1|UM]] removido por ser um fanchar, mas foi também confirmado que ele não vai voltar como [[DLC|expansão]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Robô Ninja]]'''
+| width=88% | '''Técnicas:''' Ninguém sabe
+|-
+| [[Arquivo: Jiraiya.jpg|100px]]
+| '''Descrição:'''  Robô Ninja é uma robô loira especialista em cortar e fatiar que não serviu pra porra nenhuma no desenvolvimento do jogo. Removida pois [[Filho da puta|seu(sua) criador(a)]] queria usar ela em seus projetos, o(a) tal criador(a) nunca chegou a usar ela e desapareceu da internet. E não, ela não tem nada a ver com [[Naruto]], e não, ela não é o [[Hidden Phantom]] nem o [[Jiraiya]] (mesmo se ele aparece aqui).
+|}
+
+==[[Arquivo: Ponto de interrogção.jpg|25px]]Personagens desconfirmados==
+NOTA: Esses personagens foram confirmados estar no jogo um tempão atrás, mas ainda não foram re-confirmados após a mudança de personagens.
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Knuckles|<s>ManoKnux</s> Knuckles]]'''
+| width=88% | '''Técnicas:''' [[Soco]], [[Avião|Planar]], [[Spin Dash]], [[Mola]], [[Pedra|Pedrada na Tua Cara]], [[Shoryuken|ShoRyuKen]], '''Final Esbroxa:''' Super Saia Jeans (MEU DEUS ESSAS TRANSFORMAÇÕES SUPER NÃO ACABAM?)
+|-
+| [[Arquivo: F83397acfabee939c811c926fe5cae52.jpg|100px]]
+| '''Descrição:'''  Knuckles the Echidna é o segundo comparsa de Sonic, depois de Tails. Ele é um marginal que luta sem armas (diferente de [[Shadow]]), mora em uma boca da [[Angel Island]], escuta [[hip-hop]], se chapa no tororó, fica de olho nas [[Master Emerald]] (que sempre é roubado pelo [[Sonic]], [[Rouge]], [[Dr. Robotnik]] e qualquer outro) e usa [[lego]] no sapato.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Shadow the Hedgehog|Shadow]]'''
+| width=88% | '''Técnicas:''' [[Chaos Control]], [[Energia]], [[Spin Dash|Homing Attack]], [[Chaos Spear]], [[Spin Dash]], [[Thanos|Estalar os Dedos]], [[Roundhouse Kick]], [[Chaos Blast]], '''Final Esbroxa''': [[Vegeta|Super Saia Jeans]]
+|-
+| [[Arquivo: Shadow Kills.jpg|100px]]
+| '''Descrição:'''  Shadow the Hedgehog é mundialmente conhecido por ter mais fãs que o próprio Sonic e principalmente por ser o primeiro [[Emo]] dos jogos do azulão. <s>In</s>felizmente Shadow não pode ser um Emo autêntico pois ele não pode fazer uma [[Franja emo|franja]], mas têm o [[cabelo]] pintahduxkinhuu, e quando perde o controle, de tanto os outros lhe chamarem de [[Emo]], acaba virando um [[marginal]] e sai detonando toda a merda que vier.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Dark Sonic]]'''
+| width=88% | '''Técnicas:''' Quase o mesmo que o Shadow, '''Final Esbroxa:''' [[Comer|Te Comer]]
+|-
+| [[Arquivo: Ritual das Sombras.jpg|100px]]
+| '''Descrição:'''  Dark Sonic [[Super Saiyajin]] [[Evil Ryu|Evil]] [[Gatts|Berserker]] [[Yusuke Urameshi|Youkai]] [[Goku Black|Black]] [[Kid Bengala|Negão]] (mais conhecido por '''Dark Sonic''', '''Black Sonic''' ou ainda '''Dark Super Sonic''' <s>pros fanboys noobs</s> devido a sua aparência) é essencialmente tudo que existe de mais [[macho]], [[Vai Seiya!|malégno]] e [[berserker]] em [[Sonic the Hedgehog]]; é o equivalente a um <s>Super Sayajin 4</s> [[Ryu Negão]], [[Devil Jin]] ou um [[Yusuke]] depois de ser possuído por um [[youkai]], logo é a transformação mais fodástica do ouriço (depois do [[Hyper Sonic]]). Era um dos personagens [[DLC|expansão]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Mewtwo]]'''
+| width=88% | '''Técnicas:''' [[Rasengan|Shadow Ball]], [[Espelho|Refletir]], [[Teleporte]], [[Jeff the Killer|Vai Dormi Porra]], '''Final Esbroxa:''' Explodir com Tudo
+|-
+| [[Arquivo: Mewtwo.jpg|100px]]
+| '''Descrição:'''  <s>Freeza</s> Mewtwo é um [[Pokémon]] assassino e [[clone]] de [[Mew]], do tipo Psíquico, sendo o número 150 na [[Lista de Pokémon|National Dex.]] Pokémon genéticamente modificado, possui alta inteligência, poder superior entre todos os Pokémons, ódio no coração e modo Berserk infinito.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<s>[[Kratos|Cleiton]]</s> [[Kratos Aurion]]'''
+| width=88% | '''Técnicas:''' Quase o mesmo que o Lloyd
+|-
+| [[Arquivo: Aurion emo.jpg|100px]]
+| '''Descrição:'''  Kratos Aurion era o <s>[[Gay|namoradinho]]</s> companheiro de Mithos Yggdrasill ([[Elpizo#A Bicha Enlouquece|tinha que justo ser yggdrasill...]]), depois que descobriu que o Mithos tava fumando macumba pra foder com tudo, Cleiton foi-se para Sylvarant, e conheceu uma <s>gostosa</s> humana chamada Anna, com quem ele transou e deu luz ao seu filho, [[Lloyd Irving]] (pera, o Kratos é pai do Lloyd? COMO ASSIM MANO????)
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Diddy Kong]]'''
+| width=88% | '''Técnicas:''' [[Brendan Fraser|O que será de <s>Nozes</s> Amendoins?]], [[Sexo|Trepar na cara do Oponente]], [[Foguete]], [[Banana|Nasca de Bacana]], '''Final Esbroxa:''' [[Guns N' Roses|Sampley de Guitarra]]
+|-
+| [[Arquivo: Diddykongonbrawl.gif]]
+| '''Descrição:'''  Diddy Kong é um dos [[Jeremias|mil]] comparsas do Donkey Kong e também o escolhido da [[Matrix]].  Como todo macaco, ele é brasileiro, usa boné, é da favela, é galeroso, toca guitarra, gosta de hip-hop das quebradas, anda sem calças porque não tem dinheiro para roupas (mas pelo menos não usa uma gravata ridícula) e faz armamentos caseiros a base de nozes.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[King Dedede]]'''
+| width=88% | '''Técnicas:''' [[Martelo]], Jogar seus Escravos, [[Tigrão|Super Pulo do Tigrão]], Martelo [[Bomba Atômica|Atômico]], [[Dançar]], [[Combo]]
+|-
+| [[Arquivo: 447px-Feathersorg the mighty.jpg|100px]]
+| '''Descrição:'''  Dedede Eggbert Nancyboy III é um pokémon do tipo pinguim, obeso, que se autoproclamou Imperador da Dream Land em [[1985]]. Aparece junto com [[Robert Mugabe]] e a [[Princesa Peach]] como os líderes de estado com as mais duradouras ditaduras ainda existentes. Dedede, com seu martelo de puro mogno, governa com mãos de ferro seu império socialista extremo-esquerdista opressor da Dream Land. Também é mascote da Linux.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Zero]]'''
+| width=88% | '''Técnicas:''' [[Pistola|Buster Shot]], [[Sabre de luz|Z-Saber]], [[Zero (Megaman Zero)#Técnicas|Todas as Rods e armas do tipo]], tudo que ele usa basicamente. '''Final Esbroxa:''' [[Armageddon]]
+|-
+| [[Arquivo: Zero Harvest.png|100px]]
+| '''Descrição:'''  Zero é o robô fodastico da série [[Megaman X]] e o protagonista da série [[Megaman Zero]]. Certamente seria o personagem mais FODA (junto com o Capitão, é claro) do jogo se estivesse aqui agora (mas ele certamente vai ser adicionado na versão completa). Ele é baixinho, parece uma menina e têm cabelo loiro. Mas ele não liga nem um pouco pra isso. Tudo o que ele faz na vida se resume a três coisas: Detonar, humilhar... e pegar mulher.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<s>[[Corno]]</s> [[Crono]]'''
+| width=88% | '''Técnicas:''' [[Katana]], [[Raio]], [[Vento]], [[Helicóptero]], [[Contra]], '''Final Esbroxa:''' [[Colônia Contra-Ataca|Secar e Explodir]]
+|-
+| [[Arquivo: 3942461760 9c46affd8d.jpg|90px]]
+| '''Descrição:'''  <s>Goku</s> Crono é o personagem principal de <s>[[Dragon Ball]]</s> [[Chrono Trigger]]. Ele é um garoto ruivo, mudo, de cabelo espetado que só ataca por turno. Sua melhor amiga é <s>[[Bulma]]</s> [[Lucca]], <s>e juntos, foram buscar as Esferas do Dragão</s> embora tenha <s>uma amante</s> outra chamada <s>Chichi</s> Marle (que é nada mais do que a princesa do Reino de Guardia) que ele conheceu em um festival sem importância.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Cloud Strife]]'''
+| width=88% | '''Técnicas:''' [[Espada]], [[Laser]], [[Combo]], [[Elevador]], [[Chuck Norris|Quebrar os Limites]], '''Final Esbroxa:''' [[Especial de Porrada|Especial de Cortada]] (mesma merda que o Ike)
+|-
+| [[Arquivo: Cloud pegando.jpg|100px]]
+| '''Descrição:'''  Cloud Strife é o "herói" (se é que podemos chama-lo assim) que iniciou o time dos heróis gays de Final Fantasy. Depois dele alguns outros vieram como Squall (Final Fantasy VIII) e Vaan (Final Fantasy XII). É tido como [[Namorado|um grande amigo]] de [[Sora]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Solid Snake]]'''
+| width=88% | '''Técnicas:''' [[Granada]], [[Foguete]], [[OVNI|Aparelho Voador]], [[Cola|Bomba Adesiva]], '''Final Esbroxa:''' Explodir o Cenário
+|-
+| [[Arquivo: GarterSnake.jpg|100px]]
+| '''Descrição:'''  Solid Snake é o bonzinho do game [[Metal Gear Solid]]. É o James Bond dos videogames. É conhecido mundialmente por todo mundo, pois ele está incluído num joguinho, que antigamente só tinha para [[Playstation]], mas que agora também tem para PC, chamado [[Metal Gear]], que muitos nerds e [[maníaco]]s dos PCs acham o máximo e adicionam comunidades sobre ele nos seus [[orkut]]s. Outro dos poucos machos do jogo.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Super Mario Bros.|Mario do NES<s>S</s>]]'''
+| width=88% | '''Técnicas:''' Qualquer bosta, quase o mesmo que o Mario.
+|-
+| [[Arquivo: Smb-nes mario walk.gif|90px]]
+| '''Descrição:'''  Apenas o Mario do [[Nintendinho]]. Tão terrível quanto sua versão normal. Era um dos personagens [[DLC|expansão]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Roy]]'''
+| width=88% | '''Técnicas:''' Quase o mesmo que o Marth, só que com fogo.
+|-
+| [[Arquivo: Leafer.jpg|90px]]
+| '''Descrição:'''  Anão de meia tonelada come chumbo para manter o peso. Era um dos personagens [[DLC|expansão]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Ike]]'''
+| width=88% | '''Técnicas:''' [[Espada]], Erupção, Aether, Corte do Barry Allen
+|-
+| [[Arquivo: Ike_Fire_Emblem_by_rabidfanboy.jpg|90px]]
+| '''Descrição:'''  Ike, primo macho do Marth, é um mercenário e fora-da-lei, é o protagonista de um dos milhões de jogos da série Fire Emblem. Era um dos personagens [[DLC|expansão]].
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Sephiroth]]'''
+| width=88% | '''Técnicas:''' [[Espada]], [[Satanismo|Magia Negra]], '''Final Esbroxa:''' [[Supernova]]
+|-
+| [[Arquivo: Sephmacho.jpg|100px]]
+| '''Descrição:'''  Sephiroth é um Ex-Funcionário da Red Bull que ficou maluco após beber apenas meia lata de Red Bull (o que lhe deu apenas uma asa, e fez ele bater de cabeça quando tentou voar). Agora anda com seu "estilete gigante de cortar embalagem de caixa de red bull" (também conhecida como [[masamune]]), procurando matar todas as pessoas que bebem o mesmo, porque acredita que na verdade o Red Bull é feito com uma substância chamada Lifestream que é o sangue do planeta (que na verdade é o ingrediente secreto da coca cola, guardado pelas amazonas boasudas do Acre). Era um dos personagens [[DLC|expansão]].
+|}
+
+==Os Final Esbroxas em detalhe==
+[[Arquivo:Goku_ssj.jpg|thumb|right|350px|Na [[Mentira|maioria]] dos casos, o cara vira uma espécie de [[Super saiyajin|Super Saga-Djinns]] (fica fodão, [[Correr pra Caralho|rapidão]] e os golpes deles rancam [[Mais de 8000|mais de 8000%]]), mas o Goku realmente vira Super [[Sweet Dreams|Suift Trins]].]]
+Já que você deve ser preguiçoso demais pra sair da [[Desciclopédia]] e fazer algo mais como jogar essa merda (o que não é o caso se você já jogou o jogo), os final smashes estão descritos aqui.
+
+*'''Mario''' - Solta um tornado de fogo pra frente depois de queimar a rosca. Mesma merda que nos Smashes tradicionais. Originalmente ele se transformava em Fire Mario e dava pilão em todo mundo.
+Caso o FSer seja [[você]]: Você vai errar essa merda, o oponente vai pular por cima do FS, e vai te [[Anal|atacar de surpresa por trás]].
+*'''Luigi''' - Pega seu aspirador de fantasmas e suga qualquer trouxa que estiver na frente
+Caso o FSer seja você: Você vai ativar essa merda no momento errado, dai o oponente pode correr pra casa da mãe joana, e teleportar de volta e te [[Kenshiro|atacar de surpresa por trás]].
+*'''Peach''' - Faz uma dançinha escrota e cria vários pêssegos de recuperamento de vida. Originalmente soltava um laser gigante [[Clodovil|rosa]] do chão.
+Caso o FSer seja você: O oponente vai esquivar no momento certo, vai te atacar de surpresa, e ainda usar seus pêssegos pra recuperar a vida DELE.
+*'''Bowser''' - Acorda o capiroto dentro dele e se torna no grande CUpa de 1GB.
+Caso o FSer seja você: O pacto com o Belzebu acaba rápido. Acabou a sua chance de bater no oponente. Alias, Giga Bowser é um trambolho gigantesco e você pode acertar ele, portanto, isso fode muito mais com você.
+*'''Yoshi''' - Toma RedBull e dá aasaaaasss...
+Caso o FSer seja você: É um ataque fácil de desviar. Seu oponente vai dar uns pulinhos e pronto, acabou o Final Smash, chega, voltem para suas casas.
+*'''Wario''' - Come um alho que estava escondido em seu rabo e vira o [[Todo Mundo Odeia o Chris|Super Trouxa]].
+Caso o FSer seja você: Você vai fazer a burrice de usar a ombrada, mandar o Wario pra puta que pariu, morrer e perder a partida.
+*'''Donkey Kong''' - Invoca o velho espírito do Cranky e destrói o cenário com barrís.
+Caso o FSer seja você: Você vai executar esse esbroxa num estágio BOSTA (ex.: Meteo Campaigns) e errar todos os barris.
+*'''Link''' - Puxa seu intestino assassino, tranca o cara numa Triforce e fatia-o em vinte.
+Caso o FSer seja você: Difícil de desviar, mas [[você]] sendo [[você]], vai errar, pois a CPU de LV9 só sabe tirar sarro de você e desvia todos seus golpes.
+*'''Zelda / Sheik''' - Quer a flecha de luz...? Então Toma!! (OHKO)(Na cara!!) - Resumindo: Guilherme e Tael com sua cabeça no lugar da maçã.
+Caso o FSer seja você: É apenas uma flecha, o oponente que é muito inteligente vai pular e te dar um chute nas bolas antes de você terminar o Final Smash.
+*'''Ganondorf''' - TEM QUE ME CHAMAR DE SENHOR PORCOOOOOOOOOOOO
+Caso o FSer seja você: Você vai usar em uma plataforma, quando o inimigo estiver em outra mais abaixo. [[Faustão|ERROU!]]
+*'''Captain Falcon''' - Falcon toma uma dose de 51, atropela alguém, manda esse alguém pra uma pista de corrida, atropela de novo, ganha uma multa, se fode, volta na viatura de polícia, te atropela de novo, mata os guardas, rouba a viatura, te atropela, dá ré, te atropela mais umas 5 vezes, [[WRYYYYYYYYYYYYYYY!|te esmaga com um rolo compressor]], volta pra dentro do carro dele, come sua mãe, se masturba na sua casa, come a Samus, come todo mundo, rouba sua geladeira, e volta pro jogo.
+Caso o FSer seja você: [[Você]] não bebe álcool e por isso não vai conseguir acertar.
+*'''Pikachu''' - Se transforma num ovo elétrico e sai louco por aí acertando os outros.
+Caso o FSer seja você: Como que controla essa merda?
+*'''Jigglypuff''' - <s>Afia seus dentes e come você nos dois sentidos</s> Se enche de gases até virar um balão enorme, dá um peidinho que te lança na puta que pariu e depois dá um peidão e volta ao normal. A galera do [[Deviantart]] curte esse final smash.
+Caso o FSer seja você: Apesar de grande, Jigglypuff continua sendo uma mula por ter um final smash tão bosta.
+*'''Pichu''' - Tenta se transformar em Super Sayajin mas falha (pelo menos deu um belo dum choquinho).
+Caso o FSer seja você: Essa merda demora pra ativar e mesmo se o oponente foi pego, o Pichu sendo um bosta ainda leva dano do seu próprio ataque, dando a oportunidade do oponente dar um grande chute nas bolas do Pichu <s>[[Rule 34|fazendo ele gozar]]</s>.
+*'''Lucario''' - [[Shoop da Whoop|IMAH FIRIN' MAH LAZAH!!!!]] Invoca seu verdadeiro instinto superior e dá um kamehameha nos [[Bolsonaro|canalhas]] abaixo.
+Caso o FSer seja você: Errou.
+*'''Kirby''' - Se transforma no George Foreman e mostra sua fodiçe no [[Hell's Kitchen]].
+Caso o FSer seja você: Você é muito burro e vai acionar o Final Smash na puta que pariu, e não vai surtir [[Peido|efeito]].
+*'''Meta Knight''' - Behold my <s>[[Pinto|DICK]]</s> powah (fatia o personagem ao meio)
+Caso o FSer seja você: Behold my... Errei!
+*'''Bandana Dee''' - Usa uma super copy ability <s>mesmo se apenas o Kirby consegue usar mas ok...</s> e cria um balão de circo cheio de estrelinhas e espalha [[Purpurina|Clodoviadagem]] pra tudo quanto é lado.
+Caso o FSer seja você: Como que controla essa merda? parte 2.
+*'''Fox''' - Pula num tanque e [[WRYYYYYYYYYYYYYYY!|te esmaga que nem um rolo compressor]] (quanto menor a arena maior o estrago).
+Caso o FSer seja você: Mesmo que a nave tenha um [[Mentira|ótimo sistema de controle]], você fará a proeza de jogar ela em um abismo.
+*'''Falco''' - Entra num arwing e a merda basicamente é quase a mesma coisa que a da Zero Suit Samus no Super Smash Bros. 4.
+Caso o FSer seja você: Correndo pra caralho e dando uns pulinhos já tira o peso desse FS dos seus ombros pra dar uma ombrada no Falco quando ele cair de volta pra luta.
+*'''Samus''' - Abre a boca do canhão e da um [[Shoop da Whoop]].
+Caso o FSer seja você: Mesma merda que o Mario.
+*'''Zero Suit Samus''' - Faz um Strip Tease pro Inimigo!
+Caso o FSer seja você: Sua mãe faz strip tease.
+*'''Ness''' - Faz uma super macumba e faz cair estrelinhas do céu pra te queimarem (com a assistência da Paula e do Poo).
+Caso o FSer seja você: Vídeos comprovam que esse Final Smash é bonito, mas nada eficiente. Alias é quase a mesma merda do Lucario.
+*'''Marth''' - Voa 1000&nbsp;km/h pra acertar sua cara e te levar pro [[Hospital|Centro Crítico]].
+Caso o FSer seja você: Pontaria provavelmente não é seu forte, então você vai acabar se matando usando esse FS.
+*'''Pit''' - Usa os Three Sacred Shits pra dar um monte de tirinhos e lasers em você.
+Caso o FSer seja você: Você vai usar isso no começo do jogo, quando o oponente não tomou [[porra nenhuma]] de dano, ou, o CPU sendo CPU, vai desviar, por mais que esse ataque possa parecer "indesviável" para certas pessoas.
+*'''Isaac''' - Faz o julgamento do [[Sans]] e invoca um espírito pra destruir com tudo.
+Caso o FSer seja você: Você vai errar essa merda como sempre.
+*'''Chibi-Robo''' - Invoca o Gigante de Ferro e esmaga o estágio.
+Caso o FSer seja você: Chibi-Robo é um fracote, incluindo o final smash dele, pois o oponente vai ficar no ar o tempo inteiro.
+*'''Mr. Game & Watch''' - Se transforma no [[Lula]] e rouba os personagens.
+Caso o FSer seja você: Apesar de ser fácil de roubar na forma de Lula, esse ataque é uma bosta. Sério, porque você escolheu esse personagem? Vá logo para o canto da sala e pense em suas atitudes!
+*'''Sonic''' - Vira super saiyajin e voa pra todos os lados te metendo porrada.
+Caso o FSer seja você: Como que controla essa merda? parte 3.
+*'''Tails''' - Bombeia o estágio com um avião.
+Caso o FSer seja você: As bombas são muito fáceis de desviar e você sabe exatamente onde vão cair. Até um pirralho de 9 anos sabe desviar disso.
+*'''Megaman''' - Chama os outros Megamans das outras séries pra dar uma porrada de laser no cara (PUTA QUE PARIU OUTRO FS COM LASER???)
+Caso o FSer seja você: Você não sabe usar esse FS e não vai acertar o buraco negro (que é mais devagar que a luz) em ninguém.
+*'''PAC-MAN''' - Volta pros anos 80.
+Caso o FSer seja você: O oponente vai desviar o FS a todo o custo e você não vai perseguir ele. Acabou a chance de bater no oponente.
+*'''Lloyd''' - Te tranca num círculo, aplica uma porrada de magia e te esmaga com uma espadona.
+Caso o FSer seja você: Qualquer um sabe quando essa merda vai ser acionada, e vão acabar desviando bem na hora. Alias, a Buster Sword do Cloud é bem mais foda então, mesmo que seu oponente esteja em 100%, ele é o Super Trouxa e nada que você faça vai derrubar ele e ele ainda vai teleportar atrás de você e dizer que você já está morto.
+*'''Bomberman''' - Bombeia <s>as torres</s> o cenário. Bin Laden tem orgulho dele.
+Caso o FSer seja você: Sua máquina de bombas é ainda mais devagar que o Giga Bowser e os Estados Unidos vencem outra vez.
+*'''Black Mage''' - Chama os amiguinhos dele no estágio pra dar uma porrada no idiota e depois explode com tudo.
+Caso o FSer seja você: Mesmo os VAGABUNDOS sendo rápidos pra cacete, você ainda consegue desviar dessa merda, a explosão é mixuruca e fácil de desviar em batalhas com mais de 2 jogadores, pois você pode simplesmente se defender, pronto! você ERROU a porra do FS e o oponente pulou atrás de você e ainda vai te dar um pilão.
+*'''Sora''' - Te tranca e faz um super combo aéreo. [[Pato Donald|Pato Trump]] e o [[Pateta|Bobão]] acompanhavam ele.
+Caso o FSer seja você: Você vai fazer a mesma merda que o Kirby e acionar o FS lá na puta que pariu.
+*'''Goku''' - Vira [[Super saiyajin|Super Saia Jeans]] e da um combo frenético transformando em SSJ Deus, SSJ Blue, e depois tacando uma Genkidama explodindo com os caras.
+Caso o FSer seja você: [[Suicídio]] (se você for burro o bastante de usar o FS fora do estágio), ou o oponente desvia do ataque e te da uma bilada traseira pois a transformação inicial DEMORA PRA CACETE
+*'''Luffy''' - Se torna em um dos gears e da um FALCON PUNCH em todos.
+Caso o FSer seja você: Mesmo que o Kirby
+*'''Naruto''' - Se torna em [[Kyuubi|UMA RAPOSA DE NOVE CAUDAS]], faz um clone e te da um combo aéreo, terminando com um Obama Rasengan.
+Caso o FSer seja você: Mesmo sendo foda, o podre do Charuto ainda decide criar um clone tipo 10 METROS NA FRENTE DELE E NÃO NUM LUGAR APROPRIADO. Quando você menos espera, POOF! o clone sumiu, você levou na raba. Pronto. Podem voltar pras suas camas gente.
+*'''Ichigo''' - Usa o Mugetsu e completamente destrói você com ondas mortais.
+Caso o FSer seja você: Essa merda demora um bocado pra realmente fazer alguma merda, dando uma oportunidade pro oponente enfiar um cano na sua raba. Ou seu oponente é o Rayman e vai usar a frutinha dele pra fazer você se matar.
+*'''Sandbag''' - Te lança no estádio de Home-run, executa um combo, [[ZA WARUDO!|para o tempo]] e te acerta com um taco de beisebol, te lançando lá na estratosfera.
+Caso o FSer seja você: Esse FS tem um alcance muito curto e você sempre erra.
+*'''Simon''' - Te tranca num caixão e te acerta com um monte de cruzes de luz.
+Caso o FSer seja você: A hitbox do caixão fica só ativa por alguns framezinhos. Errou.
+*'''Krystal''' - Pega um [[pênis|troço]], [[suruba|diz que vai ser legal]] e manda um bombardeio.
+Caso o FSer seja você: O oponente vai voar e ficar longe do bombardeio.
+*'''Rayman''' - Chama um mosquito que atira Ki-Blasts do nariz e chupa qualquer idiota que estiver na frente.
+Caso o FSer seja você: Mesma merda que o Yoshi.
+*'''Ryu''' - Longe do oponente: Solta um Radugui no crack em você, dando um combo de palmadas fracas.
+Perto do oponente: Dá dois soquinhos e depois dá um Roriugui marombado.
+
+Caso o FSer seja você: O Radugui, sendo um projétil, é muito fácil de desviar, só pular por cima dele. Com o Roriugui, o oponente vai fazer uma gambiarra foda pra conseguir escapar, e ainda vai te dar um chute aéreo nas bolas.
+*'''Waluigi''' - Finge ser o [[Bulbassaur]] e dá um chicote de vinha.
+Caso o FSer seja você: Por mais que tenha um alcance bom, você vai errar.
+
+===Galeria de Final Smashes===
+<gallery>
+Arquivo:FireMario.jpg|Mario
+Arquivo:Ap-fantasias1.jpg|Luigi
+Arquivo:LEUCHTSTAB TANZ.gif|Peach
+Arquivo:GIGA T-POSE.png|Bowser
+Arquivo:Drag001.jpg|Yoshi
+Arquivo:Gordogame1.jpg|Wario
+Arquivo:Dkflyer1.jpg|Donkey Kong
+Arquivo:EspadaQG.gif|Link (1)
+Arquivo:Atatatatataata.gif|Link (2)
+Arquivo:Woman-with.jpg|Zelda/Sheik
+Arquivo:Atropelameadadadnto.jpg|Captain Falcon
+Arquivo:Raios.jpg|Pikachu
+Arquivo:ImagesCAM6G83M.jpg|Jigglypuff
+Arquivo:Armasuicidio.JPG|Pichu
+Arquivo:Lucarioshoop.gif|Lucario
+Arquivo:Gforeman01.jpg|Kirby
+Arquivo:Putz ! que dor !.jpg|Meta Knight
+Arquivo:Bolaoficial 2010.jpg|Bandana Dee
+Arquivo:Tank01.jpg|Fox
+Arquivo:Avião rodando.gif|Falco
+Arquivo:Roundhouse Lazer.jpg|Samus
+Arquivo:Samus Zero Zero Zero Suit.jpg|Zero Suit Samus
+Arquivo:Estrela 2.jpg|Ness
+Arquivo:DisfarceDooley1.jpg|Marth
+Arquivo:Fallen Angel 2 by FallenGothicAngel666.jpg|Pit ([[ou não]])
+Arquivo:Gastersblasters.gif|Isaac
+Arquivo:Frank2.gif|Chibi-Robo
+Arquivo:Mendigolula.jpg|Mr. Game & Watch
+Arquivo:James_Super_Saiyajin.jpg|Sonic
+Arquivo:Avião rodando.gif|Tails
+Arquivo:Astroman.jpg|Megaman
+Arquivo:Packman.gif|PAC-MAN
+Arquivo:Putz ! que dor !.jpg|Lloyd
+Arquivo:Thisisatentado.jpg|Bomberman
+Arquivo:Funny Explosion.jpg|Black Mage
+Arquivo:Chpsu.jpg|Sora (1)
+Arquivo:Atatatatataata.gif|Sora (2)
+Arquivo:093160.jpg|Rayman
+Arquivo:Dbzfg.jpg|Goku
+Arquivo:Luffy red hawk by z studios-d5y708v.gif|Luffy
+Arquivo:Demonfox.jpg|Naruto
+Arquivo:Emocine.jpg|Ichigo
+Arquivo:Za warudo.jpg|Sandbag
+Arquivo:Barauto.png|Simon
+Arquivo:Explosão nuclear.jpg|Krystal
+Arquivo:Ryu-cvs-hadoken-a.gif|Ryu (1)
+Arquivo:PeleRoriugui.gif|Ryu (2)
+Arquivo:001Bulbasaur.png|Waluigi
+</gallery>
+=Cenários=
+O jogo não é como o Smash Ultimate que tem mais de [[SPARTA|300]] estágios, mas mesmo assim, aqui tem bastante (principalmente novos).
+==Novos (iniciantes)==
+*'''[[Battlefield]]''' - A fase das 3 plataformas que sempre tem em todo jogo.
+*'''[[Final Destination]]''' - A fase plana que você sempre enfrenta Master Hand no final do jogo.
+*'''Polygon Zone''' - Um estágio epilético que consegue ser ainda menor que Metal Cavern.
+*'''[[Super Mario Bros. 3|Mushroom Kingdom III]]''' - O reino do cogumelo na terceira (ou não) aventura de [[Super Mario]].
+*'''[[Bowser's Castle]]''' - Castelo cheio de lava do Bowser da série Mário.
+*'''[[Super Mario Galaxy|Galaxy Tours]]''' - Viagem a vários locais de Super Mario Galaxy no Starship Mario.
+*'''Comet Observatory (removido)''' - Um hub world de Mario Galaxy.
+*'''[[Yoshi's Island]]''' - Ilha do Yoshi flutuante de plataformas giratórias chatas. Era bem maior nas versões anteriores.
+*'''Emerald Cave''' - Local da série Wario. Tem portas que você pode quebrar pra entrar na [[Mentira|melhor]] parte do estágio: a caverna.
+*'''WarioWare Inc.''' - Fase sem graça com alguns rabiscos que sempre tem nos jogos de Warioware. Tecnicamente a mesma que o Brawl mas tem minigames diferentes (por isso é considerado um estágio novo).
+*'''Jungle Hijinx''' - Floresta genérica dos jogos do Donkey Kong.
+*'''Gangplank <s>[[Galleom]]</s> Galleon''' - Navio pirata do King K. Rool cheio de bananas roubadas.
+*'''Hylian Skies''' - Baseado nos mundos de A Link To The Past. Constantemente troca de um mundo pra outro.
+*'''[[Majora's Mask|Clock Town]]''' - Aquela mesma cidadezinha do Majora's Mask com A FODENDO LUA INTO TE MATAR!!! Mas na hora que ela chega o tempo reverte então tudo bem.
+*'''Temple of Time (removido)''' - Local de Ocarina of Time.
+*'''Skyward Voyage (indisponível)''' - Os céus de Skyward Sword.
+*'''Pokémon Colosseum''' - Mesmo que os Pokémon Stadiums I e II, esse pode ser considerado o Pokémon Stadium III (que era o nome antes do Beta).
+*'''Lake of Rage''' - Local cheio de mato e lago do Pokémon.
+*'''Silph Co. (indisponível)''' - Prédio em Saffron City com vários setores.
+*'''Rainbow Route''' - Local cheio de nuvens e espelhos chatos do Amazing Mirror.
+*'''Meteo Campaigns''' - Estágio de nave chato de Star Fox. Local onde você erra todos os barris do Donkey [[Corno]].
+*'''Crateria''' - Lugar sombrio do Super Metroid onde chove [[ácido]].
+*'''Phase 8''' - Outro lugar de Metroid cheio de lava.
+*'''[[Palutena]]'s Shrine''' - Cenário genérico de Kid Icarus.
+*'''Sand Ocean''' - Lugar onde você anda numa pista num deserto com a nave do Captain Falcon.
+*'''[[Saturn Valley]]''' - Vale onde os Senhores Saturno moram. Tem uma piscina [[rosa]] no meio do estágio.
+*'''Desk''' - Escritório em [[Chibi-Robo!]]. Tão merda quanto o personagem aqui.
+*'''Flat Zone +''' - Mesma merda que nos Smashs mas com layout diferente.
+*'''[[Nintendo 3DS]]''' - O próprio. Tem vários joguinhos.
+*'''Casino Night Zone''' - Estágio cheio de [[Silvio Santos|DINHEIRO!!!]]
+*'''Sky Sanctuary Zone''' - Aquele nível gigantesco do Sonic 3 (& Knuckles) onde você luta contra mais de 8000 robôs enquanto tudo cai.
+*'''Skull Fortress''' - Fortaleza do Dr. Wily do Megaman 7.
+*'''Castle Wily (removido)''' - Castelo do Dr. Wily do Megaman 2.
+*'''Central Highway''' - Fase de introdução do Megaman X.
+*'''Bomb Factory''' - [[Allahu Akbar|ALLAHU AKBAR!!!]]
+*'''Dracula's Castle''' - Castelo do <s>Temer</s> [[Drácula (Castlevania)|Drácula]] que aparece em todo jogo de Castlevania.
+*'''[[Pac-man|PAC-MAZE]]''' - Mesma merda que no Smash 3DS.
+*'''[[Tales of Symphonia|Tower of Salvation]]''' - Local de Tales of Symphonia. Mythos Yggdrassil fica voando e fazendo magia negra ([[ou não]]).
+*'''[[Final Fantasy|Chaos Shrine]]''' - Pedaço de santuário voador de Final Fantasy.
+*'''Lunar Core''' - Cenário foda e bem geladooo. Tem intervalos em que saiyajins lançam vários Kamehamehas [[vermelho]]s.
+*'''[[Kingdom Hearts|Twilight Town]]''' - Cidade em [[Acre|algum lugar]] de Kingdom Hearts.
+*'''[[Namekusei]]''' - É apenas Namekusei, não tem muito que falar.
+*'''[[Konoha|Vila Oculta da Folha da Bananeira]]''' - A própria.
+*'''[[Hueco Mundo]]''' - Aquele lugarzinho do Bleach. O estágio era maior antes.
+*'''Venus <s>[[Super Smash Bros. Ultimate|Lifelight]]</s> Lighthouse''' - Torres gigantescas de Golden Sun, onde os personagens batalham nas nuvens.
+*'''Test Stages 1 e 2 (removidos)''' - Estágios protótipos genéricos. São verdes e colados num fundo branco. O primeiro é um retangulo, o segundo é um retangulo com colinas.
+*'''Suzaku Castle''' - Um castelo clássico oriental com a luta clichê de filmes ruins dos anos 70 no telhado.
+*'''[[Thousand Sunny]]''' - Navio da série de anime e mangá One Piece, é uma das grandes obras da engenharia naval, sendo mais poderoso do que o Titanic e a Millenium Falcon.
+*'''[[Kirby's Adventure|Butter Building]]''' - [[Burj Khalifa|Um prédio infinitamente alto]] com cores de manteiga que fica subindo, tentando te matar fazendo você cair.
+*'''[[Rayman (jogo)|Fairy Glade]]''' - Uma fase do Rayman com uns pau pendurado, um cogumelo trampolim e piranhas pulando na água tentando te morder. Não há muito o que falar.
+==Velhos==
+*'''[[Super Mario Bros. 2|Mushroom Kingdom II]]''' - Mesma merda que o Melee.
+*'''[[Peach's Castle]]''' - Mesma merda que o Melee.
+*'''[[Yoshi's Story|Yoshi's Island 64]]''' - Estágio <s>gay</s> do Yoshi. Mesma merda que o Smash 64, mas melhor.
+*'''[[Yoshi's Story]]''' - Mesma merda que o Melee.
+*'''Temple''' - Mesma merda que os Smashs.
+*'''Dreamland''' - Planeta do Kirby com o Whispy Woods te soprando.
+*'''<s>[[Corneria]]</s> Sector Z''' - Mesma porra que no 64 e Corneria do Melee.
+*'''[[Fourside]]''' - Cidadezinha do Earthbound. Mesma merda que o Melee.
+*'''Castle Siege''' - Castelo em ataque com transição a outros locais. Mesma merda que o Brawl.
+*'''Smashville''' - Estágio do Animal Crossing que todo mundo ama. Mesma merda que os Smashs.
+*'''Distant Planet (indisponível)''' - Planeta de Pikmin. Mesma merda que o Brawl.
+*'''[[Green Hill|Green Hill Zone]]''' - Estágio do Sonic em que o chão cai. Mesma merda que o Brawl.
+*'''Shadow Moses Island (indisponível)''' - Estágio do Metal Gear em que as paredes caem (não aqui). Mesma merda que o Brawl.
+==Desbloqueáveis==
+*'''Waiting Room''' - Aquele estágio no Brawl em que você esperava as partidas Online, mas aqui é diferente e é bem menor, e também tem temas de [[Halloween]] e [[Natal]]. Para desbloqueá-lo, você precisa jogar uma batalha com o Sandbag.
+*'''[[Giygas|Devil's Machine]]''' - ...go...b...a...c...k... ...I'm h...a...p...p...y....
+Para desbloqueá-lo, você precisa cometer [[suicídio]] 3 vezes numa batalha com a roupa de fantasminha do <s>[[Sans]]</s> Ness.
+*'''Steel Diver''' - O próprio. Baixa gravidade devido a água. Para desbloqueá-lo, você precisa matar ou se matar 20 vezes na parte de baixo numa fase que tenha água, como Gangplank Galleon, Namekusei, etc.
+*'''[[Torneio de Artes Marciais|World Tournament]]''' - É apenas o Torneio de Artes Marciais, não tem muito que falar. Para desbloqueá-lo, você precisa jogar 15 partidas, ou completar o modo Classic com o Goku no hard ou mais difícil sem usar nenhum continue, que é um PORRE então as 15 partidas são melhores.
+*'''[[Vale do Fim|Final Valley]]''' - Vale da cachoeira onde Madara e Hashirama trocam farpas. Para desbloqueá-lo, você precisa vencer o evento #12.
+*'''[[Kingdom Hearts|The World That Never Was]]''' - Este estágio não existe pois nunca foi estágio. Para desbloqueá-lo, você precisa vencer o evento #21 (o mais chato).
+*'''[[Sky Pillar]]''' - Em vez do Spear Pillar de SSBB, dessa vez é o Sky Pillar de um dos cem mil jogos de Pokémon, onde os pokemons (incluindo [[Lucario]]s) podem [[Furry|trepar nas paredes em paz]] (ou não). Para desbloqueá-lo, você precisa soltar um Jirachi de uma Pokébola ou Master Ball numa partida.
+*'''Krazoa Palace''' - Um palácio aconchegante com um ventilador gigante no meio que faz você pegar uma gripe. Para desbloqueá-lo, você precisa vencer o Crystal Smash em menos de 1 minuto.
+*'''[[Urban Champion]]''' - Uma cidade com um monte de prédios, bueiros e vizinhos de apartamento chatos pra cacete que jogam vasos na sua cabeça. Quando você mata um maluco, dependendo da direção em que ele morreu, o estágio move pra esse lado um pouco. Para desbloqueá-lo, você precisa completar o modo Classic com uma pontuação de 550.000 ou maior (dica: use o Donkey Kong).
+*'''Metal Cavern''' - Aquele estágio em que você lutava contra o Metal Mario no Smash 64 e nunca mais apareceu nos jogos oficiais. Para desbloqueá-lo, você precisa completar o modo Classic no hard ou mais difícil sem usar nenhum continue, o que, de novo, é difícil pra PORRA.
+*'''[[Mushroom Kingdom]]''' - Do primeiro Super Mario Bros. e do Smash 64. Para desbloqueá-lo, você precisa completar o modo Classic pela primeira vez.
+*'''Hyrule Castle''' - Mesma merda que o Smash 64. Para desbloqueá-lo, você precisa completar o modo Classic com os Zeldinhas (Link, Zelda ou Sheik) na dificuldade normal ou maior, sem usar nenhum continue.
+*'''[[Saffron City]]''' - Mesma merda que o Smash 64. Para desbloqueá-lo, você precisa completar o modo Classic com a Jigglypuff.
+
+=Itens=
+==Os de sempre==
+<gallery>
+Arquivo:Rukia Kuchiki15.jpg|'''Assiste Troféu:''' Chama alguém que não pode ser jogável para melar no outro.
+Arquivo:Pokebola.png|'''Pok[[Ebola|ébola]]:''' Escolhe um Pokémon pra melar no outro
+Arquivo:Masterball leilão.jpg|'''Master Ball:''' Libera pokémons lendários que nem normalmente.
+Arquivo:Platinão.jpg|'''Trophy Stand:''' A parte de baixo do troféu que você joga e captura os idiotas {{Risada diabólica}}
+Arquivo:Naughty caixa.jpg|'''Caixote Nuclear:''' Caixote inflamável que explode a porra toda se você bater nele o bastante ou tacar fogo. Falcon Punch + Caixote = [[Morte]].
+Arquivo:Catuaba-capsula.jpg|'''[[Remédio|Omega 3]]:''' [[Dream|"Pírulas" normais.]] Contém um item aleatório.
+Arquivo:Globoocularestravestidemais.jpg|'''Bola de Festa:''' Mesmo que a cápsula, só que com vários itens.
+Arquivo:Maikawai.gif|'''Leque:''' Arma apelona profissional em executar [[MUGEN|999 hits]].
+Arquivo:Espadalaser.jpg|'''[[Sabre de Luz]]:''' Pegue-o e torne-se um Jedi. Serve para você poder entrar numa briga de espadas.
+Arquivo:Marcoskid.jpg|'''Bastão Estrelinha:''' Arminha do Kirby que joga estrelas mortais.
+Arquivo:Baseball accident.jpg|'''Taco de Beisebol:''' O de sempre. Se for acertado por um, [[Costinha|se fodeu]]
+Arquivo:Jpg babacaoBarata01.jpg|'''Comida:''' Tudo que alguém como [[Eu]] e [[Você]] podemos ter.
+Arquivo:Tomatass.jpg|'''Tomate Anabolizado:''' Cura 50 pontos de vida.
+Arquivo:Coracao.jpg|'''Heart Container:''' Cura 100 pontos de vida.
+Arquivo:SMKGreenShell.png|'''Casco Verde:''' Jogue e acerte muitos inimigos pra ganhar [[Vida|1-UPs]]
+Arquivo:Blood Shell.png|'''Casco Vermelho:''' AH MEU DEUS ELE TÁ ME [[Twitter|SEGUINDO]]!!! [[AAAAA!|AAAAAAAAAAAAAAAAAAAAAAAAAAA]]
+Arquivo:SpinyShell.jpg|'''Casco Azul:''' Quem essa merda vai acertar? O oponente, certamente não vai ser.
+Arquivo:Bomba desenho.jpg|'''Bob-omb:''' Qualquer um têm medo dessa bombinha.
+Arquivo:BombABAngryAttack.jpeg|'''[[007|Bomba Adesiva]]:''' Caso algum idiota pisar no seu território (ou você saindo do seu território).
+Arquivo:Nozes.jpg|'''Noz <s>Da o cu</s> Deku:''' Explode na tua cara ou te deixa cego.
+Arquivo:Atomic bomb gift.jpg|'''Bomba [[Felipe Neto|Ixpertinha]]:''' Arma de destruição em massa.
+Arquivo:Slime-mold.jpg|'''Bomba de Play-doh:''' Arma de [[Pai Troll|tomação no brioco]].
+Arquivo:C Saturn.jpg|'''Seu Saturno Madruga:''' Encha o saco do cara ou quebre um escudo.
+Arquivo:Antartica7.jpg|'''Freezie:''' Arma desenvolvida para combater o aquecimento global. Inútil no castelo do Bowser.
+Arquivo:100px-Pitfall.png|'''[[Ponto de exclamação|Pitfall]]:''' Enterra o adversário vivo em uma lançada
+Arquivo:Baiacuh.jpg|'''Unirai-vos:''' Espinho bugado mata-idiotas.
+Arquivo:Raio.jpg|'''Screw You Attack:''' Deixa você usar o especial pra cima da Samus cada vez que pula. Arma ape[[lona]].
+Arquivo:Calotadomorro.JPG|'''Bumper:''' Calota útil rebatedora de [[corno]]s.
+Arquivo:Chucky.jpg|'''Flipper:''' Brinquedinho rebatedor de crianças retardadas.
+Arquivo:Cogumelos Alucinogenos.jpg|'''[[Cogumelo Alucinógeno]]:''' Transforma você no [[Colossus]] fazendo que você possa comer todo mundo no cenário <s>e o cu de quem tá lendo</s>.
+Arquivo:Mario poisonmushroon.jpg|'''[[Cogumelo Alucinógeno|Cogumelo Mortífero]]:''' Transforma você no Homem-Formiga e te deixa entrar no cu do [[Thanos]].
+Arquivo:NewSuperMarioBros-Star.png|'''Estrelinha Chuck Norris:''' Transforma você no próprio (mas não) por 10 segundos.
+Arquivo:Caixa de mafagafos.jpg|'''Caixa de Metal:''' Transforma você no Homem de Ferro por 10 segundos.
+Arquivo:Florfire.jpg|'''Flor de Fogo:''' Queime seu adversário. Bem fraquinha.
+Arquivo:Swissarmygunnw6.jpg|'''Ray Gun:''' Pistola laser fodona matadora profissional de [[Vegeta|vermes]].
+Arquivo:Galinha Pintadinha.png|'''[[Galinha|Cucco]]:''' Galinha pintadinha que fica irritadinha quando você dá uma batidinha (nela).
+Arquivo:Smash Ball.gif|'''Smash Ball:''' Quebre e execute seu Final Esbroxa.
+Arquivo:Nave-espacial.jpg|[[Arquivo:Ponto de interrogção.jpg|20px]] '''Dragoon:''' Colete 3 peças e atropele <s>as torres</s> seus adversários.
+</gallery>
+==Novos==
+<gallery>
+Arquivo:A021d0251064 5809 80.jpg|'''<s>Bostão</s> Bastão LED:''' Outra merda da série Kirby que é tão inútil quanto parece pois não é tão grande quanto a Star Rod.
+Arquivo:E-Tank.png|'''[[Espinafre|Energy Tank]]:''' Cura TODOS seus pontos de vida. Comida predileta do Megaman.
+Arquivo:Esse perdeu a noção do perigo.jpg|'''Casco Amarelo:''' Causa um terremoto no corpo do adversário e enterra ele.
+Arquivo:Tagexplode.png|'''Kunai Explosivo:''' Um Narutard adora essas bosta. Grude em alguém e assista esse alguém [[Colônia Contra-Ataca|Secar e explodir]].
+Arquivo:Nunca-brinque-com-fogos-de-artificio.gif|'''[[Fogos de artifício|NOVO ANOOOOOOO]]:''' Usa o ano novo pra te matar. Violentamente.
+Arquivo:Florice.jpg|'''Flor de Gelo:''' Mesma merda que a de fogo só que com [[Amarelo|gyello]].
+Arquivo:Knife and blood.jpg|'''Blood Sword:''' Espadinha do Final Fantasy que suga a vida do inimigo.
+Arquivo:Peido2.jpg|'''Bomba de [[Peido|Veneno]]:''' "Se virem uma caveira em uma garrafa, significa que ela contém veneno!", como dizia o filósofo [[Seu Madruga|Madruga]]. É uma cápsula contendo os peidos do Wario. Se você estourar ela, o cenário inteiro vai ser entoxicado e você e o adversário vão morrer (não se for o próprio Wario).
+Arquivo:Lulapunheitero.jpg|'''Saco de itens:''' Jogue e 5 itens <s>idiotas</s> vão sair dele.
+Arquivo:Bixopixel.png|'''Cabeça da [[Medusa]]:''' Voa por ai dando um pau nos oponentes.
+Arquivo:Hahaban.JPG|[[Arquivo:Foto-x.gif|20px]] '''[[Banhammer]]:''' SIM! O próprio em pessoa estaria no jogo! Pena que os [[Vagabundos|criadores]] não deixaram pois ele bania todo mundo.
+Arquivo:Corrre.gif|[[Arquivo:Foto-x.gif|20px]] '''Bomba de [[Buraco Negro]]:''' Mesmo que a Smart Bomb mas em vez da explosão era um buraco negro. E se a pessoa não jogasse o item rápido, então... você já sabe. Prova forte de que eles existem e fazem mal aos seres humanos.
+Arquivo:Zapatazo.gif|[[Arquivo:Foto-x.gif|20px]] '''Clyde Shoes:''' Sapatos prateados de uma recoloração do Sonic chamado "Clyde" que ninguém conhece. Os sapatos deixavam você ir na velocidade da luz por algum tempo. Removido pois é um acessório de um fancharacter.
+Arquivo:Esteira-blog-bidoia.net_.gif|[[Arquivo:Foto-x.gif|20px]] '''Boost Pad:''' Item do F-Zero que você joga no chão e cria a coisa favorita da [[Dimps]], uma esteira de velocidade.
+Arquivo:Objection_E.gif|[[Arquivo:Foto-x.gif|20px]] '''Trigger Item:''' Balão de fala de Ace Attorney que apareceria aleatóriamente quando você pegava um item, e te jogava pra lá [[Terra onde Judas perdeu as botas|onde Judas perdeu as botas]]. Removido pois foi uma grande [[1 de abril|mentira]].
+Arquivo:Battle card.jpg|[[Arquivo:Foto-x.gif|20px]] '''Battle Cards:''' Cartinhas do Kingdom Hearts que invocam personagens da Disney. Removidas por serem muito similares as Assist Trophies. Abaixo estão os sujeitos que você invocaria.
+Arquivo:Genie2.jpg|[[Arquivo:Foto-x.gif|15px]] '''Génio:''' Usa mágias em [[você]] pra botar [[Ninguém|você]] no Youtube Rewind.
+Arquivo:Esqueleto.jpg|[[Arquivo:Foto-x.gif|15px]] '''Jack Skellington:''' Enche o cenário de abóboras e invoca o deus Thor pra atirar raios em você.
+Arquivo:ImagesCAT8AEUI.jpg|[[Arquivo:Foto-x.gif|15px]] '''Stitch:''' Faz o que ele faz de melhor (ou não): atirar em você. bastante.
+
+</gallery>
+===Assist Trophies===
+{| class=sortable cellspacing=0 cellpadding=3 border=1 align=center width=100% style="border-collapse:collapse; font-family:Arial"
+|-
+! width=12% | Imagem do bobão
+! width=12% | Nome
+! width=12% | Origem
+! width=64% | Descrição
+|-
+| [[Arquivo:BulletBill_real.jpg|100px|center]]
+! [[Bullet Bill]]
+| ''[[Super Mario|Super Armário]]''
+| Aquela bala de tamanho exagerado dos jogos do encanador mais famoso do mundo. Ele sai de um canhão pra tentar te matar a todo custo.
+|-
+| [[Arquivo:Tatu icosaedro.jpg|100px|center]]
+! [[Dillon|Dilldon]]
+| ''Dillon's <s>[[Rola]]</s> Rolling Western''
+| Primo do oeste do [[Mighty the Armadillo|Mighty]]. Sai [[Spin Dash|rolando]] 5 vezes e na última te da um pilão.
+|-
+| [[Arquivo:DrWrightBrawl.jpg|100px|center]]
+! [[Dr. Wright|Dr. Wrong]]
+| ''[[Sim City|The Sims City]]''
+| Um tiozinho louco que enche o seu saco pra caralho no [[Sim City]] do [[SNES]]. Aqui ele usa a varinha do Harry Potter e executa o "sai do chão" e ergue arranha-céis que dão cabeçadas em você.
+|-
+| [[Arquivo:1351Petteri Silvan (ph Dario Agrati).JPG|100px|center]]
+! [[Excitadomoto]]
+| ''[[Excite|Excitado]]''
+| Carinhas de motoca que te atropelam a um irritantemente devagar 10&nbsp;mph. O Mach Rider aparece ali também.
+|-
+| [[Arquivo:Hammer_bro_by_metalik_fairy-d35mhfj.jpg|100px|center]]
+! [[Hammer Bro|Hammer]] [[Hulk Hogan|BROTHERRRRR]]
+| ''[[Super Mario|Super Armário]]''
+| Joga mais de 8000 martelos na sua cara e especialmente no seus olhos.
+|-
+| [[Arquivo:Cudelinho.JPG|100px|center]]
+! [[Kuririn|Cu de linho]]
+| ''[[Dragon Ball|Bolaz do Dragao]]''
+| Joga Destructo Disks em você. Apelão pra caralho mas morre muito.
+|-
+| [[Arquivo:150px-Lakitu_Artwork_-_Yoshi%27s_New_Island.png|100px|center]]
+! [[Lakitu|Lá que tu]]
+| ''[[Super Mario|Super Armário]]''
+| Joga spinies fracotes em você. Um [[bug]]adomon.
+|-
+| [[Arquivo:Lyndis.jpg|100px|center]]
+! [[Lyn|Linha]]
+| ''[[Fire Emblem|Free Fire Emblem]]''
+| <s>Gostosa</s> Guria retardada de Fire Emblem que quase ninguém conhece. Ela prepara pro [[golpe]], depois [[Kenshiro|teleporta atrás do oponente]] e fatia-o em [[dois]].
+|-
+| [[Arquivo:Magnet0873.png|100px|center]]
+! [[Magnet Bomber|Bin Laden Imã]]
+| ''[[Bomberman]]''
+| Espalha bombas magnéticas que alteram o campo magnético da [[Terra]] criando geo[[terrorismo]].
+|-
+| [[Arquivo:Kawaii-polvo.jpg|100px|center]]
+! [[Metroid (criatura)|Mehtróide]]
+| ''[[Metroid]]''
+| Suga a forca vital do oponente mas nada eficiente a não ser que seja o CPU que está tomando no brioco.
+|-
+| [[Arquivo:Mbrains.gif|138px|center]]
+! [[Mother Brain|Mãe Cerebelo]]
+| ''[[Metroid]]''
+| Aparece de uma jarra e atira rosquinhas núcleares e usa o [[With Lasers]].
+|-
+| [[Arquivo:Nagato cosplay.jpg|100px|center]]
+! [[Nagato|Nagatão]]
+| ''[[Naruto|Pai do Boruto]]''
+| Idiota do anime [[Fracasso|bem sucedido]] Charuto. Usa <s>Chupacu Peidei</s> Chibaku Tensei pra te esmagar com pedras.
+|-
+| [[Arquivo:Protoman Desenho.jpg|100px|center]]
+! [[Protoman|Pronto, man!]]
+| ''[[Megaman]]o''
+| Irmão mais velho (e vagabundo) do Megaman e o personagem que mais mudou de lado em toda a história da Série Clássica do Megaman. Usa todos os ataques que ele usa.
+|-
+| [[Arquivo:Parto dos rinocerontes.jpg|135px|center]]
+! [[Rambi|Rambo]]
+| ''[[Donkey Kong|Donkey Korno]]''
+| Rinoceronte que dá cabeçada em todo mundo mandando lá na estratosfera. Você pode também andar em cima dele.
+|-
+| [[Arquivo:Kingdom hearts riku sora large.jpg|100px|center]]
+! [[Riku|Rico]]
+| ''[[Kingdom Hearts|Reino Corações]]''
+| Ri[[Cu|ku]] é o <s>melhor amigo</s> namoradinho e parceiro-sexual-ativo do [[Sora]] e um miguxo da [[Kairi]]. Ele teleporta na sua cara e te fatia em pedacinhos.
+|-
+| [[Arquivo:Rukia Kuchiki15.jpg|100px|center]]
+! [[Rukia Kuchiki|Rukia Cutiquinha]]
+| ''[[Bleach|Clorox]]''
+| Waifu baixinha de Bleach que os otacos fedidos amam. Ela é uma inútil aqui e demora um tempão pra dar um ataque, e quando da é só um arranhãozinho no oponente (ou você, não faz diferença).
+|-
+| [[Arquivo:Silver1.jpg|100px|center]]
+! [[Silver the Hedgehog|Sliver teh hegegog]]
+| ''[[Sonic the Hedgehog|Sanic The Hedgehog]]''
+| Usa telecinése e [[Sonic 2006|te buga na parede]]. Ele não viu isso vindo.
+|-
+| [[Arquivo:Estrelinha.jpg|100px|center]]
+! [[Starfy]]
+| ''The Legendary Starfy''
+| Estrelinha apenas útil no jogo dela. Fica rodopiando e se jogando de bueiros.
+|-
+| [[Arquivo:Papyrusvsstarman.jpg|100px|center]]
+! [[Starman|pApIrOs UnDeRtAlI]]
+| ''<s>[[Undertale]]</s> [[Earthbound]]''
+| Anielígena forte pra cacete que te manda voando com os raios de temporal dele.
+|-
+| [[Arquivo:Whtmage.gif|100px|center]]
+! [[White Mage|Mago Caucasiana]]
+| ''[[Final Fantasy|Finally Fantastic]]''
+| Mago de Final Fantasy que usa várias magias tanto em você quanto no oponente.
+|-
+| [[Arquivo:User997_pic37631_1244564140.jpg|100px|center]]
+! [[Arquivo:Ponto_de_interrogção.jpg|20px]] [[Viewtiful Joe (personagem)|Viewtiful Jobel]]
+| ''[[Viewtiful Joe]]''
+| Anão de meia tonelada fodão que usa suas diversas bugigangas pra te foder. Ou usaria pois não está no jogo.
+|-
+| [[Arquivo:Samba de Amigo.jpg|100px|center]]
+! [[Arquivo:Foto-x.gif|20px]] [[Amigo|Enemigo]]
+| ''[[Samba de Amigo|SAMBAAAA]]''
+| Fazia todo mundo dançar exceto você. Removido por ser um pivete irritante e porque o Trump reforçou o muro.
+|-
+| [[Arquivo:ImagesCAD8L37D.jpg|100px|center]]
+! [[Arquivo:Trophees034.gif|20px]] [[Waddle Dee|Bandana Dio]]
+| ''[[Kirby|John Kirby]]''
+| Era inútil e só andava e pulava. Promovido para personagem jogável.
+|-
+| [[Arquivo:Raito idol.jpg|100px|center]]
+! [[Arquivo:Foto-x.gif|20px]] [[Light Yagami|Light "Colecionador de Hentai" Yagami]]
+| ''[[Death Note|Life Note]]''
+| Colecionador de hentai louco que "escriva" seu nome na Death Note e te mata instantaneamente. Removido por ser apelão.
+|-
+| [[Arquivo:Pachumano.gif|100px|center]]
+! [[Arquivo:Trophees034.gif|20px]] [[Pac-Man|Crack-Man]]
+| ''[[Pac-man|Pac-Humano]]''
+| O que você esperava. Você usa as direções para controlar ele e comer qualquer idiota <s>que estiver lendo</s> na sua frente. Promovido para personagem jogável.
+|-
+| [[Arquivo:Thumb flex-1219682808685484 file.jpg|100px|center]]
+! [[Arquivo:Foto-x.gif|20px]] [[Renji Abarai|Knuckles Abra raio]]
+| ''[[Bleach|Clorox]]''
+| O mesmo idiota mas não jogável. Removido por ser mais um bugado e pra botar a Rukia no lugar dele (péssima ideia).
+|}
+
+===Pokémons===
+{| class=sortable cellspacing=0 cellpadding=3 border=1 align=center width=100% style="border-collapse:collapse; font-family:Arial"
+|-
+! width=12% | Imagem do idiota
+! width=12% | Nome
+! width=64% | Descrição
+|-
+| [[Arquivo:Exeggutor_high_ground.jpg|100px|center]]
+! [[Exeggutor|Exeggutors de Alola]]
+| Exeggutor com o pescoço exeggeradamente longo que te da um pilão e [[Caindo na água|cai na água]].
+|-
+| [[Arquivo:Glória a Deus versão Arceus.jpg|100px|center]]
+! [[Arceus|Ar seu vou]]
+| Deus dos pokémons que usa ondas <s>de VAI EMBOOOOORA!</s> que mandam você pro inferno por cometer atos terríveis.
+|-
+| [[Arquivo:Not the bees.jpg|100px|center]]
+! [[Beedrill|Broca na bunda]]
+| Abelha/Vespa que chama um exército pra pisar na sua cara.
+|-
+| [[Arquivo:Bellossom Brawl.jpg|100px|center]]
+! [[Bellossom|Belo som]]
+| Frôzinha ambulante dançante que te envenena com seus "peidus".
+|-
+| [[Arquivo:Tartarugagk3.jpg|100px|center]]
+! [[Blastoise|Tanque de guerra biológico vivo]]
+| Tartarugão dos USA que dispara jatos de água mortais em você que te matam de morte morrida.
+|-
+| [[Arquivo:Raquelcharizard.png|100px|center]]
+! [[Charizard|Sheherazade]]
+| Mesma merda que o Melee, tacando foguinho pro lado e pro outro, pra infelicidade de quem queria jogar com ele.
+|-
+| [[Arquivo:Louro josé.jpg|100px|center]]
+! [[Chatot|Chato]]
+| Passarinho gritão que só sabe de uma coisa: [[Sonic & Knuckles|<s>Dedo no cu e</s> Gritaria]].
+|-
+| [[Arquivo:Chikorita14.jpg|100px|center]]
+! [[Chikorita|Chiko bento]]
+| Plantinha furry ambulante que te corta com um monte de Razor Leafs. Não é jogável pra infelicidade dos [[Furries]].
+|-
+| [[Arquivo:RocketDelibirdHappy.jpg|100px|center]]
+! [[Delibird|Dale birdo]]
+| Cospe comida pra você comer e as vezes umas bombas <s>do Bin Laden</s> da Equipe Rocket.
+|-
+| [[Arquivo:The PokeSlut by Narsilion.png|100px|center]]
+! [[Ditto|Digito]]
+| O que você esperava? Ele só [[Kirby|copia]] você.
+|-
+| [[Arquivo:Exploitar_pokemons.gif|100px|center]]
+! [[Electrode|Eletrons]]
+| [[Allahu Akbar|ALLAHU AKBAR!!!]].
+|-
+| [[Arquivo:Stevie wonder 3.jpg|100px|center]]
+! [[Garchomp]]
+| Te esmaga com um rolo compressor e chama os [[meteoros]] do [[Luan Santana|Luan Satanás]].
+|-
+| [[Arquivo:Ash's Gligar 2.jpg|100px|center]]
+! [[Gligar|Morcego inútil]]
+| Voa pela tela e te corta em pedacinhos. Como dito, ele é inútil, é bem fraquinho e quando você desviar de um dos ataques, você desviou do resto pois o lixoso não ataca mais depois disso.
+|-
+| [[Arquivo:Green-juice.jpg|100px|center]]
+! [[Heracross|Suco de Besouro]]
+| Voa e te dá [[Corno|chifradas]].
+|-
+| [[Arquivo:Hitmonlee.jpg|100px|center]]
+! [[Hitmonlee|Bruce Lee]]
+| Dá um salto e cai na sua cara dando chute.
+|-
+| [[Arquivo:Sugimori3851.png|100px|center]]
+! [[Jirachi|Girafa]]
+| Voa e não faz absolutamente nada.
+|-
+| [[Arquivo:CupheadCapa.jpg|100px|center]]
+! [[Klink|Click]]
+| Te esmaga e corta ao mesmo tempo e faz você virar [[Salame]].
+|-
+| [[Arquivo:FedeRei.gif|100px|center]]
+! [[Koffing|Café]]
+| Não confunda, pois ele realmente não solta café.
+|-
+| [[Arquivo:Peixe assado.jpg|100px|center]]
+! [[Magikarp|Magicrap]]
+| Papaco chama ele de um monte de [[Lindo|coisa]]. E ele é tão útil como esperado
+|-
+| [[Arquivo:Mpoffer.jpg|100px|center]]
+! [[Meowth|Gatinho rico]]
+| Peida moedinhas de ouro que valem mais do que dinheiro.
+|-
+| [[Arquivo:Metagross.jpg|100px|center]]
+! [[Metagross|Metal Grosso]]
+| Te esmaga esmagando o chão e te manda pro [[T-Series|Caminho das Índias]].
+|-
+| [[Arquivo:Pichu-Bondage.gif|96px|center]]
+! [[Pichu|Pau murcho]]
+| Tanto jogável quanto não-jogável, pra felicidade de todo mundo. Faz uma onda gigante que paralisa e quebra a musculatura interna do oponente.
+|-
+| [[Arquivo:Polígono.jpg|100px|center]]
+! [[Porygon]]
+| Te [[jooj pela cabeça]], mas será que seu oponente estará na frente dele pra ser acertado? [[Capitão Óbvio|Óbvio]] que não.
+|-
+| [[Arquivo:Pato amarillo.jpg|100px|center]]
+! [[Porygon2|Porygon Reloaded]]
+| Mesma bosta que o cara acima.
+|-
+| [[Arquivo:Grievous2.jpg|100px|center]]
+! [[Porygon-Z|Porygon Revengeance]]
+| Mesmo que os dois zé bostolas acima.
+|-
+| [[Arquivo:Hel011.jpg|100px|center]]
+! [[Scizor|Tesoura]]
+| Te acerta na fuça com um Scizor Punch.
+|-
+| [[Arquivo:Hornedhumanskulls.jpg|100px|center]]
+! [[Seedot|Verponto]]
+| Cospe sementes em você por [[Knuckles da Uganda|não saber o caminho]].
+|-
+| [[Arquivo:Shroomish anime.png|100px|center]]
+! [[Shroomish|Cogumelo dos venenos alucinógenos]]
+| Te envenena cada vez que estiver perto dele. ele é um [[Seu Madruga|prerigo]].
+|-
+| [[Arquivo:Tsutarja Attract.png|100px|center]]
+! [[Snivy]]
+| Ereta folhas do chão que te levam pro infinito e além.
+|-
+| [[Arquivo:Wild Snorlax201.jpg|100px|center]]
+! [[Snorlax|Sua mãe]]
+| Te esmaga com ele mesmo, nem precisa de rolo compressor.
+|-
+| [[Arquivo:Estrela 1.jpg|100px|center]]
+! [[Staryu|Estrela Ryu]]
+| Atira estrelas em você pelo olho como uma metralhadora.
+|-
+| [[Arquivo:Pokabu starving.png|100px|center]]
+! [[Tepig|Teupai]]
+| Queima a própria rosca, queima o corpo e te [[jooj]].
+|-
+| [[Arquivo:Venusaur2.jpg|100px|center]]
+! [[Venusaur]]
+| Causa um terremoto.
+|-
+| [[Arquivo:Victini.png|100px|center]]
+! [[Victini|Virilha]]
+| É um bicho chato dos inferno, mas é muito raro. Ele te segue e te queima.
+|-
+| [[Arquivo:Victim SH4.jpg|100px|center]]
+! [[Weezing]]
+| Mesma merda que o Koffing só que o peido dá dano.
+|-
+| [[Arquivo:Domo_kun_dance.gif|100px|center]]
+! [[Wobbufett|Boba Fett]]
+| Se você dar um chute nele, ele balança igual o [[Pênis|produto]] de um [[haiti]]ano.
+|-
+| [[Arquivo:Anaconda.jpg|100px|center]]
+! [[Zygarde|Sem Grade]]
+| Mesma merda que o Venusaur só que cobre o chão inteiro.
+|-
+| [[Arquivo:Missingno ilustração.jpg|75px|center]]
+! [[Arquivo:Foto-x.gif|20px]] [[MissingNo.]]
+| Te dá uma tela azul da morte. Removido porque os retardados que jogam de tela cheia achavam que o PC crashou.
+|}
+
+=Modos=
+A sequência de modos é bem parecida com a do SSF1, só que melhor.
+
+            Γ Classic
+            |- All-Star
+            |- Events ---- Uma porrada desses ai
+    '''Solo''' ---|
+            |- Training
+            |             Γ Break The Targets
+            L Stadium ----|- Home-Run Contest
+                          |- Multi-Man Smash
+                          L Crystal Smash
+             Γ Smash
+             |
+             |- Special Smash
+    '''Group''' ---|
+             |- Rules
+             |           Γ Sandbag Soccer
+             L Arena ----|
+                         L Sandbag Basketball
+               Γ Sounds
+               |
+    '''Options''' ---|- Quality
+               |
+               L Controls
+             Γ Load Replay
+             |
+             |- Intro 0.8
+    '''Vault''' ---|
+             |- Intro 0.9
+             |
+             L Intro Beta
+            Γ Export Data
+            |
+    '''Data''' ---|- Import Data
+            |
+            L Clear Data
+    '''Online''' --- Login --- ERROR ERROR ERROR
+
+[[Arquivo:437ihj2c.png|thumb|75px|right|(Clique para ampliar) Outra fase vazada, aparentemente baseada na série Kirby, mas também baseada em [[Mulher|algo a mais]][[Reticências|...]]]]
+<font color=gold>'''''Solo:'''''</font> O modo que ficou um pouco menos conhecido, mas onde você ainda pode desbloquear coisas e jogar os [[Bosta|épicos]] [[Convenção|eventos]].
+
+<font color=red>'''''Group:'''''</font> Onde a <s>[[Brasil|putaria]]</s> porradaria come presa.
+
+<font color=purple>'''''Options:'''''</font> Contém coisas que você pode fazer. 
+
+<font color=blue>'''''Data:'''''</font> É aqui onde pode salvar o seu progresso em um arquivo e ativar e desativar umas coisinhas. Também contém a agora pior opção do jogo: [[Se fuder|Erase Data]].
+
+<font color=green>'''''Vault:'''''</font> Contêm intros de versões anteriores, e a possibilidade de reproduzir replays, que morrem depois que uma nova versão sai.
+
+<font color=magenta>'''''Online:'''''</font> Porradaria totalmente fodona ao redor do mundo, isto é se essa porra funcionar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Modo História: The Flash Of Shadows==
+[[Arquivo:mariosovietic.jpg|thumb|150px|right|Imagem vazada de <s>Vladimir</s> Wario andando pelo mundo dos troféus e sombras.]]
+[[Arquivo:SSF2 Umbra.png|thumb|125px|left|Esse cara aqui é o Umbra (ou o que era pra ser), ele era o chefão final da história original. Se bem que ele é muito parecido com [[Renji Abarai|um personagem]] típico de [[Bleach|uma certa franquia]]...]]
+Não se sabe muito do modo história do game, pois a história original foi descartada e nunca mais falada sobre. Mas com o poder das [[Máquina do Tempo|máquinas do tempo]], conseguiram algumas imagens do modo história original, e certamente o original pode ser mais foda que alguma futura versão da história. Tão foda que até os [[Vingadores|Irmãos Russo]] choraram de tão linda que era a história, [[União Soviética|mesmo não sabendo toda ela]]. Apenas podemos fazer hipóteses sobre outros elementos não esclarecidos da história.
+A história original é que algum ser chamado Umbra planeja foder com o mundo dos troféus que nem o [[Tabuu]] fez e os 40+ idiotas tem que matar ele e trazer <s>harmonia</s> a porrada de volta para o mundo. Sério, não tem muita merda pra contar pois nem os desenvolvedores querem mostrar a história original para crianças que não cresceram no começo dos anos 2000, pois o time de desenvolvimento mudou, fudendo a história original junto. Ah, e essa história tinha algo a ver com "fancharacters", mas não lembro direito....
+
+EDIT: Conseguimos achar muito da história original através de revisões antigas do artigo na wiki McLeodGaming (os desenvolvedores dessa joça). Se prepare, pois essa vai ser uma das melhores <s>[[Fanfic|fanfics]]</s>
+
+===A escrita que é o orgulho dos Irmãos Russo===
+[[Arquivo:UmbraNew.png|thumb|125px|right|Percebendo que o design original era muito parecido com um personagem genérico do [[Bleach (anime)|anime da água sanitária]], eles decidiram refazer Umbra, tornando em uma versão [[Rule 63]] do Tabuu, basicamente, que tem formas diferentes.]]
+*WORK IN PROGRESS*
+
+
+
+=Modo Eventos=
+[[Arquivo:URSAL VS Cabo Daciolo.jpg|thumb|right|200x|Típicas batalhas do modo eventos]]
+O modo eventos é um modo do Solo <s>[[Anschluss|anexado]] em 2013</s> consistindo em várias batalhas sangrentas especificamente feitas, contendo objetivos incomuns, bla bla bla você já deve estar velho e cansado de saber dessa merda. Mas [[South America Memes|eis]] a questão: os criadores adaptaram esses eventos para pirralhos de 9 anos? Bom a resposta é:
+
+[[Arquivo:NÃOPORRA.jpg|150px]]
+
+Pois é! Pra que fazer seu jogo livre para todos os jogadores incluindo os pirralhos, se você pode botar aquele level dos computadores láaaaaa no 9? BOA IDEIA NÃO É MESMO???
+
+Enfim, o jooj atualmente conta com 51 eventos, mas o número pode aumentar com novas versões, fazendo [[Guerra Mundial|uma suruba maior ainda]]. A lista de eventos e objetivos:
+
+{| class=sortable cellspacing=0 cellpadding=3 border=1 align=center width=100% style="border-collapse:collapse; font-family:Arial"
+|-
+! width=15% | Representação do evento cataclísmico
+! width=3% | Número
+! width=15% | Nome
+! width=50% | Descrição
+|-
+| [[Arquivo:Stalinmario.jpg|150px|center]]
+|   <font size=5>#1</font>
+! '''''Troubled King'''''
+| Lute contra o <s>encanador sociopata comunista</s> Mario numa clássica batalha na Mushroom Kingdom
+|-
+| [[Arquivo:Ksoo9.gif|150px|center]]
+|   <font size=5>#2</font>
+! '''[[Carrapato|''Fleas'']]'''
+| Parece que Donkey Kong tem que lidar com um... [https://images.uncyc.org/pt/2/27/Probleminha.jpg probleminha]...
+|-
+| [[Arquivo:Magali e l.png|150px|center]]
+|   <font size=5>#3</font>
+! '''''Gourmet Race'''''
+| Como Yoshi, você precisa [[comer]] mais que os seus oponentes, mas ninguém leva dano.
+|-
+| [[Arquivo:Poke communism.png|150px|center]]
+|   <font size=5>#4</font>
+! '''''Battle Revolution'''''
+| Você precisa matar os Pikachus <s>[[Youtube Poop|do Chaves]]</s> e a Jigglypuff <s>em uma [[Revolução Russa|revolução comunista]]</s> jogando Pokebolas e deixando os Pokemons matarem eles.
+|-
+| [[Arquivo:Protoman_Zero.jpg|150px|center]]
+|   <font size=5>#5</font>
+! '''''Rockin' Blues'''''
+| Uma luta de Megaman (você) contra uns dois patetas verdes. Para sua vantagem, o [[Protoman]] aparece toda vez para dar porrada nos dois.
+|-
+| [[Arquivo:Thizizzparta.gif|150px|center]]
+|   <font size=5>#6</font>
+! '''''Saving the Saturns'''''
+| Você [[Possessão|toma controle]] do Ness para impedir que o <s>[[filho da puta]]</s> Luffy jogue os Mr. Saturns do precipício.
+|-
+| [[Arquivo:Peach_no-panties.jpg|150px|center]]
+|   <font size=5>#7</font>
+! '''''Who Needs Turnips?'''''
+| Com a Peach, você luta sozinha contra o Bowser e pote tirar muitas [[Vibrador|coisas]] do chão e foder com o bowser por completo.
+|-
+| [[Arquivo:Espelhonomdc.jpg|150px|center]]
+|   <font size=5>#8</font>
+! '''''Opposite Day'''''
+| Na [[União Soviética]], [[Reversal Russa|VOCÊ apanha do oponente!!!]]
+|-
+| [[Arquivo:SonicPinguço.jpg|150px|center]]
+|   <font size=5>#9</font>
+! '''''You're Too Slow'''''
+| Com o Black Mage, use o ZA WARUDO permanente para parar os malditos ouriços.
+|-
+| [[Arquivo:Tagexplode.png|150px|center]]
+|   <font size=5>#10</font>
+! '''''Tag You're It'''''
+| Você só pode matar os oponentes fincando uma kunai explosiva neles.
+|-
+| [[Arquivo:Sound ninja 4 by deviantartyaoilover.jpg|150px|center]]
+|   <font size=5>#AS1</font>
+! '''''All-Star Battle v0.1'''''
+| Lute contra os personagens da primeira versão do jogo (aka: [[Quarteto Fantástico]]): Mario, Kirby, Ichigo e Lloyd.
+|-
+| [[Arquivo:CAD para teclados.JPG|150px|center]]
+|   <font size=5>#11</font>
+! '''''Laagggggg'''''
+| Briga de [[Samus|mulher]] e [[Captain Falcon|macho]]- perai, lag fabricado? [[AAAAA!|VAI SE FUDEEEEEEEEEE]]
+|-
+| [[Arquivo:Oodamarasengan.jpg|150px|center]]
+|   <font size=5>#12</font>
+! '''''Shadow Clone Showdown'''''
+| Ache o Naruto verdadeiro, ou morra tentando.
+|-
+| [[Arquivo:MVSC-combo.png|150px|center]]
+|   <font size=5>#13</font>
+! '''''Combo Maker'''''
+| Faça um combo turbilhado e atinga 50% no saco idiota.
+|-
+| [[Arquivo:DancaPicapau2.gif|150px|center]]
+|   <font size=5>#14</font>
+! '''''In the Ballpark'''''
+| Você é o pivete do Ness, você tem <s>uma [[bomba atômica]]</s> um taco de beisebol, acerte [[Os Três Patetas]]: [[Pac-man|2Pac-mano]], [[Kirby|Chicletão]] e [[Jigglypuff|Balão idiota]].
+|-
+| [[Arquivo:ImagesCAG3Z1VQ.jpg|150px|center]]
+|   <font size=5>#15</font>
+! '''''Sworn To The Sword'''''
+| Molloyd tem que provar que duas espadas são melhores que uma! Mate [[Os Três Boiadeiros Japoneses]]: [[Marth|Marte]], [[Link|Página linkada]] e [[Ichigo Kurosaki|Moranguinho]].
+|-
+| [[Arquivo:Turok cover.jpg|150px|center]]
+|   <font size=5>#16</font>
+! '''''Bounty Hunting'''''
+| Mate o maldito [[Yoshi]] [[Verde|vomitado]] sem matar os outros inocentes.
+|-
+| [[Arquivo:Darkilinkwin.jpeg|150px|center]]
+|   <font size=5>#17</font>
+! '''''Dark Link's Advance'''''
+| Encenando a típica batalha da pesada de Link contra [[Dark Link]], mas o clone emo deve ser morto antes do cenário trocar pra versão sombria.
+|-
+| [[Arquivo:Tiro sentado alvo piores empregos mundo.jpg|150px|center]]
+|   <font size=5>#18</font>
+! '''''Target Race'''''
+| Destrua todos os alvos de todas as FUCKING fases do Break the Targets.
+|-
+| [[Arquivo:KingDededechicletekirby.JPEG|150px|center]]
+|   <font size=5>#19</font>
+! '''''Nightmare In Dreamland'''''
+| Proteja o boiola do Kirby da dupla nem um pouco dinamica de [[Meta Knight|Merda Knight]] e [[Black Mage|Black Snape]].
+|-
+| [[Arquivo:BlueDevil.jpg|150px|center]]
+|   <font size=5>#20</font>
+! '''''Speed Demon'''''
+| [[Dr. Robotnik|I HATE THAT HEDGEHOG!!!!]]
+|-
+| [[Arquivo:Sasukeqa.jpg|150px|center]]
+|   <font size=5>#AS2</font>
+! '''''All-Star Battle v0.6'''''
+| Lute contra os personagens da versão 0.3 até 0.6: Sonic, Link, Naruto, Megaman e Sora.
+|-
+| [[Arquivo:Seu cu não será perdoado.jpg|150px|center]]
+|   <font size=5>#21</font>
+! '''''Battle of the 99 Heartless?'''''
+| Lute contra dez trilhões (não, é 99, DUHHH) de Game & Watches com o Sora. Esse aqui é DIFÍCIL PRA UM CARALHO!
+|-
+| [[Arquivo:Vingança.jpg|150px|center]]
+|   <font size=5>#22</font>
+! '''''<s>Rola</s> Role Reversal'''''
+| O saco de pancadas finalmente ganha sua revanche depois de tanto tempo... {{risada diabólica}}
+|-
+| [[Arquivo:Wolfdeverdade.jpg|150px|center]]
+|   <font size=5>#23</font>
+! '''''Meteo Campaign'''''
+| Derrube o palhaço do Fox antes que ele entre em seu tanquezinho.
+|-
+| [[Arquivo:Jefinho_Kawaii.png|150px|center]]
+|   <font size=5>#24</font>
+! '''''Restless'''''
+| Faça os mudos drogados [[Jeff The Killer|DORMIREM, PORRA]].
+|-
+| [[Arquivo:Luigi_em_trabalhocópia.jpg|150px|center]]
+|   <font size=5>#25</font>
+! '''''Luigi Takes Charge!'''''
+| Defenda a Princesa Bitch do... CUIDADO É O BOWSER! WOOOOOOO-
+|-
+| [[Arquivo:Ptbosta.gif|150px|center]]
+|   <font size=5>#26</font>
+! '''''Cleaning Duty'''''
+| Use o robô inútil como limpador das merdas do Wario (matar ele é muito melhor porque é chato pra caralho).
+|-
+| [[Arquivo:Piratas.jpg|150px|center]]
+|   <font size=5>#27</font>
+! '''''Monkey, Dee, Luffy!'''''
+| Mande o Macaco e o Dinho para o mar, because YOU ARE A PIRATE!!!!
+|-
+| [[Arquivo:Willtwintower.gif|150px|center]]
+|   <font size=5>#28</font>
+! '''''Bomb Factory Malfunction'''''
+| Se transforme no Super Fujins e desvie das bombas do Rainbow Factory (ah, e você não tem escudo! [[FFFFFUUUUU]]).
+|-
+| [[Arquivo:Interrogacao100.jpg|150px|center]]
+|   <font size=5>#29</font>
+! '''''The Power Of Random'''''
+| Use seus infinitos itens aleatórios controlando um personagem aleatório lutando contra oponentes aleatórios numa fase aleatória. Literalmente TUDO é aleatório nessa merda.
+|-
+| [[Arquivo:Oozaru-710432.jpg|150px|center]]
+|   <font size=5>#30</font>
+! '''''At Your Service'''''
+| Use os "assiste troféis" para chutar a bunda do Goku gigante.
+|-
+| [[Arquivo:Csi-miami.jpg|150px|center]]
+|   <font size=5>#AS3</font>
+! '''''All-Star Battle v0.7'''''
+| Lute contra os <s>patetas</s> newcomedores da versão 0.7: Ness, Tails, Goku, Wario, Peach e Black Mage.
+|-
+| [[Arquivo:Jq_Kid_Icarus_01.png|150px|center]]
+|   <font size=5>#31</font>
+! '''''A Heavenly Power'''''
+| Lute contra os dois pivetes fajutos no LAIR do [[Giygas]], enquanto um poder invisível protege você (spoiler: é um Pit gigante invisível inútil).
+|-
+| [[Arquivo:Sonic-Running-sonic-the-hedgehog-11411503-320-240.gif|150px|center]]
+|   <font size=5>#32</font>
+! '''''McLeodGaming Time'''''
+| Você só tem 3 segundos pra utilizar o [[correr pra caralho]] e meter um RKO no Capitão (a rapidez faz jus aos criadores dessa merda).
+|-
+| [[Arquivo:Tumblr_lv21buD2Uc1qd4z24o1_500.jpg|150px|center]]
+|   <font size=5>#33</font>
+! '''''Hide 'n' Sheik'''''
+| Espere as Zeldas transformarem em Sheiks e mate elas (apenas KOs nas Sheiks contam). Sem duvidas um dos eventos mais chatos do game.
+|-
+| [[Arquivo:Mad_fat_kid.gif|150px|center]]
+|   <font size=5>#34</font>
+! '''''Mega Microgames'''''
+| Vença os Microgames para ganhar barras de [[ouro]] (que valem mais que dinheiro!), só tome cuidado com os outros encanadores tentando te matar (não importa, pois eles (""sem querer"") acabam se matando).
+|-
+| [[Arquivo:Tumblr lnsdo5Q0ZZ1qfobo4.gif|150px|center]]
+|   <font size=5>#35</font>
+! '''''Biohazard'''''
+| "Se virem uma caveira em uma garrafa, significa que ela contém veneno!", como dizia o filósofo [[Seu Madruga|Madruga]] (DE NOVO). Black Mage usou seu veneno pra matar cavalo em você! Corra atrás do filho da puta e esmurre a cara dele!
+|-
+| [[Arquivo:Sutiã_do_Pokémon.jpg|150px|center]]
+|   <font size=5>#36</font>
+! '''''Gotta Cherish Them All'''''
+| Pikachu decide que tá farto e puto da vida contra [[Humanos|US ZUMANO]], então decide capturar eles com Cherish Balls! {{Risada diabólica}} Resumindo: Battle Revolution 2.0.
+|-
+| [[Arquivo:Quinto-teto.jpg|150px|center]]
+|   <font size=5>#AS4</font>
+! '''''All-Star Battle v0.8'''''
+| Lute contra os fracotes da versão 0.8 (aka: [[Quinteto Fatal]]): Pikachu, Donkey Kong, Fox, Yoshi e Captain Falcon.
+|-
+| [[Arquivo:Kaiohken.gif|150px|center]]
+|   <font size=5>#37</font>
+! '''''Fist of the World King'''''
+| Usando o Goku no modo [[Kaio-ken|"CAI-OU-QUEM!"]], enfrente <s>30 bilhões de [[Bob Esponja]]s</s> o Oozaru azul gigante tonto!!! (que com certeza não é o Donkey Kong com uma skin diferente!!!)
+|-
+| [[Arquivo:ClodovilViadoBicha.jpg|150px|center]]
+|   <font size=5>#38</font>
+! '''''Pretty In Pink'''''
+| Clodovil chamou suas três fieis súditas: [[Kirby|Cãrbi]], [[Jigglypuff|Jokenpófe]] e [[Princesa Peach|Pêssego]], para [[Kid Bengala|meter o pau]] (ui) em você. HA! GAYYYYY- espera, NÃO, ERA BRINCADEIRA!!! NÃAAAA-
+|-
+| [[Arquivo:Acorda.gif|150px|center]]
+|   <font size=5>#39</font>
+! '''''Dawn of the First Day'''''
+| Sobreviva por 3 dias (igual a mais que um minuto e meio no jogo T_T) contra um Bowser e um Black Mage malvados. yey...
+|-
+| [[Arquivo:CerebroMSN.gif|150px|center]]
+|   <font size=5>#40</font>
+! '''''The Mother Brain'''''
+| Hora de comer a mãe cerebro no pau!!! (ui!!!!!!!!!!!) (resumo: último episódio do [[Capitão N]]?)
+|-
+| [[Arquivo:Mario300.jpg|150px|center]]
+|   <font size=5>#41</font>
+! '''''Down With Mario'''''
+| MARIO, CUIDADO É O BOWSER! E DONKEY KONG! E WARIO! *respiro* '''WOOOOOOO!''' Cometa "omicídio" contra os maiores inimigos do bigodudo.
+|-
+| [[Arquivo:Pacmovie.jpg|150px|center]]
+|   <font size=5>#42</font>
+! '''''Pacmania'''''
+| Pac-Man precisa fundir seus poderes [https://www.youtube.com/watch?v=MgY4oxGDwZE e do Majin Boo] pra [[comer]] o [[Mr. Game & Watch|Boneco de palito afro-asiático]], [[Megaman (personagem)|O bombardeiro azul]] e o [[Chibi-Robo!|Robô inútil]].
+|-
+| [[Arquivo:Chuck-Norris-300.jpg|150px|center]]
+|   <font size=5>#43</font>
+! '''''Swords vs Spears'''''
+| Chute os Bandana Dees para o poço do castelo do Drácula. Simples, porém, fazer esse evento é um PUTA TRAMPO, pois é uma luta de um contra três, e o CPU está no nível MÁXIMO! [[AAAAA!|AAAAAAAAAAAAAAAAAAA!]]
+|-
+| [[Arquivo:Ondas mar oceano.jpg|150px|center]]
+|   <font size=5>#44</font>
+! '''''Climate Changes'''''
+| Depois de Samus protestar contra o aquecimento global, ela precisa fugir e se esconder de "putos-da-vida" até a chuva de ácido derreter eles, provando de uma vez que essa piada não teve graça.
+|-
+| [[Arquivo:Ginyu.jpg|150px|center]]
+|   <font size=5>#AS5</font>
+! '''''All-Star Battle v0.9'''''
+| Agora a porra ta ficando séria! Lute contra os filhos da puta da versão 0.9: Meta Knight, Samus, Bomberman, Zelda, Jigglypuff, Zero Suit Samus, Marth e Chibi-Robo.
+|-
+| [[Arquivo:Bombaatomica.gif|150px|center]]
+|   <font size=5>#45</font>
+! '''''Bob-omb Battlefield'''''
+| Como o nome diz, isso é tipo o Bob-Omb Battlefield do Mario 64, só que com BOMBAS CAINDO DO CÉU!!! COVER NOW BITCH!!!
+|-
+| [[Arquivo:Perdido062.gif|150px|center]]
+|   <font size=5>#46</font>
+! '''''Eggman Empire'''''
+| Buchotnik "criou" um exército de Megamans e Chibi-Robos, e como o Sonic tá muito ocupado de férias (comendo a Peach, provavelmente), o moleque de duas caudas é quem tem que proteger a cidade.
+|-
+| [[Arquivo:Me rendo.gif|150px|center]]
+|   <font size=5>#47</font>
+! '''''The Trouble With Doubles'''''
+| Esse evento leva a dupla personalidade ao sério. Você luta junto de um clone de você contra o Raposo e o Bombardi, só que o dano é o mesmo pra cada membro dos times! E é difícil pois os CPUs estão no máximo!! [[Rage quit|FUUUUUUUUUUUUUU!!!]]
+|-
+| [[Arquivo:GangplankGalleon.gif|150px|center]]
+|   <font size=5>#48</font>
+! '''''Pirate Attack'''''
+| O macacão tem que mostrar aos dois macacos de luvas quem é realmente o maior pirata <s>dos filmes, jogos e músicas</s>.
+|-
+| [[Arquivo:Gilberto barros grande chance.jpg|150px|center]]
+|   <font size=5>#49</font>
+! '''''A Night At The Casino'''''
+| [[Gilberto Barros|AEEEEE KASSINÃAAAAAAO!!!!!!!]] O ouriço maroto precisa bater com a cabeça nos bumpers, enquanto o <s>Ratinho</s> Wario te enche o saco e tenta te impedir! Por favor, Vem ajudar! Vem ajudar! Vem ajudar! (69x)
+|-
+| [[Arquivo:Guitarrista-metal.jpg|150px|center]]
+|   <font size=5>#50</font>
+! '''''Metal Clash'''''
+| Hora de lutar contra os gigantes de puro aço que deixam até os militares de tanques blindados com inveja! A porrada é braba!
+|-
+| [[Arquivo:Logo mka.jpg|150px|center]]
+|   <font size=5>#AS6</font>
+! '''''All-Star Battle Beta'''''
+| Finalmente chegamos ao fim. A última série de lutas contra os mais novos personagens (do primeiro lançamento dessa versão, pelo menos) que certamente vai fazer você ranger os dentes. Os oponentes: Isaac, Bowser, Mr. Game & Watch, Luigi, Sandbag, Pac-Man, Pit, Falco, Bandana Dee e Luffy. Não há estratégia para completar isso. Boa sorte!
+|-
+| [[Arquivo:Blue_screen.jpg|150px|center]]
+|   <font size=5>#51</font>
+! '''''?????'''''
+| E '''*whirrr*''' PRA FECHAR COM [[[[Chaves|<font color=black>Chave de Cu!</font>]]]], O '''ÚLTIMO EVENTO''' [[[[Parabéns pra Você|<font color=black>desbloqueado após você conseguir rank A ou S em todos os anteriores</font>]]]] É UMA [[[[Batalha de rap|<font color=black>grande batalha]]]] CONTRA '''DUAS''' MASTER HANDS (ao invés de Master e Crazy mas talvez os desenvolvedores estejam [[Baiano|com preguiça no momento]]), PODE SER [[[[Pênis|<font color=black>um grande</font>]]]] PÉ NO SEU [[[[Pé|<font color=black>pé</font>]]]], '''MAS''' COM OS [[[[Míssil balístico intercontinental|<font color=black>Foguetes Patenteados™</font>]]]] VOCÊ PODE *click* FAZER [[[[Nada|<font color=black>TUDO!</font>]]]], PARA [[[[In The End|<font color=black>In The End</font>]]]], VOCÊ GANHAR '''MUITOS...''' [[[[Página linkada|<font color=black>Hyperlink Blocked</font>]]]] Ḧ̶̡̡̖̯́̃̀ͅÈ̸͖̿̕H̴̖̞͔̤̘̅A̷̱̽̍̑̒Ḛ̷̍͑̂͝H̷̳̣̄͒̅Ȩ̶̛̺͖̫̳̍̽Ḩ̵̢̥̺͎̓̏̄̽̈́́̿͜A̶͍̱͈̬̖͓͋̋̇̎Ḙ̷͔̳́̈́̂̋H̷͈͇̞́̌͛̾̽̑͝Á̶̢̯̩̘̫̩̒̄̈́̅E̴̥̐ͅH̴̡̗̻̥̾͒͐Ȅ̶̢̢͙͓̝͊́̑͐Á̴͉̬̤͔̠͗̍͛̽̌͠H̷̤̰͂̔̄̌Ẽ̴̡̛̥͇̙̤̟̿ͅȀ̷̞̙͔͈̮̝̿̌̒̑͒H̵̰̤̳̠̫̜̪͌͗Ę̵̤̓͌͋̋Ả̸̰͉H̵̱͇̗̙̀͆̌E̴̡̝͙͍͓̦̽
+|}
+
+
+
+=Ver também=
+*[https://twitter.com/nocontextmugen/status/1086058869728501761 O vazado final smash de Piccolo]
+*[https://www.supersmashflash.com/play/ssf2 Jogar essa joça (sempre no site dos criadores (McLeodGaming), nunca em sites bosta!)].
+*[https://twitter.com/SmashFlashDevs Twitter dos desenvolvedores, onde postam atualizações]
+{{Smash Bros}}
+[[Categoria:Super-Coisas]]
+[[Categoria:Jogos lançados em 2007]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Super Smash Bros.]]

@@ -1,0 +1,141 @@
+{{desmanual|Como fazer funcionar um cartucho de Nintendinho}}
+
+{{C|Huum, não era pra ele ficar meio lento com todas essas coisas na tela?|Shigeru Miyamoto|a estranha velocidade mágica do vídeo do Nintendinho}}
+{{C|É verdade. Coloca ai uns trecos pra dar ''slow'' só pra disfarçar|Hiroshi Yamauchi|vídeo do Nintendinho}}
+{{C|Hehehe!|Diabo|comentários acima}}
+{{C|Na Holanda, o Nintendinho se joga sozinho não precisa de '''VOCÊ'''''!!''|[[Reversal Holandesa]]|Nintendinho}}
+{{C|Mama Mia!|Mario|Nintendinho}}
+{{C|Mário? Que Mário?|Você|Mario}}
+{{C|This is a fucking piece of dog shit!|Angry Video Game Nerd|Nintendinho}}
+{{C|Deixe nas mãos do céu|Nintendo|ela mesma}}
+{{C|Vem pra caixa você também|Caixa|Nintendinho}}
+{{C|NÃO HÁ!!! Sério!!|[[Escassez Haitiana]] resumida|Nintendinho}}
+{{C|Califórnia...|Moleque Autista|Nintendinho}}
+[[Arquivo:Action 52 capa.jpg|thumb|right|260px|[[Action 52]], um dos grandes jogos desse console.]]
+
+[[Arquivo:NES.gif|left]]Em [[1982]], [[Hiroshi Yamauchi]], cansado de vender cartinhas pornográficas de plástico da Disney para a [[Yakuza]], decidiu enfrentar a Gigantesca [[Atari]] com um console mais barato e mais poderoso (afinal de contas, a [[Sega]], com seu protótipo de [[Master System]] travestido de computador não fazia nem cócegas na Atari).
+
+Após alguns acordos com demônios japoneses e uma empresa de [[arroz]] parboilizado, nascia assim o '''Famicom'''; também conhecido nos [[Estados Unidos]] como '''NES''', e no [[Brasil]] como Nintendinho, [[Phantom System]], [[Top Game]], [[Turbo Game]], [[Dynavision]], [[Polystation]], [[Handyvision]], [[Bit System]], [[Hi-Top Game]], [[Top System]], [[Super Charger]], [[Geniecom]], [[ProSystem-8]], [[Wivision]], [[Magic Computer PC-95]], [[Mega Joy]], Y-Box, GameSquare, Micro Genius, Tapete de dança da [[Barbie]] entre outros.
+
+== A criação do mito ==
+[[Arquivo:Nes.jpg|thumb|left|230px|Protótipo do NES. Tempos depois eles trocaram a mídia de armazenamento dos jogos para simples cartuchos: o CD ainda não tinha sido inventado e ficaria muito evidente a influência do capeta neste treco.]]
+O senhor Hiroshi queria que o Nes custasse apenas 150 dólares e que estivesse equipado com uma CPU de [[16]] bits, o [[68000]]. Entretanto, o [[68000]] sozinho custava mais de [[600]] dólares. Diante de tal custo ele desistiu da ideia e tentava, sem sucesso, encontrar uma solução alternativa para o dilema; até que algo extraordinário aconteceu...
+
+Durante uma de suas caminhadas diárias pelos bosques bizarros do [[Japão]], o Sr. Hiroshi viu uma raposa espatifada por uma bicicleta. Ficou com pena da coitada, levou-a para casa e cuidou dela até a sua recuperação. Neste momento a raposa revelou ser um [[otaku|demônio japonês]], e, como prova de gratidão, disse que ele poderia desejar qualquer coisa que ela daria para ele (ou quase qualquer coisa quando ela viu o senhor Yamauchi com as calças na mão). Diante de tal ''restrição'', ele "pediu" que a [[raposa]] desse algo pra ele que fosse tão ou mais forte que o [[68000|68k]] e que custasse tão barato a ponto de ser chamado de patético; então a raposa deu pra ele um esquema demoníaco de chip de vídeo que permitiria tal proeza.
+
+Porém, como foi uma [[Youkai|raposa demoníaca]] quem criou o esquema do tal chip, nenhuma empresa queria fabricar aquilo. Mas mister Yamauchi descobriu uma empresa de arroz parboilizado chamada Pobreh que não estava muito bem financeiramente porque ninguém queria um [[arroz]] feito de [[silício]] com circuito integrado.
+
+Assim, o senhor Yamauchi ofereceu pra Pobreh a receita do "arroz parboilizado da raposinha bonitinha", e eles logo trocaram o nome pra [[Ricoh]], e, junto com a CPU do [[Atari]], finalmente foi feito o Nintendinho.
+
+=== Hardware ===
+[[Arquivo:Cassette 0001.png|right|thumb|240px|Os primeiro cartucho do Famicom eram assim.]] 
+
+Um Nintendinho/Famicom/Top Game/Phantom System... (você entendeu, né?) consiste dos seguintes componentes:
+* Cpu 6502 modificada pra ter [[som]], [[joystick]], [[rede]] e controladora de [[ram]] (sim, foi dai que a [[SiS]] roubou a ideia) rodando apenas a 1.73&nbsp;MHz pra não torrar a RAM vagabunda dos anos 1980.
+
+* Chip de vídeo [[PPU]] rodando a 5&nbsp;MHz (ninguém sabe o que PPU quer realmente dizer; provavelmente deve ser alguma coisa na língua japonesa demoníaca).
+
+* Dizem as más línguas que na época em que o console foi lançado, o homem ainda não havia construído o conceito de memoria ram. Outros afirmam que os engenheiros esqueceram de coloca-la apenas porque estavam [[punheta|distraídos com outra coisa]]. Porém, os mais [[idiota|positivistas]] dizem que se você procurar MUUUUUUITO encontrará 2k de RAM podre para CPU e 2k de RAM podre para GPU. Independente de qual for a verdade sempre que você der um passo para trás e voltar para a frente, os inimigos estarão te esperando novamente, ressuscitados milagrosamente pelo amor de Jesus Cristo.
+
+* 10NES (chip de proteção).
+
+=== Software ===
+[[Arquivo:Tinytoonsnes.jpg|thumb|right|250px|Um inocente cartucho do [http://www.datarecoveryreview.net data recovery] Tiny Toons de NES abrigando o poder malígno da Samara na forma do chip 10NES]]
+Inicialmente projetado para rodar jogos gravados em CD (por sugestão da supracitada raposa diabólica), optou-se por cartuchos quando lembraram que os cds ainda não existiam (seriam lançados pouco depois do lançamento do Nintendinho no Japão), o que deixaria muito explícito o pacto da Nintendo com a entidade infernal travestida de bicho peludo. Os cartuchos japoneses, embora não possuíssem a proteção antipirataria presente nos cartuchos do Nintendinho americano, tinham um aspecto de brinquedo chinês pirateado, comumente encontrados nas cores rosa, verde-limão, azul-bebê e roxo-cheguei em versões ''oficiais'' com 101 jogos (na verdade 50 variantes do Super Mário e 51 do Contra) e seu tamanho era diretamente proporcional ao do pênis de um japonês qualquer (60 pinos contra 72 pinos dos cartuchos americanos). No final das contas, os cartuchos japoneses eram apenas pretextos para vendas de conversores vagabundos que permitiam usar as fitas de 60 pinos em consoles que aceitavam apenas 72 pinos. O adaptador inverso também existia, mas poucos japoneses se atreviam a enfiar uma fita do Nintendinho americano no Famicon pois nem sempre o alargamento se dava corretamente, causando sérios prejuízos financeiros para o proprietário com as custas médicas de uma cirurgia de períneo.
+
+=== O Lançamento ===
+Em [[1984]], após um lançamento decente no [[Japão]], o senhor [[Hiroshi Yamauchi]] decidiu que era hora de combater a Atari, e por isso, mandou o [[Famicom]], com o nome de Nintendinho, para combater nos [[Eua]].
+
+Foi um verdadeiro massacre: mais de 50 milhões de [[Atari]]s 2600, [[Intellivisions]] e aliados foram mortos e enterrados no deserto de Almogodo em menos de 2 meses, e assim, o Nintendinho dominou os Eua com armas como o [[Mario|Super Mario]] e [[Zelda]]. Esse evento ficou conhecido como "o crash" e até hoje é reencenado em certas cidades.
+
+== Mario? Que Mario? ==
+[[Arquivo:Mario armario.jpg|thumb|right|240px||Screenshot do jogo Mario Behind the Closet]]
+Apesar de o Nintendinho ter atingido a meta de se transformar em um sucesso, ele não estaria completo sem uma mascote. Yamauchi contrata para tal missão o jovem e promissor <s>cheirador de gatinhos</s> ''designer'' de jogos Shigeru Miyamoto. Entretanto, não foi tão fácil quanto parecia e os diversos esboços apresentados por Miyamoto eram sumariamente rejeitados por ''mister'' Yamauchi, entre eles uma lagartixa de óculos escuros, uma raposa que rodopiava igualzinho ao Taz (ideia esta rejeitada para não ficar evidente o pacto com a raposa demoníaca e também para evitar um processo por parte da Warner Bros.), um cara vestido de coelho que usava um iô-iô como arma, um [[Harry Potter|jovem bruxo]] com uma cicatriz na testa e, por fim, o mais ousado: um ouriço azul de tênis vermelho chamado [[Sonic]].
+
+Desesperado com as exigências cada vez maiores do Sr. Yamauchi, Miyamoto decide cometer suicídio com uma overdose de pêlos de gatinhos. Como já era um usuário rotineiro da droga, conseguiu apenas ficar mais lesado do que já era e decidiu voltar para casa mais cedo. Ao entrar, flagra o imigrante italiano faxineiro do prédio da Nintendo chamado Mário enfiando o [[pênis|cano]] na sua esposa. Contudo, como ainda estava sob forte efeito dos pêlos cheirados horas antes, o que Miyamoto viu se transformou no maior sucesso da empresa do Sr. Yamauchi: a história de um encanador italiano narigudo e bigodudo (o Mário) em um mundo bizarro repleto de criaturas estranhas (a casa do Miyamoto) lutando para salvar a princesa (a puta da esposa do Miyamoto) das garras de um lagarto gigante chamado Bowser (o dragão de Komodo de estimação do Miyamoto). Com isso Miyamoto salvou seu emprego na Nintendo e se tornou uma espécie de Steve Jobs japonês.
+
+== Os Jogos ==
+[[Arquivo:abst1.jpg|thumb||Imagem ''in game'' do Altered Beast rodando no Nintendinho]]
+Reconhecido como o console que marcou os anos 1980 com a promessa de ''renderizar'' em tempo real gráficos iguais ao da animação Toy Story, ficou restrito a entregar gráficos que mais pareciam um Atari 2600 vitaminado (a Sony não aprendeu a mentir sozinha). Até mesmo o ex-computador e agora videogame da Sega, o Master System, também com 8 bits, tinha melhores gráficos do que o Nintendinho. Mas o pacto era forte e o Nintendinho deixou eternizadas algumas pérolas no mundo dos ‘‘games'':
+
+* '''Sonic''': Inicialmente cotado para ser a mascote da Nintendo, foi reaproveitado como jogo tapa-buraco entre o hiato de produção de cada nova versão do Super Mário. Contudo, o anêmico processador do Nintendo não conseguia ''renderizar'' o jogo na velocidade exigida pelo ouriço azul (sim, naquela época ele já fazia jus ao nome). Depois de 2 versões fracassadas, foi para a ''geladeira'' e, ainda nos anos 1980, Miyamoto o cedeu para a Sega em troca de 100 quilos de gatinhos para cheiramentos.
+
+* '''Mônica no Castelo do Dragão''': Parceria inédita entre a Nintendo e os Estúdios Maurício de Souza, é um jogo onde você guia a delinqüente e dentuça Mônica por um reino repleto de monstros psicodélicos saídos da cabeça de algum Hippie que ainda pensa que vive nos anos 1960. Teve relativo sucesso na república das bananas sendo copiado anos depois pela Sega com o nome de Wonder Boy in Monster Land.
+
+* '''Star Fox''': A [[youkai|Raposa demoníaca]] se sentiu ofendida ao ver que o chip de vídeo mágico dela que nunca dava ''slowdown'' tinha seu desempenho tão prejudicado pela CPU vagabunda do Atari e decidiu fazer um jogo utilizando um processador projetado por ela para dar uma ajuda para o anêmico ''hardware'' do NES fazer 3D. Porém, o jogo foi transferido para o [[Super Nintendo]] após ter os gráficos cortados para um nível compativel com a tecnologia da época. O jogo era sobre uma raposa que tinha que pilotar uma nave para dominar o mundo e transformar todas as pessoas em [[furries]].
+
+* '''Altered Beast''': A melhor conversão para console deste arcade da Sega foi (é claro) a do Nintendinho. Aqui você controla um [[furry]] que se transforma em vários bichos (bichas) e promove surubas zoófilas entre um chefe de estágio e outro. Jogo amaldiçoado pela já injuriada [[youkai|Raposa demoníaca]] pois, embora a ''fauna'' na versão do Nintendinho fosse maior do que a da versão arcade, ainda assim o jogo não dispunha de nenhuma raposa, causando o fracasso absoluto desta maravilha da era 8 bits.
+
+[[Arquivo:Ring King (NES).gif‎|thumb||Típico jogo de NES]]
+
+== Acessórios ==
+[[Arquivo:Powerglove2.jpg|thumb|right||A famigerada Power Glove: melhor sorte da próxima vez, Mattel]]
+Com o passar dos anos, várias tecnologias foram desenvolvidas ainda nos anos 1980 e o Sr. Yamauchi decidiu se apoderar de algumas delas para o seu NES ficar ainda mais popular. Dentre elas, podemos citar as mais conhecidas:
+
+=== Power Glove ===
+{{C|I love the Power Glove...It's so BAD!|Retardado|Power Glove}}
+Esse acessorio, por incrível que pareça, não é da Nintendo e sim da Mattel, que queria arranjar algo que parecesse ''cool'', mas na verdade fosse um lixo pra sabotar o Nintendinho e assim fazer o [[Intellivision]] vender algumas milhões de unidades.
+
+O plano deu errado, pois eles não contavam com pivetes fingindo que jogavam bem com a luva e parecendo ''cool'', o que provocou uma busca desenfreada pelo console nas lojas, chegando a vender pouco mais de 10 milhões de unidades apenas por causa da Powerglove.
+
+A tal luva, teoricamente, permitia capturar os movimentos da mão e transmitir para a tela. Mas como a tecnologia de 1987 era limitada e a Matell não possuía nenhum pacto com algum demônio japonês para ajudar na tecnologia, a coisa não passava de um joystick digital ruim.
+
+=== R.O.B. The Robot ===
+Na sua primeira tentativa de dominar o mundo, a [[Raposa Demoníaca]] projetou essa coisa infernal que para um usuario normal nada mais era do que um troço que apenas tenta (e falha) pegar alguns discos e levar pro outro lado. Entretanto, quanto colocado próximo de algum líder de estado como o presidente dos EUA, os olhos do robô começam a brilhar hipnoticamente, convencendo o presidente a obedecer a todas as ordens dadas pelo robô.
+
+=== [[Famicom Disk System]] ===
+Essa foi mais uma necessidade do que algo pra expandir o nes.
+Na época do Super Mario 1, os chips de roms de 32k como a do Mario saiam por quase 40 dólares cada no mercado atacadista, o que "obrigava" a Nintendo a vender o cartucho por 80 e, por isso, eles tiveram que arranjar uma solução mais barata para coisa sem ser o drive de CD (igualmente inviável naquele momento), surgindo assim o Famicom Disk System.
+
+O Famicom Disk System era um drive de discos magnéticos com capacidade de 128kbytes cada e que possibilitava gravação dos dois lados. Cada disco dele custava apenas 5 dólares para a Nintendo; assim ela vendia os discos por 20 dólares e o povo achava que tava saindo no lucro.
+
+Esse foi provavelmente o primeiro aparelho a apresentar a terrível frase ''Now Loading...'' e fazer o usuário esperar uma eternidade devido a taxa de acesso demasiadamente lenta dele. Tornou-se um sucesso tremendo no Japão devido aos jogos pornôs que a [[Super Pig]] estrelava antes de se tornar uma atriz de animes infantis.
+
+== 10NES ==
+[[Arquivo:10nesChip.JPG|thumb|right|200px||O demoníaco chip de proteção do NES versão EUA. O resistor rosa é um toque artístico sugerido pela Hello Kitty]]
+O senhor Yamauchi notou que nos Eua a pirataria comia solta e, querendo evitar que o Nintendinho se tornasse um treco típico do Brasil nos Eua, encomendou para [[Samara]] um chip de proteção contra pirataria que mata em 10 minutos quem rodar uma fita pirata no Nintendinho. Até hoje só é possível rodar jogos piratas em um Nintendinho original usando uma pose especial de Kama Sutra entre uma fita original e uma pirata. O mesmo vale para a utilização do acessório de mirim conhecido mundialmente como [[Game Genie]].
+
+Entretanto, tal proteção antipirataria não duraria muito tempo: vários usuários descobriram que bastava arrancar o resistor rosa ''made by Hello Kitty'' e colocado por Samara por sugestão da mesma (vide imagem ao lado) que o Nintenndinho parava com esta baitolagem de só aceitar cartuchos originais. Outros ''gamers'' mais radicais importavam diretamente do Brasil clones do Nintendinho. Os clones mais cobiçados eram: Phantom System com seus 2 controles de [[Mega Drive]] e pistola já inclusos e o Turbo Game, com 2 controles turbo invertidos de Mega Drive, entradas para cartuchos japoneses e americanos, dispensando assim o uso de adaptadores, e uma interferência no canal 3 que permitia que toda a sua vizinhança assistisse as suas tentativas fracassadas de ''zerar'' o Super Mario.
+
+Depois de começar a perder mercado para esta "avalanche" de clones do Nintendinho, o Sr. Yamauchi viu que era hora de tomar uma iniciativa radical: o contrato de produção do Nintendinho com o 10NES não permitia que um Nintendinho fosse fabricado sem um chip 10NES (caso contrário, o Sr. Yamauchi receberia uma visita da [[Samara]]), o que impedia que a Nintendo contra-atacasse os clones. Entretanto, a Nintendo não se abateu: lançou, tempos depois, o Nintendinho 2. Basicamente consistia de um Nintendinho travestido parcialmente de Super Nintendo (principalmente os joypads), com entrada superior para os cartuchos (e não mais o incômodo estilo videocassete) e sem o famigerado chip 10NES. Como o contrato falava apenas de Nintendinho e não de Nintendinho 2, Samara nada pode fazer para impedir o Sr. Yamauchi. 
+
+== Angry Nintendo Nerd ==
+:'''''Ver''' - [[Angry Video Game Nerd]]''
+[[Arquivo:Avgn.jpg|thumb|right|200px||O Nerd da Nintendo mostrando para que realmente serve a Powerglove.]]
+Este ser assumidamente [[Nerd]] surgiu nos idos de 2006 xingando os clássicos jogos do Nintendinho pois só agora conseguiu comprar um e decidiu, desta forma, descarregar toda a frustração de ver seus ''amiguinhos'' atualmente masturbando o controle do [[Nintendo Wii]] enquanto ele tem que se contentar com a famigerada Powerglove. De forma irracional, mesquinha e inconsequente, esta criatura asquerosa critica impiedosamente jogos do Nintendinho que hoje fazem parte de qualquer coleção de respeito, dentre eles: Dr. Jekill and Mr. Hyde, Double Dragon 3, Karatê Kid, Castlevania 2 e o revolucionário Top Gun. Ameaçado de ser processado pela Nintendo (isso sem falar em "soltar a raposa" nele), mudou seu nome artístico para Angry Video Game Nerd e cada vez menos fala de jogos ou periféricos da Nintendo, preferindo criticar os clássicos de empresas menores como a moribunda Sega e o zumbi Atari. Atualmente ele se orgulha de possuir um vasto acervo de jogos originais do Nintendinho (depois da ameaça de receber uma visita da Raposa, ele não ousou sequer pensar em arrancar o resistor rosa), um revolucionário Sega CD e a melhor plataforma de jogos da era 32bits: o Sega 32X, que ele se orgulha de ter comprado por 5 reais completinho na feira. Atualmente cobiça a aquisição de um Nintendo Wii para conferir se o controle do Wii realmente não passa de um Powerglove com formato anatomicamente incorreto.
+
+== Fatos sobre o Nintendinho ==
+{{Trivia}}
+[[Arquivo:Nintendinhoista.jpg|thumb|right|260px|Típico usuário do Nintendinho, que por sinal atrai muitas mulheres.]]
+* Graças ao seu poder demoníaco, ele nunca parou de vender; o que o forçou a trocar de nome varias vezes para não ficar suspeito. Por isso ele é conhecido por tantos nomes diferentes.
+
+* O Nintendinho quase foi destruído pela Atari durante o crash graças a um jogo chamado Chuck Norris Super Kicks, mas, devido à limitação de vídeo do Atari ele não pode dar o Roundhouse Kick e por isso acabou quase sendo derrotado.
+
+* Todos os outros videogames 2D clonam o chip de vídeo do Nintendinho exceto o Atari Jaguar, pois este utiliza um chip de vídeo feito por um maluco que cheirou muitos [[gatinhos]] e apenas felinos conseguiam jogar no Atari Jaguar.
+
+* Apesar de a Nintendo ter voltado atrás ao decidir não implantar o chip 10NES no Nitendinho 2, tal decisão mostrou-se tardia: a SEGA, após roubar um carregamento de chips 68k, computadores MSX (para arrancar deles os Zilog Z80) e de teclados Yamaha (para o chip de áudio), decidiu azedar a festa do Sr. Yamauchi lançando o [[Mega Drive]], forçando a raposa demoníaca a relembrar das aulas de engenharia eletrônica e criar um chip ainda mais poderoso do que o chip do concorrente ([[Super Nintendo|Clique aqui]] para melhores detalhes)
+
+== Ver também ==
+* [[Angry Video Game Nerd]]
+* [[Terceira Geração de Consoles]]
+* [[NES Classic Edition]]
+* [[Super Nintendo]]
+* [[Wii]]
+* [[Game Boy]]
+* [[Game Boy Advance]]
+* [[Nintendo 64]]
+* [[Nintendo DS]]
+* [[Hentai]]
+* [[Mario]]
+
+{{Nintendo}}
+{{consoles}}
+
+[[Categoria:Video games]]
+
+[[en:NES]]
+[[es:Nintendo Entertainment System]]
+[[ja:ファミリーコンピュータ]]
+[[pl:Pegasus]]
+[[sv:Nintendo Entertainment System]]
+[[zh:FC游戏机]]

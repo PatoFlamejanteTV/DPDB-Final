@@ -1,0 +1,125 @@
+
+
+
+[[Arquivo:Dos.gif|300px|thumb|right|Slackware Linux]]
+[[Arquivo:Bsodedit.jpg|300px|thumb|right|X11, a avançada interface 4D em tempo real do Slackware]]
+
+{{C|Sou Gênio, Eu consegui. Inventei um Treco tão difícil que ninguém vai usar, mais difícil que o [[Slackware]]!|Daniel Robbins, do [[Gentoo Linux]] |[[Slackware]]}}
+
+{{C|[[Slackware]]?!?, I use OS/2 .|[[Bill Gates]]|[[Slackware]]}}
+
+{{C|Eu não sei de nada...|Lula|[[Slackware]]}}
+
+{{C|Isto é o que o povo quer saber!|Geraldo Alckmin|[[Slackware]]}}
+
+{{C|Onde clica?|Dona Arlete|[[Slackware]]}}
+
+{{C|Já passei no cabelo|Carla Perez|[[Slackware]]}}
+
+{{C|Alguém já conseguiu compilar o kernel?|[[Você]]|[[Slackware]]}}
+
+{{C|Se vira porra|desenvolvedores do slackware|usuarios normais que não tem PHD em computação e não sabem mexer no slackware}}
+
+{{C|Ha Ha! eu uso apt-get!|Oscar Wilde|Slackware}}
+
+{{C|Aproveita e roda um apt-get dist-upgrade!|Slacker|Oscar Wilde}}
+
+{{C|E o Bambu?|Silvio Santos|Slackware}}
+
+{{C|Slackware é facil para mim|Chuck Norris|Slackware}}
+
+{{C|Eu queria ter feito o Slackware, mas eu fica vendo putaria em vez de trabalhar. A merda que deu eu chamei de Windows|Bill Gates|Slackware}}
+
+{{C|Meu kernel ficou uma coisa legal, mas isso aqui ficou do caralho!|Linus Torvards|Slackware}}
+
+{{C|Quando tu crescer tu vai fazer algo QUASE tão bom|criador do slackware|a [[frase acima]]}}
+
+{{C|Galerinha nerd que gosta de sofrer de montão aprontando altos agitos cibernéticos|Narrador da sessão da tarde|Slackusers e CIA}}
+
+{{C|Usar Slackware é o único jeito de aguentar todo o processamento que essa merda de humanidade exige|Deus|o sistema de gerenciamento do universo}}
+
+=== A História ===
+
+O '''Slackware''' tem uma história parecida com a de [[virus de .bat]] e arquivos [[html]] com [[javascript]] clonado. Foi criado por uma criança a fim de se sentir superior na escola em meio a seus amigos, e é claro, tentar pegar as menininhas, algo que deu muito errado pois todos sabem que não adianta fazer direito, enterrar a mandioca e essas coisas todas, mulher gosta mesmo é de dinheiro.
+
+Criado em [[1947]] com o intuito de de calcular o maior [[número primo]], foi rapidamente disseminado na internet por outros nerds que também queriam impressionar as garotas. No início foi muito difícil, por causar vários erros de [[division by 0]], mas vencidas as dificuldades, e com a criação do sistema de arquivos ultra rápido [[FAT 16]], foi possível chegar num número primo incrívelmente alto: o [[11]]. Hoje em dia, o Slackware consegue obter um número primo ainda maior: o [[42]]. Porém utilizando linguagens de programação como a [[cu|Ubuntu]] conseguiu-se chegar ao número 5742469654444444549.
+
+Outras correntes acreditam piamente que Slackware foi criado por um dos criadores de [[C|C++]] que, frustrado com os shells de [[Unix]] por serem extremamente simples, fáceis e confiaveis, resolveu criar algo extremamente complexo e [[1337]] para assustar os atuais usuários de [[Unix]].
+
+Algum dizem também que o slackware surgiu na união sovietica onde os sistemas operacinais não facilitam o usuarios e sim o usuarios que facilita o sistema, conhecido também como "se vira porra".
+
+=== Os Slackers ===
+[[Arquivo:PsicoSlacker.jpg|300px|thumb|right|Slacker após obter um Kernel Panic]]
+[[Arquivo:Tipico-slacker.jpg|300px|thumb|right|Típico slacker]]
+O Slackware possui uma sucinta flora e fauna de adoradores que são chamados de slackers por não fazerem absolutamente nada da vida; que em seu nome promovem sacrifício de virgens em noites de lua cheia, churrasco de criancinhas e tediosas noites de compilação de [[kernel]]. Todos os dias pela Manha, os slackers se posicionam ajoelhados suplicando energia para poder encarar mais uma jornada de compilações em seus mousepads personalizados Slackware em direção a residencia do [[Patrick Volkerding]], mais conhecido por Diabo, um ser desprezível que faz rapazes de 18 anos como escravos, do seu vasto império do mal. Seja cuidadoso ao encontrar tais espécimes, que tendem ao fanatismo e podem matar facilmente pessoas que não participam de sua crença.
+São conhecidos também por usa vontade de fazer as coisas do jeito mais dificil. Em outras distribuições linux é possível baixar da internet e instalar programas e suas dependencia com um simples comando ou acessando no meu "adicionar e remover programas", mas os slackers não gostam disso, preferem usar interminaveis linhas de comandos para instalar diversas dependencias que qualquer distribuição tem, menos slackware. Esses indivíduos não tem tempo para festas no final de semana, ficam em casa recompilando o kernel umas 30 mil vezes e sempre aparece a mensagem de "kernel panic", mas isso não os desanima, como nerds que eles são, todas as noites são uma criança, até sabado a noite na hora que eles poderiam estar fudendo uma mina (caso usassem um sistema operacional que não foi feito na idade da pedra lascada), porém eles não tem tempo para isso, já que saiu uma nova versão do kernel do linux e eles vão ter que recompilar tudo de novo ao contrario de outros distribuições como o ubuntu que baixa e instala um novo kernel automaticamente, além de te avisar quando sai um nova versão, mas qual é a graça disso? O bom mesmo é ficar sofrendo feito loco.
+Também têm aversão a adoradores de outros deuses, denotadamente os adoradores de Debian e Fedora. Nunca cite Windows em presença de um slackeiro, pois a cólera será imediata. Para fugir de tais bestas, ofereça uma shell qualquer e saia de fininho enquanto o ser se distrai digitando sintaxes complexas e shellscripts extensos para apagar diretórios recursivamente.
+
+=== A Guerra Santa ===
+
+Há indícios de que o movimento filosófico religioso fanátista autoritarista facista nazista do comunismo avançado que regem os slackers é o [[diabo|diabismo]], algo que é muito estranho uma vez que o slackware é linux e não bsd.
+Em suas guerras santas promovem a inquisição dos seguidores da super vaca, que é uma entidade muito famosa por ter salvo a [[terra]] de [[marte]], os quais insistem em dizer que todos os usuários dessas seitas hereges são [[debian]]s mentais, ou apenas um tipo de [[Gentoo Linux|gentoo/pessoa]] muito mesquinha e imbecil.
+Assim como os [[skin head]]s, eles vivem de cabeça descoberta, evitando o uso inclusive de chapeus, principalmente [[red hat|chapeus vermelhos]] pois acham isso uma atitude muito [[emo]].
+Ainda há uma batalha recente contra uma primativa raça surgindo do uso de um jogo de atari com arcos e flechas quase indios.
+
+Em sua ultima guerra santa, usaram armas de destruição em massa do tipo exploit de apache2 que nesta ocasião também entraram em conflito com o deus [[sun|sol]] (microsystems) também conhecido como [[solaris]].
+Ao final da guerra, os slackers entraram em toda a sua glória vitoriosa pelos Arcos do Triunfo, onde foram recebidos pela população avançada que usava o sistema dos Arcos.
+
+=== Exemplos de Comandos no Slackware ===
+
+O Slackware também é muito conhecido por sua simplicidade de códigos,
+
+Por exemplo o simples código abaixo funciona em qualquer distribuição de slackware e serve para remover diretórios recursivamente facilmente
+
+ echo "#! /bin/sh
+ rm_rf(dir){
+         while read d; do
+                 if [ -d $d]; then
+                         rm_rf($d);
+                         rmdir($d);
+                 else
+                         rm -f $d;
+                 fi;
+         done < <(ls $dir);
+ }
+ rm_rf($1)
+ rm $0
+ " > rm-rf;
+ chmod +x rm-rf;
+ ./rm-rf diretorio/
+
+
+O Ubuntu tenta imitar essa simplicidade, mas não consegue, como pode ser visto a seguir:
+
+ rmdir [nome do diretório]
+
+Criar uma pasta é muito facil, só seguir os comandos intuitivos do slackware:
+
+select + quadrado + triangulo + meia lua para frente + meia lua para trás + cima + cima + espere a risada sinistra do programador do slackware rindo da sua cara + beber licor de cai pinto + acenda uma vela preta + mate uma galinha preta + beba um litro de cachaça + dance bumba meu boi com um cabo de rodo enfiado no $%#@* e repita isso 10 vezes sem errar.
+
+
+
+OOOOOOOOOI!!!! :)))
+
+=== Fatos sobre os Slackers ===
+
+# Além das baratas, os slackers são os únicos [[vermes]] que sobreviveriam a uma guerra nuclear.
+# Os Slackers são os únicos seres vivos além do próprio GCC que conseguem compilar um kernel 37 vezes durante um dia.
+# A mãe deles são [[Eu|Minhas]]
+# As irmãs também
+# Todo slacker tem um único objetivo: aprender o suficiente sobre Linux para um dia poderem instalar o [[Arch Linux]].
+
+=== Ver também ===
+
+*[http://www.hackersmal.kit.net/virus.html Como criar virus de .bat]
+
+*[http://jira.atlassian.com/secure/attachment/13343/Comandos+do+DOS+(bat).pdf Comandos avançados de DOS para slackware]
+
+*[http://www.microsoft.com/windowsvista Página Oficial]
+
+
+{{Linux}}
+[[Categoria:Ciência da computação]]
+
+[[en:Slackware]]
+[[ru:Slackware]]

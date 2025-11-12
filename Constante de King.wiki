@@ -1,0 +1,128 @@
+{{Matemática}}
+{{c|Na União Soviética, a Constante de King define '''VOCÊ'''''!!''|Reversal Russa|Constante de King}}
+
+{{C|Todos sabiam que consigo dividir por zero. Ninguém sabia como. Até agora.|[[Chuck Norris]], sobre a Constante de King se tornar pública}}
+
+{{c|Todos sabiam que consigo montar uma bomba atômica usando um sabonete, um clip e um chiclete. Ninguem sabia como. Até agora.|MacGyver|Constante de King}}
+
+A '''Constante de King''' (símbolo <math> \psi </math>, abreviada ''CK'') é uma constante matemática variável. Define-se como sendo a distância do resultado obtido ao resultado correcto. O seu nome é em honra a figura suprema da monarquia, que como é obvio tem sempre razão.
+
+{{C|Quem é que falou que essa poha tava mal?!|[[Luis XV]], estudando analise matemática}}
+
+A Constante de King está para a ciência como a [[POG]] está para a programação. Na verdade, é uma [[Gambiarra]] matemática usada constantemente ao longo da história. Os seus principais campos de aplicação são dois. Primeiro, a CK é usada para corrigir resultados de problemas mal resolvidos em todas as areás cientificas. O segundo campo é na area de investigação física e matemática, onde o recurso à CK permite a correção de fórmulas cujos resultados teóricos são diferentes dos resultados práticos. A dimensão da CK é também variável. Consoante der jeito, pode ser tanto adimensional como ''n'' dimensional.
+
+=== Definição Matemática e Lógica Simplificada ===
+
+A sua  gama de valores é definida como o intervalo
+
+:<math>
+\mathbb{\psi}\in\left\{\begin{matrix}\left( \frac{a}{b}\right)^{-1}\end{matrix}\,|\,a\in\mathbb{R}\,;\,b\in\mathbb{R^{*}}\right\}
+</math>
+
+Em termos lógicos foi postulado que
+
+:<math>
+\forall a \Rightarrow \exists \psi : { \psi a=b}
+</math>
+*<math>a = </math> Resultado obtido
+*<math>b = </math> Solução do problema
+
+Isto significa que aconteça o que acontecer, você está certo.
+
+A formula simplificada de determinação desta constante é dada como
+
+:<math>
+\psi=\left( \frac{a}{b}\right)^{-1}
+</math>
+
+Uma consequência deste postulado matemático é a criação do '''Conjuntos dos Números de King'''.
+
+Consideremos que a=0 e b=1.
+
+:<math>
+\psi 0=1 \Leftrightarrow \psi = \frac{1}{0}
+</math>
+
+Chegado a este impasse, estudiosos da CK hesitaram. Mas a solução foi simples. Euler quando se deparou com <math> \sqrt{-1} </math>, disse que a solução era '''i''', chamou-lhe o '''Número Imaginário''' e continuou a fazer contas.
+Tal e qual Euler, os estudiosos disseram
+
+:<math>
+\psi = \frac{1}{0} = k
+</math>
+
+Onde '''k''' é o '''Número de King'''.
+A divisão de 1 por 0 não tem solução no conjunto números Complexos <math>\mathbb{C}</math>, nem no conjuntos dos números Reais <math>\mathbb{R}</math>. A solução só aparece no conjunto dos Números de King <math>\mathbb{K}</math>
+
+Em teoria de conjuntos se pode então afirmar que
+
+:<math>
+...\mathbb{Q} \subset \mathbb{R} \subset \mathbb{C} \subset \mathbb{K} 
+</math>
+
+O Conjuntos dos Números de King ficou também conhecido como o '''Espaço Hipercomplexo''' e, em aplicaçoes ''n'' dimensionais, '''Espaço Hipercomplexo Variável'''.
+
+{{C|Constante de King: A Última Fronteira|Capt. James T. Kirk, a bordo da Starship Enterprise. Data estelar 945678957634976.4}}
+
+
+=== Lei da Gravitação Universal ===
+[[Arquivo:Principia-gambiarra.jpg|thumb|right|Livro da vida de Newton é uma gambiarra que usa a Constante de King. Quem o diz sou eu!]]
+A '''Lei da Gravitação Universal''' é o caso mais famoso de uso da Constante de King. Reza a história que Newton, tentado perceber e formalizar matemáticamente o funcionamento do universo, esteve durante 3 anos sentado a uma secretária a experimentar formulas. Até que um dia chegou a um resultado inequivoco e elegante
+
+:<math>F = \frac{mM}{d^2}</math>
+
+*M e m são as massas
+*d é a distância entre os centros dos dois corpos
+*F é a intensidade da força gravitacional
+
+Após testar a formula com os dados experimentais a que tinha acesso deparou-se com um sério problema. Os resultados estavam todos errados. Mas como Newton era um homem prático e já estava farto de estar sentado à secretária disse "Que se foda, vai mesmo assim" e eis a formula que publicou no seu ''Principia Mathematica''
+
+:<math>F = G\frac{mM}{d^2}</math>
+
+onde G = (6.6742 ± 0.0010) × 10<sup>−11</sup> N m<sup>2</sup> kg<sup>-2</sup> é a '''Constante de Gravitação Universal''', um caso específico da '''Constante de King''' projectada em <math>\mathbb{R}^{3,2}</math>!
+
+{{C|Dá certo não dá? Então cala a boca e não enche o saco poha!|Isaac Newton, quando inquirido sobre o significado de G}}
+
+=== Método de Gauss-Seidel ou da Constante de King Matricial Dupla Iterativa ===
+
+A primeira revolução da CK surgiu de uma discussão entre Friedrich Gauss e Seidel, seu discipulo na universidade de Göttingen, Hanover.
+: Seidel: Sabe Gauss, eu tou entendendo esta coisa da Constante de King na forma matricial. Mas a parte má é que é preciso saber a solução do problema a priori. E se eu nao souber?
+: Gauss: Se nao souber é burro pa carai.
+: Seidel: Burro é você que não consegue desenvolver um algoritmo para a CK funcionar sem saber a solução!!
+: Gauss: Que é que você me chamou?!
+: Seidel: Burro!! Que nem [[Jeremias]], o bebado!
+: Gauss: Cala essa boca seu idiota! Eu vou desenvolver esse método e você vai-me ter que chamar "O Principe da Matemática" para todo o sempre tá entendendo?!
+
+Aí Gauss bateu o pé, sai porta fora e se recolheu no seu escritório.
+2 anos mais tarde Gauss fez o impossível. E eis o que saiu:
+
+"Dado um sistema de equações na forma matricial
+
+:<math> A x = b\, </math> 
+
+É possivel resolver o sistema usando um método iterativo utilizando a CK dupla
+
+:<math> 
+x^{(k+1)}  = \psi_1 ^{ - 1} \left( {\psi_2 x^{(k)}  + b} \right)
+</math>
+
+
+<math> \psi_1 = \left( {D - L} \right)^{ - 1}</math>
+
+<math>\mathbb{} \psi_2 = U</math>
+
+<math>\mathbb{} x^{(k)} </math> é uma gambiarra qualquer
+
+<math>\mathbb{} x^{(k+1)} </math> é a gambiarra seguinte
+
+Isto quer dizer que, dada uma solução errada qualquer <math> x^{(k)}</math>, o método de Gauss, ou método da Constante de King Matricial Dupla Iterativa, permite achar a solução correcta sem a saber a priori."
+
+Quando Gauss esfrega o papel na cara de Seidel dizendo "COMO É QUE EU ME CHAMO HEM?! FALA SUA PUTINHA, FALA!!", Seidel deu um pontapé na cona de Gauss e o matou. Roubou o papel e renomeou o Método de Gauss para Método de Gauss-Seidel.
+
+{{C| Sem Constante de King, não há matemática |Friedrich Gauss, sobre a Constante de King}}
+
+{{C|Primeiro disse que <math>e^{i \pi} = -2</math>, mas começou a dar tudo mal. Utilizei a Constante de King para resolver o problema |Leonard Euler, sobre a origem da "Identidade de Euler"}}
+
+{{C|Sei não. Se quer que seja honesto, foi porque a Constante de King deu zero|[[Albert Einstein]], sobre o porquê de a luz não ter velocidade relativa, independentemente do referencial do observador }}
+
+[[Categoria:Ciência]]
+[[Categoria:Matemática]]

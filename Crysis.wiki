@@ -1,0 +1,66 @@
+{{Game}}
+
+{{Infobox Série Game
+|title         = Choro da Irmã
+|image_logo    = Cry Sis.png
+|caption       = O logotipo da série
+|genre         = Tiroteio
+|developer     = [[Crytek]]
+|publisher     = [[Electronic Arts|EA]]
+|origin        = [[PC|PC tunado]]
+|first_release = [[Crysis (jogo)|Crysis 1]] (2007)
+|last_release  = [[Crysis 3]] (2013)
+}}
+
+'''Crysis''' é uma série de [[jogos de tiro em primeira pessoa]] que define bem o gosto refinado do público ocidental de videogames: Gráfico, apenas gráfico, e nada mais, sendo portanto uma trilogia de jogos com foco exclusivo e absoluto em gráficos, esquecendo gameplay e enredo, porque uma boa história ou um bom controle são irrelevantes quando você consegue enxergar com perfeição cada folha daquela palmeira. Ser fã de Crysis é a mesma coisa que ser aquele geek mais virgem e insuportável, daqueles que só fala de computador, configuração de computador, placa de vídeo e toda esses assuntos insuportáveis.
+
+A empresa responsável por essa franquia é a [[Crytek]], que significa "tecnologia que faz você chorar", porque é sempre necessário ter a placa de vídeo da NASA pra rodar um Crysis em seu lançamento. Mas quem financia essa bagaça é a [[Electronic Arts]], e se não tem DLC, microtransação e [[pay-to-win]] eles não vão aprovar um Crysis 4.
+
+== Jogabilidade ==
+
+A jogabilidade dos jogos de Crysis é nada demais, pois controlamos um soldado americano completamente genérico que usa uma roupa com capacidades extraordinárias que concede vários poderes, tais como: correr mais rápido, bater mais forte, aguentar porrada, ficar invisível, e, finalmente, regular melhor a digestão. Este último poder é, obviamente, o mais útil durante o combate.
+
+O que chama atenção nos jogos dessa franquia é que os designers conseguiram projetar uma interface revolucionária: clique com o botão esquerdo do mouse e você atira. Clique com o botão direito do mouse e nada acontece. Bem, basicamente, basta clicar no botão esquerdo do mouse e pressionar a seta para avançar, fazendo desnecessário qualquer habilidade cognitiva, permitindo ao jogador apenas apreciar os gráficos do jogo. No caso de um obstáculo, melhor apenas contorná-lo.
+
+== Jogos ==
+
+[[Arquivo:Crysis melhor PC 2008.jpg|thumb|Crysis 1 rodando no talo, na época de seu lançamento, num computador da NASA.]]
+
+* '''[[Crysis (jogo)|Crysis 1]]''' - Jogo spin-off de [[Call of Duty]] que foi tão revolucionário que, embora lançado em 2007, os primeiros PCs capazes de realmente suportá-lo só foram lançados em 2009. Durante anos muitos jogadores não pararam de comprar novas placas de vídeo cada vez mais potentes na esperança de jogar Crysis 1, arruinando suas economias na esperança de fazer o game funcionar direito. Em 2008, o poder das GPUs e das CPUs finalmente permitiram que alguns jogadores ricos executassem Crysis 1 adequadamente, mas somente em 2019 o jogo poderia tornar-se popular ao ser jogado em computadores mais normais.
+* '''[[Crysis Warhead]]''' - Como estamos falando da Electronic Arts é claro que haverias práticas anti-consumidor, então criaram esse DLC a parte do primeiro jogo.
+* '''[[Crysis 2]]''' - Infelizmente, Crysis 1 tornou-se coisa do passado e Crysis 2 foi lançado em 2011. Para não ter que fazer os fãs esperarem mais 24 anos para poder jogá-lo em condições corretas, o governo dos EUA adquiriu um supercomputador chamado [[IBM Roadrunner|Roadrunner]] no qual rodava o inédito Windows 9, que tem um poder de computação de até 1,456 pentaflops por segundo, graças aos seus 129.600 núcleos, 2,4 tera-watts de eletricidade consumidos, mais de 10.000 placas gráficas com 512 TB de memória GDDR7 em SLI com temperatura de carregamento de 1000° C e também leitor de Blu Ray, além de um gravador rodando a 100.000 rpm. Com essa configuração que, no entanto, ocupa 1.100 m² além de requerer uma usina nuclear como anexo - o que significa, obviamente, sem Anti-Aliasing ou filtragem anisotrópica - o computador em questão localizado num subsolo totalmente imerso em nitrogênio líquido precisou de 2 minutos de tela de loading antes de iniciar o jogo adequadamente.
+* '''[[Crysis 3]]''' - Quando o dono da Crytek disse que o próximo Crysis iria derreter até os PCs com [[DirectX 11|DirectX 111]] houve muito temor na comunidade se seria possível haver um computador que rodasse o jogo, mas ao mesmo tempo foi anunciado para [[PlayStation 3]] e [[Xbox 360]], então todos se acomodaram com a possibilidade de jogar Crysis 3 com downgrade. Apenas colocaram o arco e flecha para soar original.
+
+== Personagens ==
+
+Eis os principais personagens que <s>já aparece morrendo ou morre em algum momento de algum dos jogos para nunca mais aparecer novamente</s> aparecem com frequência na séria, onde a cada aparição vão se tornando modelos cada vez mais detallhados. 
+
+*'''Prophet''': O profeta que não profetizou nenhum acontecimento, esse negão ordinário dos olhos azuis que veste a nano-suíte e gera e resolveu diversas tretas e problemas ao longo da série. 
+**No [[Crysis (jogo)|Crysis 1]] liderando uma equipe para provar o famoso pastel de frango numa ilha paradisíaca com vegetação mais rica que jogos dê exploração no meio do mato mas como o CryEngine não era tão avançado na época, certas palmeiras tinham a física de um poste. De todo acabou sendo puxado na trama de despertar aliens de milhões de anos de hibernação. 
+**Logo no começo do [[Crysis 2]] contrai uma pneumonia alienígena, e tem a brilhante ideia de tirar o traje que o mantém vivo para vestir no prota desse jogo, que por sinal é asmático, e deppis se mata. Nunca vi representação mais pertinente de 6 por meia-dúzia que essa. 
+**Em [[Crysis 3]], o traje que o meliante do Crysis 2 recebeu do Prophet ficou viciado no corpo do negão e transmuta o corpo do usuário completamente no [[Prophet]]. Isso não quer dizer que o Prophet reviveu, apenas voltou de um save do servidor. 
+
+*'''Psycho''': Esse careca badass aparece no série mostranso como se faz um serviço pesado bem feito. A vida dele nao foi tão sortuda quanto a do Prophet mas foi suficiente para ainda continuar vivo até o Crysis 3, onde o mundo está praticamente na merda. 
+** No [[Crysis (jogo)|Crysis 1]] fez trabalho de campo rastreando sei lá quem que disseram pra morreu, mas não morreu e depois deu discussões e infiltrações, é ordenado a ir para o outro lado da ilha, onde ocorre os acontecimentos do [[Crysis Warhead]]. 
+** Em [[Crysis Warhead]] protagonizou a saga de ir atrás de um transporte de um alienígena até então sem motivo aparente fora aproveitar as mais belas paisagens da ilha até então ficar puto com um coreano que zoou da careca dele. 
+** Em [[Crysis 3]] o coitado do cabeça de rolon tem o traje extraído do corpo, o que faz em certas ocasiões apresentar retardadismo em agir como se ainda estivesse com a nano-suíte. 
+
+* '''Jacob Hargreave''': Um ser pensante que viu um alien que ainda não havia sido levado para a [[Área 51]] e pensou "hmm... Vou criar uma fantasia a partir disso aí", a proeza levou a criação da nano-suíte e o tornou importante. 
+** No [[Crysis 2]], Jacob tenta instruir da melhor maneira possível o protagonista desse jogo de realizar algumas missões, mas a paspalhidade e a asma do prota o deixaram puto, então o guiou para uma das suas mansões para capturá-lo e realizar ele mesmo os seus objetivos mas além de falhar, o véio acabou morrendo sem poder fazer nada, literalmente, ele já estava vegetando a essa altura do campeonato. 
+
+*'''Nomade''': O protagonista do [[Crysis (jogo)|Crysis 1]], um exterminador nato de norte-coreanos e pau pra toda obra, viu e fez todo tipo de coisa na ilha do jogo, desde apelar pra galinhas a entrar em naves alienígenas. 
+
+*'''Alcatraz''': O curioso pulmão asmático, morto-vivo e com suporte vital da nano-suíte que protagoniza o [[Crysis 2]], assim como Nomade, fez todo tipo de coisa, mas sem o poder das galinhas e entrando em torres alienígenas. 
+
+== Outras Mídias ==
+
+Nos subúrbios da [[Deep Web]] você pode encontrar todo tipo de conteúdo que faz seu cérebro ter diferentes tensões e o '''[[Crysis (comics)|Crysis]]''' (versão HQ) tensiona seu processador mental em imagear cada detalhe do ambiente, a posição e feição de cada personagem das mais vaeiadas cenas e cada tática das cena de combate. A HQ sana a explicação de como saímos da ilha do Crysis 1 e acabarmos parando em Nova York no Crysis 2. 
+
+Além da versão digital, facilmente obtido baixando em [[Utorrent|torrent]], você pode obter a raríssima versão física negociando no [[Trato Feito]]. 
+
+{{Crysis}}
+{{Electronic Arts}}
+{{First-person shooter}}
+
+[[Categoria:Jogos da Crytek]]
+[[Categoria:Jogos da Electronic Arts]]

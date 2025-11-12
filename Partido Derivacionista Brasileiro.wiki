@@ -1,0 +1,38 @@
+[[Arquivo:Ação Derivacionista Brasileira.svg|thumb|right|200px|Bandeira do PDB]]
+
+Fundado em [[1612]], o '''Partido Derivacionista Brasileiro''' (PDB) foi a grande oposição ideológica à [[Integralismo|Ação Integralista Brasileira]] nas eleições de [[1938]]. 
+
+== História ==
+Em um resultado historicamente inédito, cada frente conquistou exatamente a metade das cadeiras no [[Congresso Nacional]], obrigando-as firmar um acordo de governo conjunto.
+
+Infelizmente, tal aliança não alterou a função social <math>f(x)</math> pois, como sabemos, 
+
+:<math> \frac{df(x)} {dx} \int f(x)dx = f(x)</math>
+
+Disso surge grande confusão no partido, os ideais do PDB não são integrais e bem sabe se que todas as normas e partidários são limitados desta maneira: <br>
+:<math>f'(x)= \lim_{h \to 0} \frac{f(x+h) - f(x)}{h}</math>
+
+== Objetivos ==
+O partido é regido por normas e estatutos populares, combatendo seriamente em várias questões sociais.
+
+A cartilha do PDB diz:
+
+* 1 - É objetivo principal de todos os integrantes derivacionistas do partido combater a função da pobreza, e o método rigoroso para isso é achar todos os pontos críticos da camada social;
+
+* 2 - Em promessa solene, todos do partido concordam em nunca aumentar o grau de uma função, para que a [[capitalismo|zelite]] não seja prioritária no cálculo de máximos e mínimos de renda para a população;
+
+* 3 - Temos que estudar taxas de variação, seja qual for para que o povo tenha uma função mais igualitária;
+
+* 4 - Aprendemos com o [[PT]] e colocaremos em prática qualquer questão tangencial. Não existe e ninguém do PDB saberá te dizer sobre isso;
+
+* 5 - Só existe o partido se ele for finito, então para cada ponto da sociedade existirá um membro do partido que irá resolver questões;
+
+* 6 - Se a função for contínua, pode ser que o partido esteja ou não. Afinal, a [[comunismo|igualdade]] não existe mesmo, então nesses casos fica a critério do PDB existir ou sumir do mapa;
+
+* 7 - O partido não se define como de esquerda ou direita, todos os membro do PDB se aproximam da função igualmente pelos dois lados. É válido para mais de uma variável, para distribuição uniforme de renda e moradia igualitária em torno da função em questão;
+
+* 8 - Somos provenientes e temos ideais de que existem limites para funções, e não seremos apenas um instrumento para calcular área e volume como os nossos opositores integralistas.
+
+[[Categoria:Matemática]]
+[[Categoria:Partidos políticos fictícios do Brasil|Derivacionista Brasileiro]]
+[[Categoria:WTF??]]

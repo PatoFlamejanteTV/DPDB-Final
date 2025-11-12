@@ -1,0 +1,29 @@
+{{vqd|Retardado e livre?}}
+{{c|GNU/Linux, não Linux.|Freetard|Linux.}}
+{{c|Já instalou o Gentoo?|4channer|Linux.}}
+
+'''Freetards''' são, geralmente, nerds/hackers defensores do software livre e do código aberto (FOSS/FLOSS). [[Arquivo:Tecnologia01.jpg|thumb|200px|Habitat natural dos freetards.]]
+Ao contrário do que se diz dos freetards, não são contra o preço das mercadorias, mas enchem o saco sobre as licenças de software (eles leem todas). A palavra software livre vem do inglês, "free" software, e confunde iDiots e M$-fags que acham significa "software grátis" <s>- o que faz o Bill Portões e o (falecido) Steve Trabalhos cagarem na calça só de pensar</s>. Freetards nem sempre são comunistas ou anarquistas, já que é notável a presença de muitos [[anarcocapitalista|anarcomiguxo]]s defensores de [[BitCoin]] no ''movimento freetard''.
+
+==Como se tornar um freetard em 8 passos==
+[[Arquivo:Pc moderno.JPG|thumb|left|200px|É assim que os freetards veem o r[[Windows]].]]
+#Use um sistema operacional livre. Isso mesmo, use [[GNU/Linux]], FreeBSD ou Open [[Solaris]];
+#Afirme que a [[tela azul da morte]] é um erro do r[[Windows]] mesmo sabendo que é um problema de hardware (argumento também utilizado por Apple-fags/iDiotas);
+#Encha o saco de todo mundo - até dos vendedores - explicando que toda a mercadoria tecnológica deveria permitir que seus clientes possam hackeá-la ou modificá-la;
+#Aprenda o que é o ''DRM'' do mal;
+#Tenha o Richard Stallman e o Linus Torvalds como gurus e tenha fotos deles coladas pela parede do quarto;
+#Entre em um ''loop infinito'' de discussões com M$-fags e iDiotas, nas quais cada um ficará exaltando uma tecnologia - o que não levará ninguém a lugar algum;
+#Diga a todos que o Linux é melhor que o Windows e o MacOs e que 90% dos computadores do mundo usam sistemas pagos e piores, porque as pessoas e as grandes corporações globais são mais burras que você (e seus coleguinhas virgens).
+#Leia todas as licenças de software e faça spam para o suporte de todos os softwares proprietários questionando "porquê não abriram o código ainda";
+#Para ser um freetard oficial, é preciso saber usar o terminal e saber hackear (ou ao menos, se portar como um), uma vez que freetards são hackers por natureza.
+
+==Críticas à Micro$oft e Apple==
+[[Arquivo:Zezima.jpg|thumb|200px|Alguns freetards são assim.]]
+Freetards geralmente criticam condutas da micro$oft e da Apple, já que a última faz uso de software livre, como o Darwin (sistema operacional) mas cospe no prato que comeu <s>e te faz de idiota.</s>
+
+O motivo é simples: Segundo os ''freetards'', tecnologias proprietárias são más e bobonas com seus compradores - os ''M$-fags'' e ''iDiotas'' - fazendo-os pagar por tecnologias que custam mais do que valem e impondo-lhes restrições em demasia. É importante salientar que freetards não são contra a cobrança das tecnologias, mas o abuso imposto por elas nas licenças de software. Por exemplo a Apple, que apenas permite que o Mac OS X rode em computadores Apple (hackintoshs são crime), e o rWindow$ que cobra a licença por máquina - ou seja, tem três máquinas? Pague uma licença para cada <s>senão você é um cara bobão, malcriado e que pirateia e não ajuda o império do tio Bill Portões e o falecido Steve Trabalhos!</s>
+
+{{esboço}}
+
+[[Categoria:Software]]
+[[Categoria:Coisas de pobres]]

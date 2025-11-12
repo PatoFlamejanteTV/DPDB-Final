@@ -1,0 +1,42 @@
+[[Arquivo:Three_apples.svg|thumb|"Você tinha seis maçãs, eu comi cinco, você fica com?"<br>"[[Fome]]! E a senhora fica com [[dor de barriga]]!"]]
+
+'''Número natural''' é um [[conjunto]] de [[número]]s, mais especificamente o conjunto mais básico do básico de todos, aquele que sua [[professora]] de [[maternal]] te ensinou e que você conta nos dedos das mãos todos os dez fundamentais números naturais. Aliás, [[você]], [[eu]] e o [[Lula]]. Sim, até o Lula, já que os números são de [[0]] a [[9]].
+
+Agora, se você arrumou treta com a [[Yakuza]], aí vai ser foda você conseguir contar nos dedos mesmo...
+
+== Definição que até um bebê entenderia ==
+
+Número natural é o que qualquer um usa no dia a dia. Comece a contar aí uma [[contagem regressiva]], e provavelmente, exceto se você for muito chato, burro ou doido, vai só contar 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0! Só se você for um chato de galochas quando chegar no 1 vai tentar insistir com 0,75, 0,5, 0,25, ou seja, inventar moda para agoniar a cabeça de quem está sendo vítima dessa contagem regressiva. Imagina para disparar um [[foguete]] alguém faz uma porra dessas... vai ver que foi assim que o [[SpaceX Starship]] virou pó, algum engraçadinho foi trollar o [[Elon Musk]] fazendo esse tipo de contagem não-natural e deu em cabrum!
+
+Acho que eu compliquei um pouco, desculpem!
+
+Bem, uma definição extra é que esse é o único conjunto de números em que ele é [[infinito]], mas só para frente, tendo um início, mesmo que não um fim, igual ao ser humano, que começa quando nasce, porém vai queimar no [[inferno]] por toda a eternidade...
+
+== Definição para embananar as mentes ==
+
+Número natural é um [[número inteiro]] positivo, ou seja, o conjunto dos números naturais está todo contido no dos números inteiros, só que é só a parte do zero pra direita, já que esquerda <s>é coisa do capeta e só dá prejuízo</s> é tudo negativo. 
+
+Outra definição imbecil é que o número natural é um [[número racional]] positivo e não-fracionado, a despeito de que todo número natural (e inteiro também) possui um correspondente que é uma [[dízima periódica]] de final [[0,999...]], mas aí é coisa para fãs de vídeos do [[Ledo Vaccaro]] ficarem viajando nas ideias doidas dele, já que ninguém com todos os parafusos na cabeça <s>ih, jajá vou ser cancelado...</s>
+
+Nem vou começar a entrar em [[número real]], [[número complexo]], [[número hiper-real]] e o caralho a quatro, senão daqui a pouco meu [[cérebro]] vai começar a fumaçar e aí eu vou entrar em curto-circuito tentando explicar essa porra.
+
+== Conjuntos de números naturais ==
+
+Os comumente usados são:
+
+*'''Conjunto dos números naturais (em geral)''' Representados por um [[N]] com um traço no meio do N = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9...}
+*'''Conjunto dos números naturais não-nulos''' A mesma representação do N, só que com um [[asterisco]] para dizer que não tem o número zero nessa porra = {1, 2, 3, 4, 5, 6, 7, 8, 9...}. Por séculos em vários povos esse era o conjunto de números naturais de fato, já que os [[babilônicos]], [[egípcios]] e vários outros povinhos não conheciam o zero ou se criaram o dito cujo, não usavam como número final ou, como os [[olmecas]] e [[maias]], ninguém se importava, só os [[indianos]] e efetivamente um tal de [[Dionísio, o Exíguo]] que tornaral o zero mais comum para se contar. Mas tipo... como contar zero, porra, se ele não é porra nenhuma, é só um [[conjunto vazio]] ou um [[conjunto de medida zero|conjunto nulo]]?
+*'''Conjunto dos números naturais nulos''' Ou seja, o [[conjunto unitário]] com valor mais estúpido de todos, já que é um conjunto unitário, mas o único elemento do conjunto é um sonoro [[zero]] que você odiava tomar na prova;
+*'''Conjunto dos números naturais [[número par|pares]]''': {0, 2, 4, 6, 8, 10...}
+*'''Conjunto dos números naturais [[número ímpar|ímpares]]''': {1, 3, 5, 7, 9, 11...}
+*'''Conjunto dos [[números primos]]''': {2, 3, 5, 7, 11, 13, 17...}
+*'''Conjunto dos [[números tios]]''': Só dá para representar em conjunto se me provar via [[RG]] o parentesco com o tal do número acima.
+*'''Conjunto dos números [[não-binários]]''': Vai tomar no cu, isso não existe! Ou talvez você quis dizer um número natural que não conta dentro dos [[sistema binário|binários]], mesmo sendo aqui uma contagem dentro dos [[sistema decimal|números decimais]]. Ex: {2, 3, 4, 5, 6, 7, 8, 9, 12, 13, 14...} Acho que acabei de inventar uma coisa sem pé nem cabeça... 
+
+E por aí vai...
+
+== Ver também ==
+
+*[[Axiomas de Peano]] ou axiomas de Dedekind-Peano, invenções de [[Giuseppe Peano]] e [[Richard Dedekind]] para explicar essa porra de numeração, mas se você <s>e eu também</s> pararmos para ler, não vamos entender nada, ou seja, explicou foi porra nenhuma...
+
+{{Números}}

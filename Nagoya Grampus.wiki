@@ -1,0 +1,57 @@
+{{Box ClubeFutebol
+|cor_clara         = orange
+|cor_escura        = red
+|brasao            = Escudo do Nagoya Grampus.png
+|hino              = "Tema do [[Pokémon]]"
+|nome_oficial      = Nagoya Grampus
+|origem            = {{JAP}} - [[Nagoya]]
+|apelidos          = Grampo
+|torcedores        = Grampeadores 
+|torcidas          = Grampos
+|mascote           = [[Baleia]]
+|ilustre           = Wagner Lopes
+|estadio           = Estadio Toyota
+|capacidade        = 45 mil
+|sede              = '''[[Nagoya]]'''; Parque de diversões, 8
+|presidente        = Toyo Kato
+|treinador         = Dragão Stojkovic
+|pior              = Alex (meia do Japão)
+|melhor            = Gary Lineker
+|patrocinador      = [[Toyota]]
+|material          = [[Le Coq Sportif]]
+|liga              = [[J-League]]
+|divisao           = 1
+|títulos           = 1 da 1ª divisão (2010), Super Copa [[Xerox]] (1996 e 2011)
+|ranking           = 24
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Nagoya Grampus''' é um time pequeno de futebol do [[Japão]], que normalmente disputa a [[J-League]] na primeira divisão, mas que já rebaixou uma vez, então não pode ser considerado time grande, que não cai.
+
+== História ==
+=== Fundação ===
+
+Fundado em 1939 como um time dos escravos que trabalhavam na companhia da Toyota, chamado '''Toyota Motor Soccer Club''', como é de esperar, era só um time de peladeiros, tanto que em 1972 foi um dos clubes fundadores do principal Campeonato Japonês de Futebol Amador.
+
+=== Profissionalismo ===
+
+Quando Zico decidiu criar um campeonato profissional para times profissionais, o time da Toyota precisou mudar de nome, porque patrocinadores não tinham nome dos seus times, e o clube passou a ser chamado de '''Nagoya Grampus Eight''', mas ninguém, nem mesmo os criadores do time, sabem o motivo do "Eight" estar no nome do time. Acredita-se ser a quantidade de anos consecutivos que o time pode ficar sem ganhar título, tanto que honrou o nome ao ficar de 2001 até 2009 sem ganhar nenhum título sequer. Adotou ainda como [[mascote]] o [[Free Willy]], e por muito tempo teve o escudo mais ridículo da história do futebol, o símbolo de uma [[orca]] fazendo embaixadinhas, mas ainda bem que trocaram isso depois.
+
+=== Desempenho na J-League (1993 até 2009) ===
+
+O Nagoya Grampus sempre teve como único orgulho o fato de nunca ter rebaixado, mas por muitos anos também nada ganhou, sendo um time mediano do Japão (ou seja, muito ruim, só não o pior dos piores). As primeiras temporadas do time não foram grande coisa: terminou nas últimas posições, mas depois de contratar [[Arsène Wenger]] como técnico, Gary Lineker e Dragão Stojkovic, o clube mudou muito e chegou perto de disputar a final, só que o resultado de uma votação em um programa do Japão impediu o time de jogar a final, mas depois o time foi campeão da Copa do Imperador de 1995. Em 1996 o time foi vice-campeão japonês.
+
+Com a extinção do [[Yokohama Flügels]] em 1999, o Nagoya se beneficiou muito, já que a maioria dos "astros" do Yokohama foram para o Nagoya, como o meio-campo brasileiro e ex-[[São Paulo Futebol Clube|gay]] [[Wagner Lopes]], brasileiro naturalizado japinha, e jogador da seleção japonesa, ex-treinador do [[Paulista de Jundiaí]]. Ou seja, está explicado porque o Yokohama Flügels faliu.
+
+O astro do time, Stojkovic, se transformou em treinador da equipe, e assim, levou o time ao terceiro lugar em 2008, e campeão nacional em 2010 e da Super Copa <s>Botox</s> Xerox em 2011.
+
+=== Liga dos Campeões da AFC de 2009 ===
+
+A estreia internacional do clube numa competição oficial foi pela Liga dos Campeões da AFC de 2009. Teve sucesso nas primeiras fases da competição, talvez porque só enfrentou outros times japoneses e uns sul-coreanos, ou seja, só gente de olhos puxados que ainda não saber o que é futebol.  Avançou até as semi-finais da competição, mas só foi enfrentar um time mais diferenciado, porém longe de ser grandes coisas, e apanhou de 8x2 para o mero [[Al-Ittihad]] das Arábias.
+
+{{Campeonato Japonês}}
+
+[[Categoria:Times de futebol do Japão]]
+
+[[ja:名古屋グランパスエイト]]

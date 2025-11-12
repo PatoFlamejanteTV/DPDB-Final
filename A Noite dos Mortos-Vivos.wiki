@@ -1,0 +1,88 @@
+{{Filmes}}
+
+{{Info filme
+| nome          = A Noite dos Mortos-Vivos
+| imagem        = Night of the Living Dead poster.jpg|200px
+| legenda       = Capa do filme, exibindo um episódio de histeria coletiva.
+| diretor       = [[George A. Romero]]
+| elenco        = [[Daphne Blake]] ('''Barbra'''); [[Herbert West]] ('''Johnny'''); [[The Candyman]] ('''Ben'''); [[reumatismo|Velhinho com reumatismo]] ('''Zumbi aleatório 1'''); [[Tiozão do churrasco]] ('''Zumbi aleatório 2''')
+| lançamento    = 1968
+| gênero        = [[Terror]] e [[Comédia]]
+| produtora     = Image Ten, Laurel Group, Market Square Productions
+| idioma        = Inglês
+| duração       = 96 minutos 
+| exibição      = Cinemas para gente pobre 
+}}
+
+'''A Noite dos Mortos-Vivos''', ou do inglês '''Night of the Living Dead''', é um filme de terror do ano de 1968, sendo muito adorado dentro das comunidades [[nerds]], [[cult]]s e [[hipster|hispters]], uma vez que foi o filme que lançou na mídia o gênero [[apocalipse zumbi]], aquele mesmo que os [[normie]]s transformaram em modinha. Diferentemente dos zumbis podres de hoje em dia, puramente comerciais e cheios de ketchup e corante na cara, A Noite dos Mortos-Vivos foi um verdadeiro marco da época, fazendo tanto crianças como marmanjos com mais de 40 anos molharem suas calças durante a noite. Embora os efeitos especiais do filme sejam porcos e toscos, na época o filme foi considerado brutal, mesmo [[Titanic]] sendo mais violento. É claro, isso não chega a ser nenhuma surpresa, tendo em vista que nos anos 60 até dar a descarga no banheiro era considerado o suprassumo da depravação e da repugnância. Até os dias de hoje o filme é considerado um dos [[maiores clássicos do cinema de horror]], e boa parte das mídias que você conhece que estejam relacionadas a zumbis (games, animes, séries, quadrinhos, etc), provavelmente são graças a esse filme, direta ou indiretamente, o que faz dele um dos maiores símbolos do nerdismo mundial. 
+
+==Concepção e desenvolvimento inicial do filme==
+
+Desde pequeno, Romero tinha um gosto bastante peculiar para sua idade. Enquanto os demais pirralhos de sua época ficavam todos os dias pela manhã assistindo as maratonas de [[Looney Tunes]] e [[Tom e Jerry]] exibidas incansavelmente no programa [[Bom Dia e Cia]], Romero preferia assistir a séries mais interessantes, como [[Família Addams|A Família Addams]], por exemplo. Nem mesmo os seus pais conseguiam entender como diabos uma criança preferiria, ao invés dos desenhos, um seriado de comédia em preto e branco que narrava a vida cotidiana anormal de uma família de góticos masoquistas. 
+
+O tempo passou, Romero cresceu, porém, seu gosto pelo mórbido não mudou em nada. Pelo contrário, ele se intensificou ainda mais. Enquanto seus amigos de infância dedicavam seus finais de semana para namorar ou para dançar em bailes bregas ao som de música tosca, Romero preferia ficar em casa, assistindo maratonas daqueles filmes velhões da [[Universal Studios]].
+
+Embora seu hobby tenha feito dele um antissocial, ele se tornou pilar fundamental na escolha de sua futura profissão: cineasta. Romero ingressou na faculdade, e lá fez amizade com outros dois desocupados que também sonhavam em seguir na carreira cinematográfica, [[John Russo]] e [[Russel Streiner]]. Entretanto, a carreira cinematográfica para qualquer um que não seja ator/atriz costuma ser dureza, uma vez que diferentemente desses últimos, produtores, roteiristas e diretores precisam usar o cérebro para fazer qualquer coisa. Além do mais, Romero e seus amigos não tinham dinheiro nem para pagar o aluguel, que dirá para criar um filme. 
+[[Arquivo:Night of the Living Dead.jpg|thumb|left|300px|Introdução do filme, claramente feita no [[Windows Movie Maker|Movie Maker]].]]
+Vendo que seu sonho estava distante, os três acabaram tendo de trabalhar desenvolvendo comerciais vagabundos para empresas de produtos de limpeza e [[cerveja]] barata, com o objetivo de arrecadar alguma grana para desenvolver seu primeiro filme. Porém, havia um problema: eles detestavam fazer comerciais, e não estavam nem um pouco felizes em perder seu tempo com aquele desperdício de talento.
+
+Decididos a fazer algo realmente relevante para a indústria cinematográfica: escreveram um roteiro para um filme de terror de baixo orçamento, e abriram um financiamento coletivo na [[Catarse]], com o objetivo de juntar uma graninha extra para iniciar as filmagens e tornar realidade seu sonho de dirigir o primeiro filme. Após alguns meses, eles conseguiram arrecadar, em sua maioria por meio de doações de nerds cinéfilos, a miserável quantia de 100 dólares. Embora fosse uma miséria, pelo menos ainda era mais do que se ficassem 5 anos produzindo comerciais de TV que ninguém iria assistir. 
+
+Vendo que não iriam conseguir muito mais que aquilo, eles decidiram jogar na sorte e iniciar a produção do filme assim mesmo, e dessa forma surgiu A Noite dos Mortos-Vivos. Embora corriam o sério risco de que seu filme fosse um verdadeiro fracasso comercial, e por mais que houvesse a forte possibilidade de destruírem seu futuro completamente, ao menos eles teriam feito algo mais decente do que [[O Ataque das Sanguessugas Gigantes]], que eleva os níveis de tosquice a patamares gigantescos. Porém, para sua sorte, o filme foi um verdadeiro sucesso, se tornando um verdadeiro objeto de adoração dentro das comunidades nerds do mundo todo, garantindo a Romero o status de lenda <s>morta-</s>viva.
+
+==Produção==
+
+O roteiro original foi escrito por Romero e Russo, e nasceu a partir de uma conversa de boteco em um episódio onde os dois estavam chapados após uma pesada sessão de [[LSD]] e [[cogumelos alucinógenos]]. O enredo original era completamente diferente do roteiro de A Noite dos Mortos-Vivos tal como o conhecemos, e basicamente se resumia em um grupo de alienígenas bêbados visitando a Terra e se envolvendo em partidas de [[strip poker]] em um cassino de Las Vegas. Só depois que a [[larica]] passou que Romero seu deu conta da quantidade de lixo que ele e Russo tinham escrito, então, decidiram descartar aquela porcaria e começar tudo do zero. Mais tarde, influenciados pelo livro [[Eu Sou a Lenda]], escrito por [[Will Smith]], a ideia de criar uma história sobre entidades satânicas se alimentando de vísceras humanas veio à tona.
+[[Arquivo:The Graveyard - Mortal Kombat.png|thumb|right|Cemitério de Evans City, onde foram feitas as filmagens de ''A Noite dos Mortos-Vivos''. Ainda hoje, um lugar bastante movimentado.]]
+Como o orçamento inicial do filme não era suficiente nem mesmo para alugar um [[terreno baldio]], todas as filmagens foram feitas de forma clandestina em propriedades privadas, a fim de economizar dinheiro para pagar as passagens de ônibus para os atores e atrizes. Existiram basicamente dois cenários no filme: um cemitério e uma fazenda situada em algum lugar de [[onde Judas perdeu as botas]]. Como teriam sérios problemas com as autoridades caso fossem pegos profanando túmulos, as filmagens foram feitas à noite. Além de que, esse era o único horário em que eles sabiam que não teriam problemas com os <s>fofoqueiros</s> curiosos, uma vez que as pessoas dos anos 60 que moravam no interior não saíam de noite devido ao medo de toparem com [[chupacabras]] ou com [[comunistas]]. 
+
+Após feitas todas as filmagens necessárias no cemitério, eles decidiram partir para o próximo passo. A ideia inicialmente era a de retratar um apocalipse zumbi que começava no cemitério e depois seguia para a cidade, porém, mesmo de noite, seria muito difícil colocar um batalhão de idosos reumáticos andando pelas ruas sem chamar a atenção das pessoas, além de que os gritos irritantes da personagem feminina principal durante o desenrolar da história poderiam acordar toda a vizinhança. 
+
+A melhor forma de transformar seu filme em realidade sem causar uma algazarra era filmar tudo na zona rural, bem longe da civilização. Para tal, eles passaram um trote em um caipira local, dizendo que o mesmo tinha ganhado uma viagem com tudo pago para [[Acapulco]]. Como o idiota era estúpido demais para usar sua massa cinzenta, ele nem se deu ao trabalho de questionar como ele tinha ganhado uma viagem sendo que não tinha participado de qualquer tipo de sorteio. Assim que o débil mental fez suas malas e saiu para a sua suposta viagem, Romero invadiu a casa com todo o elenco do filme, e em uma única noite, eles conseguiram fazer toda a filmagem restante, e assim completar o filme. 
+
+Como as verbas eram escassas, a maior parte dos atores principais eram desempregados que estavam aceitando qualquer bico para poder pagar as dívidas no final do mês. Os zumbis, em sua maioria, eram velhos com osteoporose trazidos de um asilo local ou mendigos sem família. As vestimentas dos atores eram na verdade roupas que eles tinham em casa e traziam para as filmagens, já que com aquele orçamento merreca não foi possível elaborar um figurino para os personagens. Boa parte do dinheiro foi utilizado para pagar um marmitão para os atores e outros envolvidos com a produção do filme.
+
+==Revisões==
+[[Arquivo:Night of the Living Dead art.png|thumb|left|250px|Candidata a capa de uma das revisões atuais do filme. Por não passar de uma [[fanart]] feita por algum nerd desocupado no [[Photoshop]], acabou sendo rejeitada e indo parar no [[Pinterest]].]] 
+Como filmes antigos e em preto e branco não costumam fazer muito sucesso nos dias atuais, ao longo dos anos, diversas [[Revisão (Cinema)|revisões]] coloridas do filme foram feitas a fim de atender as necessidades das gerações frescas que sucederam os anos 60  (que por sua vez, já era uma sucessão fresca dos anos 50). Por mais que ainda hoje sejam feitas merdas muito piores que filmes antigões sem cor, caso um filme não seja colorido, ele será automaticamente classificado como porcaria pelos [[posers]] que se auto-proclamam como "fanáticos por filmes de terror". 
+
+Já que vivemos em um mundo no qual o lucro sempre fala mais alto, a indústria cinematográfica em geral atende aos mimimis desse povo chato, e volta e meia uma nova revisão colorida de filmes antigões se faz necessária. Uma das primeiras revisões de A Noite dos Mortos-Vivos aconteceu em 1986, por uma empresa fracassada conhecida como Hal Roach Studios. Essa versão conseguiu realizar a incrível proeza de ser infinitamente pior que o filme original, ao trazer para as telas zumbis fajutos com pele verde, que mais pareciam tiozões com [[icterícia]] ou alguma [[doença]] severa no [[fígado]].
+
+Segundo [[Wikipédia|uma famosa lenda urbana da Internet]], houve uma versão pela Anchor Bay Entertainment, supostamente realizada em 1997, que teria trazido zumbis com pele cinza. Entretanto, ninguém até hoje conseguiu provar a existência dessa versão, já que a dita cuja não se encontra em lugar algum, nem mesmo na [[deep web]]. Isso só prova o que nós já sabíamos: você não deve der atenção a qualquer site com informações duvidosas, já que nem todos apresentam fontes confiáveis como a [[Desciclopédia]]. 
+
+Cansado de tantas versões cretinas lançadas do filme, [[John A. Russo]], que esteve entre os três desocupados envolvidos com o filme original, decidiu que estava na hora de fazer algo decente, do contrário qualquer leigo que assistisse as versões citadas anteriormente com certeza iria pensar que o filme era uma bosta completa. Assim, ele lançou em 1999 a versão ''Night of the Living Dead: 30th Anniversary Edition'', que até os dias atuais é a única revisão do filme de fato aceita pelos [[nerds]] fãs do filme original. Isso se deve pelo fato de que essa versão é na verdade a mesma merda que a versão original, com o único diferencial de que Russo acrescentou algumas cenas adicionais sem muita relevância e que na prática, não somam em nada. É claro que isso não impediu o sucesso dessa versão entre os <s>desocupados</s> [[colecionador]]es da época, que não deixaram de adquirir seu exemplar para exibir para seus filhos no futuro (mesmo que esses provavelmente não fossem dar um foda para aquele [[filme]] velho e chato). 
+
+==Sinopse==
+[[Arquivo:Cena - A Noite dos Mortos-Vivos.jpg|thumb|right|300px|Johnny limpando bosta de cachorro do seu pé enquanto Barbra tira um ronco na lápide do coroa. Verdadeiro exemplo de filhos dedicados.]]
+A história começa com uma brasília amarela no meio de uma estrada que levava nada a lugar nenhum (na verdade, não dá para saber qual a real cor do carro, já que o filme era preto e branco, mas pelo bem do artigo, usemos nossa imaginação). Após um minuto e meio de <s>tempo perdido</s> filme, o veículo finalmente chega a seu destino: o cemitério que aparece no clipe [[Thriller]]. De dentro do veículo saem os dois primeiros personagens: Barbra, uma [[patty]] com voz irritante, e Johnny, um CDF desses que serviam como [[paga-lanches]] no colegial.
+
+Johnny e Barbra eram irmãos, e vieram visitar o túmulo de seu pai defunto, que aquela altura, jazia no estômago dos vermes. A verdade é que eles nem queriam estar perdendo seu tempo ali, e só decidiram visitar aquele lugarzinho esquecido por Deus por que sua mãe ameaçou que os obrigaria a comer [[brócolis]] por um mês caso não o fizessem. Quando era vivo, o infeliz de seu pai costumava encher a cara de pinga e falar um monte de asneira, motivo pelo qual ninguém gostava do desgraçado, nem mesmo a sua própria esposa, tanto é que mesmo enviando seus filhos, ela nem se deu ao trabalho de visitar seu túmulo, já que provavelmente cuspiria no mesmo.
+
+Mesmo não se lembrando direito de seu pai, para disfarçar o desdém completo que tinham pelo coroa, eles até compraram um buquê de flores de plástico e uma vela barata em uma [[Loja de 1,99|lojinha de 1,99]] para colocar na sepultura do dito cujo. Em nome dos bons costumes, Barbara se ajoelha no túmulo de seu pai para rezar uma oração, mas acaba cochilando no meio da prece. Após ter tirado uma soneca, ela finalmente acorda, e como forma de vingança por fazer perdê-lo ainda mais tempo naquele cu do mundo, Johnny começa assustá-la, dizendo que naquela mesma noite os [[Teletubbies]] apareceriam em seu quarto para puxar seu pé enquanto ela dormia.
+
+===A aparição das criaturas===
+
+No exato momento em que fazia terrorismo psicológico com a sua irmã medrosa, Johnny e Barbra são bruscamente interrompidos por uma figura estranha e esquista, que se movia em sua direção como se estivesse com hemorroidas: era [[Tropeço]], o mordomo da [[Família Addams]]. Naquele dia, Tropeço não tinha tomado seus remédios, e acabou sendo possuído por seu instinto mais primitivo, a sede por carne humana, que em geral era controlada por [[rivotril]] e [[chá de cogumelos]]. 
+[[Arquivo:Cena - A Noite dos Mortos-Vivos 2.png|thumb|left|280px|[[Esqueleto]] do [[He-Man]], um dos maiores galãs do Cinema, fazendo uma participação especial no filme.]]
+Tropeço tentou atacá-los, porém, antes mesmo que pudesse piscar, Barbra já estava a quilômetros de distância dali, fugindo na maior cara de pau e deixando o coitado do seu irmão frente a frente com a fera para morrer miseravelmente. Como em geral CDF's não são bons de briga, mesmo com as pernas atrofiadas e caindo aos pedaços, Tropeço consegue aplicar um [[pilão]] em Johnny, matando-o instantaneamente, e ainda tendo tempo suficiente de alcançar Barbra. 
+
+Barbra tenta escapar na brasília de seu finado irmão, mas como todo o filme de terror, o automóvel acidentalmente se quebra devido a uma macumba sobrenatural. Tropeço, que foi medalha de ouro em arremesso de martelo quando ainda era vivo, tenta provar para todos que ainda estava em forma mesmo depois de morto, e arremessa um tijolo em direção ao carro de Barbra. Vendo que a coisa estava preta, Barbra novamente se põe a fazer o que sabia de melhor: correr aos berros.
+
+Após ter mexido mais as pernas que um maratonista da [[Corrida Internacional de São Silvestre|São Silvestre]], Barbra chega até uma fazenda velha no meio do nada, e como era uma mal educada completamente sem modos e totalmente ignorante no quesito "etiqueta", já vai entrando sem nem ao menos esperar um convite dos donos para entrar. O mais engraçado é que [[burrice|por algum motivo]], a jumenta achou que fosse uma boa ideia se esconder numa casa perdida no meio do nada até que as criaturas inevitavelmente a descobrissem e devorassem suas vísceras na janta do que continuar na estrada até achar algum vestígio realmente seguro de civilização. Mas o que seria um filme de terror sem as habituais fails de seus personagens, não?
+
+Como já tinha invadido mesmo o lugar, Barbra começou a fuçar pela casa em busca de algum [[sanduíche de presunto]] para saciar sua fome, mas a única coisa que consegue achar é um <s>esqueleto</s> defunto putrefato, parcialmente devorado e cheio de vermes em volta das poucas camadas de pele que ainda existiam nele. Como aquilo não dava para comer (a menos que você seja um maníaco depravado), Barbra tenta ligar para o [[China in Box]] e fazer um pedido, porém, a prefeitura tinha se esquecido de pagar a conta telefônica, e como resultado a cidade toda teve a linha cortada, para o desespero dela.
+
+O filme a partir daí se desenrola com Barbra e um grupo de pessoas aleatórias tentando sobreviver ao ataque dos velhos reumáticos zumbis, que voltaram a vida vapós um satélite carregando as sobras radioativas coletadas em um lixo de uma lanchonete do McDonald's cair próximo do cemitério local. 
+
+==Ver também==
+
+* [[Zumbi]]
+* [[George A. Romero]]
+* [[Living Dead (série)|Living Dead]]
+
+{{A Noite dos Mortos-Vivos}}
+{{Filmes de Terror de 1968}}
+
+[[Categoria:Zumbis]]
+[[Categoria:Filmes dirigidos por George A. Romero]]
+[[Categoria:Filmes dos Estados Unidos]]

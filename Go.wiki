@@ -1,0 +1,37 @@
+'''Go''' (também conhecido como "gamão japonês") é um jogo que envolve estratégia e muita, muita paciência. Talvez este jogo vá fortalecer sua percepção e habilidades cognitivas, apesar de você nem saber o que é isso e não se importar a mínima com esse joguinho que nem é jogado no Brasil.
+
+Go foi proibido em diversos países por ser um jogo extremamente perigoso, pois você pode acertar o olho de alguém, seja intencionalmente ou acidentalmente com o [[feijão]].
+
+== Regras ==
+[[Arquivo:Go para iniciantes.jpg|thumb|Um tabuleiro de Go para principiantes.]]
+O objetivo do jogo é capturar territórios através de feijões brancos que duelam contra feijões pretos, que são colocados em um pote chamado gozo. O tabuleiro (denominado como "Gohan") é em quadriculado e seu tamanho varia dependendo do nível do jogador (no [[você|seu]] caso, o tamanho seria 2x2).
+
+É um jogo cadenciado que pode durar horas, porém acredita-se que exista um movimento conhecido como "a jogada de Deus", que seria o equivalente do Go da [[Maradona|mão de Deus]] que deu a Copa do Mundo para a Argentina. Seria uma jogada que consiste, teoricamente, em fazer com que o oponente perca a partida rapidamente (tipo o xeque-mate do Pastor). O difícil é acreditar que, em um jogo onde se colocam dezenas de pedras, uma de cada vez, e sua objetivo é conquistar territórios, uma única jogada poderia aniquilar o adversário automaticamente. Talvez no dia em que inventarem uma Pedra de Go Nuclear que exploda o tabuleiro, quem sabe.
+
+== Nível ==
+
+Existem vários tipos de campeonatos e exames, que variam dependendo do nível do jogador:
+
+* '''Amador:''' Iniciante, noob, chame como quiser. Recebem vantagens durante um jogo contra oponentes de nível avançado (pois já está previsto que o amador vai perder a partida). Nível ocupado por crianças, [[crente]]s, [[petralha]]s, [[funkeiro]]s e outros seres de inteligência elevada.
+* '''Insei:''' Intermediário. O jogador se torna um Insei quando está fissurado em Go, sabe jogar decentemente e consegue segurar o feijão sem ferir o olho de alguém.
+* '''Pro:''' Profissional. É necessário possuir uma idade acima de 18 anos para ser um ''pro''.
+
+== Ver também ==
+* [[Shogi]]
+* [[Mahjong]]
+
+{{Jogo de mesa}}
+
+[[bar:Go]]
+[[en:Go (game)]]
+[[eo:Goo]]
+[[fi:Go]]
+[[fr:Go]]
+[[it:Go]]
+[[ja:碁]]
+[[ko:바둑]]
+[[nds:Go]]
+[[pl:Go]]
+[[ru:Го]]
+[[th:หมากล้อม]]
+[[zh-tw:圍棋]]

@@ -1,0 +1,50 @@
+{{logotipo_falso|Taitopedia.png|160|top=120|left=190}}
+{{game}}
+{{Infobox Game
+|title     = {{c|Daraiasu Tain!}}
+|image     = DariusTwin.jpg
+|caption   = É DRAGÃO! Só faltava ser marinho...
+|developer = [[Taito|<font color=blue>'''Tá aí, tó!'''</font>]]
+|publisher = [[Taito|<font color=blue>'''Tá aí, tó!'''</font>]]
+|released  = [[1991]]
+|genre     = {{SHT}}
+|rating    = 0%
+|platform  = [[Super Famicom|<font color=black>Super Famicome</font>]]
+|ages      = Livre
+}}
+
+{{vqd|Super Famicom Darius}}
+{{vqd|Darius de Twin só há as fases}}
+{{c|Guaaaaaaaaaaarrrrrr...|Chefões desde o Darius 1 morrendo}}
+{{c|Ta, to ta!|Insert Coin do Menu}}
+
+'''Darius Twin''' é o primeiro game da série Darius no [[SNES]].
+
+==História==
+
+Após ocorrer toda aquela merdaria encontrada em Darius II, os peixes contra atacam a mando do Belser e voltou de novo pra Orga pra atacar. Agora, Proco e Tiat tem que salvar Darius pela enésima vez.
+
+==O game==
+
+Todos que jogaram [[Darius]] II sabe que tem que pegar escudos (ao invés de pegar [[mais de 8000]] Orbs no [[Darius]] 1 pra upar a navinha) pra aumentar as forças das "Águias Prateadas". No Darius Twin, segue o mesmo esquema: Pegar escudo <font color=red>Vermelho</font> pra tiros, <font color=green>Verde</font> pra [[míssil|mísseis]], <font color=blue>Azul</font> pra Escudos e <font color=yellow>Amarelo</font> para [[Laser]]s ([[mensagem subliminar]] pra você usar o [[Windows]]). Bem, agora o game tem a vantagem de ter apenas uma tela (ao menos que você utilize uma [[TV]] de [[42]]" pra parecer com os gabinetes do [[Darius]] 1 e II, que eram mais grandes que o gabinete do [[Mario Kart]] Arcade GP) e menos zonas que ultrapassam o [[alfabeto]] todo (a final é [[K]]), além de possuir [[Turbo]], já que os [[Arcade]]s tinham, porém, o tio da máquina não deixava você mexer nos switches.
+
+==<s>Moluscos</s> Chefes==
+
+* Killer Higia: O mais fácil vem primeiro;
+* Emperor & Queen Fossil: SEEEEEEEEEEEE! OS CELACANTOS PAÍS DO KING FOSSIL!;
+* Demon Sword: Mas não parece um demon mesmo...;
+* Dual Shears SP: Joga [[Game Boy Advance|GBA]] SP enquanto tenta destruir você;
+* Dark Coronatus: Sempre esses cavalos marinhos atrapalham...;
+* Red Mist: Red do [[Pokémon]] com a Mist, o que você quer mais;
+* Full Metal Shell: Cascos dos [[Koopa Troopa]]s em metal;
+* Hyper Great Thing: WARNING! A HUGE BATTLESHIP WHALE SIZE IS APPROACHING FAST!;
+* Super Alloy Lantern: Deixa as navinha cegueta de tanta luz;
+* Great Tusk: Amigo do [[Leôncio]], fica dentro do chefão acima ([[WTF?|Não me pergunte como ele coube!]])
+
+{{Darius}}
+
+[[Categoria:Jogos da Taito]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos de shoot 'em up]]
+[[Categoria:Jogos lançados em 1991]]

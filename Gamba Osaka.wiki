@@ -1,0 +1,50 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = darkblue
+|brasao            = Escudo do Gamba Osaka.png
+|hino              =  
+|nome_oficial      = Gambás de Osaka
+|origem            = {{JAP}}''' - [[Osaka]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Suita City|Sukita City]]
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Japonês
+|divisao           = J-League
+|títulos           = 
+|ranking           = 
+}}
+
+'''Gamba Osaka''' é um time de futebol do [[Japão]] considerado um dos mais tradicionais do país, mas também um dos mais derrotados e quase nunca ganha alguma [[J-League]]. Possui um uniforme igual ao do [[Inter de Milão|Inter do Limão]]. Seu mascote é o [[Gambá]] azul que parece a mistura entre o [[Sonic the Hedgehog|Sonic]], o [[Zeus]] e os sete anões da [[Branca de Neve]].
+
+== História ==
+=== Fundação ===
+
+O time foi criado em 1980 como Mat'''sushi'''ta e só em 1992 se transformou em um time de [[gambá]]s. Sua sede fica em [[Osaka]] e seu time já possuiu [[Marcelinho Carioca]] e diversos brasucas pernas-de-pau que não sabiam jogar bola e saíram do time antes do contrato chegar aos 10%.
+
+=== Anos 2000 ===
+
+O time foi campeão da [[J-League]] em [[2005]] e campeão de títulos de campeonatos criados por marcas como [[Nabisco|Rabisco]] e [[Xerox]]. Mesmo sendo um time do Japão, ganhou um título da Copa da Rainha, que era entre times da [[Tailândia]]. O time ainda ficou em 2º na [[Copa Suruga Bank|Copa Suruba]].
+
+=== Liga dos Campeões da AFC e Mundial de Clubes 2008 ===
+
+Em 2008, goleou o [[Da Nang FC|Bombese Exploders]] do [[Vietnã]] por 15x0 na Liga dos Campeões da AFC, e assim os gambás foram para a final contra o [[Adelaide United]]. E depois de novo, pra variar, no [[Mundial Interclubes]] daquele ano onde venceram por 1 x 0. Na semifinal enfrentaram os Capetas do [[Manchester United|Manchister Unináitede]], obviamente perdendo, por 5 x 3. Na decisão do 3º lugar, ganhou do [[Pachuca|Machuca]] por 1 x 0 e teve que se contentar com isto.
+
+O avião dos jogadores foi abatido minutos depois da final acabar e os jogadores [[Morte|virarem sushi]]. O patrocínio da equipe é de muito <s>pouco</s> orgulho a [[Panasonic]] e o material é a [[Umbro]].
+
+{{Campeonato Japonês}}
+{{Liga dos Campeões da AFC}}
+
+[[Categoria:Times de futebol do Japão]]
+
+[[ja:ガンバ大阪]]

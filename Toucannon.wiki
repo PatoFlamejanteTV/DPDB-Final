@@ -1,0 +1,59 @@
+{{pokedex}}
+<choose><option>{{voador}}</option> 
+<option>{{ave}}</option> </choose>
+{{PokéBox
+|imagem = Toucannon.jpg
+|frase = Toucannon bravo por...qualquer coisa.
+|nihongo = ドデカバシ
+|romaji = Dodekabashi
+|tamanho = 200
+|pokedex = 733
+|tipo1 = Normal
+|tipo2 = Flying
+|habilidade1 = Encher o saco dos outros
+|habilidade2 = Cagar nas pessoas
+|espécie = Tucano com bico [[gay|aloka]]
+|cadeia evolutiva = [[Arquivo:PikipekSprite.gif|link=Pikipek|Pikipek]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:PikipekSprite2.gif|link=Trumbeak|Trumbeak]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:PikipekSprite3.gif|link=Toucannon|Toucannon]]
+}}
+{{Sua intenção era pesquisar|Absolutely disgusting?}}
+{{vqd|<choose><option>Pidgeot</option><option>Swellow</option></choose>?}}
+{{experimente|Unfezant}}
+{{c|Meu pássaro preferido.|Kahili|Toucannon.}}
+{{c|Eu sou melhor que ele.|Decidueye|Toucannon.}}
+{{c|Agora estão fazendo animais de verdade? Estão cada vez [[sarcasmo|mais criativos]]...|Genwunner|Toucannon.}}
+{{c|Odeio esse pokémon lixoso.|Petista|Toucannon.}}
+{{c|Eu até que gosto.|Agostinho Carrara|citação acima.}}
+{{c|Esse pokémon é PUTO!!|Alborghetti|Toucannon.}}
+{{C|Meu maior inimigo!!!|Staryu|Toucannon}}
+
+'''Toucannon''' é mais um pokémon [[encher linguiça|enchedor de linguiça]] da sétima geração. Evolui do [[Trumbeak]] <s>caso ainda ter o saco de treinar um</s> no nível 28.
+
+==Composição==
+Toucannon, [[capitão óbvio|como seu nome sugere]], é um [[tucano]] de cor preta com branca, com pernas azuis, sugerindo que seja muito criado por [[PSDB|seres que costumam adorar esse tipo de animal]]. Toucannon possui bico de várias cores, significando que costuma também queimar <s>a rosca</s> os adversários (mesmo não tendo golpes significativos de fogo) com o seu bico, cada vez que aumenta sua temperatura, até a hora de chegar a 100ºC, apenas usando para <s>queimar a rosca</s> chocar diversos ovos. Em sua versão shiny, seu bico é mais [[gay|colorido]] e possui até rosa, no qual uma bicada dele pode te levar pro [[lado rosa da força]].
+
+==Nos jogos==
+[[Arquivo:Toucannon2.png|thumb|250px|left|Toucannon bravo (<s>que novidade</s>), desta vez por não conseguir [[cagar]] no seu ninho.]]
+Por pura inutilidade da espécie, Toucannon apenas é usado pela <s>puta da</s> [[Kahili]], que do nada aparece no jogo na [[Elite 4]], é o principal pokémon dela, além de ser o único pokémon com o Z-Move [[apelão]] do tipo Voador, mas não é grande coisa e pode ser facilmente derrotado. ([[ou não]])
+
+Além de competir com [[Decidueye]], que não é voador mas é um pássaro, e tanto quanto [[Talonflame]], que costumava ser muito usado pelos seus golpes especiais, não é muito usado, por não ter a mesma sorte [[Talonflame|do pássaro da geração anterior]] e pelos seus golpes serem uma verdadeira [[bosta]].
+
+==No anime==
+No anime, nos primeiros episódios, Toucannon do nada, choca cinco ovos, incluindo um ovo de [[Rowlet]], que por ser de espécie diferente, é bulinado pela linha evolutiva inteira do [[Pikipek]], incluindo o Toucannon neste episódio. Sedentos por comida, vários costumam [[roubo|pegar emprestado]] de várias feiras de frutas em Alola, tanto que várias pessoas se acostumaram e começaram a passar frutas velhas pros mesmos levarem.
+
+Como o mesmo Rowlet adotado era também preguiçoso e fazia [[porra nenhuma]] em relação as frutas, costumava levar mais bullying ainda,até que um dia por pura surpresa, [[Pikipek]] e suas evoluções foram capturadas pela [[Equipe Rocket|Equipe Raquete]], que apenas sobrou o Rowlet, que salvou-os, e depois ficou amigo do nada de Toucannon e sua gangue. Mesmo com tudo isso, o mesmo Rowlet foi convidado para ficar com ele, mas acabou virando escravo de [[Ash Ketchum|uma certa mula perdedora]].
+
+==Fatos, [[ou não]]==
+*Como a maioria dos pokémons da geração, não foi revelado, diferentemente de sua versão [[Pikipek|mais <s>noob</s> pequena]].
+*Costumam ser apedrejado por [[petista]]s.
+*Toucannons são muito raivosos, tanto que um deles já ganhou uma disputa de quem tem mais raiva contra um [[Primeape]].
+*É o pokémon mais parecido com sua forma animal. (para mostrar a [[sarcasmo|pura criatividade]] no momento)
+*Possui um golpe secretão dele mesmo chamado de ''Beak Blast'', que é seu golpe mais forte. ([[ou não]])
+
+==Ver também==
+*[[Pikipek]]
+*[[Trumbeak]]
+*[[PSDB]]
+
+{{Poke7}}
+
+[[Categoria:Tucanos]]

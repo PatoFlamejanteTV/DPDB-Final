@@ -1,0 +1,84 @@
+{{InfoCorridaF1|
+|nome               = Grande Prêmio do [[Dilúvio]] de 2011
+|imagem_circuito    = CircuitGillesVilleneuveMapa.jpg
+|tamanho_imagem     = 200px
+|circuito           = [[Circuit Gilles Villeneuve|Circuito de Montreal]]
+|distância          = 4.361 km
+|voltas             = 70
+|poleposition       = {{ALEb}} [[Sebastian Vettel|Sebastião Sbinnala]]
+|tempodapole        = 1:13.014
+|melhorvolta        = {{GBRb}} [[Jenson Button|João Botão]]
+|tempomelhorvolta   = 1:16.956
+|vencedor           = [[Jenson Button|João Botão]]
+|segundo            = [[Sebastian Vettel|Sebastião Sbinnala]]
+|terceiro           = [[Mark Webber|Multi 21]]
+}}
+{{Vqd|Corrida de barco}}
+{{C|Os carros são como as lanchas|Cara do comercial da [[Marinha]]|{{PAGENAME}}}}
+{{C|Tudo isso só para me tirar uma gota de sangue?|<s>[[Thanos]]</s> [[Jenson Button]] após fazer 7 pit stops (e ganhar a corrida mesmo assim)}}
+O '''{{PAGENAME}}''' foi a corrida mais longa e molhada da história da [[Fórmula 1]], até mais que as corridas dos anos 50, durando mais de 4 horas e que acabou fudendo o horário da [[Rede Globo]], que teve que deixar de passar o resto da corrida para passar jogo do [[Clube de Regatas do Flamengo|Flamengo]]. A corrida também ficou memorável pela incrível atuação do inglês [[Jenson Button|Yenson Botão]], que mostrou que inglês não desiste nunca, assim como todo fã inglês de futebol que ainda acha que a [[Seleção Inglesa de Futebol|sua seleção]] ainda irá <s>roubar</s> ganhar outra [[Copa do Mundo]].
+==Pré-corrida==
+A [[Temporada de Fórmula 1 de 2011|temporada de 2011]] ficou marcada pela dominação absoluta de [[Sebastian Vettel|Menino Vettel]], que havia ganhado 5 das 6 corridas anteriores e estava disparado na liderança da corrida. Assim como nas corridas anteriores, Vettel largava na pole com [[Fernando Alonso|Chad Alonso]] ao seu lado e [[Felipe Massa|Felipe Passa]] atrás dele. [[Jérôme d'Ambrosio|Jambo Da-o-Cuzio]], que pilotava em uma das equipes horrorosas da época, nem conseguiu fazer tempos rápidos o suficiente para participar da corrida<ref>Na F1 existe a regra do 107%, onde se o cara não fizer um tempo rápido, ele não participa. Regra criada para evitar que [[Minardi]]s ou os [[Andrea de Cesaris|Cesaris]] da vida fiquem igual cones na pista.</ref>, mas os comissários tiveram pena e deixaram ele correr.
+{| class="wikitable"
+|+ Grid de Largada (Top 10)
+|-
+! Pos. !! Piloto !! Equipe !! Tempo
+|-
+| 1° || {{ALEb}} [[Sebastian Vettel|Sebastião Fetido]] || [[Red Bull Racing|Time voador]] || 1:13.014
+|-
+| 2° || {{ESPb}} [[Fernando Alonso|Fernando Choronso]] || [[Scuderia Ferrari|Ferrugem]] || 1:13.119
+|-
+| 3° || {{BRAb}} [[Felipe Massa|Felipe Pasta]] || [[Scuderia Ferrari|Ferrugem]] || 1:13.217
+|-
+| 4° || {{AUSb}} [[Mark Webber|O australiano voador]] || [[Red Bull Racing|Time voador]] || 1:13.429
+|-
+| 5° || {{GBRb}} [[Lewis Hamilton|Robinho Inglês]] || [[McLaren|McLata]] || 1:13.565
+|-
+| 6° || {{ALEb}} [[Nico Rosberg|Nico Rosbife]] || [[Mercedes GP|Meu Pinto GP]] || 1:13.814
+|-
+| 7° || {{GBRb}} [[Jenson Button|João Botão]] || [[McLaren|McLata]] || 1:13.838
+|-
+| 8° || {{ALEb}} [[Michael Schumacher|Dick Vigarista]] || [[Mercedes GP|Meu Pinto GP]] || 1:13.864
+|-
+| 9° || {{ALEb}} [[Nick Heidfeld|Nico Rádiofield]] || [[Renault|Lotus do Paraguai]] || 1:14.062
+|-
+| 10° || {{RUSb}} [[Vitaly Petrov|Torpedo Russo Original]] || [[Renault|Lotus do Paraguai]] || 1:14.085
+|}
+
+==A corrida==
+[[Arquivo:BuemiCanada2011.jpg|200px|right|thumb|[[Sebastien Buemi]] fazendo review de [[Pokémon Ruby & Sapphire]].]]
+No início da corrida, a chuva estava mais apertada que cu com [[hemorróida]]. Os carros tiveram que largar sob Safety Car até que a pista estivesse um pouco mais... eu iria dizer seca, mas acho que o termo certo é "menos molhada". Após 3 voltas, a corrida começou. Alonso já começou tentando atacar Sebastião mas a sua Ferrari enferrujada não era páreo para a Red Bull voadora (literalmente) de Vettel. Ainda na primeira volta, Hamilton tentou atacar Webber mas acabou fazendo ele rodar, mostrando que desde essa época ele já rodava [[Alexander Albon|pilotos da]] [[Max Verstappen|Red Bull]]. Não demorou muito e ele já entrou em outra treta, dessa vez com seu próprio companheiro de equipe, tentando ultrapassar ele no meio do spray da chuva. Os dois se tocam, Button quebra a asa e Hamilton quebra a suspensão, fazendo ele abandonar e chamar o primeiro (de muitos) Safety Car da corrida. Button teve que trocar a asa danificada mas acabou extrapolando o limite de velocidade nos boxes e teve que pagar um ''Drive Through''. Na relargada, Felipe Pasta tentava se proteger do ataque do japa [[Kamui Kobayashi|Kamikayashi]] e ele ficava preso atrás da Ferrari do Massa pois a pista estava muito molhada para tentar fazer alguma ultrapassagem. A partir daí, a chuva ficava mais e mais forte, até chegar ao ponto de ficar impossível de ver a pista ou o carro a frente. Os comissários tentaram mandar um SC pra ver se amenizava as coisas mas não adiantava pois a corrida havia virado uma corrida de jetskis. A corrida ficou paralizada por mais de 2 horas, fazendo o pessoal da [[Rede Globo]] desistir de transmitir a corrida para poder passar jogo do [[Campeonato Brasileiro]].
+
+Enquanto os brasileiros ficavam vendo jogo do Flamengo contra um timinho aí, a corrida no Canadá relargou após a chuva ter dado uma parada. Mas nem demorou muito para termos outro SC, quando Alonso tentou ultrapassar o Button por fora mas levou um toque e acabou ficando atolado em cima da zebra, numa cena um tanto quanto ridícula, e por mais uma vez Jenson havia se fodido e teve que ir para os boxes pela 1000° vez. Conforme as voltas passavam, a pista iria secando e os pilotos foram trocar para pneus intermediários, mas alguns pilotos tentaram já ir pro pneu de pista seca. Um desses foi Massa, que acabou batendo no muro enquanto desviava de uma HRT do [[Narain Karthikeyan]], que ficava feito um cone ambulante na pista. Kobayashi acabou também tendo um incidente com Nick Heidfeld, onde o alemão encheu a frente da sua Lotus na traseira da Sauber, quebrando a asa que logo em seguida passou por baixo do carro, fazendo ele rampar e ir parar na [[puta que pariu]], trazendo mais um SC pra pista.
+
+[[Arquivo:AlonsoAtoladoCanada2011.jpg|200px|miniaturadaimagem|direita|[[Fernando Alonso]] fazendo manobra de [[Skate]] na zebra.]]
+Nesse ponto da corrida, a transmissão da Globo havia voltado e todos puderam apreciar a escalada do pelotão de Button, que havia ido de último para primeiro, para último de novo e que agora estava em 4°, logo atrás da RBR de Webber Multi 21 e da Merc de Dick Vigarista. Webber tentou passar Schumacher na chicane, mas passou reto, voltou pra pista que nem um imbecil e quase meteu o carro no muro e no Button, que aproveitou para passar ele. Nas voltas finais, Button ultrapassou Schumacher na mesma curva, mas dessa vez ele passou de forma decente e agora estava na caça à Vettel, que liderava a corrida desde o início. Quando chegou a última volta, Botão estava logo atrás de Sebastião, mas não tinha como ultrapassar, já que os 2 estavam com pneus slick e a parte de fora do traçado da pista estava muito molhado. Porém, assim como Hamilton deu uma amostra de como seria seu futuro na Mercedes, Vettel também mostrou como seria seu futuro na Ferrari, onde ele toca na parte molhada da pista e acaba rodando, dando a vitória de bandeja para o Botão. Ainda deu tempo do Webber ultrapassar o Dick Vigarista e Felipe Massa ainda conseguiu passar Kobayashi na linha de chegada, terminando em 6°. [[Rubens Barrichello]] (Sim, ele estava correndo) terminou em 9° e a maior surpresa da corrida foi que devido ao enorme número de acidentes e abandonos, os pilotos das 3 equipes ruins da época ([[Marussia]], [[Caterham]] e [[HRT]]) todos terminaram no Top 15 (Menos Karthikeyan que levou punição e terminou em 17°).
+
+{| class="wikitable"
+|+ Resultados Finais (Top 10)
+|-
+! Pos. !! Piloto !! Equipe !! Tempo/Dif. !! Grid
+|-
+| 1° || {{GBRb}} [[Jenson Button|João Botão]] || [[McLaren|McLata]] || 4:04:39.537 || 7° (+6)
+|-
+| 2° || {{ALEb}} [[Sebastian Vettel|Menino Vettel]] || [[Red Bull Racing|Time voador]] || +2.709 || 1° (-1)
+|-
+| 3° || {{AUSb}} [[Mark Webber|Multi 21]] || [[Red Bull Racing|Time voador]] || +13.828 || 4° (+1)
+|-
+| 4° || {{ALEb}} [[Michael Schumacher]] || [[Mercedes|Meu Pinto GP]] || +14.219 || 8° (+4)
+|-
+| 5° || {{RUSb}} [[Vitaly Petrov|Torpedo Russo Original]] || [[Renault|Lotus do Paraguai]] || +20.395 || 10° (+5)
+|-
+| 6° || {{BRAb}} [[Felipe Massa|Felipe Passa]] || [[Ferrari|Ferrugem]] || +33.225 || 3° (-3)
+|-
+| 7° || {{JAPb}} [[Kamui Kobayashi|Kamikayashi]] || [[Sauber F1 Team|Saúva]] || +33.270 || 13° (+6)
+|-
+| 8° || {{ESPb}} [[Jaime Alguersuari|Jaiminho Aluguel]] || [[Scuderia Toro Rosso|Red Bull Italiana]] || +35.964 || Box (+16)
+|-
+| 9° || {{BRAb}} [[Rubens Barrichello|Rubinho Pé de Chinelo]] || [[Williams F1|Ruinlliams]] || +45.117 || 16° (+7)
+|-
+| 10° || {{SUIb}} [[Sebastien Buemi|Sem Graça Bueno]] || [[Scuderia Toro Rosso|Red Bull Italiana]] || +47.056 || 15° (+5)
+|}
+
+[[Categoria:Grandes Prêmios de Fórmula 1 de 2011|Canada]]
+[[Categoria:Grande Prêmio do Canadá|2011]]

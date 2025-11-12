@@ -1,0 +1,57 @@
+{{Microsoft}}
+{{Verdade}}
+[[Arquivo:System32.jpg|thumb|Os salafrários a mando da Microsoft estão te enganando pra você poder gastar seu dinheiro com uma versão paga do [[Norton Antivírus]], não dê ouvidos a eles e EXCLUA SEM DÓ!]]
+'''System32''' é uma pasta maliciosa cheia de programas <s>essenciais para o funcionamento do seu [[Windows]]</s> [[vírus de computador|vírus]] que só servirão pra foder o seu PC. Sério, não mexa nessa pasta, a não ser que seja pra excluí-la, o que é uma ótima dica a se fazer aliás. Hum... Se quiser, meta pornografia nessa pasta, para que sua mulher nunca descubra que você vê pornografia. {{link falso|E quando estiver enjoado dela pode deletar|Da pornografia, não vá deletar sua esposa!}}.
+
+== Excluindo a pasta System32 ==
+[[Arquivo:Apague a system32.jpeg|thumb|Siga a dica.]]
+Primeiro, óbvio, a localização, que é sempre dentro de uma outra pasta chamada Windows. Ela fica bem no seu [[disco rígido]] na pasta principal, que normalmente é C: (mas sei lá, vai que você tem mais de um disco rígido sei lá pra que diabos). Então no Explorador de Arquivos ou no Gerenciador de Arquivos (caso você venha de algum outro planeta e use tipo um [[Windows 1.0]] ou abaixo do [[Windows 95]] - nesse caso a pasta se chama apenas "System" porque o 32 tem a ver com o facto de que desde 1995 os Windows operam na velocidade de 32 arrastadas na cadeira por segundo, e alguns já pra lá dos 64 ou sei lá o que, diferente dos inferiores que mal chegavam a 16 arrastadas e essa explicação entre [[parêntesis]] está ficando maior do que a porra do [[parágrafo]] já, socorro!).
+
+Então, seria tipo ''C:/Windows/System32''
+
+Sendo assim, você acha a pastinha.
+
+Logo você volta uma janelinha pra trás e localiza a pasta por lá.
+
+Daí é só dar um cliquezinho nela, e apertar [[Delete]] pra mandar pra [[Lixeira]] e logo a seguir apertar em "Esvaziar Lixeira", ou de maneira mais rápida apertar [[Shift]] e Delete pra mandar a pasta de uma vez só pro quinto dos infernos virtuais. E pronto, seu computador está livre por completo dessa pasta que só faz pesar na memória com seu conteúdo virulento, agora dá pra jogar qualquer coisa direitin...
+
+<div style="display:block;width:640px;background:#00a;color:#fff;padding:60px;whitespace:pre;font:14px bold;font-family:fixedsys, terminal, MS Sans Serif, monospace;text-align:left;">                                 
+<span style="margin:1em auto;color:#00a;background:#aaa;font:14px bold;font-family:fixedsys, terminal, Arial, monospace"> Aviso </span><div style="text-align:left;">
+<br /><nowiki>
+   Uma boceta fatal ocorreu no seu computador. A causa dessa porra foi que você decidiu apagar a pasta que tem todos os processos que fazem o caralho do PC funcionar e assim você fudeu seu sistema e por causa de sua ínfima burrice e para segurança, a Tela azul da Morte apareceu e você se fodeu!</nowiki><br /><nowiki>
+   Temos estas porras que podem ajudar você a tira essa daqui ou não:
+</nowiki><br /><nowiki>
+   *  Pressione Ctrl+Alt+DEL para ter um infarto quando descobrir que vai ter de pagar um novo pc
+</nowiki><br /><nowiki>
+   *  Pressione Ctrl+Alt+Space para sentar na trolha e ficar girando girando girando
+</nowiki><br /><nowiki>
+</nowiki><br /><nowiki>
+   *  Pressione Enter até o teclado explodir
+</nowiki><br /><nowiki>
+   *  Dê dois cliques no mouse e dois pulinhos pra são longuinho
+</nowiki><br /><nowiki>
+   *  Pressione Ctrl+Alt+PAGE DOWN para deletar a merda do windows do seu computador, pois ele já não serve pra mais porra nenhuma mesmo.
+</nowiki><br /><nowiki>
+   *   Vá na esquina mais próxima dar umas três horas de cu e volte aqui para ver se essa merda desapareceu man.
+</nowiki><br /><nowiki>
+   *  Se ainda estiver aqui, jogue computador pela janela e desça lá embaixo para ver se ele se despedaçou no chão.
+</nowiki><br /><nowiki>
+   *  Compre um computador novo e não invente mais de ir na onda de babacas que contam lendas urbanas sobre os perigos do System32.
+</nowiki><br /><nowiki>
+   *  Vá tomar no c@.
+</nowiki>
+
+<nowiki>
+Pressione seu c@ 200000x pra continuar
+     
+</nowiki><span style="color:#888">_</span>
+
+</div></div>
+
+== Ver também ==
+* [[Jdbgmgr.exe]]
+* [[AUTOEXEC.BAT]]
+* [[Config.sys]]
+
+{{Vírus}}
+[[Categoria:Aplicativos do Windows]]

@@ -1,0 +1,53 @@
+{{Magia}}
+{{Mental}}
+
+{{PokéBox
+| imagem = Abra.png
+| tamanho = 260px
+| frase = Pequeno e inútil que dorme depois de andar 1 passo
+| pokedex = 063
+| tipo1 = Psychic
+| tipo2 =
+| nihongo =  ケーシィ
+| romaji = Casey
+| habilidade1 = [[Teleport]]
+| espécie = <center>Raposinha amarela que só abre o olho quando evolui .
+| cadeia evolutiva = [[Arquivo:AbraSprite.gif|link=Abra|Abra]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:KadabraSprite.gif|link=Kadabra|Kadabra]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:AlakazamSprite.gif|link=Alakazam|Alakazam]]
+}}
+
+{{Você quis dizer|Japonês?}}
+
+{{C|Feche a porta quando sair|Abra}}
+
+{{C|Que roupinha mas pru, que corzinha mas pru, você precisa é tomar um sol, lá na Groenlândia que você pega uma cor IN-CRI-VEL|Rick di Boyol|Abra}}
+
+{{C|Eu uso a poderosa técnica [[Teleport]]!|Treinador de Portugal}}
+[[Arquivo:AbraSprite.gif|left]] '''Abra''' é o [[pokémon]] #63 da primeira geração. É um pokémon totalmente útil que tem a poderosa técnica [[teleport]] - poderosa entre aspas né, porque essa habilidade só faz você fugir da batalha de um monstro fodão pra não passar vergonha de que vai morrer.
+
+== Características ==
+
+Abra é um pokémon do tipo psíquico, afinal ele não usa o corpo para fazer [[porra nenhuma]] (nem "se abre", como alguns engraçadões poderiam presumir). Não move nenhuma palha quando é necessário, preferindo usar a mente em vez disso. Utilizando-se da mente, Abra faz com que as tarefas dele sejam feitas, como procurar comida, achar a escova de dentes no meio da zorra, arrumar a casa, etc. Dá muito trabalho se mexer para fazer algo útil, então é bem mais cômodo dar uma de psíquico e mover tudo com a cabeça (não, ele não dá cabeçadas nas coisas). Entretanto, pensar também cansa, por isso os Abras passam a maior parte do tempo em sua rede de estimação, no maior ronco. Estima-se que um Abra dorme cerca de 18 horas por dia, exceto no [[carnaval]], quando o pokémon deixa de dormir por aproximadamente cinco dias para passar o mês seguinte dormindo por 23 horas diárias, como se costuma fazer na [[Bahia|Terra do Painho]]. Aliás, dizem que este pokémon pertence à Região de Kanto: isso é uma calúnia, eles foram exportados da Bahia para Kanto, Johto, Hoenn e Sinnoh, menos para Unova, já que lá eles não aceitam pokémons de outras regiões.
+
+Para encontrar um Abra, não é necessário grande esforço, pois é um pokémon facilmente achado em qualquer rota, desde [[Saffron]] até Cinnabar, sem contar outras regiões, como Johto, Hoenn e Sinnoh. Normalmente os Abras tem preguiça de se esconder muito, o que explica essa facilidade. Apesar de ser um pokémon <s>vagabundo</s> que não gosta de lutas, muitos treinadores insistem em querer capturar um Abra, não se sabe o porquê, talvez eles tenham alguma [[esperança]] de que a criatura evoluirá para uma forma mais útil. Percebendo que terão de trabalhar caso sejam capturados por uma pokébola, os Abras sempre tentam fugir dos treinadores usando sua  técnica de teletransporte, pois correr cansa demais. Ao encontrar um Abra selvagem, o procedimento mais recomendável e tentar lançar a melhor pokébola sobre ele, sem que o mesmo perceba, mesmo que [[você]] gaste mais de 13 bolas tentando, já que o bicho em questão prefere fugir a lutar, mas mesmo assim todo mundo quer capturá-lo. Para treinadores [[noob]]s, ainda há a possibilidade de se adquirir um legítimo Abra no <s>mercado negro</s> [[bingo]] de Celadon, isso se já não tiver um monte de velha jogando, o que minora quaisquer chances de se ganhar algo no bingo.
+
+[[Arquivo:abra.jpg|left|200px|thumb|Um Abra já puto com a piada de "Abra, Fecha"]]
+
+Depois de adquirido o Abra, o problema é torná-lo útil. Se depender de um Abra, ele passará a vida toda morgando e, ao menor indício de trabalho, se teleportando. Um Abra capturado poderia ser utilizado na limpeza doméstica ou na linha de montagem da Devon Corp., aproveitando seus poderes psíquicos, já que ele não serve para fazer esforços físicos. Pode-se usar um Abra como animal de estimação, daqueles que só comem e dormem, podendo também desaparecer sem avisar; é o uso mais comum desse pokémon. Caso o treinador queira usar um Abra para combates, é melhor desistir, senão o pobre bichinho vai morrer depois de uma semana apanhando mais do que o [[Seiya]]. Se mesmo assim o destino do seu Abra for a arena pokémon, o recomendável é esperar <s>a grama crescer</s> que ele evolua para [[Kadabra]], senão ele já era. E para um Abra aprender alguma técnica de luta e um dia evoluir, nem o casal-de-velhinhos-criadores-de-pokémons dá conta de ensinar alguma coisa à criatura; o melhor é tentar a Academia Militar de Kanto de uma vez.
+
+== Curiosidades ==
+Sabia que...
+*Abra é um pokémon extremamente inútil, mas mesmo assim é muito visado por treinadores?
+*Está sempre dormindo, mas sempre consegue acordar e se teleportar quando é ameaçado por uma pokébola alheia?
+*O Abra é um pokémon que sempre vai no psicólogo para se abrir?
+{{break}}
+== Veja também ==
+*[[Kadabra]]
+*[[Gastly]]
+*[[Machop]]
+
+{{poke1}}
+
+[[es:Abra]]
+[[Categoria:Raposas]]
+[[Categoria:Cabras]]
+[[Categoria:Paranormais]]

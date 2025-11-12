@@ -1,0 +1,48 @@
+{{game}}
+
+{{Infobox Game
+|title     = Wonder Boy in Monster Land
+|image     = Monster Land for the Master System cover artwork.jpg
+|caption   =
+|developer = [[Westone Bit Entertainment|Westone]], [[Sega]], [[Activision]]
+|publisher = [[Sega]]
+|released  = [[1987]]
+|genre     = [[Plataforma]]
+|rating    = 100000000%
+|platform  = [[Arcade]], [[Master System]], [[PC Engine]], [[Amstrad CPC]], [[ZX Spectrum]], [[Commodore 64]] e [[Virtual Console]].
+|ages      = Livre
+}}
+
+{{vqd|Bikkuriman World}}
+{{experimente também|Mônica no Castelo do Dragão}}
+{{c|Qual dos dois?|O criador do emulador Meka|o nome Bock Lee Temjin}}
+
+'''Wonder Boy in Monster Land''' é o segundo jogo da série [[Wonder Boy]] e o primeiro da série Monster World, feito em [[1987]].
+
+==O jogo==
+
+O jogo sofreu mudanças drásticas desde o outro Wonder Boy. Em primeiro, o mundo pré-histórico de WB foi esquecido e foi trocado pelo mundo medieval. E em segundo, o jogo tem um monte de elementos de RPG. Você irá controlar Bock Lee Temjin (Bock the Erooooooooo), um plágio do [[Space Harrier|Harrier]]. Em breve, ele é equipado com uma espada chamada [[Gradius]] (que original...) e com uma poção que quando ele morrer, irá encher os seus 5 corações. O chato é que aqui tem tempo, e vai descontando da sua energia. Você pode obter dindin matando os inimigos ou então pulando em certos locais (algumas vezes, no mesmo). Com o dinheiro você pode comprar botas, armaduras, escudos, espadas, magias e itens que possam te ajudar aqui. Aqui não era que nem no WB 1 no qual era só ficar andando pra frente. Aqui você pode explorar vários lugares e vários labirintos. Muitas saídas dos labirintos/fases, tem que pegar chaves para você sair dela (as vezes, você irá ter que enfrentar [[Chefão|Bosses]].) WB in ML é o mais difícil de  toda a série, porque nas versões de consoles, não há continues (e na de [[Arcade]] não tem como ter continues no Labyrinth of No End, que é o caminho pro chefão).
+
+==Conversões==
+
+O jogo foi portado pelo [[Overworks|Sega AM-7]] (estúdio criador do [[Alex Kidd|Porrada-Boy]]) pro [[Master System]], e pela [[Activision]] para [[ZX Spectrum]], [[Amstrad CPC]] e [[Commodore 64]]. A Images Inc. portou para o [[Atari ST]] e pro [[Commodore Amiga]]. Em [[2005]], a [[Hudson Soft|Bee's Softhouse]] portou Super Adventure Island pra celular, mas não era o jogo de [[SNES]], e sim, Wonder Boy in Monster Land.
+
+==Clones==
+
+O jogo teve várias cópias, algumas licenciadas pela Westone ([[ou não]]): A Bee's Softhouse portou [[Bikkuriman World]] para [[PC Engine]], [[Droga|baseado]] no seu [[Bikkuriman|Anime]]. A [[Tectoy|Treco Toy]] <s>hackeou</s> modificou a versão de SMS de WBML para Mônica no Castelo do Dragão, que tinha apenas Mônica como [[Protagonista|personagem principal]]. O jogo foi traduzido também e somente os sprites foram trocados, nada mais. Uma versão pro [[Nintendinho|Famicom]] foi criada pela [[Jaleco]], chamada Saiyuki World. Essa cópia não era licenciada pela Westone. Uma sequência foi criada, chamada de [[Whomp 'Em]].
+
+==Uma sequência feita por fãs==
+
+Os criadores do emulador [[Meka]] criaram um porte pro [[Dreamcast|Merdacast]]. Se isso é verdade, não sei...
+
+{{Wonder Boy}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para PlayStation 3]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos lançados em 1987]]

@@ -1,0 +1,17 @@
+
+[[Arquivo:Cloudflare_logo.png|right|thumb|Parece aquela nuvem do [[Dragon Ball]]. Mensagem subliminar?]]
+A '''Cloudflare''' é uma companhia <s>de fundo de quintal</s> dos [[Estados Unidos]] que fornece uma rede de entrega de conteúdo e serviços distribuídos de [[DNS]], sendo o intermediário entre o visitante e o provedor de hospedagem do usuário da Cloudflare, atuando como um proxy reverso para websites. Entretanto, para serviço de wikis costuma cagar os IP dos usuários, misturando tudo num imenso caos e zoneando as checagens de vândalos.
+
+A sua rede protege, acelera e melhora a disponibilidade de um website ou aplicação móvel com uma mudança no DNS. A Cloudflare está sediada em [[São Francisco]], [[Califórnia]], com escritórios adicionais em [[Londres]], [[Nárnia]] e [[Singapura]].
+
+== História de caos ==
+[[Arquivo:Cloudflare e o servidor da Desciclopédia.jpg|miniaturadaimagem|Nem a Cloudflare aguenta o tanto de problemas do [[Servidor da Desciclopédia]]]]
+O grupo hacker de neonazistas e skinheads atacou a Cloudflare parcialmente através de falhas nos sistemas de autenticação do [[Google]] em junho de 2012, ganhando acesso de administrador e usando-o para desconfigurar o [[4chan]]. Em fevereiro de 2014, a Cloudflare mitigou o maior ataque DDoS de sempre, que teve o seu pico nos 400Gbit/s, parece pouco, mas é o que seu computador jamais irá trabalhar [[nem fudendo]].
+
+Em 2015, o site Torrent Freak alertou que nos termos de serviço consta que o serviço não serve para proteger sites piratas, pois os dados do usuários serão entregues a quem preencher uma solicitação a papel em branco para eles.
+
+Em 23/02/2017, um funcionário do Google alertou sobre o que pode ter sido o maior vazamento de dados da história da internet. Durante mais de 5 meses, o sistema de proteção pode ter vazado dados de empresas como Google, Uber, Nasdaq, etc.
+
+Em abril de 2017, o Cloudflare caga todos os IPs de [[mais de 8000]] usuários durante uma checagem comum numa votação para [[moderador malvado]] e mistura todos num só.
+
+[[Categoria:Internet]]

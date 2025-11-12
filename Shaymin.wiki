@@ -1,0 +1,40 @@
+{{vegetal}}
+{{pokedex}}
+
+<choose><option>{{PokéBox
+| imagem = Shaymin-Land.png
+| frase = Por favor, não me confundam com um arbusto!
+| tamanho = 200
+| tipo1 = Grass
+| tipo2 = 
+| pokedex = 492
+| espécie = Porco-espinho vegetariano
+| habilidade = transformar-se em um veado
+| cadeia evolutiva = [[Arquivo:Shaymin-LandSprite.gif|link=Shaymin|Shaymin]]
+}}</option><option>{{PokéBox
+| imagem = Shaymin-Sky.png
+| frase = Por favor, não me confundam com um arbusto!
+| tamanho = 200
+| tipo1 = Grass
+| tipo2 = Flying
+| pokedex = 492
+| espécie = Cachorrinha (ou porco espinho) voadora
+| habilidade = Te matar com os chifres
+| cadeia evolutiva = [[Arquivo:Shaymin-SkySprite.gif|link=Shaymin|Shaymin]]
+}}</option></choose>
+
+'''Shaymin''' é um pokémon místico que pode ser tanto um [[porco-espinho]] com uma floresta no lugar de seus espinhos (ainda bem), quanto uma [[Cão|cachorrinha]] mimada que acha que sabe voar e tem sangue de galinha.
+
+== Características ==
+=== Forma normal (Land Forme) ===
+Em sua forma normal (que gostamos de chamar de ''Forma Land''), Shaymin é um pokémon que tem todos os stats balanceados, apesar de parecer fofinho e fraquinho, na verdade ele tem a mesma força de um [[Celebi]], ambos são pokémons fofinhos e fraquinhos (e de planta ainda por cima) mas são fodões por serem míticos!
+
+A forma normal de Shaymin também se caracteriza por ser romântica: A flor em sua cabeça prova isso. Shaymin também vive em lugares que parecem mais jardins de um mundo cor-de-rosa, mais uma prova de seu romantismo.
+
+=== Forma celeste (Sky Forme) ===
+Já a forma celeste (que gostamos de chamar de ''Forma Sky'') de Shaymin é um pouco mais diferente. Ao que parece, ela é um cachorro com [[chifre]]s de [[veado]] e folhas atrás das costas. Ela acha que sabe voar mas não sabe, ela tem sangue de galinha mas isso não basta para que ela possa voar. Mas pelo menos ela pode aprender ataques voadores, e assim se aproveitar do istabe.
+
+A forma Sky também se caracteriza por exagerar na força e na velocidade, deixando a defesa de lado, preparando assim Shaymin para que possa ser abatida facilmente por uma bola de  neve.
+
+{{poke4}}
+[[Categoria:Ouriços]]

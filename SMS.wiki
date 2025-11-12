@@ -1,0 +1,54 @@
+{{vqd|Sega [[Master System]]}}
+{{c|Malditos portugueses!|[[Adolf Hitler]]|S.M.S}}
+{{c|Ôh gajo, que droga ser esta?|decodificador português|S.M.S}}
+{{c|Haha, pegamos eles!|[[Winston Churchill]]|burros que não souberam decodificar as mensagens}}
+
+{|class="infobox bordered" style="font-size: 95%" cellpadding="2" cellspacing="0" align="right" width="295"
+|colspan="2" style="background:{{{Cor|#C0C0FF}}};" align="center" |<font size="+1">'''{{{Nome|{{PAGENAME}}}}}'''</font>
+|-
+|'''''Secret Message System'''''             ||"'''''S.M.S'''''"
+|-
+|'''Falado em:'''             ||[[América]], [[Europa]], [[Oceania]] e [[Antártida]]
+|-
+|'''Total de falantes:'''     ||241 milhões ([[IBGE]], [[2006]])
+|-
+|'''Classificação genética:'''||{{Info língua/DialetoPort-br}}<br>[[Asnês]]<br>[[Armênio Arcaico]]<br>[[Inglês]]<br>[[Aramaico]]<br>[[Miguxês]] Arcaico<br>'''S.M.S'''
+|-
+|'''[[SIL]]:'''               ||'''SMS'''
+|}
+
+O '''S.M.S''' é um sistema de codificação desenvolvido pelo exército dos [[EUA]] e [[Inglaterra]] para que mensagens secretas não caíssem nas mãos do [[Adolf Hitler|Adolfinho]] durante a [[Segunda Guerra Mundial]]. S.M.S é a abreviatura de ''Secret Message System'' (Sistema Secreto de Mensagens). Seria um ''contra-projeto'' ao projeto nazista Enigma e ao projeto [[União Soviética|soviético]] NI-5.
+[[Arquivo:bush-besta.jpg|left|thumb|200px|Bush reclamando ao soldado por não conseguir ler o cartaz escrito em S.M.S.]]
+
+== Desenvolvimento ==
+A idealização do projeto foi feita pelo linguista Waiterk Pastar (que era um [[Alemanha|alemão]] naturalizado americano) e a mais cinco outros cientistas que depois trabalharam no [[projeto Manhattan]].  [[Albert Einstein]] atuou como observador e conselheiro.
+Após gastar muito tempo e dinheiro pensando em como construir um tipo de codificação perfeito, [[Albert Einstein]] <s>obrigou</s> propôs que Waiterk Pastar e os outros cinco fizessem algo barato, rápido, que qualquer <s>idiota</s> pessoa entendesse com uma explicação de cinco minutos e que, caso os inimigos encontrassem uma mensagem, não a levassem a sério devido à obviedade. Então eles desenvolveram <s>essa porcaria</s> esse sistema, que consiste numa simples supressão de algumas letras e a substituição por outras (principalmente '''K''', '''W''' e '''Y''').
+
+== Uso na Guerra ==
+O '''S.M.S''' entrou em serviço na frente aliada em 1941. Apesar de quase todas as mensagens classificadas como ''Ultrassecretas'' terem caído nas mãos dos alemães, eles não conseguiram decifrar nenhuma mensagem (documentos liberados no final da guerra mostraram que essas mensagens eram decodificadas por uma empresa privada portuguesa, o que explica não terem decifrado nem a data – que estava em forma de número). Circunstâncias a parte, o governo americano achou o sistema maravilhoso e comprou os direitos, usando-o como sistema de codificação padrão de 1945 a 1965, quando foi substituído pelo [[braile]]. Há rumores em que [[George Bush|Bush]] esteja querendo reintroduzir esse sistema no exército. A alta cúpula do exército disse que só aceitaria se ele usasse [[vaselina]] ou [[KY]].
+
+== Atualidade ==
+Atualmente o '''S.M.S''' tem utilidade para mandar mensagens entre celuares, pois esse sistema encurta muito as palavras (como em Você -> Vc, Casa -> Kza, Comigo -> Cmg). Não tem mais utilidade como sistema de codificação, já que qualquer <s>pirralho</s> criança entende o que está escrito. Alguns estudiosos dizem que o '''S.M.S''' está condenado a desaparecer em poucos anos, com o advento de novas <s>besteiras</s> tendências e novos sistemas de codificação.
+
+==Ver também==
+*[[MMS]]
+*[[Spam]]
+*[[Chipeira]]
+*[[Natta.com]]
+
+[[Categoria:AAAAA]]
+[[Categoria:Invenções da Finlândia]]
+[[Categoria:Siglas]]
+[[Categoria:Telefonia]]
+
+[[ca:Sms]]
+[[cs:SMS]]
+[[de:SMS]]
+[[en:SMS]]
+[[eo:SMS]]
+[[es:SMS]]
+[[fr:SMS]]
+[[id:SMS]]
+[[it:SMS]]
+[[no:SMS]]
+[[pl:SMS]]

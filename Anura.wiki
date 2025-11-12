@@ -1,0 +1,78 @@
+{{taxocaixa
+| nome           = Sapos em geral
+| cor            = #66CDAA
+| imagem         = Caco o sapo.jpg
+| imagem_legenda = Anura em seu habitat
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Tetrapoda|Quadrúpedes]]
+| classe         = [[Amphibia|Gosmentos]]
+| ordem          = [[Anura|Ânus ra]]
+}}
+
+'''Anura''' são uma classe de animais arredondados, geralmente burros, quase sempre verdes mas podem ser encontrados em variadas cores venenosas, pegajosos, viscosos, vivendo em brejos e lamaçais similares coachando e pulando, em outras palavras, são a união dos sapos, rãs e pererecas (estas, as pererecas, estão em curso de extinção, com o fim da moda da depilação, as pererecas estão sendo substituídas por enormes taturanas. Outro motivo trágico para o fim das pererecas é o crescente uso errado e desgraçado da língua portuguesa, que dá a origem de palavras ordinárias como ''pepeka'').
+
+== Anatomia ==
+
+Um anura é um animal divino e supremo, bondoso, carismático e simpático. Todo poderoso é o responsável pela criação dos seres inteligente na face da Terra, e diversos livros sagrados ao redor de todo globo de culturas que nunca tiveram contato entre si narram essa suposta mitológica criação o que a torna verídica. Os sapos criaram os humanos à sua semelhança, ou seja, sem cauda.
+
+Outras características anatômicas dos sapos, rãs e pererecas são sua pele gosmenta cheias de substâncias nocivas, os olhos arregalados pois eles gostam de simular espanto afinal são todos ''overactors'' e membranas interdigitais que são aquela pele entre os dedos.
+
+Como possuem um estranho hábito de se enrolarem em merda, adoram frequentar brejos imundos, esgotos, lagos abandonadas, poças, e qualquer local úmido, distribuindo-se por todo planeta menos nos desertos ou nas cidades africanas onde não tem água.
+
+=== Pés e salto ===
+
+Os anfíbios anura vivem metade do tempo na água e metade na terra, por isso suas patas traseiras são desenvolvidas para estes dois tipos de ambientes, fortes e longas para ficar pulando na terra embora e com membranas entre os dedos para auxiliar no nado embora eles sejam extremamente preguiçosos porque toda vez que encontramos um sapo ele está parado se fingindo de morto, nem saltando nem nadando.
+
+=== Pele ===
+
+Os anura como os demais anfíbios respiram através da pele e por isso são completamente gosmentos e escorregadios, como se fossem recobertos por uma camada de catarro transparente, afinal é como se o corpo inteiro deles fosse uma fossa nasal com resfriado. Da mesma maneira que sua pele absorve o oxigênio ela também tem o perigo de perder água, então para matar um anura basta despejar um pacote de sal em sua pelves.
+
+=== Veneno ===
+
+Os anura que não sejam verdes e aparecem em berrantes cores de rosa-choque, amarelo-vômito, vermelho-fogo, azul-marinho ou roxo com bolinhas amarelas são certamente venenosos. Alguns talvez não sejam mortais mas certamente dão à sua pele um sabor horrível para possíveis predadores, mas outros podem matar de embolia pancreal.
+
+== Ciclo de vida ==
+
+Quando nascem dos ovos os anura são todos [[girino]]s, uma espécie de cocozinho ambulante que vive na água. Os sapos certificam-se de colocar milhões de ovos porque todos eles serão comidos pelo seu maior predador, o [[homo sapiens]], que usa seus ovos para fabricar [[caviar]], e só um ou outro ovo chegará à fase adulta.
+
+== Taxonomia ==
+
+{{Clado
+|clado1     = Famílias
+|preposição = à
+|clado2     = ordem anura
+|texto      = Pessoas comuns muito metidas a sabichonas gostam de tentar diferenciar sapos de rãs de pererecas utilizando características simples e visuais achando-se os verdadeiros biólogos por realizarem tal tarefa, mas os cientistas de verdade já avisaram durante a Conferência Internacional dos Anfíbios Intergaláticos da Terra que absolutamente não existe diferença genética, visual ou anatômica que diferencie sapo de rã de perereca e que é tudo é mesma coisa. Com um pouco de forçação de barra é possível dizer que as espécies da família [[bufonidae]] sejam os sapos porque tem todos cara de sapo, as espécies da família [[Hylidae]] sejam as pererecas porque são todos similares a vaginas depiladas molhadas, e as espécies da família [[Ranidae]] sejam as rãs porque eles tem pele lisinha... mas ainda sobram mais 25 famílias de sapos, pererecas ou rãs que ninguém sabe o que são.
+|lista      = 
+* '''[[Ascaphidae]]''' - sapos com cauda
+* '''[[Bombinatoridae]]''' - sapos-de-barriga-de-fogo
+* '''[[Alytidae]]''' - rãs-pintadas
+* '''[[Leiopelmatidae]]''' - sapos neozelandeses primitivos
+* '''[[Megophryidae]]''' - sapos pequenos
+* '''[[Pelobatidae]]''' - sapos de unhas negras
+* '''[[Pipidae]]''' - sapos primitivos sem língua
+* '''[[Rhinophrynidae]]''' - sapo-escavador-mexicano
+* '''[[Scaphiopodidae]]''' - sapos americanos de pé pá
+* '''[[Allophrynidae]]''' - sapos da Guiana
+* '''[[Hemiphractidae]]''' - sapos sul-americanos
+* '''[[Arthroleptidae]]''' - guizos
+* '''[[Brachycephalidae]]''' - sapos minúsculos
+* '''[[Bufonidae]]''' - sapos comuns
+* '''[[Centrolenidae]]''' - sapos transparentes, de mesa de centro
+* '''[[Dendrobatidae]]''' - sapos venenosos
+* '''[[Heleophrynidae]]''' - sapos fantasmas
+* '''[[Hemisotidae]]''' - sapos escavadores de focinho marmorizado
+* '''[[Hylidae]]''' - pererecas
+* '''[[Hyperoliidae]]''' - sapos de madagascar
+* '''[[Leptodactylidae]]''' - jias com os dedo solto
+* '''[[Mantellidae]]''' - pequenos sapos tóxicos
+* '''[[Microhylidae]]''' - sapo coxinha
+* '''[[Myobatrachidae]]''' - sapos terrestres australianos
+* '''[[Ranidae]]''' - rãs de verdade
+* '''[[Rhacophoridae]]''' - rãs de arbusto
+* '''[[Rhinodermatidae]]''' - sapos argentinos
+* '''[[Sooglossidae]]''' - sapos sem cabeça das Seychelles
+}}
+
+[[Categoria:Amphibia]]
+[[Categoria:Anura|*]]

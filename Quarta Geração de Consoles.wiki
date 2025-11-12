@@ -1,0 +1,139 @@
+[[Arquivo:NintendovsSEGAb415d69f6d32546a.jpg|thumb|Resumo dessa geração.]]
+A '''Quarta Geração de Consoles''', também chamada de '''16-bits''', ou até mesmo de '''Nintendo vs. Sega''' é o período da [[história]] dos [[videogame]]s que corresponde aos anos de [[1987]] até [[1993]], ou até [[2003]] quando a Nintendo se tocou que ninguém mais comprava o [[Super Nintendo]] interrompendo a produção do [[console]]. Com o lançamento de [[Super Mario World]] para o Super Nintendo e o lançamento de [[Sonic the Hedgehog]] para o [[Mega Drive]], essa geração foi tomada por "istas", onde de um lado tinham os [[nintendista]]s que adoravam o gordo do [[Mario]], e do outro os [[seguista]]s que adoravam o rato bubônico do [[Sonic]].
+
+Foi nessa geração que podemos ver as maiores bizarrices dos games (até essa geração). Como os consoles eram fracos de [[hardware]], no final da vida deles, decidiram fazer um complemento-acessório para ajudar a aumentar a força do poder de cada console ou [[vírus|alguma coisa do tipo]]. O mais famoso deles é o [[Sega CD]] ou Mega CD, um acessório (não confundir com trambolho) que era acoplado abaixo do [[Mega Drive]] para suportar [[CD]]s. Outro é o [[Satellaview]], lançado apenas no [[Japão]], deu suporte ao [[Super Nintendo]] para receber [[onda de rádio|sinais de transmissão via satélite]], aí o [[jogador]] poderia ouvir uma [[rádio]], comprar [[jogo]]s e revistas por [[telefone]].
+
+Alguns recursos que diferem da terceira geração são:
+
+*Microprocessadores de 16-bits capazes de reproduzirem até jogos em [[3D]], como [[Star Fox]] por exemplo.
+*[[Controle]]s com trocentos botoes.
+*[[Áudio]] rodando normalmente sem ruídos ou gemidos do além.
+*Paleta de cores completa.
+*[[Mario]] vs [[Sonic]].
+
+==Consoles de Mesa==
+
+*'''TurboGrafx-16'''
+{{Principal|[[TurboGrafx-16]]}}
+Também chamado de PC Engine no [[Japão]], foi lançado em [[1987]] pela NEC com a colaboração da falida [[Hudson Soft]]. Foi um console até que notório durante a guerra de [[Nintendo]] e [[Sega]] e tinha jogos muito parecidos com os de fliperama da [[década de 1970|década de 70]]. Ele também teve um acessório de [[CD]] e que deixava ele o dobro do tamanho tendo que deixar o aparelho no [[chão]], ocasionalmente esquentando e queimando o seu [[tapete]]. 
+
+[[Arquivo:Sonic1HD.JPG|thumb|270px|Os gráficos invejáveis do Mega Drive.]]
+*'''Mega Drive/Genesis'''
+{{Principal|[[Mega Drive]]}}
+Lançado pela [[Sega|Cega]] em [[1988]] é o sucessor do [[Master System]], é também o berço de [[Sonic]] e contém 1,0102 de radiação em seu interior. Nessa geração a [[Sega]] se deu bem (pelo menos em 2 lugar) vendendo o dobro de [[console]]s do que na ultima geração, mas acabou por comer poeira por fazer cagada até meados dos [[década de 1990|anos 90]]. O processador do console era o mais rápido da geração, também era preciso pra aguentar a correria do Sonic, além de conseguir ascender uma [[lâmpada]] de 200W depois de 30 minutos de jogatina. Para aqueles que se confundem o nome do console, Sega Genesis é como se chamada o console nos [[EUA|Estados Fudidos]] e Mega Drive em todo o [[mundo]].
+
+*'''Super Nintendo'''
+{{Principal|[[Super Nintendo]]}}
+Lançado pela [[Nintendo|Não-Intendo]] em [[1990]] é o sucessor do [[Nintendinho]] e dono dessa geração. Mesmo chegando atrasado, nunca dependeu de um acessório para [[CD]]s (até porque nunca suportou CDs), teve uma caralhada de jogos do [[Mario]] e sua gangue. Também contou com o feiíssimo [[Star Fox]], o [[gay]] do [[Yoshi's Island]] e incontáveis [[Final Fantasy|Final Fantasies]]. Jogos da [[Rareware]] como a trilogia de [[Donkey Kong Country]] e a copia de Mortal kombat, [[Killer Instinct]], fizeram a popularidade do console ser desejável pela [[Sega]], que desesperada por vitória acabou por cavar a própria cova.
+
+[[Arquivo:Link the faces of evil cdi.jpg|thumb|150px|Link rindo do fracasso do CD-i.]]
+*'''Philips CD-i'''
+{{Principal|[[Philips CD-i]]}}
+Lançado pela [[Philips]] em [[1991]] foi um [[DVD]] que fez parodia de [[console]]s. Na maior cara de pau a philips comprou os direitos de [[Mario]] e [[Link]] para produzir alguns joguinhos para o seu DVD-console, durante toda a vida do console os únicos jogos famosos são [[Hotel Mario]] e [[Link: Faces of Evil]], ambos com histórias ilustradas [[horror|magnificas]].
+
+*'''Neo Geo'''
+{{Principal|[[Neo Geo]]}}
+
+Lançado pela [[SNK]] em [[1990]] era um console com todos os jogos de [[fliperama]]s, além de ter o melhor áudio e gráficos da geração, também tinha o preço mais alto, custando apenas 650 dolls para ter aquele fliperama dentro de casa.
+
+===Comparação===
+{| class="wikitable"
+|-
+! Nome || [[TurboGrafx-16]] || [[Mega Drive]]/Genesis || [[Super Nintendo]] || [[Neo Geo]]
+|-
+! Fabricante 
+| <center>[[NEC]], [[Hudson Soft]]</center> || <center>[[Sega]]</center> || <center>[[Nintendo]]</center> || <center>[[SNK]]</center>
+|-
+! Imagem 
+| [[Arquivo:176113-turbografx.jpg|155px|center]] || [[Arquivo:Sega CD Mark 1.jpg|155px|center]] || [[Arquivo:Yellow-snes-plastic.jpg|155px|center]] || [[Arquivo:Neogeo.jpg|155px|center]]
+|- 
+! Preços de Lançamento
+| $199,99 || $189,99 || $199,99 || $649,99
+|-
+! Vida
+| '''[[japão|JP]]''': [[1987]]-[[1994]]<br>'''[[América do Norte|AN]]''': [[1989]]-[[1994]]<br>'''[[europa|EU]]''': [[1990]]-[[1993]]<br>'''[[brasil|BR]]''': nunca lançado || '''[[japão|JP]]''': [[1988]]-[[1997]]<br>'''[[América do Norte|AN]]''': [[1989]]-[[1999]]<br>'''[[europa|EU]]''': [[1990]]-[[1997]]<br>'''[[brasil|BR]]''': [[1990]]- ainda enchendo o saco || '''[[japão|JP]]''': [[1990]]-[[2003]]<br>'''[[América do Norte|AN]]''': [[1991]]-[[1999]]<br>'''[[europa|EU]]''': [[1992]]-[[1998]]<br>'''[[brasil|BR]]''': [[1993]]-[[2003]] || '''[[japão|JP]]''': [[1991]]-[[1997]]<br>'''[[América do Norte|AN]]''': [[1991]]-[[1997]]<br>'''[[europa|EU]]''': [[1991]]-[[1997]]<br>'''[[brasil|BR]]''': nunca lançado
+|-
+! Maior Best-Seller
+| [[Bonk's Adventure]] || [[Sonic the Hedgehog]], 15 milhões || [[Super Mario World]], 20 milhões || [[Samurai Shodown]]
+|-
+! Retro-compatibilidade
+| não || [[Master System]] || [[NES]] e [[Game Boy]] || não
+|-
+! Acessórios
+| 
+*TurboGrafx-CD
+*Adaptador de arcade
+*5 jogadores
+*Turbo Stick
+*Turbo Booster
+*Turbo Booster Plus
+||
+*Sega CD
+*Sega 32X
+*Mouse
+*Menacer
+*Conversor de Master System
+*Hexágono de movimentos
+||
+*Super Scope
+*Mouse
+*4 jogadores
+*Super Game Boy
+*Controle com Stick
+||
+*Memory Card
+*Pro controller
+|-
+! Vendas Totais
+| 10 milhões || 33 milhões || 49 milhões || 980 mil
+|}
+
+OBS: Por incrível que pareça, o [[Mega Drive]] ainda é produzido na [[América]] e na [[Europa]] através de terceiros, além do [[Brasil]], onde a [[Tectoy]] não larga a mão de fazer esse console depois de 30 anos.
+
+==Consoles Portáteis==
+[[Arquivo:Tela gameboy.jpg|thumb|240px|Enxergar alguma coisa nesses [[console]]s era e ainda é um grande [[problema]] para os [[jogador]]es.]]
+
+*'''Game Boy'''
+{{principal|[[Game Boy]]}}
+Lançado em [[1989]], foi o primeiro console portátil lançado depois da fuleragem de [[1983]], o que também deixou o mercado de consoles sem portáteis na terceira geração. O [[Game Boy]] tem gráficos em <s>preto e branco</s> tons de verde aparentemente iguais ao do [[NES]], ou até pior. Até meados dos [[anos 90]], o GB estava pau a pau com o [[Game Gear]], mas devido o lançamento de [[Pokémon]] agora em cores, o console vendeu mais do que [[água]], perdurando o seu tempo no mercado por mais de uma [[década]].
+
+[[Arquivo:Tijolo1.jpg|thumb|240px|A praticidade do Game Gear.]]
+*'''Game Gear'''
+{{principal|[[Game Gear]]}}
+Primeiro portátil da [[Sega]], foi lançado em [[1989]] para desleixar o Game Gay da [[Nintendo]], mas acabou arregando mesmo antes de Pokémon lançar. O console tem cores, além das de preto e branco e até que dá pra ver o [[Sonic]] correndo pra caralho direitinho. O único problema era que o tamanho não é portátil e nem mesmo dava pra colocar no bolso, e o preço também não ajudava, sem contar na bateria que durava menos de meia hora, dizem que o console era uns dos consoles que mais batia recordes pelos speedrunnes.
+
+===Comparação===
+
+{| class="wikitable"
+|-
+! Nome || [[Game Boy]] || [[Atari Lynx]] || [[Game Gear]] || [[TurboExpress]]
+|-
+! Fabricante 
+| <center>[[Nintendo]]</center> || <center>[[Atari]]</center> || <center>[[Sega]]</center> || <center>[[NEC]]</center>
+|-
+! Imagem 
+| [[Arquivo:Gameboy chaplin.jpg|80px|center]] || [[Arquivo:AtariLynx2.jpg|150px|center]] || [[Arquivo:GG-sg1000.jpg|150px|center]] || [[Arquivo:Ep150.png|100px|center]]
+|- 
+! Preços de Lançamento
+| ¥12,500<br>$89,95 || $189,99 || ¥14,500<br>$149,99 || $299,99
+|-
+! Vida
+| '''[[japão|JP]]''': [[1989]]-[[2003]]<br>'''[[América do Norte|AN]]''': [[1989]]-[[2003]]<br>'''[[europa|EU]]''': [[1990]]-[[2003]]<br>'''[[brasil|BR]]''': [[1991]]-[[2003]] || '''[[japão|JP]]''': [[1990]]-[[1995]]<br>'''[[América do Norte|AN]]''': [[1989]]-[[1995]]<br>'''[[europa|EU]]''': [[1990]]-[[1995]]<br>'''[[brasil|BR]]''': nunca lançado || '''[[japão|JP]]''': [[1990]]-[[1997]]<br>'''[[América do Norte|AN]]''': [[1991]]-[[2001]]<br>'''[[europa|EU]]''': [[1991]]-[[1997]]<br>'''[[brasil|BR]]''': [[1991]]-[[1995]] || '''[[japão|JP]]''': [[1990]]-[[1994]]<br>'''[[América do Norte|AN]]''': [[1990]]-[[1994]]<br>'''[[europa|EU]]''': nunca lançado <br>'''[[brasil|BR]]''': nunca lançado
+|-
+! Maior Best-Seller
+| [[Tetris]], 35 milhões || [[RoadBlasters]] || [[Sonic the Hedgehog 2]] || [[Bonk's Adventure]]
+|-
+! Retro-compatibilidade
+| não || não || [[Master System]] || [[TurboGrafx-16 ]]
+|-
+! Vendas Totais
+| 118 milhões || 500 mil || 11 milhões || 1,5 milhões 
+|}
+
+== Ver também ==
+* [[Terceira Geração de Consoles]]
+* [[Quinta Geração de Consoles]]
+
+{{Super Nintendo}}
+{{Mega Drive}}
+{{consoles}}

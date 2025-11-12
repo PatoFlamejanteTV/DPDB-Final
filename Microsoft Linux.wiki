@@ -1,0 +1,52 @@
+[[Arquivo:MsLinux.gif|right|thumb|Versão Beta 2 do Microsoft Linux 2005]]
+[[Arquivo:Billux.jpg|thumb|right|O mascote do Microsoft Linux]]
+{{c|Isso non ecziste!!!|Padre Quevedo ou qualquer pessoa com o mínimo de sensatez|o MS Linux}}
+{{c|Pucta merda!!! Agora ecziste!|Padre Quevedo ou qualquer pessoa com o mínimo de sensatez|o MS Linux vendo notícia sobre o Azure Cloud Switch}}
+
+Após [[Linus Pauling]] roubar o [[kernel]] da [[máfia dos pinguins]] e ir aos EUA encontrar seu irmão [[Bill Gates]] para lhe entregar o dispositivo, Gates cria um novo sistema a partir de uma mistura do kernel roubado da máfia dos pinguins e do próprio [[Windows]] para formar mais um sistema <s>in</s>operacional da [[Microsoft]]. após algum tempo, foi descoberto que a máfia dos pinguins havia colocado Backdoors (uii!) no kernel, que havia sido roubado por Linus, e por isso esse sistema foi abandonado.
+
+Mas hoje os torcedores do sistema viram que seu progresso não dava em nada e o deram de bandeja para Gates, que o redesenhou por completo, lançando-o como '''Microsoft Linux''', nas versões Starter 3º Mundo Edition, Home Só-o-Gostinho Edition, Professional Computer Fucker Edition e a Ultimate Computer Destroyer Edition. As duas últimas versões têm por objetivo deixar a sua máquina tão carregada que só para iniciar ela vai levar mais de 20 minutos e pra abrir o Bloco de Notas outros 10. É aconselhada para a instalação de jogos de última geração como [[Campo Minado]], [[Paciência]] e coisas do tipo.
+
+[[Arquivo:CAD_para_teclados.JPG|thumb|center|300px|Se você usa produtos da Microsoft, você vai precisar disto!!!]]
+
+== Versões do Microsoft Linux ==
+* Microsoft Linux Express Edition
+* Microsoft Linux Trial Edition
+* Microsoft Linux Pirated Edition
+* Microsoft Linux Enterprise Edition
+* Microsoft Linux Premium Edition
+* Microsoft Linux Fatality Edition
+* Microsoft Linux Mega Power Fucking Master Blaster Edition
+* Microsoft Linux Infected Edition
+* Microsoft Linux Starter Edition
+
+== Recursos do M$ Linux == 
+A atual versão do MS Linux é uma distribuição baseada no [[Debian]] e no [[Slackware]], duas distribuições que só um [[Nerd]] consegue usar. Por conta disso, possui vários recursos para se "adaptar" ao <s>idiota</s> usuário leigo, como [[tela azul da morte]], consumo excessivo de [[RAM]], [[vírus]], [[trojan]]s, [[spyware]]s, atualizações automáticas que [[fode|forem as configurações do usuário]], enter outras facilidades encontradas no Windows.
+
+== Código fonte do M$ Linux ==
+Como pode notar, o código fonte do sistema é bem enxuto, o que explica seu desempenho:
+
+ // Source "microsoftlinux.cc"
+ // 
+ 
+ 
+ #include "windows.h"
+ 
+ 
+ void main(int argc, char*[] argv){
+  
+    startWindows();
+    return -1;
+ 
+ }
+
+== Ligações externas ==
+*[http://www.mslinux.org/ Site oficial da Premier Distro MS LINUX]
+
+[[Arquivo:Bill2.jpg|thumb|Mais um usuário satisfeito.]]
+[[Arquivo:Linuxerro.png|thumb|right|200px|O desempenho do Microsoft Linux é inquestionável!]]
+
+{{Linux}}
+{{Esboço}}
+
+[[en:Ow!buntu]]

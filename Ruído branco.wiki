@@ -1,0 +1,35 @@
+[[Arquivo:Ruído branco.jpg|thumb|Chuviscos em sua TV? Então acho que você a quebrou hein! Pera, acorda, cê tá hipnotizado?]]
+
+'''Ruído branco''', também chamado de chiadeira, chuvisco e "desliga essa TV/rádio e vai ler um livro!", é um [[ruído]] estático que, diferente do [[color bars]], feito para testar a imagem e o escambau, impedindo que a TV tenha probleminhas por conta dessa [[estática]], bem, o ruído branco seguia o extremo oposto, já que manter nessa porra pode foder sua TV e também seus ouvidos.
+
+== O que se trata de fato? ==
+
+Bem, esse [[processo estocástico]] (nem fui no [[dicionário]] para saber o que é isso) dentro da [[econometria]] (outra palavra que eu nem me atrevi de tentar explicar porque nem sei o que é) é, em [[processamento de sinal]], um barulhinho conduzido por sinais aleatórios que tinham uma [[densidade espectral]] bem constante, constantemente barulhenta.
+
+Esse bangue consegue aparecer em [[física]], [[engenharia acústica]], [[telecomunicações]], [[previsão estatística]] e até em [[música]], seja para saber como essa barulheira está afetando a qualidade sonora, seja por meio dos malucos do [[harsh]], que adoram enfiar esse tipo de zoada e chamar isso de "música". Ou de "anti-música". É tudo a mesma merda!
+
+== Aplicações do ruído branco ==
+
+*'''Música''': Dentro da [[música eletrônica]] esse bagulho é muito usado em [[sintetizador]]es, para produzir zoadas de [[prato (instrumento musical)|pratos]] e [[caixa (instrumento musical)|caixas]], aquelas partes mais barulhentas e insuportáveis de uma [[bateria]];
+*'''[[Engenharia eletrônica]]''': Usado para obter uma [[resposta ao impulso]] de um [[circuito elétrico]], ou seja, se tiver funcionado a ligação, vai fazer ao menos esse ruidinho besta;
+*'''[[Acústica]]''': Usado em [[equalizador]]es, que cospem um ruído desses só para analisar se no local a frequência tá rolando de boas ou se tá dando disparidades sonoras, [[microfonia]] e outros ruídos ainda mais horrendos de se ouvir;
+*'''[[Computação]]''': Utilizado para programar um [[gerador de número pseudoaleatório]]. Não entendo de computação o suficiente para falar disso, de computador só entendia fazer depoimento bonitinho no [[Orkut]], depois que faliu perdi meu sentido de viver...
+*'''Tratamento de zumbido''': Utilizado por [[rádio]]s para tentar descobrir que porra está causando interferência no dial;
+*'''Ambiente de trabalho''': Tal como [[ASMR]], dizem que isso pode ajudar funcionários com [[TDAH]] a aquietarem a raba em momentos de crise de [[hiperatividade]], e ao mesmo tempo nos momentos de [[dislexia]] o cara poder se concentrar direito no trampo. Nunca funcionou comigo, passei meia hora tentando escrever só essa parte da seção atual do artigo ouvindo essa barulheira e não deu nada certo, fiquei com agonia no [[cu]] e com vontade enorme de ir assistir alguma merda diferente semconseguirescrevermaisporranenhumaaqui. Aliás, eu achoquetoerrando osbotaotudo.
+*'''[[Televisão]]''': Serve para foder seu aparelho televisivo. No [[Bostil]], graças à mudança do [[Sinal analógico|sinal culógico]] pro [[Sinal digital|sinal <s>do meu pau</s> digital]] esse dispositivo praticamente sumiu, mas quem jogava [[videogame]] das antigas deve ter belas lembranças da TV com ruído branco no [[canal 3]] (as vezes canal 4) só para jogar seu joguinho no [[SNES]] ou no [[Apple Bandai Pippin]]. O que, você não teve esse segundo aí? Tudo bem, acho que ninguém teve...
+
+== Boa diversão conferindo um pouco disso ==
+
+<Youtube>https://www.youtube.com/watch?v=EElQRT6UMko</Youtube>
+
+Dizem que essa porra relaxa... Aqui não me relaxei, só deu mesmo dor de cabeça fodida pra caralho...
+
+== Ver também ==
+
+*[[Ruído gaussiano]];
+*[[Ruído rosa|Ruído gay]];
+*[[Ruído marrom|Ruído merda]], também chamado de acastanhado.
+
+[[Categoria:Processamento de sinais]]
+[[Categoria:Som]]
+[[Categoria:Televisão]]

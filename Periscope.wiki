@@ -1,0 +1,32 @@
+{{game}}
+
+{{vqd|Primeira máquina de Arcade da [[Sega|CEEEEEEEEEGAAAAAAAAA]]}}
+{{c|Fui eu que inventei!|David Rosen|Periscope}}
+
+'''Periscope''' é um jogo submarino eletromecânico de [[Março]] de [[1968]], feito pela [[Sega|CEEEEEEEEEEEGAAAAAAAAAAAAAA!!!!]]
+
+{{Infobox Game|title = {{PAGENAME}}
+|image               = Periscope.jpg
+|caption             = Flyer de Arcade
+|developer           = [[Sega|CEEEEEEEEGAAAAAAAAA]]
+|released            = [[1968]]
+|genre               = [[Tiro]]
+|rating              = 0%
+|platform            = [[Arcade]]
+|ages                = Livre
+}}
+
+==O game==
+
+O jogador utiliza no arcade, um [[periscópio]] para disparar em barcos ou em aviões. O cenário interior dentro do Arcade é iluminado com um tubo de luz preta. Como os barcos começam a viajar por através das costas do cenário, o vidro dianteiro ilumina uns [[SMS|torpedos]]. Você irá examinar no periscópio e logo, apertar o botão de fogo na maçaneta direita. Um som eletrônico do tipo "squash" é feito quando iria em direção ao barco, mas, cai no mar. Há uma série de luzes formadas de dez torpedos nos playfields que fazem o torpedo parecer com que ele está movendo-se em direção ao barco. Se o barco for batido, uma luz vermelha de 120 volts solta de cada lado e uma explosão é ouvida. O arcade tem sonares eletrônicos como "bips" e "woosh", e um circuito amplificador desses sons (lógico...), ele é feito puxando em um revezamento atado a um speaker (alto-falante), perto de um transdutor. O Speaker vibra e lida com esse aparelho, como um viloão desingonçado. Um cap de 500 MFD foi adicionado ao revezamento de explosão para conter o revezamento durante 2 segundos dando um som de explosão mais longo (se o som de explosão for demasiado curto, este Cap está morto) (lógico...). Este mecânico fundado dá uma explosão mais legal. Um cara no [[eBay]], teve um conselho de som de sonares/amplificadores. A provisão de poder dos conselhos de som de sonar/woosh é irregulada de de 18 volts (DC) e vem de 12 volts (AC). É somente metade da regulação DC haverá uma porrada de zunidos! A máquina segue a pista em quantos torpedos foram disparados e quanta tonelagem dos mesmos foi afundada. O ojbetivo é afundar tantos barcos como você pode usando os seus torpedos (resumindo: Guerra!). O jogo dá-lhe dez torpedos por jogo com torpedos de bônus. Os barcos também podem modificar a direção em qualquer momento de mais desafio. Há também duas janelas no vidro superior dianteiro que permite que [[Pivetinho de Fliperama|outras pessoas]] olhe como você joga (com o Periscópio, dãããã.....). Os pontos são mostrados em uma luz (porém, não são gravados).
+
+==Ver também==
+
+* [[David Rosen]]
+* [[Periscópio]]
+* [[Sega|CEEEEEEEEEEEEEGAAAAAAAAAAAAAAAAAAA!!!!!!]]
+
+{{sega}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]

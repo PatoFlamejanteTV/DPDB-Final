@@ -1,0 +1,87 @@
+{{magnético}}
+{{física}}
+{{quântico}}
+[[Arquivo:Leism.jpg‎|thumb|O magnetismo se resume a esta fórmula.]]
+{{vqd|Magneto?}}
+{{c|Um dia você aprende...|Shakespeare|magnetismo.}}
+{{c|Parece com o nome do carinha lá do [[X-Men]]!|Noob|magnetismo.}}
+
+==Introdução==
+'''Magnetismo''' é o nome associado à divisão da [[Física]] responsável pelo estudo dos fenômenos magnéticos. É ainda, a denominação associada ao fenômeno ou conjunto de fenômenos fenomenais que não tem nada a ver com [[fenomenologia]] (graças a deus) aqui nós trataremos de física de verdade, então prepare se para a <s>tortura</s> [[tortura|aventura]]!
+
+O magnetismo é nada mais que o fenômeno da atração ou repulsão observada entre determinados objetos materiais ([[ou não]]). Todo esse lero lero não pode ser particularmente visto, mas pode ser demonstrado através de objetos muito peculiares chamados [[ímã]]s (...é o da geladeira, o próprio).
+...
+A descoberta e melhor compreensão da estreita relação existente entre os fenômenos magnéticos e elétricos gerou a fusão <s>do [[Goku]] com o [[Vegeta]]</s> das áreas concernentes ao estudo da eletricidade e magnetismo - originalmente distintas - em uma única divisão mais abrangente, o [[eletromagnetismo]], mas se você quiser saber sobre isso, vai direto no artigo e [[veja]].
+
+==História==
+
+===a.C.===
+[[Arquivo:TalesMileto.jpg‎|thumb|215px|Ele bem que tentou, mas <s>se ferrou</s> não foi dessa vez.]]
+As observações dos fenômenos magnéticos são muito antigas, ainda no século VI a.C., isso é óbvio já que naquela época não havia muito o que se fazer, então, valia qualquer coisa. O primeiro a iniciar tais estudos foi [[Tales de Mileto]]; em uma de suas várias viagens ele reparou que algumas pedrinhas presentes no solo apresentavam comportamento estranho, então tentou explicar e formular sua própria teoria sobre o assunto, mas como não conseguiu nada, fez como todo [[grego]], disse que era obra dos [[Deuses Gregos|deuses]], atribuiu uma espécie de alma para as pedras <s>possuídas</s> possuidoras da atração magnética e depois tirou o corpo fora dizendo "só sei que nada sei".
+
+Visto hoje em dia a explicação de Tales de Mileto pode parecer-nos (e de fato é) muito medíocre e sem criatividade, contudo ressalva-se que não se deve julgar um pensamento fora do contexto histórico-sócio-cultural a qual pertence, ou seja, <s>[[cerveja]]</s> não devemos desmerecer a explicação de Tales mesmo sabendo que ela é ridícula.
+
+Os chineses também tentaram colocar a sua assinatura no papel da descoberta e foram os primeiros a colocar o fenômeno magnético em prática mesmo sem saber do que se tratava. Mas isso nem é importante, afinal, quem liga?
+
+Bom, a parte antiga da história do magnetismo termina aqui, o índice de contribuição para a ciência foi igual a -1; agora vamos parar de perder tempo com isso e viajar nada mais que dois milênios para conhecer a ciência verdadeira do magnetismo.  
+
+===d.C.===
+[[Arquivo:Ampère.jpg|thumb|left|André Maria Ampère, um dos maiores responsáveis por você estar perdendo seu tempo lendo isto aqui]]
+Como já foi dito, muitos até tentaram descobrir alguma coisa nos séculos passados, mas a verdade mesmo é que ninguém nem deu bola; a partir do século XVIII, século em que surgiu uma trupe de gente <s>curiosa</s> estudiosa que queria saber como tudo acontecia, as pedrinhas de comporatmento estranho passaram a ganhar mais importância e começaram a surgir observações e trabalhos mais acurados à respeito da eletricidade e do magnetismo. Delas decorreram de imediato a conclusão de que os fenômenos elétricos e magnéticos teriam naturezas completamente distintas (lá vem essa história de novo).
+
+Mais tarde, o senhor Pierre de Maricourt encontra uma utilidade para os pólos norte e sul, além do gelo e da casa do [[papai noel]], seu conceito era tão complexo que dele só se pode tirar uma frase entendível "os semelhantes se repelem e os opostos se atraem". Depois dele, veio o senhor William Gilbert, que escreveu um livro que dizia ser sobre o assunto, mas que só falava mesmo da [[eletricidade]], entretanto, não se deve desmerecer esse trabalho, já que ninguém chegaria a lugar nenhum com os estudos do magnetismo se não fossem os primeiros conceitos da eletricidade criados pelo senhor [[Alexandro Volta]].
+
+Enfim, tinha que ter algum idiota pra começar com o estudo, mesmo sabendo que mais tardiamente seria plagiado por algum outro espertinho; Volta junto a todos os nomes anteriormente citados deu o pontapé inicial e como foi dito, veio o dinamarquês Hans Christian juntou toda a papelada e disse ter estabelecido uma teoria sólida sobre o assunto, sua justificativa para a veracidade de sua teoria foi a serendipidade (não faço ideia do que seja, mas foi isso aí mesmo).
+
+[[Arquivo:Magnetico.jpg‎|thumb|290px|Na imagem acima podemos ver uma <s>borracha</s> representação (mal feita) dos pólos: se a [[Terra]] é redonda, qual é o motivo de uma representação retangular?]]
+Após os já citados apareceram vários outros nomes com suas supérfluas contribuições, então vamos encurtar um pouco a história e apenas falar do que realmente foi importante daqui para frente. Iniciemos com o senhor [[Faraday]] e o senhor [[Henry]] com a descoberta da indução magnética e eletromagnética, na verdade quem descobriu foi apenas um deles, mas como ninguém sabe ao certo quem foi e para evitar brigas coloquemos os dois. Além deles temos os senhores Lenz, Neumann e Gauss com suas leis, as quais eu nunca entendi a utilidade, o senhor Weber com a nova grandeza criada especialmente para o magnetismo, o senhor Maxwell com suas equações e por fim o senhor Hertz e seus experimentos das ondas eletromagnéticas (e aqui estamos de volta com o eletromagnetismo).
+
+==Estamos encima de um ímã==
+Durante muito tempo muita gente perdeu tempo procurando as explicações magnéticas relacionas à Terra, e pra falar a verdade ainda perde, já que nada realmente relevante foi descoberto até agora. O que se sabe é que estamos sobre uma [[Lado azul da força|força]] que está sobre outra [[Lado negro da força|força]] e que é mantida por outra [[Lado Roxo da Força|força]] que trabalha em um campo cheio de outras [[Lado rosa da força|forcinhas]]... Juntando todas essas forças faz sentido termos a formação de um grande ímã (não faz não), o único problema (único?) é saber o porquê dessa composição tão diferenciada da dos outros corpos. 
+
+A Terra é dividida em quatro pólos geográficos, é claro que é só imaginário, ninguém cortou a Terra em quatro como se fosse um bolo, mas esses pólos são apenas representativos, já que não coincidem com os verdadeiros pólos magnéticos, na verdade eles não coincidem com nada, foram criados apenas para confundir e fazer você estudar ainda mais. Essa história de Norte e Sul é só para localizar direitinho a casa do [[Papai Noel]], o norte segundo o magnetismo fica alguns a radianos de distância do norte geográfico e vai continuar se afastando, já que as partículas elétricas não ficam paradas olhando a paisagem, elas se movem.
+
+É também interessante lembrar que nem sempre carregar uma bússola irá ajudá lo a não se perder onde é que você esteja, primeiro que sua agulha aponta (nem) sempre para o norte magnético, e não o geográfico, para tirar a diferença de distância entre eles é necessário ter um astrolábio (procura), e digo ''(nem) sempre'' porque a agulha da bússola sofre interferências magnéticas constantes que podem alterar seu curso do verdadeiro norte e te mandar pra morte...Cuidado!
+
+Depois disso vemos que as razões do porque a Terra <s>é redonda</s> é construída de tal forma é bem mais sombria do que se imagina, por isso seria bem melhor apenas viver e pronto acabou, sem se preocupar com o porquê de você não ser um [[alienígena]], seria muito mais fácil e mais barato.
+
+==O fenômeno==
+[[Arquivo:Forças.jpg‎|thumb|200px|left|Aqui temos a mão de um rapper indicando a direção e o sentido dos vetores eletromagnéticos.]][[Arquivo:VFPt dipole animation magnetic.gif‎|thumb|200px|O suposto <s>filho do capeta</s> efeito do magnetismo.]] 
+O fenômeno do eletromagnetismo é realmente um fenômeno, já que ninguém sabe ao certo qual a verdadeira procedência <s>do clã</s> das polaridades envolvidas, de qualquer forma, é melhor dizer que é fenômeno que milagre, já que tudo que não tem uma explicação definida vira milagre na visão dos fanáticos e até mesmo não fanáticos que não tem mais no que acreditar (trouxas).
+
+A explicação que se daria para isso não é nada condizente, dizem que o que provoca a formação das cargas elétricas é a corrente elétrica, sendo que a própria corrente é formada por cargas... Enfim, resumindo: 
+
+{{c|Quando duas partículas eletricamente carregadas encontram-se estáticas no referencial adotado, há entre elas uma interação de natureza puramente elétrica. Caso apenas uma delas esteja em movimento retilíneo uniforme...}}
+
+No entanto, para a sua [[felicidade]], não entraremos muito nisso. Aliás, não entraremos de jeito nenhum, esse estudo é tão específico que já foi até criada uma área a parte para sua melhor compreensão, essa área é chamada magnetostática e como ninguém aqui vai ser um magnetostático profissional, não há mais o nada que falar sobre isso aqui!
+
+O que realmente importa saber é que o magnetismo em essência é um movimento de cargas elétricas positivas e negativas. Partículas carregadas como elétrons e prótons (isso você tem que saber) são, por si só, pequenos dipolos magnéticos, e (dizem) que os efeitos magnéticos destes são fundamentais tanto à compreensão da estrutura do átomo como do comportamento magnético da matéria como um todo,  [[você|a maioria das pessoas]] não dá a mínima para a real estrutura de um átomo, portanto o que interessa é que ele é essencial à vida e pronto!
+
+==Leis==
+[[Arquivo:Geoforças.jpg‎|thumb|250px|As fórmulas das leis foram feitas a partir deste cálculo [[mentira|muito simples]].]]
+Quando falou se em uma nova descoberta, ainda mais se tratando do ramo da física, o que não faltou foi gente para querer inventar mais moda ainda e colocar seu nome ao lado da descoberta para falar que colaborou com alguma coisa. Dessa forma, quando surgiu o magnetismo surgiu junto um monte de físicos e matemáticos de toda parte para dar sua opinião sobre e criar não sei de onde uma lei que supostamente seria seguida pelo modelo da descoberta.
+
+Normalmente as leis que surgem são de teor totalmente desconhecido e imbaseável e a maioria das pessoas só engolem o que é dito por ela porque não entendem bulhufas do que a tal lei está falando, comecemos pelo exemplo da ''Lei de Biot-Savart''.
+
+*'''Lei de Biot-Savart:''' A primeira lei está sendo disputada por vários cientistas já nomeados, por isso, não vamos atribuí la a ninguém, façamos de conta que caiu do céu. Ela fala uma coisa tão simples que chega a ser óbvio demais. ''Correntes elétricas são a fonte primária de campos magnéticos'', não se sabe por que raios isso foi virar uma lei, mas como essa é a primeira balela que você escuta quando por algum milagre se interessa por esses assuntos, vamos dar um desconto.
+
+*'''Lei de Coulomb magnética:''' É mais uma lei sem utilidade alguma que o senhor Coulomb criou só para registrar seu nome inútil em alguma coisa descoberta. Felizmente essa não é uma lei a mais e não precisa ser estudada, já que Coulomb praticamente plagiou a lei anterior que diz o que está escrito lá, mas para embromar e disfarçar um pseudo [[trabalho]] inventou umas contas muito doidas que ninguém nunca conseguiu resolver e falou que é parte da lei e prova a suposta veracidade da mesma.
+
+*'''Leis de Ampère e Gauss:''' Essas leis são praticamente um delírio compartilhado entre o senhor Ampère e o senhor [[Gauss]] (tipo a lebre e o outro carinha lá do [[Alice no País das Maravilhas]]). Ampère disse uma coisa totalmente doida e sem sentido e Gauss ainda foi capaz de concordar e ampliar a o sentido que já não existia. A suposta lei de Ampére dizia que ''Embora todas as correntes sejam importantes, somente a corrente interna é importante'' (entendeu? Pois é, eu também não). A contribuição de Gauss para isso foi praticamente nula, ele só concordou com tudo que o Ampère disse e complementou com ''A grandeza da corrente interna é fruto de um cálculo de irracionalidade'' (pois é, acho que já sei quem são os irracionais da história, e não são apenas os cálculos).
+
+*'''Lei de Ampère (anexo):''' A lei em anexo de Ampère se deve ao já citado Maxwell, ele assim como Gauss não fez grande coisa, simplesmente pegou a lei pronta de Ampère e disse que ela funcionava mas que ''Campos magnéticos variáveis também criam e variam'', não se sabe de onde ele tirou essa frase doida, mas enfim, ficou parte da lei como anexo. Para provar sua efetiva participação, Maxwell até colocou sua fórmula na lei
+
+<math>\nabla\times\vec B=\mu_0\,\vec j+\mu_0\,\epsilon_0\,\frac{\partial\vec E}{\partial t}</math> 
+
+<math>\nabla\cdot\vec B=0</math>
+
+Entendeu? Certo, passemos para a próxima!
+
+==Juntando tudo==
+[[Arquivo:Forças2.jpg‎|thumb|A <s>fofoca</s> interação entre as forças.]]
+O magnetismo é um orientador <s>vocacional</s> direcional e ele tem [[poder]]. Ele direciona as forças para onde ele quiser então agradeça a ele qualquer coisa e qualquer reclamação é com ele também. Curiosamente no cotidiano podemos ver a força magnética de forma mais constante que a força elétrica (quem pode ver? Eu nunca vi nenhuma das duas) dessa forma podemos concluir que o magnetismo não é o eletromagnetismo e tem mais poder que ele, já que dita que a forma magnética deve vir em primeiro apensar de a corrente elétrica formar a força eletromagnética que é parte da força magnética que controla todas as forças que são controladas por uma outra força e aí dá lhe forças no espaço!
+
+==Ver também==
+*[[Eletromagnetismo]]
+*[[Campo elétrico]]
+*[[Campo magnético]]

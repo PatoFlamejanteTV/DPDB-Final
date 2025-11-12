@@ -1,0 +1,18 @@
+{{Teoria musical}}
+<br>
+{{c|Não cheguei nem perto dela.|[[Lula]]|oitava série}}
+{{c|Se estuda música na oitava?|[[Guria retardada]]|oitava}}
+{{c|Só faço se for no [[glizzando]].|Músico de [[Jazz]]|oitava}}
+[[Arquivo:Oitava_Série.jpg|thumb|right|300px|Exemplo de '''Oitava''']]
+'''Oitava''', em [[Música]], indica uma sequência de notas na qual se obdece uma série harmônica com caráter diatônico, modal, sensível, dissonante e tonal. Costuma ser a [[dor de cabeça]] de inúmeros músicos <s>amadores</s> que desconhecem, por exemplo, que uma [[dominante]] pertence ao V grau da escala maior, e que V² = Vo² + 2a.Δs. Porém, como tudo na vida tem dois lados, com a oitava não poderia ser diferente. Da mesma forma que um [[maestro]] pode lhe pedir para tocar/cantar [[3|três]] oitavas acima, [[você]] pode, <s>maldosamente</s>, tocar/cantar [[2|duas]] oitavas abaixo, o que o deixará ''a priore'' confuso, depois desconfiado e por fim [[Filho da puta|puto]] da [[vida]] com o mal comido que estará fazendo isso. De um jeito ou de outro, uma oitava é um [[intervalo]] na qual a [[tônica]] tem uma xará 2x mais velha ou 2x mais nova (definitivamente, isso NUNCA deve ser mudado).
+
+==Estrutura==
+[[Arquivo:Oitava_Caída.gif|thumb|left|250px|''Oitava'' derrubada: nunca perde o brilho!]]
+Todas as certezas nós possuímos em [[vida]] sobre tudo que se passa neste [[Universo]] se devem exclusivamente a [[matemática]]. Ela nos diz que 2 + 2 = 4 (alguém duvida disso?), e logo 2 + 2 vai ser 4 em qualquer canto do mesmo [[Universo]]. Em resumo, as oitavas seguem o mesmo padrão e são definidas claramente pela [[matemática]]. Toda oitava começa com uma nota. Pode ser qualquer nota; para este exemplo, usaremos um [[Sol]]. O [[Sol]], como todos sabem, é a [[5|quinta]] nota da escala diatônica de Dó maior. A segunda nota depois do [[Sol]] é a <s>Lua</s> [[Lá]], a terceira é o [[Si]] e assim por diante. Você compreende que um oitava é derivado do [[8]]? Se entende isso, vamos ser diretos: '''uma oitava é um nota 8 notas acima (no caso) do [[Sol]]'''. Quando você entender o completo significado desta frase, você já saberá do que se trata uma oitava. Aviso importante: ''nunca brinque com as oitavas''...
+
+Se for chamar a oitava de uníssono, tenha em mente que a frequência absoluta do intervalo em questão deve ser expresso exatamente pela relação 1/2 Hertz só que ao contrário, já que se trata de um fato primordial na série harmônica, algo importantíssimo na Física Clássica, podendo ser chamada também de primeiro som parcial em relação a uma fundamental mais grave que varia.
+
+{{Partitura}}
+
+[[Categoria:Música clássica]]
+[[Categoria:Números]]

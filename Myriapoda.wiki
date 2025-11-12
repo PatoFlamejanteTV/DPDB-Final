@@ -1,0 +1,38 @@
+{{taxocaixa
+| nome           = Milhõesdepés
+| cor            = #9370DB
+| imagem         = Miriápodes.jpg
+| imagem_legenda = Os quatro cavaleiros do [[Apocalipse]] com suas trocentas pernas
+| reino          = [[Animalia]]
+| filo           = [[Arthropoda|Artrofoda]]
+| subfilo        = [[Myriapoda|Minhaporra]]
+| subdivisão_nome = [[Classe (biologia)|Classes]] 
+| subdivisão = &nbsp; Classe [[Quilópode|Chilopoda]] - Vai lacraia! <br />
+&nbsp; Classe [[Diplópode|Diplopoda]] - Embuás <br />
+&nbsp; Classe [[Pauropoda]] - Piolhinhos-pernudos<br />
+&nbsp; Classe [[Symphyla]] - Centopéias-[[Elo perdido|meio-insetos]]<br />
+}}
+
+Os '''miriápodes''', ou '''Myriapoda''', são um subfilo de artrópodes e que estariam entre os primeirões que surgiram no mundo, mesmo nesse processo sendo os dotados de maior número de patas, com [[quarenta e dez]] patas. Esse grupo é dividido normalmente em quatro classes: quilópodes (lacraias), diplópodes (piolho-de-cobra), Pauropoda (paurópodes) e Symphyla (sínfilos) e agregam aproximadamente 11.460 espécies na atualidade, sendo basicamente [[insetos]], só que com patas pra caralho, e também várias divisões e segmentações no corpo, sendo impossível dizer onde diabos fica o tórax ou o abdômen de fato desses bichos. Ao menos a cabeça até pra saber, graças aos olhinhos e anteninhas, mas até isso as vezes é foda definir de primeira.
+
+== Origem ==
+
+Os miriápodes foram os primeiros do [[clado]] [[Myriochelata]] a surgirem, do ladinho dos maninhos [[Tetraconata]] (os proto[[crustáceos]]), lá pelos lados do [[Ordoviciano]], mais especificamente no [[Ordoviciano Médio]], a uns 300 milhões de anos ou coisa do tipo. A divisão comum sofre sempre de controvérsias, pois há quem na verdade considere que eles são dos Tetraconata, da parte dos [[Mandibulata]], já outros dizem que eles realmente são Myriochelata (também chamado de Paradoxopoda). Possivelmente na real eles sejam um pouco de cada um, já que eles têm características de ambos grupelhos, além de serem praticamente mais velhos que tudinho, logo, os outros grupos que imitaram eles.
+
+== Anatomia ==
+
+Possuem apenas uma microcabecinha, com características diferentes a cada classe, seja um rosto mais redondinho e de boas, ou um rosto com garras afiadas e venenosas, como as [[centopeia]]s. Já o tronco - que é basicamente tórax e abdômen ao mesmo tempo - é formado por um monte de divisões, as mais diferentonas possíveis. Em geral aqui fica um par de patas a cada seguimento, com exceção dos diplópodes, que possuem dois pares de patas em cada seguimento, o que dá mais agonia ainda quando essas porras sobem pelas pernas de alguém.
+
+Eles possuem um tal de [[órgão de Tömösváry]] em cada ponta de suas [[antena]]s, que provavelmente servem pra ajudar a enxergar melhor, já que os olhos desses bichos em geral servem pra pouca coisa ou até nem funcionam - como o caso dos sínfilos e paurópodes, além de alguns desses bichos que moram em cavernas escuronas pra caralho.
+
+Eles costumam cagar usando os [[túbulos de Malpighi]], o que também os ajuda na reprodução, já que, com essa caralhada de patas, é difícil eles conseguirem não errar o órgão reprodutor e enfiar uma das patas no lugar da rola dentro da buceta da fêmea.
+
+== Ver também ==
+
+*[[Piolho-de-cobra]]
+*[[Centopeia Humana]]
+*[[Lacraia (funk)|VAI LACRAIA VAI LACRAIA!]]
+
+[[Categoria:Arthropoda]]
+[[Categoria:Myriapoda|*]]
+[[Categoria:Fósseis vivos]]

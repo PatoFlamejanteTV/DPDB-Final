@@ -1,0 +1,41 @@
+{{Jogos Antigos}}
+{{Infobox Game
+|title     =  ''Três Ruas de Raiva''  
+|image     = Streets of Rage 3 cover.jpg
+|caption   = Capa do jogo
+|developer = ''[[Sega]]''
+|publisher = ''Sega''  
+|released  = [[1994]]   
+|genre     = ''[[Beat'em up]]''
+|rating    =  [[3]]/10
+|platform  = ''[[Mega Drive]]'' e outros
+|ages      = [[10]]
+}}
+
+'''''Streets of Rage 3''' (ou '''Bare Knuckle III''''' se [[você]] for [[japonês]], o que [[eu]] duvido muito) é o [[terceiro]] e último [[jogo]] da franquia ''[[Streets of Rage]]'', que fez com que a ''[[Sega]]'' lucrasse bastante [[bufunfa]] na [[primeira]] [[metade]] dos [[anos 90]]. 
+==História==
+[[Arquivo:sor3-gen charselect.png|thumb|left|250px|Selecione um desses panacas aí.]]
+O jogo tem aquele enredo batido de praticamente todo ''[[beat'em up]]'': [[alguém]] descobre os planos secretos malignos de algum [[vilão]] obscuro e então entra em contato com justiceiros que por algum motivo gostam de se meter nos [[problema]]s alheios e comprar suas [[briga]]s, já que são sempre peritos em [[artes marciais]] e sentem uma vontade incontestável de fazer o [[bem]], ainda que seja abaixo da [[porrada]].
+
+Neste caso, o malvado em questão é o já conhecido (por quem já jogou os [[dois]] ''[[game]]s'' anteriores, se não for este o seu caso, [[foda-se]]) Mr. X, que cansou de tanto apanhar para os mocinhos e agora fundou uma [[empresa]] chamada ''RoboCy Corporation'', para ajudar nas suas atividades ilegais de [[dominação mundial]] passando-se por um inocente centro de pesquisa robótica. Como é muito [[burro]] e jamais conseguiria fazer [[tudo]] isso sozinho, Mr. X contratou o [[cientista louco]] Dr. Dahm para ajudá-lo a criar um [[exército]] de [[robô]]s e assim destruir a [[cidade]], vai saber o motivo...
+
+Um outro [[cientista]], só que [[bonzinho]], descobre as [[porcaria]]s todas que estão sendo armadas e imediatamente deixa um ''[[scrap]]'' no ''[[Orkut]]'' de [[Blaze Fielding]], a quem ele conheceu durante uma sessão de [[autógrafo]]s da [[revista]] ''[[Playtoon]]'' da qual ela tinha sido capa. Assim que lê o recado, Blaze chama também seus [[miguxo]]s Axel Stone e Adam Hunter para ajudar, mas este último alegou que estava com uma [[unha]] encravada e portanto, acabou mandando [[seu irmão]] caçula Eddie em seu lugar.
+
+==Jogabilidade==
+Os inimigos agora estão menos bocós e podem recolher os itens especiais e ''power-ups'' que aparecem antes do [[jogador]]. Em compensação, agora é possível realizar a [[fusão]] de dois personagens usando os [[brincos Potala]] e assim aumentar seu [[poder]].
+==Personagens==
+*'''Axel Stone - '''O [[protagonista]] sem graça da franquia, nesse jogo não faz [[nada]] que preste e mereça ser destacado.
+*'''Blaze Fielding - '''Uma [[gostosa]] e supostamente [[namorada]] do [[babaca]] acima. É a melhor [[coisa]] desse jogo e também dos outros dois anteriores.
+*'''Eddie "Skate" Hunter - '''Pirralho irmãozinho do preguiçoso Adam Hunter, que não quis mais saber de participar do quebra-pau. Pelo apelido, deve ser [[skatista]], mas [[ninguém se importa]] com esses detalhes bestas.
+*'''Dr. Zan - '''O [[velho]] cientista que descobriu a armação da bagaça toda. Ele deve ter idade para ser [[teu avô]], mas tem um [[corpo]] da fazer [[inveja]] ao [[Alexandre Frota]]. ''Ok'', não é para tanto... Não é mesmo!
+*'''Roo - '''Um [[canguru]] (sim, um canguru) que eu não faço a menor ideia de onde veio e nem porque foi colocado aqui, e também não estou com a mínima vontade de pesquisar por algo tão [[idiota]].
+
+{{Streets of Rage}}
+
+[[categoria:Jogos da Sega]]
+[[categoria:Jogos para Mega Drive]]
+[[categoria:Jogos para GameCube]]
+[[categoria:Jogos para Virtual Console]]
+[[categoria:Jogos para PC]]
+[[Categoria:Jogos de beat 'em up]]
+[[Categoria:Jogos lançados em 1994]]

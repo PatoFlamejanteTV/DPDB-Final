@@ -1,0 +1,47 @@
+{{Infobox/elemento químico
+|nome              = Bário
+|imagem            = Barium_1.jpg
+|legenda           = Bário que '''não''' se recomenda usar como carvão no churrasco
+|símbolo           = [[Bahia|Ba]]
+|número            = [[56]]
+|série             = [[Metal alcalino-terroso|Metal pilha alcalina enterrada]]
+|isótopo           = <sup>137</sup>Ba
+|massa_atômica     = 137,32 cu
+|dureza            = 3ton por m³
+|radioatividade    = Baixa
+|toxicidade        = Imensa
+|comestível        = Só uma vez
+|inalável          = Vai em frente
+|passar_na_pele    = Pode
+|onde_encontrar    = [[Fukushima]]
+|ponto_de_fusão    = 1000K
+|ponto_de_ebulição = 2170K
+|super-herói       = Nula
+}}
+
+'''Bário''' é um elemento qui-mico que se convencionou chamar de [[metal alcalino-terroso]], mesmo não indo em pilhas alcalinas nem sendo encontrado livremente na terra. É mais conhecido como o fiel escudeiro do [[césio]] ali na fileira 2, acompanhando ele todo dia, não fede nem cheira no estudo da química.
+
+==História==
+
+O bário foi descoberto primeiramente em 1774 por [[Mago Merlin]] durante a procura pela pedra filosofal. Ao manusear um pedaço de [[mortadela bolonhesa]] ele extraiu um mineral de sulfato insolúvel em água, que devido à alta gordura saturada foi chamado de "barote", em referência aos tira-gostos servidos em [[bar]]es. [[Antoine Lavoisier]] achou o nome pouco fashion e o mudou para ''barita'' que também não fez diferença.
+
+Foi isolado em 1808 num exame de [[hemodiálise]] de um inglês que comeu isso tentando desenvolver superpoderes e fodeu os próprios rins nessa enrascada.
+
+==Características==
+
+O bário é um elemento metálico quimicamente semelhante ao [[cálcio]], mas infelizmente não pode se adicionar ao iogurte pois é tóxico. Em sua forma pura é semelhante ao chumbo e oxida muito facilmente quando exposto ao ar, ou seja, muito provável que algum trouxa tenha comprado bário achando que era chumbo e levou prejuízo.
+
+Alguns compostos do bário são reconhecidos pela sua elevada massa específica, mas numa tabela cheia de metais pesados e mais interessantes, [[ninguém liga]] muito.
+
+==Aplicações==
+
+* Utilizado na remoção de nitrogênio e oxigênio em tubos de vácuo, é um detergente espacial.
+* Como barita é usado na perfuração de poços de petróleo que provocam desastres ambientais.
+* Como carbonato é usado na produção de veneno para ratos e [[sogra]]s.
+* Como nitrato produz luzinhas fluorescentes para fogos de artifício, tu provavelmente já soltou bário aí no teu quintal.
+* Como sulfato pode ser ingerido no procedimento de raio X para vejam facilmente o que se passa dentro do seu corpo, tipo um [[Byakugan]].
+* Apesar do nome não é usado em bares, então por favor, não vá a um com isso no bolso.
+
+{{Tabela Periódica}}
+[[Categoria:Elementos químicos|Bario]]
+[[Categoria:Metais alcalinoterrosos|Bario]]

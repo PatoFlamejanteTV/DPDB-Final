@@ -1,0 +1,57 @@
+ 
+
+{{C|Mas pra que a viadagem de chamar essa jogo de OXO? Chama só de jogo da velha então, pô!|Você, falando algo que faz sentido, um momento mais raro do que ver um [[Mico Azul]]}}
+{{C|Prefiro jogar damas.|Jogador de damas|OXO}}
+{{C|Prefiro jogar dominó.|Jogador de dominó|OXO}}
+{{C|Eu prefiro não jogar nada! Odeio jogos de tabuleiro!|Preguiçoso|OXO}}
+{{C|CHEATER! EU COLOQUEI O X NO CANTO ESQUERDO, NÃO NO DIREITO, SUA MÁQUINA DE MERDA!|Noob|OXO}}
+{{C|Deve ser aquele meu primo distante que disse ter virado um jogo!|R2-D2|OXO}}
+[[Arquivo:OXO.jpg|thumb|Continua sendo melhor do que [[Superman 64]].]]
+
+'''OXO''' foi o primeiro videogame já criado, vindo antes até mesmo do que o Tennis for Two, a bola de gude e o [[George Foreman Grill]]. Como era de se esperar do primeiro videogame do mundo, os gráficos dele são piores do que o do Atari, parecendo mais a tela inicial do [[Windows]] 98 do que um jogo. Você em fato, nem tinha se chance de ganhar o jogo: O computador era programado para jogar com a habilidade do próprio [[Bruce Lee]], e poderia conteragir qualquer jogada que você fizesse contra ele. As únicas pessoas que já ganharam contra o OXO são o Albert Einstein, o [[Velhinho que comeu e não pagou]], e o Bill Gates.
+
+== Enredo ==
+O enredo de OXO envolve a saga da humanidade, após o [[apocalipse]]. Depois de todas as principais cidades do mundo serem destruídas por um ataque nuclear, os poucos vilarejos humanos que existem vão aos poucos desaparecendo pela falta de [[água]] e mantimentos. Um vilarejo, porém, achou durante uma expedição por alimentos uma antiga escritura produzida em 2050, que mostrava a localização de uma espécie de Oasis subterrâneo, que continha não só obrigo, plantações e água potável, como também outros [[humano]]s refugiados. Após uma jornada de 3 dias, eles chegam ao Oasis, mas há um porém antes deles poderem entrar nele: A porta de entrada requer alguém vencer uma partida de [[jogo da velha]] contra a maquina que comanda a porta. Se os humanos vencerem e mostrarem seu valor, a porta se abrirá, mas se perderem, a porta será selada para sempre. Torcendo por uma vitória, os humanos mandam seu membro mais [[inteligente]] para fazer o desafio, [[reza]]ndo pelo seu sucesso...
+
+Bem, na verdade a história acima foi totalmente inventada pro nós. Mas você devia ter visto sua cara enquanto lia isso!
+
+Mas agora, seriamente, o [[jogo]] original não tinha história. Os criadores do jogo dizem que você estava jogando a partida final de jogo da velha em um [[campeonato]] mundial, mas quem liga pra isso? Todos jogam o OXO por pura curiosidade. Ou na esperança de descobrirem algum segredo nele e ficarem podres de [[rico]] por causa disso.
+
+== Como ganhar do computador ==
+Pra provarmos que nós da Desciclopédia somos mais habilidosos do que [[asiático]]s, iremos te demonstrar ao vivo, em cores e com passo-a-passo como é que você faz pra ganhar contra o OXO, pra você finalmente poder se gabar pra sua [[família]] que você é mais inteligente do que um monte de engrenagens. Em primeiro lugar, você deve ser quem está começando o jogo. Em seguida. coloque um X no topo esquerdo do [[jogo]], assim:
+
+ x|_|_
+ _|_|_
+ _|_|_ 
+
+Em seguida, dependendo em qual canto o computador colocar o O, você deve colocar outro x em outro canto, assim:
+
+ x|_|o
+ _|_|_
+ x|_|_
+
+O computador será forçado a colocar um O no meio dos x's para bloquear sua vitória, e em seguida você deve colocar o outra x no canto que sobrar:
+
+ x|_|o
+ o|_|_
+ x|_|x
+
+Agora, não importa onde o [[computador]] coloque o O, você ainda poderá colocar um X para ganhar dele! E aí, doeu fazer esforço extra? <s>Bem, já que você não pagou para receber a explicação, não podemos devolver o seu [[dinheiro]] mesmo...</s>
+
+== O OXO em toda a sua glória ==
+Você quer jogar o OXO, mas nunca poderá porque [[você]] não é um filhinho do papai com dinheiro pra viajar até a universidade em que o OXO está localizado, e também porque não é um nerd que consegue instalar um emulador do OXO no próprio PC? Sem problemas! O [[vídeo]] abaixo mostra o OXO funcionando a todo vapor. Ah, só um mero detalhe: Devido a falta de câmeras na época que o [[jogo]] foi lançado, o vídeo abaixo foi gravado através de uma batata com uma lente presa nela com [[fita crepe]]. Mas nada que atrapalhe a qualidade do vídeo, certo?
+
+<YouTube>
+movie_url=http://www.youtube.com/watch?v=Pkiwn7u8i8s&spfreload=10
+embed_source_url=http://www.youtube.com/v/Pkiwn7u8i8s&spfreload=10
+wrap=no 
+width=350
+height=300
+</YouTube>
+
+== Ver também ==
+* [[Brown Box]]
+* [[Tennis for Two]]
+* [[Spacewar!]]
+
+{{Consoles}}

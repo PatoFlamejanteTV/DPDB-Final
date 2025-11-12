@@ -1,0 +1,30 @@
+{{desambig2|Distrito Federal|Distrito Federal (desambiguação)}}
+
+Por mais incrível que possa parecer, o '''{{PAGENAME}}''' (em [[Língua russa|russo]], '''Диcтpтo Федpaл до Нopoecтe''') fica no noroeste.
+
+== Criação ==
+
+[[Arquivo:DiaDeSolSaoPetersburgo.JPG|150px|thumb|left|São Petersburgo:a glória do {{PAGENAME}}]]
+É o distrito mais velho, sendo criado antes mesmo do [[Distrito Federal Central|Central]], por abrigar [[São Petersburgo]]. Fundado por [[Hagar, o Horrível]] em muito tempo atrás, contem algumas das mais importantes zonas comerciais da [[Rússia]], o que o torna bem rico e muito odiado por alguns. Apesar dessa tensão interna, o Distrito do Noroeste consegue manter um grau de importância altamente <s>baixo</s> <s>alto</s> mediano. É um dos poucos distritos que não possui krais.
+
+== Composição Atual ==
+
+Curiosamente, o distrito do noroeste não possui krais. Em compensação, a quantidade de óblasts é enorme. Atualmente, o distrito conta com [[7]] [[Óblast|óblasts]], [[2|duas]] [[Repúblicas Russas|repúblicas]], [[1]] [[okrug]] e [[1|uma]] [[Cidades Federais Russas|cidade federal]].
+
+{| {{tabelabonita}} width="40%" style="text-align:center;"
+| style="background-color:#D3D3D3" | '''Krais'''
+| style="background-color:#D3D3D3" | '''Óblasts'''
+| style="background-color:#D3D3D3" | '''Repúblicas'''
+| style="background-color:#D3D3D3" | '''Okrugs'''
+| style="background-color:#D3D3D3" | '''Cidades Federais'''
+|-
+|[[Arquivo:Tumbleweed.gif|60px]]
+|[[Pskov]],[[Novgorod]],[[Vologda]],[[Kaliningrado]],[[Arkhangelsk]],[[Leningrado]],[[Murmansk]]
+|[[Komi]],[[Carélia]]
+|[[Nenetsia]]
+|[[São Petersburgo]]
+|}
+
+{{Subdivisões da Rússia}}
+
+[[Categoria:Distritos federais da Rússia]]

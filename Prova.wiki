@@ -1,0 +1,116 @@
+{{doido}}
+{{encheosaco}}
+
+[[Arquivo:Chuunibyoudatass.gif|thumb|Você antes da prova]]
+[[Arquivo:spydoidao.gif|thumb|Você durante a prova]]
+[[Arquivo:Maluco.gif|thumb|Você depois da prova.]]
+Uma '''prova''' é um conceito comumente utilizado no tratamento da [[matemática]], [[leucemia]] e [[taxidermia]] e um gostinho do que [[você]] vai enfrentar no purgatório. Pode-se fazer uma prova tomando duas doses de concentração de [[álcool]] por volume com a temperatura de 15,5 graus célsius em escala richter².
+
+== Métodos de prova ==
+Existem diversos métodos de provas comumente utilizados:
+
+=== Prova por adição de uma constante ===
+2 = 1 se nós adicionamos uma constante ''C'' tal que 2 = 1 + ''C''.
+
+=== Prova por identidade aditiva ===
+Multiplicando ambos lados da expressão por zero, como por exemplo
+: 1 = 2
+: 1 × 0 = 2 × 0
+: 0 = 0
+
+Então a afirmativa final e verdadeira e portanto também a inicial.
+
+=== Prova por analogia ===
+Construa uma analogia pobre. Diga que você tem duas vacas. Mas um deles é um touro. Após um período de gestação próprio, 1 + 1 = 3.
+
+=== Prova por contradição (reductio ad absurdum) ===
+Considere ''p''.
+# Assuma o oposto: "não ''p''".
+# Bla, bla, bla ...
+# ...
+# ... que leva a "não ''p''" sendo falso, que contradiz a hipótese (1). Qualquer coisa que você diga em (2) e (3), (4) fará ''p'' verdadeira. Muito útil para ajudar em outras provas.
+
+=== Prova por indução de engenheiro ===
+
+Suponha ''P''(''n'') uma proposição.
+# Prove que ela é verdadeira para ''P''(1).
+# Prove que ela é verdadeira para ''P''(2).
+# Prove que ela é verdadeira para ''P''(3).
+# Portanto ''P''(''n'') é verdadeira para todo <math>n \in \mathbb{N}</math>.
+
+=== Prova por intimidação ===
+[[Arquivo:Profe Prova.jpg|thumb|250px|Tenta colar agora!]]
+Um dos principais métodos utilizados para provar sentenças matemáticas. As afirmações exatas da prova por intimidação são dadas abaixo:
+
+Suponha um [[matemático]] ''F'' na posição ''n'' na seguinte hierarquia:
+# Vencedor da [[medalha Fields]]
+# Professor titular
+# Professor não titular
+# Post-doc
+# Estudante graduado
+# Estudante não graduado
+
+Se o segundo matemático ''G'' está na posição ''p'' tal que ''p'' > ''n'', então qualquer afirmativa ''S'' dada a ''F'' por ''G'' é verdadeira.
+
+=== Prova por arma ===
+Um caso especial da prova por intimidação: "Eu tenho uma arma e você não. Eu estou certo e você errado. Repita depois de mim: Q.E.D."
+
+=== Prova por margem curta ===
+"Encontrei uma prova absolutamente notável, mas a margem é pequena demais para escrevê-la." 
+
+=== Prova por reversal russa ===
+Na União soviética, as afirmativas provam ''você''!!!
+
+=== Prova por substituição ===
+Alguém pode substituir arbitrariamente qualquer valor de qualquer variável para provar alguma coisa. Exemplo:
+# Assuma que <math>2 = P</math>.
+# Substitua <math>P</math> por <math>3</math>.
+# Portanto, <math>2 = 3</math>. Q.E.D.
+
+=== Prova por ... então o milagre acontece ===
+Prove que <math>\ln(x) > 5\ln(y)</math>:
+# <math>\ln(x) > 5\ln(y)</math>
+# <math>\frac{\ln(x)}{\ln(y)} > 5</math>
+# ... então o milagre acontece.
+# <math>\frac{\ln(x)}{\ln(y)} = 17</math>. Q.E.D.
+
+
+=== Prova por comparação ===
+Considere:
+#C = Conteúdo <s>falso</s> verdadeiro
+#D = [[Desciclopedia]]
+#I = [[Internet]]
+#U = Universo
+
+Vamos provar que <math>C(I) < C(D) </math>:
+# Comparando o nível das subtanciações sistemáticas quadráticas, achamos tal que <math>C(U) = C(I) + C(D) </math>
+# Portanto <math> C(D) = C(U) - C(I) </math>
+# Colocando o resultado em uma equação simples, obtemos: <math>C(D) = x + y + z + C(I) </math>
+# Assuma que <math> x + y + z > 0 </math>
+# Portanto, a afirmativa <math>C(I) < C(D) </math> é totalmente satisfeita. Obrigado.
+
+=== Prova por exaustão ===
+Um método de prova frequente as 3:00 da madrugada do dia que o problema foi proposto, e que geralmente produz, de longe, melhores resultados do que durante a luz do dia.
+
+== Desculpas perfeitas para pôr nas provas ==
+[[Arquivo:Azaluno3yo6.jpg|thumb|250px|Essa não deu muito certo]]
+#Uma das melhores formas é por uma respostas beeeeeeeemmmmmmmm longa para o professor ter preguiça de ler e pôr certo. Isso funciona mesmo, nós da Desciclopédia sempre fazemos isso.
+#Escrever "Responder este tipo de pergunta vai contra a minha religião."
+#Falar bem de alguma personalidade que tenha a mesma ideologia do professor fará a resposta estar automaticamente correta, quem disser que não, será expulso da sala. 
+#Encher linguiça: "[[Napoleão]] inventou a [[lei Áurea]], que permitia que, em 1389, [[Tiradentes]] pudesse casar-se secretamente com [[Joanna d'arc]], o que posteriormente acarretou a invasão da [[Alemanha]] à [[Polônia]] em 1929. E assim começou, em 1945, a [[Guerra dos Cem Anos]]. Que acabou em 1989, quando a [[Princesa Isabel]] morreu."
+#Escrever "Iss", cortar um pedaço minúsculo do tubo da caneta e jogar a tinta em cima da linha, logo depois do "Iss". Suje a caneta por dentro e manche a prova de azul. Depois escreva: "Ops, a caneta estourou."
+#Escrever "Foi a voz da minha cabeça que mandou." Você ganhará dois acertos por isso.
+#Escrever "Se você não considerar esta resposta correta, o pneu do seu carro irá magicamente ser furado."
+#Cortar o dedo e manchar toda a questão de sangue. Depois escrever "Desculpe-me pela mancha, cortei meu dedo com o lápis e o instrutor não quis me dar outra prova". A favorita entre os [[masoquista]]s.
+#Se você não se deu bem até aqui só resta uma opção: Coloque a resposta certa.
+
+
+{{Escola}}
+
+[[Categoria:Escolas]]
+[[Categoria:Coisas de doido]]
+[[Categoria:Avaliações escolares]]
+
+[[en:Proof]]
+[[fr:Preuve]]
+[[ja:証明]]

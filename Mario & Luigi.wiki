@@ -1,0 +1,40 @@
+{{Game}}
+{{Jogos Antigos}}
+
+{{Infobox Game|title = Mario & Luigi
+|image               = Super Mario DOS.png
+|caption             = Super Mario e sua brilhante (?) aparição no DOS 
+|developer           = [[Nintendo]] (?)
+|released            = [[1994]]
+|genre               = [[plataforma]]
+|rating              = 70%
+|platform            = [[DOS]]
+|ages                = Livre
+}}
+
+
+'''Mario & Luigi''', ou '''Super Mario do DOS''' é o único jogo da franquia lançado diretamente pro [[PC]] naqueles tempos de jogos superantigões de computador, como ''[[Jetpack]]'', ''[[Dangerous Dave]]'', ''[[Jazz Jackrabbit]]'' e outros tantos que só rodavam em DOS. Com isso algum maluco programando VGA teve a ideia brilhante de criar esse jogo bizarro que até hoje a [[Nintendo]] tem medo só em lembrar que isso algum dia existiu.
+
+== História ==
+[[Arquivo:MarioDOS.png|left|thumb|Mario tentando pular fora dessa plataforma.]]
+Mike Wiering, um programador sem criatividade, estava jogando [[Super Mario World]] em seu [[SNES]] lá em [[1994]]. Daí ele achou o jogo muito legal, mas sentia pelo fato de ele mal poder jogar no SNES devido a viver preso em seu PC por culpa da merda do emprego que ele tinha. Daí ele decidiu tentar converter seu joguinho predileto em um formato que rodasse em [[MS-DOS]]. Daí ele conseguiu crackear vários sprites do [[Super Mario Bros.]] (o primeirão) e do [[Super Mario Bros.: The Lost Levels]] e criou essa versão fabulosa (?) do jogo.
+
+O game é completamente babaca. A jogabilidade desse jogo é lenta pra cacilda (nem em [[DOXBox]] essa merda roda rápido), e a quantidade de estágios é irrisória, TENDO APENAS UM ÚNICO E MÍSERO MUNDO COM SEIS ESTÁGIOS! Pra piorar, a maioria das versões desse jogo por aí sempre suprimiram os estágios 4 e 5, já pulando pro 6, e pior ainda, sem display para mostrar quantas vidas você ainda tem, quantas moedas você coletou e em que estágio você está.
+
+Em [[2010]], se já não bastasse a picaretagem anterior, fizeram uma versão nova do mesmo jogo, só que agora usando gráficos originais mesmo do Super Mario World. Com isso, apareceu até mapinha. A adaptação conseguiu ficar ainda mais feia que o original, pois além do mapa, da introdução e do [[Super Mario]] ter ficado no formato desse game supracitado, os personagens ficaram com sprites horrendas, que não tinham nada a ver com nada, parecia uma mistura das versões anteriores.
+
+== Missão ==
+
+Passar pelos seis estágios. E só. Não tem nenhum [[Bowser]] no final pra matar (nem um [[Fake Bowser]] sequer), nem nenhuma princesa ou [[Toad]] pra dizer "mas nossa princesa está em outro castelo". Ou seja, é inútil.
+
+== Uma curiosidade ==
+
+Embora o nome do jogo seja "Mario & Luigi", o [[Luigi|Mario verde]] nunca aparece no jogo (motivo: não há modo dois jogadores nessa velharia). Em outras palavras, big fail!
+
+== Ver também ==
+
+*[[Asteroids]]
+*[[Redneck Rampage]]
+*[[Sex Olympics]]
+{{Supermario}}
+[[Categoria:Jogos piratas]]

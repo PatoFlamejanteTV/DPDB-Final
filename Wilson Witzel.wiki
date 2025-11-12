@@ -1,0 +1,99 @@
+{{Politicagem}}
+<choose>
+<option>{{Políticos do Brasil}}</option>
+<option>{{ladrão}}</option>
+<option>{{trevas}}</option>
+<option>{{ditadura}}</option>
+</choose>
+{{Nova Infobox
+| estilo      = 
+| imagem      = Pica Pau Witzel.jpg
+| imagem-tamanho  = 250px
+| legenda     = 
+| título      = Wilson Witzel
+| subtítulo   = {{{nome_alt|}}}
+| largura     = {{{largura|}}}
+| tópico-estilo   = background-color: &#35;E6E6FA
+<!--- Título principal --->
+| tópico1     = 63.° [[Governador|Governador Preso]] do {{RJ}}
+|   rótulo1   = Período
+|   dados1    = [[1 de janeiro]] de [[2019]]<br>até [[30 de abril]] de [[2021]]
+|   rótulo2   = Vice-governador
+|   dados2    = [[Cláudio Castro]]
+|   rótulo3   = Antecessor
+|   dados3    = [[Luiz Fernando Pezão]]
+|   rótulo4   = Sucessor
+|   dados4    = [[Cláudio Castro]]
+<!---Outros títulos--->
+<!---Título 2--->
+| tópico6     = Cópia do [[Sérgio Moro|Moro]] no [[Rio de Janeiro|Rio]]
+|   rótulo6   = Período
+|   dados6    = 2018-2019
+|   rótulo7  = Concorrente
+|   dados7    = [[Marcelo Bretas]]
+<!---Título 3--->
+| tópico11     = Dados Pessoais
+|   rótulo11   = Nome completo
+|   dados11    = Wilson Cabral Witzel
+|   rótulo12   = Nascimento
+|   dados12    = [[19 de fevereiro]] de [[1968]] (52 anos)<br>[[Jundiaí]], {{SP}}
+|   rótulo13   = ''[[Faculdade|Alma mater]]''
+|   dados13    = Escola Fluminense de Ladroagem
+|   rótulo14   = Cônjuge
+|   dados14    = [[Flávio Bolsonaro]] <small>(2018-2019)</small><br>Mário Peixoto <small>(2019-atualidade)</small>
+|   rótulo15   = Partido
+|   dados15    =[[PSC]]
+|   rótulo16   = Residência
+|   dados16    = Palácio Laranjeiras <ref>Ele disse na campanha que moraria num apartamento no [[Grajau]], mas agora não sai do Laranjeiras nem com ordem de despejo. Já já ele acaba em [[Bangu]].</ref>
+|   rótulo17   = Time
+|   dados17    = [[Corinthians]] e [[Flamengo]]
+|   rótulo18   = 
+|   dados18    = 
+|   rótulo19   = 
+|   dados19    =
+|   
+}}
+{{Você quis dizer|Incompetente}}
+{{Você quis dizer|[[Calisto (Pica-Pau)|Calisto do Pica-Pau]]}}
+{{Você quis dizer|Ditador Miliciano}}
+{{Experimente também|Sanguinário}}
+{{c|Só na cabecinha!|Wilson Witzel|Counter-Strike}}
+{{c|Aprendeu comigo|Sergio Cabral|os crimes de Witzel}}
+
+'''Wilson Witzel''' (1968) é o atual governador do Rio de Janeiro, filiado ao PSC, foi fuzileiro e juiz federal. Conhecido por grande parte do público por suas participações em [[Pica-Pau_(desenho)|Pica-Pau]], Witzel se candidatou ao governo do Rio em 2018 pelo PSC 20, utilizando discurso moralizador e surfando na onda Bolsonaro foi para o 2º turno onde enfrentou o poste do Cabral, [[Eduardo Paes]]. Não deu outra, Witzel foi eleito dando uma lavada no Paes, depois da eleição foi entrevistado pela torcida do Flamengo (ele é corintiano) onde alegava que em seu governo seria um ditador sanguinário e snipers atiradores em helicópteros promooveriam um genocídio contra os pobres. Seu discurso era alinhado com o presidente Bonoro até o caso 58, vocês sabem do que eu to falando. Agora, um quer matar o outro e os bolsominions odeiam Witzel, mas o Bolso é miliciano e Witzel mexeu com quem não devia. Recentemente, foi descoberto que Witzel era o chefe de uma quadrilha que superfaturava nas compras de materiais hospitalares. Foi aberto um processo de [[Impeachment|Impitiman]] na [[Quadrilha|ALERJ]] na qual, por unanimidade, 69 deputados estaduais votaram a favor. O vice Cláudio Castro já está no aquecimento.
+Wilson Witzel é mais um dos Wilson que o PSC elegeu para governador, o outro é o [[Wilson Miranda Lima|Wilson Lima]], do Amazônas. Curiosamente ambos foram pegos com a boca na botija roubando durante a pandemia mas só o Witzel se ferrou e hoje Claudio Castro é o jovo governador do RJ que todo mundo diz que vai ser preso mas é melhor terem cuidado o Crivella dosse que o Dudu Paes seria preso e quem acabou preso foi o Crivella (que já tá solto).
+
+Recentemente Witzel se candidatou a governador do RJ pelo Partido da Mulher Brasileira (que só tem hom3ns) mas desta vez teve a votação que merecia, pifia
+
+[[Arquivo:Witnaro.jpg|thumb|200px|direita|Witzel e Bolsonaro juntos em 2018, que belo casal!]]
+
+== Ver também ==
+* [[Wilson Miranda Lima|Wilson Lima]]
+* [[Sérgio Cabral]]
+*[[Pezão]]
+*[[Eduardo Paes]]
+*[[PSC]]
+{{referências}}
+
+{{Expandir}}
+{{caixa de sucessão|
+título=[[Arquivo:Bandeira_rj.jpg|50px]]<br />[[Governador|Traficante da Boca]]|
+anos= [[2019]] - [[2020]]|
+antes=[[Luiz Fernando Pezão|Pezão]]|
+depois=[[Cláudio Castro|Faixineiro da ALERJ]]
+}}
+
+[[Categoria:Crime no Rio de Janeiro]]
+[[Categoria:Governadores do Rio de Janeiro]]
+[[Categoria:Políticos do Rio de Janeiro]]
+[[Categoria:Coisas que estão lá fora para te pegar]]
+[[Categoria:Ladrões]]
+[[Categoria:Políticos de São Paulo]]
+[[categoria:Advogados do Brasil]]
+[[categoria:Carecas]]
+[[Categoria:Corintianos]]
+[[categoria:Quatro olhos]]
+[[Categoria:juízes do Brasil]]
+[[Categoria:Membros do Partido Social Cristão]]
+[[Categoria:Membros do Partido da Mulher Brasileira]]
+[[Categoria:Bolsominions arrependidos]]

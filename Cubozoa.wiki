@@ -1,0 +1,41 @@
+{{taxocaixa
+| cor             = #B0E0E6
+| nome            = Cubozoa
+| imagem          = Cubozoa-jellyfish.jpg
+| imagem_legenda  = Um exemplar de cubozoa
+| domínio         = [[Eukaryota|Cara de idiota]]
+| reino           = [[Animalia|Animais]]
+| filo            = [[Cnidaria|Cínicos]]
+| classe          = [[Cubozoa|Quadradozoa]]
+}}
+
+'''Cubozoa''' (os '''cubozoários''') é um dos tipos existentes de água-viva que se diferencia das águas-vivas convencionais por ter um formato de [[dado]] de [[RPG]] (em alguns casos formato de cubo mesmo). De resto não se diferenciam em nada dos outros tipos de água-viva, mais parecendo uma sacola plástica de lixo boiando no mar. Os animais pertencentes a esta classe são seres muito sujos, uma parte são apenas parasitas de baleias, grudando nos cetáceos e sugando seu sangue, mas outros são transmissores de doenças e podem simplesmente infectá-lo com AIDS, herpes ou clamídia caso realizem contato com sua pele, sem mencionar que muitos deles podem carregar a [[pulga]] que dissemina a [[peste negra]].
+
+== Anatomia ==
+
+O nome desta classe se refere à forma minecraftina de seus corpos que sempre exibem um formato de cubo, um formato que lembra o [[cubismo]] que [[Pablo Picasso]] sofreu segundos antes de morrer por causa de um ataque de um cubozoário (que infringiu no pintor paralisia punhetal, impedindo-o de poder pintar quadros adequadamente, forçando-o a fazer apenas cubos). Este cubo que fica por aí boiando nos oceanos possui em sua cabeça apenas quatro estômagos segmentados que nos lembra uma sacola cheia de lixo imundo que merece ser incinerado o mais rápido possível antes que se expanda. De cada uma de suas laterais brotam os tentáculos, mas felizmente esta ordem não é capaz de utilizá-los para disparar cargas elétricas com seus tentáculos de merda que são meramente nojentos, portanto a única coisa que seus tentáculos podem fazer é queimar vítimas ou penetrar os ouvidos da pessoa e realizar uma lobotomia ao injetar seu asqueroso veneno no cérebro da vítima.
+
+Outra característica bem notória desses seres é o fato de serem as únicas águas-vivas que possuem [[olho]]s que realmente enxergam alguma coisa. Não é nenhuma maravilha de olho, por isso o animal compensa tendo de 4 a 16 olhos dependendo da espécie.
+
+É um dos poucos animais do oceano que pescam sua comida ao invés de caçá-la. Eles basicamente se fingem de sacolas de lixo e deixam um tentáculo solto segurando uma [[minhoca]]. Aí quando um peixe vem e morde esse tentáculo ele é instantaneamente fritado, envenenado e paralisado.
+
+== Ciclo de vida ==
+
+Os cubozoários são considerados os hermafroditas pansexuais perfeitos do reino animal, isso porque possui um ciclo de vida bem único que consiste numa metamorfose completa de pólipo a medusa. Na fase de pólipo ele é um ser imóvel e assexuado (como os [[corais]]), e depois na fase medusa torna-se um ser móvel e sexuado. Durante a vida de um cobozoário ele experimenta de [[punheta|auto-prazer]] à viadagem à relações heterossexuais monogâmicas. De tudo um pouco.
+
+== Taxonomia ==
+
+{{Clado
+|clado1     = Ordens
+|preposição = à
+|clado2     = classe cubozoa
+|texto      = 
+|lista      = 
+* '''[[Carybdeida]]''' - cubozoa sem cavidade gástrica
+* '''[[Chirodropida]]''' - cubozoa com cavidade gástrica
+}}
+
+[[Categoria:Cnidaria]]
+[[Categoria:Cubozoa]]
+
+[[es:Cubozoa]]

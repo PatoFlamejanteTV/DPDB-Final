@@ -1,0 +1,41 @@
+{{pokedex}}
+{{PokéBox
+| imagem = Zacian{{#switch: {{#expr: {{#time: H}} mod 2}}|0=|1=RS}}.jpg
+| frase = Zacian, o Sif [[homossexual]].
+| nihongo = ザシアン
+| romaji = (mesma porcaria)
+| pokedex = 888
+| tipo1 = Fairy
+| tipo2 = {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Steel|1= }}
+| habilidade1 = Enfiar sua espada em [[cu|determinados lugares]]
+| habilidade2 = 
+| espécie = [[Dark Souls|Sif]]
+| cadeia evolutiva = [[Arquivo:888MS.png|Zacian (Hero of Many Battles)]]{{Exp|→|Usando Rusted Sword}}[[Arquivo:888CMS.png|Zacian (Crowned Sword)]]}}
+{{c|Um pokémon fada espadachim? por que não?|[[Kirito]]|Zacian}}
+{{c|causa bastente estrago quando a espada fica gigante. tá aprovado|[[Guts]]|Zacian}}
+
+'''Zacian''', também conhecido como ''[[Lycanroc]] que não se sabe se vai dar certo 1'' ou ''Sif do Dark Souls versão [[gay|baitola]]'' é um pokémon da oitava geração que habita a região de Galar e é um dos lendários dos jogos [[Pokémon Sword]] e [[Pokémon Shield]] junto com [[Zamazenta]], sendo o lendário do jogo Pokémon Sword, ao menos que façam uma [[retardado|retardisse]] e invertam os lendários, assim como nos jogos de Unova. Zacian vem de "za" ([[lobo]]) e "cian" ([[ciano]]), mostrando que a pessoa que deu o nome dele é daltônica <s>ou que será a cor do shiny dele</s>.
+
+Como é um lendário, possivelmente o pokémon mais importante de sua geração, assim com fez com [[Solgaleo]] e [[Lunala]] na geração passada, seus tipos não foram revelados até 5 meses depois, apesar de 99 por cento das pessoas já saberem que terá o tipo aço em algum lugar, sendo mono-aço ou aço/alguma coisa, foi revelado que era Aço e Fada e que decidiram no uni-duni-tê os tipos primários de Zacian e Zamazenta.
+
+Zacian representa o pokémon de número 888 na Infinitodex e é o antipenúltimo pokémon tanto na Pokedex total e a limitada do jogo.
+==Surgimento==
+Zacian, assim como o outro lendário [[Zamazenta]], além de outros pokémons, foram revelados no Direct de [[5 de julho]], onde mostrou aquele trailer cinemático <s>feito para enganar trouxas</s> como quase possui nas outras gerações, onde aparece Zacian tretando contra [[Zamazenta]] usando um ataque qualquer com sua [[espada]], porém fazendo apenas cócegas em Zamazenta, já que dizem que seu escudo dourado que foi enfiado em <s>sua bunda</s> seu corpo é feito de [[adamantium]], mas são impedidos de tretar por um vento misterioso...e só.
+==Características==
+[[Arquivo:Sif the Great Grey Wolf.png|240px|thumb|left|Zacian em [[Dark Souls|outro jogo]].]]
+Zacian é um pokémon que se assemelha muito com a aparência de [[Lycanroc]], tirando as pedras do mesmo, assim como o excesso de frescura no design de Zacian. Como direito de vários lendários de novas gerações, Zacian possui vários detalhes de armadura dourados e azuis em todo seu corpo, e uma faixa rosa estendendo em seu corpo plagiando o design [[Milotic|da cobra fabulosa de Hoenn]]. A parte de baixo, ou seja, suas quatro patas <s>não incluido [[pênis|a do meio]], se é que possui uma</s> são quase o mesmo design dos dois Lycanroc quadrúpedes.
+
+Zacian tem como sua principal característica sua [[espada]] que guarda em sua boca, já que Pokémon não é uma franquia adulta para guardar em [[cu|outro lugar]] e nem mesmo que queira, ninguém além dele mesmo consegue tirar a espada de sua boca, não sabendo como esse pokémon se alimenta com esse objeto, ao menos que tenha o "milagre" de virar do tipo Grama e fazer fotossíntese. Sua espada é seu principal objeto inseparável, a qual Zacian usa para fazer seus ataques rápidos, assim como um objeto para ele mesmo se divertir em seu tempo livre ([[ui]]).
+==No anime, mangá e filmes==
+No anime, assim como mangá provavelmente aparecerá como possível ameaça da equipe vilã do jogo ou da [[Equipe Rocket]], ou em um episódio qualquer como um mero figurante. Em filmes, Zacian assim como Zamazenta terão chances altas de serem ignorados assim como [[Solgaleo]], [[Lunala]] e [[Necrozma]], já que remakes de filmes antigos estão fazendo mais sucesso do que as continuações sem criatividade com os mesmos enredos e vilões sem graça com os mesmos planos.
+==Popularidade==
+[[Arquivo:Zacian mordendo uma uva.png|230px|thumb|{{C|Zacian is paralysed!<br>It can't move!|Zacian [[Lasier Martins|paralisado]] após morder uma rara uva elétrica brasileira}}]]
+Zacian, apesar de seu design mais dificultoso <s>assim como fresco</s> que a maioria dos pokémons preferidos dos [[furry|furries]] [[pokefilia|pokéfilos]], foi adorado pelos mesmos simplesmente por ser mais um pokémon [[lobo]], porém nem tanto justamente por ser quadrúpede e não bípede<s>, apesar dos mesmos conseguirem fazer isso por meio de anthro</s>. Pelos punheteiros terem vandalizado a pokedex do jogo e nela dizer que seria "supostamente" a "irmã" mais velha do [[Zamazenta]], Zacian ganhou [[pokefilia|uma contribuição]] em sua popularidade.
+
+Já que Pokémon possui um sistema de balanceamento tão [[mentira|efetivo]] quanto [[League of Legends]], Zacian e Zamazenta foram testados para ver quais ataques serviam mais para os lendários, e o resultado acabou que [[Zamazenta]] seria uma grande [[bosta]] quando enfrentando qualquer lendário do jogo (para sorte dele, apenas possui os lendários da quinta e da sétima geração para passar menos vergonha) e Zacian acabou virando um lendário absurdamente forte <s>pela falta de concorrência decente</s>, com varios golpes apelões incluindo seu especial e sua habilidade Intrepid Sword, que ajuda bastante nas batalhas. Por causa disso, a versão Sword foi a mais comprada que a Shield, virando um dos lendários mais populares.
+==Ver também==
+*[[Lycanroc]], a versão não-lendária.
+
+{{Poke8}}
+[[Categoria:Fadas]]
+[[categoria:Lobos]]

@@ -1,0 +1,73 @@
+{{c|Não importa o formato da carreira se o produto for bom|Maradona|{{PAGENAME}}}}
+
+==Sobre==
+Nas grandes empresas como Gerdau, Itaú, Votorantim, Sony, BrasilTelecom, Embraer, FIAT (alias na FIAT só tem analista, não importa a graduação, essa empresa é Brasileirissima, troféu jóinha pra ela) [[Polishop]] ou qualquer empresa que tenha um grande numero de pessoal de tecnologia existe o que eles chamam de ''carreira em Y''.  Por que carreira em Y?, a explicação está logo adiante.
+
+== História ==
+
+Foi criada para que os profissionais que não quiserem passar para a área administrativa possam continuar subindo na empresa na área técnica, e ganhando melhores salários. Porém, todo mundo reclama que é dificílimo ser promovido. Então alguém criou o guia de como ser promovido na carreira em Y.
+
+== Hierarquia ==
+
+O indivíduo começa como Analista 1 e, se der um ''pouquinho de sorte'', pode chegar a ser Analista 8. Os Analistas 1 são comumente conhecidos como ''Analistas baby'', ou seja, um pouco mais que estagiários.
+
+Condições necessárias para se tornar um Analista 2, 3, 4, 5, 6, 7 e 8:
+[[Arquivo:Caveira-dormirPC.jpeg|thumb|right|185px|Trabalhador tentando conseguir carreira em Y]]
+=== Analistas 2 e 3 (Analista Pleno e Senior) ===
+
+Faça o seu dever, cumpra seus prazos, fique algumas vezes depois do horário, faça cursos de aperfeiçoamento, seja sociável e trabalhe em equipe. É necessário destruir plantações de pepinos (pepino é um problema).
+
+* Noções de Inglês Técnico
+* Exemplo: Humanos <s>retardados</s> normais como eu e você
+
+=== Analista 4 (ou Especialista 1, Staff Engineer)===
+
+Requisitos do item anterior + Matar um leão por dia (leão é um grande problema), com uma carga horária de 12 horas diárias. Ser responsável por 30% a administração de uma rede pequena tipo 700 usuários.
+
+* Inglês, espanhol e Visual Basic obrigatórios + 1 linguagem desejável
+* Exemplo: Fodões
+
+=== Analista 5 (ou Especialista 2, Sr Staff Engineer)===
+
+Requisitos do item anterior + Um dragão por semana (dragão é um problema enorme), com uma carga horária diária de 16 horas sem feriados. Ser responsável por 40% da administração de uma rede do tipo 1.000 usuários.
+
+* Inglês, francês, japonês, espanhol, Assembly e C++ obrigatórios.
+* Exemplo: Mister M, David Coperfield, Padre Quevedo.
+
+=== Analista 6 (ou Especialista 3, Principal Engineer) ===
+
+Requisitos do item anterior, só que, mata-se 1 leão por hora, um dragão por dia, um Alien por semana (Alien é um problema do outro mundo) e mais uma área equivalente a meio globo terrestre em plantações de pepino. Carga horária diária de 20 horas. Ser responsável por 75% da administração de uma rede de 2.500 usuários e 30% de todos os projetos internos de tecnologia.
+
+* Inglês, francês, alemão, japonês, espanhol, aramaico, latim, mandarim, vietnamita, VB, C, C++, ASP, DHTML, Cobol obrigatórios.
+* habilidades comportamentais: tomar rivotril toda noite e mentir que faz meditação. 
+* Exemplo: Criaturas Mitológicas, Gnomos, Ninjas com o poder dos 9 cortes.
+
+Obs.: Assim como os Ninjas, somente um Analista 6 pode matar um Analista 6.
+
+=== Analista 7 (Distinguished engineer) ===
+
+Requisitos do item anterior, só que, os leões e dragões fogem de você. Você terá que caçá-los em outras dimensões e planetas. Uma área equivalente a uma estrela classe 5 (Sol) em plantações de pepino e três Aliens e um Predador por dia (Predador é um problema impossível de ser resolvido, exemplo, fazer um corpo com massa m viajar com velocidade acima da velocidade da luz, tricotando um suéter de lã enquanto escova os dentes, assobia e chupa cana). Carga horária diária de 25 horas. Ser responsável por 100% da administração de uma rede de 6.000 usuários e 60% de todos os projetos internos de tecnologia.
+
+* Grego, Latin, Inglês, francês, alemão, japonês, italiano, espanhol, aramaico, latim, mandarim, vietnamita, BORG, Klingon, pascal, fortran, C#, ASP, JAVA, XML, EasyTrieve, IMS/DC, Assembly, Telon e todas as 13500 línguas e dialetos que o C3PO fala no filme Star Wars, obrigatórios.
+* Exemplo: Mago Merlin, JEDIs como Luck Skywalker e Obi-Wan Kenobi, Mestre Yoda (dai o nome de carreira em Y), Darth Maul, SPECTROMAN, Ultraseven, Goku.
+
+''Não desanime, conseguir você irá, um analista 7 você será.''
+
+Grande poder tem o lado negro Administrativo da Força. Você também terá que ser um [[Highlander]], pois só com uma vida eterna você terá tempo para atingir este cargo, mas não se esqueça que só pode haver um e não deixe que nenhum outro analista 7, corte sua cabeça.
+
+=== Analista 8 (Immortal Engineer) ===
+
+É o cargo máximo no universo e você será considerado como o Mestre dos Elementos. Você terá o poder sobre a vida e a morte, logo você não precisa mais matá-los: você apenas deseja que os problemas se resolvam, ou cria novas leis físicas para que isso aconteça. EX: Você conseguirá transformar Graus Celsius em Radianos, abrirá caminhos na teia do espaço-tempo e navegará entre as 11 dimensões possíveis.
+Terá agenda exclusiva com Deus e despachará com Buda e Jesus semanalmente. Você será onisciente, onipresente e onipotente. 
+Carga horária diária indefinida. Para você o tempo e o espaço já não existem. Será responsável por 100% dos projetos e 100% da área de tecnologia de uma empresa de 300.000.000 de usuários.
+
+
+* Exemplo: o pai do Yoda, o avô do Obi-wan, Chuck Norris, Jesus, Neo, Valtão (nosso estagiário) e Dona Dalila, minha mãe.
+
+== Ver também ==
+
+* [[Ciência da Computação]]
+* [[Programador]]
+* [[Analista de Sistemas]]
+
+[[Categoria:Administração]]

@@ -1,0 +1,34 @@
+{{nerd}}
+
+'''Criptografia''' é um método de proteger mensagens comprometedoras. Ele foi usada por muitas personalidades históricas e para os mais diversos propósitos.
+
+==Tipos de criptografia==
+
+===Criptografia Caseira===
+Qualquer um pode criar esse tipo, já que é só mudar o que cada caractere significa sem um padrão. Por exemplo:
+A:D; B:A; C:#; D:90; E:´; e assim até o infinito e além.
+===Criptografia com alguma lógica===
+[[Arquivo:Caesardelicado.jpg|right|150px]]
+Tem duas desse tipo que são bastante famosas:
+*A de César, que era usada porque o imperador tinha tesão de [[dar o cu]], mas para não ser chamado de [[gay]] criou ela.
+'''Como usa-la?'''
+Escolha um número, por exemplo 3. Leve cada letra para a terceira após ela, assim temos: A:D; B:E; C:F; D:G: E:H; até o Z que será o C.
+*Alfanumérica, nela é pego o número correspondente a letra. Deve ter sido criada só para fazer misteriozinho na internet. Vibe:[[Cicada 3301]].
+
+==Motivos que levaram a criação de criptografias==
+*Cifra de César: já citado, viadagem;
+*Código Morse: Criada em uma guerra entre a [[Wikipédia]] e a [[WikiFandom]]. um grupo de 3 [[wikipedistas]] se infiltraram na WikiFandom e para se comunicaram com os Moderadores Malvados da Wikipédia sem serem descobertos decidiram criar essa criptografia de . e -;
+*Criptografia de ponta a ponta: A mais famosa entre os não nerds, ela é usada para que os [[pedófilos]] conseguir cometer esse ato sem que terceiros (FBI e hackers) saibam que foram feitas coisa ilícitas.
+
+==Quem já criou uma criptografia?==
+*[[Eu]];
+*Idiotas que gostam de ARG como o [[Toddyn]];
+*[[Você]];
+''''Motivo deles'''': Não querem que suas novas frases sejam de conhecimento da ralé;
+*[[Cellbit]],
+*Todos que falam o [[internetês]];
+*Quem usa lu pronome neutru.
+
+[[Categoria:Criptografia|*]]
+[[Categoria:Matemática]]
+[[Categoria:Segurança da informação]]

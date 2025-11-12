@@ -1,0 +1,69 @@
+{{Game}}
+{{jogo difícil}}
+
+{{Infobox Game
+|title     = Ikaruga
+|image     = Ikaruga cover.jpg
+|caption   = Nó, cheio dos efeitin!
+|developer = Treasure
+|publisher = Treasure
+|released  = [[2001]]
+|genre     = Shoot'em up
+|rating    = + 8000
+|platform  = [[Arcade]], [[Dreamcast]], [[Game Cube]]
+|ages      = Qualquer uma, desde que você possua super-reflexos
+}}
+
+<br />
+
+{{Você quis dizer|Monocromático}}
+
+{{C|ÚHHHHHH, adorei!|Michael Jackson|Ikaruga}}
+
+{{C|Esse jogo aí é firmeza, valeu truta!|Os Mano|Ikaruga}}
+
+{{C|Nunca vi...|Stevie Wonder|Ikaruga}}
+
+
+<font color=dodgerblue>'''Ikaruga''' é o jogo mais politicamente correto da história, feito para agradar tanto aos mais favorecidos quanto à classe de baixa renda e promover a igualdade racial.</font>
+
+[[Arquivo:Ikaruga1.png|thumb|right|O [[Chefão]] tá só tirando uma onda, certo!]]
+{|style="background-color:#000000;"
+|<font color=red>
+==<font color=red>Como surgiu o jogo</font>==
+As empresas de jogos já vinham se preocupando há algum tempo com o fato de que a maioria dos jogos não possuía personagens afro-descendentes bem-dotados, e nas raras ocasiões em que eles apareciam eles eram relegados a coadjuvantes. Foi então que os programadores da Treasure tiveram a brilhante ideia de fazer um jogo de nave em que a nave podia se transformar de branquela pra negona e vice-versa, bem ao estilo [[Michael Jackson|<font color=red>Michael Jackson</font>]].
+</font>
+|}
+==<font color=dodgerblue>História</font>==
+
+<font color=dodgerblue>No ano de 2000 e cassetada, a humanidade vive em paz e aquela baboseira de sempre. Daí um cara sem mais o que fazer da vida resolve cavar um buraco no quintal de casa. Lá encontra um artefato com o DNA preservado do [[Michael Jackson|<font color=dodgerblue>Michael Jackson</font>]], e então decide dominar o mundo. Para isso ele cria um exército de máquinas de guerra com o DNA do Michael Jackson, e com esse super exército invencível, logo o mundo se curva perante o seu poder. Porém uma meia dúzia de candangos não gosta muito da ideia e resolveu destruir as máquinas malvadas, mas como eles não tinham acesso ao DNA do Michael Jackson eles são obrigados a improvisar, criando uma navinha com o DNA combinado do [[Ice Cube|<font color=dodgerblue>Ice Cube</font>]] e do [[Eminem|<font color=dodgerblue>Eminem</font>]], assim resultando na poderosa Ikaruga. Agora é guerra rapá, morô?</font>
+
+[[Arquivo:Ikaruga3.png|thumb|right|Nave branquela andando no beco das quebrada, tá ligado!]]
+{|style="background-color:#000000;"
+|<font color=red>
+==<font color=red>Sistema do jogo</font>==
+[[Arquivo:Ikaruga2.png|thumb|left|<font color=black>Nave negona mandando chumbo nos pelêgo, morô!</font>]]
+A sua poderosa nave conta com um avançado sistema de [[Jan-Ken-Po|<font color=red>Jan-Ken-Po</font>]]. Quando ela está branquela, ela absorve tiros brancos e causa mais dano nos inimigos negões, e quando ela está negona ela absorve tiros negros e causa mais dano nos inimigos branquelos. E é claro, chovem tiros de ambas as cores pra todos os lados e em labirintos estreitos, para testar a coordenação-motora e a capacidade do jogador de aplicar brutalities no controle e xingar o criador do jogo.
+</font>
+|}
+
+{{Shoot 'em up}}
+
+[[Categoria:Jogos da Treasure]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Dreamcast]]
+[[Categoria:Jogos para GameCube]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Páginas que se parecem com o que elas são]]
+[[Categoria:Jogos lançados em 2001]]
+
+<css>
+#globalWrapper {color:#000000;}
+#bodyContent {color:#000000;}
+a { color:#333333;}
+a:visited { color:#666666;}
+a:new { color:#999999;}
+</css>

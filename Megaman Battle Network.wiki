@@ -1,0 +1,64 @@
+{{megamanUP}}
+{{game}}
+
+{{Infobox Game
+|title     = Megaman Battle Network
+|image     = MegamanNetWork.jpg
+|caption   = Lan e Megaman.EXE, [[Ironia|tremi agora]]...
+|developer = [[Capcom]]édia
+|publisher = [[Capcom]]édia
+|released  = [[2001]]
+|genre     = [[Ação]]
+|rating    = 137 Gigabytes
+|platform  = [[Game Boy Advance]], DS e Netnave
+|ages      = Livre
+}}
+
+{{c|Mais dinheiro, mais dinhei... mais diversão aos jogadores, hehe.|Capcom}}
+{{c|SE VOCÊ NÃO COMER CÁLCIO VAI FICAR COM OSTEOPOROSE!.|Masa no anime}}
+'''Megaman Battle Network''' foi o primeiro jogo do [[Megaman]] a ser um RPG, traindo o movimento rotineiro e clássico de sempre, véio. O jogo foi lançado para GB: Advance, celular e NDS.
+
+==História==
+
+Como era de se esperar, Megaman vai fazendo a história ficar mais confusa e paradoxalmente e comendo a roll [[gostosa]], a ponto de deixarem japoneses fazerem o enredo da porra toda. A história diz que um tal de Lan Hikari é um operador de um tipo de  programa de [[computador]] com Inteligência Artificial muito avançada e  capaz de sentir emoções,, os Net[[Navi]]s, mas provavelmente deve ser programado, é impossível uma máquina sentir [[Tesão|algo]], por isso que eu prefiro [[Thundercats]], obviamente o ano se passa em 20XX<s>[[RedTube|tube.com]]</s>. O seu NetNavi é o MegaMan.EXE, um NetNavi personalizado criado especialmente  para ele por seu pai. Logo no começo já se sabe quem são os inimigos,  uma organização chamada de World_Three(WWW), cujo objetivo verdadeiro é  destruir o mundo criado pelo pai do pai de Lan, [[Capitão Óbvio|seu avô]], a Internet, e tem como líder  <s>Véio Ranzinza Sedentário</s> [[Dr. Wily]]. Durante o jogo, Lan descobre diversas coisas sobre sua família, como o fato de que [[ele]] é adotado, que seu pai comia a [[empregada]] escondido de sua mãe, e que sua mãe dava para o vizinho todos os dias,  incluindo a verdadeira origem de Megaman.EXE, que é na verdade uma cópia  genética computadorizada de Hub, o irmão gêmeo de  Lan que morreu pouco tempo depois de nascer.
+
+==Jogabilidade==
+
+Como todo RPG, é de se esperar que essa merdinha tenha pelo menos uma jogabilidade boa, ele se destacou dentre os outros por causa da estratégia que  se tem de usar, a dificuldade é tão extrema que se você conseguiu pular em cima de um caixote de madeira no [[Super Mario]], conseguirá zerar essa bagaça em questão de minutos. No começo de cada turno, [[você]], caro noob, tem 5 chips para utilizar, mas apenas  chips de mesmo tipo e códigos podem ser utilizados juntos. Há a  possibilidade de enviar mais 5 chips no próximo turno, pressionando o  botão ADD, tendo disponíveis então 10 chips (no GBA e DS, no celular não, seu [[pobre]]) e pressionando  o botão ADD novamente, têm-se 15 chips (apenas no GBA). Ao todo existem  176 Chips (179 na versão japonesa de [[pinto]] pequeno), um deles sendo  secreto e além disso também existem combinações de chips que resultam em  um Programa Avançado que é formado com 3 chips,  existem dois tipos de "Programa Avançado", o normal que é formado com  chips iguais com letras diferentes alinhados em ordem alfabética e o  especial que é formado com chips diferentes com a mesma letra.
+
+Os inimigos são simples. bat que você envia por MSN para [[Tio|seu tiozão engraçadão]] e fica se achando o máximo com isso. Isso mesmo, aqueles viruzinhos de merda que tu acha que só porque faz um shutdown manda no bagaço, [[porra]]. Porém, contudo, entretanto, o chefão final é foda, digamos que é uma espécie daqules vírus que apagem teu Windows, instalam o [[Apple|Mac OS]], e te fazem ficar com ele por toda a eternidade, o Life Vírus. Ele é de elemento Neutro, portanto, você se foderá para derrotá-lo, isso até você quebrar seu CP/celular de raiva, porque você não consegue admitir que é [[noob]]. NOOB.
+
+==Chefes==
+
+Há também aqueles chefes chatos que só aparecem no jogo para encher o saco.
+
+*'''Fireman.EXE'''
+
+*'''Numberman.EXE'''
+
+*'''Coldman.EXE'''
+
+*'''Stoneman.EXE'''
+
+*'''<s>Restartman</s> Colorman.EXE'''
+
+*'''Elecman.EXE'''
+
+*'''Bombman.EXE'''
+
+*'''Magicman.EXE'''
+
+*'''Pintoman.exe'''
+
+[[Ironia|Todos os chefes foram originalmente criados neste jogo, e nenhum jamais copiou outro de outra série dos games]].
+
+{{Megaman}}
+{{Game RPG}}
+
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos lançados em 2001]]
+[[Categoria:Jogos de RPG tático]]
+
+[[es:Mega Man Battle Network]]

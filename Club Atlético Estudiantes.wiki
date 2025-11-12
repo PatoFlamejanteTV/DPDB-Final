@@ -1,0 +1,48 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = black
+|brasao            = Escudo do Estudiantes BA.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{ARG}}''' - [[Buenos Aires]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Buenos Aires]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Argentino de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Club Atlético Estudiantes''' é aquele clube que parece sempre estar fazendo uma maratona de provas e trabalhos, mas nunca perde a chance de uma boa festa. Conhecido como "Los Matadores" (embora a gente saiba que eles matam mesmo é de rir), este clube tem uma história rica e repleta de momentos épicos e hilários.
+
+== História ==
+=== Fundando o Clube: A Grande Ideia de 1898 ===
+Tudo começou em 15 de agosto de 1898, quando um grupo de estudantes decidiu que estudar o tempo todo era muito chato. Inspirados por uma mistura de rebeldia juvenil e uma bola de futebol, eles fundaram o Estudiantes de Buenos Aires. A ideia era simples: chutar uma bola e se divertir. E assim, com mais entusiasmo do que organização, o clube nasceu.
+
+=== Primeiros Anos: Driblando Desafios ===
+Nos primeiros anos, os jogadores treinavam em campos que mais pareciam pátios de escola, com gramados tão irregulares que a bola fazia mais curvas que um carrinho de montanha-russa. Em um jogo lendário, a bola furou e, sem uma substituta, improvisaram com um livro encapado – que, claro, desmanchou na primeira cabeçada. Os torcedores riram tanto que decidiram chamar o time de "Los Matadores", porque, afinal, eles matavam mesmo era de rir.
+
+=== A Década de Ouro: Matadores em Ação (1920-1940) ===
+Durante as décadas de 20 e 30, o Estudiantes de Buenos Aires começou a mostrar um futebol mais competitivo. Ganhando alguns campeonatos regionais, eles se tornaram o orgulho dos estudantes e a piada dos rivais. Em um jogo épico contra um time rival, um jogador comemorou um gol subindo na trave e fazendo um discurso sobre como o futebol era uma arte – até que a trave caiu, claro.
+
+=== Altos e Baixos: A Montanha-Russa das Divisões (1950-2000) ===
+Como qualquer bom estudante, o Estudiantes teve seus altos e baixos. Subindo e descendo de divisão como se estivessem brincando de amarelinha, o clube enfrentou desafios incríveis. Em um jogo de acesso, o goleiro ficou tão nervoso que, ao invés de socar a bola, acabou socando o ar e caindo de bunda no chão. A torcida riu tanto que o incidente virou motivo de piada por anos.
+
+=== Renascimento e Novos Desafios (2000-presente) ===
+Nos últimos anos, o Estudiantes passou por uma fase de renascimento, lutando bravamente para se firmar entre os grandes. Em 2019, conseguiram um acesso heroico à Primera Nacional, e a festa foi tão grande que os torcedores fizeram uma "volta olímpica" com bicicletas escolares decoradas. Desde então, o clube tem batalhado para se manter competitivo, sempre com o bom humor característico. Em um jogo recente, um torcedor fantasiado de professor invadiu o campo para "dar uma lição" aos jogadores adversários.
+
+{{Campeonato Argentino}}
+
+[[Categoria:Times de futebol da Argentina|Estudiantes de Buenos Aires]]

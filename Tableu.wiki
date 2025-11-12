@@ -1,0 +1,60 @@
+{{C|É uma cilada Bino!|Pedro|Botão Tableu}}
+
+{{C|PQP!|Você após travar a Desciclopédia com o Tableu}}
+
+[[Arquivo:Button_array.png]] A função '''tableu''' teoricamente deveria pra um usuário como [[você]], {{USERLINK}}, poder colocar uma bela tabela aqui, melhor que a {{tl|Tabelabonita}}. Mas infelizmente, não se sabe por qual motivo, essa função na [[Desciclopédia]] não serve pra absolutamente [[porra nenhuma]], ainda que tenha uma parte superexclusiva no [[MediaWiki]] do site e seja um dos botões que não são [[DP:BE|extra]], mas aparecem pra todo mundo e fodem todo mundo.
+
+== O que acontece quando eu aperto essa bagaça? ==
+
+Pra quem tem [[Mozilla Firefox]], aparece uma janela escrota com o nome em [[francês]] "Paramètres du tableu". E aí, não importa a merda do valor que você coloca, sempre vai aparecer uma porra de predefinição inexistente e escrota, como essa:
+
+
+[[:Predefinição:Entête tableau charte]]
+! en-tête 0
+! en-tête 1
+! en-tête 2
+|-----
+| élément
+| élément
+| élément
+|-{{ligne grise}}
+| élément
+| élément
+| élément
+|-----
+| élément
+| élément
+| élément
+|}
+
+Agora nem me pergunte pra que serve.
+
+Já se você tiver apenas com o [[Internet Explorer]], possivelmente vai travar a porra toda e você nunca vai conseguir sair do canto mais. Se ferrou! Quem manda usar navegadores idiotas de merda?
+
+== O que eu faço se for vítima do tableu?==
+Simples, desligue o [[computador]] e passe a usar [[Mozilla Firefox]]! Uma [[marketing pessoal|promoção]] de [[Mozilla]], a sua querida empresa de navegadores!
+
+Não, esqueça o que eu disse. Apenas desligue o navegador e NUNCA MAIS PRESSIONE ESSA PORRA DE BOTÃO!!!!!!!!!!!
+
+== Ver também ==
+
+*[[Erro na base de dados]]
+*[[UNIQ34648bf23c316772-choose-00000000-QINU]]
+*<s>[[Mozilla Firefox]]</s> AAAAAAAAAAAAAAAAAAAAAAAA!!! PÁRA DE DIVULGAR ESSA PORRA!!!
+
+<div align="center">
+<div class="boilerplate metadata">
+
+{| cellspacing="10" style="background-color: #F5F5F5; border: 1px solid #aaa; margin: 0 2.5%; text-align:center;"
+|| <font style="font-size:9pt; border: 1px solid #aaa; color:grey; background-color:"white"><font style="font-size: 90%" color= "black"> '''[[Merchandising|Publicidade DescicloAd]][[Predefinição:Merchandising|s]]'''</font></font>
+<span style="font-size: 75%">
+Use [[Mozilla Firefox]]!!! Clique [http://www.mozilla.com aqui] e saiba como!!!
+[[Arquivo:Firefox gay.jpg|center]] 
+<br/ >
+</span>
+<span style="font-size: 72%; color: grey">''[[Marketing|Espaço Destinado ao Merchandising na]] [[Desciclopédia]].''</span>
+|}
+
+</div>
+</div>
+[[Categoria:Bugs da Desciclopédia]]</noinclude>

@@ -1,0 +1,16 @@
+{{c|Esse é meu mentor intelectual|[[Engenharia|Aluno da Engenharia]]|Leon D'Acochambre}}
+{{c|Na hora da Fisexp, ele sempre esteve lá|[[Engenharia|Aluno da Engenharia]]|prova de fisexp E Leon D'Acochambre}}
+{{c|Usa 10% do valor máximo|[[Leon D'Acochambre|Leon D'Acochambre]]|"ajustes"}}
+{{c|Se o resultado não foi o esperado, conduza-o|[[Leon D'Acochambre|Leon D'Acochambre]]|experimentos físicos}}
+{{c|O Pai da Eletrônica|Engenheiro eletrônico|Leon D'Acochambre}}
+
+'''Leon D'Acochambre''' foi um famoso matemático francês, conhecido por seus trabalhos na física experimental. Entre suas obras, estão a prova de que [[2=1]], a de que 2+2=5 e qualquer outro tipo de prova que lhe fosse requisitada. Para fazê-lo, Leon lançava mão de seu mais famoso algoritmo:
+
+[[Arquivo:Acochambre.jpg‎]]
+
+Leon também é o inventor da constante D'Acochambre, "D", que é a única constante variável conhecida.
+
+==Sua Contribuição para a engenharia==
+Seu estudo revelou um ponto importante a todos os alunos de engenharia desesperados nas provas de Física Experimental: Não importa o quão errado o seu resultado foi, você sempre poderá acochambrá-lo! Para isso, basta seguir o algoritmo acima.
+
+[[Categoria:Matemáticos da França]]

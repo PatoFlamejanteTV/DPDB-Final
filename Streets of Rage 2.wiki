@@ -1,0 +1,49 @@
+{{game}}
+{{Infobox Game
+|title     = {{c|Bare Naikuru Tsu!}}
+|image     = Streets of Rage 2 cover.jpg
+|caption   = Capa do jogo
+|developer = [[Sega|<font color=blue>CEEEEEGAAAAA!</font>]]
+|publisher = [[Sega|<font color=blue>CEEEEEGAAAAA!</font>]]
+|released  = [[1992]]
+|genre     = {{ACT}}
+|rating    = 0%
+|platform  = [[Master System|SMS]], [[Mega Drive|<font color=red>Mega</font> <font color=green>Douraibu</font>]] e [[Game Gear|<font color=silver>Tijolo Gear</font>]]
+|ages      = Livre ([[???]])
+}}
+
+{{vqd|Streets of Rage 1.5}}
+{{experimente|Double Dragon III}}
+
+'''Streets of Rage 2''' ('''Bare Knuckle II''' em Nippon e '''Streets of Rage II''' no Tijolo Gear) é a sequência <s>fuleira</s> remasterizada do [[Streets of Rage (jogo)|1]].
+
+==História==
+
+Um ano após os fodões do Axel e do Adam e da gostosa da [[Blaze Fielding|Blaze]] derrotarem Mr. X, o tal vilão volta a atacar. Para completar a sua vingança, ele raptou Adam, pra por Axel e Blaze numa emboscada. Agora, Axel e Blaze tem que aniquilar Mr. X pela segunda vez, e resgatar Adam, mas, não estão sozinhos. Ao lado do casal <s>21</s> está Max, um lutador forte pra caralho, mais lerdo pra cacete e o irmão mais novo de Adam chamado Skate (Sammy em Nippon, apesar de ser confundido com outra [[Sega Sammy Holdings|Sammy]]). Agora os 4 vão derrotar o Mr. X.
+
+==O game==
+
+Começando quase igual ao primeiro game, você vai encarar quase a maioria dos inimigos, como os punks de cabelo espetado pra cima (pra baixo que não ia ser, né?), os [[boiola|bóí]] e a famosa Electra, devida pelo seu chicotinho barato. Se você joga a versão de SMS ou a de TG (aka 8-bit), note que Max, amigo de Axel não está nas versões, devido a [[Merda|capacidade do sistema]]. Porém, vamos aos modos:
+
+* 1 Player: Joga o modo normal;
+* 2 Players: Chama seu amigo pra te ajudar no controle 2. Note que os Continues são divididos!;
+* Duel: Você e seu amigo escolhem dois personagens, e ambos, partem pra pancadaria, em 8 arenas;
+* Options: Configura algumas frescuras.
+
+==Personagens==
+
+* Max: Tem tudo de força, mais é lerdo o bicho;
+* Axel: É um "so-so" ([[Mais|+]] ou [[-]]);
+* Blaze: A gostosa tem tudo de mais neutro;
+* Skate: É o mais fraco dentre todos, mas é o que [[Correr pra caralho|corre pra caralho]] no time.
+
+{{Streets of Rage}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos para Game Gear]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para Nintendo Switch Online]]
+[[Categoria:Jogos de beat 'em up]]
+[[Categoria:Jogos lançados em 1992]]

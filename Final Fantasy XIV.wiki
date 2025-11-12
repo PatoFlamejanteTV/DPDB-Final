@@ -1,0 +1,48 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Final Fantasy 14 Online
+|image     = Final Fantasy XIV online.jpg
+|caption   = Capa do jogo nada chamativa, para evitar de ser comprada
+|developer = [[Square-Enix|Quadrado-Eunucos]]
+|publisher = [[Square-Enix|Quadrado-Eunucos]]
+|released  = Foi adiado tantas vezes que até esqueci
+|genre     = MMORPG
+|rating    = -10
+|platform  = [[PC da Xuxa]]
+|ages      = Livre
+}}
+
+'''Final Fantasy XIV''' é o segundo [[MMORPG]] da série [[Final Fantasy]], lançado mesmo após o grande fiasco que foi o [[Final Fantasy XI]], evidenciando e comprovando toda a decadência da [[Square-Enix]] e de sua principal franquia. Após o maldito [[Final Fantasy XIII]], um jogo cujas pessoas que o finalizaram tem até hoje graves problemas cerebrais, e aqueles que arriscaram jogar suas continuações ([[Final Fantasy XIII-2|XIII-2]] e [[Lightning Returns: Final Fantasy XIII|Lightning Returns]]), a Square-Enix totalmente envergonhada de seu fracasso, decidiu fazer um MMORPG, que aí pode fracassar em paz que ninguém vai julgar.
+
+Os servidores duraram incríveis 2 anos funcionando (2010 a 2012), superando os prognósticos de que funcionaria por longos 2 dias, tornando-se assim o jogo mais vencido de todos os tempos. Ainda não há estudos aprofundados sobre o que leva alguém a pagar uma mensalidade para jogar uma porcaria dessas, mas teorias cogitam que apenas a burrice humana que não tem limites.
+
+== Enredo ==
+
+Por ser um jogo online, o enredo é meramente um adorno para ilustrar o que aquelas 5 pessoas estão fazendo online naquele mundo aberto sem graça. O enredo acontece num planeta chamado Horriver, que tem esse apelido devido à péssima renderização de seus cenários, e fala de algo sobre duas tribos (uma de metaleiros e outra de funkeiros) que brigam eternamente entre si.
+
+== Jogabilidade ==
+
+[[Arquivo:Final-fantasy-xiv-online.jpg|thumb|left|Confortável interface do jogo, com informações o bastante para causar epilepsia em qualquer um.]]
+
+Diferente de Final Fantasy XI, onde a jogabilidade é focada em campanhas cheias de jogadores online, a Square-Enix já prevendo o fracasso do jogo e como os servidores estariam vazios, focou em missões onde os jogadores podem fazer sozinhos, forever alone como fãs de Final Fantasy devem se acostumar a ser.
+
+As quests do jogo, conhecidas como levequests, rapidamente ficam muito tediosas e repetitivas após um ponto. Eles envolvem essencialmente você ir até um dos vários campos espalhados fora das cidades, e encontrar um cristal gigante conhecido como Aetheryte, onde sua busca será iniciada. Você é então colocado em um cronômetro até que você tenha atingido os objetivos da missão. Esses "objetivos" são geralmente "matar alguém".
+
+O jogador será então submetido a apanhar miseravelmente de tudo e todos, a não ser que consiga produzir armas e armaduras através de colheita de itens e sua fabricação em forjas. O problema com este sistema é que ele não é bem explicado no jogo (como tudo). O jogador levará horas pesquisando 'fansites'' e seus bancos de dados para tentar se familiarizar com os detalhes sobre como esses procedimentos funcionam. A falta de qualquer tutorial útil dentro do jogo o torna uma desgraça para os jogadores casuais.
+
+Outro grande problema com o jogo é o seu atroz sistema de compra e venda de itens. Tarefas simples como comprar e vender coisas tornaram-se ridiculamente enroladas, graças a um sistema de menu terrível que exige que você abra um menu principal e navegue através de inúmeros submenus se você quiser fazer alguma coisa. Como se isso não fosse ruim o suficiente, os desenvolvedores claramente não se deram ao mínimo trabalho sobre como as trocas entre jogadores deveriam funcionar. O jogo exige que você contrate um retentor, para dar-lhe itens para que ele possa vendê-los em uma área de mercado. A ideia é que outros jogadores entrarão na área de mercado, encontrarão seu retentor e comprarão seus itens dele. Infelizmente, isso resulta em uma bagunça profana na área de mercado, onde há inúmeros retentores que vendem sabe-se lá o que, e você tem que caminhar de retentor em retentor, e manobrar através da confusão de um sistema de menu repetitivos várias vezes até encontrar o que você está procurando.
+
+== Ver também ==
+
+* [[Final Fantasy XI]] - outro MMORPG da Quadrado-Eunucos
+
+{{Final Fantasy}}
+{{Game Online}}
+
+[[Categoria:Jogos lançados em 2010]]
+[[Categoria:Jogos da Square-Enix]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de RPG]]
+
+[[en:Final Fantasy XIV]]

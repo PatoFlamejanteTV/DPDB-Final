@@ -1,0 +1,57 @@
+{{nota:|Para outros significados consulte o artigo [[Python (desambiguação)]].}}
+
+{{taxocaixa
+| nome           = Pitombas
+| cor            = #006400
+| imagem         = Phyton.jpg ‎
+| imagem_legenda = Humana maravilhada com uma píton
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Tetrapoda|Quadrúpedes]]
+| classe         = [[Reptilia|Dinossauros]]
+| ordem          = [[Squamata|Acamados]]
+| subordem       = [[Serpentes]]
+| família        = [[Pythonidae|Montypythonidae]]
+| gênero         = [[Python|Bitch]]
+}}
+
+<font color= gray>cu = input (`digite o nome do seu pai`)
+print(`belo cu hein {}`.format{}
+) </font>
+'''Python''' (no português: '''Píton''') é um gênero de [[cobra]]s gigantes conhecidas por gerar cagaço crônico em pessoas desavisadas, devido ao seu tamanho colossal e a fama de conseguir comer programadores inteiros caso estejam programando usando linguagem interpretada. Já foi protagonista de diversos filmes, como [[Um Drink no Inferno]] e a grande obra do cinema, um [[Phyton (filme)|filme homônimo]].
+
+== Anatomia ==
+
+As pítons são consideradas as maiores serpentes do mundo da programação para crianças, é um espécie de cobra obesa que não possui sinal de fechamento de endentação, gerando códigos venenosos com potencial enorme para erros. São totalmente constritoras, ou seja, gostam de se abraçar nos outros na hora da interpretação para ver se ocorre algum erro. Podem então chegar a até 20 metros de comprimentos e por serem animais ocos não precisam se alimentar e nem respirar, precisam apenas de amor e carinho, e por isso se enrolam em qualquer animal fofinho que aparecer, como porquinhos-da-índia, coelhos e similares.
+
+== Rivalidade ==
+Existem dois tipos de cobras pítons dominantes: as da raça 2.7 e as da raça 3, ambas vivem numa eterna competição, os programadores nunca sabem para qual delas devem voltar os seus desejos, nunca se sabe para qual raio de cobra píton irá rodar, geralmente para isso adota-se a prática da adivinhação kardecista. 
+
+== Comportamento ==
+
+Nenhuma cobra desse gênero possui veneno, e seu ''modus operandi'' de caça é através do grude. As pítons assinam [[Netflix]] ou serviços similares que fornecem a possibilidade de assistir seriados, como o caso da [[píton-birmanesa]] que vive num país em que não tem internet e precisa comprar DVD pirata no camelô. Essas pítons então optam por assistir seriados mela-cueca, e começam a ficar demasiadamente românticas, assim quando uma vítima se aproxima, eles então grudam nas suas presas e não não soltam mais, imitando essas namoradas ciumentas de seriado meloso que não dão folga aos seus namorados. Após estrangular a vítima, a devoram por inteiro, sendo capaz de comer uma pessoa.
+
+== Domesticação ==
+
+Pítons são animais dóceis e lentos, e que portanto são um tipo de cobra comumente escolhida por gente excêntrica para servir de animal de estimação, sendo muito comum como animal de estimação na Índia, geralmente por pessoas carentes, já que as pítons adoram abraçar e dar carinho.
+
+== Espécies ==
+
+* '''[[Píton-angolana]]''' ''(python anchietae)''
+* '''[[Píton-birmanesa]]''' ''(python bivittatus)''
+* '''[[Píton-de-bornéu]]''' ''(python breitensteini)''
+* '''[[Píton-de-cauda-curta-de-brongersma]]''' ''(python brongersmai)''
+* '''[[Píton-de-cauda-curta-de-sumatra]]''' ''(python curtus)''
+* '''[[Píton-de-cauda-curta-de-myanmar]]''' ''(python kyaiktiyo)''
+* '''[[Píton-indiana]]''' ''(python molurus)''
+* '''[[Píton-real]]''' ''(python regius)''
+* '''[[Píton-reticulada]]''' ''(python reticulatus)''
+* '''[[Píton-africana]]''' ''(python sebae)''
+* '''[[Píton-timorense]]''' ''(python timoriensis)''
+* '''[[Píton-2.7]]''' ''(python programator old)''
+* '''[[Píton-3.0]]''' ''(python programator new problematic)''
+
+[[Categoria:Pythonidae]]
+[[Categoria:Python|*]]
+
+[[en:Python]]

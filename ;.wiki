@@ -1,0 +1,32 @@
+[[Arquivo:Kikomiguel.jpg|thumb|Você tentando entender o uso do ;]]
+
+''Sim, já fizeram uma dupla sertaneja com o nome [[Ponto & Vírgula]]. Pasmem...''
+
+''';''', ou '''ponto-e-vírgula''' ou '''ponto e vírgula''' (depois daquele [[Acordo Ortográfico de 1990|acordo chatão]]) é uma [[fusão]] de um [[ponto]] com uma [[vírgula]], dando a esse sinal o poder de ser tipo uma parada que nem é definitiva como a de um ponto, mas também não é lá tão simples como a de uma vírgula. Digamos que o ponto-e-vírgula é o [[centrão]] do mundo da [[gramática]], nem parando tudo nem só dando uma separadinha simples.
+
+== Formas de usar ==
+
+É empregado para separar as partes de um período, separar orações coordenadas que sejam quebradas no seu interior por vírgula; para marcar pausa maior entre as orações (tipo isso que acabei de fazer do lado - mentira, eu roubei da [[Wikipédia]]); acentuar o sentido adversativo antes da conjunção; separar orações coordenadas que são [[antítese]] óbvia (ex: quem não ganha; é quem perde sempre); separar orações com certa extensão, que dão perda de fôlego instantâneo ao tentar usarmos essa técnica (ex: os jogadores de futebol reclamaram com razão das constantes críticas do técnico; porém, o [[Felipão|técnico burro]] ficou completamente indiferente aos apelos dos atletas; e daí a seleção [[7X1|se fode valendo]] dentro da própria casa).
+
+Também pode ser usado pra numerar itens distintos:
+
+# (Rola 1º);
+# (Rola 2º);
+# (Rola 3º);
+
+E também separar itens de uma enumeração (em leis, decretos, portarias, regulamentos, etc):
+
+*Lei numero 1234;
+*Lei numero [[11]][[24]];
+*Lei numero [[666|66666]];
+
+Etc e etc.
+
+Também pode ser usado em [[linguagem de programação|linguagens de programação]], como [[C++]], [[C#]], [[Assembly]] e [[Java]], podendo ser usado pra separar comandos pra não virar uma bagunça fodida feita por noobs, ou, no caso só do Assembly, pra vetar o funcionamento de dado comando, ainda que só por um tempinho (afinal né, caralhos, se não for pra executar de jeito nenhum uma função numa programação, que se tire essa porra duma vez, ora carambolas!).
+
+{{Expandir}}
+
+
+{{Teclado}}
+{{Pontos}}
+[[Categoria:Gramática]]

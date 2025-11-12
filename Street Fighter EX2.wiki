@@ -1,0 +1,41 @@
+{{Games}}
+
+{{Infobox Game
+|title     = Street Fighter EX2 Plus Alpha Zero Turbo HD 3D Remix Ultra Extreme
+|image     = Street Fighter EX2 cover.jpg
+|caption   = Capa do jogo
+|developer = [[Arika|Larika]]
+|publisher = [[Capcom]]
+|released  = 1998
+|genre     = [[Luta]], Porrada, Cacete
+|rating    = 3/10
+|platform  = [[Arcade]] e PS1
+|ages      = Livre
+}}
+
+'''Street Fighter EX2''' é o resultado da [[Capcom]] insistindo no erro que foi [[Street Fighter EX Plus Alpha]], lançando a continuação daquela bosta. Novamente o trabalho foi terceirizado e quem fez a porra do jogo foram a [[Arika|Larika Games]] que mantiveram tudo de ruim do jogo anterior e adicionaram coisas piores ainda. Inicialmente existente apenas para [[Arcade]]s, tentando roubar o espaço de [[Virtua Fighter]] e [[Tekken]], posteriormente foi lançado também para PlaySation 1 com o nome '''Street Fighter EX2 Plus''' (porque mesmo sendo um game da Arika a Capcom não perde a chance de enfiar esses sufixos nos seus Street Fighter sempre que pode).
+
+== Jogabilidade ==
+
+[[Arquivo:Street Fighter EX2.jpg|thumb|left|Não é pra qualquer um esse jogo.]]
+
+Você pega tudo o que tem de bom no [[Tekken 3]] e exclui e depois pega tudo o que tem de ruim no [[Virtua Fighter 2]] e inclui, então você tem uma ideia do terror que é Street Fighter EX2. Esse jogo está ali para ser um jogo de luta de verdade, criando ódio nas pessoas fazendo-as ter profunda vontade de bater de verdade em alguém após se irritar num jogo mal feito desses. Pelo menos nesse jogo você não pode mais defender infinitamente, pois foi introduzido o Guard Break, golpes que penetram a defesa (e te enchem de raiva quando a máquina faz combo de Guard Break).
+
+Outa novidade inserida foi a presença do Excel Combo, que é uma espécie de [[combo]] infinito que reles mortais jamais terão capacidade de fazer, sendo possível observar esse elemento de jogabilidade apenas quando a CPU no hard está te espancando infinitamente com esses combos.
+
+== Personagens ==
+
+Retornam para esse jogo os conhecidos [[Ryu]], [[Ken]], [[Chun-Li]], [[Zangief]], [[Guile]], [[Dhalsim]] e [[M. Bison]] e também os completamente desconhecidos [[Hokuto]], [[Doctrine Dark]], [[Skullomania]], [[Cracker Jack]], [[Darun Mister]] e [[Pullum Purna]]. A [[Blair Dame]] foi omitida porque a SNK entrou com ação de direitos autorais acusando-a de ser plágio descarado da [[Leona Heidern]], embora a Capcom tentou lançar a personagem com o nome "Sex Shop Leona" em união com a SNK, mas não deu certo a ideia.
+
+Os personagens "novos" trazidos foram [[Blanka]], [[Vega]] e Sharon, sendo de novo mesmo só essa tal Sharon, que claramente é apenas a [[Vanessa (The King of Fighters)|Vanessa]] de King of Fighters usando uma roupa de prostituta de rua.
+
+Os personagens secretos são o [[Kairi (Street Fighter)|Evil Fei Long]], o [[Shadow Geist|Evil Skullomania]], a [[Nanase|Xianghua do Street Fighter]] e o [[Garuda]].
+
+{{Street Fighter}}
+
+[[Categoria:Jogos lançados em 1998]]
+[[Categoria:Jogos da Arika]]
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos de luta]]

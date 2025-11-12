@@ -1,0 +1,61 @@
+{{Ambiguação|uma viagem de computador ai|o que artista cobra}}
+{{Computeiro}}
+
+[[Arquivo:Cachê.jpg|thumb|Sem cachê, muito artista faz greve de fome pra conseguir. Outros, como [[Thalles Roberto]], te mandam pra puta que o pariu e não fazem o show.]]
+
+'''Cache''' ou '''Caché''' ou '''Cachê''' é uma parada muito louca, que nós [[descíclope]]s nunca ganhamos quando escrevemos um artigo como esse. Na boa, estou até pensando em parar de escrever esse artigo se não me pagarem agora mesmo meu cachê! Vamo logo, seu [[moderador malvado]] e seu [[burocrata]], mande ae meu cachê ou essa porra vai parar aqui mesmo!!!
+
+{{c|Tá bom, você venceu! Vou mandar um código, e você deve apertar [[F5]] para restaurar o cachê!|Sysop|minha exigência}}
+
+Isso ae!!! Muito bom, manda ae o código:
+
+<div style="float: left; border:solid black 0px; margin: 0px;">
+{| cellspacing="0" style="background: white;"
+| style="background: white; text-align: top;" |'''[[Arquivo:wiki.png]]'''
+| style="padding: 15pt; line-height: 1.25em;" | '''<font size=6>[[Desciclopédia|<font color=black>Desciclopédia</font>]] has a [[Chernobyl|<font color=black>problem</font>]]</font>'''
+
+
+<font size=3>'''Sorry! This site is experiencing technical difficulties.'''
+<br>
+<br>
+Try waiting a few minutes and reloading.</font>
+
+
+(Can't contact the database server: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) (localhost))
+|} </div>
+
+__NOTITLE__
+<css>
+      #siteNotice { display: none; }
+      #footer{ display: none; }
+</css>
+
+[[Arquivo:FUUUUU.gif|center|FILHO DA PUTAAAAAAAAAAAA!!!!]]
+
+Ok, o espertinho do [[nerd]] me mandou o significado de cache que existe na [[Wikipédia]]. Tá bom, vejamos:
+
+== História ==
+
+Na área da computação, '''cache''' é um dispositivo [[Flash]] (o herói, no caso), interno a um sistema, que serve de intermediário entre um operador de um processo e o dispositivo de armazenamento ao qual esse operador acede (trocando em miúdos, ajuda você a encontrar a porra da memória rapidão). A vantagem principal na utilização de um cache consiste em evitar o acesso total ao dispositivo de armazenamento - que pode demorar pra porra, como no caso da [[Desciclopédia]] com [[mais de oito mil]] artigos (e bota mais nisso) e um servidor movido por uma [[lagartixa com câimbra]] -, armazenando os dados em meios de acesso mais rápidos.
+
+Ou seja, ao invés de ficar caçando tudo na [[memória auxiliar]], na [[memória RAM|memória da RÃ]] ou na [[memória ROM|Ronzita]], você já tem um acesso extra rápido a tudo.
+
+== Tá, mas como isso virou o outro cachê? ==
+Provavelmente por um erro de um [[português]] burro ou album [[brasileiro]] espertalhão (?) mesmo, que em sua extrema intelijumentice confundiu cache com caixinha e ai passou a usar essa palavra pra designar uma forma de comer a grana da galera.
+
+Até hoje muitos artistas insistem em cobrar cachês exorbitantes para irem para cidades do país. Funciona da seguinte forma:
+
+*Tocar em [[Copacabana]] com patrocínio da [[Rede Globo]]: 50 reais.
+*Tocar em [[São Paulo]]: 2000 reais.
+*Tocar em [[Recife]]: 10000 reais.
+*Tocar em [[Portugal]]: 3000 [[euro]]s.
+*Tocar em [[Angola]]: 50000 mil dólares e seguro anti-[[mina]] terrestre
+*Tocar em [[Timor Leste]]: 10 milhões de dólares, 2000 kg de comida importada e vale-transporte de ida e volta com avião blindado.
+*Tocar no [[Acre]]: [[Nem fodendo|NEM FOOOOOOOOOOOODEEEEEEEEEEEEEEENDOOOOOOO!!!!]]
+
+== OBS ==
+
+Caso esse [[artigo]] saia do ar por algum motivo, fique clicando F5 para restaurar o cache, quem sabe o artigo volte, ou seu dedo ganhe um [[calo]], ou você precise trocar o [[teclado (computador)|teclado]] do PC...
+
+[[Categoria:Dinheiro]]
+[[Categoria:Artigos seriais]]

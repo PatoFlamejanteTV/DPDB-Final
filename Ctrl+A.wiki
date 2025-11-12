@@ -1,0 +1,38 @@
+{{Microsoft}} 
+ 
+ 
+ 
+
+{{vqd|Selecionar Tudo}} 
+{{experimente|Control+Alt+Del}} 
+{{experimente|Alt+F4}}  
+{{C|Ah, eu uso muito isso, principalmente para ler os artigos [[branco]] e [[incolor]] na Desciclopédia|Nerd|Ctrl+A}} 
+{{C|Ctrl+A é a resposta para o universo, a vida e tudo mais! Olha: Ctrl + A = 42|Carla Perez|A resposta para o universo, a vida e tudo mais}} 
+{{C|Icso non ecziste!|Padre Quevedo|Ctrl+A}} 
+{{C|Ninguém aperta nessa porra!|Capitão Nascimento|Ctrl+A}} 
+{{C|Noss, do q vc ta falano, cara?|Computeiro|Ctrl+A}} 
+[[Arquivo:Tecladowindows.jpg|right|200px|thumb|Os comandos do Ctrl+A ([[Ou não]])]]
+
+'''Ctrl+A''' são os botões que você tem que apertar para selecionar tudo numa página de qualquer lugar, até do [[Paint]] se você quiser, é claro. Ele é usado para ler artigos da Desiclopédia que estão em branco. Os lusófonos da Wikipédia não precisam. 
+
+==Para quê usar ele?== 
+[[Arquivo:Vácuo.jpg|left|90 px|thumb|A cor onde você tem que usar o Ctrl+A]]
+*Para ler o artigo [[branco]] 
+*Para ler o artigo [[nada]] 
+*Para ler o artigo [[incolor]] 
+*Para selecionar tudo 
+ 
+==Seção onde você tem que apertar Ctrl+A== 
+Aperte o Ctrl+A e leia o conteúdo:<br/> 
+<font color="white">Nerds já inventaram que Ctrl + A = 42, ou seja, a resposta para o universo, a vida e tudo mais. Mas isso é mentira e como somos racionais não devemos acreditar nisso. Ou devemos? Bem, emos, mafagafos, nerds, gays acreditam, mas se você perguntar para o Padre Quevedo, ele dirá "Icso não ecziste!". É isso, pronto.</font> 
+
+==Coisas que você nunca deve fazer ao apertar Ctrl+A== 
+*Apertar Delete 
+*Apertar Del (mas não é a mesma coisa que o Delete?) 
+*Apertar Ctrl+C 
+*Apertar Ctrl+V 
+*Apertar Ctrl+X 
+*Apertar Ctrl+P (a não ser que você seja um [[nerd]] e tenha que entregar um trabalho) 
+*Apertar [[barra de espaço]] 
+
+{{oposto|Del}}

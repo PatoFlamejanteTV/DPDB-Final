@@ -1,0 +1,47 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = black
+|brasao            = TupyJussara.png
+|hino              = Por Jussara - Felipe Neto
+|nome_oficial      = Associação de Esportes com Nome de Leite
+|origem            = {{GO}}'''- [[Jussara]]'''
+|apelidos          = Cavalos
+|torcedores        = Burros
+|torcidas          = [[Mulas]]
+|mascote           = [[Lhamas]]
+|ilustre           = [[Bruna Gomes]]
+|estadio           = Haras
+|capacidade        = 3000 caipiras 
+|sede              = [[Jussara]]
+|presidente        = [[Felipe Neto]]
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Goiano
+|divisao           = 3° Divisão
+|títulos           = 
+|ranking           = 777º
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+{{C|E o nome do nosso mascote é Cavalo Jussara!|[[Felipe Neto]] dando nome pro mascote do time}}
+{{C|Jussara 2, VOCÊ NUNCA VAI SER O JUSSARA 1!!!!!|[[Felipe Neto]] dando bronca no irmão do mascote}}
+
+'''Associação Tupy de Esportes''' é uma fazenda disfarçada de time de futebol goiano, criado com o objetivo de treinar cavalos para jogar e pastar nos campos de futebol.
+
+==História==
+[[Arquivo:Cavalo Jussara.jpg|thumb|left|300px|o craque do time (observe que Felipe Neto está gerenciando o time via Minecraft).]]
+
+O Tupy é tão desconhecido que nem os próprios jogadores e cavalos da fazenda sabem como o time surgiu. Assume-se que foi criado na fábrica de leites, pela marca Jussara depois que 11 hipistas locais se reuniram para bater uma bolinha. O time fez sucesso e, como não tinha mais nenhum outro na cidade, os praticantes de hipismo depois de muitos ouros olímpicos conseguiram com que os fazendeiros se tornassem um time oficial da Federação Goiana de Futebol.
+
+Também conhecidos pelo apelido sem graça de '''Tricolor Jussarense''' (não confundir com o [[Jussara|Cavalo Jussara]], que é personagem da série do Felipe Neto, o time depois de muito comer capim conseguiu subir pra terceira divisão do Campeonato Goiano, usando como cores marrom e branco, as cores do Cavalo. Porém, o que se viu foi um futebol não tão rural assim, pois mesmo com muito trigo, capim e blocos de feno só conseguiram um vice-campeonato no ano de [[2006]].
+
+O presidente do Tupy, [[Luccas Neto]], cravou que a equipe chegaria ao vice-campeonato da 3ª divisão goiana se os torcedores dessem seu melhor na hora de comprar as <s>[[rações pra cavalos]]s</s> ingressos dos jogos, com 10% do troféu indo para a obra. Com esse excelente método de financiamento o Tupy conseguiu o impossível sendo vice da terceirona em [[2006]], algo que foi dado como prova de que jogar futebol na fazenda é bom.
+
+
+{{Campeonato Goiano}}
+
+[[Categoria:Times de futebol de Goiás|Tupy]]

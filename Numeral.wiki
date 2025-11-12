@@ -1,0 +1,153 @@
+'''Numeral''' é a palavra que quantifica entes ou conceitos ou indica a posição que ocupam numa determinada ordem, usando a regra dos numerais podemos, por exemplo, dizer quanto um [[político]] furtou dos cofres públicos e em que posição chegou [[Rubinho Barrichello]] na ultima corrida de [[Fórmula 1]].
+
+== Cardinal== 
+[[Arquivo:LulaLamentando.jpg|thumb|200px|'''Quatro''' é o número de dedos na mão de lula é o numeral cardinal na frase, pois o presidente perdeu um dedo brincando no <s>touro mecânico</s> torno mecânico. ]] 
+'''Quando apenas nomeia o número de entes, o numeral é chamado de cardinal:''' 
+
+Os Cardinais são:
+ 
+*um 
+*dois
+*três
+*cinquenta
+*cem
+*cem mil 
+
+'''Exemplo de uma frase com cardinal:'''
+
+''-[[Paulo Maluf]] pegou '''quinhentos milhões''' de [[Reais]] prestado da prefeitura de [[São Paulo]]''
+
+*Aqui o '''quinhentos milhões''' é o numeral cardinal na frase e a verba da prefeitura.
+
+'''Outro exemplo'''
+
+''-Lula tem '''quatro''' dedos na mão esquerda.''
+
+'''Quatro''' é o numeral cardinal na frase do [[Lula]], pois ele perdeu um dedo brincando no <s>touro mecânico</s> torno mecânico.
+{{break}}
+
+== Ordinal ==
+[[Arquivo:Maluf_04.jpg|thumb|200px|''Exemplo de numeral em uma frase.''
+{{c|[[Paulo Maluf]] pegou '''quinhentos milhões''' de [[Reais]] prestado da prefeitura de [[São Paulo]]|}}]]
+Quando indica a ordem que o ente ocupa numa série, o numeral é denominado ordinal: 
+*primeiro
+*segundo
+*terceiro 
+*qüinquagésimo
+*centésimo
+*milésimo
+ 
+'''Exemplo de uma frase no ordinal'''
+
+''-[[Brasil]] perdeu de um a zero para [[França]] no segundo tempo.''
+
+'''Segundo''' é o ordinal da frase.
+
+''-[[Rubinho Barrichello]] sonhou que ganhou em primeiro lugar em [[Interlagos]].''
+
+'''Primeiro''' lugar é a posição que o <s>ordinário sonhou</s> ordinal na frase.
+
+[[Zinedine Zidane|Zidane]] quebrou a terceira vértebra óssea de [[Marco Materazzi|Matarruano]]  na final da copa
+
+'''Terceira''' é a vértebra de [[Marco Materazzi|Matarruano]], sendo assim a palavra terceira é o ordinal na frase.
+
+==Multiplicativos==
+
+Os numerais multiplicativos exprimem aumentos proporcionais de quantidade, indicando números que são múltiplos de outros: 
+
+*dobro      
+*triplo      
+*quádruplo 
+'''
+Exemplo de multiplicativos'''
+
+''-Seu irmão é um quádruplo de quatro.''
+
+Significa que seu irmão é '''burro!'''
+
+''-Meu pinto tem o triplo do tamanho do seu {{risada}}!''
+
+Significa que você gosta de ficar '''observando''' o pinto das outras pessoas. 
+
+== Fracionários ==
+
+Os numerais fracionários indicam a diminuição proporcional da quantidade, o seu fracionamento: 
+*metade      
+*um terço     
+*um décimo 
+
+''-Vamos rachar a verba, aquela que o estado nos mandou, dividimos na metade vossa excelência senhor vice-prefeito.''
+
+Significa que [[Celso Pitta]] deseja fazer um rombo no cofre da prefeitura rachando a verba na metade com seu vice.
+
+''-eu tenho metade do ano para me recuperar.''
+
+'''
+
+== Coletivos ==
+[[Arquivo:Jogo-de-bicho.jpg|thumb|''-Joguei no bicho e acertei a milhar na [[cobra]]'' ]]
+Os numerais coletivos designam conjuntos de entes e indicam o número exato de indivíduos que compõem o conjunto: 
+*dezena       
+*quinzena         
+*dúzia 
+*cento         
+*milhar          
+*milheiro 
+
+''-Joguei no bicho e acertei a milhar na [[cobra]]'' 
+
+''-Na roça de meu pai tem um milheiro cheio de [[milho]].''
+
+''-Gostaria de levar meia dúzia de [[buceta]] hoje senhor [[cafetão]].''
+
+
+== Flexões dos numerais == 
+[[Arquivo:Bikudo_noiado3.jpg|thumb|{{c|AAHAHARAMMMAMMMM|}}O [[Bikudo noiado|Noiado]] tomou doses triplas de [[heroína]] na [[sangue|veia]]]]
+Os numerais cardinais que variam em gênero são, podem ser hora [[macho]] ou [[fêmea]]: um/uma, dois/duas e os que indicam centenas de duzentos/duzentas em diante: trezentos/trezentas; quatrocentos/quatrocentas etc. 
+
+''-Eu como uma vagabunda qualquer.''
+
+''-Você fica com aqueles dois machos ali.''
+
+*Cardinais como milhão, bilhão, trilhão etc. variam em número: milhões, bilhões, trilhões etc. 
+
+''-O estado do [[Acre]] fica trilhões de km² de distancia da face da terra.''
+
+*Os demais cardinais são invariáveis.
+ 
+Os numerais ordinais variam em gênero e número:
+ 
+*primeiro segundo milésimo / primeiros segundos milésimos 
+*primeira segunda milésima / primeiras segundas milésimas 
+
+''[[Nostradamus]] viveu no segundo milésimo do ano quinto'' 
+
+
+''-Vamos destinar um trilhões de reais pró [[bolsa família]].''
+
+''-Eu gostaria de ganhar um trocentos de bilhões de Reais na mega sena e comprar todos puteiros do mundo.'' 
+
+''-É a milésima vez  que mando este cobrador corno sumir da minha porta.''
+
+
+Os numerais multiplicativos são invariáveis quando atuam em funções substantivas: 
+Fizeram o dobro do esforço e conseguiram o triplo de produção.
+*Um elefante faz o triplo de merda em relação ao rato quando fica com dor de barriga. 
+
+Quando atuam em funções adjetivas, esses numerais flexionam-se em gênero e número: 
+Teve de tomar doses triplas do medicamento. 
+
+O [[Bikudo noiado|Noiado]] tomou doses triplas de [[heroína]] na [[sangue|veia]].
+
+==Ver também==
+
+*[[Fonema]]
+*[[Português]]
+*[[Sílaba]]
+*[[Vogal]]
+*[[Feio]]
+
+{{Classes gramaticais}}
+
+[[Categoria:Linguística]]
+[[eo:Nombrovorto]]

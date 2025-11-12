@@ -1,0 +1,26 @@
+{{taxocaixa
+| nome           = Vírus da dengue
+| cor            = #B0C4DE
+| imagem         = Dengue.jpg
+| imagem_legenda = Alguns vírus da dengue
+| grupo          = [[Riboviria|Rabovira]]
+| ordem          = [[incertae sedis]]
+| família        = [[Flaviviridae|Flamerdavirus]]
+| gênero         = [[Flavivirus|Flafiufiu]]
+| espécie        = [[Vírus da dengue|Vírus da dengue]]
+}}
+
+'''Vírus da dengue''' é, como é de se esperar, o causador da [[dengue]], doença que pode vir em quatro sabores diferentes (DEN-1, DEN-2, DEN-3 e DEN-4) a depender da crueldade inerente ao vírus no momento da infecção. Trata-se de uma versão mais popular e mais cotidiana do [[Vírus Zika]], um velho conhecido do povo brasileiro que pelo menos uma vez por ano contrai esse vírus no final do [[verão]], um vírus muito apreciado pois sempre garante longos atestados médicos, e faltar ao trabalho é tudo o que mais gostamos.
+
+== Origem ==
+
+Embora seja um vírus muito antigo, surgiu como conhecemos hoje em 1907, na [[África]]. Inicialmente era um vírus que causava [[febre]] no [[tenreque-raiado-das-planícies]], uma espécie de ouriço do mar que existe apenas em [[Madagascar]] mas que na época acabou se tornando uma especiaria da culinária burundiana e o animal foi importado para a África continental, onde foi picado pelo [[mosquito-da-dengue]] pela primeira vez e aí fodeu pro ser humano, porque agora o mosquito picou um humano desatento do caralho e a epidemia começou.
+
+== Transmissão ==
+
+O vírus da dengue não sobrevive no [[ar]], portanto uma pessoa infectada espirrando na sua cara não está oferecendo perigo. O vírus encontrou apenas uma única forma de se disseminar, ele decidiu aproveitar-se da falta de higiene humana e também da sua desatenção, um fator não dissociado do outro. Em primeiro lugar o vírus da dengue necessita de um ambiente porco e imundo onde mosquitos conseguem simplesmente deixar suas larvas em água parada e limpa e assim se reproduzir. Mas é necessário um segundo fator também, que é a completa desatenção de alguém, pois a pessoa tem que estar muito absorvida em alguma outra atividade para não conseguir ver aquele puta mosquito com as patinhas listradas em branco se aproximando, e tem que ser mais retardado ainda pra não senti-lo pousar em sua pele, mas quanto ao momento da picada aí já é até perdoável o cidadão não sentir, porque brasileiro toma tanto no cu todos os dias a semana que uma picadinha é praticamente indolor para seu porte físico.
+
+Por motivos óbvios o vírus não existe em países como [[Rússia]] e [[Canadá]], onde as pessoas estão sempre agasalhadas, sendo ele mais comum em países onde as pessoas ficam sem roupa, tipo Brasil.
+
+[[Categoria:Flavivirus]]
+[[Categoria:Espécies de vírus]]

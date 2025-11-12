@@ -1,0 +1,44 @@
+{{alien}}
+{| align=right cellpadding=3 cellspacing=0 style="float:right; margin-left:1em; border:2px solid #000000;"
+!colspan=2 bgcolor=green|<font color=white size="3">'''Zam'''</font>
+|- 
+|colspan="2" align=center | [[Arquivo: Zamcrashnitro.png|200px]]
+|-
+!bgcolor=green colspan=2|
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Nome completo</font>
+
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Zam
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Local de Nascimento</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Planeta Gasmóxia
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Raça</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Alien
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Primeira Aparição </font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|[[Crash Nitro Kart]]
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Profissão</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Escravo sexual de [[Velo]]
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Hobbies</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Encher o saco do seu chefe
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Parceiros</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|[[Zem]] e [[Nitrous Oxide]]
+|}
+'''Zam''' é um alien que é um dos capangas que trabalha pelo [[Nitrous Oxide]] e [[Velo]] como puxa-saco estorvando o nosso protagonista chamado [[Crash Bandicoot]] nos jogos de corrida, ele é um cachorro espacial com cara de ogro que solta um mal hálito, ou seja, o Zam não escova os seus dente. O seu parceiro de corrida da série [[Crash Nitro Kart]] se chama Zem.
+==Sua primeira Aparição==
+[[Arquivo:Nitroszamezem.jpg|thumb|left|Velo xingando os três patetas.]]
+
+O Zam fez sua primeira aparição no jogo de corrida de formula 1 interespacial chamado [[Crash Nitro Kart]], onde por lá, ele foi um dos capachos do [[Velo]] tentando impedir [[você]] de ganhar todas as corridas, relíquias, troféus e CNK. 
+Dizem boatos que o Zam acabou ficando em último lugar, ou seja, ele acabou pagando mico, perdendo até para o [[Polar]].
+==Segunda Aparição==
+Desta vez o Zam resolveu-se vingar, ele se inscreveu para a liga de corrida da série [[Crash Team Racing Nitro-Fueled]] afim de ganhar o primeiro lugar, ele ganhou e acabou também ganhando como bônus, um dia de banho quente nas fontes termais com as garotas do Esquadrão Nitro.
+==Como jogar com o Zam==
+Para jogar com ele você deve obter o diamante roxo ou no [[Crash Team Racing Nitro-Fueled]] comprar ele no [[Merchant]] 1500 merrecas na barraca clandestina, coisa que você nunca vai conseguir.
+==Ver Também==
+*[[Nitrous Oxide]]
+*[[Zem]]
+{{crash}}

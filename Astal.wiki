@@ -1,0 +1,37 @@
+{{game}}
+
+{{Infobox Game
+|title     = Astral
+|image     = Astal SS.jpg
+|caption   = Astal liberando o seu [[Gay|eu]]...
+|developer = [[Sega|CEEEEEEEEGAAAAAAAAA]]
+|publisher = [[Sega|CEEEEEEEEGAAAAAAAAA]]
+|released  = [[1995]]
+|genre     = {{ACT}}
+|rating    = 0%
+|platform  = [[Sega Saturn|Sega em Saturno]]
+|ages      = Livre
+}}
+
+{{vqd|Game de cristais}}
+{{c|Eu tive uma pequena participação, e teve gente que apareceu mais do que eu!|Astal|sua aparição em SGGG}}
+
+'''Astal''', mais conhecido como Kisuishou Densetsu Asutaru (輝水晶伝説 アスタル Shining Crystal Legend Astal) no [[Japão]], foi um jogo de plataforma 2D do [[Sega Saturn|Sega em Saturno]]. Feito em [[1995]], pela [[Sega|CEEEEEEEEEEEEEEEEEGAAAAAAAAAAAAAAAAAA!!!]]
+
+O game nunca saiu na [[Europa]] por sem nenhum motivo. Como dito antes, o game tem gráficos e animações em 2D, pode ser jogado com dois jogadores, e algumas dicas de como derrotar os chefões, passam no filme-introdução do game.
+
+== O pássaro ==
+
+Em Astal, você tem um passáro que pode te ajudar em poucos momentos. No modo Single Player, Astal pode dar comandos para atacar inimigos, para ganhar energia ou para conseguir certas coisas ou objetos ao longo do game. Caso esteja com dois jogadores no game. O segundo jogador controla o passarinho e o jogador 1 controla o Astal e ambos os dois podem atacar ao mesmo tempo. Caso a barra de energia do passáro chegue a zero, o jogador 1 perde uma vida.
+
+== Curiosidades ==
+
+* Astal tem participação em [[Segagaga|SGGG]];
+* A voz de Astal, é feito por [[Lani Minella]], no qual fez a [[Rouge the Bat|Rouge]] em [[Sonic Adventure 2]].
+
+{{Segagaga}}
+{{Plataforma}}
+
+[[Categoria:Jogos lançados em 1995]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Sega Saturn]]

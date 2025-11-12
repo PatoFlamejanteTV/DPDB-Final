@@ -1,0 +1,174 @@
+{{Logotipo falso|Winlogo3.gif}} 
+<choose>
+<option>{{DISPLAYTITLE:Windows 7}}</option>
+<option>{{DISPLAYTITLE:Rwindows 7}}</option>
+<option>{{DISPLAYTITLE:Mico$oft Úindow$ 7}}</option>
+</choose>
+{{Microsoft}}
+{{tarja|[[Arquivo:Error4.JPG|300px]]}}
+[[Arquivo:Selo Tio de qualidade.jpg|right]]
+{{vqd|Rwindows 7}}
+{{vqd|O sistema mais pirateado de todos os tempos}}
+{{experimente|[[Apple|OS X Leopard]]}}
+{{c|(não está respondendo)|Windows 7|qualquer programa}}
+{{c|Agora vai!|[[Geek|Geek sonhador]]|Windows 7}}
+{{c|Tentativa desesperada da Microsoft de fazer um Windows que seja mais vendido do que o XP|Usuário de Linux|Windows 7}}
+{{c|1, 2, 3, NT, 95, 98, 2000, XP, Vista, 7...|Você tentando entender a [[matemática]] usada para contar os sistemas da [[Microsoft|Micosoft]]}}
+{{c|SP3 para Windows Vista?|[[Nerd]] engraçadinho|Windows 7}}
+{{c|Prefiro [[Linux]].|Eu|Windows 7}}
+{{c|Eu também!|Qualquer ser inteligente|Windows 7}}
+{{c|Tentaram copiar meu sistema e acabou parecendo uma repaginação do Vista!|[[Linus Torvalds]]|Windows 7}}
+{{c|Bem, pelo menos tem [[DirectX]] 11...|Gamer|Windows 7}}
+{{c|O Vista foi um fracasso, pessoal. O que faremos para atrair a atenção do público novamente  com o 7?|Programador da Micosoft|Windows 7}}
+{{c|Acho que esse menu preto não combinou.|Outro programador [[gay|frescurento]]|comentário acima}}
+{{c|Ae meu bom, quanto tá o Windows 7?|Você no camelô|comerciante [[Pirataria|pirata]]}}
+{{c|Quinze real meu parça! E de quebra no CD vem cinco jogo e um trojan.|Comerciante|o CD pirata do Windows 7}}
+{{c|Trojan? O que é isso?|Consumidor desconfiado e [[burro]]|CD do camelô}}
+{{c|É... é... é um arquivo necessário pra rodar esses jogo, patrão.|Comerciante tentando passar a perna.}}
+[[Arquivo:Meu PC rodando o Windows 7.png|thumb|right|Seu PC rodando o Windows 7.]]
+
+[[Arquivo:Apple-windows-logo.jpg‎|thumb|right|Logotipo oficial do Windows 7]]
+O '''Windows 7''' é o sucessor do fracassado [[Windows vista]], lançado no final de Outubro de 2009 e em pré-venda desde julho do mesmo ano nos sites de [[torrent]]. A grande e “especializada” mídia com seus críticos [[Mentira|nada]] tendenciosos, diz que o 7 é a melhor versão já criada pela [[Microsoft|Lixo$oft]], pois dessa vez a empresa finalmente se rendeu e decidiu implantar o ''kernel'' do [[Linux]] (infinitamente superior a qualquer versão do Windows). Antes dessa edição, todos os outros possuíam centenas de bugs (esse só dezenas), interface podre e difícil utilização. Era mais fácil pilotar um avião do que abrir um simples arquivo ''[[PDF]]'' no Vista, pois ele acabava travando no momento em que você apertava o botão do menu Iniciar. Para agradar os viadinhos usuários da [[Apple]], essa é a versão mais colorida do Windows, onde você pode colocar a cor que quiser na barra de tarefas (o Vista só permitia o preto e o XP só tinha três opções, uma pior que a outra).
+
+== Novos recursos ==
+[[Arquivo:Startrek-BSoD.gif|thumb|left|Data testando o sistema ''Touch Screen''.]]
+Podemos citar a repaginação do [[Paint]], agora com suporte a 657634576345682368368 cores e [[Campo Minado]] em versão 3D. A fábrica de dinheiro do [[Bill Gates]] sabe que você possui mais de um computador com Windows instalado em casa <s>(sendo pelo menos um pirata)</s> e criou o fantástico sistema de ''grupo doméstico''. Ou seja, computadores ligados numa rede doméstica que fazem de tudo, menos compartilhar arquivos. E se você for preguiçoso, pode configurar a área de trabalho para trocar de plano de fundo automaticamente! Só se certifique de mover suas imagens [[hentai]] (que eu sei que você tem) para outra pasta, na hora de escolher.
+
+A restauração do sistema permite que você fique cinco horas em frente ao seu computador sem fazer [[porra nenhuma]] além de ver uma barrinha azul correndo para no final o Windows dizer que não foi possível restaurar o sistema. Isso é bem útil caso você faça [[merda]] e quer voltar atrás, porém... é Windows!
+
+O 7 vem com um inovador e excelente recurso chamado ''Touch Screen'' (que funciona tão bem quanto a biometria do [[Itaú]]). Entretanto, o que era para fazer várias pessoas se empolgarem está irritando-as. O motivo? Primeiro de tudo, [[você]] não tem um monitor touch screen porque você é pobre. Segundo, mesmo a precisão sendo boa, aquela [[sua tia]] gorda tem um dedo do tamanho de uma [[linguiça]] e vai abrir três pastas diferentes quando só queria fechar a janela. A Mico$oft pensou no recurso do touch justamente pelos [[nerd]]s, que baixam programas de mulheres virtuais gostosas que ficam dançando na tela, e então, com os dedos sujos de [[Cheetos]], podem acariciar seu corpo e tirar sua roupa. 
+
+E mais uma caralhada de mudanças:
+* [[Tela azul da morte]] compatível com os recursos ''Aero'' (Peek, Shake e Glass);
+* [[Windows Media Player]] 12 e [[Internet Explorer]] 8, ou seja, as mesmas merdas, porém mais bonitinhas;
+* O Windows agora já vem carregado na memória flash. Ou seja, ele vai ficar fingindo que está carregando por uns dez minutos pra ver se você tira essa sua [[bunda]] gorda da cadeira por um tempo (a Microsoft se preocupa com a saúde de seus usuários);
+* O poderosíssimo e eficiente pacote Windows Live;.
+* DirectX 11!
+
+=== Windows Live ===
+Trata-se de um pacote de funcionalidades extra para melhorar a experiência do usuário, [[ou não]].
+* Windows Live Movie Maker: diga adeus ao antigo Unmaker, que até era fácil de usar. Agora, você tem o foderosíssimo Live Movie Maker, que além de pesar mais no seu sistema é mais difícil de mexer do que os controles de uma cabine de avião;
+* Windows Live Messenger: o antigo MSN. Está morto, assim como a credibilidade da Microsoft. Foi substituído pelo [[Skype]];
+* Windows Live Galeria de Fotos: uma cópia fajuta do Picasa, onde você pode organizar suas imagens pornô do jeitinho que você quer;
+* Windows Live Toolbar: uma barra de ferramentas inútil que só pesa no já pesado e inútil Internet Explorer 8;
+* Windows Live Mail: agora, você pode ter várias contas de e-mail num programa só. Pena que não funciona;
+* Windows Live Writer: pra você que [[Felipe Neto|escreve merda no]] [[Twitter]] e quer economizar tempo;
+* Windows Live Desproteção para a Família: impede seu filho de entrar na [[Desciclopédia]] por causa das [[putaria]]s aqui escritas.
+
+== Estabilidade e segurança ==
+Há relatos de usuários que conseguiram manter o sistema operacional funcionando por dez minutos sem receber uma [[BSOD|tela azul]]. Fontes internas dizem que o 7 apresenta mais estabilidade simplesmente por ter uma estrutura baseada em Unix, mas fique sossegado: ainda é Windows, pois a tela azul está escondida nos códigos. E ela é mais bonitinha agora, apresentando transparência e efeitos 3D super fofos.
+
+== Preço ==
+Pode ser um choque para você, mas o Windows ''não'' é de graça! Apesar de poder ser adquirido em qualquer camelô por R$15,00 ou baixado em algum site de torrents (com vários vírus inclusos), o sistema não é ''open-source''. Ou seja, vai ter que pagar, ou senão você será “vítima de falsificação de software”. Aham, sei...
+
+A Micro$oft começou com essa putaria de criar milhões de edições para um mesmo sistema operacional, cada um com suas <s>des</s>funcionalidades, para sugar dinheiro de todas as classes sociais. Veja a seguir:
+
+* Windows 7 Starter: R$200,00
+* Windows 7 Home Basic: R$350,00
+* Windows 7 Home Premium: R$420,00
+* Windows 7 Professional: R$666,00
+* Windows 7 Ultimate: R$700 (R$15 no camelô)
+
+=== Diferenças entre as edições ===
+* Starter: Presente em 90% dos computadores [[Positivo]] comprados nas [[Casas Bahia]]. É a pior versão do Windows, onde você não pode abrir mais que três janelas ao mesmo tempo, mudar o papel de parede [[gay]] ou jogar algo mais pesado tipo [[Crysis]]. Essa edição foi desenvolvida para [[funkeiro]]s, [[pagodeiro]]s e [[emo]]s que só sabem utilizar o computador para baixar [[funk]], ver [[putaria]] e acessar o [[Facebook]];
+* Home Basic: presente em todos os computadores do [[governo]], vem com o Aero (um conjunto de efeitinhos 3D) e a opção de criar atalhos e mudar o papel de parede;
+* Home Premium: raro de se ver, é a edição perfeita para o usuário que quer começar a gravar DVDs de putaria baixados no torrent, compartilhar músicas via rede e jogar com um pouquinho mais de qualidade;
+* Professional: Nada muito diferente do Home Premium, porém as diretrizes de rede são melhor estruturadas e conta com o ''modo XP'', onde você pode executar arquivos do Windows XP no 7. Pouco pirateada, pois os crackers preferem o Ultimate;
+* Ultimate: a edição menos comprada e a mais pirateada do Windows, contém tudo: os efeitos Aero, os joguinhos bestas e [[gay]]s do Vista, criptografia, suporte a bilhões de idiomas...
+
+== Os 7 pecados do Windows 7 ==
+* Gula: O Windows 7, em sua versão 32-bit, consome 1gb de RAM e 20gb de espaço em disco. A versão de 64-bit consome o dobro, tornando o "upgrade" impraticável em computadores Positivo;
+* Avareza: O Windows 7 é caro pra caralho, sendo melhor baixar uma distribuição [[Linux]];
+* Inveja: A equipe de programadores tentou copiar o Linux na cara dura;
+* Ira: É o sentimento que você terá após uma semana de uso contínuo, com tantos bugs, telas azuis e congelamentos;
+* Soberba: O Windows 7 tem a intenção de parecer melhor que os concorrentes;
+* Luxúria: O prazer que você terá em chutar o gabinete;
+* Preguiça: É o que seu computador vai apresentar após a instalação do sistema.
+
+==Lançamento do Windows 7==
+
+[[Arquivo:ApresentaçãoWindows7.gif|center|Lembrem-se, ainda é [[Windows]]!]]<br>
+
+<center> — ''Apresentando, o Windows 7! Não é lindo?''</center>
+
+<center>([[Tela azul da morte]])</center>
+
+<center> — ''gulp!'' </center>
+
+
+==Vídeos== 
+
+=== Pelo menos roda no Duron, ou quase... ===
+<YouTube> 
+
+    title=Veja o excelente suporte ao Touch Screen implementado no Windows 7 no telão da Globo.
+
+    movie_url=https://www.youtube.com/watch?v=5hU0DGq23is
+
+    embed_source_url=https://www.youtube.com/watch?v=5hU0DGq23is
+wrap=no 
+
+    width=400
+
+    height=350
+
+</YouTube>
+
+===Esfregando seu Dedo!===
+<YouTube> 
+
+    title=Veja o excelente suporte ao Touch Screen implementado no Windows Seven no telão da Grobo rola fimes.
+
+    movie_url=http://www.youtube.com/watch?v=MNMJHpgda6I
+
+    embed_source_url=http://www.youtube.com/v/MNMJHpgda6I
+wrap=no 
+
+    width=400
+
+    height=350
+
+</YouTube>
+
+===Compatibilidade===
+
+Comparação de Windows 7 Tablet e iPad, quem sai ganhando?
+
+<YouTube>
+   
+    title=Windows 7 para Tablet é mais rápido que iPad. (Por incrível que pareça!!!)
+
+    movie_url=http://www.youtube.com/watch?v=f2IuEH07xBg
+
+    embed_source_url=http://www.youtube.com/v/f2IuEH07xBg
+
+    wrap=no 
+
+    width=480
+
+    height=295 
+
+</YouTube>
+
+Vale a pena sim. Mas se quiser Baixe uma distribuição [[Linux]], ou se você for mais endinheirado, compre um Mac.
+
+== Galeria ==
+<gallery>
+Imagem:Windows_Seven_Gay.jpg|''"Encher seu mundo de energia"'' Bill Gates está soltando a [[Gay|franga]]...
+Imagem:TelaAzul7.jpg|[[Tela Azul da Morte]] no Windows 7, totalmente repaginada.
+Imagem:Windows-7-wallpaper-555x346.jpg| Papel de parede de um usuário que usou muita [[LSD]] e praticou [[cheiramento de gatinhos]].
+Image:Windows7.png|Capa alternativa do Windows 7.
+Imagem:Tpm.png|Você precisa ter [[TPM]] para rodar o Windows 7!
+Imagem:Comparacao.png|Comparação entre os sistemas operacionais.
+Wwin.jpg|As más [[língua]]s afirmam que esse seria o [[logotipo]] do Windows 7
+</gallery>
+
+{{windows}}
+[[Categoria:Microsoft]]
+[[el:Windows Seven]]
+[[en:Windows 7]]
+[[it:Windows 7]]
+[[ja:Windows 7]]
+[[ko:윈도 7]]
+[[uk:Necrosoft Windows Seven]]
+[[zh-tw:暈到死妻]]

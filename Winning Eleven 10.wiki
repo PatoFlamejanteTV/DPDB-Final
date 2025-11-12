@@ -1,0 +1,891 @@
+<choose><option>
+{{logotipo_falso|Konamipedia.png}}</option><option>{{logotipo_falso|Konamipedia2.png}}</option></choose>
+
+{{pobre}}
+{{game}}
+
+{{Infobox Game
+|title     = Punheta Eleven
+|image     = Winning Eleven 10 Narrado Eder Luiz e Neto.jpg
+|caption   = Atualizado dia 32 do 13 de 6854
+|developer = [[Konami]]
+|publisher = [[Konami]]
+|released  = Desde [[Campeonato Brasileiro 95|1995]]
+|genre     = [[Futebol]] e [[Porrada]]
+|rating    = 100%
+|platform  =  [[Atari 2600|Atari]], [[Zeebo]], [[PlayStation 2]] 
+|ages      = Livre
+}}
+{{Compactar|
+{{Sua intenção era pesquisar|[[Bomba Patch]]}}
+{{Sua intenção era pesquisar|[[Brazukas]]}}
+{{Sua intenção era pesquisar|[[Puteiro Eleven]]}}
+{{C|Winning Eleven é um jogo ultrapassado que morreu no Playstation 2.|Capitão Óbvio|Winning Eleven}}
+{{C|Winning Eleven 9 é muito melhor!|[[Eu|Qualquer pessoa com o mínimo de bom gosto]] |Winning Eleven}}
+{{C|Concordo com a pessoa acima. No We9 temos a possibilidade de fazer logos coloridos!|[[Editor de jogos de futebol]] |Winning Eleven}}
+{{C|Winning Eleven é chato pra cacete!|[[Milton Leite]], que uma década depois iria virar o narrador oficial do própio jogo|Winning Eleven}}
+{{C|Pro Evolution Soccer é muito melhor.|[[Você|Uma pessoa muito Noob]]|Winning Eleven}}
+{{C|Pro Evolution Soccer e Winning Eleven é a mesma coisa, burro!|[[Eu|Outro noob]]|Winning Eleven}}
+{{C|Na realidade, as versões mais antigas se chamavam Winning Eleven, e as mais atuais se chamam Pro Evolution Soccer.|Uma pessoa inteligente|Winning Eleven}}
+{{C|Só não tem o meu super chute do tigre dragão de fogo do 8°Céu|Oliver Tsubasa|limitações do Winning Eleven}}
+
+{{C|One-Two!|Narrador japonês,sobre sua apelação}}
+{{c|O xerife da zaga Uruguaia, Diego Lugano|Nivaldo Prieto|Kaká}}
+{{C|Carimba Luciano, Carimba que o Gol foi LEGAL!!!!|Godói sobre Gol no Winning Eleven}}
+{{C|Se fosse eu tinha feito!!|Neto sobre jogador de Winning Eleven errando Gol de letra do meio de campo}}
+{{C|DÁ "CARRIN" NÃO, MÁ!|Cearense jogando '''Winning Eleven'''}}
+{{C|[[Arquivo:Tapanomá.png]]|[[Cearense Jogando Winning Eleven]]|{{PAGENAME}}}}
+{{C|E quando sair o Winnig Eleven 11? Vai ser Winning Eleven Eleven?|irmão chato que acabou de aprender a contar em inglês|Winning Eleven}}
+{{C|Ai meu Deus, escanteio!!!|[[Você]] jogando [[Master League|ML]], reclamando que preferia que o juíz tivesse marcado pênalti.}} 
+{{C|Quando eu ia fazer o Gol!|[[Você]] mentindo quando o jogo acaba e você estava com a bola no Winning Eleven}}
+{{C|Eles ainda buscam o empate!|[[Narrador]] da versão Brazukas|quando o jogo está 99 a 0 e faltando 20 segundos pra acabar}} 
+{{C|O jogo está para acabar, falta pouco tempo!|Éder Luiz|Winning Eleven Brazukas 08, aos 12 do primeiro tempo}}
+{{C|Eles perderam um chute a gol... O jogo segue indefinido!|Nivaldo Pietro|Winning Eleven Brazukas Reload, com o jogo estando 99x0 aos 45 minutos do segundo tempo}}
+{{C|Mais eu sou narrador do FIFA!!!|Nivaldo Pietro|reclamando que ele é do FIFA}}
+{{C|Foda-se!|Criador do WE Brazukas Reload| sobre reclamação acima}}
+{{C|Eu fiz um golaço! Só que não deu pra salvar porque não tinha espaço no memory card!|Seu amigo mentiroso|Winning Eleven}}
+{{C|Agora eu vou jogar sério!|Você quando tá apanhando|Winning Eleven}}
+{{C|Ahhh...tava com cisco no olho...|Você depois de peder um penalti}}
+{{C|Com certeza é o melhor jogo de corrida do Atari.|Carla Perez|Winning Eleven}}
+{{C|Pô, eu nem apertei pra ele dar o carrinho e fiz o pênalti.|Você mentindo|Winning Eleven}}
+{{C|Eu faço isso de verdade!|Ronaldinho Gaúcho|Winning Eleven}}
+{{C|Qual o botão que chuta?|Noob|Winning Eleven}}
+{{C|Uma porcaria, muito fácil de jogar.|[[Ciro Bottini]]|Winning Eleven}}
+{{C|Tambem Acho.|AAA|Citação acima}}
+{{C| Deixei você ganhar...|Você|perder para o seu primo de 10 anos jogando com o [[Manchester United]]}}
+{{C|Não gosto desse jogo, odeio futebol.|Nerd|Winning Eleven}}
+{{C|よいお年をよいお年をよいお年を!...|[[Jon Kabira|Narrador Japonês]]|Winning Eleven}}
+{{C|あなたのお母さんぶっかけのお尻にファックルに変換します(use o google tradutor em japônes|[[Jon Kabira|Narrador Japonês]]|Winning Eleven}}
+{{C|><" Sugoi!! XDXDXD!!|Otaku|comentário acima}}
+{{C|[[Arquivo:Persona3 Minato Evoker.png]]|Minato Arisato|Winning Eleven}}
+{{C|Na União Soviética, o Winning Eleven joga '''VOCÊ!!!'''|[[Reversal Russa]]|Winning Eleven}}
+{{C|Não precisa ficar apertando o R1 pra correr?|Jogador de FIFA|Winning Eleven}}
+{{C|Quando vem o Winning Twelve?|A mãe desenfomada tentando puxar assunto com você na festa|Winning Eleven}}
+{{C|A gente sempre joga depois do expediente.|Um dos produtores de Fifa Soccer|Winning Eleven}}
+{{C|Vai chutar ovo na ilha!|Narrador|chute de [[Roberto Carlos]]}}
+{{C|Eu não editei nenhum jogador|Você mentindo|Winning Eleven}}
+{{C|Winning Eleven é o melhor porque tem [[13]] letras.|Zagallo|Winning Eleven}}
+{{C|Pai, me dá dinheiro pra comprar o Winning Eleven 341?|Piazinho muito loko de gole|Winning Eleven}}
+{{C|Não gosto do PES 2008. O Winning Eleven é bem melhor. Aquilo sim é que é jogo.|Retardado|Winning Eleven}} 
+{{C|PES 2008 é o melhor game da história e... O que? o Internacional é o único time brasileiro no PES 2008? Então, como eu ia dizendo, PES 2008 é um jogo horrível, muito ruim. FIFA 08 é muito melhor.|Puto Gremista|PES 2008}}
+{{C|Já zerei, entende?|Pelé|Winning Eleven}}
+{{C|Só não zerei porque me aposentei antes.|Allejo|Winning Eleven}}
+{{C|Eu já zerei... 287 vezes... no mesmo dia.|AAA|Winning Eleven}}
+{{C|O [[Futbol Club Barcelona|Barça]] é meu ouviu? MEUUUUUUU!!|Menino que vai jogar Winning Eleven|Barcelona}}
+{{C|Vai sonhando...|Ronaldinho Gaúcho|comentário acima}}
+{{C|Eu meti a bola no ângulo e a torcida adversária começou a chorar!|Você mentindo|falta cobrada no Winning Eleven}}
+{{C|GOOOOOOL!!!|Narrador da versão Brazukas|quando uma falta é feita}}
+{{C|Mais um pouquinho e ele quebrava o placar do estádio!|Narrador da versão Brazukas|sobre um chute rasteiro que você deu}}
+{{C|Argentina, Argentina!|Narrador do Winning Eleven 5|vitória do Brasil}}
+{{C|Esse cara é um brincalhão!|Neto|juíz do Winning Eleven}}
+{{C|Não vale olhar meu controle!|Você antes de cobrar o pênalti}}
+{{C|CAGÃÃÃÃÃOOOOOOOO!|Seu amigo pato|Winning Eleven}}
+{{C|Olha ae o xerifão uruguaio, [[Diego Lugano]]!| Narrador do Brazukas sobre [[Kaká]]}}
+{{C|Etxeberrría!!!|Narrador do [[Brazukas Forever]]|qualquer jogador do jogo}}
+{{C|Eles poderiam jogar sempre assim, mas esperam tomar um gol para começar a reagir. E esse gol levantou a galera!!|Narrador do Winning Eleven 2003 depois de você abrir o placar.}}
+{{C|O Ronaldinho não vale!!!|Ronaldinho Gaúcho|Winning Eleven}}
+{{C|VAI TOMAR NO CU!!!|Você depois de levar gol nos acréscimos}}
+{{C|Nossa!! Que chute fraquinho!! Assim vai machucar o goleiro!|Narrador depois de você dar um chute com o Adriano}}
+{{C|We're gonna play football (soccer!) football (soccer!) football (soccer!) all around the world...|Um punk britânico discutindo com um gringo|{{PAGENAME}}}}
+{{C|Óia como eu sô bom!!!!|Wright-Phillips vendo como é rápido no Winning Eleven|Winning Eleven}}
+{{C|QUE DEFESA INCRIVEL!!!!|Nivaldo Prieto sobre recuo do zagueiro e bico pra frente do goleiro}}<!--essa é uma das músicas do WE2008-->
+{{C|ETXEBERRÍA !!!!!! |Nivaldo Prieto narrando quando o Ribery encosta na bola}}
+{{C|BRAHMA refresca até pensamento|propagandista da Globo|Brazukas 2008}}
+{{C|VIVO, Recarga MUITO MUITO MUITO MUITO (X54)<s>Morto</s> Vivo|propagandista da Globo|Brazukas 2009}}
+{{C|Rematar a Gol!|Inscrição de faixa presente em TODAS as torcidas de TODAS as edições do WE}}
+{{C|Who ate all the pies?|Outra inscrição de faixa de todos os WE}}
+{{C|Importante esse resultado, esse placar de 1x0|Galvão Bueno|Jogo que está 2 a 0}}
+{{C|Rivaldo|[[Narrador]] sobre qualquer jogador do '''Winning Eleven'''}}
+{{C|Nossa como sou rápido|Zagueiro do Numância admirado com sua performance no '''Winning Eleven'''}}
+{{C|Que Papo é esse Willis ???|Arnold|Brazukas 2009}}
+{{C|Mais um pouco e ele quebra o placar do Estádio|Nivaldo Prieto|Chute na trave}}
+{{C|Defendeu o Goleiro!|Narrador falando sobre a roubada de bola do volante}}
+{{C|Olha o Messi...ele é esperto! ele é esperto, amigo|Galvão Bueno, toda vez q o messi toca na bola no brazucas}}
+{{C|Caramba,a torcida é de papel como os câmeras...|Noob sobre torcida do Winning Eleven}}
+{{C|E acaba o jogo...|Galvão Bueno quando o jogo começa}}
+{{C|Quem é o padrinho desse ai? HA! quem é o padrinho desse ai?|Narrador do Bomba Patch, toda a vez que Beckham toca na bola sobre o Winning Eleven}}
+{{C|Porra! Tá de sacanagem. Puta que pariu que jogo mentiroso!|Você quando leva um gol mesmo depois de Ronaldinho atravessar o carrinho de 3 zagueiros do seu time.}}
+{{C|Goooooooooooool...|Narrador sobre saída para cobrança de lateral.}}
+{{C|Não tem goleiro aí não?|Você depois de tomar um gol do meio de campo do seu irmão menor.}}
+{{C|Caralho, porra, que bela merda!!|Você depois de tomar 5 gols no jogo nível iniciante.}}
+{{C|É lateral|Narrador do WE após uma cobrança de pênalti na trave}}
+{{C|Os bahianos são especiais por fa...|Bahiano Noob errando o site em que devia entrar e escrevendo merda}}
+}}
+
+'''Pro Evolution Soccer 6''', consagrado no Brasil sob o título de '''Winning Eleven 10''', é o jogo com a maior quantidade de capas alternativas do mundo, usando desde o [[Zico]] até mulheres gostosas, disparadamente o jogo mais pirateado de todos os tempos para o [[PlayStation 2]], sendo considerado que aquele que nunca jogou um Winning Eleven 10 pirateado é porque não teve infância nos anos 2000.
+
+== História ==
+Na época em que a <s>Cunami</s> Konami estava quase indo à falência com seus jogos de terror que perdiam feio para a franquia [[Resident Evil]] (ano de 1996 até os dias atuais), a empresa decidiu que deveria se arriscar no ramo dos jogos <s>sem graça</s> esportivos. Assim lançaram o '''Winning Eleven''' - Onze Vencedores -, uma série de joguitos eletrônicos que devem sua celebridade ao chamado "surrealismo" no futebol. Exemplos disso é que nas edições 6,7,8,9 e 10, na [[Seleção Brasileira de Futebol|seleção brasileira]], [[Ronaldo Luis Nazário de Lima|Ronaldo]] faz gols de cabeça e corre com velocidade acima de 14 km/h e Lúcio não entrega a bola para o atacante adversário quando você mais precisa dele (!).
+
+Isso e muitos outros fatores contribuíram para a franquia acumular compradores e fanáticos (a maior parte deles jogadores da realidade, que se sentem pela primeira vez profissionais de verdade quando veem seu desempenho no jogo). A franquia começava a prometer cada vez mais <s>disparates</s> novidades a cada lançamento, garantindo consumidores e a sobrevivência da Konami.
+
+Após uma série de anos de árduo trabalho imaginativo, apartados desta realidade para dimensões psíquicas jamais outrora especuladas, a empresa Konami começou finalmente a ganhar seu [[Dinheiro|dinheiro japonês]] suado: Winning Eleven é sem sombra de dúvida o único jogo da produtora que traz lucro considerável, entre 60 a 69 ienes por dia(segundo a inflação de janeiro de 2011) -- aproximadamente o preço de um [[Mclanche Feliz]]- em 2006 em território canadense, deixando ironicamente para trás os lucros relativos a jogos de qualidade muito superior, como o tão ignorado Silent Hill, para não mencionar o jogo que simplesmente serviu de plágio para toda a (infame) série Resident Evil: Parasite Eve. 
+
+Infelizmente para a Konami, no entanto, chegaram os jogos [[FIFA]], copiando Winning Eleven em todos os aspectos alucinógenos, acentuando-os com controles <s>extraordinariamente imbecis</s> acima de qualquer suspeita: inovadores. Assim, a franquia [[FIFA]] acabou tornando-se uma rival de peso, ainda mais porque não dispõe da gritaria enfadonha dos comentaristas japoneses própria aos jogos sem graça (esportivos) da Konami.
+
+Ainda para piorar a situação da Konami, sua legião de fãs do chamado surrealismo futebolês (que se concentram principalmente no [[Brasil]], [[Argentina]] e na [[Bolívia]]) compram edições piratas da mesma e a empresa não ganha mais o que deveria ganhar. Em conclusão, portanto, é apenas questão de tempo para a franquia Winning Eleven não mais existir. Talvez acabe antes mesmo do tão esperado lançamento: "Winning Eleven Eleventh Edition", que prometeria coisas incríveis, como [[Ronaldinho Gaúcho]] ser chamado de '''belo''' pela torcida e gritos como "Lúcio é o nosso salvador", entre outras impossibilidades da vida real.
+[[Arquivo:Bola dividida.jpg|thumb|right|200px|Ganhe mais pontos mutilando o adversário.]]
+
+== Fatos ==
+
+*'''Winning Eleven''', Wing Eleve, Uíni Elévi ou "11 Vencedores" '''e um perdedor: você''' perdendo seu tempo em um [[jogo|game]] em que se pode até mesmo criar um time. Sem sombra de dúvidas, é o jogo mais '''mentiroso''' que existe, já que nele [[Cristiano Ronaldo]] não é apenas um '''fresco''' se jogando por qualquer coisa para cavar faltas.
+
+* Winning Eleven foi jogado pelos jogadores da [[seleção brasileira]] no [[hotel]] na [[Alemanha]], provavelmente o [[Parreira]] deve ter ficado puto quando viu que no jogo, sem técnico nenhum, o Brasil é mil vezes melhor que na [[Derrota da Seleção em 2006|vida real]].açofjçpiuhlk
+
+* Estão para lançar um novo jogo da série, conhecido como: [[Losing Eleven - Mazembaixo Edition - Mundial 2010]], é a versão mais realista da série.
+
+* Quem é [[emo]] ama ver os replays dos gols com a câmera centrada nas coxas dos jogadores.
+
+* Existe uma bola no jogo que é a bola da [[Copa do Mundo]], mas estranhamente, existe uma versão LARANJA da bola, cujo o nome diz claramente: [[Adidas]] FINALE.
+
+* O [[Ronaldinho Gaúcho]], no Winning Eleven, está sempre com cara de bravo, afinal, lá ele não tem nem um puto patrocínio, que não seja da [[Nike]].
+
+* Quem é weeaboo adora Winning Eleven só gosta de ouvir narrador fala em japonês além de ter o japao como time no jogo.
+
+* Na [[Bomba Patch|Master League]] é mais perigoso tomar gol de escanteio do que de bunda
+
+* O pênalti você ainda tem uma chance de pegar.
+
+*[[Você]] pode fazer o time inteiro editado que ganhar da [[menina fantasma do corredor]] que você perde de 8X0.
+
+*[[Eu]] ganhei da [[menina-fantasma-do-corredor]]!
+
+== Absurdos no jogo original ==
+[[Arquivo:Luís Fabiano.jpg|thumb|right|Seu jogador comemorando mais um gol contra ]]
+{{Compactar|
+* A barra de ataque do player nunca fica vermelha, só a do computador;
+*O Loco Abreu não bate pênalti de cavadinha;
+* Chutar com o [[Adriano]] de qualquer lugar do campo é gol na certa;
+* Até hoje o [[Romario]] e o [[Ronaldo Nazarrio de Lima]] não se aposentaram;
+* A bola nunca acerta o juiz, mas ele sempre da um jeito para fazer o SEU jogador tropeçar e perder a jogada toda;
+* Quando o jogador corre ele obrigatoriamente tem que ficar adiantando a bola 15 metros a cada toque nela;
+* O estádio do Inter-PoA é bom e está inteiro;
+* Gol olímpico é mais fácil que gol de falta;
+* O [[Henry]] não domina a bola com a mão;
+* O Computador nunca levará cartão vermelho e você sempre irá levar, mesmo sem fazer falta alguma;
+* [[Lionel Messi|Messi]] corre pelo campo inteiro em 30 segundos driblando todos (mas também, claro, naquele tempo ele tinha 19 anos), faz gols impossibilitados pelas leis naturais da física e nunca está impedido;
+* [[Messi]] é mais rápido que [[Usain Bolt]];
+* Mesmo seu time estando há um ano sem ganhar, só levando goleada, o estádio estará sempre cheio. Mas isso mudou no PES 2009: agora, mesmo se seu time estiver ganhando todas, só goleando, o estádio estará sempre vazio;
+* Faltas e escanteios para o computador significa a sua derrota, pois sempre há de sair gol nessas situações;
+*[[Obina]] certamente é melhor que [[Samuel Eto'o|Eto'o]];
+* A torcida do [[Coritiba]] não destrói o estádio após serem rebaixados (só é absurdo por quer o Coritiba não esta na versão original, NÃO disputa a [[Libertadores]] e nessa competição não existe rebaixamento);;
+* O [[Castolo]] e o [[Minanda]] da Master League são melhores que o [[Pelé]];
+* Você Pode criar um jogador de nível perfeito e pode botá-lo no [[Manchester United]];
+* Embora a Seleção Brasileira seja a que tem mais títulos, sua seleção clássica no [[Pro Evolution Soccer 2008|PES 2008]] é pior que todas as outras;
+* [[Ronaldinho]] usa todo o seu potencial e joga bonito no Brasil;
+* Mesmo com o gol livre, o atacante chuta na direção do goleiro que se encontra na outra trave;
+* O goleiro sempre reclama da defesa após um gol, mesmo que este tenha sido um gol contra do próprio goleiro(Também ocorre na realidade);
+* O narrador poucas vezes está bêbado, muito diferente da realidade;
+* A torcida só torce para o player 2;
+* Não existe erros de impedimento, o bandeira é um [[robô]];
+* Se você der um chute depois do meio de campo e entrar no gol, o juiz marca tiro de meta;
+* Se você contratar o [[Jonathan de Guzman]] para o seu time na Liga Master, ele vai ficar mais [[Gay|craque]] que o [[Cristiano Ronaldo]];
+* Tem um tal de [[Júnior (Porto)|Júnior]] no [[Porto]] que tem overall 81 com 16 anos, imagine com 25 anos (isso no Winning Eleven 2010).
+* [[Cristiano Ronaldo]] é o melhor jogador do game;
+* O Marília pode ir para a UEFA Champions League e ser campeão na Master;
+* O juiz marca falta contra você até mesmo se você tiver a posse de bola;
+* O pior zagueiro de qualquer time (até do [[Willem II]]) ganha do [[Cristiano Ronaldo]] numa corrida (só se você estiver jogando com o Esnobaldo) na ML
+* O pior atacante de qualquer time (até do Willem II) ganha do [[Fabio Cannavaro|Cannavaro]] numa corrida (só se você estiver jogando com o Cana) na ML
+* O [[Edmundo]] acerta pênaltis;
+* O [[Andriy Shevchenko|Shevchenko]] acerta pênaltis;
+* O [[Martín Palermo|Palermo]] acerta pênaltis;
+* O Vágner Love acerta pênaltis;
+* O [[Lampard]] acerta pênaltis;
+* O [[Dodô]] acerta pênaltis;
+* O [[Palmeiras]] acerta pênaltis;
+* O [[Neymar]] não faz gracinha em pênaltis e consegue acertá-los;
+* Se você substituir o [[Neymar]] no meio do jogo você é demitido e sua cpu explode; 
+* O [[Felipe Melo]] dá umas de suas voadoras e não é expulso;
+* Não tem gandula;
+* O Corinthians ganha a Libertadores <s>(se é que existe alguma Libertadores no PES)</s> agora existe;
+* Qualquer time pode disputar qualquer campeonato;
+* As torcidas nunca fazem briga no lado de fora do estádio;
+* O [[Ruud van Nistelrooy|Van Nistelrooy]] perde pênalti e sempre leva cartão vermelho;
+* O [[Romário]] volta para buscar a bola na intermediária;
+* Não tinha o pano de faxineira que [[Ronaldinho Gaúcho]] usou pra fazer propaganda da [[Nike]] na copa. A partir do PES [[2008]], a Konami leu a [[Desciclopédia]] e adicionou o pano de faxineira, mas sem o patrocínio da [[Nike]])
+* Não dá pra comprar juiz;
+* O juiz '''NUNCA''' marca pênaltis cometidos pelo goleiro;
+* A afirmação acima está incorreta...NOT;
+* O [[Ronaldinho Gaúcho]] corre mais do que qualquer outro jogador. Corre quase a mesma coisa que o [[Samuel Eto'o|Eto'o]] (mas no regular, qualquer zagueiro de time de várzea corre mais que você, e isso não é uma [[Reversal Russa]]);
+* 90% das bolas que vão até o Buffon ele agarra, as outras 10% ele pega(isso também acontece na vida real);
+* A [[Seleção Brasileira]] vence a Seleção Francesa;
+* A Seleção Brasileira vence a Seleção [[Noruega|Norueguesa]] (para quem não sabe, na vida real a [[Noruega]] foi a única seleção que jogou contra o [[Brasil]] mais de uma vez e nunca perdeu);
+* O [[Ronaldo Luis Nazário de Lima|Ronaldo]] sabe fazer gol de cabeça;
+* Os jogadores [[Gennaro Gattuso|Gattuso]] e [[Carles Puyol|Puyol]] possuem uma habilidade extra chamada "dar porrada nos adversários sem cometer falta": nessa habilidade, Puyol possui 99 pontos, e Gattuso, 103;
+* O [[Roberto Carlos da Silva|Roberto Carlos]] não faz propaganda de suas meias no jogo;
+* A [[CBF]] não ajuda o [[São Paulo Futebol Clube|São Paulo]], nem o [[Corinthians]];
+* [[Bruno do Flamengo|Bruno]], o apóstolo do [[Flamengo|Flamerda]], pega pênalti sem se adiantar;
+* [[Ronaldinho Gaúcho]] joga bem na Seleção Brasileira;
+* O [[Cafu]] acerta cruzamentos;
+* [[Romário]] chega facilmente ao gol 1000 (Há suspeitas de que metade de seus 1000 gols são do Winning Eleven);
+* [[Cristiano Ronaldo]] chuta melhor que o [[Wayne Rooney]], mesmo com status menor;
+* [[Dunga]] não usa camisas estilo "Agostinho Carrara" feitas por sua filha (até porque ele nem aparece);
+* [[Cristiano Ronaldo]] possui cola nas chuteiras e ninguém consegue tirar a bola dele;
+* O torcedor não invade o campo pra quebrar os jogadores quando o time tá perdendo de 5 a 0;
+* O [[Ronaldo Luis Nazário de Lima|Ronaldo]] "Fenômeno" volta para fazer marcação na zaga;
+* Sempre tem a foto do [[David Beckham|Beckham]] careca na bandeira das torcidas;
+* Não se pode fazer parcerias com Fundos de Investimento do [[Oriente Médio]];
+* Não interditam seu estádio sem motivo para prejudicar sua equipe;
+* É necessário marcar o [[Ronaldo Luis Nazário de Lima|Ronaldo]];
+* Os jogadores de times brasileiros são muitos ruins, só melhoram quando vão para a [[Europa]] jogar em um time de destaque;
+* A bola demora [[Mol|6.10²³]] minutos pra cair depois de chutada;
+* O [[Thierry Henry|Henry]] passa por dentro dos corpos de outros jogadores;
+* Se [[você]] apertar R1, o Henry consegue em um único lance levar a bola de um gol a outro;
+* Nas cobranças de falta, os jogadores da barreira diminuem de tamanho e pulam mesmo se o cobrador da falta toca a bola para o jogador ao lado;
+* 90% dos chutes do Henry vão no ângulo. Os outros 10% vão no cantinho;
+* [[Cristiano Ronaldo]] corre reto e mesmo assim não dá pra roubar a bola dele;
+* Jogadores, quando lesionados, vão para a beira do gramado acompanhar a partida;
+* Buffon tem molas na chuteira;
+* [[Arsenal]] é melhor do que [[Manchester United]];
+* Quando se enfrenta um time de grande porte em um campeonato, os seus jogadores ficam mais lentos;
+* Não tem bandeirinha mulher nem juiz [[gay|viado]];
+* [[Rooney]], [[Adriano]], [[Henry]] e [[Ibrahimovic]] nunca caem;
+* [[Rooney]] parece uma pessoa normal;
+* Quando a equipe sofre um gol, todos os zagueiros reclamam de impedimento, mesmo que o [[Gol (futebol)|gol]] tenha sido de pênalti;
+* O [[Ronaldo Luis Nazário de Lima|Ronaldo]] corre atrás da bola;
+* Cristiano Ronaldo não pipoca quando joga contra time grande;
+* Ninguém morre entre torcida, jogador, juiz, gandula e repórter (apesar de haver relatos de jogadores morrendo no [[YouTube]]);
+* [[Shawn Wright-Phillips|Wright-Phillips]] corre mais que a velocidade da luz;
+* O juiz não erra impedimentos;
+* O Schalke 04 ganha de 8 a 0 do Bayern de Munique;
+* O Juventude não é humilhado na final do Gaúchão contra o Inter;
+* O juiz dá vantagem em pênalti;
+* O bandeirinha só aparece nos vídeos;
+* O [[Pelé]] é melhor que o [[Maradona]];
+* Um [[jogador]] qualquer com 50 em todos os status é melhor que o [[Pelé]];
+* O juiz só marca pênaltis para o computador;
+* O juiz não dá cartão para os jogadores do Player 2;
+* O [[Cristiano Ronaldo]] não fica procurando a câmera; 
+* O tempo de resposta do bandeirinha ao impedimento é de 23,9s;
+* O Messi é capaz de driblar os dois times no campo em apenas 30 segundos de partida;
+* O [[Andrea Pirlo|Pirlo]] e o [[Noruega|norueguês]] [[Morten Gamst Pedersen|Pedersen]] podem cobrar um tiro livre de calcanhar e a bola vai no ângulo;
+* O [[Ronaldo Luis Nazário de Lima|Ronaldo]] pode chutar de costas para o gol e a bola vai no ângulo;
+* Todos os jogadores vão pra cima de Adriano sem medo e ainda roubam a bola;
+* O juiz de fato ODEIA o Player 1;
+* Os criadores do jogo pegam as caras dos jogadores estrangeiros e botam na dos jogadores brasileiros;
+* Alguns jogadores brasileiros têm o gráfico melhor do que alguns jogadores do [[FC Barcelona|Barcelona]], [[Liverpool Football Club|Liverpool]], [[Chelsea]], [[Real Madrid]] e esses times grandes (mas esse só vale para aquele seu jogo pirata);
+* Alguns jogadores brasileiros não se parecem nem um pouco com os de verdade (fato, os japoneses têm inveja de nosso super times, que geralmente perdem na final do Mundial);
+* O [[Romário]] corre rápido;
+* Nunca é falta por tocar na bola com a [[mão]];
+* Aliás, nunca tem mão na bola com a bola longe da área, só quando, sem querer, seu jogador toca com a mão na bola dentro da área e faz gol;
+* Mas o Maradona é mesmo melhor que o [[Pelé]] (fora do jogo);
+* O Ronaldinho Gaúcho é mais feio do que na vida real;
+* No nível 5 (ou 6) estrelas os zagueiros com speed 53 pegam os atacantes com speed 99 editado na corrida;
+* Mesmo se o goleiro estiver encostado na trave, o Obina chuta chuta em cima dele;
+* A torcida não sai no meio do jogo;
+* No modo Rumo ao Estrelato, Diego ex-Flamengo é titular absoluto da seleção Brasileira;
+* Os juízes e os bandeirinhas são os mesmos a cada jogo;
+* <s>Sempre</s> De vez em quando, quando o adversário chuta pro gol e a bola vai na rede pelo lado de fora, o juiz dá gol;
+* Jogadores que levam chute na cara não desmaiam;
+* Jogadores não tem pênis (Tente dar um bicudão e mire entre as pernas deles para provar o que eu disse);
+* O [[Guiñazu]] não bate nas gazelas do [[Palmeiras]]
+* [[Zlatan Ibrahimovic|Ibrahimovic]] derruba todos os adversários (sempre com o nariz);
+* [[Adriano]] derruba todos os adversários;
+* Se um jogador chegar a menos de um metro do [[Robinho]], ele cai... Opa, isso ocorre na vida real também!;
+* O [[Noruega|norueguês]] [[John Carew|Carew]] dá um pulo de oito metros e cabeceia todos os cruzamentos;
+* Ibrahimovic [[negativismo|não]] perde a bola;
+* O Jonas do Valencia é o mestre fodão;
+* Qualquer time sul-americano pode ganhar do [[Boca Juniors]] em [[La Bombonera]];
+* Os times grandes/médios como [[Milan]], [[Chelsea]], [[Real Madrid]], [[Barcelona]], etc... perdem pra times fracos;
+* Todo time pequeno sem nenhum jogador famoso (leia-se equipes como [[Derby County]], [[Middlesborough]], [[Real Club Deportivo Mallorca|Mallorca]] e lá vai pedrada) tendem a fazer a melhor partida de suas vidas se encontrarem você em um mata-mata. Jogadores do calibre de [[Andy Cole]] vão parecer ter 321 de top speed e goleiros da laia de [[Shay Given|Given]] do [[Newcastle United Football Club|Newcastle]] podem pegar até 12 pênaltis por partida;
+* Ronaldo não pega traveco;
+* Os jogadores reservas só aparecem na hora da substituição;
+* o deivid do [[clube regatas flamengo|flamengo]faz gol bonito.
+* Ronaldinho Gaúcho]] dribla melhor do que [[Zinedine Zidane]]
+* O [[Michael Ballack|Ballack]] consegue segurar a bola por 10 segundos seguidos;
+* O [[Noruega|norueguês]] [[John Arne Riise|Riise]] possui um chute mais poderoso que um míssil [[Tomahawk]] (mas isso é quase verdade na vida real);
+* O [[Michael Ballack|Ballack]] chuta no gol;
+* O [[Guiñazu]] chuta a gol, e faz gol;
+* Você domina o jogo, chuta a bola na trave, e num lance isolado, o time adversário faz o gol;
+* Kaká é melhor que [[Lionel Messi|Messi]] e [[Cristiano Ronaldo]] (e nunca está contundido);
+* Ao tentar dominar uma bola no peito, você corre o risco de ser varado pela cabeça do zagueiro;
+* Jogadores como o Ibrahimovic, Cristiano Ronaldo e Ronaldinho Gaúcho podem ficar andando em linha reta que qualquer jogador não consegue pegar a bola deles;
+* Quando a bola está com o Cristiano Ronaldo (correndo), entra uma trilha sonora 'pan pan pan, pan pan pan, pan pan pan, pan pan pan...';
+* Cristiano Ronaldo parece homem;
+* O [[Souza]] faz gol. Bom... acho que nem no Winning Eleven;
+* O único que faz gol de falta é Ibrahimovic por que seu nariz desvia a atenção do goleiro;
+* O Allan Kardec faz gol com os pés;
+* O Amaral é um jogador de futebol;
+* [[Lampard]] é melhor do que [[Gerrard]];
+* O [[Corinthians]] tem sempre a melhor equipe do [[Brasil]] (também só vale para aquele seu jogo pirata...)
+* No replay, todos os chutes vagabundos passam perto do ângulo;
+* Na Master League o Chelsea compra C. Ronaldo e o Twente compra o Robinho;
+* O [[Kaká]] e o [[David Beckham]] marcam gols de tudo quanto é lugar do campo;
+* Não adianta dar carrinho, soco, pontapé no Robinho pois este nunca se machuca;
+* Jogadores como o Ronaldinho, Cristiano Ronaldo mesmo '''machucados''' são capazes de driblar todos jogadores do time adversário;
+* Quando um jogador chuta de perto e marca um gol, ele atravessa a rede para comemorar;
+* Qualquer gol que você faz e toca no goleiro antes de entrar é gol contra do goleiro;
+* O jogador que marca um gol, com o seu time perdendo de 3 a 0, sai comemorando normalmente e nem liga para o tempo que isso leve, mas, se ele faz o gol 3 a 2, ele pega bola e sai correndo para o meio de campo;
+* Numa cobrança de falta, o único jogador da barreira que não pula é aquele que tinha chances de tirar a bola de cabeça;
+* O Grêmio precisa de 11 jogadores para vencer o Náutico;
+* A Geral do Grêmio não invade o Beira-Rio, não queima banheiros químicos e não bate na torcida colorada;
+* Grandes torcidas brasileiras quase não cantam;
+* A torcida usa uniformes diferentes, só combinando a cor principal do uniforme que seu time está usando naquela partida.
+* Por sinal, quando seu time joga com o uniforme reserva, todos os torcedores usando a camisa do time estão usando a camisa reserva;
+* Todos os chutes do Ballack vão para o ângulo, e as bolas rasteiras desviam de alguma maneira da mão do goleiro
+* E o [[Corinthians]] consegue achar a taça da Libertadores de 2000 (só pra reforçar a piadinha manjada e que já foi feita em todos os artigos da [[Desciclopédia]], inclusive neste, mais acima na lista). 
+* Os técnicos nunca aparecem.
+* Não dá pra pôr a mão na bola.
+* Obina corre rápido e não pesa 136kg.
+* Não dá pra xingar o juiz.
+* Não dá pra cuspir na cara de um jogador.
+* O [[Corinthians]] vence o [[Palmeiras]](só é absurdo por quer o palmeiras não esta na versão original,NÃO disputa a [[Libertadores]]);
+* O [[São Paulo]] vence o [[Corinthians]];
+* O [[Palmeiras]] vence o [[São Paulo]](só é absurdo por quer o palmeiras não esta na versão original,NÃO disputa a [[Libertadores]]);
+* O [[Santos]] vence todos os times da capital(só é absurdo por quer o palmeiras não esta na versão original,NÃO disputa a [[Libertadores]]);
+* O [[Botafogo]] vence o [[Flamengo]](só é absurdo por quer o botafogo não esta na versão original,NÃO disputa a [[Libertadores]]);;
+* Qualquer um consegue com muita facilidade roubar a bola do Cristiano Ronaldo e do Kaká.
+* Quando o [[CPU]] ataca no fim do jogo o juiz nunca acaba a partida (é sério! Experimente ficar enrolando na sua área durante os acréscimos e comprove);
+* Quando você pega a bola no final do jogo o juiz imediatamente acaba a partida;
+* Vá até a linha de fundo e corte pra trás. Não fica ninguém na sua frente, até o Souza (às vezes) faz gol assim (mas só funciona até o 2007);
+* Não tem vendedores ambulantes nos estádios;
+* O Ronaldo corre para pegar a bola
+* o Douglas corre para pegar a bola;
+* [[Flamengo]] é uma bosta. Não me refiro ao jogo.
+* Os jogadores não levam cartão amarelo quando tiram a camisa (nem essa comemoração existe no jogo);
+* O Stam dá medo;
+* Você pode comprar o Totti na Master League jogando com a Lazio.
+* O Forlán não tira a camisa quando faz um gol;
+* Na Master League você pode estar com os melhores jogadores do jogo que vai ganhar de 1x0 de um time podre no último minuto de jogo com um gol chorado;
+* O Batistuta chuta a bola de fora do estádio e ela entra no gol;
+* O Henry, mesmo machucado, corre mais que qualquer zagueiro e, de quebra, consegue fazer gol de cabeça.
+* Você pode ter os melhores jogadores do mundo no seu time da Master League, ganhar de 5x0 todos os jogos, mas se oferecer milhões por uma revelação de qualquer timinho do tipo FC Kopenhagen, Helsinki, Gotenborg FC, não conseguirá contratá-lo.
+* É o único jogo que utiliza pontos (???) como moeda corrente. Corrigido a partir do 2010.
+* Marcão, ex-Palmeiras, não se acha o [[Franz Beckenbauer|Beckenbauer]];
+* O Richarlyson joga igual homem;
+* O Richarlyson é homem;
+* Seu goleiro NUNCA faz milagre, já o da CPU SEMPRE faz! Em média, 36 por jogo;
+* As vezes o atacante adversário fica meio enroscado com seu zagueiro. A bola sempre sobra para a CPU e quando isso acontece, a única forma de pará-lo é fazendo falta;
+* No penaltis a bola as vezes vai no ângulo, e o pior, as vezes essas bolas o goleiro pega!
+* O juiz dá falta no lance às vezes depois que você passa a bola;
+* O Rogerio Ceni é melhor que o Júlio César e consegue saltar mais que 15cm do chão
+* No PLAY 1  o Obina é branco e o Samuel da INTER é preto;
+* o Victor não faz defesas impossíveis;
+* O [[La Bombonera|estádio do Boca Juniors]] sempre está cheio de fitas e outros troços jogados pelos torcedores;
+* O Riquelme é preto;
+* Usa nomes toscos e ridículos como London FC para os times que não são licenciados;
+* Martins é o capeta preto;
+* Val Baiano é melhor que Adriano;
+* O Inter-RS não chora quando perde para o Corinthians;
+* O futebol brasileiro não é comandado pela Globo;
+* Se a CPU começar a fazer cera, é impossível para o ser humano, recuperar a bola;
+* O goleiro Bruno do Flamengo está em liberdade e nunca matou ninguém;
+* Quando está perdendo de 6x0, A PORRA DA CPU SEMPRE FAZ CERA;
+* Você não pode encher a barra de chute no máximo porque sempre vai mandar a bola na Lua;
+* Mesmo que o goleiro do seu adversário seja o 4º reserva com 65 de habilidade, ele vai pegar tudo e fazer milagres;
+* Já o seu, mesmo que seja o Buffon ou o Cech, vai tomar muitos gols e dar rebote SEMPRE;
+* Na Master League, é mais fácil vencer do Real Madrid e do Manchester United do que vencer de times como Almeria e Bologna;
+* Os seus jogadores têm a atenção de uma criança de 3 anos, de modo que muitas vezes a bola bate neles e eles sequer percebem;
+* Quando o CPU vem para o ataque e está impedido, o juiz espera você puxar o contra-ataque e ficar livre para poder marcar o impedimento do lance anterior;
+* Chirne, Gambino e Bonnet são bem melhores que Cristiano Ronaldo, Messi e Kaká. (ver. 2009)
+* Quando o você cruza, a CPU vai afastar, a defesa se atrapalha e um deles marca gol contra, o gol é dado pra quem cruzou;
+* Qualquer jogador reserva de um time de 2ª divisão pode ir para a Seleção do Brasil, Espanha ou Inglaterra;
+* Se a CPU decidiu que você não vai vencer o jogo, VOCÊ NÃO VAI VENCER O JOGO!
+* A CPU afasta a bola de dentro da área no desespero e sempre consegue ligar o contra-ataque;
+* Algumas vezes você enche menos de 1/100 da barra de chute, mas mesmo assim seu jogador bate de peito de pé e manda por cima do travessão;
+* Você consegue saber se o jogador vai estar ou não em um bom dia antes mesmo do jogo começar;
+* O Robben se machuca até mesmo se o vento bater um pouco mais forte;
+* O Ronaldinho Gaucho sempre esta feliz.
+* É IMPOSSÍVEL fazer retranca, pois seus jogadores vão sempre subir para o ataque e algum zagueiro ou lateral vai sair da posição e acabar entregando um gol;
+* Os goleiros decolam durante os penaltis, de modo que saltam mais alto que o travessão e caem após as traves;
+* É impossível ganhar no corpo-a-corpo dos jogadores da CPU, mesmo que eles joguem com o Robinho;
+* É impossível dar uma enfiada de bola para um jogador próximo da grande área, pois os goleiros SEMPRE chegam primeiro. O que nos faz pensar que existe uma séria falha na proporção da grande área em relação ao campo nesses jogos...
+* A CPU SEMPRE vai chegar com perigo no lance seguinte após você marcar um gol, além de todos os seus jogadores sairem da frente e correrem para o lado errado, facilitando ainda mais o ataque adversário;
+* O Beira-Rio não é cheio de terra, coberto de lonas e é um estádio bom.
+* O coeficiente de atrito do campo deve ser de 0,95;
+* 70% dos penaltis que você cobrar na Master League irão pra fora;
+* É mais fácil fazer gol de falta chutando por baixo da barreira do que por cima. Na vida real, quantos gols por baixo da barreira você costuma ver por campeonato?
+*AS vezes do nada num cruzamento sai o gol,mas ninguém comemora e o gol não vale....POR QUE? por q o juiz deu mão na bola,mesmo q tenha sido bola na mão.E NINGUEM RECLAMA
+*Penaltis Que nem o Edilson marcaria ganhando 1 milhão de reais pra prejudicar o seu time,são marcados pelo juiz do PES,A SEU FAVOR,e o pior....VOCE ERRA!
+
+*O São Paulo vence o Corinthians
+*O Palmeiras se Classifica para a Libertadores
+*O Santos perde jogos
+*O Neymar não xinga o técnico (porque no jogo não tem técnico)
+*A Argentina vence o Brasil
+*O Ronaldo joga bem
+*Romário não tem 1.000 filhos
+*A Torcida não xinga o juiz
+*O Marília é melhor que o Real Madrid
+*O Ganso não se machuca
+*O Elano não perde penaltis
+*As torcidas não brigam
+*O Mogi Mirim vence o Barcelona
+*Flamengo tem estádio
+*Internacional Vence o Mazembe
+*O Mazembe vence a Inter
+*Madson é Alto
+*Fernandão é pequeno
+*Corinthians vence o Tolima
+*Nos Outdors tem progranda do '''RedTube.'''
+*A Torcida do '''Corinthians''' não quebra tudo após ser eliminado na pré-libertadores
+*O juiz da uma falta(quando não é muito perigosa) depois da bola sair de campo as vezes depois muito depois do lance ele dá amareloªª
+* Os torcedores advesários comemoram o seu gol
+*O Corinthians ganha titulo mundial de verdade
+*O Corinthians acha a taça da Libertadores de 2000 (nem no video-game)
+*O Fluminense não é sempre vice da LDU em competiçoes finais
+*O Fluminense não cai pra terceira divisao (até porque não tem)
+*O Fluminense não cai pra segunda divisão (que também não tem)
+*O Fluminense não faz virada de mesa pra voltar à primeira divisão
+*O Fluminense não tem a ajuda da Unimed, do Eurico Miranda, e nem do Capeta pra voltar a primeira divisão
+*O Fluminense consegue ganhar uma Libertadores
+*O Botafogo consegue ser campeão de alguma competição
+*A torcida do Botafogo consegue encher o engenhao
+*O Ricardo Gomes não tem convulsões durante o jogo (até porque nem tem técnico)
+*O Corinthians ganha do Tolima
+*O Inter-RS pode ser rebaixado,pois no jogo não existe o Paysandu
+*O juiz não marca penaltis pro Flamengo
+*Qualquer empurrão é falta
+*O Botafogo tem torcida
+*Cristiano Ronaldo e Messi são 2 ferraris
+*O Ronaldo Fenômeno não pesa 165kg
+*O [[Paolo Guerrero|Guerrero]] acabar com o caô do Flamengo
+*O [[Manchester United]] é o unico que "aparece" na [[Premier League|Liga Inglesa]], o [[Tottenham Hotspur]] estava nessa turma.
+*O [[Neymar]] toca a bola na área se tiver alguém melhor posicionado
+*O Neymar disputa dividida em pé
+*O Neymar deixa os companheiros de time baterem pênalti
+*Se o Neymar sofre falta, ele pode levantar logo, em vez de sair rolando até o túnel do vestiário
+|}}
+<YouTube>
+title=Credo!
+movie_url=http://www.youtube.com/v/tfjmwWcAPvQ&hl=pt-br
+embed_source_url=http://www.youtube.com/v/tfjmwWcAPvQ&hl=pt-br
+wrap=no
+width=425
+height=344
+</YouTube>
+
+== Quando você está perdendo/vencendo ==
+* Quando você está vencendo você não está perdendo, já quando você está perdendo você não está ganhando.
+* Quando você está vencendo qualquer idiota pode fazer gol no seu time, já quando você está perdendo nem uma fusão de Messi, Kaka, Cristiano Ronaldo, Pelé ou até Maradona irá fazer gol.
+* Quando você está vencendo seus jogadores não fazem muitas faltas, já quando está perdendo cada um dá 6 voadoras por minuto, até nos próprios companheiros do time.
+* Quando você está vencendo os jogadores adversários não driblam ninguém, já quando você está perdendo qualquer um pode driblar seus jogadores, inclusive o goleiro adversário driblar o seu.
+* Quando Tu está vencendo pode continuar fazendo gols até chegar em 500, já quando Tu está perdendo fazer um gol é mais difícil do que o Corinthians ganhar a Libertadores (olha a piadinha aí de novo)
+* Quando você está vencendo o juíz não rouba, já quando está perdendo será falta pra cartão vermelho andar pelo estádio. E você ainda ouvirá do José Roberto Wright: "Cartão bem aplicado, isso está bem claro, a regra diz que isso é proibido"
+* Quando você está vencendo não irá xingar nenhum jogador ou juíz, já quando você está perdendo irá xingar até a mãe de um juíz que é órfão.
+* Quando você está vencendo o seus jogadores comemoram quando o adversário faz gol, já quando você está perdendo verá seus jogadores reclamando, chutando os outros e até dançando o Rebolation!
+* Quando você está jogando na Master League e vence uma partida, todos os times que estão na sua frente irão vencer, já quando você perde todos os times que estão na sua frente perdem. Vá jogar e veja como isso o deixará com raiva, ou melhor, continue lendo a Desciclopédia.
+* Quando você está vencendo não irá quebrar nada em sua casa, já quando está perdendo além das coisas que você irá quebrar, irá ficar quebrado, de uma bela surra que sua mãe irá lhe dar.
+
+== Absurdos do jogo Advanced ==
+{{Compactar|
+* Todos os jogadores do [[Wolfsburg]] parecem [[troglodita]]s
+* O [[John Kabira|Narrador japonês]] fala em português! Expressões como "sai seu cú", "porra sem tico", "encheu a cara no mar", "tia kuniku", "no cu carai", "cabeçã", "bisteca", entre outras fazem parte de um vasto repertório.
+* No Brazukas Forever, o Maracanã e o Mineirão são iguais ao Estádio Internacional de Yokohama, só que a cor das arquibancadas são diferentes;
+* O [[Liverpool]] ganha o campeonato portugues;
+* Em uma disputa de pênaltis, se [[Galvão Bueno]] estiver narrando, a ÚNICA coisa que ele falará quando sair um gol será "GOOOL!!! Esse cara bate bem na bola!"
+* [[Fernando Torres]] é melhor que [[Ronaldinho Gaúcho]]; 
+* O Morumbi é igual ao Camp Nou (Estádio do Barcelona);
+* O Olímpico é igual ao Parc de Princes (Estádio do PSG);
+* O Estádio Palestra Itália e o estádio de São Januário são iguais, só que a cor das arquibancadas são diferentes;
+* O Estadio do [[Pacaembu]] é igual ao [[São Januario]] só mudam as cores
+* O Serra Dourada é rosa e amarelo
+* O Harlei (goleiro do Goiás) defende penaltis  (AI JA E EXAGERO!)
+* O Vinícius Colombiano é melhor que o [[Zé Roberto]]
+* O [[Pacaembu]] é igual ao Estádio Ramón Sánchez Pizjuán (Estádio do Sevilla);
+* No replay as bandeiras na torcida e nos escanteios não tremulam quando você volta o lance;
+* A torcida flutua no Maracanã e no Mineirão;
+* A torcida do [[Atlético Mineiro|Galo]] não enche o Mineirão.
+* A torcida repete os mesmos hinos chatos de 10 em 10 segundos;
+* Na Master League, é possível comprar o [[Cristiano Ronaldo]] jogando com o [[Guaratinguetá]]; 
+* A imprensa não fala só do Corinthians e dos times do Rio de Janeiro;
+* O [[German Gustavo Herrera|Herrera]] rouba a bola sem fazer falta;
+* O [[Petkovic]] é brasileiro;
+* [[Alberto Martín Acosta|Acosta]] joga bem sem usar a camisa 25;
+* O Juanjo não existe;
+* O [[Maxi López]] não existe;
+* O Andújar não existe;
+* O [[Edmundo]] acerta pênaltis;
+* [[Cristiano Ronaldo]] não cava falta;
+* O Dodô não é pego no exame antidoping;
+* Não se pode atirar objetos no bandeirinha;
+* O Corinthians acha a taça da Libertadores de 2000 (mais uma vez a piadinha! 3ª vez no mesmo artigo e eu não me canso de fazer!);
+* O [[Palmeiras]] pode ganhar um [[Mundial]] sem ser por fax (essa piadinha também figura bastantes nos nossos artigos...);
+* O [[Valdívia]] não reclama o tempo todo que estão fazendo falta nele;
+* [[Sandro Goiano]] não encara a bola, o adversário, a torcida, etc;
+* O [[Edmundo]] não mata ninguém;
+* O [[Pelé]] não fala pérolas;
+* O Martins é um dos atacantes mais lentos do jogo,tendo 99 de Top Speed;
+* Carrinho por trás de vez em quando nem é falta;
+* Goleiros de times pequenos, do tipo <s>Barueri</s> [[Grêmio Prudente]] ou [[Benfica]], viram invencíveis contra Você;
+* [[Obina]] pode realmente ser melhor que Eto'o;
+* [[Tuta]] não fica mascando chiclete;
+* Adailton não leva tantos cartões vermelhos e nem amarelos;
+* A torcida do [[Fluminense]] não sai do estádio enquanto o time perde de 2x0 em casa aos 15 do primeiro tempo;
+* Não existe o campeonato sul-regional série D83 do Zimbabue no jogo;
+* A [[Ana Paula de Oliveira]] não vem pelada no jogo;
+* A [[Bambi|torcida do São Paulo]] lota o estádio todo jogo, até mesmo se o time está mal e em jogos do Brasileirão;
+* A [[Richarlyson]] não anda rebolando;
+* O [[Muricy Ramalho]] não faz propaganda de Trident;
+* O juiz não marca falta para os carrinhos de Sandro Goiano, mas todos saem de maca;
+* O [[Internacional]] consegue vencer o [[Juventude]];
+* A [[Kyocera Arena]] não é meio estádio;
+* No estádio do Morumbi, entra macho;
+* O Shevchenko faz gol sem ser no Milan. E é titular;
+* O [[Atlético Mineiro]] não corre risco de rebaixamento em todos os campeonatos.
+* Numa partida disputada no inverno no [[Maracanã]] ou [[Morumbi]], neva;
+* A torcida do [[Fluminense]] tem mais de 5 pessoas em jogo fora de casa;
+* A Seleção Inglesa ganha da [[Croácia]];
+* Vágner Love faz gol sem assistências, e de fora da área;
+* O Romário corre;
+* Ballack pode perder nas divididas;
+* O [[Finazzi]] faz gols;
+* A Gaviões da Fiel não fazem da arquibancada uma boca de fumo;
+* O Adriano não tenta dar uma de Giba;
+* No PES 2008, O Forlán dá elástico;
+* No PES 2008, O Wilhelmson dá elástico;
+* Em qualquer PES, o FERNANDÃO dá elástico;
+* O Mascherano não fica xingando o juiz o jogo inteiro;
+* O Mascherano não leva cartão todo jogo;
+* Na Master League você é o técnico, presidente, dirigente, preparador físico, roupeiro, massagista, jogador etc... Ao mesmo tempo (e ainda se dá bem!);
+* Hernanes tem 99 de goleiro e Amaral tem 85 (mas só no jogo pirata...);
+* A bola pode ser Nike e tem o nome "PEDAÇO DE CARNE";
+* Qualquer time Sul-americano pode vencer o Boca Juniors em La Bombonera;
+* Os times grandes como Milan, Chelsea, Real Madrid, Manchester United, etc... perdem para times fracos dentro de casa;
+* A bosta do Perdigão não é expulso;
+* O Souza faz gol;
+* O Souza não se parece com o [[Sagat]] do [[Street Fighter]];
+* As vezes, o seu goleiro entra mais doido que [[Robocop]] na chuva;
+* O Herrera não dá carrinho em todos os zagueiros (incluindo os do próprio time) e até no juiz;
+* Pode parecer um absurdo, mas o Cafu pode (com muita, mais muita sorte) acertar um cruzamento;
+* O Saha faz mais gols do que qualquer jogador no mundo;
+* Os Bandeirinhas dão uma de [[Reptile]] durante o jogo todo mas teimam em aparacer quando você faz gol naquele seu colega mala;
+* O [[Leão]] não fica paquerando o 4º árbrito durante o jogo todo;
+* Dá pra ouvir a torcida do [[Atlético-PR]] (mas só com o volume no máximo);
+* Van der Sar 60% das vezes não consegue agarrar uma bola, nos outros 40% das vezes ele espalma para o atacante adversário mais próximo;
+* Todos os chutes do Ballack vão no ângulo;
+* O [[Atlético PR]] nunca é rebaixado;
+* Os jogadores passam por dentro dos outros;
+* O Richarlyson é gay (tanto na vida real quanto no jogo);
+* O Biro Biro come a mulher do Maradona também;
+* Quando o goleiro espalma a bola e ela volta pra você, o jogador chuta na direção do goleiro mesmo o gol estando 99.99% livre;
+* ...Isso quando o jogador chuta, e a barra de chute não some "misteriosamente";
+* As torcidas não destroem os banheiros do seu estádio quando você perde;
+* Você consegue vencer uma partida mesmo com 4 jogadores a menos e 2 pênatis contra;
+* Os torcedores não arremessam pedras nos jogadores quando o time está em péssima fase;
+* Shevchenko, Ronaldo ou até Cristiano Ronaldo podem se transferir para o Guaratinguetá;
+* Os jogadores NÃO são mercenários. Na Master League do Pes 2009, entre uma proposta de 700 do [[Real Madrid]], Valencia e afins e uma proposta sua de 4,9.6.10²³, o jogador não vai para o seu time.
+* O juiz é caseiro, sempre para a CPU;
+* O juiz acaba o jogo na hora do SEU contra-ataque;
+* O juiz espera você tomar gol no fim do jogo para terminar a partida;
+* É proibido fazer gol em zagas italianas;
+* No PES, você joga melhor que o Macco. Na União Soviética, o Macco joga melhor que VOCÊ!!
+* Após uma temporada de MasterLeague, você jura que o [[Ivarov]] é um bom goleiro;
+* Alex Mineiro bate pênaltis sem paradinha;
+* O goleiro reserva do São Paulo não pega uma pedrinha qualquer no chão e mente pro juiz que foi acertado pela torcida;
+* Na Master League, o Shevchenko vale 2 pts, e o Leozinho Ceará do São Raimundo vale 129;
+* Fabinho capixaba acerta cruzamentos;
+* Jumar fica um jogo sem fazer falta;
+* O Gerrard não consegue fazer 3 gols por jogo;
+* A Gaviões da Fiel não quebra tudo porque só ficou com 10% dos ingressos;
+* O Nilmar não se machuca todo jogo e quando se machuca, não fica 6 meses fora;
+* Não oferecem ingressos pro show da Madonna pros juízes roubarem;
+* O Adriano não pode fazer gol de mão;
+* O Grêmio não é rebaixado;
+* O Fábio Costa não briga com o Fabiano Eller.
+* O Muricy não dá entrevista, porque aí viraria The King of Fighters.
+* O Cristiano Ronaldo não fica se jogando toda hora.
+* Portugal pode ganhar a Eurocopa, Copa do Mundo ou qualquer outro campeonato.
+* Robinho não tara ninguém depois do jogo.
+* [[Nilmar]] ultrapassa a velocidade da luz correndo (na realidade, ele corre muito mais que isso)
+* [[D'Alessandro]] não chama o William para a briga quando está perdendo;
+* [[Alexandre Pato|Alexandre Patolino]] faz gol quase todo jogo e na Master League fica melhor que o [[Pelé]] quando faz 25 anos.
+* Michel Alves se torna um herói quando você joga com o Juventude
+* Messi também ultrapassa a velocidade da luz correndo
+* Edinho não isola a bola
+* Argentina vence o Brasil
+* Indio não faz gol
+* Tem jogo do Cruzeiro que não tem nem uma expulsão.
+* Kleber gosta do Palmeiras;
+* O Inter pode ganhar a Master Liga toda invicto, sem sofrer nenhum gol, com o [[Clemer]] jogando de titular
+* Dos Santos joga mais que Deco e consegue acertar as jogadas;
+* o chute de Deco é possível de se defender sem ter o [[Clemer]] no gol
+* G. Milito da zaga do Barça,é um vegetal em campo fazendo a fotossintese
+* Alex do Corinthians tem o chute mais forte do mundo,capaz de quebrar a barreira do som e a barreira da luz ao mesmo tempo,isso sem ele se quer encher a barrinha toda do chute
+* Alex do Corinthians,não sabe cobrar faltas
+* Junior Cesar não sabe o que é futebol
+* Julio Cesar é melhor que [[Taffarel]]
+* Caniggia chuta melhor que Batistuta
+* EM um jogo contra aquele seu amigo pato, você terá 985 chances de gols e provavelmente vai errar 984 enquanto seu pobre amigo dará 2 chutes a gol e ACREDITE, ele fara esses 2 gols.
+* [[Clemer]] não leva um frango por jogo.
+* [[Edmundo]] fará um gol de pênalti
+* Quando um goleiro pega um penalti que espalma e continua em jogo ao inves do goleiro ir buscar a bola ele levanta encaixando uma bola invisivel!!!
+* Quando você estiver jogando no nivel mais dificil,todas as tentativas de gol do adversario serão por encobrimento.
+* Você pode brigar com o jogador adversário sem levar cartão amarelo ou vermelho;
+* O Gerrard meio-campo do Liverpool é freguês do Rogerio Ceni;
+* A torcida do Boca Juniors não para de gritar;
+* É possível comprar bolas de futebol com formatos esquisitos como: Bola ''Pedaço de carne, Melancia, Barril do Chaves, etc...
+* É possível jogar futebol com dinossauros, avestruz, Pinguim ou com cara de cachorro;
+* Toda vez quando você termina um campeonato o jogo trava;  
+* O Corinthians tem um estádio;
+* Toda vez que você faz um gol a torcida adversária  não para de gritar;
+* Os torcedores do vasco não tentam se suicidar quando o time é rebaixado.
+* Tem um estádio que parece uma plantação.
+* Jogando rumo ao estrelado você pode ser melhor que Pelé.
+* O Marcelinho Carioca faz gol no Marcos de Penalti.
+* Jogando Master Liga ou Rumo ao estrelado, os jogadores se aposentam, e voltam aos 17 anos e muito ruins.
+* É impossível ter jogo com avestruz
+* quando você compra o uniforme de avestruz e não sabe por no jogo
+* Os torcedores do Inter e do Grêmio não jogam banheiros químicos uns nos outros.
+* Os torcedores do Corinthians não invadem o campo quando perdem para o River.
+* Os torcedores do Coritiba não encarnam o He-Man e saem dando porrada com as arquibancadas nas costas dos policiais, e ainda se exibem para os amigos na academia, o que leva a prisão.
+* Os torcedores do Coritiba não ferram o estádio;
+* No Brazukas 2007 o Gabirú não é mandado embora após fazer o gol do Mundial.
+* No Brazukas 2008 o grito da Mancha Verde começa com : "Independente, pau neles" antes do hino.
+* O Gilberto Silva consegue tomar a bola dos adversários.
+* O Robinho não pipoca e não cai toda hora.
+* O Washington domina a bola.
+* Alguns jogadores "esquecem" que são destros e saem batendo escanteio de canhota.E vice-versa.
+* Nas finais do Paulistão ninguém joga Gás de Pimenta no vestiário do Visitante.
+* Você pode jogar com o time do Muricy e ainda colocar todo mundo pro ataque.
+* A torcida do Corinthians não precisa roubar pra ir ao estádio e não usa drogas ilícitas na arquibancada (o que antes os levava a crer que Dentinho e Defederico são craques).
+* O tempo de vantagem pro juiz é de 1,9 segundos.
+* Quando a CPU te dá um carrinho por trás no meio de campo, o juiz não dá falta. Se logo após o jogador fica com a bola e o seu rouba a bola o juiz apita.
+* O Flamengo é melhor que o Manchester United
+* O Flamengo consegue vencer um jogo de forma honesta
+* A maioria das coisas ali em cima é mentira, pois quase tudo são em jogos editados.
+* O Nilmar é preto
+* É possível correr todo o campo com a bola sobre a linha, sem ela sair.
+* Os torcedores não mandam o juiz tomar no cú.
+* Dá pra passar pelo meio de um jogador.
+* O Loco Abreu não bate de "cavadinha".
+* Os jogadores nunca tem fratura exposta.
+* Os jogadores as vezes ficam com a trave atravessada no peito e se levantam
+* A Argentina pode ganhar do brasil.
+* Não tem o Allejo.
+* Oba Oba Martins corre mais do que uma Ferrari, do que o Messi, Cristiano Analdo, Eto'o e qualquer outra coisa que voçe imaginar.
+* Os jogadores não reclamam de atraso de salário.
+* O técnico não aparece na beira do campo, pois você é o técnico e está fora da tv com um controle na mão.
+* Jaap Stam é um psicopata que gosta de quebrar canelas.
+* nas versões em portugues, você ganha de 10 a 0 e o narrador diz que é possível o time adversario buscar o resultado.
+* A face do Rafael Moura é igual a do Forlán.
+* Carini é o melhor goleiro do universo.
+* O Internacional ganha do TP Mazembe.
+* O Kidiaba não kika kika no calcanhar
+* [[Santos]] pode ser time grande
+* O internacional não é campeão de tudo, pois você nunca consegue ganhar com o time pois o seu adversario certamente pega o tp mazembe
+|}}
+
+==Desculpas de um perdedor no WE==
+*Ah, esse controle tá uma bosta !
+*Minha pica ficou dura e melou o controle de porra
+*Tive um princípio de ataque cardíaco e por isso levei o gol
+*Também, eu te dei chance eu escalei o Abbondanzieri, aí fica fácil pra você
+*Eu perdi porque pensei que bolinha que chutava
+*Aff, minha franja bateu no meu olho.
+*Também, tu é viciado… (desculpa fudida...)
+*Ronaldinho tá morto em campo!|Ou qualquer outro jogador.
+*Isso é ''bug'' do jogo!
+*Não sei jogá de dupla.
+*Deu sorte.
+*Arrumei meu time mal.
+*Dupla de merda a minha, não sabe jogá!
+*Esses jogador são uns merda, não fazem nada direito!
+*Um demônio me possuiu no meio do jogo.
+*Teu time é bem mais forte que o meu!! ( [[Barcelona]] x [[Real Madrid]] )
+*Gol cagado.
+*Tu tem videogame e pode jogar todo dia, eu não.
+*Fiquei com pena docê e deixei tu ganhar uma.
+*Tu editou os jogadores.
+*Porra… tu faz manha, né?
+*Não tô inspirado hoje…
+*O sol bateu na minha cara.
+*Esse controle tá com defeito.
+*Também eu jogo com o Manchester United e você com o Goiás, impossível eu ganhar.
+*O P1 sempre ganha. (ou vice-versa)
+*É que hoje não tô afim de jogar essa disgraça.
+*Meu Joystick tá ruim
+*Aff, o analógico tava ligado.
+*O Play é teu…
+*Essa TV é uma merda.
+*Também, tu só bate pênalti no meio do gol.
+*O juiz é ladrão.
+*Tu pagou o juiz.
+*Lá vem tu botá essas ‘manha’ (enquanto você está ajeitando o time antes ou durante o jogo).
+*Goleiro viado, filho da puta, frangueiro!
+*Zaga de merda!
+*Tô de zuera, deixei tu ganhar…
+*As setinha do meu time vieram zuada.
+*Peguei o time errado.
+*Esses uniformes estão confundindo muito
+*O uniforme tá confundindo com a cor do gramado.
+*A bola tá confundindo com a cor do gramado.
+*Só sei jogar com jogadores de chuteira branca.
+*Porra, tu vive dando carrinho e o juiz nunca marca falta.
+*Essa câmera é horrível.
+*Esse teu jogo é diferente do meu, é impossível fazer gol.
+*Os jogador não correm.
+*Porra, fulano, como é que tu me perde um gol desse?
+*O botão tava emperrado.
+*Machuquei meu dedo ontem, não tá dando pra jogar direito.
+*É que eu jogava ''FIFA'', daí os botão eram diferente.
+*Também, né?, com o Play aceitando o drible “raio X” fica fácil.
+*Aff, os teus zagueiro correm o dobro dos meus atacantes.
+*Tá muito barulhento aqui, não consigo me concentrar.
+*Tu tá de frente pra TV, eu tô todo torto aqui.
+*Não sei jogá com narração.
+*Só sei jogar no PC.
+*Só sei jogar no PS3.
+*Não jogo com controle, só de teclado.
+*Sim, né? Tu fica apertando “Start” toda hora.
+*Aff, 5 minutos? Só jogo com 10.
+*Mal encostei no cara e já é falta (após uma voadora de dois pés na cabeça)!
+*Eu apertei pra esse lado mas o goleiro foi pro outro (em um pênalti)!
+*Tu fica mudando o cobrador toda hora.
+*Aff, tu só faz essa jogada.
+*Quando sair essa minha urucabaca a gente joga.
+*Também né, com um expulso é impossível ganhar um jogo.
+*Eu tô de visita na tua casa e ainda pego o pior controle? Aff!
+*Faz um tempão que eu não jogo.
+*Me mijei por isso tomei o gol.
+*Eu vi um espírito. 
+*Tô com sono.
+*Ganho na sorte.
+*Tu só joga com esse cara? Passa, porra!
+*Peguei esse time podre só pra ficá zuando (jogando com o Barcelona).
+*Tava impedido!
+*Putz, esqueci de ajeitar meu time.
+*Aff, não vale marcação, né?
+*Não sei jogá com chuva.
+*Tava com vontade de ir no banheiro.
+*Você zuou meu time né?
+*Não sei jogar com jogo original, só com o brazucas.
+*O jogo tá desatualizado!
+*Fora de casa eu sempre perco.
+*Sem torcida não dá.
+*Pô, o meu uniforme tá confundindo…
+*A bola tava na linha e não entrou!
+*Aff, o vento tava contra mim.
+*Esse campo é todo errado.
+*Só tem véio no meu time!
+*Só faz gol com o “R2”, né?
+*Putz, achei que tinham me chamado e olhei pro lado.
+*Essa bola confunde com o campo…
+*Também, né, teu goleiro tem quase 3 metros de altura.
+*Eu fico apertando quadrado mas não vai!
+*Porra, tu fica zuando comigo só porque eu tô perdendo! Daí não dá vontade de virar.
+*Quando eu chuto a bola pega um efeito pra fora!
+*Eu nem curto esse jogo.
+*Meu goleiro espalma pra dentro!
+*Também, né?, tu só faz gol de rebote.
+*Eu sempre deixo as mulheres ganharem.
+*Essa tua irmã gostosa me desconcentra.
+*Só jogo bem no modo fantasista.
+*Eu fui na bola (depois de fazer um pênalti com a mesma voadora de dois pés)!
+*Eu ia fazer o gol e o juiz termina (sempre vem acompanhada de um “filha da p…”)!
+*Tô arrecém esquentando (depois do 42º jogo).
+*Melhor de três (no 43.º jogo, após perder todos os 43 jogos).
+*Eu apertei X e ele deu carrinho!
+*Impossível ver a bola na neve!
+*Aff, com a bola batendo na bandeirinha e tu fazendo gol não vale!
+*O juiz ficou trancando minha passagem.
+*Também, né? Ibrahimović (ou Luca Toni) é muito apelão.
+*Não vale, esse drible só o Tevez (ou o Cristiano Ronaldo) tem. É impossível tirar a bola.
+*Ah, se fosse no Play 1…
+*Ah, se fosse no Super Nintendo...
+*Nem era pra vermelho (após uma voadora de dois pés na cabeça seguido de mais outra no momento em que o adversário cai no chão)!
+*Tá dando reflexo na TV!
+*Ficar vendo ''replay'' acaba com minha concentração!
+*Nunca perco, não preciso de desculpa (um perdedor, após ler isto).
+*A primeira eu sempre perco.
+*Enjoei desse jogo, bota outro.
+*O campo tá escuro.
+*Tá, vou começar a jogar agora.
+*Pô, tu para todos os contra-ataques com falta! Assim num dá!
+*Porra!! Parece que vocês não pensam!!!
+*Também, o juiz só marca falta pra você. LADRÃOOOOOO!!!!
+*Não tô pro jogo hoje, vou pegar a mulherada hoje a noite!
+*Aff, tu tem muita sorte.
+*Sua irmã passo bem na minha frente!
+*Minha mão tá cansada.
+*Minha mão tá cagada.
+*Pode agarrar a bola com as mãos que o juiz não marca infração.
+*O meu controle é o ruim.
+*As linhas do gramado me confundiram.
+*Não sei que botão rouba a bola.
+*Tinha um cisco no meu olho.
+*Meu nariz tava coçando.
+*Você não joga com o Barcelona, joga só com o Henry.
+*Não to dando sorte hoje, é esse teu irmão me gorando aqui atrás.
+*Você deu pause quando eu ia roubar a bola!!
+*O Felipe do Corinthians é branco. 
+*Chupaaaaa uando seu amigo, que nunca fez um gol, faz um gol de pênalti no meio da goleira) !!!
+* O jogador tá cansado (isso aos 15 minutos do 1° tempo)
+*Nem tô jogando sério.
+
+== Pessoas que jogam WE ==
+
+* Veados, emos, goticos, etc
+* [[Pobres]]
+* [[Japoneses]] (Para se ter uma ideia, no Japão o jogo ainda se possui o ultrapassado nome de Winning Eleven)
+* Dunga ( onde ele aperta botoes :D );
+* Jogadores da Seleção Brasileira de 2006, que praticavam o Winning Eleven ao invés de treinar antes da partida contra a França na copa de 2006;
+* Eu, quando brigo com a minha mulher, e quando não tenho nada para fazer ou quando tenho;
+* [[Guria retardada]]
+* Você!
+* Eu?
+* O RLY? (Ya RLY!)
+
+PESSOAS
+http://br.youtube.com/watch?v=-Hzn-AO4EHc
+Você jogando WE
+
+== Versões alternativas (você encontra num camelô bem perto de sua casa) ==
+[[Arquivo:Winningpobre.jpg|thumb|Futibor di crassi.]]
+Há versões alternativas deste jogo. As mais conhecidas são:
+
+*PES; 
+*MAOS
+*[[CBF]] vs. [[UEFA]];
+*[[Puteiro Eleven]], versão feita por aprendizes do [[Senai]] na [[Mercedes-Benz]], é a versão mais obscura, somente conhecida por transferência de Option File via Memory Card. Os jogadores são-paulinos desaprovam essa versão;
+*Brazukas (com [[Galvão Bueno]] narrando);
+*[[Bomba Patch]]: Principal rival do modelo acima, onde os jogadores brasileiros são completamente adulterados (vide Dodôpado, Obina melhor que Eto'o, Morais e etc) e em sua última versão conta com a narração de Éder Luís e com os comentários magníficos e inteligentes de Neto - ''A bola saiu.'');
+*Campeonato Brasileiro >8000;
+*Fútbol Brahileño '96
+*Bang Bros (só sexo);
+*Winning Eleven 14, sendo que só existe em original até o 12! <!--depois do 10 eles colocam por ano - 2007, 2008 e 2009 agora-->;
+*Winning Eleven 19, apenas R$ 2,50 no Paraguai;
+*Winning GTA- Versão em que jogadores usam [[droga]]s e violência para ganhar, na vida real, MARADONA!;
+*[[Super Mario]] [[Futebol|Soccer]];
+*Guitar Futiból Di Crassi;
+*Save Grêmio From Segundona;
+*[[Sport Club Paulist Corinthian|Corinthians]] Em Busca Da Taça da [[Copa Libertadores da América]] de 2000;
+*[[Forest's Sao Paulo Football Club|São Paulo]] Em Busca Da [[Copa do Brasil]];
+*[[Society Sports Italian Lecture|Palmeiras]] Em Busca Do [[Mundial de Clubes]].
+
+== Porquê comprar uma versão alternativa? ==
+
+*Geralmente tem mais times
+*Os escudos dos times são os originais
+*Se for pra pagar 140,00 e perder, é melhor pagar 10,00
+*Sempre tem um narrador famoso
+*O formato da tela lhe parecerá familiar
+*O narrador sempre te incentiva (mesmo tomando um saco de 145x0)
+*<s>Geram lucros</s> com os comerciais de [[Guaraná Antarctica]]
+* Na capa sempre vai ter uma gostosa, que com os cabelos irá tampar os seios e você vai odiar.
+*Na Master League e no Top Menu sempre tem uma música do Eyes Set To Kill.
+*No Iniciado você perde de 5X0 para o PES Unitet
+*No Pikiroby Mix Patch 2009.1(ou PES 2009 com times brasileiros)você pode ganhar de 28X0 do Manchaster United com o Grêmio com o time inteiro reserva e o Manchaster United inteiro editado no Campeão.
+*Jogando com o [[teu pai]] vermelhão e [[emo]] se você ganha de 3X4 ele dessiste.
+*<s>A Konami fica rica</s> O Palmeiras é bom.
+*Você pode ganhar uma libertadores com o Corinthians.
+*Obina <s>não</s> pode ir para a seleção.
+*Se você comprar um pirata no Brasil ele vai ser pirata, mas se comprar um pirata no Paraguai é original.
+
+== Winning Eleven na televisão ==
+
+Parece piada (e é), mas WE se tornou uma febre tão grande que atualmente o seu campeonato mundial já foi exibido na [[TV Esporte Interativo]].
+
+*O apresentador torcia para o Corinthians e para o Brasil!
+
+{{Pro Evolution Soccer}}
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para PlayStation Portable]]
+[[Categoria:Jogos para Nintendo DS]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de esportes]]
+[[Categoria:Jogos lançados em 2006]]
+[[Categoria:Coisas de pobre]]

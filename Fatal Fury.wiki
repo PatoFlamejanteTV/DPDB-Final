@@ -1,0 +1,50 @@
+{{jogos Antigos}}
+{{Infobox Série Game
+|title         = Fúria Fatal
+|image_logo    = fatal fury the motion picture.jpg
+|caption       = Capa de um dos jogos ([[ou não]])
+|genre         = porradaria
+|developer     = [[SNK]]
+|publisher     = SNK
+|origin        = [[Arcade]]
+|first_release = [[Fatal Fury: King of Fighters]] ([[1992]])
+|last_release  = [[Fatal Fury: City of the Wolves]] ([[2025]])
+}}
+
+{{vqd|Fatal [[Furry]]}}
+
+'''Fatal Fury''' é uma série de jogos de luta criada no início dos [[anos 90]] para concorrer lado a lado com [[Street Fighter]], a franquia do gênero que mais fazia sucesso naquela época. Essa {{Strike|cópia}} ideia genial partiu da mente revolucionária e inovadora da [[SNK]], que até então não havia lançado nenhum game bem sucedido neste estilo.
+
+A história é centrada no personagem [[Terry Bogard]], que busca vingança pela morte de seu pai adotivo ao lado do irmãozinho [[Andy Bogard]] e do completamente deslocado [[Joe Higashi]], que foi colocado no jogo apenas para fazer uma média entre os japoneses, já que Fatal Fury foi originalmente produzido no [[Japão]] e pegaria mal que todos os protagonistas fossem loiros, belos, altos e nórdicos, algo que foge completamente da realidade nipônica.
+==Jogabilidade==
+[[Arquivo:fatal fury.jpg|thumb|250px|left|Alguns dos personagens dessa tranqueira.]]
+Como em todo jogo de luta que se preze, Fatal Fury foi desenvolvido para haver interação entre [[dois]] jogadores, cada um selecionando seu personagem favorito e lutando entre si. Claro que, como a maioria dos nerds é solitária e não tem amigos para interagir, existe também a possibilidade de jogar [[forever alone]] contra o próprio console automatizado, o que deixa a bagaça bem mais apelativa, já que a máquina conhece todos os golpes.
+==Gráficos==
+Como era de praxe na época, os gráficos de Fatal Fury apresentam cores berrantes que chega a doer nos olhos, contribuindo para ferrar a visão dos [[pivetinhos de fliperama]] que hoje em dia são adultos com graves problemas oftalmológicos. 
+
+Por visar desde o início o mercado internacional de videogames, a SNK preferiu deixar os lutadores com um visual menos estilizado do que aquele que é visto em [[anime]] ou [[mangá]], deixando os traços um pouco mais realistas e ocidentalizados. Bom, pelo menos essa foi a proposta inicial, que logo se perdeu com o lançamento do [[segundo]] jogo da série, no qual foi introduzido a grande musa onanística [[Mai Shiranui]], com um corpo (leia-se [[peitos]]) e um figurino típico de uma personagem saída de algum [[hentai]].
+==Jogos==
+[[Arquivo:mai shiranui fatal fury.jpg|thumb|240px|Responsável pelo sucesso da série.]]
+Como todos devem saber, a série Fatal Fury foi engolida com o passar dos anos e mesclada com outros jogos similares da SNK para criar uma nova franquia, [[The King of Fighters]]. Por conta disso, muita gente se confunde a respeito de quais são os jogos oficiais lançados antes de ocorrer essa [[suruba]]. Vamos então à listagem dos mesmos:
+===Saga principal===
+*[[Fatal Fury: King of Fighters|Fatal Fury: Quem Ofendeu]]
+*[[Fatal Fury 2]]
+*[[Fatal Fury 3: Road to the Final Victory|Fatal Fury 3: Rodando o Pião da Casa Própria]]
+*[[Real Bout Fatal Fury|Real Bosta Fatal Fury]]
+*[[Garou: Mark of the Wolves|Garçom: Nesta Mesa de Bar]]
+*[[Garou: Mark of the Wolves 2|Garçom: Nesta Mesa de Bar 2]]
+===Encheções de linguiça===
+*[[Fatal Fury Special|Fatal Fury {{Strike|nem um pouco}} Especial]]
+*[[Real Bout Fatal Fury Special|Real Bosta Fatal Fury Especial]] 
+*[[Real Bout Fatal Fury 2: The NewComers|Real Bosta Fatal Fury 2: Os Novos Cornos]]
+*[[Fatal Fury: Wild Ambition|Fatal Fury: Velha Ambição]]
+
+{{Fatal Fury}}
+{{Game Fight}}
+{{SNK}}
+
+[[Categoria:Jogos da SNK]]
+
+[[es:El Show de Terry]]
+[[ja:餓狼伝説]]
+[[ko:아랑전설]]

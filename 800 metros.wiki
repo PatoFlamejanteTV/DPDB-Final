@@ -1,0 +1,61 @@
+'''800 metros''' é uma das competições de correria pura do [[atletismo]], disputada em 800 metros, claro, senão chamariam de 790 metros ou 801 metros, mas é 800 metros rasos. Os competidores dessa modalidade são chamados de "meio-fudidos", pois não são completamente fudidos como os maratonistas, mas também não são tão bons quanto os velocistas das provas de 100 metros, e portanto precisam mesclar velocidade e resistência.
+
+== História ==
+
+Na [[Grécia Antiga]] a prova era conhecida como ''"Hippios"'' porque apenas cavalos corriam distâncias de 800 metros em corridas, então permitiram que mulas também disputassem a prova, estas mulas deveriam vestir sapatos apropriados e podiam dar coices uns nos outros durante a corrida para eliminar concorrentes rumo à vitória.
+
+A modalidade foi uma das introduzidas na primeira Olimpíada Moderna de [[Atenas 1896]], e para manter a tradição os coices continuaram sendo permitidos, de modo que as raias foram abolidas e os competidores poderiam livremente se embolar no canto da pista.
+
+Primeiramente competido apenas por homens, a modalidade até foi liberada para as mulheres praticarem nos jogos de [[Amsterdã 1928]], mas o resultado foi um monte de mulheres tendo ataques cardíacos, desmaios e alucinações durante a prova, de modo que os 800 metros foram banidos permanentemente para mulheres. A prática foi, todavia, permitida para os [[travesti]]s a partir das olimpíadas de [[Roma 1960]].
+
+== Regras ==
+
+[[Arquivo:800 metros rasos.jpg|thumb|240px|Competidores de 800 metros rasos se agrupando para dar chutes uns nos outros.]]
+
+Diferente das corridas de [[100 metros]], [[200 metros]] e [[400 metros]], as competições de 800 metros não possuem raias, então é completamente permitido dar rasteiras, chutes, bandas e coices em adversários, vencendo aquele que sobrar.
+
+As provas de 800 metros são conhecidas por não premiarem o atleta necessariamente mais rápido ou mais resistente, mas sim aquele de melhor tática, pois a questão nesta modalidade não é apenas correr e chegar primeiro ao fim, mas sim atrapalhar e se embolar com os adversários enquanto se preocupa em dar duas voltas no estádio.
+
+== Recordistas ==
+
+=== Homens ===
+{| width=60%
+|- bgcolor="lightsteelblue"
+!align="center" style="width: 6em"|Tempo
+!align="center" style="width: 18em"|Atleta
+!align="center" style="width: 8em"|País
+|- bgcolor="efefef"
+| <center>1:40.91</center> ||<center>[[David Rudisha]]</center>||{{QUE}}
+|- bgcolor="efefef"
+| <center>1:41.11</center>||<center>[[Wilson Kipketer]]</center>||{{DIN}}
+|- bgcolor="efefef"
+| <center>1:41.73</center>||<center>[[Sebastian Coe]]</center> ||{{ING}}
+|- bgcolor="efefef"
+| <center>1:41.73</center>||<center>[[Nijel Amos]]</center>||{{BWA}}
+|- bgcolor="efefef"
+| <center>1:41.77</center>||<center>[[Joaquim Cruz]]</center>||{{BRA}}
+|- bgcolor="efefef"
+| <center>1:42.23</center>||<center>[[Abubaker Kaki Khamis]]</center>||{{SUD}}
+|}
+
+=== <s>Travestis</s> Mulheres ===
+{| width=60%
+|- bgcolor="lightsteelblue"
+!align="center" style="width: 6em"|Tempo
+!align="center" style="width: 18em"|Atleta
+!align="center" style="width: 8em"|País
+|- bgcolor="efefef"
+| <center>1:53.28</center> ||<center>[[Jarmila Kratochvílová]]</center>||{{CZE}}
+|- bgcolor="efefef"
+| <center>1:53.43</center> ||<center>[[Nadezhda Olizarenko]]</center>||{{URS}}
+|- bgcolor="efefef"
+| <center>1:54.01</center> ||<center>[[Pamela Jelimo]]</center>||{{QUE}}
+|- bgcolor="efefef"
+| <center>1:54.44</center> ||<center>[[Ana Fidelia Quirot]]</center>||{{CUB}}
+|- bgcolor="efefef"
+| <center>1:54.81</center> ||<center>[[Olga Mineyeva]]</center>||{{URS}}
+|- bgcolor="efefef"
+| <center>1:54.94</center> ||<center>[[Tatyana Kazankina]]</center>||{{URS}}
+|}
+
+[[Categoria:Provas do atletismo]]

@@ -1,0 +1,280 @@
+<choose>
+<option>{{DISPLAYTITLE:Florianópolis}}</option>
+<option>{{DISPLAYTITLE:<s>Florianópolis</s> Ilha de Desterro}}</option>
+<option>{{DISPLAYTITLE:Floripa}}</option>
+</choose>
+<!-- Começa código gigante da tabela -->
+{| class="toccolours" border="1" cellpadding="4" style="float: right; margin: 0 0 1em 1em; width:200px; border-collapse: collapse; font-size: 95%; width: 300px; clear: right;"
+|+ style="font-size: medium;" | <big>'''Ilha Extraterritorial Argentina de Florianópolis'''</big>
+|-
+| align=center colspan="2" |
+{| style="background: none;"
+|- align=center
+|- align=center
+|}
+{| style="background: none;"
+|- align=center
+| [[Arquivo:Bandeira de Florianópolis.png|150px]]
+|- align=center
+| <small>Bandeira</small><br /><br />'''Lema:''' ''Se quésh quésh, se non quésh, dish!''<br />'''Hino:''' ''Sou [[Gilberto Kassab|vagabundo]], eu confesso'' ([[Dazaranha]])<br /><br />[[Arquivo:Localização de Florianópolis.PNG|240px|center]]<br />Teritório total do país com a localização de Florianópolis no zoom.
+|}
+|- align=center style="vertical-align: top;"
+| style="font-size:95%" colspan="2" |
+|- style="vertical-align: top;"
+| '''Apelidos'''
+| ''Floripa, Flonópiş, Flops, Ilha da Magia, Colônia de Férias de Santa Catarina, Gaucholândia, Little [[Argentina]], Little [[Uruguai|Uruguay]].''
+|- style="vertical-align: top;"
+| '''Localização'''
+| Sobre o resto de terra jogado no mar para a construção da rodovia BR-101.
+|- style="vertical-align: top;"
+| '''Clima'''
+| De manhã: Furacões. De tarde: Chuva ácida. De noite: Vento sul.
+|- style="vertical-align: top;"
+| '''Idiomas'''
+| [[Manezês]] (oficial),[[Gauchesco]], [[Carioquês]], [[portunhol]] (semi-oficial)
+|- style="vertical-align: top;"
+| '''Führer'''
+| [[Cacau Menezes]].
+|- style="vertical-align: top;"
+| '''Heróis Locais'''
+| Qualquer um que fique famoso o suficiente pra aparecer na TV por 12 segundos no Jornal Nacional.
+|- style="vertical-align: top;"
+| '''Gentílico'''
+| [[manézinho]], ilhéu, naúfrago, floripano, coitado.
+|- style="vertical-align: top;"
+| '''População'''
+| Menor que [[Joinville]]
+|- style="vertical-align: top;"
+| '''Crescimento demográfico'''
+| +193,57% (verão), -193,57% (inverno)
+|- style="vertical-align: top;"
+| '''PIB anual'''
+| US$ 300 milhões deixados por turistas que deverão durar o restante do ano, já que o manezinho gosta mesmo é de pirão d'água e praia, 100 toneladas de ostra, um surfista de renome internacional, um Planeta Atlântida e uns três reggaes chatos que vão ficar tocando na Atlântida o resto da eternidade.
+|- style="vertical-align: top;"
+| '''Principais religiões'''
+| [[Nada|Vadiagem]], [[maresia... sente a maresia|Rastafari]], [[Herbalife]].
+|- style="vertical-align: top;"
+| '''Taxa de desemprego'''
+| Zero. Emprego é uma das coisas mais fáceis de se achar em Florianópolis. Ninguém que saiba trabalhar como [[DJ]], dançarina, operador de telemarketing, ou [[puta paga|stripper]] fica desempregado.
+|- style="vertical-align: top;"
+| '''Site do Governo'''
+| [http://www.clicrbs.com.br www.clicrbs.com.br]
+|}
+<!-- Termina código gigante da tabela -->
+
+
+{{Você quis dizer|Desterro}}
+{{Você quis dizer|Capital do RS?}}
+{{Você quis dizer|Chuvanópolis}}
+{{C|Eu moro onde tu passash fériash!|[[Manézinho]] sobre turista de qualquer outra cidade}}
+{{C|haa, taxx, tolo taxx?!|[[Cacau Menezes]] sobre Florianópolis}}
+{{C|Eu sou de Floripa |Morador da cidade vizinha de São José, sobre Florianópolis}}
+{{C|Eu sou de Floripa |Morador da cidade vizinha de Palhoça, sobre Florianópolis}}
+{{C|Floripa é a "ilha da magia"! |[[Armandinho]] sobre Florianópolis}}
+{{C|Floripa é a "ilha da Macumba"! |[[Joinvilense]] sobre Afirmação acima}}
+{{C|Vô pra lá nessas férias! |[[Playboy]] de [[Goiânia]] sobre Florianópolis}}
+{{C|Tem pó-pá-tápa-taio?"! |Pescador de Florianópolis perguntando se alguém tem pó para tapar talhos}}
+{{C|Fora Houlies ! |Surfista de Floripa sobre surfistas de fora de Floripa}}
+{{C|Floripa é a "ilha de Jesus"! |[[Evangélico]] revoltado com a magia sobre Florianópolis}}
+{{C|Nunca vi esse lugar..|[[Stevie Wonder]] sobre Florianópolis}}
+{{C|Se quésh quésh, se non quésh, dish.|[[Lulu Santos]]''', em canção inspirada pelo dialeto local}}
+{{C|Yo xerei mutcho acá!.|[[Maradona]] sobre sua curta passagem por Canasvieiras, Florianópolis}}	
+{{C|Aki aqui oh... Folóplis esh o bixo ow!.|Mané sobre Florianópolis}}
+{{C|Um abraço para os amigos da TV Barriga Verde, canal 9 em Florianópolis.|[[Silvio Luiz]]|Florianópolis}}
+{{C|Cadê minha arrecadação? |[[Joinville]] sobre Florianópolis}}
+{{C|Tá junto com a nossa |Restante dos catarinenses do interior sobre a afirmação acima}}
+{{C|Vai te roçar nas ostras, ô!|[[Manézinho]] quando não gosta do que ouve.}}
+{{C|Ixtepô!|[[Manézinho]] sobre comentário acima.}}
+{{C|A Beverly Hills catarinense!|[[Gaúcho]] retardado mental novo-rico, que nunca foi à cidade americana.}}
+{{C|Precisamos de um Emiliano, de um Fasano. Precisávamos ter tudo chique, branco e dourado.|[[Marraiana Perez]], nazista filha da puta, o Justo Veríssimo de Florianópolis, querendo que pobre se exploda.}}
+
+[[Arquivo:Ilhadelost.JPG|thumb|left|Aqui é '''Florianópolis'''. Ou a ilha de [[Lost]], não se sabe ao certo.]]
+
+'''<s>Novo Rio De Janeiro</s> Florianópolis''' ([[Manezês]]: ''flo•nó•piş'') Foi um departamento ultramarinho pertencente à [[Argentina]] durante muito tempo, mas foi reconquistada e é uma das atuais capitais dos Estados Unidos do Sul, localizada em uma ilha na costa de [[Santa Catarina]].
+
+Geralmente os turistas ignorantes acham que Florianópolis é composta apenas pela parte insular, mas um pedaço (minúsculo) do continente também faz parte do município. Para chegar a Floripa de carro, pelo norte ou pelo sul, a única alternativa é a BR-101 (chamada de briói pelos manezinhos que não sabem o que é uma BR). Não adianta explicar muito, pois com certeza [[você]] não irá enxergar a placa e passará direto pela entrada. Se [[você]] vier pelo sul, quando se der conta já estará em Biguaçu (onde vivem os biguassuínos). Se vier pelo norte, vai passar direto para dar em Palhoça (colônia do [[Acre]]). 
+
+Depois de se perder, pedir informações, e descobrir que segundo os manezinhos para chegar a Floripa você deve seguir em frente por uma enorme quantidade de tempo (ou, segundo o dialeto local, "segue reto toda vida"), até virar no shopping na Via Expressa, você poderá encontrar as pontes. As pontes se destacam pelo seu facilmente distinguível e imenso congestionamento. Florianópolis tem apenas uma ponte para entrar e outra para sair da cidade, e você terá certeza que cruzou a ponte certa ao sentir o agradável cheiro do centro de tratamento de esgoto que recepciona os turistas. 
+
+A Avenida Beira-Mar Norte, além de enganar turistas de primeira viagem ao dar impressão de aparentar ser uma cidade grande e cosmopolita, concentra a maior quantidade de mulheres loiras e gostosas fazendo cooper por metro quadrado do Sul do Universo.
+A ponte Hercílio Luz, aquela do cartão postal, serve apenas para enfeite.
+
+[[Arquivo:Florianopolis frio SC.jpg|300px|thumb|Tipico friozinho agradável em Florianópolis nos meses de julho]]
+
+== História ==
+[[Arquivo:Florianopolises.jpg|thumb|left|Aqui é Floripa, reparem que forma um 'H'. 'H' de Homossexual!]]
+
+=== Século 18 ===
+Descoberta por [[Vasco da Gama]], um [[fluminense]] de [[Botafogo]] com certa influência [[Flamengo|flamenga]].
+
+Tudo começou aproximadamente no ano de [[1726]], quando os gaúchos tentaram tomar alguma providência do fato de estarem na ponta do [[Brasil]] e completamente isolados da Região Sudeste. Para facilitar o trânsito, eles decidiram construir uma rodovia que levasse até lá pelo trajeto não necessariamente mais curto, mas com certeza o mais bonito(se é que você acha bonito um monte de arvore e uns mangues cheios de mosquitos). Traçaram, então, a [[BR-101]], que passa por todo o litoral catarinense. Durante o processo de construção, a terraplanagem foi particularmente difícil num trecho bem no meio do litoral do estado. O monte de terra retirado não podia ser jogado no continente (o Vale do Itajaí, ao norte, e as minas de carvão de Criciúma, ao sul, não deixavam mais espaço). Então, a única alternativa foi jogá-lo no mar, formando uma ilha com um formato estranho.
+
+Os gayúchos passavam reto pelo local sem perceber a cagada que tinham feito, e por isso a ocupação da ilha começou como uma colônia de portugueses sacanas que desejavam manter e expandir as fronteiras do Tratado de Tordesilhas mais para o sul e para o interior. Para isso, os portugueses construíram diversos fortes em pontos estratégicos da ilha, protegendo as baías. Eles só não contavam com o bando de espanhóis sacanas, que desejavam manter e expandir as fronteiras do Tratado de Tordesilhas mais para o norte e para o litoral. Os espanhóis invadiram e dominaram a cidade por vários anos. Os portugueses bem que tentaram atacar a esquadra espanhola, mas diz a lenda que nenhum canhão funcionou. A lenda também diz que os canhões foram comprados de segunda mão num mercadinho de Barcelona, alguns anos antes dos conflitos.
+
+Um acordo posterior permitiu a volta do domínio português, representados pelo povo açoriano. Contudo, o acordo previa que parte do território de Florianópolis seria novamente invadido, todos os anos. É por isso que todo verão uma horda de argentinos sacanas, descendentes dos espanhóis sacanas, invade a praia de Canasvieiras e os arredores.
+
+=== Século 19 ===
+O primeiro nome de Florianópolis era Desterro. Um dia, um bando de desterrenses revoltados se rebelou contra [[Floriano Peixoto]], [[ditador do Brasil]], [[Maceió|maceioense]] e comedor da [[Vera Fischer]]. Floriano, que era macho, mandou matar metade da cidade na Ilha da Anhatomirim, localizada na Baía Norte. Depois disso, não satisfeito, ordenou que a cidade, a partir daquele dia, fosse chamada Florianópolis, em sua própria homenagem. A metade sobrevivente da cidade, desejando permanecer viva, aceitou a sugestão e assim ficou. Foi a única coisa relevante nesse período de tempo.
+
+=== Século 20 ===
+Os primeiros imigrantes a chegarem a Florianópolis depois dos portugueses açorianos foram os gaúchos de [[Porto Alegre]]. Depois de dizimar a incipente civilização existente, com a desculpa de que se não fossem eles nem a ilha exisitiria, os gaúchos passavam os dias a reclamar de uma cidade onde não havia assinatura do Zero Hora e do Correio do Povo, e a dizer que em [[Porto Alegre]] tudo era tri-melhor. Misteriosamente, mesmo considerando Porto Alegre tri-melhor, eles não pararam de chegar e de estabelecer residência na cidade onde tudo era tri-pior.
+
+Depois dos gaúchos, a segunda leva de imigrantes foi de paulistanos que usam gel no cabelo, camisa de manga comprida e bermuda na praia enquanto estouram <s>champagnes</s> espumantes na praia por se considerarem ricos e terem uma BMW velha, fugindo do caos e do trânsito de [[São Paulo (cidade)|São Paulo]]. Cansados de reclamar do tédio e da falta de opções da cidade, os paulistanos resolveram matar as saudades trazendo os engarrafamentos e a violência para Florianópolis. Para compensar, alguns paulistanos montaram ótimas pizzarias, mesmo assim não foi uma boa troca. As pizzarias fecham cedo e os paulistanos ainda levam o dinheiro ganho pra trazer o resto da família, em custódia de sequestradores.
+
+<s>Putos</s> Insatisfeitos ainda com o Século XIX, os estudantes da UFSC (uns 19) se reuniram em novembro de 1979 pra dar um tapaço na cara do presidente [[Figueiredo]] e quebrar uma estátua dele. No final, o presidente voltou pra casa e não fez porra nenhuma. O episódio é conhecido como a [[Novembrada]], originalissimamente.
+
+=== Século 21 ===
+Já em minoria absoluta, os verdadeiros manezinhos refugiaram-se no extremo sul da ilha, numa região conhecida como Ribeirão (da Ilha, claro), onde passaram a cultivar ostras mutantes, preparando verdadeiros exércitos subaquáticos para a futura retomada das terras do norte.
+Em 2012, após 25 anos de projeto, subornos e muita especulação imobiliária, inaugura-se a incompleta e totalmente inútil '''Beira-mar Continental''', ligando a Ponta do Leal à Ponte Hercílio Luz, num trajeto de 1000 metros e 4 pistas.
+Com o objetivo de valorizar essa <s>cagada</s> avenida, instalam-se 8 semáforos (sinaleiras, como se diz na língua nativa), 2 bancos de descanso em alvenaria (os também denominados '''amansa-cus''') e uma placa comemorativa para exaltar o <s>corrupto</s> excelentíssimo prefeito ''Dando o Berger'', quem se apoderou da autoria da obra.
+
+== Dialetos ==
+Florianópolis possui duas línguas oficiais, o "manezês" e o "portunhol", sendo ambas línguas sazonais. No inverno prevalece a língua nativa: o "manezês" que consiste em um português pronunciado em alta velocidade "bem rapidin" (o idioma da ilha), onde o "s" é pronunciado com som de "x" (xichs), já no verão com a vinda dos nossos hermanos porcos gringos todos os nativos mudam para o portunhol afim de agradar o turistar e afanar um pouco de bufunfa. Abaixo alguns exemplos de frases comuns e sua tradução para o português:
+{{col-begin}}
+{{col-4}}
+
+* {{aspas|Tásh tolo tásh?}} (Enlouqueceu?)
+* {{aspas|Uix, uix, negô!}} (Algo como  "Ui, Ui nego!" e pode ser complementado com "Taish tolo taish?")
+* {{aspas|Cosa lindja}} (Você é muito bonita)
+* {{aspas|Te doli cu rufo da tarrafa nush córnu}} (Eu vou agredir)
+* {{aspas|Te acarqueto os óios}} (Te arranco os olhos, em resposta à ameaça acima)
+* {{aspas|Óliólió!!}} (Óóóó... Tax tolo tax?)
+* {{aspas|Surrashcu}} (Assado de Carnes bovinas)
+* {{aspas|Raio-Sish}} (Raio X)
+{{col-4}}
+* {{aspas|Dishcambassesh ooo}} (Você tem decaído em qualidade)
+* {{aspas|Mofash ca pomba na baláia}} (Mofas com as pombas no balaio)
+* {{aspas|Se keish keish, si num keish dishliga}} (Chamada a cobrar, para aceitar continue na linha após o sinal)
+* {{aspas|Ishtepô}} (Idiota,imbecil)
+* {{aspas|Inveja é mato!}} (Inveja tem de sobra)
+* {{aspas|Ô seu eshcomngado!!}} (O pior xingamento que sua vó manézinha pode usar)
+* {{aspas|Vai pru mato vê se urubu te pinica ô!!}} (Semelhante à Vai deitá ô!!)
+* {{aspas|Ô mô kiridu!!}} (Semelhante Meu querido!!)
+* {{aspas|Nãnãnã!!}} (Não, na velocidade 5 da música créu!!)
+{{col-end}}
+
+O maior divulgador atual desse dialeto é o conhecido tenista, havaiano, empresário, dono de condomínio, aposentado e pé-rapado [[Guga Kuerten]].
+
+[[Arquivo:Saara.jpg|thumb|left|As dunas da Praia da Joaquina, ótimo lugar para a prática de sandboard e o lugar ótimo para brincar de pique-esconde, fique a vontade, nem precisa levar potinho, pois você trás areia no corpo já!]]
+
+== Outras curiosidades ==
+* O maior capitalista da cidade é o Seu Chico. Basta um breve passeio para encontrar os múltiplos empreendimentos de Seu Chico, como o Restaurante do Chico, o Supermercado do Chico, o Bar do Chico e a Peixaria do Chico, e a pizzaria Chico da Ilha. Seu maior concorrente é o Alemão (você também encontrará uma rede grande de "bares do alemão" em todo o estado de [[Santa Catarina]] e até fora dele).
+
+* Florianópolis é a única cidade do [[Brasil]] a contar com Curiódromos, espaços onde homens podem exibir seus curiós uns para os outros, sem preconceitos, além de promoverem campeonatos onde disputam quem tem o curió mais potente (ou algo assim), também sem preconceitos. Impressionados com esta prática, os gaúchos criaram sua própria versão, o dô-curiódromo (sendo, secretamente, praticada em CTGs e na praia da Galheta).
+
+* A população de Florianópolis é formada por: 25% de estudantes universitários gaúchos e paulistas, 25% de Argentinos que desistiram de pegar a BR-101 todo ano e ficarem 3 meses nos engarrafamentos da ponte e resolveram fixar residencia em Canasvieiras, 25% de aposentados e 25% de funcionários públicos.
+
+* Num bairro, Saco dos Limões, decidiram construir um terminal de ônibus que ao ter suas obras concluídas, acharam que ele não era necessário e que o melhor seria desativa-lo. Uns 10 anos depois, resolveram construir outro terminal no mesmo bairro, que com o passar de alguns meses, também foi desativado. O primeiro virou ginasio de ping-pong e o outro, está lá, sozinho, azul e a alguns km de um dos curiódromos locais.
+* Esquema Floripa - [[RBS]]: Para a emissora quando um time, atleta, empresa, ONG, ou qualquer mané de outra cidade de SC se destaca ele é catarinense. Agora se ele está num raio de [[100]] km da capital (Grande Florianópolis) ele não é Catarinense é de Florianópolis... O que deixa muitos Joinvillenses revoltados com o apoio da mídia à capital, porém, ninguém ainda descobriu o motivo desta irritação.
+
+* A população de Florianópolis é única no mundo. Dependendo exclusivamente do setor de serviços em especial das divisas que os turistas trazem, em Floripa o turista é extremamente mal-tratado. Além disso, tudo fecha nos feriados (TUDO) inclusive as baladas fecham todas cedo. Se você sentir fome, a opção é comer um pastel no supermercado do Chico.
+
+*Florianópolis é a única cidade do Estado de SC onde existe um ônibus sem teto, dizem que foi criado pra população sentir melhor o cheiro de merda da Av.Beira Mar Norte, por ter dois andares os manézinhos o chamam de Bibus.
+
+== Clima ==
+Os fenômenos climáticos em Florianópolis dependem muito do ponto de vista ou da fonte de informação. Segundo os próprios moradores, nunca chove (toda a chuva do estado se concentra em [[Joinville]]). Segundo a [[Rede Globo]], todo final de semana chove. Aliás, segundo a [[Rede Globo]], chove não apenas nos finais de semana, mas durante todo o verão e em todos os feriadões. Se você quer sol, segundo a [[Rede Globo]], sua única opção é o Nordeste (onde, por sinal, são filmadas muitas de suas [[novela]]s).
+
+Durante o inverno, a cidade é invadida por um fenômeno conhecido como Vento Sul (também conhecido como vento suli!), tornando-se o lugar mais ventoso do mundo, com isso os gays manézinhos ficam todos molengos iguais cadelas no cio.
+
+== Turíjmo (Turismo) ==
+=== Xenofobia ===
+Os manezinhos são estressados. Tá estressado? Vai surfar e não enche o saco! Sai da frente Edson! Sempre soube-se que a cidade triplicava. A novidade é que agora não tem mais diferença entre o verão e o inverno, quem vem fica! Principalmente os paulistas que vão para floripa e decidem ficar lá porque acham as praias [[da hora meu]]. Por isso a cada dia que passa cresce o movimento Fora Haole! ou Bem vindo à Floripa, não esqueça de volta pra casa! ou ainda, Estamos lotados!
+Tal incontestável crescimento desordenado gera transtornos ao manézinho que, cada vez mais, manifesta sua insatisfação através de [http://www1.folha.uol.com.br/folha/educacao/ult305u18798.shtml comportamento segregador], por vezes de [http://www.clicrbs.com.br/diariocatarinense/jsp/default.jsp?uf=2&local=18&section=Geral&newsID=a1945387.htm forma violenta].
+Óliólió!! An an an, taish tolo?
+
+=== Praias ===
+
+[[Arquivo:praia flor.jpg|thumb|left|Belo dia para pegar uma praia em Florianópolis.]]
+
+
+A cidade conta com [[42]] praias, em todas as direções da ilha e até dentro dela (chamada de Lagoa da Conceição). Recentemente, tentaram aumentar esse número pra [[100]] pra parecer mais bonito e impressionante nos folhetos de viagem e nas propagandas que passam na [[RBS]], só que não foi achado argumento. A maioria das praias estão lotadas a ponto de ter gente fincando o guarda-sol no calçadão.
+
+Tem até duas praias <s>homossexuais</s> de nudismo, que são muito frequentadas por gaúchos e argentinos . Uma chamam-se Galheta, porém alguns chamam de [[Buenos Aires]], e a outra chama-se Praia do Pinho Sol.
+
+A região continental também tem praias excelentes para <s>cagar</s> apreciar, onde é possível pescar garrafas pet e doenças sexualmente transmissíveis. A mais conhecida delas ('''a praia do cagão''') conta com lindos cocodutos, ornamentados com pedras artificiais (resultantes do aterro da beira-mar continental), maconheiros e duas garças migratórias originárias da Ponta do Leal.
+
+=== Mercado Público ===
+[[Arquivo:Mercado.jpg|thumb|Mercado Público durante evento de admiradores do [[reggae]].]]
+É o shopping dos Manézinhos. Lá também eles fazem seus [[rituais satânicos]] para expulsar Haoles. Tem um boteco afrescalhado numa das pontas, onde se paga caro para comer casquinha de siri com champagne de Bento Gonçalves, achando que estão abafando. Sem falar na catinga de peixe podre. Dica: Não pise nas águas que escorrem por dentro do mercado, são liquidos cadavéricos de peixes assassinados para os manés comerem com o champagne.
+
+=== Festas Típicas ===
+* '''Festa da <s>Laranja</s> Cocada'''- Como o nome sugere, nessa festa encontra-se grande variedade de cocadas. Ainda que existam lendas sobre um antigo laranjal local, o nome faz referência aos visitantes "laranjas", que vêm anualmente oferecer celulares, bolsas e carteiras para os manos do morro da Serrinha, que seguindo uma tradição de mais de 5 anos, correm freneticamente em bandos pela festa, fazendo a alegria das moças virgens. Sendo um ponto de encontro para os alunos da UFSC matarem as aulas e dizer para suas namoradas que estão estudando até mais tarde.
+* '''Festa da Tainha''' - Grande barracão onde o povo come peixe frito com pirão e acha o máximo. Foi suspensa depois de um escândalo político.
+* '''Fenaostra''' - Ostras oriundas de todo litoral do estado se reúnem para por o papo em dia.
+* '''Horas Felizes na UFSC''' - extintas por um bêbado forasteiro, que atropelou uma dúzia de pessoas e matou uma garota da Univali na festa da arquitetura.
+* '''Berbigão do Boca''' - ninguém sabe ao certo o que vai fazer lá, mas todos pagam prá aparecer e para cantar pagodinhos infames. Um fato interessante é que a festa é anunciada com seis meses de antecedência, através de um '''jingle''' pentelho ('''...que coisa louca, que coisa louca, é o berbigão do boca...''') tocado em carros de som de duas rodas (motofalantes) nos horários mais incômodos (por exemplo: quando você está cagando).
+
+=== Pontes ===
+
+[[Arquivo:Golden Gate.jpg|200px|left|thumb|A Ponte Hercílio Luz, antiga Golden Gate Bridge, transplantada por Magneto no X-Men III, motivo pelo qual está quase caindo e ninguém pode passar sobre ela.]]
+* '''Hercílio Luz''' - Como minha Vó já dizia: O Dia em que uma virgem passar pela ponte Hercílio Luz a ponte cai. Afinal, foi ideia de gênio construir uma ponte de ferro no mar...
+* '''Pedro Ivo Campos''' - Ponte dedicada a entrada de gringos, congestionamentos homéricos e retorno de manifestantes.
+* '''Colombo Salles''' - Ponte dedicada a saída de gringos, apagões, revoltas, manifestações, greves, terrorismo, congestionamentos homéricos e suicídios.
+* Essas duas últimas fazem você esquecer do termo "Ilha da Magia" se você precisa atravessá-las às [[7]], [[12]] ou [[18]] horas. Seus apelidos, nesses horários, são "Puta Que O Pariu" e "É Foda". Por isso fique na merda de bairro que você optou por viver!
+
+== Educação ==
+A cidade conta com várias universidades e colégios:
+
+* '''[[UFSC]]''' - '''U'''nião das '''F'''aculdades '''S'''eparadas por '''C'''órregos. Ver artigo principal.
+* '''[[UDESC]]''' - Universidade estadual que tem um centro em cada canto do Estado, totalmente desconhecida fora do estado, mas provavelmente muito mais indecente pra se estudar. Também o maior formador de pseudo-artistas do Estado.
+* '''[[UNIVALI]]''' - Universidade particular onde estudam aqueles que não foram espertos o suficiente para passar nos vestibulares das universidades públicas, pela falta de inteligênia sofrem tentando uma transferência... Pois sonham em estudar na ufsc/udesc.É conhecida também como pagou-passou
+* '''UNICA''' - Não é a única, mas tem esse nome mesmo assim. Não pergunte na rua porque ninguem vai saber onde é. Mas vamos tentar explicar: Fica atras do supermercado Rosa, na rua de tras, entre num beco, vire a direita, vai toda vida reto, e vai ter uma placa escrito: Única. Seu lema: Pagou Passou!
+* '''IES/FASC''' - Universidade particular para aqueles que não conseguem nada da vida e vão para a faculdade mais barata.
+* '''[[UNISUL]]''' - É um sinónimo de UNIVALI... ninguém nunca acerta qual é qual... (tenho um amigo que estuda na uni.. ah sei lah.. é uma daquelas de lah uni...) Assim como suas colegas particulares é conhecida pelo sistema Pagou-Passou.
+* '''[[BARDDAL]]''' - Universidade com o nome que começa com BAR, tem que falir, não pode ser diferente. Antes de chegar as ruínas, teve a façanha de ser a primeira faculdade particular a ter greve de professores.
+* '''[[ESTÁCIO DE SÁ]]''' - Universidade onde até analfabetos passam entre os 10 primeiros lugares no desempenho geral.
+* '''[[CESUSC]]''' - Universidade onde se encontra a maior quantidade de filhos de juízes, advogados ou pessoas bem sucedidas frustadas por não passar na UFSC. Nela você encontra possivelmente a maioria dos filhinhos (as) de papais da cidade. Sem contar no desfile de moda que existe, lá você conhece as antigas, atuais e futuras tendências da moda, principal do sistema PPP(Papai pagou passou).
+* '''[[CEFET-SC]]''' - Centro Federal de Educação Tecnológica de (Onde fica? É particular?) Santa Catarina, mas só vão saber o que é se procurarem por "Escola Técnica". Têm um monte de cursos de nível Superior, mas ninguém, nem seus alunos sabem quantos nem como se chamam (Que dirá, então pra que servem...).
+* '''[[CEPU]]''' - Centro Educacional Para Umildes, Mobral do estilo "Pagou passou". Localizada perto do Emocentro. Uma faculdade para seus alunos que não conseguem passar em qualquer vertibular, nem os passaportes Unisul(Entrou+Pagou=Passou). É considerado uma "Faculdade Mental", também muito usado nas brincadeiras escolares aonde o "u" rima com meu pau no seu cu.
+* '''[[Sarapiquá]]'''  - Escola denominada "Alternativa", é rodiada por árvores em toda parte, cuja maioria dos pais que botam seus filhos lá são índios, hippies ou usuários de maconha. No meio de aula, alguém olha pela janela da humilde sala - cheia de borrachudos no qual cada aluno deve levar 5L de repelente por dia - um macaco, então ele grita "Olha!, um macaco!" e a sala inteira (até a professora) saí fora pra ver a porra do macaco...Isso que é aula hein?
+* '''[[COLÉGIO DA LAGOA]]''' - Em que bairro será que fica? Tem o auditório menos funcional de Santa Catarina. Colégio com a segunda maior concentração de playboys de Florianópolis.
+* '''[[CEMJ]]''' (Centro Educacional Menino Jesus) Hein?, que isso?, uma escola?, aonde fica?
+
+* '''[[ESCOLA ADVENTISTA]]''' - Lugar onde os pais não vêem mais saída para os filhos mimados e miseráveis, ou oportunidade de pobres conseguirem subir. Uniforme azul pra lembrar que são diferentes e vão pro céu, 40% dos alunos estão lá como castigo dos pais.
+
+== Localização ==
+Situado no sul da Ilha de Santa Catarina, faz divisa ao leste com a África e ao sul com o Rio Grande do Sul. Portanto, são os florianopolitanos mais chegados nos gaúchos, uruguaios e argentinos.
+
+== Economia ==
+A economia baseia-se na produção e exportação de alucinógenos, entorpecentes, maruim e berbigão. Por contar com um aeroporto, pesquisas estão sendo feitas para a importação/exportação, em larga escala, da gripe suína.
+O escambo foi abolido assim que foi proclamada a "Lei de Gerson", sendo esta a lei mais respeitada na atualidade.
+
+== Tratado de Todasasilhas ==
+O Tratado de Todasasilhas teve por objetivo evitar a invasão de um <s>morro</s> bairro contra um outro, porém ninguém respeitava porque queriam a liderança <s>do campeonato</s> no comércio das bolinhas, que era a droga da época.
+
+== Futebol - Catarinense ==
+
+Figueirense e Avaí acham ser os dois maiores clubes do estado, acham ter as duas maiores torcidas, e o Criciuma sempre com inveja da capital, inclusive o retardado que fez esta página é de Criciuma, invejoso e inúti.
+Os torcedores do Figueirense e do Avaí acham que torcem para os dois maiores do estado, e que sempre ganham dos eternos fregueses Criciuma e Joinville. 
+
+'''Os times de Florianópolis são conhecidos pela sua extrema rivalidade. Figueirense e Avaí quando jogam param o estado todo. É o clássico das multidões, o que dizem..
+O comentarista Roberto Alves define o clássico da Ilha como o maior jogo de futebol do mundo onde o imenso público de 20 mil pessoas lota os estádios de Florianópolis, e toda a população nativa da ilha  se mobiliza para esse jogo tão importante...
+
+Resumo do campeonato catarinense:
+'''
+<br>
+<br>
+'''Avaí''': Contratou a pesquisa de um instituto suspeitíssimo pra poder dizer que é o maior time de SC. Sua conquista mais famosa (além de ser o time do Guga) é a série C de 98. Hoje amarga na série B e seus torcedores passam seus domingos e quartas-feiras secando o maior rival.<br>
+'''Figueirense''': Também conhecido como janelão, considera-se superior por estar na serie A mas nunca conquistou um título nacional. O time não fica necessariamente em Florianópolis e sim em um bairro denominado estreito colado ao munípio de São José. <br>
+'''Joinville''': Odeia a capital (porque não é capital!) e a capital odeia eles porque odeiam a capital por não ser capital.<br>
+'''Juventos''': Saco de pancada do campeonato<br>
+'''Chapecoense''': Time rebaixado em 2010 mas que por uma mágica da Federação Catarinense, voltou em 2011.<br>
+'''Metropolitano''': Hãn?<br>
+'''Criciúma''': Time conhecido como "Gangorra", que sobe e desce da C para a B e nunca sobe para a série A. Vive com inveja dos dois times grandes da capital, Figueira e Avaí, que tem as duas maiores torcidas. Os torcedores do Criciuma não suportam ver a capital com dois times na série A, e as torcidas do Figueirense gritando "Puta que pariu, série A Cuciuma nunca viu". ou também "Al al al, série A só na capital!" mas não é bem assim.. pois o Criciuma sempre esteve na seria A tomando baga e na lanterna.<br>
+'''Imbituba''': Outro time que existe no campeonato<br>
+'''Marcílio Dias''': Outro time que existe no campeonato também?<br>
+'''Concórdia''':Eu quero meu time aqui também.<br>
+'''Atlético de Ibirama''': Revelou Leandro Damião(Inter), Julinho(Vasco) e Fabrício(Cruzeiro) e tembém é conhecido por aposentar Biro-Biro, mas que atualmente disputa a liga Ibiramense de Futebol que não conseguiu ganhar. Também é conhecido por deixar a Chapecoense misteriosamente consegiur a vaga na séria A do Catarinense mesmo sendo rebaixada.
+
+== Ver também ==
+* [[Carvoeira]]
+* [[Brasil]]
+* [[Estados Unidos do Sul]]
+
+{{Capitais do Brasil}}
+
+{{Grandes Cidades de Santa Catarina}}
+{{Santa Catarina}}
+
+[[Categoria:Turismo em Santa Catarina]]
+[[Categoria:Cidades de baitolas]]

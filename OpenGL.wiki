@@ -1,0 +1,45 @@
+<div style="position:fixed; bottom:0; left:0">[[Arquivo:Mafagafo.jpg|link=|alt=]]</div>
+
+&nbsp;
+
+
+{{vqd|MerdaGL}}
+{{vqd|Realidade Virtual}}
+{{vqd|Gráficos de 128 Bits iguais ao do Nintendo Wii}}
+{{experimente também|[[DirectX]]}}
+{{c|Você está procurando: [[DirectX|DirectX, o melhor renderizador de gráficos 2D e 3D que existe]]|Bing|OpenGL}}
+{{c|Eu uso, porque é fodão e grátis.|[[Super Noob]]|OpenGL}}
+{{c|Eu consigo usar.|Usuário do [[Linux]]|OpenGL}}
+{{c|Eu consigo usar.|Usuário do [[FreeBSD]]|OpenGL}}
+{{c|Eu consigo usar.|Usuário do [[Mac OS X]]|OpenGL}}
+{{c|Eu consigo usar.|Usuário do [[Solaris]]|OpenGL}}
+{{c|Eu não consigo usar.|Usuário do [[Windows]]|Tio [[Bill Gates|Bill]] quer que usem apenas o DirectX}}
+{{c|Eu uso, porquê eu posso usar até no [[PlayStation 3]], [[Wii]], [[Pandora]], [[iPhone]] e até no Symbian OS|[[AAA]]|OpenGL}}
+{{c|Eu uso também|[[Ciro Bottini]]|OpenGL}}
+{{c|Experimente também o nosso Mesa 3D Graphics Library, um clone livre do OpenGL|Brian Paul|clone do OpenGL}}
+
+OpenGL é a API gráfica qual foi feita para ver perfeitamente a realidade virtual, ou seja é muito pior que o DirectX 11 qual chega a ter gráficos de 256 bits com a placa correta, mas esquecendo essa explicação de Nerd, é uma bosta qual permite ter gráficos 3D igual ao Nintendo Wii, enquanto o DirectX 11 tem gráficos iguais ao Xbox 360 (isso porque o DirectX foi feito pela Microsoft), assim você é obrigado a escolher o OpenGL para os jogos, já que isso está disponível até para o Linux (o que é ruim porquê o Linux é para pobres e mendigos) e também porquê é muito difícil colocar para o DirectX, então o Ruindows vem com um driver genérico software para o OpenGL qual é lerdo para caraca (a não ser se você tiver um processador Dual Core) qual você terá que consultar o fabricante se sua placa é compatível com o OpenGL e quando não é, você tem que comprar jogos com DirectX ou procurar um grátis (se você tiver muita sorte) ou então use o Linux se você quiser gráficos ruins para jogar.
+
+[[Arquivo:Wii zero suit Samus ARAN.jpg|thumb|No jogo [[Metroid]], a [[Samus Aran]] é renderizada pelo OpenGL ES]]
+
+== Evidências de que o OpenGL é uma merda ==
+
+* OpenGL é baseado na decomposição das imagens em [[poliedro]]s, o que é uma merda, porque se você olha para uma [[gostosa]] o que menos tem são poliedros: tem cones, hemisférios, cilindros e bucetoides.
+* OpenGL foi escrito em [[linguagem C|C]], uma linguagem de programação muito famosa nos [[anos 1970]] mas que, hoje, só velhos esclerosados que ainda sabem usar. Ou seja, ninguém mais sabe como consertar os bugs desta merda ou acrescentar funcionalidades novas.
+* OpenGL é [[multiplataforma]], o que quer dizer que é uma merda em qualquer lugar que rode, pois não consegue ser eficiente em nenhuma.
+* OpenGL roda no [[Android]], mais uma evidência da ruindade, porque o Android só roda coisa ruim e lenta.
+* Dá para incorporar OpenGL no [[Java]], mas isso é pura propaganda enganosa, porque se coisas simples já são lentas pra caralho em Java, imagina fazer a renderização de coisas em 3D!
+* OpenGL funciona até com o SDL, o que torna os gráficos ainda mais cagados do que o OpenGL puro.
+* A Possibilidade de seu pc rodar algum jogo feito com Opengl sem lag, é a mesma porcentagem do que você ver um Cubo Redondo ou um Pólitico Honesto no brasil. ou seja, 0,0001%
+
+==Ver também==
+
+* [[DirectX]] Isso sim que é Gráficos 3D.
+
+==Links Externos==
+
+* [http://www.opengl.org/ Site Oficial do MerdaGL]
+
+{{oposto|DirectX}}
+{{esboço}}
+[[Categoria:Programação]]

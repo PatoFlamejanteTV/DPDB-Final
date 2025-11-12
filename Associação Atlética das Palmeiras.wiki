@@ -1,0 +1,52 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = black
+|brasao            = Escudo do AA Palmeiras.png
+|hino              = Uiiiii!!!!
+|nome_oficial      = Palmeiras em Preto e Branco
+|origem            = {{SP}}''' - [[São Paulo]]'''
+|apelidos          = Palmeiras Rosa, Uiiiii
+|torcedores        = palmeirui
+|torcidas          = Segurança e então bota um uii!!!
+|mascote           = Amalaro
+|ilustre           = 
+|estadio           = [[Avenida Angélica]], [[Chácara da Floresta]]
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Paulista
+|divisao           = 
+|títulos           = 
+|ranking           = 
+}}
+
+'''Associação Atlética das Palmeiras''' foi um time de futebol muito ruim lá de São Paulo, desses que eram tão ruins que ninguém sabia dizer com certeza qual era o escudo, como era o uniforme, de vez em quando, Ganhava campeonatos paulistas e nunca ganhava qualquer reconhecimento.
+
+== História ==
+=== Fundação ===
+
+Apesar de ser um time muito desconhecido, era um dos mais antigos clubes de São Paulo criado em 1902, fundado pelo primo do Epitácio Pessoa que durante suas férias na cidade de [[Mococa]]. O primeiro nome do clube era '''Olimpia''' porque naquela época qualquer paulista que fosse criar um time no estado só poderia acessar o [[Palácio do Catete]] como opção, e assim tentou criar um clube de pessoas formadas em direito, surgindo assim o Olimpia. Em 1905 o nome ainda mudaria para '''Associação Atlética das Palmeiras''' (que em [[língua paulista|paulista]] significa "Palmeiras em Preto e Branco") e só em 106 assumiria o atual nome de AA das Palmeiras.
+
+=== Chegada na primeira divisão paulista ===
+
+A estreia na primeira divisão paulista foi em 1904, mas por tratar-se de um time formado apenas por pessoas formadas em direito que jogavam futebol apenas por diversão nos finais de semana, mesmo se tratando de um torneio foleiro como o [[campeonato paulista]], a equipe teve a capacidade de ganhá-lo, tornando-se assim um dos grandes times secundários da liga que brigava apenas para não rebaixar. Em 1907 ficaria em terceiro lugar no campeonato estadual, o que seria uma revolução até 1908 pois o time encontraria ali a sua vocação para ser terceiro lugar.
+
+=== Extinção em 1929 ===
+
+Em 1929, ao perceber o sucesso de [[CA Paulistano]] e [[Corinthians]], talvez os times considerados mais razoáveis daquele estado no meio do nada, o AA das Palmeiras resolveu fechar as portas sem sentido. Mas obviamente, por ser um time mais falido que aquele mendigo que vive na sua esquina, o AA das Palmeiras teve que contratar absolutos bancos pra quitar as dívidas em 1929 para a sua grande salvção, e felizmente, não deu certo.
+
+== Títulos ==
+
+* '''[[Campeonato Paulista]]''': 3 vezes (1909, 1910 e 1915)
+* '''[[Torneio Início Paulista]]''': 3 vezes (1922, 1923 e 1925)
+* '''[[Taça Salutaris]]''': 1 vez (1910)
+
+{{Campeonato Paulista}}
+
+[[Categoria:Times de futebol de São Paulo]]
+[[Categoria:Times de futebol extintos]]

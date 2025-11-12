@@ -1,0 +1,279 @@
+{{Wikify}}
+
+{|cellpadding="0" cellspacing="0" style="width:95%; background-color:{{{fundo}}};clear:both;margin:1em auto 1em auto;border:2px outset mediumaquamarine;background-color:mediumaquamarine;text-align:center;font-family:Trebuchet MS;"
+|-
+| style="width:50px;padding:2px" | [[Arquivo:Gnome-searchtool_blue.png|40px]]
+| valign="middle" style="height:50px;padding:4px;color:black;font-size:120%;line-height:120%" | ''<big>'''{{{1|{{PAGENAME}}}}} é uma pequena cidade desconhecida.'''</big><br /><font size="1">Você pode estar perdendo seu tempo à-toa ao ler sobre essa joça.</font>'''<br /><font color="white"><small>'''''{{Cidadezinha/frases}}'''''</small></font>
+| style="width:50px;padding:2px" | [[Arquivo:Sciences_de_la_terre.svg.png|40px]]
+|-
+|}
+
+
+
+{| width=50% class="boilerplate metadata" id="stub" CELLPADDING=2 CELLSPACING=2 style="background-color: #dddddd; color: #000000; border-top: 1px solid black; border-bottom: 1px solid black; border-right: 1px solid black; border-left: 1px solid black;" align="right"
+|-
+| [[Arquivo:Alborghettieh.gif|60px|nada!|left]]<div align="center"><big>'''Este artigo propõe ser ofensivo e deixar você indignado!</big><br><small> Se ele não conseguiu ofender você  é  por que você não se ofende com nada mesmo! Vai então <s>tomar no cu</s> ouvir um CD do [[Luan Santana]]. Este cara é um espelho seu.<s>Queima a rosca e dá uma de um gostosão comedor de meninas</s> !'''</small></div>
+|}<includeonly>[[Categoria:Artigos ofensivos]]</includeonly>
+
+{{Citar|Nunca vi lugar mais bonito na minha vida!|[[Geraldo Magela]], o Ceguinho, sobre Crucilândia|}}
+
+{{Citar|Irmãos, abram a sua Bribia no livro de Salmos, no capitro 13 e leia os versicos 1 ao 20|[[Pastor]] evangélico de Crucilândia orientando os fiéis numa igreja perto da Praça da Matriz|}}
+
+{{Citar|O sá, vê lá sô!|Qualquer morador de Crucilândia, sobre Crucilândia|}}
+
+==História==
+[[Arquivo:crucilandia vista aerea245.jpg|thumb|left|230px|Vista Aérea de Crucilândia]]
+
+Em 1697/11698, causada pelo excesso de pessoas que afluiram para a região, a fome foi violenta na zona de mineração compreendida pelo polígono [[Ouro Preto]], [[Congonhas]], [[Pitangui]] e [[Sabará]]. Havia bastante ouro e quase nada para  comer que se pudesse comprar. Comia-se de tudo,[[veado]]s (!?!) lagartos, cobras, tatus, passarinhos e até bicho-de pau-podre. Muitas pessoas que trabalhavam no garimpo desiludidas se debandaram para outras regiões, fugindo do suplício da fome. Alguns mineiros liderados por um certo Pedro Meireles, partindo de [[Ouro Preto]], venceram a serra da Moeda e através de uma trilha indígena que ia até [[Belo Vale]], chegaram às margens do rio Manso um pouco acima de sua nascente e acamparam. Aquela área era infestada de gambás, o que foi um festa para os famintos, que logo foram capturando o máximo que puderam, tiravam a pele com cuidado, cozinharam com cará e encheram a barriga.  O cheiro? Não se preocupavam com isso pois eram todos portugueses e já estavam acostumados com o 'perfume' forte(???) das portuguesas. O lugar ficou então conhecido como Gambá. Construiram uma capelinha para  [[Santa Cruz]] e ao redor foram sendo construidas choupanas para os que vieram com Pedro Meireles. Logo surgiu um bar e um puteiro. O bar tinha uma mesa de sinuca, mas só vendia cerveja quente.
+Devagar foi chegando outras pessoas, plantaram milho e mandioca. No final do século XVII tinha 45 casas e 156 habitantes. Em 1880 o arraial foi elevado a distrito de [[Bonfim]], com o nome de Santa Cruz das Águas Claras. Para homenagear o [[bispo]] de [[Mariana]] D. Silvério, um negrão muito inteligente e poderoso, em 1910, com o bispo ainda vivo, mudaram o nome do distrito para Santa Cruz de Dom Silvério. Em 1923, um ano depois da morte do bispo, o nome do distrito foi simplificado para [[Dom Silvério]]. Em 1938, para diferenciar-se de outra cidade com o mesmo nome, foi trocado para Dom Silvério de Bonfim. Ainda distrito de [[Bonfim]], em 1943 trocaram de novo o nome para Crucilândia e com este nome em 1948 foi elevado a município. Nossa cidade teve seis nomes, o que é um absurdo.  Quando o  [[Jornal Nacional]] da [[TV Globo]] dava a notícia as pessoas da cidade riam. Sinceramente como habitante da cidade gostaria mais que fosse chamada com o bonito e romântico nome de Santa Cruz das Águas Claras. Crucilândia, como tantas outras 'lândias' que surgiram na mesma época, foi um modismo dos burocratas do [[Rio de Janeiro]], que deturpou muitos nomes bonitos de outras cidades do nosso estado.
+----
+[[Arquivo:crucilandia igreja245.jpg|thumb|left|230px|Igreja Matriz de Crucilândia]]
+----
+{{DadosMunicípioBrasil   
+<!-- GeoID=3542602 -->
+<!-- Cabeçalho -->
+| nome                 = Crucilândia
+| apelido              = 'Terra da Santa Cruz'
+<!-- Dados gerais -->
+| brasão               = Brasaocrucilandia.jpg
+| bandeira             = Bandeira crucilandia.jpg
+| link_brasão          = 
+| link_bandeira        = 
+| aniversário          = 27 de dezembro
+| fundação             = 30 de fevereiro
+| gentílico            =crucilandense| 
+| lema                 = 'Deo Gracias Habeamus Didelphus'
+| prefeito             = Ilaerson
+| partido              = DEM, PDS, PT,PR,PP,PV,PMDB,
+PTB, PDT, PCB, PSB,PTC, PTC, PRP, PPS, PP, PHS,PTN, PSOL, PR  
+| fim_mandato          = 2100
+<!-- Localização -->
+| mapa                 = MinasGerais_Municip_Crucilandia.svg
+| latP                 = S | latG = 19 | latM = 06 | latS = 
+
+30| lonP  
+               = O | lonG = 38 | lonM = 16 | lonS = 44| 
+estado  
+             =  Minas Gerais
+| mesorregião          = Mesorregião do Cu do Mundo
+| microrregião         = Microrregião da Preguinha nº 1 do Cu do Mundo
+| região_metropolitana = [[Belzonte]]
+| vizinhos             = [[Rio Manso]], [[Itaguara]], [[Juiz de Fora]], [[Piracema]], [[Ubatuba]], [[Sobral]] [[Piedade dos Gerais]] e [[Bonfim]].
+| dist_capital         = 456
+<!-- Características geográficas -->
+| área                 = 166
+| população            = 4.749 
+| data_pop             = Contagem da População 2010 - [[IBGE]]
+| densidade            = 29
+| altitude             = 1.300
+| clima                = quente, morno, frio e gelado
+| sigla_clima          =
+| fuso_hor             = -39
+<!-- Indicadores -->
+| idh                  = 0,100
+| data_idh             = [[PNUD]]/[[2000]]
+| pib                  = 1.330.233,25
+| data_pib             = [[IBGE]]/[[2008]]
+| pib_per_capita       = 280.108| data_pib_per_capita  = [[IBGE]]/[[2008]]
+}}
+----
+
+==Geografia==
+
+[[Arquivo:1234.jpg|thumb|left|230px|]]
+
+Crucilândia está situada no vale do rio Manso, cercada de montanhas de altitude entre 1.000 metros e 1.300 metros que fazem parte da serra da Moeda, na zona metalurgica de Minas Gerais. Desde 1956 é integrante da Região Metropolitana de Belo Horizonte. Além do rio Manso é banhado por muitos cursos d'água sendo os mais importantes o ribeirão dos Parreiras e o ribeirão da Sesmaria. É servida pela rodovia MG-040 que liga a BR-040 em Ibirité a BR-381 em Itaguara, passando por Bonfim e [[Brumadinho]], que tem mais curvas do que a [[Rita Cadillac]].
+----
+
+== Turismo==
+[[Arquivo:crucilandia festa peão245.jpg|thumb|left|230px|Festa do Peão e do Carro de Boi]]
+O maior acontecimento turístico da cidade era a 'Festa do Carro do Boi', que realizava todo ano no final de julho. Hoje, ainda temos os carros de bois, porém, o objetivo original está perdendo o sentido, pois juntaram a festa com um rodeio. Os abnegados carreiros ficam relegados ao segundo plano e os pseudo cantores e [[veado]]s do chamado movimento Sertanejo Universitário dominam a cena. Os artistas cantam e rebolam num palco, levando ao êxtase as 25 virgens da cidade, as outras que um dia já foram virgens (os pais, inocentes, acham que ainda são!), os [[boiola]]s, como também os rapazes bêbados,  que ficam levantando e balançando as mãos alucinados. Durante o final de semana que dura a festa é o período em que outras meninas deixam de ser virgens e aumenta o número de [[veado]]s. É que depois de beberem bastante e 'otras cositas', muitos 'indecisos' ficam largados e topam qualquer parada. No outro dia amanhecem com uma dorzinha esquisita na hora de [[cagar]]. Segundo um psicólogo [[gay]] isto não quer dizer nada, por que se você tomar umas cachacinhas de vez em quando pode ser chamado de alcoolatra? E se você der a [[bunda]] de vez em quando pode ser chamado de [[homossexual]]?
+[[Arquivo:cavalos.gif|thumb|center|1030px|]]
+
+
+Nos outros eventos como o [[Carnaval]], o Reveillon e a festa de São Geraldo acontece alguma coisa semelhante, o negócio é beber, pular, soltar a franga e assistir (ou participar) de uma briga.
+Muitos frequentadores nem sabe qual é o evento que estão participando.
+
+Estes eventos atraem as pessoas mais feias de [[Betim]], [[Contagem]] e subúrbios de [[Belo Horizonte]], os caipiras de [[Itaguara]], [[Piracema]], Rio Manso e Bonfim e os boiolas de [[Oliveira]] (que estão em toda parte) e de [[Cláudio]].
+
+O 'É Duro da Cachaça' também pode ser destacado como um evento importante, porém é  para um público bem específico: os que são tarados por uma motocicleta. Gostam mais dela do que das meninas. Sei não, hein? Acho que dormem abraçados com ela...
+----
+
+== Demografia==
+
+[[Arquivo:se ferrou245.jpg‎|thumb|right|230px|Se fudeu hein malandro!!!]]
+A população de Crucilândia é de 4.749 habitantes, sendo 2.613 mulheres e 2.136 homens e [[veado]]s. Embora esta defasagem entre o número de homens (???) e mulheres parece alta, ainda sobram mulheres na cidade. É que quando dois [[homossexuais]] se relacionam desaparecem dois 'homens' da estatística. Um dado interessante que está preocupando sociólogos da UFMG é que pelo levantamento do IBGE, 60% das mulheres de descendência branca (caucásica)  que moram em Crucilândia, tem bundas achatadas (parecidas com tábua de passar roupa) ou caidas e apenas  4% das descendentes de negros apresentam este grave defeito de fabricação. Ainda não chegaram a nenhuma conclusão.
+84% da população de Crucilãndia vive na zona rural e 16% na cidade. 
+Como o municipio tem 166 km² de área a densidade demográfica é de 29 hab/km².
+----
+
+==Educação==
+[[Arquivo:patrocinador melhor.jpg|thumb|center|400px|]]
+
+
+Da população de 4.749 pessoas, 2.850 pessoas são alfabetizados (sabem ler pelo menos), 475 pessoas apenas assinam o nome com dificuldade (eu estou neste grupo) e 1.424 pessoas são analfabetos de pai e mãe. Na cidade temos 2.137 pessoas frequentando escolas, 530 pessoas cursam o pré-escolar, 1.290 pessoas  cursam o ensino fundamental, 300 pessoas cursam o ensino médio e 17 pessoas cursam faculdades em outras cidades da região. São 10 mulheres e 7 homens. As  mulheres cursam Pedagogia, Educação Física, Ioga e Arte Culinária e os homens cursam Letras, Direito e [[Balé]]. Tem muita loirinha gostosa dos zoi claro. Bom, muita não, mas tem umas loirinha gostosa que se tu procura direitin tu acha. Dai amigo, se acha essas lora po casa.
+----
+==Saúde==
+
+A cidade não tem  hospital e todos os que precisam de assistência médica morrem ou  tem que ir de ambulância para [[Betim]] ou [[Belo Horizonte]] para morrerem mais longe, pois são tratados como pessoas de segunda classe. Registra-se a média de 286 óbitos por ano, sendo 5% de AIDS, 15% de intoxicação por anabolizantes e [[droga]]s, 8% de acidentes de automóvel, 10% de acidente de motocicleta, 5% por acidentes com animais, 20% por erro médico e 37% de velhice e outros motivos (cachaça) que os médicos (???) estagiários não descobriram ou não tiveram tempo de consultar o curandeiro. Se os médicos formados que trabalham na rede pública são uma [[bosta]], imaginem então os estagiários? Não sabem nem de que lado fica o fígado...
+----
+
+==Economia==
+
+
+A economia do município tem como base a agricultura, a pecuária, as lanchonetes que vendem hamburguer, uma fábrica de iogurte que sustenta toda a cidade e seus habitantes e a exportação de [[puta]]s para os postos da rodovia Fernão Dias. Antes elas  têm que passar por [[Itaguara]] para fazer pós-graduação.
+----
+[[Arquivo:claudio bebado245.gif|thumb|left|650px|Um bêbado no Rodeio]]
+
+== O Que Não Falta em Crucilândia==
+
+
+*  morena gostosa e provocante
+*  quarentona enxuta, peituda e fogosa 
+*  mulatinha bundudinha e gostosa
+*  mulheres feias, sem [[bunda]] e simpáticas
+*  beata e papa-hóstias
+*  fiéis que comungam na missa sem confessar
+*  pastor evangélico analfabeto que chama o livro sagrado de Bribia.
+*  [[maconha]], [[crack]] e [[cocaina]]
+*  vagabundo
+*  caipira
+*  mulher que quando coloca uma calça da moda para ir à missa a bunda fica chata igual  tabua de passar roupa. Quando anda então o pano balança feito cortina.
+*  mulher feia, com bunda e ajeitadinha (a apelidada 'raimunda')
+*  mulher feia, muito feminina, inteligente (de óculos), sem bunda, sem peito e que adora as músicas da [[Maria Gadú]] 
+*  [[cachaça]] da boa
+*  mulher fazendo regime e comendo tudo escondido
+*  moto sem documentos [[Arquivo:para que serve isto.jpg|thumb|left|200px|Eu não tenho. Para que serve isto?]]
+*  puta gorda, de vestido vermelho (sempre) e com bunda sobrando dos dois lados da calcinha de renda.
+*  os filhos delas
+*  buteco com copo mal lavado
+*  puxa saco de politico
+*  corno manso e conformado
+*  boiolas enrustidos (ainda no armário)
+*  mães solteiras 
+*  boiolas que foram para [[Belo Horizonte]] e visitam a cidade com a cara e os trejeitos do [[Luan Santana]]. 
+*  homem barrigudo, careca e [[broxa]]
+*  promessas falsas  de politicos
+*  bobo pra acreditar nessas promessas
+*  pessoal que fala mal das meninas de [[Piracema]]
+*  motorista sem carteira (alguns dirigem melhor dos que os que têm)
+*  mal pagadores
+*  carne dura no churrasco ( só matam vaca descarte)
+*  professora despreparada
+*  pretinhas que não gostam de namorar pretos
+*  duplas metidas a cantar música sertaneja (e mal)
+*  dono de boteco que não sabe atender clientes
+*  Pessoas falando (palavras estranhas) dialeto própio como "sá" e (o pior de todos) "vê lá sô" 
+*  barangas que se acham gostosas (muitas!)
+*  Rapazes que moram em [[Igarapé]] e falam pras meninas que moram em [[Belzonte]].
+*  mentirosos e mentirosas
+*  Corrupção
+
+----
+
+== O que há Para Fazer em Crucilândia==
+
+* Nada
+* Pescar
+* Nada
+* Tomar cachaça
+* Nada
+* Pescar e tomar cachaça
+* Ficar olhando as muié feia de bunda achatada.
+* Nada
+* Esperar a Festa do Carro de Boi (rodeio) e o Carnaval
+* Assistir a missa, cochilar na hora do sermão, [[peidar]] baixinho e fedido, depois comungar sem confessar
+* Sentar na praça e ficar falando mal dos outros
+* Nada
+* Ir na igreja evangélica pra vê as únicas moças virgens (??) da cidade. Aquelas que o pastor ainda não conseguiu [[comer]].
+* Passear de moto com a namorada com calça de cintura baixa mostrando o rego da bunda
+* Ficar olhando o rego da [[bunda]] das namoradas dos cara de moto
+* Nada
+* Tomar cachaça e pescar
+* Ir fazer compras no Carrefour de Contagem (uma viagem!)
+* Nada
+* Ir para as festas (ruins e repetitivas) arrumar briga e depois apanhar da policia (e da mãe)
+* Falar mal do prefeito e dos vereadores puxa-sacos dele
+* Nada
+* Fumar um cigarrinho de palha (alguns com cheiro de mato verde??)
+* Nada
+* Ajudar a mulher do corno (aquele!) a ser feliz...
+* Nada
+* Fazer uma visitinha pras putas de Rio Manso.
+* Nada
+* Comer hamburguer depois de enfiar a cara na cachaça
+* Ir nadar pelado nas cachoeiras com as meninas
+* Nada
+* Escutar musica sertaneja bem alta, com a tampa do bagageiro do carro levantada
+* Nada
+* Ficar em turma sentado na porta do buteco, sem camisa, de óculos escuros e tomando [[cerveja]].
+* Nada
+* Fazer romaria de cavalo para [[Congonhas]] e ficar com o [[cu]] e o [[saco]] todo ralado
+* Nada
+* Ficar contando 'causos' de assombrações e de mula sem cabeça
+* Ler o artigo sobre Crucilândia no [[Desciclopédia]] (se você tiver acesso aos 2gb de internet disponíveis em alguns ponto da cidade)
+*Ver o tempo passar sem nada para fazer
+kljhlkç
+----
+----
+
+== História de Importantes Famílias de Crucilândia==
+
+==='Os 'Alves'===
+[[Arquivo:juliana alves245.jpg|thumb|left|150px|Juliana Alves]]
+
+A origem do sobrenome da família é portuguesa. Alves é uma orruptela de Álvares (filho de Álvaro). Os primeiros Alves vieram escondidos em caravelas da expedição exploradora de Gaspar de Lemos no início do século XVI. Descobertos pelo capitão foram abandonados em [[Cabo Frio]]. Passaram a temporada na praia, mantiveram contato com alguns crucilandeses e um casal  decidiu vir para Crucilãndia e montar um hotel fazenda. Quebraram a cara.  A família Alves tem uma plêiade de 'modelos' famosas como Michele Alves, modelo paranaense de medidas perfeitas; [[Juliana Alves]], modelo carioca que participou do [[Big Brother Brasil]] para ter chance de posar nua para a [[Playboy]] e Camila Alves, modelo mineira que namorou o 'big boss' Peter Nelson da Columbia Sony e diz que vai casar com o ator norte americano Matthew McConaughey de quem ficou grávida por acidente: furou a [[camisinha]]. Todo mundo sabe que hoje '[[modelo]]' é um eufemismo para '[[garota de programa]]'. Todas estas 'modelos' tem parentesco com os Alves de Crucilândia.
+----
+===Os 'Amorim'=== 
+
+
+[[Arquivo:paulo henrique amorim245.jpg|thumb|right|150px|Paulo Henrique Amorim]]
+
+O fundador da família foi Joaquim Amorim,  procedente do concelho de Póvoa do Varzim e chegou ao Brasil na expedição de [[Pedro Álvares Cabral]]. Desembarcou em [[Porto Seguro]] e durante a comprida missa do padre Henrique de Coimbra, que durou mais de 3 horas, ao invés de ficar cochilando como os outros, aproveitou para sair todo libidinoso atrás de uma índia muito gostosa que estava dando bola para ele e perdeu-se na mata. Quando Cabral partiu, como era muito ruim de conta, contou o pessoal e não reparou a falta dele, deixando-o para trás. Ele amancebou-se com aquela índia e tiveram muitos filhos. Sua família em [[Portugal]] ficou preocupada com o sumiço e fazendo pesquisas, descobriu que ele residia na [[Bahia]] e contou a história para um jornal. Ganhou as passagens num programa de [[televisão]] e veio a seu encontro. Ele avisado de antemão abandonou a índia e veio com a família de Portugal a morar em [[Belo Horizonte]]. Mais tarde alguns mudaram para Crucilândia. Membros conhecidos da família são o ex-ministro Celso Amorim, o reporter Paulo Henrique Amorim e as 'modelos' Ariane e Thais Amorim. 
+
+----
+===Os 'Andrade'=== 
+
+[[Arquivo:livia andrade245.jpg|thumb|left|100px|Livia de Andrade]]
+Sua origem foi na [[Galícia]], cujo solar ficava entre Pontedeume e Vilalba, onde o rei D. Henrique II de Castela  doou terras a Fernão Peres de Andrade.  Um dos primeiros a chegar ao [[Brasil]] foi  Pero Coelho de Andrade. Um parente de Pero Coelho de Andrade, chamado Francisco que era amigo (???) da [[Marquesa de Santos]] e dividia com D. Pedro I os seus favores sexuais, recebeu para abandonar o Rio de Janeiro e não fazer concorrência ao imperador (que era tarado mais tinha [[pinto]] pequeno), uma bolada em dinheiro e uma sesmaria. Veio para Crucilândia e se estabeleceu. Uma das figuras mais interessantes da família é a portentosa Lívia de Andrade, atriz da televisão, que já fez ensaios peladinha para as revistas [[Sexy]] e [[Playboy]]. 
+
+----
+===Os 'Parreira'=== 
+[[Arquivo:carlos a.parreira.jpg|thumb|right|120px|Carlos Alberto Parreira]]
+
+A família Parreira ou Parreiras é de origem judaica e surgiu quando os praticantes do judaismo, para não serem expulsos de [[Portugal]], foram obrigados a adotar o cristianismo sendo então chamados de cristãos-novos. Trocaram os sobrenomes judeus por portugueses, como nome de árvores e acidentes geográficos. A família de Isaac Hansen, abastado financista, escolheu Parreira. Eram sete filhos, seis homens e uma mulher. Foram sócios de Fernão de Noronha em diversas expedições exploradoras. Em 1768 alguns membros da família resolveram vir para o Brasil e envolver na exploração de ouro em Mariana. Apoiaram e financiaram a Inconfidência Mineira e denunciados foram destituidos dos seus bens e degredados para a Africa. Os que ficaram aqui eram pobres e foram para a região de Belo Horizonte recomeçar a vida criando gado. Os Parreira de Crucilândia são descendentes desta linhagem. Um nome de destaque da família é Carlos Alberto Parreira que foi técnico da seleção brasileira de futebol.
+----
+===Os 'Silva'=== 
+
+[[Arquivo:Lula.jpg|thumb|left|120px|Luís Inácio Lula da Silva]]
+
+
+Sua origem é discutível. Alguns sustentam que é espanhola e deriva-se de D. Payo Gutierrez, que tinha o seu solar, às margens dp rio Minho, próximo da torre de Sylva. Foi para Portugal como 'adelantado', nomeado pelo rei Afonso Henriques. Cerca de 40% da população do Brasil tem este sobrenome, inclusive o nosso ex-presidente [[Lula]]. Esta abundância de Silva no Brasil tem uma explicação. Quase todos os portugueses  queriam vir para o Brasil e quando não tinham Passaporte, Carteira de Identidade e CPF para se cadastrarem e fazer parte das expedições adotaram o sobrenome Silva. Isto era sugerido pela moça que fazia o cadastro. Algumas celebridades que usam/usaram o sobrenome: [[Marina Silva]], candidata  a presidência da República, Maisa Silva, a garota prodígio do Sílvio Santos, o apresentador [[Fausto Silva]], a atriz Carmen Silva, o cantor Bezerra da Silva e as 'modelos' Adele e Eugênia Silva. 
+----
+
+===Os 'Silveira'=== 
+[[Arquivo:juliana silveira245.jpg|thumb|right|100px|Juliana Silveira]]
+
+Os Silveira são proveniente do arquipélago dos Açores e descendem de um nobre flamengo chamado Wilhelm van der Hagen, que ao chegar aos Açores, na ilha de São Jorge, traduziu o seu nome para Guilherme da Silveira. A família desta descendência espalhou-se por todas as ilhas dos Açores. Seu descendente Gonçalo Vasques da Silveira veio para o Brasil em data indeterminada e foi residir no sul de Minas Gerais. A atriz e cantora Juliana Silveira, muito gostosa, é uma das maiores celebridades com o sobrenome. É filha de um aparentado dos Silveira de [[Carmópolis de Minas]], mesmo ramal de Crucilândia. 
+
+----
+
+===Os ‘Sousa’===
+[[Arquivo:daniele souza245.jpg|thumb|left|100px|Daniele Souza, a 'Mulher Samambaia']]
+
+Existem Sousa e Souza, sendo a última uma versão arcaica da grafia. Deriva-se do latim ''Saxa'' (significando 'seixos', 'rochas'), que no século XI em Portugal foi transformado em Sausa. O primeiro a usar o sobrenome em [[Portugal]] foi D. Egas Gomes, nascido em 1035 e que acrescentou Sousa, do lugar onde tinha suas terras. Casou-se com Châmoa Gomes Gonçalves.  Martim Afonso de Sousa, neto de D. Egas, foi quem trouxe o sobrenome para o Brasil em1530.  Os Sousa desembarcaram em [[São Vicente]], e foram mais tarde para a recem fundada vila de [[São Paulo]]. Alguns da familia, menos afeitos ao trabalho, montaram uma rede de casas de [[prostituição]] na rua Aurora (Boca do Lixo) e conseguiram ficar muito ricos. Suas filhas queriam participar do negócio (trabalhando de graça) e para evitar estes transtornos venderam tudo para um judeu e resolveram vir para Minas Gerais.  Os Sousa/Souza de Crucilândia são descendentes desta linhagem de São Paulo.  A modelo Fernanda Souza e Daniele Souza, a famosa 'Mulher Samambaia' ex- dançarina do programa 'Pãnico na TV', são algumas celebridades que usam o sobrenome. 
+
+----
+
+----
+
+  
+
+== Ver também ==
+*[[Minas Gerais]]
+
+
+
+
+{{Minas Gerais}}
+<br> __NOTOC__ <br>

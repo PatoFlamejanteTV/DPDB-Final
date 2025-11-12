@@ -1,0 +1,65 @@
+{{Geografia}}
+Um '''país em desenvolvimento''' ou '''país subdesenvolvido industrializado''' é aquele que como o próprio nome sugere, está se desenvolvendo, mesmo que aos poucos. São países que tem uma malha viária que mais se parecem concha de retalhos, seu povo come na mesma intensidade que morre de fome e a população consegue comprar um carro zero, mesmo que o perca meses depois para a criminalidade local.
+
+Diferentemente dos [[países desenvolvidos]] que fazem reuniões entre eles para definir o que fazer com o resto do mundo na [[Organização das Nações Unidas|ONU]], os países em desenvolvimento passam mais tempo na mesa do [[Fundo Monetário Internacional]] tentando {{s|re}}negociar as {{s|eternas}} dividas que possuem com aquele órgão internacional.
+
+==Conceito==
+[[Arquivo:IMF Developing Countries Map 2018.png|thumb|350px|Em verde são mostrados os países em desenvolvimento, países normalmente pobres que se acham diferentes de seus vizinhos, quando na verdade são tão ruins ou piores quanto.<br/><br/>Note que o mapa ainda tem alguns erros como a [[Bolívia]] e o [[Peru]] pintados de verde: ambos são considerados ''países em subdesenvovimento''.]]
+A definição surgiu durante a convenção de [[Haia]], realizada nos [[Países Baixos|Países de Baixo]] em [[29 de dezembro]] de [[1999]], algumas horas antes do [[Bug do Milênio]]. O criador foi [[Kofi Annan]], presidente da ONU na época.
+
+Afim de criar uma categoria para os países que ele considerava um dia ter alguma chance (mesmo que extremamente remota) de eleger algum representante para uma cadeira no [[Conselho de Segurança das Nações Unidas|Conselho de Segurança da ONU]], Kofi sugeriu que fosse feito o seguinte:
+
+{{cquote|Eu ter de criar um categoria para país pobre. Eu achar paises quase desenvolvido.|Cof, ah! não}}
+
+O termo ''quase desenvolvido'' passou a ser grifado como ''em constante desenvolvimento'' e atualmente é usado como ''em desenvolvimento''. Na mesma reunião, também foram criadas as categorias de países [[país subdesenvolvido|''subdesenvolvidos'']] e [[país em subdesenvolvimento|''em processo de subdesenvolvimento'']]. Enfim, depois pergunte essas porras para o seu professor de português, se ele não for burro o bastante, com certeza saberá te explicar isso.
+
+==Características==
+Como características intrínsecas a países semi-desenvolvidos, estão a alta atividade comercial, sendo a [[tráfico de drogas|venda]] e o [[mula|transporte]] de drogas os ramos que mais empregam nestes países. Outras características de países em desenvolvimento incluem:
+
+*'''Economia''' –  Nestes países, a economia acompanha o que é <s>des</s>noticiado na [[GloboNews]] e estão sempre mudando de humor, geralmente sempre pro lado ''mal''. Ou seja, hoje a taxa de desemprego está negativa em ''0,03%'', amanhã aumenta pra ''eitaporratátodomundodesempregadoagora,76%''. E isso se a única sucata que eles vendem (geralmente com "petróleo" envolvido no meio) não parar de vender.
+*'''Exploração de mão de obra local por empresas estrangeiras''' – Por serem países exportadores de matéria-prima, estes países só empregam por meio de [[McDonalds]] e operadores de [[Caterpillar|produtos da CAT]].
+*'''Mercado interno é uma bosta''' – O mercado destes países é engessado que doi. Se você pesquisar por fotos da sociedade em 1970 e comparar com imagens de 2020, a única coisa a mais que você vai ver são alguns modelos de veículos lançados em 1990.
+*'''Nem quem vive nestes locais dá a mínima''' – Geralmente, quem mora em um país em desenvolvimento procura países desenvolvidos ou subdesenvolvidos para poder passar as férias ou fazer alguma viagem de fim de ano. O turismo nestes locais é povoado por pessoas de outros países (que também se enjoaram de seus próprios países).
+
+==Países==
+{| width="100%"
+|{{ARG}}
+|{{CHI}}
+|{{MEX}}
+|{{COL}}
+|{{AFR}}
+|{{BOS}}
+|-
+|{{BUT}}
+|{{CAB}}
+|{{PAR}}
+|{{CHN}}
+|{{CRC}}
+|{{EGI}}
+|-
+|{{EQU}}
+|{{MAS}}
+|{{GRE}}
+|{{GUI}}
+|{{IEM}}
+|{{IRN}}
+|-
+|{{MAR}}
+|{{NEP}}
+|{{OMA}}
+|{{PAN}}
+|{{SUR}}
+|{{SEY}}
+|-
+|{{URU}}
+|{{UZB}}
+|{{VIE}}
+|{{GEO}}
+|{{FIL}}
+|E outros neste mundão afora...
+|}
+
+[[Categoria:Classificação dos países]]
+[[Categoria:Economia]]
+
+[[eo:Evolulando]]

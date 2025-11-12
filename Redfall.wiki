@@ -1,0 +1,51 @@
+{{game}}
+{{Infobox Game 
+|title     = RedFail
+|image     = Redfall cover.png
+|caption   = Capa do jogo
+|developer = [[Arkane Studios]]
+|publisher = [[Bethesda|Bugthesda]]
+|released  = 2023
+|genre     = FPS
+|platform  = O exclusivo do [[Xbox Series X]]
+|rating    = 2/10
+|ages      = Livre
+}}
+
+{{C|Desculpe por ter lançado um jogo tão merda|[[Phil Spencer]], chefão da Xbox}}
+
+'''Redfall''' é um demo indie pré-beta que por algum motivo desconhecido foi lançado como jogo completo a preço cheio em maio de 2023. Foi basicamente um jogo feito de qualquer jeito pela [[Arkane Studios]] que mirou no [[Borderlands]] mas acertou no [[Babylon's Fall]].
+
+== Desenvolvimento ==
+
+A [[Arkane Studios]] e a [[Bethesda]] se uniram para tentar trazer algum jogo exclusivo para o [[Xbox Series X]], algo que parece tão raro quanto um [[Mico Azul]] e em 2023 ainda não existiam nem uns 10. Como o jogo teria que ser lançado para o [[Game Pass]], então a Microsoft enviou o total de 5 salgados e 10 sucos de tamarindo para auxiliar no desenvolvimento do jogo, que seria lançado de graça e não poderia receber muito investimento. O jogo foi portanto desenvolvido num sistema de trabalho chamado "a moda caralho", também conhecido como "fazer nas coxas".
+
+O resultado final foi um jogo que roda a 30 [[Quadros por segundo|fps]] travado para só assim conseguir ser disponibilizado de graça no Game Pass. Ou então vendido para os trouxas da [[Steam]] por 350 reais. Aliás, as [[cutscene]]s do jogo estão todas em [[Power Point]] não apenas para poupar recursos, mas também porque desde [[As Dusk Falls]] parece que esse é o novo padrão artístico dos jogos bostas de Game Pass.
+
+O lançamento de Redfall serviu apenas para convencer a Microsoft de que é melhor continuar adiando seu precioso [[Starfield]]. [[Phil Spencer]] explicou que não adiantava adiar Redfall, o jogo era uma bosta de qualquer jeito.
+
+== Jogabilidade ==
+
+[[Arquivo:Redfall-gameplay.jpg|thumb|left|Jogador lidando com a burrice artificial dos vampiros que atacam em linha reta como que pedindo para serem fuzilados.]]
+
+Redfall é um jogo que não se decide o que quer ser. Ele tenta ser um "mate-mil-zumbis" igual [[Dying Light]], tenta ser um terror tipo [[Dead Island 2]], tenta ser um "looter shooter" tipo um [[Borderlands]], tenta ser estiloso tipo [[Dishonored]]. Mas falha em tudo isso e pode ser descrito apenas como "FPS genérico cheio de bugs".
+
+Além de tudo isso, o jogo ainda é uma "campanha travada", isso quer dizer que se você chamar seus amigos para te ajudar, a história vai avançar só para você, o anfitrião, os seus amigos online serão meros NPCs. Ou seja, o seu grupo de quatro amigos vai precisar jogar quatro vezes a mesma porra se todos os quatro quiserem ter na conta que jogaram até zerar. É muita tortura.
+
+== Enredo ==
+
+Se a jogabilidade e a otimização são um cu, não espere nenhuma redenção no enredo, é uma história bem merda e extremamente clichê que já vimos umas 100 vezes sobre uma ilha que foi invadida por vampiros que transformaram humanos em zumbis e agora precisamos fugir desse lugar. Temos 4 personagens sem carisma nenhum para escolher, cada um com suas habilidades genéricas, são tão genéricos que nem sei o nome deles ou a história de cada um, meio que tanto faz.
+
+Bom, é isso, matar um bando de vampiro burro que não vai saber contornar uma mobília para te acertar algum golpe.
+
+== Recepção ==
+
+Todo mundo odiou fortemente esse jogo, com seus gráficos dignos de [[Xbox]] num arquivo de 100GB de download com uma péssima performance, não há HD no mundo que merece ser ocupado com tantos gigas para um jogo tão ruim. As críticas incluem: Textura que demora carregar, armas invisíveis, inimigos bugados, inimigos equipados com burrice artificial, inimigos que não acertam ataque, dessincronização entre jogadores online, loadings de 2 minutos, crash a todo minuto, péssima física, bonecos duros, ausência total de animação, e um mapa menor que [[Ocarina of Time]]. Só os caixistas amantes de Game Pass passaram pano pra essa bosta.
+
+{{First-person shooter}}
+
+[[Categoria:Jogos da Arkane Studios]]
+[[Categoria:Jogos da Bethesda]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Xbox Series X]]
+[[Categoria:Jogos lançados em 2023]]

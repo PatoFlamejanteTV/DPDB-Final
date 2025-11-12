@@ -1,0 +1,43 @@
+{{pokedex}}
+{{ave}}
+
+{{PokéBox
+| imagem = Taillow(1).png
+| frase = O que está fazendo em meu Artigo {{USERNAME}}?
+| tamanho = 240
+| tipo1 = Flying
+| tipo2 = Normal
+| pokedex = 276
+| nihongo = スバメ
+| romaji = Subame
+| espécie = Andorinha [[Emo|Revoltadinha]]
+| cadeia evolutiva = '''[[Arquivo:TaillowSprite.gif|link=Taillow|Taillow]]'''[[Arquivo:Seta.JPG|Nível 22|30px]]'''[[Arquivo:SwellowSprite.gif|link=Swellow|Swellow]]'''
+}}
+
+{{C|[[AAAA|AAAAAAAAAAAAAAAAAH]]|Típico jogador fugindo de um bando desses}}
+{{C|Taillow!|Taillow|si mesmo}}
+
+Taillow é um Pokémon Pássaro [[Emo|Revoltadinho]] da 3ª Geração, número '''#226''' na [[National Dex]], que ao chegar no Nível 22 evoluí para [[Swellow]] .
+
+==Sobre o Taillow==
+
+[[Arquivo:HappyTaillow.png|240px|thumb|left|Taillow está feliz porque você está lendo o Artigo dele ([[ou não]]).]]
+
+O Taillow é um passarinho de merda [[Emo|Revoltado]], que aparece somente em [[Hoenn]] e, anda sempre em Grupo para fazer aquele [[Suruba|Surubinha]] rápido, no começo os Taillows possuíam um Grande Respeito da sociedade, mas, após [[Ash Ketchum|Ash]] capturar um, a moral caiu, pois as pessoas começaram a pensar que o Taillow seria um [[Lixo]], o que é totalmente verdade .
+
+==Curiosidades==
+
+Você sabia que...
+
+*O Taillow é [[Emo]] ?
+
+*Ele adora que leiam o Artigo dele aqui ?
+
+*Que o Idiota que escreveu esse Artigo não tinha nada pra fazer ?
+
+<!--Essa merda é um esboço e Taillow ficaria muito feliz se você edita-se esse Artigo e deixa-se ele mais engraçado!-->
+
+{{esboço}}
+
+{{Poke3}}
+[[Categoria:Andorinhas]]

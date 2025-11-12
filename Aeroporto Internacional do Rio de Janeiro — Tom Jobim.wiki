@@ -1,0 +1,95 @@
+{{DISPLAYTITLE:Aeroporto do Garanhão}}
+{{voador}}
+
+{{vqd|Aeroporto do Garanhão}}
+{{experimente|Guarulhos no Rio}}
+{{c|Cara, eu nem acredito que peguei várias mulheres nesse aeroporto!|Carioca|mulheres desse aeroporto}}
+{{c|Essi Aeropórtiu é muitio segurio!|[[Seu Creysson]]|Aeroporto do Galeão}}
+
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''Aeroporto do Galeão''' </big></big>
+| align="center" colspan="2"|
+{| border=0 cellpadding=2 cellspacing=0 style="background:#f9f9f9; text-align:center;"
+| width="200px"| [[Arquivo:Porta-aviões.jpg|200px]]
+|- 
+| width="140px"| O primeiro [[Porta-Aviões]] ancorado transformado em [[aeroporto]]
+|}
+|-
+! align="left" | Nome Oficial
+| align="left" | Garanhão, pois o lugar tá mais pra putaria do que pra aeroporto
+|-
+! align="left" | Tipo            
+| align="left" | Terrestre
+|-
+! align="left" | Administração   
+| align="left" | Nunca teve
+|-
+! align="left" | Cidade Servida  
+| align="left" | Dizem ser o [[Rio de Janeiro (cidade)|Rio]], mas na verdade é o [[mar]] ([[Baía de Guanabara]])
+|-
+! align="left" | Inauguração 
+| align="left" | [[11 de setembro]] de [[1900 e Guaraná com Rolha]]
+|-
+! align="left" | Altitude        
+| align="left" | Um pouco acima da média 
+|-
+! align="left" | Acidentes/Ano  
+| align="left" | Terrestres: [[mais de 8 mil]] Aéreos: 1
+|-
+! align="left" | Movimento PAX  
+| align="left" | [[5]] milhões de pássaros e [[1]] avião
+|-
+! align="left" | Movimento Carga 
+| align="left" | [[666]] mil toneladas de metais 
+|-
+! align="left" | Movimento Aéreo 
+| align="left" | Já foi maior, agora na pandemia desceu muito
+|-
+! align="left" | Capacidade      
+| align="left" | 400.000 Portugueses e 1 Brasileiro
+|-
+! align="left" | Pistas          
+| align="left" | 15/33 (Voos domésticos) e 10/28 (Voos selvagens)
+|-
+! align="left" | Cabeceira 
+| align="left" | Esgoto da Baía de Guanabara
+|-
+! align="left" | Comprimento     
+| align="left" | 5km da Ilha (com área de escape na Praia do [[Forte]])
+|-
+! align="left" | Superfície      
+| align="left" | Asfalto quebrado
+|}
+
+'''Aeroporto Internacional do Rio de Janeiro — Tom Jobim''' quase nunca chamado assim, mais conhecido como '''Aeroporto do <s>Garanhão</s> Galeão''', é um aeroporto localizado no meio da favela do [[Rio de Janeiro]], no qual chegam mais de 8 mil habitantes Europeus, e principalmente Africanos
+
+==Companhias Aéres que voam nesse Aeroporto==
+
+{|class="wikitable sortable" style="font-size: 80%"
+|- bgcolor=lightgrey
+! width="20%"|Companhias|| width="40%", class="unsortable"|Destinos 
+|-
+|[[Azul Linhas Aéreas|Rosa]]||[[Campinas]], [[Pelotas]], [[San Francisco]], Qualquer lugar da [[França]], [[Santos Dumont (cidade)|Santos Dumont MG]]
+|-
+|[[Avianca Brasil|Avianca Banania]]||[[São Paulo (cidade)|São Paulo]] ([[Aeroporto de Congonhas|CGH]]), [[Santo Antônio do Cré-cré-cré do Xipsuí de Minas]], [[Curralinho]]
+|-
+|[[GOL Transportes Aéreos|GOL]]||[[São Paulo (cidade)|São Paulo]] ([[Aeroporto de Congonhas|CGH]]), [[Ranho|Ranholândia]]
+|-
+|[[Air France|Air Franguense]]||[[França]], [[Alemanha Nazista|Alemanha]]
+|-
+|[[TAP Portugal|TAB Bacalhau]]||[[Lisboa]] e [[Madrid]]
+|-
+|[[Lufthansa|Luftwaffe]]||[[Frankfurt]] e [[Berlim]]
+|}
+
+==Infraestrutura==
+
+'''Terminal 1''': Nesse terminal já operaram a TAP, Air France e várias outras companhias. Desde 2016, esse terminal não consegue mais se manter por causa dos bandidos, que trazem pedradas para o aeroporto desde que ele foi fundado. Hoje ele está fechado <s>e com algumas assombrações</s>.
+
+'''Terminal 2''': Aqui se concentram mais os voos domésticos, como por exemplo a TAM que vai para São Paulo (Tanto Congonhas quantio Guarulhos) e os voos da [[Gol Linhas Aéreas]] e <s>Webjegue</s> [[Webjet]], voando para locais mais distantes como Brasília, Amapá, entre outras localidades. Se você for um turista, tome muito cuidado ao chegar no aeroporto, pois sempre tem ou algum pobretão pedindo dinheiro, ou algum bandido te assaltando e roubando suas coisas.
+
+'''Infraero Cargo Terminal''': O terminal de cargas mais parece um cemitério de cargas, porque tem mais avião abandonado (sucatas que só ocupam os lugares no aeroporto) e ainda, restos do voo [[447 da Air France]].
+
+{{Aeroportos}}
+
+[[Categoria:Aeroportos do Brasil]]

@@ -1,0 +1,40 @@
+{{taxocaixa
+| nome           = Astacidea
+| cor            = #DC143C
+| imagem         = Astacidea.jpg
+| imagem_legenda = Uma lagosta que definitivamente não é a comum, daí a necessidade de criar a infraordem Astacidea e separar as lagostas comuns daquelas que não são em diversas famílias.
+| reino          = [[Animalia]]
+| filo           = [[Arthropoda|Artrofoda]]
+| subfilo        = [[Crustacea|Frutos-do-mar]]
+| classe         = [[Malacostraca|Malacabados]]
+| ordem          = [[Decapoda|Dez patas]]
+| subordem       = [[Pleocyemata|Playcenter]]
+| infraordem     = [[Astacidea|Otarioea]]
+}}
+
+'''Astacidea''' é uma infraordem de [[decápodes]] que incluem todos tipos de lagostas e lagostins, diferenciando-se portanto dos caranguejos e camarões, pois o primeiro tem formato de bolacha e o segundo sabe boiar por aí no oceano, enquanto as lagostas e lagostins precisam viver se rastejando no lixo do fundo do mar só para serem comidos por alguém no final de sua vida.
+
+== Características ==
+
+A característica mais marcante de uma lagosta em relação aos demais crustáceos é sem dúvida a presença de duas tesouras em formato de concha de sopa ao invés de braços, localizados a partir de seus tórax. Não possuem boca e sua carne e músculos parecem na verdade purê de batata amassado, portanto não possuindo sistema circulatório ou cerebral, motivo pelo qual apenas andam para frente indefinidamente.
+
+São cegos também, por isso não conseguem fugir de seus predadores, afinal não os conseguem ver. O que normalmente se acham ser seus olhos, na verdade são apenas dois furúnculos ou carocinhos de feijão pregados em alguns canudinhos. Ao invés de patas para se locomover eles possuem apenas pequenos filamentos que se distendem a partir do abdome e só servem para o animal se rastejar miseravelmente no fundo do oceano e nem sequer poder nadar direito, no máximo boiar um pouco, caso deseje.
+
+Possuem múltiplas e longas antenas que não possuem quaisquer funções anatômicas práticas e servem apenas para simular a existência de uma vasta e bela cabeleira, pois estes animais são sim vaidosos e sentem vergonha de sua calvície, por mais que algumas fêmeas não se importem com isso, já é provado que a sociedade em geral sempre discriminou os calvos, pois só as lagostas com as <s>cabeleiras</s> mais vastas que aparecem nas fotos promocionais de restaurantes de frutos-do-mar.
+
+São os únicos crustáceos do mundo que possuem caudas, não que sejam úteis para alguma coisa, sendo na verdade apenas mais aerofólios traseiros para que o animal não capote enquanto é levado pela correnteza marítima.
+
+== Habitat ==
+
+Estes bichos são encontrados nos oceanos de todo o mundo, além de algumas espécies também serem avistadas em aquários de restaurantes refinados, e alguns esgotos.
+
+== Famílias ==
+
+* '''[[Astacidae]]''' - lagostins-comuns
+* '''[[Cambaridae]]''' - lagostins-coloridos
+* '''[[Parastacidae]]''' - lagostins-australianos
+* '''[[Enoplometopidae]]''' - lagosta-do-recife
+* '''[[Nephropidae]]''' - lagostas-comuns
+
+[[Categoria:Pleocyemata]]
+[[Categoria:Astacidea|*]]

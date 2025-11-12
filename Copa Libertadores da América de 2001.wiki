@@ -1,0 +1,282 @@
+[[Arquivo:BocaJuniorsroubandoladrão.jpg|275px|thumb|right|{{C|O jogo mais roubado da história|[[Palmeiras]]|a arbitragem irregular}}{{C|Mimimi,clientes|[[Boca Juniors]]|o Palmeiras}}]]
+{{C|jajajaja, estos brasileños!|[[Boca Juniors]]|Eliminar Brasileiros na '''{{PAGENAME}}'''}}
+
+A '''{{PAGENAME}}''' foi um torneio Sul-Americano não Sul-Americano realizado em 2001, vencida pelo Boca Juniors após dar alegrias a muitos flamenguistas e corintianos.
+
+== Grupo 2 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do Palmeiras.png|20px]][[Sociedade Esportiva Palmeiras|Porcaria]]||bgcolor=#CCFFCC|'''16'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|5||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|0||bgcolor=#CCFFCC|16||bgcolor=#CCFFCC|5||bgcolor=#CCFFCC|+11
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do Cerro Porteño.png|20px]][[Club Cerro Porteño|Cavalo Paraguaio]]||bgcolor=#CCFFCC|'''13'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|4||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|17||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|+11
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do Universidad de Chile.png|20px]][[Club Universidad de Chile|Virgens]]||bgcolor=#FFCCCC|'''4'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|4||bgcolor=#FFCCCC|5||bgcolor=#FFCCCC|13||bgcolor=#FFCCCC|-8
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Grue Jammy.gif|20px]][[Sport Boys Association|Time Peruano pra lá de desconhecido]]||bgcolor=#FFCCCC|'''1'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|0||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|5||bgcolor=#FFCCCC|3||bgcolor=#FFCCCC|17||bgcolor=#FFCCCC|-14
+|}
+== Grupo 4 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do Cruzeiro.png|20px]][[Cruzeiro Esporte Clube|Marias]]||bgcolor=#CCFFCC|'''16'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|5||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|0||bgcolor=#CCFFCC|15||bgcolor=#CCFFCC|4||bgcolor=#CCFFCC|+11
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do Emelec.png|20px]][[Club Sport Emelec|Emeleca]]||bgcolor=#CCFFCC|'''9'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|7||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|+1
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do Olímpia.png|20px]][[Club Olimpia|Olimpiakos]]||bgcolor=#FFCCCC|'''5'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|3||bgcolor=#FFCCCC|10||bgcolor=#FFCCCC|13||bgcolor=#FFCCCC|-3
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do Sporting Cristal.png|20px]][[Club Sporting Cristal|TV América FC]]||bgcolor=#FFCCCC|'''3'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|0||bgcolor=#FFCCCC|5||bgcolor=#FFCCCC|4||bgcolor=#FFCCCC|13||bgcolor=#FFCCCC|-9
+|}
+== Grupo 6 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do Vasco da Gama.png|20px]][[Club de Regatas Vasco da Gama|Vascu]]||bgcolor=#CCFFCC|'''18'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|0||bgcolor=#CCFFCC|0||bgcolor=#CCFFCC|16||bgcolor=#CCFFCC|5||bgcolor=#CCFFCC|+11
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do América de Cali.png|20px]][[Corporación Deportiva América|Tetra-'''Vice''' da Libertadores]]||bgcolor=#CCFFCC|'''12'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|4||bgcolor=#CCFFCC|0||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|10||bgcolor=#CCFFCC|9||bgcolor=#CCFFCC|+1
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do Peñarol.png|20px]][[Club Atlético Peñarol|Múmias]]||bgcolor=#FFCCCC|'''4'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|4||bgcolor=#FFCCCC|7||bgcolor=#FFCCCC|10||bgcolor=#FFCCCC|-3
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Escudo do Deportivo Táchira.png|20px]][[Deportivo Táchira Fútbol Club]]||bgcolor=#FFCCCC|'''1'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|0||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|5||bgcolor=#FFCCCC|3||bgcolor=#FFCCCC|12||bgcolor=#FFCCCC|-9
+|}
+
+== Grupo 7 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Cemento Cruz Azul.jpg|20px]][[Cruz Azul Fútbol Club|Imigrantes]]||bgcolor=#CCFFCC|'''13'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|4||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|1||bgcolor=#CCFFCC|12||bgcolor=#CCFFCC|7||bgcolor=#CCFFCC|+5
+|-
+|align=left bgcolor=#CCFFCC|[[Arquivo:Escudo do São caetano.png|20px]][[Associação Desportiva São Caetano|Amarelão]]||bgcolor=#CCFFCC|'''8'''||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|6||bgcolor=#CCFFCC|4||bgcolor=#CCFFCC|+2
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:Lula gigante.jpg|20px]][[Defensor Sporting Club|Timinho Uruguaio]]||bgcolor=#FFCCCC|'''7'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|3||bgcolor=#FFCCCC|8||bgcolor=#FFCCCC|11||bgcolor=#FFCCCC|-3
+|-
+|align=left bgcolor=#FFCCCC|[[Arquivo:447997575 2f099e3f32 o.jpg|20px]][[Centro Deportivo Olmedo|El mierdo]]||bgcolor=#FFCCCC|'''1'''||bgcolor=#FFCCCC|6||bgcolor=#FFCCCC|2||bgcolor=#FFCCCC|0||bgcolor=#FFCCCC|4||bgcolor=#FFCCCC|11||bgcolor=#FFCCCC|15||bgcolor=#FFCCCC|-4
+|}
+== Oitavas-de-final ==
+Começando as Oitavas-de-final ,o Vasco pegou o time mais desconhecido que tinha passado de fase. Onde o Vasco venceu de virada lá no [[Chile]], fazendo que a Univesidad de Concepción nem viajasse ao Rio de Janeiro pra fazer o segundo jogo. Fazendo o Vasco ganhar de ''WO''
+
+Pro desespero do Corinthians, o São Caetano na sua primeira participação na Libertadores foi eliminado nos Pênaltis pro Palmeiras, dessa vez não foi por causa do Marcos,foi pela incompetência mesmo, O [[São Caetano|Amarelão]] começou bem ganhando o Primeiro jogo de 1 a 0, mas no segundo jogo amarelou como sempre e deixaram atacantes soltos dentro da área. Onde nós pênaltis Serginho errou a cobrança e o São Caeteno foi eliminado.
+
+No jogo do Cruzeiro,o El Nacional mais uma vez foi goleado por um clube brasileiro.  
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Escudo do Emelec.png|20px]][[Club Sport Emelec|Emeleca]]
+| align=center | 2-5
+| [[Club Atlético River Plate|Gallinas]][[Arquivo:Escudo do River Plate.png|20px]]
+|align=center  | 2-0
+|align=center  | 0-5
+|-
+| align=center |2
+| align=right  | [[Arquivo:Escudo do Cerro Porteño.png|20px]][[Club Cerro Porteño|Cavalo Paraguaio]]
+| align=center | 3-4
+| [[Cruz Azul Fútbol Club|Imigrantes]][[Arquivo:Cemento Cruz Azul.jpg|20px]]
+| align=center | 2-1
+| align=center | 1-3
+|-
+| align=center |3
+| align=right  | [[Arquivo:Escudo do Cobreloa.png|20px]][[Club de Deportes Cobreloa|Vice do Flamengo]]
+| align=center | 3-4
+| [[Club Atlético Rosario Central|Freguês do Newells]][[Arquivo:Escudo do Rosario Central.png|20px]]
+| align=center | 2-3
+| align=center | 1-1
+|-
+| align=center |4
+| align=right  | [[Arquivo:Escudo do América de Cali.png|20px]][[Corporación Deportiva América|Quadri-'''Vice''' da Libertadores]]
+| align=center | 5-1
+| [[Club Nacional de Football|Dependentes de Hugo de Léon]][[Arquivo:Escudo do Nacional do Uruguai.png|20px]]
+| align=center | 2-0
+| align=center | 3-1
+|-
+| align=center |5
+| align=right  | [[Arquivo:Escudo do Universidad de Concepción.png|20px]][[Club Deportivo Universidad de Concepción|Uniersidad de la Decepción]]
+| align=center | 1-4
+| [[Club de Regatas Vasco da Gama|Vascu]][[Arquivo:Escudo do Vasco da Gama.png|20px]]
+| align=center | 1-3
+| align=center | 0-1
+|-
+| align=center |6
+| align=right  | [[Arquivo:Corpo cerveja.jpg|20px]][[Corporación Popular Deportiva Junior|Cachaceiros Colombianos]]
+| align=center | 3-4
+| [[Club Atlético Boca Juniors|Boquetinho]][[Arquivo:Escudo do Boca Juniors.png|20px]]
+| align=center | 2-3
+| align=center | 1-1
+|-
+| align=center |7
+| align=right  | [[Arquivo:Escudo do São caetano.png|20px]][[Associação Desportiva São Caetano|Amarelão]]
+| align=center | 1-1<small>(3-5)</small>
+| [[Sociedade Esportiva Palmeiras|Porcada]][[Arquivo:Escudo do Palmeiras.png|20px]]
+| align=center | 1-0
+| align=center | 0-1
+|-
+| align=center |8
+| align=right  | [[Arquivo:Escudo do El Nacional.png|20px]][[Club Deportivo El Nacional|NADA]]
+| align=center | 2-6
+| [[Cruzeiro Esporte Clube|Marias]][[Arquivo:Escudo do Cruzeiro.png|20px]]
+| align=center | 1-2
+| align=center | 1-4
+|}
+
+== Quartas-de-final ==
+
+[[Arquivo:Vacaíno-Chorando(como-de-costume).jpg|305px|thumb|right|Vascaíno triste como sempre com seu time]]
+
+{{C|Não podem falar nada,já foram estuprados também|[[Vascaíno]] revoltado com a zoação flamenguista}}
+Já na quartas-de-final ,o Vasco colaborou e muito com a mistica do Boca Juniors na Libertadores,onde perdeu em São Januário,e não satisfeito com isso,tomou de 3 a 0 na ''La Bombonera'' com direito a gol de bicicleta.
+
+O Palmeiras, que se intitula a equipe mais prejudicada da Libertadores, se favoreceu dos toscos regulamentos da [[Conmebol|Conmebolas]] e se classificou, após empatar por 3 a 3 em casa, foi jogar no Mineirão e empatou na base do ''[[especial de porrada]]'' por 2 a 2. Agora você pensa:{{cit|''Bem,então o Cruzeiro deve se classificar pelos gols fora de casa,não é mesmo?|[[Você]]|[[ORLY|estupefato]]}}''
+Não,por algum motivo foi pra disputa de pênaltis,e como sempre,o Palmeiras errou uma porrada de pênaltis, mas [[Marcos]] '''defendeu 3 cobranças''',consagrando o goleiro pela 536ª vez e dando a vaga pro Palmeiras,calando o ''[[Mineirão]]'' lotado.
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Escudo do River Plate.png|20px]][[Club Atlético River Plate|Gallinas]]
+| align=center | 0-3
+| [[Cruz Azul Fútbol Club|Primeiro argentino eliminado com sucesso!]][[Arquivo:Cemento Cruz Azul.jpg|20px]]
+|align=center  | 0-0
+|align=center  | 0-3
+|-
+| align=center |2
+| align=right  | [[Arquivo:Escudo do Rosario Central.png|20px]][[Club Atlético Rosario Central|Freguês do Newells]]
+| align=center | 3-3<small>(4-3)</small>
+| [[Corporación Deportiva América|Quadri-'''Vice''' da Libertadores]][[Arquivo:Escudo do América de Cali.png|20px]]
+| align=center | 1-0
+| align=center | 2-3
+|-
+| align=center |3
+| align=right  | [[Arquivo:Escudo do Vasco da Gama.png|20px]][[Club de Regatas Vasco da Gama|Saudades Edmundo]]
+| align=center | 0-4
+| [[Club Atlético Boca Juniors|Um pra conta]][[Arquivo:Escudo do Boca Juniors.png|20px]]
+| align=center | 0-1
+| align=center | 0-3
+|-
+| align=center |4
+| align=right  | [[Arquivo:Escudo do Palmeiras.png|20px]][[Sociedade Esportiva Palmeiras|Porcaria]]
+| align=center | 5-5<small>(4-3)</small>
+| [[Cruzeiro Esporte Clube|FUUUUUU]][[Arquivo:Escudo do Cruzeiro.png|20px]]
+| align=center | 3-3
+| align=center | 2-2
+|}
+
+== Semifinal ==
+
+[[Arquivo:Camisa-boca-x-corinthians.jpg|200px|thumb|right|{{C|shusahsuahshauhsuahsu|[[Corinthiano]] rindo na cadeia}}]]
+
+Como a ''CBF'' não interfere a favor do Palmeiras, o Boca Juniors passou a mão e mais uma vez a Conmebol pôs um arbitro de 2ª divisão Paraguaia pra apitar o jogo. Resultado? escândalo. o partida terminou com muito ''mimimi'' pro lado do Palmeiras, que sofreu uma porrada de erros de arbitragem.
+
+No segundo jogo,já no ''Palestra Itália'', o Palmeiras achou que podia acertar uns paranaue nos jogadores do Boca Juniors e [[fodeu|se fodeu]], após o meia do Palmeiras derrubar o zagueiro do Boca Juniors e pisar na cabeça dele, tomou um vermelho e entregou o jogo pro Boca. Com o placar de 2 a 2 nos dois jogos, foi pros pênaltis,onde nem o Marcos pode ajudar.
+
+Já do outro lado vimos um jogo muito mais tranquilo,onde o Cruz Azul eliminou o segundo argentino e se tornou a primeira equipe não sul-americana a jogar uma final de um torneio Sul-americano.
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Cemento Cruz Azul.jpg|20px]][[Cruz Azul Fútbol Club|Segundo argentino eliminado com sucesso!]]
+| align=center | 5-3
+| [[Arquivo:Escudo do Rosario Central.png|20px]][[Club Atlético Rosario Central|OFF]]
+|align=center  | 2-0
+|align=center  | 3-3
+|-
+| align=center |2
+| align=right  | [[Arquivo:Escudo do Boca Juniors.png|20px]][[Club Atlético Boca Juniors|Mais outro pra conta!]]
+| align=center | 4-4<small>(3-2)</small>
+| [[Sociedade Esportiva Palmeiras|Porcada]][[Arquivo:Escudo do Palmeiras.png|20px]]
+| align=center | 2-2
+| align=center | 2-2
+|}
+
+== Final ==
+Com medo que o seu filho Boca Juniors (uma especie de [[Flamengo]] pra Conmebol) perdessem a final, a Conmebol decidiu mudar o regulamento horas antes do jogo e criou regras malucas: 
+
+{{Cit|Toda a final de Libertadores deve ocorrer na América do Sul não importando se o outro fez melhor campanha|Conmebol|prejudicar o Cruz Azul}}
+{{Cit|Se ocorrer uma final entre um clube da América do Sul e da América do norte,o clube da América do Norte ,mesmo sendo campeão,não poderá disputar a Intercontinental. Dando a vaga pra equipe da América do Sul|Conmebol|prejudicar novamente o Cruz Azul}}
+Tendo em vista que ainda tinha a Intercontinental pra disputar,a Conmebol cagou pro Cruz Azul, que ainda perdeu o primeiro jogo da final.
+
+O Cruz Azul decidiu apelar pra macumba e ganhou do Boca na Bombonera, fazendo aquela delicia de som de um narrador argentino desesperado,que você  pode ouvir [https://www.youtube.com/watch?v=ZF05dzha0Ag aqui].
+Mas é como diz o ditado: "Jogou como nunca e perdeu como sempre". O Cruz Azul amarelou nos pênaltis e se tornou o primeiro mexicano a perder a Libertadores.
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Cemento Cruz Azul.jpg|20px]][[Cruz Azul Fútbol Club|Falha ao eliminar o terceiro argentino!]]
+| align=center | 1-1<small>(1-3)</small>
+| [[Club Atlético Boca Juniors|Boquete]][[Arquivo:Escudo do Boca Juniors.png|20px]]
+|align=center  | 0-1
+|align=center  | 1-0
+|}
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Copa Libertadores da América de 2001<br />
+|-
+![[Arquivo:Escudo do Boca Juniors.png|border|100px]]
+|-
+|align=center|'''[[Club Atlético Boca Juniors|Boquetão]]'''<br />
+(4° título)<br />
+|}
+
+== Ver também ==
+*[https://www.youtube.com/watch?v=VrXCCthTBsY Video] Vasco é estuprado pelo Boca
+*[https://www.youtube.com/watch?v=5WeA3agI8g8 Video] Palmeiras é assaltado pelo Boca
+*[https://www.youtube.com/watch?v=yImtoD3ZlBE Video] Cruz Azul é vice
+*[https://www.youtube.com/watch?v=5L_r0bPB6EE Video] Bayern da um sermão no Boca no mundial
+*[[Copa Intercontinental]]
+
+{{Futebolismo}}
+{{Libertadores}}

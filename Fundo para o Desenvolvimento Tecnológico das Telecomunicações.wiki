@@ -1,0 +1,22 @@
+O, respira... '''Fundo para o Desenvolvimento Tecnológico das Telecomunicações''', ufa... ('''FUNTTEL''') é um [[fundo governamental]] [[brasileiro]] que na teoria, serviria para o [[Centro de Pesquisa e Desenvolvimento em Telecomunicações|CPqD]] com pesquisas relacionadas à telefonia, redes de telecomunicações ou qualquer outra coisa relacionada à [[rede de computadores|área de infraestrutura de dados]] (coisa que não existe no país). Na prática meeeesmo, o dinheiro só tem servido mesmo pra financiar as falidas [[Companhia telefônica|tele]]s que sempre estão pedindo algum subsídio ou ajuda financeira ao governo para implementar limitações de banda na já limitada rede brasileira. Resumindo, o fundo é o "[[FUNDEB]]" da telefonia, mas só que no lugar das prefeituras e escolas, são empresas de telefonia e infraestrutura de rede (do [[cabo]] ao [[armário de telecomunicações]]).
+
+==Origem==
+{{gf}}O FUNTTEL surgiu em [[28 de novembro]] de [[2000]], no governo Fernando Henrique, como forma de [[Apagão elétrico de 2001|desviar os recursos destinados ao investimento em eletricidade]] para algum outro buraco que o povo não desconfiasse tanto e também, cobrir o rombo que ele mesmo causou com a venda da rede Telebrás, além de criar uma bela forma de diversão (o 'FUN' da sigla) para as [[Telefônica]]s, [[Brasil Telecom]]s e [[Telemar]]es da vida que conseguiram acabar com o que já era ruim.
+
+Com o advento da [[Maldita Inclusão Digital|incrusau dijitau]], o [[fundo|fundilho]] foi ganhando uma justificativa mais decente pra existir, se tornando depois uma grande poupança para as teles e fraudadores de licitação em geral.
+
+==Sobre==
+Atualmente o fundo só justifica o fato de que uma das melhores maneiras de se empreender no país é abrir uma grande companhia telefônica. Afinal, o dono desta não vai precisar investir em pesquisas porque o governo faz isso por ele, nem em malha de fibras porque só ele só vai precisar comprar empresas menores ou usar o que tinha sido construído pela Telebrás e não irá precisar melhorar os serviços prestados porque a Anatel está pouco se fodendo pra quem usa aquele serviço porco. Ou seja, quer negócio melhor que esse?
+
+===Subordinação===
+O comando do fundo está nas mãos de um conselho gestor formado por alguns encostados do [[ministério da Ciência, Tecnologia, Inovações e Comunicações]], [[Ministério do Desenvolvimento, Indústria e Comércio Exterior|Ministério do Subdesenvolvimento, ausência de Indústrias e Papagaiagem Exterior]], [[Agência Nacional de Telecomunicações|Anatel]], [[Banco Nacional do Desenvolvimento Econômico e Social|BNDES]] (a mãe do fundo e quem distribui a porra toda) e do [[Financiadora de Estudos e Projetos|FINEP]]. Periodicamente, eles fazem uma reunião para discutir o que pode ser feito para a preservação do maravilhoso cartel de telecomunicações brasileiro.
+
+== Ver também ==
+*[[Telecomunicações Brasileiras S.A.|TELEBRAS]]
+*[[Fundo da Universalização dos Serviços de Telecomunicações|FUST]]
+*[[Redes de computadores]]
+
+
+{{gov}}
+
+[[Categoria:Fundos governamentais do Brasil]]

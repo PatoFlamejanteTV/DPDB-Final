@@ -1,0 +1,310 @@
+{{Futebolismo}}
+{{c|Ganhamos de novo!|Torcida do Real Madrid|{{PAGENAME}}}} {{c|Torneio sem graça, todo ano os caras ganham!|[[Torcida do Barcelona|Outros torcedores]]|{{PAGENAME}}}}
+{{c|[[Mentira|A maior Champions de todos os tempos!]]|[[Turner Network Television|TNT]]|{{PAGENAME}}}}
+
+A '''Liga dos Campeões da UEFA de 2021/22''' foi mais uma edição da toda poderosa [[Liga dos Campeões da UEFA|Xampions League]]. Nesse ano, os [[Chelsea FC|Azulzinhos de Londres]] é que tinham que defender o titulo (assim como em 2012, eles pagaram pra chegar até lá, são ricaços). 
+
+Mesmo sem o [[Cristiano Ronaldo|CR7]], o [[Real Madrid CF|Real Madruga]] conseguiu ganhar essa edição <s>já que se não fosse ele e a arbitragem, o Madrinha não seria nada</s>. 
+== Playoffs para a Fase de Grupos == 
+Como a Champions tem muitas fases preliminares antes da fase de grupos, só será mostrada a última (senão a seção ficaria com [[mais de 8 mil]] caracteres). {{Competição de mata-mata 2 jogos (base)}} {{Competição de mata-mata 2 jogos (jogo)|'''[[Red Bull Salzburg|Red Bull te dá asas]] [[Arquivo:Escudo do Red Bull Salzburg.png|20px]]'''|4-2|[[Arquivo:Tio1.jpg|20px]] [[Brøndby IF|Time sem artigo]]|2-1|2-1}} {{Competição de mata-mata 2 jogos (jogo)|'''[[Young Boys|Jovens Garotos]] [[Arquivo:Escudo do Young Boys.png|20px]]'''|6-4|[[Arquivo:Escudo do Ferencvárosi.png|20px]] [[Ferencvárosi Torna Club|Furúnculos]]|3-2|3-2}} {{Competição de mata-mata 2 jogos (jogo)|'''[[Malmo FF|Mal amor]] [[Arquivo:Escudo do Malmö.png|20px]]'''|3-2|[[Arquivo:Escudo do Ludogorets Razgrad.png|20px]] [[Ludogorets Razgrad|Desgraçado]]|2-0|1-2}} {{Competição de mata-mata 2 jogos (jogo)|'''[[Sheriff Tiraspol|Shit Tira Pol]] [[Arquivo:Escudo do Sheriff Tiraspol.png|20px]]'''|3-0|[[Arquivo:Escudo do Dinamo Zagreb.png|20px]] [[Dínamo de Zagreb|Dínamo Sal Prega]]|3-0|0-0}} {{Competição de mata-mata 2 jogos (jogo)|'''[[Benfica|Malfica]] [[Arquivo:Escudo do Benfica.png|20px]]'''|2-1|[[Arquivo:Escudo do PSV Eindhoven.png|20px]] [[PSV Eindhoven|PSV Ai Dove]]|2-1|0-0}} {{Competição de mata-mata 2 jogos (jogo)|[[AS Monaco|Mongas]] [[Arquivo:Escudo do Monaco.png|20px]]|2-3([[Prorrogação|pro]])|'''[[Arquivo:Escudo do Shakhtar Donetsk.png|20px]] [[Shakhtar Donetsk|Imigrantes brasileiros na Ucrânia]]|0-1|2-2}}|} 
+== Fase de Grupos e Mata-mata ==
+Finalmente chegamos nas partes que importam. O principal destaque da fase de grupos foi o [[Sheriff Tiraspol|Xerifinho]] quase passando para as oitavas e ganhando do Real no Bernabéu. 
+===Grupo A===
+{| 
+|- 
+| 
+{| class="wikitable" style="text-align: center;" 
+|- 
+!widht="200"|Equipe
+!widht="20"|{{Tooltip|Pts|Pontos}}
+!widht="20"|{{Tooltip|J|Jogos}}
+!widht="20"|{{Tooltip|V|Vitórias}}
+!widht="20"|{{Tooltip|E|Empates}}
+!widht="20"|{{Tooltip|D|Derrotas}}
+!widht="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!widht="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!widht="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC 
+|style="text-align:left;"| [[Arquivo:Escudo do Manchester City.png|20px]] [[Manchester City|Manchester $hitty]]
+|'''12'''||6||4||0||2||18||10||8 
+|-bgcolor=#CCFFCC 
+|style="text-align:left;"| [[Arquivo:Escudo do Paris Saint-Germain.png|20px]] [[PSG|PQP]]
+|'''11'''||6||3||2||1||13||8||5 
+|-bgcolor=#CCCCFF 
+|style="text-align:left;"| [[Arquivo:Escudo do RB Leipzig.png|20px]] [[RB Leipzig|RB Bragantino da Polônia]]
+|'''7'''||6||2||1||3||15||14||1 
+|-bgcolor=#FFCCCC 
+|style="text-align:left;"| [[Arquivo:Escudo do Club Brugge.png|20px]] [[Club Brugge|Club Burger]]
+|'''4'''||6||1||1||4||6||20||-14 
+|} 
+===Grupo B===
+{| 
+|- 
+| 
+{| class="wikitable" style="text-align: center;" 
+|- 
+!widht="200"|Equipe
+!widht="20"|{{Tooltip|Pts|Pontos}}
+!widht="20"|{{Tooltip|J|Jogos}}
+!widht="20"|{{Tooltip|V|Vitórias}}
+!widht="20"|{{Tooltip|E|Empates}}
+!widht="20"|{{Tooltip|D|Derrotas}}
+!widht="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!widht="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!widht="25"|{{Tooltip|SG|Saldo de gols}} 
+|-bgcolor=#CCFFCC 
+|style="text-align:left;"| [[Arquivo:Escudo do Liverpool.png|20px]] [[Liverpool FC|Loserpool]]
+|'''18'''||6||6||0||0||17||6||11 
+|-bgcolor=#CCFFCC 
+|style="text-align:left;"| [[Arquivo:Escudo do Atlético de Madrid.png|20px]] [[Atlético de Madrid|Patético de Madrinha]]
+|'''7'''||6||2||1||3||7||8||-1 
+|-bgcolor=#CCCCFF 
+|style="text-align:left;"| [[Arquivo:Escudo do Porto.png|20px]] [[FC Porto|Porco]]
+|'''5'''||6||1||2||3||4||11||-7 
+|-bgcolor=#FFCCCC 
+|style="text-align:left;"| [[Arquivo:Escudo do Milan.png|20px]] [[AC Milan|À Milanesa]]
+|'''4'''||6||1||1||4||6||9||-3 
+|} 
+===Grupo C=== 
+{| 
+|- 
+| 
+{| class="wikitable" style="text-align: center;" 
+|- 
+!widht="200"|Equipe
+!widht="20"|{{Tooltip|Pts|Pontos}}
+!widht="20"|{{Tooltip|J|Jogos}}
+!widht="20"|{{Tooltip|V|Vitórias}}
+!widht="20"|{{Tooltip|E|Empates}}
+!widht="20"|{{Tooltip|D|Derrotas}}
+!widht="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!widht="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!widht="25"|{{Tooltip|SG|Saldo de gols}} 
+|-bgcolor=#CCFFCC 
+|style="text-align:left;"| [[Arquivo:Escudo do Ajax.png|20px]] [[AFC Ajax|Ajax limpeza rápida]]
+|'''18'''||6||6||0||0||20||5||15 
+|-bgcolor=#CCFFCC 
+|style="text-align:left;"| [[Arquivo:Sporting CP.png|20px]] [[Sporting|5p0r71ng]]
+|'''9'''||6||3||0||3||14||12||2 
+|-bgcolor=#CCCCFF 
+|style="text-align:left;"| [[Arquivo:Escudo do Borussia Dortmund.png|20px]] [[Borussia Dortmund|Borussia Dortimundo]]
+|'''9'''||6||3||0||3||10||11||-1 
+|-bgcolor=#FFCCCC 
+|style="text-align:left;"| [[Arquivo:Escudo do Beşiktaş.png|20px]] [[Beşiktaş|Beijokaş]]
+|'''0'''||6||0||0||6||3||19||-16
+|} 
+===Grupo D=== 
+{| 
+|- 
+| 
+{| class="wikitable" style="text-align: center;" 
+|- 
+!widht="200"|Equipe
+!widht="20"|{{Tooltip|Pts|Pontos}}
+!widht="20"|{{Tooltip|J|Jogos}}
+!widht="20"|{{Tooltip|V|Vitórias}}
+!widht="20"|{{Tooltip|E|Empates}}
+!widht="20"|{{Tooltip|D|Derrotas}}
+!widht="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!widht="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!widht="25"|{{Tooltip|SG|Saldo de gols}} 
+|-bgcolor=#CCFFCC 
+|style="text-align:left;"| [[Arquivo:Escudo do Real Madrid.png|20px]] [[Real Madrid|Real VARdrid]]
+|'''15'''||6||5||0||1||14||3||11 
+|-bgcolor=#CCFFCC 
+|style="text-align:left;"| [[Arquivo:Escudo da Internazionale.png|20px]] [[Inter de Milão|Entra no melão]]
+|'''10'''||6||3||1||2||8||5||3 
+|-bgcolor=#CCCCFF 
+|style="text-align:left;"| [[Arquivo:Escudo do Sheriff Tiraspol.png|20px]] [[Sheriff Tiraspol|Shit Tira Pol]]
+|'''7'''||6||2||1||3||7||11||-4 
+|-bgcolor=#FFCCCC 
+|style="text-align:left;"| [[Arquivo:Escudo do Shakhtar Donetsk.png|20px]] [[Shakhtar Donetsk|Imigrantes brasileiros na Ucrânia]]
+|'''2'''||6||0||2||4||2||12||-10 
+|} 
+===Grupo E===
+{|
+|-
+|
+{| class="wikitable" style="text-align:center;"
+|-
+!widht="200"|Equipe
+!widht="20"|{{Tooltip|Pts|Pontos}}
+!widht="20"|{{Tooltip|J|Jogos}}
+!widht="20"|{{Tooltip|V|Vitórias}}
+!widht="20"|{{Tooltip|E|Empates}}
+!widht="20"|{{Tooltip|D|Derrotas}}
+!widht="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!widht="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!widht="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|
+[[Arquivo:Escudo do Bayern München.png|20px]] [[Bayern de Munique|Bye-bye Munheca]]
+|'''18'''||6||6||0||0||22||3||19
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|
+[[Arquivo:Escudo do Benfica.png|20px]] [[Benfica|Malfica]]
+|'''8'''||6||2||2||2||7||9||-2
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|
+[[Arquivo:Escudo do FC Barcelona.png|20px]] [[FC Barcelona|Sem meu Messi eu não consigo]]
+|'''7'''||6||2||1||3||2||9||-7
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|
+[[Arquivo:Escudo do Dynamo Kiev.png|20px]] [[Dínamo de Kiev|Dínamo Dick]]
+|'''1'''||6||0||1||5||1||11||-10
+|}
+===Grupo F===
+{|
+|-
+|
+{| class="wikitable style="text-align: center;"
+|-
+!widht="200"|Equipe
+!widht="20"|{{Tooltip|Pts|Pontos}}
+!widht="20"|{{Tooltip|J|Jogos}}
+!widht="20"|{{Tooltip|V|Vitórias}}
+!widht="20"|{{Tooltip|E|Empates}}
+!widht="20"|{{Tooltip|D|Derrotas}}
+!widht="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!widht="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!widht="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="tect-align:left;"|
+[[Arquivo:Escudo do Manchester United.png|20px]] [[Manchester United|Viúvas do Ferguson]]
+|'''11'''||6||3||2||1||11||8||3
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|
+[[Arquivo:Escudo do Villarreal.png|20px]] [[Villarreal CF|Virilha Real]]
+|'''10'''||6||3||1||2||12||9||3
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|
+[[Arquivo:Escudo do Atalanta BC.png|20px]] [[Atalanta BC|Tá Lá a Anta]]
+|'''6'''||6||1||3||2||12||13||-1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|
+[[Arquivo:Escudo do Young Boys.png|20px]] [[Young Boys|Jovens Garotos]]
+|'''5'''||6||1||2||3||7||12||-5
+|}
+===Grupo G===
+{|
+|-
+|
+{| class="wikitable" style="text-align:center:"
+|-
+!widht="200"|Equipe
+!widht="20"|{{Tooltip|Pts|Pontos}}
+!widht="20"|{{Tooltip|J|Jogos}}
+!widht="20"|{{Tooltip|V|Vitórias}}
+!widht="20"|{{Tooltip|E|Empates}}
+!widht="20"|{{Tooltip|D|Derrotas}}
+!widht="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!widht="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!widht="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|
+[[Arquivo:LOSCLille2021.png|20px]] [[LOSC Lille|LOST]]
+|'''11'''||6||3||2||1||7||4||3
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|
+[[Arquivo:Escudo do Red Bull Salzburg.png|20px]] [[Red Bull Salzburg|Red Bull te dá asas]]
+|'''10'''||6||3||1||2||8||6||2
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|
+[[Arquivo:Escudo do Sevilla.png|20px]] [[Sevilla FC|Servilha]]
+|'''6'''||6||1||3||2||5||5||0
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|
+[[Arquivo:Escudo do Wolfsburg.png|20px]] [[Wolfsburg|Volkswagen]]
+|'''5'''||6||1||2||3||5||10||-5
+|}
+===Grupo H===
+{|
+|-
+|
+{| class="wikitable" style="text-align:center;"
+|-
+!widht="200"|Equipe
+!widht="20"|{{Tooltip|Pts|Pontos}}
+!widht="20"|{{Tooltip|J|Jogos}}
+!widht="20"|{{Tooltip|V|Vitórias}}
+!widht="20"|{{Tooltip|E|Empates}}
+!widht="20"|{{Tooltip|D|Derrotas}}
+!widht="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!widht="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!widht="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|
+[[Arquivo:Escudo do Juventus FC.png|20px]] [[Juventus FC|Rubentus]]
+|'''15'''||6||5||0||1||10||6||4
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|
+[[Arquivo:Chelski.jpg|20px]] [[Chelsea FC|Che£$ki FC]]
+|'''13'''||6||4||1||1||13||4||9
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|
+[[Arquivo:Escudo do Zenit.png|20px]] [[Zenit|Zanetti Leningrado]]
+|'''5'''||6||1||2||3||10||10||0
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|
+[[Arquivo:Escudo do Malmö.png|20px]] [[Malmo FF|Mal amor]]
+|'''1'''||6||0||1||5||1||14||-13
+|}
+==Mata-mata==
+===Oitavas de final===
+[[Arquivo:Realxpsg2022.jpg|thumb|Resumo das oitavas.]]
+Nessa fase, o PSG pipocou de novo e vai ficar mais um ano sem Champions. Outro destaque foi a Juventus caindo pro poderoso Villarreal, que não participava dela faz mais de 15 anos.
+{{Competição de mata-mata 2 jogos (base)}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Benfica|Malfica]] [[Arquivo:Escudo do Benfica.png|20px]]'''|3-2|[[Arquivo:Escudo do Ajax.png|20px]] [[AFC Ajax|Ajax limpeza rápida]]|2-2|1-0}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo da Internazionale.png|20px]] [[Inter de Milão|Entra no Melão]]|1-2|'''[[Arquivo:Escudo do Liverpool.png|20px]] [[Liverpool FC|Loserpool]]'''|0-2|1-0}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Villarreal CF|Virilha Real]] [[Arquivo:Escudo do Villarreal.png|20px]]'''|4-1|[[Arquivo:Escudo do Juventus FC.png|20px]] [[Juventus FC|Rubentus]]|1-1|3-0}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do Red Bull Salzburg.png|20px]] [[Red Bull Salzburg|Red Bull te dá asas]]|2-8|'''[[Arquivo:Escudo do Bayern München.png|20px]] [[Bayern de Munique|Bye-bye Muncheca]]'''|1-1|1-7}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Sporting|5p0r71ng]] [[Arquivo:Sporting CP.png|20px]]|0-5|'''[[Arquivo:Escudo do Manchester City.png|20px]] [[Manchester City|Manchester $hitty]]'''|0-5|0-0}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Atlético de Madrid|Patético de Madrinha]] [[Arquivo:Escudo do Atlético de Madrid.png|20px]]'''|2-1|[[Arquivo:Escudo do Manchester United.png|20px]] [[Manchester United|Viúvas do Ferguson]]|1-1|1-0}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Chelsea FC|Che£$ki FC]] [[Arquivo:Chelski.jpg|20px]]'''|4-1|[[Arquivo:LOSCLille2021.png|20px]] [[LOSC Lille|LOST]]|2-0|2-1}}
+{{Competição de mata-mata 2 jogos (jogo)|[[PSG|Paris Sem Glórias]] [[Arquivo:Escudo do Paris Saint-Germain.png|20px]]|2-3|'''[[Arquivo:Escudo do Real Madrid.png|20px]] [[Real Madrid|Real VARdrid]]'''|1-0|1-3}}
+|}
+===Quartas de final===
+Nas Quartas, tivemos o Atleti renovando sua virginidade com a Champions, e o Villarreal eliminando o fodástico Bayern.
+{{Competição de mata-mata 2 jogos (base)}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Chelsea FC|Che£$ki FC]] [[Arquivo:Chelski.jpg|20px]]|4-5 ([[Prorrogação|pro]])|'''[[Arquivo:Escudo do Real Madrid.png|20px]] [[Real Madrid|Real VARdrid]]'''|1-3|3-2}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Manchester City|Manchester $hitty]] [[Arquivo:Escudo do Manchester City.png|20px]]'''|1-0|[[Arquivo:Escudo do Atlético de Madrid.png|20px]] [[Atlético de Madrid|Patético de Madrinha]]|1-0|0-0}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Arquivo:Escudo do Villarreal.png|20px]] [[Villarreal CF|Virilha Real]]'''|2-1|[[Arquivo:Escudo do Bayern München.png|20px]] [[Bayern de Munique|Bye-bye Bayern!]]|1-0|1-1}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Benfica|Malfica]] [[Arquivo:Escudo do Benfica.png|20px]]|4-6|'''[[Arquivo:Escudo do Liverpool.png|20px]] [[Liverpool FC|Loserpool]]'''|1-3|3-3}}
+|}
+===Semifinal===
+Nessa fase, o City foi mais um time a renovar o contrato de virginidade com a Champions. No outro jogo, o Villarreal finalmente foi eliminado.
+{{Competição de mata-mata 2 jogos (base)}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Liverpool FC|Loserpool]] [[Arquivo:Escudo do Liverpool.png|20px]]'''|5-2|[[Arquivo:Escudo do Villarreal.png|20px]] [[Villarreal CF|Virilha Real já era]]|2-0|3-2}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Manchester City|Manchester $hitty]] [[Arquivo:Escudo do Manchester City.png|20px]]|5-6([[Prorrogação|pro]])|'''[[Arquivo:Escudo do Real Madrid.png|20px]] [[Real Madrid|Real VARdrid]]'''|4-3|1-3}}
+|}
+===Final===
+Nessa ano, o Real ganhou de novo graças a um [[Thibaut Courtois|um certo goleiro belga]] que foi possuído pelo [[Lev Yashin|Yashin]] durante o jogo.
+{| style="widht:{{{widht|100%}}}; background: transparent;" cellspacing="0"
+|- valign="top" align="right" widht="16%" style="font-size:85%;"|[[28 de maio]] de [[2022]]
+|widht="24%" align="right"|'''[[Liverpool FC|Loserpool perdeu de novo]] [[Arquivo:Escudo do Liverpool.png|20px]] '''
+|widht="12%" align="center"|'''0 - 1'''
+|widht="24%"|'''[[Arquivo:Escudo do  Real Madrid.png|20px]] [[Real Madrid|Real VARdrid]]'''
+|style="font-size:85%;"|
+{{{estadio|[[Stade de France|Estado de França]],
+[[Saint-Denis|Cidade no meio do nada]]}}}
+|- style="font-size:85%;  "valign="top" align="right" widht="16%" style="font-size:100%;"|{{#if:{{{hora|}}}|{{{hora}}}}}<br /> {{#if: {{{hist|}}}|
+[[Arquivo:Crystal Clear app kworldclock.png|20px]] [{{{hist|}}}|Histórico]]}} |align="right"|
+|
+|{{#if: {{{gols2}}} |[[Vinicius Júnior|Neguebinha Jr.]] 59'
+|{{#if: {{{público| {{{publico|}}} }}} | '''Público:''' {{#if:{{{público|}}} | {{formatnum:{{{público}}} }} | {{{publico}}} }} }}{{#if: {{{renda|}}} | {{#if:{{{público| {{{publico|}}} }}} | <br /> }}'''Renda:''' {{{renda}}} }}{{#if: {{{arbitro|}}} | {{#if:{{{público| {{{publico|}}} }}} | <br /> }} }}'''Árbitro:'''}}
+|}
+[[Arquivo:Salahchoro.jpg|300px|thumb|[[Mohamed Salah|Maomé Salada]] chorando após mais um vice do [[Liverpool FC|seu time]] na temporada.]]
+==Campeão==
+{| class="wikitable" style="margin: 0 auto; widht: 220px;" 
+|-
+!Liga dos Campeões da UEFA de 2021-22
+|-
+![[Arquivo:Escudo do Real Madrid.png|100px]]
+|-
+| align="center" |[[Real Madrid|Real Madrid, pra variar...]] <br />'''Campeão'''<br /><small>(14° título)</small>
+|}
+==Ver também==
+* [[Copa Libertadores da América de 2022]]
+* [[Copa Sul-Americana de 2022]]
+* [[Liga Europa da UEFA de 2021-22]]
+{{Liga dos Campeões da UEFA}}

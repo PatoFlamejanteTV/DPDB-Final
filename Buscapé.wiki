@@ -1,0 +1,71 @@
+'''BuscaPé''' é um site de fotos de produtos que auxilia você antes de ir andar na rua para fazer suas compras. Ainda, suja a [[Internet]] com banners.
+
+
+{{c|O BuscaPé pensa em VOCÊ!! |RH |o BuscaPé}}
+{{c|O BuscaPé pensa em MIM!! |Estagiário |o BuscaPé}}
+{{c|Ganho R$ 0,25 por ano!!! |Afiliados |o BuscaPé}}
+{{c|Fui eu que fiz |[[Maluf]]|o BuscaPé}}
+{{c|Mas lá não é confiável não |Vendedor das Casas Bahia|o BuscaPé}}
+{{c|Se eu pudesse eu comparava mil!!|[[Jeremias]]|o BuscaPé}}
+{{c|É uma cilada, Bino! |[[Pedro]]|o BuscaPé}}
+{{c|É um site muito lento |Rubinho |o BuscaPé}}
+{{c|Desde que a comprei, minhas vendas aumentaram 0,05%!|Bill Gates |o BuscaPé}}
+{{c|Na [[União Soviética]], o preço compara VOCÊ!! |[[Reversal Russa]]|o BuscaPé}}
+{{c|Você quis dizer: Shopping UOL |[[Google]]| o BuscaPé}}
+{{c|Você quis dizer: eBay |[[Google]]| o BuscaPé}}
+
+''Não confundir com [[busca-pé|aquele fogo de artifício]] que o povo acende e fica correndo de medo dele.''
+
+== Afiliados ==
+
+Os afiliados não tem do que reclamar do programa, pois só pagam apenas 20 dias depois do prazo máximo, quando não resolvem dar calote. O relatório do dia é exibido apenas no outro dia, se não houver página não encontrada, falha no servidor ou conexão. Os cliques são contabilizados assim por exemplo, 100 cliques:
+100-50/5 = 10 cliques
+
+Os emails dos afiliados sempre são respondidos no dia de <s>depois de amanhã</s> são nunca.
+
+Cliques lojas, é quando o visitante do site clica em um banner ou barra de ofertas que o encaminha direto para uma loja anunciante do buscapé. A aparição dos anúncios lojas é mais raro que um eclipse lunar.
+
+== Histórico ==
+
+[[Arquivo:Zebuscape.jpg|thumb|O administrador do site]]
+
+Em 1989, a [[Nike]] tinha um ambicioso projeto internacional chamado ''Foot Search'' que integraria a busca de todos os seus calçados no mundo. Esse projeto também incluía o Brasil, que acabou sendo apelidado internamente como ''Busca Pé''. Mesmo com a crise da companhia e a ida de suas fábricas para a [[China]], o projeto foi lançado mundialmente em [[1 de janeiro]] de [[1999]], após 10 anos de  desenvolvimento. 
+
+Porém, após os 6 primeiros meses depois do lançamento, o site acumulava 10 visitas, sendo que 8 tinham como origem o Brasil, e as outras 2 vistas eram de um analista de teste da própria companhia. Com esse estrondoso caso de sucesso na América Latina, a Nike desistiu do projeto, colocando-o a venda no Brasil, lugar o qual a população é idiota o suficiente para acreditar em buscas na Internet.
+
+Foi então que os pais de uns moleques da 8ª série, que ficavam o dia inteiro re-programando a ''engine'' do [[Quake]] para trapacear em jogos on-line, tiveram uma grande sacada e compraram-no. Eles começaram, então, a estudar o sistema, que consistia em um '''único arquivo''' em [[Perl]] muito bem organizado, com 32.000 linhas de código. O projeto ganhou definitivamente o nome de BuscaPé.
+
+
+PS: O arquivo Perl de 32.000 linhas de código está ativo até hoje, sendo a núcleo de todo o sistema de busca. Outros sistemas foram ligados a esses, em Shell Script, B, C, C++, JavaScript; todos comunicando entre si por um sofisticado protocolo de comunicação baseado em hipertexto, também conhecido simplesmente por texto, ou TXT.
+
+== A Reviravolta ==
+
+Após alguns anos mostrando sempre o <s>maior</s> melhor preço para os internautas, o BuscaPé percebeu que perdia uma grande fatia do mercado, e resolveu abaixar todos os preços de todas as lojas fazendo seus usuários mais felizes. Com isso, toda busca de produtos resulta numa lista ordenada de lojas que <s>pagam mais</s> possuem os melhores preços.
+
+Em [[2000]], com forte concorrência dos [[shopping]] chineses na [[25 de Março]] e na [[Av. Paulista]], o BuscaPé aliou-se ao [[Bondfaro]] que fazia comparações de artigos caninos. Com isso, tornou-se detentora da maior base de dados do mundo de imagens de produtos.
+
+
+== Promoções ==
+[[Arquivo:Buscapé_berinjela.jpg|thumb|right|Buscapé mostrando uma de suas <s>melhores</s> promoções.]]
+As melhores promoções da Internet são as do BuscaPé, que já deu de presente desde a incrível coleção de grafites 0.5 coloridas, até pen drives de 128 Mbytes. Todas as promoções são vistoriadas pela matriz [[Google]], que define quem ganha com uma consulta rápida ao mais veloz banco de dados do mundo ([[Microsoft Access]]), onde ficam todos os dados dos produtos do BuscaPé.
+
+Como parte das promoções, os <s>spam</s> e-mails de ofertas do BuscaPé são outro atrativo, com ofertas de produtos <s>encalhados</s> com preços inbatíveis das Lojas.
+
+== Ver também ==
+
+* [[Mercado Livre]]
+* Shopping [[UOL]]
+* [[Law Kin Chong]]
+
+
+== Ligações externas ==
+*[http://www.buscape.com.br BuscaPé]
+
+{{esboço}}
+
+{{Sites}}
+
+[[Categoria:Internet]]
+[[Categoria:Sites]]
+[[Categoria:Empresas do Brasil]]
+[[Categoria:Empresas de comércio eletrônico]]

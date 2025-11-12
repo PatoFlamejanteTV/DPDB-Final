@@ -1,0 +1,313 @@
+{{c|Dessa vez não tinha [[Xavi]], [[Iniesta]], [[Messi]] e [[Daniel Alves]] no auge pra me salvar!|[[Pep Guardiola|Professor Pardal]]|a final da Liga dos Campeões da UEFA de 2020/21}}
+A  foderosa '''Liga dos Campeões da UEFA de 2020/21''' é a [[666]]ª edição da UEFA Xempius Ligui, uma competição um pouco pior e menos relevante que a [[Taça Guanabara]]. {{strike|A final dessa vez REALMENTE será realizada em [[Constantinopla]], ops, quer dizer [[Istambul]], após o imenso [[Pandemia de COVID-19|troll chinês]] que fudeu o mundo inteiro e atrasou a final do ano passado.}} Devido ao fato de que os organizadores queriam colocar público na porra do jogo e exigiram respeito aos protocolos, a final mais uma vez será feita em [[Portugal]].
+
+Dessa vez, os jogos continuam sem público, o que rendeu jogos ainda mais chatos e entendiantes que os do ano passado {{Strike|CHINESES FILHOS DA PUTA!}}<ref>Comentário censurado por [[Xi Jinping]]</ref>. Nos teremos a oportunidade de ver o todo poderoso [[Bayern de Munique]] defendendo seu título após a campanha perfeita do ano passado. Ou não.
+
+==Pré-eliminatórias e play-off==
+O destaque que aconteceu nessa fase foi o [[Benfica]], após o retorno do ''mister'' [[Jorge Jesus]], sendo eliminado pelo [[PAOK]] (cujo técnico [[Abel Ferreira]] viria a ganhar, posteriormente, a [[Copa Libertadores da América de 2020|Libertadores]] pelo [[Palmeiras|Parmera]]), jogando todo o planejamento da temporada no lixo, o que prova que ganhar qualquer campeonato no nível varzeano do [[Brasil]] e da [[América do Sul]] não significa porra nenhuma e fez os [[flamenguistas]] se iludirem com uma volta do velho pro Mengaum.
+
+==Fase de grupos==
+Nessa fase todo mundo sabe claramente desde o início quem vai passar, então por que você assiste?
+
+{| class="wikitable"
+|-
+|'''Legenda'''
+|- bgcolor=#CCFFCC
+|Classificado às oitavas-de-final
+|- bgcolor=#CCCCFF
+|<s>Rebaixado</s> Classificado à fase de dezesseis-avos de final da [[Liga Europa da UEFA]] de 2020/21
+|- bgcolor=#FFCCCC
+|Eliminado
+|}
+
+===Grupo A===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Bayern München.png|20px]] [[Bayern de Munique|Nazi-München]]
+|16||6||5||1||0||18||5||+13
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Atlético de Madrid.png|20px]] [[Atlético de Madrid|Patético de Madrinha]]
+|9||6||2||3||1||7||8||-1
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|[[Arquivo:Escudo do Red Bull Salzburg.png|20px]] [[Red Bull Salzburg|Red Bull te dá asas]]
+|4||6||1||1||4||10||17||-7
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Lokomotiv Moscow.png|20px]] [[Lokomotiv Moscou|Lokomotiv Stalin]]
+|3||6||0||3||3||5||10||-5
+|}
+===Grupo B===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Real Madrid.png|20px]] [[Real Madrid|Real Madrinha]]
+|10||6||3||1||2||11||9||+2
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Borussia Mönchengladbach.png|20px]] [[Borussia Monchengladbach|Borussia fake]]
+|8||6||2||2||2||16||9||+7
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|[[Arquivo:Escudo do Shakhtar Donetsk.png|20px]] [[Shakhtar Donetsk|Brasileiros na Ucrânia]]
+|8||6||2||2||2||5||12||-7
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo da Internazionale.png|20px]] [[Inter de Milão|Entra no Melão]]
+|6||6||1||3||2||7||9||-2
+|}
+===Grupo C===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Manchester City.png|20px]] [[Manchester City|Manchester $hitty]]
+|16||6||5||1||0||13||1||+12
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Porto.png|20px]] [[FC Porto|Porco]]
+|13||6||4||1||1||10||3||+7
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|[[Arquivo:Escudo do Olympiacos.png|20px]] [[Olympiakos|Olha as pika]]
+|3||6||1||0||5||2||10||-8
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Olympique de Marseille.png|20px]] [[Olympique de Marseille|Olha a pica do Marcelo]]
+|3||6||1||0||5||2||13||-11
+|}
+===Grupo D===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Liverpool.png|20px]] [[Liverpool FC|Loserpool]]
+|13||6||4||1||1||10||3||+7
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Atalanta BC.png|20px]] [[Atalanta BC|Tá lá a anta]]
+|11||6||3||2||1||10||8||+2
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|[[Arquivo:Escudo do Ajax.png|20px]] [[AFC Ajax|Ajax limpeza rápida]]
+|7||6||2||1||3||7||7||0
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Midtjylland.png|20px]] [[FC Midtjylland|Mindlland]]
+|2||6||0||2||4||4||13||-9
+|}
+===Grupo E===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Chelski.jpg|20px]] [[Chelsea FC|Chel$ki]]
+|14||6||4||2||0||14||2||+12
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Sevilla.png|20px]] [[Sevilla FC|Ervilha]]
+|13||6||4||1||1||9||8||+1
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|[[Arquivo:Escudo do Krasnodar.png|20px]] [[FK Krasnodar|Kono <s>DIO</s> da]]
+|5||6||1||2||3||6||11||-5
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Stade Rennais.png|20px]] [[Rennes FC|Cálculo renal]]
+|1||6||0||1||5||3||11||-8
+|}
+===Grupo F===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Borussia Dortmund.png|20px]] [[Borussia Dortmund|Amarelão]]
+|13||6||4||1||1||12||5||+7
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo da Lazio.png|20px]] [[Lazio|Fascistas]]
+|10||6||2||4||0||11||7||+4
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|[[Arquivo:Escudo do Club Brugge.png|20px]] [[Club Brugge|Burger King]]
+|8||6||2||2||2||8||10||-2
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Zenit.png|20px]] [[Zenit|Zanetti Leningrado]]
+|1||6||0||1||5||4||13||-9
+|}
+===Grupo G===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Juventus FC.png|20px]] [[Juventus FC|Rubentus]]
+|15||6||5||0||1||14||4||+10
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do FC Barcelona.png|20px]] [[FC Barcelona|Farcelona]]
+|15||6||5||0||1||16||5||+11
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|[[Arquivo:Escudo do Dynamo Kiev.png|20px]] [[Dínamo Kiev|Dínamo Kibe]]
+|4||6||1||1||4||4||13||-9
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Ferencvárosi.png|20px]] [[Ferencváros|Fezescváros]]
+|1||6||0||1||5||5||17||-12
+|}
+===Grupo H===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Paris Saint-Germain.png|20px]] [[PSG|Parças do Ney]]
+|12||6||4||0||2||13||6||7
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do RB Leipzig.png|20px]] [[RB Leipzig|RB Bragantino da Polônia]]
+|12||6||4||0||2||11||12||-1
+|-bgcolor=#CCCCFF
+|style="text-align:left;"|[[Arquivo:Escudo do Manchester United.png|20px]] [[Manchester United|Viúvas do Ferguson]]
+|9||6||3||0||3||15||10||+5
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do İstanbul Başakşehir.png|20px]] [[Istanbul Basaksehir|Istanbul Bundalelê]]
+|3||6||1||0||5||7||18||-11
+|}
+==Fase final==
+===Oitavas de final===
+{{Competição de mata-mata 2 jogos (base)}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do Borussia Mönchengladbach.png|20px]] [[Borussia Monchengladbach|Borussia fake]]|0-4|'''[[Arquivo:Escudo do Manchester City.png|20px]] [[Manchester City|Manchester $hitty]]'''|0-2|0-2}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo da Lazio.png|20px]] [[Lazio|Fascistas]]|2-6|'''[[Arquivo:Escudo do Bayern München.png|20px]] [[Bayern de Munique|Nazi-München]]'''|1-4|1-2}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do Atlético de Madrid.png|20px]] [[Atlético de Madrid|Patético de Madrinha]]|0-3|'''[[Arquivo:Chelski.jpg|20px]] [[Chelsea FC|Chel$ki]]'''|0-1|0-2}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do RB Leipzig.png|20px]] [[RB Leipzig|RB Bragantino da Polônia]]|0-4|'''[[Arquivo:Escudo do Liverpool.png|20px]] [[Liverpool FC|Loserpool]]'''|0-2|0-2}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Arquivo:Escudo do Porto.png|20px]] [[FC Porto|Porco]]'''|4-4 (gf.)|[[Arquivo:Escudo do Juventus FC.png|20px]] [[Juventus|Rubentus]]|2-1|2-3(pro)}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do FC Barcelona.png|20px]] [[FC Barcelona|Farcelona]]|2-5|'''[[Arquivo:Escudo do Paris Saint-Germain.png|20px]] [[PSG|Parças do Ney]]'''|1-4|1-1}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do Sevilla.png|20px]] [[Sevilla FC|Ervilha]]|4-5|'''[[Arquivo:Escudo do Borussia Dortmund.png|20px]] [[Borussia Dortmund|Amarelão]]'''|2-3|2-2}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do Atalanta BC.png|20px]] [[Atalanta BC|Tá lá a anta]]|1-4|'''[[Arquivo:Escudo do Real Madrid.png|20px]] [[Real Madrid|Real Madrinha]]'''|0-1|1-3}}
+|}
+===Quartas de final===
+{{Competição de mata-mata 2 jogos (base)}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Arquivo:Escudo do Manchester City.png|20px]] [[Manchester City|Manchester $hitty]]'''|4-2|[[Arquivo:Escudo do Borussia Dortmund.png|20px]] [[Borussia Dortmund|Amarelão]]|2-1|2-1}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do Porto.png|20px]] [[FC Porto|Porco]]|1-2|'''[[Arquivo:Chelski.jpg|20px]] [[Chelsea FC|Chel$ki]]'''|0-2|1-0}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do Bayern München.png|20px]] [[Bayern de Munique|Nazi-München]]|3-3 (gf.)|'''[[Arquivo:Escudo do Paris Saint-Germain.png|20px]] [[PSG|Parças do Ney]]'''|2-3|1-0}}
+{{Competição de mata-mata 2 jogos (jogo)|'''[[Arquivo:Escudo do Real Madrid.png|20px]] [[Real Madrid|Real Madrinha]]'''|3-1|[[Arquivo:Escudo do Liverpool.png|20px]] [[Liverpool FC|Loserpool]]|
+3-1|0-0}}
+|}
+===Semifinais===
+Nessa semifinal nós tivemos um confronto árabe entre os sheiks milionários do [[Catar]] pelo [[PSG]] e os sheiks milionários dos [[Emirados Árabes Unidos]] pelo [[Manchester City]]. O Shitty ganhou o confronto e tentará perder de uma vez por todas o cabaço na Champions e conquistar o título.
+{{Competição de mata-mata 2 jogos (base)}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do Paris Saint-Germain.png|20px]] [[PSG|Parças do Ney]]|1-4|'''[[Arquivo:Escudo do Manchester City.png|20px]] [[Manchester City|Manchester $hitty]]'''|1-2|0-2}}
+{{Competição de mata-mata 2 jogos (jogo)|[[Arquivo:Escudo do Real Madrid.png|20px]] [[Real Madrid|Real Madrinha]]|1-3|'''[[Arquivo:Chelski.jpg|20px]] [[Chelsea FC|Chel$ki]]'''|1-1|0-2}}
+|}
+===Final===
+Não tivemos um novo campeão da Champions League! O time russo Chelski conseguiu seu segundo título com gol do [[Kai Havertz]] fazendo o que aquele [[Arjen Robben|Careca Pipoqueiro Holandês]] não conseguiu fazer na final da [[Copa do Mundo FIFA de 2010|Copa do Mundo de 2010]] e agora deverá perder pra outro time brasileiro no mundial... Será?
+{| style="width:{{{width|100%}}}; background: transparent;" cellspacing="0"
+|- valign="top"
+|align="right" width="16%" style="font-size:85%;"|[[29 de maio]] de [[2021]]
+|width="24%" align="right"|'''[[Arquivo:Escudo do Manchester City.png|20px]] [[Manchester City|Manchester $hitty]]'''
+
+|width="12%" align="center"|'''0-1'''
+|width="24%"|'''[[Arquivo:Chelski.jpg|20px]] [[Chelsea FC|Chel$ki]]'''
+|style="font-size:85%;"|{{{estadio|[[Estádio do Dragão|Estádio do Ladrão]], [[Porto|Puorto]]}}}
+|- style="font-size:85%;" valign="top"
+|align="right" width="16%" style="font-size:100%;"|{{#if: {{{hora|}}}|{{{hora}}}}}<br />{{#if: {{{hist|}}}|[[Arquivo:Crystal Clear app kworldclock.png|20px]] [[{{{hist|}}}|Histórico]]}}
+|align="right"|
+|  
+|{{#if: {{{gols2|}}} |'42 [[Kai Havertz|Cai Harveza]]           
+|{{#if: {{{público| {{{publico|}}} }}} | '''Público:''' {{#if: {{{público|}}} | {{formatnum:{{{público}}} }} | {{{publico}}} }} }}{{#if: {{{renda|}}} | {{#if: {{{público| {{{publico|}}} }}} | <br /> }}'''Renda:''' {{{renda}}} }}{{#if: {{{arbitro|}}} | {{#if: {{{renda|}}} | <br /> | {{#if: {{{público| {{{publico|}}} }}} | <br /> }} }}'''Árbitro:'''}}
+|}
+
+==Campeão==
+
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Liga dos Campeões da UEFA de 2020–21<br/>
+|-
+![[Arquivo:Chelski.jpg|border|100px]]
+|-
+|align=center|'''[[Chelsea FC|Chel$ki]]<br />
+(2° título)<br/>
+|}
+
+==A treta da Superliga==
+{{Ver artigo principal|[[Desnotícias:Clubes europeus criam a Master League da vida real]]}}
+As vésperas das semifinais, vários dirigentes [[filhos da puta]] de alguns times europeus tiveram a grandiosíssima ideia de montar um clubinho dos mais ricos clubes da Europa, o nome dessa bosta seria Superliga, os clubes participantes dessa porcaria seriam [[Real Madrid]], [[Barcelona FC|Barcelona]], [[Manchester United]], [[Liverpool FC|Liverpool]], [[Milan]], [[Inter de Milão]], [[Juventus FC|Juventus]], [[Chelsea]], [[Manchester City]], [[Atlético de Madrid]], [[Arsenal FC|Arsenal]] e [[Tottenham]] (wtf?). Você se pergunta o que caralhos esses dois últimos estão fazendo aqui, pois é, ninguém sabe.
+
+Após a repercussão extremamente negativa do caso e ameaça de expulsão da [[UEFA]] e da [[FIFA]], os clubes envolvidos para não passarem mais vergonha começaram a sair dessa porra um por um, mandando os donos do Real e da Juve, os dois times mais nojentos da Europa sem dúvidas, irem pra puta que o pariu.
+==Transmissão==
+Mais um ano, se você quiser assistir os jogaços da maior competição de clubes do mundo, terá que assistir o [[André Henning|careca filho da puta e seus gritos de gazela]] e os os comentários extremamente engraçados do [[Alê Oliveira]] no {{strike|[[Esporte Interativo]]}}, ops, TNT Sports, manter a TV no mudo nesse caso é a melhor opção.
+
+E não se preocupe, pois ano que vem irá piorar, pois os jogos começarão a ser transmitidos na [[SBT|emissora do Sílvio Santos]].
+{{Referências}}
+{{Liga dos Campeões da UEFA}}

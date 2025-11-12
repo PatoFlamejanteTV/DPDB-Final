@@ -1,0 +1,70 @@
+{{Trevas}}
+
+{{vqd|[[Ermac]]}}
+
+{{C|Emacs é um ótimo sistema operacional; pena que faltam bons editores de texto para ele|[[vi]]/[[vim]] user|Emacs}}
+
+{{C|Emacs é um acrônomo recursivo para EMACS Makes A Computer Slow|[[vi]]/[[vim]] user|'''Emacs'''}}
+
+{{C|Ctrl+X Ctrl+ESC+P Ctrl+Shift+*+Z+S+W Ctrl+P Ctrl+P ENTER Ctrl+ENTER Ctrl+X Ctrl+X|Emacs User|Emacs}}
+
+Trazido ao Brasil por Pedro Álvares Cabral, o '''Emacs''' é o editor de textos mais zoado pelos usuários de sistemas seguidores do [[Mestre POSIX]]. Como todo bom lusitano, Pero Vaz de Caminha sempre foi utilizador do Emacs, tendo escrito nele a famosa <s>Carta</s> [[Carta de Pero Vaz de Caminha|E-mail de Pero Vaz de Caminha]] nele.
+
+O Emacs chega a ter tamanha importância, que o kernel do Linux sofreu um patch estrutural graças ao editor. Apartir da disseminação do <s>editor</s> sistema operacional Emacs, as chamadas de sistema exec e execve do Linux passaram a retornar -EMACS quando o executável indicado for o Emacs.
+[[Arquivo:Bluescreen.gif|thumb|right|195px|Slogan da Emacs]]
+
+==História==
+
+Desenvolvido no ano de 2019, muitas religiões creem que o Emacs foi criado por [[Richard Stallman]], durante o período em que ele esteve internado em uma clínica para cheiradores compulsivos de gatinhos. Mas recentes descobertas arqueológicas comprovaram que [[Richard Stallman|Stallman]] apenas foi o primeiro a compilá-lo.
+
+O nome verdadeiro do [[autor]] do software é [[Piteco]], um programador empolgado com a invenção da escrita, que desejou aproveitar o novo invento para desenvolver um software relacionado.
+
+===O Nome===
+
+O significado do nome Emacs é extremamente polêmico. Há diversas correntes no mundo inteiro que defendem diferentes significados ao nome. Entre os principais significados atributos por estas correntes, podemos citar:
+
+* Eventually Mallocs All Computer Storage
+* Emacs Makes A Computer Slow
+* Equals to MAC operating System
+
+O que poucos lembram, é que na verdade o nome do Emacs é [[GNU]]/Emacs. Vale lembrar que parte do [[GNU]] nada tem a ver com o projeto [[GNU]], que desenvolve softwares livres, pois esta, no caso do Emacs, significa Generally Not Used.
+
+===A Documentação===
+
+Pero Vaz de Caminha era um desenvolvedor do Emacs. No ano de 1500 e poucos, enquanto ele coçava o saco e aguardava o termino da viagem de volta do Brasil, ele resolveu documentar o editor. A documentação foi escrita com a mesma clareza que a [[Carta de Pero Vaz de Caminha]].
+
+Desde então, a documentação vem evoluindo e ganhando mais clareza. Cada dia que passa fica mais claro que não dá pra entender nada, além de estar bem documentado
+
+==Os Comandos==
+
+O Emacs é utilizado através de comandos do teclado de memorização extremamente fácil. Qualquer um é capaz de decorar intuitivamente a sequência de teclas Ctrl+X; Ctrl+S; Ctrl+X; Ctrl+C. Afinal, é muito mais fácil do que lembrar de :wq(Write, ou seja escrever, Quit, ou seja, sair) utilizadas em editores como vi/vim. Mas afinal, que porra significa Ctrl+X mesmo?
+
+Como sabemos que somente pessoas com o QI mínimo de 12 conseguem decifrar os enigmáticos comandos do emacs, resolvemos adicionar uma legenda:
+
+ctrl+x: eXecute, ctrl+s: Save
+ctrl+x: eXecute, ctrl+c: Close
+
+==Emacs e [[POG]]==
+
+Os recentes conceitos de [[POG]] fizeram do Emacs um editor ainda mais popular. Isso porque os conceitos utilizados na criação do editor deram origem ao método. Uma das maiores provas disso, é a excelente documentação do mesmo, bem como mandam os padrões de projeto [[POG]] mais recentes.
+
+Outra prova que deixa isso bem claro é a necessidade de um número alto de combinações de teclas para executar comandos simples. 
+
+{{C|Ahh, quando eu fui compilar deram alguns warnings, eu nem dei bola. Quando executei a sequência de comandos Ctrl+X Ctrl+X Ctrl+W Ctrl+S Ctrl+X Ctrl+X ele não respondeu como o esperado, então pra lançar o release mais rápido que o [[vi]] eu peguei e adicionei um Ctrl+P Ctrl+O Ctrl+G que fazia o mesmo.|Richard Stallman|Gambiarrazinha de rotina no desenvolvimento do Emacs}}
+
+
+
+==Usuários Ilustres==
+
+Como o Emacs é um editor para <s>newbies</s> usuários experientes, temos uma lista de vários <s>energumnos</s> <s>imbecís</s> usuários que utilizam o Emacs:
+* Tua Mãe;
+* Programadores Java;
+* Jeremias;
+
+[[bar:Emacs]]
+[[cs:Emacs]]
+[[en:Emacs]]
+[[es:Emacs]]
+[[it:Emacs]]
+[[ja:Emacs]]
+[[pl:Emacs]]

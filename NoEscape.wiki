@@ -1,0 +1,32 @@
+[[Arquivo:NoEscape.jpg|thumb|O que supostamente vai acontecer com seu PC.]]
+
+'''NoEscape''' (Win32:RansomX-gen, Trojan.GenericKD.67371017, Win32/Filecoder.Avaddon.E, HEUR:Trojan-Ransom.Win32.Avaddon.gen ou Trojan:Win32/Woreflint.A!cl como possíveis identificantes dos [[antivírus]] da identidade secreta desse vagabundo) é um suposto [[ransomware]] dito ter vindo da [[DeepWeb]] ou coisa do tipo. Entretanto, seu modus operandi é onde habita a maior dúvida, pois que há quem diga que ele só torna o PC inacessível, já outros casos informam que até dá para acessar, mas os programas em si vão funcionar tudo cagados e no fim o PC vai mandar uma [[carta de despedida]] no [[bloco de notas]] e só isso mesmo, bye bye, até nunca mais!
+
+== A versão que supostamente é a real ==
+
+Na versão costumeiramente dita como real, ele [[criptografia|encripta]] todos os ficheiros (ou seja, todos os arquivos e programas) do computador, tornando todos eles arquivos com a extensão <s>.CAGUEIFOITUDO</s> .CAEGAAHJFA (tipo: "Foto_da_gostosa.jpg" vira "Foto_da_gostosa.jpg.CAEGAAHJFA" e não dá mais para abrir essa porra, ou seja, já era, a foto da gostosa foi pro beleléu!).
+
+Além disso eles também criam um arquivo de texto chamado "HOW_TO_RECOVER_FILES.txt", onde eles explicam que tomaram teu [[computador]] porque você foi muito otário de sair clicando em [[SPAM]]s aleatórios, tipo o que outros ramsonwares fazem por aí, e agora o trouxão tem de baixar o navegador [[Tor]] e esperar uma ligação de resgate para recuperar seus arquivos seguindo as instruções deles, não tentando de jeito nenhum descriptar os arquivos porque se você foi imbecil de clicar num vírus, com certeza é ainda mais para foder seus arquivos tudo, e agora é pagar o resgate para eles liberarem seu PC ([[ou não]]).
+
+=== Como resolver esse problema? ===
+
+Chame a polícia e a delegacia de crimes virtuais e torça para ter alguém lá que manje de descriptar, além de que consiga rastrear sei lá como o [[sequestrador]] virtual filho da puta.
+
+Se você tiver cópias de segurança e pontos de restauração do [[PC]], proceda ao retorno a eles, caso contrário, é [[formatação]] e F pros seus arquivos mesmo...
+
+== A suposta aparição suprema ==
+
+Fala-se em versões dessa porra chamadas ThereIsNoEscape.exe. Nessa, normalmente ele viria via [[e-mail]] como um tipo de site, tipo um vídeo do [[YouTube]], só que caso o ser fosse um imbecil de clicar, abriria tipo uma variante do [[Goggle.com]] ou algo do tipo, (não, não é [[Google]], é Goggle mesmo nesse caso...) ou um YouTube pirata e o vídeo diria "Meus parabéns, você acaba de ganhar <s>[[1 milhão de reais em barras de ouro que valem mais do que dinheiro]]!</s> um [[vírus]] no seu PC e não há escapatória, [[AYBABTU|faça seu tempo, MUAHAHAHAHAHAH!]]"
+
+A tela inicial de login vai ficar com uma versão feita no [[Paint]] do login, com o tema mais avermelhado sangue que se tivesse instalado o [[666.sys]], todos os arquivos sem exceção vão ficar encriptados e outros nem tanto assim, mas não vão funcionar direito, vão ficar bugando, abrindo e fechando, dando overclock na máquina, causando reinicializações bizarras, imagens estranhas abrindo do nada, enfim.
+
+Vai chegar uma hora que a [[placa de vídeo]] ou a [[placa-mãe]] onboard vai começar a ficar toda bugada, com a imagem derretendo completamente, e por fim, numa hora ou outra o PC até parece que volta a exibir imagens, mas o que rola é que um arquivo de texto abre do nada e começa a se auto-digitar a seguinte mensagem: "Ô filho da puta, ainda não entendeu que deu merda? Teu computador foi de base, desfrute aí os últimos momentos dessa carcaça fodida, porque ela já era!"
+
+E, caso você tente reinicializar o PC novamente, ele vai ficar dando [[Tela Azul da Morte]] ou coisa do tipo, dando adeus ao PC para todo o sempre.
+
+=== Como resolver esse suposto vírus? ===
+
+Comprando um PC novo. Ou simplesmente parando de acreditar em [[creepypasta]]s fodidas da internet, porra! [[Padre Quevedo|Isso non ecsiste]], vá [[sexo|fazer algo útil pra sua vida]] e largue esse computador, tablet ou celular, otário!
+
+{{Creepypasta}}
+{{Vírus}}

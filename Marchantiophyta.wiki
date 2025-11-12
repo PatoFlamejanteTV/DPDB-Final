@@ -1,0 +1,38 @@
+{{Taxocaixa 
+| cor             = yellowgreen
+| nome            = Hepáticas
+| imagem          = Marchantiophyta.jpeg
+| imagem_legenda  = Nada a ver com fígados podres e corroídos, as hepáticas são aquelas plantinhas que mais parecem alfaces apodrecidos
+| reino           = [[Plantae|Plantinhas]]
+| clado2          = [[Viridiplantae|Viripendio]]
+| clado2.1        = [[Embryophyta|Embriofita]]
+| clado2.2        = [[Bryophyta|Bryophyta nonsense late]]
+| divisão         = [[Marchantiophyta|Marcha e Apita]]
+}}
+
+'''Marchantiophyta''', conhecida também pelo nome nada a ver de '''hepáticas''' embora não façam nenhum bem para [[fígado]] nenhum é um grupo de fungos mais desenvolvidos que hoje são aceitos como sendo plantas, por muito tempo incluído como sendo apenas uma classe de musgos (Hepaticae) ganhou sua divisão própria porque os botânicos não sabem fazer uma [[cladística]] bonitinha igual os zoólogos e inventam coisas como [[bryophyta sensu lato]] e [[bryophyta sensu stricto]] deixando qualquer um que se arrisque entender taxonomia das plantas maluco.
+
+== Características ==
+
+A característica mais comum a todas as hepáticas, além do nome que as confundem com um fígado humano embora não possuem relação com isso, é a sua morfologia formada por apenas um talo com uma ou duas folhas não comestíveis que geralmente parecem veludo, e nada mais. São de pequeno porte porque não são vasculares e a distribuição dos nutrientes é feita por "esparramento" escorrendo conforme a gravidade, a osmose e essas coisas de seres primitivos, então devido a esta dificuldade em distribuir nutrientes o máximo que consegue ficar é do tamanho de um pênis de japonês, embora grandes colônias cubram vastas áreas de centenas de metros de espaços abandonados, úmidos e afastados da incidência direta da luz solar, como as virilhas da senhora tua mãe, embora a competitividade com fungos nessas zonas seja bem agressiva, mas aí sempre aparece um [[líquen]].
+
+Apesar de gostar de umidade, não gosta de ambientes aquáticos porque não deseja ser confundido com [[algas]], então está sempre na superfície. Não gosta também de ser chamado de [[musgo]], porque os musgos são considerados nojentos e raramente servem para ornamentar vasinhos das casas de pessoas solitárias, as hepáticas, todavia, criam umas folhas fofinhas e tentam se parecer ao máximo com essas plantinhas de vasos.
+
+Geneticamente são majoritariamente [[haploide]]s, porque dá preguiça demais ser diploide se nem dá pra transar como um [[animal]] para fazer valer a pena tanto par de [[cromossomo]], então fica mais simples para essas plantinhas manter as coisas mais simples para se reproduzirem o mais rápido possível.
+
+Ao contrário dos vegetais que se prezam, as hepáticas possuem uma fase de vida apenas com seu [[gametófito]], não possuindo caule, raiz ou folhas. O que parece ser uma folha na verdade é só o [[esporófito]] e não acontece nenhuma fotossíntese ali, tal qual as desprezíveis plantas ornamentais de plástico que não fazem sentido existir, as folhas das hepáticas também são meramente decorativas.
+
+== Reprodução ==
+
+Como é de se esperar de qualquer planta, a reprodução não é nada tão emocionante quanto a reprodução de girafas por exemplo. As hepáticas se reproduzem meramente pela propagação de esporos e algo sobre esperma vegetal e óvulos vegetais que precisam se encontrar.
+
+== Classes ==
+
+* '''[[Haplomitriopsida]]'''
+* '''[[Marchantiopsida]]'''
+* '''[[Jungermanniopsida]]'''
+
+{{Seres Vivos}}
+
+[[Categoria:Bryophyta]]
+[[Categoria:Marchantiophyta|*]]

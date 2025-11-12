@@ -1,0 +1,48 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = lightblue
+|brasao            = Escudo do Temperley.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{ARG}}''' - [[Temperley]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Temperley]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Argentino de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Club Atlético Temperley''' , carinhosamente conhecido como "Gasolero", é como aquele amigo que você adora porque sempre tem uma história engraçada para contar, mesmo que nem sempre esteja no centro das atenções. Fundado em 1º de novembro de 1912, este clube de Buenos Aires é um verdadeiro herói da resistência futebolística e do bom humor.
+
+== História ==
+=== O Começo: Gasoleros de Coração (1912) ===
+Fundado em 1º de novembro de 1912, o Temperley FC começou sua jornada com um grupo de ferroviários que decidiram que chutar uma bola era uma ótima maneira de passar o tempo entre os turnos. O nome "Gasolero" surgiu não só por causa da proximidade da estação de trem, mas também porque, no início, o time jogava como se estivesse com o tanque na reserva. Mas, com muita garra e esforço, logo ganharam o coração da comunidade local.
+
+=== Anos Iniciais: Driblando as Dificuldades ===
+Nos primeiros anos, o clube enfrentou desafios que fariam qualquer um rir para não chorar. Os uniformes eram tão velhos que pareciam herança dos bisavós, e as bolas, muitas vezes, tinham mais remendos que um cobertor de retalhos. Em um jogo memorável, a bola furou e, sem uma substituta, improvisaram com uma cabeça de repolho. Claro, o repolho se desintegrou após o primeiro chute, mas foi uma cena hilária que ficou na memória de todos.
+
+=== Subindo de Categoria: Um Time para Amar (1940-1970) ===
+Durante as décadas de 40 a 70, o Temperley começou a subir nas categorias do futebol argentino. Com um time mais estruturado (e uniformes menos remendados), os Gasoleros ganharam alguns títulos menores e, principalmente, conquistaram uma torcida fiel. Em um jogo épico, um dos jogadores ficou tão empolgado com o gol que marcou que saiu correndo para comemorar... e acabou pulando direto na fonte do parque ao lado do estádio. A torcida aplaudiu de pé, afinal, comemorações molhadas são sempre mais divertidas.
+
+=== A Montanha-Russa das Divisões (1970-2000) ===
+O Temperley viveu uma verdadeira montanha-russa entre as décadas de 70 e 2000, alternando entre a primeira e a segunda divisões com a mesma frequência que uma novela mexicana muda de vilão. Em um jogo de acesso, o goleiro ficou tão nervoso que, ao invés de socar a bola, acabou socando o ar e caindo de bunda no chão. A torcida riu tanto que o incidente virou motivo de piada por anos.
+
+=== O Renascimento e os Desafios Contemporâneos (2000-presente) ===
+Nos últimos anos, o Temperley passou por altos e baixos, mas sempre com um espírito de luta inabalável. Em 2014, conseguiram um acesso heroico à primeira divisão, e a festa foi tão grande que os torcedores fizeram uma procissão com um trem miniatura pelas ruas de Temperley. Desde então, o clube tem batalhado para se manter entre os grandes, mas sempre com bom humor.
+
+{{Campeonato Argentino}}
+
+[[Categoria:Times de futebol da Argentina|Temperley]]

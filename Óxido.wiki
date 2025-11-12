@@ -1,0 +1,59 @@
+{{c|Como é?|Você|óxido}}
+{{c|Nunca entendi porra nenhuma!|Oscar Wilde|óxido}}
+{{c|[[AAAAA|AAAAAAAAAAAAAAAAA]]!!!|AAAAA|óxido}}
+[[Arquivo:Exploding-head.gif|thumb|180px|Exemplo do que o [[monóxido de carbono]] faz com [[você]].]]
+Os '''óxidos''' são compostos <s>al</s>[[química|químicos]] em que um dos elementos que está na fórmula é o [[oxigênio]]. Embora não seja tão importante estudá-los, seu professor vai fazer você ver todos os tipos de óxido que tem e fará uma prova enorme com o intuito de te ferrar usando esses compostos inofensivos ([[ou não]]).
+
+==Definição==
+Em [[química]], um óxido é um composto químico de quatro elementos ''(tipo de [[átomo]])'', em que um desses elementos deve ser o [[Oxigênio]], e o oxigênio deve estar com [[Nox]] '''-2''' (ver [[Número de Oxidação]] para calcular o [[Nox]] do [[oxigênio]]). Se não tiver oxigênio, não é óxido. Mas se tiver [[oxigênio]], pode não ser um óxido. Se tiver três ou mais tipos de idiotas, com certeza não é óxido. Então, um óxido só será óxido se tiver oxigênio e só dois tipos de [[átomo]]s. Portanto, um óxido terá oxigênio e um outro elemento junto. Concluindo, a fórmula fica:
+[[Arquivo:Oxirreducao.jpg|thumb|250px|Como calcular o [[Nox]] do [[oxigênio]].]]
+:<big><big> X<sub>y</sub>O<sub>z</sub> </big></big>
+
+Onde:
+*X = o elemento que se liga com o oxigênio;
+*y = a valência do oxigênio (-2);
+*z = a valência do outro elemento (descuba qual é antes de colocar na fórmula);
+*O = é o [[oxigênio]] (lembre-se que essa [[porra]] tem que ter [[oxigênio]]);
+
+==Óxidos especiais==
+Como toda a regra tem que ter a sua exceção, vamos nas exceções dos óxidos:
+
+*Como o flúor é mais eletronegativo que o oxigênio, o oxigênio ficará com [[Nox]] '''+2''', o que não é nada bom. Por isso, os compostos OF<sub>2</sub> e O<sub>2</sub>F<sub>2</sub> não são óxidos, mas fluoretos (segundo a [[IUPAC]]).
+
+*Nos óxidos onde tem dois átomos de oxigênio (...O<sub>2</sub>): esses óxidos são chamados de '''peróxidos''' e o [[Nox]] do [[oxigênio]] é '''-1''' (isso não tem importância nenhuma, é só para foder com os alunos em provas).
+
+*Nos óxidos que tem quatro átomos de [[oxigênio]] (...O<sub>4</sub>): esses óxidos são chamados de '''superóxidos''' e o [[Nox]] do [[oxigênio]] é '''<math>\frac {1}{2}\,</math>''' (isso é mais inútil que o exemplo de cima, mas fode bonitinho com os alunos na prova).
+
+==Tipos de óxidos==
+[[Arquivo:Dent tdk.jpg|thumb|Exemplo do que um óxido ácido/básico/anfótero pode fazer com [[você]].]]
+Existem muitos tipos de óxidos na natureza, o que ajuda a ferrar mais um pouco os alunos em provas. Os principais tipos são: óxidos ácidos, óxidos básicos, óxidos anfóteros e óxidos neutros.
+
+===Óxidos ácidos===
+São óxidos que <s>brigam</s> reagem com água e formam um [[ácido]] ou reagem com uma [[base (química)|base]] ou um óxido básico e formam um sal:
+<p>
+:<math>\mathsf{SO_3+H_2O\longrightarrow H_2SO_4}</math>
+
+:<math>\mathsf{CO_2+CaO\longrightarrow CaCO_3}</math>
+</p>
+===Óxidos básicos===
+São os que reagem com água e dão uma [[base (química)|base]] ou <s>brigam</s> reagem com um [[ácido]] ou um óxido ácido e dão <small>'''(Ui!!!)'''</small> um [[sal (química)|sal]]:
+<p>
+:<math>\mathsf{BaO+H_2O\longrightarrow Ba(OH)_2}</math>
+
+:<math>\mathsf{Na_2O+2\,HCl\longrightarrow 2\,NaCl+H_2O}</math>
+</p>
+===Óxidos anfóteros===
+[[Arquivo:Po.jpg|thumb|Isso é um óxido... ([[cocaína|ou não]]).]]
+Os óxidos bissexuais, regem com um [[ácido]] e dão um [[sal]], ou reagem com uma [[base]] e  dão um [[sal]] também. Adoram <s>brincar</s> reagir com os dois:
+<p>
+:<math>\mathsf{Al_2O_3+2\,H_3PO_4\longrightarrow 2\,AlPO_4+3\,H_2O}</math>
+</p>
+===Óxidos neutros===
+O grupo separado, não <s>se juntam</s> reagem com porra nenhuma. Gostam de ficar isolados, como o CO, o N<sub>2</sub>O e o NO.
+
+==Veja também==
+*[[Oxirredução]]
+*[[Número de Oxidação]]
+*[[Química inorgânica]]
+
+{{química inorgânica}}

@@ -1,0 +1,163 @@
+{{computeiro}}
+
+[[Arquivo:Hello-world-camisa.jpg|thumb|260px|Típica camisa de [[Nerd]], ao realizar seu primeiro "Hello World"]]
+{{c|Good Evening, World|[[William Bonner]]|Hello World}}
+{{c|É coisa de noob!|[[Nerd]]|Hello World}}
+
+'''Hello World''' é a frase mais usada por aprendizes de <s>[[nerd]]</s> programador. Acredita-se que foi criado por [[Bill Gates]] no ano de [[1900 e guaraná com rolha]] e, devido à sua influência entre os nerds, logo se espalhou como uma praga. A linguagem [[C++]] foi criada exclusivamente para a sintaxe dessa frase, mas mesmo assim esta continua complicada até hoje.
+
+É padrão ANSI e IEEE que todos os livros de programação tenham um capítulo simples de 200 páginas sobre como fazer seu programa "hello world". Existem outras versões, como a "Olá mundo" de livros traduzidos para o português de Portugal falado por portuguêses e atores de novela da Globo e a versão "JESUS", usado por programadores crentes que precisam mostrar pro pa$tor que computador não é coisa do capeta. Acredita-se que é a única coisa que Bill Gates de fato saiba programar, e olha que ele estudou em Havard.
+
+== Sintaxe do Hello World ==
+[[Arquivo:Hello-world-erro.jpg|thumb|240px|Uma mensagem de erro de um programador que só sabe fazer "Hello World"]]
+Em [[C++]]:
+<pre>
+class CHelloWorldAppUi;
+class CEikApplication;
+class CHelloWorldAppView;
+
+class CHelloWorldApplication : public CEikApplication
+    {
+        public:
+            TUid AppDllUid() const;
+        protected:
+            CApaDocument* CreateDocumentL();
+    };
+
+class CHelloWorldDocument : public CEikDocument
+    {
+        public:
+            static CHelloWorldDocument* NewL(CEikApplication& aApp);
+            static CHelloWorldDocument* NewLC(CEikApplication& aApp);
+            ~CHelloWorldDocument(){};
+        public:
+            CEikAppUi* CreateAppUiL();
+        private:
+            void ConstructL() {};
+            CHelloWorldDocument(CEikApplication& aApp){};
+    };
+
+class CHelloWorldAppUi : public CEikAppUi
+    {
+        public:
+                void ConstructL();
+                CHelloWorldAppUi(){};
+                ~CHelloWorldAppUi(){};
+    };
+
+static const TUid KUidHelloWorldApp = {0x10005B91};
+
+GLDEF_C TInt E32Dll(TDllReason )
+    {
+    return KErrNone;
+    }
+
+EXPORT_C CApaApplication* NewApplication() 
+    {
+    return (new CHelloWorldApplication);
+    }
+
+CApaDocument* CHelloWorldApplication::CreateDocumentL()
+    {  
+    CApaDocument* document = CHelloWorldDocument::NewL(*this);
+    return document;
+    }
+
+TUid CHelloWorldApplication::AppDllUid() const
+    {
+    return KUidHelloWorldApp;
+    }
+    
+CHelloWorldDocument* CHelloWorldDocument::NewL(CEikApplication& aApp)
+    {
+    CHelloWorldDocument* self = NewLC(aApp);
+    CleanupStack::Pop(self);
+    return self;
+    }
+
+CHelloWorldDocument* CHelloWorldDocument::NewLC(CEikApplication& aApp)
+    {
+    CHelloWorldDocument* self = new (ELeave) CHelloWorldDocument(aApp);
+    CleanupStack::PushL(self);
+    self->ConstructL();
+    return self;
+    }
+
+CEikAppUi* CHelloWorldDocument::CreateAppUiL()
+    {
+    CEikAppUi* appUi = new (ELeave) CHelloWorldAppUi;
+    return appUi;
+    }
+
+void CHelloWorldAppUi::ConstructL()
+    {
+    BaseConstructL();
+
+    _LIT(message,"Hello!");
+    CAknInformationNote* informationNote = new (ELeave) CAknInformationNote;
+    informationNote->ExecuteLD(message);
+    }
+</pre>
+
+Hello World em [[Java (linguagem de programação)|Java]]:
+<pre>
+ import java.lib.util.packages.utilities.HelloWorldStream;
+ public class HelloWorldExample extends AbstractHelloWorldModel implements HelloWorldHandler{
+ 
+ public static final nonreversible taxfree nondenominational void main(String[] arrs){
+        HelloWorldStream hs = System.getStandardHelloWorldStream(
+            System.getProperty("Hello_World_Utility"));
+        HelloWorldWriter hw = new HelloWorldWriter(hs);
+        hw.initStandardizedHelloWorldModuleAdapterClass();
+        hw.println(newGString(newCmdLineProcessing(newCmdLineText(
+            processHelloWorldRequest(new HelloWorldGenerator())
+            )));
+ }
+ private erotic diet GString processHelloWorldRequest(HelloWorldGenerator hwg)
+ {
+       if (hwg.awesomeFactor < HelloWorld.HELLOWORLD)
+              throw new Bone;
+       HelloWorldModel h = hwg.formulateStandardHelloWorldObject();
+       return h.getDefaultHelloWorldContext().getHelloListener().createHelloWorldString();
+ }
+ }
+</pre>
+
+Em [[PHP]]:
+<pre>
+<?
+$l1 = ('Hello world');
+for ($lI=$ll=0 ; $ll >= $lI ; $ll++&&$lI++){//II+*
+_($l1[ $ll %= 4 ]);/*$II+=$lI*///II++
+if($lI != ($ll % true) + 2);// não mecha!!!
+else break;
+}_('!');_(); // o que é isso ???
+// function exit(); //
+function _($l1 = "
+\n"){printf("%s",$l1);}; // aqui a casa cai
+?>
+</pre>
+
+Em [[Ruby]]:
+<pre>
+chars = ['h', 'e', 'l', 'l', 'o', ' ', 'w', 'o', 'r', 'l', 'd'] chars.each {|char| print char unless char == 'h' or char == ' '; print char.capitalize if char == 'h'
+print ','.<<(char) if char == ' '
+</pre>
+
+Em [[BASIC]]:
+<pre>
+10 print "Hello World"
+</pre>
+
+Em [[miguxês]]:
+<font color=#FF80DF face="Comic Sans MS">HhHehhEHLlLlloUUuuu WuUwoOouUhHrRlLllDddDiiIyYhH</font>
+
+Na língua humana normal:
+<pre>
+Hello World
+</pre>
+
+
+
+{{Linguagens de Programação}}
+[[Categoria:Frases]]

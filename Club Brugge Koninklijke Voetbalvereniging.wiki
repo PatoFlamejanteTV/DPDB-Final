@@ -1,0 +1,50 @@
+{{Box ClubeFutebol
+|cor_clara         = #0078BB
+|cor_escura        = black
+|brasao            = Escudo do Club Brugge.png
+|hino              =  
+|nome_oficial      = Club Brugge Koninklijke Voetbalvereniging
+|origem            = {{BEL}}'''- [[Bruxelas]]'''
+|apelidos          = Bruxas
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = 54.851 torcedores, 2 vendedores de [[Icegurt]] e 24 torcedores do Anderlecht
+|sede              = 
+|presidente        = [[Bruxa do 71]]
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Belga
+|divisao           = Belgian Pro League
+|títulos           = 
+|ranking           = 
+}}
+
+'''Club Brugge Koninklijke Voetbalvereniging''' é um clube de futebol da [[Bélgica]], sendo o único clube do futebol belga a chegar a final de uma [[Liga dos Campeões]], provavelmente alguma cagada que nunca mais se repetiria.
+
+== História ==
+===Fundação===
+
+O clube foi fundado em 1891, em [[Bruxelas]], é um clube velho pra cacete nasceu como um dos grandes clubes do futebol belga, mas nunca conseguiu ganhar nada fora do país e foi ultrapassado pelo [[Anderlecht]] que também é de Bruxelas, esse ganhou a [[Taça das Taças]] e a [[Liga Europa]].
+
+=== Liga Europa ===
+
+A primeira vez que o Brugge chegou em uma final de um torneio internacional foi na Liga Europa de 1976, derrotando grandes clubes, mas na final bateu de frente com o poderosíssimo Liverpool, o pobre time da Berinjela não aguentou a pressão e foi derrotado.
+
+=== Liga dos Campeões ===
+
+O Brugge foi o primeiro e único clube de futebol da Bélgica a chegar em uma final de Liga dos Campeões, em 1978, aos trancos e barrancos o clube foi derrotando seus adversários até bater de frente na final contra o Liverpool mais uma vez, na Inglaterra, que contavam com toda a torcida dos [[Beatles]] <s> só que não, eles torcem para o [[Everton FC|Everton]]</s>, e surpreendentemente o Brugge perdeu apenas por 1 a 0.
+
+== Títulos ==
+* '''Vice-[[Liga dos Campeões]]''': 1 vez (1978)
+* '''Vice-[[Liga Europa]]''': 1 vez (1976)
+* '''[[Campeonato Belga]]''': 13 vezes
+
+{{Campeonato Belga}}
+{{Liga dos Campeões da UEFA}}
+[[Categoria:Times de futebol da Bélgica|Club Brugge]]

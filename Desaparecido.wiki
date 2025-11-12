@@ -1,0 +1,44 @@
+[[Arquivo:Logo sm.gif|left]]
+
+&nbsp;'''Web'''&nbsp;&nbsp;&nbsp;&nbsp;[[Pornografia|Imagens]]&nbsp;&nbsp;&nbsp;&nbsp;[[Suruba|Grupos]]&nbsp;&nbsp;&nbsp;&nbsp;[[Desnotícias:Página principal|Notícias]]&nbsp;&nbsp;&nbsp;&nbsp;'''[[sexo|Mais »]]'''
+<p>
+<table width="250px"><tr><td>
+<inputbox>
+type=search
+break=no
+buttonlabel=Pesquisar
+default=Desaparecido
+width=25
+</inputbox>
+</td></tr></table>
+<br clear=all></p>
+
+
+<div style="background-color:#3366cc;height:1px;overflow:hidden"></div>
+<div style="background-color:#e5ecf9;height:20px;overflow:hidden;">
+<span style="position:relative;bottom:5px">
+<font size=3>&nbsp;'''Web'''</font>&nbsp;</span>
+</div>
+
+
+<br/>
+<p style="font-size:12pt"><font color=#cc0000> </font> Sua pesquisa - '''Desaparecido''' - não encontrou nenhuma mentira correspondente.
+<br/><br/>
+Sugestões:<ul style="font-size:12pt">
+<li>Procure no artigo [[Acre]].</li>
+<li>Procure no [[nada]].</li>
+<li>Vá ler um livro.</li>
+<li>Senta e chora.</li>
+<li>Crie artigos decentes.</li>
+<li>Vá para a {{censurado|sua cama e durma.}}</li>
+<li>{{censurado|Eu comi tua mãe.}}</li>
+
+
+</ul><br clear=all>
+
+<div style="background-color:#3366cc;height:1px;overflow:hidden"></div>
+<div style="background-color:#e5ecf9;height:25px;overflow:hidden;text-align:center">
+</div>
+
+<br/>
+<center><font size=-1>[[EvilRank|&copy;]]{{CURRENTYEAR}} Hallisofburtron Association of America</font></center>

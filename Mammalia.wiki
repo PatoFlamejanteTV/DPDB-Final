@@ -1,0 +1,92 @@
+{{Mamífero}}
+
+{{taxocaixa
+| cor             = pink
+| nome            = Mammalia
+| imagem          = Denise-milani-beach.jpg
+| imagem_legenda  = A principal característica dos mamíferos são sua capacidade de produzir [[leite]]
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+}}
+
+{{C|Eles dão água oxigenada para seus filhotes|Estudante|mamíferos}}
+{{C|Bom para hospedar, infectar e destruir|[[Vírus]]|mamíferos}}
+{{C|nós também|[[Bactérias]]|mamíferos}}
+{{C|e nós também|[[Fungos]]|mamíferos}}
+{{C|e eu também|[[Nematelmintos]] (vermes cilíndricos) e [[Platelmintos]] (vermes achatados)|mamíferos}}
+
+'''Mammalia''' (ou mais popularmente, os '''mamíferos''') são uma classe de [[Animalia|animais]] [[Chordata|vertebrados]] que dão leite para os filhotes que nascem do [[sêmen|leite]] que os pais dão para suas mães. Todos eles possuem glândulas mamárias, que fazem uma mistura química de [[água]] oxigenada com soda cáustica, resultando no alimento para as crias. Os bichos que pertencem a essa classe são variados, indo desde [[eu]] até o [[chupa-cabra]].
+
+==Origem==
+
+[[Arquivo:Canguruesconde.jpg|135px|thumb|left|Mamíferos marsupiais guardam os filhotes no bolso.]]
+
+Era uma vez um grupo de [[répteis]] que, depois de ouvirem uma profecia dizendo que os [[dinossauro]]s seriam extintos, [[Dado Dolabella|traíram o movimento reptiliano]] e decidiram se tornar mamíferos, sem ao menos saber o que era isso, mas foi algo como os [[musaranho]]s. Desde então seus descendentes sofreram uma série de mutações (não me pergunte como), ficando diferentes dos demais répteis.
+
+No começo, sofriam discriminação dos demais répteis por serem diferentes. Até que algum tempo depois, com o impacto de grande quantidade de [[lixo espacial]] deixado pelos [[alien]]s no espaço, os dinossauros foram todos mortos. Os musaranhos sobreviveram por <s>pura sorte</s> estarem mais adaptados ao novo ambiente, e assim puderam se [[sexo|reproduzir loucamente]] e iniciar o plano de [[Dominação Mundial]] dos mamíferos sobre o planeta que se concretizou no [[holoceno]].
+
+==Distribuição geográfica==
+
+Os mamíferos se espalharam pelo [[mundo]] inteiro, sendo encontrado em diversos lugares na [[Terra]]. Existem [[unicórnio]]s em [[Neverland]], [[alien]]s em [[Marte]]<ref>Os [[ufólogo]]s acreditam que os [[ET]]s são mamíferos</ref>, [[Mico Azul|micos azuis]] em lugares desconhecidos, [[Mico Rosa|micos rosa]] em [[Pelotas]] e [[Campinas]], [[mafagafo]]s dentro da sua [[casa]] (cuidado!), e por aí vai.
+
+Poucos lugares não foram ocupados pelos mamíferos. Entre eles podemos citar [[Al 'Aziziyah]] (quente demais), [[Niflheim]] (frio demais) e a [[Casa do Caralho]] (todos os que foram para lá se perderam no caminho). Futuramente será organizada uma expedição ao [[Acre]], para que o mesmo seja ocupado pelos mamíferos. Mas [[nada]] indica que ela irá dar certo, já que na última expedição o pessoal desapareceu perto do [[Cu do Pará]].
+
+== Anatomia == 
+
+[[Arquivo:Chupa Cabra.jpg|200px|thumb|left|Mamífero simpático.]]
+
+Todos os mamíferos são animais que <s>esquecem de usar a [[camisinha]]</s> engravidam, diferente do resto dos bichos que nascem da gema de um [[ovo]] caso este não seja frito e comido por algum mamífero predador de ovos. A gravidez aliás é muito bem vinda, pois nenhum predador réptil consegue comer uma placenta como comem gema de ovo. Tudo ia bem até que descobriram a existência do [[ornitorrinco]], um bicho indeciso que não sabe se é ave, réptil, anfíbio ou mamífero. Então, os cientistas <s>chutaram</s> o classificaram como mamífero. Desde então todo mamífero é aquele que toma <s>esperma</s> [[leite]] e só.
+
+Outra característica bastante comum é a presença de pelos no corpo. [[Tony Ramos|Algumas espécies]] os possuem em excesso como as mulheres francesas, outras mais ou menos como [[Amaury Jr.]], e outras só um pouco como um gatinho de pet shop, e ainda tem [[Enéas Carneiro|alguns]] que perderam os pelos durante sua vida; mas isso não importa.
+
+Existem mais zilhões de características menos importantes, que confundem a cabeça dos estudantes e até mesmo dos pesquisadores. Como coração com quatro cavidades propenso a se entupir, unhas, presença de um crânio desenvolvido para comportar minhocas, celenterado que exerce simbiose com o sistema nervoso dos mamíferos.
+
+== Taxonomia ==
+
+[[Arquivo:bichinho osama.jpg|200px|thumb|Espécies diferentes de mamíferos tendem a [[guerra|guerrear]] umas contra as outras.]]
+
+{{Clado
+|clado1     = Subclasses, infraclasses e ordens
+|preposição = à
+|clado2     = classe dos mamíferos
+|texto      = Em [[1400 e lá vai pedrada]] um pesquisador muito bonzinho, vendo o pesadelo dos estudantes, separa os mamíferos entre aqueles que ficam na terra e os que ficam na [[água]], criando uma classificação fácil que pode ser aprendida pelos alunos mais <s>burros</s> normais. Porém, séculos depois, outros especialistas decidiram ferrar com os estudantes por pura diversão, criando classificações complicadas e mais de mil delas, dividindo os mamíferos em não sei quantas ordens.
+|lista      = 
+* '''[[Prototheria]]''' - mamíferos que sofrem de crise de identidade e não sabem se são o que são ou se são [[aves]].
+*** '''[[Monotremata]]''' - ornitorrincos e equidnas
+* '''[[Theria]]''' - mamíferos normais.
+** '''[[Marsupialia]]''' - mamíferos que possuem uma bolsa abdominal, onde podem guardar a carteira, os documentos, [[dinheiro]] e outras coisas de valor.
+*** '''[[Didelphimorphia]]''' - gambás
+*** '''[[Paucituberculata]]''' - gambás-musaranhos
+*** '''[[Microbiotheria]]''' - gambá-colocolo
+*** '''[[Dasyuromorphia]]''' - diabos-da-tasmânia
+*** '''[[Notoryctemorphia]]''' - toupeiras-marsupiais
+*** '''[[Peramelemorphia]]''' - bandicoots
+*** '''[[Diprotodontia]]''' - cangurus e coalas
+** '''[[Placentalia]]''' - mamíferos comuns. Estão divididos em trilhões de ordens.
+*** '''[[Pilosa]]''' - tamanduás e preguiças.
+*** '''[[Cingulata]]''' - tatus
+*** '''[[Afrosoricida]]''' - toupeira-dourada
+*** '''[[Tubulidentata]]''' - aardvark
+*** '''[[Macroscelidea]]''' - musaranhos-elefante
+*** '''[[Hyracoidea]]''' - dassies e hiraxes
+*** '''[[Proboscidea]]''' - elefantes
+*** '''[[Sirenia (ordem)|Sirenia]]''' - manatins, dugongos, peixes-boi
+*** '''[[Chiroptera]]''' - morcegos
+*** '''[[Eulipotyphla]]''' - ouriços, musaranhos e toupeiras
+*** '''[[Pholidota]]''' - pangolins
+*** '''[[Carnivora]]''' - caninos, felinos, ursos, focas, doninhas, morsas
+*** '''[[Perissodactyla]]''' - cavalos, antas, rinocerontes
+*** '''[[Artiodactyla]]''' - porcos, veados, bois, bodes, ovelhas, camelos
+*** '''[[Cetacea]]''' - baleias e golfinhos
+*** '''[[Scandentia]]''' - tupaias
+*** '''[[Dermoptera]]''' - lêmures-voador
+*** '''[[Primatas]]''' - lêmures, macacos, chimpanzés, micos, humanos
+*** '''[[Lagomorpha]]''' - lebres, coelhos, pikas
+*** '''[[Rodentia]]''' - camundongos, ratos, hamsters, esquilos, porcos-espinho, castores
+}}
+{{ref-section}}
+
+[[Categoria:Tetrapoda]]
+[[Categoria:Mammalia|*]]

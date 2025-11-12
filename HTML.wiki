@@ -1,0 +1,75 @@
+{{DISPLAYTITLE:<HTML>}}
+{{computeiro}}
+[[Arquivo:html-man.gif|thumb|right|Estrutura HTML por um [[웃]]]]
+'''HTML''' ''(Hoje Tá Mais Lento)'' é uma linguagem que os [[computador]]es usam pra falar entre si e para que nós, [[humanos]], não possamos compreendê-las. Foi criada por [[nerd]]s para que outros nerds façam páginas na [[Internet]] e os internautas, que são nerds subdesenvolvidos, possam entrar nelas e, entrar de novo.
+
+==[[HTML]] na [[Desciclopédia]]==
+O <s>[[idiota]]</s> que <s>estragou</s> criou a [[Desciclopédia]]
+teve a brilhante (questionável) ideia de colocar algumas tags HTML para a criação de <s>filhos</s> artigos [[descíclope]]s, e para ferrar os editores do artigo, disse que temos que formatá-los com [[códigos wiki]] e retirar os códigos obsoletos {{carece de fontes}} HTML.
+
+Você pode ver como fazer coisas [[gay]]s em HTML com
+ <span style="background-color:aquamarine;">[[Desciclopédia:Tutorial/html|este artigo de tutorial da Desciclopédia]]
+</span>
+
+== Introdução ==
+[[Arquivo:Code HTML 4 food.jpg|thumb|right|O <s>futuro</s> presente de um programador WEB.]]
+A palavra HTML, que na verdade não é uma palavra, é uma sigla. Seu significado serve como definição para o fato de quê, quanto mais tempo demora-se para se fazer uma página, mais tempo se passa fazendo-a. Ao que tudo indica, as [[Narcótico|drogas]] consideradas ilícitas, como a [[maconha]], por exemplo, levam certos indivíduos a desenvolverem complexos portais de transmissão de informações, que aparentemente nunca conseguem ser concluídos, ao custo de que outros indivíduos entrem nessas páginas diariamente ou mesmo a cada uma hora ou [[15]] minutos para ver se o maloqueiro de plantão mudou alguma coisa na bagaça.
+
+Existem também teorias de que HTML seja um trocadilho [[França|francês]] para a frase ''"A gata mia por leite"'', expressão esta utilizada quando um indivíduo denominado ''dono'' possui um animal denominado [[gato]], mas pertencente do gênero feminino, o qual encontra-se, constantemente, a emitir ruído sonoro de sua cavidade oral, denominada boca, na tentativa de demonstrar seu anseio [[animal]] por alimento lácteo no estado líquido, doravante [[leite]].
+
+== Origem ==
+[[Arquivo:Html.jpg|thumb|A melhor Tag, <tits>.]]
+[[Arquivo:Erro_HTML.jpg|left|thumb|Nunca esqueça de fechar a '''''tag''''' com o /"'''''tag'''''"]]
+Criada por um aluno da Universidade de [[Marte]], CH, que estava matando uma aula de [[informática]] no banheiro, a linguagem HTML passou a ser um fenômeno digital incomensurável. ''Emmett Zemeckys'', [[Rússia|russo]] filho de uma mulher [[Índia|Indiana]] caolha e um pai [[argentino]] vesgo, pensou ''"como seria incrível se todas as pessoas do mundo pudessem acessar grandes quantidades de [[pornografia]] sem limites na comodidade da sua casa ou do laboratório de sua universidade. Ninguém mais teria obrigação nem precisaria aturar aulas chatas e sem proveito de [[Pascal]], [[Java]], [[Basic]] e outras linguagens que não ofereciam nada de interessante às pessoas"''. Emmett passou então a trabalhar em seus códigos de desenvolvimento. O banheiro da [[universidade]] passou a ser seu laboratório principal, e até hoje são guardados no Museu de Artefatos da Tecnologia os rolos de papel higiênico que contém os primeiras linhas do que viria a ser o HTML atual. Tais pergaminhos são conhecidos hoje como ''Pergaminhos da Mar Morto''.
+
+No dia [[11]] de [[Março]] de 1785 foi ao ar o primeiro site da Internet. Desenvolvido por Emmett em longos dois anos de trabalho árduo, o mesmo exibia apenas uma foto da [[Dercy Gonçalves]] pelada, na época, a Miss Banana Nanica do [[Clube do Bolinha]]. A rede caiu na madrugada do mesmo dia por excesso de acessos sucessivos sem cessar um único momento.
+
+Daí pra frente a coisa rolou de tal forma que hoje, de acordo com o sonho de Emmett, que morreu aos [[40]] anos vítima de uma overdose de [[nitroglicerina]], a Internet é conhecida como a maior ferramenta de divulgação e esclarecimento do [[sexo]] já criada no mundo.
+
+==Características==
+[[Arquivo:Tags.jpg|thumb|230px|HTML no cotidiano.]]
+* Totalmente ''estável'';
+* Não apresenta nenhum problema de compatibilidade quando executada em navegadores diferentes.
+* Totalmente padronizada, não apresentando nenhuma possibilidade de dar errado em nenhum aspecto.
+* Não necessita que o [[programador|nerd]] faça teste nenhum para ter certeza de que está pronto para ser publicado.
+* Não é contraditória
+* Não é redundante.
+* Não possibilita criações de eventos cíclicos infinitos que acabariam com um servidor.
+
+==Teste==
+ <html>
+       <head>
+                   <title>redtube.com</title>
+       </head>
+       <body>
+                 <nowiki><p>oh yes, oh yes, ooooh yes</p></nowiki>
+       </body>
+ </html>
+
+== Jogos famosos escritos em HTML ==
+*[[Mortal Kombat]]
+*[[Tibia]]
+
+== Ver também ==
+*[[XML]]
+*[[Microsoft HTML]]
+
+{{Linguagens de Programação}}
+
+[[Categoria:Siglas]]
+
+[[bar:HTML]]
+[[da:HTML]]
+[[de:HTML]]
+[[en:HTML]]
+[[fi:HTML]]
+[[fr:HTML]]
+[[id:HTML]]
+[[it:HTML]]
+[[ja:HTML]]
+[[ko:HTML]]
+[[nds:HTML]]
+[[pl:HTML]]
+[[ru:HTML]]
+[[zh:HTML]]
+[[zh-tw:HTML]]

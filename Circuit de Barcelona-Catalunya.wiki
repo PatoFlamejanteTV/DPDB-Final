@@ -1,0 +1,43 @@
+{{Info_circuito|
+|nome               = Circuit de Barcelona-Catalunya
+|logotipo           = Geodude.gif
+|imagem_circuito    = Circuit Catalunya.png
+|tamanho_imagem     = 300px
+|legenda            = A inspiração para o circuito e seu traçado atual
+|inauguração        = 1991 
+|localização        = {{ESP}} - [[Montmeló]]
+|arquiteto          = [[Anônimo]]
+|principais_eventos = [[Formula 1]], [[MotoGP]], [[World RX of Spain]]
+<!-- Opcional -->
+|evento1            = [[Formula 1]]
+|percurso           = 4.655 km
+|maior_vencedor     = [[Michael Schumacher]] (6)
+|melhor_volta       = [[Daniil Kvyat]] (1min 26s 948)(sério isso?)
+}}
+
+'''Circuit de Catalunya''' é uma pista localizada na cidade de <s>[[Montmeló]]</s> [[Barcelona]] na [[Catalunha|República da Catalunha]], e abriga os grandes prêmios de [[Fórmula 1]] desde [[1991]] e tem contrato com a [[FIA]] até 2050. O circuito apesar de sem graça e com nenhum ponto de ultrapassagem é mantido porque as equipes gastaram milhões construíndo prédios a sua volta.
+
+O circuito da Catalunha é o mais familiar circuito das equipes, uma vez que eles ficam dando 1.000 voltas de testes durante todo o ano, e assim reduzindo cada vez mais as chances de ultrapassagens nas corridas que não sejam através dos boxes.
+
+O circuito abriga também nas horas vagas corridas da [[MotoGP]].
+== Circuito ==
+
+O vento tem grande influência no circuito, sendo que o [[Rubinho Barrichello]] tem a fama do azar de sempre correr contra o vento.
+
+Com um traçado batido que todos pilotos conseguem correr de olhos vendados, o circuito da [[Espanha]] tem está entre os mais monótonos da [[Formula 1]].
+
+Após a reta de largada as duas primeiras curvas "Elf" e "Renault" são o único ponto de ultrapassagem do circuito depois dos boxes.
+
+Três curvas similares, entre elas a "Repsol", e "Seta" em alta velocidade que causam turbulência tornando impossível as ultrapassagens até a "Curva 7" onde os carros se aproximam e causam uma falsa impressão que haverá alguma ultrapassagem.
+
+A curva "Campsa" leva a uma longa reta até a parte da pista que foi reformada para tornar as chances de ultrapassagens ainda menores.
+
+A curva "La Caixa" é aquela onde os rodas-presa costumam derrapar após esquecerem-se de apertar os freios. E caem em outra curva típica do circuito, a "Banc de Sabadell", simétrica da Repsol.
+
+A curva "Europcar" em baixa velocidade leva à "Curva 14" e à "Curva 15" com umas "zebras" mal-feitas que costumam quebrar as suspenções. A última curva "New Holland" cheia de turbulência leva à reta dos boxes e impossibilita qualquer chance de ultrapassagem na primeira curva.
+
+{{Circuitos f1}}
+
+[[Categoria:Autódromos da Fórmula 1]]
+[[Categoria:Autódromos da Espanha]]
+[[Categoria:Autódromos da DTM]]

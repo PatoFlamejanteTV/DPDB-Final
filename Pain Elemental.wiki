@@ -1,0 +1,64 @@
+{{trevas}}
+{| class="toccolours" style="width:235px; margin: 0 0 0.5em 1em; float:right; clear:right;" 
+! bgcolor=gold align=center |<font color=#000099 size=3>'''Pain Elemental'''
+|-
+|[[Arquivo:Pain-elemental.jpg|thumb|Whata...]]
+<br><small></small>
+|- style="text-align:center;"
+! style="background: gold;" | '''Classificação pseudo-científica'''
+|- style="text-align:center;"
+|
+{| style="margin:0 auto; text-align:left; background:none;" cellpadding="2"
+|- valign=top
+|'''Reino:'''||Diabalida
+|- valign=top
+|'''Filo:'''||Demoniac
+|- valign=top
+|'''Classe:'''||Monstralia
+|- valign=top
+|'''Ordem:'''||Carnivora
+|- valign=top
+|'''Família:'''||Demonicale
+|- valign=top
+|'''Género:'''||Painnus
+|- valign=top
+|'''Espécie:'''||Elementállus
+|}
+|- style="text-align:center;"
+! style="background: gold;" | '''Nomenclatura binominal'''
+|- style="text-align:center;"
+|'''''Painnus Elementállus'''''
+|}
+{{babelfish|Pegada Alimentar}}
+{{c|Olha só! Que monstro tosco!|Você na primeira vez que viu um Pain Elemental}}
+{{c|FIIDAPUTA! NÃO DÁ CARRIM NÃO!|Você quando aprende o que Pain Elemental faz}}
+{{c|Apenas uma cópia do [[Cacodemon]]...|[[Capitão Óbvio]]|Pain Elemental}}
+{{c|Pôxa, eu nunca saberia disso!|[[Capitão Sarcasmo]]|afirmação acima}}
+{{c|Algo muito comum no [[Super Nintendo]], então tá perdoado|Crítico que critica só a ID|Pain Elemental}}
+[[Arquivo:Painelementaldoparaguai.gif|left|70px]]
+'''Pain Elemental''' é um dos inimigos do [[Doom 2]] e em alguns mods do [[Doom 3]]. Os criadores e produtores do Doom, [[Id Software]], acabaram achando que o Pain Elemental seria um bicho muito grotesco e muito difícil de derrotar e por isso ele não apareceu no [[Doom 3]] (e no Doom 1, mas aí ele nunca tinha sido criado).
+
+Pain Elemental é o que justamente o que os produtores queriam: um inimigo que até mesmo o [[capeta]] não gosta. É surpreendente de como o Pain Elemental não foi rejeitado durante o processo de testes.
+
+==Produção==
+Criado após uma noite mal dormida de um dos designers do [[Doom]], o Pain Elemental consistia em ser apenas mais um monstro entre tantos outros, e que como um dos membros da equipe teriam tido um ataque [[emo]] e ter saído do Doom apenas porque uns queriam melhor jogabilidade e ele mais gráficos, precisavam de mais jogabilidade e "diversão" para os jogadores.
+
+Em suma, é um inimigo que fode tanto com a situação do jogador que é uma surpresa ele ter sido aprovado pelos jogadores que testavam o [[Doom 2]].
+
+Como a equipe da ID não se passava de um grande amontoado de nerds preguiçosos,  eles usaram a tática mais popular que era usada pelas empresas da [[Nintendo]]: apenas mudar a cor dos inimigos e dizer que é outro. Ora, se funcionava com [[Super Mario]] e [[Super Metroid]], por que não funcionaria com {{strike|Super}} Doom?
+
+E assim, apenas colocaram um olho maior, chifres maiores e braços mais evidentes no Pain Elemental, fazendo assim dele o mais perfeito candidato para ser um inimigo ''"[[filho da puta]]"'' do Doom.
+
+==Desing==
+Até tinham bolado alguma coisa para fazer o desing do Pain Elemental no Doom 3, mas parece que a ideia de colocá-lo no jogo foi tão cretina que sequer divulgaram concept arts ou aquelas frescuras que fazem antes de lançar qualquer jogo do gênero.
+
+==Ataque==
+Na verdade, é o único monstro do doom com um ataque só: cuspir lost souls.
+
+{{c|AHHHHHHHHH!|Você quando é atacado por um Pain Elemental}}
+
+*'''Vomitando caveiras:''' Pain Elmental solta lost souls que tiram 30 de vida do jogador.
+
+{{Doom}}
+
+[[Categoria:Demônios]]

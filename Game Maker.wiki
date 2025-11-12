@@ -1,0 +1,73 @@
+{{Nerd}}
+{{babelfish|Jogo Fazedor}}
+{{vqd|Editor de jogos de merda}}
+
+'''Game Maker''' é uma ferramenta para desenvolvimento de mini-games e é usada no mundo todo por crianças retardadas que pensam serem programadoras/game designers. Como a ferramenta é extremamente limitada e os desenvolvedores tem menos de 8 anos, 99% dos projetos nunca chegam a serem concluídos (AINDA BEM!). É só ir até a <s>CoCô Games</s> [[YoYo Games]], o fórum [http://gmbr.forumeiros.com GMBR] e a comunidade-favela do Orkut (moderada por um virgem homossexual chamado Cleito) para entender o que eu estou falando. A maioria dos usuários brasileiros nem posta seus jogos no site da YoYoGames, pois por incrível que pareça estão muito abaixo do padrão de lá (que é uma bosta) e sabem que serão massacrados. Por isso a maioria frequenta apenas o fórum e a comunidade. E já existiram usuários sérios por lá, mas todos se afastaram por terem que conviver com crianças retardadas. A baixaria lá é tão alta que até a [[Dercy Gonçalves]] ficaria constrangida.
+
+== História ==
+O autor do jogo, um tal de Mark Overmars, escreveu a ferramenta para ser, na verdade, um editor de animações (ISSO MESMO QUE VOCÊ OUVIU!), mas como alguns usuários estavam usando o programa para fazer jogos, ele decidiu mudar o nome. Só aí já dá pra perceber porque o programa é a merda que é.
+
+Ele queria que qualquer retardado pudesse usar o programa para criar seus joguinhos de merda. Assim, o autor ficaria bilionário. Ele sabia que aquelas crianças que jogam Playstation 2 ficariam entusiasmadas ao saberem que poderiam criar seus próprios jogos, então seus pais não teriam sussego até comprarem a porra do programa. Mas o tiro saiu pela culatra, pois ele não esperava que a maioria das crianças maloqueiras usassem [[crack]] ao invés de pagar pelo programa.
+
+== Características ==
+[[Arquivo:GameMakerPreço.PNG|thumb|right|460px|[[Mentira|Uma pechincha]]!]]
+O Game Maker é um programa [[Capitalismo|capitalista]]. Ele é extremamente lento, forçando você a comprar computadores de ultima geração para rodar jogos que funcionariam perfeitamente em um Atari. Nem Java consegue ser tão lento.
+
+Além disso, só funciona em sistemas Orientados ao Dinheiro como Windows e Mac, o que é uma benção para os usuários de Linux não poderem rodar essas merdas nos seus computadores.
+
+== Programação ==
+[[Arquivo:Porradaria2Censura.jpg|thumb|right|370px|Obras-primas {{carece de fontes}} como essa saíram do Game Maker!]]
+Como o programa deveria ser simples, o autor criou uma interface ridícula que funciona usando botões, chamada "Drag'n'Drop". Basicamente você programa os objetos do jogo usando botões que não servem para nada. O treco é tão inútil que nem o autor do programa consegue fazer jogos usando só aquilo, então ele precisou usar código em vários exemplos que vem com o programa.
+
+Depois de descobrir que aqueles botões não servem nem pra criar um jogo Pong, pois a palheta inimiga precisa de inteligência artificial para se mover de um lado para o outro (os botões não servem pra isso), você descobre um botão escondido que serve para digitar códigos em uma linguagem de [[POG|programação orientada a gambiarras]] chamada GML (Game Maker Language). Com ela você consegue fazer coisas mais complexas, mas não dá pra esperar muita coisa dela. Mesmo porque a linguagem é interpretada e consegue ser mais lenta que [[Java]].
+
+No geral, o programa é extremamente lento. Você não escolhe tipos de dados como int, float, char ou bool, apenas cria variáveis genéricas. Dessa forma, você não consegue controlar processamento nem memória, pois para não dar erros, provavelmente o programa escolhe as variáveis de maior tamanho. Em outras palavras, ao invés de usar apenas 1 byte para as variáveis, você acaba usando uns 8. Um programa que deveria rodar leve e pesar apenas uns 8 megas, acaba gastando quase todo o seu processamento e pesando uns 30.
+
+Pra rodar qualquer jogo, é necessário esperar mais ou menos 30 minutos e adicionar 1 módulo de memória RAM adicional, pois o programa carrega todo o jogo só na inicialização (deve ser por isso que você não vê loadings entre as fases). Até Half-Life 2 carrega mais rápido. Por isso o programa não é adequado para jogos maiores que minigames. Se você pensa em fazer um jogo enorme, pode esquecer.
+
+A medida que os desenvolvedores adicionam mais coisas inúteis, os executáveis ficam cada vez mais pesados, pois durante a compilação, o programa adiciona a biblioteca do Game Maker ao executável para ele funcionar. Basicamente, a biblioteca contém todas milhares de funções inúteis que ninguém usa nem conhece, mas estão lá só pra pesar mesmo. Há alguns anos atrás um executável vazio (só a biblioteca) pesava menos de 1 mega. Hoje já pesa 4 megas.
+
+Sem falar que a maioria dos autores são programadores de merda e não sabem as ideias mais básicas da programação estruturada (''que porra é essa?''). E isso só deixa as coisas piores, pois o código acaba ficando uma merda. Juntando com a lentidão do programa, você consegue os mais abomináveis resultados. No programa tem até um recurso para criar funções, os scripts, mas ninguém sabe para que serve, então prefere copiar e colar o código em todos os objetos.
+
+É muito comum ver "programadores" criando 958968970 objetos e escrevendo 805097098 linhas de código para fazer as coisas mais simples. A maioria pega códigos aleatórios na [[internet]] e dá um "jeitinho" para adaptar no seu programa. É só olhar um desses códigos e você vai encontrar um punhado de variáveis e processos que estão lá só pra gastar processamento e memória. Por exemplo, em um código para mover um personagem, você encontra também código para "mover o avião" e comentários sobre "me lembrar de ligar pra minha mãe".
+    
+O programa também tem suporte para DLLs, mas você precisa <s>usar crack</s> comprar o programa para poder usar.
+
+O pior é que se você falar essas coisas na internet vem um monte de pseudo-moralistas pau no cu falarem merda. O que você mais ouve é programadores dizendo que "performance não importa e que jogos devem ser apenas divertidos". E ainda que a ferramenta "facilita que as pessoas façam seus próprios jogos". O que você acha de comprar Core i7 para rodar jogos de [[Atari]]? E ter que jogar jogos feitos por ouvintes de [[Michel Teló]]? Eles parecem que não não vêem problema nenhum!
+
+== Alguns Comandos ==
+[[Arquivo:Sex.gif|thumb|right|Um jogo muito popular criado com Game Maker <s>mas nenhum [[noob]] consegue fazer</s>]]
+*'''''Move Fixed:''''' O único comando conhecido do Game Maker, faz o seu personagem (Também conhecido como ''[[carinha]]'') andar para uma das nove ([[WTF?]]) direções.
+*'''''Play Sound:''''' O uso de sons pode deixar o jogo muito menos chato. Pena que a maior parte dos usuários de Game Maker não sabem disso. Em jogos pornôs, sons são importantes, pra fazer os gemidos.
+*'''''Next Room:''''' Permite que você mude de lugar em que o jogo acontece. Em jogos pornôs, essa função permite que o jogador "mude de posição".
+*'''''Save/Load Game:''''' Isso faz com que o jogo salvo e possa ser continuado depois. Em jogos pornôs, salvar quantas [[Mulher Gostosa|minas]] o "''[[carinha]]''" pegou é muito útil.
+*'''''Set Variable:''''' Ninguém sabe para que serve isso. MAS!!! [[Eu]] sei. Pra fazer [[porra nenhuma]].
+*'''''Set Lives:''''' Crie um sistema de vidas igualzinho ao do [[The Legend of Zelda|Zelda]]. Em jogos pornôs, esse sistema permite criar níveis de tesão.
+*'''''PRO EDITION ONLY: Create Part System:''''' Completamente inútil! Exceto em jogos pornôs, em que é possível criar gozo com esse recurso.
+
+== Introdução ao Design de Jogos ==
+Antes de fazer um jogo, você deve saber que tudo é um objeto. O ''[[carinha]]'' é um objeto, uma moeda é um objeto, um [[goomba]] é um objeto, o [[carinha verde de moto que morre logo no começo da primeira fase do Megaman X2]] é um objeto, só o seu [[Penis|peru]] não é um objeto, já que objetos devem ter conscistência (como os perus daqueles joguinhos de [[hentai]]!).
+Para fazer um jogo, você deve ter pelo menos uma ''room'', um objeto e uma ideia. Ninguém vai jogar sua versão escrota de Super Mario Bros!!! Saiba disso e será recompensado! Depois, você coloca "''keyboard left''" no ''events'' do objeto e coloque nesse evento "''jump to -5''", e faça a mesma coisa invertendo horizontalmente. Isso faz com que o seu objeto ande para os lados, e é geralmente a primeira coisa que um noob aprende em Game Maker, já que tem um vídeo no [[YouTube]] que fala a mesma coisa e melhor.
+
+== Usuários ==
+Tudo começa quando um usuário do Game Vício e do bolsa família, que frequenta o site para discutir qual jogo tem melhores gráficos e recebe a doação do governo para comprar placas de vídeos, resolve fazer seu próprio jogo. Então ele pesquisa no [[Google]] "faze jogos" (sic) e encontra o infame Game Maker. Ansiosíssimo, ele baixa o programa achando que vai fazer um Crysis 3 (ou qualquer um desses FPS de merda) em uma semana. Ou então um jogo de "[[Futebol|futebór]]".
+
+É então que esse pobre tolo quebra a cara. Ao abrir a interface ele se depara com um monte de botões com a cara do Pac-Man e várias coisas que ele não consegue compreender. Então ele pede ajuda em fóruns da internet perguntando como ele pode criar um FPS com gráficos ultra realistas ou um jogo de [[Futebol|futebór]]. Depois de rirem de sua cara, o coitado recebe alguns tutoriais cheios de códigos estranhos e incompreesíveis que servem apenas para fazer jogos "quadrados" ou "que parecem em flash", aos quais ele e seus colegas favelados do Game Vício odeiam.
+
+Depois dessa parte, a maioria resolve desistir, mas ainda sobram alguns tolos que insistem em fazer esse tipo de jogos na ferramenta. E assim nasce um usuário de Game Maker.
+
+== Gráficos ==
+O Game Maker possui suporte para gráficos 2D raster (estilo [[Paint]], pra quem não sabe) e 3D pior que [[PlayStation 1]], mas ninguém nota isso de cara, pois o programa é tão lento que você pensa estar rodando Crysis 3.
+
+Ele tem um editor de imagens embutido que consegue ser pior que o [[Paint]]. Por isso a maioria pega sprites aleatórios na internet (em jpg com a pior qualidade possível) e faz alguns ajustes no [[Paint]] do Game Maker, enquanto outros são totalmente feitos lá. Alguns também pegam imagens do [[Google Earth]] ou fotos digitalizadas aleatórias da internet (também em jpg com a pior qualidade possível) e usam como background. Pra finalizar, ele usa a incrível engine de partículas, que adiciona borrões coloridos meio parecidos com chuva, neve, sangue, gozo ou até mijo.
+
+O resultado é uma qualidade gráfica impressionante que deixaria qualquer um de boca aberta.
+
+== Fim do mundo ==
+Alguns teóricos afirmam que o crescimento do Game Maker é um assunto de segurança global. Usuários desse programa de merda se multiplicam feito ratos e floodam a internet e computadores do mundo todo com seus jogos extremamente lentos, pesados e ruins. Se continuar assim, em pouco tempo você terá que passar horas com o seu pc em overclock máximo procurando por algum jogo que preste. Inclusive nunca poderá jogar o Episode 3, pois se o jogo não rodará nem nos computadores da [[Valve]], imagine no seu.
+
+Outros afirmam que, na verdade, o Game Maker é uma conspiração da indústria de jogos para destruir a cena independente. Vendo a quantidade de jogos independentes de merda, as pessoas passarão a comprar só jogos da indústria, destruindo a cena indie.
+
+== Ver também ==
+* [[RPG Maker]]
+[[Categoria:Jogos eletrônicos]]

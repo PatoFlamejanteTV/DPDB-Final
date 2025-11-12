@@ -1,0 +1,47 @@
+{{futebolismo}}
+
+{{Box ClubeFutebol
+|cor_clara         = green
+|cor_escura        = red
+|brasao            = Escudo do Grêmio Osasco.png
+|hino              = "Geraldão, o espia-mãe"
+|nome_oficial      = Associação Portuguesa de Desportos
+|origem            = {{SP}} '''[[Osasco]]'''
+|apelidos          = Português
+|torcedores        = Geraldões
+|torcidas          = Geraldão do Osasco
+|mascote           = Geraldão
+|ilustre           = [[Geraldão]]
+|estadio           = Estádio Glauco Villas Boas
+|capacidade        = 100 mil tarados
+|sede              = '''[[Osasco|Geraldão City]]'''; Rua da punheta, 69
+|presidente        = Geraldinho
+|treinador         = Geraldão
+|pior              = Dona Marta
+|melhor            = Geraldão
+|patrocinador      = Camisinhas Olla
+|material          = Nenhum
+|liga              = Campeonato Paulista
+|divisao           = 47
+|títulos           = Campeonato Paulista da Quinta Divisão
+|ranking           = ???°
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Grêmio Esportivo Osasco''' é uma equipe de futebol de praia, futsal e futebol, conhecido como o primeiro time de futebol que gosta de espiar a mãe tomando banho. O time é conhecido por ninguém, apenas por [[Você|quem está lendo este artigo agora]].
+
+== História ==
+=== Fundação ===
+
+Grêmio Osasco é um time novo, criado em 2007 e com o sonho de algum dia despontar tipo um Grêmio Barueri (de quem se inspirou aliás). O problema foi não ter encontrado uma cidade melhor, porque a má fama de Osasco não auxilia o time a deslanchar. A equipe foi gerada pelo [[Geraldão]] que sentiu falta de um time na cidade após a extinção do [[Esporte Clube Osasco|ECO]], e assim a equipe foi formada por ex-craques do futebol de botão da cidade de [[Osasco]].
+
+Logo na estreia da equipe, o time já foi o [[Vasco|grande vice]] do Paulistão série X7. O GEO ganhou fama de time consagrador já neste campeonato, ao trazer o péssimo Carlinhos Boca para jogar no time e Boca marcou [[mais de oito mil]] gols em um campeonato. O jogador é desconhecido pela [[CBF]] e pela [[FIFA]], o que o impossibilita de aparecer nas estatísticas ao lado de Pelé, Romário e Arthur Friedenreich.
+
+=== Série A2 de 2010 ===
+
+No ano de 2010 o Grêmio Osasco já tinha ido longe demais, em menos de 4 anos de história já conquistou o primeiro rebaixamento da história com míseros 6 pontos e rebaixamento decretado com 8 rodadas de antecedência, tendo a capacidade de ficar atrás de times que nem temos a condição de soletrar, como [[Clube Atlético Taquaritinga|Taquaritinga]], [[Osvaldo Cruz Futebol Clube|Osvaldo Cruz]] e at´[e de um time falido extinto chamado [[Votoraty Futebol Clube|Votoraty]].
+
+{{Campeonato Paulista}}
+
+[[Categoria:Times de futebol de São Paulo|Grêmio Osasco]]

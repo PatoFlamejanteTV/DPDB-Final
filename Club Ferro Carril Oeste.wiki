@@ -1,0 +1,45 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = green
+|brasao            = Escudo do Ferro Carril Oeste.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{ARG}}''' - [[Caballito]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Caballito]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Argentino de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Club Ferro Carril Oeste''' carinhosamente conhecido como "El Verdolaga", é aquele time que se orgulha de sua história ferroviária, mas que também sabe que a vida no futebol é uma verdadeira viagem de trem – cheia de surpresas e peripécias. Fundado em 28 de julho de 1904, este clube de Buenos Aires tem um legado que é ao mesmo tempo impressionante e cheio de momentos engraçados. Ser um torcedor do Ferro é como ser o passageiro mais animado em um trem que nunca para: você está sempre pronto para a próxima parada, e cada novo desafio é uma oportunidade para se divertir. Os torcedores do Ferro são conhecidos por sua paixão inabalável e por transformar cada jogo em uma verdadeira festa – e, claro, sempre com uma pitada de vexames.
+
+== História ==
+=== O Início da Viagem: 1904 ===
+Tudo começou em 28 de julho de 1904, quando um grupo de funcionários da ferrovia decidiu que sua vida precisava de mais emoção do que apenas trabalhar nos trilhos. Com um espírito de aventura e uma bola de futebol, fundaram o Ferro Carril Oeste FC em Buenos Aires. O nome “Ferro Carril” vem do fato de que muitos dos fundadores trabalhavam na ferrovia – ou seja, o clube começou como um verdadeiro "trem esportivo".
+
+=== Primeiros Anos: Trilhos Irregulares ===
+Nos primeiros anos, o Ferro Carril Oeste enfrentou condições que fariam qualquer um rir para não chorar. Jogavam em campos que mais pareciam pátios de estação e usavam uniformes que podiam ser confundidos com os sacos de carvão dos trens. Em uma ocasião épica, a bola estourou no meio do jogo e, sem uma substituta, improvisaram com um pneu velho. O jogador que tentou usar o pneu como bola teve que dar um "passe" desajeitado para não acabar tropeçando – a torcida riu tanto que a cena virou lenda.
+
+=== A Década de Ouro: Anos 30 e 40 ===
+Durante as décadas de 30 e 40, o Ferro Carril Oeste começou a ganhar respeito no cenário do futebol argentino. Subiram de divisão como se estivessem fazendo uma "viagem de trem" e, em 1932, conquistaram seu primeiro grande título – o Campeonato Argentino. Em uma vitória marcante, um jogador comemorou o gol fazendo uma "dancinha de trem", que virou o símbolo não oficial do clube. A dança era tão engraçada que até os adversários se juntavam para a festa.
+
+=== A Montanha-Russa das Divisões: 1950-2000 ===
+Entre as décadas de 50 e 2000, o Ferro Carril Oeste experimentou uma verdadeira montanha-russa de emoções. Subiam e desciam de divisão como se estivessem jogando um jogo de tabuleiro gigante. Em um jogo decisivo, um goleiro ficou tão nervoso que, ao invés de socar a bola, acabou socando o ar e caindo de bunda no chão. A torcida aplaudiu a performance "artística" do goleiro e fez uma festa improvisada em sua homenagem.
+
+{{Campeonato Argentino}}
+
+[[Categoria:Times de futebol da Argentina|Ferro Carril Oeste]]

@@ -1,0 +1,50 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Alone in the Dark 2: A Tosqueira Continua
+|image     = Alone in the Dark 2 cover.png
+|caption   = Capa do jogo
+|developer = [[Infogrames|Fuckgames]]
+|publisher = [[Infogrames|Fuckgames]]
+|released  = 1993
+|genre     = Lidar com monstros de papelão
+|platform  = [[PC|PC velho]]
+|rating    = 1/10
+|ages      = Livre (temas leves)
+}}
+
+'''''Alone in the Dark 2''''' é o segundo jogo de Alone in the Dark, mas só porque em 1993 ainda não haviam inventado DLC, porque é a mesma porcaria do [[Alone in the Dark 1]] toscão, parece ser apenas uma fase adicional com mais ação. Lançado em 1993 para os PCs mais vagabundos que existiam na época, o jogo era capaz de rodar até em calculadoras, por isso foi fácil criar um port na maior cara de pau para [[Sega Saturn]] e [[PlayStation]], consoles que aceitavam games somente com a condição dos jogos virem com nomes grandes e genéricos, por isso o jogo foi renomeado para '''''Alone in the Dark: Jack is Back''''' e '''''Alone in the Dark: One-Eyed Jack's Revenge''''' nos consoles.
+
+== Desenvolvimento ==
+
+Por algum motivo ainda desconhecido, talvez o fato de [[dadaísmo|alguma pessoa amarem merda]], Alone in the Dark 1 foi um grande sucesso em 1992 mesmo não passando de um mero simulador de combate a monstros de papelão. O criador do jogo, [[Frédérick Raynal]], foi mandado embora por ser chato demais e por ficar pedindo coisas impossíveis, como gráficos mais realistas e jogabilidade mais focada no medo e tensão.
+
+Se os executivos da [[Infogrames|Fuckgames]] seguissem o que Frédérick queria, o jogo teria o tamanho de 57 disquetes, e a ideia era que o jogo coubesse num único [[floppy disk]], então manter as coisas toscas e inimigos feitos de [[papelão]] ainda estavam nos planos da empresa.
+
+== Jogabilidade  ==
+
+Alone in the Dark 2 foi em sua época definido como simulador de quebra cabeças injustos, pois os puzzles do game são propositadamente arquitetados de forma a facilmente deixar o jogador em situações que tornam a progressão impossível, como por exemplo, exigir que um inimigo específico seja morto para ele dropar alguma chave, mas antes desse inimigo te deixar tão perdido que você gastou toda sua munição em outros lugares e não há mais munição disponível em nenhum lugar do jogo, restando como única alternativa resetar o jogo e começar do começo. Como os monstros não assustavam nem uma criancinha de 5 anos, o único modo de criar algum terror nos jogadores eram submetê-los a essa tensão constante de que a qualquer momento eles seriam forçados a resetar o jogo pra começar tudo de novo.
+
+Além desse terror, os inimigos agora se comportam mais como gângster do que como zumbis, então a sensação é de estar numa boca de fumo e não numa casa mal assombrada, cabendo ao jogador exterminar essas criaturas usando obrigatoriamente uma tática que consiste em atrair um monstro, virar numa esquina, e ficar dando porradinha e tiro da esquina onde o monstro não te alcança. Qualquer outra forma de enfrentamento que não seja essa resulta em [[Game Over]].
+
+== Enredo ==
+
+[[Arquivo:Alone in the Dark 2 gameplay.png|thumb|Elizabeth Jarret tentando curar sua feiura de todas as formas, apelando pra rituais satânicos.]]
+
+Edward Carnby deixou o amigo Ted Stryker ir investigar o destino do Chuck, o Boneco Assassino, quando este tem uma aterrorizante revelação ao descobrir que o boneco assassino na verdade é Grace Saunders, uma garotinha que havia sido sequestrada e ignorada pela polícia federal local. Cabe a Edward Carnby visitar [[Hell's Kitchen]], uma mansão protegida por piratas zumbis que são sugados pelo chão depois de mortos e descobrir o que uma macumbeira gótica quer com uma garotinha feia.
+
+== Personagens ==
+
+* '''Edward Carnby''' - O protagonista e personagem controlável, raspou o bigode para ficar menos tiozinho e agora está mais jovial com aparentes 49 anos de idade. Está ainda mais intransigente e fuzila qualquer um que se interpor em seu caminho.
+* '''Grace Saunders''' - Garotinha que foi raptada devido sua feiura, um grupo de satanistas que deseja usar Grace para tenatr curar a cara de maracujá azedo que todos eles tem, submetendo-a a rituais satânicos e muito vudu.
+* '''Elizabeth Jarret''' - Vagabunda que é a namorada de One Eyed Jack, ela faz rituais e muita bruxaria, além de ser a mãe de aluguel de Jed stone.
+* '''One Eyed Jack''' - Um pirata barrigudo e gay que vive brincando com seus companheiros em seu navio mal assombrado. É o velho pirata amaldiçoado com a imortalidade e possui esse fetiche em comer criancinhas no jantar.
+
+{{Alone in the Dark}}
+
+[[Categoria:Jogos lançados em 1993]]
+[[Categoria:Jogos da Infogrames]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Sega Saturn]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos de survival horror]]

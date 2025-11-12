@@ -1,0 +1,50 @@
+{{futebolismo}}
+
+{{Box ClubeFutebol
+|cor_clara         = red
+|cor_escura        = blue
+|brasao            = Escudo do ECUS.png
+|hino              = "E os cus"
+|nome_oficial      = Esporte Clube União Suzano
+|origem            = {{BA}} '''[[Camaçari]]'''
+|apelidos          = Leão Colorido 
+|torcedores        = Baianos
+|torcidas          = Jahia SP
+|mascote           = Gatinho
+|ilustre           = [[Quico]]
+|estadio           = Suzana Vieira (Suzanão)
+|capacidade        = 0005
+|sede              = '''[[Suzano|Suzana Vieira]]'''; Rua dos gays imunes  ao ECUS, 24
+|presidente        = Lila Macumbeira
+|treinador         = Zelado
+|pior              = Ramon Ernesto
+|melhor            = Jacinto Leite Aquino Rego
+|patrocinador      = Pacto's of Capeeta's
+|material          = Camisas velhas e rasgadas de treino do Corinthians
+|liga              = Campeonato Paulista
+|divisao           = 666
+|títulos           = Nenhum
+|ranking           = 1° (Na SPFA - SÃO PAULO FUTEBOL E ASSOCIADOS)
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+{{cgoogle|[[EC Bahia]]}}
+{{c|O correto é: "são cus", no plural, e "é cú", no singular, mas nunca "é cus"!|Professor Pasquale|Ecus}}
+{{c|bundas E CUS|Zoeiro|Ecus}}
+{{c|Esses FDP roubaram o nosso escudo!!!|Fortaleza|Ecus}}
+
+'''Esporte Clube União Suzano''', resumido para a sigla engraçado e tosca de '''ECUS''' é uma equipe de [[Suzano]] criada em [[1993]]. Tem como rival o [[União Suzano Atlético Clube|SUVACO]], um outro timeco de [[Suzano]] que faz companhia ao ECUS nos confins do futebol estadual. Ambas as equipes formam um grupinho chamado "Os azuis". É uma equipe multiesportiva, além do [[Futebol|futebol amador]] tem agremiações de [[Vôlei|voleibol amador/de rua/favelado]], [[pebolim]], [[golzinho]], paredão e [[peteca]].
+
+O futebol do ECUS é conhecido por ser [[Ironia|"o melhor da região"]]. Algo que é alvo de comentários que difamam o time nos botecos do ABC paulista.
+
+== História ==
+
+O time é tão pequeno e imprestável que simplesmente não tem história... O que narrar de 10 anos consecutivos jogando a última divisão paulista e falindo de vez em quando?
+
+== Retorno em 2021 ==
+Depois de 6 anos fazendo o bem de todos, o ECUS volta em 2021 pra tentar passar vergonha nem passando de fase pelo índice técnico. Mesmo ganhando do Manthiqueira na última rodada não passou de fase por causa da merda do [[Colorado Caieiras]].
+
+{{Campeonato Paulista}}
+
+[[Categoria:Times de futebol de São Paulo|ECUS]]

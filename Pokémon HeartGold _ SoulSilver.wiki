@@ -1,0 +1,200 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Pokémon HeartGold/SoulSilver
+|image     = Pokémon{{#switch: {{#expr: {{#time: H}} mod 2}}|0=SoulSilver|1=HeartGold}}.jpg
+|caption   = Foto da capa do jogo, enquanto {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Lugia, paga um Boquete para o Hominvisivel|1=Ho-oh usa o Bafo de Pimenta do Arco-Íris}}
+|developer = [[Game Freak|Game Tang]]
+|publisher = [[The Pokémon Company|Pokémon CoCo]]
+|released  = 2010
+|genre     = RPG/Embromação
+|platform  = Super Nintendo
+|rating    = 4,2
+|ages      = 5-10 anos (isto não se aplica aos [[Nerd]]s)
+}}
+
+{{Você quis dizer|Outra estratégia de Marketing}}
+{{c|Esse é o jogo de pokémon mais avançado até agora, mas será ultrapassado ano que vem.|[[Capitão Óbvio]]|Pokémon HeartGold/SoulSilver}}
+{{c|Nosso heróis estão de volta a região de Johto após 10 anos para reviver velhas aventuras.|[[Narrador da sessão da tarde]]|Pokémon HeartGold/SoulSilver}}
+{{c|AAIAIIAIAIA amamamMAMAxAXAX KKkOOoMmmUU eeEE uUUMMaaa gGGRRRAAXXXIiNNHHAhAhAha UUUU XXxAAaPPPEEEoO DDDEeelLLAAA!!|[[Emo]]|Soul/Kotone}}
+{{c|...|Red|te derrotar}}
+{{c|Mas que porra é essa??!?!? É muita apelação pros noobs!|Eu|a facilidade de capturar os lendários e iniciais em pokémon HeartGold/SoulSilver.}}
+{{c|Eu vou conseguir capturar todos os lendários com Glitch. Porque eu posso e você não!|Nerd|Pokémon HeartGold/SoulSilver.}}
+{{C|Para de me seguir seu FDP!!!|Você|O pokémon te seguir o tempo todo.}}
+
+[[Arquivo:09324783589398274325431279.gif|left]]'''Pokémon HeartGold/SouSilver''' são os remakes dos jogos GSC da segunda geração. Assim como FRLG, os remakes trazem coisas que não existiam na época, mas nada de muito inovador, apenas uma estratégia de Marketing. O que explica que o jogo esgotou em duas semanas no Japão.
+
+==O jogo==
+[[Arquivo:goldesilver.jpg|thumb|left|Sua primeira batalha pokémon. Sim, você ainda escolhe o nome do seu rival, [[Pokémon Green / Red / Blue|pelo menos o nome não é esquecido por algum familiar como em outros jogos]].]]
+Igualzinho nas versões originais, você é um pivete ou uma piveta que acaba de completar 10 anos (e eternamente continuará com os 10 anos) que quer se tornar um <s>vagabundo</s> mestre pokémon. Ai você pega seu pokémon com o professor <s>Emo</s>Elm e um cara ruivo ae rouba um pokémon que tem vantagem contra o seu e fica te perseguindo <s>Porque ele não tem nada melhor pra fazer na vida.</s>O Objetivo do 
+jogo é simplesmente o mesmo, é capturar os monstrinhos e ficar derrotando os líderes de ginásio e bla bla bla... Para ninguém dizer que o jogo é uma cópia descarada de GSC, eles colocaram algumas novas características, tais como somzinho upgradeado e o personagem do sexo oposto ao escolhido ficar te seguindo que nem um(a) condenado(a).
+
+==História==
+Tudo começa na cidade de New Bark, quando você acorda um dia querendo que o mundo se foda todo porque agora você vai treinar pokémons(oh, que coisa interessante).A <s>puta </s> sua mãe te apóia nessa decisão, afinal, tudo que ela quer é ficar a sós com o Professor Elm (é uma tradição no pokémon [[tua mãe]] ter um caso com o professor baitola e ele te dar um pokémon para se ver livre de você e meter a pica no cu da tua véia). Ai você vai lá escolher um pokémon entre os três disponíveis: [[Chikorita]], o monstro dinossauro verde, um pokémon planta fraquíssimo e loser que não faz nada (alem de te seguir); [[Cyndaquil]], o Equidna azul que sofre da mesma doença que Brock, um pokémon fogo cheio de [[gay|amor pra dar]] ou [[Totodile]], um jacaré do papo amarelo muito irritante, pokémon de água que vai arrancar seu braço e aparenta ser o melhorzinho dos 3. Depois você segue em sua jornada para ser um mestre Pokémon enfrentando todo mundo que aparecer. Mas isso não é nem um pouco repetitivo e maçante, pois pokémon Soul Silver é uma relíquia do submundo, onde você provavelmente irá morrer de tédio em uma aventura inédita com seu pokémon inútil e pau no cu do caralho.
+
+==Personagens==
+[[Arquivo:Kotone and Chikorita  by najwah namine.png|thumb|right|Soul/Lyra/Kotone, a nova treinadora. Você tem que parar com esses [[putaria|pensamentos]].]]
+'''Gold/Ethan/Hibiki:''' Um moleque tosco, que é o protagonista ou seu vizinho. Ele agora usa uma bermuda justa na canela e preta, no lugar daquela amarela e solta. Ainda é extremamente joselito e com uma franja tosca.
+
+'''Soul/Lyra/Kotone:''' A nova treinadora, a protagonista ou sua vizinha. Gostosinha, ela usa uma roupa muito parecida com a do Mario.
+
+'''Crystal:''' Na verdade ela não aparece no jogo, pois foi subtituída por Soul/Lyra/Kotone. Só coloquei ela aqui pra encher linguiça.(FDP)
+
+'''Silver:''' Seu rival emo, triste e com uma história traumatica. Ele ainda não arrumou sua turma e fica te perseguindo ao longo do jogo. E tem uma hora que ele se junta a você numa batalha. Ele é o filho do Giovanni (o que explica muita coisa).
+
+'''Prof. <s>Emo</s>Elm:''' O professor OAK de Johto, ele te da o teu inicial e fica impressionado quando vê um ovo de pokémon.
+
+'''Sua mãe:''' Ela te da as coisas pra você iniciar o jogo, e fica feliz com sua saída ai ela pode 
+ter tempo com seus amantes.
+
+==Líderes de Ginásio==
+[[Arquivo:HGSS Whitney Art.png|thumb|left|Whitney, a mesma <s>gostosa</s> apelona de sempre.]] [[Arquivo:02397237940809328120840234.gif|right]]Diferente de FRLG, os líderes de ginásio tiveram  uma mudança na aparência ou no ginásio. Mesmo que  pequenas, elas existem. Portanto, no lugar de linkar vocês para a parte dos líderes de ginásio no artigo GSC, abaixo está listado o que mudou e o que não mudou.
+*'''[[Falkner]]:''' Continua emo, feio e usando meia calça. Seu ginásio ainda é em forma de cifrão. A única difrença mesmo é que seu INCRÍVEL [[Pidgey]] level 9 agora é um EXTRAORDINÁRIO [[Pidgeotto]] level 13. Usa pokémons voadores.
+
+*'''Bugsy:''' Já era confundido com uma menina antes e ainda é, mesmo sua roupa de agora sendo mais masculina. Seu ginásio agora é um mini playcenter com carrinhos de montanha russa. Usa pokémons Inseto.
+
+*'''[[Whitney]]:''' Continua uma gostosa que chora quando você derrota ela e fica competindo com a [[Flannery]] pra ver quem é a mais gostosa. Não usa mais um short branco, e sim um micro short apertado preto e seu ginásio ainda é em forma de Clefairy. A Miltank dela ainda pode te foder legal dando Rollout. Usa pokémons normais. 
+
+*'''[[Morty]]:''' Mais chapado do que nunca, ele está usando cacheol agora, mesmo vivendo num lugar quente. Continua dizendo coisas sem sentido e ainda usa aquela faixa tosca de tenista, mas agora ela é roxa e não azul. Usa pokémons fantasma.
+
+*'''[[Chuck]]:''' A única coisa que ele mudou foi a cor da calça e que agora sue ginásio é todo coberto de água, perfeito pra você escorregar e bater a acbeça. Usa pokémons lutadores.
+
+*'''[[Jasmine]]:''' O ginásio dela ainda é o mais fácil de atravessar. Ela não usa um vestido todo branco agora, só é branco em cima e em baixo é verde. Ela tem uma cara de santa (só a cara) que faz você pensar que ela é fácil de derrotar, aí você é ownado pelo Steelix dela. Usa pokémons Metálicos.
+
+*'''Pryce:''' O vovô da liga Johto, com o ginásio todo congelado, ele usava camiseta e bermuda lá dentro e agora ele usa um casaco como o Dunga, calça e cachecol. Provavelmente pegou uma Pneumonia. Usa pokémons de Gelo.
+
+*'''[[Clair]]:''' A prima gostosa do Lance, costumava usar um short bem aperatdo mas agora ela usa um short mais folgado e botas azuis no lugar de sapatos pretos. Você não tem mais que empurrar pedrinhas para ir até ela, e sim puxar alavancas de um labirinto. Sim, você ainda tem que passar no teste de dignidade pokémon para ver se você pode ganhar a insígna. Usa pokémons dragão.
+
+[[Arquivo:HGSS cast.jpg|thumb|right|Cast de HeartGold/SoulSilver. Olha, o [[Totodile]] vai comer a mão da Soul/Lyra/Kotone!]]
+Ah, se você pensa que apenas os líderes de Johto é que mudaram, você se enganou. Até os líderes de Kanto tiveram sua pequena alateração. Ta listado abaixo pela ordem que eles aparecem em HGSS.
+
+*'''[[Tenente Surge]]:''' Aquele cara lá que era do exército americano, ele agora usa mais roupas a ver com exército. Diferente de GSC e igual a RGBYFRLG, ele volta a te humilhar mandando você procurar botões pra abrir a porta nas latas de lixo. Usa pokémons elétricos.
+
+*'''[[Sabrina]]:''' A [[Guria retardada]] emo revoltada, devido ao aquecimento global, está usando agora uma roupa mais leve. O público aprovou. Usa pokémons psíquicos.
+
+*'''[[Erika]]:''' A guria gostosa e rica, mudou a cor do kimono, agora ele é todo amarelo. E como não tinha nada pra fazer, plantou um labirinto de flores em seu ginásio. Usa pokémons de Planta.
+
+*'''[[Misty]]:''' Que nem em GSC, Misty está de cabelo solto, e ela ainda usa um casaco sobre o maiô. Eu perguntei a ela o porquê disso e ela disse que é pra não sentir frio ao nadar em águas frias (???). Seu ginásio agora é uma grande piscina. Usa pokémons aquáticos.
+
+*'''[[Janine]]:''' A nova líder de ginásio de Fucshia, filha única, aspirante a ninja e herdeira de Koga, o pai dela, que já foi líder de ginásio agora ele é da Elite dos 4. Agora usa uma roupa preta no lugar daquela roxa e seu ginásio ainda tem várias pessoas vestdas iguais a ela. Usa pokémons venenosos (aonde veneno combina com ninja eu ainda não descobri).
+
+*'''[[Brock]]:''' O maior usuário de Gel do mundo pokémon, ele está meio [[Michael Jackson]], pois clareou um pouco. Mudou de roupa, mas nada muito marcante e ele tem dois pokémons fósseis, [[Omastar]] e [[Kabutops]]. Copiou de [[Falkner]], pois agora seu ginásio também tem a forma de cifrão. Usa pokémons de pedra.
+
+*'''[[Blaine]]''' Adotou um visual veranístico, não se vestindo mais como um cientista louco. A Ilha de Cinnabar foi destruída devido a uma erupção. Ele montou seu novo ginásio nas Ilhas Seafoam, mas agora ele tem treinadores, todos cientistas loucos. Ele parou de fazer suas charadas. Usa pokémons de fogo.
+
+*'''[[Gary Carvalho]]:''' O novo líder do ginásio de Viridian, pois Giovanni está sendo perseguido pela polícia. Ele devia seguir o tipo que foi imposto, que é terra. Mas ele não faz isso e tem um pokémon de cada tipo. Mas por alguma razão, seu [[Alakazam]] foi substituído por um [[Machamp]].  Também ganhou roupa nova e clareou o cabelo. O ginásio agora parece mais como ele era em RGBYFRLG, com aquelas setinhas irritantes. outra coisa o nome dele mudou de "green" para "blue", mas se me lembro "blue" era o nome da garota inicial de FRLG ?!
+
+==Equipe Rocket==
+Como na série anterior o Giovanni, o líder da equipe rocket e suposto pai de Ash, desapareceu, a equipe rocket foi sendo comandada por uns executivos. Agora eles ganham mais destaques, que nem a team magma e aqua em RSE. Tem os rocket admin, um que se chama Lambda e é um cara de cabelo roxo e outro que se chama Lance (atenção Noob: não cofunda com o Lance da Elite dos 4, embora ele tenha participado da equipe rocket no anime) e tem um jeito muito de viado ate parece um Wallace II. E os rockets executives que antes não tinham BUNDA, agora têm. Athena é a mulher e Apollo é o homo, e eles usam roupas brancas no lugar daquelas pretas.
+
+==Elite <s>de</s> dos 4==
+[[Arquivo:Karenjohto.jpg|thumb|right|Karen, a única mulher da Elite dos 4 de Johto, mas outra gostosa no pokémon.]]
+[[Arquivo:7239874973124972342349139784.gif|left]]
+*'''Will:''' Um ser muito esqusito. Usa uma roupa que é uma mistura de palhaço com bobo da corte, e no pokémon stadium tem um olho maior que o outro. Usa pokémons Psíquicos.
+
+*'''[[Koga]]:''' Foi promovido. Ele é o mais velho dessa Elite dos 4, e ainda pensa que seus zubats são ninjas. Usa pokémons venenosos.
+
+*'''Bruno:''' Ele já estava aqui antes, só passou de número 2 pra número 3. Odeia camisas e sapatos e só usa um onix atualmente. Usa pokémons lutadores.
+
+*'''[[Karen]]:''' A gostosa, mas cuidado. Se você perder pra ela, ela irá te arremessar pra fora do Planalto Índigo e você terá que começar tuuudooo de novo. A primeira treinadora a usar pokémons noturno, tem um Umbreon que é um pé no saco pra vencer. Usa pokémon noturnos.
+
+*'''[[Lance]]:''' O Campeão da liga. Ele já comandava a elite dos 4 antes e continua fazendo isso. Ele ainda usa capa preta para assustar os treiandores emos e noob. Bateu o recorde de mais [[Dragonite]] capturados, treiandos e criados. Usa pokémons dragão.
+
+==Pokémons Lendários==
+[[Arquivo:ARCEUUS.JPG|thumb|left|Macumba pra fazer Dialga, Palkia e Giratina aparecerem.]]
+Diferente de GSC original, aonde só era possível capturar 5 dos até então 11 lendários, em HGSS você pode capturar muito mais! Principalmente agora que existem 35 lendários... mas ainda é impossível de capturar Mew, Celebi e Jirachi. Justo os que você nunca terá! A não ser que tenha um evento em que eles serão distribuidos.(Tão raro que você só conseguirá daqui a 3 anos)
+
+*'''Lugia''' O Lugia é tranquilo de capturar, assim como no jogo original, está disponível na Wirl Islands após pegar a pena prateada. Se você matar ele é porque você é muito noob e admirador do PT. Em Soul Silver consegue-se capturar antes do Ho-Oh, no nível 40.
+
+*'''Ho-Oh''' Igual a Lugia e as versões orginais, está disponível na Torre Tin após pegar a pena dourada. Em Heart Gold consegue-se capturar antes do Lugia, no nível 40.
+
+*'''Suicune:''' Agora seguindo o melhor estilo Pokémon Crystal, esse filho da puta fica correndo por aí e tanto você quanto Eusiune estão atrás dele. Suicune só vai parar quando você o capturar, e isso só acontecerá após ir pra Kanto. Eusiune ficará morrendo de inveja mas te dirá que está super feliz e que quer sentir sua rola maciça dentro do rabo dele.
+
+*'''Raikou e Entei:''' Que nem nas originais, eles ficam correndo por aí nas graminha após derrotar a elite dos 4. Óbviamente devem estar cuidando da plantação de maconha do CJ boladão.
+
+
+*'''Articuno:''' Sim, ARTICUNO ESTÁ DISPONIVEL NESSE JOGO! Basta ir na caverna ao lado da onde funciona o gym do Blaine e se foder para conseguir achar o caminho certo.
+
+*'''Zapdos:''' Foi expulso da power plant, e fica plantado ali fora.
+
+*'''Moltres:''' Não é mais encontrado na Victory Road (RGBY) ou na Ilha do [[Gay|arco íris]] 1 (FRLG) e sim na Silver Cave, que está maior do que nunca. Precisa daquela merda de HM chamado Rock Climb para alcançá-lo.
+
+*'''Mewtwo:''' Ele estará te esperando <s>para a morte</s> lá na Cerulean Cave, como sempre.
+
+*'''Latias:''' Ela aparece <s>fugindo de você</s> correndo por Kanto ou Johto após derrotar a liga dos 4 e falar com o Steven, mas só em HeartGold.
+
+*'''Latios:'''Igualzinho a Latias, mas em SoulSilver.
+
+*'''Groudon:''' Após fazer uma macumba básica em SoulSilver, receberá a Orb Vermelha.
+*'''Kyogre:''' Igualzinho a Groudon, só que em HeartGold e com uma orb azul.
+
+*'''Rayquaza:''' Se você tiver Groudon e Kyogre na mesma versão, ganha uma orb verde e pode ir lá capturar seu bichinho fofinho.
+
+*'''Dialga, Palkia e Giratina:''' Após ganhar um Arceus <s>escroto</s> que só se ganha no japão, você vai falar com a [[Cynthia]] e ela manda você pro caralho. Ambos são de level 1.
+
+==Pichu de Orelha Espetada==
+[[Arquivo:Spikypichu.png|thumb|right|Aqui um pokémon que você nunca terá sem hack [[Risada Diabólica|Muahauahuhahhuauhamha]]!]]
+
+{{c|-MASOQ|Eu|Pichu de Orelha Espetada}}
+{{c|-MASOQ|Você|Pichu de Orelha Espetada}}
+{{c|-MASOQ|Sua Mãe|Pichu de Orelha Espetada}}
+{{c|-MASOQ|Todo Mundo|Pichu de Orelha Espetada}}
+{{c|-MASOQ|Qualquer um|Pichu de Orelha Espetada}}
+
+O [[pichu]] de orelha espetada é COM CERTEZA o pokémon mais NON SENSE que já inventaram. Ele simplesmnete não passa de um Pichu normal que caiu num liquidificador, e fez com que sua orelha ficasse daquele jeito. Só por causa desse mínimo detalhe, todo mundo agora quer um!! E porquê algum treinador decente iria querer um pichu defeituoso que NÃO EVOLUI?? Por isso que só as gurias retardadas querem ele. Mas é impossível de ter um. Ele será distribuido de graça num filme que ainda nem lançou. E isso só acontecerá no Japão. Portanto você se fodeu. Agora hackeia o Platinum, manda a porra do pichu shiny pro SoulSilverr ou HeartGold e faz o evento. Mas você não tem R4! Se fodeu mesmo!
+
+==[[Pokémon Trainer]] [[Red (Pokémon)|Red]]==
+[[Arquivo:red world sprite.gif|left]]
+No final do jogo o seu último desafio é enfrentar o alter-ego do [[Ash Ketchum]], um muleque chamado [[Red (Pokémon)|Red]]. Só que o bicho é muito apelão, seus Pokemons estão do nível 80 pra cima e diferente do perdedor do Ketchum ele conseguiu se tornar um mestre Pokémon e todos os seus monstrinhos estão evoluídos, exceto o [[Pikachu]], que é um pokémon problemático que se nega evoluir desde o jogo [[Pokémon Yellow]]. Red está treinando na Mt. Silver, um lugar totalmente inóspito, onde cai pedras de granizo na cabeça de quem está lá. Fale com ele que não fala com você e seja humilhado
+[[Arquivo:red pkmn hgss.jpeg|thumb|250px|[[Red (Pokémon)|Red]] entediado por enfrentar um perdedor feito você.]]
+O Pikachu, bichinho rato amarelo dos inferno é o pokémon mais forte dele, ou seja, seu primeiro Pokémon já se fodeu na batalha! Depois vem o Charizard, um calango voador apelão que não podia faltar! Então vem o Blastoise, um grande filho da puta que não morre e não para de suar [[Focus Blast]] pra te humilhar! Então vem o [[Venusaur]], este não tão apelão assim, mas tem Frenzy Plant. Em seguida o Lapras, um bicho difícil de matar que manda um fuck [[Blizzard]] na tua cara! E por último um [[SNorlax]] pra te foder com Giga Impact.
+
+==Extras==
+*A Região de Johto Agora possui um Safari Zone. Um lugar grande pra cacete.
+
+*Aonde Ficava o Safari Zone de Fuschia City agora é um Pal Park, Fracasso de DPPt.
+
+*Todas as árvores de Berries são agora árvores de Apricorn.
+
+*Você pode carregar uns vasinhos e ir plantando 
+berries durante sua viagem.
+
+*Você volta a poder tocar nos pokémons da daycare.
+
+*A localização de alguns pokémons foi alterada 
+mas nada que faça você ficar querendo se matar.
+
+*Você pode usar Apricorns para fazer suco, deixando seu pokémon mais "forte".
+
+*A música foi upgradeada, mas você pode fazer ela ficar como era.
+
+*Apesar de você ter sintonia com Hoenn e Sinnoh, não dá pra ouvir as rádios de la, porque elas non eczistem.
+
+*Após conseguir a nationaldex, você fala com o professor caralho e ele te da um dos inicias de Kanto.
+
+*Após vencer o [[Red (Pokémon)|Red]], você vai até a loja gigante de Celadon e encontra com o Steven Stone e ele te dá um inicial de Hoenn.
+
+*Uma das maiores estratégias de marketing que a [[Nintendo]] já fez foi que você desbloqueia uma função especial comprando o novíssimo DSi.
+
+[[Arquivo:Pokemon HGSS.JPG|thumb|350px|center|Os velhos inicias, com novo artwork.]]
+
+==PokéWalker==
+
+{{c|Não acredito que comprei o jogo original só por causa dessa merda!|Pobre|PokéWalker}}
+
+[[Arquivo:Pokewalker.png|right|thumb|200px|Pokéwalker saqueando um [[Pikachu]] de um pobre [[Nintendo DS]] indefeso.]]
+
+
+O PokéWalker nada mais é do que uma pequena bolinha não-virtual que permite com que você possa <s>enfiar</s> transferir do seu jogo HG/SS para ele um [[pokémon]] qualquer. Como ele vem com um [[passômetro]] interno, a experiência do Pokémon aumenta proporcionalmente ao [[número]] de passos dados. Isso é útil para evoluir aquele inútil do seu [[Magikarp]] e para sair do sedentarismo, caso você seja um [[Nerd]], já que todos os nerds tem repulsão à atividades que não envolvam números, linguagens de programação ou coisas [[Furries]], como [[Pokémon]].
+
+''"Nota: Logo após escrever esse trecho, o autor, obeso, comprou o jogo Pokémon e o Pokéwalker, com o intuito de deixar seu [[Feraligatr]] nível 100. Superando suas expectativas, comprou uma esteira, deixou todo o seu time nível 100, para preencher o ócio capturou um pokémon para cada espaço no PC, deixando todos no Lv. 100. Hoje, magro (quase raquítico), se tornou o caso mais bem sucedido do uso do Pokéwalker, chegou a ganhar algum dinheiro fazendo propagandas, mas abandonou tudo para completar sua [[pokedex]]."''
+
+{{Pokémon games}}
+
+[[Categoria:Jogos lançados em 2010]]
+[[Categoria:Jogos da Game Freak]]
+[[Categoria:Jogos da The Pokémon Company]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo DS]]
+[[Categoria:Jogos de RPG]]
+[[Categoria:Remakes de jogos]]

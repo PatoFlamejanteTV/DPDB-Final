@@ -1,0 +1,54 @@
+{{DISPLAYTITLE:desCampeonato Mundial de Bostars}}
+
+{{wikificar}}
+
+O '''desCampeonato Mundial de <s>[[Brawl Stars|Bostars]]</s> [[Brawl Stars|Brawl Stars]]''' (geralmente abreviado como CMBS) é o evento final de um ano inteiro de competição onde se compete por um milhão de bufunfas americanas (dólares) e onde dá pra ganhar uma skin de graça caso você esteja assistindo da [[Acre|sua casa]]. O evento acontece desde sua primeira edição (claro né) que aconteceu em 2019 em <s>Pindamoiangaba</s> Busan, uma cidade na [https://www.google.com/search?client=firefox-b-d&q=coreia+do+sul terra do BTS].
+
+== CMBS 2019 ==
+O desCampeonato de 2019 aconteceu como já dito na Coreia do Sul e o vencedor foi a Nova Esports (aquela mesma do [[Clash Royale]]) Europa. Os jogadores da Nova entraram de pilantras pois o time da Europa que deveria ter jogado no lugar deles era a [https://qlash.gg QLASH Spain], que foi desqualificada por <s>dopagem</s> compartilhamento de contas entre eles mesmos pra ver um replay de um jogo deles mesmos (isso é contra os ToS da [https://supercell.com/en Supercell]).
+
+Eles ganharam de um time japonês chamado <s>Animal Chupacu</s> Animal Chanpuru de 3 a 0 (melhor de 5) e marcaram-se como primeiro campeão do Brawl.
+
+== CMBS 2020 ==
+O desCampeonato de 2020 aconteceu online por causa do <s>vírus xinguilingui</s> coronavírus. O vencedor da vez foi a PSG Esports, um time ruinzinho de sul asiáticos que só ganhou porque os times adversários pegavam lag. Os sul asiáticos jogaram contra os fodões (nem tão bons assim) brasileiros da INTZ.
+A final foi 3 a 0 de novo (melhor de 5)
+
+== CMBS 2021 ==
+O desCampeonato de 2021 aconteceu em Bucareste e foi intenso. Um dos times favoritos perdeu logo nas oitavas pra outro favorito que perdeu nas quartas contra um time não tão favorito que perdeu pra um time não favorito que chegou na final e perdeu pra um time favorito. O campeão foi os japas da ZETA DIVISION, os moleques jogavam bem pra porra e amassaram todo mundo.
+
+Eles ganharam da Natus Vincere (NaVi) de 4 a 1 numa melhor de 7.
+
+== CMBS 2022 ==
+O desCampeonato de 2022 aconteceu em <s>Sorocaba do Sul</s> Paris. Basicamente, tinha dois favoritos japoneses já que a ZETA DIVISION contratou mais jogadores bolados (pro players) e dividiu se em ZETA DIVISION ONE e e ZETA DIVISION ZERO. A final foi um duelo de titãs, ou seja, foi a ZETA ONE e a ZETA ZERO jogando numa melhor de 7 disputando a soberania sobre o mundo do Brawl. Acabou acontecendo que a ZETA DIVISION ZERO ganhou da ZETA DIVISION ONE de 4 a 1, o que foi até que inesperado porque a ZETA ONE jogava um pouco melhor do que a ZETA ZERO, mas a ZERO ganhou assim mesmo.
+
+== CMBS 2023 ==
+O desCampeonato de 2023 ainda não aconteceu (porque o evento final só acontece no fim do ano) mas pode ter certeza que quem vai ganhar vai ser do Japão.
+
+==Vencedores==
+{| class="wikitable" style="width: 70%"
+|- bgcolor=#FF6600
+|-
+! Ano
+! Campeão
+! Vice
+|- bgcolor=#FFFFFF
+| align="right" | 2019
+| {{INGb}} {{exp|Europa Velha|Nova Esports EU}}
+| {{JAPb}} {{exp|Animal Chupacu|Animal Champuru}}
+|- bgcolor=#FFFFFF
+| align="right" | 2020
+| {{FRAb}} [[PSG|Paris sem Glórias]]
+| {{BRAb}} [[INTZ|Perdemo]] (Brasil vice da França de novo)
+|- bgcolor=#FFFFFF
+| align="right" | 2021
+| {{JAPb}} {{exp|Divisão BETA|ZETA Division}}
+| {{UCRb}} [[Natus Vincere|Não Vencemo]]
+|- bgcolor=#FFFFFF
+| align="right" | 2022
+| {{JAPb}} {{exp|Divisão BETA 0|ZETA Division Zero}}
+| {{JAPb}} {{exp|Divisão BETA 1|ZETA Division One}} (pode isso, Arnaldo?)
+|}
+
+{{Brawl Stars}}
+{{Esportes eletrônicos}}
+[[Categoria:Competições de e-sports]]

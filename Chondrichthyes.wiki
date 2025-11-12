@@ -1,0 +1,43 @@
+{{taxocaixa
+| nome           = Chondrichthyes
+| cor            = #0047AB
+| imagem         = Gel Massageador de Cartilagem.jpg
+| imagem_legenda = Um exemplo de ser cartilaginoso
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aquáticos]]
+| classe         = [[Chondrichthyes|Gelatinosos]]
+}}
+
+'''Chondrichthyes''' é o nome científicos dos '''Peixes cartilaginosos''', ou seja, a classe de animais que reúne todos tubarões e a Claudia Raia e seus parentes taxonômicos que tenham ao invés de ossos cartilagem. Os cartilaginosos variam bastante de humor e índole, podendo eles serem muito legais e camaradas como o [[Tutubarão]], ou malignos ferozes como os tubarões que aparecem nos desenhos do Tom & Jerry e Pica Pau feitos em praias.
+
+Os cartilaginosos são um tipo primitivo de peixe que há muito tempo andava na terra como o homem faz hoje, mas então passou a habitar as águas que é muito mais legal. O tubarão era uma raça muito avançada detentora de uma tecnologia de lasers que foi mais avançada do que o X-Box 360. Com sua tecnologia eles criaram grandes sociedades e armas poderosas para combater seus rivais, as "galinhas gigantes", contra quem perderam a guerra e foram se refugir nos oceanos, mais especificamente no hemisfério sudeste que é onde fica a [[Austrália]]. A evolução das galinhas resultou na transformação em frango que é servido em almoços, de maneira que os tubarões e raias puderam voltar a se espalhar por todos oceanos. Hoje seu maior rival são seres humanos, o problema é que a carne humana é realmente podre para eles, é como comer lixo, por isso tubarões não comem humanos apenas dilaceram se a oportunidade surgir, e o mesmo vale para as raias que enfiam seus arpões no tórax dos humanos, mesmo [[Steve Irwin|os famosos]], porém os humanos tem uma arma secreta para derrotar os cartilaginosos que é a podridão de sair poluindo as águas dos mares, sendo assim os tubarões deram um adeus com sua barbatana e se refugiaram nos últimos corais ainda existentes nos oceanos.
+
+== Anatomia ==
+
+Ao invés de esqueleto, os peixes cartilaginosos possuem cartilagem revestida de cartilagem no lugar dos ossos, possuem narigão e orelhões, afinal eles são feitos de cartilagem, e tudo isso garante mais aerodinâmica a esses animais que precisam nadar rápido.
+
+Possuem de cinco a sete fendas branquiais bem grandes para aproveitar a maior quantidade necessária de oxigênio, essas brânquias tem geralmente formato de vagina de atriz pornô.
+
+== Ordens ==
+
+* '''[[Elasmobranchii]]''' - raias e tubarões
+** '''[[Batoidea]]''' - raias
+*** '''[[Rajiformes]]''' - raias comuns
+*** '''[[Myliobatiformes]]''' - jamantas
+*** '''[[Pristiformes]]''' - raias-de-serra
+*** '''[[Torpediniformes]]''' - raias elétricas
+** '''[[Selachimorpha]]''' - tubarões
+*** '''[[Hexanchiformes]]''' - tubarões primitivas
+*** '''[[Squaliformes]]''' - tubarões sem barbatana anal
+*** '''[[Pristiophoriformes]]''' - tubarões-serra
+*** '''[[Squatiniformes]]''' - tubarões anjo
+*** '''[[Heterodontiformes]]''' - tubarões de cabeça achatada
+*** '''[[Orectolobiformes]]''' - tubarão-baleia
+*** '''[[Carcharhiniformes]]''' - tubarão-azul, tubarão-cabeça-chata, tubarão-tigre, tubarões martelo
+*** '''[[Lamniformes]]''' - tubarão-branco, tubarão-touro
+* '''[[Holocephali]]''' - quimeras
+*** '''[[Chimaeriformes]]''' - quimeras
+
+[[Categoria:Peixes]]
+[[Categoria:Chondrichthyes|*]]

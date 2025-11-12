@@ -1,0 +1,122 @@
+{{pokedex}}
+{{dragão}}
+<choose><option>{{Quente}}</option><option>{{voador}}</option></choose>
+
+{{PokéBox
+| imagem = 006{{#switch: {{#expr: {{#time: H}} mod 4}}|0=|1=MX|2=MY|3=G}}Charizard.png
+| tamanho = 300
+| frase = {{#switch: {{#expr: {{#time: H}} mod 4}}|0=Charizard bom é Charizard mal.|1=Charizard X, a ovelha negra da família.|2=Charizard Y, um Charizard normal, só que menos modinha.|3=Tentando ser mais edgy do que o Mega Charizard X.}}
+| pokedex = 006
+| nihongo = リザードン
+| romaji = Lizardon
+| tipo1 = Fire
+| tipo2 = {{#switch: {{#expr: {{#time: H}} mod 4}}|0=Flying|1=Dragon|2=Flying|3=Flying}}
+| habilidade1 = Voar para o horizonte distante...
+| habilidade2 = Apelar com o Lança-Chamas
+| habilidade3 = Ser desejado por todos [[noob]]s
+| espécie = Largatixa de fogo voadora como muito fogo no rabo
+| cadeia evolutiva = [[Arquivo:CharmanderSprite.gif|link=Charmander|Charmander]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:CharmeleonSprite.gif|link=Charmeleon|Charmeleon]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:CharizardSprite.gif|link=Charizard|Charizard]]
+}}
+
+{{compactar|
+{{fatos}}
+{{Você quis dizer|Pokémon Rei da Modinha}}
+{{Experimente também|[[Sheherazade]]}}
+{{Googlesem|Charizard, Pokémon do tipo Dragão}}
+{{c|Charizard, mergulhe sobre o adversário!! Não, em cima de mim não, [[AAAAA!|Aaaaaahhh!!]]|Treinador de Charizard pouco antes de ser esmagado}}
+{{c|[[risada diabólica|MWAHAHAHAHA]]! Charizard é foda. Acaba com qualquer pokemon só com um golpe.! |[[Noob]] em Pokemon antes de ter seu Charizard esmagado}}
+{{c|Você diz isso porque nunca enfrentou um pokémon de rocha na vida <choose><option>[[Arquivo:trollface.jpg|45px]]</option><option>[[Arquivo:trollface2.jpg|45px]]</option><option>[[Arquivo:Troll HD.png|60px]]</option><option>[[Arquivo:IEtroll.png|50px]]</option><option>[[Arquivo:Troll1.jpeg|45px]]</option><option>[[Arquivo:Troll3.jpeg|45px]]</option><option>[[Arquivo:Troll7.gif|45px]]</option><option>[[Arquivo:Troll9.jpg|45px]]</option></choose>|Expert em Pokémon|citação acima}}
+{{c|Meu Pokémon.|Ash Ketchum|Charizard}}
+{{c|Meu Pokémon.|[[Red (Pokémon)|Red]]|Charizard}}
+{{c|Meu Pokémon.|[[Lance (Pokémon)|Lance]]|Charizard}}
+{{c|Meu Pokémon.|[[Alan (Pokémon)|Alan]]|Charizard}}
+{{c|Meu Pokémon.|[[Kiawe]]|Charizard}}
+{{c|Meu Pokémon.|[[Leon (Pokémon)|Leon]]|Charizard}}
+{{c|Meu Primo de Mega Evolução|Aerodactyl|Charizard}}
+{{c|Meu rival de Kanto|Blastoise|Charizard}}
+{{c|Meu Rival mitológico|São Jorge|Charizard}}
+{{c|Quem?|Salamence|Charizard}}
+{{c|Gimme fuel, gimme fire, gimme back my Charizard, uh!|Metallica|Charizard}}
+}}
+
+[[Arquivo:CharizardSprite.gif|left]] 
+'''Charizard''', também conhecido como '''''Dragão Inimigo de [[São Jorge]]''''', é o [[pokémon]] #6 da primeira geração. Um lagartão macho dos mais crescidos, que pode transformar seus oponentes em [[churrasco grego]] com apenas uma de suas baforadas. Charizard é um pokémon de fogo, não no sentido [[Jeremias|etílico]] do termo, mas porque essa é a sua classificação, e não é para menos, pois só pela cara dele podemos perceber que esse é um pokémon que solta fogo pelas ventas (e muito fogo, diga-se de passagem. O fogo é tanto que o Ash sempre pede para o seu Charizard lhe ajudar à [[queimar a rosca]]).
+
+== Características ==
+[[Arquivo:Charizardtcg.png|220px|left|thumb|Charizards são normalmente os iniciais mais escolhidos(Se arrependimento matasse....).]]
+[[Arquivo:Charizardarticuno.png‎|right|200px|thumb|Charizard de [[Ash Ketchum|um treinador noob]] apanhando de um Pokémon lendário.]]
+Dizem que sua aparência um tanto [[dragão|dracônica]] e seu hábito de cuspir fogo em todo mundo inspiraram a lenda do dragão de [[São Jorge]] guerreiro, o qual na verdade seria um plágio do Charizard. Um detalhe é que Charizard possui o tipo Voador e adora <s>dar</s> lançar baforadas de fogo, aterrorizar seus inimigos e outras coisas típicas de [[RPG]]s. Mesmo sem possuir a [[Tipo Dragão (Pokémon)|tipagem Dragão]] nos jogos (com exceção de sua Mega Evolução X), Charizard é considerado um pokémon da família dos dragões e pode <s>transar</s> cruzar com eles e ter filhotes nos jogos, só por causa daquelas asinhas de dragão que só servem para levitar e olha lá. Os Charizard voam tão mal que cada voo é considerado um perigo de esmagamento em potencial para quem estiver embaixo, seja amigo ou inimigo. Afora isso, um dos motivos pelo qual todo mundo odeia aquele <s>viado</s> treinador iniciante e baitola chamado [[Ash Ketchum]] foi o fato de ele nunca ter treinado seu Charizard direito como alguém normal faria.
+
+[[Arquivo:Charizardfuriousfire.jpg|thumb|left|220px|Charizard furioso ativando <s>seu [[Modo Berserker]]</s> sua habilidade '''Blaze''' em alguma luta.]]
+Charizard é a evolução do também lagartão [[Charmeleon]], o qual evoluíra de mais um lagarto, [[Charmander]]. Para se chegar nesse estágio evolutivo, o <s>aspira</s> pequeno réptil deverá assustar muitas criancinhas, esmagar dúzias de bichinhos inocentes na floresta e, o mais importante, queimar a fuça de seus oponentes em combates muito acalorados, até subir de nível numa quantidade suficiente para evoluir. Lugares bons para se treinar um pokémon desses são o vulcão de Cinnabar, a [[Ilha da Rainha da Morte]] e a Sauna Gay do Wanderney, lugares bem quentes mesmo, em todos os sentidos. O passo final é chegar na Lua e treinar com o próprio [[São Jorge]] guerreiro (ou [[Ogum]]), mas isso é reservado apenas para os Charizard muito conhecidos, por exemplo aquele que era treinado pelo vencedor da Liga Kalos, o '''[[Alan (Pokémon)|Alan]]''', o representante da [[Elite 4]] (e atual campeão da Liga [[Kanto (Pokémon)|Kanto]] e [[Johto]]), '''[[Lance (Pokémon)|Lance]]''', e o todo foderoso protagonista supremo da franquia, '''[[Red (Pokémon)|Red]]'''. Só que há quem diga que o [[Ash Ketchum|Ash <s>Ketchup</s> Ketchum]] também treinou o dele lá na Lua, já que o Charizard é um dos poucos Pokémon dessa mula que tornaram-se realmente úteis depois que evoluiu. 
+
+[[Arquivo:Charizard-flame.png|200px|left|thumb|Prepare-se! Vamos ter Churrasco de Pokémon hoje à noite!]]
+[[Arquivo:Charizard-kamehameha.png|200px|right|thumb|Charizard dando uma de [[Goku]].]]
+O ataque de um Charizard requer um imenso consumo de energia térmica, que é gerada a partir da energia cinética dos seus movimentos em combate e outras coisas chatas de [[Física]], ou então simplesmente a partir de cartinhas de energia fogo, caso [[você]] não entenda [[porra nenhuma]] de Física. Apesar de ser muito dispendioso, o fogaréu gerado por este dragão é tiro e queda para praticamente qualquer tipo de adversário, incluindo pokémons de água, que acabam evaporados (exceto tartarugas com canos nas costas(uí))pelo golpe. Então é melhor pensar duas vezes antes de tentar jogar água na cauda de um Charizard, pois ele não vai gostar nem um pouco e aí (entei e articuno fizeram isso, e não é por que eram lendários que escaparam de levar uma surra)[[morte|já era]]. Para matar um bichão desse, seria necessário jogar uma caixa d'água inteira na chama do rabo, uma proeza que nem um [[Blastoise]] seria capaz de fazer.
+
+Infelizmente, a força de vários Charizards não são aproveitadas de forma satisfatória, tendo como exemplo mais notório e já citado <s>noob</s> levemente pouco experiente treinador (pelo menos diz que é) Ash BoKetchum, da cidade de Pallet, sendo que o Charizard foi o único pokémon que ele realmente não treinou, porém existe um treinamento especial, chamado de Belly Drum (soco a própria barriga até sangrar) perdendo metade de sua vida e deixando seu ataque nas alturas, igualzinho ao [[Rock Lee]] quando abre os portões de chakra, para completar a apelação ele come uma fruta (ou erva) que o deixa mais rápido, chegando a níveis absurdos de poder, pena que a maioria morrem durante o processo ou cometem atos furrys com a calda deste pokémon.
+
+== Mega Evoluções ==
+:''Veja o artigo principal - '''[[Mega Evolução]]'''''
+{|{{tabelabonita}}
+|-
+||'''Imagem'''||'''Quem é esse Pokémon?'''||'''O que faz?'''
+|-
+||[[Arquivo:Mega_charizard_y.gif|150px]]||'''Mega Charizard Y'''||
+Esse dai é a Mega Evolução menos queridas pelos fãs, já que a maioria dos [[Pokemaníaco]]s modinhas tem como preferência muito mais a forma X do que a forma Y do Pokémon Rei da Modinha entre os fãs da franquia. O que podemos dizer dele basicamente é que, Charizard nessa forma tem enorme Special Attack e também aquela mesma habilidade apelona chamada '''Drought''' que pelo menos só na época da [[Pokémon:Geração III|Terceira Geração]] era exclusiva do lendário [[Groudon]], ou seja, o Charizard terá seus poderes de fogo aumentados devido ao efeito do Sol escaldante do [[Nordeste do Brasil|Nordeste]] brasileiro e não vai precisar carregar o Solarbeam!
+|-
+||[[Arquivo:Charizard X puto.gif|150px]]||'''Mega Charizard X'''||Ao contrário da forma Y já citada acima, quando ele esta na forma X, seu tipo é alterado para [[Tipo Fogo (Pokémon)|Fogo]] e [[Tipo Dragão (Pokémon)|Dragão]] (finalmente!). É considerada a a Mega Evolução mais modinha de todas (deixando o Mega [[Lucario]] em 2º lugar). Ele ficou mundialmente famoso e popular por causa daquele último episódio do anime [[Pokémon: The Origin]], onde surrou o [[Mewtwo]] em batalha! Mas ele também apareceu no anime do Ash na posse do treinador apelão chamado [[Alan (Pokémon)|Alan]] que também tinha um Charizard que poderia mega evoluir. Nessa forma, seu Attack fica extremamente alto, porque diferente da forma Y, esse é para golpes físicos e se baseia em força bruta <s>e cérebro pequeno</s>. Devido a habilidade '''Tough Claws''', todos os seus golpes de contato vão tirar uma lapada de dano adversário ao estilo [[Brutality]].
+|}
+
+== Gigantamax==
+:''Veja o artigo principal - '''[[Gigantamax]]'''''
+{|{{tabelabonita}}
+|-
+||'''Imagem'''||'''Quem é esse Pokémon?'''||'''O que faz?'''
+|-
+||[[Arquivo:Charizard Gigantamax.gif|150px]]||'''Gigantamax Charizard'''||
+É a mais nova forma do Charizard, um pokémon que atualmente está tentando competir com a família do [[Agumon]] em número de formas obtidas em suas franquias e em termos de popularidade, fica no meio termo entre o Mega Charizard X e o Mega Charizard Y, e não possui nenhum tipo alterado, ou seja, já morre para o primeiro ataque de pedra. Como Gigantamax não é apenas para últimas formas, a Gigantamax Charizard compete em ser mais modinha com a Gigantamax do [[Pikachu]] e possivelmente a do [[Eevee]] também e já que ainda não teve nenhum protagonismo no anime, no jogo possui bastante, já que é o pokémon principal do campeão da região de [[Galar]], o [[Leon (Pokémon)|Leon]]. As Gigantamax não possui nenhuma habilidade especial, mas possui um ataque único, o G-Max Wildfire, uma versão um pouco mais fodona do ataque de fogo...e só. Note que o rabo do Charizard fica até maior do que o da  [[Sua Mãe]]
+|}
+
+== Lendas sobre os Charizards e seus pontos fracos ==
+[[Arquivo:Charizard VS São Jorge.png|right|thumb|Um Charizard sendo treinado por [[São Jorge]] na lua, antes de ser capturado pelo mesmo.]]
+[[Arquivo:Shiny Charizard vs Flamedramon.png|right|thumb|Um Charizard <s>negão</s> de cor [[Pokémon Shiny|Shiny]] treinado e abençoado por [[Ogum]] indo enfrentar um [[Flamedramon]].]]
+[[Arquivo:Dragon Charizard.gif|right|thumb|Não desperte a fúria de um Charizard! Você pode causar o Apocalipse e não sobreviver para contar como foi!]]
+[[Arquivo:Gyarados vs Charizard.jpg|right|thumb|Um [[Gyarados]] se preparando para enfrentar um Charizard em uma épica batalha (o lagartão de fogo vencerá o tipo água por protagonismo).]]
+Os Charizards são conhecidos por serem machões suados com fogo no <s>cu</s> rabo (da na mesma). Desde os tempos antigos, os diferentes povos tentam explicar sua origem e o que acontece se esse fogo no rabo se apagar. Aqui estão algumas delas:
+
+'''[[Catolicismo|Católica]]''': O fogo na calda Charizardiana representa a Fogueira de São João, que em tese Deus também teria enviado-lhe as chamas do [[Purgatório]] para garantir que [[São Jorge]] continue na [[lua]]; dizem que os Charizards foram predestinados a enfrentar São Jorge, e seu fogo no rabo representa suas reais intenções com Jorginho, diz a lenda que seu <s>cu</s> fogo pisca cerca de 500 vezes por segundo, e se for apagado o Charizard morrerá em êxtase ([[você]] sabe o porquê).
+
+'''[[Protestantismo|Protestante]]''': O fogo na calda Charizardiana representa a [[Fogueira Santa de Israel]], que é uma pilantragem criada por [[Edir Macedo]] para conseguir arrecadar o [[dízimo]] dos outros. Os pastores evangélicos iludem os fies sua lábia e promessas prósperas, recebem os envelopes dos fieis em troca do dinheiro dos trouxas e dizem que vão queimar tudo lá em uma fogueira feita por um Charizard lá no Monte Sinai. Porém, claro que isso tudo é calúnia, porque qualquer um que não reprovou nas aulas de [[Geografia]], sabe que Monte Sinai '''NÃO''' fica em [[Israel]] e sim fica no [[Egito]]. 
+
+'''[[Candomblé]]:''' O fogo na calda dos Charizards representa uma "bola de fogo", no qual os candomblecista e afro-brasileiros usam-no para preparar os alimentos para os Orixás feitos dos sacrifícios de animais. Um desses em particular seria o '''Erã peterê''', que é o prato favorito do [[Ogum]] (contrapartida do [[São Jorge]]). É dito que quando esse deus africano é presenteado com tal alimento, ele irá treinar o Charizard do devoto em <s>troca do pacto</s> agradecimento, e o Charizard assumi a cor de [[Pokémon Shiny]] e ficando negão!
+
+'''[[Zoroastrismo|Zoroastra]]:''' O fogo na calda Charizardiana simboliza o inferno persa, o qual o deus das trevas [[Capeta|Angra Mainyu]] será lançado pelo deus da luz [[Ahura Mazda]] e estabelecerá a paz e o monoteísmo. É sabido que quando o profeta/messias Saoshyant chegar, Charizard junto dos espíritos protetores do deus da luz, [[Cavaleiros do Zodíaco|os Amshaspends]], vão descer o cacete nos deuses malignos Devas e fazer todo mundo virar churrasquinho. No entanto, o inferno persa diferente do cristão, não é eterno e agora você sabe o porque. 
+
+'''[[Religião da Grécia Antiga|Grega]]''': O fogo no rabo de Charizard simboliza "''o fogo dos deuses''", no qual [[Prometeu]] teria furtado da calda de um Charizard de estimação de [[Zeus]]. Como punição, ele foi acorrentado e teve seu figado comido por uma ave chamada [[Ethon]] por toda eternidade. Esse mesmo Charizard também ajudou seu senhor Zeus e os outros deuses na [[Titanomaquia]], batendo de frente com os titãs na sua forma de '''Mega Charizard X'''.
+
+'''[[Apocalipse (Bíblia)|Apocalíptica]]''': O fogo na calda de Charizard simboliza a taça derramada pelo quarto anjo sobre o sol, no qual foi permitido ao sol derramar toda sua energia sobre a face da Terra e inclusive queimar os ímpios. Acredita-se que o quarto anjo do livro de Apocalipse possuía um Charizard equipado com uma Mega Stone, podendo então [[Mega Evolução|mega evoluir]] para '''Mega Charizard Y''' e assim, usa-lo liberar o calor do sol.
+
+'''[[Maia]]''': O fogo no rabo dos Charizards simboliza o sol, por tanto, se este fogo for apagado, o sol também será, resultando no fim do mundo. Ate então, era sabido da existência de um Charizard de descendência maia que apresentou os mesmos sintomas da mesma lendária doença terminal responsável pela morte da famosa [[fênix imortal que comeu algo envenenado e morreu]]. A morte desse Charizard estava prevista para o dia [[21 de dezembro]] do ano de [[2012]], que ate foi coincidindo até como motivo de um filme, mas tudo foi resolvido depois que um [[Ho-oh]] apareceu e curou o Charizard doente com o Item raro [[Sacred Ash]].
+
+'''[[Inca]]''': O fogo no rabo dos Charizards nada mais simboliza do que um novo começo, pois é citado através do "''O Mito da Ratazana Faiscada''" (favor lê o artigo do [[Pikachu]] também), uma deusa da fertilidade sobre a forma de uma [[Pika Girl]] voando em um Charizard, desceria sobre a cidade perdida de [[Machu Picchu]] após uma trepada bem gostosa com os incas, daria a luz a inúmeros [[Pichu]]s que eventualmente tornariam-se Pikachus após evoluírem por felicidade e eles reconstruiriam sua grande civilização novamente.
+
+'''Nipônica''': O fogo no rabo dos Charizards serve como um escudo protetor que impede que os [[Ninjas Cyborgs Voadores]] invadam o planeta, quem deu esse poder para os Charizards foi o fogo de [[Amaterasu]] (uma [[Deus]] japá furry retratada em [[Okami|um jogo]]) e só pode ser destruído pela água do deus do mar [[Susanoo]] (um [[Deus]] mais foda ainda) que foi colocado no olho de um guerreiro Cyborg escolhido, chamado de <s>[[sharingan]]</s> Olho do [[Beelzeboss]] (outro [[Deus]] foda, mas não chega aos pés de [[Mokona-sama]]) na língua latínica. Se o fogo se apagar, o mundo vai continuar inteiro, mas terá 5,9999998... bilhões de escravos (é claro, [[Haruhi Suzumiya]] e os Deuses, incluindo [[Goku]], não podem ser escravizados) sendo todos obrigados a embalar caixas de leite vencido por toda a eternidade! [[risada diabólica|Muahahahahahaha]].
+
+Entre outras teorias igualmente bizarras...
+
+== Ver também ==
+
+[[Dragonite]]
+
+[[Aerodactyl]]
+
+[[Gyarados]]
+
+{{poke1}}
+{{Smash Bros}}
+
+[[Categoria:Dragões]]
+
+[[es:Charizard]]
+[[it:Charizard]]

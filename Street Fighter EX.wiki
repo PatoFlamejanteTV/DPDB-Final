@@ -1,0 +1,53 @@
+{{game}}
+
+{{Infobox Game
+|title     = Street Fighter Spinoff 1
+|image     = Street Fighter EX cover.png
+|caption   = Capa do jogo. O relançamento do Plus Alpha foi tão perto que valeu mais a pena reaproveitar
+|developer = [[Arika|Larika]]
+|publisher = [[Capcom]]
+|released  = 1996
+|genre     = porradaria
+|rating    = 4/10
+|platform  = [[arcade]]s de [[rodoviária]]s
+|ages      = Livre
+}}
+
+'''Street Fighter EX''' é o resultado do que acontece quando a [[Capcom]] fica sem ideias do que fazer com sua principal franquia e deixa outros fazerem o que bem entender com seus personagens. Criado originalmente para Arcades e depois adaptado para todos consoles existentes da época, até [[gramofone]], este jogo acaba por se tornar altamente desconhecido, aceito por muitos até mesmo como inexistente, porque a sua versão melhorada [[Street Fighter EX Plus Alpha]] já estava disponível uma semana seguinte (o [[Street Fighter EX Plus]] fora lançado 3 dias depois do Street Fighter EX), não valendo a pena adquirir essa versão piorada, bugada e sem todos personagens. [[Enterro de jogos eletrônicos da Atari|Acredita-se que existam vários CDs de Street Fighter EX enterrados]] juntos com [[E.T. the Extra-Terrestrial (jogo)|E.T. the Extra-Terrestrial]] naquele deserto do [[Novo México]].
+
+== Desenvolvimento ==
+
+[[Arquivo:Street Fighter EX gameplay.jpg|thumb|left|Resultado de quando [[Street Fighter II]] tenta ser [[Virtua Fighter 2]].]]
+
+Em 1996 a franquia [[Street Fighter]] estava em seu auge, especialmente graças à popularidade do [[Street Fighter II de Rodoviária]] que convertia o dinheiro do lanche de vários pivetes ao redor do mundo em fichas de fliperama, tornando a Capcom o conglomerado multitrilionário da atualidade. Mas nenhuma empresa vai se dar por satisfeita até estabelecer seu monopólio, e havia um concorrente nos [[Arcade]]s, o [[Virtua Fighter 2]], e sem dúvidas este concorrente era um lixo sem carisma, mas ele tinha ao seu favor a propaganda de ser um jogo [[3D]] com bonecos em 3D, não importa o quão leprosos pareciam os personagens.
+
+A Capcom então decidiu que deveria fazer o seu Street Fighter 3D, mas fazer jogos merdas nunca foi o seu forte, o forte da Capcom sempre foi apenas fazer jogos repetitivos e relançá-los infinitamente. foi por isso que a Capcom contratou a [[Arika]] para fazer uma cópia de Virtua Fighter 2, mas com os personagens de Street Fighter. Essa ideia até tinha potencial, isso até a Arika decidir introduzir seus personagens próprios, acreditando que poderia ter criatividade o bastante para criar 10 personagens novos do zero e que todos teriam excelente carisma e que isso seria uma boa ideia quis. O resultado foi um jogo que poderia se chamar '''Street Fighter vs. Carreta Furacão'''. Para não bagunçar mais ainda a cronologia da série, esse jogo abertamente não possui enredo.
+
+== Jogabilidade ==
+
+Diferente da jogabilidade macia da porradinha raiz de todo e qualquer jogo de [[Street Fighter]], o Street Fighter EX é diferentão e um jogo de luta estilo [[Virtua Fighter]] onde os personagens estão sofrendo de fortes câimbras constantemente. Como os bonecos parecem que estão com artrite e os golpes não são nada fluidos, os combos e fatalities podem ser desencadeadas ao se apertar o mesmo botão várias vezes, para não dificultar mais ainda a dificuldade que o jogador está experienciando.
+
+== Personagens ==
+
+* '''[[Ryu]]''' - Figura obrigatória em qualquer Street Fighter, até nas versões mais pirateadas possíveis, estaria nesse aqui também.
+* '''[[Ken]]''' - O rival do Ryu que vai seguir o seu amigo para qualquer canto, até no mais tosco dos jogos, inclusive esse daqui.
+* '''[[Chun-Li]]''' - Mulher que anda exagerando nos anabolizantes e está com medo de seguir o mesmo caminho da [[Andressa Urach]].
+* '''[[Zangief]]''' - Frequentador assíduo de saunas, é um russo bombado gigante, possui o estranho fetiche de fazer os outros cheirarem sua cueca vermelha.
+* '''[[Guile]]''' - Foi expulso da Força Aérea dos Estados Unidos por se recusar a cortar o cabelo. Em rebeldia deixou seu cabelo crescer a ponto de ficar parecendo uma moita bem aparada. Resultado de um [[Alex Full]] que retornou e cortou seus cabelos.
+* '''[[Hokuto]]''' - Cópia claríssima da [[Kasumi Todoh]] de [[The King of Fighters]], com a única diferença que a Hokuto está sempre com cara de poucos amigos e não possui nenhum carisma.
+* '''[[Doctrine Dark]]''' - Até hoje ninguém ainda sabe porque um loiro de olhos sempre esbugalhados e vestido para uma sessão de BDSM foi cotado para participar do jogo.
+* '''[[Pullum Purna]]''' - Como na época o desenho do [[Aladdin]] estava em alta, não viram nenhum mal em trazer a [[Princesa Jasmine]] para esse jogo.
+* '''[[Cracker Jack]]''' - Homem vestido de cafetão dono de bordel que mais parece um personagem renegado de [[The King of Fighters]] de tão blazé.
+* '''[[Skullomania]]''' - Um homem vestido de [[esqueleto]]. Claramente a [[Arika]] desesperadamente tentando criar algum personagem realmente diferente. Mas dessa vez diferente até demais.
+* '''[[Allen Snider]]''' - Uma espécie de carateca que mais parece um personagem reciclado daquele [[Street Fighter 1]] que ninguém jogou.
+* '''[[Blair Dame]]''' - Mais uma personagem descaradamente copiada de [[The King of Fighters]], essa aqui é claramente a Leona só que vestida feito prostituta de cabaré barato.
+* '''[[Kairi]]''' - Já vimos esses personagens baseados em Bruce Lee em um monte de utro lugar.
+* '''[[Darun Mister]]''' - É tipo um Evil Zangief, já que existe a versão "Evil" de tantos personagens mesmo.
+ 
+{{Street Fighter}}
+
+[[Categoria:Jogos lançados em 1996]]
+[[Categoria:Jogos da Arika]]
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos de luta]]

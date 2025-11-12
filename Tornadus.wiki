@@ -1,0 +1,76 @@
+{{Voador}}
+{{Ar}}
+
+<choose><option>{{PokéBox
+| imagem = Tornadus.png
+| frase = Nunca teve um amigo assim!!
+| tamanho = 225
+| tipo1 = Flying
+| tipo2 = 
+| pokedex = 641
+| nihongo = トルネロス
+| romaji = Tornelos
+| espécie = Porunga
+| cadeia evolutiva = [[Arquivo:Tornadusgif.png]][[Arquivo:Seta.JPG|30px]][[Arquivo:Tumbleweed01.gif|100px]]
+}}</option><option>{{PokéBox
+| imagem = 641Tornadus-Therian.png
+| frase = Alguém por favor traga um [[desodorante]] para Tornadus passar no suvaco!
+| tamanho = 225
+| tipo1 = Flying
+| tipo2 = 
+| pokedex = 641
+| nihongo = トルネロス
+| romaji = Tornelos
+| espécie = Porunga
+| cadeia evolutiva = [[Arquivo:Tornadustheriangif.png]][[Arquivo:Seta.JPG|30px]][[Arquivo:Tumbleweed01.gif|100px]]
+}}</option></choose>
+
+{{Você quis dizer|Tornado}}
+{{Você quis dizer|Tunado}}
+{{Experimente também|Shen-Long de Namekusei}}
+{{C|Há! Pelo menos eu tenho "vermelho" no nome!|[[Tornado Vermelho]]|Tornadus}}
+{{C|Aaaaaaaaaaahhh, um demônio voador!!!!|treinador noob|Tornadus}}
+{{C|Rápido, mirem seus raios nesse monstro!!|Os Caça-Fantasmas|Tornadus}}
+
+[[Arquivo:Tornadusgif.png|left]]
+'''Tornadus''', o [[pokémon]] deus lendário dos ventos ([[Capitão óbvio|e dos tornados]]), é um monstro consideravelmente feio, que surgiu na quinta geração. É famoso por ser o único pokémon a ser banido dos concursos pokémons (também conhecidos pelos [[Nerd|nerds]] como '''''Pokémon Contest'''''), pois sua cara assustava os jurados e os fazia cometer suícidio. Por conta desse fato, muita gente acha que ele é o verdadeiro compositor da [[Música de Lavender Town]], porém, os estudiosos japoneses já descartaram essa possibilidade, visto que, pelas leis da lógica, a feiura de um pokémon não pode ser transmitida por meios auditivos.
+
+Recentemente Tornadus ganhou uma nova forma chamada de <s>terriblean</s> Therian. Nesta nova forma, Tornadus se transforma numa galinha verde gigante, que corre pra caralho melhor que sua forma de gênio, e por ter comido mais arroz com feijão também possui defesas melhores. Entretanto, Tornadus Therian é mais fracote que seu gênio interior (ui!), e assim como todo [[maconheiro]] [[Capitão Óbvio|é dependente de maconha]], Tornadus Therian é dependente de que esteja chovendo e que você tenha uma desculpa para não ir a escola, assim Tornadus pode fazer a festa rolar bunda lelê com seu ataque Hurricane.
+
+==Dados==
+
+Tornadus é famoso por ser o único pokémon de todos os mais de 8000 que já existiram a ser genuinamente um tipo voador puro. Sim, isso mesmo. Nada de ser normal ou ter qualquer outro sub-tipo. Ele é voador e só voador, somente isso, apenas isso. Voador! Mas não comemore ainda <s>porque isso seria um motivo idiota pra se comemorar algo</s>. Dizem que ele só é assim porque era tão feio, mas tão feio, que nenhum sindicato de pokémons de outro tipo quis aceitar a associação dele, os voadores mesmo só aceitaram com medo de serem levados em algum tipo de tornado ou algo assim.
+
+Ele foi baseado no Deus japonês conhecido como <s>Fujidinha</s> [[Fujin]], um fumante de [[cocaína]] que controlava os ventos e sempre destruía pequenas cidades japonesas quando espirrava, provavelmente por ser o tio mais velho e acabado de [[Aang]]. Tornadus é praticamente idântico a ele, tendo a pele esverdeada, chifrinhos satânicos, e manchas roxas provindas de algum tipo de lepra que ele contraiu.
+
+Durante muito tempo, veneraram Tornadus como Deus em diversas regiões, em outras o veneravam como sendo o Avatar, e havia aquelas em que o veneravam como sendo um Digimon, varia muito de lugar pra lugar.
+
+==Nos jogos==
+
+[[Arquivo:Tornadus mafia.png|thumb|250px|Tornadus, o poderoso chefão!]]
+Assim como o racista Thundurus só aparece na versão de Pokémon White e evita a versão Black, o igualmente racista Tornadus só aparece na versão Black e evita a versão White.
+
+Para pegar ele, o esquema é o mesmo de quando se pega o [[Entei]] e o [[Raikou]] por exemplo. Você libera ele e depois fica perseguindo essa abominação por todas as milhares de rotas disponíveis no jogo, incansavelmente, até finalmente encurralar ele... e então ele fujir ou te derotar, ou você sem qeurer mata ele e perde a chance de capturá-lo. De qualquer jeito, é um saco de se pegar e ninguém gosta muito dele por isso (ninguém nunca gostou dele mesmo).
+
+==Ataques==
+
+*'''Tornado''': [[O RLY?]]
+
+*'''Voo''': Estranhamente, apesar dos três membros desse trio lendário serem voadores e viverem em nuvens, só Tornadus pode usar esse ataque. Não pergunte o porque, é mais um dos mistérios do universo.
+
+*'''Golpe Aéreo''': Mais uma ataque sem graça, mas o que queria? Ele é voador puro....
+
+*''Neblina''': O ataque sai de sua nuvenzinha
+
+==Ver também==
+
+*[[Thundurus]]
+*[[Landorus]]
+*[[Vento]]
+*[[Fujin]]
+*[[Pokémon Black / White]]
+
+----
+{{poke5}}
+[[Categoria:Djinns]]
+[[Categoria:Águias]]

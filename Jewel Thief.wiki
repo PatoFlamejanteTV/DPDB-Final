@@ -1,0 +1,39 @@
+{{Infobox Game
+|title     = Ladrãozinho de Pedras Preciosas
+|image     = jewelthief.png
+|caption   = Um jogo [[ironia|tão bom]] que se você mexer o mouse errado, dá ruim 
+|developer = ServantWare (?)
+|publisher = [[Microsoft]]
+|released  = [[1991]]
+|genre     = Catar itens
+|rating    = 3/10
+|platform  = [[PC]], [[Windows 3]]
+|ages      = [[10]]
+}}
+
+{{experimente|[[Raiders of the Lost Ark (jogo)|Indiana Jones]] de pobre}}
+
+'''''Jewel Thief''''' é um jogo bem mequetrefe de aventura (supostamente baseado num filme hindu de 1967 de mesmo nome, mas se pá é só coincidência bizarra) que basicamente você tem que catar todas as pedras preciosas de todos os cenários possíveis, sempre que conseguir pegar todas em duas coleções diferentes num cenário passa-se para um novo cenário até ter uma [[síncope]] e morrer literalmente com a cara no computador. É um dos muitos jogos da coleção [[Microsoft Entertainment Pack]], feitos mesmo para enganar os trouxas lá do início dos anos 1990, e obviamente nos tempos atuais só dá pra jogar em emulador de Windows antigo, já que atualmente ninguém nem tem como jogar essas porras.
+
+== O jogo ==
+
+Você é um caçador de pedras preciosas e tem que catar todas em cenários diferentes, sempre tendo de se desviar de diversos inimigos que andam em direções randômicas e em velocidades variáveis. Você tem nove vidas, e pode até parecer muito logo no começo de um jogo, mas quando você descobre que tem que controlar o FDP com o [[mouse]] e se até encostar nas bordas da janela ou ter de responder uma conversa no [[MSN Messenger]] ou no [[ICQ]] (esse último mais provável que seja o que tá sendo utilizado para conversar nesse tempo) ou receber um arquivo em [[FTP]], já iam embora umas 5 ou 6 vidas e logo já dava game over.
+
+As pedras são: [[esmeralda]], [[opala]], [[safira]], [[garnet]], [[pérola]]s, [[ônix]], [[rubi]], [[água-marinha]], [[ouro]], [[ametista]], [[peridoto]], [[topázio]], [[citrino]] e talvez mais alguma, mas eu só sei disso tudo porque vi um gameplay de um jogador realmente bom, porque eu mesmo nem passar da fase do ônix normalmente eu passo, quanto mais chegar na ametista, cê é louco...
+
+O jogo é complicado justamente porque além de um monte de inimigos pulando pela tela, muitas vezes sem nenhum padrão e totalmente malucos, ainda tem o fato de que qualquer esbarrão tosco no mouse e já era seu joguinho.
+
+Dizem que fizeram versões melhoradas - e bem diferentes - desse jogo anos mais tarde para consoles melhores, mas provavelmente só tem boniteza, passa longe de ser um jogo difícil para caralho como esse.
+
+== Ver também ==
+
+*[[Bejeweled]]
+*[[Thief (série)]]
+
+{{Ampliar}}
+
+
+{{Ação-aventura}}
+
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos lançados em 1991]]

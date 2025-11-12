@@ -1,0 +1,61 @@
+{{Você quis dizer|Se fodeu}}
+{{c|Mas é difícil essa prova, heinhô [[Batista]]... Batista??|[[Paulo Brito]]|Poscomp}}
+{{c|Acho que estou na prova errada, aqui não tem nada do que aprendi|Você, 5 minutos depois de abrir o caderno de questões|Poscomp}}
+{{c|Ok. Quando é que vão avisar que isto é uma [[pegadinha]]?| Você, 30 minutos depois de abrir o caderno de questões|Poscomp}}
+{{c|Bem, acho que serei avisado por e-mail que tudo não passava de uma [[pegadinha]]| Você, 40 minutos depois da entrega da prova|Poscomp}}
+{{c|[[Risada diabólica|MWAHAHAHAHHAHAHAHAHAHAHAHA!!!]]|Redator da prova|Poscomp}}
+{{c|Porra! Nem Dijkstra, Tanembaum, Cormem, Turing e Knuth juntos fazem esta prova|Você|Poscomp}}
+{{c|Porra! | Dijkstra, Tanembaum, Cormem, Turing e Knuth juntos |Poscomp}}
+{{c|A classe de complexidade dessa prova é NP-difícil-pra-cacete! | Turing | Poscomp}}
+{{c|Cinco! Quantidade de questões que coincidiram ao comparar o teu gabarito com o de seu colega|Seu colega|Poscomp}}
+{{c|Depois do poscomp minha lista passou a ter 93 problemas!|David Hilbert|Poscomp}}
+{{c|Não David Hilbert, sua lista passou a ter 23 + 70*n problemas, onde n é o número de edições do Poscomp!|Redator da prova|Poscomp}}
+
+O '''Poscomp''' é uma forma de mostrar que o martírio da [[Ciência da Computação]] não foi nada perto da frustração de ter que chutar 80% das questões em uma única prova. A nota do POSCOMP é utilizada por programas de pós-graduação na seleção de candidatos a mestrado e doutorado em diversos países, como [[Brasil]], [[Peru]], [[Colômbia]] e [[Rio Grande do Sul]]. Exatamente por isso, a prova testa as duas principais habilidades necessárias em um bom pesquisador: resistência à frustração e destreza em escolhas arbitrárias. No entanto a palavra "arbitrária" aqui deve ser levada com ressalvas visto que, tecnicamente, a probabilidade de acerto em qualquer das opções essa prova é igual, levando essa destreza ao nível de aleatoriedade uniforme, segundo a teoria da estatística (novamente, a teoria da estatística é única real oportunidade de avaliação da SBC, que é a (ir)responsável pela prova).
+
+== Introdução ==
+
+Como o número de profissionais na área de TI está aumentando, estão praticamente brotando do chão, a SBC - Sociedade Brasileira de Congressos - bolou uma maneira de ''baixar a bola'' dos [[Nerd tetudo|Nerds tetudos]]. E de quebra, a SBC angaria um [[dinheiro]] para congressos mirabolantes do tipo ''"Simpósio Anual Brasileiro de Anti-heurísticas Não-determinísticas de Álgebra Newtoniana Atualizada - SABANANA"''
+
+== O processo ==
+
+Um processo descomplexo é empregado. O candidato paga e tem direito a um caderno de questões, uma folha de gabarito e uma [[bíblia]] de bolso. Como de costume, sócios da SBC recebem um desconto de (1/6) E10-²³%.
+
+O candidato deve levar consigo um documento de identificação e uma caneta esferográfica preta. Uma vez que é necessário ao candidato mostrar resistência a frustração, é recomendável que este leve também uma boa quantidade de expectativa.
+
+== A prova ==
+
+[[Arquivo:QuestaoPoscomp.gif|thumb|right|Exemplo de questão: Prove que a distância em linha reta entre o círculo azul e o vermelho é maior do que o maior diâmetro da circunferência preta. Dê a resposta em binário.]]
+
+[[Arquivo:PeqNP.png|thumb|right|Outro exemplo de questão: P = NP? Demonstre sua resposta.]]
+
+A prova engloba [[TUDO]] o que você viu desde a 1ª serie do Ensino Fundamental até o último dia de aula na faculdade, quando você tava no boteco bebendo pra comemorar. Além disso, a prova inclui [[TUDO]] que você não viu e [[TUDO]] que você nem fazia ideia que existia. Este último tópico parece ser o mais frequente (cerca de 80% da prova). Alguns dos assuntos que a prova engloba são tópicos avançados em:
+
+* Computação <nowiki>*</nowiki>
+* <nowiki>*</nowiki> Sistemas <nowiki>*</nowiki>
+* <nowiki>*</nowiki> de <nowiki>*</nowiki>
+* <nowiki>*</nowiki>
+* <nowiki>(*)*</nowiki>
+
+No final da prova, você entrega o caderno de questões e sai do local da prova tonto, sem saber onde você está e se perguntando porque não escolheu fazer [[farmácia]], ou [[psicologia]]. Você, desnorteado, olha para as pessoas em volta e acha tudo lindo, mas ainda sem saber que planeta está. 15 minutos depois você finalmente acorda e descobre que tomou o maior pau da tua vida numa prova e que ainda teve que pagar caro.
+
+== Finalidades da prova ==
+
+A nota do POSCOMP é utilizada para seleção de candidatos em alguns programas de pós-graduação em computação e em casas de abrigo para órfãos. 
+
+A prova do POSCOMP também é utilizada pelos professores que a elaboram, para depois olhar no espelho em casa e dizer "viu como sou fodão?".
+
+A prova do POSCOMP é adotada em Marte como método de geração de números aleatórios a partir dos chutes das alternativas; naquele planeta o conhecimento medido na prova é aproximado pela raiz quadrada do orgasmo do professor fodão que elaborou as questões aqui na terra.
+
+A prova do POSCOMP também é adotada na Venezuela, país em que é notória a falta de papel higiênico.
+
+Um desfecho conhecido no processo de seleção é o [[toco]]. O candidato leva sua notinha para a banca de mestrado. A banca confere o seu curriculo e o resultado da sua prova. A banca então fala: 
+# Um babuíno consegue calcular a mediana de uma reta e você não?
+# Um camundongo de laboratório seria mais útil num projeto de pesquisa do que você.
+
+== Ver também ==
+
+* [[Teoria do desespero]]
+* [[Ciência da Computação]]
+
+[[Categoria:Informática]]

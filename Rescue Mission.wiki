@@ -1,0 +1,41 @@
+{{game}}
+
+{{vqd|Choplifter versão não voadora e com Light Phaser}}
+{{c|Cansei!|Qualquer um|jogar {{PAGENAME}}}}
+
+'''Rescue Mission''' é mais um jogo que utiliza a [[Light Phaser]] do [[Master System]]. Feito em [[1987]], pelo [[Sega|Exército dos CEEEEGOOOOS]].
+
+{{Infobox Game|title = {{PAGENAME}}
+|image               = Rescue Mission.jpg
+|caption             = {{c|Vão e sacrifiquem suas vidas!|O Redator dessa página|os soldados}}
+|developer           = [[Sega|CEEEGAAA!]]
+|released            = [[1987]]
+|genre               = [[Tiro]]
+|rating              = 0%
+|platform            = [[Master System]]
+|ages                = Livre
+}}
+
+== História ==
+
+{{Spoiler gamístico}}
+
+Um bando de soldados estão todos fodidos por causa de uma guerra. Porém, os soldados, todos quase aonde nem tem aonde cair mortos, estão no território inimigo dessa guerra. E agora, o exército deve realizar a chamada '''Missão de Resgate''' com um trem de manivela. Os soldados devem voltar pras tropas em massa, porém, se os inimigos te atacarem, ataque o que estiver com eles (no caso, você irá usar a Light Phaser). Mickey, Steve e John, vão a essa missão, e boa sorte!
+
+== O jogo ==
+
+O jogo começa (e pode acabar se você conseguir), com o Mick (não o de [[Chapolin vs. Dracula|Ghost House]]). Mick não há defeitos, porém, caso você morra, você irá controlar Steve, um soldado que para o carrinho toda hora. Caso Steve morra, você irá controlar John, o honesto. Caso John morra, é [[Game Over]]. Você deve catar todos os soldados das cinco fases do game, e deve pegar os itens que eles deixam (um objeto chave e caixa de medicamentos). Nas fases 1, 3 e 5, caso os soldados inimigos passem em seu carrinho, eles irão ser atropelados (de qualquer lado). Nas fases 2 e 4, as mais tretas, você deve atirar feito um louco, pois os soldados inimigos voam, e atiram várias coisas. Caso você feche com sem nenhum personagem morto, você pode ganhar pontos no final do game (afinal, o objetivo é esse!!).
+
+== Modos de dificuldade ==
+
+Há três modos de dificuldade: [[Easy]], [[Medium|Normal]] e o [[Hard]].
+
+== Ver também ==
+
+* [[Light Phaser]]
+* [[Master System]]
+* [[Exército]]
+* [[Sega|CEEEEEEEEGAAAAAAAAA!!!!]]
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Master System]]

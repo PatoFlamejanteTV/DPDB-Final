@@ -1,0 +1,60 @@
+{{pokedex}}
+{{agua}}
+
+{{PokéBox
+| imagem = {{#switch: {{#expr: {{#time: H}} mod 2}}|0=818_Inteleon|1=InteleonG}}.png
+| frase = {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Inteleon copiando o [[James Bond]].|1=Inteleon esperando o momento certo para atirar em [[você]].}}
+| nihongo = インテレオン
+| romaji = Intereon
+| pokedex = 818
+| tipo1 = Water
+| tipo2 = 
+| habilidade1 = <s>Baixar o</s> [[Torrent]]
+| habilidade2 = [[Sniper]]
+| espécie = Lagarbixa espião
+| cadeia evolutiva = [[Arquivo:816MS.png|link=Sobble|Sobble]] {{seta}} [[Arquivo:817MS.png|link=Drizzile|Drizzile]] {{seta}} [[Arquivo:818MS.png|Inteleon]]}}
+
+{{vqd|[[Teleton]]?}}
+{{vqd|Randall do [[Monstros S.A.]]?}}
+{{vqd|[[James Bond]] Lagarto?}}
+{{vqd|[[Gex]] versão Pokémon?}}
+{{C|Eu só uso o [[Sobble]] porque ele evolui para o Inteleon, que tem a mesma profissão que eu|[[James Bond]]|Inteleon}}
+{{C|Ok, eu posso [[Drizzile|evoluir para um ''Sadboy'']], mas pelo menos no final, eu viro um Espião Fodão!|[[Sobble]]|Inteleon}}
+{{C|Quer dizer que é assim que eu ficaria se fosse um pokemon? Nice. |[[Gex]]|Inteleon}}
+{{C|Ah!!! GAAAAAAY!!!!!|[[Scorbunny]]||Inteleon}}
+
+[[Arquivo:818MS.png]] '''Inteleon''' (em internetês: ''[[Incel]]eon'' e em japonês: ''Intereon'', copiando o [[Cebolinha]] ao contrário) é mais um dos Pokémons feitos pela [[Game Freak]], e foi [[Mentira|genial]] em terem feito um Pokémon Espião, é mais um inicial baseado em um largato...ou [[lagarto]], o importante é que [[ENEM|esse bicho passou muito rápido]].
+
+Depois de ter que aguentar um lagarto chorão por alguns níveis e depois um lagarto literalmente [[emo]] por ainda mais níveis, Inteleon evolui do [[Drizzile]] no nível 35, e pensando bem, é melhor virar um lagarto espião do que continuar sendo um lagarto roqueiro depressivo. Muitos pensaram que o Inteleon trabalharia com o Looker (nem ele quis ir para Galar) e que ele trabalharia na [[Mentira|Agência Secreta Pokémon]], mas o trabalho dele é apenas chutar a bunda dos capangas da [[Equipe Yell]], que é a organização (que pensa ser) criminosa da região de [[Galar]], isso até descobrirem o maluco do Rose.
+
+Inteleon é mais ou menos o [[Decidueye]] de Galar,<s> só qué gay</s> no início foi cotado como um dos favoritos da geração porém após sua evolução ter sido revelada com esse "jeitinho" fáns resolveram tacar o foda-se para esse pokemon. Quando [[Lula|ninguém sabia de nada]] e passando-se quase oito meses sem [[porra nenhuma]] dos iniciais evoluidos, e assim como a coruja arqueira, acabou se fodendo na hora da revelação das habilidades secretas deles e mostrou que Inteleon seria o único a possuir uma habilidade meio [[inútil]], apesar de ser o mais rápido entre eles, mostrando como a Game Freak [[sarcasmo|dá importância para iniciais de água que não são o Greninja]].
+
+Já que a nem a Game Freak quanto a The Pokémon Company se importam com Inteleon, esse pokémon apenas conseguiu se tornar relevante e ir adiante para [[Pokémon Unite|outros jogos]] graças as garotas japonesas que conseguiram a proeza de se apaixonar por esse lagarto (e o pessoal achando o gosto de [[furry|furries]] estranho), se tornando o inicial mais popular apenas por lá.
+==História==
+[[Arquivo:Pokemon Freeza.png|190px|thumb|Inteleon usando seu golpe secreto, a [[Freeza|Esfera da Morte]].]]
+Alguns dizem que o primeiro [[Sobble]] ou [[Drizzile]] que evoluiu para Inteleon gostava muito de jogar [[Cuphead]] com o seu treinador e começava a fazer aqueles gestos atirando com suas mãos como o protagonista do jogo, e como ele mesmo quanto seu treinador eram ruins naquilo e morriam fácil para os bosses e que tinham o mesmo nível que o [[jornalista gamer que ficou preso no tutorial de Cuphead]], os pokémons de água começavam a chorar, o que fez que Sobble fosse conhecido como chorão e que Drizzile era uma espécie depressiva, mas nem tanto quanto Sobble.
+
+Como já não tinham mais ideias de como fazer um ataque decente para um pokémon de água, já que gastaram tudo no [[Greninja|queridinho dos iniciais aquáticos]], e que o nem o [[Blastoise]] conseguia mais jogar água pelos seus canhões e sim telepaticamente pela sua [[testa]], Inteleon usou os mesmos ataques que [[Cuphead]] e Mugman faziam, não se sabe como, jogando qualquer ataque pelos seus dedos, mas como [[Cuphead]] não era um jogo exclusivo da [[Nintendo|NãoIntendo]], os mesmos se recusaram a dar créditos para o jogo.
+== Design ==
+[[Arquivo:Inteleon Gmax.png|thumb|200px|left|Quem disse que pokémons não podem ter armas?]]
+Ele tem uma pele que faz parece que ele veste uma roupa de espião, tem uma cauda longa, deixou de ter franjinha de [[Emo]] e agora ele tem mãos e pés pretos. Tudo isso pra parecer um espião. E como de costume (Na cadeia evolitiva do [[Sobble]], pelo menos), ele tem uma cara séria, só que a cara do Inteleon faz ele parecer o [[Severo Snape|Professor Snape]]. No final acabando um design que mais parece uma [[fancharacter]] em forma de lagarto baseada na personagem Mirage do filme [[Os Incríveis]], e também compete em ser o lagarto mais anoréxico da série com a [[Salazzle]], tanto que os dois pokémons acabam sendo [[shipping|shippados]] por isso.
+
+Em sua Gigantamax que surgiu <s>na DLC</s> no conteúdo adicional do jogo, Inteleon consegue a proeza de ficar ainda mais anoréxico e quis imitar a Gigantamax Meowth sem nenhum motivo e acaba esticando sua cauda até demais, tanto que consegue (não se sabe como) um equilíbrio para ficar a vários metros de altura sem cair e como pokémons com objetos é uma tendência nova em Galar, Inteleon recebe um bastão que usa como uma arma para atirar em seus inimigos de longe.
+
+Por conseguir ter o maior teor artístico de [[memes]] com tamanha tosqueira de sua nova forma, acabou virando a forma G-Max mais popular das novas lançadas na primeira DLC de Pokémon (ou segunda DLC, se contar com o [[Mew]] de Let's GO Pikachu/Eevee). Seu golpe especial é o G-Max Hydrosnipe, que é literalmente a mesma porcaria que o Snipe Shot, só que de mais alto e mais água lançada, além de ser um golpe mais apelão. 
+
+== Pokédex ==
+[[Arquivo:Inteleon your tears.png|180px|thumb|Inteleon ao ver os fãs do [[Sobble]] que passaram a odiar a evolução.]]
+Inteleon tem o costume de fazer coisas de Espião. Quando ainda era um [[Drizzile]], cansou de ser um Emo depressivo e decidiu fazer algo de útil na vida. Ele treinou por 19 anos na [[Mentira|Academia Pokémon]], e depois se formou no [[Mentira|Curso para Poké-Espiões]]. Então, alguns agentes secretos viram o histórico do Inteleon e resolveram contratá-lo. O que ele têm feito até hoje é se disfarçar de <s>Escravo de algum Treinador Pokémon</s> Pokémon Normal para combater a [[Equipe Yell]].
+
+E com a habilidade [[Sniper]], ele <s>tira do meio do [[cu]]</s> pega uma Sniper (Duh!) e começa a atirar nos oponentes. Dessa vez, a [[Game Freak]] se superou. Essa habilidade mata até o [[Arceus]] (Ou não). Já que a [[Game Freak|Jogo Louco]] gastou todo o dinheiro do jogo nas animações dos lendários, dos iniciais, de golpes únicos e principalmente na animação dos trailers, Inteleon assim como os outros iniciais evoluídos, também não pensa com a cabeça e em todo ataque pedido pelo seu treinador, Inteleon começa a fazer um gesto de arma e taca qualquer coisa no inimigo direto de seus dedos, mesmo se for um golpe de água, um golpe de gelo ou algo totalmente nada a ver.
+
+== No anime/mangá ==
+Inteleon aparece em um episódio onde surge do além para se encontrar com o Sobble de Goh, que fica maravilhado com a aparência aloka da lagartixa azul e deixa de ser um chorão para tentar evoluir para um. O resultado disso não foi dos melhores <s>até o fim do anime</s>. Inteleon novamente aparece em um episódio do anime, depois de uns 15 episodios, quando o Drizzile de Goh resolve parar de chorar por ser horrendo e sai na porrada com outros pokémons, conseguindo evoluir finalmente para a lagarbixa e ao menos ser feliz em sua nova forma, ou não já que agora não tem nenhuma personalidade, a não ser a default de qualquer Inteleon.
+
+Além disso, outra coisa que sabemos é que Gigantamax Inteleon estará de fora (com grandes chances) do anime principal por ter porte de armas. No mangá, deve estar na mão de um dos protagonistas.
+
+{{oposto|Gex}} 
+
+{{poke8}}
+[[Categoria:Camaleões]]

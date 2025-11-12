@@ -1,0 +1,235 @@
+[[Arquivo:Jogo da Véia.jpg|thumb|E o pior que já fizeram jogo disso pra [[PC]]. E ainda por cima com dois velhinhos!]]
+{{Você quis dizer|[[Damas]] de esclerosado retardado}}
+{{C|Prometo que colocarei o jogo no próximo Windows!|Bill Gates|Jogo da Velha}}
+{{C|Tu tá de sacanagem comigo sr 03, efia essa velha no saco!|Capitão Nascimento|empate no jogo da velha}}
+{{C|Podia ser "jogo da loira"|Carla Perez|a dificuldade do jogo}}
+{{C|10/10 - Game of the Year|[[IGN]]|{{PAGENAME}}}}
+
+O '''jogo da velha''' é um jogo e passatempo extremamente popular. É um jogo de regras muito simples, que não traz grandes dificuldades para seus jogadores (a não ser pensar, o que é uma deficiência de grande parte dos brasileiros) e é facilmente aprendido. O jogo teria se originado na Inglaterra, quando nos finais de tarde, mulheres se reuniriam para conversar e bordar. A mulheres idosas, por não terem mais condições de bordar em razão <s>do Mal de Alhzeimer</s> da fraqueza de suas vistas, jogavam este jogo simples, que passou a ser conhecido como o da "velha".
+
+==Campeonato Oficial==
+
+[[Arquivo:jogo_da_velha3.jpg|right|thumb|300px|Final do Campeonato Oficial de Jogo da Velha do ano passado.]]
+
+A '''AIJJV''' ('''A'''cademia '''I'''nternacional de '''J'''ogadores de '''J'''ogo da '''V'''elha) organiza campeonatos anuais do ilustre jogo desde 1600 e alguma coisa antes de Cristo, cuja final foi entre [[Dercy Gonçalves]] (que era o ''Chiz'') e [[Hebe Camargo]] (que era a ''Bolinha''). Desde então, vem ganhando mais e mais popularidade com o passar do tempo, tendo nos tempos de hoje uma média de 4 mil participantes anualmente. É sempre uma disputa acirrada, com algumas partidas demorando horas para se terminarem. O campeão de cada ano ganha um troféu feito de ouro com o formato do ''Chiz'' ou da ''Bolinha'', dependendo de qual dos dois ele estava usando no jogo.
+
+Muitas discussões já houveram entre a ''AIJJV'' e o [[Comitê Olímpico Internacional]] para a oficialização do jogo da velha como um esporte [[Olimpíadas|olímpico]]. Espera-se que até as Olimpíadas de 2016 no <s>Hell de Janeiro</s> Rio de Janeiro, ele seja aceitado e vire um dos esportes mais populares do evento.
+
+==Regras do Jogo==
+[[Arquivo:Provanoob05.jpg|thumb|Segundo a '''AIJJV''' - '''A'''cademia '''I'''nternacional de '''J'''ogadores de '''J'''ogo da '''V'''elha, somente 1 em cada 10.000 jogadores passam nesse teste.]]
+[[Arquivo:Velha2.jpg|thumb|Essa versão alternativa do jogo ainda não é reconhecida pela '''AIJJV'''.]]
+[[Arquivo:Velhachips.jpg|thumb|Com a venda de salgadinhos com formato de '''X''' e '''O''', uma empresa chegou a obter muitos lucros e muitos consumidores sedentários.]]
+
+Conhecido pelo seu alto nível de complexidade, o jogo se resume a fazer:
+
+'''Se você for o Chiz:'''
+
+* Situação de vitória 1:
+
+ x|_|_
+ _|x|_
+ _|_|x
+
+* Situação de vitória 2:
+
+ x|x|x
+ _|_|_
+ _|_|_
+
+* Situação de vitória 3:
+
+ _|_|_
+ x|x|x
+ _|_|_
+
+* Situação de vitória 4:
+
+ _|_|_
+ _|_|_
+ x|x|x
+
+* Situação de vitória 5:
+
+ x|_|_
+ x|_|_
+ x|_|_
+
+* Situação de vitória 6:
+
+ _|x|_
+ _|x|_
+ _|x|_
+
+* Situação de vitória 7:
+
+ _|_|x
+ _|_|x
+ _|_|x
+
+* Situação de vitória 8:
+
+ _|_|x
+ _|x|_
+ x|_|_
+
+* Situação de vitória 9:
+
+ x|_|x
+ _|x|_
+ x|_|x
+
+* Situação de vitória 10:
+
+ _|_|x
+ x|x|x
+ x|_|_
+
+* Situação de vitória 11:
+
+ _|x|x
+ _|x|_
+ x|x|_
+
+* Situação de vitória 12:
+
+ x|x|x
+ _|x|_
+ x|_|_
+
+* Situação de vitória 13:
+
+ _|_|x
+ _|x|_
+ x|x|x
+
+* Situação de vitória 14:
+
+ _|_|x
+ _|x|x
+ x|_|x
+
+* Situação de vitória 15:
+
+ x|_|x
+ x|x|_
+ x|_|_
+
+* Situação de vitória 16:
+
+ x|x|x
+ _|x|_
+ _|_|x
+
+* Situação de vitória 17:
+
+ x|_|_
+ x|x|x
+ _|_|x
+
+* Situação de vitória 18:
+
+ x|_|_
+ _|x|_
+ x|x|x
+
+* Situação de vitória 19:
+
+ x|_|_
+ x|x|_
+ x|_|x
+
+* Situação de vitória 20:
+
+ x|x|_
+ _|x|_
+ _|x|x
+
+* Situação de vitória 21:
+
+ x|_|x
+ _|x|x
+ _|_|x
+
+* Situação de vitória 22:
+
+ x|x|x
+ x|_|_
+ x|_|_
+
+* Situação de vitória 23:
+
+ x|x|x
+ _|_|x
+ _|_|x
+
+* Situação de vitória 24:
+
+ x|x|x
+ _|x|_
+ _|x|_
+
+* Situação de vitória 25:
+
+ x|_|_
+ x|x|x
+ x|_|_
+
+* Situação de vitória 26:
+
+ _|x|_
+ x|x|x
+ _|x|_
+
+* Situação de vitória 27:
+
+ _|_|x
+ x|x|x
+ _|_|x
+
+* Situação de vitória 28:
+
+ x|_|_
+ x|_|_
+ x|x|x
+
+* Situação de vitória 29:
+
+ _|x|_
+ _|x|_
+ x|x|x
+
+* Situação de vitória 30:
+
+ _|_|x
+ _|_|x
+ x|x|x
+
+* Situação de vitória 31:
+
+ x| |x
+  |x|x
+ x|x|x
+
+* Situação de vitória 32:
+
+ x|x|x
+ x|x|x
+ x|x|x
+
+
+'''Se você for a Bolinha:'''
+
+É só fazer a mesma coisa que o '''Chiz''', mas marque '''Bolinha'''!
+
+
+==E quando der velha?==
+
+É quando nem o '''Chiz''' e nem o '''Bolinha''' ganham. E então os jogadores devem iniciar um novo jogo para o desempate. Por isso o jogo tem esse nome: [[Dercy Gonçalves]] e [[Hebe Camargo]] começaram a jogar na infância, e como sempre empatavam, só terminaram de jogar pela década de 70, com a vitória de Dercy.
+
+Outra forma mais simples de decidir o vencedor é partir para as vias de fato, ou seja, no lugar de um novo jogo e mais "Chiz" e "Bolinha", dê porrada no seu adversário.
+
+{{Jogo de mesa}}
+[[cs:Piškvorky]]
+[[en:Tic-Tac-Toe]]
+[[es:Tres en línea]]
+[[ja:三目並べ]]

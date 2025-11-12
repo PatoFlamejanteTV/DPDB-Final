@@ -1,0 +1,142 @@
+<div align="center"><table border=1 cellpadding=10 cellspacing=2 style="background-color:#000000; border-color:#FFFFFF;">
+<tr><td align="center">
+[[Arquivo:Hammer and sickle.png|100px|left]]
+'''<span class="nounderlinelink" style="color:#FFFFFF;">Esse artigo foi esKrito por [[Comunistas|<span style="color:#FF0000;">Komunistas</span>]].'''
+<br/><br/>
+<span style="color:#FFFFFF;">'''''Na [[União Soviética|<span style="color:#FF0000;">União SoviétiKa</span>]], [[Reversal russa|<span style="color:#FF0000;">a predefinição adiciona ''VOCÊ!!''</span>]]</span>
+</span>
+</td></tr>
+</table>
+</div>[[Categoria:Comunismo]]
+
+{| class="boilerplate metadata" id="stub" CELLPADDING=5 CELLSPACING=5 style="background-color: #E8E8E8; color: #000000; border-top: 2px solid black; border-bottom: 2px solid black; border-right: 2px solid black; border-left: 2px solid black;" align="center"
+|-
+| <choose><option>[[Arquivo:Indo viajar.jpg|90px|PC|left]]</option><option>[[Arquivo:Sexo usb serial.jpg|90px|PC|left]]</option><option>[[Arquivo:Billg.jpg|90px|nada!|left]]</option></choose> <choose><option>[[Arquivo:nerd gordo barbudo.jpg|90px|nada!|right]]</option><option>[[Arquivo:1337-cereal.jpg|90px|nada!|right]]</option><option>[[Arquivo:Computeiros.jpg|90px|nada!|right]]</option></choose><font size="+1">Este artigo é uma '''piada de [[computeiro|Komputeiro]]'''!</font>
+<br>
+<choose>
+<option weight="100">
+'''10 Print "lol"'''<br>
+'''20 goto 10'''
+</option>
+<option weight="100">
+Existem '''10''' tipos de pessoas no mundo: As Ke entendem binário e as Ke não.
+</option>
+<option weight="100">
+Existem '''11''' tipos de pessoas no mundo: As Ke entendem binário, as Ke não, e as Ke entendem Kódigo Gray.
+</option>
+<option weight="100">
+Existem '''11''' tipos de pessoas no mundo: As Ke entendem binário, as Ke não entendem e as Ke acham Ke entendem.
+</option>
+<option weight="100">
+Para deixar sua internet mais rápida faça o seguinte: Iniciar » ExeKutar » CMD » Na janela Ke aparecer digite ''Shutdown -s -t 1''.
+</option>
+<option weight="100">
+Apague a pasta Windows Ke está dentro do diretório ''C:/'' para liberar espaço no seu [[computador|Komputador]]!
+</option>
+<option weight="100">
+53 \/0¢3 ¢0И536(_)3 £3Я 1550,<br>\/0¢3 3' \/1Я63|v|
+</option>
+<option weight="100">
+Kaso não entenda, aperte '''Alt+F4''' para a leitura fiKar mais fácil.
+</option>
+<option weight="100">
+Se chefe fosse arKivo, a extensão seria '''.fdp'''!
+</option>
+<option weight="100">
+Kaso não entenda, aperte '''Ktrl+Alt+Del''' duas vezes o mais rápido possível.
+</option>
+<option weight="100">
+Kaso não entenda, aperte [[F1]] para ser ajudado.
+</option>
+<option weight="100">
+Keyboard not found, press [[F1]] to Kontinue.
+</option>
+<option weight="100">
+Mouse not found, KliKk OK to Kontinue.
+</option>
+<option weight="100">
+Apenas eu e Kem Ker Ke seja '''F0DA''' sabe heKsadecimal. Kuantas pessoas são?
+</option>
+<option weight="100">
+How many people know '''heKs''' if only I and ''DEAD'' people Know heKs?
+</option>
+<option weight="100">
+'''chmod a+x /bin/laden'''
+</option>
+<option weight="100">
+Roses are #FF0000, violets are #0000FF, all my base are belong to you!
+</option>
+<option weight="100">
+Este programa exeKutou uma operação ilegal e será fechado. Kontate o seu revendedor [[Microsoft|MiKrosoft]].
+</option>
+<option weight="100">
+   '''printf''' (<font color=#FF0000>"[[Foda-se|VSF]] [[n00b]]!"</font>);
+</option>
+<option weight="100">
+Está tendo muitos problemas? Korte o mal pela /root!
+</option>
+<option weight="100">
+{| style="background-color: #E8E8E8;" align="left">
+|
+<pre style="text-align:left; width: 100%; background-color: #0000FF; color: #FFFFFF;">
+
+                                    Windows
+
+    OKorreu um erro fatal 0E em 0025:CD00E4D1 no VxD VMM(01) - 000684D1.
+    O aplikativo em uso será encerrado.
+
+    *  Pressione KualKer teKla para encerrar este apliKativo.
+    *  Pressione KTRL+ALT+DEL novamente para reiniciar seu Komputador.
+    Todos os dados não salvos em todos os apliKativos serão perdidos.
+
+                          Pressione KualKer teKla para Kontinuar _
+
+</pre>
+|}
+</option>
+<option weight="100">
+'''Parse error''': unexpeKted $end in '''/usr/www/desciKlopedia/index.php''' on line '''666'''
+</option>
+<option weight="100">
+[[java.lang.NullPointerException]]<br>
+at ws.desciKlopedia.paginas.Komputeiros.showMessage(Komputeiros.java:49)
+</option>
+<option weight="100">
+Não entendeu a piada? '''RTFM'''
+</option>
+<option weight="100">
+Erro: Permissão negada para chamar o método '''LoKation.toString("DesciKlopedia")'''
+</option>
+<option weight="100">
+Exception in thread "main" [[java.lang.NullPointerException]]
+</option>
+
+</choose>
+|}
+[[Categoria:Informática]]
+
+[[Arquivo:Cquote1.png|10px]][[Você quis dizer|<span style="color:#CC0000">'''Você Kis dizer:''' </span>]]<span style="color:#0000CD">'''''<u>Windows 7</u>'''''</span>[[Arquivo:Cquote2.png|10px]]<br /><small>[[Google]] sobre {{#ifeq:KDE4||{{PAGENAME}}|KDE4}}</small><br />
+
+[[Arquivo:kdeerror.gif|left]]
+[[Arquivo:Billg.jpg|thumb|right|Famoso usuário do KDE, agradecendo por sua inspiração profissional.]]
+
+KDE é um ambiente gráfiKo pra [[Linux|LinuKs]] e diversos outros UniKs, Kujo a versão 4 se assemelha muito ao [[Windows 7]], até na Kuantidade de bugs,<s> apesar de ter sido feito primeiro,</s> Ke aKompanha diversos programas Kom nomes esKritos Kom a letra '''K''' no lugar de todas as letras '''C''' ou '''Q''' Kom valor de oKlusiva velar surda (e eu não sou [[nerd]]).
+
+Este ambiente gráfiKo é o preferido pelo <s>nerd</s> Kriador do LinuKs, o [[Linus Torvalds]], e possui Kversões para diversos [[sistema operacional|sistemas operacionais]] Komo o [[Free BSD]] e o [[Mac OS|MaK OS X]]. Bem Komo é amplamente usado por diversas distribuições LinuKs, fazendo Kom Ke pareçam todas iguais.
+
+== Qt ==
+[[Arquivo:QtLogo.png|thumb|left|Logo do Qt, ToolKit da<s> Troll TeKh</s> [[Nokia]], usado pelo KDE para Kriação de programas Kom janelas]]
+
+Graças a esta poderosíssima ferramen☭a, o KDE aKompanha diversos programas, Komo o navegador da in☭erne☭ Konqueror, Ke não é Kompa☭ível a nenhuma página da in☭erne☭, e o K3B, Ke é um gravador de CD mais porderoso Ke o [[Nero (software)|Nero]], mas ainda não foi adap☭ado pro KDE4.
+{{-}}
+
+== Ver também ==
+
+* [[GNOME]]
+
+== Ligações externas ==
+
+* [http://www.kde.org KDE - Experience Freedom!]
+
+[[en:KDE]]
+[[ru:KDE]]

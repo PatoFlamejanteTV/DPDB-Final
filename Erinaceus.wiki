@@ -1,0 +1,35 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Porquinhos-ouriços
+| imagem          = Bambam cookie.jpg
+| imagem_legenda  = Ouriço comendo lixo
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| classe          = [[Mammalia|Mamadores]]
+| ordem           = [[Eulipotyphla|Eulipratuatia]]
+| família         = [[Erinaceidae|Soniceidae]]
+| gênero          = [[Erinaceus|Soniquinhos]]
+}}
+
+'''Erinaceus''' é um gênero genérico de um mamífero muito avançado que foi criado num bizarro experimento laboratorial quando um [[porquinho-da-índia]] foi abandonado sozinho em um quarto escuro onde foi forçado a cruzar com um pedaço de cactos, então, repentinamente, em cerca de 8 anos e 10 segundos, cresceram espinhos nas costas do pequeno porquinho que deu origem aos [[erinacídeos]], que agora são conhecidos como ouriço.
+
+Ouriços eram também uma forma popular de punição usado pelos romanos. Os presos seriam forçados a engolir cinco ou mais ouriços no curso de um minuto, a falha seria punível com espancamentos selvagens com um macarrão molhado.
+
+== Anatomia ==
+
+Os erinaceus possuem espinhos feitos de [[queratina]] apresentados num formato convenientemente aerodinâmicamente projetados para torna-lo o animal terrestre mais rápido do mundo, atingindo estes animais uma alta velocidade tal que ele é capaz de rodar e dar loops.
+
+== Hábitos ==
+
+Eles são muito inteligentes, mas ainda não sabe-se porque eles só comem vermes insolentes. Talvez seja porque eles não gostam de uma dieta habitual de lágrimas de anjo.
+
+== Espécies ==
+
+* '''[[ouriço-terrestre]]''' ''(Erinaceus europeus)''
+* '''[[ouriço-peito-branco-do-norte]]''' ''(Erinaceus roumanicus)''
+* '''[[ouriço-peito-branco-do-sul]]''' ''(Erinaceus concolor)''
+* '''[[ouriço-de-amur]]''' ''(Erinaceus amurensis)''
+
+[[Categoria:Ouriços]]
+[[Categoria:Erinaceidae]]
+[[Categoria:Erinaceus|*]]

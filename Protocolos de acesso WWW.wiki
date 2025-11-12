@@ -1,0 +1,29 @@
+{{computeiro}}
+[[Arquivo:Erro do Internet Explorer 7.jpg|thumb|350px|Um problema comum quando se mistura o HTTP com o [[Internet Explorer]]]]
+Os '''protocolos de acesso WWW''' (World War Web) são os responsáveis pelos crimes cometidos em fóruns, redes sociais e outros sites, acessíveis diretamente pelo navegador. São protocolos de acesso ao WWW o [[HTTP]], o [[HTTPS]] e o [[XXX]].
+
+O protocolo '''HTTP''' ([[Hypertext Transfer Protocol|'''H'''oje '''T'''ô '''T'''oda '''P'''oderosa]]) é o protocolo de aplicação (contato direto com o usuário - contrair [[AIDS]] é inevitável) usado pelos [[Inclusão digital|inclusos]] sem precisar de uma conexão segura para distribuir merda.
+
+o '''HTTPS''' também é um protocolo de acesso a WWW, em sua forma transexual ('''[[Hypertext Transfer Protocol Secure|H'''oje '''T'''ô '''T'''oda '''P'''oderosa e '''Sexy]]'''), que requer uma conexão segura (que não é aquela coisa que se diga {{aspas|Meu Deus que segurança boa}}, mas dá pro gasto), usado pelos mesmos incusos na arte de espalhar merda e escrever textão no [[Facebook]].
+
+== Utilização ==
+
+O que seria da internet se não fossem os protocolos de acesso à Web e seus usuários? Talvez um lugar melhor, não sei. 
+
+Esses protocolos são usados sempre que o incluso digital vai acessar um site pra pesquisar [[merda]] e espalhar para as primas pobres, tipo uma informação útil sobre a folha da graviola curar o [[câncer no cu]], ou que o [[Ratinho]] vai doar seis reais para uma instituição de caridade na [[Somália|Somália Oriental]] a cada vez que alguém copiar um texto para o próprio perfil do Facebook por meio de um [[browser|navegador]] (normalmente o [[Internet Explorer]] que essa gente gosta tanto).
+
+É fácil perceber seu uso na barra de endereço do navegador, quando aparece o endereço e, rapidamente, mostra a palavra "http" (ou "https" com um cadeado), numa fração de milésimos, por exemplo, ao acessar o site http://www.sexocomcabritas.com.
+
+== Características ==
+
+Esse tipo de protocolos funciona na arquitetura cliente-servidor; o incluso, representado pelo nome cliente, pesquisa uma receita pra tirar espinhas da [[bunda]], o servidor procura a receita e envia ao cliente (<small><small><small>para matar sua curiosidade, ácido sulfúrico tira espinha da bunda</small></small></small>).
+
+Esse gênero de facilitador de acesso à Web é um protocolo sem estado, ou seja, ele não armazena informações do incluso (graças a deus hein?). Porém, ele pode salvar algumas informações por meio de [[cookie]]s, biscoitos podres que ficam gravados no navegador do incluso, e servem para agilizar na recuperação de informações. Por exemplo, se o incluso entrar no buscador [[Google]], vai aparecer uma listagem de coisas que o incluso pesquisou, tais como "é poçível recuperar a vijindade?", "como eu planto um pé de batata no quintau?", "sintomas da gonoreia", entre outros.
+
+== Ver também ==
+
+* [[FTP]]
+* [[UDP]]
+* [[FDP]]
+
+[[Categoria:Protocolos de rede]]

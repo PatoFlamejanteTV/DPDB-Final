@@ -1,0 +1,465 @@
+[[Arquivo:Internacional e Chivas Disputando a final de lucha libre!.jpg|225px|right|thumb|Cena Clássica de uma final de Libertadores, com a inovação da [[Conmebol]] de por Mexicanos no meio.]]
+
+A '''Copa [[H1N1]]Libertadores da América de 2010''', ou apenas '''Super Bowl Libertadores 2010''', é a 51º edição já feita e <s>mal</s> organizada pela [[Conmebol|COMEBOLA]].
+Devido ao surto de H1N1 no México, que naquele ano ficou conhecido como [[Gripe Suína]], a Conmebol resolveu classificar os times [[Chivas Guadalajara|Chuvas Tangamandápio]] e [[San Luís]] <s>del Marañón</s> diretamente às oitavas-de-final. Com isso, sobraram só seis vagas aos [[Vasco|segundos colocados]] na fase de grupos.
+== Pré-Libertadores ==
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|- 
+| align=center |1
+| align=right  | [[Arquivo:Escudo do Deportivo Táchira.png|21px]] [[Deportivo Táchira Fútbol Club|Melhor time da Venezuela]]
+| align=center | 2–3
+| [[Club Libertad|Nova LDU]] [[Arquivo:Escudo do Libertad.png|21px]]
+| align=center | 1–0
+| align=center | 1–3
+|-
+| align=center |2 
+| align=right  | [[Arquivo:Escudo do Juan Aurich.png|21px]] [[Club Juan Aurich|Homem Peruano Descnonhecido]]
+| align=center | 4–1
+| [[Tecos Fútbol Club|Time Desconhecido Mexicano]] [[Arquivo:Doritos.jpg|21px]]
+| align=center | 2–0
+| align=center | 2–1
+|-
+| align=center |3 
+| align=right  | [[Arquivo:Maradonna.jpg|21px]] [[Club Atlético Colón|Mais outro time sem artigo]]
+| align=center | 5–5 (3-5)
+| [[Club Deportivo Universidad Católica|Universidad Macumbeira]] [[Arquivo:Escudo do Universidade Católica.png|10px]]
+| align=center | 3–2
+| align=center | 3–2
+|-
+| align=center |4
+| align=right  | [[Arquivo:Escudo do Real Potosí.png|21px]] [[Club Real Potosí|Paródia do Real]]
+| align=center | 1–8
+| [[Cruzeiro Esporte Clube|Marias]] [[Arquivo:Escudo do Cruzeiro.png|21px]] 
+| align=center | 1–1
+| align=center | 0–7
+|-
+| align=center |5 
+| align=right  | [[Arquivo:Escudo do Newell's Old Boys.png|21px]] [[Club Atlético Newell's Old Boys|Velhas Meninas do Newell's]]
+| align=center | 1–2
+| [[Club Sport Emelec|Desciclopédia FC]] [[Arquivo:Escudo do Emelec.png|21px]] 
+| align=center | 0–0
+| align=center | 1–2
+|-
+| align=center |6
+| align=right  | [[Arquivo:Escudo do Junior Barranquilla.png|21px]] [[Corporación Popular Deportiva Junior|Shakira,Shakira,Shakira!]]
+| align=center | 2–4
+| [[Racing Club de Avellaneda|Reza a lenda que sou grande]] [[Arquivo:Escudo do Racing.png|21px]] 
+| align=center | 2–2
+| align=center | 0–2
+|}
+
+== Grupo 1 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Globorinthias.jpg|20px]] [[Sport Club Corinthians Paulista|Mini-PCC]]
+|'''16'''||6||5||1||0||9||3||+6
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Racing.png|21px]] [[Racing Club de Avellaneda|Reza a lenda que sou grande]]
+|'''8'''||6||2||2||2||4||5||-1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Independiente de Medellin.jpeg|21px]] [[Corporación Deportiva Independiente Medellín|Dependente de Drogas]]
+|'''6'''||6||1||3||2||3||4||-1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Club Cerro Porteño.png|21px]] [[Club Cerro Porteño|Cavalinho Paraguaio]]
+|'''2'''||6||0||2||4||3||7||-4
+|}
+
+== Grupo 2 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:São paulo simbolo.png|21px]] [[São Paulo Futebol Clube|As meninas Super Poderosas]]
+|'''13'''||6||4||1||1||9||2||+7
+|-bgcolor=#FFFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Once Caldas.png|21px]] [[Corporación Deportiva Once Caldas|Super Onze]]
+|'''11'''||6||3||2||1||8||5||+3
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Monterrey.png|21px]] [[Club de Fútbol Monterrey|Botafogo Mexicano]]
+|'''6'''||6||1||3||2||5||8||-3
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Nacional do Paraguai.png|21px]] [[Club Nacional|Nacional de Amazonas]]
+|'''3'''||6||1||0||5||3||10||-7
+|}
+
+== Grupo 3 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Estudiantes de La Plata.png|21px]] [[Club Estudiantes de La Plata|I love Cruzeiro]]
+|'''13'''||6||4||1||1||11||5||+6
+|-bgcolor=#FFFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Alianza Lima.png|21px]] [[Club Alianza Lima|Traficantes Peruanos]]
+|'''12'''||6||4||0||2||12||7||+5
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Juan Aurich.png|21px]] [[Club Juan Aurich|Homem Peruano Desconhecido]]
+|'''6'''||6||2||0||4||7||13||-6
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Bolívar.png|21px]] [[Club Bolívar|Simon Bolívar]]
+|'''4'''||6||1||1||4||3||8||-5
+|}
+
+== Grupo 4 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Libertad.png|21px]] [[Club Libertad|Nova LDU]]
+|'''12'''||6||3||3||0||10||3||+7
+|-bgcolor=#FFFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Universitario.png|21px]] [[Club Universitario de Deportes|Zé Droguinha]]
+|'''10'''||6||2||4||0||5||2||+3
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Lanús.png|21px]] [[Club Atlético Lanús|Laaaaaaaaanús]]
+|'''8'''||6||2||2||2||6||6||0
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Blooming.png|21px]] [[Club Social, Cultural y Deportivo Blooming|Padaria Blooming]]
+|'''1'''||6||0||1||5||3||13||-10
+|}
+
+== Grupo 5 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Internacional.png|21px]] [[Sport Club Internacional|Regional]]
+|'''12'''||6||3||3||0||8||2||+6
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Deportivo Quito.png|21px]] [[Sociedad Deportivo Quito|Queria ser uma LDU]] 
+|'''10'''||6||3||1||2||5||7||-2
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Cerro.png|21px]] [[Club Atlético Cerro|Sim, eu existo]]
+|'''8'''||6||2||2||2||5||5||0
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Emelec.png|21px]] [[Club Sport Emelec|Desciclopédia FC]] 
+|'''2'''||6||0||2||4||2||6||-4
+|}
+
+== Grupo 6 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Nacional do Uruguai.png|21px]] [[Club Nacional de Football|Municipal de Cisplatina]]
+|'''13'''||6||4||1||1||9||2||+7
+|-bgcolor=#FFFFCC
+|style="text-align:left;"|[[Arquivo:Caixa economica.jpg|21px]] [[Club Atlético Banfield|Curitiba da Argentina]]
+|'''11'''||6||3||2||1||8||5||+3
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Monarcas Morelia.png|21px]] [[Club Atlético Monarcas Morelia|Ponte Preta Mexicana]]
+|'''6'''||6||1||3||2||5||8||-3
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Televisao.jpg|21px]] [[Club Deportivo Cuenca|Cuecas Equatorianas]]
+|'''3'''||6||1||0||5||3||10||-7
+|}
+
+== Grupo 7 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Vélez Sársfield.png|21px]] [[Club Atlético Vélez Sársfield|Fortinhos]]
+|'''13'''||6||4||1||1||10||5||+5
+|-bgcolor=#FFFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Cruzeiro.png|21px]] [[Cruzeiro Esporte Clube|Maria Terremoto]]
+|'''11'''||6||3||2||1||12||6||+6
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Colo-colo.gif|21px]] [[Club Social y Deportivo Colo-Colo|Culo Culo]]
+|'''8'''||6||2||2||2||8||10||-2
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:447997575 2f099e3f32 o.jpg|21px]] [[Petare Fútbol Club|Mais um time merda]]
+|'''1'''||6||0||1||5||4||13||-9
+|}
+
+== Grupo 8 ==
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Universidad de Chile.png|21px]] [[Club Universidad de Chile|Red Hot Chili Peppers]]
+|'''12'''||6||3||3||0||10||6||+4
+|-bgcolor=#FFFFCC
+|style="text-align:left;"|[[Arquivo:FLA GLS.jpg|21px]] [[Clube de Regatas do Flamengo|TV Globo]]
+|'''10'''||6||3||1||2||11||9||+2
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Universidade Católica.png|10px]] [[Club Deportivo Universidad Católica|Universidad Macumbeira]]
+|'''7'''||6||1||4||1||5||5||0
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Caracas.png|21px]] [[Caracas Fútbol Club|Revolucionários]]
+|'''2'''||6||0||2||4||5||11||-6
+|}
+
+== Oitavas de final ==
+[[Arquivo:Torcedores do Flamengo e Corinthians indo para o estadio.jpg|250px|thumb|right|Torcedores do Flamengo e Corinthians encaminhando-se para o Maracanã.]]
+
+A melhor Libertadores de todos os tempos para a [[Televisa]] já tinha decepcionado muito com o fato do América do Mexico (Uma espécie de Flamengo do Mexico, só que mais violento) não ter participado, e como nenhum time mexicano conseguiu se classificar para o mata-mata sem [[Fluminense|Tapetão]], somente o Chivas Guadalajara não passou vergonha e garantiu mais lucros para o [[Seu Barriga]] ,pois o também favorecido San Luís apanhou que nem [[puta]] para [[Club Estudiantes de La Plata|certos Argentinos que adoram BH]].
+
+Enquanto isso a [[Globo]] e a [[Band]] passavam uma crise com seus principais <s>Filhos</s> times fazendo uma partidas entediantes. Com o Flamengo ganhando o primeiro jogo graças a confusão do Juiz, que não sabia para quem roubar e deu um pênalti para o Flamengo com medo de ser morto pela torcida .Já no segundo jogo, o Corinthians marcou logo dois gols ,um contra e o outro ilegal ,mas o Flamengo conseguiu se classificar graças a lendária defesa do Corinthians que não viu o Vagner Love na área que marcaria o gol .Eliminando o Corinthians graças a o gol fora .
+
+Enquanto isso, o [[Internacional|Futuro Campeão]] quase ficou por aqui mesmo, já que sofreu para o temido [[Banfield]], apanhando de 3 a 1 na Argentina, sendo que o gol que maracaram foi cagado pra cacete, mesmo assim seria o gol da classificação, já que no segundo jogo o Internacional só marcaria dois gols e passou de fase pelo gol fora.
+
+O Cruzeiro estupraria o Nacional dentro de casa e fora dela. E o São Paulo após dois 0 a 0 contra o majestoso e grandioso [[Club Universitario de Deportes|Universitário]] do Peru, passou no pênaltis em casa para evitar seu vexame.
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Escudo Chivas.jpg|21px]] '''[[Club Deportivo Guadalajara|Drogas Guadalajara]]'''
+| align=center | 3-2
+| [[Club Atlético Vélez Sársfield|Fortinhos]] [[Arquivo:Escudo do Vélez Sársfield.png|21px]]
+|align=center  | 3-0
+|align=center  | 0-2
+|-
+| align=center |2
+| align=right  | [[Arquivo:Escudo do Once Caldas.png|21px]] [[Corporación Deportiva Once Caldas|Super Onze]]
+| align=center | 1-2
+| '''[[Club Libertad|Nova LDU]]''' [[Arquivo:Escudo do Libertad.png|21px]]
+| align=center | 0-0
+| align=center | 1-2
+|-
+| align=center |3
+| align=right  | [[Arquivo:FLA GLS.jpg|21px]] '''[[Clube de Regatas do Flamengo|TV Globo]]'''
+| align=center | <sup>(gf)</sup> 2-2
+| [[Sport Club Corinthians Paulista|Mini-PCC]] [[Arquivo:Globorinthias.jpg|20px]]
+| align=center | 1-0
+| align=center | 1-2
+|-
+| align=center |4
+| align=right  | [[Arquivo:Escudo do Alianza Lima.png|21px]] [[Club Alianza Lima|Traficantes Peruanos]]
+| align=center | 2-3
+| '''[[Club Universidad de Chile|Red Hot Chili Peppers]]''' [[Arquivo:Escudo do Universidad de Chile.png|21px]]
+| align=center | 0-1
+| align=center | 2-2
+|-
+| align=center |5
+| align=right  | [[Arquivo:Caixa economica.jpg|21px]] [[Club Atlético Banfield|Curitiba da Argentina]]
+| align=center | 3-3 <sup>(gf)</sup>
+| '''[[Sport Club Internacional|Regional]]''' [[Arquivo:Escudo do Internacional.png|21px]]
+| align=center | 3-1
+| align=center | 0-2
+|-
+| align=center |6
+| align=right  | [[Arquivo:Speedy González.jpg|21px]] [[San Luis Fútbol Club|Inútil]]
+| align=center | 1-4
+| '''[[Club Estudiantes de La Plata|I love Cruzeiro]]''' [[Arquivo:Escudo do Estudiantes de La Plata.png|21px]]
+| align=center | 0-1
+| align=center | 1-3
+|-
+| align=center |7
+| align=right  | [[Arquivo:Escudo do Cruzeiro.png|21px]] '''[[Cruzeiro Esporte Clube|Maria Terremoto]]'''
+| align=center | 6-1
+| [[Club Nacional de Football|Municipal de Cisplatina]] [[Arquivo:Escudo do Nacional do Uruguai.png|21px]]
+| align=center | 3-1
+| align=center | 3-0
+|-
+| align=center |8
+| align=right  | [[Arquivo:Escudo do Universitario.png|21px]] [[Club Universitario de Deportes|Zé Droguinha]]
+| align=center | 0 (1)-(3) 0
+| '''[[São Paulo Futebol Clube|As Meninas Superpoderosas]]''' [[Arquivo:São paulo simbolo.png|21px]]
+| align=center | 0-0
+| align=center | 0-0
+|}
+
+== Quartas de final ==
+[[Arquivo:Jogador do Flamengo Transtornado.jpg|250px|thumb|left|{{C|Levanta cara, você deu seu melhor.|Jogador do Flamengo animando seu [[Juiz|amigo]] transtornado com a derrota}}]]
+
+Nas quartas de final da Libertadores, havia uma pequena chance de dar uma final brasileira, mas como dependia do Flamengo deu errado, já que nem na semifinal ele chegou.
+
+No primeiro jogo, a Universidad de Chile deu uma chinelada no Flamengo em pleno Maracanã, um 3 x 2 que deixou Vascaínos, tricolores e até alguns botafoguenses em êxtase. Porém no segundo jogo o Flamengo conseguiu com bicicleta de [[Adriano Imperador|Adriano]] e uma cabeçada cagada de [[Vagner Love]] marcar um gol, mas em resposta Montillo deu um chutão que cobriu toda a [[Ironia|lendária]] defesa do Flamengo marcando um gol. No finalzinho o Flamengo ainda marcaria um gol, mas ainda sim foi mais uma vez eliminado da Libertadores.
+
+Enquanto o Internacional se fodia para vencer do Estudiantes, já que no Beira Rio estava apanhando horrores até marcar um gol no finalzinho de sorondo, e de cabeça ainda. Já no segundo jogo foi onde o Internacional realmente apanhou, tomou 2 a 0 já no ínicio até que de novo que nem a Inglaterra, venceu no finalzinho, com um gol cagado e se classificando.
+
+E o único brasileiro que passou com dignidade foi o [[São Paulo FC|São Paulo]], que em uma suruba com o Cruzeiro deixou ele de quatro é o consagrou como freguês favorito. 
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Escudo Chivas.jpg|21px]] '''[[Chivas Guadalajara|Drogas Guadalajara]]'''
+| align=center | 3-2
+| [[Libertad|Nova LDU]] [[Arquivo:Escudo do Libertad.png|21px]]
+|align=center  | 3-0
+|align=center  | 0-2
+|-
+| align=center |2
+| align=right  | [[Arquivo:FLA GLS.jpg|21px]] [[Flamengo|TV Globo]]
+| align=center | 4-4 (gf)
+| '''[[Universidad de Chile|Red Hot Chili Peppers]]''' [[Arquivo:Escudo do Universidad de Chile.png|21px]]
+| align=center | 2-3
+| align=center | 2-1
+|-
+| align=center |3
+| align=right  | [[Arquivo:Escudo do Internacional.png|21px]] '''[[Internacional|Regional]]'''
+| align=center | (gf) 2-2
+| [[Estudiantes|I Love Cruzeiro]] [[Arquivo:Escudo do Estudiantes de La Plata.png|21px]]
+| align=center | 1-0
+| align=center | 1-2
+|-
+| align=center |4
+| align=right  | [[Arquivo:Escudo do Cruzeiro.png|21px]] [[Cruzeiro EC|Maria Terremoto]]
+| align=center | 0-4
+| '''[[São Paulo FC|As Meninas Superpoderosas]]''' [[Arquivo:São paulo simbolo.png|21px]]
+| align=center | 0-2
+| align=center | 0-2
+|}
+
+== Semifinal ==
+
+E pela terceira vez consecutiva em 3 jogos, o Internacionautico passou de fase pelo critério de gols fora e se classificou para o Mundial de Clubes sem nem disputar a final, já que a CONMEBOL disse que não queria passar H1N1 para o mundo inteiro e [[Mentira|proibiu o Chivas Guadajara de disputar o Mundial]].
+
+No primeiro jogo foi um 1 a 0 entediante, sendo que o gol foi mais uma vez estranho. Já no Segundo jogo o São Paulo conseguiu abrir jogo, mas o Colorado reagiu com uma falta batida da puta que pariu que empatou o jogo, mas 2 minutos depois o São Paulo voltou a abrir vantagem, permanecnedo assim até o final.
+
+Enquanto o Chivas metia dois a zero [[Universidad de Chile|naquele time que eliminou o Flamengo]], achando que tinha conseguido um tapetão para o Mundial.
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Escudo Chivas.jpg|21px]] '''[[Chivas Guadalajara|Drogas Guadalajara]]'''
+| align=center | 3-1
+| [[Universidad de Chile|Red Hot Chili Peppers]] [[Arquivo:Escudo do Universidad de Chile.png|21px]]
+|align=center  | 1-1
+|align=center  | 2-0
+|-
+| align=center |2
+| align=right  | [[Arquivo:Escudo do Internacional.png|21px]] '''[[Internacional|Regional]]'''
+| align=center | (gf) 2-2
+| [[São Paulo FC|As Maeninas Superpoderosas]] [[Arquivo:São paulo simbolo.png|21px]]
+| align=center | 1-0
+| align=center | 1-2
+|}
+
+== Final ==
+[[Arquivo:Mazembekidiaba.gif|left|150px|thumb|Motivo desse titúlo não ser tão comemorado pelo Colorados.]]
+Em 2010, houve a Grande final da Libertadores com um Mexicano de [[Fluminense|Tapetão]] e um Gaúcho com as calças podres de tanto cagar, o que terminou em treta, fazendo muitos sul-americanos chorar de emoção com uma representação em alto nível na final.
+
+O primeiro jogo foi no ''Merricó'', com o Chivas Guadalajara abrindo o jogo só no final do 1º tempo, e ainda conseguiu tomar uma virada em sua casa para o glorioso Regional que finalmente fez um resultado que preste.
+
+Na decisão, de novo o Chivas só abriu o jogo no final do 1º tempo. Para de novo tomar uma virada para o Regional, só que agora de 3 a 1 com direito a Giulianno driblando geral, o Chivas ainda deu um gol de honra, mas para o desespero dos gremistas o Internacional se sagrou Bi-campeão da Libertadores .Não que isso fosse grande coisa, já que o [[Mundial de Clubes da FIFA de 2010|Mundial de Clubes de 2010]] não trouxe [[TP Mazembe|boas lembranças]].
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 ||align=center width="80"| Ida ||align=center width="80"| Volta
+|-
+| align=center |1
+| align=right  | [[Arquivo:Escudo Chivas.jpg|21px]] [[Chivas Guadalajara|Drogas Guadalajara]]
+| align=center | 3-5
+| '''[[Internacional|Regional]]''' [[Arquivo:Escudo do Internacional.png|21px]]
+|align=center  | 1-2
+|align=center  | 2-3
+|}
+
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Copa Libertadores da América de 2010<br/>
+|-
+![[Arquivo:Escudo do Internacional.png|border|100px]]
+|-
+|align=center|'''[[Internacional|Regional]]'''<br />
+(2° título)<br />
+|}
+
+== Ver também ==
+[[Arquivo:Mazembekidiaba.gif|right|150px]]
+*[[Kidiaba]]
+*[[TP Mazembe]]
+*[[Inter de Milão]]
+*[[Mundial de Clubes da FIFA de 2010]]
+
+{{Libertadores}}

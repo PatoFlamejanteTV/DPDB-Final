@@ -1,0 +1,55 @@
+{{agua}}
+{{taxocaixa
+| cor             = pink
+| nome            = Lo-fi peixes 
+| imagem          = Morador da fenda da pedra.jpg
+| imagem_legenda  = Uma conversa entre um Lophiiformes e um [[Porifera|Porífero]].
+| reino           = [[Animalia]]
+| filo            = [[Chordata]]
+| classe          = [[Actinopterygii]] <br>(estranho né?)
+| ordem           = [[Lophiiformes|Luz e formas]]
+}}
+
+Há lugares como o subsolo e o [[fundo do mar]] que são tão escuros e inóspitos que de lá surgem criaturas que parecem [[O Enigma de Outro Mundo]], por exemplo no subsolo a gente encontra a tremenda [[Toupeira-nariz-de-estrela]], onde pela falta de luz ela ficou cega, já no fundo do mar podemos encontrar os '''Lophiiformes''', seres medonhos que pela falta completa de luz eles mesmo criam sua luz e por serem peixes, não possuem [[pálpebra]]s, ou seja, eles dormem até de olho aberto, prontos pro combate.
+
+== Anatomia ==
+[[Arquivo:Peixe abissal nemo.jpg|thumb|left|250px|Famosa representação de um Lophiiforme.]]
+A anatomia desta ordem única de peixes é bem interessante, já que é um peixe carnívoro do fundo do mar ([[Testículo|onde o sol não bate]]), ele precisa por uma lanterninha na cabeça e sair por aí caçando o que comer.
+
+Então fora as características de peixes "normais" (nenhum [[peixe]] é normal), que é brânquias e nadadeiras, o bicho tem [[dente]]s pontudos e um negócio na cabeça cheia de bactérias que ele balança e atrai qualquer tipo de [[peixe-palhaço]] e [[bob esponja|esponjas]] fora de seu habitat natural. 
+
+Os Lophiiformes no fim das contas são um bando de [[gótico]]s esquisitos, que vivem no escuro, passam lápis no olho e tem os dentes tudo meio podre. Tudo bem que tem uns também que não passam de uns [[emo]]s coloridos, ao estilo [[Restart]] que fica brilhando no escuro, mesmo assim sendo um bando de esquisitos. 
+
+Verdadeiras aberrações da natureza! Que aparecem no episodio [[Fenda da Pedra]] do Bob Esponja, ali tu descobre o que é um Lophiiforme. 
+
+== Principais espécies ==
+[[Arquivo:Lofiformes.jpg|thumb|250px|Algumas espécimes tem o [[pânceps]] avantajado.]]
+'''<font color=red>AVISO!!!</font>''' Não estranhe o fato dos bichos se chamarem em sua maioria diabos, sapos e [[morcego]]s. Essa ordem só tem peixes do [[demônio]] mesmo!
+
+*'''Peixe-diabo-preto''' ''([[Melanocetus johnsonii]])''
+*'''Peixe-morcego:''' ''([[Ogcocephalus vespertilio]])''
+*'''Peixe-sapo:'''  ''([[Lophius piscatorius]])''
+*'''Diabos-do-mar-barbudos''' ''([[Linophryne lucifer]])''
+
+== Taxonomia ==
+{{Clado
+|clado1     = Subordens
+|preposição = à
+|clado2     = ordem Lophiiformes
+|texto      = Os Lophiiformes são animais, até aí sem surpresa... ora são peixes porraaaaa!!! Tu queria o que? Que fossem [[vegetal|vegetais]]? Mas aí que vem a brincadeira, pois além de animais peixeiros, ele está dentro daquela classe dos [[Actinopterygii]] (sei lá que porra de nome é esse). Essa classe são dos peixes que não dá para gente comer, o que faz sentido realmente não dá para se comer um Lophiiformes, mesmo com [[limão]], não dá! Até porque não dá para pescar ele há 300 km de profundidade e o gosto disso deve ser horrível! Mas junto a isso se diferenciam por suas capacidades de brilhar no [[escuro]].  
+|lista      = 
+*[[Lophioidei]]: Tamboril
+*[[Antennarioidei]]: Peixes-sapo
+*[[Chaunacoidei]]: Sapo-do-mar (de novo sapo?)
+*[[Ogcocephaloidei]]: Peixes-morcego
+*[[Ceratioidei]]: Peixes com luzinha na cabeça
+}}
+
+== Ver também ==
+*[[Fenda da Pedra]]
+*[[Fundo do mar]]
+*[[Procurando Nemo]]
+
+[[Categoria:Peixes]]
+[[Categoria:Actinopterygii]]
+[[Categoria:Lophiiformes|*]]

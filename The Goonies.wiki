@@ -1,0 +1,50 @@
+{{game}}
+
+{{Infobox Game
+|title     = {{PAGENAME}}
+|image     = GooniesFamicom.jpg
+|caption   = Em busca das crianças <s>estrupadas</s> perdidas.
+|developer = [[Konami|<font color=silver>'''''KONMAI'''''</font>]]
+|publisher = [[Konami|<font color=silver>'''''KONMAI'''''</font>]]
+|released  = [[1986]]
+|genre     = {{ACT}}
+|rating    = 0%
+|platform  = [[MSX]], [[Famicom]], [[Famicom Disk System|FDS]] e Sharp X1
+|ages      = Livre
+}}
+
+{{vqd|Game de plataforma comum}}
+{{vqd|Cameo do Konami Man?}}
+{{c|Esse carinha vai aprontar altas e boas com o resgate das crianças, porém, alguns monstros irão atrapalhar nosso camarada, causando o game em uma pura confusão!|Narrador da Sessão da Tarde|{{PAGENAME}}}}
+
+'''The Goonies''' foi um game existente e apenas Made in [[Nippon]] próprio do [[Os Goonies|filme original]]. Feito em [[1986]], pela [[Konami|Konmai]].
+
+==O game==
+
+Não precisa escrever [[merda]] de [[história]], já que é a mesma [[porra]] do filme. O game deve controlar Mikey, [[protagonista]] do filme Goonies (ambos I e II) no qual deve atacar [[rato]]s e outras [[praga]]s na [[porrada]]. Porém, como o game teve várias versões, vamos primeiramente na mais "vovô" que é a de:
+
+===[[MSX]]===
+
+[[Arquivo:MikeyVicViper.png|left|thumb|Olha como ele é desastrado!]]
+
+Lançado no mesmo ano, com outras aberrações como [[Gradius 1|Nemesis]], [[Penguin Adventure]] e [[Majou Densetsu|Knightmare]]. O jogo não tinha vida, somente uma mísera barra de energia. Qualquer toquinho nos inimigos, já gastava 1/10 da barra. Como se não bastasse, o único meio de ataque de Mikey é socar (Um........) as caveiras. Porém, certos obstáculos, alguns da [[mãe]]-[[natureza]], outros de defeito, também tiram vida de Mikey, o [[gay]]. Um deles é a pedra que sobe e desce. Quando ela descer e esmagar Mikey, mesmo com a barra cheia, será "[[Game Over|Gueime Ovo]]". Uma porrada de portais existiam no game, fazendo com que ele fosse infinito.
+
+===[[Nintendinho|Famicom]] e Sharp X1===
+
+Bem mais melhor do que o Goonies do MSX, Mikey parece estar mais alto do que no MSX e em [[Wai Wai World]]. Ao [[som]] da [[música]] [[original]] do [[game]] (The Goonies 'R' Good Enough), o [[Gamer]] controla Mikey que solta [[chute]]s (não tão poderosos como o [[Roundhouse Kick]]) pra matar as [[peste]]s. Porém, alguns [[lugar]]es tem um [[estilingue]] com 50 [[pedra]]s (como que ele consegue carregar tudo no [[bolso]]???) pra atirar nos [[inimigo]]s. Claro, o perturbador ao longo do filme, Jake Fratelli, mata você a [[tiro]]s. Também pode ter [[bomba]]s, aonde serve pra explodir [[portão|portões]] ou foder inimigos. Porém, o [[Gay]] do Mikey só pode carregar uma por vez. Mikey deve coletar três [[chaves]], pra que assim, possa passar de fase. Todos os [[5|cinco]] goonies devem estar com Mikey, caso contrário, volta desde o início do game <s>PQP.....</s>.
+
+[[Arquivo:MikeyBomba.png|left|thumb|Mas como é [[burro]]... Você se [[Suicídio|suicidou!!!]]]]
+
+==[[Cu]]-riosidades==
+{{Trivia}}
+* A música tema do game foi usada em Pop n' Music 10. Lógicamente, é um remix da versão original (afinal, ninguém gostaria de ouvir a versão da música nos 8-bits, certo?);
+* Tem três items escondidos no game que dão 5.000 pontos: Konami Man (sempre ele...) Vic Viper (Gradius) e o [[TwinBee]];
+* Mikey apareceu pela ultima vez no game [[Wai Wai World]]. Nele, a ultima fase do game Goonies (aquele barco pirata lá) é aonde Mikey está aprisionado. Sua arma é o próprio estilingue, que gasta uma bala do counter.
+
+{{Plataforma}}
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para MSX]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Famicom Disk System]]
+[[Categoria:Jogos lançados em 1986]]

@@ -1,0 +1,28 @@
+[[arquivo:Rhombus.png|thumb|220px|Um [[losango]] posando como se fosse o [[diamante]] da geometria: quatro lados iguais, ângulos opostos iguais e ainda sobrando brilho pra ofuscar [[quadrado]]s sem graça]]
+
+'''Losango''' é o [[quadrilátero]] com quatro lados iguais que acha que é [[círculo]] disfarçado tipo [[pipas]] de criança ou [[diamante]] de baralho. [[Regular]] quando todos os lados batem e ângulos opostos são iguais (agudo e obtuso se alternando). Área? Base × altura / 2 [[professor]] ama, [[aluno]] [[ignora]].
+
+==História Rápida==
+[[Euclides]] já desenhava losango em 300 a.C. pra [[provar]] que [[diagonal]]s se cruzam em 90°. [[Pipas]] chinesas popularizaram. [[Baralho]] usa como [[ouros]].
+
+==Cultura Pop==
+[[Pipa]]: losango voador [[criança]] [[chora]] quando cai.
+[[Diamante]]: losango lapidado [[noiva]] [[sonha]].
+[[Sinal]]: losango amarelo [[perigo]] na [[estrada]].
+
+==Curiosidades==
+[[Quadrado]] é losango especial [[troll]] geométrico.
+[[Diagonais]] perpendiculares [[pipas]] [[voam]] por isso.
+[[Papel]] losangular? [[origami]] [[difícil]].
+
+{| class="wikitable"
+! Tipo || Ângulos
+|-
+| [[Losango]] || 2 agudos, 2 obtusos
+|-
+| [[Quadrado]] || 4 retos
+|-
+| [[Retângulo]] || Não losango ([[troll]])
+|}
+
+{{Predefinição:Formas geométricas}}

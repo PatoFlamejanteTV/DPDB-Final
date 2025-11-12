@@ -1,0 +1,209 @@
+{{melhores}}
+{{física}}
+{{ciencia}}
+{{uncyclopedia|Murphy's law application for antigravitatory cats|Kohl}}
+[[Arquivo:cat toast swirl.gif|thumb|270px|A Física do dispositivo antigravitacional em ação.]]
+==Axiomas==
+*Lei de Murphy, Corolário de Finagle:
+
+:'''Se alguma coisa pode dar errado, ela dará'''
+
+Então,
+
+:'''Se você jogar uma fatia de [[pão]] com [[manteiga]] no [[ar]], ele sempre cairá com o lado da manteiga para baixo'''
+
+*Lei da conservação dos gatos:
+
+:'''Um [[gato]] sempre cairá sobre seus [[pés]].'''
+
+==Demonstração==
+Então, o que deveria acontecer se colocássemos uma fatia de pão com manteiga nas costas de um gato e o jogássemos ao ar? O gato, pela lei, deve aterrissar de pé, mas a torrada (por lei também), deve cair com o lado amanteigado no chão.
+Contra esse problema das leis da física a natureza escolheu a melhor (e mais preguiçosa) solução: 
+
+:''o gato deve apenas '''não cair'''''.
+
+[[Arquivo:Model.gif|thumb|left|Modelo avançado do computador que descreve a física de um dispositivo do gato-torrada.]]
+
+O gato com a torrada uma vez livre no ar flutuará com o ponto de equilíbrio gato-torrada, onde as forças de repulsão da manteiga e do gato estão em balanço. Este ponto pode ser ajustado removendo ou adicionando um pouco de manteiga da torrada, ou cortando alguns pelos (ou bigodes) do gato. Em teoria, isto causará o retorno estacionário do gato, entretanto, na realidade, devido à variada natureza da gravidade e o perfil não-uniforme da [[Terra]], o gato irá simplesmente girar em volta de seu centro de gravidade a uma velocidade crescente.
+
+De fato, as espécies mais civilizadas do [[universo]] já usam este princípio para construir seus [[OVNI]]s. Então, o zumbido que [[você]] ouve quando vê um OVNI é o ronronar dos gatos.
+
+=== Física ===
+O diagrama abaixo mostra que '''F<sub>BT</sub>''' é a força exercida pela manteiga quando cai, e '''F<sub>C</sub>''' são as [[força]]s exercidas pelos pés do gato. A seguinte equação:
+
+<math>\mathbf{F_{total}} = 3^k \sqrt{\mu\,\,(F_{BT}\cos\theta\,\, - 4F_C\sin\theta\,\,)}</math>
+
+
+Usando Θ = π + 3μ√2 nos dá o resultado:
+
+
+<math>\lim_{k \to \infty}F(k) = 0</math>
+
+
+O gato desafia a gravidade.
+
+{{c|O gato voa e pronto.|Aluno qualquer|Gato Antigravitacional}}
+
+Correção do nerd chato: a citação acima só é válida para valores de k no universo dos negativos, ou seja, para k < 0 o gato desafia a gravidade. Para valores de k maiores ou iguais a zero, o gato ganha uma propulsão infinita! As interações quânticas do sistema manteiga-pão-gato baseadas nos axiomas anteriores criam um moto-perpétuo e mostram que Murphy prova que toda a física clássica está ERRADA. FAIL.
+
+=== Propulsão ===
+[[Arquivo:Flying cat.jpg|thumb|right|[[Wagner|"Duhn-duh-duh-DUH-DUH! Duhn-duh-duh-DUH-DUH!"]]]]
+
+Para que o gato, em estado de equilíbrio, escape de sua inércia, algo ou alguém deve adicionar um dispositivo de propulsão. O item necessário consiste em Durex (e se possível,  algum objeto como uma tampa de garrafa). Quando o durex é colado no rabo do gato, o mesmo se sente compelido a escapar da anomalia causada pela disrupção da dinâmica de sua cauda. Mais além, o gato entra em um estado acelerado em uma direção diamétrica à do durex.
+
+Teoricamente se alguém acrescentasse, depois, um pedaço de barbante ao durex, teríamos um mecanismo de controle direcional, entretanto esta teoria ainda não foi testada - e um [[atum]] suspenso bem-posicionado seria suficiente.
+
+Já foi sugerido que se enrolássemos o gato com fios de cobre isolados e cobríssemos o local de pouso dele com ímãs, o gato e a torrada se transformariam em um gerador de energia.  É claro que estes efeitos só durariam enquanto durasse a vida do gato.  Assim que o gato morre, a torrada vence.  A vida do gato poderia ser teoricamente estendida se colocássemos o local de pouso dentro de uma caixa contendo uma fonte de radiação, e fechando esta caixa assim que o gato estivesse dentro em segurança — graças à lei das possibilidades quânticas, [[Gato de Schrödinger|o gato estaria simultaneamente morto e vivo]].  Se a caixa nunca for aberta, o estado quântico do gato definido como vivo continua a fazer o gato e a torrada girarem, gerando eletricidade por toda a eternidade.
+
+Segue a fórmula:
+: <math>\int\mathrm{arsech}\,\frac{x}{c}\,dx = x\,\mathrm{arsech}\,\frac{x}{c} - c\,\mathrm{arctan}\,\frac{x\,\sqrt{\frac{c - x}{c + x}}}{x - c} \qquad\mbox{(for } x \in (0,\,c) \mbox{)}</math>
+
+=== Usos alternativos ===
+Um uso alternativo muito bem conhecido para a combinação gato-torrada é a base para o trem flutuante de alta velocidade. 
+
+O trem de [[Hogwarts]] dispõe deste tipo de aplicação, sendo inverídico afirmar que o mesmo flutua por mágica.
+
+Para fins de ajudar esta explicação, a combinação de 1 gato e 1 pedaço de torrada amanteigada (como mostrado no esquema abaixo) será citado como um "flutuador". 
+
+Enquanto o sistema gato-torrada está flutuando em meio ao ar pode ser utilizado dos seguintes modos:
+
+Um número de flutuadores podem ser amarrados de modo a formar uma espécie de balsa flutuante (se tivessem usado essa combinação no filme 2012 iam salvar gente pra caralho e bem mais barato) . Se um tapete (de preferência um tapete persa) é aberto sobre eles, temos o chamado tapete-mágico.
+
+Se mais flutuadores forem usados, em uma quantidade maior (do tamanho de um carro, aproximadamente), eles podem ser instalados em um trem, formando um componente-chave de um trem flutuante. Um número maior de componentes-chave podem ser utilizados juntos, dependendo do tamanho do trem a ser utilizado. O trem será capaz de percorrer altíssimas velocidades sem ter qualquer problema de fricção a enfrentar.
+
+Um número de aproximadamente mil flutuadores amarrados a um padre podem ser capazes de percorrer a distância equivalente a da cidade de Paranaguá (PR) até a cidade de Dourados (MS), porém aconselha-se que o clérigo utilizado no experimento saiba operar um GPS.
+
+Esta propriedade de rotação dos gatos é atualmente utilizada principalmente por viciados em [[Cheiramento de gatinhos]] para adicionar algo a mais na experiência. Ao adicionar pão com manteiga aos gatinhos, o gato flutua e gira em torno de si mesmo. Este método é chamado de Cheiramento Flutuante e é somente recomendado para os <s>emos</s> cheiradores experientes, já que resulta em uma sensação profunda de desorientação (NÃO FAÇA ISSO COM OS LARANJAS).
+
+== Dispositivo Anti-Gravitacional Felino de Oscar Wilde ==
+[[Arquivo:Crecimento da velocidade do Gato Torrada em Gráficos Altamente Avaçando.PNG|Crecimento da velocidade do Gato Torrada em gráficos altamente avançados.]]
+
+[[Arquivo:Cat toast.JPG|frame|Esquema do diagrama da teoria antigravitacional felino.]]
+
+O '''Dispositivo Anti-Gravitacional Felino''' é o gerador de [[energia]] infinita que alimenta a [[Desciclopédia]] (Também conhecido como "A Turbina Gato-Amanteigada").
+
+O dispositivo é composto por duas substâncias puras:
+* [[Gatos]] - Pequenos mamiferos que sempre caem sobre seus pés.
+* [[Pão com Manteiga]] - <s>Comida de pobre</s> Delicioso café-da-manhã que cai sempre com o lado da manteiga virado pra baixo.
+
+[[Oscar Wilde]], sempre alguém a encontrar brechas nas leis da mecânica quântica, encontrou um modo de utilizar o a energia potencial infinita do Dispositivo Anti-Gravitacional Felino para energizar sua [[Desciclopédia]]. Esta descoberta questionou qualquer coisa que o Experimento de Schroedinger tinha realizado antes, que na verdade era quase nada.
+
+Todos os rumores sobre a [[Desciclopédia]] ser energizada por um [[Churrasco Grego]] ou por [[Pinga]] são totalmente sem base. Isto, logicamente, os torna verdadeiros.
+
+O Dispositivo Gato-Torrada será usado, um dia, na construção do 42º Reich. Poderá ser usado também para criar gravidade artificial em estações espaciais, naves espaciais, [[McDonald's]] espaciais, etc.
+
+=== História ===
+Em [[1977]]D.C, [[Oscar Wilde]], depois de tentar fazer duas mulheres [[bissexuais]] ficarem no mesmo lugar ao mesmo tempo, teve a ideia de amarrar [[torradas com manteiga]] no rabo de um [[gato]] e jogá-lo do topo da [[Torre de Pisa]] para ver o resultado. O híbrido de gato-torrada caiu seguindo a constante aceleração da gravidade até parar perto do chão, flutuando. As duas substâncias queriam atingir o chão ao mesmo tempo, cancelando uma a outra. Wilde foi então, a primeira pessoa a presenciar o efeito da 'percatual motion', uma forma particular de movimento perpétuo, o processo de extrair quantidades ilimitadas de energia de um [[Lula|animal doméstico]]. [[Oscar Wilde]], que sempre nota violações nas leis da física quântica, encontrou uma maneira de explorar o potencial infinito de energia de sua criação, o gato-torrada, a favor da [[Desciclopedia]]. Esta experiência removeu todo o crédito que a experiência felina de Schroedinger tinha originalmente, o que de fato não era grande coisa. Todos os rumores de que a [[Desciclopedia]] era sustentada por um dispositivo [[Stormtroopers vs. Red Shirts]] ou por [[energia eólica]] são completamente infundados. Isso, obiviamente, os torna verdadeiros, mas não absolutos.
+
+=== A proposta do gato-torrada inverso ===
+Alguns mecânicos quânticos sugeriram que o inverso do Gato-Torrada seria possível. O inverso consistiria em uma torrada colada no ''lado com manteiga'' -em cima do estômago do gato. O gato tentaria aterrissar em sua patas, mas o lado sem manteiga da torrada iria prevenir isto. Do mesmo modo, o lado com manteiga da torrada iria querer aterrissar, mas as costas do gato não poderiam tocar o chão. Porém, enquanto isto iria aparentement ter o mesmo efeito de um aparelho gato-torrada comum, ele na verdade iria causar um efeito diferente, onde o gato e a torrada seriam esmagados na singularidade. Isso iria ocorrer porque, ao contrário do aparelho original, ond o gato e a torrada se repeliam, O gato-torrada inverso atrai esses dois objetos. Isso amassaria o gato e a torrada em um pequeno pedaço de matéria, parecido com um buraco negro. O gato, porém, logo escaparia devido a suas sete vidas (que são reabasticidas durante esta discrepância quântica) e a torrada seria fritada pelo intenso calor liberado durante o processo de compressão.
+
+=== Outros usos ===
+Existem cerca de [[6]] modos de usar este aparelho, que envolvem colar diferentes partes do gato à torrada.
+*Se [[você]] colar o lado com manteiga no ápice do gato, você criará um aparelho que bate no chão o mais [[Rugal|forte]] e [[Rugal|rápido]] possível.
+*Se você colar o lado sem manteiga nas patas do gato, ele irá se virar rápidamente e agir do mesmo jeito que no caso anterior. Esse aparelho não pode ser desativado, e por isso é muito útil para escavações e construções.
+*Se você colar o lado com manteiga na lateral do gato, ele irá cair em forma de V, rachando a terra e permitindo que vários [[Adolf Hitler|demônios]] escapem, e "Lá vamos nós outra vez!"
+*Se você colar o lado com manteiga nas patas do gato, elas irão cair na direção da outra, criando um buraco negro que destruíra completamente o universo.
+*Se o gato comer a torrada o gato irá se contorcer de dentro para fora, fazendo a torrada atingir o chão e então repitirá o processo para que seus pés atingam o chão, e depois repetirá o processo novamente, etc.
+
+Existem diversas outras combinações, e nós da Desciclopédia o aconselhamos a tentar descobri-las.
+
+== Contra-teorias ==
+[[Arquivo:Gato Flutuante.jpg|thumb|Explicação científica que comprova a aplicação da Lei de Murphy ...em felinos]]
+
+Alguns [[Cientologia|cientologistas]] acham que criar gatos antigravitacionais é virtualmente impossível. Eles demonstraram isso com um experimento.
+
+:'''Para fazer este experimento você precisa de:'''
+
+* Uma [[torrada]]
+* [[Manteiga]]
+* Algum [[cola|dispositivo grudante]]
+* Um [[gato]] ou um [[gatinho]] embora gatinhos são menos efetivos...
+
+:(E é um disperdício usá-los para fins que não sejam o [[cheiramento de gatinhos]]).
+
+Vamos supor que você está pronto. Tente por o gato e o dispositivo grudento juntos. Viu o que acontece?
+Exatamente!
+'''Não há gato!'''
+
+Quando o dispositivo grudento e o gato estão no mesmo local tetradimensional, o gato some. A comparação com o [[Gato de Schrödinger]] é obvia, mas ao contrário deste infame morto-vivo, não há nenhuma explicação plausível para o desaparecimento do gato.
+
+Mais existem diversas teorias para explicar esse fato:
+
+=== Primeira teoria ===
+Um gato é composto por partículas chamadas "superquarks" (também chamados de "miaus"). Esses superquarks demonstram qualidades atômicas (eles são feitos de [[quarks]] normais) e felinas (estes quarks tem características charmosas). Mas, o dispositivo grudento não é feito de superquarks, então quando o gato e a cola são colocados justos, eles se cancelam. Esta teoria, porém, não explica por que o gato é quem some, e não o dispositivo grudento.
+
+=== Segunda teoria ===
+Gatos são criaturas inteligentes, pandimensionais. Então, '''''quando eles sentem o perigo, eles começam a [[ronronar]] e viajam para sua dimensão original'''''. O motivo pelo qual os gatos ficam nesta dimensão é que aqui eles acham [[comida]] e pessoas [[Americanos|idiotas]] o suficiente para alimentá-los.
+
+=== Terceira teoria ===
+O gato corre, arranhando o [[idiota]] que tentou pôr [[cola]] nele. (Muitos teóricos desconsideram esta teoria, por considerarem-na "pretensiosa".)
+
+=== Quarta teoria ===
+O gato e a torrada giram em torno de si tão rapidamente que criam um [[buraco negro]] e as pessoas e objetos a sua volta são sugados para a rotatória mistura de gato com torrada. Evidentemente todo o planeta é sugado e todos saberiam a resposta para pergunta, porém ninguém poderia fazer nada com tal conhecimento recém-adquirido.
+
+=== Quinta teoria ===
+Lei de Murphy: se algo pode dar errado, com certeza dará errado. Dessa maneira, algo vai dar errado nessa teoria do gato. Depois disso, algo irá dar errado na Lei de Murphy, e consequentemente a teoria do gato não terá base e alguém irá descartá-la. No entanto, algo acabará dando errado no processo de desacreditá-la. Dessa forma, a teoria do gato não será provada como incorreta, e se baseando na Lei de Murphy, será considerada correta novamente. De tal maneira, algo dará errado nessa teoria do gato. Depois disso, algo dará errado na Lei de Murphy, e dessa maneira segue-se ''Ad nauseam'' e ''Ad Infinitum''.
+
+Isso causa um ciclo infinito da teoria ser viável e inviável, e isso significa que o gato será arremessado contra o chão em uma frequência <math>\nu</math>, a qual é proporcional a altamente reduzida massa de gordura da manteiga<math>\mu</math>. De tal maneira, o gato é consequentemente espancado até a morte, porém se algo pode dar errado, com certeza dará (salvo exceções anteriormente explicadas). De tal maneira, algo dará errado na minha teoria do gato e então na Lei de Murphy. 
+
+Isso não faz sentido! Eu vou ficar louco!
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!
+
+=== Sexta teoria ===
+A manteiga COME o gato, se você não alimentar a manteiga antes, é claro...
+
+=== Sétima teoria ===
+O gato e o dispositivo aderente irão efetivamente se unir, porém o gato gira em sua órbita tão rapidamente, devido a invariação do centro de gravidade que, de acordo com a teoria da viagem no tempo, ele volta no tempo rumo ao futuro.
+
+Tal fato induziu uma nova teoria, que afirma que no inicio dos tempos, havia um número infinito de gatos antigravitacionais, e isso consequentemente causou a criação do universo, devido as forças gravitacionais excessivas produzidas pelos gatos, causando o Big-Bang.
+
+No entanto, alguns cientologistas apontaram que já que o gato continuará a voltar no tempo, ele deixará de existir devido ao fato de que se algo voltar no tempo até o período anterior ao inicio dos tempos, ele deixará de existir nesta dimensão e será transportado a outra dimensão.
+
+=== Oitava teoria ===
+A manteiga desaparece, e o gato pousa sobre seus pés. A torrada, no entanto, acaba escorregando das costas do gato e caindo em um Táxi. Porque num Táxi? Porque de acordo com a Lei de Murphy, qualquer objeto que se soltar de um segundo objeto irá cair em um táxi em movimento. 
+Tal fato é responsável por ser a causa de grande perturbação a projetistas de coisas como foguetes de múltiplos estágios. Tipicamente, um número determinado de táxis devem ser colocados debaixo do caminho de voo do foguete como forma de evitar terríveis problemas nas regiões habitadas nas proximidades.
+
+=== Teoria M² ===
+Se alguém tenta prever o resultado do experimento idealizado, esse indivíduo precisa de uma teoria unificada de gatos e torradas com manteiga. A Teoria M, que originalmente era uma teoria de física quântica, é uma teoria que se adequou a tal necessidade. Infelizmente, a Teoria M requer que os gatos possuam 11 rabos para que ela possa funcionar. A Teoria M também requer que exista um cachorro especificamente batizado com nome similar a cada gato e vice versa (Exemplo: Se seu gato se chama Fluffy, então deve existir um cão chamado Fluffino). Embora ninguém nunca tenha ouvido falar de cães com nomes tão ridículos, teóricos-M afirmam que observaremos tais cães assim que um acelerador de captura de cães mais potente for desenvolvido. Quanto à questão dos 11 rabos de gato, bem... 10 deles são pequenos e enrolados ou algo assim... Ah, e o que ocorre com o gato e a torrada? Nós não conseguimos que a teoria produzisse uma solução de aspirador estável até o momento. É apenas uma questão de tempo, nos dê mais dinheiro.
+
+=== Última teoria ===
+Não é o gato e a manteiga que estão rotacionando, pois elas fornecem apenas energia, e essa energia é tão grande que faz o que está em volta girar.
+P.S.: Essa lei não se aplica a um Monstrão.
+
+=== A verdadeira teoria ===
+A verdadeira razão de porque isso não funciona é a de que a cola não está interagindo com o gato, mas sim com a torrada. Quando a cola é aplicada a torrada, as propriedades antigravitacionais da torrada são eliminadas, logo a Lei de Murphy perde sua validade. A torrada passa então a se submeter a Lei de Murphy reversa ("se algo bom pode acontecer, irá acontecer") causando o desaparecimento total do campo gravitacional intruso ou seja o gato. De acordo com a covariante de Lorentz, isso também resultará em algo ruim que não pode ocorrer em outro ponto do universo. [[Cientista louco|Cientistas loucos]] estão tentando desenvolver armas de destruição em massa baseando-se nesse princípio.
+
+=== Teoria P ===
+A teoria P (em homenagem ao seu criador) relaciona o efeito observado à [[bioquímica]] dos componentes envolvidos. Dr. P. descobriu acidentalmente.  que se colocasse em uma centrífuga de alta rotação um gato, um pão com manteiga e cola, e ligasse o aparelho, tudo se combinaria num fluido flutuante que pode ser armazenado e utilizado para fazer coisas flutuarem. 
+
+Na verdade, Dr. P. Utilizou uma teoria antiga. Diz um velho provérbio baiano :"Vou bater em você com um gato morto até ele miar". Dr. P. então percebeu que, se pudesse bater eternamente no gato morto este se comportaria como um gato vivo (um gato só pode miar se estiver vivo). Mais tarde confessou que a descoberta fora acidental, enquanto procurava o bichinho de estimação da família entrou na cozinha de casa e viu um [[Juicer|Juicer Philips Walita]] flutuando. Ao desligar o aparelho, este estatelou-se a chão. Deduziu o que havia realmente acontecido ao ver o filho [[autista]] batendo a cabeça na parede, um pote de manteiga e o saco de pão aberto, em cima da mesa. A confirmação só veio quando não encontraram mais o gato.
+
+Infelizmente, as pesquisas foram interrompidas por causa da sociedade protetora dos animais. 
+
+Aparentemente, a pesquisa continuou na [[União Soviética]], mas só saberemos na próxima temporada de [[Fringe]].
+
+===Conclusão===
+Ele simplesmente cairá de lado!
+
+Concordo com a conclusão, pois, é impossível criar movimento perpétuo. Em algum momento o gato terá fome, utilizará sua envergadura e flexibilidade e comerá a torrada, ou no mínimo, lamberá a manteiga, colocando fim no efeito antigravitacional.
+
+==Artigos relacionados==
+*[[Paradoxo do gatinho]]
+*[[Lei de Murphy]]
+*[[Gato]]
+
+==Ligações externas==
+*[http://cockeyed.com/science/toast/toast1.html Experimento de queda de torradas conduzido por Rob Cockerham]
+*[https://www.youtube.com/watch?v=Z8yW5cyXXRc Abastecimento de uma pequena cidade com a energia gerada]
+
+[[Categoria:Ciência]]
+[[Categoria:Física]]
+[[Categoria:Títulos realmente longos]]
+
+[[en:Murphy's law application for antigravitatory cats]]
+[[es:Paradoja del gato y la tostada]]
+[[ja:猫-トースト装置]]
+[[nl:Antizwaartekrachttheorie bij katten]]
+[[zh:奶油猫理论]]
+[[zh-tw:反引力奶油貓原理]]

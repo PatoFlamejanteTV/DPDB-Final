@@ -1,0 +1,55 @@
+{{Game}}
+{{Infobox Game
+|title     = Virtual Hydlide
+|image     = Virtual Hydlide cover.png
+|caption   = Capa do jogo
+|developer = [[T&E Soft|Teta Macia]]
+|publisher = [[Sega|Cega]]
+|released  = [[1995]]
+|genre     = Tudo o que há de pior
+|rating    = 0,000001/10
+|platform  = [[Sega Saturn]]
+|ages      = Livre
+}}
+
+{{c|Virtual Hydlide is a Perfect 3-D Reproduction of the Original|Manual de instruções do jogo dizendo só verdades}}
+
+'''Virtual Hydlide''' é uma aberração em forma de jogo de videogame que nunca deveria existir, mas que infelizmente faz parte de nossa realidade. Foi a última vez que a [[T&E Soft|Teta Macia]] insistiu nessa franquia de merda antes de desistir de vez de [[Hydlide]].
+
+== Desenvolvimento ==
+
+Quando os rumores de que Hydlide poderia voltar com um remake, os especialistas em jogos eletrônicos do mundo inteiro se sentiram bastante céticos sobre a possibilidade de alguém conseguir reproduzir num console mais moderno toda a ruindade, precariedade e tediosidade do primeiro Hydlide de 1984. O console escolhido para esse remake foi o [[Sega Saturn]] que em 1995 estava particularmente conhecido por estar lançando jogos extremamente vergonhosos, especialmente por possuir um hardware capaz de aguentar reproduzir atores reais digitalizados, o que já gera uma enorme rejeição visual segundo a teoria do [[Vale da estranheza]].
+
+Trazendo um 3D horrendo em terceira pessoa com uma tela paralisada nas costas do protagonista Jim sem criar qualquer sensação de profundidade, a desenvolvedora foi certeira em criar um jogo que já gera revolta e aversão após apenas 20 segundos de gameplay, mantendo assim o legado de Hydlide.
+
+== Jogabilidade ==
+
+[[Arquivo:Virtual Hydlide gameplay.jpeg|thumb|left|Aquele tipo de gráfico que você bate o olho e já sabe que deve passar longe desse jogo.]]
+
+A maior reclamação do [[Hydlide (jogo)|Hydlide I]] original era o excesso repetitivo e quase mandatório de grinding, então para contornar isso os desenvolvedores removeram o grinding completamente, e os inimigos do jogo não dão mais XP, transformando o jogo numa correria, pois sempre será mais vantajoso passar correndo pelas fases igual um Usain Bolt ignorando todo e qualquer monstro no caminho. Dessa forma, Virtual Hydlide cunhava mais um insuportável clichê de jogo de RPG, que são as missões de carteiro, de ir do ponto A ao ponto B. E para prevenir que os jogadores perdessem tempo demais em combates que não dão XP, foi adicionado ainda uma completa ausência de perspectiva e senso de profundidade, o que impede você saber onde seu boneco está batendo, o que torna os combates tão sofríveis que é melhor sair correndo mesmo.
+
+Outro mecanismo inovador desse RPG foi o fato de ser o primeiro jogo do mundo cujo mapa é criado proceduralmente, com 40 bilhões de possibilidades de disposições de árvores diferentes e localizações distintas dos mesmos castelos e masmorras. A empresa afirma ser praticamente impossível jogar o mesmo mapa duas vezes, e eles estão cobertos de razão, esse jogo é impossível de ser jogado uma vez sequer, o que dirá duas.
+
+O grande desafio desse jogo, entretanto, é tentar adivinhar de onde veio o dano, porque enquanto você está correndo pelo cenário passando voado pelos inimigos, o seu [[HP]] sempre vai dar aquela reduzida do nada.
+
+== Enredo ==
+
+Varalys, sempre ele esse dragão fdp, transformou a princesa em três fadas... Vai entender o que se passa na cabeça desse vilão pra fazer um negócio desses. Cabe a um camponês genérico de nome genérico chamado Jim vestindo-se com uma roupa estupidamente genérica de camponês achar essas três malditas fadas.
+
+A aventura atrás dessas malditas fadas levará Jim a visitar um cemitério onde ele deve vilipendiar cadáveres, adquirindo uma armadura amaldiçoada, uma espada mágica que não atira magia, e um crucifixo. Nessa busca por fadas o Jim vai para uns lugares nada a ver, como o castelo do Drácula, enquanto na verdade uma das fadas simplesmente está numa árvore randômica no cenário externo do jogo, a segunda fada está dentro de um vulcão e a terceira fada dentro do estômago de uma enguia elétrica gigante.
+
+Com as fadas reunidas, é hora de enfrentar o último chefão que você mata sem nem saber porque ele fez aquilo tudo, mas o que Jim descobre mesmo é que a princesa que ele salvou ao unir as três fadas na verdade é só uma atriz com um cosplay bem cafona.
+
+== Ver também ==
+* [[Bubsy 3D]]
+* [[Superman 64]]
+
+{{Hydlide}}
+
+[[Categoria:Jogos lançados em 1995]]
+[[Categoria:Jogos da Technology and Entertainment Software]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos da Atlus]]
+[[Categoria:Jogos para Sega Saturn]]
+[[Categoria:Jogos de RPG]]
+[[Categoria:Remakes de jogos]]

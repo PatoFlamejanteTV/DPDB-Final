@@ -1,0 +1,305 @@
+{{Jogo}}
+
+{{Infobox Game
+|title     = Doom 3
+|image     = Doom 3 cover.png
+|caption   = Capa do jogo
+|developer = [[ID Software|id Software]]
+|publisher = Ela mesma
+|released  = 2004
+|genre     = Tiro, porrada e bomba
+|platform  = Linux, Ruindows, x-caixa, Mac OS
+|rating    = "Awful game" - 10/10 IGN
+|ages      = maior de 18
+}}
+
+'''Doom 3''', após 10 anos com [[Doom]] e [[Doom 2]] iguais, normais e ultrapassados, alguém resolve interromper a ordem das coisas... Vamos usar o exemplo dos [[hit]]s do [[Funk]], ótimo, talvez você nem se lembre da [[Dança da motinha]], então vamos usar a dança do [[Dança do quadrado|"Ado-a-ado é a dança do quadrado"]]. Ela foi criada, todos começaram a cantar, e então, o pobre criador da música sumiu.<br>
+Hoje ele é um pobre coitado que aparece no [[Pânico na Band]] e mostra a bunda para os telespectadores só para ter alguns segundos nesse meio.
+
+Foi o que aconteceu com Doom. E [[ID Software|alguém]] decidiu lançar o jogo, mas como seria?
+
+[[Arquivo:Doom3 big1.jpg|thumb|left|[[Jô Soares]] fazendo uma ponta no Doom 3.]]
+Com o avanço tecnológico, os caras da ID software resolveram ganhar mais dinheiro com Doom e remasterizaram a porra toda, os monstros e os cenários. O único problema é que agora é necessário um pc da NASA para jogar.
+
+Enquanto os outros jogos antigos eram mais criativos, esse se parece com um jogo de terror qualquer. Continua algumas coisas, as bases espaciais que nunca acabam e sem nenhum sentido operacional, pelo menos você agora precisa puxar a lanterninha (porque sem ela você não vai ver absolutamente PORRA NENHUMA) e a plasma gun está foda. 
+
+Agora também tomam-se sustos e sustos do caralho! Não tem como não sentir medo dos olhinhos brilhantes dos cherubs e aquele chorinho de neném o tempo todo até você achar onde eles estão. Quando você os encontra, com certeza irá sair um belo de um "TOMAR NO CUUUUUU" ou "CARALHOOO". Não se assuste com você mesmo, o jogo é assim, quem não xinga desmaia ou então é tipo o Ozzy Osbourne e se sente em casa com esse jogo.
+
+== Desenvolvimento ==
+=== O Primeiro Doom ===
+
+O [[Wolfenstein|Pai dos jogos de tiro em primeira pessoa]] foi Wolfestein ou Doom, mas quem se importa? Esses dois jogos até hoje são o ganha-pão da id Software que só se mantém no patamar "joão-ninguém" por causa desses dois.<br>
+Na época em que Doom (o primeiro) foi lançado, todos estavam com medo. O criador do jogo, John Carmack, era o Co-criador (ou seja, um zé ninguém) de [[Wolfenstein]]. Foi ele que deu a ideia de fazer um carinha preso dentro de um castelo e matar [[nazista]]s e [[cachorro]]s, além do castelo ser inteiramente azul.
+
+Mas, de alguma forma, o criador principal tinha se matado. O por quê? Bem, digamos que depois do sucesso, o pobre homem começou a ser pressionado dentro da empresa para fazer uma sequência, dize-se que ele sentou de noite e tentou ter ideias, mas a única que surgiu foi a do carinha ter caído em outro buraco com [[Nazismo|Nazistas e cachorros]] e matá-los.
+
+O criador de [[Wolfenstein]], pressionado, resolveu escrever uma carta de suicídio, provando que só com [[DORGAS|muita maconha e dorgas]] dá pra fazer um jogo de sucesso:
+
+{{c|Olá, meu nome é [[Ninguém|Jack!]] eu sou o criador da série Wolfenstein e passei essa noite inteira procurando uma nova ideia, a ID anda me pressionando demais, muitos vão achar ridículo eu me matar, eu sei que tenho milhões de dólares, eu sei que todos me reconhecem como um gênio. porém a pressão está me matando. Eu não consigo mais ter uma EREÇÃO por causa desse jogo! Todos querem que eu tenha uma ideia! (lágrimas no papel) MAS COMO EU VOU ACHAR UM ENREDO PARA ESSA SEQUÊNCIA? ME DEIXEM EM PAZ! DEIXEM A [[Britney Spears|BRITNEY]] EM PAZ! AAAAAAAH! Agora eu vou enfiar o cano da minha arma no (ui!) dente (ah...!) e não quero ouvir uma reclamação de um nerd gordo que espere que eu faça essa m...|Carta de suicídio de Jack Somebody, encontrada em cima de uma caixa de cartuchos de Wolfenstein junto ao corpo.}}
+
+
+'''MAS QUE BURRO!''' jogos daquela época não precisavam de enredo! Somente de um cenário tosco para atirar.
+
+E agora? a ID software então pensou: "Ei! Não tem um co-criador? Vamos mandá-lo fazer a sequência!", na época, John Carmack era muito orgulhoso e esse [[ego]] dele iria um dia acabá-lo. Um representante da ID foi até a sala de Carmack e falou que precisavam de alguém para fazer o Wolfenstein 2.<br>
+Então veio o Ego de Carmack, e ele simplesmente fez a maior cagada que, por sorte, renderia algo para [[Capeta|alguém]]... eEle disse:
+
+{{c|Sequência de Wolfenstein? me poupe! eu posso fazer um novo best-seller da nossa empresa! Simplesmente o MELHOR jogo da nossa id!|John Carmack|fazer merda (no sentido do jogo e da fala)}}
+
+Porém, ele não esperava que o representante acreditasse e desse um prazo de 1 semana para criar o jogo, Carmack viu a burrada que tinha feito e foi correndo do trabalho para o apartamento, se trancou lá e ficou andando a madrugada inteira pensando em algo para dizer, ele não conseguiu acordar no dia seguinte e um representante da id ligou para ele, perguntando o que estava fazendo.
+
+Ele responde que estava trabalhando a semana inteira no jogo, depois que o pânico passou, ele se sentou na mesa, pegou a cerveja e tentou ter uma ideia, mas tudo que sai daquela cabeça era jogos repetidos. Carmack então pensou: "para casos desesperados precisa-se de medidas desesperadoras!" ele então desceu na padaria em baixo e pediu muita massa de bolo, e então foi até a [[Cracolândia]] pedir [[Maconha|uma erva medicinal que expandia a mente...]]
+
+Se trancou no apartamento e, desesperadamente, pegou a massa de bolo e colocou em uma bacia e tacou todo o [[Maconha|Bagulho]] lá dentro. Ele esperou duas horas sem ideias e tirou a coisa queimada e pelando de quente e tacou na sua boca, queimou a cara e então desmaiou.<br>
+Com a cara queimada, Carmack comeu o bolo frio que tinha um gosto muito ruim, porém toda aquela erva tinha virado pó e não fez efeito algum.
+
+Carmack tinha gastado todo o seu salário para comprar a [[Maconha|erva que expandia a mente]].
+
+Então ele resolve apelar muito, e vocês sabem que esse apelar era muito baixo mesmo... e quente. Carmack, de acordo com [[Wikipédia|as fontes pouco confiáveis]], era [[Ateu]]. Ele não acreditava nem no todo poderoso e nem no [[Capeta]], porém o burro precisava de ideias, foi à biblioteca (a internet na época era discada) e procurou um livro, e lá dizia que era para procurar, então ele foi para o seu quarto e começou.
+
+Então, nada aconteceu... Ele chuta aquela taça de vinho e então tudo fica em chamas, ele vê o [[Capeta]] e se borra nas calças, este dá uma longa risada e então fala: "Eu sei o que você quer! Aqui está a ideia do seu roteiro, agora fume mais um pouco de [[DORGAS|dorga]]". Carmack acordou nu com um bode inflável em seu quarto, era um sonho ou simplesmente viagem psicodélica da [[Maconha|maconha?]] Tanto faz, porque ele tinha a ideia. 
+
+Ele começou então o roteiro. Ele pensou em um [[Doom|fuzileiro espacial]], que foi até marte sem traje espacial em 2095 e foi impedir uma invasão de demônios em uma das 10 bases que queriam implantar a sua ideologia [[Comunismo|comunista]] nos pobres funcionários, que eram obrigados por eles a se vestirem iguais e defenderem os ideais.<br>
+No primeiro roteiro, é visível a influência alucinógena, porém a id não engoliu a ideia e então Carmack ficou desesperado, ele reuniu alguns (poucos) da empresa loucos o bastante para lançarem aquele jogo e produzirem-no.
+
+Carmack achou que fracassaria, talvez estava errado... Talvez certo, e foi o que ele pensou quando mirou uma arma para a boca. O jogo, porém, foi um sucesso, e sem dono, a id resolveu comprar o resto da equipe que queria produzi-lo, e estava já preparando as [[Cianeto|pílulas de Cianeto]], mas foram desnecessárias, a ID viu o sucesso e pediu uma sequência desse jogo. Mas a diferença é que quem fez o roteiro não mudou nada na história e botou mais inimigos e cenários e blá, blá, blá...<br>
+Seja como for, todos amaram a segunda versão de Doom, o [[Doom 2]].
+
+Mas ficou por aí mesmo. Nada saiu (ui!), e então a id ficou, lentamente, indo ao vermelho e sobrevivendo com as migalhas de Doom e Wolfenstein 3D. Então, o criador de Doom 2 resolveu criar uma sequência. A id vibrou! Mais uma sequência barata pintada no [[Paint]]! Iria ser fácil e iria tirar a ID do vermelho.
+
+Porém, o autor foi encontrado em seu quarto de hotel praticando algo que podiam chamar de [[Masturbação|"masturbação tailandesa"]], não vamos entrar em detalhes...
+
+E ninguém mais falou sobre um Doom 3... Por enquanto.
+
+=== Surge o Doom 3 ===
+Passaram-se 10 anos após a criação do primeiro [[Doom]]. Todos evitavam falar o nome de John Carmack e do pobre criador anônimo de Doom 2, e muito menos mencionar o nome. Espalha-se um boato que era porque o [[Capeta]] não queria mais uma sequência, e que já estava entupido de pactos. Então, aparece John Carmack Jr.
+
+{{c|O quê? mais um?|Você|John Carmack Jr.}}
+
+Provavelmente enviado para uma continuação, ele conseguiu fazer um grande motim dentro da id. Carmack Jr. vai até os poderosos e sugere uma continuação de Doom, porém eles imaginaram que em pleno [[Século 21]] lançariam um jogo de [[Paint]] em cartuchos ou em computadores? Eles apenas se entre olharam e Carmack Jr. perdeu a sua credibilidade.
+
+Porém, Carmack planejou o seu contra-ataque, e com as forças vindo das profundezas do inferno (linguagem muito usada no Doom 3), conseguiu induzir '''Cinco mil funcionários à demissão ao induzi-los a dizer:'''
+
+<big><big>{{C|Fazemos uma sequência de DOOM ou nos DEMITA!}}</big></big>
+
+Talvez eu nem precise falar o que aconteceu, eles foram demitidos e a id ficou bem mais leve sem [[Zelador]]es, assistentes de escritório, homens do café e todos os outros não citados. Apenas John Carmack não foi demitido, e ficou como um [[Judas]] na empresa, tendo que suportar os olhares de todos os seus "colegas". Até mesmo o homem que tinha desenhado [[Doom]] 1 e 2 foi demitido! É um zé-ninguém, não vou falar o nome.<br>
+John Carmack quase viu-se derrotado, porém havia um plano "B", caso o primeiro falha-se, que era de SE MATAR caso eles não lançassem o Doom 3 e aprovassem a sua ideia, então John Carmack foi até o topo do prédio da id Software, e de lá gritou:
+
+<big><big>{{C|Aprovem a minha ideia, se não eu PULO!}}</big></big>
+
+Novamente, o plano deu errado e Carmack acabou arregando sobre pular do prédio. Na empresa, ele ficou como um [[Judas]], e ainda por cima covarde.<br>
+John Carmack quase iria acabar como o primeiro, mas a id não viu as consequências de demitir 5 mil funcionários dela. Eles não tinham mais produtores nem para lançar o remake de [[Wolfenstein]].
+
+Eles notaram isso quando iriam fechar um trato e se unir com a [[Capcom]], finalmente aquela empresa bostinha iria se salvar e ter um futuro garantido, porém a Capcom analisou que eles tinham poucos funcionários... E após a demissão desses 5 mil, eles acharam que era uma empresa suicida, que nem o programa do [[Gugu]].
+
+Com a empresa a um passo de ser vendida e a série Wolfenstein pronta para ser mais um Doom, eles não viram outra solução, á não ser admitir a ideia de Remake de Carmack e recontratando os 5 mil demitidos. No momento em que Carmack soube, ele estava colocando uma corda no seu pescoço e então pulou de alegria ao saber que tinha funcionado, se tivessem esperado ele, Carmack hoje seria mais um número da pesquisa de suicídios feitos ao ano nos [[EUA]] (a menos que a id seja japonesa).
+
+{{c|Tá, podem lançar o jogo...|id Software|Doom 3}}
+
+Superstição. Sabe o que significa essa palavra? Algo que alguns falam que é envolvido à sorte, porém há uma outra forma dizendo que é comparar fatos antigos com outros, como o sucesso da copa de [[2012|2002]] com o fracasso da de [[2012|2006]], nesse caso foi certa a superstição, o primeiro Carmack, ao ver-se obrigado a fazer uma sequência, fez o mesmo que o criador de Wolfenstein: [[Head Shot|suicídio]], e foi o que aconteceu com o Carmack Jr. Porém, dessa vez já era certo, o jogo seria fodão e sem gráficos de [[Paint]] e precisaria de um Roteiro.
+
+Já sabem o destino, agora Carmack não passa de mais um presunto. A id estava decidida em fazer logo o Doom 3, era isso ou falir! A ID resolveu contratar um Roteirista para inventar um motivo para o jogador ter que matar os monstros, o roteirista, pouco importa o seu nome, porém a id estava falida mesmo, pegaram um escritor de livros pornográficos falido e que topava qualquer bico.
+
+No dia seguinte mesmo, às 8 horas da manhã, lá estava Bóris, o roteirista do jogo, o chefe da id ficou espantado, ele estava com duas olheiras e parecia um urso Panda! Trêmulo, ele entregou desesperado para o chefe, dizendo que tinha usado toda a sua criatividade para bolar um roteiro perfeito.
+
+O roteiro dava para engolir, não era a mesma coisa que o outro, mas dava para engolir. Deram a ele o cargo de diretor do projeto e mais uma vez o homem se demitiu, mas pelo menos esse não morreu. E finalmente a ID tinha o seu roteiro! Na formulação das criaturas, eles trocaram a pele, hãããããã.... a pele, só sei que não ficou igual.
+
+Trabalharam 2 anos, inclusive nas férias, para fazer aquele [[Doom|Doom 3]], até que no último dia, algum [[pirata]] conseguiu a cópia do jogo um dia antes e colocou na internet, daí o sonho acabou! E essa foi a última vingança do Capeta... Até lançarem o Doom 4! 
+
+A id até hoje vive desse ganha pão, e do Wolfenstein também, os únicos sucessos dessa empresa.
+
+== Gráficos ==
+
+É detalhadinho até, você pensa "nossa como o cara foi criativo em botar aquele fiozinho bem ali.. bacana velho e.. AFF imp filha da puta explodiu o [[barril]] *''aperta [[F9]]''*"
+
+Pra quem jogou doom 1~2, vai sentir realmente que o jogo está apenas com o gráfico melhorado <s>lógico que não, e os sonzinhos subliminares e barulhões altos de quando você pega o equipamento feito exatamente pra te assustar?</s>, os monstros são os mesmos filhas das puta que você matava antigamente, Revenant, Mancubbus, Imp, Lost Soul, Baron of Hell, [[Cacodemon]] etc e alguns novos como um merdinha de duas cabeças do caralho que gosta de assustar e aquele putinho dos infernos do Cherub.
+
+[[Arquivo:Black.png|thumb|right|Uma das melhores cenas do jogo! Veja como é fácil enxergar os detalhes em Doom 3.]]
+
+Há um novo detalhe entretanto: os olhos dos monstros brilham no escuro, isso não é legal?? [[Capitão Sarcasmo|Nãoo]]! não é legal [[porra nenhuma]] porque isso dá um medo do [[caralho]]... tô te avisando.
+
+== Jogabilidade ==
+
+Que nem CS cara, pula, abaixa, corre mais rapido, AWSD, tiro no mouse. Não tem desculpa de lag ou que é difícil controlar, o unico problema é a escuridão que tem vezes que não dá pra ver nada e isso é pior, porque a máquina é um bot e ela vê você todinho cagado...
+
+As armas são as mesmas, de 1~0, BFG (Big Fucking Gun), serra elétrica from hell e a doze desossa-urso melhorada, tem a lanterninha também no F, se aparecer algum bicho de cara, você pode dar uma porradinha com a lanterninha que nem uma moça.
+
+Barra de espaço pula, mas não abre porta, a porta se abre com clique do mouse. Acesse o computador assim também, dá até pra entrar no msn dos computadores da UAC!
+
+Use o C pra abaixar quando vier algum tiro do alto ou pra entrar naquele túnel menorzinho que nem dá nervoso de entrar e que se fosse na vida real com certeza, sem dúvida nenhuma você entraria de boa.
+
+Aperta o TAB pra verificar o seu iPhone, você encontra vários durante o jogo, rouba as senhas dos sites pornôs dos empregados e descobre casos homossexuais entre os mesmos lendo seus emails.
+
+== Enredo: Quer dizer que agora Doom tem história? ==
+Se no [[Doom]] e [[Doom 2]] você era [[Arnold Schwarzenegger]] exterminando [[Comunismo|zumbis comunistas]] e demônios de [[China|unipartidarismo]], saiba que a história mudou muito... Ou não... Mas se valeu uma madrugada inteira...
+
+Poderá ver o resultado logo, na primeira seção. Sim! Agora Doom tem história <s>um sonho realizado!</s>!
+
+[[Arquivo: Doom3Fudeu.png|right|thumb|CORRE!!]]
+
+A história conta sobre [[Marte]], em 2101, ano em que lançaram o jogo. A Terra vive uma crise, a super lotação! Primeiro, com a compra da amazônia do Brasil, os EUA transformou-a em uma grande base militar e então todas as seringueiras acabaram. Com isso, os seres humanos estavam em um ritmo acima do normal de hoje quando se trata em "reprodução", se é que [[Sexo|você me entende.]]
+
+A [[Holanda]] havia formado até uma ilha de tanto plástico e [[Camisinha|Látex]] que a humanidade consumia, então com o fim das seringueiras, explodiu a super população terrestre, e vários governos tiveram que declarar um Jejum do Sexo... Porém isso não aconteceu.
+
+A população cresceu incontrolavelmente e todos os recursos terrestres diminuíram, com um planeta com 200 bilhões de pessoas, até mesmo o [[Ar]] estava acabando. Com tudo secando e sendo destruído, aparece os EUA para salvar a todos, e ele então mostrou essa maravilha!
+
+<big><Big><BIG>'''HIDROCON!'''</big></big></big>
+
+Que veio para solucionar esse problema, agora os seres humanos poderiam suprir todas as suas [[Sexo|necessidades básicas]]. Eles imaginavam que assim poderia fazer a terra voltar ao normal, mas ninguém gostou, afinal qual era o problema?
+
+Simples: '''HIDROCON É UMA GRAXA AZUL!''' Daí eles dão pra todo mundo.
+
+Vendo esse problema, eles falaram: "Acho melhor nós fazermos um novo planeta e levar todos os ricos conosco!" eles pensaram na Lua, porém era muito perto deles, falaram então: "MARTE!" e assim instalaram uma base lá, botaram funcionários na base e latinhas de refrigerante.<br>
+Porém, você sabe como é, se a água do planeta terra já estava acabando, por que há refrigerantes lá?
+
+A situação se agravava na [[Terra]], já se previa que o povo ia acabar comendo uns aos outros, não literalmente [[Sexo|no sentido pejorativo]], e tudo por causa da falta de látex. O governo não conseguia parar o crescimento, e até mesmo os próprios governantes não paravam.
+
+A solução foi passar todo mundo para [[Marte]], quer dizer, os ricos que podiam pagar a passagem, o resto, que aprenda a construir uma nave sozinha. Eles olhavam para o povo como se fossem gafanhotos. Eles mandaram algumas pessoas para lá que expandiriam a base e arrumariam tudo lá até os ricos chegar, todos gostaram muito do negócio, só que tudo era tão quieto e sem graça ali.
+
+Alguns cientistas organizaram uma escavação nas cavernas de Marte, pra quebrar o gelo. Mas todos os cientistas que foram para lá, já tinham a sua vida social morta, afinal, em uma terra com 10 mulheres para um homem eles não conseguiram nada, então todos os cientistas somente batiam, batiam e batiam e não é no sentido malicioso [[Masturbação|no qual você pensa!]] Como nas escavações os cientistas voluntários passavam dias lá, eles viram que os funcionários dormiam no serviço, os lugares se inverteram.
+
+Então começaram acidentes nesses locais e em outros locais escuros, acidentes como a própria picareta [[Reversal Russa|Picá-lo]], e, de alguma forma, o sujeito ser encontrado com símbolos satânicos na testa. Para acalmar os povoantes daquela base, eles trazem seguranças com armaduras e arsenal para o local.
+
+Nessas viagens, eles mandam [[Doomguy|um cara que não fala, responde ou tem nome... Basicamente um retardado,]] por onde este anda há morte, mas isso não vem ao caso. Junto com a nave de transporte do Doom Guy, chega [[Poser|Swanner]], que por sinal o calor do sol tinha fritado os seus neurônios. Ele está em Marte embaixo da terra e está de óculos, e seu puxa-saco: Campbell, que o protege desesperadamente.
+
+Se eles foram para lá de novo, é que mais uma pessoa desapareceu (vulgo, morreu) e que os funcionários estão se borrando por isso, mas o que importa é que agora você foi encontrar o maior cagão da base, alguém que só manda e não faz, Sargent Kelly <s>Key</s>. Ao invés de mandar outra pessoa, ele te vê como um bode expiatório no início, e ele te manda para uma outra base pegar o cientista desaparecido e vira a suas costas, vendo o seu [[Pornografia|vídeo particular...]]
+
+Outro fato estranho da base é que NÃO HÁ MULHERES, só homens, há alguma explicação?
+
+Sendo assim, quando você vai para lá, incrivelmente o Doutor Betruger desce até as cavernas e faz um trato com os Demônios [[Comunista]]s, ele dá à Terra aos "[[Comunista|Camaradas]]" e ele nunca ficará sozinho. É bem visível que este Doutor é desequilibrado mentalmente e ele achava que como tinha achado aquele pessoal, achava que eles iriam comer ele, bem no sentido que você está pensando, e ele nunca ficaria sozinho.
+
+Então, eles iniciam o ataque á base. Fica um caos, e mesmo com as armas fodonas dos guardas, eles conseguem ser tão inúteis á ponto de morrer feito [[Noob]]s, e somente você sobrevive, incrivelmente. 
+
+E quando você chega no comando principal, lá está Sargent Kelly te esperando e mandando você enviar uma mensagem para a Terra pedindo ajuda, justamente o desejo de Beturger...
+
+Acaba com você descobrindo que era o carinha do [[Doom]] 1 e 2, que sacrificou toda a civilização para matar os Demônios Comunistas, e depois de ter ferrado com marte, decide que era pra todo mundo ir para a Terra.
+
+E então, os reforços chegam bem quando você resolveu tudo sozinho, limpou a base dos pés à cabeça, encarou emboscadas de "camaradas" e levou trezentos tiros nas costas. Nem mesmo Campbell, o puxa-saco da "chefia", ou a própria chefia sobreviveram, mesmo tendo uma [[BFG]] de munição infinita, a arma mais foda do jogo.
+
+
+==Personagens==
+Personagens era o que não existia até o doom 3 (bem, na verdade nos dooms anteriores era só você e os monstros). Vale a pena ver os personagens que só servem para decorar ou para contribuir para você se [[Cagar]].
+
+===[[Doom Guy]]===
+[[Arquivo:doomguy66.jpg|right|thumb|240px|Doom guy distribuindo carinho]]
+Se você se perguntava qual era o nome do carinha que você controla nunca irá achar, porque a [[Id Software]] nunca dá nome para o chamado "Doom Guy", nem dublador ele tem (são uns [[Pobre|pão-duro mesmo]]). Tanto que o [[Sargento|tal do sargento]] Kelly <s>key</s> não pronuncia o nome de doom guy, o chamando apenas de Fuzileiro. Parece até paranoia dos personagens só chamarem Doom guy de você, ou fuzileiro. Dizem que quem pronuncia seu nome ficaria mudo ou teria a cabeça estourada. Alguns rumores dizem que ele e [[Master Chief]] tem alguma ligação ou são a mesma pessoa ([[WTF!?]]).
+
+Doom Guy teria sido considerado fodão após alguns vídeos terem mostrado ele matando milhares dos monstros que se encontram no Doom 2 e também pelo simples fato de ter salvado o planeta Terra inteiro... Após esse acontecimento, o planeta Terra começa a venerar Doom Guy que vira uma espécie de "[[Super Homem]]". Para não ter mais pressão, foge da Terra e vai para [[Marte]], um lugar em que ninguém conhecia ele.
+
+'''Frase de cabeceira'''
+
+{{c|...|Doom guy}}
+
+===Dr.Bertruger===
+[[Arquivo:drbertruger.jpg|left|thumb|200px|Quem não ficaria maluco após ter ficado cego de um olho em uma base marciana escura e fria?]]
+Suposto chefão do Doom 3. Finalmente não é um monstro escroto que tem vários braços e pernas e solta bolas de fogo da sua boca.
+
+Bertruger só faz aparição no jogo pelo menos umas 5 vezes e você nunca confronta ele. É aquele tipo de personagem que só está lá para dar significado o jogo e mostrar que ele comanda os demônios. Nos antigos jogos de Doom não era bem assim e o jogo podia até não ter sentido e nem ter chefão definido, ainda assim iria ser um jogo que preste.
+
+O que acontece com Bertruger no final? Começa a viver dentro da boca de um pássaro no [[Inferno]]... Nem sei se podemos dizer que isso é uma penalidade por ter matado toda a base de Marte, mas questionar a Id Software é uma coisa...
+
+'''Frase de cabeçeira'''
+
+{{c|Your soul is mine, and you stay on hell FOREVER!|Dr.Bertuger|mostrar que tem intenções boas}}
+
+===Sgt.Kelly <s>Key</s>===
+[[Arquivo:sgtkelly.jpg|right|thumb|200px|Sgt.Kelly enviando mais uma missão suicida para [[Você]]]]
+Sgt. Kelly é um dos poucos personagens coadjuvantes. Tem uma função parecida com a de Campbell e Bertruger: primeiro é mostrar como os produtores de Doom queriam fazer você ficar desconfortável em um clima caótico da base. Segundo que queriam mostrar que provavelmente Kelly teria morrido após ter feito o último contato com você.
+
+A grande pergunta é o que Kelly fez para passar daquela porta quebrada e fazer contato com você se havia monstros por todo o lado? Vai ver que você já havia matado todas as hordas de monstros e não tinha mais nada para atirar.
+
+O corpo de Kelly é achado com uma revista pornográfica no banheiro mais tarde. Bertruger quis aproveitar o corpo de Kelly o transformando em um bicho escrotão que usa cheats do Doom. Ninguém nunca soube o que aconteceu com ele.
+
+'''Frase de cabeçeira'''
+
+{{c|Marine! i don't believe, tou still alive!|Sgt.Kelly|mostrando-se surpreso por não ter morrido como os noobs da tripulação}}
+
+===Elliot Swann===
+[[Arquivo:eliotswann.jpg|thumb|200px|[[Questionador|Por que você usa óculos se na base mal luz tem?]]]]
+Elliot é um administrador malvado da base de Marte. Ele praticamente conseguiu reunir todas as fortunas de países desesperados da Terra para trazer meia tonelada de pessoas para Marte morrer porque um doutor de mente desequilibrada soltou demônios por aí.
+
+Elliot é também um coadjuvante que faz pouca participação. Dá para ver ele caminhando com seu <s>paga-pau</s> [[puxa-saco|soldado especial]], Campbell.
+
+Quando você obedece o que Sgt. Kelly pediu para você, Elliot tenta convencer você com [[puta|vadias]] para que não mande a mensagem de ajuda para a Terra pois isso abalaria as ações da ''UAC''. Se você apagar a mensagem quando ele mandar feito um cachorrinho, ele te dará um biscoitinho e chamará você de otário por ter condenado o Sgt. Kelly e os poucos sobreviventes... Agora, se você mandar ele irá mandar você ir para o inferno... De fato, você vai lá uma hora do jogo, então vale a pena mandar a mensagem para ver ele ficar puto com você.
+
+'''Frase de cabeceira'''
+
+{{c|You fuck all earth, IDIOT!|Elliot|mensagem enviada para a terra}}
+
+===Campbell===
+[[Arquivo:swannguard.jpg|left|thumb|200px|Campbell espiando a sua [[Prima]] se trocando]]
+Campbell é o principal guarda/puxa-saco de Swann e é praticamente o que protege a bunda do chefe dos monstros. Também... Tem a ''BFG 9000'' e consegue em um tiro acabar com todos os monstros do recinto.
+
+Quando você acha Campbell morto, o jogador só pode imaginar:
+
+{{c|Como ele foi morto sendo que tinha uma arma foda pra caralho?|Você|Campbell ser meio-noob}}
+
+A resposta pode ser o mesmo motivo pelo qual você morreu nas outras vezes quando jogou Doom 3 pela primeira vez.
+
+Campbell fala algo pra te assustar no último suspiro, mas como poucas pessoas acabam se lembrando o que ele fala ou tão sequer dando a mínima importância para ele, o conselho tão sábio é jogado ralo abaixo e ele morre perto de alguns cadáveres de outros soldados como ele.
+
+'''Frase de cabeceira'''
+
+{{c|If everything Fails, Im the Damage!|Campbell|a vida}}
+
+===Funcionários da UAC/Cadáveres===
+[[Arquivo:funcionariodauac.jpg|left|thumb|100px|Funcionario pronto para <s>morrer</s> um dia de trabalho]]
+Os funcionários da UAC podem também ser chamados de [[Zumbi|cadáveres]] ou [[Zumbis|futuros zumbis]], os funcionários viram zumbis fracos, que não possuem armas de fogo porque atacam ou com as mãos ou com chaves de fenda. Alguns funcionários se recusam a sair de um certo lugar (como um [[trem]]) e então você vê um monstro parecido com ele e se lembra dele, volta até o lugar e o vê MORTO! (isso porquê a expectativa de vida de um funcionário é de menos de 1 hora).
+
+Típico [[figurante de jogos]] que só serve para você valorizar a vida.
+
+'''Frase de cabeceira'''
+
+{{c|OH NO! HELP ME!|Funcionário|<s>não conseguir fazer a [[Cagar|merda sair]]</s> ser atacado}}
+===Z-Sector People===
+[[Arquivo:zsectorsoldier.jpg|left|thumb|100px|Fuzileiro equipado para ser um [[Zumbi]]]]
+[[Arquivo:cientistofdoom.jpg|right|thumb|100px|Cientista tentando não morrer (mais morrendo do mesmo jeito)]]
+Os soldado do Z-Sector são um dos mais bem equipados e com mais armas do jogo. Eles se esquivam, se escondem, <s>se [[Cagar|cagam]] de medo</s> quando veem você. Eles dão mensagens para vocês como "Sargent Kelly wants you...", "It's all clear... WAAAAAAH!!!" e outras babaquices do gênero.
+
+'''Frase de cabeçeira'''
+
+{{c|Don't be crazy... like others. HAHAHAHAHA!|Z-sector soldier|a vida na base de marte}}
+===Cientistas===
+Cientistas são os humanos vivos que você mais vai achar, porque eles tem que estar vivos para lhe dar [[Cheats|códigos para armários]] ou dicas para destruir os monstros. São conhecidos no jogo como o "saco de pancada" dos monstros, quer um exemplo? Quando o tal do [[Médico|Doutor]] bertruger abre um portal pro [[Inferno]] sai um cientista que é arremessado para um lugar escuro, e a gente nem sabe se ele está vivo.
+
+'''Frase de cabeçeira'''
+
+{{c|I don't understand, the monster fuck me!|Cientista|o monstro te-lo arremessado para fora do cenário.}}
+==Dicas==
+
+* Abaixe e pule pra desviar dos ataques, não fica parado que nem um bocó na frente do bicho ok?
+* Jogue de noite e com as luzes apagadas senão você não vai ver nada.
+* Quantas veis vou ter que falar? Anda com a porra da bandolera 23, caralho! 20 anos de curso porra!
+* Crie um jogo pra save chamado 01, pois com certeza você vai desistir no primeiro.
+* Apertando o F, ele levanta a lanterna, apertando o F de novo ele puxar a arma que estava... Simples, não?
+* Não jogue Doom 3 com dor de barriga, senão você vai correr para o banheiro com mais frequência.
+* Não jogue Doom 3 abalado psicologicamente (namorada largou, brigou com o chefe, mulher de TPM etc.) senão você vai gritar que nem uma bichinha.
+* Não ria do seu amigo levando susto enquanto ele joga Doom 3, respeite porque você também se caga.
+* Acostume-se a levar encoxadas, afinal, 90% dos monstros vão dar respawn atrás de você.
+* Não use os barris vermelhos/amarelos como cobertura contra tiros.
+* Não conte a seu pastor que você está jogando Doom 3, deixe que ele perceba.
+* Não espere que o jogo seja como o filme, Doom3 não é nenhuma comédia.
+* Sam e Dean são chamados frequentemente na casa de meninos que jogam Doom3 para exorcizá-los.
+* Shotgun to the face, sempre.
+* Se uma seta estiver apontando para uma porta toda ensanguentada, seja esperto e NÃO ENTRE NA PORRA DA PORTA! SE O [[Diabo|DIABIM]] QUER QUE VOCÊ VÁ LÁ, [[Gay|COISA BOA É QUE NÃO É]]!!!
+== Mods "Famosos" ==
+
+*Kádêizêdê - Remake tosco do 1º episódio onde você enfrenta leões do Hexen e sombras em formato de pênis. O wad ficou famoso por ser assombrosamente ruim, contando com tanto lixo nas fases que você não conseguia se mexer. Só na 1º fase, onde você tem que esperar uma hora pra pegar uma shotgun já dá vontade de se matar.
+
+*Nuts.wad - Famoso por ter meio bilhão de monstros e ter torrado uma centena de CPU's. Basicamente é uma sala onde você encontra 666.666 monstros e uma BFG, se o seu computador não explodir você pode se divertir por horas tentando matar todo mundo sem apelar pro kill monsters. Pelo menos é melhor que o primeiro mod dessa lista.
+
+*Wow.wad - Famoso por ter a história mais original de todos os tempos. Basicamente um Cyberdemon escapou de um laboratório da UAC e ficou preso dentro de um "poço ilusionário". Realmente uma vergonha, o autor se matou depois de ter lançado essa bomba.
+
+*Stronghold - Outra desgraça que ficou 17 anos em produção e ainda saiu uma merda. É só uma cópia do modo invasion do Skulltag, dessa vez com lixo de outros jogos, tipo o chefe final do Duke Nukem 3D e mapas multi-coloridos feitos pelo Restart.
+
+*Gvh/8-Bit Megaman DM - Duas pragas que empestearam o Skulltag por um tempo. O primeiro é um lixo onde você pode jogar com uns maconheiros humanos ou com cabeças voadoras (que sempre vencem). O segundo foi proibido nos EUA, por causar crises de epilepsia em massa e induzir ao suicídio.
+
+{{Doom}}
+
+[[Categoria:Jogos da id Software]]
+[[Categoria:Jogos da Activision]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Xbox]]
+[[Categoria:Jogos de tiro em primeira pessoa]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos para Nintendo Switch]]

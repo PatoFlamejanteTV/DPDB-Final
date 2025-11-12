@@ -1,0 +1,46 @@
+{{Tecnologia}}
+{{Predefinição:Cilada}}
+
+[[Arquivo:Anti-Virus.jpg|thumb|Um Anti-Vírus mais eficiente que o AVG, <s>o [[HIV]]</s>]]
+O '''AVG''' é um dos programas antivírus mais disseminados pela internet, mais disseminado até que os próprios [[vírus]], o que não garante proteção alguma. É uma versão piorada do [[Daltony#Eu Programador de Softwares|Daltony Antivírus]], e olha que para isto é necessário muito esforço.
+
+== Introdução ==
+[[Arquivo:AVG_Interface.png|thumb|left|A [[Mentira|incrível e bonita]] [[Merda|interface]] do AVG]] 
+[[Arquivo:VirusILoveYou.jpg|thumb|right|Típico vírus "duro" de ser identificado pelo AVG, um antivírus tipicamente "passivo"]]
+
+O '''AVG''' ('''A'''nti '''V'''írus '''G'''rátis) é um software parasita, pois vive comendo recursos do computador, memória, banda de conexão e disco, muito disco para aguentar atualizações diárias, que em nada ajudam a melhorar a eficiência do mesmo. O importante é que o AVG faz com que o usuário se sinta em um estado de proteção, falsa, mas quem se importa quando o computador sempre parece estar ''limpo''.
+
+{{c|Meu antivirus está atualizado e não achou nada|Usuário inocente sem saber o porque dos arquivos que sumiram misteriosamente do [[HD]]}}
+
+O ciclo de vida básico do AVG é o seguinte: Instalar, baixar atualizaões, baixar mais atualizações e finalizar baixando atualização de correção do último update. Apesar de receber atualizações constantes, o AVG nunca encontra vírus algum, portanto existe uma teoria que diz que os arquivos das atualizações, na verdade, contém artigos da [[Wikipédia]]
+
+== O logotipo ==
+
+[[Arquivo:BandeiraJamaica.png|thumb|right|Logotipo do AVG]]
+
+A AVG é o representante de software antivírus da [[Jamaica]], isto está estampado nas cores do logotipo, vermelho, verde, amarelo e preto. Um dos grandes problemas deste antivírus é justamente o fato de os [[programador]]es basearam-se no [[baseado]], o que pode gerar certa instabilidade do [[software]].
+
+== Benchmark ==
+
+A eficiência do AVG foi testada com um benchmark proposto pelo [[Desciclopédia Technology Labs]]. Este benchmark testou o AVG contra algum dos vírus mais famosos do mundo. Para a realização dos testes foram escolhidos trocentos arquivos com vários vírus e o AVG deveria reconhecê-los retornando uma mensagem ao usuário. Na tabela abaixo são mostrados os resultados de alguns vírus aos quais o AVG identificou.
+
+<center>
+{| class="wikitable" style="text-align:center"
+|-
+|Vírus || Mensagem de resposta do AVG
+|-
+| [[I Love You]] || "I love you too"
+|-
+| [[Gripe]] || "Saúde"
+|-
+| [[AIDS]] || "We are the champions!"
+|}
+</center>
+
+==Ver também==
+*[[Daltony]]
+*[[Síndrome de Formatar HD]]
+*[[Panda Antivírus]]
+
+{{Antivírus}}
+[[Categoria:Inutilidades]]

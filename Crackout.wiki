@@ -1,0 +1,41 @@
+{{game}}
+{{Infobox Game|title = {{PAGENAME}}
+|image               = Crackout.jpg
+|caption             = Não é o [[Crack]] levando um [[yakyuu|Out]]!
+|developer           = [[Palcom Software|<font color=red>'''O Pau Comeu'''</font>]] Software
+|publisher           = [[Palcom Software|<font color=red>'''O Pau Comeu'''</font>]] Software
+|released            = [[1991]]
+|genre               = {{PZL}}
+|rating              = 0%
+|platform            = [[NES|Nintendinho]]
+|ages                = Livre
+}}
+
+{{vqd|Um dos [[Mais de 8000]] clones de Breakout existentes no mundo}}
+{{vqd|[[Arkanoid]]}}
+{{vqd|Block Breaker Deluxe?}}
+
+'''Crackout''' (é, você fora da pedrinha...), é uma cópia quase exata de [[Arkanoid]], sendo que o game só saiu na [[Europa]].
+
+==O game==
+
+Bem, como {{PAGENAME}} e Arkanoid são clones de Breakout, o lance é quebrar bloquinhos [[Gay|coloridos]], que dão Power-Ups, não deixar a bolinha cair, enfrentar chefes (no Arkanoid, só no 35, que é o [[Homer Simpson|Doh]]), destruir inimigos, perder a linha, ficar com incapacidade sexual, etc. Porém, como todo game tem lá seus trambiques, o game tem itens que diferem de Arkanoid. Bem, o game tem os famosos bloquinhos, que valem menos do que 100 pontos todos. Os [[Lado Azul da Força|azul]] dão 50, os [[Marcelo Dourado|dourado]] dão 10, os [[Maconha|verde]] dão 40, os [[Mar|azul claro]] dão 60, os [[laranja]] dão 30, os [[Gay|rosa]] dão 20, os [[Perfume|violeta]] dão 10 e os [[Fred Mercury Prateado|Prateados]] são indestrutíveis (esses bloquinhos lembraram [[Rainbow Islands|as Ilhas do Arco-Íris]]).
+
+==Itens==
+
+* Bolinha 2x: Divide a bolinha em duas (sendo que no Arkanoid pode 3, ou em remakes, até 8!);
+* Bola de [[Canhão]]: Funciona como a Mega Ball do Arkanoid, que daí vai dizimando todos os bloquinhos (com exeção dos indestrutíveis, dãããã...) que encontrar no seu caminho;
+* Bomba de [[Nhonho|1 tonelada]]: Fode todos os inimigos na tela, com exeção dos chefes;
+* Extensão: Faz com que a sua navinha toma uma [[Oxi|droga da impotência]] e faz com que ela cresca pros lado;
+* [[Míssil]]: <s>Mas não vem antes o [[Gradius|Speed Up]]?</s> Como se fosse aquele mini [[Saturno]] do Arkanoid II, que destrói todos os bloquinhos na explosão;
+* Mina: {{Strike|Não a sua namorada, tonto}} Faz com que a bolinha desengravide 4 das mesmas apertando [[Arquivo:Anin.jpg]], porém, elas são lerdas pra caralho...;
+* Bonequinho {{Strike|de [[macumba]]}}: Dá um [[Bells & Whistles|"Supedo Deun!"]] na bolinha;
+* Relógio: Os inimigo param na tela por 5 segundos;
+* [[Konami Man]] {{Strike|Em jogo não feito no [[Japão]]? [[WTF?]]}}: Funciona como aquele poder do Arkanoid, que faz com que abra uma [[passagem secreta]] pro próximo nível.
+
+{{Game Breakout}}
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Famicom Disk System]]
+[[Categoria:Jogos lançados em 1986]]

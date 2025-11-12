@@ -1,0 +1,163 @@
+{{c|Esse é meu irmão mais novo|Java (linguagem de programação)|JavaScript}}
+{{c|Criei um monstro!|Netscape|JavaScript}}
+{{c|javascript:window.close(); <- Digite isso em seu navegador e pressione ENTER|Hacker|Javascript}}
+{{vqd|[[Java (linguagem de programação)|Java]] travestido de linguagem de navegador?}}
+
+'''JavaScript''' é uma [[linguagem de script]] que embora não seja considerada pela [[Igreja Católica]] como satânica (as consideradas são [[C++]], [[VB]], [[Delphi]], [[ASP]], [[ASP.NET]], [[Tabelinha]] e [[Catalão]]), deveria ser, pois foi criada com o único intuito de enganar e manipular os inocentes visitantes de páginas Web. Para tal fim, a linguagem durante toda sua história utilizou de recursos como as diabólicas janelas pop-up, redirecionamento de páginas, controle sobre o histórico e os favoritos, controle de elementos HTML, formulários e mais recentemente, até manipulação de arquivos.
+
+É uma linguagem que é executada do lado cliente, consumindo recursos da CPU da vítima que esteja visitando a página e também executado do outro lado, por meio do [[Node.js|Node]] (um ''[[C (linguagem de programação)|C]]zão'' camuflado), fazendo com que o pobre coitado além de ter de operar milhares de requisições que chegam até ele, ainda tenha de arcar com a linguagem.
+
+O Javascript é uma das raras linguagens que você não precisa aprender, basta copiar de um mané que quebrou a cabeça uma semana para a construir meia dúzia de linhas.
+
+Javascript costuma aparecer nos bares do HTML, onde eles chamam-no formalmente de Café com ''maconha'' ou pelos mais íntimos, ''baseado'' em Java.
+
+== JavaScript e os blogueiros ==
+[[Arquivo:Meuamigo.jpg|thumb|280px|Right|Meu Amigo, um pré-histórico e excelente exemplo de uso da linguagem.]]
+Com o advento dos blogs, o JavaScript tornou se muito conhecido pela classe blogueira que começou a usa-lo sem a menor noção das coisas, espalhando assim a praga dos [[scripts]], coisas extremamente úteis como uma mensagem de: 
+
+"''Bem vindo ao meu site, não esqueça de deixar um comentário''" 
+
+ou de saída: 
+
+"''Ah! Já vai? =(  Deixou comentário né?''"
+
+Coisas que perseguem o mouse, efeitos e mais efeitos nas páginas, deixando elas cada vez mais pesadas é tudo culpa do JavaScript.
+
+Devido a tais circunstâncias, os desenvolvedores de navegadores tiverem que criar proteções para isso, porém sempre surge um [[script]] novo.
+
+==Exemplos==
+=== Contagens de elefantes com JavaScript ===
+<pre>
+
+  elefantes = 10
+
+  for( i = 1 ; i < elefantes ; i++ ) {
+
+    msg = ''
+
+    if( i == 1 )
+      msg = i + " elefante incomoda muita gente!"
+
+    else if(( i % 2 ) != 0 )
+      msg = i + " elefantes incomodam muita gente!"
+
+    else {
+      msg = i + " elefantes "
+
+      for( j = 0 ; j < i ; j++ )
+        msg += "incomodam ";
+
+      msg += "muito mais!";
+    }
+
+    alert(msg);
+  }
+
+</pre>
+
+=== Código aprimorado ===
+<pre>
+<html>
+<head>
+<title>
+Elefantes
+</title>
+<script type="text/javascript" language="Javascript"> 
+function qtdelefantes(){
+ var qtd=prompt("Quantos elefantes?","10");
+ if ((qtd==null)||(qtd=="")||(qtd==0)){
+  qtd=10;
+ }
+ if ((qtd=="close")||(qtd=="exit")||(qtd=="fechar")||(qtd=="sair")){
+  window.close();
+ }else{
+  mostra(qtd);
+ }
+}
+function mostra(elefantes){
+ for(i=1;i<elefantes;i++){
+  msg="";
+  if(i==1){
+   msg=i+" elefante incomoda muita gente!";
+  }else{
+   if((i%2)!=0){
+    msg=i+" elefantes incomodam muita gente!";
+   }else{
+    msg=i+" elefantes ";
+    for(j=0;j<i;j++){
+     msg+="incomodam ";
+    }
+    msg+="muito mais!";
+   }
+  }
+  alert(msg);
+ }
+ qtdelefantes();
+}
+</script>
+</head>
+<body onload="qtdelefantes()">
+</body>
+</html>
+
+</pre>
+
+=== Javascript e POG ===
+
+Naturalmente é utilizado em combinação com as linguagens [[HTML]] e [[CSS]], tornando a utilização do método [[POG]] mais eficiente. Em casos de [[websites dinâmicos]], quando combinado com [[PHP]] ou [[ASP]], a aplicação do método torna-se obrigatória. Segue um exemplo:
+
+<pre>
+<nowiki>
+<div style='position:absolute;top:-3px;display:<?=$valor?$tipo1:$tipo2; ?>'>
+<? if($flag == 0){ ?>
+<script>
+  var a = [<?=implode(',',$lista)?>];
+  <? $SQL = "SELECT * FROM clientes WHERE 1 ORDER BY data ASC LIMIT 1 OFFSET 1 " ?>
+<? }else{ ?>
+<b> entroh aqui flag= <?=$flag //debugue ?> </b>
+     <? $SQL = "SELECT * FROM clientes WHERE ".$cond." ORDER BY data ASC LIMIT 1 OFFSET ".$flag ?>
+<script>
+  //
+  var a= [<?=implode(',',$lista_)?>];
+<? } ?>
+  // debugue
+  alert(a);
+</script>
+
+</div>
+</nowiki>
+</pre>
+
+== Desinstalação ==
+
+Um maluco acha que JavaScript pode fazer tudo e tenta desinstalar seu navegador usando a linguagem:
+
+<pre>
+<nowiki>
+<script>
+
+while(navigator){
+  delete navigator;
+  delete window;
+}
+alert(" Rá, rá, rá, rá, rá! Consegui! >:-) ");
+
+</script>
+</nowiki>
+</pre>
+
+
+
+{{Linguagens de Programação}}
+
+[[Categoria:Ciência da computação]]
+[[Categoria:Linguagens de programação]]
+
+[[bar:JavaScript]]
+[[en:JavaScript]]
+[[fi:Javascript]]
+[[id:JavaScript]]
+[[it:JavaScript]]
+[[ja:JavaScript]]
+[[ko:자바스크립트]]
+[[pl:JavaScript]]

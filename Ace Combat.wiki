@@ -1,0 +1,56 @@
+{{Game}}
+{{Infobox Série Game
+|title         = Ace Combat
+|image_logo    = Ace Combat.png
+|caption       = logo da série
+|genre         = [[simulador de voo]]
+|developer     = [[Bandai Namco]]
+|publisher     = [[Bandai Namco]]
+|origin        = [[Arcade]]
+|first_release = [[Air Combat]] (1992)
+|last_release  = [[Ace Combat 7: Skies Unknown]] (2019)
+}}
+
+'''Ace Combat''' é considerado a série de jogos mais tediosa bem sucedida do mundo. Desenvolvido pela [[Bandai Namco]], já lançou mais de 20 jogos, todos exatamente a mesma coisa sem graça tediosa de sempre, e mesmo assim há um nicho de 15 pessoas imunes a enjoos por jogos mal feitos que tratam esse jogo como a coisa mais fantástica do mundo.
+
+Vale ressaltar desde já que os jogos de Ace Combat não são um simulador, como a maioria das pessoas costumam afirmar. Afinal, na vida real, seria difícil imaginar situações em que um caça aéreo carrega 120 mísseis, ou um avião sobrevive ao ser atingido por seis mísseis, ou uma aeronave restaure em voos seus danos críticos, ou um piloto vença sozinho uma guerra continental e outras situações do tipo, pois na nossa realidade tais coisas são tão prováveis ​​quanto encontrar um tubarão no Mar Báltico, no mundo de Ace Combat essas coisas acontecem em todos os jogos da série. E várias vezes!
+
+O céu, a cidade lá embaixo e as cabines dos aviões dos jogos de Ace Combat foram especialmente desenvolvidos para gerarem o maior ''[[cinetose|motion sickness]]'' possível, até mesmo em pessoas aparentemente normais. Nas curvas é a cabine que gira em relação ao cenário e não a tela inteira, a sensação gerada é que o jogador está caindo para os lados da cabine ou as vezes até no teto em manobras mais fechadas. Jogadores com miopia ou demais problemas oculares são proibidos de jogarem os jogos dessa série, as informações na tela, os aviões inimigos, tudo é extremamente minúsculo.
+
+== Jogabilidade ==
+
+O jogo é um simulador de combate aéreo, e como tal desde sempre buscou aperfeiçoar ao máximo <s>o tédio</s> a dificuldade que é um combate aéreo de verdade. <s>N00bs</s> Pessoas normais não possuem a menor condição de jogar um Ace Combat sem esborracharem seus aviões no chão ou ficarem navegando indefinidamente no cenário sem explodir um inimigo sequer, somente pessoas com autismo severo conseguem compreender o cenário dos jogos de Ace Combat e tomarem as melhores decisões de piruetas surreais.
+
+O realismo é desprezível, e os jogos se passam numa Terra fictícia onde não há Nova York para nenhum jogador ter a liberdade de brincar de terrorista de destruir World Trade Center.
+
+== Jogos ==
+
+[[Arquivo:Ace Combat player.png|thumb|Um jogador de Ace Combat realizando seu sonho.]]
+
+* '''[[Air Combat]]''' - O primeiro jogo da série todo quadradão, ele é basicamente tudo o que o [[Star Wars: Rogue Squadron]] conseguiu ser com sucesso.
+* '''[[Air Combat 22]]''' - Prepara-se para ver uma tela inteira de [[azul]], seja do mar ou do céu.
+* '''[[Ace Combat 2]]''' - A versão de [[PlayStation]] que poluiu pela primeira vez a tela com um monte de letrinhas verdes.
+* '''[[Ace Combat 3: Electrosphere]]''' - Versão melhorada do anterior pois trouxe ainda mais poluição visual.
+* '''[[Ace Combat 04: Shattered Skies]]''' - A versão de [[PlayStation 2]] e uma das favoritas dos fãs, pois pela primeira vez você pode ter a sensação de estar completamente perdido num céu infinito e vazio com o seu caça de combustível infinito.
+* '''[[Ace Combat 5: The Unsung War]]''' - A versão de PlyStation 2 mais conhecida pois estava encalhada em todas banquinhas de camelôs do Brasil.
+* '''[[Ace Combat Zero: The Belkan War]]''' - A mesma coisa do jogo anterior, só existe porque nessa época de Play 2 não existia DLC.
+* '''[[Ace Combat 6: Fires of Liberation]]''' - A versão de [[Xbox 360]], a mesma coisa dos anteriores, só que ainda mais realista (ou seja, um tédio da porra).
+* '''[[Ace Combat: Assault Horizon]]''' - Nesse jogo botaram dois manos na capa e enganaram todo mundo achando que era um Call of Duty ou coisa do tipo.
+* '''[[Ace Combat Infinity]]''' - Versão modernizada dos jogos antigos, mas tão tedioso como sempre foi.
+* '''[[Ace Combat 7: Skies Unknown]]''' - A versão definitiva da série, um perfeito [[Flight Simulator]] mas de caça. O jogo extremamente entediante que sepultou a franquia em 2019.
+
+== Países ==
+
+* '''Osea''' – O maior e mais poderoso país do mundo, equivalente aos [[Estados Unidos]]. Como convém aos ianques, eles são defensores da liberdade e da democracia, metendo o nariz em tudo o que podem. Mestres em construir coisas monstruosas apenas para perdê-las para o inimigo. Vale a pena notar que em todos os jogos da série que apresentam este país (Ace Combat 5, Zero e 7), Osea nunca ataca primeiro.
+* '''Eruseia''' – Uma mistura de [[Itália]], [[França]], [[Espanha]] e, em parte, [[Alemanha]], ou seja, uma [[União Europeia]]. Este país muda de sistema com mais frequência do que uma inglesa moderna troca de namorados. Antes do "Ace Combat 04: Shattered Skies" há uma república, e após é iniciado uma república fascista e no "Ace Combat 7: Skies Unknown" é estabelecida como um reino com uma princesa sexy e um enxame de drones.
+* '''Belka''' – conspiradores estereotipados, nacionalistas e especialistas em tecnologia, repetindo chavões de vingança como um mantra. Em "Ace Combat Zero: The Belkan War", o governo oscila entre [[Viktor Orbán]] e o [[Terceiro Reich]]. Seu passatempo favorito é mergulhar o país na ruína financeira, gastando 50% do PIB com as forças armadas em tempos de paz e jogando os países uns contra os outros.
+* '''Emmeria''' – Muito semelhante à Grã-Bretanha; embora nem seu clima nem seu nome tenham qualquer relação com a Terra do Chá. Um tipo de país que perde 95% de seu território em duas semanas, milagrosamente vence uma única batalha e vira o jogo da guerra. É famoso por recrutar criminosos e empregar a estratégia de "ficar parado, talvez eles não joguem armas químicas sobre a nossa capital".
+
+{{Ace Combat}}
+{{Bandai Namco}}
+{{Simulador de voo}}
+
+[[Categoria:Jogos da Bandai Namco]]
+[[Categoria:Jogos eletrônicos|Acecombat]]
+
+[[pl:Ace Combat]]

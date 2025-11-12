@@ -1,0 +1,78 @@
+{{taxocaixa
+| nome           = Scorpaeniformes
+| cor            = #0047AB
+| imagem         = Peixe-fusca.jpg
+| imagem_legenda = O [[peixe-rocha|peixe-fusca]], a espécie-tipo dessa ordem, a camuflagem é a especialidade destes animais
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aquáticos]]
+| classe         = [[Actinopterygii|Peixes com espinha]]
+| ordem          = [[Scorpaeniformes|Peixes fantasiados para carnaval]]
+}}
+
+'''Scorpaeniformes''', generalizados pelo nome '''peixe-leão''', são uma ordem de peixes fantasiados para carnaval, totalmente espalhafatosos e multicoloridos, verdadeiras divas entre os peixes reconhecidos de longe por ostentar barbatanas fashions coloridas e decoradas na última moda, piercings nos umbigos, cordões de ouro no pescoço, até a barbatana anal é enfeitada. Faz parte dessa família animais espalhafatosos como [[peixe-escorpião]], [[Peixe-leão-comum]], [[peixe-aranha]] [[peixe-dragão]] e [[peixe-pedra]], este último aliás, são os scorpaeniformes que não escolheram nascer scorpaeniformes igual você não escolheu nascer humano por mais desgosto que seja, os peixe-pedra em especial tem vergonha de terem nascidos nessa família de viados, então eles se vestem de pedra e ficam incógnitos no fundo do oceano deprimidos esperando sua vida acabar, ma sé claro que comer um camarãozinho ou outro que passe na frente dele, ele não vai recusar.
+
+== Anatomia ==
+
+[[Arquivo:Tubarão vs peixe-leão.jpg|thumb|left|220px|Cena dramática de um peixe-leão comendo um tubarão indefeso.]]
+
+Os peixes scorpaeniformes são sobretudo escandalosos, cientistas ainda não sabem, mas se algum peixe tem cérebro o bastante para ter complexo de drag-queen, ele com certeza estará na família dos scorpaeniformes. Esta teoria foi fortalecida quando estudos demonstraram que drag-queens humanas não tem cérebro, conclusão chegada após analisar que elas não tem o mínimo de vergonha alheia uma função que apenas cérebros podem ter, então o peixe-drag-queen que não tem cérebro - porque diferente das drag-queen humanas ele pode ser dissecado para descobrir isso - não tem vergonha alheia também.
+
+Estes animais possuem sobretudo uma [[mimetismo|habilidade mimética]] exemplar, escondendo-se em corais e fazendo-se passar por algas. As diversas espécies rapidamente se adaptam a novos contextos, já havendo peixes-leão que se disfarçam de lixo, sacolas plásticos, carcaças de carro velho, pedaços de navios e diversos outros materiais que desde a [[Revolução Industrial]] estão começando a substituir os recifes e algas nos oceanos.
+
+Anatomicamente estes peixes são dotados de bochechas encouraçadas, cabeças com um monte de espinhos (não espinhas, eles não são mais adolescentes) e barbatanas cheias de frufrus.
+
+Apesar de muitos deles serem evidentemente homossexuais pela maneira como se vestem, são todos no geral malignos e portanto [[carnívoros]] e predadores vorazes que comem peixes menores envenenando-os com seus espinhos. Sim, esta ordem de peixes é venenosa.
+
+No geral são preguiçosos também e adoram ficar mocados em cavernas se fingindo de alguma outra coisa, muito sonsos ficam se fazendo de desentendidos se alguém passa e os chama, afinal eles são muito antissociais, raramente se vê dois peixes-leão juntos conversando, e se os demais peixes do mundo nadam do verbo [[nada]], os scorpaeniformes nem isso.
+
+== Taxonomia ==
+
+{{Clado
+|clado1     = Famílias
+|preposição = à
+|clado2     = ordem scorpaeniformes
+|texto      = 
+|lista      =
+* '''[[Anoplopomatidae]]''' - bacalhaus negros
+* '''[[Abyssocottidae]]''' - sculpins de águas profundas
+* '''[[Agonidae]]''' - bandidos
+* '''[[Bathylutichthyidae]]''' - peixe carnavalesco das profundezas
+* '''[[Comephoridae]]''' - peixes-óleo-do-baikal
+* '''[[Cottidae]]''' - cotidas
+* '''[[Cottocomephoridae]]''' - sculpin-do-baikal
+* '''[[Ereuniidae]]''' - sculpins-cabeça-de-touro-de-águas-profundas
+* '''[[Hemitripteridae]]''' - águias do mar
+* '''[[Icelidae]]''' - sculpins escalados
+* '''[[Psychrolutidae]]''' - cabeças gordas
+* '''[[Rhamphocottidae]]''' - peixe-grunhidor
+* '''[[Cyclopteridae]]''' - lumpsuckers
+* '''[[Liparidae]]''' - peixes caracol
+* '''[[Dactylopteridae]]''' - coiós
+* '''[[Hexagrammidae]]''' - lorchas
+* '''[[Normanichthyidae]]''' - sculpin mote
+* '''[[Bembridae]]''' - cabeças planas de águas profundas
+* '''[[Hoplichthyidae]]''' - cabeças planas fantasmas
+* '''[[Parabembridae]]''' - falsos arenques cabeças planas
+* '''[[Platycephalidae]]''' - cabeças planas
+* '''[[Apistidae]]''' - peixes escorpiões vespa
+* '''[[Aploactinidae]]''' - peixes veludo
+* '''[[Caracanthidae]]''' - peixes veludo orbiculares
+* '''[[Congiopodidae]]''' - peixes-cavalo e peixes-porco
+* '''[[Eschmeyeridae]]''' - peixe-leão-de-fiji
+* '''[[Gnathanacanthidae]]''' - peixes veludo vermelho
+* '''[[Neosebastidae]]''' - gurnardas peixes escorpiões
+* '''[[Pataecidae]]''' - peixes proa australiano
+* '''[[Peristediidae]]''' - gurnardas blindadas
+* '''[[Perryenidae]]''' - peixe-porco-de-nariz-branco
+* '''[[Plectrogenidae]]''' - plectrogeniuns
+* '''[[Scorpaenidae]]''' - peixes-escorpião
+* '''[[Sebastidae]]''' - peixes-rocha
+* '''[[Setarchidae]]''' - peixes-escorpiões eriçados de águas profundas
+* '''[[Synanceiidae]]''' - peixes-pedra
+* '''[[Tetrarogidae]]''' - peixes-vespa
+* '''[[Triglidae]]''' - robin do mar
+}}
+
+[[Categoria:Actinopterygii]]
+[[Categoria:Scorpaeniformes|*]]

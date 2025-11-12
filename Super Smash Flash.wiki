@@ -1,0 +1,464 @@
+<choose>
+<option>{{Logotipo_falso|Bdc.png|152px}}</option>
+<option>{{Logotipo_falso|Smashpédia.png|152px}}</option>
+</choose>
+
+{{game}}
+{{freeware}}
+{{briga}}
+<div class="noprint" style="clear: right; border: solid #aaa 1px; margin: 0 0 1em 1em; font-size: 90%; background: #f9f9f9; width: 250px; padding: 4px; spacing: 0px; text-align: left; float: right;">
+<div style="float: left;"><choose><option>[[Arquivo:60px-Bouncywikilogo.gif]]</option><option>[[Arquivo:Wikisplode.gif|60px]]</option></choose></div>
+<div style="margin-left: 60px;">{{{3|<choose><option>Para aqueles ''sem'' senso de humor, os [[nerd|espertalhões]] da [[Wikipédia]] têm um artigo (pouco confiável) sobre:</option><option>A nossa sátira autorizada, a [[Wikipédia]], tem um artigo sobre:</option><option>Para os [[crente|fanáticos religiosos]] entre nós que escolhem acreditar em mentiras, os [[idiota|supostos experts]] da [[Wikipédia]] têm um artigo sobre:</option></choose>}}} '''''[http://en.wikipedia.org/wiki/Super_Smash_Flash Super Smash Flash]'''''</div>
+</div>
+
+[[Arquivo:SuperSmashFlash.gif|thumb|right|CHOOSE YOUR CHARACTER!]]
+{{c|Quem é esse [[Blade the Hedgehog|Blade]]?|Qualquer um|Blade}}
+{{c|Isso é o [[Knuckles the Echidna]] com espada?|Você|Blade}}
+{{c|Difícil desbloquear o [[Naruto]]|Você|Naruto}}
+{{c|MAS QUE PORCARIA! DEMOREI 5 ANOS PRA DESBLOQUEAR O [[Mr. Game & Watch|MR. GAME & WATCH]] E ELE É UMA PORCARIA!|Você|demorar 5 anos pra desbloquear o Mr. Game & Watch e ele ser muito fraco}}
+{{c|Isso só pode ser mais um clone daquela máquina enferrujada do Tails...|Knuckles|Blade}}
+{{c|Buáááá, porquê ninguém me conhece|Blue|ninguém conhecê-lo}}
+{{c|Levei uma surra do Mewtwo|Você|levar uma surra do [[Mewtwo]], embora ele seja fraco também}}
+{{c|Ei, por que eu não entrei nesse jogo? E olha que aqui tem até esse tal de Naruto neste jogo.|Goku|ele não ser incluido no Super Smash Flash}}
+{{c|Relaxa, você vai na próxima edição...|[[Filho da Puta|O criador do jogo]]|motivos de não incluir o Goku em Super Smash Flash}}
+{{c|Obrigado pelas sugestões! Ainda não iremos arrumar o Online!|[[Filho da puta|Outro cara envolvido no jogo]]|reclamações do modo online}}
+{{c|PAREM DE ME PEDIR PERSONAGENS!!!|[[Filho da Puta|O criador do jogo]]|fãs [[Chorão|chorões]]}}
+
+'''Super Smash Flash''' é um jogo gratuito de computador, onde não passa de uma cópia de [[Super Smash Bros.]] (porém a jogabilidade não tem nada a ver com Smash Bros.). Feito por um cara da [[Newgrounds]], o jogo possui diversos personagens conhecidos, como [[Inuyasha]], [[Naruto Uzumaki]], [[Sonic the Hedgehog]] e [[Super Mario]].
+
+E por fim, existe um novo jogo chamado [[Super Smash Flash 2]], a versão [[Demônio|demoníaca]] do jogo [[Mentira|que promete ser bem melhor que o antigo fracasso]].
+
+==História==
+Não existe um Story mode no primeiro Smash Flash, mas aparentemente o jogo foi criado pelo criador (YOU DON'T SAY?) depois que ele deu uma olhada em um jogo chamado "Super Smash X" no [[Newgrounds|site do tanque de guerra]]. Ele viu que o jogo ficou uma bosta e decidiu fazer seu próprio fangame de Super Smash Bros., que também ficou uma merda, só não tão merda quanto Super Smash X. O jogo foi recebido com muito carinho quando lançou, por ser um fangame de Smash Bros., e por ter bastante conteúdo desbloqueável para a época.
+
+==Modos==
+[[Arquivo:Flash 1 menu.jpg|right|thumb|Menu principal do jogo. [[Merda|Lindo não?]]]]
+O primeiro jogo conta com vários modos <s>entediantes</s> divertidos, desde o modo normal de Porrada até o modo Aventura.
+
+Eis a [[Combo|sequência]] de menus:
+
+
+Γ Classic
+
+I
+
+1P Mode --- Adventure
+
+I
+
+L All-Star (desbloqueável)
+
+
+VS. Mode --- Melee
+
+
+Γ Name Entry
+
+I
+
+Options --- Erase Data
+
+I
+
+L About
+
+
+Γ Archives --- How to Play
+
+I
+
+Data --- Melee Records --- VS. Records/Misc. Records
+
+I
+
+L Special
+
+
+''1P Mode:'' O modo mais conhecido e importante do jogo. É aqui que a maioria dos <s>idiotas</s> personagens são desbloqueados.
+
+''VS. Mode:'' Modo de porrada. O mais mixuruca e menos importante.
+
+''Options:'' Contém coisas que você pode fazer. Também contém a melhor opção do jogo: [[Deletar|Erase Data]].
+
+''Data:'' É aqui onde está [[Histórico|escrito tudo que você fez]] no jogo.
+
+
+Vamos falar dos modos mais importantes, os do modo Solo (1P).
+
+=Modo Classic=
+Um dos modos mais conhecidos, mas [[Inútil|só serve pra desbloquear apenas 3 personagens]].
+
+==Estágios do Modo Classic==
+===Lutinha contra um [[Sanic]]===
+[[Arquivo:1118030354863.jpg|80px]]
+Você simplesmente luta contra um personagem da franquia gamística, [[Sonic the Hedgehog]]. Morrem bem facilmente.
+
+===[[Mario Bros|Manos Armário]]===
+[[Arquivo:MarioLuigi_cc.jpg|70px]]
+Batalha de time onde a gostosa da Samus te ajuda a derrotar o [[Super Mario|Mairo Broder]] e o [[Luigi Mario]] (caso ele foi desbloqueado). Mario se mata bem na hora que a luta começa.
+
+===Bonus 1: [[Explodir|Quebrar]] tudo===
+[[Arquivo:Tiro_sentado_alvo_piores_empregos_mundo.jpg|70px]]
+Aquele mesmo negócio de "Quebre os blocos", só que o estágio é do tamanho da Russia, o que torna difícil de quebrar todos rápido.
+
+===Batalha contra um [[Zelda]]===
+[[Arquivo:Princess_Link.jpg|80px]]
+Mesma porra que o primeiro estágio só que com personagens de Zelda.
+
+===Exército <s>pequeno</s> de [[Kirby]]s===
+[[Arquivo:Fajuto.JPG|100px]][[Arquivo:Fajuto.JPG|70px]][[Arquivo:Fajuto.JPG|50px]][[Arquivo:Fajuto.JPG|40px]][[Arquivo:Fajuto.JPG|35px]][[Arquivo:Fajuto.JPG|32px]][[Arquivo:Fajuto.JPG|29px]][[Arquivo:Fajuto.JPG|26px]][[Arquivo:Fajuto.JPG|23px]][[Arquivo:Fajuto.JPG|20px]][[Arquivo:Fajuto.JPG|17px]][[Arquivo:Fajuto.JPG|15px]][[Arquivo:Fajuto.JPG|13px]][[Arquivo:Fajuto.JPG|10px]][[Arquivo:Fajuto.JPG|7px]]
+Batalha contra 15 Kirbys. Não tem muito que falar.
+
+===Bonus 2: [[Correr pra Caralho]]===
+[[Arquivo:TaopaipaiPilar.gif|100px]]
+Você tem que REALMENTE correr pra caralho e chegar até o fim. Tem uns bicho chato do Sonic 2 que só servem pra encher linguiça.
+
+===[[Star Wars|Clone Wars]]===
+[[Arquivo:AgentSmith.jpg|100px]]
+Você luta contra uns 12 [[Naruto|Shadow Clones]] que também te fodem.
+
+===FINAL: Master Hand <s>of Maluf</s>===
+[[Arquivo:Maluf tn.jpg|150px]]
+É agora! [[Half Life|é hora de honrar sua família e enfrentar consequências de uma vida inteira!]] Você luta contra o chefão final: Master Hand!
+
+
+
+
+
+
+honestamente ele é bem fácil, tem personagens que arrancam [[mais de 8000]]% de dano em menos de [[Os cinco minutos mais longos do universo|5 minutos]].
+
+===Final===
+Simplesmente acaba com o personagem andando até não aparecer mais na tela, e só vem uma mensagem de "[[Congratulations]]!" mixuruca.
+
+=Modo Adventure=
+Definitivamente o modo mais conhecido do jogo inteiro, onde você desbloqueia 9 personagens (bem melhor que o classic).
+
+==Estágios do Modo Adventure==
+
+===Mundo dentro do <s>Armário</s> [[cano]]===
+[[Arquivo:Supercocoworld.jpg|80px]]
+Você vaga aí pelo primeiro nível de [[Super Mario World]] até chegar no final, bem facilzinho '''[[Flash|para pessoas com computadores bons e rápidos]]'''.
+
+===Castelo da [[Peach|Princesa Bitch]]===
+[[Arquivo:Castelinho.jpg|80px]]
+Luta contra 2 Marios (ou seja, duas vezes comendo atrás do armário, ou seja, [[Leandro Hassum|FUDEU!!!!!!]]), mas a boa notícia é que, se você está usando um personagem no qual o ataque de baixo faz ele deslizar, você pode simplesmente ir no cano e deslizar nele segurando o botão de ataque, dando mais de 8000% de dano.
+
+===Ilhas Flutuantes===
+[[Arquivo:Angel Island.png|100px]]
+Você passa por um nível vertical <s>que provavelmente é uma seção estranha da Angel Island</s> com inimigos de Wario Land, mesmo o Wario não estando no jogo. Nível chato pra cacete e o mais [[lag]]uento de todo o jogo. Um grande dedo do meio pra pessoas com computadores fracos (e olha que até no Windows 8 essa merda laga!). Tão bosta que na versão desktop do jogo, você pode simplesmente pular o nível e ganhar uns pontinhos.
+
+===Bonus 1: Quebre os blocos===
+[[Arquivo:Tiro_sentado_alvo_piores_empregos_mundo.jpg|70px]]
+Mesma merda que no Classic.
+
+===Arena Pokémon===
+[[Arquivo:Pokemonstadiumbox.jpg|90px]]
+Uma simples luta contra: ou 3 Pikachus, ou 2 Pikachus e 1 Jigglypuff (se desbloqueada), ou Pikachu, Jigglypuff e Mewtwo (se desbloqueados). Muito fácil usando ataques de cima. Quando você vence, você luta contra um pokémon gigante muito fácil de derrotar (tão fácil quanto o Master Hand, pois ambos são gigantescos).
+
+===Bonus 2: [[Correr pra Caralho]]===
+[[Arquivo:TaopaipaiPilar.gif|100px]]
+Mesma merda que no Classic.
+
+===Luta em Hyrule===
+[[Arquivo:ThMAHBOI.gif|100px]]
+Você luta contra os 2 links que tem uma vida, e a Zelda que por [[Nada|uma maldita razão]] tem [[2]] vidas. A Zelda fica enchendo o saco transformando em Sheik mas apenas usando o cristalzinho do ataque.
+
+===FINAL: Vs. Master e Crazy Hands===
+[[Arquivo:Albor.jpg|83px]][[Arquivo:Maluf tn.jpg|100px]]
+Mesmo que o Classic, mas agora tem a CRAZY HAND (que é um completo clone de Master Hand aqui)! Mas vem um twist: a batalha é BEM MAIS DIFÍCIL! Mas é a mesma estratégia.
+
+===Final===
+Mesma porra que o Classic, mas você vai ver muito mais telas de personagens pra desbloquear.
+
+=Personagens=
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Blue the Hedgehog|<s>Sonic</s> Blue]]'''
+| width=88% | '''Técnicas:''' [[Espada]], [[Spin Dash]]
+|-
+| [[Arquivo: Blue the hedgehog.jpg|80px]]
+| '''Descrição:''' Blue é um personagem extremamente desconhecido. A única coisa que ele faz é dar golpes com a espada e usar spin-dash, embora seja técnica do [[Sonic the Hedgehog|Sonic]] e ele não tem nada a ver com o personagem da [[SEGA]]. Para desbloqueá-lo, você precisa terminar o modo Adventure com o amante dele na dificuldade normal ou maior.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Cloud Strife|Cloud]]'''
+| width=88% | '''Técnicas:''' [[Espada]], [[Magia]]
+|-
+| [[Arquivo: Cloud sword.jpg|80px]]
+| '''Descrição:''' Cloud Strife é o protagonista de [[Final Fantasy VII]]. Cloud é PHODA e seu "modelito" foi feito com bastante carinho por [[Clodovil]]. Para desbloqueá-lo, você precisa vencer o Esmagamento-de-100-homens (100-Man Melee). 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Pikachu]]'''
+| width=88% | '''Técnicas:''' [[Raio de Trovão]], [[Zidane Round Head Strike]], giro mortal
+|-
+| [[Arquivo: Pikachu-partly cloudy.jpg|80px]]
+| '''Descrição:''' Pikachu é uma espécie [[Pokémon]] que está no jogo. '''Só dá''' o raio-de-trovão e cabeçadas, além do giro mortal que nem é tão mortal assim
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Megaman X]]'''
+| width=88% | '''Técnicas:''' [[Tiro]]
+|-
+| [[Arquivo: Megamanemo.png|80px]]
+| '''Descrição:''' Megaman X é um super androide andrógino que será com certeza criado em 20XX por Dr. Light que irá combater todas as tentativas fracassadas de Sigma de dominar o mundo ou algo assim. E sim, o jogo chama ele de Megaman, mas o sprite dele é o Megaman X então foda-se.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Knuckles the Echidna]]'''
+| width=88% | '''Técnicas:''' Pedrada, Soco, [[Spin-jump]]
+|-
+| [[Arquivo: Knuckles.jpg|80px]]
+| '''Descrição:''' Knuckles é um marginal que luta sem armas e fica lançando pedras enormes contra todos hitando quase <s>300%</s> 150% e é o 2° mais forte do game. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Kirby]]'''
+| width=88% | '''Técnicas:''' <s>Engolir</s> Artes marciais, voo 4 saltos
+|-
+| [[Arquivo: Fajuto.JPG|80px]]
+| '''Descrição:''' Kirby é um chiclete mutante rosa que têm o poder de engolir os seus inimigos, exceto no jogo por causa da inexperiência do [[Filho da puta|criador]] naquele tempo. Por algum fodendo motivo ele pode trocar com o Meta Knight.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Meta Knight]]'''
+| width=88% | '''Técnicas:''' Espada, voo 4 saltos
+|-
+| [[Arquivo: Metas.gif|80px]]
+| '''Descrição:''' Meta Knight (cavaleiro de merda) é um dos terríveis vilões frufru da série Kirby. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Fox McCloud]]'''
+| width=88% | '''Técnicas:''' Tiro especial, Meteoro, Teleporte, [[Roundhouse Kick]]
+|-
+| [[Arquivo: Foxmcnuvems.gif|80px]]
+| '''Descrição:''' Fox é a raposa da série [[Star Fox]] e dá tiros fortes capazes de destruir o inimigo. Também dá Roundhouse Kicks, capazes de matar o inimigo com um só chute. Ele é um dos poucos que também apareceu no jogo original, [[Super Smash Bros.]]
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Capitão Falcon]]'''
+| width=88% | '''Técnicas:''' [[Falcon Punch]], Artes marciais
+|-
+| [[Arquivo: Falcon-2-.jpg|80px]]
+| '''Descrição:''' Capitão Falcon é um dos piores do jogo, não bate em ninguém e é muito fácil de derrotar. Outro que também apareceu em [[Super Smash Bros.]]
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Mr. Game & Watch]]'''
+| width=88% | '''Técnicas:''' ???
+|-
+| [[Arquivo: Mr. Game & Watch.jpg|80px]]
+| '''Descrição:''' Mr. Game & Watch representa os bonecos-palitos no game. É uma das criaturas mais mortais já vistas. Consegue atacar na [[velocidade da luz]] e correr tão rápido quando um queniano com dor-de-barriga. Para desbloqueá-lo, você precisa vencer o Target Test com todos os outros <s>perdedores</s> [[lutador]]es.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Inuyasha]]'''
+| width=88% | '''Técnicas:''' Espada, chute, arranhar
+|-
+| [[Arquivo: Inuyasha1.jpg|80px]]
+| '''Descrição:''' Inuyasha é o protagonista de Inuyasha e é difícil de vencê-lo. Na maioria das batalhas, ele usa uma [[peixeira]] gigante, chamada [[Tessaiga]]. Apesar dele ser um bundão, seus golpes são zoados e é o personagem mais forte do jogo se igualando ao marginal do Knuckles. Para desbloqueá-lo, você precisa vencer o modo Classic sem usar continues (o que em si já é quase impossível já que os bundões dos computadores idiotas sempre acabam te matando e a batalha contra o Inuyasha é difícil pra PORRA).
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Crono]]'''
+| width=88% | '''Técnicas:''' Espada, chute, deslizar
+|-
+| [[Arquivo: Sharpen.jpg|80px]]
+| '''Descrição:''' Crono é o membro de [[Chrono Trigger]] e é difícil desbloquear, mas é fácil vencê-lo. Utiliza uma espadinha mixuruca, que comprou por [[1,99]] no [[Mercado Negro]].  Para desbloqueá-lo, você precisa vencer o Esmagamento-de-homens-de-3-minutos (3-Minute Melee).
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Sonic the Hedgehog]]'''
+| width=88% | '''Técnicas:''' [[Spin-dash]], [[Losango Aberto Invertido]] 
+|-
+| [[Arquivo: Sonic tem.jpg|80px]]
+| '''Descrição:'''  Sonic é um ouriço azul hyper-ativo que corre pra caralho e é mascote da Sega desde 1989 (apesar de só ficar famoso com o lançamento de seu primeiro game em 1991) apesar disso, o Sonic é um personagem mediano no game. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Miles "Tails" Prower]]'''
+| width=88% | '''Técnicas:''' [[Spin-dash]], [[Double Rabo Voador]], Canhão phaser
+|-
+| [[Arquivo: Nazitails.JPG|80px]]
+| '''Descrição:'''  Miles "Tails" Prower, ou simplesmente Tails, é a uma raposa que gosta de construir maquinas, <s>dar</s> voar com duas caudas e é assistente do Sonic. É um dos mais fracos no jogo mas seu golpe de cauda pode arremessá-lo para bem longe. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Blade the Hedgehog]]'''
+| width=88% | '''Técnicas:''' [[Spin-dash]], [[Espada]] 
+|-
+| [[Arquivo: Blade the hedgehog.jpg|80px]]
+| '''Descrição:'''  Mais um desconhecido, é chamado por muitos de "Knuckles de Espada" ou "Sonic Vermelho". É necessário ele para desbloquear seu amante Blue. Blade é o personagem mais fraco do jogo com ataques horríveis e sua espada é tão fraca pois é feita de borracha. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Samus Aran]]'''
+| width=88% | '''Técnicas:''' [[Tiro]], forma de bola 
+|-
+| [[Arquivo: Samus sexy Suit.jpg|80px]]
+| '''Descrição:'''  Samus Aran é uma célebre top model e protagonista da série Metroid de Star Wars. Só aparece porque todo jogo precisa de uma [[mulher gostosa|gostosa]] para animar os jogadores, e incentivá-los a ficarem cada vez mais viciados.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Super Mario]]'''
+| width=88% | '''Técnicas:''' [[Roundhouse Kick]], atirar fogo 
+|-
+| [[Arquivo: Mario-wrestling.jpg|80px]]
+| '''Descrição:'''  Mario e seus bigodes conquistaram o mundo porque seu jogo foi considerado uma carta branca para o cultivo e uso de [[cogumelos alucinógenos]]. É um dos personagens mais terríveis do jogo, pois seu ataque especial ''Eat behind closet'' acaba instantaneamente com a força e a moral do inimigo. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Link (Zelda)|Link]]'''
+| width=88% | '''Técnicas:''' [[Espada]], Boomerang 
+|-
+| [[Arquivo: 598607 422508727789555 236215263085570 1318451 132982742 n.jpg|80px]]
+| '''Descrição:'''  Link (aka Peter Pan) é um elfo e herói da série [[The Legend of Zelda]]. É o cara de toda [[Hyrule]] que se preocupa com o futuro, pois toda vez que tem treta em Hyrule, o único que sempre tem que carregar toda a bagaceira nas costas é Link, enquanto os outros folgados fazem porra nenhuma (especialmente [[Talon]] e a [[Princesa Zelda]]). Link trava o jogo todo quando joga seu boomerang zoado. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Princesa Zelda]]'''
+| width=88% | '''Técnicas:''' Magia, [[Sheik|Virar homem]] 
+|-
+| [[Arquivo: Sailor Zelda.jpg|80px]]
+| '''Descrição:'''  Princesa Zelda é a princesa em apuros e não o herói principal em Zelda. Zelda nasceu no suntuoso castelo de Hyrule, e quando criança vivia como uma típica [[patricinha]], esbanjando o dinheiro de seu pai e se metendo em encrencas constantemente, sempre abusando de sua guarda-costas Impa. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''[[Sheik]]'''
+| width=88% | '''Técnicas:''' Artes marciais, Armas de ninja, [[Princesa Zelda|Virar mulher]] 
+|-
+| [[Arquivo: Sheik-purpurina.jpg|80px]]
+| '''Descrição:'''  Versão macho da Princesa Zelda, uma ninja sheikah e mestre de artes marciais. Ela é uma bosta e seus golpes são muito fracos.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Jigglypuff]]'''
+| width=88% | '''Técnicas:''' Quase o mesmo que o Kirby 
+|-
+| [[Arquivo: Jigglypuffgg.gif|80px]]
+| '''Descrição:'''  Jigglypuff é mais um [[Pokémon]] que não serve para nada. Sua voz pode causar sonolência. Para desbloqueá-la, você precisa simplesmente vencer o modo Adventure.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Zero (Megaman X)|Zero]]'''
+| width=88% | '''Técnicas:''' Quase o mesmo que o Megaman, mas tem um puto sabre de luz que te ranca uns 300%.  
+|-
+| [[Arquivo: Zero X2.jpg|80px]]
+| '''Descrição:'''  Zero é o protagonista de uma das mais loucas séries de toda franquia de Megaman, a série [[Megaman Zero]]. Depois de tempos sendo coadjuvante da [[Megaman X|Série X]], ele chuta o pau da barraca e passa a ser o astro da vez. Zero é o 3° mais forte e usa seu sabre foderoso podendo deitar qualquer personagem lixo tipo o Sonic, Tails, Blade, Mr.Game, Naruto, Cloud e outros personagens ruins que só serve pra encher linguiça. Para desbloqueá-lo, você precisa terminar o modo Adventure com o Megaman X na dificuldade normal ou maior.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Young Link]]'''
+| width=88% | '''Técnicas:''' O mesmo que o Link, com alcance mais curto. 
+|-
+| [[Arquivo: LInk-manga.jpeg|80px]]
+| '''Descrição:'''  Young Link é o nome dado a versão criança do herói de Hyrule, Link. Ele é mais conhecido por ser a encarnação original de Link, mas teve sua presença ofuscada pelo adulto que ficou muito mais maneiro, mas é uma bosta no jogo. Para desbloqueá-lo, você precisa terminar o modo Classic com o Link na dificuldade normal ou maior, mas não vale tanto a pena.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Super Sonic]]'''
+| width=88% | '''Técnicas:''' [[Roundhouse Kick]], [[Spin Dash]], Soco
+|-
+| [[Arquivo: Supersonic sayajin.jpg|80px]]
+| '''Descrição:'''  Super Sonic (vulgarmente chamado também de Sonic Super Sayajin, Sonic Amarelo que "avua" ou ainda Zupé Zoniqui) é a transformação mais conhecida e poderosa de [[Sonic the Hedgehog]]. É o mais poderoso [[Super Sayajin]] que já existiu... exceto no jogo, onde ele é muito fracote. Para desbloqueá-lo, você precisa terminar o modo Classic com o Sonic sem continues, ou seja, quase a mesma merda pro Inuyasha só que dessa vez é mais fácil pois o Super Sonic aqui é um fracote.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Shadow the Hedgehog]]'''
+| width=88% | '''Técnicas:''' [[Roundhouse Kick]], [[Controle do Caos]]
+|-
+| [[Arquivo: Shadow armado.jpg|80px]]
+| '''Descrição:'''  Shadow the Hedgehog é mundialmente conhecido por ser considerado um Emo, e por isso os Emos o adotaram como seu mascote, porém Shadow não gosta e os mata. <s>Menos no jogo que ele é fraco que dói só perdendo pro Tails e o  lixoso do Blade</s>. Para desbloqueá-lo, você precisa terminar o modo Adventure com Sonic, Tails e Knuckles.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Naruto Uzumaki]]'''
+| width=88% | '''Técnicas:''' [[Jutsu]], Chutes genéricos
+|-
+| [[Arquivo: Narutoshippudencosplay.JPeG|80px]]
+| '''Descrição:'''  Naruto Uzumaki é o ninja mais idiota da [[Konoha|Vila Oculta da Folha]], que se veste todo de laranja e azul, como o [[Goku]], e sonha em se tornar Hokage, o líder de sua vila. É o protagonista do anime [[Naruto|Todo Mundo Odeia o Naruto]] que é odiado pro [[Anti-Naruto]]s. Como é um [[ninja]] fajuto, não possui o sangue-frio para matar seus inimigos, o que o torna um dos mais inúteis do jogo. Para desbloqueá-lo, você precisa vencer o modo Adventure com os 13 personagens iniciantes.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Senhor Incrível]]'''
+| width=88% | '''Técnicas:''' Ninguém sabe  
+|-
+| [[Arquivo: Senhor incrivel.jpg|80px]]
+| '''Descrição:''' O Senhor Incrível é o pai gordo e herói de [[Os Incríveis]]. É viciado em [[LSD]] e [[Viagra]], o que faz com que ele seja extremamente fodão. Para desbloqueá-lo, você precisa vencer o modo Classic com os 13 personagens iniciantes.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Mewtwo]]'''
+| width=88% | '''Técnicas:''' Qualquer técnica Pokémon  
+|-
+| [[Arquivo: Mewtwocano.jpg|80px]]
+| '''Descrição:'''  Mewtwo é um [[Pokémon]] assassino e clone de [[Mew]], do tipo Psíquico, sendo o número 150 na [[Lista de Pokémon|National Dex]]. Pokémon genéticamente modificado, possui alta inteligência, poder superior entre todos os Pokémons, ódio no coração e modo Berserk infinito. Para desbloqueá-lo, você precisa vencer o modo Adventure com Pikachu e Jigglypuff na dificuldade normal ou maior.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Luigi]]'''
+| width=88% | '''Técnicas:''' O mesmo que o Mario  
+|-
+| [[Arquivo: Luigilevanabunda.jpg|80px]]
+| '''Descrição:'''  Luigi é um Mario verde e mais magro, formando a dupla Marijuana com seu irmão Mario. Sua função é aparecer quando não é possível escolher o Mario duas vezes. Diferentemente do seu irmão Mario, Luigi não ataca ninguém atrás do armário, o que o torna um personagem inútil. Para desbloqueá-lo, você precisa vencer o modo Adventure com Mario na dificuldade normal ou maior.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | [[Arquivo:Cadeado.jpg|13px]] '''[[Lloyd Irving]]'''
+| width=88% | '''Técnicas:''' Espada  
+|-
+| [[Arquivo: Tales1.jpg|80px]]
+| '''Descrição:'''  O metrossexual do Tales of Symphonia aparece no jogo como "Personagem Sem Noção de Outro Jogo que Surge do Nada e Sempre tem um Desses em Soul Calibur". Para desbloqueá-lo, você precisa vencer o modo Adventure depois de jogar o game por 1 hora. <s>seu idiota sem vida</s>
+|}
+
+=Super Smash Flash 2=
+{{Principal|[[Super Smash Flash 2]]}}
+[[Arquivo:SSF2 first logo.png|center]]
+
+Ela ainda está em projeto, entretanto devido a muitos manifestos por faltar outros astros famosos nos desenhos nesse jogo, então foram finalmente colocado o [[Goku|do cabelo amarelo]], o [[Ichigo Kurosaki|carinha da espada grandona]], o [[Sora (Kingdom Hearts)|carinha da chave]], o [[Ness|viado dorgado mudo]], o [[Bomberman|aprendiz de Bin Laden]] e um tal de [[Final Fantasy|Black Mage]] nesse jogo. Ela ainda é um demo então só existe os modos de '''Treino''', '''Quebre os blocos''', '''Solo''' e '''Brawl''' (onde os personagens metem porrada uns aos outros). 
+
+Porém, numa atualização mais recente, agora se tem mais alguns personagens para a pancadaria, como o [[Golden Sun (jogo)|loirinho das mão louca]], [[Chibi-Robo!|a lata-velha inútil]], [[Pac-Man|o comedor de casadas]], [[Simon Belmont|o cara do chicote]], [[Monkey D. Luffy|o pirata que estica]], [[Waluigi|o luigi roxo]] e o [[Ganondorf|negão porra louca]] e mais encheção de linguiça no modo "eventos", só para a enrolação dessa joça que se diz estar totalmente completa em [[8299]], isso se você tiver saco em esperar isso estar pronto.
+
+=Ver também=
+*[[Super Smash Bros.]]
+*[[Fancharacters]]
+*[[Merda]]
+*[https://www.newgrounds.com/portal/view/333995 Jogar essa joça.]
+{{Smash Bros}}
+[[Categoria:Super-Coisas]]
+[[Categoria:Coisas que deram merda]]
+[[Categoria:Jogos lançados em 2006]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Super Smash Bros.]]

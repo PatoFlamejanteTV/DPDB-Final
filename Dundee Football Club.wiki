@@ -1,0 +1,39 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = blue
+|brasao            = Escudo do Dundee.png
+|hino              =  
+|nome_oficial      = 
+|origem            = {{SCO}}''' - [[Dundee]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Escocês
+|divisao           = Premiership
+|títulos           = 
+|ranking           = 
+}}
+
+'''Dundee Football Club''', um clube pequeno da Escócia, falido desde seu ano de fundação - em 1893, na cidade de Dundee, mas hoje como um time de meio de tabela na Scottish Premiership.
+
+== História ==
+
+Um dia, nos anos setenta, a Premiership decidiu que faltava equipes. O remédio para a situação difícil foi criar duas novas equipes. Em vez de colocar essas equipes em cidades relevantes, eles decidiram premiar a cidade de Dundee com eles. A partir dessa decisão, o Dundee e o Dundee United surgiram em 1800 e alguma coisa . As pessoas das cidades não se importaram.
+
+Devido ao desinteresse dos cidadãos, o Dundee foi irrelevante por quase trinta anos. O único acontecimento notável nos primeiros anos da franquia foi Steve Largent, notável por ser o único movimento pós-direitos civis de wide receiver branco talentoso. Desde então, ele entrou no Hall da Fama e fornece esperança aos brancos até hoje.
+
+O Dundee finalmente decidiu ser significativo em 1930, ano em que fez sua primeira e de lá pra cá se firmou como time de meio de Tabela na Premiership. Eles ganharam treze jogos e conseguiram estabelecer o recorde de mais pontos marcados em um único turno (um recorde que agora pertence ao Rangers). Eles também estabeleceram um recorde de equipe: contrataram sua primeira morsa como treinador principal. Seus jogadores-chave eram o zagueiro Shaun Alexander e um cara careca no gol. Sob a liderança deles e da morsa, eles chegaram a Europa League.
+
+{{Campeonato Escocês}}
+[[Categoria:Times de futebol da Escócia]]

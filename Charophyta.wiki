@@ -1,0 +1,35 @@
+{{taxocaixa
+| nome            = Algas carófitas
+| cor             = #7FFFD4
+| imagem          = Carófitas.jpg
+| imagem_legenda  = Uma alga carófita aguardando o momento certo para atacar um humano
+| reino           = [[Plantae|Plantinhas]]
+| clado2          = [[Viridiplantae|Viripendio]]
+| clado3          = [[Charophyta|Charopinho]]
+}}
+
+'''Charophyta''', ou num português bem dizido: '''algas carófitas''', são um grupo de [[algas]] cuja filogenia se define como "algas não tão nojentas quanto às algas [[Chlorophyta|clorófitas]], mas que formam um grupo de algas afrescalhadas que queriam ser plantas terrestres mas que precisam se contentar em viver em lagos fedorentos ao invés disso por serem umas inúteis em produzir alguma raiz"<sub>[[Walter Migula|Migula]] 1897, ''sensu''</sub>.
+
+== Características ==
+
+São seres multicelulares, que fazem fotossíntese por esporte e que são verdes não por preferência de algum time de futebol mas porque possuem [[clorofila]] em seus cloroplastos, as três características que garante esses seres como sendo [[planta]]. Mas ao contrário das plantas de mais respeito, como as [[embriófitas]] que podem ser vendidas no mercado negro por milhões de dólares, as carófitas no máximo servem para enfeitar um aquário xexelento e não valem de muita coisa porque não conseguem viver no seco e ninguém liga para uma planta gosmenta que nem baleias podem comer, já que baleias não vivem no meio de lagos assoreados.
+
+As algas carófitas vivem somente em água doce sem esgoto, sendo o clado do reino vegetal mais afrescalhado, não aguentam um esgoto e já começam a morrer, ou seja, já estão virtualmente extintas então, é questão de tempo terminar os erviço de assassiná-las, algo que não dá pra fazer com [[cianobactérias]] com essa estratégia d elançar esgoto em todo santo rio, riacho, nascente ou lago que existe na face da Terra. Mas as carófitas são orgulhosas e jamais vão se rebaixar ao reino monera e se tornarem anaeróbicas.
+
+Já em termos de formato, aí as carófitas exibem formatos amplamente variados. Tem desde as mais bonitinhas, especialmente da classe [[Charophyceae]], com ramos, folhinhas e essas coisas que uma guria retardada desenharia caso precisasse desenhar uma alga. Mas tem também aquelas bem feias, sobretudo as [[Zygnematophyceae]] (já começa feio pelo nome) que mais parece que alguém teve uma diarreia verde.
+
+Porém, a principal característica das carófitas é a sua imensa habilidade em parecerem inofensivas, as vezes até tornando-se comestível, por estarem ali imóveis sem produzir toxinas ou sem atacar outros seres. Isso é muito suspeito.
+
+== Classes ==
+
+* '''[[Charophyceae]]''' - algas ramosas
+* '''[[Chlorokybophyceae]]'''
+* '''[[Coleochaetophyceae]]'''
+* '''[[Zygnematophyceae]]''' - algas conjugadas
+* '''[[Klebsormidiophyceae]]'''
+* '''[[Mesostigmatophyceae]]'''
+
+{{Seres Vivos}}
+
+[[Categoria:Viridiplantae]]
+[[Categoria:Charophyta|*]]

@@ -1,0 +1,33 @@
+[[Arquivo:Do a Barrel Roll.gif |center]]
+
+<css>
+
+div.pBody, body{
+background-repeat: no-repeat !important;
+background-position: right top  !important;
+background-attachment: fixed  !important;
+-moz-animation-name: roll;
+-moz-animation-duration: 7s; <!-- Duração da animação -->
+-moz-animation-iteration-count: 2; <!-- Número de vezes que a porra toda vai girar -->
+-webkit-animation-name: roll;
+-webkit-animation-duration: 7s; <!-- Duração da animação -->
+-webkit-animation-iteration-count: 2; <!-- Número de vezes que a porra toda vai girar -->
+}
+
+@-moz-keyframes roll {
+    100% { -moz-transform: rotate(360deg); }
+}
+
+@-webkit-keyframes roll {
+    100% { -webkit-transform: rotate(360deg); }
+}
+
+
+</css>
+
+{{Star Fox}}
+
+[[Categoria:Artigos seriais]]
+[[Categoria:Páginas que se parecem com o que elas são]]
+
+[[es:Do a Barrel Roll]]

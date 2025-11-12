@@ -1,0 +1,30 @@
+<br>
+
+{{Vqd|01... 11... 00... 101... 010... 001...}}
+
+
+'''Código binário''' é a base de todos os [[mainframe]]s de dados de computador e, mesmo sendo tão somente  [[zero]] e [[um]], dá possibilidades infinitas de combinações possíveis e pode-se armazenar um número infinito de informações. Isso eu e, somente eu, tentarei explicar mas, como eu sou tão burro quanto você, isso vai ser difícil mas, não impossível, portanto, '''segue artigo''':
+
+==Praticamente um ábaco==
+[[Arquivo:Alan Turing binario.jpg|thumb|left|Alan Turing|Turing decifrou o código binário, mas nem com o código binário alguém ainda conseguiu decifrar o motivo de sua ''[[biba|delicadeza]]''.]]
+Sim, [[mafagafo]]: O funcionamento de um computador não é muito diferente de um simples [[ábaco]], ao menos o raciocínio é o mesmo, o [[segredo]] está em facilitar as coisas ao invés de dificultá-las. Na verdade é parecido com as ordens de [[matrix]], tudo organizadinho. O sistema binário é mais velho do que [[Aloka|andar de ré]], mas precisou surgirem seres ''[[candelabro|alumiados]]'' que descobrissem os melhores usos dele, entre eles e, o que deu a primeira e mais importante luz, sem necessariamente ter um [[útero]], foi a [[Allan Turyng|Branca de Neve]], ela viu apossibilidade complexa dentro de algo muito simples, deveras ela era um [[gênio]], entre os anões, o que não significa que os pequenos seres eram burros.
+
+Não sei dizer entre o zero e o um, nessa história que é ''sim'' e quem é ''não'', quem é ''falso'', e quem é ''verdadeiro'', quem é ''ligado'' e quem é <s>broxa</s> ''desligado'', mas eles se combinam de modo a [[dar]] tudo certo que é uma beleza e, são só dois números, coisa que os casais humanos passam [[ânus|anos]] tentando se entender e o máximo que conseguem são filhotes mal educados, assim mesmo um humano que esse ser todo zoado, consegue criar coisas que funcionam melhor que ele, vide os [[vibradores]].
+
+O código binário pode se considerar ''[[o cara]]'', pois não tem essa [[frescura]] de meio termo, apesar do cara que o criou fosse parte homem e parte mulher, mas nisso ele viu que tinha que ser dessa forma, ou é ou não é, ou sim, ou não, nada de meio termo, até porque o zero e o um dispensam o 1/2 sem qualquer dúvida e, fazem tudo que é preciso, sem ninguém se meter no ''meio'' deles.
+
+O nome já revela tudo sobre seu criador código '''bi'''nário e, ninguém tem nada com isso, embora tenham pensado que tinham na época e, por isso atrasaram a computação em algumas décadas, mas o código '''bi'''nário já estava decifrado e pronto pra ser utilizado.
+
+==Como?==
+[[Arquivo:Francisco-azzmann1940.jpg|thumb|right|Lembre do par de chifres (seu e do gado) para lembrar da base dois, agora eleve à potência segundo a posição que cada um ocupa: Viu que fácil?]]
+Como é possível apenas ''zero'' e ''um'' permitir tantas combinações? Exatamente para ser simples, se acha que não, lembre-se lá da tia ''Juju'' e do código decimal, que se ao invés de você estar ''encantada'' olhando pra <s>um [[bofe|bofinho]] com cara de [[ogro]]</s> pras guriazinhas, iria entender perfeitamente, mas o código decimal dá uma luz também no código binário. 
+
+Veja como isso se dá na <s>complicação</s> prática: Pegue um [[mafagafo]], e um mafagafo incolor, se eles são dois, então a base será dois, você apenas precisa multiplicar cada número por dois (que é a base do '''bi'''nário) e então elevar à potência da posição que cada número ocupa, é assim que os [[computador]]es usam o código binário e representam tudo que for preciso... mas os mafagafos (não a ave, mas o Domo-kun), você pode matar a todos, de dois em dois, ou de dez em dez.
+
+==Ver também==
+
+*[[Ciência da Computação]]
+*[[Máquina de Turing]]
+*[[Alan Turing]]
+
+[[Categoria:Informática]]

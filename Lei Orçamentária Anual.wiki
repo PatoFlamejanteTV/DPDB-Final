@@ -1,0 +1,58 @@
+A '''Lei Orçamentária Anual''' é um mero instrumento anual de pagamento de despesas obrigatórias da máquina pública. Na [[teoria]] deveria ser um instrumento de planejamento de arrecadação e gastos para 1 ano, mas na prática é de tudo menos isso, pois a cada semana o [[poder legislativo]] modifica alguma coisa no orçamento, e no final do ano não sobrou uma [[vírgula]] sequer da LOA do início do ano.
+
+== Como funciona ==
+[[Arquivo:100 reais rasgados.jpg|thumb|230px|Isso é o que a Lei Orçamentária Anual faz com o dinheiro público.]]
+
+Como o Congresso é formado por um conjunto enorme de paus-no-cu, a LOA jamais é elaborada e entregue na data certa, e todo ano os meses de [[janeiro]], [[fevereiro]], [[março]], e até [[abril]] ficam sem [[orçamento]].
+
+Quando finalmente o orçamento sai, na realidade nada muda, as unidades orçamentárias sempre gerem mal o financeiro a que tem direito, desperdiçam dinheiro, e ficam coçando o saco o ano inteiro, e quando chega aproximadamente [[25 de dezembro]] olham que tem milhares de reais no orçamento ainda não utilizados, é quando o gerente dá ordens na repartição para todo mundo torrar a grana comprando milhões de folhas de papel A4, canetas, novos computadores, cadeiras, tratores, e curiosamente tudo em caráter emergencial, muitas vezes pagando antes de liquidar sem nem empenhar.
+
+O grande objetivo da LOA é dar ênfase à finalidade do gasto e dar transparências às contas públicas. Mas há um pequeno problema. Será que alguém que mal sabe a tabuada do 8 vai saber ver um orçamento?
+
+== Elaboração ==
+A LOA basicamente exerce uma fixação de receita, e uma estimativa de despesa.
+
+Possui um caráter discricionário, não é financeira, ou seja, não serve para nada e todo mundo pode meter os números que quiser a hora que quiser modificando quando quiser. O orçamento público não passa de um mero capricho, na hora de realizar importa é quanto de [[dinheiro]] tem de fato que é sempre quase nenhum, já que seja lá quem faz o orçamento sempre consegue a proeza todo ano de fazer sobrar recursos em certas áreas, e faltar em outras.
+
+== Siafi ==
+O orçamento brasileiro está inserido num grande bancos de dados que qualquer um pode ir lá e se perder naquela confusão de números, o chamado [[Siafi]] (Sistema Imprestável de Administração Fudida dos Idiotas), um sistema que todo mundo fala bem, mas que na verdade só serve para mostrar que está tudo errado nas contas.
+
+O Siafi funciona através da '''funcional programática''', um sistema de códigos para as contas que permite achar no sistema o gasto de 1 real em qualquer coisa.
+
+Por exemplo, suponha que um senador esteja muito carente e peça uma puta para ser sua secretária. No orçamento, vai constar o seguinte:
+
+ '''Manutenção das necessidades dos agentes políticos''' (Programa)
+   '''Contratação de secretária gostosa''' (Ação)
+    <big>40.24.PQP.24.696.1111.$$$$.3.3.90.24.99</big>
+[[Arquivo:Broken PC.jpg|thumb|220px|{{C|Vamos acessar o Siafi nesse computador aqui da repartição...|Funcionário público}}]]
+Podemos destrinchar essa informação da seguinte maneira:
+
+Os primeiros dois números apontam em que esfera do orçamento está o gasto, no caso refere-se ao Orçamento da Filha da Putagem, cujo código é o "'''40'''". Há outros 3 orçamentos, o do roubo (10), o dos velhinhos (20), e o do [[Banco do Brasil]] e [[Petrobras]] (30).
+
+"'''24'''" é o ''código do órgão'' (no caso, [[Senado]]).
+
+"'''PQP'''" é o ''código da Unidade Orçamentária'' daquele órgão (no caso, gabinete do senador).
+
+"'''24'''" é o ''código da função'' do gasto (no caso, fomentar a atividade de [[prostituta|mulheres da vida]]).
+
+"'''696'''" é o ''código da sub-função'' (no caso, secretária boazuda).
+
+"'''1111'''" é o ''código do Programa'' (no caso, manutenção das necessidades dos agentes políticos).
+
+"'''$$$$'''" é o ''código da ação do programa'' (no caso, contratação de secretária gostosa).
+
+"'''3'''" diz que é uma despesa corrente.
+
+"'''3'''" diz que é uma despesa corrente (sim, esse sistema burro tem que repetir a mesma coisa).
+
+"'''90'''" diz que não vão dividir a puta com terceiros.
+
+"'''24'''" é o ''código do elemento'' (no caso, a [[puta]]).
+
+"'''99'''" é o ''código do sub-elemento'' (no caso, a puta específica, [[puta de luxo|Bruninha Fogosa]]).
+
+{{Administração Pública no Brasil}}
+
+[[Categoria:Direito constitucional]]
+[[Categoria:Leis do Brasil]]
+[[Categoria:Direito financeiro]]

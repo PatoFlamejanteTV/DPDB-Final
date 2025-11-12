@@ -1,0 +1,843 @@
+{|cellpadding="0" cellspacing="0" style="width:95%; background-color:{{{fundo}}};clear:both;margin:1em auto 1em auto;border:2px outset mediumaquamarine;background-color:mediumaquamarine;text-align:center;font-family:Trebuchet MS;"
+|-
+| style="width:50px;padding:2px" | [[Arquivo:Gnome-searchtool_blue.png|40px]]
+| valign="middle" style="height:50px;padding:4px;color:black;font-size:120%;line-height:120%" | ''<big>'''{{{1|{{PAGENAME}}}}} é uma pequena cidade desconhecida.'''</big><br /><font size="1">Você pode estar perdendo seu tempo à-toa ao ler sobre essa joça.</font>'''<br /><font color="white"><small>'''''{{Cidadezinha/frases}}'''''</small></font>
+| style="width:50px;padding:2px" | [[Arquivo:Sciences_de_la_terre.svg.png|40px]]
+|-
+|}
+
+
+{| width=50% class="boilerplate metadata" id="stub" CELLPADDING=2 CELLSPACING=2 style="background-color: #dddddd; color: #000000; border-top: 1px solid black; border-bottom: 1px solid black; border-right: 1px solid black; border-left: 1px solid black;" align="right"
+|-
+| [[Arquivo:Alborghettieh.gif|60px|nada!|left]]<div align="center"><big>'''Este artigo propõe ser ofensivo e deixar você indignado!</big><br><small> Se ele não conseguiu ofender você  e  por que você não se ofende com nada mesmo! Vai <s>tomar no cu</s> ouvir um CD do [[Luan Santana]]. Este cara é um espelho seu.<s>Queima a rosca e dá uma de um gostosão comedor de meninas</s>  !'''</small></div>
+|}<includeonly>[[Categoria:Artigos ofensivos]]</includeonly>
+
+{{Citar|Odeio esta [[bosta]] de cidade!.|Turista pensando estar em [[Carmópolis de Minas|Carmópolis de Minas]]}}
+{{Citar|É verdade que o dono da Localiza é de Oliveira?.|gerente novo do [[Banco do Brasil]] perguntando a um vereador}}
+{{Citar|É sim, da família Mattar. Ele não gosta que fala, diz que é de [[Belo Horizonte]].|vereador respondendo ao gerente do banco }}
+{{Citar|Adorei esta cidade! O pessoal tem meu jeito e minha cara|[[Luan Santana]] em passagem pela cidade }}
+
+{{Citar|Você é de Oliveira?.|advogado oliveirense em visita a [[Belzonte]]]]}}
+{{Citar|Não sô, eu sou de [[Carmo da Mata]]!.|advogado oliveirense respondendo a pergunta, com medo de ser confundido com [[boiola]]]]}}
+
+
+==História==
+[[Arquivo:patrocinador melhor.jpg|thumb|center|500px|]]
+
+A cidade foi fundada no início do século XVII quando vieram para o [[Brasil]] a família de Inácio Rego de Oliveira, neto de Manuel de Oliveira da descendência do arcebispo de Braga D. Martim Pires de Oliveira (nomeado em 1350 pelo rei João III) que gostava do trem e emprenhou quase todas as beatas da importante cidade portuguesa. A família Oliveira começou com Pedro de Oliveira, casado com D. Elvira Pestana, progenitores do arcebispo.
+Chegaram aqui numa tropa de mulas onde traziam todos os seus bens. Inácio muito ambicioso foi tentar bamburrar na região do garimpo, mas antes montou uma estalagem que ficou na responsabilidade de sua mulher Urraca e de Maria de Oliveira, a filha  mais velha e feia do casal. Além de dar pouso para os viajantes que se dirigiam ás minas de [[Goiás]], também agenciava prostitutas para prestar serviços sexuais completos a estes homens, muitos dos quais já estavam a mais de três meses sem ver uma mulher, nem em fotografia. A revista [[Playboy]] com a [[Vera Fischer]] na capa era vendida a 565 gramas de ouro. Três vezes mais que uma putinha cobrava por um [[boquete]]. Um DVD da [[Eliza Samúdio]], (aquela do goleiro [[Bruno]]) de [[sexo anal]] com o [[Kid Bengala]] valia então 875 gramas de ouro.
+Como não tinha putas em disponibilidade na região (não é como nos dias de hoje!) e a procura era grande, as próprias irmãs de Maria também ajudavam no 'serviço'. O recurso foi insuficiente e seus dois irmãos adolescentes vestiam de mulher e começaram a dar a [[bunda]] para os atrevidos mascates. Gostando da coisa e ganhando um bom dinheirinho convidaram outros  rapazes seus parentes e amigos e o negócio ficou mais importante para a estalagem dos que os da putas. A fama correu entre os viajantes, que diziam; ''''vamos parar na estalagem da Oliveira e enrabar uns miúdos''''. A estalagem/[[puteiro]] ficou muito lucrativa e  a 'febre do ouro' aumentou a passagem de viajantes para as minas de [[Goiás]] e agora também para as recem descobertas minas de [[Mato Grosso]]. Como tudo é copiado, surgiram outras casas semelhantes, neste caso, especializadas apenas em oferecer veados.Tinham até sites na Internet que exibia os 'rapazes' disponíveis.  Desde fato é que surgiu a fama de nossa cidade de ser a cidade dos [[boiolas]]. 
+
+{{DadosMunicípioBrasil   
+<!-- GeoID=3542602 -->
+<!-- Cabeçalho -->
+| nome                 = Oliveira
+| apelido              = 'A Campinas de Minas Gerais'
+<!-- Dados gerais -->
+| brasão               = Brasão Oliveira.jpg
+| bandeira             = Bandeira Oliveira.jpg
+| link_brasão          = 
+| link_bandeira        = 
+| aniversário          = [[19 de novembro]]
+| fundação             = [[31 de novembro de 1703]]
+| gentílico            = Azeitona rosa 
+| lema                 = 'Quasi Cervus Speciosus in Campis'
+| prefeito             =caipira de morro do ferro
+| partido              = DEM, PDS, PT,PR,PP,PV,PMDB,
+PTB, PDT, PCB, PSB,PTC, PTC, PRP, PPS, PP, PHS,PTN, PSOL, PR  
+| fim_mandato          = 2424
+<!-- Localização -->
+| mapa                 = MinasGerais_Municip_Oliveira.svg
+| latP                 = S | latG = 16 | latM = 08 | latS = 
+
+34| lonP  
+               = O | lonG = 40 | lonM = 17 | lonS = 45| 
+estado  
+             =  Minas Gerais
+| mesorregião          = Mesorregião do Cu do Mundo
+| microrregião         = Microrregião da Preguinha nº 3 do [[Cu]] do Mundo
+| região_metropolitana = [[Carmópolis de Minas]]
+| vizinhos             = [[Carmópolis de Minas]],[[Passa Tempo]], [[Santo Antonio do Amparo]], [[Carmo da Mata]] e a [[bosta]] de [[São Francisco de Paula]].
+| dist_capital         = 925,8
+<!-- Características geográficas -->
+| área                 = 725
+| população            = 24 (eu, o padre, você, os dezoito veados seus irmãos, sua mãe, seu pai e o amante da sua mãe)  (senso comum)
+| data_pop             = Contagem da População 2010 - [[IBGE]]
+| densidade            = 24
+| altitude             = 2424,24
+| clima                = afeminado, quente, morno, frio e gelado
+| sigla_clima          = Cwb 
+| fuso_hor             = -24
+<!-- Indicadores -->
+| idh                  = 0,024
+| data_idh             = [[PNUD]]/[[2000]]
+| pib                  = 2424,24
+| data_pib             = [[IBGE]]/[[2008]]
+| pib_per_capita       = 24,24| data_pib_per_capita  = [[IBGE]]/[[2008]]
+}}
+----
+
+==Demografia==
+[[Arquivo:Oliveira247.jpg|thumb|left|230px|vista aérea de Oliveira]]
+
+Oliveira hoje tem uma população de 7.250 pessoas, sendo  50,6% de mulheres, 19,7% de homens e 29,7 de 'indefinidos' na linguagem técnica do IBGE, que quer dizer [[Boiolas]] mesmo. Uma informação interessante é que 78% das mulheres de descendência caucásica tem bundas achatadas ou caidas e apenas 4% das afro-descendentes apresentam este grave defeito de fabricação. A constante miscigenação vem amainando este problema da raça de origem caucasiana.
+86% da população vive na cidade e 14% na zona rural.
+Como o município tem 725 km² de área a densidade demográfica é de 24,24 hab/km².
+A cidade está localizado no meio de vossorocas, a morros por todos os lados,dificultando os moradores a se deslocar de um lugar para outro,fazendo com que a maioria das pessoas tem ataques cardíacos de tanto subir ladeiras.o morro mais famoso é chamado de alto são sebastião,uma enorme ladeira abitada por favelados que não tem onde morar,a maioria são caipiras de morro do ferro.
+----
+
+==Educação==
+[[Arquivo:Oliveira246.jpg|thumb|left|130px|O típico habitante de Oliveira, em traje social]]
+
+Da população de 7.250 pessoas, 57% são alfabetizados (sabem ler pelo menos), 13% sabem apenas assinar o nome com dificuldade e 30% são analfabetos de pai e mãe. Na cidade temos  3.567 pessoas frequentando escolas, 22% cursam o pré-escolar, 63%  cursam o ensino fundamental, 14% cursam o ensino médio e 1% cursam faculdades em outras cidades da região. São 42 mulheres e 30 homens e 'indefindos'. A maioria das mulheres cursa Pedagogia, Ioga e Arte Culinária e os homens e 'indefindos' cursam  Direito,Letras, Arquitetura, Corte e Costura e Balé.
+----
+==Saúde==
+
+A cidade tem um hospital com 86 leitos e 23 ambulatórios de unidade hospitalar geral. Registra-se 256 óbitos por ano, sendo 45% de AIDS, 15% de intoxicação por anabolizantes e drogas, 10% de acidente de motocicleta, 20% por erro médico e 10% de velhice e outros motivos.
+----
+==Turismo==
+[[Arquivo:Oliveira265.jpg|thumb|left|180px|Duas lindas mocinhas da nossa cidade]]
+
+Um dos mais importantes pontos turísticos da cidade (infelizmente) é a feia e desproporcional estátua do Cristo Redentor (cópia de outra feia existente no Rio). Observem o tamanho dos braços da estátua em comparação com o corpo. Por que não puseram uma estátua de [[ Apolo]], a divindade dos boiolas? Seria mais coerente, não seria?
+Com relação a eventos temos o Carnaval, que dura uma semana, animado com bandas que só tocam o lixo da música baiana para o pessoal ficar pulando como desvairados. É no evento, que sob o efeito de álcool e 'otras cositas' mais é que podemos contar exatamente o número de homossexuais de nossa cidade. Tem-se que ter cuidado pois vem muitos boiolas de outras cidades da região, como também de [[Belo Horizonte]], [[Juiz de Fora]], [[Caratinga]], [[Campinas]], [[Pelotas]] e até do exterior, para confraternizar com os coleguinhas da terra.
+outro evento é o reinado,ou congada.um bando de desocupados,feios e pobres,feiticeiros ,bruxos passam dias e noites batendo caixas e latas velhas enferrujadas nas ruas incomodando quem ta dormindo,vão todos para o centro da cidade,onde todos se aglomeram para ver quem tem mais cc debaixo do braço.
+----
+
+== Formação Administrativa==
+
+O distrito de Oliveira foi criado em 14 de julho de 1732, o município em 1739 e a comarca em 19 de novembro de 1761. Quando em 1739 o município foi criado abrangia os distritos de [[Japão]], [[China]], [[Coréia]], [[São Francisco de Paula]], [[Santana do Jacaré]], [[Santo Antônio do Amparo]], [[Cláudio]], [[Divinópolis]], [[Itaguara]], [[Piracema]], [[Crucilândia]], [[Cabo Frio]], [[Guarapari]]  e [[Passa Tempo]]. Na época era o sexto município mais importante da província de [[Minas Gerais]]. Tinha uma área de 8.514.876 km².
+Hoje, com a constante decadência, está entre as 100 menores das 853 cidades do estado.
+----
+
+== Momento Cultural==
+[[Arquivo: Veadinho.gif|thumb|left||70px|]]
+
+Até o começo do século XX, veado não tinha a conotação de [[boiola]]. A conotação surgiu no [[Rio de Janeiro]] quando era prefeito [[Pereira Passos]], que governou de 1902 a 1906.  A [[polícia]] dava batidas nos antros povoados pelos [[homossexuais]] na [[Cinelândia]], região central da cidade que estava se modernizando. O pânico era tal, que começavam a correr em disparada.  Como corriam desvairadamente, pareciam gazelas desorientadas. Para o povo gazela é veado. Assim, surgiu o apelido dado às bichinhas da Cinelândia que depois pegou em todo o Brasil.  
+----
+
+== Gazeta de Minas==
+[[Arquivo: gazeta oliveira245.jpg|thumb|left||300px|]]
+
+O jornal 'Gazeta de Minas' é o mais antigo jornal do estado de [[Minas Gerais]]. Desde 1887 é publicado ininterruptamente, o que é um grande orgulho para nós. Qual o segredo da longevidade? Sempre cantou loas para o governante de plantão, seja ele de qualquer ideologia. O mesmo valendo para o plano estadual e municipal.Sempre cantou loas para qualquer figurão da dita alta sociedade oliveirense que hoje não passam de pobres falidos que se acham ricos, a maioria ja morreu ainda bem. Tem medo de noticiar qualquer coisa que envolve filhos dos figurões da dita alta sociedade (pobres que se acham ricos). Na época do Império elogiava desbragadamente o imperador e a família imperial. A edição que noticiou a publicação da Lei Áurea, chegou a ser patética. Proclamada a [[República]] passou a elogiar todos, todos os presidentes, inclusive os generais da famigerada [[ditadura militar]]. Nunca foi empastelado, nunca sofreu censura nem na ditadura Vargas, nem na ditadura dos generais, quando a maioria dos jornais sofreram censura de fato ou pressão econômica (falta de papel-imprensa).nos dias atuais publica apenas noticias sem graça,que não interessa a ninguem.em meados do ano cem depois de cristo,as pessoas da cidade pagavam pra colunista do jornal noticiarem que seus filhos tinham passado no vestibular em belo horizonte,so pra dizer que eles eram estudiosos,.na verdade não passavam de burros entrando em universidades particulares.
+----
+
+== O Que Não Falta em Oliveira==
+[[Arquivo:Oliveira245.jpg|thumb|left|230px|Foto recente de Oliveira]]
+* comedor de bicha
+* Casarão caindo os pedaços na praça xv
+* gente feia na rua da bosta.
+* Favelados do alto São Sebastião se achando 
+* ladeira pra subir.
+* macumbeiro falando que congada e cultura deles.
+* filmes porno caseiro
+* Prefeita que não tem bunda
+* chifrudo e chifruda
+* Enchente na rua do sapo
+* padre safado
+* Enchente na rua do sapo 
+*  gente pra peidar na missa.
+* viuvas alegres.
+* vagabundos.
+*  quarentona enxuta, peituda e fogosa no Oliveira Tenis Clube
+*  mulatinha bundudinha e gostosa
+*  mulheres feias, sem [[bunda]] e simpáticas
+*  beata e papa-hóstias
+*  fiéis que comungam na missa sem confessar
+*  [[maconha]], [[crack]] e [[cocaina]]
+*  vagabundo
+*mulher roubando marido das outras
+*mulheres que se acham ricas e exploram os pobres da cidade em suas casas
+*mulher que vai a missa pra ver marido das outras
+*mulheres que sao flagradas em videos eroticos com homens casados
+*  mulher feia, sem bunda e antipática
+*  mulher feia, rica e sem bunda
+*  mulher que quando coloca uma calça da moda para ir à missa a bunda fica chata igual  tabua de passar roupa.
+*  mulher feia, pobre e sem bunda
+*  mulher feia, com bunda e ajeitadinha
+*  mulher feia, muito feminina, inteligente (de óculos), sem bunda, sem peito e que adora as músicas da [[Maria Gadú]] 
+*  [[cachaça]]
+*  mulher fazendo regime e comendo escondido
+*  moto sem documentos [[Arquivo:para que serve isto.jpg|thumb|left|200px|Eu não tenho. Para que serve isto?]]
+*  puta gorda, de vestido vermelho (sempre) e com bunda sobrando dos dois lados da calcinha
+*  os filhos delas
+*  buteco
+*  puxa saco de politico
+*  corno manso e conformado
+*  [[boiolas]] assumidos
+*  boiolas enrustidos (ainda no armário)
+*  boiolas que foram para [[Belo Horizonte]] e visitam a cidade com a cara e os trejeitos do [[Luan Santana]]
+*  homem barrigudo, careca, pai de boiola e broxa
+*  promessas falsas  de politicos
+*brigas de vizinhos
+*pessoas que se acham ricas que na verdade sao falidos
+*velhos que dirigem i acham que a rua é deles
+*velhos brochas que cantam as mocinhas
+* caipiras de morro do ferro vendendo biscoito na rua
+*pobres que só compram gol(unica marca de automovel que existe na cidade)
+*  pessoal que fala mal das meninas de Carmópolis
+*  bobo pra acreditar nessas promessas
+*  motorista sem carteira (alguns dirigem melhor dos queos que têm)
+*  mal pagadores
+*  carne dura no churrasco
+*  professora despreparada
+*  pretinhas que não gostam de namorar pretos
+*  duplas metidas a cantar música sertaneja (e mal)
+*  dono de boteco que não sabe atender clientes
+*  barangas que se acham gostosas
+*  mentirosos e mentirosas
+*  caipiras do Morro do Ferro
+*  engenheiros que não sabem "projetar" pontes na Avenida Maracanã
+*  pontes na Avenida Maracanã caindo, devido a erro de cálculo por engenheiros que não sabem "projetar" pontes na Avenida Maracanã
+*  PM que não sabe interpretar CÓDIGO DE TRÂNSITO
+*  motoristas/motoqueiros que estacionam em local proibido sem serem incomodados por PM que não sabe interpretar CÓDIGO DE TRÂNSITO
+*  oliveirenses que não aceitam que a cidade é uma bosta e ficam indo para as cidades vizinhas todos os finais de semana
+*  gays na praça
+*  jovens que quebram o papai-noel no natal para parecer machos mas que na verdade são gays
+*  babacas que ficam dizendo que a cidade é grande.
+
+----
+[[Arquivo:moto roça.jpg|thumb|right|230px|único meio de transporte urbano de Oliveira]]
+
+== O que há Para Fazer em Oliveira==
+[[Arquivo:claudio bebado245.gif|thumb|left|550px|Um cachaceiro conhecido]] 
+* Dar a Retaguarda(Cú) para um conterrâneo como forma de caridade, ou mesmo para um forasteiro a fim de ampliar o turismo no local.
+* Nada
+* ir no desfile dos macumbeiros que fazem congada na praca 15
+* correr igual idiota atras de um idiota fantasiado de boi.
+* Pescar
+* Nada
+* Tomar cachaça
+* Nada
+* Pescar
+* Ficar olhando as muié feia de bunda achatada (igual de japonesa)
+* Nada
+* Esperar o Carnaval
+* Assistir a missa, cochilar na hora do sermão, [[peidar]] sigilosamente e comungar sem confessar
+* Sentar na praça e ficar falando mal dos outros
+* Almoçar no Oliveira Tenis Clube
+* Nada
+* Contar pro amigo que seu filho de 2 anos só quer brincar de boneca
+* Ir na igreja evangélica pra vê as únicas moças virgens (??) da cidade. Aquelas que o pastor ainda não conseguiu assediar
+* Passear de moto com a namorada com calça de cintura baixa mostrando o rego da bunda
+* Ficar olhando o rego da [[bunda]] das namoradas dos cara de moto
+* Nada
+* Tomar cachaça
+* Ir na Carmoreta de [[Carmópolis de Minas]] para brigar
+* Nada
+* Falar mal do prefeito e dos vereadores puxa-sacos dele
+* Nada
+* ficar sentado, tomando cerveja, em mesas dispostas na calçadas, em butecos na beira de córregos, achando-se o máximo
+* Fumar um cigarrinho de palha (alguns com cheiro de mato??)
+* Nada
+*ir na praça xv e ficar dando voltas ate ficar tonto e vomitar.
+*ir em qualquer coisa que aconteça na praça xv.
+*assistir missa na igreja nova pra falar qui é rico.
+*falar da chuva e do sol.
+*sentar na porta de casa de noite pra falar mal do vizinho.
+*ir no centro espirita sexta a noite.
+
+* Assinar a 'Gazeta de Minas' e ler os elogios à elite que está no poder (seja qual for)
+* Ajudar a mulher do corno (aquele!) a ser feliz...
+* Escutar musica sertaneja bem alta, com a tampa do bagageiro do carro levantada
+* Nada
+* Ficar em turma sentado na porta do buteco, sem camisa, de óculos escuros e tomando [[cerveja]].
+* nada
+* ficar sentado, tomando cerveja em mesas dispostas na calçadas em butecos na beira de córregos, achando-se o máximo
+* Fumar maconha no morro do diamante 
+* Ver o por do sol no bairro pedra negra, e depois fuma maconha com os usuários desse local
+
+==História de Importantes Famílias de Oliveira==
+
+===Os 'Almeida'===
+
+[[Arquivo: aracy ameida245.jpg|thumb|right|100px|Aracy de Almeida]]
+O sobrenome  procede de Fernando Canelas que em 1245 fundou em Beira, uma aldeia que em 1258 passou a se chamar Almeida, da qual tirou o sobrenome.
+Almeida deriva-se da palavra árabe 'Al Meda' ou 'Talmeyda', que significa 'Mesa'.  Uma lenda local conta que teria existido uma  'mesa' (pequena elevação) cravada de pedras preciosas, da qual teria dado o nome à terra. A vertente brasileira proveio de Duarte de Almeida, que condenado em [[Portugal]] pelo crime de abigeato foi obrigado a se imigrar para o Brasil  para poder ser anistiado. Chegou como degredado em 1634 no Rio de Janeiro e um ano depois amasiou-se com uma dançarina de cabaré e teve três filhos. Uma sua neta das mais conhecidas  é a cantora e jurada de programa de televisão Aracy de Almeida que deixou longa descendência, inclusive os Almeida de Oliveira.
+
+
+
+----
+===Os 'Andrade'=== 
+
+[[Arquivo:livia andrade245.jpg|thumb|right|100px|Livia de Andrade]]
+Sua origem foi na [[Galícia]], cujo solar ficava entre Pontedeume e Vilalba, onde o rei D. Henrique II de Castela  doou terras a Fernão Peres de Andrade.  Um dos primeiros a chegar ao [[Brasil]] foi  Pero Coelho de Andrade, bisavô de [[Castor de Andrade]], milionário <s>chefe dos traficantes de drogas</s> bicheiro [[carioca]] dono do time de futebol do [[Bangu]] e da escola de samba [[Mocidade Alegre de Padre Miguel]]. Um parente de Pero Coelho de Andrade, chamado Francisco que era amigo (???) da [[Marquesa de Santos]] e dividia com D. Pedro I os seus favores sexuais, recebeu para abandonar o Rio de Janeiro e não fazer concorrência ao imperador (que era tarado mais tinha [[pinto]] pequeno), uma bolada em dinheiro e uma sesmaria. Veio para Oliveira e se estabeleceu. Uma das figuras mais interessantes da família é a portentosa Lívia de Andrade, atriz da televisão, que já fez ensaios peladinha para as revistas [[Sexy]] e [[Playboy]]. 
+
+
+
+----
+===Os 'Castro'=== 
+
+[[Arquivo:Ines de Castro.jpg|thumb|left|120px|Inês de Castro]]
+
+
+Castro é um sobrenome de origem geográfica e teve origem nas centenas de castros ou fortalezas (do latim ''castrum'') espalhados pela península Ibérica, principalmente em seu quadrante noroeste (Galicia, Astúrias, Leão e norte de Portugal). Nos [[Lusíadas]], está relatada a história de [[Inês de Castro]]  a filha  do fundador da família em Portugal. Inês era [[amante]] do rei D. Pedro I de Portugal, que foi obrigado a casar-se com Constança, [[princesa]] espanhola, que era feia, gorda e roncava muito. Constança morreu no parto de seu primeiro filho pela inexperiência de uma estagiária obstetra formada em [[Itaúna]] que  no meio de tanta pelanca não conseguiu encontrar por onde a criança teria que sair.  Pedro decidiu casar-se com a amante. O casamento foi celebrado apenas na presença do padre seu cúmplice. A Corte não aceitou este casamento e providenciou o assassinato de Inês. D. Pedro revoltou-se  e chamou o chefe dos capangas [[capitão Nascimento]] para dar um jeito na coisa. Matou uns caras e trouxe o cadáver de Inês para o palácio. Vestida com requinte Inês foi consagrada rainha e colocada no trono. Daí surgiu a expressão: ‘E agora, Inês já e morta’. O pai de Inês, Pedro Fernandes de Castro recebeu do rei vultosa recompensa e montou uma grande rede de supermercados em Portugal com filiais em [[Angola]], [[Moçambique]] e [[Guiné-Bissau]]. Mais tarde, com a morte de Pedro aconteceu uma briga pela herança entre os cunhados e parte da família veio para o Brasil, chegando a Oliveira.
+----
+
+===Os 'Chagas'=== 
+[[Arquivo:quiteria chagas245.jpg|thumb|left|100px|Quitéria Chagas]]
+
+O sobrenome surgiu em Portugal no Mosteiro de Pedroso, em meados do século XVI, quando o abade recebeu na 'roda dos expostos' uma criança do sexo masculino que tinha marcado na roupa o nome de Gonçalo. Para reverenciar as chagas de [[Cristo]], deu a ela o sobrenome 'das Chagas'. O garoto logo foi adotado por uma família de comerciantes. Um descendente de Gonçalo das Chagas, chamado Antonio veio para o Brasil em 1740 e chegou em Minas Gerais na época da mineração de ouro. É desse ramal que procedem os Chagas de Oliveira. Além do nosso conterrâneo famoso Carlos Chagas, a família tem também o governador do Rio de Janeiro Chagas Freitas, cuja mãe é aparentada com a família de Oliveira e a comentada modelo Quiteria Chagas,  que desfila pelada, apenas coberta de purpurina no [[Carnaval]] como rainha de bateria. Existe muita dúvida sobre quem é o pai desta garota, mas dizem que é da família.
+
+
+
+----
+===Os 'Costa'=== 
+
+[[Arquivo:otavianocosta245.jpg|thumb|right|100px|Otaviano Costa]]
+
+Os Costa chegaram ao Brasil com [[Duarte da Costa]], o segundo governador geral, que governou de 1553 a 1558. Como todos faziam na época e até hoje, ele premiou vários membros da sua família, com grandes sesmarias em diversos locais do Brasil bem valorizados como a  ([[Barra da Tijuca]] no Rio, [[Savassi]] e [[Belvedere]] em [[Belo Horizonte]] e [[Morumbi]] em [[São Paulo]]) e também em Oliveira. É depois de Silva, o sobrenome de maior ocorrência no Brasil. Entre as celebridades  que têm o sobrenome destacam-se o arquiteto Lucio Costa, o apresentador Otaviano Costa, a cantora Gal Costa, a miss Brasil 2009 Larissa Costa e as 'modelos' Michele, Sheila e Luciana Costa.
+
+----
+===Os 'Fonseca'===
+
+[[Arquivo:adriana fonseca245.jpg|thumb|left|100px|Adriana Fonseca]]
+ 
+O sobrenome provem da linhagem  de D. Moninho Viegas, casado com D. Valida Trocosendes, pai de D. Garcia Moniz, que os Mouros mataram na conquista de Riba Douro. Os fundadores da família no [[Brasil]] foram os ancestrais de Deodoro da Fonseca que chegaram ao século XVII no Rio de Janeiro e indo para o nordeste exploravam um engenho de açúcar em [[Alagoas]]. Deodoro (que era monarquista) a contra gosto proclamou a República e foi  primeiro presidente do Brasil. Seu sobrinho Hermes da Fonseca, nascido no [[Rio Grande do Sul]], também foi presidente da república. Os Fonseca de Oliveira vieram do Rio de Janeiro. Celebridades que têm o sobrenome além das '[[modelo]]s' Adriana e Lyndsy Fonseca, são a cantora Ademilde Fonseca e o jornalista Rodrigo Fonseca. 
+----
+
+===Os 'Gonçalves'===
+[[Arquivo:Dercy Gonçalves.jpg|thumb|left|150px|Dercy Gonçalves.]]
+
+O sobrenome é derivado do latim ''Gundisalvici'', que significa "filho de Gonçalo".  Os Gonçalves primitivos tiveram origem espanhola, no reino da Galícia, com Moniz Gonzalo. Seu descendente D. Antão Gonçalves, senhor de Alentejo, visconde e arquiduque, foi o primeiro da linhagem portuguesa.  Vieram para o Brasil na época da Inconfidência Mineira. Primeiro foram para Vila Rica ([[Ouro Preto]]) mas fugiram assim que começou a serem presos os inconfidentes. A vertente oliveirense é diretamente afinada com a vertente que foi residir no [[Rio Grande do Sul]], de onde proveio Bento Gonçalves, o lider da Revolução Farroupilha e o cantor Nelson Gonçalves. [[Dercy Gonçalves]]  atriz e comediante, nascida no estado do Rio de Janeiro é parente dos oliveirenses. Outras celebridades que têm o sobrenome são o poeta Gonçalves Dias, o cavaleiro Filipe Gonçalves e os atores Milton Gonçalves e André Gonçalves.
+
+----
+
+===Os 'Lara'=== 
+
+
+[[Arquivo:enoli lara245.jpg|thumb|left|150px|Enoli Lara, frente e verso]]
+Em 1786 os primeiros portugueses de sobrenome Lara vieram para o [[Brasil]], radicando em Oliveira e redondezas, locais onde receberam vastas sesmarias e mataram todos os índios que existiam. Pouparam apenas algumas índias jeitosas que viraram suas concubinas. Eram procedentes da freguesia de Lara, no concelho de Monção, no extremo norte de [[Portugal]]. Muitos adquiriram fortuna, sendo pelos registros oficiais da colônia, os que mais possuíam [[escravos]] africanos. A família  é tão importante que encomendou  ao compositor russo [[Jivago]] um hino, conhecido como [['Tema de Lara']]. Destacam-se como representantes ilustres da família e todos parentes do pessoal de Oliveira a atriz [[Odete Lara]], o falecido e caricato jurado de TV [[Pedro de Lara]] . Enoli Lara, também parente da família destacou-se nos anos 80 como símbolo sexual. <s>Quantas punhetas em sua homenagem, hein turma!!!</s>. 
+
+
+----
+
+=== Os 'Leite'===
+
+[[Arquivo:Claudia Leitte.jpg|thumb|right|100px| Cláudia Leitte (sic) ]]
+Em Portugal, origem da família, foi Álvaro Anes Leite, que viveu no tempos de D. João I, rei de Portugal  o primeiro a usar o sobrenome.  No começo  do século XV, através de uma manjada demanda judicial, recebeu as terras  pertencentes a João Rodrigues, tornando-se assim o maior proprietário de terra do norte de Portugal.   Um descendente de João Leite veio para o Brasil. Chegando ao Rio de Janeiro decidiu ir para o sul de  Minas onde casou com Maria Ferreira uma viuva nova,  rica e volúvel,  construindo grande fortuna. O barão de Aiuruoca era neto deste descendente. Foi da linhagem de [[Aiuruoca]] que vieram para Oliveira e Passa Tempo os primeiros Leite. Um dos famosos nomes da família é a  gostosa cantora [[Cláudia Leitte]] (que por frescura dobrou o 't' do seu sobrenome). Ela se acha baiana, mas nasceu em [[São Gonçalo]] no estado do [[Rio de Janeiro]], de uma vertente espúria dos Leite do sul de Minas. Um respeitável Leite  assediou e engravidou uma  jovem de 16 anos, costureira de sua mãe que pariu a Cláudia, o que não é novidade nenhuma. pois outros Leite aqui da região fizeram o mesmo e só deixaram bastardos sem herança.
+
+
+----
+
+===Os 'Marra'=== 
+
+[[Arquivo:brasão marra.jpg|thumb|right|80px|Brasão da Família Marra]]
+O sobrenome Marra teve origem em [[Nápoles]], na [[Itália]]. Alguns membros dessa família foram para [[Portugal]]. Andrea Marra foi um famoso [[violinista]] e compositor [[napolitano]] que vivia em [[Lisboa]], contratado como [[músico]] da Câmara e  da Capela Real. <s>e comia quase todas as damas da Corte</s> .  Seduziu e fugiu com a donzela Isabel e foi obrigado a casar na marra. Tiveram muitos filhos e em 1777 vieram para o [[Brasil]], lotando totalmente uma [[caravela]]. Desembarcaram no Rio de Janeiro e mais tarde dispersaram-se entre [[Oliveira]], [[Carmópolis de Minas]] e [[Cláudio]] . A família também tem uma '[[modelo]]' que se chama Martina Marra e vive pedindo para aparecer.
+
+----
+
+===Os 'Mattar'=== 
+[[Arquivo:mauricio mattar245.jpg|thumb|right|100px|Mauricio Mattar e um amigo]]
+Mattar, que em árabe signifca 'chuva', é um sobrenome de origem libanesa .  Tambem existe o sobrenome na Síria. Os Mattar de Oliveira vieram do Líbano no começo do século XX, estabelecendo-se como comerciantes. Alguns da família ficaram no Rio de Janeiro, dentre os quais os ascendentes do polêmico ator e cantor Mauricio Mattar, que tirou a virgindade da [[Angélica]] e foi amasiado com [[Débora Secco]]. Posou pelado para uma revista de [[homossexuais]] e numa entrevista disse que já deu a [[bunda]] uma vez. Como falou um filósofo [[gay]], se o cara toma uma cachacinha de vez em quando pode ser considerado alcoolatra? E se der a bunda de vez em quando é veado?
+
+
+
+
+----
+===Os 'Pereira'=== 
+[[Arquivo:ricardo pereira245.jpg|thumb|left|100px|Ricardo Pereira]]
+
+É uma família de ricos financistas portugueses de origem judaica. Com a Inquisição, foram obrigados a converter ao Cristianismo e como cristãos-novos, repudiaram o sobrenome judeu e adotaram o nome da árvore que dá peras, como fizeram outros  seus amigos judeus que adotaram também nomes de árvores, de animais e de acidentes geográficos. Vieram para o Brasil durante o período de estabelecimento das Capitanias Hereditárias. O donatário da capitania de [[Pernambuco]] Duarte Coelho Pereira  foi quem trouxe diversos membros da família, os que precisavam de uma ajudinha. Os de Oliveira são oriundos de [[Juiz de Fora]]. Celebridades que se destacam na família são o economista e ex-ministro Bresser Pereira, o nadador Thiago Pereira, o ator Ricardo Pereira (português, que atua no Brasil) e a 'modelo' Rita Pereira.
+
+----
+
+===Os 'Resende'===
+
+[[Arquivo:marcelo rezende245.jpg|thumb|right|180px|Marcelo Rezende]]
+
+Não importa se com 's' ou com 'z'.  A distinção é frescura. O uso do sobrenome Resende surgiu por volta do ano de 1030, quando D.Rosendo Hermigiz, bisneto do do rei de Leão, D.Ramiro II, se estabeleceu em [[Beira Alta]] nas terras que recebeu do rei D.Fernando I, por tê-las conquistado dos Mouros. Fundou  a quinta do Paço, que deu lugar ao povoado. O primeiro a utilizar a forma Resende, foi D.Martim Afonso de Resende tomando-o do nome do lugar de que era senhor. Em 1716, João de Resende Costa, que residia na ilha de Santa Maria, nos [[Açores]], ficou sabendo pelo seu primo Miguel, que [[Portugal]] estava tentando conseguir voluntários para colonizar o Brasil, pois estava sentindo-se ameaçado pela [[Espanha]]. Uma embarcação fretada pela Coroa, partiu rumo ao Brasil juntando desempregados, putas, viciados em crack  e vagabundos em todas as ilhas do arquipélago, entre estes estavam João, seu primo Miguel e Diogo Garcia. Depois de 2 meses de viagem chegaram ao porto do [[Rio de Janeiro]], os três decidiram que iriam para os sertões de [[Cataguases]], onde receberam terras e um prêmio de 10 mil contos de réis para comprar três motocicletas.  Se deram bem e daí foram se dispersando pelo interior de Minas, alguns para  Oliveira e [[Cláudio]].  João de Resende Costa fundou a [[bosta]] da cidade de [[Resende Costa]], que consegue ser pior do que a nossa. (Será?). Diversas celebridades têm o sobrenome dentre os quais se destacam o jornalista Marcelo Rezende, a atriz Liliane Rezende, a cantora Cláudia Rezende e as 'modelos' Aline e Larissa Rezende.
+
+----
+
+
+===Os 'Santos'=== 
+
+[[Arquivo:marquesa santosnova.jpg|thumb|right|80px| Marquesa de Santos ]]
+
+A família Santos de Oliveira é descendente direta de [[Filipe dos Santos]], líder da revolta nativista em 1720, considerada precursora da [[Inconfidência Mineira]]. Filipe foi executado pela [[Polícia Federal]] e sua família foi banida de [[Ouro Preto]]. Com a ajuda de padres franciscanos, que iam realizar uma missão, vieram a residir em Oliveira e [[Carmópolis de Minas]], onde ganharam sesmarias. Destacam-se como membros ilustres da família, a insaciável ninfomaniaca [[Marquesa de Santos]], o [[boiola]] inventor do aeroplano  [[Santos Dumont]], o apresentador de televisão [[Sílvio Santos]], o cantor [[Lulu Santos]], a ginasta Daiane dos Santos e a 'modelo' Mirela Santos. 
+A cidade de [[Santos]], importante porto do estado de [[São Paulo]], foi fundada por membros da família, assim como do time de [[futebol]] que lançou [[Pelé]], um das pessoas mais convencidas do mundo (refere-se a ele próprio na terceira pessoa)  que com sua lábia, pica grande e dinheiro comeu até a [[Xuxa]], que queria subir na vida e para isto precisava dar para alguém influente.
+O maior orgulho da família dos Santos é que a [[Bahia]] é de todos os Santos e os baianos portanto são inquilinos deles. Se fuderam hein baianada!!!
+
+
+----
+
+===Os 'Silva'=== 
+
+[[Arquivo:Lula.jpg|thumb|left|120px|Luís Inácio Lula da Silva]]
+
+
+Sua origem é discutível. Alguns sustentam que é espanhola e deriva-se de D. Payo Gutierrez, que tinha o seu solar, às margens dp rio Minho, próximo da torre de Sylva. Foi para Portugal como 'adelantado', nomeado pelo rei Afonso Henriques. Cerca de 40% da população do Brasil tem este sobrenome, inclusive o nosso ex-presidente [[Lula]]. Esta fartura de Silva no Brasil foi causada por alguns imigrantes portugueses quando não tinham Passaporte, Carteira de Identidade e CPF para se cadastrarem e fazer parte das expedições que destinavam ao Brasil, recebendo uma bolsa viagem de 4 mil contos de réis, adotaram o sobrenome Silva. Isto era sugerido pela moça que fazia o cadastro. Algumas celebridades que usam/usaram o sobrenome: [[Marina Silva]], candidata  a presidência da República, Maisa Silva, a garota prodígio do Sílvio Santos, o apresentador [[Fausto Silva]], a atriz Carmen Silva, o cantor Bezerra da Silva e as 'modelos' Adele e Eugênia Silva. 
+
+----
+
+===Os 'Silveira'=== 
+[[Arquivo:juliana silveira245.jpg|thumb|left|100px|Juliana Silveira]]
+
+Os Silveira são proveniente do arquipélago dos Açores e descendem de um nobre flamengo chamado Wilhelm van der Hagen, que ao chegar aos Açores, na ilha de São Jorge, traduziu o seu nome para Guilherme da Silveira. A família desta descendência espalhou-se por todas as ilhas dos Açores. Seu descendente Gonçalo Vasques da Silveira veio para o Brasil em data indeterminada e foi residir no sul de Minas Gerais. A atriz e cantora Juliana Silveira, muito gostosa, é uma das maiores celebridades com o sobrenome. É filha de um aparentado dos Silveira de [[Carmópolis de Minas]], mesmo ramal de Oliveira. 
+
+----
+
+==Os ‘Sousa’==
+[[Arquivo:daniele souza245.jpg|thumb|right|100px|Daniele Souza, a 'Mulher Samambaia']]
+
+Existem Sousa e Souza, sendo a última uma versão arcaica da grafia. Deriva-se do latim ''Saxa'' (significando 'seixos', 'rochas'), que no século XI em Portugal foitransformado em Sausa. O primeiro a usar o sobrenome em [[Portugal]] foi D. Egas Gomes, nascido em 1035 e que acrescentou Sousa, do lugar onde tinha suas terras. Casou-se com Châmoa Gomes Gonçalves.  Martim Afonso de Sousa, neto de D. Egas, foi quem trouxe o sobrenome para o Brasil em 1530.  Os Sousa desembarcaram em [[São Vicente]], e foram mais tarde para a recem fundada vila de [[São Paulo]]. Alguns da familia, menos afeitos ao trabalho, montaram uma rede de casas de [[prostituição]] em [[São Paulo]] na rua Aurora (Boca do Lixo) e conseguiram ficar muito ricos. Suas filhas queriam participar do negócio (trabalhando de graça) e para evitar estes transtornos venderam tudo para um judeu e resolveram vir para Minas Gerais.  Os Sousa/Souza de Oliveira são descendentes desta linhagem de São Paulo.  A modelo Fernanda Souza e Daniele Souza, a famosa 'Mulher Samambaia' ex-[[dançarina]] do programa '[[Pãnico na TV]]', são algumas celebridades que usam o sobrenome. 
+----
+
+===Os 'Teixeira'=== 
+
+[[Arquivo:ricardo teixeira243.jpg|thumb|left|120px|Ricardo Teixeira, presidente da CBF]]
+A família dos Teixeira é uma das mais antigas  de [[Portugal]]. D. Fafes Luz Tejera era um nobre espanhol e veio com o conde D. Henrique para Portugal, sendo seu alferes-mor. Teve pelo menos dois filhos legítimos: D. Godinho Fafes Teixeira e D. Egas Fafes de Lanhoso. D.Sancha, sua mulher, era muito religiosa e transava com o [[bispo]], com todos os [[padre]]s, com o sacristão, com os coroinhas e até com o seu confessor. Ficou prenha, nunca soube de quem e teve um filho que foi parido em segredo num convento de freiras,  criado e educado como menina. Embora já tivesse quase 15 anos, as safadinhas das freiras excitadíssimas teimavam em dar banho nele. Ele então adorava, queria toda hora tomar banho  <s> as freiras sempre faziam boquete ou batiam uma punhetinha para ele.</s>.  Descoberto que era um [[varão]] com uma respeitável vara, foi batizado como Pedro Teixeira e  para se livrar dele mandaram para o  [[Brasil]] numa missão de jesuítas. Aqui chegando, um pouco depois, casou-se com uma portuguesa rica,  bem mais velha que ele e resolveu vir morar em Mina Gerais. Algumas celebridades com o sobrenome são [[Ricardo Teixeira]], todo poderoso da CBF, Renato Teixeira, cantor e Mafalda Teixeira. 'modelo'.
+
+
+----
+
+
+== Nomes Próprios Esquisitos de Pessoas da Nossa Cidade==
+
+[[Arquivo: nomes245.jpg|thumb|right||200px|]]
+Existe uma diferença fundamental entre um apelido e um nome próprio (prenome). Os apelidos são impostos pelos familiares ou pela comunidade, alguns com o intuito de ridicularizar e deixar o apelidado humilhado. Ninguém escolhe o apelido embora tenham apelidados que gostam e até assumem. 
+Os prenomes são escolhidos pela família, na maioria das vezes, pela [[mãe]]. São inventados extravagantes prenomes formados por parte dos nomes do pai e da mãe, outros ajuntando dois nomes aleatoriamente. Ou batizando os filhos com nomes de personagens de novela ou de filmes. Também algumas vezes optam pela sonoridade do nome não importando o que ele signifique. Muitos devem ser erro do escrivão na hora do registro ou da pessoa que soletrou o nome. Só pode.
+Nas famílias de Oliveira, abundam-se os prenomes com K, Y, W e consoantes dobradas sem nenhuma razão de ser. Listamos abaixo mais de 350 nomes interessantes,engraçados, esquisitos <s>ridículos</s> ou incomuns de pessoas da nossa cidade (alguns já são falecidos):
+----
+'''A'''
+
+Adamastor-
+Aderone-
+Adimilson-
+Adrilene-
+Afonsina-
+Agna-
+Aguimar-
+Aidano-
+Akim-
+Alano-
+Alcimar-
+Aldenora-
+Aldis-
+Aledson-
+Alonilson-
+Altanor-
+Alusmarda-
+Alzenira-
+Amenaide-
+Amônica-
+Anaclara-
+Anafátima-
+Analu-
+Anamoema-
+Anannias-
+Andrei-
+Anelisa-
+Anelize-
+Aniceta-
+Aniel-
+Antoniela-
+Aracélia-
+Areslan-
+Arísio-
+Arleida-
+Arthuro-
+Assis-
+Aurisbela-
+Azemar-
+Azevedo-
+Azuil-
+----
+'''B'''
+
+Belza-
+Beralda-
+Bolivar-
+Brasil-
+Bueno-
+----
+'''C'''
+
+Cácia-
+Calazans-
+Carivaldo-
+Carmelito-
+Celeida-
+Celuta-
+Chicre-
+Cicinato-
+Cirila-
+Cirineu-
+Clairton-
+Clare-
+Claudimeyre-
+Claudionara-
+Clauzelita-
+Clebsom-
+Clecy-
+Clênio-
+Clério-
+Cleusemar-
+Cornélio-
+Creuzo-
+Custódia-
+Cyrene-
+----
+'''D'''
+
+Dalca-
+Dalmo-
+Dani-
+Danival-
+Darek-
+Darly-
+Dáyleon-
+Déa-
+Delina-
+Délio-
+Demilson-
+Denir-
+Denizetti-
+Dersonia-
+Dilamar-
+Dilene-
+Dion-
+Diva-
+Divina-
+Divino-
+Djamira-
+Donizet-
+Dorinéia-
+Dorvelino-
+Doverlino-
+Duarte-
+----
+'''E'''
+
+Ecilma-
+Edalmo-
+Ediméia-
+Edinéia-
+Edma-
+Ednara-
+Ednelson-
+Ednilson-
+Edvani-
+Edvar-
+Edwar-
+Efigênio-
+Egislaine-
+Elanir-
+Elci-
+Enir-
+Eri-
+Erly-
+Ernânio-
+Erontildes-
+Esdra-
+Euler-
+Euzane-
+Evander-
+Evanil-
+Evanilda-
+Evis-
+
+----
+'''F'''
+
+Fanve-
+Faues-
+Flosualdo-
+Francinete-
+Fritz-
+----
+'''G'''
+
+Gardênia-
+Gélio-
+Gengys-
+Gerusa-
+Gilbram-
+Gilciney-
+Gildene-
+Gilsolete-
+Gilvan-
+Gilza-
+Gilzaine-
+Giusnara-
+Glacyana-
+Glenan-
+Gleycer-
+Goaciara-
+----
+'''H'''
+
+Haidée-
+Harlen-
+Harley-
+Hayde-
+Heber-
+Heberson-
+Hebert-
+Hederly-
+Hegler-
+Helberte-
+Heleci-
+Heleina-
+Heleno-
+Heliana-
+Heliton-
+Herli-
+Hildo-
+Hosana-
+Hubisclender-
+Heslander-
+----
+'''I'''
+
+Iandara-
+Idé-
+Idilson-
+Ielva-
+Ilacir-
+Ilídia-
+Inácia-
+Iniciário-
+Inivaldo-
+Íria-
+Ironi-
+Isamara-
+Itelvo-
+Iter-
+Iust-
+Ivananci-
+Ivane-
+Ivanilde-
+Ivens-
+Ivy-
+Iwan-
+----
+'''J'''
+
+Jaci-
+Jandir-
+Jardel-
+Jário-
+Jeame-
+Josefer-
+Josete-
+Jouce-
+Jozimary-
+Jupira-
+Juslane-
+Juvânia-
+----
+'''K'''
+
+Kelle-
+Kellen-
+Kemil-
+Kenia-
+Kerlley-
+Késsia-
+Kilder-
+Klemperer-
+Kristiany-
+
+----
+'''L'''
+
+Lafaiete-
+Lamont-
+Latife-
+Laurimar-
+Laurita-
+Layon-
+Lavínia-
+Lederson-
+Ledson-
+Lei-
+Leir-
+Leni-
+Lenir-
+Liberalino-
+Limírio-
+Lincoln-
+Lindley-
+Linéia-
+Liziane-
+Loquitonho-
+Lorena-
+Ludimila-
+Ludjério-
+Lusia-
+Luzio-
+----
+'''M'''
+
+Magna-
+Malta-
+Malvina-
+Marciliene-
+Mardel-
+Mariléia-
+Marinha-
+Marisete-
+Mariula-
+Marlon-
+Marques-
+Martim-
+Maruf-
+Maura-
+Max-
+Máxima-
+Maxwell-
+Mirelle-
+Mislaine-
+Morel-
+
+----
+'''N'''
+
+Nabor-
+Naci-
+Naide-
+Naldi-
+Nalton-
+Natividade-
+Nazaré-
+Neif-
+Neila-
+Neilor-
+Neiva-
+Neli-
+Nely-
+Nemir-
+Neralice-
+Neres-
+Nerley-
+Nílio-
+Niva-
+Norminda-
+Norton-
+Núbia-
+----
+'''O'''
+
+Ocrides-
+Odonel-
+Oliveiro-
+Onivando-
+Onofra-
+Orsina-
+Othon-
+Ozita-
+
+----
+'''P'''
+
+Pabline-
+Paulymar-
+Pedrina-
+Piedade-
+Porcina-
+
+----
+'''R'''
+
+Raciolina-
+Régis-
+Reinane-
+Relry-
+Relter-
+Revalino-
+Rhambler-
+Rhaudex-
+Rocheinne-
+Roden-
+Rosa Visitadora-
+Rosalvo-
+Rosangélica-
+Rosânia-
+Rosemarry-
+Rosemir-
+Rosencleber-
+Rosenfield-
+Rubia-
+Salmo-
+Salva-
+Salvina-
+Sálvio-
+Sandrea-
+Sanila-
+Santinha-
+Santuza-
+Sanzia-
+Sanzio-
+Sanzzia-
+Sávio-
+Seleida-
+Sêmia-
+Semir-
+Semistro-
+Sezenandro-
+Siléia-
+Sudneon-
+Sued-
+Suemir-
+Suyene-
+Suzani-
+Suzy-
+----
+
+'''T'''
+
+Tacyara-
+Taisse-
+Talan-
+Tanus-
+Teodolino-
+Theodolo-
+
+----
+'''U'''
+
+Uziel-
+----
+'''V'''
+
+Valderício-
+Valmi-
+Vanézio-
+Védia-
+Velma-
+Venânica-
+Vener-
+Venício-
+Veríssimo-
+
+----
+'''W'''
+
+Waldes-
+Walker-
+Walkyria-
+Wallace-
+Walquir-
+Wanilton-
+Wdson (assim mesmo, não é erro de digitação)-
+Werley-
+Weslaine-
+Wilcilene-
+----
+'''Z'''
+
+Zilá-
+Zione-
+Zumira-
+----
+<br> __NOTOC__ <br>
+
+{{Minas Gerais}}
+
+=
+
+== Ver também ==
+*[[Minas Gerais]]
+
+<br> __NOTOC__ <br>

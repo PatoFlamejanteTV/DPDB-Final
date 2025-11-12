@@ -1,0 +1,54 @@
+{{Game}}
+
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Formula Zero
+|image     = F-Zero SNES.jpg
+|caption   = Na capa podemos ver [[Ayrton Senna]] sendo perseguido de longe por [[Satoru Nakajima]]
+|developer = [[Nintendo]]
+|publisher = [[Nintendo]]
+|released  = 2560
+|genre     = [[corrida]]
+|platform  = [[SNES]]
+|rating    = 90%
+|ages      = Recomendado para toda família
+}}
+
+{{c|Estradas? Para onde vamos não precisamos de estradas!|[[Dr. Emmett Brown]]|F-Zero}}
+
+'''F-Zero''' é o maior sucesso do [[SNES]] depois de [[Super Mario]], [[Zelda]], [[Super Metroid]] (ou seja, não foi um sucesso). O jogo prevê o futuro da [[fórmula 1]], quando carros de altíssima performance são pilotados por [[pokémon]]s que preferem mais matar seus adversários jogando-os contra o muro eletrificado, do que apenas ganhar a corrida em si. [[Shigeru Miyamoto]] passou cinco dias e cinco noites trancado na sede da [[Nintendo]] para desenvolver a ideia de carros que funcionam por antigravidade movidos a olho de peroba.
+
+O fantástico mundo de F-Zero é povoado por caçadores bombados, foras-da-lei, cyborgs, tartarugas ninjas e smurfs. Todos no sistema solar tem seus direitos, sem preconceitos de distinção de raça ou tendência psicopata.
+
+== Jogabilidade ==
+
+[[Arquivo:F-Zero select.png|thumb|left|Tela de escolha. Vemos o carro do [[Ayrton Senna]] sendo selecionado.]]
+
+F-Zero é um jogo de corrida, onde o jogador deve controlar o [[Ayrton Senna]] em um cenário futurista de realidade virtual onde os carros flutuam e se matam literalmente para ganhar corridas. O jogo na versão original em [[japonês]] é narrado por [[Galvão Bueno]] com comentários de [[Reginaldo Leme]], mas na versão americana os comentários são de [[Luciano Burti]]
+
+As naves do jogo parecem estar sendo pilotadas numa pista de manteiga, todas elas são revestidas com muros eletrificados que acabam com o seu carro a cada curva e aumentam ainda mais a emoção de matar seus adversários. Em cada circuito há espalhados estratégicamente pit-stops para troca de óleo.
+
+== História ==
+
+Por se tratar de um jogo de corrida, é claro que não existe história. O pouco que se diz é que em [[2560]] todos os habitantes do [[sistema solar]] se reúnem para assistir quatro competidores audazes pilotarem geringonças que se movem a mais de 500&nbsp;km/h se matarem em circuitos de traçados e curvas psicodélicas.
+
+O jogador deve escolher uma das quatro naves disponíveis, e derrotar seus rivais impiedosos. Os pilotos [[Ayrton Senna]], [[Alain Prost]], [[Nigel Mansell]] e [[Satoru Nakajima]] não só devem ganhar as corridas, como também assassinar seus adversários e evitar os espiões da [[McLaren]].
+
+== Personagens ==
+
+Apenas quatro:
+
+* [[Ayrton Senna]]
+* [[Alain Prost]]
+* [[Nigel Mansell]]
+* [[Satoru Nakajima]]
+
+{{F-Zero}}
+
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para Nintendo Switch Online]]
+[[Categoria:Jogos de corrida]]
+[[Categoria:Jogos lançados em 1990]]

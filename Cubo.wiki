@@ -1,0 +1,38 @@
+'''Cubo''' é o [[trocadilho|marido da Cuba]], e também é uma forma geométrica, mais conhecida por ser um [[líquido]] de [[Sócrates]], não, um [[gás]] de [[Aristóteles]], não, não... ah, sim, por ser um [[sólido de Platão]]. O cubo é uma das formas geométricas mais conhecidas e populares, pois não há grandes mistérios por detrás dele, também não tem um nome complicado por demais para ser pronunciado por um pobretão, tipo o paralelogramo, um pobre desdentado jamais pronunciaria corretamente o termo [[paralelogramo]], enquanto cubo tem somente duas sílabas, então até o seu [[cachorro]], caso você ensine a ele, poderia falar a palavra "cubo".
+
+==Definição==
+[[Arquivo:Cubo-Mágico-meme.jpg|thumb|300px|A complexa vida de um cubo.]]
+
+Cubo é um sólido 3D, espacial, ou seja, ele tem volume, podendo guardar diversas coisas, desde que o volume consiga guarda-las, tipo a quantidade de [[merda]] que sai da boca do [[Milton Neves]] teríamos de ter um cubo de volume infinito... O cubo é a junção de 6 [[quadrado]]s, então as seis [[face]]s do cubo terão de ser quadrados, e para serem quadrados as arestas devem ter o mesmo comprimento. Um milímetrozinho a mais, e já não teremos um cubo, e sim um retângulo, losango, paralelogramo, qualquer bosta, até a sua [[bunda]] amassada de tanto ficar sentado de frente pro [[computador]], menos um cubo.
+
+Como já foi dito, o cubo tem 6 faces, consequentemente ele terá 12 arestas, que são aquelas linhas fininhas de quando você desenha o cubo, e 8 vértices, que são os pontinhos pequenininhos, do tamanho do [[cérebro]] de um [[petista]], das quinas das pontas do cubo. Lembrando que nem todo sólido com 6 faces, 12 arestas e 8 vértices será um cubo, pode ser todas aquelas merdas citadas acima, então não confunda na hora de fazer o [[Enem]] ou qualquer vestibular/prova/concurso, não queira ser essa vergonha para a [[sua família]], mais do que você já é gastando seu tempo lendo esse [[artigo]] horrível.
+
+Basicamente, o cubo é o quadrado, só que em 3 dimensões, então caso mandássemos ele pra puta que pariu, ou seja, para a quarta dimensão, assim teríamos o tesserato, um objeto bugado, que a [[Marvel]] foi lá e roubou o nome pra criar aquele cubinho sem vergonha do [[Loki]]. Então, podemos concluir que a definição de cubo é um sólido de 3 dimensões (patrocinado pelo IMAX 3D Blue-Ray Digital 4k Premium), formados por quadrados (podendo ser um [[quadradinho de oito]], [[sexo anal|de quatro]], etc.).
+
+==Propriedades==
+O cubo é um dos sólidos tridimensionais mais fáceis de se estudar, talvez o mais fácil, e é justamente por conta disso que ele é o mais conhecido. Tudo acerca desse maluco é a ver com o fato dele ser o quadrado 3D, e ponto final. O cubo é um verdadeiro preguiçoso, pois nem se deu ao luxo de tentar buscar algo original, e plagiou na cara dura várias propriedades dos quadrados. Por exemplo, o cubo tem somente [[ângulo]]s internos de 90°, também conhecidos pelo nome de ângulo reto, lembrando o ângulo que a [[piroca]] [[ereção|ereta]] faz para mijar, que nem o quadradinho. 
+
+A fórmula área da base do cubo é mesma da área do quadrado, pois só tem quadrado nessa porra. E a área do lado de fora é só multiplicar a área da base por 6, já que existem 6 quadrados em um cubo. Por ter um cálculo tão ridículo de fácil como esse, os professores cagam e andam pro cubo, somente colocando uma questão relacionada ao cubo caso ele esteja com [[pena]] da turma, ou ache que está dando aulas para um bando de [[corintiano]]. Portanto a fórmula da área externa do cubo é:
+
+<center><big><big><math>Ae = 6l^2</math></center></big></big>
+
+[[Arquivo:Cu de cubo.jpg|thumb|240px|Agora sim, um verdadeiro CUbo!]]
+
+A fórmula do volume de um cubo é a área da base vezes a altura dele, que por sua vez é a altura que você usa para calcular a merda da área da base. Ou seja, só tem uma única informação na desgraça do cubo. Então você somente precisa do valor de qualquer aresta do cubo e pronto, a sua vida está feita, dá achar a zorra toda nessa merda... Então, a fórmula do volume pode ser expressa da seguinte maneira:
+
+<center><big><big><math>V = l^3</math></center></big></big>
+
+==Representações==
+O cubo pode ser encontrado na natureza e em outras ciências mais comumente do que você imagina, até porque, retirando os descendentes de [[Einstein]], [[Isaac Newton]], [[Marie Curie]], fãs do [[cubo mágico]], ninguém se importa com essa figura, pois poucos são inteligentes e/ou intelectuais o suficiente para achar entretenimento numa forma tridimensional, a maioria das pessoas optam por perder mais tempo analisando, por exemplo, quantos pontos faltam pro seu time fugir da [[zona de rebaixamento]].
+
+Na cristalografia, a ciência dos cristais, fundada pelo renomado químico [[Walter White]], e difundida pelo seu laboratório de química, Los Pollos Hermanos, um cubo pode ser encontrado na estrutura dos cristais, ou seja, um cristal pode ter um formato [[cu|cubão]], mas nem tão bão assim... Já em vetores e/ou geometria analítica, um cubo pode ser determinado por duas retas fujonas que estejam correndo pra longe de uma da outra, conhecidas pelo nome de retas reversas, nome dado em homenagem ao cientista [[professor Zoom]], famoso em sua contribuição no campo da arte de [[correr pra caralho]], que nem os vetores.
+
+Para calcular o volume de um cubo formado por duas retas "reversas perversas revertidas divertidas" (autor do artigo sofreu um [[AVC]] nessa parte, pedimos perdão pelo ocorrido), basta calcular a distância entre elas, que é dada pela fórmula:
+
+<center><big><big><math> d = \frac{|\overrightarrow{Pr Ps}(\overrightarrow{v_r} \times \overrightarrow{v_s})|}{||\overrightarrow{v_r} \times \overrightarrow{v_s}||}</math></center></big></big>
+
+Onde os P grandalhões são um ponto de uma das retas, e "v<sub>r</sub>" e "v<sub>s</sub>" são os vetores das retas, que as mandam pra puta que pariu, na velocidade do [[Botafogo]] tomando um gol num jogo contra o [[Flamengo|Flamídia]]. Usando essa fórmula você encontrará o nosso tão querido cubinho do meu coração, porém pra isso será preciso dois vetores e duas retas, então se quiser calcula-lo sugiro peidar em duas direções diferentes, em diferentes planos, e calcular os vetores do gás metano liberado pelo teu cu.
+
+{{formas geométricas}}
+
+[[Categoria:Figuras geométricas]]

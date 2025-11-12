@@ -1,0 +1,33 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Proboscidea
+| imagem          = Proboscidea.JPG
+| imagem_legenda  = Proboscídeos felizes reunidos caso não estivessem todos extintos.
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| superclasse     = [[Tetrapoda|Quadrúpedes]]
+| classe          = [[Mammalia|Mamadores]]
+| subclasse       = [[Theria]]
+| infraclasse     = [[Placentalia|Placentários]]
+| ordem           = [[Proboscidea|Animais que comem com o rabo]]
+}}
+
+'''Proboscidea''' é a ordem de animais mamíferos que comem com o rabo, não que sejam todos animais existentes já que os animais não tiram o rabo pra comer, mas sim aqueles que literalmente comem com o rabo, atributo anatômico o qual os veterinários definem como [[tromba]], ou seja, é a ordem de elefantes, mamutes, mastodontes, olifontes, elefantes do rei Xeres e assim por diante.
+
+== Anatomia ==
+
+Os proboscídeos são geralmente animais de grande porte, chifrudos, narigudos, obesos, com boa memória e geralmente dóceis caso você não tente dar uma facada ou mordida neles. Suas maiores características anatômicas são serem parecidos com elefantes e terem a cauda no lugar do nariz para sugar água e criar um chuveiro para que possam lavar as costas.
+
+Estes animais são reconhecidos pelas orelhas pequenas, exceto talvez o elefante-africano, afinal ele parece muito tímido e raivoso sobre as brincadeiras que possam surgir sobre o tamanho de tuas orelhonas, e toda vez que alguém vem pegar suas orelhas para esticar e medir ele atropela e mata a pessoa a pisoteadas, por isso não sabemos exatamente a largura dessas orelhas.
+
+Como defesa natural este grupo de animais desenvolve uma obesidade mórbida de maneira que nenhum animal carnívoro tenha interesse por sua carne nada nutritiva e cheia de banha que faz mal pra saúde e entope artérias dos carnívoros. As enormes presas não servem para defesa, devido a seu tamanho desconfortável, servem para apenas servir o valioso [[marfim]] para indústrias marmoreiras, por isso que estes animais são predados e mutilados sem nenhum remorso pelos [[homo sapiens]].
+
+== Famílias ==
+
+Atualmente só existem três espécies de elefantes vivas, o [[elefante-da-savana|elefante-africano]], o [[elefante-indiano]] e o [[elefante-da-floresta|elefante-da-terra-do-nunca]]. Já foi uma ordem muito diversificada, com diversos tipos de elefantes de todos tamanhos e sempre aparecendo em todos jogos de videogame e como deus em todas culturas, porém as enormes quantidades de comida que eles necessitam a cada época de hiperinflação tornava-se impossível de ser comprada, o que levava muitos deles à extinção... ou apenas mudanças climáticas quando no [[holoceno]] as calotas do ártico derreteram e a Sibéria virou o Saara matando todos mamutes que viviam lá de calor. Sobraram então as seguintes famílias:
+
+* '''[[Elephantidae]]''' - Elefantes
+* '''[[Mammutidae]]''' - Mamutes e mastodontes
+
+[[Categoria:Placentalia]]
+[[Categoria:Proboscidea|*]]

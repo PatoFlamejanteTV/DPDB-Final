@@ -1,0 +1,195 @@
+{{compactar|
+{{vqd|[[Java]] de millennial?}}
+{{C|O bom é que nao preciso aprendé a configurah meu teclado ABNT-2 no Ubuntu|Luser|Python}}
+{{C|Nunca entendi essas piadas sobre o ; |Programador python|Piadas de C}}
+{{C|Em Python, tudo é objeto, além de lindo e maravilhoso.|Caetano Veloso|Python}}
+{{C|Python suporta a Web 2.0?|Leitor da INFO|Python}}
+{{C|Essa serpente maligna não é de [[Deus]], com certeza!|Evangélico da empresa|Python}}
+{{C|O paraíso foi construído em Python. Por isso que ninguém nunca viu.|Deus|Python}}
+{{C|Mas ela não tem um ecossistema vigoroso|Certified Buzzword Developer|Python}}
+{{C|Python has been an important part of [[Google]] since the beginning, but now we're not INFO and [[Turma da Mônica]] readers anymore and we're back to the good old C|Peter Norvig, faxineiro do Google|Python}}
+{{C|Fácil de expressar-se. Fácil de expressar-se.|Loro|Python}}
+{{C|Ei, eU jÁ tChiNhA VixXxtU iXu!|[[Emo Programmer|Programador Ruby]] sobre Python}}
+{{C|Quem Acha que programação orientada a indentação é tosca é porque não sabe que a ideia original do VonMussum era programação orientada a systembell|Seu Madruga|Python}}
+{{C|SSSSShhSSShhhhhhhh... shhhhSSShhhhh|Cobra|Python}}
+{{C|Já existe um sistema feito em python.|Pantaleão|Python}}
+{{C|Não preciso pensar muito, defino tudo em uma linha.|Albert Einstein|Python}}
+{{C|Mato a cobra e mostro o ''paiton''!|Dito popular sobre Python.}}
+{{C|print('melhor linguagem que tem,meu criador me programou com isso e algumas redes neurais')|Computador de escola|Python}}
+}}
+
+[[Arquivo:Programação em Python.jpg|thumb|Um programa em Python, que calcula [[42|a resposta para todas as questões do universo]].]]
+'''Python''' (pronuncia-se ''paifôn'' ou ''páidon'', não ''pantom'', ''píton'', ''pitôn'' e nem ''[[pintão|pintón]]'') é a principal sucessora de [[Logo]] como principal atração para as crianças de 6 a 8 anos, sendo também uma calculadora de [[linha de comando]], orientada à indentação. Costuma ser o destino preferencial dos [[Emo Programmer|programadores Ruby]], quando estes finalmente se dão conta que estão usando um "[[Perl]] 2.0".
+
+Linguagem diretamente relacionada a bandas como [[Charlie Brown Jr.]] ou [[CPM 22]], simbolizando a rebeldia contra o sistema covarde.
+
+Esta linguagem está em franco crescimento, várias empresas já encorajam estagiários a dedicarem vários minutos por semana ao desenvolvimento de nano-sistemas em python. O primeiro sistema totalmente feito em python será produzido até 2035, garantem os especialistas.
+
+==História==
+[[Arquivo:Guido Van Rossum.jpeg|thumb|right|Esse foi o gordo cachaceiro que criou paitom]]
+[[Guido van Rossum|Guido van Mussum]], filho de zootecnistas holandeses, também conhecido por seus amigos e familiares como '''-1'''; tinha uma rotina triste se masturbando com tamancos de madeira, fazendo diques com sacos de areia e programando em Algol. Sim, Algol. 
+
+Cansado da vida que levava, van Mussum decidiu aprender uma nova [[linguagem de programação]] para que então pudesse ganhar um visto pros [[EUA]] para tentar trabalhar no [[Google]] e comer a [[Pamela Anderson]]. Como ele não podia caminhar até a biblioteca local para pegar livros com outras linguagens de programação (os tamancos de madeira estavam cada dia mais incômodos), ele pediu para que seu irmão caçula, Just, fosse pegá-los. Porém Just trazia apenas os livros que mais lhe interessavam, que eram livros infantis para alfabetização. Guido então tendo apenas acesso a tais livros, criou sua própria linguagem de programação: [[ABC]]. A linguagem era completamente baseada na cartilha do irmão de van Mussum e isso explica muita coisa.
+
+Após várias trocas de correspondências de Guido com [[Bill Gates]], [[Beakman]], [[Harry Potter]] e [[Caetano Veloso]], a respeito de sua nova linguagem, ele ficou convencido de que ela tinha futuro. Tio Bill simpatizava muito com a proposta de van Mussum de não aprender uma nova linguagem (que dá muito trabalho) e criar sua própria. De quebra, Gates ainda teria mais uma linguagem para enfiar na sua plataforma eleitoral [[.Net]] de grátis.
+
+Após assinar um NDA de [[666]] páginas ele começou a implementar um interpretador para a mesma com o dinheiro da [[Microsoft]], que, em troca da linguagem, enviou para van Mussum duas bananadas.
+
+=== O interpretador para ABC ===
+Guido precisava escolher uma linguagem para escrever o interpretador, mas como ele se recusava a aprender outras linguagens, acabou criando sua própria. A linguagem criada foi o Python, que em vietnamita quer dizer "linguagem criada para criar interpretador ABC". Van Mussum tentava criar o compilador, mas ele era tão teimoso que discutia consigo mesmo, chegando algumas vezes a ir parar no hospital. O departamento de polícia registrou três queixas de agressão de van Mussum contra ele mesmo.
+
+Após o 666o dia de trabalho, [[Bill Gates]] veio do [[Inferno]] cobrar o andamento do trabalho com um [[cronograma]] na mão. Após apresentar todas as suas [[timesheet]], van Mussum não tinha nada mais pra mostrar. Como tinha que levar alguma coisa pra mostrar na TechNet e como programador Microsoft aceita qualquer porcaria, Gates levou a linguagem criada para criar o interpretador, e assim Python ganhou o mundo.
+
+Originalmente ABC deveria ser uma [[linguagem de altíssimo nível]], que poderia expressar os pensamentos de crianças de até 7 anos de idade; porém como nunca saiu as pessoas tiveram que se contentar com Pyhton mesmo. Como a linguagem foi feita às pressas, van Mussum não conseguiu criar um interpretador decente (sim, o interpretado roda sobre um interpretador, ambos são feitos em Python) e a gambiarra de basear a linguagem em indentação dura até os dias de hoje.
+
+=== O sucesso ===
+Mesmo Guido não conseguindo ter seu principal objetivo de ter sua linguagem sendo utilizada por programadores amadores na época, o futuro reservou uma agradável surpresa: os programadores amadores de hoje têm Python como sua linguagem favorita! Sendo por isso uma abstração sintatica da linguagem C/C++ o Python que é uma linguagem bem poderosa usada até no chato GPT dada sua plasticidade em manipular variáveis e funções, acabou se tornando o pior pesadelo do mercado de programação também! Visto que sua praticidade criou uma modinha onde idiotas absolutamente incompetentes gostam de posar de programadores e acabam criando aplicativos totalmente lixosos que cracham por meramente você mexer o ponteiro do mouse no momento erranto quando eles estão abertos e tudo isso porque a modinha do python transformou sua utilidade em maldição! Programadores absolutamente incompetentes que tem preguiça ou limitações intelectuais e cognitivas para aprender linguagens de verdade como c/c++ ou Rust, se refugiam nessas linguagens "fáceis" como python e javascript. O resultado é idiotas tentando criar programas sem um pingo de noção para otimização de performace e estabilidade criando verdadeiras aberrações que travam e cracham o tempo todo sem motivo. Essa estupidez está indo tão longe que hoje em dia está cada vez mais comum idiotas ficarem utilizando javascript que não é uma linguagem com recursos projetada pensando em desenvolver aplicativos para rodar fora dos browsers de internet, mas está cada vez mais comum idiotas usarem essa linguagem junto com o python da pior forma possível para criar programas nativos para desktop cada vez mais ruins e travados. 
+
+Em pesquisas recentes percebeu-se que os programadores usam Python em aplicações de missão crítica como jogos de campo minado, gerenciadores de locadora e exemplos de faculdade. O sistema operacional preferido pelos Geeks, [[Windows|Microsoft Windows]] é todo criado nesta linguagem (isso explica porque demora tanto para iniciar).
+
+Em 1994, [[Maurício de Sousa]], que conheceu Python por meio de seus leitores, criou o personagem [[Do Contra]] para homenagear Guido van Mussum. A comunidade Java reagiu ao sucesso de Python criando a roda novamente diversas vezes.
+
+No [[Brasil]] Python é utilizada por [[Brasília|sanguessugas]] e [[Ubuntu|ubuntontos]].
+
+Python também foi utilizado pelo cantor [[Michael Jackson]] para seduzir garotinhos, que criou o site [http://www.python.com www.python.com], assim enganando as crianças interessadas na linguagem e que desconheciam o site oficial do Python. Com o site [[Michael Jackson]] corrompia os menores e os levava para conhecer a Python dele em [[Never Land]] seu parque de diversões particular.
+
+== Sintaxe ==
+O principal elemento da sintaxe do Python, assim como na linguagem [[Whitespace]] são os caracteres em branco. A ideia ocorreu ao Guido van Mussum quando ele teve que fazer uma prova de linguagem [[Lisp]] na faculdade depois de passar a noite toda fumando [[Maconha|Manga Rosa]] num coffeeshop de Amsterdam. Além da [[larica]], o [[Maconha|jererê]] tinha deixado um branco na mente do Guido e ele não lembrou de usar os parênteses, colocando espaços em branco no lugar.
+
+=== Exemplos ===
+
+Este é o clássico programa "Hello, World" escrito em Python por um [[Emo Programmer|programador de EMOticons]]:
+
+ <span style="color:#FF80DF; font-family:Comic Sans MS;">def fuck_my(x):
+   print("Hello, World!")
+ 
+   _=1
+ fuck_my (_|_)</span>
+
+Versão do mesmo programa usando python 2.7:
+<pre>
+print (
+	lambda f, n: f(f, n))(
+	lambda f, n: chr(n % ((
+		lambda _, ________: (_ << ________))(
+		(True << False), ((((
+			((((((True + True)) * ((-~True)))) - (
+				(True + False)))) * ((((True * True)
+				) + ((-~True))))
+				) - ((((
+					((~False * ~True)) * (
+						(True + True))
+					)) - ((True + False)))
+				))) + ((~False * ~True)))
+		))) + f(f, n // (
+	lambda _, ________: (_ << ________))(
+	(-~False), (((((-~-~False)
+		) * ((~False * ~True)))) * ((-~True))
+	))) if n else "", (
+		lambda _, __, ___, ____, _____, ______, _______, ________: (((
+			((_ << ____) + _) << __) - _) << ((
+			((___ << __) - _) << ___) - _)) - ((
+		(_______ << ___) - _) << ((_____ << ____) - _)
+			) - (((_____ << ___) - _) << (((
+				((_ << ___) + _)) << ___) - _)) - ((
+			(_______ << ____) - ___) << ((((_ << ____) - _) << __) + _)) + (
+				((((_ << ____) - _) << __) + _) << (
+					(_______ << ___) - (_ << _))) + ((
+					(___ << _____) - ___) << (
+					(___ << ____) - (_ << _))) - (
+					((_ << ______) - _) << (
+						(_____ << ___) - _)) - ((
+						(_ << _____) + _) << ((_ << _____) - _)
+						) - (((_____ << ___) - _) << ((___ << ___) - _)
+						) - (((_____ << ___) - _) << ((_ << ____) - _)
+						) - (((_______ << __) - _) << ________) + ((
+							(((_ << ___) + _))) << ___)
+						)((-~False),
+						(-~True),
+						(((True << False)
+							) + ((True + True))
+						),
+						(((~False * ~True)) + (
+							(-~-~False))),
+						(((((
+							(((-~-~False)) + ((-~-~False)
+								))) - ((True << False)))
+						) * ((~False * ~True))) - ((True ** True)
+						)),
+						((((
+							((((-~-~False)) * ((-~True)))
+								) - ((True ** True))
+							)) * ((((
+								((~False * ~True)) * ((True + True)))
+							) - ((~~True))))) - (
+						(((((-~True)) + ((True + True)
+							))) - ((True + False))
+						))), (((True + True)) + (((
+							(-~-~False)) + ((((
+								((-~-~False)) + ((-~-~False))
+								)) - ((True * True))))
+							))),
+						(((((
+							(((((-~-~False)) + ((~False * ~True))
+								)) - ((True + False))
+							)) * ((((
+								((~False * ~True)) * ((~False * ~True)
+									))) - ((True * True))))) - ((
+						((True ** True)) + ((~False * ~True))))
+									)) + ((-~-~False)))))
+</pre>
+{{c|isto é um erro! printi nũm erá funccao na epohcaaaaaaa #vouVoltarProCSS #pythonÑmeAbala| Progamador de [[HTML5]] e [[Cascading Style Sheets|Counter-Strike Source]]| O código a cima.}}
+====Meu Pintinho Amarelinho====
+A música do pintinho foi inicialmente programada um Python, mostrando que a linguagem é tão fácil que até um [[Funkeiro|Funkeiro]] consegue usa-lá:
+<pre>
+class Bicho():
+    def __init__(self, nome, som):
+        self.nome = nome
+        self.som = som
+        self.sexo = 'a' if nome[-1] == 'a' else 'o'
+
+pintinho = Bicho('Pintinho', 'Piu')
+
+bichos = [Bicho('Galinha', 'có!'), Bicho('Galo', 'cocó!'),
+        Bicho('Peru', 'glu glu!'), Bicho('Gato', 'miau!'),
+        Bicho('Cachorro', 'au au!'), Bicho('Vaca', 'mó!'),
+        Bicho('Boi', 'mú!'), Bicho('Nenêm', 'gugu!'),
+        Bicho('Pato', 'quá!'), Bicho('Viado', 'ai ai!'),
+    ]
+
+print(('Minha sogra tinha um %s\n' % pintinho.nome) * 2)
+print('De noite o %s %s %s %s' % (pintinho.nome, pintinho.som, pintinho.som, pintinho.som))
+print('E o %s? %s %s %s!' % (pintinho.nome, pintinho.som, pintinho.som, pintinho.som))
+
+for n, bicho in enumerate(bichos):
+    for i in range(1, 3):
+        print("Minha sogra tinha um%s %s" % ('' if bicho.sexo == 'o' else bicho.sexo, bicho.nome))
+
+    print("De noite %s" % bicho.sexo, end='')
+    print(" %s %s" % (bicho.nome, bicho.som))
+
+    for j in range(n-1, -1, -1):
+        print("e %s %s %s" % (bichos[j].sexo, bichos[j].nome, bichos[j].som))
+    
+    for i in range(1, 3):
+        print("E o %s?" % pintinho.nome, end='')
+        for k in range(1, 4):
+            print(" %s" % pintinho.som, end='')
+        print("!")
+</pre>
+
+==Ver também==
+* [[Whitespace| ]] <small><span style="font-family:'Lucida Console', monospace;" title="Passe o mouse por cima do espaço ao lado, imbecil!"><~ espaço em branco</span></small>
+* [[POG]]
+* [[Ruby]]
+* [[Java]]
+* [[Monty Python]]
+
+{{Linguagens de Programação}}
+
+[[en:Python (programming language)]]
+[[ja:Python]]
+[[ko:파이썬]]
+[[pl:Python]]
+[[ru:Python]]
+[[zh:Python]]

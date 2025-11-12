@@ -1,0 +1,66 @@
+{{Tecnologia}}
+
+{{Poder}}
+
+[[Arquivo:Glitchcitymapone-full.jpg|right|thumb|TAS utilizado em potência minima (historias falam qua nessa cidade habita um [[MissingNo.|monstro]])]]
+
+{{vqd|Códigos?}}
+{{vqd|Jogador Automático?}}
+{{C|Meu equipamento de treino|AAA|TAS}}
+{{C|Idealizado por mim|Ciro Bottini|TAS}}
+{{C|Eu tenho medo|Regina Duarte|TAS}}
+{{C|Tem nem graça,a porra do caralho do jogo se joga sozinho|Dercy Gonçalves|TAS}}
+
+'''TAS'''(Não confundir com [[Marcelo Tas]])é um hack para queimar o pc(ui) de se jogar um<s>a partida de [[truco]]</s> multiplayer desafiador
+=Criação=
+A criação desse equipamento de potência nunca antes visto passou por 4 fases principais:Projeto,Programação,Teste e Atualizações.
+==Primeira Fase(Projeto)==
+[[Arquivo:Nerd_dan.jpg|right|thumb|150px|Um dos Nerds [[Sequestro|"convidados"]] a participar do projeto.]]
+Esta fase foi executada em um [[bar]] em [[1985]] por Ciro Bottini, ele já havia tomado <s>Noku</s> várias doses de [[Catuaba]] e se lembrou de seu grande amigo AAA, também se lembrou que não havia no mundo uma pessoa comum que pudesse vence-lo em um video-game,pensando(não muito pois estava [[Bêbado|''bebum'']])nisso,resolveu criar uma [[Inteligência Artificial|inteligência artificial]] que pudesse se assemelhar em habilidade a seu amigo
+No dia seguinte, chamou AAA e também alguns amigos que conhecia faz algum tempo. Dentre eles:
+*[[Seu Madruga]](Um mestre do [[POG]])
+*[[Neo]](Um grande conhecedor de tecnologia e computação em geral)
+*Jogadores variados (Para pegar técnicas e informações de todos os jogos do mundo [[Risada Diabólica|MWAHAHAHAHAHA]])
+Com essa [[seleção]] de ajudantes e mais uns [[churros]] começou o projeto que acabou levando 4 meses e [[42]] horas.
+==Segunda Fase(<s>[[Gambiarra|Gambiarrização]]</s>Programação)==
+Utilizando o [[Cérebro (X-Men)|Cérebro]] emprestado de [[Professor Xavier]](para remover os conhecimentos dos [[Nerd]]s), e um [[Computador do Milhão]],Seu Madruga e Neo começam a criar o aplicativo com a ajuda do [[Game Maker|Game Maker v1.5]].
+Durante a programação, os nerds fizeram uma [[rebelião]] e tentaram se evadir do local. Com a tentativa de evasão dos [[Vegeta|vermes imundos]], eles tiveram que contratar um ou dois seguranças, Segue a lista dos mesmos:
+[[Arquivo:Terry_Crews.jpg|right|thumb|100px|Um dos seguranças do projeto.]]
+*[[Terry Crews]]
+*[[Homem Nuclear|Homem-Nuclear]]
+*[[Robocop]]
+Com esses problemas solucionados, eles voltaram ao trabalho. Seu Madruga aplicou [[POG|sua técnica incrível de programação]]
+[[Arquivo:Algoritmo.jpg|center|thumb|300px|Algoritmo usado por Seu Madruga]]
+Com esta [[Técnica Milenar|técnica milenar]] e algumas aplicações simples da [[matrix]] colocadas por Neo, eles conseguem terminar o protótipo que foi chamado por AAA de Ajudante de Treinos Universal ou ATU, porém Ciro disse que não dava para pronunciar isso em uma única sílaba, o que faria com que fosse mais complicado vender para as pessoas (Não que ele se importasse),então AAA mudou o nome para [[Seu Creysson|Treinamentiánio Ajudátium Specializátium]] ou TAS.
+==Terceira Fase(Teste)==
+{{C|Hora do show porra!!|Kléber Bambam|Teste}}
+
+No momento do teste o nível de habilidade de TAS estava comparado ao de um Nerd de 40 anos, o que era excelente, mas não era suficiente para competir com AAA em jogos de nível avançado.
+[[Arquivo:Pong.jpg|right|thumb|Um dos jogos onde TAS era mais habilidoso.]]
+Entretanto, foi percebido que a cada partida jogada, TAS se atualizava e conseguia mais habilidades e técnicas em geral...
+==Ultima Fase(Atualizaçoes)==
+Como se sabe, em sua fase protótipo TAS não conseguia fazer muita coisa. repare que logo com apenas algumas atualizações já podia fazer coisas incríveis.
+*Versão 1.0
+**Zerar [[Pong]]
+**Nunca perder em [[Tetris]]
+**Destruir 4 fileiras em [[Super Mario Bros]]
+**Derrotar todos os aliens de [[Space Invaders]] com apenas 6 balas e sem se mover
+*Versão 2.0
+**Fazer um Babality no [[Megaman]]
+**Conseguir a Metal Blade no [[Sonic the Hedgehog|Sonic]]
+**Nunca morrer em [[Contra]] com o controle invertido sem o botão de pulo
+**Terminar [[Metroid]] em 30 minutos sem atirar.
+[[Arquivo:Funny_Explosion.jpg|right|thumb|TAS em plena potência]]
+*Versão 3.0
+**Se Assemelhar a AAA
+*Versão 3.0[[With Lasers]]
+**Vencer AAA enquanto converte um vídeo de ''MP3'' para [[holograma]]
+**Tocar as músicas em [[Guitar Hero]] ao contrário, na maior dificuldade, com controles invertidos, usando um chocalho.
+**Entre outros...
+Com o sucesso do projeto, todos se cumprimentaram e foram para suas casas, porém Ciro colocou o código na [[internet]] para que [[noob]]s como [[você]] pudessem usar.
+==Atualmente==
+Hoje em dia o TAS é chamado por muitos de Tool Assisted Speedrun (Tenho Preguiça de Jogar).E é utilizado por sedentários para terminar seus jogos e fazer coisas que eles normalmente não fariam (como terminar o jogo).Outros com maior [[Inteligência|capacidade intelectual]] utilizam esta ferramenta para terminar os jogos [[Correr Pra Caralho|o mais rápido possível]]
+{{Coisas de games}}
+
+[[Categoria:Jogos eletrônicos]]
+[[Categoria:Tecnologia]]

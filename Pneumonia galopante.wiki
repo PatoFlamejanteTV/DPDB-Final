@@ -1,0 +1,54 @@
+{{doencas}}<br>
+
+{{C|Certamente uma doença muito preocupante...|[[Médico|Pneumologista]]|{{PAGENAME}}}}
+{{C|Também é muito severa na nossa área.|[[Veterinária|Veterinário]]|{{PAGENAME}}}}
+{{C|Essa doença é uma zoonose proveniente do [[cavalo]]...|Infectologista|{{PAGENAME}}}}
+{{C|Não me interessa, de hoje em diante a {{PAGENAME}} será cobrada em quilômetros.|[[Médico]] que comprou o diploma|{{PAGENAME}}}}
+
+A '''Pneumonia Galopante''', doença conhecida desde os tempos de [[Abraão]], é uma forma gravísima de pneumonia que afeta [[cavalo]]s, [[mula]]s, [[vaca]]s, entre outros animais, incluindo o [[homem]]. Com a descoberta da doença pelo veterinário Waiterk Pasthar, em 1937, descobriu-se a rota de infecção nos seres humanos. 
+
+O vírus causador, o '''[[Vírus do Mosaico do Tabaco (Estirpe Dahlemense)]]''' foi descoberto por Robert <s>Kubica</s> Koch em 1912, porém, por ineficácia dos pesquisadores, o vírus nunca foi relacionado à doença.
+
+==Sintomas em animais==
+
+*Febre;
+*Respiração ofegante;
+*Trote mais acurado;
+*Falta de apetite;
+*Queda de pêlos;
+*Necessidade de consulta veterinária;
+*Morte ''(em casos mais avançados)'';
+
+==Sintomas no homem==
+[[Arquivo:Quarterhorse.gif|thumb|[[Cavalo]] sofrendo de {{PAGENAME}} avançada.]]
+*Febre;
+*Caminhar equivalente a trote;
+*Soluços (devido ao diafragma estar ''galopando'');
+*Falta de ar;
+*Quedas de pressão;
+*Desmaios;
+*Necessidade de consulta com um Pneumologista;
+*Relinchos Súbitos
+*Morte ''(se não tratado)'';
+
+==Progressão da Enfermidade==
+
+A doença inicia-se com febre, dores no corpo e <s>calos frios</s> calafrios. Depois do vírus instalar-se na ''membrana parenquimentosa alveolar'' <small>(vulga parede do [[pulmão]])</small>, inicia uma infecção e um inchaço da região, o que dificulta a respiração. 
+
+A produção de neurotoxinas pelo vírus é rápida e as mesmas são levadas ao [[cérebro]] pela corrente <s>alcoólica</s> sanguínea. Essas toxinas acabam por causar espasmos musculares que lembram um trote e, com isso, levam o animal a um estado de extrema fraqueza.
+
+Os outros sintomas são resultantes do cansaço, do colapso respiratório e da intoxicação pelas toxinas. O sistema imune <s>se fode</s> entra em colapso e os vírus acabam por matar o doente por infecção generalizada.
+
+==Tratamento==
+
+O tratamento dessa doença cavalar é o uso de antibióticos de amplo espectro, como a Vancomicina, a Cofrina, a Butirina e a Parafina, podendo serem administradas por via oral, intravenosa, retal e por meio de nebulização. O tratamento dura de acordo com a gravidade da infecção, variando de dois meses nos casos leves a seis meses nos casos graves.
+
+==Ver também==
+
+*[[Cavalo]];
+*[[Homem]];
+*[[Vírus do Mosaico do Tabaco (Estirpe Dahlemense)]];
+
+{{Doenças causadas por bactérias}}
+
+[[Categoria:Doenças bacterianas]]

@@ -1,0 +1,37 @@
+{{taxocaixa
+| nome           = Torpediniformes
+| cor            = #0047AB
+| imagem         = Phantamanta.png
+| imagem_legenda = [[Super Mario Sunshine|Phantamanta]], uma espécie bizarra de Torpediniformes
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aquáticos]]
+| classe         = [[Chondrichthyes|Gelatinosos]]
+| subclasse      = [[Elasmobranchii|Elasmobrancos]]
+| superordem     = [[Batoidea|Raia]]
+| ordem          = [[Torpediniformes|Torpedisformes]]
+}}
+
+'''Torpediniformes''' é a ordem de animais que inclui as '''arraias-elétricas''', e possuem este nome bizarro porque afirmam serem animais em formato de [[torpedo]], embora o renomado filósofo e pintor impressionista [[Rorschach]] já tenha provado que a mente humana é capaz de atribuir formatos familiares a coisas absolutamente sem relação, como afirmar que uma arraia-elétrica tem formato de torpedo, porque pra mim elas tem mais formato é de pirulitos, e ''Piruliteniformes'' seria talvez um nome mais apropriado e justo.
+
+Estes animais são amplamente utilizados na medicina tradicional para propriedades anestésicas ou eutanásicas. Pacientes com dores são mergulhados em banheiras repletas de arraias torpediniformes que descarregam choques elétricos nas áreas afetadas do corpo em tratamento, eventualmente matando o paciente, ma sna maioria das vezes relaxando os músculos e anestesiando com sucesso.
+
+== Anatomia ==
+
+O corpo destas arraias apresentam formato de bolacha (ou biscoito, não vamos entrar nessa discussão num artigo de biologia). São achatados devido à pressão a que são submetidos por viverem em profundidades de 1000m até 3000m, afinal eles são feitos de cartilagem e por isso não possuem resistência no corpo.
+
+Os torpediniformes são arraias revestidas por uma pele que lembra geleia de morango, melada, pegajosa, colorida e preguenta, além de ter sabor ruim e não servir pra muita coisa.
+
+É a única ordem de arraias que possui cauda revestidas com nadadeiras, embora sua função biológica seja meramente ilustrativa, essas nadadeiras inúteis servem apenas como adorno mesmo.
+
+Os olhos ficam no topo do animal que portanto são completamente vesgos e virtualmente cegos, o que os oferece uma péssima visibilidade e os obrigam nadar sempre amassados ao chão, pois seria impossível enxergar o que acontece embaixo deles, e como são todos heterossexuais, odiariam serem atacados por [[foca]]s maníacas, por exemplo.
+
+Mas a grande característica diferencial dos torpediniformes para todas outras arraias, certamente é sua capacidade de dar choques, e isso graças aos seus [[rim|rins]] eletrocondutores. Estas arraias pois um par de super-desenvolvidos rins abaixo da cabeça (se é que elas tem cabeça, ou o corpo inteiro delas é uma cabeça?). A origem destes rins tão enormes é explicada quando aprendemos que as arraias-elétricas são animais higiênicos e muito bem educados, que foram instruídos desde cedo a não urinarem no mar, mas sim em vasos sanitários para o adequadamente esgoto. Todavia não existem vasos sanitários no fundo do mar, então as arraias-elétricas ficam segurando seu xixi eternamente na bexiga, o que gera ao animal um estresse tão grande que seus rins começam a soltar faísca e gerar as voltagens de eletricidade às quais este animal é tão famoso.
+
+== Famílias ==
+
+* '''[[Narcinidae]]''' - peixes-entorpecidos e arraias-dormentes
+* '''[[Torpedinidae]]''' - tremelgas
+
+[[Categoria:Batoidea]]
+[[Categoria:Torpediniformes|*]]

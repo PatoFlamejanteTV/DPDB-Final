@@ -1,0 +1,36 @@
+{{gastronomia}}
+{{taxocaixa
+| nome           = Clupeiformes
+| cor            = #0047AB
+| imagem         = Arenques.jpg
+| imagem_legenda = Um grupo de clupeiformes demonstrando que podem viver fora da água sem precisarem evoluir para anfíbios
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aquáticos]]
+| classe         = [[Actinopterygii|Peixes com espinha]]
+| ordem          = [[Clupeiformes|Peixes comestíveis]]
+}}
+
+'''Clupeiformes''' são uma ordem de peixes comestíveis, geralmente encontrados enlatados em supermercados mas também congelados em peixarias, em menor quantidades são vistos isolados em mares e oceanos nadando infelizes, pois o movimento de uma peixaria lhes parece sempre mais emocionante e legal. Esta ordem inclui [[arenque]]s, [[sardinha]] e [[anchova]]s, todos ideias para serem usados de marreta não-letal.
+
+==Anatomia==
+A anatomia destes peixes é caracterizada pela presença de apenas uma barbatana dorsal sem espinhos, logo comestível, uma barbatana caudal bifurcada que não recomendamos a ingestão e um pequeno crânio onde possivelmente há um cérebro primitivo entre os olhos expressivos e tristonhos destes peixes. Os arenques são as espécies de peixes mais inteligentes do planeta e por isso são tão encontrados nas lagoas e aquários das mais renomadas e conceituadas universidades dos Estados Unidos, não porque professores de Oxford tem fetiches por arenques (relembrando que golfinhos não são peixes, mas sim mamíferos [[cetáceos]] que possuem inteligência ultra-avançada, e por isso dominam a tecnologia da viagem inter-espacial).
+
+A maioria dos clupeiformes possui sistema digestivo especial para digerir e alimentar-se de coliformes fecais encontrados nas águas, o que explica porque eles ainda não estão extintos uma vez que humanos cagam no oceano todo dia e isso é prejudicial para quase todas outras espécies marítimas, ms os clupeiformes gostam disso e se aproveitam desta condição para tornarem-se um cardume abundante que pode ser industrialmente pescado sem qualquer preocupação sustentável sem que ninguém precise se preocupar, eles são infinitos.
+
+== Predação ==
+
+O maior inimigo dos clupeiformes são os [[panda-gigante]], mas devido a sua capacidade de natação limitada e miopia suas tentativas de predação em larga escala têm sido fracassadas de maneira que os clupeiformes estão em desequilíbrio com a natureza numa superpopulação. Para nivelar esse desequilíbrio o ser humano desenvolveu um estômago capaz de digerir peixes e os clupeiformes passaram a fazer parte do cardápio de quase todas espécies de [[primatas]]. Todo mundo quer comer esses pobres coitados, sejam tubarões, ursos, baleias ou tartarugas carnívoras, e além disso uma espécie denominada [[homo sapiens]] ainda tem o hábito de fumar arenque.
+
+== Famílias ==
+
+* '''[[Chirocentridae]]''' - arenques lobo
+* '''[[Clupeidae]]''' - arenques e sardinhas
+* '''[[Denticipitidae]]''' - arenques dentuços
+* '''[[Dussumieriidae]]''' - arenques redondos
+* '''[[Engraulidae]]''' - anchovas
+* '''[[Pristigasteridae]]''' - arenques de barbatana longa
+* '''[[Sundasalangidae]]''' - arenques em formato de macarrão
+
+[[Categoria:Actinopterygii]]
+[[Categoria:Clupeiformes|*]]

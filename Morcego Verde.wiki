@@ -1,0 +1,43 @@
+{{Hero}}
+{{Box Disney
+|nome         = Morcego Verde
+|imagem       = [[Arquivo:Morcegoverde.jpg|center|220px]]
+|nomecompleto = [[Zé Carioca]]
+|cidade        = [[Rio de Janeiro]]
+|ocupacao     = Desocupado
+|inteligencia = {{099}}
+|parceiros    = É um heroi solitário
+|parentes     = Tá devendo pra eles
+|inimigos     = [[ANACOZECA]], cobradores em geral
+|equipamento  = Tem dinheiro pra isso não, vai na mão mesmo
+|habilidades  = Super calote, Super velocidade pra fugir dos cobradores
+}}
+{{c|E aí, Zé!|Qualquer um ao ver o Morcego Verde}}
+
+'''Morcego Verde''' é o [[Zé Carioca]] com um óculos e um gorro de bandido.
+
+Ele diz ser um heroi, mas como está devendo quatorze meses de mensalidade da associação dos herois, foi proibido de se autodenominar como um.
+
+==Características==
+
+Morcego Verde é o heroi mais poderoso do [[Brasil]] (por ser o único), sua principal habilidade é o deslocamento na velocidade da luz. Porém, esta habilidade tem um ponto fraco, ela só pode ser utilizada quando um cobrador está nas proximidades, é um reflexo natural.
+
+Para lutar contra os bandidos e a ANACOZECA, Morcego Verde faz uso de habilidades de [[karatê]], as quais aprendeu vendo os filmes pirateados do [[Karate Kid]]. O problema é que as técnicas de artes marciais do Morcego não funcionam contra ninguém com mais de oito anos, por isso ele sempre tem que contar com a sua velocidade mesmo.
+
+==Parceiros==
+
+Morcego Verde trabalha sozinho, por nenhum outro heroi saber que ele existe.
+
+Em algumas ocasiões, quando algum heroi está realizando uma missão nas proximidades e precisa de auxílio, ao comunicar-se com a associação de herois descobre a existência do Morcego Verde, e acaba recorrendo a ele mesmo, já que ele é o único "heroi" que tá trabalhando no Brasil mesmo, e pode servir, sei lá, como uma distração.
+
+==Morada==
+
+Morcego Verde mora num barraco na [[Vila Xurupita]], uma favela carioca dominada pelo tráfico. Essa é a bat-caverna do nosso heroi, que a utiliza para recuperar-se de suas desgastantes missões de fugir de cobradores, dormindo até o meio-dia.
+
+==Missões==
+
+O nosso heroi já realizou inúmeras missões, algumas ao lado de grandes herois como a Borboleta Azul, na qual ele fez o importante papel de torcer pela heroína enquanto ela lutava sozinha contra uma [[turba]] de bandido.
+
+{{Disney}}
+
+[[Categoria:Morcegos]]

@@ -1,0 +1,391 @@
+<choose>
+<option> {{DISPLAYTITLE:E-e-eu acho que esse é um artigo...}} </option>
+<option> {{DISPLAYTITLE:Será que isso é um artigo?}} </option>
+<option> {{DISPLAYTITLE:Incerteza}} </option>
+</choose>
+
+<choose>
+<option> {{verdades}} </option>
+<option> {{mentiras}} </option>
+</choose>
+
+<choose>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Mico_azul1.JPG|right|thumb|200px|Esse mico-azul tem 1 em 100 chances de aparecer. Sinta-se abençoado por vê-lo!]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+<option>[[Arquivo:Pessoa_interrogação_x.jpg|right|thumb|200px|Será que esse artigo tem um autor?]]</option>
+</choose>
+
+<choose>
+<option>
+{{vqd|Dúvida}}
+{{vqd|Final de [[Lost]]}}
+{{experimente|Dar F5}} 
+</option>
+<option>
+{{vqd|Existência de [[Deus]]}}
+{{vqd|[[Gato de Schrödinger|Gato de Chorinho]]}}
+{{experimente|Atualizar a página}}</option>
+</choose> <choose>
+<option>
+{{C|Mas que caralho, toda vez que eu abro esse artigo saporra muda!|Você|esse artigo}}
+{{C|Esse artigo fui eu que fiz!|[[Mister M]]|Incerteza}}
+{{C|Para de auto-referenciar esse artigo, cacete!|[[Moderador Malvado]]|o autor desse artigo}}
+</option>
+<option>
+{{C|Eu não conseguiria fazer algo assim!|[[Louco_(quadrinhos)|Louco]]|esse artigo}}
+{{C|Nem eu!|Do Contra|comentário acima}}
+{{C|Mas eu consigo!|Houdini|Incerteza}}
+</option>
+<option>
+{{C|Deus está morto!|Nietzsche|Incerteza}}
+{{C|Não, ele está vivo!|Edir Macedo|Incerteza}}
+{{C|Cavalheiros, permitam-me apresentar algo a vocês...|Schrödinger|os dois comentários acima}}
+</option>
+</choose>
+
+<choose>
+<option> {{quântico}} </option>
+<option> {{doido}} </option>
+</choose> <choose> <option>
+'''Incerteza''' é a palavra utilizada para exemplificar quando você é um [[medo|cagão]] e não consegue decidir o que você de fato tá querendo. Em geral, ela existe e não existe - afinal, a incerteza é o que não é certo, logo é tão merda de definir que  você não consegue nem dizer se de fato tá aí ou não (tipo a sua [[homossexualidade]]}. Tema favorito dos granduandos em [[filosofia]] que querem treinar a como infernizar os seus aluninhos no futuro, e dos <s>piores</s> melhores [[mecânico]]s que existem; pois o carro que você acreditava estar com apenas um farol queimado agora tem, milagrosamente, o [[Sexo Anal|escapamento gasto]], o [[Sexo Anal|pára-brisas rachado]] e o [[Sexo Anal|porta-malas com o fecho estourado]] segundo o seu <s>odiado</s> amado mecânico.
+</option>
+<option> 
+A '''Incerteza''' é um conceito criado no século XX por [[Erwin Schrödinger]], que, após ficar louco de [[cocaína]], resolveu cometer um ato de barbaridade: [[cheiramento de gatinhos|cheirar o seu inofensivo gatinho]]. Um ato simples, porém criminoso, seria facilmente terminado em um gato extremamente bravo e um dono extremamente dopado. O porém é que, por estar já meio loucão de cocaína, Schrödinger não percebeu que cheirou tanto, mas tanto o seu inofensivo gatinho, que o bichano ficou à beira da morte. Depois de ver o ato criminoso, com medo de ver o resultado de sua barbárie ele resolveu tacar o gato em uma caixa com ração e água e a lacrou, para não ver o que aconteceria com o bichano nas horas seguintes. Nesse momento, Schrödinger cagou e andou para seu gatinho na beira da extinção de sua vida e resolver escrever, como o bom covarde que era, sobre o Princípio da Incerteza, erroneamente nomeado como Teoria Quântica alguns anos mais tarde, mesmo se tratando apenas sobre um gato.
+</option>
+<option> 
+'''Incerteza''' é o princípio fundamental que é utilizado em uma das vertentes filosóficas mais baitolinhas: o ceticismo. Basicamente é uma carta pro [[universo]] dizendo: "Hey, além de eu só saber que nada sei, eu também percebi que não sei de porra nenhuma! Nada tá certo, nada de fato existe e como eu sou preguiçoso demais pra assumir o meu fracasso ou pra procurar a verdade (se ela existir), eu tô aqui pra choramingar sobre o fim do meu amado [[Flogão]] e sobre o porquê de [[Deus]] ser malvadinho e deixar um monte de criança africana que eu não ligo morrer!". Essencialmente, é uma das idéias mais imbecis que podem existir, e que muito provavelmente [[você]] segue.
+</option>
+</choose> <choose> <option> 
+== A Incerteza na Filosofia ==
+
+[[Arquivo:Sócrates_hunf.jpg|right|thumb|200px|[[José Sócrates|Sócrates]] após ver uma [[guria retardada]] usando suas frases como legenda no [[Facebook|Face]].]]
+Tudo começou como começaram nas aulas de filosofia que você teve com o seu professor inválido: os gregos. Tem gente que fala que [[Sócrates (filósofo)|Sócrates]] era uma espécie de bastião da incerteza, mas quem acha isso provavelmente só pegou uma frase aleatória pra colocar de legenda na sua foto do [[Facebook]]. Ok, o corcundinha tem aquela famosa frase do "Só sei que nada sei", mas ele falava isso mostrando a incerteza como a maneira do homem (mulher não, na época dele elas não serviam nem pra dar prazer) se achar sabedor de tudo e na realidade ser idiota feito uma pedra. Quem realmente começou com o ceticismo idiota foi <s>es</s>[[Pirro]], o maior <s>antisséptico</s> cético já existente.
+
+[[Arquivo:Marx_with_Lasers.jpg|left|thumb|150px|[[Karl Marx|Carlinhos]] após ver o autor chamando ele de vagabundo. Claro que isso foi depois de uma bela sonequinha...]]
+Pirro era uma encarnação semi-idêntica do seu [[tio que comanda a churrasqueira nas confraternizações familiares]] - não acreditava em porra nenhuma. Mas diferentemente do seu parente que até pode não acreditar nas mentiras da [[Rede Globo|emissora que mais faz o povo de bobo]] mas crê fortemente na "ameaça marxista!!!1!", [[Pirro]] não acredita em absolutamente nada. O filho da puta era a encarnação do próprio mal em formato de gente, se [[Narrador da Sessão da Tarde|metendo em altas confusões]] e, caso não tivesse algum amigo pra tirar ele da beira de um penhasco (ele não acreditava que era possível saber se ele realmente cairia ou não), teria certamente morrido mais cedo que o teu fígado.
+
+Apesar de idiota, a sua filosofia conseguiu dar alguns frutos. Um dos exemplos disso foram: [[Descartes]], o francês que não tinha certeza se tava sonhando ou acordado; [[Karl Marx]], o alemão que não sabia se era um vagabundo ou não; [[Nietzsche]], o também alemão que com seu existencialismo não conseguia dizer se o coração de [[Deus]] tava ou não batendo, e [[Jean-Paul Sartre|Sartre]] que, roubando o existencialismo do coleguinha, podia até ter a certeza de que a vida não tem sentido, mas que não fazia ideia se o seu relacionamento aberto era ou não sinônimo de ser [[corno]]. 
+
+== A Incerteza na Física ==
+
+Além da filosofia, outra maneira de se ver a incerteza rodeando o espaço ao nosso redor é por meio da tão comentada, mas nunca compreendida [[Mecânica Quântica]]. Caso você seja meio lentinho, pode ficar tranquilo que o titio aqui vai tentar explicar tudo mastigadinho, que nem uma aulinha de [[administração]] na [[Anhanguera]]! 
+
+[[Arquivo:Prova_para_entrar_na_faculdade.jpg|right|thumb|200px|É sério que você penou pra aprender [[Burro|isso]]?]]
+O básico do básico é: sabe a física que você tanto penou pra aprender no ensino médio? Isso mesmo, aqueles troços idiotinhas como o [[Movimento retilíneo uniformemente variado|MRUV]], [[vetor]]es e até mesmo como calcular [[força]] que você no máximo tirava um 6 com muito esforço? Então, funcionar ela funciona em muita coisa. Foi assim que desocupado descobriu planeta no céu, que a [[NASA]] conseguiu forjar o pouso na [[Lua]] e [[George Foreman]] desenvolveu um grill capaz de grelhar (dã!), se autolimpar, atender ligação, anotar recado e [[Twitter|tweetar]] as mais incríveis receitas. O porém é que, apesar de conseguir ser útil no nosso dia a dia, ela não tá 100% bonitinha quando a gente começa a falar dos elétrons.
+
+O que acontece é que, quando o negócio é tão pequeno, mas tão pequeno que o [[seu pau]] pode ser considerado grande, o modo como a física se comporta já não é consistente. No geral, você consegue ver a posição e a velocidade das coisas muito facilmente: basta usar algo de referencial. Se você perder sua chave ou quiser ver se o rato que entrou no seu <s>chiqueiro</s> quarto era rápido, é só ligar a lanterna do celular e ver com seus próprios olhos ambas posição e velocidade do que você queria descobrir. O foda é que, como esses são [[Pênis|objetos grandes]], a presença de luz não vai magicamente mudar a maneira como tu vê eles.
+
+[[Arquivo:Puta--180x230.jpg|left|thumb|200px|Um exemplo fácil e prático de se compreender (e bota prático nisso...)]]
+Imagine que você é um cafetão e que precise encontrar a sua puta no meio de um beco escuro. Como você não pagou a conta de luz e ela tá prestes a ser cortada, você só pode usar uma dessas duas opções rapidinho antes da luz acabar: usar um [[Kinect]] ou apontar duas lâmpadas pra ela. Com o Kinect, é só você plugar no [[Xbox]] que já tava ligado no [[Just Dance]] (mas que conveniente!), esperar os raios infravermelhos baterem nela e você vai conseguir enxergar ela na TV; só que ela percebe que tu a achou e começa a correr de medo; assim você nunca vai saber a velocidade dela, então ela some. Outra opção é você utilizar as lâmpadas: como você não sabe onde ela tá, é só esperar ela passar de uma pra outra e daí conseguirá medir a velocidade que ela tá correndo pelo tempo que ela demorou pra aparecer de uma lâmpada à outra; mas como ela tá ziguezagueando pra te despistar você nunca sabe a posição exata, então assim você também perderá ela de vista. É só trocar a puta por um elétron que voilá! Tá aí a explicação da incerteza quântica na sua forma mais básica.
+
+[[Arquivo:Exemploeletronnn.jpg|right|thumb|200px|Foto de batismo do dito cujo.]]
+Pelo elétron ser tão pititico, mas tão mínimo, a própria luz (fóton) ou os raios IV (radiação) são o suficiente pra dar um gás e mudar a posição e velocidade da partícula, assim fazendo ela correr que nem [[puta]] em [[Black Friday]] de roupa na [[Riachuelo]]. Você pode calcular onde ela vai parar, mas como não é certo como exatamente ela vai reagir com cada pequeno fator, você tem uma nuvem de probabilidades - uma estimativa de onde ela pode acabar indo parar, mas, como tudo nesse artigo, sem nenhuma certeza.
+
+== A Incerteza na Vida ==
+
+Mas do que adianta falar sobre a presença da incerteza nesses dois temas insignificantes e totalmente irrelevantes para o nosso dia-a-dia (afinal, por acaso eu tenho cara de maltratar gato alheio e de ficar a tarde inteira pensando em cima de um bloco de pedra?) se não focarmos na principal fonte de incerteza: a vida em si? Temos diversos momentos que nem a [[física quântica]] e muito menos os [[teu pai|velhos caducos]] conseguem explicar a existência, e meu trabalho aqui é catalogar todos eles.
+
+----
+
+[[Arquivo:Jason_mraz_2629550.jpg|right|thumb|150px|"Tá um arraso, filhão!"]]
+*'''Cabeleireiro''' - O momento de maior aflição pra [[puta|dona de casa comum]] e do [[vagabundo|jovem estudante]] que acabou de começar seu ensino médio: o corte de cabelo. Em geral é um momento de total desconhecimento, absoluto estranhamento e completo caos na vida dos pacatos cidadãos; é completamente impossível prever o resultado e suas emoções após o final de uma pequena sessão de <s>[[tortura]]</s> corte, não importando o mínimo se você conhece o cabeleireiro previamente ou se quem está cortando o cabelo é [[você]] mesmo.
+
+----
+
+[[Arquivo:Dinheiro_branco.jpg|left|thumb|150px|Pelo menos esse aí não teve a pachorra de colocar [[tua irmã|uma gostosa]] atrás.]]
+*'''Dinheiro no chão''' - Ah, achar dinheiro no chão! Uma das melhores - e mais frustrantes - reações que um ser humano pode ter. Você pode se questionar: "Hey, como caralhos seria ruim eu encontrar dinheiro no chão? É dinheiro, cacete!"; é meu amigo, esse poderia ser um momento de completo e puro êxtase, salvo pelo terrível e mais abominável caso: o anúncio de puteiro. Quantas supostas notas de 20 e de 50 você já não encontrou no chão de sua rua e, inocentemente, achou que tinha tirado a sorte grande, quando na realidade era só um pedaço de papel sulfite com uma foto da [[Tiazinha]] e o endereço do local?
+
+:Você pode acreditar que está a salvo se ignorar essas notas e apenas pegar as de valor baixo; como de 2 ou de 5, mas não se engane! Os publicitários de [[tua mãe|putas]] por aí evoluíram e começaram a fazer nessas notas também, assim tornando uma das mais incríveis experiências em um verdadeiro jogo de sorte.
+
+----
+
+[[Arquivo:Osso_galinha.jpg|right|thumb|150px|Melhor método de tornar seu priminho um [[paga-lanche]].]]
+*'''Osso de galinha''' - E por falar em sorte, temos um exemplo primordial e especial: tirar a sorte no ossinho de galinha. Como todos sabem (alguém com cérebro, pelo menos), o osso de galinha não tem nada de incerto - aquela desgraça é feita por dois ossos diferentes, então se você não for filho do [[Ray Charles]] basta ter um intelecto mínimo e partir para a vitória; a aposta de quebrar o osso na base da sorte é apenas com o osso do [[pinto|peru]], idiota! 
+
+:O porém é que esse tipo de partida desgraçada não é feita com pessoas de mentalidade formada, mas apenas com pais e os seus filhinhos burros. Assim, algo que para nós é motivo de risada e alguns pequenos deboches se torna uma verdadeira batalha de campo minado entre um remelento de 5 anos e o seu patriarca <s>inválido pelo INSS</s>, da qual só a criança quebra a cabeça em um momento de doentia satisfação. Assim, a incerteza da criança é absoluta e também um provável motivo para o início daquele choro que parece um motor de [[Fiat 147]] ligando.
+
+----
+
+[[Arquivo:38.jpg|left|thumb|150px|Ao praticar o esporte, [[cuidado]]! Nunca esqueça de usar o modelo certo pra não machucar o pulso.]]
+*'''Roleta Russa''' - E para finalizar com chave de <s>[[cu]]</s> de [[ouro]], temos a incerteza não necessariamente da vida, mas sim da morte. Uma brincadeira um pouco menos saudável que a anteriormente citada, ela é extensivamente feita por [[sadomasoquismo|sadomasoquistas]] e adeptos da filosofia de vida do [[Joker|Coringa]]. O princípio é básico - pegue uma arma que não é de escola de axé mas que tenha 6 tambores, coloque uma bala em um dos buracos e atire em sua própria cabeça. Caso não morra, você pode retirar o seu [[Darwin Awards]] na delegacia de mulher mais próxima; caso morra, ganhará um [[sexo anal|belo trato]] com o negão do [[IML]]. 
+</option> <option>
+== A Incerteza na Física ==
+
+E teria como começar melhor o exemplo do que citando a tão <s>odiada</s> amada física? É claro que teria. Você muito provavelmente veio parar nesse artigo pra se deliciar com anedotas, piadas previsíveis e difamação à sua existência, mas convenhamos: tem algo mais incerto do que a [[Mecânica Quântica]]? Talvez apenas a amizade que você tem com aquela garota que você jura que vai ser sua namorada, enquanto ela só te vê como o amigo [[gay]] (ficar ouvindo [[K-pop]] também não ajuda em nada, né colega?).
+
+[[Arquivo:Prova_para_entrar_na_faculdade.jpg|right|thumb|200px|É sério que você penou pra aprender [[Burro|isso]]?]]
+O básico do básico é: sabe a física que você tanto penou pra aprender no ensino médio? Isso mesmo, aqueles troços idiotinhas como o [[Movimento retilíneo uniformemente variado|MRUV]], [[vetor]]es e até mesmo como calcular [[força]] que você no máximo tirava um 6 com muito esforço? Então, funcionar ela funciona em muita coisa. Foi assim que desocupado descobriu planeta no céu, que a [[NASA]] conseguiu forjar o pouso na [[Lua]] e [[George Foreman]] desenvolveu um grill capaz de grelhar (dã!), se autolimpar, atender ligação, anotar recado e [[Twitter|tweetar]] as mais incríveis receitas. O porém é que, apesar de conseguir ser útil no nosso dia a dia, ela não tá 100% bonitinha quando a gente começa a falar dos elétrons.
+
+O que acontece é que, quando o negócio é tão pequeno, mas tão pequeno que o [[seu pau]] pode ser considerado grande, o modo como a física se comporta já não é consistente. No geral, você consegue ver a posição e a velocidade das coisas muito facilmente: basta usar algo de referencial. Se você perder sua chave ou quiser ver se o rato que entrou no seu <s>chiqueiro</s> quarto era rápido, é só ligar a lanterna do celular e ver com seus próprios olhos ambas posição e velocidade do que você queria descobrir. O foda é que, como esses são [[Pênis|objetos grandes]], a presença de luz não vai magicamente mudar a maneira como tu vê eles.
+
+[[Arquivo:Puta--180x230.jpg|left|thumb|200px|Um exemplo fácil e prático de se compreender (e bota prático nisso...)]]
+Imagine que você é um cafetão e que precise encontrar a sua puta no meio de um beco escuro. Como você não pagou a conta de luz e ela tá prestes a ser cortada, você só pode usar uma dessas duas opções rapidinho antes da luz acabar: usar um [[Kinect]] ou apontar duas lâmpadas pra ela. Com o Kinect, é só você plugar no [[Xbox]] que já tava ligado no [[Just Dance]] (mas que conveniente!), esperar os raios infravermelhos baterem nela e você vai conseguir enxergar ela na TV; só que ela percebe que tu a achou e começa a correr de medo; assim você nunca vai saber a velocidade dela, então ela some. Outra opção é você utilizar as lâmpadas: como você não sabe onde ela tá, é só esperar ela passar de uma pra outra e daí conseguirá medir a velocidade que ela tá correndo pelo tempo que ela demorou pra aparecer de uma lâmpada à outra; mas como ela tá ziguezagueando pra te despistar você nunca sabe a posição exata, então assim você também perderá ela de vista. É só trocar a puta por um elétron que voilá! Tá aí a explicação da incerteza quântica na sua forma mais básica.
+
+[[Arquivo:Exemploeletronnn.jpg|right|thumb|200px|Foto de batismo do dito cujo.]]
+Pelo elétron ser tão pititico, mas tão mínimo, a própria luz (fóton) ou os raios IV (radiação) são o suficiente pra dar um gás e mudar a posição e velocidade da partícula, assim fazendo ela correr que nem [[puta]] em [[Black Friday]] de roupa na [[Riachuelo]]. Você pode calcular onde ela vai parar, mas como não é certo como exatamente ela vai reagir com cada pequeno fator, você tem uma nuvem de probabilidades - uma estimativa de onde ela pode acabar indo parar, mas, como tudo nesse artigo, sem nenhuma certeza.
+
+== A Incerteza na Vida ==
+
+Mas, acima de tudo, a física não é a única presença da incerteza em nossas vidinhas insignificantes; na realidade nem chega a ter presença de verdade (a não ser que você odeie muito o seu querido gatinho). Antes, precisamos entender os momentos de incerteza que ocorrem na vida. Acima de qualquer explicação lógica ou minimamente decente, ela chega como uma bala de canhão em nossas vidas sem nem ao menos percebermos, <s>fodendo</s> arruinando completamente todos os nossos planos. Alguns exemplos da presença da maldita em nossa vida são: 
+
+----
+
+[[Arquivo:Jason_mraz_2629550.jpg|right|thumb|150px|"Tá um arraso, filhão!"]]
+*'''Cabeleireiro''' - O momento de maior aflição pra [[puta|dona de casa comum]] e do [[vagabundo|jovem estudante]] que acabou de começar seu ensino médio: o corte de cabelo. Em geral é um momento de total desconhecimento, absoluto estranhamento e completo caos na vida dos pacatos cidadãos; é completamente impossível prever o resultado e suas emoções após o final de uma pequena sessão de <s>[[tortura]]</s> corte, não importando o mínimo se você conhece o cabeleireiro previamente ou se quem está cortando o cabelo é [[você]] mesmo.
+
+----
+
+[[Arquivo:Dinheiro_branco.jpg|left|thumb|150px|Pelo menos esse aí não teve a pachorra de colocar [[tua irmã|uma gostosa]] atrás.]]
+*'''Dinheiro no chão''' - Ah, achar dinheiro no chão! Uma das melhores - e mais frustrantes - reações que um ser humano pode ter. Você pode se questionar: "Hey, como caralhos seria ruim eu encontrar dinheiro no chão? É dinheiro, cacete!"; é meu amigo, esse poderia ser um momento de completo e puro êxtase, salvo pelo terrível e mais abominável caso: o anúncio de puteiro. Quantas supostas notas de 20 e de 50 você já não encontrou no chão de sua rua e, inocentemente, achou que tinha tirado a sorte grande, quando na realidade era só um pedaço de papel sulfite com uma foto da [[Tiazinha]] e o endereço do local?
+
+:Você pode acreditar que está a salvo se ignorar essas notas e apenas pegar as de valor baixo; como de 2 ou de 5, mas não se engane! Os publicitários de [[tua mãe|putas]] por aí evoluíram e começaram a fazer nessas notas também, assim tornando uma das mais incríveis experiências em um verdadeiro jogo de sorte.
+
+----
+
+[[Arquivo:Osso_galinha.jpg|right|thumb|150px|Melhor método de tornar seu priminho um [[paga-lanche]].]]
+*'''Osso de galinha''' - E por falar em sorte, temos um exemplo primordial e especial: tirar a sorte no ossinho de galinha. Como todos sabem (alguém com cérebro, pelo menos), o osso de galinha não tem nada de incerto - aquela desgraça é feita por dois ossos diferentes, então se você não for filho do [[Ray Charles]] basta ter um intelecto mínimo e partir para a vitória; a aposta de quebrar o osso na base da sorte é apenas com o osso do [[pinto|peru]], idiota! 
+
+:O porém é que esse tipo de partida desgraçada não é feita com pessoas de mentalidade formada, mas apenas com pais e os seus filhinhos burros. Assim, algo que para nós é motivo de risada e alguns pequenos deboches se torna uma verdadeira batalha de campo minado entre um remelento de 5 anos e o seu patriarca <s>inválido pelo INSS</s>, da qual só a criança quebra a cabeça em um momento de doentia satisfação. Assim, a incerteza da criança é absoluta e também um provável motivo para o início daquele choro que parece um motor de [[Fiat 147]] ligando.
+
+----
+
+[[Arquivo:38.jpg|left|thumb|150px|Ao praticar o esporte, [[cuidado]]! Nunca esqueça de usar o modelo certo pra não machucar o pulso.]]
+*'''Roleta Russa''' - E para finalizar com chave de <s>[[cu]]</s> de [[ouro]], temos a incerteza não necessariamente da vida, mas sim da morte. Uma brincadeira um pouco menos saudável que a anteriormente citada, ela é extensivamente feita por [[sadomasoquismo|sadomasoquistas]] e adeptos da filosofia de vida do [[Joker|Coringa]]. O princípio é básico - pegue uma arma que não é de escola de axé mas que tenha 6 tambores, coloque uma bala em um dos buracos e atire em sua própria cabeça. Caso não morra, você pode retirar o seu [[Darwin Awards]] na delegacia de mulher mais próxima; caso morra, ganhará um [[sexo anal|belo trato]] com o negão do [[IML]] 
+
+== A Incerteza na Filosofia ==
+
+[[Arquivo:Sócrates_hunf.jpg|right|thumb|200px|[[José Sócrates|Sócrates]] após ver uma [[guria retardada]] usando suas frases como legenda no [[Facebook|Face]].]]
+E, claro, pra finalizar, não podemos nos esquecer da matéria mais esquecida (com razão) por todos nós quando passamos no maravilhoso ensino médio. Tem gente que fala que [[Sócrates (filósofo)|Sócrates]] era uma espécie de bastião da incerteza, mas quem acha isso provavelmente só pegou uma frase aleatória pra colocar de legenda na sua foto do [[Facebook]]. Ok, o corcundinha tem aquela famosa frase do "Só sei que nada sei", mas ele falava isso mostrando a incerteza como a maneira do homem (mulher não, na época dele elas não serviam nem pra dar prazer) se achar sabedor de tudo e na realidade ser idiota feito uma pedra. Quem realmente começou com o ceticismo idiota foi <s>es</s>[[Pirro]], o maior <s>antisséptico</s> cético já existente.
+
+[[Arquivo:Marx_with_Lasers.jpg|left|thumb|150px|[[Karl Marx|Carlinhos]] após ver o autor chamando ele de vagabundo. Claro que isso foi depois de uma bela sonequinha...]]
+Pirro era uma encarnação semi-idêntica do seu [[tio que comanda a churrasqueira nas confraternizações familiares]] - não acreditava em porra nenhuma. Mas diferentemente do seu parente que até pode não acreditar nas mentiras da [[Rede Globo|emissora que mais faz o povo de bobo]] mas crê fortemente na "ameaça marxista!!!1!", [[Pirro]] não acredita em absolutamente nada. O filho da puta era a encarnação do próprio mal em formato de gente, se [[Narrador da Sessão da Tarde|metendo em altas confusões]] e, caso não tivesse algum amigo pra tirar ele da beira de um penhasco (ele não acreditava que era possível saber se ele realmente cairia ou não), teria certamente morrido mais cedo que o teu fígado.
+
+Apesar de idiota, a sua filosofia conseguiu dar alguns frutos. Um dos exemplos disso foram: [[Descartes]], o francês que não tinha certeza se tava sonhando ou acordado; [[Karl Marx]], o alemão que não sabia se era um vagabundo ou não; [[Nietzsche]], o também alemão que com seu existencialismo não conseguia dizer se o coração de [[Deus]] tava ou não batendo, e [[Jean-Paul Sartre|Sartre]] que, roubando o existencialismo do coleguinha, podia até ter a certeza de que a vida não tem sentido, mas que não fazia ideia se o seu relacionamento aberto era ou não sinônimo de ser [[corno]].
+</option> <option>
+
+== A Incerteza na Vida ==
+
+Nada é certo. Não temos como saber se, no instante que saímos para a rua, acontecer de cair um vaso em nossa cabeça e morrermos (mesmo que não moremos em um apartamento e muito menos em uma casa sobrado), ou de na hora que você está no começo de seu primeiro beijo, a pessoa dar um murro em sua cara, dopá-lo com clorofórmio e você acordar no dia seguinte em uma banheira de gelo com sua barriga um pouco mais vazia. Não tem como saber de nada! Sendo assim, o que seria melhor para entendermos a presença da incerteza em nossa vida? Minha resposta é: catalogando alguns desse momentos. Dessa maneira, é possível compreender como ela desgraça as nossas vidas completamente. Alguns exemplos são:
+
+----
+
+[[Arquivo:Jason_mraz_2629550.jpg|right|thumb|150px|"Tá um arraso, filhão!"]]
+*'''Cabeleireiro''' - O momento de maior aflição pra [[puta|dona de casa comum]] e do [[vagabundo|jovem estudante]] que acabou de começar seu ensino médio: o corte de cabelo. Em geral é um momento de total desconhecimento, absoluto estranhamento e completo caos na vida dos pacatos cidadãos; é completamente impossível prever o resultado e suas emoções após o final de uma pequena sessão de <s>[[tortura]]</s> corte, não importando o mínimo se você conhece o cabeleireiro previamente ou se quem está cortando o cabelo é [[você]] mesmo.
+
+----
+
+[[Arquivo:Dinheiro_branco.jpg|left|thumb|150px|Pelo menos esse aí não teve a pachorra de colocar [[tua irmã|uma gostosa]] atrás.]]
+*'''Dinheiro no chão''' - Ah, achar dinheiro no chão! Uma das melhores - e mais frustrantes - reações que um ser humano pode ter. Você pode se questionar: "Hey, como caralhos seria ruim eu encontrar dinheiro no chão? É dinheiro, cacete!"; é meu amigo, esse poderia ser um momento de completo e puro êxtase, salvo pelo terrível e mais abominável caso: o anúncio de puteiro. Quantas supostas notas de 20 e de 50 você já não encontrou no chão de sua rua e, inocentemente, achou que tinha tirado a sorte grande, quando na realidade era só um pedaço de papel sulfite com uma foto da [[Tiazinha]] e o endereço do local?
+
+:Você pode acreditar que está a salvo se ignorar essas notas e apenas pegar as de valor baixo; como de 2 ou de 5, mas não se engane! Os publicitários de [[tua mãe|putas]] por aí evoluíram e começaram a fazer nessas notas também, assim tornando uma das mais incríveis experiências em um verdadeiro jogo de sorte.
+
+----
+
+[[Arquivo:Osso_galinha.jpg|right|thumb|150px|Melhor método de tornar seu priminho um [[paga-lanche]].]]
+*'''Osso de galinha''' - E por falar em sorte, temos um exemplo primordial e especial: tirar a sorte no ossinho de galinha. Como todos sabem (alguém com cérebro, pelo menos), o osso de galinha não tem nada de incerto - aquela desgraça é feita por dois ossos diferentes, então se você não for filho do [[Ray Charles]] basta ter um intelecto mínimo e partir para a vitória; a aposta de quebrar o osso na base da sorte é apenas com o osso do [[pinto|peru]], idiota! 
+
+:O porém é que esse tipo de partida desgraçada não é feita com pessoas de mentalidade formada, mas apenas com pais e os seus filhinhos burros. Assim, algo que para nós é motivo de risada e alguns pequenos deboches se torna uma verdadeira batalha de campo minado entre um remelento de 5 anos e o seu patriarca <s>inválido pelo INSS</s>, da qual só a criança quebra a cabeça em um momento de doentia satisfação. Assim, a incerteza da criança é absoluta e também um provável motivo para o início daquele choro que parece um motor de [[Fiat 147]] ligando.
+
+----
+
+[[Arquivo:38.jpg|left|thumb|150px|Ao praticar o esporte, [[cuidado]]! Nunca esqueça de usar o modelo certo pra não machucar o pulso.]]
+*'''Roleta Russa''' - E para finalizar com chave de <s>[[cu]]</s> de [[ouro]], temos a incerteza não necessariamente da vida, mas sim da morte. Uma brincadeira um pouco menos saudável que a anteriormente citada, ela é extensivamente feita por [[sadomasoquismo|sadomasoquistas]] e adeptos da filosofia de vida do [[Joker|Coringa]]. O princípio é básico - pegue uma arma que não é de escola de axé mas que tenha 6 tambores, coloque uma bala em um dos buracos e atire em sua própria cabeça. Caso não morra, você pode retirar o seu [[Darwin Awards]] na delegacia de mulher mais próxima; caso morra, ganhará um [[sexo anal|belo trato]] com o negão do [[IML]] 
+
+== A Incerteza na Filosofia ==
+
+[[Arquivo:Sócrates_hunf.jpg|right|thumb|200px|[[José Sócrates|Sócrates]] após ver uma [[guria retardada]] usando suas frases como legenda no [[Facebook|Face]].]]
+Outro ponto de vista sobre a existência da incerteza é na matéria que mais cria soldadinhos marxistas marchando em nossas escolas da rede pública (depois da [[Sociologia]], é claro). Pra começo de conversa, tem gente que fala que [[Sócrates (filósofo)|Sócrates]] era uma espécie de bastião da incerteza, mas quem acha isso provavelmente só pegou uma frase aleatória pra colocar de legenda na sua foto do [[Facebook]]. Ok, o corcundinha tem aquela famosa frase do "Só sei que nada sei", mas ele falava isso mostrando a incerteza como a maneira do homem (mulher não, na época dele elas não serviam nem pra dar prazer) se achar sabedor de tudo e na realidade ser idiota feito uma pedra. Quem realmente começou com o ceticismo idiota foi <s>es</s>[[Pirro]], o maior <s>antisséptico</s> cético já existente.
+
+[[Arquivo:Marx_with_Lasers.jpg|left|thumb|150px|[[Karl Marx|Carlinhos]] após ver o autor chamando ele de vagabundo. Claro que isso foi depois de uma bela sonequinha...]]
+Pirro era uma encarnação semi-idêntica do seu [[tio que comanda a churrasqueira nas confraternizações familiares]] - não acreditava em porra nenhuma. Mas diferentemente do seu parente que até pode não acreditar nas mentiras da [[Rede Globo|emissora que mais faz o povo de bobo]] mas crê fortemente na "ameaça marxista!!!1!", [[Pirro]] não acredita em absolutamente nada. O filho da puta era a encarnação do próprio mal em formato de gente, se [[Narrador da Sessão da Tarde|metendo em altas confusões]] e, caso não tivesse algum amigo pra tirar ele da beira de um penhasco (ele não acreditava que era possível saber se ele realmente cairia ou não), teria certamente morrido mais cedo que o teu fígado.
+
+Apesar de idiota, a sua filosofia conseguiu dar alguns frutos. Um dos exemplos disso foram: [[Descartes]], o francês que não tinha certeza se tava sonhando ou acordado; [[Karl Marx]], o alemão que não sabia se era um vagabundo ou não; [[Nietzsche]], o também alemão que com seu existencialismo não conseguia dizer se o coração de [[Deus]] tava ou não batendo, e [[Jean-Paul Sartre|Sartre]] que, roubando o existencialismo do coleguinha, podia até ter a certeza de que a vida não tem sentido, mas que não fazia ideia se o seu relacionamento aberto era ou não sinônimo de ser [[corno]]. 
+
+== A Incerteza na Física ==
+
+E por fim, sendo o último mas não o menos importante ([[ou não]]) temos a complicada física. Todo mundo conhece a velha história do [[Gato de Schrödinger|gato de Cheirinho]], mais capengando entre o vivo e o morto do que a sua vida sexual. Tem muita gente que acha um saco mas, convenhamos, é muito mais interessante do que ficar lendo sobre osso de galinha e gente morta que não sabia decidir nem que cueca usar no dia seguinte.
+
+[[Arquivo:Prova_para_entrar_na_faculdade.jpg|right|thumb|200px|É sério que você penou pra aprender [[Burro|isso]]?]]
+O básico do básico é: sabe a física que você tanto penou pra aprender no ensino médio? Isso mesmo, aqueles troços idiotinhas como o [[Movimento retilíneo uniformemente variado|MRUV]], [[vetor]]es e até mesmo como calcular [[força]] que você no máximo tirava um 6 com muito esforço? Então, funcionar ela funciona em muita coisa. Foi assim que desocupado descobriu planeta no céu, que a [[NASA]] conseguiu forjar o pouso na [[Lua]] e [[George Foreman]] desenvolveu um grill capaz de grelhar (dã!), se autolimpar, atender ligação, anotar recado e [[Twitter|tweetar]] as mais incríveis receitas. O porém é que, apesar de conseguir ser útil no nosso dia a dia, ela não tá 100% bonitinha quando a gente começa a falar dos elétrons.
+
+O que acontece é que, quando o negócio é tão pequeno, mas tão pequeno que o [[seu pau]] pode ser considerado grande, o modo como a física se comporta já não é consistente. No geral, você consegue ver a posição e a velocidade das coisas muito facilmente: basta usar algo de referencial. Se você perder sua chave ou quiser ver se o rato que entrou no seu <s>chiqueiro</s> quarto era rápido, é só ligar a lanterna do celular e ver com seus próprios olhos ambas posição e velocidade do que você queria descobrir. O foda é que, como esses são [[Pênis|objetos grandes]], a presença de luz não vai magicamente mudar a maneira como tu vê eles.
+
+[[Arquivo:Puta--180x230.jpg|left|thumb|200px|Um exemplo fácil e prático de se compreender (e bota prático nisso...)]]
+Imagine que você é um cafetão e que precise encontrar a sua puta no meio de um beco escuro. Como você não pagou a conta de luz e ela tá prestes a ser cortada, você só pode usar uma dessas duas opções rapidinho antes da luz acabar: usar um [[Kinect]] ou apontar duas lâmpadas pra ela. Com o Kinect, é só você plugar no [[Xbox]] que já tava ligado no [[Just Dance]] (mas que conveniente!), esperar os raios infravermelhos baterem nela e você vai conseguir enxergar ela na TV; só que ela percebe que tu a achou e começa a correr de medo; assim você nunca vai saber a velocidade dela, então ela some. Outra opção é você utilizar as lâmpadas: como você não sabe onde ela tá, é só esperar ela passar de uma pra outra e daí conseguirá medir a velocidade que ela tá correndo pelo tempo que ela demorou pra aparecer de uma lâmpada à outra; mas como ela tá ziguezagueando pra te despistar você nunca sabe a posição exata, então assim você também perderá ela de vista. É só trocar a puta por um elétron que voilá! Tá aí a explicação da incerteza quântica na sua forma mais básica.
+
+[[Arquivo:Exemploeletronnn.jpg|right|thumb|200px|Foto de batismo do dito cujo.]]
+Pelo elétron ser tão pititico, mas tão mínimo, a própria luz (fóton) ou os raios IV (radiação) são o suficiente pra dar um gás e mudar a posição e velocidade da partícula, assim fazendo ela correr que nem [[puta]] em [[Black Friday]] de roupa na [[Riachuelo]]. Você pode calcular onde ela vai parar, mas como não é certo como exatamente ela vai reagir com cada pequeno fator, você tem uma nuvem de probabilidades - uma estimativa de onde ela pode acabar indo parar, mas, como tudo nesse artigo, sem nenhuma certeza.</option> </choose>
+----
+
+----
+
+
+----
+
+----
+
+
+----
+
+----
+
+
+----
+
+----
+== Você sabia? ==
+
+*Que esse artigo é tão incerto, mas tão incerto, que nem ele se decide o que de fato é?
+
+*Que se nada é verdade e a realidade é incerta, meu [[pau]] sem freio e teu [[cu]] na reta?
+
+*Que [[você]] tem 1 em 62.208 chances de ver essa página do jeitinho que ela tá agora se der F5?
+
+*Que se [[tu]] encontrar um certo animalzinho zanzando nesse artigo as chances diminuem para 1 em 6.220.800? 
+
+*Que [[ninguém]] liga pras curiosidades acima?
+
+*Que esse cálculos podem ou não estar certos?
+
+*Que o autor desse artigo é um [[inútil|desocupado]]?
+
+----
+
+----
+
+== Ver também ==
+
+<choose>
+<option>*[[Mecânica Quântica]]</option>
+
+<option>*[[Murphydinâmica Quântica]]</option>
+</choose> 
+
+<choose>
+<option>*[[Princípio da Incerteza de Heisenberg]]</option>
+
+<option>*[[Gato de Schrödinger]]</option>
+</choose> 
+
+<choose>
+<option>*[[Descartes]]</option>
+
+<option>*[[Karl Marx]]</option>
+</choose> 
+
+<choose>
+<option>*[[Nietzsche]]</option>
+
+<option>*[[Sartre]]</option>
+</choose> 
+
+<choose>
+<option>*[[Cabelo]]</option>
+
+<option>*[[Sorte]]</option>
+</choose> 
+
+<choose>
+<option>*[[Galinha]]</option>
+
+<option>*[[Suicídio]]</option>
+</choose>
+
+[[Categoria:Coisas de doido]]

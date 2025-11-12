@@ -1,0 +1,40 @@
+{{pokedex}}
+{{PokéBox
+| imagem = Gouging Fire.png
+| frase = Um Entei que quis imitar o Zamazenta, mas que mirou no Bastiodon.
+| nihongo = ウガツホムラ
+| romaji = Enteisaurusu
+| pokedex = 1021
+| tipo1 = Fire
+| tipo2 = Dragon
+| habilidade1 = O mesmo que os outros paradoxos
+| habilidade3 = Trollar todo mundo
+| espécie = [[Entei]][[dinossauro|ssauro]]
+| cadeia evolutiva = [[Arquivo:1020MS.png|90px|Gouging Fire]]}}
+
+{{C|Até isso é um dragão e eu não?|Charizard|Gouging Fire}}
+
+'''Gouging Fire''' é uma das espécies que foram "introduzidas" na nona geração de espécies de monstros de bolsos, nos bugs difarçados de jogos, mais conhecidos pelo nome de Pokémon Scarlet e Pokémon Violet. Gouging Fire é um pokémon paradoxo do passado que faz parte do trio de dinossauros que de tão feios, foram queimados até a morte pelo [[Ho-Oh]] para reencarnarem em felinos, além de fazer dupla com [[Iron Boulder]] como a espécie do trio que foi completamente ignorada pela [[Game Freak]] e seu foco em raids irrelevantes.
+
+Como a Game Freak só sabe da existência de dois tipos quando faz um pokémon lendário na franquia (embora esse tecnicamente não seja um lendário), Gouging Fire é mais um que se junta a tropa dos calangos com uma pitada de apelação, e por ser um descendente perdido de Entei, também possui o tipo fogo no rabo.
+
+Gouging Fire e seus dois amigos dinossauros um dia foram dar uma passeada na região de Johto e ao se encontrar em uma torre, uma galinha pegando fogo ficou com nojo de ver aqueles animais lá e queimou a torre inteira, morrendo no processo e ressuscitando como um leão, sem vários detalhes desnecessários enfiados nele.
+
+A Game Freak se esqueceu que criou três lendários e deixou tanto Gouging Fire quanto Iron Boulder de última hora e o resultado foi que o verdadeiro "15 minutos de fama", arrancando várias reações distintas de vários youtubers, isso antes de cair no esquecimento cinco a dez minutos depois de sua captura.
+==Design==
+A Creatures, para o bem de quase todo o fã na franquia, não quis meter o louco após ver que tanto Walking Wake quanto Raging Bolt foram massacrados pelos fãs (isso até algumas semanas, onde automaticamente adquirem [[Síndrome de Estocolmo]]) e rejeitou a ideia mais maluca para um paradoxo, que seria um [[pterodáctilo]] (afinal ele não faria sentido se fosse do tipo voador), mas resolveram dessa vez jogar mais seguro e adotar a mesma estratégia defensiva feita nos jogos principais da franquia, apostando em um <s>tricerátops</s> "[[estiracossauro]]" ou seja, dinossauro tirado do cu.
+
+Para não ficar um design que é muito sem graça, já que isso era reservado apenas para os pokémon paradoxais do futuro, resolveram meter uns detalhes <s>desnecessários</s> nele, como uma máscara que funciona como um escudo em sua cara, além de garras frontais cheias de [[sangue]] e manchas verdes atrás dele, parecendo uma criatura de [[carnaval]], além de alterar levemente outros detalhes do Entei original.
+==No jogo==
+[[Arquivo:Gouging Fire 2.png|220px|thumb|Gouging Fire mostrando o seu peido flamejante poderoso.]]
+Gouging Fire aparece na segunda DLC do jogo, a [[The Indigo Disk]] (na versão Scarlet) em uma das missões da fotógrafa maluca que só serve para divulgar o Legends Arceus, a Perrin e é o segundo a ser capturado. Depois de brincar de esconde-esconde com os lendários (assim como Johto), você poderá batalhar e metralhar pokébolas nele para capturar essa aberração da natureza.
+
+O Entei modificado, assim como suas contrapartes, também possui um golpe especial só dele, que se chama Burning Bulwark, que é um golpe de status (que será ignorado pelas crianças de 10 anos) feito para se proteger dos inimigos. Caso atacarem essa aberração enquanto estiver protegido, terá uma queimadura de terceiro grau o esperando.
+==Popularidade==
+Mal estreou no jogo e já esqueceram dessa criatura. Por outro lado, Gouging Fire pode ser adorado por aqueles fãs que odiaram tanto Walking Wake quanto Raging Bolt por mudarem demais os designs "originais" em relação aos dinossauros. Pelo lado dos furries, é mais um mamífero que será ignorado por ter vários detalhes em seu corpo.
+==Ver também==
+*[[Entei]], a versão original.
+
+{{Poke9}}
+[[Categoria:Dinossauros]]
+[[Categoria:Dragões]]

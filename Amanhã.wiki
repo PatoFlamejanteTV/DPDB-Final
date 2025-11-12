@@ -1,0 +1,87 @@
+{{futuro}}
+{{c|Para que se preocupar com o amanhã se ele acaba depois de amanhã?.|[[Pica-Pau]] filosofando|Amanhã}}
+
+{{c|É preciso amaaaar as pessoas como se não houvesse amanhã|[[Renato Russo]]|Amanhã}}
+
+{{c|Amanhã será um lindo dia, da mais louca alegria...|[[Guilherme Arantes]]|Amanhã}}
+
+{{c|Putz, pensei que era para trazer amanhã.|[[Estudante]]|[[Trabalho da Escola]]}}
+
+{{c|Nunca faça [[hoje]] aquilo que [[você]] pode deixar para fazer amanhã. Pode ser que não precise fazer coisa nenhuma.|Vagabundo|Amanhã}}
+
+{{c|Nunca deixe pra amanhã aquilo que [[você]] pode fazer <s>despois</s> depois de amanhã.|Outro Vagabundo|Amanhã}}
+
+{{c|Amanhã é Para Sempre!|[[Central Nacional de Televisão|CNT]]|Amanhã}}
+
+{{c|Só amanhã, no [[Magazine Luiza]]!|Faustão|Amanhã}}
+
+{{c|Só amanhã nas Lojas do Baú!|Silvio Santos|Amanhã}}
+
+{{c|Só amanhã no Jornal Hoje!|Apresentador do Jornal Hoje|Amanhã}}
+
+{{c|Amanhã será um lindo dia da mais louca alegria que se possa imaginar|Caetano Veloso|Amanhã}}
+
+{{c|Fiado só amanhã.|Tiozinho da cantina|Amanhã}}
+
+{{c|Amanhã, mãe|Garoto|sua mãe mandar arrumar o quarto ou fazer lição}}
+
+'''Amanhã''' não existe. É apenas o [[nada]]. No amanhã, [[Você está morto]] Entendeu? O AMANHÃ NÃO EXISTE! É tudo coisa que botaram na nossa cabeça! Mas, caso você seja [[idiota]] o bastante para acreditar, veja algumas idiotices que pensam sobre amanhã. 
+
+Nem [[ontem]], nem [[hoje]]: teoricamente Amanhã é uma palavra que foi criada pelos [[brasileiros]] para designar o dia que vem depois de [[hoje]]. Amanhã será o ontem do ''depois de amanhã'' , Amanhã também era o ''depois de amanhã'' do [[ontem]], ou seja ''o amanhã'' de ''ontem'' é o ''hoje'' de ''hoje'' e vice-versa, entendeu né ?
+
+Claro, isso tudo é uma grande besteira. Se pensarmos bem, nas linhas de pensamento do grande [[Einstein]], o amanhã nunca chega.
+[[Arquivo:Crijrgrgl.jpg|thumb|right|200px|O planeta [[Terra]] amanhã]]
+Para confirmar esta teoria, formulada por alguns pensadores [[Hindus]] no século XIX (Dentre os quais se enquadrava Einstein), um grupo de <s>[[vagabundo]]s</s> estudiosos da [[USP]] decidiu realizar uma experiencia: Criou um programa de computador que deveria apitar quando o amanhã chegasse. A experiência está em andamento até hoje, mas ninguém conseguiu nenhum resultado. No exato momento que o amanhã está chegando, ele se torna hoje, enganando até o mais rápido dos [[software]]s criados pelo homem.
+
+== O Teorema de Sofócolis ==
+A fórmula para calcular o dia de amanhã foi criada em 740 A.C. pelo [[Filosofia|filósofo]] grego [[Sofócolis]], um discípulo de [[Chuck Norris]], e é conhecida como "Teorema de Sofócolis": a equação [[matemática]] que define fisicamente a equivalência entre o [[hoje]] e o amanhã e vice-versa, e suas derivações e implicações [[Física Quântica|quânticas]].
+
+'''Amanhã [[=]] [[Hoje]] + [[Um|1]]'''
+
+Ou no excel (Segundo o teorema de física quântica avançada de Euler, também chamado "Chambinho")
+
+'''Amanhã [[=]] =hoje() + 4/4-(4-4)'''
+
+Naquele tempo as pessoas tinham uma imensa dificuldade em saber que dia seria amanhã. Sofócolis percebeu a angústica do povo que ficava sempre perdido, e por isso pagava sempre as contas de água, luz, carnê do Baú e impostos em atraso e com juros e multa. Então [[Sofócolis]] criou seu famoso Teorema e para ajudar o povo ele fez milhares de panfletos com sua fórmula e saiu distribuindo para que o povo nunca mais errasse o dia de amanhã. Por causa disso o rei da [[Grécia]] antiga passou a arrecadar menos impostos devido as multas e juros que não eram mais pagos. Então o rei ficou furioso e mandou enforcar [[Sofócolis]] em praça pública. Ele acabou pagando o preço por ajudar o povo, e ficou conhecido como "o Mártir do Amanhã". Em 394 D.C. o [[Papa]] Gregório VI canonizou Sofócolis e por isso até hoje "São Sofócolis" é conhecido como o santo padroeiro do Amanhã, e protetor daqueles que tem trabalhos urgentes pra entregar amanhã e ficam na [[desciclopédia]] lendo e escrevendo [[Merda|besteiras]] até o último segundo.
+
+== Fórmula do Amanhã ==
+
+'''Amanhã = [[hoje]] + [[um]].'''
+
+* onde:
+Amanhã é Amanhã;
+
+[[hoje]] é [[{{CURRENTDAY}}]] de [[{{CURRENTMONTHNAME}}]] de [[{{CURRENTYEAR}}]] e;
+
+[[um]] é 1.
+
+logo
+
+amanhã é [[{{ #expr: {{CURRENTDAY}} + 1 }}]] de [[{{CURRENTMONTHNAME}}]] de [[{{CURRENTYEAR}}]] e;
+
+== Coisas que com certeza vão acontecer amanhã ==
+
+
+* A Retaliação das poderosas [[Forças de Destruição Israelitas]] contra os [[terroristas]] [[Palestina|Palestinos]], pelo ataque terrorista suicida que houve [[hoje]], ferindo um cão de rua em [[Israel]].
+* Os [[terroristas]] [[Palestina|Palestinos]] explodiram um [[homem-bomba]] em [[Israel]] em retaliação a isso aí...
+você sabia que hoje é o amanhã de ontem?
+
+== Ver também ==
+*[[Hoje]]
+*[[Ontem]]
+*[[Agora]]
+*[[Anteontem]]
+*[[Ante-anteontem]]
+*[[Depois]]
+*[[Futuro]]
+
+{{oposto|Ontem}}
+{{oposto|Hoje}}
+
+[[Categoria:Cronologia]]
+
+[[en:Days of the Week]]
+[[it:Oggi]]
+[[ja:1週間]]
+[[nl:Maandag]]
+[[no:Ukedagene#I morgen / morgendagen]]

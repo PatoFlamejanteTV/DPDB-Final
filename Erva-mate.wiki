@@ -1,0 +1,46 @@
+{{vegetal}}
+
+{{taxocaixa
+| nome           = Erva-mate
+| cor            = #00FF7F
+| imagem         = Ervachima.jpg
+| imagem_legenda = Erva mate? Da boa...
+| reino          = [[Plantae|Plantinhas]]
+| superdivisão   = [[Spermatophyta|Plantas com esperma]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Eudicotidae|Eudissecotia]]
+| subclasse      = [[Asterídeas|Esteróides]]
+| ordem          = [[Aquifoliales|Aquifolias]]
+| família        = [[Aquifoliaceae|Aquifodasse]]
+| gênero         = [[Ilex|Iflex]]
+| espécie        = [[Erva-mate]]
+| binomial       = Iflex parangolenses
+}}
+{{Você quis dizer|Maconha}}
+{{C|...|Doutor Roberto|Erva Mate}}
+{{C|É que nem Maconha??!!"|Bob Marley|Erva Mate}}
+{{C|Sempre levo meio Quilo nas turnes | Keith Richards |Erva Mate}}
+{{C|Já fumei|Vanusa|Erva Mate}}
+
+'''Erva-mate''' é um [[Mato|matinho]] esverdeado comumente utilizado por [[gaúcho]]s em uma infusão de água quente que só serve como desculpa para bater um papo e passar o tempo na vagabundagem, vaiajando como o seu deus percusor do estilo Marcelo D2.
+Já foi cantada em verso '''and''' prosa por inúmeros artistas, alguns dos quais agora não lembro. 
+
+==Erva Mate na Música==
+Uma música de Nei Lisboa ("Exaltação"). Segue a letra:
+
+:''"Entrei numa roda e me deram uma coisa pra provar
+:Uma erva galhuda, esverdeada e gostosa de chupar."''
+
+Essa do [[Marcelo D2]], um grande '''erva-matista''':
+
+:''"Procure se informar
+:Uma erva natural não pode te prejudicar"''
+
+{{Condimentos}}
+{{alimentos}}
+
+[[Categoria:Bebidas]]
+[[Categoria:Ilex]]
+[[Categoria:Espécies vegetais]]
+
+[[ru:Мате]]

@@ -1,0 +1,19 @@
+O '''webmaster''' é o coitado que toda vez que algum servidor cai, ele te manda contatar este coitado pra ver se ajuda em alguma coisa. Ele é o responsável pelo [[CRUD]]zão e [[Programação Orientada a Gambiarras|emaranhado de gatos]] que mantém no ar e que vive caindo de tempos em tempos, como sistemas do governo (em especial o site do [[Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira|INEP]]), sites de banco de talentos ou mesmo a [[Servidor da Desciclopédia|Desciclopédia]]. 
+
+==Origem==
+[[Arquivo:DPerro.png|thumb|350px|[[Firefox]] dedurando quem é o mantedor de todos os bugs que a Desciclopédia possui.]]
+Essa infortunada profissão surgiu com o falecido [[Yahoo! GeoCities|Geocities]], quando os webmasters eram conhecidos como barões da internet, já que naquele tempo pra ter um blog de fofocas como o [[OFuxico]] tinha que manjar muito de tabelas no [[HTML 4.01]] e cagar dinheiro, literalmente, já que uma conexão custava tanto quanto sobreviver custa hoje em dia.
+
+Com o passar do tempo, a profissão passou a ser executada por pré-adolescentes ou adultos que não conseguiam sair da casa dos pais e precisavam de alguns trocados. Com o fim do Geocities, aquele povo migrou para os RPGs e os poucos que sobraram migraram para o [[Blogger]] ou [[Wordpress]], ou pagaram uma nota pra montar seu servidorzinho de meia tijela numa [[Localweb]] da vida onde criaram o próprio sistema de padaria (99,9% deles criados com [[PHP]]). E foi assim também que surgiu a Wikipédia, quando [[Jimbo Wales]] procurou uma alternativa pra continuar recebendo de anúncios que ele mantinha em em blogs no Geocities e resolveu criar [[Wikipedia|seu próprio ''outdoor'']] na interwebs.
+
+Com o passar do tempo, os webmasters tiveram que aprender várias tranqueiras a mais como ter o [[webdesign|dom da frescura]] para a parte de [[design]] e também a [[programador|copiar e colar códigos]], antes de virarem sinônimo de ''[[blogueiro|criadores de conteúdo]]'', como são em sites institucionais do governo.
+
+Hoje em dia, com exceção daquelas empresas bem bostas (aquele onde o dono não paga nem ele mesmo), as demais organizações dividiram esse cargo tortuoso em outras várias.
+
+==Atribuições==
+[[Arquivo:Macacos.JPG|thumb|350px|De tão desvalorizada, a tarefa passou a ser realizadas por [[macacos]] especializados no [[YouTube|SeuTubo]].]]
+Um ''webmaster'' está para os [[anos 2000]] assim como o ''desenvolvedor devOps'' está para os [[anos 2010]], ou seja, é o faz-tudo pelo preço de um. Ele cria site, põe no ar, arruma os servidores, passa pano no [[datacenter|CPD]], faz café para ele e os demais funcionários da empresa, vai buscar a filha do chefe da escola, realiza o pagamento de contas e  alimenta animais de estimação da família do patrão (inclusive ele mesmo), além de ser o responsável pela segurança individual de cada um dos que tem contato com ele na empresa.
+
+O webmaster também é o responsável por prevenir ''marotagens'' de usuários que não satisfeitos, insistem em colocar letras em lugares de números, barra invertida em campos de texto, dezenas de Shift + Enter, tudo isso antes de enviar os dados para o servidor e criar o caos no sistema.
+
+{{profissões inúteis}}

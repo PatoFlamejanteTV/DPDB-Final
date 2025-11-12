@@ -1,0 +1,599 @@
+[[Arquivo:F1-2014-noses.png|340px|miniaturadaimagem|direita|Os [[ironia|belos]] narizes dos carros da {{PAGENAME}}]]
+{{vqd|<choose><option>A primeira temporada a matar piloto desde 1994</option><option>RIP Jules Bianchi</option><option>Mercedes Supremacy</option><option>Hamilton Supremacy begins</option></choose>}}
+{{C|Vamos dar um reset nos motores pra diminuir esse domínio da Red Bull|chefes da FIA|{{PAGENAME}}}}
+{{C|Que bacana! Falando nisso, que tal usar uns motorzinhos diferenciados que nós mesmos desenvolvemos?|Mercedes|a frase acima}}
+{{C|Hahahaha esse ano vai ser outra barbada pro Vettel...|Vettelete|{{PAGENAME}}}}
+{{C|Hamilton ainda tá na Mercedes? Coitado, nunca mais vai ganhar nada na F1!|Alguns telespectadores|{{PAGENAME}}}}
+{{C|HÃ?! O QUÊ? COMO ASSIM???|Os mesmos telespectadores depois que a temporada começou e Hamilton e a Mercedes dominaram}}
+{{C|Mas esse carro, hein, vou te contar...|Sebastian Vettel|a carroça que a Red Bull criou nesse ano}}
+{{C|A culpa não é nossa, a Renault que nos boicotou com esse motor horrível que mandaram pra gente|Red Bull|a reclamação acima}}
+{{C|Vem, neném, vem!|Ferrari|Sebastian Vettel}}
+{{C|Finalmente fui vingado!|Mark Webber|Vettel ser derrotado pelo Ricciardo em 2014}}
+{{C|Eu quero correr! Aceito qualquer vaga, até mesmo na Marussia!|Barrichello|seu desespero em voltar pra F1}}
+{{c|Fiz uma POLE! UHUUUUU!|Felipe Massa|a pole cagada no GP da Áustria}}
+{{c|Oh, não, outra vez?|Felipe Massa|as bottadas que levou do Bottas}}
+{{C|MASSA!!! HELP!!!|Nico Rosberg tentando convencer Massa a ajudá-lo a ser campeão mundial em Abu Dhabi}}
+{{C|Eu não acredito, foi tão fácil...|Lewis Hamilton depois de ganhar a corrida de Abu Dhabi e o campeonato}}
+{{C|Dessa vez passa, mas ano que vem sou eu que vou ser campeão!|Nico Rosberg|a frase acima}}
+{{C|Ééééé... Não?|Michael Kyle|o delírio do Rosberg}}
+
+
+A '''{{PAGENAME}}''' é a 65ª edição do campeonato da [[Fórmula 1]], o racha de playboys mais popular do mundo. Essa temporada foi a primeira a adotar motores turbo-comprimidos V6 de 1600 cilindradas, com os famigerados MGU-K e MGU-H que só serviram pra complicar as vidas dos fabricantes e dar à Mercedes uma hegemonia que durou sete anos. Apenas seus pilotos [[Hamilton]] e [[Rosberg]] disputaram seriamente o título, com o britânico levando a melhor no final.
+
+
+==Pilotos e Equipes==
+
+{| class="wikitable" border="1" style="font-size: 90%;"
+!Equipe
+!<s>Bob, o</s> Construtor
+!Chassi(s)
+!Motor
+!Pneu
+!N°
+!Pilotos
+!Rodada
+|-
+|rowspan=4|[[Arquivo:Bandeira da Malásia.png|20px]] [[Caterham F1 Team|Catarro F1 Team]]
+!rowspan=4 align="center"| [[Caterham|Catarro]]-[[Renault]]
+|rowspan=4 align="center"|CT-05
+|rowspan=4 align="center"|[[Renault]] Energy F1-2014
+|rowspan=4 align="center"|[[Pirelli]]
+| align="center" |9
+| [[Arquivo:Bandeira da Suecia.png|20px]] [[Marcus Ericsson|Sony Ericsson]]
+| align="center" | 1–16
+|-
+| align="center" |10
+| [[Arquivo:Bandeira do Japao.png|20px]] [[Kamui Kobayashi|Kamui Tobayashi]]
+| align="center" | 1–11, 13–16, 19
+|-
+| align="center" |45
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[André Lotterer|André Lorotterer]]
+| align="center" | 12
+|-
+| align="center" |46
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Will Stevens|Will Estive]]
+| align="center" | 19
+|-
+|rowspan=2| [[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Ferrari|Scuderia Ferrar-se]]
+!rowspan=2 align="center"| [[Scuderia Ferrari|Ferrari]]
+|rowspan=2 align="center"| F14 T
+|rowspan=2 align="center"| [[Ferrari]] 059/3
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 7
+| [[Arquivo:Banderafinlandia.png|20px]] [[Kimi Räikkönen|Kimi Raikome]]
+| align="center" | 1-19
+|-
+| align="center" | 14
+| [[Arquivo:Bandeira da Espanha.png|20px]] [[Fernando Alonso|Reclamando Alonso]]
+| align="center" | 1–19
+|-
+|rowspan=2| [[Arquivo:India flag.png|20px]] [[Force India|Sahara Force Midia Formula One Team]]
+!rowspan=2 align="center"| [[Force India]]-[[Mercedes]]
+| rowspan=2 align="center"| VJM07
+| rowspan=2 align="center"| [[Mercedes]] PU106C Hybrid
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 27
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Nicolas Hülkenberg|Nico Hulquebrerg]]
+| align="center" | 1–19
+|-
+| align="center" | 11
+| [[Arquivo:Flagge Mexiko.png|20px]] [[Sergio Pérez|Serjo Pérez]]
+| align="center" | 1–19
+|-
+| rowspan="2" | {{GBRb}} [[Team Lotus|Lostus F1 Team]]
+!rowspan=2 align="center"| [[Lotus|Lostus]]
+| rowspan=2 align="center"| E22	
+| rowspan=2 align="center"| [[Renault]] Energy F1-2014
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 8
+| [[Arquivo:Bandeira da França.png|20px]]  [[Romain Grosjean|Romã Groselha]]
+| align="center" | 1–19
+|-
+| align="center" | 13
+| {{VENb}}  [[Pastor Maldonado|Pastor Maldobrado]]
+| align="center" | 1–19
+|-
+| rowspan="2" | [[Arquivo:Bandeira da Rússia.png|20px]] [[Marussia F1 Team|Má-Rússia F1 Team]]
+!rowspan=2 align="center"| [[Marussia]]-[[Ferrari]]
+| rowspan=2 align="center"|MR03
+| rowspan=2 align="center"|[[Ferrari]] 059/3
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" |4
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Max Chilton|Max Chichilton]]
+| align="center" | 1–16
+|-
+| align="center" |17
+| [[Arquivo:Bandeira da França.png|20px]]  [[Jules Bianchi|RIP Jules Bianchi]]
+| align="center" | 1–15
+|-
+| rowspan="2" | [[Arquivo:Bandeira do Reino Unido.png|20px]] [[McLaren|McLaren Mercedes]]
+!rowspan=2 align="center"| [[McLaren]]-[[Mercedes]]
+| rowspan=2 align="center"| MP4-29
+| rowspan=2 align="center"| [[Mercedes]] PU106A Hybrid
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 20
+| {{DENb}} [[Kevin Magnussen|Kevin Magnata]]
+| align="center" | 1-19
+|-
+| align="center" | 22
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Jenson Button|Jasão Botão]]
+| align="center" | 1–19
+|-
+|rowspan=2| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Mercedes Grand Prix|Mercedes OMG Petronas Formula One Team]]
+!rowspan=2 align="center"| [[Mercedes Grand Prix|Mercedes]]
+| rowspan=2 align="center"| F1 W05 Hybrid
+| rowspan=2 align="center"| [[Mercedes]]  PU106A Hybrid
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 44
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Lewis Hamilton|Lewis Hamiltop]]
+| align="center" | 1–19
+|-
+| align="center" | 6
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Nico Rosberg|Nico Rosbritney]]
+| align="center" | 1–19
+|-
+|rowspan=2| [[Arquivo:Bandeira da Austria.png|20px]] [[Red Bull Racing|Red Burro Racing]]
+!rowspan=2 align="center"| [[Red Bull Racing|Red Burro]]-[[Renault]]
+| rowspan=2 align="center"| RB10
+| rowspan=2 align="center"| [[Renault]] Energy F1-2014
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 1
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Sebastian Vettel|Sebastian Vette1]]
+| align="center" | 1–19
+|-
+| align="center" | 3
+| [[Arquivo:Bandeira da Australia.png|20px]] [[Daniel Ricciardo|Daniel Riccagado]]
+| align="center" | 1–19
+|-
+|rowspan=2| [[Arquivo:Bandeira da Suiça.png|20px]] [[Sauber F1 Team|Saubesteira]]
+!rowspan=2 align="center"| [[Sauber]]-[[Ferrari]]
+| rowspan=2 align="center"| C33
+| rowspan=2 align="center"| [[Ferrari]] 059/3
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 21
+| [[Arquivo:Flagge Mexiko.png|20px]] [[Esteban Gutiérrez|Esteban <s>Ocon</s> Gutierros]]
+| align="center" | 1–19
+|-
+| align="center" | 99	  
+| [[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Adrian Sutil]]
+| align="center" | 1–19
+|-
+|rowspan=2| [[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Toro Rosso|Scuderia Toró Russo]]
+!rowspan=2 align="center"| [[Scuderia Toro Rosso|Toró Russo]]-[[Renault]]
+|rowspan=2 align="center"| STR9
+|rowspan=2 align="center"| [[Renault]] Energy F1-2014
+|rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 25
+| [[Arquivo:Bandeira da França.png|20px]] [[Jean-Éric Vergne|João-É-Rico Verme]]
+| align="center" | 1–19
+|-
+| align="center" | 26
+| [[Arquivo:Bandeira da Rússia.png|20px]] [[Daniil Kvyat|Daniil Kvyda]]
+| align="center" | 1–19
+|-
+|rowspan=2| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Williams F1|Williams Dry Martini Racing]]
+!rowspan=2 align="center"| [[Williams F1|Williams]]-[[Mercedes]]
+| rowspan=2 align="center"| [[Williams FW37|FW37]]
+| rowspan=2 align="center"| [[Mercedes]] PU106C Hybrid
+| rowspan=2 align="center" | [[Pirelli]]
+| align="center" | 19
+| [[Arquivo:Banderabrasil.png|20px]] [[Felipe Massa|Felipe Amassa]]
+| align="center" | 1–19
+|-
+| align="center" | 77
+| [[Arquivo:Banderafinlandia.png|20px]] [[Valtteri Bottas|Valtteri Bottadas]]
+| align="center" | 1–19
+|}
+
+=== Números <s>da Mega Sena</s> <s>do Jogo do Bicho</s> dos pilotos ===
+
+[[Arquivo:Vettel.jpg|200px|miniaturadaimagem|direita|Vettel foi o número 1 em 2014, depois, nunca mais...]]
+Nessa temporada, os pilotos foram obrigados a escolher números, com o número 1 reservado ao campeão (Vettel), mas como ele perdeu o campeonato, teve que pegar outro número, e ele escolheu o 5 porque queria ser penta na F1. Os outros pilotos usaram critérios aleatórios para justificar suas escolhas.
+
+*[[Daniel Ricciardo]]: catou o número 3 por que gostava de fazer ménage. Ele manteve o número porque nesse ano, o australiano ganhou 3 corridas e terminou o campeonato na terceira posição.
+
+*[[Max Chilton]]: pegou o número 4 por ser sua posição sexual favorita e pra fazer trocadilho com seu nome na hora de emplacar hashtag, que por acaso, era #M4x, mas ninguém usou.
+
+*[[Nico Rosberg]]: pegou o 6 porque na hora de escolher o número, o pai dele mandou ele comprar meia dúzia de ovos. Ele não só se esqueceu dos ovos como também disse o número errado. Em entrevistas posteriores, Rosberg disse que queria ter pego o número 24.
+
+*[[Kimi Raikkonen]]: quando perguntado, ele respondeu apenas "Sete" e se recusou a dizer qualquer coisa depois disso. Todos compreenderam sua mensagem e o deixaram em paz.
+
+*[[Romain Grosjean]]: escolheu o 8 por ser parecido com o formato dos seios femininos, da bunda (de ambos os gêneros) e por ser a quantidade de carros que ele destruiu em sua última temporada.
+
+*[[Marcus Ericsson]]: pegou o 9 porque... Porque... Ninguém sabe, e sinceramente, ninguém liga. 
+
+*[[Kamui Kobayashi]]: nem precisa de explicação, o 10 é perfeito pra ele, pois Koba é nota 10!
+
+*[[Sergio Pérez]]: ele escolheu o 11 porque gostava da simbologia dele, que era um homem atrás do outro.
+
+*[[Pastor Maldonado]]: o gênio da barbeiragem sempre adorou brincar com a sorte (e com o azar), por isso ele escolheu o número mais temido pelos europeus, americanos, o Roberto Carlos, supersticiosos e pela direita brasileira, o 13.
+
+*[[Fernando Alonso]]: o Choronso escolheu o 14 porque <s>são os números das iniciais de seu ídolo Adolf Hitler</s> foi aos catorze anos que ele conheceu Briatore, além disso, era o ano de 20'''14''', e ele achava que ia ser campeão assim como a Espanha na Copa do Mundo.
+
+*[[Felipe Massa]]: porque ele pegou o 19? Ninguém sabe. Ele podia ter pego o 9, o 29, o 49, o 0, o 666 ou qualquer outro (menos o 1, privativo do Vettel). Mas escolheu um número primo meio cagado e nada popular. Contudo, em entrevistas posteriores, Massa deu a entender que o 19 não foi escolhido por acaso: foi com essa idade que ele deixou de ser virgem.
+
+*[[Kevin Magnussen]]: ele usou o número 20 no último campeonato que disputou, então resolveu manter o número pra Fórmula 1 na tentativa de ser campeão também (spoiler: não rolou).
+
+*[[Esteban Gutiérrez]]: escolheu o 21 pelas mesmas razões do Massa. A diferença é que ele estreou na F1 na mesma época em que deixou de ser virgem.
+
+*[[Jenson Button]]: Pegou o 22 porque gostava de caçar patos, e sempre corria pra atirar quando via dois patinhos na lagoa.
+
+*[[Nico Hulkenberg]]: Pegou o 27 porque era a idade que ele iria completar em 2014, e porque queria fazer parte do Clube dos 27 de alguma forma.
+
+*[[Lewis Hamilton]]: Escolheu 44 por que é a idade que ele pretende deixar a Fórmula 1.
+
+*[[Valtteri Bottas]]: Pegou o 77 para dar suas bo77adas com mais estilo.
+
+*[[Adrian Sutil]]: Ele não foi nada sutil em escolher o 99, pois era retardatário, e se não podia superar os pilotos nas pistas, que fosse no valor do número do carro.
+
+*[[André Lotterer]]: Pegou o 45 porque queria que o PSDB tivesse ganhado a eleição daquele ano.
+
+*[[Will Stevens]]: Ficou com o 46 por falta de opção, tanto que no ano seguinte, ele trocou de número.
+
+* [[Jean-Éric Vergne]], [[Daniil Kvyat]]: escolheram, respectivamente, o 25 e 26 por serem as datas de seus aniversários, que coincidentemente caem no mesmo mês de abril.
+
+* [[Jules Bianchi]]: coitado, tentou pegar o número 7, o 27, o 77, mas não conseguiu, pois pilotos muito melhores do que ele já tinham catado esses números antes. Então, só restou a ele o número 17, que por acaso é o mesmo do placar daquele fatídico jogo do Brasil na copa daquele mesmo ano. Esse número amaldiçoado trouxe diversos azares na vida da promessa ferrarista, que pagou vários pecados dirigindo aquela Marussia, só conseguiu 2 pontos porque o universo teve pena dele, mas em compensação, ele bateu num trator no GP do Japão e ficou em estado vegetativo por meses, até que em [[2015]], ele finalmente foi disputar corridas com o [[Ayrton Senna|Senna]], o [[Juan Manuel Fangio|Fangio]] e tantos outros pilotos que já se foram. No final das contas, o 17 não o deixou em paz nem mesmo na tabela, pois Bianchi terminou o campeonato na 17ª posição. O número ficou tão maldito que acabou sendo banido da Fórmula 1 para sempre, os fãs de Bianchi até tentaram usá-lo numa hashtag para homenagear o azar de seu ídolo, tweetando a #JB17 por horas a fio, mas depois que Bolsonaro se apropriou dela para ganhar a eleição de 2018, eles pararam.
+
+==Resumo da temporada==
+[[Arquivo:Hamilton-Rosberg-handshake-2014.png|300px|miniaturadaimagem|direita|Mais que amigos, friends!]]
+Essa temporada prometia muito, os fãs e especialistas esperavam GPs com disputas alucinantes, tal qual ocorreu em [[Temporada de Fórmula 1 de 2010|2010]], no entanto, apenas a Mercedes construiu um carro decente com um motor que realmente prestava. As outras tiveram que se contentar com migalhas, como foi o caso da Williams, que conseguiu uma pole (com o [[Massa]]), e da Red Bull, que teve as três únicas vitórias que a Mercedes não conseguiu no ano. Mas se você pensa que essas vitórias eram do atual campeão e pretenso novo Schumacher [[Sebastian Vettel]], ERROU! Quem ganhou essas corridas foi o obscuro e desconhecido [[Daniel Ricciardo]], que ficou tão feliz que caiu na gargalhada e não parou mais.
+
+Nico Rosberg começou ganhando e dava pinta de que o novo [[Schumacher]] seria ele. Mas Hamilton não deixou barato e venceu as quatro corridas seguintes. Pra tentar conter a sequência do colega afrodescendente, Rosberg apelou pros métodos de seu compatriota [[Dick Vigarista]], batendo propositalmente na classificação do GP de Mônaco para garantir sua pole e sua vitória. E Hamilton ainda foi proibido de ultrapassar o piloto da casa! Claro, ele ficou muito puto, mas não pôde fazer nada além de continuar correndo pra caralho.
+
+[[Arquivo:Rosbilton-Toto-2014.png|300px|miniaturadaimagem|esquerda|No final da temporada, Hamilton e Rosberg se reconciliaram, com a bênção de Toto Wolff]]
+Ele deixou Rosberg achar que tinha chances de ser campeão, mas esse alemãozinho desperdiçou, ele até abriu distância na tabela, mas fez cagadas que permitiu que o Ricciardo vencesse três corridas que poderiam ter sido dele. Aí, no GP da Bélgica, Rosberg tocou no Hamilton e o tirou da corrida. Esse foi o fim da picada para o nosso Pelé das Pistas, no GP da Itália, o Hamilton saiu na frente e Rosberg ultrapassou, dando a impressão de que venceria de novo, mas ele deu várias rabeadas na pista, e quando o Hamilton chegou nele, não perdoou. Esse alemão só não perdeu o segundo lugar porque quem vinha atrás dele era o Felipe Massa, que teve o seu primeiro pódio na Williams.
+
+Depois da Itália, Hamilton jogou o pedal do freio fora e acelerou com tudo pra faturar mais quatro corridas seguidas. Contudo, no Brasil, Rosberg conseguiu uma vitória cagada. E então, chegamos à última corrida, Abu Dhabi, que segundo Ecclestone, valeria o dobro de pontos. Apenas Hamilton e Rosberg tinham chances, e como em outros GPs, o alemãozinho largou na frente. Ele só precisava que Hamilton ficasse abaixo do segundo lugar, por isso ele tentou subornar Massa para que ele passasse seu antigo rival, e assim o ajudasse a ser campeão. Mas aquele não era o dia do alemão, quando começou a corrida, o carro dele falhou na hora H... Então, Rosberg não pôde impedir que Hamilton o ultrapassasse e ganhasse o campeonato, e ele permaneceu na pista por mais algum tempo, dirigindo melancolicamente enquanto os outros pilotos do grid o ultrapassavam. Até que uma Marussia foi se aproximando e Toto Wolff teve a gentileza de mandar seu pupilo alemão pros boxes, pra abandonar a corrida de vez.
+
+== Cú-riosidades ==
+[[Arquivo:F1-Lotus-McLaren-cars-brazzers.png|300px|miniaturadaimagem|direita|Os carros da F1 também se divertem!]]
+*Pra combinar com os motores novos, os designers das equipes se superaram e criaram alguns dos carros mais feios da história. O destaque estava na frente, mais precisamente, nos bicos, que tinham formatos esquisitos. Alguns pareciam pintos, outros bucetas, e enquanto as câmeras não estavam filmando, os pilotos colocavam os carros para transar entre si, conforme podemos ver na imagem ao lado.
+
+* Nesse ano, tivemos corridas em feriados como o da [[Independência do Brasil]] (7 de setembro, quando teve o GP da Itália), Dia de [[Nossa Senhora Aparecida]] (12 de outubro, quando houve o GP da Rússia) e Dia de [[Finados]] (2 de novembro, quando foi o GP dos EUA), e os brasileiros que gostam de viajar pra ver F1 aproveitaram bastante. Em compensação, o primeiro turno das eleições caiu bem no dia do GP do Japão (5 de outubro), e quem quis viajar teve que meter justificativa.
+
+*Os estreantes do ano eram Kvyat, Magnussen, Ericsson e Stevens. Desses, quem estreou melhor foi o Magnussen, que teve o segundo lugar no GP da Austrália. Mal sabia ele que esse seria seu único pódio na F1, e que o melhor que ele conseguiria depois era uma pole cagada na Sprint do GP do Brasil de 2022. Só o Kvyat conseguiu mais pódios, Ericsson se deu melhor na Indy, faturando as 500 milhas de Indianápolis e Stevens... Sei lá, dizem que ganhou em Le Mans, mas talvez os outros pilotos com que ele dividia o carro sido mais importantes nisso do que ele. Também foi em 2014 que André Lotterer fez sua primeira e única participação. Além dele, também deixaram a F1 Kobayashi, Sutil e Vergne.
+
+* A Mercedes fez um motor tão foda que até as equipes clientes se deram bem. Quem mais se beneficiou foi a Williams, que terminou o campeonato de construtores em terceiro. Eles poderiam ter conseguido mais se tivessem contratado pilotos melhores do que Felipe Massa. Esse aí demorou muito pra desempacar, bateu pra caralho, rodou mais ainda e pagou vários micos. Ele fez uma pole, mas pole não vale pontos. Massa também teve dois terceiros lugares e um segundo lugar em Abu Dhabi, mas Bottas ficou em terceiro por quatro vezes e ainda pegou dois segundos lugares. No final das contas, ele tomou uma bottada de seu companheiro de equipe [[Valtteri Bottas]].
+
+* A Red Bull já não tava feliz com a mudança de regras, aí a Renault entregou um motor horrível pra eles, e pra piorar, o Vettel esqueceu como pilotar. Eles só não ficaram totalmente no zero por causa do Ricciardo, que ganhou 3 corridas na base da sorte. Mas o que a RBR não esperava era que Vettel já estivesse de contrato assinado com a Ferrari.
+
+* Enquanto isso, a Caterham... Kkkkkkkkkkkkkkkkkkkk (pausa pra beber água) enfim, a Caterham foi ainda pior que nos anos anteriores. Os caras chamaram 4 (quatro) pilotos pra tentar conduzir aquela carroça esverdeada, contudo, nenhum deles conseguiu sair do zero a zero. Esse foi o último ano da equipe na categoria, eles faliram e os pilotos pagantes perderam uma opção de equipe pra correr e bater na Fórmula 1.
+
+* Só não foram piores que a Marussia, que fez um carro tão ruim que permitiu a morte do único piloto bom que eles conseguiram (o Bianchi). O trauma foi tão forte que eles nem disputaram as corridas do resto da temporada, e ainda mudaram de nome na temporada seguinte, passando a se chamar Manor.
+
+== Galeria ==
+<Gallery>
+Imagem:Ricciardo-Vettel-2014.png|{{c|Eu ganhei de você logo em meu ano de estreia na Red Bull!|Ricciardo}} {{c|M-Mas eu ainda sou tetracampeão mundial...|Vettel}}
+Imagem:Gutierrez_Bahrain_2014.jpg|Gutierrez tentando fazer seu carro dar um giro de 360°
+Imagem:Maldonado_e_Gutiérrez_GP_Bahrein.jpg|Essa imagem entrega que Maldonado estava envolvido nisso
+Imagem:Ericsson Massa Monaco.png|Ericsson, um dos pilotos <s>pagantes</s> estreantes do ano, dando seu cartão de visitas ao Massa
+Imagem:Caterham-2014.png|A Caterham levantando poeira e quebrando tudo
+Imagem:Ferrari-Aspirador-2014.png|O carro da Ferrari em 2014
+Imagem:11kob.jpg|Esse foi o último ano em a F1 pôde contar com o belo sorriso do Kobayashi
+Imagem:André_Lotterer.jpg|Lotterer pensando se vai ter chance de voltar à F1 algum dia (spoiler: não vai)
+Imagem:Kimi_ferrari.png|Kimi reagindo ao resultado dessa temporada
+</Gallery>
+
+== Resultados e classificação ==
+
+=== Por Grande Prêmio ===
+{| class="wikitable" border="1" style="font-size: 90%;"
+! colspan="2" | Grande Prêmio
+! Circuito e Cidade
+! Data
+! [[Pole Position|Pole Dancition]]
+! Volta mais rápida
+! <choose><option>[[Ayrton Senna|Vencedor]]</option><option>[[Michael Schumacher|Vencedor]]</option></choose>
+|-
+! 1
+|{{AUSb}} [[GP da Austrália]]
+| [[Circuit Albert Park]] [[Melbourne]]
+| [[16 de março]]
+| [[Lewis Hamilton|Hamiltop]]
+|  colspan="2" | <center> [[Nico Rosberg|Rosbritney]]
+|-
+! 2
+|[[Arquivo:Bandeira da Malásia.png|20px]] [[Malásia|GP da Malásia]] 
+| [[Circuito Internacional de Sepang]] ([[Kuala Lumpur]])
+| [[30 de março]]
+|  colspan="3" | <center>  [[Lewis Hamilton|Hamiltop]]
+|-
+! 3
+|{{BHRb}} [[Grande Prêmio do Bahrein|GP do Bahrein]] 
+|[[Bahrain International Circuit|Tatooine]] (Sakhir)
+| [[6 de abril]]
+|  colspan="2" | <center> [[Nico Rosberg|Rosbritney]]
+|  <center> [[Lewis Hamilton|Hamiltop]]
+|-
+! 4
+|{{CHNb}} [[Grande Prêmio da China|GP da China]] 
+| [[Circuito Internacional de Xangai]] ([[Xangai]])
+|[[20 de abril]]
+|  <center> [[Lewis Hamilton|Hamiltop]]
+|  <center> [[Nico Rosberg|Rosbritney]]
+| <center>  [[Lewis Hamilton|Hamiltop]]
+|-
+! 5
+|{{ESPb}} [[Grande Prêmio da Espanha|GP da Espanha]]
+| [[Circuito da Catalunha]] ([[Barcelona]])
+| [[11 de maio]]
+| <center>  [[Lewis Hamilton|Hamiltop]]
+| <center>  [[Sebastian Vettel|Vette1]]
+| <center>  [[Lewis Hamilton|Hamiltop]]
+|-
+! 6
+|{{MCOb}} [[Mônaco|GP de Mônaco]]
+|[[Circuit de Monaco|Onde Senna era Rei]] (Monte Carlo)
+| [[25 de maio]]
+| <center> [[Nico Rosberg|Rosbritney]]
+| <center>  [[Kimi Räikkönen|Kimi Raikome]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+|-
+! 7
+|{{CANb}} [[Canadá|GP do Canadá]]
+| [[Circuit Gilles Villeneuve|Imola 2.0]] ([[Montreal]])
+| [[8 de junho]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+| <center>  [[Felipe Massa|Amassa]]
+| <center>  [[Daniel Ricciardo|Riccagado]]
+|-
+! 8
+|{{AUTb}} [[Áustria|GP da Áustria]]
+| [[Red Bull Ring]], [[Spielberg (cidade)|Spielberg]]
+| [[22 de junho]]
+| <center>  [[Felipe Massa|Amassa]]
+| <center>  [[Sergio Pérez|Perezzz]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+|-
+! 9
+|{{GBRb}} [[Inglaterra|GP da Grã-Bretanha]]
+| [[Silverstone Circuit|Circuito da Pedra Prateada]] ([[Silverstone (cidade)|Silverstone]])
+| [[6 de julho]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+|  colspan="2" | <center> [[Lewis Hamilton|Hamiltop]]
+|-
+! 10
+|{{ALEb}} [[Alemanha|GP da Alemanha]]
+| Circuito de Hockenheimring, ([[Hockenheim]])
+| [[20 de julho]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+| <center>  [[Lewis Hamilton|Hamiltop]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+|-
+! 11
+| {{HUNb}} [[Hungria|GP da Hungria]]
+| [[Hungaroring|Onde o Massa levou a molada]] ([[Budapeste]])
+| [[27 de julho]]
+|  colspan="2" | <center> [[Nico Rosberg|Rosbritney]]
+| <center>  [[Daniel Ricciardo|Riccagado]]
+|-
+! 12
+| {{BELb}} [[Bélgica|GP da Bélgica]]
+| [[Spa-Francorchamps|Spa só pros Champz]], ([[Spa-Francorchamps]])
+| [[24 de agosto]] 
+|  colspan="2" | <center> [[Nico Rosberg|Rosbritney]]
+| <center>  [[Daniel Ricciardo|Riccagado]]
+|-
+! 13
+|{{ITAb}} [[Itália|GP da Itália]]
+| [[Circuito de Monza]] ([[Monza]])
+| [[7 de setembro]]
+|  colspan="3" | <center> [[Lewis Hamilton|Hamiltop]]
+|-
+! 14
+|{{SGP}} [[Singapura|GP de Singapura]]
+| [[Circuito Urbano de Marina Bay|Cingapura Gate]] ([[Cidade de Singapura]])
+| [[21 de setembro]]
+|  colspan="3" | <center> [[Lewis Hamilton|Hamiltop]]
+|-
+! 15
+|{{JPN}} [[Grande Prêmio do Japão|GP do Japão]]
+| [[Circuito de Suzuka]] ([[Suzuka]])
+| [[5 de outubro]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+|  colspan="2" | <center> [[Lewis Hamilton|Hamiltop]]
+|-
+! 16
+|{{RUSb}} [[Grande Prêmio da Rússia|GP da Rússia]]
+| [[Circuito de Sochi]] ([[Sochi]])
+| [[12 de outubro]]
+| <center>  [[Lewis Hamilton|Hamiltop]]
+| <center>  [[Valtteri Bottas|Bottadas]]
+| <center>  [[Lewis Hamilton|Hamiltop]]
+|-
+! 17
+|{{USAb}} [[Estados Unidos|GP dos Estados Unidos]]
+| [[Circuito das Américas]] ([[Austin]])
+| [[2 de novembro]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+| <center>  [[Sebastian Vettel|Vette1]]
+| <center>  [[Lewis Hamilton|Hamiltop]]
+|-
+! 18
+|{{BRAb}} [[Grande Prêmio do Brasil|GP do Brasil]]
+| [[Autódromo de Interlagos|INTERLAGOOOSSSS]] ([[São Paulo (cidade)|São Paulo-SP]])
+| [[9 de novembro]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+| <center>  [[Lewis Hamilton|Hamiltop]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+|-
+! 19
+| [[Arquivo:Bandeira dos Emirados Arabes Unidos.png|20px]] [[Abu Dhabi|GP de Abu Dhabi]]
+| [[Circuito de Yas Marina|Yay Marina]] ([[Abu Dhabi]])
+| [[23 de novembro]]
+| <center>  [[Nico Rosberg|Rosbritney]]
+| <center>  [[Daniel Ricciardo|Riccagado]]
+| <center>  [[Lewis Hamilton|Hamiltop]]
+|-
+|}
+
+===Campeonato de Pilotos===
+
+{| class="wikitable"
+|-
+! Pos.
+! Piloto
+! Equipe
+! Pontos
+|-
+! 1º
+| [[Lewis Hamilton|Lewis Hamiltop]]||[[Mercedes Grand Prix|Meucedes GP]]
+! 384
+|-
+!2º
+|[[Nico Rosberg|Nico Rosbritney]]||[[Mercedes Grand Prix|Meucedes GP]]	
+!317
+|-
+!3º
+|[[Daniel Ricciardo|Daniel Riccagado]]||[[Red Bull|Red Burro]]
+!238
+|-
+!4º
+|[[Valtteri Bottas|Valtteri Bottadas]]||[[Williams]]
+!186
+|-
+!5º
+|[[Sebastian Vettel]]||[[Red Bull|Red Burro]]
+!167
+|-
+!6º
+|[[Fernando Alonso|Reclamando Alonso]]||[[Ferrari|Ferrar-se]]
+!161
+|-
+!7º
+|[[Felipe Massa|Felipe Amassa]]||[[Williams]]
+!134
+|-
+!8º
+|[[Jenson Button|Jasão Botão]]||[[McLaren]]
+!96
+|-
+!9º
+|[[Nico Hülkenberg|Nico Hucquebrerg]]||[[Force India|Force Midia]]
+!59
+|-
+!10º
+|[[Sergio Pérez|Serju Pérez]]||[[Force India|Force Midia]]
+!59
+|-
+!11º
+|[[Kevin Magnussen|Kevin Magnata]]||[[McLaren]]
+!55
+|-
+!12º
+|[[Kimi Räikkönen|Kimi Raicome]]||[[Ferrari|Ferrar-se]]
+!55
+|-
+!13º
+|[[Jean-Éric Vergne|João-É-Rico Verme]]||[[Toro Rosso|Toró Russo]]
+!22
+|-
+!14º
+|[[Romain Grosjean|Romã Groselha]]||[[Team Lotus|Lostus]]
+!8
+|-
+!15º
+|[[Daniil Kvyat|Daniil Kvyda]]||[[Toro Rosso|Toró Russo]]
+!8
+|-
+!16º
+|[[Pastor Maldonado|Pastor Maldobrado]]||[[Team Lotus|Lostus]]
+!2
+|-
+!17º
+|[[Jules Bianchi|RIP Jules Bianchi]]||[[Marussia]]
+!2
+|-
+!18º
+|[[Adrian Sutil]]||[[Sauber]]
+!0
+|-
+!19º
+|[[Marcus Ericsson|Sony Ericsson]]||[[Caterham|Catarro]]
+!0
+|-
+!20º
+|[[Esteban Gutiérrez]]||[[Sauber]]
+!0
+|-
+!21º
+|[[Max Chilton|Max Chichilton]]||[[Marussia]]
+!0
+|-
+!22º
+|[[Kamui Kobayashi|Kamui Tobayashi]]||[[Caterham|Catarro]]
+!0
+|-
+!23º
+|[[Will Stevens|Will Estive]]||[[Caterham|Catarro]]
+!0
+|-
+!24º
+|[[André Lotterer|André Lorotterer]]||[[Caterham|Catarro]]
+!0
+|}
+
+===Campeonato de Construtores===
+{| class="wikitable"
+|-
+! Pos.
+! Equipe
+! Pontos
+|-
+!1º
+|[[Arquivo:Bandeira da Alemanha.png|20px]] [[Mercedes Grand Prix|Meucedes GP]]
+! 701
+|-
+!2º
+|[[Arquivo:Bandeira da Austria.png|20px]] [[Red Bull Racing|Red Burro]]
+! 405
+|-
+!3º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Williams F1|Williams Dry Martini Racing]]
+! 320
+|-
+!4º
+|[[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Ferrari|Ferrar-se]]
+! 216
+|-
+!5º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Team McLaren|McLata]]
+! 181
+|-
+!6º
+|[[Arquivo:India flag.png|20px]] [[Force India|Force Midia]]
+! 155
+|-
+!7º
+|[[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Toro Rosso|Toró Russo]]
+! 30
+|-
+!8º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Team Lotus|Lostus]]
+! 36
+|-
+!9º
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Marussia F1 Team|Má-Rússia]]
+! 2
+|-
+!10º
+|[[Arquivo:Bandeira da Suiça.png|20px]] [[Sauber F1 Team|Saubesteira]]
+! 0
+|-
+!11º
+|[[Arquivo:Bandeira da Malásia.png|20px]] [[Caterham F1 Team|Catarro]]	
+! 0
+|}
+
+
+==Campeão==
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Vencedor da {{PAGENAME}}
+|-
+![[Arquivo:Lewis-Hamilton-Through-the-years.jpg|300px]]
+|-
+|align=center|<br />'''[[Lewis Hamilton]] ([[Mercedes-AMG Petronas Motorsport|Mercedes]])'''<br />'''(2º título)'''
+|}
+
+{{Temporadas f1}}

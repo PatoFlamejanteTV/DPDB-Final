@@ -1,0 +1,51 @@
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Me gustas
+| imagem          = Mongoose.jpg
+| imagem_legenda  = Uma espécie rara de mangusto
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| classe          = [[Mammalia|Mamadores]]
+| ordem           = [[Carnivora|Comedores de carne]]
+| família         = [[Herpestidae|Me gustas]]
+}}
+
+'''Herpestidae''' ('''Mangustos''') é uma família de fuinhas bípedes que além dos mangustos também engloba os suricatas e sacarrabos. Estes animais traiçoeiros são considerados assassinos naturais devido a sua capacidade furtiva de infiltração e assassinato silencioso sem deixar pistas, afinal você já viu algum mangusto ter sido flagrado e preso por assassinato, não né?
+
+Os mangustos são os animais mais temidos pelos ambientalistas, pois quando introduzidos no meio-ambiente eles começam a silenciosamente predar e matar todos animais de determinado ecossistema, o que explica porque tanto biólogo desocupado como Durrel, Grandidier, Meller, Selous e Pousargues se dedicou a estudar estes animais e isolá-los em [[Madagascar]], que como sabemos é um ecossistema atípico onde as leis da natureza não se aplicam.
+
+== Anatomia ==
+
+Os mangustos são animais de pequenos porte, felpudos, detentores de asas retráteis (você nunca verá um de asas a mostra), patinhas curtas com ventosas e caudas longas em formato de limpador-de-privada. Seus dentes afiados são ideais para triturar ossos e dilacerar vísceras e os olhos com visão de raio-x são ideais para uma vida subterrânea visto que estes animais gostam de cavar tocas e nelas morar.
+
+== Alimentação ==
+
+{{C|Viscoso... mas gostoso!|Lema herpestidae sobre sua alimentação}}
+
+Os mangustos no geral são carnívoros vorazes fanáticos por intestinos de outros mamíferos, afinal eles pertencem à ordem [[carnivora]]. Não é raro haver mangustos insetívoros, que compensam a ausência de vísceras em sua dieta devorando larvas e besouros viscosos, mas que na opinião deles são gostosos.
+
+== Gêneros ==
+
+* '''[[Atilax]]''' - mangusto-dos-pântanos
+* '''[[Bdeogale]]''' - mangustos-de-patas-negras, mangustos-de-jackson e mangustos-de-cauda-cerrada
+* '''[[Crossarchus]]''' - mangustos-anões
+* '''[[Cynictis]]''' - mangusto-amarelo
+* '''[[Dologale]]''' - mangusto-de-pousargues
+* '''[[Helogale]]''' - mangusto-anão-comum e mangusto-anão-da-etiópia
+* '''[[Herpestes]]''' - sacarrabos, mangustos-de-java, mangustos-de-cauda-curta, mangustos-indianos-cinzas, mangustos-indianos-marrons, mangustos-de-nariz-longo, mangustos-comedores-de-caranguejos
+* '''[[Ichneumia]]''' - mangusto-de-cauda-branca
+* '''[[Liberiictis]]''' - mangusto-da-libéria
+* '''[[Mungos]]''' - mangustos-da-gâmbia e mangustos listrados
+* '''[[Paracynictis]]''' - mangusto-de-selous
+* '''[[Rhynchogale]]''' - mangusto-de-meller
+* '''[[Suricata]]''' - suricata
+* '''[[Galidia]]''' - mangusto-de-cauda-anelada
+* '''[[Galidictis]]''' - mangustos-de-grandidier e mangustos-malgaxes-das-listras-largas
+* '''[[Mungotictis]]''' - mangusto-de-listras-estreitas
+* '''[[Salanoia]]''' - mangustos-de-durrell e mangustos-de-cauda-marrom
+
+[[Categoria:Carnivora]]
+[[Categoria:Herpestidae|*]]
+
+[[en:Mongoose]]
+[[ja:マングース]]

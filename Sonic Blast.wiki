@@ -1,0 +1,74 @@
+{{game}}
+
+{{Infobox Game
+|title     = Sonic Blast
+|image     = G-SonicJP.jpg
+|caption   = Os únicos personagens do jogo!
+|developer = [[Aspect]]
+|publisher = [[Sega|Cega]] / [[TecToy]]
+|released  = [[1996]], [[1997]]
+|genre     = <s>Correr pra Caralho</s> [[Plataforma]]
+|rating    = 1%
+|platform  = [[Game Gear|Tijolo Gear]] e [[Master System]] (somente no Brasil)
+|ages      = Livre
+}}
+
+{{vqd|[[Sonic & Knuckles]] versão Pré-histórica}} 
+{{vqd|Pré-Sonic 3D Blast}}
+{{c|PQP! Porque não ganhei uma participação?|Tails|Sonic Blast}}
+{{c|Sai fora! Volta lá pro seu namorado, pô!|Knuckles|Sonic}}
+
+'''Sonic Blast''' é um jogo do [[Sonic]] desenvolvido pela [[Aspect]] e publicado pela [[Sega|Cega]] pro [[Game Gear|Tijolo Gear]]. É conhecido como G-Sonic no [[Japão]].
+
+==Recepção e história do jogo==
+
+[[Arquivo:Sonic Blast Knux.png|left|thumb|Knuckles tentando escorregar no Loop.]]
+
+Foi lançado em [[Dezembro]] de [[1996]] para os [[EUA|americanos]] e [[Capitalismo|europeus]].
+A versão japonesa foi feita em 13 de dezembro, sendo o último jogo lançado para o sistema (da Cega).
+O jogo também foi portado pro [[Master System]] no [[Brasil]] pela [[TecToy]] e lançado em dezembro de [[1997]].
+Sonic Blast mais tarde foi compilado com outros títulos do Sonic como [[Sonic Adventure DX]] e [[Sonic Mega Collection Plus]], e uma demonstração do final do jogo pode ser desbloqueada em [[Sonic Gems Collection]].
+Embora este jogo foi lançado no final de 1996, em conjunto com o nome semelhante de [[Sonic 3D Blast]], os jogos têm pouco em comum.
+Inimigos, níveis e chefões, são compartilhados entre eles.
+A história também é completamente diferente: Sonic e [[Knuckles]] uniram-se para recolher cinco das esmeraldas do Chaos e enfrentar [[Eggman]] no Silver Castle.
+
+==Sobre o jogo==
+
+[[Arquivo:Sonic Blast SS.png|left|thumb|Sonic em um Special Stage do jogo.]]
+
+Ao contrário da sua versão [[Sonic 3D Blast|pseudo-3D]], Sonic Blast foi um side-scrolling de correr pra caralho e de plataformas de salto (lógico....).
+Foi o último jogo do Sonic lançado para o portátil da Cega, e exibia algumas das funcionalidades mais avançadas da série 8-bit (embora não tenha feito sucesso...).
+Os dois personagens jogáveis no jogo são [[Sonic the Hedgehog]] and [[Knuckles the Echidna]].
+O objeto do jogo é recolher cinco Chaos Emeralds (ao invés de 7), em fases visualmente semelhantes a [[Sonic the Hedgehog 3]].
+Porém, para coletar anéis nos Special Stages, tem que ser que nem em [[Sonic the Hedgehog 2]].
+As Esmeraldas só podem ser obtidas no segundo ato de cada nível.
+Finalizando uma etapa especial no primeiro ato o jogador ganhará uma vida extra em seu lugar.
+Semelhante a Sonic 3, fases especiais são inseridas através de anéis grandes escondidos na fase normal.
+Também é muito parecido com [[Sonic Triple Trouble]], quando você se <s>fode</s> fere nos inimigos, você só perde alguns anéis em oposição a todas eles (neste jogo, cada hit por 10 anéis).
+As manobras do Sonic são semelhantes aos de outros jogos, mas ele tem uma habilidade especial salto duplo que lhe permite atingir alturas maiores, como o escudo relâmpago em Sonic 3.
+Já as habilidades da Equidna dos Mano, são seus padrões de escalada e de [[Sapatos Airlines|voo livre]], como visto em [[Sonic & Knuckles]].
+
+==Gráficos==
+
+Uma característica importante deste jogo foi os seus gráficos pré-processados, que se tornou popular em alguns jogos de [[SNES]].
+Os gráficos do jogo dão uma olhada mais avançada do que a maioria dos outros jogos de Tijolo Gear e Master System.
+Os gráficos dos personagens também pegaram uma porção maior da tela.
+
+==Fases==
+
+[[Arquivo:Sonic Blast End.png|thumb|Silver Castle [[AAAAA!|afundando]]!]]
+
+* [[Green Hill]] Zone: Parece mais a [[Westside Island|Emerald Hill]] Zone;
+* Yellow Desert Zone: Sandopolis em 3D;
+* Red Volcano Zone: Um vulcão roxo com fogo (lógico...);
+* Blue Marine Zone: Tidal Tempest + Ice Cap!
+* Silver Castle Zone: Local onde está o Eggman, porém, é mais um esconderijo normal ao invés de um castelo.
+{{break}}
+{{Sonic}}
+
+[[Categoria:Jogos da Aspect]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Game Gear]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos lançados em 1996]]

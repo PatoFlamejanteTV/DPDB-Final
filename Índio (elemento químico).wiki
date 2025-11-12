@@ -1,0 +1,44 @@
+{{Infobox/elemento químico
+|nome              = Índio
+|imagem            = Garimpo de índio.jpg
+|legenda           = Uma jazida cheia de índio.
+|símbolo           = [[In the End|In]]
+|número            = [[49]]
+|série             = [[metal pós-transição|metal esquecível]]
+|isótopo           = <sup>[[113]]</sup>In
+|massa_atômica     = 114,818cu
+|dureza            = Molinho
+|radioatividade    = Nula
+|toxicidade        = ?
+|comestível        = Não
+|inalável          = Sim
+|passar_na_pele    = Sim
+|onde_encontrar    = [[LCD]]s
+|ponto_de_fusão    = -
+|ponto_de_ebulição = -
+|super-herói       = sim ([[T.Hawk]])
+}}
+
+'''Índio''' é o 49º [[elemento químico]] da [[tabela periódica]], considerado um [[Metal de pós-transição|metal que-ninguém-sabe-dizer-o-que-é]], porque não é nem [[halogênio]] mas também é feio e inútil demais para ser considerado um [[metal]] completo. É bem similar ao [[gálio]] e ao [[zinco]], exceto que é índio, um elemento que ninguém se lembra.
+
+== História ==
+
+Devido ao fato de que foi um [[suaíli]] que descobriu o índio, você pode agora ter uma ideia do quão não desesperados os químicos estavam em descobrir esse novo elemento. Foi o suazilandês [[Ferdinand Reich]] que, em 1863, enquanto desejava produzir [[tálio]] através da fusão de [[zinco]] numa caldeira de vibranium derretida, nas redondezas de [[Wakanda]], ele acidentalmente deixou cair seus pedaços de zinco num caldeirão com esterco fermentado e [[piche]], que dissolveu o zinco, sendo que foi dos restos do zinco dissolvido que Reich percebeu a descoberta de um elemento novo.
+
+A origem desse nome tão singular se deve ao fato de que Ferdinand decidiu homenagear seus escravos, botando esse nome idiota de "índio" no elemento. Assim ele poderia falar abertamente "vamos queimar esse índio", "vamos derreter esse índio", "vamos entortar esse índio", "vamos atirar no índio", "vamos enterrar o índio", tudo sem que ele pudesse ser acusado de racismo.
+
+== Características ==
+
+A primeira vista o índio parece ser um metal comum como todos os outros metais, exibindo sua coloração prateada (mas sem ser [[prata]]), uma dureza aceitável, solidez e toda sua toxicidade que o impede ser ingerido. Mas ao ser manuseado, o índio se demonstra ser o elemento mais [[Condutividade térmica|bixa-loka-fresca]] dentre todos os elementos da tabela periódica, porque basta ser dobrado de leve que já solta gritinhos estridentes de desespero.
+
+== Aplicações ==
+
+Em termos gerais, não possui propriedades ou aplicações úteis ou especiais aos seres humanos. Isso faz dele um dos metais mais inúteis de toda tabela periódica, tanto que foi expulso do grupo dos metais pelo [[cádmio]]. Não bastasse o elemento não ter muito uso, ele é obtido em quantidades mínimas em forma de desperdício na produção de vários outros metais mais úteis, o que enfatiza ainda mais quão terrivelmente sem importância o índio é. Alguns governos, como o Brasil, até criam algumas fundações científicas, como a [[Fundação Nacional do Índio|FUNAI]], para tentativas de valorizar mais o índio e demarcar as terrar onde eles vivem, mas os fazendeiros ignoram completamente a importância do índio e sempre que possível o tentará exterminar para criar pastos, pois [[proteína]] de boi é mais útil que índio para a biologia humana, embora veganos neguem isso, defendendo o índio.
+
+Além disso, o índio, como muitos outros metais, é usado como um aditivo para a fabricação de ligas de [[aço]] para torná-los mais [[aço]]. No entanto, isso não faz dele um elemento de destaque já que muitos outros metais podem substituí-lo. Seria útil talvez para fazer [[termômetro]]s, se já não tivesse descoberto o [[mercúrio]].
+{{DEFAULTSORTKEY:Indio}}
+{{Tabela periódica}}
+[[Categoria:Elementos químicos]]
+[[Categoria:Índios]]
+[[Categoria:Metais pós-transição]]
+[[pl:Ind]]

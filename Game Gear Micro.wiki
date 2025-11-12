@@ -1,0 +1,82 @@
+{{vqd|Game Gear 2}}
+{{vqd|[[Game Gear Advance]]}}
+[[Imagem:Game gear micro japa.jpg|thumb|O enorme Game Gear Micro.]]
+O '''Game Gear Micro'''<s>pênis</s> é uma tentativa da [[Sega|Cega]] de tentar deixar minísculo, o [[Game Gear]] (carinhosamente, Tijolo Gear), um portátil lançado em [[1990]] pra fazer inveja ao [[Game Boy|Game Gay]] e ao [[Atari Lynx|Atari Pé tamanho 44]]. Porém, ao invés de corrigir os defeitos do original, deixaram o bicho mais pequeno que um celular [[Android (Sistema Operacional)|Android]] 2.3, além também de incluir direcionais e botões que nem sequer lembram a estética do bicho. Pelo menos, não vai precisar de 6 pilhas pra jogar por 2 horas <s>serão somente 4</s> e sim, 2 pilhas AAA. Assim como o [[Mega Drive Mini|Merda Drive Mini]], ele é feito pela mesma empresa que fez a emulação de outros sistemas da Sega desde os primórdios do Virtual Console do [[Wii]] <s>ou seja, vai ser aquele mesmo emulador de Game Gear feito pro [[Nintendo 3DS|3DS]]</s>. 
+
+O bicho saiu em [[6 de Outubro]] de [[2020|Corongo20]], dia em que o falido portátil original comemorou 30 anos de existência. Dois jogos de Master System foram lançados numa versão super limitada no qual era incluído com [[Aleste Collection]], mas os seus pedidos de compra se esgotaram num piscar de olhos.
+
+==Descrição==
+[[Arquivo:GGMicro.png|right|thumb|Eu vou esfregar esse Game Gear na sua cara pra você parar de achar que só tem [[Sonic]] nessa merda.]]
+O portátil inclui:
+
+* 4 jogos (varia conforme cor da carcaça);
+* Lente de aumento (aka [[Super Wide Gear]]);
+* Alto falante mono (som estéreo apenas em fones de ouvido);
+* Botão de recuperação (interno);
+
+Dá pra usar 2 pilhas AAA no treco ou meter um carregador USB tipo A, porém, ambos não vem incluídos, pra dar a autêntica dor de cabeça de antigamente.
+
+O bicho saiu em 4 carcaças: Preta (original), Azul (Sonic), Amarela (hepatite) e Vermelho ([[Coca-Cola Kid]]). Inicialmente, elas vieram com 4 games, apesar de somente o Preto e o Azul serem adequados pra quem não sabe o idioma dos [[japonês|amarelos]]. Depois veio uma versão branca pra aqueles que compraram uma versão limitada da coletânea de Aleste no Japão. Dizem boas ou más línguas, que podem sair outras versões temáticas do bicho, fazendo assim que o aparelho venda mais que seu irmão original.
+
+==Lista de jogos==
+[[Imagem:Game gear micro vs vmu.jpg|thumb|Sim, a tela do Game Gear Micro consegue ser menor que a do [[VMU]].]]
+
+{| class="wikitable sortable" width="auto"
+|-
+! scope="col" | Título
+! scope="col" | Empresa
+! scope="col" | Ano
+! scope="col" | Edição
+|-
+| ''[[Baku Baku Animal]]'' || [[Sega]] || [[1996]] || Azul
+|-
+| ''[[Columns]]'' || [[Sega]] || [[1990]] || Vermelha
+|-
+| ''[[Gunstar Heroes]]'' || [[Treasure]] / [[Sega]] || [[1995]] || Azul
+|-
+| ''[[Megami Tensei Gaiden: Last Bible]]'' || [[Atlus]] / [[Sega]] || [[1994]] || Vermelha
+|-
+| ''[[Megami Tensei Gaiden: Last Bible Special]]'' || [[Atlus]] / [[Sega]] || [[1995]] || Vermelha
+|-
+| ''[[Nazo Puyo: Arle no Roux]]'' || [[Compile]] || [[1994]] || Amarela
+|-
+| ''[[Out Run]]'' || [[Sega]] || [[1991]] || Preta
+|-
+| ''[[Puyo Puyo 2]]'' || [[Compile]] || [[1994]] || Preta
+|-
+| ''[[Royal Stone: Hirakareshi Toki no Tobira]]'' || [[Sega]] || [[1995]] || Preta
+|-
+| ''[[Sonic Chaos]]'' || [[Aspect]] / [[Sega]] || [[1993]] || Azul
+|-
+| ''[[Sonic the Hedgehog (jogo)|Sonic the Hedgehog]]'' || [[Ancient]] / [[Sega]] || [[1991]] || Preta
+|-
+| ''[[Shining Force Gaiden: Ensei Jashin no Kuni he]]'' || [[Camelot Software Planning|Sonic]] / [[Sega]] || [[1992]] || Amarela
+|-
+| ''[[Shining Force Gaiden: Final Conflict]]'' || [[Camelot Software Planning|Sonic]] / [[Sega]] || [[1995]] || Amarela
+|-
+| ''[[Shining Force: The Sword of Haya]]'' || [[Camelot Software Planning|Sonic]] / [[Sega]] || [[1993]] || Amarela
+|-
+| ''[[Sylvan Tale]]'' || [[Sega]] || [[1995]] || Azul
+|-
+| ''[[The GG Shinobi]]'' || [[Sega]] || [[1992]] || Vermelha
+|-
+| ''[[Power Strike|Aleste]]''¹ || [[Compile]] / [[Sega]] || [[1988]] || Branca
+|-
+| ''[[GG Aleste]]'' || [[Compile]] || [[1991]] || Branca
+|-
+| ''[[Power Strike II (Game Gear)|GG Aleste II]]'' || [[Compile]] / [[Sega]] || [[1993]] || Branca
+|-
+| ''[[Power Strike II (Master System)|Power Strike II]]''¹ || [[Compile]] / [[Sega]] || [[1993]] || Branca
+|-
+| ''[[GG Aleste 3]]'' || [[M2 (empresa)|M2]] || [[2020]] || Branca
+|-
+|}
+
+* ¹ = Jogo de Master System
+
+== Ver também ==
+* [[Game Gear|Tijolo Gear]]
+* [[The Legend of Zelda (Game & Watch)]]
+
+{{Sega}}
+{{Consoles}}

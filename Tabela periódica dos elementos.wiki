@@ -1,0 +1,247 @@
+{{química}}
+{{ciência}}
+
+{{c|Современная периодическая система химических элементов Димитрого Ивановича Менделеева.|Pessoa russa falando "Tabela Periódica" em Russo.}}
+{{c|91 92 7 8 29.|nerd|Tabela Periódica.}}
+{{C|Adoro!|[[Oscar Wilde]]|a citação acima.}}
+{{c|Ainda não descobriram todos os elementos,[[Chuck Norris]] se recusa a fazer exame de sangue|Cientista|Tabela Periódica.}}
+{{c|Isso é muito avançado para você, você está atrapalhando a aula, pra fora agora!|Professor de química (nervoso) quando algum aluno pergunta sobre algum metal de transição.}}
+A '''Tabela Periódica dos Elementos''' é o Principal Princípio da <s>[[Alquimia]]</s> [[Química]], e é onde estão escondidos os elementos <s> místicos</s> químicos. A tabela é regulamentada pela [[IUPAC]] (''International Union of Picaretologic AlChemy''). 
+
+==Estrutura==
+É formada pelas seguintes [[Família Química|famílias ou séries]] (não confundir com séries da escola):
+[[Arquivo:Alquimista-3.gif|thumb|227px|Right|Químico tentando criar o [[etanol]] a partir do elemento '''B'''.]]
+*'''Metais alcalinos''': É formada por elementos que, ao reagirem com [[água]], produzem uma [[base (química)|base]] altamente corrosiva, capaz de queimar até mesmo aço. A valência dessa família é +1, de forma que são ortodoxos quanto a [[sexo|ligações químicas]]. O elemento mais perigoso dessa família é o elemento Fr (França), já que é um contumaz [[gay|doador de elétrons]].é com esses metais alcalinos que é feito o [[sabre de luz]].
+{{C|<big><math>Fr_4 + C</math> -> <math>Fr_4 C</math></big>|Químico mostrando como ocorre a reação do elemento Fr ([[Frei Galvão]]) com o elemento C ([[Ceará]])}}
+*'''Metais alcalino-terrosos''': Elementos que possuem o comportamento <s>al</s>químico quase igual aos metais alcalinos, com a diferença de que gostam de terra (por isso o ''terrosos'') e que tem valência +2 (gostam de levar em duas ao mesmo tempo):
+*'''Elementos de Corrosa''': Série também conhecida pelo nome ''Metais de transição'', esse nome ''(válido apenas no [[Brasil]], não aceito pela [[IUPAC]])'', foi dado em homenagem a Eurekus Corrosa, [[42]]º alquimista do [[Brasil]] depois da proclamação da <s>[[ditadura]]</s> república. São os metais que ninguém ensina na escola, porque nem os cientistas entendem como funcionam, então fingem que não existem.
+{{C|[[AAAAA!]]|Eurekus Corrosa|a reação <math>Rf^{+3} + Ti^{-}_{3} = Cabum!</math>}}
+{{C|<big>Ui!!!!!</big>|[[Clodovil Hernandes]]|a reação <small><math>V^{+24} + Hs^{-12}_{2} = Sr^{0}</math></small>}}
+** '''Lantanídeos e Actinídeos''': Elementos com uma [[Orbital atômico|camada eletônica]] a mais que os Elementos de Corrosa, acabam ocupando muito espaço se forem colocados no meio da tabela, por isso são colocados mais embaixo <small>'''''(Ui!!!)'''''</small> no esquema.
+[[Arquivo:Periodic_table_of_elements_t_shirt.jpg|thumb|Right|Melhor forma de consultar os elementos, pelo tato]]
+*'''Metais do bloco p''': Grupo químico que, embora sejam metais, tem uma pontinha de inveja dos ametais. Gostariam de estar no lugar do outro grupo, o que os faz se aproximarem (sem sucesso) da ''barreira dos semimetais''.
+*'''Semimetais''': São os chamados ''metais-vira-casaca'' pois às vezes se comportam como metais e às vezes como ametais. É um grupo formado pelos elementos B, Si, Ge, As, Sb, Te e Po.
+{{C|'''B'''om '''Si'''nal '''Ge'''nte '''As'''sistir '''Sb'''t '''Po'''uco.|<s>[[Telespectador da Globo]]</s> [[Professor]] de [[Química]]|como decorar os semimetais}}
+*'''Ametais''': Os elementos ''machos'' da tabela. Quase nunca dão, e geralmente recebem elétrons dos outros elementos (metais). O exemplo de machesa máxima é o elemento F. (Exceções: elementos Cl, N e I).
+*'''[[Gases Nobres|Elementos Nobres]]''': É a [[zelite]] da tabela periódica. São estáveis <s>finaceiramente</s> quimicamente, o que faz com que os mesmos não se misturem e quase nunca se liguem a nenhum outro elemento. O elemento mais reativo desse grupo é o elemento Xe.
+
+== A tabela ==
+Vai a seguir a Tabela Periódica moderna, segundo a denominação da [[IUPAC]] (OBS: nenhum dos elementos marcados com asterisco apresenta isótopos estáveis, enquanto os outros elementos apresentam ao menos um estável):
+{| id="tabela_periodica" style="width:100%;" 
+|-
+|[[Família Química|'''Grupo''']]
+|[[Metal alcalino|'''1''']]
+|[[Metal alcalinoterroso|'''2''']]
+|'''3'''
+|'''4'''
+|'''5'''
+|'''6'''
+|'''7'''
+|'''8'''
+|'''9'''
+|'''10'''
+|'''11'''
+|'''12'''
+|[[Família do boro|'''13''']]
+|[[Família do carbono|'''14''']]
+|[[Família do nitrogênio|'''15''']]
+|[[Calcogênio|'''16''']]
+|[[Halogênio|'''17''']]
+|[[Gases nobres|'''18''']]
+|-
+|[[Período (química)|'''Período''']]
+|colspan="19"|<br />
+|-
+|'''1'''
+|style="text-align:center;width:44px;background-color:#afffa0;color:red;border:1px transparent black;"|1<br />[[Adolf Hitler|'''H''']]
+|colspan="16"|<br />
+|style="text-align:center;width:44px;background-color:#a0ddff;color:red;border:1px transparent black;"|2<br />[[He-Man|'''He''']]
+|-
+|'''2'''
+|style="text-align:center;width:44px;background-color:#dd8888;color:black;border:1px transparent black;"|3<br />[[Artigo Lisérgico|'''Li''']]
+|style="text-align:center;width:44px;background-color:#ffdead;color:black;border:1px transparent black;"|4<br />[[Bêbado|'''Be''']]
+|colspan="10"|<br />
+|style="text-align:center;width:44px;background-color:#bfef80;color:black;border:1px transparent black;"|5<br />[[Boteco|'''B''']]
+|style="text-align:center;width:44px;background-color:#afffa0;color:black;border:1px transparent black;"|6<br />[[Ceará|'''C''']]
+|style="text-align:center;width:44px;background-color:#afffa0;color:red;border:1px transparent black;"|7<br />[[Nerd|'''N''']]
+|style="text-align:center;width:44px;background-color:#afffa0;color:red;border:1px transparent black;"|8<br />[[Owned|'''O''']]
+|style="text-align:center;width:44px;background-color:#ffff99;color:red;border:1px transparent black;"|9<br />[[Foda-se|'''F''']]
+|style="text-align:center;width:44px;background-color:#a0ddff;color:red;border:1px transparent black;"|10<br />[[Negro|'''Ne''']]
+|-
+|'''3'''
+|style="text-align:center;width:44px;background-color:#dd8888;color:black;border:1px transparent black;"|[[11]]<br />[[Nada|'''Na''']]
+|style="text-align:center;width:44px;background-color:#ffdead;color:black;border:1px transparent black;"|12<br />[[Manga|'''Mg''']]
+|colspan="10"|<br />
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px transparent black;"|13<br />[[Abdul Alhazred|'''Al''']]
+|style="text-align:center;width:44px;background-color:#bfef80;color:black;border:1px transparent black;"|14<br />[[Sílvio Santos|'''Si''']]
+|style="text-align:center;width:44px;background-color:#afffa0;color:black;border:1px transparent black;"|15<br />[[Porra|'''P''']]
+|style="text-align:center;width:44px;background-color:#afffa0;color:black;border:1px transparent black;"|16<br />[[Seiva de Sogra|'''S''']]
+|style="text-align:center;width:44px;background-color:#ffff99;color:red;border:1px transparent black;"|17<br />[[Clodovil|'''Cl''']]
+|style="text-align:center;width:44px;background-color:#a0ddff;color:red;border:1px transparent black;"|18<br />[[Ar|'''Ar''']]
+|-
+|'''4'''
+|style="text-align:center;width:44px;background-color:#dd8888;color:black;border:1px transparent black;"|19<br />[[Risada|'''K''']]
+|style="text-align:center;width:44px;background-color:#ffdead;color:black;border:1px transparent black;"|20<br />[[Careca|'''Ca''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|21<br />[[Seu Creysson|'''Sc''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|22<br />[[Travesti|'''Ti''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|23<br />[[Viádio|'''V''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|24<br />[[Caralho|'''Cr''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|25<br />[[Mano|'''Mn''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|26<br />[[Ferro|'''Fe''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|27<br />[[Corno|'''Co''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|28<br />[[Cavaleiros que dizem Ni|'''Ni''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|29<br />[[Cu|'''Cu''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|30<br />[[Zona|'''Zn''']]
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px transparent black;"|31<br />[[Galinha|'''Ga''']]
+|style="text-align:center;width:44px;background-color:#bfef80;color:black;border:1px transparent black;"|32<br />[[Germano Mosconi|'''Ge''']]
+|style="text-align:center;width:44px;background-color:#bfef80;color:black;border:1px transparent black;"|33<br />[[Asno|'''As''']]
+|style="text-align:center;width:44px;background-color:#afffa0;color:black;border:1px transparent black;"|34<br />[[Sexo|'''Se''']]
+|style="text-align:center;width:44px;background-color:#ffff99;color:blue;border:1px transparent black;"|35<br />[[Brasil|'''Br''']]
+|style="text-align:center;width:44px;background-color:#a0ddff;color:red;border:1px transparent black;"|36<br />[[Criptonita|'''Kr''']]
+|-
+|'''5'''
+|style="text-align:center;width:44px;background-color:#dd8888;color:black;border:1px transparent black;"|37<br />[[Doutor Roberto|'''Rb''']]
+|style="text-align:center;width:44px;background-color:#ffdead;color:black;border:1px transparent black;"|38<br />[[Suruba|'''Sr''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|39<br />[[Mestre Yoda|'''Y''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|40<br />[[Zorra Total|'''Zr''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|41<br />[[N00b|'''Nb''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|42<br />[[Monica Lewinsky|'''Mo''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px dashed black;"|43<br />[[Teclado|'''Tc'''*]]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|44<br />[[Rússia|'''Ru''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|45<br />[[Rubinho Barrichello|'''Rh''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|46<br />[[Peido|'''Pd''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|47<br />[[Argentino|'''Ag''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|48<br />[[CD|'''Cd''']]
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px transparent black;"|49<br />[[Incesto|'''In''']]
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px transparent black;"|50<br />[[São Nunca|'''Sn''']]
+|style="text-align:center;width:44px;background-color:#bfef80;color:black;border:1px transparent black;"|51<br />[[Seu Barriga|'''Sb''']]
+|style="text-align:center;width:44px;background-color:#bfef80;color:black;border:1px transparent black;"|52<br />[[Testosterona|'''Te''']]
+|style="text-align:center;width:44px;background-color:#ffff99;color:black;border:1px transparent black;"|53<br />[[Idiota|'''I''']]
+|style="text-align:center;width:44px;background-color:#a0ddff;color:red;border:1px transparent black;"|54<br />[[Vagina|'''Xe''']]
+|-
+|'''6'''
+|style="text-align:center;width:44px;background-color:#dd8888;color:black;border:1px transparent black;"|55<br />[[Counter Strike|'''Cs''']]
+|style="text-align:center;width:44px;background-color:#ffdead;color:black;border:1px transparent black;"|56<br />[[Banana|'''Ba''']]
+|style="vertical-align: top; text-align:center;width:44px;background-color:#ffbfff;"|*<br />
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|72<br />[[Hermafrodita|'''Hf''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|73<br />[[Tangamandápio|'''Ta''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|74<br />[[Windows|'''W''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|75<br />[[Ronald Reagan|'''Re''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|76<br />[[Octopus|'''Os''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|77<br />[[Irlanda|'''Ir''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|78<br />[[Puta|'''Pt''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px transparent black;"|79<br />[[Cachorro|'''Au''']]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:blue;border:1px transparent black;"|80<br />[[Homem de Gelo|'''Hg''']]
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px transparent black;"|81<br />[[Telefone|'''Tl''']]
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px transparent black;"|82<br />[[Pobre|'''Pb''']]
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px transparent black;"|83<br />[[Bissexual|'''Bi'''*]]
+|style="text-align:center;width:44px;background-color:#bfef80;color:black;border:1px dashed black;"|84<br />[[Cocaína|'''Po'''*]]
+|style="text-align:center;width:44px;background-color:#ffff99;color:black;border:1px dashed black;"|85<br />[[Ateu|'''At'''*]]
+|style="text-align:center;width:44px;background-color:#a0ddff;color:red;border:1px dashed black;"|86<br />[[Rondônia|'''Rn'''*]]
+|-
+|'''7'''
+|style="text-align:center;width:44px;background-color:#dd8888;color:black;border:1px dashed black;"|87<br />[[Frei Galvão|'''Fr'''*]]
+|style="text-align:center;width:44px;background-color:#ffdead;color:black;border:1px dashed black;"|88<br />[[Internet a rádio|'''Ra'''*]]
+|style="vertical-align: top; text-align:center;width:44px;background-color:#ff99cc;"|**<br />
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px solid black;"|104<br />[[Ronaldo Fofômeno|'''Rf'''*]]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px solid black;"|105<br />[[Dragon Ball|'''Db'''*]]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px solid black;"|106<br />[[Sogra|'''Sg'''*]]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px solid black;"|107<br />[[Belo Horizonte|'''Bh'''*]]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px solid black;"|108<br />[[Heterossexual|'''Hs'''*]]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px solid black;"|109<br />[[Morte|'''Mt'''*]]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px solid black;"|110<br />[[Desciclopédia|'''Ds'''*]]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:black;border:1px solid black;"|111<br />[[Documentos pessoais#Carteira_de_Identidade|'''Rg'''*]]
+|style="text-align:center;width:44px;background-color:#ffc0c0;color:blue;border:1px solid black;"|112<br />[[Chucknórrio|'''Cn'''*]]
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px solid black;"|113<br />[[Nhonho|'''Nh'''*]]
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px solid black;"|114<br />[[AAAAA|'''Fl'''*]]
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px solid black;"|115<br />[[Funk carioca|'''Mc'''*]]
+|style="text-align:center;width:44px;background-color:#ddc0d0;color:black;border:1px solid black;"|116<br />[[Dividir por zero|'''Lv'''*]]
+|style="text-align:center;width:44px;background-color:#fcfecc;color:#ddc0d0;border:1px solid black;"|117<br />[[Tsar Bomba|'''Ts'''*]]
+|style="text-align:center;width:44px;background-color:#dceefc;color:#ddc0d0;border:1px solid black;"|118<br />[[Ogro|'''Og'''*]]
+|-
+|colspan="21"|<br />
+|-
+|colspan="4" style="text-align:right"|* '''[[Lantanídeo]]s'''
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|57<br />[[Lagoa Azul|'''La''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|58<br />[[Cérebro|'''Ce''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|59<br />[[Próton|'''Pr''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|60<br />[[Nádega|'''Nd''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px dashed black;"|61<br />[[Polícia Militar|'''Pm'''*]]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|62<br />[[Seu Madruga|'''Sm''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|63<br />[[Eu|'''Eu''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|64<br />[[Gordo|'''Gd''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|65<br />[[Tíbia|'''Tb''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|[[666|66]]<br />[[Dercy Gonçalves|'''Dy''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|67<br />[[Homer Simpson|'''Ho''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|68<br />[[Elke Maravilha|'''Er''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|[[69]]<br />[[Túlio Maravilha|'''Tm''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|70<br />[[Yabadabadoo|'''Yb''']]
+|style="text-align:center;width:44px;background-color:#ffbfff;color:black;border:1px transparent black;"|71<br />[[Lula|'''Lu''']]
+|-
+|colspan="4" style="text-align:right"|** '''[[Actinídeo]]s'''
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px dashed black;"|89<br />[[Acre|'''Ac'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px transparent black;"|90<br />[[Thor|'''Th'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px dashed black;"|91<br />[[Pá|'''Pa'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px transparent black;"|92<br />[[Uzumaki Naruto|'''U'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px dashed black;"|93<br />[[Napolitano|'''Np'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px transparent black;"|94<br />[[Pudim|'''Pu'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px solid black;"|95<br />[[Adamantium|'''Am'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px solid black;"|96<br />[[Casamento|'''Cm'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px solid black;"|97<br />[[Barack Obama|'''Bk'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px solid black;"|98<br />[[Café|'''Cf'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px solid black;"|99<br />[[Einstein|'''Es'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px solid black;"|100<br />[[Mulher|'''Fm'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px solid black;"|101<br />[[Merda|'''Md'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px solid black;"|102<br />[[Nabo|'''No'''*]]
+|style="text-align:center;width:44px;background-color:#ff99cc;color:black;border:1px solid black;"|103<br />[[Lindomar|'''Lr'''*]]
+|}
+<br>
+{|align="center"
+|+'''''(As não tão grandes)'' Séries químicas da tabela periódica:'''
+|-----
+|bgcolor="#dd8888"|Metais alcalinos<sup>2</sup>
+|bgcolor="#ffdead"|Metais alcalino-terrosos<sup>2</sup>
+|bgcolor="#ffbfff"|[[Lantanídeo]]s<sup>1,</sup> <sup>2</sup>
+|bgcolor="#ff99cc"|[[Actinídeo]]s<sup>1,</sup> <sup>2</sup>
+|bgcolor="#ffc0c0"|Metais de transição externa<sup>2</sup>
+|-----
+|bgcolor="#ddc0d0"|Metais do bloco ''p''
+|bgcolor="#bfef80"|Metais vira-casaca ''(semimetais)''
+|bgcolor="#afffa0"| <s>não</s> ametais
+|bgcolor="#ffff99"|[[gênio|Halogênio]]s<sup>3</sup>
+|bgcolor="#a0ddff"|[[Gases nobres|<s>Peidos</s> Gases Nobres]]<sup>3</sup>
+|}
+
+{{c|Ei, aquela tabela periódica acima é totalmente falsa!|Nerd chato|comparar as tabelas periódicas}}
+
+Bom, para ver a verdadeira tabela periódica, [[predefinição:Tabela periódica|clique por aqui]], ou vai até a parte final deste artigo para ver a tabela seu [[noob]].
+
+==Ver também==
+*[[IUPAC]]
+*[[Tabela periódica estendida]] - versão feita sob encomenda pelo [[Yoda]] para os elementos futurísticos.
+*[[Tabela periódica dos bons-elementos]]
+*[[Tabela Periódica do Campeonato Brasileiro]]
+*[[Tabela periódica dos super-heróis]]
+*[[Tabela Periódica do Dragon Ball]]
+*[[Tabela Madrugótica dos Elementos Madrugueiros]]
+*[[Tabela Idiótica dos Elementos]] - ''alternativa à tabela oficial''
+*[[Engenheiro Químico]]
+
+{{tabela periódica}}
+
+[[Categoria:Alquimia]]
+[[Categoria:Invenções da Rússia]]
+[[Categoria:Química]]
+[[Categoria:Tabela periódica|*]]
+
+[[el:Χημικά στοιχεία]]
+[[en:Periodic table]]
+[[eo:Perioda tabelo]]
+[[es:Tabla periódica]]
+[[fr:Éléments]]
+[[it:Tavola periodica]]
+[[ja:ネオ元素周期表]]
+[[ko:주기율표]]
+[[nl:Periodiek systeem]]
+[[zh:元素周期表]]
+[[zh-tw:週期表]]

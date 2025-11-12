@@ -1,0 +1,323 @@
+&nbsp;
+[[Arquivo:Hacker mao.jpg|thumb|Se enquanto ler este artigo uma mão surgir do seu computador, não se preocupe, é apenas eu te hackeando.]]
+[[Arquivo:Google rack.jpg|thumb|Já não se fazem hackers como antigamente...]] [[Arquivo: Raker.jpg|thumb|right|É, com certeza,não se fazem mesmo hackers como antes...]]
+
+{{cgoogle|Computeiros do Mal?}}
+{{cgoogle|Virgem?}}
+{{c|Virgem? Que nada, sou foda em teste de penetração|Hacker sobre a frase acima}}
+{{Experimente também|[[Nerd]]}}
+{{c|Malditos hacker's! Levaram todos meus equipamentos!!|[[Você]]|após usar algo da [[Webcheats]]}}
+{{c|Puts, me roubaram de novo!|Você|os Hackeres que te passaram a perna de novo}}
+{{c|Isso é tudo mentira, hackers são bonzinhos! Não confuda com [[cracker]]s|<s>Nerd</s> criador do [[Linux]]|{{PAGENAME}}}}
+{{c|Pago US$5 centavos para quem descobrir que foi o viado que hackeou o site da Microsoft|Bill Gates|'''Cracker''' que hackeou o site da Microsoft}}
+
+{{c|Já disse que quem faz isso é cracker seu burro|Criador do Linux|[[frase acima]] mostrando o quanto o criador do [[Linux]] é mais inteligente ([[ou não]])}}
+
+{{c|O certo é hackeres, e não hackers!|[[Professor Pasquale]]}}
+
+{{c|Na verdade eu acho que essa questão de hackers e cracker é...|Criador do [[Mac]] tentando opinar}}
+
+{{c|Cala boca seu otário, eu comprei suas ações, agora a sua [[ditadura|opinião é a mesma que a minha]]|Bill Gates|[[frase acima]]}}
+
+{{c|Calem a boca fracassados! Vocês são um bando de nerds!|Criador do laptop da [[Xuxa]]|frase acima}}
+
+Hackers são [[pessoa]]s <s>[[nerd]]</s> poderosas que costumam usar seu poder em 4 casos:
+* Se defender caso alguém o bata (mais comum, já que são fracos e [[não]] conseguem se defender);
+* passar o tempo;
+* se mostrar para alguma mulher (o que normalmente falha);
+* conseguir equipamentos hackeando de pessoas de fóruns como a [[Webcheats]] e então se vingar de todos que os oprimiram.
+
+== Ética Hacker ==
+[[Arquivo:Etica Hackers.jpg|thumb|[[Ética]] hacker: o manual explicativo de como parecer ético para aplicar a engenharia social.]]
+=== Sempre compartilhar tudo ===
+<s>Computeiros do mal</s> hackers compartilham tudo que aprendem para aprender com outro. Normalmente isto [[não]] funciona, já que a maioria das pessoas são "inteligentes" e fazem o mesmo que os políticos do [[Brasil]]: sangue suga, e ficando tudo pra sí mesmo.E depois quando são apanhados choram que nem uns bebézinhos.
+
+== Níveis Hackers ==
+*'''Nível Black Hat''':
+:São os mais malvado entre todos os malvados, eles usam seu poder para o mal, normalmente para se defender de alguém que o bateu ou do [[óculos]] estar caro de mais (afinal, é de um fundo de garrafa!). Eles se divertem muito e fazem a imprensa de anti-vírus lucragem pra caralho, ou, normalmente, as empresas de anti-vírus contraram os malvados para fazerem vírus.
+
+*'''Nível Gray Hat''':
+:Está entre o mais bonzinho e o mais malvado. Normalmente eles fazem coisas mais ou menos e sempre que fazem algo errado fica com peso na consciência e chorando; [[não]] passam de um [[emo]] os Gray Hat.
+[[Arquivo:Hacker inside.jpg|thumb|Embora o número de hackers seja pequeno, o número daqueles que se acham hackers não para de aumentar. Pensando nisso, desenvolveram um [[Pentium]] para ganhar esse mercado.]]
+*'''Nível White hat''':
+:Os mais bonzinhos do mais bonzinho. São dóceis e usam seu conhecimento para o bem (bom pra [[Desciclopédia]] que não tem nenhuma segurança). Eles normalmente trabalham numa empresa de anti-vírus e lucram pra caralho com os Black Hat.
+
+*'''Nível Pink hat''':
+:São web designers que se acham hackers.
+
+*'''Nível hat Multicolorido da Psicodelia Transcedental''':
+:Estão muito ocupados se defendendo dos insetos gigantes para poderem hackear qualquer coisa.
+
+*'''Nível Newbie''':
+:É um [[noob]] que só fazem perguntas estúpidas para algum mestre. Normalmente a cada 10 newbie -2 conseguem virar um mestre e o resto é resto. Se acham fodas quando usam trapaças em jogos como [[Counter Strike]].
+
+*'''Nível Phreaker''':
+:São malucos que ficam passando sua maluquice para o seu [[telefone]], normalmente os telefones malucos são dados para os bandidão da [[prisão]] ficarem fofocando com a amante.
+
+*'''Nível Cracker''':
+:São normalmente hacker [[pobre]] que fica crackeando o seus joguinhos [[nerd]] para [[não]] ter que pagar 100,00 R$ no original.
+
+*'''Nível Lammer''':
+:Normalmente é algum idiota descíclope como [[você]] que acha que tem a força mas tem nada e fica se achando só por que sabe como desligar um computador pelo [[MSN]].
+
+*'''nível cheater''':
+:são pessoas que normalmente...   NÃO CONSEGUEM JOGAR SEM TRAPAÇAS!!! eles usam muitas cheats, em muitos jogos, e tem o mesmo fim em MMO, banimento snif...snif...
+Normalmente se reúnem em [[Webcheats|fóruns de cheats]], mas a maioria é [[sangue-suga]].
+
+== Áreas Hacker ==
+
+[[Arquivo:Livro Hacke.jpg|250px|thumb|left|Grande clássico da literatura computeira: Confissões de hackers [[adolescente]]s]]
+
+Existe várias, dentre elas, aqui está algumas com explicações detalhadas:
+
+=== Exploitation ===
+Normalmente os caras que tem muita preguiça para ir no menu e abrir a calculadora, para isso, normalmente usam os softwares da Adobe e browsers como IE.
+
+
+=== Engenharia Social... ===
+Normalmente são aqueles vendedores que dão vontade de dar um soco que fica perturbando para você comprar alguma [[Polishop|porcaria]].
+
+=== Deface ===
+São pessoas inúteis que ficam invadindo sites inúteis <s>como esse</s>. Às vezes, tentam justificar seus atos xingando os políticos em sites que ninguém entra, como o do Senado ou do [[Acre]].
+
+=== Programador ===
+Talvez a área mais nerd de todas, que fica programando programas como "Baixar pornografia 8x mais rápido" ([[nerd]]s amam pornografia, pois acham que vendo vão aprender como se faz e vai comer todas). Também são os que mais lucram, mas gastam tudo em putas. Ou caso sejam nerds de verdade, em cash para joguinhos como [[Tibia]].
+
+== FAIL e OWNED ==
+Expressões muitos usadas quando alguém ou [[site]] se [[fode]], por exemplo, a [[Desciclopédia]] ficar fora do ar ou algum [[punheteiro]] pegar vírus em um site pornô. Em alguns casos, os lammer usam as expressões quando desligam o PC de alguém pelo [[MSN]] ou baixou algum programa com 1000 funções (sendo que não sabe nem uma).Normalmente frases como YOU FAIL ou YOU GET OWNED,MOTHA FUCKA NOOB é utilizado.
+
+== Como identificar um hacker e o que fazer ==
+*'''Identificar:'''
+:Mais fácil do que comer uma [[puta]]: basta [[você]] ver alguém cheio de espinhas no rosto, [[óculos]] de fundo de garrafa e o mais importante: ter uma [[bunda]] quadrada!
+
+*'''O que fazer:'''
+:Além de chamar de [[nerd]] e, se estiver com vontade, bater pra caralho, e, quando chegar em casa, lacre seu computador! Lacre com tudo! Fita adesiva, Super Bonder, depois enterre no chão e espere 2 anos para pegar de volta e torça para não estar quebrado!
+
+== Como se tornar um hacker ==
+Você acha que já está pronto para se tornar um hacker? Se sim, então leia isso:
+<pre>
+
+Binary arithmatic
+
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+#include<math.h>
+
+void b_to_d(char result[]); //binary to decimal
+void d_to_b(int dec,char binary[]); // decimal to binary
+
+main()
+{
+	int ch,n1,n2,i=0,j,k,l,carry,r,x1,x2,x;
+	char bn1[30],bn2[30],result[30],binary[30];
+	char multi[30][30];
+	clrscr();
+	inc code \n" direc //dieload
+        do
+	{
+		printf("<1> input first operand \n");
+		printf("<2> input second operand \n2");
+		printf("<3> binary addition \n");
+		printf("<4> binary subtraction \n");
+		printf("<5> binary multiplation \n");
+		printf("<6> result to decimal \n");
+		printf("<7> Exit \n\n");
+                C:\>RUN
+		print("program in fucking python");
+                printf("leave that computer");
+                do
+		{
+			printf("enter your choice ");
+			scanf("%d",&ch);
+		}while(ch>7 || ch<1);
+		switch (ch)
+		{
+			case 1:
+				printf("\n input first operand ");
+				scanf("%d",&n1);
+				x1=n1;
+				d_to_b(n1,binary);
+				for(i=0;binary[i]!='\0';++i)
+					bn1[i]=binary[i];
+				bn1[i]='\0';
+				break;
+			case 2:
+				printf("\n input second operand ");
+				scanf("%d",&n2);
+				x2=n2;
+				d_to_b(n2,binary);
+				for(i=0;binary[i]!='\0';++i)
+					bn2[i]=binary[i];
+				bn2[i]='\0';
+				break;
+			case 3:		//addition
+				for(i=0;i<30;++i)      //reset result
+					result[i]='\0';
+				carry=0;
+				if(strlen(bn1)<strlen(bn2))
+					r=strlen(bn2);
+				else
+					r=strlen(bn1);
+				for(i=0;i<r;++i)
+				{
+					result[i+1]='\0';
+					if(carry==0)
+					{
+						if(bn1[i]-48+bn2[i]-48+carry==1)
+							result[i]=bn1[i]-48+bn2[i]-48+48;
+						else
+							result[i]=0+48;
+					}
+					else
+					{
+						if(bn1[i]-48+bn2[i]-48+carry==2)
+							result[i]=0+48;
+						else
+							result[i]=1+48;
+					}
+					if(bn1[i]-48+bn2[i]-48+carry>1)
+						carry=1;
+					else
+						carry=0;
+					if(carry==1)
+						result[i+1]=carry+48;
+				}
+				printf("\n%s\n",strrev(result));
+				break;
+			case 4:		//subtraction
+				for(i=0;i<30;++i)      //reset result
+					result[i]='\0';
+				carry=0;
+				if(strlen(bn1)<strlen(bn2))
+					r=strlen(bn2);
+				else
+					r=strlen(bn1);
+				for(i=0;i<r;++i)
+				{
+					result[i+1]='\0';
+					if(bn1[i]<bn2[i])
+						carry=2,--bn1[i+1];
+					else
+						carry=0;
+					if(carry+bn1[i]-48-bn2[i]+48==1)
+						result[i]=1+48;
+					else
+						if(carry+bn1[i]-48-bn2[i]+48==0)
+							result[i]=0+48;
+				}
+				printf("\n%s\n",strrev(result));
+				break;
+			case 5:		//binary multiplication complited on 27-03-2004
+				for(i=0;i<30;++i)      //reset result
+					result[i]='\0';
+				strrev(bn2); // reversing second binary operand
+				k=0,x=0;
+				for(i=0;i<strlen(bn2);++i)  //creating array for addition
+					if(bn2[i]=='1')
+					{
+						for(j=i+1;bn2[j]!='\0';++j)
+							multi[k][x++]='0';
+						for(l=0;bn1[l]!='\0';++j,++l)
+							multi[k][x++]=bn1[l];
+						for(;x<30;++j)
+							multi[k][x++]='0';
+					++k,x=0;
+					}
+				l=0;
+				for(j=0;j<30;++j)  //addition of all columns without carry
+				{
+					x=0;
+					for(i=0;i<k;++i)
+						x+=(multi[i][j]-48);
+					multi[0][l++]=x;
+				}
+				for(i=0;i<30;++i)   //loop for including carry.
+					if(multi[0][i]>1)
+						multi[0][i+1]+=((multi[0][i]-(multi[0][i]%2))/2);
+				printf("\n");
+				for(i=29;i>=0;--i)  // excluding first zero's (0's) of array
+					if(multi[0][i]!=0)
+						break;
+				j=0;
+				for(;i>=0;--i)   // final calculations and print
+					if(multi[0][i]<48)
+					{
+						multi[0][i]%=2;
+						result[j++]=multi[0][i]+48;
+					       //	printf("%d",multi[0][i]);
+					}
+				printf("\n");
+				printf("%s\n",result);
+				break;
+			case 6:		//result in decimal
+				b_to_d(result);
+				printf("\n");
+				break;
+		}
+		n1=x1;
+		d_to_b(n1,binary);
+		for(i=0;binary[i]!='\0';++i)
+			bn1[i]=binary[i];
+		bn1[i]='\0';
+
+		n2=x2;
+		d_to_b(n2,binary);
+		for(i=0;binary[i]!='\0';++i)
+			bn2[i]=binary[i];
+		bn2[i]='\0';
+
+	}while(ch!=7);
+	printf("\n\n i will wait for your mails");
+	getch();
+	return 0;
+}
+
+void b_to_d(char result[]) //binary to decimal
+{
+	short int i;
+	long int dec=0;
+	strrev(result);
+	for(i=0;i<strlen(result);++i)
+		dec+=(result[i]-48)*pow(2,i);
+	printf("result in decimal is %ld\n",dec);
+	strrev(result);
+}
+
+void d_to_b(int dec,char binary[]) // decimal to binary
+{
+	int i=0;
+	while(dec>0)
+	{
+		binary[i++]=dec%2+48;
+		binary[i]='\0';
+		dec-=(dec%2);
+		dec/=2;
+	}
+}
+
+</pre>
+Se você não entendeu nada disso, você não está pronto ainda, sinto muito e boa sorte.
+
+==Ver também==
+*[[LulzSec]]
+*[[Anonymous]]
+*[[Lizard Squad]]
+*[[Teste de intrusão|Pen test]]
+
+
+[[Categoria:Informática]]
+[[Categoria:Segurança da informação]]
+[[Categoria:Hacker]]
+[[ar:هاكر]]
+[[de:Hacker]]
+[[en:Hacker]]
+[[fi:Hakkeri]]
+[[fr:Hacker]]
+[[he:איןמינים:האקר]]
+[[it:Hacker]]
+[[lt:Hakeris]]
+[[pl:Hacker]]
+[[ro:Hacker]]
+[[ru:Хакер]]
+[[th:แฮ็กเกอร์]]

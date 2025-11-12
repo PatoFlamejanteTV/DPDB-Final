@@ -1,0 +1,164 @@
+{{#logotipo:http://images.uncyc.org/pt/b/b7/Capcompédia.png}}
+{{Game}}
+
+{{Infobox Game
+|title     = POCKET FIGHTERS
+|image     = Pocket_F.jpg
+|caption   = Caixa da <s>única</s> versão para PS1
+|developer = [[Capcom]]
+|publisher = [[Capcom]]
+|released  = [[1900 e guaraná com rolha]]
+|genre     = Pancadaria bidimensional e bonitinha
+|rating    = 90% como personagens anões
+|platform  = [[Playstation|Pleistaition]] e [[Fliperama]]
+|ages      = acima de 1 anos
+}}
+
+{{Você quis dizer|Capcom Chibis}}
+
+{{Você quis dizer|[[Street Fighter|SF]] para novatos}}
+
+{{c|Ai, u Ryu fico taum fofu XD!|[[Sakura Kasugano|Sakura]]|{{PAGENAME}}}}
+
+{{c|Hmm, Shoush!|[[Akuma]]|sua participação meia boca no game e que merecia mais...}}
+
+{{c|Aah, então é assim que se faz roriugui...|[[Noob]] depois de ver o esquema na tela}}
+
+{{c|NO MERCY!|Narrador fófis do game}}
+
+{{c|<insira texto em francês aqui>|Alguém que achou que era francês}}
+
+[[Arquivo:Dan_Akuma.gif|left]]
+'''Super Gem Fighter Mini Mix''', ou '''Pocket Fighter''', é mais um game da Capcom onde se reúnem o pessoal do [[Street Fighter]] com mais alguns do [[Darkstalkers]]. Esse é o jogo perfeito para os no0bs que nem sabem o que é um [[Hadouken|A NUUVEM!]] já que aparece o esquema na tela para qualquer um ver. E também é um dos poucos jogos em que deve-se usar um pouco de estratégia, além dos altos elementos de comédia como personagens caracterizando outros.
+
+
+== História ==
+
+Bom para cada personagem tem uma história diferente. Mas no fim das contas o início e o meio são os mesmos: cair na porrada, enfrentar o chefão (que é um dos personagens do jogo) e ver o final. Simples, né? Mas antes vamos ao...
+
+== Esquema de jogo ==
+[[Arquivo:Ds14.png|300px|thumb|Felicia X Morrigan. Uma batalha <s>de furries</s> num bairro chinês.]]
+Seu personagem tem três (5) ataques. Vamos pegar o Ryu como exemplo. Ele tem o RÓRIUGUEM!, o A NUUVEM! e o TSA TSA TSUUUGUEM! Porém tem níveis e pra aumentar você tem que pegar [[Metanfetamina|cristalzinho]] que o seu adversário ou algum bichinho voador deixa cair. E ainda tem o Super Especial que pode ser um [[Especial de Porrada]] ou algum poder cabuloso, apertando o círculo (ou [[Crack|bolinha]] pros drogados) e com esse botão pode fazer um Charge Attack, que serve pra roubar os cristais dos otários.
+
+
+
+Tem bombinhas que os bichos voadores deixam cair, mas quem disse que é fácil? Bom de duas uma: ou você dá um Róriugui no bicho e ele deixa cair, ou dá um [[Mortal Kombat|gancho no adversário]] e faz ele quicar nas paredes até acertar (sim isso é possível). As bombinhas são temáticas como Bomba Venenosa (que não tira [[HP]] gradualmente, só deixa doidão), [[Pikachu|Bomba Elétrica]], [[Nomberman|Bomba Bomba]] (isso mesmo, são bombas comuns que explodem de forma comum), [[Metal Slug|Bomba Incendiária]] (no final é a mesma coisa da Bomba Bomba), Bomba de Gelo (exatamente você não leu errado!) a [[Worms|Bomba Banana]] pros otários escorregarem e Bomba Pedra ([[Mukai|te tranforma em pedregulho]]).
+
+== Personagens e seus finais ==
+===[[Street Fighter]]===
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Ryu]]</big>'''
+| width=88% | '''Descrição:''' O andarilho típico de game da Capcom decide andar por aí à procura... De alguma coisa, no final enfrenta Tessa e acaba sendo atacado por um monstro sinistro, dando a ideia de ''Continua no Próximo Episódio'' mas todos sabem que o Ryu termina bem, afinal Capcom sem o Ryu não é Capcom!
+|-
+| [[Arquivo:Pocket_Ryu.gif|left]]
+| '''Técnicas:''' ''[[Avaiana de Pau]]'' - Auto Explicativo. ''Clava Medieval'' - Puxa uma clava, carrega e explode os dentes do inimigo. ''Super Punch'' - Dá uma bela bifa na cara do infeliz.
+
+|}
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Ken Masters]]</big>'''
+| width=88% | '''Descrição:''' No final o Ken enfrenta Morrigan e ganha a aposta de <s>transar com ela</s> <s>[[Tiozinho do Truco|pegar o toba dela]]</s> passar a tarde inteira num Shopping, mas acaba se dando mal quando sua namorada atual descobre que ele é um galinha e apanha que nem burro na horta.
+|-
+| [[Arquivo:Ken Puzzle.gif|left]]
+| '''Técnicas:''' ''Clava Medieval'' - Igual à do Ryu. ''Marretada'' - Simples e efetiva.
+
+|}
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Chun-Li]]</big>'''
+| width=88% | '''Descrição:''' Não ela não enfrnta o M. Bison, mas rende um final maneiro...
+|-
+| [[Arquivo:Chun-Li Pocket Fighters.gif|left]]
+| '''Técnicas:''' ''Cosplay da [[Jill Valentine]]'' - Metendo bala ou usando o rocket launcher, ela arrebenta... ''Passagem da Corrida'' - Chun-Li se faz de guarda de trânsito e uma penca de bicicletas esmaga o inimigo!
+
+|}
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Ibuki]]</big>'''
+| width=88% | '''Descrição:''' Um ninja qualquer que faz tudo que os ninjas fazem.
+|-
+| [[Arquivo:Ibuki-pocket-stance1.gif|left]]
+| '''Técnicas:''' ''Super Juicer Wallita'' - Dá uma corrida e dá vários cortes no inimigo transformando-o em cubinhos. ''Sushi Master'' - Te dá uma bandejada, sim isso tira life pra caramba...
+|}
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Akuma (Street Fighter)|Akuma]]</big>'''
+| width=88% | '''Descrição:''' Final contado por ele mesmo:
+{{c|Hum, hum, shoooooushhh! Shoush Hum HUMMMMMMM!!!|Akuma|Final maneiríssimo dele}}
+|-
+| [[Arquivo:Mini-akuma.gif|left]]
+| '''Técnicas:''' ''Mestre de Obras'' - Ele gira uma madeira pra fazer paredes acertando bem no rosto do nojento.
+|}
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Dan Hibiki]]</big>'''
+| width=88% | '''Descrição:''' Ele enfrenta a Sakura e acaba ensinando o "Hadouken de Uma Mão Só".
+|-
+| [[Arquivo:PocketDan.gif|left]]
+| '''Técnicas:''' ''Spirit Punch'' - Ele invoca seu pai morto por Sagat pra esmagar o inimigo, clara referência ao Karate Man.
+|}
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Sakura Kasugano]]</big>'''
+| width=88% | '''Descrição:''' Enfrenta o Ryu, mas não consegue perder a virgindade com ele...
+|-
+| [[Arquivo:PocketSakura.gif|left]]
+| '''Técnicas:''' ''Guarda Sol'' - Um róriugui mas com um guarda-sol. ''Quebra Côco'' - Ela usa um bastão de Baseball pra quebrar uma melancia mas acaba acertando no "côco" do adversário. ''Ricardão'' - Se veste de coelinha da Playboy e chama dois ricardões pra surrar o oponente.
+|}
+
+
+===[[Darkstalkers]]===
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Morrigan Aensland]]</big>'''
+| width=88% | '''Descrição:''' Encara a Chun-li no final e mostra que é a mais bonita da Capcom.
+|-
+| [[Arquivo:PocketMorrigan.gif|left]]
+| '''Técnicas:''' ''Injeção'' - Vira enfermeira sadomasoquista e dá uma injeção dolorida no otário. ''Garçonete Desastre'' - Cai e deixa café quente cair na cara do imbecil.
+|}
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Hsien-Ko]]</big>'''
+| width=88% | '''Descrição:''' Ninguém sabe o final porque ela é chata de jogar até em versão Chibi.
+|-
+| [[Arquivo:PocketLeiLei.gif|left]]
+| '''Técnicas:''' Como que eu vou saber os especiais?
+|}
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Felicia]]</big>'''
+| width=88% | '''Descrição:''' A Furry termina dando um show de calouros pra detonar a concorrência.
+|-
+| [[Arquivo:PocketFelicia.gif|left]]
+| '''Técnicas:''' ''Megaman Efect'' - Vira Megaman e dá um Blast bem dado. ''Rollout'' - Imita o [[Sonic]] na cara de pau dando aquela rolada giratória.
+|}
+
+===[[Warzard]]===
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''<big>[[Tessa]]</big>'''
+| width=88% | '''Descrição:''' Outra que é um saco pra jogar, tenha paciência e cuidado com Hadouken falso dela!
+|-
+| [[Arquivo:PocketTessa.gif|left]]
+| '''Técnicas:''' ''Gênio da Lâmpada'' - Já percebeu... ''Hadouken Falso'' - Na verdade parece um Hadouken por isso tenha cuidado! Ela vai apelar!
+|}
+
+{{c|Peralá, ainda falta o Zangief!|Alguém}}
+
+Sim mas ninguém é burro de tentar zerar com ele...
+
+== Galeria == 
+<gallery>
+imagem:PF_Ryu.jpg|Ryu e um gato... Sem graça mesmo!
+imagem:PF_Ken.jpg|Ken no Shopping... Com a Morrigan??
+</gallery>
+[[Arquivo:Mini_Zangief.gif|300px|thumb|center|{{C|Esse jogo é muito SHOW!|Zangief|Pocket Fighter}}]]
+
+{{Game Fight}}
+
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para PlayStation]]
+[[categoria:jogos para CPS-2]]
+[[Categoria:Jogos lançados em 1997]]

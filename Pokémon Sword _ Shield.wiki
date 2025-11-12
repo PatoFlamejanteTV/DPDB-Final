@@ -1,0 +1,103 @@
+{{game}}
+
+{{Infobox Game
+|title     = Pokémon Sword/Shield
+|image     = Pokémon {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Sword|1=Shield}}.png
+|caption   = Foto da capa do jogo
+|developer = [[Game Freak|Game Fresco]]
+|publisher = [[The Pokémon Company|Pokémon CoCo]]
+|released  = [[2019]]
+|genre     = RPG/Furry
+|platform  = [[Nintendo Switch]]
+|rating    = 9,3 (a [[IGN]] trocou os dois números)
+|ages      = 5-10 anos (isto não se aplica aos [[Nerd]]s)
+}}
+'''Pokémon Sword / Shield''', ou também chamado de ''Pokémon SWSH <s>SWSH, [[Katy Perry|another one in the basket]]</s>'' é mais um dos inúmeros jogos da série [[Pokémon]], lançado para o final de 2019 <s>e talvez 2020 para o Brasil</s>, como uma tentativa de superar a angústia dos fãs após ter testemunhado a caganeira que foi o último jogo para o [[Nintendo Switch]].
+
+==Surgimento e principais pokémons==
+O jogo surgiu em meados de 2019, com uma possível leak dizendo que a região seria na [[Inglaterra]], apesar de ser o chute mais fácil pelo fato da [[Game Freak]] apenas gostar de países desenvolvidos, além do nome do jogo. O jogo acabou sendo mostrado em fevereiro do ano de 2019, mostrando o mapa <s>linear</s> da região de [[Galar]] junto com os três iniciais do jogo, [[Grookey]], o [[Louro José]] versão [[Sopa de Macaco]], [[Scorbunny]] o coelho de fogo feito para agradar os [[furries]] e [[Sobble]], o [[Mudkip]] chorão feito para [[autista]]s.
+
+Além dos iniciais, em três meses depois foram mostrados os lendários dos jogos, [[Zacian]], o [[Dark Souls|Sif]] do [[Dark Souls]] mais [[gay|colorido]] e [[Zamazenta]], um lobo com um pão na sua cabeça em forma de escudo, além de outros pokémons comuns que sempre mostram nas primeiras amostras do jogo. Depois de vários meses e poucos dias faltando, foram revelados o resto por via de hackers, já que a própria Game Freak estava querendo evitar mais uma catástrofe do que a retirada da National Dex, revelando um [[Thwackey|macaco sem graça]], [[Rillaboom|o primo do Donkey Kong]], [[Drizzile|um lagarto literalmente emo]], [[Inteleon|um lagarto espião para putaria]], [[Raboot|um coelho querendo fazer cospobre de Greninja]] e [[Cinderace|um coelho feito para putaria]], já que retiraram [[Lopunny|a outra]].
+
+==Retirada de pokémon==
+[[Arquivo:Protagonista sobre a água.png|200px|thumb|left|Protagonista do jogo achando que é o [[Jesus Cristo]].]]
+{{Principal|[[Dexit]]}}
+
+Depois do povo se encantar (ou não) com os novos pokémon da oitava geração e enfim esperar algo da [[Game Freak]] que o tornassem o "Odyssey/Ultimate/Breath of the Wild do Pokémon", em pequenas palavras ditas durante a Treehouse da [[Nintendo]] na [[E3]], conseguiram estragar toda a reputação deste jogo pelo fato da desculpa do jogo ser "pesado demais" <s>e acabar tendo o mesmo tamanho de Smash Ultimate e/ou Breath of the Wild, o Switch não suporta ainda 64GB</s>, além disso a própria [[Game Freak]] decidiu limitar para que apenas metade (ou mais) pokémon apareçam no jogo e dessa forma talvez trazer os faltantes em um possível terceiro ou quarto jogo.
+
+[[Arquivo:Big Smoke no Pokémon SWSH.png|230px|thumb|{{C|[[Big Smoke|I’ll have two number 9s, a number 9 large, a number 6 with extra dip, a number 7, two number 45s, one with cheese, and a large soda]].}}]]
+A retirada de pokémon, incluindo alguns da região de [[Kanto]] <s>embora devem voltar por causa da compatibilidade de Let's Go</s> acabou reunindo as três principais facções de "fãs" de Pokémon a prestarem suas opiniões sobre o jogo, os [[Pokémaníaco]]s, os [[Newgenner]]s e os [[Genwunner]]s, que pela primeira vez se juntaram pela mesma causa, já que essa "falha" da [[Game Freak]], os fãs pararam de estarem [[cagando e andando]] para as "burradas" da mesma empresa em gerações anteriores dos jogos e se reuniram em vários movimentos em redes sociais, falando para as paredes, já que a Game Freak atualmente liga para o dinheiro dos jogos e pelo fato de que ninguém teria saco de capturar 900 monstros nos dias de hoje.
+
+O movimento "Bring Back the National Dex" <s>o movimento mais sem nexo do ano</s> possui como maiores inimigos os youtubers relacionados a pokémon e suas fanbases irritantes, que são meros puxa-sacos da [[Nintendo]]/[[Game Freak]] que querem um jogo melhor, jogadores de [[Pokémon GO]] que não estão nem aí para os problemas de jogadores de gerações anteriores ou os leigos que irão comprar justamente por terem [[Pokémon]] no nome. Fora também que a maior parte das pessoas que aderiu esse movimento, nem sabe que foi Sun e Moon que removeu a National Dex pra princípio de conversa e mesmo que trouxessem todos os pokémon de volta, a maioria iria capturar todos pra nunca usar, já que os dos donos do Switch não se importam pra pagar o péssimo Online, não dando pra jogar competitivamente.
+
+Acabou-se descobrindo que o jogo terá uma pokédex regional de "apenas" 400 pokémons, exatamente menos que os jogos da quarta geração.
+
+==Galar Forms==
+Copiando os jogos da [[Pokémon: Geração 7|Gen7]] (Sun/Moon, e Ultra Sun/Ultra Moon), esses games também possuem as [[Regional Forms|formas regionais]] de alguns Pokémons. Em algumas, temos alguns Pokémons que tem uma evolução com um novo Pokémon na sua linha evolutiva, e outra diferença, que faltou muito na região anterior, é o fato delas não serem apenas pokémons da região de Kanto. Algumas Galar Forms conhecidas são [[Linoone]], que evolui para [[Obstagoon]], o [[fursona]] do [[Gene Simmons]], [[Meowth]] que evolui para [[Perrserker]], onde dessa vez não é um gato anoréxico e sim com uma cara esquisita, e [[Farfetch'd]], que evolui para [[Sirfetch'd]], que resolve usar seu alho-poró de espada e escudo, referenciando o próprio jogo.
+
+==Regiões==
+[[Arquivo:Sword e Shield segundo shills.png|thumb|right|Os protestantes do jogo, segundo a [[Game Freak]].]]
+A região da oitava geração é a região de [[Galar]], que foi baseada na [[Grã-Bretanha]], com um mapa linear ao estilo de [[Unova]] <s>e olha que dizer isso é até generosidade demais</s>. A região sul do mapa conta com a parte inicial e possivelmente a cidade/vilarejo inicial do/a protagonista do jogo, com várias regiões ao norte acessadas por trem e algumas cidades feitas no estilo [[Revolução Industrial]] e várias cidades com alguns estádios/ginásios baseados em tipos, servidas para os líderes de ginásio no meio do mapa, além da Wild Area, para se juntar com os amiguinhos em batalhas Raid do Pokémon GO. Ao norte do mapa, possui uma região mais gelada que o normal, representando a [[Escócia]] e uma cidade mais populosa, onde poderá ser feito o último ginásio ou enfim, a Liga de Galar.
+
+==Inovações==
+[[Arquivo:Masudacomasjoiasdoinfinito.png|210px|thumb|left|O estalar de dedos do jogo Let's Go também afetou este jogo e metade das espécies foram eliminadas do jogo.]]
+
+A região de Galar mostra a mais nova tecnologia e função idiota que fará o trabalho de substituir as dancinhas toscas a ponto de competir com as de [[Fortnite]], os [[Z-Moves]], a qual se revelou o Dynamax, que é nada mais que uma função que deixa o seu pokémon gigante por apenas três turnos, simulando uma batalha de kaijus do filme [[Godzilla]] e o Gigantamax, que é a mesma porcaria, porém mudando um pouco o design do pokémon, como uma Mega Evolução, só que servindo para quase nada.
+
+Além do Dynamax, também possuem as raids de pokémons gigantes, que são mero plágio das raids do [[Pokémon GO]] e que funcionam quase da mesma maneira, você e mais três [[guris retardados]] mandam quatro pokémons aleatórios contra um pokémon gigante qualquer que ficará roubando durante toda a batalha, ou seja, atacando duas vezes, ou até se aproveitando de escudos no meio da batalha para mandar um golpe foderoso. No meio da batalha, somente um dos pokémons do quarteto poderá se tornar gigante, porém por três turnos.
+
+[[Arquivo:Os verdadeiros três iniciais de Kanto.jpg|210px|thumb|Assim como em [[Pokémon X / Y|Pokémon X e Y]], os três iniciais de Kanto também são dados para o protagonista.]]
+As batalhas de líder de ginásio também terão os mesmos objetivos secundários do jogo Let's go Pikachu e Eevee, porém tirando as restrições retardadas do jogo e serão feitas em um estádio de "futebol" cheio com vários torcedores observando a batalha entre o [[líder de ginásio]] e o desafiante. Entre os líderes de ginásio, se destacam a [[Nessa (Pokémon)|Nessa]], que por ser a gostosa e ser afrodescendente, agradou todo mundo e promete ser uma das mais [[punheta|homenageadas]] da geração, competindo com a Sonia.
+
+Mostrando que [[mentira|o jogo foi feito para os adultos barbudos]] que (ainda) jogam pokémon, o rival, assim como XY e jogos posteriores, ainda faz a proeza de escolher o inicial mais fraco que o seu. O campeão da região é representado pelo treinador [[Leon (Pokémon)|Leon]], que é uma versão masculina e inglesa da [[Iris (Pokémon)|Iris]] e que possui um Charizard como seu mascote, mostrando que Leon nos jogos terá um [[Charizard]] tão hackeado quanto o de [[Alan (Pokémon)|Alan]], assim como anime. Como se isso já não fosse <s>comum</s> bizarro, por [[dinheiro|algum motivo desconhecido]], [[Charizard]] é o único inicial que é possível capturar na região principal de Galar.
+
+O jogo será o primeiro da franquia a retirar a [[Elite 4]] dos jogos, já que atualmente apenas serviam para ser treinadores mais competentes com quatro pokémons que são derrotados fácil se alguma pessoa spamar qualquer golpe superefetivo nos quatro pokémons e será substituído por uma versão da Liga para imitar ainda mais o anime. O jogo também disse na primeira vez que teria 18 ginásios, podendo até ter o primeiro ginásio do tipo Dark do jogo, porém a alegria de pobre dos fãs acabou rapidamente quando os 18 ginásios eram na verdade na '''história de Galar''' e não 18 ginásios de verdade.
+[[Arquivo:Toxtricity e Obstagoon.png|260px|thumb|left|O modo Pokémon Camp também pode estar cheio de [[sexo|safadezas]] entre pokémons.]]
+
+Além dos 18 ginásios falsos e a falta de todos pokémons, o jogo também possui centenas de problemas, como o/a protagonista fazer um [[ZA WARUDO!]] no mapa quando sobe ou desce uma escada, vários golpes de pokémons cortados, [[sarcasmo|coerência de lugar onde um pokémon é desafiado]] e até mesmo as restrições ao caçar um certo pokémon que é muito "mais forte" que seu time, não importando se você derrote-o ou não e para suprimir o problema do treinador caçar um pokémon muito forte e ele virar um pokémon forte, porém desobediente que irá recusar seus comandos, simplesmente em certas áreas, existem pokémons tão fortes que são impossíveis de se capturar, como lendários nos animes antigos de Pokémon.
+
+Para substituir o [[Pokémon Amie|Pokémon Amie ou Refresh]], o Pokémon Sword e Shield conta com um novo modo de fazer "carinho" no seus pokémons já que tiveram que tirar pelo fato de muita gente só querer pegar no [[pênis|saco]] do [[Machoke]] e do [[Machamp]] naquilo ou querer engordar o pokémon igual àquela cena do [[WiFi Ralph: Quebrando a Internet|Detona Ralph 2]] e inventou o Pokémon Camp, que ao em vez do pokémon te louvar, alguns vão querer te [[morte|matar]] naquilo e outros fazer apenas um ataque qualquer, além do modo de ficar pegando bolas ([[ui|ui!]]) que são jogadas em qualquer lugar do camping feito pelo/pela protagonista. (mais pela, por que 5% das pessoas jogam com o [[Victor (Pokémon)|protagonista masculino]])
+
+O Pokémon Camp conta com uma inúmera série de bugs, como os pokémons quadrúpedes correndo atrás das bolas que jogam para eles, que em vez deles ir em linha reta para pegar a esfera, eles irão correr feito [[retardado]]s, principalmente quando algum pokémon obstrui o caminho deles, o que tem a chance de algum deles ficarem totalmente [[bug]]ados sem saber o que fazer, ou que estão fazendo de suas vidas.
+
+==Líderes de Ginásio==
+[[Arquivo:Poke Balls are just full of surprises.png|265px|thumb|{{C|[[Pênis|Pokébolas]] são cheias de surpresas, você não acha?|The Ball Guy pronto para [[pedofilia|fazer mais uma vítima]]}}]]
+* '''Milo:''' Pastor (de ovelhas, não de igreja, seu [[Quico|burro]]) que come frango com batata doce, além de assistir os vídeos do [[Leo Stronda]] todos os dias. Usa pokemons do tipo planta e o desafio do ginásio é fazer um bando de <s>Mareeps</s> Wooloos comerem alfafa. Por causa disso, esse é o ginásio favorito do [[Racha Cuca]].
+
+* '''Nessa:''' Cópia da Olívia de Alola: [[Negra gostosa]] que anda com roupas curtas e atrai toda a atenção dos tarados, além de ser a "mulher" no narrador do [[Heitorgames]]. As únicas diferenças são que ela usa pokemons do tipo água e o desafio de ginásio é bem mais difícil: controlar correntes de água.
+
+* '''Kabu:''' [[Maito Gai|Velho que se paga de jovem]] e anda de maneira engraçada. Seu desafio de ginásio é capturar ou derrotar pokemons com outros treinadores. Entretanto, você pode derrotar os pokemons dos outros [[Risada Diabólica|(MWAHAHAHAHAHA!)]].
+
+* '''Bea''' e '''Allister:''' Líderes exclusivos de versão (Sword, no caso de Bea, e Shield, no cado de Allister), Bea é uma cópia da Maylene de Sinnoh que também usa pokemons lutadores; e Allister e um cosplay de [[Jason Voorhees]] que usa pokemons do tipo fantasma. E o desafio de ginásio é o mais ridículo da historia: simplesmente entrar numa xícara e brincar de pinball.
+[[Arquivo:Five Machokes One Girl.png|250px|thumb|[[Piper Perri]] jogando [[Pokémon]] Sword e Shield.]]
+* '''Opal:''' Velha que tem o nariz mais grande do que o [[Luciano Huck]] e é mais feia do que a [[Bruxa do 71]]. Usa pokemons do tipo fada e o desafio de ginásio é uma audição para escolha de elenco para algum filme pornô.
+
+* '''Gordie''' e '''Melony:''' Novamente líderes exclusivos de versões (Gordie no Sword e Melony no Shield). Gordie, como o nome já diz, é um gordo que provavelmente dever passar o dia todo comendo. Apesar disso, não usa [[Snorlax]], já que usa pokemons do tipo pedra. Já Melony é uma patricinha estilosa que vive com frio. Por causa disso, usa pokemons do tipo gelo. Para ambos, o desafio é passar pelas arenas sem imitar o [[Fluminense]] (ou seja, cair). E ambos são Mãe e Filho.
+
+* '''Piers:''' ALELUIA IRMÃO. Depois de tanto tempo, finalmente apareceu um ginásio do tipo noturno. Entretanto, a GameFreak parece detestar esse tipo, pois o desafio do ginásio são batalhas contra um bando de emos que se dizem punks. E o líder é um cover do [[Michael Jackson]] depressivo que quer passar o ginásio para sua irmã o tempo todo. E além disso, em vez de um ginásio bonito, este fica numa garagem velha e decadente.
+
+* '''Raihan:''' Negro ruivo (pode isso [[Armaldo]]?) que treina pokemons do tipo dragão. Seu ginásio é um grande castelo e seu desafio são batalhas em dupla. Ele é bem forte, então, leve pokemons do tipo gelo ou fada, [[morte|senão]]...
+
+==DL...digo, Conteúdo de Expansão==
+[[Arquivo:Kubfu mensagem.png|200px|thumb|left|E [[Urshifu|mais um]] se junta a trupe dos pokémons furries.]]
+{{principal|[[Pokémon Sword / Shield: The Isle of Armor]]}}
+{{principal|[[Pokémon Sword / Shield: The Crown Tundra]]}}
+
+Já que o protesto do [[Dexit]] causou várias dores de cabeça nos empregados da [[Game Freak]], embora o jogo ainda esteja vendendo bem...afinal estamos falando de Pokémon, a Game Freak novamente cagou e andou para o que tinha dito antes e a empresa de jogos japonesa fez o que prometeu, de não fazer [[DLC]]s abusivas para o consumidor, e em vez disso acabou fazendo um conteúdo adicional para ter (um terço) dos pokémons que faltam no jogo, afinal não se tratam de [[EA|loot boxes, e sim conteúdo surpresa]].
+
+Os novos <s>DLCs</s> Conteúdos de Expansão adicionam alguns lendários para cagar o meta inteiro de "balanceamento" do jogo, com mais de 100 reais para adicionar alguns pokémons e algumas áreas e uma minihistória de cerca de uma a três horas de conteúdo, mas como fã de [[Pokémon]] consume tudo o que vê, também irá vender como [[água]], o real motivo de sucesso desta franquia. O primeiro é a Isle of Armor, onde é uma área de [[Galar]] que se baseia na região de [[Sealand]], enquanto o segundo é a The Crown Tundra, que algum idiota se baseou no mapa do [[Reino Unido]] de cabeça para baixo, onde é uma terra muito gelada, e que fica no sul do mapa. Os pokémons novos são [[Kubfu]], um urso inútil que apenas serve para [[encher linguiça]], [[Urshifu]], a evolução do anterior, um urso muito [[furry]] que copiou tanto [[Kung Fu Panda]] que colocaram o nome [[Mestre Shifu|de um dos personagens do filme]] e [[Calyrex]], um bicho esquisito que voa e que possui as [[Triforce]]s do [[Legend of Zelda]].
+
+Mal uma semana antes de lançar a primeira das duas DLCs, a [[Game Freak]] conseguiu outro jeito de enganar os otários, como se dois jogos iguais por geração não fossem o bastantes, também contendo duas DLCs pagas para cada DLC, ou seja quatro DLCs para quem possui os dois jogos e como fã de Pokémon não lê as letras miúdas do contrato e já sai comprando na hora qualquer coisa com o nome [[Pokémon]] estampado, logo alguns trouxas compraram a DLC do jogo para o jogo errado, ou seja comprou a primeira DLC do Pokémon Shield, sendo que a pessoa possui um Sword, e para ganhar mais dinheiro, a própria Game Freak disse que está [[cagando e andando]] para o reembolso, ou seja, gastar dinheiro de graça <s>como se o jogo normal já não fosse isso</s>.
+
+==Ver também==
+*[[Espada]]
+*[[Escudo]]
+
+{{Pokémon games}}
+
+[[Categoria:Jogos da Game Freak]]
+[[Categoria:Jogos da The Pokémon Company]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos de RPG]]
+[[Categoria:Jogos lançados em 2019]]

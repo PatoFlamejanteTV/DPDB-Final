@@ -1,0 +1,85 @@
+<center>
+{| cellpadding="5"
+|-
+| [[Arquivo:Disambug.png|30px|left]]
+| ''' Putz, que desconfusão...'''<br/><small>Será que você não estava procurando pelo [[Etanol|álcool etílico]]?</small>
+|}
+</center>
+{{nota:|este artigo fala sobre a '''[[função orgânica]] álcool'''. Se procura por outro tipo de álcool, olhe '''[[álcool (desambiguação)]]'''.}}
+{{Quimica}}<br>
+{{Verbete}}
+{{c|A causa e a solução de todos os nossos problemas|Homer Simpson|Álcool}}
+{{c|Classe muito importante de compostos orgânicos.|[[Capitão Óbvio]]|Álcool}}
+{{c|U CÃO FOI QUE BUTÔ PÁ NÓIS BEBÊ!!|[[Jeremias]]|Álcool}}
+{{c|Esses compostos possuem uma [[hidroxila]] ligada a um carbono com hibridização sp3...|[[Engenheiro Químico]]|Álcool}}
+{{c|Tu és para mim o que sou para ti, tu vais me matar mas eu vou te engolir.|[[Julio cocielo]]|Álcool}}
+
+'''Álcool''' é uma importante ([[ou não]]) [[Funções Orgânicas|função orgânica]] descoberta por [[Jeremias]] nos idos da juventude de [[Dercy Gonçalves]].
+
+== [[Química]] ==
+[[Arquivo:Etanol1.jpg|thumb|180px|right|Molécula de [[etanol]], álcool muito conhecido (e apreciado).]]
+Os álcoois são compostos orgânicos que possuem uma [[hidroxila]] (OH<sup>-</sup>) ligada a um carbono que esteja tomando de quatro átomos diferentes, ou seja, nenhum átomo esteja colocando duas (ligação dupla) ou três (ligação tripla) vezes no carbono mencionado. Na [[Química]], diz-se que esses carbonos estão <s>chapados</s> saturados.
+
+Embora existem álcoois que possuam [[cu|anéis aromáticos]], o importante é o carbono que tem a hidroxila: se ele estiver fazendo quatro ligações simples (tomando de [[4]] diferentes),  é um álcool, se não é um enol (composto tão instável quanto o humor da tua [[esposa]] nos dias de [[TPM]]).
+
+== Nomenclatura ==
+
+O nome ''álcool'' deriva do termo árabe '''''ó o khu''''', frase falada por esse povo ao ver um [[bêbado]] andando pela rua. Foi assim que surgiu a expressão "'''Cu de bêbado não tem dono'''".
+
+A [[IUPAC]], organização que organiza a [[química]] a nível mundial (e que nunca teve muito sucesso nessa organização), deciciu que todos os álcoois terminariam em 'OL'. Assim, o [[etanol]], o [[metanol]], o <s>[[formol]]</s> e o bucetol são álcoois com, respectivamente, dois, um e cuatro átomos de carbono na sua estrutura.
+
+== Clasificação dos álcoois ==
+{{fato|os [[carbono]]s adoram [[suruba|meter uns nos outros]]?}}
+A clássificação de um álcool está íntimamente relacionada ao [[carbono]] que está levando da [[hidroxila]],  e dependerá de quantos outros [[carbono]]s estarão metidos nele. A classificação é:
+
+*'''Álcool primário''': a [[hidroxila]] está ligada a um carbono que está tomando apenas de um outro carbono. Ex: [[Etanol]];
+*'''Álcool secundário''': a [[hidroxila]] está ligada a um carbono que está tomando de outros dois átomos de carbono. Ex: 6,9-Bucetol;
+*'''Álcool terciário''': a [[hidroxila]] está ligada a um carbono que está tomando de outros três carbonos. Ex: Surubol;
+
+== Obtenção ==
+[[Arquivo:Testosterona.png|thumb|200px|A [[Testosterona]] é um álcool, o que prova a importância dos álcoois para os [[homem|homens]].]]
+Os álcoois são obtidos por meio de inúmeros processos, desde a fermentação usando o caldo de cana (mais comum no [[Brasil]], onde a tecnologia é limitada), até o uso dos reatores de fusão sogral (ver [[Seiva de Sogra]]), no qual as reações átomo-moleculares internas produzem grandes quantidades de álcoois, como o [[etanol]], o metanol, o pintenol e o bucetol.
+
+== Usos ==
+
+O maior uso dessa substância é na forma de uma [[cerveja|bebida refrescante]], substituta dos refrigerantes. Porém, também possui utilidades secundários em farmacologia e na indústria de combustíveis. A mistura de 60% de álcool ''(geralmente [[etanol]] ou metanol)'', 20% de água, 15% de solvente e 5% de gasolina (só para dar um cheirinho à mistura) consiste na famosa gasolina batizada vendida em muitos postos do país. 
+
+Além de analgésico anal, o álcool ''(em gel)'' também é bastante utilizado, por uma questão de prevenção, para higienizar-se depois de um passeio em algum local público [[Gripe Suína|contagioso]]. Segundo as recomendações oficialmente promulgadas pelo posto de saúde, deve-se aplicar, esfregar e apalpar o álcool em gel sobre as regiões mais vuneráveis: olhos, nariz e boca. Essa tática de prevenção não funciona no Brasil, pois muitas pessoas brincam com o gel por confundirem-o com a [[Amoeba]] ou deixam de aplicar o produto sobre o delicado nariz devido ao péssimo odor que ele exala.
+Agora fique quieto, beba seu vidro de Bourbon e lembre-se: se álcool fosse ruim, não terminaria em ''cool''!
+
+==Ver também==
+*[[Funções orgânicas]]
+*[[Etanol]]
+*[[Bêbado]]
+
+{{drogas}}
+{{química orgânica}}
+
+[[Categoria:Governo do Brasil]]
+[[Categoria:Álcool]]
+[[Categoria:Funções orgânicas]]
+
+[[ar:المشروبات الكحولية]]
+[[bg:Алкохол]]
+[[cs:Alkohol]]
+[[de:Alkohol]]
+[[en:Alcohol]]
+[[eo:Alkoholo]]
+[[es:Alcohol]]
+[[et:Alkohol]]
+[[fi:Alkoholi]]
+[[fr:Alcool]]
+[[he:אלכוהול]]
+[[it:Alcol etilico]]
+[[ja:酒]]
+[[ko:술]]
+[[nl:Alcohol]]
+[[nn:Alkohol]]
+[[no:Alkohol]]
+[[pl:Alkohol]]
+[[ru:C2H5OH]]
+[[sr:Алкохол]]
+[[sv:Alkohol]]
+[[th:สุรา]]
+[[zh:酒]]
+[[zh-tw:酒精]]

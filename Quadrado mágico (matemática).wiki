@@ -1,0 +1,100 @@
+{{Matemática}}
+[[Arquivo:Quadrado magico 01.jpg|thumb|200px|Quadrado Mágico, torturando [[nerds]] desde o Egito antigo]]
+[[Arquivo:Quadrado 48.jpg|thumb|300px|[[nerds]] Quadrado Mágico na Sagrada Família em Barcelona]]
+{{Você quis dizer|Sudoku}}
+{{c|Na União Soviética, o Quadrado Mágico faz '''VOCÊ'''!!|Reversal Russa|Quadrado Mágico}}
+{{C|É originaru nosso!|[[camelô]] japonês|<s>sudoku</s>Quadrado Mágico}}
+{{c|U cão foi quem buto pra nois fazê!|Jeremias|Quadrado Mágico}}
+{{c|Eu conheço o quadrado mágico pra seleção na copa do mundo,ele tem 5 lados: Ronaldinho, Ronaldo, Kaká, Robinho e Adriano|Parreira com sua "super-inteligência" sobre quadrado mágico}}
+
+
+'''Quadrado Mágico''' é um artefato de tortura psicológica inventado no egito antigo e utilizado até hoje por matemáticos para torturar os seus discípulos/alunos.
+
+==Como Reconhecer um Quadrado Mágico==
+Um quadrado mágico é uma tabela que tem as seguintes propriedades:
+* É quadrada
+* A soma dos elementos de cada linha é sempre o mesmo
+* A multiplicação dos elementos de cada linha é sempre o mesmo
+* A soma dos elementos de cada coluna é sempre o mesmo
+* A multiplicação dos elementos de cada coluna é sempre o mesmo
+* A soma dos elementos de cada diagonal é sempre o mesmo
+* A multiplicação dos elementos de cada diagonal é sempre o mesmo
+* Todos os números da tabela são Primos entre si
+* Provoca intensa dor de cabeça após dez segundos tentando resolvê-lo.
+
+==Quadrado Super Mágico==
+Um quadrado é super mágico quando:
+* Trocando quaisquer linhas de posição, ele continua mágico
+* Trocando quaisquer colunas de posição, ele continua mágico
+* Trocando quaisquer diagonais de posição, ele continua mágico
+* Trocando quaisquer linhas por uma combinação linear de outras linhas, ele continua mágico
+* Trocando quaisquer colunas por uma combinação linear de outras colunas, ele continua mágico
+* Trocando quaisquer diagonais por uma combinação linear de outras diagonais, ele continua mágico
+*é so bagulha o bagulho
+
+==Quadrado Diabólico==
+Um quadrado super mágico é diabolico quando:
+* Reorganizando aleatoriamente quaisquer quantidades de números, ele continua Super Mágico
+* Adicionando o fatorial a quaisquer quantidades de números, ele continua Super Mágico
+* Tirando o logaritmo neperiano de quaisquer quantidades de números, ele continua Super Mágico
+* Tirando o logaritmo de base quaisquer (desde que a base seja um número adjacente na tabela), quaisquer quantidades de números, ele continua Super Mágico
+* Multiplicando pela unidade imaginária quaisquer quantidades de números, ele continua Super Mágico
+
+==Exemplos de Quadrados Mágicos==
+<table>
+ <tr valign="bottom">
+ <td style="padding: 0 1em">
+{| class="wikitable" style="margin-left:auto;margin-right:auto;text-align:center;width:14em;height:14em;table-layout:fixed;"
+! colspan="7" | [[Venus (astrology)|Venus]]=175
+|-
+| 22 || 47 || 16 || 41 || 10 || 35 || 4
+|-
+| 5 || 23 || 48 || 17 || 42 || 11 || 29
+|-
+| 30 || 6 || 24 || 49 || 18 || 36 || 12
+|-
+| 13 || 31 || 7 || 25 || 43 || 19 || 37
+|-
+| 38 || 14 || 32 || 1 || 26 || 44 || 20
+|-
+| 21 || 39 || 8 || 33 || 2 || 27 || 45
+|-
+| 46 || 15 || 40 || 9 || 34 || 3 || 28
+|}
+</td>
+ <td style="padding: 0 1em">
+{| class="wikitable" style="margin-left:auto;margin-right:auto;text-align:center;width:16em;height:16em;table-layout:fixed;"
+123
+456.
+789
+</td>
+ <td style="padding: 0 1em">
+{| class="wikitable" style="margin-left:auto;margin-right:auto;text-align:center;width:18em;height:18em;table-layout:fixed;"
+! colspan="9" | [[Moon (astrology)|Luna]]=369
+|-
+| 37 || 78 || 29 || 70 || 21 || 62 || 13 || 54 || 5
+|-
+| 6 || 38 || 79 || 30 || 71 || 22 || 63 || 14 || 46
+|-
+| 47 || 7 || 39 || 80 || 31 || 72 || 23 || 55 || 15
+|-
+| 16 || 48 || 8 || 40 || 81 || 32 || 64 || 24 || 56
+|-
+| 57 || 17 || 49 || 9 || 41 || 73 || 33 || 65 || 25
+|-
+| 26 || 58 || 18 || 50 || 1 || 42 || 74 || 34 || 66
+|-
+| 67 || 27 || 59 || 10 || 51 || 2 || 43 || 75 || 35
+|-
+| 36 || 68 || 19 || 60 || 11 || 52 || 3 || 44 || 76
+|-
+| 77 || 28 || 69 || 20 || 61 || 12 || 53 || 4 || 45
+|}
+</td>
+ </tr>
+</table>
+
+
+[[Categoria:Matemática]]
+[[Categoria:Números]]
+[[Categoria:WTF??]]

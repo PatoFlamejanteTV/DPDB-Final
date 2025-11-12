@@ -1,0 +1,43 @@
+{{Box ClubeFutebol
+|cor_clara         = red
+|cor_escura        = black
+|brasao            = Escudo do Vera Cruz PE.png
+|hino              = Uma cópia do hino do Santa Cruz
+|nome_oficial      = Santa Cruz Cover
+|origem            = {{PE}}''' - [[Vitória de Santo Antão|Derrota de Santo Antão]]'''
+|apelidos          = Tricolor Fake, Galinha das Tabocas
+|torcedores        = 
+|torcidas          = 
+|mascote           = [[Galinha d'Angola]] (por isso sempre tá fraco)
+|ilustre           = 
+|estadio           = Carneirinho (desativado desde 2017 por falta de verba)
+|capacidade        = 10.911 espremidos no estádio
+|sede              = 
+|presidente        = Fernando Nogueira
+|treinador         = Edson <s>Sem</s> Miolo
+|pior              = 
+|melhor            = 
+|patrocinador      = Haras [[Pitu]] (cada cavalgada um gole!)
+|material          = Pratic Sport
+|liga              = Campeonato Pernambucano
+|divisao           = Série A1 do Pernambucano
+|títulos           = [[Campeonato Pernambucano - Série A2]] ([[2006]], [[2009]], [[2014]] e [[2020]])
+[[Copa do Interior das Ligas Municipais|Copa Intermunicipal de Clubes Campeões]] ([[2002]]
+Um monte de campeonato municipal
+|ranking           = 335.º lugar, 1 ponto
+}}
+
+'''<s>[[Santa Cruz Futebol Clube|Santa]]</s> Vera Cruz Futebol Clube''' é o time de juniores não-oficial do Santinha, colocado em Vitória de Santo Antão pra despistar os rivais da capital que nunca que iriam imaginar que iriam fazer um time de base assim. Ok, só sendo muito otário, já que as cores do time tricolor (vermelha, preta e branca) e mais o nome praticamente idêntico ao do timinho da Minhoca Coral já deveriam ter denunciado o óbvio né.
+
+== História ==
+
+A Galinha das Tabocas nasceu em [[3 de fevereiro]] de [[1960]], fundando junto com seu eterno rival [[Associação Acadêmica e Desportiva Vitória das Tabocas|Vitória das Tapiocas]] a <s>feirinha do troca de Vitória</s> Liga Vitoriense de Desportos. Curiosamente, apesar da participação ativa em alguns campeonatos da Liga, ele só participou ativamente de verdade de um campeonato feito por eles após a própria extinção dessa liga, em 1983, onde já venceu a competição, repetindo o feito em 2001.
+
+Já em 2002 o time participou de uma tal Copa do Interior das Ligas Municipais (ainda chamada naquele tempo de Copa Intermunicipal de Clubes Campeões, e depois chegou a ser chamada de Campeonato Pernambucano da 3ª Divisão - Série A3?). Com essa vitória, o timinho acabou sendo enfim considerado um time profissional invés de só um timeco amador como tantos outros - mesmo ainda parecendo amador pacas.
+
+Em 2003 estreou no Campeonato da Série A2 de Pernambuco, competição que parece a cara do Vera Cruz, haja vista ser o único time que conseguiu vencer ela por QUATRO vezes: 2006, 2009, 2014 e 2020 (isso já mostra como essa competição é uma piada!). Bem, se venceu tantas vezes, significa, obviamente, que o time chegou a efetivamente participar do [[Campeonato Pernambucano]] principal e escorregou pra Série A2 algumas vezes, quase sempre com campanhas bem horrendas. Só a campanha de 2021 que o time finalmente fez alguma graça e sobreviveu ao ponto de chegar às quartas de final, quando foi despachado pelo [[Salgueiro AC|Salgueiro]].
+
+Desde 2017 o time entretanto passa por umas crises políticas brabas com a prefeitura da cidade, que causaram a desaprovação do Estádio Municipal Severino Cândido Carneiro pela [[Federação Pernambucana de Futebol]]. Assim, tanto a Verinha quanto a Vitorinha tiveram de fazer feira em [[Feira Nova (Pernambuco)|Feira Nova]], um cadinho mais longe. Desde 2019 entretanto eles passaram a mandar seus jogos para a [[Arena Pernambuco]], aproveitando o fato de o [[Clube Náutico Capibaribe|Náufrago]] ter voltado pra seu belo cenário do [[Estádio dos Aflitos|Ovinho dos Aflitos]], mesmo sendo mais longe ainda de Vitória de Santo Antão, em [[São Lourenço da Mata]], mas ao menos o lugar consegue mais público, ainda que a torcida do Verinha seja de umas 15 pessoas no total.
+
+{{Campeonato Pernambucano}}
+[[Categoria:Times de futebol de Pernambuco]]

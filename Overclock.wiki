@@ -1,0 +1,50 @@
+
+'''Overclock''' é uma coisa que nerds utilizam porque <s>acham que</s> melhora o desempendo do seu [[computador|com-puta-dor]], mas na verdade é só uma maneira de contribuir para o aqueciento global, o overclock funciona fazendo o seu processa-a-dor trabalhar como [[Escrava Isaura]].
+[[Arquivo:Overclock.jpg|thumb|200px|Overclock de pobre]]
+
+== Como fazer ==
+# Você precisa de um computador. Aliás, pode ser um videogame, celular, micro-ondas, geladeira, lâmpada, ou qualquer besteira eletrônica.
+# Você tem que entrar na Bios, geralmente apertando F10, Delete, ou qualquer tecla quando o PC inicia.
+# Você verá uma tela azul (calma, <s>não</s> é do Windows!). Nela, procure por processador, processamento, CPU, velocidade, ou qualquer merd* que vier na sua mente.
+# Depois procure um um valor que deve estar entre 100 e 200. Nele, altere para 5000, 154012, 4081215162342, ou qualquer valor extremo que vier na sua mente.
+# Salve as suas configurações e reinicie seu PC.
+# Vá ao Meu computador (até a versão [[Windows XP|XP]]) ou Computador (a partir do [[Windows Vista]]), Propriedades. Note que seu Windows acha que seu PC tem 3625 GHz. Bom, né?
+# Jogue bastantes jogos pesados!
+
+== <s>In</s>Utilidades ==
+
+*Erros ocorrem mais rapidamente.
+
+*Você entra na tela azul em velocidade instantânea.
+
+*Você não precisa comprar aquecedor pro inverno, apenas coloque a CPU a 5 cm do seu corpo.
+
+*Você contribui para o aquecimento global do planeta.
+
+== FAC ==
+
+O ambiente está quente?
+Jogue Age of Empires III, Counter Srike Source, Crysis, Far Cry 2, Winnig Eleven, 12 Resident Evil 5 e o beta de NFS Hot Pursuit, todos com o gráfico no máximo. E com o iTunes tocando Through The Fire and Flames.
+
+O gabinete está derretendo?
+Rode o emulador de [[PS3]] nele e o do [[Xbox 360]].
+
+O gabinete atingiu massa crítica?
+Rode todos os jogos e programas citados acima ao mesmo tempo junto com um simulador de explosões nucleares Super realistas e/ou de cálculos para fazer a maquina do tempo.
+
+Seu gabinete atingiu 900000º e queimou tudo em sua volta?
+Chame os bombeiros se estiver vivo. Não esqueça de salvar o jogo.
+
+Use memórias com dissipador
+
+Você morreu?
+Se fodeu, te vejo na próxima. [[Ou não]]
+
+== Ver também ==
+* [[Computador gamer]]
+* [[Computeiro]]
+* [[Processador]]
+
+[[en:Overclocking]]
+
+[[Categoria:Engenharia da computação]]

@@ -1,0 +1,67 @@
+{{game}}
+{{freeware}}
+{{Infobox Game
+|title = Sonic Robô Explosão 2
+|image               = SRB2.jpg
+|caption             = Provavelmente, o único fan game do Sonic que presta
+|developer           = <s>[[Sega]]</s> [[Sonic Jr.]]
+|publisher           = Pseudo-[[Sega]]
+|released            = [[1998]]
+|genre               = [[Plataforma]]
+|rating              = varia de 1000 á 9000 km/h
+|platform            = [[PC]]
+|ages                = maiores de 5 anos
+|last version        = 2.1.19
+}}
+{{cyahoo|RBD2}}
+{{c|Até que enfim criaram um fan game 3D do Sonic...|Gamer|{{PAGENAME}}}}
+{{c|Gostei! Tem até o Mário nessa budega!|Nintendista|{{PAGENAME}}}}
+{{c|Como eu faço pra destravar o Sonic Preto?|noob|{{PAGENAME}}}}
+{{c|Ta mal lag mano!|Você|{{PAGENAME}}}}
+{{c|Que pokémons são esses, filho?|Tua Mãe|{{PAGENAME}}}}
+{{c|Melhor que muito jogo original <s>cretino</s> criado pela Sega...|Seguista|{{PAGENAME}}}}
+{{c|Foi feito usando a engine do [[Doom]] modificada para plataforma|Sonic Jr.|{{PAGENAME}}}}
+
+'''Sonic Robo Blast 2''' é a continuação da primeira fangame do Sonic, ''[[Sonic Robo Blast]]'', um antigo jogo muito ruim que foi feito no [[Paint]] e mesmo assim é adorado. Esse jogo é um dos poucos fangames do Sonic que presta, pois conseguiu fazer até hoje o que nenhum outro havia feito: ter uma jogabilidade 3D com gráficos <s>fodidos</s> 2D (o que só se vê completamente o oposto nos consoles de hoje). Alem disso ele também tem jogabilidade online para a alegria do onanista.
+
+== História ==
+
+Depois que [[Eggman]] foi derrotado pela zilhionésima vez, ele decide planejar com muita p-a-c-i-e-n-c-i-a sua diabólica vingança, se escondendo em uma base subterrânea por três <s>meses</s> anos. Da última vez que o Dr. Balofo foi visto ele, como sempre, partiu pra pancadaria com um exército de robôs em mais um daqueles seus estúpidos navios flutuantes aqui chamado de "[[Egg Fleet|Doomship]]', mas como sempre levou um pé na bunda de Sonic e sua gangue. Recentimente para sua alegria, um de seus radares detectou um meteoro <s>da paixão</s> se aproximando do planeta, e de início só pensava em punheta, até que percebeu que essa pedrinha tinha um battlestation novo, ou seja, de lá, ele poderia atacar Móbius e finalmente dominar o mundo, lançando seus exércitos de robôs sem o medo de que ele virassem sucata com um mero Spin Dash do rato de gel. E com as Esmeraldas do Caos, ai era que a coisa iria foder mesmo pra turminha dos furries.<br>
+
+Eggman então começou a perder mais um imprestável pedaço de sua terceira idade (re)recontruindo todos os seus badnik noobs a fim de botar seu plano em ação, e pela zilhionésima vez ele se viu como o rei do mundo, quase que um Hitler II, lançando seu Doomship uma semana depois cheia de máquinas imprestaveis já pra ir adiantando o processo aerosol enquanto ficava terminado a pintura do lado de fora da Black Rock, e foi ai que a coisa começou a foder. Seu primeiro alvo pra essa merda: <s>Mata Atlântica</s> Cidade de Greenflower.<br>
+
+[[Sonic the Hedgehog|Sonic]] estava aproveitando suas férias no [[Rio de Janeiro]], quando [[Tails]] chegou contando os novos babados a respeito do plano diabólico de Eggman para mais uma vez dominar o mundo, bem como já tinham novos robôs [[noob]]s para eles mandarem pro ferro velho. Nesse mesmo momento uma sombra do capeta toma conta do céu: o Doomship mandou uma bomba atômica direto na metrópolis da Zona da Mata. Com isso, e como já é de praxe, Sonic saiu correndo pra caralho pra tentar impedir o bagulho antes que a coisa fudesse, embora não houvesse nada que pudesse realmente fazer pra evitar o bagulho.<br>
+
+Mas já era tarde demais. Depois disso a cidade de Greenflower virou mais um ponto turístico ao estilo grego-romano, completamente fudida. Com isso, Eggamn comessou a dar sua risada diabólica enquanto Sonic lamentava seu momento [[loser]], e apartir dai o Sr. Barriga revelou seu plano para controlar o Black Rock pra foder logo com todo mundo e estabelecer seu Império Ovo. Dai sobra pra Sonic, Tails e ManoKnux (deixando a [[Angel Island|Alameda dos Anjos]] em perigo) ter que impedir quem mais uma desgraça aconteça antes que Eggman termine a sua nova arminha de destruição em massa. 
+
+== Ultimate Mode ==
+[[Arquivo:42875844.png|thumb|[[Capitão Sarcasmo|Contemple os belos gráficos do jogo...]]]]
+É a dificuldade suprema no jogo, só pode ser acessada digitando ''ULTIMATE'' na tela (Cheat Code) ou digitando o comando -ultimatemode ao rodar o jogo (Special Developer Command), aqui você não tem anéis, sem esmeraldas do caos, inicia sem vidas extras, sem continues, os inimigos são mais rápidos, armadilhas mais rápidas, chefão (Dr. Eggman) mais apelão, aqui um erro e é [[Game Over]] instantâneo.
+
+Porém, nas versões antigas no jogo, até na verdade na versão 1.09.4 do jogo, quando ainda poderia jogar com gráficos similares aos do [[Nintendo Wii]] e  havia a escolha de níveis de dificuldade, aos que completassem o jogo na versão "super hard", poderiam abilitar então o modo "ultimate" sem a necessidade de nenhum tipo de cheat no jogo, onde apenas os mais fodões é que poderiam jogar este nível de dificuldade, já que se morria com apenas uma misera batida e seria Game Over sem direito a continues nela.
+
+== OpenGL ==
+
+É um modo que pode ser selecionado pelo SRB2 <s>Lanche</s> Launcher, que deixa os graficos de merda ficarem <s>piores ainda</s> um pouco melhores, principalmente se você usar <s>Marcelo D2</s> MD2, que deixa os graficos 3d. você conseguira jogar assim se seu pc for extremamente bom, caro e com uma placa de video bem <s>fudida</s> boa, se não, mesmo sem melhorar o lixo dos graficos tanto assim, trava seu pc inteiro deixando um lag dos inferno que você vai querer tacar seu pc pela janela, isso porque o opengl do Sonic Robo Blast 2 é 500% mais pesado do que o normal, deixando assim com um lag demoniaco que até o diabo duvida.
+
+== Jogo Online ==
+
+Nesse jogo <s>de merda</s>, você pode jogar online entrando em diversos Servidores (a maioria ingleses). o problema é que ao entrar em um server, a camera do seu jogo vai ficar tremendo que nem louca, com um c-lag incrivelmente <s>ótimo</s> alto, que você pula e somente 10 minutos depois o jogo vai responder. deixando isso de lado, SRB2 conta com alguns modo de jogo, o mais conhecido é Match, onde os jogadores ficam atirando que nem <s>bibas</s> loucos pra todo lado com a intenção de acertar alguém. algumas pessoas parecem ter olhos nas costas, por você atacar elas por trás (ui) e elas desviarem facilmente, esse tipo de pessoas, esses são os jogadores extremamentes bons. 99% desses jogadores são problematicos, tem TPM constantemente, Problemas cerebrais, zomba de todo mundo, não sambem mirar e só sabem irritar. outro tipo de jogador é o conhecido noob, que é acertado por qualquer um, alguns noobs reconhecem suas derrotas, outros já ficam inventando desculpas como "Nossa tava muito lag por isso perdi" ou "não tava com vontade de jogar". já o jogador equilibrado, que não é muito bom nem muito ruim, é o unico decente caso você queira conversar ou jogar pacificamente, pois é o unico que não é tao burro e não é louco.
+
+== <s>Vagabundagem</s> Clã's  ==
+Ainda nessa <s>merda</s> parte explicativa do que é <s>Sonic Robou Bosta 2</s> Sonic Robo Blast 2, existe algo mais satânico no jogo, todo noob sabe o que é um clã, mas no caso do SRB2 clãs não são algo que você clicou, nomeou, criou. ou seja, <s>cerveja</s> players tiraram essa ideia do fundo do <s>cu</s> poço para criarem <s>gangues</s> clãs por conta própria, assim teria bastante <s>suruba</s> desafios para de batalhas entendiantes de Merdas Vs Merdas, o que é mais interessante é como jogadores falsificam sua <s>certidão de nascimento</s> identidade, ou seja, seu nome e assim participa de 99999999 clãs diferentes debaixo do nariz de todo mundo.
+
+== Vídeos ==
+
+<YouTube>
+    title= Exemplo de WAD que causa efeito colateral no Sonic
+    <object width="425" height="344"><param name="movie"
+    movie_url=http://www.youtube.com/watch?v=Gh0dEjmJOGE
+    embed_source_url=//www.youtube.com/v/Gh0dEjmJOGE    
+    wrap=no
+    width=425
+    height=344
+</YouTube>
+
+[[Arquivo:Awesonic.gif|center]]
+{{sonic}}

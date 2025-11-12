@@ -1,0 +1,47 @@
+{{favela}}
+ 
+
+{{c|O Paraíso do Tuiuti usa como barracão, um viaduto. A escola sofre a beça, pois esse viaduto não tem cobertura...|Glória Maria|escolas de samba}}
+
+'''Escola de Samba''', também chamada de "''ópera carioca''" é um tipo de agremiação folclórica brasileira. Nos dias de [[Carnaval]] realizam desfiles inspirados nos dos ranchos, blocos e paradas militares americanas.
+
+A primeira escola de samba surgiu na região central da [[cidade do Rio de Janeiro]], quando malandros cariocas, após juntarem uma graninha tomando conta dos corsos, conseguiram verba para montar seu primeiro carro alegórico. Como não podiam levá-lo para a favela do São Carlos, onde moravam, pois naquela época as favelas não possuíam ruas e os carros não passavam, resolveram guardá-lo la mesmo no bairro do '''Estácio<s>namento</s>'''.
+
+Os sambistas do estácio conquistaram o público e lançaram moda, atraindo o patrocínio do [[Jogo do Bicho|Setor Zoológico]], e espalhando a tradição para todo o Brasil<ref>ver [[Carnaval de São Paulo]]</ref> e até mesmo de volta na Finlândia<ref>http://www.samba.fi</ref>, berço do [[samba]] de raiz.
+
+[[Arquivo:Macys-parade-1979.jpg|left|thumb|A verdadeira inspiração para a Águia da Portela foi na verdade o [[Peru]] da ''United of Macy''<ref>http://en.wikipedia.org/wiki/Macy%27s_Thanksgiving_Day_Parade</ref>]]
+
+Atualmente, as escolas de samba quase todas possuem a denominação ''GRES'', podendo variar para ''GRCES'', ''ARES'' ou ''SRES'', o que dá no mesmo; suas cores quase sempre serão o azul, o vermelho, ou o verde, combinados com branco, pois estas cores são mais simples de se encaixar nas letras dos sambas <ref>imagine: "sou laranja e salmon", "sou amarelo e roxo", "sou fúcsia e dourado", não rima né...</ref>; e não importa o que aconteça, não importa quem vença, o maior lema de todo amante das escolas de samba é ''O jurado nunca está certo!''.
+
+[[Arquivo:Alegoria de Pedra.jpg|right|thumb|Monumental carro alegórico]]
+[[Arquivo:simpsons_xuxa.JPG|right|thumb|Típica dançarina de uma escola de samba!]]
+
+== Escolas de samba famosas ==
+*[[Imperatriz Leopoldinense]]
+*[[GRES Beija-Flor|Beija-Flor]]
+*[[Estação Primeira de Mangueira|Mangueira]]
+*[[Acadêmicos do Salgueiro]]
+*[[Acadêmicos do Grande Rio]]
+*[[GRES Portela|Portela]]
+*[[Unidos de Vila Isabel]]
+*[[Império Serrano]]
+*[[Gaviões da Fiel]]
+*[[Unidos do Caralho a Quatro]]
+*[[Unidos da Branca Pura]]
+*[[Unidos da Vila Xurupita]]
+*[[Unidos do Piraporinha]]
+
+== Escolas de samba prejudicadas ==
+*[[GRES São Clemente|São Clemente]]
+*[[Unidos da Tijuca|aquela em que o Paulo Barros está]]
+*[[GRCES Mancha Verde|Mancha Verde]]
+
+== Ligações externas ==
+<references />
+{{samba}}
+
+
+{{hes|Referências|{{#if:  | {{{2}}} | 2}} }}
+<div class="references-small" style="{{#if: | -moz-column-width:{{{colwidth}}}; -webkit-column-width:{{{colwidth}}}; column-width:{{{colwidth}}}; | {{#if: | -moz-column-count:{{{3}}}; -webkit-column-count:{{{3}}}; column-count:{{{3}}} }} }}"><references /></div>
+
+[[Categoria:Escolas de samba|!]]

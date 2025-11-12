@@ -1,0 +1,50 @@
+{{game}}
+{{Infobox Série Game
+|title         = Perfeito Escuro
+|image_logo    = Perfect dark zero.jpg
+|caption       = A capa de um dos jogos
+|genre         = Tiro
+|developer     = [[Rare]]
+|publisher     = Rare<br>[[Nintendo]]<br>[[Microsoft]]
+|origin        = [[Nintendo 64]]
+|first_release = [[Perfect Dark (Nintendo 64)|Perfect Dark]] ([[2000]])
+|last_release  = [[Perfect Dark (Xbox 360)|Perfect Dark]] ([[2010]])
+}}
+'''Perfect Dark''' é uma série de jogos de tiro em [[primeira]] pessoa criado pela [[Rare]] e distribuído em parceria com a [[Nintendo]] e a [[Microsoft]]. Embora nenhuma das empresas admita, o [[primeiro]] jogo foi criado para ser uma continuação de [[GoldenEye 007 (1997)|GoldenEye 007]], game inspirado em um dos filmes de maior sucesso do [[James Bond]], mas teve que ser levemente modificado e lançado como se fosse algo original, já que o contrato entre a Rare e o estúdio de cinema responsável pelo filme havia expirado e ninguém se prestou a levantar a bunda para tentar uma renovação. Para não enfrentar possíveis problemas posteriores, simplesmente substituíram o famoso agente por uma protagonista inédita chamada [[Joanna Dark]]. Bom, nem tão inédita assim, já que a personagem foi obviamente inspirada na histórica heroína [[Joana D'Arc]], sendo uma suposta versão futurista sua.
+
+==História==
+A história não é nenhum primor em criatividade, aliás, nada em Perfect Dark é. O enredo se passa em um futuro caótico ambientado nos anos [[2020]], que atualmente nem é mais uma época tão distante assim, em que [[duas]] poderosas organizações, o Carrington Institute e a dataDyne, competem entre si pela [[dominação mundial]]. Para tanto, cada uma delas realiza um pacto {{Strike|demoníaco}} com duas raças alienígenas rivais, os Maians e os Skedar, respectivamente.
+
+A já mencionada protagonista Joanna "Perfect" Dark é uma ex-caçadora de recompensas que é contratada pelo Carrington Institute para investigar a rival dataDyne, que está envolvida em uma perigosa conspiração alienígena com os Skedar para ajudar a conquistar seu objetivo de dominar não somente o mundo, mas o universo inteiro. Tamanha ganância irrita o pessoal do Carrington, porque eles são pessoas humildes que desejam apenas controlar a [[Terra]], sem a pretensão de conquistar o resto dos planetas. Porém, há muito tempo atrás, mais especificamente no ano de [[1985]], o líder do instituto também fez contato com extraterrestres, mas com os Maians, e acabou aliando-se a eles contra os Skedar. Consequentemente, agora os Maians vão auxiliar na guerra contra a dataDyne.
+
+==Jogabilidade==
+[[Arquivo:perfect dark joanna.jpg|thumb|240px|O verdadeiro motivo do sucesso de Perfect Dark entre os nerdões.]]
+Existe a possibilidade de jogar tanto sozinho, no modo single player, como também simulando combates no multiplayer. É aí que o plágio de [[GoldenEye 007 (1997)|GoldenEye 007]] fica mais evidente, já que a jogabilidade de Perfect Dark é praticamente idêntica.
+===Single player===
+São [[três]] níveis de dificuldade:
+*'''Agent''' - O nível ideal para [[n00bs]] iguais a você, pois é o mais fácil. Tem poucos objetivos e as armas têm bastante munição. 
+*'''Special Agent''' - Nível intermediário, mas não muda tanto em relação ao anterior. Apenas tem mais objetivos para serem cumpridos.
+*'''Perfect Agent''' - Aqui sim a treta fica séria, por isso exige perfeição! Os inimigos são bem mais fortes e a munição, mais escassa.
+
+===Multiplayer===
+Tem [[seis]] níveis disponíveis, ou seja, o dobro do anterior. São permitidos no máximo [[quatro]] jogadores simultâneos.
+*'''Combat''' - O jogador ganha pontos de acordo com a quantidade de oponentes derrotados. Ridículo de fácil, até você consegue jogar.
+*'''Capture the Case''' - Cada jogador tem uma maleta. O objetivo é roubar a de um adversário e levá-la para sua própria base. Se você jogou GoldenEye 007, vai reparar que isso aí foi chupinhado da missão de roubar a bandeira.
+* '''Hold the Briefcase''' - Semelhante ao anterior, o jogador precisa achar a maleta de algum oponente e tentar ficar com ela em mãos o maior tempo possível. A cada [[30]] segundos bem sucedidos, ganha-se [[um]] miserável ponto. 
+*'''King of the Hill''' - Uma área é aleatoriamente escolhida no mapa do jogo para simular uma colina. O jogador precisa manter-se vivo o máximo de tempo que conseguir, ganhando um ponto a cada [[20]] segundos. 
+*'''Hacker Central''' - Aqui o jogador banca o [[hacker]] e precisa coletar dados alheios para depois transferi-los para o computador.
+*'''Pop a Cop''' - Nível sádico em que apenas um {{Strike|otário}} jogador é feito de alvo para todos os demais tentarem matá-lo e ganhar pontos. Caso você seja a pobre vítima infeliz, sua pontuação vai depender de quantos minutos conseguir sobreviver.
+
+==Gráficos==
+Até que são bem feitinhos, com destaque para o character design de Joanna. É interessante observar como ela muda de um amontoado de polígonos quadrados para uma [[hentai girl]] bem realista ao longo de um jogo para outro, de forma semelhante ao que acontece com [[Lara Croft]] na franquia [[Tomb Raider]].
+
+==Recepção==
+O primeiro jogo foi um puta sucesso, chegando a ser aclamado como o salvador dos jogos para [[Nintendo 64]], já que o console ia de mal a pior. Os demais, bem... São apenas um repeteco do jogo original, com algumas ligeiras melhorias. 
+
+A personagem Joanna Dark atingiu o status de musa dos videogames, chegando até mesmo a ultrapassar as barreiras do [[hentai]] e ter uma modelo contratada para fazer [[cosplay]] na capa da [[FHM]], uma famosa revista onanística de renome entre os gringos. Este foi um feito até então inédito para a nerdice mundial.
+
+{{Perfect Dark}}
+{{Xbox Game Studios}}
+{{First-person shooter}}
+
+[[Categoria:Jogos da Rare]]

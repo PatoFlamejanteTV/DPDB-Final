@@ -1,0 +1,96 @@
+{{game}}
+<center><div style="width:90%; border: 1px solid gray; background-color: #E0BE40; padding: 10px; ">'''<font color=red>Alerta de spoiler:</font>''' O artigo pode conter alguns spoilers, tais como o fato de que
+<font size=5>'''TODOS OS PROBLEMAS DO MUNDO SÃO CULPA DE UM MERO CARACOL, O VERDADEIRO ZERO'''</font>,
+então leia por sua conta e risco.</div></center>
+
+{{Infobox Série Game
+|title         = Zero Escapa
+|image_logo    = zero escape logox.jpg
+|caption       = 
+|genre         = [[Visual Novel|Muito texto]], [[Aventura]], [[Escape the Room|Resolver um monte de puzzles e enigmas para sair de uma sala]]
+|developer     = [[Spike Chunsoft]], [[Chime]]
+|publisher     = Spike Chunsoft, Aksys Games
+|origin        = [[Nintendo DS]]
+|first_release = [[Nine Hours, Nine Persons, Nine Doors|Nove Horas, Nove Pessoas, Nove Portas]] (2009)
+|last_release  = [[Zero Time Dilemma|Zero Tempo Dilema]] (2016)
+}}
+
+{{vqd|[[Ape Escape]]}}
+
+{{experimente também|[[Danganronpa]]}}
+
+{{c|Essa galerinha entrou na maior roubada, e agora vai aprontar altas confusões para solucionar os mistérios até achar um final onde ninguém morre.|[[Narrador da Sessão da Tarde]]| Zero Escape}}
+
+{{c|Upupupupu... Mas que porra é essa!?|Monokuma|Lagomorph}}
+
+{{c|Meus motivos são complexos...|Zero II|a causa, motivo, razão ou circunstancia por trás de seus atos}}
+
+{{c|Pro seu governo, o último cara que brigou comigo foi para casa de ambulância!|[[Tenmyouji]] ameaçando Sigma}}
+
+{{c|Então não devia ter brigado com um paramédico.|Sigma|comentário acima}}
+
+{{c|Jumento morre, se o [[Bono Vox|Bono]] leitão colher o solo.|Um dos enigmas do terceiro jogo}}
+
+
+'''Zero Escape''' é uma das raras séries de Visual Novel (que não é [[Eroge]]) lançada ''oficialmente'' fora do <s>negão</s> [[Japão]]. Em todos os jogos, o roteiro é sobre nove fulanos que inalaram [[Cloro de Piscina|cloro de piscina]] e foram sequestrados por um sujeito encapuzado usando uma [[Máscara de Gás]], que os obriga a passar metade do jogo solucionando os enigmas do [[Charada (DC Comics)|Charada]] (para descobrir pra que eles servem no jogo) e a outra metade morrendo. Eles também possuem [[Pulseira Power Balance]] explosivas, [[Capitão Óbvio|que servem para explodi-los]] ou dopá-los.
+
+== Jogabilidade ==
+[[Arquivo:Ze-sunga-chronicles.jpg|left|thumb|Puxar [[cuecão]] de androides é apenas mais um dos complexos puzzles da série.]] 
+Quando você não está lendo toneladas de texto ou fazendo escolhas sobre qual porta entrar, o jogo te coloca em uma sala trancada, onde você fica procurando chaves para abrir cofres, montando [[quebra-cabeça]], combinando objetos, decifrando o [[cubo mágico]], descobrindo senhas, ou simplesmente jogando [[sudoku]] de ponta cabeça. 
+
+Nas salas também ocorrem conversas sobre assuntos relevantes para o enredo, que geralmente surgem do nada, por exemplo: ao verem uma cama qualquer, Junpei e June começam a falar sobre a [[Hebe Camargo]] ter sobrevivido ao naufrágio do [[Titanic]] por causa do [[botox]] e estar descansando em seu sarcófago, que foi comprado por um milionário russo durante a [[Guerra do Paraguai]]. Em outra cena, Junpei fica vendo as tetas da Lotus enquanto ela mexe num computador, daí eles começam a discutir sobre pessoas que não conseguem distinguir rostos por causa de uma doença genética chamada prosopagnosia.
+
+=== Dilema do Prisioneiro ===
+Mecânica <s>ausente</s> presente no segundo jogo, chamada de '''Unisex Game''', onde você tem que escolher entre "Aliar ou Trair" a pessoa que está na outra cabine; como todos os personagens daquele jogo (menos a Luna) são cuzões assumidos, eles acabam te traindo uma hora ou outra.
+
+{| border="1" cellpadding="5" cellspacing="0" align="center"
+! &nbsp; !! Fulano escolhe "Aliar"!! Fulano escolhe "Trair"
+|-
+! Sigma escolhe "Aliar"
+| Ambos ganham 2 pintos (opção mais vantajosa para ambos, por isso raramente a escolhem).
+| Sigma toma -2 pintos no rabo, mas deixa barato por ser [[Corno|manso]]. Fulano ganha +3 e diz que o Sigma é um idiota por ter escolhido essa opção.
+|-
+! Sigma escolhe "Trair"
+| Sigma leva a melhor e ganha +3, mas ao obter os [[9]] pontos, toma no rabo do mesmo jeito (o roteiro não deixa ele ganhar).
+| Placar fica no zero-a-zero. Grande perda de tempo.
+|}
+
+=== Jogo de Decisão ===
+Frescura adicionada no terceiro game para dar mais emoção à brincadeira; se resume em escolher opções, apertar um botão <s>nuclear</s>, ou simplesmente digitar um nome. Geralmente isso só serve para zoar o Eric dizendo que o cachorro é o Zero e que ele matou a Mira etc.
+
+== Jogos ==
+=== Nine Hours, Nine Persons, Nine Doors ===
+[[Arquivo:Zeroescape-dogyorinpa.jpg|thumb|200px|Um funyarinpa, segundo Junpei.]]
+Jogo em que há nove pessoas tem nove horas para  abrir nove portas usando a <s>nutella digital</s> raiz digital dos seus braceletes para não morrerem e deixarem de viver com vida. 
+
+O protagonista é '''Junpei''', um padeiro que voltava cansado para seu <s>apertamento</s> apartamento depois de um dia de trabalho; ele viu a janela aberta e pensou em chamar a [[Polícia|puliça]], mas [[Darth Vader]] apareceu do nada, encochou nele, e o fez inalar [[Gás Letal de Alcachofra]] até ficar inconsciente. O coitado acorda no Titanic, escapa da sua cabine (que estava inundando, mas a água é muito educada e espera ele ler livros e solucionar os puzzles) colocando o dígito raiz do seu [[Cú|terceiro olho]] no leitor de retina. Na saída, ele encontra outros oito personagens desafortunados: '''Ace''' (velho barbudo e magnata), '''Snake''' ([[Miles Edgeworth]] cego e sínico), '''Santa''' (skinhead albino e fresco), '''Clover''' (irmã pentelha do Snake com tendencias psicopatas), '''June''' (putinha ingênua e ex-namorada do Junpei), '''Seven''' (gordão que vive sofrendo bullying da Clover; e é a [[Lady Gaga]] disfarçada), '''Lotus''' ([[analista de sistemas]] que se veste como [[Dançarinas de programas de auditório|puta]] e namorada [[tsundere]] do Seven) e o '''9th Man''' ([[Nerd metal]] com cabelo [[Black Power]]). Esse último se revela um pedófilo seguidor do João de Deus e sequestra a Clover para "exorcizá-la" no banheiro, mas seu pênis fica preso na catraca da porta e ele acaba explodindo por não saber matemática (apesar da cara de nerd). Depois disso, os sobreviventes se dividem em dois grupos para procurar uma saída.
+
+=== Zero Escape: Virtue's Last Reward ===
+[[Arquivo:Zeroescape-whiteblood.jpg|left|thumb|250px|A última recompensa da virgindade.]]
+O mais difícil da trilogia. Desta vez os participantes abrem portas usando braceletes com todas as cores da comunidade <s>[[SBT]]</s>[[LGBT]] e depois brincam de dilema do prisioneiro para ganhar pontos e abrir as Portas da Esperança e escapar de uma [[fábrica de abridores de pacotes de bolachas]] abandonada.
+
+Cansado de apanhar do [[Megaman X|X]], [[Sigma (Megaman)|'''Sigma''']] decidiu tirar férias, mas acabou sendo sequestrado por [[comunistas do djabo]] à mando do coelho [[Pernalonga]]; ele acorda <s>todo velho e acabado</s> em um elevador junto com '''Phi''' ([[ninfeta]] briguenta albina mal encarada), que o ajuda a desvendar os puzzles daquela merda e fugir. Para variar, aparecem as outras vítimas: '''Alice''' (Lotus afrodescendente com fantasia de carnaval [[Egito|egípcio]]), '''Dio''' (cuzão engolidor de [[Pênis|espadas]] do [[Circo Máximo]]), '''Luna''' ([[Danganronpa 2: Goodbye Despair|Chiaki Nanami]] 2, a <s>lunática</s> santinha do grupo), '''Quark''' (pato sadomasoquista que cheirou muito <s>lança perfume</s> "Radical 6" e quer cortar os pulsos a todo custo), '''Clover''' (a pentelha [[jailbait]] voltou, agora só de sutiã e [[minissaia]], para tentar alavancar as vendas do jogo), '''Tenmyouji''' (velho pinguço abduzido na farmácia enquanto buscava viagra) e '''K''' (robô [[budista]] filósofo, mas tão cuzão quanto os outros personagens). Depois aparece o mascote do jogo <s>um coelho feio pra burro</s>, que pede para eles irem no elevador para votar nas [[Eleições alternativas para governador do Amazonas de 2022]] (mas sem explicar sobre as consequências dos votos).
+
+=== Zero Time Dilemma ===
+[[Arquivo:zeroescape-cadaver.jpg|thumb|250px|<s>Seis</s>Cinco pessoas são mortas por um cão raivoso; só mais um dia qualquer para os personagens do jogo.]]
+Em vez de visual novel, este parece mais um joguinho de aventura da [[Telltale Games]]. Escrito pelo [[Jigsaw (Jogos Mortais)|Jigsaw]], é o mais estranho da trilogia, já que não segue uma narrativa linear e, mesmo solucionado os enigmas, todo mundo morre toda hora graças á banhos de ácido, fuzilamento, bomba atômica, gás venenoso etc (e solta gêiseres de sangue até com picada de marimbondo). 
+
+Desta vez, os personagens se dividem em três times: 
+* '''Time C -''' grupo do Junpei e da Akane/June. O terceiro membro (e líder do grupo) é '''Carlos''', um bombeiro gringo metrossexual que planeja matar Junpei e fugir com sua namorada;
+* '''Time D -''' grupo do Sigma e da Phi. A terceira membrana (e líder do grupo) é a Luna, que se tornou uma menina <s>testuda</s> de verdade chamada '''Diana''', graças a uma mágica do Grilo Falante;
+* '''Time Q -''' grupo dos doentões do jogo, onde todos os personagens são inéditos. É composto por '''Eric''' (irmão do [[Chris Rock (personagem)|Chris]] e sorveteiro que ficou demente de tanto apanhar do pai e ser forçado a chupar [[sorvete assado]] pelo rabo), '''Mira''' ([[Maria Gasolina]] peituda e psicopata que sofre porque o Eric não dá conta de encher seu tanque)  e '''Q''' (pirralho cabeçudo que sofre bullying do Eric).
+
+O jogo começa com todo mundo na cadeia, daí surge o bicudo do Zero, que joga uma moeda e pergunta se é [[Cara ou Coroa]]. Carlos acerta e Zero os liberta na boa. Fim. [[Ou não]].
+
+== Ver também ==
+* [[Jogos Mortais (série)]]
+* [[Relógio do Torneio do Poder]]
+* [[Zero]]
+
+{{oposto|Danganronpa}}
+
+{{Zero Escape}}
+{{Adventure}}
+{{Visual novel}}
+
+[[Categoria:Jogos da Spike Chunsoft]]

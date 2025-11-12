@@ -1,0 +1,72 @@
+{{Jogos Antigos}}
+{{Explosivo}} 
+{{Infobox Game
+|title     = Warzone 2012
+|image     = WZ_2100_Title.jpg
+|caption   = O Título do game que já vem todo fudido
+|developer = [[Pumpkin Studios]]
+|publisher = [[Eidos Interactive]]
+|released  = [[1999]] 
+|genre     = [[Real-time strategy]]
+|rating    = 8/10 pra quem curte jogos velhos
+|platform  = [[PC|PC velho]] e [[Playstation 1|Relíquia Sonysta]] 
+|ages      = Livre
+}}
+
+'''Warzone 2100''' é um jogo de estratégia em tempo real em perspectiva 3D pra [[Computador|PC]] e [[Playstation]], se você for uma dessas pessoas que só sabem jogar [[Conter Strike]] no seu computador, certamente vai achar esse jogo ruim porque [[você]] não sabe jogar (porque você é [[noob]], há não ser que não seja noob, você não joga Counter-Strike). Apesar de ser um bom jogo, não é tão popular, então faça o favor de sair espalhando pra todos os seus amigos <s>e faça eles instalarem o Linux também para complementar o jogo</s>!
+O jogo atualmente é Software Livre licenciado pela GNU General Public License versão 2 (o que significa que você pode baixar o jogo completo, grátis, sem ser demo e pirata, no Linux e Mac OS X também).
+
+==História==
+
+O jogo se passa em [[2100]] (duh!) depois que o mundo foi todo estrouxado, destruído e arreguilado por [[armas de destruição em massa]], onde uma gigante parcela da população de [[Humano|humanos]] foi pulverizada, massacrada, e reduzida de 6,5 bilhões para apenas alguns milhões de trouxas e esses que sobraram se dividiram em facções que se [[Suruba|fodem entre si]] pra <s>ver quem acaba com o planeta primeiro</s> explorar petróleo e reconstruir o mundo ([[Ou não]]).
+
+Na campanha (que pros noobs que não entendem de Real Time Strategy significa aquele modo em que você joga de um player pra tentar fechar) você controla as forças emergentes da facção “<s>Des</s>projeto” que surge do [[nada]] pra botar pra foder com as outras facções que não podem conviver em paz porque do contrário não teria [[graça]]. Nessa dita facção, há três subgrupos dessa chamadas Beta, Alpha e Gamma, e nessa sequência assumimos o comando de cada uma até elas se lascarem para um simples vírus de computador onde nossa única defesa é usar [[Baidu]], o único antivírus que restou mas que não serve de nada. 
+
+Denominado Nexus, o vírus basicamente controla outras facções e jogam elas pra cima de você pois sabe que se deixar crescer, ele tá fudido, por isso ele inferniza nossa vida. Após passar por maus bocados, descobrimos que o vírus é um vagabundo chamado "Dr. Reed" que se digitalizou no vírus por se amargurar com o seu fracasso acadêmico e resolveu fazer todos fracassarem. Ele tenta desesperamente te derrotar, mas com o poder do protagonismo facilitando a nossa vida, conseguimos derrotar esse vírus e somos agraciados nos créditos com a sua [[risada maléfica]]. 
+
+==Jogabilidade==
+
+[[Arquivo: Tralhas_WZ_2100.jpg|thumb|220px|right|se fodeu agora pra aprender pra que serve todos aqueles trecos e tralhas do jogo]]
+Pra quem entende de Real Time Strategy a jogabilidade desse jogo é fantástica permitindo total controle  de todas as operações do jogo como:
+*Pesquisas de um monte de tralhas que não acabam mais;
+*Montar o seus projetos de tanques, VTOLs, e qualquer treco que você queira usar do jeito que você quiser;
+*Programar seus veículos para <s>arregar</s> recuar para reparos quando danificados, 
+*Designar por sensores armas de longo alcance, etc (é melhor não ficar explicando tudo, vá jogar que você aprende). 
+
+Para ser capaz de realizar todas as operações acima, basta ficar diligente na grande responsabilidade de se sustentar que gira em torno de ser um típico sucateiro para ficar coletando <s>o lixo dos outros</s> tecnologia perdida e suprimentos, assim desenvolvendo a sua gameplay. 
+
+==Campanha==
+
+[[Arquivo: Noob_Jogando_WZ.jpg|thumb|220px|left|Um Noob jogando WZ 2100 pela primeira vez, repare o tempo que levou pra aprender AS COISAS SIMPLES!]]
+Jogue de um player pra fechar essa joça, mas se você jogou as primeiras missões e achou fácil você acaba se arroiando, mas se achou difícil, coitado, porque o nível de dificuldade aumenta muito, mas [[Chaves|muitisisisisisimo]] mesmo, e a medida que você vai passando as missões o jogo da um jeito de mostrar que dá piorar. No entanto, é claro que você pode mudar a dificuldade nas opções para "[[Easy|fácil]]", mas isso é coisa de [[noob]].
+
+Não faz sentido jogar a campanha sem ver os "CGs", assim você não vai saber nada do que tá acontecendo, pra você que tem banda <s>bunda</s> larga, não seja tão preguiçoso e trate de baixar os vídeos também pra ter mais diversão.
+
+==Modo Multiplayer==
+
+Jogue com até 8 jogadores humanos e/ou [[Computador|Inteligencia Artificial]] simultaneamente via [[Internet|NET]] ou [[Lan House|LAN]], você pode hospedar (ou pelo menos tentar) um jogo on-line pra galera jogar com você do seu jeito, ou ir na onda de outro hospedeiro. 
+
+<big>NOTA:</big> só pessoas com a mesma versão do WZ 2100 podem jogar juntas, essa informação é dada quando você quebra a cara no jogo quando vai ver os hospedeiros que sempre tem uma versão mais avançada que a sua.
+
+Jogando em multi, aqui pelo menos você não tem que ficar coletando artefatos pra pesquisar e ficar mais forte pra derrotar o adversário, as pesquisas tão todas lá, escolha o que é melhor pra [[você]], só vai depender mesmo da sua [[Nerd|inteligência e experiência]].
+
+==Desafios==
+
+Três jogos criados em modo <s>skavuska</s> Skimish (em português: "Escaramuçador"... de que isso adianta? Você não entendeu nada mesmo.) por alguns [[Nerd]]s, pra você jogar contra o computador e ganhar ([[ou não]]) pontos extras que servem pra ganhar medalhinhas e estrelinhas que só servem pra <s>se exibir</s> mostrar sua experiência e reputação pros outros caras do lobby com quém você vai jogar, se você for um [[Noob]] sua classificação é uma [[Chupeta|chupetinha]].
+
+==[[Cheats]] (traduzindo: Trapaças)==
+
+Trapaças é coisa de [[Filho da Puta]] e [[noobs]] e estraga a graça do jogo, tanto é que no jogo se você trapacear aparece piscando com bastante ênfase pra jogar NA TUA CARA: “Você trapaceou” <s>seu filho da puta!</s>.
+
+Só é válido se você já tiver destrinchado inteirinho o jogo e quiser tirar mais alguma diversão usando os cheats. Não vou botá-los aqui, se outro descíclope quiser que faça-o, mas que fique bem claro que quem trapaceia é um filho da puta ou um noob.
+
+== Ver Também ==
+
+*[[War (jogo)|Warzone, o clássico]]
+
+{{Real-time strategy}}
+
+[[Categoria:Jogos da Eidos Interactive]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos lançados em 1999]]

@@ -1,0 +1,44 @@
+{{futebolismo}}
+
+{{Box ClubeFutebol
+|cor_clara         = yellow
+|cor_escura        = blue
+|brasao            = Escudo do Sumaré.png
+|hino              = "Caipiras do rock n' soul"
+|nome_oficial      = Sumaré Atlético Clube
+|origem            = {{SP}} '''[[Sumaré]]'''
+|apelidos          = Sacão, Cavalos Paraguaios
+|torcedores        = Cavalos
+|torcidas          = Cavaleiros do Zodíaco
+|mascote           = Sacão, Cavalo, Burro
+|ilustre           = [[Bengalelê Motumbo]]
+|estadio           = Estádio do Caralhão
+|capacidade        = 500 pessoas e 20 jogadores
+|sede              = ''[[Sumaré]]''', Rua da Gazela, 45
+|presidente        = Ronaldo Fenômeno
+|treinador         = José Roberto Wright
+|pior              = [[Daron Malakian]]
+|melhor            = [[Serj Tankian]]
+|patrocinador      = [[EMI]]
+|material          = CD
+|liga              = Campeonato Discoteco Paulista
+|divisao           = 6
+|títulos           = Campeonato de DJs Paulistas
+|ranking           = 174
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Sumaré Atlético Clube''' é um micro-time paulista localizado no [[Sumaré]], e que não serve pra nada.
+
+== História ==
+
+Fundada em 2005, [[Desciclopédia|tanto a gente]] [[Wikipédia|quanto eles]] não tem mais informações desse miserável clube desconhecido. A primeira coisa que nós devemos lembrar é o mascote da equipe: o [[burro]], o mesmo mascote do [[Partido Republicano]] e do [[Esporte Clube Taubaté|EC Taubaté]].
+
+A equipe devido ao fato de ser do interior, nutre o sonho de um dia enfrentar [[Corinthians|Corinthians]], o [[Santos Futebol Clube|Santos]], [[Palmeiras]] e [[São Paulo Futebol Clube|São Paulo]], mas isos ficou só no sonho mesmo, pois o clube nada realizou em seus poucos anos de existência e voltou a ser um mero time amador peladeiro sem divisão nem no estadual.
+
+É eterno rival do [[Paulínia Futebol Clube|Paulínia FC]], com quem dis[[puta]] quem tem mais torcedores maconheiros e cheiradores de gatinhos. Porque quanto ao futebol o Sumaré já nem disputa mais sequer um campeonato paulista da série B12.
+
+{{Campeonato Paulista}}
+
+[[Categoria:Times de futebol de São Paulo]]

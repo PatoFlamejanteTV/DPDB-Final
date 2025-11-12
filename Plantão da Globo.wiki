@@ -1,0 +1,796 @@
+{{Logotipo falso|Cultura.png}}
+<div style="position:fixed; bottom:1px; left:1px;">[[Arquivo:Plantãodaglobo.mp3|250px]]</div>
+<choose>
+<option>
+{{DISPLAYTITLE:Plantão da Globo: Absolvição do Presidente Renan Calheiros}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acareação Entre os Deputados Roberto Jefferson e José Dirceu Envolvidos no Escândalo do Mensalão em Brasília}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente com Dois Trens da Linha A da CPTM na Estação Perus em São Paulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente com Ônibus da Equipe de Ginástica do Flamengo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente com Taxi-Aéreo Brasília no Aeroporto de Rio Branco}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente com Voo Gol 1907}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente com Voo TAM 402}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente com Voo TAM 3054}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente de Avião em Paris}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente de Avião na Índia}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente de Avião na Praça Central de Nova Iorque}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente do Learjet}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente na BR-116 na Entrada da Cidade de Além Paraíba}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Acidente nos Treinos Livres de Fórmula 1}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Alexandre Nardonni e Ana Carolina Jatobá são Submetidos a Acareação e Terminam o Dia Indiciados pelo Assassinato de Isabella}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Antônio Palocci Pede Demissão do Cargo e é Substituído por Guido Mantega}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Anulação dos Jogos Apitados por Edilson Pereira de Carvalho}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Anúncio do Plano Real}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Sequestro de Eloá}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Ariel Sharon no Hospital}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Assassinato de Paulo César Farias}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Atentado em Buenos Aires}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Atentado Terrorista na Sede de ONU em Bagdá}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Atentados a Bomba em Madri}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Atentados em Bombaim}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Atentados em Linhas de Ônibus na Cidade de Londres}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Atentados em Mumbai}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Aumento do Salário Mínimo para R$ 260,00}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Avião Faz um Pouso de Emergência no Rio Hudson}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Bill Clinton dá Entrevista se Defendendo da Acusação de Assédio Sexual contra a Monica Lewinsky}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Bill Clinton é Absolvido no Processo de Inpeachment Sofrido após o Escândalo com a Monica Lewinsky}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Blecaute no Brasil e Paraguai em 1999}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Bolsas Estouram em Quedas}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Bomba na Estação de Metrô no Bairro de Shinjuku no Tóquio}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Bomba no World Trade Center}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Bovespa Aciona o Circuit Breaker após a Bolsa Cair 10%}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Brasil Pentacampeão na Copa do Mundo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Brasil Tetracampeão na Copa do Mundo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Cantor Michael Jackson é Absolvido da Acusação de Pedofilia Depois de Cinco Meses de Julgamento em Los Angeles}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Carro-Bomba com Detonador Acionado no Estabelecimento na Barra Funda}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Cassação do Mandato do Deputado Roberto Jefferson}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Cassação do Mandato do José Dirceu}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Celso Pitta é Afastado do Cargo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Chacina da Candelária}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Clonagem da Ovelha Dolly}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Confirmação do Segundo Turno de Eleição para Presidente do Brasil Entre Luiz Inácio Lula da Silva e Geraldo Alckmin}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Conflitos em Belfast}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Crise na URSS}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Decretada Prisão Preventiva do Pai e Madrasta de Isabella Nardoni}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Desabamento do Palace II}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Desabamento do Teto da Igreja Renascer em Cristo no Bairro de Cambuci em São Paulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Desabamento do Teto do Pão de Açúcar no Bairro de Itaim Bibi em São Paulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Desvalorização do Real}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Eleição do Deputado Severino Cavalante para Presidente da Câmara dos Depurados}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Eleição do Papa Bento XVI}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Encontro do Corpo da Daniela Perez}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Enorme Cratera se Abre nas Obras da Linha 4 do Metrô de São Paulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Enterro da Princesa Diana}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Enterro do Ayrton Senna}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Enterro do Cantor Michael Jackson}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Enterro do Papa João Paulo II}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Enterro do Roberto Marinho}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Enterro dos Imigrantes do Grupo Mamonas Assassinas}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Estados Unidos Bombardeiam o Afeganistão}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Explosão na Área de Alimentação do Osasco Plaza Shopping}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Fechamento de Acordo Entre o FMI com o Brasil}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Fernando Dutra Pinto Invade a Mansão do Sílvio Santos e Faz o Apresentador de Refém por Mais de Sete Horas}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Fim da União Soviética}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Francisco de Assis Pereira é Preso em São Paulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Geraldo Alckmin dá uma Entrevista Falando Sobre as as Rebeliões do Dia Anterior}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Golpe de Estado Contra o Presidente Hugo Chávez que Retoma o Poder Dois Dias Depois}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Golpe na União Soviética}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Guerra no Iraque}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Guilherme Portanova é Libertado Após Dois Dias de Sequestro}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Incêndio na Fábrica de Produtos Químicos em Diadema}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Incêndio na Petroflex}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Incêndio no Programa Xuxa Park}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: João do Pulo Sofre Acidente nos Saltos}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: José Dirceu é Nomeado Ministro-Chefe da Casa Civil pelo Presidente Lula}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: José Dirceu Pede Demissão do Cargo de Ministro Chefe da Casa Civil e Volta com o seu Cargo de Deputado Feteral por São Paulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Josef Fritzl é Condenado a Prisão Perpétua e Tratamento Psiquiátrico Depois de Quatro Dias de Julgamento na Cidade de Sankt Pölten}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Leitura do Relatório Final da CPI}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Libertação da Patrícia Abravanel}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Libertação do Ingrid Betancourt Sequestrada em 2002 pelas Forças Armadas Revolucionárias da Colômbia, as Farc.}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Libertação do Juiz Nicolau dos Santos Neto}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Libertação do Pai e Madrasta de Isabella Nardoni que Caiu do Prédio}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Libertação do Washington Olivetto}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Mãe do Salgadinho Consegue Escapar do Caliveiro Depois de Ficar Cinco Dias em Poder de Sequestradores}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Massacre de Eldorado dos Carajás}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Massacre do Carandiru}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Mikhail Gorbachev Retorna ao Poder após Três Dias}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Missa de Extrema Unção do Papa João Paulo II}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte da Cantora Cássia Eller}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte da Dercy Gonçalves}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte da Eloá Pimentel}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte da Esposa do Cantor Helbert Vianna}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte da Ivani Ribeiro}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte da Princesa Diana}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte da Zélia Gattai}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Ayrton Senna}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Bussunda}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Cantor Claudinho}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Cantor e Compositor Dorival Caymmi}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Cantor João Paulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Cantor Michael Jackson}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Cantor Leandro}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Deputado Enéas Carneiro}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Deputado Luís Eduardo Magalhães}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Deputado Ulysses Guimarães}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Dias Gomes}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Fernando Sabino}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do João do Pulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Jorge Amado}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Jornalista Tim Lopes}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Marcelo Silva}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Mário Covas}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Papa João Paulo II}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Prefeito Celso Daniel}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Presidente Rolim Amaro}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Renato Russo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Roberto Marinho}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Roland Ratzemberger}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Rômulo Arantes}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Senador Antônio Carlos Magalhães}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Senador e Governador Leonel Brizola}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Tim Maia}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Morte do Yasser Arafat}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Mulher de 29 Anos é Feita Refém de um Assaltante em Guarujá}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Naufrágio no Egito}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: O Julgamento do Impeachment}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Oficializada a Escolha de Carlos Minc para Ministro do Meio Ambiente do Governo Lula Substituindo Marina Silva}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Onda de Boatos Varre o País}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Ônibus Espacial Columbia se Desintegra Sobre o Estado do Texas}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Operação do Prefeito Paulo Maluf}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Osmar Santos Sofre Acidente}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Papa João Paulo II no Hospital}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: PCC Promove Ataques a Postos da Polícia Militar e as Delegacias da Polícia Civil no Interior de SP}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Posse do Presidente Barack Obama}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Posse do Presidente Luiz Inácio Lula da Silva}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Posse do Presidente Fernando Henrique Cardoso}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Posse do Vice-Presidente Itamar Franco}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Presidente George W. Bush Chega ao Brasil para uma Reunião com o Presidente Lula em São Paulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Presidente Hugo Chávez Retorna a Presidência da Venezuela Após Dois Dias Afastado Devido a um Golpe de Estado}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Prisão do Daniel Dantas}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Prisão do Elias Pereira da Silva}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Prisão do Juiz Nicolau dos Santos Neto}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Prisão do Senador Jáder Barbalho}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Prisão do Senador Luiz Estevão}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Queda de Alambrado do Estádio São Januário}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Queda do Teto do Hipermercado Extra em São Caetano do Sul}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Rebelião na Unidade da Febem em São Paulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Rebeliões nos Principais Complexos Presidiários do Brasil}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Reconstituição do Assassinato de Isabella Nardoni}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Resultado Final das Eleições Presidenciais nos Estados Unidos em 2004}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Resultudo Final das Eleições Presidenciais nos Estados Unidos em 2008}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Saddam Hussein é Capturado pelas Tropas Americanas no Iraque}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Saddam Hussein é Condenado a Morte}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Saddam Hussein é Executado por Enforcamento em Bagdá}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Senado dos Estados Unidos Aprova Pacote de 700 Milhões de Dólares para Combater a Crise Econômica Mundial}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Senador Antônio Carlos Magalhães Renuncia ao Mandidato}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Senador José Roberto Arruda do Renuncia ao Mandidato}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Sequestradores de Wellington Camargo Enviam para a Família um Pedaço Mutilado da Orelha da Vítima}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Sequestro do Ônibus 174 no Rio de Janeiro}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Sequestro do Ônibus 499 em Nova Iguaçu}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Sequestro do Repórter Guilherme Portanova}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Sequestro do Wellington Camargo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Siro Darlan Baixa uma Liminar Obrigando Todos os Atores Menores de 18 Anos da Novela Laços de Família a se Afastarem das Gravações}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Suzanne Von Richtoffen e Irmãos Cravinhos são Condenados a 39 Anos de Prisão}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Terremoto em Áquila, na Itália}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Terremoto em Kobe, no Japão}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Terremoto no Índico em 2004}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Terremoto no Sul e Sudeste do Brasil}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Terror nos Estados Unidos}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Torcedores do Corinthians Quebram o Alambrado do Estádio do Pacaembu em São Paulo}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Tornado em Oklahoma}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Vazamento de Gás no Prédio de Nova Iorque}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Violenta Rebelião no Complexo Presidiário de Presidente Prudente}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Visita do Papa Bento XVI ao Brasil}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Visita do Papa João Paulo II ao Brasil}}</option>
+<option>{{DISPLAYTITLE:Plantão da Globo: Wellington Camargo é Libertado Depois de Mais de Três Meses no Cativeiro}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Acidente com Voo Varig 254}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Acidente Radioativo de Goiânia}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Anulação do Aumento da Prestação da Casa Própria}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Anúncio do Plano Collor}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Anúncio do Plano Cruzado}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Desastre Nuclear de Chernobyl}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Eleição do Presidente Fernando Collor de Melo}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Guerra das Malvinas}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Guerra do Golfo}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Início da Guerra do Golfo}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Invasão do Iraque sobre o Kuwait}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Morte do Cantor Cazuza}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Morte do Presidente Tancredo Neves}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Morte do Zacarias}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Mudanças na Economia Brasileira}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Posse do Presidente Fernando Collor de Melo}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Presidente Tancredo Neves no Hospital}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Proclamação da Nova Constituição}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Queda do Muro de Berlim}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Roberto Medina dá uma Entrevista após ser Libertado de um Sequestro}}</option>
+<option>{{DISPLAYTITLE:Plantão JN: Sequestro do Boeing 737}}</option>
+</choose>
+
+{{trevas}}
+{{poder}}
+{{globo}}
+{{pacto}}
+{{compactar|
+{{Você quis dizer|Apocalipse?}}
+{{Você quis dizer|Avião da TAM?}}
+{{Você quis dizer|O Demônio Em Forma de Programa, COOOOORRRAMMMM}}
+{{Você quis dizer|fudeu}}
+{{c|Morre Deabo!!!!!.|Emílio Eduardo|Plantão da Globo}}
+{{c|MAMÃÃÃÃÃNNNHHHHHEEEEE!!!, Posso dormir com VOCEÊ???.|Guri Retardado Apos ter Pesadelos|Plantão da Globo}}
+{{C|João Nabuco, tá preso por homicídio com dolo eventual|Polícia Civil|João Nabuco}}
+{{c|Meu programa preferido.|Senhor Omar|Plantão da Globo}}
+{{c|Eu tenho medo!!!|[[Regina Duarte]]|Plantão da Globo}}
+{{c|AI CARALHO!!!|Você levando um susto com o Plantão da Globo}}
+{{c|AIIIII Porra, que Porra Que Aconteceu Agora|Dercy Gonçalves|Plantão da Globo}}
+{{c|Eu Tenho Medo!!|Regina Duarte|Plantão da Globo}}
+{{c|Quem Morreu Agora??|Eu|Plantão Globo}}
+{{c|Acho que alguém que estava vivo.|Capitão Óbvio|Plantão da Globo}}
+{{c|Outro avião da [[TAM]]???|[[Brasileiros]]|Plantão da Globo}}
+{{c|Obaaaaaa|Morte|Plantão da Globo}}
+{{c|AI MÃMAE SOCORRO,OS MARCIANOS,OS MARCIANOS CHEGARAM|Kiko Quando Viu o Plantão da Globo}}
+{{c|TUM DUUUUM, PAM PAM PAM PAM PAM PAM PAM PAM PAAAAAAAM|Tema Musical do Plantão}}
+{{c|AIIIIIIII que susto|Clodovil|Plantão da Globo}}
+{{c|Melhor Programa|Tarado Da Machadinha|Plantão da Globo}}
+}}
+[[Arquivo:Dercy_gonçalves.JPG|right|thumb|Você Depois de Um Plantão da Globo]]
+O '''Plantão da Globo ''(anteriormente chamado de Plantão JN)''''' para uns é um simples informe que de vez em quando interrompe a programação da Globo para informar um fato importante. Já para outros É UM AVISO DO INFERNO DE QUE O MUNDO ESTÁ ACABANDO E DE QUE DAQUI A POUCO O MUNDO VAI DESMORONAR, TODOS VÃO COMEÇAR A CAIR, CAIR, CAIR, ATÉ CHEGAR NUM INFERNO E TER QUE AGUENTAR O SATAN NEGÃO POR INFINITOS SÉCULOS. [[AAAAA!]]
+[[Arquivo:SatanN.jpg|right|thumb|Criador da vinheta]]
+
+O Plantão foi criado a mando de [[Roberto Marinho]] (a.k.a Cérebro) para assustar pessoas (que a [[RecordTV]] e outras emissoras de [[televisão]] do [[Brasil]] querem imitar). Embora [[sua mãe]] diga que não faz mal, essa é mais uma das técnicas de manipulação da [[Rede Globo]] para fazer o mais poderoso mortal parecer uma bicha louca que adora dar o [[cu]]. O editor encontra-se foragido, possivelmente no [[Acre]].
+
+==Sobre==
+Funciona da seguinte maneira. [[Você]] (sim você), lá sentado, deitado ou afundado no seu sofá, cama, caixa de papelão, enfim, no seu cafofo... Assistindo seu programa (você não leu isso homem, afinal estamos falando de Rede Globo, Então vamos "fingir" para que eu prossiga com a explicação), a tua esposa tá na casa da amiga, teu filho tá na casa da namorada (ou do namorado se for o caso !!) a tua sogra morreu, não tem fulano algum para te incomodar, é só você, a cerveja e a TV, você esta lá quase dormindo de felicidade, então, do nada...
+
+Você houve Um "dumdumdumdumdum ,PAM PAPAM PA PAM PAPAMPAPAMMMMMM,PAM PAPAM PA PAM PAMPAMPAMPAMPAMPAMMMMMMMMMMMMMMMMMMMMMMMM" você acorda assustado sem saber o que fazer então você olha para a TV e vê um monte de câmeras e microfones voando em sua direção, acontece uma transformação do capeta da onde surge o resultado disso tudo, um logo escrito '''PLANTÃO''' e o símbolo satânico da TV Globo logo abaixo. Bom, depois disso tudo, eles noticiam a tal notícia, geralmente, [https://www.youtube.com/watch?v=Zo_tqV9SxEQ|um sequestro, um roubo, um assalto ou um acidente aéreo] isso nem importa muito já que depois daquela vinheta assustadora, pode vir o que vier, o furacão Catarina junto do apocalipse e a [[Tela Azul da Morte]], contaminando vários famosos (menos [[Bear Grylls]] e [[Jair Bolsonaro]]), afinal, você já foi afetado e morto pelo temido... PLANTÃO DA GLOBO.
+[[Arquivo:Plantão bugado 2013.mp4|thumb|esquerda|Um exemplo deplantão, note que até a própria [[Globo]] se assustou com a vinheta e bugou ao vivo.]]
+A trilha e a vinheta do plantão foram feitas por uma aliança entre [[João Nabuco|Pinky]] e [[Hans Donner|Cérebro]], ambos trabalham/trabalhavam na Goebbels. A trilha surgiu em [[1991]] de uma forma obscura que a emissora não gostaria de revelar. Na época, [[Roberto Marinho]] hackeou o [[SBT]] enquanto passava [[Chapolin]], o Nabuco junto com o Marinho, remixou a parte inicial da abertura do seriado e tiveram a ideia de usar como trilha da vinheta do plantão jornalístico da [[Globo]]. Ao longo do tempo, a vinheta mudou e a trilha não, isso tudo uma forma de hipinotização do Marinho. Não é a toa que durante a morte dele, a música que tocou no funeral foi a vinheta do plantão, interrompendo o mineirão.
+
+==Você sabia?...==
+*Que a Cada Plantão, mais de 60 Cardíacos e Velinhos morrem de susto
+*Que essa música do Plantão é demoníaca ?
+*Que não basta o Plantão assustar,ele tem que interromper a Programação.
+*Que [[eu]] me Caguei lendo essa bosta
+*Que a [[Tua Mãe]] Já Apareceu no Plantão
+
+==Imagens e Video do Plantão==
+
+Aqui está uma imagem e um video do plantão. Não o aconselhamos a continuar. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Corajoso...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Olha amigo, sei que você quer dar uma de corajoso. Mas isso é demais!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+...Quero ver o [[susto]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eu avisei! [[Risada Diabólica|MWAHAHAHA!]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BU!
+<br>
+[[Arquivo:Plantão-da-Globo-2021.jpg|900px]]
+
+
+
+
+
+
+
+
+<Youtube>
+
+movie_url=https://www.youtube.com/watch?v=AsJRCGjKTL8?version=3&hl=pt_BR&rel=0&autoplay=1
+
+embed_source_url=https://www.youtube.com/watch?v=AsJRCGjKTL8?version=3&hl=pt_BR&rel=0&autoplay=1
+
+wrap=no 
+
+width=750
+
+height=750
+</Youtube>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[Risada Diabólica|MWAHAHAHA!]] Eu avisei! Sua anta Ambulante! fica dando uma de corajoso se ferrou!
+Cuidado Pra Não ter Pesadelos [[Risada Diabólica|MWAHAHAHA!]]
+
+== Ver também ==
+Como? Você tá cego, o Plantão fez você perder a visão. 
+*[[Jornal Nacional]]
+*[[Rede Globo]]
+
+{{Coisas assustadoras}}
+{{forças}}
+
+[[Categoria:Programas da Rede Globo]]

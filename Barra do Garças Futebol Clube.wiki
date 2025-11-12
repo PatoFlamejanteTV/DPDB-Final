@@ -1,0 +1,55 @@
+{{Box ClubeFutebol
+|cor_clara         = gold
+|cor_escura        = #191970
+|brasao            = BarraGarcasFC.png
+|hino              = Có! Có! Có! (barulho de galo)
+|nome_oficial      = Barro e Lama das Garças Futebol Clube
+|origem            = {{GO}}'''- [[Barra do Garças]]'''
+|apelidos          = Barrão
+|torcedores        = Galinhas
+|torcidas          = Galinhas Loucas do Mato Grosso!
+|mascote           = Galinho da Serra
+|ilustre           = [[Biro-Biro]]
+|estadio           = Zeca Bosta [[Zeca Costa]]
+|capacidade        = 3.000 galos
+|sede              = Bangú 1 [[Bairro Santo Antônio]]
+|presidente        = Chocolate
+|treinador         = [[Biro-Biro]]
+|pior              = Coelho
+|melhor            = Faísca
+|patrocinador      = Prefeitura de [[Barra do Garças]]
+|material          = Tecedeiras do Pantanal
+|liga              = [[Campeonato Matogrossense]]
+|divisao           = 1° Divisão
+|títulos           = Campeão da Série C, seletiva da Região Norte e Centro Oeste de 2003
+|ranking           = 24551°
+|uniformetitular   = Uniforme Boca Juniors.png
+|uniformealt       = Uniforme Boca amarelo.jpg
+}}
+
+{{c|Ah sim! Barra do Garças! Foi onde eu fui caçar jacarés certa vez!|Biro-Biro|Barra do Garças}}
+
+'''Barra do Garças Futebol Clube''', conhecido entre os pantaneiros como '''Barrão''', não pelo nome Barra, mas pelo estádio que tem mais [[lama]] que [[gramado]], é um time de futebol muito famoso nas peladas disputadas no [[Mato Grosso]], representando a cidade de [[Barra do Garças]].
+
+== História ==
+
+[[Arquivo:Barra do Garças X Mixto.jpg|thumb|left|250px|Mais um emocionante jogo entre Barra do Garças e Mixto no Estádio Barrão.]]
+
+Fundado na época que você já jogava futebol (melhor que os jogadores do Barra), em [[1998]], o time com a diretoria e jogadores formados exclusivamente por fazendeiros, tentou inutilmente revolucionar o futebol matogrossense.
+
+Com um [[futebol]] forte no seu estádio que parece um [[pântano]], as garças (como são conhecidos os jogadores do Barrão) saltitam o jogo todo atrás da bola, lamentando não poder jogar o [[campeonato goiano]].
+
+Em [[2001]] o Barra do Garças desembolsou 8 milhões de pesos bolivianos para contratar o [[Biro-Biro]], a lenda, que atuou como [[técnico]] durante os campeonatos daquele ano. Biro-biro mobilizou todo o estado de [[Mato Grosso]], que contava com a experiência do craque para conseguir fazer o Barra pelo menos empatar com os poderosos Mixto, Chessburger, Operário e Pedreiros, tradicionais equipes da capital...mas o Barra falhou miseravelmente...
+
+O objetivo do time é vir a se tornar uma referência no esporte do Centro-Oeste, e consegue esse objetivo com sucesso, porque o Centro-oeste só tem time ruim mesmo, o Barra do Garças é considerado sexto melhor time do Centro-Oeste.
+Tem como mascote, bem sujestivo por um time matogrossense (goiano), o "galinho da serra".
+
+== Títulos ==
+
+* Campeão da Série C, seletiva da Região Norte e Centro Oeste de 2003.
+* Série D da Copa da Floresta de 1999.
+* Torneio Pantanão 2001.
+
+{{Campeonato Mato-grossense}}
+
+[[Categoria:Times de futebol do Mato Grosso]]

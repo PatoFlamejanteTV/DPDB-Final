@@ -1,0 +1,75 @@
+{{nota:|"CTR" redireciona para esse artigo, se está procurando pelo CTR de segunda, consulte [[Crash Team Rumble]].}}
+{{game}}
+
+{{Infobox Game
+|title     = Time de Corrida do [[Crack]]
+|image     = Capa Crash CTR.png
+|caption   = Capa do jogo
+|developer = [[Naughty Dog|Cachorrão Studios]]
+|publisher = Sony Computer Entertainment
+|released  = 1999
+|genre     = Corrida
+|rating    = [[Mais de 8 Mil]]
+|platform  = [[PlayStation]], [[PlayStation Portable]], [[PlayStation 3]] e [[PlayStation Vita]]
+|ages      = 10+
+}}
+
+{{C|É sensacional essa corrida!|Galvão Bueno|Crash Tem Racing}}
+{{C|Vou destruir todos vocês!|N. Oxide |para quem joga esse jogo}}
+{{c|Hoje sim! Hoje sim! Hoje não... Hoje não...|Cleber Machado|Neo Cortex perdendo pro Crash na última curva}} 
+
+'''Crash Team Racing''' é um joguinho de corrida da série [[Crash Bandicoot|Cráshi]] que foi criado pela Cachorrão Studios e publicado pela Sony para o PS1 com o intuito de colocar o marsupial laranja no mercado de jogos de corrida com apelação para ser mais um mascote <s>fracassado</s> a competir com os jogos copia-cola da série [[Mario Kart]].
+
+O jogo era o plano final da [[Naughty Dog|Cão Safado]] para acabar de vez com a franquia Crash, que já estava dando dor de cabeça para os seus criadores, e tiveram uma ideia mirabolante, de fazer um jogo de corrida com apelações o mais genérico o possível para fazer o fã <s>desocupado</s> do marsupial laranja desistir de vez e se mudar para qualquer outro jogo, mas o plano acabou saindo pela culatra, já que o jogo em si contou com gráficos fodásticos para a época e com uma jogabilidade decente, o que fez vender <s>míseras 15 unidades</s> quase 2 milhões de cópias segundo as vozes na minha cabeça.
+
+Pelo medo da [[Activision]] em ter que enfrentar vários hackers em [[CTRNF|Nitro-Fueled]], isso fez que o Crash Team Racing original se tornasse uma relíquia na fanbase do marsupial e por ter suporte ao [[PC]], além de receber alguns mods (embora poucos), por incrível que pareça, esse jogo tem vários viciados que jogam em modos online <s>falsificados</s> e off-line, virando uma espécie de [[Super Mario 64]] do Crash.
+==Um resumo rápido para definir essa porra==
+[[Arquivo: Chpolarctrintro.jpg|thumb|left|Um bom corredor tem que ler antes de pilotar.]]
+
+Como dito antes, a história desse jogo foi a mais genérica possível, ou seja, o Crash Team Racing é o aluno que pegou o dever de [[Diddy Kong Racing|outro aluno]] e que mudou pouca coisa para não parecer igual. Tudo começa quando um alienígena chamado [[Nitros Oxide]] resolve invadir o planeta Terra, isso porque ele queria um autografo do [[Felipe Massa]], que era seu ídolo e sua inspiração para se tornar o campeão de Gasmoxia, mas o cara não quis dar, pois os seguranças acharam que Oxide estava doente pela sua pele verde, e com isso, o impediram de realizar o seu sonho.
+
+Depois desse ocorrido, o alienígena ficou puto da vida e ameaçou destruir o planeta Terra, mas teve uma ideia mais ou menos pior, transformá-la em um <s>puteiro</s> estacionamento e mudar a franquia Crash para competir fortemente com o Mario Kart com jogos copia e cola de corrida. Com isso, Oxide deu alguns dias para que houvesse um campeão da Terra para que disputasse uma corrida contra o mesmo em sua nave espacial.
+
+O caos tomou contra do planeta e foi criada a panelinha entre os quatro melhores corredores naquele momento, [[Ripper Roo]], [[Papu Papu]], [[Komodo Joe]] e [[Pinstripe Potoroo]], com o próprio Pinstripe ganhando facilmente dos outros três e começou a achar que ninguém o derrotaria, assim como os outros membros de sua panelinha especial de corredores. É aí que começa o modo história e é o simples, ganhe corridas e complete tudo o que tiver no mapa.
+
+Depois do personagem escolhido pelo jogador conseguir derrotar todo mundo, Pinstripe sairá do cu do mundo para desafiar o jogador em sua pista aérea, e depois de humilhar o [[furry|fursona]] do [[Bolsonaro|Salnorabo]], Oxide desafiará o mesmo para a tão esperada corrida. Oxide como um verdadeiro chefão trapaceia no início da corrida e começa a tacar qualquer coisa para atrapalhar, sendo caixas de TNT, poções, caixas voadoras de nitro, bombas e [[tua mãe]], mas nem com tamanho desespero o alienígena consegue vencer.
+
+Oxide dá uma de mal perdedor e resolve colocar um segundo porém na história, dando a desculpa esfarrapada que faltaria relíquias para o jogador passar mais tempo jogando esse jogo de corrida, e depois de derrotar Oxide pela segunda vez, o alienígena resolve sair de vez do planeta antes que pedisse música no [[Fantástico]], assim acabando essa história clichê que mais parece uma versão de segunda de [[Diddy Kong Racing]].
+==Classes==
+[[Arquivo:CrashPegador.jpg|220px|thumb|Grande prêmio que Crash ganhou após derrotar N. Oxide.]]
+*'''Intermediate/Balanceado''' (Crash, Cortex, Fake Crash, Komodo Joe, Oxide<ref name="hac">Hackeando o jogo.</ref>): A classe que não fede, nem cheira, é aquela que qualquer youtuber que mal conheça o jogo irá escolher pelo fato de ter os personagens principais nela.
+*'''Intermediate/Aceleração''' (Coco, N. Gin, Pinstripe): É uma das classes preferidas pelos speedrunners, já que é considerada a segunda melhor no jogo e que ajuda em pistas mais lentas do jogo com várias curvas.
+*'''Advanced/Velocidade''' (Tiny, Dingodile, Papu Papu, N. Tropy): A classe mais rápida do jogo e consequentemente mais apelona entre elas em 95% das pistas deste jogo. Os carros costumam ser rápidos, porém péssimos em pistas com várias curvas, por isso é um dos preferidos entre os speedrunners.
+*'''Beginner/Curva''' (Polar, Pura, Ripper Roo, Penta Penguin<ref name="nt">Versão NTSC-U.</ref>): A classe que quase ninguém escolhe pelo fato de justamente serem as piores neste jogo, os únicos que escolhem são as gurias retardadas pelo fato dos personagens mais fofos estarem nelas (isso quando não escolhem a Coco) e pessoas que querem zerar o jogo no modo mais hardcore o possível.
+*'''Intermediate/Apelação''' (Penta Penguin<ref name="pal">Versão PAL e NTSC-J.</ref>): Personagem feito para os jogadores noobs, que possui stats perfeitos.
+==Os personagens==
+*'''[[Crash Bandicoot]]''': Comedor de gatinhas, o cara está de volta para arrebentar, será que ele consegue derrotar o vilão? É o personagem que qualquer um que esteja jogando pela primeira vez ou que esteja experimentando o jogo irá escolher pelo fato de ser o protagonista.
+*'''[[Neo Cortex]]''': Filho do Doutor Roberto, o doutor veio participar da corrida e derrotar o Crash. É apenas escolhido por aqueles que estão apenas testando o personagem.
+*'''[[Coco Bandicoot]]''': Putinha do Crash, ela ajudou o seu irmão a construir o carromóvel, mas também ela quis participar da corrida para ganhar o grande prêmio. Considerada a mais lerda. É geralmente escolhida por [[punheteiro]]s querendo ver algum ângulo especial dela ou por speedrunners.
+*'''[[N. Gin]]''': Um robô inútil que é escravo do Cortex, ele quis também participar dessa corrida. O personagem em sí é tão inútil que apenas os speedrunners o usam.
+*'''[[Tiny Tiger]]''': Discípulo de Tyler, conhecido como esmagador, tudo que vê esmaga. Tinha tudo para ser querido pelos speedrunners do jogo, mas a maioria prefere o Dingodile por Tiny ser alto demais e mais atrapalhar do que ajudar.
+*'''[[Dingodile]]''': Um jacaré do Brasil que veio para mostrar que o Brasil manda nas corridas, porém sofreu lavagem cerebral na [[Austrália]] e se naturalizou australiano. Virou queridinho dos speedrunners pelo fato do Tiny ser grande demais e tapar metade da tela do jogo.
+*'''[[Polar]]''': Mascote do Crash, ele é inútil e encheu o saco para ter um carro de corrida. É um dos mais inúteis do jogo, só é usado por profissionais querendo humilhar noobs na corrida.
+*'''[[Pura]]''': Mesma coisa do Polar.
+*'''[[Penta Penguin]]''': Conhecido também como Picolino, ele é kawaii. É o personagem mais oito ou oitenta do jogo, na versão PAL se trata do personagem mais apelão do jogo, enquanto nas outras versões é só um personagem qualquer que consegue via trapaças.
+*'''[[Fake Crash]]''': Como nome já diz, ele é um dos fãs que resolveu imitar o seu ídolo. É o único personagem neste jogo que não se consegue via trapaças.
+*'''[[Nefarious Tropy]]''': Um cara doido que adora se vestir de relojoeiro, acha que é o Pai do Tempo. Neste jogo se consegue via trapaças, mas no remake costuma ser bem apelão.
+*'''[[Garotas do Troféu]]''': São conhecidas como as Brasileirinhas do Jogo, gostosas e todas são comíveis para o Crash. No remake, as próprias de demitem no cargo e resolvem correr junto com os outros.
+===Chefões===
+[[Arquivo: ImagesCAV2OY8I.jpg|thumb|right|Corrida do século.]]
+*'''[[Ripper Roo]]''': Um doido, viciado nas drogas, pode ser conhecido também como o cão das drogas.
+*'''[[Papu-Papu]]''': Índio gorducho que pesa 200kg, conhecido também como Senhor Arrotão.
+*'''[[Komodo Joe]]''': Trabalhou na Pizzaria e agora resolveu se esconder em uma mina abandonada.
+*'''[[Pinstripe Potoroo]]''': Depois de se cansar de cornear o Crash dando uns pegas na [[Tawna Bandicoot|Tawna]], Pinstripe virou líder da máfia, ele era o coronel, pois o verdadeiro líder mesmo era o Al-Capone, depois que o seu mestre morreu, Pinstripe se tornou líder da panelinha de chefões do jogo, tudo isso para perder em sua própria pista aérea.
+*'''[[Nitros Oxide]]''': O chefão do jogo, ele manda em tudo e seus capangas tem medo dele, atualmente foi parar em um hospital após ser humilhado no planeta Terra.
+{{ref-section}}
+==Recepção==
+Como o jogo deu muito certo e mesmo com sua história tosca que viria a ser copiada em [[Crash Nitro Kart]] com leves alterações e enfim se tornando uma das sete maravilhas dos jogos de corrida com apelações, a equipe da Naughty Dog resolveu simplesmente pular da barca, ou seja, desistir de vez da franquia e passar a responsabilidade para outra empresa para tentar recriar o sucesso dos primeiros jogos com o marsupial laranja, assim criando a era Traveller's Tales e também criando a versão dos [[genwunners]] de Crash Bandicoot, as viúvas da [[Naughty Dog]].
+
+{{Crash Bandicoot}}
+{{Game Racing}}
+
+[[Categoria:Jogos lançados em 1999]]
+[[Categoria:Jogos da Naughty Dog]]
+[[Categoria:Jogos da Sony Computer Entertainment]]
+[[Categoria:Jogos para PlayStation]]

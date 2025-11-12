@@ -1,0 +1,36 @@
+{{game}}
+{{Infobox Game
+|title     = King of Fighters Rated 2
+|image     = King of Fighters R-2 cover.jpg
+|caption   = Capa do jogo
+|developer = [[SNK]]
+|publisher = [[SNK]]
+|released  = [[1999]]
+|genre     = Nem dá pra saber o que é esse jogo
+|rating    = 1/100
+|platform  = [[PC da Xuxa]], [[Neo Geo Pocket Color]]
+|ages      = Inapropriado para pessoas normais
+}}
+
+'''King of Fighters R-2''' é a versão relativamente mais conhecida do [[King of Fighters R-1]], um "jogo" exclusivo do [[Neo Geo Pocket Color|Game Boy Color da SNK]], portátil que ninguém teve e que faz desse jogo algo completamente desconhecido.
+
+== Desenvolvimento ==
+
+Em 1998 a SNK cometeu o erro de lançar [[King of Fighters R-1]] no mesmo ano em que lançaram [[Pokémon Red & Blue]] para um portátil infinitas vezes melhor e mais variado. Após a imensa surra de pau mole que a SNK tomou ao vender 17 cópias contra as 30.000.000 de cópias vendidas de Pokémon, os criadores de The King of Fighters aprenderam com os erros e extinguiram o [[Neo Geo Pocket]] após apenas 2 meses de lançamento, relançando-o como [[Neo Geo Pocket Color]]. Obviamente que em 2 meses ninguém aprende uma tecnologia nova e muito menos consegue criar um jogo bom para tal "tecnologia nova", sendo que na prática o que eles realmente fizeram foram introduzir as cores [[vermelho]], [[azul]] e [[verde]], só isso.
+
+Então em 1999, para concorrer contra o [[Pokémon Gold & Silver]] do [[Game Boy Color]], foi lançado o King of Fighters R-2, que foi tão fracassado que a SNK nunca mais lançou qualquer jogo de luta pra portátil.
+
+== Jogabilidade ==
+
+[[Arquivo:King of Fighters R-2.png|thumb|left|Só um KOF de pobre colorido no Paint.]]
+
+Na prática continua meramente sendo a porcaria que o King of Fighters R-1 foi, com a única diferença de estar "colorido" e nada além disso, com um terço dos personagens pintados de vermelho, um terço pintado de azul e um terço pintado de verde.
+
+É então tipo um The King of Fighters de pobre só que num portátil de rico (que ninguém comprou) onde controlaremos um personagem chibi da série em lutas que lembram fases do [[Game & Watch]] só que colorizado por uma criança no [[Paint]].
+
+{{The King of Fighters}}
+
+[[Categoria:Jogos lançados em 1999]]
+[[Categoria:Jogos da SNK]]
+[[Categoria:Jogos para Neo Geo Pocket Color]]
+[[Categoria:Jogos de luta]]

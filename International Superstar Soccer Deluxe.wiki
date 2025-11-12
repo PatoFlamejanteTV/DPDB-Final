@@ -1,0 +1,59 @@
+<choose><option>
+{{logotipo_falso|Konamipedia.png}}</option><option>{{logotipo_falso|Konamipedia2.png}}</option></choose>
+
+{{Games}}
+
+{{Infobox Game
+|title     = Super [[Estrela]] Internacional do [[Futebol]] "DeLuxo"
+|image     = FightingEleven2.jpg
+|caption   = Carrinho!
+|developer = [[Konami|Konmai]]
+|publisher = [[Konami|Konmai]]
+|released  = [[1995]]
+|genre     = {{SPT}}
+|rating    = 0%
+|platform  = [[SNES]], [[Mega Drive|Merda Drive]], [[DOGMA]] [[PlayStation|PolyStation]]
+|ages      = Livre
+}}
+
+[[Arquivo:ISSDeluxeRestricoesOrcamentarias.png|thumb|left|200px|{{PAGENAME}} com sérias restrições orçamentárias]]
+
+{{c|Cla! Cla! Cla! Cla! Hooooooooooooo! International Superstar Soccer Deluxe!|Narrador americano Irmão Narrador fanho|International Superstar Soccer Deluxe}}
+
+{{c|Isto sim que é um jogo "de luxo"|Você|{{PAGENAME}}}}
+
+{{c|Winning Eleven ? É porcaria perto disto aqui|Dono do polystation|{{PAGENAME}}}}
+
+Depois de Ronaldinho '98...Depois dos International Super Star Soccer... Aparece o explêndido '''International Super Star Soccer Deluxe''', o jogo mais falsificado de todos os tempos, existindo pelo menos umas 500 versões desse jogo com os mais diversos times editados e capas com todo tipo de mulher seminua.
+
+== Introdução ==
+
+[[Arquivo:Isssd password.jpg|thumb|left|Olha o tamanho do [[password]] dessa joça, e que merda de símbolos são esses? [[Coração]]? [[Pi]]? [[Música|Nota musical]]? E por que diabos não tem a letra [[AAAAAA|A]]?]]
+
+
+Tal jogo lançado apenas para a plataforma Polystation foi o grande impulsionador, ou melhor, o ''pont-pé-inicial'' para carreira de grandes astros do futebol: [[Allejo]], Beranco, Cícero e Ferreira, o zagueiro que menos tocava na bola dentre todos os jogadores.
+
+Ferreira, além de péssimo jogador ainda pensava ser o melhor por tocar na bola 3 vezes e fazer 18 gols contra na final da copa do mundo de quadribol. O jogo foi salvo por Allejo que marcou seu gol de número 1.000.000.000.000.000.000.000.000.000.000 como jogador de quadribol, ou quadrado mágico como chamado na imprensa esportiva brasileira.
+
+Existiam outros grandes craques, principalmente no Brasil, tínhamos a disposição o ETERNO ponta esquerda Janco Tianno, que fez mais gols que Pelé, Romário e Túlio Maravilha antes de chegar aos 12 anos de idade. Dizem que Janco Tianno foi um dos 3 jogadores que conseguiram driblar Michel Salgado, Puyol, De Jong, Materazzi e Domingos sem receber um Super Slidehellkick, ou coisa pior, os outros 2 foram Allejo e Rico Salamar.
+
+A propósito, perto de Allejo, Rico Salamar, Janco Tianno e Beranco era apenas coadjuvantes, já que o craque da camisa 10, fazia coisas que Messi, Ronaldinho Gaúcho, e esses "CRAQUES" de hoje, nem sonham em reproduzir em campo, como por exemplo, aplicar duas carretilhas seguidas em cima de um mesmo adversário, ou aplicar uma carretilha no goleiro, e logo em seguida arrematar com uma bela pucheta (para os mais novos uma bicicleta), ou, se o adversário fosse a Argentina, bater um pênalti de propósito no travessão, para que no rebote já esteja preparado para mandar um bicicleta no canto do goleiro, só para humilhar os "HERMANOS".
+
+== Jogadores ==
+
+[[Arquivo:Allejo bicicleta.png|thumb|right|Allejo, o maior goleador da seleção brasileira em jogos contra a [[Argentina]]]]
+A falta de um contrato de pagamento dos direitos autorais para os nomes do jogadores fez com que a criatividade dos projetistas do jogo fosse utilizada. Todo o investimento do jogo foi para a criação de nomes de jogadores que tivessem relação mais realística com o país da respectiva seleção. Desta forma, a definição de nomes de jogadores, como o famoso "Allejo" do Brasil, mostram o conhecimento dos desenvolvedores do jogo quanto a nomes tipicamente brasileiros.
+
+== Hacks ==
+*[[Ronaldinho Soccer 98']] (Além de ter Ronaldinho no nome, o "Cla, Cla, Cla, Cla" é com fotos piratas do Ronaldo.)
+*[[Futebol Brasileiro 96']] ("Cla, Cla, Cla, Cla, Futbol Brasileño Noventa ''y'' sieis." Jogo "traduzido" para o português da [[Espanha]].)
+
+{{break}}
+{{Pro Evolution Soccer}}
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos de esportes]]
+[[Categoria:Jogos lançados em 1995]]

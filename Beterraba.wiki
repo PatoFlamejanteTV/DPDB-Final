@@ -1,0 +1,50 @@
+{{vegetal}}
+
+{{taxocaixa
+| nome           = Beterraba
+| cor            = #00FF7F
+| imagem         = super_beterraba.gif
+| imagem_legenda = Chegou a '''Super Beterraba'''! (Mais uma tentativa em vão de fazer as criancinhas comerem beterraba).
+| reino          = [[Plantae|Plantinhas]]
+| superdivisão   = [[Spermatophyta|Plantas com esperma]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Eudicotidae|Eudissecotia]]
+| ordem          = [[Caryophyllales|Caridadephyllales]]
+| família        = [[Amaranthaceae|Amaramtio1.jpgcea]]
+| gênero         = [[Beta (gênero)|Besta]]
+| espécie        = '''[[Beterraba]]'''
+| binomial       = Besta vulgar
+}}
+{{C|Morte às beterrabas!|[[Pernambuco|Pernambucanos]]|beterraba}}
+{{C|[[Oficina G3|Não queeeeroo!!]]|Criancinha fazendo pirraça para não ingerir essa aberração roxa}}
+{{C|Faz bem para a pele-[[L|ele]].|Ruth Lemos|Beterraba}}
+
+'''Beterraba''', as vezes chamada de '''beterraba-sacarina''' para ficar mais chique, é uma raiz nutritiva rica em ferro e glicose de origem americana, contrabandeada no Brasil, atualmente.
+
+==História==
+Através de [[Fezes|registros fósseis]], descobriu-se que a beterraba surgiu no período Neolítico e era usado na agricultura primitiva da época. Depois, foi utilizado pelos índios americanos como <s>maquiagem</s> pintura roxa nas guerras (que, segundo eles, simbolizava o sangue do ancião) entre as tribos inimigas, que se assustavam com a vermelhidão intensa da planta.
+
+==Funções da beterraba==
+
+[[Arquivo:Emfoco-nutricao-06.jpg|thumb|left|Beterraba e sua panelinha, acelga e repolho, [[Narrador da Sessão da Tarde|prontos para aprontar altas confusões]].]]
+
+As beterrabas são muito úteis na sua vida. Algumas de suas funções:
+
+*Entretenimento garantido, pois pode ser usada como pião de pobre;
+*Laxante natural;
+*Deixar o seu coco vermelho;
+*Deixar o seu vômito (que você fará após comer a beterraba) vermelho;
+*Diminuir sua pressão arterial (a não ser que você coloque sal na beterraba);
+*[[Método Anticoncepcional|Inibir a fecundação]] (morte do óvulo por envenenamento).
+
+==Tipos de beterraba==
+Existem duas espécies predominantes de beterraba, que são distinguidas pelas colorações: roxa e branca;
+
+*'''Roxa:''' É a beterraba ''comum'', que [[sua mãe]] lhe obriga a comer, que você dá para o cachorro escondido dela.
+
+*'''Branca:''' É dela que se extrai o açúcar, geralmente utilizado pelos americanos para enfrentar o comércio de açúcar brasileiro que provém da cana-de-açúcar para causar um desequilíbrio no comércio dos republicanos e, consequentemente, uma revolução que não é lá muito importante para as nossas vidas. Ela também serve como combustível improvisado.
+
+{{Vegetais}}
+
+[[Categoria:Beta]]
+[[Categoria:Espécies vegetais]]

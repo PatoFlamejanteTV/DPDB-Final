@@ -1,0 +1,60 @@
+<choose><option>{{voador}}</option> 
+<option>{{ave}}</option> </choose>
+
+
+{{PokéBox
+| imagem = 016Pidgey.png
+| frase = Pidgey é aquele típico [[pokémon]] que qualquer otário consegue capturar.
+| nihongo = ポッポ
+| romaji = Poppo<s>são</s>
+| tamanho = 200
+| pokedex = 016
+| tipo1 = Normal
+| tipo2 = Flying
+| habilidade1 = Ser onipresente em todos matos
+| habilidade3 = Proliferar doenças
+| espécie = pardal de quintal
+| cadeia evolutiva = [[Arquivo:PidgeySprite.gif|link=Pidgey|Pidgey]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:PidgeottoSprite.gif|link=Pidgeotto|Pidgeotto]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:PidgeotSprite.gif|link=Pidgeot|Pidgeot]]
+}}
+
+{{pokedex}}
+{{cgoogle|Pidgay}}
+{{c|Pegue o Pidgey, pegue o Pidgey, pegue o Pidgey agora!!|Dick Vigarista|Pidgey}}
+{{c|E uma galinha virtual!!|pesquisador idiota|Pidgey}}
+
+{{c|Aee, finalmente capturei um pokémon!!|Noob|Pidgey}}
+
+[[Arquivo:PidgeySprite.gif|left]]'''Pidgey''' é o [[pokémon]] #16 da primeira geração. Um pombo colorido e nada mais, que qualquer um captura. Por ser tão sem gracinha, sem sal, comum e desinteressante, foi escolhido para ser um dos primeiros pokémons que o [[Ash]] capturaria, para a [[ironia|sorte]] do Pidgey (pelo menos virou um pokémon famosinho cobiçado por qualquer [[noob]] que não sabe jogar).
+
+==Características==
+[[Arquivo:14650316 892755824193233 2380381890758012642 n.jpg|thumb|left|Pidgey é o pioneiro da [[Pokémon pássaro regional|máfia dos passarinhos]] dos jogos.]]
+Pidgey é um pokémon do tipo normal e voador, pelo fato de não ter nada de especial em sua composição além de asas, em suma é um bicho tosco. Alguns Pidgeys têm o bico roxo, mas esse é o único detalhe um pouco mais estranho nesse pokémon, considerado um dos mais Fortes dentre os normais. Se um Pidgey for pintado de branco e colocado em meio a uma revoada de um mestre, nunca mais será achado no meio das aves, já que é tudo igual. É ou foi o primeiro pokémon voador de 99,9% dos treinadores de pokémon, mas sempre acaba descartado na primeira oportunidade.
+
+Pegar um Pidgey é algo tão fácil que seria muita burrice precisar de uma seção para falar sobre métodos de captura desse pokémon, mas nunca se sabe a inteligência de uns e outros treinadores. O primeiro passo é receber um dos três pokémons iniciais disponíveis, ou um [[Pikachu]] se não houver essa opção, e sair da sua cidade (que obrigatoriamente deve estar situada no fim do mundo) em direção ao primeiro matinho que [[você]] encontrar. Depois disso é só esperar até passar um Pidgey, que pode ser facilmente pego por qualquer pokémon, por mais fraco e inútil que este seja, e se for um Pikachu, ainda tem a fraqueza contra elétricos a seu favor, então tem que ser muito idiota para perder, mas vai saber esses [[noob]]s de hoje em dia. Dizem que o único ser que não consegue capturar nem um Pidgey é o [[Dick Vigarista]], que continua até hoje tentando pegar o seu, em vão.
+
+[[Arquivo:Pidgey2.jpg|left|160px|thumb|Um Pidgey encontrado na natureza.]]
+
+Depois de pegar o Pidgey, a questão é encontrar uma serventia para ele. Isso é fácil no início de sua jornada rumo à [[Elite dos Quatro]], por pura e simples falta de opção mesmo, já que não tem muita variedade no começo, então você terá de usar esse Pidgey durante um bom tempo. Ele serve muito bem para coisas como poupar o pokémon inicial de combates no matinho, procurar outros pokémons toscos nesse mesmo mato, ou seja, tarefas simples que poderiam ser feitas até pelo próprio treinador com as próprias mãos. Não espere grandes coisas de um pokémon que só saberá dar bicadinhas e assoprar nos inimigos, com a força de uma criança assoprando uma vela de [[Aniversário de Criança|aniversário]]. Por essas e outras, Pidgeys costumam durar no grupo apenas até o seu querido treinador pegar um voador melhorzinho, que não seja normal/voador de preferência, exceto se o Pidgey conseguir evoluir, mas isso também não é garantia de estabilidade, uma vez que [[Pidgeotto]] também não presta para muito mais coisas.
+
+==Curiosidades==
+
+Sabia que...
+
+*Todos os jogadores de Pokémon começam o jogo procurando por um Pidgey?
+
+*E esse Pidgey fica até acharem outro voador?
+
+*Qualquer voador consegue ser mais útil do que um Pidgey?
+
+==Veja Também==
+
+[[Pidgeotto]]
+
+[[Doduo]]
+
+[[Spearow]]
+
+{{poke1}}
+[[Categoria:Pássaros]]
+[[it:Pidgey]]
+[[es:Pidgey]]

@@ -1,0 +1,35 @@
+{{computeiro}}
+[[Arquivo:Nerdsolitario.png|thumb|300px|Um ''pentester'' profissional, em seu escritório]]
+O '''teste de intrusão''', conhecido também como '''teste de penetração''' ou '''''pentest''''' é a técnica de exploração de falhas de [[Segurança da informação|segurança]] numa rede. 
+
+O teste por vezes é erroneamente confundido com aquele que acontece no ''backstage'' do [[Brasileirinhas]] e apesar desse nome jocoso e sexualmente conotativo, aqui nesse artigo não se cairá na armadilha de fazer piadas com penetração, pênis ou qualquer coisa relacionado a forma como nascem os bebês<!-- cara, retardei aqui...-->!
+
+== Como funciona ==
+O teste de intrusão nada mais é que um test drive de invasão numa rede, com a diferença que o penetrador da rede ainda ganha para se divertir tentando furar o queijo suíço que é a rede de uma empresa. Uma das formas mais interessantes de teste de penetração é pegar um usuário comum e bloquear o [[Facebook]], [[WhatsApp|''Zap zap'']] e [[Tinder]] na rede a ser testada. Ver-se-á que não existe nada seguro quando se tem um usuário ocioso querendo matar o tempo. Até vulnerabilidades nunca antes encontradas em qualquer lugar do mundo serão exploradas pelos usuários médios com curso básico de Office 98 e de digitação.
+
+[[Arquivo:pentester de facebook 1.png|thumb|left|250px|Note como que testadores de penetração parecem ser ''profiçionaus'' mesmo estando fora de serviço.]]
+Existem duas formas de testes de intrusão: o profissional e o baratinho. O profissional é realizado por profissionais (ai meu coração, essa informação foi muito inesperada). O baratinho é realizado por gente de outras áreas de atuação profissional que pensam que sabem mexer com [[tecnologia da informação]], por exemplo, o sobrinho-neto fodinha na informática (popular "rásquer", segundo o próprio), aquele sabe até formatar computador, ''baixar e gravar'' CDs de música, e também por angolanos de grupos de tecnologia do Facebook<!--pode ter soado privado, mas vocês tem que ver esses caras...-->. 
+
+Porém, tanto no ''pentest'' profissional quanto no amador baratinho o objetivo é foder licitamente a rede do cliente, diferindo "apenas" no tempo que leva pra ser feito e também na qualidade de serviço. Um sobrinho irá instalar o ''cali'', perguntar ''how do'' no Clube do Hardware, Mundo dos Hackers, pesquisar no Tecmundo, ler matérias do Olhar Digital, treina invasão no [[Damn Vulnerable Linux]] para finalmente rodar um ''script'' conforme um ''"eae galerinha do iutube"'' indicar. No fim, o infeliz vai ver a porta 80 e a 443 aberta e vai dar por satisfeito. Enquanto isso, o profissional cobra um rim e quinhentos pilas pra executar o serviço, mas se encontrar uma configuração infeliz <s>e não for um completo mão de vaca</s> vai indicar os erros e como fazer os reparos.
+
+Mesmo nos testes de intrusão profissionais, os testadores não são mais que usuários avançados de computador, que por usar um sistema operacional pronto para teste de intrusão, como o [[Kali Linux|Kali]], saber alguns comandos do nmap e rodar alguns uns ''scripts'' disponíveis na internet, se acham o suprassumo da computaria, isso fazendo coisa que até minha mãe perneta com os olhos fechados e vendo algum videotutorial no youtube conseguiria fazer.
+
+== Tipos ==
+[[Arquivo:Penetração em rede.jpg|thumb|300px|Esse profissional levou muito a sério o termo "penetração em rede"]]
+Existem dois tipos de penetração, o anal e o vaginal! Foda-se que foi dito que não haveria piada sexual no artigo, eu menti! [[Huehuehue|Aqui é Brasil, porra!]] Agora quanto ao teste de intrusão, também são dois tipos, caixa preta e caixa branca.
+
+No teste de caixa preta, há uma negritude no ''pentester''. Ele não conhece nada da infraestrutura da rede, e tentará destruir a rede da melhor forma possível, ou seja, sendo um usuário novo na rede, por exemplo, um empregado novo na empresa. Pra ficar bem real, até salário ele ganha, e todos os aplicativos de jogos e comunicação serão bloqueados, para ser um autêntico [[emprego]] comum. 
+
+No teste de caixa branca, o penetrador conhece bem a rede e suas estruturas físicas, lógicas e fisiológicas. Nesse caso, o testador de intrusão precisa entrar na pele de um usuário com uns cinco anos de casa, para simular um expediente comum, com bastante ócio acumulado durante os anos de trabalho, com um chefe bem cuzão.
+
+== Conclusão ==
+
+Já que a porta 443 das piadas sexuais de penetração foi aberta, resta dizer que para um teste e penetração ser eficiente, o ''pentester'' precisa ter feito muitas penetrações de rede na vida, e ter feito poucas penetrações sexuais na cama. O poder de um penetração de rede é inversamente proporcional ao número de penetrações sexuais, assim, o melhor ''pentester'' será o mais [[Virgem|virjão]] possível. Ao mesmo tempo, um ''pentester'' precisa ser o mais discreto possível, ninguém sai cantando que trabalha fazendo testes de rede para o [[Departament of Defense|Departamento de Defesa]] americano aos quatro cantos da internet.
+
+== Ver também == 
+
+*''[[Cookie]]''
+*''[[Sniffing]]''
+*''[[TCP Dump]]''
+
+[[Categoria:Segurança da informação]]

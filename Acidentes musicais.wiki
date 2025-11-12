@@ -1,0 +1,39 @@
+{{DISPLAYTITLE:Acidentes Musicais}}
+{{Teoria musical}}<br />
+[[Arquivo:Pauta4.PNG|thumb|350px|Uma pauta com uma armadura de clave da escala de Lá maior.]]
+{{C|Sim, mas o termo acidentes assume um termo metafórico...|[[Professor Pasquale]]| acidentes musicais}}
+{{C|Tudo por minha culpa!!!|[[Bach]]|os acidentes serem chamados assim}}
+{{C|'''Hã?'''|[[Beethoven]]|acidentes musicais}}
+{{C|Nunca vi!|[[Ray Charles]]|acidentes musicais}}
+{{C|Nem eu!|Stevie Wonder|acidentes musicais}}
+{{C|Acidente? Nossa, quantos morreram?|[[Carla Perez]]|acidentes musicais}}
+{{C|77% das mortes no Brasil são causadas por acidentes musicais, sendo 76% dentro dos transportes públicos!|[[IBGE]]|acidentes musicais}}
+
+
+Os '''Acidentes Musicais''' são, ao contrário do que se pensa, alterações que ocorrem nas notas de uma [[partitura]]. Ganharam esse nome quando [[Bach]], enquanto escrevia o seu Minueto n° 3, trocou um Fá Natural por um Fá Sustenido, o que causou um grave ''acidente'' na execução da obra. Embora [[Bach]] tenha arrumado a partitura, o nome ''acidente'' persistiu, já que muitos [[músico]]s ainda erram as execuções por causa delas.
+
+== Os acidentes ==
+
+Existem três tipos de <s>desastres</s> acidentes: Bemol, Sustenido e Bequadro. A combinação deles forma: Dobrado Bemol, Dobrado Sustenido e a Armadura de Clave.
+
+=== Bemol ===
+
+O '''Bemol''' ('''b''') abaixa o valor de uma nota em um ''[[semitom]]'', ou seja, a nota é tocada um pouco mais grossa do que se fosse tocada sem o bemol. Quando se abaixa uma nota um ''[[tom]]'',  utiliza-se o '''Dobrado Bemol''' ('''bb'''). Para entender o que é usar o bemol em uma nota, boceje: ao bocejar, você engrossa a sua voz. 
+
+=== Sustenido ===
+
+O '''Sustenido''' (jogo da velha ou '''#''') faz o contrário do Bemol, ou seja, aumenta o valor de uma nota em um ''[[semitom]]'', que significa que a nota será tocada mais fina. Quando se aumenta em um ''[[tom]]'' a nota, utiliza-se o '''Dobrado Sustenido''' ('''X'''). Para entender o sustenido, martele o seu dedão da mão esquerda com um martelo ''(de preferência bem sobre a unha)''. O som que você produzirá gritando será muito mais agudo que a sua voz original e você até poderá produzir uns bemóis enquanto suspira.
+
+=== Bequadro ===
+
+O '''bequadro''' anula todos os outros acidentes (seria o ''[[zero]]'' da multiplicação). Ele é o salvador dos músicos quando estes, durante a leitura da [[partitura]], percebem que um sustenido ou um bemol necessitaria de uma combinação de notas que, naquele momento, ele não poderia fazer nem se tivesse [[quatro]] braços ou três pulmões (no caso dos instrumentos de assoprar). Um bequadro na nota <s>mata</s> anula todos os outros acidentes. Você pode colocar quantos bemóis ou sustenidos quiser, se houver um bequadro, a nota é tocada ao natural ''(literalmente)''.
+
+=== Armadura de Clave ===
+
+A armadura de clave é <s>usada em batalhas</s> um acidente colocado no início do pentagrama (não aquele do [[Satã|capiroto]]) ''(vulgas linhas)'' e que indica em que escala a música é tocada. Também serve para separar a clave das notas de forma mais eficiente, além de limpar a partitura (imagine ter que colocar um sustenido em todos os ''rés'' de uma partitura). Na linha ou espaço de nota em que o bemol ou o sustenido for colocado, alterará essa nota em toda a música (salvo onde indicado, é [[Capitão Óbvio|óbvio]]).
+
+== Ver também ==
+
+*[[Partitura]]
+*[[Pauta]]
+{{Partitura}}

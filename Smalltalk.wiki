@@ -1,0 +1,42 @@
+{{imagem}}
+
+{{c|Sim, Deus também é um objeto, da classe dos Deuses, porém Singleton|PG|Smalltalk}}
+{{c|Ó PAI Nefável!|Inri Cristo|Smalltalk.}}
+{{c|PAI!|[[Java]], [[Python]], [[Ruby]], etc|Smalltalk.}}
+{{c|Agora cês vão ver o que é linguagem de verdade!|Maníaco do Parque|Smalltalk}}
+{{c|A [[Smalltalk]], your missing|[[Angra]]|[[Smalltalk]]}}
+{{c|A gloriosa linguagem [[Smalltalk]]|[[Prof. Glauber]]|[[Smalltalk]]}}
+
+== Definição ==
+'''Smalltalk''' é uma linguagem de programação orientada à objetos, na verdade ela criou todos os objetos do mundo e antes dela não haviam objetos. 
+Permeada de livros velhos (e PDFs de [[Hipster|Hipsters]] sem nada pra fazer]), hoje Smalltalk não pode mais ser aprendido e se tornou um mito.
+Sem ela hoje não haveriam [[Ruby]], [[Linguagem Python|Python]], [[Java (linguagem de programação)|Java]], [[Padrões de projeto]], etc... e todos seriam felizes.
+
+== História ==
+Advindo da idade da pedra, onde o criador dessa linguagem estava tentando criar a roda sem querer criou o Smalltalk. Ela faz uso intesivo de interface gráfica e foi criado antes da interface gráfica e antes do fogo. Segundo alguns, esse foi o motivo de sua falta de sucesso. 
+
+Smalltalk ao longo dos anos teve uma rápida não adoção por parte de todos, o que contribuiu pra sua promoção de "linguagem dos astros".
+
+== Sucesso ==
+Não, essa linguagem não teve sucesso.
+(Só na XEROX, tá explicado...)
+
+== PURAMENTE Orientada a Objetos ==
+
+É uma linguagem puramente orientada a objetos (a única). Mais que [[Java]]. Sim, isso é possível!
+
+"+" é um método das Magnitudes (superclasse dos inteiros)  ;)
+
+"new" é um método-de-classe (=estático*) da classe Object. Por isso todo mundo pode fazer "new"  ;)
+
+ * estático não significa "algo parado"? Nomezinho estranho que inventaram, hein?
+
+Apesar de ter suporte até pra bancos de dados, webservices e DirectX, pra fazer jogos 3D maneiros, por algum motivo ninguém usa.
+
+== Por Quem é Usada ==
+Essa linguagem não é usada por ninguém, bom na verdade ela tem uma ampla penetração nas camadas mais radicais de [[Islamismo|fanatismo religioso]] pós [[Apocalipse|apocalíptico]].
+{{Linguagens de Programação}}
+
+
+[[de:Smalltalk]]
+[[en:Small Talk]]

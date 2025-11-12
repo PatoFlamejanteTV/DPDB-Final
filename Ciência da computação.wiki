@@ -1,0 +1,481 @@
+
+{{ciencia}}
+
+
+[[Arquivo:fotualgoritimu.jpg|thumb|right|360px|[[Algoritmo]] para resolução de seus problemas.]]
+
+{{fato|que expected primary-expression before ')' token }}
+
+[[Arquivo:SenhaCuriosa.jpg|thumb|right|300px|Motivo pelo qual garotas gostosas não fazem ciência da computação]]
+
+
+[[Arquivo:Prova arquitetura computadores.jpg|thumb|A prova mais fácil de arquitetura de computadores já feita. Estimulam-se que 20% dos NERDS conseguiram nota superior a 4]]
+
+{{Compactar|
+{{Você quis dizer|Depósito de [[Nerd]]s?}}
+{{Você quis dizer|Sem Mulheres?}}
+{{Você quis dizer|Engenharia da computação versão Beta}}
+{{c|Por que temos Cálculo?|Calouro da Ciência da computação|Ciência da Computação}}
+{{c|Vocês não sabem o quanto Cálculo é importante|Professor de Cálculo|o fato de ninguém explicar aos alunos a necessidade do Cálculo}}
+{{c|Technologic, Technologic...|Daft Punk|Ciência da Computação}}
+{{c|Fica tranquilo, meu querido! Essa faculdade é fácil, fácil.|[[Almir]], [[Pretinho Básico]]|Ciência da Computação}}
+{{c|Dave, I'm afraid...|[[Hal 9000]] sobre Ciência da Computação}}
+{{c|Vamos fazer joguinhos hoje professora?|Você|Ciência da Computação}}
+{{c|Onde estão as mulheres?|Aluno ao entrar em sua sala do curso}}
+{{c|Pra que mulheres? Já temos um monte de PCs fodaços!|Nerd|a indagação acima}}
+{{c|A Ciência da Computação nasceu para resolver os problemas que não existiriam se não fosse o computador.|Filósofo|Ciência da Computação}}
+{{c|Se eu fosse eu mesmo, me mataria agora!|Aluno|automâtos não-determinísticos}}
+{{c|Existe vida após a Computação?|Aluno|Ciência da Computação}}
+{{c|Eu ainda dou um jeito de tirar o cheat que colocaram no [[Counter-Strike|CS]] do laboratório!|Aluno|atividades em laboratório}}
+{{c|Não entre em pânico!|O Guia do Mochileiro das Galáxias|Ciência da Computação}}
+{{c|Se não passar agora não tem problema, todo semestre tem Física|Professor de Física|Didática}}
+{{c|Se eu te pegar jogando de novo eu deleto seu login|Estagiário do laboratório de informática|Aluno de Ciência da Computação}}
+{{c|Esse curso não vai ser divertido e vocês não aprenderão a fazer jogos e muito menos robôs.|Professor no primeiro dia de aula|Ciência da Computação}}
+{{c|Parabéns, vocês me venceram 3894236473 vezes|Morte|Alunos formados}}
+{{c|Na [[Holanda]], o computador se programa sozinho, não precisa de '''VOCÊ'''!!''|Reversão Holandesa|Ciência da Computação}}
+{{c|Vamos fazer um Espaço Cartesiano de 4D!|Professor de Matemática para turma da Computação no primeiro dia de aula}}
+{{c|Professor: Tem como não colocar hexadecimal na prova?|Aluno da Computação durante aula de Arquitetura de Computadores}}
+{{c|Por que não aprendemos o que conseguimos aprender?|Aluno da Computação durante aula de Cota Assintótica Superior}}
+{{c|Eles somente possuem dois sabores.|Professor sobre Nós Binários}}
+{{c|Precisa ser tão formal?|Aluno durante aula de Linguagens Formais}}
+{{c|Tudo está pronto, só que ela ainda não existe.|Professor sobre Computação Quântica}}
+{{c|Este problema é um NP-Completo.|Aluno da Ciência da Computação sobre [[Namorada|Namoro]]}}
+{{c|O uni-duni-tê do processador.|Professor de Sistemas Operacionais sobre Escalonamento de Processos}}
+{{c|Você está mesmo preparado para conhecer uma Thread?|Professor de Sistemas Operacionais sobre Threads}}
+{{c|Um processo é finalizado quando se desliga o estabilizador.|Aluno de Sistemas Operacionais sobre Vida de Processos}}
+{{c|Penso, logo, não sei.|Aluno da Computação durante aula de Lógica}}
+{{c|A ordem dos odores influencia no cheiro final.|Professor de Sistemas Operacionais sobre Semáforos Contadores Produtores-Consumidores}}
+{{c|Segmentation fault|Resultado obtido após 10 anos de pesquisa}}
+{{c|Couldn't find package girlfriend|Cientista da computação instalando namorada via apt-get}}
+{{c|Quem [[Pirata|pirateia]] um [[CD]] do [[Belo]]?|Professor de Redes em aula de [[P2P]]}}
+{{c|Detectar [[câncer]] de [[próstata]] sem exame de toque|Professor de [[Inteligência Artificial]] explicando aplicações em IA}}
+{{c|Sair para buscar uma cerveja pode ser considerado um processo de I/O?|Aluno da Ciẽncia da Computação em aula de Sistemas Operacionais}}
+}}
+
+
+'''Ciência da Computação''' é uma [[ciência]] que envolve coisas como calcular o tempo que leva para arrastar um ícone de um lugar para outro empurrando o mouse a uma certa velocidade. Depois de pesquisas intensivas, cientistas da computação chegaram até a seguinte fórmula:
+
+<br /><center><math>\left[\frac{movimento}{massa} \bullet 3 \bullet\ velocidade do mouse \ direcionamento = tempo \right]</math></center><br />
+
+A fórmula acima é o teorema fundamental da Ciência da Computação. Ela é a base para todas as outras descobertas desta ciência. Mas além deste teorema, a Ciência da Computação estuda também os seguintes assuntos:
+
+== O início ==
+
+[[Arquivo:Fatguy-1-.jpg|thumb|Um futuro aluno do curso de Ciência da Computação que finalmente encontrará algo para descarregar a sua [[nerd]]ice.]]
+O aluno de Ciência da Computação é aquele [[nerd]] tosco do colégio que fica o dia inteiro falando sobre [[videogame]]s e ninguém dava ideia porque ele era estranho, tinha umas olheiras enormes e uma estranha predileção por não tomar [[banho]] e não está nem aí pra roupas e penteado. Nunca falou com nenhuma [[mulher]] da sala, e fica todo orgulhoso quando vê que alguém sabe o seu nome. Tem uma predileção por gastar seu tempo entre-aulas no laboratório de computação lendo sobre coisas inúteis ou editando a Desciclopédia, fato confirmado pela extensão deste artigo comparado aos artigos de outros cursos acadêmicos. Basicamente uma vida de futilidades.
+
+Quando tem 17 anos, [[sua mãe]] (a dele, não a [[tua mãe|tua]], imbecil) o levava no barbeiro, isso se ele for do sexo masculino, já que para cada 10 homens existem 5 rapazes no curso.
+
+Então o jovem e audacioso [[nerd]] fedorento entra para a [[faculdade]] (achando que vai virar [[hacker]]) e começa a [[filosofia|filosofar]] sobre tudo e todos na vida. Porque ele entendeu o contexto histórico-científico-anárquico-anal da [[matemática]] quando pegou o livro do Anton de Cálculo 1 na biblioteca. E ele entendeu o mundo, e tudo fazia sentido. Todas as humilhações passadas não significavam nada, porque agora ele entendia e tinha finalmente encontrado o sentido da vida......... até a primeira prova de Cálculo, porque quando o nosso herói [[nerd]] a fez, se sentiu o cara mais [[burro]] de todos. Ele invariavelmente se fudeu.
+
+{{c|É uma [[cilada]], Bino!!!|Pedro|quando o Bino ia se matricular no curso}}
+{{c|Olhe para o seu colega ao lado e diga: Só um de nós passará de ano|Professor de Estatística| os alunos}}
+{{c|Quando vamos aprender a fazer jogos e robôs?|Aluno iludido| Ciência da Computação}}
+
+=== Trote de Ciência da computação ===
+
+[[Arquivo:NerdsTitle.jpg|thumb|Trote dos computeiros, sempre regado a muito refrigerante e música clássica.]]
+[[Arquivo:TroteComputacao.jpg|thumb|O trote de computação é sempre feito com brincadeiras sadías e inocentes.]]
+O trote de Ciência da Computação sempre é o pior da Universidade. Sempre os calouros mais nerds sofrem mais no trote.
+
+{{c|Certa vez tive que usar Hipoglós para me livrar das assaduras referentes aos cuecões!|Calouro|Ciência da Computação}}
+
+== Divisão e estatísticas do curso ==
+[[Arquivo:THEBAG01.JPG|thumb|Típico estudante de computação.]]
+*91% de homens muito nerds
+*69% de homens [[nerd tetudo|nerds tetudos]]
+*8% de homens nerds
+*6% de homens gênios nerds
+*2,95% de homens engenheiros frustrados
+*0,03% de homens matemáticos e físicos
+*0,001% de mulheres
+*0,00001% de [[Noob Baranga|noobs baranga]]s
+*0,0000000001% de mulheres comestíveis
+*Churrascos por ano: 0,002
+*Solteiros: 97%
+*Virgens: 113%
+*Sofredores de [[Lesão por esforço repetitivo|LER]] por <s>[[punheta]]</s> digitação: 97,2%
+
+== Grade do curso ==
+
+[[Arquivo:Foto.jpg|thumb|right|Primeiro encontro de Alienados da Computação que nunca passaram em nenhum dos 27 Cálculos.]]
+[[Arquivo:Nerd-46422.jpg|thumb|15 horas do dia de um estudante de computação resume-se a isso.]]
+
+Os professores do curso partem do pressuposto de que os alunos não têm mais nada para fazer a não ser estudar sua matéria. Geralmente, o objetivo principal deles é convencer o aluno de que ele deve estudar bastante para conseguir ganhar, no final do curso, a oportunidade de realizar uma jornada de trabalho de 15h por dia, com um [[Japão|japonês]] inconveniente ao lado, sendo o trabalho um estágio não remunerado no laboratório da instituição.
+
+{{c|Estuda que é fácil. Isto é matéria de primário!|[[Professora de Cálculo|Professor de Cálculo]] dando falsas esperanças ao aluno alguns meses antes de reprová-lo.}}
+
+O curso basicamente divide-se em três tipos de cadeiras principais: as de programação, as de banco de dados e as de projeto de sistemas, o resto serve apenas para encher [[linguiça]], já que serão totalmente inúteis no mercado de trabalho. Passar nessas cadeiras colando não é nenhuma vergonha, aliás, é até uma esperteza, pelo menos não  fica perdendo tempo estudando algo que será inútil na sua vida.
+
+Agora vamos, de maneira geral, mostrar alguns conceitos estudados por um futuro Bacharel em Ciência da Computação, ou seja, um nada.
+
+=== Álgebra Linear ===
+Tire pelo menos 8 na primeira prova ou você se fudeu, pois logo após a revisão para mongolóides de matrizes e determinantes começa o cálculo de base e subespaço vetorial, ângulo entre matrizes e etc. Diz a lenda que quem queima um beck consegue entender tudo ali, mas como o corpo discente é bastante <s>idiota</s> conservador isto nunca pode ser provado.
+
+=== Aulas práticas de laboratório ===
+Curso completamente teórico. Não há. E você pensando que ia ficar no laboratório todas as aulas aprendendo protocolos de segurança e programação para internet avançada. Pega o livro de C e se vira.
+
+=== Cálculo 1, 2, 3, 4, 5, 6, 13, 24, Cálculo Renal e Cálculo Anal ===
+Em mesma quantidade vem a [[Análise Numérica]] e a [[Física]] e seus laboratórios com experiências e relatórios que mais parecem um campo de concentração.
+Muitos dizem que Cálculo não serve pra nada, mas é muito útil: Calculo 1 serve para Calculo 2, Calculo 2 serve para Calculo 3, e assim por diante.
+
+=== Geometria Analítica ===
+É onde os professores despertam o aluno para imaginarem alem da 2ª dimensão para resolverem seus problemas. 
+Mal sabem eles que os alunos estão imaginando em uma loira gostosa que eles nunca vão pegar ou no RPG favorito depois da aula com os amigos NERDS. A matéria serve também pra você fazer Cálculo 2.
+
+=== Estatística ===
+Cadeira que só terá alguma utilidade na sua vida se você for desenvolver um software pro [[IBGE]].
+
+=== Estrutura de Dados ===
+
+[[Arquivo:DonutArray.jpg|thumb|Exemplificação de um Array Circular em Estruturas de Dados]]
+A matéria que, se você não programa em [[C]], [[C++]] e [[Assembly]] há pelo menos 15 anos, não vai passar, a não ser decorando ou colando. A inicialização da disciplina sempre começa com tipos de estruturas, como arrays circulares e distribuição de donuts durante a aula, exemplificação da matéria.
+
+=== Física 1, 2, 3, 4, 5, 6, 13, 24 ===
+Matéria do cão, com professores do cão, ensinada na maior esculhambação pelo Departamento de Física que é o cão, pois os docentes deste vivem numa guerra contra o Departamento de Ciência da Computação para descobrir quem é o mais retardado mental. Os laboratórios são experiências inúteis que geral copia os relatórios ano a ano, desde os relatórios originais de Isaac Newton quando ele era graduando.
+
+=== Inglês Instrumental ===
+Aula pra todos os computeiros ficarem putos pra caralho, se fudendo na faculdade enquanto a galerinha do beck (humanas) só vadia e faz sexo nos corredores da faculdade.
+
+=== Introdução à Álgebra e Lógica ===
+Se você acha que sabe o que significa desespero, reveja seus conceitos. Aqui você verá de onde saem todas as fórmulas e terá que prová-las. O objetivo principal do curso é se livrar disso e do Cálculo o mais rápido possível.
+
+=== Introdução a Programação ===
+Talvez a cadeira preferida do nerd calouro, ele se achará fodão quando fizer o seu primeiro programa de somar 2 números inteiros e se achará mais fodão ainda quando aprender os laços repetitivos for-while e conseguir fazer o "efeito matrix" na tela do DOS chamando todos os seus amigos NERDS para ver.
+
+=== Fundamentos e tecnologia da computação ===
+
+Poucos chegaram aqui, somente aqueles que já conseguem conectar um cabo VGA no cérebro ou a galera que estudou por 16 horas seguidas e tomou pau pelo menos em 40% das matérias acima ainda sobrevivem ao curso. Inocentes calouros acham que o curso facilita depois da formação básica. Aqueles que tem certeza disso certamente desistirão do curso.
+
+=== Projeto e Análise de Algoritmos ===
+É onde se aprende a calcular complexidade de algoritmos com fórmulas completamente obscuras. No final sempre rola um trabalho pra ajudar a galera, mas ninguém consegue fazer o trabalho.
+
+=== Arquitetura de Computadores ===
+É a disciplina favorita dos Engenheiros Elétricos frustados que optaram por Ciência da Computação já que Engenharia Elétrica dá tanto dinheiro quanto vender gelo no Polo Norte. Nesta disciplina o aluno irá aprender sobre a arquitetura de uma placa mão que ninguém usa, ou irá usar. O professor, normalmente um Engenheiro Elétrico frustrado leciona aquilo como se fosse a coisa mais importante do curso, pois para ele se você não aprender não será um verdadeiro cientista da computação.
+
+{{c|Esta arquitetura RISC PX29312 é muito utilizada, portanto irei cobrar na prova|Professor de Arquitetura de Computadores|conhecimento do cenário atual de [[hardware]]}}
+
+=== Arquitetura de Computadores 2 ===
+Geralmente disciplina opcional para aqueles que se masturbam entrando em sites como tomshardware.com. É aonde se vê que Arquitetura 1 foi brincadeira de criança. Você aprenderá como funciona o pano de retalhos Intel, saber como funciona um pipeline e saber o algoritmo de Tomasulo. No final da disciplina se aprende o mais importante, como Deus faz funcionar um processador. Aulas de fé e macumba também são inclusas para acreditar que aquilo funciona.
+
+=== Cálculo Numérico ===
+Uma versão do Cálculo voltada para a computação. É a matéria onde <s>aprendemos</s> uma porrada de teorias e métodos que não cabem no quadro e para no final do semestre decorar todos os tipos de fórmulas possíveis e aplicar numa prova de 4 horas no mínimo. Atenção: No dia da prova leve mochila grande, comida, uma barraca, 3 computadores e 7 calculadoras Casio(caso alguma delas pegue fogo no meio do cálculo de um sistema linear de 100x100).
+
+=== [[Compilador]]es ===
+Também chamada de ''"complicadores"'', cadeira onde o nerd deverá desenvolver um compilador que seja pelo menos 9 vezes melhor que o [[Visual Studio]] -- sem muito esforço ele consegue algo melhor. A diferença é que pelo menos a galera da [[Microsoft]] ganha uma grana pra fazer isso, enquanto o aluno do curso ganhará 0,5 ponto e uma chuva de críticas do [[professor]] só porque o compilador não encontrou um ponto de exclamação em alguma parte do código ou, quando encontrou, não deveria ter encontrado.
+É aqui que vemos marmanjos chorarem e pedirem pra morrer.
+
+=== Computação Gráfica ===
+Cadeira onde o nerd acha que vai sair criando um [[GTA]] ou um [[Winning Eleven]] da noite pro dia, no decorrer da cadeira ele descobre que levará séculos para conseguir entender a lógica e conseguir programar uma elipse na tela.
+
+=== Grafos ===
+<s>Gráficos</s> Grafos é a disciplina que nos mostra 90% do tempo problemas impossíveis ou difíceis pra caralho de resolverem. Funciona como uma <s>masturbação</s> destruição mental. Se o professor pede implementação, você codifica e no outro dia vê que o programa ficou tão complicado que nem você mesmo entende. Se estiver errado, não há Pressman que resolva usando reengenharia e essas viadagens de código. Tem várias utilidades, uma delas é para quando você quiser ver a menor quantidade de barbante para ligar a sua casa com a casa da sua tia, da sua vó e do seu cunhado para falarem ao telefone com 4 latas de milho verde nas extremidades.
+
+=== [[Programação Orientada a Gambiarras|Desorientação a Objetos]] ===
+Cadeira que diz que tudo que você tinha aprendido sobre programação não serve para nada e que [[Java (linguagem de programação)|Java]] contém classes que criam qualquer coisa no universo, o nerd passa a sentir momentos de nostalgia voltando aos primórdios tempos de calouro tendo que aprender a programar tudo de novo. Sair da programação estrutural de dados para orientação a objetos é como enfiar uma azeitona no ânus e depois um abacaxi.
+
+=== Banco de dados ===
+
+[[Arquivo:Manga banco de dados.jpg|thumb|Sim, só em computação que você acha guias científicos em formato [[mangá]].]]
+Cadeira onde você tenta aprender a mexer nos fodões [[SQL Server]], [[Oracle]] ou [[DB2]], mas o máximo que consegue é fazer uma gambiarra podre no [[Microsoft Access|Access]]. Aprende fazer uns modelos ER que dão nó na sua cabeça e que sempre estarão errados.
+
+Aprende a utilizar a semântica da linguagem de consulta SQL (na verdade você só saberá fazer o manjado ''SELECT * FROM Tabela'') e permuta entre tabelas (Inner Join, Outer Join, Left Join, Right Join, Fuck Join, etc.). No final aprenderá a gerenciar processos e integridade dos dados utilizando sequências de comando nada complicadas de Undo -> Redo -> Undo -> Undo -> Redo -> Undo -> Redo -> Redo -> Undo -> Undo -> Redo -> Redo -> Undo -> Undo -> Redo -> Undo -> Redo -> Redo -> Undo -> Undo -> Redo -> Undo -> Undo -> Redo -> Redo.
+
+=== Linguagens Formais e <s>Anônimos</s> Autômatos ===
+Você aprende a fazer alfabeto, mexer de novo num bagulho que é o primo pobre da temida [[Máquina de Turing]]. Faz-se a matéria com desgosto, e na hora do Compilador deve-se aprender novamente um período inteiro em 1 semana para montar a sua linguagem.
+
+Ainda não é conhecido o ser humano que conseguiu entender o funcionamento da [[Máquina de Turing]].
+
+=== Programação Linear ===
+Versão avançada do Cálculo Numérico, aonde você deve decorar como se faz o simplex tableau pra tentar passar.
+
+=== Sistemas Operacionais ===
+[[Arquivo:ChavesBalao.jpg|thumb|Chaves e seu grande trabalho durante o Doutorado sobre Produtor-Consumidor]]
+Cadeira onde o aluno aprende o quão tosco é o Windows e irá descobrir todas as ligações demoníacas atrás da [[tela azul da morte]], provavelmente os programadores da Microsoft passaram nela colando dos programadores de Linux. Durante a disciplina, muitos livros são consultados, principalmente o livro do Chaves e suas aplicações na Ciência da Computação. Chaves, o melhor cientista de sua época, tomou como sua segunda teoria de computação um pequeno relato de sua vida. Em sua teoria, Seu Madruga solicitou a ele que estourasse todos os balões que Kiko comprava. Temos Kiko como produtor de informação e Chaves o consumidor; é criada a nova teoria de produtor-consumidor. Chaves também criou a teoria da [[#Recursividade|Recursividade]].
+
+[[Arquivo:Alma_Negra.jpg|thumb|Chapolin instanciando semáforos]]
+Outra teoria que Chaves descreve em seu livro é a utilização de semáforos. O capítulo também demonstra com fatos reais a aplicação deste grande estudo. Para isto, o autor solicitou ao seu amigo Chapolin a exibição, quando em perigo junto com Piratas, e enfrentou Alma Negra. Ambos estavam tomando vinho e Alma Negra envenena um dos copos. Para despistá-lo, Chapolin pede para que Alma Negra olhe para trás enquanto troca os copos de lugar. Caso não existisse um semáforo naquele momento, Alma Negra iria ver a troca. Um ótimo exemplo de aplicação.
+
+=== [[Inteligência Artificial]] ===
+Envolve métodos utilizados para deixar computadores estúpidos o bastante para parecer humanos e tomar decisões pífias.
+
+=== Burrice Artificial ===
+Envolve métodos utilizados para dar a computadores um comportamento o mais próximo possível ao de [[Carla Perez]].
+
+=== Redes Aneurais ===
+É o método de fazer o computador simular o neurônio humano. Mas como o neurônio humano nunca funciona, o do computador também não.
+
+=== Cadeiras teóricas ===
+Quase no fim do curso, disciplinas como Análise, Projeto de Sistemas, Multimídia e [[Engenharia de Software]] dão o descanso merecido aos alunos uma vez que são aulas tão intrigantes que o aluno irá, invariavelmente, descansar em sonos profundos.
+
+=== Biocomputação ===
+Uma grande área de estudos atuais é a biocomputação, responsável pela cultura e desenvolvimento de seres microscópicos durante as aulas de arquitetura de computadores. Partindo de um modelo simples estudado, é possível inserir uma nanoinstrução em células de jackalopes americanos para que estes assumam seu modo de baixo nível. Podemos citar a instrução abaixo:
+
+    diff(plus(A,B), X, plus(DA, DB))
+       <= diff(A, X, DA) and diff(B, X, DB).
+    diff(times(A,B), X, plus(times(A, DB), times(DA, B)))
+       <= diff(A, X, DA) and diff(B, X, DB).
+    equal(X, X).
+    diff(X, X, 1).
+    diff(Y, X, 0) <= not equal(Y, X).
+    ? diff( plus(times(x, x), times(3,x)), x, Dx).
+
+Este trecho é responsável pela transformação das células dos animais supracitados em seres macrófagos, mais conhecidos atualmente como Garbage Collectors do Java.
+
+=== Mercadologia ===
+
+[[Arquivo:Gordinho nightwish.jpg|thumb|Alguns computeiros também costumam ser emos nerd metallers.]]
+
+Normalmente, está alocada nos períodos finais do curso em que aluno já está com a massa encefálica supersaturada e irá engolir qualquer coisa, mesmo. Compreende disciplinas que o Nerd pouco pode entender, pois irá lhe dar com teorias que visam "'''relação interpessoal'''" -- repito—relação interpessoal, a qual o semi-bacharel em Ciência da Computação tem pavor.
+
+As disciplinas podem ser, normalmente, encontradas com os seguintes nomes: ''[[Engenharia de Software]]'', Empreendedorismo ou Gestão de Projetos. Estas disciplinas tentam explicar a importância do ''Networking'', mas o aluno fica com aquela questão: "''Seria Network Frame Relay ou ATM ?''".
+
+Professores empostados e engravatados dão o tom da aula com aquelas frases de efeito dignas de ''Headhunters'': "Vocês não provêm ''[[software]]'' ao cliente, mas sim ''[[POG|soluções]]''", "O gestor é aquele que delega e, por isto, não se encontra Gestor em qualquer esquina como [[Programador]]es." Neste momento, aqueles alunos que demoraram [[3]] anos para vencer as disciplinas de Algoritmos/Programação pulam pelas janelas da sala ou no pescoço engravatado do professor.
+
+=== [[TCC]] ===
+
+No fim do curso quando o pobre diabo pensa {{aspas|Agora eu formo, eu mereço isso}} vem o [[TCC|Trabalho de Diplomação]] ''(aka. TD)'' também conhecido como Trabalho do [[Demônio]]. Neste, o aluno deve mostrar todos os seus conhecimentos agrupando-os em um único trabalho que forneça algo inédito para a Ciência da Computação. O resultado normalmente é {{aspas|Segmentation Fault (Brain dumped)}}
+
+== LaTeX ==
+
+É uma das disciplinas que não existem oficialmente na Ciência da Computação, mas que estão na grade de algum jeito, pois ou você aprende, ou seu professor ''metódico-pragmático-mala-sem-rodinhas'' fará aquela cara feia quando você for entregar o trabalho feito no [[Microsoft Word|Word]]. Não se preocupe, a curva de aprendizagem do LaTeX é suave, principalmente se você desistir no início.
+
+<center>{{aspas|Porque até o texto dos trabalhos nós temos que programar ?}}</center>
+
+== Loops Infinitos ==
+
+Entenda sobre loops infinitos consultando '''Loops sem Fim''' abaixo.
+
+=== Recursividade ===
+
+[[Arquivo:Churro da Florinda.jpg|thumb|Chaves foi um dos primeiros programadores a aplicar a teoria de recursividade]]
+[[Arquivo:Garotacega.jpg|thumb|O sonho de consumo de qualquer nerd de ciência de computação]]
+[[Recursividade]] é um campo da ciência da computação que estuda coisas recursivas. Coisas recursivas são todas aquelas que apresentam recursividade. Recursividade é um campo da ciência da computação que estuda coisas recursivas. Coisas recursivas são todas aquelas que apresentam recursividade. Recursividade é um campo da ciência da computação que estuda coisas recursivas. Coisas recursivas são todas aquelas que apresentam recursividade. Recursividade é um campo da ciência da computação que estuda coisas recursivas. Coisas recursivas são todas aquelas que apresentam recursividade. Recursividade é um campo da ciência da computação que estuda coisas recursivas. Coisas recursivas são todas aquelas que apresentam recursividade. Recursividade é um campo da ciência da computação que estuda coisas recursivas. Coisas recursivas são todas aquelas que apresentam recursividade. Recursividade é um campo da ciência da computação que estuda coisas recursivas. Coisas recursivas são todas aquelas que apresentam recursividade. Recursividade é um campo da ciência da computação que estuda coisas recursivas. Coisas recursivas são todas aquelas que apresentam recursividade... ''(ad infinitum)''
+
+O primeiro grande professor da teoria da recursividade foi [[El Chavo del Ocho|Chaves]], quando, aplicando sua teoria, conseguiu chamar uma instância de si mesmo para vender todos os [[churros]] da [[Dona Florinda]]. Para isto, o grande cientista da computação mostrou ao vivo, como aplicar a teoria proposta por ele. Muitos fãs o exaltaram e tomaram a iniciativa, e hoje é praticada em universidades do mundo todo. Chaves possui muitas teorias dentro da Ciência da Computação, como seu maravilhoso trabalho com [[#Sistemas Operacionais|Sistemas Operacionais]].
+
+=== Falhas de Segmentação ===
+[[Arquivo:Americana.JPG|thumb|...mas isso será o melhor que ele conseguirá pegar.]]
+
+[[Arquivo:NerdSafado.jpg|thumb|Exemplo de nerd que se deu bem.{{carece de fontes}}]]
+
+Esta é a forma que [[Deus]] utiliza para punir cientistas da computação. Este fenômeno misterioso nunca possui explicação lógica e costuma inutilizar horas de trabalho.
+
+=== [[POG]] (Programação Orientada a Gambiarras) ===
+Envolve a análise de técnicas avançadas de programar. Tão avançadas que você nem vai saber o que está programando.
+
+=== Loops sem Fim ===
+Um campo de estudo da ciência da computação. Para mais detalhes, consulte '''Loops Infinitos''' acima.
+
+== Questões de provas ==
+
+[[Arquivo:Cs lan.jpg|thumb|Um aluno de Ciência da Computação fazendo seu trabalho de laboratório de programação.]]
+AVISOS DO PROFESSOR:
+
+*Eu sei que não vai dar tempo de terminar a prova.
+*Eu vou corrigir a prova do jeito que eu quero, e vou dar a nota que eu quiser.
+*Meu objetivo é reprovar você.
+*Boa prova!
+
+# A NASA planeja construir um programa para controlar todas as funções do cérebro humano. Para isso, contratou um programador (no caso, você) para fazer o programa sozinho em meia hora. Seu algoritmo deve conter uma função recursiva que chame ponteiros implícitos e retorne parâmetros de matrizes encadeadas em listas dinâmicas. Para isso, você deverá criar variáveis estáticas nulas que recebam parâmetros definidos através do método chamado por valor-resultado, apontado pelo ponteiro de controle da entrada encadeada explícita na função principal controlada pela classe auxiliar. Esta classe deve ter campos públicos (caso arquivos de matrizes auxiliares dinâmicas receberem parâmetros inteiros) e privados (caso se usem variáveis ''heap'' para a alocação estática de ponteiros auxiliares). Os métodos deverão ser declarados usando-se caracteres ASCII de 16 bits empilhados em estruturas recursivas sendo do tipo inteiro (para arquivos do tipo ''stack'' binário que recebem listas auxiliares) ou vazio (para classes estruturais duplamente encadeadas alocadas em memórias principais). Também se deverá criar uma interface utilizando matrizes de controles, parâmetros de função, apontadores simétricos estáticos e arquivos paralelos duplamente encadeados em processos recursivos dinâmicos. O programa principal deverá ter somente um botão para o usuário apertar.
+
+RESPOSTA DO ALUNO:
+
+ int main()
+ {
+  printf("Não sei");
+  getch();
+ }
+
+RESPOSTA alternativa a resposta do aluno.
+
+
+int main()
+{
+
+//Não importa o tanto que eu tente, vai dar isto mesmo
+
+printf("segmentation fault\n");
+
+return 0;
+
+}
+
+RESPOSTA CORRETA:
+ #include <stdio.h>
+ main(t,_, a)char *a;{return!0<t?t<3?main(-79,-13, a+main(-87,1-_,
+ main(-86,0, a+1)+a)):1,t<_?main(t+1,_, a):3,main(-94,-27+t, a)&&t==2?_<13?
+ main(2,_+1,"%s %d %d\n"):9:16:t<0?t<-72?main(_,t,
+ "@n'+,#'/*{}w+/w#cdnr/+,{}r/*de}+,/*{*+,/w{%+,/w#q#n+,/#{l,+,/n{n+,/+#n+,/#\
+ ;#q#n+,/+k#;*+,/'r :'d*'3,}{w+K w'K:'+}e#';dq#'l \
+ q#'+d'K#!/+k#;q#'r}eKK#}w'r}eKK{nl]'/#;#q#n'){)#}w'){){nl]'/+#n';d}rw' i;# \
+ ){nl]!/n{n#'; r{#w'r nc{nl]'/#{l,+'K {rw' iK{;[{nl]'/w#q#n'wk nw' \
+ iwk{KK{nl]!/w{%'l##w#' i; :{nl]'/*{q#'ld;r'}{nlwb!/*de}'c \
+ ;;{nl'-{}rw]'/+,}##'*}#nc,',#nw]'/+kd'+e}+;#'rdq#w! nr'/ ') }+}{rl#'{n' ')# \
+ }'+}##(!!/")
+ :t<-50?_==*a?putchar(31[a]):main(-65,_, a+1):main((*a=='/')+t,_, a+1)
+ :0<t?main(2,2,"%s"):*a=='/'||main(0,main(-61,*a,
+ "!ek;dc i@bK'(q)-[w]*%n+r3#l,{}:\nuwloca-O;m .vpbks,fxntdCeghiry"),a+1);}
+
+COMANDO NECESSÁRIO PARA VISUALIZAR A RESPOSTA:
+
+ a=$1;c=$(($a/100));n=$(($a-(19*($a/19))));k=$((($c-17)/25));i=$(($c-($c/4)-(($c-$k)/3)+(19*$n)+15)); 
+ i=$(($i-(30*($i/30))));
+ i=$(($i-(($i/28)*(1-($i/28))*(29/($i+1))*((21-$n)/11))));j=$(($a+($a/4)+$i+2-$c+($c/4)));
+ j=$(($j-(7*$j/7))));l=$(($i-$j));
+ m=$((3+(($l+40)/44)));
+ d=$(($l+28-(31*($m/4))));
+ echo "$d/$m/$a"
+
+{{c|Isto é questão de psicotécnico!|Professor sobre a questão acima.}}
+
+== [[Otaku|Otakice]] ==
+
+Alguns estudantes de Ciência da Computação são verdadeiros apaixonados por coisas como [[truco]], [[Japão]] e [[RPG]], além de jogos estranhos como [[World of Warcraft]], [[Magic: The Gathering|Magic]], [[Tibia]], [[Ragnarok]], [[RoseOn]] e [[Ragnarok]].
+
+== Diretório Acadêmico (D.A) ==
+
+É aqui a ''Lan-House'' particular dos alunos mais <s>vagabundos</s> descansados. Normalmente, contém cerca de meia dúzia de [[computador]]es em estado de sucata e uma impressora que SEMPRE dá pau nos momentos decisivos. É praticamente o segundo lar da maioria dos alunos, para alguns é o primeiro, e será o primeiro por pelo menos 8 anos, tempo médio de formatura de tais [[Burro|seres]].
+
+As [[mulher]]es que dão as caras nestes lugares reagem de duas formas. Ou se tornam machões do tipo [[Rebeca Gusmão]], ou entrarão lá pela primeira e última vez.
+
+Se durante o semestre os <s>jogadores</s> estudantes assíduos tiveram pouco tempo para mostrar as técnicas, no fim do semestre o D.A se enche para os campeonatos. Não importa quem seja o derrotado, pois no fim das contas quem levanta da cadeira e dá lugar a outro é o calouro.
+
+Também é muito comum músicas características do curso, como o [[Funk]] da Complexidade cujo refrão pode ser retirado da ponta da língua do corpo discente: "POG é coisa do passado, a moda agora é O(n²)".
+
+== Como ocorre a Formação de um cientista da computação ==
+
+[[Arquivo:Nerd.JPG|thumb|Finalmente, depois de reprovar Cálculo 86547213 vezes, o nerd consegue se formar virgem......]]
+[[Arquivo:Velho nerd.jpg|thumb|E finalmente depois de trabalhar 15h por dia durante 35 anos o nerd consegue se aposentar......ainda virgem.]]
+
+A existência destas criaturas é o resultado de uma conspiração de alienígenas que desejam conquistar o nosso planeta. Para facilitar o trabalho, eles querem que todos os terráqueos estejam durante o ataque ocupados visitando sites [[pornografia|pornográficos]] no computador. Para isso, eles inseriram em uma série de jogos e de programas de computador mensagens subliminares para fazer com que os terráqueos não saíssem mais da frente deste aparelho diabólico. O problema é que a frequência das mensagens subliminares não foi forte o bastante. Somente indivíduos do sexo masculino e com tendências [[nerd]]s foram afetados. Surgiram assim os primeiros cientistas da computação. Terráqueos infectados pela mensagem alienígena apresentam os seguintes sintomas:
+
+* Escolhem fazer faculdade de Ciência da Computação
+* Ficam o dia todo jogando [[Tibia]], [[Diablo]], [[World of Warcraft]] e outros [[RPG]]s satânicos na frente do computador ou acessando [[pornografia|sites impróprios]].
+* Começam a passar por um processo de nerdização.
+* Tem poucos amigos (amigas nem se fala).
+* São estranhos.
+* Reagem com espanto ao avistarem uma mulher de verdade.
+* Usam óculos.
+* Possuem espinhas.
+* Batem [[punheta]] dezenas de vezes por dia.
+* São viciados em [[café]] e [[Coca-Cola]].
+* Babam.
+* Limpam o nariz na roupa.
+* Andam como o queixo encostado no peito.
+* Levam lancheiras (preparadas pela mãe) para a universidade.
+* Carregam canetas e calculadoras científicas nos bolsos.
+
+== O profissional de computação ==
+
+[[Arquivo:Papel higienico.jpg|thumb|O [[papel higiênico]] é considerado o símbolo da computação, porque o papel dos profissionais da área é limpar as merdas que os usuários fazem.]]
+
+Uma das grandes vantagens do curso de computação é a grande gama de possibilidades variáveis que existe no mercado. Caso o nerd consiga se formar na faculdade não terá problemas em arranjar algo pra fazer além de bater [[punheta]] e jogar [[Tibia]]. Vejamos:
+
+*<s>Não gosta de programar</s> Analista de Sistemas
+*<s>Garoto de Programa</s> Programador
+*<s>Desempregado</s> Freelancer
+*<s>Criminoso</s> <s>Cracker</s> Hacker
+*[[Bill Gates|Bilionário dono de uma megaempresa]]
+*Músico de [[Nerd Metal]]
+*Ficar trancado em laboratórios pesquisando sobre arquitetura de processadores, computação científica etc.
+
+Mas apesar de se ter todas essas variedades de opções mercadológicas o nerd formado não tem motivação nenhuma para trabalhar, já que fica no serviço 15 horas por dia e ganha menos da metade do salário de um engenheiro que estudava na mesma sala de cálculo, e 15 vezes menos que um profissional da área burocrata que só faz bater carimbo e escrever relatórios no [[Microsoft Word|Word]].
+
+{{c|Era pra eu ter feito outra coisa.|Nerd de computação quando vê o contra-cheque do seu salário}}
+
+== Expressões Matemáticas ==
+
+* 1 + 1 == 10
+* 1 + 9 == A
+* const VALID_BRAILE = /^[:.]+$/
+* <math>n = {max}\{n,m\} \rightarrow 1369 * O (n * m) * \Theta (1) = O (n^2)</math>
+* <math>3 \wedge 4 == 0</math>
+* <math>(F \vee 10) \wedge 4 == 0</math>
+
+== Frases Comuns ao Curso ==
+
+*"Existem apenas 10 tipos de pessoas: as que sabem binário e as que não sabem."
+*"Não existe lugar como o 127.0.0.1"
+*"O que o C++ disse para o C? -Você não tem classe!"
+*"Se não fosse o C iriamos programar em Basi, Pasal e Obol."
+*"Férias = POGramar."
+*"Penso, logo, não sei."
+*"Para se plantar uma ótima árvore binária é necessário bordar suas folhas"
+*"Fiz um enqueue numa festa mas ela estava em overflow e quebrei a FIFO"
+*"Um morto muito louco é um Dead Lock"
+*"Utilize o Algoritmo da Avestruz para resolver um Dead Lock"
+*"Algoritmo da Avestruz é aquele que você encontra o erro porém ninguém mais viu"
+*"Um looping infinito é um for-ever"
+
+[[Arquivo:Quadrinho nerd.jpg|frame|center|Programador espertinho em sala de aula. <small>(Só quem faz ciência da computação é capaz de entender isso.)</small>]]
+[[Arquivo:Quadrinho prog versao python.jpg|frame|center|Programador ainda mais espertinho, usando [[Python]] pra resolver seus problemas.]]
+
+== Tautologia ==
+
+Uma das grandes áreas de estudos da Ciência da Computação é a Lógica Proposicional. Uma das Fórmulas Proposicionais mais famosas é a Tautologia, que é sempre verdadeira independente das informações ali apresentadas. Uma Implicação Tautológica é formada por um conjunto de fórmulas que sempre possuem valores verdade verdeiras e resultam em uma única fórmula com valor verdade verdadeiro. A grande implicação que é herdada de todas as outras tautologias existentes no curso é a seguinte:
+
+<br/>
+<center>
+<math>
+{Linguagem}\ \mathcal{A} = \lbrace a,P,S \rbrace
+</math>
+</center>
+<center>
+<math>
+{Estrutura }\ \mathcal{U} = < \mathcal{A} , \mathcal{I} >
+</math>
+</center>
+<center>
+<math>
+\mathcal{I} (a) = \lbrace Eu \rbrace
+</math>
+</center>
+<center>
+<math>
+\mathcal{I} (Px) = \lbrace x\,pensa \rbrace
+</math>
+</center>
+<center>
+<math>
+\mathcal{I} (Sx) = \lbrace x\,sabe \rbrace
+</math>
+</center>
+<center>
+<math>
+\mathcal{U}(\mathcal{P}a \rightarrow \neg \mathcal{S}a) = {Verdadeiro}
+</math>
+</center>
+<br/>
+
+== Ver também ==
+
+* [[Poscomp]]
+*[[Computador]]
+*[[Engenharia da Computação]]
+*[[Tela Azul da Morte]]
+*[[Nerd]]
+*[[Bill Gates]]
+*[[Tibia]]
+*[[POG]]
+
+== Ligações Externas ==
+
+* [http://www.ipcomp.com.br/ludo/certificado.html Certificação de Programação Orientada a Gambiarras]
+
+== Bibliografia ==
+
+* Praticamente resume-se a [[Tanenbaum]], [[Silberschaltz]] e [[Deitel]]
+
+{{Exatas}}
+
+[[Categoria:Ciência da computação]]
+[[Categoria:Ciência]]
+[[Categoria:Informática]]
+
+[[de:Informatik]]
+[[en:Computer Science]]
+[[es:Informática]]
+[[fr:Informatique]]
+[[it:Informatica]]
+[[pl:Informatyka]]

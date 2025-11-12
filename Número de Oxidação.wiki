@@ -1,0 +1,48 @@
+{{Quimica}}
+<br>
+[[Arquivo:Nox1.gif|thumb|200px|Quem disse que isso é fácil?]]
+{{Você quis dizer|Turbo?|Nox}}
+{{c|E o que me interessa isso?|Você|{{PAGENAME}}}}
+{{c|Essa matéria é muito importante, já que é a base das reações de oxidação e redução... blá blá blá...|Professor de [[Química]]|{{PAGENAME}}}}
+{{c|Nunca usei isso...|Soldador sobre o fato de se ensinar Nox durante o conteúdo de eletroquímica}}
+
+O '''Número de Oxidação''', conhecido por '''Nox''', indica o número de elétrons que um átomo ou íon dá ou recebe para ficar estável. Consiste no fato de contar quantas ligações os [[átomo]]s estão fazendo entre si, mesmo que seja necessário se meter no meio da [[suruba]]. Embora pareça simples, esse cálculo pode exigir contas enormes, e até mesmo o uso de calculadoras para a sua realização. Embora pareça que isso não sirva para nada, a Nox é importante para as reações de [[oxirredução]].
+
+== Conceitos importantes sobre Nox ==
+
+*'''Oxidação''': ocorre quando no Nox de um átomo, íon ou radical aumenta, ou seja, quando ele está ''dando'' elétrons. Logo, quem oxida, dá. Portanto, trata-se do [[mulher|praticante passivo da ligação química]];
+
+*'''Redução''': ocorre quando o Nox de um elemento diminui, ou seja, quando ele está recebendo elétrons. Logo, quem reduz, recebe. Portanto, é o [[homem|praticante ativo da ligação química]];
+
+*'''Nox 0 ''(zero)''''': todo o elemento neutro (sozinho, sem estar agarrado com nenhum outro átomo) tem Nox zero;
+
+*'''Total''': o total da soma dos Nox dos átomos de qualquer coisa tem que dar '''zero''', do contrário, [[você]] errou a conta;
+
+*'''Nox do [[oxigênio]]''': em quase todos os casos, o Nox do oxigênio sempre será '''-2''' (menos [[dois]]);
+
+== Exemplo de uso do Nox ==
+[[Arquivo:Oxirreducao.jpg|thumb|200px|Nox calcluado corretamente.]]
+Observemos a seguinte reação entre [[Hidrogênio]] e [[Oxigênio]]:
+
+*'''H<sub>2</sub> + <small>½</small>O<sub>2</sub> -> H<sub>2</sub>O'''
+
+Nessa reação, que resulta em [[água]], tanto o [[hidrogênio]] quanto o [[oxigênio]] tem Nox zero (lembre-se que eles estão <s>solteiros</s> separados no primeiro [[pênis|membro]] da reação. Porém, no segundo [[pênis|membro]], o [[oxigênio]] ficou com Nox -2 e o hidrogênio ficou com Nox +1 (lembre-se que tem [[dois]] [[hidrogênio]]s na molécula).
+
+== Valores de Nox ==
+[[Arquivo:exploding-head.gif|thumb|300px|Pobre pesoa que tentou calcular Nox sem usar calculadora.]]
+Valores de Nox mais comum para alguns compostos:
+
+*[[Oxigênio]] = -2
+*[[Viádio]] = +[[11]], +[[24]]
+*[[Chuck Nórrio]] = -999
+*[[Seiva de Sogra]] = 0
+*[[Tua mãe]] = +80
+*[[Teu pai]] = +2
+*[[Redundântio]]/[[Redundântio]] = = +1, -1, +1, -1
+
+== Ver também ==
+
+*[[Química]];
+*[[Eletroquímica]];
+*[[Oxirredução]];
+[[Categoria:Eletroquímica]]

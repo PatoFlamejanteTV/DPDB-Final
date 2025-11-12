@@ -1,0 +1,44 @@
+{{pokedex}}
+{{lutador}}
+
+{{PokéBox
+| imagem = Pangoro.png
+| frase = Pangoro querendo socar algo.
+| pokedex = 675
+| nihongo = ゴロンダ
+| romaji = {{exp|Goronda|Gorda}}
+| tipo1 = Fighting
+| tipo2 = Dark
+| habilidade1 = Morrer para fadas
+| espécie = [[Kung Fu Panda]]
+| cadeia evolutiva = [[Arquivo:PanchamSprite.gif|link=Pancham|Pancham]] {{seta}} [[Arquivo:PangoroSprite.gif|Pangoro]]
+}}
+
+O '''Pangoro''' é mais uma das inúmeras espécies dos jogos Pokémon, surgindo na sexta geração e possuindo o número #675 na Intermináveldex, onde é um pokémon que possui os tipos UFC e Sombras.
+
+O projeto inicial para este pokémon era para ser um tipo decente, mas com o surgimento do tipo das fadas, que se trata de um tipo absolutamente defeituoso de quebrado por causa do bullying com os tipos considerados fodões, e ainda ajudar o tipo Steel/Aço, essa espécie acaba se tornando [[inútil]] a ponto dos jogadores apenas usar ele nos jogos por gostar de seu design, e só.
+==Design e pokedex==
+Os Pangoro, ao contrário dos [[panda|ursos pandas]] que se veêm no [[ocidente]], que são tratados como animais fofinhos e feitos para [[gurias retardadas]] (embora exista o [[Pancham]] para isso), o Pangoro costuma ser um pokémon que se mete em qualquer tipo de briga, até mesmo com os seus treinadores, já que quase 90% dos pokémons do tipo Lutador possuem poucos neurônios <s>ou até mesmo nenhum</s> em seus [[cérebro]]s. E como de costume de pokémons deste tipo, possui várias exagerações na pokedex, como um soco dele pode destruir algo que seja pesado.
+
+[[Arquivo:Inkay e Pangoro.gif|200px|thumb|left|Pangoro tomando banho de tinta preta de um [[Inkay]].]]
+O Pangoro é um urso-panda que costuma por algum motivo ter uma folha em sua boca em uma tentativa frustrada de parecer fodão para o seu treinador, e para não confundir com um [[urso-polar]] (embora tenha o [[Beartic]]), possui vários detalhes em cor preta, além de uma pseudo-capa que não serve para nada em seu design, apenas para parecer aqueles [[Digimon]] que possuem Bancho no começo de seus nomes e uma garra afiada para nada, já que o Pangoro apenas sirva para dar socos e não queira arranhar nada.
+
+Já em Galar, conseguiu sobreviver o [[Dexit|Massacre da Pokedex]], com alguns raros de Kalos, já que é a região que possui menos pokémons e irá lhe encher o saco várias vezes na Wild Area. Pelo fato do Pangoro não ser a única espécie forte em Galar que seja do tipo Dark, além de conhecer [[Obstagoon|outra espécie das sombras]] que costuma se auto proclamar forte, o [[Obstagoon]], as duas espécies não gostam uma da outra e sai na porrada com ele, além do fato dos Pangoro odiarem qualquer tipo de ruído alto, principalmente músicas [[rock]] ou [[metal]]. Os Pangoro também irão insistir que não possuem nenhuma correlação com outro urso lutador das trevas, o [[Urshifu]].
+==No jogo==
+Como Kalos não possui nenhum líder de ginásio ou [[Elite 4]] que seja do tipo Dark ou Trevas, além do fato dos rivais deste jogo serem tão horríveis que nem vale a pena mencioná-los, o Pangoro não é muito utilizado no jogo. Além disso, o Pangoro também perde a chance de se destacar na sétima geração com Alola e também com Galar, já que o rosqueiro preferiu usar o outro, um dos motivos da possível rivalidade dos Pangoro com os Obstagoon.
+
+Nem os stats deste pokémon o ajudam, já que os tipos fada são comuns em competitivos.
+==No anime e mangá==
+[[Arquivo:Cinderace to be continued.png|250px|thumb|Pangoro segundos antes de levar um chute no saco.]]
+Como o [[Pancham]] da [[Serena (Pokémon)|Serena]] era mais um pokémon "fofinho" que só servia para encher linguiça e não serviu nem para evoluir, não fez muito na temporada XY a não ser ficar bravo em todo episódio que aparece por ser tratado como uma espécie saco de pancadas.
+
+Mesmo que os Pangoro sejam considerados pokémons muito fortes no anime, pela regra atual para equilibrar os pokémons do anime, ou seja, que pokémons ruins tem que ser bons e que pokémons bons tem que ser ruins, os Pangoro são dados para vários treinadores horríveis e [[noob]]s, e por causa deste fato, a espécie do Pangoro só serve para apanhar bonito de Ash e sua turma, ou por alguns figurantes que costumam ser bons em algo. No filme Detetive Pikachu, Pangoro também apareceu, não foi para apanhar desta vez, apenas como um pokémon terciário.
+
+No mangá é quase a mesma coisa do anime, só serve para apanhar mesmo.
+==Ver também==
+*[[Panda]]
+*[[Urshifu]], sua versão lendária que não serve apenas para apanhar.
+
+{{Poke6}}
+
+[[Categoria:Pandas]]

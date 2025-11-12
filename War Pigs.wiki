@@ -1,0 +1,48 @@
+<css> A:background {color:black} A:link { color:darkred;} A:visited {font-weight:bold; color: purple;} A:hover { font-weight:bold; 
+color: purple; text-decoration: underline; } * #content { background: red; } 
+h1 { color: purple; background-color: black !important; } 
+BODY { background: black } 
+div. pBody { background: black } 
+#bodyContent {
+background-color: #000000;color: #FF0000;
+</css>
+{{trevas}}
+{{Descifra|War Pigs}}
+<div style="height: 230px; overflow: auto; padding: 3px; background: black; margin-bottom: 8px; border: 1px solid white; padding: 0.5em 1em 0 1em;">
+{{Experimente|[[The Number of the Beast]]|Google|War Pigs}}
+{{c|A trilha sonora da minha vida|Kratos|War Pigs}}
+{{c|Minha música preferida do [[Black Sabbath]]|Satanista|War Pigs}}
+{{c|Seu cu, a melhor música dos cara é Paranoid|Poser|frase acima}}
+{{c|Eta mininu, abacha esse som|Tua mãe|War Pigs}} 
+{{c|\m/|Metaleiro|este artigo}}
+{{c|Passa pu cima dele|Menina pastora louca|o Black Sabbath|a banda que compôs essa <s>merda</s>música}}
+</div>
+
+'''War Pigs''' é a música mais satânica do '''[[Black Sabbath]]'''. <s>Novidade, todas as músicas desses caras são satânicas.</s>
+
+=={{Cor|Red|Porque ela foi composta?}}==
+[[Arquivo:Pigs war.jpg|thumb|200px|Provável inspiração do Black Sabbath para compor essa música]]
+Em meados da década de 70 ([[1970]] para ser mais exato), o Black Sabbath era só uma bandinha de garagem qualquer. Eles ficavam [[Punheta|tocando]] em bares e cabarés de [[Birmigham]] mas ninguém gostava das <s>merdas</s> músicas dos caras. Eles chegaram até mesmo a cogitar a possibilidade da banda terminar, mas o [[Ozzy Osbourne|exterminador de morcegos]] fumou um [[baseado]] e teve uma ideia brilhante.
+
+=={{Cor|Red|O pacto}}==
+
+Quando tudo parecia estar perdido, eis que surge uma luz no fim do túnel (ou melhor, nas trevas). Apareceu bem na frente dos seus olhos (os olhos da banda, burro) <s>[[Al Paccino]]</s> o próprio capeta! A banda fez um pacto com o mesmo em troca de suas almas. E o [[capeta]] pediu mais uma coisa, que eles compusessem uma música em sua homenagem, ai nasceu '''War Pigs'''.
+
+== {{Cor|Red|War Pigs ao contrário (quase pior que a [[Xuxa]])}} ==
+
+<YouTube>OPmP71xcGVQ</YouTube>
+
+== {{Cor|Red|Ver também}} ==
+
+*[[Black Sabbath]]
+*[[Ozzy Osbourne]]
+*[[Tony Iommi ]]
+*[[Geezer Butler]]
+*[[Iron Man]]
+
+{{BlackSabbath}}
+{{GuitarHero II}}
+
+[[Categoria:Canções de heavy metal]]
+[[Categoria:Canções de Black Sabbath]]
+[[Categoria:Canções de 1970]]

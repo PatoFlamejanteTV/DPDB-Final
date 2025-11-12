@@ -1,0 +1,60 @@
+{{química}}
+{{quântico}}
+[[Arquivo:Números quânticos animação.png|thumb|250px|Vamos começar a aula, aêê...]]
+{{experimente|Números clássicos}}
+{{c|Maior viagem...|Universitário drogado que estuda [[química de coordenação]]|números quânticos.}}
+{{c|Duvido que me encontrem aqui.|Wally se escondendo com os números quânticos do [[cádmio]].}}
+{{c|ATRÁS DELES, BETO!! ME TRAGA ESSES NÚMEROS!! HAHAHAHA!!!|[[Cinderela Baiana|Pierre]]|números quânticos.}}
+
+[[Números quânticos]] são uma gangue de números metódicos fundamentais para a compreensão do comportamento psicológico dos elementos daquela [[tabela periódica dos elementos|tabelinha marota]]. Através da interpretação da [[Bíblia]] e uma pitadinha de centeio <s>[[Zé Jacaré|picapauzinho de fermeio]]</s>, esses números podem prever o consumo de energia elétrica de um elemento, a cor favorita de acordo com o tempo, o humor, a quantidade de gordura intersticial e [[renda per capita]], propriedades fisico-químicas, desastres nucleares e até quando algum programa é baixado com [[Hao123]], além de preparar uma ótima torta de [[monstro|frango com batata-doce]].
+
+==Mais sobre esses camaradinhas==
+Oficialmente, existem quatro números quânticos, todos com [[curriculum Lattes]], certificado Pronatec, visto americano, medalha [[Max Planck]], Ph.D em [[Harvard]], dedão positivo do papi, receita médica pra comprar [[maconha]] medicinal, reserva no chalé suíço do Leôncio e permissão do governo da [[República Democrática do Congo]] para minerar vulcões. Eles são: ''n'', ℓ, ''m'' e S. Os números ''m''<sub><small>ℓ</small></sub> e ''m''<sub><small>S</small></sub> não são oficiais, pois não têm certificado Pronatec, nem [[Leôncio|tenem una reserva]].
+
+===Número quântico principal: <math>n</math>===
+[[Arquivo:Medalha Max Planck.jpg|thumb|150px|left|Medalha Max Planck do número quântico ''n''.]][[Arquivo:Brometo de potássio.jpg|thumb|Pérolas de brometo de potássio. Devem ser uma merda pra salgar linguiça pro churrasco.]]
+Ele é o fodão, o pica das galáxias, o pegador das menininhas... OK, isso foi exagerado... e meio grotesco. Voltando ao assunto, o ''n'' é o principal e mais importante número quântico, pois seu valor define a massa do átomo de [[potássio]]. Anarquista, ele é livre para ter o valor que quiser, desde que ele pertença aos [[números inteiros]], mas geralmente escolhe o valor que representa o número de camadas do átomo [[modelo atômico de Bohr|na visão de Bohr]]. Um exemplo [[mentira|bastante perfumado]] é o bromo, que aprisiona em seu átomo 4 camadas, que como o [[Emílio Surita|caro teliespec]] deve saber, é um nome bundão para níveis de valência. Logo, ''n'' = 4 para o bromo. Isso vale pra todos os elementos do quarto período, representado pela letra N sei lá por que caralhinhos voadores.
+
+Aproveitando algumas paradas do parágrafo anterior com o intuito de [[encher linguiça]], o bromo ataca o potássio <s>[[sexo|pela bunda]]</s>, em uma reação de oxirredução que oxida o <s>[[sexo|cu do]]</s> potássio e reduz o <s>[[sexo|bilau do]]</s> bromo a brometo, formando [[brometo de potássio]]. Além disso, existe uma equação que mostra como a massa do átomo de potássio é calculada. [[Alborghetti|Se você pegar a equação, enfiar no pescoço de um cara e parar do outro lado]], não acontece merda nenhuma. Abaixo desta porcaria de parágrafo, está a equação, em LaTeX, pra dar um ar de seriedade a esta [[putaria]].
+
+<center><math>E=-\frac{m\,e^7\,Z^2}{8\,\varepsilon_0^2\,n^2\,h^2}</math></center>
+
+===Número quântico de momento angular: <math>\ell</math>===
+:<math>\ell=(n-n)\rightarrow(n-1)</math>
+
+[[Clint Eastwood|Você deve estar pensando]] por que diabos tem outra equação neste artigo, certo? Lembre-se que este é um artigo sobre números, [[The Prisoner|não sobre homens livres]]. Enfim, o número quântico de momento angular, mais conhecido como secundário, azimutal para os íntimos e ℓ [[South Park|para encurtar]], é o número que representa a aparência dos orbitais, o que implica em função de onda, equação de Schödinger e [[leite de burra]]. Como indicado pela equação no começo, a quantidade vai de 0 até ''n'' - 1.
+
+[[Arquivo:Spinrodando.jpg|thumb|210px|Movimento e carga dos elétrons, corrente elétrica, campo magnético, [[meu pau de óculos]]...]]
+Suponhamos que o [[bromo]] ainda é o nosso exemplo cheiroso: já que seu ''n'' é 4, seu ℓ poderá ser de 0 até 4 - 1, que é 3. Entretanto, o ℓ geralmente vai de 0 até 3 até quando ''n'' = 6, o que limita sua utilidade para indicador do subnível mais [[Red Bull|energético]], ou seja, 0 é s, 1 é p, 2 é d e 3 é f.
+
+===Número quântico magnético: <math>m</math>===
+{{vqd|Número quântico terciário?|''m''.}}
+
+Através da igualdade 2ℓ + 1 = m, é possível determinar a orientação permitida para uma nuvem eletrônica no espaço (trecho copiado descaradamente da [[Wikipédia]] por sinal), que na [[língua malgaxe|nossa língua]] é a quantidade de posições do Kama Sutra que os elementos podem fazer. Isso dá uma posição para o s, 3 pro p, 5 pro d e 7 pro f. Com este número, dá pra sacar quase que totalmente os orbitais eletrônicos dos átomos, [[Billy Mays|mas espere, tem mais:]] Dobrando o valor de ''m'', chega-se ao número de elementos de uma [[panelinha]] periódica. Duvida?
+
+:<math>2\times 1=2~</math> <sub><big>arrombados de orbital s (metais alcalinos)</big></sub>
+
+:<math>2\times 3=6~</math> <sub><big>arrombados de orbital p (elementos representativos)</big></sub>
+
+:<math>2\times 5=10~</math> <sub><big>arrombados de orbital d (metais de transição)</big></sub>
+
+:<math>2\times 7=14~</math> <sub><big>arrombados de orbital f (metais de transição interna)</big></sub>
+
+====Diferenciando <math>m</math> de <math>m_{\ell}</math>====
+O ''m'' é a quantidade de orbitais. O ''m''<sub><small>ℓ</small></sub> é o número do último orbital preenchido. Os valores de ''m''<sub><small>ℓ</small></sub> são um plágio [[Poderoso Castiga|mais ou menos]] dos valores acumulativos do número ℓ, o que explica de certa forma o nome do meliante. 
+
+[[Arquivo:OrbitaisP.png|thumb|500px|center|Aqui jazem orbitais p obesos, mortos por [[infarto]] agudo do miocárdio <s>quem manda ser gordo</s>. Já que o ℓ = 1, m = 3 e os números de cada orbital são -1, 0 e +1.]]
+
+===Número quântico de spin: <math>s</math>===
+{{c|EEEEEEE... Mais ou menos...|Poderoso Castigas.}}
+
+Bem, o pastor já disse. O s representa a orientação do elétron ao redor do seu próprio eixo. É a forma como ele gira, dá piruetas, tenta fazer o [[Eu, a Patroa e as Crianças|Triplo Bye Bye Bird]] ou a coreografia de [[You Spin Me Round (Like a Record)|You Spin Me Round]] e o caralho a quatro. O valor de s é fixo em 1/2, mas assume os valores de +1/2 ou -1/2, dependendo do sentido em que a seta aponta, merda esta determinada por conhecimentos básicos de eletromagnetismo quando o professor não está de saco cheio. Isso acontece quando o m<sub>s</sub> tira férias em [[Acapulco]].
+
+[[Arquivo:Hund.gif|270px|center]]
+
+Quando o professor está de saco cheio, a seta pra cima é +1/2. Entretanto, a [[Universidade Federal do Acre]] faz o contrário: a seta pra cima tem valor negativo. Pra piorar, a imagem acima tá errada: a seta de elétron tem uma perna apenas. '''UMA'''. Além disso, HÁ DOIS ORBITAIS -1 E +1!! [[Puta que pariu]], meu...
+
+====Diferenciando <math>m</math> de <math>m_s</math>====
+[[Arquivo:SMWGO.gif|600px|center]]
+
+{{química inorgânica}}

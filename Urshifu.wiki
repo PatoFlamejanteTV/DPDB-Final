@@ -1,0 +1,61 @@
+{{lutador}}
+{{pokedex}}
+
+{{PokéBox
+| imagem = Urshifu{{#switch: {{#expr: {{#time: H}} mod 2}}|0=SS|1=RS}}.jpg 
+| frase = Urshifu {{#switch: {{#expr: {{#time: H}} mod 2}}|0=bravo por ser comparado a um [[Pangoro]]|1=tentando imitar a pose do [[Karate Kid]]}}.
+| nihongo = ウーラオス
+| romaji = Wulaosu
+| pokedex = 892
+| tipo1 = Fighting
+| tipo2 = {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Dark|1=Water}}
+| habilidade1 = Socar (Single Strike) / Chutar (Rapid Strike)
+| habilidade2 = 
+| espécie = [[Pangoro]] 2
+| cadeia evolutiva = [[Arquivo:891MS.png|link=Kubfu|Kubfu]] {{seta}} [[Arquivo:892MS.png|Urshifu Single Strike]]/[[Arquivo:892MS.png|Urshifu Rapid Strike]]<small><ref name="um">A Game Freak por preguiça só disponibilizou um sprite para as duas formas.</ref></small>}}
+
+{{C|Primo?|Pangoro|Urshifu}}
+
+'''Urshifu''' é mais um pokémon inventado na oitava geração, surgindo na DLC de [[Pokémon Sword]] e [[Pokémon Shield]], e é mais um lendário que veio com a intenção de apenas agradar os [[furries]] (embora furries não gostem muito de [[urso]]s), já que não possui nenhuma história a ver com a lore do jogo ou até mesmo da região, evoluindo de um [[Kubfu]] indo em determinada torre, seja a Tower of Darkness ou a Tower of Waters, e o Kubfu irá evoluir dependendo de qual torre você entre.
+
+Alguns dizem que esta espécie seja o [[Mestre Shifu]] do [[Kung Fu Panda]] que reencarnou em um corpo de um urso-negro e acabou parando em outra franquia, mas com parte de seu nome original em homenagem.
+==Designs==
+[[Imagem:Akirayuki.jpg|150px|thumb|left|Qualquer semelhança é mera coincidência, [[ou não]].]]
+O Urshifu possui duas formas, a primeira e mais famosa, a Single Strike, que alguns consideram sua forma principal e mais relevante, possui o tipo Lutador e também o tipo Escuro apenas para copiar [[Pangoro|outro urso]]. Além de sua forma original ser apelona, o Urshifu Single Strike também possui uma forma [[Gigantamax]], que é nada mais nada menos do que para enfeite, já que é apenas um Urshifu normal com olhos zoados e que tacaram tinta branca e vermelha nele.
+
+Além de sua forma conhecida, o Urshifu também possui uma segunda forma, a Rapid Strike, uma forma que não costuma ser popular por ter um design mais horrendo, que em vez de pensar com os punhos, costumava mais pensar com a cabeça (e também com os pés), onde esta forma do Nesta forma, o urso é do tipo Lutador e Água (não se sabe [[merda|o que a Game Freak tinha na cabeça]] quando decidiu isso) e ainda não se sabe o que esse tal pokémon tem a ver com o tipo água.
+
+Nesta forma, Urshifu também possui uma Gigantamax, que é a mesma coisa da forma acima, só que em vez de tinta vermelha, coloca tinta azul para ver se parece um pokémon de água.
+
+==História==
+[[Arquivo:Urshifu2.png|240px|thumb|left|Urshifu exibindo seus músculos antes de <s>levar</s> lhe dar uma porrada.]]
+Mesmo que as duas formas tenham surgido no mesmo tempo, a forma Single Strike acabou sendo conhecida pelos cidadãos de Galar, fazendo que vários o comparassem com o [[Pangoro]], e isso acabou levando alguns [[Felipe Neto|probleminhas]] para esta espécie, já que os cidadãos de Galar viam esta espécie e o chamavam de "Pangoro", não importando se fosse para zoar ou de propósito (ou por burrice mesmo) e acabavam levando um [[Especial de Porrada]], já que a sua forma Single Strike costumava ser tão irritada quanto um [[Primeape]] e queria ser louvada como o [[Zacian]] e o [[Zamazenta]].
+
+[[Arquivo:Urshifu pose.png|200px|thumb|Urshifu fazendo pose para soltar um [[peido]].]]
+Isso fez que a espécie dos Urshifu fossem banidas para uma ilha longíssima de [[Galar]], a região de [[Sealand]] e lá vivem pacificamente, já que nenhum cidadão nesta ilha consegue confundir um [[Urso-negro-asiático|urso de Batman]] com um [[Panda|urso gordo comedor de bambus]], já que ninguém queria encher o saco dele. Já a outra forma de Urshifu foi conhecida depois e alguns dizem que elas assistiram demais o filme do [[Karate Kid]], tanto que queriam copiar todos os golpes daquele filme. 
+
+Nesta forma, o Urshifu acaba sendo várias vezes mais calmo com as pessoas e também com os pokémons, mas como os cidadãos de Galar não queria saber de nada e por causa dos Urshifu da outra forma sairem na porrada com todo mundo, acabou também sendo chutado para a ilha de [[Sealand]], onde passa bem com alguns pokémons que também foram banidos da região principal de Galar, mas que poderão voltar com alguma liminar.
+
+Por ser o pokémon mais violento na Isle of Armor, é o mais louvado de lá [[morte|por certos motivos]] e logo seus filhos, os [[Kubfu]] foram adotados por um mestre chamado Mustard e é quem fica distribuindo vários dos Kubfu para os treinadores desavisados, onde podem evoluir para Urshifu Single Strike ou Rapid Strike dependendo do puteiro que você toma na Isle of Armor.
+==No jogo==
+Quando chega a [[Pokémon Isle of Armor|Isle of Armor]], você é treinado pelo [[Mestre Miyagi]] dos Pokémon, o Mustard, que lhe dá um [[Kubfu]] para sentar a porrada em outros pokémons, e enfim grindar essa desgraça até chegar ao level necessário para entrar na torre desejada, podendo evoluir para o Urshifu das trevas, ou o Urshifu de água (<s>sendo que maioria escolhe da água, mesmo sendo o mais feio</s>) e ao sentar a porrada em todos os [[noob]]s daquela torre, o mesmo Mustard revelará sua segunda forma que mais parece um personagem rejeitado da série [[Tekken]] e que estaria "lutando sério" dessa vez, além de revelar que possui [[mais de 8000]] Kubfu, incluindo um para ele mesmo.
+
+Depois de seu Kubfu bater no de Mustard, logo ele dá um pergaminho especial que Kubfu só de olhar para ele, já evolui para Urshifu e enfim, se torna aquele urso plágio do [[Pangoro]] que todos viram. Depois disso, também é revelado que o outro Kubfu evolui para o Urshifu da outra torre e novamente você terá que vencer o Mostarda em uma batalha, só que com 6 pokémons, sendo o último o Gigantamax Urshifu dele que quase sempre será mais rápido que o seu não importa a forma.
+
+==Descrições de Pokedex==
+[[Arquivo:Urshifu sorrindo.png|220px|thumb|Urshifu de bom humor, mais raro que a aparição de um [[mico azul]].]]
+Em sua forma Single Strike, nada mais, nada menos que a clássica descrição clichê de enfeite para pokémons do tipo Lutador só que misturando todas elas na tentativa de fazer este pokémon pagar de fodão, ou seja, a espécie do nada aprende milhares de artes marciais, costuma ser raivosa com os humanos e querer sair dando [[Especial de Porrada]] em todo mundo, além de possuir punhos que dão golpes extremamente fortes que podem devastar pokémons, montanhas e algumas atmosferas. Como quase todo lendário tem que possuir um golpe especial, essa forma aprende o golpe Wicked Blow, traduzindo do português, "[[sexo oral|chupada]] perversa". O golpe Gigantamax de Urshifu Single Strike é G-Max One Blow, mostrando que esse pokémon adora dar [[sexo oral|umas chupadinhas]].
+
+Já em sua forma Rapid Strike, uma versão mais calma e <s>mais feia</s> menos zoada do que sua outra forma. Aprende o golpe Surging Strikes, que ninguém ainda sabe o que ele fará. Nas versões Gigantamax, como se a descrição normal desses dois ursos já não fosse exagerada, a versão kaiju deles tem descrições piores, como a forma Single Strike é o manifesto da raiva, enquanto a forma Rapid Strike é o significado da calma. O golpe especial de Gigantamax Urshifu Rapid Strike se chama G-Max Rapid Flow, que mais um golpe de água genérico copiado do golpe Dynamax de água, com leves alterações.
+==Mídias==
+Urshifu como era um pokémon difícil de aparecer e como o anime não mantém as mesmas regras dos jogos, foi dado a mais um personagem aleatório com lendários, o pesquisador Tsurugi, que assim como o amante da Mula de Pallet, também está a procura do [[Mew|gato rosa psíquico]], não sabemos para qual fim.
+==Usos==
+Urshifu, graças a sua habilidade que é o maior inimigo dos pokémon covardes que ficam apenas se protegendo no competitivo oficial do jogo, virou um dos principais mascotes atuais do competitivo, com sua forma d'agua sendo usada por apenas ser de água, enquanto sua forma das trevas apenas é utilizada por pokémon e lendários psíquicos cagarem o competitivo.
+
+{{ref-section}}
+==Ver também==
+*[[Mestre Shifu]]
+*[[Pangoro]]
+
+{{Poke8}}
+[[Categoria:Ursos]]

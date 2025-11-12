@@ -1,0 +1,97 @@
+{{Game}}
+{{Infobox Game
+|title     = Assassin's Creed: The Glitch
+|image     = Assassin's Creed Unity cover.png
+|caption   = Os revolucionários
+|developer = [[Ubisoft|Bugsoft Irreal]]
+|publisher = [[Ubisoft|Bugsoft]]
+|released  = 2014
+|genre     = Simulador de parkour
+|platform  = Pra tudo quanto é console
+|rating    = 2/10 com bugs; 3/10 sem bugs
+|ages      = Livre
+}}
+
+{{C|Nothing is true, everything must be purchased|Lema dos assassinos nesse jogo}}
+{{c|Bandido bom é bandido morto|Arno|meter a faca no pescoço de delinquentes}}
+{{C|Com licença monsieur fortemente armado e de capuz azul, você viu algum homem fortemente armado e de capuz azul passar por aqui? Ele é bem parecido com você, só não estava sentado nesse banco|Girondino ou Jacobino (tanto faz), caçando Arno}}
+
+'''Assassin's Creed: Unity''' é um grande glitch em formato de jogo de videogame, disparadamente o pior da série [[Assassin's Creed]], nele o jogador pode conhecer como era a [[Paris]] da [[Revolução Francesa]], uma completa balbúrdia.
+
+== Desenvolvimento ==
+
+A [[Ubisoft]] queria dinheiro infinito, por isso decidiu imitar a [[Electronic Arts]] que com a franquia [[FIFA (série de jogos)|FIFA]] vendia o mesmo jogo todo ano e estava nadando de braçada em toneladas de dinheiro pago por gamers idiotas que não enxergam as práticas estelionatárias da dita empresa. Não só a EA, mas a [[Activision]] com [[Call of Duty]] fazia o mesmo, e a Ubisoft desejava ter esse dinheiro infinito, mas não haviam mais esportes populares para criar alguma franquia nova, até tentaram o [[Playboy: The Mansion]] mas não deu certo.
+
+Foi então que [[Assassin's Creed (jogo)|Assassin's Creed 1]] fez um inesperado sucesso e a Ubisoft encontrou sua mina de ouro. A partir de então seria um novo Assassin's Creed por ano sem parar. Então no sétimo ano da franquia já estavam no sétimo jogo, o [[Assassin's Creed: Rogue]], e porque parar? Precisavam lançar um agora exclusivo para a oitava geração.
+
+Para conseguir entregar o jogo na data certa, a Ubisoft Montreal produziu Assassin's Creed: Unity na maior pressa e de qualquer jeito. O resultado foi uma obra de arte memorável com uma reprodução fiel da Paris do final do [[século XVIII]], confirmando que o ser humano trabalha melhor quando sob pressão.
+
+== Jogabilidade ==
+
+Assassin's Creed: Unity é um jogo de [[mundo aberto]] daqueles com um mapa lotado de coisinhas pra fazer sendo 95% dessas atividades completamente repetitivas ou idiotas, como coletar baús e medalhas na [[Casa do Caralho]] ou na [[Casa da Mãe Joana]], e justamente por ser esse tipo de jogo, é aquele jogo repleto de missões dadas por todos os tipos de cuzões que não levantam da cadeira pra nada e não cansam de deixar toda tarefa com você.
+
+Seguindo o padrão dos jogos anteriores da série, é um simulador de [[parkour]], embora nessa versão tenha sido introduzido uma novidade na qual o protagonista sofre de esclerose cerebral de modo que entrar numa mísera janela seja sempre um sofrimento e uma grande dificuldade, com o personagem pulando de um ladro pro outro, subindo e descendo o muro, mas nunca entrando na janela rapidamente. Por isso se você jogar segurando o R2 você entra no modo retardado e sai fazendo Parkour igual as moças de [[Taubaté]].
+
+Na hora do combate o jogo mantém o estilo da série, mas com uma pitada de [[Batman: Arkham]] onde você pode matar 50 guardas consecutivos se tiver reflexos o bastante para executar os counter, mas também morrer facilmente para dois guardinhas miseráveis se você for um descoordenado sem reflexo para contra-atacar quando os inimigos piscam em amarelo.
+
+As missões secundárias incluem administrar um ''Café'' (afinal você está em Paris) fazendo reformas nele, pagar de [[Sherlock Holmes]] ao desvendar assassinatos e solucionar uns enigmas feitos por um psicopata que ejaculou em locais improváveis e públicos de Paris cujos desenhos feitos em sêmen seco só pode ser detectados com a visão especial de Arno.
+
+=== Multiplayer ===
+
+[[Arquivo:Assassin's Creed Unity multiplayer.jpg|thumb|É esse o bando de palhaço carnavalesco que deveria agir de modo stealth.]]
+
+Um modo que ninguém pediu pra existir mas que os produtores de jogos insistem em forçar em seus jogos é o modo multiplayer online, presente mais uma vez na franquia Assassin's Creed e agora mais bugado do que nunca. Quem quer multiplayer vai pro [[PUBG]]/[[Free Fire]]/[[League of Legends|LoL]] ser corno viado a vontade, porque a pessoa que pega um single player quer apenas curtir uma história e um momento sozinho, coisa que o insistente multiplayer de Assassin's Creed Unity não vai permitir porque frequentemente ele vai querer te tirar de seu jogo pra ir jogar com sei lá quem... com amigos que não serão, eles não serão otários de gastar preço de lançamento numa joça bugada dessas, e depois dos 500 patches de correção as salas online já estão vazias que todo mundo já enjou disso.
+
+== Enredo ==
+=== Introdução ===
+
+[[Arquivo:Assassin's Creed Unity intro.jpg|thumb|left|Pai de Arno, o homem que será assassinado e vai gerar toda a sede de vingança do protagonista.]]
+
+Após uma sequência de protagonistas chatos e nada carismáticos a Ubisoft decidiu regressar às suas origens e trouxe Ezio de volta, apenas mudando seu nome para Arno Victor Dorian para evitar incongruências. Como é de praxe desses jogos, controlamos o personagem primeiro quando criança, época em que desenvolve um crush pela garotinha Élise. É claro que o pior acontece e o pai de Arno é assassinado justo no dia que o moleque estava tentando perder o cabaço, o que torna Arno um homem complexado no futuro.
+
+Quando adulto, estamos na Paris de 1792, e Arno se demonstra um típico francês, obcecado pelos cuidados com seus cabelos e com um grande senso de [[moda]], ele tem o sonho de abrir seu próprio atelier de roupas luxuosas mas a vida o deu um crescimento mimado sob a tutela do pai adotivo François de la Serre que é o pai da garota que Arno sonha dar uns beijos e agarrões. Com uma vida mansa dessas Arno nunca precisou trabalhar e pode dedicar sua juventude a praticar parkour em Paris.
+
+Mas a vida desse garoto mimado é completamente modificada quando seu pai adotivo é assassinado por dois flanelinhas os quais ele recusou pagar estacionamento, situando assim o jogador no tipo de Paris que era aquela época. Revoltado com essa merda toda, Arno decide largar sua vocação de revendedor da L'Oreal, cobre os cabelos com um capuz azul e se junta à Ordem dos Praticantes de Parkour de Paris liderada por um monte de pau no cu que só sabe reclamar e fazem nada.
+
+=== Em busca da vingança ===
+
+O jogo é uma história de vingança, Sivert é o nome do flanelinha que matou de la Serre e Arno logo descobre que ele na verdade era um falso mendigo e que na verdade trabalhava com uma seita de fanáticos fãs do [[Papai Smurf]] e todos são facilmente identificados por seus gorros vermelhos. Ele vai fazer [[porra nenhuma]] na [[Catedral de Notre-Dame]], vai para lá basicamente para obrigar o jogador a explorar esse monumento histórico. Você pode optar por uma abordagem stealth ou na moda caralho, mas dos dois jeitos Sivert acaba assassinado. É claro que nessa hora sempre tem aquela baboseira da Abstergo que ninguém nesse mundo se interessa, quando você cai numa fenda e termina na [[Bélle Époque]] vasculhando os metrôs de Paris e mantendo a tradição da Ubisoft de ofender todos os livros de história existentes, colocando uma estação do metrô do lado da construção da [[Estátua da Liberdade]].
+
+De volta à Paris de 1792, o próximo alvo de Arno é o Rei dos Mendigos que deve ser caçado nos esgotos, sendo ele o responsável por controlar todos os flanelinhas e pedintes de Paris. Matar esse falso mendigo foi um favor que Arno fez para a sociedade. É nesse ambiente insalubre que Arno encontra [[Marquês de Sade]], uma das pouquíssimas figuras histórias que a Ubisoft conseguiu retratar com precisão brilhante, sendo ele um mulherengo depravado praticante de sadomasoquismo que veste uma gola que vai até o meio do torso, exatamente como ele é historicamente.
+
+Por vários anos o lema dos assassinos foi "Bandido bom é bandido morto", mas com o passar dos anos e a maior sofisticação política das épocas mais modernas esse tipo de lema caiu em desuso, embora Arno continuasse o seguindo fielmente, matando bairros inteiros de bandidos em sua busca desesperada por vingança. Por isso após rastrear a origem do broche que matou seu pai adotivo, ele mata um tal de Lafrenière, que na verdade era um [[espião]] aliado dos praticantes de Parkour. A verdade é que todo mundo caga e anda para a morte errada de Lafrenière.
+
+=== A Templária e o Assassino ===
+
+[[Arquivo:Assassin's Creed Unity romance.jpg|thumb|Apesar da aparência, herdada do pai, Arno tem jeito com as mulheres.]]
+
+Aparentemente a vingança foi concluída e Arno pode agora tentar finalmente comer a Élise, mas isso não é possível porque a garota só quer saber de matar os outros e não está nem aí pra sexo e essas coisas. E para piorar a situação eis que Mirabeau, o chefe de Arno e da Ordem dos Praticantes de Parkour, surge morto. Mirabeau foi envenenado e no final de uma cansativa perseguição pelo assassino do velho, o culpado é ninguém menos que Bellec, o cachaceiro mentor de Arno que num dos combates mais bugados da história dos games acaba morto.
+
+É nessa hora que o jogo tem mais um glitch e Arno vai para Paris de 1944 ocupada pela [[Microsoft]] (por algum motivo a Ubisoft não conseguiu adquirir os direitos autorais da [[suástica]] do nazismo e precisou colocar um outro exército ali). É necessário escalar e fazer Parkour na [[Torre Eiffel]]. Só não me pergunte porque alguns [[Messerschmitt Me 262]] estão atirando na Torre Eiffel.
+
+=== Revolução começa ===
+
+Eis que na sequência do jogo encontramos ninguém menos que o jovem [[Napoleão Bonaparte]], que se revela um gremista. Esqueça tudo relacionado [[Revolução Francesa]], quem foram os jacobinos, os girondinos ou o que Napoleão fazia nessa época. Na prática imagine que Grêmio e Inter vão se enfrentar na final de uma Libertadores e que os de gorro vermelho são torcedores do Internacional e os de chapéu azul são torcedores do Grêmio e que não existe polícia, existe apenas praticantes de Parkour para manter a ordem.
+
+Um problema da época era o suprimeit de [[trigo]] de Paris que estava sendo comprometido por causa de uma patricinha chamada Marie Lavesque que desejava uma Paris vegana e ''gluten free'', o que deixou muitos habitantes raquíticos. Ela então é só mais uma que Arno acaba assassinando em mais um dos tantos bailes que ele já invadiu e terminar com uma fuga junto de Élise no balão dos [[irmãos Montgolfier]] (ignore mais um anacronismo da Ubisoft) e descobrir que o responsável por tudo é um tal Germain. No final desse rolê todo os cuzões chefes da Ordem dos Praticantes de Parkour ainda tem pachorra de te expulsar da ordem, eles que nunca levantam o cu da cadeira e ficam te mandando fazer tudo, expulsam Arno por "ter feito coisa demais".
+
+Então Arno faz o que deveria ter feito desde o começo, vira cachaceiro e vai tirar umas férias em [[Versalhes]].
+
+=== Período do Terror ===
+
+O jogo foi eficiente em demonstrar como Arno é quem fazia tudo em Paris, e uma vez que ele foi banido a cidade rapidamente entrou em colapso total, o período histórico conhecido como [[Período do Terror]], quando todo mundo era mandado para a [[guilhotina]] porque sem um praticante de parkour limpando a cidade de criminosos aquela era a única alternativa para manter a ordem em Paris.
+
+É nesse climax que Arno deve fugir de [[Maximilien de Robespierre|Robespierre]] enquanto tenta finalmente concluir sua vingança. Culpar Robespierre foi fácil, Arno apenas precisou drogá-lo e fazê-lo parecer um louco para que ele próprio fosse capturado e guilhotinado. A invasão à fortaleza final se deu para tentar capturar o culpado por toda [[Revolução Francesa]]. Acha que foi insatisfação popular com a [[monarquia]]? Acha que os escritos de [[Jean-Jacques Rousseau]] influenciou alguma coisa? Acha que a fome e desigualdade social crescente inflamou a população? Claro que não, foi tudo obra de um templário usando uma espada mágica.
+
+Aliás, a batalha final é a mais estúpida possível. Germain, o templário da espada mágica, é tão (ou mais) bugado que Arno, então apesar da sua espada apelona ele sempre estará em desvantagem e vai morrer com três furos no bucho.
+
+O jogo se encerra com a possibilidade dos fãs da série agradecerem não haver menção ao chato do Desmond.
+
+{{Assassin's Creed}}
+
+[[Categoria:Jogos da Ubisoft]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos de ação-aventura]]
+[[Categoria:Jogos lançados em 2014]]

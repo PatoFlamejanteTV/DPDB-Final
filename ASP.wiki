@@ -1,0 +1,54 @@
+==Definição==
+
+'''ASP''' é uma das 7 linguagens de programação consideradas pela [[Igreja Católica]] como '''Satânicas''' (assim como [[C#]], [[VB]], [[Delphi]], [[PHP]], [[ASP.NET]], [[Java]] e [[Catalão]]).
+
+Criada para ser rodada no servidor. Lá ela participa de várias [[suruba]]s com administradores de sistema [[corno]]s e solitários.
+
+== Origem ==
+
+A origem dessa linguagem, ou melhor merdanologia, é um tanto quanto estranha. Ela nasceu ao Sul da Ilha de [[Madagascar]], quando uma tribo [[ilêaiê]], encontrou detritos de um avião recentemente caído. Nele continha uma das mais verdadeiras aberrações feitas em [[JavaScript]] e [[VisualBasic]].
+
+De fato:
+
+* Era o que tinha de melhor das heranças demonícas que o filhote do Java tinha na época (popup's, loops infinitos que travam o computador inteiro, e etc);
+* Com os mais básicos programas feitos em [[Visual Basic]] (aqueles programas de padaria do curso de Lógica de Programação visto na série "How to be a programmer").
+
+Segue o fragmento de fezes da criação:
+
+<pre>
+<%
+<script language="VbScript">
+
+dim asp = Response.Write( " &_
+&_
+&_
+          <script language="JavaScript"> &_
+            now=new Date; &_
+            document.write now + " has been created a new merdanologia" &_
+          </script> &_
+
+              ")
+
+</script>
+%>
+
+
+
+</pre>
+
+Infelizmente eles não souberam o que fazer com a criação, foi então que [[Bill Gates]] soube que fizeram uma nova tecnologia / linguagem lá no sei das quantas, assim pediu para seu sócio pagar US$ 3.683,14 por ela.
+
+== Origem do Nome ==
+
+Desse modo, o nome ASP veio de: "'''A'''h! Agora eu '''S'''ei '''P'''ra que serve [[VBScript]] e JavaScript".
+
+{{esboço}}
+
+
+{{Linguagens de Programação}}
+
+[[Categoria:Coisas de nerd]]
+[[Categoria:Linguagens de programação]]
+
+[[it:ASP]]
+[[nl:Aandachtstrekkerij persoonlijkheidsstoornis (Trekt dit artikel aandacht genoeg?)]]

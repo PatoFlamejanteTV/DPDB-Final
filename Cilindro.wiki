@@ -1,0 +1,28 @@
+[[arquivo:Cilindro Cirilo.jpg|thumb|220px|Um [[Cirilo|Cilindro]] posando como se fosse o [[rolo de massa]] da geometria: duas [[bases]] circulares, uma [[lateral]] enrolada e ainda sobrando espaço pra guardar [[lata de tinta]] ou [[alma]] de [[poliedro]] frustrado]]
+
+'''Cilindro''' é o [[sólido]] que rola sem [[drama]]: dois [[círculo]]s paralelos ligados por uma [[superfície lateral]] reta, tipo [[tubo]] de [[papelão]] com [[tampa]] nas duas pontas. [[Regular]] quando bases são [[círculo]]s perfeitos e altura reta [[lata de refrigerante]] agradece. Volume? <math>$V = \pi r^2 h$</math>, área lateral? <math>$2\pi r h$</math> [[professor]] ama, [[aluno]] [[chora]].
+
+==História Rápida==
+[[Arquimedes]] rolou cilindro em 250 a.C. pra calcular [[volume]] de [[esfera]] dentro [[pi]] trollado. [[Descartes]] deu [[coordenada]]s pra não [[desabar]]. [[Lata]] de [[sopa]] popularizou no [[século XX]].
+
+==Cultura Pop==
+[[Super Mario]]: [[tubo]] verde é cilindro [[Mario]] entra, [[Yoshi]] [[sai]].
+[[Lata]]: [[cerveja]] gelada em cilindro [[churrasco]] [[obrigatório]].
+[[Rolo]]: [[cozinha]] usa pra [[massa]], [[construção]] pra [[asfalto]].
+
+==Curiosidades==
+[[Abelha]] ignora prefere [[hexágono]].
+[[Cilindro infinito]]? [[Túnel]] sem [[fim]].
+[[Papel higiênico]]: rolo cilíndrico [[estoque]] [[pandemia]].
+
+{| class="wikitable"
+! Tipo || Bases
+|-
+| [[Reto]] || 2 [[círculo]]s
+|-
+| [[Oblíquo]] || 2 [[elipse]]s
+|-
+| [[Sem tampa]] || [[Tubo]] ([[troll]])
+|}
+
+{{Predefinição:Formas geométricas}}

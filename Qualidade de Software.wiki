@@ -1,0 +1,115 @@
+
+
+
+==Principios Básicos==
+[[Arquivo:Errod.jpg|thumb|300px|A Qualidade de Software!]]
+{{C|'''''Programming today is a race between software engineers striving to build bigger and better [[usuário|idiot-proof]] programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.''''|Rich Cook|Programação
+<ref>http://en.wikiquote.org/wiki/Programming</ref>
+<ref>Ou traduzindo para nossa lingua materna: Programação hoje é uma corrida entre engenheiros de software lutando para construir maiores e melhores programas a prova de [[usuário|idiotas]], e o Universo, tentando produzir mais e melhores [[usuário|idiotas]]. Até agora, o Universo está ganhando.</ref>
+<ref>[[Engenharia da Computação|software engineers ou engenheiros de software]]: Alguma coisa como programadores que também entendem de arquitetura & decoração</ref>
+}}
+
+Existem 3 princípios básicos, quase que axiomas, para a '''Qualidade de Software''':
+
+1) O Programador<ref>Também conhecido(s) como "Aquele pessoal da Informática", que ninguém sabe o nome, mas sabe que são culpados de tudo. Desde da publicação do documento falso da [[ANAC]] que causou a queda do avião da TAM até o fato do computador não querer ligar quando falta luz.</ref> deve fazer um programa tão bem feito que até um [[usuário|idiota]] consiga  usá-lo.
+
+2) Se você fizer um programa tão simples que até um [[usuário|idiota]] possa usá-lo apenas um [[usuário|idiota]] irá usá-lo.
+
+3) Não existe produto tão simples que não exista um [[usuário|idiota]] capaz de usá-lo errado.
+
+Coincidentemente, este 3 princípios são paradoxais e autoexcludentes. E como são axiomas não precisam explicação.
+
+==Utilização==
+
+Um [[usuário]] quer um programa de computador que possa realizar uma determinada tarefa pare ele, sem que ele tenha que pensar. Ou o  mais perto disto que seja possível.
+
+A tarefa do programador é fazer um programa que o [[usuário]] possa usar, de preferência com a tal de Qualidade de Software<ref>O Chefe sempre diz que precisa desta tal que Qualidade para poder vender o produto</ref>. Esta é uma tarefa paradoxal, um verdadeiro [[Ardil 22]]. Aplicando os Princípios Básicos acima apresentados, um ciclo se forma.
+
+Siga o raciocinio (a não ser que você seja um [[usuário]] então apenas terá que aceitar como verdade):
+
+
+1) A n-ésima versão de um programa ou página Web é lançada.
+
+2) O [[usuário]] tenta utilizar o programa, e comete um erro.
+
+3) Ao invés de pensar ou tentar se informar o "porque" do erro, o usuário reclama ao programador: "o programa não funciona"<ref>Experiência pessoal: usuário tentou repetir a mesma operação 14 vezes, repetindo sempre o mesmo erro. E o programa está errado por não avisar disto!</ref>.
+
+4) Depois de uma da ligeira [[suporte mediunico|interpretação contextual]] do erro apresentado, o programador refina o programa inserindo testes que informam erros como: ''"Quarta-Feira de Cinzas" NÃO é aceito como data da licença médica. Especialmente escrita iniciando com "C"''.
+
+5) O [[usuário]], ao cometer o mesmo erro idiota, é corrigido pelo programa.
+
+6) O [[usuário]] instintivamente entende que não precisa mais pensar sobre os "porques" do erros, pois o programa irá corrigi-lo.
+
+7) Retorne ao passo 1)
+
+==Consequências==
+
+* A falta da obrigação de pensar permite ao [[usuário]] cometer mais erros.
+
+* A aleatoriedade dos erros cresce além de qualquer lógica conhecida.
+
+* Ao ver o programa que o ajuda tanto, o [[usuário]] começa imaginar que o programador está lendo a sua mente. E começa a agir baseado nesta suposição.<ref>Frases comuns que nesta situação: 
+*"Eu pensei que o programa já fizesse isto!!!"
+*"Eu não sabia que ainda precisava salvar o texto!!"
+*"Porque vocês não me avisaram, eu perdi hoooras de trabalho!"
+*"Mas não tem um botão que a gente aperta e faz tudo isto?"
+*"Quero falar com o seu superior imediato. Agora!!!"</ref>
+
+* O programa torna-se cada vez mais lento e complexo, com tantos testes esotéricos necessários para resolver os [[Bug|problemas]] apresentados pelo [[usuário]].
+* Devido à extrema urgência<ref>"Mas é claro que eu podia ter pedido este relatório antes, mas só precisei hoje. O Diretor está esperando para daqui a meia hora as estatistícas do ano passado. Mas vocês sabem que é sempre uma loucura a reunião de planejamento de Abril."</ref> do [[usuário]] é essencial o uso de algumas técnicas de programação:
+**[[Programação Orientada a Gambiarras|P.O.G.]]
+**[[Método MacGyver]]
+**[[POF]]
+**[[Programa Bacalhau]]
+
+* O número de erros a consertar torna-se infinito, pois cada correção permite que o [[usuário]] pense menos. E cometa mais erros.
+
+* O programa é condenado por ter muitos [[Bug|problemas]] e não possuir a tal de ''Qualidade de Software''.
+
+* O programador é demitido.
+
+* Um novo programador é contratado para escrever um novo programa, mais atualizado, sem tantos erros. E, por favor, tem que ter a tal de ''Qualidade de Software'', desta vez.
+
+* Reinicia o ciclo.
+
+== Exemplo real ==
+
+Seu usuario idiota deixou o arquivo de texto do banco de dados ([ o prazo era curto]) todo fora de ordem, e você foi desginado para colocar em ordem esse monte de dados, "nem que use MeueuSeiqueéeLe", dotado de puro conhecimento, você primeiro abre o arquivo e joga em uma array associativa, percorre todo o arquivo inserindo na tabela, conectando no banco a cada loop para ter certeza que a conexão daquelas 300000 linhas estarão ok. Depois disso, você faz um update no banco de dados para criar uma sequencia em uma coluna nova usando o ORDER BY no campo que você precisa. Depois disso, faz um loop de 1 até 300001, executando o select da linha WHERE id= <numero> - 1 colocando isso numa array sequencial.
+Depois disso, percorra a array e escreva no arquivo. Leia o arquivo novamente, e faça a consulta de DELETE para cada linha, para não gastar espaço em disco. Boa noite.
+
+==Conclusões==
+
+* Todo problema é simples de resolver. O caso é que cada solução cria outro problema.
+
+* O Universo e os [[usuário]]s em geral conseguem ser infinitamente mais criativos ao apresentar novos problemas que um programador ao tentar encontrar soluções.
+
+* Numericamente falando, todo programador está em desvantagem. Exponencial.
+
+* Um programador pensa com lógica, os usuários nem sempre. Quanto a lógica do Universo...
+
+
+
+Resumindo: 
+
+''''A qualidade de software é como um plano de batalha, que existe até o primeiro contato com o inimigo. No caso da Qualidade de Software em um programa, até o primeiro contato com o usuário''''.<ref>"Antes da batalha, o planejamento é tudo. Assim que começa o tiroteio, planos são inúteis.",Dwight D. Eisenhower, http://pt.wikiquote.org/wiki/Dwight_D._Eisenhower</ref>
+
+== Ver também ==
+
+* [[Engenharia de Software]]
+
+----
+
+Referências (sim eu copiei algumas coisas. Mas foi de bastante gente. Aí não é plágio, é Pesquisa.)
+
+<references/>
+----
+
+[[Categoria:Paradigmas de programação]]
+[[Categoria:Informática]]
+[[Categoria:Gestão de projetos]][[Categoria:Ciência da computação]]
+
+[[de:Qualität]]
+[[en:Quality]]
+[[he:איכות]]
+
+[[Categoria:Engenharia de software]]

@@ -1,0 +1,31 @@
+{{monstro}}
+[[Arquivo:Herança.jpg|thumb|300px|Polimorfismo ocorre na herança, quando a classe mais específica quer tomar conta do próprio nariz]]
+Podemos entender o '''polimorfismo''' como a capacidade de mudar, igual a [[Mya Nichole]] faz nos filmes eróticos em que atua. 
+
+Na [[programação]] esse assunto não é tão excitante, na verdade é exatamente o inverso de algo excitante; só quem manja de polimorfismo em programação é aquele tipo meio gordo, com espinhas na cara, [[pizza de axila]], pinto retorcido e pelo nos mamilos.
+
+Em programação, polimorfismo é a capacidade de algumas classes diferentes poderem responder a uma mesma mensagem, uma querendo furar o olho da outra.
+
+== Funcionamento ==
+
+Na programação orientada a objetos, o polimorfismo faz um serviço bem peão e precisa se virar nos trinta para atender a barbaridade requisitada pelo usuário.
+
+O polimorfismo permite que várias classes derivadas de uma superclasse consigam responder a mesma mensagem de pedido, aí a decisão de quem vai atender a mensagem é resolvida no [[Coliseu]]. Cada uma tem uma forma diferente de responder, por isso é um polimorfismo; se fosse a mesma forma seria um monomorfismo, ora pois.
+
+O polimorfismo costuma ocorrer quando também aparece o fenômenos da [[Herança (programação)|herança]], aí cada classe filha quer brigar pelos métodos da classe pai, já falecida.
+
+== Tipos de polimorfismo ==
+
+O polimorfismo pode ser dividido em dois tipos: sobrecarga e sobrescrita. A sobrecarga, como o nome diz, causa uma sobrecarga do carai no programa, e a sobrescrita sobrepõe um código correto por algo errado, causando um [[bug]].
+
+Os métodos sobrecarregados ocorrem na mesma classe (um [[fogo]] amigo) ou numa subclasse (uma filha rebelde). A lista de parâmtros deve ser diferente, por isso serão sobrecarregados, e podem ter retorno diferente.
+
+Os métodos sobrescritos ocorrem com a classe filha rebelde reescrevendo as coisas do pai. Parâmetros devem ser iguais. Quando foi dito que esse assunto não era nada excitante, foi um aviso sério.
+
+== Ver também ==
+
+* [[Encapsulamento]]
+* [[Programação Desorientada a Objetos]]
+* [[Recursividade]]
+
+[[Categoria:Programação]]

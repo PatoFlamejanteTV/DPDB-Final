@@ -1,0 +1,87 @@
+{{Patrimônio Mundial}}
+
+'''Évora''' é a quinta cidade mais importante de [[Portugal]], e por isso quase ninguém conhece. Como a cidade nunca foi reformada ou modernizada ganhou o carinhoso título de ''Cidade-Museu Cheia de Velharia''.
+
+{{DadosMunicípioPortugal
+<!-- Cabeçalho -->
+| nome                 = República Soviética de Évora
+| preposição           = 
+| apelido              = 
+<!-- Dados gerais -->
+| bandeira             = 
+| brasão               = 
+| link_bandeira        = 
+| link_brasão          = 
+| aniversário          = 
+| fundação             = 
+| gentílico            = 
+| lema                 = 
+| apelidos             = 
+| pres_cm              = Alguém do PCP
+<!-- Localização -->
+| mapa                 = 
+| nuts2                = Alentejo Sem Lei
+| nuts3                = Alentejo Central
+| distrito             = Évora
+| provincia            = Alto Alentejo
+| vizinhos             = 
+| dist_capital         = Capital do distrito homónimo
+| dist_lisboa         = 
+<!-- Características geográficas -->
+| área                 = 
+| população            = 
+| idioma               = 
+| data_pop             = 
+| densidade            = 
+| altitude             = 
+| clima                = Absurdamente quente
+| sigla_clima          = 
+| fuso_hor             = 
+<!-- Indicadores -->
+| idh                  = 
+| data_idh             = 
+| pib                  = 
+| data_pib             = 
+| pib_per_capita       = 
+| data_pib_per_capita  = 
+}}
+
+== História ==
+
+[[Arquivo:Evora-RomanTemple.jpg|thumb|left|Um dos edifícios de Évora que precisa urgentemente de reforma, mas parece que o orçamento anda apertado para isso.]]
+
+Cidade de história antiga, há relatos de povoações do [[neolítico]] com o surgimento das primeiras padarias de pão francês da Bélgica.
+
+Posteriormente os [[visigodos]] viriam a ocupar Évora a espalhar a cultura gótica de perambular em cemitérios que perdura até os dias de hoje. O exemplo máximo da cultura gótica é a [[Sé Catedral]] onde [[Lord Mana-sama]] era louvado e adorado por todos os padeiros da região.
+
+Ainda vieram os [[romano]]s que construíram lá um Templo ao Deus Espaguete Voador, a divindade do panteão romano protetora da [[Península Ibérica]].
+
+Depois foi a vez dos [[muçulmanos]] tomarem a cidade e construir [[mesquita]]s no lugar de todas [[padaria]]s, o que revoltou Manoel que foi salvo por [[Godinez|Geraldo Sem Pavor]], um general da [[Inquisição Espanhola]] que expulsou os mouros do território português para [[Marrocos]]. Felizmente os [[muçulmanos]] deixaram parte da sua cultura na cidade, como o clima extremamente quente característico de [[Marrocos]]. Uma verdadeira bênção.
+
+Durante o domínio da [[Igreja Católica]] a Ordem dos Cavaleiros da Távola Quadrada foi fundada e sediada em Évora, sendo a sua sede o [[Estádio do Lusitano]], destruído durante as invavões da [[Juventude]]. No [[século XVI]], em seu auge, Évora foi a casa de campo dos vários reis de Portugal que frequentemente fugiam de [[Lisboa]] para se esconder em Évora quando algum líder de alguma potência estrangeira pensava em visitar Portugal para cobrar o que essa nação caloteira os devia.
+
+== Política ==
+
+De acordo com as últimas eleições municipais, na cidade 51% da população é formada por Benfiquistas, 48% por Portistas, 1% por Salazaristas que morreram todos após o fracasso de 25 de abril (dados fornecidos por Salazar & Co.) e 503% por comunistas.
+
+[[Arquivo:EVR-svicentepigeiro.png|thumb|120px|Em 1994, Évora tentou terceirizar a administração de algumas das suas freguesias. São Vicente do Pigeiro, por exemplo, seria cedida a [[Leiria]], mas, como o orçamento acabou, a transição do brasão foi incompleta, e de Leiria só vieram os corvos e o fundo]]
+
+== Educação ==
+
+A universidade local é considerada como a melhor universidade do mundo, já que é um local onde entram alentejanos e saem médicos, advogados e engenheiros.
+
+== Turismo ==
+
+Escolher as mulheres de bigode de Évora ao invés das mulheres de [[topless]] de [[Ibiza]] logo ali no [[Mediterrâneo]] é um escolha de gosto meio duvidoso, mas tudo bem, até que há alguns edifícios velhos pra caramba onde o turista de Évora pode ir morrer de tédio:
+
+* '''[[Templo romano de Évora]]''': Templo dedicado ao Deus romano ibérico [[Monstro Espaguete Voador]], é um dos monumentos mas mal conservados da cidade, está em completa ruínas e fica no centro.
+* '''[[Catedral de Évora|Sé Catedral]]''': Uma das mais imponentes catedrais góticas de Portugal onde Lord Mana-sama era louvado pelos visigodos durante seu domínio da cidade.
+* '''[[Capela dos Ossos]]''': Uma capela muito original, bonita e com aspecto celestial, é grande exemplo da inteligência dos patrícios. O interior da Capela dos Ossos é recheado de cadáveres e crânios rachados, enfeitado por múmias e tem cheiro de podridão. Esta é a imagem que os portugueses têm do Paraíso. 
+
+{{Distrito de Évora}}
+{{Patrimônio Mundial/Portugal}}
+
+[[Categoria:Évora]]
+[[Categoria:Capitais de Distritos de Portugal]]
+
+{{Portal3|Portugal}}

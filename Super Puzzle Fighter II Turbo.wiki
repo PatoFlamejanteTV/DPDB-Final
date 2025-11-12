@@ -1,0 +1,38 @@
+{{Games}}
+
+{{Infobox Game
+|title     = Street Fighter: Puyo Puyo 2
+|image     = Super Puzzle Fighter II Turbo cover.jpg
+|caption   = Capa do jogo
+|developer = [[Capcom]]
+|publisher = [[Capcom]]
+|released  = 1996
+|genre     = [[Tetris]]
+|rating    = 2/10
+|platform  = Um bando de lugar
+|ages      = Livre
+}}
+
+'''Super Puzzle Fighter II Turbo''', que poderia simplesmente ser chamado de '''Street Fighter Tetris''' mas a [[Capcom]] tem mania de colocar esses nomes imbecis na sua franquia [[Street Fighter]], é um jogo de [[Tetris]] utilizando a temática [[chibi]]-[[Street Fighter]]. Fez um relativo sucesso em sua época (1996) porque nessa época quem compravam os jogos eram os pais das crianças, então o pivete pedia um Street Fighter de aniversário pro pai e o pai trazia essa bosta pra casa, não dando outra possibilidade para o pivete, afinal as outras opções eram [[Hugo: Frog Fighter]] e [[Barbie Explorer]]. Como a Capcom não tem limites e vai explorar qualquer jogo seu o máximo possível, você vai encontrar o título '''Super Puzzle Fighter II Turbo HD Remix''' na [[Xbox Live]] e [[PlayStation Network]] pelo módico preço de não sei quantos reais mas que não valem a pena serem gastados nisso.
+
+== Desenvolvimento ==
+
+[[Arquivo:Street Fighter Tetris.jpg|thumb|left|Tetris de Street Fighter, a pessoa tem que estar bem desocupada.]]
+
+A [[Sega]] havia lançado alguns anos antes um jogo chamado [[Baku Baku Animal]], que era exatamente isso, um duelo de [[Tetris]]. Mas você já ouviu falar nessa porra de jogo? Não né, e os analistas da época perceberam que o problema daquele jogo da Sega era a total ausência de carisma dos bonecos que duelavam no Tetris, não apenas isso, o seu desenho também, com os bonecos tudo leproso com [[gangrena]] e [[esclerose lateral amiotrófica]] sendo o resultado óbvio um jogo fracassado. A [[Capcom]] fez melhor, clonou a porra daquele jogo da Sega mas botou personagens de [[Street Fighter]] e [[Darkstalkers]] (e uma princesa loli loira chamada Devilotte de [[Cyberbots: Full Metal Madness]]) e assim a Sega perdeu a chance de ter feito um Sonic Tetris ([[Dr. Robotnik's Mean Bean Machine]] o mais perto disso).
+
+== Jogabilidade ==
+
+O jogo trata-se meramente do [[Puyo Puyo 2]], mas com a skin de [[Street Fighter]]/[[Darkstalkers]]. Ou seja, é um duelo de [[Tetris]] no qual um jogador deve eliminar os blocos de seu lado pra ficar jogando lixo no jogo de Tetris do adversário. Teoricamente era para ser jogado entre duas pessoas, mas na prática isso nunca acontecia pois era muito raro duas pessoas ao mesmo tempo gostarem desse jogo habitando um mesmo local, sendo o mais normal jogos contra a CPU, contra a qual nas dificuldades fáceis você vencia mesmo sendo um noob retardado, mas que nas dificuldades medianas e difíceis te entupia seu tetris de lixo em menos de 5 segundos, massacrando-o sempre.
+
+{{Street Fighter}}
+{{Darkstalkers}}
+
+[[Categoria:Jogos lançados em 1996]]
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos para Sega Saturn]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos para PlayStation Portable]]
+[[Categoria:Jogos de quebra-cabeça]]

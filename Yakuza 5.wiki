@@ -1,0 +1,69 @@
+{{game}}
+
+{{Infobox Game
+|title     = Yakult 5
+|image     = Yakuza 5 cover.png
+|caption   = Capa do jogo no Brasil
+|developer = [[Ryu Ga Gotoku Studio|Ryu com Arroto Studio]]
+|publisher = [[Sega|Cega]]
+|released  = [[2012]]
+|genre     = [[Crazy Taxi|Safe Taxi Simulator]]/[[Need for Speed|Need for Speed Taxi]]; [[Prison Break]]/[[Hunting Simulator]]; [[Hatsune Miku: Project DIVA]]; [[MLB 2K]]
+|platform  = [[PlayStation 3]], [[PlayStation 4]] e [[Xbox One]]
+|rating    = 6/10
+|ages      = Livre
+}}
+
+'''Yakuza 5''' é o quinto jogo da [[Yakuza (série de jogos)|série Yakuza]], por isso o número 5 ali que é basicamente a mesma coisa de todos os quatro jogos anteriores: Uma divertida coletânea de vários minigames ao estilo [[Wii Play]]. A única melhoria notável nessa versão é que agora finalmente os carros usam as ruas das cidades.
+
+== Jogabilidade ==
+
+Yakuza 5 é basicamente um simulador de Japão, ou seja, tem [[Taiko no Tatsujin]], tem [[j-pop]], tem [[karaokê]], tem sushi bar, tem muito "sugoi", "nani", "okaeri nasai", "[[desgraçado|kuso yarō]]", etc. Além da enorme variedade de minigames o jogo ainda se apresenta em capítulos, trazendo no primeiro capítulo um [[Crazy Taxi|Safe Taxi]] do [[Detran]] onde dirigimos um veículo e devemos parar na faixa de pedestres, esperar o sinal verde abrir, dar preferência nos cruzamentos e conversar com os passageiros, e também um [[Need for Speed|Need for Speed Taxi]] onde apostamos corrida numa avenida circular que não faz sentido nenhuma. Já no segundo capítulo jogamos um [[Ultimate Fishing Simulator]] e um [[Hunting Simulator]] onde vamos para o interior do Japão com uma espingarda caçar coelhos, veados e ursos. No terceiro capítulo o jogo se torna um [[j-pop]] simulator com um port do [[Hatsune Miku: Project DIVA]]. E por fim, no quarto capítulo podemos desfrutar de um port da única parte legal de [[MLB 2K]] que é a parte de rebater as bolas com o bastão, não havendo toda aquela chatice de ter que fazer arremessos ou sair correndo feito um retardado pelas bases do baseball, basta fazer o [[home run]].
+
+== Enredo ==
+=== Kiryu ===
+
+Kazuma Kiryu largou sua vida de dono de creche e se tornou um [[taxista]] deprimido em [[Fukuoka]]. Estava tudo bem com ele e seu [[Toyota Comfort]] customizado, surrando algumas pessoas aqui e acolá, transportando pessoas preguiçosas por trajetos de apenas 2 ou 3 quarteirões e precisando lidar com a população suicida local tomando cuidado em não atropelar as várias pessoas que simplesmente se jogam na frente de seu carro. Tudo estava bem até o dia que deu carona para um cara muito esquisito chamado Daigo que falou um monte de coisa e depois pediu pra ser deixado numa ponte antes de sumir e deixar a maior máfia criminosa do Japão sem o seu chefe.
+
+Kiryu acaba sendo obrigado a se envolver com a máfia local porque o chefe dessa organização criminosa colocou a própria filha para frequentar pelada a casa do Kiryu, o que deixou o protagonista muito furioso porque ele não gosta de vagabundas, por isso precisou quebrar a cara de metade da cidade.
+
+=== Saejima ===
+
+[[Arquivo:Prisão no Japão.jpg|thumb|Prisões no Japão são assim. Mais confortáveis que meu apartamento.]]
+
+Após viver 1 ano fora da cadeia, Saejima percebe que, após ter passado 25 anos de sua vida preso, a cadeia é um lugar muito melhor que a vida solto, por isso ele se entrega para as autoridades e volta a viver na cadeia. Se um brasileiro jogar essa parte do game vai ficar com vontade de cometer um crime no Japão, pois a prisão de [[Sapporo]] parece uma colônia de férias, tirando a neve, os presos tem direito a camas macias individuais com cobertor em celas que mais parecem quartos limpos e aconchegantes com baralho, prateleiras, livros, mesinhas de centro e companheiros de cela divertidos, leais e parceiros. Os presos podem também livremente entrar e sair de depósitos repletos de ripas de madeira, pedaços de ferro e ferramentas pesadas em geral. Parece que no Japão não há motins ou tentativas de fuga porque ninguém é besta de querer ir embora de um lugar tão agradável, e não a toa Saejima está ali curtindo seus dias.
+
+Infelizmente Saejima ouve que seu irmão foi assassinado e por isso acaba fugindo da prisão com a mesma facilidade que fugiu da prisão em [[Yakuza 4]], do nada virando o melhor amigo incondicional de um tal de Shigeki Baba. Aprendendo a caçar e depois virando o maior frequentador do principal puteiro de Sapporo.
+
+=== Haruka/Akiyama ===
+
+[[Arquivo:Yakuza 5 music.png|thumb|left|Haruka dançando [[É o Tchan]] para conquistar a simpatia do público.]]
+
+Pela primeira vez na série controlamos a filha adotiva de Kiryu, a doce, meiga, gentil e ultra-fofa Haruka. Obviamente não utilizamos Haruka pra cair na porrada com os outros, mas parece que ela sofre da mesma síndrome do pai de ser desafiada por desconhecidos no meio da rua, mas os desafios que são oferecidos pra ela são duelos de dança contra outras meninas. Haruka se separou de Kiryu para seguir seu sonho de ser uma [[AV idol]] e para tal passa a ficar sob os cuidados de uma coreana chamada Park em [[Osaka]] ([[Yakuza 2]]), que apesar de parecer marrenta chata a primeira vista, na verdade se revela como uma balzaquiana carente que se arrepende de nunca ter tido uma filha e por isso coloca todo seu amor materno na figura da Haruka a quem ela fará de tudo. Park infelizmente acaba sendo suicidada por uns capangas e nos é revelado que ela era ex-namorada do Majima, aquele viadão que apanha em todo jogo da série.
+
+Ao mesmo tempo ocorre a história de Akiyama, o único [[agiota]] gente fina do mundo, que emprestou 300 milhões de dinheiros para Park e agora que ela morreu ele assume o trabalho dela, o que inclui proteger uma porra de uma carta do ex-namorado da mulher morta que depois veremos que não serve pra nada, ou seja, a Park morre pra nada.
+
+=== Shinada ===
+
+O quarto capítulo é sobre um personagem novo, o ex-jogador de [[baseball]] Tatsuo Shinada que vive em [[Nagoya]] e jogou só um jogo profissional de baseball na carreira 10 anos atrás antes de ser acusado de [[Edílson Pereira de Carvalho|participar de esquema de manipulação de resultados]]. Em desgraça e descrédito, ele se torna escritor de [[contos eróticos]], o que obviamente mal paga seu sustento, até porque ele gasta o pouco dinheiro que ganha com uma prostituta chamada ''"Milky"'', e nem é pra comê-la, só pra bater papo mesmo (assim como os demais protagonistas, Shinada também sofre desse estranho mal que o faz querer apenas bater papo com putas).
+
+A questão é que Shinada está devendo uma enorme grana para outro agiota bonzinho (poxa, acho que vou pro Japão pedir um empréstimo) e um cara misterioso com o rosto e a voz do Daigo, líder da Yakuza, aparece oferecendo uma maleta cheia de dinheiro só para o Shinada investigar a própria vida e descobrir quem realmente combinou os resultados na [[Máfia do Apito]]. Após algumas sessões de massagem e umas rebatidas de baseball, Shinada descobre que todos seus amigos faziam parte de um mega-esquema com o objetivo de [[porra nenhuma]].
+
+=== Final ===
+
+Todas as quatro histórias até então apresentadas convergem para o grande final que pode ser resumido em apenas uma frase: "A maior prova de que alguém é fã incondicional de j-pop".
+
+Acontece que o grande vilão do jogo se revela como um velhinho com câncer terminal que resolveu tocar o zaralho. Esse velhinho é um dos poucos personagens  dessa série que possui um mínimo de bom senso pois parece que é o único ali que entende que ser um [[yakuza]] significa ser um criminoso, e não um justiceiro. Esse velhinho também odeia j-pop (outro sinal de bom senso) e tem como grande plano ordenar que seu capanga desfira um [[head shot]] na Haruka que ia se apresentar no [[Tokyo Dome]]. Kiryu, Saejima, Akiyama e Shinada então se unem para impedir esse atentado porque o j-pop não pode morrer e todos os [[hater]]s devem ser impedidos, nunca com argumentos, pois não há argumento no mundo que possa defender a qualidade musical do j-pop.
+
+O último chefão, aliás, acaba sendo um cara nada a ver com a tatuagem de um [[peixe]] nas costas, um tal de Aizawa, que era só um capanga aleatório qualquer e, aliás, já havia sido facilmente surrado nos capítulos anteriores do jogo, mas que agora surge com uma barra de HP imensa. Só para ser espancado por Kiryu.
+
+Já a doce Haruka, no final do jogo demonstra um enorme nível de bom senso e autocrítica ao encerrar seu show anunciando o fim de sua carreira.
+
+{{Yakuza games}}
+
+[[Categoria:Jogos lançados em 2012]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para PlayStation 3]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de ação-aventura]]

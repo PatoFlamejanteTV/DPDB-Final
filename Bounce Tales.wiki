@@ -1,0 +1,100 @@
+{{jogo}}
+
+{{c|Traduzindo: ''Contos de Rejeição''|[[Google Tradutor]]|Bounce Tales}}
+{{c|Eu tenho medo!|[[Regina Duarte]]|Hypnotoid}}
+
+{{Infobox Série Game
+|title         = Bounce Tales
+|image_logo    = Bounce Tales.png
+|caption       = {{c|Oi, eu sou o Bounce! Vou salvar meus amiguinhos do vilão numa superaventura fodástica!|Bounce, Bumpy e Wolly.}}
+|genre         = Coletar feijões e derrotar Hypnotoid
+|developer     = Rovio Entertainment
+|publisher     = [[Nokia]], [[Java]]
+|origin        = Celular da [[Nokia]]
+|first_release = Bounce (2000)
+|last_release  = Bounce Boing Voyage (2010)
+}}
+
+[[Arquivo:Bounce Tales fanart.png|right|thumb|156x240px|Todos os personagens desse conto de fadas moderno.]]
+
+'''Bounce Tales''' é mais um daqueles jogos que você achava em alguna celulares mais avançadinhos da Nokia ([[2007]] em diante) e que você começou a jogar e acabou gostando no final. Criado em [[2008]], o jogo é uma fábula <s>sem lição de moral</s> onde você conhece a história de Bounce, e sua incrível e fodástica jornada em salvar Sky Bean Land das garras do terrível Hypnotoid. Foi desenvolvido pela mesma empresa que lançou os [[Angry Birds|passarinhos raivosos]].
+
+== Como se joga ==
+Você deve coletar feijões (30 em cada nível) para passar de fase, salvar amigos (outras bolas) e derrotar o grande vilão de tudo isso, Hypnotoid. Seu objetivo é conquistar canecos de ouro em todos os capítulos (como se chamam os níveis do jogo) e depois chegar até o fim do jogo no menor tempo possível, o ''desafio de tempo'', para obter a forma mais foderosa do Bounce, "Super Bounce".
+
+== Era uma vez... ==
+{{c|Em uma manhã de nevoeiro, Bounce acordou e queria saber aonde teriam ido os pássaros cantantes}}
+
+O jogo tem 12 <s>níveis</s> capítulos, além de três outros de bônus. Bounce é uma típica bola pula-pula de borracha vermelha, que parte em uma missão para salvar seus amigos e derrotar o grande vilão, e assim, salvar Sky Bean Land. No caminho, tem de deter uma máquina que suga lentamente as cores do verão, além de lidar com uma toupeira [[hipnose|hipnotizada]].<br>
+Como o jogo é segmentado por capítulos, então aqui vou falar melhor de como é cada fase do Bounce, assim você não perde seu tempo, nem eu o meu. ;)
+
+=== Fase 1 (Sky Bean Land): Manhã de Nevoeiro, Amigos Não-Amigáveis, Buscando Respostas e Bumpy Cracks ===
+Aqui, tudo é bonitinho, colorido e tal, com uma agradável musiquinha de fundo. No primeiro capítulo, conhecemos as alavancas que abrem as passagens, e também a toupeira hipnotizada que é a guardiã da máquina que suga as cores do verão (as cores ficam ''bugadas'' e, para que tudo volte ao normal, o Bounce deve saltar por sobre ela, destruindo-a). Sempre que Bounce se aproxima da toupeira, ela põe a cabeça para fora e ejeta o Bounce para o alto (isso é útil para a colheita dos feijões - daí o nome de Sky '''Bean''' Land). No segundo capítulo, conhecemos "''o maldito Hypnotoid a partir''" (como já diz no próprio jogo), um cubo perverso e responsável pelo hipnotismo da toupeira e outras maldades mais. No quarto capítulo, entra outra musiquinha, tensa, e conhecemos a bola de pedra Bumpy. É aqui também que descobrimos que Bounce é um exímio nadador, e que pode coletar feijões sob a água ([[Cocoricó|puxa, puxa, que puxa!]]) e também obtém a forma de bola de pedra do Bumpy. Você deve chegar até a [[abóbora|moranga]] no final.
+
+* '''Caminho secreto:''' o primeiro dos 3 capítulos-bônus do Bounce. Neles, o objetivo é coletar todos os feijões em menor tempo possível. Os fundos são um dégradé que vai do laranja ao roxo, e todos com uma mesma musiquinha circense de fundo. O cenário deste aqui lembra aqueles joguinhos de plástico que você compra na [[loja de 1,99|loja de R$ 1,99]] por 1,99 (!!!), no qual uma bolinha tem que atravessar obstáculos para marcar a maior pontuação. Aqui é mais ou menos igual, só que sem as casas de pontos.
+
+=== Fase 2 (MushroomLand): Nas Minas, Um Trilho Sombrio, Sons Barulhentos e Armadilha na Máquina ===
+Aqui mudamos de cenário: o céu ainda é claro, mas no lugar de todas aquelas florzinhas e plantinhas da primeira fase, aqui temos [[cogumelo]]s e árvores bizarras sem folhagens, além de uma terceira musiquinha, um ''tenso leve de ação''. Nosso herói elástico segue sua odisseia em salvar seus amigos e deter Hypnotoid, e consequentemente, Sky Bean Land da escuridão perpétua. Aqui temos também passagens de pedras, as quais Bounce deve eliminar ativando a forma de pedra de Bumpy. No sexto capítulo, conhecemos os aliados de Hypnotoid: uns piões bizarros que ficam rodopiando tal qual bailarinas, e que podem empurrar Bounce para o abismo ou para as lanças na qual ele pode se machucar, os quais também viram feijões se Bounce saltar sobre eles. Nos capítulos 7 e 8, há uns jogos de três plataformas giratórias, que podem ajudar Bounce a colher os feijões ou empurrá-lo às lanças, e no sétimo também é a última vez que vemos a máquina sugadora das cores do verão. No capítulo 8, entra a mesma musiquinha do 4. Aqui, o objetivo é salvar outra bola de Hypnotoid.<br>
+{{c|O Bounce entrou em uma sala estranha, com todos os tipos de martelos, tubos e rodas com dentes. Havia óleo gotejando do teto do túnel, e o som dos motores fez girar a cabeça do Bounce. Do fundo ouvia-se uma voz aguda, gritando por socorro.|Início do capítulo 8}}<br>
+Bem, não há o tal óleo gotejando do teto do túnel, mas aqui começamos com a toupeira (WHAT? Mas nem há mais a máquina sugadora das cores do verão a partir daqui.), umas plataformas movediças e muitas lanças por todos os lados. Ao chegar no fim dos capítulos 5, 6 e 7, sai a moranga e entra um cogumelo roxo e branco (não, eu não tomei [[LSD|ácido]]), que é o destino de Bounce. No fim do 8, encontramos uma nova bola, Wolly, aprisionada atrás de pedras. Ela faz parte do circo malvado (já chegamos lá, 'guenta aí) de Hypnotoid, que a aprisionou para que o vilão dê cabo do Bounce sozinho.
+
+* '''Túnel dos Tesouros:''' segundo capítulo-bônus, onde há cogumelos pula-pula e com a mesma musiquinha circense.
+
+=== Fase 3 (HypnoLand): Circo Malvado, Cores de Caça, Quase Lá e A Viagem Final ===
+Aqui as coisas ficam mais tenebrosas: entra a quarta musiquinha de fundo, mais sombria e vilânica. O céu está escuro e as construções de fundo são trevosas. Tecnicamente, entramos no ''circo malvado'' do vilão. No capítulo 9, nosso herói deve enfrentar logo de cara um paredão com pedras e um lago com lanças embaixo (é aí que Bounce ativa a forma de Wolly, uma bola de praia), mais três jogos de duas, uma e três lanças, respectivamente, plataformas movediças e uma câmara com dentes que pendem do alto. Aqui, sai o cogumelo e entra um espelho no lugar. Ah, claro, ia me esquecendo: aqui também entram os canhões onde Bounce deve entrar para realizar alguma ação. No 10, Bounce já enfrenta de cara um dos piões de Hypnotoid, tem de atravessar as bocarras de dois monstros com lanças afiadas no lugar dos dentes, transformar a toupeira (fazendo o quê ali, se não tem mais a máquina sugadora?) em feijões e ativar a bola de praia para alcançar superfícies altíssimas (há umas flores roxas que soltam um vaporzinho). No 11, você deve ativar o canhão e uma alavanca para passar para o outro lado, só que ao chegar no espelho o Hypnotoid barra o Bounce, que cai em umas plataforminhas pequenininhas que nem teu pinto (confessa: você já quis jogar seu Nokia pela janela de tão difícil que é essa parte do jogo), onde você deve ter muito cuidado ao pular pois, além das lanças afiadas, há aquela plataforma maior que se move na horizontal, e pode te atrapalhar, além das plataformas movediças do capítulo 9.<br>
+{{c|Finalmente te peguei, Hypnotoid!|Bounce para Hypnotoid}}
+{{c|Tão rápido não, pequena borracha vermelha! {{-}} riu-se Hypnotoid, e todas as hypnomáquinas começaram trovejando|Hypnotoid, em resposta a Bounce}}<br>
+Mas é no capítulo 12 que a porra toda começa a ficar séria de verdade (não é à toa que se chama ''A Viagem Final''), pois é aqui que Bounce encontra seu maior adversário: Hypnotoid (MEDO!). O que Hypnotoid quer: destruir Bounce e conquistar Sky Bean Land, emergindo-a na escuridão permanente, usando dois jogos de lanças; o que Bounce deve fazer: destruir o vilão, o quebrando por baixo, pulando sob ele. No cenário, há um jogo de lanças à esquerda e as cores do verão (ou o que sobrou delas) terminando de serem sugadas. Só há um único movimento: para a direita. Após coletar os 30 feijões, você precisa bater 4 vezes o antagonista e salvar o Bounce e Sky Bean Land.<br>
+{{c|Nãããão! Eu estava tão próximoooo!|gritou Hypnotoid}}
+{{c|Bem-feito, cubo maldito! Retorne ao local cúbico chato de onde você veio e não retornes mais!|Bounce}}
+{{c|Após salvar Sky Bean Land, Bounce foi convidado a entrar no castelo do rei, onde todas as criaturas o aplaudiram de pé. As cores retornaram a normal e tudo ficou de novo bonito.|Fim do jogo}}
+
+ :'-)
+
+* '''Feira fantástica:''' Estava muito enganado se você pensava mesmo que acabou o jogo. Este você só desbloqueia coletando '''TODOS''' os 420 dos 450 feijões (são 30 por capítulo, considerando os bônus e 12 capítulos principais e 2 bônus. 12+2=14, e 14×30=420), o que significa que se você pegar {{color|orange|419}} feijões, não vale. Lá, tudo o que você precisa é entrar em sete canhões e coletar os feijões  [[Castelo Rá-Tim-Bum|ih, rimou!]].
+(A feira fantástica não tem hortifruti e não vende pastel com caldo de cana)
+
+== Controles ==
+Como o jogo era distribuído para '''celulares''' da Nokia, e não ''smartphones'' como é hoje, você tinha de usar o teclado para controlar o Bounce.
+* '''2''' faz o canhão onde o Bounce entrou subir;
+* '''4''' faz o Bounce ir para a esquerda;
+* '''5''' faz o Bounce pular, e disparar os canhões;
+* '''6''' faz o Bounce ir para a direita;
+* '''8''' faz o canhão onde o Bounce entrou descer;
+* '''*''' faz o Bounce mudar sua forma para bola de pedra e bola de praia.
+
+== Personagens ==
+* {{color|red|'''''Bounce:'''''}} O herói desse incrível conto de fadas disfarçado de jogo para celular. É a típica bola vermelha de borracha que pula ([[Chiquinha|isso você já disse!]]). Deve salvar seu reino e seus amigos do perigo e coletar os feijões que o sustentam (ou você pensava que eles servem só para marcar a pontuação?). Quando você conquista todos os canecos de [[ouro]] em todos os níveis, ele se transforma no Super Bounce, cujo superpoder é ganhar umas estrelinhas à medida em que vai se locomovendo;
+* <font color="brown">'''''Toupeira:'''''</font> É uma [[toupeira]] ([[Dona Florinda|não me diga...]] <s>[[Seu Madruga|então não me pergunte!]]</s>) que foi hipnotizada por Hypnotoid, para que sugue as cores do verão. Tenta afastar Bounce de seu caminho, mesmo sem a tal máquina sugadora, pois está hipnotizada;
+* {{color|orange|'''''Hypnotoid:'''''}} O grande [[vilão]], é um cubo [[redundância|cúbico quadrado de 6 faces]] que está sempre com cara de zangado e quer derrotar Bounce e conquistar Sky Bean Land, mas se fode no final;
+* {{color|gray|'''''Bumpy:'''''}} É ''uma espécie de pedra coberta com musgo'' (segundo diz o próprio jogo) que estava também hipnotizada. Bounce assume sua forma para quebrar paredes de pedregulhos;
+* {{color|blue|'''''Piões:'''''}} São os asseclas de Hypnotoid. Têm a cabeça azul e o corpo laranja;
+* '''''Wolly:''''' Uma bola de praia nas cores vermelha, amarela e azul clara, alternando com branco (estereótipo de bola de vôlei de praia). Foi aprisionado por Hypnotoid, que controla seu [[circo]] para que este elimine Bounce sozinho. Assume sua forma de bola de praia para pegar o vilão;
+* '''''Rei de Sky Bean Land:''''' Só é citado no capítulo 12, dono do castelo no qual onde todas as criaturas o aplaudem de pé, e tudo volta a ficar [[Belchior|divino e maravilhoso]].
+
+== Público-alvo ==
+Pela narrativa, parece que foi feito exclusivamente para as [[criança|criancinhas]], principalmente as dos sexo feminino. Mas até mesmo [[você]] pode jogá-lo sem torcer o nariz.
+
+== Gameplay ==
+A hora final: Bounce versus Hypnotoid... temam, desciclopedianos!!!<br/>
+<YouTube>vDQ3dgnqNcw</YouTube>
+
+== Considerações finais ==
+* Desenvolvido exclusivamente para os celulares Nokia, mas somente alguns modelos mais novinhos;
+* Em todos os capítulos há um reloginho marcando 10:35, mas que marca o tempo que você tá lá salvando o Bounce;
+* É o único jogo em que você [[imortal|NÃO MORRE]], se você jogar o Bounce nas lanças ou nos abismos, mas não vale abusar <s>da sua condição de imbecil</s>, hein?
+* Foram produzidas outras versões do Bounce, mas nenhuma delas é tão fodona quanto esta (não ouse em discordar);
+* Este artigo foi criado por [[fã]], para fã(s)! ;)
+
+== Ver também ==
+* [[Angry Birds]]
+* [[contos de fada]]
+* [[Nokia]]
+
+{{Jogos de celular}}
+
+[[Categoria:Jogos da Rovio Entertainment]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos lançados em 2008]]
+[[Categoria:Jogos para Android]]
+[[Categoria:Jogos para iOS]]

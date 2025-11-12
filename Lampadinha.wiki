@@ -1,0 +1,65 @@
+{{Elétrico}}
+{| class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+|-
+!style="text-align:center; {{{comic_color}}}"|<big>'''''Lampadinha'''''</big>
+|-
+|style="text-align: center; font-size: 90%;"|
+<br />
+|-
+|[[Arquivo:Lampadinha 999.jpg|center|220px]]
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+|- style="vertical-align: top;"
+|'''''Nome Real'''''||''Lampadinha''
+|- style="vertical-align: top;"
+|'''''Cidade'''''||''{{Strike|Ferro-velho de}} [[Patópolis]]''
+|}
+|-
+|
+----
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+!colspan="2" style="text-align:center;{{{alliance_color}}}"|Características
+|- style="vertical-align: top;"
+|'''''Inteligência'''''||''{{099}}''
+|- class="hiddenStructure{{{alliances}}}" style="vertical-align: top;"
+|'''''Afiliações'''''||''[[Professor Pardal]]''
+|- class="hiddenStructure{{{relatives}}}" style="vertical-align: top;"
+|'''''Parentes'''''||''Todas as tranqueiras encontradas no ferro-velho''
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''''Inimigos'''''||''Os mesmos do [[Professor Pardal]]''
+|- style="vertical-align: top;"
+|'''''Poderes'''''||''Soltar um raio da cabeça que faria o [[Thor]] ficar com inveja''
+|}
+|}
+
+'''{{PAGENAME}}''' é um personagem {{Strike|extremamente}} secundário da [[Disney]], que serve como um ajudante do [[Professor Pardal]]. Porém, diferentemente de seu criador, que fica com a cabeça lá em [[Tangamandápio]], '''{{PAGENAME}}''' fica sempre observando todas as situações que o rodeiam.
+
+==História==
+[[Arquivo:Lampadinha 1000.jpg|thumb|200px|left|'''{{PAGENAME}}''' tentando encontrar a fórmula do [[Lico de Cair Pinto]].]]
+Em um dia como qualquer outro, enquanto o [[Professor Pardal]] estava com a cabeça lá longe (como sempre), ele percebeu que estava precisando de um assistente, afinal, a população de [[Patópolis]] pedia para ele fazer trocentos inventos para entregar em menos de [[cinco]] minutos. Então, como o [[Professor Pardal]] é um gênio ([[ou não]]), ele foi para {{Strike|o seu barraco de madeira}} a sua oficina e, para pensar melhor, ele se aplicou uma marretada na cabeça. Detalhe que essa marreta pesava mais do que a [[Preta Gil]].
+
+Depois de se dar a marretada, o [[Professor Pardal]] teve uma ideia [[Paulo Bonfá|totalmente excelente]]: Ele iria criar um assistente com o formato de uma [[lâmpada]], pois dessa forma, ele não teria problemas para levar o seu assistente onde quer que ele fosse. Esse assistente em forma de lâmpada se chamaria '''{{PAGENAME}}'''.
+
+Para começar a construção, o [[Professor Pardal]] foi para o ferro-velho patopolense, para buscar todos os materiais necessários. E o Professor Pardal conseguiu todos os materiais, afinal, o ferro-velho patopolense é mais rico do que o [[lixo]] [[brasileiro]]. Com os materiais em mãos, a única coisa que o [[Professor Pardal]] precisava fazer era começar a construção do seu assistente.
+
+Para construir não foi muito difícil, afinal, se o [[Professor Pardal]] já tinha inventado até mesmo tapetes voadores e veículos flutuantes com tecnologia de ponta, ele não teria nenhum problema para construir um simples [[robô]] em forma de lâmpada.Assim, depois de algumas horas, o Professor Pardal finalmente terminou a construção, e estava formado o '''{{PAGENAME}}'''.
+
+==Após o nascimento==
+
+Depois que os circuitos do '''{{PAGENAME}}''' começaram a funcionar, a [[Primeiro|primeira]] coisa que o [[Professor Pardal]] fez foi testá-lo, para ver se ele realmente tinha uma boa inteligência artificial. E os testes foram muito bem sucedidos, pois o '''{{PAGENAME}}''' mostrou que era muito mais inteligente que o próprio [[Professor Pardal]], e que também era [[Arquivo:Infinito.jpg|20px]] vezes mais inteligente que [[você]] (bom, mas isso não é nenhuma novidade, afinal, até mesmo um [[cachorro]] é [[Arquivo:Infinito.jpg|20px]] vezes mais inteligente que [[você]]).
+
+Bom, de qualquer maneira, o importante é que o '''{{PAGENAME}}''' tinha uma inteligência espetacular, e podia ajudar o [[Professor Pardal]] em muitas coisas. No começo, o '''{{PAGENAME}}''' servia apenas como um robôzinho que ficava trancado na oficina do Professor Pardal, tendo ideias e organizando as coisas. Porém, como o tempo, '''{{PAGENAME}}''' se tornou o melhor amigo do [[Professor Pardal]], desbancando os cachorros. O '''{{PAGENAME}}''' ficou tão amigo do Professor Pardal que ele o acompanha em todos os lugares, sendo que '''{{PAGENAME}}''' costuma viajar emcima do carrinho de venda de invenções, segurando uma plaquinha que ninguém lê.
+
+==Ver também==
+
+*[[Professor Pardal]]
+*[[Lâmpada]]
+
+----
+
+{{Disney}}
+
+[[Categoria:Máquina]]
+[[Categoria:Gênios]]
+[[Categoria:Artigos elétricos]]

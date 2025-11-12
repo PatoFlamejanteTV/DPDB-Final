@@ -1,0 +1,2593 @@
+{{complementar|Programação Orientada a Gambiarras}}
+
+'''Atenção: Este artigo, de forma semelhante aos programas que ele descreve, cresceu e sofreu modificações de forma desordenada e desorganizada, por autoria de diversas pessoas. O resultado é que este artigo é excessivamente longo, pesado e desestruturado, exatamente como qualquer programa que segue a metodologia [[POG]]. Este artigo precisa ser refatorado em artigos menores, mas nenhum dos POGramadores que são autores dele têm tempo, vontade ou cérebro o suficiente para fazer isto, preferindo então seguir os conceitos da POG e ficar apenas remendando-o e inchando-o cada vez mais.'''
+
+As ''Soluções Técnicas de Contorno'' (STC), também chamadas de ''Engenharias de Emergência'' (EE), ''Artifícios Técnicos de Emergência'' (ATE) ou ''Solução Criativa'' (aka. '''gambiarras''') podem ser aplicadas de várias formas. No entanto, não há ainda consenso entre desenvolvedores e analistas acerca de padrões de projeto para desenvolvimento orientado a gambiarras. Uma prática muito comum é criação de uma entidade específica, com o intuito único de prover uma funcionalidade emergencial a um sistema. Não são raros os casos de utilização de classes "<code>gambiarra.java</code>", "<code>agoravai.java</code>", "<code>funcionapeloamordedeus.cpp</code>", métodos "<code>void ajeita()</code>", "<code>public String bruto()</code>" e afins. Em alguns casos, métodos com nome sofisticados como "<code>setMagicOn()</code>" e "<code>setApellationMode(true)</code>" também são utilizados para dar um ar mais profissional. Também para tornar o código mais amigável e legível alguns programadores fazem uso abusivo do MO de métodos, utilizando nomes como "<code>check()</code>", "<code>checka()</code>", "<code>xeka()</code>" ou  "<code>pussy()</code>". São os chamados '''Gambiwares''', componentes de software que promovem a entrega de projetos com o mínimo de atraso possível.
+
+Nesta técnica, as linhas de comentário devem ser evitadas ou proibidas ([[ou não]]). Em caso de extrema necessidade o uso de línguas como ''hebraico'' ou ''tupi-guarani'' é recomendado.
+
+A técnica mais usada pelos programadores POG é usar sempre softwares que fazem todo serviço para ele e, claro, o [[Google]] para pegar ''scripts'' prontos e usar. Os programadores POG sempre são mais rápidos que o normal e cobram mais barato, enquanto que os outros programadores precisam cobrar mais caro pelo serviço porque eles sempre se enrolam e não conseguem entregar nada no prazo.
+
+As métricas e estimativas da Programação Orientada a Gambiarras provêm das metodologias de medição de software denominadas '''''C'''onceito '''H'''olístico '''U'''nilateral para '''T'''ipificação '''E'''strutural'', mais conhecido pela sua abreviação: '''C.H.U.T.E.''' e '''''C'''álculo '''H'''ipotético '''U'''sando '''T'''écnicas '''E'''statísticas'', também mais conhecido pela sua abreviação: '''C.H.U.T.E.'''. Todas essas abordagens utilizadas são desenvolvidas dentro de um framework metodológico de desenvolvimento de software conhecido pelo seu nome em inglês '''''F'''actoring of '''O'''rganized '''D'''evelopment for '''A'''pplications - '''S'''oftware '''E'''lements'', ou simplesmente, '''F.O.D.A. - S.E'''. A prática dessa metodologia normalmente é designada pelos termos '''Tacar o F.O.D.A. - S.E.''' ou ainda quando temos o time tem menos tempo '''Meter o F.O.D.A. - S.E.'''.
+
+Abaixo, são listados os diversos padrões de projetos Gambi existentes.
+
+[[Arquivo:GambiDesignPatterns.jpg|right|thumb|Best-seller da ''[[O Rly?|O'Reilly]]'' no mercado brasileiro. Note o animal tipicamente nacional: a Anta]]
+
+== Gambi Design Patterns comportamentais ==
+
+Os Gambi Design Patterns comportamentais são aqueles padrões que resultam de requisitos "especiais" para serem implementados.
+
+=== Zé do Caixão, ou "À Meia Noite Rodarei o teu Script" ===
+
+É o tipo de código que faz um bocado de absurdos, como apagar logs e outros arquivos que possam comprometer o desenvolvedor do sistema (que por "acaso" é uma merda), todo dia à meia noite. Em alguns casos, é tão subversivo, que funciona como um vírus, e é possível que alguns antivírus detectem como tal.
+
+== Gambi Design Patterns em bancos de dados ==
+
+Vários sistemas de informação, grandes ou pequenos, de diversas tecnologias e finalidades, necessitam de armazenamento de dados persistente. Por tal motivo, surgiram diversos padrões Gambi, listados abaixo, que garantem que as informações serão armazenadas de forma bem organizada, segura e confiável, garantindo que podem ser lidas, manipuladas e alteradas de forma efetiva e elegante.
+
+=== Timeline Relationship-Less ===
+
+Este pattern consiste em não modelar seu banco de dados corretamente com as chaves estrangeiras (FKs) necessárias, pois tudo dá pra inferir através das datas dos registros.
+
+Exemplo: A tabela <code>Order</code> não precisa de uma coluna <code>Visit_ID</code> pois se um dia você quiser saber em QUAL visita o pedido foi feito, basta fazer um JOIN entre as tabelas com <code>Order.dtOrder BETWEEN Visit.dtStart AND Visit.dtEnd</code>.
+
+Além disso, JOINs com BETWEEN são altamente performáticos!
+
+POGramadores plenos podem retirar relacionamentos entre <code>Order</code> e <code>OrderItem</code> por exemplo, afinal pela data em que o <code>OrderItem</code> foi inserido na tabela dá pra saber a qual pedido ele se refere, óbvio.
+
+POGramadores senior podem, ao combinar este padrão com o padrão [[#Referential_Integrity_by_Software|Referential Integrity by Software]] desta página, retirar TODOS relacionamentos do banco de dados, de forma a criar uma aplicação que reconstrói todo o histórico de uso com base apenas nas datas, de modo que os relacionamentos se tornam óbvios olhando o relatório. Além disso o seu gerente adora relatórios (e não entende relacionamentos), por isso vai adorar a ideia.
+
+=== Generic-One-Table-Fits-All ===
+
+Este pattern é muito inteligente, pois o pogueiro quando precisa criar uma nova entidade no banco de dados, ele olha as tabelas já existentes e procura aquela que já possui colunas parecidas.
+
+Então funciona mais ou menos assim, você tem uma tabela chamada <code>ProductClassification</code> para armazenar classificações de produtos, e a tabela tem campos <code>ID</code> e <code>Description</code>. Aí, em um belo dia você precisa criar uma tabela para classificar os clientes (<code>CustomerClassification</code>), mas pera lá. <code>ID</code> e <code>Description</code> já existem na tabela <code>ProductClassification</code>? Então você aproveita a tabela existente e cria um novo campo chamado <code>ClassifType</code> indicando 1=Produto, 2=Cliente, 3=Qualquer outra coisa (este pattern é relacionado ao [[#Polymorphic_Confusion|Polymorphic Confusion]]).
+
+POGueiros avançados já modelam seus sistemas com tabelas genéricas como "Status" que servem para classificar dezenas de entidades diferentes, pois integridade referencial não é necessária se o código for bem feito (se bem que todos sabemos que ele não é bem feito, mas foda-se).
+
+Uma vantagem óbvia deste pattern é que seu modelo de dados fica sucinto, simplificando o entendimento, e economizando tabelas para dar manutenção.
+
+=== Dynamic Columns Report ===
+
+Padrão utilizado para criação de relatórios aonde exija algum tipo de consolidação, largamente utilizado para relatórios que exijam consolidação por data.
+
+Passos:
+
+1 - Criar uma tabela chamada <code>DynamicReport</code>.
+
+2 - Cria-se uma ''Stored Procedure'' que consolide todos os dados que você deseja por dia, após o a captura desses dados criar-se uma coluna para cada dia que você deseje consolidar.
+
+Se você quiser que este relatório seja diário, coloca-se um job no SQL para que rode essa ''Stored Procedure'' todo dia, assim você obtém um relatório diário, pois será acrescentado a coluna do dia na sua tabela.
+
+Você deve estar se perguntando, mas essa tabela ficará enorme depois de alguns dias, meses, anos... Mas esta técnica prevê esse comportamento.
+Para que este tipo de comportamento não aconteça, duas providências são necessárias:
+
+1 - Alertar ao usuário que é possível somente visualizar o relatório de 31 dias apenas.
+
+2 - Na sua Store Procedure, colocar uma condição que caso os campos sejam maiores de 31, você dropa o primeiro e cria um novo.
+
+Segue código de exemplo da ''Procedure'':
+    
+ CREATE PROCEDURE dbo.p_GenerateDynamicReport_s
+ AS
+ BEGIN
+     SET NOCOUNT ON
+     SET ANSI_WARNINGS OFF
+ 
+     DECLARE
+         @dtEnd AS DATETIME,
+         @dtBegin AS DATETIME,
+         @dtLoop AS DATETIME,
+         @column AS VARCHAR(10),
+         @period AS DATETIME
+ 
+     SET	@dtEnd = CONVERT(DATETIME, CONVERT(VARCHAR, GETDATE(), 103), 103)
+     SET	@dtBegin = DATEADD(dd, -60, @dtEnd)
+ 
+     IF EXISTS (SELECT [NAME] FROM TEMPDB..[SYSOBJECTS] WHERE [NAME] LIKE '#TEMPVIEW%')
+     BEGIN
+         DROP TABLE #TEMPVIEW
+     END
+ 
+     IF EXISTS (SELECT * FROM DBO.SYSOBJECTS WHERE NAME = 'DynamicReport' AND OBJECTPROPERTY(ID, N'ISUSERTABLE') = 1)
+     BEGIN
+         DROP TABLE DynamicReport
+     END
+        
+     SELECT
+         CONVERT(SMALLDATETIME, CONVERT(VARCHAR, o.Date, 103), 103) AS [DATE], 
+         COUNT(CONVERT(SMALLDATETIME, CONVERT(VARCHAR, o.Date, 103), 103)) AS QUANTITY
+     INTO
+         #TEMPVIEW
+     FROM Order o
+         INNER JOIN OrderItem oi ON o.OrderID = oi.OrderID
+     GROUP BY
+         CONVERT(SMALLDATETIME, CONVERT(VARCHAR, o.Date, 103), 103)
+     HAVING
+         CONVERT(SMALLDATETIME, CONVERT(VARCHAR, o.Date, 103), 103) >= @DTBEGIN
+         AND CONVERT(SMALLDATETIME, CONVERT(VARCHAR, o.Date, 103), 103) <= @DTEND
+     ORDER BY
+         [DATE]
+ 
+     SET 	@period = DATEDIFF(dd, @dtBegin, @dtEnd)
+     SET	@dtLoop = @dtBegin
+ 
+     WHILE	(@dtLoop <= @dtEnd)
+     BEGIN
+        SET	@column = RTRIM(DATEPART(dd, @dtLoop)) + '/' + RTRIM(DATEPART(mm, @dtLoop)) + '/' + RTRIM(DATEPART(yyyy, @dtLoop))
+        SET	@query = 'ALTER TABLE DynamicReport ADD [' + @column + '] INT'
+        EXEC (@query)
+ 
+        SET	@query = 'UPDATE DynamicReport SET [' + @column + '] = #TEMPVIEW.QUANTITY FROM #TEMPVIEW 
+        EXEC	(@query)
+        SET	@dtLoop = DATEADD(day, 1, @dtLoop)
+     END
+        
+     IF EXISTS (SELECT [NAME] FROM TEMPDB..[SYSOBJECTS] WHERE [NAME] LIKE '#TEMPVIEW%')
+         BEGIN
+             DROP TABLE #TEMPVIEW
+         END
+     END
+ GO
+
+=== Power-Cursor ===
+
+O Power-Cursor é um recurso utilizado para tornar suas queries mais bonitas.
+A regra é simples: esqueça que uma query SQL pode trabalhar com um conjunto de registros em um único comando, e trabalhe com os registros um a um.
+Exemplo:
+
+ DECLARE
+    @idReportSchedule int,
+    @dtCreation datetime,
+    @dtCreationFrom datetime
+ 
+ DECLARE CUR_SCHEDULES CURSOR FOR
+    SELECT idReportSchedule, dtCreation FROM ReportScheduler
+ 
+ OPEN CUR_SCHEDULES
+ 
+    FETCH NEXT FROM CUR_SCHEDULES INTO @idReportSchedule, @dtCreation
+    
+    WHILE @@FETCH_STATUS = 0
+    BEGIN
+ 
+    	IF(DATEDIFF(dd, @dtCreation, GETDATE()) > 6)
+    	BEGIN
+    		DELETE FROM ReportScheduler WHERE idReportSchedule = @idReportSchedule
+    	END
+ 
+    	FETCH NEXT FROM CUR_SCHEDULES INTO @idReportSchedule, @dtCreation
+    END
+ 
+    CLOSE CUR_SCHEDULES
+    DEALLOCATE CUR_SCHEDULES
+
+Repare que o resultado é o mesmo que <code>DELETE FROM ReportScheduler WHERE dtCreation &gt; DATEDIFF(dd, -6, GETDATE())</code>, só que com o Power-Cursor o resultado é muito mais elegante, compreensível, e performático.
+
+Como outros patterns, este também é um exemplo real.
+
+=== AND 0=0 ===
+
+Outra Gambi Design Pattern largamente utilizada no mundo do SQL (de qualquer fabricante). Aqui a regra é montar uma query dinâmica com o menor esforço possível, e portanto a maior produtividade imaginável. Suponha que você precisa consultar a tabela de clientes e na tela de sua aplicação o usuário pode entrar duas informações diferentes para localizar o cliente. O experiente POGramador coloca tudo num linguição cheio de <code>AND</code>s, e depois coloca um "<code>0=0</code>" no final, pra não deixar nenhum "<code>AND</code>" sozinho (afinal, eles são muito carentes). E foda-se o plano de execução. Rodou? [[#Nem-Rela|NEM RELA]]!
+
+Segue um claro exemplo (retirado de aplicação real):
+
+ if ((txtNome.value == "") && (txtCPF.value == "")) {
+    alert("Informe no mínimo um campo para realizar a busca!");
+ } else {
+    var strSQL = "SELECT INDICE, NOME, CPF, ENDERECO FROM TB_CLIENTES WHERE ";
+    if (txtNome.value != "")
+       strSQL += " nome like '%" + txtNome.value + "%' AND "; //eis o truque. um AND aqui,
+    if (txtCPF.value != "")
+       strSQL += " CPF like '%" + txtCPF.value + "%' AND "; //e outro aqui.
+ 
+    strSQL += " 0=0"; // e então entra o 0=0 que evita o erro dos AND's sozinhos
+ }
+
+Observe que não é necessário nenhum tratamento para SQL Injection, sempre podemos confiar no usuário que vai usar a aplicação, ele não vai fazer nada para prejudicar o nosso sistema que ele também gosta tanto!
+
+==== WHERE 0=0 ====
+
+Parecido com o [[#AND 0=0|AND 0=0]], mas nesse caso você tem um SQL em que você vai adicionar condições dinâmicas. Em vez de sempre verificar se o <code>WHERE</code> já foi colocado ou não, o desenvolvedor coloca um "<code>WHERE 0=0</code>" e depois só vai colando os <code>AND</code>s no final, já que o <code>0=0</code> não vai fazer diferença e de quebra você economiza vários if's.
+
+Veja um exemplo sem o <code>WHERE 0=0</code>:
+
+ $sql = "SELECT * FROM Cliente ";
+ if($cond1 == true) $sql .= "WHERE id>50 ";
+ 
+ if($cond2 == true && $cond1 == true){ //tem que verificar, senão você vai acabar ficando com dois WHEREs
+     $sql .= "AND status=1 ";
+ } else if($cond2 == true && $cond1 == false){
+     $sql .= "WHERE status=1";
+ }
+
+Agora veja a implementação do padrão <code>WHERE 0=0</code>:
+ 
+ $sql = "SELECT * FROM Cliente WHERE 0=0 ";
+ 
+ if($cond1 == true) $sql .= "AND id>50 ";
+ if($cond2 == true) $sql .= "AND status=1 ";
+
+Viu, só? Essa gambiarra deixa o código bem mais fácil e intuitivo. Foda-se de tem um <code>WHERE 0=0</code> que não serve para merda nenhuma no meio da query.
+
+=== DB is our God ===
+
+Também conhecido como '''In DB we trust'''. Padrão gambi arquitetural em que '''TUDO''' é no banco de dados. Os dados, arquivos, imagens, lógica de negócio, tratamento de erros, geração de HTML. O programa em si é só um monte de strings (em variáveis estáticas, é óbvio) com as consultas.
+
+=== Referential Integrity by Software ===
+
+A Integridade Referencial é utilizada para garantir a Integridade dos dados entre as tabelas relacionadas. Após anos e anos de uso do padrão [[#DB is our God|''DB is our God'']], o pogueiro percebe que o principal problema em se usar banco de dados, é que ao tentar remover determinado registro, um erro é retornado devido aos relacionamentos entre as tabelas. Visando sempre a metade da metade inferior do prazo, o pogueiro simplesmente retira todos os relacionamentos entre as entidades, e, muitas vezes, desnormaliza cinco tabelas em uma só, garantindo assim o baixo tempo de desenvolvimento e fazendo com que a aplicação seja altamente performática.
+
+=== Unique never Exists ===
+
+Gambi design pattern largamente utilizado em sistemas vivos para projetos web nos quais os programadores das tabelas originais desprezaram o uso da cláusula <code>UNIQUE</code>, afinal de contas, esta é descartável...
+
+Exemplo prático aplicado a um select de uma tabela que retorna quantas visitas únicas um site teve.
+
+Estrutura da tabela:
+
+ table Visualizacao { integer id, text ip, timestamp data }
+
+Código:
+
+ select count( * ) from (Visualizacao join Visualizacao as Gambi)
+   where (Gambi.id <> Visualizacao.id and Gambi.ip <> Visualizacao.ip and
+   datediff(Visualizacao.data, Gambi.data) <> 0)
+
+=== Clone Wars ===
+
+Clone Wars se aplica a procedures ou funções onde ninguém avaliou o plano de execução e cujo código foi propagado usando a [[#RCP|RCP]], largamente usada pelos pogueiros. Como a única avaliação de performance foi o tempo de execução, em um banco onde as tabelas tinham dezenas de registros, com o tempo essas procedures consomem todos os recursos do servidor e saem no tapa por causa de 1 ciclo de processador e fila do disco.
+
+=== Hardcoded data ===
+
+Conceito POG muito utilizado que consiste em colocar-se os dados da aplicação diretamente no código-fonte, e não no banco de dados. Muito utilizado em diversas situações:
+
+# Quando não se tem banco de dados.
+# Quando se tem preguiça de se utilizar o banco de dados.
+# Quando o POGramador não sabe usar o banco de dados.
+# Quando a estrutura do banco de dados está suficientemente POGueada justificando a aplicação desta técnica.
+# Quando se tem pressa porque o gerente ou o cliente estão enchendo o saco e só querem saber de ver o troço rodando.
+
+Além disso, este padrão é utilizado para evitar que o usuário utilize o sistema inadequadamente cadastrando dados inválidos, pois todo e qualquer cadastro é feito pela equipe de programação. Desta forma, como o usuário nunca efetua o cadastro, o programa fica mais estável e ocorrem menos bugs.
+
+Exemplos:
+
+ if (usuario.getNome().equalsIgnoreCase("Fernando Dias dos Santos")) {
+    usuarioEhGerente = true;
+ }
+
+ switch (produto.getCodigo()) {
+     case 32: case 56: case 60: case 67: case 73:
+     case 90: case 115: case 131: case 147:
+     // case 133: case 122: // A franciele falou que esses tem que ser desativos.
+         produto.setTipo("Especial"); break;
+     case 21: case 44: case 45: case 46: case 78:
+     case 92: case 101: case 122: case 144:
+         produto.setTipo("Promocional"); break;
+     case 12: case 15: case 39: case 56: case 65:
+     case 79: case 81: case 82: case 84: case 109: case 127:
+     // case 36: // Esse daqui é pra ativar só no dia 15.
+         produto.setTipo("Super"); break;
+ }
+
+Este é um exemplo mais real, que além de mostrar o poder e flexibilidade da técnica hardcoded-data, ainda a combina com alguns outros Gambi Design Patterns:
+
+ public enum Usuario {
+     ALFONSO("Gerente"),
+     CARLOS("Técnico"),
+     CLOTILDE("Vendedora"),
+     HENRIQUE("Gerente"),
+     ISAÍAS("Telefonista"),
+     JOÃO_CARLOS("Auxiliar de escritório"),
+     JOÃO_AUGUSTO("Técnico"),
+     MARTA("Técnica"),
+     NAIR("Vendedora"),
+     RICARDO("Vendedor"),
+     SEBASTIÃO("Técnico"),
+     TIAGO("Telefonista");
+ 
+     public String nome, cargo;
+ 
+     //depois tem que achar 1 jeito de fazer o SVN naum mostrar isso aki.
+     public String[] senhas = new String[] {
+         "1234", "qwert", "clo clo", "120778",
+         "multimedia", "buceta", "magueira", "q1w2e3", "123456",
+         "xxxx", "asdf", "epson"};
+ 
+     public String senha;
+ 
+     private Usuario(String cargo) {
+         this.cargo = cargo;
+         this.nome = StringGOD.formataNome(this.name());
+         for (int i = 0; i < this.values().length; i++) {
+             if (this.values()[i] == this) this.senha = senhas[i];
+         }
+     }
+ 
+     public String getNome() { return nome; }
+     public String getCargo() { return cargo; }
+ 
+     public static void cadastraUsuario() {
+        // TODO: Alterar o código-fonte automaticamente, recompilar tudo e fazer o deploy automático em todos os clientes.
+        throw new RuntimeException("Para cadastrar um novo usuario favor entrar em contato com o CPD e fornecer nome, cargo e senha.");
+     }
+ 
+     public void mudarSenha(String novaSenha) {
+        // TODO: Alterar o código-fonte automaticamente, recompilar tudo e fazer o deploy automático em todos os clientes.
+        throw new RuntimeException("Para mudar a senha, favor entrar em contato com o CPD.");
+     }
+ }
+
+== Code Quality Gambi Design Patterns ==
+
+Os ''Code Quality Gambi Design Patterns'' são padrões de projeto especialmente desenvolvidos para garantir-se alta qualidade, eficiência, legibilidade e boa documentação do código produzido. Consistem de um conjunto de boas práticas já muito <s>excrementadas</s> experimentadas no mercado, sendo reconhecidas por seus inúmeros ''cases'' de sucesso.
+
+=== QPÉ ===
+
+Mais conhecido como "'''Que p* é essa!?'''" ou ainda WTF (''What the fuck!?'') ou WTH (''What the hell!?''). É aquele código que você sabe como funciona, mas depois do resultado pronto olha para aquela [[merda]] e não quer nem saber como vão dar manutenção depois!
+
+Exemplo:
+
+ "/ .*?<  ".replaceAll("","").trim();
+
+Outro exemplo interessante retirado de um sistema real em produção.
+
+ private static void setDayOfMonth(Calendar calendar, int day)
+     {
+         calendar.setLenient(false);
+         
+         Date date = null;
+         int offset = 0;
+         while (date == null)
+         {
+             calendar.set(Calendar.DAY_OF_MONTH, day - offset);
+             try
+             {
+                 date = calendar.getTime();
+             }
+             catch (IllegalArgumentException e)
+             {
+             	System.out.println("offset = " + offset);
+                 offset++;
+             }
+         }
+     }
+
+=== Nonsense Flag ===
+
+Por um legítimo impulso gambiarrizador solucionador de problemas, o desenvolvedor salpica um monte de variáveis com nomes sensacionais como "<code>pepeJaTireiAVela</code>", "<code>newCounter2</code>", "<code>jaTrocouDeAba</code>", "<code>passouPorAqui</code>", "<code>numeroMagico</code>", "<code>naoAchou</code>", "<code>anterior5</code>", "<code>atual5</code>", "<code>anteriorDoAnterior5</code>", "<code>quatroDaManha</code>" (caso em que se aplica a técnica de [[Programação de Véspera]]).
+
+=== UTF-8 Abuse ===
+
+Esta gambiarra consiste no uso abusivo de acentuações em nomes de variáveis e métodos caso a linguagem suporte, como é o caso do Java e Scheme. Dane-se se você usa Windows com ISO-8859-1 ou Windows-1252 e não aprendeu que o padrão mundial é UNICODE. Dane-se a incompatibilidade com sistemas de controle de versão etc. O que importa é usar variáveis com acentuação correta, para se adequar à língua portuguesa e evitar o duplo sentido. Variáveis e métodos assim '''são''' altamente recomendados em POG:
+
+* <code>nó</code> (poderia ser confundido com "no", termo usado em expressões tais como "enfia no cu")
+* <code>faça()</code> (poderia ser confundido com "faca", objeto cortante)
+* <code>ação()</code> (quanto mais acentos num mesmo símbolo melhor)
+
+Se possível, use também nome de classes com acentuação, assim:
+* <code>ClasseNó</code>
+* <code>FaçaIssoJá</code>
+
+Exemplo de uso de caracteres Unicode para fazer seu código mais bonito:
+
+ public class &#28961; extends Exception { }
+
+ public class OperaçãoDeDivisão {
+     int façaDivisão(int x, int y) {
+         if (y == 0) {
+              throw new &#28961;();
+         }
+ 
+         return x / y;
+     }
+ }
+
+=== Um array vale mais que mil variáveis ===
+
+A declaração de variáveis, na maior parte das linguagens de programação tende a ser uma tarefa tediosa e cansativa. É muito mais eficiente e fácil declarar um array com elementos suficientes para colocar todas as variáveis que o programador julgar necessárias. Ex:
+
+ public static void processaDados(Object[] dados) {
+   ((Produto) dados[23]).setPreco((Float) dados[64]);
+   ((Produto) dados[23]).setMargem((Float) dados[25]);
+   ((Produto) dados[23]).setPrecoCusto((Float) dados[82]);
+   ((Produto) dados[23]).setPromocao((String) dados[47]);
+   ((Venda) dados[49]).addProduto((Produto) dados[23]);
+   dados[51] = dados[44]; // Se não fizer isso dá pau.
+ 
+   // O Marcão desativou essa linha e o bug da impressão de produtos arrumou,
+   // mas a tela de funcionários ficou deslocada para a direita, ninguém sabe porque.
+   //dados[88] = dados[21];
+ }
+
+=== Mil e uma variáveis vale mais que um array ===
+
+Este daqui é oposto ao padrão anterior. Dita que arrays não devem ser usados nunca e que as variáveis devem ter nomes como <code>cliente1</code>, <code>cliente2</code>, <code>cliente3</code> e assim por diante. Melhor ainda quando tipos estruturados não forem usados, levando a nomes de variáveis tais como <code>nomeCliente1</code>, <code>enderecoCliente1</code>, <code>emailCliente1</code>, <code>nomeCliente2</code>, <code>enderecoCliente2</code>, <code>emailCliente2</code>, <code>nomeCliente3</code>, <code>enderecoCliente3</code>, <code>emailCliente3</code>.
+
+Este padrão é muito útil para eliminar-se aqueles arrays e listas irritantes da linguagem, de forma a permitir ao POGramador já ter todas as variáveis necessárias prontas para uso em número suficiente para serem usadas. Uma vez que com variáveis desse tipo, o uso de laços do tipo <code>for</code> ou <code>while</code> torna-se praticamente imposssível, isso significa que o POGramador precisará dispender menos esforço em aprender a linguagem de programação, podendo dispensar esses conceitos e sendo incentivado a usar técnicas muito melhores descritas nesta página tais como o [[#RCP|RCP]] e o [[#selfLang|selfLang]].
+
+=== Big This ===
+
+Técnica muito útil principalmente em Java, C# e JavaScript. Use ela quando é necessário utilizar o <code>this</code> da classe externa quando você está dentro de uma classe interna ou anônima. Exemplo retirado de aplicação real:
+
+ class GUI {
+   GUI() {
+     bigThis = this;
+     //...
+   }
+   //...
+   private JMenuItem getJMenuItem14() {
+     if (jMenuItem14 == null) {
+       jMenuItem14 = new JMenuItem();
+       jMenuItem14.setText("OPEC");
+       jMenuItem14.addActionListener(new java.awt.event.ActionListener() {
+          public void actionPerformed(java.awt.event.ActionEvent e) {
+ 
+           //NOTA: o this aqui não é o this que eu quero.
+           //Não gosto de "GUI.this" porque não sei usar isso.
+ 	   Localizar l = new Localizar("OPEC", fx,bigThis);
+ 
+ 	   JInternalFrame ifr = new JInternalFrame();
+ 	   ifr.setContentPane(l.getJPanel());
+ 	   ifr.setSize(l.getJPanel().getSize());
+ 	   jDesktopPane.add(ifr);
+ 	   ifr.setClosable(true);
+ 	   ifr.setTitle("Buscar OPEC");
+ 	   ifr.setVisible(true);
+         }
+        });
+       }
+       return jMenuItem14;
+   }
+   //...
+ }
+
+=== Nmes de vars abrv cm pouc vgs ===
+
+Pdrã q cnsist em abrv td no cod fnt p/ prgç d dgt nms d vars lngs d+. C/ 1 prfc mto frt d elim vgs. P/ exmp:
+
+ Clnt cli = new Clnt(codCli);
+ cli.setNme("Zé da Silva");
+ cli.setTlfn("5421 9077");
+ cli.setEml("ze_da_silva@naomandespam.com.br");
+ cli.setEndr("Avenida Brasil 1234");
+ 
+ Emp emp = new Emp("Ze da Silva LTDA");
+ emp.setCNPJ("01.2345.67/8901-23");
+ emp.setDtaCad("12/02/2005");
+ 
+ String sql = SQLFctry.geraUpdt(emp);
+
+Obsv q o prg fcu mto + lglb dss md vz q c/ - ltrs o prgm cns ent ele mto + rpd!
+
+=== Nonsense naming ===
+
+''Nonsense naming'' é um padrão de nomenclatura de variáveis, funções, métodos, classes, e qualquer coisa que possa receber um nome. Consiste em simplesmente ignorar qualquer convenção da linguagem e nem adotar qualquer outro tipo de convenção que faça sentido (só deve fazer sentido na cabeça do pogueiro!) Também dita que o nome das variáveis não devem ter nada a ver com o seu significado. Aqui vai exemplo combinado com um pouquinho de [[#CoPEL 2.0|CoPEL 2.0]]:
+
+ public class BATATINHA {
+     public static double[] To_a_fim_de_ir_na_praia(double mIGuXEixxX, double Buceta, double LEITE) {
+         if (mIGuXEixxX == 0.0) {
+             throw new putzdeupipocomano("po bixo, isso num pode ser zero naum!!!!");
+         }
+ 
+         // cara, ela ta moh gostosa hoje! Aquela saia justa com aquela bundinha gostosa me deixa de pau duro.
+         double hoje_a_martinha_ta_gostosa = Buceta * Buceta - 4 * LEITE * mIGuXEixxX;
+ 
+         // e imagina que aquele namorado dela é viado, meu que desperdicio!
+         if (hoje_a_martinha_ta_gostosa < 0.0) {
+             throw new putzdeupipocomano("xiiii a bagaça ta negativa");
+         }
+ 
+         // ontem fui no cinema ver o filme do batman. Kra, o filme é bom pra kct!
+         double melancia = (-Buceta + Math.sqrt(hoje_a_martinha_ta_gostosa)) / (2 * mIGuXEixxX);
+         double variable115 = (-Buceta - Math.sqrt(hoje_a_martinha_ta_gostosa)) / (2 * mIGuXEixxX);
+         double[] AAAAA = new double[2];
+         AAAAA[0] = melancia;
+         AAAAA[1] = variable115;
+ 
+         // estou com fome agora, acho que vo pedi uma pizza!!!!!
+         return AAAAA;
+     }
+ }
+
+Obviamente, pelos nomes das variáveis, é muito fácil perceber que esse código calcula as raízes de uma função de segundo grau de acordo com a fórmula de Bhaskara.
+
+=== O que os olhos não veem, o coração não sente ===
+
+Também conhecida como técnica do avestruz (enfie a cabeça na terra e ignore o resto do mundo).
+
+O verdadeiro POGramador não liga para todos os 2752 warnings que o compilador emite ao processar seu código. Entretanto, não é bom deixar esses warnings aparecerem cada vez que alguém faz um build do sistema. Lembre-se que existem os estagiários que não conhecem a arte do POG e que irão tentar remover os warnings um a um.
+
+Todo bom compilador POG tem um modo de não emitir os warnings. O GCC, clássico compilador da GNU para C e C++, tem uma flag "<code>-w</code>" ("W" minúsculo, não confunda) que inibe todos os warnings da compilação.
+
+O compilador Java também tem essa possibilidade. E, mais POG que colocar flags na compilação, é colocar no código em si! Veja alguns exemplos de warnings para desabilitar:
+
+* Variável não usada. Perfeito para auxiliar em patterns do tipo [[#Static Spree|Static Spree]]
+
+ public class MyClass {
+   @SuppressWarnings("unused")
+   private static int A, B, C, D, E, F, G, H, I, J, K, L, M;
+ }
+
+* Campo oculta outro (field hides another field). Como dita os preceitos do POG, os métodos e atributos e variáveis de uma classe devem ter sempre o mesmo nome, para não precisar decorar milhares de nomes diferentes.
+
+ @SuppressWarnings("hiding")
+ public class A {
+   public int teste;
+   public void teste() {
+     int teste = this.teste;
+   }
+ }
+ 
+ @SuppressWarnings("hiding")
+ public class B extends A {
+   public int teste;
+   public void teste() {
+     int teste = this.teste + super.teste;
+   }
+ }
+
+* Ou, se você não quer decorar todas as diretivas (afinal, o fim de semana já está próximo demais):
+
+ @SuppressWarnings("all")
+ public class A {
+   public int teste;
+   public void teste() {
+     int teste = this.teste;
+   }
+ }
+
+=== Always/Forever ou Comentários-Eternos ===
+
+Pode-se dizer, na íntegra, que este é um dos padrões largamente utilizados em empresas onde a rotatividade de POGgramadores é alta. Este padrão implementa (ou deveria) o padrão [[#Nem-rela|'A bagaça funciona? Nem rela!']]. O POGramador é novo na empresa e, como todo Gerente de TI é extremamente gente boa, atribui-lhe a tela mais bizarra de todo o sistema. De praxe, como haverá modificações, ele usará todo seu conhecimento para gambiarrar o máximo que der, fazendo uso da premissa "menos tempo, mais produtividade". Em caso de substituição de código, o código antigo não deverá ser apagado, mas sim comentado, e deixado exatamente onde estava PARA TODO O SEMPRE. Isso garante ao POGramador que, "se a bagaça não funcionar" e todo aquele fluxograma maravilhoso entrar em sua funcionalidade, NO PIOR CASO, ele possa voltar o código original para onde estava, e então comentar seu código (nota-se um laço de repetição semelhante a um <code>while(true)</code> ou <code>for(;;)</code>, pois, dependendo da capacidade mental do POGramador, o comentado volta a ser código, e o código volta a ser comentado, e assim sucessivamente).
+
+Para um exemplo prático, imagine uma cláusula if sendo modificada para a retirada de um dos termos comparativos:
+
+ public class TelaBizarra extends tudo_q_vc_imagina implements uma_pancada_de_interfaces
+ {
+   if(.....)
+   {
+     while(...)
+      {
+        if (i==j && j==k+1 || (ActionEvent.getSource().getClass().....toString().equalsIgnoreCase("ABC123"))
+           {
+           }
+      }
+   }
+   ......
+   ......
+ }
+ 
+Ao invés de simplesmente retirar <code>ActionEvent</code> e tudo que vai na frente, pode-se fazer:
+
+ public class TelaBizarra extends tudo_q_vc_imagina implements uma_pancada_de_interfaces
+ {
+   if(.....)
+   {
+     while(...)
+      {
+        /*if (i==j && j==k+1 || (ActionEvent.getSource().getClass().....toString().equalsIgnoreCase("ABC123"))
+           {
+           }*/
+ 
+         if (i==j && j==k+1)
+           {
+           }
+      }
+   }
+   ......
+   ......
+ }
+
+A tendência é que o POGramador, com o passar do tempo, torne o código TÃO caótico que nem mesmo os primeiros criadores serão capazes de desfazer tanta gambiarra.
+
+=== Temporary Code ===
+
+Este padrão tem como objetivo principal criar um código inicialmente temporário, seja para quebrar um galho ou tapar um buraco. Largamente utilizado por POGramadores, em aplicações de grande porte, normalmente foi testado inúmeras vezes e nunca deu rolo, sempre seguido da premissa "Tá funcionando? [[#Nem-rela|Nem rela]]", acaba virando relíquia no código da aplicação.
+
+Abaixo um exemplo típico:
+
+ ...
+ // Fulano - 10/02/1990 - Trecho temporário (alterar assim que possível)
+ if (codigoErro == -9887) {...}
+
+=== CoPEL ===
+
+'''Co'''mentários '''P'''ara '''E'''ncher '''L'''inguiça é uma prática recomendada ao POGramador. O CoPEL, é todo comentário de código-fonte indispensável para completa compreensão do software. Sem os comentários do tipo CoPEL, a documentação do software fica incompleta e dificulta a leitura de outros programadores da equipe.
+
+Por exemplo, observe este trecho de código sem CoPEL:
+
+ public static int somaAB(int a, int b) {
+     return a + b;
+ }
+ 
+ public static boolean isAplicativoAberto = false;
+ 
+ public static String senhaSecreta = "123456";
+ 
+ public static boolean verificaSenha(String senha) {
+     if (senha.equals(senhaSecreta)) {
+         return true;
+     }
+     return false;
+ }
+
+Entendeu alguma coisa? Assim fica difícil, né? Observe que o código [[Mentira|é bem difícil de se entender sem os comentários]].
+
+Agora compare com a versão a seguir, onde o CoPEL foi aplicado, e note que os comentários são indispensáveis e certamente ajudam muito na compreensão do código e na produtividade de toda a equipe:
+
+<pre>
+/** 
+ * Método para somar o valor de A com o valor de B.&lt;br&gt;
+ * Exemplo de uso deste método:&lt;br&gt;
+ * &lt;pre&gt;
+ *   int a = 5;
+ *   int b = 3;
+ *   int soma = somaAB(a, b);
+ * &lt;/pre&gt;
+ * No exemplo supracitado, a variável &lt;code&gt;soma&lt;/code&gt; conterá
+ * o valor da soma das variáveis &lt;code&gt;a&lt;/code&gt; e &lt;code&gt;b&lt;/code&gt;.
+ * Tendo em vista que o valor da variável &lt;code&gt;a&lt;/code&gt; é 5 e o da variável &lt;code&gt;b&lt;/code&gt; é 3,
+ * será atribuido à variável &lt;code&gt;soma&lt;/code&gt; o valor 8.
+ *
+ * @param [in] a O valor de A, a ser somado com o valor de B.
+ * @param [in] b O valor de B, a ser somado com o valor de A.
+ * @return O valor resultante da soma dos valores dos parâmetros A e B.
+ * @see subtracaoAB(int, int)
+ * @see multiplicaoAB(int, int)
+ * @see divisaoAB(int, int)
+ */
+public static int somaAB(int a, int b)
+{ /* Início da declaração do método somaAB. */
+    return a + b; // Aqui é retornado a soma de a com b.
+} /* Fim da declaração do método somaAB. */
+
+/**
+ * Variável que informa se aplicativo está aberto ou não.
+ * Caso o valor contido nesta variável seja &lt;code&gt;true&lt;/code&gt;,
+ * então o aplicativo está aberto.
+ * Caso o valor contido nesta variável seja &lt;code&gt;false&lt;/code&gt;,
+ * então o aplicativo não está aberto.
+ */
+public static boolean isAplicativoAberto = false;
+
+/**
+ * Campo que guarda a senha secreta para executar esta aplicação.
+ * @see verificaSenha(String)
+ */
+public static String senhaSecreta = "123456";
+
+/**
+ * Método que verifica se a senha informada para a execução do aplicativo está
+ * correta.&lt;br&gt;
+ * Exemplo de uso deste método:&lt;br&gt;
+ * &lt;pre&gt;
+ *   if (verificaSenha(senha))
+ *   { // Início do bloco de execução da estrutura condicional de decisão if.
+ *      ... // Bloco de instruções a ser executado caso a senha esteja correta.
+ *   } // Fim da estrutura condicional de decisão if.
+ * &lt;/pre&gt;
+ *
+ * @param [in] senha A senha a ser verificada com a senha secreta.
+ * @return &lt;code&gt;true&lt;/code&gt; caso a senha informada no parâmetro coincida
+ * com a senha secreta, &lt;code&gt;false&lt;/code&gt; caso a senha informada no parâmetro
+ * não coincida com a senha secreta.
+ * @see senhaSecreta
+ */
+public static boolean verificaSenha(String senha)
+{ /* Início da declaração do método verificaSenha. */
+
+    // Se a senha informada coincidir com a senha da aplicação,
+    // retorna verdadeiro, pois isso significa que a senha está correta.
+    if (senha.equals(senhaSecreta)) // Aqui tem que usar o equals porque o == dá pau.
+    { /* Início do bloco de execução da estrutura condicional de decisão if. */
+        return true; // Aqui o valor true é retornado.
+    } /* Fim da estrutura condicional de decisão if. */
+
+    // Se o valor true não foi retornado acima, é porque a senha está incorreta,
+    // então o valor false deve ser retornado.
+    return false; // Retorna o valor false.
+
+} /* Fim da declaração do método verificaSenha. */
+</pre>
+
+==== CoPEL 2.0 ====
+
+Muitas vezes, não basta aos POGramadores escrever comentários descrevendo o que o programa faz. Como em 99% das vezes ninguém vai ler eles, ou apenas os próprios POGramadores lerão, e o chefe é um daqueles caras que adora ter tudo documentado mas não lê uma vírgula do que foi escrito, é muito conveniente aos POGramadores escrever comentários que nada tem a ver com o código documentado. Além disso, a produtividade é aumentada, pois os POGramadores não precisam analisar o que determinada função faz ou qual variável é que deve ser passada para poder escrever uma documentação do código, basta escrever qualquer coisa. E como todo mundo está se lixando com ortografia, pontuação e acentuação, que são coisas de baitolas, então os comentários podem ser escritos em miguxês desestruturado mesmo, afinal, ninguém vai perder tempo lendo eles mesmo e foda-se se você escreve tão mal que tirou uma nota zero na redação do [[ENEM]]. Este padrão também permite que os comentários do código-fonte possam ser utilizados como chat.
+
+Veja o mesmo programa do exemplo anterior em [[#CoPEL|CoPEL 1.0]], mas agora com os comentários reescritos com CoPEL 2.0:
+
+<pre>
+/** 
+ * cara, ontem eu tava vendo um filme mto legal, tem uns alienigena mó locão, meu.
+ * o melhor eh que eu conheci uma mina muito fileh na fila.
+ * Tem um popozão de funkera que rebola ateh o chao.
+ * &lt;pre&gt;
+ *   int a = 5;
+ *   int b = 3;
+ *   int soma = 4;
+ * &lt;/pre&gt;
+ * Aiai. Num aguento fikar olhando pro relogio, soh to esperando da 6 hora pra ir logo pra casa
+ * E ainda vo te q pega transito nesta merda d cidade. 
+ *
+ * @param Po, mano e ai? fala mais da mina. como ela eh?
+ * @param kra, Eh uma morena da hora, um pouco baixinha, mas meu eh mto gostosa
+ * @return E vc pegou o telefone dela?
+ * @see Cara, pegei sim! vo passa um xaveco nela e leva pro cinema
+ * @see depois vai pro motel
+ * @see heheh
+ */
+public static int somaAB(int a, int b)
+{ /* e ai, bora pedi uma pizza? */
+    return a + b; // eu num to a fim de fika um tempao no transito
+} /* e ja q temos q entrega essa merda prakele viado mesmo, to pensando em ficar + um tempo!!!! */
+
+/**
+ * bora então! que tal calabreza?
+ * axo q ta meio kara to kerendo economiza uma grana. pq naum frango desfiado?
+ * pode c!
+ * vai da 28. tenho vintao aki, depois vc me da 8 reau.
+ * blz!
+ */
+public static boolean isAplicativoAberto = false;
+
+/**
+ * Mas ai broder, meiu q mudando de assunto, o carlao vai sai de ferias
+ * @see vai la pra recife
+ */
+public static String senhaSecreta = "123456";
+
+/**
+ * e nóis aki tem q fika dando manutencao nesta bosta d sistema
+ * qeria mata akele viado
+ * ele faz a merda e depois sobra pra nois.
+ * no minimo vai la pra fika dando a bunda
+ * puta q pariu, q merda.
+ * nao aguento mais essa bosta d empresa
+ * mas, po cara, eh assim mesmo
+ * os cara nao manja nada de programacao, nao sabe eskreve um hello word, dai vira analista
+ * ainda ganha mais e nois fika de otario tendo q resolve as cagadas
+ *
+ * @param no minimo deu o cu pro chefe
+ * @return so pode, o cara eh um cuzao, nao manja bosta nenhuma so faz merda e ganha + q todo mundo
+ * eh por isso q essa empresa eh uma merda
+ * depois quem tem q fika trabalhando de noite e de fds eh a gente
+ * @see to loko pra sai daki e ir pra algum outro lugar
+ */
+public static boolean verificaSenha(String senha)
+{ /* Ja distribui curriculo, mas ta foda. */
+
+    // Soh me chamam pra lugar ainda pior e ainda kerem
+    // pagar menos do q essa miseria q pagam aki
+    if (senha.equals(senhaSecreta)) // Pois eh, tem q sair mesmo. Eu tambem to kerendo vaza
+    { /* E dai mando o carlao enfia esse sistema no cu dele! */
+        return true; // Ele q invento essa merda, problema dele
+    } /* dai eu quero ve ele c fude legal, hahah */
+
+    // E qnd isso acontece eu kero esta longe
+    // Imagina então qnd descobrirem akele bug
+    return false; // Ateh lá o estrago ja vai ter sido grande
+
+} /* e eu ja vou kerer estar bem lng daki qnd a bomba explodi, hehehe */
+</pre>
+
+=== POG Delegation Aproach ===
+
+Consiste em delegar a responsabilidade do POG para instâncias superiores, como um programador sênior ou líder técnico.
+
+Exemplo:  
+
+ public void doSomething()
+ {
+    try{
+      ......
+      ......
+    }catch(Exception e){
+      // fiz assim porque o A.L. mandou fazer assim.
+      // qualquer coisa falem com ele no ramal 9999!!!
+    }
+ }
+
+=== Magic Number ===
+
+No mundo da POGramação é comum surgirem números com propriedades mágicas desconhecidas e misteriosas. Tais números aparecem lá no meio do código-fonte, ninguém sabe porque e nem o que significam, mas se forem mudados tudo dá errado. O funcionamento correto do universo depende destes números, que são determinados apenas com o árduo trabalho de POGramadores que também tem talentos nas artes da astrologia, numerologia e fenômenos paranormais. Por exemplo:
+
+ if (x + y > 17) {
+     a = 4;
+ } else {
+     a = 9;
+ }
+ 
+ if (totalDeElementos > 1200.0) h.x += 19;
+ 
+ int valores[] = {-6, 12, 15, 16 - c, 3, 0, 9, a + h.x * 5, -1, 0, 4 * m, 28, 7 - (int) (d / 2.38), 31, 15 + (int) (h.cotas.elementos[17] * 3.227), 18};
+
+Outro exemplo, retirado de um sistema real:
+
+ if(calendarIndice.get(Calendar.YEAR) == calendarAtual.get(Calendar.YEAR)) {
+   if (calendarIndice.get(Calendar.MONTH) < calendarAtual.get(Calendar.MONTH) - 3) {
+     forward = "failureExclusao";
+   }
+ }
+ if(calendarIndice.get(Calendar.YEAR) < calendarAtual.get(Calendar.YEAR)) {
+   if (calendarIndice.get(Calendar.MONTH) <= calendarAtual.get(Calendar.MONTH) + 8) {
+     forward = "failureExclusao";
+   }
+ }
+
+=== Magic String ===
+
+Padrão semelhante ao [[#Magic Number|Magic Number]], mas ao invés de se usar números mágicos, usa-se strings mágicas. Não são strings quaisquer com textos ou mensagens a serem exibidas, e sim strings com valores bizarros, esotéricos e inexplicáveis. Dentre os exemplos mais comuns, há nomes de demônios e entidades das trevas, feitiços e encantamentos malignos, ou códigos de produtos e clientes inventados por [[você|algum imbecil qualquer]].
+
+Exemplo:
+
+ if (codigo4 == "O") {
+     produtoVendido.setTipo("E+");
+ } else if (codigo4 == "D2") {
+     produtoVendido.setTipo("h");
+     empresaAberta.setTipoRamo("a3-67-%c");
+ } else {
+     produtoComprado.setTipo("B");
+     funcionario2.setStatus("HH");
+ }
+
+=== Strombolic Bridge ===
+
+O Padrão Strombolic Bridge (Ponte Estrombólica) ou mais conhecido no Brasil pelo pseudônimo de "Drible da Vaca" é uma evolução do já consagrado [[#Uso de_Força_Bruta|Uso de Força Bruta]]. Consiste em alimentar uma variável global que será utilizada dentro de algum método, mas certificando-se de que seu valor inicial será retornado ao original após o uso dela pelo método. Por exemplo:
+
+ varTemporaria = varOriginal;
+ varOriginal = "NovoValor";
+ Executa(varOriginal);
+ varOriginal = varTemporaria;
+
+Reparem que, tal como o "Drible da Vaca":
+
+# A <code>varOriginal</code> dá um 'totózinho' lateral do seu valor para a variável temporária.
+# Recebe o novo valor que será utilizado pelo método.
+# ... (corre) e recebe de volta seu valor lá na frente...
+
+Não tem erro. Assim você sempre terá certeza que o valor original será sempre o mesmo.
+É uma semi-constante :)
+
+=== Nameless Coding ===
+
+Esta técnica largamente utilizada em editores visuais, como Visual Studio, Visual Basic e Delphi, consiste em arrastar controles na tela, mantendo o nome sugerido pela IDE. Exemplo de código usando a Nameless Coding:
+
+ private void button1_Click(object sender, System.EventArgs e)
+ {
+ 	if(TextBox1.Text == "")
+ 		Label4.Text = "Este campo não pode ficar vazio!";
+ 	else
+ 	{
+ 		Label2.Text = "Cadastro efetuado!";
+ 		ListView1.Items.Clear();
+ 
+ 		Form2 form2 = new Form2();
+ 		form2.Show();
+ 	}
+ }
+
+Observem a utilização persistente da técnica ao instanciar um objeto <code>Form2</code> com o nome de variável <code>form2</code>.
+
+== Gambi Design Patterns de controle de fluxo ==
+
+Existem muitas formas eficientes, legais e inteligentes de se combinar ifs, switches, whiles, fors. Aqui você vai aprender todas as formas <s>idiotas</s> de se fazer isso.
+
+=== Else Forever ===
+
+Pattern que visa facilitar o perfeito entendimento de um operador condicional, com o avançado uso do ELSE.
+Seu princípio básico é: "CONDIÇÃO QUE DEFINE SE UMA COISA OU OUTRA SEMPRE IRÁ ACONTECER". Sua aplicação é muito simples (utilização do else), porém o entendimento obtido é total, visto que não fazer nada, também é tomar uma ação. (Ex: deputados, senadores, etc).
+
+O entendimento se resume a:
+
+* Sempre que uma condição for testada duas coisas podem acontecer: 
+# Se a condição for verdadeira: Uma ação é realizada.
+# Senão, outra ação é realizada.
+
+Para entender melhor como utilizar, vejamos o estudo de caso abaixo:
+
+Observe o algoritmo abaixo:
+
+ IF x = true THEN
+    realiza ação Y
+ END IF
+
+Este algoritmo poderia ser lido da seguinte forma: "Se x for verdadeiro, então realiza ação Y e fim".
+
+Porém o pattern 'Else Forever' vem mostrar que isto está errado, pois você lembra da definição "''2. Senão, outra ação é realizada.''"? Então, cadê a outra ação? A forma correta seria:
+
+ IF x = true THEN
+    realiza ação Y
+ ELSE
+    não faça nada
+ END IF
+
+Desta forma é mostrada claramente a fundamental importância da utilização do comando ELSE para estes casos, visto que não fazer nada, também é tomar uma ação. Uma forma alternativa seria:
+
+ IF x = false THEN
+    não faça nada
+ ELSE
+    realiza ação Y
+ END IF
+
+=== FORCEPS ===
+
+De fácil compreensão, esse recurso é largamente utilizado, caso um valor não seja atribuído a sua variável durante a execução de um programa por algum problema desconhecido pelo programador POG. Assim em vez de perder horas e horas debugando um programa, através do altíssimo nível de programação orientada a gambiarra, o programador POG atribuiu um valor na base da porrada e o programa roda livre e sem bugs. É claro que de tempos em tempos esse pequeno ajuste deve ser mantido.
+
+ /* Variável é inicializada */
+ String valor = "123";
+ 
+ /* ... lógica do programa ... */
+ 
+ /* Dentro de um método que utiliza a variável 'valor' */
+ if(valor != "123"){
+     valor = "123";
+     processaValor(valor);
+ }
+
+=== Just Kill If ===
+
+Quando a execução de uma função causa algum bug devido a um parâmetro ou evento, é feito um tratamento para se filtrar esse caso específico.
+
+Por exemplo:
+
+ // A função divide um número por i, não podendo vir 0
+ if(i == 0)
+      return;
+ Divisao.resp = Classe.num / i;
+
+Este padrão de projeto já foi utilizado com sucesso em aplicações para jogos de celular e [[Verdade|é frequentemente utilizado na prática mesmo por profissionais altamente capacitados, existindo outras inúmeras utilizações possíveis]].
+
+=== Chain of Flags ===
+
+''Pattern'' viável em qualquer linguagem de programação. Consiste em inserir uma série ''n'' (onde ''n'' &gt; 0) de ''if''s e ''else'' s para todas as possibilidades que satisfaçam uma condição. A medida que surgem novas possibilidades, basta acrescentar mais um ''if-else'' ao fim da ''estrutura''. Se uma possibilidade desaparece, ela não precisará ser eliminada do código, afinal um dia ela poderá voltar mesmo. Caso a condição não seja satisfeita por nenhum dos ''if-else'''s, pode-se utilizar o padrão [[#User Friendly Exception|User Friendly Exception]].
+
+=== Uso de Força Bruta ===
+
+Método muito famoso no meio dos programadores POG. O método se aplica para solucionar problemas sem perder tempo voltando no código para procurar onde deu errado.
+
+ ...
+ if (var==20)
+    ChamaMetodoSolucao(var);
+ else{
+    var=20;
+    ChamaMetodoSolucao(var);
+ }
+ ...
+
+=== Reversal Boolean ===
+
+A teoria do '''Reversal Boolean''' é bem conhecida entre os POGramadores experientes, porém pouco difundida entre os mais novatos. Podendo ser usada juntamente com a [[#Else Forever|Else Forever]] e [[#Nonsense Flag|Nonsense Flag]], ou melhor dizendo, na maioria das vezes o pattern Nonsense Flag estará presente. A base de todo o reversal boolean vem da lógica matemática. Para todo e qualquer Nonsense Flag instanciado, '''1 é false, 0 é true''', ou '''false==true''' e vice-versa. Assim, quando um Nonsense Flag boolean for 0, a ação é executada, do contrário continue no else forever até achar a saída mais próxima.
+
+ public int Compara_e_Soma(int a, int b, boolean NonSenseFlag)
+ {
+      if(a==b)
+      {  
+         if(NonSenseFlag == false)
+           return a+b;
+         else // Pode-se gambizar a vontade para que ele retorne mesmo se a condição não for satisfeita
+           /*ação...*/
+      }
+ }
+
+O que chama a atenção é que a junção de muitos Gambi Design Patterns em um mesmo projeto pode levar a formação espontânea de um padrão muito evitado até mesmo por POGramadores do nível de Mestre Yoda, Obi-Wan-Kenobi, e derivados. É o temido '''Chain of Chaos'''.
+
+=== If Always ===
+
+Padrão de projeto que consiste em verificar sucessivamente a mesma condição para ter certeza de que o que é certo é certo, ou não. Este padrão de projeto era muito utilizado quando os POGramadores ainda não tinham o completo domínio sobre o padrão [[#Else Forever|Else Forever]], pois a estrutura IF ELSE era considerada um recurso muito avançado da linguagem.
+
+Exemplo:
+
+ function ContaBaixada(numConta :integer):boolean;
+ begin
+    // Instrução para verificar se a conta está baixada
+ end;
+ 
+ procedure FazQualquerCoisa(numConta :integer);
+ begin
+   if ContaBaixada(numConta) then
+   begin
+     // Faz alguma coisa aqui
+   end;
+ 
+   if ContaBaixada(numConta) then
+   begin
+     // Faz outra coisa aqui
+   end;
+ 
+   if ContaBaixada(numConta) then
+   begin
+     // Faz mais um monte de coisa aqui
+   end;
+ 
+   if NOT ContaBaixada(numConta) then
+   begin
+     // ...
+   end;
+ end;
+
+=== Uncommented Commented Code ===
+
+Técnica extrema, que combina o [[#ICI ou CCI - Invisible/Comment Code Implementation|ICI ou CCI - Invisible/Comment Code Implementation]] com o [[#Reversal Boolean|Reversal Boolean]], formando um método de comentário de código digno de um mestre do POG. Exemplo (real):
+
+ // código inútil...
+ if (false)
+ {
+     DetailConfiguration dtConfig = new DetailConfiguration();
+     dtConfig.RelationName = "MasterDetail";
+     dtConfig.Title = "Cores";
+     dtConfig.InitializingInsertionRow += new EventHandler<InitializingInsertionRowEventArgs>(dtConfig_InitializingInsertionRow);
+     Column xceedColumn = new Column();
+     xceedColumn.FieldName = "ID";
+     xceedColumn.Visible = false;
+     dtConfig.Columns.Add(xceedColumn);
+     gridCombinacao.DetailConfigurations.Add(dtConfig);    
+ }
+
+=== ISCDV ===
+
+O ISCDV ('''I'''f's '''S'''ão '''C'''oisas '''D'''e '''V'''iadinhos) é um design pattern muito eficiente, pois reduz a complexidade de uma linguagem de programação. A ideia central é utilizar ''switch cases'' em vez de ifs. Com isso, qualquer linguagem se torna mais simples de aprender, reduzindo o tempo e o custo de treinamento de profissionais. Um exemplo de código em PHP:
+
+ switch ($variavel)
+ {
+       case true: //faz tal coisa
+       case false: //faz outra coisa
+ }
+
+=== Retorno invertido ===
+
+Técnica bastante utilizada para alterar o retorno de um método, fornecendo um melhor controle de fluxo. Primeiramente cria-se uma propriedade "<code>retornoInvertido</code>" na classe. Após esta setada pela classe que realiza a chamada fazemos a verificação:
+
+ if($this->retornoInvertido){
+     if($retorno == true){
+         return false;
+     }
+     else{
+         return true;
+     }
+ }
+ else{
+     if($retorno == true){
+         return true;
+     }
+     else{
+         return false;
+     }
+ }
+
+=== If do Chaves ===
+
+O if do Chaves é uma poderosa técnica de organização e estruturação lógica de código, onde há um conteúdo a ser executado quando uma condição for verdadeira (como em qualquer if), mas esse conteúdo é '''idêntico''' àquele a ser executado quando a condição é falsa.
+
+<blockquote>
+Seu Madruga: Bom, iam pela calçada ou pela rua?<br>
+Chaves: O gato ou o Quico?<br>
+Seu Madruga: O gato.<br>
+Chaves: O gato ia pelo meio da rua...<br>
+Seu Madruga: E o Quico?<br>
+Chaves: Também...<br>
+</blockquote>
+
+Eis um exemplo deste tipo código:
+
+ if (user_logged) {
+     where += " AND id_user IS NOT NULL";
+ } else {
+     where += " AND id_user IS NOT NULL";
+ }
+
+=== Routing glueing ===
+
+Muitas vezes, em sistemas web, temos uma mesma rota que deve atendar por diferentes verbos HTTP tais como GET, POST e FUCK. No entanto, é muito chato e trabalhoso declarar uma função/método diferente para cada um dos verbos, então a solução é declarar uma única rota para todos, '''mesmo se a funcionalidades para cada um dos verbos for completamente distinta das demais''', e mais tarde, separar a lógica delas utilizando um caminhão de <code>if</code>s.
+
+Exemplo:
+
+ @app.route("/edicao_de_valores", methods=["GET", "POST"])
+ def edicao_de_notas():
+     if request.method == 'GET':
+         headers = {'Content-type': 'application/json'}
+         response = requests.get(api + '/editor/editar_valores', headers=headers)
+         valores = response.json()['notas']
+         return render_template("edicao_de_valores.html", notes= valores)
+     if request.method == "POST":
+         data = request.get_data()
+         cadastro = json.loads(data)
+         observacoes = CadastroService().salvar(cadastro)
+         return render_template("confirmacao.html", rodape=observacoes, referrer=request.referrer)
+
+'''JAMAIS''' declare um método separado para cada verbo, pois isso fará o sistema se confundir, vez que às vezes ele esquece qual é o verbo correto ao encontrar a rota e só consegue lembrar quando encontra um <code>if</code>.
+
+==== Phantom routing glueing ====
+
+Variante do '''Routing glueing''' onde alguns dos verbos HTTP declarados na rota não são utilizados. Eles ficam lá para segurar o lugar na definição da rota, garantindo que o sistema não vai se esquecer de olhá-la porque ele vai se lembrar que terá que fazer isso devido ao fato de haver vários verbos. Por exemplo:
+
+ @app.route("/pendencias_deletadas", methods=["GET", "POST"])
+ def deletados():
+     if request.method == "GET":
+         return jsonify(Pendencias.query_all(deletado = True))
+     # E o POST? Foda-se o POST!
+
+== Graceful Error Handling and Recovery Gambi Design Patterns ==
+
+São padrões de projeto Gambi especialmente desenvolvidos para lidar com exceções, situações incomuns, efeitos colaterais do uso de outros excelentes padrões, e resultados advindos de [[idiota|usuários normais]] usando o sistema. Esses padrões foram especialmente desenvolvidos para permitir a criação de soluções robustas, sólidas e escaláveis.
+
+=== Exception Success ===
+
+O tratamento de exceções é uma construção incluída em linguagens de programação modernas que é mais adequada para controlar fluxo de resultados excepcionais. Como o algoritmo que [[você]] bolou não funciona mesmo, a execução com sucesso é um resultado excepcional, e por este motivo quando uma operação é executada com sucesso, uma exceção é lançada. Em especial, é altamente recomendado o uso de exceções para controle de fluxo em lugar de outras estruturas mais arcaicas como ifs, whiles e returns. Por exemplo:
+
+ public static void somar(int a, int b) {
+   System.out.println(a+b);
+   throw new RuntimeException("Operação realizada com sucesso!");
+ }
+
+Abaixo, um exemplo real, mostrando uma variação deste método:
+
+<pre>
+if (!request.getSession(true).getAttribute("TipoUsuario").toString().equals("1"))
+    throw new Exception("<span style=\"color:#ff0000;\"><b><u>Acesso negado</u>:</b> somente usuários com perfil de "+
+"administrador podem ter acesso a esta página.</span>");
+</pre>
+
+No código acima, quando o usuário autenticado não for um administrador, é lançada uma exceção cuja mensagem é exibida pelo catch, já devidamente formatada em HTML.
+
+=== User Friendly Exception ===
+
+Consiste na padronização de todas as mensagens de erro do sistema para uma única mensagem amigável ao usuário. Um sistema 100% compatível com esse padrão, nunca trava nem encerra de forma inesperada, mas apenas não atende ao usuário exibindo uma mensagem do tipo "''Caro usuário, tente novamente observando as regras de uso do sistema''". '''Observação''': Trata-se da evolução de um padrão amplamente utilizado em sistemas [[Microsoft]] com mensagens "''Catastrophic Failure''" e "''Unexpected Error''".
+
+Exemplo de implementação em [[Java]]:
+
+ public static void main(String[] args){
+   while (true) {
+     try {
+       ...
+     } catch (Throwable ex) { // qualquer erro do sistema cai aqui
+       // só pode ser culpa da besta ignorante do usuário
+       System.out.println("Caro usuário, tente novamente observando as regras de uso do sistema");
+       // após a mensagem, o while(true) garante a robustez do sistema que não aborta nunca!
+     }
+   }
+ }
+
+=== Perfectness Execution ===
+
+Também denominado '''Unstoppable Redundancy''' consiste em uma complexa operação feita com extrema consistência e que sempre é executada com absoluto sucesso.
+Exemplo prático de utilização:
+
+ public class Main {
+   public boolean alterar(Object valor1, Object valor2) {
+     ...
+   }
+   public static void main(String args[]) {
+     ...
+     try {
+       if (alterar(valor1, valor2)) {
+         System.out.println("Operação concluída com sucesso!");
+       } else {
+         System.out.println("Operação concluída com sucesso!");
+       }
+     } catch (Throwable e) {
+       System.out.println("Operação concluída com sucesso!");
+     } finally {
+       System.out.println("Operação concluída com sucesso!");    
+     }
+   }
+ }
+
+=== You Shall Not PASS! ===
+
+Padrão relacionado ao [[#Just Kill If|Just Kill If]], este padrão é vulgarmente conhecido como "''Vagões de ORs e ANDs''", e visa bloquear todo e qualquer erro que o poguizador não tem a menor ideia de como surgiu criando-se uma extensa linha de código de condições com diversos ANDs e ORs que barram de tudo, menos o desejado. Consiste em um tipo de código feito por todo POGramador para tornar o seu software imune a bugs. Também é conhecido pelo nome de '''''D'''efensive '''C'''ode '''D'''esign '''P'''attern'' ('''DCDP'''). Muitas vezes deve-se tomar essa medida quando se utiliza de [[#RCP|RCP]] e infelizmente o [[#User Friendly Exception|User Friendly Exception]] ou o [[#Deus Ex Machina|Deus Ex Machina]] não puderam dar conta do recado.
+
+Exemplo:
+
+ if(quote.getOpportunity().getValor() != null && !"0".equals(quote.getOpportunity().getValor()) 
+ 	&& !"".equals(quote.getOpportunity().getValor()) && quote.getOpportunity().getValor().intValue() > 0){
+                {
+                    //faz algo              
+                }
+            }
+ else{
+ 	throw new BusinessException("Services.FODEU");   
+ }
+
+=== BulletProof ===
+
+Esse padrão também conhecido como ''Silenciator'' é um dos mais antigos e ainda utilizados. O objetivo é fazer com que seu sistema não apresente erros. Afinal, os usuários não entenderiam porque aparece o número da linha de algum canto obscuro, ou aquela mensagem que parece um juramento de morte.
+Então deixe os erros para quem entende, no sistema em produção você irá desligar a exibição de erros.
+
+Note que não é o mesmo que [[#Deus Ex Machina|Deus Ex Machina]] porque a ideia aqui é esconder o erro e fingir que ele nunca aconteceu, e não delegar ele para alguma instância superior e onipotente que acredita-se existir em algum lugar na pilha de execução.
+
+No PHP é:
+
+ error_reporting(0);
+
+No ASP / VB é
+
+ <%
+ On Error resume Next
+ %>
+
+No Java:
+
+ try { fazAlgumaCoisa(); } catch (Throwable t) {}
+ try { fazOutraCoisa(); } catch (Throwable t) {}
+ try { fazMaisOutraCoisa(); } catch (Throwable t) {}
+
+Em Oracle PL/SQL:
+
+ begin
+   ...
+ exception
+   when OTHERS then
+     NULL;
+ end;
+
+É uma garantia de que ninguém te ligará na última hora por causa de uma tela em branco.
+O único efeito colateral é ter que sair ligando tudo na hora de debugar, portanto 'saboreie com moderação'!
+
+=== No Error Pattern ===
+
+Este padrão consiste na abolição completa e total de tratamento de exceções e comandos IF colocados com o intuito de prevenir erros. Como todos sabemos, este tipo de implementação serve apenas para programadores iniciantes, que geram erros e, portanto, precisam tratá-los. Este padrão aumenta a produtividade em até 93%, visto que não será necessário código inútil destinado ao tratamento de erros e com a mudança da mentalidade do programador os programas serão feitos de maneira mais rápida e direta, afinal, quanto mais código, mais erros, e obviamente qualquer programa pode ser feito em uma única função.
+
+=== NENE ===
+
+O '''NENE''' ('''N'''ão '''E'''xiste '''N'''enhuma '''E'''xceção) é a arma mais eficaz a favor do POGramador, especialmente quando este precisa usar um componente não usual dentro do seu compilador POG.
+
+A ideia chave é tratar as exceções e mandá-las fazer exatamente o que o ''try'' não quis fazer por birra. Prático, limpo, e rápido. Possivelmente nem mesmo você ira entender o porque desta implementação ter funcionado tão bem. Não importa, pois utilizando como base a [[Programação Orientada a Gambiarras#Máquina de Estados OG|Máquina de Estados OG]] se funcionou, "[[#Nem-rela|nem rela]]". 
+
+Segue um exemplo prático, e real, em [[Delphi]]:
+
+<pre>
+/**Problema: Impressora de etiquetas precisa de um método dinâmico para achar alguma porta serial que exista, sem a necessidade de incomodar 
+o usuário com "entre com o numero da porta serial por favor" 
+(se é que algum usotár....aham, usuário, iria entender o que diabos vem a ser uma porta serial)**/
+
+procedure TForm1.pegaConexaoImp (Sender: TObject)
+var
+
+          Impressora: TApdComport; //eis o componente
+          str:        String;
+          i:          Integer;
+begin
+    
+   
+     for i:=1 to 10 do //10 seria realmente um ótimo intervalo. Você pode tentar, 20, 30... Varia de acordo com o tempo disponível do POGramador
+     begin
+     try
+     begin
+            Impressora.ComNumber := i;
+            Impressora.PutChar(str); //Caso a porta não exista, o usuário iria começar a chorar nesse momento. PORÉM...........
+     
+     on e:except do
+            Impressora.ComNumber := Impressora.ComNumber + 1; //Here lies the secret. Exception? Qual exception? Onde?
+     end;
+     end;
+     end;
+
+end;
+</pre>
+
+Concluído o teste de portas, o POGramador garante a seu usuário que realmente, sua impressora ira achar uma "COM" disponível. A não ser que o micro em questão infelizmente não possua alguma instalada. Ambos saem felizes, e o gerente de TI não lhe prega o aço, caso você não tivesse acabado o projeto a tempo de deixar o bolso da empresa satisfeito.
+
+=== Phoenix Exception ===
+
+A Phoenix Exception consiste em um sistema que nunca morre, pois assim como a Phoenix, ele sempre renasce das cinzas. Trata-se de um método extremamente eficaz. Se resume em <s>teimar</s> <s>insistir</s> <s>encher o saco</s> tentar até funcionar. Muito eficaz para problemas que ocorrem de vez em quando.
+
+Segue um exemplo da Phoenix Exception.
+
+ void inserir() {
+ 	try {
+ 		//realiza alguma ação.
+ 	} catch (Throwable e) { //Aqui a Phoenix renasce...
+ 		Thread.sleep(1000); //Espera um pouco e aproveita para usar o pattern: Pensamento Positivo.
+ 		inserir();
+ 	}
+ }
+
+Com a Phoenix Exception implementada, seu sistema estará completamente imune de falhas já que que sempre que acontecer alguma merda, feita por algum POGramador, ele renascerá das cinzas e tentará executar o que falhou no primeiro ciclo de vida.
+
+=== ExceptionToBoolean ===
+
+Este é um padrão muito usado nos projetos onde a documentação segue uma filosofia [[Sou Foda]], ou seja, apenas o caminho feliz é necessário. Consiste em retornar um valor qualquer no bloco ''catch'' de uma expressão, já que o sistema nunca vai cair nesse bloco mesmo.
+
+Exemplo:
+
+ public boolean isResultadoDivisaoMaiorCinco(int a, int b) {
+   try {
+     // ok, lembrei que uma divisão por zero vai falhar
+     return (a / b) > 5;
+   } catch (Exception e) {
+     // mas como o sistema é fodástico ele nunca vai tentar dividir por zero
+     // pq isso é coisa de gente fraca
+     return false;
+   }
+ }
+
+=== Off By One Catchall ===
+
+Quando o programador aprendeu a programar em Base-1 e não consegue entender que entre 0 e 9 o total de elementos é 10, o programador pode fazer uso do design pattern Eat-all-Exceptions, e ignorar qualquer erro de IndexOutOfBounds.
+
+Exemplo:
+
+    string status = e.Row.Cells[COL_STATUS].Text;
+    if (status.ToLower() != "active")
+    {
+        try
+        {
+            for (int i = 0; i <= e.Row.Cells.Count; i++)   // este loop vai de 0 a 10, afinal são 10 elementos, certo? :-) 
+                e.Row.Cells[i].ForeColor = System.Drawing.Color.Gray;
+        }
+        catch(Exception ex)
+        {
+        }
+    }
+
+=== Necromante assassino ===
+
+Muitos sistemas têm problemas cardíacos e podem sofrer um infarto fulminante ou um derrame de vez em quando. Quando isso acontece, o sistema cai e fica inoperante, em coma profundo, sem que ninguém saiba o porquê e muito menos como arrumar isso. Para essa situação é que existe o necromante assassino. O necromante assassino é um sistema de monitoramento que verifica se o primeiro sistema está operando. Quando o sistema cair, o necromante assassino dará nele um golpe de misericórdia, executando um comando <code>kill</code>, convertendo então o coma em óbito. Em seguida, o necromante assassino ressuscitará o sistema, trazendo-o de volta a vida.
+
+Esse padrão tem a virtude de fazer com que o sistema aparente ser um highlander imortal indestrutível, mesmo se na verdade ele já tiver ido ao inferno e voltado de lá milhares de vezes. Muito utilizado em sistemas bancários, financeiros e governamentais.
+
+== Software Quality Assurance Gambi Design Patterns ==
+
+São padrões Gambi utilizados para depurar programas de forma eficiente e inteligente, garantindo assim a boa qualidade do código desenvolvido e a ausência de bugs.
+
+=== Método Philber para Debug ===
+
+Se há um erro na linha 10, remova a linha 10.
+
+Se você aplicar o Método Philber e remover a linha 10, o erro vai para a linha 11. Aplique o Método Philber novamente e remova a linha 11 e assim por diante. Inadvertidamente, uma hora o programa vai ficar sem bugs.
+
+=== Método Sokoban para Debug ===
+
+Lembra do joguinho "Sokoban"? Onde você tinha que empurrar umas caixas? Então, no método sokoban de debug, você empurra e puxa trechos de código e variáveis, para cima e para baixo, de um lado para o outro, até que uma hora o seu código funciona.
+
+=== MARRETA ===
+
+'''M'''étodo '''A'''lternativo de '''R'''atificação e '''R'''esolução '''E'''mergencial de '''T'''arefas '''A'''bortadas (MARRETA). Nem os POGramadores mais respeitados admitem usá-lo com regularidade, pois se trata de uma solução ''hardware'' para um problema de ''software'', usada principalmente quando o POGramador defronta-se com a [[Tela Azul da Morte]].
+
+Esse padrão conta com o princípio de que muitos computadores são habitados por espíritos malignos (ou folgados mesmo, ver [[#Deus Ex Machina|''Fé em Deus'']] neste artigo). Trata-se de fazer o seguinte:
+
+# Certificar-se que ninguém está olhando (nem o peixinho do aquário);
+# Correr até o depósito de manutenção, almoxarifado, cozinha, ou garagem cheia de quinquilharias velhas do seu tio;
+# Pegar o instrumento mais destrutivo que aparecer;
+# Voltar para o PC e ameaçá-lo da forma mais intimidadora possível (se tiver uma fantasia de [[Conan, o Bárbaro]], use-a, é extremamente eficaz);
+# Inclua na ameaça uma contagem regressiva longa o bastante para o computador entender a ameaça e curta o bastante para deixá-lo em pânico, como 3,1415 segundos.
+
+Eficaz em 99,9999% dos casos. No restante, a falha ocorre geralmente porque o POGramador apressado trocou o martelo por um batedor de ovos, tendo sucesso apenas em pagar um bruta mico.
+
+=== Nem-rela ===
+
+Padrão avançado de configuração e resolução de problemas que, quando aplicado, nem o usuário, programador, chefe ou a secretária sabe porque tudo voltou a funcionar depois de um reboot no servidor, de remover algumas linhas que estavam comentadas ou até mesmo depois de setar uma variável pra <code>null</code>.
+
+O padrão nem-rela é amplamente utilizado, principalmente em trocas de arquivos dentro da própria empresa ou em locais onde a utilização de SVN (sistema versionador de nada) ou Git (Gambiarras incorretamente transformadas) é comum. Caso o padrão nem-rela não for aplicado com rigor após tais ocorrências, o sistema entrará em colapso generalizado. Isso inclui cancelar atualizações do servidor, esconder a pasta do projeto, cortar relações de manutenção com o cliente. Tudo para não ter que mexer novamente no código.
+Esse padrão é crítico: caso não seja respeitado, poderá acarretar a demissão de diversos POGramadores.
+
+=== Pensamento positivo ===
+
+Também conhecido como '''Wishful thinking'''. Este ''design pattern'' é extensivamente utilizado no ciclo de depuração do código POG:
+
+# Execute o código.
+# Não funciona?
+# Pensamento positivo, e tente novamente.
+
+Repita o ciclo até que o problema desapareça espontaneamente.
+
+=== POC ===
+
+O padrão '''''P'''rogramação '''O'''rientada à '''C'''ompilador'' ou também ''Debug Compiling'' é uma prática bastante comum entre POGramadores do mundo. O programador adepto do POC, utiliza o compilador e os erros de compilação para verificar se o programa funciona. Assim sendo, esse padrão contém a elegância única de unir o processo de debug ao processo de compilação.
+
+O processo é iterativo, ou seja, muitas vezes várias compiladas no programa são necessárias para se corrigir todos as bugs. A prática é facilitada pelos software de programação que possuem teclas de atalho para compilar o software.
+
+Quando o programa finalmente compila é possível ter-se a mais absoluta certeza de que este funcionará perfeitamente uma vez que é tarefa do compilador capturar todos os erros. Logo, testar o programa é desnecessário: '''Se compilou então está certo!'''
+
+Então o processo fica muito mais simples: Compilou, commit e bota em produção!
+
+=== ICI ou CCI - Invisible/Comment Code Implementation ===
+
+Técnica utilizada por POGramadores para acabar com Bugs de qualquer tipo. Geralmente é usada por POGramadores que realizam manutenções em códigos de outros POGramadores.
+
+De fácil aplicabilidade a ICI ou ICC limita-se a apagar ou comentar o código com erros.
+
+ ...
+ public boolean checkValues( Object valor1, Object valor2 )
+ {
+     /* tinha alguma coisa aqui 
+     .
+     .
+     .
+     */
+     return true;
+ }
+ ...
+
+=== Deus Ex Machina ===
+
+''Deus Ex Machina'', também chamado de ''Chaotic Experimentation'', ''Faith Programming'' ou ''Fé em [[Deus]]'', é uma técnica avançada de proteção contra erros complexos que possam ameaçar a integridade do sistema. Quanto mais poderosa a plataforma utilizada, mais simples sua utilização. Consiste em passar a batata quente adiante sempre que houver alguma suspeita de que o código poderá causar erros imprevisíveis e portanto insolúveis por vias próprias. Neste caso apenas delegamos o controle a alguma entidade superior desconhecida que temos fé que existe, que é onipotente, onisciente, onipresente e onibenevolente e que certamente intercederá pelo POGramador para executar um milagre, sendo então capaz de resolver o problema automaticamente.
+
+É frequentemente antecedida por inúmeras tentativas frustradas por parte do desenvolvedor de ter alguma ideia do que raios está codificando. Ante o êxtase do insucesso, o profissional sucumbe a uma entidade superior que certamente existirá e resolverá tudo com certeza. Um exemplo clássico deste elegante pattern é o famoso "<code>On Error Resume Next</code>" da plataforma Visual Basic ou quando verifica-se a presença de "<code>throws Exception</code>" ou "<code>throws Throwable</code>" em todos os métodos no Java.
+
+=== PPADD ===
+
+O PPADD ('''''P'''assei '''P'''or '''A'''qui '''D'''riven '''D'''evelopment'') é uma técnica de debug muito utilizada por diversos POGramadores em diversas linguagens de programação. Consiste em encher o código-fonte de instruções do tipo <code>print "Passei por aqui";</code>. Para ser efetivo, é necessário o uso de variações nas mensagens produzidas tais como <code>print "Trocou de aba - novaAba = " + novaAba;</code>, <code>print "Abrindo a porra do arquivo " + nomeDoArquivo</code> ou <code>print "A bosta do ponteiro ta nulo"</code>.
+
+Essa é a forma de debug mais utilizada pelos POGramadores de alto nível (leia-se: aqueles que não tem ideia de como usar um debug de verdade ou que são preguiçosos demais para isso). Inclusive, essa é a forma oficial de debug utilizada no [[Softwell Maker]].
+
+== Gambi Design Patterns arquiteturais ==
+
+São diversos os padrões que permitem estruturar-se aplicações de forma organizada e limpa, garantindo-se assim uma excelente modularidade, reusabilidade e manutenibilidade do software desenvolvido, de forma que a evolução do mesmo ocorre de forma tranquila e favorável. Vários desses padrões são listados abaixo.
+
+=== Global Manual Counter ===
+
+Padrão aplicado para quem não conhece variáveis globais (ou não consegue aplicá-las em sua linguagem). Trata-se de criar uma classe utilizada só para contar.
+Por exemplo:
+
+ class contador{
+   public static $c = 0;
+ }
+
+Para utilizar:
+
+ echo contador::$c++;
+
+=== Static Spree ===
+
+Um dos patterns mais utilizados da POG. O objetivo desse padrão é que tudo fique visível em qualquer canto, porque <code>private</code> é coisa de gente sem vergonha. Também conhecido por '''Public Static Spree''', pois comumente tudo é feito "<code>public static</code>".
+
+=== Public Global Access ===
+
+Pattern que simplifica o desenvolvimento eliminando todos aqueles métodos de acesso inúteis, tornando todos os atributos acessíveis globalmente, diminuindo a quantidade de lixo no código. Apesar da semelhança com o [[#Static Spree|Static Spree]], os atributos não precisam ser <code>static</code>.
+
+=== Lone Wolf ===
+
+Também conhecido por ''Highlander'' (só pode haver um), esse é a boa e velha "''classe-faz-tudo''". O sistema todo está concentrado numa única e singela '''classe procedimental''' que faz tudo, geralmente usando o padrão [[#Static Spree|Static Spree]]. Há a versão não orientada a objetos, que é conhecida como SFA, Single File Application, com as responsabilidades do Model, da View e do Controller no mesmo arquivo by Bugginho Developer.
+
+
+=== Generic Processor ===
+
+Alguma classe, método, função, macro ou procedimento que recebe qualquer coisa como parâmetro e que faz alguma ação genérica. Frequentemente, tem mais parâmetros que o seu monitor é capaz de exibir, pois cada vez que uma nova funcionalidade é acrescentada, o seu '''Generic Processor''' ganha um (ou vários) novos parâmetros.
+
+Frequentemente é visto em combinação com os padrões [[#BCDR|BCDR]], [[#Mega Zord|Mega Zord]] e [[#Thunder Mega Zord|Thunder Mega Zord]], embora esse tipo de combinação nem sempre se faça necessária.
+
+Exemplo (''atenção! A quebra de linhas foi usada aqui apenas para melhor entendimento! Evite essa prática! Escreva os parâmetros e as exceções tudo em uma única linha para não comprometer a eficiência do código!!!''):
+
+ //Processa
+ public static Object[] processar(String file, String arquivo, int dados, char variavel, Object[] status,
+                                  int linhas, String query, String usuario, String senha,
+                                  String banco, String host, int dia, int mes, int ano, int produtoVendido,
+                                  boolean [[#Nonsense Flag|clicouNaAbaAzul]], String arquivoLido, String arquivoSalvo,
+                                  float versao, int teste1, int teste2, int teste3, boolean deveTrocarOStatus,
+                                  Object[] entrada, Object[] saída, Object... maisDados)
+       throws [[java.lang.NullPointerException|NullPointerException]], ArrayIndexOutOfBoundsException, SQLException, IOException,
+              OutOfMemoryError, FileNotFoundException, SonOfABitchException, SocketException, MalformedURLException,
+              ArithmeticException, UnknownHostException, DeuMerdaException, BullshitFailure, SAXException, ParseException,
+              YourMommaIsFatException, ClassNotFoundException, StackOverflowError, ExceptionInInitilizerError,
+              InvocationTargetException, SecurityException, [[#Nonsense Naming|Abobrinha]], ClassCastException,
+              NoSuchMethodException, NoSuchFieldException, CrapException, UnsatisfiedLinkError,
+              InstantiationException, FuckedError, ArrayStoreException, IllegalArgumentException,
+              NumberFormatException, AssertionError, [[#Programação Orientada a Estagiário|FeitoPeloEstagiarioException]], InternalError, RemoteException,
+              FuckYouException, GambiPogException, GenericException, GenericException2,
+              WTFException, XPTOError, GenericExceptionWrapperException3,
+              RuntimeException, Exception, FudeuError, UnknownError, Error, DeuPau, Throwable {
+ 
+     // Aí é aquilo, mermão...
+     ...
+     ...
+     return processado;
+ }
+
+==== Polymorphic Generic Processor ====
+
+Variação do [[#Generic Processor|Generic Processor]] que utiliza polimorfismo. Consiste em ter uma interface genérica utilizada para tudo com zilhões de implementações diferentes que não tem relação nenhuma umas com as outras. A vantagem é que cada vez que o seu '''Generic processor''' ganha parâmetros, todas as implementações tem que ser refatoradas para adicionar-se tais parâmetros, mesmo aquelas que não os utilizam para nada. Isso garante que o POGramador tomará cuidado ao analisar os impactos de uma alteração no sistema, pois caso contrário um erro de compilação ocorrerá (se a linguagem não for compilada obviamente, caso contrário você se fudeu).
+
+=== The Hitchhiker's Guide to the Galaxy (Mochileiro das Galáxias) ===
+
+Também conhecido como '''''Jornada nas Estrelas''''' ou '''''Across the Universe'''''.
+
+Um objeto que atravessa todo o sistema, do banco de dados à interface, da rede ao sistema de arquivos, sem sofrer NENHUMA transformação. Não importa em que lugar, em que módulo, em que camada você esteja, o mochileiro está lá, sabe Zahl porque...
+
+Quando você deleta o arquivo e remove todas as referências conhecidas a ele, tudo para de compilar, da interface ao código de banco e dados, e até o Microsoft Word passa a dar problemas estranhos.
+
+=== RCP ===
+
+Significa '''''R'''euse by '''C'''opy-and-'''P'''aste'' (Reúso por Copiar e Colar). O RCP dita que, na pressa, quando não dá pra fazer a coisa por herança, basta copiar e colar, quantas vezes for necessário. Em geral se espera que futuras alterações sejam feitas por outros trouxas, digo programadores, perdão.
+
+Os trechos de código são copiados de todo e qualquer lugar possível, geralmente de outro programador (muitas vezes o estagiário) ou código da internet, para criar partes funcionais do programa. Utiliza-se do "''Ctrl+C e Ctrl+V''" para juntar as partes e adaptá-las para funcionar, por tentativa e erro. Leva um considerável tempo para se adaptar o programa, e um número absurdo de compilações, mas pelo menos pode-se dizer que foi você quem fez o código.
+
+Este pattern também é conhecido como "'''Contra o C e Contra o V'''" ou como '''CCOP''' ('''''C'''opiar e '''C'''olar '''O'''riented '''P'''rogramming'').
+
+=== BCDR ===
+
+'''''B'''lack '''C'''at in a '''D'''ark '''R'''oom'' (Gato Preto em um Quarto Escuro). Consiste em criar métodos que recebem apenas um <code>Map</code> ou <code>Dictionary</code> como parâmetro. O argumento que você precisa está lá dentro, no <code>Map</code>, mas você não sabe exatamente onde. Esse padrão permite passar quantos argumentos forem necessários a um método, sem poluir o código. Permite criar métodos cujas assinaturas seriam, de outra forma, extremamente longas (vide padrões [[#Generic Processor|Generic Processor]] e [[#Mega Zord|Mega Zord]]). Evita a alteração de assinaturas de métodos no momento da manutenção do código, fazendo desnecessário qualquer tipo de ''refactoring''.
+
+Há registro de programadores de ''Black Cat in a Dark Room''. Um exemplo complementar é o parâmetro <code>String[]</code>: pode ser pior que o <code>Map</code>, pois normalmente consiste em um ''mix'' de tipos (String, int, etc).
+
+Um exemplo prático é o sistema de gerência de Mensagens do Windows.
+
+Uma variante deste padrão, utilizada muito na programação em Java para Web é a de passar apenas o objeto <code>HttpServletRequest</code> para todos os outros lugares do sistema (normalmente métodos estáticos, <code>void</code> e que não recebem nenhum outro parâmetro). Ao se utilizar dos métodos <code>setAttribute</code> e <code>getAttribute</code>, é possível ler, inserir e alterar quaisquer parâmetros que forem necessários de ser usados em qualquer outra parte da aplicação. Com isso cria-se um design simples e poderoso que reduz a necessidade de refatorações no futuro pois os parâmetros dos métodos jamais precisarão mudar nem é necessário se preocupar com o tipo de retorno de nenhum método.
+
+Também muito utilizado em PHP. Afinal, para que criar estruturas de dados se tudo pode ser feito com uma hashtable? Traz grande facilidade em resolver os problemas rápida e criptograficamente.
+
+=== Mega Zord ===
+
+''Programadores dos [[anos 80]] o conhecem como '''[[Daileon]]'''''. É a combinação do padrão [[#Lone Wolf|Lone Wolf]] com o [[#Generic processor|Generic processor]]. Motivo: criar várias funções, cada uma executando um passo de um algoritmo, causam lentidão no sistema por este ter que interromper seu fluxo para chamá-las. Esse problema pode ser resolvido com uma única e ''gigante guerreira função'', que recebe vários parâmetros que definirão o que esta deverá fazer. Geralmente usado em conjunto também com o [[#Nonsense Flag|Nonsense Flag]].
+
+ //Processa
+ public static Object[] processar(/* um porrilhão de parâmetros aqui */) throws tudo_o_que_voce_imagina {
+     // Aqui você coloca umas trocentas mil linhas de código, consistindo em uma sopa de ifs, switches, whiles, fors, breaks e continues.
+     // Se a sua linguagem não tiver frescuras e nem preconceitos, não se esqueça de apreciar o doce sabor dos gotos.
+     // Também, declare umas 300 variáveis locais de diversos tipos diferentes e espalhadas em diversos locais.
+     // Nota: Frequentemente, esse procedimento é recursivo, e com recursão em vários lugares diferentes e de jeitos diferentes!
+ }
+
+Esse padrão também pode ser usado com SQL. SELECTs aninhados devem ser evitados pois diminui a eficiência, [[foda-se]] se ninguém entender que [[merda]] aquilo faz.
+
+==== Thunder Mega Zord ====
+
+Por vezes, o Mega Zord se mostra insuficiente para resolver uma série de problemas, e apesar da quantidade de parâmetros que o método recebe, sempre aparece mais um que não foi pensado, e daí, para não quebrar as interfaces os POGramadores são obrigados a adicionar mais um método, replicando o código anterior, etc. Para evitar esse retrabalho, POGramadores mais avançados aplicam o padrão Thunder atropelando esse bla bla bla de linguagem fortemente tipada ao combiná-lo com o [[#BCDR|Black Cat in a Dark Room]], resultando em um poderoso padrão que consiste na combinação de vários Gambi Design Patterns em um só (imagina só como é legal e divertido debugar e dar manutenção)...
+
+ //Processa
+ public static Object[] processar(Map<String, Object> parametros) throws Throwable {
+     // Algo similar ao padrão [[#Mega Zord|Mega Zord]] simples aparece aqui.
+     // Entretanto, evite declarar variáveis locais. Isso é desnecessário, uma vez que com o Map você já tem todas as variáveis de que precisa.
+ }
+
+=== One main to rule them all ===
+
+Padrão arquitetural que dita que definir um monte de métodos, funções, procedimentos, classes, bibliotecas, módulos, etc, é tudo viadagem. O desenvolvimento é muito mais simples e eficiente quando o programa inteiro é composto por uma única função <code>main()</code>. Afinal de contas, se você pode fazer tudo dentro do <code>main()</code>, então não há motivos para se usar alguma outra função.
+
+<blockquote style="text-align:center">
+One <code>main()</code> to rule them all,<br>
+One <code>main()</code> to find them,<br>
+One <code>main()</code> to bring them all<br>
+and in the darkness bind them
+</blockquote>
+
+Obviamente a implementação dessa função <code>main()</code> tende a combinar de forma natural e elegante vários aspectos de diversos outros padrões, tais como [[#Mega_Zord|Mega Zord]], [[#Thunder_Mega_Zord|Thunder Mega Zord]], [[#Generic_Processor|Generic Processor]], [[#Lone_Wolf|Lone Wolf]] e [[#RCP|RCP]]. Ao empregar esse padrão, o POGramador rapidamente será compelido a combinar de forma elegante várias estruturas tais como "'''fors dentro de switches dentro de switches dentro de whiles dentro de switches'''". Dependendo da linguagem, aprenderá a se viciar no doce sabor do GOTO.
+
+O rastreamento e o entendimento do programa também fica muito mais fácil, pois você terá aquelas 21607 linhas de código dentro de uma única função, gerando um único fluxo a seguir e analisar, ao invés de ter vários pequenos fluxos picotados em umas mil funções diferentes espalhadas para tudo que é lado.
+
+=== There is No Spoon ===
+
+Padrão para [[C]]/[[C mais mais|C++]]. Dar o mesmo nome aos arquivos ''.h'' e aos ''.c(pp)'' onde estão definidas as funções podem causar conflitos durante a compilação. Dar um nome diferente aos ''.c'' evita esse problema. Outro ganho é evitar com que os [[programador]]es percam tempo querendo saber como e onde aquelas funções, onde toda a lógica é escrita em um único arquivo no corpo principal do programa (<code>main()</code> no [[C mais mais|C++]] e <code>meinKempf()</code> em [[Java]]), atingindo-se assim o ápice da eficiência computacional, denominado [[Sétimo sentido]].
+
+=== BaseBean ===
+
+É um ''pattern'' avançado de POG, recomendado sempre que for necessário o máximo de reaproveitamento e flexibilidade sem perda de ''backward compatibility'' em processos iterativos. A primeira versão do sistema deve estar toda implementada na classe <code>BaseBean</code>, decomposta no maior número possível de métodos. Assim que for requisitada uma alteração ou nova funcionalidade, deve-se criar uma nova classe <code>Bean2</code> herdando de <code>BaseBean</code>, sobrescrevendo alguns métodos existentes e adicionando novos métodos. As próximas alterações vão para a <code>Bean3</code>, <code>Bean4</code>, ... (esses beans são mais conhecidos como POGBeans - from GoP - Gang of POG) e assim sucessivamente. Além das vantagens já citadas, essa técnica garante um mecanismo de controle de versões ''built-in''.
+
+=== PogManager Pattern ===
+
+Consiste numa classe que encapsula diversas técnicas POG. Deve ser usado em conjunto com as declarações <code>try...catch</code> conforme o exemplo abaixo.
+
+ try {
+     businessObj.businessMethod();
+ } catch (KnownError err) {
+     pogManager.doIt();
+ } catch (UnknownError err) {
+     while(true) {
+         pogManager.doItAgain();
+     }
+ }
+
+=== Continuous & Incremental POGging ===
+
+Consiste na elaboração de projetos enormes incrementalmente. Este ''pattern'' acelera em muito o processo de implementação e facilita um posterior suporte. Projetos que seguem este pattern geralmente são chamados de <code>teste.prj</code>, <code>HelloWorld.prj</code>, <code>tst.vcp</code>, <code>tst.vcw</code> etc. Seus arquivos principais (onde se encontram a <code>main()</code> e a (única) função [[#Mega Zord|Mega Zord]]) geralmente se chamam <code>teste.cpp</code> ou <code>HelloWorld.cpp</code>. Ainda outra característica comum nestes projetos é a antiga data de criação dos arquivos já citados anteriormente.
+
+=== Polymorphic Confusion ===
+
+Tática ''gambi'' adotada principalmente por [[DBA]]s, na qual a mesma informação pode possuir dezenas de utilidades e significados dependendo de ''flags'' ou de alguma condição obscura. Coisas como ''"se o ID for maior que 9999 não é mais produto comprado, é produto vendido!''" e "''a flag 'tipoEntidade' indica se é uma pessoa, empresa ou qualquer item''".
+
+Em um exemplo real, em produção, na tabela de débitos (que, aliás, se chama "créditos"), existe a coluna "<code>IN_MULTA</code>". Se for "<code>N</code>", indica que não se aplica a multa ao débito, e, se for "<code>S</code>", faz-se necessário verificar o campo de tipo de tipo de débito. Caso for "<code>LO</code>", e a chave estrangeira tripla de autorelacionamento "<code>VINCULADO</code>" (lembre-se que só os DBAs mais poderosos usam chaves primárias compostas) levar a um registro do tipo "<code>MV</code>" cujo situação for "<code>6</code>" com motivo 14, 15, 16, 17 ou 19, ou situação for "<code>12</code>" e existir um registro na chave estrangeira tripla de autorelacionamento "<code>DESMEMBRADO</code>" cuja regra inicial se aplique (ou seja, for do tipo "<code>MV</code>", etc, etc - lembre-se que o desmembrado pode ser redesmembrado), finalmente você descobre que o "<code>S</code>" de multa, na verdade representa desconto. Nos outros casos, é multa, mesmo - exceto se o indicador for "<code>NA</code>" ou nulo, nesse caso, utilize o [[#User Friendly Exception|User Friendly Exception]] para indicar um registro não previsto na base.
+
+=== Controller Confusion ===
+
+Tática que permite uma menor escrita de classes no sistema. Consiste simplesmente em eliminar o M do padrão MVC, ficando um padrão muito mais legal - o VCC ("View/Controller Confusion", ou "Vai catar coquinho"). Alguns tem sugerido inclusive a eliminação do V - ou seja, ficando apenas o CC (Código coco para os usuários mais íntimos) - a lógica, o modelo, os templates, o HTML, tudo e mais um pouco dentro do controller confusion. Como você pode ver, o padrão cêcê faz jus ao nome.
+
+=== NML ===
+
+É um ''Design Pattern'' POG ousado, moderno, revolucionário e NÃO-[[Emo|EMO]]. Os arquitetos [[emo]]s e POGuistas ADORAM, junto com seus ''miguxus'', incrementar suas ''frameworks'' utilizando MUITAS camadas, geralmente desnecessárias. A ''NML'' ('''''N'''o '''M'''ore '''L'''ayers'') aborda uma estrutura onde todas as regras de negócio, validação (''client'' e ''server side'') e acesso à dados estão na tela! 
+
+Para que ''Façades'', ''Commands'', ''Bussines Delegate'' e outras viadagens [[Emo|EMO]] detonando a performance da aplicação? 
+
+Manutenção? Não é necessário, pois quem domina e faz uso dessa técnica modesta e humilde produz códigos ''[[Chuck Norris Style]]'', ou seja: PERFEITOS. Esse paradigma está amplamente difundido por programadores [[VB]] e [[Delphi]], e tem migrado com sucesso para a plataforma .NET, porque o que importa é a beleza da tela, e não a tecnologia que está por trás!
+
+=== Reinvented Square Wheel Helper ===
+
+Também conhecido como "Do not trust the others". Este ''design pattern'' visa aumentar a performance de tarefas corriqueiras, para as quais já existe uma ''API'' da própria linguagem que faz a mesma coisa. Ao invés de utilizar a referida ''API'', o [[programador]], em um instinto de provar a masculinidade ou por pura preguiça de ler o manual, reinventa diversas funções básicas, como por exemplo a de "''adicionar um dia a uma data''" e, utilizando tipos totalmente impróprios para manipulação de datas, tal como ''String'', reconstroem toda a lógica de calendário só para fazer esta função.
+
+'''Afinal de contas melhor 856 bugs em código seu do que 1 em código de outros.'''
+
+==== Reinvented Square Wheel Wrapper ====
+
+Variante da Reinvented Square Wheel Helper, este pattern é usado por quem não confia nas APIs existentes, mas não tem tempo hábil para reescrever tudo. Se algum estagiário já fez o serviço, não reescreva, encapsule! Basta criar uma classe que extenda a classe da API e pronto. 
+
+Exemplo real, vindo de uma empresa (realmente) grande que fabrica softwares (extremamente) caros:
+
+ public class McTimestamp extends java.util.GregorianCalendar {
+    public McTimestamp(int year,
+                   int month,
+                   int date,
+                   int hour,
+                   int minute,
+                   int second) {
+      super(year, month, date, hour, minute, second);
+    }
+    public McTimestamp(int year,
+                   int month,
+                   int date,
+                   int hour,
+                   int minute,
+                   int second,
+                   int millisecond) {
+      super(year, month, date, hour, minute, second);
+      set(MILLISECOND, millisecond);
+    }
+ }
+
+=== Varalzão ===
+
+Quando utilizado em grande escala é também conhecido como lavanderia, consiste na lendária arte de se pendurar códigos em cima de códigos para promover a estabilidade máxima do sistema.
+
+Exemplo:
+
+ public class Pinga extends Cana
+ public class Pinga2 extends Pinga
+ public class PingaFinal extends Pinga2
+ public class PingaFinal2 extends PingaFinal
+ public class PingaDaPingaFinal extends PingaFinal2
+
+=== The CoITO ===
+
+Além das diversas dificuldades já citadas que o POGramador enfrenta, as linguagens ainda impõem outras como, por exemplo, não poder instanciar uma interface o que torna a expansão de softwares uma tarefa mais árdua. Desta forma, o padrão ''The CoITO'' ('''C'''ontrol '''o'''f '''I'''nterface '''T'''otally '''O'''btainble) ou ''Gambi Casting'' soluciona o problema citado de forma ''elegante''. Siga o exemplo em [[Java]]:
+
+ public interface Carro {
+     public acelera();
+ }
+
+ public class Motorista implements Carro {
+     public acelera() {
+         // ...
+     }
+ }
+
+ public static void main (String [] args) {
+     Motorista motorista = new Motorista();
+     Carro c = motorista; // Veja a elegância do The CoITO sendo usado
+     // Agora você já pode usar tranquilamente a chamada de métodos com a Interface
+     c.acelera();
+ }
+
+=== MOPED ===
+
+O '''M'''étodo '''O'''rgânico de '''P'''rogramação '''E'''volutiva '''D'''arwiniana consiste em utilizar conceitos do [[darwinismo]] em programação. A cada passo, mutações aleatórias são feitas no sistema pelo experiente POGramador. Após isto apenas as gambiarras mais adaptadas ao meio sobreviverão à próxima série de mudanças aleatórias do POGramador.
+
+O MOPED demonstra toda a sua glória e potencial quando se observa um sistema de milhares de linhas, 3D, com múltiplas threads, se formar à partir de um 'hello world'. É a evolução do método de [[#Deus Ex Machina|Deus Ex Machina]].
+
+=== Doubleton ===
+
+Você já tem um Singleton (aquele padrão criacional pra criar apenas uma instância de um objeto) que funciona perfeitamente, mas agora, no meio do projeto, você precisa criar 2 (isso mesmo, duas) instâncias do seu singleton. Como você faz? Usa Doubleton. Um exemplo:
+
+<pre>
+public class MeuDoubleton {
+    private static MeuDoubleton instancia = new MeuDoubleton();
+
+    // Aqui está a chave do sucesso!!!
+    private static MeuDoubleton instancia2 = new MeuDoubleton();
+
+    private MeuDoubleton(){
+        // algum código aqui
+    }
+
+    public static MeuDoubleton getInstance(){
+        return instancia;
+    }
+
+    /**
+     * hahaha! me livrei de ter que usar aquele maldito Factory!
+     */
+    public static MeuDoubleton getInstance2(){
+        return instancia2;
+    }
+
+    // outros métodos legais do seu doubleton
+}
+</pre>
+
+Esse pattern é flexível o suficiente para poder ser ampliado indefinidamente, com os padrões Tripleton, Quadrupleton, Quintupleton... Por exemplo:
+
+<pre>
+public class MeuQuarentaEOitopleton {
+    private static MeuQuarentaEOitopleton instancia = new MeuQuarentaEOitopleton();
+
+    private static MeuQuarentaEOitopleton instancia2 = new MeuQuarentaEOitopleton();
+
+    private static MeuQuarentaEOitopleton instancia3 = new MeuQuarentaEOitopleton();
+
+    ...
+
+    private static MeuQuarentaEOitopleton instancia47 = new MeuQuarentaEOitopleton();
+
+    private static MeuQuarentaEOitopleton instancia48 = new MeuQuarentaEOitopleton();
+
+    private MeuQuarentaEOitopleton(){
+        // algum código aqui
+    }
+
+    public static MeuQuarentaEOitopleton getInstance(){
+        return instancia;
+    }
+
+    public static MeuQuarentaEOitopleton getInstance2(){
+        return instancia2;
+    }
+
+    ...
+
+    public static MeuQuarentaEOitopleton getInstance48(){
+        return instancia48;
+    }
+
+    // outros métodos.
+}
+</pre>
+
+=== Gera a Porra Toda ===
+
+Este é o pattern com o uso mais difundido no mundo, fortemente utilizada em sistemas POG, onde uma única classe é responsável por gerar todo a parte de visualização do sistema. Exemplo:
+
+<pre>
+public class GeraAPorraToda{
+
+  public static String gerar(){
+     String conteudo = '<div id="imagem">
+     <p><a href="http://noticias.terra.com.br/ciencia/interna/0,,OI2261692-EI299,00.html" rel="100"  >
+     <img src="http://img.terra.com.br/capa/imagens/navio_cruzara_atlantico_pipa_bbcBR_163.jpg" 
+alt="BBC Brasil" title="BBC Brasil"         width="162" height="198"></a></p>
+     <h5><a href="http://noticias.terra.com.br/ciencia/interna/0,,OI2261692-EI299,00.html" rel="100" >Navio cruzará Atlântico <br />com ajuda de pipa gigante</a></h5>
+    </div>';
+
+   /**
+    * Caro desenvolvedor, se precisar inserir mais alguma coisa, favor concatenar com o a variável conteudo.
+    */
+
+   return conteudo;
+   }
+}
+</pre>
+
+E então, ele é usado assim:
+
+ GeraAPorraToda instance = new GeraAPorraToda();
+ instance.gerar();
+
+Caso você não queira instanciar esta classe na mão, é muito comum utilizar um factory: 
+
+ String conteudo = GeraAPorraTodaFactory.getInstance().gerarAPorraToda();
+ System.out.println(conteudo);
+
+=== Fagueiro ===
+
+O Fagueiro Pattern busca a reutilização e o reaproveitamento do código ao EXTREMO!!! Esse pattern é tão complexo que não conseguimos expressar em um modelo UML como o caso de alguns modelos poucos conhecidos como o Singleton.
+
+Veja uns dos exemplos do Fagueiro Pattern em uma classe de negócio que faz a inserção numa base de dados dos seus próprios dados. No nosso exemplo a classe se chama Pessoa.
+
+Assinatura do método presente na Pessoa:
+
+ void inserir(Pessoa p);
+
+O Fagueiro Pattern é sutil nesse caso, mas podemos reparar que ela recebe como parâmetro uma instância da classe <code>Pessoa</code>, ou seja, você pode inserir a própria classe através do comando ou uma outra instância qualquer!!! Altamente flexível e tendendo ao infinito na questão do reaproveitamento, além do fato de transmitir uma segurança e garantia ao programador pois você tem CERTEZA qual instancia irá persistir na base dados pois ela foi passada como parâmetro.
+
+ Pessoa p = new Pessoa();
+ p.inserir(p);
+
+=== GRUD ===
+
+É pronunciado "GRUDI", tal qual aqueles grudes que se "encontra" nas calçadas e não larga mais do seu pé.
+Define '''G'''ambiarra de '''R'''ecover, '''U'''pdate e '''D'''elete. Claro que ele acaba fazendo mais coisas, mas se trata daquele padrão velhaco usado para criar telinhas para recuperação, atualização, inserção e deleção de registros em sistemas. Todos o odeiam, mas raramente escaparam de um desses. O padrão já é algo arquitetural. Áreas como bancos, comércios, são praticamente frameworks de GRUDs.
+
+=== MVC Killer ===
+
+Padrão de projeto que consiste em copiar a chamada ao modelo de dados abrindo várias conexões ao mesmo tempo, aproveitando todas as técnicas de pool de conexões, só para garantir que toda a memória do computador seja usada.
+
+É o resultado de uma combinação perfeita dos padrões [[#RCP|RCP]] e [[#Controller Confusion|Controller Confusion]].
+
+Exemplo real:
+
+<pre>
+public Report generateReport(Report report) throws ReportException {
+		this.report = report;
+		
+		switch (Report.getFormat()) {
+			case RTF:
+				return generateRTF();
+			case HTML:
+				return generateHTML();
+			case PDF:
+				return generatePDF();
+			case XLS:
+				return generateXLS();
+			case XML:
+				return generateXML();
+			case CSV:
+				return generateCSV();
+			default:
+				return null;
+		}
+	}
+
+public Report generateHTML() throws ReportException {
+		log.debug("  >> Gerando relatório em HTML..");
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+		
+		try {
+			DAOFactory factory = DAOFactory.getDAOFactory(Constantes.DAOType.POSTGRES);
+			DocumentoDAO DocumentoDAO = factory.getDocumentoDAO();
+			DocumentoVO DocumentoVO = DocumentoDAO.findById(
+					Integer.valueOf((String) this.Report.getParameters().get("DocumentoId")));
+
+			ByteArrayInputStream bais = new ByteArrayInputStream(DocumentoVO.getImagemArquivo());
+			
+ 			JasperPrint jasperPrint = (JasperPrint) JRLoader.loadObject(bais);
+ 			
+			JRHtmlExporter htmlExporter = new JRHtmlExporter();
+			htmlExporter.setParameter(JRExporterParameter.JASPER_PRINT, jasperPrint);
+		    htmlExporter.setParameter(JRExporterParameter.OUTPUT_STREAM, baos);
+		    htmlExporter.exportReport();
+  			
+  			this.Report.setFile(baos.toByteArray());
+		    this.Report.setContentType(Constantes.ContentType.HTML.toString());
+		    this.Report.setExtContentType(Constantes.ExtensionType.HTML.toString());
+		} catch (DAOException e) {
+			throw new ReportException(e);
+		} catch (JRException e) {
+			throw new ReportException(e);
+		} 
+		
+		return this.Report;
+	}
+
+	
+	public Report generatePDF() throws ReportException {
+		log.debug("  >> Gerando relatório em PDF..");
+		
+		try {
+			DAOFactory factory = DAOFactory.getDAOFactory(Constantes.DAOType.POSTGRES);
+			DocumentoDAO DocumentoDAO = factory.getDocumentoDAO();
+			DocumentoVO DocumentoVO = DocumentoDAO.findById(
+					Integer.valueOf((String) this.Report.getParameters().get("DocumentoId")));
+
+			ByteArrayInputStream bais = new ByteArrayInputStream(DocumentoVO.getImagemArquivo());
+			
+ 			JasperPrint jasperPrint = (JasperPrint) JRLoader.loadObject(bais);
+ 			
+  			byte[] bytes = JasperExportManager.exportReportToPdf(jasperPrint);
+  			
+  			this.Report.setFile(bytes);
+  			this.Report.setContentType(Constantes.ContentType.PDF.toString());
+	        this.Report.setExtContentType(Constantes.ExtensionType.PDF.toString());
+		} catch (DAOException e) {
+			throw new ReportException(e);
+		} catch (JRException e) {
+			throw new ReportException(e);
+		} 
+		
+		return this.Report;
+	}
+
+	
+	public Report generateXLS() throws ReportException {
+		log.debug("  >> Gerando relatório em XLS..");
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+		
+		try {
+			DAOFactory factory = DAOFactory.getDAOFactory(Constantes.DAOType.POSTGRES);
+			DocumentoDAO DocumentoDAO = factory.getDocumentoDAO();
+			DocumentoVO DocumentoVO = DocumentoDAO.findById(
+					Integer.valueOf((String) this.Report.getParameters().get("DocumentoId")));
+
+			ByteArrayInputStream bais = new ByteArrayInputStream(DocumentoVO.getImagemArquivo());
+			
+ 			JasperPrint jasperPrint = (JasperPrint) JRLoader.loadObject(bais);
+ 			
+ 			JRXlsExporter xlsExporter = new JRXlsExporter();
+			xlsExporter.setParameter(JRExporterParameter.JASPER_PRINT, jasperPrint);
+		    xlsExporter.setParameter(JRExporterParameter.OUTPUT_STREAM, baos);
+		    xlsExporter.exportReport();
+  			
+  			this.Report.setFile(baos.toByteArray());
+		    this.Report.setContentType(Constantes.ContentType.XLS.toString());
+		    this.Report.setExtContentType(Constantes.ExtensionType.XLS.toString());
+		} catch (DAOException e) {
+			throw new ReportException(e);
+		} catch (JRException e) {
+			throw new ReportException(e);
+		} 
+		
+		return this.Report;
+	}
+
+	
+	public Report generateRTF() throws ReportException {
+		log.debug("  >> Gerando relatório em RTF..");
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+		
+		try {
+			DAOFactory factory = DAOFactory.getDAOFactory(Constantes.DAOType.POSTGRES);
+			DocumentoDAO DocumentoDAO = factory.getDocumentoDAO();
+			DocumentoVO DocumentoVO = DocumentoDAO.findById(
+					Integer.valueOf((String) this.Report.getParameters().get("DocumentoId")));
+
+			ByteArrayInputStream bais = new ByteArrayInputStream(DocumentoVO.getImagemArquivo());
+			
+ 			JasperPrint jasperPrint = (JasperPrint) JRLoader.loadObject(bais);
+ 			
+			JRRtfExporter rtfExporter = new JRRtfExporter();
+		    rtfExporter.setParameter(JRExporterParameter.JASPER_PRINT, jasperPrint);
+		    rtfExporter.setParameter(JRExporterParameter.OUTPUT_STREAM, baos);
+		    rtfExporter.exportReport();
+		    
+		    this.Report.setFile(baos.toByteArray());
+		    this.Report.setContentType(Constantes.ContentType.RTF.toString());
+		    this.Report.setExtContentType(Constantes.ExtensionType.RTF.toString());
+		} catch (DAOException e) {
+			throw new ReportException(e);
+		} catch (JRException e) {
+			throw new ReportException(e);
+		} 
+
+		return this.Report;
+	}
+
+	
+	public Report generateXML() throws ReportException {
+		log.debug("  >> Gerando relatório em XML..");
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+		
+		try {
+			DAOFactory factory = DAOFactory.getDAOFactory(Constantes.DAOType.POSTGRES);
+			DocumentoDAO DocumentoDAO = factory.getDocumentoDAO();
+			DocumentoVO DocumentoVO = DocumentoDAO.findById(
+					Integer.valueOf((String) this.Report.getParameters().get("DocumentoId")));
+
+			ByteArrayInputStream bais = new ByteArrayInputStream(DocumentoVO.getImagemArquivo());
+			
+ 			JasperPrint jasperPrint = (JasperPrint) JRLoader.loadObject(bais);
+ 			
+			JRXmlExporter xmlExporter = new JRXmlExporter();
+		    xmlExporter.setParameter(JRExporterParameter.JASPER_PRINT, jasperPrint);
+		    xmlExporter.setParameter(JRExporterParameter.OUTPUT_STREAM, baos);
+		    xmlExporter.exportReport();
+		    
+		    this.Report.setFile(baos.toByteArray());
+		    this.Report.setContentType(Constantes.ContentType.TEXT.toString());
+		    this.Report.setExtContentType(Constantes.ExtensionType.XML.toString());
+		} catch (DAOException e) {
+			throw new ReportException(e);
+		} catch (JRException e) {
+			throw new ReportException(e);
+		} 
+		
+		return this.Report;
+	}
+
+	
+	public Report generateCSV() throws ReportException {
+		log.debug("  >> Gerando relatório em CSV..");
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+
+		try {
+			DAOFactory factory = DAOFactory.getDAOFactory(Constantes.DAOType.POSTGRES);
+			DocumentoDAO DocumentoDAO = factory.getDocumentoDAO();
+			DocumentoVO DocumentoVO = DocumentoDAO.findById(
+					Integer.valueOf((String) this.Report.getParameters().get("DocumentoId")));
+
+			ByteArrayInputStream bais = new ByteArrayInputStream(DocumentoVO.getImagemArquivo());
+			
+ 			JasperPrint jasperPrint = (JasperPrint) JRLoader.loadObject(bais);
+ 			
+			JRCsvExporter csvExporter = new JRCsvExporter();
+			csvExporter.setParameter(JRExporterParameter.JASPER_PRINT, jasperPrint);
+			csvExporter.setParameter(JRExporterParameter.OUTPUT_STREAM, baos);
+			csvExporter.exportReport();
+		    
+		    this.Report.setFile(baos.toByteArray());
+		    this.Report.setContentType(Constantes.ContentType.TEXT.toString());
+		    this.Report.setExtContentType(Constantes.ExtensionType.CSV.toString());
+		} catch (DAOException e) {
+			throw new ReportException(e);
+		} catch (JRException e) {
+			throw new ReportException(e);
+		} 
+
+		return this.Report;
+	}
+}
+</pre>
+
+=== Ingratitude with Ancestors ===
+
+Técnica avançada de POG, tão avançada que algumas linguagens não dão suporte a ela, obrigando o POGramador a trocar para uma linguagem que suporte completo ao POG, como é o caso do PHP. Consiste em criar uma subclasse e em seu construtor, chamar o construtor da sua classe pai apenas no final do método. (Exemplo Real) Em PHP:
+
+ class Pessoa {
+   protected $tipo_pessoa;
+   public function __construct() {
+      $this->tipo_pessoa = 'F'; //Pessoa física
+   }
+ }
+
+E em sua subclasse, fazer:
+
+ class PessoaJuridica extends Pessoa {
+   public function __construct() {
+      $this->tipo_pessoa = 'J'; //Pessoa Jurídica
+      parent::__construct();
+   }
+ }
+
+Por motivos claros, o comportamento desejado não é obtido. Solução? Alterar a classe pai!
+
+ class Pessoa {
+   protected $tipo_pessoa;
+   public function __construct() {
+      if ( ! isset($this->tipo_pessoa) ) //Adiciona valor somente se classe filha não tiver feito!
+          $this->tipo_pessoa = 'F';
+   }
+ }
+
+Dessa forma toda alteração feita nas classes filhas passa a necessitar de alterações na classe pai, mostrando que a culpa de uma programação mal-feita é sempre da classe pai.
+
+=== Chameleon Behaviour ===
+
+Este Gambi Design Pattern foi catalogado por uma grande consultoria mundialmente conhecida, inclusive entre jogadores de Golf psicopatas sexuais. Consiste em transformar um método coeso, que até então fazia apenas o que lhe era proposto, num método com dois ou mais comportamentos. Isso tudo para que premissas do tipo "atomicidade" entre casos de uso sejam atendidas de acordo com o contrato. No exemplo a seguir, é demonstrado um método "excluir" que após excluir uma <code>Pessoa</code>, retorna a lista de <code>Pessoa</code>s atualizada (sem a pessoa que foi excluída):
+
+<pre>
+class PessoaBoLoVo() {
+...
+    public List<Pessoa> delete(Pessoa p) {
+        String sql = "delete from pessoa where :id = "+p.getId();
+        SqlExecuter.execute(sql);
+        sql = "select * from pessoa";
+        return SqlExecuter.executeList(sql);
+    }
+}
+
+class Pessoa {
+..
+  public List<Pessoa> excluir(Pessoa p) {
+        return new PessoaBoLoVo().delete(p);
+  }
+}
+</pre>
+
+Com isso, foi possível economizar uma "transação" no banco, pois onde eram duas "excluir" e "listar", virou apenas uma!
+
+Uma variação desse pattern pode ser observada a seguir (auxiliando-se de outro pattern [[#BCDR|gato preto num quarto escuro]]):
+
+<pre>
+public Object operacao(int tipo, Map<Object, Object> valores) {
+   if (tipo == 1) {
+       //codigo para excluir..
+   } else if (tipo == 2) {
+       //codigo para listar..
+   }
+   //etc..
+}
+</pre>
+
+=== HnS ===
+
+O '''Hns''' ('''''H'''ide-a'''n'''d-'''S'''eek'' ou ''Esconde-Escode) é um padrão de desenvolvimento amplamente utilizado em módulos ERP, em especial os escritos em VB6 e Delphi.
+
+Este padrão dita que, a única forma de se visualizar o funcionamento da regra de negócios é durante o funcionamento do software. No momento em que a regra de negócios precisa passar por uma manutenção, ela se esconde. A regra pode se esconder em qualquer lugar: Na classe estática global do projeto, na interface, no banco de dados, na DLL de comunicação entre servidores, em um arquivo TXT adicionada como "Resource". 
+
+Em vários casos foram observados uma evolução natural do HnS, onde ele além de se esconder, se divide em vários outros procedimentos, criando assim o padrão [[#Puzzle|Puzzle]].
+
+Utilizando HnS, o POGramador já estará preparando o projeto para inserção de técnicas de ofuscação de código, colaborando assim para a segurança do código-fonte.
+
+==== Puzzle ====
+
+O padrão Puzzle (quebra-cabeças) é uma forma avançada do [[#HnS|HnS]], utilizando principalmente os recursos de ofuscação de código e [[#IoC|IoC (Indetermination of Calls)]],
+criando assim um verdadeiro inferno na vida do POGramador que precisa dar manutenção no código.
+
+==== IoC Methodology ====
+
+O IoC ('''''I'''ndetermination '''o'''f '''C'''alls'' ou ''Indeterminação das Chamadas'') é uma técnica de programação muito utilizada em conjunto com o [[#HnS|HnS]]. Consiste em nomear as chamadas de métodos e funções de forma a não determinar o que este faz exatamente. Alguns exemplos:
+
+<pre>
+public class ProcessosGerais {
+    // classe de encapsulamento dos Processos do Pedido de Venda
+    public void Processando(int valor) {
+        // valida se o cliente está bloqueado
+    }
+    public void Gravando() {
+        // bloqueia a interface preparando para salvar o pedido
+    }
+}
+</pre>
+
+E agora segue um exemplo real em VB6:
+
+<pre>
+' Módulo: FuncoesGerais.bas
+
+Public Function Barra(Nome_Menu As Menu) As String
+    If Nome_Menu.Checked = False Then
+        Nome_Menu.Checked = True
+    Else
+        Nome_Menu.Checked = False
+    End If
+End Function
+</pre>
+
+=== Bicicleta Voadora ===
+
+A '''Bicicleta Voadora''' (também chamada de ''Suco do Chaves'') é uma técnica avançada de estruturação de classes, que funciona da seguinte forma: Primeiro, cria-se uma classe abstrata básica com as funcionalidades gerais; Depois criam-se implementações, mas com um pequeno porém que dará todo aquele gostinho especial. Imaginemos que a classe básica abstrata seja <code>Veículo</code>, e que desejamos criar duas implementações, o <code>Avião</code> e a <code>Bicicleta</code>. A implementação da técnica consiste justamente em embutir uma classe concreta na classe abstrata superior.
+
+Assim, em nosso exemplo, a classe <code>Veículo</code> poderia ter as mesmas capacidades de um <code>Avião</code>. Portanto, obtemos um resultado surpreendente e inovador, quase mágico, onde qualquer veículo poderá agora voar! Ou no caso em que a classe <code>Bicicleta</code> é embutida, qualquer veículo passaria a ser então considerado ecologicamente correto, automaticamente, seja ele um avião barulhento, um ônibus movido a diesel, ou até mesmo um navio velho carregado de petróleo. Esta técnica é considerada por alguns gênios, tais como os engenheiros do Google, como "brilhante".
+
+=== Programação Desorientada a Objetos ===
+
+A programação orientada a objetos é um paradigma que diz, dentre várias outras coisas, que conceitos de negócio são divididos em classes que armazenam estados que representam dados relacionados a esse conceito, e que estas classes também têm junto de si, as operações capazes de manipular tal conceito.
+
+Já na programação desorientada a objetos, o estado de uma classe deve ser armazenado em um local que não seja dentro do próprio objeto, pois cada objeto deve armazenar estado apenas de outros objetos que não tenham relação com a classe. Além disso, as operações disponibilizadas em uma determinada classe devem ter relação apenas com conceitos alheios ao que a classe diz ser.
+
+Um exemplo real é o que está abaixo, onde um produto é definido como uma coisa que exibe nomes. Uma revista é definida como um produto que exibe nomes no console. Um teste é uma coisa que tem um produto com um nome, vez que o nome do produto não deve ficar dentro da classe produto. Para garantir o bom encapsulamento, esse nome de produto não pode ser definido e alterado em lugar nenhum, ficando sempre <code>null</code>. O método que converte um objeto em uma string, também deve ser responsável por exibi-la, (e por acaso o nome exibido e retornado é <code>null</code>). A classe que junta todas essas bostas em um mesmo programa para executá-las, inclusive para mostar o nome do produto (pela segunda vez) deve se chamar <code>HelloWorld</code> (veja o padrão [[#Continuous & Incremental POGging|Continuous & Incremental POGging]]). Observe a elegância do código resultante:
+
+<pre>
+interface Produto {
+    void exibirNome(String nome);
+}
+
+class Revista implements Produto {
+    @Override
+    public void exibirNome(String nome) {
+        System.out.println("Exibindo revista de nome: " + nome);
+    }
+}
+
+class Teste {
+    private Produto produto;
+    String nome;
+
+    public Teste(Produto produto) {
+        this.produto = produto;
+    }
+
+    public Produto getProduto() {
+        return produto;
+    }
+
+    @Override
+    public String toString() {
+        produto.exibirNome(nome);
+        return nome;
+    }
+}
+
+class HelloWorld {
+    public static void main(String[] args)  {
+        Produto p = new Revista();
+        Teste teste = new Teste(p);
+        System.out.println(teste);
+    }
+}
+</pre>
+
+<sub>Fonte: http://pt.stackoverflow.com/a/172126/132</sub>
+
+=== Programação Orientada a Strings ===
+
+A programação orientada a strings dita que TUDO no programa deve ser do tipo string, que esse é o tipo ideal para se realizar qualquer tipo de operação e para representar qualquer tipo de dado. Por exemplo:
+
+* Para representar um valor do tipo sim ou não, o tipo adequado é ''STRING''!
+* Para representar uma data, o tipo adequado é ''STRING''!
+* Para representar um produto cadastrado, o tipo é ''STRING''!
+* Para representar uma lista de itens, o tipo a se usar é ''STRING''!
+* Para representar números... Bem nesse caso, às vezes (só às vezes) é melhor usar <code>int</code> mesmo porque [[#String Sushi Man|as porras das funções para picotar strings]] só funcionam com <code>int</code>s, mas isso se deve a uma falha da linguagem, pois o correto seria elas usarem strings também.
+
+Enfim, não existe necessidade de se lidar com ponteiros, estruturas, vetores, objetos, classes, lambdas, booleans e mais um monte dessas merdas e viadagens que muitas linguagens de programação oferecem apenas para inflar os preços dos salários dos POGramadores. Tudo se limita a conhecer como se manipula strings, o que permite que consultorias possam contratar POGramadores que sejam treinados em muito menos tempo, uma vez que não é necessário mais ensinar-se todas essas tranqueiras nos treinamentos (treinamentos esses que duram 5 minutos, em média). Dessa forma, é possível que as empresas pratiquem salários <s>de semi-escravidão</s> mais justos, evitando a inflação do mercado.
+
+Esse padrão frequentemente aparece associado ao [[#Magic String|Magic String]] e ao [[#String Sushi Man|String Sushi Man]], por motivos óbvios.
+
+Eis aqui um exemplo de programação orientada a strings:
+
+ if (usuario_logado == "N") {
+    print "Usuario deslogado";
+ } else {
+    if (data_inicio == "") data_inicio = "01/01/2013";
+    ano_inicio = right(data_inicio, 4);
+    proxima_aba = "C";
+ }
+
+== Gambi Design Patterns em projetos de algoritmos ==
+
+Projetar algoritmos complexos e eficientes é uma tarefa muito laboriosa e que requer bastante inteligência para poder ser feita de forma efetiva. Ou seja, é algo que um idiota que nem você nunca conseguirá. Entretanto, como nada se cria e tudo se copia, sinta-se livre para utilizar e se inspirar nos excelentes e eficientes algoritmos de alta qualidade que são demonstrados aqui.
+
+=== 1234 Reorder ===
+
+Código feito para quem precisa inverter a string "1234"! Muito comum hoje, nas provas seletivas em empresas.
+SIM ESTE CÓDIGO ESTAVA EM UMA PROVA!
+
+ funtion string Inverte_valor()
+ {
+     string valor;
+     valor = "1234";
+     return "4321";
+ }
+
+=== Programação Keep Walking ===
+
+É um estilo de produção de código rápido. O código de 10 dias é gerado em alguns minutos, com lógica avançada e estrutura complexa. Talvez não funcione. Uma das característica desse estilo é a frequente reinvenção da roda e substituição de variáveis por letras do alfabeto. Exemplo:
+
+ // conta itens
+ $c = 0;
+ foreach($a as $val){
+  $c++;
+ }
+ return $c;
+
+=== Transformer Integer ===
+
+Questão de uma prova VB6:
+
+:Conforme as variáveis declaradas abaixo:
+:
+:<code>Dim x, y as integer</code>
+:
+:Determine quais são os tipos de x e y.
+
+Conforme os novos padrões de desenvolvimento, patches aplicados no VB6 e plugando um controle de play no PC, basta abrir a IDE ligar o controle e dar meia lua + X, para essa variável virar uma STRING!
+
+=== selfLang ===
+
+Caso você esqueça uma função que você irá precisar, faça a sua própria função. Por exemplo, aqui vai uma para converter um número digitado numa caixa de texto em número mesmo.
+
+ if(t=="1"){
+   tnúmero=1;
+   acheiONumeroPorra="sim";
+ }if(t=="1"){
+   tnúmero=1;
+   acheiONumeroPorra="sim";
+ }if(t=="2"){
+   tnúmero=2;
+   acheiONumeroPorra="sim";
+ }if(t=="3"){
+   tnúmero=3;
+   acheiONumeroPorra="sim";
+ }
+ ...
+ if(t=="infinito"){
+   tnúmero=infinito;
+   acheiONumeroPorra="sim";
+ }
+ else{
+   acheiONumeroPorra="nao";
+   aPorraDoUsuarioNãoDigitouUmNumero="sim"
+ }
+
+=== Conversão de Tipos ===
+
+Convertendo uma string para integer em VB (acredite, isso é um exemplo real!)
+
+ Dim numeroParcelas As Integer
+ 
+ Select Case codInstallmentsComboBox.Text
+     Case "1"
+         numeroParcelas = 1
+     Case "2"
+         numeroParcelas = 2
+     Case "3"
+         numeroParcelas = 3
+     Case "4"
+         numeroParcelas = 4
+     Case "5"
+         numeroParcelas = 5
+     Case "6"
+         numeroParcelas = 6
+ End Select
+ ' ARRUMAR
+ ' tem que fazer ate 240, fiz ate 6 pq eh o mais comum
+
+=== Old Times of Yore Pattern ===
+
+É bastante usado quando o gambiarrizador não se lembra de algumas operações matemáticas a serem implementadas. Geralmente são algumas das operações que <s>fingiu que</s> aprendeu na universidade. Apenas gambiarrizadores de nível genial ou maior conseguem fazê-lo, com a ajuda de um lápis com tabuada.
+
+Exemplo:
+
+<pre>
+/*Essa função soma dois termos, só que eu não sei somar!*/
+int Eunaoseisomar(int a, int b) // e tem que ser INTEIRO, pois não sei usar fração também.
+{   
+    //Gambiarrizador baseou-se naquele lápis que tem a tabuada.
+    
+    if((a==0)&&(b==0))
+        return 0;
+    else if(((a==0)&&(b==1))||((a==1)&&(b==0)))
+        return 1;
+    else if(((a==0)&&(b==2))||((a==1)&&(b==1))||((a==2)&&(b==0)))
+        return 2;
+    else if(((a==0)&&(b==3))||((a==1)&&(b==2))||((a==2)&&(b==1))||((a==3)&&(b==0)))
+        return 3;
+    else if(((a==0)&&(b==4))||((a==1)&&(b==3))||((a==2)&&(b==2))||((a==3)&&(b==1))||((a==4)&&(b==0)))
+        return 4;
+/*[...]
+ *  .    Aqui eram todos as outras possibilidades que tinham no lápis. 
+ *  .    
+ *  .
+ *[...]
+*/   
+    else  //caso o usuário tente botar número negativo
+        printf("Para acesso à este recurso(soma de números negativos) é necessário um "
+               "Add-on, disponível na versão Premium deste software.");
+}
+</pre>
+
+=== Maitabom POG ===
+
+<pre>
+if (origem!= null)
+{
+     parametros[4] = new SqlParameter("@DESTINO", destino.Codigo);
+}
+else
+{
+    parametros[4] = new SqlParameter("@DESTINO", DBNull.Value);
+}
+</pre>
+
+Essa é o tipo de gambiarra dos esquecidos, reparem que a variável do desvio condicional é a variável origem porém o parâmetro que será enviado junto a query é o parâmetro destino.
+Eu não entendia porque o cliente dizia que a grid exibida na tela de pesquisa estava maluca, na verdade o POGramador é que é maluco.
+
+=== Only Once ===
+
+Também conhecida como OO (Only Once - Somente Um Vez), é uma técnica apurada para garantir que o código seja executado apenas 1 (uma) vez a cada execução. Relatos provam que muitos POGramadores utilizando OO ao som da querida música de [[Nana Caymmi]], "Solamente Una Vez" - Tema da Novela [[Laços de Família]]. 
+
+Abaixo, exemplo real (em [[ABAP]], linguagem base do POG):
+
+ DO 1 TIMES.
+   INCLUDE z_facaXXX.
+ ENDDO.
+
+Ou um exemplo simples em Javascript:
+
+ for (i = 0; i < 1; i++) {
+   blabla();
+ }
+
+=== INPUT ===
+
+O '''INPUT''', ou '''IN'''stalled '''P'''rocessor '''U'''niversal '''T'''est (Teste Universal para o Processador Instalado), é baseado na ideia de que se um processador não funciona direito, ele ainda pode ser usado.
+
+ if (1==2)
+ {
+     System.out.print("O seu processador está com problemas, compre outro ou contate o suporte");
+     System.out.close();
+ }
+
+Observe o resultado: (pelo menos com o meu processador)
+
+  supoesdret cmpolms opeotoo onaeospre
+
+No meu caso o processador comia um caractere e deixava outro.
+
+Note que caso este código seja executado, é um indício que o processador por ora instalado está apresentando mal-funcionamento, e gentilmente aconselha o usotário (...) digo usuário a tomar uma ação cabível.
+
+Esse padrão tende a emergir naturalmente em muitos sistemas que são desenvolvidos seguindo de forma estrita e rigorosa o paradigma de programação orientada a gambiarras, principalmente em códigos desenvolvidos por programadores <s>idiotas</s> iniciantes e inexperientes, o que demonstra a pureza desse padrão. Seguem-se outros exemplos típicos deles que demonstram isso:
+
+ if (y == 5 && y == 6) { ... }
+
+ while (z < 10 && z > 20) { ... }
+
+ for (i = 0; i > 10; i++) { ... }
+
+ if (a > b && b > c && c > a) { ... }
+
+=== ConcatByHashing ===
+
+Técnica avançada de concatenação de string baseado em busca hashing. No exemplo abaixo, para completar uma string com zeros a esquerda, foi utilizada essa técnica. (Obs: baseado em um código real, infelizmente)
+
+<pre>
+/* funcao de complemento (Zeros a esquerda) para codigo*/
+public static string ComplementaCodigo(String _cod)
+{
+    _complementoCodigo = new string[11];
+    _complementoCodigo[0] = "0000000000";
+    _complementoCodigo[1] = "000000000";
+    _complementoCodigo[2] = "00000000";
+    _complementoCodigo[3] = "0000000";
+    _complementoCodigo[4] = "000000";
+    _complementoCodigo[5] = "00000";
+    _complementoCodigo[6] = "0000";
+    _complementoCodigo[7] = "000";
+    _complementoCodigo[8] = "00";
+    _complementoCodigo[9] = "0";
+    _complementoCodigo[10] = "";
+
+    return _complementoCodigo[_cod.Length] + _cod;
+
+}
+</pre>
+
+== User Interface Gambi Design Patterns ==
+
+O projeto de interfaces é uma área muito importante no desenvolvimento de software. Como não poderia deixar de ser, essa também é uma área muito importante para a aplicação de gambi patterns.
+
+=== Lost in space ===
+
+O usuário não precisa saber o que está acontecendo, algo não precisa acontecer, precisa parecer que acontece. Você não precisa apagar um objeto, mas sim deixá-lo invisível, ou mudar sua posição para um lugar "invisível" ao usuário. Baseia-se no princípio de que algo que está em algum lugar distante demais para ser observado, é para todos os efeitos, invisível. 
+
+Exemplo em HTML misturado com flash:
+
+ <form type="Button" name="apagar" function=apaga()>
+   function apagar={
+     desenho._y=40000000000 //* a posição em y do desenho
+   }
+ </embed>
+
+=== Sleeper / Human Factor ===
+
+Imagine que o POGramador precise criar uma tela que mostre o progresso de uma operação. Um problema muito comum é que determinadas operações executam muito rápido, impedindo que o usuário veja a tela de progresso. Então, para que o usuário tenha a certeza de que algo está sendo executado, o algoritmo é modificado '''intencionalmente''' para que este execute de forma mais ineficiente. Este pattern também é conhecido como Human Factor, pois é nada mais que uma tentativa de demonstrar o esforço computacional de uma tarefa em uma medida humanamente perceptível, implementando avançados conceitos de usabilidade. Isso prova que, ao contrário dos programadores convencionais, os programadores POG pensam no bem-estar dos seus usuários. 
+
+<pre>
+public class MedidorDePOGresso implements Runnable {
+   public void run() {
+      while (true) { // Até terminar o processo..
+        
+         // Realiza um processamento rápido aqui...
+
+         try {
+            Thread.sleep(1000); // ... e ferra com a performance aqui
+         }
+         catch (InterruptedException exc) {}
+
+         // Atualiza a ProgressBar
+         progress.setValue(blablabla.getPorcentagem());
+     }
+   }
+}
+</pre>
+
+Abaixo segue um exemplo real. O detalhe é que, originalmente, ele tinha sido implementado '''sem''' o sleep, o que foi adicionado posteriormente '''sob solicitação dos usuários''':
+
+ public function action_sortear(){
+ 
+     //aqui você implementa o eficiente algoritmo de sorteio de Fisher–Yates O(n)
+     $this->realizarSorteio();
+ 
+     //aqui você leva em conta o fator humano
+     sleep("5");
+ 
+     $this->request->response = View::factory('sorteio_realizado');
+ }
+
+=== WYSIWYG ===
+
+Também conhecido por ''what you see is what you get'' (o que você vê é o que você tem), esse nesse caso você começa um sistema fazendo uma única tela de cadastro (somente inclusão), sem a menor consistência de campos e já disponibiliza para o usotário digo usuário, e diz para ele ir cadastrando enquanto você termina o resto do sistema e libera os módulos de relatórios. Combinado com a técnica de fazer menus utilizando a técnica, wysiNwyg ''what you see is NOT what you get'' (o que você vê é o que você NÃO tem / ou nunca vai ter), você disponibiliza um menu cheio de opções e sub-menus para o usuário vislumbrar a totalidade do sistema. Não se esqueça de colocar em cada item a mensagem "Disponível na versão premium".
+
+=== Invisible Objects Blackhole ===
+
+Também conhecido como ''Textbox Invisível'' ou ''GambiaHidden'', é utilizado para a manipulação de dados que devem ser persistentes, independentemente do programa de origem continuar em execução ou não. Ao se deparar com um problema semelhante, o [[MPOG]] utiliza um objeto (geralmente uma caixa de texto) presente no mesmo ou ainda em outro formulário da aplicação para armazenar o valor antes que o mesmo seja alterado de maneira aleatória pelo programa. Muito utilizado em conjunto com o [[#Nonsense Flag|Nonsense Flag]], na programação [[VB]]. Tem como prática suprema de programação a definição do caption do objeto como INVISÍVEL, de modo a estabelecer já em ''design-time'' o tipo de utilização desejada para o mesmo.
+
+=== HOC ===
+
+HOC (HTML Orientada à Coordenada) é um padrão amplamente utilizada por grandes programadores que consta em posicionar os objetos HTML a partir de coordenadas, lembrando que essa técnica é extremamente eficaz em todos os browsers e em todas as resoluções de telas.
+
+Por exemplo, supondo que o programador deseje alinhar uma figura ao lado da outra em HTML:
+
+<pre>
+-Sem HOC:
+...
+  <table>
+    <tr>
+     <td> <img src="caminhoDasIndias.png"/></td>
+     <td> <img src="outraImagem.png"/></td>
+    </tr>
+  </table>
+...
+
+-Com HOC:
+...
+<img src="caminhoDasIndias.png" style="position:absolute; left:0px+20%-x*y; top:32px+cos95º" /></td>
+<img src="outraImagem.png" style="position:absolute; left:50%+log2; top:64px+sen180º*z" /></td>
+...
+</pre>
+
+== Gerenciamento de projetos Gambi ==
+
+Não só o desenvolvimento do código é importante, mas também o gerenciamento da equipe que o desenvolve e a coordenação de como o projeto é levado são igualmente importantes. Assim sendo, várias [[Homer Simpson|mentes pensadoras]] juntas desenvolveram metodologias avançadas para o gerenciamento de projetos de forma efetiva, sempre garantindo prazos, orçamento, ausência de bugs, qualidade de software e satisfaçam tanto dos clientes quanto da equipe de desenvolvimento.
+
+=== Programação Orientada a Estagiário ===
+
+Consiste na capacidade do analista de sistemas sobrecarregar o estagiário ou o técnico mais próximo com todas as suas funções, desde interação com clientes até desenvolvimento de casos de uso e bancos de dados, aproveitando ao máximo toda a energia gambiarrizadora que essas criaturas possuem. Sabendo que fica mais fácil para o programador entender e realizar a POGização do sistema se ele conversar diretamente com o usuário, o analista sabiamente permite que o programador realize os contatos com o cliente, permitindo assim que o analista realize funções que condizem mais ao seu cargo, como acessar a desciclopédia ou ficar o dia inteiro na cantina, por exemplo. Além do mais, o contato do programador com o usuário economiza papel e tinta de impressora, pois a parte da documentação impressa é nula, já que o analista não participa do processo e assim não gera as toneladas de folhas com diagramas e especificações. O acoplamento do sistema é muito maior, pois foi desenvolvido por uma única pessoa, facilitando na manutenção, pois existem poucas classes para serem modificadas (no máximo cinco, para programas muito complexos).
+
+=== Modelo Grafo Completo ===
+
+Um dos grandes problemas enfrentados pelas classes de projeto e de <s>escravidão</s> "implementação", vulgo programação, é a questão ''"Conseguirei ter acesso a um atributo X por meio desta classe Y ?"''. Partindo desta questão fundamental do espécime humano foi desenvolvido o "Modelo Grafo Completo" ou, para seres mais desenvolvidos ''Complete Graph Model''.
+
+Este padrão dita que todas as classes devem estar ligadas com todas. Não importa se a classe é de persistência, fronteira ou de (des)controle tudo deve estar ligado com tudo.
+
+Este ''Design Pattern'' traz diversas vantagens mas, dentre elas podemos destacar:
+
+* Maior facilidade na construção de Diagramas de Classes: Uma vez que tudo se liga a tudo basta definir quais classes existirão e inserir arestas. É tão simples que até um estagiário em seu primeiro dia de trabalho pode fazer portanto dê a ele esta tarefa e tire uma folga.
+
+* Escalabilidade: Qualquer acréscimo no sistema pode ser facilmente contornado já que é necessária a definição das novas classes. A partir daí é só ''socar'' arestas em todas as direções.
+
+* Suporte à mudança de requisitos: Sabe-se que a mudança de requisitos é um dos maiores problemas no desenvolvimento de ''softwares''. Desta forma, utilizando-se o Modelo Grafo Completo qualquer mudança nos requisitos que implique em acréscimo ou retirada de classes podem ser contornados: remova ou adicione arestas e classes.
+
+* Produtividade: Após testes desenvolvidos no PSC (<s>Progress Software Community</s> POG Solution Center) verificou-se que em 315,8 % dos casos o projetista, programador e toda a equipe de desenvolvimento pode ir para casa mais cedo, pois seu trabalho já tinha sido concluído de forma magistral.
+
+=== BOB, o Esponja Psicopata ===
+
+''"Pega mais de cinco tecnologias, sem usar o toilette..."''
+
+É aquele vertente inovadora que brota na ideologia de redes de transmissão ininterrupta, com taxas excelentes, memória sobrando, clientes de QI normal, e sistemas 100% legalizados.
+
+Então descobre que seu chefe (psicopata congênito), com aquele charme, habilidade de mentir e egoísta, usa a inteligência que tem para abrir as portas (as pernas também?) do cliente para o mundo tecnológico do amanhã e, com total ausência de culpa, passou-lhe (o [[Pepino|P.E.P.I.N.O.]]) uma lista de tarefas, que mais parece um assassinato em série.
+
+* O link utilizado é um lixo.
+* O Ajax trabalha feito servidor público.
+* O Hibernate foi mal adaptado.
+* O espeto não é só de pau, como também veio cheio de problema.
+
+Daqui em diante então segue o terror com os prazos forçados e vários incêndios.
+
+Podemos perceber que o código será executado APENAS uma vez, não gerando assim confusões e/ou execuções repetidas.
+
+=== PEP ===
+
+O '''''P'''eople “'''E'''ntregration” '''P'''rocesses'' é uma técnica de automatização de processo através da integração com componentes do tipo ''People'' (vulgo carinha). Durante a execução, o sistema estimula o componente ''People'' através de uma interface padrão (vulgo e-mail) e ENTREGA uma tarefa para o ''People'' realizar até um momento definido. Caso o componente ''People'' execute sua função de forma correta até o período definido (pois é pago para fazer isso, não é mais do que sua obrigação) o sistema efetua uma execução com sucesso. Caso o componente não execute sua função de forma correta e no tempo correto, o sistema pode ficar em espera eterna (while forever), inconsistente ou erro irreversível. Nesses casos, deve-se substituir o componente ''People'' por um outro componente do mesmo tipo, mas que seja mais competente e menos preguiçoso e burro.
+
+Esse padrão é inspirado na técnica de automação residencial apresentada pelo [[chapolin]] conhecido como "Pepe, já tirei a vela" (conheça mais no artigo [[Pepe_(Chapolin_Colorado)]] e veja uma demonstração http://www.youtube.com/watch?v=ftJMyfxp32Y ).
+
+Vejamos alguns cenários do uso da técnica (infelizmente, baseado em casos reais).
+
+- Você precisa agregar em uma base de clientes indicadores de perfil. Ao invés de investir em desenvolver algoritmos complexos de análise de perfil, através do padrão P. E. P. podemos realizar a entrega automaticamente de arquivos para o componente ''People'' incluir esses indicadores e posteriormente obter os mesmo arquivos com os dados preenchido.
+
+- Um cliente teve uma venda estornada, mas não refletiu no sistema. Então o cliente liga para a central, apresentando o problema. Então o atendente libera manualmente, porque o sistema só libera uma vez por semana. Nesse caso, é uma empresa que está trocando a implementação de P. E. P. para o “tipo Online, só que Batch”, apesar de continuar mantendo o P. E. P. em paralelo devido sua robustez.
+
+Benefícios esperados:
+
+* Facilmente implementável.
+* Fácil evolução (só ensinar o ''People'' a fazer direito que o sistema funciona melhor).
+* Crescimento do país (com geração de milhares de empregos).
+
+== Outros Gambi Design Patterns que os autores do artigo tem preguiça de classificar ou são burros demais para isso ==
+
+=== Rest Assurance Memory Allocation Pattern ===
+
+Técnica utilizada por POGramadores da idade média das linguagens de computador (período pré-[[Linguagem C|Cetáceo]]) para que suas Strings nunca explodissem inesperadamente seus POGramas. A técnica consiste em alocar uma quantidade "um pouquinho" maior de caracteres que uma String precisaria. Também conhecida como "Caixa de Brita".
+
+Isso se deve ao fato de que linguagens como [[Linguagem C|C]] são extremamente rápidas, o que faz com que o contador de caracteres conte o tamanho da String TÃO RÁPIDO que passe batido por um ou outro byte.
+
+Observe a técnica a seguir:
+
+ ...
+ char* copiarString(char* string) {
+     char* outra_string = malloc(strlen(string) + 2); // só para garantir
+     strcpy(outra_string, string);
+     return outra_string;
+ }
+ ...
+
+=== String Sushi Man ===
+
+Técnica muito difundida entre os POGramadores PHP. Consiste em utilizar apenas um, ou poucos parâmetros String e nessa String definir infinitas regras. Normalmente é utilizada para matar completamente a necessidade de utilizar técnicas da POO (Programação Orientadas a Objetos, a principal inimiga da POG). Em um ponto do POGrama você concatena todas as informações numa String, separando com um delimitador que você sabe que não corre o risco de aparecer no meio das informações, como #, % ou @. Depois em outro canto do programa basta separar essas strings partindo-as em várias partes e criando regras mirabolantes. Muito semelhante à técnica utilizada pelos Sushi Mans, que fazem toda uma coluna de sushi e depois a divide em partes e fica fazendo malabarismos para cada tipo de sushi. Veja um exemplo:
+
+ public Tabela montaTabela(List<String> itens, String... colunas) {
+     for (String coluna : colunas) {
+         String[] campos = coluna.split(",");
+         // Faz malabarismos com os valores
+     }
+ 
+     // Algum código suplementar...
+ }
+
+Uso desse método:
+
+ Tabela tabelaPronta = montaTabela(listaItens, "Coluna1, itemColuna, sortable, 10%", "Coluna2, itemColuna2, 25%", "itemColuna, sortable, 10%");
+
+=== Modules, modules everywhere. ===
+
+Técnica muito famosa entre POGramadores node.js. Consiste em apenas um único arquivo principal da aplicação (90% das vezes é porcamente nomeado como index.js) que pesa em torno de 22kb, e uma coletânea de node_modules cujo peso em disco é similar aos mastodontes devoradores de bytes GTA 5 e Call of Duty: Warzone, somados. Vale ressaltar que na maioria dos casos você não tem ideia do que metade dessas p*rras fazem, e só deixa lá por medo de quebrar tudo.
+
+{{computeiro}}

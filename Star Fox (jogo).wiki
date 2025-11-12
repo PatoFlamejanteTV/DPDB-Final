@@ -1,0 +1,51 @@
+{{Game}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Star Fire Fox
+|image     = Star Fox SNES.jpg
+|caption   = Fox prestes a sacar a arma de surpresa e te dar um tiro no meio da fuça
+|developer = [[Nintendo]]
+|publisher = [[Nintendo]]
+|released  = [[1993]]
+|genre     = [[Tiro]]/[[Furry]]
+|rating    = 8.75
+|platform  =  [[Super Nintendo]]/[[Firefox]]
+|ages      = 18 anos
+}}
+
+{{c|Nosso melhor merchandising!|Mozilla Foundation|Star Fox}}
+{{c|Também fui eu que fiz!|Shigeru Miyamoto|Star Fox}}
+
+'''Star Fox (SNES)''' é o jogo de estreia da saga [[furry]] [[Star Fox|Raposa Estrela]], lançada pela [[Nintendo|Nãointendo]] em [[1993]]. Ele conta a história de [[Fox McCloud]], uma raposa atiradora que é comandada por um [[cachorro]] e tem como parceiros um urubu, um coelho infantil e um sapo babão.
+
+Foi um dos primeiros jogos de Super Nintendo a utilizar o chip Super FX, um fracassado instrumento de dominação mundial que ninguém mais conhece, tem ou sabe o que é.
+
+==Jogo==
+[[Arquivo:Real Star Fox.jpg|thumb|left|270px|Soldados da equipe Star Fox prontos para o combate.]]
+
+O principal objetivo de Star Fox é pilotar uma nave semelhante a um avião de papel em linha reta atirando em tudo o que se vê pela frente. Fox deve matar todo mundo em frente pela sua vida, já que os parceiros dele não ajudam em quase nada e só servem para ficar jogando conversa fora durante o serviço e serem atingidos facilmente a cada 1 minuto de missão.
+
+Depois de desviar de prédios com design feito em 1D que mais parecem blocos de [[Tetris]], o jogador deve enfrentar um chefe simples e idiota que pode ter forma de aranha, molécula ou hélice de [[liquidificador]] e não oferece o menor perigo ou desafio, a menos que você [[noob]] não saiba atirar dentro de um quadrado enorme chamado carinhosamente pelos desenvolvedores do jogo de "''[[Lixo|ponto fraco]]''".
+
+Durante o jogo sempre aparece na tela uma barra de vida, que diminui a medida que McCloud é atingido pelos tiros de estilingue dos inimigos. Contudo, a maior preocupação da raposa deve ser fugir dos edifícios já citados, que independentemente de senhas, invencibilidade ou não, destroem a nave imediatamente, em 90% dos casos antes de se chegar ao [[Save Point]].
+
+O último chefe do game é [[Bozo]], que joga pedaços de telha e morre com tiros no olho.
+
+==Equipe Star Fox==
+
+*'''Fox''' - Chefe da equipe, fodão principal e garoto-propaganda do [[Mozilla Firefox]].
+*'''Falco Lombardi''' - Um pássaro azul travestido e pintado, que trabalha como narrador do [[SBT]] nas horas vagas.
+*'''Peppy Hare''' - Coelho que foi demitido da [[Warner Bros.]] e aprendeu tiro para se vingar.
+*'''Krystal''' - Puta paga do Fox, não faz nada e nem aparece no jogo.
+*'''Slippy Toad''' - Sapo tosco e chorão que sempre morre no começo da missão.
+
+{{Star Fox}}
+
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos para Nintendo Switch Online]]
+[[Categoria:Jogos de shoot 'em up]]
+[[Categoria:Jogos lançados em 1993]]
+
+[[it:Star Fox (videogioco)]]

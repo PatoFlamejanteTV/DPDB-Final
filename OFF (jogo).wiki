@@ -1,0 +1,107 @@
+{{Tarja|[[Arquivo:Secretary1.png|120px]]}}
+
+{{Jogo}}
+
+{{trevas}}
+
+{{spoiler}}
+
+
+{{Infobox Game
+|title     = OFF
+|image     = OFF!.jpg
+|caption   = 
+|developer = Mortis Ghost
+|publisher = Unproductive Fun Time
+|released  = 2008
+|genre     = [[RPG]]
+|rating    = 666/10
+|platform  = [[PC]], [[Mac]], [[Linux]]
+|ages      = Não recomendado para nenhuma idade
+}}
+
+{{vqd|Undertale de terror?}}
+{{Experimente também|ON}}
+
+'''OFF''', é um jogo criado em [[RPG Maker]] com temática de terror, suspense e caganeira. Tendo seu criador, Mortis Ghost, um sujeito da equipe ''Unproductive Fun Time'', que desenvolveu o jogo com o intuito de fazer algo mesmo, pois ele se encontrava num momento onde estava muito inspirado para criar algo, e acabou saindo esta aberração. OFF é mais um daqueles jogos que não recebem tal renumeração na época em que são criados, mas acabam fazendo sucesso em pequenas comunidades que descobriram o game recentemente depois de alguns anos, como os filmes do [[Quentin Tarantino|Tarantino]].
+
+O jogo possui uma história repleta de ambiguidade e personagens enigmáticos e até mesmo uma quebra da quarta parede. Sem mencionar que tem a fama de "jogo de RPG mais macabro", além de possuir cenas que podem causar incomodo nos jogadores.
+
+== História ==
+[[Arquivo:batter.gif|thumb|100px|left|Batedor reclamando de você e de sua inutilidade.]]
+Batedor, ou ''Batter'', um sujeito que é obcecado pelo desejo de purificar o mundo (Jesus do beisebol), certa vez, se encontra perdido num local denominado 'Zona 0'. Um local hostil e inabitado, à não ser pela presença de um gato psicopata chamado '''Juiz''', ou ''Pablo'' no narcotráfico. O Juiz vendo a personalidade do Batedor, aceita-o ajudar na sua missão sagrada.
+
+O batedor e os Add-On's hão de percorrer por 3 zonas e <s>comer todas as putas que conseguirem</s> iniciar o tal processo de purificação em cada uma delas, que nada mais é do que matar os respectivos guardiões das zonas e os fantasminhas que ficam perambulando pelo local.
+
+Este possui três finais alternativos e blá, blá, blá... dependem de suas atitudes durante o decorrer da jogatina. Isso se você não sofrer algum surto psicótico ou crise existencial por conta dos elementos do jogo, o que incapacitaria você de continuar à jogar.
+
+== Jogabilidade ==
+[[Arquivo:off_fight.gif|thumb|right|200px|Uma mera lutinha dentro do jogo]]
+O jogo é como qualquer outro game de RPG, tendo a diferença de que é uma porcaria. Você pode interagir com tudo ao redor, abrir baús, ler placas, conversar com personagens, lutar com eles e etc.
+
+Como foi <s>plagiado</s> inspirado em [[Final Fantasy]] e outro demais jogos, como a franquia [[Earthbound|Mother]], tem o estilo de luta por turnos, onde os aliados permanecem no canto direito, e os inimigos no esquerdo.
+
+No jogo, cada personagem possui habilidades, só que estes, por frescura do criador, são denominadas '''competência'''.
+
+
+
+== Personagens ==
+Eis aqui, as horripilantes e mirabolantes criaturas.
+
+=== Principais ===
+
+{|{{tabelabonita}}
+|-
+|||'''Ventríloquo'''|| O Ventríloquo, Deus, filho da puta, ou simplesmente você, é nada mais de que o jogador que está controlando o protagonista. Mesmo não existindo dentro do jogo, é citado em diálogos.
+|-
+||[[Arquivo:Le_batteur.png|100px|center]]||'''Batedor'''||Um homem vestido de jogador de beisebol, cego e sedento pelo seu desejo maior; purificar o mundo com o poder da palavra da [[Igreja Universal]]. Este é o protagonista do jogo. É um sujeito quieto e bem frio, não demonstrando nenhuma emoção durante seus diálogos. Este possui consciência de que está sendo controlado por alguém.
+|-
+||[[Arquivo:add_on.png|100px|center]]||'''Add-On'''||Diretamente da franquia dos jogos do [[Sonic]], são anéis que lhe acompanham durante as batalhas para ajudar à derrotar os oponentes. São descritos como 'entidades espirituais' ou 'anéis de cebola' mesmo. Não basta apenas serem meras argolas de batalha, pois ainda estes seres possuem nomes de letras gregas! '''Alpha''', '''Ômega''' e '''Epsilon'''.
+|-
+|}
+
+=== Apoio ===
+
+{|{{tabelabonita}}
+|-
+||[[Arquivo:zacharie.png|100px|center]]||'''Zacharie'''||Depois de ser expulso dos [[Trapalhões]], tornou-se um mero vendedor de itens do jogo. O mesmo parece estar interessado no progresso do protagonista e parece saber também que há alguém que o controla. É praticamente o sabe-tudo do jogo, tão sábio que até tem consciência de que tudo não se passa de um jogo eletrônico. 
+|-
+||[[Arquivo:JudgeSprite.png|100px|center]]||'''O Juiz'''||Um gato psicopata e culto, habitante da '''Zona 0''', que auxilia o protagonista e lhe fornece dicas ao longo do jogo. O mesmo se auto denomina "Guardião" do Batedor. Este também é chamado de Pablo <s>Escobar</s> durante algumas partes do jogo.
+|-
+|}
+
+=== Vilões ===
+
+{|{{tabelabonita}}
+|-
+||[[Arquivo:Dedan.png|100px|center]]||'''Dedan'''||Um filho da puta arrogante e grosso, trata a todos com ignorância. Chefe da '''Zona 1''', macabro e feio.
+|-
+||[[Arquivo:Japhet.png|100px|center]]||'''Japhet'''||Pássaro gigante e culto, pois além de ser guardião da '''Zona 2''', é também guardião da biblioteca. Pois pássaros adoram ler.
+|-
+||[[Arquivo:Enoch.png|100px|center]]||'''Enoch'''||<s>Capitão Cueca</s> Um obeso executivo que é um super filho da puta, trata a todos seus funcionários como meros pedaços de merda. Este gordo maldito é guardião da '''Zona 3'''.
+|-
+|}
+
+=== Ambíguos ===
+
+{|{{tabelabonita}}
+|-
+||[[Arquivo:HugoSprite.png|100px|center]]||'''Hugo'''||A criança perdida do jogo, fora abandonado por sua própria mãe e deixado sozinho nas mãos do mau pela mesma. Você pode-o encontrar na '''Zona 4''', conversar com ele e até mesmo, matá-lo, digo, purificá-lo.
+|-
+||[[Arquivo:RainhaSprite.png|100px|center]]||'''A Rainha'''||Uma suposta amante maluca do Batedor que foi despejada pelo mesmo por não raspar sua região pubiana antes do coito. Hoje, por conta disso, ela é um fantasma que o persegue querendo o dinheiro do programa.
+|-
+||[[Arquivo:Valerie.png|100px|center]]||'''Valerie'''||O irmão do '''Juiz''', não tem muita aparição dentro do jogo. É usado como hospedeiro de Japhet, que o tornou seu disfarce.
+|-
+|}
+
+== Link ==
+Para os interessados no game:
+
+*[http://zveen.tumblr.com/post/107632481093/o-f-f-tradu%C3%A7%C3%A3o-em-portugu%C3%AAs-v12 link de download do jogo traduzido]
+
+
+
+
+
+
+{{Game RPG}}

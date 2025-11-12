@@ -1,0 +1,96 @@
+
+[[Arquivo:Dois.jpg|frame|150| O número dois.]]
+
+{{C|Meu favorito!!!!!!!|Fã do Legião Urbana|Dois}}
+{{C|0,5|Um|Dois}}
+{{C|Ahh!! É o número que está depois do [[1]] e antes do [[3]]|[[Capitão Óbvio]]|dois}}
+{{C|Mas tem o 1,5 seu burro|[[nerd]]|2}}
+{{C|Companheirosss, nunca um [[governo]] invesstiu tanto no número doiss quanto o meu.|Presidente [[Lula]]|Dois}}
+{{C|Ás vezes um só não é suficiente, é preciso outro.|Oscar Wilde|Dois}}
+{{C|Esse número eu conheço bem!|Rubens Barrichello|Dois}}
+{{C|Eu também!|Vasco|Rubens Barrichello}}
+{{C|Eu também!|Vasco|Sporting}}
+{{C|Eu também!|Você|Vasco}}
+{{C|Pede pra sair 02!|[[Capitão Nascimento]]|02}}
+{{C|Seu Animal!|[[Capitão Nascimento]]|02}}
+{{C|Pelé é Pelé, só existe um.|Pelé|Dois}}
+{{C|É grande, mas não é dois, não!|Dois|o número 1800}}
+{{C|É dois, mas não é U2, não!|Bono Vox|Dois}}
+{{C|É nóis!|Corinthians|Dois}}
+{{C|O meu ta saindo mole.|Alguém com diarréia|o número Dois}}
+{{C|Dois é melhor que um.|Atriz do Brasileirinhas|Dois}}
+{{C|Espera vou chamar minha turma!|Japonês|Comentário acima}}
+{{C|..|Doutor Roberto|Dois}}
+{{C|Essa é a colocação máxima que alguém pode ter quando eu estou em jogo.|Incompetível|Dois}}
+{{C|Você acha justo, zero 2, que num país como o Brasil, onde as pessoas morrem de fome, você não comer porque tá com nojinho, zero 2?|[[Capitão Nascimento]]|Dois}}
+{{C|É o número de vezes que contei até infinito.|Chuck Norris|Dois}}
+
+''2'' é aquele que vem depois do um e antes do três. Não aquele que vem depois do nove e antes do onze, esse é "dez". Dois é um número famoso por indicar o resultado da soma de [[1]] + 1, ou da divisão de [[8]] por [[4]], operações muito populares na [[Matemática]].
+
+==Análise Aprofundada==
+O valor de dois pode ser calculado com ajuda da ciência. Uma forma simples de o fazer é seguindo essa fórmula:
+
+:<math>dois=\sqrt{x^2+y^2}.</math>
+
+continuando concluimos que:
+
+:<math>dois=\sqrt{x^2+y^2} < r.</math>
+
+com alguns cálculos rápidos chegamos a:
+
+:<math>\pi \approx \frac{1}{r^2} \sum_{x=-r}^{r} \; \sum_{y=-r}^{r} \Big(1\hbox{ if }\sqrt{x^2+y^2} < r,\; 0\hbox{ + dois}\Big).</math>
+
+e finalmente:
+
+::<math>  \frac {\displaystyle \prod_{n=1}^{\infty} \left (1 + \frac{1}{4n^2-1} \right )}{\displaystyle\sum_{n=1}^{\infty} \frac {1}{4n^2-1}}  =  \frac {\displaystyle\left (1 + \frac{1}{3} \right ) \left (1 + \frac{1}{15} \right ) \left (1 + \frac{1}{35} \right ) \cdots} {\displaystyle \frac{1}{3} +  \frac{1}{15} +  \frac{1}{35} + \cdots}  = \Pi </math> = <math>  \frac {\displaystyle \prod_{n=1}^{\infty} \left (1 + \frac{1}{4n^2-1} \right )}{\displaystyle\sum_{n=1}^{\infty} \frac {1}{4n^2-1}}  =  \frac {\displaystyle\left (1 + \frac{1}{3} \right ) \left (1 + \frac{1}{15} \right ) \left (1 + \frac{1}{35} \right ) \cdots} {\displaystyle \frac{1}{3} +  \frac{1}{15} + \cdots}  = 1 + 1 = 2</math>
+
+
+e assim podemos concluir com confiança que o valor de dois é de '''2''' unidades, [[ou não]].
+
+==Fatos sobre Dois==
+*Dois é normalmente considerado um dos melhores números que existem, como fica demonstrado pela expressão "um é pouco, '''dois é bom''', três é demais". 
+*Dois é um número subordinado e obediente, como comprova o dito popular "Quando um não quer, dois não briga".
+*2 é seu número oficial e o número oficial do [[SCP|Sporting]], do [[Associação Desportiva São Caetano|São Caetano]], [[Barrichello]], do [[Corinthians]] e da [[Seleção Brasileira de Futebol feminino]].
+*O número '''dois''' pode ser expressado por letras, como por exemplo: "'''II'''". Outro exemplo é: "d-o-i-s".
+*Em Língua Gestual, '''dois''' é representado através de dois dedos levantados.
+*Em [[Braille]], '''dois''' é representado por dois relevos no papel.
+*Em Código Morse, '''dois''' é representado obviamente por dois pontos e três traços (lógico, né?).
+*Existem dois hemisférios, o hemisfério [[Norte]] e o Hemisfério [[Sul]].
+* Todo filme "(título) 2" é pior que o "(título)", foi apenas criado para arrancar mais dinheiro de [[você]] que vai ao cinema ou aluga para ver.
+*Existem dois Mundos, o Primeiro Mundo e o Terceiro Mundo (do Segundo Mundo nunca ninguém ouviu falar).
+*Dois faz parte do corpo humano EX: 2 braços, 2 pernas, 2 olhos, 2 seios, 2 bolas e etc... praticamente temos 2 de tudo.
+*O número 2 não é sorteado na mega-sena a mais de 3000 anos.
+*2 (Dois) é o numero dos filhos de Francisco (eu acho).
+*2 = 12 = 1112 = 3112 = 132112 = 13122112 = 111311222112 = etc... Logo o número 2 pode ser representado por infinitos números.
+*Dois é o único número filho da sua tia que é par.
+*"Fazer o número 2" é uma forma bichinha de dizer "vou soltar um barro"
+
+==Revelando a verdade==
+{{principal|1=[[2=1]]}}
+
+# suponha que <math>x = y</math>
+# <math>xx = xy</math>  (multiplicando por <math>x</math> dos dois lados)
+# <math>xx - yy = xy - yy</math> (subtraindo <math>yy</math> dos dois lados)
+# <math>(x-y)(x+y) = y(x-y)</math> (Esta linha está errada! Lembre que não podemos fazer divisões por zero)
+# <math>x+y = y</math> (dividindo por <math>(x-y)</math> dos dois lados)
+# <math>y+y = y</math> (afinal <math>x = y</math>, esqueceu ?)
+# <math>2y = y</math> (hã ? você também faltou nessa aula ? tsc, tsc...)
+# <math>2 = 1</math> (divide por <math>y</math> dos dois lados)
+
+Mas <big><math>x-y = 0</math></big>, já que <big><math>x=y</math></big>, logo é impossível dividir os dois lados por <big><math>(x-y)</math></big>. Ou seja: [[você]] é [[emo]].
+
+Obs.: Para os desesperados, o erro se encontra na terceira expansão da formula de Taylor, quando convoluída com o binômio de Newton, sobre o triângulo de Pascal.
+Aplicando-se o método de LaGrange, temos que, na 5ª linha, qnd você divide por <math>(x-y)</math>, você divide por zero (<math>x = y</math>, já esqueceu, de novo!?!). Ou seja, [[você]] é, alem de [[emo]], [[burro]].
+
+{{Alfabeto}}
+{{oposto|0,5}}
+[[Categoria:Números]]
+
+[[ca:2]]
+[[en:2 (number)]]
+[[fi:Kaksi]]
+[[fr:2]]
+[[it:Due]]
+[[ja:2]]
+[[ko:2]]
+[[pl:2 (cyfra)]]

@@ -1,0 +1,29 @@
+{{Microsoft}}
+<span style="position:fixed;bottom:0px;right:0px;opacity:0.65;filter:alpha(opacity=65);-moz-opacity: 0.65">http://images.uncyc.org/pt/c/ce/Winoriginal.png</span>
+
+[[Arquivo:W98se.jpg|thumb|Por apenas US$ 98,00]]
+O '''''Microsoft Windows 98 SE (Nojento e Oito Sephode Edition)''''' foi um [[pacote de expansão]] do jogo de origem da merdolândia  '''''[[Windows 98]]'''''. O pacote inclui:
+666 chances de dar a tela azul da morte, 666 chances de dar erro, 666 chances de cair a internet e 666 chances de travar.
+*Novo sistema de [[alocação dinâmica]] de ''[[backdoor]]s'', aumentando de 15 para 1,023 o máximo dos mesmos;
+*O exclusivo [[Microsoft-User Big-Brother]];
+*50[[MiB]]s de ''templates'' para o [[Microsoft Office]];
+*75[[MiB]]s de arquivos de ''[[WinStyle]]''s para lotar seu [[HD]];
+A sigla SE pode derivar de Só Encrenca, Saco Edition, Sacrifício Eterno, Severos Erros, Severamente Estragado, Severa Estupidez, Séculos Esperando...
+
+== ''Bugs'' Corrigidos ==
+*o bug que permitirá você pedir um café, refrigerante, uns biscoitos e chocolate da vovó enquanto inicia essa bosta.
+
+[[Arquivo:Cópia de Antivirus rhatazana.jpg|thumb|left|Atenção, o antivírus Rhatazana '''não''' é compatível com este sistema operacional (há há, se fudeu!!!)]]
+
+*O ''bug'' que permitia o usuário a fica mais que 1 Segundo sem receber mensagem de erro;
+
+* O bug que permitia você usar o Computador
+
+* O bug que deixava você usar a [[Wikipéidia]]
+
+* O bug que permitia você bater [[punheta]]
+
+* O bug que deixava você ligar o PC
+
+
+{{Windows}}

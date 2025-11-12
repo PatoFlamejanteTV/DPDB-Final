@@ -1,0 +1,49 @@
+{{taxocaixa
+| nome           = Cracídeos
+| cor            = #FFEBCD
+| imagem         = Crax daubentoni.jpg
+| imagem_legenda = O [[mutum-de-bico-amarelo]]. Sim, o bico não é amarelo, isso já explica como esta família de animais é mal estudada. Note como ele parece mesmo um animal amaldiçoado
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| classe         = [[Aves|Voadores]]
+| ordem          = [[Galliformes|Frangolinos]]
+| família        = [[Cracidae|Cacarejídeos]]
+}}
+
+'''Cracidae''' (as populares ''galinahs do capeta'') é uma vertente de galináceos poucos conhecidos, amaldiçoados e não-comestíveis (afinal, eles são amaldiçoados e não se come carne amaldiçoada) conhecidos como mutuns, jacus e aracuãs. Estas aves semi-terrestres são utilizadas para rituais de vudu e magia negra, pois eles são galinhas raras, muitas delas pretas e conectadas espiritualmente ao submundo, o que explica porque nenhum fazendeiro cria cracídeos.
+
+== Anatomia ==
+
+Anatomicamente, os cracídeos podem ser definidos como "pavões depenados" ou "pavões nada glamourosos", pois parecem pavões só que como se tivessem sido atropelados por um trator ou depenados por um cortador de grama. São como pombos só que mais robustos e que seriam comestíveis se não fossem aves infernais que devem ser oferendadas ao Satanás, a não ser que seja satânico, daí no Natal ao invés de peru os satânicos comem aracuãs, por exemplo.
+
+Como galináceos, possuem asas quebradas que os impossibilitam de voar e migrar de continentes, ficando os cracídeos confinados em seu habitat de origem, mas diferente dos demais galináceos eles comem frutas ao invés de [[alpiste|fezes triturada]], pois seu sistema de digestivo é especial para digerir qualquer tipo de fruta, que é batida no estômago e defecada liquefeita pela cloaca do animal.
+
+Possuem quatro dedos nas patas que servem para cavar túneis. Ao contrário das galinhas que ciscam, os cracídeos usam suas garras para erodir solos, desmatar o meio-ambiente e cavar tocas onde se interligam com o submundo onde sentem-se mais em casa.
+
+== Habitat ==
+
+Os cracídeos só existem na [[América]], e em ambientes florestais longe dos humanos os quais consideram raça indigna. São os únicos galináceos a construir ninhos em árvores, embora não voem e nunca consigam chegar lá, colocando seus ovos nas tocas interligadas com o inferno mesmo.
+
+== Taxonomia ==
+
+{{Clado
+|clado1     = Gêneros
+|preposição = à
+|clado2     = família cracidae
+|texto      = 
+|lista      = 
+* '''[[Chamaepetes]]''' - jacus-negros e jacus-de-asa-de-foice
+* '''[[Penelopina]]''' - jacu-de-terras-altas
+* '''[[Penelope (gênero)|Panelope]]''' - jacus
+* '''[[Pipile]]''' - jacutingas e cujubis
+* '''[[Aburria]]''' - jacu-entrelaçado
+* '''[[Oreophasis]]''' - jacu-de-chifre
+* '''[[Ortalis]]''' - aracuãs
+* '''[[Nothocrax]]''' - urumutum
+* '''[[Crax]]''' - mutuns
+* '''[[Mitu]]''' - mutuns-do-norte
+* '''[[Pauxi]]''' - mutuns-de-capacete e mutuns-de-chifre
+}}
+
+[[Categoria:Galliformes]]
+[[Categoria:Cracidae|*]]

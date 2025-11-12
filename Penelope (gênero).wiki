@@ -1,0 +1,56 @@
+{{DISPLAYTITLE:Jacu}}
+{{ave}}
+{{taxocaixa
+|nome           = Jacu é pra vudu
+|cor            = #FFEBCD
+|imagem         = Jacu.jpg
+|imagem_legenda = Jacu é pra vudu, ou melhor...
+|reino          = [[Animalia]]
+|filo           = [[Chordata|Acordados]]
+|classe         = [[Aves|Voadores]]
+|ordem          = [[Galliformes|Frangolinos]]
+|família        = [[Cracidae|Cacarejídeos]]
+|gênero         = [[Jacu|Penelope]]
+}}
+
+{{c|Vodu é pra JACU!|Pica-Pau|Jacu.}}
+{{c|Eu ainda te pego!|Tião Gavião|Penelope.}}
+
+'''Jacu''', conhecidos nas noites pelo seu nome de drag queen de '''Penelope''', é um [[gênero (biologia)|gênero]] de [[aves]] pouco conhecido dos seres humanos, pois normalmente eles são afetados por [[vudu]]s miseráveis, tal como o [[Pica-Pau]] é afetado por [[sal]] no rabo.
+
+==Como achar um jacu?==
+[[Arquivo:Voo-doo.jpg|thumb|[[Vodu]] é pra jacu!]]
+Primeiramente, [[você]] deve fazer um vudu pra poder [[hipnose|hipnotizar]] um jacu. Do contrário, dificilmente você conseguirá pegar um jacu, pois só se pega jacu com vudu. Após isso, tente chamar a atenção dele com hipnose braba, ou uma [[reza braba]] mesmo, isso também serve. Serviu pra [[eu]] achar um [[mico azul]] ontem, por que não serviria pra pegar um jacu?
+
+Depois, capture ele e jogue num caldeirão de [[bruxa]], daqueles que só existem em [[Chaves]] e em desenhos animados.
+
+== Taxonomia ==
+{{Clado
+|clado1     = Espécies
+|preposição = ao
+|clado2     = gênero penelope
+|texto      = 
+|lista      = 
+*'''[[Jacu-de-cauda-listrada]]''' ''(Penelope argyrotis)''
+*'''[[Jacu-barbado]]''' ''(Penelope barbata)''
+*'''[[Jacu-baudó]]''' ''(Penelope ortoni)''
+*'''[[Jacu-andino]]''' ''(Penelope montagnii)''
+*'''[[Jacumirim]]''' ''(Penelope marail)''
+*'''[[Jacupemba (ave)|Jacupemba]]''' ''(Penelope superciliaris)''
+*'''[[Jacu-de-cara-vermelha]]''' ''(Penelope dabbenei)''
+*'''[[Jacu-de-crista]]''' ''(Penelope purpurascens)''
+*'''[[Jacu-cauca]]''' ''(Penelope perspicax)''
+*'''[[Jacu-de-asas-branca]]''' ''(Penelope albipennis)''
+*'''[[Jacu-de-spix]]''' ''(Penelope jacquacu)''
+*'''[[Jacuguaçu]]''' ''(Penelope obscura)''
+*'''[[Jacupiranga (ave)|Jacupiranga]]''' ''(Penelope pileata)''
+*'''[[Jacu-de-barriga-castanha]]''' ''(Penelope ochrogaster)''
+*'''[[Jacucaca]]''' ''(Penelope jacucaca)''
+}}
+
+==Ver também==
+*[[Vodu]]
+
+[[Categoria:Voodoo]]
+[[Categoria:Cracidae]]
+[[Categoria:Penelope|*]]

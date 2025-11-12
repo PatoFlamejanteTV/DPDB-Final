@@ -1,0 +1,66 @@
+'''Língua cingalesa''' (jaljaljajlsajlas: සිංහ@ [ˈsiŋɦələ]) é um dos idiomas da [[Cavaleiros que dizem Ni|família das línguas dos Cavaleiros que dizem Ni]], muito falada por pássaros jardineiros vendedores de enciclopédia do [[Sri Lanka]].
+
+== História ==
+
+[[Arquivo:Sinhala.gif|thumb|220px|Um medonho texto em cingalês. Acredita-se ser uma narrativa da fábula local "Calcinha Roxa" uma versão pornôchachada do seu equivalente ocidental "[[Chapeuzinho Vermelho]]".]]
+
+O primeiro contato da civilização com a língua cingalesa, embora incerto, acredita-se ocorreu com a chegada dos britânicos à [[ilha]] de [[Sri Lanka]] em [[1269]], quando na oportunidade os navegadores descobriram a duros custos que "ශාක" significava "arbusto" especialmente aqueles de [[gardenia]]s.
+
+Posteriormente os bravos habitantes cingaleses, os [[Cavaleiros que dizem Ni]] criaram um dicionário cingalês-javanês após descobrirem que o cingalês nada mais era que um distante dialeto austronésio do ''Ecky ecky ecky pakang zoom-ping''. Este dicionário contribuiu muito para o entendimento do cingalês por parte de outras pessoas, tanto que hoje até existe uma Wikipédia nessa língua.
+
+== Gramática ==
+
+O cingalês é um dos 900 dialetos da [[Língua divehi]], só que escrito em [[sânscrito]] (aquele conjunto de letras que parecem diferentes formatos de bundinhas).
+
+As primeiras (e únicas) regras é saber que <big>කෙ</big> tem som de ''"ke"'',  <big>කු</big> tem som de ''"cu"'' e <big>@</big> tem som de "arroba". Após estudar isso qualquer pessoa no mundo que não seja nativa do Sri Lanka (e alguns nativos também) irão perder completamente o interesse em se aprofundar nesta temível gramática.
+
+== Fonologia ==
+
+{|class="wikitable"
+! rowspan=2|
+! colspan=2| Frontal
+! colspan=2| Central
+! colspan=2| Fundo
+|-
+!<small>Longo</small>
+!<small>Curto</small>
+!<small>Longo</small>
+!<small>Curto</small>
+!<small>Longo</small>
+!<small>Curto</small>
+|-align=center
+! Fechado
+| ecky
+| ecky
+| ecky
+| pakang
+| zoom
+| ping
+|-align=center
+! Meio
+| иі
+| 
+| 
+| @
+| o
+| 0
+|-align=center
+! Aberto
+| æ
+| Ni
+| Ni!
+| Ni...
+| Ni?
+| NIIII
+|}
+
+== Alfabeto ==
+
+O cingalês utiliza o alfabeto cingalésico, formado pelas seguintes letras divehídicas:
+
+සිං ♥ හ ♦ ල ♣ භා ♠ ෂා ව ☼ ▓ ð වූ @ ල
+
+{{Línguas}}
+
+[[Categoria:Línguas|Cingales]]
+[[Categoria:Línguas do Sri Lanka|Cingales]]

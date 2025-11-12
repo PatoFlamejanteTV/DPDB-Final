@@ -1,0 +1,124 @@
+{{ciencia}}
+
+[[Arquivo:fotualgoritimu.jpg|thumb|right|360px|[[Algoritmo]] para resolução de seus problemas.]]
+
+{{fato|que expected primary-expression before ')' token }}
+
+[[Arquivo:SenhaCuriosa.jpg|thumb|right|300px|Motivo pelo qual garotas gostosas não fazem ciência da computação]]
+
+{{Compactar|
+{{Você quis dizer|Depósito de [[Nerd]]s?}}
+{{Você quis dizer|Sem Mulheres?}}
+{{Você quis dizer|Engenharia da computação versão Beta}}
+{{c|Por que temos Cálculo?|Calouro de Análise e Desenvolvimento de Sistemas| ADS}}
+{{c|Vocês não sabem o quanto Cálculo é importante|Professor de Cálculo|o fato de ninguém explicar aos alunos a necessidade do Cálculo}}
+{{c|Technologic, Technologic...|Daft Punk|ADS}}
+{{c|Fica tranquilo, meu querido! Essa faculdade é fácil, fácil.|[[Almir]], [[Pretinho Básico]]|ADS}}
+{{c|Dave, I'm afraid...|[[Hal 9000]] sobre ADS}}
+{{c|Vamos fazer joguinhos hoje professora?|Você|Análise e Desenvolvimento de Sistemas}}
+{{c|Onde estão as mulheres?|Aluno ao entrar em sua sala do curso}}
+{{c|Pra que mulheres? Já temos um monte de PCs fodaços!|Nerd|a indagação acima}}
+{{c|A Análise e Desenvolvimento de Sistemas nasceu para resolver os problemas que não existiriam se não fosse o computador.|Filósofo|Análise e Desenvolvimento de Sistemas}}
+{{c|Se eu fosse eu mesmo, me mataria agora!|Aluno|automâtos não-determinísticos}}
+{{c|Existe vida após a Computação?|Aluno|Ciência da Computação}}
+{{c|Eu ainda dou um jeito de tirar o cheat que colocaram no [[Counter-Strike|CS]] do laboratório!|Aluno|atividades em laboratório}}
+{{c|Não entre em pânico!|O Guia do Mochileiro das Galáxias|Análise e Desenvolvimento de Sistemas}}
+{{c|Se não passar agora não tem problema, todo semestre tem Física|Professor de Física|Didática}}
+{{c|Se eu te pegar jogando de novo eu deleto seu login|Estagiário do laboratório de informática|Aluno de Análise e Desenvolvimento de Sistemas}}
+{{c|Esse curso não vai ser divertido e vocês não aprenderão a fazer jogos e muito menos robôs.|Professor no primeiro dia de aula|Análise e Desenvolvimento de Sistemas}}
+{{c|Parabéns, vocês me venceram 3894236473 vezes|Morte|Alunos formados}}
+{{c|Na [[Holanda]], o computador se programa sozinho, não precisa de '''VOCÊ'''!!''|Reversão Holandesa|Análise e Desenvolvimento de Sistemas}}
+{{c|Vamos fazer um Espaço Cartesiano de 4D!|Professor de Matemática para turma da Computação no primeiro dia de aula}}
+{{c|Professor: Tem como não colocar hexadecimal na prova?|Aluno de Análise e Desenvolvimento de Sistemas durante aula de Arquitetura de Computadores}}
+{{c|Por que não aprendemos o que conseguimos aprender?|Aluno de Análise e Desenvolvimento de Sistemas durante aula de Cota Assintótica Superior}}
+{{c|Eles somente possuem dois sabores.|Professor sobre Nós Binários}}
+{{c|Precisa ser tão formal?|Aluno durante aula de Linguagens Formais}}
+{{c|Tudo está pronto, só que ela ainda não existe.|Professor sobre Computação Quântica}}
+{{c|Este problema é um NP-Completo.|Aluno de ADS sobre [[Namorada|Namoro]]}}
+{{c|O uni-duni-tê do processador.|Professor de Sistemas Operacionais sobre Escalonamento de Processos}}
+{{c|Você está mesmo preparado para conhecer uma Thread?|Professor de Sistemas Operacionais sobre Threads}}
+{{c|Um processo é finalizado quando se desliga o estabilizador.|Aluno de Sistemas Operacionais sobre Vida de Processos}}
+{{c|Penso, logo, não sei.|Aluno de ADS durante aula de Lógica}}
+{{c|A ordem dos odores influencia no cheiro final.|Professor de Sistemas Operacionais sobre Semáforos Contadores Produtores-Consumidores}}
+{{c|Segmentation fault|Resultado obtido após 10 anos de pesquisa}}
+{{c|Couldn't find package girlfriend|Aluno de Análise e Desenvolvimento de Sistemas instalando namorada via apt-get}}
+{{c|Quem [[Pirata|pirateia]] um [[CD]] do [[Belo]]?|Professor de Redes em aula de [[P2P]]}}
+{{c|Detectar [[câncer]] de [[próstata]] sem exame de toque|Professor de [[Inteligência Artificial]] explicando aplicações em IA}}
+{{c|Sair para buscar uma cerveja pode ser considerado um processo de I/O?|Aluno de ADS em aula de Sistemas Operacionais}}
+}}
+
+'''Análise e Desenvolvimento de Sistemas''' Vulgo ADS.
+É um curso superior de tecnologia, ou seja: Apenas os derrotados, ou sortudos(!), que não "conseguem" fazer um Bacharel em Ciências da Computação, trilham para o Curso de Análise e Desenvolvimento de Sistemas. 
+Relativamente falando, esse curso é um [[genérico]] do Curso de [[Ciência da Computação]]. Até esse artigo é um [[genérico]] do artigo [[Ciência da Computação]].
+
+É uma [[ciência]] genérica da [[Ciência da Computação]] que envolve coisas como calcular o tempo que leva para arrastar um ícone de um lugar para outro empurrando o mouse a uma certa velocidade, dispensando muito do trabalho sujo, estafante e pouco remunerado do bacharel. Depois de pesquisas intensivas, cientistas da computação chegaram até a seguinte fórmula:
+<br /><center><math>\left[\frac{movimento}{massa} \bullet 3 \bullet\ velocidade do mouse \ direcionamento = tempo \right]</math></center><br />
+
+Em Análise de Desenvolvimento de sistemas, o [[aluno]] só aprende coisas básicas do mundo da informática como programar em [[Linguagem_C|C]] e depois, no decorrer do curso regredir pra [[Java]], aprende também a "criar" uma tela em uma IDE que só precisa de arrastar e colar, e ao final do curso faz um ''CRUD'' a nível [[Windows|Windows Starter]], pro [[TCC]]. Mas tudo isso depois de passar pelas matérias de cálculos, que normalmente costuma aparecer no início do curso. [[69|99,8%]] da turma reprova no início do curso, que vale lembrar, não chega nem perto de [[Ciência]][[dar o cu| da Com]][[putaria|putação]].
+
+== O curso ==
+[[Arquivo:James Mindingo 64.png|thumb|450px|right|Estudande de ADS após dois anos tentando arrumar um emprego na área]]
+[[Arquivo:Prova arquitetura computadores.jpg|thumb|A prova mais fácil de arquitetura de computadores já feita. Estimulam-se que 20% dos NERDS conseguiram nota superior a 4]]
+Esse curso visa a possibilidade de inserção no mercado de trabalho daqueles que estão desesperados em conseguir um emprego equiparado com curso superior. Apesar de nunca terem o respeito de um bacharel, sempre exibirão o seu certificado de conclusão com entusiasmo, baterão no peito e exclamarão: Eu tenho um curso superior (e estudei mais do que quem faz Administração).
+O perfil do egresso (aluno prestes a iniciar o curso) é: 
+*Ter boa fluência verbal, visto que, isso é necessário nas entrevistas de emprego, para convencer o entrevistador que você tem a mesma capacidade de um candidato que cursou Ciências da Computação.
+*Ter muita grana para manter suas certificações durante o curso, que são pagas por fora.
+*Ter uma boa vida social, visto que no curso não será exigido muito de seu tempo livre. É assim, pagou passou xará.
+*Não é necessário estudar para o Vestibular, apenas instituições privadas oferem o curso, portanto, eles não vão te reprovar. Eles querem seu dinheiro, seu suor e sua alma.
+*Ter consultado uma cigana, pois a faculdade não garante o seu futuro após o curso.
+
+{{c|É uma [[cilada]], Bino!!!|Pedro|quando o Bino ia se matricular no curso}}
+{{c|Olhe para o seu colega ao lado e diga: Só um de nós passará de ano|Professor de Estatística| os alunos}}
+{{c|Quando vamos aprender a fazer jogos e robôs?|Aluno iludido| Ciência da Computação}}
+
+== Divisão e estatísticas do curso ==
+
+[[Arquivo:THEBAG01.JPG|thumb|250px|Típico estudante de ADS.]]
+*99% de homens muito nerds
+*69% de homens [[nerd tetudo|nerds tetudos]]
+*8% de homens nerds
+*6% de homens gênios nerds
+*2,95% de homens engenheiros frustrados
+*0,03% de homens matemáticos e físicos
+*0,00001% de mulheres [[gordótica]]s
+*0,0000000001% quanto mais zero melhor [[Coca-Cola Zero]]
+
+
+*Churrascos por ano: 0,002
+*Solteiros: 99%
+*Virgens: 101%
+*Sofredores de [[Lesão por esforço repetitivo|LER]] por <s>[[punheta]]</s> digitação: 97,2%
+
+== Trote de ADS ==
+
+[[Arquivo:NerdsTitle.jpg|thumb|left|Trote dos computeiros, sempre regado a muito refrigerante e música clássica.]]
+O trote de ADS é sempre um vírus enviado para um calouro. Em Ciência da Computação isso não ocorreria por dois motivos: todos os nerdões lá usam qualquer coisa diferente de [[Windows]], e principalmente porque são cheios do ''"[[frescura|não me toque]]"''.
+
+{{c|Certa vez tive que usar Hipoglós para me livrar das assaduras referentes aos cuecões!|Calouro|ADS}}
+
+== Grade do curso ==
+
+[[Arquivo:Foto.jpg|thumb|right|Primeiro encontro de Alienados da Computação que nunca passaram em nenhum dos 27 Cálculos.]]
+[[Arquivo:Nerd-46422.jpg|thumb|Nerd que acabou de receber um vírus do trote no primeiro dia de aula]]
+
+Entre análises e desenvolvimentos, se vão todos os campos relativos ao que você xinga no computador.
+Porque já dizia o poeta, é desenvolvendo a vida que analisamos o futuro.
+
+*Hardware — O que você chuta 
+*Software — O que você xinga
+*Programação — Aprenda a fazer programas. Prepara o toba nego:
+:*[[Modelo entidade-relacionamento|MER]] — Modelo de Entidades <s>[[espiritismo|espiritas]]</s> e Relacionamento. Ou aprende isso, ou vai ter que aprender a passar café pros programadores
+:*[[Programação Orientada a Gambiarras|POG]] — Ao termino do curso, você vai "desenvolver" <s>gambiarras</s> desse jeito, principalmente em [[Java]], [[PHP]] e [[C]] (porque você não vai aprender usar '''ponteiros'''). Java e PHP serão em [[programação estruturada]] porque segundo seus professores, este será o paradigma do futuro!
+:*[[SQL|MySQL]] — É... só [[MySQL]]. Você vai aprender que o sinônimo de SQL é MySQL e vice-versa. Se seu curso for bonzinho vai aprender em [[Postgresql]].
+:*<s>[[Padrões de projeto]]</s> — Não vai nem passar perto disso, mesmo que seja necessário depois...
+*Conceitos de SO Livre — Linux
+*Conceitos de SO Proprietário — Ruindows
+*Filosofia — What?
+*Inglês instrumental — Neguinho vai sofrer nessa matéria.
+
+
+{{c|Estuda que é fácil. Isto é matéria de primário!|[[Professora de Cálculo|Professor de Cálculo]] dando falsas esperanças ao aluno alguns meses antes de reprová-lo.}}
+
+O curso basicamente divide-se em três tipos de cadeiras principais: as de programação, as de banco de dados e as de projeto de sistemas, o resto serve apenas para encher [[linguiça]], já que serão totalmente inúteis no mercado de trabalho. Passar nessas cadeiras colando não é nenhuma vergonha, aliás, é até uma esperteza, pelo menos não  fica perdendo tempo estudando algo que será inútil na sua vida.
+
+{{Exatas}}

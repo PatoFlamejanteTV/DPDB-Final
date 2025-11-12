@@ -1,0 +1,29 @@
+
+
+O '''Ping-Ponguismo''' ([[Filosofia]] do [[Ping-Pong]] ou abreviadamente [[PP]]) é uma escola filosófica que trata da questão da localização, movimentação de bolinhas, pessoas e raquetes.
+
+== Ping-Ponguismo Restrito ==
+
+Primeiramente, a teoria foi criada para 2 pessoas, 1 bolinha, 2 raquetes, uma mesa de plana largura x comprimento e uma rede, divindo o espaço de cada um. 
+A ideia inicial era provar que, quando um problema (bolinha) é jogado para a pessoa 1, ela tende a devolvê-lo à pessoa 2 e assim sucessivamente, até que alguém falha e tem que resolver de verdade a encrenca (ir buscar a bolinha lá longe).
+[[Arquivo:Uchiha.jpg|thumb|right|185px|O clá dos [[Uchiha]] foram os criadores da religião.]]
+== Ping-Ponguismo Expandido ==
+
+Dentro da sociedade (organizações, famílias, círculo de amigos), a teoria do Ping-Ponguismo é coerentemente expandida a um espaço de n dimensões.
+Com isso, temos:
+
+n pessoas 
+m bolinhas
+r raquetes (com r >= n)
+
+A mesa pode ser representada no plano como um polígono de x lados e o número de redes passa a ser x-1. Note que o polígono da mesa não necessariamente tem lados iguais.
+
+O sequenciamento de lances de bolinhas segue uma função denominada função "random" e o vetor n pode sofrer um acréscimo de elementos sem nenhum aviso prévio.
+
+== Exemplo de Aplicação: o Ambiente Empresarial ==
+
+A Teoria do PP Expandido explica porque tantos problemas (bolinhas) são jogados de um lado pro outro (raquetadas) sem a menor lógica (pois segue a função "random"). Como o número de bolinhas cresce a todo momento, muitas acabam se perdendo no infinito e não retornam mais ao jogo.
+
+Se eu soubesse desenhar, fazia uma mesa poligonal, com várias pessoas e várias bolinhas passeando de lá pra cá.
+
+[[Categoria:Filosofia]]

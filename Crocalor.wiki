@@ -1,0 +1,40 @@
+{{pokedex}}
+{{PokéBox
+| imagem = Crocalor.png
+| frase = Crocalor após ver o seu treinador com comida.
+| nihongo = アチゲータ
+| romaji = Mekishikurokodiro
+| pokedex = 910
+| tipo1 = Fire
+| tipo2 = 
+| habilidade1 = Soltar fogo
+| habilidade3 = Comer
+| espécie = Gordodilo
+| cadeia evolutiva = [[Arquivo:909MS.png|60px|link=Fuecoco]] {{seta}} [[Arquivo:910MS.png|60px|Crocalor]] {{seta}} [[Arquivo:911MS.png|60px|Skeledirge]]}}
+
+[[Arquivo:910MS.png|60px|Crocalor]] '''Crocalor''' é uma espécie de Pokémon que surgiu na nona geração, nos bugs chamados de [[Pokémon Violet]] e [[Pokémon Scarlet]] e o inicial de segunda forma dos jogos, onde é a evolução do [[Fuecoco]], o crocodilo com jeito de [[retardado|doente mental]] que só pensa em comer, tanto que ganhou uns quilos a mais.
+
+Durante o jogo, o jogador é obrigado a passar tempo com esse crocodilo obeso e horroroso até o nível 36, onde vira mais um crocodilo horroroso em termos de design, só que menos gordo e quadrúpede. Se Floragato é considerado uma cópia malfeita de [[Braixen]], já Crocalor é uma cópia malfeita do [[Croconaw]] (se bem que o Croconaw está quase no mesmo nível) ou também pode ser uma versão do [[Mundo do Contra]] dele, ou um Croconaw que saiu do [[inferno]].
+==Design==
+{{c|Isso vai virar uma cobra, né?|[[Teoria do Zodíaco|Teorista]]|Crocalor}}
+
+Crocalor é o inicial de segunda forma gordo que obrigatoriamente tem que ter em quase toda geração, sendo aquele inicial que geralmente é ignorado por se tratar de um pokémon horrendo em design e que apenas quer comer, assim como seus amigos [[Croconaw]], [[Pignite]] e [[Quilladin]], mas por sorte desse, Skeledirge consegue ser tão feio quanto Crocalor.
+
+Crocalor é um crocodilo com problemas de peso e que assim como sua versão aquática, Croconaw, também tem um tema, onde mostra que a linha de crocodilos de Paldea é uma linha evolutiva que foi importada do [[México]], a Espanha pobre que tenta cruzar muros. Este detalhe é bem <s>mal</s> representado, já que Crocalor também possui consigo um sombrero de fogo para mostrar que todo inicial de fogo é obrigado ao menos ter um detalhe que pegue fogo em seus designs.
+
+Já as suas partes mais abaixo é só gordura, já que Crocalor é apenas um Fuecoco que engordou bastante.
+==Pokédex==
+[[Arquivo:Crocalor escondido.jpg|180px|thumb|Crocalor se escondendo para o jogador não perceber sua feiura.]]
+Mesmo sendo um animal gordo com problemas sérios de peso, a pokédex tenta ser boazinha com ele e não menciona de jeito nenhum seus problemas culinários, focando mais em relatar o seu sombrero tosco de fogo, além de falar sobre a sua voz de [[porco]], representado pelo seu grito quando aparece em batalhas.
+==No jogo==
+Crocalor não tem muita relevância com os fãs da série, mas por sorte dele, foi um dos primeiros a ser "revelado" por vazadores que conseguiram o jogo muito antes do tempo e bem antes de youtubers, mas como qualquer vazador é obrigado a ter uma câmera da qualidade [[TekPix]] que tem uma qualidade similar a ser filmado com uma [[batata]] na mão, as pessoas não conseguiram ver o seu design, para sorte de Crocalor.
+
+Em termos de aparecer no jogo, por ser um dos iniciais, Crocalor obviamente é ignorado por quase todos os treinadores por ser um pokémon que é muito raro e apenas pode ser utilizado por dois treinadores no jogo inteiro, que é você mesmo caso escolha o crocodilo guloso como inicial, ou ele também poderá aparecer nas mãos [[Nemona|da stalker maluca por batalhas]] no meio do jogo, caso escolher o [[Quaxly|pato metrossexual]] de inicial. Caso escolha o gato maconheiro, Crocalor não dará as caras no jogo e só poderá ser visto apenas na forma inicial no começo do jogo, ou em sua forma evoluída com o [[Clavell|diretor maluco dos disfarces]].
+==Usos==
+Por ser um inicial da forma do meio, quase nenhuma pessoa irá usar esse pokémon em batalhas oficiais do competitivo, ao menos que seja um [[idiota]] querendo exibir o seu [[pokémon shiny|pokémon brilhante]] para o público.
+
+{{Poke9}}
+
+[[Categoria:Crocodilos]]
+[[Categoria:Fogo]]
+[[Categoria:Gordos]]

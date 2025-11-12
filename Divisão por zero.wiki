@@ -1,0 +1,192 @@
+{{Matemática}}
+{{Doido}}
+[[Arquivo:Zero0.jpg‎|thumb|right|300px|Windows dando uma informação incorreta (pra variar) sobre a divisão por zero]]
+[[Arquivo:conjunto-vazio.jpg|right|thumb|300px|Um zero sendo dividido]]
+{{c|Dividir por zero??? Isto non ecziste, o que ecziste son calculadoras charlatoes que usam isto|Padre Quevedo|dividir por zero}}
+{{c|Um dia você aprende |[[Shakespeare]]| Divisão por zero}}
+{{c|Ao infinito e além| [[Buzz Lightyear]]| A teoria de Bhaskara (dividir por zero é chegar ao infinito)}}
+{{C|Dividir por zero é pedir para ficar de [[dupla penetração|DP]].|Professor de Cálculo|Dividir por zero}}
+
+[[Arquivo:Dividirporzero.jpg|thumb|200px|right|A [[calculadora do Windows]] nem se arrisca a tentar este feito.]]
+
+A '''divisão por zero''' é algo tão espetacular quanto perigoso. O simples ato de dividir qualquer número por zero pode causar coisas inimagináveis, mas de proporções tão grandes que podem causar um colapso-espaço-temporal que pode levar uma pessoa comum para um [[buraco negro]] e depois essa pessoa vai para um [[universo]] alternativo em que as forças [[Emos Coloridos|obscuras do universo]] já dominaram tudo e todos.
+
+Além disso, a divisão por zero tem uma resposta sim: é [[infinito]]. Mas pode ser de seu conhecimento {{USERLINK}} que quando algum matemático vê um problema sem solução, ele simplesmente põe que o número é infinito.
+
+Preste muita atenção, porque agora a [[Desciclopédia]] vai desmascarar o resto do [[universo]] e te dizer qual é o verdadeiro resultado da divisão por zero, aqui mesmo, nesse artigo! Mas tome cuidado porque, quanto mais se tenta achar um resultado plausível para a divisão por zero, maiores são as chances de alguma coisa muito boa acontecer com você, tipo [[suicídio]] ou perda das funções cerebrais.
+
+== História ==
+Como já sabemos, tem sempre alguém que tentando resolver problemas acaba causando mais problemas ainda. Na divisão por zero não foi diferente, começamos logo com '''Brahmasphutasiddhanta''' (eu não escrevi errado) que foi o primeiro texto a falar da divisão por zero, só não me perguntem o que está escrito. Depois, veio o [[Bhaskara]] II que percebeu que, na divisão,quanto mais o divisor se aproxima de zero, mais o resultado aumenta. E quando o divisor é extremamente pequeno (praticamente zero), o resultado é extremamente grande. E concluiu que qualquer [[número]] dividido por zero é igual a infinito, como ninguém tinha uma resposta melhor, ficou por isso mesmo.
+
+A teoria de Bhaskara, apesar de fazer sentido, é contraditória por causa de algumas perguntas como por exemplo. '''Por que a tangente nunca encosta no eixo das ordenadas?''' Isso seria facilmente explicado levando em conta que a tangente é uma divisão por zero e seu valor chegará ao infinito (Buzz Light Year), mas nunca tocará o zero (que é o valor do eixo das ordenadas).
+
+Sejamos claros, a tangente é nada mais que '''seno de 90º dividido por cosseno de 90º'''. Vamos lá
+
+[[Arquivo:Tangente.jpg‎|thumb|260px|right|O fracasso da tangente e do Log]]
+
+'''Seno de 90º = 1'''
+
+'''Cosseno de 90º = 0'''
+
+Logo temos uma divisão por zero que dará um valor infinito. É como se fosse uma dízima periódica, seria como dividir '''80,99 por 9'''. O resultado seria '''8,999...''' eternamente, mas nunca chegaria no '''9'''.
+
+A tangente foi condenada a vagar sempre pelo infinito, vagar, vagar, vagar e nunca chegar a lugar nenhum...(vou chorar)
+
+Outra resposta, tão pseuda e inútil quanto a da tangente é referente ao Logaritmo. '''Pelo mesmo motivo da tangente, ele jamais tocará o eixo das abscissas'''
+
+Pseudo respostas para verdadeiros [[idiota|fracos]]. 
+
+== Falácias e Paradoxos ==
+[[Arquivo:Divide.gif|thumb|280px|[[noob|Usuários desavisados]] têm sido vitimados ao tentarem dividir por zero.]]
+A definição de "qualquer número não-nulo dividido por zero é igual à infinito" dada por Bhaskara, apesar das pseudo-explicações não esclarece exatamente nada ao mesmo tempo que traz ainda mais coisas para serem esclarecidas, ou seja, só complicou.
+Vamos pensar um pouco (se é que você é capaz disso)
+[[Arquivo:Bombaatomica.gif|100px|thumb|[[Pica-pau]] vendo alguém calcular a divisão por [[zero]]]]
+
+Note que quando dividido desta forma o zero é inofensivo e apresenta uma resposta simples.
+
+* <math>0 \div </math> número diferente de <math>0 = 0</math>
+* número positivo <math> \div 0 = \infty</math>
+* número negativo <math> \div 0 = (-\infty)</math>
+* <math>0 \div 0 =</math> indeterminado
+
+A operação 0÷0 resultam em indeterminação, porque ninguém consegue decifrar um único resultado.
+
+Paradoxal não? Isso fora as [[falácia]]s. Vamos refletir um pouquinho mais (sem usar um [[espelho]])... É possível distinguir um caso especial da divisão por zero em um argumento algébrico, levando a provas inválidas tais como 2 = 1 como a seguinte.
+
+Assume-se:
+
+<math>0 \times 1 = 0</math>
+
+<math>0 \times 2 = 0</math>
+
+Assim:
+
+<math>1 \times 0 = 2 \times 0</math> (tudo bem até aqui, agora vamos ao problema)
+
+Dividindo por zero:
+
+[[Arquivo:Dividir_por_zero.png‎|100px|left]] 
+
+Simplificando tudo:
+
+<math>1 = 2</math>
+
+Não entendeu? Não importa, vamos de novo
+
+[[Arquivo:Loucura..jpg‎|216px|thumb|right|Você após tentar dividir por zero]]
+
+Voltemos à reflexão...
+
+<math>(x - x) \times x = x ^ 2 - x ^ 2 = 0</math>
+
+<math>(x - x) \times (x + x) = x ^ 2 - x ^ 2 = 0</math>
+
+Logo:
+
+<math>(x - x) \times x = (x - x) \times (x + x)</math>
+
+Dividindo por <math>x - x</math> temos:
+
+<math>x = (x + x)</math>
+
+E para fechar com chave de ouro, dividamos por <math>x</math> que o resultado será...
+
+<math>1 = 2</math>
+
+A falácia é assumir que dividir por zero é uma operação legítima com <math>0 \div 0 = 1</math> (mas não era infinito?), isso seria totalmente fora de cogitação em meios comuns, mas como o estúpido do Bhaskara quis mexer nisso, coisas absurdamente absurdas como esta podem ser dadas por verdade e provadas por falácia.
+
+Fazendo o cálculo de forma individual não se percebe erro lógico ao afirmar que todo número que seja dividido por si resulte em 1, inclusive zero.
+
+Viu onde fomos parar?, daqui é direto para o [[hospício]]! Se tiver algum problema, pede pra sair, senão, voltemos à divisão.
+
+==Teoria da divisão por zero==
+[[Arquivo:dividindo-por-zero.jpg|left|thumb|300px|Os cientistas ainda investigam esse [[buraco negro]] que entrou em colapso por causa de uma divisão por zero.]]
+[[Arquivo:Exploding-head.gif|right|thumb|Alguém após tentar dividir por zero mentalmente.]]
+
+Foram elaboradas várias teorias para explicar de uma maneira simples - e satisfatória - que número poderia vir após a divisão por [[zero]]. O primeiro cientista a criar uma teoria sobre algo do tipo foi [[Ptolomeu]]. Ptolomeu havia acabado de provar ([[ou não]]) que os planetas giravam em torno da [[Terra]]... Todos estavam puxando o saco de Ptolomeu dizendo que ele era o [[foda|fodão]] até que veio a pergunta:
+
+{{c|Qual será a próxima coisa que você irá responder, ó grande, foderoso e excelêncio Ptolomeu?|O primeiro puxa-saco que se entregou na história|para Ptolomeu}}
+
+Ptolomeu disse que a próxima coisa que ele estudaria seria a divisão por zero, mas por que essa mula foi escolher logo isso? Ptolomeu era muito <s>burro</s>inteligente na sua adolescência, mas quando seu mestre lhe perguntou quanto era 2 dividido por zero, ele não conseguia responder. O mestre dele deu uma risada irônica e tirou sarro da cara de Ptolomeu que não conseguia responder uma divisão de números tão baixos assim.
+
+Ptolomeu elaborou a primeira teoria que era a seguinte:
+
+{{Cit|Todo número dividido por zero irá dar o resultado porque eu quis e porque eu quero. O número que está sendo dividido por zero substituirá o zero e o mesmo deve ser esquecido pelo resto da eternidade|Ptolomeu|a sua teoria [[Mentira|muito convicente]] sobre a divisão de zero}}
+
+== Como dividir por zero corretamente ==
+[[Arquivo:Matemático.jpg‎|100px|thumb|Matemático louco comemorando seu sucesso (de que eu não sei)]]
+
+Um cientista que sabe o que está fazendo usará um cálculo semelhante a este para dividir por zero com segurança (ou nem tanto). Note que ele fez uso da notação de [[limite (matemática)|limites]]:
+
+:<math>\lim\limits_{x \to 0} {\frac{1}{x} =\frac{\lim\limits_{x \to 0} {1}}{\lim\limits_{x \to 0} {x}}} = \frac{1}{0} = \infty.</math>
+
+Porem sem resultado. Após isso, um grande matemático, denominado Guilherme F.C, pensou em uma solução muito fácil pelo uso de uma lógica imensamente simples que irei mostrar-lhes:
+
+6÷0=?.
+
+6 balas estão sendo divididas por 0 crianças,
+
+As balas estão perdidas em uma rua deserta, com ninguém para pegá-las.
+
+* <math>6 \div 6 = 1</math> bala para cada criança.
+
+* <math>6 \div 3 = 2</math> balas para cada criança.
+
+* <math>6 \div 2 = 3</math> balas para cada criança.
+
+* <math>6 \div 1 = 6</math> balas para cada criança.
+
+* <math>6 \div 0 = \infty</math> balas para cada criança.
+
+Explicação: Se cada criança recebe <math>\infty</math> balas, então 6÷0=<math>\infty</math>, pois as balas continuam perdidas pela rua deserta.
+
+Resumo: Todo número positivo dividido por zero é igual à <math>\infty</math> e todo número negativo dividido por zero é igual à (-<math>\infty</math>).
+
+=== Outra teoria ===
+
+Segundo [[Leonhard Euler|Leonardo Euler]], o filho do vento, e nas palavras do próprio {{aspas|eu consegui dividir por zero, o resultado é zero; se eu tenho uma maçã e divido ela pra zero pessoas, então essas zero pessoas receberão zero maçãs porque elas não existem, e como essas pessoas não existem, logo receberão zero maçãs}}.
+
+== Como dividir por zero incorretamente ==
+<small>gerando uma fissura no espaço-tempo e no seu cérebro</small>
+
+Primeiramente o <s>idiota</s> aprendiz de cientista começa com um cálculo simples:
+
+:<math>\frac 60 = ?</math>
+
+Ao tentar resolvê-lo logo ele se perde e o cálculo vai começando a ficar sem sentido:
+
+:<math>\left(1-\left(\frac{v}{c}\right)^2\right)^{-\frac{1}{2}} \approx 1 - \left(-\frac{1}{2} \left(\frac{v}{c}\right)^2\right) + O\left(\left(\frac{v}{c}\right)^4\right) \Rightarrow \gamma m c^2 \approx mc^2 + \frac{m v^2}{0} = ?</math>
+
+Até que finalmente:
+
+:<math>\frac \forall \bar{y} (\phi(0,\bar{y}) \land \forall x ( \phi(x,\bar{y})\Rightarrow\phi(x+1,\bar{y})) - \forall x \phi(x,\bar{y})) / 0 = </math>[[Arquivo:Vortexzero.png|150px]]
+
+E nenhum cientista conseguiu sobreviver para dizer o que aconteceu depois <s>de ter se ferrado</s>. Há registros de que [[Alan Sokal]] teria sido o único a fazê-lo, mas ele foi tragado para uma dimensão alternativa onde ninguém pode ouvi-lo gritar (ficou doido).
+
+Esse problema foi "resolvido" somente em 2014 pelo "gênio" da economia chamado [[Nildo Ouriques]] que calculou o limite de um triângulo inscrito dentro de uma circunferência cujo raio tende pro infinito e aplicando a fórmula de Bháskara em uma aula de um pré-vestibular falido [[Brasil]] afora. Ele chegou ao resultado de algo parecido com a raiz quadrada de menos zero.
+
+<center><div class="boilerplate metadata" id="stub"><table cellpadding="5" cellspacing="5" style="background:#fff7cb"><tr><td><big>'''O Ministério da Saúde Adverte:'''<br>É altamente desrecomendável tentar fazer a divisão por zero em sua casa.<br /> Não incentive crianças a tentar fazê-lo, sem a presença de um adulto totalmente qualificado.<br />Não nos responsabilizamos por qualquer problema causado por essa tentativa.</big></td></tr></table></div></center>
+
+==Ligações externas==
+
+*[http://inexatas.blogspot.com/2011/09/dividindo-por-zero-e-o-fim-do-mundo.html Dividindo por zero e o fim do mundo]
+Lx0=z
+
+== Ver também ==
+
+*[[Divisor de zero]] (parece a mesma merda, mas não é não!)
+*[[Zero dividido por zero]]
+*[[0 elevado a 0]]
+*[[Raiz quadrada de número negativo]]
+
+{{Forças}}
+
+[[Categoria:Aritmética]]
+[[Categoria:Coisas de doido]]
+
+[[en:HowTo:Divide by Zero]]
+[[es:Incilibros/Cómo dividir por cero]]
+[[fr:Division par zéro]]
+[[it:Dividere per zero]]
+[[ja:ゼロで割る方法]]
+[[ko:0으로 나누기]]

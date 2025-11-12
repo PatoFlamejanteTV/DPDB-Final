@@ -1,0 +1,74 @@
+{{game}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = King Kong
+|image     = Donkey Kong 1981 cover.png
+|caption   = Capa do jogo quanto relançado para [[NES]]
+|developer = [[Nintendo]]
+|publisher = [[Nintendo]]
+|released  = [[1981]]
+|genre     = [[WTF]]
+|rating    = 001%
+|platform  = [[Arcade]]
+|ages      = Adequado para menores de 8 anos (mentalmente)
+}}
+
+{{c|Que Mario|Donkey Kong... o primeiro a ser carcado atrás do armário}}
+{{c|Piranha!|Peach|Pauline}}
+
+'''Donkey Kong''' é um jogo antigo de [[1981]], normalmente altamente desconhecido mas eventualmente ressuscitado como "clássico cult", foi lançado para [[arcade]]s de botecos do mundo inteiro na época que seu avô era criança, época em que ele passava as tardes gastando a mesada nessa inutilidade. O grande objetivo do jogo era perpetuar os ideias comunistas de altruísmo ao mundo inteiro, no auge da [[Guerra Fria]] ([[1981]], o ano da Crise dos Mísseis) você deveria controlar um operário do proletariado que deve resgatar uma donzela, exterminar um animal e ignorar completamente a necessidade de concluir a edificação do edifício em construção em que ele está escalando.
+
+== Desenvolvimento ==
+
+[[Arquivo:Donkey kong arcade.jpg|thumb|left|220px|O que em 1981 começou como uma despretensiosa contenda entre um carpinteiro e um gorila criaria duas das maiores franquias dos videogames.]]
+
+Recentes estudo arqueológicos sugerem que o jogo foi desenvolvido por um [[nerd]] chamado [[Shigeru Miyamoto]] (vivo ainda hoje, mas muito velho e debilitado). O jogo foi criado a partir dos restos de um lixo chamado [[Radar Scope]]. Para a precariedade da época onde [[Pong]] era considerado algo incrível, você controlar aquele boneco e escalar um prédio era uma revolução.
+
+== Jogabilidade ==
+
+O jogo conta as aventuras de ''Jumpman'' (renomeado mais tarde para [[Mario]] devido no direitos autorais), um [[carpinteiro]] (que posteriormente se tornaria encanador) que decide enfrentar [[King Kong]] (renomeado mais tarde para [[Donkey Kong]], de novo por devido a problemas nos direitos autorais), tudo para resgatar a sua primeira namorada chamada [[Pauline]] que tinha o estranho fetiche de ser carcada atrás do armário. Apenas anos depois que Mario viria a descobrir que a [[Princesa Peach|Princesa Bitch]] também adora ser carcada atrás do armário, mas por encanadores, o que explica a súbita mudança de profissão de Mario.
+
+== Enredo (segundo o manual) ==
+
+[[Arquivo:Smash the Monkey.jpg|250px|thumb|O jogo, como eficiente propaganda comunista.]]
+
+<big><big>Versão original:</big></big>
+
+''"HELP! HELP!" cries the beautiful maiden as she is dragged up a labyrinth of structural beams by the ominous Donkey Kong. "SNORT. SNORT". Foreboding music warns of the eventual doom that awaits the poor girl, lest she somehow be miraculously rescued. "But, wait! Fear not, fair maiden. Little Mario, the carpenter, is in hot pursuit of you in this very moment". 
+
+''Throwing fate to the wind, risking life and limb, or worse, little Mario tries desperately to climb the mighty fortress of steel, to save the lovely lady from the evil Mr. Donkey Kong. Little Mario must dodge all manner of obstacles - fireballs, plummeting beams and a barrage of exploding barrels fired at him by Donkey Kong. Amidst the beautiful girls' constant please for help, your challenge is to maneuver little Mario up the steel structure, while helping him to avoid the rapid-fire succession of hazards that come his way. 
+
+''It is your job to get little Mario to the top. Leaving little Mario and the beautiful girl to live happily ever after. "SIGH. SIGH".''
+
+<big><big>Tradução:</big></big>
+
+'''"SOCORRO! SOCORRO!" era só essa merda que aquela vadia sabia gritar no alto de um labirinto de vigas de aço, raptada por um macaco gordo gigante. "SNORT. SNORT". A péssima música atrapalha ainda mais o resgate da pobre garota, só um milagre a salvaria. "Mas espere! Não tema loira burra. O pequeno Mario, o carpinteiro, sabe que você é quente na cama e não vai desistir nunca"'''
+
+'''Combatendo os péssimos gráficos e jogabilidade, o pequeno Mario escala a fortaleza de aço para comer a nobre dama atrás do armário antes que o terrível Senhor Donkey Kong o faça. Pequeno Mario deve superar os mais difíceis obstáculos - caralhos de fogo, feijões e uma quantidade infinita de barris. Mas aquela dama é muito bonita para fazer o pequeno broxar.'''
+
+'''É seu dever levar o pequeno Mario ao topo. Que Mario? Bem você já sabe...
+
+== Recepção ==
+
+Com 200 fases disponíveis criadas de forma procedural, o jogo Donkey Kong é considerado o jogo épico e mais longo da história dos videogames junto com [[Pac-Man]], [[Tetris]] e [[World of Warcraft]], tornando-se amplamente popular sendo o "jogo mais clássico que ninguém jogou mas já ouviu falar" da história.
+
+Em 1981 o Arcade de Doneky Kong foi colocado em todos os bares, rodoviárias, esquinas, feiras e prostíbulos do mundo inteiro, arrecadando em média 30 centavos de dólares por mês, o que totalizava 3 bilhões de dólares mensais somando o montante de todas as máquinas. O jogo tornou-se a peça chave para o sucesso econômico da [[Nintendo]] que pode investir esse dinheiro e se tornar o monopólio mundial de jogos coloridos para crianças.
+
+==Remake==
+
+Com mais 200 fases, o jogo foi relançado no [[Game Boy|Game Bosta]], como "Donkey Kong" (Que criativo, né...), com graficos mais podres que a [[tua mãe]], e relançado depois para o [[3DS]], e mesmo assim, ele foi bem avaliado (Só o ser humano pra ser doente mesmo...).
+
+{{Recordistas|ser o primeiro joguinho de plataforma da história - o pai dessas porras que todo mundo fica andando de um lado pro outro e pulando de um lado pra outro}}
+{{Donkey Kong}}
+{{Supermario}}
+
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Famicom Disk System]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para Nintendo Switch Online]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos lançados em 1981]]

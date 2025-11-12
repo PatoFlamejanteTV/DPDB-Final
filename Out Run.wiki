@@ -1,0 +1,62 @@
+{{game}}
+
+{{Infobox Série Game
+|title         = Fora da Corrida
+|image_logo    = OutRunSMS.jpg
+|caption       = Aí Sim!
+|genre         = corridinha
+|developer     = [[Sega|CEEEGAAA!]]
+|publisher     = [[Sega|CEEEGAAA!]]
+|origin        = [[Arcade]]
+|first_release = [[Out Run (jogo)|Out Run 1]] (1986)
+|last_release  = [[OutRun Online Arcade]] (2009)
+}}
+
+{{vqd|Corrida Trial da Ferrari}}
+{{vqd|Game da Corrida na Praia}}
+{{c|Sou mais o 2019!|Nerd|OutRun 2019}}
+{{c|É uma cópia de um game japones!|Você|afirmação acima}}
+
+'''Out Run''' é uma série de games de correr pra caralho com uma gostosona e uma [[Ferrari]]. Criado em [[1986]], pela [[Sega|CEEEEEEEEEEEEGAAAAAAAAAAAAA!!!]]
+
+==O game==
+
+[[Arquivo:OutRun1.png|left|thumb|Um dos melhores motivos pra você jogar Out Run!]]
+
+Out Run (não é uma corrida de um jogador que levou um Out, seu fanático por [[Beisebol|Yakyuu]]!) é mais um game de "[[Arcade|Arukeida]]" que utiliza outros tipos de gabinetes. Bem, mas vamos falar no geral. O game só consta em um objetivo: Correr por 5 pistas antes do tempo acabar. Você começa numa praia e depois vai pra outros ambientes.
+
+{{c|Mas não é possível!|Você|fechar Out Run}}
+
+É, só depende de pratica e de um grau de inteligência alto <s>(e um grau de burrice baixo, lógico...)</s> para não bater nos coqueiros, placas, árvores, e outras merdas que estiverem ocupando o contorno da pista. Claro que existem carros andando em zigzag, fazendo você se foder. Assim como em [[Super Hang-On]] no modo ''Arukeida'', a cada trecho do sua rota é dado pelo menos um pouco mais de um minuto.
+
+{{c|E no Game Over?|Você}}
+
+'''''GAME OVER É GAME OVER PORRA! VOCÊ É MUITO BURRO PRA FECHAR!''''' Mas, <s>passou o stress</s> irá mostrar o seu percusso após [[Game Over|Gueime Ovo]]:
+
+[[Arquivo:OutRunMap.png|left|thumb|[[Doutor Roberto|...Viu]]??]]
+
+==Ver também==
+
+* [[After Burner]]
+* [[Shinobi]]
+* [[Super Hang-On]] (o modo ''Arukeido'' é igual ao próprio Out Run)
+* [[Turbo Out Run]]
+
+{{Out Run}}
+{{Sega}}
+{{Ages}}
+{{Game Racing}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos para Game Gear]]
+[[Categoria:Jogos para Sega Saturn]]
+[[Categoria:Jogos para MSX]]
+[[Categoria:Jogos para TurboGrafx-16]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para Dreamcast]]
+[[Categoria:Jogos para Xbox]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos lançados em 1986]]

@@ -1,0 +1,47 @@
+{{dragão}}
+{{quente}}
+{| align=right cellpadding=3 cellspacing=0 style="float:right; margin-left:1em; border:2px solid #000000;"
+!colspan=2 bgcolor=black|<font color="#ffffff" size="3">'''Dragão Bebê'''</font>
+|-
+|colspan="2" align=center | [[Arquivo: Bebedragaocard.png|200px]]
+|-
+!bgcolor=#808080 colspan=2|
+|-
+!bgcolor=black style="border-bottom:1px solid #676767;"|<font color="#ffffff">Nome </font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Dragão Bebê
+|-
+!bgcolor=black style="border-bottom:1px solid #676767;"|<font color="#ffffff">Pontos de Ataque</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|1200
+|-
+!bgcolor=black style="border-bottom:1px solid #676767;"|<font color="#ffffff">Pontos de Defesa</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|700
+|-
+!bgcolor=black style="border-bottom:1px solid #676767;"|<font color="#ffffff">Parceiro de Fusão </font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Mago do Tempo
+|-
+!bgcolor=black style="border-bottom:1px solid #676767;"|<font color="#ffffff">Poderes</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Ele cospe fogo
+|-
+!bgcolor=black style="border-bottom:1px solid #676767;"|<font color="#ffffff">Local de Nascimento</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Vale dos Dragões
+|-
+!bgcolor=black style="border-bottom:1px solid #676767;"|<font color="#ffffff">Onde apareceu</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Yu-Gi-Oh!
+|-
+!bgcolor=black style="border-bottom:1px solid #676767;"|<font color="#ffffff">Donos</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|[[Joey Wheeler]]  
+|}
+O '''Dragão Bebê''' é um dragão tosco que não passa de uma imitação barata do Pokémon [[Charmander]]. Esse monstro de duelo é uma das cartas mais fracas e toscas que o nosso querido duelista perdedor chamado [[Joey Wheeler]] possui em seu baralho, mas se for combinado com o [[Mago do Tempo (Yu-Gi-Oh!)|Mago do Tempo]] o Dragão Bebê acaba tornando-se um dragão mais poderoso soltando um bafo pela narina e ainda é capaz de soltar fogo pra todos os os lados.
+==Sua aparição==
+[[Arquivo:Dragomago.jpg|thumb|left|Os dois brincando no bosque, repare que o Dragão Bebê está feliz.]]
+
+Quando o Joey Wheeler entrou pra esse negócio de campeonato de monstros de duelo, o guri acabou tendo que enfrentar o seu rival chamado Rex Raptor, o Joey invocou o Dragão Bebê que fez o seu arquirrival chorar de rir ao ver um dragão kawaii tão fraco, mas o Joey Wheeler acreditou na história do coração das cartas e usou o [[Mago do Tempo (Yu-Gi-Oh!)|Mago do Tempo]] que fez o Dragão Bebê digivolver para Dragão Milenar que acabou com os pontos de vida do Rex Raptor, dando vitória ao Joey Wheeler.
+
+Na batalha contra o ladrão delinquente chamado [[Bandit Keith]], o Joey Wheeler invocou o Dragão Bebê e o sacrificou o coitado do bichinho kawaii para invocar o [[Dragão Negro de Olhos Vermelhos|Dragão Afro Negão]] que acabou com o Bandit Keith.
+
+Durante na batalha da cidade, o Joey Wheeler resolveu fundir o Dragão Bebê com um monstro que mais parecia um calango humanoide e o Dragão Bebê acabou servindo de montaria para esse monstro, só que dessa vez o nosso monstrinho kawaii ficou sozinho, pois ele tinha uma amizade com o [[Mago do Tempo (Yu-Gi-Oh!)|Mago do Tempo]].
+==Ver Também==
+*[[Mago do Tempo (Yu-Gi-Oh!)|Mago do Tempo]]
+*[[Joey Wheeler]]
+{{Cartas Yu-Gi-Oh}}
+[[Categoria:Dragões]]

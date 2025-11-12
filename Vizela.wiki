@@ -1,0 +1,97 @@
+{{DISPLAYTITLE:Guimarãezinhos}}
+
+{{DadosMunicípioPortugal
+<!-- Cabeçalho -->
+| nome                 = Cidade que deveria ser Vila de Vizela
+| apelido              = Cidade por acidente
+| hino                 = 
+<!-- Dados gerais -->
+| codigo_postal        = 4815
+| codigo_municipal     = VIZ
+| bandeira             =  
+| brasão               = 
+| link_bandeira        = 
+| link_brasão          = 
+| aniversário          = 19 de Março
+| fundação             = 1361 ou 1998
+| gentílico            = Sulvimaranense
+| lema                 =
+| apelidos             = A freguesia rebelde
+| pres_cm              =
+| orago                = [[São Bento]] das Peras, apesar de São Bento provavelmente nunca ter visto uma pera na vida
+| website              = [https://www.cm-guimaraes.pt/municipio/freguesias/vizela]
+<!-- Localização -->
+| mapa                 = 
+| nuts2                = Norte
+| nuts3                = Ave
+| distrito             = Braga
+| provincia            = Minho
+| vizinhos             = Guimarães<br>Santo Tirso<br>Felgueiras<br>Lousada
+| dist_capital         = uns 20km, mais ou menos
+| dist_lisboa          = 364km
+| toxicidade           = 1
+<!-- Características geográficas -->
+| área                 = 24,70
+| população            = 23700 pessoas
+| idioma               = Pronúncia do Norte<br>Português
+| data_pop             = 2011
+| densidade            = 
+| altitude             =
+| clima                = 
+| sigla_clima          = 
+| fuso_hor             = UTF 0
+<!-- Indicadores -->
+| idh                  = 
+| data_idh             = 
+| pib                  = 
+| data_pib             = 
+| pib_per_capita       = 
+| data_pib_per_capita  = 
+}}
+
+{{c|Vizela é cidade?!|Felgueirenses, lousadenses, tirsenses e vimaranenses|Vizela}}
+{{c|Como assim Vizela conseguiu virar cidade e a gente não?|Brito, Caldas das Taipas, Moreira de Cónegos e Serzedelo|o status de Vizela como cidade}}
+{{c|Não se escreve Vizela sem Vila|Camilo Castelo Branco}}
+{{c|Se Guimarães é o berço, Vizela é o colchão da nação?|Almeida Garrett}}
+
+Vizela é uma vila portuguesa a sul de [[Guimarães]] que ascendeu ao status de cidade acidentalmente. Seu feriado municipal é em 11 de Dezembro, para comemorar a vitória sobre sua vizinha no show de talentos do Big Show SIC.
+
+[[Arquivo:VIZ.png|thumb|O brasão de armas de Vizela, retratando a versão crescida daquele puto que está no brasão de armas de Guimarães]]
+== Economia ==
+
+A economia vizelense, na prática, não existe, sendo o local apenas uma paragem de autocarros para quem vem do sul para Espanha e não quer se estressar com o tráfego na A1 ou na A7. A maioria da população economicamente ativa trabalha nos municípios próximos, sendo a empresa dos autocarros pra Guimarães e Braga o maior empregador local, seguido do Continente Modelo.
+
+=== Transportes ===
+
+A cidade faz parte de uma rede de municípios do mundo com o intuito de diminuir a velocidade do modo de vida das pessoas, o que levou a câmara municipal a cortar os limites de velocidade nas vias a um décimo dos limites nacionais, tendo em vista não apenas a diminuição do ritmo de vida da população, mas também para evitar que a cidade seja infestada de bracarenses com seus acidentes automobilísticos.
+
+== História ==
+
+Em 1361, um erro ortográfico em um documento fez com que as terras onde ficam a atual Vizela ganhassem foral e formassem uma cidade, erro este que só foi corrigido 47 anos mais tarde, quando o local voltou a ser uma vila com o nome de ''Riba Vizela''. Mais de cinco séculos depois, o mesmo erro aconteceria, fazendo com que Vizela renascesse a partir de cinco freguesias de Guimarães, uma de Lousada e uma de Felgueiras. Impossibilitados de dar CTRL+Z nesta cagada, o governo português simplesmente [[laissez faire|cagou e andou]] para isso e continuou tratando Vizela como cidade.
+
+== Vizelenses ilustres ==
+
+Absolutamente ninguém relevante nasceu em Vizela em qualquer um dos anos no qual a cidade existiu, fato ainda mais comprovado devido à ausência de qualquer infraestrutura que permita um parto minimamente humano ou um cartório para registrar os bebês que nascem.
+
+== Saúde ==
+
+Vizela, por incrível que pareça, ascendeu à condição de cidade sem ter um hospital local, o que pôde ser retratado em 2000, quando uma fonte mal lavada gerou um surto de [[doença dos legionários]] que teve que ser tratado em Guimarães, ou seja, nada fora do comum para Vizela, já que os habitantes da cidade estão acostumados a fazer a mesma coisa em todas as ocasiões.
+
+== Gastronomia ==
+
+A culinária da "cidade" é cheia de características únicas.
+O prato típico de Vizela é o Bacalhau à Zé do Pipo, o único prato de bacalhau que leva um Zé como prato principal em vez de um bacalhau. O doce típico da cidade é o bolovo doce, único doce que leva um ovo cozido na receita.
+
+== Desporto ==
+
+O clube mais relevante do concelho é o (ainda irrelevante) FC Vizela, que apareceu na primeira divisão por um mísero ano na década de 80 e depois voltou a perambular pelas divisões inferiores, até conseguir voltar à primeira divisão em 2021, para cair logo em seguida e passar mais trinta anos tentando subir de novo.
+
+[[Arquivo:São Paio Sport Clube.png|thumb|right|O escudo da equipa desportiva mais famosa de Vizela. [[Vitória Sport Clube|Qualquer coincidência]] é [[plágio|meramente incidental]].]]
+
+== Links relacionados ==
+
+*[https://noticiasdevizela.pt Agência de notícias oficial da cidade]
+
+{{Distrito de Braga}}
+{{Portal3|Portugal}}
+[[Categoria:Cidades insignificantes]]

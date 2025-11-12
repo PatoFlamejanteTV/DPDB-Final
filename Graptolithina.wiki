@@ -1,0 +1,44 @@
+{{taxocaixa
+| nome = Grampo de Pedra
+| cor =orange
+| imagem =DiplograptusCaneySprings.jpg
+| imagem_legenda =Sim, esses troços que parecem marcas de pneu de bicicleta no cimento fresco na verdade eram animais...
+| reino = '''''[[Animal|Edmundo]]'''''
+| filo = '''''[[Hemichordata|Éminhacorda]]'''''
+| classe = '''''[[Graptolithina|Gramposdelixo]]'''''†
+| subdivisão_nome = Ordem (provavelmente tudo morta) 
+| subdivisão =
+<center>[[Dendroidea|Drenodoido]]<br>
+[[Tuboidea|Tubodoido]]<br>
+[[Camaroidea|Camarãodoido]]<br>
+[[Crustoidea|Crustáceodoido]]<br>
+[[Stolonoidea|Estouranodoido]]<br>
+[[Graptoloidea|Grampodoido]]<br>
+[[Dithecoidea|Teco-tecodoido]]</center>
+}}
+
+'''Graptólitos''' ou '''Graptolithina''' eram uns bichos velhos para caralho, tipo para caralho mesmo, que figuram provavelmente entre os primeiros [[hemicordados]] da história (ou seja, os primeiros que pareciam ter uma [[notocorda]] ou similar percorrendo as costinhas dele, mas era só meme), e que duraram tempo para porra, já que seus fósseis mais velhos datam do [[Cambriano]] superior e foram de base de vez, ao menos seus mais recentes, no [[Carbonífero]] inferior (ca. 523 – ca. 330 milhões de anos), passando por mais três períodos da [[Era Paleozóica]], durando se pá mais que os [[trilobitas]] e que aqueles moluscos marinhos gigantescos que viviam em conchas e que viraram os [[amonites]] e por fim... bem, esses meio que ainda existem com os [[argonautas]] e com os [[nautilóides]], então esquece o que eu falei tá?
+
+== Descrição ==
+
+Os graptólitos, apesar de hemicordados, viviam em [[colônia]]s, lembrando um bocado os [[cnidaria|cnidários]] em geral. Formavam uma espécie de esqueleto colonial de nome rabdossoma, onde ficavam seus representantes tudo em cápsulas chamadas tecas <s>terezas nadas e nenhumas, quem entendeu entendeu!</s> feitas de [[colágeno]], por onde eles provavelmente comiam filtrando os alimentos, igual um [[coral]] ou um [[tunicado]]. Por isso mesmo eram hemicordados, porque você ter uma notocorda e não usar para nada é mó inutilidade possível de se ver no reino animal <s>tirando o {{USERNAME}}, o maior inútil de todos do reino animal</s>.
+
+Na verdade, muitos deles, em especial os dendróides, conseguiram desenvolver um modo de vida livre igual aos das [[salpas]], sendo assim conseguiam viver de boa em regiões mais sedimentares do fundo do mar, como terrenos com [[xisto]] ou [[calcário]], e não a toa essa ordem foi a que mais aguentou viva, sendo encontrados representantes dela do câmbrico até o carbonífero, enquanto outras só em um ou outro período ali no meio e quase sempre indo de base rapidinho. Os outros que mais duraram foram os gratolóides, que foram do ordovícico ao devônico, mas só porque usaram um [[cheat code]] para se mexerem também igual aos dendróides, não que tenha adiantado tanto para eles, que vieram depois e morreram antes.
+
+Na real, no fim virou tudo pedra de [[fóssil]] que mais parecem escritos de povos submarinos como [[sereia]]s e [[homem-peixe]] do que um ser vivo real, e ainda por cima uns povos submarinos analfabetos pra caralho, porque não dá pra entender caralho nenhum do que tentaram escrever com esses tais graptólitos!
+
+== Ver também ==
+
+*[[Estromatólito]]
+*[[Oncólitos]]
+*[[Trombólitos]]
+*[[Conodonta]]
+*[[Dickinsonia]]
+
+[[Categoria:Hemichordata]]
+[[Categoria:Graptolithina|*]]
+[[Categoria:Animais do Cambriano]]
+[[Categoria:Animais do Ordoviciano]]
+[[Categoria:Animais do Siluriano]]
+[[Categoria:Animais do Devoniano]]
+[[Categoria:Animais do Carbonífero]]

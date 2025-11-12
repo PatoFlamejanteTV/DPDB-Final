@@ -1,0 +1,51 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = blue
+|brasao            = Escudo do Deportivo Pasto.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{COL}}''' - [[Pasto]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Pasto]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Colombiano de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Asociación Deportivo Pasto''' é o time que mostra que, mesmo no meio dos vulcões e do frio andino, a paixão pelo futebol pode queimar como a lava do Galeras.esse clube está tentando voltar para uma Libertadores ou pra uma Sul-Americana com a mesma energia de uma erupção vulcânica.
+
+== História ==
+=== O Início: Capítulo 1 - "A Lava do Futebol" ===
+Fundado em 1949, o Deportivo Pasto começou sua trajetória na charmosa cidade de Pasto, aos pés do imponente vulcão Galeras. Imagine só: um grupo de apaixonados por futebol, inspirados pela força da natureza ao redor, decidiu que era hora de a cidade ter um time que refletisse a paixão dos moradores. E assim, com muita determinação e uma pitada de bravura, nasceu o Deportivo Pasto.
+
+=== Primeiros Passos: Capítulo 2 - "Os Pequenos Eruptivos" ===
+Nos primeiros anos, o Deportivo Pasto jogava nas divisões inferiores do futebol colombiano, como um jovem vulcão que começa a mostrar sua força. Os jogadores, muitos deles talentos locais, mostravam sua habilidade e determinação, enquanto a torcida começava a se formar, com a mesma energia vibrante das festas andinas.
+
+=== A Ascensão: Capítulo 3 - "Subindo a Montanha" ===
+Com muito esforço e dedicação, o Deportivo Pasto conquistou seu espaço na primeira divisão colombiana. Em 1998, o clube finalmente alcançou o topo da montanha, subindo para a elite do futebol colombiano. A cidade de Pasto entrou em festa, e cada jogo se tornou um evento imperdível. A torcida, com orgulho, acompanhava o time, como se fosse um desfile de carnaval, com os jogadores desfilando suas habilidades no campo.
+
+=== A Torcida: Capítulo 4 - "Los Volcánicos Fanáticos" ===
+A torcida do Deportivo Pasto, conhecida como "Los Volcánicos", é um espetáculo à parte. Com bandeiras azul, vermelho e amarelo, tambores e uma energia contagiante, eles transformam cada jogo em uma verdadeira celebração. É como se cada partida fosse uma festa no Parque de Nariño, com torcedores prontos para apoiar seu time com fervor vulcânico.
+
+=== Momentos de Brilho: Capítulo 5 - "Explodindo em Glória" ===
+O Deportivo Pasto teve momentos de grande brilho, incluindo campanhas notáveis na primeira divisão. O ápice veio em 2006, quando o time conquistou o Torneio Apertura, seu primeiro título de campeão colombiano. Cada vitória era comemorada com a mesma intensidade de uma erupção do Galeras, trazendo alegria e orgulho para os torcedores.
+
+=== Desafios e Lutas: Capítulo 6 - "Enfrentando o Frio" ===
+Manter-se competitivo não foi tarefa fácil. O Deportivo Pasto enfrentou muitos desafios ao longo dos anos, incluindo dificuldades financeiras e rebaixamentos. Mas, assim como os habitantes de Pasto que enfrentam o frio e a altitude diariamente, o time nunca desistiu de lutar, sempre buscando melhorar e alcançar novos patamares.
+
+{{Campeonato Colombiano}}
+
+[[Categoria:Times de futebol da Colômbia|Deportivo Pasto]]

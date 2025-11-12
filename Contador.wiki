@@ -1,0 +1,78 @@
+{{matemática}}
+<center>
+----
+<span style="font-family: Verdana; font-size: 8 pt; color: #000099; letter-spacing: 6; font-weight: bold">[[Classe Média]]!</span><br>
+<span><small>Este é o tipico tipinho que é '''[[rico]]''' para os '''pobres''' e '''[[pobre]]''' para os '''ricos'''.</small></span>
+----
+</center>
+<p></p>
+{{Box Profissao
+| outrosnomes            = Faz Conta, Faz de Conta, Trapaceador
+| imagem                 = Contador_calmo.jpg‎
+| legenda                = '''Contador num dia calmo de trabalho'''
+| moto                   = Quanto você quer que apareça no resultado?
+| oquefaz                = Camufla o resultado da sua empresa em troca de [[dinheiro]]
+| utilidade              = {{099}} '''Alta''' - Apresentam o Lucro camuflado para poder pagar menos imposto
+| popularidade           = '''Esquecido''' (a não ser no Período de Declaração do Imposto de Renda
+| salario                = {{066}} '''Depende''' de quanto que você quer que dê o resultado
+| empresa                = Todas
+| sindicato              = Sindicato dos Ladrões
+| profsilustres          = [[Apostolo valdemiro santiago]] e [[Silas Malafaia]]
+| exprofs                = [[Malvino Salvador]] (desistiu e foi fazer de conta nas novelas)
+| ficticio               = Contador da novela das 8 da [[Rede Globo]]
+| animal                 = Leão (do Imposto de Renda)
+| arvore                 = 7 Folhas
+| padrinho               = [[Dilma]]
+| madrinha               = [[Clodovil]]
+}}
+{{vqd|Planejamento Tributário?}}
+{{vqd|Calculador de [[imposto]]?}}
+{{experimente|Usar uma calculadora e fazer suas próprias contas.}}
+{{c|Cobrador de Impostos!|Judas|São Mateus Padroeiro da Contabilidade}}
+{{c|Traidor!|São Mateus|Judas.}}
+{{c|Mas o dinheiro fica comigo e não para o governo!|Judas|citação acima.}}
+{{c|Posso perder o sono e não dormir a noite, mas não me suicido.|São Mateus revidando.}}
+{{c|O bom contador é aquele que entra com o bruto, faz bem o balanço, e só deixa o líquido!|{{PAGENAME}}|{{PAGENAME}}}}
+
+
+'''Contador''', é todo profissional da [[Contabilidade]], conhecido também como contabilista, se divide em duas classes: técnico em Contabilidade (o que trabalha com a contabilidade de verdade) e o '''Contador''' (é a pessoa que por falta de opção ou pela opção dos pais, faz a faculdade de [[Ciências Contábeis]]). Enfim, são profissionais, que no tempo do ensino fundamental mal sabiam fazer a soma de <math>2+2</math> (dois mais dois) e que depois de formados se tornam responsáveis por fazer as contas das diversas instituições, usando assim de tabelas incompreensíveis pelos proprietários das empresas que não entendem nada e continuam pagando o contador para explicar para a fiscalização da Receita Federal o que significa aqueles números. O objeto de estudo da Ciência Contábil é o Patrimônio, sendo assim, o contador é o profissional que você normalmente contrata para gerir e emitir informações sobre os bens de maior valor, como: Sua [[Empresa]], seu Dinheiro, seus imóveis e principalmente sua [[Esposa]], quando você está naquela viagem de negócios.
+
+==História da contabilidade==
+*A história da contabilidade é tão antiga quanto a história da criação, pois deduz-se que o próprio criador era contador, pelos próprios relatos de ficar contabilizando as coisas que fez em cada dia, mas a maior evidência que a contabilidade é mais antiga é que consta que antes da criação só havia o CAOS.
+*Os contadores tiveram grandes feitos ao longo da história (para o bem ou para o mau - quase sempre para o mau). Segundo documentos antigos, o que levou os filhos de Adão e Eva, Caim e Abel a uma briga que terminou em tragédia, foi o fato de um erro de um Contador ao realizar o cálculo do ''patrimônio'' de cada, sendo que esse erro foi crucial para que um irmão matasse o outro.
+*Os Contabilistas tiveram papel fundamental também na famosa construção da ''[[Torre de Babel]]'', um famoso shopping que nem chegou a ser inaugurado. O que não foi divulgado é que devido a um erro de cálculo de um contador, ninguém entendeu a Prestação de Contas, gerando uma confusão generalizada, o que levou aos empreendedores a desistirem dos negócios antes mesmo de inaugurá-los.A arte transcendeu até chegar ao Silvio Santos e ao Didi que lucraram milhões se livrando dos impostos através de contadores que desenvolveram o programa criança esperança e teletom para este fim.
+
+===Contabilidade no Brasil===
+No Brasil a Contabilidade chegou junto com a esquadra de [[Pedro Alvares Cabral]], pois uma das figuras importantes era um famoso contador português (caraleo!!! um contador português???). O que não está nos livros de história, é que o erro que trouxe os portugueses a chegarem no Brasil, foi causado por esse contador. O fato é que na hora de elaborar o orçamento da viagem, os cálculos dos estoques foram feitos de maneira errada, acabando com os mantimentos antes do ponto final da viagem (As Indias), fazendo que Pedro Alvares Cabral estacionasse seu navio no lugar mais próximo, para assim poder saquear os primeiros INDIOtas que encontrasse.
+
+==Fundamentos da Contabilidade==
+Como a profissão de contador é muito antiga, não se sabe de sua origem. 
+*Mas resumindo esta coisa de louco, o que fundamenta a contabilidade é que algum louco (ou alguns) ao longo da história, que não tinha o que fazer, resolveu fazer alguns cálculos matemáticos, daí o primeiro fundamento do Contador, a [[Matemática]].
+
+
+*Para piorar, começou a fazer esses cálculos com base em Leis (Receita Federal, 10 Mandamentos, leis de Newton, Lei Seca, etc), daí o segundo fundamento o '''DIREITO'''
+
+==Áreas de atuação==
+Dentre as diversas áreas da contabilidade se destacam:
+
+*'''Controladoria''' - normalmente são pessoas que mal controlam as despesas de casa (muitas das vezes ficando com a conta no vermelho e tendo que escolher qual conta vai deixar de pagar naquele mês) e que na empresa (privada ou pública) são nomeados para a função de Controlador (e depois os acionistas e ou proprietários ficam cobrando dos administradores o motivo do ''descontrole'' das contas da empresa);
+
+*'''Auditoria''' - É ocupado por aquele tipo de contador que passa a vida inteira na empresa procurando pelos erros dos outros e entregando tais erros para seus chefes conseguindo assim a vaga de auditor;
+
+*'''Perito Contábil''' - Se acha o tal na hora de analisar as contas das empresas e assim como no tempo de contador continua utilizando das tabelas incompreensíveis (porém agora com aprimoramentos e novas técnicas aprendidas em cursos de especialização). Procura ser um auditor aprimorado na hora de encontrar e apontar o erro dos outros e prima pelos pequenos detalhes de erros encontrados;
+
+*'''Contabilidade Pública''' - É a área mais procurada para os que se formam, pois muitos pensam em prestar um concurso público e ficar com o "burro na sombra" (Mas por fora é visto como o burro que está na sombra);
+
+*'''Contador Autônomo/Escritório de Contabilidade''' - formam uma parcela importante da contabilidade, se consideram imprescindíveis para a economia do país, mas apenas são lembrados para fazerem o cálculo e envio do imposto de renda e se gabam por isso(algo que qualquer idiota conseguiria fazer);
+
+*'''Contador''' - Muitos não conseguem boas colocações no mercado de trabalho e continuam sendo apenas contador...
+
+...''de piada''
+
+...''de mentira''
+
+...''de histórias''
+
+
+{{direito}}
+{{Profissões inúteis}}

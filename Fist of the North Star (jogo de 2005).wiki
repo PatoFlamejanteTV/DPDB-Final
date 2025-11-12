@@ -1,0 +1,98 @@
+{{game}}
+{{Infobox Game
+|title     = Punho da Estrela do Norte (2005)
+|image     = 163912-fist-of-the-north-star-playstation-2-front-cover.jpg
+|caption   = [[Barkley, Shut Up and Jam: Gaiden|No futuro pós-apocalíptico, homens resolvem seus negócios não em campos de batalha, mas sim nas quadras]]
+|developer = [[Arc System Works]]
+|released  = [[2005]]
+|publisher = [[SEGA]]
+|genre     = [[Bruce Lee]]
+|rating    = 8
+|platform  = [[Arcade]] e [[PlayStation 2]], mas só no outro lado do oceano
+|ages      = Maiores de 10 anos
+}}
+
+'''Fist of the North Star (2005)''' (Conhecido no [[Japão]] como ''Hokuto no Ken: Shinpan no Sōsōsei Kengō Retsuden'', <s>boa sorte traduzindo isso</s>) é um jogo de luta baseando em [[Hokuto no Ken|WATATATATATATAS]], distribuído pela [[SEGA|SEEEEGAAAAAAAAA]] e feito pelos mesmos caras de [[Arc System Works|Guilty Gear]]. A maior parte da distribuição do jogo ocorreu exclusivamente no Japão, mas como sempre, esforços foram feitos pelos nerdolas para trazer o jogo ao ocidente e ele desenvolveu um certo status "cult" entra a nata fedorenta da [[FGC]]. Mesmo contendo apenas 10 personagens horrorosamente desbalanceados, o jogo é apreciado por ser possivelmente a adaptação mais fidedigna possível do que seria um jogo de luta de HnK e pelas várias mecânicas muambeiras insanas que o jogo proporciona, como por exemplo [[WTF|jogar basquete com o corpo do oponente]].
+
+==Jogabilidade==
+O jogo reaproveita muito coisa da franquia Guilty Gear tanto no ''gameplay'' quanto no estilo visual. Os ''sprites'' se encaixariam perfeitamente com o pessoal do [[Guilty Gear X]] ou [[Guilty Gear XX|XX]]. Entretanto, o jogo possui algumas mecânicas únicas que apimentam as coisas, a mais particular delas sendo o sistema das '''SETE ESTRELAS DE HOKUTO'''.
+
+==='''[[Omae wa mou shindeiru|Sete Estrelas de Hokuto]]'''===
+"O que são as Sete Estrelas de Hokuto?", você provavelmente se pergunta sozinho a noite. As sete estrelas são um elemento narrativo crucial do mangá e o formato das cicatrizes no peito de [[Kenshiro|Ken]], no jogo elas atuam como uma barra de 7 blocos diretamente abaixo do seu HP. Para esvaziá-las, você precisa utilizar comandos e golpes específicos para cada personagem que reduzirão as estrelas 1 a 1. 
+
+Uma vez esvaziadas, um oitavo bloco se ilumina e isso sinaliza que você pode utilizar o seu '''''FATAL K.O.''''' (que é basicamente a mesma coisa que os ''Instant Kill'' de GG), um golpe especial que zera a vida do seu oponente e automaticamente te concede vitória no Round. Diferente dessa versão dos golpes em Guilty Gear (pelo menos os que vieram depois do [[Guilty Gear (jogo)|primeiro]]), esses golpes tem execução simples e são fáceis de serem inseridos em combos, então se prepare para passar muita raiva.
+
+Por outro lado, eles também proporcionam algumas das melhores reviravoltas em torneios e coisas afim. Pra quem tá jogando, perder o round pra um oponente que só fez apanhar faltando 5 segundos no relógio pode ser motivo de [[Suicídio|frustração]], mas pra quem está assistindo é [[11 de Setembro|algo bonito de se ver]].
+
+[https://www.youtube.com/watch?v=9V3O9dDj4Ck Japas ''hypando'' a mecânica]
+
+=== NBA Kenshiro Shut Up 'n WATATATA ===
+Outro diferencial do jogo é que, pelo menos com alguns personagens (e tendo os dedos pra fazer direito), sempre que você encurralar seu oponente num dos cantos da tela, o disco será ejetado e uma cópia de [[NBA Jam]] será posta em seu lugar. O objetivo então é fazer seu oponente quicar desafiando todas as leis da física e causando mais estrago aos ânus dele do que seus tios quando eram crianças. Essa mecânica é conhecida pelos "especialistas do jogo" <s>kk</s> como ''dribbling" e através dela vários combos infinitos são possíveis, a marca de [[Marvel vs. Capcom 2|todo jogo de luta balanceado dos anos 2000]].
+
+==Personagens==
+Apesar da fanbase gritar do topo das montanhas de Nanto que esse não é o caso, o jogo possui ''tiers'' muito definidos. Eles consistem basicamente em: Toki'''>>>>>>>>>>'''O Resto do Pessoal'''>>>>'''Jagi. Como o infinito de diferença entre os tiers não caberia nessa página, segue então a lista de personagens em proporções humanamente compreensíveis.
+===Top <s>Gear</s> Tier===
+{|
+| [[Arquivo:Toki2005.gif]]
+| '''Toki''' - Jesus Cristo, irmão de Kenshiro, pacifista e de longe o personagem mais quebrado do jogo. Ele pode se teletransportar para todo canto sem precisar de uma pausa para recuperação, consegue botar pressão e fazer ''mixup'' de olho fechado e tem uma resposta pra tudo que você enfiar na cara dele com os dois especiais de reversão e meio mundo de projéteis e róris. Para iniciantes ele não é a opção mais fácil, mas qualquer imbecil aleijado consegue aprender a fazer alguma coisa decente com ele em menos de uma semana.
+|}
+
+{|
+| [[Arquivo:Rei2005.gif]]
+| '''Rei''' - Herdeiro do Nanto e companheiro de Kenshiro por boa parte do mangá até tomar uma dedada no peito. No jogo o arrombado consegue pular 3 vezes e é cheio de movimento aéreo, além de ser rápido pra cacete. Geralmente é o personagem escolhido por quem não quer ter o esforço de aprender a usar o Toki, ou tem vergonha de usar ele e ser deserdado pelos pais. A diferença de degeneração mental de quem usa Toki e quem usa Rei é o equivalente a diferença entre meia dúzia e seis.
+|}
+
+{|
+| [[Arquivo:Juda2005.gif]]
+| '''Juda''' - Cota [[LGBT]] e estereótipo gay facilmente piadável. Juda possui muitas opções boas, é cheio de ''setup'' desgraçada '''INBLOQUEÁVEL''' e combo infinito. Entretanto, diferente de Rei e Toki, ele precisa da ajuda dos dois capachos que pode invocar para fazer suas atrocidades e sem eles é um tanto inútil. Pode-se dizer que é o primeiro personagem da lista cujo jogador pode ser encarado com respeito nos olhos.
+|}
+
+{|
+| [[Arquivo:Raoh2005.gif]]
+| '''Raoh''' - Quiçá o personagem mais poderoso e másculo da história dos mangás. Raoh é lento, forte, e difícil pra cacete de aprender. Ou você usa combo infinito ou você é um tijolo andando de um lado pro outro apanhando. O fato de que o arrombado se movimenta como um tanque de guerra (ele não consegue dar pulinho pra trás) faz dele um alvo fácil para qualquer um dos arrombados acima dele na lista. 93% dos apostadores de Bangok que perdem toda sua fortuna e esposas nos jogos de aposta são ''mains'' do Raoh.
+|}
+
+===''Mid Tier''===
+{|
+| [[Arquivo:Kenshiro2005.gif]]
+| '''Kenshiro''' - O garoto propaganda da franquia e o "[[Ryu]]" do jogo. Kenshiro nem fede nem cheira. Tem boas opções de ofensa, combos relativamente fáceis e sua defesa não é ruim. Seu problema é que ele apanha de quase todos os top tiers e tem ''hitbox'' de [[Super Smash Bros.|Smash Bros.]].
+|}
+
+{|
+| [[Arquivo:Thouther2005.gif]]
+| '''Thouter''' - O segundo herdeiro do Nanto presente no jogo. Assim como Raoh, é um personagem com apenas um estilo de gameplay: Ou você agressiva, ou você apanha, e por agressivar, eu quero dizer ''spammar violentamente''. Jogadores de Thouter geralmente são usuários veteranos de cocaína e possuem garras ao invés de mãos de tanto ficar dando [[Qcf + P|Hadouken]] no ar pra acertar ''counter'' no oponente. Um dia eles talvez percebam que existe uso melhor para as horas de suas vidas.
+|}
+
+{|
+| [[Arquivo:Mamiya2005.gif]]
+| '''Mamiya''' - A única mulher do jogo, Mamiya trabalha através dos estereótipos da espécie feminina é não se envolve na porradaria corpo a corpo, sendo uma personagem de longa distância. Ela é ''incapaz de agarrar oponentes'' e possui duas barras extras de munição para suas armas. No começo ela era vista como a pior personagem do jogo e esse só deixou de ser o caso porque, ela é tão pouco usada, que ninguém sabe o que fazer contra ela direito.
+|}
+
+{|
+| [[Arquivo:Shin2005.gif]]
+| '''Shin''' - Se no anime e mangá Shin sofre sendo o [[cuck]] de Kenshiro, nesse jogo ele é cuck dele e mais metade do elenco. Apesar de ser simples de usar e causar muito dano, o arrombado possui os piores combos infinitos do jogo e se ele for pego num combo do oponente ele tem mais chance de ganhar na [[Mega-Sena]] do que sobreviver.
+|}
+===''<s>kkk</s> Low Tier''===
+{|
+| [[Arquivo:MrHeart2005.gif]]
+| '''Mr. Heart''' - Ninguém sabe exatamente o porquê de Heart estar no jogo. No mangá ele é pouco mais que um vilão da semana que aparece e que pega Kenshiro de surpresa por ser extremamente obeso. Aqui ele é um ''grappler'' que se move mais devagar que Raoh e que apesar de ter algumas opções ofensivas e defensivas, é considerado o segundo pior personagem do jogo. Ele possui o único ''Fatal K.O.'' do jogo que não pode ser combado e se o oponente decidir dar uma de [[Akuma]] e ficar pulando e usando hadugi não tem muito que ele possa fazer.
+|}
+
+{|
+| [[Arquivo:Jagi2005.gif]]
+| '''<s>Jegue</s> Jagi''' - Pior personagem disparado, basicamente o [[Dan Hibiki]] da parada. Não está claro se ele foi feito para ser um personagem ''piada'' ou se os desenvolvedores realmente pensaram que ele tinha algum semblante de utilidade. Especula-se que ele era pra ser um personagem de ''setup'' e armadilha, tipo o Juda, mas todos os seus golpes que tem a ver como isso são uma merda. Para ganhar de Jagi você precisa se arriscar muito e andar sempre com um revólver carregado com uma bala na cintura, o que garante que qualquer [[otaku]] de rua que saiba fazer alguma coisa com um dos top tiers perca a virgindade comendo seu rabo.
+|}
+
+==Galeria das Estrelas de Hokuto==
+<gallery>
+Imagem:Toki Win.png|A tela mais comum de se ver no jogo.
+</gallery>
+
+{{Hokuto no Ken games}}
+{{Game Fight}}
+
+[[Categoria:Jogos da Arc System Works]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos lançados em 2005]]

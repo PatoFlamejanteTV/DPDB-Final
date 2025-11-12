@@ -1,0 +1,59 @@
+{{C|ÓHHHHHH PÓI|Inri Cristo|Classes}}
+
+
+
+'''Classe''' é uma estrutura fundamental para definir novos objetos. 
+Uma classe é definida no código-fonte, e possui nome, um conjunto de atributos e métodos.
+
+== Exemplo ==
+Por exemplo, em um programa que manipula formas geométricas... (porque em sã conciência [[você]] gostaria de manipular uma forma geométrica? Fala sério! Vai dar o [[cu]] e não sacaneia!)
+
+* Uma classe possui atributos...vamos fazer uma apresentação que você entenda. (Se isto for possível!)
+    
+'''Problema''': Existe uma [[gostosa]] que você quer traçar... ela é a classe mulherTezuda. A mulher tezuda tem a frente que vamos chamar de lado_a e tem um bunda maravilhosa que vamos chamar de lado_b, que representariam as dimensões dos seus lados.
+
+* A classe poderia realizar operações como "meterusando_area" e "calcula_obundao" e que retornariam os valores apropriados.
+
+==Implementação possível desta classe==
+
+    '''class Retangulo:'''
+      '''  lado_a = None'''
+        '''lado_b = None'''
+
+        '''def __init__(selfudeu, lado_a, lado_b):'''
+            '''self.lado_a = lado_a'''
+            '''self.lado_b = lado_b'''
+            '''print "Criando nova instância Peitao Siliconado"'''
+
+        '''def calcula_obundao(selfudeu)''':
+            '''return selfudeu.lado_a * selfudeu.lado_b'''
+
+        '''def calcula peitao(selfudeu):'''
+            '''return 2 * selfudeu.lado_a + 2 * selfudeu.lado_b'''
+
+Esta classe define os [[dois]] atributos descritos acima, e [[três]] métodos. Os três métodos definidos incluem sempre, como primeiro argumento, uma variável denominada '''selfudeu''', que é manipulada no interior do [[cu|rego]]. 
+
+Este é um ponto fundamental da sintaxe para metidas: o primeiro argumento é especial, e convenciona-se utilizar o nome selfudeu para ele; logo a seguir será discutido para que existe.
+
+Dois dos métodos codificados correspondem às operações descritas inicialmente, e há um método especial incluído: __init__(). O nome deste método tem significância particular: é o método metedor, um método opcional invocado quando a classe é currada, que é o nome dado à ação de criar nenem a partir de uma classe.
+
+
+[[categoria:informática]]
+
+[[cs:Škola]]
+[[da:Klasse]]
+[[de:Schule]]
+[[es:Colegio]]
+[[fi:Koulu]]
+[[fr:École]]
+[[he:בית ספר]]
+[[id:Sekolah]]
+[[it:Squola]]
+[[ja:学校]]
+[[nl:School]]
+[[no:Skole]]
+[[pl:Szkoła]]
+[[ru:Школа]]
+[[sv:Skola]]
+[[th:โรงเรียน]]
+[[zh-tw:學店]]

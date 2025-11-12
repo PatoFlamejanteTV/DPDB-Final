@@ -1,0 +1,45 @@
+{{Info_circuito|
+|nome               = Сочи Автодром
+|logotipo           = Sochi Autodrom logo.png
+|imagem_circuito    = Circuit Sochi.png
+|tamanho_imagem     = 300px
+|legenda            = Pista moderna e sem graça
+|inauguração        = 21 de setembro de 2014
+|localização        = {{RUS}} - [[Sochi]]
+|arquiteto          = [[Hermann Tilke|O de Sempre]]
+|principais_eventos = [[Formula 1]] e seja lá mais o que se faça na Rússia com pistas
+<!-- Opcional -->
+|evento1            = [[Formula 1]]
+|percurso           = 5,853 km
+|maior_vencedor     = [[Lewis Hamilton]] (2)
+|melhor_volta       = [[Nico Rosberg]] (1min 39s 094)
+}}
+
+'''Sochi Avtodrom''', ou '''Autódromo de Sochi''' em português claro, é um circuito localizado na cidade de [[Sochi]] (não me diga!), sendo construído lá por acidente porque Putin achou que Formula 1 era um dos esportes olímpicos de inverno e que portanto ele era necessário para os [[Jogos Olímpicos de Inverno de 2014]]. Porém, uma vez construído, teve que ser usado, aí tornou-se um dos circuitos da Formula 1.
+
+== Histórico ==
+
+Há registros de que houveram duas edições de Formula 1 em [[São Petersburgo]], na Rússia, nos anos de 1913 e 1914, mas isso é mera especulação porque naquela época nem os carros e nem a [[Reversal Russa]] haviam sido inventados ainda, e provavelmente era uma corrida de trenós no gelo que faz aquela cidade.
+
+Desde 1980 sempre houveram tentativas de levar a Formula 1 para a [[União Soviética]], porém este antigo sonho de [[Bernie Ecclestone]] demorou para ser realizado, por ser um país comunista e ter suas próprias metodologias de debates, dizendo que não é a Formula 1 que vai até a Rússia, mas a União Soviética que corre em VOCÊ!! Bernie Ecclestone então teve filhas, viu elas cresceram e se tornarem umas baitas de umas gostosas, ele ficou com cara de maracujá chupado e só em 2014 conseguiria sua primeira corrida na Rússia.
+
+O histórico do desejo pelo GP da Rússia passa por 2009, quando até criaram a [[Moscow Raceway]], mas devido a neve a F1 nunca chegou lá, havendo corridas apenas de categorias que ninguém se importa e ninguém assiste, como a [[Formula Renault 3.5 ]] e a [[Eurocup Formula Renault 2.0]].
+
+Tudo mudou quando em 2010, um barbeiro originário da cidade russa de [[Vyborg]], chamado [[Vitaly Petrov]], foi anunciado como o primeiro piloto de formula 1 soviético, aquecendo assim os ânimos de criar uma pista na Rússia, e ainda coincidindo com as olimpíadas de inverno de Sochi em 2014, o governo russo decidiu estabelecer sua hegemonia e criar o seu circuito. No final das contas, na verdade era para ser chamado de [[Abecásia|GP da Abecásia]], mas isso é outro assunto sócio-político.
+
+== Circuito ==
+
+O Autódromo de Sochi é considerado desafiador pelos pilotos, possui retas longas mas embora esteja construído no meio do nada ([[Abecásia]]) tenta copiar o [[GP de Mônaco]] enfiando muros em todo circuito ao invés de áreas de escape ou proteções de pneus no final das curvas. A ideia era fazer uma pista larga para facilitar mais ultrapassagens, algo que não acontece porque [[Hermann Tilke|algum gênio]] decidiu que todas as curvas do traçado do circuito tivessem 90º de ângulo, o que obriga todos a frearem muito em todas curvas, não dando oportunidade para ultrapassagens, a não ser que seja uma [[Minardi]] ou suas sucessoras ([[Marussia]], etc) aí essas dá para ultrapassar tranquilo.
+
+O único ponto de ultrapassagem é a Curva 2 após a [[Galvão Bueno|reta dos boxes que na verdade é uma curva (a Curva 1)]]. Depois os pilotos fazem as traiçoeiras Curvas 3 e 4 também chamada de “Curva da Bundinha” devido ao formato de seu desenho e também ao fato de a força centrífuga empurrar os carros para fora da pista como se a bunda estivesse soltando uma bufas. Infelizmente poucos acidentes ocorreram nessa curva, ao contrário da expectativa.
+
+Começa então uma sucessão de curvas em 90º ou 45º, desde a Curva 5 (Curva do Trololó) até a Curva 11 (Curva Ivan Drago).
+
+As Curvas 12 e 13 são chamadas de “A Curva que Vira VOCÊ” porque na [[União Soviética]] não é você que vira na curva, mas a curva que vira VOCÊ!!, o que quer dizer que sua pequena acentuação permite curvas de alta velocidade quase imperceptíveis, até chegar na Curva 14 (Curva Rasputin) e repetir mais um monte de curvas em 90º (que tentam imitar Mônaco) até a última curva do circuito, também de 90º, a Curva 19 (batizada extraoficialmente como Curva Eduard Khil, cuja mundialmente famosa canção, grande sinônimo de vitória e alegria, combina com a reta de chegada).
+
+{{Circuitos f1}}
+
+[[Categoria:Autódromos da Fórmula 1]]
+[[Categoria:Autódromos da TCR International Series]]
+[[Categoria:Autódromos da MotoGP]]
+[[Categoria:Autódromos da Rússia]]

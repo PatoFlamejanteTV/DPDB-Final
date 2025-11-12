@@ -1,0 +1,22 @@
+{{Fato|O [[Servidor da Desciclopédia|servidor da Desciclopédia]] usa IPv6 e mesmo assim continua [[Rubens Barrichello|lento]]?}}
+{{cgoogle|IPv4 2.0}}
+{{cgoogle|a5:f7:de:b1:66:6c}}
+
+{{c|Eu sempre quis ser um IP assim|IPv4|IPv6}}
+
+[[Arquivo:Small network.jpg|thumb|Exemplo de rede local em IPv4 com o máximo de computadores que ela pode suportar.]]
+'''IPv6''' é o brother mais velho do [[IPv4]] que irá substituí-lo antes do fim do mundo em [[2012]]. Originalmente essa tarefa seria dada ao seu irmão mais novo, o IPv5, mas infelizmente este faleceu no sétimo dia vitima de afogamento com o leite materno da mãe, dona [[IETF]] e seus restos mortais foram enterrados na capela do [[MPLS]].
+
+==O vem por aí==
+O objetivo do IPv6 é acelerar a internet que tem sofrido lentidões extremas devido ao atrasado padrão IPv4. Com o IPv6, os [[brasileiro]]s poderão baixar filmes pornôs longa-metragem inteiros em Full-HD com apenas 2 minutos em uma conexão discada de 28 Kbps e poderão baixar a internet inteira com em 6 minutos e meio com uma conexão de 6 Mbps.
+
+==Como decorar 1 IPv6==
+Basicamente não há técnica, ou você consegue, ou você não consegue, o que facilita a separação entre os n00bs da internet e os verdadeiros [[Cyberchase|sr. Hacker]]s da internet. IPv6 dessa forma servirá para excluir os n00bs da internet e dessa forma desfazer a maldita [[inclusão digital]] idealizada pelo presidente [[Lula]] que estragou a internet do [[Brasil]] e do mundo.
+
+[[Arquivo:Big network.jpg|thumb|Exemplo de rede mundial em IPv6 com o mínimo  de computadores que ela pode suportar.]]
+
+==Futuro um pouquinho distante do IPv6==
+{{futuro}}
+Em 3022, ocorrerá o esgotamento total dos IPv6 quando os seres humanos tiverem expandido suas colonias para todos os planetas da [[Via Láctea]] e mais 42% de [[Andrômeda]] e o total de computadores (cada um com um IP pois [[NAT]] é para os fracos) tiver atingindo 2<sup>128</sup>, o IPv6 será substituído pelo IPv8 (IPv7 fracassou devido a [[Nona Guerra Mundial]] ocorrida na terra).
+
+O IPv8 terá um espaço de endereçamento um pouquinho maior que o IPv6, cerca de 32768bits (enquanto o IPv4 tem um de -31: tão ruim que nem é múltiplo de 2) e poderá suportar até 2<sup>273473837489201221289089708868756568152721352537270547258322785403425234666342211</sup> IPs diferentes, o que os físicos estimam ser suficiente para dar 100 IPs para cada computador de cada planeta e estrela de cada universo e ainda sobrar metade.

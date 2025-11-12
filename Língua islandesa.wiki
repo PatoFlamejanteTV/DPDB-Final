@@ -1,0 +1,92 @@
+{{c|Isso non ecziste.|Padre Quevedo|a língua islandesa}}
+
+{{c|Ferðu þangað?|Elliot|a língua islandesa}}
+
+{{c|Við mótmælum allir!|Jón Sigurðsson|a língua islandesa}}
+
+{{c|Eu tenho medo...|[[Regina Duarte]]|a língua islandesa}}
+
+{{c|Entendeu, ou o quê?|[[Völuspá]]|a língua islandesa}}
+
+{{Info língua
+|Nome     = Islandês
+|Nome2    = Íslenska
+|Local    = [[Islândia]], [[Asgard]] e [[Svartalfheim]]
+|Falantes = 58
+|Genetica = Indo-europeu<br />Germânico<br />[[Viking|Bárbaro]]<br />Bárbaro Ocidental<br />'''Islandês'''
+|SIL      = is
+|Cor      = #DDFFDD
+}}
+
+'''Língua islandesa''' é o idioma [[bárbaros|bárbaro]] [[tr00]] falado na [[Islândia]] por cerca de 54 pessoas. É uma língua sintética, o que significa que as palavras podem adquirir centenas de formas diferentes dependendo do contexto sintático, semântico, fonológico, e da fase da lua. O islandês é notável por não ter mudado praticamente nada desde o século 12. Isto se deve ao fato de a Islândia ser um país muito gelado, o que reduz a velocidade das reações químicas.
+
+== Ortografia ==
+
+O alfabeto islandês é composto pelas seguintes letras:
+
+A Á B (C) D Ð E É F G H I Í J K L M N O Ó P (Q) R S T U Ú V (W) X Y Ý (Z) Þ Æ Ö
+
+As letras entre parênteses só podem ser usadas durante o Solstício de Inverno.
+
+O islandês é a única língua viva que utiliza a letra "þ" (chamada ''[[Pornô|þorn]]'' "espinho") em seu alfabeto. Para pronunciá-la, coloque a ponta da língua entre os dentes e morda-a o mais forte possível, enquanto tenta pronunciar um "s", com um braço nas costas. A letra "ð" (chamada ''eð'', que não significa nada) é a versão sonora (ou, como preferem alguns, vozeada) do "þ", o que quer dizer que é pronunciada com o mesmo procedimento, mas com um gemido saindo da garganta.
+
+Quando as letras ''p'', ''t'' e ''k'' aparecem duplicadas (''pp'', ''tt'', ''kk''), elas são precedidas de uma aspiração conhecida em islandês como ''lítill hnerri'', ou "pequeno espirro".
+
+== Gramática ==
+
+=== Substantivos ===
+
+[[Arquivo:Carry on.jpg|thumb|right|185px|Típico falante da língua islandesa.]]
+
+Os substantivos islandeses podem ser de três gêneros (masculino, feminino e <s>bissexual</s> neutro), e são declinados em dois números (singular e plural) e quatro casos (nominativo, genitivo, dativo e acusativo). Além disso, o artigo definido é aglutinado no final da palavra ([[ou não]]), o que nos dá 16 formas diferentes para cada substantivo.
+
+Apesar de parecer difícil à primeira vista, é muito simples declinar um substantivo em islandês. Basta conhecer as regras. Por exemplo, a terminação ''-ur'' indica o nominativo singular de um substantivo masculino da primeira declinação, ou o nominativo plural de um substantivo feminino da primeira declinação, ou o genitivo, dativo e acusativo de um feminino da terceira declinação, ou o nominativo plural de um neutro, ou... pois bem.
+
+=== Adjetivos ===
+
+O islandês é único entre as línguas do mundo, em que é mais difícil declinar um adjetivo do que conjugar um verbo. Como o adjetivo tem que concordar em gênero (3), número (2) e caso (4) com o substantivo, e ainda pode aparecer em sua declinação forte ou fraca, cada adjetivo islandês tem 48 combinações possíveis desses fatores, mais as formas comparativas e superlativas. Na verdade esse número dá uma ideia falsa da língua, já que muitas dessas formas são idênticas. O que no final das contas torna tudo mais difícil, já que você tem que se guiar pelo contexto para saber qual é a forma em questão.
+
+Você pode consultar uma tabela com a declinação completa do adjetivo ''góður'' (bom) [http://bin.arnastofnun.is/leit.php?q=g%C3%B3%C3%B0ur aqui].
+
+=== Verbos ===
+
+Ao contrário do que acontece em [[português]], o verbo é a parte mais fácil da gramática islandesa. Existem 3 pessoas, 2 números, 2 tempos (presente e passado), 2 modos (indicativo e subjuntivo) e uma dúzia de tempos compostos que dão conta dos outros casos. O único problema é descobrir a que conjugação pertence cada verbo, já que todos terminam em ''-a'' no infinitivo. O outro problema é que ninguém sabe ao certo quais são as conjugações, a versão mais aceita sendo de que existem seis classes de verbos fortes, mais alguns verbos fortes que não se encaixam em classe alguma, mais quatro classes de verbos fracos. Isso além dos verbos da voz média, que alguns consideram uma classe separada. E há também os nossos velhos amigos, o ''ablaut'' e o ''umlaut'', que fazem o verbo mudar no meio, e não no final.
+
+É a classe de palavras mais simples da gramática islandesa.
+
+== Purismo linguístico ==
+
+O purismo linguístico é a política linguística oficial da Islândia desde que esta se conhece como tal, e é aceita [[lei marcial|de bom grado]] por toda a população islandesa. Essa política consiste em evitar a entrada de estrangeirismos na língua. Como consequência, palavras similares na maior parte das línguas europeias (e no resto do mundo) são completamente diferentes em islandês. Por exemplo, telefone, meteorologia e enciclopédia são, respectivamente, ''sími'', ''veðurfræði'' e ''alfræðirit''.
+
+Segundo alguns, o islandês é a língua mais pura do mundo, com apenas 16% de palavras de origem estrangeira. Existe, entretanto, um grupo de pessoas que está insatisfeito com um número tão grande de estrangeirismos, e promove o que eles chamam de [[Háfrónska]], ou "alto-islandês", cujo objetivo é eliminar todo e qualquer estrangeirismo da língua. Curiosamente, o iniciador do Háfrónska não é islandês, mas sim belga. Para mais informações, [http://www.languagehat.com/mt/mt-comments.cgi?entry_id=1879 leia este artigo].
+
+Tudo funciona da seguinte maneira; Inventam o telefone e chega um cara para o outro na
+universidade da Islândia e diz:
+{{C|Inventaram um bagulho aí que dá pra tipo bater papo com a outra pessoa, vamos chamar
+de que?, de telefone?}}
+
+{{C|Telefone o caralho, vamos chamar essa porra de ''sími'', que significa ''voz da consciência''}}
+
+e numa outra situação :
+{{C|inventaram um sexo de chupar, vamos chamar de sexo oral?}}
+
+{{C|minha rola que nós vai chamar essa porra de sexo oral, vamos chamar de ''Sérðiþrìstnú'',
+que significa ''Chupo pica de novinho''}}
+
+== Literatura ==
+
+O islandês é a língua em que foi escrita quase toda a literatura nórdica (na verdade foi em Old Norse, mas poucos notam a diferença), o que inclui poemas como a [[Völuspá]], que conta do início e do [[Ragnarök|fim]] do mundo, e sagas, como a Saga de Erik, o Vermelho, a [[Saga do Santuário]], e a [[Völsunga saga]], que foi <s>plagiada</s> usada por [[J.R.R. Tolkien]] como inspiração para o [[Senhor dos Anéis]] (com a diferença de que a Völsunga saga é interessante).
+
+Além disso, é graças a essa literatura que sabe-se o nome do [[Martelo Mjölnir|Martelo de Thor]], fato que alguns utilizam como argumento para o uso do mesmo ao invés da cruz na bandeira da Islândia [http://en.wikipedia.org/wiki/File%3AFani2.jpg].
+
+== Ligações externas ==
+
+*[http://br.youtube.com/watch?v=n3aV0ZAU-bo Á íslensku] (com legendas em inglês)
+
+{{Línguas}}
+
+[[Categoria:Línguas da Islândia]]
+[[Categoria:Línguas|Islandes]]
+
+[[la:Lingua Islandensis]]
+[[zh:冰岛语]]

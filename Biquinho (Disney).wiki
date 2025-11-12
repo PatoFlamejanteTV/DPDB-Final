@@ -1,0 +1,59 @@
+{{ave}}
+{{ampliar}}
+{{Crianças retardadas}}
+{| class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+|-
+!style="text-align:center; {{{comic_color}}}"|<big>'''''Biquinho'''''</big>
+|-
+|style="text-align: center; font-size: 90%;"|
+<br />
+|-
+|[[Arquivo:Biquinho Pato.jpg|center|220px]]
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+|- style="vertical-align: top;"
+|'''''Nome Real'''''||''Biquinho''
+|- style="vertical-align: top;"
+|'''''Cidade'''''||''[[Patópolis]]''
+|}
+|-
+|
+----
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+!colspan="2" style="text-align:center;{{{alliance_color}}}"|Características
+|- style="vertical-align: top;"
+|'''''Inteligência'''''||''{{033}}''
+|- class="hiddenStructure{{{alliances}}}" style="vertical-align: top;"
+|'''''Afiliações'''''||''[[Ah, sei lá!]]''
+|- class="hiddenStructure{{{relatives}}}" style="vertical-align: top;"
+|'''''Parentes'''''||''[[Peninha]], o [[seu tio engraçadão]]''
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''''Inimigos'''''||''[[Qualquer um]]''
+|- style="vertical-align: top;"
+|'''''Poderes'''''||''Ser chato pra caralho!''
+|}
+|}
+
+'''Biquinho''' é, como toda a criança no mundo Disney, um sobrinho que mais parece filho, no caso dele, é do Peninha. Na França, ele é conhecido como "[[Gay|Bicha]]", e na Itália ele é conhecido pelo nome do <s>pai</s> tio<ref>{{citar web |url=http://www.disneypedia.com.br/personagens/biquinho/ |título=http://www.disneypedia.com.br/personagens/biquinho/ |arquivourl=http://archive.is/20120917/http://www.disneypedia.com.br/personagens/biquinho/ |arquivodata=2012-09-17}}</ref>. Ele nasceu em 1982, e na época ele não tinha cor nenhuma, sendo que os desenhistas que criaram ele foram preguiçosos e deram este trabalho pras crianças.
+
+Um fato curioso sobre ele é que ele só sabe dizer não para as perguntas que o tio Peninha lhe faz. Se o tio lhe pergunta se ele quer tomar achocolatado, ele diz não. Se ele manda fazer a lição de casa, ele diz não. A sorte do Biquinho é que o Peninha nunca lhe perguntou se ele era [[heterossexual]].
+
+Fora isso e o fato de ter penas e bico, ele é como qualquer menino da mesma idade: É retardado e apronta cada uma que é melhor nem contar aqui.
+
+== História  em vídeo ==
+{|align=center
+|<YouTube>
+title=veja uma história do peninha no Youtube
+movie_url=http://www.youtube.com/watch?v=YsNSNVUKLfo
+embed_source_url=http://www.youtube.com/v/YsNSNVUKLfo
+width=425
+height=344
+</YouTube>
+|}
+
+
+{{ref-section}}
+{{disney}}
+
+[[Categoria:Patos]]

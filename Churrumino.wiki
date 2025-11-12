@@ -1,0 +1,70 @@
+{{Animal}}
+
+{{taxocaixa
+| cor             = lightgreen
+| nome            = Churrumino
+| imagem          = Mosca Da Sopa.jpg
+| imagem_legenda  = Um churrumino. Ou uma [[mosca]], vai saber.
+| reino           = [[Animalia]]
+| filo            = [[Arthropoda]]
+| classe          = [[Insecta|Insepto]]
+| ordem           = [[Diptera]]
+| subordem        = [[Brachycera]]
+| família         = Chirilofos
+| gênero          = '''Churrumynum'''
+| espécie         = ''Churrumynum chavodelochi''
+| binomial        = Churrumynum chavodelochi <sup><small>[[Chaves]], 1979</small></sup>
+| trinomial       = 
+}}
+
+{{cgoogle|Chirilofos}}
+
+{{c|Ah, isso é uma mosca!|Chiquinha|churrumino}}
+
+{{c|É um churrumino; é que ele se disfarçou de mosca.|Chaves|a citação acima}}
+
+{{c|Estou caçando churruminos!|Chaves|a citação acima}}
+
+{{c|Moleque pirado!!!|Seu madruga|Chaves}}
+
+'''Churrumino''' é o nome popular da espécie ''Churrumynum chavodelochi'', um [[artrópode]], da mesma família dos '''Chirilofos'''.
+
+A espécie ficou conhecida nos episódios do seriado mexicano depois que [[Seu Madruga]] e [[Quico]] foram dispensados do programa. Os churruminos entraram para subistituir as vagas deles, o que não deu muito certo, fazendo com que [[Seu Madruga]] fosse recontratado mais tarde.
+
+== Morfologia ==
+Os churruminos são capazes de disfarçar-se de outros artrópodes, sobretudo [[mosca]]s. 
+
+São bastante parecidos com os '''Chirilofos'''. A aparência natural, porém, é de [[nada]].
+
+== Habitat ==
+A existência ([[ou não]]) dos churruminos foi apresentada ao mundo por uma famosa série de TV, o que faz com que o senso comum acredite que ele pode apenas ser encontrado em abundância na imaginação do [[Chaves]] e que um churrumino, no mundo real, nunca foi encontrado em sua aparência natural, apenas disfarçado de mosca.
+
+Contudo, por motivos óbvios, são esquecidos alguns seres humanos ([[ou não]]) que habitam terras conhecidas apenas mitologicamente ou através da ficção. É o caso dos habitantes de [[Atlântida]], da Terra dos Dragões e do [[Acre]], terras cuja existência é apenas um mito.
+Considerando então a opinião de emigrantes daquelas terras, lá esses animais são abundantes e vivem em total harmonia com os outros [[animais]] de lá.
+
+[[Arquivo:Churrumino.jpg|right|thumb|200px|Churruminos se reproduzindo]]
+
+== Reprodução ==
+Segundo o Chaves, os churruminos se casam com as churruminas, originando churrumininhos. Isso significa que a reprodução é sexuada. Para atrair os machos, as churruminas ficam voando em círculos.
+O ritual de acasalamento dos Churruminos tornam a raça um ícone global, um símbolo da [[sexo|sexualidade]]. A forma como suas asas batem causam uma hipnose profunda em suas fêmeas, deixando-as em alto estado de excitação. Antes, acreditava-se que apenas os [[golfinhos]] e os [[humanos]] faziam [[sexo]] por prazer. Agora, os churruminos revolucionaram a ideia que fazíamos de [[prazer]], trazendo uma longa história biológica e esculachando o [[Kama Sutra]] e o [[RedTube]].
+
+== Utilidade para os seres humanos ==
+Um churrumino pode ser colocado em um alimento em um restaurante, tornando-o gratuito.
+
+==Curiosidades==
+*Somente os inteligentes são capazes de ver um churrumino.
+*[[Chaves]] já matou sua fome com um churrumino.
+*Um [[violão]] tem cinco cordas.
+*O papa é argentino...
+*As pessoas boas devem amar seus inimigos.
+*A vingança nunca é plena, mata a alma e envenena.
+*Existe um blog chamado [http://churruminos.tumblr.com/ Churruminos!] Mas o que te importa?
+
+{{c|COMA TORTA!!!|Kiko|o que te importa.}}
+
+== Ver também ==
+*[[Chaves]]
+*[[Mosca]]
+*[[Artrópode]]
+
+{{Chaves2}}

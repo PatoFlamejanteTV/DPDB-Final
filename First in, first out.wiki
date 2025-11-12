@@ -1,0 +1,20 @@
+{{computeiro}}
+[[Arquivo:EstatuaFila.jpg|thumb|300px|O primeiro que entra é o primeiro a sair, mas talvez o último nunca saia]]
+Apesar de o nome parecer com uma dessas bandas [[indie]]s sofríveis que só [[hipster]] gosta, '''''first in, first out''''' é uma [[estrutura de dados]], cuja sigla é '''FIFO''' (mas não confunda com aquele velho de [[A Praça é Nossa]], que não queria comer a [[Edna Velho]] por ser um velho bobão, babão<s> e bundão</s>). Em uma linguagem mais usuarizada, first in, first out é uma fila de dados, ou seja, o primeiro que entra é o primeiro a sair, igual a uma suruba casual de fim de semana. No entanto, nem sempre a fila é completada. Às vezes o último da fila espera, espera, espera e nunca é processado, igual brasileiro em fila de banco.
+
+== Estrutura ==
+
+Apesar de ser algo mais a ver com a programação, a estrutura de dados FIFO pode ser usado também na [[engenharia da computação]], na [[arquitetura de computadores]] e na ginástica rítmica. A estrutura é simples, vai ser difícil enrolar para o artigo não ficar tão "esboçal", mas vamos tentar explicar da maneira mais retardada possível e assim aumentar esse artigo.
+
+A estrutura de dados first in, first out começa do [[zero]], obviamente, como tudo nessa vida começa no zero, mas logo começam a aparecer os primeiros dados. O primeiro dado que aparece fica na frente, o segundo dado que aparece fica na segunda posição, o terceiro dado na terceira posição, o quarto na quarta posição e assim até o [[infinito]]. Depois, na hora de sacar os dados, o primeiro a ser removido é logo o dado da frente, o segundo a ser removido é justamente o segundo da ordem, o terceiro a ser tirado é o terceiro, e assim até que não surjam dados. Mas enquanto vai surgindo dados, o saco prossegue.
+
+A estrutura de dados first in, first out pode ser síncrona ou assíncrona. No modo síncrono usa um mesmo ''clock'' (relógio registrador, não confundir com o ''clock'' da [[CPU]]) para ler e editar. No modo assíncrono, como o próprio nome diz, é uma bagunça do caralho. A verdade é que a estrutura de dados FIFO só serve mesmo pra assunto de aula porque na prática é meio lesada.
+
+== Ver também ==
+
+*[[Last in, first out]]
+*[[Árvore de dados]]
+
+[[Categoria:Engenharia da computação]]
+[[Categoria:Estrutura de dados]]
+[[Categoria:Programação]]

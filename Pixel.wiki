@@ -1,0 +1,61 @@
+{{Logotipo falso|Pixelpedia2.JPG}}
+[[Arquivo:Caixa pixel.jpg|thumb|Pixels envergonham os mais jovens.]]
+
+
+{{Experimente|[[Microsoft Paint]]}}
+
+{{C|It's Me!|Mario|Pixel}}
+
+{{C|Eu faço pixeis redondos|Chuck Norris|Pixel}}
+
+{{C|Isso non ecziste|Padre Quevedo|Pixel}}
+
+{{C|É verdade que existem sub-pixels?!|[[Estagiário]] de gráfica|Pixel}}
+
+{{C|por que seu msn é melhor que o meu|Internauta|Pixel}}
+
+'''Pixel''' (Picture & Elements [Fogo, terra, água, vento<s>, coração, pela união de seus poderes eu sou capitão planetaaaa</s>]) é tudo aquilo que compõe um objeto quando ele entra em contrato com a luz e é refletido na retina, logo Pixel é a '''unidade básica do universo''', com sua descoberta logo após o advento do [[Paint]] mudou-se a organização da criação de todo o ser para:
+
+Pixel - Célula - Tecido - Órgão - Sistema - Organismo
+
+==Propriedade de um Pixel==
+[[Arquivo:Mario8bit.jpg|right|thumb|Exemplo de forma de vida básica formada por pixeis, ou pixels?]]
+
+*Sua forma básica é o [[quadrado]];
+*Ele é indestrutível, apenas alterável;
+*Um pixel não é destruído, ele muda para a mesma cor do cenário;
+*Na [[Monitor|tela]] nada é destruído, nada é criado, somente pixels alterados;
+*Ele ocupa 3 [[bytes]], logo 4 pixels ocupam 12 bytes;
+*Se ele tiver transparência, ocupa 4 [[bytes]], mas se for pixel de PC gamer pode ter [[É de mais de oito mil!|mais de 8 mil]];
+*Ele não possui núcleo pois não é uma célula;
+*Na ponta de uma agulha cabem 10 pixels(ou mais dependendo da câmera e da distância que se olha);
+*O [[cérebro]] de uma loira possui 1 pixel;
+*Por ser formadas por quadrados, círculos, cones, [[sua mãe]] e quaisquer objetos cilíndricos são poligonais;
+*A densidade de um pixel é D=m/v;
+*A velocidade de um pixel em movimento no vácuo é igual a velocidade de um pixel em movimento num ambiente sem [[ar]];
+*Pixel é a única coisa do universo que é 2D em todas as três dimensões;
+*Fórmula da [[área]] de um pixel a²;
+*Uma câmera de 10 MP mirando a 10 cm de uma superfície pode obter imagens cujos pixels são menores que 40000 nanômetros;
+* Há mais pixels entre o topo e o chão da fase 3 de Vectorman 2 do que sonha nosso vão sprite.
+==Mas e as imagens vetoriais?==
+
+[[Arquivo:Atomic explosion - 1.jpg|left|thumb|300px|Tentativa de fazer um pixel redondo]]
+[[Arquivo:Pateta1.png|right|thumb|Exemplo de um pateta pixelizado]]
+Muitos dizem que imagens vetoriais são melhores por não precisarem de pixeis e poderem fazer círculos redondos de verdade, mas isso é uma mentira, pois:
+
+#Eles são feitos segundo um cálculo matemático;
+#Números são feitos de pixels;
+#Logo, imagens vetoriais são feitas de pixeis.
+#E o pixel redondo é relativamente caro de ser fabricado. Ao fabricar um pixel redondo, é consumido cerca de [[mol|6,03x10²³]] bilhões de dólares por unidade. (Um monitor com a resolução de 800x600 consome 480000 pixels quadrados, imagine quanto você não pagaria por essa resolução com pixels redondos...)
+#Já foi tentado fazer pixels redondos a partir de pixels quadrados, o que falhou, pois o resultado foi uma bosta colorida.á
+
+{{c|Errado, Figuras vetoriais são feitas de pontos chamados Âncoras ou Nós. Elas são exibidas como pixels, mas são armazenadas como pontos.|Nerd|o que foi dito acima}} 
+{{esboço}}
+
+[[Categoria:Ciência]]
+
+[[de:Pixel]]
+[[en:Pixel]]
+[[eo:Rastrumero]]
+[[fr:Pixel]]
+[[hu:Pixel]]

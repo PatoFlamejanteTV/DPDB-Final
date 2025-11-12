@@ -1,0 +1,45 @@
+{{ver desambiguação2|o jogo|o protagonista homônimo do mesmo|Captain Commando (personagem)}}
+{{Jogos Antigos}}
+{{Infobox Game
+|title     = Capitão Comendo
+|image     = Captain Commando capa.png
+|caption   = A capa do jogo
+|developer = <s>[[Marvel]]</s> [[Capcom]]
+|publisher = Capcom
+|released  = [[1991]]
+|genre     = [[Beat'em up]]
+|rating    = Bom ([[ou não]])
+|platform  = [[Arcade]]
+|ages      = Todas
+}}
+'''Captain Commando''' é um desses joguinhos de [[beat'em up|briga de rua]] criados pela [[Capcom]]. Assim como todos os outros, ele pega embalo na onda de [[Final Fight]] e reaproveita diversos elementos que foram introduzidas pela franquia. Aliás, a falta de criatividade em Captain Commando foi tanta que até a localidade onde se passa a história do jogo foi copiada de Final Fight.
+==História==
+O enredo é ambientado em [[Metro City]], a mesma cidade de Final Fight, mas no futuro. O ano é [[2026]] e Captain Commando trata-se do mais novo super-herói do pedaço, substituindo o prefeito bigodudo aposentado [[Mike Haggar]] no posto de cidadão mais ilustre. 
+
+Tudo corria às mil maravilhas, até que surge um cientista louco chamado [[Scumocide]] vindo da puta que pariu, cujo desejo é realizar experimentos científicos maléficos para dominar não somente o mundo, mas também o universo inteiro. Cabe então ao Captain Commando reunir-se com os melhores heróis da galáxia para formar um time encarregado de impedir que o vilão realize seus planos.
+
+==Personagens==
+[[Arquivo:Captcomm creditwalk.gif|thumb|right|200px|Team Commando plagiando aquela famosa foto dos [[Beatles]] atravessando a rua.]]
+*'''Captain Commando''' - O líder da equipe, é um sujeito [[Johnny Bravo|loiro topetudo boa pinta de óculos escuros]]. Graças a suas tecnológicas luvas de energia, ele consegue disparar golpes elétricos e flamejantes. Segundo a Capcom, é um personagem forte, atlético e inteligente.
+*'''Baby Commando''' - Um super-bebê criado geneticamente em laboratório. Tem apenas dois anos de idade, mas é ágil e poderoso como nenhuma outra criança xexelenta da sua idade poderia ser. O pirralho é tão esperto que construiu sozinho uma armadura mecânica que solta mísseis e aplica golpes de luta livre nos oponentes.
+*'''Mummy Commando''' - Uma múmia alienígena aidética com mais de dois metros de altura que luta com um par de facas. É considerado o personagem com maior força física da equipe.
+*'''Ninja Commando''' - É o [[amante|melhor amigo]] do Captain Commando. Luta utilizando [[shuriken]]s e uma espada, sendo faixa preta em [[ninjutsu]]. É o personagem mais sem graça de todos, criado apenas por modinha dos jogos da época, que sempre tinham que ter um ninja genérico.
+
+==Jogabilidade==
+[[Arquivo:Captcomm-arc stage1 cap-ninja001.png|thumb|right|200px|Captain e Ninja agredindo covardemente artistas de rua transformistas.]]
+Quase tudo é simplesmente idêntico a Final Fight, desde os controles até os golpes e movimentos dos personagens. A principal diferença é que ao invés de enfrentar bandidos humanos, Captain Commando e seu grupo precisam lutar contra robôs, ninjas, mutantes, alienígenas, samurais e muito mais criaturas bizarras. 
+
+Claro que seria muita cretinice da Capcom não introduzir nenhuma novidade na jogabilidade para realmente diferenciar Captain Commando de Final Fight, então foram introduzidos personagens inimigos que pilotam robôs gigantes estilo [[Megazord]]. O jogador então pode [[roubo|apropriar-se]] do robozão após derrotar seu dono e utilizá-lo para auxiliar em combate. Ao todo são três tipos de robôs: um que perfura, um que congela e um que lança chamas. 
+
+Outra notável diferença é que se o personagem estiver carregando alguma arma surrupiada dos inimigos ao terminar uma fase, ele pode continuar com ela durante a fase seguinte. Também foi adicionado um movimento de corrida extra, possibilitando de chocar-se contra o oponente. De qualquer forma, essas inovações toscas não salvam Captain Commando de ser considerado apenas uma versão futurista de Final Fight surubado com elementos de ficção científica.
+==Desenvolvimento==
+[[Arquivo:Captcomm talkstoleader.gif|thumb|right|200px|{{Aspas|In Commando we trust!}}]]
+Há uma explicação razoavelmente plausível para a falta de originalidade em Captain Commando. Acontece que o protagonista homônimo foi criado antes mesmo do jogo em si, sendo apresentado ao público com uma espécie de mascote da Capcom que aparecia nas embalagens e manuais de instruções dos jogos da empresa lançados para [[Nintendo Entertainment System]] entre [[1986]] e [[1989]]. 
+
+De tanto os moleques jogadores remelentos questionarem sobre aquele figurante aleatório, a Capcom decidiu que seria uma boa ideia criar um jogo próprio do Captain Commando para promovê-lo, e aí fizeram para [[arcade]] essa porcaria da qual trata este artigo. O jogo não chegou a ser um fracasso completo, mas fez bem menos sucesso do que era esperado, tanto que nunca ganhou continuação e teve até seu lançamento cancelado para alguns consoles domésticos. Mesmo assim, seus personagens foram reaproveitados posteriormente para encher linguiça na franquia [[Marvel vs. Capcom]].
+{{beatemup}}
+[[categoria:Jogos da Capcom]]
+[[categoria:Jogos para Arcade]]
+[[categoria:Jogos para PlayStation]]
+[[categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos lançados em 1991]]

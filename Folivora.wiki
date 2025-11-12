@@ -1,0 +1,69 @@
+{{Animal}}
+
+{{taxocaixa
+| nome            = bicho-preguiça 
+| cor             = Pink 
+| imagem          = Sloth.png 
+| imagem_legenda  = Típico Bicho Preguiça! 
+| reino           = [[Animalia|Animal]]
+| filo            = [[Chordata|Acordados]]
+| classe          = [[Mammalia|Mamadores]]
+| ordem           = [[Pilosa|Bilada]]
+|subordem         = [[Folivora|Vouembora]]
+}}
+
+{{vqd|Você?}} 
+{{vqd|Habitante de árvores?}} 
+{{c|Eles são preguiçosos!|Capitão Óbvio|Preguiça}} 
+{{c|Ah, vá! Sério?|[[Eu]] tendo um "pouquinho" de sarcasmo}} 
+
+'''Folivora''', subordem dos [[Tapado|bichos mais tapados]] conhecidos como '''bicho-preguiça''', são animais <s>que comem com o rabo</s> mais preguiçosos que você e [[mamíferos]], que amam uma teta, eles só são encontrados na <s>sua casa</s> [[América do Sul]] e [[América Central]].
+
+==Descobertas e estudos== 
+
+As [[Preguiça (Animal)|preguiças]] foram encontradas pela primeira vez em um bairro pouco povoado no oeste do [[Acre]], o qual nem tinha esse nome ainda e era totalmente habitado por [[índio]]s mais inteligentes que você, no ano de [[1495]] <s>a.c</s>, pelo animalógolo '''Cáfira Deu Pinto''', depois de anos de pesquisas e procuras nesse estado. 
+Desde o ano de [[1500]], depois da descoberta da América, o animalógolo descobriu várias coisas sobre o animal, sendo que [[ninguém]] se importa com isso. 
+O primeiro nome dado para esse animal foi em [[1506]], que foi o de '''Pintus Kudeu''', cujo seu nome verdadeiro científico é '''Preguysus Anymus''', recebido pelo preguiçólogo cubano '''Batitube Baticu''', no ano de [[1600]], junto a '''C'''ompania de '''A'''nimais '''C'''astrados e '''A'''ssexuados ('''CACA''').
+
+==Habitat== 
+
+Como eu disse, eles são animais que vivem na <s>sua casa</s> América do Sul e Central, pois é um animal que fala [[Portuñol]], pois ele é encontrado em países "hablantes" de [[Espanhol]] e o único e miserável país, chamado [[Brasil]], onde se localiza a sua casa, e é lá que ele vive. 
+
+==Anatomia==
+
+[[Arquivo:Preguiça sorrindo.jpg|thumb|Uma preguiça super carinhosa!]]
+
+O bicho preguiça é um [[animal]] <s>Ah, vá! Sério? Eu pensei que era você!</s> que faz parte <s>do exército</s> da superordem '''Xenarthra''' ({{c|xenarthra é a [[Tua mãe|sua mãe]] - Bicho preguiça para zoólogo}}), um grupo que apresenta como característica <s>a vontade em se movimentar ligeiramente</s> articulações extras nas vértebras lombares, as quais são ausentes nos outros [[mamífero]]s, pois eles não sabem fazer as belas manobras que a preguiça faz, elas são tão rápidas que não dá nem para ver. 
+Esses animais são mamíferos <s>héteros</s> eutérios, ou seja, apresentam placetas complexas que garantem o desenvolvimento <s>do pinto</s> embrionário do [[filhote]] dentro do [[útero]] da barriga da <s>preguiçosa</s> mãe. 
+As [[Preguiçoso|preguiçosas preguiças]] são animais <s>agressivos e mortíferos, cuidado!</s> inofensivos, são conhecidos por seus movimentos <s>[[safado]]s</s> lentos e seus hábitos <s>noturnos</s> arbóreos. 
+Comem folhas, umas até [[flor]]es, pois querem ser flores de um jardim e dançar como [[princesa]]s, têm dentes enormes que podem te comer e olhos grandes para te observar.
+
+==Comportamento== 
+
+[[Arquivo:Preguiça biba.jpg|thumb|A Folivora no seu típico comportamento!]]
+
+Eles são comportados, não correm pela casa, não quebram as coisas ao seu redor, mas sim ficam o dia inteiro [[Vagabundo|lentos e sonolentos]] em suas duras [[árvore]]s, pois são [[preguiçoso]]s que nem você, ao invés de estar lendo isso, por que não está fazendo alguma coisa que preste?
+
+==Alimentação== 
+
+Elas comem <s>você sem dó nem piedade</s> folhas e flores, também pessoas [[retardada]]s que estão lendo isso. Como a preguiça é preguiçosa, ela nem sai de sua [[árvore]] para comer, pois elas escolhem as que já tenham [[comida]], como a árvore [[Cecropia]] (Árvore-da-preguiça), é assim que vivem o resto de suas vidas feito [[Sedentário|sedentárias]].
+
+==Reprodução== 
+
+Elas são tão solitárias e tão lentas, que só arrumam um [[companheiro]] depois de uns 100 anos, 
+então por isso que essa espécie está ameaçada de [[extinção]] <s>e também porque tem pessoas que comem eles</s>. Na hora do [[acasalamento]], pode durar entre 3 e 5 dias, dependendo do nível de habilidade da preguiça.
+
+== Taxonomia ==
+
+{{Clado
+|clado1     = Famílias
+|preposição = à
+|clado2     = subordem folivora
+|texto      = 
+|lista      = 
+* '''[[Bradypodidae]]''' - Preguiças-de-três-dedos
+* '''[[Megalonychidae]]''' - Preguiças-de-dois-dedos
+}}
+{{animais que deram errado}}
+[[Categoria:Pilosa]]
+[[Categoria:Folivora]]

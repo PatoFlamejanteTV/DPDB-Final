@@ -1,0 +1,566 @@
+<choose><option>
+{{logotipo_falso|Konamipedia.png}}</option><option>{{logotipo_falso|Konamipedia2.png}}</option></choose>
+{{game}}
+
+{{Infobox Série Game
+|title         = Metal Guir
+|image_logo    = Metal Guir logo.png
+|caption       = Logo da série
+|genre         = Tiroteio
+|developer     = [[Konami]]
+|publisher     = [[Konami]]
+|origin        = [[PC]]
+|first_release = [[Metal Gear (jogo)|Metal Gear]] (1987)
+|last_release  = <s>[[Metal Gear Survive]] (2018)</s> (esse não conta, além de spin-off é lixo em forma de CD)<br>[[Metal Gear Solid V: The Phantom Pain]] (2015)
+}}
+
+[[Arquivo:StalloneCobra.jpg|thumb|260px|Solid Snake com cara de Sylvester Stallone.]]
+{{compactar|
+{{Você quis dizer|James Bond}}
+{{c|What's going on? RESPOND!|O mesmo coronel de TODOS os ambientes|Guardinha já morto}}
+{{c|Que merda, estou morrendo... agora sente-se que vou contar toda a história da minha vida|qualquer chefe derrotado|ele mesmo ao morrer (isso quando não conta sua história antes)}} 
+{{c|Excellent Snake! Age hasn't slowed you down one bit!|Coronel Campbell|Cintura rápida e sagaz de Solid Snake}}
+{{c|Snake...Snake...Snakeeeeeee!!!!|Coronel desesperado quando Snake morre}}
+{{c|Otacon!|A única palavra que Snake sabe falar em MGS4}}
+{{c|Eu já perdi pra ele!|James Bond|Solid Snake}}
+{{c|Eu também!|Capitão Nascimento|citação acima}}
+{{c|You know what you're doing...|Olga Gorlukocada|Cintura rápida e sagaz de Solid Snake}}
+{{c|"Hum, what's that noise?"|Guarda idiota, ao ouvir o Snake fazendo barulho}}
+{{c|"Pruem! Who's there?"|Guarda idiota que nunca vê o snake após vê-lo finalmente}}
+{{c|Moleque!|Jack Bauer sobre Solid Snake}}
+{{c|"Damn!"|Solid Snake|Qualquer coisa}}
+{{c|"Metal Gear?!... It can't be!"|Solid Snake|todos os Metal Gears que ele sempre encontra e sempre se surpreende}}
+{{c|"There's room for only one boss and one snake."|The Boss falando sobre penetração dupla com Snake}}
+{{c|"This is Snake. Colonel, can you hear me?"|Solid Snake|Coronel Campbell}}
+{{c|"Loud and clear. What's tha mothafuckin' situation, Snake?"|Coronal Campbell|Solid snake}}
+{{c|[[você]] é um imaturo... Você é um... cocô.|Marion "Cobra" Cobretti|Liquid Snake}}
+{{c|"Uuuuuuuughhhhhh!!!!!!!"|Kenneth Baker,Presidente da ArmsTech, durante uma diarréia atômica.}}
+{{c|"I'm yoooou, I'm your shaaadow!"|Liquid Snake|Solid Snake}}
+{{c|"Now the war is gone and I'm just one"|Metallica|Naked Snake}}
+{{c|"I really like a big and very solid snake"|Silvia Saint|Metal Gear}}
+{{c|"IT´S RAINING WOLVES! ALELUIA!"|Sniper Wolf|o efeito de usar Diazapam}}
+{{c|"I am Deepthroat,Mr.X then"|Olga Gurlucovich|seus filmes pornôs}}
+{{c|"Ele tava falando algo sobre Genoma.Botei no saco e mandei a conta pro Papa"|Capitão Nascimento comentando sobre a visita de Solid Snake ao Rio de Janeiro}}
+{{c|"Up takes you up.Down takes you lower.Left and right to face those directions"|Colonel ensinando natação.}}
+{{c|"Snake é um mendigo com roupa de natação"|Algum engraçadinho sobre Snake.}}
+{{c| *SOCOM atirando* "Fofoquero!"|Snake sobre comentário acima.}}
+{{c|"Snake, What's Going on? Snake? SNAAAAAAAKKEEEEEE!!!!!!"|Otacon desesperado porque deu Game Over.}}
+{{c|"Ah! É aquela banda de rock!!"|[[Carla Perez]] sobre Metal Gear.}}
+{{c|"Deixe-me ver o tamanho da [[penis|arma]] do patriota!"|[[Eva]] sobre Metal Gear Solid 4.}}
+{{c|"Comedor de [[penis|cobras]]...parece perigoso!!"|[[Clodovil]] antes de levar um tiro do fuzil de Snake.}}
+}}
+[[Arquivo:Metal Gear Solid 2 bilde 1.jpg|thumb|personagem se camuflando no jogo.]]
+
+''[aparece um mergulhador, nadando para frente, visto de lado, de cima, de baixo, creditos começam a rolar e uma música de fundo começa a tocar, o nadador aparece na superfície e sai da água....]''
+
+''br-r-rp br-r-rp…br-r-rp br-r-rp''
+
+'''CORONEL''': Snake
+
+'''SNAKE''': Campbell
+
+'''CORONEL''': Certo Snake, deixe-me explicar o básico. Isto é um artigo da [[Desciclopedia]]. Para ler, use seus olhos. Mova-os para esquerda-direita e use seu cérebro para reconhecer as palavras.  Palavras são representações gráficas de sons que formam a linguagem. Após começar a ler esse artigo você irá ficar evidentemente sem mais palavras para ler. Quando isso acontecer, você terá que rolar a página. 
+
+'''SNAKE''': Rolar a página?
+
+'''COLONEL''': Para rolar, use o mouse, clique na barra do canto direito da tela e mova-a para baixo. Isso irá rolar a página para baixo para que você possa continuar lendo.
+
+'''SNAKE''': Certo.
+
+'''COLONEL''': Sua missão é acabar de ler esse artigo.
+
+
+'''Metal Gear''' é uma série de jogos eletrônicos que o incrível [[Hideo Kojima]], que após se "inspirar" em Rambo, Robocop, Transformers, Gundam, [[Shin-Chan]] e Exterminador do Futuro criou. O japa é tão maluco que consegue envolver o presidente dos EUA, que estava lá quietinho matando iraquianos e brincando de [[Command & Conquer]] com o exército.
+
+==Hideo Kojima==
+O God Designer criador de Metal Gear Solid, [[Hideo Kojima]], no qual inspirou-se em vários filmes como [[Rambo]] 1, 2 e 3, todos os filmes do [[Chuck Norris]], [[Indiana Jones]], [[007]], [[Garganta Profunda]] ("Deepthroat", proibido para menores de 18 anos), [[Duro de Matar]] e [[Hello Kitty]] e a Vila da Floresta, para fazer sua obra de arte chamada Metal Gear Solid.
+
+Atualmente o God Designer Hideo Kojima mora no topo do Monte Fuji, onde faz feijoada nos dias de jogo da seleção brasuca.
+
+===Carreira de Hideo Kojima===
+
+====The Beginning====
+[[Arquivo:Hideo Kojima.gif|thumb|[[Hideo Kojima]] O Japa está feliz por receber o prêmio de Melhor Game do Ano".]]
+Hideo Kojima nasceu na pacata cidade de [[Tamagotchi|Tamagotchi Takafomi]], em Tokyo. Era um japinha esquelético que vivia com a mão direita na piça e a esquerda num Minigame.
+
+Aos 16 anos estudava no colégio [[boceta|Takakaranashavaska]], onde foi expulso pelo seu comportamento assanhado com as japinhas. Kojima foi pego escondido com suas calças arriadas debaixo da carteira de uma aluna que trajava saia escolar. Colegas de turma afirmam que Kojima ficou o resto do ano dentro de casa jogando tetris, vendo filmes de ação e batendo [[punheta]] o dia inteiro; foi ai que desenvolveu todo o seu dom como Designer de Jogos.
+
+Kojima sempre quis fazer cinema, mas como sua situação econômica nunca foi favorável, fez uma faculdade de Designer de Jogos (que terminou com 18 anos, recorde no japão). Muitos afirmam que sua capacidade era muito avantajada, ao desenvolver um projeto para um jogo ele entregava 655 folhas de história, ninguém aguentava ler aquela merda toda e passavam ele direto nas matérias.
+
+Foi aceito logo de cara na grande [[Konami]], mas primeiro levou muito cafézinho com bolacha para os superiores. Nessa época, Kojima era xingado de traveco por Tomasoronoku, um designer da época que fora demitido da companhia. Hoje Tomasoronoku atende pelo nome de Samiko, uma jovem universitária em busca de uma carona de volta pra casa duas horas da madrugada. (Ela tá aceitando uma ajuda financeira de ¥200 ienes japoneses por carona, pra quem estiver interessado).
+
+Em 1985 teve a brilhante ideia de criar um jogo de ação e espionagem, inicialmente sua ideia era criar um jogo no qual você devia se infiltrar em uma base feminina e roubar calcinhas para receber uma certa pontuação, dependendo do nível de dificuldade você poderia ver as garotas nuas, o que não adiantava nada, pois seu jogo seria feito para o [[MSX]], um computador que tinha gráficos ridículos, então adiou a produção do jogo.
+
+====Metal Gear 1====
+[[Arquivo:Thegoddesigner.jpg‎|200px|thumb|"The God Designer"]]
+Em 1987 foi criado Metal Gear 1 para o MSX (?) só no japão, e em 1988 foi feita uma versão merda para Nintendinho/Famicom. Com o sucesso de Metal Gear no japão, a [[Konami|Kunamão]] resolveu elaborar uma versão do Nintendinho para alcançar o público gringo, mas sem a equipe de Kojima, para isso, contrataram uma equipe brasileira escravocrata chamada "Banana Development", que trabalhavam 38 horas por dia por um salário mínimo, a versão inclusive começa no mato em homenagem à nossa Amazônia. A equipe não tinha intervalo pra comer e além disso tinham que fazer cocô numa sacola, a única vez que tiveram um intervalo deram pão com pasta de amendoim, depois a equipe descobriu que não era pasta de amendoim, era o recheio da sacola que cagavam dentro.
+Quando receberam o salário, a equipe brasileira comprou o jogo, onde foi gasto todo seu salário, pois tiveram que pagar 200% de imposto sobre o produto. 
+Então a [[Konami]] tomou vergonha na cara e notou que esse negócio só poderia dar certo com Hideo Kojima na produção. Foi ai que Kojima largou todos os mangás [[Hentai]] e botou a [[Punheta|mão na massa]].
+
+====Metal Gear 2:Solid Snake====
+Em 1990 lançou Metal Gear 2: Solid Snake para computador, mas o jogo só foi lançado no Japão e o resto do mundo ficou chupando dedo. Então a [[Konami]] começou a fazer um novo jogo, agora em 3D, para o Numintendo 64 (entendeu, como não??), só que inesperadamente Fusajiro Yamauchi (Dono da [[Nintendo]]) pegou Hideo Kojima infiltrado em seu quarto, de madrugada, mamando num dos seios de sua querida esposa enquanto eles dormiam, jogou Hideo Kojima e a [[Konami]] no olho da rua, obrigando-os a irem para a Sony e seu [[Playstation|PolyStation]]. O título do game e o nome do protagonista foram inspirados no momento em que Kojima voltava da casa de Fusajiro Yamauchi, com o pau duro.
+
+====Metal Gear Solid: Integral====
+Hideo Kojima vivia com problemas de nutrição gerados pelo seu mau hábito de comer frituras. Foi quando seu nutricionista sugeriu que comesse mais alimentos integrais, por isso em 1998 o jogo Metal Gear Solid: Integral foi criado, o título é em homenagem ao nutricionista de Kojima que salvou sua saúde de uma possível diabetes. Sucesso mundial: bebês, crianças, adolescentes, adultos, idosos e múmias jogavam o jogo. O sucesso foi tanto que Kojima, em momento de euforia, foi novamente pego infiltrado na casa de Fusajiro Yamauchi, dessa vez comendo sua honorável esposa de quatro enquanto apreciava uma taça de um fino champanhe. (imagine a cena)
+
+====Metal Gear Solid 2: Sons of Liberty====
+Em 2000 foi lançado [[Metal Gear Solid 2: Sons of Liberty]], uma parceria com [[Ney Matogrosso]], [[Elton John]], [[Oscar Wilde]]  e Leão Lobo na criação do protagonista. O título do jogo é uma crítica a falta de liberdade sexual enfrentada por homossexuais e bissexuais na época. A trama era perfeita, porém complexa demais, além do jogo ser infelizmente estrelado por Raiden, um personagem completamente sem sal, que se infiltra numa base super secreta, em busca de uma pomada para o ânus que estava em carne viva, após sua viagem pelo oceano passivacu. Os fãs de MGS ficaram decepcionados e extremamente confusos com a trama, inclusive sexualmente, após presenciarem uma cena em que Raiden aparecia pelado dando estrelinhas com a mão no pinguelo. Hideo Kojima reconheceu o erro de MGS2, e mesmo o jogo sendo um fracasso, vendeu milhões de cópias, principalmente entre a comunidade LGBT, recebendo vários prêmios, um deles o de melhor jogo para PlayStation 2 e outro de personagem principal mais duvidoso de todos os tempos.
+
+====Metal Gear Solid: Twin Snakes====
+[[Arquivo:Kojimarelaxado.jpg|200px|thumb|[[Hideo Kojima]], camuflado de noite olhando [[Tua Mãe]] trocar de roupa. (reparem na cara de interessado dele)]]
+Em 2003 Kojima se reconciliou com Fusajiro Yamauchi, Kojima inventou que tinha um irmão gêmeo muito pervertido e que era ele quem foi pego transando com sua querida esposa (vide a história do Metal Gear Solid Integral). A reconciliação resultou o remake do Metal Gear Solid original, intitulado ''Metal Gear Solid: The Twin Snakes'' (Cobras Gêmeas) exclusivo para [[Game Cube]]. (manjou a ironia?) 
+As dublagens foram totalmente refeitas com a maioria dos dubladores originais, mas notavelmente horríveis, pois nenhum dos dubladores tava com saco de gravar tudo de novo. O jogo fez bastante sucesso e vendeu muito, blá,blá,blá,blá e aquela babação de ovo de sempre. Mais um ótimo Metal Gear para a coleção de Troféus de Hideo. O único motivo que fez geral ficar puto da vida com o Kojima foi que o remake não foi lançado pra Playstation 2. Todos devem $aber o motivo.
+
+====Metal Gear Solid 3: Snake Eater====
+Em 2005, Kojima foi exilado do Japão por constantemente tarar as japinhas, o estopim foi quando o presidente japonês pegou Kojima infiltrado em sua casa com sua honorável esposa fazendo sexo oral (aquele de hora em hora) no seu próprio quarto, acredita-se que Kojima utilizava doses cavalares de Diazepam em sua vítimas para obter sua própria satisfação sexual. Kojima viajava exilado para os EUA quando acidentalmente seu avião caiu na floresta amazônica, passou 3 dias no [[Acre]] se alimentando de uma espécie desconhecida de sapos (que batizou de "Kerotan Frogs") e macacos selvagens (Que batizou como [[Ape Escape]]), o que fez Kojima se inspirar e lançar [[Metal Gear Solid 3: Snake Eater]] (Ironia pesada com o presidente japonês), o jogo era esplêndido, dando a Kojima o título de "God Designer".
+
+====Metal Gear Solid 4: Guns of the Patriots====
+Então, em 2006, Hideo Kojima foi ameaçado pelo povo patriota japonês pelo insulto que havia cometido contra seu presidente, gerando inspiração ao título do game. Os fãs de Metal Gear Solid receberam a notícia de que Hideo Kojima não iria dirigir [[Metal Gear Solid 4: Guns of the Patriots]], [[Chuck Norris]] ligou ameaçando-o de espancamento e fodeção anal sem vaselina em praça pública caso não mudasse rapidamente de ideia. Sob pressão de tanta gente, Hideo Kokima foi adiando ano a ano o lançamento de MGS4.. Quando lançou foi um sucesso, gráficos, som, história e jogabilidade impecáveis!
+
+====Metal Gear Solid: RAIDEN====
+Depois de encher o cu de dinheiro, Kojima deixou que outro designer fizesse um título do jogo por completo, todos aguardam ansiosos pelo lançamento do mais novo Metal Gear, porém com essa notícia, juntamente com os vídeos ridículos das cutscenes do game, os fãs entram em colapso hormonal e gritaram para que não lançassem a merda que parecia ser o game. 
+Então, Kojima gelando seu honorável anus, trabalhou como supervisor do game. 
+Após o lançamento, os fãs não idolatraram o game tanto quanto os jogos anteriores, mas mesmo assim foi sucesso de vendas, apesar de ter como protagonista um ninja gay comedor de rapadura que esta com o cu dando bote.
+
+====Metal Gear Solid V e a Absoluta Ejaculação de Notoriedade====
+[[Arquivo:Kojimacome.jpg|250px|thumb|[[Hideo Kojima]] utilizando seus Skills como God Designer numa [[Nerd Gostosa]]. (Algo me diz que a gata curte um [[pênis|"rolinho primavera"]])]]
+A fama de Kojima nesse momento era TANTA, que não podia mais nem [[punheta|descascar uma]] tranquilo no banho sem ser surpreendido por um fã lunático vestido de Snake. Então, decidiu tomar uma decisão drástica e adotar uma identidade secreta. Inventou um sueco chamado Joakim Mogren, ("Joakim" é um anagrama do nome Kojima, ele bolou isso enquanto cagava na privada jogando Angrybirds no celular), que nada mais era que Kojima com uma peruca loira, um bigode falso e um óculos escuro pintado no paint. (essa parte parece zoeira, mas é verdade)
+
+Com o sucesso de games estilo [[GTA]], Kojima resolveu produzir um jogo do tipo, mas com Jack Bauer estrelando como Snake no lugar de David Hayter (Voz do Snake Original). Os fãs odiaram a troca, mas tiveram 24 horas pra mudar de opinião, caso não quisessem serem mortos por um tiro nas costas enquanto dormiam.
+
+Posteriormente, Kojima tentou pregar uma peça nos fãs lançando um vídeo de um game "survival-horror", dirigido por Joakin Mogren, só que na real todo mundo sacou que era Metal Gear, só Kojima que achou ter enganado alguém.
+Depois desse vídeo "secreto", os fãs monitoraram MAIS ainda a vida do Japa, ou seja, a identidade secreta não serviu pra porra nenhuma, só serviu pra pegar as novinhas dizendo que tinha 16 invés de cinquentão. (e funciona mesmo, ai a dica do tio Kojima, rapeizes! ;D)
+
+Os fãs vigiaram tanto a vida de Kojima, que qualquer coisa que ele fizesse no dia-a-dia era visto por eles como uma dica para a trama de MGSV:
+
+"Kojima postou uma foto no Twitter comendo feijoada invés de Sashimi? Era uma brecha sobre Metal Gear Solid V." 
+
+"Exame de fezes do Kojima indicou mais metais foliosos do que o normal? Era uma brecha sobre Metal Gear Solid V."
+
+"Kojima coçou o saco 5 vezes enquanto sentava na frente do PC? Era uma brecha sobre Metal Gear Solid V."
+
+"Kojima esqueceu de lavar a mão depois de coçar o saco? Era uma brecha sobre Metal Gear Solid V."
+
+"Kojima cheirou a mão que havia coçado o saco da qual não tinha lavado? Era uma brecha sobre Metal Gear Solid V."
+
+Posteriormente Kojima se apresentou no Game Awards 2014 vestindo uma camiseta com uma "MISTERIOSA FRASE" em SUECO, logo os masturbantes fãs de Metal Gear traduziram e descobriram que possivelmente se tratava de: UMA DATA PARA ANUNCIAR UMA DATA DE LANÇAMENTO DE METAL GEAR SOLID 5! (OOOoooh!!) No dia 25/12/2014 (dia do aniversário do Papai Noel). E ainda, Kojima postou em seu Twitter que haveria um GRANDE ANÚNCIO na madrugada do natal, o que obrigou os fãs de Metal Gear a terem uma D.R com [[Sasha Grey]] para dormir mais cedo naquele dia.
+
+Na madrugada de natal, os fãs de Metal Gear acompanhavam o programa do Kojima, chamado "Kojima Station", transmitido ao vivo na live. Porém, o que os fãs se depararam foi o anuncio de um item secreto inútil utilizado no jogo, chamado de "Chicken Cap", um capacete tosco de galinha que seria utilizado por Snake se ele morresse demais durante as missões do jogo, para torna-lo estupidamente mais fácil. (Trolagem nível "GOD") (parece mentira, mas isso aconteceu de verdade)
+Os fãs punheteiros revoltados xingaram Kojima de todos os palavrões existentes no globo terrestre na barra de conversas ao vivo, o que fora sarcasticamente ignorado pelo japa, que soltava um riso zoante de canto de boca a cada 5 segundos de transmissão.
+
+====O Fim De Metal Gear e a Queda Da Suprema Entidade Nerd====
+[[Arquivo:Punishedhideo.jpg‎|350px|thumb|A Man Without Konami...]]
+[[Arquivo:Konamikojima.jpg‎|300px|thumb|O simbolo do poder e idolatria.]]
+No mês de março de 2015, rumores começaram a surgir sobre a saída de Hideo Kojima da [[Konami|Kunamão]],  pela perceptível retirada do título: “A Hideo Kojima <s>fucking epic</s> Game” das capas e embalagens dos jogos. Primeiro a galera achou que era mais uma zoeira do god designer com os fãs, mas depois descobriram que era verdade.  
+
+Kojima tinha tanto poder na [[Konami]], que já mandava na porra da empresa toda sozinho. Já pagava um funcionário exclusivo só pra coçar seu saco enquanto trabalhava assiduamente em seus projetos, uma linda modelo também era encarregada de cafungar seu cangote e acariciar seus mamilos enquanto isso. Outro funcionário era encarregado de cheirar todo seu peido para impedir que o cheiro se alastrasse pelo escritório, também havia um encarregado de limpar a bunda do japa, passar talquinho e dar banho nele todos os dias, além disso, havia uma interminável fila de nerds tietes na porta do escritório do japa só pra satisfazer sua libido.
+ 
+O presidente do conselho de administração da [[Konami|Kunami]], ficou com ciúmes do poder e idolatria que Kojima representava dentro da empresa, principalmente após sua honorável esposa gemer expressivamente o nome de Kojima num momento intimo do casal, foi mais que o suficiente para demiti-lo sem justa causa num momento auge da empresa. A hashtag #ahideokojimagame foi criada, em todos os posts da [[Konami]] na internet havia um [[nerd]] postando a hashtag com trocentas curtidas.
+
+Ações da [[Konami]] começaram a despencar logo com o cancelamento de [[Silent Hill|Silent Hills]] em produção por Kojima. Em um ato desesperado, a [[Konami|Kunamão]] (dando mérito ao trocadilho com o nome), divulgou em seu site que a franquia Metal Gear continuaria sem o Kojima, o que gerou mais revolta ainda entre os fãs da série, que criaram vários bonecos do Diretor da [[Konami|Kunamão]] no [[The Sims]] e fizeram ele morrer afogado na piscina várias vezes, só de raiva.
+
+A equipe de Kojima (Kojima Productions) continuou envolvida na produção de Metal Gear Solid V (inclusive Kojima), todos obedecendo a um contrato até o fim de 2015, nesse período, comeram o [[pão]] que o [[diabo|capiroto]] amassou! Sofriam inúmeras torturas psicológicas, eram obrigados a trabalhar no porão do prédio da [[Konami|KUnami]] com paredes forradas de posteres de [[gostosa|mulher pelada]], sem internet e sem permissão pra ir no banheiro, pois podiam bater uma [[punheta|punhetinha]] rápida lá e cessar com a tortura. (Bota tortura nisso!) Fingir ir observar o progresso do jogo no computador dos outros e esfregar a piça discretamente no ombro do coleguinha, já nem era mais sinônimo de estranhamento, era um costume comum entre os [[pênis|membros]] da equipe. 
+
+Assim como a equipe "Banana Development" (Vide tópico Metal Gear 1), eram obrigados a cagar numa sacola, depois eram presenteados com um duvidoso pão com pasta de amendoim, sem opção o comiam, e na intenção de deixar o Diretor da Konami puto, faziam questão de repetir o prato várias vezes. Trabalharam nessas condições até que Metal Gear Solid V estivesse pronto.
+
+Há boatos de um [[Easter Egg]] (costume muito comum de Kojima em seus jogos) no vasto mundo aberto de Metal Gear Solid V, onde a frase “私のお尻は毛深いです” (traduzindo: Vai se foder [[Konami]]) é formada poeticamente nas nuvens do céu durante uma batalha épica com um boss colossal de ferro, ainda, um código na tela inicial do jogo pode transformar o logo da [[Konami]] em marrom escuro, que logo em seguida começa a derreter e cagar a tela toda.
+
+===FOX ENGINE===
+[[Arquivo:Mgsvbug.gif|300px|thumb|De fato... Este é um game muito realístico...]]
+Depois de inúmeros desapontamentos na sua vida pessoal, com seu cachorro que cagava na porta de casa, com filmes pornôs japoneses que vinham com censura quadriculada nos órgãos sexuais (TU TA LIGADO QUE EU SEEEEEEEEI!!...), com sua namorada que tinha o maldito costume de lamber a maçaneta da porta do seu quarto (sim, existe esse costume bizarro no Japão...procura no google...putaquemeopariu...), com engines porcas de outros jogos que travavam no Loading (exemplo [[Skyrim]]), Kojima resolveu fazer uma revolução.
+Chamou uma equipe de desocupados que trabalhavam em troca de macarrão instantâneo e criaram a FOX ENGINE, que promete ser mais potente que qualquer engine existente somada duas vezes e com um toque extra de [[Wasabi]]. (alguém consegue comer uma lata dessa merda pura? Será que pra cagar, sai verde e ardido também?)
+
+De tão potente que promete ser, ha boatos de que a FOX ENGINE, nada mais é do que uma realidade virtual, que tornará o mundo em que conhecemos em um grande Metal Gear Solid, exclusivamente dirigido por Hideo Kojima (Real Fuck God Designer), onde você terá que se esconder atrás de pedras se quiser ir na padaria comprar um pão, e quando chegar para compra-lo, vai ter que esperar 30 minutos de cutscene conversando com o padeiro até conseguir efetuar a compra, além de ser cercado 24 horas por toda uma conspiração por trás da compra, quando você descobrir que na realidade o padeiro nada mais é que um mestre em disfarces e que o padeiro de verdade está apodrecendo em algum lugar atrás do balcão. E acredite, você não será dublado por David Hayter, mas sim por um ator hollywoodiano aposentado com câncer na garganta.
+
+==Jogos da série==
+[[Arquivo:MG1.JPG|thumb|Metal Gear 1, com gráficos de tirar o fôlego.]]
+===Metal Gear===
+Foi o primeiro jogo da série pra um tal de [[MSX]] ( quê ? quê? como ?) que eu e o [[autor]] anterior até hoje não sabemos o que é. Talvez seu avô deva conhecer esse computador, depois de ler o artigo vai lá perguntar pro velho (ah, se ele souber, conta aí!). O jogo conta a história de Solid Snake em uma super-hiper-mega base secreta, chamada '''"Outer Heaven"''', que ele devia invadir e destruir. No fim, Snake tem que destruir um robô do tamanho de um prédio controlado pelo chefe final, Big Boss. E termina com cara de idiota por que descobre que estava sendo manipulado o tempo inteiro. Gráficos brilhantes! Dê uma olhada na imagem ao lado...
+
+===Metal gear 2:Solid Snake===
+É a sequência a história de Metal Gear, e novamente Solid Snake termina com cara de bobo, tendo que destruir um novo robô do tamanho de um prédio. E... advinha só, descobre que estava sendo manipulado. Nosso amigão também já demonstra seus traços de sensibilidade ao matar um amigo que atendia por "Gray Fox" sem pestanejar, só porque o camarada quis dar um rolê no robô gigante. Num final totalmente clichê Solid detona o chefe final, Big Boss, momentos antes dele confessar ser o pai (Star Wars??) de Snake. Tudo isso com gráficos dígnos dos anos 80, já que foi uma sequência para o [[MSX]] e também teve uma versão nada a ver spinoff chamada Ghost Babel nojenta para o[[Nintendinho]].
+
+===[[Metal Gear Solid]]===
+[[Arquivo:SnakeTras.JPG|thumb|280px|right|Snake elogiando seu próprio traseiro-clone.]]
+Metal Gear Solid trás [[Solid Snake]] de volta a ação, dessa vez encarando seu irmão gêmeo (porém loiro e mais baixo), que pretende dominar o mundo (como todo maluco) através do plano diabólico de fazer uma convenção [[furry]] com os ilustres membros da [[Fox Hound]]: [[Vulcan Raven]], [[Sniper Wolf]], [[Psycho Mantis]], [[Decoy Octopus]] e [[Revolver Ocelot]]. Tudo isso numa base pra lá de secreta abandonada no Pólo Norte, perto da casa do Papai Noel. Mas como sempre, no final ele descobre que estava sendo manipulado pelo governo americano (tô começando a achar que o Snake é demente) para matar todos os furries restantes da face da terra com o vírus FOXDIE (um vírus feito para matar a dengue e as baratas do Nepal). Em 2003, Hideo Kojima e Shigeru Miyamoto se re-encontraram pela primeira vez (desde que brigaram na produção de Metal Gear), em uma ''Otaku Convetion'', no Acre. Eles começaram a fofocar e depois foram para um restaurante romântico comer sushi, oden, lamên e curtir um momento a sós. 
+
+Game lançado para [[PS1]]1998,[[Microsoft Windows]] 2000 e [[Gamecube]] 2003/2004 Remake by Hideo Kojima
+
+===Jogos para X-Box e PC===
+
+Nota de atualização: após... <s>"conver$ar" com</s> Puxar o saco de Kojima, Bill Gates conseguiu uma versão de MGS1 para PC e X-Box.
+
+===Jogo para "PS2 only"===
+
+Nota de atualização: só coisas "similares" a [[PS2]] podem rodar esse jogo, ou seja, o PS2 e você sabe o que você sabe onde, você sabe quando e você sabe o porque, apesar de não entender direito o como, já que nem os próprios autores entendem.
+
+====[[Metal Gear Solid 2: Sons of Liberty|Metal Gear Solid 2: Sons of <s>A bitch</s> Liberty]]====
+Dessa vez, você joga a maior parte do jogo com Raiden, um loiro viadinho que dá umas estrelinhas estranhas. Ele acha que Solid Snake é um criminoso, já que a anta acredita no que o Coronel diz, acaba quebrando a cara, pois [[Solidus Snake]] (O clone "puro suco" do Big Boss) se passa por Solid. Nisso, o verdadeiro Snake aparece e mostra sua fúria por não ter pais, descarregando chumbo .556 em Solidus. Mas como todo chefe Solidus escapa na última hora, com a ajuda de um vampiro bailarino chamado, [[Vamp]] (nome elaborado esse, né?). No fim, Raiden se dá mal de novo, pois descobre que seu comandante é um computador, sua namorada não existe e: (como é tradição na série ¬¬') descobre que tudo era uma armação e que estava sendo manipulado.
+O mais impagável desse jogo é a sensação de palhaço que qualquer pessoa que zerou os anteriores sentiu: o "God Designer" foi tão sacana que expôs no próprio enredo que MGS2 foi apenas uma simulação de MGS1!
+
+====[[Metal Gear Solid 3: Snake Eater]]====
+
+Com nome de [[filme pornô]], o terceiro game da série MGS, volta às origens pai de Solid (nessa época Solid estava ainda no saco do velho) e mostra como tudo começou, como ele ficou puto com o governo e como iniciou sua vontade de revolucionar. Ele encontra uma gostosona que ele come no final com prazer. E vê o [[Revolver Ocelot]] quando era jovem (jovem tipo 20 anos; não vá pensando que você verá ele com 15. O game não se passa tão antes assim também, né!); também descobre que o cara era chato e insuportável desde cedo e que costumava raspar o cabelo (nos anos 80 ele deixou o cabelo crescer por causa da moda Rock And Roll). No fim, depois de destruir um robô gigante, descobre que tudo era uma armação (algum enredo é de verdade nessa joça??!!) e que estava tudo sendo manipulado. Revoltado, ele mata sua antiga chefe (por isso que ela tem o nome de Boss) e vira o Big Boss. [[Eva]] (a gostosona), seu suposto contato, não era seu verdadeiro contato, na verdade ela era uma espiã chinesa (apesar de ser loira estilo top model). E o tal contato era o [[Ocelot]], o cara com quem Snake Pai trocou pipocos o jogo todo. Logo, desde cedo [[Ocelot]] era espião dos Patriotas e chato pra caralho, que na verdade era o [[Adão|ADAM]] e se chamava Adamska.
+
+Ficou confuso? Então joga o jogo, entende, e vem aqui dizer que é mais uma armação ¬¬' .
+
+-> Destaque para a incrível trilha sonora <s>copiada na cara de pau</s> com um estilo homenageando James Bondecama.
+
+===Jogos PS3 Only===
+
+====[[Metal Gear Solid 4: Guns of the Patriots]]====
+
+[[Arquivo:Camuflagem sofa.jpg|thumb|Octocamo Em ação.]]
+{{compactar|
+Em 2014, o Mundo Está sofrendo uma crise financeira (ORLY?) [[Estados Unidos|e a solução se torna fazer guerras para ver quem leva a melhor]], surgindo assim as PMCs, empresas militares que os governos contratam para lutar com outros governos e assassinar a população pobre favelada. Muito preocupada com a situação, a ONU chama Solid (já velho) Snake para assassinar o líder das 5 maiores companhias militares do mundo, que por coincidência, era seu irmão, que mudou a sua alma para o corpo de um velho. Disfarçado como um fanático adorador de Alá que vai expulsar os Americanos de sua terra, Snake infiltra-se atrás das linhas inimigas (ou de um dos inimigos) e contrata um nego favelado para lhe dar armas toda vez que precisar, conseguindo, assim atravessar o campo de batalha, onde encontra e segue um soldado cagão que o leva até sua ex-namorada, que o informa que seu maninho está protegido dentro dos muros de um armazém de dorgas. Chegando lá, ele todos os soldados e o escambau começam a passar mal graças ao clima do Oriente Médio, mas seu gêmeo escapa em um helicóptero.
+
+Após descobrir que sua outra ex-namorada ainda está viva [[Colômbia|na guerra contra os revolucionários da América do Sul]], ele vai resgatá-la, mas os sequestradores escapam e deixam uma maluca que ri porque tem um vibrador no rabo para lutar com ele. Após ter que violar Maria da Penha, ele usa um óculos de visão noturna no meio do dia (sic) para seguir as pegadas da fuginha, ele a alcança e foge com ela [[Cerveja|num tanque cheio de Coca-Cola e perde o controle ]], fugindo da PMC com sua ex á pé, sendo resgatados por um otaku de helicóptero. Após ver o espetáculo de balé onde o [[Vampiro|Cisne Negro]] fere o [[Raiden (Metal Gear)|Cisne Branco]], eles resgatam o Cisne Branco e vão reconstruir a vida como uma família na Europa.
+
+Durante o vôo até a Europa, a ex do velho Snake continua ex e o trai com o tal otaku. Ao chegar, os 3 tem coisas pendentes ao resolver: o Otaku tem que ficar cuidando de sua filha adotada, a ainda ex tem que cuidar do Cisne Branco no hospital e Snake tem fazer uma visita de família á sua mãe (que também é mãe do desgraçado vilão do jogo), descobrindo que ela é dona de uma rede ilegal de garotos de Strip-Tease, e resolve seguir um famoso viado da companhia até descobrir onde fica o centro da quadrilha. Chegando lá, ele conversa durante 10 horas malditas de cutscenes que não dão para pular, uma policial descobre o esconderijo da quadrilha da velha, e todos garotos escravos dela começam á fugir e motos, enquanto Snake foge com sua mãe. Infelizmente a delegada consegue pará-los e ferir sua mãe letalmente. Após fazer Maria da Penha Super-Strike na delegada, Snake foge á pé com sua mãe pelos esgotos, mas o líder das PMCs, seu irmão aguardava por eles com várias soldadas (tesão...) para lhes render, simplesmente enfiando uma faca no seu ombro e indo embora. Quando o exército Americano chega para resgatá-los e lutar contra os barcos das PMCs, acontece uma batalha onde eles perdem feio, muitos soldados americanos vagabundos morrem e a mãe de Snake é morta, fazendo-o ter sede de vingança e querer descobrir qualquer informação sobre Liquid, seu irmão.
+
+Após se separar de sua ex de novo, Snake descobre que Liquid planeja ir ao Alaska roubar um Transformer para destruir o mundo de vez ( como todo louco faz ) ele vai ao Alasca também para roubar o Transformer e atrair seu irmão até ele, mas na porta de entrada para o túnel do robô, uma atiradora de Elite de uma PMC tenta lhe matar, mas ele novamente pratica Maria da Penha, infiltrando-se no tûnel  e chegando ao Transformer. Antes de pilotar, porém ele tem de deixar seu robôzinho hackear o bicho. Então que surge novamente o Cisne Negro, que tenta lhe matar, mas é salvo pelo Cisne Branco, então os dois começam á lutar balé, onde o Cisne Branco finalmente mata o Cisne Negro, e Snake ativa e começa á pilotar o Transformer, fugindo do hangar que está prestes á explodir. Quando eles escapam, o Cisne Branco fica preso nos escombros e Liquid aparece com outro Transformer para impedir que Snake roube seu outro precioso Transformer. Durante a incrível batalha, os dois robôs se destroem, e Liquid, por estar mais perto do mar, foge, sendo resgatado pelo seu Iate de Guerra particular. Antes de ter uma chance de esmagar Snake com o Iate, Liquid tem que fugir com seu Iate, pois um navio sério (ORLY) de guerra dos Estados Unidos começa á o perseguir.
+
+Snake pega carona com o navio Americano, e se voluntariza a ser lançado ao navio inimigo por uma catapulta. Após cair dentro do Iate de seu irmão (família badalada), Snake Snake se infiltra nos corredores do Iate, até se deparar com o soldado cagão e a sua outra ex lutando contra uma Psico-Macumbeira da PMC, sendo que o cagão é nocauteado pela Macumbeira e sua outra ex é controlada pela mesma com uma boneca de pano ( ... ¬¬') então ele rouba a boneca de pano e usa contra a dona, criando uma Psico-Maria da Penha. O cagão e a sua ex ficam protegendo o lugar por onde Snake passou. Snake, sortudo como sempre tem que hackear o sistema do Iate, não ante de passar por um microondas gigante e ser frito e fodido todinho. Após realizar o feito heróico, os Estados Unidos finalmente começam á parar de perder, mas a disputa fica empatada entre o Iate do Mal e o Navio do Bem, então Snake tem que confrontar e matar seu irmão para abaixar a moral dos soldados inimigos (carismático, o Liquid, não?) e levá-los á rendição. Então, numa luta mano-a-mano (literalmente), Snake mata Liquid, os Estados Fudidos vencem e todos vivem felizes forever!
+}}
+
+===Jogos PSP Only===
+
+A maioria dos games da série Metal Gear lançados para [[PSP]] são apenas [[caça-niquel|caça-niqueis]] que Kojima preparou para seus <s>otários</s> fãs. Para isso, ele nomeou seus jogos com nomes bastante "originais" ([[mentira]]), como Metal Gear Acid (nesse jogo, Snake é um viciado em [[LSD|ácido]] pronto para salvar o mundo quando está doidão) e Metal Gear Portátil (que originalidade ¬¬'), que nem vale a pena contar sua história. Mas tem um que preste, o Peace Walker, jogo [[hentai]] onde Snake Pai pega todas as mulheres que aparecem na sua frente para mostrar sua [[cobra]].
+
+====Metal Gear Solid: Peace Walker====
+
+[[Arquivo:Pedo_seal.gif|thumb|Metal Gear Solid: Peace Walker é o jogo da série Metal Gear preferido de [[Pedo Bear]], e ele também já comeu a Paz junto com Snake.]]
+
+Nesse jogo, Snake Pai vai para [[Costa Rica]] fundar a Outer Haven, onde ele quase matou todas as pessoas da CIA numa guerra contra os EUA só para receber o pagamento de espião. Nele, EVA fica puta da vida, pois Snake pega simplesmente todas as mulheres do jogo, inclusive uma sapatona e uma garotinha da Paz! No final, Snake descobre (O.O) que está sendo manipulado pelo governo.
+
+ATENÇÃO!! As imagens a seguir são fortes, tirem <s>os crentes</s> as crianças da sala!!! (Tire mesmo, se não ele come todas)
+
+<YouTube>
+title=  Snake Seduz a Paz
+movie_url= http://www.youtube.com/watch?v=NgGolTs7nbE&feature=related
+embed_source_url= http://www.youtube.com/v/NgGolTs7nbE&feature=related
+wrap= no
+width= 300
+height= 200
+</YouTube>
+
+Não bastava a pedofilia, depois de comer TODAS as garotas do game, Snake, ainda com sua libido EXPLODINDO de desejo, também carca os integrantes metrossexuais do seu PRÓPRIO EXERCITO!! (cá entre nós, quem serve o exercito tem uma tendência..)
+
+...após o lançamento, o indice de [[pedofilia]] e [[homossexualidade]] dos donos de [[PSP]] aumentou 33%.
+
+===Metal Gear Solid V===
+[[Arquivo:Jbauer.jpg|thumb|250px]]
+Metal Gear Solid V foi lançado em duas partes para XBOX, XBOXONE, PSM3RDA e PSMERD4.
+
+====MGSV: Ground Zeroes====
+O preço dessa joça foi o mesmo de um jogo completo, por isso que pouca gente conseguiu jogar, ninguém queria gastar o salário de um mês de trabalho pra comprar um jogo de dez segundos de duração.
+
+A história começa em 1975, com Snake Pai viajando para Cuba atrás da menina Paz e o moleque cabaço Chico (do MGS Peace Walker), que foram capturados por um grupo chamado "XOF" (Se você descobriu que é "FOX" ao contrário, meus parabéns, a cachaça não destruiu os seus neurônios por completo ainda). Snake invade a base e se depara com um mapa de 30cm². Depois de resgatar Chico, Snake Pai rouba um caminhão de carga, invade a base, captura Paz e termina o jogo em menos de 2 segundos. - QUE!? - Isso mesmo. Você deixou de sair de casa, comer putas, beber e usar [[drogas]], só para comprar esse jogo e ele acaba assim.
+
+O dublador clássico do Snake foi trocado pelo [[Jack Bauer]] do 24 horas, ficou parecendo que o Snake teve cancro na garganta por causa do cigarro. Ta ai mais uma advertência no verso das caixas de cigarro: "O Ministério da Saúde Adverte: Fumar faz você ficar com a voz do Jack Bauer".
+
+Os fãs também reclamaram do sistema que mudou, agora Snake não pode bater nas paredes pra chamar os inimigos, é obrigado a jogar uma merda dum cartucho vazio, além dos soldados te enxergarem a quilômetros de distância, a caixa de papelão também foi tirada. Agora você pode dirigir caminhões e carros (OOOOOHH!!), só que o mapa é pequeno pra caralho, o que não adianta em nada. (Deve ser por isso que se chama <u>GROUND ZEROES</u>, tradução bruta: Zero Terra pra se explorar)
+
+A história soou como uma menina te batendo uma punhetinha com o mindinho, sem deixar dar nem uma gozadinha na coxa. No ápice da história o jogo acaba e você fica com cara de trouxa. Mas se você for fã da <s>menina</s> história, você se verá obrigado a comprar.
+
+{{c|O grande final do jogo é quando você pensa que na realidade o jogo está apenas começando, quando na realidade está apenas deixando de começar para iniciar um fim. |[[Valesca Popozuda|Popozuda, Valesca.]] |Metal Gear Solid: Ground Zeroes}}
+
+{{c|Boss, tenha cuidado! Marque os inimigos com seu binóculos para enxerga-los em laranja fosforescente através das paredes com a visão raio-x sobrenatural vinda do inferno. |Miller |uma coisa que tirou a graça do jogo.}}
+
+{{c|CONTACT!! (Dispara o alarme com poderes psíquicos) |Soldado do Camp Omega |te ver a 1500km de distância, agachado, dentro do mato, no escuro e chovendo.}}
+
+{{c|Boss, eu não tenho nada de importante para te falar agora, mas eu preciso atrapalhar tua audição pra você não ouvir os inimigos chegando. Nossa, ainda bem que tiraram o "beep" do codec! |Miller |falar merda por 5 minutos ininterruptos durante a jogatina.}}
+
+====MGSV: Phanton Pain====
+[[Arquivo:Cavalocagando.jpg|thumb|500px|Imagem ilustrativa da interferência da Konami durante a produção do jogo]]
+Com o lançamento do mini game de duzentos reais, Metal Gear Solid: Phantom Pain o <s>último</s> novo jogo da série, lançado em 2015 tem uma história menos cliché (será?) que os anteriores. 
+
+O jogo começa com Snake acordando dum coma no hospital e descobrindo que virou o capitão gancho. A explosão do último game foi tão cabulosa que deixou o cara com uma espécie de chifre de ferro cravado no crânio. (claramente muito pior do que o chifre que teu pai carrega por ai). 
+
+Snake, ainda na cama de hospital, presencia uma assassina transformando o médico do local em presunto, logo em seguida, ela tenta estrangular o herói lendário com as próprias mãos. Sem muita opção, Snake taca fogo na mulher, que se joga histérica pela janela afirmando ter sido violentada. 
+
+Ouvindo o grito da garota se atirando em chamas pela janela, milhões de seguidores que curtiam as fotos dela nas redes sociais invadem o prédio armados e começam a caçar Snake insanamente. Sem saber exatamente quem incendiou a garota, eles metralham todos os homens que estavam dentro do hospital, já que todos ali eram estupradores em potencial. (não da pra arriscar.) O jogador nerd então, somente com a mão esquerda (pois direita tava tocando uma), controla Snake até fugir do hospital com a ajuda de Ishmael, que misteriosamente tinha a mesma voz do Keith Sutherland, mas com a cara toda enfaixada. 
+
+O jogador é obrigado então a ver a única cutscene cinematográfica exageradamente enorme de gigante do jogo (o que causou um grande "mimimi" dos fãs mais conservadores), depois disso, Snake sai do hospital com a calça toda cagada de tanta cena cabulosa. 
+
+Depois de uma fase de tutorial que passa a impressão de Kojima estar sob o efeito de drogas quando a roteirizou, o jogador é mandado por Ocelot (que agora parece muito mais velho que o Snake Pai e já tem a aparência de cowboy cabeludo de suas primeiras versões) para o Afeganistão salvar Miller, que a partir desse ponto vai ser um capeta na orelha de Snake, já que está perneta e maneta, mas quer vingança.
+
+O objetivo do jogador então é construir uma fucking base foderosa e completar diversas missões, que estão infinitamente mais difíceis que nos jogos anteriores (gozo instantâneo para os fãs), além de ter que desbloquear uma porrada de armas, veículos e roupas secretas.
+[[Arquivo:Konami_Tears.png|thumb|Kojima bebendo seu energético diário]]
+
+Conforme o jogo avança, você consegue um lobo de estimação <s>chato pra caralho</s> que estraga a furtividade de todas as missões de stealth. Também consegue a tal assassina que foi incendiada e que agora está com o mínimo de roupas possível (os punheteiros de plantão ficaram felizes pelo God Designer ter dado uma explicação para isso).O jogador também recebe um cavalo que caga quando recebe carinho, a merda do cavalo serve para os carros capotarem na estrada (?) e por incrível que pareça é mais mortal que qualquer arma do jogo.
+
+No final do jogo (FODENDO SPOILER AFRENTE!!), você descobre que na verdade jogou com um sósia do Snake com memórias implantadas e que o Snake original é o cara das bandagens do início do game. Adivinha! Você vinha sendo manipulando desde o início (ou seja, dessa vez não é o Snake que é retardado, era o "snake" em você). Essa "revelação" me deixou frustrado, já que fiz meu personagem negão no inicio do jogo, e por meio de cirurgia plástica (Ou mágica, vai saber!?), transformaram o cara num caucasiano de olhos azuis. (extremamente preconceito isso!)
+
+Com esse final, o game foi criticado por haters e mimizeiros de plantão, mais uma coisa que fez todo mundo pegar raiva da [[Konami]]: além de ter torturado a Kojima Productions durante todo o processo de produção do game (vide tópico do Kojima), eles ainda cortaram o conteúdo final, ou seja, o game está nada mais, nada menos do que 45 missões incompleto!!
+
+E assim termina (pelo menos para os fãs), a saga Metal Gear Solid. Um jogo que se manteve atualizado nessa página da desciclopédia por mais de 10 fucking anos, participou da vida de uma porrada de gente, e sem sombra de dúvida quando terminou fez muito marmanjo nerd escorrer aquela lágrima de capivara no cio. (não que eu saiba diferenciar as lágrimas de uma capivara no cio, por favor, parem.)
+
+Pra piorar, como foi o game de despedida de Kojima da série, a [[Konami]] está livre pra cagar completamente na história dos futuros jogos da série e já anunciou que vai. (vide MGS: Pachinko e MGS: Survive)
+
+Beijos, abraços, lambidas, dedadas sexuais e até a próxima.
+
+{{c|É simples, ou você joga essa porcaria, ou você namora comigo! |Tua ex namorada |Metal Gear Solid V: The Phantom Pain.}}
+
+{{c|Lançamos exatamente o que nossos consumidores queriam! Que tal jogar nossa excelente máquina caça níquel do Silent Hill?|Konami |cagar com Metal Gear Solid V: The Phantom Pain.}}
+
+====MGSV: THE DEFINITIVE EXPERIENCE====
+Se você achava que o ground zeroes era uma edição desnecessária, está enganado. "Ouvindo os clamores dos fãs", a [[Konami|KUnamão]] lançou o Metal Gear Solid V: "Give Money for Konami" edition. É a junção do MGSV: Ground Zeroes, Phantom Pain e Online, sem adição de mais porra nenhuma a não ser uma capa diferente. (Sem o nome do Kojima, claro. Por acaso você esqueceu que eles são uma manada de pau na zorba?)
+ 
+ E se você acha que não comprando o jogo vai falir a Konami, está enganado, porque eles não gastaram merda nenhuma pra fazer.
+
+===Metal Gear Solid 3: PACHINKO===
+[[Arquivo:MetalGearBigBonus.jpg|thumb|190px|Parabéns! Você ganhou um "BIG BÔNUS"! Agora você pode usar todo ele pra pagar sua dívida com a Máfia.]]
+Surpreendentemente, a [[Konami]], com a saída de Kojima, mostra que é sinistra na arte de fazer fezes e anuncia "Metal Gear Solid 3: Pachinko", com gráficos ABSURDOS DE BOM, que na época deu esperança para os fãs da série acharem que a Konami teria feito um Remake do Metal Gear Solid original. Mas pra variar, a [[konami|KUnami]] criou na realidade um "Metal Gear/Máquina de Caça Níquel", onde vemos Big Boss se tornar um "Big Bônus".. É isso mesmo que você leu, os caras fizeram a porra de um jogo de caça níquel pra colocar em cassino, só faltou a mulher do corno que teve essa "brilhante ideia" esfregando a buça no teu braço enquanto você joga esse lixo, no maior estilo "Las Vegas".
+
+===Metal Gear: SURVIVE===
+[[Arquivo:MetalGearSurvive_Expressão.png|thumb|A reação desse personagem de "Metal Gear Survive" se assemelha a tua quando viu o jogo pela primeira vez.]]
+Eis que em um belo dia todos acordam e vêem um trailer de um novo Metal Gear. Dando play no vídeo, todos se deparam com uma imagem do fim de Metal Gear Solid: Ground Zeroes, e do nada, aparece um ânus no céu sugando tudo. Aparentemente você assume a identidade de um loiro (?) que deve ser seu personagem principal (se é ou não, quem liga?), vamos chama-lo de "Bostian". Depois de ser sugado pelo vortex anal, "Bostian" aparece num lugar "totalmente novo" chamado Afeganistão, onde percebe que o stealth, a história, a adrenalina e todo o tesão metalgearístico é substituído por zumbis (MAS QUE PORRA É ESSA!? - Você se pergunta). Pois é, zumbis com a porra dum triângulo na cabeça, ou um cristal de metanfetamina, (deve ser a "fonte de inspiração" de quem inventou esse jogo), o que fez todos chorarem e socar o dedo no dislike.
+
+[[Arquivo:Kojima-zoeragem.gif|thumb|"Tu comprou essa merda, é!? kkkkkkk!"]]
+Depois disso, descobriram que pra jogar essa merda você vai ter que ficar SEMPRE online, mesma "tática infalível" de títulos "super bem sucedidos" de franquias grandes, como Diablo III, Need For Speed (2015), SimCity (2013) e outros (essa "tática infalível" de combate à pirataria, inclusive, derrubou todas essas três franquias, então deve ser uma boa ideia, não?). Pelo visto o que a Konami quer é cobrir a franquia Metal Gear (que já tinha sido enterrada) com uma grande pilha de bosta, e essa obrigação de ficar sempre online seria a cereja em cima desse delicioso bolo de fezes. 
+
+[[Arquivo:MetalGearSurvive.gif|thumb|A Extraordinária Experiência Online de METAL GEAR SURVIVE... (Ninguém tá jogando essa porra)]]
+A própria [[Konami]] anunciou antes do jogo ser lançado que ele seria socado de "microtransações". Ou seja, ligaram o foda-se completamente para os consumidores, que na data do lançamento desta merda reclamavam aos montes das "microtransações" de outras franquias.
+ 
+Que raios é "microtransações"? Você deve estar se perguntando. Pois bem, é a forma mais "revolucionária" e "inovadora" que as empresas "videogamísticas" encontraram pra CAGAR COMPLETAMENTE com um jogo. Basicamente você troca DINHEIRO DE VERDADE por "SV Coins" (Dinheiro do MG:Survive) pra você desbloquear um conteúdo QUE JÁ VEM DENTRO DA PORRA DO JOGO que você JÁ COMPROU (e caro para um caralho, diga-se de passagem). Antigamente você precisava zerar o jogo pra desbloquear acessórios, raramente tinham jogos que faziam "microtransações" em roupas, acessórios, cores pra armas, "cabelinhos" e etc... Mas agora, basicamente TE OBRIGAM a pagar por esse caralho! Como fazem isso?: Bloqueando personagens, cenários, habilidades e/ou tornando o jogo online mais difícil pra quem não paga, porém o tornando mais fácil para o bando de retardado mental que gasta dinheiro de verdade nessa merda. Se lembra das moedas verdes da fazendinha feliz? Então. Jogos hoje viraram basicamente isso, só que o fazendinha feliz era de graça e não tinha um GORDO TETUDO com uma arma desbloqueável (com dinheiro de verdade) te dando headshot no respawn!!
+
+Pra tentar "amenizar" a má reputação do jogo, a [[Konami|Kunamão]] teve a "brilhante ideia" de disponibilizar um BETA desse jogo "originalíssimo"! Incluindo: A incrível construção de objetos em tempo real, igual ao [[Fortnite]]; Extração e mineração de recursos, igual [[Fortnite]] e [[Minecraft]] (Sim, um jogo da série Metal Gear se inspirando em Minecraft); Inimigos "originalmente" feitos dos padrões de [[left 4 dead]]: Um zombie gordo que explode, um que cospe ácido, um que corre e etc.; Além de reutilizar TODA interface, sons, músicas, roupas e personagens do Metal Gear Solid V (quando digo reutilizar, é reutilizar TUDO mesmo, EXATAMENTE IGUAL. Até a porra do ícone de "loading" os infelizes reutilizaram!). E adivinha só: Vão cobrar dos fãs o preço de um jogo COMPLETAMENTE NOVO. (uau!) Pra completar, você precisava esperar quase 30min pra conseguir jogar online com alguém. Mas não culpe a velocidade da internet (que aqui no Brasil é um lixo), é porque realmente não tinha alguém online jogando esta merda. 
+
+Depois da demo, descobriram que a malandragem de ficar sempre online foi basicamente uma estratégia pra barrar a galera que faz review de games (que tem acesso antecipado ao jogo) a perceber que ele é socado de microtransações (até o talo). Ou seja, distribuíram cópias antecipadas do jogo, porém não liberaram pra jogar online, não liberando pra jogar online a [[Konami|Kunamão]] achava que iriam dar bons reviews para o jogo, o que não saiu NADAa como esperado por eles.  A galera que fazia review "segurou" a nota do jogo até o lançamento do modo online, e então se depararam com microtransações até nas coisas mais boçais que você possa imaginar, como desbloquear um slot de save extra para novos personagens, pílulas de renascimento (continue), e é claro, para acelerar o progresso no jogo e deixar o seu amiguinho que não pagou mais dinheiro para trás (e pau no cu de quem já gastou R$ 150,00 no jogo). Na boa, o cara que paga pra ficar na frente dos outros num jogo online não tem somente uma vida sexual INAtiva, tem um problema psiquiátrico tão sério que chega a dar medo se você parar pra pensar um pouco.
+
+[[Arquivo:Metal_Gear_Survive_Nota.png|thumb|Adivinha só quem vai ganhar o prêmio de jogo do ano?]]
+Fato é, que METAL GEAR de verdade MORREU, e morreu da forma mais dolorosa possível! Sejamos sinceros aqui, METAL GEAR sem KOJIMA é tipo é tipo chupar picolé com embalagem, é tipo abrir o iogurte e não lamber o lacre de alumínio, é tipo "transar" tocando punheta, é tipo Bochecha sem Claudinho, é tipo comer a tua irmã e etc, etc...
+Se um dia você resolver joga-lo, experimenta enfiar os dois dedo nesse teu cu pra ver se você caga uma "lootbox".
+
+{{c|Achou que pagando R$ 150,00 pelo jogo você ia ter ele completo? Achou errado otário! |Choque de Cultura |Metal Gear: SURVIVE.}}
+{{c|Tomar no cu comigo é mais barato, é só cinquentinha. |Putão | compradores de Metal Gear: SURVIVE.}}
+{{c|Sabia que da pra fazer desse jogo um excelente apoio para uma cadeira bamba?  |Comprador de Metal Gear: SURVIVE |Metal Gear: SURVIVE.}}
+{{c|Meu contato com sexo é tão distante que nem punheta eu bato mais. |Comprador de "SV Coins" |Metal Gear: SURVIVE.}}
+{{c|Manda mais merda que eu vou comprando.  |Comprador de Metal Gear: Survive |Metal Gear: SURVIVE.}}
+{{c|A misteriosa vida dos jogadores de Metal Gear: Survive. Onde habitam? Do que se alimentam? Como se comunicam? Como se reproduzem? Hoje, no Globo Repórter.|Locutor do Globo Repórter |Metal Gear: SURVIVE.}}
+{{c|Até que enfim alguma coisa mais odiada do que eu |[[Michel Temer]] |Metal Gear: SURVIVE.}}
+
+==Personagens==
+===Os Cobras===
+====Naked Snake/Big Boss====
+[[Arquivo:SoldSnake.jpg|thumb| Parece que o jogo virou, não é mesmo?]]
+O principal protagonista machão dos <s>Rambos</s> MGS, é o tipo de cara que come prego e pede bis; não chupa o mel, masca a abelha; lava a cabeça com shampoo adulto de olho aberto (pra ficar ligado nas ameaça); bate o dedinho do pé na porta e da rizada (e explode a porta com C4 depois); come areia como se fosse farofa; não estaciona o carro, puxa a calçada; que não fuma, da tragada no cano de descarga do caminhão.
+
+Para entendermos melhor Naked Snake/Big Boss, vamos voltar para MGS3, que se passa nos primórdios da história, no período denominado ''Guerra Fria'', que por mais incrível que pareça não acontece no Alaska como em Metal Gear Solid 1...
+O protagonista da vez é Naked Snake (Cobra Nua, piadinha velha já!), soldado mandado por capitalistas para resgatar um cientista super dotado (intelectualmente) que foi capturado por socialistas(típica briguinha de <s>casal</s> rivais). Junto da captura do cientista, Snake devia recuperar um tanque de guerra fodão chamado "Shagohod" e matar a "The Boss" (soldado lendária, e ex-mentora de Snake, <s>gostosinha</s> mahomenos, dava pra dar uma pinguelada na cara, vai dizer?). No final ele come a Eva, gostosona do jogo, que ficou a missão toda tentando dar para ele. Snake manteve-se profissional até o fim da missão, quando, reza a lenda, que chegou a esporrear sangue na garota toda, de tanto que segurou ela dentro do saco.
+
+Com essa prova de lealdade e mestria em controlar a libido, Naked Snake vira o "The Big Boss", e, como de costume, descobre que foi enganado e que quem fodeu ele por trás foi na verdade foi ela, se enfurece por não ter feito um [[69]] com a gata e cria uma base militar sem fronteiras, que luta por uma ordem mundial sem conflitos armados, sem controle libidinal e o fim do cu doce feminino. Mais tarde, um grupo destrói a base militar sem fronteiras de Snake, que desiludido, se torna totalmente pirado.
+ 
+Então acaba a série Metal Gear, com Snake insano, sedento por vingança, sexo explícito, se autointitulando "Big <s>Fucking</s> Boss <s>das Picas of Galáxias</s>", querendo arregaça com o barato todo e montar outra base, agora chamada "Outer Heaven". Concluindo a base, Big Boss decide espalhar o caos e levar a economia mundial pro saco. (Ou seja, o motivo da existência dele nessa época era só o de arregaçar com geral e tacar o foda-se)
+
+O cara era visto como “o soldado perfeito”, então tiveram a “brilhante” ideia de clonar ele 3 vezes, dai surgiram: Liquid Snake, Solidus Snake e o Solid "Fodão" Snake, o mais parecido com ele em termos de <s>libido</s> aspecto. 
+
+Os 3 soldados perfeitos clonados não tinham utilidade nenhuma depois do fim da guerra fria, a não ser, por alastrar o caos, comer as novinhas e matar toneladas de gente. Com isso, alimentaram a economia pela guerra (que é um negócio que rende mais que o petróleo) aos Estados Unidos, que por sua vez, eram controlados secretamente por um grupo seleto de pessoas denominados "The Patriots". (Algo "semelhante" acontece na vida real, só que digamos... <i>ahem!</i>... que é só "fantasia videogamística”).
+
+Então começa a série Metal Gear (?) (Sim, começa quando termina a série, puta que pariu, que história fodida), com Big Boss/Naked Snake tentando ARREGAÇAR com o mundo, sendo mais tarde derrotado por Solid Snake, seu filho/clone, que tacou fogo no velho sem dó. Big Boss achava que Solid Snake não era bosta nenhuma, mas foi surpreendido.
+
+Então acaba a história da série, que é em Metal Gear Solid 4 (cronologia filhadaputa), Big Boss retorna com pedaços dos corpos de Liquid e Solidus (pensa na medicina magica!), se apresenta no túmulo de The Boss, dai ele lança a real pro seu filho/clone Solid Snake, discordando da The Boss, sobre o que ela disse: "que no mundo só tem um lugar para um Boss e um Snake". Na real, Big Boss conclui que o mundo seria melhor sem "Snakes", ou seja, sem gente matando ou morrendo, sendo manipulado, estuprando gente à força e obrigando uns aos outros a serem o que não querem. ☮ Big Boss então morre pelo FOXDIE, os fãs nerds choram e no dia seguinte são espancados na escola por "Snakes" que querem impor suas vontades no mundo. 
+
+-FICA NO AR A MORAL POÉTICA DO JOGO DE VIDEOGAME- 
+
+As últimas palavras de Big Fucking Boss foram: "Isso é bom, não é mesmo?" (morre) E ninguém sabe se ele tá falando da tragada no charutão, da paz que reina no mundo, da vida, ou de sua libido, que agora estava finalmente satisfeita e descansando.
+Provavelmente nem você, nem eu e quem sabe nem o Kojima, entenderam ao menos 50% da história do game. (mas que é foda é.)
+
+====[[Solid Snake|Solid]] Snake====
+Solid Snake, segundo protagonista mais duro do que bife de açougue de quinta, que por uma razão ordinária não participou de MGS2 como o protagonista. Odeia o irmão gêmeo nervozinho e cuzão. Tem um amigo nerd chamado Otacon (abreviação de "Otaku Convention"). Não tem mais nada para fazer na vida, então utiliza seu potencial de soldado para evitar que <s>malacos</s> terroristas subam no robô gigante (metal gear) e obriguem todo mundo a ouvir suas músicas ridículas, e se tornarem as criaturas mais boçais do Universo. Solid Snake também ganhou a habilidade de ser manipulado por capitalistas americanos como seu pai.
+ 
+Em Metal Gear Solid 4 ele se torna Old Snake, que por conta de ser clonado, envelhece de uma maneira bizarra igual a ovelha [[Dolly]]. Ele precisa injetar de 5 em 5 minutos uma parada no pescoço pra não morrer de ataque cardíaco, além de sofrer de dor nas costas o tempo todo. No fim do jogo ele se fode todo e quase morre, só não mataram ele para os fãs não chorarem no final (mas quase choraram), já que ele é um símbolo de autoconfiança da galera [[nerd]].
+
+====Liquid Snake====
+[[Arquivo:LiquidBean.JPG|thumb|100px|Liquid Snake em um jantar de gala em 1993.]]
+Resultado do projeto <s>''Les Enfants Terribles''</s> "Los Elefantes Terribles de la África" (Que incomodam muita gente), tinha como objetivo criar o soldado perfeito a partir de Big Boss (julgado como o soldado perfeito original). Clone que tem os genes <s>dominantes</s> depressivos de Big Boss, ele acha que é o inferior dos três clones (Solid Snake, Solidus Snake e o próprio Liquid Snake). Mas descobre que ele, sim, éo mais fodão, até mais que o Solid. Mesmo sendo o melhor dos três ele é o primeiro a morrer. 
+
+Ele tem fama de indestrutível, pois caiu de um ''Hind-D'' que em seguida explodiu, subiu no Metal Gear REX, levou tiro, travou uma luta com seu irmão Solid Snake, perdeu a luta, caiu 3 ou 4 andares abaixo, sobrevive a um desabamento que ocorre no lugar, mesmo ferido consegue dirigir e perseguir Solid até a saída da base de ''Shadow Moses'' levando tiro até a saída, capotou seu carro conseguiu se levantar com uma arma e morreu somente por causa de um vírus chamado FOXDIE. Este sim poderia trabalhar com o Bruce Willis e Steven Seagal em um verdadeiro DIFÍCIL de matar!
+
+====Solidus Snake====
+Solidus é o terceiro clone do projeto "Les Mammuthus Del Paleozoico.", o clone mais tosco, usa um exoesqueleto com dois braços que lançam choquinho, ele é tão sem graça que não da nem vontade de escrever algo sobre ele nesse artigo, tão sem graça que pouca gente vai se empenhar de ler sobre ele, porque "pfff, aquele velho puto? Nem vou ler sobre ele, vou passar pro próximo, a EVA é mais gostosa". Solidus já nasceu velho e com ereção comprometida, o que fez com que se revoltasse contra o sistema. Sua maior ambição é tornar os estimulantes sexuais de graça, por esse motivo lutou na guerra civil da Liberia, onde conseguiu um estoque de estimulantes sexuais, foi lá que matou os pais de uma criança, mas acabou gostando dela (Ah, não, pedofilia não!!), obrigava a criança a ter relações sexuais com ele, foi quando nomeou a criança carinhosamente de Jack (O Raiden de MGS2). Conforme o tempo foi passando o estoque de estimulantes sexuais acabou, o que fez com que Jack/Raiden terminasse seu relacionamento com Solidus e viajasse pelo mundo em busca de um parceiro que o satisfizesse. Solidus revoltado, copiou o Outer Haven do seu pai "big boss", assim como fez com os braços do seu exoesqueleto, copiados do Dr. Octopus do [[homem-aranha]]. Na boa, que lixo de historia, por que eu me dei o trabalho de escreve-la? Se você leu até o final, parabéns, merece um beijo. ;*
+
+====Venom Snake====
+
+Venom Snake é o cara que <s>não é</s> é o Big Boss.
+
+Após o acidente com o helicóptero na base do Metal Gear Solid de PSP, acabou perdendo um braço, uma mão, o olho e a exclusividade do portátil da sony.
+
+Devido os acontecimentos envolvendo a Paz no jogo anterior, ele recebeu <s>um chifre de corno</s> um estilhaço da aeronave que explodiu e ficou alojada em seu crânio! Porém, mais pra frente, ele descobre que não era o Big Boss e que ele estava sendo manipulado o jogo todo (Uau!). (Tomou spoiler? Esse jogo já lançou há séculos!! Pau no seu C*) O chifre na realidade surgiu por conta das aventuras de Quiet, sua namorada, com a galera da mother base, enquanto o Venom Snake, ingênuo, vivia no Afeganistão acompanhado de seu cachorro/lobo.
+
+Esse puto matou mais gente no Afeganistão do que todas as bombas já lançadas por lá até hoje na história da humanidade. As lendas contam que a dor de corno era tanta, que Venom Snake voltava pra casa (mother base) só quando estava completamente banhado de sangue de seus inimigos. É dai que surgiu o título do jogo: The Putão Pain.
+
+Em diversas entrevistas, o Kojima já disse que Venom Snake na realidade representa a visão dos fãs de Metal Gear sobre o herói (Snake). Ou seja, o Kojima pensa que todos nós somos um bando de chifrudos. Valeu, Kojima, seu arrombado.
+
+===As Cocota Sexual===
+[[Arquivo:Eva Tara.jpg|thumb|140px|Eva e seu decote macio. Pode olhar... Mas cuidado, pois se Big Boss ficar sabendo pode chamar seus capangas da "Outer Heaven" pra te espancar depois...]]
+====Eva====
+
+Tarada por cobras (O Título Metal Gear Solid SNAKE EATER é por causa dela), e espiã de uma organização chinesa. Eva foi a primeira mulher em jogo que resolveu dar para um soldado durante uma missão. Inicialmente, ela aparece em MGS3 depois de uma cena em que Snake aparece fodido cercado por soldados, aí ela mostra que sabe dar tiro e mata todos que queriam levar o Snake pro saco. Então ela fala com Snake e mostra seu lindo decote macio. Ela diz que veio ajudar e que quer liberar o dela o mais rápido possível na ilha e ir embora. No final de MGS3, Eva mostra que é a verdadeira merecedora do título "Snake Eater". Agora, em MGS4, se descobre que ela é a mãe de Solid (ainda bem que ela falou isso antes de ele comer ela, porque ela ainda [[anciofilia|dava um caldo]]...).
+
+{{c|Merda!! Meu pai é cego, minha mãe é uma puta, e meus irmãos são uns viados! Tô fudido. |Solid Snake |falando sobre sua família}}
+
+====Meryl====
+Não, não é um artigo sobre [[marill]] o pokémon, mas [[Meryl_(Metal_Gear)|Meryl]], a ruivinha machorra que gosta de fazer abdominais, sonha em ser soldado, mas mesmo assim, não resiste a sedução de Solid Snake, que fode até buraco de fechadura se bobear muito. A frequência do seu codec, que de acordo com o Colonel está atrás da embalagem original do game (se você não tem o jogo original, provavelmente se fodeu nessa parte), é 140.15 (15 é a idade inicial das garotas que Snake começa a comer), pronto, agora você pode continuar a jogar. Meryl é a primeira garota em game a seduzir muitos corações nerds, que acabaram se apaixonando pelo seu jeito másculo. No final do jogo ela se entrega pro Snake, que fura o olho da nerdeada toda depois de dar uma fodinha com ela na neve, e com sua libido satisfeita, Snake acaba deixando-a no Alaska sozinha, como todo garanhão cafajeste faz ([[Charlie Harper]] curtiu o artigo). Em Metal Gear Solid 4 ela se apaixona por Johnny, o soldado cagão, deixando de vez Old Snake e sua disfunção erétil afetada pela idade, ela deu o troco. (e deu com gosto)
+
+====Paz Ortega====
+[[Arquivo:Pazortega.jpg|thumb|320px|Paz expressando toda sua inocência. Mas não se engane: "Por traz de todo rostinho angelical feminino, existe uma fera sexual incontrolável!!" - [[Mestre Miyagi]]]]
+Paz é uma ninfeta que aparece em MGS: Peace Walker e MGSV: Ground Zeroes, ela consegue se superar na putice, mais que qualquer uma das personagens da série juntas. Paz aparece em Peace Walker dizendo ser uma estudante de 16 anos de idade, só para atiçar a libido mórbida do nosso protagonista Naked Snake, que não aguenta de tesão e acaba comendo a menina debaixo duma caixa de papelão na praia. (PERDOFILIA!)
+
+No fim do jogo, Snake descobre que Paz não era estudante porra nenhuma, nem tinha 16 anos, era uma espiã de CIPHER/MAJOR ZERO/THE PATRIOTS/LA-LI-LU-LE-LO/FOX/MEU PAU DE ÓCULOS. (tanto nome pra uma coisa só, não fode Kojima, caralho!) O objetivo dela era espionar a base, roubar o Metal Gear ZEKE e espalhar <u>clamídia</u> (google it) pra galera toda. (até pras mulheres)
+
+Em Ground Zeroes, Paz é capturada e mantida em cativeiro por um grupo chamado XOF numa base militar em Cuba, lá ela é espancada, torturada, estuprada, estripada tudo ao mesmo tempo, de manhã, de tarde, de noite,  na frente de todo mundo e por todo mundo, ficou até banal: -"Ei, vai rolar um pagode amanhã no gabinete do Skull Face, bora lá tomar uma cerva, tocá um pandeiro, comer um churrasco, comer a Paz?" -"Demorôôô, fei!..."
+
+Depois de Snake Pai salva-la, é descoberto uma bomba dentro da barriga da menina. Após tirarem a bomba das tripas da garota numa cena bem "gostosa" de se ver, Paz se joga do helicóptero de resgate dizendo que a rapaziada havia escondido OUTRA bomba na boce** dela (Sim, é verdade, não é zoação.) e explode no ar, espalhando porra por todo lado. 
+
+Finalizando todas as missões de Ground Zeroes, você descobre uma fita <s>cassete</s> cacete dela contando que odiava a rapaziada da base do Snake, e narrando as histórias sexuais que ela teve com todo mundo de lá (isso que é ÓDIO, cara!).
+
+[[Arquivo:Lovebox.jpg|thumb|275px|#partiu #lovebox [[pedobear|#perdofelia]] #farmacia]]
+[[Arquivo:Snake_romantico.jpg‎|thumb|250px| Snake sendo romântico com as mulheres. ]]
+Segue uma pequena lista de pessoas que já comeram a Paz:
+#Naked Snake. (Big Boss)
+#Master Miller. (Kaz)
+#Skull Face.
+#Chico.
+#Major Zero. (Cipher)
+#Alexandre Frota
+#O Papagaio do The End.
+#[[Kid Bengala]]
+#[[macumba|O Preto Velho]].
+#[[Che Guevara]]
+#[[Fidel Castro]]
+#Toda a população da Costa Rica.
+#Toda a população de [[Cuba]].
+#Todos os mercenários de Outer Heaven.
+#Todos os soldados do Camp Omega.
+#Todos os pedreiros da obra na esquina da tua casa.
+#Toda a torcida do [[Flamengo]].
+#Toda a equipe do FOX ENGINE.
+#Toda a equipe da [[Konami]]
+#[[Jair_Bolsonaro|Bolsonaro]] (Tava junto com a galera da XOF)
+#Grupo anônimo de pedofilia brutal.
+#[[Pedobear]].
+#Rafinha Bastos.
+#Doctor Strange Love. ([[Lésbica|A machorra cientista]])
+#[[Thammy Gretchen]].
+#[[Daniela Mercury]]
+#[[Lindsay Lohan]]
+#[[Cássia Eller]]
+#[[Tua Mãe]].
+#[[Ellen Page]]
+#[[Gal Costa]]
+#[[Sasha Grey|Sasha <s>Grey</s> Cinza]]
+#O [[Led Zeppelin]]
+#Todo mundo que tinha um pênis ereto em 1970.
+#[[Ocelot|Revólver Ocelot]]
+
+Lista de pessoas que NÃO comeram a paz:
+#Jogador de [[League of Legends|LOL]].
+#Você.
+
+===Raiden===
+[[Arquivo:VampRaiden.jpg|thumb|300px|Raiden e Vamp num encontro quente em MGS4.]]
+Personagem <s>homossexual</s> principal de Metal Gear Solid 2, decepção de muitos <s>homofóbicos</s> fãs da série.
+
+Raiden surge em MGS2, apresentando suas coxas suculentas e seu cabelo sedoso MA-RA-VI-LHO-SO de ninjinha guloso! Seu objetivo era o de entrar numa base militar e mudar o "look" HOR-RO-RO-SO dos vilões da série.
+
+No decorrer da historia, Raiden descobre que está sendo manipulado por máquinas super inteligentes e que a sua namoradinha de faixada, "Rose", também. Posteriormente, Raiden descobre que havia engravidado Rose confundindo-a com o [[Brad Pitt]], após uma noite deliciosa num bar gay em Nova York, onde ele tinha entortando o caneco de [[Pai_de_Família|suco de laranja]]; ele descobre também que Solidus Snake está na base e que é o grande vilão da história; ele descobre tembém que Solid é Pliskin e que Pliskin é Solid e viceversa, o que deixa ele "azul chicléatchean" de susto! Então, ele ajuda Snake a parar um tal de Arsenal Gear, que quer dominar o mundo com uma fábrica de Metal Gears <s>Gays</s> Rays. E depois de uma <s>piça</s> comprida história, ele mata Solidus e sai desfilando pela cidade, mandando beijinho pras inimiga, ele joga o Dogtag dele fora com sua identidade masculina, posteriormente entrando em uma profunda crise existencial. (era transsexual) Em Metal Gear Solid 4 ele aparece com um exoesqueleto cibernético, resultado de uma cirurgia de mudança de sexo mal feita.
+
+Na realidade, vendo que apenas uma pequena porcentagem de homossexuais haviam gostado do Raiden (e não a maioria deles), tornando esse personagem um dos maiores fails da carreira de Kojima, o japonês decidiu usar a formula usada em [[Prince of Persia]]: Warrior Within e transformou o raiden em um ninja cibernético que roda a sua katana mais rápido que um girocóptero e destrói milhões de inimigos por segundo. Por isso, milhares de nerdzinhos punheteiros jogadores de [[tíbia]], no alto de seus treze anos de idade ( ou pelo menos a idade mental ), resolveram que o Raiden é fodão.
+
+===Revolver Ocelot===
+O <s>velhão</s> vilão mais cobiçado da série. Se apresenta como Adamska em MGS3, e em MGS2 ele se apresenta como Skavuska, Shalashaska, na verdade este é apenas um apelido dele na Rússia (Significa prisão), dizem que seu verdadeiro nome é Adamska da Silva do um dois três(E vai seber quem diabos colocou esse nome sem graça aqui?). Há rumores de que em MGS5 ele se apresente como Kashassa, ou talvez como Skolnalata, Whyskykongelo, Bakardílimónkomkokakola ou talvez não seja apresentado como [[Porra Nenhuma]]!... Dizem que ele é o líder dos Patriotas, mas em MGS4 todo mundo descobre que isto não se passa de uma mentira e que ele está sendo enganado junto com todo mundo (já estava na hora de alguém além do Snake ser engando nessa poha!). Ele aparece em todos os jogos da série Metal Gear Solid, obviamente como vilão em todas elas.
+
+===Psycho Mantis===
+O vilão mais filho da puta de todos os jogos da kunamão juntos, é o responsável por fazer 65% dos jogadores de Metal Gear Solid desistirem de finalizar o jogo. Ele tem a terrível capacidade de ler os dados do seu memory card do play 1 e descobrir quais jogos você está jogando, o que já fez muito neguinho cagar nas calças, sem dúvida.
+Há boatos que ele irá fazer uma ponta em Metal Gear Solid 5, se na época do [[playstation]] ele conseguia ler seu memory card, prepare-se, porque no [[playstation 4]]  ele vai descobrir os sites pornôs que você anda acessando por ai e te dar uma bronca por limpar a porra na tua camiseta.
+
+{{c|...e bateu 3 seguidas, na terceira acabou o papel higiênico e esporreou na camiseta... e eu vou contar pra tua mãe. |Psycho Mantis demonstrando seus poderes psíquicos}}
+
+===Otacon===
+[[Arquivo:OtaconNecro.jpg|thumb|200px|Otacon e sua irmã em uma cena cheia de choradeira em MGS2]]
+Nome derivado de [[Otaku]], [[nerds]] [[emos]] japoneses com uma leve fama de homossexuais, que assistem desenhos e que se vestem estranhamente como personagens de animes. Sua primeira aparição foi em MGS1, deis de então virou grande amigo de Solid Snake.
+Em MGS1 ele amava uma cachorra safada, ''Sniper Wolf'', que após trocar tiros com Snake acaba caindo morta na neve. Sem ter pra onde ir ele começa seguindo Snake incansávelmente e acaba se envolvendo com a máfia japonesa. Em MGS2 ele perde mais uma pessoa próxima, desta vez sua irmã (nerd) caçula, assassinada por ''Vamp'', um vampiro bailarino gay. Sem ter para onde ir e sem um tustão no bolso ele constrói uma máquina do tempo que o leva anos antes para a Guerra Fria, onde conhece um velho chamado The End, sem ter dinheiro para comer ele resolve vender o papagaio da falecida irmã ao pobre velho em troca de umas moedas. Em MGS4 ele fica escondido em uma base a quilômetros de distância e controla um robozinho feito de peças de Lego no lugar dele.
+
+{{c|Snake tome cuidado com o MKII|Otacon, logo após Snake ter baixado uns vírus pro robozinho num site pornô.}}
+
+===Vamp===
+Membro duvidoso da ''Dead Cell'', ele é o típico cara que se acha o vampiresco e o chupador de tudo.
+[[Arquivo:Vamp.jpg|thumb|130px|]]
+Ele aparece em MGS2 e MGS4, fazendo papel de gay em todos eles. Vamp perdeu toda a "parentada" durante o desabamento de uma igreja na Romênia, onde teve que chupá-los todinhos para não morrer de fome, daí ele gostou do sabor e começou a chupar o sangue de geral. Depois deste acontecimento entrou em um circo e lá aprendeu a atirar facas, desviar-se de tiros, correr pela parede e andar sobre a água (sobre esta útima, dizem que ele entrou na máquina do tempo de Otacon e foi colega The Fear e foi aluno de Naruto !) . Depois se juntou a unidade Cell, que após levar um Kamehame-há do Gohan se transformou na unidade Dead Cell. Em MGS2 sequestrou o presidente dos EUA e encontrou um parceiro para fazer boiolagens, Raiden. Em MGS4 eles se reencontram e tem 6 filhos, após os créditos do jogo eles vivem felizes para sempre.
+
+===Roy Campbell===
+CoLonel Roy Campbell é o comandante oficial da FOXHOUND. Conhecido também por sua eterna carência, pois te chama no CODEC 2566 vezes durante o jogo para avisar sobre coisas óbvias (Qual o botão para subir a escada), acha que o CODEC é um twitter, onde ele tem que informar que foi ao banheiro, que foi à farmácia, que está na fila do banco, que está triste, com hemorroidas, fome, entre outros.
+Campbell é conhecido em Metal Gear Solid 4 por fornicar com a ex-mulher do Raiden, Rose, (ele terminou com ela pois estava sexualmente confuso). Rose é 76 anos mais nova que ele, mas ele não liga, já que a fimose é dele e ele divide com quem ele quiser!
+
+===Laughing Octopus===
+[[Arquivo:L.Octopus_Arma_Mortal.jpg|thumb|450px|Laughing Octopus utilizando sua arma mortal em MGS4]]
+Você batalha com este "ser" se cagando de medo. Depois de derrotada, você descobre que é uma loirona gostosa que aparece com o rabo virado pra tela a cada 2 segundos, e como se não fosse o suficiente, ela tenta te dar um abraço gostoso, só que o abraço dela tira vida (pressão psicológica muito bem utilizada <s>contra</s> a favor do jogador). Snake vence sua libido e graças a disfunção erétil afetada pela idade, derrota a gostosa (desperdício). Ela está sempre rindo (ninguém sabe o porquê), acredita-se que na sua roupa mecânica tenha um vibrador duplo que não para quieto no seu rabo.
+
+{{c|fap* fap* fap*♪|[[Nerd]] Punheteiro| Laughing Octopus}}
+
+===Crying Wolf=== 
+É uma cachorra atiradora que viveu a maior parte da vida numa espécie de armadura em forma de lobo. Por isso vive uivando na esperança que venham comer ela. Mas como ninguém vem, ela [[Emo|chora sem parar]].
+
+{{c|Uhh! négona goxtoooooosa! co essa bunda vo te convida pa caga la em casa!  |Tiozinho do boteco |Crying Wolf}}
+
+===Raging Raven===
+Uma gostosa metida a urubu que vive sobrevoando a [[Europa]]. Ela é extremamente estressada.
+
+===Screaming Mantis===
+Uma versão de Psycho Mantis com peitos de silicone (sem dúvida, versão muito melhor que a anterior). Ela vive gritando (também não se sabe o porque), seu poder é concentrado em <s>seus vibradores</s> suas bonecas vudu.
+
+===Gekkos===
+[[Arquivo:EVAFAP.jpg|thumb|400px|fap* fap* fap* fap* fap* fap*fap* fap* fap* fap* fap* fap* fap*fap* fap* fap* fap* fap* fap* fap*fap* fap* fap* fap* fap* fap* fap*fap* fap* fap* fap* fap* fap* fap*fap* fap* fap* fap* fap* fap* fap*...]]
+São uns robôs fodões que mugem (eles tem pés de galinha e mugem como vaca?) e auxiliam os soldados inimigos em MGS4. Além de poderem te matar com um chute, aparecem de qualquer lugar como: um elevador, uma geladeira, uma privada, etc. Eu disse que eles têm o tamanho de um guindaste?
+HUASUHASUHHASU
+
+===Frogs===
+São as <s>escravas sexuais</s> tropas especiais femininas contratadas por Liquid-Ocelot. Auxiliam as malucas da ''The Beauty and the Beast Unit'' e fazem a segurança do próprio Liquid-Ocelot. Devido as suas habilidades (como o kama-sutra) acrobáticas, são capazes de andar pelo teto; mas não se assuste, elas morrem rapidinho, virando uma gosma azul estranha. Podiam contratar um padre pra exorcisá essa gente...
+
+===Drebin===
+<s>traficante</s> comerciante de armas que vive da economia da guerra, parece uma mistura de belo com [[primo preto]] e vive fazendo magicas. é tão fodido que vive em um tanque com seu <s>filho</s> macaco de estimação. Por algum motivo ele não aceita dinheiro e sim DP ou Drebin Points
+
+===Samuel Rodrigues/Jetstream Sam===
+Introduzido <s>UI!</s> no game da franquia que consiste em fatiar metade do mundo, Metal Gear Rising: A vingança vingada, Sam age como o [[clichê]] de "Rival Fodão" (aquele que dá um cacete federal no protagonista no começo do jogo e no fim perde <s>loser</s>). Samuel é o único personagem em toda a série Metal Gear que é brazuca, contrariando muitos dos rumores de que esse país de bosta nunca que ia conseguir se meter nessa guerra tecnológica que anda quebrando o pau no universo de Metal Gear. Sam também é um dos poucos brasileiros nos games que realmente é fodão, honrando o verde, amarelo e azul-anil. Nascido no Brasil em uma família de classe média descendente (distante) de japoneses, o pequeno Samuel foi treinado desde cedo no kendo pelo seu pai e descobriu que fatiar e triturar as coisas (ou infelizes) em pedaços era divertido pra caralho. Depois de vingar a morte de seu pai, que havia sido pego numa trairagem por um de seus alunos, Samuel saiu dessa barca furada que é o Brasil, comprando seu arroz com feijão com o dinheiro que ele ganhava fazendo alguns "servicinhos de limpeza" pra máfia. Ao entrar <s>pro exército</s> pra empresa Desperado por causa da peituda Mistral, o "sangue no zóio" Samuel recebeu o nome de Minuano, segundo os patrões, em homenagem aos "tranquilos ventos do Brasil" (o que foi uma mentira deslavada, já que o que aconteceu foi que a falta de grana tava brava, a saída foi fazer uma propagandinha pruma empresa de produtos de limpeza muito da fuleira), coisa que deixou o cara puto, adotando o nome de Jetstream Sam, saindo a picar tudo o que via pela frente, dando o maior olé nos trituradores da Walitta.
+
+==Conclusão==
+Metal Gear é um <s>seriado</s> uma série completamente original feita pelo God Designer [[Hideo Kojima]], sem nenhuma inspiração externa como de [[Fuga de Nova York]] ou [[Rambo]] ou mesmo [[Robocop]], e também [[Transformers]] ou [[Changeman]], tendo <s>copiado na cara de pau do Castle Wolfeinstein</s> criado o estilo de espionagem no mundo dos jogos.
+
+''br-r-rp br-r-rp''...''br-r-rp br-r-rp''
+
+'''SNAKE''': Coronel, acabei de ler esse artigo. Eu não achei nada interessante, o que eu faço agora?
+
+'''COLONEL''': Bom Snake, você pode olhar outros artigos nesse [[Desciclopedia|maravilhoso site]].
+
+'''SNAKE''': ...
+
+'''COLONEL''': E mais uma coisa!
+
+'''SNAKE''': O que?
+
+'''COLONEL''': A guerra realmente tem mudado.
+
+'''SNAKE''': O que?
+
+'''COLONEL''': Nada, tenha um bom dia!
+
+{{Oposto|Splinter Cell}}
+{{Metal Gear}}
+{{Konami}}
+{{Ação-aventura}}
+{{Stealth}}
+
+[[Categoria:Jogos da Konami]]
+
+[[es:Metal Gear (saga)]]
+[[ja:メタルギア]]
+
+----
+
+''Depois dos créditos acabarem:''
+
+'''OCELOT''': Sim ele acabou de ler esse artigo. Não, eu não acho que irá haver complicações... Sim, irei mantê-lo informado sobre qualquer mudança nos planos... Sem problemas senhor. Manterei contato... senhor Presidente!
+
+'''Big Boss''': Certo, cuide para que ele não seja mais manipulado, Coronel Ocelot.

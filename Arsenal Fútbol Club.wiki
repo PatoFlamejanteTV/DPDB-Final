@@ -1,0 +1,54 @@
+{{Box ClubeFutebol
+|cor_clara         = #4EACF6
+|cor_escura        = red
+|brasao            = Escudo do Arsenal de Sarandí.png
+|hino              =  
+|nome_oficial      = Es Anal da Siririca
+|origem            = {{ARG}}''' - [[Buenos Aires]], [[Sarandí]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Julio Humberto Grondona|Julio Humberto Gordona]]
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      =  
+|material          = 
+|liga              = Campeonato Argentino
+|divisao           = Primera División
+|títulos           = 
+|ranking           = 
+}}
+
+'''Arsenal Fútbol Club''', conhecido simplesmente como '''Arsenal de Sarandí''', é um clube argentino de futebol localizado no bairro de [[Buenos Aires]] de [[Sarandí]]. Considerado uma força terciária do futebol argentino, foi campeão nacional uma ou duas vezes, sendo uma espécie de [[Guarani Futebol Clube|Guarani]] versão argentina, por também ser bem familiarizado com rebaixamentos e péssimas campanhas.
+
+==História==
+=== Fundação ===
+O Arsenal foi fundado em 1957, mas apesar disso, por muito tempo ninguém sabia que porra de time era esse, nem mesmo os argentinos, o único Arsenal conhecido era o da Inglaterra mesmo. 
+
+=== Anos 2000 ===
+
+Despontou a partir do ano 2002, depois de ter rondado até na 5° divisão da Argentina por décadas, o Arsenal pela primeira vez ganhou o direito de disputar a primeira divisão. Apesar disso, o Arsenal seguiu firme e forte em sua rotina de ser mero coadjuvante desconhecido
+
+=== Copa Sul-Americana de 2007 ===
+
+Em 2007 (ano que fez 50 anos), o Arsenal chutou os bunda rachada do [[River Plate]], e conquistou seu primeiro título internacional, a [[Copa Sul-Americana]], pleitando assim vaga entre os considerados grandes da Argentina, porém em certa Libertadores da América perdeu dois jogos para o Fluminense, então o direito de ser considerado time grande na Argentina foi negado veementemente. Ainda mais quando na falta de possibilidade de ganhar qualquer título nacional, foi ir ganhar a [[Copa Suruga Bank|Suruba Bank]] no ano seguinte contra um timeco do Japão.
+
+==Títulos==
+*[[Copa Suruga Bank|Copa Suruba Baks]], em 2008 ([[o que é isso?]])
+*[[Copa Sul-Americana]], em 2007
+*1 [[Campeonato Argentino]], em 2012
+*1 Copa da Argentina, em 2013
+*1 Quarteirona
+*1 Quinteirona
+
+{{Campeonato Argentino}}
+{{Copa Sul-Americana}}
+[[Categoria:Times de futebol da Argentina]]
+
+[[es:Arsenal Fútbol Club]]

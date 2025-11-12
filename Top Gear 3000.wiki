@@ -1,0 +1,173 @@
+{{games}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Top Gear 3000
+|image     = Top Gear 3000 Capa.jpg
+|caption   = E aí, colega [[alien]]: esse carro é bonito?
+|developer = [[Gremlin Graphics]]
+|publisher = [[Kemco]]
+|released  = [[1995]]
+|genre     = Corrida e Estratégia
+|platform  = [[Super Nintendo]] e emuladores
+|rating    = 100%
+|ages      = Não é necessário idade, é só saber jogar
+}}
+{{c|Infância...|Todos que tenham seus 20 e poucos anos|{{PAGENAME}}}}
+{{c|Eu sou [[foda]]! Tudo no nível 6, a 980 km/h, sem bater... PQP! Bati!|[[Criança]] jogando {{PAGENAME}} baixado pelo [[irmão mais velho]]}}
+{{c|Muitos anos da minha vida pra conseguir o Bônus B!|Todos que tenham seus 20 e poucos anos|{{PAGENAME}}}}
+{{c|Eu conseguia em todas as corridas...|[[Ciro Bottini]]| o Bônus B no {{PAGENAME}}}}
+{{c|Tamo junto [[Ciro Bottini|Bottini]]!|[[AAA]]|o Bônus B no {{PAGENAME}}}}
+{{c|Esto ainda nón écziste!|[[Padre Quevedo]]|{{PAGENAME}}}}
+{{c|Acabou o combustível! O que eu faço!|[[Noob]] jogando {{PAGENAME}}}}
+ 
+
+==Por Quê?==
+[[Arquivo:Top Gear 3000 Corrida.jpg|thumb|A gente correndo. [[Eu]] na tela de cima e [[você]] na de baixo]] 
+Um bando de alienígenas sem mais o que fazer e sem [[vida social]] que queriam [[Dominação Universal|dominar o Universo]] resolvem criar um campeonato [[Automobilismo|automobilístico]] que ocorreria uma vez por milênio pra se divertirem e conseguiram seus objetivos. No ano [[3000]], fizeram a edição pra acabar com o domínio da [[Fórmula 1]], já que a categoria estava dominando o [[Universo]], dominada por [[Bernie Ecclestone]], [[Max Mosley]] e [[Hermann Tilke]] (sim, eles ainda estão vivos no ano [[3000]]), que viram como lucrar fazendo corridas no [[universo]] todo. Os Organizadores do Top Gear conseguiram infiltrar um [[alienígena]] na [[Recursos Humanos|RH]] e no setor de [[Propaganda]] da categoria, e viram como lucrar. E assim começou o {{PAGENAME}}, com um calendário pequeno de 15 etapas, ao contrário das 47 atuais e com shows da [[Elena Paparizou]] em cada um desses planetas:
+
+==Calendário da 1ª Edição: ==
+
+*1ª Etapa: [[Terra]], sem repercussão da mídia local, pois foi sediada no [[Acre]];
+*2ª Etapa: [[Tatooine]];
+*3ª Etapa: [[Namekusei]];
+*4ª Etapa: [[Marte]];
+*5ª Etapa: [[Vênus]];
+*6ª Etapa: [[Pandora (Avatar)|Pandora]];
+*7ª Etapa: [[Clean]];
+*8ª Etapa: [[Dagobah]];
+*9ª Etapa: [[Gaia]]; ('''''A partir dessa etapa, a gasolina fica mais rara que um pacote de arroz na Somália''''')
+*10ª Etapa: [[Krypton]], que foi destruído após revelarem que a organização local manipulou resultados da corrida;
+*11ª Etapa: [[Naboo]];
+*12ª Etapa: [[Yugopotâmia]], onde o último colocado via seu planeta natal sediar um [[F.L.A.R.G.]];
+*13ª Etapa: [[Coruscant]];
+*14ª Etapa: [[Kashyyyk]];
+*Etapa Final: [[Planeta Vegeta|Vegeta]], destruído após [[Freeza]] não se contentar com o resultado da corrida, pois seu piloto favorito não venceu, e acredita que os [[saiyajin]]s manipularam o resultado da corrida pra tal.
+
+== Terra no TG:==
+Desde sempre, a [[Terra]] teve seus representantes no campeonato. Segue o staff da equipe terráquea na 2ª edição:
+
+*'''Donos da equipe:''' o duo [[Daft Punk]];
+*'''Sede da equipe:''' A [[Colônia Espacial]] do clipe de “[[One More Time]]”
+*'''Pilotos:''' [[Rubens Barrichello]], [[Markus Winkelhock]] e [[Kamui Kobayashi]]
+*'''Designers dos carros:''' [[Colin Chapman]] e [[Adrian Newey]];
+*'''Tecnólogos:''' [[Daft Punk]], [[Ciro Bottini]], [[AAA]], [[Bill Gates]] e [[Steve Jobs]];
+*'''Chefe do Setor de [[Marketing]] e [[Propaganda]] e empresário da equipe:''' [[Roberto de Assis Moreira|Assis]];
+*'''Consultores (responsáveis por estudar [[Antropologia|antropologicamente]] os planetas que sediam as corridas):''' [[Temperance Brennan]] e [[Albênzio Peixoto]];
+*'''Patrocinadores:''' [[Red Bull (bebida)|Red Bull]], [[Petrobrás]], [[51]], [[Caixa Econômica Federal]], [[Cerveja Duff|Duff]], [[Pinto Bola]], [[Apple]], [[Congelados Orixá]], [[Ez Krunch]] e [[Facas Ginsu]].
+
+Nem dá pra acreditar que, com esse Dream Team, a [[Terra]] nunca ganhou o campeonato.
+
+==Sobre o Jogo em Si:==
+{{Fato|O Planeta da 1ª corrida não é a [[Terra]]?}}
+{{Fato|O Planeta da 2ª corrida não é [[Marte]]?}}
+{{Fato|A 3ª corrida não é na [[Lua]]?}}
+De saco cheio de ver os [[Top Gear]]s anteriores ([[Top Gear]] e [[Top Gear 2]]) fazerem corridas só na [[Terra]], a [[Kemco]] resolveu inovar e levar as corridas pra fora desse planeta nojento e de sociedade decadente que se chama [[Terra]], fazendo com que elas sejam disputadas lá fora, fazendo o 3º jogo da franquia ser um simulador desse campeonato, simulando como seria a 3ª edição, e com a consultoria do Staff da equipe terráquea que disputava a 2ª edição. O jogo previa que a energia nuclear alienígena seria usada nas competições. Como [[clichê|manda a tradição]], [[você]] começa sem dinheiro e tem que <s>se foder</s> dar teu jeito de arranjar grana pra arrumar o carro, ganhando corridas e pegando bolas de [[voleibol]] ([[WTF]]?) no meio da pista e fazendo as coisas certinhas pra ganhar bônus e ganhar mais dinheiro (que [[capitalismo]]...). A Jogabilidade segue a tese filosófica de “não é a melhor, mas é o que dava pra fazer na época”, e conta com um bom sistema anti-[[noob]]s, onde um [[noob]] pega um carro com tudo no níve 6, chega a 980 km/h e bate numa placa, isso sem falar que eles ainda não sabem como agir em caso de falta de combustível. Também batendo quando estão sem combustível, e que faz com que o jogo dê [[Game Over]] se você chagar de 11º pra baixo. Quem disse que [[tapete]] só serve pra acumular poeira e/ou esconder o chão da tua casa? Em {{PAGENAME}}, eles têm alguma utilidade: os vermelhos enchem o combustível, e os azuis consertam o carro, assim, o meio ambiente agradece e os mecânicos vão a [[falência]]. Dá pra ver que esse jogo é o cúmulo da ficção após ler essa seção, mas, quem quer realidade em videogames?
+
+==Os Bônus:==
+[[Arquivo:Top Gear 3000 Final.png|thumb|A última corrida. [[Você]] nunca a venceu...]]
+Seja [[foda]] nas corridas e ganhe alguns bônus. São eles:
+
+===A:===
+Termine a corrida com o nitro acionado, caso [[você]] seja um [[noob]], o que deve ser, e torrou todos os nitros ao longo da corrida, isso não acontecerá. Vale $30000
+
+===B:===
+Chegue em primeiro, ultrapasse todos os oponente 5 vezes, faça um cavalo-de-pau em cada volta, não abasteça, não arrume o carro, fique parado com o freio acionado por 2 minutos, pressione e segure "Select" por toda a corrida, não aperte o botão "Select", remova e insira o cartucho em menos de 2 segundos enquanto o jogo estiver rodando (no emulador reinicie o PC) e atropele no mínimo 5 ET's. Quem conseguir leva $50.000
+
+===C:===
+Não bata em ninguém, mas como [[você]] bate em todo mundo, não consegue ganhar o bônus. Vale $70000
+
+===D:===
+Não bata fora da pista, mas como [[você]] é ruim de volante... Vale $40000
+
+===E:===
+Não saia da pista, mas como [[você]] acha que a caixa de brita é parte da pista... Vale $20000
+
+== Lendas Urbanas do Jogo: ==
+===Bônus B:===
+A [[Kemco]] quis criar um sistema pra enganar trouxa, e criou o pragmático e o maior destruidor de infâncias do mundo dos videogames. Se chamava Bônus B, que se uniu ao [[Grunge]] pra criar uma geração [[Depressão|deprimida]] e com raiva do mundo, mas, existem aqueles que conseguiram tal bônus.
+
+===Space Colony:===
+As [[Lenda Urbana|lendas urbanas]] dizem que, se você conseguir vencer todas as corridas com todos os bônus no hard e estar com tudo no nível 6, [[você]] pode correr na Space Colony. Dizem que nada mais é que o cenário do clipe de “[[One More Time]]” do [[Daft Punk]], isso também fez com que milhões de crianças destruíssem suas infâncias pra tentar correr lá.
+
+Segue uma lista de algumas pessoas que conseguiram o Bônus B e a corrida na Space Colony:
+
+*Todos os empregados da [[Kemco]];
+*[[Ciro Bottini]];
+*[[AAA]];
+*[[Chuck Norris]];
+*[[Michael Schumacher]];
+*[[Michael Knight]] (o KITT ajudou);
+*[[Michael Traceur]] (o KITT ajudou²);
+*[[MacGyver]] (com a boa e velha [[gambiarra]]);
+*[[Temperance Brennan]], quis fazer um estudo [[Antropologia|antropológico]] numa sociedade onde apenas pessoas que conseguiram o Bônus B e conseguiram correr na Space Colony podem entrar.
+
+==Seus Rivais:==
+*Andrew;
+<choose>
+<option>*[[Dave Matthews|Dave]];</option>
+<option>*[[Dave Grohl|Dave]];</option>
+<option>*[[Dave Mustaine|Dave]];</option>
+<option>*[[Dave, o Bárbaro|Dave]];</option>
+</choose>
+<choose>
+<option>*[[Richard Ashcroft|Richard]];</option>
+<option>*[[Richard Alpert|Richard]];</option>
+<option>*[[Richard Nixon|Richard]];</option>
+</choose>
+<choose>
+<option>*[[Tony Tornado|Tony]];</option>
+<option>*[[Tony Montana|Tony]]; </option>
+<option>*[[Toni Platão|Tony]]; </option>
+</choose>
+*Masuno;
+*[[Oliver Tsubasa|Oliver]];
+<choose>
+<option>*[[Paul (Pokémon)|Paul]];</option>
+<option>*[[Paul Stanley|Paul]]; </option>
+<option>*[[Paul Phoenix|Paul]];<option>
+</choose>
+*[[Mick Jagger|Mick]];
+<choose>
+<option>*[[Ash Ketchum|Ash]]; </option>
+<option>*[[Ash Crimson|Ash]]; </option>
+</choose>
+<choose>
+<option>*[[Mark Webber|Mark]]; </option>
+<option>*[[Mark Henry|Mark]]; </option>
+<option>*[[Mark Knopfler|Mark]]; </option>
+<option>*[[Mark Zuckerberg|Mark]];</option>
+</choose>
+*[[Matthew Brodderick|Matthew]];
+*Ade;
+*[[Neil Young|Neil]];
+<choose>
+<option>*[[Pete Doherty|Pete]]; </option>
+<option>*[[Pete Sampras|Pete]]; </option>
+<option>*[[Pete Townshend|Pete]]; </option>
+</choose>
+<choose>
+<option>*[[Karl Marx|Karl]];</option>
+<option>*[[Karl Wendlinger|Karl]];</option>
+</choose>
+<choose>
+<option>*[[Paul Tracy|Tracie]]; </option>
+<option>*[[Tracey Sketchit|Tracie]]</option>
+</choose>
+*[[Bernie Ecclestone|Berni]];
+<choose>
+<option>*[[Syd Barrett|Syd]];</option>
+<option>*[[Sid (A Era do Gelo)|Sid]]; </option>
+</choose>
+<choose>
+<option>*[[Earthworm Jim|Jim]]; </option>
+<option>*[[Jin Kazama|Jim]]; </option>
+</choose>
+
+{{Top Gear}}
+
+[[Categoria:Jogos da Gremlin Interactive‎]]
+[[Categoria:Jogos da Kemco]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos de corrida]]
+[[Categoria:Jogos lançados em 1995]]

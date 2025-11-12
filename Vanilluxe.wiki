@@ -1,0 +1,57 @@
+{{pokedex}}
+{{gelado}}
+{{PokéBox
+| imagem = Vanilluxe.png
+| frase = Hmmmm diliça mutante...
+| tamanho = 260
+| pokedex = 584
+| nihongo = バイバニラ
+| romaji = {{exp|Baivanilla|Tchau Baunilha!}}
+| tipo1 = Ice
+| tipo2 =
+| habilidade1 = Corpo de sorvete
+| espécie = Sorvetão Sundae Duplo Cremoso
+| cadeia evolutiva = [[Arquivo:VanilliteSprite.gif|link=Vanillite|Vanillite]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:VanillishSprite.gif|link=Vanillish|Vanillish]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:VanilluxeSprite.gif|link=Vanilluxe|Vanilluxe]]
+}}
+
+{{Você quis dizer|Vanilla Sky}}
+{{Experimente também|Sorvete mutante}}
+
+{{C|Está com raiva? Fodido? Perdendo todas as batalhas? [[Delícia Gelada|Compre um Vanilluxe gelado agora, somente 25 centavos!]]|Vendedor de Magikarp|Vanilluxe}}
+{{C|Seu Duas-Caras!|Personagem dramático de novela|a falsidade de Vanilluxe}}
+{{C|Oba! Tem pra nós dois!|as duas cabeças de Weezing|devorar Vanilluxe}}
+{{C|Vou te comeeer! Agora é a sua vez!|[[Majin Boo]]|Vanilluxe}}
+{{C|Pra que lado vou, pra que lado vou, pra que lado vou, pra que lado vou, pra que lado vou....|Vanilluxe|a grande frustração de sua vida}}
+
+[[Arquivo:VanilluxeSprite.gif|link=|left]] '''Vanilluxe''' ou ''Incrível sorvetão comestível de creme'' é o último estágio da [[Vanillite|casquinha de sorvete de 1,99]], nessa forma, ele já custa um pouco mais caro, beirando aos [[666|6,66]] Pokédolares na sorveteria mais perto de você, então, compre já o seu, ou morra de calor.
+
+==Dados==
+
+Diferente de suas pré-evoluções ele tem direito a duas bolas e um canudinho :l. Contrário do que aquela [[Pokedex]] espertinha diz, que eles vivem nas montanhas e que você vai ter que escalar o [[Everest]] pra conseguir um, você consegue encontrar um Vanilluxe em qualquer sorveteria por aí. Ele provavelmente é o resultado de um sorvete de baunilha misturado com um DVD cheio de episódios de "Além da Imaginação". Ele tem duas cabeças comestíveis e completamente retardadas, já que os seus cérebros se dividiram em dois e derreteram devido ao calor. Vanilluxes são muito usados por treinadores que tem que fazer viagens longas em locais quentes, pois assim eles não precisam comprar comida, já tendo refeição garantida para pelo menos uns dois dias.
+Ele possui um daqueles canudos comestíveis de sorvete enfiados numa das cabeças, o que é muito prático para zumbis no geral, que podem usá-lo para chupar todo o cérebro cremoso e com gosto de chantilli que tem dentro dele. Entretanto se você ver be, sai fumaça gelada de dentro dele, indicando que a cabeça desses bichos está cheia de nicotina, proveninete dos cigarros com gosto de menta que eles consomem como parte de sua dieta natural. 
+Os apelidos dessa criatura incluem "Abominável creme das neves", "Terror das sorveterias", "Duas-Caras Congelado" e "aquele sorvetão assustadoramente deformado que não deveria existir", ganhou vários concursos de "miss aberração que é feia de doer"... apesar de ser tendo sido o único concorrente comestível.
+
+==Nos Jogos==
+[[Arquivo:Vani hotchoco.png|thumb|left|250px|Um saboroso Vanilluxe servido numa caneca de chocolate quente.]]
+
+Poucos treinadores tem um Vanilluxe ou se dão ao trabalho de procurar um. São difíceis de se conseguir e francamente ninguém faz questão de sair por aí pra tentar capturar sorvetes. O único personagem do jogo que parece ter um é o vilão N, sendo que ele tem uma política de tratar bem os pkémons ou já o teria comido há muito tempo. 
+Conseguir um Vanilluxe pode ser difícil... mas você pode ter um na sorveteria mais próxima, pois se pedir três Vanillites mais um milkshake de qualquer sabor, ganha ele de brinde.
+
+==Ataques==
+
+*'''Lança Gelada''': Ninguem sabe que lança é essa. Provavelmente desse ser o canudo em sua cabeça.
+*'''Avalanche''': Ele desmorona muita neve em você... neve no caso é a cobertura doce dele, então não deve ser um ataque lá tão ruim
+*'''Ataque duplo''': As duas cabeças atacam ao mesmo tempo, infelizmente como ambas são retardadas, acabam atacando uma a outra e perdem a luta ali mesmo
+*'''Cabeçada Dupla''': Quando ele usa esse, é sorvete que se espalha pra tudo que é lado
+*'''Nevasca''':Ataque típico do Sorvetão de Duas Cabeças e sua fámilia de sorvetes mutantes,golpe aprendido com a ajuda de uma meteorologista noob
+
+==Ver também==
+
+*[[Vanillite]]
+*[[Vanillish]]
+*[[Sorvete]]
+*[[Baunilha]]
+
+{{Alimentos}}
+{{gastronomia}}
+{{poke5}}

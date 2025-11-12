@@ -1,0 +1,51 @@
+{{Pokedex}}
+{{ave}}
+{{Correr pra Caralho}}
+{{PokéBox
+| imagem = Swellow.png
+| frase = ''Swellow esbanjando gostosura''
+| tamanho = 240
+| tipo1 = Flying
+| tipo2 = Normal
+| pokedex = 277
+| nihongo = オオスバメ
+| romaji = Ohsubame
+| espécie = '''Andorinha [[Emo|Revoltadinha]] Supercrescidinha'''
+| cadeia evolutiva = '''[[Arquivo:TaillowSprite.gif|link=Taillow|Taillow]]'''[[Arquivo:Seta.JPG|Nível 22|30px]]'''[[Arquivo:SwellowSprite.gif|link=Swellow|Swellow]]'''
+}}
+
+{{Você quis dizer|Taillow?|Swellow}}
+{{C|Ele é estranho!|Starly|Swellow}}
+{{C|Ele é estranho!|Pidgey|Swellow}}
+{{C|Parece comigo!|Pica Pau|Swellow}}
+{{C|Eu tenho um desses!|Ash Ketchum|Swellow}}
+{{C|Adoro <s>[[Sexo|comer]]</s> comer eles|Ekans|Swellow}}
+
+[[Arquivo:SwellowSprite.gif‎]]'''Swellow''' é um Estranho [[Pokémon]] Passáro [[Emo]] número '''#227''' na [[National Dex]].
+
+== Dados ==
+
+[[Arquivo:Aadsadffhj.jpg|thumb|right|Swellow voando.]]
+Swellow é nada menos que uma ave selvagem que adora voar, os Swellows fazem os seus ninhos nas árvores e caçam pequenos [[peixe|peixes]] para alimentar seus filhinhos que são os [[Taillow|Taillows]]. Swellow foi criado apenas para imitar aquela ave chamada [[Pidgey]], mas só que o Swellow pode ser encontrado em [[Hoenn]] que é uma região habitada por [[Pokémon|pokémons]] selvagens e perigosos. Swellow é obrigado proteger os seus filhotes de um [[Pokémon|pokémon]] predador chamado [[Ekans]] que conhecido como ''Snake''. Essa ave é considerado raro e está quase sendo extinta. Os Swellows migram quando chega a época do [[inverno]] e geralmente vão para o sul da região. As suas penas são tão coloridas que as pessoas usaram as cores dele para o [[carnaval]]. Swellow vive também nas florestas tropicais e são consideradas como aves sagradas.
+
+== Aparições ==
+[[Arquivo:Swellow e o seu treinador.jpg|thumb|left|Swellow e o seu treinador.]]
+
+O [[Ash Ketchum|Ash]] que é um guri de 10 anos conseguiu capturar um [[Taillow]] inútil e resolveu treinar o seu [[Pokémon|pokémon]] e depois de muito treinamento, o [[Taillow]] do [[Ash Ketchum|Ash]] acaba evoluindo para uma ave colorida chamada Swellow que tornou o [[Pokémon|pokémon]] mais forte da equipe do seu treinador e conseguiu fazer uma rivalidade com um [[Pidgey]]. Uma guria secundária chamada [[Winona]] possui um Swellow shinny que é considerado raro e muitos treinadores de [[Pokémon|pokémon]] tentam pegar o Swellow dela.
+
+== Ataques ==
+
+*'''Ataque Rápido''': Swellow ataca o seu inimigo no ar.
+*'''Furacão''': Swellow cria um furacão batendo suas asinhas.
+
+== Ver também ==
+
+*[[Taillow]]
+*[[pidgey]]
+
+{{Poke3}}
+
+[[Categoria:Pessoas que correm pra caralho]]
+[[Categoria:Andorinhas]]
+
+[[ja:オオスバメ]]

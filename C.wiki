@@ -1,0 +1,21 @@
+{{desambiguação}}
+
+'''C''' pode c:
+
+* [[C (Letra)|A letra do alfabeto]]
+* [[Carbono]]
+* [[HD|Disco local C:]], o disco padrão do computador. [Para Linuxers, este é chamado de "/mnt/hda" ou simplesmente de "/"]
+* [[Linguagem_C|A linguagem de programação incompreensível]]
+* [[C_Sharp|Linguagem de programação para aqueles que têm medo do ponteiro]]
+* [[C++|Linguagem C++]]
+* [[Você|Você em mineirês]]
+
+
+[[de:C]]
+[[en:C]]
+[[fi:C (täsmennyssivu)]]
+[[fr:C]]
+[[ja:C]]
+[[no:C]]
+[[pl:C]]
+[[zh-tw:C]]

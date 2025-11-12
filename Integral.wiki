@@ -1,0 +1,140 @@
+{{Nota:|Este artigo está entupido de fórmulas <s>inúteis</s>. Se [[você]] odeia [[equação|equações]] ou odeia [[sexo|encontrar o x]], [[Especial:Aleatória|clique aqui]].}}
+
+{{Matemática}}
+
+[[Arquivo:Integral as region under curve.png|thumb|250px|right|Segundo os <s>[[nerd]]s</s> matemáticos, [[você]] só vai poder calcular a área cinza usando integrais.]]
+
+{{vqd|[[Leite|Leite integral]]?}}
+{{vqd|[[Pão|Pão integral]]?}}
+{{c|Integrei pra [[Deus|''Deu∫'']]!|Aluno de Engenharia|as notas da prova de integrais}}
+{{c|[[Foda-se|ZIVUDEU!!!!]]|Professora de Cálculo|a relação entre alunos e integrais}}
+{{c|Fui eu que fiz!|Paulo Maluf|integrais}}
+{{c|Teria sido melhor ver o filme do [[Pelé]]!|Chaves|a aula de integrais}}
+
+A '''Integração''', muitas vezes representada pelo famigerado e temido <font size=4 face=impact>'''''∫'''''</font>, é a uma das piores operações que se pode fazer em [[Cálculo]] (como o [[Cálculo]] só tem três operações mesmo, as outras são o [[Limite]] e a [[Derivada]]), muito utilizada para rodar levas inteiras de <s>[[pedreiro|peões]]</s> alunos de [[Engenharia]] e [[Matemática]], embora alguns estudiosos digam que a Integral tem uma grande importância na determinação de áreas abaixo de [[função|funções]]{{carece de fontes}}. <s>A tortura</s> O processo de criar integrais chama-se <s>dar à luz</s> integração. Para identificar de longe se se trata de uma integral, basta observar:
+
+:<math>\int f(x)dx=F(x)+C</math>
+
+Se aquele '''''s''''' [[ereção|alongado]] aparecer, trate de [[Alborghetti|ficar desgraçado da cabeça]], pois ali está uma integral à espreita e pronta para ser resolvida.
+
+== Integrais e áreas curvas ==
+[[Arquivo:Arquimedes.png|thumb|200px|[[Arquimedes]], ao terminar de encontrar a área do [[pênis]] dele pelo método da exaustão.]]
+Desde os tempos pré-[[Dercy Gonçalves|Dercyanos]] os [[nerd]]s, estudiosos e cientistas procuravam fórmulas fáceis e rápidas para calcular áreas que não possuíam formulas específicas, como a área de uma bola de [[futebol americano]], a área ocupada pela [[bunda]] da [[tua mãe]] ou mesmo a área total da mancha de [[cerveja]] derramada no sofá por [[você]]. O primeiro destes métodos foi criado por um grego <s>[[vagabundo]]</s> filósofo ''([[pleonasmo]]?)'', e se chama ''Método da Exaustão'', que consistia em dividir a área que se queria saber em [[mais de oito mil]] retângulos e calcular a área deles. Isso explica o nome deste método, que foi abandonado devido à incapacidade dos ábacos em somar numeros maiores que cem.
+
+Com o nascimento de grandes <s>[[nerd]]s</s> [[cérebro]]s, tais quais Newton e Leibiniz,  que desenvolveram novos métodos de achar estas áreas, o ''método da exaustão'' foi deixado de lado (um dos motivos é porque o método da exaustão sempre dava valores ''nas coxas'', mas nunca [[ninguém]] deu bola pra isso). Com a criação do [[Cálculo]] <s>renal</s> por parte dos desocupados supracitados, descobriu-se uma maneira mais fácil{{carece de fontes}} de calcular as referidas áreas, necessitando apenas que elas possuam uma [[equação]].
+
+E, da mesma forma como criaram o [[Derivada|Cálculo Diferencial]], [[Isaac Newton|Newton]] e Leibiniz inventaram o Cálculo Integral, com todos os formalismos e enchimentos de linguiça possíveis, tudo isso apenas para dar assunto durante as aulas e também para poder cobrar coisas a mais na prova, como se o ''básico'' já não fosse suficiente. Depois de Newton e Leibiniz, apareceu um tal de Riemann, que desenvolveu plena e [[gay|gloriosamente]] o conceito de integral.
+
+== Integral de Riemann ==
+[[Arquivo:Integral-riemann.gif|thumb|250px|Uma integral de Riemann. Agora trate de calcular as áreas dos retângulos.]]
+{{Você quis dizer|[[He-man]]?|Riemann}}
+
+Bernard <s>He-Man</s> Riemann era o pupilo mais querido, bajulado, adorado <s>e sodomizado</s> de [[Gauss]], o deus da [[matemática]].  Como pupilo mais querido, foi o que deu o maior fruto a seu mestre: desenvolveu [[Paulo Maluf|ele mesmo]] o conceito de integral (claro que o conceito dele tinha falhas, mas, em 1800 e pau com corda, só com ábacos, até que esse cara fez demais). Riemann desenvolveu sua integral por meio de somas de retângulos que englobam a região a ser calculada, mostrando a [[Capitão Sarcasmo|grande criativdade]] de seu raciocínio. Segundo Riemann, a fórmula seria:
+
+:<math>\left|\sum_{i=0}^{n-1}f(t_i)(x_{i+1}-x_i)-s\right|<\varepsilon</math>
+
+Onde:
+
+*'''n''' = número de retângulos na área
+*'''x''' = a base dos retângulos
+*'''t<sub>i</sub>''' = altura dos retângulos (que pode variar, ou seja, vai dar um baita trabalho)
+[[Arquivo:Rapidshare Futuro.png|thumb|250px|Uma das aplicações da Integral de Riemann.]]
+A fórmula acima apenas serve para os alunos dizerem em alto e bom som {{aspas|MAS QUE [[porra|PORRA]] É ESSA? [[AAAAA|AAAAAAAAAAAA!!]]}}, pois nem mesmo o próprio Riemann soube explicar esses hieróglifos. No entanto, [[Gauss]], por meio de uma [[gambiarra]] [[matemática]], conseguiu provar que esta integral [[Padre Quevedo|ecziste]] e que ela servia para alguma coisa a mais além de ferrar com os alunos de [[cálculo]]. Com isto seu pupilo foi reconhecido como criador da integral e a partir de sua denominação desenvolveu-se o método de integração que se usa em qualquer lugar, desde o [[Acre]]{{carece de fontes}} até o [[inferno]].
+
+O conceito <s>furado</s> de integral proposta por Riemann será muito útil para calcular integrais definidas, onde o domínio é restrito a valores que [[você]] não gostaria de calcular [[nem fodendo]]. Essas integrais definidas, pela suruba de sinais e outros aspectos, serão tratadas em <s>volume</s> seção posterior.
+
+== Processos de Integração ==
+
+Assim como na outra operação do [[Cálculo]] (a [[Derivada|diferenciação]]) existem regras para <s>jogar</s> integrar. Dentre as [[mais de oito mil]] regras que existem e que a sua [[professora de Cálculo]] irá te obrigar a decorar só porque vai cair na prova, estão:
+
+*'''Integral de uma [[constante]]''': a integral de uma contante é a constante vezes a variável mais a constante ''C''. Exemplo:
+:<math> \int a\ dx = a.x + C </math>
+[[Arquivo:Calculo sex fun.jpg|thumb|250px|Um processo de integração bem sugestivo.]]
+'''OBS:''' Se a constante for zero, então só sobra mesmo a constante C e [[foda-se|zivudeu]] o '''x''':
+:<math> \int 0\ dx = C </math>
+
+*'''Regra da <s>Im</s>Potência''': De forma análoga à regra  da derivada, na integral o expoente é somado de um e a [[porra]] toda é dividida pelo novo expoente:
+:<math> \int x^{n}\ dx = \frac{x^{n+1}}{n+1} + C </math>
+
+'''OBS''' ''(porra, outra observação?)''''':''' No entanto, se o expoente do '''x''' for '''-1''' (menos um), a coisa complica, pois não se pode [[dividir por zero]]. Então, os <s>[[nerd]]s</s> matemáticos chegaram a seguinte conclusão (e não venha [[você]] pedir o porque da conclusão ser esta, a não ser que queira que [[Ratinho|o pau coma]]):
+:<math> \int x^{-1}\ dx = ln|x| + C </math>
+
+*'''Regra do [[Constante|Múltiplo Constante]]''': O múltiplo fica na frente, multiplicando toda a integral que está [[sexo anal|atrás]]:
+:<math> \int k.f(x)\ dx = k.\int f(x) \ dx + C </math>
+
+*'''Regra da [[Função]] Exponencial Natural:''' por ser a [[chato|sem-graça]], sua integral será ela mesma, acrescida da contanste maldita:
+:<math> \int e^{x}\ dx = e^{x} + C </math>
+
+*'''Regra da Soma:''' uma integral de somas é igual à soma das integrais ([[WTF]]?):
+:<math> \int [f(x) + g(x)]\ dx = \int F(x) \ dx + \int g(x) \ dx + C </math>
+
+*'''Regra da Diferença:'''  uma integral de diferenças é a diferença das integrais ([[O RLY]]?):
+:<math> \int [f(x) - g(x)]\ dx = \int F(x) \ dx - \int g(x) \ dx + C </math>
+
+*'''Regra da Substituição:''' de forma análoga á regra da cadeia, na regra da substituição deve-se escolher uma parte da [[porra]] toda, dar o nome de uma letra a ela, e calcular a derivada desta função, para depois colocar no lugar do ''dx'', com o nome de ''d(nome da letra)''. Deve-se prestar atenção, pois se depois da substituição ainda houver algum '''x''', então, ou tu fez [[merda]], ou essa regra não serve. Como exemplo:
+
+:<math> \int x.(4x^{2} + 7)\ dx </math>
+
+Admitindo que <math>u = 4x^{2} + 7</math> e que <math>u' = 8x</math>, realizamos a substituição:
+[[Arquivo:Engenharia.jpg|thumb|220px|Exercício resolvido a fim de encontrar a Constante arbitrária de integração ''(vulgo C)''.]]
+:<math> \int x.u \ du.\frac{1}{8x} = \frac{1}{8}. \int u\ du = \frac{1}{8}.\frac{u^{2}}{2} + C = \frac{(4x^{2} + 7)^{2}}{16} + C</math>
+
+Como se pode perceber, esta é uma operação [[Capitão Sarcasmo|completamente simples e fácil]] de resolver, embora a sua [[Professora de Cálculo]], <s>sabiamente</s> vá dizer que é um proceso dificílimo e altamente descabelante.
+
+*'''Regra da Integração por Partes''': processo preferido por [[Jack, o estripador]], é muito utilizada onde a regra da substituição não funciona, saba-se lá por que motivo. Geralmente essa regra é utilziada por produtos de funções sem costumes, que se resumem numa suruba. Esta regra é a recíproca da regra do produto para derivadas, que é:
+
+:<math>D[f(x).g(x)] = f(x).g'(x) + g(x).f'(x)\,</math>
+
+Admitindo que f(x) = u, f'(x) = dx, g(x)= v e g'(x) = dv e integrando dos dois lados, a fórmula fica:
+
+:<math>\int \frac{u.v}{dx}\ dx = \int u\ dv + \int v\ du\,</math>
+
+Como derivada e integral se <s>[[morte|matam]]</s> cancelam, e, rearranjando a conta, chegamos a:
+
+:<math>\int u\ dv = u.v - \int v\ du + C \, </math>
+
+Esta é a formula que [[você]] terá de usar e se [[foda-se|foder]] para conseguir calcular inegrais por partes. E, se durante a resolução, aparecer outra integral por partes, terá de repetir o processo, {{risada diabólica}}
+
+=== Constante arbitrária de Integração ===
+
+O problema ao se integrar é o fato de que sempre se criará uma constante '''C''', que é conhecida <s>e registrada em cartório</s> como ''Constante arbritária de integração''. É este numerozinho do [[capeta]] que irá discernir umas integrais das outras. Seu uso, no entanto é apenas utilizado para rodar alunos por serem <s>[[burro]]s</s> desatentos, entre outros pega-ratões.
+
+Essa constante é fruto do processo inverso à [[derivada|diferenciação]] onde um valor sem varíavel [[Carmen Sandiego|some]] durante a diferenciação. Então, ao integrar, você tem de <s>ressucitar</s> reescrever este valor. E, como nunca se sabe este valor, coloca-se outra letra, geralmente o famoso '''C'''. O grande problema de se calcular esta constante está em saber o valor da integral em um determinado valor da variável. Sem isso, [[você]] não é capaz de calcular o '''C''' [[nem fodendo]].
+
+== Integral definida ==
+
+A ''integral definida'' é a integral que, quando resolvida, deverá obrigatoriamente dar um número, sem '''x''' em [[porra nenhuma]]. Ela se torna definida quando os ''limites inferior e superior de integração'' são definidos. No entanto, estes limites nada mais são do que valores de '''x''' e a área entre esses números é o que [[você]] pretende calcular. A notação de uma integral definida é:
+
+:<math>\int_a^b f(x) \ dx = \int [f(b) - f(a)] = ?</math>
+[[Arquivo:Line-Integral.gif|thumb|250px|Partícula descrevendo uma trajetória ao redor de um [[buraco negro|buraco afro]]. A distância percorida é a integral de linha desta curva maldita.]]
+Onde:
+
+*'''a''' é o ''limite inferior de integração'', ou seja, onde começa a área que [[você]] está tentando calcular;
+*'''b''' é o ''limite superior de integração'', que é onde termina a <s>maldita</s> referida área;
+
+Para calcular a área destas integrais, é apenas preciso descontar o limite inferior do superior, o que [[sexo|dará]] na área. Não se preocupe com a constante '''C''', pois, nas integrais definidas ela sempre [[morte|peidará para a muzenga]]. O motivo <s>de tamanha felicidade</s> disso será discutido logo.
+
+=== Integral de linha ===
+
+A integral de linha é uma integral de uma [[função]] vetorial ([[WTF]]?), que retorna um produto escalar (ou seja, um número, e não um vetor). Se constitui do somatório das infinitas posições vetoriais da [[função]] que foi integrada, o que constitui numa chatice sem [[limite (matemática)|limite]] ''(com o perdão do [[trocadilho]])''. Pelo fato de não ser um vetor, não tem nem sentido, nem direção, o que é [[Paulo Bonfá|totalmente excelente]].
+
+Esse tipo de integral tem muita <s>des</s>importância na [[física]]{{carece de fontes}}, onde [[nerd]]s malucos ficam fazendo continhas e gráficos apenas para usar essa integral. Geralmente ela é utilizada para calcular o trabalho que [[você]] deveria ter realizado ''(seu [[vagabundo]]!!)'', ou a distância percorrida em uma trajetória conhecida, dentre outros [[encher linguiça|enchimentos de linguiça]].
+
+== Teorema fundamental do Cálculo e áreas entre curvas ==
+[[Arquivo:Area-curvas.jpg|thumb|250px|A área entre as duas funções pode ser calculada ([[ou não]]) por meio de uma diferença de integrais.]]
+O ''Teorema Fundamental do Cálculo'', foi proposto por [[Isaac Newton|Newton]] e Leibiniz, em meados de 1700 e pau com pedra, quando realizaram o desenvolvimento do [[Cálculo]]. Esse teorema diz que, uando se calcula uma integral definida, as constantes desaparecem, pois isso é resultado da operação de subtração entre elas. Desta forma, o teorema diz que, quando se calcula as integrais definidas, as constantes vão à [[puta que pariu]].
+
+Esse teorema tem importância capital ([[ou não]]), pois, se precisássemos saber o valor das constantes, as Integrais não serviriam para [[porra nenhuma]]. Com isso, o teorema salvou todo o trabalho daqueles dois [[vagabundo]]s e até nos ajudou, já que ter de ficar calculando o valor da constante C é uma [[merda]] sem tamanho.
+
+Esse teorema é fundamental para calcular áreas situadas entre duas curvas. Por meio das integrais das referidas curvas e da subtração da integral da curva mais baixa da integral da curva mais alta, sendo que, algumas vezes é preciso despedaçãr em duas, três, cem, [[666]] ou [[É de mais de oito mil!|oito mil]] integrais, todas somadas umas as outras, de forma altamente [[gay|suspeita]]. E depois, para resolver a [[suruba]] numérica e de sinais, vai ser preciso uma concentração de monge tibetano e um supercomputador no lugar de uma calculadora. Se [[você]] tiver muita sorte, vai conseguir chegar à área correta.
+
+== Aplicações ==
+[[Arquivo:481px-Isaac Newton.jpeg|thumb|225px|[[Isaac Newton]], um dos [[filho da puta|ilustres cientistas]] que criaram o [[Cálculo]].]]
+Posta a importância capital{{carece de fontes}} do [[Cálculo]] em vários setores das ciências exatas e tencológicas, as integrais foram a forma mais simples de se calcular áreas redondas, irregulares, inexistentes e satânicas. Na [[Física]], que é irmã-gêmea-siamesa da [[matemática]], então, nem se fala. Se usa integrais para calcular desde trabalho até campos relativísticos de [[Albert Einstein|Einstein]]-[[Erwin Schrödinger|Schrödinger]]-[[...Ronaldo!]], dentre outras maluquices que só físicos e [[nerd]]s avançados entendem.
+
+Na [[matemática]], a integral, a [[derivada]] e o [[cálculo]] são utilizados nas áreas <s>inúteis</s> de <s>[[sexo anal|anal]]</s> análise [[Número real|real]] e [[Número complexo|complexa]]{{carece de fontes}}, que nada mais são do que provar que 1 + 1 é 2 ou porque o número 2 é par, dentre outras [[função|funções]] totalmente imprestáveis e que são usados pelos matemáticos apenas como fonte de prazer (ou [[sadomasoquismo]]) profisional.
+
+{{Cálculo}}
+
+[[en:Integral]]
+[[he:אינטגרל]]

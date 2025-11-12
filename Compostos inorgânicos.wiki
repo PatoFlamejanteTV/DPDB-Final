@@ -1,0 +1,92 @@
+{{Química}}
+
+[[Arquivo:Dent tdk.jpg|thumb|150px|Pessoa logo depois de experimentar todos os compostos de uma vez]] 
+
+{{c|Engraçado esses compostos inorgânicos parecem nome de drogas ilícitas: ácido, base, sais e óxidos|Eu depois de refletir bastante}}
+
+Irei falar sobre os [[compostos inorgânicos]], uma grande família nem tão grande assim, com [[5]] membros, mas eu só conheço 4 então irei explicar só eles mesmo.
+
+E um pouco da [[historia]] de como surgiu.
+
+== Introdução (Uii!) ==
+No século xis, ve, e três traços (XVIII), havia se estabelecido que os inorgânicos são simplesmente gerados de organismos não vivos.
+
+Wohler um químico alemão e maniaco da [[urina]], provou o contrário quando acidentalmente percebeu a [[ureia]] um elemento não vivo que tem em alguns seres vivos, dessa forma o antigo conceito foi excluído, e propôs-se nova concepção sobre o estudo dos compostos inorgânicos. 
+
+== A família dos compostos inorgânicos ==
+Essa família possui 4 membros conhecidos: Ácido (o [[pai]]), Base (a [[mãe]]), Sal (o [[filho]]) e por ultimo o Óxido (o avô).
+
+=== Ácido (o pai) ===
+Bem todos os ácido possuem o H na frente que significa H de Homem, se tem H é acido e dessa forma ele é neutralizado apenas pela sua esposa a base.
+
+[[Arquivo:Che Guevara Coca-Cola.JPG|thumb|Até [[Che Guevara|Che]] gosta de alguns ácidos]]
+O Ácido é azedo e alguns chegam a ser corrosivos, ele está presente na [[Coca cola]], [[Pepsi]], [[Guaraná]] e até nas câmaras de gás, resumindo o acido faz bem pra [[saúde]]. 
+
+Infelizmente é preciso saber como se faz a nomenclatura do ácido e só se consegue isso dividindo o ácido em dois tipos:
+
+'''Hidrácidos:''' escreve-se a palavra ácido, seguida do elemento ou grupo depois do [[H]] de [[Homem]] com a terminação ídrico. Exemplo: <math>H + Cl = </math> '''''Ácido clorídrico'''''
+
+'''Oxiácidos:''' bem esse é mais complicado que o Hidrácido, primeiro você põe acido e em seguida faz a contagem de [[Oxigênio]]s presente. Exemplo: 
+
+H<sub>2</sub> + SO<sub>3</sub> = '''''Acido sulfuroso'''''
+
+H<sub>2</sub> + SO<sub>4</sub> = '''''Acido seufurico'''''
+
+=== Base (a mãe) ===
+[[Arquivo:Bases.jpg|thumb|150px|Exemplo de Bases]] 
+Base fica sendo a mãe dessa [[família]] pois é a unica que consegue neutralizar o ácido(pai) e ela é a [[trocadilho|base de tudo]]. Base também pode ser chamada de <s>chata</s> hidróxidos um nome nada feminino.
+
+Você pode encontrar a base na soda cáustica, em remédios contra a [[azia]], na Boticário ou na [[Avon]]. 
+
+[[Você]] identifica uma base a partir do OH no final logo depois de qualquer elemento químico. 
+
+Exemplo: '''''KOH'''''. Que pode variar entre o numero de íons '''''OH'''''<sup>-</sup> presente na formula, como: 
+
+* Monobase '''''KOH''''' 
+* Dibase '''''K(OH)<small>2</small>''''' 
+* Tribase '''''K(OH)<small>3</small>''''' 
+* Muitabase '''''K(OH)<small>4</small>'''''
+
+=== Sais (o filho) ===
+[[Arquivo:Sal2.jpg|thumb|Não quer dizer necessariamente esse tipo de sal]]
+{{c|Mãe de onde vem o sal?|Filho fazendo uma pergunta inocente para a mãe}}
+
+Bem é muito fácil <s>do supermercado</s> quando um ácido e uma base se amam muito... eles acabam se casando e depois dessa união eles terão um filho chamado sais que acaba se benzendo por causa da [[água]] que vem acompanhada dessa [[sexo|união]].
+
+<big>'''HCl + Na(OH)<sub>2</sub> → NaCl + H<sub>2</sub>O'''</big> 
+
+Os sais estão presentes em diversas coisas na [[cozinha]], [[mar]] e até mesmo no [[osso]], mas não é por isso que você vai ingerir muito sal de cozinha afim de ficar doidão você pode ter pressão alta.
+ 
+Sua nomenclatura é pra lá de difícil primeiro o nome do ânion + de e pôr fim o nome do cátion. 
+
+Exemplo: 
+* '''''NaCl = Cloreto de sódio'''''
+
+=== Óxido (o avô) ===
+O Óxido está em todos os lugares [[água]], [[ar]], [[ferro]] e é o avô desses compostos pôr esse motivo.
+
+Ele tem um defeito é um dos elementos mais eletronegativos, ou seja, "retira" elétrons de outras substâncias.
+
+[[Arquivo:A007bbf8dd3a85863219deabf29c0a5f.jpg|thumb|O Óxido mais famoso do sistema solar '''H<sub>2</sub>O''']]
+Óxidos são substâncias que possuem oxigênio ligado a outro elemento químico, eles são compostos binários, isto é, são substâncias formadas pela combinação de dois elementos. Um desses elementos é sempre o oxigênio. Exemplo:'''H<sub>2</sub>O''', '''CO<sub>2</sub>''', '''FeO''' e etc...
+
+Para formar seu nome é muito fácil quando o elemento a esquerda do oxigênio for um [[metal]] ou um [[semimetal]] você coloca óxido de + o nome do elemento a esquerda, exemplo:
+
+* '''''CaO = Óxido de Cálcio '''''
+* '''''Al<sub>2</sub>O<sub>3</sub> = Óxido de alumínio'''''
+
+Mas se por um acaso os óxidos forem formados pôr [[Ametais|não metais]]. Usam-se o prefixo mono, di, tri... Exemplos:
+* '''''CO = Monóxido de carbono'''''
+* '''''CO<sub>2</sub> = Dióxido de carbono'''''
+* '''''SO<sub>3</sub> = Trióxido de carbono'''''
+* '''''P<sub>2</sub>O<sub>5</sub> = Pentóxido de difósforo'''''
+
+== Ver também ==
+ 
+* [[Química Inorgânica]]
+* [[Ácido]]
+* [[Base (química)]]
+* [[Sal (química)]]
+* [[Óxido]]
+
+{{Química inorgânica}}

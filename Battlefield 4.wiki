@@ -1,0 +1,74 @@
+{{game}}
+
+{{Infobox Game 
+|title     = Batoufieldi 4
+|image     = Battlefield 4 cover.jpg
+|caption   = Capa do jogo
+|developer = [[DICE|DADO]]
+|publisher = [[EA Games]]
+|released  = 2013
+|genre     = FPS em cenários com brilho saturado
+|platform  = [[PC]] (quem joga fps com joystick?)
+|rating    = [[DLC]] de BF3
+|ages      = Livre
+}}
+{{c|Tão me fudendo aqui!|Aliado no objetivo|estar cercado}}
+{{c|Preciso de munição !|Aliado que usou 2 cartuchos para acertar um inimigo parado| munição }}
+
+'''Battlefield 4''' é mais um [[fps genérico]] da série [[Battlefield]], o jogo dos nerdolas virgens de 2013, que continuavam virgens em 2022 quando voltaram a jogar essa porra após o fiasco de [[Battlefield 2042]].
+
+== Jogabilidade ==
+
+Este jogo é basicamente um [[Battlefield 3]] com umas poucas modificações, como a retirada do ''ground shot'' (que era aquela palhaçada de deitar no chão já atirando) e a introdução do cover automático que faz seu boneco estar sempre exposto. Outra introdução muito bem vinda foi a de dezenas de bugs novos que criaram vários vídeos engraçadinhos, sendo o bug mais comum aquele que surge para os jogadores mais afoitos da Campanha que saem correndo e testemunham inimigos e tanques brotando do nada.
+
+Neste jogo, quando um amigo cai, você coloca o kit de primeiros socorros sob os pés e espera que as feridas cicatrizem. Quando você se junta ao exército, fica surpreso ao ver todos do seu time usam exatamente os mesmos rifles em vez dos 1 milhão de rifles diferentes. Você fica surpreso ao ver as pessoas entrando nos veículos lentamente, em vez de se teletransportar para eles imediatamente como sempre foi. E no dia que você estiver trabalhando num  hospital, você tentará tratar pacientes falecidos com um desfibrilador nas pernas.
+
+=== Classes ===
+
+* '''Stormtrooper''' - Carrega um kit de primeiros socorros, desfibrilador, e as vezes não tem vergonha de usar um lançador de granadas ou uma espingarda.
+* '''Engenheiro''' - Esta parece ser, a primeira vista, a classe mais equilibrada e útil do jogo, mas os gênios da DICE decidiram dar a eles todos os lançadores de foguetes e armas pesadas desprovidas de qualquer precisão para que a vida do Engenheiro não fosse muito fácil. Afinal, parece bom um personagem que para destruir um tanque precisa acertar cinco foguetes que recarregam por alguns segundos preciosos.
+* '''Suporte''' - A maioria dos n00bs começa o jogo com esta classe porque eles carregam a arma mais típica que é uma grande metralhadora. De acordo com a famosa lei "quanto maior a arma, maior o poder" os pobre n00bs morrem aos montes com os tirinhos das pistolas dos outros, pois não conseguem controlar a propagação de tiros da metralhadora por nada no mundo.
+* '''Reconhecedor''' - Um pouco mais útil, mas ainda inútil, o [[camper]] maldito, o atirador que fica atrás de arbustos, no alto das torres, atrás de pedras e na casa do caralho. Quando você pega um, morre com vários tiros nas costas, mas se tem um desses no time inimigo, aí o rifle milagroso vai acertar tiros de 100.000 metros de distância.
+
+=== Online ===
+
+A principal diversão desse jogo, o seu modo multiplayer - que diferente do Modo Campanha onde os móveis são feitos de titânio, no multiplayer os cenários são feitos com o isopor do Chapolin. Os mapas comportam até 64 jogadores simultâneos pulando igual uns retardados mentais num grande "deus nos acuda".
+
+As novidades em relação ao [[Battlefield 3]] é a existência do Battlelog, uma mini-rede social para os nerds conversarem sobre suas nerdices. O Modo Espectador para quem pagou 250 reais para não jogar, mas só assistir os outros jogarem. E o Modo Commander onde você assume um comandante que precisa usar de tática, inteligência, mas principalmente MUITA paciência para lidar com a inteligência artificial de merda de seus comandados. E nessas partidas online a grande novidade é o tal "Levolutiuon", aparentemente uma invenção do [[Cebolinha]], consiste em tornar 40% das coisas do cenário destruíveis, com destaque para 1 único prédio que pode ser derrubado por inteiro na fase de Xangai, mas só aquele mesmo.
+
+=== Noob jogando BF4 Online ===
+
+Para começar, o noob instala uma luneta, por exemplo, um [[FAMAS]] de alto zoom, e fica surpreso por não conseguir acertar ninguém. E o que ele não sabe é que muitas armas têm diferentes modos de disparo. Depois disso ele coloca uma mira em sua espingarda shotgun e tenta atirar um inimigo do outro lado do mapa, também ficando surpreso por não acertá-lo. Depois coloca um silenciador num [[McMillan CS5|CS5]] e continua surpreso por não conseguir acertar ninguém em movimento. Mas aí ele se lembra da eficácia dos lançadores de granadas de [[Call of Duty|CoD]], mas fica terrivelmente surpreso quando não consegue matar ninguém com aquilo, nem os tanques. Mas então lembra que pode usar as granadas, então lança um sinalizador nos pés de seus inimigos, querendo matá-los. E assim o time dele perde mais uma vez.
+
+Então o noob volta pro modo Campanha, coloca no Hardcore sem querer e leva um tiro, sobrevive milagrosamente mas fica surpreso por não regenerar o HP, então escreve revoltado no fórum do Battlelog que seu jogo está bugado.
+
+Então volta para o Online, hora de testar uns veículos, como o barco de assalto, que não destrói os inimigos, mas atira nas unidades aliadas. Então acha que o drone é um caça portátil. E depois ainda explode o prédio onde ele e o resto do time estavam localizados. E como não tem ideia de que existe um bate-papo por voz deixa todo mundo ouvir a mãe trazer o Toddynho com pera cortadinha pro lanchinho da tarde. Então descobre a função da tecla Q, e começa um spam cretino de  pedidos de munição e kit de primeiros socorros. E como ainda não descobriu como mexer com granadas, tenta matar com uma granada de fumaça.
+
+=== Armas e dispositivos ===
+Fuzis, lança-foguetes, explosivos e outras coisas que você pode usar para matar (ou tentar) seus inimigos. É mais provável que ELES matem você, então vamos entender mais sobre esses armamentos que serão responsáveis por seu saldo negativo no fim da partida:
+* '''G18''' - Uma pistola 9mm ''fully automatic'', dispara 18 projéteis com uma <s>de</s>cadência de tiros de 900 tiros por minuto, ou seja, a uma curta distância é melhor do que a maioria dos fuzis. É a pistola favorita dos snipers. Quando alguém acha seu esconderijo - o que não demora já que eles tentam ficar escondidos dando tiros praticamente a esmo sem um silenciador - sua única salvação é sua '''g18'''.
+* '''Desfibrilador''' - Um aliado levou 12 tiros de uma .40, foi atropelado por um tanque, explodido por uma granada e bateu o dedo mindinho na quina da cama ? Não é problema para seu desfibrilador, que o trará de volta à vida num passe de mágica. Isso se você também não morrer antes de poder usa-lo. O desfibrilador também pode ser usado para '''matar''' inimigos. A única coisa melhor que esfaquear um camper é eletrocutar o seu rabo !
+* '''MINA AT''' - As minas anti-tanque não são aquelas garotas que só querem lavar roupa na máquina (bom, também, mas não neste caso). Duas dessas belezinhas levam o primeiro tanque que passar por elas ao ares, porém como se não bastasse apelar para um tanque de guerra o ''player'' ainda visor termal nele e verá todas as minas. O único veiculo terrestre que não possui esse visor térmico é o ''BUGGY'' que é um carro de transporte  praticamente inofensivo, mas mesmo assim conseguem desviar das minas (a menos que seja aquele seu aliado louco que não presta a menor atenção no caminho e leva você e mais outro pobre coitado direto pro registro de eliminações). É também plantada logo abaixo dos próprios '''BUGGYS'' na base do time inimigo, fazendo que o carro exploda à primeira acelerada, portanto é aconselhável explodir os carro antes de pilotá-lo.
+* '''FIM-92 Stinger''' - Ou só "Stinger" é um lançador de mísseis guiado por calor que fixa a mira em veículos aéreos e SÓ  aéreos. Em mapas abertos os helicópteros são como tanques voadores com a diferença que o tanque é uma enorme massa de ferro blindado que se move como uma enorme massa de ferro blindado. O "heli" é mortal como o tanque mas se move como uma mosca-varejeira . Então Stinger neles ! Só que não. O "helis" ainda possuem um sistema de defesa: Uma fumaça que impede a fixação da mira e desorienta os misseis infravermelho. Os pilotos ainda fogem pro [[ACRE]] do mapa até que sua fumaça mágica recarregue. Você não vai derrubar nada com ele mas pode ganhar um tempo e irritar bastante o piloto com o alerta de defesa do helicóptero ! O Stinger ainda é feito em material super leve para você poder correr mais rápido quando um tanque de fato aparecer.
+
+== Enredo da Campanha ==
+
+[[Arquivo:Sol de Battlefield 4.jpg|thumb|Um jogo de belos gráficos. O melhor [[Sol]] já retratado num game.]]
+
+O enredo é bem original e inovador, algo que nunca vimos antes na história dos enredos de FPS: Você controla um americano branco (com um amigo negro e uma amiga chinesa) guerreando no lado do bem da guerra. Numa guerra contra os malvados da Rússia, só que dessa vez com a adição de malvados da China comunista.
+
+A primeira fase é uma missão no [[Azerbaijão]] e serve para nos apresentar o protagonista genérico e o chefe do esquadrão mais genérico ainda que vai morrer ali por sua culpa que não sabe dirigir um jipe e cai no mar. A segunda fase em [[Xangai]] é sobre resgatar [[Chiang Kai-shek|um chinês bonzinho]] que está sendo deposto por [[Mao Tsé Tung|um chinês malvado]], para já introduzir o jogador ao maniqueísmo de todas as guerras que os Estados Unidos entram. A terceira fase ocorre no [[Mar da China Meridional]] e serve para mostrar o quão inútil é a [[Marinha dos Estados Unidos]] para ser toda dizimada num estalar de dedos chinês. A quarta fase em [[Singapura]] é no meio de um [[tufão]], porque é bem realista dois exércitos lutando nessas condições. Daria até para dizer que foi espantoso quando o protagonista é traído pela chinesinha do time e entregue para o inimigo, isso se já não fosse o vigésimo jogo diferente de FPS com fase de captura, tortura e fuga da prisão, isso lá nas Montanhas [[Cunlum]] perto da [[Puta que o Pariu]]. O protagonista obviamente consegue escapar da prisão e chega na cidade de [[Tashgar]] no [[Caracalpaquistão]] onde só para variar agora vai matar uns russos malvados, sempre eles. E assim chegar na última fase, no [[Canal de Suez]], que o jogo previu que em 2020 estaria bem congestionado por causa do [[Ever Given]]. O jogo tem três finais, mas isso é decidido literalmente no segundo final onde você pode escolher entre [[racismo|sacrificar um negro]], [[xenofobia|sacrificar uma chinesa]], ou sacrificar um [[navio de guerra]] inteiro cheio de brancos americanos.
+
+{{Battlefield}}
+
+[[Categoria:Jogos lançados em 2013]]
+[[Categoria:Jogos da DICE]]
+[[Categoria:Jogos da Electronic Arts]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para PlayStation 3]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para Xbox One]]
+[[Categoria:Jogos de tiro em primeira pessoa]]
+
+[[pl:Battlefield 4]]

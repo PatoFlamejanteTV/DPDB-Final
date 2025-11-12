@@ -1,0 +1,20 @@
+{{mercenário}}
+{{c|Perto da Autodesk, nosso negócio com [[DLC]]s é fichinha.|EA|os negócios da Autodesk}}
+{{c|Amadores!|Autodesk|o comentário acima}}
+{{c|Stonks!|[[Acionista]]s|as ações da Autodesk}}
+{{c|Inacreditável! Uma empresa de tecnologia, a despeito de todas as dificuldades do mercado em que atua, tem em suas ações uma valorização de mais de 400% em cinco anos, feito que só tem paralelos no fim dos anos 90, as vésperas do estouro da Bolha das Pontocom.|Jornalista do Mercado Financeiro|Autodesk}}
+{{c|Chamavam a nossa empresa de mercenária por praticamente monopolizar o fornecimento de [[Sistema Operacional|SO]] para os [[PC]]s. Mas perto da Autodesk, nós não fazemos sequer cócegas no bolso dos consumidores.|Bill Gates|Autodesk}}
+
+'''Autode$k''' ([[NASDAQ]]: ADSK) é uma empresa especializada em explorar o mercado de software especializado, em especial no que diz respeito aos softwares voltados as áreas de [[Arquitetura]], [[Engenharia]] e [[Computação Gráfica]] com gráficos em [[3D]], sendo conhecida por arrancar o couro dos eventuais desventurados que tentem a sorte nessas áreas, se aproveitando de seu know-how e de sua expertise para tanto.
+
+Tem como principal fonte de renda programas conceituados no meio, tais como [[AutoCAD]], [[Revit]] e [[3DS Max]], que são uma enorme fonte de renda que faz a alegria dos controladores, que tem sua empresa mais valorizada e mais forte pra marcar posição em novas aquisições, como dos acionistas, que tiram vultosos dividendos em cima da política de preços da empresa.
+
+==Portfólio==
+
+O portfólio extremamente lucrativo da Autodesk se baseia nos seguintes produtos:
+* [[AutoCAD]] - Primeiro carro-chefe da companhia, sendo desde [[1982]] um [[Rede Globo|campeão de audiência]], digo, campeão de vendas, sendo um software voltado para o desenvolvimento de plantas arquitetônicas que tem de intuitivo o que um rinoceronte tem de delicado, sendo que sua complexa organização computacional faz com que os estudantes tenham saudades de programas mais leves, tais como o [[Paint]] e o [[Corel Draw]].
+* [[Civil 3D]] - Um software bastante similar ao AutoCAD, só que adaptado pra trabalhar com o conceito [[BIM]], sendo uma adequação no modelo de negócios voltada a fazer com que a empresa fature mais.
+* [[Revit]] - Novo carro-chefe da companhia, é voltado ao desenvolvimento em [[3D]] de plantas arquitetônicas e de projetos de Engenharia, vendido como a grande solução do portfólio para a utilização dentro do conceito [[BIM]], ainda que o software seja extremamente pesado a ponto de computadores medianos como os que se vende nas [[Casas Bahia]] ou nas [[Lojas Americanas]] não terem condições a menor condição de suportá-lo, simplesmente por travarem antes disso.
+* [[Infraworks]] - Software também dentro do conceito [[BIM]] só que voltado para a área de infraestrutura, sendo que a falta de cursos especializados em tal programa faz com que as apresentações do programa pareçam meras animações em 3D voltadas a mero entretenimento dos iniciandos na área.
+* [[Fusion 3D]] - Voltado a engenharia mecânica, é um software especializado voltado ao desenvolvimento de máquinas e equipamentos em geral, sendo por isso mesmo um dos mais acessíveis da empresa.
+* [[Autodesk Maya|Maya]] - Software de modelagem e animação 3D em geral, que fica pior e mais cheio de bugs a cada nova versão.

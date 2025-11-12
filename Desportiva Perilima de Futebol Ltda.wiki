@@ -1,0 +1,56 @@
+{{futebolismo}}
+
+{{Box ClubeFutebol
+|cor_clara         = lightblue
+|cor_escura        = blue
+|brasao            = DesportivaPerilima.png
+|hino              = 
+|nome_oficial      = Perilima à falência Esporte Clube
+|origem            = {{PB}}'''- [[Campina Grande]]'''
+|apelidos          = Menor De Campina Grande
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Amigão]]
+|capacidade        = 1.000
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = Farmácia Dias
+|material          = Não tem
+|liga              = [[Campeonato Paraibano]]
+|divisao           = Nenhuma Divisão
+|títulos           = 5 vice [[Campeonato Paraibano de Futebol|Campeonatos Paraibanos]]
+|ranking           = 5569º
+}}
+{{Vqd|[[Peru (país)|Peru]], [[Lima (Peru)|Lima]]|Perilima}}
+{{C|Viceee de novo!|Auto Esporte|Perilima}}
+{{C|11 {{x}} 0|Treze|Perilima}}
+{{C|Perilima e Íbis dois gigantes do futebol nacional|Galvão Bueno|Perilima}}
+{{C|Meu time do coração!|Zé Leproso|Perilima}}
+{{C|Menor De Campina Grande|Campinense,Treze E Serrano |Perilima}}
+
+'''Associação Desportiva Perilima''' é um time de várzea de [[Campina Grande]], no estado de [[paraíba|Pernambuco do Norte]].
+
+== História ==
+
+Fundada a [[8 de setembro]] de [[1992]], ano em que seu fundador, Pedro Ribeiro de Lima, teve que fechar as portas de sua fábrica de alimentos. No início o time era formado por ilustres desconhecidos de uma fábrica de [[salame]], e hoje ninguém sabe o que os atletas do time são, mas certamente profissionais que não são.
+
+O fundador da Perilima, o ilustríssimo sr. Pedro Ribeiro de Lima <ref>Qualquer idiota nota que as iniciais do nome dele é o nome do time.</ref> de 60 anos, foi o jogador mais velho a marcar um gol na Segunda Divisão do Campeonato Paraibano ao converter um pênalti com seus 65 anos de idade.
+
+O Perilima conseguiu sua única vitória ao derrota o [[CR Vasco da Gama|Vasco]] em um torneiro chamado Taça dos Vice-campeões em 2008, pois o time não consegue vencer uma mísera segunda divisão paraibana sequer..
+
+=== Títulos desimportantes ===
+
+* 5 vice [[Campeonato Paraibano de Futebol|Campeonatos Paraibanos]] da segunda divisão (1998, 2000, 2001, 2004 e 2006)
+* Taça dos vices de 2008 derrotando na final com o Vasco
+* Eleito o segundo pior time da Paraíba perdendo para o [[Botafogo Futebol Clube (Paraíba)|Botafogo]].
+
+{{ref-section}}
+
+{{Campeonato Paraibano}}
+
+[[Categoria:Times de futebol da Paraíba|Perilima]]

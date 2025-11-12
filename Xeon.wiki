@@ -1,0 +1,32 @@
+{{Pobre}}
+{{C|Estranho, porque minha conta de luz veio tão alta?|Usuário depois de um mês|Xeon}}
+{{C|Puta Merda olha a conta de luz!|[[Dercy Gonçalves]]|Xeon}}
+{{C|É por isso que nunca vi nos notebooks, ia precisar de uma bateria de 48 células para durar uma hora.|[[Nerd]]|Xeon}}
+{{C|Prefiro [[Celeron]].|[[Pobre]]|Xeon}}
+{{C|UUUOOOOOOOOOOOOU! Que conta de luz é essa! A culpa é toda desse PC!!|[[Garoto alemão doido]]|Xeon}}
+
+O Xeon é o processador que consome mais energia da história. É feito com um tubo de xenônio, um pedaço de ferro e 662 pinos de ferro. O tubo de xenônio é a causa do gasto de energia.
+
+==História==
+A [[Intel]] estava pensando em desenvolver um processador que fosse muito rápido e capaz de transmitir informações na velocidade da luz.
+
+Optaram por um tubo de xenônio no núcleo. Aí estava o problema, esse tubo precisa de muuuita energia para acender. 
+
+No teste, o processador chupou muita energia para começar a funcionar. Para calcular 1+1 era necessário 0.04W de energia. Para processar 1 KB de informações eram usados 10W. Para carregar o [[Windows XP]], 243712W. E o processador não conseguiu atingir a velocidade da luz. Mas a Intel decidiu distribuir o processador para ser comercializado do mesmo jeito. 
+
+O resultado: Milhões de pessoas sofreram com o consumo maior que 10 ar-condicionados ligados 24h por dia, e o custo da conta de luz.
+
+==Hoje==
+
+No aliexpress só tem membro da Yakuza vendendo a preço de banana, mas por causa do [[Fernando Haddad|haddad]], lider da facção rival, criou o [[Remessa Conforme|arremesa sem forma]], ou seja um programa governamental fudido para aumentar o preço das compras internacionais, Xeon e5-2640 v3 por 80 reais só de imposto.
+
+==Fatos sobre o Xeon==
+*O Xeon consegue causar um apagão na [[Casa Branca]] se for usado em todos os seus computadores.
+*O Xeon gasta 26322456168351665413165741354163874135163841651W para rodar [[Crysis]] no Low por 2 minutos a 10 FPS.
+*O Xeon consegue torrar em um minuto sem o dissipador de calor igual a morar no Ceará.
+*O Xeon é o processador usado na sede do 4Shared, e foi isso o que causou o apagão.
+*O servidor da CipSoft consiste em um pc com Xeon.(daí a quantidade de lag do Tibia)
+
+{{Processadores da Intel}}
+
+[[Categoria:Microprocessadores]]

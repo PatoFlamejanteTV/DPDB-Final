@@ -1,0 +1,35 @@
+{{ninja}}
+{{água}}
+{{PokéBox
+| imagem = Frogadier.png
+| frase = Frogadier sorrindo por saber que logo irá evoluir e ser um pokémon hackeado
+| tamanho = 250
+| romaji = Sapo Ninja
+| pokedex = 657
+| tipo1 = Water
+| tipo2 =
+| habilidade1 = Baixar Torrent
+| espécie = ''Sapus Ninjutsus''
+| cadeia evolutiva = [[Arquivo:Froakie99.gif|link=Froakie|Froakie]] {{Seta}} [[Arquivo:Frogadier99.gif|link=Frogadier|Frogadier]] {{Seta}} [[Arquivo:Greninja100.gif]]
+}}
+'''Frogadier''' é um [[pokémon]] sapo ninja, o número #657 na ''[[Pokédex|infinite dex]]''. É a evolução do [[Sapo Cururu]], que após levar um pé na bunda de [[sua mulher]], passou a se dedicar integralmente aos treinos para ser um [[ninja]]. Assim como toda evolução intermediária dos pokémons iniciais, ninguém nem lembra que o Frogadier existe, ainda mais no caso dele, que todo mundo só se importa com sua evolução, [[Greninja]].
+
+==Características==
+[[Arquivo:Gekomon.png|thumb|left|250px|Um Frogadier shiny fazendo uma serenata pra [[Braixen]].]]
+Enquanto era um [[Froakie]], Frogadier preocupava-se apenas em brincar com os outros sapinhos na lagoa particular do [[Professor Sycamore]], o único local onde existem pokémons iniciais de [[Kalos]] e que ninguém sabe onde é. Mas após evoluir, Frogadier passa a dedicar-se muito mais a ficar forte, treinando muito para ser como o [[Scorpion]], conseguindo arrancar a cabeça de seus inimigos com as mãos nuas. Para melhorar suas habilidades ninjísticas, os Frogadiers costumam migrar para a Vila Ninja dos Pokémons, local onde diferente das aldeias de ninjas fajutos de [[Naruto]], existem ninjas de verdade, que treinam duro, andam mascarados e envenenam seus inimigos.
+
+Em seu treinamento, Frogadiers aprendem como usar técnicas de [[veneno]], como espinhos tóxicos, mesmo não sendo do tipo venenoso. Por conviverem por muito tempo com ninjas, Frogadiers até aprendem a pose característica destes seres, que consiste em ficar agachado, com uma mão no chão e a outra ao lado do corpo. Isso não serve pra [[porra nenhuma]], mas com certeza é maneiro de se fazer.
+
+Apenas os Frogadiers veteranos, que não tem nojo de botar a mão no [[Muk]] ou de cheirar o peido do [[Weezing]], conseguem evoluir para [[Greninja]], assim aumentando sua força, velocidade e ainda ganhando de brinde uma tipagem nova, do tipo sombrio, para melhor assassinar seus carrascos do tipo grama e elétrico.
+
+==Técnicas==
+
+*'''Hidrobomba''': Frogadier consegue usar a técnica mais forte dos tipos água, após botar seu dedo envenenado na própria garganta, ele dá uma mega vomitada nos inimigos, encharcando-os com água e restos de pokébloco do almoço. Além de sofrerem o dano normal, os adversários ainda perdem toda e qualquer vontade de lutar, especialmente se for a [[Fennekin]] ou suas evoluções.
+
+*'''Raio de Gelo''': Apesar de não ser do tipo gelo, e nem gostar do frio (até por isso usa aquele cachecol), Frogadier aprendeu a usar o raio de gelo após seu árduo treinamento nas montanhas assassinando os [[Vanillite|pokémons sorvete]], homicídios encomendados por [[genwunner]]s. Esse golpe é muito útil no portfólio de Frogadier, pois com isso ele consegue assassinar pokémons do tipo grama, os quais levam uma vantagem enorme contra ele.
+
+*'''Tiro de Lama''': O golpe do tipo venenoso no repertório de Frogadier, que também foi adquirido por conviver em demasia com os Muks dos ninjas. Além de ser mais uma opção para derrubar os perigosos pokémons de grama, o tiro de lama também serve para trocar uns socos com outros pokémons do tipo água, os quais não levariam nenhum dano de uma hidrobomba ou de um raio de gelo.
+
+{{Poke6}}
+
+[[Categoria:Sapos]]

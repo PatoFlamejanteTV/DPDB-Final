@@ -1,0 +1,59 @@
+{{game}}
+{{otaku}}
+
+{{Infobox Game
+|title     = Highly Responsive to Prayers
+|image     = th01cover.jpg
+|caption   = Capa do jogo com a Reimu de cabelo roxo
+|developer = [[Amusement Makers]]
+|publisher = [[Amusement Makers]]
+|released  = [[1997]]
+|genre     = Navezinha misturado com Arkanoid
+|rating    = 1%
+|platform  = Maquina de escrever,calculadora e PC-98
+|ages      = Qualquer uma
+}}
+
+'''Highly Responsive to Prayers''' é o primeiro jogo da série touhou, lançado em 1996 para um computador do [[Acre]] chamado PC-98. É um jogo igual [[Arkanoid]], a diferença é que nesse você desvia de tiros e também desvia do seu próprio tiro que parece um Yin-Yang, enquanto os adversários fazem um ritual satânico no meio da tela pra te distrair.
+
+== História ==
+
+Por incrível que pareça, esse jogo tem uma história, mas ninguém liga, basicamente a história é: Reimu era uma sacerdotisa que não fazia porra nenhuma da vida até que teve seu santuário destruído por motivo nenhum e agora está indo se vingar de quem fez isso.
+
+== Chefes ==
+
+Os chefes desse jogo são feios pra caralho, é um monte de demônio  que acabam sendo esquecidos nos jogos seguintes (menos [[Mima]], essa é esquecida um pouco mais pra frente), na lista de <s>aberrações</s> chefes temos:
+[[Arquivo:Yuugenmagan.jpg|left|thumb|Uma emocionante batalha acontecendo (repare os gráficos e a qualidade da imagem.)]]
+
+* '''Shingyoku''' - É o primeiro boss, não da pra saber o que é porque, primeiro é um [[Yin-Yang]], depois vira um cara de roupa azul fazendo jutsu e depois vira uma mulher que parece o capeta.
+
+* '''YuugenMagan''' - Chefe do estágio 10 da rota Makai, outro bicho estranho pra caralho, são cinco olhos com conjuntivite atirando raios em você.
+
+* '''Mima''' - Esse parece mais normal que os anteriores, é a chefe do estágio 10 da rota Jigoku, parece um fantasma de cabelo verde com uma faca menstruada.
+
+* '''Elis''' - Chefe do estágio 15 da rota Makai. Essa porra é o diabo, solta ''laser'' pelos olhos, faz pentagramas na fase e se teletransporta.
+
+* '''Kikuri''' - Chefe do estágio 15 da rota Jigoku, Isso parece uma moeda gigante com rosto de mulher que atira ''laser'' pelos olhos.
+
+* '''Sariel''' - Chefe final da rota Makai, não da pra saber o que é isso mas parece um anjo, vai soltar uns mil ''lasers'' na tela pra te matar.
+
+* '''Konngara''' - Chefe final da rota Jigoku, é uma mulher de roupa vermelha que tem uma espada com efeitos de raio mal feitos e que também atira, parece o capeta.
+
+== Jogabilidade ==
+
+Diferente dos outros jogos de [[Touhou]], nesse você só pode se mover para os lados, porém você pode rebater ou atirar nos tiros inimigos, e também se a sua esfera te acertar, você se fode, então você vai ter que desviar, rebater e atirar nela pra não morrer de uma forma ridícula sendo esmagado.
+
+E se você estiver querendo usar uma bomba para facilitar a sua jogatina, prepare-se, pois a intenção do criador do jogo era causar um [[ataque epilético]] em seus fãs.
+
+== Conclusão ==
+
+Gráficos feios pra caralho, jogabilidade bugada, demônios e personagens estranhos pra caralho que atiram ''lasers'' pelos olhos, parece uma boa ideia jogar. 
+
+
+
+{{touhou}}
+
+[[Categoria:Jogos da Amusement Makers]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de shoot 'em up]]
+[[Categoria:Jogos lançados em 1997]]

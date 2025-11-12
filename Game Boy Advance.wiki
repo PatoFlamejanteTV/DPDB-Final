@@ -1,0 +1,146 @@
+{{vqd|Gayme Boiola Avançado}} 
+
+{{vqd|Gay Business Association}}
+
+{{C|Na época do GBA,nós demorávamos [[24]] minutos pra fazer um jogo|Shigeru Miyamoto|Game boy advance}}
+
+{{C|a programabilidade dessa coisa non exciste|Padre Quevedo|Game boy advance}}
+
+{{C|já fiz 5 jogos pra ele|Carla Perez|Game boy advance}}
+
+
+{{C|Só usa duas pilhas? Isso é um absurdo!|Game Gear|Game Boy Advance}}
+
+[[Arquivo:GBA.gif|left]]O '''Game Boy Advance''' ou '''Gayme Boyola Avançado''' é um console projetado pela [[Nintendo|Num-Intendo]] para ser basicamente um [[SNES]] portatil com programabilidade tão boa que até mesmo um <s>Retardado mental</s> programador novato possa fazer um jogo nele, coisa que a Sega tentou com o Game Gear/Nomad e não conseguiu porque a pilha acabou antes.
+
+== Programabilidade ==
+
+[[Arquivo:Gbanerd.jpg|thumb|left|GBA rodando sua ferramenta de programação]]
+O GBA tinha diversas características que faziam ele bem mais fácil que digamos assim o [[Super Nintendo|SNES]] de programar,entre elas:
+
+*Simples programação por código binário
+
+*A [[BIOS]] comprime e descomprime dados,faz calculos de ponto flutuante,toca midi,boota jogos via porta serial,lava,passa,cozinha, leva os filhos pra escola e escreve o jogo sozinho se você deixar, e tudo isso em 32k.
+
+*[[Processador|CPU]] poderosa o suficiente pra fazer até mesmo o codigo mais horrivelmente mal feito rodar rápido.
+
+*Conexão à internet sem fio de 68Gb
+
+*[[Tela Azul da Morte|BSOD]]-safe
+
+*Milhares de códigos prontos na internet pra você se AHEM inspirar.
+
+*assistencia tecnica da nintendo 24 horas com capacidade de ler a mente dos programadores
+
+*compatibilidade com click and play e RPG Maker
+
+== Imagens de Jogos Criados com o GBA ==
+*Super ASCII Adventure
+{| align=center
+| <pre><nowiki>
+Score: 00000 Lives: [:)] [:)] [:)]
+Start
+ | 
+\ /
+ V
+ O      
+/|\      _
+/ \     | |            Exit------>
+==================================
+</nowiki></pre>
+|}
+
+*Super Maze 2007
+{| align=center
+| <pre><nowiki>
+/---------------------------------\
+|*=You           |*|              | 
+|#=Exit          | |              |
+|                | |              |
+|                | |              |
+|                | |              |
+|                | |              |
+|                | |              |
+|                | |              |   
+|                |#|              |  
+\---------------------------------/
+</nowiki></pre> 
+|}
+
+*Windows Advance
+{| align=center
+ <pre><nowiki>
+---------------------------------\
+ X                                 
+|=|       ____________             
+ G        |ERROR _[]X|             
+|=|       |          |             
+ F        |You suck! |      .      
+|=|       |__________|      |\     
+                             '     
+_________________________________   
+# start)|Error |           |09:34
+---------------------------------/
+</nowiki></pre> 
+|}
+
+== Jogos ==
+[[Arquivo:Super Duper Sumos Box.jpg|thumb|Barraco de bunda, um clássico.]]
+Por causa que o gba é tão fácil de programar assim, você deve imaginar que ele deve ter <s>uma tonelada de lixo</s> muitos jogos não?
+Bem, essa é a lista de alguns deles:
+*Alguns [[The Legend of Zelda|Zeldas]]
+*Alguns [[metroid]]s
+*[[Pokémon Ruby|Pokémon Ruby/Sapphire/Emerald]] e os remakes de jogos antigos: [[Pokémon FireRed|Pokémon FireRed/LeafGreen]], ThunderYellow/WaterBlue, GayPink/EmoPurple, CúBlack/PorraWhite/PentelhoGray, Rainbow/MerdaBrown, OrangeOrange/SkyCyan, TorneiraBronze/BrassAss, Topaz/Amethyst/[[Onix]], Pearl/Diamond/Opal, Platinum, Light Green/Dark Green, e o último jogo Master Plus Ultra Magic Monstruous Mega Super-Thin Advanced SP-SNES Party Edition. 
+*Tudo quanto é jogo do [[Mario|Super Mario Bros.]] fazendo tudo que você [[sexo|possa imaginar]] e mais outras coisas ...
+*O joguinho de fazenda mais fodinha de todos os tempos, Harvest Moon Friends Of Mineral Town.
+*Todos jogos com as licenças de filmes que existem mais 3 ou 4 inventados
+*Toda a coletânea de jogos do [[SNES|Super Nintendo]]
+*10 jogos realmente bons feitos por gente que confundiu ele com o [[SNES|Super Nintendo]]
+*Jogos do [[Jiban]], [[Jiraiya (Série)|Jiraya]], [[Changeman]] e dos [[Cybercops]]
+
+== Variações ==
+[[Imagem:Gba micro.jpg|thumb|O microscópico GBA Micro.]]
+O Game Boy Advance fez tanto sucesso que a Nintendo fez varias variações do GBA, entre elas:
+
+;GBA SP
+:Versão do GameBoy Advance para as pessoas que vivem em São Paulo e Rio de Janeiro. Vem com uma capa blindada, maleta de segurança, cadeado, código eletrônico, alarme contra roubo, câmera 24 horas e mais... Tudo para seu GBA não ser roubado. E tem luz pelo menos 
+
+;GBA micro
+:Versão do GBA criada apenas com as partes úteis do GBA original, retirando todos os componentes inúteis. A versão original tem 90cm de tamanho, enquanto a Micro tem apenas 15 mm.E para ser jogado é necessário o uso de microscópio
+
+;GBA nano
+:ainda seguindo a apple,esse gba é ainda menor,mais resistente a impacto que o ultimo, e com uma tela do tamanho de uma unha ( Amplificadores de imagem ainda indisponíveis para importação, mas ainda assim garantindo uma jogabilidade excepcional!)
+
+== Jogada de Marketing ==
+A Nintendo tinha um projeto chamado Nintendo Portable With Light (o NPWL, ou somente Enipê-dáblio Éli). 
+
+Decidiu manter este projeto de luz na escuridão e lançou o Shiwinosili (Shit With No Single Light, ou uma merda sem luz nenhuma), Quando enviaram aos Estados Unidos, a versão austríaca recebeu o simples nome de GBA, ou Game Boy Advance. 
+
+Isto conquistou fãs <s>retardados</s> que adoravam os jogos e inclusive os irmãos <s>mais retardados ainda</s> mais velhos quando estes viam aquele super jogo que se matava para fechar na época do Snes e tinha orgasmos quando descobriu que Sonic também estava disponível.
+
+A venda de GBA cresceu consideravelmente e também empresas de terceiro. Quem também faturou foi a Game Shark, mas não pelos códigos que disponibilizaram, e sim pelo acessório ***Shark Light***, que iluminava 
+o jogo, gastava mais uma [[pilha]] e as vezes desprendia.
+
+Devido ao sucesso a Nintendo vendeu quatrocentos e setenta e nove trilhões de unidades e, pouco tempo antes de lançar algo melhor, mostrou ao público o que seria uma inovação: O Nintendo Game Boy Advance SP. Recebeu este nome porque as unidades foram escondidas dentro do Banco Itaú, no bairro do Morumbi, zona oeste de São Paulo.
+Foram fabricadas apenas 10.000 unidades de GBASP, mas custavam o triplo do preço de um GBA comum. Como muitos já tinham um GBA, todas as 10.000 unidades foram vendidas que nem água e sumiram que nem peido.
+
+== Ver também ==
+
+*[[Game Boy]]
+*[[Super Street Fighter II Turbo Revival]] (muito melhor do que outros joguinhos [[Street Fighter II|originais]])
+*[[Super Nintendo]]
+*[[Basic]]
+*[[Nintendo]]
+*[[Nintendo DS]]
+*[[N-Gage]]
+*[[Sexta Geração de Consoles]]
+
+{{Nintendo}}
+
+{{consoles}}
+
+[[Categoria:Video games]]
+
+[[en:Game Boy Advance]]
+[[es:Game Boy Advance]]
+[[ja:ゲームボーイアドバンス]]

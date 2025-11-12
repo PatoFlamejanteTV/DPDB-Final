@@ -1,0 +1,44 @@
+{{DISPLAYTITLE:<font face="Times New Roman">Times New Roman</font>}}
+{{romano}}
+{{break}}
+
+[[Arquivo:Amostra DP Times New Roman.gif|thumb|right|200px]]
+<font size=3>'''Times New Roman''', ou '''Tempos Novo Romano''' ([[Babelfish]]) é a fonte mais usada no [[mundo]], mais até do que a fonte da juventude. De tão usada, ficou muito enjoativo ver um texto escrito com esta fonte. Esta fonte divide o espaço com a fonte [[Arial]], uma disputa acirrada para saber qual a mais enjoada de ver.</font>
+==<font size=5; face="Times New Roman">História</font>==
+
+<font size=3>A fonte Times New Roman provavelmente surgiu em [[Roma]]. Se não foi em [[Roma]], é muita sacanagem chamar a fonte de Times New Roman. Um empresário comprou os direitos de publicação da fonte por uma bagatela de [[30]] reais. 
+
+[[Bill Gates]] conheceu a fonte e comprou os direitos de uso. Injetou esta fonte em seu programa, modificando toda a história das fontes. Por causa disto, a fonte Times New Roman se tornou a fonte oficial do [[Microsoft Word]], sendo já a fonte padrão deste programa. Logicamente, isto não passa de uma conspiração para fazer as crianças ficarem viciadas nesta fonte. Depois que todo o [[mundo]] ficar viciado nesta fonte, os criadores irão cobrar os direitos autorais, e todos os viciados na fonte deverão pagar impostos sobre fontes.</font>
+
+==<font size=5; face="Times New Roman">Visual</font>==
+[[Arquivo:Besteirol romano.JPG|thumb|170px|<font face=Times New Roman>Um texto qualquer, para fechar buracos.</font>]]
+[[Arquivo:God Hates Times New Roman.jpg‎|thumb|left|<font face=Times New Roman>[[Deus]] odeia Times New Roman.</font>]]
+<font size=3>A fonte Times New Roman é, realmente, uma fonte muito feia. Quando um site fica lento e não carrega todo o seu conteúdo, a primeira fonte a ser mostrada é justamente a maldita Times New Roman. 
+
+Em um site como a [[Desciclopédia]], onde a fonte é toda [[Arial]] (Ou [[Helvetica]] se você usa Mac), o uso da fonte Times New Roman é até uma novidade e fica legal. Mas em trabalhos escolares, quase todos feitos em Times New Roman (sempre tem um [[maluco]] que usa Arial ou Helvetica <s>achando que ninguêm vai perceber a diferença</s>), é bem cansativa a leitura. É um problema para os [[professor]]es que mandam fazer trabalhos. 
+
+Por ser uma fonte pontuda e antiga, se for utilizada em combinação com outras fontes, serve para embaralhar a visão do leitor.</font>
+
+==<font size=5; face="Times New Roman">Ver também</font>==
+[[Arquivo:Lol romano.JPG|thumb|<font face=Times New Roman>Até o [[LOL]] perde a graça com o Times New Roman.</font>]]
+<font size=3>
+*[[Arial]]
+*[[Tahoma]]
+*[[Verdana]]
+*[[Impact]]
+*[[Modern]]
+</font>
+{{Fontes}}
+[[Categoria:AAAAA]]
+[[Categoria:Linguística]]
+
+<css>
+#globalWrapper {font-family:Times New Roman}
+#bodyContent {font-family:Times New Roman}
+a {font-family:Times New Roman}
+a:visited  {font-family:Times New Roman}
+h1 {font-family:Times New Roman}
+h2 {font-family:Times New Roman}
+h5 {font-family:Times New Roman}
+</css>
+[[eo:Times New Roman]]

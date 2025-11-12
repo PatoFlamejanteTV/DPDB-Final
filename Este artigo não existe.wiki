@@ -1,0 +1,19 @@
+{{MediaWiki:Noarticletext}}
+
+<div style="clear: both; background-color: #ffffff; border: 2px solid #06a; padding: 5px; padding-left: 10px; text-align: left; font-size: 100%; margin-top: 1em;">Atenção: Você está recriando uma página já eliminada em outra ocasião. 
+<div style="font-size: 90%;">
+*{{CURRENTTIME}}, {{CURRENTDAY}} de {{CURRENTMONTHNAME}} de {{CURRENTYEAR}} Esse artigo não existe {{RANDOMADMIN}} ([[Flamewar|Discussão]] | [[Dinheiro|contribs]]) apagou "Essa página não existe" ''(Conteúdo verídico: O conteúdo era: '<div style="clear: both; background-color: #ffffff; border: 2px solid #06b; padding: 5px; padding-left: 10px; text-align: left; font-size: 100%; margin-to...'  (e o único editor era '{{RANDOMUSER}}'))''</div></div>
+
+[[Categoria:Páginas que se parecem com o que elas são]]
+
+[[be:Няма такой старонкі]]
+[[cy:Does dim tudalen o'r enw hwn i gael]]
+[[en:Huffed page]]
+[[fr:Cet article n'existe pas]]
+[[ga:Níl an leathanach ann]]
+[[grc:Δέλτος οὔπω γέγραπται]]
+[[ja:このページは削除されています。]]
+[[ko:생성 금지된 문서]]
+[[la:Non est haec pagina]]
+[[sco:This page disna exist]]
+[[simple:This page has not yet been started]]

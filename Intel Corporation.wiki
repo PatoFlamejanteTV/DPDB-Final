@@ -1,0 +1,132 @@
+{{microsoft}}
+ 
+{{Infobox empresa
+|nome_empresa   = Intel
+|razao_social   = Intel Inside
+|imagem         = Intel2.jpg
+|imagem_largura = 180px
+|imagem_legenda = Logotipo
+|slogan         = Intel inside
+|tipo_empresa   = [[Empresa de capital aberto|Aberta]]
+|ramo_atividade = [[semicondutores]]
+|fundação       = 1968
+|fundador       = [[Gordon Moore]] e [[Robert Noyce]]
+|sede           = [[Santa Clara (Califórnia)|Santa Clara,]], {{USA}}
+}}
+
+[[Arquivo:NerdInside.jpg|thumb|Filial de sucesso da Intel que criou processadores como Atom, Core 2 Duo, Core i7 para jogos pesados]]
+
+{{compactar|
+{{Você quis dizer|[[ Internet]]}}
+{{você quis dizer|[[Inútil|Inutel]]}}
+{{vqd|[[Imbel]]}}
+{{Experimente|Intel desa[[Celeron]]}}
+{{Experimente|[[AMD]]}}
+{{c|"[[Pentium]], a torradeira perfeita"|Cozinheira|Intel}}
+{{c|"Onde Baixo um [[Pentium]] 4???"|Loira do Orkut| Intel}}
+{{c|"Meu [[Pentium]] 4 consegue rodar F.E.A.R. 2 na configuração média (só que com laggg)"|Eu, editor| [[Pentium|Intel Pentium]] 4 rodando F.E.A.R. 2 com lag}}
+{{c|''Intel [[Celeron]] só demora 20 minutos para iniciar o sistema|Vendedor qualquer|Intel}}
+{{c|"Computador (L)[[Pentium]] com monitor Lcd e Windows Starter edition. è isso aí. [[Pentium]]!!!!"|Casas Bahia| Intel}}
+{{c|A Dell recomenda.|Dell|Intel}}
+{{c|"Qual é teu [[Pentium]]?"|Noob| Meu PC}}
+{{c|"Você quiz dizer: Processo Interno"|Google|Processador Intel}}
+{{c|"Intel que nada, compre o Novo Athlon 64bits X2 QuadCore ViiV Centrino Wifi Windows Linux"|AMD| seu processador}}
+{{c|“Quad-Core? Isto non ecziste!!!"|Padre Quevedo|Intel}}
+{{c|MeUuUxXxxxXX InTeL ÉEhHh uM MaXXiIiMuUuUuU|Emo|Intel}}
+{{c|Pra que QuadCore? Meu [[Celeron]] roda meu servidor de Tibia sem lag...|noob|Intel QuadCore}}
+{{c|"Mãe, compra a Barbie Intel pra mim?"|Guria retardada|Intel"}}
+{{c|"Quem que comprar um Intel Centrino Xeon Triplo Quad Core?"|Chuck Norris|seu processador (não duvide que ele tem um,  senão...)}}
+{{c|"Meu Core i7 ta quase no nivel desse processador, quanto custa o seu?"|Eu|Meu Core i7 e a oferta acima}}
+{{c|Amém!|Papa|anúncio do Chuck Norris, pensando se tratar de uma oração em Hebráico}}
+{{c|“É uma linda cidade para se passar as férias”|Carla Perez|Intel}}
+{{c|a terceira perna é exatamente o que você esta pensando|Moore|Transistor}}
+}}
+
+== Inicio ==
+[[Arquivo:Transistor.jpg|thumb|[[Transistor]],com sua avantajada "perna do meio"]]
+Era uma vez um nerd que tinha uma obsessão bizarra por componentes eletrônicos chamado Moore, e ficava montando pecinhas como capacitores e etc em poses comprometedoras, até que um dia ele juntou dois diodos graças à [[física quântica]], esses dois diodos fizeram a mesma coisa que a válvula, só que sem precisar esquentar, estourar depois de um tempo e ser gigante.
+
+Ele chamou essa "peça" de Transistor, por que afinal são duas peças transando, mas logo ele condensou elas numa peça só de 3 pinos (sim, o pino do meio é exatamente o que você esta pensando), de qualquer forma, todo mundo queria aquela putaria, por que ou era a putaria, ou eram válvulas gigantescas que causavam muitos suicídios devido ao som hipnótico delas.
+
+Aí para vender todos esses componentes tarados, ele fundou uma empresa chamada Intel, essa empresa foi um estouro, e vendeu transistores para todo mundo, inclusive a gigantesca IBM, que ficou muito grata por que além dos seus computadores agora poderem ocupar só uma sala, não mais causavam suicídio em massa/invocação da Samara, só que mesmo assim ainda eram gigantes.
+
+A Intel estava em franca vantagem pois os japoneses tentaram copiar o transistor sem sucesso algum, pois o terceiro pino saía minúsculo e era  completamente ineficaz. Este problema foi resolvido bem mais tarde com a joint-venture Japão/Congo.
+
+Por isso o senhor Moore decidiu oferecer para a IBM uma coisa que unisse uma putaria inteira dentro de um componente, e assim eles fizeram o 4004,  que era lento que nem uma tartaruga bêbada, mas abriu caminho para o 8008, 8080, 8090, 9090 (Este, uma versão mais econômica do 8090) R2D2 e C3PO.
+
+== Lei de Moore ==
+[[Arquivo:Intel-apple-inside.jpg|thumb|Intel Inside Apple]]
+Como você agora sabe, um processador nada mais é do que uma suruba de transístores, e como Moore era muito pervertido, ele proclamou que a cada 18 meses, a suruba fosse dobrada, e assim a suruba vai dobrando até os dias atuais, chegando a surubas monstruosas de 2 bilhões de transistores transando.
+
+== Era 8 bit ==
+Apos o 8008 ter deslanchado, a Intel decidiu fazer o processador mais moderno e caro da época, e forçar todo mundo a usar ele com um sistema operacional chamado CP/M,essa cpu se chamaria 8080, e custaria mais de 200 dólares.
+
+porem, funcionários revoltados abandonaram a Intel e fundaram a Zilog, que logo soltou o Z80,que custava metade do preço do 8080,fazia tudo que ele fazia, só que com o dobro da velocidade, e ainda com instruções extra e controladora de memória GRÁTIS!,assim constituindo da primeira surra que a Intel tomou de gente clonando ela, isso sem falar é claro no massacre do 6502.
+
+== Era 16 bit ==
+Depois a Intel fez o 8086, que seria o primeiro 16 bits deles (Meu super nintendo é mais rápido), lerdo para burro e horrível de programar, o que fez com que a IBM se apaixonasse perdidamente por ele, a partir daí o 8086 foi empregado no IBM PC.
+
+Este virou um sucesso absoluto e esmagador, graças a sua velocidade horrível e gráficos de 4 cores, perfeito para planilhas de cálculo feitas por contadores enrolões (ou seja, a maioria deles) e para digitação de centenas de páginas de verborragia legislativa que ninguém compreende feitas por advogados prolixos (novamente a maioria dos advogados), que tornava ele terrível para jogar GTA e navegar em sites pornôs.
+
+[[Nerds|Ratos de computador]] contornaram o problema com a publicação de fotos de [[Tua Irmã|gostosas peladas]] no formato ASCII, disseminando o ASCII art nos [[Cu|anais]] da informática e assim popularizando definitivamente o 8086.
+
+Porém, na mesma época a [[Motorola]] lançou o [[68000]](Um belo celular com câmera, bluetooth, mms, sms, msn, inss, nasa, iptu, batedeira, micro-ondas..., hã, não era celular? ah tá, o papo é processador... esqueci, sabe, eu trabalho na Intel.), que era bem mais rápido, barato, potente e por isso ele dominou tudo, de videogames, a computadores, a micro-ondas a androides ao [[Ronald Reagan]], constituindo assim em mais uma surra que a Intel tomou.
+
+== Era 32 bit ==
+
+Mas a Intel tinha que pagar pau para a Lei de Moore, e após um certo fracasso, ela fez o 80386! Decente, pelo menos empatando com o 68000 em performance, e trazendo o mundo dos jogos para o PC, isso até mais alguns funcionários insatisfeitos com a Intel debandarem para a [[AMD]] e fazerem o AM386, que era muito mais rápido e novamente massacrar a Intel.
+
+E como resposta veio o poderoso [[Pentium]]! Logo massacrado pelo [[AMD]] K6, e o [[Pentium II]] que foi atacado severamente pelo K6-2, e por fim, o <s>cartuchão</s> Pentium III, que ia muito bem obrigado devido a Intel ter caprichado dessa vez, até a AMD lançar o Athlon e começar o massacre tudo de novo.
+
+A Intel tentou contra atacar o Athlon com um <s>micro</s>processador gigante chamado Pentium 4 e comerciais com extraterrestres, mas esse era pior do que o Pentium III e por isso nunca venceu a [[AMD]]. Os comerciais de etezinhos no entanto eram bons, e [[Steven Spielberg]] pagou vários bilhões de dólares pela equipe de propaganda da Intel, o que encheu o bolso dos acionistas e executivos da empresa.
+
+== Era 64 bit ==
+[[Arquivo:Tampax inside.jpg|thumb|Tampax Inside]]
+A Intel começou mal essa era, tentando fazer uma cpu que não era x86 (PÉSSIMA ideia) e consumia MUITO, que ao menos tinha o mérito de de carregar 3000 passageiros, até bater contra um iceberg e afundar, o chamado Itanic.
+
+E depois ela tentou revampear o Pentium 4 colando dois Pentium 4 com Super-Bonder, três Pentium 4, aumentou a velocidade, colocou turbo, colocou gasolina aditivada, etc etc, mas por mais que eles turbinassem o Pentium 4, ele ainda continuava uma porcaria muito mais lenta do que os Athlon, até que uma virada do destino aconteceu chamada Core 2 Duo!
+
+
+== Era 128 bit ==
+A Intel resolve desenvolver programas que possuem a capacidade de prever o futuro e realizar cálculos extremamente avançados em pouco tempo (como o índice de masculinidade de Chuck Norris), mas para isso viu que seus meros 64 bits não era o suficiente.
+
+Em alternativa, a [[Little Big Planet|Sony]] desenvolveu o Emotion Engine, uma pedra de silício que servia para rodar jogos para o Preisteixo 2.
+
+== Somebody set up us the bomb ==
+A filial da Intel em Israel secretamente pegou os projetos do Pentium III (sim, aquele que era bom) e começou a brincar com ele. Quando eles mandaram o Pentium III pro espaço, ele foi quase morto durante a reentrada, mas nem tudo estava perdido! Eles resolveram que podiam reconstruir ele como um ciborgue! Afinal, eles possuíam a tecnologia.
+
+"Mais rápido! Mais forte! Mais potente do que tudo o que já se viu! Senhores, o Pentium III será esse microprocessador!"
+- Citação de um <s>fã de Bob Colwell</s>engenheiro da Intel de Israel.
+
+E 6 milhões de dólares depois, estava pronto um prototipo chamado Yonah.
+
+Quando a Intel de Israel apresentou a CPU colada com baba de camelo para a Intel americana, eles riram, afinal "Cadê o turbo compressor? eca! Isso ai tem marcha manual! Porra, esse motorzinho de fusca não vai dar em nada!" e deixaram eles fazerem só uma cpuzinha de laptop.
+
+Resultado: a CPU simplesmente massacrou todos os Pentium 4 do mercado em performance e custo-benefício (é fato conhecido que o Pentium 4 consumia 100 vezes mais do que o Yonah para fazer um décimo do serviço), e causou bizarrices como empresas lançando placas mãe moderníssimas para ele mesmo com a própria Intel não querendo, e assim a Intel of América foi ownada novamente, só dessa vez pela própria Intel! [[AMD|Dammit]]!
+
+Mas dessa vez eles foram espertos, e ao inves de tentar fazer outra CPU podre só para vencer a eles mesmos, simplesmente entregaram os pontos para Intel de Israel e falaram "A gente desiste cacete! Façam o que quiserem!" e assim a Intel finalmente foi derrotada pela Intel com o lançamento do Core 2 Duo e Quad, que são tão poderosos, mas tão poderosos que nada da [[AMD]] até agora bateu eles.
+
+A ''Intel of America'' continua desenvolvendo e melhorando o Pentium 4 para atender o lucrativo mercado de grelhas e de aquecedores de ar.
+
+== Intel Atom ==
+Noutro experimento curioso, a Intel de Israel soube que Chuck Norris fazia visitas regulares a fim de treinar os esquadrões de elite israelenses na arte do [[Roundhouse Kick]]. Ela então desenvolveu um aparelho capaz de detectar o elemento químico [[Chuck Nórrio]] nas proximidades da Intel israelense, e quando finalizaram-no o aparelho apitou sem parar para a surpresa dos cientistas.
+
+O detector não encontrou Chuck Norris, mas descobriu resíduos de Chuck Nórrio dentro de diversas mulheres israelenses as quais foram trazidas para o laboratório. A Intel descobriu que um pouco de Chuck Nórrio já era suficiente para calcular todos os segredos do Universo gastando apenas 0,000000001mW de potência. A partir daí o [[status]] do experimento foi elevado para TOP SECRET e a Intel negará quaisquer afirmações (obviamente verídicas) contidas neste artigo.
+
+Desde o Pentium 4 e o Centrino a Intel cultiva o hobby de irritar seus clientes. Desta vez ela mantém a tradição patrocinando mini-laptops castrados com vídeo integrado e desaceleração gráfica, equipados com o invento resultante da experiência batizado de Atom, feito a partir de um único átomo de Chuck Nórrio com o restante envolto por diversas resistências elétricas para conter tamanha potência computacional, já que a Intel quer continuar mamando nas vendas dos Core 2 Duo e Quad.
+
+==Ver também==
+
+* [[AMD]]
+* [[nVidia]]
+
+{{Processadores da Intel}}
+
+[[Categoria:Empresas dos Estados Unidos]]
+[[Categoria:Empresas de semicondutores‎]]
+[[Categoria:Fabricantes de microprocessadores]]
+[[Categoria:Fabricantes de eletroeletrônicos‎]]
+
+[[en:Intel]]
+[[ko:인텔]]
+[[zh-tw:陰特耳]]

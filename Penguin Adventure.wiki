@@ -1,0 +1,65 @@
+{{Correr pra Caralho}}
+{{game}}
+
+{{vqd|Antartic Adventure 2?}}
+{{c|Pi Pi Pi Pi...|Pentarou}}
+
+'''Penguin Adventure''' ('''Yume Tairiku Adventure''' no [[Japão]]) foi a sequência do game [[Antartic Adventure]], interpretado por [[Pentarou]]. Feito em [[1986]], pela [[Konami|Come na Mi]].
+
+{{Infobox Game|title = {{PAGENAME}}
+|image               = PenguinA.jpg
+|caption             = Pentarou no ritmo de [[Correr pra Caralho|CPC]]!
+|developer           = [[Konami|Come na Mi]] ([[Zemina]] na versão de Gam*boy II)
+|released            = [[1986]]
+|genre               = [[Plataforma]]
+|rating              = 0%
+|platform            = [[MSX]], [[Arcade]], [[Master System|Gam*boy II]], [[Virtual Console]]
+|ages                = Livre
+}}
+
+== História ==
+
+A princesa do reino aonde Pentarou mora está presente a uma sujeita maldição de se transformar em um quadro. Agora, cabe a Pentarou pegar uma fruta e tirar a princesa dessa maldição.
+
+== O game ==
+
+O game conta com novas coisas, diferentes e melhores do que o Antartic Adventure original. A única coisa que ficou mantida, foi o personagem, os buracos (alguns são Warp Zones, outros são Shops e outros são buracos comuns) e claro, os peixes que saem voando por aí. Agora chega de pegar bandeiras coloridas pra pegar itens. Desta vez, os peixes que só serviam pra marcar pontos, valem espécies de dinheiro para comprar itens. A cada três pistas, na terceira, contém um chefão que pode ser um dinossauro vermelho ou azul. Agora também tem novos tipos de pistas no qual Pentarou pode nadar por cima ou por baixo. Os chefões se matam quando você afunda os "pregos" no chão pra rachar o chão e ele se foder.
+
+== Bonus Stage ==
+
+Algum par de asas aparece na tela. Encoste nele para ir pro bonus! Você deve pegar os peixes. Tem dois tipos, os vermelhos que são os normais, e os amarelos, que dão uma vida pra você.
+
+== Tipos de Pistas ==
+
+* Floresta
+* Gelo
+* Mar gelado
+* Mar na Floresta
+* Caverna
+* Vale de Lava
+* Debaixo d'água
+* Floresta com neve
+
+== Itens ==
+
+O redator fechou este game, porém, nem todos os itens são úteis, então, o redator dessa bagaça irá falar somente os mais importantes:
+
+* Pistola: Faz com que Pentarou atire. Inútil em pedras e chefões;
+* Boné: Pentarou pula e fica voando por um tempo;
+* Coração Azul: Pentarou voa em cima de uma nuvem, plágiando o [[Goku]];
+* Coração Amarelo: Pentarou fica fodão e derruba tudo;
+
+== Ver também ==
+
+[[Arquivo:PentarouCerveja.png|right|thumb|Pentarou, o bebum.]]
+
+* [[Antartic Adventure]]
+* [[Parodius]]
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para MSX]]
+[[Categoria:Pessoas que correm pra caralho]]
+[[Categoria:Pinguins]]

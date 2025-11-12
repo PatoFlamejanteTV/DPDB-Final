@@ -1,0 +1,67 @@
+{{Matemática}}
+
+{{C|Você traiu o teorema de Pitágoras, véio!!!!|[[Dado Dolabella]]|Geometria}}
+{{C|Aritmética ou Geometria?|[[El Chavo del Ocho|Chaves]]|Geometria}}
+{{C|Pra quê eu vou usar isso?!|[[Você]]|Geometria}}
+{{C|Na [[União Soviética]], a hipotenusa calcula '''VOCÊ'''!!|[[Reversal Russa]]|Geometria}}
+{{C|Eu tinha uma H', uma AB', comprei uma OV' e montei uma fazenda!|Aluno dedicado ao curso de geometria|Geometria}}
+{{c|[[Porra]] de geometria !|[[nerd]] em [[álgebra]] que odeia geometria|geometria}}
+
+'''Geometria''', do grego ''Geo'', que significa Terra, e ''Metria'', que é medir. Ou seja, medir a terra. A arte de medir a Terra surgiu na Grécia Antiga, porém ninguém conseguiu medir a terra, então mudaram o objetivo central da '''geometria''' que passou a medir coisas como [[triângulo]]s, [[quadrado]]s, [[losango]]s, etc. Essas coisas vitais para nossa existência. O que seria da humanidade se não soubéssemos calcular a hipotenusa.
+
+== Leuptítenus ==
+[[Arquivo:Image028.jpg|thumb|Aqui está a dedução de uma importante fórmula geométrica, que eu não me lembro qual é.]]
+
+Leuptítenus foi um homem que viveu na Grécia. Coexistiu com o cavalo-de-tróia, ícaro o voador, etc. Mesmo tendo fama, ele não era grego. Nasceu nas [[Ilhas Fiji]], e fugiu para a Grécia dentro da barriga de uma [[baleia]], onde encontrou um artesão que construía bonecos de madeira, que passou-lhe alguns ensinamentos que utilizaria mais tarde, para demonstrar fisicamente fórmulas geométricas. Chegando na Grécia, não tinha nada pra fazer, então, assim como todas as pessoas que não tem nada para fazer fazem, se aprofundou em alguma ciência. Ficava passeando pelas ruas com uma régua medindo as coisas, desde a calota das bigas até a perna das pessoas que passavam. Porém seus dias de paz estavam chegando ao fim, o rei [[Heródes]] havia chegado na cidade, e a polícia secreta do rei achou que a [[sabedoria]] de Leuptítenus  colocaria o reino em risco, assim como nas escolas públicas atuais, era uma raridade saber lidar com números. Leuptítenus teve <s>sua régua</s> seu '''instrumento de alta precisão e periculosidade''' confiscado, sobrando-lhe apenas o carvão, começou a criar contas para descobrir valores sem ter que usar a régua.
+
+== Desenvolvimento ==
+
+Cinco séculos após a morte de Leuptítenus, nasceu numa vila em [[Albuquerque]] - [[Grécia]] um homem (nem nenê foi, já nasceu homem) chamado [[Pitágoras]]. Um grande matemático e geomátrico que criou algo que chamamos atualmente de '''Teorema de Pitágoras''', é um teorema bastante útil nos dias atuais. Seu uso é frequente em/na:
+* Lançamento de foguetes.
+* Produção de [[chiclete]].
+* Produção de [[Pudim de Manga]].
+* Elaboração das posições de [[Amor, Estranho Amor]].
+* Cobrança de falta por [[Roberto Carlos]].
+Como podem ver é bem útil, tendo em mente que todos viajam de foguete e comem pudim de manga. Felizmente Pitágoras viveu há muito tempo, e já não habita entre nós, eu acho que não, pois não deve ser ele que está fazendo as janelas de casa baterem freneticamente.
+
+== Conhecimentos básicos ==
+
+Todo [[Desciclopediano]] é dotado de conhecimentos avançados em quaisquer áreas, por isso, aqui vai alguns conhecimentos básicos de geometria, preste atenção.
+
+'''TELECURSO 2000, AULA-PRÁTICA 3.490.127'''<br />
+Veja como calcular a hipotenusa deste triângulo retângulo.<br />
+[[Arquivo:Triangulo-ret.gif]]<br />
+Antes temos que definir alguns valores:
+* r = 4
+* que = 3
+* p = ?
+Não sabemos o valor de 'p', certo? Então mãos à obra, e vamos achá-lo. Há dois métodos para achár '''p''', vejamos:<br />
+[[Arquivo:Encontre_X.png|150px]]<br />
+Deve-se somente substituir '''x''' por '''p''', que é a incógnita presente na nossa equação. A outra forma é a seguinte:
+* Pegue uma régua.
+* Deite a régua sobre o papel.
+* Alinhe o 0 (zero) da régua, a ponta da reta '''p'''.
+* Faça com que a régua siga paralelamente a reta '''p'''.
+* Agora, muita atenção, veja que número na régua corresponde ao final da reta ''p'''.
+* Abra seu estojo.
+* Pegue o lápis.
+* Escreva o valor que você achou na prova.
+* Parta para o abraço.
+Pronto, você achou a hipotenusa.
+
+==Ver também==
+
+*[[Reta]]
+*[[Geometria Molecular]]
+
+{{Materias da escola}}
+
+[[Categoria:Matemática]]
+[[Categoria:Geometria]]
+
+[[en:Geometry]]
+[[es:Gegometria]]
+[[fr:Géométrie]]
+
+[[he:גאומטריה]]
+[[it:Geometria]]

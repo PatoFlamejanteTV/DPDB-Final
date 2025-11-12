@@ -1,0 +1,142 @@
+{{vqd|Japonês de verdade}}
+{{vqd|Hiragana e katakana}}
+
+'''Kana''' é o nome que se dá aos 92 caracteres ''hiragana'' (ひらがな, 46 caracteres) e "katakana" (カタカナ, também 46) utilizados para a escrita da [[língua japonesa]] de verdade, ao contrário dos ''kanji'', de origem chinesa.
+
+== Como surgiram? ==
+Há [[mais de 8 mil]] anos, no [[Japão]] feudal, um japonês, cansado de ter de desenhar os complicadíssimos ideogramas importados da China (se vem de lá, olho vivo), decidiu, a partir dos kanji, criar dois alfabetos silábicos chamados de "hiragana" e "katakana"; ainda hoje, em pleno século 21, os japoneses erroneamente utilizam kana com kanji, mas seria o mesmo que nós utilIzarmos letras gregas ou russas com o alfabeto latino.
+
+== Hiragana ひらがな ==
+É utilizada para escrever as palavras nacionais do Japão e também chamado de "letra das mulheres", embora os homens também a utilizem (isso porque no Japão Feudal os homens escreviam com kanji, e as mulheres usavam o hiragana). É composta de 46 símbolos básicos e algumas combinações (ver mais na seção "Observações"):
+* '''a''' = あ
+* '''i''' = い
+* '''u''' = う
+* '''e''' = え
+* '''o''' = お
+* '''ka''' = か
+* '''ki''' = き
+* '''[[cu|ku]]''' = く
+* '''ke''' = け
+* '''ko''' = こ
+* '''sa''' = さ
+* '''shi''' = し
+* '''su''' = す
+* '''se''' = せ
+* '''so''' = そ
+* '''ta''' = た
+* '''chi''' = ち
+* '''tsu''' = つ
+* '''te''' = て
+* '''to''' = と
+* '''na''' = な
+* '''ni''' = に
+* '''[[nu]]''' = ぬ
+* '''ne''' = ね
+* '''no''' = の
+* '''ha''' = は
+* '''hi''' = ひ
+* '''fu''' = ふ
+* '''he''' = へ
+* '''ho''' = ほ
+* '''ma''' = ま
+* '''mi''' = み
+* '''mu''' = む
+* '''me''' = め
+* '''mo''' = も
+* '''ya''' = や
+* '''yu''' = ゆ
+* '''yo''' = よ
+* '''ra''' = ら
+* '''ri''' = り
+* '''ru''' = る
+* '''re''' = れ
+* '''ro''' = ろ
+* '''wa''' = わ
+* '''wo''' = を
+* '''n''' = ん
+
+== Katakana カタカナ ==
+Utilizado para escrever palavras de origem estrangeira, tem formas angulares e mais simples que o hiragana. Os sons sãos os mesmos do hiragana.
+* '''a''' = ア
+* '''i''' = イ
+* '''u''' = ウ
+* '''e''' = エ (é uma letra "I", mas tem som de "E")
+* '''o''' = オ
+* '''ka''' = カ
+* '''ki''' = キ
+* '''ku''' = ク
+* '''ke''' = ケ
+* '''ko''' = コ
+* '''sa''' = サ
+* '''shi''' = シ (uma carinha sorrindo)
+* '''su''' = ス
+* '''se''' = セ
+* '''so''' = ソ
+* '''ta''' = タ
+* '''chi''' = チ
+* '''tsu''' = ツ (outra carinha sorrindo)
+* '''te''' = テ
+* '''to''' = ト (um cara da [[pica]] caída)
+* '''na''' = ナ (Um "T" torto, só que com som de "N")
+* '''ni''' = ニ
+* '''nu''' = [[7|ヌ]]
+* '''ne''' = ネ
+* '''no''' = ノ
+* '''ha''' = ハ
+* '''hi''' = ヒ
+* '''fu''' = フ
+* '''he''' = ヘ (é o mesmo desenho, não está errado)
+* '''ho''' = ホ
+* '''ma''' = マ
+* '''mi''' = ミ
+* '''mu''' = ム
+* '''me''' = メ
+* '''mo''' = モ
+* '''ya''' = ヤ
+* '''yu''' = ユ
+* '''yo''' = ヨ
+* '''ra''' = ラ
+* '''ri''' = リ
+* '''ru''' = ル
+* '''re''' = レ
+* '''ro''' = ロ
+* '''wa''' = ワ
+* '''wo''' = ヲ
+* '''n''' = ン (outra carinha, só que sem o olho)
+
+== Observações ==
+Alguns desses caracteres, tanto hiragana quanto katakana, podem ganhar sinais iguais aos que você usa para escrever na porta do banheiro, como uma aspa (゛) chamada de ''dakuten'' ou uma bolinha (ﾟ) chamada de ''maru''/''handakuten'', além de um travessão (ー) chamado de ''chōon'', para estender o som do caractere.<br>
+Exemplos:
+* か com a aspa fica: が (ga);
+* は com a bolinha fica ぱ (pa);
+* Para se escrever ''rikou'', pode se usar a forma りこう ou りこー (rikō), suprimindo o uso da última letra.
+
+Você ainda pode contrair duas sílabas para formar uma terceira:
+* ちゃん (chi + yan) = chan
+* ニャン (ni + yan) = nyan
+
+== Exemplos de como usar o kana ==
+Veja, a seguir, algumas frases formadas com hiragana e katakana:
+
+* アンサイクロペディアがすきです。<br>
+'''[[Ansaikuropedia]] ga sukidesu''' (eu gosto da Desciclopédia — Ansaikuropedia é a Desciclopédia do ''Nihon'', caso ainda não saiba)
+* べんきょいがすき。<br>
+'''Benkyō ga suki''' (eu gosto de estudar)
+* わたしはかしこい。<br>
+'''Watashi wa kashikoi''' ([[eu]] sou [[inteligente]])
+* きみはバカだ。<br>
+'''Kimi wa bakada''' ([[você]] é [[burro]])
+* あなたはインターネットじょいでポルノをみます。<br>
+'''Anata wa intānetto-jō de poruno o mimasu''' (você vê [[pornografia]] na internet <s>e vê mesmo</s>)
+* かれわノンストップできつえんし、のみます。<br>
+'''Kare wa nonsutoppu de kitsuen shi, nomimasu. (ele fuma e bebe sem parar)
+
+Bem fácil, como já deu para ver. De resto, procure uma [[escola]] de japonês ou baixe um aplicativo.
+
+== Ver também: ==
+* [[Escrita japonesa]]
+* [[Língua coreana]]
+
+{{alfabetos}}
+[[Categoria:Língua japonesa]]
+[[Categoria:Cultura do Japão]]

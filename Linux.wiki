@@ -1,0 +1,247 @@
+{{logotipo_falso|Tuxlogo.gif|160|top=120|left=190}}
+
+[[Arquivo:Comparacao.png|thumb|300px|center|Comparação entre os sistemas operacionais.]]
+[[Arquivo:Linux inside.gif|thumb|200px|Depois da compra da [[Intel]]]]
+[[Arquivo:MsLinux.gif|right|thumb|200px|Versão beta 2 do Microsoft Linux 2005]]
+[[Arquivo:Osama_explosao.jpg|thumb|200px|Computador após dar Kernel Panic]]
+{{compactar|
+{{fato|Se você entender esse artigo inteiro você é [[virgem]]?}}
+{{fato|Seu computador fica 1000x mais potente Se você pressionar [Alt]+[PrintScreen]+[b]?}}
+{{Você quis dizer|Parece Unix, mas não é Unix}}
+{{Você quis dizer|Google Chrome OS}}
+{{Você quis dizer|Microsoft Windows}}
+{{Você quis dizer|Windows 9}}
+{{Você quis dizer|Benjamim Linus}}
+{{Você quis dizer|Lixo}}
+{{Experimente|user@linux:~$ sudo apt purge windows}} 
+{{Experimente|user@linux:~$ urpme windows}}
+{{Experimente|user@linux:~$ rpm -e /home/user/windows7.rpm}}
+{{Experimente tambem|Windows XP SP3}}
+{{C| Por que 80% dos usuários prefere pagar para usar o Windows se o Linux é melhor e grátis? | Alguém sensato sobre o Linux }}
+{{C| Linux te deu o livre arbítrio! | Jesus sobre Sistemas Operacionais }}
+{{C| Em [[Redmond]], [[Bill Gates]] não gosta do Linux e monopoliza você com o [[Windows]] |[[Monopólio Microsoftiano]] sobre [[Linux]] }}
+{{C| Vá à linha de comando e digite "apt moo" se você tem Linux! | usuário do Linux sobre curiosidade do apt }}
+{{C| Você já mugiu hoje? | apt sobre comentário acima }}
+{{C| Muuuuu | Você depois de ler o comentário acima }}
+{{C| Este apt tem poderes de uma super-vaca, morra de inveja! | Linux para Windows sobre apt }}
+{{C| Mas eu vou perder o meu Windows? E as minhas músicas?!?!?! Ahhh, não...  |Usuário Noob-Medroso sobre a Instalação do Linux}}
+{{C| Cadê o Ezinho da Internet?  |Usuário Noob numa Lan House com Linux}}
+{{C| Está tudo bem agora! |Entei após largar o Windows e começar a usar Linux}}
+{{C| Desisti! É muito difícil de o usar! |Usuário de Windows|Linux}}
+{{C| Quero Windows!! |Irmão de usuário de linux, em desespero}}
+{{C| Ajude-nos por favor! Clique em nossos anúncios do [[Google AdSense|Google]] e nos ajude <s>a putiar nessa noite</s> a manter o nosso projeto em andamento |Webmaster de site |Linux}}
+{{C| Na [[União Soviética]], o código abre [[VOCÊ]]! |[[Reversal Russa]] |OpenSource/Linux}}
+{{C| O Linux é mil vezes melhor do que o Ruíndows! |Nerd que não usa Windows|Linux}}
+{{C| O Linux é mil vezes melhor do que o Ruíndows! |Nerd que usa Windows|Linux}}
+{{C| Bofe, nem posso ver esse código fonte todo aberto! Ui!|Viado|Linux}}
+{{C| Nem eu posso ver, venha comigo ficar juntinhos.|Usuário do Windows|o viado acima}}
+{{C| Então senta o dedo nessa porra |Capitão Nascimento |tentar configurar o [[Kernel]] do Linux}}
+{{C| Melhor que isso não existe! Na minha casa e na minha [[Microsoft|empresa]], todos usam o Linux.|Bill Gates|Linux}}
+{{C| Não precisa de nota fiscal nem de garantia, nenhum de meus compradores reclamaram!|[[Silvio Santos|Camelô]]|Linux}}
+{{C| O Linux é liiindo...|Caetano Veloso|Linux}}
+{{C| Ctrl+Alt+Del! Ctrl+Alt+Del! Ctrl+Alt+Del! Ctrl+Alt+Del! |[[Bill Gates]] após receber um Kernel Panic}}
+{{C| Não compramos genéricos!|IBM|Linux}}
+{{C| Isso é uma vergonha! |Boris Casoy |Linux}}
+{{C| Mas que beleza de lance!|Casagrande!|Linux}}
+{{C| É uma cilada, Bino! |Pedro para Bino|Linux}}
+{{C| Quero ser como ele quando crescer!!|Windows|Linux}}
+{{C| Tirei 8 em discreta? Linux? POSITIVO!|[[Positivo Informática|Positivo]] }}
+{{C| apt is currently not installed. You can install it by typing apt install apt |apt|Debian Linux}}
+{{C| Linux não precisa de vírus, os próprios usuários já fodem com o PC :) |Troll|Linux}}
+{{C| Nem o CTRL+ALT+DEL funciona no Linux...|Usuário de Windows noob que não sabe que é Ctrl+Alt+Backspace|o Linux}}
+{{C| A sua inveja aumenta o meu IBOPE|Usuário compulsivo|o Linux}}
+{{C| Este aqui não tem MSN!! Volte o Windows...|Irmã do usuário Linux|o Linux}}
+{{C| MSN é o cacete, use o Skype!|Qualquer pessoa da internet que é atualizada|citação acima}}
+{{C| Mas neste não dá para mudar de cor!! Volte o Windows...|Irmã do usuário Linux falando|o Pidgin do Linux}}
+{{C| Uuuufaa!! Ainda bem que fiz Dual-Boot...|Usuário de Linux pensando aliviado, senão teria de fazer backup de 1 TB de fotos + 90 TB de MP3 da irmã...|o dual boot Linux>Windows}}
+{{C| Eu num entendi que ele falou!! | Tiozinho do pânico sobre o erro apt is currently not installed. You can install it by typing apt install apt do Linux}}
+{{C| Desmontar? Eu não quero desmontar nada... só quero remover o pen-drive! |Pessoa normal que usa o [[Windows]]|Linux}}
+{{C| O Linux é uma merda! Qualquer idiota em seu perfeito juízo usaria o Windows. |Capitão Óbvio|Linux}}
+{{C| Se não fosse por ele eu já teria a capacidade de rodar som, SATA, Wireless e Interface Gráfica|[[GNU Hurd]]|Linux}}
+{{C| Eu prefiro o MINIX! |Engenheiro de Computação sobre Linux}}
+{{C| Eu prefiro o BSD! |Sysop da Desciclopédia sobre Linux}}
+{{C| Nem no inferno sugirei isso a alguém! |Linus Torvalds sobre Linux LagartoMaldito [https://plus.google.com/u/0/+LinusTorvalds/posts/1vyfmNCYpi5]}}
+}}
+'''Linux''' é um [[sistema operacional]] criado na [[Finlândia]] por [[Papai Noel]] e a [[Fada dos Dentes]], com ajuda do [[Monstro Espaguete Voador]]. A Fada dos Dentes entregou o sistema a [[Linus Torvalds]] pois ele tinha dentes fortes e escovava os dentes três vezes por dia.[[Arquivo:Excluir windows.GIF|thumb|right|O sonho de todo <s>nerd</s> usuário linux.]] Geralmente os linuxers são loucos, pirados e... acho que é só isso mesmo.
+
+Todo <s>gordinho com tetas e virgem</s> usuário aficionado por Linux adora dizer que o Linux é muito melhor que o Ruindows e que qualquer software que roda em Ruindows roda em Linux e até melhor. O que eles esquecem sempre de dizer é que pra isso acontecer, é necessário baixar/compilar/instalar/configurar 4.673 pacotes, organizar 32.982 dependências e passar as noites de sexta e sábado criando tendinite nos olhos de tanto ficar na frente do computador, aprendendo como se faz, enquanto os usuários de Ruindows estão <s>com uma Tela azul da morte</s> jogando joguinhos em Flash. O que para os usuários aficionados por Linux não quer dizer grande coisa, já que é fato notório que eles não gostam de jogos podres mesmo.
+Mas os <s>gordinhos com tetas e virgem</s> usuários aficionados por Linux são responsáveis pela criação de <s>cópias descaradas e mal-feitas de programas do Ruindows</s> softwares livres, como o AMerdaSN, GimpObre etc.
+
+== Versões comparadas ao Windows ==
+[[Arquivo:Linux-communism.jpg|thumb|200px|A propaganda do Linux chega a patamares extremos, levando a boa família soviética ao seu consumo.]]
+*Windows 1.0  = Linux alfa
+*Windows 2.0  = Linux beta
+*Windows 2.1  = Linux rc
+*Windows 98  = Linux 1.0
+*Windows NT (NetWork) = Linux Word Wide Web
+*Windows Me(rda)  = Linux BS (Bosta Sofisticada)
+*Windows XP (Xuxa Park) = Linux BCW (Beto Carreiro World)
+*Windows Vista = Qualquer distro com [[KDE4]]
+*Versões do Vista:
+*Starter  = Pro bebêzinho aprender o que é BSOD
+*Home Basic   =  Início Básico Avançado 
+*Home Premium =  Início Avançado Básico
+*Business   =  Pra loja do Zé
+*Ultimate =  Pra jogador de CS 1.6
+*Windows Se7en = Mandriva + KDE Plasma 5
+*Windows 8 = Qualquer distro com a interface do Sugar
+*Windows X (Próximo à perfeição) = Debian Linux
+*Windows T* = Gentoo
+*Windows Z (A microsoft nunca criará algo desse porte) = Linux com kernel 3.2 e Unity+HUD
+*Windows ∞ (Jamais existirá) = Linux 4.2 com Wayland
+
+Obs*: Windows T é comparado ao Gentoo porque para ambos é necessário ser um nerd Tetudo e ter muito Tempo pra compilar cada porcaria da fonte.
+<center>
+<gallery widths="200" heights="220" perrow="4">
+imagem:Ubuntu-Cola.jpg|Para usuários do Ubuntu.
+imagem:virgin-cola.jpg|Para <s>[[nerd|nerds virgens]]</s> que colam revistas.
+imagem:qiblacola.jpg|Para aumentar o seu Q.I. (Se você for loira, não adianta, vai ser sempre reprovada.)
+</gallery>
+</center>
+=== Comparação entre Linux e Windows ===
+<table align="center" width="80%" border="0">
+<tr><td width="50%">'''Linux'''</td>
+<td width="50%">'''Windows'''</td></tr>
+<tr bgcolor="#EEEEEE"><td>Poucos sabem usar.</td>
+<td>Qualquer um usa, mas não funciona</td>
+<tr><td>Infinitos modos de configurar o sistema.</td>
+<td>Um modo só e que todos conhecem, mas não funciona.</td>
+<tr bgcolor="#EEEEEE"><td>Novato resolvendo problema de som: Você clica com o botão direito do rato (o Linux traduz "mouse" para "rato", como se você fosse de Portugal) no ícone do som-> propriedades, e não aparece nada - afinal, propriedades de som junto ao som é um tipo de conforto proibido no Linux. Então você vai na internet pra ver onde fica a configuração de som do Linux, que ninguém sabe (você roda o centro de controle e ele não roda). Um fórum manda você ir no botão do pinguim (pra quem não sabe, é o menu iniciar do Linux)->sistema->preferências->administração->preferências de novo->preferências do pulseaudio (você tem que ir procurando um menu atrás do outro, porque a ferramenta "pesquisa" fica pesquisando para sempre sem mostrar nada - afinal, o dever dela é de pesquisar, e não de mostrar o resultado). Mas... você não acha o menu porque o tal pacote não está instalado. Então você vai feito louco na internet, fica 3 dias pesquisando para descobrir o nome do pacote que configura o som, que é paprefs - preferências do pulseaudio. Quando finalmente você consegue instalar essa bagaça, o sistema diz que não reconhece a sua placa de som (mas você não ouve o sistema dizer, pois está sem som). Então você perde toda a vida em fóruns e tutoriais que mandam você ir no terminal e digitar sudo apt install --reinstall pulseaudio pavucontrol alsa-base; e um monte de comandos que ninguém entende. Finalmente, com o sistema cheio de vírus com dependências quebradas e destruído, você entra em contato com o fabricante e descobre que seu computador realmente não tem placa de som. </td><td>Você coloca a placa de som e não funciona, porque pede driver. Então, você volta para o Linux com a placa de som e o som sai automaticamente. O Linux reconhece sua placa automaticamente sem precisar você fazer nada dessa loucura toda escrita ao lado.</td>
+<tr><td>Alguém tenta rodar um programa e não funciona.</td>
+<td>Se você executa um virus.exe no Linux através do wine e não funciona, fique tranquilo: no Windows ele também não funciona.</td>
+<tr bgcolor="#EEEEEE"><td>Modo texto que comunica diretamente ao sistema para atingir objetivos avançados (ninguém sabe usar).</td>
+<td>Modo texto que se comunicaria com o sistema, se funcionasse. </td>
+<tr><td>Gratuito Legalizado.</td>
+<td>5 reaus no camelô mais próximo, versão já crakeada e debugada (só que não).</td>
+<tr bgcolor="#EEEEEE"><td>Código-fonte aberto (só os mais nerds sabe mexer).</td>
+<td>Brechas de segurança abertas (ainda estamos contando as do Windows 98, em 2050 acreditamos que terminemos e começaremos a contar do XP).</td>
+<tr><td>Você roda os aplicativos do Windows com o Wine (funciona muito melhor do que no Windows).('''Wi'''ne '''N'''ão é um '''E'''mulador!)</td>
+<td>wsl roda aplicativos de terminal de linux porem com uma pessima performance</td>
+<tr bgcolor="#EEEEEE"><td>Poderoso sistema para Servidores (que ninguém sabe usar).</td>
+<td>Poderoso sistema de bugs.</td>
+<tr><td> Inúmeros drivers para diversos dispositivos que ninguém sabe instalar.</td>
+<td>Um driver, que leva meses para instalar e anos para funcionar.</td>
+<tr bgcolor="#EEEEEE"><td>Trava quando roda aplicativos do Windows.</td>
+<td>Trava quando roda aplicativos do Windows.</td>
+<tr><td>Kernel Panic.</td>
+<td>[[Tela Azul da Morte]].</td>
+<tr><td>Ctrl+Alt+Backspace, Ai você entra no BASH (que ninguém sabe usar), então usa modprobe via sis amd nvidia cu pc-chips, su, senha, sudo su root xxx, exclude "mypornvideos" mcedit vim /etc/usr/bin/.WindowsKernel/pornfilms/pastasecretagay/Xorg.conf -modapply -X - [fudeu] , comenta 2816 linhas, aplica load penis dri drm rabo modeset cu 666 e depois usa init3, auto explode,alias sudo=ku, xkillall X.Wayland - kcete .1+59[cos.sen.tg-x-(.)y-3.2/4-x], após isso, reconstrua o sistema e coloque mais 6230 comandos e módulos, compile o Kernel, peide feliz, dê o cu, instale 700 Dependências peide, use o startku, crie o .bashrcu, peide novamente, ponha o dedo noku, tome noku, foda noku, cague noku e enfie o dedo noku, aplique [st713cnmpemgeébmoqosmpqt-d1mm].x e pronto. 
+</td>
+<td>Ctrl+Alt+Del, esperar 10 anos para abrir o gerenciador de tarefas, clicar em 'Finalizar processo', esperar mais 365 dias, perder completamente a paciência, reiniciar o computador, receber a mensagem 'O Windows se recuperou de um erro grave', aturar a solicitação de envio de 4620 relatórios à Micro$oft, de tanto clicar em 'Não enviar' você se enche e clica em 'Enviar relatórios', esperar de 1 minuto (Discada) a 100000000000 (3G) anos, receber um e-mail da Micro$oft informando que infelizmente não foi possível diagnosticar o problema no seu computador, ficar puto(a) da vida porque depois de ler o e-mail o Internet Exploder insiste em não fechar, começar tudo de novo: Ctrl+Alt+Del, 'Finalizar processo IEXPLODER.XXX', Tela Azul da Morte, explosão, Windows Vista, reboot, dedo noku, etc, etc... 
+</td>
+</tr>
+<tr><td># urpme Windows << Programa que deve ser removido devido aos vírus</TD>
+<td>Merda.exe -> Já vem instalado</TD></tr>
+<tr bgcolor="#EEEEEE"><td>sudo (SudoKU)</td>
+<td>UAC (Controle de Cu do Usuário)</td>
+</table>
+<table><tr><td>
+O Windows pega 15000000 Vírus por segundo.
+</td><td>
+O Linux também, mas sempre faltam 1 ou 6 dependências que quebraram.
+</td></tr></table>
+
+== Origem ==
+[[Arquivo:Linux sem virus.gif|thumb|left|Não peguei nenhum vírus depois que instalei o Avast! no meu Linux (Mas não tinha pego nenhum antes de instalar)]]
+[[Arquivo:Linux communism.jpg|thumb|200px|O Linux é o primeiro sistema operacional comunista do mundo autorizado a entrar legalmente nos [[Estados Unidos]] e outros países da [[OPEP]]]]
+Depois de um pinguim louco tomar o poder, a [[Máfia dos Pinguins]] arquitetou um plano para destruir os EUA. A primeira versão saiu em 17 de Setembro de 1991.
+[[Linus Torvalds]], ao saber dos planos da Máfia (no [[Google (Empresa)|Google]] se acha tudo), viaja para a [[Antártida]] e desmonta toda a organização, dissipando os pinguins pelo continente. Seu líder malevolécio foi enviado para o Zoológico de [[Pomerode]], onde veio a falecer tempos depois.
+
+Linus Torvalds, com o código fonte do sistema em mãos, voltou para os EUA e criou, junto com Richard Stallman, a Free Software Foundation, com o objetivo de ocultar seus atos passados, já que ele praticamente roubou o código fonte do Linux.
+Atualmente, é passada a todos a falsa verdade de que o Linus baseou-se no MINIX, aquele sistema primitivo de universidade, e etc.
+
+Depois de mudar o nome do sistema, lançou-o sob a licença GPL (que significa "Grandes Pinguins Larápios"), que é outra enganação. Divulgando a "liberdade" do acesso ao código fonte de programas, Linus queria mascarar ainda mais seu crime e, a longo prazo, ter acesso ao código fonte dos drivers da impressora que pifou quando ele quis imprimir seu trabalho de faculdade...
+[[Arquivo:Tela azul windows.png|thumb|250px|Linux shell (modo texto): o modo mais poderoso de se operar o Linux é pelo shell, que é sua linha de comandos. Veja uma tela típica do bash (com fundo azul, invés do preto padrão)]]
+Saiba também que Linus é o verdadeiro dono da Microsoft, ele é irmão do Bill, pois o pai de Bill teve um caso na Finlândia com a mamãe de Linus, que por sinal era gatinha, mas o pai de Bill teve que voltar para os EUA...então outro cara lá assumiu o Linus...! Tempos mais tarde descobriram por DNA que esse cara, chamado Tux, gostava muito de pinguins.. tá aí a grande homenagem a ele.
+
+== O núcleo do sistema ==
+Em 1991 terminou de criar um código fonte inovador usando Visual Basic, que aparentemente executa as funções de um [[Kernel]] qualquer, mas que na verdade serve para roubar senhas de bancos ou cartões de créditos dos seus usuários.
+Não é à toa que Linux é imune à vírus: ele é o próprio vírus. Crackers ("biscoitos de água e sal" em inglês) dividem os lucros de ataques a usuários de Windows com Torvalds; este, por sua vez, divide os lucros com os crackers e vice-e-versa. 
+
+Na verdade, essa bolacha toda tem a ver com uma empresa do mal Nabisco, uma junção de Nabo com Biscoito.
+Outra teoria sobre a origem do [[Kernel]] é que o mesmo teria sido criado por malignos [[Matematica|matemáticos]], que não tinham mais o que fazer. O [[Kernel]] aponta pra tudo que é nulo, ou seja, só serve para ferrar com a vida dos [[Universitários]].
+
+== Sobre o Tux ==
+[[Arquivo:Tomando windows.jpg|thumb|left|[[Tux]] Linux Bebendo o suco do RuinDows]] 
+[[Arquivo:CAD para teclados.JPG|right|thumb|Ferramentas de acessibilidade indispensável par o uso do Windows por deficientes físicos. No windows: CTRL+ALT+DEL. O Linux também tem sua versão: Alt+PrintScreen+B, pouco utilizada, pois este sistema não deveria ser para deficientes físicos (Descíclopes)]]
+Sabe aquele pinguim do Linux? É, esse mesmo, com cara de chapado! Pois bem, ele foi criado para concorrer com a cara de bunda do Bill Gates. Tux é lembrado como o símbolo do sistema operacional Linux.
+
+Na Internet já há centenas de jogos que ensinam a todos, tin-tin por tin-tin, como ser um pinguim fracassado e perdedor. O mais famoso é o '''Super Tux''', que conta história de um pinguim renegado, que sai em busca do líder da Máfia dos Pinguins.
+Outro jogo, igualmente famoso, é o '''Pingus''', clone malfeito de Lemmings, onde o jogador tem a missão de levar todos os pinguins da Máfia para visitar o seu líder preso, atravessando vários obstáculos.
+Há também jogos onde o objectivo do pinguim é enrabar o Bill Gates, o deus da Microsoft.
+Especulações levam a crer que ex-componentes da Máfia, após a morte do seu grande 'GodFather' Tux, ressocializaram-se e decidiram viver honestamente. Depois de algum tempo ainda juntos procurando por uma oportunidade acharam um anúncio de um estúdio que procurava figurantes para um filme; no decorrer das gravações o diretor viu potencial neles e deu papeis maiores com liberdade para serem eles mesmos. O filme em questão, '''Madagascar''', foi um sucesso e os pinguins desde então vêm recebendo convites para trabalhos menores.
+
+== [[Igreja Universal do Linux de Deus]] ==
+
+[[Arquivo:Ferrafusca.jpg|thumb|4 rodas, 1 motor e cor amarela, segundo os usuários Linux, esses carros são a mesma coisa.]]
+É a mais nova instituição religiosa comandanda pela Igreja Universal da pimenta do Reino de Deus. Tem os seus cultos baseados sobre as conversas do [[Kernel]], código-fonte aberto, como invadir um PC com Windows e o que eles mais gostam: Falar mal do Bill Gates (equivale ao [[capeta]] das outras igrejas). Geralmente as reuniões não acontecem na igreja, mas sim no Jabber. Era para ser no MSN, porém o programa é considerado satânico por eles por ser da Microsoft.
+
+Criada pelo bispo "pEdir MaisCedo", após olhar que usuários desse sistema não são muito semelhante aos seus fiéis, pelo fato de serem tão fanáticos quanto os pagadores de dízimos.
+
+Aos domingos, nos maiores fóruns da comunidade rolam sessões de desencapetamento de usuários que aderem ao {{s|diab}} rWindows através de temas, icones ou alguma outra funcionalidade que os aspirantes a [[Richard Stallman|Stallman]]s odeiam.
+
+==Usuários==
+* Seres humanos (no caso da distribuição Ubuntoba (Ubuntu), OpenToba (OpenMandriva) e Monga (Mint)).
+* Comunistas, socialistas, nacional-socialistas, bolcheviques, punheteiros, gays, emos, anarquistas, simpatizantes e héteros bissexuais.
+* Gordinhos virgens com tetinhas.
+* [[Descolados|Descolados (do cérebro)]]
+* [[Bill Gates]] (como base para seu novo sistema operacional, o [[Windows 8|Wuindous Ei8ht]])
+* [[Maconheiro]]s que possuem apenas a camiseta do [[Che Guevara]]
+* Suicidas  
+* Pessoas pobres demais para comprar [[Windows]] ou um Apple Macintosh com [[OSX]] e medrosas demais para piratear (ou roubar um Apple)
+* Pastor Jacinto Muito Leite do Pinto Quente Aqüino Rêgo Grande
+* Silas Malfalado
+* Marcus Feliz com Ânus
+* Vaginas anais
+* [[Xuxa]]
+* Cavidades anais com objetos cilíndricos e pontiagudos introduzidos no reto.
+* Criaturas que moram no [[Acre]]
+* [[Você]]
+* Barack Obama
+* E.T Bilu
+* Sua Mãe
+
+== Ver também==
+
+*[[Pinguim-imperador]] - Conheça os mestre dos mestres, pinguin dos pinguins, o Imperador!
+Mande o pinguim Linux para aquele lugar (ou seja no cu). A Desciclopédia irá lhe oferecer essa oportunidade.
+*[[Jogo:Arremesse o Pinguim|Arremesse Linux Parte 1]]
+*[[Jogo:Arremesse o Pinguim 2|Arremesse o Linux. Versão Jogos Mortais]]
+*[[Arch Linux|Ache o Linux]]
+*[[Oracle]]
+*[[Computador Antigo]]
+*[[Open Cola]]
+
+{{oposto|Windows}}
+{{Eixo Cartesiano do Mal}}
+{{linux}}
+{{dominação}}
+
+[[bar:Linux]]
+[[cs:Линукс]]
+[[da:Linux]]
+[[de:Linux]]
+[[el:Λίνουξ]]
+[[es:Linux]]
+[[eo:Linukso]]
+[[fa:لینوکس]]
+[[fi:Linux]]
+[[fr:Linux]]
+[[he:לינוקס]]
+[[hu:Linux]]
+[[it:Linux]]
+[[ja:Linux]]
+[[ko:리눅스]]
+[[lv:Linux]]
+[[nds:Linux]]
+[[nl:Linux]]
+[[nn:Linux]]
+[[no:Linux]]
+[[pl:Linux]]
+[[ru:Линупс]]
+[[sk:Linux]]
+[[sr:Линукс]]
+[[sv:Linux]]
+[[tr:Linux]]
+[[zh:你勒死]]
+[[zh-tw:你勒死]]

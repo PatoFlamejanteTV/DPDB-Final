@@ -1,0 +1,121 @@
+{{elétrico}}
+<choose><option weight=2>
+{{Fantasma}}
+{{PokéBox
+| imagem = Rotom.png
+| tamanho = 250
+| frase = Boooooooooo!
+| habilidade1 = [[Levitação]] aprendida com os [[monges budistas hippies que plantam maconha para subsistência]]
+| tipo1 = Electric
+| tipo2 = Ghost
+| pokedex = 479
+| espécie = Lâmpada possuída pelo demônio
+| cadeia evolutiva = '''[[Arquivo:RotomSprite-Normal.png]]'''[[Arquivo:Seta.JPG|30px]][[Arquivo:Tumbleweed.gif|100px|link=Nada|Nada]]
+}}</option><option>
+{{quente}}
+{{PokéBox
+| imagem = 479Rotom-Heat.png
+| tamanho = 250
+| frase = O seu jantar está pronto!
+| habilidade1 = [[Levitação]] aprendida com os [[monges budistas hippies que plantam maconha para subsistência]]
+| tipo1 = Electric
+| tipo2 = Fire
+| pokedex = 479
+| espécie = Micro-ondas possuído pelo demônio
+| cadeia evolutiva = '''[[Arquivo:RotomSprite-Heat.png]]'''[[Arquivo:Seta.JPG|30px]][[Arquivo:Tumbleweed.gif|100px|link=Nada|Nada]]
+}}</option><option>
+{{água}}
+{{PokéBox
+| imagem = 479Rotom-Wash.png
+| tamanho = 250
+| frase = Suas roupas já estão limpas!
+| habilidade1 = [[Levitação]] aprendida com os [[monges budistas hippies que plantam maconha para subsistência]]
+| tipo1 = Electric
+| tipo2 = Water
+| pokedex = 479
+| espécie = Lava-roupas possuído pelo demônio
+| cadeia evolutiva = '''[[Arquivo:RotomSprite-Wash.png]]'''[[Arquivo:Seta.JPG|30px]][[Arquivo:Tumbleweed.gif|100px|link=Nada|Nada]]
+}}</option><option>
+{{gelado}}
+{{PokéBox
+| imagem = 479Rotom-Frost.png
+| tamanho = 250
+| frase = Sua comida está sendo conservada!
+| habilidade1 = [[Levitação]] aprendida com os [[monges budistas hippies que plantam maconha para subsistência]]
+| tipo1 = Electric
+| tipo2 = Ice
+| pokedex = 479
+| espécie = Geladeira possuída pelo demônio
+| cadeia evolutiva = '''[[Arquivo:RotomSprite-Frost.png]]'''[[Arquivo:Seta.JPG|30px]][[Arquivo:Tumbleweed.gif|100px|link=Nada|Nada]]
+}}</option><option>
+{{ar}}
+{{PokéBox
+| imagem = 479Rotom-Fan.png
+| tamanho = 250
+| frase = Deixe-me aliviar seu calor!
+| habilidade1 = [[Levitação]] aprendida com os [[monges budistas hippies que plantam maconha para subsistência]]
+| tipo1 = Electric
+| tipo2 = Flying
+| pokedex = 479
+| espécie = Ventilador possuído pelo demônio
+| cadeia evolutiva = '''[[Arquivo:RotomSprite-Fan.png]]'''[[Arquivo:Seta.JPG|30px]][[Arquivo:Tumbleweed.gif|100px|link=Nada|Nada]]
+}}</option><option>
+{{vegetal}}
+{{PokéBox
+| imagem = 479Rotom-Mow.png
+| tamanho = 250
+| frase = Sua grama já está cortada!
+| habilidade1 = [[Levitação]] aprendida com os [[monges budistas hippies que plantam maconha para subsistência]]
+| tipo1 = Electric
+| tipo2 = Grass
+| pokedex = 479
+| espécie = Cortador de grama possuído pelo demônio
+| cadeia evolutiva = '''[[Arquivo:RotomSprite-Mow.png]]'''[[Arquivo:Seta.JPG|30px]][[Arquivo:Tumbleweed.gif|100px|link=Nada|Nada]]
+}}</option></choose>
+
+{{c|Rotom é Motor ao contrário.|Capitão Óbvio|Rotom}}
+{{c|Finalmente um pokémon útil!|Treinador preguiçoso|finalmente haver um pokémon que sirva de eletro-doméstico}}
+{{c|Um pokémon com 1001 utilidades|Garoto-propaganda da Bombril|Rotom}}
+{{c|Alguém chame um exorcista para tirar os demônios do corpo deste pokémon!|Treinador|saber que Rotom é um fantasma}}
+{{c|Meu pokémon preferido, {{Risada}}|Menina do exorcista|Rotom}}
+
+[[Arquivo:RotomSprite-Normal.png|left]]'''Rotom''' foi a criação mais absurda e despropositada do grande deus [[Arceus]]. Ele é um pokémon que é metade [[transístor]] de 1000 volts e metade parente do [[Capeta]]. Ele gosta de assombrar televisões, geladeiras, máquinas de lavar, micro-ondas, cortadores de grama, enfim, qualquer coisa por onde corra eletricidade. Ou seja, basicamente ele é um irmão da [[Samara]], mas ainda bem que esta só se focou em TVs.
+
+==Triste história de uma mente iluminada==
+Afinal ele pode ser uma lâmpada, um micro-ondas, uma máquina de lavar roupas, uma geladeira, um ventilador ou um cortador de grama. Tudo depende <s>da preguiça do treinador em fazer as tarefas</s> do que o treinador vai fazer na Rotom's Room. O Rotom no entanto não deve ser usado para realizar fácil as suas tarefas, pois por ele ser meio-fantasma, ele pode te assombrar por toda a vida e te trazer pesadelos quando você menos espera.
+
+Rotom foi uma criação do grande deus Arceus, que todo o mundo pokémon ama-adora-idolatra (estranho, afinal ele só apareceu na última série). Sua função primordial era mostrar aos seres humanos como trabalhar com eletricidade. Muito bem, é uma função nobre, os seres humanos são totalmente dependentes da eletricidade hoje. Mas depois que essa brilhante tarefa foi cumprida o que restou ao pobre do Rotom? Nada. Ele ficou sem papel no mundo, o que talvez explique o fato de ele ser um dos poucos pokémon lendários que podem ser capturados por uma simples e básica pokebola (só perdendo para os unows).
+
+Rotom, então entrou em depressão, que se acentuava a cada dia já que ele não podia nem ao menos mostrar sua trsiteza, já que Arceus resolveu fazer ele sorridente e brilhante, como alguém feliz. Como naquela época os emos e qualquer coisa parecida ainda nem sonhavam em existir, Rotom, sem ter com quem se identificar resolveu se suicidar.
+
+Mas, claro, não deu certo. Rotom era um monstrinho de bolso lendário, ou seja, ele não poderia morrer, mesmo que ele já não tivesse o que fazer na Terra. E foi assim que nasceu/morreu/renasceu o primeiro e único pokémon fantasma e elétrico do planeta. Agora que era uma alma penada o que restava a ele fazer? Claro que ficar putinho e, morto de raiva, passar a atazanar o insuportaveis humanos que lhe deram um pé na bunda depois de ele ensinar a usar a eletricidade. E foi assim que ele resolveu atacar aparelhos domésticos e conseguiu um processo por parte de Samara do Poço.
+
+Antes de Arceus criar Rotom, uma das hipóteses é que possivelmente tenha faltado energia, então só restou a ele criar um pokémon que inutilmente não gere energia e sim, faça pipoca (microondas), picolé (geladeira), uma máquina de lavar roupa (que não limpa nem a bunda direito), um Aparador de grama pra cortar (as unhas do pé) qualquer porra que seja verde e rasteira (a qual nem eu e tenho certeza que ninguém sabe qual é) mesmo, e consequentemente um ventilador pra (disfarçar o mal-hálito) dar um couro feio no Aparador de Grama.
+
+==Formas do Rotom==
+[[Arquivo:BrockRotom.gif|thumb|200px|Brock, pestes a virar mais uma vítima do Rotom <s>[[Mário do Armário|do Armário]]</s>.]]
+
+*'''Forma de um ventilador''': Nessa forma o Rotom fica elétrico e voador e pode ser usado perfeitamente para te refrescar num dia quente, ou simplesmente, usar sua lâmina para cortar a garganta de alguém que esteja te enchendo.
+
+*'''Forma de um micro-ondas''': Nessa forma o Rotom fica elétrico e fogo e é a melhor opção quando você quer assar algum alimento e gosta que ele venha cheinho de éctoplasma, ou de estática também.
+
+*'''Forma de uma geladeira''': Nessa forma o Rotom fica elétrico e gelo e é bom para congelar alimentos, embora tenha um estranho costume de devorar inocentes e congelá-los também.
+
+*'''Forma de uma máquina de lavar''': Nessa forma o Rotom fica elétrico e água é a melhor escolha se seu objetivo for lavar a roupa e já ficou cansado daquelas máquinas de lavar tradicionais que não te dão choque nem tentam te matar.
+
+*'''Formas de um cortador de grama''': Nessa forma o Rotom fica elétrico e planta é sempre útil para deixar sua grma aparada e seu jardim decente. Só não o irrite ou acabará moído.
+
+*'''Forma Pokédex/Rotomdex''': Nos jogos Pokémon Sun e Moon/Ultra Sun e Ultra Moon, Rotom tem a brilhante ideia de possuir uma pokedex viva e nessa forma, começa a zoar com a descrição de alguns pokémons, o que explica algumas descrições serem totalmente toscas. Além disso, o mesmo é [[Lula|cumpânhero]] do protagonista durante todo o jogo, lhe enchendo mais o saco que uma pokédex normal.
+
+
+{{esboço}}
+{{poke4}}
+
+[[Categoria:Artigos elétricos]]
+[[Categoria:Fantasmas]]
+[[Categoria:Fogo]]
+[[Categoria:Voadores]]
+[[Categoria:Artigos congelados]]
+[[Categoria:Fontes de H2O]]
+[[Categoria:Coisas vegetais]]
+[[Categoria:Ar]]

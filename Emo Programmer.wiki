@@ -1,0 +1,44 @@
+{{computeiro}}
+{{emo}}
+[[Arquivo:Emobookcover.jpg|thumb|200px]]
+{{c|Isso daí é uma bichona!|[[Paulo Silvino|Severino]]|Emo Programmer}}
+{{c|Delphi, Visual Studio, NetBeans e Eclipse são coisas de Emo Programmer! O negócio é vim, gcc, gdb e cat!|Cabra Macho Programmer|Emo Programmer}}
+{{c|Eu daria a bunda pro GNU/Linux ser de código aberto!|Emo Programmer|[[GNU/Linux]]}}
+{{c|Já é aberto|Oscar Wilde|Emo Programmer}}
+{{c|Eu já sabia bobinho... Só queria um motivo|Emo Programmer|[[Oscar Wilde]]}}
+{{c|É o que há. O resto é resto.|Emo Programmer|Emo Programmer}}
+{{c|Perfeito, o melhor.|Emo Programmer|[[MacOSX]]}}
+{{c|Tinha que ser usuário Mac.|Terramel|Emo Programmer}}
+
+
+==Como reconhecer um Emo Programmer==
+* Ouvem [[Arctic Monkeys]] ou qualquer banda [[indie]] enquanto modelam o sistema super-fofuxo no [[Astah]];
+* Enchem o notebook da firma de adesivos merdas, geralmente com jargões de esquerda;
+* O-dei-am [[C]] e [[C++]] por terem ponteiros. ("''Ponteiros? Eca! Prefiro pica do Sander''");
+* "''Banco Oracle?? Cruzes tire isso perto de mim''";
+* '''AMAM [[Ruby]]'''. Aliás é a única [[linguagem]] que elas programam, atualmente os Emos Programmers têm migrado para [[Rails]] também, porque ''eXxTá nA mOdAxX'' e porque a sintaxe de [[RAILS]] lembra o peculiar modo miguxo de falar dos [[Emo]]s. Que negócio mais cone da face da terra...
+* São [[Igreja Universal do Linux de Deus|militontos de open-source]] e usam [[Ubuntu]]  porque é ''fo-fo''!
+* Alguns costumam <s>dar o rabo</s> palestrar na [[FISL]] e chamam a [[Microsoft]] de imperialista (enquanto usam um [[Apple|MacBook Pro]]);
+* Jogam [[Dota 2]];
+* Queriam ser como os elementos da pilha, um em cima do outro. ("''Vem long int, fica no topo que eu sou a sua base''");
+* E na lista encadeada? Hum... ("''Eu sou a puxa-fila! Quero ver todo mundo me inserindo no final!!!''").
+
+==Livrando-se de um Emo Programmer==
+* No processo de software XP: coloque [[Heavy Metal]] enquanto codifica ou modela. Assim ela vai pensar duas vezes antes de te escolher como par.
+* Na faculdade: diga que vai implementar aquele [[parser]] de língua hebraica em ASM x86², com chamadas à [[API]] megalomaníaca do [[Kernel]]. Ela vai ter um treco.
+* Nunca modele: saia codificando. Ela sairá de perto dizendo: "cruzes..."
+* Eles sempre têm umas mensagens estranhas no seu messeger, desde coisas bem depressivas a frases bem gays do tipo "Vamos pular..." Então incentive esse EMO puro dizendo "então pula viado..." E coisas desse tipo!!!
+
+==Nota==
+* Não condena-se a [[modelagem de software]] e sim o eterno exercício dela.
+** Afinal, o que é melhor: o sexo ou as preliminares? ("''Eu quero é fudê, porra!''") 
+* Não condena-se quem programa em [[Java]]. Condena-se quem só dela faz seu ganha pão sem conhecer certo detalhes teóricos (contidos apenas nos livros perdidos da biblia ou no código fonte recém liberado) pois "''o Garbage Collector me ajuda e não tem ponteiro!''". (Não tem ponteiro, não tem sobrecarga, não tem nada de útil. Assim dificulta o uso de boas técnicas [[POG]]).
+* [[Java]] sim, tem ponteiro: apelidaram (ou POGuearam) de ''referência''.
+** Afinal, o que quer dizer então ''[[java.lang.NullPointerException|NullPointerException]]'' (POGuearam novamente a linguagem), seu '''Emo Programmer'''?
+
+   
+
+
+
+[[Categoria:Ciência da computação]]
+[[Categoria:Emos]]

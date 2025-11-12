@@ -1,0 +1,48 @@
+{{Poder}}
+{{game}}
+
+{{vqd|Milagreiro Ambulante}}
+{{c|Fomos nós que fizemos!|Codemasters|Game Genie}}
+{{c|Eu consigo descodififcar isso pra memória [[RAM]]!|Nerd|{{PAGENAME}}}}
+{{c|Só uso ele para desbloquear regiões.|Qualquer um|{{PAGENAME}}}}
+{{c|Que coisa mais esquista!|Você|Game Genie de NES}}
+
+[[Arquivo:SegaGenesisGameGenie.jpg|right|thumb|O cartucho demôniaco.]]
+
+'''Game Genie''' é um cartucho milagroso que é o filho do [[Action Replay]], é o pai do [[Game Shark]] e avô do [[CodeBreaker]].
+
+==O que é isso na verdade?==
+[[Arquivo:ZelosWai.png|thumb|130px|right|Um jogo da Nintendo que pode ser alterado pelo Game Genie]]
+Simples, o Game Genie é uma máquina de cheating, feita pro [[Nintendinho|NES]], [[SNES]], [[Game Boy|Game Gay]], [[Mega Drive|Merda Drive]] e [[Game Gear|Tijolo Gear]]. Esse negócio foi feito pela [[Galoob]] (só tinha n00b na empresa pelo nome...), em uma Joint Venture com a [[Codemasters]] (aquela que só faz jogos do [[Dizzy]] e aquela que fazia a série [[Micro Machines]]). As duas criaram o GG para os 5 consoles, porém, a [[Nintendo|Ñ-Entendo]] não acacbou gostando da ideia e meteu <s>PAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUUUUUUU NEEEEEEEEEELAAAAAAAAAAAAAAAAAA!</s> um processo nas duas empresas (mais ainda na Codemasters que fazia jogos sem licença da Ñ-Entendo). Nos videogames da [[Sega|Cega]], a coisa mudou. A Cega, autorizou o uso do produto pros dois consoles (Merda Drive e Tijolo Gear, dãããã...) sendo um acessório oficial dos dois consoles. No SNES e no GG, aconteceu a mesma coisa no caso do NES: Não é oficial da Ñ-Entendo.
+
+==Formato dos códigos==
+
+Cada console tinha sua <s>apelação</s> forma de processar. No Game Genie, os códigos nem sempre são iguais:
+
+????????, um código de 6 a 8 letras (sem números) para o NES (exemplo: ATVATGSL)
+????-????, um código de 8 letras com números, para SNES e Merda Drive (exemplo: SCRA-BJX0)
+???-???-???, um código de 6 a 8 letras com números, para GG e TG (exemplo: 00A-17B-C49)
+
+Isso era coisa meio demoníaca, pois somente Nerds conseguem codificar processos da RAM para Game Genie.
+[[Arquivo:Ganomlaugh.jpg.jpeg|thumb|130px|left|E um jogo que nunca aceitaria, pois esta em CD.]]
+
+==Como funcionava isso na vida real?==
+
+Simples. Você encaixava o cartucho no conector do Game Genie. Daí, antes de aparecer o jogo, aparece uma tela para você por jogos. No Game Genie de NES, conectando dois Game Genies, pode se colocar 4 códigos ao invés de 2. Os códigos vinham em uma publicação feita pela Codemasters, geralmente, eles tinham a folha branca e com coisas azuis. Nos primeiros livros, mostrava muitos jogos, depois, mostravam de 10 a 1 jogo com códigos Game Genie.
+
+==No entanto==
+
+Quando os cinco consoles faliram, o [[GameShark]] foi o substituto do Game Genie. Porém, não era muito mais fácil programar códigos. O GameShark já mexia em coisas como explorador de memória.
+{{esboço}}
+
+==Ver também==
+
+* [[GameShark]]
+* [[Action Replay]]
+* [[Codebreaker]]
+
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos para Game Boy]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos para Game Gear]]

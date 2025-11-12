@@ -1,0 +1,53 @@
+{{Game}}
+
+{{Infobox Game
+|title     = King Kong Jr.: The Game
+|image     = Donkey Kong Jr cover.png
+|caption   = Capa do jogo quanto relançado para [[NES]]
+|developer = [[Nintendo]]
+|publisher = [[Nintendo]]
+|released  = [[1982]]
+|genre     = Simulador de macaco
+|rating    = 0,1/10
+|platform  = [[Arcade]], [[Atari]], [[NES]]
+|ages      = Livre
+}}
+
+'''Donkey Kong Junior''' é mais um joguinho de arcade sobre [[Donkey Kong]], mas não pense que ele é um jogo qualquer, ele é o primeiro <s>e último</s> jogo em que o [[Donkey Kong Jr.|filho de Donkey Kong]] apareceu, depois dessa aparição dele no game ele só voltou a aparecer em uma versão muito obscura do [[Mario Kart]] para [[Super Nintendo]] e logo depois sumiu sem deixar pistas de onde foi parar (lendas dizem que ele foi para o [[Acre]] após Donkey Kong não assumir sua paternidade). Além disso esse jogo também foi o primeiro e último que teve o [[Mario (personagem)|Mario]] como [[vilão]] da história e não como [[herói]] (pela primeira vez ele soube como é ser um perdedor) tanto que ele até aparece com um bigode mais alongado, para dar a ele um ar mais vilanesco.
+
+== Jogabilidade ==
+
+[[Arquivo:Donkey-Kong-Jr--4.jpg|thumb|left|Repare nos gráficos, só a Nintendo para proporcionar tanta qualidade aos seus jogadores abitolados.]]
+
+Neste jogo controlamos [[Donkey Kong Jr.]], o filho jamais assumido pelo [[Donkey Kong]] que, como percebe-se na sequência da franquia Donkey Kong, jamais irá reconhecer a paternidade desse bastardo. Apesar das rusgas criadas no primeiro jogo de [[Donkey Kong (jogo)|Donkey Kong]], o gorilão e seu captor Mario acabam ficando amigos e o ainda carpinteiro decide que vai ajudar Donkey Kong a escapar do suposto filho. Cabe ao jogador perseguir o pai e o amigo afim de obter o reconhecimento de paternidade, atravessando 200 fases de pura selva escalando [[cipó]]s enquanto precisa esquivar-se de [[codorna]]s assassinas arremessadas pelo Super Mario.
+
+== Enredo ==
+
+Após resgatar sua putinha de estimação no jogo anterior das garras do gorilão tarado, [[Mario (personagem)|Jumpman]] decide que deveria se vingar do Donkey Kong. Mas, como percebemos em jogos como [[Mario Party]], [[Mario Tennis]], etc, Mario e Donkey Kong são grandes amigos e essa amizade começou ali, em 1982 enquanto DK estava enjaulado. Mario escutou todo o drama do gorilão que disse que sequestrou aquela biscate apenas para ajudar o Mario a deixar de ser um escravoceta safado que fica por aí atrás de princesas sequestradas. Essa nova amizade entre Mario e Donkey Kong foi colocada a prova quando um tal de [[Donkey Kong Jr.]] apareceu alegando ser o filho do Donkey Kong, mas o protagonista da série de jogos nunca comeu ninguém, nunca namorou ninguém e que aquele macaco é apenas um oportunista querendo se aproveitar da fama do Donkey Kong. Mario, completamente comovido por essa história, decide ajudar seu novo amigo Donkey Kong a fugir desse golpista.
+
+Mas como o jogador assume o controle é do perseguidor, o tal "Donkey Kong Jr.", ele eventualmente alcança Mario e Donkey Kong, conseguindo chantagear o gorila e ganhar o reconhecimento de paternidade após negociação que inclui substituir o pagamento de [[pensão alimentícia]] por participação em um Mario Kart.
+
+== Recepção ==
+
+Donkey Kong Junior é considerado como um dos Top 100 jogos de [[Gay|bichinhas]] e [[Emo|eminhas]] que não sabem jogar jogos bons de verdade, sendo aclamando como excelente jogo que ninguém nunca jogou ou teve paciência de jogar.
+
+Este é o único jogo da série Super Mario no qual o jogador controla o vilão, no caso, o Donkey Kong Jr., e isso chamou muito atenção em 1982 pois até então ninguém tinha visto um jogo no qual você ajuda um vilão, o que garantiu uma certa popularidade ao jogo.
+
+== Legado ==
+
+Um legado nem tão bom assim que o jogo deixou foi a criação do [[Luigi]], afinal, haviam 2 Marios" puxando o Donkey Kong no filminho de abertura, e algum [[fã]] retardado inventou que aquele era o irmão do Mario, e a [[Nintendo]] que sempre se aproveitou da fanfic dos outros (exceto da [[Bowsette]]) lançou o personagem oficialmente como irmão do ario, ou seja, o que era apenas uma duplicação de códigos rendeu um novo personagem e muito lucro pra Nintendo...
+
+O jogo ainda deixou como legado a ideia de se inventar uma [[barrinha de cereal]] feita de [[banana]]. Como o produto não vendeu, o que gerou grande empilhamento do produto, tal problema foi resolvido com muita criatividade, foi fundada uma empresa aérea chamada [[GOL]] ('''GO'''ri'''L'''a) onde o grande acúmulo dessa barrinha de cereais foi distribuída para os passageiros desta empresa, embora infelizmente em meados de [[2009]] as barrinhas de cereal chegaram ao fim, o que quase gerou o fechamento da empresa aérea (já que seu objetivo já teria sido acabado), mas como o negócio estava dando lucro, resolveram manter a GOL em atividade, apenas tiveram que colocar comida de verdade para os passageiros, onde as comidinhas são cobradas separadamente desde então.
+
+{{Donkey Kong}}
+{{Super Mario}}
+
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para Atari 2600]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Intellivision]]
+[[Categoria:Jogos para Nintendo Switch Online]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos lançados em 1982]]

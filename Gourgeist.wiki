@@ -1,0 +1,33 @@
+{{pokedex}}
+{{PokéBox
+| imagem = Gourgeist.png
+| frase = Gourgeist tentando parecer inocente para enganar mais alguém.
+| nihongo = パンプジン
+| romaji = Aboborasatanika
+| pokedex = 711
+| tipo1 = Ghost
+| tipo2 = Grass
+| habilidade1 = Enganar trouxa
+| habilidade3 = Não saber como dormir
+| espécie = Abóbora do Satanás
+| cadeia evolutiva = [[Arquivo:710MS.png|60px|link=Pumpkaboo|Pumpkaboo]] {{seta}} [[Arquivo:711MS.png|60px|Gourgeist|Gourgeist]]
+}}
+
+[[Arquivo:711MS.png|60px|Gourgeist]] '''Gourgeist''' é uma espécie de pokémon que veio a surgir na sexta geração como um dos raros pokémon de Kalos. Essa abóbora amaldiçoada por ser um ícone do [[Halloween]] em Pokémon, ganhou os dois tipos mais óbvios, que foram o [[Tipo Fantasma (Pokémon)|tipo Gasparzinho]] e o [[Tipo Planta (Pokémon)|tipo Maconha]], sendo o segundo pokémon com essa mesma combinação de tipos na mesma geração, tendo como contraparte a árvore amaldiçoada [[Trevenant]] e por causa desses dois pokémon em específico, a Game Freak usou bastante o tipo que se tornou utilizado em quase todas as gerações seguintes, com exceção da oitava.
+
+Gourgeist é um dos últimos pokémon (graças a [[Deus]]) a ser uma evolução que você consiga ao fazer um troca-troca online com seu amigo e possui a posição de número #711 na lista longa de pokémons que cresce a cada jogo principal da franquia.
+==Design==
+Gourgeist é uma abóbora podre e amaldiçoada que possui um sorriso maligno, além de uma cara inocente que sorri na metade das vezes, mas se Trevenant é uma árvore com cara de bravo e que apenas faz o bem, Gourgeist é literalmente o contrário e embora pareça um pokémon totalmente amigável, irá te matar em questão de minutos caso o subestime. Além de seu sorriso, Gourgeist também possui uma espécie de cabelo rosa que pela falta de mãos, as usa tanto para ajudar a se locomover quanto a caçar e torturar suas vítimas. Como parecia um pokémon simples, a Game Freak inventou algo que poderia fazer Gourgeist se diferenciar dos outros, que foi uma das primeiras espécies a serem diferentes mudando de tamanho assim como sua evolução [[Pumpkaboo]], porém isso é realmente inútil, já que só muda o poder de alguns golpes e não serve mais para nada, já que os jogos em si já permitem a captura de espécies de tamanhos diferentes, o que faz que Gourgeist seja lembrado por nada a não ser o anime.
+==Pokédex==
+Gourgeist é literalmente o contrário de [[Trevenant]], e enquanto a árvore com cara de monstro assustador apenas quer amigos e cuidar da floresta e não quer machucar ninguém (além de lenhadores e pokémon do tipo fogo por causar os incêndios), já Gourgeist possui uma cara de um pokémon inocente que nãofaria nada, mas como é um fantasma, você já sabe e Gourgeist se aproveita de sua aparência para cantar músicas satânicas com o intuito de amaldiçoar [[qualquer um]] que as ouva, e caso se encontre sozinho com uma dessas abóboras malignas na rua, as mesmas irão tentar enrolar suas presas utilizando seus cabelos localizados em sua cabeça que eles usam como mãos. Como a Game Freak é uma das empresas mais preguiçosas, não mudaram a dex para nenhuma de suas quatro alturas diferentes, até vir os jogos Pokémon Sword e Pokémon Shield, onde possui quatro descrições de pokédex copiadas uma da outra, apenas mudando para dizer que [[Capitão Óbvio|Gourgeist de tamanho menor são pequenas e Gourgeist de tamanho enorme são gigantes]].
+==No jogo==
+[[Arquivo:Gourgeistmilotic.png|200px|thumb|Gourgeist tentando enganar esse Milotic com sua aparência.]]
+Nos jogos da sexta geração, Gourgeist, assim como sua contraparte Trevenant são espécies que são muito esquecidas o jogo inteiro, tanto que nenhuma pessoa, nem mesmo o líder de ginásio de planta quis usar essa abóbora como um de seus pokémon, resultando ao jogador usar um desses, mas como seus competidores são uma árvore fantasma, um bode e o inicial do jogo (que não é grande coisa, já que é o mais esquecido entre eles, além do [[Bulbasaur]] doado no meio do jogo). Por sorte, a [[Diantha|campeã mais fácil]] dos jogos (antes da [[Geeta]]) usa um Gourgeist por falta de opção, mas é apenas um saco de pancadas para um dos iniciais do jogo.
+==No anime==
+Se no jogo, Gourgeist foi uma espécie que quase não apareceu a não ser por motivos de completar a pokédex nacional e o time da Diantha, já no anime é outra coisa, já que um Pumpkaboo virou pokémon da [[Jessie (Pokémon)|Jessie]] e por ser uma criatura fofa, poderia se pensar que Gourgeist mais uma vez iria sofrer, mas como era um design muito mais fácil que Trevenant e Jessie não era uma companheira de Ash, conseguiram evolui-o, além de arrumar uma vaga como pokémon da Equipe Raquete apenas para apanhar de Pikachu e/ou Greninja na temporada toda e quase nunca mais aparecer no anime após a temporada X/Y.
+==Usos==
+Gourgeist é um pokémon totalmente inútil nos jogos e mesmo com seu golpe especial de conseguir trocar o tipo do pokémon oponente para o tipo fantasma (ou seja, é [[morte|o que ele irá fazer com você]] caso seja uma presa fácil) que confunda algumas pessoas, esse pokémon não é utilizável por não conseguir se benefeciar da [[mega evolução|mega apelação]] e de nenhuma mecânica dos jogos principais, sendo mais um pokémon que existe apenas para fazer número na pokédex e agradar meia-dúzia de pessoas. Mesmo aparecendo mais no anime do que sua contraparte, as pessoas só se importaram com Pumpkaboo e deixaram Gourgeist de fora da lista de espécies mais populares da geração.
+
+{{Poke6}}
+[[Categoria:Coisas vegetais]]
+[[Categoria:Fantasmas]]

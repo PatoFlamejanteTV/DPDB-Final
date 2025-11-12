@@ -1,0 +1,42 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Poderosa Luta Final
+|image     = mightyfinalfight.png
+|caption   = Logo
+|developer = [[Capcom]]
+|publisher = [[Capcom]]
+|released  = [[1993]]
+|genre     = [[Beat'em up]]
+|platform  = [[NES]]
+|rating    = 42%
+|ages      = Livre
+}}
+
+'''''Mighty Final Fight'''''  é apenas mais um caça-níquel da [[Capcom]] lançado para aproveitar o sucesso de sua própria franquia [[Final Fight]].
+
+==O jogo==
+A [[história]] é a mesma do [[jogo]] original: a putinha [[Jessica Haggar]] é sequestrada pela gangue marota [[Mad Gear]] e um trio de valentões metidos a super-heróis saem em busca de seu resgate, espancando [[qualquer um]] que passar por seu caminho. A diferença é que ''Mighty'' foi adaptado para ser jogado pelo público infantil, então os gráficos ganharam uma versão bem mais ''[[kawaii]]'' e todos os personagens agora estão em modo ''[[chibi]]''.
+==Participantes do treco==
+*[[Cody]] - O [[vagabundo]] metido a [[ninja]] que [[luta]] uma mistura bizarra entre [[karatê]] e [[boxe]].
+*[[Guy]] - [[Namorado]] ''[[playboy]]'' e delinquente de Jessica.
+*[[Haggar]] - [[Pai]] irresponsável de Jessica e [[prefeito]] mais irresponsável ainda da [[cidade]] de [[Metro City]].
+*[[Iron]] - Um capanga insignificante criado especialmente para essa [[merda]].
+*[[Poison]] - A [[travesti]] favorita dos ''[[gamer]]s''.
+*[[Andore]] - O grandalhão burraldo que é [[amante]] de Poison.
+*[[Damnd]] - ''[[Rapper]]'' que queimou os [[neurônio]]s de tanto [[fumar]] uns e não sabe o que está fazendo ali.
+*[[Sodom]] - [[Jogador]] de [[futebol americano]] que é ''[[otaku]]'' e gosta de brincar que é um [[samurai]].
+==''Screenshots''==
+<gallery>
+imagem:Mightyfinalfight intro scene1.png|O inimigo à espreita...
+imagem:Mightyfinalfight intro scene2.png|Devolvam minha filha, seus arrombados!!!
+</gallery>
+
+{{Final Fight}}
+
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos de beat 'em up]]
+[[Categoria:Jogos lançados em 1993]]

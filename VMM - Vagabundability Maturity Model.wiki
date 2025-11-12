@@ -1,0 +1,82 @@
+VEI ''(aka. Vagabundation Enginering Insitute)'' apresenta o modelo que vai tomar conta do mercado de desenvolvimento de Software!
+
+[[Arquivo:logo_vmm.gif|thumb|right|O resultado principal do "processo"]]
+
+==  VMM ou Vagabundability Maturity Model ==
+
+Tem como significado a estratificação em níveis de maturidade da capacidade de organizar “processos”, não sendo necessário trabalhar. Sendo assim, a meta é realizar todos os "processos" sem que o foco principal seja o produto.
+
+O produto final é secundário e os “processos” se tornam o foco principal, criando uma teia de ociosidade que será interpretada como um ciclo de desenvolvimento maduro, organizado e que fará com que o seu projeto torne-se cada vez mais rentável. 
+
+Logo, a sua [[Empresa|empresa]] será capaz de seguir um "processo" contínuo que acarretará em outro "processo" contínuo, formando um ciclo vicioso e com final indeterminado. Sendo assim, seu projeto tera longevidade e os lucros serão altos.
+
+[[Arquivo:fluxo_vmm.jpg|center|thumb|400px|center]]
+
+== As origens ==
+
+No ano de 2001, durante um projeto bastante modular e com mais de 100 pessoas envolvidas, nos deparamos com uma situação que podemos encontrar em todas as empresas que, de alguma forma, trabalham com desenvolvimento de software: "temos pouco trabalho, ou quase nenhum, e temos que mostrar que estamos trabalhando". 
+
+Acreditando que existe solução para este problema, pesquisamos as melhores possibilidades e descobrimos que o importante é que todo o trabalho deve ser transformado em processo. À partir desta ideia que chamamos de “morcegation”, montamos um modelo de maturidade de processos que nos levou ao mais alto nível de ociosidade. Concluímos que importante é que os processos sejam encadeados e indefinidos, fazendo com que o projeto torne-se robusto, aumentanto a qualidade, a longevidade e a lucratividade.
+
+O ocio tornou-se a mais poderosa ferramenta no processo de desenvolvimento e a equipe que participou dessa inicativa foi reverenciada e aclamada como “excelência” em  processos de desenvolvimento de software.
+
+Com a documentação dos resultados e a criação de um modelo abrangente e eficaz, surgiu no início de 2004 o mais revolucionário modelo de maturidade, o Vagabundability Maturity Model, denominado VMM.
+== Os 5 níveis ==
+
+A medida que a empresa conseguir entender o "processo" esta irá ganhar maturidade ''subirá'' em todos os aspectos. Veja a escala do VMM (figura ao lado).
+
+[[Arquivo:niveis_vmm.jpg|thumb|right|Níveis de maturidade]]
+
+=== Nível 1 - O Caos ===
+Neste nível o profissional tem de trabalhar muito, porque não existem processos. As tarefas são atribuídas e tem que ser desenvolvidas em um curto espaço de tempo. Os cronogramas são apertados e existe um grande desgaste dos profissionais, gerando péssima qualidade de serviços.
+
+É o nível inicial da maioria das empresas que produzem software. O nível mais caótico, com péssima qualidade, a menor rentabilidade e onde o trabalho é exagerado.
+
+=== Nível 2 - Repetitível ===
+Neste nível alguns "processos" e técnicas são definidas, mas o trabalho diminiu muito pouco. Não existem “processos” encadeados e estes ficam restritos a fase de projeto. Num mesmo projeto, os profissionais não tem o mesmo nível de conhecimento dos “processos” e por isso não conseguem ficar ociosos.
+
+=== Nível 3 - Definido ===
+Neste nível os "processos" são definidos para toda a organização, seguindo aquela máxima: repita um “processo” tantas vezes até que comecem a achar que ele funciona e após isso, passe para outro “processo”. Assim sendo, se todos os envolvidos comecam a encadear os processo da mesma maneira, a ociosidade não será questionada, pois torna-se um comportamento organizado.
+
+Esse é um nível bastante organizado e difícil de chegar pois envolve uma coordenação entre os pares que não é facil de conseguir. Sempre existem profissionais dispostos a trabalhar e tentar “subir” na vida. Isso acaba em produto final e os encadeamento de “processos” é quebrado. É imprescindível coletar estatísticas sobre a eficácia dos “processos” para não fazer nada para possibilitar a evolução contínua do desenvolvimento e manter a ociosidade em completa harmonia. Outro fato importante é eliminar os profissionais que teimam em executar “tarefas” e quebrar o ciclo vicioso de “processos”.
+
+=== Nível 4 - Gerenciado ===
+Neste nível os "processos" são coordenados de maneira global para que tudo pareça estar funcionando de maneira completa e organizada e gerando resultados. Deve-se ter o cuidado de sempre definir resultados intangíveis e vagos para que os níveis superiores da organização não possam questionar a eficácia do “processo”, já que a qualidade é total e o lucro é alto.
+
+Os “processos” são analisados e melhorados baseados nos dados colhidos no nível 3, e o encadeamento é geral. Neste nível o produto final ainda é gerado, mas a ociosidade predomina. Todos os profissionais envolvidos seguem o encadeamento de “processos”, formando um loop coordenado e gerenciável. Este nível é a grande melhoria do “morcegation”, mas o ócio ainda não está completo.
+
+=== Nível 5 - Melhoria Contínua ===
+Neste nível os “processos” estão totalmente encadeados e organizados de maneira que geram um loop permanente. O cliente acredita no “processo” e o próprio ócio é um processo. Torna-se natural o “morcegation” e ainda dá uma visão de qualidade e faturamento, possibilitando valorizar o profissional ao máximo.
+
+Também neste nível o “processo” está institucionalizado gerando imensas possibilidades comercias (você tornou-se um consultor... e como todos sabemos, 100% ocioso).
+
+== Casos de Sucesso e Depoimentos ==
+{{C|O VMM é a mais avançada metodologia de desenvolvimento de software. A VMM possui grande potencial de crescimento, baseado na qualidade e genialidade das propostas, que podem ser expandidas inclusive para outros ramos de atividade.Por isso investimos no VMM. E é por isso que o seriado caótico ainda passa na TV à cabo|Captain John Sheridan, Earth-Force Officer - Babylon5|{{PAGENAME}}}}
+
+{{C|Me sinto mais preparado para estar participando dos desafios que algumas ocasiões nos colocam. Consigo ter uma visão mais ampla das oportunidades que podem aparecer e consegui colocar processos em todas as minha atividades. Ao introduzir a metodologia, eu e o menino prodígio não trabalhamos mais. Agora o negócio é 'morcegation' todo dia e festa toda noite!|Bruce Wayne, CEO of Wayne Enterprises - Batman|{{PAGENAME}}}}
+
+== Consultoria: seus problemas acabaram! ==
+
+''Se você ainda acredita que trabalho gera dinheiro, esqueça o VMM.''
+
+Este modelo alavancará a sua empresa, tornando-a rentável e totalmente gerenciavel. A qualidade será total e os processos serão encadeados para gerar lucratividade, qualidade e satisfação do cliente. Venha a nós, pois um equipe experiente e capacitada está pronta para atendê-lo. Nós podemos ajudá-lo.
+
+== Certificação ==
+
+Para ser um certificado VMM, siga os passos abaixo:
+
+# Leia com atenção as definições e as propostas do modelo. 
+# Saiba quais são e oque representam os níves do VMM.
+# Envie-nos um email solicitando o questionário de certificação (não é necessário identificar-se).
+# Preencha todos os campos do questionário, descrvendo com suas palavras oque entendeu do modelo e envie-nos.
+# Caso você tenha sucesso, estará recebendo uma certificação por email, com um código de certificado que lhe dará inumeras vantagens, principalmente dentro do grupo de pesquisa e desenvolvimento do VMM. Grupo este que está dentro das maiores organizações de desenvolvimento de software do Brasil e do mundo.
+
+''Aguardamos o seu contato!''
+
+== Ver também ==
+
+* [[Podrões de Projeto]]
+* [[Programação Orientada a Gambiarras]]
+
+[[categoria:Práticas milenares]]
+[[categoria:Tecnologia]]

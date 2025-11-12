@@ -1,0 +1,37 @@
+{{vegetal}}
+
+{{taxocaixa
+| nome           = Hortelã-menta
+| cor            = #00FF7F
+| imagem         = Planta.jpg
+| imagem_legenda = Essa é a famosa hortelã!
+| reino          = [[Plantae|Plantinhas]]
+| superdivisão   = [[Spermatophyta|Plantas com esperma]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Eudicotidae|Eudissecotia]]
+| subclasse      = [[Asterídeas|Esteróides]]
+| ordem          = [[Lamiales|Lamali]]
+| família        = [[Lamiaceae|Lamacentas]]
+| gênero         = [[Mentha|Mete]]
+| espécie        = [[Hortelã-verde]]
+| binomial       = Mete salpicadus
+}}
+
+'''Hortelã-verde''' também conhecido como menta alternativa, é uma planta alucinogica muita usada para fazer doces (vulgo bala) que agradam aos [[pobres]] que acham que tem um paladar apurado (tão apurado que não sabe a diferença de chocolate ao leite e meio amargo), as balas de menta tem gosto ruim que deixa um horrível gosto azedo na boca
+
+== Descoberta ==
+A hortelã foi fez descoberta na [[Jamaica]] quando os traficantes começaram a exporta pois os maconheiros internacionais estavam pagando mais caro, e por isso comprar maconha tava ficando caro.
+Os [[pobres]] jamaicanos estavam procurando um alternativo e saíram fumando todos os tipos de folhas que encotraram.
+Até que um deles fumou uma folhina de hortelã e ficou doidão, segundo o próprio hortelã tem um ligeiro aroma doce com um confuso perfume de menta que deixa um estranho cheiro amargo no fundo das  narinas
+[[Arquivo:Folha.png|200px|thumb|Exemplo raro de hortela de 5 folhas ]]
+
+== Uso na culinária ==
+[[Arquivo:Hortelã garoto.jpg|left|thumb|Um exemplo das balas nojentas de hortelã ]]
+Hortelã é muito usado como tempero nas comidas, confeitarios renomados constantemente usam hortelã como especiaria nos bolos e as empresas pobres fazem bala com um aroma de merda e dizem que é hortelã e como os pobres não tem cultura comem se achando chics
+
+{{condimentos}}
+{{Alimentos}}
+
+[[Categoria:Mentha]]
+[[Categoria:Espécies vegetais]]
+[[Categoria:Vegetais Folhosos]]

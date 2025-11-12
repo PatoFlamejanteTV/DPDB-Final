@@ -1,0 +1,21 @@
+{{Computeiro}}
+
+{{c|1 0 0 1 0 1 0 0 0 1 0 1 1 0 1 0 0 1 0 1 0 0 1 1 1 0 1 ...|Máquina de Turing|ela mesma.}}
+
+A '''Máquina de Turing''' é uma [[máquina]] muito louca, que é a base de tudo na Computação (dizem), mas não faz absolutamente nada. Ela foi inventada para deixar os [[aluno]]s de Computação mais [[louco]]s que já eram. Quando um aluno de Computação conhece a Máquina de Turing de perto, a vida dele se transforma. Para pior.
+
+== Apectos da Máquina de Turing ==
+[[Arquivo:1 XwBRgIiIuVBBiHLxaCJehg.png|thumb|Olhe ela aí. Até hoje, nenhum [[idiota|leigo]] soube para que ela serve.]]
+* Foi inventada pelo [[gay|veadinho]] do Alan Turing, um menino legalzinho, que gostava de cheirar gatinhos. Ainda na graduação, Turing simplesmente revolucionou a Matemática com sua maquininha;
+* A Máquina de Turing lê uma fita infinita, que move a cabeça para direita e para a esquerda (melhor passatempo de Turing na faculdade), reconhece alfabetos, linguagens e é capaz de calcular tudo o que for calculável (ou seja, computável); 
+* Tem uma tal de Decidibilidade, que ainda [[não sei]] o que é, mas deve ter algo a ver com DECISÃO; 
+* Tem também a tal da Incomputabilidade. O pior é que não dá pra saber se o [[problema]] é ou não computável, antes de computá-lo. FDP do Alan Turing!!!
+
+==Ver também==
+
+*[[História da computação]]
+*[[Alan Turing]]
+*[[Computador]]
+*[[Cartão perfurado]]
+
+{{esboço}}

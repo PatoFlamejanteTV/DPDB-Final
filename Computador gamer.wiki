@@ -1,0 +1,71 @@
+{{DISPLAYTITLE:<span style="background: linear-gradient(to right, red, yellow,blue, cyan, green, #FF00FF); -webkit-text-fill-color: transparent; -webkit-background-clip: text;">Computador Gamer</span>}}
+{{Nerd}}
+{{Fato|A maioria dos PCs dito "gamers" são vendidos em lojas de geladeiras e só rodam o cooler do processador}}
+{{Fato|A maioria dos usuários de PC gamer tem internet de -0,5 Dinobits via fumaça e com roteador movido a carvão}}
+[[Arquivo:Ln2.jpg|thumb|Usuário reclamando que o jogo ainda não ta bom rodando a 120fps|right]]
+{{Você quis dizer|Computador LGBT}}
+{{Você quis dizer|Coisa que tem mais luz que uma discoteca}}
+{{Experimente também|Não comprar PC em loja que vende geladeira}}
+{{Experimente também|Ter vergonha na cara e comprar pelo menos um filtro de linha que custa 50 pila}}
+{{C|Se não rodar a 240 fps em 4K não é PC gamer|Burguês safado|{{PAGENAME}}}}
+{{C|Se abriu o jogo é porque roda|Pobre com computador ruim|{{PAGENAME}}}}
+{{C|Luz não da fps mas espanta os mosquitos|Usuário casual|{{PAGENAME}}}}
+{{C|Se botar um SSD no laptop da Xuxa, ele vira um PC gamer?|Leigo|{{PAGENAME}}}}
+{{C|Tá rodando o cooler do processador e os pratos do HD sem travar, é PC gamer?|Pobre com computador ruim|{{PAGENAME}}}}
+{{C|Olha Quico, o Sr. Barriga me deu esse computador que roda CS GO liso, carai 13/3/10 sou muito bom|[[Chaves]]|{{PAGENAME}}}}
+{{C|Olha Chaves, meu PC roda Crysis a 3500 fps e em tela 8K|Quico invejoso|{{PAGENAME}}}}
+
+Computador gamer como o próprio nome diz é uma máquina que você usa tanto pra assistir aquele hentai na sua pasta com 200 GB quanto pra rodar aqueles jogos super exigentes como Minecraft e [[Campo minado]] sem travar. Infelizmente o conceito de PC gamer ainda é bastante subjetivo, com usuários achando que aquele [[Computador antigo|IBM Aptiva dos anos 90]] que roda DOOM é um PC gamer. Hoje em dia o conceito mais comum de PC gamer é aquele ou roda jogos atuais como nos consoles ou que possui mais luzes internas que todas as luzes da sua casa juntas, é, infelizmente ainda existem muitos vigaristas que vendem calculadora num gabinete bonito falando que aquilo vai rodar Free Fire ou o [[Servidor da Desciclopédia]] sem travar
+
+== Configurações de um computador gamer ==
+[[Image:PC Nuclear.jpg|200px|thumb|Não, isso não é um reator nuclear]]
+Não muito diferente de um computador comum, só precisa ter o Micro$oft R[[Windows]] mais recente instalado, mas não significa que ele não vai dar tela azul, já que o próprio RWindows sabe detectar problemas no seu HD de 2001 que você ainda insiste em usar. O hardware também precisa ser no mínimo recente, aquele seu Intel Lentium 4 dos anos 2000 não vai sequer rodar o próprio Windows mais recente, quem dirá abrir a tela de carregamento dos jogos atuais. O computador em geral já vem montado mas muitos usuários leigos insistem em querer montar o seu do 0 comprando peça por peça o que pode acabar dando muito errado já que coisas bem estranhas podem acontecer como o usuário comprar um processador que custa um rim pra instalar uma placa de vídeo que sequer possui cooler. 
+
+Por último e não menos importante, um computador gamer talvez precise de iluminação, mas esse item pode ser considerado opcional já que se luz desse mais desempenho em jogos, bastaria acender uma lanterna ou mesmo uma vela no gabinete que qualquer máquina dos anos 90 rodaria GTA V sem travar. Talvez não seja interessante exagerar nesse último quesito de um computador gamer, já que iluminação demais além de poder te deixar com visão cansada, pode fazer seu computador parecer com um reator nuclear que saiu de Chernobyl
+
+== Hardware de um computador gamer ==
+{{Fato|GT 1030 roda até [[tua mãe]]?}}
+[[Image:PC derretido.jpg|250px|thumb|As vezes é bom comprar uma fonte que preste]]
+Como dito no tópico anterior, um PC gamer precisa de um equipamento decente o suficiente pra rodar no mínimo o servidor da Desciclopédia ou o próprio Windows sem travar; sem isso sua máquina não vai abrir nem mesmo a tela de carregamento. Mas existem algumas peças que são essenciais num PC gamer
+
+*Kit. Também conhecido trindade principal, tudo precisa ser compatível entre si e não é exclusividade de PC gamer
+# '''Placa mãe''': A peça mais importante de um PC gamer. Todos os componentes vão nela, inclusive a poeira
+# '''Processador''': Qualquer um que não seja um Intel Lentium dos anos 2000. Estamos em {{CURRENTYEAR}} 
+# '''Memória RAM''': 16GB já sejam o bastante. 64GB de RAM só se você querer abrir 9999 abas do [[Google Chrome]]
+
+*Peças obrigatórias
+# '''Fonte de alimentação''': 600W dão conta de um sistema simples, mas usar a fonte sem 80 Plus pode explodir sua máquina e sua conta de luz literalmente
+# '''Placa de vídeo''': 8GB e 12GB devem ser o bastante pra rodar jogos atuais. Como as atuais tão bem caras, talvez seja melhor comprar uma de 2017 ou financiar uma nova pela caixa.
+# '''Armazenamento''': Um SSD, afinal seu RWindows vai levar uns 20 anos pra iniciar num HD comum. Talvez seja melhor usar um HD apenas pra instalar atualizações de [[Call of Duty]]
+
+*Periféricos adicionais. São itens restantes que vão dar vida ao seu PC, mas não literalmente
+# '''Gabinete''': Não chega a ser um periférico, mas onde diabos você vai colocar as peças do PC sem um gabinete?
+# '''Monitor''': Fica a seu critério. Da pra usar até uma televisão como monitor
+# '''Mouse e Teclado''': Qualquer um com uma iluminação simples ou com luzes variadas que mais parecem um arco-íris
+# '''Fone de ouvido''': Sim, você vai precisar de um fone de ouvido. Caso você seja pobre pode usar os fones do celular que você comprou na 25 de Março
+
+== Usuário médio de computador gamer ==
+Muito diferente do que se pensa, um usuário médio de PC gamer não precisa ser um [[otaku punheteiro]] que vive assistindo hentai ou um [[Nerd]] que entendeu todas as piadas de [[The Big Bang Theory]]. Boa parte dos usuários sequer sabe o que é [[IP]] ou que tem muita coisa rodando dentro do PC fora o jogo. Os perfis mais comuns de usuários são, os filhinhos de papai que conseguiram convencer o paizão a comprar um PC onde só a placa de vídeo custa o mesmo que uma casa, os usuários casuais de jogos (bem casuais mesmo) que usam o PC 99% do dia pra fazer benchmark e ainda achar que 120 frames por segundo ainda é pouco, por fim temos o e-tleta online que nada mais é do que a minoria que usa a máquina realmente pra jogar e que humilha facilmente todo tipo de [[n00b]] incluindo você. Existe um perfil de usuários de pc gamer que são os jogadores sem compromisso, um grupo formado por jogadores sem qualquer tipo de habilidade e é chamado de praticamente tudo durante a partida, menos de humano; no geral eles não reclamam já que concordam com praticamente todos os xingamentos sendo que acabou ficando 1/16/2 no CS GO
+
+== Computador gamer de baixo orçamento ==
+[[Image:PC gamer privada.jpeg|thumb|right|O design tá uma bosta mas a máquina tá segura|250px]]
+Como a crise dos chips pegou muita gente de surpresa, hoje em dia vale muito mais a pena financiar um pc gamer pela caixa do que comprar um novo parcelado; vale ressaltar que a placa de vídeo chega a custar 5x mais que as demais peças e ainda vai ter o problema de explicar pros pais o porquê da conta de luz vir [[mais de 8000]] reais. A solução pra economizar na compra de uma máquina pra rodar, ou pelo menos tentar, GTA V é cortar do orçamento algumas peças que não sejam do Kit e essa solução muitas vezes é substituir o monitor de led por um de tubo que tá mofando no porão da sua casa, teclado da microsoft e mouse de bolinha com gema de ovo cozida. Outras formas (no mínimo perigosas) de se economizar em tempos de placa de vídeo custando uma casa, é colocando uma fonte genérica, geralmente não se recomenda pois se o usuário for pobre o bastante pra não ter sequer um disjuntor em casa, talvez sua máquina não só exploda a fonte mas como todo seu hardware que deve ter custado toda sua mesada como em casos raríssimos de explodir até mesmo o transformador do poste
+
+== Comprando um computador gamer ==
+Existem muitas pessoas que compram máquinas gamers já montadas e o que eles não sabem é que várias lojas apenas colocam velharias dos anos 90 dentro de um gabinete com LED e fala que aquilo é um PC gamer. Pra piorar a situação a maioria das pessoas compram esses computadores em lojas que vendem geladeiras ou na 25 de março com o adesivo de que roda [[Free Fire|Free corno]], o que aumenta em dobro a frustração do usuário que compra uma porcaria muitas vezes velha ou usada e descobre meses depois que foi feito de idiota por comprar algo superfaturado e ruim
+
+Felizmente não é muito difícil identificar uma máquina gamer para um usuário comum, basta rodar o [[servidor da Desciclopédia]] e se não der pau ou travar algum [[GIF]], é uma máquina gamer
+
+== Síndrome do PC gamer ==
+A síndrome do PC gamer é um distúrbio pós compra que afeta 99 a cada 100 usuários que conseguem financiar sua máquina pela Caixa ou ter comprado peça por peça com o dinheiro do Auxílio emergencial na época da [[COVID-19]]. Se caracteriza pela falta de motivação para jogar seus jogos sem o desafio de que ele vá travar, dar [[Tela Azul da Morte|tela azul]] ou que ele vai demorar uns 20 anos pra iniciar o Windows
+
+== Femêas no Universo PC Gamer ==
+Até um tempo atrás as [[Depósito de porra]] nesse nicho era uma coisa praticamente inexistente, e os Homens eram a maioria absoluta, hoje em dia as coisas mudaram um pouco, as mulheres começaram a entrar nos últimos anos no Universo do PC Gamer mas a Grande maioria delas são [[Nerds]], Enquanto os Homens são Normais.
+
+== Ideologia e Ideais de PCista ==
+- [[Pirataria]]
+- [[Nerd]] / (Minoria) -> [[Hacker]]
+/ [[Fascista]]
+
+
+[[Categoria:Informática]]

@@ -1,0 +1,53 @@
+{| class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+|-
+!style="text-align:center; {{{comic_color}}}"|<big>'''''Afonsinho'''''</big>
+|-
+|style="text-align: center; font-size: 90%;"|
+<br />
+|-
+|[[Arquivo:Afonsinho.jpg|center|220px]]
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+|- style="vertical-align: top;"
+|'''''Nome Real'''''||''Afonso, o Pato''
+|- style="vertical-align: top;"
+|'''''Cidade'''''||''[[Rio de Janeiro (cidade)|Rio de Janeiro]], na favela da [[Vila Xurupita]]''
+|}
+|-
+|
+----
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+!colspan="2" style="text-align:center;{{{alliance_color}}}"|Características
+|- style="vertical-align: top;"
+|'''''Inteligência'''''||''{{000}}, mas mesmo assim sempre foge com sucesso dos senhores gordos que vem cobrar os alugueis atrasados''
+|- class="hiddenStructure{{{alliances}}}" style="vertical-align: top;"
+|'''''Afiliações'''''||''[[Zé Carioca]], [[Pedrão (Disney)|Pedrão]] e [[Nestor (Disney)|Nestor]]''
+|- class="hiddenStructure{{{relatives}}}" style="vertical-align: top;"
+|'''''Parentes'''''||''[[Arquivo:Tumbleweed.gif|50px]]''
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''''Inimigos'''''||''O leiteiro, o açougueiro com gonorreia, o padeiro, o entregador de pizza e qualquer outro que queira cobrar pelos serviços prestados''
+|- style="vertical-align: top;"
+|'''''Poderes'''''||''Essa porra sabe fazer nada''
+|}
+|}
+'''Afonsinho''' é o pato mais esperto da [[Vila Xurupita]], até por ser o único pato que mora por lá. Imigrante que veio de [[Patópolis]], Afonsinho chegou no [[Rio de Janeiro]] em uma canoa, seria mais fácil nadando, mas ele é o único pato que não sabe nadar. Ele faz parte do bonde do [[Zé Carioca]], fazendo com este uma corrida matinal todos os dias, para fugir dos cobradores da [[ANACOZECA]].
+
+==Biografia==
+[[Arquivo:Afonsinho 1.jpg|thumb|left|250px|Afonsinho dando uma chaveada na Vila Xurupita, antes de um baile de favela.]]
+Nasceu em Patópolis, mas mudou-se ainda filhote para o Rio de Janeiro, pois não curte pagar os boletos, e o [[Tio Patinhas]] não deixa devedor viver por muito tempo. Após se estabelecer em um barraco com goteiras em um terreno invadido na Vila Xurupita, Afonsinho fez amizade com o pessoal da comunidade, especialmente com o [[Pedrão (Disney)|Pedrão]], para poder filar as [[feijoada]]s no domingo a tarde, perfeitas para acompanhar mais uma derrota do [[Flamengo]], seu time do coração, ou não. 
+
+Após passar vários anos sendo um atoa encostado que fila a boia na casa dos outros e faz gambiarras para não pagar as contas, Afonsinho percebeu que, agora que era um adulto, precisaria mudar suas atitudes, tendo mais responsabilidade. Assim ele sentiu uma vontade forte de arrumar um emprego fixo e ganhar a vida honestamente. Mas sua força de vontade é maior do que isso, e ele resistiu bravamente a este impulso, continuando com sua rotina de evitar a [[fadiga]] e viver pendurado nas costas dos amigos, afinal eles servem pra isso mesmo.
+
+Para não dizer que Afonsinho não faz nada da vida, nos dias em que não se sente cansado de descansar, ele bate uma bola no Unidos da Vila Xurupita, o time de várzea da favela financiado com o dinheiro do tráfico. Atuando como ponta-direita, Afonsinho é o segundo menos pior jogador do time, perdendo apenas para o próprio Zé Carioca, pois de tanto fugir dos cobradores, o papagaio corre mais do que [[você]] quando fica sabendo que sua [[sogra]] vai te fazer uma visita. Apesar de gostar de bater um fute com a rapaziada, do que Afonsinho mais gosta mesmo é da feijuca pós-jogo que Pedrão prepara, pois essa é uma das poucas refeições que ele faz na semana.
+
+==Ver também==
+
+*[[Zé Carioca]]
+*[[Pedrão (Disney)|Pedrão]]
+*[[Nestor (Disney)|Nestor]]
+
+{{Disney}}
+
+[[Categoria:Retardado]]
+[[Categoria:Patos]]

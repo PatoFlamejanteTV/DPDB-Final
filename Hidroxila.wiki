@@ -1,0 +1,29 @@
+{{ambiguação|radical hidroxila|íon hidróxido}}
+{{química}}
+[[Arquivo:Hidroxila-2D.png|thumb|250px|A hidroxila. Olha o oxigênio e o hidrogênio de mãozinhas dadas.]]
+{{c|E pra que serve essa merda?|Você|hidroxila}}
+{{c|Para nada!|Professor de [[Química]]|hidroxila}}
+{{c|Isso aparece nas [[Base (química)|bases]], [[álcool|álcoois]] e [[fenol|fenóis]]!|Capitão Óbvio|hidroxila}}
+
+A '''axila''', conhecida como '''OH<sup>-</sup>''', '''ânion OH''', ''[[água]] cortada'', entre inúmeras outras coisas é o nome do casamento entre um átomo de [[oxigênio]] e um de [[hidrogênio]], onde o [[oxigênio]] fica semi-satisfeito e só quer ganhar mais um elétron, mesmo que para isso ele tenha que <s>matar</s> quebrar outros átomos. O [[hidrogênio]], já satisfeito, não faz nada pra impedir seu parceiro maldoso.
+
+==Função química==
+[[Arquivo:Etanol1.jpg|thumb|200px|Molécula de [[etanol]]. Olha o oxigênio em vermelho.]]
+A hidroxila é o radical que <s>dá poderes</s> caracteriza várias funções da [[Química]] (não que isso seja importante), entre elas:
+
+===[[Base (química)|Bases]]===
+No [[Ensino Médio]], quando você aprendeu as ''bases'', deveria saber que ela tem a hidroxila. É ela que faz a base <s>brigar</s> reagir com o ácido para [[Sal (química)|dar em tudo que sempre dá]]. Se não fosse por ela, a base não seria base ([[ou não]]). É a hidroxila que também deixa o [[Escala de pH|pH]] básico. Se não fosse por ela, só se teria [[Escala de pH|pH]] ácido.
+
+===[[Álcool|Álcoois]]===
+A mais importante das funções da [[Química]], os álcoois, existem apenas por causa da hidroxila. Os [[hidrocarboneto]]s são um monte de carbonos e hidrogênios ligados. Mas, quando se troca um hidrogênio pela hidroxila, aparece o sagrado [[álcool]], constituinte principal da [[cerveja]], [[vinho]], [[uísque]] e outras bebidas alternativas à [[água]].
+
+===[[Fenol|Fenóis]]===
+Os fenóis são iguais ao álcool, mas tem uma diferença bem simples: a hidroxila está ligada no [[cu|anel benzênico]], o que significa que a hidroxila faz [[Gay|outra coisa]] nos fenóis, coisa não lá muito boa. Mas, como eles gostam, colocam a hidroxila lá mesmo, talvez para coçar ou fazer [[sexo|outras coisas]].
+
+==Veja também==
+*[[Água]]
+*[[Álcool]]
+
+{{química orgânica}}
+{{química inorgânica}}
+{{bases}}

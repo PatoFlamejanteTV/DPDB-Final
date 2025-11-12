@@ -1,0 +1,36 @@
+{{taxocaixa
+| nome           = Sisal
+| cor            = #00FF7F
+| imagem         = Sisal.jpg
+| imagem_legenda = Sisal garantindo subemprego para um cidadão
+| reino          = [[Plantae|Plantinhas]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Monocotiledôneos|Monococotilenolodôneos]]
+| ordem          = [[Asparagales|Aspargosles]]
+| família        = [[Asparagaceae|Asparregaçadae]]
+| gênero         = [[Agave|Agrave]]
+| espécie        = [[Sisal]]
+| binomial       = agrave sisaleirus
+}}
+
+{{vqd|Senzala?}}
+{{c|O sisal abre ou fecha os caminhos depende de onde for plantado|Mago|sisal}}
+{{c|O sisal está em alta no mercado|Economista|sisal}}
+{{c|Essa plantinha afiada vai espetar muita confusão|Narrador da sessão da tarde|sisal}}
+{{c|Sisal é tech, sisal é pop, sisal é tudo|Globo|sisal}}
+{{c|O sisal é zen...|Budista|sisal}}
+{{c|Morreu com o sisal no pescoço|Dito popular|sisal}}
+{{c|Nunca vi ninguém dizer isso|Qualquer um|citação acima}}
+
+'''Sisal''' é uma planta em forma de [[lâmina]]s que se desfiadas viram [[corda]]s vagabundas, das mais baratas possíveis. Por ser fácil de plantar e por poder ser transformado em produtos vagabundos de baixa qualidade, é uma planta muito importante em regiões carentes do Brasil
+
+== História ==
+
+O sisal foi descoberto pelos índios [[Mixtecas]] que faziam corda para [[arco]] de caçar [[axolote]]s, além de tecer redes para o descanso, bem ao estilo dos [[baiano]]s. Os [[espanhol|espanhóis]] que aprenderam com os índios e levaram mudas de sisal para a [[Espanha]], que logo seriam utilizadas para a fabricação de [[Lico de Cair Pinto]]. A planta veio para a [[Bahia]] em [[1800|1800 e trem a vapor]] e foi introduzida em cidades carentes como [[Santaluz]], [[Queimadas]], [[Valente (Bahia)|Valente]], [[Retirolândia]], [[São Domingos (Bahia)|São Domingos]] e [[Conceição do Coité]], local onde inventaram o violão de sisal, um novo instrumento musical. Valente é particularmente o grande polo de sisal do mundo, onde você passa na rua tem um sisal, é coisa de loco.
+
+== Características ==
+
+O sisal é basicamente um [[abacaxi]] gigante, só que sem a fruta, portanto não é nada comestível. Originário dos desertos do México, a planta desenvolveu um sistema de defesa peculiar contra herbívoros ao criar folhas tão duras quanto uma espada e um caule que parece uma rocha de tão ressecado. A planta não precisa de [[água]] do subsolo para sobreviver, por isso pode ser plantada em qualquer lugar, por mais fodido que seja, como interior da Bahia.
+
+[[Categoria:Agave]]
+[[Categoria:Espécies vegetais]]

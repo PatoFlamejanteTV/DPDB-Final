@@ -1,0 +1,95 @@
+<choose>
+
+<option>{{Lutador}}</option>
+<option>{{Ninja}}</option>
+<option>{{venenoso}}</option>
+
+</choose>
+{{Info lutadores de video-game
+|nome                    = <s> Reptile </s> Lin
+|imagem                  = Lintile.jpg
+|País de Nascimento      = [[China]]
+|Data de Nascimento      = Desconhecida (Ninjas são secretivos)
+|Idade                   = Desconhecida (Ninjas são secretivos)
+|Altura                  = Desconhecida (Ninjas são secretivos)
+|Peso                    = Desconhecida (Ninjas são secretivos)
+|Estilo de Luta          = Ninja de verdade!
+|Arma Preferida          = Veneno
+|Técnica Máxima Secreta  = Reptile Venom Strike
+|Religião                = Ninja
+|Profissão               = Ninja
+|Característica Marcante = Roupa bizarra
+|Comida Favorita         = Veneno ao molho inglês
+|Frase Favorita          = <s>[[Morre Diabo]]!</s> ... morra...
+|Esporte                 = Corrida de Assassinato
+|Mania                   = Envenenar
+}}
+
+{{Você quis dizer|[[Reptile]]}}
+{{c|Não é um [[ninja]] de verdade porque eu posso vê-lo!|Alguém|alguns segundos antes de morrer envenenado}}
+{{c|Tentem copiar apenas a CAPCOM droga!|Midway sobre SNK}}
+{{c|Ae tio bota o sujismundo pra mim|Mulequinho do Fliperama|Cara da Maquina pra colocar o Lin pro Muleque.}}
+{{c|Meu Irmão!|[[Cascão (quadrinhos)|Cascão]]|Lin}}
+
+[[Arquivo:lin-stance.gif|left]]
+'''Lin''', muito, mas muito mais conhecido por [[Reptile]], é mais uma [[Yuri Sakazaki|prova]] [[K9999|viva]] da falta de criatividade da [[SNK]] na hora de criar personagens do [[The King of Fighters]].
+
+== História ==
+
+Depois de apanhar muito do [[Liu Kang|Liu quenga]], do [[Raiden]], do [[Shao Khan|Xão Cão]] e do [[Sub-Zero]], Reptile decidiu mudar de vida e escapou daquela dimensão bizarra do [[Mortal Kombat]], procurando por oponentes que ele fosse capaz de derrotar.
+
+[[Arquivo:Cascao01.jpg|left|thumb|200px|Lin quando era criança]]
+
+Convidado para participar de um [[Street Fighter]], Reptile tentou a sorte, mas foi logo derrotado por  [[Ryu]], fazendo-o desistir. Logo após porém, ele recebeu uma [[Rugal Bernstein|cartinha]] convidando-o a participar de um KOF, onde ele entrou sobre a alcunha de [[Eiji Kisaragi]]. Apanhou também. Então, ele se mudou para uma pequena vila na [[china]], onde adotou o nome Lin, e foi ensinado a ser um [[ninja]] de verdade, E usar <s>jutsus</s> ataques venenosos. 
+
+Alguns anos depois, Lin foi enviado para [[Southtown]] atrás de um [[Dado Dolabela|traidor]] do clã, um tiozinho chamado Ron, além de ter a missão de matar todos os envolvidos no cartel NESTS. [[K']], [[Maxima]], [[Whip]], [[Vanessa]], [[Agngel (The King of Fighters)|Angel]], [[K9999]], [[Kula Diamond|Kula]] e [[Foxy]] ainda estão vivos, e Ron ainda está desaparecido, o que significa que ele falhou miseravelmente, provavelmente relacionado ao fato de que Brutalities não são permitidos na série. Porém, se ele encontrar [[você]], bem... você definitivamente morre!
+
+== Técnicas ==
+
+Ele te envenena, você morre. FIM!
+
+{|
+| [[Arquivo:lin-bafo.gif]]
+| '''Bafo de onça''' - Ele solta um bafo terrível que faz o oponente desmaiar em instantes.
+|}
+
+{|
+| [[Arquivo:Ninjamove.gif]]
+| '''Ninja move''' - Lin, mais rápido, mais forte e com corpo inteiro!
+|}
+
+{|
+| [[Arquivo:Ninjamove2.gif]]
+| '''Agora você ve...''' - Agora você morreu!
+|}
+
+{|
+| [[Arquivo:lin-dedo.gif]]
+| '''Dedo tarado''' - Lin, enfiando o dedo no cu dos outros.
+|}
+
+{|
+| [[Arquivo:Linmilpunches.gif]]
+| '''Me dê sua força Pégasuuuuuuuuuuu!!!!'''- Lin plagiando o Seiya e Lula Molusco ao mesmo tempo.
+
+|}
+
+{|
+| [[Arquivo:lin-tesoura.gif]]
+| '''Pedra, papel ou tesoura''' - Lin jogando jo-ken-po.
+|}
+
+{|
+| [[Arquivo:Linptile.gif]]
+| '''Técnica Máxima Secreta''' - Lin após tomar um suco de [[couve]] do [[Juicer|Juicer Phillips Walita]]!
+|}
+
+{{The King of Fighters}}
+
+[[en:Pope Linus]]
+[[fr:Lin]]
+[[Categoria:Ninja]]
+[[Categoria:Personagens de jogos de luta]]
+[[Categoria:Personagens fictícios da China]]
+[[Categoria:Veneno]]
+[[Categoria:The King of Fighters]]

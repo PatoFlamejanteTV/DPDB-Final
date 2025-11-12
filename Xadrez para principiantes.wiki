@@ -1,0 +1,46 @@
+
+
+
+{{C|É um tabuleiro de [[Xadrez]] para principiantes.|Godines|xadrez para principiantes}}
+{{C|Muito interessante... mas como movo as peças?|Oscar Wilde|xadrez para principiantes}}
+{{C|Isso non ecziste! Dobre meu dedo!|Padre Quevedo|xadrez para principiantes}}
+
+[[Arquivo:Godinesss.jpg|thumb|230px|Tela de início do jogo '''Xadrez para principiantes''' para [[PlayStation]].]]
+
+O '''Xadrez para principiantes''' é um jogo adaptado do [[Xadrez]], criado por [[Godines]] em [[934 a.C.]] Muitos [[n00b]]s reclamam não ser capazes de jogar o xadrez tradicional, e para acabar com os problemas deles foi criada essa nova modalidade.
+
+Grandes enxadristas como [[Garry Kasparov]], [[Magnus Carlsen]] e [[Mequinho]] elogiaram esta modalidade, inclusive criaram um movimento para que fosse oficialmente reconhecida como uma modalidade oficial, o tabuleiro original, desenhado por seu criador durante uma aula de aritmética hoje está no [[Museu do Louvre]], em [[Paris]], onde até mesmo [[Miraculous Ladybug|Ladybug e Chat Noir]] prestaram homenagens.
+
+== Regras ==
+
+Simples como tudo. [[Você]] escolhe a peça que vai botar ao lado do seu [[rei]]. De preferência, eu sei que você vai dar uma de espertinho e vai colocar a [[rainha]] e aconselhar seu colega a colocar um peão... Daí é só jogar um [[par ou ímpar]] e quem ganhar dá [[xeque-mate]] instantâneo. Simples, não?
+
+== Jogadas ==
+
+[[Arquivo:Xadrez para principiantes.jpg|thumb|O tabuleiro do jogo.]]
+
+Teoricamente não há jogadas. O [[xeque-mate]] já é concretizado no momento do início do jogo, sem precisar de movimento nenhum. Mas a regra foi adaptada para obrigar a possibilidade de algumas jogadas:
+
+*'''Roque''': Se você escolher a torre, poderá trocar a posição do rei com a da torre. Lógico que isso não vai mudar nada se seu amigo ganhar no par ou ímpar. E dar xeque-mate com isso.
+*'''As 2 Torres''': Essa jogada só pode ser executada em conjunto. Se você e seu amigo escolherem as torres como acompanhamento do rei, ocorrerá uma jogada mágica conhecida como '''As 2 Torres'''. Assim você pode deixar o xadrez de lado e jogar [[Senhor dos Anéis]], com o retorno dos reis.
+*'''Virada de mesa''': Não é a virada da mesa de jogo. Esta jogada é conhecida também como tapetão. O jogador perde no par ou ímpar, reclama um monte e fala que a disputa deve ser em [[pedra, papel e tesoura]]. Se o jogador perder no pedra, papel e tesoura, tem que desistir de jogar xadrez para principiantes e começar a jogar algo mais fácil.
+* Se você quiser uma jogada mais '''longa,''' você pode colocar bispos nas casas brancas e reis nas casas pretas, e começar a jogar. Não me pergunte como dar o Xeque-mate.
+*'''Cavalo''': Quando se joga com o cavalo o jogador pula para outro tabuleiro paralelo e dá xeque mate no rei do jogo vizinho.
+
+== Problemas do jogo ==
+# O adversário não se conforma com o resultado do [[par ou ímpar]]. Neste caso, tenta-se por melhor de [[três]].
+# Escolheu-se o [[cavalo]] pra jogar. Neste caso, quem perde o jogo é [[você]], afinal, quem mandou escolher uma peça que não pode se mover?
+# Escolheu-se um [[bispo]]. Bom, neste caso, as coisas se resolverão com os reis mesmo...
+# Escolheu-se um cavalo tanto pra você como pro outro. Neste caso, é empate [[Parreira|técnico]].
+# '''''Não sei mover as pedras.''''' Neste caso, o que você está fazendo jogando, seu [[burro]]?
+
+== Ver também ==
+
+*[[Xadrez]]
+*[[Sanduíche de ovo]]
+*[[Vaca comendo capim]]
+*[[Cubo mágico para loiras]]
+
+{{Chaves}}
+
+[[Categoria:Variantes do xadrez]]

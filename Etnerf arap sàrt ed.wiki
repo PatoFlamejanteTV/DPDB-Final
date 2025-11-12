@@ -1,0 +1,109 @@
+{{Logotipo falso|Pesciclodédia.png|152px}}
+{{ilegivel}}
+<css>
+#catlinks{display:none}
+#footer{display:none}
+#p-tb{display:none}
+#siteNotice{display:none}
+h1{display:none}
+</css>
+<div style="position: absolute; top:10px; right:10px;"><h2><big>etnerf arap sárt eD</big></h2></div>
+<br><br><br><br>
+====== {{ns:0}} ======
+__NOTOC__
+__NOEDITSECTION__
+<div style="direction: rtl; padding-right: 15px;">
+<div style="font-family: sans-serif">
+:<div class="boilerplate metadata" id="wrongtitle"><table cellpadding="5" cellspacing="5" style="background-color: #FDE3D4; border: solid 1px #B19F95"><tr><td align="right">''&#8238;O seu browser não suporta escrita de trás para frente na barra de endereço. Favor imaginar que o endereço deste artigo é '''<nowiki>http://desciclo.pedia.ws/wiki/Etnerf_arap_sárt_ed</nowiki>'''''</td></tr></table></div>
+
+{{c|assen íac mébmat uE|Chuck Norris|{{PAGENAME}}}}
+
+[[Arquivo:Cquote1.png|10px]]'' etnerf arap sárt ed átse ogitra etsE. ''[[Arquivo:Cquote2.png|10px]]<br><small>'''etnerf arap sàrt eD''' erbos [[Capitão Óbvio|oivbÓ oãtipaC]] {{if|c={{{3|}}}|t=sobre {{{3}}}}}</small><br><br>
+
+[[Arquivo:Cquote1.png|10px]]'' ÊCOV evercse etnerf arap sárt ed ,acitéivoS oãinU aN!! ''[[Arquivo:Cquote2.png|10px]]<br><small>'''etnerf arap sárt eD''' erbos [[Reversal Russa|assuЯ lasreveЯ]] {{if|c={{{3|}}}|t=sobre {{{3}}}}}</small><br><br>
+
+
+<!-- e-comercial + #8238; = texto ao contrário ;-) -->
+
+{{Categoria|airogetaC|AAAAA|AAAAA}}
+‮A escrita '''de trás para frente''' foi criada pelos [[Estados Unidos da América|Americanos]], durante a [[Guerra Fria]], para que os russos não pudessem descobrir seus planos.
+
+<table id='toc' class='toc'><tr><td><div id='toctitle'><h2>‮Tabela de Conteúdo</h2></div>
+<ul style="padding-right: 15px;">
+<li class='toclevel-1'>[[#_2|<span class="tocnumber">1</span> <span class="toctext">&#8238;História</span>]]</li>
+<li class='toclevel-1'>[[#_3|<span class="tocnumber">2</span> <span class="toctext">&#8238;Palíndromos</span>]]</li>
+<li class='toclevel-1'>[[#_4|<span class="tocnumber">3</span> <span class="toctext">&#8238;Ver Também</span>]]</li>
+</ul>
+</td></tr></table>
+
+====== {{ns:0}} ======
+<div style="direction: rtl;">
+<span style="float:left">  <div style="font-size: 80%;">[<u style="color:#002BB8">ratide</u>]</div></span>
+<span style="color: black; background: none; font-weight: normal; font-size: 150%">‮História</span><hr>
+</div>
+‮O seguinte relatório, além de contar a história dos eventos ocorridos no início da guerra, serve também como exemplo da criptografia através da escrita de trás para frente:
+
+    ‮Em 1945 D.C.
+    ‮Guerra estava começando.
+    ‮Capitão: Que acontece ?
+    ‮Mecânico: Alguém instala nós a bomba.
+    ‮Operador: Nós tem sinal.
+    ‮Capitão: Quê !
+    ‮Operador: Tela principal ligar.
+    ‮Capitão: É você !!
+    ‮CATS: Como estão cavalheiros !!
+    ‮CATS: [[All your base are belong to us|Todos sua base são pertence a nós]]
+    ‮CATS: Vocês estão no caminho da destruição.
+    ‮Capitão: Que você diz !!
+    ‮CATS: Vocês não tem chance de sobreviver faça seu tempo.
+    ‮CATS: Ha Ha Ha Ha ....
+    ‮Operador: Capitão !!
+    ‮Capitão: Tire todo 'Zig' !!
+    ‮Capitão: Você sabe o que você fazendo.
+    ‮Capitão: Mova 'Zig'.
+    ‮Capitão: Para grande justiça. 
+
+‮Documentos classificados, divulgados em 1991 após o fim da Guerra Fria, revelam que ''Zig'' era a máquina que permitia inverter e desinverter textos escritos de ‮trás para frente. Para sorte dos americanos, Camarada CATS não conseguiu por as mãos em nenhum ''Zig'', e a técnica da [[Reversal Russa]] ainda não havia sido ‮completamente desenvolvida, tornando praticamente impossível a descoberta de seus planos de dominação mundial.
+
+====== {{ns:0}} ======
+<div style="direction: rtl;">
+<span style="float:left">  <div style="font-size: 80%;">[<u style="color:#002BB8">ratide</u>]</div></span>
+<span style="color: black; background: none; font-weight: normal; font-size: 150%">‮Palíndromos</span><hr>
+</div>
+
+‮Um dos maiores problemas para o método de escrita de trás para frente são os chamados palíndromos: palavras que de trás para frente são idênticas às sárt arap etnerf ed sarvalap.
+
+‮Exemplos encontrados em documentos desclassificados:
+
+* ‮''Ana'' (nome-de-guerra do ''Operador'')
+* ‮''A base desatola calotas e desaba'' (frase encontrada no dossiê a respeito de CATS)
+* ‮Socorram-me! Subi no ônibus em Marrocos!  (carta secreta de um agente em perigo)
+* ‮A camarada ia dar a maca (sobre o suborno dos russos a soldados americanos feridos)
+* ‮A diva em Argel alegra-me a vida (bilhete de um soldado que deveria se concentrar no seu serviço)
+* ‮Anotaram a data da maratona (documento sobre a operação antiterrorismo durante a Maratona de 1984)
+* ‮Zé de Lima, rua Laura mil e dez (informações sobre o ''Operador'')
+
+====== {{ns:0}} ======
+<div style="direction: rtl;">
+<span style="float:left">  <div style="font-size: 80%;">[<u style="color:#002BB8">ratide</u>]</div></span>
+<span style="color: black; background: none; font-weight: normal; font-size: 150%">‮Ver também</span><hr>
+</div>
+
+* ‮[[Rússia]]
+* ‮[[Estados Unidos da América]]
+* ‮[[Guerra Fria]]
+
+{{Allstubs|''.edop êcov [[Desciclopédia|aidépolcicseD]] a raduja ,|ol-átnemua| eS .é ogitra etse ,oçobse mU [[Arquivo:Yoda.jpg|50px|adoY]]''}}
+
+</div>
+
+[[Categoria:AAAAA]]
+
+[[zh:排橫起右]]
+
+[[en:Sdrawkcab]]
+[[es:Sèver lA]]
+[[ja:右横書き]]
+[[ko:로꾸거어]]
+[[pl:Kapsw]]
+[[zh-tw:排橫起右]]

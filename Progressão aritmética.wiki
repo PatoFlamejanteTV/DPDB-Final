@@ -1,0 +1,16 @@
+{{Matemática}}
+{{Vqd|[[Sexo|Pear]]|PA}}
+{{C|Eu sei|Nerd|PA}}
+{{C|Eu não|Você|PA}}
+[[Arquivo:Acne feia.jpg|thumb|200px|Na acne, a cada coçada, mais 4 espinhas surgem por hora, formando uma progressão aritmética horária]]
+
+'''Progressão aritmética''', também chamada de [[Pá|PA]], é uma coisa que você aprendeu na escola e acabou esquecendo porque você ficou vendo a [[Desciclopédia]] ao invés de estudar para o [[ENEM]]. Ela foi criada por [[Galileu Galilei]] pra fazer os jovens não [[Jaiminho|evitarem a fadiga]] e começarem a trabalhar.
+==Origem==
+Ela surgiu em [[1900 e guaraná com rolha]], pra ajudar os [[Lula|analfabetos]] a saber contar até <s>[[69]]</s> 10. Ela foi criada junto com sua irmã [[Progressão Geométrica]] pelo pai da matemática [[Albert Einstein|Carlos Alberto Aistain]]. Não se sabe como as duas foram feitas, talvez ele tenha [[Sexo|comido]] a [[Número primo|prima de um dos números]]. 
+==Fórmula==
+Assim como [[Bhaskara]], a PA possui uma fórmula pra resolver questões [[Pleonasmo|matemáticas envolvendo números]]. Ela pode ser usada tanto por nerds quanto por <s> burros </s> pessoas normais.
+
+''ax = a<sub>1</sub> + (n-1)r''
+
+{{esboço}}
+{{Séries matemáticas}}

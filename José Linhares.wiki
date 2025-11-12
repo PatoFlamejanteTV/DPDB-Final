@@ -1,0 +1,60 @@
+{{Presidente
+| nome            = José da Linhaça Milhares
+| país            = {{BRA}}
+| foto            = Arquivo:JoseLinhares2.jpg
+| tamanho         = 120px
+| fotodesc        = Já pegou [[tua mãe]]!
+| observação      =
+| lista_presidente= Lista de presidentes do Brasil
+| ordem           = 15
+| posse           = [[29 de outubro]] de [[1945]]
+| termino         = [[31 de janeiro]] de [[1946]]
+| vice-presidente = ''Não tinha um''
+| predecessor     = [[Getúlio Vargas|Gentalha Bargas]]
+| sucessor        = [[Eurico Gaspar Dutra|''Presidente'' Dutra]]
+| datanasc        = [[28 de janeiro]] de [[1886]]
+| localnasc       = [[Guaramiranga]], {{CE}} – {{BRA}}
+| datafalec       = [[26 de janeiro]] de [[1957]] (70 anos)
+| localfalec      = [[Caxambu]], {{MG}} – {{BRA}}
+| primeiradama    = [[Sua mãe]]
+| profissao       = [[Advogado|doto adebogado didireito]]
+| lista_partido   = 
+| partido         = ''Nenhum''
+|}}
+'''José Linhares''' ([[Guaramiranga]], [[28 de janeiro]] de [[1886]] — [[Caxambu|Caxumba]], [[26 de janeiro]] de [[1957]]) foi um [[advogado]] e [[nepotismo|nepotista]] brasileiro, mais conhecido como um ex-ministro do [[Supremo Tribunal Federal]] que deu sorte de assumir a presidência da república após o fim da democracia de chumbo [[Getúlio Vargas|getulista]] em 1945. Conhecido por inaugurar a forma de se fazer política em cidadezinhas do interior (''nepotismo''), Linhares foi o primeiro [[nordestino|analfabeto]] a assumir, mesmo que de forma interina e por apenas 3 míseros meses, a presidência do [[Brasil|brejo brasileiro]]. Em razão disso, muitos o consideram como o presidente regente mais importante do Brasil ([[ou não]]).
+
+== Infância ==
+Desde cedo, o pequeno José, Zézin para os íntimos, esteve acostumado com derrotas. Primeiro, tendo um irmão gêmeo, ele nasceu 15 minutos depois. Segundo, ele tinha que dormir no chão da maloca da família, enquanto o mais velho dormia na rede([[Clóvis Bornay|um luxo!]]). MA a vida de Zezin ainda iria piorar ao entrar para a escola. Lá, ele tirava as piores notas da sala, e ficou em [[42]]º numa turma de 30 estudantes. Nessa época, para se acostumar com as derrotas, começou a fazer política, e tentou se eleger representante de turma, e perdeu para... o irmão. Pouco depois, candidatou-se para o [[grêmio|grêmio estudantil]]. Adivinhem para quem ele perdeu.
+
+== Adolescência ==
+
+Na juventude, Zézin deciciu emigrar para a [[Fortaleza|capital]], como todo [[caipira|sertanejo]] faria. Ele achava que, com isso, poderia acabar com as derrotas da sua vida, que só iriam piorar. Ele se hospedou num [[hotel]] construído pelo pai do [[Sérgio Naia]], trabalhava na filial cearense do [[Banco Santos]], torcia pro Usina Ceará, e demais [[merda]]s. Nessa época, para remediar os males, resolveu se aprofundar ainda mais na questão política, para ver se se tornava gente. Contudo, o máximo que coseguiu com isso foi [[Freeza|inimigos]] [[político]]s [[Goku|poderosos]], como [[Padre Cícero]] e [[Lampião]], e mudou-se para [[Sudeste|as regiões desenvolvidas]] do país, como todo [[Forrozeiro playboy cearense|cearense]].
+
+== A vida no sudeste ==
+Aqui, aparentemente a vida de Zézin começa a mudar. Ele se torna importante no [[Vagina|partido]], e tem chances de disputar a vice-presidência. Contudo, a [[Revolta da Vacina]], a derrota da seleção na [[Copa do Mundo]], a queda da cotação do algodão na [[malásia]] e a proclamação de independência em [[Samoa]] acabou por fazê-lo trocar de partido, e ele passaria a disputar a presidência. O problema era o adversário, [[Getúlio Vargas|Getulinho]]. <s>Todos nós aprendemos quem ganhou a [[eleição]].</s> Como [[você]] deve ter dormido nessa [[História|aula de história]], quem ganhou a eleição foi [[Getúlio Vargas|Getulinho]], com uma vantagem de 150.000 [[Renan Calheiros|cabeças de gado]]([[Probabilidade|estimativas]]).
+
+== A posse do Governo provisório ==
+
+Contudo, teve uma [[putaria]] danada com a [[2ª Guerra Mundial]] e <s>as praças públicas</s> os pracinhas do [[Exército]] voltaram com ideias [[comunista]]s, e acabaram por derrubar o [[Getúlio Vargas|Pai dos Pobres]]. Para manter a ordem na [[Brasil|casa]] <s>[[Casa da Mãe Joana|da Mãe Joana]]</s>, convocou-se um governo provisório, e o escolhido foi José Linhares. Ele tomou posse quase chorando de [[emo]][[Especial:Randompage|ção]], e seu [[Hugo Chavez|discurso]] foi igualmente [[Punheta|tocante]], afirmando que chegou a hora de mudar o país. Mas ele ficou apenas 3 meses no poder, tempo insuficiente para realizar algo interessante. Por isso, este artigo acaba aqui.
+
+{{caixa de sucessão |
+título=[[Lista de presidentes do Brasil|Presidente Provisório do Brasil]] |
+anos=[[1945]] - [[1946]]|
+antes=[[Getúlio Vargas]] |
+depois=[[Eurico Gaspar Dutra]] |
+}}
+{{caixa de sucessão |
+título=Ministro do [[Supremo Tribunal Federal]]|
+anos=[[1937]] - [[1956]]|
+antes=[[Ataulfo de Paiva]] |
+depois=[[Ary Franco]] |
+}}
+
+
+{{Presidentes brasileiros}}
+{{ministros do Supremo Tribunal Federal}}
+[[Categoria:Presidentes do Brasil]]
+[[Categoria:Políticos do Ceará]]
+[[Categoria:Advogados do Brasil]]
+[[Categoria:Ministros do Supremo Tribunal Federal]]
+[[Categoria:magistrados do Brasil]]

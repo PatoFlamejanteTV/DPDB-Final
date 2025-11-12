@@ -1,0 +1,26 @@
+
+{{Infobox Série Game
+|title         = Dragão Duplo
+|image_logo    = Doubledragon customgold.png
+|caption       = Logotipo tosco
+|genre         = [[Jogos de beat 'em up|porradaria]]
+|developer     = Technōs Japan Corp.
+|publisher     = Technōs Japan Corp.
+|origin        = [[Arcade]]
+|first_release = [[Double Dragon (jogo)|Double Dragon 1]] ([[1987]])
+|last_release  = [[Double Dragon IV]] ([[2017]])
+}}
+'''Double Dragon''' é uma série de [[jogo]]s de pancadaria que fez muito sucesso antigamente entre os [[gringo]]s. No [[Brasil]], a franquia não foi tão aclamada quanto no exterior, mas também conquistou alguns fãs desocupados. 
+
+Embora haja [[mais de 8000]] jogos considerados parte de Double Dragon, quase todos eles são praticamente idênticos, mudando uma e outra coisinha aqui e ali para fazer parecer que é diferente. Canônicos mesmo, são apenas [[quatro]], mas nenhum vale a pena ser mencionado em detalhes. A série também foi expandida para além do universo videogamístico, ganhando adaptações desastrosas para [[filme]] e [[desenho animado]] que não foram produzidas no [[Japão]], seu país de origem, e sim nos [[Estados Unidos]], o que talvez justifique o fracasso.
+
+A história se passa em uma [[Nova York]] futurista toda fodida, e gira em torno dos irmãos gêmeos Billy e Jimmy Lee, lutadores marciais que detém os poderes dos dragões azul e vermelho, respectivamente. Seu objetivo é resgatar a putinha Marian, suposta namorada de Billy, que foi sequestrada pela gangue malvada Black Warriors. Ou seja, não passa de uma coleção de clichês tipicamente apresentados em grande parte dos [[beat'em up]]s.
+==Screenshoots==
+<gallery>
+Imagem:double dragon.gif|O jogo Double Dragon original para [[Arcade]].
+Imagem:images double dragon.jpg|Algum outro jogo da franquia, totalmente diferente do anterior.
+</gallery>
+{{Double Dragon}}
+{{Beatemup}}
+[[Categoria:Jogos da Technōs Japan]]
+[[Categoria:Jogos da Tradewest]]

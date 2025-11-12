@@ -1,0 +1,58 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = #008ECB
+|brasao            = Escudo do Malmö.png
+|hino              = [[Dancing Queen]]
+|nome_oficial      = Malmö Fotbollförening
+|origem            = {{SUE}}'''- [[Malmö]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          =  
+|mascote           = [[Ibrahimović]]
+|ilustre           = [[Ibrahimović|O mesmo o dito cujo]]
+|estadio           = [[Eleda Stadion]]
+|capacidade        = 24.000 cadeiras tortas
+|sede              = [[Malmö|Calmö]]
+|presidente        = [[Håkan Jeppsson]]
+|treinador         = [[Jon Dahl Tomasson|João Dá o Toba]]
+|pior              = 
+|melhor            = [[Ibrahimović]] 
+|patrocinador      = [[Ibrahimović|Ibrahimović's  Bar]]
+|material          = [[Puma|Puta]]
+|liga              = Campeonato Sueco
+|divisao           = Allsvenskan
+|títulos           = Mais de 8.000
+|ranking           = 2°
+}}
+
+'''Malmö Fotbollförening''' é uma [[Atlético Mineiro|equipe pequena]] sueca que [[Fluminense|ganhou alguns campeonatos nacionais e só]] e que sonha um dia ganhar pelo menos uma [[Liga Europa]], o que fica só no sonho mesmo.
+
+== História ==
+=== Fundação ===
+
+O time do Malmö foi fundado em 1910, e não servia pra nada além de incluir os times de aldeias do interior na Segunda Divisão. Passou vários anos na segundona.
+
+=== Liga dos Campeões de 1978-79 ===
+
+O Malmö foi protagonista da edição mais merda da história da Liga dos Campeões, a qual teve chances reais de ser campeão. Aos trancos e barrancos eliminou o [[AS Monaco]], o [[Dínamo de Kiev]], o [[Wisła Kraków]] e se na semifinal achou que enfrentaria um time bom, na verdade eliminou por placar mínimo o péssimo [[Áustria Viena]].
+
+Se na final acha que enfrentou alguém bom, se engana novamente, pois o adversário foi o [[Nottingham Forest]], um time da segunda divisão da Inglaterra. Estava tudo conspirando para o inesperado título do Malmö, que perdeu idiotamente a final.
+
+Ainda assim jogou uma final de [[Mundial Interclubes]], em 1979. Mesmo tendo perdido do [[Nottingham Forest]], o time inglês [[medo|não quis vir jogar o Mundial com um time sul-americano]] alegando cagaço da selva amazônica (lembre-se que era 1979, a América do Sul era só uma floresta selvagem), mas o tal do Malmö foi jogar no seu lugar. E, como grande [[porcaria]] que é, perdeu para o [[Club Olimpia]], o pior time do Paraguai.
+
+=== Anos 2000 ===
+
+Tirando o ano da final da Champions League, o Malmö não conseguiu grandes coisas nem mesmo na Suécia, chegando a ser [[Fluminense|rebaixado]] algumas vezes.
+
+Diz a lenda que foi o clube que revelou o [[Ibrahimović]]. Mas nem isso foi suficiente para tirar o clube da draga futebolística, fazendo com que o [[Botafogo de Futebol e Regatas|clube continue pequeno e viva eternamente do passado]].
+
+== Torcida ==
+
+Imagine o [[Leôncio (Pica-Pau)|Leônico do Pica-Pau]], agora imagine o pai, o irmão e os sobrinhos dele. Multiplique isso por 20 e você tem a totalidade da torcida do Malmö.
+
+{{Campeonato Sueco}}
+{{Liga Europa da UEFA}}
+{{Liga dos Campeões da UEFA}}
+[[Categoria:Times de futebol da Suécia|Malmo]]
+
+[[sv:Malmö FF]]

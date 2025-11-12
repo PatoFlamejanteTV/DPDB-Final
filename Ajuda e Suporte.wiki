@@ -1,0 +1,110 @@
+{{Microsoft}}
+{{wikipedianaotem}}
+<div style="position:fixed; bottom:0; right:0">[[Arquivo:Winoriginal.png|link=|alt=]]</div>
+
+{{C|Eu não preciso de ajuda, nem de suporte!|Garoto alemão doido|Ajuda e Suporte}}
+{{C|Instala o [[Linux]] porra!!!|Qualquer um|Ajuda e Suporte}}
+{{C|Eu vou banir ela.|[[Moderador malvado]] sobre Ajuda e Suporte}}
+{{C|Cadê a Ajuda? Cadê o Suporte? Cadê a chave? PEDE PRA SAIR SEU 02!!!|[[Capitão Nascimento]] sobre Ajuda e Suporte}}
+{{C|Era para ajudar e dar suporte, mas não o faz.|[[Capitão Óbvio]]|Ajuda e Suporte}}
+{{C|Já tentou desligar e ligar de novo? Viu se está na tomada?|Técnico da [[Microsoft]]|qualquer problema}}
+
+
+'''Bem-vindo ao centro de Ajuda e Suporte do Windows!'''
+
+À seguir, serão apresentadas algumas situações do dia a dia que os desenvolvedores da Microsoft te ajudarão a resolver.
+
+
+*'''Não aparece nada na tela'''
+*Solução 1: Abra as configurações de vídeo e veja se há algum conflito.
+*Solução 2: Abra o Internet Explorer e baixe o driver mais atualizado de seu vídeo. Leia cuidadosamente o contrato da Microsoft antes do download.
+
+
+*'''Não consigo conectar à internet'''
+*Solução 1: Baixe a versão mais recente do Internet Explorer e tente novamente.
+*Solução 2: A Microsoft não pôde identificar o problema, conecte-se a internet para que o Windows possa encontrar soluções on-line.
+*Solução 3: Entre no site da [[Apple]], clique na seção [[Mac]] e faça os procedimentos de compra.
+
+
+*'''Comprei um gravador de DVD e o Windows não o reconhece ou não há suporte para ele'''
+*Solução 1: Insira o CD do fabricante e execute o instalador do driver.
+*Solução 2: Ou então, insira o DVD de [[Lagoa Azul]].
+*Solução 3: Insira um disco de qualquer distribuição Linux, reinicie seu computador, siga as instruções a seguir e seja feliz.
+
+
+*'''Instalei um drive de DVD em meu computador. Quando fui inserir um disco a gaveta emperrou e não fecha mais'''
+*Solução 1: Insira o CD do fabricante e execute o instalador do driver.
+
+
+*'''Meu computador trava muito e não consigo reiniciar'''
+*solução 1: Reinicie seu computador e tente novamente.                      
+*solução 2: <s>Vai se foder! Acha mesmo que a gente liga pros seus problemas?!</s> Quebre seu computador com uma marreta. 
+
+
+*'''Aparece uma tela azul com letras brancas toda vez que tento ligar meu computador'''
+*Solução 1: A Microsoft não <s>tá nem aí para</s> pôde determinar uma solução para o seu problema.
+
+
+*'''Meu teclado não funciona'''
+*Solução 1: Pressione Ctrl+Alt+Del e aguarde até que o Windows o reconheça.
+
+
+*'''O computador não liga'''
+*Solução 1: Ligue o computador e pressione F12.
+
+
+*'''Nenhum som é produzido pelos alto-falantes'''
+*Solução 1: Vá em Iniciar>Executar. Digite sndhelp.wav, clique OK e siga as instruções do arquivo de som que será reproduzido.
+
+
+*'''O Windows vive travando'''
+*Solução 1: A Microsoft não pôde determinar uma solução para o seu problema.
+
+
+*'''O [[MSN]] não entra'''
+*Solução 1: Entre no [[MSN]] e adicione o contato de suporte Microsoft para solucionar o problema.
+
+
+*'''Não consigo excluir um arquivo'''
+*Solução 1: Verifique se o seu HD está cheio e tente excluir um ou mais arquivos.
+
+
+*'''Aparece uma mensagem na tela dizendo se eu desejo que o Windows ative meu mouse'''
+*Solução 1: Clique em "OK".
+
+
+*'''Quando eu ligo o computador aparece uma mensagem dizendo que a BIOS não consegue iniciar o Windows'''
+*Solução 1: Abra o Windows e verifique se há algum conflito de hardware.
+
+
+*'''Ao instalar o Windows Vista, a seguinte mensagem aparece: "O Windows detectou que seu computador possui 2 GB de RAM, mas é necessário 512 MB para instalar o Windows. Não é possível continuar a instalação"'''
+*Solução 1: Remova toda a sua memória RAM e tente novamente.
+
+
+*'''Não consigo imprimir um documento'''
+*Solução 1: Clique com o botão direito do mouse na tela e clique em Imprimir. Siga as etapas da cópia impressa do procedimento.
+
+
+*'''O Windows não reconhece o modem'''
+*Solução 1: Acesse o site da Microsoft e baixe o driver do seu modem.
+
+
+*'''Erro ao atualizar pelo Windows Update'''
+*Solução 1: Baixe e instale as atualizações mais recentes pelo Windows Update.
+
+
+*'''Erro ao instalar impressora'''
+*Solução 1: Conecte a impressora ao PC e insira o disco do fabricante e prossiga com a instalação.
+
+
+*'''Não consigo abrir Ajuda e Suporte'''
+*Solução 1: Clique em iniciar e procure uma solução em Ajuda e Suporte.
+
+
+*'''A internet não funciona'''
+*Solução 1: Plugue o cabo/modem da internet no PC, insira o disco do fabricante e prossiga com a instalação.
+
+
+
+{{Predefinição:Trambiques}}
+[[Categoria:Aplicativos do Windows]]

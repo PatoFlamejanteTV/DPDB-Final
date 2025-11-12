@@ -1,0 +1,69 @@
+{{Box ClubeFutebol
+|cor_clara         = lightblue
+|cor_escura        = gold
+|brasao            = Escudo do Aurora.png
+|hino              =  
+|nome_oficial      = Club A Porra
+|origem            = {{BOL}}''' - [[Cochabamba]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Estadio Félix Capriles|Estádio Gato Félix]]
+|capacidade        = 
+|sede              = [[Cochabamba]]
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      =  
+|material          = 
+|liga              = Campeonato Boliviano
+|divisao           = Primera División
+|títulos           = 
+|ranking           = 
+}}
+
+'''Club Aurora''' é um time altamente secundário da [[Bolívia]] que volta e meia está na [[Copa Sul-Americana]] e mais raramente na [[Libertadores]], mas volta e meia tá na segunda divisão da Bolívia também (sim, isso existe). É tipo o Guarani da Bolívia, mas [[azul calcinha]], um time antigo que não consegue ganhar mas se recusa a falir e tem uma torcidinha lá.
+
+==História==
+=== Fundação ===
+
+O time foi funfado em 1935 por alunos de uma escola chamada "O Puto Americano" que ensinava marcenaria e servente de pedreiro. Para colocar seu aprendizado em prática eles criaram esse time de futebol pois aquele era o esporte mais adequado para dar botinas e esses tipos de coisas. O nome "Aurora" foi escolhido para homenagear a [[Princesa Aurora]], a protagonista do famoso desenho [[A Bela Adormecida]], uma vez que o time parecia tão inofensivo quanto aquela princesa da Disney. E o primeiro escudo escolhido foi por muito tempo um dos escudos mais feios da América do Sul. O escudo era um '''"A"''' gigante e preto em '''[[Arial|Arial Bold]]'''. E a primeira dona do clube foi [[Lidia Gueiler]], que depois viria a se tornar presidente da [[Bolívia]], afinal, se conseguiu gerir um time bagunçado como o Aurora, ela estava credenciada a se tornar presidente do país.
+
+=== Primeiro título e Libertadores ===
+
+Em 1963 veio o primeiro título de expressão do Aurora, campeão do Bolivinão de 1963 após 30 anos sendo derrotado pelos times ruins de seu país. A euforia foi tanta que o Aurora até mudou de escudo, adotando esse atual, mas na época com 1 estrela já sabendo que não ganhariam tanto e não teriam o mesmo problema do escudo do Boca Juniors que precisa ficar atualizando quase todo ano. No ano seguinte, o Aurora fez sua estreia na Libertadores de 1964, torneio no qual o destaque da equipe foi o goleiro José Issa que fechou o gol e evitou uma goleada maior na derrota do Aurora de 7x0 perante o [[Cerro Porteño]] que garantiu eliminação na fase de grupos.
+
+=== Rebaixamento e retorno ===
+
+Em 1988 acontece o primeiro rebaixamento da história do Aurora, pois time grande não cai e isso não é o caso do Aurora. Como resultado desse rebaixamento, o Aurora foi punido por ser ruim demais e ficou alguns anos relegado a jogar apenas o Campeonato Provincial de Cochabamba (equivalente ao campeonato sul-mato-grossense, mas com times ainda piores que o [[Clube Esportivo Naviraiense|Naviraiense]]).
+
+Foi voltar para a primeira divisão boliviana apenas em 2002 por falta de equipes no país, então foi chamado por dó de volta à elite boliviana. Pelos próximos anos passou a frequentar mais a [[Copa Sul-Americana]] onde se especializou em nunca ir longe, como em 2004 quando foi eliminado logo no primeiro jogo depois de perder de 5x2 para o [[Club Bolívar|Bolívar]].
+
+=== Segundo título e participações nos torneios sul-americanos ===
+
+Em 2008 conquista seu segundo título de expressão, o [[Campeonato Boliviano|Clausura 2008]] também conhecido como "Taça Guanabara Símon Bolívar". Na Bolívia basta ganhar 1 turno de campeonato para garantir vaga numa Libertadores, e assim o Aurora foi jogar a Libertadores de 2009 onde caiu num grupo com [[Boyacá Chicó]], [[Universidad de Chile]] e [[Grêmio]]. O Aurora foi completamente humilhado e perdeu todos os seis jogos sem oferecer a menor dificuldade até para esse tal de Boyacá Chicó e isso forçou a [[Conmebol]] a modificar o formato do torneio continental criando a "fase pré-Libertadores" para colocar times horríveis feito o Aurora e assim não manchar a fase de grupos com excesso de ruindade.
+
+Outra participação memorável do Aurora foi na [[Copa Sul-Americana de 2011]] onde conseguiu eliminar o [[Club Nacional|Nacional do Paraguai]] e isso já é muito. Depois foram enfrentar o [[Vasco da Gama]] e venceram o primeiro jogo em casa por 3x1. Mas aí o Aurora manteve a velha tradição boliviana de "vencer um brasileiro em casa e depois ser completamente trucidado no Brasil"... pois é, perdeu de 8x3 em São Jnauário. E depois também jogou a [[Copa Sul-Americana de 2012]], mas sequer passou daquela primeira fase dos times café-com-leite, perdeu os dois jogos para um tal de [[Deportivo Quito]].
+
+=== Segundo rebaixamento ===
+
+[[Arquivo:Suco-Aurora.jpg|thumb|Um time de Aurora de boa qualidade.]]
+
+Em 2014 caiu de novo, e olha que a federação boliviana deu todas as chances do Aurora não cair, eles criaram um play-off contra o vice da segundona, mas tudo o que o Aurora conseguiu foram 3 empates contra o [[Club Petrolero|Petrolero]] e derrota nos pênaltis. Mesmo assim ganhou por acidente vaga na Sul-Americana do ano seguinte não se sabe como, algum boliviano errou lá na hora de inscrever os times. Mas como estava na série B da Bolívia, esse Aurora perdeu de 7x2 para o [[Sportivo Luqueño]].
+
+=== Retorno não-tão triunfal ===
+
+Em algum ano que não sabemos dizer muito bem, o Aurora estava lá jogando a primeira divisão boliviana novamente. Ninguém nem percebeu que ele voltou a nem que ele estava no torneio. Mas mesmo o [[The Strongest]] tendo sido campeão boliviano de 2023 - como sempre - o Aurora recebeu uma colher de chá para jogar a fase café-com-leite contra o [[Foot Ball Club Melgar|Melgar do peru]].
+
+== Títulos ==
+
+* '''[[Campeonato Boliviano|Bolivianão]]''' - 2 vezes (1963, 2008-C)
+* '''Não ser completamente humilhado numa competição internacional''' - 1 vez (Copa Sul-Americana de 2012 com eliminação sem goleada)
+
+{{Campeonato Boliviano}}
+{{Copa Libertadores}}
+
+[[Categoria:Times de futebol da Bolívia|Aurora]]

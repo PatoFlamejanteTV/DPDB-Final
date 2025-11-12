@@ -1,0 +1,75 @@
+{{Matemática}}
+
+A '''subtração''' é uma operação matemática onde dois [[número]]s fazem uma suruba louca, um cortando e diminuindo o outro por livre e espontânea vontade ou porque a professora pediu, só existe treta. Diferente da multiplicação e da adição, a ordem dos fatores altera SIM o resultado, fazendo você se confundir, ir mal na prova, repetir de ano e ir trabalhar no [[Mc Donalds]]. A subtração (também conhecida como continha de menos) é a menos lembrada das operações, já que é a segunda a ser aprendida, e ninguém lembra de personagens secundários.
+
+== Propriedades ==
+[[Arquivo:ExdeSubtração.png|thumb|200px|right|Um bom exemplo de subtração]]
+*'''Comutatividade:''' Como já dito, a ordem dos números altera o resultado, sendo que 3–3=0 e 3–3=0 (ué?), ou 2–5=(-3) e 5–2=3 (agora sim!).
+*'''Associatividade:''' A mesma bosta que o de cima, só que com parenteses e equações, cruz credo!
+*'''Distributividade:''' <s>Hoje eu não vou dar, vou distribuir!</s> É sobre a distribuição de números em uma equação. Exemplos: (x–y) = x+(-y) / c(u+a) = cu+ca.
+
+== Sinal ==
+O famoso sinal (–) , mais conhecido como di menus, hífen ou tracinho é o sinal da subtração. Aí vai uma subtração com o sinal de (–) bem basal e simples de exemplo:
+
+ [x(j^2–4)-y(j^2–4)]–1
+
+Agora uma bem complicada:
+
+ 2–1
+
+== Como subtrair ==
+Subtrair é muito fácil quando se tem um instinto assassino de nascença. [[Olavo de Carvalho|Você veja]]: Você precisa fazer sua lição de matemática mas tem problemas na subtração. A conta é 10–5÷2, você olha para seus 10 amigos da sala e tira uma faca da mochila, esfaqueia 5 e divide os 5 esfaqueados em 2, dando o resultado de 2,5 corpos pra cada lado, que você vai dar de presente para [[seu pai]] e [[sua mãe]]. Mas como esse método pode o levar a aparecer no [[Cidade Alerta]] e ir preso, temos um mais fácil na explicação abaixo. Mas, para tudo, a divisão não é feita antes da subtração? Seu burro! Vá arrumar essa bagaça e jogue esses corpos no rio!
+
+Já que a explicação está mais fácil, a conta será mais difícil: 170568–15642. Vamos começar: primeiro, arrume sua conta assim:
+
+  170568
+ – 15642
+
+E não assim:
+
+  170.586
+ 15.642,0 –
+
+Agora, assim como na [[adição]], diminua unidade por unidade, dezena por dezena, centena por centena e uma caralhada assim diante. O resultado é 154944. Caso o seu deu 2, parabéns! Você tem [[autismo]]!
+
+== Problemas de subtração ==
+Além dos problemas que você tem na sua vida (vestir rosa choque ou azul-bebê), você também tem os problemas matemáticos. Vamos ver alguns problemas de subtração:
+
+'''Problema 1'''
+
+<poem>
+Josefino comprou 10 chocolates no mercadinho para dividir com os colegas.
+Joãozinho roubou 8 chocolates do Josefino e saiu correndo.
+Enquanto Josefino corria para pegar Joãozinho, 2 de seus chocolates caíram.
+Com quantos chocolates Josefino ficou no final?
+</poem>
+
+''Resposta:''
+
+A resposta claramente é: 2 chocolates, já que Joãozinho atirou em Josefino enquanto ele corria para pegá-lo e levou 8 dos chocolates. Josefino, se arrastando de dor, pegou os 2 chocolates que deixou cair para poder se [[Pai de Família|deliciar]] antes de desmaiar e ir parar na UTI.
+
+'''Problema 2'''
+
+<poem>
+O médico de Josefino estava de plantão e tinha 5 marmitas de arroz, feijão, carne e espinafre para comer nos dias seguintes.
+Quando os pais de Joãozinho vieram bater em Josefino pelo mesmo ter influenciado Joãozinho para o crime, eles deram um encontrão no médico, e 1 de suas marmitas caiu.
+Com quantas marmitas o médico ficou?
+</poem>
+
+''Resposta:''
+
+A resposta é: 10 marmitas, já que o médico escravizou os pais de Joãozinho por 2 dias e fez eles o prepararem mais 6 marmitas (para compensar a que caiu e mais 5).
+
+'''Problema 3'''
+
+<poem>
+O médico tinha 200 reais no bolso.
+O pai de Joãozinho, querendo escapar da casa, roubou a chave do médico e sem querer agarrou 56 reais junto.
+Com quantos reais o médico ficou?
+</poem>
+
+''Resposta:''
+
+Não, dessa vez ninguém foi baleado ou escravizado, o médico ficou preso na casa e ficou com 144 reais mesmo. Ele pode ter morrido de inanição depois das marmitas acabarem, mas isso não vem ao caso.
+
+{{Aritmética}}

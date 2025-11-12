@@ -1,0 +1,56 @@
+{{Box ClubeFutebol
+|cor_clara         = red
+|cor_escura        = black
+|brasao            = Escudo do Caracas.png
+|hino              = Caraca, Muleke!
+|nome_oficial      = Caracol Fútbol Club
+|origem            = {{VEN}}''' - [[Caracas]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = Estádio Sucio
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      =  
+|material          = 
+|liga              = Campeonato Venezuelano
+|divisao           = Primera División
+|títulos           = 
+|ranking           = 
+}}
+
+'''Caracas Fútbol Club''' é o mais tradicional e campeão clube venezuelano, embora isso signifique absolutamente nada porque até minha mãe jogando ao lado da minha avó, sozinhas, seriam campeãs daquele campeonato. Comemora ser o time venezuelano que mais passou da primeira fase da Libertadores (umas duas vezes), um feito que é comemorado na Venezuela com o peso de um título.
+
+== História ==
+=== Fundação ===
+
+O time foi fundado em 1967, ainda em nível totalmente amador, só de um grupo de venezuelanos desocupados e entediados que decidiram jogas umas partidas sem qualquer compromisso nos campinhos baldios da capital Caracas. O problema é que os demais times venezuelanos eram tão terríveis, que mesmo sendo completamente amador, o Caracas foi subindo de divisão, até ganhar a segunda divisão em 1984.
+
+=== Sucesso na Primeira Divisão ===
+
+A partir de meadas da década de 80, o Caracas passou a dominar o futebol venezuelano, mesmo com um time formado apenas por cidadãos comuns que tinham outro trabalho e se reuniam nos finais de tarde de domingo para jogar futebol e quebrar umas canelas. O Caracas FC é o genuíno representante da ruindade do futebol venezuelano, pois se esse time deles que é pior que o [[XV de Piracicaba]] é o melhor do país, significa que os venezuelanos ainda estão bem atrasados mesmo.
+
+=== Libertadores de 2009 ===
+
+Em 2009 o Caracas foi responsável pela melhor campanha imaginável para um time venezuelano. Terminou em primeiro lugar no grupo, um feito inédito e jamais imaginado nem pelo torcedor mais otimista.
+
+Tudo começou no sorteio das chaves, quando a Conmebol realizou o sorteio dos grupos e colocou o time do Caracas no pote "café-com-leite", de maneira que este foi sorteado para o grupo moleza com os [[Club Deportivo Guadalajara|Reservas dos Reservas do sub-17 do Chivas]], [[Corporación Deportiva Everton de Viña del Mar|Everton que Ninguém Conhece]] e [[Club Atlético Lanús|L'ânus]].
+
+A colocação rendeu a vantagem do Caracas jogar contra o [[Club Deportivo Cuenca|Deportivo Cueca]] nas oitavas-de-final, um time que sequer tinha uniforme, e jogava só de cuecas, de maneira que até o Caracas conseguiu os golear.
+
+Nas quartas-de-final enfrentou o [[Grêmio Foot-Ball Porto Alegrense|Grêmio]], com quem empatou os dois jogos, mas foi eliminado mesmo assim porque time da Venezuela numa semi-final aí seria estranho demais.
+
+== Títulos ==
+
+* '''Avançar da Primeira Fase da Libertadores''': 2 vezes (2009 e algum outro ano)
+
+{{Campeonato Venezuelano}}
+{{Copa Libertadores}}
+
+[[Categoria:Times de futebol da Venezuela]]

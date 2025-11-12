@@ -1,0 +1,62 @@
+{{Jogos Antigos}}
+{{game}}
+
+{{Infobox Game
+|title     = {{PAGENAME}}
+|image     = SHO.jpg
+|caption   = A moderna volta!
+|developer = [[Sega|CEEEGAAA!]]
+|publisher = [[Yu Suzuki|Um japonês véio]]
+|released  = [[1987]]
+|genre     = {{RCG}}
+|rating    = 0%
+|platform  = [[Arcade]], [[Mega Drive|Merda Drive]], [[Alex Kidd|Porrada-Boy]] [[Game Boy Advance|Adulterado]], [[Virtual Console]] e mais alguns PCs
+|ages      = Livre para quem não é tetraplégico
+}}
+
+{{vqd|Hang-On II?}}
+{{c|Tem tanta coisa plágiada de Out Run aqui...|Qualquer um|{{PAGENAME}}}}
+
+'''Super Hang-On''' foi a sequência de [[Hang-On]] nos [[Arcades]]. Ambos os dois fizeram sucesso, porém, Super Hang-On ficou mais popular. Feito em [[1987]], pela [[Sega|CEEEEEEEEEEEEEGAAAAAAAAAAAAAAA!!!]]
+
+==O jogo==
+
+O jogo contém dois modos: Arcade e Original. O Arcade é similar a Hang-On, no qual o jogador deve escolher 4 cantos do mundo para competir, com várias pistas (geralmentes infinitas se deixar levar pelo game). O primeiro nível é a [[África]], o segundo e a [[Ásia]], o terceiro é o continente americano (ambos os lados) e por fim, a [[Europa]]. Você pode escolher quatro músicas (Winning Run, Sprinter, Hard Road e Outride a Crisis), coisa plágiada de [[Out Run]].
+
+===Modo Original===
+
+Consiste em uma espécie de [[Show Business]] do game. Só é encontrado nos portes (menos no de PBA). O modo permite você a turbinar a sua <s>[[Alex Kidd|Sukopako]]</s> motocicleta na maior moto foderosa do mundo. Você também deve contratar mecânicos para checar a sua moto. Aqui, o método de continuação é o famoso [[Password]], enfim, do tamanho do primeiro modelo do [[Sega CD|Merda-CD]].
+
+===Referências===
+
+* Uma moto em [[Power Drift]] é a de Hang-On!;
+* Em [[Ayrton Senna's Super Monaco GP II|Super Monaco GP II]], tem um código no qual da pra correr com a moto de Super Hang-On;
+* Em [[Daytona USA]], tem uma pequena versão da música Sprinter, dando a inicial SHO na tela das melhores pontualções;
+* Em [[Sonic Riders]], tem uma Gear chamada Super Hang-On, no qual toca Outride a Crisis;
+* Em [[Sonic Riders: Zero Gravity]], Hang-On é disponível por 6.000 anéis para jogar, incluíndo a Gear, que toca Outride a Crisis;
+* Em [[Sonic & Sega All-Stars Racing]], um dos desafios chama-se Super Hang-On. Para ganhar, basta ficar na primeira posição durante uma corrida toda (em todas as voltas, incluíndo a primeira).
+
+[[Arquivo:SuperHang-OnMeuRecorde.png|left|thumb|Ninguém será capaz de bater esse recorde!]]
+
+==Endings==
+
+Outra coisa importada de Out Run. Os endings podem váriar, dependendo de cada pista. O redator dessa joça tirou uns screenshots dos Endings logo abaixo. O melhor final é na Europa. Na versão de [[Arcade]], aparece o piloto de barba e fumando. Na versão de [[Mega Drive|Merda Drive]], o piloto é uma mulher (no mesmo local). Sem contar, que a mulher da premiação beija ela (menos na pista da Europa)! E o velhinho só fica lá imitando o [[Alex Kidd]]...
+
+==Galeria dos Endings==
+
+<gallery>
+Imagem:SHO1.png|O segundo Ending, com uma querendo beijar a outra no prêmio da Ásia.
+Imagem:SHO2.png|O terceiro Ending, com o velhinho do Jankenpô, no prêmio da América.
+Imagem:SHO3.png|Agora que a pilota se revelou, ela não quer mais beijar! Mas o velhinho do Janken tá assanhado!
+</gallery>
+
+{{sega}}
+{{Game Racing}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Super-Coisas]]
+[[Categoria:Jogos lançados em 1987]]

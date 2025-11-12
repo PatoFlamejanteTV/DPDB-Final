@@ -1,0 +1,48 @@
+{{game}}
+
+{{vqd|Double Drible no Mundo do Contra}}
+{{c|Out of Bound!|Juiz do game}}
+{{c|Play Ball!|Juiz do game}}
+
+'''Great Basketball''' foi um joguinho de [[basquete]] feito para o [[Master System]]. Foi feito em [[1987]], pela [[Sega|CEEEEEEEEEEEGAAAAAAAAAAA!!!]]
+
+{{Infobox Game|title = {{PAGENAME}}
+|image               = GreatBasket.jpg
+|caption             = Cesta!
+|developer           = [[Sega|CEEEGAAA!]]
+|released            = [[1987]]
+|genre               = {{SPT}}
+|rating              = 0%
+|platform            = [[Master System]]
+|ages                = Livre
+}}
+
+== O jogo ==
+
+Great Basketball permite o jogador fazer os mais comuns passes: Jogar, atirar, passar e [[Correr pra Caralho|correr]]. Infelizmente, os times não tem um uniforme de cada cor: O jogador 1 é vermelho e o jogador 2 (ou a [[CPU]]) é azul. A cada cesta, são dados 1 ou 2 pontos. Se você ganhar, você irá fazer o Winning Shot, aonde 5 jogadores tentam fazer mais 10 pontos (ou podem ser menos se errar). A cada vitória do time do jogador, o jogador ganha pontos para aumentar as habilidades do time em nas 4 categorias dos movimentos. Os pontos ganhos são a diferença de pontos de um placar do outro.
+
+== Times ==
+
+Infelizmente, o [[Brasil]] não está entre eles:
+
+* [[Estados Unidos da América|Estados Desunidos]]
+* [[Canadá]] <s>a bunda</s>
+* [[União Soviética]] ([[Reversal Russa|Nela, o jogador quica no chão '''''VOCÊ!''''']])
+* [[Japão]]
+* [[Cuba]] o cubo
+* [[Thecoslováquia]]
+* [[Itália]] <s>Mamma Mia!</s>
+* [[Hungria]]
+
+Você irá escutar trechos dos hinos de cada time ao escolher ele.
+
+== Ver também ==
+
+* [[Basquete]]
+* [[Bola]]
+* [[Negro]]
+
+
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Master System]]

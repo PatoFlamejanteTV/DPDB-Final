@@ -1,0 +1,72 @@
+{{game}}
+
+{{Infobox Game
+|title     = [[Salamandra]]: [[Life Force|A força da Vida]]!
+|image     = SalamanderMSX.jpg
+|caption   = {{c|Poison of Snake!}}
+|developer = [[Konami|Cunami]]
+|publisher = [[Konami|Cunami]]
+|released  = [[1986]]
+|genre     = {{SHT}}
+|rating    = 0%
+|platform  = [[Arcade|Aukeido]] e mais algumas por aí.
+|ages      = Livre
+}}
+
+{{vqd|Life Force}}
+{{vqd|Gradius 2?}}
+{{c|Destroy them All!|Narrador no início do game}}
+{{c|Pick it up for...|Narrador|você pegar um Power-up}}
+{{c|An Intruder has Penetrated our Force Field|Narrador|chefes}}
+{{c|Kidney Stones cannot be Destroyed!|Narrador da versão nipônica de Life Force}}
+{{c|[[Risada Diabólica|MWAHAHAHAHAHAHA!]]|Zelos|Vic Viper}}
+{{c|Try Again!|Narrador|Continue}}
+
+[[Arquivo:Vic Viper 1986.gif]] '''Salamander''' ('''Saramanda''' pros [[Nippon]]eses ou '''Life Force''' como é conhecido mundialmente) foi uma espécie de spin-off do game [[Gradius|Nemesis]]. Feito em [[1986]], pela [[Konami|Konmai]].
+
+[[Arquivo:SalamanderLogo.png|center|Salamander]]
+
+==História==
+
+Após James Burton com a sua navinha de merda chamada '''Vic Viper''' ter salvado o pessoal inocente (os bacterions) de Gradius, agora ele tem uma nova missão: Derrotar uma espécie olho gigante que é capaz de enxergar a mais de 500 km de distância. Só cabe a Vic Viper e uma nova nave chamada Lord Britsh derrotarem o "zóião"!
+
+==O game==
+
+[[Arquivo:Lifeforce 0003.jpg|left|thumb|Gelo? Que eu saiba, é fogo!]]
+[[Arquivo:Saramanda 0007.jpg|right|thumb|{{c|Destroy the Core!}}]]
+
+Diferente do [[Gradius 1|Nemesis original]] no qual tinha que ficar pegando '''Pod'''s e outras frescuras, agora você pode pegar várias partes de naves velhas pra deixar a Vic ou a L. Brit pra deixar elas mais foderosas!
+
+* '''Gosminha Verde''' - Option!;
+* '''Arma com pontas mais largas''' - Mísseis que vão por cima e baixo, chamado 2-Way;
+* '''Arma com LED''' - {{c|Speed Up!}}
+* '''Arma de canhão único''' - Laser do tipo [[Shoop da Whoop]];
+* '''Arma sem ponta''' - Ripple Laser, para quem treina boquete e Shoop da Whoop ao mesmo tempo;
+* '''Coisa espinhenta''' - Escudo de merda do Gradius 1, menos resistente a pancadas ([[AAAAA!|5]])
+
+==Fases==
+
+* '''Bionic Germ''': Já começando num jeitinho meio [[R-Type]];
+* '''Meteorite Space''': Agora é na vertical a fase, só toma cuidado com os [[aerolito]]s invencíveis;
+* '''Burning Chaos''': Foi o que deu origem a fase 1 do [[Gradius 2]] do [[NES]], porém, ainda não tinha os tais "sois";
+* '''Volcano''': Novamente na vertical, porém, agora a fase é a quase a mesma do Gradius 1!;
+* '''Asteroid Hell''': É a fase 2 na horizontal;
+* '''Fortress Zone''': Pronto pra o chefão? Pois é, agora é só ter velocidade, pois você deverá voar numa velocidade de correr pra caralho!
+
+[[Arquivo:Saramanda 0008.png|right|thumb|O chefe da primeira fase]]
+
+{{break}}
+{{Gradius}}
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para TurboGrafx-16]]
+[[Categoria:Jogos para MSX]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos para PlayStation Portable]]
+[[Categoria:Jogos para Sega Saturn]]
+[[Categoria:Jogos de shoot 'em up]]
+[[Categoria:Jogos lançados em 1986]]
+[[Categoria:Salamandras]]

@@ -1,0 +1,49 @@
+{{taxocaixa
+| nome           = Anencefalos
+| cor            = #FFA500
+| imagem         = Octorok.png
+| imagem_legenda = Diferentes espécies de cefalópodes
+| reino          = [[Animalia]]
+| filo           = [[Mollusca|Lula-Moluscos]]
+| classe         = [[Cephalopoda|Celofane]]
+}}
+
+'''Cephalopoda''' ou '''cefalópodes''' é uma classe de animais moluscos que se caracterizam pela ausência de esqueleto, concha, dente, exoesqueleto, casca ou qualquer artifício que lhes confira formato, de modo que mais parecem uma sacola plástica vagando na correnteza dos oceanos, sendo estes, portanto, todos tipos de polvos, lulas, sépias e parentes próximos.
+
+== Evolução ==
+
+A origem dos cefalópodes é incerta, mas pode ser perfeitamente determinada por qualquer indivíduo da face da Terra com base na sua fé pessoal. Mas como há muitos sistemas de crenças, há também muitas explicações sobre a criação e a finalidade dos cefalópodes. Por exemplo, para os cristãos quem criou os cefalópodes foi Deus (aprovado por [[Jesus]]). Ou se for um membro das crenças totalmente opostas do [[islão]], então, sua crença é que Allah criou os cefalópodes (aprovado por [[Maomé]]). 
+
+Se você está procurando uma explicação judaica, então que seja Yehovah o criador dos cefalópodes (aprovado por [[Senor Abravanel]]). Não satisfeito ainda, os budistas acreditam que Buda criou os cefalópodes (aprovado por Dalai Lama). Enquanto os ateus concluem que natureza criou os cefalópodes do nada e ninguém tinha qualquer escolha sobre isto. E por último e mais desimportante, os niilistas acham que nada criou os cefalópodes que são na verdade uma ilusão.
+
+== Anatomia ==
+
+Os cefalópodes são uma das criaturas mais perigosas do mar de toda a criação, grandes rivais das águas-vivas com quem disputam ser os animais mais perigosos dos oceanos. [[Kraken]], [[Monstro do Lago Ness]], Lula-colossal, o presidente Lula ou qualquer fera estupradora de hentais, poucos se perguntam, mas todos esses monstros são cefalópodes sanguinários. Altamente venenosos, estes animais normalmente carregam veneno suficiente para matar dez elefantes adultos em 30 segundos. E para os casos de enfrentar algum oponente à altura como [[Goku]], os cefalópodes esguicham um jato de tinta de caneta BIC preta manchando os paletós alheios, assim conseguindo fugir e se camuflar a tempo no [[coral]] mais próximo.
+
+É verdade que todos cefalópodes não possuem cérebro ou sistema nervoso, o que explica porque eles são os seres vivos mais evoluídos da Terra, pois são incapazes de sentir dor, emoções ou demais coisas triviais como raciocínio, podendo assim desempenhar ao máximo sua capacidade de telepatia e análises de previsões do futuro, especialmente resultados de partidas de futebol da Copa do Mundo de 2010.
+
+== Hábitos ==
+
+[[Arquivo:Ataque de um cefalópode.jpg|thumb|260px|Flagrante do momento exato do ataque de um cefalópode maníaco sobre uma indefesa humana japonesa, as suas prediletas.]]
+
+Um encontro extremamente infeliz com um cefalópode pode ser reconhecido pela dor agonizante nas pernas e pés atingidos por estes seres malignos, uma dor capaz de fazer com que o coração exploda para fora da cavidade torácica ou o cérebro explodir para fora do crânio, ou, se a vítima for sortuda, sair apenas com faíscas de seu reto. Esta criatura é única em sua reação ao ser pisoteada, imediatamente se tornando muito irritada e agressiva. Seu lema é: "Eu te desafio a pisar em mim!"
+
+== Taxonomia ==
+
+{{Clado
+|clado1     = Ordens
+|preposição = à
+|clado2     = classe cephalopoda
+|texto      = 
+|lista      = 
+* '''[[Nautilida]]''' - náutilos
+* '''[[Sepiida]]''' - sépias
+* '''[[Sepiolida]]''' - sépias-anãs
+* '''[[Spirulida]]''' - lula-pequena-de-chifre-posterior
+* '''[[Teuthida]]''' - lulas
+* '''[[Octopoda]]''' - polvos
+* '''[[Vampyromorphida]]''' - lula-vampira-do-inferno
+}}
+
+[[Categoria:Mollusca]]
+[[Categoria:Cephalopoda|*]]

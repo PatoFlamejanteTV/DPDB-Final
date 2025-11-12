@@ -1,0 +1,68 @@
+{{encheosaco}}
+
+{{Taxocaixa_inicio | cor = green | nome = Síndico}}
+{{Taxocaixa separador inicio | cor = green }}
+{{Taxocaixa_reino | taxon = [[Animal]]ia }}
+{{Taxocaixa_filo | taxon = Chordata }}
+{{Taxocaixa_classe | taxon = Muxiba }}
+{{Taxocaixa_ordem | taxon = Enriqueçae }}
+{{Taxocaixa_familia | taxon = Filhodaputae }}
+{{Taxocaixa_genero | taxon = Sindicus}}
+{{Taxocaixa_especie | taxon = '''''Sindicus principalis''''' }}
+{{Taxocaixa_separador_fim}}
+|}
+
+{{cgoogle|[[Cínico]]}}
+
+{{c|Vagabundo, vagaundo, vagabundo!!!!|[[Kassab]] sobre síndico}}
+
+{{c|Penso em cobrar mais caro o aluguel, logo existo|[[Descartes]] querendo ser síndico}}
+
+'''Síndico''' é a criatura encontrada na maioria dos edifícios do [[Brasil]].
+
+==Inutilidade biológica e social==
+
+[[Arquivo:Barrigamsn.JPG|thumb|left|300px|Típico síndico cobrando aluguéis pelo [[MSN]].]] 
+
+[[Arquivo:Leoncio1.gif|thumb|right|300px|[[mentira|Um bom relacionamento entre o morador e o síndico]] da Pensão do Leôncio.]]
+
+Só quem mora em apartamento sabe o que é o exemplar da espécie ''Sindicus principalis''. Esta espécie convive em uma relação [[biologia|biologicamente]], [[dinheiro|financeiramente]], [[sociedade|socialmente]] e [[etica]]mente não-harmoniosa  com as espécies ''Moradorus barulhentus'' e ''Moradorus inadimplentis''. Produz ruídos [[onomatopéia|onomatopéios]] através de seu extinto de soberba e avareza que podem ser considerados da fala humana (o síndico é uma espécie parente do [[papagaio]] e da maritaca):
+
+{{c|Vou lhe aplicar uma multa se repetir o problema.}}
+
+{{c|Vou lhe aplicar uma multa...}}
+
+{{c|Vou lhe aplicar...}} 
+
+{{c|Precisamos aumentar o aluguel por causa da reforma.}}
+
+{{c|Precisamos aumentar o aluguel por causa...}}
+
+{{c|...aumentar o aluguel...}}
+
+{{c|Precisamos...}}
+
+{{c|É proibido...}}
+
+etc...
+
+==Síndicos Famosos==
+
+*[[Leôncio (Pica-Pau)|Leôncio]] e [[Meany Ranheta]], ambos da turma do [[Pica-pau]]
+*[[Seu Barriga]], na vila do [[Chaves]]
+
+==Ver também==
+
+*[[Porteiro]]
+*[[Zelador]]
+*[[Edifício]]
+*[[Condomínio]]
+*[[Jambalaya]]
+*[[Senhor Barriga]]
+*[[Leôncio]]
+
+{{odiado}}
+{{Piores seres}}
+{{irritante}}
+
+[[Categoria:Coisas irritantes do cotidiano]]

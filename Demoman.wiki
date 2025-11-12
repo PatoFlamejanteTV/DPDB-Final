@@ -1,0 +1,103 @@
+{{mercenário}}
+{{explosivo}}
+{| cellpadding="5" style="clear:right; float:right; width:18.5em; background-color:ghostwhite; border:2px solid lightgray; font-size: 95% padding:0.4em; border-collapse: collapse;"
+|- 
+! colspan=2 style="font-size:150%; background:ghostwhite;"| Demoman
+|-
+| align="center" colspan="2" style="background-color:ghostwhite;" | [[Arquivo:Demoman.jpg|150px]]
+|-
+| colspan="2" style="text-align: center; font-size:90%; background-color:ghostwhite" | '''Demoman após explodir suas pernas em um sticky-jumo não tão bem sucedido'''''
+|-
+|- style="vertical-align: top; font-size: 90%; border:2px solid lightgray;" 
+|'''Nome'''
+|style="padding-right: 1em;" | '''Tavish Finnegan DeGroot'''
+|- style="vertical-align: top; font-size: 90%; border:2px solid lightgray;"
+|'''Origem'''
+|style="padding-right: 1em;" | {{SCO}}
+|- style="vertical-align: top; font-size: 90%; border:2px solid lightgray;"
+|'''Onde trabalha'''
+|style="padding-right: 1em;" | '''[[RED]]/[[BLU]]'''
+|- style="vertical-align: top;"
+| colspan="2" style="text-align: center;background-color:lightgray; color:black; font-size: 90%;" | '''Técnico'''
+|- style="vertical-align: top; font-size: 90%; border:2px solid lightgray;"
+|'''Quantidade de vida'''
+|style="padding-right: 1em; padding-top: 1em" | '''[[Arquivo:Icon 66 percent.png|20px]] razoável'''
+|- style="vertical-align: top; font-size: 90%; border:2px solid lightgray;"
+|'''Oque faz no time'''
+|style="padding-right: 1em;" | '''Geralmente rusham contra inimigos com seu lendário lança granadas, errando todos os tiros no processo e acabar se matando por causa de alguma pipe sua ou pelas suas próprias stickies'''
+|- style="vertical-align: top; font-size: 90%; border:2px solid lightgray;"
+|'''Oque deveria fazer no time'''
+|style="padding-right: 1em; padding-top: 1.3em" | '''Ser uma das classes mais importantes pro time, com suas stickies podendo armar traps e pegar o time inimigo de surpresa, area denial, pressionar o time inimigo e, com seu lança granadas, acertar múltiplos tiros em aglomerações, já que um acerto direto causa -100 de dano! Com sua alta vida ser capaz de suportar mais dano que a maioria das classes e, com sua velocidade superior à do soldier, poder fugir mais facilmente. Além de sua variante, o Demoknight, podendo realizar pushes poderosos sozinho, matando um inimigo e logo partindo para o próximo'''
+|- style="vertical-align: top;"
+| colspan="2" style="text-align: center;background-color:lightgray; color:black; font-size: 90%;" | '''Miscelâneo'''
+|- style="vertical-align: top; font-size: 90%; border:2px solid lightgray;"
+|'''Arma preferida'''
+|style="padding-right: 1em; padding-top: 1em;" | '''''Lança-Granadas'''''
+|- style="vertical-align: top; font-size: 90%; border:2px solid lightgray;"
+|'''Chapéu preferido'''
+|style="padding-right: 1em; padding-top: 1em;" | '''kilt'''
+|- style="vertical-align: top; font-size: 90%; border:2px solid lightgray;"
+|'''Oque faz no tempo livre'''
+|style="padding-right: 1em;" | '''estragar o fígado'''
+|}
+
+{{Você quis dizer|Afro Soldier?}}
+{{Você quis dizer|Negão das bombas?}}
+{{C|Oaaa êou aOaoo êiu|Escocês estonteado}}
+{{C|Freeeedooooom!|Demoman ao início da partida.}}
+{{C|Eu tô bêbado, você não tem desculpa|Demoman após espancar alguém "acidentalmente".}}
+{{C|Oh, you're a wee little miss, you are!|Demoman sobre você.}}
+
+== Introdução ==
+'''Demoman''' é uma classe de defesa do jogo [[Team Fortress 2]], é um especialista em explosivos e tem como principal função <s>ficar embriagado</s> efetuar ataques estratégicos com seu armamento explosivo.
+
+== Sobre ==
+[[Arquivo:Sjackson.PNG|thumb|right|300px|Demoman em seu serviço temporário como dublê em [[Pulp Fiction]].]]
+Tavish (sim, este é seu nome), é um negão escocês alcoólatra degustador de sidra que é fascinado por quaisquer tipos de coisas que explodem ou que possam parecer perigosas demais para ele mesmo, <s>como consumir uma caixa inteira de whisky</s>. Demoman possui apenas um olho, pois o seu outro globo ocular fora perdido numa briga de bar com [[Mel Gibson]].
+
+Demoman perdeu seus pais adotivos aos 6 anos, pois os mesmos eram loucos fascinados pelo [[Monstro do Lago Ness]], e numa tentativa de matar a criatura, quem acabou morrendo foram eles. Com isso, Demoman foi levado para <s>o tráfico de crianças na deep web</s> uma escola em sua cidade natal, <s>Rio de Janeiro</s> [[Ullapol]], onde aperfeiçoou sua habilidade na construção e demolição de explosivos (coisas super normais para crianças manusearem). Logo, ele foi ganhando reconhecimento por sua habilidade e a notícia foi sendo transmitida pelo [[Globo News]], o que fez com que seus verdadeiros e lazarentos pais, voltassem e procurassem pelo menino prodígio.
+
+O reconhecimento foi tanto, que ele foi convidado para participar de campeonatos de lançamentos de toras e de dinamites em seu país. E é claro que o sujeito saiu vitorioso, pois ela já guardava as habilidades desde a sua corrompida infância. Depois desse mundo da fama, Demoman se mudou para os [[E.U.A.]], para poder executar seu plano: demolir o [[World Trade Center|WTC]]. Mas como havia chego depois da [[Al Qaeda]], se revoltou e resolveu executar seu segundo plano em mente: participar de um grupo de mercenários que brigam entre si por posse de terras. E para a sorte dele, esse plano, pelo menos, deu certo.
+
+== Jogabilidade ==
+Não pense que manipular um afrodescendente alcoólatra é tarefa fácil, pois você não deve agir apenas como um louco suicida que entra em meio a campo de batalha na esperança de melhorar seu frag.
+
+=== Estratégia básica ===
+*Aperte MOUSE1 para atirar sticky bombs e então use MOUSE2 para detoná-las depois.
+*Com o Stickybomb Launcher, quanto mais você segurar o botão de atirar, o mais longe seu projétil irá.
+*Exploda stickybombs sob seus pés para dar um 'sticky-jump' para alcançar enormes alturas.
+*Atire stickybombs em paredes e telhados onde são difíceis de serem localizadas.
+
+{{C|Let's do iiit!|Escocês contente}}
+
+Basicamente isso, meu querido amigo bípede.
+
+== Arsenal ==
+[[Arquivo:demoandsoldier.PNG|thumb|right|300px|Demoman demonstrando sua relação <s>amorosa</s> com Soldier.]]
+
+*'''Lança-granadas''' - A arma primária, com um cartucho giratório que arremessa, obviamente, granadas. Talvez, essa arma seja a marca do Demoman. Excelente para combates corpo-a-corpo.
+
+*'''Lança-Sticky Bombs''' - Arma secundária, arremessa pequenas bombinhas semelhantes a [[mamona|mamonas]] que grudam em qualquer superfície, até mesmo em [[AlumínioferrotungstêniomanganêsAAAAtudocoladocomchicletemastigadoquetemnofinaldonomeônio]]. Bastante utilizada para estratégias com a intenção de surpreender o inimigo, explodindo-o sem mesmo que ele veja por onde fora atingido. Outra função abençoada desta arma, é o pulo com Sticky Bombs, que permite com que o Demoman pule para os ares com a força da explosão, assim, podendo competir com o [[Soldier]].
+
+*'''Garrafa''' - É, isso mesmo, uma garrafa. Furtada do boteco do Seu Manoel, tem a função de saciar a sede e o vício de Demoman, como também serve para espancar seus oponentes. Você também pode trocar a garrafa por uma arma corpo-a-corpo mais letal, como as espadas que estão disponíveis dentro do jogo.
+
+== Veja Também ==
+*[[Soldier (Tf2)| Soldier]]
+*[[Engineer]]
+*[[Pyro (Tf2)| Pyro]]
+*[[Demolição]]
+*[[Granada]]
+
+
+== Vídeos ==
+<big>{{cor|black| Conheça o ''Demoman''}}</big>
+
+<youtube width="400" height="300">han3AfjH210</youtube>
+
+
+
+
+
+{{Team Fortress 2}}
+{{MAN}}
+[[Categoria:Personagens fictícios da Escócia]]

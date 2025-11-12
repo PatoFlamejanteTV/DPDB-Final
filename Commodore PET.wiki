@@ -1,0 +1,62 @@
+{{Velho}}
+<br>
+{{Computeiro}}
+[[Arquivo:Commodore PET 2001.jpg|miniaturadaimagem|Primeiro modelo do Commodore PET com seu teclado maluco.]]
+{{Babelfish|Commoodore de estimação}}
+{{C|Tu tem um PET?|Alguém|Pets}}
+{{C|Sim , tenho sim.|Alguém|Afirmação}}
+{{C|É um [[gato]] ou um [[cachorro]]?|Alguém|Pets}}
+{{C|Não , é um... computador.|Alguém|Resposta inisperada}}
+O '''[[Commodore]] PET''' é um [[computador]] de [[1900 e guaraná com rolha]] que [[Ninguém se importa|ninguém liga]], porque no mesmo ano um tal de [[Steve Jobs|Steve Empregos]] que no ano passado tinha lançado uma tranqueira de [[Apple I|Maçã 1]] lança uma tal de [[Apple II|Maçã 2]] que tinha gráficos coloridos e conseguia exibir algo além de texto. Também esse sujeito criou o [[Macntosh]] e recebe toda a atenção da mídia atualmente.
+
+O PET foi sucedido 3 anos depois <s>de tão ruim que era</s> pelo [[Commodore VIC-20]].
+== História ==
+Um ano antes a Commodore comprou a [[Mos Tecnologies]] e usou o processador [[Mos 6502|6502]] e o seu PC de teste , o [[KIM 1]] para fazer uma tranqueira com monitor , fita cassete e teclado escroto. Tudo isso para competir com o Apple 2 e o [[TRS 80]]. o leyaute do teclado <s>foi feito para ser o pior possível</s> é terrível mas é porque nem os caras que estavam fazendo o computador sabiam o que era um computador pra começo de conversa. e assim o PET 2001 chega ao mundo.
+Com o tempo novas versões foram lançadas , que adicionaram mais [[Memória de acesso aleatório|RAM]] , aumentaram a resolução da tela. O PET foi bem sucedido no mercado principalmente na área de educação (em escola de [[rico]] já que em escola de pobre nem hoje em dia tem aula de informática imagina na época) acabou que a Commodore perdeu esse mercado pro Apple 1 e outros computadores posteriormente. 
+
+Ele acabou sendo sucedido pelo Commodore VIC 20 e eventualmente evoluiu para a linha de computadores pra negócios da Commodore.
+== Especificações ==
+[[Arquivo:Open Commodore PET.png|miniaturadaimagem|O Computador abre que nem um capô de caminhão]]
+* Um [[CPU|processador]] MOS 6502 de 8 bits , single core rodando a 1 [[Hertz|MHZ]] (Bem , provavelmente é mais rápido que a velocidade de processamento do [[Você|Teu cérebro]]) 1 MHZ na época já era pouca , mas o 6502 tinha uma vantagem de operam tantos nos picos e vales das ondas de frequência funcionando como um processador normal de 2 MHZ. sendo um pouco mais rápido do que o [[Intel 8080]] (que rodava a 2 MHZ).
+* [[Placa de vídeo]] , <s>que placa de vídeo</s> , é só um chip veio solto na placa com capacidade de gerar texto (apenas texto) preto e branco (que depois foi trocado pra preto e verde). Nos primeiros modelos , a resolução era de 40 por 25 caracteres (que daria 320x200 pixels) , em alguns modelos posteriores isso foi trocado por 80 por 25 caracteres (o que daria 640x200 pixels)
+* [[Memória de acesso aleatório|RAM]] de 4 [[Byte|KILOBYTES]] no modelo original, isso é tão pouco que não cabe nem o código wikitexto deste artigo na ram , o pior é que o Sistema Operacional do PET consome cerca de 1 KB de ram , só sobrando 3 KB pro usuário e a ram de vídeo era compartilhada (VRAM) com a ram normal. Nos modelos futuros a ram foi expandida para 16 , 32 e até 96 KB
+* [[Disco rígido|Armazenamento]] , <s>que armazenamento</s> , NÃO HÁ ARMAZENAMENTO INTERNO. A única forma de armazenar informação no inicio era com [[Fita cassete]] . os primeiros modelos vinham com leitor de fita cassete embutida no computador , depois os mercenários tiraram para obrigar você a comprar um leitor de fita separado. Depois também fizeram um leitor de [[disquete]] que continha praticamente um outro Commodore PET dentro , já que o treco não foi projetado para rodar disquetes e os idiotas não adicionaram nenhuma porta de expansão (que nem o [[Apple 2]] , o [[IBM PC]] e os computadores modernos) para adicionar uma controladora de disquetes.
+* [[Som|Áudio]] , <s>que áudio</s> , Os primeiros modelos não tinham um chip de áudio , muito menos um auto falante interno (mas você podia plugar um externo). Depois adicionaram um auto falante interno.
+* [[Monitor de computador|Monitor]] integrado no gabinete. Originalmente era preto e branco , e depois trocaram pra preto e verde.
+* [[Teclado (informática)|Teclado]] tecnicamente em leylte QWERT , mas na prática é uma bagunça completa , principalmente no primeiro modelo.
+* [[BASIC]] e todo o [[sistema operacional]] embutido na [[BIOS]].
+
+== Modelos ==
+{| class="wikitable"
+|+ Modelos que o autor do artigo lembrou na hora de fazer ele.
+|-
+! Modelo !! RAM !! Colunas !! Leitor de fita cassete !! Monitor !! Detalhes <s>inúteis</s>
+|-
+| 2001 || 4KB || 40 || Sim || Preto e <span style="color: white">branco</span> || Primeiro modelo de todos , tem um monitor um pouco menor que os outros
+|-
+| 4016 || 16KB || 40 || Não || Preto e <span style="color: green">verde</span> || 16 KB é até bastante memória para um dispositivo que só consegue exibir texto preto e branco e em uma resolução de 320x200.
+|-
+| 4032 || 32KB || 40 || Não || Preto e <span style="color: green">verde</span> || 32KB de ram se tornou o padrão mais tarde
+|-
+| 8016 || 16KB || 80 || Não || Preto e <span style="color: green">verde</span> || Os softwares projetados para o de 80 colunas não rodam no de 40 colunas e vice - versa
+|-
+| 8032 || 32KB || 80 || Não || Preto e <span style="color: green">verde</span> || Nos modelos de 80 colunas , o sistemoa operacional usava 2KB de ram não só 1KB
+|-
+| 8096 || 96KB || 80 || Não || Preto e <span style="color: green">verde</span> || o modelo com mais memória ram de todos
+|-
+| Super PET || ? || ? || ? || ? || Ninguém sabe se esse modelo é de comer ou botar nos pé
+|}
+também a Commodore lançou um modelo do [[Commodore 64]] dentro de uma carcaça de commodore PET e chamou de Educator 64.
+== Asessórios ==
+Tem o leitor de fita cassete da própria Commodore e o leitor de disquete. também tem como plugar um auto falante esterno na porta de usuário.
+[[Arquivo:Tumbleweed.gif|1280px]]
+{{caixa de sucessão|
+título=[[Arquivo:Commodore Logo.png|link=Commodore]]<br/>[[Computador]] da [[Commodore]]|
+anos= [[1977]] - [[1980]]|
+antes=<s>[[KIM 1]]</s> Nenhum|
+depois=[[Commodore VIC20|VIC 20]]
+}}
+
+{{Consoles}}
+
+[[Categoria:Computador]]

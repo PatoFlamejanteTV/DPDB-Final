@@ -1,0 +1,30 @@
+{{explosivo}}
+{{arma}}
+{{C|Olha só galera, comprei a metralhadora do Rambo agora. Vou acabar com o time inimigo. Sou foda.|Noob do CS|M249}}
+[[Arquivo:M249.jpg|thumb|right|Conheça a Dona M249]]
+A '''M249''', também conhecida como '''Metralhadora do Rambo''' ou '''Rambão''' (apesar da metralhadora usada pelo Rambo ser a [[M60]]), é uma [[metralhadora]] de calibre 5,56 mm americana. Seu projeto é baseado na belga FN <s>[[Mimimi]]</s> Minimi.
+
+==História==
+Durante a década de 1960, durante a [[Guerra do Vietnã]], os militares dos EUA usavam a [[M60]], de calibre 7,62 mm. Naquela época, a maioria dos jovens americanos do sexo masculino só queriam saber de Rock e de fumar [[maconha]], logo não aguentavam ficar andando carregando a M60 de 12 kg, e por isso os EUA perderam a guerra. 
+
+No final dos anos 1970, os projetistas de arma dos EUA decidiram então fazer uma metralhadora mais leve e menos letal, ao ver a moleza dos novos jovens, e que ficam com dó ao atirar num coelhinho sem querer. Eles viram a metralhadora FN Minimi belga e acharam uma ótima ideia fazer uma cópia americana dela. Então adotaram a M249 no ano orwelliano de 1984 para substituir a M60 no papel de metralhadora de infantaria. Porém, nos papéis mais pesados, substituíram a M60 pela M240, cópia americana da FN MAG (conhecida como Dona MAG no Brasil).
+
+==Dados==
+*Peso: 7,5 kg (vazia), 10 kg (carregada com 200 munições)
+*Comprimento: 1.035 mm
+*Comprimento do cano: 465 mm
+*Cartucho: <s>de Nintendinho</s> 5,56×45mm NATO
+*Velocidade de saída: 915 m/s 
+*Cadência de tiro: 850 tiros por minuto
+*Alcance máximo: 3.600 m. Então cuidado hein, vai se alguém está a essa distância de você com uma dessas...
+
+==Counter-Strike==
+A M249 do Counter-Strike dá dano alto, mas o recuo é forte e tem pouca precisão, restringindo seu alcance de eficácia ao combate de médio alcance.
+
+Muitos compram ela e não sabem usar, e ainda recarrega ela (a arma que tem a recarga mais demorada do jogo) por que gastou 3 balas.
+
+{{Counter-Strike}}
+
+[[Categoria:Metralhadoras]]
+[[Categoria:Armas de fogo estadunidenses]]
+[[Categoria:Armas de fogo da Guerra Fria]]

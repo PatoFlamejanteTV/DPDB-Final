@@ -1,0 +1,110 @@
+{{matemática}}
+
+[[Arquivo:Mhascara.jpg|thumb|185px|Livro de [[Ensino Médio]] com ênfase em funções.]]
+{{C|Os relacionamentos são como funções: as mulheres são o domínio e os homens apenas a imagem.|Típica feminista encalhada|funções}}
+{{C|Lembre-se: o Y sempre depende do X.|Professor de matemática da sétima série|função}}
+{{C|Um X só vai ter um Y, mas um Y pode ter vários valores de X.|Outro professor de matemática|o fato do X ser fiel ao Y}}
+{{C|Quase tudo o que vocês aprenderem daqui para a frente será relacionado com isso, portanto, prestem atenção.|Mais um professor de matemática, fazendo uso de tortura psicológica|função trigonométrica, exponencial e logarítmica}}
+
+{{C|Acho que me fudi!|Aluno (com toda a razão)|função}}
+
+'''Função''', em [[matemática]], são muitas contas que possuem o sinal '''=''' (também conhecidas como ''equações''), onde, de um dos lados está o <s>[[Maguila]]</s> '''x''' e do outro o '''y'''. Essas contas começam a ser ensinadas na sexta série do [[Ensino Fundamental]] e atormentam o aluno até o Pós-Doutorado, atingindo principalmente e com mais força os alunos de [[engenharia]].
+
+ 
+== Conceitos básicos ==
+[[Arquivo:Formula1Física.jpg|thumb|200px|Isso é uma função ([[ou não]]).]]
+Em uma função:
+* O '''x''' sempre será a ''variável independente'' (aquela a quem você dá o valor que vier na telha);
+* O '''y''' vai ser a resposta da conta que [[você]] fez usando o '''x''';
+* O '''y''' pode ter o nome substituído por '''f(x)''' e sem aviso prévio;
+* O '''x''' sempre terá um só valor de '''y''', no entanto, a recíproca não é verdadeira (OBS: [[Bhaskara II|Bhaskaras]] podem dar dois valores, mas isso é completamente normal);
+* O ''grau de uma função'' é o expoente mais alto a que o '''x''' é elevado, na fórmula;
+* O(s) ponto(s) em que a função corta o eixo '''x''' se chama(m) ''zero(s) da função'';
+* O ponto em que a função corta o eixo '''y''' se chama ''intercepto vertical'';
+* Continua valendo a regra de não [[dividir por zero]]. Apenas em caso de extrema necessidade de fazer isso, para não ferrar com o exercício, use a notação de ''[[limite (matemática)|limites]]''. Se [[você]] não sabe o que é ou não sabe usar [[limite (matemática)|limites]], refaça toda a conta, seu [[n00b]];
+* Deixe sempre o '''y''' isolado, quem fica no meio da putaria numérica é o '''x''';
+* Existem inúmeros tipos de funções e ninguém pode garantir que você vai conseguir resolver todas. . . nem mesmo o seu computador.
+
+== Domínio, Imagem e Gráfico ==
+[[Arquivo:Prova.JPEG|thumb|300px|Calculando o domínio de uma função.]]
+[[666]]% das funções são desenhadas em ''Planos Cartesianos Ortogonais'' (vulgos ''eixos x e y''). As funções em 3D, com vetores, versores, derivadas e afins são práticas de tortura aplicadas apenas a alunos de [[engenharia]]. No eixo das abscissas (vulgo eixo x) são colocados os valores que [[você]] quer. O conjunto numérico desses números do eixo x é chamado de ''Domínio'' (como você já deveria saber, quem manda é o x). Os valores de y, que você calculou com a sua calculadora de camelô (pois você não é capaz de fazer nem ''2+2'' de cabeça) são colocados no eixo y (o eixo que fica [[pênis|''de pé'']]). O conjunto desses valores do eixo y é chamado de ''Imagem'', pois é como fica a aparência do gráfico depois que você fizer a conta (e claro, se você não calcular errado).
+
+Depois de fazer tudo isso, você puxa linhas pontilhadas do eixo x e y e, onde elas se cruzarem, você marca um ponto, que é onde as coordenadas se juntam. Depois apaga as linhas pontilhadas. Então, seu professor vai mandar você escrever o ponto e as ''coordendas'' desse ponto da seguinte forma: '''''ponto (x,y)''''' (e ai de você se trocar o x e o y de lugar). O gráfico tem sua importância pois pode ajudar (ou atrapalhar) muito a resolução de um exercício, ainda mais se a função é curva (tem voltinhas).
+
+== Sinal da função, função crescente, função par ou ímpar ==
+
+O sinal da função é o sinal (+ ou -) que o valor de y tem em um segmento do eixo x. Se o y for tão negativo quanto o seu saldo bancário, dizemos que ela é ''negativa'' até onde (no eixo x) ela chegar a zero. Faremos o mesmo se o sinal da função for tão ''positivo'' quanto o seu teste de [[Aids|HIV]]. Embora isso não sirva para absolutamente [[porra nenhuma]], o seu professor de [[matemática]] fará [[você]] aprender isso para te foder na prova.
+[[Arquivo:funcaocubica.png|thumb|180px|Vai se saber o sinal disso.]]
+O crescimento ou decrescimento de uma função está <s>sexual e</s> intimamente relacionada com o ''aumento'' do x e do y. Se, quando x aumenta, o y também aumenta, o gráfico da função será <s>ereto</s> para cima e a função será crescente. Se o y diminui quando o x aumenta, o gráfico será <s>brocha</s> para baixo e a função será decrescente.
+
+Uma função é par quando os dois lados do gráfico são iguais, ou em linguagem matemática, ''simétricos''. A função será ímpar quando a diagonal dos lados for igual, ou um lado for o contrário do outro e o outro, o contrário do um ''(simetria inversa)''. Quando a função não tem simetria, ela não é nada <s>e nem vale nada</s>.
+
+== Tipos de funções ==
+
+Existem [[mol|6,02.10²³]] tipos de funções, porém você apenas tem de aprender as <s>piores</s> mais comuns. Os alunos de [[engenharia]] tem de aprender todas. Entre elas:
+
+=== Função afim e linear ===
+
+São funções de 1° grau, ou seja, não tem expoente em [[porra nenhuma]], onde a fórmula fica:
+
+:<big>f(x) = mx + b</big>
+
+Onde: 
+
+* '''f(x)''': é a resposta;
+* '''m''': é <s>merda</s> o ''coeficiente angular'' (se quiser saber que merda é essa, leia o artigo [[Geometria Analítica]]);
+* '''b''': é o ''coeficiente linear'' (onde corta o y, e que não serve para nada);
+
+'''''Nota:Lembre-se que ''f(x)'' é o mesmo que <s>porra nenhuma</s> ''y''.'''''
+
+A diferença entre a função afim e linear é que a afim possui o <s>[[4chan|/b/]]</s> b, enquanto que a linear não tem. Os gráficos dessas funções sempre serão retas. O Domínio será <math>\mathbb{R}+</math> e o zero da função é calculado por <math> x=\frac {-b}{m} \, </math> (segundo o livro).
+
+=== Função potência ===
+[[Arquivo:Bhaskara.gif|thumb|200px|Fórmula do [[Bhaskara|Tio Bhaskara]], muito usada para se achar os zeros de funções de segundo grau.]]
+Funções onde o '''x''' está elevado a qualquer expoente que não seja 0 (zero) ou 1, elas são conhecidas por você ter de ficar calculando o [[cu|zero]] delas, mesmo que de vez em quando apareça uma raiz quadrada de número negativo (que [[Padre Quevedo|nón ecziste]]) e que os matemáticos chamam de ''[[número complexo]]''. A dificuldade de se calcular esses zeros depende do grau da função.
+
+Se o grau da função for 2 (função quadrática), nada que o [[Bhaskara|Tio Bhaskara]] não faça. Mas se o grau for 3 ou mais, então a [[merda]] tá feita, mas nada que o ''método de (tortura) Briot-Ruffini'' não resolva. 
+* Para funções de grau par: simetria par, decrescem quando x<0 e crescem quando x>0, Domínio = <math>\mathbb{R}</math>, Imagem = <math>\mathbb{R}+</math>; 
+* Para funções de grau ímpar: simetria ímpar ([[O RLY?]]), decrescem e crescem igual aos pares, Domínio e Imagem = <math>\mathbb{R}</math>;
+
+=== Função Polinomial e Racional ===
+
+Muito odiadas pelos alunos de [[engenharia]], as funções polinomial e racional são as fusões de <s>dois [[sayajins]]</s> duas (ou mais) funções potência, de forma que é trabalho (muito trabalho) a mais. Nestas funções você terá de calcular não só o [[cu|zero]], mas também mais um porre de coisas, como ''assíntotas verticais e horizontais'', ''interceptos vertical e horizontal'' e o ''domínio da função'' para não cometer o erro de [[dividir por zero]]. E [[você]] terá de fazer tudo isso apenas para fazer uma meia dúzia de riscos (fora os eixos x e y) que o seu professor chama de ''esboço do gráfico''. No entanto, o uso dessas funções é tão importante quanto nada.
+
+=== Função Trigonométrica ===
+[[Arquivo:FunçãoParábola.jpg|thumb|200px|Para sua tristeza, esta é uma função seno ([[ou não]]).]]
+Para dar um ar de terror aos alunos que reprovaram (ou ficaram de recuperação) em trigonometria <s>(estudo do trigo)</s>, as funções trigonométricas aparecem para dar uma ''carcada básica'' na turma. As funções seno, cosseno e tangente (as ''mais importantes'') e que são sempre um monte de '''''U''''''s certos e invertidos alternados e grudados, apenas servem para confundir quem tenta desenhar os gráficos. As funções trigonométricas são:
+* Seno;
+* Cosseno;
+* <s>sair pela</s> Tangente;
+* Cotangente;
+* <s>[[Zeca Pimenteira]]</s> Secante;
+* Cossecante;
+
+O uso do ''Círculo Trigonomérico'' também é obrigatório, embora seja preciso que [[você]] use o ''[[cu|seu círculo]]'' para conseguir passar (não necessariamente passar aprendendo a matéria).
+
+=== Funçao Exponencial e <s>o [[mal]] encarnado</s> Logarítmica ===
+[[Arquivo:funcaoexponencial.png|thumb|230px|Aqui uma das ''marditas'': a exponencial.]]
+Mais conhecidas por ''função da porra'', ''função corta-cabeças'',''função vai rodar de ano'' ou simplesmente por ''[[AAAAA|AAAAAAAAAAAAAAAAAAAAAAAAA!!!]]'', as funções exponencial e logarítmica são o ''top of mind'' quando o assunto é foder com turmas inteiras. A função logarítmica ainda recebe um bônus de 25% quando o assunto é reprovar turmas, perdendo apenas para as operações de [[Derivada|diferenciação]] e [[Integral|integração]], (vide [[Cálculo]]) que recebem bônus de 50%.
+
+A função exponencial é aquela em que o '''x''' não fica no número, mas no expoente (o número menorzinho que fica no canto superior direito do número grande). Aparecendo de carona, temos o famoso ''número de Euler'' (vulgarmente conhecido por '''e'''), número esse calculado por [[Leonhard Euler]] em meados de 1700 e pau com pedra, e que também é muito usado em logaritmos.
+
+Na função exponencial, o valor de '''y''' nunca será negativo, a não ser que apareça um '''-''' na frente da função. O Domínio será <math>\mathbb{R}</math>, a Imagem, <math>\mathbb{R}+</math> e o gráfico sempre aumentará, ou para cima, ou para baixo, <s>[[você]]</s> a função que decide.
+[[Arquivo:Computador vandalo.jpg|200px|thumb|left|Efeitos em um [[computador]] após o uso da calculadora do [[Windows|Ruindows]] para calcular funções logarítmicas.]]
+[[Arquivo:funcaologaritmica.png|thumb|220px|Gráfico da função logarítmica (que [[você]] jamais será capaz de desenhar).]]
+A função logarítmica, temida pelos alunos, é facilmente reconhecida, pois sempre tem um ''log'' escrito na função. É muito temida pelo fato de ninguém, com a exceção de poucas pessoas, (como [[Albert Einstein|Einstein]], [[Gauss]], [[Stephen Hawking|Hawking]], [[Isaac Newton|Newton]], [[Bhaskara]], entre outros) entenderem-na. Segundo matemáticos, a função logarítmica é inversa à função exponencial, mas qualquer um que tenha trabalhado com elas sabe que um ''elevado na -1'' não faz grande coisa.
+
+O gráfico desta função é igual ao da exponencial, só que com a linha deitada, o Domínio é <math>\mathbb{R}+</math> e a Imagem é <math>\mathbb{R}</math>. Para que se possa calcular uma função logarítmica, formulada a seguir:
+
+:<big>f(x) = log <sub>b</sub> x</big>
+
+Precisa-se que:
+* b maior que 0;
+* b diferente de 1;
+* Importantíssimo: que se tenha uma calculadora científica ou gráfica (calculadoras manuais são muito [[n00b]]s para realizar esse tipo de conta);
+
+'''''Nota: Jamais use a calculadora do [[Windows|Ruindows]] para calcular funções logarítmicas. Isso é uma operação perigosíssima (pode ser tão perigosa quanto [[dividir por zero]]), capaz até mesmo de causar sérios danos ao seu [[computador]] ou até mesmo de provocar uma explosão.'''''
+
+{{Função}}
+
+[[Categoria:Álgebra]]

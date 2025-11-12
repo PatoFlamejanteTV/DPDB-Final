@@ -1,0 +1,98 @@
+{{DISPLAYTITLE|Vale}} 
+
+{{Box HeroMlbb
+|cor_titulo  =#FFD700
+|cor_imagem  =#F0E68C
+|titulo      = Korra do mundo do contra
+|imagem      = Vale cosplay.jpg
+|resenha     = Vale vendo se vai ganhar algo da [[Moonton]]
+|nome        = Vale
+|apelido     = Negão Flutuante
+|origem      = ''Forte do Vento<br> Agetla, um lugar do [[Saara]]'' 
+|classe      = Mago
+|lane        = Mid
+|feitiço     = Flash<br> Batismo<br> <s>Avançar</s>
+|fx          = Taca ventinho nos outros
+|dificuldade = É fácil de manejar
+|util_p      = {{066}} Full stacks é mais rápido que [[Usain Bolt|Bolt]] 
+|util_h      = {{033}} Depende, mas é uma merda no geral
+|raça        = [[Humano]] 
+|conhecido   = [[Valir]] 
+|inimigo     = Sem dados 
+}} 
+
+{{vqd|Vale-transporte?|Vale}} 
+{{vqd|Vale-alimentação?|Vale}}
+{{vqd|Valir?|Vale}}
+{{experimente|Skin Especial|Vale (obviamente uma skin que não é a dele)}}
+{{C|[[Moonton]] sua desgraçada, cadê a skin do meu Vale?|Main Vale cobrando}}
+{{C|Vale? É herói novo?|Grande parte dos jogadores de [[Mobile Legends]]|Vale}}
+
+
+O '''Vale''' é um personagem [[MOBA]] e é da categoria de heróis meio esquecidos <s>e também meio merda</s> do [[Mobile Legends]], na verdade era, agora [[você]] geralmente vai ver um Vale cair na sua rankeda com alguém testando ele e ficando 0/10. 
+
+É um boneco criado pela [[Moonton]] não sei quando, sabe-se que teve apenas uma skin (que veio junto ao lançamento do herói), mas depois de fazer 84 anos a empresa lembrou dele e o homenageou com uma outra skin em [[2020]] enquanto empoeirava entre os últimos do ''Tier List'' do meta, e até deram um buff no herói no mesmo ano. 
+
+== História ==
+
+{{spoiler gamístico}} 
+
+O '''Vale''' nasceu no ''Vale dos Ventos'', uma nação que combina costumes e conceitos sultanos e egípcios com um toque das ideias do [[mundo de Naruto]]. Ele é conhecido como o ''Filho do Vento'', o descendente do rei, o ''Senhor dos Ventos'' {{carece de fontes}}. Provavelmente sofreu algum Bully devido ao seu nome como: "Esse Vale é bonito, tipo, não você, mas o lugar" ou ainda "Ei ventinho, manda uma brisa pra cá!". Mas aprendeu a ignorar e superar isso.
+
+O Vale dos Ventos é vizinho do reino ''Garganta de Fogo'' e ambos têm um bom relacionamento, fazendo com que Vale, em sua infância, conhecesse o [[Valir]] em uma festa real, o príncipe da Garganta de Fogo e conhecido como o ''Filho das Chamas'', e os dois se tornaram grandes e inseparáveis amigos. Não chegaram a ter um relacionamento sério como alguns [[yaoi|yaoistas]] acreditam mas foram uma boa dupla.
+
+Assim como 99% dos heróis deste jogo, o Vale apresentava grande potencial e habilidade inata, ele podia mudar o vento através da magia e somente ele tinha essa capacidade em sua família, superando até mesmo seu pai. Porém nunca mostrou isso para ninguém, como se fosse uma carta na mangá deixada pra usar na próxima partida, e isso se tornou um completo segredo.  
+
+Alguns anos mais tarde, por achismo e crenças em falsas conspirações, o Vale dos Ventos se tornou hostil à Garganta de Fogo e chegou a um momento em que os dois Senhores foram a uma luta até morte onde, [[Só que não|pela complexida e a rica diversidade dos detalhes que descrevem a batalha]], assemelha-se a uma disputa de tufões e bolas de fogo. Mas no fim, o Senhor das Chamas é morto e o [[Valir]] que estava presente no local presencia tudo, ele até tenta atacar o Senhor dos Ventos mas o Vale o interrompe e o expulsa dessa terra <s>(que grande amigo esse)</s>. 
+
+Se separado do seu "melhor" amigo, [[Valir]], Vale escreveu uma carta para ele anos depois sobre o ocorrido e sabendo de todo o mal que fez as duas nações hostis, não pedindo desculpa a ele mas avisando-lhe para que seja ciente e não seja tomado pela vingança ou alguma outra coisa semelhante que o [[Naruto]] falaria pro [[Sasuke]]. 
+
+Agora já adulto e caído em nostalgia e contemplação, o Vale viaja pela ''Terra do Amanhecer'' e dedicaria ''O Pacto'' (uma cerimônia na de demonstração para o ''Espírito do Vento'' para se tornar um apóstolo do mesmo e etc etc etc) um momento para se lembrar dos bons tempos com o qual conviveu com [[Valir]] e faria isso com seu verdadeiro poder.
+
+Enfim, muito ruim, fim.
+
+[[Arquivo:Vale MGL.jpeg|280px|thumb|A Moonton atendeu o seu pedido, agora dá pra feedar com estilo]]
+
+== O Buff ==
+
+Em um certo patch, não muito depois do [[Projeto NEXT]], o Vale misteriosamente é [[Buff|buffado]] pela [[Moonton]] e ela justifica pelas suas palavras (redigida de forma realista) dizendo:
+
+{{C|Olha só, estamos Buffando esse maguinho lixeira para deixarmos ele minimamente jogavél e também um pouco mais balanceado com o meta do jogo que é tankar muito, dar muito dano e correr para caralho, enfim, é isso|[[Moonton]]|'''Vale''' no patch notes}}
+
+Desde então, se tornou muito comum ver Vale e seus "Main" na raqueada, obviamente os bons aparece no time inimigo e os que parece ter saído no fundo do poço fica no seu time. Apareceu tanto Vale nas partidas que a [[Moonton]] viu uma oportunidade de lucrar vendendo skin's do boneco, deu tão certo que e a empresa mercenária vai lançar até uma skin do tipo "Collector" que, diga-se de passagem, só convertendo todo o salário mínimo em cash nesse joguinho de poderzinho pra dá conta de conseguir essa roupinha, e olha que estou falando só o melhor dos casos.
+
+== Habilidades ==
+
+Diferentemente da maioria dos heróis, o '''Vale''' tem um modo diferente de 'upar' as suas habilidades, sendo eles divididos em mais dano ou mais controle. Mas não se iluda, o que qualquer outro mago pode fazer ao pegar a ult no nível 4, o Vale só pode fazer no nível 6. Sendo assim o herói ainda é ruim. 
+
+[[ARQUIVO:Pilha de vento.jpeg|thumb|200px|Ganhando pilhas da passiva depois de um Maniac]] 
+
+*'''Passiva - Voz do Vento:''' A cada assistência ou morte que o Vale conseguir, ele ganha uma "pilha de vento" que aumenta a sua velocidade de movimento, limitado a dez pilhas. Estrategicamente é muito bom pra fugir de assassinos, mas geralmente é usado pra ir atrás de kill e morrer em seguida.
+
+*'''Primeira Habilidade - Lâminas de Vento:''' Vale lança no chão <s>uma macumba</s> duas lâminas de vento (mas vai parecer como uma só), causando dano no inimigo. Podendo evoluir para:
+**''Dano:'' Aumenta o dano (duh!). 
+**''Área:'' Aumenta a área de efeito das lâminas. 
+
+*'''Segunda Habilidade - Golpe de Vento:''' O Vale lança um redomoinho de ar à sua frente, podendo evoluir para levar o inimigo no ar ou aumentar o dano, onde ele lançará uns redomoinhos extras. 
+
+*'''Ultimamente - Tempestade de Vento:''' Vale invoca um vórtice no chão causando dano, podendo evoluir para puxar o inimigo para o centro da Ultimate, ou simplesmente aumentar o dano. 
+
+O herói não é totalmente inutilizável e, desde que jogue em segurança, o late game dele e a build compensa um pouco a inconveniêcia de se ter pego o Vale e não fazer nada desde os 00:00 da partida.
+
+==Dicas==
+
+*'''Como jogar:''' O '''Vale''' é um mago papel, mobilidade mediana mas um lixo em si (com todo o respeito aos Mains aí), o que faz ser necessário um bom posicionamento e se apropriar da melhor maneira possível da vantagem da passiva e habilidades diferenciadas (ou ficar na moita esperando o primeiro [[noob]] passar e gastar tudo nele). 
+
+*'''O que é preciso na Build:''' Como mago, uma build de explosão é recomendável, mas há quem diga que um "'''Livro Mágico'''" lhe cai bem. 
+
+*'''Como agir na lane:''' Além de limpar a lane, gankar, fugir de assassino, matar soldado, xingar o tank achando que é pet do adc e entre outras funções vitais, não há nenhuma outra forma padrão de agir na lane com o Vale. 
+
+*'''Como cauterar o Vale:''' Cauterar o Vale é tão fácil quando feedar de [[Fanny (Mobile Legends)|Fanny]] de cartão teste, apenas desvie das habilidades e encurte a distância, dando uns dois hit nele já mata, <s>a não ser que [[você]] seja vesgo ou idiota, aí não tem jeito</s>.
+
+== Ver Também ==
+
+*[[Valir|O Ex-Amigo de Vale]] 
+
+{{Mlbb}}
+
+[[Categoria:Personagens de Mobile Legends: Bang Bang]]

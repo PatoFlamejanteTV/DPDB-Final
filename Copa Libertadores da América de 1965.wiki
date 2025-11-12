@@ -1,0 +1,68 @@
+A [[Copa Libertadores da América de 1965]] foi uma Libertadores lá dos anos 60 que nem eu e nem você assistiu, e que nenhum Brasileiro se quer vai querer lembrar pois nem na final chegamos, afinal foi o [[Independiente]] que ganhou essa joça de novo.
+
+== Primeira fase ==
+Novamente foi o Santos que nos representou (Nessa época só davam eles, mas só naquela época mesmo), após vacilar na [[Libertadores 1962|Libertadores de 1964]] eles deveriam desbancar alguns timinhos bostas que ficam lá no meio do mato, a [[Universidad de Chile]] e o [[Universitario]], assim eles tiveram 10 gols marcados em 4 jogos mas queimaram toda a grana ao ter que ir [[Onde o vento faz a curva|Aonde o Vento faz curva]] com uma penca de jogadores, como pode se ver:
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Santos.png|21px]] [[Santos Futebol Clube|Time reserva do Santos]]
+|'''8'''||4||4||0||0||10||3||+7
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Universidad de Chile.png|21px]] [[Club Universidad de Chile|Universidade do Chile]]
+|'''2'''||4||1||0||3||6||9||-3
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Universitario.png|21px]] [[Club Universitario de Deportes|Universidade do Peru]]
+|'''2'''||4||1||0||3||5||9||-4
+|}
+
+Outra coisa irrelevante foi que a Colômbia não participou dessa Libertadores só por frescura, ainda teve o Boca Juniors é o Peñarol passando de fase, [[Ou não|uma informação inútil até então...]]
+
+[[Arquivo:Independiente 1965.jpg|thumb|right|300px|Veja que bonito, uma foto colorida do Independiente! Que raridade.]]
+
+== Semifinais e Final ==
+
+A parte que você realmente veio ler (afinal, o que você quer aqui?) começou com a ''equipe Uruguaia eliminando a equipe Brasileira'' algo comum naquela época, onde em apenas 3 jogos houve 17 gols, o Santos ganhou em casa e perdeu fora, e como o povo ainda não tinha inventado o "gols fora", teve que haver uma partida de Desempate lá na Argentina onde [[Perdedor|advinha?]]
+
+Já na final sem Brasileiros, o Independiente se sagraria campeão graças a inexistência da regra de comparação de gols, pois o Peñarol ganharia de 3-1 e depois perderia de 1-0, aí você pensa, o Peñarol campeão! Mas a [[CONMEBOL|COMEBOI]] fez uma partida de desempate lá no Chile e assim o Independiente cagou mais um título da Libertadores.
+
+{| class="wikitable"
+|-
+!align=center  width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center  width="80"| Total ||align=center width="200"| Equipe 2 ||align=center  width="80"| Ida ||align=center width="80"| Volta ||align=center width="80"| Desempate* 
+|- 
+| align=center |1
+| align=right  | [[Arquivo:Escudo do Independiente.png|21px]] [[Club Atlético Independiente|Flooder de títulos]]
+| align=center | 6–4
+| [[Club Atlético Peñarol|Peñarola]] [[Arquivo: Escudo do Peñarol.png|21px]]
+| align=center | 1–0
+| align=center | 1–3
+| align=center | 4–1
+|}
+
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Copa Libertadores da América de 1965<br/>
+|-
+![[Arquivo:Escudo do Independiente.png|border|100px]]
+|-
+|align=center|[[Club Atlético Independiente|Independiente]]<br />
+(2° título)<br />
+
+|}
+
+== Ver também ==
+*[[Copa Intercontinental]]
+
+{{Libertadores}}

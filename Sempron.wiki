@@ -1,0 +1,31 @@
+{{computeiro}}
+
+'''''AMD Sempron''''' foi uma linha de processadores de baixíssimo nível, criada pela [[AMD]] (conhecida pelo baixo desempenho de [[merda|seus produtos]]) e lançado pela primeira vez em Julho de 2004. É um processador lançado como sendo de baixo custo ao redor do mundo e de alto custo no Brasil, ainda que seja mais barato que todos os seus concorrentes. 
+
+O processador, junto ao seu concorrente, Intel [[Celeron]], fizeram parte da primeira geração de [[PC da Xuxa|PCs da Xuxa]] adquiridos nas [[liquidação|liquidações]] Brasil afora, durante a [[inclusão digital]].
+
+==Origem do Nome==
+[[Arquivo:Processador_amd_sempron.jpg|thumb|200px|Vai ver que a ruindade dessa bosta é por causa que o processador [[pirataria|foi feito na China]].]]
+Segundo algumas [[wp:en:|fontes não fiáveis]], seu nome vem da palavra ''Sempre'' dita por alguém como sequelas neurológicas graves. Um dos cientistas desse projeto de processador deve ter pedido ao filho portador de síndrome de Down para que repetisse a palavra na língua dele e acabou saindo isso aí. O cientista-pai levou o termo estranho aos CEO da AMD na época que decidiram adotar esse ''Sempre'' em downês para ser o nome comercial da linha de processadores.
+
+Foi escolhido ''sempre'' para dizer que o usuário irá "sempre" se irritar usando essa joça, vai esperar para "sempre" vídeos com mais de 144p carregarem, "sempre" vai ficar a ver navios enquanto seus amiguinhos rodam [[Tibia]], [[Minecraft]] e [[Paciência]], enfim, segundos os cientistas, as possibilidades são infinitas. Dá até pra meter socos e pontapés no gabinete enquanto você vê aquele belo wallpaper padrão do [[Windows XP]].
+
+==Lançamento==
+O evento de inauguração foi transmitido ao vivo e em tempo real pelos blogs de tecnologia, como o Clube, o Guia e o Segurança do Hardware. Segundo seus autores, aquele seria um ''acontecimento'' que mudaria a história da informática. Hoje é fato que aquilo nunca passou de um ''fato'' e que o apetrecho só ajudou a inchar ainda mais o mercado de processadores inúteis.
+
+==Características==
+O processador apresenta desempenho modestos se comparado à máquina a manivela. A primeira geração do processador mal conseguia iniciar um Windows 95, quanto mais rodar alguma coisa. Ainda assim, só do PC de estar ligado na tomada (mesmo sem ligar), o processador esquentava o suficiente para transformar seu quarto numa sauna.
+
+A última versão do processador, lançada em 2013, evoluiu a ponto de iniciar um Windows XP e mostrar seu belíssimo wallpaper, antes de desligar a máquina por superaquecimento. O último Sempron possuia as seguintes especificações:
+
+* '''Cache L1:''' 1 Byte
+* '''Cache L2''': 4 Bytes
+* '''Conjunto de instruções aceitas:''' ''1+1'' e mais nada 
+* '''Clock:''' 2,1 Hz, Half Core
+* '''TDW''' 423 [[Megawatts|MW]]
+
+Dessa forma, podemos deduzir que enquanto existiu, este foi um processador bastante burro.
+
+{{AMD}}
+
+[[Categoria:Microprocessadores]]

@@ -1,0 +1,42 @@
+{{game}}
+
+{{Infobox Game
+|title     = Come-Come
+|image     = Pac-Man 1980-arcade.png
+|caption   = O Pac-Man para arcade
+|developer = [[Namco|Manco]]
+|publisher = [[Namco|Manco]]
+|released  = [[1980]]
+|genre     = [[Pac-Man]]
+|rating    = 0/10
+|platform  = [[Arcade]]
+|ages      = Tiozões gamers
+}}
+
+{{C|Os videogames não influenciam as crianças. Afinal, se o Pac-Man tivesse influenciado nossa geração, estaríamos todos correndo em quartos escuros, mastigando pílulas mágicas, fugindo de fantasmas e ouvindo música eletrônica repetitiva.|Tiozão gamer|Pac-Man clássico de 1980}}
+
+'''Pac-Man''' de 1980 é muito creditado como o primeiro jogo de videogame da história completamente feito para seres humanos normais (porque [[Pong]] requer altos níveis de nerdice). Clássico dos arcades, os fliperamas de Pac-Man dominaram o cenário dos shoppings dos anos 1980, sendo destronado só em 1992 com o advento do [[Street Fighter de Rodoviária]]. Neste jogo de conotações alucinógenas você controla um cabeção amarelo que deve percorrer um labirinto comendo pastilhas de ecstasy até ter finalmente ter a morte certa e trágica por overdose, tudo enquanto foge de quatro agentes da prefeitura vestidos de fantasmas.
+
+== Desenvolvimento ==
+
+[[Arquivo:Pacman arcade.jpg|thumb|left|Uma moça jogando Come-Come, definitivamente um clássico dos arcades.]]
+
+{{C|Quando vi que meu queijo comia minhas pílulas e matava meu cachorro disfarçado de fantasma no Halloween, foi meu grande momento de inspiração|[[Toru Iwatani]], epxlicando a ideia para a criação do Pac-Man}}
+
+Nos anos 1970 a [[Namco]] era uma empresa fabricante de [[Kiddie ride]]s, que são aqueles carrinhos temáticos coloridos que ficam balançando, brinquedos feitos para crianças que sofrem de severo grau de retardo mental. Mas com a evolução da sociedade, a pederastia começava a perder popularidade e com isso esses brinquedos iam perdendo seu propósito, então a empresa decidiu que arriscaria entrar nesse novo mercado dos videogames, mas precisavam de um jogo inovador.
+
+Foi [[Toru Iwatani]] o maluco que apareceu com a ideia de uma bola que sai comendo drogas e fugindo incessantemente do estupro de fantasmas, eventualmente estuprando-os pelo menos quatro vezes por fase. O jogo, claro, foi um grandioso sucesso indiscutível, afinal em 1980 não havia outra diversão para nerds se não apanhar diariamente na escola. Por muitos anos Iwatani afirmou que o formato de seu herói foi inspirado numa [[pizza]] faltando um pedaço, mas em 1996 admitiu que na verdade sempre foi mesmo um [[queijo]] faltando o pedaço.
+
+== Enredo ==
+{{Detonado|Pac-Man}}
+
+Como todo jogo de Pac-Man é e sempre será um remake do jogo original de 1980, é neste jogo que surge também o único e canônico enredo do que se trata Pac-Man e porque aquilo está acontecendo na tela. Pac-Man é uma esfera com 1/8 de vazio à sua frente (provavelmente sua boca) a qual usa para comer algumas pílulas de ecstasy e frutas alucinógenas enquanto percorre corredores escuros de uma boca-de-fumo sinistra e mal frequentada. Quanto mais alimentos alucinógenos e mais droga consome, mais um grupo de quatro crackudos pulam cada vez mais rápido sobre o Pac-Man. Além disso, quando come pontos grandes (também chamados de Viagra) Pac-Man é tomado por um desejo irremediável por sexo e estuprará a primeira coisa que encostar, o que significa que sodomiza qualquer crackudo que estiver por perto... Mas a tolerância do corpo a estes pílulas todas aumenta rapidamente e, portanto, com o passar das fases o seu efeito dura cada vez menos. Por isso o jogo Pac-Man de 1980 é categorizado como "simulador de crackeiro".
+
+Jogamos até o Level 256, momento em que o [[MissingNo.]] aparece anunciando que o Pac-Man finalmente morreu de overdose fulminante. E um novo jogo deve ser começado.
+
+{{Pac-Man}}
+
+[[Categoria:Jogos lançados em 1980]]
+[[Categoria:Jogos da Namco]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos de labirinto]]

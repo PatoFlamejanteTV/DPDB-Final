@@ -1,0 +1,56 @@
+{{Box ClubeFutebol
+|cor_clara         = gold
+|cor_escura        = black
+|brasao            = Escudo do Kashiwa Reysol.png
+|hino              = "Super Onze"
+|nome_oficial      = Kashiwa Rei Sol
+|origem            = {{JAP}} - [[Kashiwa]]
+|apelidos          = Seleção do Japão
+|torcedores        = Japoneses 
+|torcidas          = Rei Sol Organizada
+|mascote           = Um... er... [[WTF?]]
+|ilustre           = [[Nelsinho Baptista]]
+|estadio           = Kashiwa Po Ha Park
+|capacidade        = [[mais de oito mil]]
+|sede              = '''[[Kashiwa]]'''; Rua do Rei Sol, S/N
+|presidente        = [[Shigeru Miyamoto]]
+|treinador         = [[Nelsinho Baptista]]
+|pior              = [[Inuyasha (personagem)|Inuyasha]]
+|melhor            = [[Ichigo Kurosaki]]
+|patrocinador      = [[Hitachi]]
+|material          = [[Umbro|Ombro]]
+|liga              = [[J-League]]
+|divisao           = 1
+|títulos           = Campeão da Copa da Liga
+|ranking           = -000
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Kashiwa Reysol''' é um time japonês pequeno que normalmente disputa a segunda divisão da [[J-League]], mas que de vez em quando aparece na primeira divisão quando surgem coisas piores que ele.
+
+== História ==
+=== Fundação ===
+
+Fundado em 1992, seu antecedente era o Hitachi Soccer Club, que foi fundado em 1940 numa empresa de televisores de pobre, até então só um time amador de peladeiros de fim de semana, foi transformado em time profissional às pressas, pelo Zico, que queria adversários merdas para jogar contra quando o mesmo inventou o futebol no Japão naquele fatídico ano.
+
+Em 1993, o time, que contava com o [[Careca]], mas não conseguiu ficar nem em 5º na busca para se classificar para a J-League, e só em 1994 ficou em 2º e se classificou para a primeira divisão.
+
+=== Mudança de sede ===
+
+Boa parte dos jogadores da [[Seleção Japonesa de Futebol]] vinham do Kashiwa Reysol na época que o time era grande, mas o time saiu de [[Koganei]] para [[Kashiwa]], e demorou para se adaptar aonde eles passaram a viver, um simples beco com uma porta de aço, pichada e toda fodida era a entrada do local onde o time treinava. O time mandava seus jogos em um terreno baldio onde havia um jacaré morto e milhares de ratos e pombas-rola da cabeça preta, além do vestiário ser um banheiro de pedreiro e estar infestado de [[cascacu]]s. O time ficou assim, rebaixando e subindo.
+
+=== Anos 2000 ===
+
+O Kashiwa_Reysol é o time io-io do Japão, sendo o recordista de rebaixamentos do país, porque cai, mas sempre sobe nos anos seguintes porque não chega a ser miserável o bastante pra estagnar na segundona. Tanto que o título da primeira divisão de 2011 veio após a conquista do título da segunda divisão de 2010, tornando-se único time do mundo a conseguir uma façanha miserável dessas.
+
+== Títulos ==
+
+* '''[[Copa Suruga Bank|Copa Suruba Bank]]''', na falta de uma Liga dos Campeões da AFC: 1 vez (2014)
+* '''[[J-League 2]]''': 1 vez (2010)
+
+{{Campeonato Japonês}}
+
+[[Categoria:Times de futebol do Japão]]
+
+[[ja:柏レイソル]]

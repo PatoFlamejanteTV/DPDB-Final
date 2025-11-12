@@ -1,0 +1,50 @@
+{{Info papa|
+|nome do papa     = Leão 1.0 Grandão
+|imagem           = Logo_proerd.png
+|legenda          = Leão I quando se aposentou da vida de papa.
+|tamanho          = 210px
+|ordem            = 45
+|nome             = Leléu
+|data_nascimento  = [[391]]
+|local_nascimento = [[Toscana|<s>Linguiça</s> Toscana]] 
+|inicio           = 440
+|fim              = 461
+|predecessor      = [[Sexto Sentido]] [[Papa Sisto III|III]]
+|sucessor         = [[Papa Hilário|Engraçadinho]]
+|data_morte       = [[461]]
+|local_morte      = [[Roma]] {{ITA}}
+|cargo            = Papa e mascote do [[Proerd]]
+}}
+
+'''Papa Leão I''', ou '''Leão Magno''' ([[Toscana]], não sei o dia ou o mês de [[400]] - [[Vaticano]], [[10 de novembro]] de [[461]]), foi um dos [[papa]]s da [[Igreja Católica]], e alguns historiadores consideram ele como o primeiro a REALMENTE ser um papa (todos que vieram antes seriam apenas [[bispo]]s ou [[arcebispo]]s de [[Roma]], nada mais que isso). Alguns outros consideram o [[Papa Gregório I|Gregório I]] como o primeirão, mas o Leão Magno já era um carinha muito foda, rugidor com força e dono de uma lábia bem sacana, ao ponto de convencer reis e príncipes a não mexerem com sua querida Roma, numa época em que o [[Império Romano do Ocidente]] estava mais mal das pernas que a inválida da [[tua mãe]].
+
+== Origens ==
+Leão era um [[filhinho de papai]], mas que começou sua vida já querendo ser um garotinho destinado a servir apenas a [[Inri Cristo]]. Assim vira [[coroinha]] da [[Diocese de Roma]], onde, graças a grana do pai, rapidamente descola um diploma e vira [[padre]]. Nisso o cara estuda pra burro e ganha a amizade de um monte dos [[Padres da Igreja]], como [[Cirilo de Alexandria]] ([[patriarca de Alexandria|o patriarca]] de lá), [[Juvenal de Jerusalém]] ([[patriarca de Jerusalém|o patriarca]] de lá) e [[João Cassiano]], o maluco que desceu o malho na heresia do [[Nestório]].
+
+Com tanto conhecimento, Leão escreve um tratado chamado [[Tomo de Leão]], onde defende um rugido divino que fez [[Jesus]] ser ao mesmo tempo [[União hipostática|humano e divinal]], o que seria base pra uma futura intervenção dele na história da Igreja e lhe rendeu o título de [[Doutor da Igreja]]. Não sei como era o processo de doutoramento aí, mas né, fica por isso mesmo. Após isso o cara foi sendo bem quisto até que foi eleito papa. 
+
+==Papado==
+[[Arquivo:Herrera_mozo_San_León_magno_Lienzo._Óvalo._164_x_105_cm._Museo_del_Prado.png|thumb|left|230px|O papa está de saco cheio de quem está tirando essa foto dele.]]
+Ao assumir o trono religioso de Roma, o carinha rapidamente virou um dos maiores negociadores já vistos na face da terra, pois convenceu [[Átila, o Huno]], a ir pastar bem longe de Roma, bem como o rei dos [[vândalos]] e [[alanos]] [[Genserico]] a ir pra [[África]] brincar de escravocrata por lá e deixar Roma quietinha (dessa vez não funcionou muito bem, mas ao menos o Genserico, por conta dos apelos do papa, pegou leve no saque sem [[morte|mandar muita gente pra Jesus mais cedo]]), pra alegria do [[Valentiniano III]], que pode fingir ser imperador em paz e sossego.
+
+Como Papa, o Leão I também tratou do [[Concílio da Calcedônia]], o concílio que definiu de vez, de acordo com as ideias do papa bem mais antigas que esse concílio, que Jesus era sujeito ao [[diofisismo]], ou seja, vivia numa [[bipolaridade]] terrível entre ser Deus por completo e ao mesmo tempo ser um homem por completo. Isso deixou um monte de crente magoado, já que eles acreditavam em [[monofisismo]] (Jesus era só Deus, a parte humana era só uma ilusão de óptica) e no [[miafisismo]] (que era a mesma merda do anterior, só que com leves modificações <s>cômicas</s>). 
+
+Isso levou a mais um [[cisma]] dentre os mais de [[quarenta e dez]] que o [[cristianismo]] sofreu e continua a sofrer até hoje. Ao menos a Igreja Una Católica Romana continuou todo mundo pensando como o Leão I, e como a Igreja de lá era mais forte que o resto já nesse tempo, a visão dele até hoje é a que a maioria dos crentelhos puxa o saco até hoje. E isso porque poucos anos antes, no [[Segundo Concílio de Éfeso]], o documento do Leão foi considerado um [[documento que não prova nada]] e sumariamente desprezado por todos os cardeais, que ainda trataram de depor seus auxiliares que tentavam botar pra frente as ideias do já papa.
+
+==Morte==
+Leão I morreu em 461, bem antes de ver a [[Queda do Império Romano do Ocidente]], ou seja, igual ao [[Banco Nacional]], depois que [[Ayrton Senna]] morreu, o banco morreu junto... Sua [[canonização]] foi meio confusa pro dia de rezar pra ele, já que por anos rezavam no dia [[28 de junho]] e [[11 de abril]], até que o [[Calendário Geral Romano]] definiu de vez a data em 10 de novembro, dia que ele foi ver se ia mesmo se encontrar com Jesus ou não, apesar de uns [[vetero-católicos]] insistirem em venerar nas datas anteriores, e também as [[Igrejas católicas orientais]] e as [[Igreja Ortodoxa|ortodoxas ocidentais]] e [[Igrejas ortodoxas orientais|orientais]] venerarem no dia [[18 de fevereiro]] por... por... e eu sei lá, querem ser os diferentões, só isso.
+
+{{caixa de sucessão
+|título=[[Arquivo:Bento 16 saudando.jpg|75px]]<br>[[Papa|Síndico de Deus]] nº 45|
+anos=[[440]] - [[461]]|
+antes=[[Papa Sisto III|Sisto III]]|
+depois=[[Papa Hilário|Engraçadão]]
+}}
+{{Papas}}
+{{Doutores da Igreja}}
+{{Padres da Igreja}}
+
+[[Categoria:Leões]]
+[[Categoria:Papas|Leao01]]
+[[Categoria:Papas da Itália|Leao01]]
+[[Categoria:Santos da Itália]]

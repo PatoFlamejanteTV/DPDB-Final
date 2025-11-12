@@ -1,0 +1,46 @@
+
+{{vqd|FC no SNES}}
+{{vqd|Tristar}}
+{{c|Eu tenho medo.|Regina Duarte|{{PAGENAME}}}}
+{{c|...|Doutor Roberto|Super 8}}
+
+'''Super 8''' (ou '''Tristar''') é um acessório maligíno criado pra jogar games de [[Nintendinho|"Famiri Kompiuta"]] no [[SNES|"Supa Famikomu"]].
+
+{{Infobox Game|title = Super Oito, o pré-[[Super Onze]]
+|image               = Super8.png
+|caption             = Tela maligna do adaptador.
+|developer           = [[42|Innovation]]
+|released            = 199?
+|genre               = [[n00b]]ice
+|rating              = 0%
+|platform            = [[SNES]]
+|ages                = Livre pra todos os pirateiros
+}}
+
+== O "converter" ==
+
+O Super 8 é o Power Base Converter do [[Mega Drive|Merda Drive]] no [[Mundo do Contra]]. O adaptador tem entradas RF e uma saida que nem aquela Multi Out, pra conectar cabo AV. Geralmente, como é uma invenção de sabe se lá daonde veio, foi criado pra ser rodado no SFC Made in [[Nippon]]. Voltando a história, o adaptador tem três slots: Um pros games americanos do NES (conhecido como 72-pinos), um pros games Made in Nippon e piratas do FC (conhecido como 60-pinos) e um pros games de SNES (???????????). A opção terá uma tela totalmente [[Macho|azulada]] pra jogar games de 8-bits (NES) ou 16-bits (SNES). Lembrando que o Joystick do SNES tem uma configuração pros botões do FC: A do FC é o B do SNES e o B do FC é o Y.
+
+== Problemas durante a utilização (e o que pode ocorrer depois) ==
+
+[[Arquivo:Super8.jpg|left|thumb|O tal acessório. Note que ele é conectado na Multi Out do SNES!!!!]]
+
+* Você tem o risco de perder seus games salvos;
+* Você tem o risco de que os games peguem [[vírus]] via [[BS-X]];
+* Você tem o risco de queimar o seu SNES/SFC;
+* Apertando todos os botões do SNES antes de rodar o game, ele explodirá;
+* Conecte o RF Switch do SNES (ou do NES, já que os dois são a mesma "[[Argentino|mierda]]") e ele irá "queimar";
+* Seu GameSaver Plus irá desgastar a bateira com Tristar, e ela nunca mais irá ser recarregável;
+* Seu [[Game Genie]] (ambos) irá fazer a CPU do SNES dar um código de [[suicídio]];
+* Seu Action Replay não irá funcionar devido a ele já ser do mal;
+* Se colocar dois games ou mais nos slots do Super 8, irá fuder seus cartuchos, o SNES e o próprio adaptador;
+
+== Ver também ==
+
+* [[Tristar 64]] (NES, FC e SNES no [[Nintendo 64|ULTRAAAAAAAA SIXTYYYY FOOOOOUUURRRR!]])
+* [[Game Shark]]
+* [[Game Genie]]
+
+{{oposto|Power Base Converter}}
+
+[[Categoria:Jogos para Super Nintendo]]

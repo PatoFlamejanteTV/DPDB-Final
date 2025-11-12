@@ -1,0 +1,70 @@
+{{venenoso}}
+{| class="toccolours" style="width:235px; margin: 0 0 0.5em 1em; float:right; clear:right;" 
+! bgcolor=#00DEFF align=center |<font color=#000099 size=3>'''Malboro'''
+|-
+| style="text-align:center;" |[[Arquivo:Malboro04.jpg|Bichin arretado!]]<br><small>Bichin arretado!</small>
+|- style="text-align:center;"
+! style="background: #00DEFF;" | '''Classificação pseudo-científica'''
+|- style="text-align:center;"
+|
+{| style="margin:0 auto; text-align:left; background:none;" cellpadding="2"
+|- valign=top
+|'''Reino:'''||Plantae
+|- valign=top
+|'''Filo:'''||Angiosperma
+|- valign=top
+|'''Classe:'''||Dicotiledonae
+|- valign=top
+|'''Ordem:'''||Feladamae
+|- valign=top
+|'''Família:'''||Marditus
+|- valign=top
+|'''Género:'''||Toxicus
+|- valign=top
+|'''Espécie:'''||Lazarenta
+|}
+|- style="text-align:center;"
+! style="background: #00DEFF;" | '''Nomenclatura binominal'''
+|- style="text-align:center;"
+|'''''Toxicus Lazarenta'''''
+|}
+
+
+{{C|Marboru! Tcha, tchatchara, tchan!|Mundo Canibal|Malboro}}
+
+{{C|Olha a "pranta"!|Índio que vende ervas na feira do rolo|Malboro}}
+
+{{C|Venha para o mundo de malboro!|Narrador das chamadas da Globo|Malboro}}
+
+
+'''Malboro''' é uma planta carnívora altamente tóxica muito utilizada na fabricação de cigarros.
+
+==Habitat==
+O Malboro é encontrado nas áreas mais estranhas e inóspitas possíveis, desde florestas, desertos e cidades abandonadas até buracos no meio da terra. Malboros não costumam ser amigáveis com visitas, por isso eles sempre então escondidos em pontos estratégicos.
+
+==Alimentação==
+Como o Malboro é uma planta carnívora, sua alimentação é constituída basicamente de outros montros que habitam as áreas em que ele vive, guerreiros buscando tesouros e os caras que tentam capturá-los para a fabricação dos cigarros. Qualquer coisa que se mova num raio de 20 metros é considerado almoço para essas insaciáveis plantas. Elas chegam a consumir até 300 quilos de carne humana a cada refeição.
+
+[[Arquivo:Malboro01.gif|thumb|left|Em 8-bit]]
+
+==Fabricação dos cigarros==
+Como os Malboros não nascem em qualquer solo, é impossível criar plantações de Malboros. Portanto é necessário a extração de seu habitat natural. Para isso, eles enviam <s>trouxas</s> exploradores para capturar os malboros, e assim extrair sua essência para a fabricação dos cigarros. Na maioria das vezes, eles acabam sendo devorados pelos Malboros famintos.
+
+[[Arquivo:Malboro03.jpg|thumb|right|Malboro prestes a soltar um Bad Breath]]
+==Bad Breath==
+O motivo pelo qual o Malboro é tão temido. Ele solta um bafo extremamente tóxico, capaz de envenenar um trouxa a mais de 10 quilômetros. Esse bafo é capaz de causar todo tipo de status negativo possível, desde te deixar paralizado ou envenenado, até te transformar em um sapo ou criar um buraco negro com uma gravidade 10 vezes maior que a da terra para te sugar e te transformar em extrato de tomate.
+
+
+<gallery>
+Imagem:Malboro02.gif|'''Ele quer te comer. Fuja rápido!'''
+Imagem:Malboro05.jpg|'''Ele também tem seu próprio avatar!'''
+</gallery>
+
+{{Final Fantasy}}
+
+[[Categoria:Monstros de Final Fantasy]]
+[[Categoria:Personagens monstros de jogos]]
+[[Categoria:Personagens de jogos de RPG]]
+[[Categoria:Veneno]]
+
+[[fr:Malboro]]

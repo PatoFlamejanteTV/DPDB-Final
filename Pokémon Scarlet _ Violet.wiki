@@ -1,0 +1,113 @@
+{{game}}
+
+{{Infobox Game
+|title     = Pokémon Scat/Toilet
+|image     = Pokémon {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Violet|1=Scarlet}}.png
+|caption   = Foto da capa do jogo
+|developer = [[Game Freak|Game Fresco]]
+|publisher = [[The Pokémon Company|Pokémon CoCo]]
+|released  = [[2022]]
+|genre     = RPG/Furry
+|platform  = [[Nintendo Switch]], [[Nintendo Switch 2]]
+|rating    = 7,8/10, tem muitas quedas de FPS
+|ages      = 5-10 anos (isto não se aplica aos [[Nerd]]s)
+}}
+
+'''Pokemon Scarlet / Violet''' é mais um jogo da inúmera série de jogos de caçar [[Pokémon|monstrinhos de bolso]], com a tão esperada nona geração que veio a surgir em 2022, embora os fãs da série digam que esse jogo foi planejado em [[1994]], pensado em [[2003]], os designs feitos em [[2008]] e o jogo em produção desde [[2014]]. O jogo irá sair no final de 2022, embora no Brasil só poderá ser jogado em 2023 ou 2024 em mídias físicas.
+
+O jogo em si é a versão Pokémon de [[Cyberpunk 2077]], um jogo em mundo aberto que prometia inovar muito para a série e um dos mais babados pelos pokémaníacos, mas a realidade é que no final se tornou um jogo com inúmeros bugs por minutos jogados que deixariam qualquer desenvolvedor da [[Ubisoft]] com [[inveja]] e várias quedas de FPS que conseguiram pistolar até mesmo os maiores puxa-sacos da série. Além disso, 50% dos designs das novas espécies são designs que foram rejeitados de outras mídias. O jogo também lançou para Nintendo Switch 2, e conseguiu consertar um quarto dos bugs da versão de Nintendo Switch, o que foi o suficiente para fazer os vulgos puxa-sacos da Nintendo pararem de ficar bravos com os jogos.
+==Surgimento==
+{{C|E eu?|Portugal|Pokémon Scarlet & Violet}}
+
+O jogo surgiu em 2022, em um Pokémon Direct que estava indo na merda, com vários eventos bostas relacionados ao vigésimo quinto aniversário da série, como eventos inúteis que não irão mudar nada no jogo de jogos de celular, tanto Sword e Shield e Legends Arceus não colocando mais espécies de monstros em seus jogos e até [[Duraludon|pokémons que quase ninguém gosta]] indo para a [[Pokémon UNITE|porradaria em equipe]], até que foi revelado um trailer que mais parecia algo de Detetive Pikachu 2, mas que acabou virando o trailer da 9ª geração, mostrando que a [[Game Freak]] e a Creatures Inc. irão cagar mais espécies de pokémon até chegar aos [[Pelé|1000 gols]].
+
+O primeiro trailer do jogo não mostra nada a não ser as mesmas espécies que participam todos os jogos tais como [[Pikachu]], [[Meowth]] e [[Lucario]], que possuem imunidade à nova praga que amaldiçoará os novos jogos de Pokémon, o [[Dexit]] (<s>ou do outro lado abençoará, já que os desenvolvedores não vão ter que ficar copiando e colando animações preguiçosas para 900 pokémons</s>), enquanto também apareciam outros pokémons escondidos como se fossem meros easter eggs e mostrava a região espanhola no mapa.
+
+Com a chegada do segundo trailer, mais informações começaram a ser reveladas juntas com um mar de charadas toscas feitas por [[Charada (DC Comics)|Edward Nigma]], que estava trabalhando na [[Game Freak]], como os professores [[Professora Sada|Sada]], a primeira vítima de hentai da região, e [[Turo]], a vítima dos fãs [[gay|homossexuais]] da série. Além disso, também foram reveladas espécies irrelevantes de primeira rota assim como os lendários da região, compostos por [[Koraidon]], um lagarto vermelho que parece uma motocicleta, e [[Miraidon]], que é a mesma coisa que o anterior, só que azul e mais futurista.
+
+==Os vazamentos controversos==
+Enquanto a Game Freak cagava e andava para o andamento do jogo com dias sem lançar um trailer novo desde o dia que revelou os lagartos motociclistas, as esperanças do jogo eram carregadas por um único vazador que tentava ao máximo evitar o processo da Não Intendo e suas amigas revelando coisas aleatórias do jogo por meio de charadas em criptografia e depois de vários [[nerd]]s se reunirem para descobrir o significado daquilo, geralmente levando a nada, isso durou até vir outro vazador querer ainda mais atenção e desembuchar tudo que tinha, o que formou uma guerra tosca de vazadores no jogo por atenção, já não sabendo se aquilo tudo era verdade, ou é apenas uma [[Sérgio Mallandro|pegadinha do Mallandro]] gigante com a fanbase infantil de Pokémon.
+==Os iniciais==
+{{spoiler gamístico}}
+[[Arquivo:Iniciais da 9a geração.jpg|250px|thumb|Os iniciais finais da nona geração, [[Meowscarada]], [[Skeledirge]] e [[Quaquaval]].]]
+Enquanto os pokémons da região do jogo estavam escondidos no matinho e fugindo do trailer, as primeiras espécies mostradas foram os iniciais do jogo, que mais uma vez, vai ser marcada por uma guerra intensa dos fãs dos três ao menos que a Game Freak já decida o seu favorito e tente fazer um deles ganhar de tudo que é jeito.
+
+*[[Sprigatito]] [[Tipo Grama (Pokémon)|🍃]]: É o inicial de grama da região e também o mascote [[furry]] da nona geração até o momento que não são reveladas nenhuma de suas evoluções, ou outro pokémon que atraia ainda mais os doentes mentais fãs de animais antropomórficos. Sprigatito além disso, pelos seus olhos vermelhos, presumiu-se que ele também seja mais um dos pokémons [[maconheiro]]s da série, o que rendeu vários memes a esse pokémon e que virasse o favorito de muitos. Mesmo com isso, os fãs dessa espécie esperam que não vire um segundo [[Incineroar]], ou seja, pare de ser quadrúpede do nada. O final já era esperado e realmente virou um segundo Incineroar, mas os fãs passam pano por ser uma espécie mais feminina.
+*[[Fuecoco]] [[Tipo Fogo (Pokémon)|🔥]]: Fuecoco é o inicial de fogo dessa região e que seria mais um design tosco, se não fosse um [[crocodilo]], o que rendeu várias discussões sobre esse pokémon, se iria trair de vez a teoria do zodíaco chinês relacionado aos iniciais de fogo. Enfim, Fuecoco deu uma verdadeira dor de cabeça aos fãs desta teoria, que tentaram relacionar de vez ele com uma [[cobra]] ou até mesmo um [[touro]] ([[WTF?]]), e que estarão torcendo para a linha evolutiva parar de fazer cosplay de [[Totodile]] para virar cosplay de [[Servine]] e [[Serperior]]. Fuecoco ao evoluir continua como um crocodilo, com choro dos fãs do zodíaco dizendo que era para ser um basilisco.
+*[[Quaxly]] [[Tipo Água (Pokémon)|💧]]: Como toda as gerações possui um inicial que se destaca entre os três, seja por motivos legais ou outros motivos, já Quaxly é aquele que ficou de fora e que não possui quase nada a falar dele, a não ser que parece um pato cosplay de [[Pato Donald]] ou [[Dolan]] misturado com mais uma referência de JoJo. Quaxly é o inicial perfeito para aqueles <s>do contra</s> que não gostam de designs furries ou designs idiotas. Já os seus fãs esperam que o inicial dê uma de [[Greninja]] e passe por cima dos outros dois. Como ninguém ligava para o Quaxly, e sair do armário ainda é algo que possa chamar a atenção, não foi diferente, virando um dançarino de [[samba]] que dá ré no kibe.
+
+==Campanhas==
+[[Arquivo:Fantalaranjauva.jpg|200px|thumb|[[Laranja (fruta)|Laranja]] e [[Uva]], a guerra relacionada esse jogo.]]
+Se a oitava geração ficou marcada na história por ter feito nerds tetudos de 30 anos chorarem por não conseguirem mais jogar com o seu pokémon preferido da {{Aleatória/Número||1|7}}ª geração que gostava desde [[1900 e guaraná com rolha]] e assim ficar xingando muito no twitter com a hashtag [[Twitter|#BringBackNationalDex]] enquanto protestava comprando o jogo, o que resultou na incrível marca de 23 milhões de otários que pagaram pelas duas versões de um único jogo (ou quatro se contar as DLCs).
+
+Já a nona geração, ficou marcada pelas guerrinhas na internet entre [[Portugal]] e [[Espanha]], já que o jogo foi revelado que se passará na [[Península Ibérica]] e pelas cidades dos jogos, além de dois dos iniciais serem baseados em coisas espanholas, pensou-se que a Game Freak teria deixado [[Portugal]] de lado por ser um país atualmente irrelevante, além de irrelevante para o mercado. Mesmo com isso, vários fãs portugueses quanto brasileiros que pegaram carona pelo seu pai ser lembrado (já que a Game Freak dificilmente fará um jogo no Brasil) e pensariam que Scarlet e Violet seria o primeiro jogo da série principal de jogos traduzido em português.
+
+Mesmo com a [[Nintendo|Nãointendo]] começando a fazer os seus primeiros jogos em português, como [[Mario Party Superstars]] e [[Mario Strikers: Battle League]], o resultado disso foi que a Game Freak falou que o jogo seria traduzido para cerca de dez idiomas, incluindo quatro versões de runas diferentes para três países, o que fez que vários fãs brasileiros e portugueses (além de mexicanos entrando na onda) começarem a protestar no Twitter para a localização do jogo para português de Portugal, português brasileiro e até espanhol mexicano com as hashtags #ScarletVioletPTBR e #PokemonPTBR.
+
+O que parecia um protestinho inútil de quinta, começou a tomar largas proporções, com youtubers especializados em Pokémon, a [[SBT]] e até mesmo [[Juliette Freire|aquela lá do BBB]] entrou nessa onda, o que fez que o protesto tivesse seus 15 minutos de fama, mas a Game Freak, querendo evitar um segundo alvoroço em relação aos seus jogos, já que anteriormente enchiam o saco até mesmo dos desenvolvedores, resolveu ligar o modo [[foda-se]] para os brasileiros, mexicanos, portugueses e latinos em geral, já que a maioria deles conseguiam "boicotar" os jogos <s>pela falta de dinheiro para comprar</s>, ao contrário da maioria dos americanos, europeus e japoneses que "boicotavam" os jogos dando dinheiro nas mãos da Pokémon Company.
+==Regional Forms==
+[[Arquivo:Pokémons da 9a geração.png|300px|thumb|Os pokémon da 9ª geração, que foram baseados em ideias totalmente originais.]]
+{{C|É agora que eu me consagro.|Tauros|a região espanhola}}
+
+Depois de três jogos pintando espécies diferentes de outras cores e dando novos tipos para eles, a Game Freak neste jogo se cansou disso e se acalmou com as recolorações, com a primeira forma revelada sendo o [[Wooper]], que pintaram de marrom e deram os tipos veneno e terrestre por algum motivo desconhecido. Uma coisa certa é que todo mundo aposta em uma forma nova para o Tauros [[tourada|por motivos óbvios]] ou alguma ave aleatória escolhida no uni-duni-tê, por terem várias espécies de aves na [[Espanha]].
+
+Além das formas regionais legítimas, tem as formas regionais que foram importadas do [[Paraguai]], que ainda não tem nome pelo fato da [[The Pokémon Company]] não se importarem com elas, com o primeiro pokémon a ter essas novas formas novamente a [[Diglett|marmota fálica escondida]], que para compensar a falta de criatividade em criar novos designs, essas novas formas chinesas possuem outros nomes e seu próprio número na [[pokédex]] para enfim bater o milésimo gol.
+
+Scarlet e Violet também contam com mais uma versão de regional forms que são mais vistas no final do jogo, mais conhecidas como [[pokémon paradoxo|pokémons paradoxos]], que são formas pre-históricas quebradas de pokémons medíocres em Pokémon Scarlet, e formas robóticas medíocres de pokémons quebrados em Pokémon Violet, com um monte de nomes toscos compostos, não sabendo ainda se isso são realmente espécies de pokémon.
+==História==
+[[Arquivo:McDonalds SV.png|220px|thumb|Os novos centros Pokémon, que mais se parecem com um posto de gasolina, ou um McDonald's.]]
+Diferente dos jogos anteriores, em Scarlet e Violet se resume a 3 histórias e caminhos diferentes, onde a primeira é aquela fórmula básica dos jogos de Pokémon que todos já estão cansados de saber, que é só ficar caçando espécies, derrotar [[líder de ginásio|líderes de ginásios]], [[Elite 4]] e enfim se tornar o campeão. A segunda história é ficar explorando áreas desertas e bater em pokémons gigantes para pegar [[maconha|plantas medicionais]] e a terceira, que é caçar os delinquentes escolares da [[Team Star]], a terceira versão tosca da [[Equipe Skull]].
+
+Dependendo da versão do jogo, tanto Koraidon quanto Miraidon apanha um especial de porrada de uma segunda versão dos lendários, e acaba correndo para caralho até cair naquela praia. O jogador faz aquele tutorial chato de sempre até achar o lendário e ficar conversando com os personagens principais desta trama. Enfim, o jogador pode ir a escola ou ficar vagabundeando por aí caçando qualquer coisa que encontra no mapa, além de ter que aturar a Nemona lhe enchendo o saco 200 vezes. Depois de chegar a escola, o jogador é introduzido as 3 quests principais do jogo e ficar encontrando espécies por aí para caçar na Pokédex.
+
+Koraidon ou Miraidon ficam fracos e depois de comer cinco sanduíches com drogas vindas de Paldea, começa a ficar mais forte e depois de completar as 3 quests, é revelada a quest final que envolve os professores, que na verdade são robôs feitos pelos mesmos antes viajarem no tempo e virar comida de pokémon temporal, o que causou aquele buraco do tamanho da [[sua mãe]] no meio do mapa. Depois de batalhar contra um time de criaturas temporais dependendo da versão, tem aquela luta scriptada de lendário vs. lendário para estragar tudo.
+==Elenco==
+[[Arquivo:Meowscarada e humano.jpg|250px|thumb|Em uma manobra de conseguir mais vendas, o jogo resolveu apelar de vez para a [[pokéfilia]].]]
+*'''Personagens principais'''
+**Juliana/Florian: Os protagonistas sem sal que dessa vez possuem algum tipo de emoção, ao contrário dos protagonistas de Sun e Moon.
+**[[Arven]]: A Lillie masculina do jogo que não rouba o seu protagonismo e que possui um dos focos da história, que é salvar o [[Mabosstiff|seu cão constipado]] que está na [[UTI]].
+**[[Nemona]]: Uma stalker que quer ser a sua rival a todo o custo e que irá te espiar em todos os ginásios que você completa para lhe pedir em uma batalha. É ela que dá as missões de líder de ginásio e que é secretamente a segunda campeã do jogo.
+**[[Penny (Pokémon)|Penny]]: Uma nerd esquisita que tem a habilidade de hackear coisas e que arquitetará um plano contra a [[Team Star]], se passando por "Cassiopeia".
+**[[Clavell]]: O diretor da escola, que irá fazer um disfarce para agir como um adolescente e que consegue ter a habilidade de esconder uma calça em uma bermuda.
+**[[Professora Sada|Sada]]/[[Professor Turo|Turo]]: Dois professores do jogo que irão lhe encher o saco, mas nem tanto quanto a Nemona. Um deles é viciado no passado e outro no futuro. Dependendo do jogo, um deles é apenas um figurante, e outro é um robô que quer liberar as formas paradoxais do passado/futuro em Paldea.
+*'''Líderes de ginásio'''
+**Katy <s>Perry</s>: Está aí apenas para falar que tipos insetos são fracos. O seu desafio é fazer um gol com uma das montarias de lendários do jogo.
+**Brassius: Um maluco que fica se pendurando em vinhas assim como o Tarzan e que fala de arte. O seu desafio é brincar de [[esconde-esconde]] com várias [[Sunflora]].
+**Iono: Uma [[vtuber]] que ficará lhe enchendo o saco com seu vocabulário esquisito. O seu desafio pré-batalha é o mesmo do anterior, só que achar o diretor esquisito do jogo e batalhar contra [[escravoceta]]s dela.[[Arquivo:Zamazenta e Koraidon.jpg|230px|thumb|[[Koraidon]] e [[Zamazenta]] discutindo as relações para ver quem é mais ignorado pelos fãs.]]
+**Kofu: Um velho que é um cozinheiro e um apostador famoso local, e que também é desastrado assim como maioria dos personagens da franquia. O seu desafio é devolver a carteira dele e não [[roubo|dar uma de carioca]].
+**Larry: Um empregado que fica reclamando de [[Rochelle Tingman Rock|seus dois empregos]] e que tem cara de morto. O seu desafio é achar o prato secreto de seu restaurante e coletar pistas como um detetive.
+**Ryme: Uma rapper que jogou muito [[Friday Night Funkin']] e se acha a melhor da região. O seu desafio é "fazer batalhas de rap" contra seus fãs, ou seja, batalhar mesmo, porque isso seria muito [[cringe]] até mesmo para os padrões de [[Pokémon]].
+**Tulip: Uma vendedora de perfumes [[Jequiti]] que possui uma empregada e amiga com benefícios. O seu desafio pré-batalha é jogar [[Wii Fit]] com a sua empregada e algumas batalhas extras.
+**Grusha: O líder de ginásio [[trap]] que enganou vários punheteiros. O seu desafio é <s>não bater punheta acidentalmente para ele</s> fazer uma trilha de ski com o seu lendário e chegar no tempo.
+*'''Elite de 4 e Campeão'''
+**Rika: Uma chata que irá fazer um interrogatório antes da sua batalha. É o contrário do Grusha.
+**Poppy: Uma [[loli]] que ninguém sabe o que está fazendo aqui.
+**Larry: Sim, é o mesmo, já foi mencionado acima, só que agora ele treina espécies que brotam asas em vez de espécies que fazem nada, por que é proibido um Elite 4 desse tipo.
+**Hassel: O Elite 4 obrigatório que treina monstros calangos voadores. Também é um funcionário da escola do jogo.
+**Geeta: Queria ter a beleza da Diantha, porém a única coisa que as duas têm de igual é a facilidade.
+*'''Team Star'''
+**Giacomo: Um italiano que quis copiar o cabelo do [[Shadow the Hedgehog]] e que paga de [[DJ|tocador de Pendrive]] nas horas vagas.
+**Mela: Uma valentona esquisita que usa botas que ocupam metade de suas pernas, já que todo personagem tem que ter algo de esquisito.
+**Atticus: Um maluco fã de [[literatura]] [[Shakespeare|shakespeareana]] que fica falando como se estivesse em 1700, não é de admirar que ele sofra bullying.
+**Ortega: Filhinho de papai que adora se vestir como uma princesa da [[Disney]] e que é apaixonado por espécies do tipo fada.
+**Eri: Garota musculosa [[lésbica|que joga no outro time]] e que usa uma máscara para tapar o seu rosto por motivos desconhecidos.
+
+==Inovações==
+[[Arquivo:Bug Pokémon SV.png|230px|thumb|Um dos milhares de bugs existentes do jogo, [[Slenderman]] em uma versão [[family-friendly]] fazendo uma aparição nesse jogo.]]
+O jogo é o primeiro que a [[Game Freak]] promete ser em mundo aberto, mas não se sabe se isso é mais uma [[mentira|promessa de político]] da empresa. O jogo também confirma que a teoria das [[Regional Forms|formas regionais]] de [[Pokémon Legends: Arceus|Hisui]] ser extinta era uma grande de uma mentira, já que o jogo conseguiu arranjar um modo de enfiar as Hisuian Forms no jogo, como o caso de Hisuian [[Zoroark]], mas não se sabe se todas elas irão participar desse surubão de pokémons.
+
+Depois do sucesso das [[Mega evolução|Mega evoluções]], e do ódio da fanbase pelos sucessores [[Z-Moves]] e [[Dynamax]], foi revelada a mecânica cancerígena que irá substituir os pokémons gigantes, que é a [[Terastal]], uma mecânica que irá adicionar um design cristalizado em todas espécies presentes no jogo, além de colocar um chapéu estiloso à la [[Team Fortress 2]] e que irá deixar alguns golpes mais fortes de acordo com o tipo escolhido da cristalização de pokémons, o que irá ajudar alguns pokémons com golpes quebrados. Como de início iria ajudar os pokémons de apenas um tipo, e a [[The Pokémon Company|TPC]] quer de qualquer jeito dar um título de VGC para o [[Charizard]], agora a Teralistalização irá ajudar os pokémons de duplo tipo, dando 2 a 3 bônus de ataques.
+==DLCs==
+Assim como o jogo anterior, Sword e Shield, Scarlet e Violet também foi atingido <s>pelo câncer</s> pelas DLCs...ou segundo o fã de Pokémon, conteúdo de expansão, já que elas fizeram muito sucesso e conseguiram o milagre de fazer um jogo medíocre como Sword e Shield chegar ao top 3 de jogos mais vendidos. Aqui, novamente duas histórias relacionadas aos jogos, que é a '''Hidden Treasure of Area Zero''', que tentará contar o resto da história sobre o buracão de [[Paldea]], o que significa aquele bando de dinossauro e robô perdido na região, além de uma história que tentará copiar [[Momotaro]] em Kitakami, a [[Andorra]] que foi colonizada pelo Japão. Como segunda DLC do jogo, temos a '''The Indigo Disk''', que é a DLC competitiva do jogo que explorará a ilha de [[Sealand]], que dessa vez ficaram tão ricos que conseguiram instalar vários climas diferentes embaixo d'água e até mesmo uma Elite 4 especializada. Aqui é aonde finalmente voltam todos os [[pokémon inicial|iniciais do jogo]] que faltavam e terá um monte de cânceres para o competitivo do próximo ano.
+==Notas==
+Enquanto várias coisas em relação a Sword e Shield foram resolvidas, o jogo mesmo assim conta com vários problemas, como bugs, travamentos, personagens e pokémon saindo fora do mapa sem querer e principalmente quedas absurdas de FPS que fez que até os críticos da mídia especializada que adoram lamber as bolas de jogos feitos pela [[Nintendo]] e suas filhas começarem a reclamar do jogo, ou seja, a coisa ficou feia, menos para o bolso da [[The Pokémon Company]].
+
+{{Pokémon games}}
+
+[[Categoria:Jogos da Game Freak]]
+[[Categoria:Jogos da The Pokémon Company]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos para Nintendo Switch 2]]
+[[Categoria:Jogos de RPG]]
+[[Categoria:Jogos lançados em 2022]]

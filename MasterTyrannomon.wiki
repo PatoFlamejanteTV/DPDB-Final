@@ -1,0 +1,62 @@
+{{Digi}}
+{{Reptil}}
+
+{| align=right cellpadding=3 cellspacing=0 style="float:right; margin-left:1em; border:2px solid #000000;"
+!colspan=2 bgcolor=gray|<font color="#ffffff" size="3">'''MasterTyrannomon'''</font>
+|- 
+|colspan="2" align=center |[[Arquivo:MasterTyrannomon b.jpg|150px]]
+|-
+!bgcolor=#808080 colspan=2|
+|-
+!bgcolor=gray style="border-bottom:1px solid #676767;"|<font color="#ffffff">Nome:</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|MasterTyrannomon
+
+|-
+!bgcolor=gray style="border-bottom:1px solid #676767;"|<font color="#ffffff">Nível:</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Perfeito
+
+|-
+!bgcolor=gray style="border-bottom:1px solid #676767;"|<font color="#ffffff">Tipo:</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|dinossauro
+
+|-
+!bgcolor=gray style="border-bottom:1px solid #676767;"|<font color="#ffffff">Atributo:</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Dados
+
+|-
+!bgcolor=gray style="border-bottom:1px solid #676767;"|<font color="#ffffff">Campos:</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Rugido do dragão
+|-
+!bgcolor=gray style="border-bottom:1px solid #676767;"|<font color="#ffffff">Evolui de:</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|[[Tyrannomon]]
+|-
+!bgcolor=gray style="border-bottom:1px solid #676767;"|<font color="#ffffff">Evolui para:</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|[[Samudramon]]
+|-
+!bgcolor=gray style="border-bottom:1px solid #676767;"|<font color="#ffffff">Parceiros</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Qing Long e Líder Takuto
+|}
+[[Arquivo:Mastertyranomon.gif]] '''MasterTyrannomon''' é um digimon dinossauro.
+
+== Historia ==
+Ele era um Tyrannomon [[Jeremias José do Nascimento|cabra-omi que bebia com o Cão e que matava mais de mil]] e depois muitas batalhas ele evoluiu para MasterTyrannomon e por isso ele tem essas cicatrizes. Ele atualmente é o líder de um grupo de Tyrannomons.
+
+== Aparência ==
+Ele é igual ao Tyrannomon ou seja corpo de um dinossauro kawaii com escamas verdes nas costas, mas com a pele cinza e o corpo cheio de cicatrizes de batalhas como dito acima.
+
+== Aparições ==
+*'''Digimon World:''' MasterTyrannomon é o chefe de Tyrannomon e o envia para se juntar à cidade após a derrota de [[Meteormon]].
+*'''Digimon World 3:''' MasterTyrannomon aparece como um chefe que você deve batalhar para obter permissão para lutar contra o líder <s>de ginasio</s> da cidade de Seiryu. Ele pode ser encontrado no Vale Tyranno.
+
+== Técnicas ==
+*'''Master Fire:''' libera uma aura vermelha, acumula energia e expira uma chama com força suficiente de sua boca.
+*'''Master Claw''' : Perfura e esmaga o inimigo com suas enormes garras.
+*'''Explosão de Hiper Calor: '''Derrama brasas superaquecidas de todo o corpo.
+*'''Recuperação Zen:''' Recupera todos os parâmetros reduzidos para si mesmo e seus aliados.
+
+== Veja também ==
+*[[Tyrannomon]]
+*[[DarkTyrannomon]]
+*[[MetalTyrannomon]]
+{{Digimons}}
+[[Categoria:Dinossauros]]

@@ -1,0 +1,49 @@
+<choose>
+<option>{{agua}}</option>
+<option>{{artropode}}</option>
+</choose>
+
+{{pokedex}}
+{{PokéBox
+| imagem = Golisopod.jpg 
+| frase = {{c|!|Golisopod used First Impression!}}
+| nihongo = グソクムシャ
+| romaji = Gusokumusha
+| pokedex = 768
+| tipo1 = Bug
+| tipo2 = Water
+| habilidade1 = Fugir covardemente da batalha
+| habilidade2 = 
+| espécie = Artrópode escroto de seis braços
+| cadeia evolutiva = [[Arquivo:WimpodSprite.gif|link=Wimpod|Wimpod]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:GolisopodSprite.gif|Golisopod]]}}
+
+
+{{C|Meu pokémon favorito!|Guzma|Golisopod}}
+{{c|Odeio esse inseto feioso!|Alguém|Golisopod}}
+{{C|!|Golisopod|usar First Impression na pessoa que fez o comentário acima}}
+{{C|Aquela [[merda]] do [[Wimpod]] vira isso?|Pessoa arrependida por ter ignorado o Wimpod}}
+{{c|Tá querendo que eu te espanque?|Guzma|alguém que odeia Golisopods}}
+{{c|...|Machamp|Golisopod possuir mais braços}}
+
+'''Golisopod''' é mais um dos novos e inúteis pokémons da sétima geração, do jogo Pokémon Sun & Moon. É a evolução do [[Wimpod]] quando consegue algum treinador que o aguente e o evolua até o nível 30.
+
+==Composição==
+[[Arquivo:GolisopodReal.jpg|175px|thumb|left|Nunca mexa com um desses, ou poderá te comer. (<s>nos dois sentidos</s>)]]
+Golisopod é um pokémon inseto, mais especificamente um [[artrópode]] que possui total de seis braços e adora causar medo nas [[guria retardada|gurias retardadas]] que jogam o jogo. A espécie de Golisopods foram descobertas por sorte por causa de um [[vagabundo|desocupado]] que teve coragem de passar vários níveis com um [[Wimpod]], mesmo levando [[bullying]] várias vezes pelo fato de Wimpod ser uma espécie inútil que foge quando sua vida está baixa.
+
+Depois de <s>ser torturado a</s> passar trinta níveis com um Wimpod (já que é mais fácil que na primeira geração a passar vinte níveis com [[Magikarp|um peixe totalmente inútil]]), seu Wimpod evoluiu para uma criatura gigante e bípede (já que os designers possuem [[tesão]] por criaturas bípedes) e possui uma pele clara, com olhos pretos, com uma máscara roxa nos olhos e além disso, também possui seis mãos, mas o Golisopod apenas usa suas duas maiores <s>que adquiriu esse tamanho a longo tempo depois [[punheta|de bater]] com as duas mais que as outras quatro</s>, ficando com as outras quatro apenas de enfeite.
+
+Mesmo sendo um pokémon absolutamente covarde como visto na região de Alola, já em Galar, o Golisopod geralmente se envolve em tretas com o [[Grapploct]] perto de barcos afundados, onde acabou virando uma treta tão pesada entre as duas espécies que acaba resultando na [[morte]] do perdedor na luta entre os dois.
+
+==Uso==
+No jogo é usado principalmente pelo vilão secundário do jogo [[Guzma]], no qual é seu principal pokémon <s>e amigo sexual</s> dele, e o usa em todas as batalhas, no qual fez um plano para [[roubo|pegar emprestado]] todos os cristais de Z-Move do tipo Inseto para ele usar para colocar em seu próprio Golisopod, mas não tinha uma pulseira pra isso e aboliu seu plano. Mesmo sua forma [[ironia|atraindo]] maioria dos [[Genwunner]]s presentes para tentar dar apelidos [[sarcasmo|carinhosos]] para os novos <s>digimons</s> pokémons.
+
+Golisopod entre os <s>infinitos</s> inúmeros pokémons do jogo, no primeiro jogo já foi muito usado, mas como existem 2372482425 pokémons de água que foram adicionados nas segundas versões, foi superado pelo [[Greninja|sapo modinha que ficou mais conhecida por]] [[Ash Ketchum|uma mula]] e [[Gyarados|aquela criatura que não se sabe como é voadora]], e outros mais fortes. Comparando com sua popularidade de uso como um pokémon de tipo Água e de tipo Inseto, ele já conseguiu quase tocar o terror em todo mundo, mas perde para [[Pheromosa|o inseto lutador de cílios longos]] nessa categoria durante os [[Pokémon World Championships|competitivos]] <s>que [[ninguém se importa]]</s> dos jogos.
+==Seus principais golpes==
+Golisopods possuem uma grande força ([[ou não]]) e contém um principal [[Secretão]], no qual chama de ''First Impression'', ou também conhecido como ''[[!]]'', é seu principal e golpe especial dele, onde terá prioridade (até mesmo contra [[Talonflame|pássaros que adoram golpes de usar a prioridade em seu favor]]) quando se encontra com qualquer adversário, poderá ter altas chances de foder completamente o adversário, acabando com toda a vida dele, ou poderá sobreviver, se possuir muita sorte.
+
+==Ver também==
+*[[Guzma]], seu <s>molestador</s> principal usuário.
+{{Poke7}}
+
+[[Categoria:Isópodes]]

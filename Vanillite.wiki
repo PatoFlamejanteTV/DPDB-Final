@@ -1,0 +1,62 @@
+{{gelado}}
+{{PokéBox
+| imagem = Vanillite.png
+| frase = {{C|É, eu sou um sorvete mesmo [[L. Lawliet|L]], mas, porque? Peraí...Que cara é essa L? [[AAAA|AAAAAAAAAAH!!!]]|Vanillite}}
+| tamanho = 210
+| pokedex = 582
+| nihongo = バニプッチ
+| romaji = Vanipeti
+| tipo1 = Ice
+| tipo2 =
+| habilidade1 = Armadura de casquinha
+| espécie = Sorvetinho Light
+| cadeia evolutiva = [[Arquivo:VanilliteSprite.gif|link=Vanillite]] [[Arquivo:Seta.JPG|30px|Level 35]] [[Arquivo:VanillishSprite.gif|link=Vanillish]] [[Arquivo:Seta.JPG|30px|Level 47]] [[Arquivo:VanilluxeSprite.gif|link=Vanilluxe]]
+}}
+
+{{Você quis dizer|Vish!!}}
+
+{{Experimente também|Sorvetinho}}
+
+{{C|Um mini-sorvete de baunilha por favor.|Você|pedir um Vanilite na sorveteria}}
+{{C|Vou te comer! Vou te comer! Vou te comer!|[[Majin Boo]]|Vanillite}}
+{{C|Vamos brincar de guerra de bolas de neve?|Uma criança para outra}}
+{{C|Mas não tem neve.|Outra criança, respondendo}}
+{{C|Sem problemas! Vamos tacar nossos Vanilites um no outro!!!|A solução}}
+
+[[Arquivo:VanilliteSprite.gif|left|link=‎]] '''Vanillite''', de nome cientifico ''Sorvetinho geladinho bonitinho e gostosinho'' é o primeiro estágio da Cadeia evolutiva dos Pokémon sorvetinhos, que segue dele, até o [[Vanilluxe|Sundae com multi-face e canudinho]], esse belo sorvetinho, ocupa o número #582 da National Dex.
+
+== Dados ==
+
+Vanillites dormem cobertos de neve, mas isso é ruim pois quando acordam a neve do corpo se mistura com a do ambiente e fica uma zona pra conseguir sair de lá inteiro. Dizem que o primeiro Vanillite surgiu num dia tranquilo,no quinto dus inferno quando a Mula de Pallet foi se refrescar num carrinho de sorveteria ambulante,mas de repente um idiota derramou ácido ou a meleca de um [[Muk]] no sorvete e deu nisso, com pistache e tudo!
+
+O bafo de um Vanillite é tão gelado que se você tentar ouvi-lo de perto, pode acabar tendo uma hipotermia. Entretanto, ele ainda é o favorito dos treinadores mais jovens, que gostam de sempre terem um lanchinho disponível quando vão sair em jornada, e nada melhor que um sorvete!
+
+== Aparições ==
+
+[[Arquivo:Vanillite careca.png|thumb|left|260px|Vanillite, após sua cobertura ser comida por macacos. Agora só resta o delixioso bombom de chocolate brnaco que forma sua cabeça.]]
+
+Nos jogos, para achar um, você tem que esperar ser inverno. Pois é, se você comprou o jogo e começou a jogá-lo na primavera, terá que esperar o ano inteiro até poder completar a sua [[pokedex]] por causa disso. Nem pense em tentar dar algum jeitinho de arranjar ele em outra estação aliás, pois no verão por exemplo, eles tem a péssima mania de derreterem completamente.
+
+No anime, um Vanillite aparece nas mãos de [[Trip (Pokémon)|Trip]], o rivalzinho chato da vez, que o usou para tentar capturar um [[Palpitoad]] selvagem. A mundialmente famosa [[Ash Ketchum|Mula de Pallet]] apareceu e estragou tudo, tentando comer o Vanillite, lambendo o Palpitoad selvagem pra tentar se drogar e ainda por cima tentando seduzir o seu rival loiro usando cantadas patenteadas como "''quer conhecer o meu Pika no seu chu?''", ou "''Eu quero ver o seu [[Squirtle]]''". Tripa não gostou nada disso e teve uma batalha com o rival, a qual terminou em empate, já que o pobre Vanillite não teve como vencer do [[Tepig]] inimigo, que alem da vantagem de tipo e do fato de ser um porco, estava também morto de vontade de devorar o pobre sorvete e... bom, foi o que ele fez.
+
+==Ataques==
+
+*'''Brisa Gelada''': Um ventinho fresco que ele solta para alegrar seu dia! Oh, que fofura!
+
+*'''Raio de Gelo''': Um raio gelado que te congela até a morte! Oh, mais fofo ainda não?
+
+*'''Cobertura de caramelo''': Cobertura com pedacinhos de chocolate crocante que vai muito bem em dias de calor.
+
+*'''Sorvete Mortal da McDonald's''': Um delicioso sorvete Invenenado Com veneno de [[Arbok]] e de [[Nidoking]] esse eu não tomaria.
+
+==Ver também==
+
+*[[Vanillish]]
+
+*[[Vanilluxe]]
+
+*[[Sorvete]]
+
+*[[Baunilha]]
+
+{{poke5}}

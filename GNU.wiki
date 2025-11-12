@@ -1,0 +1,31 @@
+
+
+ 
+{{compactar|
+{{C|Eu uso Linux!|[[Você]] sobre GNU}}
+{{C|Não Linux, GNU/Linux!|[[Richard M. Stallman]] sobre o comentário acima}}
+{{C|g-noooo|[[Richard Stallman]] sobre a pronúncia de GNU}}
+{{C|Como edita código fonte?|Novo no mundo do [[Unix]] que quer fazer seus programas pra automatizar processos}}
+{{C|GNU is NOT UNIX!!!|[[Nerd]] sobre idiota que botou [[Unix]] acima}}
+{{C|Na União Soviética, o GNU usa VOCÊ!!!|[[Reversal Russa]] sobre GNU}}
+{{C|O RMS só se acha...|[[Linux Torvalds]] sobre as correções do [[Richard Stallman]] de Linux pra GNU/Linux}}
+{{C|Tropas, ataquem!|[[Adolfinho]] sem saber como mexer no GNU/Linux}}
+{{C|É mais poderoso que [[Chuck Norris]]|[[Idiota]] sobre o poder do GNU/Linux}}
+{{C|Eu ouvi isso!|[[Chuck Norris]] sobre o comentário acima}}
+{{C|Não se sabe o paradeiro de um jovem.|[[William Bonner]] depois do que Chuck fez}}
+{{C|DROP THE WEAPON!!!|[[Jack Bauer]] para [[Richard Stallman]] usando o GNU/Linux}}
+}}
+[[Arquivo:Boi vaca.jpg|thumb|240px|O boi de baixo foi o que serviu de icone do projeto. O de cima é um boi representando a [[Microsoft]], a [[Adobe]] e a [[Autodesk]] juntas]]
+'''O Projeto GNU''' foi criado por [[Richard M. Stallman]] na esperança de conseguir [[mulheres]]. Infelizmente [[Chuck Norris]] ficou com raiva dele e forçou ele a criar outra das SADSL (Siglas Auto Depreciativas de Software Livre), tornando todos os seus softwares com siglas desagradáveis. Mas Chuck foi generoso e deixou [[Richard Stallman]] continuar o projeto GNU, sem deixar ele pegar ninguém.
+Então todo software do projeto GNU, as fundações do [[Linux]], apesar do [[Linus Torvalds]] não querer admitir têm siglas auto-depreciativas, como o '''wget''', Www.Gordo.Estranho.Tipoestúpido; '''bash''', Bourne Again SHell ele só faz de novo o que o antigo Bourne Shell já fazia; e por fim o pior; '''GNU''': GNU's Not Unix (GNU não é [[Unix]]).
+
+==Software==
+[[Richard]] foi tão idiota que só fez o sistema GNUos até a versão 0.2a, e ainda deixou pobres [[nerds]] esperando desde 1980 pela 0.2b! Apesar disso, o Stallman se vê no direito de criticar tudo e todos, como se fosse um rei. Rei ele só é dos tetudos que se vêem igual a ele: fodão quando de frente a um console e virgem broxa na vida real.
+
+==General Public License (GPL)==
+
+O GPL é um projeto de jerico que esse lunático teve para que qualquer [[programador|copiador de códigos da internet]] pudesse distribuir os códigos modificados qualquer código mal-feito de graça, sob a licença GPL.
+
+A licença GPL tem uma pegadinha no meio disso tudo. Quando algum desenvolvedor quiser ver seu projeto de programa funcionando, ele distribui seu protótipo [[POG]] de graça, de modo que alguém com mais EXP possa melhorar seu projeto. Só que depois de melhorado, este último não poderá sair vendendo por ai. O melhor que ele pode fazer é sair repassando o projeto, de novo. Mas a pegadinha está nesse passa ou repassa, o primeiro desenvolvedor (ou [[usuário|consumidor dessas drogas]]) vai poder pegar o projeto que ele mesmo homologou como GPL e fazer deste um programa pago. A vantagem desse 'modelo de negócio' está no custo com os funcionários (zero!).
+
+{{linux}}

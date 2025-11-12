@@ -1,0 +1,63 @@
+{{futebolismo}}
+
+{{Box ClubeFutebol
+|cor_clara         = yellow
+|cor_escura        = green
+|brasao            = Escudo do SE Picos.png
+|hino              = 
+|nome_oficial      = Sociedade Esportiva de Picas
+|origem            = {{PI}}-[[Picos]]
+|apelidos          = Abelha Rainha do Piauí
+|torcedores        = 
+|torcidas          = 
+|mascote           = [[Abelha|Abelhinha]]
+|ilustre           = 
+|estadio           = [[Gigantão da Malva|Gigantão da Malta]]
+|capacidade        = 5.400
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Piauiense
+|divisao           = Só há uma divisão no Piauí
+|títulos           = 
+|ranking           = {{mol}}°
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+{{Você quis dizer|CEP}}
+{{Você quis dizer|Time que só ganha em casa}}
+{{c|Nem em casa|picoense|SEP}}
+{{c|O orgulho da cidade|prefeito|SEP}}
+
+'''Sociedade Esportiva de Picos''' é um semi-inexistente do Piauí, que em alguma época ganhou alguns torneios se valendo pela regra do [[W.O.]], mas que nas suas raras participações na [[Copa do Brasil]], que foram só umas três vezes na vida, sendo que na ultima foi eliminado pelo [[Ceará Sporting Club|Ceará]] por 6 a zero em casa.
+
+Seu desempenho na [[Copa Piauí]] também é pífio, contando com meros dois vices, a SEP quase nunca se classifica para essa competição.
+
+Já no [[Campeonato Brasileiro]] jogou a série B em 1992, e a série C em  1995, 1997, 1998 e 2008 sendo que em 2008 foi eliminado pela [[Águia de Marabá]] por 6 a 0.
+
+== História ==
+
+=== Fundação ===
+[[Arquivo:Bumble-bee-man.gif|left|thumb|Mascote da SEP o Zangão macho do Piauí]]
+
+No dia 8 de fevereiro de 1976 foi fundado a Sociedade Esportiva de Picos, mais conhecida como SEP, e teve como jogo de estréia a vitória de 1 a 0 <s>não se sabe como</s> contra o Tiradentes.
+
+=== Década de 90 ===
+
+Nos anos 90 para fazer propaganda o prefeito Zé Neri investiu na SEP, resultado a SEP <s>comprou</s> ganhou 4 estaduais, mas como mandato de prefeito dura só 4 anos, o Picos depois disso nunca mais ganhou nada, só uma mera segunda divisão piauiense em 2007.
+
+== Estádio ==
+
+Seu estádio é o Helvidio Nunes de Barros que tem a capacidade 5.400 pessoas mas não enche nem 1.000 pessoas no jogo da SEP.
+
+== Mascote ==
+
+Seu mascote é o zangão pois gosta muito de dar o ferrão para os adversários.
+
+{{Campeonato Piauiense}}
+[[Categoria:Times de futebol do Piauí|Picos]]

@@ -1,0 +1,78 @@
+{{secundário}}
+{{pokedex}}
+<br />
+{{voador}}
+{{PokéBox
+| imagem = Fletchling.png
+| tamanho = 170
+| frase = Impiedoso.
+| pokedex = 661
+| nihongo = ヤヤコマ
+| romaji = Yayakoma
+| tipo1 = Normal
+| tipo2 = Flying
+| habilidade1 = Epírito impiedoso
+| habilidade3 = Tolerância zero
+| espécie = Pequeno robin impiedoso
+| cadeia evolutiva = [[Arquivo:FletchlingSprite.png|link=Fletchling|Fletchling]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:FletchinderSprite.png|link=Fletchinder|Fletchinder]]'''[[Arquivo:Seta.JPG|30px]]'''[[Arquivo:TalonflameSprite.png|link=Talonflame|Talonflame]]''
+}}
+{{Você quis dizer|Fletching}}
+
+{{C|Eu tenho que pegar esse [[Pokémon]]!|[[Ash]]|Fletchling}}
+
+{{C|Robin, para a [[Batcaverna]]!|[[Batman]]|Fletchling}}
+
+{{C|P-por favor, senhor Fletchling, tenha piedade de mim!|[[Qualquer um]]|Fletchling}}
+
+{{C|Destrua-os, meu filho|[[Ho-oh]]|Fletchling}}
+
+{{C|Cheep!|Fletchling|ele mesmo}}
+
+[[Arquivo:FletchlingSprite.png|left]] ''Fletchling'' é um [[Pokémon]] robin da sexta geração. Flecthling é impiedoso e come [[Staraptor|Staraptors]] no café da manhã. Se você batalhar com um Fletchling, ele impiedosamente irá mergulhar na sua barriga e arrancará seus órgãos.
+
+
+== Características ==
+[[Arquivo:FletchlingPlush.jpg|thumb|right|Uma pelúcia impiedosa do Fletchling. Que medo...]]
+Apesar de Fletchling ser um passarinho todo [[Emo|FoFiNhU]] e [[Otaku|Kawaii]], ele pode matar um [[Pokédex|elefante indiano]] com uma só bicada. Fletchling é o Pokémon mais poderoso de todos, até mais poderoso que [[Arceus]], [[Mewtwo]] e [[Pidgey]].
+Fletchling é um pássaro impiedoso com um corpo e asas cor de burro quando foge, cabeça laranja, patas e [[Cu|rabo]] pretos e uma listra branca no [[Cu|rabo]]. Fletchling também tem um olho que é da metade do tamanho da cabeça.
+
+
+== Quem Fletchling já comeu ==
+
+*Fletchling
+*[[Talonflame]]
+*[[Sua mãe]]
+*[[Sua namorada]]
+*[[Sua avó]]
+*[[Sua irmã]]
+*[[Sua tia]]
+*[[Cachorro|Seu cachorro]]
+*[[Megan Fox]]
+*[[Jessica Rabbit]]
+*[[Papagaio Gago]]
+*[[Eu]]
+*[[Você]]
+*E o [[Zoboomafoo]]!
+
+== Curiosidades ==
+
+Sabia que...
+
+*Fletchling é impiedoso?
+
+*O olho do Fletchling é um [[pinguim]]?
+
+*O canto do Fletchling é um aviso de que você irá morrer?
+
+
+== Ver também ==
+
+[[Starly]]
+
+[[Talonflame]]
+
+[[Fletchinder]]
+
+{{poke6}}
+{{esboço}}
+[[Categoria:Pássaros]]

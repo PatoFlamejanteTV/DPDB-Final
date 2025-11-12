@@ -1,0 +1,213 @@
+{{Ofensivo}}
+
+{|cellpadding="0" cellspacing="0" style="width:95%; background-color:{{{fundo}}};clear:both;margin:1em auto 1em auto;border:2px outset mediumaquamarine;background-color:mediumaquamarine;text-align:center;font-family:Trebuchet MS;"
+|-
+| style="width:50px;padding:2px" | [[Arquivo:Gnome-searchtool_blue.png|40px]]
+| valign="middle" style="height:50px;padding:4px;color:black;font-size:120%;line-height:120%" | ''<big>'''{{{1|{{PAGENAME}}}}} é uma pequena cidade desconhecida.'''</big><br /><font size="1">Você pode estar perdendo seu tempo à-toa ao ler sobre essa joça.</font>'''<br /><font color="white"><small>'''''{{Cidadezinha/frases}}'''''</small></font>
+| style="width:50px;padding:2px" | [[Arquivo:Sciences_de_la_terre.svg.png|40px]]
+|-
+|}
+
+{{Citar|Odeio esta [[bosta]] de cidade!.|Turista pensando estar em [[Rio Manso]]}}
+{{Citar|Adorei esta cidade! O pessoal tem meu jeito e minha cara|[[Luan Santana]] em passagem pela cidade de Bonfim }}
+
+[[Arquivo:vista cidade245.jpg|thumb|left|330px|Vista da Cidade de Bonfim]]
+Bonfim é mais uma tipica [[cidade]] de interior, não tem [[nada]] e quase não tem [[Aberração| habitantes]], é realmente um lugar onde [[você]] não quer ir.
+
+==História==
+A ocupação da região onde hoje se encontra o município de Bonfim remonta ao século XVII, quando as 6 marias do sertão Pernambucano são divididas, e cada uma parte para uma zona diferente. A atual área do município ocupava a região chamada Ribeira do Rio do Peixe, mas só no nome mesmo, por que o único peixe que tinha no rio era piranha. No mesmo século essa região começou a ser explorada quando Luis Quaresma Dourado, o homem não era dourado, de [[Minas Gerais]], e pela família Da villa do chaves, integrante da Casa da Torre, nos Estaites.
+Como modo de afirmar seu próprio controle remoto e o da coroa da sua esposa de origem portuguesa sobre as 6 marias a família abriu uma zona e  passou a conceder títulos (capitão-mor, sargento-mor entre outros) a quem pudesse ajudar a estabelecer o domínio sobre as [[putas]]. No início do Século XVIII chega a região o sargento-mor Antônio José da Cunha, grande fabricante de inchadas, estabelecendo uma grande fazenda e sendo o maior gado das marias,  que lhe deram a posse da área no ano de 1708. A época de sua chegada o fazendeiro estabeleceu contato com os indígenas denominados Icós-Pequenos – [[você]] deve imaginar o que é um ico–; o último relato sobre esses indígenas é datada de 1740, quando estavam aldeados pelo grande ico.
+Na segunda metade do século XVIII se estabelece na região a família Dantas, e em 1765 se estabelece na Fazenda São João o capitão-mor João Dantas Rothéa. Junto à fazenda de Dantas foram se estabelecendo varias outros prostibulos, segundo Pereira (2009) a existência de  uma propriedade contribuía para a aproximação dos novos moradores.
+Já no século XIX, entre 1855 e 1863, foi construída a nova casa, que marca um novo ciclo de desenvolvimento em São João do Rio do Peixe, que passa a ser distrito. Em 1881, o distrito é elevado a vila do chaves, sendo seu madruga o primeiro morador. Outros dois momentos importantes no desenvolvimento de Bonfim são a construção da estrada de ferro, um avanço além de seu tempo e a ciclo do urubu frito. A estrada unia o município ao estado do [[Acre]], fazendo com que a cidade ganhasse notoriedade no cenário nacional, por ser o unico meio conhecido de chegar no [[Acre]]. Já o ciclo do urubu frito impulsionou o crescimento urbano da cidade, dado que, por medo do movimento comandado por urubulino muitas pessoas abandonam as casas no interior e migram para os locais onde ainda se comia galinha.
+No período entre 1932 e 1989 o município passou a se chamar Antenor Belo Ramo, um homem com um belo "ramo", que foi pegador de casadas do Estado de Minas Gerais na década de 30. Com a promulgação da nova constituição de Mina sem dono todo mundo come, em 1989 a cidade retomou o antigo nome.
+
+{{DadosMunicípioBrasil   
+<!-- GeoID=3542602 -->
+<!-- Cabeçalho -->
+| nome                 = Bonfim
+| apelido              = 'A Cidade do Carnaval à Cavalo'
+<!-- Dados gerais -->
+| brasão               = Brasão bonfim245.jpg
+| bandeira             = Bandeira bonfim245.jpg
+| link_brasão          = 
+| link_bandeira        = 
+| aniversário          = [[7 de outubro]]
+| fundação             = [[31 de novembro]]
+| gentílico            = bom aqui é seu fim| 
+| lema                 = 'Somos inimigos do fim'
+| prefeito             = Dom jair corleone
+| partido              = DEM, PDS, PT,PR,PP,PV,PMDB,
+PTB, PDT, PCB, PSB,PTC, PTC, PRP, PPS, PP, PHS,PTN, PSOL, PR  
+| fim_mandato          = 2999
+<!-- Localização -->
+| mapa                 = MinasGerais Municip Bonfim.svg
+| latP                 = S | latG = 20 | latM = 19 | latS = 
+
+37| lonP  
+               = O | lonG = 44 | lonM = 14 | lonS = 20| 
+estado  
+             =  Minas Gerais
+| mesorregião          = Mesorregião do Cu do Mundo
+| microrregião         = Microrregião da Preguinha nº 3 do Cu do Mundo
+| região_metropolitana = [[Belzonte]]
+| vizinhos             = [[Belo Vale]], [[Rio Manso]], [[Crucilândia]], [[Piedade dos Gerais]] e   [[Januária]] [[Itauna]].
+| dist_capital         = 825,8
+<!-- Características geográficas -->
+| área                 =  muito poucos
+| população            = quase nenhum
+| data_pop             = Contagem da População 2010 - [[IBGE]]
+| densidade            = 0.1 
+| altitude             = o povo tem 0.5
+| clima                = quente, morno, frio e gelado
+| sigla_clima          =
+| fuso_hor             = -39
+<!-- Indicadores -->
+| idh                  = 0,001
+| data_idh             = [[PNUD]]/[[2000]]
+| pib                  = 99999
+| data_pib             = [[IBGE]]/[[2008]]
+| pib_per_capita       = 00.1| data_pib_per_capita  = [[IBGE]]/[[2008]]
+}}
+----
+
+== Formação Administrativa==
+[[Arquivo:santuario bonfim245.jpg|thumb|left|350px|Santuário de Senhor do Bonfim]]
+
+A freguesia de Bonfim foi criada  em 14 de julho de 1832 e o municipio criado em 16 de março de 1839, compreendendo a freguesia do mesmo nome e as freguesias de Piedade de Paraobeba e [[Mateus Leme]] todos fregueses do time de futebol [[acreano]].  Quando foi criado, com mais de 8000 de ki, o grande município de Bonfim, era um [[Super Saiyajin|saiyajim]] que dominava ao norte  [[Sabará]] e [[Caeté]], a leste [[Ouro Preto]] e [[Mariana]], ao sul [[Congonhas]] e São José del Rei (hoje [[Tiradentes]]) e a oeste  Tamanduá (hoje [[Itapecerica]]). Era um dos mais importantes de [[Minas Gerais]].
+Foi elevado a [[cidade]]  em 7 de outubro de 1860 com a denominação de Bonfim do Paraobeba, porém o nome não vingou, prevaleceu apenas Bonfim. 
+Em homenagem ao município, José Francisco  de Mesquita, que tinha esse nome por que erigiu uma mesquita, nobre político e comerciante nascido em Mariana, recebeu em 1841 o título de Barão de Bonfim, sendo subsequentemente  nomeado Conde, Visconde em grandeza(as mulheres o achavam grande) e Marquês de Bonfim.
+----
+
+== Geografia==
+
+Bonfim está situado no buraco do rio Paraobeba, cercada de montanhas de altitude entre 1 metros e 1.3 metros que fazem parte da serra pelada, divisora de águas entre as bacias das lavadeiras.  Desde 1956 é integrante da Região Metropolitana de [[Belo Horizonte]]. O município é bem servido de cursos d'pinga destacando-se os alambiques de Macaúbas e seus socios Águas Claras e Canoas, além da pinga Macaúbana, que em seu leito abriga duas usinas de álcool.
+
+==Demografia==
+[[Arquivo:feiosasB245.jpg|thumb|left|200px|Garotas Bonitas de Bonfim]]
+
+Na primeira metade do século XVIII, no seu apogeu, Bonfim chegou a ter 10 habitantes e hoje, mais de dois séculos depois tem básicamente a mesma população:  11 pessoas, sendo  50,6% de [[putas]], 39,7% de [[cornos]] e 9,7 de 'indefinidos' na linguagem técnica do IBGE, que quer dizer [[boiola]]s mesmo. Os bonfinenses são bem mestiçados. Temos muitos mulatos, cafuzos e mamelucos, o que produziu uma característica que diferencia as nossas mulheres das mulheres das outras cidades: têm [[bunda]]s protuberantes. Quando se encontra uma desprovida de glúteo é de família de imigração recente ou de fora. 26% da população vive na cidade e 74% na zona rural.
+Como o municipio tem 1 km² de área a densidade demográfica é de 0.1 hab/km².
+Desde que foi fundada, só houve três prefeitos diferentes: um mais ou menos, um ruim e um péssimo de ruim. Este ultimo e atual conhecido como Piá Ermir, ganha as eleiçoes toda vez que se candidata comprando votos, e garantindo emprego na prefeitura, que mais tem funcionarios coçando o saco ou fofocando do que serviço. A cidade está parada no tempo, por isso é motivo de estudos por físicos quanticos, pois é o unico local na terra onde o tempo não passa. 90% da população é matuta e não enxerga um palmo a frente da testa e vive sustentada no cabide de prefeitura ou puxando saco do Ilmo. Sr. Piá Ermir. Os outros 10% vão embora pois não aguentam aquele lugar cu sujo, ou se dopam com etanol puro, comprado no posto de gasolina pra aguentar a apatia e indolencia desta pequena minuscula cidade simplória. 
+
+Imundice e ruas cavadas de pedra ruim é café pequeno perto do atraso humano, social, financeiro moral e todo o tipo de atraso que se possa pensar. 
+
+Além disto é o único lugar do mundo onde pobre e rico tem a mesma vida (de merda), pois não adianta ganhar dinheiro se não onde o gastar em Bonfim. Em pleno centro da cidade há mais matagal do que na floresta do Congo. 
+
+Turismo em Bonfim é um mito, pois a cidade não tem vocação pra nada.
+----
+
+==Educação==
+
+[[Arquivo:folia de reis245.jpg|thumb|left|230px|Folia de Reis]]
+Da população de 6.816 pessoas, 57% são [[anal]]fabetos funcionais (sabem ler pelo menos), 13% sabem apenas assinar o nome com dificuldade e 30% são [[anal]]fabetos de pai e mãe. Na cidade temos  3.567 pessoas frequentando escolas, 90% cursam o pré-escolar, 5%  cursam o ensino fundamental, 4% cursam o ensino médio e 1% cursam faculdades em [[Itaúna]] outras cidades da região. São 22 mulheres e 14 homens e 'indefindos'. A maioria das mulheres cursa Artes Marciais, putaria, Ioga e Arte Culinária e os homens e 'indefindos' cursam  Letras, Artes Plásticas, Corte e Costura e [[Balé]].
+----
+
+==Saúde==
+[[Arquivo:médico estagiário figado2.jpg|thumb|left|330px|Médicos Estagiários]]
+A cidade não tem  hospital e todos os que precisam de assistência médica morrem ou  tem que ir de ambulância para [[Betim]] ou [[Belo Horizonte]] para morrerem um pouco mais longe, pois são tratados como pessoas de segunda classe. Registra-se a média de 286 óbitos por ano, sendo 5% de [[AIDS]], 15% de intoxicação por anabolizantes e [[droga]]s, 8% de acidentes de automóvel, 10% de acidente de motocicleta, 5% por acidentes com animais, 20% por erro médico e 37% de velhice e outros motivos que os médicos (???) estagiários não descobriram ou não tiveram tempo de consultar o curandeiro. Se os médicos formados que trabalham na rede pública são uma [[bosta]], imaginem então os estagiários? Não sabem nem de que lado fica o fígado... Só sabem dizer que você tem uma virose e te receitar dipirona, que na farmácia não tem, porque acabou.
+
+----
+[[Arquivo:casario centro 2245.jpg|thumb|left|280px|Casario de Bonfim]]
+
+==Turismo==
+A cidade tem casarios antigos e cheios de cupim que merecem ser demolidos. Com relação aos eventos o mais importante é o Carnaval à Cavalo e  a sua sátira o Bando. Também merece destaque a Cavalgada realizada no mês de outubro e a Festcana. 
+As Festcana  é uma doideira. Via de regra, uma carreta de som no volume máximo estacionada num canto da praça toca música baiana  a noite inteira e as virgens da cidade (19 moças pela última estatística), as que já foram virgens,  os [[boiola]]s, os candidatos a boiolas,  ficam pulando e levantando as mãos alucinadamente. O efeito do [[álcool]] e de 'outras cositas' fazem liberar os instintos e a consequência e a diminuição do número de virgens e o aumento do número de [[veado]]s. A turma dos candidatos a veado, depois de tomar tudo o que conseguem ficam tontos, largados e carentes e no outro dia amanhecem com uma dorzinha danada na hora de [[cagar]]. Segundo um psicólogo que apareceu no programa da [[Ana Maria Braga]], na [[Globo]], isto não quer dizer nada, segundo ele, se uma pessoa tomar umas cachacinhas de vez em quando pode ser chamado de alcoolatra? E se der a [[bunda]] de vez em quando pode ser chamado de [[homossexual]]? Será? [[Eu]] acho que sim.
+
+A cavalgada é no carnaval!!!
+
+
+----
+
+==Carnaval à Cavalo==
+
+[[Arquivo:patrocinador melhor.jpg|thumb|center|500px|]]
+
+[[Arquivo:carnaval a cavalo245 B.jpg|thumb|right|280px|Carnaval à Cavalo]]
+[[Arquivo:bando245.jpg|thumb|left|230px|O Bando]]
+
+
+O Carnaval à Cavalo é tradicionalmente festejado em Bonfim desde 1840. Foi introduzido pelo [[Chico Buarque]], que pretendia dar um significado ao Carnaval com o folguedo da guerra entre Mouros e tesouros. Este folguedo é bastante popular em todo o nordeste brasileiro desde o final do século XVIII, principalmente na [[Bahia]], com eventos principalmente em Prado, Caravelas, Alcobaça e Cachoeira. Em [[Poconé]] no [[Mato Grosso]] e em [[Pirenópolis]], [[Goiás]] também são realizados estas simulações de combate. A maioria dos eventos são realizados no mês de janeiro. O de [[Pirenópolis]] é realizado 90 dias após a [[morte]]. A diferença do evento de Bonfim é a sua realização durante o Carnaval e a ostentação das fantasias. Cavaleiros da alta sociedade bonfinense, montando valiosos cavalos enfeitados, se fantasiam de Mouros e tesouros e digladiam simbolicamente com longas lanças. Gastam fortunas para fazer esta apresentação durante o [[Carnaval]], que atrai turistas bobos iludidos pela propaganda que fazem do evento em todos os canais de televisão.  Não tem graça nenhuma a não ser para aqueles que adoram ver bonitos cavalos e os [[veado]]s que admiram as fantasias no estilo 'ancien régime' francês, parecidas com as ridículas criadas por [[Clóvis Bornay]] para os concursos de fantasias do [[Rio de Janeiro]] na década de 1980. A elite da cidade vibra com o evento e cada um quer mostrar ser mais rico e poderoso do que o outro. Contratam bordadeiras e costureiras que ficam um ano inteiro preparando as fantasias para o evento.
+Uma sátira do Carnaval á Cavalo é o 'Bando', onde rapazes e moças usando  cavalos comuns e fantasias satíricas imitam a festa dos riquinhos. É realizado algumas semanas antes do Carnaval, sendo mais interessante do que o Carnaval à Cavalo pois algumas vezes, como protesto social as fantasias ridicularizam figurões da cidade e do estado que fizeram alguma [[merda]].
+
+----
+
+==Economia==
+[[Arquivo:artesanato bucha vegetal245.jpg|thumb|left|100px|Artesanato em Bucha Vegetal]]
+O município tem a sua economia baseada na pecuária leiteira,  na produção de hortifrutis, na produção de bucha vegetal e na exportação de [[puta]]s para [[Betim]] e [[Belo Horizonte]]. 
+----
+
+== O Que Não Falta em Bonfim==
+*  caipiras de Piedade dos Gerais entupidos de anabolizante, falando qe "É tudo NATURAL" para impressionar as "MOÇAS DE FAMÍLIA (??)" de Bonfim
+*  pescador que rouba peixe na Copasa( a famosa Barragem )
+*  morena gostosa e provocante
+*  quarentona rica, enxuta, peituda e fogosa na Festa do Carnaval à Cavalo 
+*  mulata bundudinha e gostosinha
+*  mulher feia e simpática
+*  mulher feia e antipática
+*  mulher feia, rica e sem [[bunda]]
+*  mulher feia, muito feminina, inteligente (de óculos), sem bunda, sem peito e que adora as músicas da [[Maria Gadú]] 
+*  beata e papa-hóstias
+*  fiéis que comungam na missa sem confessar
+*  [[maconha]], [[crack]] e [[cocaina]]
+*  vagabundo
+*  cavalo bonito[[Arquivo:amazona carnaval245.jpg|thumb|left|230px|Amazona no Carnaval à Cavalo]]
+*  amazona gostosa
+*  [[cachaça]]
+*  moto sem documentos 
+*  puta gorda, de vestido vermelho ou rosa
+*  os filhos delas
+*  [[boteco]]
+*  puxa saco de politico
+*  [[corno]] manso e conformado
+*  [[boiola]]s assumidos
+*  boiolas enrustidos (ainda no armário)
+*  boiolas que foram para [[Belo Horizonte]] e visitam a cidade com a cara e os trejeitos do [[Luan Santana]]
+*  homem barrigudo, careca e [[broxa]]
+*  promessas falsas  de politicos
+*  bobo pra acreditar nessas promessas
+*  pessoal que fala mal das meninas da cidade
+*  motorista sem carteira (alguns dirigem melhor dos queos que têm)
+*  mal pagadores[[Arquivo: Veadinho.gif|thumb|right||70px|]]
+*  professora despreparada
+*  pretinhas que não gostam de namorar pretos
+*  duplas metidas a cantar [[música sertaneja]] (e mal)
+*  dono de [[boteco]] que não sabe atender clientes e bebem mais do que eles
+*  [[baranga]]s que se acham gostosas
+*  mentirosos e mentirosas
+*  caipiras de [[Piedade dos Gerais]] e de [[Rio Manso]]
+*  homem de pinto pequeno que fala mal das mulheres que ele jamais vai pegar
+
+----
+[[Arquivo:moto roça.jpg|thumb|right|230px|único meio de transporte urbano de Bonfim]]
+[[Arquivo:quanta baboseira 245.jpg|thumb|left|230px|Quanta baboseira...]]
+
+== O que há Para Fazer em Bonfim==
+[[Arquivo:claudio bebado245.gif|thumb|left|550px|Um cachaceiro conhecido]] 
+* Frequentar a "Aldeia" e o "Caipirão do Campo", boates renomadas, frequentadas somente pela "Nata" Bonfinense
+* Nada
+* Andar a cavalo
+* Nada
+* Tomar cachaça
+* Nada
+* Pescar
+* Esperar o Carnaval à Cavalo
+* Assistir a missa, cochilar na hora do sermão, [[peidar]]  baixinho e comungar sem confessar
+* Sentar na praça e ficar falando mal dos outros
+* Nada
+* Ir na igreja evangélica pra vê as únicas moças virgens (??) da cidade. Aquelas que o pastor ainda não conseguiu assediar
+* Nada
+* Passear de moto com a namorada com calça de cintura baixa mostrando o rego da bunda
+* Ficar olhando o rego da [[bunda]] das namoradas dos cara de moto
+* Nada
+* Tomar cachaça
+* Falar mal do prefeito e dos vereadores puxa-sacos dele
+* Nada
+* Fumar um cigarrinho de palha (alguns com cheiro de mato verde??)
+* Nada
+* Ajudar a mulher do corno (aquele!) a ter um [[orgasmo]]
+* Nada
+* Ficar em turma sentado na porta do [[boteco]], sem camisa, de óculos escuros e tomando [[cerveja]].
+* Nada
+
+== Referências ==
+{{Minas Gerais}}

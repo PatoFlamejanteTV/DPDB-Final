@@ -1,0 +1,56 @@
+{{filo}}
+
+[[Arquivo:Rosabebe.jpg|right|200px|thumb|Mendel ainda bebê estudando para frequentar uma universidade.]]
+'''Gregor Mendel''' era um jovem frustrado por não ter realizado seu desejo de ir para universidade (para participar do baile de formatura e perder a virgindade) e ao invés disso foi confinado a uma carreira religiosa. Apesar de ser monge, o mancebo alimentou seu gosto pela ciência e passava horas e horas <s>vendo a Playboy do mês</s> observando o cruzamento de animais para seus estudos sobre <s>sexo</s> hereditariedade. Sendo assim o bispo da região considerando aquele ato <s> pervertido</s> inadequado para um padre com votos de castidade obrigou-o a mudar seu objeto de estudo. A solução encontrada por ele foi pesquisar <s>[[Hentai]]</s> vegetais, pois o bispo (<s> virgem</s>) não sabia que também existe sexo entre as plantas, coisa que Mendel sabia muito bem por ser admirador dessa arte. 
+
+O objetivo de Mendel era <s>ter uma desculpa razoável para sua perversão</s> entender a transmissão de características de pais para filhos. Ele foi capaz de <s>fazer indivíduos treparem</s> vislumbrar que existe uma diferença entre as características visíveis dos indivíduos (fenótipos) e as unidades responsáveis por essas características (genótipos). Concluiu isso principalmente após ver e comparar as Playboys da Helo Pinheiro e de sua filha Ticiane Pinheiro.
+
+As leis de [[Gregor Mendel|Mendel]] sobre a [[Hereditariedade|hereditariedade]] a partir de estudos com [[Ervilha|ervilhas]] todos que fizeram II Grau conhecem. O que é de desconhecimento geral é que seus primeiros estudos sobre o assunto foram com o cruzamento de [[Minhoca|minhocas]] com [[Chilopoda|centopeias]]. Dada a estranheza do estudo, Mendel sofreu séria desaprovação de sua pudica família, que considerava seus experimentos, além de uma profanação às criações divinas, uma grandessíssima babaquice. 
+
+O monge não foi compreendido em vida <s>quanto menos em morte</s>.
+
+==Primeiros experimentos==
+[[Arquivo:Centonhoca.jpg|right|thumb|Esquema de Mendel descrevendo uma Minhopeia. Ou uma Centonhoca.]]
+
+Os experimentos com animais foram batizados por Mendel de "Experiências com hibridização de seres rastejantes". Na 1ª geração obteve-se bichinhos com 50 patas, 25 de cada lado, que ele denominou “cinquentopeias” (por questão de coerência científica), perfeitas, em mais de 90% dos casos. Na geração seguinte, cruzando cinquentopeias perfeitas, os resultados já não foram assim tão impressionantes: 50% dos descendentes eram cinquentopeias, 25% minhocas e 25% centopeias.
+
+Entretanto, conforme citado, na 1ª geração houve 90 % de cinquentopéias perfeitas, com 25 patas de cada lado; os restantes 10 % tinham a totalidade (ou a quase totalidade) das 50 patinhas de um só lado do corpo e nada ou quase nada do outro lado. Ao tentar obter, por cruzamento, uma 2ª 
+geração destas cinquentopeias disformes, deu-se o impasse: como elas só tinham patas de um 
+lado, logo só andavam em círculos e nunca se encontravam para acasalar; não sendo possível então obter uma segunda geração.
+A partir daí, Mendel dirigiu seus estudos para vegetais, bem mais fáceis de cruzar: 
+começou com girassóis-anões da [[Tanzânia]] e depois com ervilhas de flores coloridas, que é o que conhecemos hoje de suas experiências.
+Como resquício de sua frustrante experiência com minhocas 
+e centopeias, Mendel (que era canhoto) ainda criou uma taxonomia das cinquentopeias disformes: Minhopeias, aquelas com patinhas à [[Direito|direita]] (centopeias, se vistas pela direita, minhocas, se vistas pela esquerda) e Centonhocas, aquelas com patinhas à [[Esquerdo|esquerda]] (centopeias, se vistas pela esquerda, minhocas, se vistas pela direita).
+
+Para piorar ele passou a duvidar de sua própria teoria após os experimentos com as centopeias e minhocas falhar e ser obrigado a estudar ervilhas.
+Porém foi com isso que sua sorte começou a mudar, pois com os estudos das ervilhas ele pode concluir que:
+[[Arquivo:Super01.jpg|right|150px|thumb|Exemplificando: passivo e recessivo.]]
+
+Representando por R, o caráter (dominante) e por r, o (recessivo). O F¹ resulta da união do gameta masculino com o feminino, logicamente receberá um gene de cada progenitor.
+
+Mendel comparava com a relação : ativo e passivo. Ativo no caso seria o dominante que ‘guiaria’ a situação e passivo o recessivo que é submisso.
+
+Cada pai em suas células possui RR ou rr, o F¹ será Rr. Os gametas de F1 serão R e r.
+Ao se cruzar as plantas, haverá a união do gameta masculino R ou r com o gameta feminino R ou r. O ovo resultante possuirá ambos os genes, sendo, portanto, híbrido, Rr.
+
+====Genótipo====
+É a constituição genética do indivíduo que apesar de não ter as características aparentes do pai ou da mãe ele possui seu gene.
+[[Arquivo:Gay01.jpg|right|150px|thumb|Seu vizinho, que preferiu seguir a carreira da mãe.]]
+
+====Fenótipo====
+É a manifestação das características do genótipo que nem sempre são visíveis, mas isso será determinado pelo fator dominante. 
+
+Temos como exemplo das duas situações aquele vizinho viado, ele herdou um gene de seu pai, porém, as características que se impõe são da mãe, principalmente se tratando da aparência e preferência sexual.
+
+====Monoibridismo sem dominância====
+
+Isso ocorre quando a equivalência de efeitos entre os dois membros de um dado par de alelos são iguais, resultando um heterozigoto ou híbrido com caracteres intermediários àqueles observados nos progenitores. Traduzindo, é quando há uma mistura dessas características formando uma só. Nesse caso não há dominante nem recessivo (é uma suruba onde não tem quem mande mais que o outro). 
+==Ver também==
+* [[Leis de Mendel]]
+
+[[Categoria:Biólogos do Império Austríaco]]
+[[Categoria:Matemáticos do Império Austríaco]]
+[[Categoria:Nascidos onde hoje é a Áustria]]
+
+[[en:Gregor Mendel]]
+[[ru:Грегор Мендель]]

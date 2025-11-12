@@ -1,0 +1,19 @@
+[[Arquivo:Microsoft Chat.jpg|thumb|Você olha assim e até pensa que essa rede era boa...]]
+
+{{pesquisar|Pai do [[MSN Messenger]]}}
+
+'''Microsoft Chat''', ou '''Microsoft Comic Chat''', foi um serviço de envio de mensagens instantâneas que existiu só nos sistemas operacionais do Windows da família 9x, ou seja, lá do final do [[século XX]], e que tentava concorrer como podia com sistemas muito melhores como o [[mIRC]], o [[ICQ]] e o [[Bate-papo Uol]] (quer dizer, esse último melhor não falar desses, esquece, eu não falei nada, ok?), inserindo um monte de funcionalidades como um [[avatar]] interativo (que você poderia mudar as expressões faciais e estilos dele, igual àqueles assistentes estranhos do [[Microsoft Office]] que ninguém mais sabe onde foram parar).
+
+Esse serviço era um dos muitos serviços do [[Microsoft Plus!]] que vieram no finado [[Windows 98]] dentro do [[Internet Explorer]] versões 0,3, 0,4 e 0,5 (é que a qualidade dessas merdas sempre foi tão ruim que até o primeiro devia ser numerado 0,1 e não 1.0) a partir de 1996, e outra finalidade que ele possuía era de rolar conversinhas usando de historinhas em quadrinhos, além de ter sido o programinha responsável pelo surgimento da fonte mais ridícula que um ser humano seria capaz de usar em qualquer tipo de lugar possível, a maldita [[Comic Sans MS]], que acabou sendo, juntamente com o surgimento de um serviço da [[Microsoft]] muito melhor <s>e mais saudoso</s>, o "Windows Messenger" (posteriormente MSN Messenger e Windows Live Messenger), enterrando o Comic Chat no limbo dos aplicativos que ninguém nem lembra mais que existiram.
+
+== Ver também ==
+
+*[[Windows Chat]], o pai desse outro.
+*[[Windows Messenger service]], ou WinPopup, o demônio dos primeiros Windows.
+*[[Microsoft V-Chat]], o MSN Messenger que deu errado.
+*[[BBM]]
+
+{{Esboço}}
+
+[[Categoria:Mensageiros instantâneos]]
+[[Categoria:Aplicativos do Windows|chat]]

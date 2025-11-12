@@ -1,0 +1,323 @@
+{{ver desambiguação|C|C}}
+{{compactar|
+{{c|UUUHHHGGG rrrrRRR!|Chewbacca quando da erro de compilação}}
+{{c|[[Java]] é melhor que C++ |Javeiro|C++}}
+{{c|C não é sexo|Oe Kintaro (Golden Boy) - sobre C}}
+{{c|Isso porque você não é inteligente o bastante para aprender C++ |C mais maiseiro|fã de Java}}
+{{C|cout << "Oi, eu sou Goku.." << endl;|Goku|C++}}
+{{c|Uma boa linguagem! ótima! sendo o melhor compilador/ambiente: Visual C++|Bill Gates|C++}}
+{{c|C++ é um insulto ao cérebro humano.|Niklaus Wirth, criador do pascal, sobre C++ (citação verdadeira)}}
+{{c|Porque????? As outras num são??????|Descíclope|a citação acima}}
+{{c|Eu tenho ponteiros, você não teeeem, lalálalálálá|Programador C++|Programador Java}}
+{{C|Eu também tenho|Relógio|comentário acima sobre C++}}
+{{c|Quem precisa de ponteiros é relógio|Programador Java|Programador C++}}
+{{c|Já acostumei com o choque de ver os súditos do deus JAVA quando descobrem que a JVM foi feita em C++!!|Criador do C / C++| "Codificadores" meias-boca JAVA}}
+}}
+
+[[Arquivo:Magicthegatheringc.jpg|thumb|right|200px|Carta C++, poder da confusão]]
+'''C++''' (pronunciado "cê mais mais", ou simplesmente "cê cruz cruz") é uma [[linguagem de programação]], muitas vezes é referida como Cpp (C da puta que pariu), criada por Bjarne Stroustrup com o propósito de deixar [[programadores|programador]] loucos, em um plano para eliminar a concorrência da [[Microsoft]] (que usa a [[POG|programação orientada a gambiarras]] em seus programas).
+
+Suas principais características são o paradigma orientado à desorientação e falta de sentido em geral, a incoerência de sintaxe, e ser melhor do que [[Java]]. A linguagem incorpora todas as vantagens da linguagem [[Linguagem C|C]], isto é, nenhuma, e todos os benefícios da orientação a objetos, isto é, poder fazer uma classe Quadrado que herda da classe Retângulo, com um incrível custo em performance por isso. Sendo assim, o C++ nada mais é do que uma liguagem que [[Emo|corta para os dois lados]], sendo orientado a objeto [[ou não]]
+
+== História ==
+
+Em [[1986]], a [[Microsoft]] terminou a fase de design de seu plano para dominação do mundo (contendo 902 casos de uso) e prosseguiu para a fase de implementação. Para tanto, contratou um estagiário para criar a linguagem C++.
+
+Sob o pseudônimo de [[Bjork Strudel]], resolveu batizar a linguagem de C++ pelo fato de, sempre antes de compilar, deve-se fazer o sinal da cruz. Ele publicou a especificação da linguagem que foi prontamente adotada por várias empresas espalhadas pelo mundo. Porém, somente quando era tarde demais os programadores perceberam que só loucos e/ou masoquistas conseguiriam implementar qualquer programa com mais de 100 linhas nessa linguagem. E então a Maicrossófiti dominou o mundo.
+
+Para combater o reino de terror instaurado por Bjarne Stroustrup, a [[Sun]] inventou a linguagem [[Java]]. Mas como todos sabem, Java é apenas para [[n00b]]s idiotas, porque não tem ponteiros (não fazendo a mínima ideia do que isso seja).
+
+== Paradigmas ==
+
+A linguagem C++ é famosa e amplamente utilizada por ser uma linguagem multi-paradigma. Basicamente, C++ encapsula o paradigma "desestruturado" de programação da linguagem C, cobrindo-o com uma cobertura mal feita de orientação ao "objetivo", permitindo métodos static em todas as classes sociais para a perfeita gambiarra ( digo, integração ). O resultado é uma maçaroca de classes que que herdam de outras em uma profundidade maior que o seu tatatatataravô, implementando uma mistureba de métodos static com ponteiros de função, variáveis globais, e structs, todos com ponteiros referenciados uns para os outros, criando-se uma teia de dependências que nem uma mulher rendeira saberia desembaraçar. Essas são as facilidades criadas pela programação orientada ao objetivo, ou seja, aquele programador que sempre mantém o "foco" bem claro do que está fazendo.
+
+== STL ==
+
+A STL ( standard Trash Library ) utiliza uma das vantagens do paradigma orientado ao objetivo ( os templates, iguais àqueles que roubamos dos sites dos outros ou pegamos na NET e colocamos em nossos blogs ) para encapsular e solucionar todos os problemas computacionais comuns em programação: Filas de banco, pilhas de papel, busca binária, trinária, quaternária e transcedental. Alguns templates básicos da STL são o vector (  ), o map ( mapa de ruas e avenidas ) e o List ( lista de bugs que você criou).
+
+== Boost ==
+
+uhuuuuu!!! O Boost veio como uma explosão nuclear, levou tudo pelos ares mais que o Chuck Noia quanto está nervoso e veio ao mundo para definitivamente botar ordem na casa, encapsulando tudo e qualquer coisa que um programador em C++ pode fazer no universo em uma única library. Assim, todo programador C++ doente mental que utiliza lógicas que somente ele mesmo entende perde na hora os argumentos, quando afirma que irá programar uma nova "solução": Essa solução sempre já existe no Boost!!! Pra que reinventar a roda??? Use o Boost!!!
+
+Como promessa de organizar a zona na casa e impedir que a liberdade da linguagem C++ permita que programadores malucos continuem expondo ( ou codificando ) suas maluquisses, marcando territórios com suas libraries próprias e dominando o universo, o Boost aparenta complicar mais ainda a vida de quem já tem softwares legados ( presentes de grego mal feito de outros programadores ) aonde para se encapsular o BOOST, é necessário comentar todo o código desde o Main e refazer tudo novamente.
+
+== int main( int argc, char* argv[]) ==
+
+Função mais popular e utilizada do planeta, a função main é conhecida também por ser a que mais contém paus, bugs e gambiarras, chegando a entrar pro Guinness ( livro dos recordes ) como o pedaço de código genérico que mais encapsulou bugs na história. 
+
+Uma das abordagens básicas e mais utilizadas para evitar bugs em qualquer programa C / C++ ( principalmente quando não foi você que escreveu o mesmo, só recebeu de presente e está se ferrando pra consertar ) é a tática mais que aprovada globalmente para evitar bugs: inserir try - catch no main:
+
+<pre>
+
+ int main(int argc, char* argv[])
+  {
+    try
+     {
+       //programa
+     } 
+      catch(Exception e)
+       { Messagebox(0,"Esse programa executou uma operação ilegal e será fechado.",0,0);
+       } 
+  }
+
+</pre> 
+
+== Exemplo de código ==
+
+O famoso [[Hello, World]] em C++:
+
+<pre>
+class CHelloWorldAppUi;
+class CEikApplication;
+class CHelloWorldAppView;
+
+class CHelloWorldApplication : public CEikApplication
+    {
+        public:
+            TUid AppDllUid() const;
+        protected:
+            CApaDocument* CreateDocumentL();
+    };
+
+class CHelloWorldDocument : public CEikDocument
+    {
+        public:
+            static CHelloWorldDocument* NewL(CEikApplication& aApp);
+            static CHelloWorldDocument* NewLC(CEikApplication& aApp);
+            ~CHelloWorldDocument(){};
+        public:
+            CEikAppUi* CreateAppUiL();
+        private:
+            void ConstructL() {};
+            CHelloWorldDocument(CEikApplication& aApp){};
+    };
+
+class CHelloWorldAppUi : public CEikAppUi
+    {
+        public:
+                void ConstructL();
+                CHelloWorldAppUi(){};
+                ~CHelloWorldAppUi(){};
+    };
+
+static const TUid KUidHelloWorldApp = {0x10005B91};
+
+GLDEF_C TInt E32Dll(TDllReason )
+    {
+    return KErrNone;
+    }
+
+EXPORT_C CApaApplication* NewApplication() 
+    {
+    return (new CHelloWorldApplication);
+    }
+
+CApaDocument* CHelloWorldApplication::CreateDocumentL()
+    {  
+    CApaDocument* document = CHelloWorldDocument::NewL(*this);
+    return document;
+    }
+
+TUid CHelloWorldApplication::AppDllUid() const
+    {
+    return KUidHelloWorldApp;
+    }
+    
+CHelloWorldDocument* CHelloWorldDocument::NewL(CEikApplication& aApp)
+    {
+    CHelloWorldDocument* self = NewLC(aApp);
+    CleanupStack::Pop(self);
+    return self;
+    }
+
+CHelloWorldDocument* CHelloWorldDocument::NewLC(CEikApplication& aApp)
+    {
+    CHelloWorldDocument* self = new (ELeave) CHelloWorldDocument(aApp);
+    CleanupStack::PushL(self);
+    self->ConstructL();
+    return self;
+    }
+
+CEikAppUi* CHelloWorldDocument::CreateAppUiL()
+    {
+    CEikAppUi* appUi = new (ELeave) CHelloWorldAppUi;
+    return appUi;
+    }
+
+void CHelloWorldAppUi::ConstructL()
+    {
+    BaseConstructL();
+    
+    try {
+      _LIT(message,"Hello!");
+      CAknInformationNote* informationNote = new (ELeave) CAknInformationNote;
+      informationNote->ExecuteLD(message);
+      }
+    catch(CExceptions::OutOfNormalExceptions::NameSpaceOfUncaughtErrorExceptionOutOfNormal::SubNameSpace::CUncaughtErrorExceptionOutOfNormal &exceptionofthedemo) {
+        std::cerr << exceptionofthedemo.GetCExceptionHandlerPointer()->GetCExceptionSubHandlerReference().GetStackTrace << std::endl;
+        SunJavaLibs::javapackages::java::lang::handlers::System::exit(&CSharpLibs::net::packages::exiterrors::CUncaughtErrorExceptionOutOfNormal);
+      }
+    }
+</pre>
+
+Humilhando...
+
+O mesmo programa em [[PHP]].
+
+<pre>
+<?php
+echo "Hello, World!";
+?>
+</pre>
+
+O mesmo programa em [[BASIC]]:
+
+<pre>
+10 PRINT "Hello, World!"
+</pre>
+
+O mesmo programa em [[Ruby]]:
+
+<pre>
+p 'Hello, World!'
+</pre>
+
+O mesmo programa em [[Dark Basic]]:
+Obs, A segunda linha só é necessaria na versão Pro.
+
+<pre>
+ print "Hello, world!"
+ wait key
+</pre>
+
+
+
+O mesmo programa em [[Python]]:
+
+<pre>
+ print('Hello, World!')
+</pre>
+
+
+O mesmo programa em [[Java]]:
+
+<pre>
+public class HelloWorld {
+ public static void main(String args[]) {
+  System.out.println("Hello World");
+  }
+ }
+</pre>
+
+O mesmo programa em [[JavaScript]]
+
+<pre>
+document.writeln("Hello World");
+</pre>
+
+O mesmo programa em [[Shell Script]]:
+
+Detalhe, a primeira linha é opcional.
+
+<pre>
+#!/bin/bash
+echo 'Hello, World'
+</pre>
+
+O mesmo programa em [[Pascal]]:
+<pre>
+writeln('Hello, World');
+</pre>
+
+O mesmo programa em [[C#]]:
+<pre>
+public class Programa
+{
+   public static void main(string[] args)
+   {
+      Console.Write("Hello, World");
+   }
+}
+</pre>
+
+O memsmo programa em [[VB .NET]]:
+<pre>
+Public Class Programa
+   Public Shared Sub Main(ByVal args() As String)
+      Console.Write("Hello, World");
+   End Sub
+End Class
+</pre>
+
+O mesmo programa em [[C]](onde C++ deveria ser igual...)
+<pre>
+int main(int argc, char *argv[])
+{
+   printf("%s\n", "Hello, World");
+   return 0;
+}
+</pre>
+
+Como pode-se observar, é muito simples a criação de um Hello World em C++, comparando com outras linguagens toscas.
+
+O mesmo programa em [[brainfuck]]
+<pre>
+<+++++++++++++>>>>>---------------
+</pre>
+
+== Compiladores ==
+
+C++ é famosa pela qualidade dos compiladores existentes. Todos são muito eficazes na detecção de erros e exibem mensagens que auxiliam enormemente os programadores. Por exemplo, ao esquecer um ponto e vírgula após uma declaração de classe, o compilador da [[Microsoft]] informa:
+
+ helloworld.h(52) : fatal error C1001: An internal error has occurred in the compiler.
+ (compiler file 'msc1.cpp', line 1392)
+ To work around this problem, try simplifying or changing the program near the locations listed above.
+ Please choose the Technical Support command on the Visual C++ 
+ Help menu, or open the Technical Support help file for more information
+
+Já o compilador do [[GNU/Linux]] exibe:
+
+ helloworld.cpp:7: error: new types may not be defined in a return type
+ helloworld.cpp:7: error: extraneous `int' ignored
+ helloworld.cpp:7: error: `main' must return `int'
+ make: *** [string.o] Error 1
+ Execution terminated
+
+A clareza das mensagens permite a correção imediata do erro de nosso distraído programador.
+
+== Integração com outras linguagens ==
+
+C++ é famosa também por ser suportada (mesmo sendo insuportável) por praticamente todas as linguagens de programação. 
+
+Exemplo de Integração com [[PHP]]:
+
+ for ($c = 0; $c < 10; $c++) {
+  echo "Uso de C++ em PHP";
+ } 
+
+
+Exemplo de Integração com [[Java]]:
+
+ for (int c = 0; c < 10; c++) {
+  System.out.println("Uso de C++ em Java");
+ } 
+
+==Ver também==
+
+[[Sexo#Algoritmo_do_Sexo_em_C.2B.2B|Sexo em C++]]
+
+{{Linguagens de Programação}}
+
+[[bar:C++]]
+[[el:C++]]
+[[en:C++]]
+[[fr:C++]]
+[[it:C++]]
+[[ja:C++]]
+[[ko:C++]]
+[[nds:C Plus Plus]]
+[[pl:C++]]
+[[ru:Си плюс минус]]
+[[uk:C++]]
+[[zh:C++]]
+[[zh-tw:C++]]

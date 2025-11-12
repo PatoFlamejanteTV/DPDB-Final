@@ -1,0 +1,76 @@
+A [[Copa Libertadores da América de 1967]] foi mais uma das Libertadores antigas, mas nessa as equipes Brasileiras recriaram a vergonha na cara e voltaram a aparecer, mas não parando o Spam de títulos dos Uruguaios e Argentinos.
+
+== Primeira fase ==
+
+{{C|Se eu não ganhar não tem graça...|Discurso do [[Santos FC|Santos]] na [[CONMEBOL]] justificando sua desistência do torneio}}
+
+O Cruzeiro até aceitaria participar, mas o Santos cagou e andou para o campeonato, pois não queria gastar dinheiro percorrendo um monte de Mato para encarar times estranhos e briguentos. Assim o Cruzeiro aceitou o convite e foi pra guerra para dar porrada nos [[América do Sul|latinos-americanos faladores de espanhol]], passando fácil em um grupo com alguns peruanos e venezuelanos meia-boca sem perder um jogo, como pode ver:
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Cruzeiro.png|21px]] [[Cruzeiro Esporte Clube|Time reserva do Cruzeiro]]
+|'''15'''||8||7||1||0||22||6||+16
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Universitario.png|21px]] [[Club Universitario de Deportes|Zé Droguinhas]]
+|'''11'''||8||5||1||2||11||8||+3
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:447997575 2f099e3f32 o.jpg|20px]] [[Sport Boys Association|Inútil]]
+|'''5'''||8||2||1||5||10||11||-1
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Ptbosta.gif|20px]] [[Fútbol Club Deportivo Galicia|Inútil]]
+|'''5'''||8||2||1||5||5||10||-5
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Pessoa vomitando.jpg|20px]] [[Petare Fútbol Club|Inútil]]
+|'''4'''||8||1||2||5||3||16||-13
+|}
+
+[[Arquivo:Racing 1967.jpg|thumb|right|225px|<s>[[Grêmio]]</s> [[Racing Club]] sacaneando o Nacional com uma bandeira do Uruguai.]]
+
+De resto as equipes Colombianas voltaram a disputar a Libertadores, mas só por participar mesmo, enquanto os Argentinos e Uruguaios atropelavam tudo.
+
+== Semifinal e Final ==
+''Na fase onde equipes Brasileiras são eliminadas'', o Cruzeiro se ferrou ao cair no "grupo" das múmias Nacional e Peñarol, ou melhor, apanhou feito [[puta]], pois amarelou nas duas vezes que foi para o Uruguai, sendo eliminado e dando [[Normal|mais uma história de eliminação]] na Libertadores.
+
+Já na final emocionante final, dessa vez foi a vez do Racing encher a linguiça de campeões da Libertadores, em 3 baitas partidas que tiveram 3 gols, pelo menos o Racing ganharia a Copa Intercontinental na base da porrada contra o [[The Celtic Football Club|Celtic]],  mais uma vez o Futebol Sul-Americano amedronta o [[Gay|Fresco]] Futebol Europeu.
+
+{| class="wikitable"
+|-
+!align=center  width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center  width="80"| Total ||align=center width="200"| Equipe 2 ||align=center  width="80"| Ida ||align=center width="80"| Volta ||align=center width="80"| Desempate* 
+|- 
+| align=center |1
+| align=right  | [[Arquivo:Escudo do Racing.png|21px]] [[Racing Club de Avellaneda|Rival do Independiente]]
+| align=center | 2–1
+| [[Arquivo:Escudo do Nacional do Uruguai.png|21px]] [[Club Nacional de Football|Internacional do Uruguai]]
+| align=center | 0–0
+| align=center | 0–0
+| align=center | 2–1
+|}
+
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Copa Libertadores da América de 1967<br/>
+|-
+![[Arquivo:Escudo do Racing.png|border|100px]]
+|-
+|align=center|[[Racing Club de Avellaneda|Racing Club]]<br />
+(1° título)<br />
+
+|}
+
+== Ver também ==
+*[[Copa Intercontinental]]
+
+{{Libertadores}}

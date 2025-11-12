@@ -1,0 +1,28 @@
+{{DISPLAYTITLE:湾岸 Midnight Club}}
+{{game}}
+
+{{Infobox Série Game
+|title         = Night Club
+|image_logo    = Night Club neon.png
+|caption       = Logo da série, eu acho
+|genre         = Corridinha
+|developer     = [[Rockstar Games]]
+|publisher     = [[Rockstar Games]]
+|origin        = [[PlayStation 2]]
+|first_release = [[Midnight Club: Street Racing]] (2000)
+|last_release  = [[Midnight Club: Los Angeles]] (2009)
+}}
+
+[[Arquivo: MIDNIGHT_CLUB_LOS_ANGELES_GALLARDO.JPG|thumb|left|Dois caras destruindo seus carros por que só tem isso para fazerem na vida]]
+
+'''''Midnight Club''''' é uma série de corridas noturnas e ilegais pertencente a [[Rockstar Games]], caracterizada pelo número absurdo de carros <s>atrapalhando</s> andando pelas ruas, uso de veículos da [[Gemballa]] por serem muitos caros os acordos para o uso autorizado de [[Porsche]]s e [[Ferrari]]s e pelo uso de [[Saleen]]s no lugar de [[Ford Mustang|Mustang]]s por causa da não autorização da [[Ford]] de que seus veículos sejam inseridos na série, [[chuva]]s absurdamente fortes, e pelo total desrespeito às leis da [[física]] <s>daquela donzelinha</s> do [[Newton]].
+
+Em Midnight Club, ao contrário de [[Need for Speed]], as corridas são feitas nas ruas abertas, sem aqueles muros feitos de luz, em que os corredores devem passar por todos os Checkpoints para vencer; e são realizadas em cidades reais como [[Atlanta]], [[Detroit]], [[Los Angeles]], [[San Diego]] e [[Tokyo]]. Além disso, <s>superando</s> contrariando novamente [[Need for Speed]], as corridas ocorrem em diferentes horários, como meia-noite, anoitecer e amanhecer, e em diferentes condições climáticas, como tempo limpo, nublado e chuvoso. <s>Superando</s> Contrariando ainda mais [[Need for Speed]], em '''''Midnight Club''''' estão disponíveis, em sua mais recente versão, mais de 60 veículos, incluindo [[SUV]]s, [[Tuner]]s, [[Muscle Car]]s, Luxury Sedans, [[Exotic]]s e até mesmo motos dos tipos [[Chopper]] e [[Sport Bike]]s.
+
+{{Rockstar}}
+{{Midnight Club}}
+{{Game Racing}}
+
+[[Categoria:Jogos da Rockstar Games]]
+
+[[it:Midnight Club]]

@@ -1,0 +1,31 @@
+{{Gastronomia}}
+{{Vegetal}}
+{{Vqd|Põe mel}}
+
+{{taxocaixa
+| nome           = Pomelo
+| cor            = #00FF7F
+| imagem         = Gatoemoouastronauta.jpg
+| imagem_legenda = Sim, isso na cabeça do gato já foi um pomelo algum dia.
+| reino          = [[Plantae|Plantinhas]]
+| superdivisão   = [[Spermatophyta|Plantas com esperma]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Eudicotidae|Eudissecotia]]
+| subclasse      = [[Rosídeas|Rosinhas]]
+| ordem          = [[Sapindales|Salpicadas]]
+| família        = [[Rutaceae|Arrotae]]
+| gênero         = [[Citrus (gênero)|Energil C]]
+| espécie        = [[Pomelo]]
+| binomial       = Energil C minimus
+}}
+
+'''Pomelo''' é uma [[fruta]] maldita da qual [[ninguém]] jamais ouviu falar aqui no [[Brasil]] (e nem em [[Portugal]], caso [[você]] faça parte dos 0,001% editores da [[Desciclopédia]] que são de lá), já que essa [[porra]] só se encontra na região [[sudeste]] da [[Ásia]], mais precisamente na [[Malásia]].
+==Aparência==
+A casca do pomelo pode ser [[amarela]] ou [[verde]]. Sua polpa é mais [[colorida]] ainda, podendo chegar a ser até mesmo [[roxa]]. É uma fruta cítrica da mesma [[família]] da [[laranja]] e do [[limão]], mas geralmente tem a forma de uma [[pera]] defeituosa.
+==Utilização==
+Para [[comer]], ora! Que outra utilidade uma fruta poderia ter? Lógico, se não quiser ingerir um pomelo inteiro de maneira natural, pode-se também optar por fazer [[suco]] com ele. Por ser [[rico]] em [[fibra]]s e conter muita [[vitamina C]], é altamente recomendado pelos [[médico]]s como [[laxante]] e [[remédio]] contra a [[gripe]]. As [[mulheres]] {{Strike|e os [[gays]]}} ainda utilizam o pomelo como [[matéria]] [[prima]] para diversos produtos de [[beleza]]. Segundo antigas [[lenda]]s, esta peculiar e desconhecida fruta seria o [[segredo]] de toda a saúde e longevidade do [[povo]] asiático. Mas [[você]] pode se entupir de pomelos que jamais viverá por tanto [[tempo]], sendo um [[brasileiro]] imundo nascido e criado na [[favela]] em meio a tantos [[traficante]]s.
+{{Esboço}}
+{{Frutas}}
+
+[[Categoria:Citrus]]
+[[Categoria:Espécies vegetais]]

@@ -1,0 +1,105 @@
+{{game}}
+
+{{Infobox Série Game
+|title         = Lorde Runner
+|image_logo    = Lode Runner JP.jpg
+|caption       = Ideia de como é o joguinho.
+|genre         = Jogo de Atari
+|developer     = [[Doug Smith]]
+|publisher     = [[Brøderbund]]
+|origin        = [[Apple II]]
+|first_release = [[Lorde Runner (jogo)|Lorde Runner]] (1984)
+|last_release  = [[Lode Runner 3-D]] (1999)
+}}
+{{vqd|[[Capitão Azul]]?}}
+{{vqd|Gold Miner em ASCII?}}
+{{vqd|Maior sucesso da Brøderbund?}}
+{{c|Pirrrriu...|Arma do Jake Peril}}
+{{c|FUUUUUUUUUU...|Você caindo no buraco que você mesmo criou e não há como sair}}
+
+'''Lode Runner''' foi um plágio do Miner no qual você deve catar todo o ouro das fases. Feito em [[1983]], pela [[Brøderbund]].
+[[Arquivo:Lordrunner 0005.png|left|thumb|Possível namorada de Jake Peril, por sinal gostosa.]]
+
+==O game==
+O game se conta em apenas um objetivo: Coletar ouro. O gamer fica na pele mixuruca e palitada de [[Jake Peril]], que em futuras redigitalizações, Jake ficou fodão. Jake deve desviar dos guardas fugindo ou criando buracos pra cair nele. São 150 níveis (50 em algumas versões). Os cenários nas primerias versões, são blocos azuis, o Jake e as escadas são brancas e o ouro e os robôs são rosados.
+
+===Vantagens de se jogar===
+
+* É legal;
+* Efeitos de som bons para a época;
+* A maioria das versões eram coloridas;
+
+===Desvantagens===
+
+* Repete tudo de novo depois de completar 150/50 níveis;
+* Alguns blocos contém "furos";
+* O Jake não pode pular;
+* Você pode morrer quando um buraco se fechar;
+
+==Consoles que Lode Runner saiu==
+
+[[Arquivo:Championshiploderunnder 0002.jpg|right|thumb|Jake Peril andando em cima dos ''bon'''s malvados.]]
+
+* Commodore 64
+* [[MSX]] (King's Valley da [[Konami|Come na Mi]])
+* [[Atari]] ST
+* PC-***1 Series
+* X1
+* FM-7
+* [[SG-1000]] ([[Sega|CEEEGAAA!!!]])
+* Família 8 bit de PCs da Atari
+* [[DOS]]
+* [[Macintosh|Mac]]
+* [[Nintendinho|NES]] ([[Hudson Soft|Abelha Punheteira]])
+* [[Game Boy|Game Gay]] ([[Namco Bandai|Band-aid]])
+* [[BBC]]
+* [[Nintendo DS|Ñ-LSD]] (Abelha Punheteira)
+* [[DOGMA]] [[PlayStation|PolyStation]]
+* Virtual Console
+* [[Xbox 360|X-Tudo a 360 Graus]]
+* [[iPod]]
+
+[[Arquivo:JakePerilBomberman.png|left|thumb|O verdadeiro [[Shirobon]].]]
+
+==Serie==
+
+* Lode Runner ([[1983]])
+* Championship Lode Runner ([[1984]])
+* Lode Runner's Rescue
+* Hyper Lode Runner
+
+===Arcade===
+
+* Lode Runner: Contém 24 níveis dos 150 (!!!);
+* Lode Runner The Bungeling [[Star Wars|Strikes Back]]: Não mudou muita coisa, somente a música tema dos rounds;
+* Lode Runner III: The Golden Labyrinth: A mesma merda também;
+* Lode Runner IV: Teikoku Karano Dasshutsu: Mudou somente as cutscenes e a música tema. Exclusivo da terra [[Japão|Nipponesa]]
+* Lode Runner: The Dig Fight: Uma espécie de [[Battle Lode Runner]] com novas fases;
+
+Os quartos primeiros games foram feitos pela [[Irem]].
+
+===1990===
+
+* Lode Runner: The Legend Returns;
+* Lode Runner Online: Mad Monk's Revenge;
+* Lode Runner II;
+* Lode Runner 3-D;
+* Lode Runner Twin: Justy Liberty no Daibouken;
+* [[Força|Power]] Lode Runner;
+* [[Battle Lode Runner]];
+
+[[Arquivo:LODERUNR000.png|right|thumb|A melhor fase dentre todas no game.]]
+
+==Cameo de Shirobon==
+
+Na versão de NES, em Championship Lode Runner e na versão mobile de Lode Runner, mostra o [[Shirobon]] como os robôs guardiões do ouro. No [[Bomberman]] de NES, quando fechar o game, irá aparecer o Shirobon se transformando no Jake Peril. A mensagem aparece:
+
+{{c|Congratulations! Bomber Man becomes Runner. See you again in Lode Runner}}
+
+No Game B do jogo Atomic Punk de Game Gay, Shirobon no final também vira Jake Peril.
+
+{{Lode Runner}}
+{{Plataforma}}
+
+[[Categoria:Jogos da Doug Smith]]
+[[Categoria:Jogos da Brøderbund]]

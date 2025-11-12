@@ -1,0 +1,25 @@
+{{física}}
+O '''Princípio de Pascal''' ou '''Lei de Pascal''' (mas não confundir com o [[Teorema de Pascal]], que engana bastante trouxa com essa nomenclatura) é uma coisa que o cientista [[Blaise Pascal]] simplesmente achou, porque foi uma cagada ter descoberto isso. Pascal acabou se tornando o pai da [[hidráulica]] sem querer, e até foi homenageado com a linguagem de programação estrutura [[Pascal (linguagem de programação)|Pascal]], e com a unidade de pressão pascal. Diz respeito a usar algum fluido trancado para empurrar as coisas. Se a frase anterior fez você pensar num ranho trancado empurrando um tatu seco, pode ser um exemplo.
+
+== História ==
+[[Arquivo:Pressão hidráulica.jpg|thumb|300px|Um esquema do princípio: apertando um êmbolo médio, a força exercida multiplica por causa dos fluidos, que levantarão o êmbolo gigante]]
+Pascal estava mexendo com uma caixa d'água com um cano ao lado, pois estava sem nada pra fazer, até que teve a ideia de enfiar uma [[maçã]] no cano, fechar a caixa d'água com uma pedra, e empurrar a maçã pelo cano só pra ver a desgraça da caixa explodir, pois como dito, ele tava realmente com muito tempo de sobra. Ele foi empurrar a maçã pelo cano, bem mais estreito que a caixa de água, mas desgraçadamente a caixa d'água não explodir; pior, a maçã empurrada pelo cano fez a água empurrar a pedrona em cima da caixa!!!
+
+Pascal repetiu o processo três vezes, porque não acreditou na primeira, e descobriu que a maçã é forte pra caramba. Depois ele tentou com laranjas, peras, pudim de pão, e tudo fazia a água empurrar a pedrona. Pascal não acreditava no que estava vendo: ele acabara de descobrir uma forma de enganar a água. Patenteou essa ideia e começou a estudar. Depois ele foi descobrindo novas técnicas, e criou seu Princípio de Pascal.
+
+== O Princípio ==
+
+{{citar|Se fechar um líquido ou um gás num negócio apertadinho, eu consigo mover o mundo!}} E é assim que funciona o Princípio de Pascal, provavelmente a coisa mais idiota e genial que existe. É tão simples que até um feto de [[porco]] anencéfalo consegue calcular, mas tão genial que ajudou a criar as maiores engenhocas da humanidade, e graças à ociosidade de um homem barroco.
+
+Através do Princípio de Pascal, um sujeito raquítico pode apertar uma coisinha simples e levantar um carro do outro lado da estrutura. Os macacos hidráulicos e praticamente qualquer coisa que tem hidráulico no nome funcionam usando esse esquema de Pascal.
+
+A pressão hidráulica é dada por ''p1 = F1/A''1 e ''p2 = F2/A2'', e no fim das contas ''F1/A1 = F2/A2''. Olhando assim parece que um gato comeu o livro de [[matemática]] e vomitou aqui, mas é bem tranquilo, até o porco anencéfalo lá de cima conseguiu entender. A força que um homem faz num cano, usando alguma coisa pra empurrar o fluido, vai passar por um cano maior e empurrar um troço maior, consequentemente tendo uma força maior.
+
+== Ver também ==
+
+*[[Empuxo]]
+*[[Arquimedes]]
+
+[[Categoria:Armas de destruição em massa]]
+[[Categoria:Física mecânica]]
+[[Categoria:Princípios]]

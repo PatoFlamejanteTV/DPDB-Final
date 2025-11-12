@@ -1,0 +1,96 @@
+<choose><option>
+{{logotipo_falso|Konamipedia.png}}</option><option>{{logotipo_falso|Konamipedia2.png}}</option></choose>
+{{game}}
+
+{{Infobox Game
+|title     = PES 2011
+|image     = Capa Pes 2011.jpg
+|caption   = Capa do joguinho.
+|developer = [[Konami|Konmai]]
+|publisher = [[Konami|Konmai]]
+|released  = <s>2011</s> 2010
+|genre     = Futebolzinho
+|rating    = chato demais
+|platform  = [[PlayStation 2|PS2]], [[PlayStation 3|P$3]], [[PSP|PlayStation de mão]], [[Xbox 360|Caixa X 360]], [[Nintendo Wii|Não Intendo Ui]], [[PC]]
+|ages      = Livre
+}}
+
+'''Pro Evolution Soccer 2011''' (ou '''PES 2011'''), traduzindo: Pró Evolução Futebol 2011 (ou PEF 2011) é um jogo de [[Futebol]], lançado em 2010 para [[PlayStation 2]], [[PlayStation 3]], [[Xbox 360]], [[Nintendo Wii]], [[PSP]] e [[Computador|Pc]](quase lançaram para [[Zebbo]] mas mudaram de ideia no último momento). O jogo é o sussesor do <s>[[Futebol Brasileiro 96|Futebol Europeu 2010]]</s> [[PES 2010]]. O jogo conta com vários times europeus <s>não licenciados</s>. A novidade é a [[Copa Santander Libertadores|Libertadores]] de 2010. Outra novidade é o <s>crie seu estádio</s> Editor de Estádios que só vem para [[PS3]],[[Xbox 360]] e [[Computador|Pc]].
+
+== Modos de jogo ==
+
+*'''Match''': é a onde você joga amistosos. É dividido por Exhibition (joga o amistoso), P1 Quick Start (jogue logo essa [[porra]] rápido você), P2 Quick Start (jogue logo essa porra rápido [[você]]s dois) e Penalties (momento [[Galvão Bueno|vai que é tua]] [[Taffarel]]).
+
+*'''UEFA Champions League''': jogue a [[UEFA Champions League|Liga dos Campeões da Europa]] <s>ou a [[Copa Santander Libertadores|Taça Libertadores da Europa]]</s>, ou simplesmente um amistoso na competição. Ainda vem com a metade do torneio pre-definido(a outra metade você escolhe). Vem dividida em Competition e Exhibition.
+
+*'''Copa Libertadores da América''': jogue a [[Libertadores da América]] <s>ou a [[UEFA Champions League|Ligas dos Campeões da América]]</s>. Vem com 40 clubes classificados para a Libertadores 2010. A Konami sem ter sabedoria de como são os clubes da América colocou o [[Corinthians]] como time mais forte da competição, fazendo os corintianos poderem ter o gostinho de ganhar a Libertadores ao som da música "Só no [[PlayStation]]". É dividida em Competition e Exhibition.
+
+*'''World Player''': a Konami sem ideia pra colocar no jogo, inventou um Rumo ao Estrelato, usando jogadores proficionais do jogo, e podendo ser contratado por outros clubes e mais encheção de [[linguiça]].
+
+*'''Master League''': o famoso jogo que tá desda época do [[Winning Eleven]], continua e com novidade: você pode ter patrocinadores. O detalhe dos patrocinadores é que não existem ou foram fundadas em diverssos países europeus mas mudaram pro [[Acre]].
+
+*'''Become a Legend''': ou Rumo ao Estrelato é o modo de jogo mais divertido desdo PES 2009, onde você pode realizar o sonho de ser jogador de futebol (pelo menos no jogo) onde você auto se recria e joga sua <s>horrivel</s> carreira, começando no [[Babilayna CF]] jogando contra o [[Athletic Club Salsabie]](dois times do [[Acre]])jogando no Blautraum Stadion (estádio do Acre). Depois você vai sendo contratado por clubes, que lutam pra ficar ate as ultimas colocações até o Barcelona. Objetivo é jogar até os 36.
+
+*'''League''': jogue os campeonatos do jogo, entre eles o [[campeonato italiano|liga da pizza]], [[Eredivisie|Campeonato do Holandes Voador]], [[Liga Espanhola|campeonato que só vence o Barcelona]], [[Campeonato Francês|Ligue <s>2</s>1]], [[Campeonato Inglês|liga do Totteham e Manchester United e o resto não-licenciado]] e International League.
+
+*'''Cup''': jogue as copas como <s>[[Copa do Mundo]]</s> International Cup e a Konami Cup. E as continentais: <s>[[Eurocopa|EURO Copa]]</s> European Cup, <s>Copa das nações Africanas</s> African Cup, <s>[[Copa América]]</s> American Cup e a Asia-Oceanian Cup.
+
+*'''Community''': jogo multiplayer onde os jogadores são definidos pelo seu signo e é pouco jogado.
+
+*'''Selection Match''': jogo onde você forma 2 equipes em um resultado de uma suruba. Pode usar seleções e times.
+
+*'''Training''': modo onde você treina já que você é um perna-de-pau. É dividido por Step-By-Step Training (treino passo a passo ou comece do [[0|zero]]), Free Training (treino livre ou fassa o que você bem entender) e controls (controles [[analfabeto]])
+
+*'''Edit''': Edita jogadores, times, coloca em outros times, faça emblemas e logos, edite e criar chuteiras, mude o nome dos estádios e das competições não-licenciados, salvar os dados <s>e pricipalmente: tire a originalidade do jogo</s>.
+
+*'''Gallery''': Ve as músicas, suas <s>derrotas</s> vitorias, seus replays, os creditos e principalmente o PES-Shop onde da pra adquirir outras merdas pro jogo. Também da pra adquirir o Stadium Viewer (perde alguns minutos de sua [[vida]] vendo os estádios do jogo).
+
+*'''System Settings''': configura o jogo mais nada.
+
+==== Modos extras ====
+
+Modos do jogo que se você for pobre pra ter um [[PlayStation 3]], [[Xbox 360]] ou um computador decente, se fodeu.
+
+*'''Pre-UEFA Champions League''': Pré da Champions League, se você jogar com o [[Corinthians|Corinthians Europeu]] você perde pro [[Deportes Tolima|Tolima Europeu]].
+
+*'''UEFA Europa League''': Jogue a [[UEFA Europa League]] ou ex-Copa da UEFA
+
+*'''Supercopa da Europa''': É a Recopa europeia onde você joga com o [[Internazionale Milano|Inter de Limeira]] ou o [[Atlético de Madrid|Patético de Madrid]]
+
+*'''Editor de Estádios''': Faça o campo de várzea da sua rua ou o estádio do seu time (impossível com o Flamengo).
+
+* '''Master Liga Online''' É o novo e incrível modo. Bom, é o que você pensa, mas na primeira vez que você joga a conexão cai te irritando muito.
+
+== Clubes ==
+O PES 2011 é um jogo que possui uma grande lista de clubes <s>não-licenciados</s>, entre eles tem cinco brasileiros: [[Internacional|Inter de Santa Maria]], [[Corinthians|Corinthians Alagoano]], [[São Paulo F.C.|Bambis F.C.]], [[Flamengo|Flamerda]] e [[Cruzeiro|Smuffete Mineira]]
+
+== Absurdos no Jogo ==
+
+* O [[Flamengo]] é o time mais forte da [[Libertadores]]
+* [[Ronaldo]] não é gordo
+* [[Petkovic]] joga ainda pelo [[Flamengo]]
+* A maioria dos times não são licenciados
+* [[Felipe Melo]] faz carrinho e não recebe vermelho direto
+* [[David Luiz]] não tem um black power crespo e castanho claro e sim um cabelo curto e marrom avermelhado
+* A Seleção Brasileira não é licenciada e usa uniforme titular verde e reserva branco
+* [[Robinho]] não está no [[Milan]], e sim sem clube
+* O [[River Plate]] é melhor que o [[Boca Juniors]]
+* Messi canta o hino da Argentina
+* O goleiro Bobadilla é titular no [[Corinthians]]
+* A maioria das seleções não possui jogadores de verdade
+* A seleção brasileira não toca o hino mas a da Argentina sim
+* Riquelme é titular absoluto do [[Boca Juniors]] 
+
+{{Pro Evolution Soccer}}
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Nintendo Wii]]
+[[Categoria:Jogos para PlayStation 3]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para PlayStation Portable]]
+[[Categoria:Jogos para Xbox 360]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para iOS]]
+[[Categoria:Jogos para Android]]
+[[Categoria:Jogos de esportes]]
+[[Categoria:Jogos lançados em 2010]]

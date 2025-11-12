@@ -1,0 +1,38 @@
+{{taxocaixa
+| nome           = Lamniformes
+| cor            = #0047AB
+| imagem         = Tubarão gigante.jpg
+| imagem_legenda = Expressão de tristeza de um tubarão laminiforme, eles são muito emotivos
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| superclasse    = [[Peixes|Aquáticos]]
+| classe         = [[Chondrichthyes|Gelatinosos]]
+| subclasse      = [[Elasmobranchii|Elasmobrancos]]
+| superordem     = [[Selachimorpha|Tubarões]]
+| ordem          = [[Lamniformes|Tubarões assassinos]]
+}}
+
+'''Lamniformes''' são a ordem de peixes cartilaginosos de grande porte com vários dentes na boca, os tubarões, especificamente os assassinos, malvados que podem atacar e devorá-lo a qualquer momento, mesmo quando você está em sua banheira. 
+
+== Anatomia ==
+
+O tubarão laminiforme é caracterizado sobretudo por sua boca gigante repleta e dentes um por cima do outro e cada um parecido como uma faca, os dentes destes animais são notórios não apenas pelo fio mais pela aparência quase sempre quebrados ou cariados, para dar um efeito adicional de filme de terror. A boca pode ter uma abertura que varia de 30 centímetros a 2 metros e se abre para além dos olhos com capacidade de comer vacas inteiras de uma vez. As mandíbulas são constituídos por várias fileiras de dentes que se movem transversalmente em sobreposição criando o barbear elétrico típico de uma passada só. Um grande tubarão-branco, por exemplo, pode mudar até 20.000 dentes, pense em quantas moedas de um centavo sob o travesseiro ele ganharia durante a vida?
+
+A língua é bifurcada e tem um estímulo para inocular veneno intoxicação em vítimas. Não possuem paladar e isso é útil para que eles possam morder humanos sem sentir ânsia de vômito pelo gosto ruim.
+
+O tubarão laminiforme é capaz de ver um milhão de quilômetros a superfície da Terra. Seu ponto de vista não tem pontos cegos, graças a um sistema de olhos escondidos que os alerta para a presença de objetos em movimento em qualquer direção. Isso torna quase impossível a missão de atacar o tubarão de surpresa, e lhe dá uma vantagem significativa durante as manobras de estacionamento. 
+
+Os laminiformes também tem uma poderosa visão de raio-X utilizada para observar o interior de navios e submarinos, afim de decidir qual o ataque durante a hora do buffet. Isso ocorre porque as vítimas de ataque de tubarão durante buffets são particularmente mais gostosas. Por esta razão, em muitos países é proibido buffet menos de 100 km da costa.
+
+== Famílias ==
+
+* '''[[Odontaspididae]]''' - tubarão-touro
+* '''[[Pseudicarchariidae]]''' - tubarão-crocodilo
+* '''[[Mitsukurinidae]]''' - tubarão-duende
+* '''[[Megachasmidae]]''' - tibarão-boca-grande
+* '''[[Alopiidae]]''' - zorros
+* '''[[Cetorhinidae]]''' - tubarão-elefante
+* '''[[Lamnidae]]''' - tubarão-branco
+
+[[Categoria:Selachimorpha]]
+[[Categoria:Lamniformes|*]]

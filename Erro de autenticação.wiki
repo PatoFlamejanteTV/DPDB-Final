@@ -1,0 +1,11 @@
+Erro de autenticação:
+
+[[Padre Quevedo|Não existe]] nenhum utilizador com o nome "{{USERNAME}}". Verifique o nome que introduziu, ou crie uma nova conta de utilizador.
+
+Para mais informações, clique [[Usuário:UltraJohnny/Pedido de desbloqueio de conta|<span title="Aqui"><font color=purple>aqui</font></span>]].
+
+[[Categoria:Páginas que se parecem com o que elas são]]
+[[Categoria:AAAAA]]
+
+[[grc:Ἡμάρτηκας περὶ τοῦ συνδεδεκαῖναι]]
+[[tlh:Unable to access the system]]

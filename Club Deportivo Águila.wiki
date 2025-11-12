@@ -1,0 +1,65 @@
+{{Box ClubeFutebol
+|cor_clara         = #ED9121
+|cor_escura        = black
+|brasao            = Escudo do Águila.png
+|hino              = 
+|nome_oficial      = Club Deportivo Pollo Negro
+|origem            = {{ELS}} '''[[San Miguel (El Salvador)|San Miguel]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Salvadorenho]]
+|divisao           = 1º divisão
+|títulos           = 
+|ranking           = 
+|uniformetitular   = 
+|uniformealt       = 
+}}
+
+'''Club Deportivo Águila''' é um time de futebol coadjuvante de El Salvador. A sua real capacidade esportiva não é possível de compreender e medir, pois os melhores times de El Salvador são tão bons quanto o [[XV de Jaú]], então alguém pior que isso, que é o Águila um time salvadorenho mediano, fica impossível para as leis da física e da matemática atual mensurar.
+
+== História ==
+=== Fundação ===
+
+O Águila foi fundado em 1926 como clube de [[beisebol]], [[futebol]] e [[basquete]] simultaneamente, ou seja, o famoso [[combinado nórdico]], um esporte que não possui faltas e o objetivo é nocautear o adversário. O futebol normal como conhecemos não chegou a El Salvador até hoje, mas o time do Águila se considera uma equipe de futebol mesmo assim desde aquela época antiga.
+
+=== Profissionalização ===
+
+Em 1956 o futebol do Águila se profissionaliza. Houve muita resistência da sociedade salvadorenha, afinal ninguém merecia receber salário para jogar um futebol tão horroroso, esses anos de incerteza fez o Águila oscilar na tabela nos seus três primeiros anos, até conseguir ser campeão nacional em 1959.
+
+=== Década de 60 ===
+
+A vitoriosa década de 60 foi marcada pela conquista de três bi-campeonatos, embora um deles tenha sido invetado e não é contestado porque ninguém se importa mesmo.
+
+=== Liga dos Campeões da CONCACAF de 1976 ===
+
+O Águila tem um título de Concachampions pra se orgulhar, o de 1976. Apesar de normalmente só apanhar e perder neste torneio continental, nesta edição deu muita sorte de não enfrentar nenhum clube tradicional. Após passar por uma pequena seletiva num triangular reunindo times sub-12 de Honduras, enfrentou o [[Diriangén Fútbol Club|Diriangén]] na decisão da qualificatória centro-americana, adversário que foi superado pelo módico placar agregado de 11x2.
+
+O fato do Águila ter tomado 2 gols de um time da Nicarágua botou em dúvidas a capacidade do clube, que foi para a semi-final contra o [[Club León]] do México. O Águila como qualquer time da América Central sempre perde para os times mexicanos. Após empate por 1x1 em, casa a eliminação já parecia garantida para o jogo de volta, mas o León decidiu abandonar o torneio por considerar jogar contra o Águila tão desprezível quanto dar atenção a um verme subindo em sua bota, então por w.o. o Águila sagra-se campeão da CONCACAF.
+
+O Águila ainda jogou uma final contra um time café-com-leite advindo do Caribe, o [[Sporting Vereniging Robinhood|SV Robin Williams do Suriname]], de quem venceu por 8x3.
+
+=== Anos 2000 ===
+
+Após o título continental cagado de 1976, o Águila aceitou bem a realidade de que nunca mais ganharia tal torneio, e passou a se dedicar a ser apenas coadjuvante a nível salvadorenho, se contentando em ser freguês do [[FAS]] e do [[Isidro Metapán]] de quem não venceu ainda depois de 2000.
+
+== Títulos ==
+
+* '''[[Campeonato Salvadorenho]]''' 17 vezes (1959, 1960, 1963, 1964, 1968 - 1969, 1972 - 1973, 1975 - 1976, 1976 - 1977, 1983 - 1984, 1987 - 1988, Apertura 1999, Torneo Apertura 2000 Clausura 2001, Clausura 2006, Torneo Clausura 2012, Torneo Clausura 2019, e Torneo Clausura 2022)
+* '''[[Liga dos Campeões da CONCACAF]]''' 1 VEZ (1976)
+
+{{Campeonato Salvadorenho}}
+{{Liga dos Campeões da CONCACAF}}
+
+[[Categoria:Times de futebol de El Salvador|Aguila]]

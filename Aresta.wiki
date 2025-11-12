@@ -1,0 +1,20 @@
+[[arquivo:Hexahedron.jpg|thumb|220px|Um [[cubo]] com 12 [[aresta|arestas]] afiadas posando como se fosse a [[faca]] da geometria: reta, dura e pronta pra cortar [[face|faces]] de [[poliedro]] ou [[dedo]] de [[estudante]] desavisado]]
+
+'''Aresta''' é a linha reta que liga dois [[vértice]]s em um [[polígono]] ou [[poliedro]], tipo o [[esqueleto]] que segura a [[forma geométrica]] no lugar. Ela é o [[lado]] do [[triângulo]], a [[borda]] do [[cubo]] e o [[fio]] que [[aranha]] usa pra [[teia]] básica, mas sem ela tudo vira [[bola de papel]] amassada. No [[cubo]], tem 12; no [[tetraedro]], só 6. [[Arquiteto]] ama aresta pra [[estrutura]], [[criança]] odeia pra [[desenhar]] sem [[borrar]].
+
+==História==
+[[Euclides]] já falava de aresta em 300 a.C. como "[[linha]] entre [[ponto]]s". [[Descartes]] deu [[coordenada]]s pra ela não se perder. Hoje, [[computador]] usa aresta em [[3D]] pra renderizar [[jogo]] sem [[bug]].
+
+==Cultura Pop==
+
+[[Minecraft]]: [[bloco]] tem 12 arestas [[Steve]] quebra com [[picareta]].
+[[Xadrez]]: [[bispo]] anda na aresta do [[tabuleiro]].
+[[Tatuagem]]: aresta de [[cubo]] no [[braço]] pra parecer [[nerd]] [[durão]].
+
+==Curiosidades==
+
+[[Formiga]] anda na aresta de [[folha]] como [[equilibrista]].
+[[Papel]] cortado tem aresta [[afiado]] que dói mais que [[palavra]].
+[[Grafite]]: [[carbono]] em arestas de [[diamante]].
+
+{{Predefinição:Formas geométricas}}

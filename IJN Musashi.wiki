@@ -1,0 +1,54 @@
+{{Infobox/navio
+|nome              = Navio Grandão Musashi
+|imagem            = IJN Musashi.jpg
+|legenda           = Apenas um clone do [[IJN Yamato]], um navio gigante que é um alvo fácil
+|operador          = [[Marinha Imperial Japonesa|Marinha dos Kamikazes]]
+|fabricante        = [[Arsenal Naval de Kure|Cuzões]]
+|origem_nome       = Protagonista do mangá [[Vagabond]]
+|lançamento        = 1940
+|destino           = [[corais]]
+|tipo              = [[encouraçado]]
+|classe            = [[Classe Yamato|Mamado]]
+|comprimento       = 263 m
+|armamento         = Uma caralhada de canhões de balas de 46 centímetros
+}}
+
+'''IJN Musashi''' é um auto-clone que os japoneses fizeram do [[IJN Yamato]], um navio gigantesco e inútil que foi lançado meramente por megalomania japonesa mas sem qualquer praticidade. Obviamente não ajudou muito na Segunda Guerra Mundial.
+
+== Construção e design ==
+
+O ano era 1940, o Japão estava com essa sandice de que eles poderiam mesmo vencer os Estados Unidos numa guerra franca no mar. A ideia era construir um clone do [[IJN Yamato]], um navio gigantesco, lento e inútil, e assim o fizeram.
+
+O navio Musashi foi construído em total segredo, mesmo que o estaleiro de Nagasaki exibisse praticamente uma Torre de Babel de 100 metros de altura sendo erguida por ali. Apesar disso, por motivos de contraespionagem, foram tomadas medidas para evitar o aparecimento do navio em construção e a população de Nagasaki foi comunicada que aquela coisa gigante cheia de canhões eram só um novo parque de diversões com temática [[Gundam]]. Embora a construção do Musashi estivesse sob estrita confidencialidade, no final das contas isso não fazia sentido porque, na verdade, havia um Consulado EUA-Reino Unido naquele estaleiro e os americanos desde sempre souberam da existência desse barco gigante e inútil.
+
+A cerimônia de lançamento foi realizada em 1 de novembro de 1940 numa situação de alerta estrito. O casco de Musashi, quando deslizou do porto para o mar através da rampa de lançamento da Nagasaki Shipyard & Machinery Works, causou um tsunami inesperado na costa circundante que dizimou várias plantações de bambus dos arredores. Em alguns dos rios próximos o nível da água subiu 30 metros e o próprio estaleiro foi dizimado por aquele mini tsunami. Há uma teoria de que essa destruição afetou a produção subsequente de navios de guerra e privou o Japão de sua capacidade de continuar a guerra, um reflexo sentido até hoje pois nunca mais o Japão construiu outro super encouraçado.
+
+===Equipamentos===
+*'''Um canhão duplo aparentemente inútil'''
+*'''Um lança foguetes'''
+*'''500 marinheiros nauseados'''
+*'''Alguns aviões kamikazes'''
+*'''Armas no geral, inúteis'''
+*'''Lança torpedos, pois barcos não são nada sem eles'''
+*'''Uma bandeira nippon'''
+
+== História ==
+
+Uma vez em ação a função do Musashi era basicamente seguir o Yamato e em caso de combate ir na frente para servir de isca. Acontece que o almirante do Yamato, Isoroku Yamamoto, não era dos mais intrépidos, dizia ele que "Esse navio é gigantesco demais, ele não pode ser afundado de jeito nenhum, seria um desperdício de dinheiro, vamos mantê-lo longe da batalha", então no seu primeiro ano o Musashi nada fez pois seguia o Yamato por água tranquilas e ambos apenas observavam as batalhas de longe.
+
+=== Naufrágio ===
+
+[[Arquivo:Banheiro no IJN Musashi.jpg|thumb|left|O problemático banheiro do Musashi, acoplado ao chão no meio de um tatame.]]
+
+O puta investimento na clonagem do Yamato trouxe resultados, o Musashi cumpriu com louvor a sua função quando participou de um combate pela primeira vez em outubro de 1944 na [[Batalha do Golfo de Leyte]] onde foi facilmente afundado no lugar do Yamato (o precioso navio que pode bater em retirada), conforme o previsto pelos cérebros japoneses.
+
+O motivo do fiasco do Musashi é objeto de estudo até hoje, alguns afirmam que seu tamanho exagerado simplesmente o faziam alvo fácil para ser bombardeado, mas o motivo mais aceito é que, devido à pressa na construção desse navio, não foi feito um bom trabalho de acabamento dos banheiros antes da Batalha do Golfo de Leyte, e a tripulação do Musashi estava com a moral mais baixa que a tripulação do Yamato que tinham muitos banheiros. Naquela época, já era do conhecimento geral que os super-encouraçados eram inúteis como força de combate, tanto que a Marinha Japonesa usavam esses navios mais como acomodações marítimas de luxo, tanto que o Yamato era chamado de "Hotel Yamato" por causa de seus confortáveis banheiros de estilo ocidental, um conforto que o Musashi não tinha e por isso era chamado de "Hostel Musashi". Terminar afundado era o destino inevitável desse navio.
+
+[[Categoria:Navios construídos no Japão|Musashi]]
+[[Categoria:Navios da Marinha Imperial Japonesa|Musashi]]
+[[Categoria:Encouraçados|Musashi]]
+[[Categoria:Navios da Segunda Guerra Mundial|Musashi]]
+[[Categoria:Navios naufragados em batalha‎|Musashi]]
+
+[[ja:武蔵_(戦艦)]]
+[[zh:武藏（战舰）]]

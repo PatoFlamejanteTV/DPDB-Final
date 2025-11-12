@@ -1,0 +1,25 @@
+{{elétrico}}
+[[Arquivo:Grande_fusível_ouro.jpg|thumb|right|Olha que lindinho...]]
+{{vqd|Revolvível}}
+{{Experimente também|Disjuntor}}
+{{c|A quem a senhora vai fuzilar?|[[Quico]], [[Burro|burrinho]], confundindo fusíveis com [[Rifle|fuzis]], quando a [[Dona Florinda]] lhe pediu pra comprar uns fusíveis}}
+{{C|Todo circuito elétrico precisa de proteção|Seu professor no ensino técnico.}}
+{{C|Ah, o transistor aguenta 3A!|[[Você]] na prática.}}
+
+'''Fusível''' é o sinônimo de proteção e segurança num circuito, pois a função dele e se fuder para não fuder o resto do circuito num claro caso de solidariedade, sendo que, na verdade, ele sempre acaba esquecido por [[noob]]s que ao final explodem metade da casa pela falta dele.
+
+==O componente==
+[[Arquivo:Bombaatomica.gif|thumb|O que ocorre sem o fusível.]]
+O fusível surgiu em algum ano, em algum lugar e foi inventado por algum idiota apreocupado em manter a durabilidade dos produtos e impedir o fluxo de mercadorias na indústria e no comércio gerando empregos e fazendo com que as crianças filipinas possam ser exploradas exaustivamente.
+
+O fusível consiste em um fio muito fino que se desfaz quando atravessado por muitos [[elétron]]s. Se a corrente é alta ele abre, se a tensão é alta ele abre, parace até a [[sua irmã]] caçula abrindo a boca para contar tudo o que você faz para os seus pais.
+
+As funções do fusível são de altíssima importância na proteção do circuito, isso quando ele não é substituído por seu irmão bombado, o disjuntor. Em pequenos circuitos o fusível é colocado na entrada para absorver a paulada elétrica, sendo ele o laranja do circuiot, aquele que vai levar a culpa.
+
+== Ver também ==
+*[[Capacitor]]
+*[[Amizade]]
+
+{{eletrônica}}
+
+[[Categoria:Artigos elétricos]]

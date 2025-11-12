@@ -1,0 +1,50 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = green
+|brasao            = Escudo do Atlético Bucaramanga.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{COL}}''' - [[Bucaramanga]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Bucaramanga]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Colombiano de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Club Atlético Bucaramanga''' é o time que prova que a cidade dos parques também pode ser um terreno fértil para o futebol colombiano. esse time vai jogar a Libertadores de 2025 com a mesma energia de uma corrida pelo Parque Santander.
+
+== História ==
+=== O Início: Capítulo 1 - "O Nascimento do Leopardo" ===
+Fundado em 1949, o Atlético Bucaramanga começou sua trajetória em Bucaramanga, uma cidade conhecida por suas belezas naturais e por ser a cidade dos parques. Imagine só: um grupo de apaixonados por futebol, talvez após um passeio pelo Parque García Rovira, decidiu que era hora de a cidade ter um time que refletisse a paixão dos moradores. E assim, com muita determinação e um toque de ousadia, nasceu o Atlético Bucaramanga FC.
+
+=== Primeiros Passos: Capítulo 2 - "Os Filhotes de Leopardo" ===
+Nos primeiros anos, o Atlético Bucaramanga jogava nas divisões inferiores do futebol colombiano, como um jovem leopardo aprendendo a caçar. Os jogadores, muitos deles talentos locais, mostravam sua habilidade e determinação, enquanto a torcida começava a se formar, com a mesma energia vibrante das festas locais.
+
+=== A Ascensão: Capítulo 3 - "Rugindo na Primeira Divisão" ===
+Com muito esforço e dedicação, o Atlético Bucaramanga conquistou seu espaço na primeira divisão colombiana. A cidade de Bucaramanga entrou em festa, e cada jogo se tornou um evento imperdível. A torcida, com orgulho, acompanhava o time, como se fosse um desfile de moda com os talentos da cidade desfilando suas habilidades no campo.
+
+=== A Torcida: Capítulo 4 - "Los Leopardos Fanáticos" ===
+A torcida do Atlético Bucaramanga, conhecida como "Los Leopardos", é um espetáculo à parte. Com bandeiras amarelas e verdes, tambores e uma energia contagiante, eles transformam cada jogo em uma verdadeira celebração. É como se cada partida fosse uma festa no Parque Santander, com torcedores prontos para apoiar seu time com fervor.
+
+=== Momentos de Brilho: Capítulo 5 - "O Leopardo Brilha" ===
+O Atlético Bucaramanga teve momentos de grande brilho, incluindo campanhas notáveis na primeira divisão. O time chegou às finais do campeonato colombiano, demonstrando que, mesmo sendo de uma região menor, podia competir de igual para igual com os grandes clubes. Cada vitória era comemorada com a mesma intensidade de um festival local, trazendo alegria para os torcedores.
+
+=== Desafios e Lutas: Capítulo 6 - "Atravessando a Selva" ===
+Manter-se competitivo não foi tarefa fácil. O Atlético Bucaramanga enfrentou muitos desafios ao longo dos anos, incluindo dificuldades financeiras e rebaixamentos. Mas, assim como os habitantes de Bucaramanga que enfrentam os desafios do dia a dia com garra, o time nunca desistiu de lutar, sempre buscando melhorar e alcançar novos patamares.
+{{Campeonato Colombiano}}
+
+[[Categoria:Times de futebol da Colômbia|Atlético Bucaramanga]]

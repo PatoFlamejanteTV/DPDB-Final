@@ -1,0 +1,114 @@
+'''Língua nepali''' (''não possui opção de tradução no [[Google Translate]]'') é o idioma oficial do [[Nepal]] uma região de dissidentes da [[Índia]].
+
+== História ==
+
+[[Arquivo:Iaque.jpg|thumb|220px|Um potencial falante do nepali.]]
+
+O Nepal foi durante muito tempo a residência de [[Mestre Pai Mei]] e um grupo de mestres xaolins reclusos que escolheram viver como eremitas. A ausência de contato com o mundo exterior fez com que os nepaleses evoluíssem a sua língua (que originalmente era o [[sânscrito]]) para um idioma baseado em sons de baixa frequência audíveis apenas por outros nepaleses, no intuito de poupar fôlego, algo precioso para quem vive a 8.000 metros acima do nível do [[mar]].
+
+Em [[1845]] o explorador inglês Richard Badminton Ballantine foi o primeiro ocidental a ter contato com a língua nepali, o que acredita-se ser o misterioso motivo de pobre Badminton ter contraído [[coqueluche]], mas lançou o primeiro livro em nepalês o ''नेपाली भाषा बिभिन्न समयमा बिभिन्न नामले चिनिन्थ्यो । खस कुरा, पर्वते भाषा तथा गोर्खाली भाषा आदि । यी मध्ये खस कुरा सबैभन्दा पुरानो नाम हो ।'' ("Ao pisar em Kathmandu pensei estar no Paraíso, logo me dei conta que me haviam drogado com uma mescla de ópio e clorofórmio, me haviam roubado meu passaporte, minhas roupas, meu dinheiro e me haviam tatuado a bandeira da França na bunda.")
+
+== Distribuição geográfica ==
+
+O nepali pode ser encontrado em regiões do norte da [[Índia]], especialmente no estado do [[Nepal]], podendo se encontrar também alguns criadores de [[iaque]]s no [[Butão]] que falam esta língua.
+
+== Gramática ==
+
+O primeiro passo entender o nepali é saber o [[hindi]] e [[sânscrito]], e em seguida colocar cinco ou mais [[azeitona]]s na boca. Seguindo estes passos cuidadosamente, você se tornará um perito nesse idioma (o cuidado é para não engolir nenhum caroço).
+
+Na tabela abaixo você pode observar o curioso conjunto de pronunciação consonantal nepali.
+
+::{|class="wikitable" border="2"
+!
+! colspan="2" | Bilabial
+! colspan="2" | Dental
+! colspan="2" | Alveolar
+! colspan="2" | Retroflexiva
+! colspan="2" | Palatal
+! colspan="2" | Velar 
+! colspan="2" | Labial-velar 
+! colspan="2" | Glotal
+|- align=center
+! Nasal
+| colspan="2" | ɑɻɻɻɻ
+| colspan="2" | jɑɻɻɻɻ
+| colspan="2" | wɑɻɻɻɻ
+| colspan="2" | ɑɻɻɻɻ
+| colspan="2" | aʊɻɻɻɻ
+| colspan="2" | aʊɻɻɻɻ
+| colspan="2" | aʊɻɻɻɻ
+| colspan="2" | aʊɻɻɻɻ
+|- align=center
+! Plosiva 
+| 
+| 
+| 
+| 
+| colspan="2" | wɑɻɻɻɻɻɻɻɻ
+| 
+| 
+| colspan="2" |
+| 
+| 
+| colspan="2" |
+| colspan="2" |
+|-align=center
+! Africativa
+| colspan="2" | 
+| colspan="2" | 
+| 
+| 
+| colspan="2" | Ni
+| colspan="2" | Niiii
+| colspan="2" | Ni ni ni
+| colspan="2" | Niiiiii
+| colspan="2" | Nɻɻɻɻɻɻɻ
+|- align=center
+! Fricativa
+| colspan="2" | ɥʊ̃ɻɻɻɻ
+| colspan="2" |
+| colspan="2" | 
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| colspan="2" | ɑ̃ɻɻɻɻ
+| colspan="2" | ɥʊ̃ɻɻɻɻ
+|- align=center
+! "Fap Fap"
+| colspan="2" | jɤ̃ɻɻɻɻ
+| colspan="2" | WTF?
+| colspan="2" | 
+| colspan="2" |
+| colspan="2" |
+| colspan="2" | ...
+| colspan="2" |
+| colspan="2" |
+|- align=center
+! Aproximante
+| colspan="2" |
+| colspan="2" | 
+| colspan="2" | 
+| colspan="2" |
+| colspan="2" | əɻɻɻɻ
+| colspan="2" |
+| colspan="2" | 
+| colspan="2" | jɤʊɻɻɻɻ
+|} 
+
+
+== Alfabeto ==
+
+Na falta de um [[alfabeto]] próprio os nepaleses roubaram o [[Devanagari]] dos indianos. Mas se você for pirado o suficiente, pode arriscar transliterar o idioma.
+
+== Frases úteis ==
+
+* हुनुहन्छ - [[Julululululululululu!]]
+* काठ्माडौँ जाने बाटो धेरै लामो छ - A estrada para Kathmandu é muito longa.
+* नेपालमा बनेको - Se o Nepal fosse o único país do mundo, ele seria o melhor país do mundo (ditado popular nepalês).
+
+{{Línguas}}
+
+[[Categoria:Línguas|Nepali]]
+[[Categoria:Línguas do Butão|Nepali]]
+[[Categoria:Línguas da Índia|Nepali]]
+[[Categoria:Línguas do Nepal|Nepali]]

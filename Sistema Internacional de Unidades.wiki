@@ -1,0 +1,88 @@
+{{Física}}
+
+[[Arquivo:Liberdade.png|thumb|right|200px|Opinião americana sobre o {{PAGENAME}}.]]
+{{Experimente também|Silício}}
+{{C|Fuck you!|Americanos|o SI}}
+{{C|Amigos, vamos padronizar tudo e usar as MINHAS unidades métricas.|Francês na criação do SI.}}
+
+'''Sistema Internacional de Unidades''', ou '''SI''', é a tentativa mais ou menos bem sucedida dos franceses espalharem pelo mundo as suas unidades de medidas para que eles não ficassem perdidos na hora de cozinhar e de queimar seu briochinho.
+
+== História ==
+[[Arquivo:Kombi-metro.jpg|thumb|left|200px|Um [[metrô|metro]] unidade de medida de comprimento no SI.]]
+Lá por idos do final do nada glorioso século XIX, o mundo era regido pelo caos, ninguém se entendia, pessoas dos mais distintos lugares eram impossibilitadas de se comunicar e, pior, de comprarem bugigangas umas das outras. O porquê? Cada mísero vilarejinho possuía seu próprio esquema de medidas, em um lugar usavam o metro, no outro a milha, no outro polegada, no outro o tamanho de um pênis nipônico (estimado em menos de uma polegada).
+
+Não havia padrão, era impossível chegar e pedir dois metros de tecido para fazer um vestido, cada lugar queria de uma forma e jamais aceitariam trocar de unidade tosca pelo mais puro e simples [[nacionalismo]] barato, uma hora isso tinha de acabar, os franceses cansados de ter de carregar uma tabelinha de 256MB com todas as unidades utilizadas no país e as conversões em seus [[mp4]]'s de 2GB estavam afim de mandar essa porcaria para o espaço e ter mais espaço para por músicas do mais puro [[Black Metal|Tr00 Nowergian Black Metal]], algo devia ser feito.
+
+Então, um francesinho decidiu propror ao mundo o uso de um único sistema de medidas e chamou os representantes de cada país, todos eles acharam idiotice a ideia, no entanto o francês sabia disso e para convencê-los convocou a gloriosa [[Emanuelle]] para explicar a ideia, até os líderes [[China|chineses]] abriram os olhos para a explicação que consolidou o SI em todo o mundo, exceto em 3 países irrelevantes que teimam em usar a porcaria da Libra e do Farenheit: [[Mianmar]], [[Libéria]] e os [[EUA|EU e A]]
+
+== Unidades ==
+
+{| cellpadding="1" cellspacing="2" align="center" style="border: 2px solid #7070ff; float:center;"
+|- align="center" style="background:#A0A0ff;"
+! [[Grandeza]] || [[Unidade de medida|Unidade]] || [[Símbolo]] || [[Dimensional analítica]] || [[Dimensional sintética]]
+|- align="center" style="background:#E8E8ff;"
+| [[Pa caralho]] || [[Pa Caralho]] || [[PCA]] || [[P/8=D]] || 10⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹⁹
+|- align="center" style="background:#E8E8ff;"
+| [[Comprimento]] || [[metro]] || [[m]] || - || -
+|- align="center" style="background:#E8E8ff;"
+| [[Massa]] || [[quilograma]] || [[kg]] || - || -
+|- align="center" style="background:#E8E8ff;"
+| [[Tempo]] || [[segundo]] || [[Segundo|s]] || - || -
+|- align="center" style="background:#E8E8ff;"
+| [[Tempo]] || [[pirula]] || [[Segundo|s]] || [[999999s]] || -
+|- align="center" style="background:#E8E8ff;"
+| [[Corrente elétrica]] || [[ampère]] || [[Ampère|A]] || - || -
+|- align="center" style="background:#E8E8ff;"
+| [[Temperatura termodinâmica]] || [[kelvin]] || [[Kelvin|K]] || - || -
+|- align="center" style="background:#E8E8ff;"
+| [[Quantidade de matéria]] || [[mol]] || [[mol]] || - || -
+|- align="center" style="background:#E8E8ff;"
+| [[Intensidade luminosa]] || [[candela]] || [[Candela|cd]] || - || -
+|- align="center" style="background:#E8E8ff;"
+| [[Ângulo|Ângulo plano]] || [[radiano]] || [[rad]] || [[1 (unidade)|1]] || [[m/m]]
+|- align="center" style="background:#E8E8ff;"
+| [[Ângulo sólido]] || [[esferorradiano]]<sup>1</sup> || [[Esferorradiano|sr]] || [[1 (unidade)|1]] || [[m²/m²]]
+|- align="center" style="background:#E8E8ff;"
+| [[Frequência|Frequência]] || [[hertz]] || [[Hertz|Hz]] || [[1/s]] || ---
+|- align="center" style="background:#E8E8ff;"
+| [[Força]] || [[newton]] || [[Newton|N]] || [[kg·m/s²]] || ---
+|- align="center" style="background:#E8E8ff;"
+| [[Pressão]] || [[pascal (unidade)|pascal]] || [[Pascal (unidade)|Pa]] || [[Pascal (unidade)|kg/(m·s²)]] || [[N/m²]]
+|- align="center" style="background:#E8E8ff;"
+| [[Energia]] || [[joule]] || [[Joule|J]] || [[kg·m²/s²]] || [[N·m]]
+|- align="center" style="background:#E8E8ff;"
+| [[Potência]] || [[watt]] || [[Watt|W]] || [[kg·m²/s³]] || [[J/s]]
+|- align="center" style="background:#E8E8ff;"
+| [[Carga elétrica]] || [[coulomb]] || [[Coulomb|C]] || [[A·s]] || ---
+|- align="center" style="background:#E8E8ff;"
+| [[Tensão elétrica]] || [[volt]] || [[Volt|V]] || [[Volt|kg·m²/(s³·A)]] || [[W/A]]
+|- align="center" style="background:#E8E8ff;"
+| [[Resistência elétrica]] || [[ohm]] || [[ohm|Ω]] || [[Ohm|kg·m²/(s³·A²)]] || [[V/A]]
+|- align="center" style="background:#E8E8ff;"
+| [[Capacitância]] || [[farad]] || [[Farad|F]] || [[A²·s²·s²/(kg·m²)]] || [[A·s/V]]
+|- align="center" style="background:#E8E8ff;"
+| [[Condutância]] || [[Siemens (unidade)|siemens]] || [[Siemens (unidade)|S]] || [[A²·s³/(kg·m²)]] || [[A/V]]
+|- align="center" style="background:#E8E8ff;"
+| [[Indutância]] || [[Henry (unidade)|henry]] || [[Henry (unidade)|H]] || [[Henry (unidade)|kg·m²/(s²·A²)]] || [[Wb/A]]
+|- align="center" style="background:#E8E8ff;"
+| [[Fluxo magnético]] || [[Weber (unidade)|weber]] || [[Weber (unidade)|Wb]] || [[Weber (unidade)|kg·m²/(s²·A)]] || [[V·s]]
+|- align="center" style="background:#E8E8ff;"
+| [[Densidade de fluxo magnético]] || [[tesla]] || [[Tesla (unidade)|T]] || [[kg/(s²·A)]] || [[Wb/m²]]
+|- align="center" style="background:#E8E8ff;"
+| [[Temperatura|Temperatura em Celsius]] || [[Celsius|grau Celsius]] || [[°C]] || --- || ---
+|- align="center" style="background:#E8E8ff;"
+| [[Fluxo luminoso]] || [[lúmen]] || [[lm]] || [[Candela|cd]] || [[cd·sr]]
+|- align="center" style="background:#E8E8ff;"
+| [[Luminosidade]] || [[lux]] || [[lx]] || [[cd/m²]] || [[lm/m²]]
+|- align="center" style="background:#E8E8ff;"
+| [[Atividade radioativa]] || [[becquerel]] || [[Bq]] || [[1/s]] || ---
+|- align="center" style="background:#E8E8ff;"
+| [[Dose absorvida]] || [[Gray (unidade)|gray]] || [[Gy]] || [[Gray (unidade)|m²/s²]] || [[Gray (unidade)|J/kg]]
+|- align="center" style="background:#E8E8ff;"
+| [[Dose equivalente]] || [[sievert]] || [[Sv]] || [[Sievert|m²/s²]] || [[Sievert|J/kg]]
+|- align="center" style="background:#E8E8ff;"
+| [[Atividade catalítica]] || [[katal]] || [[kat]] || [[mol/s]] ||
+|-
+|}
+
+[[Categoria:Sistema Internacional de Unidades]]

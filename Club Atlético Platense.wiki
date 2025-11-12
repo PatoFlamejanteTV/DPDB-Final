@@ -1,0 +1,52 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = brown
+|brasao            = Escudo do Platense.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{ARG}}''' - [[Flórida]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Flórida]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Argentino de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Club Atlético Platense''' é o clube que prova que, mesmo na cidade de Flórida, onde o futebol é quase uma religião, um time pode brilhar com uma combinação irresistível de charme e talento.
+
+== História ==
+=== O Início: Capítulo 1 - "Uma Invenção Deliciosa" ===
+Fundado em 1905, o Platense FC nasceu no bairro de Florida, em Vicente López, como uma verdadeira iguaria do futebol argentino. Imagine a cena: um grupo de entusiastas do esporte decidiu criar um time que não só brilhasse no campo, mas também fosse o orgulho de sua região. E assim, com muito entusiasmo e um toque de criatividade, nasceu o Platense FC.
+
+=== Primeiros Passos: Capítulo 2 - "O Time do Início" ===
+Nos primeiros anos, o Platense FC jogava nas divisões inferiores, como um artista que está começando sua jornada para o estrelato. O clube batalhava com determinação e garra, sempre buscando uma oportunidade para mostrar seu talento no grande palco do futebol argentino. Era como se o time estivesse ensaiando para um grande show, e cada jogo era uma nova chance de brilhar.
+
+=== A Ascensão: Capítulo 3 - "Subindo ao Topo" ===
+Com o tempo, o Platense conseguiu subir para divisões mais altas e se estabelecer como um time respeitado no cenário argentino. A cidade de Buenos Aires começou a prestar atenção, e o Platense se tornou um verdadeiro protagonista. Cada avanço era comemorado com a mesma intensidade de uma grande estreia, trazendo um novo nível de entusiasmo para a torcida.
+
+=== A Torcida: Capítulo 4 - "Los Calamares Fanáticos" ===
+A torcida do Platense FC, conhecida como "Los Calamares", é um espetáculo à parte. Com bandeiras marrom e branco, tambores e uma energia contagiante, eles transformam cada jogo em uma verdadeira celebração. É como se cada partida fosse uma grande festa, com torcedores prontos para apoiar seu time com fervor e entusiasmo, como se estivessem em um festival.
+
+=== Momentos de Brilho: Capítulo 5 - "Às Estrelas" ===
+O Platense FC teve momentos de grande brilho, incluindo campanhas notáveis na primeira divisão e a conquista de títulos regionais. Cada vitória era comemorada com a mesma intensidade de uma grande festa em Buenos Aires, trazendo alegria e orgulho para os torcedores.
+
+=== Desafios e Lutas: Capítulo 6 - "Enfrentando os Obstáculos" ===
+Manter-se competitivo não foi tarefa fácil. O Platense enfrentou muitos desafios ao longo dos anos, incluindo dificuldades financeiras e rebaixamentos. Mas, assim como um artista que enfrenta críticas com coragem, o time nunca desistiu de lutar, sempre buscando melhorar e alcançar novos patamares.
+
+
+{{Campeonato Argentino}}
+
+[[Categoria:Times de futebol da Argentina|Platense]]

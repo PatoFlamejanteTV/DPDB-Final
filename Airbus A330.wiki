@@ -1,0 +1,66 @@
+{{voador}}
+
+{| class="toccolours" border="1" cellpadding="4" style="float: right; margin: 0 0 1em 1em; width:200px; border-collapse: collapse; font-size: 95%; clear: right"
+|+ style="margin-left: inherit; font-size: medium;" | '''Airbus A330'''
+|-
+|- align=center
+| colspan="2" style="background:#ffffff;" |[[Arquivo:air-france-flight-447-disaster-1st-june-2009.jpg|200px|Mal saiu do [[aeroporto]] e já está estolando...]]
+
+|- style="vertical-align: top;"
+| '''Fabricação'''
+|[[Alemanha|Alemã]]
+|- style="vertical-align: top;"
+| '''Fabricante'''
+|[[Airbus]] (dãã)
+|- style="vertical-align: top;"
+| '''Primeiro voo'''
+|Não me lembro direito
+|- style="vertical-align: top;"
+| '''Missão'''
+|Cair estolando nos oceanos 
+|- style="vertical-align: top;"
+| '''Peso'''
+|50000&nbsp;kg
+|- style="vertical-align: top;"
+| '''Motores'''
+|[[2|Dois]] no total
+|- style="vertical-align: top;"
+| '''Velocidade máxima'''
+|1000&nbsp;km/h, velocidade de aproximação do alvo
+|- style="vertical-align: top;"
+| '''Velocidade mínima'''
+|0&nbsp;km/h, pegando [[fogo]] num acidente  
+|}
+
+{{vqd|767 versão made-in-france}}
+{{experimente|Bomba}}
+{{C|Depois dessa do Air France, não ando nesse avião nunca mais!|Passageiro|A330}}
+{{C|EsSE AvIÃo É eNooorme!|[[Emo]]|A330}}
+
+o '''Airbus A330''' é um avião de grande porte que foi feito para <s>os pilotos fazerem sexo com as aeromoças em maior espaço</s> competir com o [[Boeing Triple Seven]] (777 para os íntimos). Todos nós já sabemos que o 777 vai ganhar de qualquer jeito, porque além de ter um desempenho maior de subida, vários espectadores do canal do Youtube [[Aviões e Músicas]] já disseram frases como "o Francês A330 só decola porque a terra é redonda" e "Esse avião é fraco demais, hein, o bicho só decola lá na [[puta que pariu]]!" entre outras frases.
+
+==Versões==
+
+'''A330-200''': É a menor versão (também a mais <s>barata</s> moderna) que é muito utilizadas por empresas como [[Air France]], [[Alitalia]], [[Azul Linhas Aéreas Brasileiras]], dentre outras empresas. Com o lançamento do Airbus A330Neo no final de 2018, muitas empresas estão deixando o A330-200 e -300 de lado e comprando o novo Neo. Atualmente, apenas empresas como a [[TAP Portugal]] é que continuam operando esse modelo.
+
+'''A330-300''': É  a versão mais antiga do A330, no qual muitos apelidam de "Rolha aérea" por utilizar dois motores do A320, que são bons para ele, mas muito pesados para o A330, foi aí que as empresas desistiram de vez da [[Airbus]], algumas (principalmente norte-americanas) migrando para [[Boeing]] e [[Embraer]]. Mas também é muito útil para aqueles que querem um A330, mas não tem dinheiro para comprar o novo Neo.
+
+'''A330-200F''': Nada demais, é só uma versão cargueira do A330, tem até uma barriga maior para assim os pilotos carregarem mais explosivos em suas missões de voo.
+
+==Design==
+
+Como também dito no artigo do A320, é um avião que, visto lateralmente, lembra uma caravela voadora, e também é um avião que faz cara de bravo (isso se visto de frente) por causa do design quadradão de sua janela.
+
+==Veja Também==
+
+*[[Airbus A320]]
+*[[Boeing 737-800]]
+*[[Embraer]]
+*[[Boeing]]
+
+{{aviação}}
+
+[[Categoria:Aviões da Airbus]]
+[[Categoria:Aviões produzidos na Alemanha]]
+[[Categoria:Aviões civis de transporte de passageiros]]
+[[Categoria:Aviões civis a jato]]

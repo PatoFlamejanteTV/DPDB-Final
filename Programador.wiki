@@ -1,0 +1,178 @@
+{{nerd}}
+{{computeiro}}
+
+{{compactar|
+{{Experimente|[[Garota de programa]]}}
+{{Você quis dizer|[[Gambiarra]]}}
+{{Você quis dizer|[[POG]]ramador}}
+{{Você quis dizer|[[Prostituição]]}}
+{{c|Eu acredito em recursão!|Provérbio popular da Terra Do Nunca sobre programação}}
+{{c|printf("Hello World");|Primeira expressão de um programador quando nasce}}
+{{c|Na [[União Soviética]], o programa compila '''VOCÊ'''!!|Reversal Russa|Programador}}
+{{c|Eu nasci para mandar em você|Analista de Sistemas|Programador}}
+{{c|Tava funcionando lá em casa|Programador}}
+{{c|Quantos programadores são necessários para trocar uma lâmpada?|Eu em dúvida}}
+{{c|Nenhum! - Isso é problema de hardware.|Programador}}
+{{c|Cannot Evaluate this expression|Pascal|Programador}}
+{{c|<nowiki>questao = ((ser) || (!ser))</nowiki>|Programador filósofo}}
+{{c|Você é o garoto de programa|Funcionario da empresa|programador}}
+{{c|Seu Cookie Ta sujo|Programador|cookies do computador}}
+{{c|Usa o Jim Carrey|Programador|biblioteca JavaScript}}
+{{c|Dá um for INche|Programador|comando de loop em JavaScript}}
+{{c|Gambiarra a gente aceita. A gente só não aceita a derrota|Programador}}
+}}
+
+O '''programador''' é um indivíduo esquizoide que faz a interface entre [[n00b|pessoas normais]] e máquinas, podem ser comparados com [[traficantes]], visto que são as únicas profissões que chamam seus [[clientes]] de usuários, e também são conhecidos no submundo como [[prostitutas]] virtuais já que o mais comum é cobrarem por hora ou por serviço. Muitos começam desde cedo e facilmente encontramos garotas e garotos de programa varando a noite com mãos ágeis e esquentando a cabeça com inputs e outputs.
+
+A necessidade de programadores é justificada pelo fato que a linguagem humana é muito confusa e a linguagem da máquina é muito exata. Para conciliar isso, os programadores traduzem a linguagem humana tanto quanto [[Pelé|entendem]], fazendo um programa com a [[pessoa normal]] diante da [[máquina]]. O programa pode ser diurno ou [[prostituição|noturno]] (os mais comuns). Se o programa for bem feito, então dá-se o nome de profissional à pessoa, se não for bem feito, aí trata-se de um especialista. Assim como nas demais profissões há também o dia do programador, que é comemorado em 13 de Setembro, o motivo? Bem, os programeiros novatos sabixões dizem que é por ser o dia 256 do ano, número coringa da área que representa o máximo de gambiarras que podem ser feitas com um [[byte]], já os TIzotes mais velhos vão referenciar ao dia nacional da cachaça já que não codavam sem alguma substância no couro.
+
+[[Arquivo:ProgramadorCaricatura.jpg|thumb|right|O programador em sua forma física ideal]]
+
+==Origem==
+Os computadores foram inventados durante a [[2ª Guerra Mundial]], numa época em que predominava a teoria do <code>homem == máquina_pensante</code>, assim habilidades sociais não eram uma qualidade necessária para os profissionais. 
+Nessa fase, um CPD tinha pelo menos dois departamentos, um dos quais ninguém sabia o que fazia, mas sem ele nada funcionava. 
+
+Esse cenário foi mudado pela pioneira [[Grace Hopper]], a primeira <s>[[prostituta|garota de programa]]</s> programadora da história. Antes dela, o computadores só faziam [[aritmética]]; depois dela, eles aprenderam [[geometria]] e [[estatística]]. Foi ela que estabeleceu os 5 princípios da interação <code>[[cliente]] + [[puta|profissional]] = [[programa]] + [[computador|máquina]]</code>:
+# As [[garotas nerds]] pela capacidade de tagarelar com os clientes serão chamadas de [[paradoxo|engenheiras de software]] e ganharão mais;
+# Os nerds antissociais [[Buceta|não agraciados pela biologia]] farão o trabalho pesado e serão chamados de [[peão|programadores]];
+# A comunicação com a máquina será feita por meio de um [[programa]] escrito numa linguagem que tanto os nerds quanto os computadores entendam;
+# A comunicação com o cliente será feita por meio de <s>desenhinhos</s> [[UML]] para que eles entendam.
+# É proibido [[babar]] ou assediar engenheiras e/ou acessar pornografia. 
+A proposta original foi perdida na burocracia durante anos e, quando foi encontrada, além de ter perdido o princípio ''5'', tinha sido acrescentada um princípio 0: ''"0 - Aqueles que não forem nerds na área de informática ganharão mais e serão chefes <s>porque não entendem '''p'''r'''og'''ramação.</s>"'' Tentativas de restabelecer o 5º princípio têm sido frustradas pois o número dele teria que ser 5, o que fere as boas práticas de programação.
+
+==Níveis de programadores==
+*'''Sobrinho''': Sim, é o primeiro a executar a tentativa de resolver o problema de sistemas particulares. Geralmente, como o nome já diz, é o sobrinho do Chefe, geralmente com idades entre 10 e 14 anos, que começaram sua carreira excluindo o paywall de portais de putaria pelo inspecionar elemento do navegador. Mão-de-obra <s>grátis</s> barata. Usam o [[Google Chrome]].
+  
+*'''Programador Aspirante''': [[Poser]] que se acha programador no cursinho do [[SENAI]] por manjar alguma coisa de [[Portugol]], ou hacker por <s>copiar da internet</s> fazerem comandos em .bat no Kali Linux pra ficar abrindo e fechando a tampa do leitor de CD. Usam o [[Bloco de Notas]] ou o aquele cone do [[Vim]].
+
+*'''Programador Trainee''': [[N00b]] que faz uma calculadora básica em 20 minutos e dá ''DROP DATABASE'' no banco de produção. Esses usam [[Sublime Text]].
+
+*'''Programador Júnior''': O Feijão com arroz, capaz de fazer o sistema de controle de estoque para a padaria do seu João (que não funciona devido ao [[POG]]) e também manutenções e gambiarras corriqueiras nos sistemas particulares [[frankenstein]] típicos de nossas empresas brasileiras que querem tudo pra ontem. Esses usam o [[Visual Studio Code]] e o [[Git]].
+
+*'''Programador Pleno''': Burro de carga, faz em um dia a mesma gambiarra que 10 júniors fazem em uma ''sprint''. Está sempre em alguma missão suicida de implementar em tempo recorde (por livre e expontânea pressão) no monolítico da empresa (que parou no [[PHP]] 5.3) o que o concorrente tem em uma dúzia de microsserviços com tecnologias distintas, acarretando sempre em uma perda para o mesmo, seja do emprego, de cabelo, do sentido da vida ou da capacidade de ereção na hora H. Esses usam alguma IDE da [[JetBrains]] cara pra cacete e o [[GitLab]].
+
+*'''Programador Sênior''': O [[Lesão por esforço repetitivo|mão quebrada]], não faz mais nenhuma gambiarra pois seu serviço agora é <s>mandar nos plenos e puxar saco de diretor</s> gerir projetos, ou seja, imprimir páginas do [[Stack Overflow]], ver tutoriais no [[Youtube]], rabiscar num quadro, bolar um monte de tarefa e jogar a bucha para os plenos ficarem calvos e broxas de vez. Alguns chegam aqui por serem mais sociáveis que os demais POGrameiros e/ou por já terem feito "soluções para o mundo real", geralmente sites com [[WordPress]]... também são as [[Marcelo Nascimento|mentes malignas]] por trás de merdas como ''"Foi o JavaScript que me deu"'', ''"Como ganhar 100k por mês como Dev na gringa"'', ''"Como viajar o mundo sendo nômade digital"'' e demais [[coach|mentiras pra vender curso]], onde ostentam seu padrão de vida típico de quem ganha muito pelo pouco que faz. Esses usam o [[Safari (navegador)|Safari]] e talvez o [[Trello]], ou o [[Jira]] <s>meu ovo</s>.
+
+*'''Programador Master''': O [[megamente]], o programador fodão, o Steve Jobs. Aquele que tem alguma notoriedade na comunidade e é dono da própria empresa de gambiarras ou ocupa cadeira na diretoria de alguma. Vai na tua universidade <s>arrotar cebola</s> dar palestra de como se dar bem com programação igual ele ([[risos]]) e como a empresa dele [[mentira|é legal com o funcionário]], fica produzindo artigos e vídeos de tecnologias em [[Modinha|hype]] e também aquele monte de groselha no [[Linkedin]], isso quando não tá viajando por aí em feiras indo apertar a mão de cliente e em ''Startup Weekend'' dar mentoria pros n00bs dos programadores júnior. O aprendizado de mercado adquirido nessa vidinha de [[subcelebridade|blogueirinho]] é repassado aos sêniors via cervejinha no fim da tarde. Esses usam [[Instagram]], [[LinkedIn]] e [[YouTube]].
+
+*'''Programador powerfull masterformnerd manowar edition''': Suas gambiarras simplesmente desafiam as leis da física e ganham. Não se sabe muito sobre esta espécie, pois seu habitat é [[RF Online]], [[Ragnarok]], [[Tibia]], [[World of Warcraft]] e outras nerdices e eles não falam língua humana. Esses usam [[Blender]] para modelar, [[Unreal Engine]] para programar e [[Gimp]] para fazer as texturas.
+
+==Estereótipos==
+[[Arquivo:TecladoProgramador.jpg|thumb|right|Teclado de programador raiz]]
+
+Os programadores [[Geração Z|de hoje em dia]] chegam pilotando uma moto elétrica ou bicicleta (porque [[Boça|''precisamos ser eco-friendly né meo'']]) com seus óculos redondos, camisa de alguma banda [[Indie]], tênis All Star, calça café com leite, celular [[Xiaomi]] e notebook Dell com algum adesivo do [[Ruby on Rails]], [[Python (linguagem de programação)|Python]] ou [[React]]. Podemos encontrá-los em algum [[Boteco|pub de rock]] ou [[Rave|balada duvidosa]] tentando a sorte com alguma retardada da [[UNE]] (ou bofe no caso dos [[Emo Programmer|programadores Ruby]]) loucos de [[Ecstasy|bala]]. Esses ilustres são conhecidos por perderem mais tempo procurando alguma biblioteca ou pacote de terceiro que faça o que eles precisam do que se fosse codar (e ainda quando codam usam o GitHub Copilot, legítimos [[Nutella]]s), resultando até em [[modinha]]s como o React. Em uma vaga pra passar fibra em poste exigem 3 anos de React hoje em dia.
+
+Os programadores [[geração Y]] possuem um carro com pelo menos 10 anos de uso, seja um [[Gol 1.0]] até alguma outra [[Honda Civic|barca queimadora de óleo]], dotados de uma cara de [[trakinas]], cabelos com início de calvície, [[barba]] sempre por fazer, óculos retangulares, camisa do [[Metallica]] ou [[Iron Maiden]], tênis Nike de correr no parque, calça [[jeans]] azul barata, [[Moto G]] no bolso e um notebook HP ou Asus com algum adesivo da FISL ou [[Campus Party]]. Como qualquer cidadão que chegou nos 30 anos, ou tá [[Casamento|em casa nerfado]] ou vive em boteco de bairro jogando baralho com um cigarro no canto da boca e uma baranga no colo. Aqui temos dois tipos de indivíduos, os que começaram carreira nos anos 2000 com [[PHP]] e [[Perl]] e acham que tecnologias novas são gambiarra e a deles é raiz, e os infelizes que começaram após 2010 tendo que lidar com <s>[[Dilma Rousseff|um governo de merda]],</s> o [[POG]] que os antigos fazem na mão e os [[POG]]s de terceiros provenientes das [[mais de 8 mil]] dependências que os novatos enfiam no projeto diariamente.
+
+Já programadores mais antigos caracterizam normalmente por corpo formato pera, calvície avançada, pernas finas e alguma parte da vestimenta trazendo mensagens de sistemas operacionais de origem opensource (mesmo que estes programadores apenas usem [[Visual Basic]] ou [[Delphi]]) ou onde estão escorados hoje em dia (universidade onde dão aula ou sua empresa de gambiarras). Todos tem a mesma história que no fim de sua graduação pareceu uma oportunudade de trabalhar em [[São Paulo]], ou no [[Chile]], ou nos [[EUA]], ou na [[puta que pariu]] mas que não foram por motivos fúteis e [[Intankável o Bostil|se arrependem até hoje]]. Quando codavam, o faziam sob efeito de álcool e nicotina, comendo restos de pizza e salgadinho, por isso era comum seu ambiente de trabalho ser um local completamente inóspito (aka Lixão).
+
+E a mulherada? você deve estar se perguntando, bem isso praticamente [[isso non ecziste|non ecziste]] em uma área tão antissocial.
+
+==Principais citações de programadores==
+
+*Trabalhamos em horários estranhos, que nem as [[putas]]!
+
+*Nos pagam pra fazer o [[cliente]] feliz, que nem as [[putas]]!
+
+*O [[cliente]] até que às vezes paga bem, mas o [[chefe]] fica com quase tudo, que nem as [[putas]]!
+
+*Nosso trabalho sempre vai além do expediente, que nem as [[putas]]!
+
+*Somos recompensados por satisfazer as fantasias do cliente, que nem as [[putas]]!
+
+*Nossos amigos se distanciam de nós, e só andamos com outros iguais a nós, que nem as [[putas]]!
+
+*Nosso [[chefe]] tem um lindo carro, que nem os [[cafetão|chefes]] das [[putas]]!
+
+*Quando vamos ao encontro do [[cliente]], temos de estar sempre apresentáveis, que nem as [[putas]]! Mas quando voltamos, parece que saímos do [[inferno]], que nem as [[putas]]!
+
+*Sempre quando alguém pergunta o que fazemos, não conseguimos responder, enrolando a pessoa que perguntou, desconversando, que nem as [[putas]]!
+
+*O [[cliente]] quer sempre pagar menos e que façamos maravilhas, que nem as [[putas]]!
+
+*Vivem Com-Puta-Dor que nem as [[putas]]!
+
+*Todo dia, acordamos e dizemos: '''Não vou passar o resto da vida fazendo isso!''', que nem as [[putas]]!
+
+*Não somos [[putas]], mas temos amor aquilo que fazemos que ninguém e nem mesmo as [[putas]] o fazem.
+
+*Não fazemos sexo todo dia, ao contrário das [[putas]]!!!
+
+*Acho que vou deixar de fazer programa e fazer programa, que nem as [[putas]]!
+
+==Oração do programador==
+Código nosso que estais em '''C'''<br>
+Santificado seja o vosso '''nome de arquivo'''<br>
+Venha a nós o vosso '''array[] null'''<br>
+Seja feita a vossa '''compilação'''<br>
+Assim no '''ARM''' como no '''Intel'''<br>
+O '''café''' nosso de cada dia nos dai hoje<br>
+'''Debugai''' as nossas sentenças;<br>
+Assim como nós debugamos o '''ponto e vírgula esquecido''';<br>
+   E não nos
+         deixeis errar
+                 indentação
+Mas livrai-nos da '''segmentation fault'''<br>
+A '''main'''();<br>
+<br><br>
+<s>Essa na verdade é a oração dos programadores C/C++, mas, como esses são os únicos programadores de verdade que existem, ela já vale por todas.</s>
+
+==Doenças típicas==
+
+[[Arquivo:Programer.jpg|thumb|right|Sobre Programador]]
+
+*Dor nas costas;
+*Dor nos glúteos <s>que nem as putas</s>;
+*Vista cansada;
+*Ansiedade;
+*Úlcera;
+*Hemorroida;
+*Lordose;
+*Escoliose;
+*Lombose;
+*Ozzy Osbourne;
+*Qualquer coisa seguida de ose...
+*LER (Lesão por Estupidez Repetitiva) ou do Inglês (Repetitive Stupid Animal);
+*Virgindade até os 30 anos e [[Capitão salva putas|CSP]] depois;
+*Alcoolismo;
+*Tabagismo;
+*Dependência química;
+*Distúrbios na Libido;
+*Distúrbio do sono;
+*Distúrbio alimentar;
+*Distúrbio existencial;
+*Síndrome do pânico;
+*Calvície;
+*Chifre;
+*Divórcio;
+*Nome no SPC/Serasa;
+*Esquizofrenia;
+*Alzheimer;
+*Morte súbita.
+
+==O fim==
+[[Arquivo:ProgramadorOFim.jpg|thumb|right|Quando <s>o programador morre </s>a variável programador é eliminada da memória do mundo, antes do coletor de lixo iniciar.]]
+A variável Programador é eliminada do Mundo.cc normalmente devido a fatores como doenças advindas das diversas noites sem dormir, má alimentação como pizza fria e cheia de formigas, falta de grana, devido aos baixos salários que normalmente acarretam '''recursão''' no método <code>vidaRuim();</code> melhor demonstrada na figura ao lado.<br>
+Ou seja, é um <code>programador.delete</code>
+
+==Mercado de Trabalho==
+A área de TI como um todo é um investimento de médio prazo, os primeiros 4 anos de profissão geralmente não se pagam, se patina muito sem sair do lugar em relação a salário, levando muitos novatos a não exercerem a profissão em tempos de vacas magras para conseguir pagar as contas, alguns até abandonam de vez. Já em tempos de mercado aquecido encontram-se muitos profissionais pouco qualificados que migraram para a área pelo salário e empresas nascidas na hype do momento lideradas por pessoas que não sabem salvar um .docx em .pdf, dificultando boas empresa a encontrarem bons profissionais e vice-versa. Apesar destes pesares e embora programador costume trabalhar muito e (em alguns casos) em horários ruins, nenhum bom profissional em uma boa empresa nega que o retorno financeiro é o suficiente, além disso, a grande maioria afirma que gosta e sente prazer no trabalho.
+
+==Ver também==
+*[[Prostituição]]
+*[[Emo Programmer]]
+*[[Ciência da Computação]]
+*[[Sistemas de Informação]]
+
+{{Profissões inúteis}}
+
+[[bar:Programmierer]]
+[[de:Programmierer]]
+[[en:Programmer]]
+[[es:Programador]]
+[[fa:برنامه نویس]]
+[[ja:プログラマー]]
+[[ko:프로그래머]]
+[[nds:Programmirrer]]
+[[pl:Programista]]
+[[ru:Программист]]

@@ -1,0 +1,286 @@
+<div class="boilerplate metadata" id="stub" width=100%><table align=center CELLPADDING=5 CELLSPACING=5 style="background-color: #FFFFFF; color: #000000; border: dashed 3px #FF0000; padding: 8px"><tr><td>[[Arquivo:UnderConstrution.gif|100px]]</td>
+<td align=center>'''[[Desciclopédia:Construção|EM CONSTRUÇÃO]]'''<br>'''Esse artigo é pobre pois está em [[Estrela da morte|construção]].''' O autor provavelmente é [[alentejano]]. Enquanto tu esperas pacientemente para que ele resolva tirar os cornos da [[azinheira]] e voltar a trabalhar para terminar (ou seja, só em [[8299]]), vá fazer algo que [[Sexo|preste]]. Ou então algo que [[RPG|não preste]].
+</td></tr></table>
+</div>
+{{spoiler}}
+{{Info país extinto|
+|native_name            = República Portuguesa
+|conventional_long_name = Primeira República dos Padeiros
+|common_name            = Portugal (Pt. 1)
+|Anteriores             = Reino de Portugal e dos Algarves
+|Bandeira anterior      = Portugal-gay.jpg
+|Posteriores            = Ditadura militar portuguesa
+|Bandeira posterior     = Bandeira de Portugal.png
+|duração                = 1910 – 1926
+|image_flag             = Bandeira de Portugal.png
+|image_coat             = Brasão de Portugal.png
+|national_motto         = Ordem, Trabalho e Bacalhau
+|national_anthem        = ''[[A Portuguesa|A Portupresa]]''
+|bandeira               = Bandeira de Portugal
+|brasão                 = Brasão de Armas de Portugal
+|image_map              = Portuguese Empire 20th century.png
+|legenda                = Auge da Primeira República Portuguesa, ô pá!
+|capital                = [[Lisboa]]
+|official_languages     = [[língua portuguesa]]
+|government_type        = Pseudo-republicano
+|leader_titles          = Chefe da padaria
+|leader_names           = [[Tó Madeira]]
+|Moeda                  = Bacalhau
+|population             = ?
+}}
+
+A '''{{PAGENAME}}''' foi um sitcom português de grande sucesso, comparado a séries como [[Friends]] e [[Os Simpsons]] por sua longevidade, popularidade e influência na cultura pop da década seguinte a sua exibição na [[RTP]] a partir de 2010, celebrando o centenário de tal acontecimento.
+
+== Personagens principais ==
+
+=== [[Álvaro de Castro]] ===
+Retratado como um ''self-made man'' que ascendeu de major de infantaria a governador de Moçambique e depois à presidente de Portugal.
+
+===[[António José de Almeida]]===
+Considerado por muitos como o personagem principal da série. Retratado como um verdadeiro faz-tudo com inspirações claras em [[MacGyver]]. Dublado na versão brasileira por [[Hermes Baroli]] nos cinco primeiros capítulos e por [[Gilberto Baroli]] no restante da série.
+
+===[[Carlos I de Portugal|D. Carlos]]===
+Antagonista principal da primeira temporada. A cena de sua morte é considerada um dos momentos mais memoráveis da teledramaturgia portuguesa no século XXI. Dublado na versão brasileira por [[Márcio Seixas]].
+
+===[[Manuel II de Portugal|Manuel II]]===
+Visto como um anti-herói trágico, jogado aos leões por circunstâncias completamente fora de seu controle. Considerado um sex symbol entre os fãs da série.
+
+===[[Sidónio Pais]]===
+Personagem principal do ''Arco Sidonista''. É considerado um personagem extremamente controverso por ter sido construído baseado em [[Mussolini]], apesar de haver fãs que clamam o contrário: foi Sidónio quem inspirou Mussolini. Extremamente individualista e autoritário, começa do lado dos heróis, mas vai pendendo progressivamente a um papel neutro.
+
+[[Arquivo:Murder of Sidonio Pais at Lisboa-Rossio Railway Station.jpg|thumb|Assassinato de Sidónio Pais, clímax do ''Arco Sidonista'']]
+
+== Organizações ==
+
+=== Partido Republicano Português ===
+Organização principal das primeiras temporadas, primeiramente como oposição e depois como governo.
+
+=== [[Carbonária]] ===
+Sociedade secreta onde vários membros do PRP se conheceram.
+
+=== [[Maçonaria]] ===
+Sociedade que desempenhava um papel de colaboração competitiva com a Carbonária. A rivalidade entre ambas é explorada na segunda e terceira temporadas.
+
+== Locais ==
+
+=== Jovem Turquia ===
+Loja maçônica onde acontece boa parte dos acontecimentos do final da segunda temporada e do começo da terceira temporada. 
+
+== Temporadas ==
+
+As temporadas não foram produzidas ou transmitidas obedecendo a ordem cronológica dos eventos, o que só foi possibilitado após o lançamento da edição de colecionadores ''The Definitive Collection: Director's Cut'', em 2019, que ocupou dois blu-rays por temporada, um com os capítulos e outro com conteúdo extra como cenas eliminadas e comentários do elenco participante. Para facilitar a compreensão, as temporadas serão classificadas de acordo com sua posição na linha cronológica dos eventos.
+
+=== Temporada 1: Prelúdio (1876-1910) ===
+
+Produzida no final de 2015, esta foi uma das últimas temporadas a serem transmitidas pela RTP. Esta é criticada pelos fãs da série por abandonar a temática de comédia pastelão para assumir um tom mais dramático.
+
+{|class="wikitable"
+|-
+! style="background-color: #2ff1ff" width="70"|Episódio
+! style="background-color: #2ff1ff" width="250"|Título
+! style="background-color: #2ff1ff" width="550"|Sinopse
+|-
+|1
+|''Nasce o Partido Republicano''
+|Introdução geral à série e à principal organização da primeira temporada.
+|-
+|2
+|''O mapa cor-de-rosa''
+|Portugal planeja expandir seu império na África, finalmente ligando Angola a Moçambique. Enquanto isto, no Brasil, a República é proclamada, dando esperanças ao Partido Republicano.
+|-
+|3
+|''O Ultimato Britânico''
+|Os britânicos recebem (muito mal) os planos portugueses na África. Os emigrantes param de mandar dinheiro a Portugal, fazendo com que o país quebre.
+|-
+|4
+|''Hora da Revolução''
+|Começo do ''Arco do Porto''. Explode uma insurreição militar no Porto: Será desta vez que a monarquia cai?
+|-
+|5
+|''A Revolução Fracassa''
+|A Guarda Municipal aparece deitando bala em todo mundo. Um punhado de gente morre, e um monte vai presa pra ser [[Degredo no Brasil|degredado na África]].
+|-
+|6
+|''Os anos perdidos''
+|Sem representação parlamentar e com um fracasso nas costas, o que será do Partido Republicano? Enquanto isto, Carlos I e a nobreza portuguesa se vêem cada vez mais ameaçados. Final do ''Arco do Porto''.
+|-
+|7
+|''[[Regicídio de 1908|O Rei Está Morto]]''
+|Atentado contra a vida do Rei D. Carlos e seu filho Luís Filipe.
+|-
+|8
+|''A Monarquia Agoniza''
+|Manuel II ascende ao trono, mas não tem condições para governar. Enquanto isso, os republicanos ganham terreno rapidamente, e alguns deles falam sobre outra revolução. Episódio famoso pela cena da maior partida de sueca da história do mundo, onde dois grupos de republicanos se dividem e jogam para decidir que grupo irá governar Portugal e qual grupo irá para a linha de frente da revolução.
+|-
+|9
+|''Hora da Revolução II''
+|Começo do ''Arco de Lisboa''. O presidente do Brasil visita Lisboa. Seria uma má ideia começar a revolução por lá desta vez?
+|-
+|10
+|''Hora da Revolução II: o Conflito''
+|Explode o conflito em Lisboa. 
+|-
+|11
+|''O Rei Em Xeque''
+|Os republicanos alcançam o palácio real. Manuel II irá se render, lutar ou fugir?
+|-
+|12
+|''A Revolução Triunfa''
+|As forças do governo monárquico se rendem, garantindo a vitória republicana.
+|-
+|13
+|''O Exílio do Rei''
+|O rei parte rumo ao desconhecido, enquanto o Porto adere à Revolução. A temporada se encerra com a bandeira de Portugal republicano sendo hasteada no Palácio das Necessidades enquanto [[A Portuguesa]] é tocada ao fundo com uma flauta de dois euros por um aluno com 7 de média em música no décimo ano. Fim do ''Arco de Lisboa''.
+|-
+|}
+
+=== Temporada 2: O nascimento da República (1910-15)===
+[[Arquivo:Estremoz13.jpg|thumb|Cartaz da segunda temporada: barcos, navios, tretas e tetas. Não necessariamente nesta ordem]]
+
+Produzida em 2011 para celebrar o centenário da primeira constituição republicana. Único arco com classificação etária para maiores de 18 anos, devido a grande exposição de nudez explícita. Por causa disso, esta série nunca foi exibida no Brasil em TV aberta.
+
+{|class="wikitable"
+|-
+! style="background-color: #ffa2a1" width="70"|Episódio
+! style="background-color: #ffa2a1" width="250"|Título
+! style="background-color: #ffa2a1" width="550"|Sinopse
+|-
+|1
+|''Implantação da República''
+|Começo do ''Arco do Governo Provisório'', onde tal governo é constituído e começa a ser reconhecido pelo mundo, a começar pelo Brasil.
+|-
+|2
+|''Assembleia Nacional Constituinte''
+|Os Republicanos começam a decidir quem pode e quem não pode eleger e ser eleito para fazer a nova Constituição, pois não existia oposição, porque todos os monarquistas foram proibidos de participar.
+|-
+|3
+|''Um País em Obras''
+|Finalizada a Assembleia, os Republicanos começam uma obra extremamente ambiciosa que resulta em várias mudanças no país contra a vontade de seus habitantes. Mudam-se a bandeira, o hino, a moeda, e até mesmo um acordo ortográfico para alterar a língua portuguesa. Cria-se a GNR, para colocar os camponeses e analfabetos na linha. Um dos momentos mais memoráveis da série se dá neste episódio, quando José Relvas é flagrado vindo-se em cima do busto da República.
+|-
+|4
+|''Estado e Igreja se Separam''
+|Os Republicanos, sem dinheiro devido à reforma feita no país, elaboram um plano para roubar a caixa de dízimos da igreja. Com Como consequência, a Santa Sé corta relações com Portugal e todos os Republicanos.
+|-
+|5
+|''Nasce a Constituição''
+|O governo provisório se demite. Fim do ''Arco do Governo Provisório''.
+|-
+|6
+|''A Eleição''
+|É chegado o momento de eleger um novo governo. A Assembleia se reúne para escolher o novo presidente.
+|-
+|7
+|''A Escolha da Assembleia''
+|Arriaga vence as eleições e se torna o presidente do segundo (ou seria o primeiro?) governo de Portugal. Começo do ''Arco Arriaga''.
+|-
+|8
+|''Quantos somos?''
+|Com um governo formado, é hora de calcular quantos portugueses existem em Portugal. Para isto, o governo imprimiu milhões de formulários para entregar à população, no entanto, a grande maioria não é entregue, pois é utilizada como papel higiénico, de limpeza ou qualquer outra coisa, já que uma enorme parte da população portuguesa na época não sabia ler.
+|-
+|9
+|''O Caso das Chinesas dos Bichos''
+|Episódio especial onde o processo de implantação da república é visto pelos olhos de duas curandeiras chinesas.
+|-
+|10
+|''O Partido é partido''
+|O Partido Republicano se divide em três correntes: Democráticos, Evolucionistas e Unionistas.
+|-
+|11
+|''O Governo da Concentração''
+|Mais uma transferência de governo e final do ''Arco Arriaga''.
+|-
+|12
+|''O Quarto Governo''
+|O Governo da Concentração termina sem incidentes.
+|-
+|13
+|''A Primeira Outubrada''
+|Explode uma conspiração para trazer de volta a monarquia!
+|-
+|14
+|''Eleições 1913''
+|Fracassa a conspiração monarquista. Os três partidos gerados a partir do PR se enfrentam, valendo o governo
+|-
+|15
+|''O fim da Outubrada''
+|Um [[X9]] dedura a conspiração monarquista, enquanto os senadores assumem seus cargos para começarem o Quinto Governo.
+|-
+|16
+|''O Quinto Governo''
+|Considerado [[filler]], pois nada de importante aconteceu neste episódio.
+|-
+|17
+|''O Sexto Governo''
+|Considerado [[filler]]. Há de se destacar a participação especial de [[José Cid]] como Ministro da Instrução Pública, onde ele passa um quadro inteiro a tentar ensinar os membros do governo a falar inglês, fracassando miseravelmente.
+|-
+|18
+|''Os Monarquistas Atacam Novamente''
+|O sétimo governo é formado. Bernardino Machado tenta ser ministro de tudo, enquanto José Cid passa o episódio inteiro percorrendo a baixa pombalina procurando as melhores favas com chouriço de Lisboa. Na segunda metade do episódio, os monarquistas iniciam uma revolta em [[Mafra]] e [[Torres Vedras]], e um combate entre o exército e as forças rebeldes acontece.
+|-
+|19
+|''Enquanto isso, em Angola...''
+|Episódio [[filler]] onde os eventos do [[combate de Naulila]] são retratados.
+|-
+|20
+|''Um governo miserável''
+|Mais um governo é formado, mas o oitavo governo é tão ruim que só dura até o próximo mês.
+|-
+|21
+|''Ditador!''
+|[[Joaquim Pimenta de Castro]] dá um golpe de judo em uma mesa e assume todas as pastas ministeriais do nono governo. No entanto, ele vê que governar sozinho é impossível. 
+|-
+|22
+|''De Volta à Escola''
+|Impedidos de entrarem no [[Palácio de São Bento]], os congressistas e ministros têm que se reunir em uma escola, onde são desafiados a ensinar algo a seus semelhantes.
+|-
+|23
+|''Cansamos de brincar de ditadura''
+|Os congressistas decidem se livrar de Pimenta de Castro, pedem um navio emprestado à Espanha e mandam o ditador-transformado-em-presidente sair do cargo.
+|}
+
+[[Arquivo:Assinatura da Lei de separação da Igreja e do Estado, da autoria de Afonso Costa (1911-04-20).png|thumb|right|Os congressistas transformados em alunos]]
+
+=== Temporada 3: Entre Duas Juntas (1915-17) ===
+
+Elogiada pelos críticos por um humor menos apelativo e com menos nudez gratuita.
+
+=== Temporada 4: Sidónio (1917-18) ===
+
+[[Arquivo:A Pátria coroando de louros o Soldado Português morto na Grande Guerra (1923) - Veloso Salgado (Museu Militar de Lisboa).png|thumb|Parabéns, faleceste na guerra! Agora, por ter feito o maior dos sacrifícios pela nação <s>francesa</s> portuguesa, nós o presenteamos com uma pinha!]]
+
+Esta temporada, chamada pelos fãs de ''Arco Sidonista'', foi a primeira a ser produzida, em um ambicioso ''crossover'' com a famosa série ''[[Primeira Guerra Mundial]]''. É considerada uma das melhores séries da história da RTP em termos técnicos, além de contar uma ''side story'' memorável no ''Arco de João Ninguém'' que muitos fãs consideram como canônica, apesar de ser originalmente projetada como um [[filler]]. A maioria das cenas deste arco, que acontece simultaneamente em vários episódios, foi gravada em França.
+
+=== Temporada 5: 365 dias de caos (1918-19)  ===
+Após o surpreendente final da temporada 4, a temporada 5 começou a tendência de apresentar diversos plot twists durante os capítulos, alguns que só seriam compreendidos capítulos mais tarde, o que continuaria para o resto da trama.
+
+=== Temporada 6: 366 dias de caos (1920) ===
+Esta temporada é considerada o ápice humorístico da série.
+
+=== Temporada 7: 365 dias de ainda mais caos (1921) ===
+Esta temporada recebeu criticismos por ter um ritmo demasiadamente rápido para a compreensão do telespectador, em um conceito apelidado de ''blitz humorística'' em uma crítica no [[Diário de Notícias]].
+
+=== Temporada 8: The Tó Maria Show (1922-26) ===
+A última temporada apresenta muitas controvérsias, que vão desde o breve cameo de Óscar Carmona até o modo com que a trama se centraliza em António Maria da Silva e suas tentativas desesperadas de salvar a República.
+
+=== Spin-off: Ditadura Nacional (1926-33) ===
+
+Uma produção independente, com elenco e equipe de produção completamente diferentes, realizada em 2019, que começa no final da temporada 8 de ''Primeira República Portuguesa'' e termina momentos antes do primeiro capítulo de ''Salazar''.
+
+== Recepção ==
+
+{{c|Para dizer a verdade, é necessário ter um QI muito alto para entender ''{{PAGENAME}}''. O humor é extremamente sutil, e sem uma compreensão sólida da [[história de Portugal]], a maioria das piadas não será entendida pelos telespectadores. Há também a visão niilista de António José de Almeida, que é habilmente tecida em sua caracterização - sua filosofia pessoal se baseia fortemente na literatura de [[Almeida Garrett]], por exemplo. Os fãs entendem essas coisas; eles têm a capacidade intelectual para realmente apreciar a profundidade dessas piadas, para perceber que elas não são apenas engraçadas: elas dizem algo profundo sobre a VIDA. Como consequência, as pessoas que não gostam de ''{{PAGENAME}}'' são verdadeiramente idiotas: é claro que eles não apreciariam, por exemplo, o humor nas últimas palavras de D. Carlos I "Mataram-me!", que em si são uma referência enigmática para o épico de [[João Canijo]], ''[[Alentejo Sem Lei]]''. Estou sorrindo agora, apenas imaginando um desses simplórios coçando a cabeça em confusão enquanto o épico de [[Mário Botequilha]] se desenvolve nos ecrãs de seus televisores. Que tolos… como eu tenho pena deles.|Ricardo Araújo Pereira|{{PAGENAME}}, em crítica da série escrita para o [[Correio da Manhã]]}}
+
+A série foi extremamente bem recebida, tendo recebido elogios do Ministério da Educação por sua precisão histórica, já que os eventos reais foram um festival de cagadas. [[Marcelo Rebelo de Sousa]] comentou que a obra inaugurava um novo género de produção cinematográfica, que juntava comédia ''slapstick'' com documentário, e chamada de revolucionária pelo [[New York Times]] pela rotatividade de protagonistas, que frequentemente mudavam de papel na trama de acordo com o desenvolvimento do roteiro.
+
+== Influências ==
+
+*O ''Arco Sidonista'' influenciou fortemente vários personagens do aclamado seriado ''[[Segunda Guerra Mundial]]'', como por exemplo, o personagem Mussolini demonstra características obviamente inspiradas em Sidónio Pais e seu modo de governo.
+*Outro seriado de grande duração e sucesso que foi influenciado por esta obra foi o aclamado ''[[Salazar]]'', que é considerado pelos fãs como o sucessor espiritual de ''Primeira República Portuguesa''.
+
+{{História de Portugal}}
+{{Portal3|Portugal}}
+
+[[Categoria:Coisas que deram merda]]
+[[Categoria:Estados extintos da Europa]]
+[[Categoria:Estados republicanos extintos|Portugal]]
+[[Categoria:História de Portugal]]

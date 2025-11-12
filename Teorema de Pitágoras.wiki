@@ -1,0 +1,55 @@
+[[Arquivo:Pitagoras grafite.jpg|thumb|190px|[[Pitágoras]] mostrando-lhe a fórmula, pessoalmente]]
+[[Arquivo:MsnTriangulo.jpg|thumb|Pelo Teorema de Pitágora o [[MSN]] é um triângulo retângulo.]]
+<br>
+{{c|Quem fez o teorema de Pitágoras?|[[Guri retardado]] sobre teorema de Pitágoras}}
+{{c|Fui eu que fiz!|[[Pitágoras]] contando sua maior mentira}}
+{{c|A soma do quadrado dos catetos é igual à porra da hipotenusa|[[Mamonas Assassinas]] ensinando erroneamente o teorema de Pitágoras às crianças.}}
+
+O '''Teorema de Pitágoras''' é provavelmente o mais célebre, popular e idiota dos teoremas da [[matemática]]. A fórmula deste teorema ganhou o prêmio de fórmula que mais aparece em colas de alunos de ensino fundamental e médio.
+
+É também o que mais encheu o saco destes. Quem nunca teve que decorar essa porcaria de fórmula que atire
+a primeira pedra.
+
+{{c|AAAII!!|Eu|pedrada de um analfabeto que provavelmente não pegou a "primeira" pedra}}
+
+== O Teorema==
+[[Arquivo:Pitagoras triangulos.jpg|thumb|200px|Pitágoras fazendo seus cálculos e contas sem nexo para chegar à fórmula]]
+Ele surgiu numa das festas [[grécia|gregas]] que havia pelos palácios. Nela reuniram-se várias personalidades ilustres como [[Platão]], [[Sócrates]] e [[Pitágoras]], este último, sem conseguir se enturmar ou socializar por ser nerd, chamou seus amigos <s>nerds</s> pitagóricos e juntos criaram um novo teorema, o '''Teorema de Pitágoras'''.
+
+Depois de muitos cálculos e contas sem nexo, eles chegaram ao que nos interessa: '''Na fórmula'''.
+
+{{c|E qual é a fórmula?|Você sobre este artigo}}
+
+Tá, já que você provavelmente vai ter uma prova amanhã e só está aqui para ver a fórmula e passá-la para a cola que você está preparando, diremos:
+
+
+:<math>hipotenusa^2 = cateto^2 + o outro cateto^2.\,</math>
+
+
+{{c|E o que porra é hipotenusa e cateto?|Você|a fórmula}}
+
+Ah, meu amigo, aí você já tá querendo demais, não tenho culpa se você é [[burro]]. Vire-se pra procurar.
+
+*Lembre-se que essa fórmula só é útil quando o triângulo for retângulo, quando o triângulo for quadrado ou quando o triângulo for cônico. 
+*Se você não conseguiu entender ou não gosta dessa fórmula, faça como muitos outros e mande o tal do [[Pitágoras]] se foder, mesmo ele já estando morto.
+[[Arquivo:Encontre X.png|thumb|280px|Encontrando o x]]
+
+==Encontrando x==
+Agora [[você]] deve estar perguntando-se: ''Sim, mas como faço pra encontrar o x?''
+
+Simples, olhe cuidadosamente para a figura em que está o triângulo, o [[x]] deverá estar perto de uma das linhas do triângulo, quando o encontrar, rodeie-o e pronto! Você encontrou o x! Para ter a certeza que o professor nota que encontrou o x, faça uma seta apontando para ele.
+
+==Encontrando a droga do x==
+Como visto acima, encontrar [[x]] é fácil, agora se quiser encontrar a [[droga]] do [[x]], a coisa fica complicada.
+
+Sabemos que o x é um [[traficante|traficantezinho]] do caralho, e quase sempre está dando um rolê pelas linhas do triângulo. Descobrir onde ele esconde a [[droga]] é difícil, vai depender do x. Há x que escondem a droga dentro do triângulo, outros escondem atrás de uma das linhas, outros escondem tão bem escondido que ninguém ainda a encontrou.
+
+==Outras dificuldades==
+Porém, o professor pode também pedir pra encontrar o y num triângulo; nesse caso, você se fodeu. Dizem as más línguas que encontrar y é muito mais difícil que encontrar x.
+
+É bom lembrar que, além de ''y'', também pode ser pedido o ''z'', o ''a'', o ''b'', o ''b² - 4ac'', o ''j' - integral de v³ - alfa de q'', etc. Nesses casos, eu repito: Você fodeu-se. Vire-se!
+
+{{Teorias e Teoremas}}
+[[Categoria:Teoremas de matemática|Pitagoras]]
+[[Categoria:Geometria]]
+[[Categoria:Teorias|Pitagoras]]

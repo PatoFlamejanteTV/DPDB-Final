@@ -1,0 +1,69 @@
+<choose>
+<option>{{pokedex}}</option>
+<option>{{vegetal}}</option>
+<option>{{Assombrado}}</option>
+</choose>
+{{PokéBox
+| imagem = decicueye.jpg 
+| frase = Fazendo alguma dança brega.
+| nihongo = ジュナイパー
+| romaji = Junaipā
+| pokedex = 724
+| tipo1 = Grass
+| tipo2 = Ghost
+| habilidade1 = Overgrow
+| habilidade2 = Jogar arco e flechas fantasmas
+| espécie = [[Arqueiro Verde|Oliver Queen]]
+| cadeia evolutiva = [[Arquivo:RowletSprite.gif|link=Rowlet|Rowlet]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:RowletSprite2.gif|70px|link=Dartrix|Dartrix]][[Arquivo:Seta.JPG|30px]] [[Arquivo:RowletSprite3.gif|Decidueye]]}}
+{{Você quis dizer|[[Robin Hood]]?}}
+{{Você quis dizer|Decide, uai?}}
+{{c|Esse é dos meus!|Arqueiro Verde|Decidueye}}
+{{c|Minha coruja de estimação ([[Só que não]])|Harry Potter|Decidueye}}
+{{c|Já peguei esse também!|Primarina|Decidueye}}
+{{c|Ainda sou mais fodão!|Blaziken|Decidueye}}
+{{c|[[mentira|Eu também]]!|Empoleon|comentário acima}}
+{{c|GRRRRRRRRRRRR!|Incineroar|Decidueye}}
+{{c|Eu continuo sendo mais modinha que você|Ash-Greninja|Decidueye}}
+{{c|Vou capturar um e dar o nome de "[[Robin (quadrinhos)|Robin]][[Groot]]".|[[Nerd]] viciado em [[Super-herói]]s|Decidueye}}
+{{c|Eu entendi a referência|Capitão América|citação acima}}
+{{c|"Meu nome é Decidueye. Por cinco anos, eu fiquei preso numa ilha com um moleque chato com um único objetivo: sobreviver. Eu voltei para casa com um objetivo: salvar minha floresta. Agora, outros se juntaram à minha cruzada. Para eles eu sou Decidueye; para o resto da Floresta onde vivo eu sou outra pessoa. Eu sou a [[Arrow|Coruja Verde]]!!!."|Decidueye|ele mesmo}}
+
+'''Decidueye''' é mais um dos novos ([[mentira|e criativos]]) pokémons da sétima geração. É a evolução da [[Rowlet|coruja do Animal Crossing]] e da [[Dartrix|coruja playboy de franja]]. É uma coruja gigante com cabelo de [[1900 e guaraná com rolha]], mas com asas marrons e corpo branco, cara laranja e bico preto. Ele é fã do [[Robin Hood]], por isso vive no meio do mato com um arco e flecha afim de roubar os ricos e dar aos pobres ([[Só que não]])
+
+==Sua descoberta e seu nome==
+[[Arquivo:Família de Rowlet.jpg|thumb|left|Decidueye e seus filhotes nas matas de [[Minas Gerais]] (eles também vivem na [[Floresta Amazonica]], acredite).]] 
+[[Arquivo:Decidueye fodão.jpg|thumb|right|Decidueye se achando o [[Robin Hood]] do mundo Pokémon com seu arco e flecha.]]
+Sua espécie, antes de ser importada nas regiões havaianas de [[Alola]], possui uma grande lenda brasileira, onde ele seria descobertao em terras [[Brasil|tupiniquins]], quando um pássaro grande e verde desconhecido estava voando nas regiões de mata em [[Minas Gerais]], quando dois [[mineiro]]s o encontraram escondido perto de uma árvore e um deles falou:
+
+{{C|Uai,sô! Que trem grande esse!|Um dos mineiros|o pássaro}}
+
+Após isso, um deles tentou verificar que espécie era a ave, mas não descobriu [[porra nenhuma]], a mesma tentou fugir voando, e quase conseguiu, quando um dos mineiros tentou abatê-lo com uma flechada, no qual conseguiu acertar uma parte do bicho e depois da ave cair, os mesmos descobriram que esse pássaro era muito raro e não possuía uma espécie definitiva, no qual o outro apenas observando, quis que a pessoa que atirou desse o nome para a espécie. Os dois tentaram dar <s>a bunda</s> vários apelidos pro bicho, não conseguiam pensar em algo <s>escroto o bastante</s> criativo até que um deles se irritou e disse:
+
+{{c|Estou cansado, decide o nome desse [[porra|trem]], uai!|Um dos mineiros}}
+{{C|Decido, uai!|O outro respondendo}}
+
+[[Arquivo:Ash-Greninja & Decidueye.png|180px|thumb|left|Decidueye e seu amigo [[Ash-Greninja]] juntos, quando não estão fechando a [[Elite 4]] de Alola.]]
+Os dois gostaram da pronúncia da resposta e por puro [[modinha|modismo]], americanizaram a expressão, o apelido dele tornando-se ''Decidueye'', onde um deles colocou uma coleira com esse nome em seu pescoço. No final, a espécie da ave ficou com o nome de ''[[ave|passarus]] [[verde|verdus]] [[flecha|flexus]]''. Sabendo que os dois poderiam ter problema com o [[IBAMA]] ao ver o pássaro morto, os dois tentaram fugir para [[Mariana]], onde enterraram-no naquela lama tóxica, mas quando pensaram que estariam são e salvos, os dois [[Costinha|se foderam]], foram descobertos e presos.
+
+Dois dias após o bicho estar morto, descobriu-se que a lama tóxica de lá era radioativa e isso deu poderes para essa espécie (o que explica o tipo fantasma nele) e com aparências semelhantes a de um [[Pokémon]]. Tentou voar em [[Kalos|terras francesas]] para tentar chamar a atenção, mas <s>eles preferiam [[Ho-oh|aves que soltavam arco-íris pelo cu]]</s> a pokedex deles tava cheia. Decidueye tentou rodear o planeta inteiro, até que ficou cansado e chegou ao fim do mundo (não [[Acre|esse]]), onde parou em uma ilha que uma nova região de pokémons estava sendo feita.
+
+O mesmo foi capturado pelo um treinador e depois foi mandado por cientistas por ele ser desconhecido, onde [[sexo|foi explorado]] e depois visto que tinha poderes de pokémons de grama quanto de fantasmas. Ao ver em sua coleira o apelido Decidueye, os mesmos americanos gostaram do nome e o nomearam-no desse jeito, onde ficou popularizado e [[sexo|breedado]] até virar pokémon comum da região, sendo doado por [[Professor Kukui|professores]], para depois os mesmos doarem-o para treinadores novos e inexperientes.
+
+==Habilidades dele==
+[[Arquivo:Robingroot fodão.png|165px|thumb|Escolhendo [[você|seu alvo]].]]
+Este Pokémon consegue movimentar-se, sem que ninguém detecte a sua presença. Assim que o adversário o perde de vista, o Decidueye aproveita a oportunidade para [[estupro|atacá-lo de surpresa]]. Em um décimo de segundo, o Decidueye é capaz de retirar uma pena em forma de seta <s>do seu cu</s> de sua asa e dispará-la em direção ao seu alvo. Como quase todos pokémons possuem poderes sobrenaturais do nada, a sua velocidade de sua flecha é muito rápida e pode matar alguém facilmente. Os mesmos possuem um golpe apelão que se chama ''Spirit Shackle'', que é um golpe do tipo fantasma, que atira uma flecha com [[macumba]] (<s>já que ele passou pela [[Bahia]] antes de chegar a [[Minas Gerais]]</s>) no adversário, e mantêm-no preso até que [[qualquer um]] dois [[Morte|seja mandado pelo colinho do capeta]].
+
+==Spin-offs==
+Já que faltava algum pokémon de [[Alola]] para fechar a lista de possíveis pokémons para o jogo, e no uni-duni-tê escolheram a coruja fantasma para entrar no jogo mesmo com suas asas-mãos deficientes, irritando os fãs dos iniciais rivais [[Primarina]] e [[Incineroar]], que apenas tiveram aparições fillers com suas pré-evoluções. No jogo de luta, Decidueye é mais um dos apelões que se baseiam em ataques de projéteis, além de raramente se virar com sua asa em formato de mão para alguns ataques.
+
+Além de Pokken, que é um dos jogos que a Timi parece que amou durante a criação de [[Pokémon Unite]] e colocou quase todas as espécies de lá no [[League of Legends]] de monstrinhos de bolso, Decidueye também foi um dos convidados daquela suruba toda, sendo mais um arqueiro (já que League of Legends tem uns 3 ou mais) e como todo personagem que chega ao jogo, chegou quebrado, tanto que após uns quarenta youtubers diferentes do jogo reclamarem disso, além de Decidueye não participar do trio [[furry]] que é obrigado a dominar o meta, voltou a ser aqueles personagens que não fedem e não cheiram.
+
+Novamente, Decidueye aparece em outro spin-off, [[Pokémon Legends: Arceus]], onde o professor de [[Galar]], Laventon gosta do design do [[Rowlet]] em sua viagem para Alola e por curiosidade o leva para Hisui, que é uma região mais fria, porém Laventon estava com medo de morrer ao se deparar com vários pokémons agressivos. Para resolver esse problema, o próprio dá essa missão para uma criança de 15 anos para ver como esse próprio Rowlet se comportava em Hisui, e de tanto pegar frio na região, a espécie praticava golpes de luta para conseguir resistir ao frio de Hisui e de tanto masterizar artes marciais, Decidueye ganha o tipo lutador, além de um chapéu de palha e <s>mais detalhes toscos</s> para mostrar que era tipo lutador, também ganha um tom avermelhado que substitui o seu tom esverdeado.
+== Ver também ==
+*[[Regional Forms]]
+
+{{Poke7}}
+[[Categoria:Fantasmas]]
+[[Categoria:Coisas assustadoras de anime]]
+[[Categoria:Coisas vegetais]]
+[[Categoria:Corujas]]

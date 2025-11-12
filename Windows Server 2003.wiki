@@ -1,0 +1,39 @@
+{{Microsoft}}
+
+[[Arquivo:Windows_2003_server_screens_by_algum_mohammed.gif|thumb|350px|''Área de trabalho'' do Windows Server 2003<s>, 2008, 2012, 2016... sempre a mesma merda</s>. <br/>Uma das poucas vantagens de um Windows Server está no fato de um [[administrador de rede]]s não precisar encarar uma [[Terminal|tela preta]] para ver as horas, por exemplo.]]
+O '''Windows Server 2003''', também conhecido por aqueles que passam tempo demais vendo televisão como '''Microsoft Windows 2003''' ou ainda '''Windows XP 2003''' é um [[sistema operacional|sistema nada operacional]] da [[Microsoft]] e como o nome indica, lançado em 2003. Compõe a célebre série ''Server'' dos Windows, versões do [[Windows]] voltados para uso em [[servidor|máquinas mais parrudas]] ([[servidor da Desciclopédia|ou não]]).
+
+Apesar de lançado quase há 20 anos, esta versão do Windows ainda é usada por milhões de empresas que ainda vivem no século passado. Em razão disso, além de hospedar sites em [[ASP]] e servir de [[Active Directory|servidor de autenticação]], um servidor com o Windows Server 2003 torna-se um grande e delicioso [[honeypot|pote de mel]] para [[script kiddie|criança]]s que sem ter o que fazer na internet, resolvem testar alguns de seus códigos encontrados em algum fórum de ''raquearias'', em sistemas alheios. Por outro lado, isso acaba sendo bom para quem usa o [[Windows Server 2008|Server 2008]] ou o [[Windows Server 2012|2012]], já que não precisariam criar uma proteção do tipo pra rede, pois ela já se encontraria "disponível" na internet.
+
+==Lançamento==
+[[Arquivo:Billg.jpg|thumb|right|185px|[[Bill Gates]] agradecendo por os compradores serem tão acéfalos.]]
+Criado a partir do modelo de sistema operacional usado a partir do [[Windows ME]], o [[Windows NT|''Neandethal Tecnology'']], o Windows Server 2003 na época que foi lançado fez sucesso entre o ''pessoal da T.I.'' por ser um sistema fácil de instalar, já que semelhante ao seu primo contemporâneo (Windows XP), era "[[pirataria|gratuito]]" e não precisava fazer toda a patifaria para a ativação igual é hoje (hoje tem que usar [[pedra de crack|crack]]ers, se vicia, depois ativadores, põe as chaves, depois ativa de novo...), era só pegar a chave de um amigo que as tinha, pegar qualquer carroça que estivesse sobrando na empresa e ''profit''. 
+
+==Versões lançadas==
+Visando arrecadar mais dinheiro com suas patifarias, a Microsoft lançou várias versões do sistema operacional, mudando apenas os "módulos" que vem ativados por ''default''.
+
+;''Windows Server 2003 Web Edition''
+Uma versão do sistema operacional com suporte ao [[Internet Information Services|IIS]] e com ele, toda a sorte de ataques possíveis. A quem quiser ter um queijo suíço em segurança, é altamente recomendado que se faça o uso deste.
+
+;''Windows Server 2003 Standard Edition''
+A versão ''default'' do sistema operacional. Obviamente que por ser completamente capado, ninguém nunca se preocupou em adquirir essa joça, mesmo "de graça".
+
+;''Windows Server 2003 Datacenter Edition''
+Neste Windows Server, o [[Microsoft SQL Server|SQL Server]] vem instalado e desconfigurado por ''default''. Além de ter que tampar os buracos que o sistema possui, quem fazia o uso deste ainda tinha que aprender a estranha sintaxe ''SQL by Microsoft''.
+
+;''Windows Server 2003 Enterprise Edition''
+A única versão piratiável do sistema. Nele, você poderia escolher se o sistema iria se comportar como um servidor de [[banco de dados]], [[servidor web|web]], [[servidorde autenticação|autenticação]] ([[Lightweight Directory Access Protocol|LDAP]]) ou se iria ser um mero [[servidor de arquivos]]. Obviamente, que esta foi a única versão minimamente interessante do sistema e continuou sendo até os dias de hoje, já que as versões continuaram sendo as mesmas no Windows Servers de 2008, 2012 e 2016.
+
+;''Windows Server 2003 Ramsonware Limited Edition''
+Versão de Aniversário de 15 anos do sistema operacional lançado pela Microsoft em 2017. Foi oferecido pela empresa gratuitamente, por meio de uma atualização compulsória e visava a disponibilização de servidores para a nova ''febre'' do momento, os [[ransomware]]s.
+
+==Características==
+Um exemplo de estabilidade em forma de sistema operacional, o Microsoft Windows 2003, segundo Tio Bill, é muito mais seguro que um [[RedHat Linux Enterprise Server]] possuindo uma espantosa tecnologia e flexibilidade, principalmente no que se refere a rendição a vírus e malwares de baixa periculosidade.
+
+Apesar do nome "servidor", o sistema também pôde ser usado para rodar num [[Intel Celeron|Celeron]] qualquer, no lugar de um Windows XP. Dentre suas principais vantagens com relação a um [[Windows XP Professional]], por exemplo, estava no fato de se poder usar duas placas de rede pra melhorar o ping no [[Counter Strike 1.6]], dada as limitações de rede da época. Outra vantagem, era comprar um servidor com duas CPUs pra conseguir rodar um [[Crysis]].
+
+==Aplicações notáveis==
+O sistema operacional foi usado como base do site de relacionamentos Orkut, sensação no Brasil. Todos sabem que o site é um exemplo de estabilidade, rapidez e segurança. Palmas à Microsoft. Ela sempre consegue se superar.
+
+
+{{Windows}}

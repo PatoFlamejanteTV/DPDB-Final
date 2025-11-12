@@ -1,0 +1,92 @@
+<tt>'''10 PRINT "Introdução"'''</tt>
+ 20 PRINT "Você sabe como manter"
+ 30 PRINT "um idiota ocupado"
+ 40 PRINT "em BASIC?"
+ 50 GOTO 20
+ 60 END
+
+  100 '''BASIC''' (aka '''B'''aderna '''A'''ltamente '''S'''implificada, que só '''I'''diotas '''C'''onhecem) é uma 
+  200 linguagem criada por [[Bill Gates]], quando ele era apenas um [[nerd]], e não o nerd mais rico do mundo
+  300
+  400 GOTO [[BASIC#História|História]]
+  <cite id="500">500</cite> GOTO [[BASIC#Evolução|Evolução]]
+  <cite id="600">600</cite> GOTO [[BASIC#Exemplos|Exemplos]]
+  <cite id="700">700</cite> GOTO [[BASIC#Ver também|Ver também]]
+  <cite id="800">800</cite> END
+{{C| Se o Bill Gates ficou rico programando em BASIC, também vou ficar!| idiota|BASIC}}
+{{C|Já fiz| John Travolta|BASIC}}
+==História==
+
+Tudo começou em [[1975]], quando [[Bill Gates]] e seu amigo [[Paul Allen]] fundaram a empresa [[Microsoft|Pequena Macia]]. 
+
+Após uns [[3]] meses de fundação, Bill largou seu jogo de [[Pac-Man]], Paul largou seu livro de [[Cálculo Diferencial]], um olhou para o outro, e chegaram a conclusão de que a empresa deveria estar desenvolvendo algum produto. (O fato do primeiro cliente deles estar na batendo na porta, pedindo o sistema que ele já havia pago para fazerem há 2 meses, deve ter contribuído um pouco para essa conclusão).
+
+Em um momento de tanta pressão, eles conseguiram <s>copiar descaradamente</s> criar uma nova linguagem de programação, dizendo-lhe "Ó, saca essa linguagem que a gente fez! A gente facilitou pra caramba sua vida, você nunca mais vai ter que pagar para alguém fazer programas pra você (talvez só pra [[Bruna Surfistinha]])!". 
+
+O tal cliente, dono de uma das maiores empresas da época, foi o primeiro a receber uma cópia do '''GW-BASIC''' (Grande William's BASIC). Até hoje ninguém sabe quem era, porque a empresa foi à falência [[6]] dias depois, por causa dos inúmeros problemas que tiveram com o sistema de controle de estoque que o cara fez em GW-BASIC.
+
+ 1250 GOTO [[#500|500]]
+
+[[Arquivo:Evo.jpg|thumb|right|[[Evo Morales|Emo Morales]] sobre [[nerd]] que criou esse artigo.]]
+
+==Evolução==
+
+No início havia apenas o GW-BASIC. Mas conforme ele se tornou mais e mais popular, Bill conseguiu um contrato com a IBM, no qual ele faria versões mais e mais avançadas da linguagem. Assim, as pessoas iriam precisar de computadores cada vez mais avançados, que a IBM venderia. 
+
+Dessa forma, tivemos até hoje:
+
+* GW-BASIC
+* BASICA - BASIC ADVANCED (vai entender...)
+* QBASIC / QuickBASIC - não só [[idiota|idiotas]] programam, mas programam mais rápido do que antes
+* VisualBASIC - [[idiota|idiotas]] também podem desenhar janelinhas no [[Paint]], e comandá-las
+* VB.net - agora os [[idiota|idiotas]] podem desenhar janelinhas no [[Paint]], colocá-las na [[Internet]], e comandá-las
+
+ 1337 GOTO [[#600|600]]
+
+==Exemplos==
+
+===GW-BASIC===
+  5 REM PROGRAMA PARA CHEIRAR GATINHOS
+ 10 PRINT "Vou cheirar um gatinho"
+ 20 IF NOT high THEN GOTO 10
+ 25 PRINT "SOOOOOHHHHH"
+ 30 END
+
+===BASICA===
+  5 REM PROGRAMA PARA CHEIRAR GATINHOS
+ 10 ? "Vou cheirar um gatinho"
+ 20 IF NOT high THEN GOTO 10
+ 25 ? "SOOOOOHHHHH"
+ 30 END
+
+===QBASIC===
+ ' Programa para cheirar gatinhos
+ Inicio:
+ PRINT "Vou cheirar um gatinho"
+ IF NOT high THEN GOTO Inicio
+ PRINT "SOOOOOHHHHH"
+ END
+
+===VisualBASIC===
+ Inicio:
+ CriaJanela("Vou cheirar um gatinho", "Já tô alto", "Ainda não tô alto")
+ IF NOT high THEN GOTO Inicio
+
+ 1990 GOTO [[#700|700]]
+
+==Ver também==
+ 2000 GOSUB [[Bill Gates]]
+ 2005 GOSUB [[Microsoft Windows]]
+ 2010 GOSUB [[Idiota]]
+ 2020 GOSUB [[Visual Basic]]
+
+
+ 2030 GOTO [[#800|800]] 
+
+{{Linguagens de Programação}}
+
+
+
+[[en:BASIC]]
+[[fi:BASIC]]
+[[ja:BASIC]]

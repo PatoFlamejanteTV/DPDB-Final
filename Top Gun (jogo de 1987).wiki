@@ -1,0 +1,42 @@
+{{Game}}
+{{Infobox Game
+|title     = Top Tédio
+|image     = Top Gun NES cover.png
+|caption   = Capa do jogo
+|developer = [[Konami|Cunami]]
+|publisher = [[Konami|Cunami]]
+|released  = 1987
+|genre     = Pedaço de bosta
+|rating    = -1/10
+|platform  = [[NES]]
+|ages      = Livre
+}}
+
+'''Top Gun''' é só mais uma desgraça que existe para [[NES]], um jogo baseado em filme que, como você já pode esperar, tem nada a ver com o filme, não havendo uma cena sequer de Tom Cruise azarando gatinhas ou cenas de tensão homossexual do Tom Cruise jogando vôlei de praia e fazendo double-high-five. Este jogo na verdade é só um simulador de voo bem precário cujo principal objetivo é garantir ao jogador a sensação de estar num [[purgatório]].
+
+== Jogabilidade ==
+
+[[Arquivo:Top Gun NES gameplay.jpg|thumb|left|Um jogo sobre aguentar o tédio e taques epilépticos.]]
+
+Top Gun para NES foi reconhecido em sua época como o mais preciso e realista simulador de voo de [[Grumman F-14 Tomcat|F-14]], com muitos pilotos profissionais da aeronáutica norte-americana alegando que a sensação de jogar Top Gun é a mesma de pilotar um caça, pois a única coisa que você vê é o céu e passar horas num tédio total, além de estar cercado de controles e medidores que metade serve pra nada e a outra metade você não sabe o que faz. O cockpit cheio de informação desnecessárias e irrelevante, como altitude e velocidade, garantem o realismo maior.
+
+O jogo, portanto, consiste em perambular por horas contra tela monocromática (tudo branco quando nas nuvens, tudo azul claro quando virado pro céu, tudo azul escuro quando virado pro mar). Eventualmente surge algum inimigo na tela que vai tacar um monte de bola de boliche flamejante em você.
+
+O primor pelo realismo é visto no fato de que os tirinhos normais de munição infinita causam o mesmo dano dos mísseis, afinal se você é um avião no céu qualquer tiro te derrubará mesmo.
+
+Os maiores desafios desse jogo são pousar no porta-aviões e ser reabastecido no ar. O painel vai te mandar apertar tanto botão que 1 vida a menos será sempre o resultado.
+
+== Enredo ==
+
+Por ser um jogo chatíssimo e entediante, o desenvolvedor teve a dó de disponibilizar apenas quatro fases, dentre as quais a primeira fase é tutorial, diminuindo assim o sofrimento de quem planeje zerar esse negócio.
+
+O jogo, portanto, caga pro enredo do filme, como qualquer jogo baseado em filme, e ficamos apenas por aí atirando em [[MiG]]s.
+
+Na primeira fase devemos sobreviver ao tédio, na segunda fase atacamos um [[porta-aviões]], na terceira fase atacamos uma fortaleza e base de satélites, e na última e quarta fase atacamos uma fortaleza e base de satélites.
+
+{{Top Gun games}}
+{{Simulador de voo}}
+
+[[Categoria:Jogos lançados em 1987]]
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Nintendo Entertainment System]]

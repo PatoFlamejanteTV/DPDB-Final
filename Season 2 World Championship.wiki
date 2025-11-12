@@ -1,0 +1,137 @@
+{{C|Cadê o Faker?|Algum idiota|Mundial de 2012}}
+{{C|Saudades termos um time melhor que os europeus...|Russos|Moscow Five}}
+
+A '''Season 2 World Champioship''' foi o segundo mundial (ou pelo menos o primeiro segundo os americanos), onde foi realizado no [[2012|ano que a piada famosa da Libertadores perdeu o sentido]], em pleno solo americano, onde dessa vez apareceu finalmente os times chineses e coreanos nessa [[merda]].
+
+Para não colocar os e-sports de [[League of Legends]] em plena falência, os organizadores da [[Riot Games|Rito Gomes]] resolveram aumentar o prêmio do campeonato, de 100 milhões de dólares zimbabueanos para 110 milhões, no qual quase todas as equipes concordaram com isso.
+
+A edição de 2012 foi marcada pelos [[sarcasmo|ótimos computadores americanos]] de qualidade chinesa que sempre travavam nas partidas não importando no começo, no meio ou no final, ou alguém cortava a [[internet]] de lá. Por causa disso tinham vários reinícios de partida, o que tornou um dos mundiais mais <s>esquecíveis</s> memoráveis.
+
+==Fase de grupos==
+{{C|Quem deixou esses idiotas entrarem?|Europeus e americanos|times coreanos}}
+
+Os campeões das ligas principais na época recebiam uma vantagem de pular na fase de grupos, que eram os times [[Team SoloMid]], [[Moscow Five]], [[Team WE]] e [[Taipei Assassins]] e [[Azubu Frost]], no qual fizeram um sorteio para que pelo menos quatro delas fossem beneficiadas, mas por azar dos outros competidores, ficou mais um coreano na fase de grupos, o que acabaram facilmente vencendo os times das outras regiões.
+
+Na fase de grupos, os times americanos realmente se foderam bonito, onde nenhum deles acabou se classificando, além do time do sudeste asiático, que apenas entrou para participar novamente.
+===Grupo A===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="20"|{{Tooltip|Pos.|Posição}}
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|D|Derrotas}}
+|-
+|bgcolor=#CCFFCC|1||align=left bgcolor=#CCFFCC|[[Arquivo:Bandeira da Coreia do Sul.png|20px|link=LCK]] [[Azubu Frost|Urubu Frost]]||bgcolor=#CCFFCC|'''3-0'''||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|0
+|-
+|bgcolor=#CCFFCC|2||align=left bgcolor=#CCFFCC|[[Arquivo:Bandeira da República Popular da China.png|20px|link=LPL]] [[Invictus Gaming|Perde Todas Gaming]]||bgcolor=#CCFFCC|'''2-1'''||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|1
+|-
+|bgcolor=#FFCCCC|3||align=left bgcolor=#FFCCCC|[[Arquivo:Bandeira Canadá e Estados Unidos.png|20px|link=NA LCS]] [[CLG|Foda-se a Lógica]]||bgcolor=#FFCCCC|'''1-2'''||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|2
+|-
+|bgcolor=#FFCCCC|4||align=left bgcolor=#FFCCCC|[[Arquivo:Eu!naz1.gif|20px|link=EU LCS]] [[SK Gaming|SKT de mentirinha]]||bgcolor=#FFCCCC|'''0-3'''||bgcolor=#FFCCCC|0||bgcolor=#FFCCCC|3
+|}
+|}
+
+===Grupo B===
+
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="20"|{{Tooltip|Pos.|Posição}}
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|D|Derrotas}}
+|-
+|bgcolor=#CCFFCC|1||align=left bgcolor=#CCFFCC|[[Arquivo:Bandeira da Coreia do Sul.png|20px|link=LCK]] [[NaJin Sword|Espada na Jiromba]]||bgcolor=#CCFFCC|'''3-0'''||bgcolor=#CCFFCC|3||bgcolor=#CCFFCC|0
+|-
+|bgcolor=#CCFFCC|2||align=left bgcolor=#CCFFCC|[[Arquivo:Eu!naz1.gif|20px|link=EU LCS]] [[CLG|Foda-se a Lógica Europeia]]||bgcolor=#CCFFCC|'''2-1'''||bgcolor=#CCFFCC|2||bgcolor=#CCFFCC|1
+|-
+|bgcolor=#FFCCCC|3||align=left bgcolor=#FFCCCC|[[Arquivo:Bandeira do Vietna.png|20px|link=Garena Premier League]] [[Saigon Jokers|Piada de <s>Ho Chi Minh</s> Saigon]]||bgcolor=#FFCCCC|'''1-2'''||bgcolor=#FFCCCC|1||bgcolor=#FFCCCC|2
+|-
+|bgcolor=#FFCCCC|4||align=left bgcolor=#FFCCCC|[[Arquivo:Bandeira Canadá e Estados Unidos.png|20px|link=NA LCS]] [[Team Dignitas|Team Tapa da Dignidade]]||bgcolor=#FFCCCC|'''0-3'''||bgcolor=#FFCCCC|0||bgcolor=#FFCCCC|3
+|}
+|}
+
+===Quartas-de-final===
+Sem as regras totalmente retardadas das vitórias grátis, além do chaveamento totalmente confuso do mundial do ano passado, as quartas de final começaram com um sorteio confuso entre os times campeões de liga contra os times que passaram na fase de grupos, onde não deu certo nem pra um, nem pra outro.
+
+A partida entre os time da [[Team WE]] e a [[CLG]] europeia ficou mais famoso pelos seus inúmeros erros da [[ironia|incrível qualidade]] americana e seus computadores, o que causaram inúmeros bugs no jogo, desconectando o jogadores várias vezes nas tentativas, onde tiveram que reagendar as semi-finais por causa dessas [[merda]]s.
+
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 
+|-
+| align=center |1
+| align=right  | [[Arquivo:Bandeira da Rússia.png|20px|link=EU LCS]] '''[[Moscow Five|Moscou Cinco Vezes]]'''
+| align=center | 2-0
+| [[Invictus Gaming|Perde Todas Gaming]] [[Arquivo:Bandeira da República Popular da China.png|20px|link=LPL]]
+|-
+| align=center |2
+| align=right  | [[Arquivo:Bandeira de Taiwan.png|20px|link=LMS]] '''[[Taipei Assassins|Assassinados de Taipei]]'''
+| align=center | 2-0
+| [[NaJin Sword|Espada na Jiromba]] [[Arquivo:Bandeira da Coreia do Sul.png|20px|link=LCK]]
+|-
+| align=center |3
+| align=right  | [[Arquivo:Bandeira Canadá e Estados Unidos.png|20px|link=NA LCS]] [[Team SoloMid|Team HanSolo]]
+| align=center | 0-2
+| '''[[Azubu Frost|Urubu Frost]]''' [[Arquivo:Bandeira da Coreia do Sul.png|20px|link=LCK]]
+|-
+| align=center |4
+| align=right  | [[Arquivo:Bandeira da República Popular da China.png|20px|link=LPL]] [[Team WE|Winning Eleven]]
+| align=center | 1-2
+| '''[[CLG|Foda-se a Lógica Europeia]]''' [[Arquivo:Eu!naz1.gif|20px|link=EU LCS]]
+|}
+==Semi-final==
+Como eram outros tempos, naquela época os times europeus eram considerados os favoritos, com a Moscow Five vencendo vários torneios e metendo medo até nos times coreanos, além da CLG europeia, que não era aquele timinho que namorava a lanterna após 2017 e eram os favoritos, porém decepcionaram todo mundo, com as semi-finais começando com o time do Taiwan surpreendendo o time europeu que estava em alta, qual venceram por 2 a 1. Do outro lado, o time coreano campeão venceu mais uma, dessa vez seus fregueses europeus da CLG pelo mesmo placar, dando adeus para mais um sonho europeu.
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 
+|-
+| align=center |1
+| align=right  | [[Arquivo:Bandeira da Rússia.png|20px|link=EU LCS]] [[Moscow Five|Moscou Cinco Vezes]]
+| align=center | 1-2
+| '''[[Taipei Assassins|Assassinados de Taipei]]''' [[Arquivo:Bandeira de Taiwan.png|20px|link=LMS]]
+|-
+| align=center |2
+| align=right  | [[Arquivo:Bandeira da Coreia do Sul.png|20px|link=LCK]] '''[[Azubu Frost|Urubu Frost]]''' 
+| align=center | 2-1
+| [[CLG|Foda-se a Lógica Europeia]] [[Arquivo:Eu!naz1.gif|20px|link=EU LCS]]
+|}
+==Final==
+[[Arquivo:TaipeiAssassins.png|235px|thumb|Jogadores comemorando o <s>único</s> título.]]
+O jogo começou com o time coreano achando que iria ganhar facilmente, onde conseguiram realmente ficar na frente no primeiro jogo, mas depois fizeram apenas [[merda]] e o time taiwanês conseguiu ficar com o seu primeiro (e único) título do campeonato, onde esse jogo criou um boato que os times coreanos teriam medo dos times taiwaneses.
+
+{| class="wikitable"
+|-
+!align=center width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center width="80"| Total ||align=center width="200"| Equipe 2 
+|-
+| align=center |1
+| align=right  | [[Arquivo:Bandeira de Taiwan.png|20px|link=LMS]] '''[[Taipei Assassins|Assassinados de Taipei]]'''
+| align=center | 3-1
+| [[Azubu Frost|Urubu Frost]] [[Arquivo:Bandeira da Coreia do Sul.png|20px|link=LCK]]
+|}
+==Acusação de roubos==
+Diferente da edição zuada de 2011, nessa edição foram feitas [[mais de 8000]] denúncias a cinco jogadores que ficaram simplesmente olhando pro telão principal para ganhar vantagens de localização, o que acabou apenas dando leves advertências para jogadores da [[Team WE]], [[Invictus Gaming]], [[Team SoloMid]] e da própria campeã [[Taipei Assassins]], mas quando outro jogador burro da [[Azubu Frost]] que ainda não tinha feito nenhuma [[merda]], foi o único time a ser punido por esses atos dizendo que teria influenciado no jogo pelo choro do time americano da [[TSM]], o que gerou uma revolta por parte dos coreanos.
+==Campeão==
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!World Championship 2012<br/>
+|-
+![[Arquivo:EscudoTPA.png|border|150px]]
+|-
+|align=center|'''[[Taipei Assassins|Assassinados de Taipei]]'''<br />
+(1° título)<br />
+|}
+==Ver também==
+{{lolworlds}}
+[[Categoria:Competições de League of Legends|World Championship 2012]]

@@ -1,0 +1,54 @@
+{{Jogo}}
+{{Infobox Game
+|title     = Fórmula 0 Orgasmo
+|image     = FZeroClimaxBoxArt.png
+|caption   = Quem pegar a Jody primeiro ganha!
+|developer = [[Suzak Inc.|Suzana]]
+|publisher = [[Nintendo|Mariotendo]]
+|released  = 2004
+|genre     = Correr pra caralho do futuro
+|rating    = Mais de 8000 Km/h
+|platform  = [[Game Boy Advance|Gayme Boy Advance]]
+|ages      = Só basta saber entender japonês
+}}
+
+'''{{PAGENAME}}''' é o 6° e último jogo da franquia [[F-Zero]] e é o menos famoso entre todos, já que foi apenas lançado no Japôn e nunca veio para as mãos dos capitalistas americanos. Esse jogo é a sequela do [[F-Zero: GP Legend]], só que muito mais difícil e chato. Sem contar que eles tiraram o modo história, assim ninguém tem como saber o motivo de [[Captain Falcon]] estar apostando racha com seus parsas de novo.
+
+==O que esse jogo tem de diferente?==
+<s>Nada</s> As corridas agora tem [[24]] pilotos ao invés dos 30 de todos os outros jogos. Além disso, as pistas tem 3 voltas (Estilo [[F-Zero X|X]] e [[F-Zero GX|GX]]) no lugar de serem 5 (como no [[F-Zero]] de [[SNES]]). Pra ficar mais difícil ainda, foi adicionada mais uma dificuldade, o '''Master''', para aqueles que são realmente prozões. Com essa dificuldade a mais, 15 novas pistas foram adicionadas (Total de 53). A Platinum Cup agora são versões ainda mais difíceis das pistas do Super Nintendo (destaque pra escrotisse da Big Blue - Big Billow). Como dito acima, o modo história foi retirado. No lugar dele foi adicionado o modo sobrevivência (Pera, virou [[Minecraft]] agora?), onde você tem 5 vidas e precisa completar todas as missões. De resto, o jogo é a mesma merda.
+==Modos de jogo==
+* '''Grand Prix''': Você corre contra outros 23 otários em 5 pistas, menos na Platinum Cup, que são 8 pistas. Se você já jogou Mario Kart, você provavelmente conhece esse modo.
+* '''Survival''': Você tem 5 vidas e precisa completar todas as missões.
+* '''Time Attack''': Outra parada que também tem no Mario Kart. Você corre pra conseguir o melhor tempo.
+* '''Edit''': Você cria sua própria pista. [[Trivago|Simples assim]].
+* '''Options''': Você ajusta as opções do jogo, dããã!
+* '''Communication''': Modo multiplayer com o GBA Link Cable pra você jogar com seus miguxos.
+==Circuitos==
+* [[Mute City|Cidade Mutante]]: A pista da cidade que tem que estar em todo jogo de F-Zero.
+* [[Big Blue|Grande Azul]]: A pista em cima do oceano que todo mundo gosta da música.
+* [[Sand Ocean|Oceano de Areia]]: A pista baseada no GP do Bahrein de F1.
+* [[Port Town|Cidade do Porto]]: Mônaco no futuro.
+* [[Lightning (F-Zero)|Lightning]]: A pista na usina elétrica de Itaipu.
+* [[Mist Flow]]: A White Land com nevoeiro.
+* [[White Land|Terra Branca]]: A fase na Antártida.
+* [[Silence (F-Zero)|Silence]]: Apesar do nome, a música é boa...
+* [[Red Canyon|Canion Vermelho]]: A pista nos canions dos Esteites.
+* [[Fire Field|Campo de Fogo]]: A fase do vulcão que não é um Bowser's Castle do Mario.
+* [[Illusion (F-Zero)|Ilusão]]: A Rainbow Road do F-Zero.
+
+==Pilotos==
+===Veteranos===
+*[[Captain Falcon]]: O protagonista fodão. Tem o melhor carro, tem um bom boost e controla muito bem.
+*[[Samurai Goroh]]: O arquirrival do Falcon. Tem um carro rosa, que é o mais rápido. Escorrega mais do que gelo.
+*[[Dr. Stewart]]: O doutor e cientista da série. É ele quem constrói os carros dos pilotos. O carro dele tem a melhor aceleração e o melhor boost, mas tem uma velocidade final razoável.
+*[[Pico|<s>Pica</s> Pico]]: Extremamente parecido com o [[Piccolo]] do Dragon Ball, ele é o que tem o carro mais balanceado, perfeito para os n00bs.
+
+
+
+{{F-Zero}}
+
+[[Categoria:Jogos lançados em 2004]]
+[[Categoria:Jogos da Suzak]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos de corrida]]

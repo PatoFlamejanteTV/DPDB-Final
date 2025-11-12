@@ -1,0 +1,45 @@
+{{game}}
+
+{{Infobox Série Game
+|title         = Phantasia Estar
+|image_logo    = phantasy.jpg
+|caption       = Uma [[Narrador da Sessão da Tarde|galerinha do barulho]]
+|genre         = [[RPG]]
+|developer     = [[Sega]]<br>[[Sonic Team]]
+|publisher     = Sega
+|origin        = [[Master System]]
+|first_release = [[Phantasy Star (jogo)|Phantasy Star]]<br>([[1987]])
+|last_release  = [[Phantasy Star Nova]]<br>([[2014]])
+}}
+
+{{vqd|Final Fantasy}}
+{{c|Dizem que a Samus foi a primeira protagonista mulher dos jogos... Mas nós fomos os primeiros a botar uma MULHER jogavel!|Sega|Alis não esconder sua identidade no primeiro jogo como a Samus}}
+{{c|Porque caralhos esses caras colocaram '''Phantasy''' com '''PH'''?|Professor de ortografia|{{PAGENAME}}}}
+{{c|É plágio de D&D|Nerd viciado em D&D|{{PAGENAME}}}}
+
+'''Phantasy Star''' é uma série de jogos clássica do gênero [[RPG]] produzida e distribuída pela [[Sega]]. Ao contrário da maioria dos outros games no mesmo estilo que eram lançados naquela época, a franquia não se resume ao clichê basicão do ''capa-e-espada'', e traz muitos elementos futuristas mesclados com o clima medieval, como por exemplo a disponibilidade do uso de pistolas e veículos para auxiliar no combate aos monstros. Ou seja, é como misturar [[fantasia]] com [[ficção científica]] em um liquidificador, resultando nessa bagaça aí.
+
+O [[primeiro]] jogo da série foi originalmente criado para o console do [[Master System]], no atualmente longínquo ano de [[1987]], e não havia nenhum plano inicial para lançar uma sequência ou convertê-lo para outras plataformas, o que possivelmente faria dele apenas mais um joguinho aleatório perdido nos anais da história videogamística. Porém, o sucesso acabou sendo maior do que o esperado, o que fez com que a Sega expandisse Phantsy Star e lançasse tantas versões e capítulos extra quanto fosse possível, o que faz com que essa joça perdure até os dias atuais, contando inclusive com uma série paralela spin-off chamada [[Phantasy Star Online]], que conforme o criativo nome já indica, foi lançada para ser jogada online. 
+
+Um dos fatos mais surpreendentes para justificar o êxito de Phantasy Star é o de que sua protagonista é uma garota, e não um brucutu marombado como é geralmente esperado. Mais do que isso, a personagem tem uma anatomia completamente proporcional e condizente com a realidade humana, sem peitão ou bundão para atiçar o lado punheteiro dos jogadores, além de usar um figurino prático e comportado com o qual seria até possível enfrentar monstros de verdade. Isto é, se eles realmente existissem. Ok, você deve ter entendido.
+==Jogabilidade==
+A personagem central da série é [[Alis Landeel]], moça direita e de respeito, ainda que mal tenha peito, pois conforme já foi mencionado, ela não é uma dessas [[hentai girl]]s exageradas de curvas fartas e trajes mínimos. Claro que isso não impede que haja doente que se anime a bater umazinha por ela, afinal de contas, era o final dos [[anos 80]] e personagens femininas jogáveis ainda eram consideradas uma tremenda raridade.
+
+A saga de Phantasy Star é ambientada em um [[sistema solar]] alternativo chamado Algol, composto por [[quatro]] planetas fictícios, sendo eles:
+*''Palma'', um mundo de terras agrícolas férteis onde vivem seres humanos {{Strike|caipiras}} comuns;
+*''Motavia'', um enorme deserto habitado por [[ewoks]];
+*''Dezoris'', um lugar repleto de gelo e neve cujos habitantes são parentes do [[Grinch]];
+*''Rykros'', o planeta misterioso que abriga monstros e onde acontecem várias bizarrices.
+
+Obviamente, Alis é uma habitante nativa de Palma, o que pode ser facilmente notado por sua aparência. Como a Sega já estava se arriscando bastante em botar uma protagonista feminina, não podiam avacalhá-la muito para não causar estranhamento demais. 
+
+A jornada de Alis tem início após a morte de seu irmão Nero, que estava investigando os motivos que levaram o governante local Lassis a virar um ditador tirano ao invés do outrora rei bonzinho que era. Para vingar a morte de seu ente fraternal, a moça decide seguir adiante com o objetivo dele e sai por aí excursionando por labirintos subterrâneos e cavernas que a levam entre os planetas de Algol, como se fosse a coisa mais normal do mundo. Parece até uma novela da [[Globo]], em que os personagens transitam de país em país como se estivessem indo na equina para comprar pão.
+
+==Jogos==
+Sendo uma franquia iniciada em 1987 que perdura até os dias de hoje, Phantasy Star já conta com [[mais de 8000]] jogos lançados, incluindo canônicos, spin-offs, {{Strike|complicações}} compilações e remakes. Você não achou mesmo que a [[Desciclopédia]] iria resenhar cada um deles para você, achou? Em caso de resposta afirmativa, sentimos muito em informar que você é um trouxa que só perdeu tempo lendo este artigo até aqui.
+
+{{Phantasy Star}}
+{{Sega}}
+{{Game RPG}}
+
+[[categoria:Jogos da Sega]]

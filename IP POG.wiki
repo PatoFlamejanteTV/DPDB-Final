@@ -1,0 +1,33 @@
+
+<br>
+{{C|"É só adicionar mais um estado."|Designer IP POG sobre sua máquina de estados.}}
+{{C|"Eu acho que é problema no módulo B."|Designer do módulo A sobre falha na integração.}}
+{{C|"Error: Quartus II Full Compilation was unsuccessful. 1 error, 23443 warnings"|Quartus II sobre seu projeto, 3 horas depois que começou a compilar}}
+{{C|"Quartus II Full Compilation was successful. 0 errors, 0 warnings. Elapsed time: 1 second"| Quartus II sobre [[Chuck Norris]] compilando um projeto em IP POG.}}
+{{C|"Você traiu o movimento POG"| [[Dado Dolabella]] sobre o POG de software.}}
+
+IP POG é um processo para desenvolvimento de IP Cores (Hardware) que tem suas origens no [[POG]].
+
+== Conceitos de IP POG ==
+*Nenhum documento deve ter mais de uma folha
+*Misture o máximo de linguagens de HDL possíveis, assim seu projeto fica mais complexo;
+*Ande sempre com um baralho de tarô, caso algum [[bug|BUG]] místico apareça (projeto de hardware tem muito disso);
+*Plano de verificação é para quem não sabe programar, programador IP-POG já escreve o código testado.
+
+== Técnicas IP POG ==
+*Quando está programando em SystemC, abuse dos templates. Isto faz seu código parecer mais profissional;
+*Abuse das famosas caixinhas mágicas (ou caixinhas POG, como prefirir). Veja a figura a seguir:
+[[Arquivo:Hardware pog.png]]
+<br>
+*Hardware feito em POG '''DEVE''' ser controlado usando software feito em POG. Projetos que não acatam a esta técnica estão fadados ao fracasso;
+*Verificação baseada em LEDs (LED aceso = funciona);
+*Verificação single teste case: se 1+1 = 2, x + y = z.
+
+== Lugares onde IP POG é usado ==
+*[[Intel]]
+*[[USP|UPE - POLI]]
+*[[UFPE]]
+*[[UFPR]]
+*[[UTPJ]]
+*[[Unicamp]] (não confirmado)
+[[Categoria:Linguagens de programação]]

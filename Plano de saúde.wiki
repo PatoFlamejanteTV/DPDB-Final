@@ -1,0 +1,24 @@
+{{trevas}}
+{{imagem}}
+{{você quis dizer|Consórcio-Doença?}}
+
+'''Plano de Saúde''' é o nome dado para uma série de planos [[médico]]s que em teoria seriam voltados a dar um suporte suplementar do ponto de vista médico em complemento aos serviços [[porco]]s do ''[[SUS|Sus scrofa]]'', mas que por motivos óbvios, no geral não fornecem um atendimento adequado as demandas de saúde de seus eventuais contratantes.
+
+Se trata de um conjunto de serviços pagos por [[otário]]s, digo, por membros da [[classe média]] urbana na tentativa de ter um atendimento minimamente adequado em alternativa aos serviços da rede conveniada ao SUS, ainda que na prática tais pessoas falhem miseravelmente nisso, até pelo fato de tais planos serem geridos por empresas mercenárias que vivem de criar dificuldades para o acesso ao atendimento à saúde, em especial quando o mesmo pode colocar em risco os resultados financeiros do negócio.
+
+==Funcionamento==
+
+Os planos de saúde se baseiam em um modelo de adesão com mensalidades artificialmente baixas para crianças e jovens no início da idade economicamente ativa e uma escala de aumento progressivo das mensalidades a medida que a pessoa fica mais velha, sendo que os aumentos teriam a ver com o aumento da demanda das pessoas em geral pelos serviços do plano de saúde.
+
+Tais valores mais baixos consideram tão somente a demanda gerada pelos usuários em relação aos planos de saúde, desconsiderando de forma bastante conveniente que tal demanda tende a ser reprimida pelo fato de não haver uma preocupação a sério com políticas de saúde preventiva, a não ser em políticas pontuais adotadas principalmente por parte do setor público, tais como as políticas de [[vacina|vacinação]] em massa e de acompanhamento da saúde de [[gestante]]s, [[parturiente]]s e [[criança]]s em idade pré-escolar com vistas a mitigar o problema da mortalidade infantil, que era bem mais alta antes da implementação de tais políticas, lá pelos idos da [[ditadura militar brasileira]]. 
+
+Além disso, as empresas que operam com tais planos fazem a cobrança de guias para efeitos de consultas e outros procedimentos médicos ou mesmo laboratoriais, com vistas a minimizar os custos com tais processos e manter o negócio lucrativo com a boa e velha lógica porca de que cliente bom é cliente que não dá despesa, ainda que o descaso com a saúde no curto prazo resulte em problemas ainda mais graves para os mutuários de tais planos a médio e longo prazo.
+
+==Exemplos de empresas que vendem planos de saúde no Brasil==
+*{{ifexist|Unimed}} - A mais conhecida das empresas que fazem esse tipo de venda. Se trata de um consórcio de empresas coligadas a nível nacional sob a mesma marca franqueada, cujo atendimento as demandas de saúde é bem precária, apesar de viver sobrando dinheiro pra bancar peripécias na linha de ter bancado por anos a fio marca exposta na camiseta do [[Fluminense|Tapetense]], a despeito de deixar seus usuários na mão, em especial na hora de cobrir procedimentos mais complexos, com a burocracia dos hospitais indo cobrar que o atendido pelo plano de saúde pague por fora o dos procedimentos mais complexos, dado que o plano de saúde vai regatear e pagar o mínimo possível pelo procedimento, fazendo com que a operação seja deficitária.
+*{{ifexist|Amil}} - Conhecido plano de alta classe, é vendido como um plano elitizado, mas apresenta problemas similares a outros planos. Também é conhecido por deixar os seus clientes na mão em procedimentos mais complexos, mas ainda assim sobra dinheiro pra manter a aparência da marca, principalmente em regiões mais ricas do país, como a [[Grande São Paulo]] por exemplo.
+*{{ifexist|Hapvida}} - Plano surgido no nordeste e conhecido pelo péssimo atendimento prestado na região, recentemente vem aportando nas regiões mais ricas do país, mas isso é meio que para enganar os bobos dado que assim como ocorre em outros planos, o compromisso com a lucratividade do plano é maior do que com a saúde dos eventuais contratantes de seus planos, como pôde ser provado na época do estouro da pandemia de [[COVID-19]].
+*{{ifexist|Prevent Senior}} - Empresa que até a época da pandemia conseguiu enganar bem ao supostamente prestar um serviço mais adequado as necessidades da população de terceira idade, mas a máscara caiu quando a pandemia estourou e o então ministro [[Luiz Henrique Mandetta]] expôs a vulnerabilidade da empresa, coisa que mais tarde seria aproveitada pela trupe bolsonarista para uma série de experimentos duvidosos e contraproducentes para com a saúde pública, na tentativa de vender medicamentos na linha de [[cloroquina]], [[hidroxicloroquina]] e [[ivermectina]] como possíveis "curas" para a pandemia de COVID, mesmo que tais remédios carecessem de efetividade no sentido de permitir a profilaxia da sintomatologia correlata ao contágio com o vírus do COVID-19.
+
+{{saúde}}
+{{trambiques}}

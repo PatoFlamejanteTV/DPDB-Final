@@ -1,0 +1,51 @@
+{{game}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Terra do Super Mario
+|image     = Super Mario Land cover.png
+|caption   = De colorido, o jogo só tem a capa
+|developer = [[Nintendo]]
+|publisher = [[Nintendo]]
+|released  = [[1989]]
+|genre     = [[plataforma]]
+|rating    = 20%
+|platform  = [[Game Boy]]
+|ages      = 10 anos (invasão alienígena)
+}}
+
+{{c|Prefiro Pokémon!!|Louco que tem um Game Boy|Super Mario Land}}
+
+'''Super Mario Land''' é o primeiro jogo da série [[Super Mario]] lançado para um portátil, no caso, o [[Game Boy|Game Boy fuleiro bicolor]] sendo um jogo bem tosco que foi lançado basicamente apenas para encher linguiça e o Game Boy ter alguma coisa que não fosse só Pokémon.
+
+== Desenvolvimento ==
+
+O ano é 1989, nessa época o dono da Nintendo, [[Shigeru Miyamoto]], estava trancafiado no porão de sua casa escrevendo o roteiro de [[The Legend of Zelda: Ocarina of Time]] e ele não acompanhou o desenvolvimento de Super Mario Land. Miyamoto deixou o [[pepino]] de fazer um jogo de ½ bit para seu fiel escudeiro fazer, o sombra e puxa-saco [[Gunpei Yokoi]]. O resultado foi um protótipo do que viria a ser futuramente o [[Cat Mario]], um jogo que tosco onde parece que o Mario está com torcicolo e por isso não consegue se mover precisamente nos toscos cenários em 3D.
+
+== Jogabilidade ==
+
+[[Arquivo:Super Mario Land.png|thumb|left|O jogo oferece várias dicas de onde realmente fica o [[Reino Cogumelo]]. Nas proximidades da [[Ilha de Páscoa]], talvez.]]
+
+O jogador deve guiar um encanador italiano e bigodudo que tem um estranho fetiche sexual por armários através de 12 fases cheias de inimigos com nomes japoneses, usando apenas como armas [[cogumelo]]s, [[flor]]es, pulos e muita força de vontade para conseguir passar tanta fase mal feita.
+
+Como era de se esperar de qualquer jogo de 1989, Super Mario Land não tem como salvar, então o jogador precisa zerá-lo num mesmo dia e antes que a bateria do Game Boy acabe, por isso apesar de toda tosqueira do jogo não existe nenhuma fase difícil ou complexa, é tudo sobre pular em tijolos e pular por cima de buracos.
+
+== Enredo ==
+
+O jogo conta a história de um encanador chamado [[Mario (personagem)|Mario]] que estava puto da vida com os diversos calotes que vinha sofrendo em sua terra natal e que foi tirar umas férias no reino vizinho [[Sarasaland]] ("Reino da Cachaça" na tradução em português). Mario fica surpreendido quando descobre que a princesa local [[Princesa Daisy|Daisy]] foi raptada por um alien anão e tarado chamado Tatanga. Como Mario é acostumado a ficar resgatando vagabundas de sequestros, ele decide que vai resgatar essa princesa e descobrir se ela gosta de armários.
+
+[[Luigi]] e [[Bowser]] não aparecem nesse jogo, provavelmente estão se fartando com a [[Princesa Peach|Princesa Bitch]] (que também não aparece em Super Mario Land), sendo este o segundo jogo onde Luigi não é mencionado e não recebe salário, não havendo portanto a menção "Bros." no título do jogo.
+
+== Recepção ==
+
+Como só crianças catarrentas jogaram essa porcaria em 1989, nunca houve nenhuma crítica especializada sobre esse jogo. Mas um estudo concluiu que jogar Super Mario Land por períodos prolongados pode causar [[miopia]], [[estrabismo]] ou [[epilepsia]] devido à telinha minúscula e à falta de cor e brilho do [[Game Boy]]. Com cores em preto e branco com um leve chamuscado esverdeado, sem contar com a tela minúscula do [[Game Boy]], Super Mario Land exibe um dos piores gráficos dentre todos os jogos da [[Nintendo]], sendo agressivo aos olhos sensíveis, é pior até que o [[Mario Bros.]] lançado para [[TRS-80 Color Computer]].
+
+O jogo vendeu incríveis 18 milhões de cópias, mas esse número é longe de ser qualquer vantagem do game, essas vendas ocorreram porque Super Mario Land era praticamente o único jogo decente (sem ser [[Pokémon]]) existente para [[Game Boy]], e como a [[Nintendo]] fez um marketing agressivo na venda do [[Game Boy]], ameaçando as crianças até de morte as vezes, o portátil que todos descobriram ser uma bosta, só servia para jogar [[Kirby]], [[Pokémon]] e esse Mario foleiro mesmo...
+
+{{Super Mario}}
+
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Game Boy]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos lançados em 1989]]

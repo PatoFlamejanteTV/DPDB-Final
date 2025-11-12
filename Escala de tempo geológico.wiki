@@ -1,0 +1,496 @@
+
+
+[[Arquivo:Geological time spiral.jpg|thumb|280px|Esquema ilustrativo da escala de tempo geológico feito por um geólogo após consumo ostensivo de substâncias psicotrópicas.]]
+
+'''Escala de tempo geológico''' é uma linha temporal imaginária e hipotética criada por um conjunto de estudantes de ficção científica (geólogos) que por algum motivo acreditam poder ver o passado através das cores dos extratos das rochas... e depois reclamam dos pais de santo que sabem o futuro jogando búzios.
+
+Essa linha temporal se subdivide em [[éon]]s, [[Era geológica|eras]], [[Período geológico|períodos]], épocas, idades, milênios, séculos, décadas, anos, meses, dias, horas, minutos, segundos e milésimos.
+
+== História do estudo ==
+
+Tudo começou quando [[Aristóteles]] comia [[escargot]] em [[Paris]] quando reparou a diferença na tonalidade das conchas dos caramujos, chegando à conclusão que aqueles em tonalidade mais marrons eram mais indigestos (validade vencida) ao contrário dos mais branquinhos. Foi assim que ele chegou à conclusão que quanto mais marrom algo, mais antigo.
+
+Posteriormente [[Avicena]] estudou fósseis e rocha lançando o primeiro livro de geologia da humanidade, discorrendo sobre como melhor manejar malabares pirotécnicos num semáforo para arrecadar esmolas.
+
+Anos depois cientistas inventaram um tal de teste [[carbono-14]] que inventa que algo existiu ou não há milhões de anos atrás, e aí quem for trouxa acredita, e quem for um completo desocupado se interessa.
+{{break}}
+
+== Linha do tempo geológico ==
+
+{|  class=toccolours border="1"  cellpadding="5" style="border-collapse:collapse;" 
+|-
+! style="width: 120px;" | Superéon
+! style="width: 120px;" | [[Éon (geologia)|Éon]]
+! style="width: 120px;" | [[Era geológica|Era]]
+! style="width: 120px;" | [[Período geológico|Período]]
+! style="width: 120px;" | Época
+! style="width: 120px;" | Idade
+! style="width: 240px;" | Principais Eventos
+! Início, milhões<br/>de anos atrás<ref>Datas completamente imprecisas e aleatórias, acredite nisso por sua conta em risco.</ref>
+|-
+| rowspan="102" |
+| rowspan="102" style="background:#9AD9DD" | [[Fanerozoico]]
+| rowspan="24" style="background:#F2F91D" | [[Cenozoico]]
+| rowspan="7" style="background:#F9F97F" | [[Quaternário]]
+| rowspan="3" style="background:#FEF2E0" | [[Holoceno]]
+| style="background:#FFFAFA" | [[Megalaiano]]
+| rowspan="3" | [[Humano]]s são criados no [[Jardim do Éden]] para destruírem o [[planeta]] depois de milhões de anos.
+| style="background:#FFFAFA" | 0 – 0.0042
+|-
+| style="background:#FFFFF4" | [[Nortegripiano]]
+| style="background:#FFFFF4" | 0.0042 – 0.0082
+|-
+| style="background:#FFFFF0" | [[Gronelandês]]
+| style="background:#FFFFF0" | 0.0082 – 0.0117
+|-
+| rowspan="4" style="background:#FFF2AE" | [[Pleistoceno]]
+| style="background:#FFF2D3" | [[Tarentiano]]
+| rowspan="4" | [[Homo sapiens|Humanos]] ainda são macacos conforme o filme [[A Era do Gelo]].
+| style="background:#FFF2D3" | 0.0117 – 0.126
+|-
+| style="background:#FFF2C7" | [[Chibaniano]]
+| style="background:#FFF2C7" | 0.126 – 0.781
+|-
+| style="background:#FFF2BA" | [[Calabriano]]
+| style="background:#FFF2BA" | 0.781 – 1.80
+|-
+| style="background:#FFF2CC" | [[Gelasiano]]
+| style="background:#FFF2CC" | 1.80 – 2.58
+|-
+| rowspan="8" style="background:#FFE619" | [[Neogeno]]
+| rowspan="2" style="background:#F4F9AD" | [[Plioceno]]
+| style="background:#F4F9BF" | [[Placenciano]]
+| rowspan="2" | O planeta ainda parece uma [[Cuiabá]] gigante, ou seja, uma merda. Surgem os primeiros australianos [[Hominidae|Australopitecíneo]]s.
+| style="background:#F4F9BF" | 2.58 – 3.600
+|-
+| style="background:#F4F9B3" | [[Zancliano]]
+| style="background:#F4F9B3" | 3.600 – 5.333
+|-
+| rowspan="6" style="background:#FFFF00" | [[Mioceno]]
+| style="background:#FFFF73" | [[Messiniano]]
+| rowspan="6" | Marcianos colonizam a Terra com os primeiros [[rinoceronte]]s, [[gato]]s, [[camelo]]s, [[cavalo]]s, [[hominidae|grandes simios]] e [[ursídeos|urso]]s.
+| style="background:#FFFF73" | 5.333 – 7.246
+|-
+| style="background:#FFFF66" | [[Tortoniano]]
+| style="background:#FFFF66" | 7.246 – 11.63
+|-
+| style="background:#FFFF59" | [[Serravaliano]]
+| style="background:#FFFF59" | 11.63 – 13.82
+|-
+| style="background:#FFFF4D" | [[Languiano]]
+| style="background:#FFFF4D" | 13.82 – 15.97
+|-
+| style="background:#FFFF41" | [[Burdigaliano]]
+| style="background:#FFFF41" | 15.97 – 20.44
+|-
+| style="background:#FFFF33" | [[Aquitaniano]]
+| style="background:#FFFF33" | 20.44 – 23.03
+|-
+| rowspan="9" style="background:#FD9A52" | [[Paleogeno]]
+| rowspan="2" style="background:#FDC07A" | [[Oligoceno]]
+| style="background:#FEE6AA" | [[Catiano]]
+| rowspan="2" |Primeiro [[Mico Azul]]
+| style="background:#FEE6AA" | 23.03 – 28.1
+|-
+| style="background:#FED99A" | [[Rupeliano]]
+| style="background:#FED99A" | 28.1 – 33.9  
+|-
+| rowspan="4" style="background:#FDB46C" | [[Eoceno]]
+| style="background:#FDCDA1" | [[Priaboniano]]
+| rowspan="4" | Primeiros [[Digimon]]s e [[gelo]] na [[Antártica]].
+| style="background:#FDCDA1" | 33.9 – 37.8
+|-
+| style="background:#FDC091" | [[Bartoniano]]
+| style="background:#FDC091" | 37.8 – 41.2
+|-
+| style="background:#FCB482" | [[Luteciano]]
+| style="background:#FCB482" | 41.2 – 47.8 
+|-
+| style="background:#FCA773" | [[Ipresiano]]
+| style="background:#FCA773" | 47.8 – 56.0 
+|-
+| rowspan="3" style="background:#FDA75F" | [[Paleoceno]]
+| style="background:#FDBF6F" | [[Tanetiano]]
+| rowspan="3" | [[Botafogo]] perde a primeira [[Libertadores]].
+| style="background:#FDBF6F" | 56.0 – 59.2
+|-
+| style="background:#FEBF65" | [[Selandiano]]
+| style="background:#FEBF65" | 59.2 – 61.6 
+|-
+| style="background:#FDB462" | [[Daniano]]
+| style="background:#FDB462" | 61.6 – 66.0 
+|-
+| rowspan="30" style="background:#62C5CA" | [[Mesozoico]]
+| rowspan="12" style="background:#7FC64E" | [[Cretáceo]]
+| rowspan="6" style="background:#A6D84A" | [[Cretáceo Superior|Superior]]
+| style="background:#F2FA8C" | [[Maastrichtiano]]
+| rowspan="6" | Primeiros [[Pokémon]]s do tipo [[plantae|planta]] com venenoso, bem como os do tipo psíquico, e a extinção dos [[dinossauros]].
+| style="background:#F2FA8C" | 66.0 – 72.1
+|-
+| style="background:#E6F47F" | [[Campaniano]]
+| style="background:#E6F47F" | 72.1 – 83.6 
+|-
+| style="background:#D9EF74" | [[Santoniano]]
+| style="background:#D9EF74" | 83.6 – 86.3
+|-
+| style="background:#CCE968" | [[Coniaciano]]
+| style="background:#CCE968" | 86.3 – 89.8 
+|-
+| style="background:#BFE35D" | [[Turoniano]]
+| style="background:#BFE35D" | 89.8 – 93.9
+|-
+| style="background:#B3DE53" | [[Cenomaniano]]
+| style="background:#B3DE53" | 93.9 – 100.5 
+|-
+| rowspan="6" style="background:#A6D84A" | [[Cretáceo Inferior|Inferior]]
+| style="background:#CCEA97" | [[Albiano]]
+| rowspan="6" | [[Dinossauro]]s se preparam pro fim.
+| style="background:#CCEA97" | 100.5 – ~113.0
+|-
+| style="background:#BFE48A" | [[Aptiano]]
+| style="background:#BFE48A" | ~113.0 – ~125.0 
+|-
+| style="background:#B3DF7F" | [[Barremiano]]
+| style="background:#B3DF7F" | ~125.0 – ~129.4
+|-
+| style="background:#A6D975" | [[Hauteriviano]]
+| style="background:#A6D975" | ~129.4 – ~132.9
+|-
+| style="background:#99D36A" | [[Valanginiano]]
+| style="background:#99D36A" | 132.9 – ~139.8
+|-
+| style="background:#8CCD60" | [[Berriasiano]]
+| style="background:#8CCD60" | ~139.8 – ~145.0
+|-
+| rowspan="11" style="background:#34B2C9" | [[Jurássico]]
+| rowspan="3" style="background:#B3E3EE" | [[Jurássico Superior|Superior]]
+| style="background:#D9F1F7" | [[Titoniano]]
+| rowspan="3" | Cai um [[Genki Dama]] na [[Pangeia]] dividindo-a em [[Gondwana]] e [[Laurásia]].
+| style="background:#D9F1F7" | 145.0 – 152.1
+|-
+| style="background:#CCECF4" | [[Kimeridgiano]]
+| style="background:#CCECF4" | 152.1 – 157.3 
+|-
+| style="background:#BFE7F1" | [[Oxfordiano]]
+| style="background:#BFE7F1" | 157.3 – 163.5
+|-
+| rowspan="4" style="background:#80CFD8" | [[Jurássico Médio|Médio]]
+| style="background:#BFE7E5" |[[Caloviano]]
+| rowspan="4" | Os [[mamífero]]s surgem e se escondem em tocas esperando os dinossauros morrerem.
+| style="background:#BFE7E5" | 163.5 – 166.1
+|-
+| style="background:#B3E2E3" | [[Batoniano]]
+| style="background:#B3E2E3" | 166.1 – 168.3
+|-
+| style="background:#A6DDE0" | [[Bajociano]]
+| style="background:#A6DDE0" | 168.3 – 170.3
+|-
+| style="background:#9AD9DD" | [[Aaleniano]]
+| style="background:#9AD9DD" | 170.3 – 174.1
+|-
+| rowspan="4" style="background:#42AED0" | [[Jurássico Inferior|Inferior]]
+| style="background:#99CEE3" | [[Toarciano]]
+| rowspan="4" | Os [[mamífero]]s surgem e se escondem em tocas esperando os dinossauros morrerem.
+| style="background:#99CEE3" | 174.1 – 182.7
+|-
+| style="background:#80C5DD" | [[Pliensbaquiano]]
+| style="background:#80C5DD" | 182.7 – 190.8
+|-
+| style="background:#67BCD8" | [[Sinemuriano]]
+| style="background:#67BCD8" | 190.8 – 199.3
+|-
+| style="background:#4EB3D3" | [[Hetangiano]]
+| style="background:#4EB3D3" | 199.3 – 201.3
+|-
+| rowspan="7" style="background:#994E96" | [[Triássico]]
+| rowspan="3" style="background:#BD8CC3" | [[Triássico Superior|Superior]]
+| style="background:#E3B9DB" | [[Reciano]]
+| rowspan="7" | Surgem os [[dinossauros]] que não tinham a [[NASA]] nem [[Bruce Willis]] para salvá-los do [[meteoro]].
+| style="background:#E3B9DB" | 201,3 – ~208,5
+|-
+| style="background:#D6AAD3" | [[Noriano]]
+| style="background:#D6AAD3" | ~208,5 – ~227,0
+|-
+| style="background:#C99BCB" | [[Carniano]]
+| style="background:#C99BCB" | ~227,0 – ~237,0
+|-
+| rowspan="2" style="background:#B168B1" | [[Triássico Médio|Médio]]
+| style="background:#BB87B6" | [[Ladiniano]]
+| style="background:#BB87B6" | ~237,0 – ~242,0
+|-
+| style="background:#BC75B7" | [[Anisiano]]
+| style="background:#BC75B7" | ~242,0 – 247,2
+|-
+| rowspan="2" style="background:#983999" | [[Triássico Inferior|Inferior]]
+| style="background:#B051A5" | [[Olenequiano]]
+| style="background:#B051A5" | 247,2 – 251,2
+|-
+| style="background:#A4469F" | [[Indiano (geologia)|Indiano]]
+| style="background:#A4469F" | 251,2 – 252,17
+|-
+| rowspan="48" style="background:#99C08D" | [[Paleozoico]]
+| rowspan="9" style="background:#F04028" | [[Permiano]]
+| rowspan="2" style="background:#FBA794" | [[Lopinguiano]]
+| style="background:#FCC0B2" | [[Changxinguiano]]
+| rowspan="9"| Primeiros trogloditas.
+| style="background:#FCC0B2" | 252.17 – 254.14
+|-
+| style="background:#FCB4A2" | [[Wujiapinguiano]]
+| style="background:#FCB4A2" | 254.14 – 259.8
+|-
+| rowspan="3" style="background:#FB745C" | [[Guadalupiano]]
+| style="background:#FB9A85" | [[Capitaniano]]
+| style="background:#FB9A85" | 259.8 – 265.1
+|-
+| style="background:#FB8D76" | [[Wordiano]]
+| style="background:#FB8D76" | 265.1 – 268.8
+|-
+| style="background:#FB8069" | [[Roadiano]]
+| style="background:#FB8069" | 268.8 – 272.3
+|-
+| rowspan="4" style="background:#EF5845" | [[Cisuraliano]] 
+| style="background:#E38776" | [[Kunguriano]]
+| style="background:#E38776" | 272.3 – 283.5
+|-
+| style="background:#E37B68" | [[Artinsquiano]]
+| style="background:#E37B68" | 283.5 – 290.1
+|-
+| style="background:#E36F5C" | [[Sacmariano]]
+| style="background:#E36F5C" | 290.1 – 295.0
+|-
+| style="background:#E36350" | [[Asseliano]]
+| style="background:#E36350" | 295.0 – 298.9
+|-
+| rowspan="7" style="background:#67A599" | [[Carbonífero]]
+| rowspan="4" style="background:#99C2B5" | [[Pansilvaniano]]
+| style="background:#CCD4C7" | [[Gjeliano]]
+| rowspan="4" | Primeiros [[pokémon]]s [[inseto]]s, [[carvão]].
+| style="background:#CCD4C7" | 299.0 – 303.9
+|-
+| style="background:#BFD0C5" | [[Casimoviano]]
+| style="background:#BFD0C5" | 303.9 – 306.5
+|-
+| style="background:#B3CBB9" | [[Moscoviano]]
+| style="background:#B3CBB9" | 306.5 – 311.7
+|-
+| style="background:#99C2B5" | [[Basquiriano]]
+| style="background:#99C2B5" | 311.7 – 318.1
+|-
+| rowspan="3" style="background:#678F66" | [[Mississipiano]]
+| style="background:#BFC26B" | [[Serpucoviano]]
+| rowspan="3" | Surge a [[Mulher Samambaia]].
+| style="background:#BFC26B" | 318.1 – 328.3
+|-
+| style="background:#A6B96C" | [[Viseiano]]
+| style="background:#A6B96C" | 328.3 – 345.3
+|-
+| style="background:#8CB06C" | [[Turnaciano]]
+| style="background:#8CB06C" | 345.3 – 359.2
+|-
+| rowspan="7" style="background:#CB8C37" | [[Devoniano]]
+| rowspan="2" style="background:#F1E19D" | [[Devoniano Superior|Superior]]
+| style="background:#F2EDC5" | [[Fameniano]]
+| rowspan="7" | Primeiros [[sushi]]s.
+| style="background:#F2EDC5" | 358.9 – 372.2
+|-
+| style="background:#F2EDAD" | [[Frasniano]]
+| style="background:#F2EDAD" | 372.2 – 382.7
+|-
+| rowspan="2" style="background:#F1C868" | [[Devoniano Médio|Médio]]
+| style="background:#F1E185" | [[Givetiano]]
+| style="background:#F1E185" | 382.7 – 387.7
+|-
+| style="background:#E5D075" | [[Eifeliano]]
+| style="background:#E5D075" | 387.7 – 393.3
+|-
+| rowspan="3" style="background:#E5AC4D" | [[Devoniano Inferior|Inferior]]
+| style="background:#E5D075" | [[Emsiano]]
+| style="background:#E5D075" | 393.3 – 407.6
+|-
+| style="background:#E5C468" | [[Pragiano]]
+| style="background:#E5C468" | 407.6 – 410.8
+|-
+| style="background:#E5B75A" | [[Lochkoviano]]
+| style="background:#E5B75A" | 410.8 – 419.2
+|-
+| rowspan="8" style="background:#B3E1B6" | [[Siluriano]]
+| colspan="2" style="background:#E6F5E1" | [[Pridoli]]
+| rowspan="8"| primeiras [[Embriófito|cenouras e nabos com rostos]].
+| style="background:#E6F5E1" | 419.2 - 423.0
+|-
+| rowspan="2" style="background:#BFE6CF" | [[Ludlow]]
+| style="background:#D9F0DF" | [[Ludfordiano]]
+| style="background:#D9F0DF" | 423.0 – 425.6
+|-
+| style="background:#CCECDD" | [[Gorstiano]]
+| style="background:#CCECDD" | 425.6 – 427.4
+|-
+| rowspan="2" style="background:#B3E1C2" | [[Wenlock]]
+| style="background:#CCEBD1" | [[Homeriano]]
+| style="background:#CCEBD1" | 427.4 – 430.5
+|-
+| style="background:#BFE6C3" | [[Sheinwoodiano]]
+| style="background:#BFE6C3" | 430.5 – 433.4
+|-
+| rowspan="3" style="background:#99D7B3" | [[Llandovery]]
+| style="background:#BFE6CF" | [[Teliquiano]]
+| style="background:#BFE6CF" | 433.4 – 438.5
+|-
+| style="background:#B3E1C2" | [[Aeroniano]]
+| style="background:#B3E1C2" | 438.5 – 440. 8
+|-
+| style="background:#A6DCB5" | [[Rudaniano]]
+| style="background:#A6DCB5" | 440.8 – 443.8
+|-
+| rowspan="7" style="background:#009270" | [[Ordoviciano]]
+| rowspan="3" style="background:#7FCA93" | [[Ordoviciano Superior|Superior]]
+| style="background:#A6DBAB" | [[Hirnantiano]]
+| rowspan="7" | Primeiras [[anchova]]s.
+| style="background:#A6DBAB" | 443.4 - 445.2
+|-
+| style="background:#A6DCB5" | [[Katiano]]
+| style="background:#A6DCB5" | 445.2 – 453.0 
+|-
+| style="background:#A6DCB5" | [[Sandbiano]]
+| style="background:#A6DCB5" | 453.0 – 458.4
+|-
+| rowspan="2" style="background:#4DB47E" | [[Ordoviciano Médio|Médio]]
+| style="background:#A6DBAB" | [[Darriwiliano]]
+| style="background:#A6DBAB" | 458.4 – 467.3
+|-
+| style="background:#A6DCB5" | [[Dapinguiano]]
+| style="background:#A6DCB5" | 467.3 – 470.0
+|-
+| rowspan="2" style="background:#1A9D6F" | [[Ordoviciano Inferior|Inferior]]
+| style="background:#A6DBAB" | [[Floiano]]
+| style="background:#A6DBAB" | 470.0 – 477.7
+|-
+| style="background:#A6DCB5" | [[Tremadociano]]
+| style="background:#A6DCB5" | 477.7 – 485.4
+|-
+| rowspan="10" style="background:#7FA056" | [[Cambriano]]
+| rowspan="3" style="background:#B3E095" | [[Furônguico]]
+| style="background:#E6F5C9" | [[Estágio 10 do Cambriano|Estágio 10]]
+| rowspan="10" | Primeiras [[anelídeo|minhocas]], [[artrópodes|baratas]], [[moluscos]] e sanduíches de siri; [[Gondwana]] emerge.
+| style="background:#E6F5C9" | 485.4 – ~489.5 
+|-
+| style="background:#D9F0BB" | [[Jiangxaniano]]
+| style="background:#D9F0BB" | ~489.5 – ~494.0
+|-
+| style="background:#CCEBAE" | [[Paibiano]]
+| style="background:#CCEBAE" | ~494.0 – ~497.0 
+|-
+| rowspan="3" style="background:#A6CF86" | [[Miaolínguico]]
+| style="background:#CCDFAA" | [[Guzanguiano]]
+| style="background:#CCDFAA" | ~497.0 – ~500.5
+|-
+| style="background:#BFD99D" | [[Drumiano]]
+| style="background:#BFD99D" | ~500.5 – ~504.5 
+|-
+| style="background:#B3D492" | [[Wuliuano]]
+| style="background:#B3D492" | ~504.5 – ~509.0
+|-
+| rowspan="2" style="background:#99C078" | [[Cambriano Série 2|Série 2]]
+| style="background:#B3CA8E" | [[Estágio 4 do Cambriano|Estágio 4]]
+| style="background:#B3CA8E" | ~509.0 – ~514.0
+|-
+| style="background:#A6C583" | [[Estágio 3 do Cambriano|Estágio 3]]
+| style="background:#A6C583" | ~514.0 – ~521.0
+|-
+| rowspan="2" style="background:#8CB06C" | [[Terranóvico]]
+| style="background:#A6BA80" | [[Estágio 2 do Cambriano|Estágio 2]]
+| style="background:#A6BA80" | ~521.0 – ~529.0 
+|-
+| style="background:#99B575" | [[Fortuniano]]
+| style="background:#99B575" | ~529.0 – 541.0
+|-
+| rowspan="14" style="background:#B0C4D8" | [[Pré-Cambriano]]
+| rowspan="10" style="background:#CCD891" | [[Proterozoico]]
+| rowspan="3" style="background:#CAA595" | [[Neoproterozoico]]
+| colspan="3" style="background:#EAD8BC" | [[Ediacarano]]
+| Surge [[Bob Esponja]].
+| style="background:#EAD8BC" | 541 – 635
+|-
+| colspan="3" style="background:#DCABAA" | [[Criogeniano]]
+| Terra congelada
+| style="background:#DCABAA" | 635 – 720
+|-
+| colspan="3" style="background:#CBA46C" | [[Toniano]]
+| Nascem os primeiros cabelos do [[Tony Ramos]].
+| style="background:#CBA46C" | 720 – 1000
+|-
+| rowspan="3" style="background:#DDC288" | [[Mesoproterozoico]]
+| colspan="3" style="background:#DDC288" | [[Esteniano]]
+| É uma cilada [[Bino]].
+| style="background:#DDC288" | 1000 – 1200 
+|-
+| colspan="3" style="background:#DDC288" | [[Ectasiano]]
+| Inventam o [[ecstasy]] para animar festas.
+| style="background:#DDC288" | 1200 – 1400 
+|-
+| colspan="3" style="background:#DDC288" | [[Calimiano]]
+| [[Mitocôndrias]] conquistam o [[planeta]]. 
+| style="background:#DDC288" | 1400 – 1600 
+|-
+| rowspan="4" style="background:#B3B25E" | [[Paleoproterozoico]]
+| colspan="3" style="background:#B3B25E" | [[Estateriano]]
+| Surge a [[Colômbia]].
+| style="background:#B3B25E" | 1600 – 1800 
+|-
+| colspan="3" style="background:#B3B25E" | [[Orosiriano]]
+| Primeiros [[Metroids]].
+| style="background:#B3B25E" | 1800 – 2050 
+|-
+| colspan="3" style="background:#B3B25E" | [[Riaciano]]
+| [[Pão de Açúcar]] emerge.
+| style="background:#B3B25E" | 2050 – 2300 
+|-
+| colspan="3" style="background:#B3B25E" | [[Sideriano]]
+| Plantas evoluem para o level 12 e aprendem a fazer [[fotossíntese]].
+| style="background:#B3B25E" | 2300 – 2500
+|-
+| rowspan="4" style="background:#99ADAC" | [[Arqueano]]
+| colspan="4" style="background:#CBCDC8" | [[Neoarqueano]]
+| Surgem pedras que respiram.
+| style="background:#CBCDC8" | 2500 – 2800 
+|-
+| colspan="4" style="background:#B2B5AF" | [[Mesoarqueano]]
+| primeiras [[Cyanobacteria]]s.
+| style="background:#B2B5AF" | 2800 – 3200
+|-
+| colspan="4" style="background:#999791" | [[Paleoarqueano]]
+| primeiro supercontinente [[Vaalbara]].
+| style="background:#999791" | 3200 – 3600
+|-
+| colspan="4" style="background:#809090" | [[Eoarqueano]]
+| Primeiros [[vírus]] da [[AIDS]].
+| style="background:#809090" | 3600 – 4031
+|-
+| rowspan="4" style="background:#809090" | [[Hadeano]]<br><ref>Éon completamente hipotético, a Terra nem existia.</ref> 
+| colspan="5" style="background:#809090" | [[Ímbrico]]
+| Fim do bombardeio de [[meteorito]]s.
+| style="background:#809090" | 3200 – 3850
+|-
+| colspan="5" style="background:#809090" | [[Nectárico]]
+| Deus cria os [[terremoto]]s
+| style="background:#809090" | 3850 – 3920
+|-
+| colspan="5" style="background:#809090" | [[Grupos Basin]]
+| Deus inventa o golpe [[Meteoro de Pégasus]] e começa a testar na [[Terra]], usando ela como saco de pancadas. Deus cria o [[oceano]]. Deus cria um metal chamado [[zircônio]]
+| style="background:#809090" | 3920 – 4150
+|-
+| colspan="5" style="background:#809090" | [[Críptico]]
+| Deus cria o [[Sol]]. Deus começa a fazer a [[Terra]] "em 7 dias" (esses dias foram que nem os [[Os cinco minutos mais longos do universo]] que ocorreram no Planeta Namekusei, mas isso já é outra história). A [[Lua]] cai na Terra.
+| style="background:#809090" | 4150 – 4570
+|}
+
+== Ver também ==
+
+* <big>'''[[Nova proposta de escala de tempo geológico]]'''</big> - Nova escala confeccionada pela Universidade Biriguiense de Massachussets, aceita por grande parte da Comunidade de Geólogos Anônimos.
+
+== Referências ==
+<references/>
+
+[[Categoria:Escala de tempo geológico|*]]
+
+[[en:Geologic time scale]]

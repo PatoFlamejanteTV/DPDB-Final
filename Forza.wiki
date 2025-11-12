@@ -1,0 +1,38 @@
+{{game}}
+
+{{Infobox Série Game
+|title         = FraqueZa
+|image_logo    = Forza series.png
+|caption       = Logotipo da série
+|genre         = Corridinha
+|developer     = [[Microsoft Game Studios]]
+|publisher     = [[Microsoft Game Studios]]
+|origin        = [[Bloco de Notas]]
+|first_release = [[Forza Motorsport (2005)]]
+|last_release  = [[Forza Motorsport (2023)]]
+}}
+
+'''Forza''' é meramente a tentativa da Microsoft de ter seu próprio [[Gran Turismo]] para seus consoles Xbox, algo que é impossível de se conseguir porque os fanboys do Xbox querem saber só de jogo de tiro e compram só Halo e Gears of War, fadando o Forza a um ostracismo que só alcança o Gran Turismo quando a Sony faz uma cagada homérica, como o desastroso lançamento do [[Gran Turismo 6]] que foi um fiasco em todos aspectos, assim proporcionando um leve sucesso para o [[Forza Motorsport 6]]. Forza são jogos de corrida que apostam tudo em qualidade gráfica, deixando a jogabilidade em segunda prioridade e a inteligência artificial ainda mais em segundo plano.
+
+[[Arquivo:Forza jogo.png|thumb|left|220px|Diferenças.]]
+
+A série divide-se atualmente em duas sub-franquias, a [[Forza Motorsports]] e a [[Forza Horizon]]. Embora haja rumores de novos projetos de plágio de formatos consagrados de jogos de corrida, como talvez a criação do '''Forza Kart''' com personagens de Halo e Gears of War, e também talvez o '''Top Forza Gear''' onde o carro fic aparado e o planeta que começa a girar e se mover, mas estas prováveis novas sub-franquias não passam de apenas rumores ainda.
+
+== Motorsports ==
+
+A série Motorsports são os jogos clássicos de corrida de Forza, que são todos uma cópia de Gran Turismo, com a diferença de que ao invés de lançar alguma DLC, a Microsoft faz o favor de lançar um Forza Motorsports novo a cada 2 anos, idêntico ao anterior e cada vez mais maçante, mas apenas para alcançar o número de jogos existentes em Gran Turismo, e agora que alcançou ninguém sabe direito muito o que fazer.
+
+Nos jogos Forza Motorsports, a jogabilidade é mais focada em simulação, tornando as corridas sem graça, chatas e incapazes de fazer qualquer jogador desejar jogar mais do que uns 4 circuitos antes de ir jogar algo mais interessante em seu Xbox, ou ir comprar um PlayStation que é mais negócio.
+
+== Horizon ==
+
+Não satisfeitos em apenas copiar Gran Turismo, a Microsoft lançou também uma nova série, o seu [[Forza Horizon]], dessa vez para copiar o [[Need for Speed]], ou seja, um jogo de putaria com carros, e que no fim acabou dando mais certo que o original. Os fãs, claro, entenderam muito bem, afinal são todos já muito acostumados com a falta de personalidade de tudo que é produzido pela [[Microsoft Game Studios]], então a série foi bem recebida.
+
+{{Forza}}
+{{Xbox Game Studios}}
+{{Game Racing}}
+
+[[Categoria:Jogos da Turn 10 Studios]]
+[[Categoria:Jogos da Playground Games]]
+
+[[es:Forza]]

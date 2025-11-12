@@ -1,0 +1,62 @@
+{{água}}
+
+{{Info lutadores de video-game
+|nome                    = Fizz
+|imagem                  = FizzSquare.png 
+|País de Nascimento      = [[Atlântida]]
+|Altura                  = 0,90 cm
+|Estilo de Luta          = [[Chato|Ser insuportável]]
+|Arma Preferida          = [[Tridente|Tridente <s>do]] [[Aquaman]]</s>
+|Técnica Máxima Secreta  = Jogar uma [[traíra]] que invoca um [[tubarão]]
+|Profissão               = Dublador do [[Bart Simpson]]
+|Característica Marcante = Você não vai lembrar que este campeão existe... Até cair contra ele
+|Comida Favorita         = [[Trident]]
+|Frase Favorita          = "HORA DO LANCHEEEEEE!!!"
+|Esporte                 = Nado sincronizado 
+|Mania                   = Dormir
+}}
+
+{{c|Então ele desvia de dano e depois me dá instakill na mesma skill?... Da hora...|Jogador de [[mago]]|cair contra um Fizz}}
+
+{{c|Eu acabo com eles!|Fizz prestes a acabar com o jogo do time inimigo ou do time aliado.}}
+
+'''Fizz''' é um campeão de [[League of Legends|Polo aquático]], normalmente da rota do [[Mid laner|meio]]. Ele é usado como [[assassino]] (exceto a uns anos atrás, quando dava pra fazer ele [[tanque]]...) devido a sua incrível habilidade de primeiro sumir com o [[AD Carry|ADC]] e depois de vista. Quando não está em partida, fica treinando animais marinhos nas [[Bahamas]]. 
+
+== História ==
+[[Arquivo:Fizzcachorrolol.png|thumb|200px|left|[[Riot Games|Riot]] quando inventou de transformar um [[peixe]] num [[cachorro]]]].
+Fizz é um peixe muito serelepe que morava no fundo de oceano com seu povo [[Baiano|fazendo altas doses de nada com salpicos de porra nenhuma, dormindo nas horas vagas e cochilando pra passar o tempo]]. Certo dia, foi avistado um cardume de dragões-peixes... Ou era peixe-dragão?... Bom, a ordem não importa, é tudo a mesma coisa que sua vó crente chamaria de [[Leviatã]]. Nossa destemida [[tilápia]] foi caçar os bichos pra fazer um ensopado com sua galera, mas quando voltou, quem tinha feito o ensopado tinham sido os bichos, que comeram todo mundo da cidade. Fizz ficou aterrorizado, tão assustado que dormiu, acordando anos depois no [[Rio Tietê]]. Enojado pela imundice daquele rio, foi até a superfície protestar, e acharam a voz dele engraçada. Foi oferecido um contrato pra dublar um personagem no [[Os Simpsons]] — pagava bem —  e ele aceitou. Está lá até hoje (porque Simpsons só acaba quando a [[FOX]] falir), e faz bicos de vez em quando em '''Summoner's Rift''' matando alguns otários.
+
+== Por que jogar de Fizz? ==
+[[Você]], que lê esse artigo, e joga [[League of Legends|LoL]] ([[ou não]]), pode estar se perguntando: "Tá, é um peixe filho da puta de voz fina. Por que eu pegaria ele quando posso escolher tantos personagens mais legais?", e eu vim aqui trazer as respostas.
+#Um peixe de voz fina é bem legal, tá? Tipo, nem tanto assim, mas você prefere pegar a [[Malphite|Pedra da Galinha Choca]] ou o [[Nami|outro fruto do mar]]? Nem tudo nessa vida se resume em escolher o mais legal, por exemplo você mora no [[Brasil]] e não em algum lugar com economia estável e joga LoL ao invés do [[Dota 2|irmão mais descolado dele]].
+#Jogar de Fizz te dá uma garantia que mesmo você não se divertindo, outra pessoa também não vai, ainda mais se o time não quiser ajudar ela. Só aprender a caçar alguém com menos de dois mil de vida sem '''Flash''' e de preferência sem '''Zhonyas''' o jogo inteiro. Você pode até perder fazendo isso; mas aquele cara também não vai ganhar.
+#Fazemos muitas escolhas em nossa vida: O que comer; o que vestir; qual carreira seguir... Deixe então que eu faça pelo menos '''uma''' escolha por você e facilitar sua vida! Pega logo esse boneco!
+
+== Habilidades ==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+
+|'''Tecla'''||'''Habilidade'''||'''Imagem'''||'''Sobre'''
+|-
+|Passiva||'''Lutador Ligeiro'''||<center>[[Arquivo:Nimble Fighter Fizz.png]]</center>|| Fizz, diferente dos outros campeões (mas não do [[Kassadin]]), não tropeça em [[Soldado|minions]]. Ele também ganha resistência a dano quanto mais dano ele faz.
+|-
+|Q||'''Ataque do Ouriço'''||<center>[[Arquivo:Urchin Strike Fizz.png]]</center>||Fizz escolhe um inimigo e dá um dash fixo que causa dano ao atravessar ele ou caso ainda esteja próximo. O que isso tem a com um [[ouriço]] eu não sei, mas o nome fica legalzinho, então [[Foda-se|releva-se]].                                                                                                  
+|-
+|W||'''Tridente da Pedra do Mar'''||<center>[[Arquivo:Seastone Trident Fizz.png]]</center>||Fizz dá uma [[Cutucar|cutucada]] no inimigo com seu tridente feito de brita da [[Fossa das Marianas]], causa bastante dano e faz com que ele sangre por três segundos caso ele sobreviva à cutucada inicial. Caso ele não sobreviva, que é o mais provável, o [[linguado]] versão [[MOBA]] recupera mana e a habilidade volta mais rápido.
+|-
+|E||'''Brincalhão / Trapaceiro'''||<center>[[Arquivo:Playful Fizz.png]]</center>||Chegamos ao nono círculo do [[Inferno]] das habilidades dessa coisa, o motivo de tanta gente [[ódio|odiar]] esse [[Wooper]] superdesenvolvido. <br>Ao conjurar essa habilidade, Fizz sobe em sua [[vassoura]]-[[garfo]], desviando de qualquer, e eu digo, '''QUALQUER''' dano que iria acertar ele. [[Canhão|Canhões]], [[Foguete|foguetes]], [[Furacão|furacões]], [[Espada|espadas]]... Nada consegue acertar essa desgraça, e sabe como ele conseguiu isso? Subindo um metro pra cima! Tem boneco que voa mais de cinco metros nas habilidades e não desvia de dano!<br>Ao reconjurar essa habilidade (sim, tem mais), ou seja, a parte '''Trapaceiro''' do nome, Fizz dá um pulo no lugar que você escolhe, causando uma cacetada de dano em tudo que tomar o [[Dropkick|dropkick]] do [[Yordle]] tipo [[Água|água]].
+|-
+|R||'''Lançar Isca'''||<center>[[Arquivo:Chum the Waters Fizz.png]]</center>||Fizz joga um suculento [[peixe]] no [[campeão]] inimigo, que fica nadando em volta dele. Até aí tudo bem desde que não seja um [[Candiru|candiru]]. O problema mesmo é quando surge um [[Tubarão|tubarão]] do chão pra comer o infeliz no maior estilo [[Tubarão (filme)|Jaws]]. Quanto mais tempo o peixe voar até atingir o inimigo, maior é o tubarão que vai devorar o [[pobre]] [[coitado]], e mesmo que não acerte ninguém, o tubarão vai vir, [[Fome|nem que pra comer chão]].
+|}
+
+== Ver também ==
+Veja também os outros incríveis campeões marítimos do Legends of League:
+
+*[[Nami (League of Legends)|Nami]]
+*[[Nautilus (League of Legends)|Nautilus]]
+*[[Pyke]]
+
+{{League of Legends}}
+
+[[Categoria:Assassinos fictícios]]
+[[Categoria:Personagens de League of Legends]]
+[[Categoria:Personagens monstros de jogos]]

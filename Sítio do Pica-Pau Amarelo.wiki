@@ -1,0 +1,81 @@
+<choose>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#FF0000">Vermelho</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#FF8000">Laranja</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#FFFF00">Amarelo</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#00FF00">Verde</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#0080FF">Ciano</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#0000FF">Azul</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#800080">Roxo</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#FF00FF">Cor-de-Rosa</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#FFFFFF">Branco</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#808080">Cinza</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#000000">Preto</font>}}</option>
+<option>{{DISPLAYTITLE:Sítio do Pica-Pau <font color="#804000">Marrom</font>}}</option>
+</choose>
+{{caipira}}
+{{Aventura}}
+&nbsp;
+'''Sitio do Pica Pau <choose><option><font color="#FF0000">Vermelho</font></option><option><font color="#FF8000">Laranja</font></option><option><font color="#FFFF00">Amarelo</font></option><option><font color="#00FF00">Verde</font></option><option><font color="#0080FF">Ciano</font></option><option><font color="#0000FF">Azul</font></option><option><font color="#800080">Roxo</font></option><option><font color="#FF00FF">Cor de Rosa</font></option><option><font color="#FFFFFF">Branco</font></option><option><font color="#808080">Cinza</font></option><option><font color="#000000">Preto</font></option><option><font color="#804000">Marrom</font></option></choose>''' é um livro épico [[caipira]] produzido em [[Taubaté|Taubatexas]].
+
+== Como Surgiu Essa Porra? ==
+<choose>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#FF0000">vermelho</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#FF8000">laranja</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#FFFF00">amarelo</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#00FF00">verde</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#0080FF">ciano</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#0000FF">azul</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#800080">roxo</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#FF00FF">cor de rosa</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#FFFFFF">branco</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#808080">cinza</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#000000">preto</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+<option>[[Arquivo:2005031300 sitio picapau.jpg|thumb|left|Sítio do Pica Pau <font color="#804000">marrom</font> da velha geração (repare na falta de qualidade de imagem da época)]]</option>
+</choose>
+<choose>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#FF0000">vermelho</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#FF8000">laranja</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#FFFF00">amarelo</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#00FF00">verde</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#0080FF">ciano</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#0000FF">azul</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#800080">roxo</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#FF00FF">cor de rosa</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#FFFFFF">branco</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#808080">cinza</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#000000">preto</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+<option[[Arquivo:Sitio old.jpg|thumb|Sítio do Pica Pau <font color="#804000">marrom</font> da nova geração (repare na falta de fidelidade dos personagens à história)]]</option>
+</choose>
+Localizado em Arembepe, último reduto Hippie do Brasil, o Sítio foi criado como uma comunidade maconheira. Raulzito e Dom Paulete queimaram tanta erva que o local ficou "queimado" até para a comunidade hippie, que decidiram vender o lugar. Bento Monteiro Lobato, que não conhecia as paradinhas, se interessou pelo lugar e para matar a sede, pediu pra beber algo. Pedir pra beber algo em comunidade hippie é pedir para viajar: serviram chá de cogumelos e ele teve uma viagem alucinada, onde criou um universo com uma sociedade onde todos deveriam proteger um anel das forças do mal, que seria dividido em [[O Senhor dos Anéis|uma trilogia no cinema]]. Sem grana para investir em cinema, abandonou a ideia e escreveu um livro meia boca chamado "Sítio do Pica-Pau Amarelo"
+
+== Personagens ==
+[[Arquivo:Emilia onibus.JPG|thumb|Emília flagrada enquanto chamava um ônibus.]]
+'''Narizinho:''' Garota da cidade que foi para a casa de Dona Benta para atender clientes privé. Na verdade se chama Amanda, mas de tanto cheirar [[cocaína]] (pó de pirlimpimpim), teve que colocar platina no nariz e ganhou o apelido de Narizinho.
+
+'''Emília:''' É uma [[boneca]] inflável, que foi recheada de fumo pra dar mais firmeza e barato. Fala pra caralho e Tia Anastácia já pensou várias vezes em jogar ela no fogão de lenha (boatos dizem que ela é sobrinha do [[Chucky]]).
+
+'''[[Pedrinho]]:''' Típico meninão criado com a vó, passa a tarde inteira assistindo [[Casos de Família]] e [[Legend of Zelda]]. Acredita em tudo que está no Facebook. Recebe pensão do pai, general aposentado, mas dá todo o dinheiro para Narizinho, que o convenceu a investir em Herbalife, afinal, eles têm que sair daquela merda de vida!
+
+'''[[Saci Pererê]]:''' Aviãozinho do movimento, vende paradinhas batizadas que fazem com que o povo do Sítio veja "[[mula sem cabeça]]", a "[[Cuca]]" e até o "[[Boitatá]]"!
+
+'''Dona Benta:''' cafetina que veio da Famosa Casa da Eny, em Bauru. Nos tempos de ouro da putaria, ganhou muito dinheiro. Agora, aposentada, investiu na compra de um Sítio que transformou em boate. Inicialmente se chamaria "Café Photo", mas uma pendenga judicial fez com que mudasse o nome para "Sítio do Pica-Pau Amarelo".
+
+'''Tio Barnabé:''' Se tem alguém que manda na parada, esse alguém é Uncle Barnaby. Tio Barnabé foi cafetão em [[Nova Orleans]], mas velho conhecido de Madame Benta, foi convidado para administrar as meninas da casa. Com mão de ferro, baixa a bolacha nas meninas que não pagam pelo programa que fizeram e cuida das bebidas. Obriga a todos a chamarem de Tio.
+
+'''Tia Nastácia:'''Tia Anastácia veio corrida da [[Rússia]]. Filha do Czar, Anastácia fugiu da morte certa e se escondeu no LISARB. Para dar mais credibilidade ao disfarce, fez curso de culinária e tenta passar por mulata do sargenteli. Bebe demais e já tentou assar um cliente, quando uma menina disse que ele era um PORCO.
+
+'''Marquês de Rabicó:''' Com preferências sexuais pouco ortodoxas, esse cliente fiel da casa ganhou o apelido de Rabicó por gostar que meçam o óleo do seu motor com uma dedada. Já foi noivo de Emilia, mas ela não compactuava de suas preferências e o relacionamento esfriou.
+
+'''Burro Falante:''' Funcionário do Sítio que só fala merda e acredita que o Sítio é casa de família: um burro!
+
+'''Visconde de Sabugosa:''' Solteirão, boa vida que dava aulas para o primário, teve a sorte de ganhar um bolão da loteria e se aposentou. Serve apenas para ser peso no mundo. Perdeu boa parte da grana na putaria desenfreada no Sítio e hoje vive às custas de pequenos serviços e de artesanato que faz com sabugos de milho. Todo o dinheiro que ganha gasta com Narizinho, porque afinal, o Sabu, goza... 
+
+'''Chulimzão:''' Cachorro velho do Sítio.
+
+== Ver também, se quiser ==
+* [[Desenho do Sítio]]
+* [[Pirlimpimpim]] 
+
+<br />{{Sítio do Pica-Pau Amarelo}}
+
+[[Categoria:Coisas bregas]]

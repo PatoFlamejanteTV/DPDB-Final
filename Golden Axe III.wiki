@@ -1,0 +1,36 @@
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Machado Dourado Três
+|image     = GoldenAxe3.jpg
+|caption   = Tem gente nova no pedaço
+|developer = [[Sega]]
+|publisher = [[Sega]]
+|released  = 1993
+|genre     = [[Beat'em up]]
+|rating    = Pior que o primeiro, melhor que o segundo
+|platform  = [[Mega Drive]]
+|ages      = Livre
+}}
+
+'''Golden Axe 3''' é o terceiro [[jogo]] da franquia [[Golden Axe]] e foi criado como uma espécie de pedido de desculpas da [[Sega]] pela [[merda]] que foi [[Golden Axe 2]].
+==Review==
+[[Arquivo:Gaxe3-gen 01 kain-sarah01.png|left|thumb|Repare na extrema [[beleza]] gráfica dos cenários.]]
+É bem provável que [[você]] nunca tenha jogado esse game ou só o tenha feito através de [[emulador]]es, porque além do [[Japão]] e ele só foi lançado na [[Europa]] e na [[Ásia]] porque a Sega temeu que fosse um fracasso assim como seu antecessor (e provavelmente seria mesmo).
+
+Ao menos a [[história]] é nova: o [[príncipe]] das trevas Damud Hellbringer roubou o maldito Golden Axe de sempre e ainda por cima amaldiçoou Ax Battler e Tyris Flare. Julgando Gilius Thunderhead por sua deprimente aparência, Damud não vê necessidade de amaldiçoá-lo também, o que faz com que o [[anão]] imediatamente recrute novos [[guerreiro]]s para derrotar o [[vilão]] e ajudar a retirar a maldição de seus [[amigo]]s.
+
+==Lutadores==
+*'''Ax Battler - '''Também chamado de Kain Grinder na versão ocidental. Pode controlar o [[gelo]]. Como Gilius não é jogável, agora Ax é o personagem mais equilibrado, já que possui excelente alcance e prioridade com sua [[espada]].
+*'''[[Tyris Flare]] - '''Ou Sarah Barn para o ocidente. A arma de curto alcance de Tyris é compensada pela sua rapidez. Tem um chute e um salto potentes e seu elemento é o [[fogo]].
+*'''Chronos "Evil" Lait - '''Personagem novo e [[furry]] do game, é meio [[homem]] e meio [[pantera]]. É o mais [[foda]] de todos, pois tem um ataque em que bloqueia a tela toda. Controla o [[vento]].
+*'''Proud Cragger - '''Outro personagem novo, é bem forte, porém lento, o que faz dele o pior personagem para jogar. É grande, [[feio]] e desengonçado. Tem os [[poder]]es da [[terra]].
+*'''Gilius Thunderhead - '''Agora aposentado, Gilius trocou seu [[machado]] por um [[pau]] que ele roubou de um grupo de [[elfo]]s e agora fica dando uma de [[Mestre dos Magos]] e aparecendo durante o game para dar conselhos que contenham alguma [[mensagem subliminar]] embutida.
+
+{{Golden Axe}}
+
+[[categoria:Jogos da Sega]]
+[[categoria:Jogos para Mega Drive]]
+[[categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos de beat 'em up]]
+[[Categoria:Jogos lançados em 1993]]

@@ -1,0 +1,1269 @@
+<!-- Tome cuidado ao editar este artigo. Evite remover partes, preocupe-se em acrescentar --> __NOTOC__
+<hr>
+<div style="text-align:center; font-style:Italic;"><span style="font-weight:bold;>Nota:</span> Seu [[Internet Explorer|navegador]] poderá apresentar uma certa lentidão durante o processamento e decodificação das gambiarras digitadas nesse artigo.</div>
+<hr><br />
+
+[[Arquivo:Pogpowered2.gif|center]]
+
+{{fato|que se você entender todo este artigo você é virgem?}}
+Com o gigantesco aumento do número e porte das empresas do setor de TI em cerca de 0,5% no mundo nos últimos 50 anos, a demanda por novas tecnologias cresceu absurdamente. Como as técnicas de programação sequencial, [[Programação no botão|por botão]], procedural e orientada por objetos não conseguem mais suprir a qualidade máxima esperada pelos ''softwares'' <s>geradores de relatórios</s> que necessitam de massiva quantidade de recursos como desempenho, performance e ''throughput'', a '''Programação Orientada a Gambiarras''' foi desenvolvida.
+
+== Definição de POG ==
+[[Arquivo:Gregory XIII.jpg|left|thumb|200px|Criador do primeiro POG]]
+A '''Programação Orientada a Gambiarras''' ('''POG''' ou '''WOP – Workaround-oriented programming''') é um [[paradigma]] de [[Linguagem de programação|programação]] de sistemas de ''[[software]]'' que integra-se perfeitamente a qualquer grande [[Paradigma de Programação]] atual.
+
+Por definição, ''[[Gambiarra]]'' é aquilo que é de difícil concepção, de inesperada execução para tornar fácil o uso de algo que sequer deveria existir.
+
+A ''Programação Orientada a Gambiarras'' foi uma evolução natural do uso do [[Programa Bacalhau]], também conhecido como ATND - "''Artifício Técnico Não Documentado''" ( na Química, também conhecido como MTEDM - "''Manutenção Técnica com Elementos Disponíveis no Momento''" e na Engenharia Civil como STCT - "''Solução Técnica de Cunho Temporário''", nome pouco apropriado, uma vez que, todos sabemos, as soluções se tornam permanentes), dos anos 1960–1980, e vem de uma antiga expressão brasileira: "Para quem é, bacalhau basta" (época em que o peixe seco ainda era barato). Programadores e analistas mais preocupados em usar [[buzzwords]] costumam utilizar o termo ''workaround'' para impor respeito.
+
+Para que um [[programador]] possa exercer a Programação Orientada a Gambiarras, são necessários alguns fatores específicos, facilmente encontrados em [[Suinocultura|ambientes de desenvolvimento]]:
+
+*Sistemas originalmente mal projetados
+*[[Cliente]]s [[chato]]s
+*[[Usuário]]s chatos
+*Falta de vontade
+*Falta de [[tempo]]
+*Gente que pensa que é [[DBA]] (normalmente são pessoas chatas, gordas, feias, sem certificação nenhuma e que fizeram um curso de SQL Básico)
+*[[Arquiteto]] de software achando que é o máximo (normalmente pessoas altas, loiras, chatas, arrogantes e metidos a sabe-tudo)
+*Término do estoque de [[café]]/[[chá]]
+*Aproximação do final da tarde
+*Véspera de feriado/fim-de-semana
+*Ter o [[Jackie Chan]] como chefe
+*Ter o [[MacGyver]] como coordenador de projeto (ver [[Método MacGyver]])
+*Governo defecando regras ou [[MP]]'s que entram em vigor imediatamente sem dar tempo de atualizar sistemas.
+*Requisitos dinâmicos e/ou instáveis
+*Produto com implementação pré-determinada que se torna personalizado (leia-se mutante) para angariar ''"aquela grande licitação"''
+*Área comercial vendendo ou pré-vendendo produtos imaginários ou inacabados com "entrega garantida em 30 minutos ou seu [[dinheiro]] de volta!"
+
+Reunidos, todos estes fatores transformam o programador em um '''gambiarrizador''', espécie mais evoluída de programador, que possui curva de [[aprendizado]] e [[produtividade]] muito mais acentuadas. Os códigos dos gambiarrizadores podem ser chamados de ''CACA'' (Código Avançado Complexo e Adaptável) que possuem, dentre outras qualidades, reusabilidade e legibilidade em seu auge.
+
+{{fato|seu programa irá conter erros, e você terá que alterá-lo <math>\Omega(\lim\limits_{x \to \infty} {n^{log_2 e^{x}}})</math> de vezes antes de funcionar?}}
+{{fato|que [[POG]] é um Salva-Vidas?}}
+Estudos realizados neste segmento mostram que os programadores que [[Charles Darwin|evoluem]] para gambiarrizadores vivem melhor, saem as 18:00h, tem [[cabelos]] mais bonitos e esvoaçantes. Tudo pelo fato de que, em gambiarrizadores, eles entram em um [[Alfa|estado alfa]], onde tudo na vida funciona. Tudo que é impossível torna-se possível, de maneira totalmente obscura, mas possível.
+
+Há correntes de [[programadores]] que discriminam a Programação Orientada a Gambiarras, alegando ser uma má técnica, que faz com que os sistemas fiquem [[Windows|lentos e ganhem bugs]]. Também ficou claro nas pesquisas que estes programadores só dizem isto por '''nunca''' terem evoluído para gambiarrizadores (e por isso nunca pegam mulher nenhuma). Com apenas uma evolução (ao contrário de criaturas como o [[Charmander]], que necessitam de duas para atingir o ápice de seu desenvolvimento), 100% dos programadores admitem que a Programação Orientada a Gambiarras, definitivamente, é o melhor paradigma de todos.
+
+Além disso, a Programação Orientada a Gambiarras, assim como outros paradigmas, deu origem a outros movimentos de pesquisa científica como ''Modelagem Orientada a Gambiarras'' (MOG ou WOM – ''Workaround-oriented modeling''), Desenvolvimento de Sistemas Orientado a Gambiarras'' (DSOG ou WOSD – Workaround-oriented software development'').
+
+== Origem e história ==
+O primeiro POG que se tem notícia é datado de 1582 d.C. O nome deste POG hoje é chamado de [[Ano Bissexto]], foi criado pelo [[Papa Gregório XIII]], isso prova que aquela música dos [[Engenheiros do Havaí]] está correta: ''"O Papa é POG"''. Este POG foi aplicado quando descoberto que a [[Terra]] leva 365,25 dias para dar uma volta no Sol, porém nosso calendário tem apenas 365 dias, o que leva a uma diferença de 6 horas por ano. (Fonte: [[confia]])
+
+Ao invés de corrigir o "sistema" para que não houvesse essa diferença, a solução adotada pelo Papa foi: ''"A cada quatro anos, é só colocar mais um dia ali"''. E então foi criado o primeiro POG de que se tem notícia.
+Por este motivo, em 1930 foi instituído o "Dia Internacional da POG" como o dia 29 de fevereiro.
+
+==Exemplos de <s>POG's</s> softwares famosos projetados usando esta técnica==
+
+* <s>ru</s>[[windows]]
+* [[Qt]]
+* [[Delphi]]
+* [[Visual Basic]]
+* [[NetBeans]]
+* [[Visual Studio]]
+* [[Mulher]] (esta só tem rotinas ramdômicas, uma hora acha que homem é tudo igual e outra esta selecionando o <s>menos pior</s>melhor homem.)
+* [[você]]
+* [[sua mãe]]
+
+==Conceitos de POG==
+[[Arquivo:GloboPOG.jpg|right|200px|thumb|Nem a Globo escapa]]
+Como todo paradigma de <s>gambiarra</s> programação, a POG também possui todos aqueles diversos conceitos xaropes que nos fazem ver o mundo mais bonito dentro de softwares super bem feitos.
+
+=== Comentário é o que realmente importa ===
+Técnica muito usada quando é véspera de feriados ou fim de semana.
+Consiste em comentar todas as linhas que estejam com problemas; em outras palavras, todas.
+
+=== Enjambração ===
+
+A POG utiliza fortemente o conceito de enjambração. Enjambrar consiste em "adaptar" um novo item ao sistema. Por exemplo, você tem um software em [[C++|C+=1]], e o compilador de [[C++|C=C+1]] compila código [[C]] também. Baseado nisso, você pega aquele código que você escreveu em [[Pascal]] durante a faculdade, roda o p2c (famoso tradutor de [[Pascal]] para [[C]]) e encaixa no seu código.
+
+Outro exemplo do conceito de enjambração, que ocorre fora do mundo do software, é quando estamos escrevendo um [[TCC]] ou outro trabalho do tipo. Podemos, por exemplo, utilizar o Fabuloso Gerador de Lero-Lero (software especializado em geração de ''Prosopopéias Flácidas Para Acalantar Bovinos'', ou ''Conversa Mole Para Boi Dormir'') para gerar um texto com 900mil frases. Logo após, é só escrevermos uma adaptação de meio parágrafo antes e depois do texto gerado para que este se encaixe com o trabalho atual.
+
+Exemplo de início de uma POG mal sucedida:
+
+<pre>
+Socket::Connect(string host, int port)
+{
+  setHostPort(host,port);
+  m_cli=connect(m_sock, m_server, host.Size());
+}
+</pre>
+
+Achamos o seguinte código no [[Koders]] (site de busca de códigos desenvolvidos com metodologia de [[POG]]):
+
+<pre>
+SSLSocket::Connect(string host, int port)
+{
+  char *spicegirls=new char[host.Size()+50]; //Não diminua de 50 senão pode dar boi na linha
+  setSSLHostPort(host,port);
+  m_cli=connect(m_sock, m_server, host.Size());
+  BIO_set_fd(m_bio, m_cli);
+}
+</pre>
+
+Após os ajustes dos atributos da classe, encaixamos o código assim:
+
+<pre>
+Socket::Connect(string host, int port, bool usarSSL)
+{
+  setHostPort(host,port);
+  m_cli=connect(m_sock, m_server, host.Size());
+  if(usarSSL)
+  {
+    close(m_cli);
+    char *spicegirls=new char[host.Size()+50]; //Não diminua de 50 senão pode dar boi na linha
+    setSSLHostPort(host,port);
+    m_cli=connect(m_sock, m_server, host.Size());
+    BIO_set_fd(m_bio, m_cli);
+  }
+}
+</pre>
+
+=== Reflexão ===
+
+O princípio da Reflexão parte do ponto de vista de que os reflexos são reflexões daquilo que se reflete ao refletir em nossa visão. Computacionalmente falando, é quando refletimos algo fazendo com que a nova imagem seja igual (um reflexo) á antiga. Para isso, utilizamos as teclas Ctrl+C para gerar a imagem, e Ctrl+V para depositá-la em outro lugar.
+
+Antes de tentarmos utilizar recursos como a Enjambração, devemos ganhar em produtividade com a Reflexão. A Enjambração só é produtiva se a Reflexão não der certo.
+
+=== Redireção ===
+
+Uma das características que proporcionam grande ganho de produtividade. A redireção consiste em uma análise para verificar todos os envolvidos em um problema. Após esta análise, fazemos a redireção do problema aos envolvidos. Quanto maior o número de envolvidos, mais redireções do mesmo problema poderemos fazer.
+
+=== Insistimento ===
+
+Outro recurso da POG para ganharmos em produtividade é o Insistimento. Caso um programa possua um erro de compilação, devemos tentar compilá-lo novamente mais algumas vezes para nos certificarmos de que não foi "um bitzinho problemático" que deu problema na hora da compilação. Caso não funcione várias vezes, podemos tentar reiniciar a máquina. Se ainda não der certo, diga ao seu chefe que você suspeita que a máquina está com problemas de hardware e por isso não compila.
+
+Se ele arrumar uma máquina nova ou consertar a atual, diga que deve ser pau do sistema operacional, pois todo mundo sabe que Linux não funciona direito. Após reinstalar o Linux, tente remover ou adicionar alguns comentários para ver se eles não estão "bugando" o compilador.
+
+Após tudo isso, diga ao cliente que está procurando uma solução: "Sabe como é né, essas coisas com programação são assim, uma coisinha errada pode ferrar tudo."
+
+Depois tente tudo de novo. Se nada der certo, aí sim podemos procurar um código na internet para tentar resolver o problema.
+
+== PPOG (Princípios da Programação Orientada a Gambiarras) ==
+[[Arquivo:Vs2005.jpg|right|thumb|250px|Exemplo de IDE desenvolvida utilizando os padrões POGs mais avançados]]
+* '''Se funciona, então tá certo''' - Acoplado ou não, txt ou sql, mil funções ou 10, design patterns... Nada disso tem valor para o usuário, que só precisa de um software funcional. O termo "escalável" é falacioso. 
+
+* '''My Way''' - Programador esperto, se é esperto mesmo é adepto do ''My Way''. Se você está com dúvidas, faça do seu jeito pois se der merda é você quem vai se foder (e como).  
+
+* '''Murphy''' ou '''Lei de Murphy''' ou '''Lady Murphy''' - Para lidar com [[Murphy]] e seu exército só com POG. ''Murphy'' é sagaz e ligeiro, tá só esperando você dar mole. Nada mais rápido do que uma gambiarrazinha pra acertar o que Murphy destrói.
+
+* '''Deixe o amanhã para amanhã''' - Muitos programadores atrasam projetos alegando que a demora de uma implementação para seguirem regras de ''design patterns'' ou comentários que ajudarão a outros  entender melhor o código. Deixe o amanhã para o <s>otário</s> programador seguinte. 
+
+* '''Comentários são para amadores''' - Um desenvolvedor deve ser treinado para ser fluente na linguagem de programação usada sem precisar de comentários, independente da consequente ruína de sua vida social. Isso também é conhecido como sétimo sentido. 
+
+* '''Eficiência primeiro''' - Evite escrever em várias linhas o que pode ser feito em uma. 
+
+* '''Fé em Deus''' - A informática é levianamente definida como ciência exata, quando esta é na verdade uma ciência holística. Vários casos reais de divina Providência foram testemunhados em ambientes fiéis aos princípios ruins, assim o mal foi exorcizado, e a paz instalou-se graças a fé dos gambiarrizadores. Vale dizer que: '''há mais mistérios entre o teclado e o monitor do que julga a sua vã filosofia'''.
+
+* '''1337 h4x0r5 dud3 lol''' - Quanto mais ilegível, mais respeitado o código é. Consequentemente menos alterado ele é, e mais estável o sistema fica, garantindo a empregabilidade do gambiarrizador. 
+
+* '''A ocasião faz o ladrão''' - Em determinados momentos não conseguimos escapar dela. 
+
+* '''Capacidade de Abstração''' - Este conceito se baseia em focar-se no problema e desconsiderar conceitos e dados deios para atingir o objetivo, ou seja, o Programador deve abstrair tudo que lhe faça perder tempo como regras de negócio desnecessárias ou tratamentos de erros.
+
+* '''Conclusão Hipotética Universal Técnica Explicativa''' ''(aka. C.H.U.T.E)'' - Quando nenhum dos outros conceitos se aplica, utiliza-se este até funcionar ou desistir.
+
+* '''Criatividade acima de tudo''' - Uma pessoa criativa não é aquela que consegue chegar a diversos lugares, mas sim, aquela que chega no mesmo lugar por diversas maneiras. Portanto, o POGer não é nada mais do que um programador criativo, que faz a mesma coisa que outros, adotando técnicas não convencionais.
+
+* '''Simplicidade acima de tudo''' - Se o programa funciona sem o Tratamento de Exceções e a verificação de campos preenchidos pelo usuário porque complicá-lo ?
+
+* '''Faca nos dentes''' - O famoso "Vai fazendo ai!"
+
+==Gambi Design Patterns==
+
+Veja [[Gambi Design Patterns]].
+
+==Exemplos de POG==
+
+=== Debug ===
+
+==== Técnicas Avançadas DEBUG para Gambiarras (TADG) ====
+
+Utilizável em qualquer Linguagem, esta técnica auxiliada pelo método Nonsense Flag, que torna a vida do gambiarrizador mais fácil, pelo tempo reduzido, enquanto este joga [[Counter Strike]] ou tecla no [[MSN]].
+
+<pre>
+flag=0
+if flag=1 then
+   display "passei"
+   flag=0
+else
+   display "passei aqui!"
+   flag=2
+end if
+display "ainda estah de peh... nao acredito!!!"
+</pre>
+
+IMPORTANTE : Caso você não consiga mostrar o display na tela, poderá utilizar o método erro condicional colocando um comando que não existe para dar pau direto.
+
+==== Incremental Patching Debug (InPaDe, pronúncia ''In[[peido|peide]]'') ==== 
+[[Arquivo:IBMPOG.jpg|right|thumb|300px|A IBM não poderia ficar de toda fora e também provê seus POGS]]
+Uma situação bastante corriqueira no dia-a-dia de um desenvolvedor POG é a de a versão atual parar de funcionar, inexplicavelmente, após um build. Nestes casos, geralmente causados por intervenções de espíritos malignos no código ou olho gordo de colegas invejosos, podem ser resolvidos facilmente por IPG.
+
+Basicamente, o desenvolvedor POG precisa apenas encontrar o zip da última versão que funcionou, mesmo que alguns bugs corrigidos voltem ou algum trabalho se perca. Nem sempre é rápido, mas quase sempre é possível. Lembre-se, um bom programador POG controla versões com arquivos zip, sempre mais práticos do que aquele monte de comandos chatos e difíceis de decorar do CVS.
+
+Uma vez encontrada a versão, vai-se inserindo aos poucos as modificações da versão atual na versão antiga, compilando e testando, até que ela passe a funcionar novamente. Ferramentas de comparação podem ser usadas neste processo, mas nem sempre são necessárias: substituição simples de arquivos funciona perfeitamente bem.
+
+=== Controle de Versionamento ===
+O POGer, por definição, evita o uso soluções padrão e no controle de versão isto não é diferente. Porque utilizar CVS, SVN e Git enquanto você pode utilizar o bom e velho .zip? Ferramentas mais sofísticadas que Winzip, ou Winrar são para iniciantes. POGer bom tira conflito na hora do ''merge'' só no olho.
+
+A técnica para se manter a ordem dos arquivos é a seguinte. Cria-se o arquivo ''backup.zip'' com todo o código fonte do projeto. Durante o tempo de vida do projeto, independente de qual seja este tempo de vida, 2 ou 3 ''backups'' são suficientes. Para isto, crie os arquivos ''backup1.zip'' e ''backup_ultimo.zip''. Se as coisas ficarem (um pouco) fora de controle crie arquivos ''backup_ultimo_ultimo.zip'' e, se necessário vá incrementando com a palavra "ultimo" a cada novo ''backup''. Se as coisas ficarem realmente feias o próximo arquivo deve se chamar ''backup_ultimo_ultimo_agora_eh_verdade.zip''. Não se esqueça de sempre aumentar o nome do arquivo a cada novo backup. Isto facilita encontrar a última versão.
+
+====Metodologias====
+
+
+===Metodologia Chuck Norris===
+
+[[Chuck Norris]], exímio conhecedor das técnicas POG criou certa vez uma um banco de dados* (*Access) com a seguinte estrutura:
+<pre>
+id - Numeração Automática
+rol - Número
+col - Número
+flag - Sim/Não
+</pre>
+
+Um pouco de programação [[Chuck Norris]]
+<pre>
+try
+{
+continue:
+    while(true)
+    {
+        kick();
+    }
+}
+catch(ChuckNorrisException e)
+{
+    System.flayKickFinally();
+    do continue; (Note que isto é possível somente para Chuck Norris)
+}
+</pre>
+
+A metodologia [[Chuck Norris]] também pode ser utilizada em sistemas em que se desenvolve na máquina do cliente ou via FTP por um editor de textos qualquer, sem testar e sem fazer backup. Feito para programadores que confiam 100% no código que desenvolvem e que se quer propor um teste é duvidar da sua capacidade. Muito útil para sistemas onde a programação é feita em tempo real para resolver os erros que o cliente acabou de encontrar, antes que ele possa atualizar a página para repetir o erro, o mesmo já estará corrigido e você, ou quem estiver em contato com o mesmo, poderá utilizar de suas técnicas de psicologia para convence-lo de que ele deve ter feito alguma coisa errada na execução anterior.
+
+===Metodologia Espírita===
+[[Arquivo:Tomcatspam.gif|right|200px|thumb|Famosa propaganda sobre POG's]]
+[[Programador Espírita]], exímio conhecedor das técnicas de Copy/Paste e Author Code Rename além de ser discípulo do grande Baba Ovo Orixá.
+
+A metodologia [[Espírita]] o indivíduo trata de fazer as coisas sem saber o que esta fazendo, provavelmente sendo orientado pelo tio Chico. Vísita códigos alheios e copia trechos de código e cola em seu código. No final, nada faz sentido, mas as acaba funcionando sabe-se lá como.
+
+===Sua primeira aplicação===
+
+Logo abaixo, temos um exemplo de um código feito em JAVA, orientado a objetos onde imprime o resultado da soma de 15 + 15:
+
+<pre>
+public class Calc {
+    public static void main(String[] args) {
+    	int n;
+    	n = 15 + 15;    	
+    	System.out.println("A soma de n é: " + n);
+    }
+}
+</pre>
+Abordagem POG para o problema:
+<pre>
+public class Calc {
+    public static void main(String[] args) {	
+    	System.out.println("A soma de n é: 30");  // A intuição do programador POG explica
+    }
+}
+</pre>
+
+O método abaixo, fruto da mais avançada técnica POG, pode ser implementado em qualquer classe para retornar um número aleatório
+
+<pre>
+public int getNumeroAleatorio()
+{
+    return 4; //escolhido aleatoriamente.
+              //garantia de ser aleatório.
+}
+</pre>
+
+Esta técnica foi utilizada pelos POGueiros da Sony na proteção do Playstation 3.
+
+=== Algoritmos de Ordenação ===
+
+==== GambiSort ====
+
+Este algoritmo de ordenação foi feito em um ambiente com ''GambiSense Fusion''. Ele é capaz de juntar várias linguagens de POGramação... Esta primeira versão aceita apenas Números Naturais, mas será implementado posteriormente por nossa comunidade. No pior caso, o algoritmo será de O((n^n)*n+1). Siga o exemplo:
+
+<pre>
+i:=0;
+c:=0;
+while true
+begin
+  i:=i+1;
+  for j:=0 to length(lista) do
+    if lista[j] = i then
+    begin
+      lista_ordenada[c]:=lista[j];
+      c:=c+1;
+    end;
+  if (c = length(lista)) then
+    Goto Exit;
+end;
+:Exit
+</pre>
+
+==== Chuck Norris Sort====
+
+Este algoritmo executa em O(1) para qualquer vetor dado, e garante que o vetor está ordenado ao fim de sua execução, se não acredita vá se ver com Chuck Norris (eu não faria isso se fosse você!):
+
+<pre>
+
+bool ChuckNorrisSort(int V[], int n){
+
+   bool estaOrdenado = true;
+   return estaOrdenado;
+
+}
+
+</pre>
+
+==== KickSort ====
+
+Esse algoritmo de ordenação, também conhecido como BoboSort ou EstoucomSort, baseia-se em técnicas extremamentes avanças de um POGramador universitário anônimo.
+
+<pre>
+void KickSort (int v[10]){
+  int aux1, aux2, aux3;
+inicio:
+  if (v[0] <= v[1]){
+    if (v[1] <= v[2]){
+      if (v[2] <= v[3]){
+        if (v[3] <= v[4]){
+          if (v[4] <= v[5]){
+            if (v[5] <= v[6]){
+              if (v[6] <= v[7]){
+                if (v[7] <= v[8]){
+                  if (v[8] <= v[9]){
+                    return;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  aux1 = (rand()%10);
+  aux2 = (rand()%10);
+  aux3 = v[aux1];
+  v[aux1] = v[aux2];
+  v[aux2] = aux3;
+  goto inicio;
+}
+</pre>
+
+Algoritmo kickSort revisado por MPog. Nesse algoritmo foram usadas tecnicas extremamente avançadas de pog para que ocorra uma ordenção rápida e simples.
+
+Esse algoritmo foi executado uma vez e seu tempo de execução foi de aproximadamente 40 minutos.
+
+<pre>
+import java.util.Random;
+
+public class KickSort {
+
+	static int[] vet = { 5, 2, 9, 1, 4, 7, 6, 8, 0, 3 };
+
+	static void KickSort(int[] v) {
+		
+		while (true) {
+			System.out.println("");
+			for (int i = 0; i < vet.length; i++) {
+				System.out.print(" - "+vet[i]);
+			}
+			int aux1, aux2, aux3, aux4, aux5, aux6, aux7, aux8, aux9, aux10;
+			if (v[0] < v[1]) {
+				if (v[1] < v[2]) {
+					if (v[2] < v[3]) {
+						if (v[3] < v[4]) {
+							if (v[4] < v[5]) {
+								if (v[5] < v[6]) {
+									if (v[6] < v[7]) {
+										if (v[7] < v[8]) {
+											if (v[8] < v[9]) {
+												return;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			Random rdm = new Random(); 
+			int x0 = 0;
+			int x1 = 0;
+			int x2 = 0;
+			int x3 = 0;
+			int x4 = 0;
+			int x5 = 0;
+			int x6 = 0;
+			int x7 = 0;
+			int x8 = 0;
+			int x9 = 0;
+                        // Abaixo código para otimzar a ordenação. tecnica usado por MPOGGERS.
+			while (x0 == x1 || x0 == x2 || x0 == x3 || x0 == x4 || x0 == x5 || x0 == x6 || x0 == x7 || x0 == x8 || x0 == x9
+					|| x1 == x2 || x1 == x3 || x1 == x4 || x1 == x5 || x1 == x6 || x1 == x7 || x1 == x8 || x1 == x9 ||
+					x2 == x3 || x2 == x4 || x2 == x5 || x2 == x6 || x2 == x7 || x2 == x8 || x2 == x9 ||
+					x3 == x4 || x3 == x5 || x3 == x6 || x3 == x7 || x3 == x8 || x3 == x9 ||
+					x4 == x5 || x4 == x6 || x4 == x7 || x4 == x8 || x4 == x9||
+					x5 == x6 || x5 == x7 || x5 == x8 || x5 == x9 ||
+					x6 == x7 || x6 == x8 || x6 == x9 || 
+					x7 == x8 || x7 == x9 ||
+					x8 == x9) {
+				x0 = rdm.nextInt(10);
+				x1 = rdm.nextInt(10);
+				x2 = rdm.nextInt(10);
+				x3 = rdm.nextInt(10);
+				x4 = rdm.nextInt(10);
+				x5 = rdm.nextInt(10);
+				x6 = rdm.nextInt(10);
+				x7 = rdm.nextInt(10);
+				x8 = rdm.nextInt(10);
+				x9 = rdm.nextInt(10);		
+				
+			}
+			
+			aux1 = v[x0];
+			aux2 = v[x1];
+			aux3 = v[x2];
+			aux4 = v[x3];
+			aux5 = v[x4];
+			aux6 = v[x5];
+			aux7 = v[x6];
+			aux8 = v[x7];
+			aux9 = v[x8];
+			aux10 = v[x9];
+			v[0] = aux1;
+			v[1] = aux2;
+			v[2] = aux3;
+			v[3] = aux4;
+			v[4] = aux5;
+			v[5] = aux6;
+			v[6] = aux7;
+			v[7] = aux8;
+			v[8] = aux9;
+			v[9] = aux10;
+
+		}
+	}
+	
+	public static void main (String args[]) {
+		KickSort(vet);
+		for (int i = 0; i < vet.length; i++) {
+			System.out.println(vet[i]);
+		}
+	}
+
+}
+</pre>
+Segue log:
+<pre>processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 15
+model		: 2
+model name	: Intel(R) Pentium(R) 4 CPU 2.80GHz
+stepping	: 9
+cpu MHz		: 2806.513
+cache size	: 512 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 1
+fdiv_bug	: no
+hlt_bug		: no
+f00f_bug	: no
+coma_bug	: no
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 2
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe cid xtpr
+bogomips	: 5616.98
+
+pogger@desenv:~$ time java KickSort
+...
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+real	20m55.517s
+user	20m55.134s
+sys	0m0.240s
+</pre>
+
+
+Generalização recursiva do algoritmo KickSort, cuja complexidade é O(n! . n+1 / (1/∞))).
+
+<pre>
+void EstoucomSort(int size, int *array)
+{
+    int i, j;
+
+    for (i = 1; i <= size; i++) {
+        if (i == size)
+            return;
+        if (array[i-1] > array[i])
+            break;
+    }
+
+    for (i = 0; i < size; i++) {
+        j = rand() % size;
+        if (array[i] != array[j]) {
+            array[i] ^= array[j]; /* Método de swap favorito de 10 entre 10 [[l33t]] POGers. */
+            array[j] ^= array[i];
+            array[i] ^= array[j];
+        }
+    }
+
+    EstoucomSort(size, array) /* Estouro de pilha garantido para n >= 4. */
+}
+
+</pre>
+
+==== JegueSort ====
+
+algoritmo não revisado, nem testado, nem analisado, nem bem feito com complexidade = (1000000000*2+t^2+100000000/100000000)/(1 real de farinha)
+
+<pre>
+int* jegueSort(int *vet, int tam)
+{
+     int *vetAux;
+     int *vetRes;
+    
+     vetAux = (int*)malloc(sizeof(int)* 1000000000);
+     vetRes = (int*)malloc(sizeof(int)* tam);
+    
+     int i=0;
+     int j=0;
+    
+     parte0:
+            vetAux[i++]=0;
+            if(i!=0X2710)
+            goto parte0;
+            goto hehehe;
+     hehehe:
+    
+     parte1:
+            i=vet[j++];
+            vetAux[i]=1;
+            if(j!=tam)
+            goto parte1;
+     j=0;
+     i=0;
+     parte2:
+            if(vetAux[i]==1)
+                         vetRes[j++]=i;
+            i++;
+                        
+            if((j==tam) || (i==0X2710))
+            goto parte3; goto parte2;
+           
+     parte3:
+           
+     return vetRes;
+}
+</pre>
+
+=== Fazendo ''Casting'' com POG ===
+Abaixo temos um exemplo real de como fazer um ''casting'', o nome dos objetos e métodos foram trocados para preservar a identidade do [[autor]].
+<pre>
+// Recupera o tamanho do arquivo
+Float tam = regra.getTamanhoMaxArquivo();
+if (tam == null) {
+   tam = ((Constantes.TAM_PADRAO_ARQUIVO * 1000)*1024);
+}else{
+   tam = ((tamArquivo * 1000)*1024);
+}
+//aqui a mágica acontece
+frm.setTamArquivo(Integer.toString((int)tam));
+</pre>
+
+==Master of Gambietor Oriented Programming - '''MPOG'''==
+
+Nada mais é que o Mestre da Programação Orientada a Gambiarras.
+
+Comumente visto em departamentos de [[informática]] onde a necessidade de resolução de problemas em uma quantidade de tempo 10 vezes inferior ao normal é algo corriqueiro.
+
+Um MPOG não se origina do [[nada]]. Não é o tipo de [[técnica]] que se aprende na faculdade. São vários anos forjando seu [[karatê]]r, orientando seu raciocínio para a solução mais Gamb. É necessário também possuir a certificação [[MGA]].
+
+==Algoritmos probabilísticos==
+
+{{aspas|Meu programa não tem bugs, apenas desenvolve funcionalidades aleatórias}}
+
+Algoritmos probabilísticos possuem comportamene randômico, ou seja, para uma coisa que entra (ui!), qualquer coisa que sair como resultado está ok. A metodologia POG está diratemente ligada com o meio científico, pois tarefas muito complicadas encontradas neste meio não podem ser resolvidas com algoritmos determinísticos triviais e, portanto, os Algoritmos Probabilísticos entram em cena. O resultado disto é o amplo uso de técnicas que geram saídas randômicas e principalmente [[Gambi Design Patterns]], vide Simulador Network Simulator.
+
+Desta forma, resultados de artigos científicos levam em consideração apenas as saídas favoráveis. Se o algoritmo não está dando ''"aquele resultado ótimo"'', rode até que aquela ''flagzinha'' ser ativada.
+
+== Algoritmos de Reza braba ==
+
+==== Terço ====
+
+Rode essa rotina toda noite antes de durmir e você estará protegido. e sempre que o seu POG rodar, mesmo que de estouro de pilha.
+
+<pre>
+#define TAM_DA_PENITENCIA = 100 // se a gambiarra for muito forte, aumenta
+void terco(){
+for(int i = 0; i < TAM_DA_PENITENCIA; i++){
+   for(int i = 0;i<10;i++){    // multiplica o tamanho da penitência por 10 só para garantir
+     printf("ave maria cheia de graça...");
+   }
+}
+
+printf("amãe");
+//ta binzido.
+}
+</pre>
+
+==== Algoritimo só 50 minutos para retornar o resultado ====
+
+
+Um método extremamente eficiente para resolver um sistema de equação de 8 variáveis. Com sorte ele acaba em 25 minutos num <s>lentiun</s> processador.
+ <pre>
+package exercfib;
+import java.util.Scanner;
+
+
+public class exercfic {
+
+
+  
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner( System.in);
+
+        int e1, e2,e3,e4,e5,e6,e7,e8;
+        int i;
+        int [] ppp={0,0,0,0,0,0,0,0};
+        int [] l1={0,0,0,0,0,0,0,0};
+        int [] l2={0,0,0,0,0,0,0,0};
+        int [] l3={0,0,0,0,0,0,0,0};
+        int [] l4={0,0,0,0,0,0,0,0};
+        int [] l5={0,0,0,0,0,0,0,0};
+        int [] l6={0,0,0,0,0,0,0,0};
+        int [] l7={0,0,0,0,0,0,0,0};
+        int [] l8={0,0,0,0,0,0,0,0};
+
+        ppp[0]=-13;
+        ppp[1]=61;
+        ppp[2]=39;
+        ppp[3]=38;
+        ppp[4]=10;
+        ppp[5]=51;
+        ppp[6]=15;
+        ppp[7]=26;
+
+
+
+
+
+          for(i=0;i<=7;i++){
+
+            System.out.print("digite a o valor da linha 1 e coluna:  "+ (i+1)+ " ");
+            l1[i]=input.nextInt();
+        }
+          for(i=0;i<=7;i++){
+
+            System.out.print("digite a o valor da linha 2 e coluna:  "+ (i+1)+ " ");
+            l2[i]=input.nextInt();
+        }
+         for(i=0;i<=7;i++){
+
+            System.out.print("digite a o valor da linha 3 e coluna:  "+ (i+1)+ " ");
+            l3[i]=input.nextInt();
+        }
+         for(i=0;i<=7;i++){
+
+            System.out.print("digite a o valor da linha 4 e coluna:  "+ (i+1)+ " ");
+            l4[i]=input.nextInt();
+        }
+         for(i=0;i<=7;i++){
+
+            System.out.print("digite a o valor da linha 5 e coluna:  "+ (i+1)+ " ");
+            l5[i]=input.nextInt();
+        }
+         for(i=0;i<=7;i++){
+
+            System.out.print("digite a o valor da linha 6 e coluna:  "+ (i+1)+ " ");
+            l6[i]=input.nextInt();
+        }
+         for(i=0;i<=7;i++){
+
+            System.out.print("digite a o valor da linha 7 e coluna:  "+ (i+1)+ " ");
+            l7[i]=input.nextInt();
+        }
+         for(i=0;i<=7;i++){
+
+            System.out.print("digite a o valor da linha 8 e coluna:  "+ (i+1)+ " ");
+            l8[i]=input.nextInt();
+        }
+
+
+         for(i=0;i<=7;i++){
+
+             System.out.print("digite o RESULDADO!!!! da linha: "+ (i+1)+ " ");
+             ppp[i]= input.nextInt();
+         }
+
+
+
+        for(int x1=0; x1<=10; x1++){
+          for(int x2=0; x2<=10; x2++){
+             for(int x3=0; x3<=10; x3++){
+               for(int x4=0; x4<=10; x4++){
+                 for(int x5=0; x5<=10; x5++){
+                   for(int x6=0; x6<=10; x6++){
+                       for(int x7=0; x7<=10; x7++){
+                            for(int x8=0; x8<=10; x8++){
+                                e1=(l1[0]*x1)+(l1[1]*x2)+(l1[2]*x3)+(l1[3]*x4)+(l1[4]*x5)+(l1[5]*x6)+(l1[6]*x7)+(l1[7]*x8);
+                                e2=(l2[0]*x1)+(l2[1]*x2)+(l2[2]*x3)+(l2[3]*x4)+(l2[4]*x5)+(l2[5]*x6)+(l2[6]*x7)+(l2[7]*x8);
+                                e3=(l3[0]*x1)+(l3[1]*x2)+(l3[2]*x3)+(l3[3]*x4)+(l3[4]*x5)+(l3[5]*x6)+(l3[6]*x7)+(l3[7]*x8);
+                                e4=(l4[0]*x1)+(l4[1]*x2)+(l4[2]*x3)+(l4[3]*x4)+(l4[4]*x5)+(l4[5]*x6)+(l4[6]*x7)+(l4[7]*x8);
+                                e5=(l5[0]*x1)+(l5[1]*x2)+(l5[2]*x3)+(l5[3]*x4)+(l5[4]*x5)+(l5[5]*x6)+(l5[6]*x7)+(l5[7]*x8);
+                                e6=(l6[0]*x1)+(l6[1]*x2)+(l6[2]*x3)+(l6[3]*x4)+(l6[4]*x5)+(l6[5]*x6)+(l6[6]*x7)+(l6[7]*x8);
+                                e7=(l7[0]*x1)+(l7[1]*x2)+(l7[2]*x3)+(l7[3]*x4)+(l7[4]*x5)+(l7[5]*x6)+(l7[6]*x7)+(l7[7]*x8);
+                                e8=(l8[0]*x1)+(l8[1]*x2)+(l8[2]*x3)+(l8[3]*x4)+(l8[4]*x5)+(l8[5]*x6)+(l8[6]*x7)+(l8[7]*x8);
+
+if((ppp[0]==e1) && (ppp[1]==e2)&& (ppp[2]==e3) && (ppp[3]==e4) && (ppp[4]==e5) &&(ppp[5]==e6) && (ppp[6]==e7) && (ppp[7]==e8)){
+
+    System.out.print("o valor é:"+ x1+ " "+ x2+ " "+ x3+ " "+ x4+ " "+ x5+ " "+ x6+ " "+ x7+ " "+ x8+ " ");
+
+}
+
+                            }
+
+
+        }
+
+
+        }
+
+
+        }
+
+        }
+
+        }
+
+        }
+
+        }
+
+
+
+    }
+
+</pre>
+
+==== Algoritmo "Pô, até ontem tava funcionando!!!" ====
+
+Todos já ouviram isso nos ambientes de teste, implantação e manutenção de software: ''"Pô, não tô entendendo, até ontem tava funcionando!!!"''. Eis a explicação:
+
+<pre>
+
+//Criado e implementado por Mister MM - todos os direitos reservados®...
+
+function TfrmCalcPPP.RetornarUltimoDiaMes(Data1: TDateTime): TDateTime;
+var
+   Dia1, Mes1, Ano1: Word;
+begin
+  Result := 0;
+    DecodeDate (Data1, Ano1, Mes1, Dia1);
+    // Mês fevereiro
+    // Ano Bissexto
+    if (Ano1 = 2008) or (Ano1 = 2012) or (Ano1 = 2016) or (Ano1 = 2020) or (Ano1 = 2024) then
+    begin
+    if (Mes1 = 2) then
+    Result := EncodeDate (Ano1, Mes1, 29);
+    end;
+    // Demais Anos
+    if (Ano1 <> 2008) and (Ano1 <> 2012) and (Ano1 <> 2016) and (Ano1 <> 2020) and (Ano1 =2024) then
+    begin
+    if (Mes1 = 2) then
+    Result := EncodeDate (Ano1, Mes1, 2);
+    end;
+
+    // Meses de 30 dias
+    if (Mes1 = 4) or (Mes1 = 6 ) or (Mes1 = 9 ) or (Mes1 = 11 )then
+    Result := EncodeDate (Ano1, Mes1, 30);
+
+    // Meses de 31 dias
+    if (Mes1 = 1) or (Mes1 = 3 ) or (Mes1 = 5 ) or (Mes1 = 7 ) or (Mes1 = 8 ) or (Mes1 = 10 ) or (Mes1 = 12 )then
+    Result := EncodeDate (Ano1, Mes1, 31);
+end;
+
+</pre>
+
+==Máquina de Estados OG==
+
+Veja a seguir uma máquina de estados OG desenvolvido por um profissional graduado em [[MGA]].
+
+[[Arquivo:Algoritmo.jpg|thumb|center|450px]]
+
+==Modelagem Orientada a Gambiarras==
+
+Ao contrário de outras abordagens para modelagem existentes, que são geralmente complexas, contêm inúmeros diagramas que não representam nada (diagramas de classe, de estados, de sequência, etc), a MOG é muito mais simples e eficiente. Todo sistema a ser desenvolvido possui um único diagrama, muito mais simples e eficiente do que os outros existentes. Esse diagrama representa 100% corretamente qualquer sistema e seu comportamento, evitando que a especificação fique desatualizada durante o processo de desenvolvimento.
+
+[[Arquivo:MOG.gif|thumb|center|400px]]
+
+Além da fantástica simplicidade e objetividade do MOG ( dentro do paradigma de modelagem orientada ao "objetivo" ), a conotação visual da linguagem permite uma incrível abstração dos conceitos genéricos e soluções computacionais, como fantástico exemplo abaixo: 
+
+[[Arquivo:Img009.jpg|thumb|center|600px]]
+
+==Tipos de Erros POG==
+
+'''Acesso danado:''' ocorre quando você não tem permissão no local, muito comum no [[Linux]], pois o [[Windows]] nem conhece a palavra "permissão".
+* Resolução do problema: Dê permissão total a todos.
+
+'''Estouro de ''Time-out'':''' ocorre quando o desenvolvedor que não possui habilidades no uso de POGs cria aplicações que são lentas e, desta forma, "estoura" o tempo estipulado para o processamento:
+* Resolução do Problema: Aumente o tempo de ''Time-out'' para que este tenda ao infinito.
+
+==Documentação de projetos POG==
+
+Apesar do comprovado sucesso das metodologias POG, certos gerentes de projeto ainda recorrem a práticas desnecessárias e onerantes, como documentação de projeto. Entra em cena a esperteza de certos programadores e analistas POG.
+
+'''Documento de Requisitos''' - Após as primeiras reuniões com o cliente, o vendedor usa os requisitos como entrada para um programa gerador de lero-lero. Assim nasce o documento de requisitos. Ele converte a linguagem coloquial do cliente para uma terminologia que ninguém entende. O cliente assina sem entender, os gerentes passam para os analistas sem ler, e esses fazem o MOG do sistema baseados no lero-lero.
+
+Por fim, o cliente pede 150 funcionalidades a mais, os gerentes aceitam e não cobram, o prazo estoura e a culpa é do desenvolvedor.
+
+'''UML''' - Forma que os analistas POG acharam de usar os desenhos de escola dos filhos para representar um sistema (vide Use Cases).
+
+'''Documentação Orientada à Politicagem''' - A documentação tá lá pros analistas tirarem os seus da reta e colocarem a culpa no programador quando o projeto falhar. Ou então, caso tenha sucesso, levarem todo o crédito.
+
+'''Powered by POG''' - Tag de utilização de POG. Utilize à vontade.
+
+* v0.9 - [[Arquivo:Pogpowered.gif]]
+* v1.0 - [[Arquivo:Pogpowered2.gif]]
+
+==Prazos de um projeto POG==
+[[Arquivo:PrevisaoDoTempoPOG.jpg|right|thumb|300px|O clima é previsível, mas o POG é astuto]]
+A grande vantagem da metodologia POG é entregar produtos com qualidade acima da média, mas também em prazos curtos.
+Existem vários tipos de prazo, cada um com seus prós e contras.
+
+===Prazo Jack Bauer===
+
+Gerente de TI: "São 150 funcionalidades no sistema. Você tem 24hs..."
+
+===Prazo Suicida===
+
+Gerente de TI: "O sistema precisa estar pronto agora!"
+Então, o programador POG, tendo assistido Constantine, corta os pulsos. O tempo para, e ele implementa o sistema. Lógico, que, como suicida, ele tem que implementar através de ssh direto do inferno. Deus, vendo o autossacríficio do cara, sente pena e manda ele de volta. O sistema fica pronto em alguns segundos.
+
+===Prazo Sanfona===
+
+Programador:"Devo gastar 24 horas para esse projeto"<br>
+Líder Técnico:"O Programador faz isso em 2 horas"<br>
+Prazo dado pelo Gerente de Projetos: "40 horas sendo uma previsão inicial"<br>
+Tempo realmente gasto: 160 horas
+
+===Prazo Capitão Nascimento===
+
+Gerente de TI: "Quanto tempo você precisa 0101?"<br>
+Programador:"Oito horas."<br>
+Gerente de TI: "Oito horas?!? 0101 o Senhor é um fanfarrão! O Senhor tem oito segundos!"<br>
+Programador:"Mas, senhor..!<br>
+Gerente de TI: "Mas senhor é o caralho, o senhor tá com nojinho?"<br>
+Programador:"Não senhor.."<br>
+Gerente de TI: "Então senta o dedo nesse teclado e começa a programar!"<br>
+
+==Ciclo de vida de um projeto POG==
+
+O ciclo de vida dos projetos POG se resumem às fases:
+# Entusiasmo
+# Desilusão
+# Pânico
+# Busca dos culpados
+# Punição dos inocentes
+# Honra e glória aos não participantes (no final quem não tem nada a ver com o projeto é que salva)
+# Os inocentes que não foram mandados embora, assumem a manutenção do Sistema.
+
+== Certificações ==
+[[Arquivo:AlcidesMaya.jpg|right|thumb|300px|Fachada de uma escola que adota POG avançada. Notem a fachada, que utiliza técnicas avançadas de [[Photochope]]]]
+=== Pessoal ===
+
+'''POG Basic Certification'''
+
+A primeira certificação pessoal a ser tirada pelo programador orientado a gambiarra é POG Basic Certification.
+Essa certificação demonstra que o programador executou a sua primeira gambiarra com sucesso, e a primeira gambiarra você jamais esquece.
+Ele a partir desse momento está apto a desenvolver novas gambiarras com a mesma inteligência e vigor que executou a primeira, sem culpa e com respaldo da certificação adquirida e que jamais será retirada dele.
+
+'''POG Master Certification'''
+
+Senhor de todas as faculdades gambiarrísticas, é um profissional altamente capacitado ao desenvolvimento de software, as gambiarras saem de seu cérebro já inconscientemente, é tão natural quanto respirar ou peidar. 
+Capaz de feitos como DOG NEVER HUNGRY TECHNIQUE, o meu cachorro aprendeu a viver sem comer depois disso e FRIEND NEVER SLEEP TECHNIQUE, ou seja, o amigo de um POGer sempre está acordado e disposto a acompanha-lo, mesmo nas horas mais obscuras da madrugada. Isto é fato, amigos de POGuentos não dormem regularmente, são capazes de suportar vários dias acordados ( na noite em algum bar, após o trabalho falando de POG ), e em alguns casos até semanas sem dormir mais que 4 horas por noite.<br>
+
+'''POG Overlord Certification'''<br>
+Nível de sapiência em POG lendário, onde apenas UM caso foi registrado até o presente momento. Tal indivíduo teve uma luz de como gambiarrar em busca de uma solução (cujo problema vem de um sistema extremamente MOG/POG, feito por POGers sem experiência) tão incrível que causou colapso nervoso em seu chefe.
+
+
+
+'''POG Overlord Exam'''<br>
+
+*'''Problema'''
+Inserir em uma tabela de um módulo que não existe no ERP da empresa os dados referentes ao departamento pessoal, oriundo de outro sistema da empresa, o qual não conversam entre si. Esses dados serão acessados tanto pelos módulos existentes quanto pelos módulos não existentes (tenha Fé).<br>
+
+*'''Solução digna do título de Overlord'''
+Tendo os dados que serão necessários para a inserção no ERP, em Excel (!!!), o POGer edita as coluna, deixando apenas as que são NOT NULL no BD (caso esteja faltando alguma informação NOT NULL, tal clausula é modificada no BD) e salva em CSV, tomando o cuidado de acrescentar uma coluna no começo com "insert into nome_tabela (campos) values (", entre os dados colunas com as informações "??" e no final uma coluna com ");".<br>
+Após tal feito, o POGer deverá abrir o CSV no bloco de notas e substituir o ";" do CVS pelas aspas simples e deixar os inserts no padrão SQL.<br>
+
+Agora vem a parte bruta. O POGer deverá inserir esses dados na tabela X, que irá gerar um ID (não usando uma sequence, mas uma tabela), pegar os dados inseridos mais o ID gerado e inserir em uma outra tabela, Y. Como fazer isso?<br>
+
+Simples, basta criar uma tabela Z, inserir os dados. Depois inserir novamente, só que agora na tabela X (onde será gerado o ID). Depois, nosso intrépido POGer deverá comparar a tabela X e Z pelos nomes (com o LIKE) e pegar os dados que são idênticos entre elas... e salvar como CSV!!!<br>
+
+Novamente, irá no bloco de notas, editando os dados para deixar no padrão insert do SQL e depois inserir os dados, FINALMENTE, na tabela Y.<br>
+
+Após o término de tal gambiarra, nosso POGer obteve, por divina providência, o certificado POG de Overlord.<br>
+
+
+
+'''GambiGodnessPower Certification'''<br>
+
+Este nível de programação só é conseguido por o mais alto nível de gambiarrice. Ao se deparar com um problema impossível de ser resolvido, problema este que consome totalmente todas as forças mentais e a energia gambiKi corporal, neste momento o indivíduo recorre a todos os tipos de rezas e orações e pede por forças do além para resolver o dito problema. Se você chegar a este estado, e tiver feito todos os passos descritos aqui, você verá em seu sonho (dois dias depois quando você conseguir dormir), Moises trazendo as duas tabuas da gambiarra sagrada, neste momento você se tornará um GambiGodnessPower, onde nada mais será impossível para você. As pessoas notarão diferenças em você, principalmente quando você começar a flutuar (ao invés de andar) e usar telepatia para falar com elas. Infelizmente estes indivíduos não duram muito tempo na terra, pois logo que conseguem este nível de conhecimento, tranformam-se em força GambiKi (o primeiro foi wob wan kinoob) e passam a ser programadores mal remunerados do grande computador quantico do universo, dentro de um cilindro-cônico.
+
+
+
+'''GambiGodnessPower Exam'''<br>
+
+*'''Problema'''
+Após você ter alcançado a certificação POG OverLord, você deve fazer um hyper POG que envie um pacote (com 1GB de payload) por sua interface cabeada (de preferência sem estar com o cabo conectado), e receber este pacote por sua interface sem-fio. a interface sem fio deve estar conectada de forma não autorizada na internet sem fio de um vizinho, e esta deve ser protegida com WAP2, RADIOS, Criptografia Quântica. O vizinho deve ter pelo menos 5 pós-doutorados em segurança da informação. O pacote ainda deve sair de sua interface cabeada, da uma volta no planeta, e em seguida chegar em sua placa de rede sem fio, com apenas um salto.
+
+*'''Resolução'''
+comece usando a força GambiKi para ligar o computador, fume duas folhas de papel (de preferencia higienico), e em seguida, deixe a forma GambiKi fluir.
+
+=== P.O.G. ===
+
+[http://paginas.terra.com.br/informatica/webtas/ Arquivo] em alta definição, disponível para impressão. Somente utilize caso você tenha adquirido a devida certificação.
+
+==POGMM - POG Maturity Model==
+
+O POGMM fornece às organizações orientação sobre como ganhar controle do processo de desenvolvimento de gambiarra em software e como evoluir para um cultura de excelência na codificação adaptada completa e adaptável (CACA), sem que ninguém perceba e continue achando que o desenvolvimento está a mil maravilhas.
+
+O objetivo principal nas transições desses níveis de maturidade é a realização de um processo discreto e imperceptível, para a construção de workarounds (gambiarras), como a fundação para melhoria contínua. Cada nível de maturidade possui um conjunto de práticas de gambiarras e gestão de CACAs, denominadas áreas-chave do processo de '''T'''.'''A'''.'''P'''.'''A''' (Técnicas Avançadas de Programação Adaptável).
+
+O processo descreve os estágios de maturidade através dos quais organizações passam enquanto envoluem no ciclo de elaboração de gambiarras, identificação de mancadas e ações acobertadoras dentro de uma estratégia de melhoria do disfarce dos processos.
+
+Este caminho de melhoria é definido por cinco níveis de maturidade:
+
+*'''Nível 1 - Inicial'''
+Neste estágio as CACAs são codificadas, invariavelmente dão algum problema e, quando descoberta, ninguém tem um boa desculpa para aplicar.
+
+*'''Nível 2 - Repetitivo'''
+Chegando a este nível, as soluções de workaround são permante e conscientemente introduzidas, com leves maquiagens, permitindo que em muitos casos passem despercebidas, minimizando o impacto de sua descoberta.
+
+*'''Nível 3 - Definido'''
+Por meio da utilização de MOG, as gambiarras passam a ser bem conhecidas, podendo-se elencá-las por meio de patterns próprios. Na eventualidade de identificação de alguma dessas CACAs, as desculpas já estão bem fundamentadas com paradigmas específicos e explicações esdrúxulas.
+
+*'''Nível 4 - Gerenciado'''
+O conhecimento de gambiarras fica claramente mapeado, permitindo a preparação antecipada de uma estratégia de justificativas para cada incidente com CACAs. A definição antecipada de responsáveis é possível, permitindo ocultar a sua autoria e colocar a culpa no "colega" que você mais detesta.
+
+*'''Nível 5 - Em otimização'''
+Apesar do uso intenso da POG, quase a totalidade das CACAs passam despercebidas e, mesmo quando percebidas, é sempre possível e plausível classificá-la como acaso. "Como foi que isso foi para aí?" O índice de POG também não influencia no sucesso da aplicação, fazendo com que milagrosamente ela atinja seus objetivos com êxito.
+
+== Advertência ==
+
+Lembre-se que a [[Microsoft]] idealiza direitos, por isso, cuidado para você não precisar pagar royalties à Microsoft. Na próxima versão do Visual Studio, todas as POGs documentadas terão wizards personalizados. Por ser dotado de Inteligência Artificial (já que os programadores VB não possuem inteligência alguma) ele irá tornar a implantação das técnicas POG ao POGramador.
+
+==Hinos POG==
+
+Em rodas de bar na sexta-feira, alguns POGramadores se reúnem para contar suas proezas. Nestas rodas surgiram alguns hinos em homenagem a esta arte que atravessa séculos. A seguir um exemplo:
+
+* Baseado na canção '''"Flor de Lis"''', de ''Djavan''.
+
+<pre>
+Que bom meu Deus,
+É o fim, tudo acabou
+Que bom que compilou...
+Eu sei que o erro que aconteceu
+
+Mas não sei o que fez
+Tudo mudar de vez:
+Onde foi que eu errei?
+Eu só sei que POGuei, que POGuei, que POGuei,
+Que POGuei...
+
+Será talvez que na atribuição
+Ou na declaração eu fiz lambança
+Com essa coisa de usar Matriz
+Porque com Tree não quis
+
+Varrer desde a raiz
+Com uma porção de If's...
+E foi que eu fiz a classe mais fuleira, fuleira,
+Com certeza o meu problema foi a Pilha.
+
+[refrão]
+Quando eu inseri na Pilha
+Resetou, deu erro
+O Break parou com a Fila
+Nem minha Lista varreu.
+(BIS)
+</pre>
+
+== Chavões POG ==
+[[Arquivo:Dica de pog.GIF|right|thumb|300px|Conselhos de um DBA. (Sim, foi editado no Paint...)]]
+{{C|Vai programando aí que eu vou ver o que o cliente quer|Gerente sem-noção|POG}}
+
+{{C|A culpa é do Ralph!|DEV sobre POG}}
+
+{{C|Limpa o histórico e o cache e dá um [Control + F5] que funciona|Resposta padrão do Webmaster|POG}}
+
+{{C|Já atualizou a versão do Windows?|Resposta padrão do suporte|POG}}
+
+{{C|É so botar botar um @|Programador PHP sobre o erro que aconteceu|POG}}
+
+{{C|A principio isso nao tem nada a ver com o erro, mas pode ser que tenha....algo a ver |Programador POG, sobre o erro no programa que nao sabe da onde veio}}
+
+{{C|O que importa são os resultados™|Programadores do Google Adwords sobre POG}}
+
+{{C|Travou? Tenta dar [Ctrl + Alt + Del]. Se não funcionar, desliga e liga de novo a máquina...|Resposta de um POG a outro sobre a execução de um LOOP do manual da POG}}
+
+{{C|Na minha máquina funcionou.|Programador|POG}}
+
+{{C|O importante é fazer funcionar.|Programador 100% pragmático|POG}}
+
+{{C|Ontem tava funcionando!|MPOG|POG}}
+
+{{C|É só colocar um DIV ali!|WebDesigner|POG}}
+
+{{C|/* só testei até aki! */|Comentário de um programador Mancebo em um arquivo}}
+
+{{C|Não se preocupe... quando você for implementar vai descobrir a melhor maneira!|Gerente sem-noção}}
+
+{{C|Não me interessa se é restrição da ferramenta, dá um jeito e coloca isso funcionando até amanhã!|Gerente de Projeto falando ao programador}}
+
+{{C|Simplesmente comentei e funcionou!|MPOG|Mestre da arte de POG dizendo como resolveu o problema}}
+
+{{C|É facil, não vejo dificuldade em fazer isso!!|Gerente sem-noção definindo prazo junto com o programador}}
+
+{{C|É só colocar um IF!!|Gerente sem-noção sugerindo a solução técnica}}
+
+{{C|Tive que arrumar direto no banco - daí funcionou! Se o problema "voltar", nos ligue novamente.|POGger| O Poder da Fé.}}
+
+{{C|Como não faz?! Tem que implementar, acabamos de vender o produto com isto. |Gerente de vendas de uma empresa qualquer}}
+
+{{C|É só gerar tudo de novo, provavelmente deu erro na especificação. |Programador com sua desculpa POG para o problema}}
+
+{{C|O Código tá certo, deve ser problema na massa de dados.|Programador Experiente, com várias certificações em POG}}
+
+{{C|Terminei, só falta testar.|Programador POG as 18h00 com a mochila nas costas falando pro chefe}}
+
+{{C|É só reiniciar que funciona!|Programador POG logo de manhã com copo de café na mão }}
+
+{{C|Dá um Build All que funciona!|Programador VB desesperado por não saber a procedência do erro }}
+
+{{C|Bom, deixa estourar a bomba lá, aí quando vierem me pentelhar aqui eu vejo o que faço...|Programador para outro programador só esperando o problema voltar}}
+
+{{C|A Função ficou com 3000 linhas porque é impossível deixar ela menor|Programador POG tentando se passar por expert }}
+
+{{C|Se compila Funciona!|Programador POG, usando a técnica No_Exception }}
+
+{{C|Eu fiz somente o que foi especificado!|Analista, usando a técnica In-Diana }}
+
+{{C|Hmmm.. que estranho... Não era para acontecer isso...|Programador iniciante na empresa}}
+
+{{C|Que lixo que fizeram!!! Olha isso!!|Programador POG falando sobre outro Programador POG}}
+
+{{C|Quando eu cheguei já tava assim!!!|Gambizeiro querendo tirar o seu da reta!}}
+
+{{C|...É que 1GB de RAM é pouco! Tem que colocar mais memória!!!|POGramador sobre estouro de pilha}}
+
+{{C|...ah!!! Isto é um erro comum do Windows!|POGramador tentando ganhar tempo para corrigir seu código}}
+
+{{C|Reza e cruza os dedos que vai funcionar!|POG Pai de Santo falando para um POGramador menos experimente... }}
+
+{{C|Quando eu testei, funcionou!|POGramador demonstrando as gambiarras para seu Gerente Sem Noçao}}
+
+{{C|Tá quebrado? Force. Se quebrar, precisava trocar mesmo... |POG sem noção e [[eu]]}}
+
+{{C|Até ontém quando eu mexi estava tudo funcionando!|Resposta do POGramador ao ser questionado sobre a pane geral no sistema}}
+
+{{C|Tem bug, mas não é no código!!|Estagiário justificando os erros no programa para o gerente}}
+
+{{C|Claro que não! É essa lib/SO/compilador que está toda bugada!!|Estagiário-chefe apoiando justificativa do estagiário ao gerente}}
+
+{{C|O Senhor já tentou reiniciar seu computador? Caso sim vou pedir que desligue seu modem e religue novamente...|Atendente da Brasil Telecom ou Velox utilizando técnicas de TelePOG para resolver o problema}}
+
+{{C|Para ser POGger, tem de ser astuto, tem que saber onde o compilador quer te ferrar|POGger passando seus ensinamentos para estagiário!}}
+
+{{C|Não se preocupe, nenhum sistema "entra redondo". O importante agora é entrar em produção, depois consertamos os erros!|Gerente sem noção tentando acalmar desenvolvedor sobre projeto MOG com prazo estourado.}}
+
+{{C|Deu erro...comenta!|Alunos no laboratório da facul.}}
+
+{{C|É só um botão, o que pode dar errado?|Gerente sem-noção|nova funcionalidade}}
+
+{{C|Internet Explorer 7 ? Atualiza pro 8 que funciona.|POGramador com esperança de que o sistema ainda irá funcionar}}
+
+{{C|Se o sistema está lento é por causa do banco.|POGramador tirando o dele da reta}}
+
+{{C|Vou realizar os testes na produção.|POGramador com auto-estima}}
+
+{{C|Esse problema só acontece quando vira o horário de verão, depois o sistema volta normal.|POGramador com esperança (novamente) de que o sistema ainda irá funcionar}}
+
+== Siglas ==
+
+* ''GJSB'' - Golpe do João Sem Braço (Armless John's Attack)
+* ''MTEDM'' - Manutenção Técnica com Elementos Disponíveis no Momento. Também chamado de Bacalhau.
+* ''MAS'' - Método dos Acochambramentos Sucessivos
+* ''CHUTE'' - Conclusão Hipotética Universal Técnica Explicativa 
+* ''ATND'' - Artifício Técnico Não Documentado
+* ''RCP'' - Reparo de Cunho Provisório
+
+== Artigo sobre a evolução dos sistemas que utilizam SGBD com MOG e POG ==
+
+Este texto foi escrito baseado em grandes contribuições e obras de gambiarradores de renome internacional e relata sobretudo suas experiências utilizando as técnicas POG (Programação Orientada a Gambiarras) em desenvolvimento de sistemas complexos que utilizam SGBD (Sistema Gambiarrador de Bando de Dados).    
+
+'''Introdução'''
+
+Certamente você já precisou dar manutenção em um sistema que tinha aproximadamente 700 tabelas, 300 views e mais de 1000 stored procedures, sem falar dos milhares de softwares aplicativos desenvolvidos em VB, Delphi, ASP 3.0 ou PHP (nota: ASP e PHP são as linguagens que oferecem o maior número de recursos aos Gambiarradores para a utilização de técnicas POG avançadas). 
+
+Isto é uma situação comum nesta profissão e que muitas vezes afetam o bom desempenho do gambiarrador. Além disto os usuários sempre querem urgência na resolução de seus problemas pois na verdade alguém ficou "sentado" na informação durante meses e não envolveu os gambiarradores com a antecedência necessária. Isto por si só já é uma situação crítica, porém não para por aí.
+
+'''Cenário Atual'''
+
+Considerando que qualquer sistema em produção desenvolvido com as técnicas tradicionais de desenvolvimento e modelagem apresentam algum tipo de problema podemos concluir que nunca um usuário estará satisfeito.
+
+'''Abaixo uma lista dos principais motivos que incomodam os usuários:'''
+
+* Lentidão do sistema;
+* Para alterar um cadastro é necessário entrar em muitas telas; 
+* O sistema obriga o preenchimento de determinados campos que na visão do usuário não são necessários;
+* No preenchimento de determinados campos é obrigatório respeitar a formatação (máscaras para digitação); 
+
+'''Curiosidade:'''
+
+Após pesquisas de satisfação com diversos usuários foi possível detectar que estes são os principais motivos pelos quais o usuário tende a sabotar seu sistema e continuar utilizando uma plataforma mais flexível e amigável normalmente desenvolvida por ele (ao encontrar o título plataforma mais flexível e amigável leia-se planilha Microsoft Excel).
+
+'''Os reais motivos em ordem de importância por trás das reclamações dos usuários'''
+
+# – O usuário é preguiçoso
+# – Normalmente o usuário é burro
+# – Os sistemas tradicionais não utilizam técnicas MOG e POG
+
+Infelizmente os dois primeiros motivos não poderemos resolver com as tecnologias existentes atualmente. Portanto a melhor alternativa nestes casos continua sendo a demissão imediata e o tratamento a base de chicotada e ameaça de demissão.
+
+'''Novo Cenário - Técnicas MOG e POG'''
+
+Após anos de pesquisa renomados gambiarradores evoluiram o conceito dos SGBDs (Sistema Gambiarrador de Bando de Dados) para um novo padrão de desenvolvimento de sistemas baseados em MOG (Modelagem Orientada a Gambiarras) e POG (Programação Orientada a Gambiarras).
+
+Em geral os problemas nos softwares ocorrem pois os sistemas são desenvolvidos utilizando técnicas de modelagem desnecessárias e exageradas como 3a, 4a e 5a formas normais com integridade referencial e patterns complexos. Isto gera a necessidade de muitos joins, o SGDB fica sobrecarregado fazendo validações nos dados e você tem muitos layers tornando a performance da aplicação ruim.
+
+Para solucionar este problema, o primeiro passo é culpar o desempenho da máquina, então o Gambiarrador deve sugerir a compra de um novo servidor muito mais moderno que será capaz de rodar o software com bom desempenho. O antigo servidor ficará livre para você armazenar seus MP3s e rodar jogos on-line (diversão preferida dos gambiarradores).
+
+* Atenção: não conte esta parte para seu chefe e instale um antivírus nesta máquina para disfarçar.
+
+Caso o sistema volte a ficar lento, sugira um novo upgrade de hardware. Normalmente esta técnica funciona entre 2 e 3 vezes. Caso o sistema fique lento novamente, aí você precisará investir nas técnicas MOG e POG. 
+
+'''Abaixo segue um guia rápido para o Gambiarrador adepto da MOG e POG:'''
+
+Como resolver os seguintes problemas dos sistemas tradicionais:
+
+*'''Lentidão do sistema;'''
+
+Comece desabilitando todas as check constraints e integridade entre as tabelas. Isto aumentará o desempenho em 30% aproximadamente.
+
+'''Nota:''' 
+
+As  check constraints e a integridade referencial servem para garantir que o usuário não faça besteira ao inserir, excluir ou alterar um registro. Como isto é impossível logo é desnecessário. Neste caso a melhor alternativa é colocar alguns IFs nas telas e fazer terrorismo na cabeça dos usuários para que eles fiquem em pânico ao usar o sistema inibindo-os e evitando que eles façam qualquer alteração, tornando o sistema mais estável.
+
+O próximo passo é juntar tabelas que o DBA (Administrador de Bando de Dados) separou na modelagem baseada nas técnicas tradicionais. Para isto usaremos uma técnica  MOG chamada R-MER (em potuguês: Modelo Reverso de Entidade e Relacionamento) ou tableless em banco de dados.
+
+Isto poderá aumentar a performance da aplicação em assustadores 4.567%, pois não será mais necessário o uso de JOINs. A má notícia é que você terá que dar manutenção em todos os comando SQL da aplicação e a boa notícia é que você terá mais alguns meses de projeto.
+
+*'''Para alterar um cadastro é necessário entrar em muitas telas;''' 
+
+O uso de muitas tabelas requer muitas telas, este é o motivo que incomoda os usuários. A técnica indicada para solucionar este problema é a junção de tabelas conhecida como R-MER já descrita anteriormente. 
+
+'''Nota:'''
+
+Um sistema ideal que utiliza técnicas MOG e POG tem no máximo uma tabela por funcionalidade. 
+
+'''Exemplos de funcionalidade no conceito MOG e POG:'''
+
+*Folha de Pagamento;
+*Contas a Pagar e Receber;
+*Estoque;
+*Faturamento.
+
+*'''O sistema obriga o preenchimento de determinados campos que na visão do usuário não são necessários;'''
+
+Esta é a ação mais fácil para o Gambiarrador e certamente é a mais popular entre os usuários. Basta alterar todos os campos da sua tabela de banco de dados para aceitarem NULL. Após isto, você será reconhecido pelos usuários como o cara que tornou o sistema mais flexível e amigável (leia-se planilha Excel).
+
+*'''No preenchimento de determinados campos é obrigatório respeitar a formatação (máscaras para digitação); ''' 
+
+Preencher campos com máscara é uma tarefa chata e demorada o que caracteriza os sistemas tradicionais como inflexíveis. Se você já executou as 3 sugestões anteriores, então a solução deste problema é fácil: basta alterar a tela principal (única tela do sistema considerando que você aplicou a técnica R-MER) .
+
+A alteração consiste em substituir todos os objetos de tela por objetos do tipo textbox. Não se esqueça de configurá-los para aceitar digitação livre e deixe todos como não obrigatórios e sem limite de tamanho, assim o usuário se sentirá mais confortável.
+
+'''Dica:'''
+
+Tente fazer com que a tela do seu sistema seja parecida com o Excel, ''seus usuários vão amar você!''
+
+'''Certificação'''
+
+Se você implementou com critério todos estes novos conceitos MOG e POG seu sistema estará apto a adquirir a certificação OTS-171  (One Table System - 171) o mais cobiçado certificado para softwares.
+
+[[Arquivo:pog1.jpg|rufht|thumb|Um exemplo real de conexão com POG, ficou uma maravilha]]
+
+== Novas tendências de Mercado ==
+'''W4C''' (The World Wide Web Workaround Consortium)
+
+Com o [[Bomba|BOOM]] da [[internet]], diversos navegadores e sitemas operacionais, O W3C, não foi mais suficiente para assegurar a qualidade de sites e sistemas web. Com isso surgiu o W4C, visando garantir uma maior compatibilidade dos navegadores.
+
+'''Validação W4C'''
+*O [[JavaScript]] funcionou nos browsers em que testou ?
+*O [[CSS]] pegou nos browsers em que testou ?
+*O ''layout'' não quebrou, ou pelo menos pegou a fonte desejada ?
+
+Se os requisitos acima foram verificados e funcionaram, seu site foi validado. Veja que não há emoção ao se tentar validar tais requisitos apenas com navegadores que não fazem uso de POG. Portanto, teste no [[Internet Explorer|Internet Explosion]] e depois faça a comparação no [[Firefox]], ou [[Opera]]. Você terá trabalho para 1 ano, ou seja, remuneração garantida para ficar marretando CSS, seja feliz.
+
+== Cursos, Especializações, etc.. ==
+
+=== Pós Graduação ===
+
+'''[http://www.ipog.edu.br IPOG] - Instituto de Programação Orientada a Gambiarra.'''
+
+==Ver também==
+
+* [http://www.programei.org Site sobre programação]
+
+Nota: A lista foi colocada em ordem analfabética por um programador certificado em POG. Ele utilizou o algoritmo de ordenação Sort Unicode Fast Charset.
+
+* [[Leon D'Acochambre]], o precursor da técnica
+* [[Sobrinho (Profissional)]]
+* [[Ciência da Computação]]
+* [[AgenciaPOG]]
+* [[Bope.java]] 
+* [[Constante de King]]
+* [[Gambiarra]]
+* [[GoHorse]]
+* [[Strings]]
+* [[Random Sort]]
+* [[SPEEDCASE]]
+* [[IP POG]]
+* [[Java]]
+* [[Jeitinho Brasileiro]]
+* [[Programação Orientada a Gambiarras#Master of Gambietor Oriented Programming - MPOG|MPOG]]
+* [[Podrões de Projeto]]
+* [[PHP]]
+* [[Programação estruturada]]
+* [[Programação no botão]]
+* [[POF|Programação Orientada a Flag]]
+* [[Programação orientada à IE]]
+* [[Programação orientada ao Atrito]]
+* [[Programação Desorientada a Objetos]]
+* [[ProtoUsuário]]
+* [[Qualidade de Software]]
+* [[Visual Basic]] 
+
+{{Linguagens de Programação}}
+[[Categoria:Paradigmas de programação]]
+[[Categoria:Ciência da computação]]
+[[Categoria:Práticas milenares]]

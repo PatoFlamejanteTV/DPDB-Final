@@ -1,0 +1,149 @@
+{{Microsoft}}
+[[Arquivo:Visual.JPG‎|right|thumb|Típico programador de Visual Básico]]
+[[Arquivo:EddyMurphy.jpg‎|right|thumb|[[Stevie Wonder]],Criador do Visual Basico]]
+
+{{c|Goto - Evidência da existência de Satanás - VB6 - Linguagem que mais utiliza GoTo!|Dicionário Aurélio|Visual Basic|}}
+
+{{c|Entrei em Loop eterno!|Eu|Visual Basic|}}
+
+{{c|Porque apareceu "Debugue"? Eu vim de carro!|Carla Perez em Aula|Visual Basic|}}
+
+{{c|Básico meu amor?! Tudo Pra mim tem que ser chiquérrimo!|Vera Verão|Visual Básico}}
+
+{{c|Qua tal agitar com esta galerinha do barulho, fazendo altos visuais pra lá de maneiros e compartilhar na internet, aprontando várias confusões com essa gente da pesada (pedófilos)|Narrador da Sessão da Tarde|Visual Basic}}
+
+{{c|Eita compilador que não morre. Já está fazendo hora extra...|Programador C# metido sobre Visual Basic}}
+
+{{c|Unknown error!|Compilador|Visual Basic}}
+
+{{c|1. Iniciar ... 2. Executar ... 3. Digite regsvr32 ziquizira e dê Enter|Programador dando suporte técnico sobre seu programa pré-instalado}}
+
+{{c|No help available!|Visual Basic|erro acima}}
+
+{{c|Meu filho, não responda!|Mãe do VB ensinando boas maneiras para o muleque}}
+
+{{c|Não respondendo|VB lembrando dos ensinamentos de sua mãe}}
+
+== A Linguagem ==
+O '''Visual Basic''' é uma [[linguagem de programação]] criada pela Milosoft.
+A primeira regra em POG VB é amar a Bill Gates e Windows sobre todas as coisas.
+
+A segunda coisa em POG VB é andar com um disquete, cd-rom, pendrive, fitas magneticas, disco de vinil, filme de camera ou qualquer outro penduricalho que armazene dados, e assim gravar a dll msvbvm60.dll...
+Deu pau! Opa! Fecha tudo e joga esse arquivo no c:\windows\system32...
+
+DOS não morreu!
+Isso mesmo, um POG em VB é fã do nosso falecido DOS. Sempre devendo ressucitá-lo para invocar o comando REGSVR32 e registrar aquele componente que como sempre está dentro de um arquivo .ocx ou dll e que acabou esquecendo de mandar para o cliente...
+
+O segredo do compilador VB é que tudo é feito através de uma ligação dinâmica, podendo compartilhar todos seus bugs com todos os outros programas e vice-versa.O compilador trabalha com uma inteligência igual ao do Jeremias,fazendo o seu bug rodar 1000 vezes em 1 segundo,inteligente ele.
+
+Na programação orientada a gambiarra VB passa-se 90% do tempo resolvendo conflitos de dll entre seu programa e outros também desenvolvidos com a mesma tecnologia POG VB... Não importa se a linguagem é boa ou não, se é lenta ou rápida, se tiver uma IDE pra arrastar um componente porco, é o que se precisa.
+
+[[Arquivo:Bolo2camadas.jpg‎|right|thumb|Acesso de 2 camadas]]
+[[Arquivo:Bolo3camadas.jpg‎|right|thumb|Acesso de 3 camadas]]
+[[Arquivo:If 1=1 vb6.gif|right|thumb|If 1=1 then...]]
+O acesso a banco de dados é o mais abrangente que existe. Que? Não deu certo com DAO? Já tentou o ADO? Também não deu? Acessa com o RDO? Também não? Conecta com o ODBC... ODBC Jet? ODBC Direct? OLE DB? JDBC? não? E se nada desses der certo volte para aquele primeiro exercicio que aquele seu "querido" professor passo...utilize o "Data Control",usado apenas e exclusivamente por pessoas totalmente...como posso dizer,pessoas com menor capacidade intelectual(vulgo massa cinzenta[+ é cinza?!])E por ae vai... esquece tudo isso agora é DAO.Net... Quanto mais componentes com letras diferentes para acessar um banco de dados melhor e mais evoluído é um programador em POG VB.
+
+171 no cliente:
+Como veem, nós programadores VB temos o maior "know how" em "databases", ideal para empreendedores "business" atualizados em "MBA" como o senhor, com especialidade em banco de dados de 2 ou 3 camadas (a minha preferida é de chocolate), mantendo uma interface "clean" e rápida para que o usuário trabalhe.
+
+Observe as palavras "know how", "databases", "MBA"(Master in Business Administration)... é a chamada linguagem engana trouxa, onde você inseri algumas palavras em inglês no nosso idioma para demostrar mais <strike>enganação</strike> inteligência, e assim parecer mais culto e cdf(cueca de ferro).
+
+== Exemplos de Código Fonte ==
+A grande vantagem desta linguagem de programação é feita pela sua simplicidade, podendo ser desenvolvida por semi-analfabetos ou analfabetos com noções de Paint.
+
+Exemplo de como se conectar ao banco mundial através de uma interface multimidía interpolarizada:
+<pre>
+Dim Conexao as new InternetionalBank
+Conexao.Connect
+</pre>
+Exemplo de um sistema escolar que mostra as notas do aluno, organizada por materia, professor e calculando possibilidades se ele terá que fazer recuperação, exame ou repetir direto.
+<pre>
+Dim Aluno as new SchoolStudent
+Aluno.Calculate
+</pre>
+Exemplo de um "Hello World" em Visual Basic:
+<pre>
+On Error Resume Next
+
+If 1 = 1 Then
+   GoTo VerificarProblema
+Else
+   While 5 <> 2
+         DoEvents
+   Wend
+End If
+
+VerificarProblema:
+Exit Sub
+
+'Quem pegar este projeto lembrar de por um hello world em algum lugar
+</pre>
+
+Exemplo típico de erro
+    Dim jose,Chuck_Norris As String
+    On Error Goto IssoNonEcziste
+    
+    If jose > Chuck Norris Then
+        Jose_bate_em_Chuck_Norris.execute
+    End If    
+ 
+    IssoNonEcziste:
+    MsgBox "Ninguem rela em Chuck Norris!", vbError + vbOkOnly + vbDefaultbutton1 + vbQualquerCoisaQueViernaMente
+    Chuck_Norris = Round_House_Kick.action
+    MsgBox "Jose is Dead!", vbAquilotudodenovo
+
+== Exemplos de rotinas (sub)desenvolvidas por programadores de Visual Básico ==
+Rotina para desligar o computador:
+<pre>
+function desligarComputador(Acao)
+   MsgBox "Clique em iniciar, e depois em Desligar o computador" & vbCrLf & _
+   "Ao aparecer as novas opções, clique em " & acao & vbCrLf & vbCrLf & _
+   "(Caso não encontre a opção desejada entre em contato com o suporte vai gozar com o caralho)"
+End Function
+</pre>
+Calculadora:
+<pre>
+Sub Calculadora()
+   On Error GoTo NaoSeiOQueHouve
+   a=InputBox("Digite o valor 1:")
+   b=InputBox("Digite o valor 2:")
+   c=InputBox("Digite a operação desejada: (ex.: -)")
+   d=InputBox("Digite o resultado:")
+   MsgBox "O resultado é :" & d
+   GoTo naoAvisaQueDeuErro 'essa rotina é para não dar mensagem de erro. por que não deu erro.
+NaoSeiOQueHouve:
+   MsgBox "Ocorreu um erro na maneira de executar o programa. Tente novamente."
+naoAvisaQueDeuErro:
+End Sub
+</pre>
+
+== Aplicações ==
+*Controle de estoque
+*Controle de padaria
+*Controle de lojinha de 1,99
+*Jogo da Velha
+
+Sistema complexo desenvolvido em Visual Basic
+
+[[Arquivo:VisualBasic.JPG‎]]
+
+== Identificando um projeto em Visual Basic ==
+*Quando você tenta abrir o projeto visualiza a seguinte tela:
+[[Arquivo:Caso típico de Vb6zice ou esquisitice.JPG]]
+*O programa executável fica com menos de 100 KB. Mas para rodar o programa, você tem que instalar dois giga de DLLs e outras tranqueiras.
+*Orientado a [[POG]] / [[POC]] / Qualquer coisa que funcionar
+*Erro de DLL e OCX
+*Erro! "Type Mismatch"
+*Erro! "Erro Desconhecido"
+*"Estará pronto na semana que vem"
+*"No meu computador funcionou perfeitamente"
+*"Só roda em servidores Windows, mas não naquele Windows lá que a gente instalou mês passado, por motivos misteriosos"
+
+{{Linguagens de Programação}}
+
+
+
+[[da:Visual Basic]]
+[[en:Visual BASIC]]
+[[pl:Visual Basic]]
+[[ru:Visual Basic]]

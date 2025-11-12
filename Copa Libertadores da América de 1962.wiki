@@ -1,0 +1,69 @@
+A [[Copa Libertadores da América de 1962]] é mais uma daquelas Libertadores antigas que só os Tiozões e [[Milton Neves|Comentaristas]] de Futebol assistiram, a diferença que foi a primeira a ter o SEU TIME campeão (<s>isso mesmo {{USERNAME}},seu Santista safado, pois apenas torcedores do Santos leriam esse artigo, [[ou não]]</s>)
+
+== Primeira Fase ==
+Como [[Anos 60|naquela época]] só se classificavam os campeões das Ligas Nacionais, tinha muito time café-com-leite misturado com gigantes Sul-Americanos(Que agora são apenas múmias). Então foi fácil para Santos de Pelé passar de fase contra os grandiosos [[Cerro Porteño]] e [[Deportivo Municipal]], times formados por Cobradores de Ônibus e Tiozinhos aleatórios, mas queimaram todo o dinheiro de São Paulo ao ter que viajar lá pra Puta que Pariu jogar com o time reserva.
+
+Como pode se ver, acabou que o Santos com apenas 4 jogos conseguiu 20 gols e um Saldo de +14:
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Santos.png|21px]] [[Santos Futebol Clube|Time reserva do Santos]]
+|'''7'''||4||3||1||0||20||6||+14
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Club Cerro Porteño.png|21px]] [[Club Cerro Porteño|Cavalo Paraguaio]]
+|'''3'''||4||1||1||2||6||14||-8
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Evo.jpg|21px]] [[Club Deportivo Municipal (Bolívia)|Municipal?]]
+|'''2'''||4||1||0||3||8||14||-6
+|}
+
+[[Arquivo:Liberta 1962.jpg|thumb|right|200px|Confronto normal em uma Libertadores antiga (Note a garrafa na mão do jogador).]]
+
+Quantos aos outros grupos, as múmias [[Club Nacional de Football|Internacional do Uruguai]] e [[Club Deportivo Universidad Católica|Universidad Evangelica]] passaram de fase, mas ninguém liga.
+
+== Semifinais e Final ==
+Em 4 jogos, o Santos já estava na Semifinal de um dos maiores Campeonatos esportivos do Mundo (ou não), dessa vez teve que eliminar a [[Club Deportivo Universidad Católica|Universidad Islâmica]], e fez isso sem dificuldade, um empate fora e uma vitória em casa, só isso. Enquanto isso, Peñarol e Nacional travavam uma batalha (Literalmente) no Uruguai.
+
+Ainda jogando com o time reserva, o poderoso Santos derrotaria o Peñarol lá no Uruguai por 2 a 1 graças a [[Coutinho]], que virou a partida sozinho. Mas na volta o glorioso Santos se fodeu ao tomar de 3 a 2 em casa com alguns gatos pingados assistindo. Até que finalmente o time tomou vergonha na cara e colocou a equipe principal no jogo de desempate, pois ainda não havia a tecnologia chamada "gols fora". Foi aí que o nosso time meteu um 3 a 0 e foi consagrado para aparecer em copilados de campeões da Libertadores da [[Wikipédia]].
+
+{| class="wikitable"
+|-
+!align=center  width="50"| Jogo ||align=center width="200"| Equipe 1 ||align=center  width="80"| Total ||align=center width="200"| Equipe 2 ||align=center  width="80"| Ida ||align=center width="80"| Volta ||align=center width="80"| Desempate* 
+|- 
+| align=center |1
+| align=right  | [[Arquivo: Escudo do Peñarol.png|21px]] [[Club Atlético Peñarol|Peñarola]]
+| align=center | 4–7
+| [[Arquivo:Escudo do Santos.png|21px]] [[Santos Futebol Clube|Time reserva do Santos]]
+| align=center | 1–2
+| align=center | 3–2
+| align=center | 0–3
+|}
+
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Copa Libertadores da América de 1962<br/>
+|-
+![[Arquivo:Escudo do Santos.png|border|100px]]
+|-
+|align=center|[[Santos Futebol Clube|Pelé]]<br />
+(1° título)<br />
+
+|}
+
+== Ver também ==
+*[[Copa Intercontinental]]
+
+{{Libertadores}}

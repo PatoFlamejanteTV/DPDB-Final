@@ -1,0 +1,54 @@
+{{wikificar}}
+
+{{C|"Não vivo sem o DEBUG"|Programador usuário do POA sobre a Programação orientada ao Atrito.}}
+
+{{C|"A prova vai ser só com a caneta e papel, estou fudido!"| Estudandante usuário do POA ao descobrir que sua prova de programação vai ter que ser feita a lapis sem ter o debug para lhe ajudar.}}
+
+{{C|"Só 3 bugs estou com sorte hoje!!!"|Programador usuário do POA após mandar compilar o programa 3 segundos depois de terminar ele.}}
+
+{{C|"11 erros mas que merda!!!"|Programador usuário do POA após "consertar" um dos 3 erros acima, e logo após mandar compilar.}}
+
+{{C|"Agora sim, agora ele vai."|Programador usuário do POA após consertar os 11 erros acima, assim vencendo a "guerra".}}
+
+{{C|"Existe o seu jeito de fazer, e o meu jeito de fazer"|Programador usuário do POA tentando justificar o seu código com lógica esdruxula.}}
+
+=Introdução=
+
+Com o gigantesco aumento do número e complexidade dos padrões de projeto de software e tecnicas de programação no últimos anos e com as outras tecnicas de programação não suprindo a necessidade de rapidez cada vez mais necessária na hora de se fazer um programa, a Programação Orientada a Atrito foi desenvolvida.
+
+= Definição de POA =
+Programação orientada a atrito é a técnica de se chegar ao código necessário para atender a um objetivo através da tentativa e erro. 
+
+Entre todas as técnicas de desenvolvimento existem, a POA é considerada a mais produtiva devido ao fato de conseguir em um único programador ignorar todo o processo de análise e partir diretamente para a produção do código, gerando executáveis mais rapidamente que qualquer outro modelo conceitual.
+
+A POA está fundamentada alguns grandes pilares:
+
+1) Enquanto estiverem explicando o problema, já idealizando o código na cabeça, não dê muita importância aos detalhes, no final da conversa a analise já está concluída;
+
+2) O primeiro teste do sistema só pode ser realizado depois que todos os processos estiverem prontos, e este tese deve ser sempre necessariamente de interface: Se apresentou na tela é porque está funcionado
+
+3) Todos os Bugs fazem parte do ciclo do desenvolvimento. Bug não é erro, é o meio de aumentar a qualidade do software eliminando-o de uma rotina e transferindo-o para outra.
+
+Embora altamente produtiva, a POA funciona corretamente quando com prazos apertados. Sempre informe que em 2 horas está pronto, e se derem 7 dias para resolver o problema, ocupe-se com outras atividades, faltando 1 dia para realizar o trabalho inicie o desenvolvimento em POA e terá toda a potencialização dessa técnica.
+
+A POA é considerada também uma das técnicas mais rentáveis para as empresas de desenvolvimento, pois há necessidade apenas de um programador júnior e todos os processos em sua volta são terceirizados:
+
+- O analista passa a ser o cliente
+- O tester passa a ser o cliente
+- O gerente de projetos passa a ser o cliente
+
+Com isso a empresa através do POA estabelece uma rentabilidade muito maior que com outras técnicas, pois terceiriza com quem está pagando os processos burocráticos que não agregam valor ao negócio.
+
+Para o desenvolvimento hábil do POA é necessário analisar muito o que deve ser feito. Vá fuçando, usando um método aqui outro ali, passando diferentes valores, até que uma hora uma funcione e os bugs sejam removidos. É uma constande guerra de programador, debug e o arquivo de help VS. linguagem de programação e programa a ser desenvolvido.
+
+Varias características são essenciais ao programador POA, um deles é saber lógica, a lógica ajuda o programador a achar os erros do código mais facilmente, sem ser necessário que ele documente o programa ou comente várias linhas. Outro deles é saber o ingles, vários programas tem seu arquivo HELP em ingles, e saber ingles é essencial na hora que se quer procurar novos comandos no help, devido ao fato de que os que você sabe ou lembra não estão funcionando.
+
+Casos de sucesso que utilizam POA:
+
+- Microsoft, quando ao demostrar o novo Windows, deu pau.
+- Microsoft, quando atualizou o windows 7, deu pau.
+- Microsoft, quando lançou o Windows Vista e funcionou lento.
+
+
+[[Categoria:Paradigmas de programação]]
+[[Categoria:Ciência da computação]]

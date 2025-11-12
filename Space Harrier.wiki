@@ -1,0 +1,46 @@
+{{game}}
+
+{{Infobox Game
+|title     = Space Harrier
+|image     = Sharrier.png
+|caption   = Flyer de Arcade
+|developer = [[Sega|Cega]]
+|publisher = [[Sega|Cega]]
+|released  = [[1985]]
+|genre     = {{ACT}}
+|rating    = 1000000%
+|platform  = [[Arcade]], [[Amiga]], [[Amstrad CPC]], [[Atari ST]], [[Commodore 64]], [[Game Gear|Tijolo Gear]], [[Nintendinho]], [[PlayStation 2|PolyStation 2]], [[Super 32x|16-BIT to 32-BIT UPGRADE BOOSTER]], [[Master System]], [[Sega Saturn|Sega em Saturno]], [[PC Engine]], [[Virtual Console]] e [[ZX Spectrum]]
+|ages      = Livre
+}}
+
+{{vqd|Counter Strike versão Time Attack!}}
+{{c|Welcome to the Fantasy Zone, Get Ready!|Harrier|ele mesmo}}
+{{c|Qual que pula?|Pivetinho de Fliperama|{{PAGENAME}}}}
+{{c|Nenhum pula, anta!|Você pro pivete}}
+
+'''Space Harrier''' é um jogo de tiro [[3-D]], feito em [[1985]], pela [[Sega|Cega]].
+
+==O jogo==
+
+Space Harrier se concentra num lugar chamado [[Fantasy Zone]] (que original...), um mundo super deserto, com um detalhe de toda a série: O chão é desenhado como um tabuleiro de xadrez. Os inimigos se concentram em [[Cyborg]]s, em [[Dragão|Dragões]] Chineses, pedras sérias e cogumelos. Você controla [[Harrier]], um cara de cabelo loiro (e sarado), no qual, você só tem um objetivo: [[Atirar pra Caralho]]. O jogo foi feito mais tarde para os consoles, para competir com [[The 3-D Battles of World Runner]], um jogo tosco da [[Square]] para o NES. Outro jogo que plágiou SH, foi [[Animal Attack Academy]], da [[Pony Canyon]], no qual uma menina de uma escola japonesa, tinha que acertar em animais australianos. Algumas versões, continham vozes do personagem, como "Welcome to the Fantasy Zone, Get Ready!" e "You're doing great!". Assim como [[After Burner]], SH foi um dos primeiros arcades a ter assentos para os jogadores. O jogo tinha 18 níveis com três bonus stages.
+
+==Portes para outros consoles==
+
+Space Harrier foi portado para mais de 10 consoles, incluíndo as versões de Super 32x, Sega em Saturno e a de [[Sharp]] [[Sharp X68000|X68000]] que foram mais fiéis a versão de Arcade. O jogo pode ser jogado em [[Shenmue]], [[Shenmue II]] e [[Yu Suzuki Game Works Vol. 1]], ambos para [[Dreamcast|Merdacast]]. Pode ser jogado em Shenmue II de [[Xbox|X-Tudo]]. Foi colocado como parte de [[Sega Arcade Gallery|Cega Arcade Gallery]], para [[Game Boy Advance|Game Gay Adulterado]] e para [[Sega Classics Collection]] para PolyStation 2. SH foi lançado para o [[Virtual Console]], do [[Wii|WRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY!]] em [[15 de Junho]] de [[2009]] nos [[EUA]]. SH foi lançado para [[Sonic's Ultimate Genesis Collection]], como um jogo que podia ser destravado. Disponível para [[PlayStation 3|PolyStation 3]] e [[Xbox 360|X-Tudo a 360 Graus]]. Uma compilação verdadeira, foi [[Space Harrier Complete Collection]] com todos os jogos e todos os portes. Foi lançado para o PolyStation 2 como parte da compilação [[Sega Ages 2500]].
+
+[[Arquivo:Spaceharrier 0002.gif|right|thumb|{{c|AAAAAAAAAAAAAAARRRRGGGGGGGGGGHHHHHHHHHHHHHH!!!}}]]
+
+{{Fantasy Zone}}
+{{Third-person shooter}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Game Gear]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para Super 32x]]
+[[Categoria:Jogos para Sega Saturn]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para TurboGrafx-16]]
+[[Categoria:Jogos lançados em 1985]]

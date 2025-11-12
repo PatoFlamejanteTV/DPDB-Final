@@ -1,0 +1,46 @@
+{{#logotipo:http://images.uncyc.org/pt/7/78/Konamipedia2.png}}
+{{game}}
+
+{{Infobox Game
+|title     = {{PAGENAME}}
+|image     = Knightmare.jpg
+|caption   = As aventuras de Popolon.
+|developer = [[Konami|Come na Mi]]
+|publisher = [[Konami|Come na Mi]]
+|released  = [[1987]]
+|genre     = Elementos de [[RPG]]+{{SHT}}
+|rating    = 0%
+|platform  = [[MSX]]
+|ages      = Livre
+}}
+{{vqd|Knightmare}}
+{{vqd|Pesadelo da Forte II Games?}}
+
+'''Majou Densetsu''' ('''Knightmare''' mundo afora) foi um shooter de [[espada]]s na vertical. Feito em [[1987]], pela [[Konami|Come na Mi]].
+
+==O game==
+
+O game conta com a história de Popolon, um cavaleiro que deve derrotar Hudnos e resgatar Afrodite. Porém, vários inimigos irão atrapalhar você (alguns até indestrutíveis). Majou Densetsu contém vários segredos, já que além dos contidos no game, é possível deixar o game mais fácil (pros [[n00b|noobs]]) usando combinações de cartuchos da Come na Mi no [[MSX]] ou utilizando o [[Konami Game Master|Game Master]], cartucho hackeador de alguns games da própria empresa. Majou Densetsu tem os inimigos principais como [[morcego]]s. Popolon deve atirar neles e se desivar. 
+
+==Outros==
+
+* Majou Densetsu foi um dos games que foram hackeados pra se usar [[Konami SCC|SCC]], incluíndo SCC+. Para quem não sabe, era uma expansão de som, assim como a YM2413 no [[Master System|Mark III]], que mais tarde, foi usada no MSX2;
+* O game foi posto na compilação Konami Antiques MSX Collection (Ultra no [[Sega Saturn|Cega em Saturno]]) pro [[DOGMA]] [[PlayStation|PolyStation]];
+* Mais duas sequências do game foram criadas: Maze of Galious (MSX e [[Nintendinho|NES]]) e Shalom;
+* Popolon é um personagem jogável no primeiro game da série [[Parodius]], além de [[Takohiko|Tako]], [[Penguin Adventure|Pentarou]], [[Ganbare Goemon|Goemon]] e a [[Gradius|Vic Viper]].
+
+==Ver também==
+
+* [[Gradius]]
+* [[Penguin Adventure]]
+* [[Parodius]]
+
+{{Parodius}}
+{{Shoot 'em up}}
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para MSX]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos para Sega Saturn]]
+[[Categoria:Jogos lançados em 1987]]

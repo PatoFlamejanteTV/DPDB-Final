@@ -1,0 +1,52 @@
+{{DISPLAYTITLE:''e''}}
+{{Matemática}}
+{{Inútil}}
+[[Arquivo:Continua q eu to anotando!!!.jpg|thumb|right|[[Aluno]] anotando a demonstração da irracionalidade do número de Euler.]]
+{{Você quis dizer|π}}
+{{C|Eu descobri! Eu!|John Napier|e.}}
+{{C|Eu comprovei! Eu!|Jakob Bernoulli|e.}}
+{{C|Então por que se chama número de Euler?|[[Qualquer um]]|o número de EUler não ter sido descoberto pelo Euler.}}
+
+'''Número de Euler''', '''Número de Napier''', '''Constante de Néper''', '''Número neperiano''' ou, simplesmente, '''e''' é mais um daqueles números que enfeitam as mais bizarras equações [[matemática]]s provenientes das mais inimagináveis coincidências físicas e do alterado estado mental dos matemáticos russos.
+
+==Definição==
+[[Arquivo:Jasonlol.jpg|thumb|left|{{C|O número de Euler, não foi desoberto pelo Euler... Cabeças rolarão!|[[Qualquer um]] após descobrir a verdade sobre ''e''.}}]][[Arquivo:Exp_derivative_at_0.svg|thumb|180px|right|Divirta-se com ''e''.]]
+A definição do Número de Euler é repleta de contas estranhas, álgebra peso-pesado e riscos que ninguém compreende. A definição básica desse número é que ele apresenta uma singularidade diferencial: dada a função exponencial <math>f(x)=e^x</math> sendo a base o número de Euler, a derivada dessa função é ela mesma. Para os matemáticos isso é absurdamente fantástico e estudar o número é excitante, mas, definitivamente, essa curiosidade não afeta em nada a vida de [[ninguém]].
+
+O número de Euler, a partir de agora chamado apenas de ''e'' por que o [[autor]] ficou com preguiça de toda hora escrever o nome completo do troço, é um número tão irracional quanto [[você]], portanto, tem porrilhões de casas decimais decoradas e pronunciadas com veemência por todo autêntico [[nerd]].
+
+==Usos de ''e''==
+[[Arquivo:Colina.jpg|thumb|220px|right|Não se esqueça se vir ''e'', [[Run to the Hills]]!]]
+O ''e'' é muito usado na língua portuguesa como conjunção aditiva, indicando que uma coisa vem acompanhada da outra e vice-versa. Além desse uso o ''e'' costuma ser usado na escrita de palavras em diversas línguas em todos os quatro cantos do [[Terra|globo terrestre]], como se esfera tivesse canto...
+
+Matematicamente falando, há muitas lendas sobre a utilidade do ''e'', nenhuma comprovada, as más línguas dizem que o número neperiano é aplicado no cálculo (como sempre) de juros compostos, no entanto, os bancos negam qualquer relação com  ''e''le e falam que a equação dos juros compostos não tem nada de anormal, apenas tem o objetivo de comer o salário inteiro do devedor sem usar de sórdidas artimanhas como esse tal de ''e''.
+[e isso aí]
+
+==Número de Euler?==
+O ''e'', na verdade, não é número do Euler, afinal ele não registrou patente nem nada, sendo que o verdadeiro descobridor do número foi o [[Nappa|Grande Nappa]], que com algumas experiências furadas, conseguiu chegar à equações que chegavam nessa constante bizarra e completamente inútil.
+
+Depois, um matemati[[cu]]zinho chamado João Napier provou a existência do número, que ele é constante e que o [[Coringa]] é um [[filho da puta]]. Mas, ao fim, o Euler leva o crédito, por quê? As teorias conspiratórias são imensas e incluem no meio um plano de dominação alienígena, um ataque surpresa dos [[Illuminati]] à sede da [[ONU]] e o título do Campeonato Brasileiro para o [[Santa Cruz]], tudo iniciando nessa sacanagem do "Número de Euler"
+
+==Quanto é?==
+Para você decorar os primeiros dígitos:
+<div align:"center">
+::<math>e=2{,}718\;281\;828\;459\;045\;235\;360\;287\;471\;352\;662\;497\;757\;247</math>
+:::<math>\;093\;699\;959\;574\;966\;967\;627\;724\;076\;630\;353\;547\;594\;571\;382</math>
+:::<math>\;178\;525\;166\;427\;427\;466\;391\;932\;003\;059\;921\;817\;413\;596\;629</math>
+:::<math>\;043\;572\;900\;334\;295\;260\;595\;630\;738\;132\;328\;627\;943\;490\;763</math>
+:::<math>\;233\;829\;880\;753\;195\;251\;019\;011\;573\;834\;187\;930\;702\;154\;089</math>
+:::<math>\;149\;934\;884\;167\;509\;244\;761\;460\;668\;082\;264\;800\;168\;477\;411</math>
+:::<math>\;853\;742\;345\;442\;437\;107\;539\;077\;744\;992\;069\;551\;702\;761\;838</math>
+:::<math>\;606\;261\;331\;384\;583\;000\;752\;044\;933\;826\;560\;297\;606\;737\;113</math>
+:::<math>\;200\;709\;328\;709\;127\;443\;747\;047\;230\;696\;977\;209\;310\;141\;692</math>
+:::<math>\;836\;819\;025\;515\;108\;657\;463\;772\;111\;252\;389\;784\;425\;056\;953</math>
+:::<math>\;696\;770\;785\;449\;969\;967\;946\;864\;454\;905\;987\;931\;636\;889\;230</math>
+:::<math>\;098\;793\;127\;736\;178\;215\;4\,\ldots</math>
+</div>
+
+==Ver também==
+*[[Pi]]
+*[[Nada]]
+*[[Juros]]
+
+[[Categoria:Números adimensionais]]

@@ -1,0 +1,43 @@
+{{Física}}<br>
+{{Quântico}}<br>
+{{ciencia}}<br>
+{{Mecânica Quântica}}
+[[Arquivo:Emurphy.jpg|thumb|left|150px|[[Eddie Murphy]], cientista responsável por desenvolver o Espaço Murphyano.]]
+{{c|Isso eu não explico.|[[Freud]]|espaços amostrais}}
+{{c|É uma porcaria trabalhar com isso, mas se eu não usar, erro a conta.|Aluno de Física|espaços amostrais}}
+{{c|Se estiverem errados, toda a Mecânica Quântica será uma piada.|Físico teórico|espaços amostrais}}
+{{c|E qual é a diferença entre os espaços Hamiltoniano, Murphyano e Minkowkyano?|Alguém|espaços amostrais}}
+
+Os '''Espaços amostrais da Mecânica Quântica''' são os espaços hipotéticos onde os fenômenos quânticos são ([[ou não]]) observados. São fundamentais para estabelecer uma lógica entre as equações dizem e o que realmente se observa. Desde o processo de '''renormalização''', os espaços amostrais se revelaram como uma graxa lubrificante: faz as coisas deslizarem mais depressa, mas sujam as mãos de quem trabalha com ela.
+
+Os principais espaços usados na [[Mecânica Quântica]] são o espaço Hamiltoniano, o Murphyano e o de Minkowsky, sendo que cada um tem importantes ([[ou não]]) aplicações na teoria quântica.
+
+== Espaço Hamiltoniano ==
+
+Criado por [[Lewis Hamilton]], em meados de 1940, é um espaço muito utilizado para partículas com velocidades elevadas, como projéteis de fuzil, carros de fórmula um, aviões e ambulâncias com pacientes. Hamilton, enquanto pesquisava um modelo quântico de propulsão para os motores da F1, percebeu que as equações não batiam com os valores reais. Com isso, adaptou ''nas coxas'' os valores, chegando a resultados próximos do esperado. 
+
+Após alguns anos, cientistas como [[Niels Bohr]] e [[Doutor Roberto]] desenvolveram o modelo e chegaram ao espaço Hamiltoniano, com a ajuda de Lewis. Este espaço é considerado um espaço de coordenadas P,Q,P - T, onde os valores P e Q correspondem aos vetores de espaço e o valor T, ao tempo, criando o [[Espaço-Tempo]] Hamiltoniano (H), que é deduzido pela seguinte equação:
+<br>
+: <math>\mathcal{H} = \frac {P + Q.P + \frac{p^2}{2T}} {V(T)}</math>
+
+== Espaço Murphyano ==
+
+Criado por [[Eddie Murphy]] enquanto criava a teoria da [[Murphydinâmica Quântica]], é frequentemente utilizado para sistemas cujas funções de onda possuam várias formas de colapsar. Colapsar, na [[Mecânica Quântica]], significa deixar de se tornar uma probabilidade e tornar-se o real ''(ou o observável)''. Segundo a [[Lei de Murphy]] a função de onda sempre irá colapsar na função de onda que for a maior inconveniência para o observador.
+
+Após a conclusão da teoria de unificação da Mecânica Quântica e da Lei de Murphy, Eddie decidiu estabelecer o espaço Murphyano (M) como espaço amostral padrão para suas teorias. O espaço Murphyano, por possuir vetores de probabilidade, tem como caracterísitca os vetores F-U-C-K como vetores de espaço e o vetor tempo U, sendo que o valor P corresponde ao nível de conveniência do fenômeno do ponto de vista do observador. Desta forma, a fórmula equacional fica:
+<br>
+:<math>\mathcal{M} = \frac{F.U^2.C+K}{U.P} + \psi.\hbar</math>
+
+== Espaço Minkowskyano ==
+
+Desenvolvido por um alemão de sobrenome polaco, o espaço Minkowksyano é o espaço utilizado para tentar resolver as equações da [[Teoria da Relatividade]], sendo por isso, incompreensível. Embora seja utilizado para calcular as geodésicas de corpos em movimento, o espaço Hamiltoniano é mais preferível, pois a equação tem bem menos variáveis e não precisa de um supercomputador para ser resolvida. 
+
+Nessa configuração, as três dimensões usuais do espaço (F,D,P) são combinadas com uma única dimensão do tempo (T) para formar uma variedade quadrimensional e representar um [[Espaço-Tempo]]. A definição equacional do espaço de Minkowsky (Y) é:
+
+:<math>\mathcal{Y}  = \frac {i \hbar F^2.D^3 + P.i(T)} {\hbar.\psi}</math>
+
+== Veja também ==
+
+* [[Mecânica Quântica]];
+* [[Murphydinâmica Quântica]];
+* [[Matemática]];

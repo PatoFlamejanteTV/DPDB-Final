@@ -1,0 +1,41 @@
+{{Matemática}}
+
+[[Arquivo:Lá Vem o Pato.jpg|thumb|Isto parece com um pato, nada como um pato, grasna como um pato, pintou o caneco como um pato, surrou a galinha como um pato... é... ele provavelmente é mesmo um pato.]]
+
+'''Teste do pato''' ou '''duck typing''' é um dos testes mais inteligentes do universo, e um dos mais complexos de todos, usado com constância por pós-doutores de matemática, de física e de química para chegarem as conclusões mais fantásticas do [[multiverso]]. A premissa é essa (embora tenho certeza que você demorará pra entender):
+
+:Se ele parece com um pato, nada como um pato e grasna como um pato, então provavelmente é um pato.
+
+O teste sugere que uma pessoa pode compreender a natureza verdadeira de um sujeito desconhecido observando os traços prontamente identificáveis deste sujeito. Assim, é fácil detectar entre outros, [[sock puppet]]s ou perfis [[fake]] de Facebook, Orkut e similares.
+[[Arquivo:Pato nerd.jpg|thumb|left|Pato testando a si mesmo usando um livro de piadas nerds. Não sei como ele conseguiu isso num livro desses, mas tá valendo.]]
+Alguns dizem que esse princípio seria uma forma adaptada da [[Navalha de Occam]], um outro princípio similar para descobrir um dado ser. Outros também chamam o método de "Teste do elefante", mas esse último não faz sentido, já que qualquer imbecil sabe o que é um elefante logo quando vê um (a não ser que seja um cego, claro).
+
+Veja a definição usada na [[Wikipédia]] pra definir duck typing:
+
+{{citar|Em duck typing preocupa-se apenas com os aspectos usados do objeto, em vez de se preocupar com o tipo do objeto em si. Por exemplo, em uma linguagem não-duck-typed, pode-se criar uma função que recebe um objeto do tipo Duck e que chama o método andar e grasnar. Em uma linguagem duck-typed, a função equivalente receberia um objeto de qualquer tipo e chamaria os métodos andar e grasnar. Se o objeto não tem os métodos que foram chamados, em seguida, a função sinaliza com um erro de run-time. Espera-se que funcione qualquer chamada para um objeto que tenha os métodos andar e grasnar.}}
+
+Pois é, amigo programador, se seu computador não andar nem grasnar após a criação de um programa, com certeza seu programa não é um pato.
+
+== O novo teste do pato ==
+
+Recentemente criaram um novo tipo de teste do pato, utilizado em [[futebol]] especificamente, ao contrário da maioria, que é usado pro que já tinha eu falado lá arriba:
+
+Como provar que algo é de facto um pato:
+
+*Corre como um pato;
+*Comemora como um pato;
+*Paga [[Stephany Brito|o pato]] como um pato;
+*Chuta como um pato;
+*Cobra [[pênalti]] como um pato.
+
+[[Arquivo:Pato Pênalti.jpg|frame|center|OK, você é um pato, né não, [[Alexandre Pato|Alexandre]]?]]
+
+== Ver também ==
+*[[Alexandre Pato]]
+*[[Pagar o pato]]
+*[[Pato Donald]]
+*[[Pato Pateta]]
+
+{{Esboço}}
+[[Categoria:Lógica]]
+[[Categoria:Paradigmas de programação]]

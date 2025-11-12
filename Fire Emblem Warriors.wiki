@@ -1,0 +1,51 @@
+{{game}}
+
+{{Infobox Game
+|title     = Dynasty Warriors de Fire Emblem
+|image     = Fire Emblem Warriors cover.png
+|caption   = Capa do jogo
+|developer = [[Omega Force|Os caras de sempre]]
+|publisher = [[Koei Tecmo]]
+|released  = [[2017]]
+|genre     = [[Musou|Porrada infinita]]
+|platform  = [[Nintendo Switch]]
+|rating    = 3/10
+|ages      = Livre
+}}
+
+'''Fire Emblem Warriors''' é só mais um [[Dynasty Warriors]] (provavelmente o trigésimo) mas com ''skin'' de [[Fire Emblem]].
+
+== Jogabilidade ==
+
+O jogo decidiu misturar [[musou]] com RPG de estratégia e acabou não ficando bom nem como musou e muito menos como RPG de estratégia. Na prática continua mesma coisa de sempre desde [[Dynasty Warriors (jogo)|Dynasty Warriors 1]] de 1980, basta você apertar o mesmo botão 1 milhão de vezes e estágio após estágio matar 2000 bonecos numa carnificina jamais vista enquanto conquista bases inimigas.
+
+Os elementos de Fire Emblem adaptados a esse musou foram: Sistema de duplas, onde você pode ficar com 1 unidade a menos após absorvê-la com outra unidade, que serve apenas para aumentar a afinidade entre os personagens. Mas como esqueceram de pagar estagiários para criar diálogos minimamente decentes, subir afinidade entre os personagens não tem uma mísera linha de diálogo sequer.
+
+Outro elemento introduzido foi o sistema "triângulo" onde lança tem vantagem sobre espada, espada tem vantagem sobre machado, e machado tem vantagem sobre lança. Embora seja só massacrar o botão de dar porrada e dá tudo certo.
+
+[[Arquivo:Fire Emblem Warriors dialogue.jpg|thumb|center|550px|Um típico e profundo diálogo que vemos nesse jogo.]]
+
+== Enredo ==
+
+O jogo traz um enredo criado pelo [[ChatGPT]], repleto de diálogos bobos, soluções idiotas, situações clichês, e discursos motivacionais piegas. Usa inclusive o tema mais idiota da [[cultura pop]], que é o tal do [[multiverso]], que um portal se abriu e trouxe para esse mundo do jogo 5 heróis de outros Fire Emblem. Rowan e Lianna são irmão e irmã que precisam encontrar esses cinco heróis parar tirar de dentro do cu deles 5 plugs anais especiais para imbuir um escudo mágico a fim de fechar os portões do multiverso e mandar embora os vários monstros que invadiram seu país. Os personagens dos outros mundos de Fire Emblem vão cair nesse mundo e não vão estranhar a situação nem um pouco, se tornando vassalos de Rowan e Lianna facilmente (esse plot pelo menos acontece em todos Fire Emblem).
+
+No final, um dragão maligno incrivelmente genérico de outro universo consegue invadir e acaba se tornando o último chefão. Mas morre na prorada igual qualquer outro boneco do jogo.
+
+== Personagens ==
+
+* '''Rowan''' - Garoto chato que consegue reunir na sua personalidade todos os clichês de todos protagonistas de Fire Emblem. Sempre falando de amizade, companheirismo, e essas baboseiras.
+* '''Lianna''' - A típica guria retardada que é a gender bender de Rowan, inclusive no cabelo cor-de-gema.
+* '''Darius''' - O melhor amigo de Rowan e Lianna. Quando percebemos que ele não é um personagem jogável e não dá para upar, qualquer idiota já prevê que ele vai então virar um traidor. Tá certo que ele estava sendo controlado por um espírito maligno, assim consegue ter sua redenção antes de cair num [[buraco infinito]] e morrer.
+* '''[[Fire Emblem Fates|Personagens de Fire Emblem Fates]]''' - O jogo traz 4 personagens de cada nação, 4 Hoshido e 4 Nohr. Para que criar algo novo né? Melhor repetir a mesma história de ambos se odiando e depois fazendo as pazes porque todos amam a Corrin.
+* '''[[Fire Emblem: Awakening|Personagens de Fire Emblem: Awakening]]''' - A mesma coisa do jogo, aquele drama do Chrom descobrindo ser o pai da Lucina. Aliás, fizeram o favor de colocar a Tharja como personagem de DLC só porque a Nintendo sabe que ela é a predileta dos fãs por causa daquela roupa colada dela.
+* '''[[Fire Emblem: Shadow Dragon|Personagens de Fire Emblem: Shadow Dragon]]''' - Os personagens do primeiro Fire Emblem aparecem mais para o final do jogo e não fazem muita coisa além de criar uma leve tensão sexual entre [[Marth]] e Caeda.
+
+{{Fire Emblem}}
+{{Dynasty Warriors}}
+
+[[Categoria:Jogos da Omega Force]]
+[[Categoria:Jogos da Team Ninja]]
+[[Categoria:Jogos da Koei Tecmo]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos lançados em 2017]]

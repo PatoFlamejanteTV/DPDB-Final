@@ -1,0 +1,16 @@
+{{Clipe|Quer organizar seu desktop? Clique [[Foda-se|aqui]] para ter nossa ajuda!}}
+<choose><option>{{Expandir}}</option><option>{{reescrever}}</option></choose>
+
+'''Desktop''' é a área em que você está quando liga o computador. Normalmente tem uma foto <s>de um nerd espinhudo e punheteiro</s> [[Você|sua]], alguns atalhos e um tema <s>que copia o mac leopard,chamado aero glass</s> chamativo. Mas não troque por outro senão [[Bill Gates|Tio Bill]] fica nervoso.
+
+==Como organizar seu Desktop==
+Primeiro, a lixeira deve ficar no canto inferior. No canto superior vem a pasta "Meus Documentos", o Internet <s>Exploder</s> Explorer ('''Nota''': Se você tem o [[Firefox]] instalado e ainda não deletou o IE, <s>faça isso, seu porra!</s> não deixe eles perto, pois dá briga.)
+Depois o MSN ('''Nota''': Caso tenha o ICQ ou similares, e não desinstalou o MSN, <s>faça isso, seu porra!</s> proceda como no caso do [[Internet Explorer|IE]] e da [[Firefox|raposinha]]. Aí vem os outros programas, tipo [[Word]], [[Excel]] e [[Etc.]].Mais à frente, vem o que você colocou no PC ([[Google Earth]], [[Emule]] e outros.)
+===E o que acontece se eu não fizer assim?===
+<s>A Dercy vem puxar teu pé</s> você se arrisca a ganhar uma [[Tela Azul da Morte]](Powered by [[Moderador Malvado]]).
+
+<gallery caption="Exemplos de Desktop" mode="packed-overlay" widths="320px" heights="250px">
+imagem:Desktop 10.jpg|Um desktop "organizado".
+imagem:DesktopSample.JPG|Outro desktop organizado.
+imagem:Erro01b.jpg|Este não é o desktop, embora apareça mais do que ele em um ambiente Windows.
+</gallery>

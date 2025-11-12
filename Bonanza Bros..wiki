@@ -1,0 +1,65 @@
+{{game}}
+
+{{Infobox Game
+|title     = {{PAGENAME}}
+|image     = BonanzaBros.jpg
+|caption   = Tiroteio entre bonequinhos de plástico!
+|developer = [[Sega|CEEEGAAA!]]
+|publisher = [[Sega|CEEEGAAA!]]
+|released  = [[1990]]
+|genre     = {{ACT}}
+|rating    = 0%
+|platform  = [[Sega System 24|Arcade]], [[Mega Drive|Merda Drive]], [[Master System]], [[PC Engine#A versão CD|SUPER CD-ROM²]], [[DOGMA]] [[PlayStation 2|PolyStation 2]], [[Celular|SoftBank]] e mais alguns PCs norte-americanos.
+|ages      = Livre
+}}
+
+{{vqd|[[Playmobil]] [[Ladrão]]}}
+{{vqd|Terroristas de Plástico}}
+{{vqd|Máfia do Plástico}}
+{{experimente também|Lego}}
+{{c|Hehehe!|Robo & Mobo|qualquer coisa}}
+{{c|Hehe!|Robo & Mobo em [[Sonic & Sega All-Stars Racing|ASR]]}}
+{{c|Pim Pim Pim Pim Pim!|Opa-Opa|Robo & Mobo em ASR}}
+{{c|Ough!|Robo & Mobo sendo ultrapassados em ASR}}
+{{c|Ge!|Robo & Mobo sendo feridos pelos guardas do game}}
+
+'''Bonanza Bros.''' foi um dos jogos que deu início a produção de games do [[Sega System 24|Sistema Cego 18.5]]. Foi um também um dos quais o [[William S. Sessions|vencedor]] consegiu fechar. Feito em [[1990]], pela [[Sega|CEEEEEEEGAAAAAA!!!]]
+
+== História ==
+
+Mobo Bonanza & Robo Bonanza são dois bonequinhos de plástico sendo procurados pela polícia, mortos ou vivos. Porém, a mísera recompensa de achar os dois é de 100. O chefe deles deu uma missão dificilima para ser completada: Eles precisam roubar mais coisas na cidade aonde os dois irmãos ladrões moram. E claro, eles devem pegar todas as coisas em três minutos!
+
+== O game ==
+
+Algumas versões contém o Training Stage. Nele, você deve jogar, caso você nunca ouviu falar no "gueime" dos Irmãos Bonanza. Nele você aprenderá os movimentos básicos, dicas e etc. Aí sim começa o game. Geralmente todas as versões usam apenas dois botões (somente a de [[Mega Drive|Merda Drive]] usa três): Um para pular (Mobo se você for jogador 1 ou Robo se você for o jogador 2) e outro pra atirar. O jogo tem 10 fases (12 na versão de [[Arcade]] e de [[PC Engine#A versão CD|SUPER CD-ROM²]]) e mais de 7 tipos de guardas ou inimigos para foder você em sua missão. Mas algumas versões tem opções configuravéis.
+
+[[Arquivo:Bonanza Bros ASR.png|left|thumb|Eles agora em [[2010]], comparando com eles em [[1990]]!]]
+
+== Bonus Stage ==
+
+Não presente na versão de Merda Drive. Nele, você deve pegar os objetos em 20 segundos, se desviando das luzes (ou escondendo). Tanto faz o tempo, pois você irá ganhar 10000 pontos (há três Bonus Stages no game todo) do mesmo jeito.
+
+== [[Cu]]-riosidades ==
+
+* Bonanza Bros. teve uma CG mestra em [[Sega Ages]] 2500, junto com Tanto-R;
+* Bonanza Bros. teve sequências, conhecida como a série [[Puzzle & Action: Tanto-R|Puzzle & Action]];
+* Robo & Mobo são personagens jogáveis em [[Sonic & Sega All-Stars Racing]]. O All-Star deles são o dirigível, no qual eles jogam bombas aéreas nos personagens.
+
+[[Arquivo:Bonanza Bros Car.png|right|thumb|É a máfia dos bonequinhos de plástico.]]
+
+== Ver também ==
+
+* [[Puzzle & Action: Tanto-R]]
+* [[Puzzle & Action: Ichidant-R]]
+
+{{Ages}}
+{{Plataforma}}
+{{Stealth}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos para Master System]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos lançados em 1990]]

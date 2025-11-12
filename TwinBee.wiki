@@ -1,0 +1,78 @@
+{{#logotipo:http://images.uncyc.org/pt/7/78/Konamipedia2.png}}
+
+{{game}}
+
+{{Infobox Série Game
+|title         = Abelha Gêmea
+|image_logo    = TwinbeeFC.jpg
+|caption       = Pararararararara... Parara, Rara!
+|genre         = Navinha
+|developer     = [[Konami|Come na Mi]]
+|publisher     = [[Konami|Come na Mi]]
+|origin        = [[Arcade]]
+|first_release = [[TwinBee (jogo)|TwinBee 1]] (1985)
+|last_release  = [[TwinBee Yahho!]] (1995)
+}}
+
+{{vqd|Shooter infantil}}
+{{vqd|Shooter dos Sinos}}
+{{c|Twinbee não, meu nome é Light, cacete!|Light|você chamar ele de Twinbee}}
+
+'''Twin Bee''' foi uma série de jogos de shooter na vertical, imitando um pouco [[Xevious]]. O primeiro game foi feito em [[1983]], pela [[Konami|Come na Mi]].
+
+== O game ==
+
+Os games se concentram numa nave do tipo abelha chamada TwinBee, acompanhada de uma nave fêmea chamada WinBee. Na maioria dos games, TwinBee é controlado pelo primeiro jogador enquanto WinBee é controlado pelo segundo jogador. Uma nave totalmente secundária chamada GwinBee, uma nave verde que é alternativa a dupla de naves. É uma grande oposição <s>ao Nemesis</s> as séries [[Gradius]], com universo opositor (real no Gradius e [[Gay|colorido]] no TwinBee). Os gamers controlam as naves acertando em tiros por ar ou arremessando, similar ao [[Xevious]] da [[Namco]]. Os Power-ups são sinos amarelos músicais, assim como os '''pod'''s do Gradius e as flags do [[Antartic Adventure]]. Conforme atira nos sinos, eles mudam de cor, dando um Power-up pra você. 
+
+== Séries ==
+
+# '''TwinBee''' ('''RainbowBell''' nos [[EUA]]): Um shooter na vertical plágiando Xevious. Os jogadores podem controlar TwinBee ou a WinBee em 6 níveis, porém, depois, o game vira "infinito";
+# '''Stinger''': Alguma força inimiga raptou Dr. Cinnamon (logo abaixo) e cabe a TwinBee, Winbee e GwinBee resgatar o seu "pai". Esse game é diferente, pois é na horizontal, assim como Gradius;
+# '''TwinBee 3''': Segue a mesma merda do Stinger, só que é mais ligado pro próprio TwinBee;
+# '''TwinBee Da!!''': Criado pro [[Game Boy|Game Gay]]. Conhecido na [[Europa]] como Pop'n Twinbee;
+# '''Detana!! TwinBee''' ('''Bells & Whistles''' no [[Arcade]] europeu): foi um dos games mais populares da série. Aqui contém a primeira aparição de Light e Pastel (abaixo). Incluía porradas de cutscenes;
+# '''Pop'n TwinBee''': Pro [[SNES]], é a sequência de "Detana!!". Contém uma espécie de barra de energia ao invés de vidas. Caso perca, tem a opção de [[Continue|continuar]] ou então é [[Game Over]];
+# '''TwinBee: Rainbow Bell Adventure''': Um jogo da série de [[Plataforma]]. A versão européia utiliza [[password]]s (Palcom filha da puta...) e a japonesa tem bateria pra salvar;
+# '''TwinBee Yahho!''': Contém vocais e um [[hentai]] da Pastel na hora que liga o Arcade.
+# '''TwinBee RPG''': Exclusivo do [[DOGMA]] [[PlayStation|PolyStation]];
+
+== Na mídia ==
+
+* '''TwinBee Paradise''': Desenho na Nippon Cultural Broadcasting (NCB, que não é confudido com [[NBC]]!) que acabou fazendo um puta do sucesso, com três temporadas. Começou em [[1993]] e acabou em [[1997]], com 96 episódios. Depois foram lançados em [[CD]].
+* '''TwinBee WinBee Hachibun no 1/8 Panic''': Um curta de [[1994]] (ano que nasce o [[Sega Saturn|Cega em Saturno]] no [[Japão]] e o [[Super 32x|Merda 32 (e) X]]) baseado no Rainbow Bell Adventure;
+* '''Tulip Kaigan Monogatari''': Um [[OVA]] do TwinBee Paradise, em três episódios, lançados em VHS em [[1999]] (ano que sai o [[Dreamcast|Merdacast]] mundialmente).
+
+== Persnagens ==
+
+* '''TwinBee''': Uma nave com um círculo na frente. É pilotado por Light, um adolescente mais <s>retardado</s> sortudo que o [[Tarō Sega]];
+* '''WinBee''': Nave pilotada pela Pastel com um coração azul em sua face. Pastel parece ser um clone da [[Yayoi Haneda]] no anime, pois tem a mesma idade do que a Yayoi <s>e bem mais gostosa</s>;
+* '''GwinBee''': Nave pilotada pelo Mint-Herb, <s>pirralho</s> bebê de um ano de vida, irmão de Pastel. É o neto mais novo do Dr. Cinnamon;
+* '''Princess Melora''': Lolicon que comanda o Planet Meru aonde toda a trama da série acontece aqui;
+* '''Dr. Cinnamon''': Inventor das três naves e avô dos personagens;
+* '''Dr. Waruon''': Criador das Evilbees, arquinimigo do Dr. Cinnamon. Plágia o Mujoe e os Evilbees plágiam os Hige-Hige Bandits, ambos os dois do anime [[Bomberman Jetters]];
+* '''Madoka''': Avô dos adolescentes e de Mint. Foi resgatada <s>pelo Twinbee</s> por Light e adora trabalhar numa [[padaria]] (.....);
+
+Existem outros personagens, porém, nem sequer são tão populares assim.
+
+== Cameos ==
+
+* [[Konami Wai Wai World|Wai Wai World]]: TwinBee é uma das naves pro caminho do chefão (junto com a Vic Viper);
+* [[Wai Wai World]] 2: A mesma coisa assima, porém, contém fases do tipo aquelas do [[Space Harrier]];
+* [[Parodius]]: Desde o [[Parodius Da!]] ao [[Sexy Parodius]], TwinBee, WinBee e Shooting Star (pilotada por Ace), além dos sinos;
+* Ganbare Goemon 2: Pastel é uma NPC numa vila com [[Putaria|festa a noite]];
+* Snatcher: Light e Pastel aparecem em um clube noturno (!!!);
+* [[Konami Krazy Racers]] (Wai Wai Wai Wai Wai Racing...): Pastel é uma das corredoras de Kart. Nos créditos, Goemon se deu bem com ela até;
+* [[DreamMix TV World Fighters]]: TwinBee é um lutador.
+
+== Ver também ==
+
+* [[Parodius]]
+* [[Gradius]]
+* [[Konami Wai Wai World|Wai Wai World]]
+
+{{TwinBee}}
+{{Parodius}}
+{{Konami}}
+{{Shoot 'em up}}
+
+[[Categoria:Jogos da Konami]]

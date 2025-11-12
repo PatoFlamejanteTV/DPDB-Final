@@ -1,0 +1,83 @@
+{{Logotipo falso|Winlogo3.gif}}
+'''''Aviso''': Este artigo é melhor visualizado com <s>[[Microsoft Internet Explorer|Internet Explorer]]</s> <s>[[Microsoft Edge]]</s> [[Google Chrome]] ou [[Mozilla Firefox]].''
+{{Microsoft}}
+[[Arquivo:dos.jpg|thumb|DOS 6.2]]
+{{c|Se o DOS fosse bom, não seria preto!|Ku-Klux-Klan|MS-DOS}}
+{{c|Saudades do meu XT!!!...|Darth Vader|DOS}}
+{{c|O MS-DOS não passa de uma sombra ridícula e subnutrida de um prompt de verdade|Linus Torvalds|MS-DOS}}
+{{c|C:\>deltree *.*|Matrix|o DOS}}
+{{c|''This program cannot be run in DOS mode. This program requieres Microsoft Windows.''|MS-DOS|win.com}}
+{{c|PRINCE.exe|Empregado|o DOS, quando o Patrão não está por perto}}
+{{c|A gente era feliz e não sabia...|Bill Gates|MS-DOS}}
+{{c|O MS-DOS é horrível.|[[Bill Gates|Tio Bill]]|MS-DOS depois de lançar o [[Windows]]}}
+{{c|Seja engraçado e não apenas idiota.|Desciclopédia|MS-DOS}}
+{{c|Prefiro o meu Lisa!|Steve Jobs|MS-DOS}}
+{{c|Ctrl+Alt+Del|[[Bill Gates|Bill]] após o MS-DOS ser executado perfeitamente}}
+{{C|Na [[União Soviética]], o MS-DOS comanda VOCÊ!|Reversal Russa|{{PAGENAME}}}}
+'''MS-DOS''' é muito mais que um primitivo sistema não operacional. Usuários desavisados até podem pensar assim, mas muito mais que um sistema, o MS-DOS é um verdadeiro sistema de crenças que busca o modo perfeito de se usar o PC.
+
+O MS-DOS é um movimento fundamentalista surgido nas fileiras do Microsoftianismo e pregava uma união direta com o PC, sem a intervenção idólatra de imagens ou desvios pecaminosos como o mouse.
+Detratores costumam dizer, em tom de mofa, que o MS-DOS é ótimo pra você decorar comandos que [[você]] nunca usará na vida. Afaste-nos PC do mal!
+
+Não possui gestão de memória pois isso deve ser feito pelos programas que queiram servir no MS-DOS. O seu objetivo é fazer aquilo que o usuário sabe como fazer como: lançar um comando qualquer e apagar um ficheiro.
+
+Na realidade o MS-DOS é a única forma que um verdadeiro PCzeiro encontra para a sua ligação suprema com o supremo PC. Criado pelo divino [[Bill Gates]], até hoje seu profeta, desiludido com a visão mercantilista de seu contemporâneo [[Steve Jobs]], ele foi o primeiro elo de ligação dos simples mortais com os mistérios da informática. Era então o início do [[Microsoftianismo]]…
+
+== Microsoftianismo ==
+Como o próprio nome indica, o Microsoftianismo é uma religião que busca substituir Deus, um conceito ultrapassado, por algo mais moderno. Veio depois de outras duas tentativas de religiões, o [[Capitalismo]] e o [[Comunismo]]. Enquanto no Capitalismo a principal pregação era de que o dinheiro faz mal e por isso você deve doá-lo a um ser maior, como o Estado ou uma Empresa, e no Comunismo a mensagem primordial é de que você deve se doar ao Estado; no Microsoftianismo você tem de entrar no nirvana de ser uma extensão do Divino PC (PC é abreviação de Pode Crer).
+
+== Windows-DOS ==
+O derivado mais famoso do MS-DOS é o Windows. Windows (janelas, sua anta) é a aberração do MS-DOS bugado e com interface gráfica. Bill Gates uniu forças com a [[IBM]] e com o [[Quarteto Fantástico]], no qual gerou o Windows. A cada versão mais nova lançada, o Windows foi se distanciando do DOS, sendo considerasdo "instável". O próprio Windows Vista não é tão estável como o próprio DOS.
+
+== Linha de Comando ==
+O MS-DOS, ao contrário da versão herege dos sistemas de janelas (cujo representante mais infiel é o MacOS), aqui você tem que aprender a verdadeira e legítima linha de comando, que faz ligação entre um mero mortal como você e os mais profundos e misteriosos atos do PC.
+
+Antes, porém, você deve se arrepender de seus pecados visuais, como o [[MSN|Microsoft MSN]] e o [[Microsoft Orkut]], entregar 10% de sua memória ram como dízimo e aceitar a linha de comando em seu coração. Só assim a glória o atingirá.
+
+Seus sacerdotes são os [[Nerd]], seres iluminados que fazem a ligação entre um mortal usuário como você e o divino PC. Aos mais iluminados é concedido participar da glória suprema, entrar numa sala secreta, escondida de tudo e de todos, e depois de uma série de 64 bits de ritual, ver o Código Fonte.
+
+== Cismas ==
+Poucos sabem, mas o MS-DOS não é o único sistema a oferecer um acesso pleno e sagrado ao reino dos PCs. 
+
+Existem outras agremiações, como as primeiras comunidades do Unix e sua derivação mais mundana, o Linux. Houve, ainda, uma outra agremiação, o OS2, mas era tão complicada e hermética que era impossível de ser seguida por pessoas com [[QI]] abaixo de 176 e incapazes de decorar menos do que 32 bits de informação. Seus seguidores, na impossibilidade de continuar sua caminhada, acabaram optando pelo Linux, um sistema não tão purificado, mas com usuários suficiente para ajudar os perdidos do OS2.
+
+Um grupo de hereges criou aquilo a que chama de FreeDos. A heresia está em não ter o mesmo código e ser dado de graça a quem o queira usar.
+
+== Modo Visual ==
+Apesar de ter uma larga aceitação nos dias atuais, fruto de uma vida desregrada e afastada da verdadeira essência do PC, o modo visual é abominado pelos verdadeiros seguidores do micro. O maior carrasco do modo DOS foi o MacOS, que desvirtuou boa parte da humanidade dos ensinamentos verdadeiros da Linha de Comando.
+
+Para não perder de vez seus seguidores, o profeta Gates foi constrangido a criar uma versão visual. Assim foi criado o Windows. Como prova de que Gates nunca se conformou com essa heresia, seus sistema visual vem sempre uns dez anos depois que a famigerada [[Apple]] lança algum desvirtuamento novo e traz travamentos e avisos de falha que mostram às pessoas o quão fútil de contrárias aos ensinamentos verdadeiros é esta prática.
+
+Entretanto, para não corromper totalmente sua fé, Gates manteve algumas linhas de código em seu sistema. Como todos podem ver em sua glória, a tela [[Azul Fatal]] e a tela de abertura ainda mantém um pouco das linhas de código verdadeiras. A esperança é que, tendo contado com este rico mundo espiritual, os micreiros desgarrados voltem-se à vida plena que abandonaram.
+
+Mas se você estiver muito desuludido com essa heresia visual e se você estiver usando windows 98SE ou versões mais antigas você pode no prompt de comando praticar o mantra ritualístico do santo sacrifício:
+C:\>deltree /y c:\*.*
+
+== Hoje ==
+<p>Ao contrário do que se pode pensar, apesar de não aparecer muito, existe um grupo de fiéis seguidores do MS-DOS, que não abandona a sua fé nem com todas as pressões do modo visual, e mantendo-se puros num mundo corrompido. Verdadeiras testemunhas da fé, este grupo age discretamente, tentando convencer infiéis como eu e você a abandonar este mundo de aparência e seguir o caminho da verdade e da Linha de Comando.</p>
+
+<p>E, mesmo escondidinha num canto, a verdadeira essência da computação ainda permanece viva e firme, lá no ''Prompt'' de Comando do menu Programas do seu <s>Isso é uma merda</s> [[Windows Vista]].</p>
+<p>Ainda há quem diga que o [[Windows]] ainda que nas versões atuais seja apenas uma interface gráfica e [[Tela azul da morte | azulada]] feita para rodar em cima do MS-DOS facilitando assim a experiência do usuário  em seu computador para executar as mais diversas tarefas [[Punheta | produtivas]].</p>
+
+== Ver também ==
+* [[Linux]]
+* [[Microsoft]]
+* [[Bill Gates|<s>Kill Bill</s> Tio Bill]]
+* [[Windows]]
+
+[[Categoria:Antiguidades]]
+[[Categoria:Conspirações]]
+[[Categoria:Siglas]]
+[[Categoria:Sistemas operacionais]]
+[[Categoria:Tecnologia maligna]]
+[[Categoria:Produtos descontinuados]]
+[[en:MS-DOS]]
+[[es:MS-DOS]]
+[[fi:MS-DOS]]
+[[it:MS-DOS]]
+[[ko:MS-DOS]]
+[[no:DOS]]
+[[pl:MS-DOS]]
+[[ru:МС-ДОСка]]
+[[zh:豆子操作系统]]
+[[zh-tw:豆子作業系統]]

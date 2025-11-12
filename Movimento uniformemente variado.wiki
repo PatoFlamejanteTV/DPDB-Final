@@ -1,0 +1,64 @@
+{{física}}
+----
+{{vqd|Movimento dos uniformes de viado?}}
+{{c|NÃO TEM GRAÇA, GOOGLE!|O rei que queria o Pica-Pau como bobo da corte|citação do google.}}
+{{c|THAT'S NOT FUNNY!|John Cleese|citação do google.}}
+{{c|Você traiu o movimento uniforme, veio|Dado Dolabella|movimento uniformemente variado.}}
+
+O movimento uniformemente variado, MUV para os íntimos, é a [[digimon|digievolução]] do movimento uniforme, marcada pelo aparecimento da [[aceleração]]. As pessoas que sobreviveram ao MU (movimento uniforme) o odiando, vão padecer com o MUV, e o professor pode se matar com tantas reclamações de um bando de alunos criados a [[leite com pera]]. Isso no colégio, na faculdade são outras 500... fórmulas ([[ou não]])
+
+==Classificação==
+É a mesma do movimento uniforme com algumas frescuras:
+*MUV acelerado: aumenta a velocidade.
+*MUV <s>retardado</s> retrógrado: faz a mesma coisa, só que na contra-mão.
+*MUV circular: é a garantia que a [[Polishop]] dá ao consumidor de algo vai girar com velocidade.
+
+==Fórmulas==
+[[WTF|Já que a aceleração está para a velocidade assim como a velocidade está para o espaço, é só pensar em um sorvete e convertê-lo em um vovô ateu usando mnemônica.]]
+
+<math>S=S_0+vt\rightarrow v=v_0+at</math>
+
+Juntando tudo com [[viadagem|zhiclétzhyyy]] e durepox, viraria <math>S=S_0+(v_0+at)t=S_0+v_0t+at^2</math>, mas...
+
+===A vingança do vendedor de atum de segunda===
+Um vendedor de peixe que vendia [[atum]] de segunda morava no mesmo local que um cara que conhecia um cara que conhecia um cara que conhecia um cara que conhecia um cara que conhecia o tatara-tatara-tatara-tatara-tataraneto do sujeito que criou a conversão do [[sorvete]] em vovô [[ateu]]. Alguns gatos, entre eles o avô do primeiro gato do vizinho de infância do John, dono do [[Garfield]], roubavam quase todos os atuns, exceto nas segundas, então ele convenceu um físico famoso especialista em triângulos a convencer a comunidade científica a dividir <math>at^2</math> por 2, usando um [[triângulo]] cartesiano como desculpa e a fórmula se transformou em:
+
+Só vou ter atum de segunda '''na segunda''': <math>S=S_0+v_{0}t+\frac{at^2}{2}</math>
+
+Isso fez com que o vendedor de peixe, cujo nome era Cleidoswaldo, fosse contratado pelo [[Zorra Total]], mas ele pediu demissão e se mudou para o [[A Praça É Nossa]]
+
+===Equação de Torricelli===
+Torricelli, o <s>evangélico</s> Evangelista, estava sem tempo suficiente para calcular a velocidade, então ele pegou o pouco de tempo que restava e reservou para chegar num acordo com o espaço e a aceleração. O negócio <s>[[Alexandre Frota|é comer cu e buceta]]</s> foi o seguinte:
+
+=====1º: Ele pegou um [[atum]] com o Cleidoswaldo:=====
+<math>S=S_o+v_{o}t+\frac{at^2}{2}</math>
+
+=====2º: Ele calculou quanto [[tempo]] durou a conversão do sorvete para vovô ateu:=====
+<math>v=v_o+at\rightarrow v-v_o=at\rightarrow t=\frac{(v-v_o)}{a}</math>
+
+=====3º: Ele juntou os cálculos renais dos atuns do Cleidoswaldo que ele já comeu com o quanto de [[sorvete]] que sobrou no pote herdado do avô:=====
+<math>S-S_o=v_o\left(\frac{v-v_o}{a}\right)+\frac{a}{2}\left(\frac{v-v_o}{a}\right)^2</math>
+
+=====4º: Ele jogou os cálculos renais e o resto do sorvete pra fazer uma macumba no delta do [[Nilo]] e matou os parentes das testemunhas:=====
+<math>\Delta S=\frac{v.v_o-v_o^2}{a}+\frac{v^2-2v.v_o+v_o^2}{2a}</math>
+
+=====5º: Ele converteu os denominadores para o budismo 2a e depois os assassinou com [[Seu Madruga|coisas de eletricidade]]:=====
+<math>\frac{2a\Delta S}{2a}=\frac{2v.v_o-2v_o^2}{2a}+\frac{v^2-2v.v_o+v_o^2}{2a}\rightarrow 2a\Delta S=2v.v_o-2v_o^2+v^2-2v.v_o+v_o^2</math>
+
+=====6º: Ele colocou a fórmula em um [[Juicer Philips Walita]], espremeu a bagaça e enfiou na garganta do viado mais chato que encontrasse:=====
+<math>2a\Delta S=v^2-v_o^2\rightarrow v^2 = v_o^2 + 2 a \Delta S</math>
+
+==Envolvimento com [[função|funções]]==
+Pra variar, depois da implantação do MUV na comunidade <s>do [[orkut]]</s> científica, [[desocupado|alguém com muito tempo livre]] resolveu comparar graficamente o MU e o MUV no plano <s>des</s>cartesiano. O MU era uma reta ''v'' quando o <math>x=t</math> e o <math>y=S</math>. O MUV era uma reta ''a'' quando o <math>x=t</math> e o <math>y=v</math>, mas transmutava em parábola ''v'' quando <math>x=t</math> e <math>y=S</math>. A conclusão foi de que a velocidade (v) é um pênis, o tempo (t) era seu comprimento, o espaço (S) sua flexibilidade e a aceleração (a) poderia ser um combo de [[punheta|uma mão e revistas de "pesca"]], mas também um câncer <s>do [[4chan]]</s> que entortava o [[pênis|Bráulio]].
+
+==Ver também==
+*[[Movimento uniforme]]
+*[[Espaço]]
+*[[Tempo]]
+*[[Velocidade]]
+*[[Aceleração]]
+*[[Função]]
+*[[Chaves|Com os olhos]]
+*[[Pobre|Cleidoswaldo, o vendedor de atum de segunda]]
+
+[[Categoria:Física mecânica]]

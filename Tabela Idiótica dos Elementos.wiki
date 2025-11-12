@@ -1,0 +1,130 @@
+<!-- {{sem imagens}} de propósito - esse artigo não precisa de imagens -->
+A '''Tabela Shur dos Elementos''' foi desenvolvida pelo [[Professor Pardal]] e é de grande auxílio para a [[Alquimia]]. Foi revogada pela [[IUPAC]]. Atualmente é exclusivamente utilizada por cientistas loucos, alquimistas dissidentes do partido e por mutantes. É formada pelas seguintes ordens ou séries (não confundir com séries da escola):
+
+*'''Escantiados''': Escantiados deriva de uma antiga palavra greco-romana para "primeira coluna da tabela" ''(eskanteiós)''. É onde estão os elementos mais antigos da alquimia junto com os elementos mais abundantes do mundo, o [[Iluminátio]] e o [[Primério]].
+
+{{C|T + Fg + <math>Ar_2</math> + Ag + Cç|Protetores|como sintetizar o [[Capitão Planeta]]}}
+
+*'''Confusos''': Elementos que possuem uma estrutura atômica totalmente confusa, como nêutrons orbitando os elétrons, junto com os prótons. Em outros há anomalias mais sérias, como uma suruba entre eles. Alguns teólogos dizem que eles são a maior prova da existencia de [[Deus]]
+
+{{C|[[WTF]]!?|[[Oscar Wilde]]|Whatafóquio, WTF, elemento 4 da Tabela}}
+
+*'''Elementos de Corrosa:''' Série cujo nome foi dado em homenagem a Eurekus Corrosa, [[42]]º alquimista do [[Brasil]] depois da proclamação da <s>[[ditadura]]</s> república.
+
+{{C|[[AAAAA!]]|Eurekus Corrosa|a reação <small><math>Cn^{+} + Zd^{-}_{4} = Cabum!</math></small>}}
+
+{{C|<big>Ui!!!!!</big>|[[Clodovil Hernandes]]|a reação <small><math>Vd^{+24} + Vbm^{-12}_{2} = AhhH!</math></small>}}
+
+*'''Não-Ametais''': Grupo químico que adora formar ligas com [[ouro]], [[prata]], pedras preciosas e outros objetos de valor alto. Devido ao seu enorme poder de absorção (principalmente do elemento 59, [[Mulher]]), o ouro nunca foi observado em estado livre. Embora experimentos tenham demonstrado que o elemento 13, Petrolínio possa produzir dinheiro, ele não consegue produzir [[ouro]] nem em [[bomba atômica|reações nucleares]]. Aí fica comprovada a lei de [[Sílvio Santos]]: [[Barras de ouro que valem mais do que dinheiro]].
+
+*'''Liquidos Nobres''': São conhecidos por estar em estado [[líquido]] em temperatura ambiente e por serem explorados em grande quantidade pela nobreza (e pela presidência). 
+
+{{C|Eu gofto di tomar Cacháffio.|Lula|Cachácio, Cc, elemento [[51]] da Tabela}}
+
+{{C|Na [[União Soviética]], o Vódkio bebe ''VOCÊ!!''|[[Vladimir Putin]] (usando a [[Reversal Russa]])|[[Vodka|Vódkio]], Vk, elemento 14 da Tabela}}
+
+== A tabela ==
+
+{| border="1" cellpadding="2" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse;"
+| align="center" valign="center" width="50" bgcolor="#DDFFDD" colspan="1" |<span style="font-size:100%;font-weight:bold">Escantiados</span>
+| align="center" valign="center" width="50" bgcolor="#C8C8FF" colspan="1" |<span style="font-size:100%;font-weight:bold">Confusos</span>
+| align="center" valign="center" width="50" bgcolor="#FFDFDF" colspan="3" |<span style="font-size:100%;font-weight:bold">Elementos de Corrosa</span>
+| align="center" valign="center" width="50" bgcolor="#DDDDDD" colspan="1" |<span style="font-size:100%;font-weight:bold">Não-ametais</span>
+| align="center" valign="center" width="50" bgcolor="#DDFFFF" colspan="1" |<span style="font-size:100%;font-weight:bold">Liquidos Nobres</span>
+|-
+{{elemento|#EEFFEE|1|1º|Primério}}
+{{elemento|#E6E6FF|2|X*|Elemento X}}
+{{elemento|#FFECEC|?|Sp|Surpresaz}}
+{{elemento|#FFECEC|¿|Mrd|Merda|Mérdio}}
+{{elemento|#FFECEC|2,4|Ec|Eric Cartman|Ericártimo}}
+{{elemento|#F6F6F6|69,24|AhhH!|Gozo|Gozio}}
+{{elemento|#F2FFFF|6|Ce|Cérvio}}
+|-
+{{elemento|#EEFFEE|3|Il|Iluminátio}}
+{{elemento|#E6E6FF|4|WTF|WTF|Whatafóquio}}
+{{elemento|#FFECEC|5|Ni|Caça-Níquel}}
+{{elemento|#FFECEC|125874|Vbm|Vibrador|Vibranium}}
+{{elemento|#FFECEC|300|Kr*|Kratio}}
+{{elemento|#F6F6F6|59|Mu*|Mulher#Mulher_na_Alquimia|Mulher}}
+{{elemento|#F2FFFF|7|Wk|Whisky|Wískio}}
+|-
+{{elemento|#EEFFEE|5|Ar|Ário}}
+{{elemento|#E6E6FF|10|VI|6|Séisio}}
+{{elemento|#FFECEC|998|Kry*|Kryptonita}}
+{{elemento|#FFECEC|999|Cn*|Chuck Nórrio}}
+{{elemento|#FFECEC|69|Mn|69|Meia Nóvio}}
+{{elemento|#F6F6F6|1,5|Añ|Anão|Anãnio}}
+{{elemento|#F2FFFF|8|Vm|Vinho|Vinhio}}
+|-
+{{elemento|#EEFFEE|9|Ag|Água|Ágüio}}
+{{elemento|#E6E6FF|∞|Ad*|Adamantium}}
+{{elemento|#FFECEC|11|Nb|Novembrio}}
+{{elemento|#FFECEC|12|Rt|Redundântio}}
+{{elemento|#FFECEC|12|Rt|Redundântio}}
+{{elemento|#F6F6F6|48|Pg|Pagode|Pagódio}}
+{{elemento|#F2FFFF|14|Vk|Vodka|Vódkio}}
+|-
+{{elemento|#EEFFEE|15|T|Térrio}}
+{{elemento|#E6E6FF|16|Cu|Cu|Cúzio}}
+{{elemento|#FFECEC|23,9|Qs|Quásio}}
+{{elemento|#FFECEC|24|Vi|Gay|Viádio}}
+{{elemento|#FFECEC|1,99|Ow|Oscar Wilde|Oscar Wildio}}
+{{elemento|#F6F6F6|333|\M/*|Heavy metal|Heavymetálio}}
+{{elemento|#F2FFFF|51|Cc|Cachaça|Cachácio}}
+|-
+{{elemento|#EEFFEE|26|Fg|Fogânio}}
+{{elemento|#E6E6FF|84|Az|Azúlio}}
+{{elemento|#FFECEC|28|Tr²|Gripe Suína|Torresmínio}}
+{{elemento|#FFECEC|102.1FM|Ra*|Rádio}}
+{{elemento|#FFECEC|30|Te*|Televisão|Televisânio}}
+{{elemento|#F6F6F6|29|Lb|Líbanio}}
+{{elemento|#F2FFFF|13|Pt|Petróleo|Petrolínio}}
+|-
+{{elemento|#EEFFEE|26|Cç|Capitão planeta|Coraçânio}}
+{{elemento|#E6E6FF|70|CRS|Seu Creysson|Creyssonio}}
+{{elemento|#FFECEC|33|Zd*|Zinedine Zidane|Zidânio}}
+{{elemento|#FFECEC|56!|En|Enéias|Eneiacio}}
+{{elemento|#FFECEC|90º|Ǻ|Anel|Anélio}}
+{{elemento|#F6F6F6|38|EQ|Cavalo|Équio}}
+{{elemento|#F2FFFF|666|Svs*|Seiva de Sogra}}
+|-
+{{elemento|#EEFFEE|123|Kj|Queijo|Queijo}}
+{{elemento|#E6E6FF|888|Po|Potânio|Potânio}}
+{{elemento|#FFECEC|654|Cz|Coisa|Côisio}}
+{{elemento|#FFFFFF| | | | }}
+{{elemento|#FFFFFF| | | | }}
+{{elemento|#F6F6F6|969|9|Cirno|Cirínio}}
+|}
+
+== Ordem dos Compactados ==
+{| border="1" cellpadding="2" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse;"
+{{elemento|#E3DAAC|17|.zip*|Zípio}}
+{{elemento|#E3DAAC|18|.rar*|Rário}}
+{{elemento|#E3DAAC|19|.bz2|Bezipedózio}}
+{{elemento|#E3DAAC|20|Br*|Brazípio}}
+{{elemento|#E3DAAC|21|.ace*|Acênio}}
+{{elemento|#E3DAAC|22|.arj|Arjótio}}
+{{elemento|#E3DAAC|23|.7z*|Setezípio}}
+|}
+<math>x²=PQP poorra</math>
+
+== Ordem dos Expremidos ==
+{| border="1" cellpadding="2" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse;"
+{{elemento|#EFD7F0|31|WMP|Descídio*}}
+{{elemento|#EFD7F0|32|xD|XDio*}}
+{{elemento|#EFD7F0|32,9|Bl|Blóquio}}
+{{elemento|#EFD7F0|31|Lo|Lorem Ipsum|LoremÍpsio*}}
+{{elemento|#EFD7F0|35,2|U|Doce|Docínio}}
+|}
+
+== Ver também ==
+
+*[[IUPAC]];
+*[[Tabela periódica dos elementos]];
+*[[Tabela periódica dos bons-elementos]];
+*[[Cientista louco]];
+
+[[Categoria:Alquimia]]
+[[Categoria:Tabelas periódicas]]
+[[en:Idiotic Table of the Elements]]
+[[fr:Éléments]]

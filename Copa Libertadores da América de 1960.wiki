@@ -1,0 +1,107 @@
+{{velho}}
+ 
+[[Arquivo:Penarol1960.jpg|thumb|200 px|As figuras que ganharam a Libertadores da América de 1960 não olhe a foto por mais de 5 segundo]]
+
+{{c|Quê???|Criança de 11 anos|Libertadores da América}}
+
+
+A '''Taça Libertadores da América de 1960''' foi a primeira edição do [[Taça Libertadores da América|torneio]] faz tempo pra [[caralho]] nessa época ninguém dava importância para essa porcaria de torneio, participaram sete equipes de sete países: [[Argentina]], [[Bolívia]], [[Brasil]], [[Chile]], [[Colômbia]], [[Paraguai]] e [[Uruguai]],O representante brasileiro foi [[LOL]]...desculpa muito engraçado,foi nada mais nada menos que o [[Esporte Clube Bahia|Bahia]]  [[LOL]]....isso mesmo você não leu errado foi o [[Esporte Clube Bahia|Bahia]]. O torneio teve início no mês da mentira e encerrou-se no mês dos namorados de [[1960]]. Na final, o <s>[[Corinthias]]</s> [[Peñarol]] derrotou a porcaria do [[Club Olimpia|Olimpia]] e foi o primeiro campeão (sem querer) da história do torneio.
+
+==Regulamento==
+[[Velho deitado|Mandava quem podia e obedecia quem tinha juízo]],o [[Club Olímpia|Olímpia]] do [[Paraguai]], entraria na semifinal devido o excesso de times ruins. Os times eram divididos em grupos,cada grupo comportava certa quantidade de times,cada quantidade de times se encaixava no grupo e cada encaixamento de grupo era formados por times,essas formações de times eram chamados grupos. Entendeu? Nem [[eu]],depois de muito rolo os times começavam a jogar entre si a vitória era concedida a quem pagasse mais ao [[juiz]].
+
+== Primeira Fase ==
+
+{| class="wikitable"
+|-
+|'''Legenda'''
+|- bgcolor=#CCFFCC
+|Classificado às Semi-finais
+|- bgcolor=#FFCCCC
+|Eliminado
+|}
+
+=== Grupo 1 ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do San Lorenzo.png|20px]][[Club Atlético San Lorenzo de Almagro|São Vicêncio]]
+|'''2'''||2||1||0||1||5||3||2
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Bahia.png|20px]][[Esporte Clube Bahia|Caía]]
+|'''2'''||2||1||0||1||3||5||-2
+|}
+
+=== Grupo 2 ===
+
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Peñarol.png|20px]][[Club Atlético Peñarol|Dispeñarol]]
+|'''3'''||2||1||1||0||8||2||6
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Jorge Wilstermann.png|20px]][[Jorge Wilstermann|Jorge Whindersson]]
+|'''2'''||2||0||1||1||2||8||-6
+|}
+
+=== Grupo 3 ===
+{|
+|-
+|
+{| class="wikitable" style="text-align: center;"
+|-
+!width="200"|Equipe
+!width="20"|{{Tooltip|Pts|Pontos}}
+!width="20"|{{Tooltip|J|Jogos}}
+!width="20"|{{Tooltip|V|Vitórias}}
+!width="20"|{{Tooltip|E|Empates}}
+!width="20"|{{Tooltip|D|Derrotas}}
+!width="25"|{{Tooltip|GP|Gols pró (marcados)}}
+!width="25"|{{Tooltip|GC|Gols contra (sofridos)}}
+!width="25"|{{Tooltip|SG|Saldo de gols}}
+|-bgcolor=#CCFFCC
+|style="text-align:left;"|[[Arquivo:Escudo do Millonarios.png|20px]][[Millonarios|Pepsi]]
+|'''4'''||2||2||0||0||7||0||7
+|-bgcolor=#FFCCCC
+|style="text-align:left;"|[[Arquivo:Escudo do Universidad de Chile.png|20px]][[Club Universidad de Chile|Universidad de Chipre]]
+|'''0'''||2||0||0||2||0||7||-7
+|}
+
+
+{| class="wikitable" style="margin: 0 auto; width: 20%;"
+|-
+!Libertadores 1960
+|-
+|align=center|[[Arquivo:Uruguai.jpg|100px]]<br />'''[[Club Atlético Peñarol|PEÑAROL]]'''<br />'''Campeão'''<br />(1º título)
+|}
+
+==Veja Também==
+*[[Copa Intercontinental]]
+
+{{Futebolismo}}
+{{Copa Libertadores}}

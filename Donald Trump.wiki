@@ -1,0 +1,256 @@
+<!-- NÃO ADICIONAR MAIS IMAGENS NO ARTIGO; JÁ HÁ FIGURAS DEMAIS E ISSO ESTRAGA A FORMATAÇÃO DA PÁGINA. SE FOR PRA ADICIONAR IMAGENS, QUE SEJAM INSERIDAS NA SEÇÃO GALERIA -->
+<choose><option>{{DISPLAYTITLE:''Make <s>Up</s> America Great Again!''}}</option><option>{{DISPLAYTITLE:''"FAKE NEWS!!!!!!"''}}</option></choose>
+{{melhores}}
+{{politicagem}}
+{{rico}}
+
+<br>
+{{Nova Infobox
+| estilo      = 
+| imagem      = Trumpirica.jpg
+| imagem-tamanho  = 210px
+| legenda     = ''"Quem é o presidente? Sou eu, ABESTAAADO!!"''
+| título      = Donald Duck Trump
+| subtítulo   = {{{nome_alt|}}}
+| largura     = {{{largura|}}}
+| tópico-estilo   = background-color: &#35;E6E6FA
+<!--- Título principal --->
+| tópico1     = [[PSDB|45°]] [[CEO]] dos [[Arquivo:Bandeira dos EUA.png|20px]] [[Estados Unidos|Estados Unidos S.A.]]
+|   rótulo1   = Período
+|   dados1    = [[20 de janeiro]] de [[2017]]<br>até [[20 de janeiro]] de [[2021]]
+|   rótulo2   = Vice
+|   dados2    = [[Mike Pence|Mickey Mouse]]
+|   rótulo3   = Antecessor
+|   dados3    = [[Barack Obama|Barraca da Brahma]]
+|   rótulo4   = Sucessor
+|   dados4    = [[Joe Biden|Encantador de Defunto]]
+|   rótulo5   = Sucessor
+|   dados5    = {{{sucessor|{{{depois|{{{depois1|}}}}}}}}}
+
+<!---Outros títulos--->
+<!--- Título 2 --->
+| tópico6     = [[PSDB|47°]] [[CEO]] dos [[Arquivo:Bandeira dos EUA.png|20px]] [[Estados Unidos|Estados Unidos S.A.]] ''(de momento, em transferência de poderes para o novo acionista maioritário)''
+|   rótulo6   = Período
+|   dados6    = [[20 de janeiro]] de [[2025]]<br>até à atualidade
+|   rótulo7   = Vice
+|   dados7    = [[J. D. Vance|J. D. Vencido]]
+|   rótulo8   = Antecessor
+|   dados8    = [[Joe Biden|Encantador de Defunto]]
+|   rótulo9   = Sucessor
+|   dados9    = [[Elon Musk|Dr. <s>Evil</s>Mosca]]
+|   rótulo10   = Sucessor
+|   dados10    = {{{sucessor|{{{depois|{{{depois1|}}}}}}}}}
+
+<!---Título 3--->
+| tópico11     =  [[Candidato apoiado pelos EUA|Chefe do Bolsonaro]] [[Arquivo:BRAZIL.gif|20px]]
+|   rótulo11   = Período
+|   dados11    =  [[1 de janeiro]] de [[2019]]<br>a 1 de janeiro de [[2023]]
+|   rótulo12   = Segundo accionista 
+|   dados12    = [[Benjamin Netanyahu]]
+|   rótulo13   = 
+|   dados13    = 
+|   rótulo14   = 
+|   dados14    =
+|   rótulo15  =
+|   dados15   = 
+<!---Título 4--->
+| tópico16     = Dados pessoais
+|   rótulo16   = Nome completo
+|   dados16    = Donald Duck Trump
+|   rótulo17   = Nascimento
+|   dados17    = [[14 de Junho]] de [[1946]]<br>[[Nova Nova Nova Nova Iorque|Nova Nova Iorque]]
+|   rótulo18   = Nacionalidade
+|   dados18    = [[gringo]]
+|   rótulo19   = Cosplayers
+|   dados19    = <small>UK:</small> [[Boris Johnson]]<br><small>AR:</small> [[Javier Milei]]<br><small>BR:</small> [[Jair Bolsonaro]]<br><small>ISR:</small> [[Benjamin Netanyahu|Bibi Netanyahu]]
+|   rótulo20   =  ''[[Faculdade|Alma mater]]''
+|   dados20    = Curso do [[Tio Patinhas]]
+|   rótulo21   = Esposa
+|   dados21    = [[Incesto|A própria filha]]
+|   rótulo22   = Partido
+|   dados22    = [[Partido Democrata (Estados Unidos)|Partido do Jegue]]<br><small>(2001-2009)</small><br>[[Partido Republicano (Estados Unidos)|Partido do Elefante]]<br><small>(2012-presente)</small>
+|   rótulo23   = Fortuna
+|   dados23    = <small>Z$</small> 500 bilhões<br><small>[[Dólar do Zimbábue|dólares zimbabuanos]]</small>
+|   rótulo24   = Website
+|   dados24    = [https://twitter.com/realDonaldTrump Página oficial]
+}}
+{{desentrevista}}
+{{vqd|Dono de Trampo}}
+{{vqd|Tchutchuca do [[Vladimir Putin|Putin]]}}
+{{experimente|<choose><option>[[Pato Donald]]</option><option>[[Jair Messias Bolsonaro]] ianque</option><option>[[Tiririca]] Trump</option><option>[[Jair Messias Bolsonaro]] ianque</option><option>[[Silvio Santos]] [[gringo]]</option><option>[[Sr. Garrison]]</option></choose>}}
+{{c|Serei lembrado como um presidente ruim? Bom, pelo menos serei lembrado como um presidente!|Barack Obama|Donald Trump}}
+{{c|Me, [['''Tarzan''']];  you... ''Jane''!!!|Donald Trump|Bolsonaro}}
+{{c|I don't speak Mexican|Donald Trump|este artigo}}
+{{C|STOP THE COUNT!|Trump|o número de vezes em que foi [[corno]]}}
+{{c|Billions and billions and billions...|Donald Trump|o número de haters}}
+{{c|ORANGE MAN BAD. ORANGE MAN BAD. ([[mol|6,02 X 10²³]] vezes)|NPC's do mundo|críticos de Trump}}
+
+'''Donald "Duck" Trump''', ou simplesmente '''Pato Donald''', é um [[Tio Patinhas|megabilionário]] empresário norte-americano, dono de um monte de empresas e do Miss Universo, e ex-presidente dos Estados Unidos. Ficou famoso por aparecer no [[WWE]], onde jogou dinheiro por todo o canto, deu uma investida em um cara aleatório e raspou a cabeça de um maluco lá, e por apresentar [[O Aprendiz]] original e demitir melhor que o [[Roberto Justus]]. Money Money Money, a música-tema do programa, inclusive, foi composta <s>por um judeu em comemoração ao Hanukkah</s> pelo próprio Trump, sobre ele mesmo. 
+
+Segundo alguns partidos, o seu cabelo terá vindo de outro planeta pois ninguém consegue aguentar tanto tempo com ele sempre na mesma posição, ou então é só laca em excesso. O irônico é que o partido de Trump tem o vermelho como cor, mas eles odeiam os comunistas fanaticamente, e os mortadelas vermelhos odeiam ideias conversadoras iguais às dos republicanos, tanto aqui quanto lá.
+
+Trump fez tanta merda como presidente que conseguiu perder para um cara que ninguém sabe quem é, um tal de John Bin Laden.
+
+==Biografia==
+[[Arquivo:Fckk trampas.png|thumb|240px|left|Trump mostrando como foi o seu exame de [[próstata]].]]
+Trump nasceu em Nova Iorque, onde teve uma reprovação do caramba nas eleições, nem seus vizinhos o suportavam. Era um playboy ''bully'' na infância e adolescência, até que seu pai teve que colocá-lo num colégio militar para ver se o moleque en''direita''va, o que aconteceu mesmo. O detalhe é que Trump voltou de lá meio alaranjado por causa do barro de tanto ter que se arrastar na grama fazendo o treinamento militar, mas isso não importa, ele já era rico mesmo e iria conseguir comer quem quisesse mesmo que fosse azul. Depois do militarismo, Trump assumiu os negócios do pai e aumentou o capital. Aí como dinheiro atrai dinheiro, virou esse bilionário que é, fazendo aparições na mídia.
+[[Arquivo:Trump_laranja.jpg|thumb|170px|Trump irritante, a mais nova série do [[Youtube]]]]
+Esse velho é tão egocentrista que construiu uma [[Trump Tower|torre com seu nome]] e resolveu se candidatar à presidência dos [[Estados Unidos da América]], e ainda por cima ganhou, mesmo levando uma porrada da mídia americana, bem forte, quando todos acharam que certamente, sendo o candidato republicano, perderia para a [[Hillary Clinton]], corna do [[Bill Clinton]], porém, ganhou muita popularidade no final e ganhou as eleições de 2016, depois do vazamento de e-mails dos democratas.
+
+Sobre a vida pessoal, Trump é fã de cavalos de raça, mulheres tchecas e whiskey Bourbon. O cabelo do velho foi comprado em [[Las Vegas]], no mesmo lugar onde [[Sílvio Santos]] comprou o dele, e é tão duro quanto o aço. O cara também comprou participação no game [[GTA III]], onde obrigou a [[Rockstar Games]] a criar um personagem ''multibilionário'' chamado ironicamente de [[Donald Love]]. Ah, quase esqueci, o mesmo personagem do GTA também é canibal, ou seja, Trump provavelmente come bunda de mexicano.
+ 
+Em 2017 começou seu governo e protagonizou a maior treta do ano na sua luta contra [[Kim Jong-un]], outro gordinho que se revelou ser seu maior rival. Os dois se ameaçaram pra caralho, ostentando bombas atômicas e tal, o mundo inteiro entrou em choque de 220 volts... Porém, no fim, Kim Jong-un mijou com medo de Trump e desistiu, falando para ficarem em paz e até o convidou pra comer uns pastéis de "flango".
+
+Finalmente em 2020 perdeu a eleição para o John Doe, conseguindo fazer uma rasteira nele de novo em 2024 porque ele tem ranço do dorminhoco que tocou na bunda da mulher dele. Doe foi levado para o hospital para colarem os cacos e Donald volta a ser reeleito dono da porra toda. Recentemente decidiu tomar um descanso das suas funções nomeando como acionista <s>totalitarista…</s> que detém o total das ações da empresa [[Estados Unidos|Estados Unidos S.A.]] o novo grande líder, o [[Elon Musk|Imperador Mosca]]. A decisão foi tomada e a cerimónia foi concluída com uma saudação que deixou muita gente em pânico e berrando no [[Twitter|Xis]] mas [[Stevie Wonder]] garante não ter visto nada disso e Trump assinou o decreto para considerar isso um ''«boato, okay?»''.
+
+==Controvérsias==
+[[Arquivo:Trumpgun.jpg|thumb|left|Trump vendo mexicanos do outro lado.]]
+O velho Trump não gosta de [[muçulmanos]], [[negros]], <s>[[judeus]]</s>, [[pobres]], [[comunistas]], [[mexicano]]s, <s>[[mulheres]]</s> [[cubanos]] e qualquer outra coisa <s>ilegal</s> que respire, exceto ele, ele mesmo e <s>Irene</s> mulheres do leste europeu que participaram das [[Pegadinhas Picantes]].
+
+Quando estava em campanha presidencial, Trump foi acusado por cerca de noventa e quatro mulheres de assédio sexual ou outras coisas, [http://oglobo.globo.com/mundo/atriz-porno-a-11-mulher-acusar-trump-de-conduta-sexual-impropria-20340778 inclusive uma atriz pornô] o acusou. Até a deputada comunista [[Mary of Rosary]] acusou o Trump e chamou o velho de estuprador.
+
+===Disputa com os [[latino]]s===
+[[Arquivo:SuperSoccer.jpg|thumb|250px|Trump defendendo o seu muro.]]
+Trump ficou revoltado depois que seu antigo quintal, onde hoje situa o território do [[México]] até o território da [[Guatemala]], na América Central, foi emancipado. Desde então vem falando algumas "verdades" para ofender os povos sul-americanos, que hoje são [[69|69%]] da população de seu país, os [[Estados Unidos]]. 
+
+O discurso de Donald Trump é bem "baseado e embasado" na edição americana da revista [[Veja]] e isso acaba ofendendo alguns sul-americanos, como os brasileiros, que em geral, não querem ser vistos na mesma nação que argentinos.
+
+Além de não construir o muro de <s>cocaína</s> concreto <s>[[Tihuana|vou te derrubar]]</s> para separar a [[Mexicano|merda]] do [[Americano|mijo]], ele não expulsou os [[Bandido|imigrantes ilegais]] que ele tanto [[Ironia|adora]], apesar destes sustentarem a Disney e serem o principal mercado consumidor de McDonald's e Nike. Ele só queria deixar no país aqueles indianos engraçados que trabalham com tecnologia (mas por onde entram os indianos afinal?).
+
+Além de tudo que já falaram de Trump sobre os latinos, dizem também que ele vai invadir o [[Brasil|Rio de São Paulo]], mas isso só esperando para ver mesmo, e se invadir, pior que tá não fica.
+
+==Presidência==
+[[Arquivo:TrumpWall.jpg|thumb|280px|Falta pouco...]]
+Depois de Obama ser o primeiro negro na presidência, Donald Trump foi o primeiro alaranjado no poder. Quando entrou na [[Casa Branca]], já começou a bloquear latino no país, então os Estados Unidos ficaram livres daqueles merdas de Festa no Apê e Dança Kuduro por um tempo.
+
+[[Arquivo:Trump food.jpg|thumb|230px|left|Trump de perfil.]]
+Se dependesse de votos de brasileiros no Facebook e de jornalistas da Globo, Trump teria perdido, mas teve a sorte que esses só dão palpite e não influenciam porrinha alguma nas eleições americanas.
+
+===Como virou presidente?===
+Assim como toda nação, os EUA se tocaram que não existe presidente bom (exceto [[George Washington]]) e ao se desiludirem pensaram em pelo menos ter bom humor e votar num presidente cor de cenoura, que odeia imigrantes, apesar de suas três esposas serem da Republica da Chereca e a quarta e atual da [[Eslovênia]].
+
+Trump conseguiu vencer nos lugares mais improváveis. Na [[Flórida]], que só tem latino, Trump desbancou Hillary. Em [[Ohio]] que o parta, que normalmente vai atrás da onda dos jornalistas, Trump também levou. Até no estado de [[Wisconsin]], que ninguém conhece (até o Firefox quer corrigir a palavra para viscose, vejam só!) e as pesquisas indicavam que Hillary ganharia de lavada, Trump levou. Trump só perdeu bonito na [[Califórnia]] e Nova Iorque, onde estão a maioria dos "artistas", só porque os artistas odeiam Trump. Foi o que aconteceu no Leblon, Rio de Janeiro, nas votações municipais de 2016.
+
+==Polêmicas envolvendo [[Teoria da Conspiração]] + Profecias do Apocalipse==
+[[Arquivo:Fred Trump e as Pedras da Geórgia.png|thumb|right|Frederick "Fred" Christ Trump (pai de Trump) e construtor das Pedras da Geórgia (tenha medo).]]
+No dia 06 de Dezembro de 2017, o presidente Donald Trump decreta oficialmente que os [[Estados Unidos da America|Estados Fudidos da América]] reconhece [[Jerusalém]] como a capital de [[Israel]] e e ordena mudança de embaixada para a cidade. Devido a isso, inúmeros [[Crente Fanático|crentes fanáticos]] começaram a se levantar no Youtube afirmando que se tratava de uma profecia bíblia e blablabla, enquanto aquela turminha chata do [[Partidarismo]] ficaram preocupadas porque isso ai pode gerar (em grande escala) mais conflitos naquela religião entre os [[Palestinos]], mas como o Trump defende judeu ele quer é que os muçulmanos e os antissemitas vão a merda! Alguns nerds e estudiosos conspiracionistas estão para argumentar que Donald Trump seria uma peça chave para a [[Nova Ordem Mundial]] (mesmo a [[Direita política]] defendendo com unhas e dentes que Trump é contra a NOM!), já que aos olhos dos [[conservadores]] ele é visto como um salvador, argumentando que [[Os Simpsons]] e os jogos de [[INWO]] que anunciavam a sua chegada a presidência a anos atrás eram nada mais do que mera coincidência e que o Donald Trump está fora do sistema (jura?).
+[[Arquivo:Imagens-do-dia-mundo-sosias-trump-kim-jong-20170125-02.jpg|thumb|left|É O AMOOOOR!!!.]]
+Há também quem diga que seu pai, [[Fred Trump]], foi o magnata anônimo responsável por construir as Pedras Guias da [[Geórgia (Estados Unidos)]] e todos seus 10 Mandamentos em várias línguas e que Donald Trump (a semente de Fred) veio dar continuação a seu propósito e legado de sua família que é: Manter a humanidade abaixo de 500.000.000, mas antes fazer confusão no mundo todo (começando com a [[Coreia do Norte]] e terminando com o reconhecimento de [[Jerusalém]] a mando do Sionismo) para preparar todo o caminho e terreno para a chegada [[Besta do Apocalipse]] ou Oitavo Rei! {{risada}}.
+
+Finalmente, no dia [[12 de junho]] de [[2018]] (no [[Dia dos Namorados]]) o presidente metido a figura messiânica, dá inicio a tão aguardada (e temida) falsa paz ao derrubar um dos últimos legados da [[Guerra Fria]] no século XXI, já que o mesmo fez o <s>[[Androide 19]] da vida real</s> [[Kim Jong-un]] entrar em um acordo para desnuclearização. Ate agora  o mundo ainda não explodiu em guerras, porque enquanto as massas se distraem com o pão e circo da [[Copa do Mundo de 2018]], o presidente francês [[Emmanuel Macron]] (ex-bofe do Trump) sobre apoio da chanceler alemã [[Angela Merkel]], iniciam a criação do exercito universal da [[União Europeia]] afim de realizar a fase final da cartada [[Juramento dos Jesuítas]], que é a extinção de todos os maçons e países protestantes da fase da Terra! 
+
+Começando 2020, nada melhor que começar o ano com o pé direito. No dia [[3 de janeiro]] o todo poderoso <s>pato</s> Donald Trump, resolve explodir o carro <s>bomba</s> de um general iraniano famoso, que estava voltando das férias e se recuperando da ressaca de ano novo. Isso quase causou uma guerra mundial.
+
+'''OBS''': ''Aguardem novas informações em nosso seríssimo (e fodástico) site e que a [[Wikipedia]] também seja estripada da fase da Terra.''
+
+==[[Cu]][[rio]][[Aids|sida]][[Dez|des]]==
+
+{{trivia}}
+[[Arquivo:Trump-Klan.jpg|thumb|270px|right|Trump e seus amigos.]]
+*Sendo Donald Trump bem ligado <s>à [[Rússia]] e</s> à China, foi ele quem deu a ideia para os chineses construírem a [[Muralha da China]] porque aquela raça que tava invadindo parecia muito forasteira.
+
+*Donald Trump é um homem da mídia e acompanha bastante os filmes e seriados. Gosta bastante do filme Guerra Mundial Z, mas chorou pra cacete quando aqueles zumbis invadiram o cerco gigante. Seu seriado preferido é [[Game of Thrones]], adora a Patrulha do Norte, e odiava os selvagens que queriam destruir a muralha. Também é fã de música, adora o [[The Wall]] do [[Pink Floyd]], mas também curte um metal com [[Helloween]], o álbum Walls of Jericho é seu preferido e seu anime favorito é [[Shingeki no Kyojin]].
+
+*Quando era criança, seu sonho era ter um cercadinho, mas não ganhou, por isso virou esse homem ambicioso que é. Agora ele quer ter um cercadinho só pra ele.
+
+[[Arquivo:Trump gemendo.mp4|thumb|left|O Presidente [[Donald Trump]] curtindo seu novo mandato.]]
+
+*Todos sabem que Trump é bem mulherengo, tanto que o hobby preferido do ex-presidente dos Estados Unidos é pular a cerca. A mulher já nem liga mais, acabou se acostumando aos chifres. Mas ela também corneia o Trump, tanto que ele não confiava nem no voto da própria mulher.
+
+*Mesmo sendo um homem da mídia, do ''show business'', Trump teve zero apoio do mundo artístico. Todas aquelas aberrações como [[Lady Gaga]], [[Miley Cyrus]], [[Madonna]] e [[Kate Perry]] falaram mal pra caramba do candidato laranja, e o ruim é que deve ter sido justamente isso que deu ao Trump a vitória, quem é que iria atrás da opinião dessas porcariadas?
+
+*Trump já teve um relacionamento amoroso homoafetivo sério com [[Vladimir Putin]], mas acabou descobrindo o tamanho da vara de [[Jair Bolsonaro]], assim fazendo-o ficar encantado pelo patriota. Se lembra daquele discurso de Bolsonaro, quando ele disse "Aice-crim... Popicorne..."? Era tudo uma indireta para Trump.
+
+==Galeria==
+
+<gallery>
+Arquivo:Lesnar.jpg|O Megazord de Trump pra acabar com os latinos (falhou contra um mexicano...)
+Arquivo:Fake-news-invasion.jpg|O [[facebook]] precisa combater o [[terror]]!	
+Arquivo:Bbneonazi.jpg|Campanha de escoteiros patrocinada pelas corporações dele.
+Arquivo:News Trump AC.jpg|Trump é o [[Anticristo]]!
+Arquivo:Trump Warcraft.png|Já aparecia no card game [[INWO]], depois a direita ainda diz que ele não é [[Illuminati]].
+Arquivo:Abubuivanka.jpg|Apoio ne[[Império Otomano|otomano]] ao califa...
+Arquivo:Erdoğan tapa da dignidade Trump.png|...somente para depois tomar uma [[tapa da dignidade|bofetada otomana]] do presidente Erdoğan.
+Arquivo:2cpqhsh.jpg|Quadrinhos dos [[década de 1970|anos 70's]] fazendo previsão.
+Arquivo:Donald-trump-president-the-simpsons oPt.jpg|Donald Trump vira presidente como previa [[Os Simpsons]] e calou a boca do Obama.
+Arquivo:Trump voto.jpg|{{c|Será que ela votou em mim?}}
+Arquivo:Zizec.jpg|Zizek fez campanha pra ele também ([[Só que não]]).
+Arquivo:Trump esta fora do sistema.jpg|Donald Trump e seus grandes amigos, os Clinton.
+Arquivo:Celebrity-Reactions-Donald-Trump-Israel-Visit-510x340.jpg|{{aspas|Partiu fazer <s>essa porra</s> Jerusalém a capital de Israel e criar uma falsa paz ''my brother sionista''!}}
+Arquivo:Donald Trump & Fred Trump saudação.jpg|Tanto Trump quanto seu pai foram membros da sociedade secreta Skull and Bones.
+Arquivo:Donald Trump VS Michel Temer.png|Trump avisa que vai intervir militarmente no Brasil <s>para acabar a corrupção</s> (cuidado presidente!).
+Arquivo:Gumshoos.jpg|Trump fazendo bico em Pokémon sobre o pseudônimo [[Gumshoos]]...
+Arquivo:Donald Duck insane.gif|...e também como se esquecer do [[Donald Duck]] da Disney.
+Arquivo:Pantera Negra socando Trump.jpg|[[Pantera Negra]] deixando claro em seu filme a posição da [[Marvel]] para <s>o racista xenofóbico</s> assuntos internacionais.
+Arquivo:LaneIrmgardKlaxon.jpg|Donald e Melania Trump versão [[Stop motion|stop-motion]].
+Arquivo:DonaldThwomp.jpg|Make [[Bowser]] Great Again... ou até os [[Mario]] [[Luigi|bros.]] aparecerem.
+Arquivo:Trumpfibo.jpg|Também, com o cabelinho nos moldes da [[número de ouro|razão áurea]], não tinha como perder mesmo.
+Arquivo:TrumpHair.gif|Trump e seu cabelo magnífico.
+Arquivo:Preparaogoku.jpg|Trump elevando seu [[cosmo]] ([[ou não]])
+</gallery>
+
+==Ver também==
+*[[Hillary Clinton]]
+*[[Barack Obama]]
+*[[China]]
+*[[Vídeo de Trump assistindo prostitutas russas urinando na cama de Obama]]
+*[[Filme pornográfico do presidente Donald Trump]], ele mostrando na prática como fazer com que o pau da América fique grande de novo
+*[[Jair Bolsonaro]], o aspirante a namorado do Sr. Trump
+{{Odiado}}
+{{caixa de sucessão|
+título=[[Arquivo:Great Seal of the US.png|50px]]<br />[[Capitalismo|CEO]] dos [[Estados Unidos]]™ |
+anos=[[2017]] - [[2021]] |
+antes=[[Barack Obama|Um queniano aí]] |
+depois=[[Joe Biden|Uma múmia aí]]
+}}
+{{caixa de sucessão|
+título=[[Arquivo:Great Seal of the US.png|50px]]<br />[[Capitalismo|CEO]] dos [[Estados Unidos]]™ |
+anos=[[2025]] - ''atualmente'' |
+antes=[[Joe Biden|Uma múmia aí]] |
+depois=Loading...
+}}
+{{caixa de sucessão|
+título=[[Arquivo:Brasão_do_Brasil.png|50px]]<br />[[Dono|Dono majoritário]] do [[Brasil]]|
+anos= [[2019]] - [[2020]]|
+antes=[[Organização Odebrecht]]|
+depois=[[Senado Federal]]
+}}
+{{Presidentes dos Estados Unidos}}
+{{Conservadorismo}}
+
+[[Categoria:Apresentadores de televisão dos Estados Unidos]]
+[[Categoria:Atores dos Estados Unidos]]
+[[Categoria:Baderneiros]]
+[[Categoria:Capas da Playboy do Japão]]
+[[Categoria:Capas da Playboy dos Estados Unidos]]
+[[Categoria:Conservadores dos Estados Unidos]]
+[[Categoria:Criminosos dos Estados Unidos]]
+[[Categoria:Ditadores]]
+[[Categoria:Dominação mundial]]
+[[Categoria:Empresários dos Estados Unidos]]
+[[Categoria:Fanfarrões]]
+[[Categoria:Ganhadores do Framboesa de Ouro de pior ator]]
+[[Categoria:Ganhadores do Framboesa de Ouro de pior ator coadjuvante]]
+[[Categoria:Gordos]]
+[[Categoria:Idiotas]]
+[[Categoria:Malucos]]
+[[Categoria:Membros do Partido Republicano (Estados Unidos)]]
+[[Categoria:Nacionalistas dos Estados Unidos]]
+[[Categoria:Pessoas boca sujas e sem vergonhas]]
+[[Categoria:Pessoas que declararam falência]]
+[[Categoria:Pessoas que ninguém gosta]]
+[[Categoria:Polímatas]]
+[[Categoria:Presidentes dos Estados Unidos]]
+[[Categoria:Protestantes dos Estados Unidos]]
+[[Categoria:Racistas]]
+[[Categoria:Russetes]]
+[[Categoria:Topetudos]]
+
+[[ar:دونالد ترامب]]
+[[en:Donald Trump]]
+[[eo:Donaldo Trompo]]
+[[fi:Donald Trump]]
+[[la:Donaldus Drumpfus]]
+[[nds:Donald Trampeltier]]
+[[simple:Donald Trump]]
+[[tlh:DonalD trump]]

@@ -1,0 +1,70 @@
+{{Game}}
+
+{{Infobox Game
+|title     = Zona de Matá
+|image     = Quilzone 1.png
+|caption   = Capa do jogo
+|developer = [[Guerrilla Games]]
+|publisher = [[Sony Computer Entertainment]]
+|released  = [[2004]]
+|genre     = Tiro
+|rating    = 2/10
+|ages      = +17
+|platform  = [[Play 2 quebrado]]
+}}
+
+{{c|Pão com mortadela!|Helghasts quando te avistam}}
+{{c|Alooooô!|Helghasts tentando te matar|Killzone}}
+{{C|War... Never Changes... Ops, jogo errado|Locutor de Fallout|Killzone}}
+
+'''Killzone''' (em [[brasileiro]], '''Zona de Matá''') é um [[Black]] com grande taxa de queda de frames. Desenvolvido pela [[Guerrilla Games|Guerrinha Games]] e lançado em 2004, é um jogo de ''atire em tudo que se mover em primeira pessoa'', exclusivo para [[Play 2 quebrado]], onde você encarna um grupo de quatro personagens nada carismáticos (especialmente Hakha) para defender a Terra-2 da invasão de uns nazistas espaciais chamados Helghast.
+
+O jogo destaca-se pelas suas cutscenes cheias de leprosos sussurrando suas falas, forçando os jogadores a colocarem o volume da televisão no máximo no momento dessas historinhas.
+
+== Desenvolvimento ==
+
+Killzone foi muito elogiado pelo seu alto nível gráfico e sonoplástico, apenas comparável a outras obras-primas do gênero, como o [[Tetris]]. De acordo com expectativas oficiais, este jogo era para ser "O Matador de Halo" (a franquia rival), um título para pulverizar a concorrência. Na verdade, depois de testar o título, muitos jogadores só não foram testar o [[Halo]] porque o [[Xbox]] era uma bosta mesmo, mas tinham o [[Black]].
+
+== Jogabilidade ==
+
+[[Arquivo:Killzone 1 gameplay.jpg|thumb|left|A [[Guerrilla Games]] apostou no desenvolvimento de uma [[inteligência artificial|burrice artificial]] para tornar os Helghast bem críveis, assim eles podem vir em bandos de 200 que não conseguem matar um mero soldado de Vekta.]]
+
+Apesar de você correr o risco de ser linchado em público por fanboys de Killzone ao dizer isso, mas o fato é que a jogabilidade de Killzone é como a de um [[Call of Duty: Modern Warfare]] só que um pouco mais travada, lenta e mal renderizada. As inúmeras falha gráficas e baixa qualidade torna Black o único jogo de tiro mais ou menos aceitável de [[PlayStation 2]].
+
+O jogo consiste em basicamente correr, andar agachado, tomar tiro de um bando de inimigo burro, dar tiro em inimigo burro e atravessar um jogo repleto de soldados completamente imbecilizados, afinal são nazistas né e sua burrice artificial é bem crível com sua ideologia, afinal no treinamento de elite dos Helghast não há protocolo sobre como reagir a um ataque de sniper ou pistola com silenciador, e os soldados inimigos ficam igual galinhas tontas no campo de batalha sem saber o que fazem da vida. Seus amigos não ajudam, pois enquanto você atingir a marca de ter matado 1.000 Helghast, seu esquadrão inteiro reunido vai ter matado no máximo uns 5, porque a campanha do jogo não é sobre uma equipe, mas sim sobre você agindo como uma escolta para um bando de covardes que só vão ficando atrás de você.
+
+Além do modo campanha há o modo multiplayer offline, com aqueles mesmos joguinhos básicos de sempre de capturar bandeira, dar tiro no amiguinho, essas coisas de sempre que vemos desde [[Turok]].
+
+== Enredo ==
+=== Contexto histórico ===
+
+Em 2055 o planeta Terra estava para morrer, o excesso de axé music havia transformado grande parte da humanidade em seres imbecilizados que literalmente cagavam nos [[oceano]]s, e aos poucos o planeta ia se tornando completamente inabitável, ainda mais porque Youtubers teens eram quem agora ditavam as normas, regras e padrões. A sociedade virou um lixo. Numa medida desesperada, a então [[SpaceX]] foi contratada para colonizar galáxia e proporcionar um lugar de paz para humanos que não queriam mais viver no meio de um grande baile funk que havia se tornado a Terra, e esta empresa conseguiu levar a humanidade para diversos sistemas, especialmente o sistema de [[Alpha Centauri]]. A UNC (ONU das galáxias, tão inútil quanto a ONU da Terra) passou a administrar esses planetas.
+
+O problema é que a UNC estava com gigantescas dívidas e por isso autorizou que empresas privada também explorassem planetas, deixando que a Helghan Corporation (Google) também trabalhasse nisso. Em 2111 Helghan explora os planetas "A" e "B" de Alpha Centauri, enriquecendo vastamente com a mineração de [[nióbio]], o princípio ativo do Guaraná Dolly. Em 2155 a UNC está com seríssimos problemas financeiros devido a dívidas astronômicas em jogo do bicho, desde 2055 um negócio legalizado, então vendeu os dois planetas de Alpha Centauri para Helghan que deu os nome dos planetas de Helghan e Vekta, e passou a cobrar [[imposto]]s altos para quem precisasse passar por ali e no ano de 2198, quando a UNC se arrependeu da venda Helghan [[estados Unidos da América|alegou ser colônia independente]].
+
+Mas é óbvio que a UNC não aceitava essa independência, então entre os anos de 2199 e 2204 ocorreu a [[Primeira Guerra Mundial|Primeira Guerra Extra-Solar]] na qual a Helghan Corporation perdeu miseravelmente, momento quando o [[Tratado de Versalhes]] foi assinado, tratado este que privou os Helghast de todos seus exércitos e todos seus chinelos - o que explica porque eles só vestem botas - e assim todos os alemães da galáxia foram condenados a viver no planeta tóxico chamado Helghan, e como que por bondade, a independência foi concedida a eles, para que vivessem naquele planeta com cheiro de peido 24 horas por dia. Além disso, a fim de evitar novos ataques, foram criados para proteger Vekta uma plataforma com um tiro laser infalível, garantido e inafundável como o Titanic.
+
+Helghan não tinha ar, literalmente, uma gravidade pesada e bactérias no ar que transformam cada ser vivo no local em um nazista com uma voz de Darth Vader, e por 10 anos o povo local morreu, e por [[seleção natural]] sobrou apenas uma raça de não-humanos skin-heads, cujo único novo objetivo era exterminar a humanidade e se vingar da derrota humilhante da primeira guerra. Como seus pedidos de transferência daquele planeta podre foram sistematicamente negados, o povo de Helghan (os Helghast) decidiram invadir a [[Polônia]] e isto levou à [[Segunda Guerra Mundial]] no ano de 2357.
+
+=== Segunda Guerra Extra-Solar ===
+
+O background até que é rico para um fps, mas a campanha em si é a mesma coisa rasa de sempre de qualquer outro [[fps]] genérico que vá encontrar por aí. Toda a história fica subentendida, mas o jogo mesmo é só sobre caminhar e matar nazistas robôs que estão invadindo o seu planeta. Os Helghast decidiram focar suas forças numa invasão contra Vekta, sob o comando do terrível [[Mussolini|Mussolini Visari]], e assim eles invadiram esse pobre planeta.
+
+Agora você deve controlar quatro amigos genocidas, trabalhando para uns fanáticos chamados I.S.A., um grupo militar de carniceiros que sai atirando em todo mundo. Você deve massacrar e crivar de balas uns pobres coitados que não aguentam mais viver num planeta sem oxigênio, inescrupulosamente atirando na cabeça de todos que encontrar pela frente, aproveitando-se ainda do fato dos Helghast não terem intelecto, é um verdadeiro massacre.
+
+== Personagens ==
+
+* '''Jan Templar''' - É o protagonista genérico. O homem cis branco hétero de meia-idade segurando uma arma. Todo FPS tem um desses, Killzone não seria diferente. É aquele personagem médio e balanceado que manuseia todas armas sem se destacar em nenhuma. Fica fazendo aqueles coisas que você já imagina: Defender base, invadir base dos outros, massacrar Helghast, etc.
+* '''Luger''' - Quando um fps genérico se mete a querer variar em número de personagens, sempre vai ter aquele personagem sombrio, mascarado, meio gótico, silencioso e dono de uma sniper. Essa é a Luger, uma mulher que ainda pode usar a visão infravermelho para apelar na campanha e fazer os Helghast parecerem baratas tontas no campo de batalha. A sua arma secreta é virar NPC e conseguir a partir de então matar Helghasts com apenas 1 tiro, aos invés dos 20 tiros necessários quando é personagem jogável.
+* '''Rico Velasquez''' - Seguindo a tendência de qualquer FPS, depois de se criar um personagem altamente genérico e outro mais sombrio, o terceiro personagem sempre será um negão, aí entra Rico, o eterno coronel da ISA, um grandalhão sem massa encefálica que é especialista em explosivos e armas pesadas, que tem uma motivação especial em fazer nazistas sofrer, massacrando-os todos.
+* '''Gregor Hakha''' - O menos carismático de todos, controla robôs voadores.
+
+{{Killzone}}
+
+[[Categoria:Jogos lançados em 2004]]
+[[Categoria:Jogos da Guerrilla Games]]
+[[Categoria:Jogos da Sony Computer Entertainment]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos de tiro em primeira pessoa]]
+
+[[it:Killzone]]

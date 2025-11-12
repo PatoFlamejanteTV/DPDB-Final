@@ -1,0 +1,22 @@
+O '''Windows Phone 8''' ou '''WP8''', foi um [[sistema operacional|sistema não-operacional]] lançado pela Microsoft em 2012. Assim como seu [[Windows Phone 7|antecessor]], este também usava aquela interface para [[miopia|míope]]s, o [[Metro UI|Metrô]], só que este fusca contou com um [[Windows NT|motor]] diferente, um pouco mais moderno mas ainda assim ruim. Comparando com o Windows Phone 7, o WP8 parece ter ganhado algumas coisinhas a mais, fazendo-o parecer com um telefone celular minimamente moderno (finalmente).
+[[Arquivo:Windows Phone 8 logo.png|thumb|right|Logo do Windows Phone 8<s>, 9</s> e 10.]]
+
+==Primórdios e lançamento==
+Afim de corrigir a cagada que a empresa tinha lançado alguns anos antes, a Microsoft correu para desenvolver um sistema que ao menos tentasse fazer alternativa ao [[iOS]] e ao [[Android (sistema operacional)|Android]], o que sabemos hoje que passou bem longe disso. Mesmo assim a empresa e seus fanboys acreditavam piamente que o sistema faria frente a ambos os sistemas, o que até hoje acabou não acontecendo.
+
+O sistema foi lançado com a promessa de ser a opção mais barata das lojas, tanto que o [[Lumia 520]] foi comprado a rodo por milhares de desavisados. O problema é que assim que aqueles infelizes desembrulhavam o aparelho, ao ligar e ir para a [[Microsoft Store]] configurar o aparelho, se deparavam com um lugar mais vazio que um show do <span class="plainlinks">[http://zh.clicrbs.com.br/rs/entretenimento/musica/noticia/2017/05/show-gratuito-de-chitaozinho-e-xororo-atrai-cerca-de-100-pessoas-9794963.html Chitãozinho & Xororó]</span>. A loja não tinha um aplicativo (ao menos decente), o que acabava "justificando" o porquê do produto ser mais barato em relação aos concorrentes.
+
+[[Arquivo:Bug retomando wp.jpg|left|thumb|200px|Uma das novidades do sistema foi essa belíssima tela]]
+Depois do lançamento, a Microsoft bem que tentou criar versões [[pirataria|''Made in China'']] dos aplicativos mais pedidos, como o do [[YouTube]] e [[Facebook]], mas o primeiro foi proibido pela própria Google em pessoa enquanto o segundo, bem... o segundo parecia o [[Garry's Mod]] sendo executado no [[Windows Vista]], além de não contar com todas as funcionalidades criadas no Facebook depois de 2010 (o aplicativo era pré-histórico, literalmente).
+
+==Características==
+Apesar de contar com generosos recursos de hardware (para a época, depois o [[Windows 10 Mobile|Windows 10]] levaria tudo por água abaixo), o sistema não usava quase nada, já que não tinha aplicativos ou não contava com recursos primários vistos nos concorrentes, como multi-janelas. Ou seja, quem era louco o suficiente de adquirir o Windows Phone 8, o usava apenas como um ''avançado'' peso de papel, com direito a relógio e quem sabe um reprodutor mp3, e isso se o indivíduo conseguisse achar um na loja que não fosse puro ''[[adware]]''.
+
+Como novidade, o sistema saiu da fase de pré-beta e finalmente virou um [[sistema operacional|SO]] ''beta'', quando ganhou suporte a multitarefas (ainda que tenha funcionado da forma mais retardada o possível), suporte a [[Mini SD|cartão removível]] e até a porra da conexão USB com o computador, coisa que não existia antes, passou a existir. O Windows Phone 7 também não deixava você enviar ou receber arquivos via ''Bluetooth'' de outros dispositivos que não tenham Windows Phone, coisa que passou a fazer com o Windows Phone 8. E ainda assim para enviar, precisava ter dois aparelhos com Windows Phone, ou seja, era mais fácil ganhar na [[Mega-Sena]].
+
+Ainda que tenha tido alguns pequenos avanços, o WP8 repetiu os mesmos problemas de seu antecessor, como a ausência de suporte a ''[[USB On-The-Go|OTG]]'', ausência de alguns codecs como .flac e até a falta de um mísero papel de parede.
+
+Com o lançamento do [[Windows 8.1|windows que teve a volta do Menu Iniciar]]<sup>®</sup>, o Windows Phone acompanhou a atualização e também recebeu uma [[Windows Phone 8.1|''atualização 8.1'']], só que esta não teve absolutamente nada a ver com aquela versão bugada do sistema operacional em Desktop.
+
+{{Windows}}
+[[Categoria:Windows Phone|8]]

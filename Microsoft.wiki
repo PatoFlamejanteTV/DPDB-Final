@@ -1,0 +1,492 @@
+{{DISPLAYTITLE:Micro$oft}}
+
+''Aviso: Este artigo é melhor visualizado com os navegadores <s>[[Pedro Alvares Cabral]]</s> [[Google Chrome]], [[Mozilla Firefox]], [[Opera]], [[Safari (navegador)|Safari]], <s>[[sua mãe]]</s> ou qualquer outra porra que não seja o [[Internet Explorer]].''
+
+[[Arquivo:Mslogo.jpg]]
+
+{{Infobox empresa
+|nome_empresa   = Microsoft
+|razao_social   = Micosoft POG S.A.
+|imagem         = MicrosoftNazismo.jpg
+|imagem_largura = 180px
+|imagem_legenda = Cartaz do Grupo Microsoft.
+|slogan         = In BSOD we trust!
+|tipo_empresa   = [[Anonymous|Sociedade anônima]]
+|gênero         = Comercial
+|ramo_atividade = Informática
+|fundação       = [[1 de Abril]] de [[1984]]
+|fundador       = [[Bill Gates|Tio Biu]]
+|sede           = Redmont, {{USA}}
+|proprietário   = [[Bill Gates]]
+|nome_chefe1    = [[Satya Nadella|Soltinha na dela]]
+|posição_chefe1 = CEO
+|pessoa-chave1         = [[Steve Ballman]]
+|posição_pessoa-chave1 = ''Developer!!''
+|empregados   = [[Mais de 8 mil]]
+|produtos     = [[Software|Lixo eletrônico em forma de código]]
+|certificação = ISO [[POG]]
+|subsidiária1 = [[Microsoft Game Studios]]
+|subsidiária2 = [[Nokia]]
+|subsidiária3 = [[Canonical]]
+|valor_de_mercado = {{estável}} Um porrilhão de dolares
+}}
+
+[[Arquivo:Microsoft linux.jpg‎|thumb|right|dois grandes rivais: Linux e Microsoft: Um diz que é mais livre, o outro que passa confiabilidade...]]
+{{compactar|
+{{fato|O site da Microsoft está hospedado em servidores [[Linux]]?}}
+{{fato|A Microsoft é um projeto malicioso do capeta?}}
+{{fato|A Microsoft quer dominar o [[mundo]]?}}
+{{fato|Bill gates ao contrário,acrescentando o 34º elemento da tabela de linguagem C++,trocando a
+ordem das letras,fica diabo?}}
+{{fato|Boa parte das ações da [[Apple]] são de propriedade da Microsoft?}}
+{{fato|Os programadores da Microsoft possuem certificação Master em [[POG]]?}}
+<choose>
+<option>{{Você quis dizer|Micro$oft?}}</option>
+<option>{{Você quis dizer|[[Máfia]]?}}</option>
+<option>{{Você quis dizer|Sistema operacional imperacional?}}</option>
+<option>{{Você quis dizer|Micosoft}}</option>
+<option>{{Você quis dizer|bando de viciado?}}</option>
+<option>{{Você quis dizer|Dona de tudo?}}</option>
+<option>{{Você quis dizer|maicrosófiti?}}</option>
+<option>{{Você quis dizer|Linux?|Laureano|Microsoft}}</option>
+<option>{{Você quis dizer|Copiadora?}}</option>
+</choose>
+{{Experimente também|[[Linux]]}}
+{{C|"Há coisas que a microsoft faz, que nunca mais hão de funcionar" | [[Ferracini]]|sobre [[atualizações da Microsoft]]}}
+{{C|You have selected Microsoft Sam as the computer's default voice|Microsoft Sam|Microsoft}}
+{{Traduzir|Minúsculos Programas.}}
+{{C|...*@#!&%¢£¢¬@#...!!!|Doutor Roberto|a Microsoft}}
+{{C|Estão demitidos!|Roberto Justus|a Microsoft}}
+{{C|Aqui, a Microsoft quer dominar o mundo, mas no Togo, o mundo quer Microsoftear o domínio!|Inversão Togolesa|a Microsoft}}
+{{C|Se eu pudesse eu travava mil!|Jeremias|a Microsoft}}
+{{C|Esse sistema, o "Índios X-Peito " e um dos melhores que eu já vi...|Caipira|armadilha para caçar índios}}
+{{C|The day Microsoft makes something that doesn't suck is the day they make a vacuum cleaner.|Oscar Wilde|a Microsoft}}
+{{C|Tradução adaptada: 'O dia que a Microsoft fabricar algo que não seja uma bosta, será quando eles fabricarem esterco'.|Nerd|a [[frase acima]]}}
+{{C|Não sou eu que faço.|Daltony|a Microsoft}}
+{{C|Seu computador pode estar em risco.|Firewall incompetente do Windows|você}}
+{{C|Eu fui ludibriada pela MÁICROSÓFITCHÍWÉR.|Mulher louca da estrelinha do XP pirata|a Microsoft}}
+{{C|Você traiu o movimento [[Apple]], véio!|Dado Dolabella|Microsoft}}
+{{C|Já formatei meu PC 10 vezes... Semana passada!|Eu|Microsoft}}
+{{C|Ninguém manda ficar instalando pornô e jogo pirata, MWAHAHAHAHAH! Se fudeu|[[Bill Gates]]|[[Você]] formatar seu PC 10 vezes por dia}}
+{{C|Não é Bem por aí, entende?|Edson Arantes Do Nascimento|Microsoft}}
+{{C|Foi Maluf que fez.|Paulo Maluf|Apple}}
+{{C|Eu só baixei um arquivo pornô com a extensão .jpg.death.destroy.bat.bill_gates e peguei vírus, como?|Professora de inglês|Microsoft}}
+{{C|Na União Soviética, a Microsoft é travada por VOCÊ!!!|Reversal Russa|Microsoft}}
+{{C|No Brasil, eu como a tua bunda e foda-se a Microsoft e a [[União Soviética]]!!!|Humilhação Brasileira|comentário acima}}
+{{C|Pikaaaaa!|Pikachu|Microsoft}}
+{{C|Pega essa estrelinha e enfia no seu cu!|[[Mulher louca com Windows pirata]]|suporte da Microsoft}}
+{{C|Você executou uma operação ilegal.|Windows|Microsoft}}
+{{C|Teclado não encontrado, pressione qualquer tecla para continuar.|Windows|Seu Computador}}
+{{C|Mais alguma informação?|Atendente do suporte da Microsoft|[[Mulher louca com Windows pirata]]}}
+{{C|O nome do dispositivo especificado é inválido|Windows sobre colocar o nome ''Con'' em uma pasta qualquer.}}
+{{C|Compre agora o seu Windows 7 Home Premium|Microsoft|Microsoft anunciando o seu mais novo sistema <s>in</s>opercional}}
+{{C|Microsoft inova, copia ubuntu e lança multiplos desktops!|Revista Veja|Microsoft anunciando o seu mais novo sistema <s>in</s>opercional}}
+}}
+O '''Grupo Microsoft''' é uma empresa [[Dominação Mundial|monopolista]] criada por [[Bill Gates]] e seu namorado [[Paul Allen]] (atualmente pertencente á Mark Zuckerberg, e sendo transferida á conta de Steve Jobs). Hoje é detentora de 99% dos direitos autorais sobre os softwares do mercado, além de deter também 98,76% de todos os outros ramos de atividade mundiais, incluindo software, hardware, firmware, vaporwave, tupperware e a puta que pariuware (claro que nenhum deles funciona direito). É provavelmente a única empresa do mundo cuja razão social foi inspirada no pênis de seu fundador, que é pequeno (micro) e mole (soft).
+
+A Microsoft possui diversas empresas em seu poder, como por exemplo: [[Acme]], [[Polishop]] (com [[George Foreman Grill]] e tudo), NASA, Casas Bahia, [[Apple]] entre outras... Ela leva muito em sério o slogan "Se funciona não é ACME", no caso da Microsoft: "Se funciona, não é Microsoft", a prova disso é o [[Windows]] (Sistema operacional desenvolvido pelo programador Rubens Barrichello). Muito provavelmente, quem está lendo esse artigo está usando <s>Microsoft Windows</s> Linux e <strike>Microsoft Internet Explorer</strike> Mozilla Firefox; verdadeiro caso de se cuspir no prato em que se come (exceto alguns seres mais dotados que usam Firefox ou similar).
+
+Severino Portões ou Bill Gates para os íntimos, é considerado o maior sanguessuga filantropo da face da terra hoje, já que é a pessoa que faz a maior quantidade de doações em caridade principalmente para países africanos.  Isso porque ele tem a consciência <strike>pesada</strike> de uma boa pessoa, tendo em vista que a Microsoft sofre processos (justos, por monopolizar todos os mercados) infundados, acusados de monopólios nos EUA (Escrotos Unidos da Ânusmérica) e Europa.
+
+== O [[Microsoftianismo]] ==
+[[Arquivo:BillGates1.jpg|left|thumb|Bill Gates, o fundador da Microsoft,num momento histórico: lançamento da[[Tela azul da morte]].]]
+Desde o começo do século XXI, historiadores passaram a chamar o novo período de pós-[[capitalismo]] ou [[Microsoftianismo]] pois o mundo passou a ser um lugar onde a concorrência é desnecessária, pois tudo vem da "grande mãe" Microsoft. 
+
+[[Arquivo:camisetawin.jpg|thumb|500px|right|Brinde que vem nos CDs originais do Windows.]]
+Segundo [[Alberto Roberto]], em sua obra ''"Teorie des Pós-Capitalismem et Microsoftianismem: archéologie de la Microsoft comme dimension constitutive de la société bourgeoise": ''o [[Microsoftianismo]] é uma evolução do [[Capitalismo]], onde a competição é algo desinteligente, desnecessário, inútil e infantil até desumano. 
+
+A grande questão central para essa ideologia é: "Para que competir se a Microsoft é a melhor em tudo?" E se ela não for a melhor? Ela compra quem quer que seja, e passa a ser a melhor. Os que resistem a ela são tolos nacionalistas, lunáticos, românticos incorrigíveis, e alguns sonhadores que ainda acham que o [[mundo]] poderia sobreviver sem os produtos da Microsoft. O [[Capitalismo]] acabou, o [[Comunismo]] também. O [[Microsoftianismo]] é a grande sacada do [[mundo]] pós-moderno, pós-contemporâneo, pós-guerra-fria, pós-tudo, a solução para todos os problemas da humanidade. 
+
+E se a solução não vier? É simples: basta comprar um upgrade por apenas míseros US$99, e você terá a solução para todos os seus grandes problemas que você não teria se não utilizasse os produtos da Microsoft...
+
+Aí o Bill Gates disse: enfia com tudo! ISSO!!!!
+
+== A Microsoft vai dominar o Mundo! ==
+Com o Lançamento do Windows XP ("Xis Pirito, mais conhecido como Xaves Pereira"), a Microsoft implementou um arquivo de música que, após de escutado, "formata" seu cérebro. Esse arquivo de música produz frequências sonoras que impõe à você a vontade de instalar o Windows em todos os computadores e o induz à comprar os produtos da Microsoft, assim como mijar sempre sentado feito muiézinha. Se você possui o Windows XP e por curiosidade gostaria de ouvir essa música, o que seria burrice, você pode fazer o seguinte:
+
+No seu computador, clique em "Iniciar" e selecione "Executar" (tradução, comando de morte). Na caixa de diálogo, copie e cole o link abaixo:
+
+C:\WINDOWS\system32\oobe\images\title.wma
+
+Esse arquivo de música é reproduzido ao instalar o Windows, no qual faz você se tornar dependente do Windows e o faz terminar a instalação, sem nenhum raciocínio!
+
+'''Pesquisas comprovam que 99% das pessoas que leem esse artigo realmente executam o arquivo pra ver se ele existe... e que o outro 1% está esperando terminar o download da nova versão do Windows Media Player para fazer o mesmo...'''
+
+==As intenções de [[Bill Gates|Tio Bill]] com a Microsoft==
+
+{{c|A Microsoft é uma empresa que prima por representar a qualidade e impr
+imir a liberdade de mercado. Sempre per corremos os mais tortuosos caminhos, mas conseguimos as melhores idéias a fim de que a Microsoft te ajude e você possa tirar mais e mais proveito do seu computador e guardar dinheiro no seu bolso e para nós, é uma honra estar presente em sistemas, como o da prefeitura da sua cidade, da sua empresa, assim com a gente mantendo os sistemas funcionando, você pode se preocupar mais com as coisas da sua vida! Ajude a Microsoft.estamos planejando doar dinheiro aos pobres e assim ajudando a iluminar o mundo|Bill Gates}}
+
+== Atividades dentro da sede ==
+
+[[Arquivo:Supererro.jpg|thumb|left| Algo que <s>dificilmente</s> acontece no windows.]]
+No interior da Microsoft localiza-se o mais sofisticado conjunto de espionagem de todos os tempos. Há salas em que monitoram os telefones da [[Apple]], outras onde vêm as cassetes de vídeo das câmeras de segurança da [[Apple]], arrancam informações de trabalhadores ----sofredores da [[Apple]] e no final do dia desenvolvem mais umas centenas largas de softwares que não servem para absolutamente nada (incluindo atualizações chatas do Windows).
+Há fortes indícios de que os [[Emo|Engenheiros]] de [[POG|Software]] quase sempre trabalham sob influência de [[Cheiramento de Gatinhos|drogas pesadas]].
+[[Arquivo:IE9.png|right|thumb|Nem a propria Microsoft confia em seu software...]]
+
+== Microsoft registra patente do "0" e "1" ==
+
+Microsoft registra patente dos números zero e um 
+REDMOND, WA - No que Bill Gates chamou de "um ato desagradável, mas necessário para proteger nossa propriedade intelectual da exploração dos concorrentes", a Microsoft patenteou os números um e zero esta semana. 
+
+Com a patente, os rivais da Microsoft estão proibidos de produzir ou vender produtos contendo zeros e uns - a unidade matemática básica de todos os computadores e linguagens de programação - a menos que seja paga uma taxa de US$ 0,10 por dígito à gigante do software. 
+
+"A Microsoft está usando o sistema binário de uns e zeros desde sua criação em 1975", disse Gates aos repórteres. "Por anos, pelo interesse da saúde global da indústria de computadores, permitimos o uso livre e indiscriminado de nosso sistema numérico proprietário. Entretanto, a mudança das condições de mercado e o aumento das práticas predatórias de certos concorrentes nos deixaram sem alternativas. A partir de agora, cobraremos pelo uso do nosso sistema numérico". 
+
+Grandes empresas do Vale do Silício, incluindo a Apple, Netscape e Sun, declararam que acusarão ( não seria "acusaram" ? ) a patente da Microsoft de monopolizadora e anticompetitiva, alegando que a taxa de licença por dígito poderia levá-los à falência instantaneamente. 
+[[Arquivo:Funcionario do mes MS.jpg|left|thumb|Funcionário do mês da Microsoft.]]
+"Enquanto, tecnicamente, o Java é um sistema complexo de algoritmos usado para criar um ambiente de programação independente de plataforma; em seu núcleo existe apenas uma cadeia de trilhões de uns e zeros", disse o presidente da Sun. "A taxa de licença que teríamos de pagar diariamente à Microsoft seria de aproximadamente 327.000 vezes o valor líquido desta companhia." 
+
+"Se esta patente for ratificada pela Corte Federal, a Apple não terá escolha a não ser converter tudo para o sistema analógico", declarou um executivo da Apple. "E eu tenho sérias dúvidas se esta companhia permaneceria competitiva vendendo computadores movidos a pedal e rodando software em LPs de vinil". 
+
+Como resultado da patente da Microsoft, muitas outras companhias começaram a revisar radicalmente suas linhas de produtos. A Oracle está investindo em um novo projeto de desenvolvimento para criar um ábaco para o próximo milênio. A Novell está trabalhando com treinadores de animais em um sistema de transmissão de mensagens baseado em chimpanzés. A Hewlett-Packard está desenvolvendo uma revolucionária impressora movida a vapor. 
+
+Em pronunciamento destinado a bilhões de pessoas em todo o planeta, Gates expressou confiança de que a recente conquista da Microsoft beneficiará, definitivamente, toda a humanidade. 
+
+"Pensem nisso como uma parceria", disse Gates. "Com os uns e zeros do código binário, nós devemos trabalhar todos juntos para tornar a promessa da revolução da informática uma realidade. Como a mais rica e a mais poderosa empresa de software do mundo, a Microsoft é a número um. E vocês, os milhões de consumidores que usam nossos produtos, são os zeros."
+
+Simplesmente, é falta do que fazer!
+
+fonte: http://www.novomilenio.inf.br/humor/0301h005.htm
+
+[[Arquivo:Mouse really.jpg|thumb|right|A [[porcaria|qualidade]] dos produtos microsoft é incomparável.]]
+
+== O Caso Micro$oft X General Motors ==
+Numa recente feira de informática (COMDEX), Bill Gates fez uma infeliz comparação da Indústria de computadores com a automobilística e declarou:
+
+"Se a GM tivesse evoluído tecnologicamente tanto quanto a indústria de computadores evoluiu, estaríamos todos dirigindo carros que custariam 25 dólares e que fariam 1000 milhas por galão (algo como 420km/l)".
+
+A General Motors, respondendo "na bucha", divulgou o seguinte comentário a respeito desta declaração: 
+SE A MICROSOFT FABRICASSE CARROS:
+*1) Toda vez que eles repintassem as linhas das estradas você teria que comprar um carro novo.
+*2) Ocasionalmente, dirigindo a 100&nbsp;km/h, seu carro,de repente, morreria na autoestrada sem nenhuma razão aparente, e você teria apenas que aceitar isso, religá-lo (desligar o carro, tirar a chave do contato, fechar o vidro, sair do carro, fechar e trancar a porta, abrir e entrar no carro, sentar-se ao banco, abrir o vidro, colocar a chave no contato e ligar) e seguir adiante.
+*3) Ocasionalmente, a execução de uma manobra à esquerda, poderia fazer com que seu carro parasse e falhasse. Você teria então que reinstalar o motor! Por alguma estranha razão, você aceitaria isso também.
+*4) A Apple faria um carro em parceria com a Sun, confiável, cinco vezes mais rápido e dez vezes mais fácil de dirigir. Mas apenas poderia rodar em 5% das estradas.
+*5) Os indicadores luminosos de falta de óleo, gasolina e bateria seriam substituídos pôr um simples "Falha Geral ou Defeito Genérico".
+*6) Os novos assentos obrigariam a todos terem o mesmo tamanho "default" de bumbum.
+*7) Em um acidente, o sistema de airbag perguntaria: "Você tem certeza que quer usar o air bag?", antes de entrar em ação.
+*8) No meio de uma descida pronunciada, quando você ligar o ar condicionado, o rádio e as luzes ao mesmo tempo, ao pisar o freio apareceria uma mensagem do tipo "Este Carro realizou uma operação ilegal e será desligado"!
+*9) Se desligar o seu Carro 98 utilizando a chave, sem antes ter desligado o radio ou o pisca-alerta, quando for ligá-lo novamente, ele iria checar todas as funções do carro durante meia hora, e ainda lhe daria uma bronca para não fazê-lo novamente.
+*10) A cada novo lançamento de carro, você teria que reaprender a dirigir, voltar à autoescola e tirar uma nova carteira de motorista.
+*11) Para DESLIGAR seu carro, você teria que apertar o botão "Iniciar"(????)
+
+== Outros Ramos de Atividade do Grupo ''Holding'' Microsoft no [[Mundo]] ==
+Em ordem '''alfabética''':
+*[[Microsoft Vibradores]] ''([[Cacetes elétricos com 15 velocidades]])
+[[Arquivo:BSOD Em anuncio.JPG‎|thumb|Nova estrategia de markenting da Microsoft.]]
+*[[Microsoft Agribussines]] ''([[agricultura]], [[pecuária]], [[avicultura]], [[pesca]], [[suinocultura]] et cetera)''
+*[[Microsoft Air Lines]] ''([[linhas aéreas]])''
+*[[Microsoft Airports]] ''([[aeroporto]]s)''
+*[[Microsoft Alchemicals]] ''([[indústria alquímica]])''
+*[[Microsoft Alien Management]] ''(antiga [[MIB]])''
+*[[Microsoft Armed Forces]] ''(antiga [[OTAN]])''
+*[[Microsoft Arts]] ''(museus de [[arte]])''
+*[[Microsoft Atomic Energy]] ''([[energia]])''
+*[[Microsoft Auto]] ''([[automóvel|automóveis]], [[caminhão|caminhões]], [[máquinas agrícolas]])''
+*[[Microsoft Aviation]] ''(produz [[Avião|aviões]] civís e militares)''
+*[[Microsoft Bakery]] ''(rede de padarias)''
+*[[Microsoft Banking]] ''(antigo [[FED]] - Federal Reserve)''
+*[[Bing|Microsoft Bing]] ''(side de buscas e jogos de [[bingo]] online)''
+*[[Microsoft Bio]] ''([[plágio]] à [[Umbrella]])''
+*[[Microsoft Brain Control]] ''(central de [[controle]] [[mental]])
+*[[Microsoft Business]] ''(antiga [[NASDAQ]])''
+*[[Microsoft Cellulose]] ''([[papel]] e [[celulose]])''
+*[[Microsoft Construnctions]] ''([[contrução civil]])''
+*[[Microsoft Cosmetics]] ''(antiga [[L'Oréal]])''
+*Microsoft [[Crosses 95]] ''(Instituição de [[caridade]] megalomaniaca feita para "pacificar" o mundo)''
+*[[Microsoft Education]] ''([[universidade]]s e [[escola]]s de todos os níveis)''
+*[[Microsoft Electronics]] ''([[eletro-eletrônicos]] em geral)''
+*[[Microsoft Fashion]] ''(alta costura)''
+*[[Microsoft Fast Food]] ''([[plágio]] ao [[McDonald's]])''
+*[[Microsoft Fun]] ''(plágio à [[Disney World]])''
+*[[Microsoft Foda-se]] ''([[serviço que se está a cagar para ti]])''
+*[[Microsoft Government]] ''(antiga [[Casa Branca]])''
+*[[Microsoft Health Care]] ''([[plano de saúde|planos de saúde]])''
+*[[Microsoft Highways]] ''(contrutora de estradas e concessionária de praças de pedágio)''
+*[[Microsoft Holy See]] ''(antigo [[Vaticano]])''
+*[[Microsoft Hotels and Resorts|Microsoft Hotels & Resorts]] ''(rede de hotéis)''
+*[[Microsoft Law and Order]] ''(antigos tribunais de [[Justiça]] e delegacias de [[polícia]])''
+*[[Microsoft Mac Donald´s]]
+*[[Matrix|Microsoft Matrix]]
+*[[Microsoft Matrix Implementation Research]] ''(atual [[Second Life]])''
+*[[Microsoft Mind Masturbation]] ''(também conhecida como [[Internet]])''
+*[[Microsoft Mining]] ''([[Mineração|exploração]] de [[ouro]], [[diamante]]s, e minérios
+diversos)''
+*[[Microsoft Models]] ''(agência de modelos)''
+*[[Microsoft Money]] ''(antiga [[Casa da Moeda]])''
+*[[Microsoft O2]] ''(produção de [[oxigênio]] para o [[Mundo]])''
+*[[Microsoft H2O]] ''(produção de [[água]] para o [[Mundo]])''
+* OBS.: Os outros compostos químicos são patenteados por Chuck Norris, como o Trióxido de Enxofre
+*[[Microsoft Oil]] ''(fusão das antigas [[Shell]], [[Exxon]], [[Texaco]], [[Petrobras]], [[PDVSA]], [[Elf]], [[Agip]], [[Repsol]], [[Petronas]] e outras menores)''
+*[[Microsoft (Empresa de patentes)|Microsoft Patent Service and Security Foundation]] ''(empresa que mais registrou patentes em 2008)''
+*[[Microsoft Pet]] ''([[animais de estimação]])''
+*[[Microsoft Pharmaco]] ''([[medicamento]]s e [[equipamentos médicos]])''
+*[[Pornografia|Microsoft Porn]] ''(Isso mesmo! Videos/fotos da sua mãe em sua profissão!)''
+*[[Microsoft Plastic Surgery]] ''(antiga clínica do Dr. [[Ivo Pitanguy]])''
+*[[Microsoft Publicity]] ''(agência de publicidade)''
+*[[Microsoft Publisher]] ''([[editora]] de [[livro]]s e [[revista]]s)''
+*[[Microsoft Racing Team]] ''(antiga [[Scuderia Ferrari]])''
+*[[Microsoft Radio]] ''(rede mundial de estações de [[Rádio]])''
+*[[Microsoft Railroads]] ''(rede mundial de estradas de ferro)''
+*[[Microsoft Records]] ''([[gravadora]], [[produtora musical]] e de [[mídia]]))''
+*[[Microsoft Search]] ''(plágio ao Google)''
+*[[Microsoft Sex Services]] ''(antiga [[Casa da Mãe Joana]])''
+*[[Microsoft Shadowlaw]] ''(meia duzia de neguinho pronuncia xadalú, atua no setor de crime organizado e tem como vice diretor Doutor Vega, meia duzia de neguinho chama ele de Bizom)''
+*[[Microsoft Shipyard]] ''([[estaleiro]])''
+*[[Microsoft Shopping]] ''(rede de [[shopping center]]s)''
+*[[Microsoft Soft Drinks]] ''(antiga [[Coca-Cola]] Company)''
+*[[Microsoft Space]] ''(antiga [[Nasa]])''
+*[[Microsoft Sports]] ''([[time]]s de [[futebol]], [[basquete]], [[voley]] et cetera)''
+*[[Microsoft Studios]] ''([[filme]]s [[longa-metragem]], [[desenho animado|desenhos animados]], [[curta-metragens]])''
+*[[Microsoft Supermarkets]] ''(antigo [[Wal*Mart]])''
+*[[Microsoft Telecom]] ''(telefonia fixa e móvel)''
+*[[Microsoft Tobacco]] ''([[indústia]] de [[cigarro]]s)''
+*[[Microsoft Toys]] ''([[indústria]] de [[brinquedos]])''
+*[[Microsoft Travel]] ''([[agência de viagens]])''
+*[[Microsoft Tropical Fruits]] ''(frutas tropicais para o mundo)''
+*[[Microsoft TV]] ''(rede de [[TV]])''
+*[[Microsoft Universal Church of God's Kingdom]] ''(fusão com a antiga [[Igreja Universal|Igreja Universal do Reino de Deus]])''
+*[[Microsoft Water System]] ''([[água]] e [[esgoto]])''
+*[[Microsoft Wood and Forests|Microsoft Wood & Forests]] ''(gerenciamento da [[Amazônia]] e madeira)''
+*[[MICROS~1]]
+*[[MICROS~2]]
+*[[Microsoft Zoos]] ''(rede de [[zoológicos]])''
+*[[Microsoft Coconut]] ''(Fabrica de [[côcos]])''
+*[[Microsoft Icyber]] '' ( A pior escolha em Internet que você já viu)''
+*[[Microsoft Geisy Arruda]] ''(Porque podrera é com a Microsoft mesmo)''
+
+*[[Microsoft X-Cubs 770 Porn Edition]] ''(Com conect em varias posições confira!!!)''
+
+== Próximos Lançamentos ==
+A Microsoft além de ter um vasto mercado de telefonia fixa no Brasil, como a Microsoft Telefonica, têm se preparado para entrar no mercado da telefonia celular e lançará alguns produtos como:
+
+Microsoft Tim,
+Microsoft Claro,
+Microsoft BrT,
+Microsoft Vivo,
+Microsoft Oi,
+Microsoft Nextel,
+Microsoft Nike,
+Microsoft Pepsi,
+Microsoft Globo de Televisão,
+Microsoft Wikipedia,
+Microsoft Google,
+Microsoft Coca-Cola, 
+Microsoft Desciclopédia.
+Microsoft Sono pela manhã
+Microsoft Cara amassada da secretária
+Microsoft Nada pra fazer.
+
+
+[[Arquivo:Mouse really.jpg|thumb|right|A [[porcaria|qualidade]] dos produtos microsoft é incomparável.]]
+
+=== Serviços e (In)Utilidades ===
+*[[Microsoft AdvancedPlagiarism]] (3 em 1 que permite roubar um programa, trocar o nome e colocá-lo a venda)
+*[[Microsoft Asdadsadf]] (Gerador de carácteres rândomicos inúteis)
+*[[MSFirefox|Microsoft Firefox]]
+*[[Microsoft Flags 2.25]]
+*[[Microsoft Google]]
+*[[Microsoft Internet Explorer|Microsoft Internet Exploder]]
+*[[Microsoft Magic]] (Incrível software que resolve tudo, até responde quem matou <strike>Odete Roitmann</strike> Tais)
+*[[Microsoft Miracle]] (Quando qualquer produto MS falha, é só rodar o MM [ rodando ... : comer doces ] que tudo se resolve)
+*[[Microsoft Speed 600 Kbps]]
+*[[Microsoft Nero Burning ROM]]
+*[[Kazaa|Microsoft Kazaa]]
+*[[Microsoft Hogwarts]]
+*[[Viagra|Microsoft Viagra]]
+*[[Microsoft Warez]]
+*[[uTorrent|Microsoft uTorrent]]
+*[[BitTorrent|Microsoft BitTorrent]]
+*[[Microsoft BitComet]]
+*[[Microsoft BitTornado]]
+*[[Wii|Microsoft Wii]]
+*[[Photoshop|Microsoft Adobe Photoshop]]
+*[[Microsoft Asus]]
+*[[Terra|Microsoft Planeta Terra]]
+*[[Microsoft Winconnection]]
+*[[The Sims|Microsoft The Sims]]
+*[[Microsoft CPU exploder 92]]
+*[[Microsoft Catálogo de endereços]] - Com esse catálogo você consegue pegar até o endereço de sua vizinha gostosa!
+*[[Microsoft Speedy]]
+*[[Microsoft Hotmail]]
+*[[ICQ|Microsoft ICQ]]
+*[[Skype|Microsoft Skype]]
+*[[Firefox|Microsoft Firefox]]
+*[[UOL|Microsoft UOL]]
+*[[Winamp|Microsoft Winamp]]
+*[[Microsoft Norton Anti-Virus]]
+*[[iPod|Microsoft iPod]]
+*[[Google|Microsoft Google]]
+*[[Microsoft Orkut]]
+*[[Microsoft Round House Click]] (Equivale ao FORMAT C:)
+*[[Microsoft Encarta]] ''(plágio à [[Desciclopédia]] de muito inferior em qualidade)''
+*[[Microsoft Office]]
+*[[Cabo Mais|Microsoft Cabo Mais]]
+*[[Microsoft User Big-Brother]]
+*[[Microsoft User bg'bro for Windows Starter]]
+*[[Estrela Malvada da Microsoft]] (marketing barato)
+*[[Microsoft Borgs AI]] (Da série ''Jornada nas Estrelas: The Next Degeneration'')
+*[[Microsoft ClodovilGuard]]
+*[[Emo|Microsoft Emo]] (''exclusivu para quem que conhecer novos miguxos'')
+*[[Microsoft Exterminador do Futuro 3]] (retirado do ar devido a uma incompatibilidade com o programa Microsoft Round House Click)
+*[[Internet|Microsoft Internet]]
+*[[Jeremias|Microsoft Jeremias]]
+*[[Microsoft Microsoft]]
+*[[Microsoft MSN Live Dead]]
+*[[Microsoft MSN Live Killed]]
+*[[Microsoft Personal Anti-Apple]]
+*[[Microsoft WaterWall]] (Nova versão melhorada do FireWall)
+*[[YouTube|Microsoft YouTube]]
+
+=== [[Jogo]]s ===
+*[[Microsoft Ragnarok]]
+*[[Microsoft Super Mario World]]
+*[[Microsoft Pong]]
+*Microsoft [[Tibia]] (Feito em conjunto com a ShitSoft e o governo Hittler - Hoje é mais conhecido como Paint)
+*Microsoft [[Age of Empires]] (o jogo colocava chips nos cérebros quase nazistas e os fazia combater lá na por quep ou seja: PaQuisPão!).
+*Microsoft [[Paciência]]
+*[[Microsoft Ragnarok]]
+*Microsoft [[Campo Minado]]
+*[[Microsoft Need for Speed: São Paulo Drift]] – Mais uma edição, agora é derrapes em são Paulo
+*[[Microsoft Need for Speed: Rocinha Canyon]] - Nesta edição, você terá de correr à beira de penhascos, para salvar sua vida é presciso desiar das balas dos traficantes
+*[[Microsoft Grand Theft Auto: Somália [ pensando ... : nos jardins ] - Mega Gold Special Version]] - Nessa única versão você está na pele de Édson Arantes,um personagem baseado naquilo que ainda resta no país. Vários estilos de carrinhos-de-mão guiados por soldados americanos... equipe-os, turbine-os, transforme-os com oque à de tecnologia. Conquiste oque ainda resta nesta cidade!
+* [[Microsoft Corno Velho]] – versão atualizada do [[Micrsoft Long Horn]], nunca lançada devido à impossibilidade de passar pelas portas das casas dos consumidores.
+*[[Microsoft Blue Window]] [[Teste de QI]]
+*[[Microsoft Counter-Strike full 1.6.3.8x9=81/2008 ultimate edition Lei.19875/97 Paragrafo 3 verssiculo 14]](Normalmente encontrado no pc de um nerd suado, viciado, fumante de 14 anos, que não vai na escola pra add um bot e fikar a tarde inteira na frente do pc jogando essa versão do cs.)
+
+==== [[Simulador]]es ====
+*[[Microsoft God Simulator]]
+*[[Microsoft The Sims]]
+*[[Microsoft Flight Simulator]]
+*[[Microsoft Train Simulator]]
+*[[Microsoft Bodyjump Simulator]]
+*[[Microsoft Waiter Simulator]]
+*[[Microsoft Zoo Tycoon]]
+*[[Microsoft Zoo Tycoon: Special Edition: São Paulo Rainforest]]
+*[[Microsoft Zoo Tycoon: Special Edition: Brasília Rainforest]]
+*[[Microsoft Zoo Tycoon: Special Edition: Rio de Janeiro's Carnival]]
+*[[Microsoft Holocaust Tycoon]]
+*[[cs rio|Microsoft CS-Rio]]
+*[[Microsoft Fart Simulator]]
+*[[Microsoft Panis et Circenses Simulator: Roma Edition]]
+*[[Microsoft Panis et Circenses Simulator: Brazil Edition]]
+*[[Microsoft Corruption Simulator: PT edition]]
+*[[Microsoft Queer Simulator]]
+*[[Microsoft Tsunami Simulator]]
+*[[Microsoft Brazilian Football Team Selection Simulator]]
+*[[Microsoft God Simulator]]
+*[[Microsoft George W. Bush Simulator: Black Gold War Edition]]
+*[[Microsoft George W. Bush Simulator: Congress War Edition]]
+*[[Microsoft Tele-Sena Simulator]]
+*[[Microsoft Loteca Simulator]]
+*[[Microsoft Sex Simulator]]
+*[[Microsoft Second Life]]
+*[[Microsoft First Life]]
+*[[Microsoft Another Life]]
+*[[Microsoft Ethernal Life]]
+*[[Microsoft Re-Encarnation Life]]
+*[[Microsoft Genocide Simulator I]]
+*[[Microsoft Genocide Simulator: Columbine Edition]]
+*[[Microsoft Genocide Simulator: Auschwitz Edition]]
+*[[Microsoft Genocide Simulator: Gulags Edition]]
+*[[Microsoft Apocalypse Simulator: Chuck Norris Edition]]
+*[[Microsoft Apocalypse Simulator:Adolfinho Hitler(emo) Edition]]
+*[[Microsoft Apocalypse Simulator: Jesus Negão Edition]]
+*[[Microsoft Apocalypse Simulator: 2012 Edition]]
+*[[Microsoft Super Genocide Simulator: Jihad Special Edition: 50-years-deathmatch]]
+*[[Microsoft World Domination: Robeto Marinho Edition]]
+*[[Microsoft World Domination: Bill Gates Edition]]}}
+*[[Microsoft World Domination: Luiz Inácio Lula da Silva Edition]]
+*[[Microsoft World Domination: xTreme Edition: Stalin vs. Hitler]]
+*[[Microsoft World Domination: xTreme Edition: Bush and Cheney vs. Kerry and Edwards]]
+*[[Microsoft Brazilian 2006 Spacial Beans Experiment Simulator]]
+*[[Microsoft In-The-Ruts: Heroin]]
+*[[Microsoft In-The-Ruts: Marijuana]]
+*[[Microsoft Megaman X 34: The Ultimate War]] (Simulador de Guerra do Futuro, estreado por [[[[Megaman]] [[X]]]] e [[George W. Bush]] )
+*[[Microsoft Close The Pop-Ups]] (Jogo no qual você tem que fechar as janelinhas do [[Microsoft Internet Exploder]] a tempo)nota:este jogo vem com o internet exploder e o único meio de pausa-lo é com a google toolbar.
+*[[Microsoft Linux Simulator]]
+*[[Microsoft Counter Strike 2.4 EMO version]] - Versão atualizada de CS, mais com o obijetivo totalmente oposto ao CS original, jogue e descubra você mesmo! (recomendado para MiGuUuXoOosSs).
+*[[Microsoft "Microsoft" Simulator]]
+* [[Microsoft ERROR 404]]
+* [[Microsoft Something Totally Generic Simulator Premium Edition ]]
+* [[Microsoft Gay sex simulator 2015]]
+
+=== ''[[Hardware]]'' ===
+[[Arquivo:mcgreekbarbecue.gif|frame|right|A arquinimiga concorrente [[McDonald's]] utiliza secretamente o [[Microsoft Personal Greek Barbecue Plus]] para preparar seu [[Churrasco Grego]]]]
+*[[Microsoft Intelligent Mouse Force-Pro Plus]]
+*[[Microsoft Intelligent Keyboard Plus]]
+*[[Microsoft MacMouse Advanced]]
+*[[Microsoft ReverseRetarded Mouse Double]]
+*[[Microsoft Dumb Mouse Force-Pro Plus]]
+*[[Microsoft Dumb Keyboard Plus]]
+*[[Microsoft Personal Microwave-Oven Plus]]
+*[[Microsoft Personal Rocket-Launcher]]
+*[[Microsoft Rocket-Launcher: Hezbollah Edition: 110-kilometers]]
+*[[Microsoft Personal Cement Mixer Plus]]
+*[[Microsoft Personal Greek Barbecue Plus]] ''([[churrasco grego]])''
+*[[Microsoft Pentium 4, Memoria 512MB, HD 80GB, Video e Som Onboard]]
+*[[Microsoft Pentium 100 Extreme X, Memoria 16777216MB, HD 666TB, Video e Som Wireless]]
+*[[Microsoft Master Vibrator Tabajara]]
+
+== Ver também ==
+*[[Micro-ondas]]
+*[[Microsoft:|Microsoftpédia]] - a Enciclopédia da Microsoft
+*[[Tela Azul da Morte]]
+*[[Deslivros:Criando seu próprio Sistema Operacional]]
+*[[Beta Testers]]
+*[[Campo Minado]]
+*[[Microsoftianismo]]
+*[[Microsoft Orkut]]
+*[[Google]]
+*[[Orkut]]
+*[[Tecnologia]]
+*[[Microsoft Flight Simulator]]
+*[[Microsoft (Empresa de patentes)]]
+*[[Bing]]
+*[[Imperalismo Microsoftiano]]
+*[[Pc gay]] a maior aberração da Microsoft
+== Ligações externas ==
+*[{{server}}/wiki/Linux Site da Microsoft]
+*[https://www.youtube.com/watch?v=jMToNsCyFQU Microsoft TOP FAILS]
+*[https://www.youtube.com/watch?v=aMJ6A78WM20 Mulher louca xingando o suporte da Microsoft]
+
+
+{{dominação}}
+{{Eixodomal}}
+{{Máfia}}
+
+{{Clipe|Você está lendo um artigo da Desciclopédia. Se quiser que a Microsoft o compre, clique [[Deslivros:Como ser banido na Desciclopédia|aqui]].}}
+
+[[Categoria:Empresas dos Estados Unidos]]
+[[Categoria:Empresas de eletrônicos]]
+[[Categoria:Empresas de softwares]]
+[[Categoria:Dominação mundial]]
+[[Categoria:Informática]]
+[[Categoria:Microsoft|*]]
+
+[[cs:Microsoft]]
+[[sr:Мајкрософт]]
+[[da:Microsoft]]
+[[de:Microsoft]]
+[[el:Microsoft]]
+[[en:Microsoft]]
+[[eo:Mikrosofto]]
+[[es:Microsoft]]
+[[fa:مایکروسافت]]
+[[fi:Microsoft]]
+[[fr:Microsoft]]
+[[he:מיקרוסופט]]
+[[hu:Microsoft]]
+[[id:Microsoft]]
+[[it:Microsoft]]
+[[ja:Microsoft]]
+[[ko:마이크로소프트]]
+[[lv:Microsoft]]
+[[nl:Microsoft]]
+[[nn:Microsoft]]
+[[no:Microsoft]]
+[[pl:Microsoft Corporation]]
+[[ru:НекроСофт]]
+[[sv:Microsoft]]
+[[th:แม้วโครซัค]]
+[[zh:大硬]]

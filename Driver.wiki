@@ -1,0 +1,39 @@
+{{Game}}
+
+{{Infobox Série Game
+|title         = Dirigido
+|image_logo    = Driver-logo.png
+|caption       = Logotipo sincero da série
+|genre         = GTA de pobre
+|developer     = [[Ubisoft]]
+|publisher     = [[Ubisoft]]
+|origin        = [[PS2]]
+|first_release = [[Driver (jogo)|Dr1ver]] (1999)
+|last_release  = [[Driver: San Francisco]] (2011)
+}}
+
+'''Driver''' é uma série de jogos só de missão de carro de GTA, ou seja, jogos de fugir de polícia, de perseguir malandros, de dirigir carros em cidades, de cometer todas infrações de trânsito possíveis e todas as missões de [[GTA]] que você usa só o carro. Por ser uma franquia sobre missões de GTA, nunca fez sucesso, porque se alguém quer gastar dinheiro comprando um jogo sempre comprava logo o GTA então. E os enredos nada criativos nunca ajudavam também a popularizar a série, era sempre a mesma historinha manjado do cara que se infiltra numa organização criminosa e sempre acaba indo longe demais nos assaltos a carros.
+
+== Jogabilidade ==
+
+Um jogo Driver de verdade, segundo os fãs da série, é um jogo no qual o personagem que você controla sentou num banco de carro com cimento fresco, que depois secou e agora ele se encontra preso no assento do carro para sempre. Nessa lógica, jogos como [[Driver 3]] são considerados lixo e não são um Driver de verdade. Dessa forma, Driver de verdade é o Driver 1 ou o Driver: San Francisco, inteiramente jogados dentro do carro, fazendo todo tipo de missão de carro de GTA, nada além disso.
+
+== Jogos ==
+=== Consoles ===
+* '''[[Driver (jogo)|Driver 1]]''' - GTA de [[PlayStation 2]] ambientado num mundo inteiramente feito de papelão, você controla um ex-policial e ex-corredor que agora finge que é bandido para continuar sendo policial e corredor. Neste primeiro jogo o protagonista não sai do carro nunca, nem pra mijar ou cagar, um diferencial que chamou atenção na época e gerou o charme que trouxe bastante sucesso pro título. O único problema avistado pelos fãs é que no jogo é proibido matar pedestres.
+* '''[[Driver 2]]''' - Lançado apenas 1 ano após o primeiro jogo, em tão pouco tempo obviamente não deu pra mudar muita coisa, então dá pra considerar um DLC de Driver 1, é na verdade a mesma coisa do primeiro jogo. A maior novidade é que dessa vez deram uma dupla para o protagonista, para ele ter pelo menos algo a falar e com quem falar. Até dá para sair do carro, mas apenas para entrar em outros carros, então o nome "Driver" ainda fazia todo sentido.
+* '''[[Driver 3|Driv3r]]''' - No desespero de competir com [[GTA: San Andreas]], fizeram um Driver 3 totalmente às pressas para chegar nas prateleiras antes do concorrente, mas como nesse novo jogo você mais andava a pé do que de carro, as pessoas não entenderam bem o título do game a se sentiram enganadas, o que rendeu críticas negativas pesadas. Ainda havia a proibição de atropelar pedestres que era muito anos 90, então para compensar isso foi permitido atirar nos pedestres.
+* '''[[Driver: Parallel Lines]]''' - Neste jogo a série voltou a ser só sobre dirigir carros na cidade. Mas como a essa altura já existiam GTAs viciantes, esse novo Driver sem carisma foi um grande fracasso.
+* '''[[Driver: San Francisco]]''' - Num último suspiro de desespero em tentar ressuscitar a série que agonizava, os produtores decidiram inserir elementos de possessão demoníaca no enredo do jogo, tornando o jogador um espírito vingativo capaz de possuir o corpo de qualquer motorista de [[San Francisco]]. Por muitos anos foi considerada a ideia mais ridícula da história dos videogames, até criarem [[Goat Simulator]] para desbancar Driver: San Francisco.
+
+=== Portáteis ===
+
+* '''[[Driver 76]]''' - Como qualquer jogo que [[Fallout 76|coloca o número 76]], Driver 76 foi uma grande merda. Lançado para portátil com uma história tão imbecil que decidiram transformar aquilo em spin-off não canônico (como se a série fosse grandes coisas pra precisar de proteção ao cânon).
+* '''[[Driver: Renegade 3D]]''' - Mais um caça-níquel foleiro para PSP que só é bom pra ser jogado enquanto você caga, nesse jogo seu protagonista é contratado por um senador para escrotizar uma cidade inteira. Há uma barra de ódio que enche na medida que você destrói a cidade, possibilitando assim você usar o nitro.
+
+{{Driver}}
+{{Ubisoft}}
+{{Ação-aventura}}
+{{Game Racing}}
+
+[[Categoria:Jogos da Ubisoft]]

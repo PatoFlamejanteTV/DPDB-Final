@@ -1,0 +1,41 @@
+{{imagem}}
+
+{{C|"Oh,poderoso Deus"|Professora de matemática|Euler}} 
+{{C|Noob.|Albert Einstein|Euler}} 
+{{C|Filho da P...|Adolescente do Ginásio|Euler}} 
+{{C|"Na União Soviética, Euler estuda '''você'''!!"|Reversal Russa|Euler}} 
+
+'''Leonhard Paul Euler''' (pronúncia: Leonard Pouóiler), nasceu em uma cidade que você nem conhece então não há necessidade de citar, no dia 15 de abril de 1707. Há quem diga que Euler morreu em setembro de 1783 (O que não é verdade, matemáticos nunca morrem, se tornam [[demônios]]), foi um matemático (nerd punheteiro, sem amigos ou namoradas), que fez muitas contribuições <s>inúteis</s> para a matemática.
+Euler recebeu muitas homenagens, teve sua imagem na nota de dez frangos suíços (ou algo parecido). O asteroide 2002 Euler foi nomeado em seu nome (lógico), e como Euler era um [[crente]] ignorante e fanático, também foi homenageado pela igreja Luterana.
+
+== Constante de Euler ==
+Como Euler era um nerd isolado, e também um grande e admirado vagabundo e emo, trancou-se em seu quarto estudando matemática e desperdiçando sua vida para criar uma constante que ninguém usa, mais uma juventude perdida.
+
+As cem primeiras casas decimais dessa contante:
+γ≈0,577215664901532860606512090082402431042159335939923598805767234884867726'''777'''6646709369470632917467495
+
+
+Repare no "777" ,a constante é aproximadamente "1" e subtraindo 1 de cada algarismo de 777, obtém-se 666, o que revela que Euler na verdade era um membro da {{link falso|SNMS|Seita dos Nerds Matemáticos Satânicos}}. A constante de Euler pode ser condensada desta maneira:
+
+<center><math>\gamma = \lim_{n \rightarrow \infty } \left( 
+\sum_{k=1}^n \frac{1}{k}  - \ln(n) \right)=\int_1^\infty\left({1\over E(x)}-{1\over x}\right)\,dx</math></center>
+
+
+A real intenção desta equação é para ver quem você é, seu futuro ou seu passado, por exemplo:
+Se você entendeu algo você nunca transou, por outro lado se você não entendeu você é um analfabeto e nunca conseguiu transar, logo se você está lendo esse artigo você é virgem.
+
+== Grandes Feitos de Euler ==
+
+O maior feito de Euler foi o símbolo dos [[vegetarianos]]: <font color=green>'''γ'''</font>. Fora isso, Euler nunca fez nada realmente aproveitável.
+
+== Morte ==
+
+Morreu em 18 de Setembro de 1783, em São Petersburgo, vítima de um acidente vascular cerebral causado por uso de drogas enquanto comia a mãe de quem está lendo. Foi enterrado no Mosteiro ''Alexander Nevsky''(Alequissander Neviscai).
+
+{{Matemáticos}}
+
+[[it:Euler]]
+
+[[Categoria:Físicos da Suíça]]
+[[Categoria:Matemáticos da Suíça]]
+[[Categoria:Superdotados]]

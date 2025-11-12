@@ -1,0 +1,92 @@
+{{jogos Antigos}}
+{{game}}
+
+{{Infobox Game|title = Tails and the Music Maker
+|image               = TailsMMUS.jpg
+|caption             = Cartucho do jogo.
+|developer           = [[Sega|Cega]] 
+|publisher           = [[Novo Trade]]
+|released            = [[1994]]
+|genre               = [[Educacional]] ou [[Musical]]
+|rating              = 30%
+|platform            = [[Sega Pico|Pica]]
+|ages                = De 3 a 7 Anos
+}}
+
+{{vqd|Vitrola do Tails?}}
+{{vqd|Amadeus "Miles" Mozart?}}
+{{experimente também|Sinfonia No. 5 de Beethoven}}
+{{c|Só corro pra caralho aqui se tocar em mim!|Sonic|{{PAGENAME}}}}
+{{c|Esses soms me lembram o [[Game Gear|Tijolo Gear]]....|Seguista|{{PAGENAME}}}}
+
+'''Tails and the Music Maker''' é um jogo educacional para o [[Sega Pico|Cega Pica]] feito em 1994 pela [[Sega|Cega]].
+
+==O jogo==
+
+Como o Pica é um console educacional (tirando sua caneta que até mesmo [[Leônidas]] pode gozar), 
+Tails and the Music Maker incentiva as <s>Pirralhadas</s> criançinhas de 3 a 7 Anos a criar músicas, 
+jogar mini-games e até um joguinho de Pinball está disponível.
+Porém, o jogo fala de muitas músicas conhecidas dos [[EUA]], coisa que seria difícil pros 
+Japas e pra alguns Europeus (sim, o Pica nunca foi distribuido no [[Brasil]], por ser caro).
+
+==Páginas==
+
+Assim como outros jogos do Pica, T & MM também tem Storybook ou Storyware.
+O jogo tem 5 páginas de [[Narrador da Sessão da Tarde|pura diversão]].
+
+===Página um===
+
+[[Tails]] está na Green Hill Zone, aonde [[Sonic]] inciou sua primeira aventura ([[Master System]], [[Mega Drive|Merda Drive]] 
+e [[Game Gear|Tijolo Gear]]). Tails está acompanhado de um [[sapo]] e de uma tartaruga. Clicando na Tartaruga, ela dança 
+[[Salsa]] (clique nos cocos para cair em cima dela) e clicando no sapo, você jogará um mini-game tipo [[Dança das Cadeiras]].
+
+===Página dois===
+
+Tails tem uma máquina de [[Pinball]] musical que mistura as duas coisas. Clicando em baixo do PB, você jogará Pinball musical, 
+no qual o objetivo é chegar ao topo.
+Caso você clique nas notas, você irá jogar outro mini-game de não deixar as notas cairem.
+O [[Dr. Robotnik]] já esta dando asas por aqui.
+
+===Página três===
+
+[[Arquivo:TMMTipToe.jpg|left|thumb|Um ovo frito na Green Hill Zone!]]
+
+Chamada de "A grande parede musical", você pode clicar nela e pode jogar [[Breakout]] ([[Arkanoid]] ou [[Riddle of Phytagoras]] para os Ceguistas).
+Cada bloco quebrado, soará uma nota musical.
+Fora o mini-game, você pode clicar na bola de lã e mexer o mais rápido pra soltar uma música.
+Clicando numa janela de vidro, você verá Robotnik de novo.
+
+===Página Quatro===
+
+[[Arquivo:TailsMM Pico.jpg|left|thumb|Tails antes de começar o jogo.]]
+
+Aqui é aonde você irá ampliar seus conhecimentos sobre instrumentos musicais e tocará várias músicas desconhecidas 
+pela maioria da [[Seu Madruga|população]].
+Você pode fazer o [[passáro]] cantar três músicas aleatórias.
+
+===Página Cinco===
+
+[[Arquivo:TailsSonic.jpg|right|thumb|Sonic e Tails na página 5.]]
+
+A ultima página do jogo, finalmente aparece o Sonic, porém, super-horrível.
+Clique e segure para ele dar um Charge em seu Spin Dash e dar um loop.
+Você pode animar o Tails clicando nele. Ele irá voar pra aonde você segurar a caneta.
+Aqui há uma tela pra você desenhar e colar figuras de coisas referentes ao jogo.
+
+===Página Seis===
+
+Uma página secreta, acessada pela página cinco, e não disponível no Storybook.
+É um Sound Test aonde está todas músicas (sem falar que tem um monte delas sendo "Unused"!).
+
+==Ver támbem==
+
+* [[Tails]]
+* [[Sonic the Hedgehog's GameWorld]]
+* [[Sega Pico]]
+* [[Sega]]
+
+{{sonic}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Sega Pico]]
+[[Categoria:Jogos lançados em 1994]]

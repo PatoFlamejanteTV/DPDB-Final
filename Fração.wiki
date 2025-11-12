@@ -1,0 +1,121 @@
+{{logotipo falso|DescicloAula.gif}}
+{{Matemática}}
+{{c|Não seria muito incomodo, dona fração... digo,digo... Vim lhe trazer esse buquê de fração...|[[Mestre Linguiça]]|fração digo,digo.. [[Dona Florinda]]}}
+
+[[Arquivo:Fórmula-matemática.jpg|thumb|270px|Uso da fração em meios desportivos e sociais com a [[Montagem de paint|ajuda de gráficos sofisticados]].]]
+[[Fração]] (vem do [[árabe]] fractal, o nome de um parasita muito chato, que dividia sua vítima em vários pedaços) é uma das subcategorias da matemática que podia [[Acre|não existir]], mas para alegria dos estudantes, existi.
+
+Imagine a conta mais simples do [[planeta]], imaginou? Bem, agora multiplique ela 10<sup>6</sup> e adicione todas as formas de cálculos que se puder imaginar, e [[Meninas Super Poderosas| tudo que não há de bom]] , esses são ingredientes perfeitos para transformar isso: <math>1 + 1 = 2</math> em isso: <math>\frac{x}{35y}^z</math>, ou pior ainda em isso: <math>\frac{3}{2}</math>.
+
+[[Galvão Bueno|Bem amigos]] sendo da rede globo ou não, essa foi uma explicação básica de fração se quiser saber mais <s>vá para o Google</s> continue lendo ou se arrisque [[Wikipédia|aqui]].
+
+== Definição ==
+Fração é tudo aquilo que representa a [[Divisão por zero|divisão de um inteiro]] <s>pela soma do quadrado dos catetos</s> que para a [[ciência]], [[matemática]] e a [[química]] deveria ser dividido em partes iguais, mas boa e bela [[filosofia]] acha a forma de complicar o incomplicável com seus números irracionais, mas não vou gastar seu [[tempo]] com isso, vamos há um exemplo bem [[simples]] de fração:
+
+<math>a_{0} + \frac{1}{ a_{1}+ \frac{1}{ a_{2} \dots \frac{1}{a_{k-1} + \frac{1}{a_{k}}} } }</math>
+
+Antes de explicar o que é isso ou o que é aquilo é preciso saber o que é um numerador e um denominador.
+*'''Numerador''': É o que fica em cima da fração.(Ele gosta dessa posição)
+*'''Denominador''':É o que fica em baixo da fração ele representa o todo da fração.
+
+Para se comunicar é necessário explicar isso em forma extensa o que é muito simples, o numerador é sempre o nome do [[número]] ou [[letra]] que representa, e o denominador é sempre um objeto. Exemplo: <math>\frac{1}{2}</math> uma meia, ou <math>\frac{2}{4}</math> dois quartos.
+
+== Fração em meios geométricos ==
+Veja agora a explicação de um [[professor]] para seu [[Aluno|aluno Joãozinho]], de como funciona esse método:
+
+[[Arquivo:Simbolo radio.jpg|thumb|170px|Fração que equivale a três sextos, também com a utilização para você [[correr pra caralho]].]]
+*'''Professor''':Imagine uma pizza...
+*'''Joãozinho''':De quatro queijos?
+*'''Professor''':Sim de quatro queijos...
+*'''Joãozinho''':Pode ser um bolo?
+*'''Professor''':Sim, agora deixa eu continuar...
+*'''Joãozinho''':Bolo de chocolate?
+*'''Professor''':Pode ser até de merda! Agora deixa eu continuar? Imagine um bolo de chocolate para você e 5 amigos, portanto...
+*'''Joãozinho''':Professoooooooor!!!
+*'''Professor''':O que foi agora, porra?
+*'''Joãzinho''':Nada só queria dizer que você está fazendo um bom trabalho.
+*'''Professor''':Ah meu saco, obrigado. Onde eu estava? Há sim, você e cinco amigos querem um pedaço do bolo, então sua mãe corta o bolo em 6 pedaços iguais, mas uns se lembram que são alérgicos a bolo e no final só 3 comem o bolo, ou seja o inteiro do bolo que é os 6 pedaços fica sendo o denominador, e o numerador foi a quantia que se comeu, a fração então fica sendo <math>\frac{3}{6}</math>.
+*'''Joãzinho''': Aaaaaaaaata, então o bolo era de chocolate ou de limão?
+
+== Histórico do uso de fração na humanidade ==
+O [[primeiro]] registro do uso de fração, foi na era do grande [[faraó]] "[[Tutankhamon]]" (carinhosamente apelidado de "Tutacamão") ele utilizava [[metro]]s para dar áreas de agricultura na região do [[Rio Nilo]], mas quando não se completava um metro era preciso utilizar fração[[Arquivo:Digitalizar00011.jpg|thumb|170px|left|Como os [[Egito|egípcios]] viam a fração na época de Tutacamon.]] isso não era muito preciso, pois na [[época]] um inteiro representava Tutacamão cheia e quando não se completava um metro se chamava Tutacamão cortada, o que acontecia aos agricultores que aravam a [[terra]] muitos realmente cortavam a [[mão]] trabalhando na terra fértil.
+
+Enquanto isso nas [[China|províncias chinesas]] a escassez de [[Mulher|mulheres]] fez com que o [[governo]] tivesse medidas desesperadas, repartiram as mulheres, [[1]] mulher a cada [[3]] [[homem|homens]] usando assim a fração <math>\frac{1}{3}</math>, para deixar todos os chineses satisfeitos.
+
+Já nas épocas de [[Aristóteles]], [[Platão]], [[Marco Aurélio Antonino Augusto|Marco Aurélio]] e outros [[filósofo]]s da antigos sem muita importância, eis que surge [[WTF?|Siphodemos]] um filosofo esquecido pelo tempo e estudos, mas com uma importância incomparável na fração [[Arquivo:Digitalizar00011.jpg|thumb|170px|Como os [[Egito|egípcios]] veem a fração nos tempos de hoje.]] moderna, ele propôs os estudos de frações em [[Hospital|hospitais]] e churrascarias além de querer acrescentar símbolos como: + e - na fração, pôr [[azar]] no final das contas escutaram ele.     
+
+De qualquer forma a utilização de fração foi aperfeiçoada pelo grande matemático e curandeiro [[Jesus Cristo]], ele com apenas [[2]] moedas de [[prata]], comprou um hambúrguer médio e um refri pequeno, utilizou seus dons de matemático e efetuou uma fração que até [[hoje]] inexplicável para ciência e matemática moderna, conseguiu [[divisão|repartir]] um [[Big Mac|hambúrguer médio e um refri pequeno]] para milhares de pessoas, esse foi o primeiro relato em [[latim]] do uso da fração na humanidade.
+
+== Subtração e adição de frações ==
+Quando se há [[Mais|adição]] e [[Menos|subtração]] de fração, tem que se analisar primeiro o denominador se eles forem compatíveis, ótimo [[você]] simplesmente efetua a conta com o numerador e repete o denominador: <math>\frac{1}{2}+\frac{1}{2}=1</math>
+
+Mas se não for compatível é preciso ser feito <s> o exame de [[DNA]]</s> minimo mutilador comum (MMC). Depois de realizado o [[M.M.C]], se faz uma treta muito louca com divisão de denominador, multiplicação numerador, e vuála:<math>\frac{1}{3}+\frac{1}{5}=\frac{5+3}{15}=\frac{8}{15}</math>
+
+== Multiplicação ==
+Você simplesmente multiplica denominador com denominador e numerador com numerador. Exemplo:<math>\frac{1}{1}\times\frac{1}{1}=\frac{1}{1}=1</math>
+
+== Divisão ==
+A regra construída para este tipo de [[cálculo]] é mutiplicar a fração que esta na posição de dividendo pelo [[Inferno|inverso]] da fração que ocupa a posição de divisor.
+
+[[Arquivo:Fracão divi.png|center|300px]]
+
+Parece bem simples, não? Mas como a matemática não é tão simples... Uma [[estratégia]] para interpretarmos  entendermos a [[Pedreiro|construção]] dessa regra é utilizarmos os recursos da [[álgebra]], no que se refere a construção de equações. 
+
+:::::::::::::::::::::<math>\frac{3}{2}:\frac{5}{7}=y</math>
+
+Qual é o resultado de três meios divididos por cinco sétimos?
+
+[[Arquivo:Fração treta.png|thumb|center|2500px|Com a percepção de um [[triângulo]] facilita a utilização do [[Teorema de Pitágoras]].]]
+
+Usaremos então Pitágoras, se pega o quadrado do valor algébrico que vai ser igual a soma do quadrado do divisores:
+
+:::::::::::::::::::::<math>y^2=\frac{9}{4} + \frac{25}{49}</math>
+
+Agora é simplesmente efetuar [[Fórmula de Bhaskara]]:
+
+[[Arquivo:fdttgy.png|center|290px]]
+
+O resultado será: <math>\frac{21}{10}</math>, como? Eu também não sei... mas assim sabemos que o quociente de duas frações é o produto da primeira pelo inverso da segunda.
+
+== Simplificação de fração ==
+Antes de mais nada é necessário saber [[2]] regras básicas para efetuar a [[divisão|simplificação]] de fração:
+
+#Nem sequer tente começar a pensar em fazer uma simplificação se o denominador e o numerador forem [[Primo|primos entre si]], Exemplo básico de o que não fazer: <math>\frac{779}{357}</math>[[Arquivo:Raizde2.jpg|thumb|200px|Pessoa que não efetuou bem o modo de preparo. Se ficar desa forma, é aconselhável deixar ao [[fogo]] por mais [[5]] minutos.]]
+#Se o numerador e o denominador forem iguais, você não simplifica,transforma em um [[inteiro]], exemplo: <math>\frac{2}{2}=1</math>
+
+Agora vamos saber, como simplificar uma fração, você vai precisar de:
+
+*uma fração equivalente.
+
+Modo de preparo:
+
+Segura firme a fração equivalente, mexa bem, divida o denominador e o numerador pôr um número equivalente,<math>\frac{5}{15}=\frac{5:5}{15:5}=\frac{1}{3}</math>  agora coloque no [[Fogo|forno]] durante 15 [[minuto]]s, pronto aí está uma simplificação de fração, pronta para ser degustada, se quiser acrescentar [[sal]] não tem problema algum. '''Aviso:''' Se os sintomas persistirem o [[médico]] deverá ser consultado.
+
+== Tipos de frações ==
+*'''Aparente''': Bem ela aparentemente é uma coisa, mas na realidade é outra. Veja como ela efetua tal proeza [[Camaleão|camuflada de]] fração, mas na verdade é um inteiro: <math>\frac{\infty}{\infty}=1</math>. 
+*'''Própria:'''O denominador é maior que o numerador: <math>\frac{_1}{2}</math>.
+*'''Impropria: '''É quando o numerador é maior que o denominador.<math>\frac{4}{_2}</math>.
+*'''Equivalentes: '''É uma fração bonitinha, [[ou não]], em que você apenas [[Fração#Simplificação de fração|simplificar a fração]], veja um exemplos: <math>\frac{2}{4}=\frac{1}{2}</math>
+*'''Irredutível: '''é o oposto do equivalente, ou seja, ela não reduz de maneira alguma,possuem nenhum parentesco entre numerador e denominador, ou seja primos:<math>\frac{2}{3}</math>.
+*'''Mista:''' É junção entre inteiro e fração, formando assim um [[sanduíche|misto quente]], de onde veio o nome mista, exemplo: <math>1\frac{666}{\infty}</math>
+*'''Unitária:'''Ela é muito comprida e extensa de explicação, então se preparem... possui o [[1|número 1]] como numerador, exemplo: <math>\frac{1}{3}</math> 
+*'''Egípcia:''' Fração egípcia inventada nos [[Estados Unidos|E.U.A]] , é uma junção de frações unitárias formando uma treta muito louca, eu não sei explicar então <s>vou por imagem de gatinhos</s> escreverei duas frações em [[Língua inglesa|Inglês]]. <math>\frac{one}{one}=one</math>,  <math>\frac{two}{four}=\frac{one}{two}</math> [[Arquivo:Brasileiros sao ruins em math.jpg|thumb|170px|Má utilização da fração decimal, pôr um povo em desenvolvimento.]]
+*'''Compostas:''' Me desculpe pela falta de informação da fração egípcia (o que diabos é isso?a Wikipédia?) por esse fato irei explicar direitinho como ocorre as frações compostas. Frações compostas são compostas por uma fração no numerador e uma fração no denominador, exemplo:<math>\frac{\frac{4}{3}}{\frac{2}{1}}</math> ou se preferir <math>\frac{\frac{1}{2}}{\frac{3}{4}}</math>
+*'''Decimal:''' É a fração que possui o [[10|número 10]] ou seus elevados (100, 1000, 10000000000000000000000, e pôr ai vai) no denominador, e desse tipo de fração vem a fração mais conhecida do planeta a porcentagem, exemplo: <math>\frac{100}{100}</math> ou 100% ou 1. 
+*'''Algébrica:''' Eu preferi deixar o pior para o final, são frações que possuem uma incógnita. Vou mostrar esse exemplo para você que deveria ser censurado, o [[terror]] dos alunos da sétima série:<math>\frac{x+2}{x+3}</math>.
+
+== Regras básicas da fração ==
+*Não existe denominador negativo. ([[Ou sim]])
+*A fração é sempre dividida em partes iguais, menos se for efetuada com números irracionais.
+*Nunca efetue fração com [[zero]].
+*Never, never, [[Paulo Never]], eu disse never, estude fração pela [[Wikipédia]] a [[Desciclopédia]] tem informações mais seguras.
+
+== Utilização da fração nos tempos modernos ==
+Quando você está na [[escola]] e se pergunta Pra que isso vai servir na minha vida? Também já me fiz essa pergunta, mas diferente de você encontrei a resposta, varias aliás, lá vão algumas:
+*A fração atualmente é muito útil, pode ser usado para pôr exemplo, limpar a bunda, isso mesmo depois de terminar o serviço e só se encontra uma folha de papel é necessário dividi-la em [[3]] partes iguais para não ocorrer desperdício, além do mais, [[papel higiênico]] tá caro.
+*Para se arranjar trabalho, poucas pessoas sabem, mas se você sabe fração pode pôr em seu currículo, da seguinte forma. Eu sei ler, escrever, fiz até a sétima série e sei um pouco de fração. Então posso ser assistente de pedreiro?
+*Você pode utilizar fração também para sua vida pessoal, conquistando mulheres, chega perto daquela mina em que você está louco faz [[Ânus|anos]], cria coragem e joga uma [[cantada]], Gata, você não é fração aparente, mas na verdade me deixa inteiro. Essa utilização de fração [[não]] é muito eficaz pela [[garota]] responder, Que fofo, mas é só amizade. O que você vai querer utilizar a próxima forma de utilizar fração ou refazer a cantada tornando ela infalível: Gata, quero comer sua bunda inteira ou um terço também está bom.
+*A fração também pode ser utilizada para [[suicídio]]. Você vai para <math>\frac{1}{4}</math> e arranja <math>\frac{1}{2}</math> de ir pra <math>\frac{1}{5}</math> dos infernos, cortando seu pulso em partes iguais ou utilizar <math>2\frac{3}{5}</math> metros da corda para enforcamento.
+*Para comer, exato para dar aquela mordida em sua carne, ou você pode cortá-la em partes iguais ou comer ela inteira e se engasgar...
+
+{{Aritmética}}

@@ -1,0 +1,73 @@
+{{game}}
+
+{{Infobox Série Game
+|title         = Série Gradius
+|image_logo    = Gradius01.gif
+|caption       = tararara-ta-ta-ta...
+|genre         = Jogo de navinha
+|developer     = [[Konami|Cunami]]
+|publisher     = [[Konami|Cunami]]
+|origin        = [[Commodore 64]]
+|first_release = [[Scramble]] (1981)
+|last_release  = [[Otomedius Excellent]] (2011)
+}}
+
+{{C|Navinha é o c*, meu nome é Vic Viper, p*!|Vic Viper|Gradius}}
+
+{{C|Não é o que se usa pra prender passarinho?|Carla Perez|Gradius}}
+
+[[Arquivo:Vic.gif]] '''Gradius''' é uma série de jogos feita pela [[Konami|Cúnami]], a partir de uma descoberta arqueológica contendo registros de uma guerra interestelar.
+
+==História==
+[[Arquivo:Lifeforce.JPG|thumb|right|FORÇA DA VIDA. Hoje, na [[Sessão da Tarde]]!]]
+
+Ui, o temível Dr. Venon, conhecido nos círculos do submundo como Pafúncio, temido por ser mau e ter uma [[Risada Diabólica]], descobriu uma estranha raça de alienígenas conhecidos como Vacterions, que queriam dominar o universo mas não sabiam como. Então ele se aliou aos alienígenas e desenvolveram vários seres bizarros e super foderosos. Espalhando seus tentáculos por todo universo, seria moleza dominar tudo. Mas um espião conhecido como Solid Snakeman Prisskin descobriu todo o plano do malévolo Dr. Pafúncio, então pegou a navezinha que guardava na garagem e partiu pra cima dos alienígenas.
+
+==Emocionante final==
+
+Em TODOS OS GAMES DA SÉRIE, sempre e invariavelmente o final é sempre o mesmo. A nave sai do planeta e o planeta explode. É incrível a originalidade dos finais. Ninguém nunca tinha pensado nisso.
+
+==A navinha==
+
+Snakeman (Jap: Sinaikemanu) deseunvolveu seu super cruzador intergalático, Vik Viper (Jap: Biku Baiperu) para combater qualquer tipo de ameaça à paz no universo. Equipado com canhões de plasma e [[With laser]]s, lança-mísseis, metralhadoras, escudos energéticos, DVD Player, Bancos de couro e o caceta mais, além do temível [[Option]], que possui o poder de te transformar no pior ser do universo, fazendo com que seus inimigos comecem a te caçar feito cão. Se você ousar equipar [[4]] Options de uma só vez, você se torna a escória do universo!
+
+[[Arquivo:Gradius02.png|thumb|right|A navinha do Snakeman]]
+
+==Inimigos==
+
+Durante a saga, você se deparará com os mais bizarros e estranhos seres do universo, como:
+
+* Bolinhas que voam em fileira;
+* Navinhas que pulam;
+* Navinhas que escorregam;
+* Buracos que cospem todo tipo de tranqueira;
+* Larvas voadoras;
+* Moscas, pulgas, carrapatos, percevejos...
+* Cruzadores intergaláticos;
+* Plantas carnívoras;
+* Lagartas gigantes;
+* Estátuas da [[Ilha de Páscoa]];
+* Serpentes de fogo;
+* Montes de entulho flutuantes;
+* Úlceras estomacais;
+* Luzes de discoteca;
+* Olhos voadores;
+* Crstais gigantes;
+* Cérebros com tentáculos;
+* [[Etc]]...
+
+<gallery>
+Imagem:Gradius03.png|'''Enfrentando as cabeçonas'''
+Imagem:Gradius04.jpg|'''Uma lagarta gigante'''
+Imagem:Gradius05.jpg|'''Matando as ''[[Maconha|pranta]]'''''
+Imagem:Gradius06.PNG|'''Vic Viper tentando entrar no meio das pernas da dançarina de [[Chichibinta Rika|Cabaret]]'''
+</gallery>
+
+{{Gradius}}
+{{Konami}}
+{{Shoot 'em up}}
+
+[[Categoria:Jogos da Konami]]
+
+[[ja:グラディウス]]
+[[zh:宇宙巡航舰]]

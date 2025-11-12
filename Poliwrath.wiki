@@ -1,0 +1,65 @@
+{{pokedex}}
+<choose><option>{{agua}}</option>
+<option>{{lutador}}</option></choose>
+
+{{PokéBox
+| imagem = Poliwrath.png
+| tamanho = 190
+| frase = Poliwrath querendo te assassinar.
+| nihongo = ニョロボン
+| romaji = {{exp|Nyorobon|Mentira, ele não é bon.}}
+| pokedex = 062
+| habilidade1 = Inutilidade total
+| habilidade3 = Correr pra Caralho em piscinas.
+| tipo1 = Water
+| tipo2 = Fighting
+| espécie = <center>Sapo azul sem boca com barriga hipnótica
+| cadeia evolutiva = [[Arquivo:PoliwagSprite.gif|link=Poliwag]] [[Arquivo:seta.JPG|30px|link=]] [[Arquivo:PoliwhirlSprite.gif|link=Poliwhirl]] [[Arquivo:seta.JPG|30px|link=]] [[Arquivo:PoliwrathSprite.gif|link=]] ''OU'' [[Arquivo:PolitoedSprite.gif|link=Politoed]]
+}}
+
+{{Você quis dizer|Bola com [[666]] de cabeça pra baixo?}}
+
+{{c|Pokebola vai!|Ash, em uma tentativa ridícula de capturar um [[pokemon]] sem enfraquece-lo}}
+
+[[Arquivo:Poliwrathgif.GIF|left]]'''Poliwrath''' ('''ニョロボン  ''' em japonês) é um [[pokemon]] sapo-malhado do tipo [[Água]]/<s>Pitboy</s> [[Lutador]]. É a evolução do [[Poliwhirl]], para evolui-lo é só dar um pouco de anabolizante e bota-lo numa Poke-Academia que ele evolui.
+
+== Dados ==
+
+Poliwrath parece muito com [[Poliwhirl]], a diferença é que um é malhado e o outro não, ele tem uma barriga branca e nela possui uma espiral, que é a fonte de todo seu poder hipnótico, dependendo do hemisfério no qual ele nasce ela está no sentido horário ou anti-horário; possuí também braços e pernas. Ou seja é exatamente igual um [[Poliwhirl]] só que mais forte.
+
+Tem como o inimigo o [[Politoed]] por pura discriminação racial, ou talvez por esse parecer mais um sapo e ele parecer um ursinho carinhoso. Outro motivo da briga é que para evoluir um [[Poliwhirl]] para um Politoed precisa coroá-lo rei, já o Poliwrath para evoluiu é só ir no mercado mais próximo...
+
+Seus ataques costumam variar muito...tendo vários como por exemplo o "Super Soco", "Hyper Soco", "Soco Lateral", "Soco Rapido", "Soco Violento", "Soco Aéreo", "Soco para Trás" e por ai vai... sua melhor estratégia de batalha é manda-lo socar, quando está frase é dita a batalha já é praticamente ganha. Apesar de que houve relatos de um [[Ash Ketchum|treinador de pokemon]] que ao conseguir um desses emprestados conseguiu perder a luta o mandando chutar.
+
+[[Arquivo:Politoedtromba.jpg|thumb|left|Politoed pegando numa tromba...coisa que um Poliwrath nunca faria...]]
+Segundo a [[pokedex]], este pokemon é nadador, imbecil, violento, forte e <s>des</s>qualificado é capaz até mesmo de atravessar o <s>laguinho de Pallet</s> Oceano Pacífico usando apenas os pés. Embora seja um nadador energético, qualificado e que usa todos os seus músculos, ele vive em terra seca. Costuma espancar [[nerd|idiotas]] que ousem jogar [[pokebola|bolas]] neles.´
+
+É considerado um Pokemon cabra-omi, por isso não gosta entrar em bolas e se amarra em pegar no rabo das Poliwags fêmea, dizem que as fêmeas adoram chupar boquete. Embora ele seja macho, sempre deixa algumas suspeitas, já que ele não possui uma boca, o que faz dos [[Professor Carvalho|pesquisadores]] suspeitaram que ele se alimenta pelo cu, que é por onde se coloca o anabolizante também em forma de supositório, assim como os Pitboys de verdade fazem.
+
+Por não ter autorização de fazer parte do clube da luta por ser um pokemon, ele e mais alguns pokemons criaram seu próprio clube da luta chamado [[Pokemon Stadium]], onde as porradarias rolam soltas, onde você entra pokemon e sai ''fainted''.
+
+== Curiosidade ==
+[[Arquivo:Poliwrathreal.GIF|thumb|Um Poliwrath pronto para quebrar sua cara!]]
+Sabia que...
+
+*Poliwrath é um Poliwhirl mutante por causa da radiação da Pedra da Água ?
+
+*[[Misty]], a líder de Ginásio, capturou recusou evoluir seu [[Poliwhirl]] para um Poliwrath com medo de apanhar dele, ou de seu amigo Ash apanhar dele?
+
+*Todo lutador quer capturar um para parecer mais ''cool''?
+
+*Se usar anabolizante de [[Rapidash]], faça ele evoluir para uma forma muito mais poderosa, tão poderosa que pode fazer um [[Mewtwo]] se ajoelhar para ele?
+
+*Poliwrath costuma comer [[Snorlax]] no café da manhã?
+
+*Já que ele não tem boca é algo bem nojento ver ele comer um [[Snorlax]]?
+
+*Com toda certeza você imaginou a cena acima!?
+
+{{C|Eu tenho boca sim!!! É que ela fica na linha entre o azul do meu corpo e o branco da minha barriga... embaixo dos meus olhos|Poliwrath|coriosidade da boca}}
+
+{{poke1}}
+
+[[ja:ニョロボン]]
+
+[[Categoria:Sapos]]

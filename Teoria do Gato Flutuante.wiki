@@ -1,0 +1,67 @@
+
+{{didyoumean|Leidy Murphy}}
+{{didyoumean|Gato Orbital}}
+{{c|...!!!...|Einstein|Teoria do Gato Flutuante}}
+{{c|Pegue-o Forrest.|Torcida para Forrest Gump sobre o gatinho|Teoria do Gato Flutuante}}
+{{c|Isto non eczi...ooopsssss...aaaaaaaaaaaiiii|Padre Quevedo|Teoria do Gato Flutuante}}
+{{c|Esse gato é meu.|Chuck Norris|Teoria do Gato Flutuante}}
+{{Quote|Filho da puta!|[[Você]], sobre o Nerd que passou em primeiro na FUVEST e formulou a teoria baseado em Murphy }}
+{{Quote|Eu não acredito.|[[Joseph Climber]] (antes de perder a fala)}}
+{{Quote|Eu ac'edi'o.|[[Joseph Climber]]|Teoria do Gato Flutuante}}
+{{Quote|Eu também não|Mamute Pequenino depois de ser empalado por uma lança ao pular com um pão amanteigado amarrado nas costas|Teoria do Gato Flutuante}}
+
+== O Ínicio do Princípio ==
+
+Tudo começou quando Chuck Norris deu um... err. Isso foi bem no ínicio mesmo, mas vamos ao que interessa. Todos nós conhecemos <strike>o famigerado negro e degradado</strike> o conceituado pesquisador Murphy. Segundo a Lei de Murphy, uma lei mais poderosa que a Lei da Gravidez (aquela que diz se você transa com uma <strike>'''''puta'''''</strike> mina virgem ela com certeza engravidará, mesmo que você use camisinha) se algo tem de dar errado dará:
+
+''"Se alguma coisa pode dar errado, dará. E mais, dará errado da pior maneira, no pior momento e de modo que cause o maior dano possível. E se algo pode dar certo , tem grandes chances de dar errado."''
+
+E como você é um viadinho e corno vai dizer que essa lei se aplica a todos menos o Chuck Noiá por ele é etecetera e tal e blá blá blá. Mas voltando ao que interessa, <strike>''o nerd filho da puta''</strike> nosso amigo ultra super inteligente japonês (aquele maldito da frase: "Eu tava dormindo, daí minha mãe: Acorda, acorda,acorda, você ficou em primeiro, né!"). Formulou essa teoria para solucionar os problemas do mundo, ela é baseada em duas leis incontestáveis.
+[[Arquivo:1159587965947.jpg|thumb|{{PAGENAME}} sendo aplicada na prática.]]
+== Teoria do Gato ==
+
+Já dizia Murphy que toda vez que o pentelho filho da puta joga um gato para cima ele nunca caira de costas, sempre cairá com as 4 patas no chão. Não importa a altura, o desgraçado do gatinho sempre cai de pé, ou melhor de quatro.
+
+== Teoria da Bolacha ==
+
+Segundo Murphy, sabemos também que toda vez que uma bolacha, ou pão, com manteiga de um lado cai no chão cairá com a parte da manteiga virada pro tapete.
+
+''O seu pão sempre cairá com o lado da manteiga virado para baixo.''
+Então temos aí duas grandes teorias que se unificadas podem resolver a equação do sentido da vida:
+
+== Teoria do Gato Flutuante [TGF] ==
+
+Certo dia, um jovem nerd, resolveu passar manteiga nas costas do gato e jogá-lo para cima, para ver qual das duas leis acima era falsa. O que aconteceu? Pela primeira lei o gato não pode cair de costas; e realmente não caiu. Mas pela segunda lei, o lado da manteiga deveria cair no chão, mas não poderia porque eram as costas do gato. Nosso gatinho até hoje vaga orbitando a Terra, pois ele não pode nem descer aos chão com as quatro patas nem cair de costas.
+
+Aqui esta a equação que comprova que a lei é perfeitamente real:(Esta equação foi fundamentada e descoberta por Elvis)
+
+O peso da manteiga (Mp/kg) tem que estar em equilibrio com a força de empuxo exercida pelas patas na hora da queda do gato (I (ja tem seu valor definido que é 0,35m/s), e isto deve estar em equilibrio com o peso do gato(pg), e deve-se calcular igualmente o fator gravidade para que as forças magnéticas das patas e manteiga entrem em equilibrio (g=9,8).
+então temos que: 
+                                                  Mp.g=I.pg
+
+EX: quanto de manteiga em gramas temos que colocar nas costas de um gato que tem massa de 3kg para ele ficar em equilibrio flutuante, sendo g=9,8?
+
+Descobrimos então o peso do gato: 
+                            pg=m.g  
+                            pg=3.9,8  
+                            pg= 29,4N
+Então:
+
+                           0,35.29,4=10,29N/m/s
+                           Mp.g=10,29 
+                           Mp.9,8=10,29
+                           Mp=10,29/9,8
+                           Mp=1,05N/m/s
+Portanto: 
+                           1,05=M.9,8
+                           M=1,05/9,8
+                           M=0,107kg
+                           0,107.1000=107g
+
+por tanto coloca-se 107g de manteiga nas costas do gato.
+
+Então de acordo com isso, deve-se levar em conta que o equilibrio entre a manteiga e o gato deve existir para que a flutuação perfeita aconteça, senão ele realmente ira cair lateralmente.
+
+
+[[Categoria:Teorias|Gatoflutuante]]
+[[Categoria:Gatos]]

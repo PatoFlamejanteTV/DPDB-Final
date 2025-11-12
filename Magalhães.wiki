@@ -1,0 +1,63 @@
+{{c|Dá pra ver gajas?|Um aluno do segundo ano|receber um Magalhães}}
+{{c|Roda o Football Manager 2009?|Um aluno do sexto ano|receber um Magalhães XL}}
+{{c|Foda-se, roda o [[Super Tux]], é o suficiente|Toda pessoa que recebeu um Magalhães|as capacidades do Magalhães}}
+{{c|É um computador fixe, consigo rodar [[GTA V]] em 4K a 90FPS no máximo|Chuck Norris|Magalhães 2}}
+
+O Magalhães foi um portátil português de baixo custo de produção, produzido com o contexto de ser utilizado dentro das salas de aula (spoiler: nunca o era), além de ser um instrumento de propaganda (e mais tarde, o motivo da queda) do governo de [[José Sócrates]].
+
+==Especificações técnicas==
+*Processadores: [[Intel Celeron|Incel Celenton]] de 900mHz na primeira fase, [[Intel Atom|Incel Asco]] de 1,6KHz na segunda fase.
+*Memória de rã: 1GB DDR-2
+*Memória gráfica: [[Risada diabólica|HAHAHAHAHAHAHAHAHAHAHA]]
+*Sistema operativo: Duplo arranque: [[Windows XP]] e [[Linux]] ‘’Caixa Mágica’’. O arranque duplo dava-se pelo fato de que nenhum dos dois sistemas era 100% confiável, apresentando falhas frequentes.
+*Disco rígido: PATO de 1.8” com capacidade de 30GB, os quais 29 eram ocupados pelos programas já instalados de fábrica. Capacidade aumentada para 160GB na segunda versão e 250GB na terceira versão.
+*Ecrã: TFT de 8,9”, resolução máxima de 320x240 a 4 bits. TFT de 10.1” e resolução máxima de 640x480 a 8 bits na segunda versão. TFT de 11.6” e resolução de 800x600 a 16 bits na terceira versão.
+*Webcam: 0,3 pixel.
+*Sistema de áudio: Audio Codec 79, com um baixo-falante e um microfone endemoniado.
+*Interfaces:
+**Duas portas USB (três a partir da segunda versão)
+**Uma porta de ethernet
+**Um slot de leitura e gravação de cartões SD
+**Wi-Fi que nunca funcionava direito
+*Bateria: De íon de lixo de 3 ou 4 cédulas.
+**Autonomia: Entre 3 e 4 minutos, se tiveres sorte.
+*Entrada para cartão 1G a partir da segunda versão.
+*Entrada para cabo VGA a partir da segunda versão
+*Peso: 1,4 microgramas (1,38mg na terceira versão)
+
+Software incluído:
+*Windows XD ([[Windows 7]] a partir da segunda versão
+**Microsoft Office 95 (PT: Escritório do Microsoft 95) (versão de demonstração)
+**[[Desciclopédia]]
+**Avast, com atualizações de 30 em 30 dias sempre durante as horas mais inapropriadas da noite para que a vinheta de atualização acordasse todos os seres vivos em um raio de cinco quilómetros quadrados do dispositivo. A partir da segunda versão, o software foi substituído pelo antivírus inútil da Microsoft.
+**Software de controle parental ou estatal
+*[[GNU]]/Linux: Distribuição Linux ''Caixa Trágica''
+**OpenOffice
+**[[Mozilla Firefox]]
+**Um programa de atividades lúdicas e educativas que mais servia para fazer a criança desaprender a falar português, pois foi [[dublagens portuguesas|traduzida]] via [[Google Translate]] por um [[avec]] que só vai a Portugal para passar Agosto no [[Algarve]].
+**Um kit de software com programas chamados ‘’Programando o Aluno’’, que constituía de uma série de artigos de propaganda a favor do governo de Sócrates, ''Eu Não Sei'', software de treinamento para respostas a perguntas sobre casos de corrupção dentro do mesmo governo, ''Uma cidade do caralho'', um plágio de [[SimCity]] onde o jogador era o líder da oposição na câmara municipal e tinha que prevenir que o presidente da CM fizesse qualquer coisa, e uma versão preliminar do [[Netflix]] onde se podia acessar a todos os episódios de [[Dragon Ball Z]] e das [[Navegantes da Lua]].
+**Super Tux, o único software relevante.
+==Outras versões==
+O Magalhães também foi vendido diretamente para o público nas versões ‘’60 Minutos’’, nomeada por causa do tempo médio de utilização que o computador suportava sem sobreaquecer, e a versão ‘’Desiludir Portugal’’. Apesar de existirem versões “2” e “XL”, elas não chegaram a substituir o Magalhães original.
+[[Arquivo:censura-magalhaes2.jpg|thumb|Um teste de usabilidade que prova que sim, dá pra ver gajas num Magalhães]]
+==Exportação==
+O Magalhães seria originalmente exportado para [[Macau]], mas esbarrou nas exigências dos consumidores locais de um teclado chinês. Contudo, o governo português encontrou um parceiro de negócios na [[Venezuela]], onde mais de 500 mil exemplares do computador foram compradas pelos venezuelanos em troca de petróleo, emigrantes e gajas boas. Exemplares do Magalhães chegaram à [[Bolívia]], possivelmente de segunda mão.
+
+==Influência==
+Mesmo com pouco tempo de comercialização e vendido em apenas dois países, o Magalhães ditou tendências no mercado dos portáteis, como a ausência do drive de disco, o número ímpar de entradas USB, o leitor de cartões SD ou o fato de que sua produção e adoção em larga escala foi utilizada como esquema de enriquecimento de amigos do governo.
+Cientistas da [[Universidade de Coimbra]] usaram um Magalhães XL para simular mil anos no [[Football Manager]] 2018, chegando à conclusão de que a maldição de Béla Guttmann deverá acabar por volta de 2866, quando o Benfica vencerá a [[Liga Europa]] após a [[Sétima Guerra Mundial]] varrer do mapa todos os grandes centros urbanos europeus localizados a norte de [[Roma]], em uma final de [[Liga Conferência da UEFA|Liga Conferência]] contra o Olympiakos, na qual o clube grego entrou em campo com mais portugueses que o Benfica. No mesmo save, o Rio Ave tornou-se a força dominante da Europa graças à interferência de [[Tó Madeira]] IV, vencendo treze vezes seguidas a Liga NOS e seis vezes a Liga dos Campeões, enquanto o Porto seria rebaixado ao Campeonato de Portugal após a morte súbita de seu presidente Jorge Nuno Pinto da Costa Neto.
+
+== Futuro ==
+
+O Ministério da Educação de Portugal anunciou uma licitação para o desenvolvimento de um ''Magalhães III'', cujas especificações mínimas seriam as seguintes:
+
+*Processador Intel i7 10700 ou AMD Ryzen 4700H com no mínimo seis núcleos
+*Ao menos 16GB de memória RAM a no mínimo 3000MHz
+*Placa de vídeo dedicada NVidia RTX
+*Teclado mecânico
+
+A proposta foi chumbada devido a uma campanha do [[Bloco de Esquerda]], que reprovou o fato de que a iluminação era apenas feita por LEDs brancos, o que caracterizaria-se como racismo e homofobia.
+
+{{Gatofedorento}}
+{{Portal3|Portugal}}
+[[Categoria:Invenções de Portugal]]

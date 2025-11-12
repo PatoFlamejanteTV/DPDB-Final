@@ -1,0 +1,48 @@
+{{pokedex}}
+{{lutador}}
+
+{{PokéBox
+| imagem = Primeape anime.png
+| frase = Macaco ou porco? Porco ou macaco?
+| tamanho = 220
+| pokedex = 057
+| tipo1 = Fighting
+| tipo2 = 
+| nihongo = オコリザル
+| romaji = Okorizaru
+| habilidade1 = Ficar irritado pra [[caralho]]
+| espécie = <center>Babuino redondo e raivoso (um macaco que vive em savanas e montanhas e sempre estar puto... só pode ser um babuino)
+| cadeia evolutiva = [[Arquivo:MankeySprite.gif|link=Mankey|Mankey]]{{seta}}[[Arquivo:PrimeapeSprite.gif|link=Primeape|Primeape]]{{seta}}[[Arquivo:1010MS.png|60px|link=Annihilape|Annihilape]]
+}}
+{{Você quis dizer|Primeiro}}
+{{C|Saia rolando e dê um [[especial de porrada]] Primeape!!!|Estratégia de combate muito eficaz para um Primeape}}
+
+[[Arquivo:PrimeapeSprite.gif|left]] '''Primeape''' é o [[pokémon]] #57 da primeira geração. Uma versão um pouco mais crescida de um [[Mankey]], e também mais [[Bernardinho|estressadinha]]. Alguns acreditam mesmo que ele seja um macaco, mas a sua aparência um [[sua mãe|pouco rechonchuda]], põe a crer que na verdade o Primeape seja uma bola de pêlos enraivada, algo do tipo [[Taz Mania]].
+
+Ao conseguir atingir o [[Dragon Ball Super|Instinto Superior]] via a sua raiva e socar 20 coisas utilizando seu golpe especial, Rage Fist, Primeape fica tão pistola que morre no processo, virando [[Annihilape|um macaco cabeludo cinza e drogado]].
+
+== Características ==
+
+[[Arquivo:Primeape.jpg|right|260px|thumb|Primeape é um pokémon estressado demais.]]
+[[Arquivo:Primeape2.jpg|left|260px|thumb|Um Primeape ladrão de carrinhos de cachorro-quente.]]
+
+Primeape é um pokémon lutador, afinal está sempre estressado e adora descontar o stress socando a fuça dos outros, especialmente quem o confunde com um Mankey um pouco maior. Para um Primeape lutar com toda a sua força, seu treinador não pode deixá-lo ser [[vagabundo|preguiçoso]]; em vez disso, o Primeape deve ser explorado incansavelmente, lutar com [[42]] pokémons todos os dias, incluindo fins de semana e dias de [[Evento de Anime]], assim o Primeape ficará bem estressado e poderá usar suas melhores técnicas. Só que a exploração do stress pode ter um grave efeito colateral para o treinador, que é o próprio treinador servir de [[Seiya|relaxante]] para o stress do seu Primeape. Para facilitar o uso do Especial de Porrada, os Primeapes desenvolveram luvas de boxe naturais, que não precisam ser remendadas a cada dois dias como luvas comuns.
+
+Um Primeape pode ser encontrado em regiões mais isoladas do globo, sempre em localizações posteriores ao ginásio de pedra, fazendo com que os treinadores [[noob]]s tenham de capturar [[Mankey]]s para passar o tal ginásio. Como aproximadamente 99% desses Mankeys são descartados depois de derrotarem todo o ginásio de pedra, pouquíssimos chegam a evoluir para Primeape; provavelmente o 1% restante só permaneceu no grupo até evoluir e adicionar mais um dado à pokédex de seu amado treinador, sendo finalmente despachado para o meio do mato. Esses Primeapes renegados costumam aparecer de vez em quando, mas são poucos os que se interessam por ele, já que existem lutadores mais interessantes e menos nervosinhos. Se um treinador pegar um Primeape selvagem, talvez ele apenas queira adicioná-lo à sua pokédex e soltá-lo outra vez, ou então é louco o bastante para criar um pokémon estressado.
+
+Se [[você]] decidiu ficar com seu Primeape em vez de procurar um lutador melhor, é porque acredita muito nesse pokémon, quer fazer diferente dos outros ou então é fraco demais para conseguir outro pokémon. Enfim, Primeapes lutam melhor quando estão em fúria, então o melhor é aprimorar golpes que aproveitam o seu grau de stress, tornando-o o maior medo daqueles que o desafiarem ([[ou não]]). É muito importante seu Primeape sofrer o primeiro ataque, pois certamente um legítimo Primeape não aceita perder nem ser atacado, e isso portanto aumenta ainda mais o seu stress e consequentemente o poder de destruição de seu contra-ataque. Xingar a mãe dele também ajuda, mas aí quem vai se dar muito mal é você, dã. No [[anime]], o ilustre perdedor [[Ash Ketchum]] até que tentou manter um Primeape consigo, mas tomou tanto especial de porrada que o melhor foi descartá-lo mesmo, já que Primeapes também se estressam ainda mais com treinadores amadores.
+
+== Curiosidades ==
+
+* Primeape é tão estressado que está sempre com um nervo exposto na cabeça.
+
+* É difícil diferenciar um Mankey e um Primeape de longe, e ainda mais difícil saber se Primeape é um porco ou um macaco ou outra coisa. Talvez ele seja um babuíno, pois a pokedex diz que ele vive em savanas.
+
+== Veja Também ==
+
+*[[Annihilape]], sua evolução.
+*[[Darmanitan]] e [[Passimian]], outros macacos estressados.
+
+{{poke1}}
+
+[[Categoria:Macacos]]

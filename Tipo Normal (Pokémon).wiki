@@ -1,0 +1,30 @@
+{{inutil}}
+O '''tipo normal de Pokémon''' é o tipo mais inútil de todos para se dar a um pokémon. Este tipo foi inventado exclusivamente para se dar aos pokémons que parecem tanto com bichos de verdade que não dá pra botar nenhum outro tipo neles. também acabou sendo usado pra dar àqueles pokémons kawaiis que as gurias retardadas tanto amam (se bem que à essa hora, o tipo fada já roubou esse posto sem nem precisar tentar). Não possuem nenhuma habilidade competitiva e talvez a única qualidade dos pokémons normais, é que eles não acreditam em fantasmas, <s>porque eles são muito mentirosos</s> e por isso são imunes a seus ataques <s>mesmo com os fantasmas também não sendo tocados pelos ataques deles</s>.
+
+Os ataques normais são tão fodidos que nenhum pokémon é fraco contra eles, sendo que na verdade, pokémons de pedra e de metal [[Capitão Sarcasmo|vão se machucar muito se forem atingidos por ataques normais]]. O mérito de alguns pokémons como a [[Miltank]] e o [[Pidgeot]] só vem dos ataques de outros tipos que aprendem a usar. De tão sem graça que é o tipo, alguns como o [[Ditto]], o [[Kecleon]] e o [[Silvally]] já traíram o movimento de vez e se tornaram verdadeiras caixinhas de surpresas. A maioria deles também não gosta de se misturar com a gentalha, digo, com outros tipos, embora acabem usando ataques deles pra não ficarem tão inúteis nas batalhas.
+
+Exemplos de pokémons normais incluem o [[Chansey|pokémon preferido da Enfermeira Joy]], [[Aipom|o pokémon que adora roubar o boné do Ash]] e [[Snorlax|o pokémon parente do Faustão]]. Como pode ver, não existe nenhum pokémon normal que seja útil, apenas a Chansey que é usada em batalhas competitivas porque ela tem mais vidas que o [[Arceus]] e um [[gato]] combinados, muito embora a coitada ainda seja brutalmente massacrada pelos lutadores malvados que existem hoje em dia como o [[Conkeldurr]].
+
+Um exemplo de personagem disposta a treinar o tipo normal mesmo sabendo da sua inutilidade é a [[Whitney]]. Como treinadora de pokémons normais, ela sabe que não tem poder pra derrotar ninguém, mas mesmo assim ela fica putinha quando a derrotam. Pra não dizer que esses treinadores são completamente inúteis, tem um ou outro desse tipo que consegue ser fodão, como o [[Norman]] e a [[Lenora]].
+
+Os pokémons do tipo normal só não sofrem tanto [[bullying]] quanto outros tipos fodidos como gelo e inseto porque mesmo sem ter praticamente nenhuma vantagem, eles também tem poucas fraquezas, com os metidos a machões do tipo lutador sendo os únicos a lhe dar dano super-efetivo. Por causa disso, alguns pokémons normais podem até fazer milagre acontecer nas batalhas se tiverem stats bons o suficiente (quem aqui lembrou do Snorlax tocando o terror nas primeiras gerações?).Isso só prova a vocação do Normal como o tipo café-com-leite do jogo!
+
+==Ofensivamente==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|'''<font color=#8B0000>Resistem aos seus ataques:</font>'''||'''<font color=green>São fracos aos seus ataques:</font>'''||'''<font color=#8B0000>São imunes aos seus ataques:</font>'''
+|-
+|[[Arquivo:Pedra6.jpg|100px|link=Tipo Rocha (Pokémon)|Pedra]] [[Arquivo:Robô.png|100px|link=Tipo Aço (Pokémon)|Aço]]|| [[Arquivo:Tumbleweed01.gif|100px|Merda nenhuma]]||[[Arquivo:Ghost tosco.jpg|100px|link=Tipo Fantasma (Pokémon)|Fantasma]]
+|}
+
+==Defensivamente==
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|'''<font color=green>Resistem aos seguintes tipos:</font>'''||'''<font color=#8B0000>São fracos aos seguintes tipos:'''</font>||'''<font color=green>São imunes aos seguintes tipos:</font>'''
+|-
+|[[Arquivo:Tumbleweed01.gif|100px|Merda nenhuma]]||[[Arquivo:Lutador de boxe.png|100px|link=Tipo Lutador (Pokémon)|Lutador]]||[[Arquivo:Ghost tosco.jpg|100px|link=Tipo Fantasma (Pokémon)|Fantasma]]
+|}
+
+== Curiosidades ==
+*Muitos pokémons com sangue de galinha são mistos com o tipo normal, não se sabe o porquê disso, já que o tipo normal faz eles ficarem menos resistente às [[Seu Madruga|pancadas que a vida dá]].
+*O tipo normal é o tipo com menos relações {{neutro|não-neutras}} com outros tipos, com apenas 4: Contra pokémons de heavy metal, de rock'n roll, pokémons  que já bateram  as botas e pokémons macho-man.
+
+{{TiposPokémon|tipo=Normal}}

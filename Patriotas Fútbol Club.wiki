@@ -1,0 +1,50 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = maroon
+|brasao            = Escudo do Patriotas.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{COL}}''' - [[Tunja]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem, porque lá todo mundo é chato.
+|sede              = [[Tunja]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Colombiano de Futebol]]
+|divisao           = 
+|títulos           = 
+|ranking           = 999999999999999
+}}
+
+'''Patriotas Fútbol Club''' o clube que prova que a altitude de Tunja é só para os fortes, mas também para os apaixonados por jogar na altitude! esse time luta pra ficar no meio da tabela com a mesma energia de uma corrida em alta altitude.
+
+== História ==
+=== O Início: Capítulo 1 - "Nascidos na Altitude" ===
+Fundado em 2003, o Patriotas FC começou sua trajetória na histórica cidade de Tunja, onde a altitude deixa qualquer um sem fôlego, mas a paixão pelo futebol mantém todos acesos. Imagina só: um grupo de amantes do esporte decidiu que era hora de a cidade ter um representante à altura (literalmente) dos melhores times do país. E assim, com muita determinação e uma boa dose de coragem, nasceu o Patriotas FC.
+
+=== Primeiros Passos: Capítulo 2 - "Patriotas em Formação" ===
+Nos primeiros anos, o Patriotas FC jogava nas divisões inferiores do futebol colombiano, como um jovem cadete aprendendo a marchar. Os jogadores, muitos deles talentos locais, mostravam sua habilidade e determinação, enquanto a torcida começava a se formar, com a mesma energia vibrante das festas tradicionais de Tunja.
+
+=== A Ascensão: Capítulo 3 - "Subindo como um Condor" ===
+Com muito esforço e dedicação, o Patriotas FC conquistou seu espaço na primeira divisão colombiana em 2011. A cidade de Tunja entrou em festa, e cada jogo se tornou um evento imperdível. A torcida, com orgulho, acompanhava o time, como se fosse um desfile cívico, com os jogadores desfilando suas habilidades no campo.
+ 
+=== A Torcida: Capítulo 4 - "Los Patriotas Leales" ===
+A torcida do Patriotas FC, conhecida como "Los Patriotas Leales", é um espetáculo à parte. Com bandeiras vermelhas e brancas, tambores e uma energia contagiante, eles transformam cada jogo em uma verdadeira celebração. É como se cada partida fosse uma parada militar, com torcedores prontos para apoiar seu time com fervor e patriotismo.
+
+=== Momentos de Brilho: Capítulo 5 - "Brilhando nas Alturas" ===
+O Patriotas FC teve momentos de grande brilho, incluindo campanhas notáveis na primeira divisão e participações em torneios internacionais. O time mostrou que, mesmo sendo de uma cidade menor e enfrentando a altitude, podia competir de igual para igual com os grandes clubes. Cada vitória era comemorada com a mesma intensidade de uma vitória histórica, trazendo alegria para os torcedores.
+
+=== Desafios e Lutas: Capítulo 6 - "Marchando em Terreno Acidentado" ===
+Manter-se competitivo não foi tarefa fácil. O Patriotas FC enfrentou muitos desafios ao longo dos anos, incluindo dificuldades financeiras e lutas para permanecer na primeira divisão. Mas, assim como os habitantes de Tunja que enfrentam a altitude e o frio diário, o time nunca desistiu de lutar, sempre buscando melhorar e alcançar novos patamares.
+{{Campeonato Colombiano}}
+
+[[Categoria:Times de futebol da Colômbia|Patriotas]]

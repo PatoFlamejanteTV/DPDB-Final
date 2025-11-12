@@ -1,0 +1,61 @@
+{{Matemática}}
+[[Arquivo:abstract square.jpg|250px|thumb|Isso é um círculo, quem disser que não está vesgo]]
+
+{{c|O círculo é redondo|[[Você]] em um momento inteligente}}
+{{c|Imagina, o círculo nããããããão é redondo|[[Capitão Sarcasmo]]|citação acima}}
+{{c|Concordo com você|[[Carla Perez]]|Capitão Sarcasmo}}
+
+Na [[matemática]] <s>do inferno</s> da [[escola]], um '''círculo''' é um conjunto de área total 
+interna de uma circunferência. Para os mais burros (leia-se: Não-[[nerd]]s) e pessoas comuns como [[qualquer um]], é uma linha redonda. Só. Eu podia explicar que o círculo é uma linhazinha redonda desde o começo, mas é divertido observar [[idiota]]s quebrando a cabeça para compreender uma explicação "científica" (leia-se: Complicada).
+
+Na Matemática, um círculo ou disco é o conjunto  dos pontos internos de uma circunferência. Por vezes, também se chama círculo ao conjunto de pontos cuja distância ao centro é menor ou igual a um dado valor (ao qual chamamos raio).
+
+A área A' de um círculo pode ser expressa matematicamente por:
+
+    A = \pi \times r^2
+
+onde r é o raio da circunferência e π (Pi) uma constante.
+
+1º Demonstração:
+
+Considere-se uma sucessão de polígonos regulares inscritos na circunferência. A área de cada um desses polígonos é dada por S = p.a , onde p é o semi-perímetro do polígono e a é o seu apótema. À medida que o número de lados do polígono aumenta, p converge para a metade do comprimento da circunferência (πR) e a converge para o raio (R). Assim S converge para πR.R=πR2. Por outro lado, à medida que o número de lados do polígono cresce, a sua área converge para a área do círculo. Conclui-se assim que a área do círculo é πR2.
+
+2º Demonstração:
+
+Seja f uma semi-circunferência tal que
+
+    f(x) = \sqrt{R^2-x^2} 
+
+Para calcular a área de um círculo, basta que calculemos a área abaixo do gráfico de uma semi-circunferência e dobremo-la. Portanto, basta calcular a integral definida:
+
+    F(x) = \int_{a}^{x} f(t^2) dt 
+
+uma circunferência em \mathbb{R}^2
+
+    x2 + y2 = R2 
+
+ISSO QUE É UM CIRCULO PORRA
+
+==Coisas do círculo==
+[[Arquivo:circulo.jpg|250px|thumb|Isso não é um círculo]]
+
+Um círculo comum possui:
+
+*Raio: Uma descarga elétrica vinda dos céus quando [[Deus]] está puto com a derrota do seu time de [[futebol]], o que isso tem a ver com o círculo, [[ninguém]] sabe
+*<math>pi</math>: Pi, ou bip, é o som que [[censura]] um palvrão pronunciado por uma pessoa na televisão. Foi inventado por [[Thomas Edison]] para enganar as criancinhas, pelo menos até elas fazerem [[12]] anos de idade, ou menos. Sua função no círculo ninguém sabe.
+*Circunferência: Seu nome parece com círculo, mas ninguém sabe o que é.
+
+Aqui provamos que o círculo tem um monte de negócios desconhecidos pelas pessoas comuns.
+
+==Como fazer um círculo==
+Primeiro, pegue um lápis ou caneta e toque ele no papel, depois, vá girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando, girando até tocar no ponto inicial.
+ 
+
+==O que saber isso ajudará na minha vida==
+
+[[Arquivo:Tumbleweed.gif]]
+
+Simplesmente isso não serve para nda porque é algo inventado na escola para atormentar a [[vida]] dos alunos.
+
+{{formasgeometricas}}
+[[Categoria:Figuras geométricas]]

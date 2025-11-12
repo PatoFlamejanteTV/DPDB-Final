@@ -1,0 +1,34 @@
+{{compactar|
+{{traduzir|Microleve PoderPonto}}
+{{vqd|LibreOffice Impress}}
+}}
+
+O '''Microsoft PowerPoint''' é um programa muito utilizado nos meios acadêmicos e empresariais, e que dispõe das mais variadas opções de transformar a sua apresentação em um completo desastre. Há quem diga que por conta disso esse seja o mais maligno programa do [[Microsoft Office]], pois é cientificamente comprovado que é impossível que um usuário deste programa resista em colocar um efeito bem tosco de transição de slides, ou ainda coloque um desenho feio pra burro do clip-art, mas explicaremos isto melhor ao decorrer deste artigo.
+[[Arquivo:Estuprador procurado.jpg|right|thumb|Power point na luta contra pedófilos]]
+==Os Slides==
+====O 1º Slide====
+O programa dispõe, ao abrir, de um pequeno retângulo branco no canto inferior direito que se tornará o primeiro slide. Todos nós sabemos que todos adoram fazer uma megaprodução artística no primeiro slide, pois como diz o ditado ''"A primeira impressão é a que fica"'', e aí não importa qual for o assunto que será abordado, o primeiro slide será bombardeado de [[arte abstrata]], com aqueles rabiscos coloridos que provavelmente perdurarão como moldura nos próximos slides. Para deixar a coisa ainda mais [[carnaval|carnavalesca]], o WordArt entra em cena, que irá surgir no primeiro slide saltitando, rodopiando ou chegando todo picotado durante a animação. Geralmente as pessoas mais corajosas, ou melhor, as que não tem um pingo de vergonha sequer tem a coragem de colocarem os seus nomes no meio daquela farra toda, com o estranho objetivo de anunciarem quem são os responsáveis por aquele primeiro slide de fazer desmaiar quem tiver vergonha alheia.
+
+====Slides Seguintes====
+Depende daí por diante, mas podemos encontrar certos padrões de slide:
+
+*'''Slide com um milhão de animações e efeitos pirotécnicos:''' Muito mais comum em apresentações do Ensino Fundamental, pois alguém mais velho que isso só pode ser um retardado mesmo. É difícil de saber qual a mensagem que esse tipo de slide passa, pois as pessoas que as assistem sempre ficam atordoadas com tantos rodopios, imagem aparecendo e letras saltitando na tela. Podemos ter certeza de que os [[autor|autores]] dessa desgraça ficaram mais tempo enfiando esses enfeites inúteis que de fato preocupados em fazer o trabalho que foi pedido;
+
+*'''Slide com textos enormes:''' Um slide é relativamente pequeno, mas se você lotar todas as suas linhas com um texto com o tamanho de linha menor que 8, você o verá como algo enorme e maçante. Geralmente eles servem para que aqueles apresentadores que apenas copiaram o conteúdo da [[Internet]] apenas as leiam, tratando a sua plateia como um bando de [[analfabeto]]s ignorantes;
+
+*'''Slide puramente visual:''' São perfeitos para dar impressão de que há mais slides porque os seus criadores espertalhões "trabalharam mais". É preferível infinitamente que haja fotos ao invés de desenhos fazendo as ilustrações, salvo se for alguma representação aparentemente bem elaborada. O ruim é quando as fotos vem através de animações, cheios de todas aquelas firulas já citadas;
+
+*'''Slide com vídeo:''' Um tanto quanto raros, mas não tão vexatórios como os demais, isso se o cara não cometer a bobeira de pegar um vídeo errado e sabe se lá [[pornô|o que vai aparecer]]!
+
+*'''Slide final:''' Se você quer se dar muito bem com uma apresentação, ou quer ao menos evitar que seja uma completa desgraça, jamais, eu repito, JAMAIS coloque um slide no final dizendo "Fim", pelo simples fato de que vem embutido em todos os slides desse programa maldito uma tela preta no final com o anúncio do fim dos slides, portanto não cometa essa atrocidade em hipótese alguma, muito menos enfie mais um animação maldita ou algum efeito sonoro de aplausos, pois o que você vai ganhar merecidamente serão vaias da plateia, [[italiano|capito]]?;
+
+==Crise==
+O PowerPoint sempre foi sinônimo de credibilidade, até que um belo dia o procurador [[Deltan Dallagnol]] utilizou uma apresentação de slides feita por ele mesmo como se fosse capaz de dar a <s>prova</s> convicção máxima de que o ex-presidente [[Luiz Inácio Lula da Silva]] cometeu crimes. Como Deltran foi alvo de piadinhas ninguém mais quis usar o PowerPoint e desde então as pessoas passaram a usar o aplicativo Prezi para fazer suas apresentações de slides.
+
+{{microsoft}}
+
+[[en:PowerPoint]]
+[[es:Power Point]]
+
+[[Categoria:Suítes de programas de escritório]]
+[[Categoria:Aplicativos do Windows|powerpoint]]

@@ -1,0 +1,115 @@
+{{ex-melhores}}
+{{Modelo 03
+|borda_cor = black
+|fundo_cor = ghostwhite
+|fonte = georgia
+|fonte_titulo_cor = green
+|fonte_texto_cor = gray
+|titulo = Este artigo foi escrito por engano (e você também o está lendo por engano)
+|texto = Mas não se preocupe, você e o autor são inocentes até que se prove o contrário
+}}
+{{vqd|[[Vandalismo]]}}
+{{experimente|Bloqueio de IP vândalo por engano}}
+
+----------
+<div align="center"><span style="font-family: Verdana; font-size: 8 pt; color: #009900;  letter-spacing: 6;  font-weight:  bold">O CONTEÚDO ABAIXO NÃO É NENHUM POUQUINHO SÉRIO!{{carece de fontes}}</span>
+<br><span><small>Não tentem fazer isso em casa, crianças</small></span></div>
+----------
+
+{{desentrevista|Removedor de páginas por engano}}
+
+A '''remoção acidental de conteúdo de páginas''' acontece quando um IP chega <s>do meio do [[inferno]] pra nos perturbar</s> e clica acidentalmente no botão editar, seleciona acidentalmente todo texto do artigo, clica acidentalmente nos botões [[delete]] ou [[backspace]] e clica acidentalmente no botão salvar. Na época em que havia [[captcha]] na Desciclopédia, o IP também o preenchia, acidentalmente fazendo um cálculo [[matemática|matemático]]<ref>Levando em consideração o nível dos indivíduos que perdem o tempo de vandalizar (acidentalmente) a Desciclopédia, é bem provável que os mesmos não saibam como efetuar contas como 2+1. Nesse caso, pressupõe-se que os mesmo utilizaram acidentalmente uma calculadora para efetuar o calculo, prevalecendo de uma forma ou outra o pressuposto de que o individuo é inocente até que se prove o contrário.</ref>, e dava [[Enter]] acidentalmente no captcha, sendo que atualmente ele preenche acidentalmente um pequeno sumário de justificativa de edição geralmente como as palavras acidentais de "tá tudo errado".
+
+Há um processo semelhante que é quando o IP desinformado e [[filho da puta|inocente]] clica no editar de cada seção, seleciona acidentalmente todo o texto da seção, clica acidentalmente no botão delete ou backspace e clica acidentalmente no botão salvar e repete acidentalmente o processo em todas as outras seções do artigo até que não sobre nada <s>ou pelo menos nada que coincidentemente ofenda sua bandinha ou cidade preferida</s>.
+
+==Processo de julgamento==
+[[Arquivo:ChutePolnes.jpg|thumb|<s>Exemplo de direito de responder em liberdade concedido ao praticante da remoção acidentalmente de conteúdo de páginas.</s> Moderador Malvado sendo punido por ter bloqueado IP "[[FDP|inocente]]".]]
+É claro, seguindo o principio do artigo 5º da Constituição, em seu inciso [[24]], paragrafo único, esse IP é presumido inocente até que se prove o contrário. E em atenção também à lei 9504/97 do [[horário eleitoral]] gratuito e de qualidade, <s>ele tem o direito a apelação, e de redigir as suas últimas palavras por no mínimo 3 segundos até que o Moderador Malvado realize o bloqueio</s> ele tem direito a um advogado, se não puder pagar um, a [[Desciclomedia|Fundação Desciclomedia]] <s>não</s> pagará um.
+
+E nunca never [[Vandalização predefinitória|Paulo Never]] jamais será banido até que ele receba pelo menos uns 1734726461267347126363 avisos e até que o [[moderador bonzinho]] possa apresentar a defesa do mesmo, o [[Moderador Malvado]] apresente a acusação e que um juiz ou assembléia constituinte decida por meio de uma votação de 14 dias se o mesmo é culpado ou não.
+
+Se for decidido por sua culpa, ele deve receber o bloqueio não superior a 2 horas, 59 minutos e 59 segundos. Nesse caso cabe ainda recurso no Supremo de Justiça Desportiva Desciclopediana. E se for constatado o uso, por parte do Moderador Malvado, de termos ou expressões nada educadas para com o <s>[[vândalo]]</s> IP, o administrador perderá sumariamente seu ganha-pão e será aberta sindicância para foder com todos os possíveis envolvidos, inclusive os [[desciclopes|membros da Assembléia]] que votaram a favor do bloqueio.
+
+==Como funciona o processo de decisão do tempo de bloqueio que será recebido pelo IP==
+[[Arquivo:Chute campanha.jpg|thumb|Campanha chute um Moderador Malvado babaca que fica bloqueando os caras só porque apagaram acidentalmente o conteúdo do artigo]]
+*Remoção acidental de todo conteúdo da página.
+:Tempo de bloqueio: 24 segundos.
+:Reincidência: acréscimo de 3 segundos ao tempo de bloqueio.
+
+*Remoção acidental de todo conteúdo da página e adição de xingamentos a usuários.
+:Tempo de bloqueio: 24,5 segundos.
+:Reincidência: acréscimo de 3,789 segundos ao tempo de bloqueio.
+
+*Remoção acidental de todo conteúdo da página e adição de "Chuck Norris é foda".
+:Tempo de bloqueio: 5 segundos.
+:Reincidência: acréscimo de 0,5 segundo ao tempo de bloqueio.
+
+*Remoção acidental de todo conteúdo da página e adição de qualquer outra coisa.
+:Tempo de bloqueio: 23,5 segundos.
+:Reincidência: acréscimo de 2,9 segundos ao tempo de bloqueio.
+
+==Os psicólogos explicando o problema==
+Já dizia Pinky Froide nos primordios: todo comportamento anômalo humano pode ser explicado pela psicologia. Então por que não a remoção acidental de conteúdo de páginas da Desciclopédia?
+
+Pois bem, segundo [[Doutor Roberto]], pai mestre da [[sociologia]] psicanalítica e professor particular de [[Froide]], tudo na verdade se trata de um problema de esquizofrenia involuntária que afeta as pessoas que por ventura tentem vandalizar os artigos. Isso porque, jamais ninguém iria querer vandalizar um site que faz um humor de tamanha qualidade que jamais ofende ou denigre a imagem de qualquer pessoa<ref>Nós reconhecemos que somos fodas e que o Brasil todo nos ama.</ref>. E portanto, o que vale é a intenção e portanto ninguém deve ser culpado e nunca never jamais ninguém deve ser bloqueado.
+
+==Os economistas explicando o problema==
+[[Arquivo:Chute_coluna.jpg|thumb|IP <s>vândalo</s> 201.Ma.dru.ga recebendo um chute da administradora malvada Dona Florinda após vandalizar <big>'''acidentalmente'''</big> o artigo [[Quico]] com um beliscão.]]
+As teorias de [[Adam Smith]] também eram precisas ao dizer que deficiências no mercado podem causar problemas internos que causam aumentos involuntários na demanda de vandalismo acidentais em sites de humor em forma de wiki cujos os nomes comecem com o prefixo descicl.
+
+E [[David Ricardo]] juntamente com o dono das [[Casas Bahia]] já teorizava que a redução de preços de computadores levou a uma inclusão digital, e a inclusão digital levou ao aumento de ingorantios que pela sua inocente ingorancias vandalizam o site acidentalmente. E essas vandalizações são culpa do mercado e portanto o vândalo não deve ser punido.
+
+Vejamos também as afirmações de [[Klaus Marx]], o economista chefe, presidente do [[Banco Central]] da Republica Democrática Desciclopédia S/A:
+
+{{c|Essa questão de tempo de bloqueio não se discute pois as preferências dos administradores são dadas.}}
+
+{{c|A mão invisível do mercado ajustará automaticamente a demanda de vandalismo e a oferta de bloqueios para o valor de equilíbrio do mercado: hoje estando em torno de 2 semanas}}
+
+{{c|Não sendo necessária nenhuma interferência <s>de adevogados</s> do governo para influenciar o equilíbrio do mercado que é o valor de eficiência máxima}}
+
+{{c|Cotas e impostos de <s>preços</s> tempo de bloqueio diminuem a eficiência do mercado de bloqueios}}
+
+
+==Os oculistas explicando o problema==
+[[Arquivo:Uma torta para Jaiminho.JPG|thumb|300px|Movimento de usuários contra a moderadora Dona Florinda que fica banindo os vândalos que vandalizam acidentalmente <s>a Desciclopédia</s> a Vila do Chaves. Movimento organizado pelos "'''D'''evotos '''N'''acionais dos '''V'''ândalos '''R'''emovedores", pelo "'''A'''poio a '''P'''áginas da '''D'''esciclopédia '''F'''odidas (apagadas)" e pela "'''U'''nião dos '''T'''ratados de '''P'''áginas '''J'''isgramados".]]
+Tudo na verdade, pode se tratar também de um engano causado por problemas de visão, a pessoa pode simplesmente não ter visto o que fez. Imagine só a quantidade de cegos que não vandalizam acidentalmente a Desciclopédia diariamente ao esbarrarem no computador e apertarem a combinação de teclas aleatoriamente que causam uma remoção acidental do conteúdo das páginas? E nós estamos permitindo o bloqueio desses pobres cegos inocentes por moderadores malvados!! Simplesmente um absurdo! <s>Greve de fome já!</s>
+
+E para explicar com mais detalhes a questão, nós pedimos a ajuda dos nossos especialista no assunto, os vendedores da rede de óticas [[Meu pau de óculos|Meu Pau de Óculos]], eis o que eles disseram:
+
+{{C|Para branquear um artigo por engano só se tiver [[catarata]]}}
+
+{{C|Existe tanta pressão sobre um [[Moderador Malvado]] bloqueador de IPs por engano que se fossemos um globo ocular teríamos de usar colírio contra [[glaucoma]]}}
+
+{{C|Tenho visto muitos aqui mandando os  vândalos tomar na [[foveóla]]  do [[olho]]<ref>Foveóla do olho: é a bunda do seu olho, ou  seja, o olho do cu</ref> de seus respectivos ânus}}
+
+{{C|O tempo de bloqueio de um IP deve ser dado pela [[Equação de Schwinger-Dyson]], onde F é função do número de caracteres apagados e...<ref>Essa, na verdade, é a explicação de um nerd</ref>}}
+
+==O doutores devogados de direito explicando o problema==
+Esqueça todas explicações acima! Nenhuma tem valor legal e são todas anti-constitucionais. Tudo se resume, na verdade, à explicação do direito, ela é a terceira e última instância e a que realmente vale, então veja a explicação dada por nosso Exmoº advogado o qual não podemos citar o nome <s>para não cometermos o crime de [[Humor Privado]]</s> porque ele se reserva o direito de ter seu direito de nome preservado e processará você se tentar revelar:
+
+{{c|O cara não é culpado porque você não provou que ele é culpado e ponto final ([[paradoxo|seguido antes]] de uma palavra em latim misturada com grego, aramaico e ''Va de retro!'').}}
+
+==Exemplo de remoção de conteúdo de páginas acidental==
+
+*IP Filho da Puta (disc | contribs) (Removido todo o conteúdo da página)
+*Moderador Malvado (disc | contribs) (Foram revertidas as edições de IP Filho da Puta (disc) para a última versão por Moderador Malvado)
+*IP Filho da Puta (disc | contribs) (Removido todo o conteúdo da página novamente)
+*Moderador Malvado (disc | contribs) (Foram revertidas as edições de IP Filho da Puta (disc) para a última versão por Moderador Malvado)
+*(Registro de bloqueio) Moderador Malvado (disc | contribs) "IP Filho da Puta (disc)" foi bloqueado com um tempo de expiração de 2 semanas (apenas usuários anônimos, criação de contas desabilitada) (Removeu conteúdo de página(s))
+*(Registro de bloqueio) Moderador bonzinho (disc | contribs) "IP Filho da Puta (disc)" foi desbloqueado (Que absurdo!)
+*(Registro de bloqueio) Moderador bonzinho (disc | contribs) "Moderador Malvado (disc)" foi bloqueado com um tempo de expiração de indefinido (apenas usuários anônimos, criação de contas desabilitada) (Malvado, maltrata <s>vândalos</s> novatos)
+*Burrocrata "bonzinho" (disc | contribs) foi alterado o grupo de acesso de Moderador Malvado (de Administradores para (nenhum)) (Malvado, maltrata <s>vândalos</s> novatos. Sem direito a responder em liberdade)
+*IP Filho da Puta (disc | contribs) (Removido todo o conteúdo da página novamente)
+*Moderador bonzinho (disc | contribs) (Foram revertidas as edições de IP Filho da Puta (disc) para a última versão por Moderador Malvado)
+*Usuário Discussão:IP Filho da Puta (Nova página: <nowiki>{{adv}}</nowiki> Por favor não remova conteúdos de páginas ;) [[Moderador bonzinho|<nowiki>~~~~</nowiki>]]) 
+*IP Filho da Puta (disc | contribs) (Removido todo o conteúdo da página novamente)
+*IP Filho da Puta (disc | contribs) (Removido todo o conteúdo da página novamente)
+*Registro de criação de contas:Vândalo FDP que vai acabar com a DP (disc | contribs)
+*Vândalo FDP que vai acabar com a DP (disc | contibs) (Removido todo o conteúdo da página novamente)
+*Burrocrata "bonzinho" (disc | contribs) foi alterado o grupo de acesso de Vândalo FDP que vai acabar com a DP  (de (nenhum) para Administradores)(faz um bom trabalho!)
+
+[[Arquivo:dona florinda banindo seu madruga.png|thumb|center|950px|Um outro exemplo de remoção de conteúdo de páginas por engano.]]
+
+{{ref-section|Notas e observações (escritas acidentalmente)}}
+
+{{vandalismo}}

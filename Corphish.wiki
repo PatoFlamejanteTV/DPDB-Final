@@ -1,0 +1,44 @@
+{{PokéBox
+| imagem = Corphish.png
+| tamanho = 200
+| frase = {{C|Ash, por mais que você implore, nunca irei evoluir!}}
+| tipo1 = Water
+| tipo2 = 
+| pokedex = 341
+| nihongo = ヘイガニ
+| romaji = Heigani
+| espécie = [[Seu Sirigueijo]] em versão pokémon
+| cadeia evolutiva = [[Arquivo:Corphishsprite.gif|link=Corphish|Corphish]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:Crawdauntsprite.gif|link=Crawdaunt|Crawdaunt]]
+}}
+{{artropode}}
+{{água}}
+{{vqd|Lagosta}}
+{{c|Muito estranho|Você|Corphish}}
+{{c|Eu tenho!|Ash Ketchum|Corphish}}
+{{C|Aí que lindo essa lagostinha!!!!|Misty|Corphish}}
+{{c|Pika?|Pikachu|Corphish}}
+{{c|Meu Amigo!|Snorunt|Corphish}}
+{{c|E meu também!|Swellow|Corphish}}
+[[Arquivo:Corphish sprite.png]] '''Corphish''' é um [[Pokémon|pokémon]] que parece com uma lagosta ([[ou não]]).
+
+== Dados ==
+[[Arquivo:0097.jpg|thumb|right|Corphish do [[Ash Ketchum|Ash]].]]
+Corphish é nada menos que um artópode que vive no mar e costumam aparecer nas praias para tomar um [[sol]]. Alguns Corphishs vivem em conchas e geralmente preferem ficar debaixo da areia, o fato é que o Corphish não gosta de humanos e usa suas duas garras como se fosse sua defesa. O seu maior rival seria um [[Pokémon|pokémon]] siri chamado [[Kingler]] que vive brigando com o Corphish para roubar a concha dele. O Corphish prefere comer algumas algas que são encontrados no [[oceano]] e muitos pescadores adoram pescar esse [[Pokémon|pokémon]], tanto é que o Corphish está perto de ser ameaçado a extinção por causa da pesca proibida. A evolução de um Corphish qualquer seria um [[Pokémon|pokémon]] que possui uma estrela na sua cabeça chamado [[Crawdaunt]] que é conhecido como o ''Rei dos Crustáceos''.
+
+== Aparições ==
+[[Arquivo:Spr 3e 341 s.gif|thumb|left|Corphish shinny.]]
+Um Corphish estava com muita fome depois que perdeu sua querida família e resolveu tentar roubar o [[Ash Ketchum|Ash]] pegando os alimentos. Mas o [[Ash Ketchum|Ash]] ficou muito nervoso que resolveu desafiar o Corphish para uma luta e pediu ajuda ao ratinho elétrico chamado [[Pikachu]] que deu um choque poderoso e o Corphish ficou desmaiado e teve que parar no hospital. Depois dessa confusão o Corphish resolve tornar amiguinho do [[Ash Ketchum|Ash]] e acaba sendo o [[Pokémon|pokémon]] custáceo mais foderoso de todos, tanto é que ele conseguiu derrotar uma [[tartaruga]] quente chamado [[Torkoal]] e depois de algum tempo o [[Ash Ketchum|Ash]] resolve abandonar o seu Corphish que acabou indo para o [[oceano]] para formar sua família.
+
+== Ataques ==
+*'''Bolhas''': Corphish dispara bolhas amareladas nas suas garras.
+*'''Garra Dura''': Corphish usa suas garras para atacar o seus inimigos.
+
+== Galeria ==
+<gallery>
+Arquivo:Ash's Corphish.jpg|Corphish bravo <s>com seu macho</s>
+Arquivo:Corphish28ea.gif|O ataque do Corphish
+</gallery>
+
+{{Poke3}}
+
+[[Categoria:Lagostins]]

@@ -1,0 +1,19 @@
+{{Matemática}}
+[[Arquivo:Festa quadrilátero.jpg|thumb|Acho que alguém se enganou por aqui.]]
+
+'''Retângulo''' é um tipo de [[paralelogramo]] no qual todos os quatro ângulos são [[ângulo reto|ângulos <s>ânus</s> retos]], mas não necessariamente todos os quatro [[lado (geometria)|lados]] são do mesmo [[comprimento]], senão iria ser um [[quadrado]] (que não deixa de ser um retângulo se for parar pra pensar, mas é um tipo qualquer de retângulo que existe sozinho por si só). E, obviamente, como qualquer [[quadrilátero]], só tem quatro lados e quatro ângulos, mas isso já fica óbvio logo que alguém vê um retângulo.
+
+== Características básicas ==
+
+Um retângulo, repetindo, é um tipo de paralelogramo em que todos os [[ângulo]]s têm o mesmo tamanho, ou seja, 90°. Se partido no meio de uma [[vértice]] superior pra uma inferior ([[diagonal]]), sempre formará dois [[triângulo retângulo|triângulos retângulos]] de mesmo tamanho e com a mesma [[hipotenusa]]. Por convenção, coloca-se sempre a base do dito cujo como o lado maior e o lado menor como a altura, mas claro que sempre tem o professor de [[geometria]] filho da puta que decide voluntariamente mudar essas convenções na hora de fazer fórmulas para resolver quem é o dito cujo ou o tamanho de um deles.
+
+== Fórmulas ==
+
+*[[Perímetro]]: Painho é igual a 2 vezes o [[adição|amorzinho]] de Amanda com Benjamin;
+*[[Área]] ou [[superfície]]: [[A]] grandão é igual a a menorzinho vezes o b;
+*Comprimento das diagonais: Daniel é igual à [[raiz quadrada]] do resultado da soma dos quadrados de Amanda e de Benjamin (ou seja, a fórmula também conhecida como [[teorema de Pitágoras]], só que disfarçado, igual os [[Mamonas Assassinas]] ensinavam pra [[Arlinda]]: "a soma dos quadrados dos [[cateto]]s é igual à PORRA DA HIPOTENUSA!"
+
+Sim, essas fórmulas aí são uma homenagem àquelas fórmulas dementes e nonsenses que professores tentam ensinar pra gente na escola, e no fim é mais fácil decorar só as letras mesmo que essas pocilgas aí.
+
+{{formasgeometricas}}
+[[Categoria:Figuras geométricas]]

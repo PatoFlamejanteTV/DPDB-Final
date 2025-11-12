@@ -1,0 +1,203 @@
+{{logotipo_falso|DBZ.png|160|top=120|left=190}}
+<div style="clear:both;background-color: #FFFFCD; border: 2px solid #CD0000; padding: 5px 5px 5px 5px;" class"noprint"><div align="center">'''{{vde|Bom|#CD0000}}'''<font size="+1" color="#FFFFCD">[[Arquivo:Esfera.gif|30px]]|||'''''[[Dragon Ball|<span style="color: #CD0000">Tabela Periódica do Dragon Ball</span>]]||||'''''[[Arquivo:Esfera.gif|30px]]</font></div>
+----
+{| id="tabela_periodica" style="width:100%;text-align:center" 
+|-	
+| style="width:44px;" |&nbsp;
+| style="width:44px;" |'''[[1|<span style="color:black">1</span>]]'''
+| style="width:44px;" |'''[[2|<span style="color:black">2</span>]]'''
+| style="width:44px;" |'''[[3|<span style="color:black">3</span>]]'''
+| style="width:48px;" |'''[[4|<span style="color:black">4</span>]]'''
+| style="width:44px;" |'''[[5|<span style="color:black">5</span>]]'''
+| style="width:44px;" |'''[[6|<span style="color:black">6</span>]]'''
+| style="width:44px;" |'''[[7|<span style="color:black">7</span>]]'''
+| style="width:48px;" |'''[[8|<span style="color:black">8</span>]]'''
+| style="width:44px;" |'''[[9|<span style="color:black">9</span>]]'''
+| style="width:44px;" |'''[[10|<span style="color:black">10</span>]]'''
+| style="width:44px;" |'''[[11|<span style="color:black">11</span>]]'''
+| style="width:44px;" |'''[[12|<span style="color:black">12</span>]]'''
+| style="width:44px;" |'''[[13|<span style="color:black">13</span>]]'''
+| style="width:44px;" |'''[[24|<span style="color:black">24</span>]]'''
+| style="width:48px;" |'''[[42|<span style="color:black">42</span>]]'''
+| style="width:48px;" |'''[[51|<span style="color:black">51</span>]]'''
+| style="width:44px;" |'''[[69|<span style="color:black">69</span>]]'''
+| style="width:48px;" |'''[[Infinito|<span style="color:black">∞</span>]]'''
+|-
+|'''1'''
+|style="background-color:#DCDCDC;border:1px solid black;"|[[Goku|G]] 
+|colspan="16"|<br />
+|style="background-color:#ffcc77;border:1px solid black;"|[[Broly|By]]
+|-
+|'''2'''
+|style="background-color:#FF7777;border:1px solid black;"|[[Mestre Kame|Mk]]
+|style="background-color:#FFF95D;border:1px solid black;"|[[Andróide 13|A13]]
+|colspan="10"|<br />
+|style="background-color:#8470FF;border:1px solid black;"|[[Yajirobe|Ya]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Vegeta|V]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Yamcha|Y]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Kuririn|Ku]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Gohan|Go]]
+|style="background-color:#ffcc77;border:1px solid black;"|[[Freeza|Fr]]
+|-
+|'''3'''
+|style="background-color:#FF7777;border:1px solid black;"|[[Mestre Karin|Ka]]
+|style="background-color:#FFF95D;border:1px solid black;"|[[Andróide 14|A14]]
+|colspan="10"|<br />
+|style="background-color:#8470FF;border:1px solid black;"|[[Rei Cutelo|Rct]]
+|style="background-color:#8470FF;border:1px solid black;"|[[Oolong|Oo]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Trunks|Tr]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Ten Shin Han|Tsh]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Goten|Gt]]
+|style="background-color:#ffcc77;border:1px solid black;"|[[Garlick Jr.|Grc]]  
+|-
+|'''4'''
+|style="background-color:#FF7777;border:1px solid black;"|[[Kami Sama|Ks]]
+|style="background-color:#FFF95D;border:1px solid black;"|[[Andróide 15|A15]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Lord Slug|LSg]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Rei Cold|RC]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Rildo|R]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Dabura|Da]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Babidi|Ba]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Raditz|Rz]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Nappa|N]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Ginyu|Gy]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Jess|Jss]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Botter|Btt]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Tao Paipai|Tpp]]
+|style="background-color:#8470FF;border:1px solid black;"|[[Dendê|DD]] 
+|style="background-color:#8470FF;border:1px solid black;"|[[Bulma|Bl]]   
+|style="background-color:#d0dfff;border:1px solid black;"|[[Pan (Dragon Ball)|P]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Piccolo|Pic]]
+|style="background-color:#ffcc77;border:1px solid black;"|[[Cell|Cl]]
+|-
+|'''5'''
+|style="background-color:#FF7777;border:1px solid black;"|[[Enma Daioh (Dragonball)|Ema]]
+|style="background-color:#FFF95D;border:1px solid black;"|[[Andróide 16|A16]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Pilaf (Dragon Ball)|Pi]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Janemba|Jb]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Turles|T]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Tamborin|Tb]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Dodoria|Do]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Gurdo|Gu]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Reecom|Re]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Bojack|Bk]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Zarbon|Z]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Saibaiman|Sai]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Spopovitch|St]] 
+|style="background-color:#afffa0;border:1px solid black;"|[[Cell Jr.|CJr]]
+|style="background-color:#8470FF;border:1px solid black;"|[[Pual|Pu]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Uub]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Chaos (Dragon Ball)|Cha]]
+|style="background-color:#ffcc77;border:1px solid black;"|[[Majin Boo|Boo]]
+|-
+|'''6'''
+|style="background-color:#FF7777;border:1px solid black;"|[[Senhor Kaio|SrK]]
+|style="background-color:#FFF95D;border:1px solid black;"|[[Andróide 17|A17]]
+|style="background-color:#affda0;border:1px solid black;"|[[Gurumes|Grm]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Kiyi|Ki]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Dr. Wheelo|DW]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Hirudegarn|Hdn]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Yakon|Yn]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Paragus|Pag]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Hachihyaku|Hch]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Akkuman|A]]  
+|style="background-color:#afffa0;border:1px solid black;"|[[Mestre Tsuru|MT]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Pui Pui|PP]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Appule|Ap]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Lúcifer (Dragon Ball)|Lú]] 
+|style="background-color:#afffa0;border:1px solid black;"|[[Piccolo Daimaoh|PiD]]  
+|style="background-color:#8470FF;border:1px solid black;"|[[Chichi|C]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Goku Jr.|Gj]]
+|style="background-color:#ffcc77;border:1px solid black;"|[[Baby (Dragon Ball)|Bb]]
+|-
+|'''7'''
+|style="background-color:#FF7777;border:1px solid black;"|[[Supremo Senhor Kaio|SK]]
+|style="background-color:#FFF95D;border:1px solid black;"|[[Andróide 18|A18]]
+|style="background-color:#008000;border:1px solid black;"|<font color=purple>*</font><!--Não altere isso aqui!-->
+|style="background-color:#afffa0;border:1px solid black;"|[[Chii Shenlong|Chi]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Yamu|Yam]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Cymbal|Cy]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Ryan Shenlong|Rya]]
+|style="background-color:#afffa0;border:1px solid black;"|[[San Shenlong|San]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Chefe Coelho|ChC]] 
+|style="background-color:#afffa0;border:1px solid black;"|[[Mai|M]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Ryuu Shenlong|RyS]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Zangya|Za]] 
+|style="background-color:#afffa0;border:1px solid black;"|[[Uh Shenlong|UhS]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Abo|Abo]]  
+|style="background-color:#afffa0;border:1px solid black;"|[[Kado|Ka]] 
+|style="background-color:#8470FF;border:1px solid black;"|[[Sr. Popo|SrP]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Vegeta Jr.|Vj]]
+|style="background-color:#ffcc77;border:1px solid black;"|[[Cooler |Cr]]
+|-
+|'''∞'''
+|style="background-color:#FF7777;border:1px solid black;"|[[Antigo Kaiohshin|AKs]]
+|style="background-color:#FFF95D;border:1px solid black;"|[[Andróide 19|A19]]
+|style="background-color:#9ACD32;border:1px solid black;"|<font color=purple>**</font>
+|style="background-color:#afffa0;border:1px solid black;"|[[Luud|Ld]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Bido|B]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Mustard|Md]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Doore|D]]  
+|style="background-color:#afffa0;border:1px solid black;"|[[Princesa Serpente|PSr]] 
+|style="background-color:#afffa0;border:1px solid black;"|[[Dracula Man|DM]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Shu]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Salza|Sa]]  
+|style="background-color:#afffa0;border:1px solid black;"|[[Hoy|H]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Sr. Suke|SSk]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Robô Pirata|RP]]
+|style="background-color:#afffa0;border:1px solid black;"|[[Múmia (Dragon Ball)|MM]]
+|style="background-color:#8470FF;border:1px solid black;"|[[Videl|Vi]]
+|style="background-color:#d0dfff;border:1px solid black;"|[[Mr.Satan|Ms]]
+|style="background-color:#ffcc77;border:1px solid black;"|[[Li Shenlong|LiS]]
+|-
+|colspan="21"|<br />
+|-
+|colspan="4" style="text-align:right"|<font color=purple>*</font> <small>'''Série da Red Ribbon'''</small>
+|style="background-color:#008000;border:1px solid black;"|[[General Blue|Blu]]
+|style="background-color:#008000;border:1px solid black;"|[[Comandante Red|Red]]
+|style="background-color:#008000;border:1px solid black;"|[[Conselheiro Black|Bla]]
+|style="background-color:#008000;border:1px solid black;"|[[Dr. Maki Gero|MG]]
+|style="background-color:#008000;border:1px solid black;"|[[Ninja Púrpura|NPr]]
+|style="background-color:#008000;border:1px solid black;"|[[Coronel Violeta|CVt]]
+|style="background-color:#008000;border:1px solid black;"|[[Capitão Silver|Sil]]
+|style="background-color:#008000;border:1px solid black;"|[[Capitão Yellow|CY]]
+|style="background-color:#008000;border:1px solid black;"|[[Sargento Metálico|SMt]]
+|style="background-color:#008000;border:1px solid black;"|[[General Copper|Cop]]
+|style="background-color:#008000;border:1px solid black;"|[[*]]
+|style="background-color:#008000;border:1px solid black;"|[[Buyon|Buy]]
+|style="background-color:#008000;border:1px solid black;"|[[Doutor Frappe|Df]]
+|style="background-color:#008000;border:1px solid black;"|[[Andróide 8|A8]]
+|style="background-color:#008000;border:1px solid black;"|[[Hasky|Ahk]]
+|-
+|colspan="4" style="text-align:right"|<font color=purple>**</font> <small>'''Série de Técnicas'''</small>
+|style="background-color:#9ACD32;border:1px solid black;"|[[Fusão (técnica)|F]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Kame Hame Ha|Kmh]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Kaioken|K]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Kikoho|Kk]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Destructor Disc|Dd]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Macacô-Sapô|Ms]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Ataque Big-Bang|Bb]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Roga-Fufu-Ken|Rfk]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Dodonpa|Dtp]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Final Flash|FFsh]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Taiyouken|Tyk]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Soco do Dragão|SDg]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Masenko|Msk]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Big Bang Kamehameha|BbK]]
+|style="background-color:#9ACD32;border:1px solid black;"|[[Genki Dama|GD]]
+|}
+</div>
+
+==Interpretação da tabela==
+
+* Em '''<font color="gray">cinza</font>''': o cara q tem o poder de ser protagonista.
+* Em '''<font color="red">vermelho</font>''': pessoas que ensinam a arte da luta de espadas.
+* Em '''<font color="green">verde</font>''': Vilões de merda.
+* Em '''<font color="blue">Azul</font>''': personagens que não fazem a minima importancia.
+* Em '''<font color="#00BFFF">Azul Claro</font>''': personagens que seguem o protagonista.
+* Em '''<font color="#e0d000">Amarelo</font>''': Androides, inimigos dos iphones.
+* Em '''<font color="orange">Laranja</font>''': Os chamados Vilões fodões.
+{{Dragonball}}
+
+[[Categoria:Dragon Ball]]
+[[Categoria:Tabelas periódicas]]

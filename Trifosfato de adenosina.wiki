@@ -1,0 +1,76 @@
+<center>
+{| cellpadding="5"
+|-
+| [[Arquivo:Disambug.png|30px|left]]
+| ''' Putz, que desconfusão...'''<br/><small>Será que você não estava procurando pela [[Associação dos Tenistas Profissionais|Associação dos Miguxinhos do Guga]]?</small>
+|}
+{{ver desambiguação|ATP|ATP}}
+</center>
+
+{{Quimica}}<br>
+{{Biologia}}<br>
+{{Info/Subst|       
+|imagem            =ATP.png
+|tamanho           =300px
+|nome_IUPAC        =3-fosfato-desoxirribose-adenina
+|mafagafo          =Aumenta a força 
+|alucinogeno       =Potencializa efeitos
+|comestivel        =Sim
+|pizza             =Sim
+|fórmula_química   =C<sub>10</sub>H<sub>16</sub>O<sub>13</sub>N<sub>5</sub>P<sub>3</sub>
+|peso_molecular    =507
+|sinonimos         =Adenosina Trifosfato;<br>Trifosfato de Adenosina;<br>ATP; 
+|densidade         =1,72
+|ponto_de_fusão    =8
+|ponto_de_ebulição =213
+|solubilidade      =115 
+|poder_de_queima   =Pouco inflamável 
+|metabolismo       =Celular
+|meia_vida         =0,62 segundo
+|excreção          =Mitocondrial
+|grau_de_toxicidade=Médio baixo ([[ou não]])
+|}}
+
+{{Você quis dizer|[[TPM]]?}}
+{{Experimente|[[Biotônico Fontoura]]}}
+{{c|Molécula importantíssima.|Bioquímico|ATP}}
+{{c|...|[[Doutor Roberto]]|ATP}}
+{{c|Trifos o quê?|Alunos em geral|ATP}}
+
+'''Trifosfato de adenosina''', também conhecido por '''ATP''', '''adenosina tri-fosfato''', '''adenosina trifosfato''', '''adenosina tetrafosfato''' (no [[Brasil]], a partir de 1994; na [[Itália]], a partir de 2006), '''adenosina pentafosfato''' (no Brasil, a partir de 2002)<ref>Na [[Argentina]] continuará '''adenosina bifosfato''' para sempre.</ref> é uma importante <s>([[ou não]])</s> biomolécula responsável por guardar a energia produzida pelas mitocôndrias durante o processo de queima do que é comido pelas usinas situadas dentro das células.
+
+== Estrutura química ==
+
+Como já se percebe (ou [[você]] já deveria ter percebido), a molécula de ATP é composta por grupos fosfato (aquele mesmo que tem no seu refrigerante) grudados [[11|um atrás do outro]] e grudados ao nucleosídeo adenosina (o que não é nada de importante). As ligações entre os fosfatos guardam a tão preciosa energia que será usada para fazer [[você]] fazer as [[merda]]s que faz todo o dia, mesmo sem se dar conta.
+
+== Papel Biológico ==
+[[Arquivo:Scientist.jpg|120px|thumb|left|Ó gajo, veja o ATP, tá fazendo bolinhas!!!]]
+Segundo importantes pesquisadores e bioquímicos das universidades de [[Lisboa]] e [[Coimbra]] (ambas em [[Portugal]]), a molécula de ATP surgiu como forma de controlar a energia gasta pelas moléculas, sem a possibilidade de ocorrerem gatos para roubo de energia ou sonegações por parte do citoplasma erm relação ao núcleo. 
+
+No entanto, outros pesquisadores, estes dos [[EUA]] e de outros países da [[Europa]] dizem que o ATP tem a função de capturar a energia antes que ela ''asse'' a célula com o calor produzido. Dessa forma, pode haver um transporte mais eficiente de energia, já que a mesma é convertida em energia química. Como são apenas teorias, o que importa saber é que o ATP serve pra guardar e soltar energia, exatamente como uma bateria.
+
+== Sua produção ==
+De acordo com alguns químicos, biólogos e filósofos, há vários processos que implicam na formação do ATP. Já houve no decorrer do tempo inúmeras assembleias reunindo essas três classes de <s>vagabundos</s> profissionais para discutirem e explicarem o modo mais correto da produção do ATP. A explicação mais plausível (ou menos confusa) dos processos é dada a seguir.
+
+;Fotossíntese
+
+A produção é feita quando 6 KOHl<sub>2</sub> + 12 NaDpH<sub>2</sub> + 18 BaN +/- (enzimas) <big>→</big> 12 NaDp + 18 ADp + 18 P + 564 JhGkG + 6 H<sub>2</sub>O + C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> = 12.10<sup>323</sup> ATP quando C = 299.792,458 km/s ~ 300.000 km/s = 300.000.000 m/s ou λ = 666 Hz, seguindo a terceira e a quarta [[Leis de Newton]] fazendo um esquema simples com a [[Tabela Periódica]] e a escala de Richards.
+
+Simples, sucinto e explicadíssimo.
+
+== Usos ==
+
+Embora seja difícil conseguir ATP fora dos organismos, estuda-se a fabricação de células fotoquímicas que usem essa substância como constituinte básico, a fim de aumentar o rendimento de pilhas e baterias (projeto ''made in'' [[Portugal]]). Pesquisas norte-americanas pretendem usar o ATP para criar suplementos para atletas, já que os testes clínicos com humanos já demonstraram sucesso. Alguns dos participantes desses testes foram [[Michael Phelps]] e [[Maguila]], juntamente com [[Rebeca Gusmão]] e a [[sua avó]].
+
+== Veja também ==
+
+*[[Célula]]
+*[[Biologia]]
+*[[Química]]
+
+==Notas de rodapé==
+<references/>
+
+[[en:ATP]]
+
+{{Bioquimica}}

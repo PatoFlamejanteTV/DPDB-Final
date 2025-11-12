@@ -1,0 +1,32 @@
+{{Imagens}}
+{{Nerd}}
+{{Vqd|[[RPG]]}}
+{{Vqd|Arco-Íris}}
+{{C|Qual sua cor favorita?|Noob}}
+{{C|Minha cor favorita é [[Azul|0000FF]]|Nerd}}
+{{C|E a minha é Oof também!|Jogador de [[Roblox]]}}
+
+'''RGB''', abreviação de '''Red-Green-Blue''' (Pros [[Lula|analfabetos]], [[Vermelho]]-[[Verde]]-[[Azul]]) é o sistema de cores que o [[Windows|seu computador]] usa para fazer cor na imagens ou vídeos. É considerado o sucessor dos lápis de cor e dos giz de cera.
+
+==História==
+Anos após a criação do famosissímo [[Windows|Janelas]], [[Bill Gates]] estava pensando em uma maneira de fazer seu próximo <s> lixo </s> produto se tornasse <s> mais lixo ainda </s> o mais computador avançado na [[Lula|história desse país]]. Foi ai que ele teve a ideia de criar um sistema que criasse e colocasse cores para o computador, especialmente para o Paint e para a [[Tela Azul da Morte]], que na época era Tela Cinza da Morte. Esse sistema iria ser colocado o nome de RGBYPCB&W (Red, Green, Blue, [[Amarelo|Yellow]], [[Roxo|Purple]], [[Ciano|Cyan]], [[Preto|Black]] e [[Branco|White]]), mas como os PCs (pelo menos o dele) só suportava 3 letras, ficou só como RGB.
+
+==Como funciona essa porra?==
+Esse sistema usa algarismos em [[Hexadecimal]] (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F), onde vai de 00 até FF (0-255). Caso você não seja nerd, não vai entender bulhufas do que eu vou dizer. Esses valores são atribuidos na ordem das cores do código, comecando por vermelho. (Ex: Um vermelho bem forte vai ter o valor máximo de FF) Depois vai ser o verde e o azul. O mais tosco de tudo, é saber que FFFF00 (Vermelho com Verde) é amarelo (?).
+
+{{C|Tendi nada!|Neto|seção acima}}
+
+==Lugares onde se usa isso==
+* [[Computador|Computadores]] (Windows em geral);
+* [[Videogame]]s;
+* [[TV]]s (As de 4K full HD usam um sistema muuuuuuito mais avançado);
+* [[Paint]] e [[Photoshop]];
+* [[Redtube|Sites de festas adultas]];
+* Filmes do [[Michael Bay]] ou [[Steven Spielberg]]
+
+== Ver também ==
+* [[Cor]]
+* [[Arco-íris]]
+* [[RPG]] (Não é recomendado jogar, apenas ver o artigo!)
+
+[[Categoria:Cores]]

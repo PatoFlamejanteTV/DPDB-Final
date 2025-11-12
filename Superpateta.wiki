@@ -1,0 +1,68 @@
+{{ampliar}}
+{{hero}}
+{| class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+|-
+!style="text-align:center; {{{comic_color}}}"|<big>'''''Superpateta'''''</big>
+|-
+|style="text-align: center; font-size: 90%;"|
+<br />
+|-
+|[[Arquivo:Superpateta.jpg|center|220px]]
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+|- style="vertical-align: top;"
+|'''''Nome Real'''''||''Não podemos dizer que é o '''[[Pateta]]'''''
+|- style="vertical-align: top;"
+|'''''Cidade'''''||''[[Patópolis]]''
+|}
+|-
+|
+----
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+!colspan="2" style="text-align:center;{{{alliance_color}}}"|Características
+|- style="vertical-align: top;"
+|'''''Inteligência'''''||''{{033}}''
+|- class="hiddenStructure{{{alliances}}}" style="vertical-align: top;"
+|'''''Afiliações'''''||''Clube dos super-heróis''
+|- class="hiddenStructure{{{relatives}}}" style="vertical-align: top;"
+|'''''Parentes'''''||''[[Arquivo:Tumbleweed.gif|50px]]''
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''''Inimigos'''''||''A lista vai loooooooooooonge...''
+|- style="vertical-align: top;"
+|'''''Poderes'''''||''Um monte''
+|}
+|}
+{{C|Estamos salvos, é o '''Superpateta'''!!|Cidadão patopolense quando está sendo assaltado}}
+{{C|Não se preocupem, cidadãos, eu os protegerei!!|{{PAGENAME}} acalmando os cidadãos}}
+{{C|Prepare-se para a derrota, [[Penélope Charmosa|seu vilão]]!!|{{PAGENAME}} intimidando um vilão}}
+{{C|Essa não!!|Cidadão patopolense depois que o {{PAGENAME}} prendeu a roupa em um poste e o ladrão fugiu com todo o [[dinheiro]]}}
+
+'''{{PAGENAME}}''' é um super herói que vive em Patópolis, e que ganha superpoderes quando come super amendoins que o sol esquenta bem na frete da sua casa. Suspeita-se que os amendoins mágicos tenham recebido esterco de [[Chuck Norris]], e por isso, apresentam essa capacidade de deixar quem os comer com super poderes. No caso, mais pateta que o normal.
+
+== Identidade secreta ==
+
+Todo mundo sabe que o {{PAGENAME}} é o Pateta, só que ninguém vê ele comendo os amendoins. É como se todo mundo em Patópolis tivesse a mesma miopia que a Lois Lane tem quando o [[Super Homem]] para na frente dela e ela não vê que ele é o [[Clark Kent]].
+
+== Super poderes ==
+
+Segundo o último boletim da liga da justiça, os super poderes do {{PAGENAME}} são:
+
+# Super visão
+# Super audição
+# Super capacidade de fazer cagada
+# Capacidade de se transformar em [[Jeremias]], normalmente quando mistura os amendoins com aquela cervejinha.
+# Ficar invisível, principalmente depois de fazer uma cagada
+# fazer cagada
+# fazer besteira
+
+== Traumas conhecidos ==
+
+Até pouco tempo, ninguém sabia porque o Super Pateta continuava fazendo as suas <s>cagadas</s> boas ações da forma que ele fazia, mas descobriu-se que o fato de sua namorada ser uma vaca - a Clarabela - o tenho deixado mais puto que o [[Silvio Santos]] e a história do bambu.
+
+----
+
+{{Disney}}
+
+[[Categoria:Quadrinhos]]
+[[Categoria:Super heróis]]

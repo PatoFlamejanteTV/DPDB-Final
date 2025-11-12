@@ -1,0 +1,1097 @@
+{{vqd|Hamilton x Vettel}}
+{{C|Finalmente não temos mais supremacia da Mercedes!|Fã da F1|{{PAGENAME}}}}
+{{C|Puta merda! Que azar do caralho!|Max Verstappen|seu desempenho em 2017}}
+{{C|Isso que dá falar mal de nós. Fizemos um trabalho de macumba contra você seu merdinha!|Brasileiros|afirmação acima}}
+{{C|LA CONCHA DE TU MADRE! HIJO DE LA PUTA! RATAS PTM! JAJAJAJAJAJA|[[Sergio Perez]] resumindo sua temporada com [[Esteban Ocon]] em 2017}}
+{{C|Ele tentou me matar!|Esteban Ocon|Sergio Perez}}
+{{C|Bom, pelo menos minha vaga aqui na Williams está garantida por mais alguns anos|Felipe Massa|contratação de [[Lance Stroll]] pra temporada de 2017}}
+{{C|Pelo menos eu injeto dinheiro na equipe, você só dá prejuízo. E eu subi no pódio primeiro que você!|Stroll rebatendo a crítica acima}}
+{{C|O que eu ainda estou fazendo aqui...|Fernando Alonso|{{PAGENAME}}}}
+{{C|Ganhei porra! Na frente de uma Ferrari de novo!|Lewis Hamilton|seu tetracampeonato}}
+
+A '''{{PAGENAME}}''' é a 6<s>9</s>8º edição do campeonato da [[Fórmula 1]], a modalidade automobilística mais perigosa do planeta depois dos rachas no interior do [[Brasil]] é claro. Essa temporada conta com muitas novidades, entre elas a exclusão do GP da Alemanha do calendário de provas, a volta da competitividade entre equipes com a aposentadoria do [[Nico Rosberg|Nico Rosbife]] e a [[Williams]] decide inovar e vir com apenas um piloto para essa temporada, já que [[Lance Stroll]] está cumprindo muito bem seu papel como piloto de testes de luxo e patrocinador-mor. O vencedor foi Lewis "Robinho" Hamilton, que foi campeão por antecipação em cima de um piloto da Ferrari. De novo.
+
+==Pilotos e Equipes==
+
+{| class="wikitable" border="1" style="font-size: 89%;"
+!Equipe
+!<s>Bob, o</s> Construtor
+!Chassi(s)
+!Motor
+!Pneu
+!N°
+!Pilotos
+!Rodada
+!{{Tooltip|Nu.|Número}}
+!{{Tooltip|Pilotos de treinos livres|Pilotos que participaram dos treinos livres, porém não se qualificaram para a corrida ou não participaram da corrida.}}
+|-
+|rowspan="2"| [[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Ferrari]]
+!rowspan="2" align="center"| [[Scuderia Ferrari|Ferrari]]
+|rowspan="2" align="center"| [[Ferrari SF70H|SF70H]]
+| rowspan="2" align="center" | [[Motores Ferrari na Fórmula 1|Ferrari]]
+|rowspan="2" align="center"| [[Pirelli]]
+| align=center | 5
+| {{nowrap|[[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Sebastian Vettel]]
+| align="center" | 1–18
+|-
+| align=center | 7
+| [[Arquivo:Banderafinlandia.png|20px]] [[Kimi Räikkönen]]
+| align="center" |1–18
+
+|-
+|rowspan="2"| [[Arquivo:India flag.png|20px]] [[Force India|Sahara Force India F1 Team]]
+!rowspan="2" align="center"| [[Force India]]-[[Mercedes AMG High Performance Powertrains|Mercedes]]
+|rowspan="2" align="center"| [[Force India VJM10|VJM10]]
+|rowspan="2" align="center"| [[Motores Mercedes na Fórmula 1|Mercedes]]
+|rowspan="2" align="center"| [[Pirelli]]
+| align=center | 11
+|[[Arquivo:Flagge Mexiko.png|20px]] [[Sergio Pérez]]
+| align="center" |1–18
+| rowspan="2" align=center | 34
+| rowspan="2" | [[Arquivo:Flagge Mexiko.png|20px]] [[Alfonso Celis Jr.]]
+|-
+| align=center | 31
+|[[Arquivo:Bandeira da França.png|20px]] [[Esteban Ocon]]
+| align="center" |1–18
+
+|-
+|rowspan="2"| [[Arquivo:Bandeira dos EUA.png|20px]] [[Haas F1 Team]]
+!rowspan="2" align="center"| [[Haas F1 Team|Haas]]-[[Scuderia Ferrari|Ferrari]]
+|rowspan="2" align="center"| [[Haas VF-17|VF-17]]
+|rowspan="2" align="center"| [[Motores Ferrari na Fórmula 1|Ferrari]]
+|rowspan="2" align="center"| [[Pirelli]]
+| align=center | 8
+|[[Arquivo:Bandeira da França.png|20px]] [[Romain Grosjean]] 
+| align="center" |1–18
+| rowspan="2" align=center | 50
+| rowspan="2" | [[Arquivo:Bandeira da Italia.png|20px]] [[Antonio Giovinazzi]]
+|-
+| align=center | 20
+|[[Arquivo:Bandeira da Dinamarca.png|20px]] [[Kevin Magnussen]] 
+| align="center" |1–18
+
+|-
+|rowspan="3"| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[McLaren|McLaren Honda Formula 1 Team]]
+!rowspan="3" align="center"| [[McLaren]]-[[Motores Honda na Fórmula 1|Honda]]
+|rowspan="3" align="center"| [[McLaren MCL32|MCL32]]
+|rowspan="3" align="center"| [[Motores Honda na Fórmula 1|Honda]]
+|rowspan="3" align="center"| [[Pirelli]]
+| align=center | 2
+|{{nowrap|[[Arquivo:Bandeira da Belgica.png|20px]] [[Stoffel Vandoorne]]}}
+| align="center" |1–18
+|-
+| align=center | 14
+|[[Arquivo:Bandeira da Espanha.png|20px]] [[Fernando Alonso]]
+| align="center" |1–5, 7–18
+|-
+| align=center | 22
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Jenson Button]]<ref group="nota">Substituiu Alonso que foi correr nas 500 Milhas de Indianapólis.</ref>
+| align="center" | 6
+
+|-
+|rowspan="2" style="padding-right:24px"|[[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Mercedes Grand Prix|Mercedes AMG Petronas Motosport]]
+!rowspan="2" align="center"| [[Motores Mercedes na Fórmula 1|Mercedes]]
+|rowspan="2" align="center"| [[Mercedes AMG F1 W08 EQ Power+|F1 W08 EQ Power+]]
+|rowspan="2" align="center"| [[Motores Mercedes na Fórmula 1|Mercedes]]
+|rowspan="2" align="center"| [[Pirelli]]
+| align=center | 44
+|[[Arquivo:Bandeira do Reino Unido.png|20px]] [[Lewis Hamilton]]
+| align="center" |1–15
+|-
+| align=center | 77
+| [[Arquivo:Banderafinlandia.png|20px]] [[Valtteri Bottas]]
+| align="center" |1–18
+
+|-
+|rowspan="2" |[[Arquivo:Bandeira da Austria.png|20px]] [[Red Bull Racing|Red Bull Racing Formula One Team]]
+!rowspan="2" align="center"| [[Red Bull Racing|Red Bull]]-[[TAG Heuer]]
+|rowspan="2" align="center"| [[Red Bull RB13|RB13]]
+|rowspan="2" align="center"| [[Motores Renault na Fórmula 1|TAG Heuer (Renault)]]
+|rowspan="2" align="center"| [[Pirelli]]
+| align=center | 3
+|style="padding-right:24px"|[[Arquivo:Bandeira da Australia.png|20px]] [[Daniel Ricciardo]]
+| align="center" |1–18
+|-
+| align=center | 33
+| [[Arquivo:Bandeira dos Paises Baixos.png|20px]] [[Max Verstappen]]
+| align="center" |1–15
+
+|-
+|rowspan="3"|[[Arquivo:Bandeira da França.png|20px]] [[Renault F1 Team|Renault Sport Formula One Team]]
+!rowspan="3" align="center"| [[Renault F1 Team|Renault]]
+|rowspan="3" align="center"| [[Renault R.S.17|R.S.17]]
+|rowspan="3" align="center"| [[Motores Renault na Fórmula 1|Renault]]
+|rowspan="3" align="center"| [[Pirelli]]
+| align=center | 27
+|[[Arquivo:Bandeira_da_Alemanha.png|20px]] [[Nicolas Hülkenberg|Nico Hülkenberg]]
+| align="center" | 1–18
+| rowspan="2" align=center | 46
+| rowspan="2" | [[Arquivo:Bandeira da Rússia.png|20px]] [[Sergey Sirotkin]]
+|-
+| align=center | 30
+|[[Arquivo:Bandeira do Reino Unido.png|20px]] [[Jolyon Palmer]]
+| align="center" |1–16
+|-
+| align=center | 55
+|[[Arquivo:Bandeira da Espanha.png|20px]] [[Carlos Sainz Jr.]]
+| align="center" |17-18
+|-
+|rowspan="3"|[[Arquivo:Bandeira da Suiça.png|20px]] [[Sauber|Sauber F1 Team]]
+!rowspan="3" align="center"| [[Sauber]]-[[Scuderia Ferrari|Ferrari]]
+|rowspan="3" align="center"| [[Sauber C36|C36]]
+|rowspan="3" align="center"| [[Motores Ferrari na Fórmula 1|Ferrari]]
+|rowspan="3" align="center"| [[Pirelli]]
+|align=center | 9
+| [[Arquivo:Bandeira da Suecia.png|20px]] [[Marcus Ericsson]]
+| align="center" |1–18
+| rowspan="2" align=center | 37
+| rowspan="2" |[[Arquivo:Bandeira da Indonesia.png|20px]] [[Charles Leclerc]]
+|-
+|align=center | 36
+| [[Arquivo:Bandeira da Italia.png|20px]] [[Antonio Giovinazzi]]<ref group="nota">Substituiu Wehrlein nos primeiros GPs porque este estava <s>de TPM</s> doente.</ref>
+| align="center" | 1–2
+|-
+| align=center | 94
+| [[Arquivo:Bandeira da Alemanha.png|20px]] [[Pascal Wehrlein]]
+| align="center" |3–18
+|-
+|rowspan="4"|[[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Toro Rosso]]
+!rowspan="4" align="center"| [[Scuderia Toro Rosso|Toro Rosso]]
+|rowspan="4" align="center"| [[Toro Rosso STR12|STR12]]
+|rowspan="4" align="center"| [[Motores Renault na Fórmula 1|Renault]]
+|rowspan="4" align="center"| [[Pirelli]]
+| align=center | 26
+|style="padding-right:24px"|[[Arquivo:Bandeira da Rússia.png|20px]] [[Daniil Kvyat]]
+| align="center" |1–14, 17
+| rowspan="4" align=center | 38
+| rowspan="4" | [[Arquivo:Bandeira da Rússia.png|20px]] [[Sean Gelael]]
+|-
+| align=center | 10
+|style="padding-right:24px"|{{FRAb}} [[Pierre Gasly]]
+| align="center" |15-16
+|-
+| align=center | 28/39
+|style="padding-right:24px"|[[Arquivo:Bandeira do Reino Unido.png|20px]] [[Brandon Hartley]]
+| align=center |17-18
+|-
+| align=center | 55
+|style="padding-right:24px"|[[Arquivo:Bandeira da Espanha.png|20px]] [[Carlos Sainz Jr.]]
+| align="center" |1–16
+|-
+|rowspan="3"|[[Arquivo:Bandeira do Reino Unido.png|20px]] [[Williams F1|Williams Martini Racing]]
+!rowspan="3" align="center"| [[Williams Grand Prix Engineering|Williams]]-[[Mercedes AMG High Performance Powertrains|Mercedes]]
+|rowspan="3" align="center"| [[Williams FW40|FW40]]
+|rowspan="3" align="center"| [[Motores Mercedes na Fórmula 1|Mercedes]]
+|rowspan="3" align="center"| [[Pirelli]]
+| align=center | 18
+|[[Arquivo:Bandeira canada.png|20px]] [[Lance Stroll]]
+| align="center" |1–18
+|-
+| align=center | 19
+| [[Arquivo:Banderabrasil.png|20px]] [[Felipe Massa]]
+| align="center" |1–10, 12-18
+|-
+| align=center | 40
+| [[Arquivo:Bandeira do Reino Unido.png|20px]] [[Paul di Resta]]<ref group="nota">Massa comeu uma feijoada estragada e não pode correr naquele GP.</ref>
+| align="center" |11
+|}
+
+==Mudanças==
+===Equipes===
+*A [[Manor Racing]] levou aquele famoso processinho e não vai participar da temporada esse ano
+===Pilotos===
+*O novo segundo piloto (A.K.A : escravo) da McLaren é o garoto Vandoorne, que honra a tradição de campeões lixos da GP2
+*<s>Gato de</s> Bottas assume a vaga do Rosbixa na Mercedes, deixando uma open na Williams que é ocupada pelo Strollzinho
+*Hulkenberg foi da Force India para a Haas, e Ocon entrou em seu lugar
+*Graças ao seu <s>patrocínio</s> talento, Wehrlein conseguiu uma vaguinha na Sauber deixando o brasileiro [[Felipe Nasr]] a ver navios (carros nesse caso)
+*Magnussen acerta <s>em cheio</s> com a Haas pra correr no lugar de [[Esteban Gutiérrez]]
+*Gasly substituiu Kvyat no final da temporada, já que este estava mais interessado em comer a filha do [[Piquet]] do que correr (não o culpo, se estivesse na situação, faria o mesmo)
+*Gasly não aguentou a pressão e fez como o [[Gastly|seu xará]]: virou fantasma. Acabou sendo substituído pro Brendon Hartley, a re-encarnação de James Hunt. Já Kvyat conseguiu seu emprego de volta já que [[Carlos Sainz Jr.|Sainz]] foi pra Renault no lugar do [[Jolyon Palmer|Palmer]].
+
+==Calendário==
+
+{| class="wikitable" border="1" style="font-size: 95%;"
+! colspan="2" | Grande Prêmio
+! Circuito e Cidade
+! Data
+|-
+! 1
+| [[Austrália|Grande Prêmio da Austrália]]
+| [[Melbourne Grand Prix Circuit|Corrida do Parque]], [[Melbourne]]
+| [[26 de março]]
+|-
+! 2
+| [[China|Grande Prêmio da China]]
+| [[Shanghai International Circuit|Tem Pista na China?]], [[Xangai]]
+| [[9 de abril]]
+|-
+! 3
+| [[Bahrein|Grande Prêmio do Bahrein]]
+| [[Bahrain International Circuit|Corrida no Deserto]], [[Sakhir]]
+| [[16 de abril]]
+|-
+!4
+|[[Rússia|Grande Prêmio da Rússia]]
+|[[Autódromo de Sochi|Pista que é sempre sem graça]], [[Sóchi]]
+|[[30 de abril]]
+|-
+! 5
+| [[Espanha|Grande Prêmio da Espanha]]
+| [[Circuit de Barcelona-Catalunya|A Pista na forma do Geodude]], [[Barcelona]]
+| [[14 de maio]]
+|-
+! 6
+| [[Mônaco|Grande Prêmio de Mônaco]]
+| [[Circuito de Monte Carlo|Tédio nas Ruas de Mônaco]], [[Monte Carlo]]
+| [[28 de maio]]
+|-
+! 7
+| [[Canadá|Grande Prêmio do Canadá]]
+| [[Circuito Gilles Villeneuve|Onde Kubica quase Morreu]], [[Montreal]]
+| [[11 de junho]]
+|-
+! 8
+| [[Azerbaijão|Grande Prêmio do Azerbaijão]]
+| [[Circuito Urbano de Baku|Toma Noku]], [[Baku]]
+| [[25 de junho]]
+|-
+! 9
+| [[Áustria|Grande Prêmio da Áustria]]
+| [[Red Bull Ring|Hoje sim, hoje sim! Hoje não...]], [[Spielberg (Áustria)|Spielberg]]
+| [[9 de julho]]
+|-
+! 10
+| [[Grã-Bretanha|Grande Prêmio da Grã-Bretanha]]
+| [[Circuito de Silverstone|Reformaram, mas continua um tédio]], [[Silverstone (Inglaterra)|Silverstone]]
+| [[16 de julho]]
+|-
+! 11
+| [[Hungria|Grande Prêmio da Hungria]]
+| [[Hungaroring|Mônaco sem Muro]], [[Budapeste]]
+|[[30 de julho]]
+|-
+! 12
+| [[Bélgica|Grande Prêmio da Bélgica]]
+| [[Spa-Francorchamps|Pusta na Floresta Belga]], [[Spa (Liège)|Spa]]
+| [[27 de agosto]]
+|-
+! 13
+| [[Itália|Grande Prêmio da Itália]]
+| [[Circuito de Monza|Corrida da Ferrari]], [[Monza]]
+| [[3 de setembro]]
+|-
+! 14
+| [[Singapura|Grande Prêmio de Singapura]]
+| [[Circuito Urbano de Marina Bay|Onde Nelsinho Piquet Bateu de propósito]], [[Singapura]]
+| [[17 de setembro]]
+|-
+! 15
+| [[Malásia|Grande Prêmio da Malásia]]
+| [[Sepang International Circuit|Será que vai chover?]], [[Kuala Lumpur]]
+| [[1 de outubro]]
+|-
+! 16
+| [[Japão|Grande Prêmio do Japão]]
+| [[Suzuka Circuit|Senna Circuit of Japan]], [[Suzuka]]
+| [[8 de outubro]]
+|-
+! 17
+| [[Estados Unidos|Grande Prêmio dos Estados Unidos]]
+| [[Circuito das Américas|Não passa na Globo por causa do horário]], [[Austin]]
+| [[22 de outubro]]
+|-
+! 18
+| [[México|Grande Prêmio do México]]
+| [[Autódromo Hermanos Rodríguez|Autódromo El Chavo del Oito]], [[Cidade do México]]
+| [[29 de outubro]]
+|-
+! 19
+| [[Brasil|Grande Prêmio do Brasil]]
+| [[Autódromo de Interlagos]], [[São Paulo (cidade)|São Paulo]]
+| [[12 de novembro]]
+|-
+!20
+| [[Emirados Árabes Unidos|Grande Prêmio de Abu Dhabi]]
+| [[Circuito de Yas Marina|Circuito do Sheik]], [[Abu Dhabi]]
+| [[26 de novembro]]
+|}
+==Resumão das corridas==
+===Corridas 1, 2 e 3 - Corridas Asiáticas===
+[[Arquivo:TotoWolffbatendonamesa.gif|200px|miniaturadaimagem|direita|Reação de [[Toto Wolff|Totó Lobinho]] após ver a velocidade das Ferraris.]]
+Como sempre acontece, a primeira corrida na Austrália sempre dá merda na primeira volta, com [[Kevin Magnussen|Kevin Magneto]] se fudendo junto com [[Marcus Ericsson|Sony Ericsson]] e causando um safety car logo no começo. Na relargada, o [[Lewis Hamilton|Negão Inglês]], puto pra caralho com a perda do campeonato no ano anterior, resolve ir com tudo atrás de [[Sebastian Vettel|Seboso Fétido]] pra assumir a liderança. Enquanto isso, [[Fernando Alonso|Nandinho Alonso]] fica esquentadinho no rádio por estar guiando um carro tão merda como o da McLaren, que não consegue batalhar posição nem com as [[Force India]] super gays. Outra treta acontece com a Haas quando o [[Romain Grosjean|seu outro piloto]] acaba quebrando o carro e acaba abandonando. Lá na frente, Luisão Rémilton não consegue alcançar Sebastião e se vê obrigado a defender a posição contra seu novo namorado de equipe, [[Valtteri Bottas|Valtteri Galochas]]. Isso acaba ajudando Sebastião que vence sua primeira corrida na temporada.
+
+Na segunda corrida, na China, é mostrado como os pilotos atuais da Fórmula 1 não sabem pilotar na chuva, causando um VSC e um safety car em 4 voltas, o segundo causado pelo piloto n00b da Sauber [[Antonio Giovinazzi|Antônio GioGio]], que aparenta não saber pilotar em linha reta. Aproveitando esses SCs, os pilotos passar a colocar pneus de pista seca, mas alguns não conseguem se manter na pista, como o Valtério Bota. Passando a treta, Sebastião passa a atacar geral, passando os 2 pilotos da Ferrari e da Red Bull, incluindo um pequeno toque com seu ex-namorado [[Daniel Ricciardo|Daniel Ricardão]] no hairpin. Mas isso acaba não sendo suficiente para conseguir alcançar o Hamiltão, que ganha a corrida de ponta a ponta.
+
+Na corrida do Bahrain, os pilotos resolveram ser mais cautelosos, o que fez a corrida ser bem chatinha. Porém, sempre tem algum maluco que quer tacar o [[foda-se]] e que acaba causando alguma merda. [[Max Verstappen|Max Crashtappen]] foi o primeiro, ao esquecer de que carros de Fórmula 1 precisam freiar pra fazer a curva. Nem demorou muito e já teve outra merda com o [[Lance Stroll|Lance $troll]] batendo no carro do [[Carlos Sainz Jr.|Carlos Sainz]], que tava "Sainz-indo" do box. No final, foi uma corrida bem GG easy para Sebastião, que dispara na liderança do campeonato.
+===Corridas 4, 5 e 6 - Corridas chatas da Europa===
+[[Arquivo:WehrleinVoando.jpg|200px|miniaturadaimagem|direita|{{C|Olha pra mim! Consigo te passar com 2 rodas apenas!|Pascal Wehrlein}}]]
+A corrida na Rússia foi tão ruim, que nem ultrapassagem teve, apenas Valtteri Bottas garantindo a vitória.
+
+Na corrida da Espanha teve uma loucura na primeira volta com Verstappen e Raikkonen saindo da corrida e [[Felipe Massa|Felipe Passa]] perdendo a asa. A Mercedes resolveu usar a estratégia da trollagem e forçou a Ferrari a fazer uma parada mais cedo, assim ajudando Luis Amilton a ultrapassar Seb que estava com pneus muito mais desgastados. Com isso, É mais uma vitória para o <s>negão</s> afro-descendente da Mercedes.
+
+Na corrida apertada de Mônaco, rolou muitos acidentes, incluindo um involvendo [[Jenson Button]], substituindo Fernando Alonso, e que acabou capotando o carro do [[Pascal Wehrlein|Pastor Werlhaiskjnain]]. De resto, a corrida foi bem entediante, típico do GP de Mônaco. Vettel não fez nada a corrida inteira e ganhou muito fácil.
+===Corrida 7 - Canadá===
+O GP do Canadá já começou tendo treta entre Carlinhos Sai da Frente e Felipe Pasta, que terminaram dando um beijinho no muro. No decorrer da corrida, Sebastião sofria pressão na frente e atrás (ui!), até que ele bateu no muro e quebrou a sua asa dianteira, tendo que ir nos boxes para reparar, mas não demorou muito para ele chegar nas duas Force Indias. Aproveitando a treta dos dois miguxos de equipe, Vettel passa os dois na chicane e sobre para 5°. Verstappen acaba quebrando o carro do nada, e causa um safety car. Porém, isso não foi suficiente pra fazer Luísão Rémilton perder a corrida e assumir a liderança do campeonato. 
+===Corrida 8 - Baku===
+{{C|EI! Esse cara me <s>comeu</s> travou!|[[Sebastian Vettel]] após [[Lewis Hamilton]] ter freado o carro do nada no meio do SC}}
+{{C|O Vettel veio e bateu <s>uma pra mim</s> em mim!|[[Lewis Hamilton]] dando uma de [[Capitão Óbvio]]}}
+O GP do Azerbaijão em Baku mais uma vez se mostra uma corrida completamente contrária ao tédio de Mônaco, mostrando que dá pra fazer uma corrida foda em uma pista de rua minúscula.
+Na largada, [[Valtteri Bottas|Valeriano Broxas]] tentou passar [[Kimi Raikkonen|Kimi Hakkinen]] mas os dois acabaram se batendo por tentar ficar lado a lado numa curva ridículamente fechada. Kimi abandonou a corrida enquanto Bottas ficou com o pneu furado e 1 volta atrás dos líderes. Não demorou muito e mais merda aconteceu, com os 4 pilotos das 2 Redibús se dando mal: [[Carlos Sainz Jr.|Carlost Sainz]] rodou, Daniel Ricardão teve que fazer uma parada prematura, e o [[Daniil Kvyat|Torpedo Russo]] e Max Crashtappen tiveram que abandonar por problemas no carro, sendo o acidente do Torpedão SMS que causou um Safety Car. Antes da relargada, aconteceu a cena mais memorável dessa corrida: [[Lewis Hamilton|Barack Obama]] dormiu no volante e acabou travando o Sebastião Fétido, que bateu seu carro na traseira do negão. Pistolado, ele resolveu descontar a sua raiva batendo na lateral do Hamiltão, e isso causou uma punição de Stop & Go a ele (Aquela que o cara tem que entrar nos boxes e ficar parado por 638192739202 anos). Na relargada, não durou nem 10 segundos que teve outro acidente, dessa vez envolvendo os 2 pilotos da [[Force India|Force Bicha]]. Os estrago do acidente foi tão grande que tiveram que dar bandeira vermelha pois a pista tinha mais obstáculo que [[Campo Minado]].
+Depois da parada da bandeira vermelha, Hamilton fez a sua parada nos boxes e Vettel cumpriu a sua punição. O líder da corrida agora era Ricardão com [[Lance Stroll|Sir Lancelot]] bem atrás dele. Vettel partiu pra cima do bebedor de chá e com a ajuda do <s>retardado</s> retardatário do Alonso, ele conseguiu fazer a ultrapassagem. A vitória ficou com Big Ricciardo, enquanto que Valério Bottas, que tava no começo da corrida teve um pneu furado, escalou o pelotão e conseguiu passar o Strollada literalmente na linha, conquistando o 2° lugar enquanto o Stroll terminou em 3°, o que foi uma decepção pros brasileiros pois [[Felipe Massa]], companheiro do Stroll, abandonou a corrida e não chegou nem perto de ficar no pódio.
+===Corridas 9-12 - Corridas na Europa 2===
+Basicamente um compilado de corridas ruins. Nas corridas da Áustria e Inglaterra, a única coisa que aconteceu foi o Torpedo Kvyat matando os outros na largada, enquanto que na corrida da Hungria, não aconteceu porra nenhuma (típico do GP da Hungria). Por fim, na Itália, a corrida ficou marcada pelo fato imbecil que o Alonso ficou de birra com o Palmer cortando caminho e que ele não tinha devolvido a posição (sendo que essa briguinha não deu em nada pois os 2 abandonaram a corrida anyway).
+===Corrida 13-15 - Corridas Asiáticas 2===
+[[Arquivo:Cingapura2017Acidente.jpg|200px|miniaturadaimagem|direita|Sanduíche à [[Max Verstappen|Verstappen]]: Um prato típico da cidade de Maranello.]]
+A largada do GP de Cingapura começou com Verstapenning levando [[Assédio sexual|uma encoxada]] dos dois carros da [[Ferrari]], sendo que na segunda ele acaba levando o Alonso junto. Além disso, logo depois Vettel acabou rodando sozinho, bateu no muro e quebrou o carro, dando adeus a disputa do título. Durante a sequência da corrida, Torpedão Campeão foi com tudo no muro, e causou um safety car, mas não demorou muito após a relargada e entrou outro safety car, quando [[Marcus Ericsson|Sony Ericsson]] bateu no muro sozinho e ficou com o carro parado no meio da pista. Esse número enorme de SCs, além do fato de a corrida ser na chuva, fez a corrida acabar antes do número de voltas, devido a regra de corridas de 2h. Luis Hamiltão agora pode ficar mais sossegado na disputa pelo título.
+
+== Classificação ==
+
+{| class="wikitable" style="font-size:85%; text-align:center"
+! Posição
+|bgcolor="#ffffbf"| &nbsp;'''1º'''&nbsp;
+|bgcolor="#dfdfdf"| &nbsp;'''2º'''&nbsp;
+|bgcolor="#ffdf9f"| &nbsp;'''3º'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''4º'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''5º'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''6º'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''7º'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''8º'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''9º'''&nbsp;
+|bgcolor="#dfffdf"| &nbsp;'''10º'''&nbsp;
+|-
+! Pontos
+|bgcolor="#ffffbf"| 1 milhão de reais em barras de ouro
+|bgcolor="#dfdfdf"| 18
+|bgcolor="#ffdf9f"| 15
+|bgcolor="#dfffdf"| 12
+|bgcolor="#dfffdf"| 10
+|bgcolor="#dfffdf"| 8
+|bgcolor="#dfffdf"| 6
+|bgcolor="#dfffdf"| 4
+|bgcolor="#dfffdf"| 2
+|bgcolor="#dfffdf"| 1
+|}
+
+=== Pilotos ===
+Legenda: Corridas em negrito indicam pole position; corridas em itálico indicam volta mais rápida.
+
+{|
+|valign="top"|
+{| class="wikitable" style="font-size: 85%; text-align:center; table-layout:fixed; width:95em"
+|+
+|- valign="top"
+! valign="middle" style="width:2em" | Pos
+! valign="middle" style="width:11em" | Piloto
+! valign="middle" style="width:7em" | Equipe
+! '''AUS'''<br>[[Arquivo:Bandeira da Australia.png|20px]]
+! '''CHI'''<br>[[Arquivo:Bandeira da República Popular da China.png|20px]]
+! '''BHR'''<br>[[Arquivo:Bandeira do Bahrein.png|20px]]
+! '''URSS'''<br>[[Arquivo:Ussruncyclopedia.png|20px]]
+! '''CAT'''<br>[[Arquivo:Estelada.jpg|20px]]
+! '''MON'''<br>[[Arquivo:Escudo do Monaco.png|20px]]
+! '''QUE'''<br>[[Arquivo:Bandeira canada.png|20px]]
+! '''AZE'''<br>[[Arquivo:Bandeira Azerbaijao.png|20px]]
+! '''AUT'''<br>[[Arquivo:Bandeira da Austria.png|20px]]
+! '''GBR'''<br>[[Arquivo:Bandeira da Inglaterra.png|20px]]
+! '''HUN'''<br>[[Arquivo:Bandeira da Hungria.png|20px]]
+! '''BEL'''<br>[[Arquivo:Bandeira da Belgica.png|20px]]
+! '''ITA'''<br>[[Arquivo:Bandeira da Italia.png|20px]]
+! '''SIN'''<br>[[Arquivo:Bandeira de Singapura.png|20px]]
+! '''MAL'''<br>[[Arquivo:Bandeira da Malásia.png|20px]]
+! '''JAP'''<br>[[Arquivo:War flag of the Imperial Japanese Army.png|20px]]
+! '''EUA'''<br>[[Arquivo:Bandeira dos EUA.png|20px]]
+! '''MEX'''<br>[[Arquivo:Flagge Mexiko.png|20px]]
+! '''BRA'''<br>[[Arquivo:Banderabrasil.png|20px]]
+! '''EMI'''<br>[[Arquivo:Bandeira dos Emirados Arabes Unidos.png|20px]]
+! valign="middle" style="width:3em" | Pts
+|-id="44"
+! 1
+| align="left" | [[Arquivo:Bandeira da Inglaterra.png|20px]] [[Lewis Hamilton]]
+| align="center" | [[Mercedes Grand Prix|Mercedes]]
+| style="background-color:#DFDFDF"| '''2'''
+| style="background-color:#ffffbf"| '''''1'''''
+| style="background-color:#dfdfdf"| ''2''
+| style="background-color:#dfffdf"| 4
+| style="background-color:#ffffbf"| '''''1'''''
+| style="background-color:#dfffdf"| 7 (que merda)
+| style="background-color:#ffffbf"| '''''1'''''
+| style="background-color:#dfffdf"| '''5'''
+| style="background-color:#dfffdf"| ''4''
+| style="background-color:#ffffbf"| '''''1'''''
+| style="background-color:#dfffdf"| 4
+| style="background-color:#ffffbf"| '''1'''
+| style="background-color:#ffffbf"| '''1'''
+| style="background-color:#ffffbf"| ''1''
+| style="background-color:#dfdfdf"| '''2'''
+| style="background-color:#ffffbf"| '''1'''
+| style="background-color:#ffffbf"| '''1'''
+| style="background-color:#dfffdf"| 9 (GG)
+| style="background-color:#dfffdt"| 4
+| style="background-color:#dfdfdf"| 2
+! 363
+|-id="5
+! 2
+| align="left" | [[Arquivo:Bandeira da Alemanha.png|20px]] [[Sebastian Vettel]]
+| align="center" | [[Scuderia Ferrari|Cavalo vermelho]]
+| style="background-color:#FFFFBF"| 1
+| style="background-color:#dfdfdf"| 2
+| style="background-color:#FFFFBF"| 1
+| style="background-color:#dfdfdf"| '''2'''
+| style="background-color:#dfdfdf"| 2
+| style="background-color:#FFFFBF"| 1
+| style="background-color:#dfffdf"| 4
+| style="background-color:#dfffdf"| ''4'' (tretou com Hamilton)
+| style="background-color:#dfdfdf"| 2
+| style="background-color:#dfffdf"| 7
+| style="background-color:#FFFFBF"| '''1'''
+| style="background-color:#dfdfdf"| ''2''
+| style="background-color:#FFDF9F"| 3 
+| style="background-color:#EFCFFF"| '''Ret''' (jogou fora o campeonato)
+| style="background-color:#dfffdf"| ''4''
+| style="background-color:#EFCFFF"| Ret (já era)
+| style="background-color:#dfdfdf"| ''2''
+| style="background-color:#FFFFBF"| '''''1'''''
+| style="background-color:#FFFFBF"| 1
+| style="background-color:#FFDF9F"| 3 
+! 317
+|-id="77"
+! 3
+| align="left" | [[Arquivo:Banderafinlandia.png|20px]] [[Valtteri Bottas]]
+| align="center" | [[Mercedes Grand Prix|Mercedes]]
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#dfffdf"| 6
+| style="background-color:#FFDF9F"| '''3'''
+| style="background-color:#ffffbf"| 1
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 4
+| style="background-color:#dfdfdf"| 2
+| style="background-color:#dfdfdf"| 2
+| style="background-color:#ffffbf"| '''1'''
+| style="background-color:#dfdfdf"| 2
+| style="background-color:#FFDF9F"| 3 (na moleza)
+| style="background-color:#dfffdf"| 5
+| style="background-color:#DFDFDF"| 2
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#dfffdf"| 5
+| style="background-color:#dfffdf"| ''4''
+| style="background-color:#dfffdf"| 5
+| style="background-color:#dfdfdf"| 2
+| style="background-color:#dfdfdf"| 2
+| style="background-color:#ffffbf"| '''''1'''''
+! 305
+|-id="7"
+! 4
+| align="left" | [[Arquivo:Banderafinlandia.png|20px]] [[Kimi Räikkönen]]
+| align="center" | [[Scuderia Ferrari|Ferrari]]
+| style="background-color:#DFFFDF"| ''4''
+| style="background-color:#dfffdf"| 5
+| style="background-color:#DFFFDF"| 4
+| style="background-color:#FFDF9F"| ''3''
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#DFDFDF"| '''2'''
+| style="background-color:#dfffdf"| 7
+| style="background-color:#cfcfff"| 14†
+| style="background-color:#dfffdf"| 5
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#DFDFDF"| 2 (proibido de ganhar)
+| style="background-color:#DFFFDF"| 4
+| style="background-color:#dfffdf"| 5
+| style="background-color:#EFCFFF"| Ret (graças ao companheiro de equipe)
+| style="background-color:#EFCFFF"| Ret (de novo)
+| style="background-color:#dfffdf"| 5
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#DFFFDF"| 4
+! 205
+|-id="3"
+! 5
+| align="left" | [[Arquivo:Bandeira da Australia.png|20px]] [[Daniel Ricciardo]]
+| align="center" | [[Red Bull Racing|Red Bull]]
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 4
+| style="background-color:#dfffdf"| 5
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#FFFFBF"| 1
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#dfffdf"| 5
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#dfffdf"| 4
+| style="background-color:#DFDFDF"| 2
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 6
+| style="background-color:#EFCFFF"| Ret
+! 200
+|-id="33"
+! 6
+| align="left" | [[Arquivo:Bandeira dos Paises Baixos.png|20px]] [[Max Verstappen]]
+| align="center" | [[Red Bull Racing|Red Bull]]
+| style="background-color:#DFFFDF"| 5
+| style="background-color:#ffdf9f"| 3
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 5
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 5
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#DFFFDF"| 4
+| style="background-color:#DFFFDF"| 5
+| style="background-color:#EFCFFF"| só quebra
+| style="background-color:#DFFFDF"| 10
+| style="background-color:#EFCFFF"| Ret (foi sanduichado)
+| style="background-color:#FFFFBF"| 1 (ALELUIA!)
+| style="background-color:#DFDFDF"| 2
+| style="background-color:#DFFFDF"| 4
+| style="background-color:#FFFFBF"| 1
+| style="background-color:#DFFFDF"| 5
+| style="background-color:#DFFFDF"| 5
+! 168
+|-id="11"
+! 7
+| align="left" | [[Arquivo:Flagge Mexiko.png|20px]] [[Sergio Pérez]]
+| align="center" | [[Force India]]
+| style="background-color:#DFFFDF"| 7
+| style="background-color:#dfffdf"| 9
+| style="background-color:#DFFFDF"| 7
+| style="background-color:#dfffdf"| 6
+| style="background-color:#dfffdf"| 4
+| style="background-color:#cfcfff"| ''13''
+| style="background-color:#dfffdf"| 5
+| style="background-color:#EFCFFF"| Ret (fudeu Ocon)
+| style="background-color:#DFFFDF"| 7
+| style="background-color:#DFFFDF"| 9
+| style="background-color:#DFFFDF"| 8
+| style="background-color:#cfcfff"| 17 (fudeu Ocon)
+| style="background-color:#DFFFDF"| 9
+| style="background-color:#dfffdf"| 5
+| style="background-color:#dfffdf"| 6
+| style="background-color:#DFFFDF"| 7
+| style="background-color:#DFFFDF"| 8
+| style="background-color:#DFFFDF"| 7
+| style="background-color:#DFFFDF"| 9
+| style="background-color:#DFFFDF"| 7
+! 100
+|-id="31"
+! 8
+| align="left" | [[Arquivo:Bandeira da França.png|20px]] [[Esteban Ocon]]
+| align="center" | [[Force India]]
+| style="background-color:#DFFFDF"| 10
+| style="background-color:#dfffdf"| 10
+| style="background-color:#dfffdf"| 10
+| style="background-color:#dfffdf"| 7
+| style="background-color:#dfffdf"| 5
+| style="background-color:#cfcfff"| 12
+| style="background-color:#dfffdf"| 6
+| style="background-color:#dfffdf"| 6
+| style="background-color:#DFFFDF"| 8
+| style="background-color:#DFFFDF"| 8
+| style="background-color:#DFFFDF"| 9
+| style="background-color:#DFFFDF"| 9 (tretou com Perez)
+| style="background-color:#dfffdf"| 6
+| style="background-color:#dfffdf"| 10
+| style="background-color:#dfffdf"| 10
+| style="background-color:#dfffdf"| 6
+| style="background-color:#dfffdf"| 6
+| style="background-color:#dfffdf"| 5
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#DFFFDF"| 8
+! 87
+|-id="55"
+! rowspan="2" | 9
+| rowspan="2" align="left" | {{ESPb}} [[Carlos Sainz Jr.]]
+| align="center" | [[Scuderia Toro Rosso|Toro Rosso]]
+| style="background-color:#DFFFDF"| 8
+| style="background-color:#dfffdf"| 7
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 10
+| style="background-color:#dfffdf"| 7
+| style="background-color:#dfffdf"| 6
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 8
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#DFFFDF"| 7
+| style="background-color:#DFFFDF"| 10
+| style="background-color:#cfcfff"| 14
+| style="background-color:#dfffdf"| 4 (ganhou o dia)
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| 
+| 
+| 
+| 
+! rowspan="2" | 54
+|-id="7"
+|-
+| align="center" | [[Renault F1 Team|Renault]]
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|
+|
+| style="background-color:#dfffdf"| 7
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 11 
+| style="background-color:#EFCFFF"| Ret
+|-id="27"
+! 10
+| align="left" | [[Arquivo:Bandeira da Alemanha.png|20px]] [[Nico Hülkenberg]]
+| align="center" | [[Renault F1 Team|Renault]]
+| style="background-color:#CFCFFF"| 11
+| style="background-color:#cfcfff"| 12
+| style="background-color:#dfffdf"| 9
+| style="background-color:#dfffdf"| 8
+| style="background-color:#dfffdf"| 6
+| style="background-color:#efcfff"| Ret
+| style="background-color:#dfffdf"| 8
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 13
+| style="background-color:#dfffdf"| 6
+| style="background-color:#cfcfff"| 17†
+| style="background-color:#DFFFDF"| 6
+| style="background-color:#cfcfff"| 13
+| style="background-color:#efcfff"| Ret
+| style="background-color:#cfcfff"| 16
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 10
+| style="background-color:#dfffdf"| 6
+! 43
+|-id="19"
+! 11
+| align="left" | {{BRAb}} [[Felipe Massa]]
+| align="center" | [[Williams F1|Williams]]
+| style="background-color:#DFFFDF"| 6
+| style="background-color:#cfcfff"| 14
+| style="background-color:#DFFFDF"| 6
+| style="background-color:#dfffdf"| 9
+| style="background-color:#cfcfff"| 13
+| style="background-color:#dfffdf"| 9
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 9
+| style="background-color:#dfffdf"| 10
+| (tá com dorzinho de cabeça?)
+| style="background-color:#DFFFDF"| 8
+| style="background-color:#DFFFDF"| 8
+| style="background-color:#CFCFFF"| 11
+| style="background-color:#dfffdf"| 9
+| style="background-color:#dfffdf"| 10
+| style="background-color:#dfffdf"| 9
+| style="background-color:#CFCFFF"| 11
+| style="background-color:#dfffdf"| 7
+| style="background-color:#dfffdf"| 10
+! 43
+|-id="18"
+! 12
+| align="left" | [[Arquivo:Bandeira canada.png|20px]] [[Lance Stroll]]
+| align="center" | [[Williams F1|Williams]]
+| style="background-color:#EFCFFF"| Putz
+| style="background-color:#EFCFFF"| Putz²
+| style="background-color:#EFCFFF"| Putz³
+| style="background-color:#cfcfff"| 11
+| style="background-color:#cfcfff"| 16
+| style="background-color:#cfcfff"| 15†
+| style="background-color:#dfffdf"| 9
+| style="background-color:#FFDF9F"| 3
+| style="background-color:#dfffdf"| 10
+| style="background-color:#cfcfff"| 16
+| style="background-color:#cfcfff"| 14
+| style="background-color:#cfcfff"| 11
+| style="background-color:#dfffdf"| 7 (largou em segundo pra nada)
+| style="background-color:#DFFFDF"| 8
+| style="background-color:#DFFFDF"| 8
+| style="background-color:#EFCFFF"| (Putz²)²
+| style="background-color:#cfcfff"| 11
+| style="background-color:#DFFFDF"| 6
+| style="background-color:#cfcfff"| 16 
+| style="background-color:#cfcfff"| 18
+! 40
+|-id="8"
+! 13
+| align="left" | {{FRAb}} [[Romain Grosjean]]
+| align="center" | [[Haas F1 Team|Haas]]
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 11
+| style="background-color:#dfffdf"| 8
+| style="background-color:#efcfff"| Ret
+| style="background-color:#dfffdf"| 10
+| style="background-color:#dfffdf"| 8
+| style="background-color:#dfffdf"| 10
+| style="background-color:#cfcfff"| 13
+| style="background-color:#dfffdf"| 6
+| style="background-color:#cfcfff"| 13
+| style="background-color:#efcfff"| Ret
+| style="background-color:#dfffdf"| 7
+| style="background-color:#cfcfff"| 15
+| style="background-color:#dfffdf"| 9
+| style="background-color:#cfcfff"| 13
+| style="background-color:#dfffdf"| 9
+| style="background-color:#cfcfff"| 14
+| style="background-color:#cfcfff"| 15
+| style="background-color:#cfcfff"| 15
+| style="background-color:#cfcfff"| 11
+! 28
+|-id="20"
+! 14
+| align="left" | [[Arquivo:Bandeira da Dinamarca.png|20px]] [[Kevin Magnussen]]
+| align="center" | [[Haas F1 Team|Haas]]
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 8
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 13
+| style="background-color:#cfcfff"| 14
+| style="background-color:#dfffdf"| 10
+| style="background-color:#cfcfff"| 12
+| style="background-color:#dfffdf"| 7
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 12
+| style="background-color:#cfcfff"| 13
+| style="background-color:#cfcfff"| 15
+| style="background-color:#cfcfff"| 11
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 12
+| style="background-color:#dfffdf"| 8
+| style="background-color:#cfcfff"| 16
+| style="background-color:#dfffdf"| 8
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 13
+! 19
+|-id="14"
+! 15
+| align="left" | {{ESPb}} [[Fernando Alonso]]
+| align="center" | [[McLaren]]
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 14†
+| NL
+| style="background-color:#CFCFFF"| 12
+| coisa melhor pra fazer
+| style="background-color:#cfcfff"| 16†
+| style="background-color:#dfffdf"| 9
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| ''6''
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 17†
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 11
+| style="background-color:#cfcfff"| 11
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 10
+| style="background-color:#dfffdf"| 8
+| style="background-color:#dfffdf"| 9
+! 17
+|-id="2"
+! 16
+| align="left" | [[Arquivo:Bandeira da Belgica.png|20px]] [[Stoffel Vandoorne]]
+| align="center" | [[McLaren]]
+| style="background-color:#CFCFFF"| 13
+| style="background-color:#efcfff"| Ret
+| NL
+| style="background-color:#CFCFFF"| 14
+| style="background-color:#efcfff"| Ret
+| style="background-color:#efcfff"| Ret
+| style="background-color:#cfcfff"| 14
+| style="background-color:#cfcfff"| 12
+| style="background-color:#cfcfff"| 12
+| style="background-color:#cfcfff"| 11
+| style="background-color:#dfffdf"| 10
+| style="background-color:#cfcfff"| 14
+| style="background-color:#efcfff"| Ret
+| style="background-color:#dfffdf"| 7
+| style="background-color:#dfffdf"| 7
+| style="background-color:#cfcfff"| 14
+| style="background-color:#cfcfff"| 12
+| style="background-color:#cfcfff"| 12
+| style="background-color:#efcfff"| Ret
+| style="background-color:#cfcfff"| 12
+! 13
+|-id="30"
+! 17
+| align="left" | [[Arquivo:Bandeira da Inglaterra.png|20px]] [[Jolyon Palmer]]
+| align="center" | [[Renault F1 Team|Renault]]
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#CFCFFF"| 13
+| style="background-color:#CFCFFF"| 13
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#CFCFFF"| 15
+| style="background-color:#CFCFFF"| 11
+| style="background-color:#cfcfff"| 11
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 11
+| NL
+| style="background-color:#cfcfff"| 12
+| style="background-color:#cfcfff"| 13
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#dfffdf"| 6 (até que enfim)
+| style="background-color:#CFCFFF"| 15
+| style="background-color:#cfcfff"| 12
+| NP
+| NP
+| NP
+| NP
+! 8
+|-id="94"
+! 18
+| align="left" | [[Arquivo:Bandeira da Alemanha.png|20px]] [[Pascal Wehrlein]]
+| align="center" | [[Sauber]]
+|Les
+|Les
+| style="background-color:#cfcfff"| 11
+| style="background-color:#cfcfff"| 16
+| style="background-color:#dfffdf"| 8
+| style="background-color:#efcfff"| Ret
+| style="background-color:#cfcfff"| 15
+| style="background-color:#dfffdf"| 10
+| style="background-color:#cfcfff"| 14
+| style="background-color:#cfcfff"| 17
+| style="background-color:#cfcfff"| 15
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 16
+| style="background-color:#cfcfff"| 12
+| style="background-color:#cfcfff"| 17
+| style="background-color:#cfcfff"| 15
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 14
+| style="background-color:#cfcfff"| 14 
+| style="background-color:#cfcfff"| 14
+! 5
+|-id="26"
+! 19
+| align="left" | [[Arquivo:Bandeira da Rússia.png|20px]] [[Daniil Kvyat]]
+| align="center" | [[Scuderia Toro Rosso|Toro Rosso]]
+| style="background-color:#DFFFDF"| 9
+| style="background-color:#efcfff"| Ret
+| style="background-color:#cfcfff"| 12
+| style="background-color:#cfcfff"| 12
+| style="background-color:#dfffdf"| 9
+| style="background-color:#cfcfff"| 14†
+| style="background-color:#efcfff"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 16
+| style="background-color:#cfcfff"| 15
+| style="background-color:#cfcfff"| 11
+| style="background-color:#cfcfff"| 12 
+| style="background-color:#cfcfff"| 12 
+| style="background-color:#efcfff"| Ret
+| NP
+| NP
+| style="background-color:#dfffdf"| 10
+| NP
+| NP
+| NP
+! 5
+|-id="9"
+! 20
+| align="left" | [[Arquivo:Bandeira da Suecia.png|20px]] [[Marcus Ericsson]]
+| align="center" | [[Sauber]]
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 15
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 15
+| style="background-color:#cfcfff"| 11
+| style="background-color:#efcfff"| Ret
+| style="background-color:#cfcfff"| 13
+| style="background-color:#cfcfff"| 11
+| style="background-color:#cfcfff"| 15
+| style="background-color:#cfcfff"| 14
+| style="background-color:#cfcfff"| 16
+| style="background-color:#cfcfff"| 16
+| style="background-color:#cfcfff"| 18†
+| style="background-color:#efcfff"| Ret
+| style="background-color:#cfcfff"| 18
+| style="background-color:#efcfff"| Ret
+| style="background-color:#cfcfff"| 15
+| style="background-color:#efcfff"| Ret
+| style="background-color:#cfcfff"| 13
+| style="background-color:#cfcfff"| 17
+! 0
+|-id="36"
+! 21
+| align="left" | [[Arquivo:Bandeira da Italia.png|20px]] [[Antonio Giovinazzi]]
+| align="center" | [[Sauber]]
+| style="background-color:#CFCFFF"| 12
+| style="background-color:#efcfff"| que merdeiro
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+! 0
+|-id="22"
+! 22
+| align="left" | {{FRAb}} [[Pierre Gasly]]
+| align="center" | [[Toro Rosso]]
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| style="background-color:#cfcfff"| 14
+| style="background-color:#cfcfff"| 13
+| NP
+| style="background-color:#cfcfff"| 13
+| style="background-color:#cfcfff"| 12
+| style="background-color:#cfcfff"| 16
+! 0
+|-id="28"
+! 23
+| align="left" | [[Arquivo:Bandeira da Nova Zelandia.png|20px]] [[Brendon Hartley]]
+| align="center" | [[Scuderia Toro Rosso|Toro Rosso]]
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| style="background-color:#cfcfff"| 13
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#EFCFFF"| Ret
+| style="background-color:#cfcfff"| 15
+! 0
+|-id="22"
+!-
+| align="left" | [[Arquivo:Bandeira da Inglaterra.png|20px]] [[Jenson Button]]
+| align="center" | [[McLaren]]
+| NP
+| NP
+| NP
+| NP
+| NP
+| style="background-color:#efcfff"| Só dar um passeio
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+! 0
+|-
+|-id="40"
+! -
+| align="left" | [[Arquivo:Bandeira da Inglaterra.png|20px]] [[Paul di Resta]]
+| align="center" | [[Williams F1|Williams]]
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| style="background-color:#efcfff"| Ele correu?
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+| NP
+! 0
+|-
+|}
+{{notas}}
+
+===Construtores===
+{| class="wikitable"
+|-
+!Equipe
+!Pontuação
+|-
+|[[Arquivo:Bandeira da Alemanha.png|20px]] [[Mercedes Grand Prix|Meu Pênis GP]]||668
+|-
+|[[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Ferrari|EsCÚderia Ferrada]]||522
+|-
+|[[Arquivo:Bandeira da Austria.png|20px]] [[Red Bull Racing|Red Bull te dá aaasaaas]]||368
+|-
+|[[Arquivo:India flag.png|20px]] [[Force India|Caminhos da Índia]]||187
+|-
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Williams F1|Uillian]]||83
+|-
+|{{FRAb}} [[Renault F1 Team|Foucault]]||57
+|-
+|[[Arquivo:Bandeira da Italia.png|20px]] [[Scuderia Toro Rosso|Torosso]]||53
+|-
+|[[Arquivo:Bandeira dos EUA.png|20px]] [[Haas F1 Team|Halls Black]]||47
+|-
+|[[Arquivo:Bandeira da Inglaterra.png|20px]] [[Team McLaren|'''M'''eu '''C'''arro é '''L'''ento mas '''A'''inda '''R'''oubamos e '''E'''spiamos os '''N'''ego-bom]]||30
+|-
+|[[Arquivo:Bandeira da Suiça.png|20px]] [[Sauber F1 Team|Saúva]]||5
+|}
+
+==Campeão==
+{| class="wikitable" style="margin: 0 auto; width: 30%;"
+|-
+!Vencedor da {{PAGENAME}}
+|-
+![[Arquivo:Lewis-Hamilton-Through-the-years.jpg|300px]]
+|-
+|align=center|<br />'''[[Lewis Hamilton]] ([[Mercedes-AMG Petronas Motorsport|Mercedes]])'''<br />'''(4º título)'''
+|}
+
+{{Temporadas f1}}

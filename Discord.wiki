@@ -1,0 +1,281 @@
+<css>
+* {
+  background: #36393f !important;
+  background-color: #36393f !important;
+  color:#dcddde !important;
+  font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+  text-rendering: optimizeLegibility !important;
+ }
+ .thumbinner, .thumb, .thumbimage {
+  border:0 !important;
+  background-color: transparent !important;
+ }
+ .thumbinner, .thumbcaption, .internal {
+  background-color:#2f3136 !important;
+ }
+
+ .mw-wiki-logo {
+  background: #36393F !important;
+  border-radius: 50%;
+ }
+
+ .canal {
+  transition: background-color 50ms ease-out,color 50ms ease-out;
+  cursor: pointer;border-radius: 3px;
+  padding: 0 2px;
+  font-weight: 500 !important;
+  unicode-bidi: plaintext;
+  color: #7289da !important;
+  background: rgba(114,137,218,.1) !important;
+  position: relative;
+  outline:0;
+  margin:0;
+  border:0;
+  font-style: inherit;
+  font-family: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+  user-select: text;
+  line-height: 1.375rem;-webkit-box-direction: normal;
+ }
+
+ .canal:hover {
+    font-weight: 500 !important;
+    color: #fff !important;
+    background-color: #7289da !important;
+ }
+
+ .ping {
+    cursor: pointer;
+    unicode-bidi: plaintext !important;
+    color: #7289da !important;
+    background: rgba(114,137,218,.1) !important;
+ }
+ 
+ .ping:hover {
+  text-decoration: underline !important;
+ }
+
+ .mensagem-frame {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  margin-top: 1.0625rem !important;
+ }
+
+ .mensagem-inner {
+  margin-top: 0!important;
+  min-height: 2.75rem;
+  padding-left: 72px;
+  padding-top: .125rem;
+  padding-bottom: .125rem;
+  padding-right: 48px!important;
+  position: relative;
+ }
+
+ .mensagem-inner, .mensagem-inner * {
+  background-color: #403F3D !important;
+ }
+
+ .mensagem-inner:before {
+  position:absolute;
+  background-color: #faa61a !important;
+  content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    pointer-events: none;
+    width: 2px;
+ }
+
+ .conteudo-outter {
+  position: static;
+    margin-left: 0;
+    padding-left: 0;
+    text-indent: 0;
+ }
+
+ nav, nav * {
+  background-color:#2f3136 !important;
+  color: #8e9297 !important;
+  font-size: 16px !important;
+    line-height: 20px !important;
+    font-weight: 500 !important;
+    white-space: nowrap !important;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+ }
+ nav, nav * a:hover {
+  color:#dcddde !important;
+  outline: none !important;
+ }
+ nav {
+  border-radius: 5px !important;
+  margin: 5px !important;
+ }
+ .thumbinner {
+  border-radius: 5px !important;
+ }
+ 
+ #content {
+  border: 1px solid transparent !important;
+ }
+ 
+ #content a {
+  color: #00b0f4 !important;
+ }
+ 
+ .client-js, #mw-panel {
+  background-color: #202225 !important;
+ }
+</css>
+{{reescrever}}
+[[Arquivo:Discord-Icon-2021.png|right|200px|thumb|<s>Shortinho do [[Mickey Mouse]]</s> Logotipo do aplicativo.]]
+{{traduzindo|Discórdia}}
+{{vqd|Discordo?}}
+{{c|Bom dia {{link falso|@everyone}}!|<s>[[Você|Filho de uma grande puta]]</s> Usuário antes de ser massacrado pelos restantes}}
+----
+O '''Discord''' é um aplicativo de conversas para [[gordinho]]s [[Peito|tetudo]]s que jogam [[videogame]]s, mas na realidade é mais utilizado por pedófilos, golpistas, pedófilos, lolis, lolicons e principalmente gados e mal intencionados que querem trocar xingamentos até mesmo uma toxicidade que acontece em vários servers, [[shitpost|''shitpostar'']] e, como o nome do próprio ''app'' sugere, causar o caos e a discórdia até serem banidas e irem procurar outro servidor pra encher o saco, e assim recomeçar o vicioso ciclo da vida daqueles que não tem vida, porém, tambêm é um campo de batalha entre otakus, e-girls, lolis, gados, funkeiros e outros em que esses usam armas como shitpostar, ficar raidando servidores e xingar a mãe das coleguinhas para ganhar territórios (servidores), nestes podem ter um sistema de recompensa só para incentivar a população a chegar a estes, as vezes os emojisis <s>(que na verdade são só um monte de PNG mal recortado no [[Photoshop]])</s> é usado para mesma coisa.
+
+== Como funciona? ==
+​
+Tudo começa quando um infeliz resolve criar um servidor na sua [[rede social]] favorita e convida seus coleguinhas para participar. Depois de convidar as pessoas, existem várias possibilidades como: ninguém entrar e o dono ser banido de vários outros servidores por excesso de divulgação pra servidor fantasma; ou várias pessoas entrarem e depois de um tempo todos virarem [[fantasma]], ou seja, um infeliz que ninguém consegue ver, o que mais uma vez leva ao primeiro caso; e por fim, várias pessoas entrarem e o servidor dar certo, mas eventualmente implodir devido a uma [[caralho|caralhada]] de [[spam]], [[shitpost|''shitposts'']] ou gente raidando.
+
+Existe uma pequena coisa a ser feita antes de convidar pessoas pra um servidor, isso é criar canais de texto e voz e um canal de gifs de pornô. Em um servidor do Discord existem vários canais de texto, mas os únicos realmente utilizados são o principal e o ''not safe for work'', que é na verdade ''not safe for life'' (caso entre aqui, abandone toda a sua esperança na humanidade. O que você ver não poderá ser desvisto), fora o de música, onde as pessoas ouvem em grupo músicas não ''ouvíveis'' publicamente (música de [[anime]] e coisas parecidas) e também o chat por voz, onde você descobre que todas aquelas pessoas do servidor com foto de garotinha de anime, são homens (avá).
+
+Além das pessoas e dos canais de texto e voz, existem também os bots, que tem como função principal <s>mandar pornô e spammar seu servidor</s> auxiliar no gerenciamento da porra toda banindo quem faz merda e colocando musiquinhas nos bots, até algum retardado colocar o [[Gemidão do WhatsApp|gemidão do hiroshima nagazap]] pra tocar e deixar todo mundo surdo. Eles funcionam através de comandos que devem ser enviados em algum canal de texto. Por isso, os donos dos servidores costumam criar canais específicos para a utilização desses comandos, o que nunca é respeitado, resultando em canais cheios de [[spam]] de comando, [[gifs]] de [[anime]] e discórdia.
+​
+== '''Usuários:''' ==
+=== [[Anime|Otakus]] ===
+Os maiores da plataforma (que deveriam ser os gamers). São vistos em todo lugar, compartilham memes de anime e hentai, costumam ficar o dia todo (literalmente por causa da Pandemia ou não) na frente da pc batendo punheta e sendo gados pra qualquer [[Femboy|garota]] que usa foto de anime. Ela mora a 2700km desse gado? Isso não interessa à ele! Ela mora na [[puta que pariu|PQP]]? Isso não interessa a ele!
+
+=== '''[[Funk|Pseudo-Bandidos]]''' ===
+Também chamados de "Hypados", são [[funkeiros]] e conseguem ser mais gados que os anteriores. Na maioria são adms e os únicos a terem ''Discord Nitro'', que é quando tu assina uma merda pra ter umas recompensa, incluindo gif no avatar. O nitro é pago com o cartão de crédito clonado que vazou no [[WhatsApp|ZapZap]] ou de algum parente que foi em sua casa e "esqueceu" (o hypado roubou dele e depois devolveu sem nenhum crédito). Sua vida é esperar aparecer um ser humano fêmea para o perseguir até conseguir um nude, apelando para a ditadura, suborno de cargos e acesso vip ao chat de pornografia. Às vezes, usam GIFs do Thomas Shelby, homens femininos com maquiagem, ou até foto de anime pra pagar uma de bandido fodão.
+
+=== '''[[Sad-Boy|Sad-Bois]] 😞''' ===
+Com fotos de perfil de anime (na maioria das vezes chorando) ou outro tipo de personagem de Desenho Animado polúidos (com um monte efeito assim: 乇ㄩ 丂ㄖㄩ ㄒ尺|丂ㄒ乇, 乇ㄩ ᗪㄖㄩ ㄖ 匚ㄩ) e com frases tristes de letra de música aleatória do [[YouTube]], ficam fingindo que tem depressão e são tristes, inseguros, introvertidos frios e calculistas, psicopatas e outras mentiras e ficam postando meme da [[South America Memes|SAM]] de 2015 com o Bart e músicas sad ou apenas... "vivendo" pelo Discord, mesmo que eles dizem que viver é uma bosta, mas continua lá vivendo. <s>Bando de idiota.</s>
+
+=== '''[[Orochinho|Os Orochinhos]] ''' ===
+Galerinha [[shitpost]]er, [[irônica]] e rainha do deboche, existem aos montes em servidores de Youtubers. Seus objetivos são fazer humor negro e tirar sarro de todos os [[Você|normies]] e lacradores do [[Twitter]] falando absurdos e sendo filhos da puta ironicamente preconceituosos só para irritarem os outros invadindo servidores inimigos [[Trava Zap|os travando]] e gritando nas calls; São os mensageiros da morte e da destruição e fingem serem psicopatas e [[Nazismo|nazistas]] só para poder mandar vídeos nazistas e de gore dentro de vídeos de kpop.
+
+=== '''[[Mapper|Mappers]]''' ===
+São encontrados facilmente em servidores de YouTubers e ficam fazendo RP de guerra totalmente irrealista ([[ou não]]), ficam com foto de perfil de [[Polandball]] ou figura histórica tipo [[Dom Pedro II]], discutem sobre política como se a merda da opinião deles fossem importar na porra da INTERNET, criticam lacradores, são monarquistas <s>algo utópico em pleno [[Século XXI]]</s>, são tarados pelo episódio Yakko's World do [[Animaniacs]] e inscritos em canais como: [[DGP Mundo]] e [[VSD Simulações]], sendo esse último uma cópia versão azul e de 2017 do DGP.
+
+=== '''<s>[[Putas]]</s> [[E-girl]]s''' ===
+{{Quote|Toma banho à quando tempo?|Qualquer um|E-girl}}
+
+São as prostitutas da internet que não tomam banho, fingem fumar e bebem [[Monster]]. São adms e as únicas fêmeas de muitos servidores, pois ganharam cargos por trocar a buceta com os adms. Fingem serem otomes (fêmea de otaco) para chamarem atenção dos [[otaku]]s. Ficam forçando a voz para parecer uma personagem de anime. Costumam usar foto de garotas com cabelo mal lavado e colorido. Seu principal objetivo: vender pack (sendo realmente dela ou não). 
+Especialistas em encher o saco, entram em canais de voz procurando quem vai ser o Hypado otário que irá pagar nitro pra ela. Felizmente, são explanadas pelos adms virgens que se frustam quando não recebem um nude. 
+
+=== '''Lolizinhas SENPAiiii ''' ===
+Garotas de 12 a 14 anos com fotos de menininhas de anime que imitam e-girls, mas web-namoram otacos e os usam para ter skins em jogos, dinheiro para poder falar coisas fofas ou apenas conseguirem inscritos em um canal do [[YouTube]] ou conta do [[Twitter]]
+=== '''Gringo 🇺🇲''' ===
+Há apenas dois tipos:
+==== '''Edgy Guys''' ====
+{{Quote|Lol Ni_ga XD|nome de meme americano, 2018}}São shitposters. Ficam fazendo piadas com ni_gas, trappers, Pepe, o sapo, LoL e chamam brasileiros de macacos e fazem piadas racistas.
+==== '''[[SJW]]''' ====
+{{Quote|Trans rights is humans rights u are cringe white cis!!|@Trans_hot bernie 2020, 2020}} 
+
+São um bando de [[anarquista|anarco]][[comunista]]s... Mentira, porque chamá-los de comunistas é uma ofensa aos comunistas! Na real são um bando de bitolados criados na base de [[esperma|leite com porra]], digo, [[leite com pêra|com pêra]] que graças a falta de contato com a realidade acabaram desenvolvendo manias imbecis, tais como ficar falando mal do [[Donald Trump]] e do [[Jair Bolsonaro|Bolsonaro]] num ritmo que lembra a um disco riscado, bem como compartilhar meme ruim com O Doge, a [[Gretchen]] ou algum icone [[brega]] qualquer como o [[Caio Revela]] por exemplo, além de fazer [[mais de 8000]] postagens com suas preferências [[furry|furries]] sensualizando com fotos estilo mulher barbada que se você porventura for falar um A sobre qualquer coisa que não seja a boa e velha massagem no ego inflado desses verdadeiros [[Che Guevara]] de [[apartamento|apê da MRV]], eles não apenas te banem como saem em campanha difamatória por todas as redes sociais que você participe, te acusando de ser [[fascista]] (ironia que [[Benito Mussolini|Mussolini]] era [[socialista]], mas parece que o Professor de História do [[Facebook]] abstrai essa parte pra não queimar o filme da ideologia mofada baseada no [[marxismo]]), [[neonazista]] ou algo que o valha. Adoram se pagar de inclusivos, mas são a favor tão somente da piroca do negão fudendo a branquelada pobre e se você faz alguma piada de [[humor negro]] tipo a que fizemos neste pequeno excerto, ficarão querendo te doutrinar e dizendo que não é bem assim e que tiveram uma educação libertadora ([[risada|conta outra que a piada tá boa]]) e que não são o mais perfeito retrato do que [[Paulo Freire]] dizia quanto ao sonho do oprimido é ser o opressor.
+Vivem de imagem, mesmo pagando mico adoidado com as outras tribos e volta e meia se degladiam entre eles mesmos na disputa por quem consegue mais medalhas nas [[Olimpíadas da Opressão]].
+
+=== ϟϟ Neonazis Pardos ϟϟ ===
+São pré-adolescentes/adolescentes miscigenados com foto de oficial alemão (ou até mesmo do [[Adolf Hitler]]) na foto de perfil e símbolos esquisitos (para se acharem doxxers, sendo que eles pegam esses nicknames em sites de fazer palavras ficarem com letras diferentes) no nickname, que se bancam de europeus e vivem falando que a [[Alemanha Nazista]] poderia ter ganhado a [[Segunda Guerra Mundial]], coisas também como "se o eixo tivesse ganhado já estariamos em Marte!" são ditas. Vivem mandando memes saturados do tipo: "Problemas em se concentrar? Eu sei um lugar perfeito!" achando que estão sendo engraçados. Seu tempo no Discord é basicamente ficar sendo negacionista, chamar os outros de "macaco" e conversar com outros neonazis pardos sobre mísseis V2 e panzerkampfwagen. Heil!
+
+=== '''Criadores de servidores de "recompensas"'''===
+São só pessoas [[Ignorante|inteligentes]] que ficam criando a merda de servidores de "recompensas" só para ganhar membros, e ficam sempre com o estoque cheio com entregas todos os dias e quando um membro convida o suficiente e vai encher o saco na dm pedindo seu nitro, ele ignora a pessoa e <s>continua [[batendo uma]]</s>
+aturando os outros membros pedindo nitro <s>PRA [[CARALHO]]</s> e ignorando, cada vez com mais membros, até que ele chega a 1000 membros, sendo assim, ele pode:
+* Trocar o nome, avatar, canais e tudo do servidor pra fingir que [[Merda|aquilo]] nunca foi de recompensas
+* Vender pra outra pessoa, ou pra outro zé ninguém.
+
+=== '''[[pedófilos|pedo]] ''' ===
+Criminosos e coisas do tipo. Uma das esp3cies mais comuns. Pesam sempre mais de 86 kilos e pintam a barba  e o cabelo.
+
+=== '''[[LGBT+|LGBTs ]] ''' ===
+A espécie [[bissexual]] e [[pansexual]] e a mais comum. Os masculinos dessa espécie podem ser dividimos em femboys, passivos (gostam de dar a bunda/eu/nós) ativos (comedores de cu) gados de personagens fictícios como o v1 de [[ultrakill]]. O habitat natural dessa espécie é o quarto, no qual pedem nudes e namoram. Surpreendentemente não engordam mesmo sendo sedentários.
+
+=== '''[[Discord do Desciclopédia]] ''' ===
+Uma comunidade sem lei, prestes a beirar na avalanche de dessinformação, dessmoderação, todos moderadores são variantes sadboys ou lolizinhas sempai, sem pai literalmente. 
+
+==A relação entre esses <s>bostas</s> personagens==
+{| class="wikitable"
+!
+!Possiveis namorados?
+!Pra quem eles mostram [[Dedo do meio|aquele dedinho]]?
+!Sobre quem que as piadas deles são?
+|-
+!Otakus
+|Lolis+E-girls
+|Os fundadores do movimento Anti-Otakus
+|Lolis
+|-
+!Pseudo-Bandidos
+|Pseudo-Bandidos
+|Ninguêm
+|Otakus
+|-
+!Sad-boy
+|Lolis+E-girls
+|Pseudo-Bandidos
+|Otakus+Pseudo-Bandidos+Lolis
+|-
+!Mappers
+|Ninguêm
+|Não-Mappers
+|Ninguêm (história, mapas e etc)
+|-
+!E-girls
+|Otakus+Pseudo-Bandidos+Sad-Boys
+|Lolis
+|Qualquerum
+|-
+!Lolis
+|Otakus
+|E-girls
+|Qualquerum
+|-
+!Edgy Guys
+|ϟϟ Neonazis Pardos ϟϟ
+|SJW
+|SJW
+|-
+!SJW
+|SJW
+|Edgy Guys+ϟϟ Neonazis Pardos ϟϟ
+|Ninguêm
+|-
+!ϟϟ Neonazis Pardos ϟϟ
+|Edgy Guys
+|SJW
+|SJW+Pseudo-Bandidos
+|}
+
+==Outras coisas do Discord==
+=== Emoticons personalizados ===
+No Discord, há a opção de adicionar emojos da forma que você quiser ao seu servidor (que geralmente são uns PNG's mal cortados no [[Photoshop]] e até no paint em JPG ou umas imagens de anime, afinal, é cheio de [[otaku]] nessa porra) 
+
+=== Discord Nitro ===
+O Discord Nitro é uma forma de jogar dinheiro fora e ajudar financeiramente a equipe do Discord em troca de <s>porra nenhuma</s> ganhar algumas funções extras [[mentira|muito úteis]] como colocar [[gif]] na foto de perfil e enviar [[emoticon|emojo]] de qualquer servidor além de também usar Emojis de GIF (a maioria das pessoas usam isso do nada sem nenhum contexto igual um esquizofrênico) e ganhar uns jogos falidos, fora essas funções, você pode exibir seu Discord Nitro pros seus amigos virtuais, olha só que utilidade bacana ein! Agora você pode ostentar pros seus amiguinhos que você <s>decepcionou os seus 2 neurônios gastando dinheiro pra porra nenhuma</s> agora tem todos esses benefícios. Pode gastar seu dinheiro mensalmente ou anualmente com o Discord Nitro, vale mais a pena do que comprar uma mansão, você claramente terá mais patamar com isso. Os retardados que compram skin por 10 milhões de reais no [[CS GO]] vão querer ter uma aula de perda de QI com você.
+
+=== Discord HypeSquad ===
+Basicamente um enfeitezinho no seu perfil que serve pra [[porra nenhuma]], além disso, se você se inscrever para o HypeSquad como organizador de eventos, você ganha uma camisa... Só isso mesmo agora não presta para nada..
+
+=== King ===
+{{Quote|Hmmmmmm....Coisax? !!|@FormiguinhaZ 1998, 2022}} 
+King é o cara que se acha o anti-heroi Edge do anime e que adora falar com o próprio Eren, oque é extremamente vergonhoso, ele foi preso em situação de League of Legends na casa da vovó em call no Discord chupando dedinho. Preso por fazer merda no Discord.
+
+== Notícias: ==
+
+<center><YouTube>https://youtu.be/XQOAm25MWsk</YouTube><YouTube>https://youtu.be/yuqfy7xOBMY</YouTube></center>
+
+== Ver também ==
+*[[Flamewar]]
+*[[Spam]]
+*[[Chat do UOL]]
+
+{{Redes antissociais}}
+{{oposto|Concord}}
+
+[[Categoria:Redes sociais]]

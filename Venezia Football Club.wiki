@@ -1,0 +1,47 @@
+{{Box ClubeFutebol
+|cor_clara         = orange
+|cor_escura        = black
+|brasao            = Escudo do Venezia.png
+|hino              = 
+|nome_oficial      = 
+|origem            = {{ITA}}''' - [[Veneza]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = Não tem
+|sede              = [[Veneza]]
+|presidente        = Não tem
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = [[Campeonato Italiano]]
+|divisao           = 
+|títulos           = 
+|ranking           = 
+}}
+
+'''Venezia Football Club''' é um time que está sempre presente na Série B, e que na temporada 2024-25 será o saco de pancadas na primeira divisão do campeonato italiano de 2024-25.
+
+== História ==
+O Venezia FC foi fundado em 14 de dezembro de 1907, em uma das cidades mais bonitas e turísticas do mundo: Veneza. Mas, ao invés de se inspirar nos canais românticos e na arquitetura impressionante, os fundadores decidiram focar em algo mais importante: jogar bola! Afinal, por que passear de gôndola quando você pode estar correndo atrás de uma bola?
+
+=== Jogo de Água ou Futebol? ===
+No início, o Venezia FC tinha um pequeno problema: o campo de futebol. Afinal, não é fácil encontrar um espaço seco em uma cidade construída sobre a água. Diz a lenda que os jogadores precisavam driblar poças e desviar de gôndolas perdidas no campo. Mas isso não os impediu de levar o futebol a sério! Bem, pelo menos, tão sério quanto alguém pode levar futebol jogando ao lado de um canal.
+
+=== A Ascensão dos Gondoleiros ===
+Nos anos 30 e 40, o Venezia FC começou a se destacar. Em 1941, o clube conquistou sua primeira grande taça, a Coppa Italia, e a cidade de Veneza parou para comemorar! A festa foi tão grande que dizem que os canais quase transbordaram de tanta alegria. Os jogadores foram carregados em gôndolas pelas ruas, enquanto a torcida cantava e celebrava. Os gondoleiros, que já eram bons em conduzir turistas, se tornaram especialistas em conduzir jogadores campeões.
+
+=== Flutuações no Desempenho ===
+Após o sucesso dos anos 40, o clube passou por altos e baixos. Afinal, um time com raízes tão profundas na água não poderia evitar algumas flutuações. Nos anos 50 e 60, o Venezia FC alternava entre divisões, mas sempre com estilo. A torcida, conhecida por seu entusiasmo, nunca desistiu. Eles inventaram cânticos que ecoavam pelos canais da cidade, misturando paixão pelo futebol com aquele charme veneziano.
+
+=== O Renascimento do Gatinho ===
+Os anos 90 marcaram um renascimento para o Venezia FC. Em 1998, o clube retornou à Serie A, e os venezianos comemoraram como se fosse o Carnaval de Veneza. Foi nesse período que a camisa do clube, com suas cores emblemáticas laranja, preto e verde, se tornou um ícone de estilo. 
+
+{{Campeonato Italiano}}
+
+[[Categoria:Times de futebol da Itália|Venezia]]

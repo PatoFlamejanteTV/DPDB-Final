@@ -1,0 +1,48 @@
+{{Quântico}}
+
+{{Mecânica Quântica}}
+
+{{C|n00b|Erwin Schrödinger|[[Isaac Newton]]}}
+{{C|Vocês não imaginam como é complexa|Erwin Schrödinger|sua equação}}
+{{C|Gatinho, aqui gatinho!|Erwin Schrödinger minutos antes de fazer seus estudos}}
+
+'''Erwin Rudolf Josef Stalin Alexander Popov Schrödinger''' (Viena, [[25 de Maio]] de 1901 - [[Londres]], [[14 de Setembro]] de 1997) foi um físico <s>maluco</s> austríaco famoso por ter ciado a [[Mecânica Quântica]] e por cheirar e torturar gatinhos.
+[[Arquivo:Erwin Schrödinger.jpg|thumb|250px|left|Erwin Schrödinger]]
+==Biografia==
+Schrödinger, austríaco comedor de salsicha e torta floresta negra, nascido em alguma época antes da invenção da roda, do ipod e da pepsi twist foi um dos primeiros cientistas malucos a ser descrito na história da psiquiatria moderna. Mais conhecido por seu brilhante feito franksteiniano, Schödinger é o pai do primeiro gato zumbi registrado na historia. Contrariamente aos usos haitianos, a fabricação do gato zumbi em questão não foi realizada com o uso de veneno de baiacu. Para criar seu gato zumbi, o pirado cientista o colocou numa caixa lacrada, contento substância radiotiva. Partindo de uma premissa maluca onde atomos cairiam, como Lucifer caira um dia, ele concluiu que o gato na caixa, agora mutante, graças a substância radioativa, estaria morto e vivo ao mesmo tempo, criando assim, o primeiro gato zumbi da história. Apesar de ser o verdadeiro pai do gato zumbi, o não menos lunático [[autor]] de livros de quinta Stephen King foi quem conquistou a fama ao escrever sua obra prima "Cemitério Maldito".[[Arquivo:O gato está vivo.png|thumb|170px|right|A verdade sobre o gato]]
+A família de Schrödinger entrou com uma ação na justiça do Maine em face do Sr King, requerendo o pagamento de perdas e danos, lucros cessantes e demais despesas relacionadas ao tratamento psicológico do gato zumbi desconsiderado pela mídia. Até o presente momento ainda não existe uma sentença, favorável ou desfavorável.
+
+Atualmente, o PETA, o WWF e outros grupos ambientalóides resolveram processar a Áustria e a Igreja Católica pela falta da consideração com os felinos amigos do homem, ao permitir experimentos sinistros como o que resultou no gato Zumbi. No início de 2008, o papa nazi Bento Gonçalves escreveu uma carta aos parentes do gato e demais gatos do mundo pedindo perdão pela absoluta desconsideração, feita pela Igreja, dos direitos do animal. Na carta ainda, o Papa, usando de seus atributos papais, oferece indulgência ao gato, garantindo sua entrada no céu, mesmo após o mesmo ter perdido sua alma.
+
+Pouco se comenta na literatura cientifica, mas o primeiro animal a ser colocado na caixa foi um rato, que após sofrer mutação genética, graças â substância radioativa, roeu um buraco na superficie da caixa e fugiu, causando a maior devastação humana na Europa graças a Peste bubônica. Não obstante, Schrödinger continuou seus experimentos até que, ao testar um leão na caixa e, percebendo a presença de uma luz misteriosa e esverdeada por um minusculo buraco num de suas quinas, abriu-a vindo a ser devorado pelo leão, agora bioluminescente. 
+
+Outro dado muito pouco discutido, era a predileção do cientista austríaco em prender seus animais num quartinho no porão por diversos anos, antes de colocá-los dentro da tal caixa.
+[[Arquivo:Schrödinger cat.png|thumb|200px|left|Pobre bichano...]]
+
+==Gato de Schrödinger==
+{{artigo principal|[[Gato de Schrödinger]]}}
+Schrödinger, muito preocupado com a possibilidade de seu bixano morrer, conduziu experiências quânticas com seu gatinho de estimação a fim de poder tornar o gato vivo e morto ao mesmo tempo. Dessa forma, ele teria seu bichinho pra sempre, embora só na metade do tempo, enquanto afastaria a outra metade com mandingas aprendidas durante seu estágio na Bahia, quando completou 18 anos.
+
+==Equação de Schrödinger==
+[[Arquivo:I lov cat.gif|thumb|150px|Botton de Schrödinger]]
+Como todo físico que se preze, Schrödinger também tem a sua equação. Criada na década de 20, logo após Schrödinger entrar no estudo da Mecânica Quântica e concebida depois uma overdose de gatinhos, a equação de Schrödinger é uma FDP (função densidade de probabilidade) que descreve a probabilidade de uma função de onda colapsar:
+
+::<math> H(t) \left| \psi (t) \right\rangle = i \hbar {\partial\over\partial t} \left| \psi (t) \right\rangle</math>
+
+Ninguêm até hoje conseguiu decifrar estes hieróglifos, sendo assim, apenas Schrödinger sabe calcular essas probavilidades. No entanto, o cientista [[Eddie Murphy]], enquanto realizava estudos, decifrou e utilizou essa equação como uma bas bases de sua teoria que une a [[Mecânica Quântica]] e a [[Lei de Murphy]]. Schrödinger, que viveu para ver o trabalho de Murphy, disse que o mesmo era tão foda quanto ele ele, e ajudou a desenvolver a [[Murphydinâmica Quântica]].
+
+==Ver também==
+*[[Mecânica Quântica]]
+*[[Gato de Schrödinger]]
+*[[Cheiramento de gatinhos]]
+
+{{Gênios}}
+[[Categoria:Físicos da Áustria]]
+[[Categoria:Vencedores do Prêmio Nobel]]
+[[Categoria:Pessoas que já viraram presunto]]
+[[en:Erwin Schrödinger]]
+[[es:Erwin Schrödinger]]
+[[he:ארווין שרדינגר]]
+[[it:Erwin Schrödinger]]
+[[ja:エルヴィン・シュレーディンガー]]
+[[zh-tw:薛定諤]]

@@ -1,0 +1,26 @@
+{{computeiro}}
+
+[[Arquivo:Idiota.jpg|thumb|300px|Típica parte interessada dum projeto, já dá até pra ver o nível do projeto]]
+
+'''Partes interessadas'''... O que é essa coisa com nome estranho? Quem está interessado em quem? Segundo o [[PMBOK]], as partes interessadas, também chamadas de ''stakeholders'' pra evitar a vergonha de falar partes interessadas, são... Vai ser difícil explicar que as partes interessadas são as partes que têm interesse em algo no projeto, pois é só isso mesmo.
+
+== Conceito ==
+
+Ser uma parte interessada significa que a pessoa está com interesse num projeto. Apesar desse nome comum, parte interessada, ele é direcionado apenas aos projetos. Poderia ser partes interessadas em [[televisão]], partes interessadas em pornografia na [[internet]], partes interessadas em compartilhar o ânus, entre outras coisas que poderíamos citar sobre ser uma parte interessadas, mas não, é somente a ver com projetos, tanto que esse termo foi registrado apenas para ser usado em projetos. Se você tem interesse em algo, por exemplo, bananas verdes, você não é uma parte interessada em banana verde e sim uma pessoa interessada em banana verde, e um idiota também por gostar de banana verde.
+
+== Quem são ==
+
+Quase qualquer imbecil que tem interesse no projeto pode ser uma parte interessada. Podem ser pessoas, empresas, clubes, organizações, enfim qualquer merda pode ser uma parte interessada, até um cachorro se conseguir ajudar no projeto, nem que seja cagando em cima do [[cronograma do projeto]], o que já será uma ajuda válida.
+
+Normalmente usa-se o termo com a equipe do projeto, claro, pois se não fossem uma parte interessada, com certeza seria um projeto de bosta. Também são partes interessadas os clientes e patrocinadores do projeto, pois eles que levarão a pior se o projeto for uma merda, então há mesmo um interesse. Para a [[gestão de projetos]], os concorrentes não são partes interessadas pois o interesse deles é mais é que o projeto adversário se exploda.
+
+== Ver também ==
+
+* [[Estrutura analítica do projeto]]
+* [[Identificação de partes interessadas no projeto]]
+* [[Planejamento do gerenciamento dos recursos humanos do projeto]]
+
+{{Processos de gerenciamento de projetos}}
+
+[[Categoria:Administração]]
+[[Categoria:Gestão de projetos]]

@@ -1,0 +1,68 @@
+{{logotipo falso|Wikipedia-logo-v2-pt.svg|135|top=151|left=180}}
+<div class="tagline"><span style="color:black; font-size: 94%">Origem: Wikipédia, a enciclopédia livre.</span></div>
+{{#css:
+#mw-head{background:transparent !important;}
+.tagline {
+position:absolute !important;
+top:-10px;
+left:0px;
+z-index:100;
+}
+#siteNotice{display:none !important;}
+#p-logo a {background:transparent !important;}
+}}
+<css>
+#siteNotice{display:none}
+</css>
+{| class="infobox" style="font-size: 90%; width: 25%;"
+| <div style="text-align: center">'''Histórico'''</div>
+|-
+|
+* [[31 de Julho]] de [[2006]]: ''Instituto [[Datafoda-se]]'' publica matéria sobre a Wikipedia feita por Dercy, a qual apresenta uma entrevista com Essjay.
+* [[2007|Janeiro de 2007]]: Essjay é [[Roberto Justus|demitido da Wikia]].
+* [[7 de Janeiro]] de [[2007]]: Essjay posta detalhes autobiográficos em sua página de usuário na Wikia, informando orientação sexual, religião, site preferido e moradia desde a idade de 19 anos e cargos dentro dos vários projetos da Wikimedia Foundation. Estes detalhes são muito diferentes das declarações anteriores feitas na página de usuário de Essjay na Wikipedia, sobre as bucetas cabeludas que ele comeu.
+* [[23 de Fevereiro]] de [[2007]]: [[Jimmy Wales|Wales]] anuncia a nomeação de Essjay para o ''Wikipedia's Slutty Committee'' (Comitê de Sacanagem da Wikipedia).
+* [[28 de Fevereiro]] de [[2007]]: ''Ñ.intendo'' faz uma verificação sobre a correção dos dados apresentados no artigo do ''Datafoda-se''.
+* [[3 de Março]] de [[2007]]:
+** Baleias faz uma declaração de amor em sua página de discussão na Wikipedia.
+** Essjay anuncia sua saída da Wikipedia em sua página de discussão na Wikipedia (não podia anunciar na Desciclopédia, não é?).
+* [[5 de Março]] de [[2007]]: A matéria recebe cobertura do ''[[Datafoda-se]]''.
+* [[6 de Março]] de [[2007]]: O assunto é abordado no ''Bobagento''.
+* [[7 de Março]] de [[2007]]: A matéria é tratada num artigo do [[Humortadela]] reproduzido por mais de 8000 órgãos da mídia listados no ''[[cache]]'' de notícias do [[Google]].</div> 
+* [[19 de Março]] de [[2007]]: O ''Datafoda-se'' publica as desculpas formais de Baleias.
+|}
+A '''controvérsia Essjay''' surgiu em [[Fevereiro]] de [[2007]] logo após o Instituto [[Datafoda-se]] ter observado que '''Essjay''', proeminente editor e [[administrador da Wikipédia]] anglófona, mais tarde auto-identificado como '''Ryu Hoshi''', havia feito afirmações falsas em sua página de usuário na Wikipedia<ref name="Ratcliffe"> Tua mãe ([[5 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Wikipedia: Why does Essjay need to “protect himself”?], Bobagento.com. Recuperado em [[7 de Março]], [[2007]]</ref><ref name="iTWire"> Aviões do Forró ([[2 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Wikipedia: did one of its admins lie?]. iTWire. Página visitada em 06-03-2007.</ref><ref name="Inq"> Nick Russel ([[1 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Wikipedia 'expert' lied about qualifications]. [[O Inquisitor]]. Página visitada em 06-03-2007.</ref><ref> Papai Noel ([[8 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Wikipedia Mulls Proof Of Credentials]. [[Desciclopédia]]. Página visitada em 18-03-2007.</ref> e numa entrevista telefônica<ref name="newyorker"> [[Dercy Gonçalves]] ([[24 de Julho]] de [[2006]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Can Wikipedia conquer expertise?]. Você deve saber tudo. Datafoda-se. Página visitada em 06-03-2007.</ref> relativas à sua orientação sexual, religião, preferência de site e moradia.<ref name="times2"> Caham, estou com tosse ([[12 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha After False Claim, Wikipedia to Check Degrees]. Tecnologia. [[Datafoda-se]]. Página visitada em 12-03-2007.</ref><ref name="Guardian"> Frankstein ([[8 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Read me first]. Tecnologia. [[O Guardião]]. Página visitada em 18-03-2007.</ref> Embora Essjay, que trabalhou na Wikia durante um curto período, afirmasse que era [[Macho|caba ome]], [[crente]] <s>do cu quente</s> fervoroso, que adorava a Wikipédia e morava numa mansão de 17 quartos e 19 banheiros na [[Inglaterra]],<ref name="Wolfson"> Werewolf Andrew ([[6 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Wikipedia editor who posed as professor is Ky. dropout]. Local News. [[O Jornal do Couro]]. Página visitada em 06-03-2007.</ref> ele era de fato um [[homossexual]] [[satanista]] [[descíclope]] que morava no [[Complexo do Alemão]]. A pança discreta na titulação foi trazida à atenção do público em fins de Fevereiro de 2007 quando o Instituto Datafoda-se acrescentou uma nota vandalizadora ao artigo de Julho de 2006 sobre a Wikipedia, pelo qual Essjay havia sido entrevistado.<ref name="newyorker"/>
+
+A reação à divulgação foi bastante ampla, abrangento comentários [[Ofensas|carinhosos]] e [[Fail|felizes]] de [[wikipedista]]s, além de vergonha alheia na mídia eletrônica, virtual e impressa. A comunidade da [[Wikipeida]] vistoriou as edições de artigos de Essjay no site para verificar sua credibilidade, ao mesmo tempo em que o pessoal fazia flamewar para piorar o tratamento do projeto quanto à identificação e credenciais.
+
+[[Jimmy Wales]], fodedor da [[Wikipédia]] e presunto da [[Wikia]],<ref> Mc Créu ([[6 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Wikipedia founder hunts for gold]. CQC. Página visitada em 13-03-2007.</ref> inicialmente defendeu o uso de credenciais falsas por parte de Essjay, declarando que "não interessa se Essjay é chegado na fruta ou se ele gosta de peidar na linguiça, o que interessa é que ele continue criando artigos aqui pra encher a Wikipédia e manipular as informações".<ref name="newyorker"/> Todavia, posteriormente, quando percebeu que o Essjay tinha dado uma cantada nos outros wikipedistas, chamando eles de "gatos, gostosos e lindões",<ref name="Wolfson"/> e que Essjay estava prestes a fazer o mesmo com o Jimbo, Wales retirou seu apoio e exigiu que Essjay renunciasse aos seus cargos voluntários na Wikipédia (e fosse banido dela) e ao seu emprego pago como babador de ovo da Wikia.<ref name="Ratcliffe"/> E assim aconteceu, em Março de 2007.
+
+== A entrevista ao ''Datafoda-se'' ==
+[[Arquivo:Essjaylol.png|thumb|left|150px|Imagem de Essjay de seu perfil na [[Wikia]].]]
+[[Dercy Gonçalves]], uma jornalista do ''[[Datafoda-se]]'' e vencedora do [[Prêmio Putz Grilla]], entrevistou Essjay como [[merda|fonte]] para um artigo sobre a Wikipedia ("Vão à merda" [[31 de Julho]] de [[2006]]), para o qual ele lhe havia sido recomendado por um membro da [[Uncyclomedia Foundation]]. De acordo com ''Datafoda-se'', Essjay "estava relutante por descrever sua escravidão como administrador da Wikipeida mas não gostaria de identificar-se além da confirmação das gostosas que ele diz ter pegado em sua página de usuário."<ref name="newyorker" /> Descrevendo entre suas bucetas que ele comeu e lambeu, o artigo dizia que Essjay [[Nerd|gastava quatorze ou mais horas por dia na Wikipedia]], mas que acautelava-se mantendo sua ''orientação sexual'' em segredo para seus colegas e família. Essjay foi representado como levando seu [[vibrador]] para a sala de aula, para poder ficar disponível aos outros filhos da puta enquanto aplicava [[Injeção|injeções]].<ref name=newyorker/> Posteriormente, Essjay comentou em sua página de usuário na Wikipedia que havia tapeado a Dercy ao "fazer um bom trabalho interpretando o papel higiênico."<ref name="Guardian"/>
+
+=== Identidade revelada ===
+Quando Michael Jordan foi contratado pela Washington Wizards em [[2007|Janeiro de 2007]], Essjay comprovadamente fez mudanças em seu perfil na Desciclopédia e "deixou claro [[Homossexual|quem ele realmente era]]". O ativista da [[What the Fuck]] e crítico da Wikipédia [[Doutor Roberto]] relatou então a pança discreta de orientação sexual de Essjay ao ''Instituto Datafoda-se''.,<ref> Rei das Palhaçadas ([[2 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha A Wiki web they've woven]. Burguer King. 24 Days. Página visitada em 06-03-2007.</ref> Em fins de Fevereiro de 2007, o ''Instituto Datafoda-se'' atualizou seu artigo com uma correção indicando que "Essjay" tinha subsequentemente identificado-se como [[Jeremias]]<ref name="Buceta" /> e, além disso, declarava que "ele havia sido descrito no artigo como um 'um bêbado filho da puta que vai pra balada todos os dias pra pegar milhares de mulheres' com 'um [[pênis]] de [[Pra me comer, é preciso ter trinta centímetros de pirú|30 centímetros]] e especialista em [[sexo anal]].' Essjay agora diz que seu verdadeiro nome é Clodovil, que tem 24 anos, nunca comeu uma buceta na vida e gosta de [[Enfiar coisas no cu|enfiar o dedo no rabo]]."<ref name="newyorker" /> De acordo com  Essjay, estas credenciais eram parte de uma ''persona'' online que ele havia criado, em parte para evitar bisbilhoteiros.<ref name = "iTWire" /> [[De fato]], ele só havia batido punhetas para atrizes famosas ("Angelina Jolie")<ref name="Buceta"/> ao editar seus artigos.<ref name="Buceta"> Frankstein ([[8 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Read me first]. Tecnologia. [[O Guardião]]. Página visitada em 18-03-2007.</ref><ref name="Caralho"> Aviões do Forró ([[2 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Wikipedia: did one of its admins lie?]. iTWire. Página visitada em 06-03-2007.</ref><ref name="Bunda"> Nick Russel ([[1 de Março]] de [[2007]]), [http://desciclopedia.org/wiki/Predefini%C3%A7%C3%A3o:Pegadinha Wikipedia 'expert' lied about qualifications]. [[O Inquisitor]]. Página visitada em 06-03-2007.</ref>
+
+== Notas ==
+<references/>
+
+== Ver também ==
+ 
+* [http://en.wikipedia.org/w/index.php?title=User_talk:Essjay Página impessoal de discussão de Essjay na Wikipedia, com a notícia de sua retirada do projeto]
+* [[Eu odeio esse site]]
+* [[Críticas à Desciclopédia|Críticas à <s>Wikipédia</s> Desciclopédia]]
+* [[Controvérsia Seigenthaler]]
+* [[Henryk Batuta]]
+
+== Ligações externas ==
+*[http://g1.globo.com/planeta-bizarro/noticia/2011/09/americana-e-demitida-por-faltar-ao-trabalho-para-doar-rim-para-o-filho.html Americana é demitida por faltar ao trabalho para doar rim para o filho] em [http://g1.globo.com/ G1].
+*[http://g1.globo.com/planeta-bizarro/noticia/2011/09/britanico-consegue-devorar-cafe-da-manha-com-7500-calorias.html Britânico consegue devorar café da manhã com 7.500 calorias]
+
+
+{{Oposto|Controvérsia Paulo Never}}
+[[Categoria:Contos do vigário]]
+[[Categoria:Controvérsias|Essjay]]
+[[Categoria:Idiotas]]
+[[Categoria:Pessoas que eram sacaneadas na escola]]
+[[Categoria:Wikipedistas]]

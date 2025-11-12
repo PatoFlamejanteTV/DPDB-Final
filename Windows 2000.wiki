@@ -1,0 +1,38 @@
+{{Logotipo falso|Winlogo3.gif}}
+{{Microsoft}}
+<span style="position:fixed;bottom:0px;right:0px;opacity:0.65;filter:alpha(opacity=65);-moz-opacity: 0.65">[[Arquivo:Winoriginal.png]]</span>
+
+'''''Aviso''': Este artigo é melhor visualizado com o [[Mozilla Firefox]] ou com o [[Google Chrome]].''
+
+{{Você quis dizer|Windows 95}}
+{{Você quis dizer|Windows Dramático}}
+O '''Microsoft Windows 2000''', também conhecido como '''Windows 2kb''', é um sistema operacional ultra-revolucionário, ultra-antigo e ultralento lançado por [[Bill Gates|Severino Portões]] no ano [[2000]]. 
+
+== Criação ==
+[[Arquivo:Windows 2000.jpg|thumb|400px|Você há duas horas esperando o Windows 2000 carregar.]] 
+Bem, após o sucesso esmagador do [[Windows NT]] com a venda incrível de [[5]] unidades (o dobro do esperado pela [[Microsoft]], dado o fato do sistema operacional não contar com o recurso favorito dos usuários de [[Windows 98|Windows]], isso é, os crashs esmagadores), bem após pelo menos pagar as mesas onde foi feito o Windows NT, a Microsoft decidiu lançar outro baseado no Windows NT, o incrível Windows 2000.
+
+Claro, um pouco mais pesado, um pouco mais com cara de [[Windows 95]], com detecção automática igual ao dele (não precisando mais setar o IRQ e DMA na mão como no [[Windows NT]]), e foi um incrível sucesso de [[10]] unidades vendidas!
+
+Porém, [[Steve Ballmer]] não gostou da direção que o Windows 2000 estava indo, já que estava muito parecido com aquela porcaria [[hippie]], o [[Linux]] e deliberadamente mandou fazer '''todos''' os softwares da [[Microsoft]] ficarem incompatíveis com o Windows 2000, forçando todos os 10 usuários a se mudar para o [[Windows XP]], e depois o kernel estável e etc do Windows 2000 foi levado para a "salinha secreta" onde foi devidamente eliminado e varrido pra debaixo do [[tapete]].
+
+Sistema de muitas funcionalidades, as principais e mais desenvolvidas são o [[Campo Minado]] e o [[Paint]]. Lembrando que pra não deixar o Tio Bill falir, tentando fazer a vendas aumentarem, foi colocado no boot de inicialização do Windows 2000 a seguinte frase: ''Desenvolvido com tecnologia NT.'' O Windows NT foi tão bom, que para tentar enganar o povo fizeram isso. Assim Tio Bill, conseguiu aumentar as vendas e juntou a grana pra desenvolver o Windows XIS PÊ!
+
+== Requisitos ==
+Os requisitos pra rodar essa bosta eram:
+* CPU Atom, pois Pentium não existia na mão de Brasileiro.
+* 17 megabytes de RAM, pois era o que o Windows 98 necessitava, e ninguém upava de 16 megabytes pra 17 megabytes.
+* 700 megabytes de memória do HDD, ''necessário ser HDD, pois SSD é rápido e o Windows 2000 odeia coisas rápidas.''
+
+Se achou as configurações ridículas, <s>parabéns são mesmo</s> volta pro tempo e aprende pô!
+
+Aliás se você tem um PC Podre e está pensando em voltar pro Windows 2000, o suporte já acabou desde 2001 e esse sistema já estava um lixo antes disso!
+
+{{esboço}}
+{{windows}}
+
+[[en:Windows 2000]]
+[[nl:Windows 2000]]
+[[no:Windows 2000]]
+[[ru:Windows 2000]]
+[[uk:Necrosoft Windows 2000]]

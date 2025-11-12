@@ -1,0 +1,50 @@
+<choose>
+<option>
+{{detetive}}
+</option>
+{{inteligente}}
+</option>
+</choose>
+{{computeiro}}
+
+{{vqd|Detetive Virtual}}
+
+'''Fábrica de Noobs''' é um canal no [[Youtube]] protagonizado por um moleque superdotado e inteligente chamado Satãnael Antonidacu, que pode ser considerado o [[L]] do Youtube, onde ele desvenda e desmascara [[teorias da conspiração]], [[creepypasta]]s, e coisas misteriosas em geral.
+Seus fãs são nerds e 80% dos seus vídeos são top .
+
+==Sobre==
+<choose>
+<option>
+[[Arquivo:Fábrica de Noobs logo.jpeg|thumb|250px|Foto de perfil do canal do YouTube dele, o significado disso ninguém sabe (talvez uma placa para deficientes).]]
+</option>
+<option>
+[[Arquivo:Fábrica de Noobs.jpeg|thumb|250px|O próprio, com seus longos e sedosos cabelos]]
+</option>
+<option>
+[[Arquivo:Tumblr o16n2kBlpX1ta3qyvo1 1280.jpg|thumb|300px|[[Você]] assistindo os vídeos do canal]]
+</option>
+</choose>
+
+Conhecido por realizar diversas investigações para desmistificar baboseiras contadas por [[youtubers]] teens, teorias conspiratórias malucas, coisas aterrorizantes relacionadas a [[Deep Web]], seitas satânicas de comedores de criancinhas e inúmeras [[creepypastas]] da internet juntamente com seus amigos do [[Reddit]], Nataniel é o melhor exemplo de vagabundo e investigador policial de meia tigela. Sempre que surge alguma coisa assustadora e misteriosa na internet o moleque aparece para explicar e fornecer as [[Fontes fiáveis|fontes fiáveis]]. Além disso ele também gosta de explicar coisas aleatórias sobre informática para [[Para Leigos|para leigos]], sendo a Deep Web, [[Software livre]], [[Linux]], [[Ubuntu]] e essas quinquilharias o foco de tais explicações.  
+
+Hacker por hobby, tem amplo conhecimento  técnico relacionado a computação e durante suas investigações gosta de matar baratas com tiros de canhões, utilizando ferramentas profissionais para desmistificar lendas urbanas da internet e entregar <s>fotos do Homem-Aranha</s> os fatos, levando canais de desinformação e creepypasta como o [[Você Sabia?]] a falência.
+
+O canal é bastante indicado para cagões que se recusam a acreditar que os contos de terror da internet são reais e querem alguma explicação, céticos que não acreditam nas besteiras aterrorizantes que dizem pela internet e aspirantes a investigador de delegacias de crimes virtuais.
+
+Em suma, lendas e boatos como [[Cicada 3301]], [[333-333-333]], [[Marina Joyce]] e outros, sempre caem por terra quando Nataniel toma conhecimento delas.
+
+==Exemplo de vídeo==
+
+<YouTube> 
+title=Desmistificando: Teoria da Terra Plana
+movie_url=https://www.youtube.com/watch?v=gjj-aa7vGDM
+embed_source_url=https://www.youtube.com/watch?v=gjj-aa7vGDM
+wrap=no 
+width=100 
+height=100
+</YouTube>
+
+{{Youtuber}}
+
+[[Categoria:Conteúdo investigativo]]
+[[Categoria:Canais do YouTube do Brasil]]

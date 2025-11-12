@@ -1,0 +1,59 @@
+'''10000 metros''' é uma puta competição de correria, também chamada de '''meia-meia-maratona''', é a competição mais longa competida em estádios, quando dúzias de desocupados se prontificam a darem 25 voltas completas na porra do estádio como se não tivessem nada melhor para fazerem da vida, desperdiçando 30 minutos de suas vidas por ficar correndo e correndo, tanto que o grande objetivo da prova são as pessoas tentarem a todo custo terminar a prova a irem para casa em menos de 30 minutos, inclusive as mulheres.
+
+== História ==
+
+Nos jogos da [[Grécia Antiga]] nada similar fora praticado, porque os machos praticavam as corridas de 100 metros ou a maratona, evitando esse meio-termo patético, enquanto os gays estavam preocupados pegando em dildos grossos e trocando nas provas de [[revezamento]], então não era nenhum esporte popular, e até hoje não é no [[atletismo]]
+
+A corrida de 10000 metros foi introduzido nas olimpíadas de [[Estocolmo 1912]], porque nas olimpíadas anteriores de 1908 vários competidores da [[maratona]] desistiram no meio da corrida por serem sedentários que acharam que poderiam concluir uma maratona apenas com força de vontade. Para estes semi-fracassados foi criado a corrida de distância de 10000 metros.
+
+Foi nos jogos de [[Seul 1988]] que esta prova começou a ser disputada também por <s>empregadas domésticas</s> mulheres de boa aparência e aptidão física.
+
+== Regras ==
+
+[[Arquivo:1000 metres.jpg|thumb|250px|Quem abriu as portas do presídio?]]
+
+A primeira regra desse tipo de corrida é ser um etíope ou um queniano (ou então alguma outra nacionalidade, mas aí então só pra participar de figurante). A segunda regra é correr por meia-hora sem desmaiar.
+
+== Recordistas ==
+
+=== Homens ===
+{| width=60%
+|- bgcolor="lightsteelblue"
+!align="center" style="width: 6em"|Tempo
+!align="center" style="width: 18em"|Atleta
+!align="center" style="width: 8em"|País
+|- bgcolor="efefef"
+| <center>26:17.53</center> ||<center>[[Kenenisa Bekele]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>26:22.75</center>||<center>[[Haile Gebrselassie]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>26:27.85</center>||<center>[[Paul Tergat]]</center> ||{{QUE}}
+|- bgcolor="efefef"
+| <center>26:30.03</center>||<center>[[Nicholas Kemboi]]</center>||{{QUE}}
+|- bgcolor="efefef"
+| <center>26:30.74</center>||<center>[[Abebe Dinkesa]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>26:35.63</center>||<center>[[Micah Kogo]]</center>||{{QUE}}
+|}
+
+=== Mulheres ===
+{| width=60%
+|- bgcolor="lightsteelblue"
+!align="center" style="width: 6em"|Tempo
+!align="center" style="width: 18em"|Atleta
+!align="center" style="width: 8em"|País
+|- bgcolor="efefef"
+| <center>29:31.78</center> ||<center>[[Wang Junxia]]</center>||{{CHN}}
+|- bgcolor="efefef"
+| <center>29:53.80</center> ||<center>[[Meselech Melkamu]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>29:54.66</center> ||<center>[[Tirunesh Dibaba]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>29:56.34</center> ||<center>[[Elvan Abeylegesse]]</center>||{{TUR}}
+|- bgcolor="efefef"
+| <center>29.59.20</center> ||<center>[[Meseret Defar]]</center>||{{ETI}}
+|- bgcolor="efefef"
+| <center>30:01.09</center> ||<center>[[Paula Radcliffe]]</center>||{{ING}}
+|}
+
+[[Categoria:Provas do atletismo]]

@@ -1,0 +1,45 @@
+{{game}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Asteroido
+|image     = Asteroids-box-atari2600.jpg
+|caption   = Depois de ir a [[lua]], porque não ir para os anéis de [[saturno]]?
+|developer = [[Atari]]
+|publisher = [[Atari]] e [[Taito]]
+|released  = [[1979]]
+|genre     = [[tiro|Pew pew pew]]
+|platform  = [[Arcade]] e consoles falidos da Atari
+|rating    = 100, segundo Atari
+|ages      = Se a Atari quiser que você jogue, você pode jogar, se Atari quiser que você não jogue, você não pode jogar.
+}}
+
+{{você quis dizer|Steroids}}
+{{c|Meu preferido!!|Chris Rock|{{PAGENAME}}}}
+{{c|Você gosta '''realmente''' disso pai?!|Você|[[teu pai]] jogando {{PAGENAME}}}}
+{{c|Acabou a ficha!! [[OMG!]]|[[Qualquer um]]|{{PAGENAME}}}}
+
+'''Asteroids''' é um joguinho inútil e extremamente viciante, foi o ápice da tecnologia, gráficos elaborados e enredo no mundo dos games. Feito pela empresa inventora dos jogos de [[3]] pixels, a [[Atari]], tendo milhares de versões <s>falsificadas</s> alternativas lançadas por [[Vagabundo|quem não tem o que fazer]].
+
+== Criação ==
+
+Na [[Anos 80|década de 80]], quando foi lançado o jogo, o [[mundo]] já havia vivenciado a corrida espacial, devido aos numerosos fracassos dessa corrida foi criado o jogo Asteroids para ridicularizar todas as pessoas mortas e os milhões gastos para mandar um pedaço de alumínio pro espaço, para tirar umas fotos [[Arquivo:Cometa222.jpg|thumb|right|185px|Um dos terríveis inimigos a ser enfretado no jogo.]]borradas de luzes. Os projetistas da [[Atari]] tinham apenas [[1]] dia e meio para criar um jogo revolucionário e assim salvar a empresa da falência quase certa, então em uma iluminação quase divina um dos projetistas teve a magnífica ideia de pegar os gráficos do jogo de [[Pong]] para criar um jogo mais simples que [[arroz]] e [[feijão]], os outros projetistas de início duvidaram, porque em plena década de [[80]] fazer um jogo em que se literalmente atira pixels não era lá a melhor das ideias, mas como o prazo de entrega estava chegando eles colocaram uns barulhinhos bonitinhos e venderam, e venderam muito ([[Ou não]]).
+
+== Acertando o Alvo ==
+[[Arquivo:Asteroids.JPG|thumb|left|185px|Para onde cada asteroide vai [[você]] nunca irá saber.]]
+
+A sorte dos projetistas era de que o público é catatônico e aceita qualquer [[merda]] embrulhada num papel brilhante com barulhos bonitos, o jogo até hoje encanta pessoas entediadas e sem vida social que o jogam em sites online ou em aplicativos do [[Orkut]].
+O jogo em si tem um enredo em um objetivo de tirar o folego, que é destruir um aglomerado de pixels o máximo possível antes que seja destruído por eles, mais tarde essa falta de objetivo seria usada para a criação dos jogos de [[RPG]], onde você fica matando bichos e evoluindo pelo resto do jogo. O que poucos sabem é que Asteriods deu inspiração para ser feito o filme Armagedon.
+
+== Jogando Asteriods ==
+Nesse joguinho você deve atirar pixels, como já foi mencionado, em asteriodes, cometas, planetas <s>e [[ET|naves alienígenas]]</s> que se movimentam na tela de modo incrível. Os alvos começam grandes e lentos, como uma bola de praia, ao serem atingidos diminuem e duplicam, se tornando uma bola de futebol e aumentando a velocidade, no terceiro e último nível os pixels dobram e estão menores que uma semente de [[mostarda]], flutuando na velocidade da luz e te matando sem que você perceba, por isso o modo mais fácil de jogar é se esquivar dos pixels enquanto estão grandes até o [[Infinito|fim do jogo]].<br>
+== Níveis ==
+O jogo não tem níveis ou fases, portanto nem o [[AAA]] conseguiu terminá-lo <s>ainda</s>, o que torna Asteriods ainda mais <s>legal</s> sem graça e ultrapassado.
+
+{{Shoot 'em up}}
+
+[[Categoria:Jogos da Atari Games]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Atari 2600]]
+[[Categoria:Jogos para Atari 7800]]
+[[Categoria:Jogos lançados em 1979]]

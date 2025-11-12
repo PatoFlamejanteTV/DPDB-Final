@@ -1,0 +1,36 @@
+{{química}}
+
+[[Arquivo:Festa6.JPG|thumb|[[Fotos da Festa|Fotos da festinha]] que os elétrons fizeram nos orbitais.]]
+
+Segundo o [[Diagrama de Pauling]], os '''orbitais atômicos''' são coisas que determinam a posição de cada [[elétron]] no [[átomo]], embora o [[princípio da incerteza de Heisenberg]] diga que não dá pra determinar isso, mas ainda assim determinaram isso. Existe também o '''[[nodal]]''', a única área onde o elétron certamente não pode aparecer de jeito nenhum, pois ele fica com medinho de aparecer por ali. Os orbitais são determinados pelo número de átomos que cada camada do diagrama de [[Linus Pauling]] aguenta carregar. A [[equação de Schrödinger]] foi criada pra determinar isso, embora ninguém saiba de onde vem tamanha certeza que essa coisa dá mesmo certo, já que, tal como [[você]], que é um [[miopia|miope]], ninguém jamais viu um elétron (dizem que [[Chuck Norris]] conseguiu, mas isso até hoje nunca foi confirmado).
+
+==Como determinar isso?==
+Primeiramente você tem que saber sobre os [[número quântico|números]] n, l, m e s, que pra você, idiota de plantão, podem não parecer com números, mas são. O primeiro determina o tamanho do orbital (se você ler [[Diagrama de Pauling|esse artigo]], saberá que são aquelas 7 garotas de K à Q que conseguem aguentar números diferentes de [[pênis|elétrons]] ao mesmo tempo). O segundo determina a forma do orbital (sendo assim, é o mais interessante de todos, e você logo saberá porque). O terceiro é um número [[magnetismo|magnético]], determinando quantos elétrons participarão de cada casa de festa (a.k.a. Orbital) e com isso o número de salas de cada orbital. Por fim, o quarto, o [[spin]] (que nada tem a ver com [[sexo|spinada na bunda]]) é uma explicação fajuta de como dois opostos conseguem ficar juntos no mesmo lugar.
+
+==Cada orbital em seu quadrado (ou não)==
+Teoricamente só existem mesmo 4 tipos de orbitais "l" até hoje (os [[átomo]]s nunca tiveram dinheiro pra comprar outros), e eles se chamam de "s", "p", "d" e "f". Vamos listar aqui todos eles. Tem uns retardados da [[IUPAC]] que ainda admitem um "g", mas isso é coisa de idiota procurar cabelo em [[ovo]].
+
+===Orbital s, a bolinha===
+O orbital s é em forma de [[bola]]s de [[sinuca]], não se diferenciando do átomo, pelo menos o [[modelo atômico de Dalton]]. Bom, fiquei na dúvida agora, essa droga de modelo ainda é válido? Bom, depois eu pergunto ao [[professor]].
+
+[[Arquivo:OrbitaisS.png|center]]
+
+===Orbitais p, os halteres===
+Todos os 3 são diferentes formas de posição de uma [[bunda]]: o primeiro é uma bunda de frente, o segundo é uma bunda de [[perfil]] e o terceiro é uma bunda deitada.
+
+[[Arquivo:OrbitaisP.png|center]]
+
+===Orbitais d, os degenerados===
+Existem 5 tipos diferentes. Os 4 primeiros são diferentes formas de uma [[ejaculação]] de maneira desregulada (saíndo em forma de 4 jatadas diferentes). Já o quinto é o resultado disso tudo: uma [[chupeta]] do filhote que nasceu depois de uma das quatro outras formas de orbital d acontecer.
+
+[[Arquivo:OrbitaisD.png|center]]
+
+OBS: Observe que o último orbital d representado possui uma boia salva-vidas.
+
+===Orbitais f, os inconcebíveis===
+Existem 7 tipos diferentes dessa coisa. Entretanto, todas elas são escrotas, estranhas, malucas, quase igual a um desenho [[dadaísmo|dadaísta]], portanto só um cara muito bom de desenho (ou muito [[louco]]) pra pôr o desenho deles aqui.
+
+==Ver também==
+*[[Spin]]
+*[[Equação de Schrödinger]]
+[[Categoria:Física de partículas]]

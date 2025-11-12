@@ -1,0 +1,43 @@
+{{alien}}
+{| align=right cellpadding=3 cellspacing=0 style="float:right; margin-left:1em; border:2px solid #000000;"
+!colspan=2 bgcolor=green|<font color=white size="3">'''Zem'''</font>
+|- 
+|colspan="2" align=center | [[Arquivo: Zemdevianrt.png|200px]]
+|-
+!bgcolor=green colspan=2|
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Nome completo</font>
+
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Zem
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Local de Nascimento</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Terra dos Ogros
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Raça</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Ogro Alienígena 
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Primeira Aparição</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|[[Crash Nitro Kart]]
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Parceiros</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|[[Nitros Oxide]] e [[Zam]]
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Hobbies</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Soltar pum 
+|-
+!bgcolor=green style="border-bottom:1px solid #676767;"|<font color="#ffffff">Família</font>
+|align=center bgcolor=#EFEFEF style="border-bottom:1px solid #676767;"|Provavelmente ele seja um parente do [[Shrek]].
+|}
+'''Zem''' é um troll alienígena que é um dos capangas do poderoso rei que governa todas as galáxias chamado [[Velo]]. Ele é um troll feio pra caralho que corre equivale a velocidade do [[Lewis Hamilton]], além disso seus passatempos preferidos e soltar um peido quando ele ganha algum troféu na corrida. Ele fez sua primeira aparição no joguinho da série chamado [[Crash Nitro Kart]].
+==Sua primeira Aparição==
+[[Arquivo:Zemcrashnitro.jpg|thumb|left|Zem fazendo racha na pista de corrida.]]
+
+Zem apareceu em [[Crash Nitro Kart]] como um dos puxa-sacos do maldito vilão que todo mundo odeia nas corridas da série Crash Bandicoot chamado Velo, ele apareceu para atrapalhar a equipe do Crash Bandicoot para conseguirem todos os troféus e gemas do jogo.
+
+Depois que ele levou uma punhalada da [[Coco Bandicoot]] o Zem acabou tendo que pegar o papel de funcionário, limpando a estátua do Velo.
+==Em Crash Team Racing Nitro-Fueled==
+Zem aparece se você comprar 1500 reais no Merchant, ele agora está mais rápido e pronto para vingar dos Bandicoots, mas ele também deu uma pegada na Tawna Bandicoot, só para deixar o Crash com inveja dele.
+==Ver Também==
+*[[Nitrous Oxide]]
+*[[Zam]]
+{{crash}}

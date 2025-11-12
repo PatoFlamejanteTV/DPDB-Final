@@ -1,0 +1,79 @@
+{{química}}
+
+{{c|ZZZZZZZZZZZZZZZZZZZZZZ|Você na aula de química}}
+{{c|Na vida, nada se cria, tudo se copia|Lavoisier enunciando sua lei}}
+
+São duas as chamadas '''Leis Ponderais''', regras <s>ácidas</s> básicas da [[química]]: '''Lei de Lavoisier''' e a '''Lei de Proust'''. 
+
+Provavelmente, você <s>é um [[vagabundo]]</s> dormiu nessa aula, que era no início do ano, e não consegui entender mais nada a partir daí. Mas se você caiu por engano aqui ao invés da Wikipédia, <s>não</s> continue a ler, podemos ajudá-lo ([[ou não]]).
+
+==Lei de Lavoisier ''ou'' Lei da Conservação das Massas==
+
+'''[[Antoine Lavoisier]]''' foi um ''quimicuzinho'' francês (ui!) que enunciou que a massa de reagentes consumidos numa reação química é igual à massa de produtos <s>[[Polishop]]</s> formados. Antes dele, acreditava-se que:
+
+*Um pedaço de palha de aço engordava após <s>frequentar um rodízio numa churrascaria</s> ser submetido à uma chama.
+*Um pedaço de carvão emagrecia após <s>a [[Dieta Dream Week]]</s> ser, também submetido a uma chama.
+
+A partir dessas observações, concluía-se, que se você está [[bêbado|de fogo]], engordar ou emagrecer vai depender de outros fatores.
+
+Lavoisier era membro da corte francesa às vésperas de [[Revolução Francesa|1789]], e no meio daquela instabilidade toda, afirmou: {{c|Se [[Paris]] fosse fechada numa redoma de vidro, e fosse completamente incendiada, a massa do interior da redoma permaneceria constante...}}
+
+Como os revolucionários odiavam tanto os nerds, tanto a nobreza, Lavoisier [[Guilhotina|perdeu a cabeça]].
+
+===Exemplo onde se aplica a Lei de Lavoisier===
+
+'''Reação de [[Ruth Lemos]]''': Reação química utilizada para obtenção de sanduíche-íches com valor nu-nu-nutri-tivo adequado.
+
+''<big>Pão <s>[[derivada]]</s> [[integral]] + [[Seios|Peito]] de [[peru]] + [[Alface]] --------> Sanduíche-íche com valor nu-nu-nutri-tivo adequado</big>''
+
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|'''Experimento 1'''||'''Pão <s>[[derivada]]</s> [[integral]]'''||'''[[Seios|Peito]] de [[peru]]'''||'''Alface'''||'''Sanduíche-íche com valor nu-nu-nutri-tivo adequado'''
+|-
+|'''Início'''||50 gramas||25 gramas||15 gramas||0 gramas
+|-
+|'''Final'''||0 gramas||0 gramas||0 gramas||90 gramas
+|}
+
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|'''Experimento 2'''||'''Pão <s>[[derivada]]</s> [[integral]]'''||'''[[Seios|Peito]] de [[peru]]'''||'''Alface'''||'''Sanduíche-íche com valor nu-nu-nutri-tivo adequado'''
+|-
+|'''Início'''||50 gramas||35 gramas||15 gramas||0 gramas
+|-
+|'''Final'''||0 gramas||10 gramas||0 gramas||90 gramas
+|}
+
+Repare que o segundo experimento, mesmo com <s>[[gordo|gordice]]</s> excesso do reagente ''Peito de peru'', respeita a Lei de Lavoisier.
+
+==Lei de Proust ''ou'' Lei das Proporções Fixas==
+É a [[sua mãe|velha]] ''Regra-de-Três'' entre massas consumidas de reagentes e massas de produtos formados. Vejamos um exemplo:
+
+'''Reação de [[Zé Pequeno]]-Dadinho:'''
+
+''<big>Pasta base + Pó de mármore --------> [[Cocaína]]</big>''
+
+{|border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+|'''<u>Situação inicial:</u>'''||'''Pasta base'''||'''Pó de mármore'''||'''Cocaína'''||'''<u>Situação final:</u>'''||'''Pasta base'''||'''Pó de mármore'''||'''Cocaína'''
+|-
+|'''1º Experimento:'''||1000 gramas||1000 gramas||0 gramas||'''1º Experimento:'''||0 gramas||0 gramas||2000 gramas
+|-
+|'''2º Experimento:'''||2000 gramas||2000 gramas||0 gramas||'''2º Experimento:'''||0 gramas||0 gramas||4000 gramas
+|-
+|'''3º Experimento:'''||2000 gramas||3000 gramas||0 gramas||'''3º Experimento:'''||0 gramas||1000 gramas||4000 gramas
+|}
+
+Percebe-se, que mesmo com <s>uma maior filhadaputagem do [[traficante]]</s> excesso do reagente ''Pó de mármore'', ambas as Leis Ponderais são respeitadas.
+
+==Explicação das Leis Ponderais==
+
+O modelo atômico de [[Dalton]] consegue explicar ambas as leis ponderais porque considera que toda a matéria feita de agrupamentos de [[testículos|"bolas"]] maciças, indivisíveis e indestrutíveis; e que toda transformação química é uma <s>[[suruba]]</s> reorganização desses átomos. Vejamos a figura a seguir:
+
+[[Arquivo:Quimicainterativa.gif|800px|center]]
+
+Acima vê-se a esquematização de uma [[pênis|enzima]] atuando sobre um [[cu|substrato]], formando o [[sexo anal|complexo enzima-substrato]]. Repare que os átomos que compõem a substâncias permanecem os mesmos, e que existe uma proporção ente o número de moléculas de cada reagente e de cada produto.
+
+==Ver também==
+
+*[[Átomo]]
+*[[Molécula]]
+
+[[Categoria:Química]]

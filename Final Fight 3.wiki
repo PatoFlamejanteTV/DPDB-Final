@@ -1,0 +1,47 @@
+{{Game}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Luta Final Três
+|image     = finalfight3.png
+|caption   = A arte do logotipo
+|developer = [[Capcom]]
+|publisher = [[Capcom]]
+|released  = [[1995]]
+|genre     = [[Beat'em up]]
+|platform  = [[SNES]]
+|rating    = 24%
+|ages      = 13
+}}
+
+[[Arquivo:Ffight3 haggar-bcanary.png|right|thumb|Participação especial da [[Canário Negro]]]]
+'''Final Fight 3''' obviamente é o terceiro [[jogo]] da politicamente incorreta franquia [[Final Fight]] criada pela [[Capcom]]. 
+==Review==
+O game é praticamente a mesma [[coisa]] que seus antecessores, trazendo dois personagens clássicos ([[Guy]] e [[Mike Haggar]]) e dois inéditos ([[Dean]] e [[Lucia Morgan]]). São seis fases normais e duas bônus.
+
+Após a [[Mad Gear]] ter sido finalmente derrotada, Guy retorna a [[Metro City]] e já é alugado novamente por [[Haggar]] para [[luta]]r a seu lado contra uma nova gangue criminosa que está ameaçando a [[cidade]], a Skull Cross. Ao lado deles estarão também o [[marginal]] Dean e a [[detetive]] Lucia.
+==Personagens==
+{|
+| [[Arquivo:ffight3 select haggar.png]]
+| '''Haggar''' - O [[prefeito]] wrestler bigodudo voltou com uma novidade: [[cabelo]] comprido! E só, porque continua lerdão, apesar de toda a [[força]] e tamanho.
+|}
+{|
+| [[Arquivo:ffight3 select dean.png]]
+| '''Dean''' - Um encrenqueiro topetudo que gostava de ficar comprando [[briga]] pelas [[rua]]s, até que teve sua [[família]] assassinada pela Skull Cross e decidiu virar bonzinho para se vingar. Cadê a bondade nisso? Além de forte, ele tem golpes elétricos, sendo o melhor personagem para jogar.
+|}
+{|
+| [[Arquivo:ffight3 select guy.png]]
+| '''Guy''' - O [[ninja]] que participou do Final Fight original e em [[Final Fight 2]] inventou que ia aprimorar seus conhecimentos em [[artes marciais]] e sumiu. Continua a mesma [[merda]] de antes, só sabe [[ninjutsu]] e [[correr pra caralho]].
+|}
+{|
+| [[Arquivo:ffight3 select lucia.png]]
+| '''Lucia''' - Como não poderia faltar uma [[mulher]], colocaram essa [[camarão]] aqui. A [[policial]] tem muita [[velocidade]] e grande variedade de golpes, mas é fraca.
+|}
+
+{{Final Fight}}
+
+[[Categoria:Jogos da Capcom]]
+[[Categoria:Jogos para Super Nintendo]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos de beat 'em up]]
+[[Categoria:Jogos lançados em 1995]]

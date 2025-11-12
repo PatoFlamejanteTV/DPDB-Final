@@ -1,0 +1,46 @@
+{{vegetal}}
+
+{{taxocaixa
+| nome           = Abóbora
+| cor            = #00FF7F
+| imagem         = Abobora de Halloween.jpg
+| imagem_legenda = Uma abóbora e sua principal utilidade
+| reino          = [[Plantae|Plantinhas]]
+| superdivisão   = [[Spermatophyta|Plantas com esperma]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Eudicotidae|Eudissecotia]]
+| subclasse      = [[Rosídeas|Rosinhas]]
+| ordem          = [[Cucurbitales|Cubichado]]
+| família        = [[Cucurbitaceae|Cuardidae]]
+| gênero         = [[Abóbora|Cucubicha]]
+}}
+
+'''Abóbora''' é um vegetal gigante, de [[cor]] [[laranja]], usado em festas de [[Halloween]]. Da família das abobrinhas, abóboras nascem no chão e são usadas para fazer rostos no dia das [[bruxa]]s, onde colocam uma vela dentro. Seu gosto é adstringente, parecido com o gosto de borracha.
+
+== Usos ==
+
+[[Arquivo:Pump.jpg|thumb|left|Uma abóbora pronta para ser comida]]
+
+Além de ser usadas para as máscaras de [[Halloween]], abóboras servem como munição de [[catapulta]]. Também servem como bola de [[futebol]], bola de [[praia]] e bola do [[Quico]]. Fora servir como máscara ou bola, abóboras servem para fazer doces. Para cada grama de polpa de abóbora vai 10 quilos de [[açúcar]], assim o doce de abóbora fica com um sabor levemente adocicado e agrada a todos. Outros usos para a abóbora:
+*Sopa ruim
+*Sopa mais ou menos ruim
+*Sopa muito ruim
+*Suco de abóbora, ruim também
+*[[Salada]] de [[fruta]]s
+*[[Sorvete]] de abóbora (nunca provei, mas dizem que é bom)
+*[[Chocolate]] com abóbora (Delicioso)
+
+== Cultivo ==
+
+[[Arquivo:Abobora falica.jpg|thumb|Uma abóbora para você dar para sua namorada]]
+
+Para plantar a abóbora, só precisamos de uma área de cultivo grande, algumas sementes de abóbora, [[água]] e [[paciência]]. Para começar, precisamos fazer buracos na [[terra]], jogar a sementes, fechar o buraco com a terra, jogar a água e esperar alguns meses. Se nascer algo, ótimo, se não nascer, tudo bem, abóbora não serve pra nada mesmo. Caso nasça alguma coisa, depois de um longo tempo de espera, você pode jogar ela fora e plantar algo útil.
+
+{{Vegetais}}
+
+[[Categoria:Cucurbitaceae]]
+[[Categoria:Cucurbita|*]]
+
+[[eo:kukurbo]]
+[[fi:Kurpitsa]]
+[[ja:カボチャ]]

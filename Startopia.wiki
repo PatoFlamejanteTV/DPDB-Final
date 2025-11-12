@@ -1,0 +1,249 @@
+{{Jogo}}
+{{Futuro}}
+{{Jogos Antigos}}
+<br>
+
+<br>
+
+{{Infobox Game|title = Startopia
+|image = Startopiacapa.jpg
+|caption = Administrando Até no Espaço!!
+|developer = <s>Falida</s> [[MuckyFoot]] 
+|publisher = <s>Falida</s> [[MuckyFoot]] 
+|released = 2000
+|genre = Management
+|rating = 4.11% de 12.32%
+|platform =  PC
+|ages = 5+ (Requer Q.I de +150pts)
+|DRoberto = 10
+}}
+
+
+{{Vqd|Colonia de Férias Espacial?}}
+{{c|Não entendi porra nenhuma!!!|[[Você]] ao começar a jogar Startopia}}
+{{c|Continuo sem entender nada!!!|[[Voce]] depois de [[1]] semana jogando Startopia}}
+{{c|Agóra sim to manjando essa porra!!!|[[Voce]] depois de [[1]] mês jogando Startopia}}
+
+
+
+
+
+[[Arquivo:Logoprincipal.jpg|left]]
+
+'''Startopia''' é um jogo de pc onde [[voce]] administra uma antiga [[estação]] espacial humana em ruinas e a trasforma em uma [[cidade]] para os [[alien]]s [[refugiado]]s do résto da [[galaxia]],[[voce]] começa a montar um centro comercial no lugar e cóbra ingresso,moradia,etc...E com o tempo vai evoluindo e crescendo se tornando cada vez mais poderoso e [[fódão]].Bem,se fosse apenas isso o jogo seria uma [[bosta]],outra coisa importante é:Voce tem [[concorrencia]] e muita concorrencia!!!Dessa forma cedo ou tarde [[voce]] tera que entrar em [[conflito]] com seus rivais pelo controle do lugar, mas como uma [[guerra]] abérta pode ser um tanto quanto nocivo para ambos os lados [[voce]] dispoe de uma série de [[serviços]] de um grupo de [[mercenário]]s,dentre eles: [[Sabotar|Sabotagem]], [[espionar|espionagem]], disseminação de [[parasita]]s e o [[Pinto|caralho]] a quatro tudo visando apenas um objetivo, o domino total da [[estação]],dessa forma o jogo fica bem mais divertindo, garantindo horas de aporrinhamento na frente do pc torrando seu [[cérebro]] e [[olhos]] para descobrir aonde esta o [[espião]] que esta te sabotando...Também temos [[doenças]] espaciais que infectão a estação e férram com a [[vida]] de todos néla e algumas ainda tem a capacidade de gerar [[parasita]]s,que são uns [[bezouros]] de [[5]] metros que fodem com sua base sem dó nem [[piedade]].
+<br>
+
+== Partições ==
+
+A estação é dividida em 3 partições, cada uma délas tem suas propriedades especiais e tipos de interação próprias...Dentre elas estão:<br>
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | ''' Hangar Industrial '''
+| width=88% | '''Funcionabilidade:''' Geração de Energia,Estocagem,Segurança,Limpeza,Pesquisa e Medicina.
+|-
+| [[Arquivo:Star-engndeck.jpg|200px]]
+| '''Descrição:''' Aqui é onde a coisa bruta funciona e também é o lugar onde é mais importante do jogo, aqui [[você]] precisa de muito [[planejamento]],portanto encarne o seu lado [[Oscar Niemayer]] quando for construir-lo,pois é nessa área é onde fica o ponto de [[entrada]] e [[saída]] de pessoas da sua base, lógo precisa ser muito segura se não os sabotadores e parasitas fazem a festa contigo...Por tanto é muito mas muito importante sempre manter um centro [[médico]] perto do local de chegada e [[drones]] de [[segurança]] assim você evita qualquer tipo de [[merda]] que aprontem contigo.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | ''' Hangar Comercial '''
+| width=88% | '''Funcionabilidade:''' [[Puteiro]],Ponto de comércio (Lojas/hoteis) e Entretenimento.
+|-
+| [[Arquivo:Star-fundeck2.jpg|200px]]
+| '''Descrição:''' Essa é a área dedicada ao entretenimento, portanto aqui veremos vários [[puteiro]]s,[[Hotel|hoteis]],[[Motel|moteis]],lojas,[[Boca de fumo|bocas de fumo]],[[cassino]]s e outras coisas que são proibidas. Esse lugar é onde se centraliza o maior número de habitantes por "tela" de jogo, então como todo bom governante encha o lugar de coisas caras para [[explorar]] o [[povo]] (para variar) heheheh...
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | ''' Hangar Biológico '''
+| width=88% | '''Funcionabilidade:''' Fornecer estrutura para a vida e [[Maconha|plantar matinhos alucinógenos]].
+|-
+| [[Arquivo:Star-biodeck.jpg|200px]]
+| '''Descrição:''' Esse é o lugar naturéba do jogo onde os "Pastores da Universal Zendem" e os "Malditos Jovens do Reggae" costumão ficar, lógico cada um no seu propósito, os pastores utilizam do [[terreno]] para convencer as [[alma]]s de que o [[deus]] dele existe (aquele papinho estupido de sempre),já os reggaeiros usão o lugar para [[plantar]] suas arvores alucinógenas para depois ficarem doidoes com elas. Seja qual for o motivo esse lugar serve para afetar o [[bem estar]] dos habitantes portanto não faça [[merda]] nele, como por exemplo trasformar-lo em um [[deserto]].
+|}
+<br>
+== Espécies dos Habitantes ==
+
+Os habitantes de seu compléxo espacial são divididos em varias espécies diferentes e cada um responsabiliza por algum tipo te [[trabalho]] ao virarem residentes de sua estação já outras podem te causar vários tipo de problemas, entre elas estão: 
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Espécie Salthog '''
+| width=88% | '''Profissão:''' [[Lixeiro]], [[Gari]] e [[Operário]]. 
+|-
+| [[Arquivo:Star-salthog.jpg|100px]]
+| '''Descrição:''' Salthog é a espécie <s>pobre</s> <s>[[peão]]</s> <s>Escrava</s> <s>[[Lula]]</s> trabalhadora do jogo ou seja, só faz os piores serviços como de [[lixeiro]],[[operário]] e essas coisas que ninguém gosta. Como um legitimo representante do [[proletariado]] espacial, os Salthogs  sempre são convocados quando tem guerra na estação, mesmo não tendo treinamento para combate ou possuindo biótipo de [[soldado]],isso é bem parecido com o esquema vigente na terra onde quem é [[pobre]] vai arrastado para o pau e quem é [[rico]] sempre fica na moita...  
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Espécie Grekka Targ '''
+| width=88% | '''Profissão:''' [[Controlador de Vôo]], [[Técnico de Comunicações]].
+|-
+| [[Arquivo:Star-targ.jpg|100px]]
+| '''Descrição:''' A espécie Targ é conhecida por ter uma excelente tecnologia em comunicações e informação fazendo deles os olhos e ouvidos da sua estação. São baixinhos com cara de morcego e tem um comportamento extremamente [[criminoso]] e por causa disso sempre são emrabados pelos [[Gambés]] Kasvagorian da segurança. Isso é um fato basta você prestar atenção, 1 em cada 3 Targs sempre esta fazendo [[merda]] pelo mapa, eles são encrenqueiros por [[natureza]] e parece que curtem ficarem em cana...Resumindo,nunca deixe a chave da sua espaço nave moscando perto de um Targ.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Espécie Grey '''
+| width=88% | '''Profissão:''' [[Médico]].
+|-
+| [[Arquivo:Star-grey.jpg|100px]]
+| '''Descrição:''' Ã espécie grey é oriunda do [[sistema solar]] terrestre, portanto é a mais conhecida entre nós humanos, afinal já aconteceram vários incidentes de Greys abduzirem pessoas para estudo na terra ou colisões em nosso planeta e isso faz deles a espécie mais "pop" do jogo. Eles possuem uma larga e abrangente tecnologia médica muito respeitada pelas outras galáxias o que fazem deles [[doutores]] por natureza e especialistas em [[doenças]] espaciais.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Espécie Dahanese Siren '''
+| width=88% | '''Profissão:''' [[Biscate]], [[Puta]], [[Piranha]] e [[Sua Mãe|similares]].
+|-
+| [[Arquivo:Star-siren.jpg|100px]]
+| '''Descrição:''' Siren é a espécie mais [[gostosa]] do jogo, todos da espécie Siren são sensuais e fisicamente perfeitos. E dessa forma eles oferecem serviços sexuais como trabalho para pagar a estadia na estação, serviços esses que agradam a todas as outras espécies sem exceção e desse modo são os maiores captadores de recurso do jogo pois ninguém resiste a eles.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Espécie Kasvagorian '''
+| width=88% | '''Profissão:''' [[Segurança]], [[Leão de Chacara]], [[Policial Militar|Gambé]] e [[Soldado]]. 
+|-
+| [[Arquivo:Star-gor.jpg|100px]]
+| '''Descrição:''' Os "Puto",os "Verme" do jogo. A espécie Kasvagorian são a representação [[policial]] do jogo, seu trabalho na estação é de [[vigilância]] e [[segurança]] da própria. Eles também podem ser usados como [[guerreiro]]s eficientes em combates com outra estação pela sua característica de ignorar dano, para um kasvagorian cair você precisa dar uns 50 raios [[Laser]] nele se não ele nem se abala. Outra coisa interessante deles é que eles são os mais "putinhos" entre as espécies, sempre arrumando [[encrenca]] por bobeira e sempre indo para a [[cadeia]] kkk.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Espécie Karmaraman '''
+| width=88% | '''Profissão:''' [[Maconheiro|Maconhero]], [[Yippie]], [[Vagabundo]] e [[Agricultor]].
+|-
+| [[Arquivo:Star-karmarama.jpg|100px]]
+| '''Descrição:''' Essa espécie é uma versão [[Tree Little Birdys]] do espaço, como podem ver ele curte [[reggae]], tem cabelo rastafari, curte a natureza e é roxo de tanto consumir suas [[Maconha|érvas alucinógenas]].E como todo naturéba que é "100% paz e amor" e essas coisas, sua atividade principal é difundir a paz e a harmonia da mãe natureza plantando arvores e [[Ópio|plantinhas alucinógenas]] e é o que ele faz, depois [[você]] derruba e vende sem que ele saiba[[Risada Maligna|Muah muah muah]] 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Espécie Turrakken '''
+| width=88% | '''Profissão:''' [[Ciêntista]].
+|-
+| [[Arquivo:Star-turrakken.jpg|100px]]
+| '''Descrição:''' Se [[você]] já ouviu o ditado que "2 cabeças pensão melhor do que uma" essa espécie faz jus a isso, os Turrakken são aliens cabeçudos com 2 cabeças que costumam usar um jaléco de doutor, isso mesmo "cabeçudos e 2 cabeças numa só frase".Não bastando o simples fato do cabeção eles ainda tem um par delas. Ai você humilde desciclope se pergunta:Qual atividade um ser assim pratica? Resposta, ele é um [[ciêntista]] seu ignorante!!! E também um covardão pois não luta nas guerras, o [[capitão nascimento]] sente nojo quando vê seres assim. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Espécie Zedem Monk '''
+| width=88% | '''Profissão:''' [[Pastor]], [[Bispo]], [[Ladrão]], [[Extelionatário]] e [[Criminoso|Similares]].
+|-
+| [[Arquivo:Star-monk.jpg|100px]]
+| '''Descrição:''' Essa espécie é a versão [[Pastor]] do espaço, eles são estelionatarios que aplicão o golpe da [[religião]] nas pessoas bobas que dão [[orelha]] para eles, como eles são bem dos safados tirão todos os pertences do indivíduo aplicando o [[K.O|Kaaao]] de que as coisas [[materiais]] tem que ir embora, sua vantagem nisso é que você léva uma porcentagem dos lucros dos pastores por hospedar-los na estação. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Espécie Polvakian Gem Slug '''
+| width=88% | '''Profissão:''' [[Burguês]] safado podre-de-rico e Futuro [[Crente]].
+|-
+| [[Arquivo:Star-gemslug.jpg|100px]]
+| '''Descrição:''' Essa espécie é conhecida por ter [[grana]], muiiita grana! Por causa disso eles são considerados a [[burguesia]] da galáxia e o alvo preferido dos [[pastores]].Eles ainda fazem por merecer o título afinal são gordos, fedidos e estúpidos, costumam se movimentar e agir transparecendo um puta ar de superioridade e arrogância, essa espécie é mais uma critica social a nossa elite do que qualquer outra coisa, se você for jogar reparem nas atitudes dessas criaturas, vai ser realmente cômico!
+|}
+
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Outros Habitantes'''
+| width=88% | Essas espécies não tem função definida e nem fazem parte dos registros da sua estação, elas podem tanto te ajudar quanto foder com sua vida. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Penitents'''
+| width=88% | '''O que Fazem?''' Nada, Público para os [[Pastores]]. 
+|-
+| [[Arquivo:Star-penitent.jpg|100px]]
+| '''Descrição:''' Esse é o famoso [[crente]] do [[cu]] quente, um ex-Polkavian que caiu no conto do vigario aplicado pelos [[pastores]] Monks e virou essa porcaria de burca. Ele deu toda sua [[grana]],dignidade e seu [[égo]] para o [[deus]] cristal no centro do Hangar biológico e agora anda fodido pela estação esperando a tão sonhada hora de ir para o "céu".Resumindo um trouxa! (Detalhe, existe outra critica social embutida nesse ser.)
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Robos Scuzzer'''
+| width=88% | '''O que Fazem?''' Limpeza, Manutenção e Trasporte
+|-
+| [[Arquivo:Star-scuzzers.jpg|100px]]
+| '''Descrição:''' São robozinhos amarélos que trabalham para [[você]] fazendo serviços de manutenção e coléta do [[lixo]], muito uteis conforme sua estação se desenvolve. Eles são movidos a energia e para recaregar-la eles usam a tecnica do "chóque no anus", sem isso eles literalmente "dão PT", portanto é sempre bom ter vários recarregadores espalhados por sua estação.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Robos De Segurança'''
+| width=88% | '''O que Fazem?''' Prendem habitantes [[joselito]]s e são usados como soldados em batalhas
+|-
+| [[Arquivo:Star-nicked2.jpg|100px]]
+| '''Descrição:''' Esses robos tem o arduo trabalho de ficar patrulhando sua base atrás de [[joselito]]s que costumam zuar seus sistemas, eles também são adéptos do "choke no cu" porém são [[cabra-homi]] pois parcipam das guerras e não arregam como as outras espécies.
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Espiões'''
+| width=88% | '''O que Fazem?''' Abrem a visão do lugar para o enimigo e praticão sabotagem em estruturas com bombas.
+|-
+| [[Arquivo:Star-agent.jpg|100px]]
+| '''Descrição:''' Esses <s>Filhos da puta</s> cretinos são mandados pelos seus inimigos para te estressar e encher o seu [[saco]], eles colocam bombas em sua base nos lugares mais lazarentos que existem ai você tem que "se virar nos 30" para localizar a [[bomba]] antes que ela estoure, caso isso não ocorra ela explóde e leva quem estiver perto dela para o inférno, gerando uma série de processos e indenisações carissimas. 
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Vermes Espaciais'''
+| width=88% | '''O que Fazem?''' Eles cagão,peidão,fédem,comem lixo e espalhão varias doenças.
+|-
+| [[Arquivo:Star-vermin.jpg|100px]]
+| '''Descrição:''' Eles surgem quando [[você]] da um de [[porco]] e larga sua estação virar uma zona, esses malditos [[ratos]] filhos da puta espalham pragas que matam todos seus residentes e férram sua [[vida]], outra coisa muito importante sobre essas criaturas é a sua resistência, são basicamente impossíveis de exterminar ou seja, uma vez na sua estação restarte o jogo pois não há mais [[esperança]] para [[você]] [[Looser]].  
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Gatinhos Memaus'''
+| width=88% | '''O que Fazem?''' São meigos, comem lixo e se transformam em >>'''Skrashers'''<<
+|-
+| [[Arquivo:Star-memau.jpg|100px]]
+| '''Descrição:''' Não há muito o que falar sobre os memaus, eles são gatinhos fofinhos que são amados por todos e costumam virar lixeiras para comerem...Pois é né,[[meigo]] o problema é depois, após se fartarem de [[lixo]] os memaus sofrem uma [[mutação]] e viram o temido Skrasher um [[parasita]] espacial gigante devorador de gente, portanto evite! EVITE! Manter memaus na sua estação.Como? Voce me pergunta: Resposta HIGIÊNE seu porcão!!!
+|}
+
+{| class=0 align=center width=100% cellspacing=0 cellpadding=3 border=2 style="border-collapse:collapse; font-family:Arial"
+|-
+| width=12% | '''Skrashers'''
+| width=88% | '''O que Fazem?''' Tócão o puteiro na base, destroem tudo sem dó nem piedade e comem gente.
+|-
+| [[Arquivo:Star-skrasher.jpg|100px]]
+| '''Descrição:''' A forma avançada do memau, ele pode tanto surgir como [[evolução]] do memau ou como praga espacial através de um vírus altamente contagioso. Coisas importantes sobre o Skrasher: 1ª Ele é [[mal]]! 2ª Ele come gente! 3ª Ele se multiplica quando mata alguém! 4ª Ele é [[gigante]] e quase indestrutivel 5ª E é muito mas muito mal e pode acabar com [[você]]!!! 
+|}
+
+== Considerações Finais ==
+
+O jogo é bom, é divertido, porém é um "Theme Manager" portanto mais cedo ou mais tarde você fica de saco cheio de fazer a mesma coisa e parte pra outra...Tirando isso até que é divertido, se você é um <s>Nerd</s> apreciador de games vai gostar ^^
+
+== Videos ==
+
+Abertura sem noção do jogo.
+
+<YouTube>
+
+    movie_url=http://www.youtube.com/watch?v=jK79tBd6EZw
+
+    embed_source_url=http://www.youtube.com/v/jK79tBd6EZw
+
+    wrap=no 
+
+    width=425 
+
+    height=344 
+
+</YouTube>
+
+== Links Externos ==
+
+[http://www.rakrent.com/rtsc/html/star01.htm] "Manual completo para você evitar de perder tempo"
+
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos lançados em 2001]]

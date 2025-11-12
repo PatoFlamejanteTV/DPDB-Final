@@ -1,0 +1,59 @@
+{{matemática}}
+
+{{c|É de comer ?|Você, caro burro,|Porcentagem}}
+{{c|É muito difícil para mim|Você contando uma [[Ironia|novidade]]}}
+{{c|Primeiro pega aquilo ali e...PUTA QUE PARIU|Qualquer um}}
+{{c|Um dia você aprende|[[Shakespeare]]|Porcentagem}}
+
+'''Porcentagem''' ou '''por centos''' como [[Você|alguns]] chamam, é a medida da [[razão]] com base [[100]]. Ou seja, <s>[[cerveja]]</s>, o valor que se deve "''porcentear''", seria o 100 (já era de se esperar...).
+
+==Significado==
+Dizer que algo é 70% de uma loja, significa dizer que 70 elementos de um conjunto inverso de 100, ou seja, que a razão é a [[divisão]]. 
+
+<br />
+<math>\frac{70}{100}=0,7</math> para 1.<br />
+Ou seja, a 0,7ª parte de 1, onde esse 1 representando o valor inteiro da fração, no caso, "loja". Em  [[CSI|alguns casos]], o valor máximo de uma porcentagem é obrigatoriamente de 100% (ou não). Em outros, contudo, o valor pode ultrapassar essa marca, como quando se refere a uma [[fração]] maior que <s>pênis de japonês</s> o valor (500% de x é igual a 5 vezes x).
+
+==Símbolo==
+[[Ninguém|Muitos]] acreditam que o símbolo "%" teria evoluído a partir da [[Matemática|expressão matemática]]<math>\frac x {100}</math>. Porém, alguns [[Pornografia|documentos altamente antigos]] sugerem que o '''%''' evoluiu a partir da escrita da expressão [[latim|latina]] "''per centum''", sendo conhecido em seu formato atual desde meados do [[Século|século XVII]]. Apesar do nome latino, a criação do conceito de representar [[Propina|valores]] em relação a uma centena é atribuída aos [[Grécia|gregos]] antigos. Segundo o <s>burro</s> historiador [[David Eugene Smith]], o símbolo seria originalmente escrito "per 100" ou "per c" ([[ou não]]). Mas tudo isso são meros boatos, qualquer um consegue ver que "%" significa o ovo direito e esquerdo de um dado traço.
+
+==Como fazer==
+Enfim como fazer a bagaça. 
+Alguns exemplos:
+
+* O Leite teve um aumento de 25%
+
+:Quer dizer que de cada R$ 100,00 teve um acréscimo de R$  25,00
+
+* O cliente teve um desconto de 15% na compra de uma calça jeans
+
+:Quer dizer que em cada R$ 100,00 a loja deu um desconto de R$ 15,00
+
+- Dos funcionários que trabalham na empresa, 75% são dedicados, os [[Você|outros 25%]], são [[Vagabundo|vagabundos]] e ficam tomando cafézinho.
+
+:Significa que de cada 100 funcionários, 75 são dedicados ao trabalho ou a empresa.
+
+===Noção da porcentagem em números===
+<math>\frac {60} {100}</math> de 150 dias de <s>vagabundagem</s> trabalho = 90 dias;
+
+O  número 90 dias de trabalho representa : [[Capitão Óbvio|Porcentagem]].
+
+===Tá e daí, como faz a conta?===
+
+A execução de uma conta de porcentagem é muito simples:
+
+João vendeu 50% dos seus 50 cavalos (e o quico). Quantos cavalos ele vendeu?
+Para solucionar esse problema devemos aplicar a taxa percentual (50%) sobre o total de cavalos.
+
+'''50%=50÷100'''
+
+'''(50÷100)×50 = 25'''
+
+Logo (não é de logaritmo) '''50% de 50 = 25'''
+
+Aeeeeeeeeee, aprendi a fazer porcentagem, [[Lol|agora já posso ir mendigar sabendo o quanto de dinheiro eu perderei quando for roubado, e o total que eu ficarei]].
+
+==Conclusão==
+Você já entendeu, se não entendeu, vá até a escola e estude, faça alguma coisa nessa vida de vagabundo.  O que você aprendeu aqui, irá aprender todos os dias na escola, se é que você vai em uma. Portanto <s>estude isso aqui com [[Emo|carinho]] e dedicação e serás um ótimo aluno</s> foda-se se você vai ou não estudar isso daqui, foda-se se você vai ou não aplicar isso em sua vida, lembre-se, estamos cagando e andando para você (mais andando do que cagando).
+
+{{Aritmética}}

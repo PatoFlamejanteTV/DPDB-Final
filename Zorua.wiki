@@ -1,0 +1,45 @@
+{{pokedex}}
+{{Raposa_Demoniaca}}
+{{trevas}}
+{{PokéBox
+| imagem = Zorua.jpg
+| frase = Zorua, se preparando para soltar um barro.
+| tamanho = 250
+| tipo1 = Dark
+| tipo2 = 
+| pokedex = 570
+| espécie = Raposinha Demoníaca
+| cadeia evolutiva = [[Arquivo:SpriteZorua.png|Link=Zorua|Zorua]][[Arquivo:Seta.JPG|30px]][[Arquivo:SpriteZoroark.png|link=Zoroark|Zoroark]]
+}}
+
+{{Você quis dizer|Vulpix do mal}}
+{{C|Olha! Um Vulpix e um Shinx devem ter feito uma fusão!!|Treinador [[N00b]]|Zorua}}
+
+[[Arquivo:SpriteZorua.png|left]]
+'''Zorua''' é um pequeno e maligno pokémon raposa [[kawaii]], do tipo noturno. Ele gosta de sacanear as pessoas, de roubar a comida delas, e de assassina-las quando não tem ninguém olhando. Ele é o pokémon número 570# na pokedex e foi um dos primeiros pokémons revelados da Quinta Geração da série dos monstrinhos mutantes de bolso. Sua evolução é o [[Zoroark]], raposa gigante demoníaca que consegue ser mais escrota ainda.
+
+==Dados==
+
+Tendo a aparência típica da maioria dos pokémon em primeiro estágio, ou seja, pequeno e peludo e com olhos bizarros, Zorua destaca-se por não possuir nem patas nem dedos, apenas umas pernas pequeninas e pontiagudas. Ele também tem um topetinho vermelho punk, que quando evolui vira uma cabeleira gigante com direito a espinhos mutantes e rabo-de-cavalo extremamente feio. Não bastando tudo isso, ele ainda tem umas sobrancelhas em formas de bolotas vermelhas no meio da testa, parecendo aquelas pedrinhas do [[Mu de Áries]].
+
+Além disso, alguns pesquisadores dizem que Zorua teria nascido supostamente de uma [[Ninetales]] mutante que, ao fazer um pacto com a [[Morte]] para ter imortalidade e riqueza, acabou parindo milhares de Zoruas, que devoraram sua carne lenta e dolorosamente.
+
+==Aparições==
+[[Arquivo:Batalhapokemonblack.jpg|thumb|200px|left|Zorua, em seus jogos de estréia, prestes a levar uma surra de sua própria evolução.]]
+
+Nos games, suas aparições começam obviamente nos jogos Black e White, que apesar do nome não tem absolutamente nada a ver com [[Michael Jackson]]. Sabe-se que ele pode ser obtido como presente em uma tal de cidade chamada Hiun City, mas ninguém liga para isso.
+Já no anime, a única aparição de Zorua até agora foi no décimo terceiro filme, que como todos os outros filmes é completamente inútil. Na história, Zorua e seu parceiro psicopata Zoroark são dois assassinos em série, que estupram os protagonistas do desenho e se disfarçam das feras lendárias ([[Entei]], [[Suicune]] e [[Raikou]]) para tentar estuprar [[Celebi]] também.
+
+==Ataques==
+[[Arquivo:Zorua2.jpg|thumb|200px|Zorua, com seu olhar de quem pensa sacanagem.]]
+
+Por enquanto ainda não se sabe muito bem os ataques de Zorua (na verdade já sairam sim, mas quem tem paciencia para descrevê-los?). Ele como qualquer pokémon noturno ele tem ataques noturnos. Porque? Ora, porque ele é um noturno, sua mula! De qualquer jeito, ele tem alguns ataques inúteis também, como a arranhada, um ataque fraco que todo mundo sabe usar, até a [[Sua Mãe]] sabe usar ele. Mais com TMs ele pode ficar mais legal, pois ele aprende ate lança-chamas!!
+
+== Ver também ==
+
+*[[Pokémon Black / White]]
+
+*[[Raposa Demoníaca]]
+
+{{poke5}}
+[[Categoria:Raposas]]

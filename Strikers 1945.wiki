@@ -1,0 +1,104 @@
+{{Game}}
+
+{{Ofensivo}}
+
+{{Infobox Game
+|title     = Atacantes 1945
+|image     = Strikers_1945_japcdcovers_ccfront.jpg
+|caption   = Caralho! Pior que esses aviões cabulosos existem mesmo!
+|developer = Psikyo
+|publisher = Psikyo
+|released  = [[1991]]
+|genre     = Shoot'em up
+|rating    = - 7
+|platform  = [[Arcade]], [[Neo-Geo]], [[Playstation 2]]
+|ages      = 70
+}}
+
+{{Você quis dizer|Aero Fighters}}
+
+{{Experimente também|19XX}}
+
+{{C|AHVÁTOMÁNOCÚ!!!!!|Joseph Climber|Strikers 1945}}
+
+{{C|AHHHHHHHHHH, DESVIA, DESVIA, AHHHHHHHHHH, VAI, PARADEATIRÁ, NÃÃÃÃÃÃÃÃÃÃOOOOOOOOAAAAAAAAAAHHHHHHHHHH...|Garoto Alemão Doido|Strikers 1945}}
+
+{{C|Nunca vi tanto tiro!|Stevie Wonder|Strikers 1945}}
+
+{{C|Nunca tomei um tiro nesse jogo.|AAA|Strikers 1945}}
+
+{{C|É isso aí! No final da década de 90, substituíram os canhões por pirocas. Por quê? Porque todo mundo MIJA tiros.|Baú de Jogos|Strikers 1945}}
+
+'''Strikers 1945''' é um jogo de nave que é um plágio descarado do [[Aero Fighters]] e do [[19XX]], pois os programadores da Psikyo eram preguiçosos e não queriam inventar nada novo. Esse jogo é o responsável pelo surgimento do [[Bullet Hell]].
+
+==Como surgiu esse jogo==
+[[Arquivo:S19451.png|thumb|right|Um [[chefão]] como qualquer outro. Provavelmente ele não gosta de você e quer te matar.]]
+[[Arquivo:S1945p.png|thumb|right|A panqueca voadora, o melhor avião do jogo.]]
+Segue agora o diálogo entre os programadores da Psikyo, retirado de arquivos secretos da empresa, sobre o desenvolvimento desse “magnífico” jogo. (''Nota: Apesar de o espião responsável pelo roubo desses arquivos ter tomado uma saraivada de tiros enquanto fugia da sede da Psikyo, ele sobreviveu tempo o suficiente para nos entregar esses arquivos, mas como ele não tinha mais continues ele infelizmente sofreu um [[Game Over]].'')
+
+'''Programador 1''': E aí, precisamos fazer um jogo pra ganhar uma grana!
+
+'''Programador 2''': Ah faz um jogo de nave e já era!
+
+'''Programador 1''': E o que vai ter no jogo? Como é que vão ser as naves, os inimi...
+
+'''Programador 2''': PÁRA MEU! Enfia uns avião da segunda guerra e pronto! Não precisa inventar nada!
+
+'''Programador 1''': O jogo precisa ser bem difícil pra gente ganhar mais grana com os trouxas... er... jogadores!
+
+'''Programador 2''': Relaxa meu! É só fazer uma chuva de tiro na tela e pronto!
+
+'''Programador 1''': GENIO!!!! E como vai ser o sistema do jogo?
+
+'''Programador 2''': Ah, é só copiar o Aero Fighters e já era!
+
+'''Programador 1''': Demorou!!!!!!!
+
+E assim surgiu um dos jogos mais cara-de-pau da face da terra!
+
+==Sobre o que é esse jogo?==
+
+História não tem, é simplesmente guerra contra as forças do mal. A princípio parece apenas um jogo comum sobre a segunda-guerra, mas os [[Chefão|chefões]] viram Megazords e coisas do tipo, e os mestres finais são sempre algum holograma que se transforma em tudo quanto é coisa possível.
+
+==Tem muito tiro na tela, o que eu faço?==
+[[Arquivo:S1945p001.png|thumb|right|Parece Aero Fighters? Imagina...]]
+A minha sugestão é que você pare de jogar isso e vá jogar qualquer outro jogo. Mas se mesmo assim você quer se arriscar, aqui vão algumas dicas:
+
+* Taque bomba na tela.
+
+Se você já tiver feito isso e continuam vindo mais tiros então tente as próximas sugestões:
+
+* Use o [[↑ ↑ ↓ ↓ ← → ← → B A|código da Konami]];
+
+* Use qualquer outro [[Cheat Code]];
+
+* Use [[Game Shark]];
+
+* Experimente ficar parado;
+
+* Tenha reflexos extra-apurados;
+
+* Jogue esse jogo o dia inteiro (quem sabe você não pegue as manha de desviar dos tiros...);
+[[Arquivo:S19453.png|thumb|right|Muitos tiros? Mas é só a primeira fase ainda!]]
+* Coloque no Very Easy;
+
+* Mude as configurações da máquina;
+
+* Faça macumba;
+
+* Seja o [[AAA]].
+
+* Se nenhuma das opções acima funcionou, então compre mais fichas!
+
+{{Shoot 'em up}}
+
+[[categoria:Jogos da Psikyo]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Neo-Geo]]
+[[Categoria:Jogos para Sega Saturn]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos para PlayStation 2]]
+[[Categoria:Jogos para Android]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos lançados em 1995]]

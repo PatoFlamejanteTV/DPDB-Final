@@ -1,0 +1,38 @@
+{{pokedex}}
+
+{{PokéBox
+| imagem = Fuecoco.jpg 
+| frase = Fuecoco, o Totodile com demência.
+| nihongo = ホゲータ
+| romaji = Hogēta
+| pokedex = 909
+| tipo1 = Fire
+| tipo2 = 
+| habilidade1 = O mesmo dos outros iniciais de fogo
+| habilidade3 = Depende da boa vontade da Game Freak
+| espécie = Crocodilo esquisito
+| cadeia evolutiva = [[Arquivo:909MS.png|60px|Fuecoco]] {{seta}} [[Arquivo:910MS.png|60px|link=Crocalor|Crocalor]] {{seta}} [[Arquivo:911MS.png|60px|link=Skeledirge|Skeledirge]]}}
+
+{{vqd|Fuleco}}
+{{vqd|Fui, cocô}}
+
+'''Fuecoco''' é mais uma espécie fútil de Pokémon que irá representar o trio de iniciais espanhois do jogo da região espanhola ainda sem nome dos jogos Pokémon Scarlet e Pokémon Violet, assim como seus companheiros Sprigatito e Quaxly.
+
+Ao menos que a Game Freak faça a trollagem de meter um outro caso de [[Victini]] como na quinta geração, este pokémon provavelmente irá ter o número <nowiki>#</nowiki>909 na Pokédex que cada vez mais dá notícias de [[limite (matemática)|tender ao infinito]]. Assim como os iniciais da oitava geração, Fuecoco foi revelado no mesmo dia durante um Pokémon Presents, que é o Direct exclusivo de Pokémon, por causa de alguns pokemaníacos cagarem e andarem para jogos da Nintendo e seus trocentos indies fúteis que mostram naqueles trinta minutos de baboseira.
+
+Depois de vários minutos mostrando [[porra nenhuma]] no Pokémon Direct, enfim veio o tal trailer, que no começo parecia ser a mesma porcaria de um trailer comum de um novo jogo de pokémon, mostrando vários pokémons que todos já conheciam enquanto andam durante o mapa, enfim, os três <s>fakemons</s> iniciais do novo jogo foram mostrados, Fuecoco e seus dois companheiros.
+==A espécie==
+[[Arquivo:Não pesquisem o pokémon de número 591.png|200px|thumb|left|[[Among Us|Sus]]<nowiki>peitamos que isso também seja um Fuecoco.</nowiki>]]
+Fuecoco de acordo com especialistas é um crocodilo que sofreu [[demência]] e passou a ter poderes de fogo em vez de viver na água, pois para isso já existe o [[Totodile]] e para tentar agradar o público, essa espécie não costuma ser muito agressiva quanto sua versão aquática. A sua forma é um crocodilo gordo que tenta parecer uma [[pimenta]], ou seja, para maioria dos gringos, [[Espanha]] é apenas o [[México]] da [[Europa]].
+
+Por se tratar de um crocodilo bebê assim como um crocodilo em si, essa espécie de cara já foi odiada pelos seguidores do horóscopo chinês (ou zodíaco), que estão arrancando os cabelos e roendo suas unhas torcendo para que Fuecoco acabe virando uma [[cobra]] em qualquer uma de suas duas evoluções ou algo que possa forçar alguma relação com uma cobra para provar que a tal teoria do zodíaco chinês e os iniciais do Tipo Fogo esteja certa.
+
+O seu nome em inglês veio de um disléxico que tentou escrever "[[fuleco]]" e saiu essa coisa. Já o seu nome japonês, Hogeta, é algum fã de [[Dragon Ball]] que tentou meter o nome de algum [[fancharacter|fanchar]] desse anime e conseguiu relacionar ao pokémon em si. Assim como [[Scorbunny]], não se sabe o motivo de Fuecoco possuir um pedaço de [[queijo]] aleatório em seu design.
+==Popularidade==
+Não basta apenas ser um inicial de fogo para ser popular, já que Fuecoco de início já perdeu a popularidade dos [[furries]], que queriam homenagear mais um inicial de fogo, mas esse trabalho acabou ficando com o Sprigatito, que acabou virando o queridinho dos fãs doentes mentais do jogo.
+==No anime e no mangá==
+Mal mostraram a oitava geração e já espera que esse daí apareça do nada?
+
+{{Poke9}}
+[[Categoria:Fogo]]
+[[Categoria:Crocodilos]]

@@ -1,0 +1,51 @@
+{{mineral}}
+{{lutador}}
+{{PokéBox
+| imagem = Cobalion.png
+| frase = Tem uma barba crescendo na garganta dele?
+| tamanho = 200
+| tipo1 = Steel
+| tipo2 = Fighting
+| pokedex = 638
+| nihongo = コバルオン
+| romaji = Cobalon
+| espécie = Bode Mosqueteiro
+| cadeia evolutiva = [[Arquivo:Cobaliongif.png]][[Arquivo:Seta.JPG|30px]][[Arquivo:Tumbleweed01.gif|100px]]
+}}
+
+{{Você quis dizer|Cobalto}}
+{{Experimente também|Cavalo Azul}}
+
+{{C|Um por todos e ... ah já deu né...|o trio mosqueteiro|usarem a mesma frase o tempo todo}}
+{{C|Eu... VIREI UM CAVALO!!|Athos|Cobalion}}
+
+[[Arquivo:Cobaliongif.png]]'''Cobalion''', um pokémon lendário, surgiu como parte do trio lendário da quinta geração, que tinha como objetivo sacanear os infames [[Os Três Mosqueteiros|Três Mosqueteiros]], comparando eles com três cavalos mágicos coloridos que usam botinhas. Pior! Comparando eles com pokémons!
+
+==Dados==
+
+Ele é considerado como sendo o pokémon com a "vontade de ferro" (nome usado apenas para justificar ele ter o tipo Metálico, quando na verdade todo mundo sabe que é só porque é um tipo "massavéio"). Uma curiosidade sobre esse monstro é que cresce barba nele mesmo ele sendo de metal, a pergunta é: Será que é de enfeite? Bom, disso ninguém sabe mas sabemos que ele tem barba e branca, a outra pergunta é: Ele é velho? Bom, velho ele não é, ele pode ser um pouco enferrujado.
+
+Ele foi baseado no líder dos mosqueteiros, o velhote [[Athos]] e por isso dizem que Cobalion é o líder dos três cavalões lendários, e tanto [[Terrakion]] quanto [[Virizion]] são obrigados a <s>sexo</s> satisfazer <s>sexualmente</s> suas vontades <s>sexuais</s>.
+
+==Nos Jogos==
+
+[[Arquivo:Cobalion bode.jpg|thumb|left|250px|Cobalion, o velho bode misturado com gnu misturado com antílope ou vá laá saber o nome da criatura exótica que ele é.]]
+Sendo o pré-suposto líder, você tem que pegá-lo primeiro para poder liberar os outros dois cavalos lendários. Não interessa se não houver um pingo de vontade de ter um pangaré azul na sua equipe, PRECISA PEGAR TODOS!! ...Lembre-se disso. Enfim, Cobalion será achado na [[Mistralton Cave]], a caverna dos malstratos, que é para onde mandam pokémons velhos e barbudos como ele, para que sejam maltratados por enfermeiras grandes e brutais.
+
+==Ataques==
+
+Os ataques do Cobalion são pouco conhecidos, na maioria porque ele é velho e esquece tudo (os ataques "artrite" e "dor nas juntas" não contam por serem inefetivos") mas o que sabemos é que ele usa um golpe chamado <s>[[Especial de porrada]]</s> Close Combat que quer dizer <s>Fechar Combate</s> Luta corpo a corpo, mas não se engane pelo nome, é só mais um ataque que muda os status de todos mas não machuca ninguém, já que Cobalion tem medo de machucar a coluna.
+
+== Ver também ==
+
+*[[Terrakion]]
+
+*[[Virizion]]
+
+*[[Keldeo]]
+
+*[[Athos]]
+
+{{poke5}}
+[[Categoria:Cervos]]
+[[Categoria:Antílopes]]

@@ -1,0 +1,51 @@
+{{Box ClubeFutebol
+|cor_clara         = red
+|cor_escura        = black
+|brasao            = Escudo do KFV.png
+|hino              = 
+|nome_oficial      = Karlsruher Fussball Verein
+|origem            = {{ALE}}''' - [[Karlsruhe]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Battstraße 87]]
+|capacidade        = 51.796
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = 
+|material          = 
+|liga              = Campeonato Alemão
+|divisao           = Kreisklasse B Karlsruhe Staffel 2 (X) (WTF)
+|títulos           = 
+|ranking           = 
+}}
+
+'''Karlsruher Fussball Verein''' é supostamente um time de futebol, sediado no estado de [[Baden-Württemberg]] na [[Alemanha]], somente um clube secundário e saco de pancadas particular na Oberliga de 1999-00. É um desses times falidos cujo patrocinador é também o dono, no caso, a prefeitura de Karlsruhe.
+
+== História ==
+=== Fundação ===
+
+Time fundado em 1891, desde sempre quase nunca teve grandes pretensões, afinal surgiu na Alemanha, então mesmo que por algum milagre conseguisse contratar os melhores jogadores do país, não seria grandes coisas. Começou humilde, oferecendo papel higiênico como salário aos jogadores, disputando a oitava divisão alemã (sim, isso existe!), época em que enfrentou grandes equipes com quem criou grande rivalidade, como o Union 92 Berlin, FSV Frankfurt, Eintracht Duisburg e Blau-Weiss Berlin.
+
+Conseguiu em 1957 cair de divisão, e depois disso nunca mais parou, porque precisa ser muito ruim pra conquistar essa façanha.
+
+=== Tentativa de mudança em 2004 ===
+
+Em 2006 ficou bem claro que o Karlsruher FV era uma cópia cretina do [[Karlsruher SC]], mas só no nome, porque no futebol não vence nem o sub-17 do [[Alemannia Aachen]]. Tudo numa demonstração clara de falta de criatividade, que se reflete num futebol pouco criativo também. O presidente da época decidiu que trocaria essa falta de vergonha para algo mais original, e anunciou que estava pensando em um novo nome para a equipe. Todavia, a torcida de 300 pessoas, com medo de que trocassem o nome para algo extremamente ridículo, como é o normal dos nomes horríveis dos times alemães, protestaram e evitaram a mudança, preferindo continuar como cópia descarada do que ter um nome idiota como o do [[Stuttgarter Kickers]] ou do [[Kickers Offenbach]].
+
+=== Virada de mesa de 2007 ===
+
+Pela Bezirksliga de 2006-07 o Karlsruher FV conseguiu uma incrível façanha, um feito conquistado por poucos porque requer muito esforço de ruindade, ficou entre os quatro últimos da sexta divisão e rebaixou. Mas tal qual FSV Frankfurt, VFR Aalen e tantos outros times malandros, a Federação Alemã decidiu dar uma mãozinha para o Karlsruher FV e assim aumentar a Bezirksliga, então com 180 times, para 432 times, mesmo que não existissem (e não exista até hoje) mais do que 2 ou 3 times profissionais, inflando o campeonato, mas salvando o KFV do rebaixamento.
+
+=== Bezirksliga de 2017-18 ===
+
+Aproveitando-se da grave crise que se estabeleceu em [[Baden-Württemberg]] no ano de 2017, como era um time sustentado por uma [[prefeitura]], a equipe do KFV conseguiu comprar o mínimo de infra-estrutura para aquele ano tão difícil para o seu país. Era o único time da Alemanha que dispunha de uma das melhores infraestruturas na época e tal conforto se refletiu em resultados positivos, pois a equipe foi campeã da Bezirksliga Sud (embora na fase de pontos corridos tenha ficado num desprezível 2º lugar, mas depois se deu bem nos mata-mata).
+
+{{Campeonato Alemão}}
+
+[[Categoria:Times de futebol da Alemanha]]

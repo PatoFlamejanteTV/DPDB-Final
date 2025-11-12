@@ -1,0 +1,64 @@
+{{vegetal}}
+{{bombado}}
+{{pokedex}}
+
+{{PokéBox
+| imagem = Rillaboom{{#switch: {{#expr: {{#time: H}} mod 2}}|0=.jpg|1=G.png}}
+| frase = Rillaboom {{#switch: {{#expr: {{#time: H}} mod 2}}|0=pensando onde enfiou seu tambor.|1=prestes a causar poluição sonora.}}
+| nihongo = ゴリランダー
+| romaji = Gorirander
+| pokedex = 812
+| tipo1 = Grass
+| tipo2 = 
+| habilidade1 = Overgrow, como de costume
+| habilidade2 = Ficar macaqueando
+| habilidade3 = Virar um [[Tapu Bulu]] paraguaio
+| espécie = [[Oozaru]] [[Super Saiyajin|Super Saiyajin 3]] de grama
+| cadeia evolutiva = [[Arquivo:810MS.png|link=Grookey|Grookey]] {{seta}} [[Arquivo:811MS.png|link=Thwackey|Thwackey]] {{seta}} [[Arquivo:812MS.png|Rillaboom]]}}
+
+{{vqd|[[Moana|Maui]]?}}
+{{vqd|[[Brian May]]?}}
+{{C|Primo?|Simisage|Rillaboom}}
+
+'''Rillaboom''' é um dos vários pokémons existentes e é a evolução final dos iniciais de grama, os macacos de Galar, o [[Grookey]] e o [[Thwackey]], evoluindo-o até o nível 35. É o número #812 da Infinitodex total.
+
+Se já achavam que o [[Passimian]], ou o [[Darmanitan]] eram os pokémons considerados primatas que mais abusavam dos [[anabolizante]]s, Galar provou que essa frase estaria incorreta, já que resolveram fazer o [[Grookey]] o inicial bombado desta geração, já que é obrigatório algum inicial bombado que quase todas gerações novas e Rillaboom realmente supera os outros dois neste quesito, porém a pokedex [[cagando e andando|caga e anda]] pra isso, já que <s>existe o [[Grimmsnarl]] e o Gigantamax [[Machamp]]</s> o gorila é mais famoso por ficar tocando seu próprio tambor escondido e [[punheta|outras coisas]].
+
+
+==Seu design==
+[[Arquivo:Rillaboom Ricardo Milos.png|190px|thumb|left|Rillaboom fazendo [[cosplay|cospobre]] de [[Ricardo Milos]].]]
+Rillaboom é um pokémon que se assemelha com um [[gorila]] e que possui vários detalhes marrons em todo seu pelo com alguns detalhes de planta como em suas mãos e perto de sua barriga, além de outros detalhes em volta de seu corpo para não ficar um design totalmente sem graça a primeira vista, como o caso do [[Boltund]] e seu 3D horrendo.
+
+Rillaboom também é famoso por possuir um cabelo de grama que é plágio do outro inicial primata, o [[Infernape]], e também é plagiado da forma [[Super Saiyajin]] 3 do [[Goku]], só que pintado de verde e se parecendo com detalhes de grama, além de um fio de cabelo totalmente inútil na frente dele que não serve pra nada em seu design a não ser confundir a sexualidade deste bicho, mas aí [[pokefilia|é outra história]]. Ou seja, Rillaboom não é nada mais que uma mistura bombada do [[Passimian]] com o [[Simisage]] e alguns elementos do [[Grookey]] e do [[Thwackey]], juntando 0,000000000000000001% do design do [[Infernape]].
+
+Além de seu tambor, em seu design, Rillaboom na maioria das vezes é visto com dois paus (ui!) nas suas mãos, a qual seus usos principais compõem ficar tocando seu tambor e encher o saco dos outros [[pokémon]]s que convivem com ele seja nas florestas ou no time do seu treinador, brincar de [[proctologista]] com [[boiola|ele mesmo]] ou de [[ginecologista]] com alguns pokémons fêmeas (algo bem raro), ou ficar de [[luto]] pelo fato do [[Alakazam]] não estar no jogo e outros pokémons que seguram objetos.
+
+Rillaboom em sua forma [[Gigantamax]] não muda quase nada em seu design, só que dessa vez ele consegue transformar uma floresta em vários instrumentos musicais feitos de madeira, deixando seu design ainda mais tosco <s>nem quanto quanto o de [[Inteleon]]</s> e seu ataque principal é o G-Max Drum Solo, que assim como os golpes de Gigantamax, que são [[sarcasmo|muito criativos]] em relação aos golpes originais, é exatamente a mesma coisa que seu golpe especial normal, só que com raízes maiores dando chicotadas no adversário, mas só para fingir que é bom, seu golpe consegue ignorar as abilities dos outros pokémons.
+
+==Usos==
+[[Arquivo:Rillaboom e Inteleon.png|220px|thumb|left|[[Alexandre Frota]] pede ajuda a [[Pabllo Vittar]] para tirar [[Bolsonaro]]. ([[cor|colorizado]], [[2019]])]]
+Rillaboom por ser um inicial de grama, é totalmente ignorado pelas massas e quase nenhuma pessoa sabe do que [[porra nenhuma|ele possa ser capaz]], seu golpe especial e único é o pior dos três iniciais deste jogo em termos de animações, já que não é [[Cinderace|uma embaixadinha apelona]] ou [[Inteleon|o raio do Freeza, só que versão de água]], com uma animação tosca do próprio Rillaboom tocando seu tambor sem parar e com isso criando alguns cipós que irão chicotear o adversário várias vezes...e só, causando algum dano significativo.
+
+No início, sua habilidade inicial e seus stats não ajudavam a ser um starter útil pro jogo, já que não é quebrado e rápido quanto [[Cinderace]] e seus ataques apelões ou ter a velocidade de [[Inteleon]], além de perder de forma vergonhosa para [[Eiscue|um pinguim]] com um bloco de gelo na cabeça nas votações. Por [[ironia]] do destino, onde Rillaboom estava predestinado a ser o pokémon inicial inútil da geração, já que tinha uma animação tosca de ataque especial que ninguém ligava, além de ninguém querer desenhar esse [[gorila]] horrendo.
+
+Na DLC Isle of Armor, Rillaboom conseguiu fazer um bom uso de sua nova habilidade, Grassy Surge, além de aproveitar muito bem sua habilidade para ser o melhor pokémon de grama do jogo inteiro, ganhando até de lendários e conseguiu ganhar até de [[Cinderace]], o inicial que a [[The Pokémon Company]] fez de tudo para que ganhasse. O resultado é que Rillaboom foi o terceiro inicial a ganhar o VGC do competitivo e ainda mais na frente do inicial favorito da franquia, o que fez a própria The Pokémon Company pistolar de raiva.
+
+Para o bem da empresa principal de monstros de bolso, nem tudo serão rosas para esse gorila, já que por causa de sua gracinha feita no meta competitivo do final de Sword e Shield, resolveram tirar seu golpe principal, mas não impediu que ele fosse usado no competitivo, mas um raio não cai duas vezes, já que teve que amargurar o vice-campeonato. Já na segunda DLC, está liberada a suruba de lendários e logo esse pokémon poderá voltar [[lixo|ao seu devido lugar]].
+
+==Popularidade==
+[[Arquivo:Maui_Rillaboom.jpg|150px|thumb|Qualquer semelhança entre Rillaboom e [[Moana|Maui]] não é mera coincidência.]]
+Como Rillaboom é um inicial que possui mais foco para o lado dos iniciais bombados, não fará sucesso pelo público e nem tanto em sites de [[putaria]], já que ao menos mais da metade das pessoas lá se masturba para pokémons femininos ou que possam ser forçados como femininos. Além destes detalhes, Rillaboom também não é ajudado pelo seu design, já que não possui um design considerado muito simples que seja de gerações antigas ([[Feraligatr]]) e não é de fogo ([[Incineroar]]), acabou sendo o inicial esquecido desta geração. (leia também: [[Chesnaught]], [[Swampert]] e [[Samurott]])
+
+Seu fracasso foi tão grande no quesito popularidade que [[Pokémon of the Year|na competição que media isto]], Rillaboom foi muito mal em comparação aos rivais [[Cinderace]] e [[Inteleon]] e conseguiu o feito de ficar atrás até de um [[Eiscue|pinguim com um cubo de gelo]], mostrando que de primatas, todos apenas gostam do [[Infernape]]. E possível ainda cair mais se seu clone mais magro e escuro, [[Zarude]] conseguir fazer (muito) mais sucesso do que ele.
+
+==Nas mídias principais==
+No jogo, Rillaboom pode ir para qualquer um dos três personagens, o protagonista (caso escolha o [[Grookey]]), o [[Hop (Pokémon)|Hop]] (caso escolha o [[Scorbunny]]) ou o [[Leon (Pokémon)|Leon]] (caso escolha o [[Sobble]]) e será o pokémon de qualquer um dos três <s>ao menos que seja do protagonista e irá parar na box</s>.
+
+Já no anime, Rillaboom aparece quando Goh, quando tinha dormido após começar a cheirar seu próprio [[Oddish]], começar a ter alucinações em sua casa e acorda vendo dois Rillaboom falantes, o que identificaria-o depois como seus pais e depois começa a ver um Grookey, o que não seria uma alucinação dele e o gorila bombado não aparece mais no episódio depois disso. Como não era uma aparição real deste pokémon, deixaram para aparecer em algum outro episódio futuro da série, já que o seu primeiro episódio pode haver controvérsias pelo fato de vários frouxos quererem cancelar o episódio em países que não se chamem [[Japão]].
+
+Os japoneses ficaram bastante tempo shippando os outros dois iniciais que esqueceram do próprio Rillaboom e deixaram-o para aparecer no final, como um dos membros da equipe de Leon. Por se tratar de um pokémon de estilo bombado, todos pensariam que seria mais um [[Machamp]] da vida que consegue apanhar até de um [[Squirtle]] no anime, mas acabou se tornando um dos mais fortes <s>pelo fato do Leon ter muito plot armor</s> e conseguiu derrotar tanto um [[Chesnaught]] quanto '''quatro''' dos pokémons da Diantha, a campeã mais fraca dos jogos, mostrando que é um dos pokémons mais apelões do divulgador de calangos laranjas voadores.
+==Ver também==
+*[[Gorila]]
+
+{{Poke8}}
+[[Categoria:Gorilas]]

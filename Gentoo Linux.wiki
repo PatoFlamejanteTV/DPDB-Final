@@ -1,0 +1,75 @@
+
+
+[[Arquivo:MsLinux.gif|right|thumb|Versão beta 2 do Microsoft Linux 2005]]
+
+{{c|Na Rússia o Gentoo se instala sozinho, não precisa de VOCÊ!.|Reversal Russa| Gentoo Linux}}
+
+{{c|accept_keywords ~x86. |Compiz Fusion|Gentoo Linux}}
+
+
+
+{{c|[[AAAAAAAAA!|Aaaaaaaaaaaaahhhhhhhhhhhhhhhrrghhhhhhhh!!!]]|Linuxer normal|Gentoo}}
+
+{{c|Eu uso o [[linux]], mas não sou doido de usar Gentoo.|Bill Gates|Gentoo}}
+
+{{c|Eu uso o [[linux]], mas não sou doido de usar Gentoo.|Linus Torvalds|Gentoo}}
+
+{{c|Mooooooooooooooooooooooooooo|Larry The Cow|Gentoo}}
+
+{{c|Have you mooed today?|emerge moo|Gentoo}}
+
+{{c|Conheço Larry, a Vaca! Eu gosto muito, sou mó fã de Larry, O Vaca!|albfneto|Gentoo}}
+
+{{c|Obrigado pela atenção, saaaalve! |zezaocapoeira|Gentoo}}
+
+{{c|Eu usava Gentoo, mas troquei pelo Sabayon, não sou mais tão louco pra usar Gentoo|albfneto|Gentoo}}
+
+{{c|Eu usava Gentoo, mas troquei pelo Funtoo, depois troquei para Exherbo, pois Gentoo e Funtoo são para n00bs.|stilldre|Gentoo}}
+
+{{c|Gastará três dias e três noites sem dormir, em frente ao PC, compilando códigos que não funcionam direito e não servem para nada|Desciclopedia em Italiano|Gentoo}}
+
+Quando o líder da [[Máfia dos Pinguins]] foi preso e exilado num Zoológico do Sul do Brasil, seus principais assessores fugiram para o deserto do [[Saara]], onde boa parte faleceu, por causa do calor excessivo. Os que sobreviveram, alucinados com visões de [[Tux]], o ressuscitado, resolveram prosseguir no plano de dominação mundial. Dessa vez, entretanto, para ocultar seus planos, produziram em laboratório uma vaca, de nome [[Larry The Cow|Larry]], e criaram uma religião, de nome Portage, para conseguir fiéis para seu rebanho. Com o auxílio de Larry, criaram uma distribuição de [[Linux]], denominada Gentoo, que na verdade é o resultado da interpretação cabalística do [[Evangelho dos Pinguins]]. 
+[[Arquivo:Batmanpinfafafa.jpg|thumb|right|194px|Líder da máfia dos pinguins]]
+Uma das características do Gentoo é o uso do comando emerge, que na verdade é utilizado para invocar os [[Demônios da Neve]] (mais poderosos, obviamente, que os [[Demônios da Garoa]]). O principal demônio chama-se [[moo]], e "emerge -DuN moo" coloca o adepto gentooniano em contato com as sábias palavras da vaca Larry. Outra característica do Gentoo, aqui por causa de seu foco cabalístico, é o uso das [[velas]] "USE" nas orações dos fiéis. Segundo consta a lenda, através do uso dessas velas, o fiel consegue entrar em [[transe psíquico]] com diferentes demônios, de acordo com sua necessidade no momento. Infelizmente os relatos e as análises dos cientistas sobre os pergaminhos encontrados não apontam direções sobre como utilizar essas velas para conseguir levar a [[Juliana Paes]] para a cama, um segredo prometido aos iniciados nos altos segredos.
+
+Uma característica do fiel gentooniano é sua vocação para [[Masoquista|autoflagelação]], uma vez que sua iniciação na religião pode demorar dias. Uma vez iniciado, entretanto, esse adepto diz-se livre de drogas, como [[Debian GNU/Linux|Lesbian Linux]], [[Fedora]], [[Mandrake]] e principalmente aquelas mais pesadas, como [[Windows]]. Entre as atividades diárias do adepto ao culto encontram-se a sagrada tarefa de rir dos pobres mortais (também chamados de usuários do Slack) e recompilar o [[kernel]] ao menos uma vez por dia.
+
+== Modo de invocação de demônios (emerge) ==
+emerge --sync, obtém informações sobre novos demônios;
+emerge world, atualiza os principais demônios;
+emerge -DuN world, atualiza todos os demônios;
+emerge -pvDuN world, finge que vai atualizar todos os demônios;
+emerge --depclean, remove os demônios não usados, levando junto metade dos que são frequentemente usados, por engano.
+
+== Tipos comuns de Demônios ==
+xorg-xserver, esse popular demônio luta bravamente para que você não consiga invocá-lo corretamente;
+kde, demônio que quando invocado traz junto com ele cerca de 200 mil demônios inúteis;
+libreoffice, demônio popular por levar aproximadamente 27 anos para ser invocado;
+portage, líder da religião, deve ser invocado periodicamente;
+mplayer, demônio capaz de reproduzir sons e imagens codificados em formatos desconhecidos, como [[vorbis]] e [[matroska]];
+wine, demônio invocado para proporcionar algum tipo de instabilidade ao sistema e permitir a ação dos virus.
+
+== Utilização das velas "USE" ==
+As velas "USE" prometem fazer com que o demônio seja invocado da maneira que você preferir. Cada demônio tem suas próprias velas "USE".
+
+O demônio mplayer pode ser invocado com a vela "USE" libcaca, desse modo ele será capaz de fazer desenhos na tela com caracteres coloridos, e ainda te falar que é vídeo.
+
+== o resto do artigo ==
+
+*
+* Por favor aguarde,
+* O resto do artigo esta sendo compilado.
+*
+* Se precisar de suporte, poste o conteúdo do arquivo /sddas/wfaff/fbt/tfafe/feaef/resto.log
+*
+
+
+{{Linux}}
+
+[[en:Gentoo]]
+[[fi:Gentoo]]
+[[fr:Gentoo]]
+[[it:Gentoo]]
+[[ko:젠투 리눅스]]
+[[pl:Gentoo Linux]]
+[[ru:Gentoo]]

@@ -1,0 +1,40 @@
+{{física}}
+{{vagabundo}}
+
+{{minidesambig|o super-herói idiota, cujo o nome em Português não tem muito a ver com o original em Inglês|Super Choque}}
+
+'''Estática''' é a parte da física que estuda bloquinhos parados, sustentados por uma cordinha, correia, ou qualquer superfície que a sustente, baseando-se nos movimentos de translação e rotação. 
+
+==Uso==
+[[Arquivo:Por_um_fio.gif|thumb|Salvar o cara que está dentro do carro? Ok, mas primeiro vamos calcular a tração exercida pelo fio que sustenta o carro, deixando-o estático.]] 
+Porque é importante que engenheiros estudem estática? Note que engenheiros são pessoas completamente desequilibradas, ou seja o equilíbrio mecânico é inversamente proporcional ao equilíbrio social do indivíduo engenheiro. 
+
+A estática também está no nosso dia-a-dia, por exemplo, quando você compra uma bela tanga (para sua namorada engenheira). Quando você efetua o pagamento e o receptor da grana puxa a grana de sua mão, naquele momento pode haver um equilíbrio estático. Como? A força de equilíbrio está relacionada ao seu grau de pão durice (quanto mais você segura a grana e o cara puxa) tendo COSxPD onde x é o ângulo de miserabilidade (se contorce para não dar a grana e forma um ângulo) e PD pão duro.
+
+==Fórmulas==
+Para calcular qualquer coisa na estática, usa-se a famosa fórmula do [[emo]]:
+:<math>\sum{M}=0</math> (com Momento igual ao produto da Força com o Braço)
+<br>A soma dos momentos precisa resultar em zero para que o corpo permaneça estático, caso não dê esse resultado, pode-se concluir que [[Cinemática|você está na página errada]]. 
+
+==Fatos sobre Estática==
+*Todo exercício '''deve''' envolver bloquinhos ou escadas
+*As situações foram inspiradas no desenho [[Tom e Jerry]]
+*Pode ser aplicada em outros meios como o aquático
+*Pode ser aplicada em uma superfície inclinada (torça para que não seja o caso)
+
+==Exemplo de exercícios de estática==
+Situações do cotidiano onde você poderá usar seu vasto conhecimento sobre estática:
+
+1.A pressão exercida pela bexiga natatória de seu [[Peixe|Beta]] para que ele fique em determinada profundidade do aquário. Se o empuxo sobre o seu Beta mantive-lo na superfície da água, ele provavelmente está morto.
+
+2.Experimento da barata em um recipiente hermeticamente lacrado e inerte (pote) fechado no microondas: A pressão do recipiente mantém a barata ''quietinha'', se você abrir o pote, ocorrerá um fenômeno muito curioso. Experimente e filme para nós.
+
+3.[[Aplicações da Lei de Murphy em dispositivos antigravitacionais felinos|Experimento gato-torrada]]: a torrada e os pés fazem com que o gato permaneça estático. Isso se ele não explodir (filme para nós também).
+
+== Ver também ==
+*[[Ondulatória]]
+*[[Óptica Geométrica]]
+*[[Electroestática]]
+
+
+{{oposto|Dinâmica}}

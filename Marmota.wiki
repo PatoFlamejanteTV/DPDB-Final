@@ -1,0 +1,50 @@
+{{animal}}
+{{mamífero}}
+
+{{taxocaixa
+| cor             = #a6aa3e
+| nome            = Marmotas
+| imagem          = Dilmapresidenta.jpg
+| imagem_legenda  = Marmota líder presidencial.
+| reino           = [[Animalia]]
+| filo            = [[Chordata|Chorar na data]]
+| classe          = [[Mammalia|Mamantes]]
+| ordem           = [[Rodentia|Roda doentia]]
+| família         = [[Sciuridae|Escuridão]]
+| gênero          = [[Marmota|Presidenta]]
+}}
+
+{{Vqd|[[Marmita]]?}}
+{{Experimente|[[Esquilo]]}}
+{{C|Todo Marmotoso!|Nando Moura|marmota.}}
+{{C|Obra feita pelos artistinhas da Rede Globo e da grande mídia!|Diego Rox|marmota.}}
+{{C|Eu declaro guerra aos CASTORES!!!|[[Luiz Inácio Lula da Silva|Rei Marmota]]|[[Castor|castores]].}}
+{{C|Na União Soviética, '''VOCÊ''' rói a marmota!!!|Reversal Russa|marmota.}}
+{{C|A marmota é '''VOCÊ''' roída na União Soviética!!!|A Incrível Inversão Russa Reversa|marmota.}}
+{{C|Nem li!|<s>[[Stevie Wonder]]</s> [[Todo mundo]]|esse artigo.}}
+
+A '''marmota''', que por algum motivo não têm [[nome]] científico, é um [[Animal|você da vida]] da família dos [[Roedor|roedores]] e um tipo de [[esquilo]].
+
+Esses [[Macho peludo|machos peludos]] hibernam por [[sete]] <s>[[É de mais de 8000!|mil]]</s> meses e quando passam por esse período, alimentam-se mais rápido do que quando o [[Olavo de Carvalho]] está produzindo [[Livro|livros]] e conhecem seus arredores para que o [[Pedobear]] não comam seus filhos (nos dois sentidos).
+
+São animais extremamente <s>sociais</s> [[Socialista|socialistas]] por que aderem ao [[PT]] e são sinônimos da [[Dilma Rousseff]]. Normalmente vivem em pequenas colônias. Elas são uma das presas preferidas da ave de rapina, mas como andam na [[velocidade da luz]] conseguem se esquivar e pela velocidade irão consequentemente, chegar ao [[Acre]].
+
+Vivem no <s>[[hemisfério norte]]</s> [[Nordeste]], em regiões montanhosas, onde o clima rigoroso não permite uma [[vegetação]] mais desenvolvida do que a [[erva]] <s>da [[maconha]]</s> dos prados. As marmotas [[Comer|fazem sexo]] [[Herbívoro|com grama]].
+
+== Galeria de imagens [[Nando Moura|marmotosas]] ==
+<gallery>
+Arquivo:MarmotaBolsonaro.jpg|Marmota [[bolsonarete]].
+Arquivo:MarmotaIslamista.jpeg|Marmota [[Islamismo|islamista]].
+Arquivo:MarmotaStalin.jpg|Marmota. Perceba que [[Josef Stalin]] quis entrar no meio.
+Arquivo:Dilmapresidenta.jpg|Uma das marmotas [[Sarcasmo|mais inteligentes]] do [[Planeta Terra]] e do [[mundo]].
+Arquivo:Pc24.jpg|Indivíduo que têm marmota de estimação <s>ou que talvez seja uma</s>.
+Arquivo:Hrhrdy1b3y1qbvgtl5fv.jpeg|[[Markus Dupree|Marmo]]... Ah, não. Eu só gosto dessa imagem mesmo.
+Arquivo:WLY-8rW7EbM.jpg|[[Nando Moura|Indivíduo]] ''Marmotoso''.
+Arquivo:MarmotaDilma.jpg|Marmota do tipo ''Dilmaes''.
+Arquivo:Chapeudemarmota.jpg|[[Boné]] <s>do [[Rato Borrachudo]]</s> de marmota.
+</gallery>
+
+{{esboço}}
+
+[[Categoria:Sciuridae]]
+[[Categoria:Marmota|*]]

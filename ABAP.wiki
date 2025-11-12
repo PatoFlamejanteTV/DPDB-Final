@@ -1,0 +1,171 @@
+{{C|Isso não é erro cacete|Instrutor sem noção ao se deparar com a mensagem "Function module name is reserved for SAP" teimando em criar função com o dominio da SAP}}
+{{C|Não se diz erro, se diz sy-subrc NE 0|ABAP|erro}}
+{{C|Não se diz formulário, se diz TABELA|Instrutor ABAP|formulário}}
+{{C|Não se diz Struct, se diz TABELA|Instrutor ABAP|estrutura}}
+{{C|Não se diz tabela, se diz Selection Screen|Instrutor ABAP|tabela}}
+
+[[Arquivo:ABEC.gif|thumb|ABAP]]
+
+'''ABAP''' ('''''Advanced Bubble Acrean Programming''''') é uma linguagem de programação desenvolvida por programadores seringueiros do [[Acre]] escravizados por alemães na guerra do Paraguai.
+
+O conceito de Bubble Programming vem de programar em seu mundinho ignorando qualquer conceito mundialmente padronizado, ultilizando-se das tecnicas milenares de [[POMM]] (Programação Orientada a Mim Mesmo).
+
+Além disso ABAP utiliza o conceito de [[POSG]] (Programação Orientada à Seu Gosto) onde você tem infinitos modos de fazer a mesma coisa, e você escolhe aquilo que achar mais legal, ou consulta o mapa astrológico pra decidir qual modo adotar, mas por qualquer caminho que você siga na próxima versão virão com um novo conceito que deixará ultrapassado aquilo que você usou.
+O ambiente de trabalho dos ABAPs é facilmente reconhecido, geralmente ficam em uma sala com janelas de vidro e uma placa na entrada avisa "Não alimente os ABAPs".
+
+== Acesso aos Editores ==
+
+O acesso aos editores Abap é feito através das denominadas transações, que fáceis de decorar com QUAISQUER 2 letras e 2 números sem nenhum tipo de relação com sua função. As transações mais usadas usam "SE" + um dezena. O conjunto "SE" de transações obedece ao critério dos cartuchos de mil jogos do atari, onde, temos 20 transações diferentes e o resto é tudo repetido com nomes diferentes.
+
+A principal diferença entre um programador comum e o abapeiro é a facilidade de tirar o seu da reta e culpar o consultor funcional. Caso isso não funcione é só procurar outra consultoria que vai pagar o dobro e te deixar fazer o triplo de merda, e esse ciclo se repete como um loop infinito.
+
+== Padrões ==
+
+'''Nomear Programas''':
+
+
+Por padrão os programas [[SAP]] customizados devem seguir os seguintes passos de nomeação:
+
+1. Digite a Letra Z
+
+2. Dois tapas com a mão no teclado
+
+3. Uma testada no centro do teclado
+
+4. Dê uma olhada em um site pornô 
+
+O que resulta em algo semelhante a "ZBC402_24_CONN". Sendo assim, muito cuidado com os erros de digitação, qualquer erro de digitação o interpretador ABAP pode chamar uma transação não prevista em seu programa.
+
+O Abap possui diversas funções-padrão para os mais variados tipos de necessidade com nomes irreconheciveis que com certeza você vai levar mais tempo pra descobrir pra que serve do que programando sua propria função.
+
+
+Exemplos:
+
+Com um típico comentário de abapeiro que ignora que o resto do mundo fala ingles:
+
+<pre>
+*"-----------------------------------------------------
+*" 
+*" Anweisung flache Struktur entsteht chucrutis 
+*" trotzdem eindeutige Feldnamen entstehen 
+*" deren flacher Darstellung die Namen der Hail Hitler
+*"
+*"-----------------------------------------------------
+
+REPORT Z_YIG_34_1945
+
+DATA      wa_carrier    LIKE LINE OF italy_conn_dead_list.
+
+TRY
+   CALL FUNCTION 'EBTE_3478_ATTACK_NORMANDIA_D_DAY90843'
+      EXPORTING
+         bullet_star = bullet_star
+   IMPORTING
+         CONNECTION_SEBRAE = connection_sebrae
+CATCH abort_mission
+    MESSAGE e345(it24) RAISING no_bullet
+ENDTRY
+</pre>
+
+
+== Documentação ==
+
+Por ser baseada na linguagem de povos antigos das Ilhas Tumbuctu, a documentação da ABAP é totalmente escrita em gaélico irlandês. Qualquer profissional que deseja se tornar um abapeiro (profissional que tenta entender de abap) de verdade deve entender também de gaélico irlandês.
+Quanto a documentação de programas, é muito comum conter apenas uma página, sendo ela em branco.
+
+== Erro. Erros? Onde? ==
+
+Abap tem um diferença fundamental se comparada a uma outra linguagem esquisita qualquer. É a ÚNICA delas em que, mesmo com erros identificados pelo compilador, você pode ativar e compilar seus programas. É um salto. No escuro.
+
+== Acessando o Banco de Dados ==
+
+Quem já tem uma simples noção de programação, não terá problemas com banco de dados. Levando em consideração que cada formulário é uma tabela, o acesso do banco de dados é direto, ou seja, escreva no meio do código mesmo qualquer coisa que lembre vagamente uma intrução [[SQL]], sempre lembrando que o Abap tem o grande diferencial do comando SELECT ser um LOOP.
+
+
+== Debugando ==
+
+Pra quem sempre quis saber o que rola nos bastidores da programação, o Debugger do Abap é o [[Nelson Rubens]] das linguagens. 
+
+Quando se manda debugar um programa, o Pointer mostra o que você pediu e principalmente o que você não pediu. Ao inserir um breakpoint, esteja pronto para viajar nas entranhas dos programas em que as principais informações são antigos bugs comentados e didáticos comentários em alemão.
+
+Durante o Debug você pode verificar os erros via a variável sy-subrc, que retorna zero caso tudo de certo. Se sy-subrc retornar algo diferente de zero, algum problema tem, dos quais podem ser:
+
+4 = você fez o select direito, agora faça como deve ser no ABAP.
+
+8 = você fez a lógica correta, agora faça como deve ser no ABAP.
+
+1001 = provavelmente o compilador não foi com sua cara.
+
+666 = seu código irá destruir o mundo.
+
+24 = Você é um usuário gaúcho.
+2411 = Você é gaúcho e gosta de um atrás do outro
+
+6924 = Você é gaúcho e é um pervertido sexual
+
+== Orientação a Objetos ==
+
+O ABAP tem sido atualizado para acompanhar os avanços tecnológicos nas linguagens de programação, uma das grandes novidades é a Orientação a Objetos ou ABAP Objects onde foi incorporado a <s>infeliz</s> possibilidade de trabalhar com Orientação a Objetos dentro da Linguagem estruturada.
+
+Exemplo de uma <s>sem noção</s> boa implementação de objeto, utilizando RIDE (Redundância Incrível De Encapsulamentos)
+
+<pre>
+CLASS lcl_event_receiver IMPLEMENTATION.
+
+
+
+  METHOD handle_data_changed.
+
+    PERFORM data_changed USING er_data_changed.
+
+  ENDMETHOD.                    "handle_data_changed
+
+
+
+  METHOD catch_doubleclick.
+
+    PERFORM f_double_click USING e_row
+
+                                 e_column
+
+                                 sender.
+
+
+
+  ENDMETHOD.                    "handle_data_changed
+
+
+
+  METHOD catch_hotspot.
+
+    PERFORM f_hotspot_click USING e_row_id
+
+                                  e_column_id
+
+                                  es_row_no.
+
+
+
+  ENDMETHOD.                    "catch_hotspot
+
+
+
+
+
+  METHOD handle_user_command.
+
+    PERFORM data_usercommand USING e_ucomm.
+
+
+
+  ENDMETHOD.                    "handle_data_changed
+
+
+
+ENDCLASS.                    "lcl_event_receiver IMPLEMENTATION
+
+</pre>
+
+{{Linguagens de Programação}}
+
+[[Categoria:Linguagens de programação]]

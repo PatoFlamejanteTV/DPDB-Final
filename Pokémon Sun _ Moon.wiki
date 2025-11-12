@@ -1,0 +1,107 @@
+{{Game}}
+{{Infobox Game
+|title     = Pokémon Sun/Moon
+|image     = Pokémon {{#switch: {{#expr: {{#time: H}} mod 2}}|0=Moon|1=Sun}}.png
+|caption   = Foto da capa do jogo
+|developer = [[Game Freak|Game Fresco]]
+|publisher = [[The Pokémon Company|Pokémon CoCo]]
+|released  = [[2016]]
+|genre     = RPG/Furry
+|platform  = [[Nintendo 3DS]]
+|rating    = -9,7
+|ages      = 5-10 anos (isto não se aplica aos [[Nerd]]s)
+}}
+
+{{Traduzir|Pokémon Sol e Lua}}
+{{Você quis dizer|Pokémon Sun Wukong}}
+{{Experimente também|Digimon World Dawn e Dusk}}
+{{C|Que legal! Agora só precisamos esperar os remakes de Diamond e Pearl!|Pokemaníaco|{{PAGENAME}}}}
+{{C|O que?! Eu agora virei uma Pokédex que fala? Tô melhor que a Dexter do Ash|Rotom|{{PAGENAME}} }}
+{{C|Eu sempre quis uma Magearna assim...|Zeca Pimenteira|{{PAGENAME}}}}
+{{C|O [[Popplio]] é ridículo! É [[bobo, chato, feio e cara-de-mamão]]!|[[Hater]] ao ver que o inicial de água é um [[Bozo|palhaço aquático]]}}
+{{C|Espero que tenha novas [[Mega Evolução|Mega Evoluções]].|Apelão|{{PAGENAME}} }}
+{{C|Foram 720 espécies, será que tem espaço pra mais?|Alguém|citação acima}}
+{{C|A forma final do [[Rowlet]] é muito foda, preciso de um desses como parceiro|Robin Hood ao se tornar fanboy do [[Decidueye]]}}
+{{C|Adorei o [[Litten]], vou escolhe-lo como meu Pokémon inicial|[[Kill la Kill|Matoi Ryuuko]]|{{PAGENAME}} }}
+{{C|Já que a região do jogo é inspirada no Havaí, partiu capturar alguns [[Stitch]]s.|Sora (Kingdom Hearts)|{{PAGENAME}} }}
+{{C|Eu prefiro o Pokémon GO.|Modinha|{{PAGENAME}} }}
+
+'''Pokémon Sun/Moon''' é um joguinho pra portátil onde tem a [[Pokémon: Geração 7|Sétima Geração]] dos [[Pokémon|miguxos do Pikachu]] que acabou entrando na onda do [[Pokémon X / Y|XY]] e saiu pra [[Nintendo 3DS|Ñ-Intendo 3DS]] onde vai ter uma caralhada de bichos pra capturar. O game (obviamente) não estará disponível em português já que aqui no [[Brasil]] os fãs antigões estão pouco se fudendo pra isso, porque jogaram todos as versões anteriores em inglês  e se mexer com a tradução dos ataques, itens, nome dos monstrinhos etc é pedir pra levar um Judgment do [[Arceus]] na cara! 
+
+= Inovações =
+[[Arquivo:Pokémons de Alola.jpg|thumb|400px|Um pássaro, um inseto e o [[Donald Trump]]. Tudo que um amador precisa capturar no inicio da bagaça.]]
+Tentando diferenciar um pouco esse jogos dos anteriores, foram feitas varias alterações. Algumas drásticas (a primeira) e outras não-impressionantes (o resto).
+
+* 81 NOVOS POKÉMONS ANUNCIADOS! Como se já não fosse o bastante as [[Alola Form|Formas de Alola]] e o [[Ash-Greninja]] como jogável.
+* Seu rival no jogo <s>é burro</s> pega o inicial que não leva vantagem sobre o seu (MILAGREEEEE!!!) 
+* Dá pra jogar com o [[Zygarde]] da forma 10% e na Forma Completa, o que antes não podia mesmo ele sendo da [[Pokémon: Geração 6|Sexta Geração]].
+* No sistema de batalha fizeram a tal da Royal Battle, onde você quatro treinadores realizam um X1.
+* Com um scanner de [[Código QR]] (que viagem...) agora dá pra registrar os monstros na Pokédex e receber os lendários de evento.
+* A região de Alola foi inspirada no Havaí, mas nem por isso veremos [[Bellossom]] dançando de hula-hula(?).. ‎ 
+* O professor do jogo é [[Moreno|mulato]], diferente que todos os anteriores eram nórdicos. 
+* Agora podemos usar os Z-Move, movimentos especiais que fazem o maior estrago numa batalha onde para ativa-los é preciso fazer poses alá [[JoJo's Bizarre Adventure]].
+* Para ninguém dá raga sem sentido. Você também poderá usar um Pokémon com [[Mega Evolução]] em seu time e outro Pokémon pra usar Z-Move no adversãrio ao maior estilo [[Apelândia]].
+
+A companhia responsável por manter Pokémon atualizado decidiu que após vários anos é a hora de fazer algumas [[Hipocrisia|verdadeiras alterações]]. Claro, a região são várias ilhas, não tem HM's e os Pokémon são o meio de transporte que te ajuda, mas o mais importante é que nessa vez NÃO TEM LIDERES DE GINÁSIO NESSA PORRA DE JOGO!!!
+Esta também foi a 3º vez que a Game Fresco parou com o clichê de criar uma outra região inspirada no Japão, já que a região de [[Alola]] foi inspirada nas ilhas [[Havaí]]. Só que embora regiões das duas gerações anteriores tenha seguido esse padrão, Alola foi a mais polêmica e no mínimo injustiçada.
+
+[[Arquivo:Pedobewear.jpg||thumb|left|190px|Cuidado com o [[Pedobear|Pedo]]Bewear! Frequentemente existem avisos de cuidado sobre eles na região.]]
+
+== Reciclagem ==
+[[Arquivo:Alola Marowak fodão.png|thumb|right|Os Marowaks de Alola são do tipo fogo e fantasma (tenha medo!).]]
+Todos nós já estávamos acostumados com certos elementos do franquia que, simplesmente nunca poderiam mudar. Só que o problema é que dessa vez a Game Fresco decidiu pisar bem no lado dos [[Genwunner]]s, no caso, criou as tais '''[[Alola Form]]'''. Digo, alguns monstrinhos da 1º Geração entraram na onda da "''Seleção Natural''" de [[Charles Darwin]] e ao migrarem para outra região foram obrigados a se adaptar ao ambiente e sofreram mutação! Por exemplo os '''[[Vulpix]]''' e '''[[Ninetales]]''' que em outras regiões eram de fogo ao migrarem pra Alola ficaram de gelo! Os '''[[Rattata]]''' e '''[[Raticate]]''' que antes eram roedores de campo agora migraram para cidades e se tornaram ratos de esgoto além de ganharem o tipo dark, '''[[Exeggutor]]''' virou um [[Surprised long neck surprise]] de tão pescoçudo e por fim '''[[Raichu]]''' virou um surfista psíquico que flutua na própria calda (já que ele já era surfista em [[Pokémon Stadium|Pokémon Stadium 1]] [[Pokémon Stadium 2|e 2]] quando você enfrentava o [[Lt. Surge]]).
+Aqui estão outras coisas que serão recicladas dos jogos antigos:
+
+* O inicial de fogo vai continuar sendo escolhido pelos [[Noob]]s, pois embora o de planta da vez seja mais popular, os noobs não sabem jogar com ele.
+* Terá uma porrada de lendários no pós-game que ficam parados esperando você jogar uma [[Master Ball]] ou gastar centenas de Ultra Balls. Enquanto mais [[2]] lendários ([[Magearna]] e [[Marshadow]]) serão de evento.
+* Você não vai capturar os Pokémon exclusivos de cada versão e só poderá obtê-los trocando com seus miguxos, mas como quase ninguém joga 3DS, você vai ter que decidir entre [[Turtonator]] e [[Drampa]].
+* Para zerar o jogo você terá que chegar em um lugar em que se luta contra [[Elite 4|quatro treinadores fodões]] e depois o Pokémestre.
+* Você terá dois rivais, um esperto (Gladion) e outro burro (Hau), sendo que o primeiro usará o Pokémon que leva vantagem sobre o seu e o outro não (igual na 5º geração).
+* <s>Vai ter um pássaro com três evoluções que você vai pegar pra por [[Fly]] e o [[Ash Ketchum|Ash]] vai pega-lo no anime.</s> (Não tem HM's no jogo e o Ash não pegou o [[Pikipek]], MILAGREEE!)
+* Uma área nova vai ser liberada depois de ganhar da liga.
+* O professor vai lhe entregar a Pokédex no começo do jogo depois de você ter feito uma mini-quest.
+* Seu personagem não vai falar.
+* Terá um um grupinho de um quarteto de Pokémon lendários que não são os fodões da capa (de novo imitando a quinta geração).
+* Segundo informações do [[Capitão Óbvio]], uma equipe do mal vai tentar dominar tudo usando pokémons venenosos, só que depois descobriremos que os verdadeiros vilões são de outra organização, sem mais [[spoiler]].
+
+== Iniciais ==
+[[Arquivo:Starters de Alola.jpg‎|center|400px|Os iniciais extremamente originais dessa geração.]]
+
+O tão famoso trio de Alola que segundo o [[Capitão Sarcasmo]], veio principalmente afim de fazer a alegria dos Genwunners e que segundo [[Capitão Óbvio]], no mínimo um desses será o Pokémon do Ash no anime. Uma análise cuidadosa mostra como esses inicias lembram os inicias da [[Pokémon: Geração 4|4º geração]]: 
+* O de grama foi pego por Ash e é bem zuado nas batalhas, assim como [[Turtwig]] (ao evoluir pra [[Torterra]] nunca mais venceu uma luta).
+* O de fogo por ser do Ash tem um passado trágico e fama de marrento nas lutas, igual ao [[Chimchar]] (só é marrento ao evoluir).
+* O de água só faz o papel de [[kawaii]] mesmo, não foi pego por Ash e sim por uma amiga de viagem dele, que nem o [[Piplup]] foi.    
+
+* '''[[Rowlet]]''' (o de [[grama]]), é um plágio descarado da coruja do [[Animal Crossing]], a Ñ-Intendo tem sérios problemas mentais por plagiar ela mesma. Enfim, Rowlet chega a ser um tanto interessante porque geral só tava gostando dele por ser bonitinho, mas quando sua forma final '''[[Decidueye]]''' apareceu, foi a primeira vez na história que os modinhas começaram a escolher mais o tipo planta do que o de fogo, somente pra tomarem uma surra depois já que zerar com o Pokémon de planta não é trabalho para [[noob]]s.
+* '''[[Litten]]''' (o de [[fogo]]),  é um gato que estranhamente não foi o mais querido dentre os três. Nem mesmo o público que pratica [[Cheiramento de Gatinhos|cheiramento de gatinhos]] conseguiu salva-lo, provavelmente porque a pele desse Pokémon é rica em óleo além de ser extremamente inflamável, se alguém quisesse cheirar um Litten só sendo um [[Tocha Humana]]. Só que o problema principal foi sua forma final o '''[[Incineroar]]''', porque os haters frescos de plantão esperavam um felino quadrúpede ([[Viadagem|Hmmm... boiolas]]) e não um Heel. 
+* '''[[Popplio]]''' (o de [[água]]), o que dizer sobre essa criatura? Ele é uma foca d'água, ou que chega a ser uma redundância já que focas são criaturas que vivem na água. É o mais odiado dos três iniciais, dês de que foi anunciado foi atacado por uma caralhada de [[hater]]s justamente por causa do seu visual alegre, bobo e o nariz de rena do [[Papai Noel]]. Só que o que salvou ele foi a sua forma final '''[[Primarina]]''' que frequentemente recebe elogios como "diva" das jogadores femininas da franquia e é homenageada por [[furry]]s no banheiro.
+
+= Fotos =
+<Gallery>
+Arquivo:Sunbox leão.jpg|{{c|Que lindo, adorei esse MetalLeomon.|Carla Perez|[[Solgaleo]]}}
+Arquivo:Digimon Sun e Moon.png|As versões beta que deveria ter saído pra DS na época.
+Arquivo:JoJo poser em Sun e Moon.png|O pirralho escolhido da vez imitando as poses de [[JoJo's Bizarre Adventure|JoJo]], um exemplo de macheza. 
+Arquivo:Rival noob de Alola.jpg|Seu rival é muito inteligente, escolheu o de planta para derrotar o de fogo.
+Arquivo:Red boss Sun & Moon.png|[[Red (Pokémon)|Red]], o protagonista supremo antes de te humilhar no pós-game.
+Arquivo:Ash Greninja crossover.png|[[Ash-Greninja]] fazendo um crossover na série de jogos, sendo que Ash nem existe no universo dos jogos.
+Arquivo:Sun e Moon da zuera.jpg|Essa é a realidade para quem não tem grana pra comprar os jogos (joga hack rom no [[Emulador]] de [[GBA]]).
+Arquivo:Screen da demo SM.jpg|Acho que alguém estava querendo roubar um ovo de dragão (se fodeu!).
+Arquivo:Kahili e o golfe.png|[[Kahili]] se preparando para jogar uma bola de golfe na sua cara.
+Arquivo:Gladion's Bizarre Adventure.jpg|[[Gladion]] imitando o [[Dio Brando]]. Só faltou fazer o [[WRYYYYYYYYYYYYYYY!]]
+Arquivo:SM Prerelease Sinister Arrow Raid 2.png|[[Decidueye]] voando no meio de tanta [[Bala perdida|Flecha perdida]].
+Arquivo:Tigrão de Alola.png|[[Incineroar]] mostrando o que é o verdadeiro [[Bonde do Tigrão]].
+Arquivo:Vaza Rato Amarelo.gif|O que você faz quando o Pokémon não vêm com os status que você quer.
+Arquivo:Wishiwashi-totem-pokemon-sun-and-moon.JPG|[[Wishiwashi]] plagiando o antagonista do episódio 7 de [[Angel Beats!]]. 
+</gallery>
+
+{{esboço}}
+{{Pokémon games}}
+
+[[Categoria:Jogos lançados em 2016]]
+[[Categoria:Jogos da Game Freak]]
+[[Categoria:Jogos da The Pokémon Company]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo 3DS]]
+[[Categoria:Jogos de RPG]]
+
+[[es:Pokémon Sol y Luna]]

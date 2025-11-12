@@ -1,0 +1,65 @@
+{{jogo}}
+{{jogo antigo}}
+{{Correr pra Caralho}}
+{{vqd|Melhor que esses jogos de corrida modernos?}}
+{{c|DAY-TO-NAAAAAAAA!!!|Cantor do tema do jogo|Daytona USA}}
+{{c|Não é maconha, mas vicia!|Pessoa que já jogou o jogo|Daytona USA}}
+{{c|Minha inspiração!|Todos os jogos de corrida antes de 1994|Daytona USA}}
+{{Infobox Game|title = {{pagename}}
+|image     = Daytona USA arcade flyer.jpg
+|caption   = [[Need for Speed]] e outros não chegam nem aos pés deste jogo
+|developer = CEEEEGAAAAAA!!!
+|publisher = [[SEGA]]
+|released  = 1994
+|genre     = Corrida
+|platform  = Todas
+|rating    = [[mais de 8 mil|8000]]
+|ages      = Livre 
+}}
+:''Favor ler o artigo ouvindo [https://www.youtube.com/watch?v=4RBjH6lQT4w isto].''
+
+[[Daytona USA]] é talvez um dos melhores jogos da [[Sega|CEEEEEEGAAAAAAA!!!]], até mais do que o [[Sonic]], no qual ficou no chinelo e ficou em uma favela até que o jogo foi cancelado porque as pessoas já preferiam as merdas que eles chamam de novos jogos de corrida. O jogo ficou tão famoso que muitos nerds lotaram os fliperamas do mundo todo e gastaram todo o seu dinheiro <s>á toa</s>. Muita gente aprendeu a dirigir só jogando esse jogo. Tem jogabilidade que até um bebê consegue zerar e também música melhor que as do Brasil.
+
+== Pistas ==
+Na versão original do jogo para arcade existem três [[circuito]]s.
+
+=== Three-Seven Speedway - Beginner (''iniciante'') ===
+* Tipo: Circuito oval
+* Número de voltas: 8 / 20 / 80 (Normal / Grand Prix / Endurance)
+* Número de carros: 40
+* Nível de dificuldade: Iniciante
+* Observação: Esta pista possui largada em movimento (o chamado ROLLING STAAAAAAAAAAART!).
+* Trilha sonora de fundo: "The King of Speed"
+
+Um circuito oval tradicional, inspirado no [[Daytona International Speedway]] e [[Pocono Raceway]], mas em um ambiente de floresta, com muitas árvores e o "Monte Sonic". Na reta oposta há uma máquina caça-níqueis que pode ser ativada usando o botão ''Start'', conseguindo 3 símbolos iguais, o jogador consegue um tempo extra. Há também curiosamente as palavras "São Paulo" e "Olhos de Amor" espalhados pelos canteiros da pista e dentro do box. Diferentemente dos restantes circuitos, este começa com o carro em andamento a alta velocidade, ao invés dos restantes, cujo carro está parado ao início.
+
+===Dinosaur Canyon - Advanced (''avançado'')===
+* Tipo: Circuito de rua
+* Número de voltas: 4 / 10 / 40
+* Número de carros: 20
+* Nível de dificuldade: Médio (''advanced'')
+* Trilha sonora de fundo: "Let's Go Away"
+
+Este circuito em terreno montanhoso com muitas mudanças de altura possui como características o túnel à meia-luz os moinhos de vento e as palavras "SEGA-AM2" no gramado da penúltima curva.
+
+===Seaside Street Galaxy - Expert (''experiente'')===
+* Tipo: Circuito de rua
+* Número de voltas: 2 / 5 / 20
+* Número de carros: 30
+* Nível de dificuldade: Difícil (''expert'')
+* Trilha sonora de fundo: "Sky High"
+
+Um dos circuitos mais difíceis entre os jogos da [[Sega-AM2]]. Tem na longa ponte a sua marca registrada, além de um ''[[Crossover (ficção)|crossover]]'' com o jogo [[Virtua Fighter]], em que num momento da pista vemos uma estátua dum de seus personagens, [[Jeffry McWild|Jeffry]].
+
+==Outras versões ==
+Esse jogo ficou tão popular, que os caras da Sega que queriam ganhar mais dindin, fizeram remakes pra Sega Saturn, PC, Dreamcast, mas todos ficaram uma merda com gráficos piores do que o [[Big Rigs]], mas mesmo assim, melhor que jogar o mesmo.
+
+{{Game Racing}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para Sega Saturn]]
+[[Categoria:Jogos para Dreamcast]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos lançados em 1994]]
+[[Categoria:Pessoas que correm pra caralho]]

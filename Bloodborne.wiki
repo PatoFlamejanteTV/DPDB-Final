@@ -1,0 +1,154 @@
+{{Game}}
+{{Infobox Game
+|title     = Sangue Nasce
+|image     = Bloodborne cover.png
+|caption   = Capa do jogo
+|developer = [[FromSoftware]]
+|publisher = [[Sony|Sony Computer Entertainment]]
+|released  = [[2015]]
+|genre     = [[RPG|Textão]]
+|rating    = 666%
+|ages      = Nenhuma
+|platform  = [[PlayStation 4|PolyStation 4]]
+}}
+
+{{c|Ah, nesse aqui eu vou conseguir me dar bem!|Mancebo ingênuo que morreu pela primeira de muitas vezes momentos depois.}}
+{{c|Cadê meu escudo? NÃÃÃÃÃÃÃÃOOOOO!!!|Experiente jogador da Série Souls sabendo o que o aguardava.}}
+{{c|Olha, um escudo! É escroto mais vai servir|Experiente jogador da Série Souls ao se deparar com um pedaço podre de madeira.}}
+{{c|NÃÃÃÃÃÃÃÃOOOOO!!!|O mesmo jogador depois de usar o escudo.}}
+
+'''Bloodborne''', conhecido também pelo carinhoso nome de '''Desgraça do Meu Ódio''', é o primeiro jogo da Série Souls que não tem Souls no nome, o que confundiria todas as pessoas do mundo, porém fica claro com quem você tá mexendo quando o [[Hidetaka Miyazaki|Miyazaki]] já te fode na primeira oportunidade com um mob de vileiros da KKK. O jogo foi desenvolvido com exclusividade para <s>PC Master Race 4k</s> [[Playstation 4|Dinavision de CD]], já que os engravatados da Sony deram uma de [[Alborghetti| caras burros]] e não viram o potencial de Dark Souls e deixou a From Software abrir as pernas como uma ginasta na olimpiada pra qualquer um que comprassse um sanduíche de presunto pra eles. Menos a [[Nintendo]], que é mão de vaca e nem uma [[bala juquinha]] quis comprar pra levar o jogo pro seu console também.
+
+==Enredo==
+Não, você não vai entender o enredo de Bloodborne, mesmo com todas as lore runs existentes e inexistentes, porque é muito difícil de entender e você é muito burro pra enteder, então vamos poupar o tempo de todos nós e dizer que você não vai entender aqui, então o que vai ficar no lugar é a sinopse  [[As Branquelas| das Branquelas]] que já tá de bom tamanho:
+
+"Kevin e Marcus Copeland, dois agentes do FBI muito atrapalhados, dão-se mal em uma investigação e são ameaçados de perder os seus empregos. Quando um plano para sequestrar as mimadas irmãs socialites Brittany e Tiffany Wilson (paródia, em particular das irmãs Hilton) foi descoberto, seus rivais, Vincent Gomez e Jake Harper, acabam por ficar com o caso, enquanto Kevin e Marcus ficam com a humilhante missão de escoltar as duas socialites do aeroporto para o hotel.
+
+Enquanto são escoltadas, as duas mulheres ferem-se - lábio inchado e corte no nariz - após o seu cachorro causar uma confusão no trânsito e baterem com o carro. Elas recusam-se logo a ir à festa com os ferimentos, então Marcus e Kevin veem-se obrigados a se disfarçar das irmãs socialites para não descobrirem o ocorrido para eles não perderem os seus empregos. Enquanto estão disfarçados eles tentam solucionar o caso eles mesmos sem os recursos do FBI."
+
+Dá até pra perceber que tem uma certa similaridade entre os plots, o que faz com que tenha um pouco de sentido ter colocado essa sinopse aleatória mais em cima... [[Ou Não| Ou não]]
+===The Old Hunters===
+Aqui não é o [[ENEM]] <s>o que é uma pena, porque não vou ver nego caindo e esperniando</s>, mas pra propósito de manter o pique da parada, pra exemplificar a complexidade do plot do [[DLC]] de Sanguenasce, aqui vai uma receita de um bolo de banana que a [[sua mãe]] faz quando eu vou na casa dela, que é ó... <s>uma bosta</s> uma delícia.
+
+====Igredientes====
+Massa:
+*3 ovos
+*2 xícaras de açúcar
+*1 xícara de leite
+*1/2 xícara de óleo
+*2 xícaras de farinha de trigo
+*1 colher (sopa) de fermento químico
+*7 bananas
+Cobertura:
+*3/4 xícara de açúcar
+*1/2 xícara de água quente
+====Modo de Preparo====
+Cobertura:
+#Em uma panela, adicione o açúcar e misture até derreter
+#Despeje a água quente e mexa até dissolver o açúcar
+#Deixe engrossar até chegar ao ponto de calda e reserve
+Massa:
+#Bata no liquidificador os ovos, o açúcar, o óleo e o leite
+#Acrescente a farinha de trigo aos poucos e continue batendo até obter uma massa lisa e homogênea
+#Adicione por último o fermento e bata na velocidade mínima do liquidificador
+#Unte uma forma média com margarina e farinha
+#Despeje o caramelo e as bananas cortadas no comprimento
+#Leve para assar em forno médio (180º C), preaquecido, por cerca de 30 minutos
+
+E assim você tem o seu bolo de banana e o seu DLC capenga que ninguém pediu.
+==Jogabilidade==
+Sanguenasce não é o tipo de jogo que você zera em uma sentada pra esvaziar essa sua pança de balão com água. É um jogo que vai levar todas as horas possíveis. Sim, essa é a definição, porque uma vez que você começar a jogar nunca mais parará e ficará recomeçando o jogo infinitas vezes, mesmo depois de ter zerados com todas as builds possíveis. Doutores congoleses fizeram uma pesquisa que diz que isso se dá ao fato do jogador ficar preso no loop mental de mortes e uma vez pego pela Síndrome de Miyazaki nunca mais você poderá jogar outro jogo que se não um jogo da Série Souls, e de preferência aquele que comeu a sua alma como oferenda para selar esse pacto.
+==Trilha Sonora==
+{{Lista de faixas
+| fechado          = não
+| topo             = ''Sanguenasce Original Somtrilha''
+| coluna_extra     = Cantor/Banda
+| título1          = Baile de Favela
+| extra1           = MC João
+| duração1         = 1:57
+| título2          = Never Gonna Give you Up
+| extra2           = Rick Astley
+| duração2         = 1:00:00
+| título3          = To Com Fome Quero Leite
+| extra3           = Larika dos Muleke
+| duração3         = 4:20
+| título4          = Friday
+| extra4           = Rebecca Black
+| duração4         = 6:66
+| título5          = Sonzinho Maneiro
+| extra5           = Epic Sax Guy
+| duração5         = 10:00:00
+| título6          = Look at My Horse
+| extra6           = Jonti Picking
+| duração6         = 1:00:00
+| título7          = Dandstorm
+| extra7           = Sarude
+| duração7         = 2000:-
+| título8          = Sou Foda
+| extra8           = Avassaladores
+| duração8         = Ding:Din
+| título9          = Bed Intruder
+| extra9           = Antoine Dodson
+| duração9         = 1:00:00
+| título10         = Nissim Ourfali
+| extra10           = Bar Mitzvah
+| duração10        = 4:20
+| duração_total    = 69:24
+}}
+
+Como você pode ver, a trilha sonora de Sanguenasce é cheio de clássicos [[gótica suave|góticos suaves]] misturados com a modernidade, o que dá um tom unico as lutas de chefe e quando você está só observando o cenário e de lugar nenhum começa a tocar um [[Sou foda|ding din]].
+==NPC's marcantes==
+Não é como se pudesse falar [[Seu Madruga| NOOOOOSSA! Mas que GRAAANDES NPC's tem esse jogo, não é mesmo?]] Mas dá pra quebrar um galho, um mais outros menos. Uns quebram mais coisas do que um galho e se fodem bonito durante todo o jogo.
+{|{{tabelabonita}}
+|-
+||'''Perfil'''||'''O que é'''||'''Descrição'''
+|-
+||[[Arquivo:Bloodborne-blood minister.png|60px]]||'''Blood Minister'''||Esse é o cara que te ferra logo no começo do jogo e mistura teu sangue com o sangue das pessoas da cidade pra qual você foi. É meio esquisito, já que o sangue te dá [[AIDS|poderes]]. Esses poderes fazem você suportar a [[bad trip|noite da caçada]].
+|-
+||[[Arquivo:bloodborne-iosefka.jpg|60px]]||'''Iosefka'''||A princípio, Iosefka é só uma paranóia loucona que não quer deixar você chegar perto dos pacientes dela, porque o teu sangue vai [[AIDS|contaminar]] eles. Depois de uma passagem de tempo ela começa a falar que tá de boa mandar a negada que tiver no meio da rua pra lá, pra trocar uma ideia marota com ela. <s>E quem sabe se transformar num ET cogumelo azul de lambuja</s>
+|-
+||[[Arquivo:bloodborne-gilbert.jpg|60px]]||'''Gilbert'''||Esse tuberculoso é quem te dá umas dicas de pra onde ir no começo do jogo. Tem pessoas que dizem que não precisa nem de Google Maps quando você vai pra Yharnam, é só falar com menino Gilbert que ele te fala até onde tá rolando o [[Skol Beats]] na região. Você pode conversar com ele conforme você vai avançando no jogo, mas cada vez que você vai desenvolver um xaveco com o garganta podre ele tá mais fodido que a vez anterior até que eventualmente ele vai pro mundo de [[My Little Pony]] e nunca mais responde <s>suas ligações</s> os seus pedidos por atenção no beco.
+|-
+||[[Arquivo:bloodborne-eileen.jpg|60px]]||'''Eileen the Crow'''||Essa é uma loucona alarmista do fim do mundo que fala que já tá tdo mundo fodido e que você pode sentar a peixeira em quem aparecer na sua frente porque, como os [[ruivo|ruivos]], ninguém ali tem mais alma e você pode fazer a feira sdo sangue feliz e contente com a aprovação dela.
+|-
+||[[Arquivo:bloodborne-dweller.png|60px]]||'''Chapel Dweeler'''||Esse é o estranhão que pede pra você levar uma caboclada lá pra trocar uma ideia com ele, mesmo que ele tenha essa cara de vômito de gonorréia, se demonstrando um cara deveras simpático e acolhedor. O jogo inverte quando a capela aonde ele está enche com a rapaziada que você leva pra lá, mas ninguém quer conversar com ele. Até porque só tem gente babaca, uma freira, que deve achar ele escrtoão e a senhora meretriz da vida fácil que fala com qualquer um.
+|-
+||[[Arquivo:bloodborne-alfred.png|60px]]||'''Alfred, Hunter of Vilebloods'''||Esse é o for dummies que nunca teve em nenhum jogo na Série Souls escarrado como um paladino da justiça. Apesar de ser um caçador também, ele não é um caçador da oficina que nem o jogador, mas um da igreja da cura, que foi quem inventou esse negócio de se curar com sangue dos cidadão.
+|-
+||[[Arquivo:bloodborne-gehrman.jpg|60px]]||'''Old Hunter Gehrman'''||Esse é o tiozinho da cadeira de rodas que te recepciona quando você chega no sonho do caçador depois de ter sido satisfatoriamente estuprado por um lobisomem, que não pôs nem vasilina pra te ajudar, e te mandou pra onde vão todos aqueles caçadores que se fodem pela primeira vez. Ele não vai te fazer nada, só trocar umas ideias contigo e explicar umas paradas tranquilas.
+|-
+||[[Arquivo:bloodborne-doll.png|60px]]||'''Doll'''||Como se já não estivesse implícito por toda a situação, Gehrman deixa claro que a Doll é sua boneca inflável, e ainda diz pra você usar ela se assim você quiser. Na minha concepção esse cara é um porco porque escova de dentes e boneca inflável não se divide. Mas como pixel não tem bactéria, que se foda também. A Doll tá ali pra subir você de nível e ser sua [[waifu]] da vez.
+
+|}
+==Bosses apelões==
+
+Todos os bosses de Sanguenasce são apelões, inclusive uns que ficam presos dentro de taças encrustadas de besteiras, que se acham o [[Santo Graal]] das taças loucas e ornamentadas, e você pode nunca saber da existência. Por outro lado, se você resolver fazer as masmorras e cruzar com qualquer um deles, pode aumentar sua planilha de morte de certo, porque como tudo da Série Souls você não vai ganhar de primeira... Não, você não vai! Mesmo quando você mata o boss de primeira você perde, porque você não tem o direito de bugar o jogo dessa forma e deve perder como um bom sofredor masoquista que você é.
+
+{|{{tabelabonita}}
+|-
+||'''Perfil'''||'''O que é'''||'''Descrição'''
+|-
+||[[Arquivo:bloodborne-gascoigne.jpg|60px]]||'''Father Gascoine'''||O Padre é um feladamãe que matou a própria mulher enquanto estava se transformando em uma das bestas feras do jogo. Se fudeu, a sua mulher se fudeu, a sua filha se fodeu. Todo mundo se fodeu. E isso porque é o vilão, imagina você que é só o jogador. Tem um truquezinho de gente sacana e covarde pra derrotar o padre que é usar uma caixinha de musica que a filha dele entrega pro jogador e assim você come o cu dele com farinha. Sem a caixinha é você que se lasca. 
+|-
+||[[Arquivo:bloodborne-vicar.jpg|60px]]||'''Vicar Amelia'''||Conhecida como A Chefe Mais Bunduda Desse Meu Brazil, a Vicar é um bichão escroto que você derrota só dando umas cavucada na dobra do joelho e derrubar ela com um rola até ela morrer. Vicar é uma chefona que tem um easter egg, daqueles facílimos de achar, na sala dela que faz o tempo do jogo virar e ficar de noite, na noite da caça <s>ao toelho</s>.
+|-
+||[[Arquivo:bloodborne-shadowofyharman.jpg|60px]]||'''Shadow of Yharnam'''|| 3 cuzões que manjam das pirotecnia e do adestramento de cobras, mas na real mesmo e so spamar tiro neles e rezar pra acertar os "parrys".
+|-
+||[[Arquivo:bloodborne-rom.jpg|60px]]||'''Rom, the Vacuous Spider'''||Conhecido como A trombadinha que só briga com o bonde junto, Rom é uma aranha prostituta que quando perde metade do sangue arremessa bolas de esperma azul podre no jogador, mas pode ser estuprada facilmente se 3 nego juntar o cacete nela depois de ter cacetado os 58 machos que ela chama. 
+|-
+||[[Arquivo:bloodborne-onereborn.png|60px]]||'''The One Reborn'''||- basicamente esse Boss é um monte de pessoas numa suruba a vários dias uma das coisas que prova isso é que um dos chamados ataques desse Boss é cagar um monte de diarréia e vômito no chão que por causa da utilização de drogas e das hemorróidas em várias partes do seu corpo acaba quebrando suas armas e armaduras com o objetivo que você se junte a essas pessoas nessa suruba infernal.
+|-
+||[[Arquivo:bloodborne-micolash.jpg|60px]]||'''Micolash, Host of the Nightmare'''||- Um maldito Boss criado simplesmente pra encher linguiça pois ele não é nem um caçador e nem um Boss tá mais pra um cracudo que fica se teleportando e levantando umas marionetes anoréxicas pra te encher o saco enquanto ele está correndo pelo mapa que nem retardado.
+|-
+||[[Arquivo:bloodborne-mergo.jpg|60px]]||'''Mergo's Wet Nurse'''||- um amontoado de roupa que foi criado por um, bebê que fica te assustando com gemidos aleatórios, o boss não é nem um pouco difícil ela só gira, peida te deixando sego e se multiplica( enquanto você esta sego), mas na verdade o boss não é ela é o bebê que morre quando você a mata( bem saudavel)
+|}
+
+{{Game RPG}}
+
+[[Categoria:Jogos soulslike]]
+[[Categoria:Jogos lançados em 2015]]
+[[Categoria:Jogos da FromSoftware]]
+[[Categoria:Jogos da Sony Computer Entertainment]]
+[[Categoria:Jogos para PlayStation 4]]
+
+[[it:Bloodborne]]

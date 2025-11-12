@@ -1,0 +1,139 @@
+[[Arquivo:Atari-2600-heading.jpg|thumb|Resumo da segunda geração.]]
+{{vqd|Videogames de 4 bits}}
+A '''Segunda Geração de Consoles''' é a segunda onda de consoles feitos para simular uma misera diversão pra quem está jogando. Ela corresponde a partir do bloqueio internacional de criatividade em [[1977]] até um [[ano]] antes da falência de meia duzia de empresas responsáveis por fazerem jogos em [[1982]]. Tudo começou com o Fairchild Channel F, que foi baseado na [[CPU]] de um computador e resultou no lançamento precoce dois meses antes da geração iniciar, mas por ter uma maior potencia diferente das bugigangas da primeira geração, o Channel F foi considerado o primeiro da segunda geração, só porque sim.
+
+[[Arquivo:Pac-man.jpg|thumb|200px|[[Pac-Man]], o jogo da época, depois de [[Space invaders]].]]
+É nessa geração que entra a [[Atari]] com seu primeiro console de fato, o [[Atari 2600]], a cara da segunda geração de consoles, não foi atoa que vendeu mais do que [[água]], além de resultar mais grana do que os [[fliperama]]s da esquina do seu zé, enfraquecendo a demanda dos pivetinhos de fliperama na próxima geração.
+
+[[Arquivo:Assoprandoocartucho.jpg|thumb|250px|left|Técnica milenar de funcionamento de um cartucho.]]
+Com a criação dos [[cartucho]]s, agora já não era mais preciso comprar [[mais de 8 mil]] consoles para jogar mais de 8 mil jogos. A jogabilidade também se expande em pixeis menores e mais movíveis, [[Space invaders]] e [[Pac-Man]] nascem nessa geração para encher linguiça e disputarem qual é o melhor jogo de todos os tempos, sendo que os dois são uns [[puxa-saco]]s. Já nos arcades nascem [[Donkey Kong]] e [[Mario]] trazendo o estilo de jogo mais [[clichê]] da industria de games, o gênero [[plataforma]].
+
+Segundo [[alguém]], essa época foi a era de ouro dos fliperamas, na qual influenciaram para ports de jogos de arcade nos consoles de mesa e nos mais novos portáteis.
+
+==Consoles de Mesa==
+
+*'''Fairchild Channel F'''
+introduzido em [[1976]], arrendondado para [[1977]], foi um [[console]] do [[futuro]] feito pela Fairchild Semiconductor. Seu [[hardware]] foi baseado em um computador na qual rodavam incrivelmente 8 [[cor]]es e vinha com o [[jogo da velha]] de graça. Foi também primeiro console a ser compatível com cartuchos, chamados antigamente e originalmente de Videocards. Em toda sua vida útil de 7 anos, foram lançados 27 jogos [[sarcasmo|super divertidos]], como [[pong]], [[tênis]], [[labirinto|labirinto do exorcista]], [[pac-man]] e muito mais.
+
+*'''Atari 2600 e 5200'''
+[[Arquivo:Xman atari.jpg|thumb|Um jogo do Atari 2600.]]
+{{principal|[[Atari 2600]]}} {{Principal|[[Atari 5200]]}}
+O [[Atari 2600]] obviamente foi lançado em 2600 pela [[Atari]] e era chamado de console da moda, devido o sua carcaça de [[madeira]] entalhada, o que deixava ele com a [[eu sou rica|cara da riqueza]]. A Atari era uma [[máfia]] dedicada a comprar jogos lançados para arcade, logo a exclusividade não ficava apenas para os fliperamas, mas o Atari 2600 até o fim de sua produção recebeu aproximadamente 99,97% dos jogos já lançados para arcades, assim era mais fácil jogar na sala de casa do que ter que sair para ter que esperar numa fila para jogar.
+
+Consequentemente com o sucesso do Atari 2600, a gananciosa Atari em [[1982]] lança o [[Atari 5200]] para competir com o console-telefone [[Intellivision]]. Não demorou muito para o console se tornar mais um videogame fracassado e abandonado pela própria fabricante.
+
+[[Arquivo:Space Invaders.png|thumb|[[Space invaders]] fez tanto sucesso que está disponível em todos esses consoles, além de [[calculadora]]s e [[fax]].]]
+*'''Bally Astrocade'''
+Produzido pela Bally Technologies, foi um console meia-boca desconhecido pela maioria dos games, ou por todos eles. Foi lançado em 1977 por correspondência, foi apenas no ano seguinte que o console chegou em lojas de informáticas e em Lan-houses, mas pelo nome de Bally Professional Arcade, só pra dar mais credibilidade. A Bally vendo a mesda que tinha criado sem dar grana nenhuma aos caras, eles resolveram dar os direitos do encosto para a Astrovision em 1981, e novamente o console mudou de nome, agora para Astrocade.Se não fosse o crash de 1983, o console poderia estar em produção até hoje de tão esquecido que ele é.
+
+*'''Magnavox Odyssey²'''
+A Magnavox, vendo que o meio de videogames era muito faturável, e o seu console Magnavox Odyssey sendo até um sucesso no cu do mundo, ela resolveu lançar o Magnavox Odyssey 2, um Atari 2600 com uma carcaça de teclado de computador. A única novidade nesse console era que ele teve um chip capaz de tirar as vozes do demônio que tinham no fundo da trilha sonona do jogo, ou barulhos de tiro.
+
+*'''Intellivision'''
+Lançado em 1980, a Mattel resolveu testar os diversos mercados de laser e diversão, e no final criou o telefone-console. O Intellivision não é somente um console onde se pode jogar o jogo do ET, mas também serve como réplica de telefone ou controle de TV, muito usado em filmes e series. Sua capacidade era monstruosa em comparação com o resto da segunda geração, pois ele fornecia vozes humanas e música. Ele oficialmente ganha o premio de console mais bizarro de todos.
+
+*'''Vectrex'''
+Lançado em 1982, ele foi o último console a ser lançado nessa geração e foi um grande de um fracasso, mas tão grande que até a empresa que o fez faliu nessa cagada toda. Ele vinha com uma tela própria e foram lançados apenas 18 jogos, todos já lançados para o Atari 2600 e 5200.
+
+==Comparação==
+
+{| class="wikitable"
+|-
+! Nome || [[Fairchild Channel F]] || [[Atari 2600]] || [[Bally Astrocade]] || [[Magnavox Odyssey²]] || [[Intellivision]]
+|-
+! Fabricante 
+| <center>Fairchild Semiconductor</center> || <center>Atari</center> || <center>Bally Technologies</center> || <center>Magnavox</center> || <center>Mattel</center>
+|-
+! Imagem 
+| [[Arquivo:Máquina de escrever.jpg|110px|center]] || [[Arquivo:Atari2.jpeg|110px|center]] || [[Arquivo:PenseBem.jpg|110px|center]] || [[Arquivo:Teclado musical.jpg|110px|center]] || [[Arquivo:Intellivision.jpg|110px|center]]
+|- 
+! Preço de Lançamento
+| 169,69 [[dolar|dolls]] || 199,99 [[dolar|dolls]] || 299,99 [[dolar|dolls]] || '''[[EUA]]''': 201,01 [[dolar|dolls]] '''[[japão|JP]]''': 49.999 [[yen]]s || 299,99 [[dolar|dolls]]
+|-
+! Vida
+| [[1976]]-[[1983]] || [[1977]]-[[1992]] || [[1977]]-[[1983]] || [[1978]]-[[1984]] || [[1980]]-[[1990]]
+|-
+! Maior Best-Seller
+| Pimball Challenge || [[Pac-Man]], 7 milhões || - || - || Las Vegas Poker & Blackjack, 1,95 milhões
+|-
+! Retro-compatibilidade
+| - || - || - || não || Atari 2600
+|-
+! Acessórios
+| - || 
+*Controle de volante 
+*Teclado de números 
+*Jogo do cérebro(?) 
+*Chip de expansão 
+*Armazenamento de jogo 
+|| - || 
+*Processador de voz
+*Módulo de xadrez 
+|| 
+*Intellivoice
+*Teclado sintetizador de música
+|-
+! Vendas Totais
+| 250 mil || 30 milhões|| - || 2 milhões || 3 milhões
+|}
+
+{| class="wikitable"
+|-
+! Nome || [[Emerson Arcadia 2001]] || [[ColecoVision]] || [[Atari 5200]] || [[Vectrex]]
+|-
+! Fabricante 
+| <center>Emerson Radio Corporation</center> || <center>Coleco</center> || <center>Atari</center> || <center>General Consumer Electric and Milton Bradley</center>
+|-
+! Imagem 
+| [[Arquivo:FL - O Prazer Que Só Os Antigos Telefones Podem Oferecer.jpg|150px|center]] || [[Arquivo:Colecovision o console.jpg|150px|center]] || [[Arquivo:Atari 5200 Cartridges.jpg|150px|center]] || [[Arquivo:Televisao velha.jpg|100px|center]]
+|- 
+! Preço de Lançamento
+| 200 [[dolar|doll]] || 175,75 [[dolar|dolls]] || 270 [[dolar|dolls]] || 199,99 [[dolar|dolls]]
+|-
+! Vida
+| [[1982]]-[[1984]] || [[1982]]-[[1985]] || [[1982]]-[[1984]] || [[1982]]-[[1984]]
+|-
+! Best-Sellers
+| - || [[Donkey Kong]], 2 milhões || - || -
+|-
+! Retrocompatibilidade
+| - || Atari 2600 com expansão #1|| Atari 2600 com adaptador || -
+|-
+! Acessórios
+| - ||
+*Expansão #1
+*Expansão #2
+*Expansão #3
+*Controle meia-boca
+*Super controlão 
+||
+*Adaptador de Atari 2600
+||
+*Caneta que brilha
+*Óculos 3D
+|-
+! Vendas Totais
+| - || 2 milhões || 1 milhão || -
+|}
+
+==Consoles Portáteis==
+Acredite ou não, os consoles portáteis nasceram nessa geração, a maioria usava a tecnologia da foto 3x4 e todos tinham o mesmo tamanho de uma calculadora. O primeiro portátil foi o Microvision provido de uma macumba feita pela Milton Bradley para compactar o máximo possível as peças de um console normal, para um nini consoles. Mesmo assim quem foi considerado o pai dos consoles portáteis foi o [[Game & Watch]] que vendeu mais do que o Atari 2600 e até mesmo mais do que o [[Nintendinho]], ganhador da 3 geração de consoles.
+
+===Galeria===
+<center>
+<gallery>
+Arquivo:Milton-Bradley-Microvision-Handheld-FL.jpg|Microvision [[1979]]-[[1981]]
+Arquivo:5160248df569303b083fd8cd0091c317.jpg|<s>Nintendo DS</s> [[Game & Watch]] [[1980]]-[[1991]]
+Arquivo:Dj-console-top-lg.jpg|Entex Select-A-Game [[1982]]
+Arquivo:MicroVision.jpg|Entex Adventure Vision [[1982]]-[[1983]]
+Arquivo:Notebookantigoo.jpeg|Super Micro [[1984]]
+Arquivo:Epoch-Game-Pocket-Computer-FL.jpg|Epoch Game Pocket Computer [[1984]]
+</gallery>
+</center>
+
+== Ver também ==
+* [[Primeira Geração de Consoles]]
+* [[Terceira Geração de Consoles]]
+
+{{Consoles}}
+[[Categoria:Video games]]

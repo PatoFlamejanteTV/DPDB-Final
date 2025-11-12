@@ -1,0 +1,52 @@
+{{Game}}
+
+{{Infobox Série Game
+|title         = Xamira
+|image_logo    = Shenmue logo.jpg
+|caption       = Logotipo traduzido literalmente
+|genre         = Simulador de vida.
+|developer     = [[Sega]]
+|publisher     = [[Sega]]
+|origin        = [[Dreamcast]]
+|first_release = [[Shenmue (jogo)|Shenmue 1]] (1999)
+|last_release  = [[Shenmue III]] (2019)
+}}
+
+{{C|Eu vou te vingar, papai... Assim que eu finalizar minha coleção de bonequinhos|Ryo Hazuki|enredo idiota dos jogos Shenmue}}
+
+'''Shenmue''' é uma série de jogos fracassada que ninguém conhece, mas que é tratada como Deus pelos 45 fãs frustrados que foram os únicos compradores das 45 unidades mundialmente vendidas do console [[Dreamcast]]. O jogo atingiu o seu relativo sucesso, primeiramente por ser um dos pouquíssimos jogos existentes para Dreamcast, e também por sua jogabilidade inovadora onde acontece porra nenhuma e por ser o primeiro jogo da história que cunhou um velho jargão dos gamers "Esse jogo tem muito bugs, mas é legal, olha o tamanho dele!". A partir de então a indústria dos videogames passou a copiar Shenmue, oferecendo jogos extremamente bugados, mas em mundos enormes, de modo que os gamers sempre relevassem excesso de bugs.
+
+== Desenvolvimento ==
+
+[[Yu Suzuki]] é o responsável por esta tragédia de jogos. Em 1999 a Sega pediu que ele criasse o [[Virtua Fighter|Virtua Fighter 15]], mas ele recusou a proposta por considerar sua criação anterior um verdadeiro fracasso. Ele decidiu então criar um novo jogo do zero, que fosse extremamente chato mas num mundo aberto rico e cheio de bonequinhos para colecionar. A ideia inicial era de criar 16 capítulos, mas Yu Suzuki esqueceu que seu produto precisa primeiro ter sucesso comercial para conseguir criar continuações, então após o grande fiasco de vendas dos primeiros jogos, precisou esperar uns 20 anos para o título tornar-se algo "retrô" e não totalmente reprovável/deplorável para só então lançar seu terceiro jogo como se nada de ruim tivesse criado há muito tempo atrás, e se alguém criticar, ele pode dar apenas a desculpa de que em 1999 havia muitas limitações de hardware e etc.
+
+Esta série de jogos é característica por demonstrar mais da cultura japonesa, com muitas coisas japonesas retardadas, como um protagonista assexuado que só sabe dar gelo na gostosinha da Nozomi Harasaki. Além disso, todo norte-americano é tratado como bêbados e drogados.
+
+O primeiro Shenmue tornou-se então o jogo mais superfaturado da história em sua época em 1999, sendo posteriormente o pior custo-benefício da história dos vídeogames devido ao seu fracasso.
+
+O resultado foram jogos de até 3 CDs só de diálogos extremamente imbecis, sem graça. O fracasso do jogo ajudou a falir o Dreamcast, visto que ninguém se importava com um jogo onde você só subia e descia ladeiras esbarrando em gatos.
+
+== Jogabilidade ==
+
+A série Shenmue trouxe muitas inovações para o mundo dos games, como a ideia de um [[mundo aberto]] repleto de ladeiras, gatos e bugs espalhados por todas esquinas.
+
+O objetivo nunca é claro, mas provavelmente é comportar-se como um adolescente de 17 anos, precisando chegar em casa antes das 11 da noite e passar os dias economizando mesada para comprar lanches, bonequinhos e jogar no fliperama.
+
+Outras inovações são as possibilidades de interagir com uma ampla gama de NPCs inúteis mas que tem nomes, rotinas e histórias.
+
+Outra invenção foi a do [[quick time event]], que fora criado por preguiça de desenvolver alguma jogabilidade de combate ou movimentação, uma baianice que depois foi amplamente copiada por God of War e similares.
+
+As inovações não param, Shenmue também desenvolveu um gameplay com relógio onde o jogador não tem como pular horas, então sempre que aparece uma missão para o dia seguinte, o jogador é forçado a enrolar jogando os inúmeros minigames tediosos desenvolvidos pelo [[boça]].
+
+== Jogos ==
+
+* '''[[Shenmue (jogo)|Shenmue 1]]''' - Jogo que revolucionou o mundo dos games por ser o único game da história que faliu um console inteiro, o Dreamcast, por ter exigido muito orçamento e devolvido tão pouco.
+* '''[[Shenmue II]]''' - Como na época ainda não havia a indústria sugadora de dinheiro (DLC, em inglês), lançaram esta continuação que ninguém conheceu.
+* '''[[Shenmue III]]''' - Após esperar 15 anos para o suposto lançamento de [[Shenmue III]], Yu Suzuki já começou a falar de um Shenmue 4 esquecendo-se novamente que seu terceiro jogo deve primeiro ser bom.
+
+{{Shenmue}}
+{{Ação-aventura}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos da Microsoft Game Studios]]
+[[Categoria:Jogos da Sony Computer Entertainment]]

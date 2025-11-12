@@ -1,0 +1,737 @@
+{{computeiro}}
+
+{{ didyoumean|[[PQP]] }}
+{{ didyoumean|[[POG]] HP }}
+{{ didyoumean|[[thereifixedit]] HP }}
+{{C| <? die(PHP); ?> |PG|PHP}}
+{{C| define('PHP', 'PHP'); |Nerd|o comentário acima.}}
+{{C|Uma linguagem que implementa o "X IGUAL a Y", porém "X é MAIS-IGUAL a Z !!!"  (?) |PG|PHP}}
+{{C|'''PHP''' - Padrão Homossexual de Programação|Clodovil|PHP}}
+{{C|Hãn? Oque o Echo faz no PHP mesmo?|POGramador|PHP}}
+{{C|echo — Exibe uma ou mais strings  |M4nu t3nçã0|PHP}}
+{{C|Em PHP, algumas partes não da para fazer orientado a objeto, por isso é necessário "desorientar o objeto".|Fuinha|PHP}}
+{{C|PHP é facil. Se eu aprendi, você também aprenderá.|Fuinha|PHP}}
+{{C|PHP foi feito para reduzir o salário dos programadores.|Tio Patinhas ou patrão miserável|PHP}}
+{{C|Vá pra puta que o pariu!|Dercy Gonçalves|PHP}}
+{{C|Prefiro o .NET.|[[Microsoft Certified Professional Developer|MCPD]]|PHP}}
+{{C|O cão foi quem colocou pá nois programá.|Jeremias|PHP}}
+{{C|Sou EU que faço.|Daltony|PHP}}
+{{C|Sou EU que faço, TUDO MESMO! Eu mesmo sou quem implementa o Struts, o JSF, o Hibernate, o EJB, etc. Tudo do jeito que eu quiser, e é óbvio que eu faço melhor do que a Sun, do que a Apache, etc... |PG|PHP}}
+{{C|QUIZ Filosófico: qual a altura máxima de um prédio constuído sem colunas ou outros 'Patterns' de engenharia? |PG|PHP}}
+{{C|O Bom de PHP é que você pode contratar o seu sobrinho pra terminar qualquer projeto.|Pessoa sensata sobre o PHP}}
+{{C|Eu detesto tipagem!|Chuck Norris|PHP}}
+{{C|É ruim. Não tem: tipagem. Na versão 4, você usa variáveis não declaradas e tem POO muito incompleta, alias, nem tem. Ah! tem uma sintaxe muito feia. Use ASP.net ou JSP|Sombra|PHP}}
+{{C|PHP!? AH já usei uma vez no banheiro, Personal Hygienical Paper |Programador Java|PHP}}
+{{C|Na União Soviética, o PHP ''echo'' você!|Reversal Russa|PHP}}
+{{C|Não vemos PHP em sites de bancos e cartões de crédito por interesse dos grandes grupos econômicos no uso de .Net e Java|Típica desculpa furada de programador PHP ao ser questionado sobre o uso da linguagem em portais corporativos|PHP}}
+{{C|Funcione, em nome do Senhor.!|Pastor da Igreja Universal|PHP}}
+{{C|Meu cavalo usa arrayO tbm|Designer Sitiante|PHP}}
+{{C|Papel Higiênico de Pobre|Miguel Falabella sobre PHP}}
+{{C|Programa bom é programa rodando|Paulo Maluf sobre PHP}}
+{{C|Posso Hospedar Putas?|Puteiro da Marlene sobre PHP}}
+
+[[Arquivo:php.jpg|thumb|Propaganda subliminar do PHP, deixando claro a intenção desta linguagem]]
+PHP ('''P'''qp,'''H'''oje estou com '''P'''requiça) é uma das sete linguagens de programação consideradas pela [[Igreja Católica]] como satânicas (as outras são [[C++]], [[VB]], [[Delphi]], [[ASP]], [[ASP.NET]], [[Tabelinha]] e [[Catalão]]).
+
+Acredita-se que foi criada com o único propósito de desvirtuar inocentes programadores e levá-los ao caminho do mal.
+O sujeito que se atreve a programar em PHP começa a perder gradativamente o conhecimento em outras linguagens, e passa a usar variáveis (ou urináveis) sem as declarar em qualquer linguagem.
+
+PHP também é uma linguagem com uma incrível lista de funcionalidades que, talvez, um dia, serão implementadas. A mais notória destas é o suporte interno à novíssima tecnologia Unicode, de apenas 25 anos de idade, implementada pela equipe de desenvolvimento do PHP inteiramente na linguagem [[Sua Mãe]], e que estará no PHP6, com data de lançamento marcada para o dia do despertar de [[Cthulhu]]. Php também pode ser comparado a china.
+
+== PHP e seu Mestre ==
+
+Desenvolvida pelo próprio [[Diabo|Satã]], em seus vastos domínios infernais, através de seu instrumento, um cearense de nome Rasmus Lerdof,o PHP logo se espalhou como o mal entre programadores, analistas de sistemas e outros profissionais da área de Informática e Tecnologia como uma forma de criar vários softwares perversos e demoníacos com o único e supremo propósito de espalhar a insegurança e caos na Internet.
+
+== Falsos Profetas ==
+
+Todos que defendem esta pobre e nefasta linguagem são considerados falsos profetas e devem ser combatidos como ardor por membros das religões universais: Católica, Budista, Muçulmanos... Deve-se notar, no entanto, que alguns especialistas discordam de tal opinião, como por exemplo [[Fernando Gabeira]], [[Faustão|Fausto Silva]] e Chun Kin Chang. Eles sustentam que diversos ritos mundiais utilizaram a linguagem e tiveram seus vistos negados na entrada do Inferno. Religiões majoritárias negam tal fato, dizendo que apenas seus próprios fiéis têm o direito de descer ao Inferno e que, por isso, ritos minoritários nunca teriam chegado à alfândega.
+
+É inegável, porém, que PHP tem seus lados positivos sobre outras linguagens, totalizando
+<br />'''Notice''': Undefined variable: vantagens in '''/var/www/desciclopedia/VantagensDoPHP.php''' on line '''22'''<br />
+0 vantagens sobre as outras linguagens. Entre as quais podemos citar:
+
+<br />'''Notice''': Undefined variable: vantagens in '''/var/www/desciclopedia/VantagensDoPHP.php''' on line '''24'''<br />
+<br />'''Warning''': Invalid argument supplied for foreach() in '''/var/www/desciclopedia/VantagensDoPHP.php''' on line '''24'''<br />
+== Mas, para que o PHP foi desenvolvido? ==
+Em entrevista ao Jornal Infernal, o diretor executivo da Fundação Porra, Hoje Pirei (PHP) disse que "era a melhor forma de se incluir suas poderosas Mensagens Subliminares demoníacas e os vírus dos hackers, nas páginas web de todo o mundo". Além disso, prometeu dar uma ótima recompensa para o programador que encontrar um erro na deslinguagem: "uma casa com piscina (de fogo) no centro do quinto dos infernos, além de uma vida mais leve, com sua alma tomada".
+Abaixo, a lista com os nomes de todos os demônios que participaram da criação do PHP:
+Warning:  include(criadores-do-php.php) (function.include): failed to open stream: No such file or directory in C:\apache\htdocs\desciclopedia\wiki\php\index.php on line 666
+
+Uma bela demonstração do espírito infernal que habita o código fonte do PHP é o objeto DOMDocument, que permite que o usuário carregue um arquivo HTML contendo qualquer codificação, desde que esta codificação seja UTF-8.
+
+== PHP Facts ==
+
+* Windows ME foi inteiramente escrito em PHP.
+* PHP é usado para escrever as piadas do Zorra Total.
+* [[Dercy Gonçalves]] ficou tão aterrorizada ao ver o código fonte do PHP que não conseguiu soltar um palavrão sequer.
+* [[Oscar Niemayer]] levou tanto tempo para morrer porque a Dona Morte ainda estava insistindo em usar um sistema PHP como sistema de ordem de serviço.
+* [[Marcos Feliciano]] usa PHP.
+* Estudos mostram que mudos conseguem soltar palavrões após 5 minutos programando em PHP.
+* 11 em cada 10 programadores odeiam a fraca tipagem nos elementos do PHP.
+* Minha mãe odeia usar PHP (Perócido de Hidrogenio Potencionico) para limpar o PC
+* Minha vó aprendeu PHP fazendo crochê.
+
+== Uma amostra de código PHP: ==
+<poem>
+<?php
+
+session_start();
+
+$usuario = $_SESSION;
+
+$criador['php'] = "demonio";
+
+if ($usuario['estado'] == "atento") {
+    print("<!-- mensagem subliminar -->");
+} else {
+    echo "<!-- mensagem subliminar -->";
+}
+
+echo "\n\n\n";
+
+$contadorGambiarra = 0;
+$gambiarraOK = false;
+
+volta:
+
+echo "-";
+$contadorGambiarra++;
+
+if($contadorGambiarra < 10) {
+    goto volta;
+}
+
+if($contadorGambiarra >= 10 && $gambiarraOK == true) {
+    goto fim;
+}
+
+$gambiarraOK = true;
+$contadorGambiarra = 0;
+echo "gambiarra";
+
+goto volta;
+fim:
+
+include_once("pacote-de-virus.js");
+?>
+</poem>
+
+== Licença de uso do PHP ==
+Antes de usar quaisquer funções ''demoníacas'' do PHP, é necessário ler e aceitar os termos deste contrato.
+1. PHP é do capeta.
+2. Não tente tomar o Copyright do PHP do capeta. O que é dele, pertence a ele.
+3. Só trabalhe com PHP se estiver liberado pela organização Capetas Simplesmente Incríveis (CSI) e pela Federação de Bobocas Inteligentes (FBI).
+4. Caso alguma regra deste ''pacto'' contrato sejam desrespeitadas, você estará sujeito à penalidade de tomação almática perante a Organização Infernal e terá seu Capeta Pessoalmente Falando (CPF) enviado para o Serviço de Proteção ao Capeta (SPC).
+?
+
+== Leis Satânicas do PHP ==
+
+{{C|Tipagem é coisa de criança.|Grande Mestre Satã Imperial explicando porque não há definição de tipo de variáveis em PHP}}
+
+{{C|Fracos compilam, os fortes interpretam.|Grande Mestre explicando porque não se compila um script PHP}}
+
+{{C|Orientação a Objeto não é um paradigma. [[POG]] é um paradigma.|Grande Mestre justificando a falta de organização da linguagem PHP}}
+
+{{C|No PHP, nós confiamos!|Mantra Ewok da Imortalidade mortal}}
+
+=== PHP e a sua documentação ===
+O [[Capeta]], ao desenvolver o PHP, pensou que seria extremamente benéfico fazer com que os ditos programadores aprendessem a [[RTFM]]. Por isso, fez com que cada função recebesse parâmetros de uma maneira diferente. Assim, é praticamente impossível escrever meia dúzia de linhas sem ter que consultar qual é a maldita ordem dos parâmetros.
+
+
+Conforme os padrões POG, um POGramador deve ser fluente em sua linguagem. Isso é 100% válido para o PHP. Veja abaixo um exemplo de nome de método que dispensa qualquer tipo de documentação (inclusive PHPDoc):
+
+<pre>
+public function getConfiguracaoPermissaoByUsuarioAndPermissaoUsuarioConfiguracaoPermissaoPerfilSistemaNaoCancelados()
+{
+     // Implemente seu POG aqui
+}
+</pre>
+
+== Tratamento de erros em php ==
+
+Em sua próxima versão, 6.66, o PHP Implementará um método radical no tratamento<br>
+dos erros de execução, na verdade, os erros é que serão sumariamente executados.<br><br>
+
+Basta estender a classe pai de todas as classes, a classe '''ChuckNorris'''.<br>
+Se Algum erro se atrever a acontecer, trate-o com o '''RoundHouseKickException'''<br>
+Chuck Norris dará o que ele merece.<br><br>
+Exemplo de código:
+<pre>
+<?php
+require chucknorris.class.php
+
+Class FooDeu extends ChuckNorris{
+
+    function FooDeu(){
+    }   
+ 
+    function dividePorZero($numero){
+        $result = null; 
+        Try{
+          $result = $numero/0;
+          throw new Exception('RoundHouseKickException');
+        }
+        Catch(RoundHouseKickException exception){ 
+
+/*
+*essa porra nao funciona e aquele viado quer isso para amanha!
+*/ 
+             goChuckNorris(exception);
+             $result = $numero/0;
+        }
+        return $result; 
+    }
+}
+?>
+</pre>
+
+== Igualdade (?) ==
+
+Desde os primórdios da humanidade, se dizemos que...
+
+ A == B 
+ AND
+ B == C
+
+... concluímos que A == C. Foi assim que Deus fez o mundo.
+
+Daí a galerinha do PHP, "para simplificar", fez umas adaptações neste conceito. O que causou erros maquiavélicos que só estouraram com o crescimento da linguagem. Igual aos sistemINHAS feitos em PHP que viram sistemÕES e estouram pelo mesmo motivo.
+
+Por exemplo, a função '''strpos()''', que retorna a posição de uma substring em uma string maior.
+
+ http://www.php.net/manual/pt_BR/function.strpos.php
+
+Veja o aviso da própria linguagem sobre o uso NADA PLAUSÍVEL da função:
+
+ Esta função pode retornar o booleano FALSE, mas também pode retornar um
+ valor não-booleano que pode ser avaliado como FALSE, como 0 ou "". Leia a
+ seção em Booleanos para maiores informações. Utilize o operador === para
+ testar o valor retornado por esta função.
+
+Uma bela funcionalidade do PHP, é sua detecção de famílias, veja este exemplo abaixo para uma melhor compreender:
+
+ <?php
+ if (('1 galinha' + '2 pardais') == '3 aves') {
+  echo 'são iguais!!!';
+ }
+ ?>
+
+Note a tecnologia envolvida no trexo de código acima, o interpretador do PHP é capaz de detectar que 1 galinha + 2 pardais são iguais a 3 aves. Que outra linguagem de programação é capaz de perceber isso?
+
+Para contornar isso podemos usar o comparador =============, tornando o código assim:
+
+ <?php
+ if (('1 galinha' + '2 pardais') ============= '3 aves') {
+  echo 'São diferentes!!!';
+ }
+ ?>
+
+== Exemplo de código em PHP ==
+<pre>
+<?php
+// Exemplo de como ter a certeza absoluta que uma variável booleana contém um valor TRUE ou FALSE
+($flag === FALSE) ? FALSE : TRUE;
+>
+</pre>
+
+<pre>
+<?php
+//HelloWorld Simples feito em PHP
+
+ob_implicit_flush(1);
+set_time_limit(0);
+
+interface iWriter
+{
+	public function bundaSuja($var_gambi1);
+	public function setCh($ch);
+	public function Exec();
+	public function WriteLine($txt);
+}
+
+class Writer implements iWriter
+{
+	protected $var_gambi1;
+	protected $ch;
+	
+	public function __construct($var_gambi1, $ch=false)
+	{
+		$this->teste($var_gambi1);
+		$this->setCh($ch);
+		$this->Exec();
+	}
+	
+	public function teste($var_gambi1)
+	{
+		$this->msg = $var_gambi1;
+	}
+	
+	public function setCh($ch)
+	{
+		$this->ch = (bool)$ch;
+	}
+	
+	public function Exec()
+	{
+		if($this->ch)
+			return $this->WriteLine($this->var_gambi1);
+	}
+	
+	public function WriteLine($txt)
+	{
+		echo $txt."\n";
+	}
+}
+
+class HelloWorld
+{
+	private $msg;
+	
+	public function __construct()
+	{
+		$this->msg = 'Hello World!';
+		$this->fvox();
+	}
+	
+	private function fvox()
+	{
+		$write = true;
+		$writer = new Writer($this->msg, (bool)$write);
+	}
+	
+	public function __toString()
+	{
+		//return $this->smg;
+                //return $this[0];
+                //return $this->['smg'];
+                return true; //deu certo assim, não mexe.
+
+ 
+	}	
+}
+
+$hw = new HelloWorld;
+?>
+</pre>
+<pre>
+<?php
+//Imprimindo uma array
+$array = array('banana ','maça ','leite ');
+$start = 0;
+$end = count($array)-1;
+while(true){
+	print $array[$start];
+	$start++;
+        if($start <= $end) {
+            break;
+        }
+}
+?>
+</pre>
+<pre>
+<?php
+//Olá, Mundo!
+class primeiraLetra{
+	function Maiuscula($palavra)
+	{
+		switch($palavra{0})
+		{
+			case "a": $PL = "A";break;
+			case "b": $PL = "B";break;
+			case "c": $PL = "C";break;
+			case "d": $PL = "D";break;
+			case "e": $PL = "E";break;
+			case "f": $PL = "F";break;
+			case "g": $PL = "G";break;
+			case "h": $PL = "H";break;
+			case "i": $PL = "I";break;
+			case "j": $PL = "J";break;
+			case "k": $PL = "K";break;
+			case "l": $PL = "L";break;
+			case "m": $PL = "M";break;
+			case "n": $PL = "N";break;
+			case "o": $PL = "O";break;
+			case "p": $PL = "P";break;
+			case "q": $PL = "Q";break;
+			case "r": $PL = "R";break;
+			case "s": $PL = "S";break;
+			case "t": $PL = "T";break;
+			case "u": $PL = "U";break;
+			case "v": $PL = "V";break;
+			case "w": $PL = "W";break;
+			case "x": $PL = "X";break;
+			case "y": $PL = "Y";break;
+			case "z": $PL = "Z";break;
+			default : $PL = "";break;
+		}
+		$palavra2 = $PL;
+		for($i = 0; $i <= strlen($palavra);$i++)
+		{
+			if($i != 0)
+			{
+				$palavra2 .= $palavra{$i};
+			}
+		}
+		return $palavra2;
+	}
+	function minuscula($palavra)
+	{
+		switch($palavra{0})
+		{
+			case "A": $PL = "a";break;
+			case "B": $PL = "b";break;
+			case "C": $PL = "c";break;
+			case "D": $PL = "d";break;
+			case "E": $PL = "e";break;
+			case "F": $PL = "f";break;
+			case "G": $PL = "g";break;
+			case "H": $PL = "h";break;
+			case "I": $PL = "i";break;
+			case "J": $PL = "j";break;
+			case "K": $PL = "k";break;
+			case "L": $PL = "l";break;
+			case "M": $PL = "m";break;
+			case "N": $PL = "n";break;
+			case "O": $PL = "o";break;
+			case "P": $PL = "p";break;
+			case "Q": $PL = "q";break;
+			case "R": $PL = "r";break;
+			case "S": $PL = "s";break;
+			case "T": $PL = "t";break;
+			case "U": $PL = "u";break;
+			case "V": $PL = "v";break;
+			case "W": $PL = "w";break;
+			case "X": $PL = "x";break;
+			case "Y": $PL = "y";break;
+			case "Z": $PL = "z";break;
+			default : $PL = "";break;
+		}
+		$palavra2 = $PL;
+		for($i = 0; $i <= strlen($palavra);$i++)
+		{
+			if($i != 0)
+			{
+				$palavra2 .= $palavra{$i};
+			}
+		}
+		return $palavra2;
+	}
+}
+class tradutorZKSPT_BR{
+	function traduzZKSpPT_BR($palavra){
+		$ZKS  		 = array('ca', 'cj', 'de', 'ur', 'ho', 'kl', 'gy', 'hs', 'ti', 'fr', 'qk', 'nv', 'zx', 
+		'op', 'lu', 'es', 'mn', 'wh', 'ju', 'bv', 'cp', 'sw', 'ax', 'yg', 'bg', 'ed', 'cb');
+		$PT_BR		 = array( 'a',  'b',  'c',  'd',  'e',  'f',  'g',  'h',  'i',  'j',  'k',  'l',  'm',  
+		'n',  'o',  'p',  'q',  'r',  's',  't',  'u',  'v',  'w',  'x',  'y',  'z',  'á');
+		$traducao  	 = htmlentities(str_ireplace($ZKS, $PT_BR, $palavra));
+		return $traducao;
+	}
+        function traduzPT_BRpZKS($palavra)
+	{
+		$ZKS  		 = array('ca', 'cj', 'de', 'ur', 'ho', 'kl', 'gy', 'hs', 'ti', 'fr', 'qk', 'nv', 'zx', 
+		'op', 'lu', 'es', 'mn', 'wh', 'ju', 'bv', 'cp', 'sw', 'ax', 'yg', 'bg', 'yd', 'cb');
+		$PT_BR		 = array( 'a',  'b',  'c',  'd',  'e',  'f',  'g',  'h',  'i',  'j',  'k',  'l',  'm',  
+		'n',  'o',  'p',  'q',  'r',  's',  't',  'u',  'v',  'w',  'x',  'y',  'z',  'á');
+		$PT_BR2		 = array(';a', ';b', ';c', ';d', ';e', ';f', ';g', ';h', ';i', ';j', ';k', ';l', ';m',  
+		';n', ';o', ';p', ';q', ';r', ';s', ';t', ';u', ';v', ';w', ';x', ';y', ';z', ';á');
+		$traducao  	 = (str_ireplace($PT_BR, $PT_BR2, $palavra));
+		$traducao  	 = (str_ireplace($PT_BR2, $ZKS, $traducao));
+		return $traducao;
+	}
+}
+class lunvcb{
+	function juntaLunvcb(){
+		$lu = "lu";
+		$nv = "nv";
+		$cb = "cb";
+		$lunvcb = $lu."".$nv."".$cb;
+		return $lunvcb;
+	}
+	function imprimeLunvcb(){
+		$traduzir = new tradutorZKSPT_BR();
+		$tranformaPL = new primeiraLetra();
+		$palavra = $this->juntaLunvcb();
+		$traduzido = $traduzir->traduzZKSpPT_BR($palavra);
+		$transformado = $tranformaPL->Maiuscula($traduzido);
+		echo $transformado;
+	}
+}
+class zxchopurlu{
+	function juntaZxchopurlu(){
+		$zx = "zx";
+		$cp = "cp";
+		$op = "op";
+		$ur = "ur";
+		$lu = "lu";
+		$zxchopurlu = $zx."".$cp."".$op."".$ur."".$lu;
+		return $zxchopurlu;
+	}
+	function imprimeZxchopurlu(){
+		$traduzir = new tradutorZKSPT_BR();
+		$tranformaPL = new primeiraLetra();
+		$palavra = $this->juntaZxchopurlu();
+		$traduzido = $traduzir->traduzZKSpPT_BR($palavra);
+		$transformado = $tranformaPL->Maiuscula($traduzido);
+		echo $transformado;
+	}
+}
+
+$Ola = new lunvcb();
+$Mundo = new zxchopurlu();
+
+$Ola->imprimeLunvcb();
+echo htmlentities(", ");
+$Mundo->imprimeZxchopurlu();
+echo htmlentities(" !");
+
+?>
+</pre>
+<pre>
+<?
+$l1 = ('Hello world');
+for ($lI=$ll=0 ; $ll >= $lI ; $ll++&&$lI++){//II+*
+_($l1[ $ll %= 4 ]);/*$II+=$lI*///II++
+if($lI != ($ll % true) + 2);// não mecha!!!
+else break;
+}_('!');_(); // o que é isso ???
+// function exit(); //
+function _($l1 = "
+\n"){printf("%s",$l1);}; // aqui a casa cai
+?>
+</pre>
+
+<pre>
+<?
+if ("6 Galinhas" + "4 Gansos" == "10 Aves") {
+   echo "Expresão Verdadeira!"; //php estupido->POGramador mais ainda o certo seria ExpreSSão
+} else {
+   echo "Expresão Falsa!";//mais um erro do POGramador
+}
+?>
+</pre>
+
+<pre>
+<?
+if ("6 Galinhas" + "4 Elefantes" == "10 Aves") {
+   echo "Animal Fail!"; //php estupido
+}
+?>
+</pre>
+
+<pre>
+<?
+class Mascara{
+	var $mask;
+	function mascara(){
+		$this->mask = "";
+	}
+	function setMascara($mask)
+	{
+		$this->mask = $mask;
+	}
+	function monta($input){
+		if(empty($this->mask))
+			return 'Máscara não definida';
+		if(is_array($input))
+		{
+			$tr_from = $tr_to = array();
+			$i = 0;
+			foreach($input as $chave => $valor)
+			{
+				$tr_from[$i] = "%%{$chave}%%";
+				$tr_to[$i]   = $valor;
+				$i++;
+			}
+			return strtr($this->mask,$tr_from,$tr_to);
+		}
+		$r = array('%%V%%','%%VALOR%%');
+		return str_replace($r,$input,$this->mask);
+	}
+}
+
+$m = new Mascara();
+$m->setMascara("eu amo %%VALOR%% demais!!! <br>");
+echo $m->monta('chocolate');
+echo $m->monta('pare');
+echo $m->monta('refrigerante');
+echo $m->monta('php');
+echo $m->monta('gambiarra');
+?>
+</pre>
+<pre>
+class BundaSuja{
+    private var $teste;
+    private var $teste2;
+    private var $teste3;
+    public var   $curl_entrypoint
+    
+    function __construct(){
+       $this->curl_entrypoint = $this->gambiarra1($teste1,$teste3);
+    }
+//continue...
+}
+</pre>
+
+<pre>
+<?php
+
+//Classe para cagar na casa do pedrinho
+
+class Pentelho {
+
+	function __construct() {
+		$this->vontade_de_fazer_coco = true;
+		if ($this->vontade_de_fazer_coco==true) {
+			$this->fazer_coco();
+		}
+	}
+	
+	function fazer_coco() {
+		if ($this->casa_do_pedrinho==false) {return 'Não, eu quero ir na casa do pedrinho';}
+	}
+	
+}
+
+?>
+</pre>
+
+== Exemplo Prático ==
+Veja a seguir um exemplo prático desta linguagem utilizando-se o método [[POG]]. Repare a clareza e objetividade do código:
+<pre>
+<nowiki><div style='position:absolute;top:-3px;display:<?=$valor?$tipo1:$tipo2; ?>'>
+<? if($flag == 0){ ?>
+<script>
+  var a = [<?=implode(',',$lista)?>];
+  <? $SQL = "SELECT * FROM clientes WHERE 1 ORDER BY data ASC LIMIT 1 OFFSET 1 " ?>
+<? }else{ ?>
+<b> entroh aqui flag= <?=$flag //debugue ?> </b>
+     <? $SQL = "SELECT * FROM clientes WHERE ".$cond." ORDER BY data ASC LIMIT 1 OFFSET ".$flag ?>
+<script>
+  //
+  var a= [<?=implode(',',$lista_)?>];
+<? } ?>
+  // debugue
+  alert(a);
+
+<<?php echo '/'."script"; // kuIDaDeNHo c/AxXx bAhRRaxXXxx ?>>
+
+</div></nowiki>
+</pre>
+
+Outro exemplo bem claro da obscuridade da programação em PHP. Aqui devemos refletir sobre a frase proferida em Mad Max: "Dois programadores entram, um programador sai!";
+
+<pre>
+$colunaDifetente = $_SESSION['janelaBusca'][$_POST['idJanela']]['colunaDiferente'];
+
+if(is_array($colunaDifetente)){
+    if (is_array($vet)){
+        foreach ($vet as $k=>$v){
+           foreach ($v as $k1=>$v1){
+                foreach ($v1 as $k2=>$v2){
+            	    foreach ($colunaDifetente as $k3=>$v3){
+            	        if ($vet[$k]['r'][$k2]['c'] == $k3) {
+            	            $vet[$k]['r'][$k2]['c'] = $v3;
+            	        }
+            	    }
+                }
+            }
+        }
+    }
+}
+</pre>
+
+== Depurando PHP ==
+
+Cientes da superioridade da técnica avançada do ''print'' para debug, as mentes por trás do PHP, certas de que estavam pensando muito além de seu tempo, não introduziram apenas um, mas '''três''' métodos de debug no PHP: '''print''', '''echo''' e '''die'''. Os dois primeiros, embora parecidos, não são sinônimos; usar a função apropriada depende da fase da [[Lua]] e da população exata da [[China]] no momento em que o código foi escrito.
+
+Já o terceiro ('''die''') combina o melhor de dois mundos: depuração e tratamento de exceções (try..catch é coisa de viado). Assim, seu sistema fica com ZERO camadas, veja:
+
+ if (mysql_connect('localhost:/tmp/mysql.sock', 'mysql_user', 'mysql_password') || die('Não foi possível conectar: ' . mysql_error()) {
+    // executa SQL, foreach nos registros retornados, imprime <nowiki><HTML>, <TR>, <TD>, <B></nowiki>, etc...
+  }
+
+Por isso, a UNESCO está fazendo uma campanha em escolas primárias. Afinal, é desde cedo que se deveria aprender certas coisas:
+
+[[Arquivo:nophp1.png]]
+
+[[Arquivo:nophp2.png]]
+
+(obs: ficaria bom colocar uns fios soltos em volta...)
+
+=== Aviso de erros ===
+
+Desenvolvido por Luciana Gimenez e aperfeiçoado por Carla Perez, a verificação de erros tem sido o medo de todo programador PHP.
+O processador do PHP utiliza a função rand() para tentar saber em qual linha ocorreu o erro e guarda essa linha em cache para futuras consultas.
+
+Exemplo do código de verificação:
+<pre>
+<?php
+if ( $error != '' OR isset($error) ) {
+  $linha = rand(1, $total_de_linhas);
+  if ( is_numeric($error) ) {
+    echo "Parse error: parse error, unexpected T_PRINT, expecting, expecting T_FUNCTION ',' or ';' or '}' in " . $_SERVER['SCRIPT_FILENAME'] . "<b> on line</b>" . $linha;
+  } else {
+    echo "Parse error: parse error, unexpected $ in" . $_SERVER['SCRIPT_FILENAME'] . "<b> on line</b> " . $linha;
+  }
+}
+?>
+</pre>
+
+Exemplo de código com erro:
+<pre>
+1.  <?php
+2.  class oi{
+3.  	function teste(){
+4.		if ('a' == 'a'){       # => Esqueci de fechar o if
+5.      }
+6.  }
+7.  ?>
+</pre>
+
+Erro segundo o PHP( Repare que na linha 7 é o término do bloco PHP):
+
+ Parse error: parse error, unexpected ';',
+ expecting T_FUNCTION in /home/usuario/www/includes/file.php on line 7
+
+Para aumentar a probabilidade de acertar a linha em que ocorre o erro, tenha do seu lado:
+
+* Um pai de santo
+* Uma bola de cristal
+* Pé de coelho
+* Galinha da angola
+* Crucifixo
+* Palantir
+* Bala de prata
+* Charutos
+* Figa
+* Olho de boi
+* Cartas de [[Tarot]]
+* Número de telefone da [[Mãe Diná]]
+* Um banho de cheiro feito pela [[D. Maria das Ervas]] do Ver-o-Peso
+* Alguém que saiba PHP de verdade
+
+As chances de você acertar a linha em que ocorreu o erro tendo todos os requisitos acima aumenta para 15%.
+
+Para programar sozinho, basta ser um vidente. Esse é um dos motivos pelo qual o PHP é uma das  7 linguagens de programação que são condenadas pelo Vaticano.
+
+{{risada}}
+
+== Ver também ==
+* [[JavaScript]]
+
+{{Linguagens de Programação}}
+
+[[Categoria:Ciência da computação]]
+[[Categoria:Linguagens de programação]]
+[[Categoria:Siglas]]
+
+[[bar:PHP]]
+[[en:PHP]]
+[[id:PHP]]
+[[it:PHP]]
+[[ja:PHP]]
+[[ko:PHP]]
+[[nds:PHP]]
+[[no:Php]]
+[[pl:PHP]]
+[[zh:PHP]]

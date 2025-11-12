@@ -1,0 +1,46 @@
+{{química}}
+ 
+[[Arquivo:Diagramadepauling.png|thumb|220px|Os orbitais, na ordem em que os [[elétron]]s gostam de preencher.]]
+{{vqd|[[Punheta|Regra de Hand]]?}}
+{{c|Que merda é essa?|Você|Regra de Hund}}
+{{c|E o que me importa se os elétrons ocupam uma casinha de cada vez ou não?|Aluno|Regra de Hund e [[Orbital atômico|orbitais]]}}
+{{c|Eu nunca usei isso.|Engenheiro Químico|Regra de Hund}}
+{{c|Isso é importante para <s>[[porra nenhuma]]</s> explicar as hibridizações e as valências e blá blá blá...|[[Professor]] de [[Química]]|Regra de Hund}}
+
+A '''Regra de Hund''', descoberta pelo [[química|químico]] britânico Dickin Hund, em meados do século XIX é a regra que rege a forma como os [[elétron]]s entram e se instalam <s>nas casinhas</s> nos [[orbital atômico|orbitais]] do [[átomo]].
+
+== História ==
+[[Arquivo:Hund.gif|thumb|200px|left|[[Elétron]]s ocupando <s>as casinhas</s> os [[orbital atômico|orbitais]].]][[Arquivo:OrbitaisD.png|thumb|220px|Vai dizer que [[você]] sabe como colocar os [[elétron]]s [[orbital atômico|nessa merda]]?]]
+No final do século XVIII a [[química]] deslanchou de vez <s>como [[escola|matéria escolar]]</s> e era preciso começar a encontrar respostas (mesmo que [[joselito|sem noção]]) para responder alguns dos mais bizzaros acontecimento que a [[química]] descobriu. Muitas teorias foram desenvolvidas mas ninguém podia provar nada, já que não se consegue ver os átomos <s>fazendo [[sexo]]</s> reagindo para dar <small>'''''(Ui!)'''''</small> em [[merda|algo]].
+
+Quando [[Ernest Rutherford|Rutherford]] descobriu que o átomo não era uma bola de <s>boliche</s> bilhar, igual [[Daltony|Dalton]] dizia, apareceram um [[mol]] de explicações de como era o [[átomo]] e por que ele não era [[Jô Soares|redondinho e fofinho]]. Mas, como não se podia provar [[porra nenhuma]], criou-se [[É de mais de oito mil!|mais de oito mil]] postulados para conseguir fundamentar a <s>viagem</s> teoria. Entende-se pos ''postulado'' como algo que alguém fala e que não pode ser provado se é verdade ou não. E, por comodismo, todo mundo considera que é verdade (o uso de postulados é muito comum por [[crentes]] fanáticos que só sabem falar da [[Bíblia]], [[Alcorão]], Torá e afins).
+
+Alguns anos depois outro <s>[[nerd]]</s> cientista que ninguém conhece descobriu o <s>[[Brasil]]</s> [[elétron]] e, mais um tempo depois, outros descobriram o resto das partes do [[átomo]]. Então, quando [[Ernest Rutherford|Rutherford]] e [[Niels Bohr|Bohr]] inventaram o [[Modelo atômico de Rutherford-Bohr|''átomo planetário'']], um cara chamado [[Linus Pauling]] deu um carrinho <s>e quase levou cartão amarelo</s> na comunidade científica com <s>uma tabelinha</s> um [[Diagrama de Pauling|diagrama]] que fez sozinho, só usando um grampo de cabelo e chiclete (igual ao [[Rambo]]). Como ''gran finale'', Pauling também introduziu <small>'''''(Ui!!!)'''''</small> o conceito de [[orbital atômico]]. Imediatamente surgiu a pergunta: ''Como os elétrons ocupam <s>as casinhas</s> os orbitais do átomo?'' É aí que entra <s>em campo</s> a regra de Hund.
+
+Hund estudou <s>[[cu|o fundo]]</s> a fundo os átomos e percebeu que as valências e orbitais tinham relação <s>sexual</s>. Após ficar dez anos tentando achar uma resposta, descobriu que os [[elétron]]s ocupam uma vaga da casinha até encher todas as primeiras vagas do orbital. Depois, ocupam o outro espaço até acabar os elétrons. Os que ficam <s>solteiros</s> sozinhos querem fazer parzinho e formam a valência do [[átomo]].
+
+Hund publicou seus estudos e foi premiado por sua <s>nerdice</s> presistência na pesquisa. Sua regra é até hoje ensinada nas escolas para <s>foder</s> ajudar os alunos.
+
+== Teoria e fundamentos ==
+[[Arquivo:07.jpg|thumb|left|Anotações de Hund durante o desenvolvimento de sua teoria.]]
+A regra de Hund é fundamentada na [[Lei de Murphy]] e no [[Princípio da exclusão de Pauli]]. Esses dois princípios regem a forma como os elétrons se [[sexo|relacionam]] e como se comportam nos orbitais ([[ou não]]).
+
+ 
+A [[Lei de Murphy]] estabelece que os [[elétron]]s irão se distribuir da maneira mais inconveniente possível, de acordo com a [[Murphydinâmica Quântica]]. ssa forma desemparelhada dos elétrons se arrumarem é muito inconveniente, já que leva muitas casinhas de orbitais a ficarem incompletas. Com casinhas vagas, o átomo tem de fazer [[ligação química|ligação]] e ficar junto de outro átomo, igual a uma sociedade. E, como todo mundo sabe, sociedades são muito inconvenientes. Essas inconveniências acarretam aumentos da força murphy, explicando o porquê de muitos alunos se foderem em [[Química]].
+
+O [[Princípio da exclusão de Pauli]] afirma que dois elétrons iguais não podem estar na mesma casinhas. Ou seja, dois elétrons com [[spin]] (a setinha) pra cima (ou pra baixo) resulta em falsidade ideológica. O processo resulta em explusão de um dos ele´trons da casinha. Segundo a forma como foi dita por Pauli, o princípio diz: ''Não pode haver duas partículas com coordenadas iguais em um mesmo sistema quântico.'' Entendeu? Nem eu.
+
+== Aplicações ==
+A teoria de Hund tem como aplicações explicar como se deve distribuir os elétrons nas casinhas. Outra função <s>desta merda</s> é explicar as valências dos átomos e o porquê das ligações e das hibridizações. Fora isso, não serve para absolutamente [[porra nenhuma]]. Se não fosse por isso, Hund seria mais um [[nerd]] desconhecido (como quase todos os cientistas).
+
+No entanto, a maior e mais importante aplicação da Regra de Hund é foder com os alunos em [[Química]], na matéria de <s>[[enchimento de linguiça]]</s> ''teoria atômica''.
+
+== Ver também ==
+* [[Lei de Murphy]]
+* [[Princípio da exclusão de Pauli]]
+* [[Elétron]]
+* [[Nodal]]
+* [[Orbital atômico]]
+* [[Diagrama de Pauling]]
+
+[[Categoria:Química]]

@@ -1,0 +1,36 @@
+{{taxocaixa
+| nome           = Centopeia-Nadadora
+| cor            = #DC143C
+| imagem         = Centopeiadomar.jpg
+| imagem_legenda = "Tá fazendo o que aí no mar, mulher?"
+| reino          = [[Animalia|Bichin]]
+| filo           = [[Arthropoda|Artropode]]
+| subfilo        = [[Crustacea|Inseto-Marinho]]
+| classe         = [[Remipedia|Remos-pés]]
+}}
+
+'''Remipedia''' ou '''remipédios''' são uns bichos bem bizarros, porque parecem [[centopeia]]s, mas são [[crustáceos]], e curiosamente meio mais aparentados com os [[insetos]] do que com os crustáceos. WTF?
+
+Mais doido ainda: Originalmente o que se sabia dos remipédios era tudo baseado num único espécime JÁ EXTINTO. Porém, por pura sorte da cagada pura, uma caralhada de representantes vivos foram descobertos anos depois, o que fez um bicho que supostamente já tinha ido de [[trilobitas]] a muitos milhões de anos antes do nada brotar vivo com trocentos representantes diferentes. 
+
+{{c|Os relatos sobre minha extinção foram exagerados!|[[Mark Twain|Remi Twain]]|sua não-extinção}}
+
+== Descrição ==
+[[Arquivo:Diagrama artrópodes.jpg|thumb|left|Seriam eles insetos com patas demais e que curtem só viver no mar?]]
+Os remípedes até onde foram encontrados são seres estranhos, translúcidos, desprovidos de visão, porque nasceram literalmente sem olhos, com um monte de patas, sem [[carapaça]] nem o [[télson]] dos [[decápodes]], mas em compensação possuem todos outros elementos comuns de crustáceos, inclusive no rabo tendo uns [[urópode|pés-de-cu]] bem desenvolvidinhos. Além disso, possuem [[glândula]]s que soltam [[veneno]] nos otários que eles querem comer, lembrando vagamente as quelíceras das centopeias terrestres.
+
+Tal como os [[Anostraca|camarões-fadas]], eles costumam nadar [[Seu Boneco|discostas]], mas no caso dos remípedes, a ausência de olhos explica eles não terem plena noção de pra onde tão andando de fato é invertido ao caminho da cabeça deles.
+
+A princípio, só pela análise pobre dos [[fóssil|fósseis]] em [[1955]], se pensava que esses crustáceos eram só uns bichos bem primitivos, mas o destino mostrou que não, quando a partir de [[1979]] vários desses troços foram encontrados vivos em cavernas submarinas das costas da [[Austrália]] e das [[Caraíbas]]. Atualmente eles são considerados o provável meio termo entre a classe mais fodona dos crustáceos (os [[Malacostraca]] que incluem todos os decápodes e mais um monte de outros como [[caranguejos]] que não são peixes, [[camarões]] <s>É A SUA MÃE!</s>, [[lagostas]] e similares) e, acredite, os [[insetos|melhores amigos]] do [[Vegeta]].
+
+== Divisão ==
+
+Atualmente essa classe se divide em duas ordens, por existência ainda entre nós ou inexistência atual, mas de zilhões de anos antes.
+
+*''[[Enantiopoda]]'': ordem que conta apenas com um membro, o ''[[Tesnusocaris goldichi]]'', e que já foi ser atração do [[zoológico]] do [[Clube de Regatas Vasco da Gama|Vasco]] zilhões de anos atrás. Viveu por boa parte da época [[Pensilvânico|Pensilvânica]] (na segunda e última parte do período [[Carbonífero]]). O nome desse bicho é por conta de ter sido encontrado em [[Tesnus]], no [[Texas]], uma explicação bem melhor do que quando os zoólogos marinhos encontrarem as espécimes ainda viventes;
+*''[[Nectiopoda]]'': Descobertos a partir de 1979, esses bichos foram divididos em duas famílias basicamente: os [[Speleonidae|Espelhomedá]] e os [[Godzilliidae|Godzillatedá]]. Eu só acho, só acho, que o que descobriu o último tem de parar de assistir [[tokusatsu]], porra, olha o nome que o bicho deu, uma centopeia-marinha de nome "[[Godzilla]]"...
+
+[[Categoria:Ceguetas]]
+[[Categoria:Centopeias]]
+[[Categoria:Crustacea]]
+[[Categoria:Remipedia|*]]

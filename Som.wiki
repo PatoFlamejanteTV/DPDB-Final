@@ -1,0 +1,119 @@
+{{Física}}
+[[Arquivo:Somondas.jpg|thumb|right|180px|Um gráfico (mal feito) de ondas sonoras]]
+{{c|É o XxXoM bArUlHiEnTxXxuuuuuuuuuu?!?!?!|[[Emo]]|Som}}
+{{c|Pac-pac-pac-pac...|[[Pac-man]] mostrando seu som}}
+{{c|O som está no [[ar]]|[[Especialista]]|suas teorias em relação ao som}}
+{{c|Não seria o amor?| [[Carla Perez]]| a frase acima}}
+
+== O Som ==
+[[Arquivo:Luz_e_som.jpg‎|thumb|180px|left|O som tentando competir com a luz]]
+'''Som''' em primeiro lugar é algo que você não deve confundir com acústica, depois ele é nada mais que a propagação de uma onda mecânica. Esta onda se propaga de forma circuncêntrica (procura no [[dicionário]]).O som morre de inveja da [[luz]], afinal, suas ondas se propagam apenas em meios materiais, isso significa que não se propagam no [[vácuo]], fora que em termos de [[velocidade]] a luz com seus 300.000.000 de metros por segundo deixa o som com 340 metros por segundo no chinelo e comendo poeira. Conclusão, a luz é das [[trevas]].
+Como já pudestes ver, o som está incluso nos estudos da [[física]], portanto se você veio aqui à procura de [[restart]] pode ir embora.
+
+Desculpe por destruir seus sonhos logo no primeiro parágrafo, mas não posso deixar de dizer que apenas essas poucas palavras ditas, ou escritas jogaram completamente por terra a possibilidade de [[Star Wars]] ser verdade (confesso que também fiquei decepcionado e não quis acreditar nessas [[mentira]]s até ter certeza de que eram a realidade...)
+
+Muito triste, mas agora chega de lamentações e vamos em frente!
+
+== Medidas de som ==
+[[Arquivo:Decibels.jpg|thumb|right|150px|Uma escala interessantíssima de potência em deciBell]]
+
+Os mais ignorantes <s>como [[você]]</s> diriam que o som é medido pela altura, mas esta é claramente a medida mais incorreta para dar ao som, vendo que ele não é uma [[pessoa]] para ser alto ou [[baixo]]; o som é medido em intensidade, ou seja, o correto de dizer não é ''a [[música]] está alta'' e sim ''a música está muito intensa'', ou em genérico ''a música está forte''. Eu sei que isso parece [[idiota|ridículo]] e de fato é, esse é o tipo de [[conhecimento]] que é bom apenas ter, mas nunca sair falando na [[rua]] a não ser que você goste de ser chamado de [[burro]] mesmo sabendo que está certo.
+
+Enfim, o som é representado por uma senóide pura, possui uma [[velocidade]] de oscilação ou [[frequência]] que se mede em hertz <s>AM</s> e uma amplitude ou [[energia]] que se mede em déciBell.
+
+=== O Hertz ===
+
+Se você quer saber sobre o ''hertz'' vá até a página do [[artigo]] [[Frequência]] e fique sabendo, aqui, nós trataremos direta e exclusivamente do ''Bell'', também conhecido como ''deciBell''
+
+=== O Bell ===
+
+O Bell é uma unidade de medida de razões, o que significa isso, significa que ele é para medir, só isso...Ele é mais uma das medidas do ramo da física que vai fazer você morrer de estudar e ter vontade de assassinar seu [[professor]].
+
+'''A História do Bell'''
+
+''O bell surgiu em algum lugar do passado e o vento levou...''Como tudo na física, ele foi inventado por gente que não tem o que fazer e tem o prazer de pensar que vai [[foder]] alguém no [[futuro]].Nesse caso, foram múltiplos inventores, todos os engenheiros do [[laboratório]] ''Bell Lab'' se envolveram nessa [[arte]] (literalmente), mas quem ficou com o mérito do nome (grande mérito) foi o dono do laboratório, o senhor [[Alexander Graham Bell]] (aquele do [[telefone]]).
+
+
+'''Utilidades e Propriedades do Bell'''
+
+[[Arquivo:Logaritmos.jpg‎|thumb|180px|right|Para você apaixonado por logarítmos]]
+
+A intensidade sonora pode ser definida como potência por unidade de [[área]], expressa em watt/m². Essas escalas para medida de pressão, potência e intensidade das ondas sonoras são escalas lineares, ou seja, não vai dar tanto trabalho para medir...Mas, porém, contudo, todavia, entretanto, no entanto, todas as medidas já citadas são captadas pelo [[ouvido]] em uma faixa muito ampla e variante (maldito ouvido), por exemplo, cochichar coisas suspeitas para seu [[amigo]] irradia uma potência de 0,000,000,001 watt, ao passo que [[gritar]] com ele por ele ter cantado sua mina irradia uma potência de 0,001 watt, bem maior não?! 
+
+Para você que é um [[noob|tapado]] e não conseguiu perceber a diferença, não se preocupe, eu vou [[dar]] um outro exemplo com medidas um pouco maiores para que fique bem claro. Ter o prazer (ou não) de contemplar um concerto da OSESP vai fazer com que [[você]] tenha de suportar uma irradiação (não é [[radiação]]) de 10 watts por umas duas horas, ao passo que morar do lado do [[aeroporto]] de [[Guarulhos]] vai obrigar você a suportar 100.000 watts a cada vez que um [[avião]] decolar (coitado). Se continua sem entender, finge que entendeu...
+
+Enfim, de 0,000,000,001 até 100.000 tem muita coisa que para ser representada de uma forma linear seria impossível, é para isso que veio o Bell. '''O Bell é uma medida logarítmica''', ou seja, trabalha com [[logarítmo]]s (se ferrou). Como já sabemos os logarítmos são ideais para grandes variações de medidas e é por isso que o Bell é a melhor forma de representar o som.
+Finalizando, é muito importante lembrar que o Bell é uma medida adimensional, ou seja, não tente mandá lo para outra [[inferno|dimensão]], não vai dar certo.
+
+[[Arquivo:Log2.jpg‎|thumb|left|180px|para estimular ainda mais seu amor pelo som]]
+'''Curiosidades'''
+
+- O surgimento do ''deciBell'': Se o velhote, pseudo inventor chamava se Bell e até agora nós falamos apenas em Bell, de onde surgiu essa [[desgraça]] de ''deciBel''? Isso serve (apenas) para complicar minha vida?
+
+Como já foi dito, o Bell é uma medida infinita e serve para representar coisas de variação muito grande, vou repetir, '''variação''', ou seja, ele não foi feito apenas para representar o que é grande e a forma encontrada de fazer com que ele também represente as medidas pequenas foi dividí lo em 10 partes iguais e usar apenas uma dessas partes como representação de medidas; Daí surgiu o deciBell que é nada mais que a décima parte do Bell.
+
+- DeciBells vs DeciBéis: Qual seria o plural da palavra ''deciBell''?
+
+Temos uma discussão muito grande em relação a tais termos, na linguagem popular que ficou famoso foi o ''deciBéis'', mas para os mais desinformados temos até uma lei federal (acredite) que diz que o plural de Bell deve ser ''Bels". Quem está certo?
+
+Na verdade está todo mundo errado (como sempre), o Bell é uma medida, uma unidade; Uma unidade é um qualificativo, um padrão e não tem nada a ver com quantidade, portanto as unidades não têm plural e nem gênero, sendo assim, você jamais encontrará ''uma'' deciBell (pelo mesmo motivo que você jamais encontrará um ''zebro'') e mesmo se existir uma, ela será ''um'' deciBell fêmea.
+
+== Emissão e Percepção do Som ==
+
+A maioria das espécies é capaz de emitir e perceber sons, umas mais que as outras, claro. A diferença entre [[Eu]], [[Você]], o [[cachorro]], o [[gato]] e seu [[passarinho]] (o animal) e até seu [[peixe]] (pensa que ele é mudo?) é a frequência alcançada na emissão e percepção desses sons. A espécie humana em geral tem uma audição muito limitada (viu não é só o [[cérebro]]) que fica entre 20 Hz e 20 KHz (20 mil Hz).
+
+[[Arquivo:Alto_som.jpg‎|200px|thumb|right|Você se <s>ferrando</s> virando com os sons a sua volta]]
+
+É interessante lembrar que a [[natureza]] humana não permite que excedamos muito os valores previamente citados relacionados ao som, quero dizer, se você ficar o dia inteiro gritando igual [[doido]] <s>vão te internar em um [[hospital]] psiquiátrico</s> a sua voz não vai durar um só dia e você ficará sem poder falar por um bom tempo. E mais, se você der na telha de passar a noite ouvindo [[NXZero]] na maior altura, na manhã seguinte você vai acordar morrendo de [[dor]] de ouvido (isso se alguém já não tiver te matado); mesmo que você não sinta nada pode ter certeza que aos quarenta anos você já vai estar mais surdo que um velho de oitenta.
+
+O som é produzido por vibrações de alguma coisa (pára de pensar besteira), no caso de alguns instrumentos musicais ele é produzido pela vibração das cordas, o violino, o [[piano]] (tem cordas), a harpa, etc; no caso de outros é pela própria vibração do [[ar]], a [[flauta]], o clarín e tal. No caso dos humanos é pela vibração das cordas vocais, lembrando que quanto mais espaço para vibração, mais grave será o som.
+
+Depois de concluirmos que a produção do som não passa de vibrações vamos fazer uma experiência muito legal (ou nem tanto).
+
+1- Tampe seus ouvidos com algo que não seja sua [[mão]] (essa nós usaremos para outra coisa)
+
+2- Coloque sua mão na garganta (ou pescoço, tanto faz)
+
+3- Diga "Eu sou um imbecil por estar fazendo isto" (sem rir)
+
+4- Sinta se ocorreu alguma vibração (é na garganta tá). Se ocorreu, é porque você está bem, então pára com essa idiotice e vai fazer alguma coisa útil. Se não ocorreu, é porque você está mudo e deve imediatamente gritar por socorro.
+
+[[Arquivo:Histérica.jpg|thumb|left|180px|Sua namorada histérica tentando fazer você gravar a voz dela]]
+Outra '''curiosidade''' essa bem mais interessante. Quando a sua [[namorada]] te liga e você pergunta quem é, ela já faz um escândalo danado falando que [[homem]] não presta, que você é um salafrário que não a ama e que por isso você não reconhece a [[voz]] dela, aí você já sabe onde isso termina (literalmente).Como ela não entende nada de física e você provavelmente também não, quanto mais brava ela fica, mais você se culpa (ou não). Enfim, que homem não presta todo mundo já está cansado de saber, mas nessa os homens estão corretos. E para as minas chiliquentas saiba que nem seu namorado e nem ninguém é obrigado a reconhecer a sua voz, simplesmente porque o [[telefone]] limita as frequências da parte aguda do som de tal modo que qualquer voz feminina, principalmente se for muito aguda, fica quase irreconhecível.
+
+== Supersônicos ==
+[[Arquivo:Sonicsom.jpg|thumb|left|160px|O Super <s>Sonic</s> Sônico atravessando a barreira do som]]
+
+
+Supersônicos são os objetos <s>e pessoas</s> que ultrapassam a barreira do som em matéria de velocidade. No momento em que se está ultrapassando a barreira do som, se forma em volta do "supersônico" uma nuvem branca infernalmente barulhenta. Quero dizer, quando você ultrapassar essa barreira você vai ouvir um barulho insuportável para avisar que você ultrapassou, paradoxal, não? No caso dos aviões supersônicos, só o barulho do motor já é infernal, imagine o resto dos ruídos então...
+
+Além dos supersônicos temos os Hipersônicos, que ultrapassam em mais de 5 vezes a velocidade do som, esses sem dúvida também querem alcançar a velocidade da luz (mas não vão conseguir, porque a luz é [[ninja]] e portanto inalcançável).
+
+== O Som e a Música ==
+[[Arquivo:Restarlixo.jpg|thumb|right|300px|Restart, a parte da música que não dá nem pra reciclar]]
+
+Querendo nós ou não, a [[música]] e o som tem relações muito estreitas, afinal a música é uma combinação de sons.
+
+{{c|Isso significa que o som é o culpado por hoje ouvirmos [[Cine]] e [[Fiuk]]?| [[Você]]| a afirmação acima}}
+
+{{c|Significa| [[Ronnie Von]]. Essa nem precisa relacionar...}} 
+
+Mas na verdade não seria justo atribuirmos ao som apenas as porcarias que chamam de música, tudo que existe nesse mundo musicalmente falando deve ser atribuído ao som, tanto o que é bom quanto o que não é tão bom assim... Como quem está escrevendo o artigo sou eu, eu decidi que vamos apenas ver o que vale a pena, o resto, vai pro lixo.
+
+Do que realmente vale a pena e devemos agradecer ao som se destacam alguns estilos como:
+[[Arquivo:Jazzsom.jpg|thumb|right|200px|Algo decente]]
+
+* [[Rock]] (de verdade) Porque eu gosto
+
+* [[Blues]] e [[Jazz]] Por vários motivos, primeiro porque foram um dos primeiros estilos a surgir e depois por serem os precursores do Rock
+
+* [[MPB]] Porque tem uma construção muito rica musicalmente falando e principalmente por sempre retratarem a realidade de nosso país de uma forma inteligente.
+
+* Eu diria "Música Clássica ou Erudita", mas esse é um gosto muito particular meu, eu sei que esse tipo de música é uma chatice, dá um sono danado e que portanto a maioria deve odiar; Mas eu gosto e ninguém nada com isso.
+
+Finalizando, se o seu estilo preferido não se inclui dentre estes o problema é seu, não estou nem aí se você gosta de [[RBD]], eu não vou encher meu artigo de porcarias por sua causa!
+
+[[Categoria:Ondas]]
+[[Categoria:Som|*]]
+
+[[zh-tw:聲音]]

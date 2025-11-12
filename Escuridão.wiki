@@ -1,0 +1,90 @@
+{{logotipo_falso|Desciclo prussian.png|160|top=120|left=190}}
+<css> A:background {color: black} A:link { color: gray;} A:visited {font-weight:bold; color: purple;} A:hover { font-weight: bold; color: gray; text-decoration: underline; } * #content { background : black; } 
+h1 { color: gray; background-color: black !important; }
+BODY { background: black }
+div.pBody { background: black }
+#bodyContent {
+background-color: #000000;
+color: #aaaaaa;
+}
+</css>
+{{Sonífero}}
+{{Trevas}}
+{{Negro}}
+
+{{Você quis dizer|Ausência de luz|escuridão}}
+{{Experimente também|Preto}}
+{{c|Escuridão não existe.|Wikipédia|escuridão}}
+{{c|Impressão minha ou está tudo escuro?|Ray Charles|escuridão}}
+{{c|[[Nigga stole my bike]]...|Cara que não conseguiu ver por causa da escuridão}}
+{{c|Ah não, tudo ficou #000000, morri!|[[Nerd]] em [[html]] que acabou de pedalar no [[Ragnarok]].}}
+
+'''Escuro''' é uma das forças vitais do [[Universo]]. É uma [[propriedade]] ([[um]] dos [[10]] elementos dos quais [[4]], Jesus controlava) que é atribuída a um [[espaço]] que indica que aquele canto da sua sala está sem [[luz visível]]. O que não significa que não exista [[luz invisível]] por ali.
+[[Arquivo:pe3bc.jpg|thumb|right|A importância de se sorrir no escuro]]
+
+== <font color="white">"Explicação" "convencional"</font> ==
+[[Arquivo:Stuck-pixel.jpg|thumb|left|200px|Exemplo de pixel que pegou câncer]]
+Quando um [[fóton]], um [[Bosta|bóston]] ou um lápis apontado atingem seu olho, seu cérebro responde criando uma imagem com luz. Isso é estranho, complicado e pode não fazer sentido algum, mas '''parece''' que é verdade. Se você quiser entender '''não''' leia os artigos indicados no final deste artigo. O importante, é que quando o [[Bozo|bózom]] não atinge o seu olho, aquele ponto do olho que não recebeu luz, vai ficar '''[[Preto|afrodescendente]]''' até que um bózom atinja-o. Como um bózom não faz diferença, você <s>não</s> sentirá diferença. Se houvessem vários pontos juntos sem bózoms atingindo, você veria um ponto mínimo da imagem mais escura. Se não houver bózoms atingindo seu olho em uma parte, nessa parte você verá a '''escuridão''' (ou pretitude).
+
+Você pode tentar entender melhor isso, com a simplificação de uma televisão da xuxa. Quando acontece o maldito erro <s>da tela azul</s> do pixel perdido, normalmente um pontinho mínimo da tela (pixel) fica moreno. Isso só escurece um pouco a tela. Com o seu olho acontece a mesma coisa só que o pixel do seu olho mede menos que um cuzinho, deve medir no máximo uns 1.000 nanômetros, isso é muita pouca coisa!
+
+Se você só vê [[branco]] ou [[preto]] quando o fóton bate no seu olho, como você vê colorido? Bom, basicamente, o Branco é a mistura de todas as cores da [[luz visível]] e o preto é a escuridão ([[porra nenhuma]]) ou [[luz invisível]]. [[Racismo|Na sociedade o mesmo acontece]]. Então as cores separadas devem ser [[restart|coloridas]]. Um objeto é colorido quando ele absorve todas as cores menos a cor que você esta vendo, porque ela é <s>refletida</s> teletransportada para seu olho que a vê (ou não). Sim, tudo no mundo que não é branco é [[absorvente]].
+
+Agora perceba, as [[preto|coisas pretas]] são aquelas que absorvem toda a luz e seu dinheiro, e como você não está vendo nada, você se fode.
+
+{{c|EI, PARA DE ROUBAR MINHA LUZ TEU PRETO|Hitler|vendedor de bala do sinal}}
+
+O que Hitler não sabia é que conforme a coisa absorve luz ela vibra, produzindo <s>prazer</s> [[calor]]. Então quanto mais preto é você ou seu carro, mais você [[suor|sua]].
+
+==<font color="white">A Teoria do Escuro</font>==
+[[Arquivo:Buraco-negro-distorcido.jpg|thumb|right|Além dos Sugadores de Escuro, existem também os Sugadores de Luz (erroneamente chamados de buracos negros).]]
+Por anos, tem se acreditado que lâmpadas elétricas emitem luz. Porém, recentes informações provaram o contrário. Chamamos hoje as lâmpadas elétricas de "Sugadores de Escuro" (S.E.). A teoria de Sugadores de Escuro prova a existência do Escuro, que este possui massa, é mais poderoso e pesado que a luz e, ainda, que o Escuro é mais rápido do que a luz!
+
+A base da Teoria do Escuro é a seguinte: lâmpadas elétricas sugam o escuro.
+
+Pegue, por exemplo, o S.E. que há em seu quarto. Há muito menos Escuro perto dele do que em outras partes do ambiente. Maior o Sugador de Escuro, maior sua capacidade de sugar. Sugadores de um estacionamento, por exemplo, tem capacidade muito maior do que o de um quarto.
+
+Bem, como todas as coisas, S.E.'s não vivem para sempre... Uma vez cheios de escuro, eles não mais podem Sugar (Isto é provado pela mancha preta que aparece em um Sugador cheio). Uma vela é um Sugador primitivo. Uma vela nova tem um pavio branco. Você notará que depois do primeiro uso, o pavio se tornará preto, representando todo o escuro que foi sugado para ele. Perceba que se você segurar um lápis para perto do pavio de uma vela em operação, uma parte ficará preta devido a ele ter ficado no caminho do fluxo de Escuro para dentro da vela. Infelizmente, estes primitivos Sugadores de Escuro tem capacidade muito limitada.
+
+Existem também S.E. portáteis. As lâmpadas destes não podem suportar todo o escuro por elas próprias, necessitam de uma B.A.T.E.R.I.A (Base de Armazenamento Total de Escuro por Raios Internamente Absorvidos). Quando a unidade está cheia, a capacidade diminui e é necessário esvaziá-la (erroneamente conhecido como recarregar) ou substituí-la para que o equipamento possa voltar ao funcionamento.
+
+===<font color="white">O escuro tem massa</font>===
+
+Quando o escuro entra no S.E., a fricção com este gera calor. Portanto, não é aconselhável tocar um Sugador em operação. Velas representam um problema especial visto que o Escuro necessita se deslocar para dentro de um pavio sólido, ao invés de um vidro transparente. Isto gera grande quantidade de calor. Pode ser muito perigoso tocar uma vela em operação.
+
+O Escuro é também mais pesado que a luz: se você nada sobre a superfície de um lago, você vê muita luz. Agora, ao passo que você vai descendo e descendo, você percebe que lentamente vai ficando mais e mais escuro. Numa certa profundidade, a escuridão será quase total. Este fato ocorre devido ao Escuro (mais pesado) ir ao fundo enquanto a luz (mais leve) flutua para a superfície. O imenso poder do escuro pode ser usado para o bem do homem. Podemos coletar o escuro que submergiu no fundo de rios e lagos e empurrá-lo, junto com a água, para turbinas, as quais podem gerar eletricidade para novamente ligar Sugadores de Escuro pela cidade (Escuro atrai Escuro). Em um rio, uma canoa navegando a favor do fluxo de Escuro, deve-se remar lentamente, para não atrapalhar este fluxo. Mas, quando navegar contra o fluxo, deve se remar rapidamente para ajudar a empurrar o Escuro ao longo de seu caminho.
+
+Finalmente, precisamos provar que o Escuro é mais rápido que a luz. Se você permanecer em um quarto iluminado em frente a porta de um armário fechado e escuro e vagarosamente abrir a porta, você verá que a luz entra lentamente pelo armário. Mas, como o escuro é tão rápido, você não é capaz de ver este '''sair do armário'''.
+
+Concluindo, gostaria de dizer que S.E.'s fazem tudo para que nossas vidas sejam mais fáceis. Portanto, da próxima vez que você olhar para uma lâmpada elétrica, lembre-se de que é, de fato, um Sugador de Escuro!
+
+== <font color="white">Cultura</font> ==
+[[Arquivo:Escalaescuridao.png|thumb|Conforme anoitece, assaltantes e bêbados vão ficando invisíveis|right|300px]]
+Você sabia que na escuridão os pretos ficam invisíveis? A ausência de luz, ou pretonificação, é desde os tempos remotos que nós ainda éramos [[Tony Ramos|macacos peludos]] um símbolo de coisa ruim. Talvez porque de noite seja a hora que os mosquitos te picam ou simplesmente porque a luz é uma das coisas fundamentais para a vida, quando [[Apagão|ela fica em falta]] a morte sai pra foder com a gente. Então, tudo de ruim (menos eleição e atentado terrorista) ocorre de noite.
+
+Você tem a tendência de ficar com medo das coisas no escuro porque você não consegue enxergar "[[Preto|coisas escuras]]" que são normalmente as "coisas" que querem te matar, te roubar ou te transformar numa minhoca, a não ser que você seja escuro, aí você fica com medo de chicotes, fantasmas e cotas na universidade.
+
+=== <font color="white">Coisas ruins que rolam na escuridão</font> ===
+* Mortes
+* Assassinatos (a diferença entre as duas só é perceptível na escuridão)
+* Aparecimento de espíritos
+* Rezar
+* Bêbados voltando do bar
+* Sinal vermelho que multa '''VOCÊ'''
+* Pesadelos sobre [[SBT|filmes de terror]]
+* Programas de ''[[Nerd|nerds]]'' gordos com mais de 45 anos procurando por ''aliens''.
+* Aparições do ''[[ET Bilu]]''
+
+== <font color="white">Leitura recomendada</font> ==
+* [[Bozo|Bózom]]
+* [[Fóton]]
+* [[Luz]]
+* [[Olho]]
+* [[Luz visível]]
+* [[Grande Escuridão]]
+
+{{mal}}
+
+[[en:Dark]]
+[[ja:漆黒みたいな闇‎]]
+[[ko:칠흑 같은 어둠]]

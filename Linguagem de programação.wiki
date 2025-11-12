@@ -1,0 +1,60 @@
+{{C|Você tem sentimentos? Você sente dor?.|Alan Turin|Teste de Turing}}
+
+{{C|Das ist ein Idioten! |Konrad Zuse|Plankalkul}}
+
+{{C|Ah!! Uma Barata! |Grace Cooper reportando o primeiro bug}}
+
+== Origens e Motivações ==
+
+Depois que inventaram o [[computador]] , perceberam que ele não servia prá nadá, digo, para nada. Durante milhares de anos o computador ficou relegado a segundo plano e apenas calculadoras eram usadas! Mas um tecelão francês chamado [[Jacquard]] criou o primeiro programa para suas máquinas de fiar. Com inveja, Blaise Pascal inventou a linguagem [[Pascal]] para jovens com retardamento mental. Naquela época os computadores ainda eram muito rudimentares e não foi possível utilizar de forma satisfatória todos os recursos das Linguagens de Programação. Muito tempo depois [[Charles Babbage]] criou a máquina Diferencial prá fazer subtrações e a máquina Somatorial para fazer somas... como dava um trabalho <s>do caralho</s> muito duro construir máquinas para cada uma das operações, ele pediu à sua <s>amante</s> assistente Lady [[Ada]] Lovelace prá resolver essa porra e foi dormir. Ada então criou a Linguagem de Programação Ada, muito utilizada na Guerra do Golfo pelos Militares Americanos.
+[[Arquivo:Img 0422.gif|thumb|Babagge e sua máquina diferencial]]
+
+== Teoria ==
+
+A ideia principal de uma Linguagem de Programação é a complicação. Quanto mais complicada melhor! Para isso um grupo de estudos foi formado para regulamentar a complicação adjacente a uma LP. O grupo seria chamado de GPCL ( ou Grupo Para Complicar a Linguagem) mas resolveram chamar de W3C pois era mais complicado.
+O importante seria o uso de símbolos estranhos, pois isso facilitaria muito a writability de um programa e às favas com a readability! Achou complicado? Era essa intenção...ADA FOI A QUE CRIOU A LINGUAGEM.
+
+== Compilada ou Interpretada ==
+
+A primeira decisão de um projeto de L.P. é saber se ela será Compilada ou Interpretada. Consultamos o célebre Teórico de Linguagens de Programação o sr. Sebesta que nos explicou "Uma LP compilada precisa de um Compilador, enquanto que uma LP Interpretada precisa de um Interpretador..."
+
+A nomeclatura compilada surgiu pela performance vemos uma grande diferença, visto que liguagem compilada é mais rápida pois parte-se do princípio que a linguagem está pilhada (toxicos) por tanto tem suas origens de compilhada.
+
+Já a linguagem interpretada tem a origem de seu nome atribuída a parte dela ter sido desenvolvida por africanos torcedores do internacionale de Millao.
+
+== Konrad Suze e a sua PlanKalkull ==
+
+Em 1937 Konrad Suze inventou a mais completa Linguagem de Programação que já existiu. Contava com estruturas de dados avançadas, com suporte a rede, garbagge collector, era funcional, lógica e Orientada a Objetos, sem deixar de ser imperativa. Tinha tipagem forte e dinâmica, suporte para objetos gráficos e uma ampla coleção de API's ou módulos prontos para serem usados. Suze levou muito tempo bolando sua LP e escreveu diversos manuscritos que escondeu perto do Mar Morto. Só faltava um detalhe para ele ser o maior gênio da história da humanidade: um computador... Mas ele não se entregou e construiu no porão de sua casa um avaçado sistema de 64 bits, com HD de 6 terabytes e uma memória RAM de 60 gigabytes... Mas quando estava terminando o protótipo do seu monitor LCD, bombas aliadas destruiram o seu porão e quase nada pôde ser salvo... Só em 1973 uma equipe de cientists fez a descoberta dos manuscritos do Mar Morto. Suze ainda desenvolveu uma grande quantidade de simulações para a II Guerra mundial. Se Hitler tivesse usado suas táticas, certamente teria vencido a guerra!
+
+Para se ter uma ideia da potência do artefato linguístico de Konrad, aqui vai um exemplo:
+
+:''Exemplo:''<b>
+<p>Program "Munden Dominatenem für einen kleinen timenem"</p>
+<p>beginen</p> 
+: usen modulen (reich victorien.suz) 
+: destroienen_das_alieden_forces_und_panzer() 
+: exterminen_das_judish_und_emos() 
+: Victorien!(Heil Hitler) 
+<p>endenen</p>
+
+
+
+
+</b>
+Konrad morreu justamente quando estava escrevendo um programa em sua linguagem superpoderosa que iria resolver todos os problemas do mundo, inclusive o da fome e o do rebaixamento do Corinthians.
+
+
+== Ver também ==
+
+*[[ABAP]]
+*[[ABNT]]
+
+[[Categoria:Linguagens de programação]]
+
+[[bar:Programmiersprache]]
+[[de:Programmiersprache]]
+[[it:Linguaggi di programmazione]]
+[[ja:プログラミング言語]]
+[[nds:Programmiersprache]]
+[[pl:Język programowania]]
+[[zh-tw:程式語言]]

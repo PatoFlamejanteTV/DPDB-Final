@@ -1,0 +1,45 @@
+{{Box Pokémon
+|cor          = lime
+|nome         = Aaron
+|color        = Black
+|imagem       = [[Arquivo:AaronPokémon.png]]
+|ocupação     = Ex-caçador de insetos fracassado <br>Ex-líder de ginásio <br>Atual Elite 4 de Sinnoh
+|cidade natal = [[Manaus]]
+|região       = Sinnoh
+|idade        = 20, acho
+|nível de habilidade = {{099}}, ganhar a Liga Pokémon só com verme insolente no time é pra poucos
+|principal pokémon = [[Drapion]], o [[Fallout|radscorpion]] com braços na boca
+|parentes     = Um [[Wurmple]] e um [[Caterpie]] que o adotaram
+|sonho        = Vencer a Cynthia com somente pokémons insetos (nunca conseguiu, e nem vai)
+|citar        = {{C|Quero ver você desprezar os insetos agora, arrombado}}
+}}
+'''Aaron''' é um membro da [[Elite 4]] de [[Sinnoh]] em [[Pokémon]], e o primeiro treinador que chegou a algum lugar usando apenas pokémons inseto. Ele ainda é o mais fraco entre os membros da Elite 4, mas considerando que só usa pokémon bostinha, não dá pra querer muito, ele foi longe demais até.
+
+==História==
+[[Arquivo:304Aron.png|thumb|left|150px|Não é desse Aaron que estamos falando.]]
+[[Arquivo:Aaroninseto.jpg|thumb|250px|Vencer a Liga Pokémon com pokémon forte é fácil, quero ver vencer com isso aí, só sendo um treinador muito bom mesmo.]]
+Aaron era como aqueles caçadores de insetos chatos pra caralho, que ficam nas rotas iniciais desafiando qualquer treinador que passa, usando suas montanhas de [[Caterpie]]s e [[Wurmple]]s recém capturados e fracotes de lvl. 3 que morrem com um golpe. A maioria desses perdedores acaba desistindo de ser um caçador de insetos quando completa uma certa idade, pois entende que isso é coisa de fracassado e de eterno [[virgem]], e Aaron até pensou nisso, após levar nabo inúmeras vezes com seu Wurmple que nunca vencia uma única batalha. Mas após abandonar o bichinho e repensar em seus momentos como caçador de insetos, ele perseverou e tornou-se um veterano nas caçadas, conseguindo capturar alguns insetos menos piores, como [[Beedrill]]s e [[Aedes Aegypti]]s, que com suas picaduras que causam uma série de alterações de status (sono/paralisia/envenenamento) conseguiam derrubar até o maior dos pokémons, assim prometendo um futuro próspero para Aaron.
+
+Fazendo uso apenas de insetos, Aaron aventurou-se por Sinnoh, e por incrível que pareça, conseguiu derrotar todos os líderes de ginásio, conquistando o direito de participar da [[Liga Pokémon]]. Apenas isso é um feito incrível, considerando que pokémons insetos são descartados por qualquer treinador sério, sendo usados no máximo pra tapar buraco na equipe. Mas Aaron foi além, usando uma equipe com [[Dustox]], [[Vespiquen]], [[Heracross]], [[Drapion]] e [[Churrumino]], ele venceu a Liga Pokémon, conquistou a coroa e foi considerado um dos mais fortes treinadores da região. 
+
+Notando que um treinador de insetos conseguir vencer uma Liga Pokémon é que nem o despertar do [[Jirachi]], só acontece a cada 1000 anos, [[Lucian (Pokémon)|Lucian]] convidou Aaron para integrar a Elite 4, convite prontamente aceito. Agora, quando não está humilhando treinador amador que vai desafiar a Elite 4 e nem leva antídotos e curas pra todo tipo de alteração de status, Aaron dedica-se a criar um monte de pokémons inseto  em uma chácara que comprou com seu salário de Elite 4, a tentar capturar [[Buzzwole]] e [[Pheromosa]] (os únicos insetos que realmente prestam) e treina para derrotar [[Cynthia (Pokémon)|Cynthia]] e se tornar o novo campeão regional, algo que nunca acontecerá, já que na primeira batalha entre eles, Cynthia não precisou usar mais do que o seu [[Garchomp]] para esmagar aquele monte de [[verme insolente]]. 
+
+==Pokémons do Aaron==
+
+[[Arquivo:DrapionSprite.gif]] {{c|[[Drapion]]: O escorpiãozão radioativo que abandona o tipo inseto ao evoluir, mas mesmo assim o Aaron usa <s>pra tapar buraco na equipe</s>}}
+
+[[Arquivo:Heragif.gif]] {{c|[[Heracross]]: O besouro bodybuilder, especialista em derrubar as árvores do [[Parque Ibirapuera]] com seu chifre}}
+
+[[Arquivo:DustoxSprite.gif]] {{c|[[Dustox]]: A mariposa do demônio}}
+
+[[Arquivo:BeautiflySprite.gif]] {{c|[[Beautifly]]: A borboletinha [[gay]]}}
+
+[[Arquivo:Vespiquen2.png]] {{c|[[Vespiquen]]: A mãe do [[Beedrill]]}}
+
+[[Arquivo:YanmegaSprite.gif]] {{c|[[Yanmega]]: O [[Salamence]] versão inseto}}
+
+[[Arquivo:ScizorSprite.gif]] {{c|[[Scizor]]: O único inseto que os [[noob]]s gostam}}
+
+{{Pokémon}}
+
+[[Categoria:Personagens de Pokémon]]

@@ -1,0 +1,32 @@
+{{Microsoft}}
+
+{{c|Oh NÂOOOOOOOOO! APARECEU AQUELA MERDA AQUI!!!!|Você contando ao seu amiguinho no MSN|a Windows Genuine Advantage (tão preocupado que até trocou o til pelo acento)}}
+
+A '''ferramenta de validação de vantagens de software original''' da Microsoft é uma incrível façanha da mesma em busca de acabar com as distribuições piratas do Windows espalhadas por ai e que hoje somam cerca de 99,8% dos Windows instalados nos computadores, o que inclui os servidores da [[Desciclopédia]] e os servidores da Microsoft Brasil.
+
+Afinal de contas, nem a Microsoft do Brasil tem tanto dinheiro assim pra remeter pros [[Estados Unidos]] assim. [[Fofoca|Fontes]] de informação confiáveis indicam que o crack dessa ferramenta foi criado pela Microsoft do Brasil e vazou por [[sacanagem|acidente]] na internet.
+
+==Afinal, o que essa porra de ferramenta faz?==
+[[Arquivo:pirataria resultado.jpg|thumb|O que acontece com aqueles que insistem em usar uma cópia pirata do Windows]]
+[[Arquivo:Primeiro Sinal do WGA no Windows 7.PNG|thumb|200px|Primeiro sinal do WGA no [[Windows 7]].]]
+Ela verifica seu sistema para ver se ele é original ou não e se for pirata ela <del>fode</del> bloqueia seu windows para que não receba atualizações automaticas (BUGS automaticos)e deixa a sua area de trabalho preta. Embora eles afirmem que seja um processo bem complexo para avaliar se o Windows é original ou não, é na verdade bem simples, é só ver o fabricante do computador. Se não for [[Dell]], [[HP]], [[Acer]], [[Asus]] ou outras dessas grandes marcas, então é certeza que o Windows é falso. Afinal quem compraria Windows original se não fosse essas empresas grandes enviarem ele junto?
+
+Você compraria o Windows Original se a loja do Zê da esquina lhe oferecesse por um computador e opa, com Windows fica 300 reais mais caro, 300 reais dá pra por mais memoria?! Manda com mais memoria e com Windows Pirata mesmo, hehehe.
+
+==O que acontece se meu Windows não for original?==
+<s>A ferramenta avisa amigavelmente que você deve comprar o Windows original da Microsoft</s> Você é notificado oficialmente por um agente da Microsoft por crime contra a indústria fonográfica (vixe! Descobriram seus mp3 piratas também!) e deve a obter uma cópia legal do Windows de imediato.
+
+Não adianta falar que você foi enganado pelo vendedor do computador. Eles colocam aquele aviso do tipo "você pode ter sido vitima de falsificação de software", mas eles sabem bem que você não foi vitima [[porra nenhuma]], eles sabem que você é safado que quer baixar as [[Windows Update|atualizações]] de graça sem comprar o Windows Original. Um safado que não tem pena do tio Bill que ajuda as crianças carentes.
+
+<YouTube>
+title=Microsoft-Enfia essa estrelinha no seu cú!!
+movie_url=http://www.youtube.com/v/ngJG1e522hE
+embed_source_url=http://www.youtube.com/v/ngJG1e522hE
+wrap=no 
+width=480
+height=390
+</YouTube>
+
+[[en:Windows Genuine Advantage]]
+[[Categoria:Informática]]
+[[Categoria:Aplicativos do Windows|genuineadvantage]]

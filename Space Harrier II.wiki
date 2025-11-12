@@ -1,0 +1,45 @@
+{{game}}
+{{Infobox Game|title = {{c|Supazu Hariria Tsu!}}
+|image               = SpaceHarrier2.jpg
+|caption             = Mais aventuras, mas mais apelação...
+|developer           = [[Sega|<font color=blue>CEEEEEGAAAAA!</font>]]
+|released            = [[1988]]
+|genre               = {{SHT}}
+|rating              = 0%
+|platform            = [[Mega Drive|<font color=red>Mega</font> <font color=green>Douraibu</font>]]
+|ages                = Livre
+}}
+
+{{vqd|Space Harrier 3}}
+{{vqd|Space Harrier 3D 2?}}
+
+'''[[Space Harrier]] [[2|II]]''' é o primeiro game no console de 16-bits da [[Sega|<font color=blue>CEEEEEGAAAAA!</font>]] chamado [[Mega Drive|<font color=red>Mega</font> <font color=green>Douraibu</font>]].
+
+==O game==
+
+A história é aquela mesma desde o original e desde o 3-D: Fantasy Land (algumas vezes, [[Fantasy Zone|Pim Pim Pim]]) é atacada pela enésima vez por forças do mal. Daí, cabe a Harrier salvar Fantasy Land pela terceira vez. Bem, nada como uma desculpa esfarrapada de conversão, já que o MD não tinha poder suficiente pra fazer com que o game virasse igual ao de Arcade (mas bota o [[32x]] nele!). Você pode ver que até as estruturas das fases como as posições dos objetos são as mesmas. Mas, contém 12 fases, ao invés de 16 na de Arcade (13, sendo que a ultima é [[Boss Rush]]). Bem, você tem que fazer a mesma coisa, porém, agora você pode escapar mais lento, como tudo na época (primeiro game é assim...). A única coisa que movia ultramente rápida, era o chão.
+
+==Fases==
+
+* Stuna Area: Aonde tudo começa, incluíndo um chefe que plágia o primeiro da versão de Arcade;
+* Fors Yard: Tem introdução aos pilares e a uns outros baguio que são indestrútiveis;
+* Yees Land: Começa a aparecer o chão de cabeça pra baixo;
+* Zero Polis: Aparece os '''Dom'''s, robôs como aqueles da tela-título da versão de Arcade;
+* Copper Hill: Montanhas e mais montanhas...;
+* Fallpyram: Introduz as pedras plágiantes dos Moais;
+* Craddha: Pilar é o que não falta;
+* Monark: Enemy Rush!;
+* Outer Space: Bonus Stage, aonde você pode ganhar [[1-Up|vidas]];
+* Felcold: Cheio de siris;
+* Hope City: Haiyamadoreeeeeeeeee! Incluí '''Dom'''s invencíveis!;
+* Hell Peak: Mais plágios dos Moai;
+* Hot Palace: O inferno em Fantasy Land;
+* Final Chapter: Boss Rush. Após derrotar todos, vem o chefão!
+
+{{Fantasy Zone}}
+{{Third-person shooter}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos para Nintendo Switch Online]]
+[[Categoria:Jogos lançados em 1988]]

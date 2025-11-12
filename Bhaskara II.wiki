@@ -1,0 +1,55 @@
+{{matemática}}
+
+[[Arquivo:Mhascara.jpg|thumb|185px|Filme sobre a vida de Bhaskara, com [[Jim Carrey]].]]
+{{C|Matemático que viveu(...) criou a fabulosa fórmula(...).|Nerd|Bhaskara}}
+{{C|X<nowiki>=</nowiki>b²-4ac.|Aluno do 9º ano em recuperação|Bhaskara}}
+{{C|FDP.|Você|Bhascara}}
+{{C|Um dia você aprende| [[Shakespeare]]| a formula de Bhaskara}}
+
+
+:'''Bhaskara''' foi um <S>[[FDP]]</s> matemático indiano que nasceu no mesmo ano que fórmula, ou seja, ano desconhecido.Porém ao contrário de sua fórmula ele morreu em 1185, sua fórmula permanece viva até hoje, aliás, de acordo com pesquisas, é a segunda coisa que mais reprova alunos desde o 8º ano até as universidades, atrás somente das provas onde há exercícios em que se aplicam a famosa [[Fórmula de Bhaskara]].
+
+== História ==
+
+===Início===
+
+<S>Máscara</s> '''Bhaskara''' nasceu em [[Vijayapura]], [[Índia]] em data desconhecida e em 1115 completou um ano de idade. Bhaskara sempre foi um <s>cuzão do caralho</s> grande amigo e desde criança mostrou um [[conhecimento]] acima de <s>[[você]]</s> todos que o rodeavam. Ele também é o viado que fez você perder 3 anos da sua vida inútil vendo aulas de matematica ao invés de doar uma graninha para o Dr. Roberto.
+
+===Adolescência===
+
+[[Arquivo:Asadeltabhaskara.jpg|thumb|200px|Invenção de Bhaskara]]
+Bhaskara sempre voltou-se para [[exatas]], mais especificamente [[matemática]], após estudar muitos anos em escolas nobres <s>não</s> foi aprofundar seus estudos e dessa maneira, descobriu algo inusitado: um tecido muito leve, porém muito [[resistente]], era muito usado nas manufaturas, porém Bhaskara foi o primeiro a usá-lo como espécie de [[para-quedas]]: era o [[Algodão]].
+
+===Descoberta===
+
+:Foi na Índia que Bhaskara descobriu a grandiosidade do [[Algodão| algodão]]. Bhaskara esta com uma faixa grande do tecido nas montanhas da <S>China</s> Índia quando um bando de homens, que eram seus inimigos, o cercaram, Bhaskara não pensou duas vezes e saltou da montanha com a faixa enorme de algodão e rezando muito para [[Newton]] que atendeu suas preces: Bhaskara estava voando.
+:Com os olhos brilhando <S>que nem o de uma bixa</s>, Bhaskara não conseguia acreditar na sua descoberta, mas só após de outras tentativas mal sucedidas, Bhaskara concluiu que só havia conseguido voar porque o tecido estava em forma de Delta, ou seja, triângulo.
+:Após a descoberta, Bhaskara ainda não sabia como fazer para calcular a quantidade de pano que deveria usar para sustentar seu peso ou o de outra pessoa, até 30 anos depois.
+
+==A Fórmula==
+[[Arquivo:Trii2.jpg|thumb|Descoberta incrível de Bhaskara, onde descobriu o ponto de dependência centra dos pontos crítcos das asas e a independência do ponto C. ]]
+
+:Após 30<S>[[0]]</s> anos sem dormir e fazendo vários estudos, Bhaskara descobriu algo muito importante que no futuro iria te reprovar na escola, A [[Fórmula de Bhaskara]].
+:Antes de fazer a fórmula, Bhaskara descobriu que a asa da esquerda (ou A) sustentava a asa no ar com dependência de um ponto o '''X''', apósmais alguns anos de estudo descobriu que a asa da direita (ou B) era responsável pela sustentação do peso no ar, assim como a sustentabilidade da asa no ar também era influenciada pela asa B; as duas asas (A e B) se influenciavam em dois pontos: o ponto '''X''' que ficava no centro do Delta, e o ponto '''Y''' que ficava no [[vértice]] dos dois pontos A e B, a descoberta fascinou Bhaskara.
+:Apesar de tudo ainda faltava a ponta, ela não tinha sentido para Bhaskara, porém era essencial para fazer a Delta voar, foi então que Bhaskara percebeu que essa tinha função de proteção da asa, ou seja, de quebrar o vento para a aerodinâmica da asa. Apesar do ponto C estar intimamente dependente dos pontos A e B, era indiretamente, pois as linhas C se ligavam pelos vértices e não pelo centro, o ponto '''X'''.
+
+===A Dependência===
+*O ponto C é o único que não se liga diretamente aos pontos '''X''' e '''Y'''.
+*O ponto A '''Nunca''' será igual a zero, não na Terra.
+*O ponto B será 0 quando não houver corpo dentro da [[Asa Delta]].
+*O ponto '''X''' é ligado diretamente pelos pontos A e B, mas nunca pelo ponto C.
+*O ponto '''Y''' é o ponto de alicerce, ou seja, sem ele nunca haveria voo, porém ele sempre será igualado a 0.
+
+:No início Bhaskara acho que os pontos A e B estavam simetricamente ligados ao ponto '''X''', mas seus cálculos nunca funcionavam na prática, formando a seguinte função y=Ax+Bx+C, formando uma função simples, do 1º grau <S>de dificuldade</s>.Bhaskara descobriu mais tarde que era o quadrado de força necessária para manter a Asa Delta no ar do que para manter o seu peso no equipamento, então Y=Ax²+Bx+C, uma função do 2º grau <S> de dificuldade</s> jamais vista anteriormente <S>no artigo</s>.
+:Ao descobrir isso outro desafio lhe foi lançado: Como resolver a equação?Bhaskara queria o valor de '''x''', onde '''x''' indicaria um valor exato dos 3 pontos indispensáveis para a construção e sustentabilidade da asa.
+
+===A Solução===
+:Depois de perder a [[virgindade]],Bhaskara dedicou-se a fórmula e após 8 anos encontrou a solução esperada, após brincar de ser um deus, Bhaskara achou <S>a porra de</s> um Delta no meio do nada, porém esse cálculo deu certo e esse foi X=-B+ou-¬delta/2A onde delta=B²-4AC, na verdade Bhaskara não escreveu delta e sim B²-4AC, foi o seu professorzinho que resolveu facilitar as coisas para você poder achar com mais facilidade o '''y''' do vértice no gráfico (ou plano cartesiano).
+
+==Hoje==
+
+:Hoje o modelo de Bhaskara é o mais confiável e usado por cientistas do mundo todo na fabricação de Asas Delta e usada também por muitos professores para deixarem alunos como [[Você]] em recuperação, ou até te reprovarem!
+:Quando o Delta da 0 é porque as duas asas têm valores iguais de força e quando dá negativo e porque você ERROU!REFAÇA!Lembre: O exercício é feito para dar CERTO!
+:Lembrem-se que Bhaskara não morreu virgem, mas vai te deixar se você não decorar a fórmula dele.
+
+[[Categoria:Matemáticos da Índia]]

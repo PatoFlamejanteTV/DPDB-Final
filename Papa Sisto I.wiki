@@ -1,0 +1,46 @@
+{{Info papa|
+|nome do papa     = Sisto I
+|imagem           = Papa_Sisto_I.jpg
+|ordem            = 7
+|nome             = Sixtus
+|data_nascimento  = [[42]]
+|local_nascimento = [[Terranova da Sibari]], [[Calábria]] {{Flag|Bandeira do Império Romano (27 a.C. – 476).PNG|Império Romano|Bandeira do Império Romano}}
+|inicio           = [[115]]
+|fim              = [[124]]
+|predecessor      = Alexandre I
+|sucessor         = Telésforo
+|data_morte       = [[6 de abril]] de 124
+|local_morte      = [[Roma]]
+|cargo            = Pastor (ou padre)
+}}
+
+'''Sisto I''' foi o 7º [[síndico]] do céu na [[Terra]], também chamado de Xisto, e que ao que parece virou padroeiro de duas cidades ao mesmo tempo de uma forma meio bizarra, já que ele aparentemente foi o primeiro caso da história de [[relíquia]] misteriosamente multiplicada, já que ambas cidades alegam ter o corpo do cara enterrado por lá. Enfim, cada um com suas viagens...
+
+== História == 
+
+Sisto era filho de um cara chamado [[Pastor]] (parecia já profetizando o que o cara viraria), da região de <s>[[vira-lata]]</s> [[Via Lata]]. Pouco tempo depois ele mesmo realmente virou pastor, mas não de ovelhas, óbvio, e aí algum tempo depois assumiria o cargo de bispo de Roma.
+
+Supostamente ele que trouxe três coisinhas que até hoje vigoram na [[Igreja Católica]] (supostamente porque aquele tal de ''[[Liber Pontificalis]]'' é meio cheio de papo furado):
+
+*Ninguém além dos [[presbítero]]s e ministros do culto podiam pôr a mão no [[cálice]] e na [[patena]], quem mais se atrevesse iria ficar sem mão na hora;
+*Todo [[bispo]] tinha que se consagrar à [[Santa Sé]] e ao voltar pra sua diocese tinha que levar pra lá uma [[carta de recomendação]] do próprio papa, senão iria dar merda e seria chamado de falsiê;
+*Tinha que se cantar uma música chamada [[Sanctus]] que ninguém entende porra nenhuma.
+
+Dizem as [[más línguas]] que Sisto I foi o primeiro papa que iria causar tretinha com o [[cristianismo oriental]], já que ele teria sido o primeiro a querer a todo custo impor ele como o dono da pocilga toda, e ver os orientais celebrando a [[Páscoa]], celebração até então só dos [[judeus]] e que ainda não tinha sido devidamente bem definida no resto da cristandade como devia e se devia ser celebrada. Por falta ainda de um [[coelhinho da páscoa]] pra fazer uns ovos de chocolate pros cristãos ficarem felizinhos, o Sisto não curtiu muito essa história e ali começaria a rinha que levaria séculos mais tarde ao [[Grande Cisma do Oriente]]. Tudo por conta de uma festinha, minha gente, parece esse povo que entra na casa dos outros que estão fazendo [[aniversário temático]] homenageando um candidato a presidente e mete pipoco no aniversariante...
+
+Sisto I supostamente foi morto a mando de [[Antonino Pio]] que de Pio não tinha porra nenhuma, e teria sido enterrado na região da futura [[Basílica de São Pedro]], mas aí as cidades de [[Alife]] e [[Alatri]], que sofriam de uma [[peste]] fodida, conseguiram obter as sagradas relíquias do corpo do papa, e aí ele virou o [[padroeiro]] das duas cidades por supostamente ter ajudado ambas a se curarem. A bosta é que até hoje as duas vivem tretando dizendo serem o lugar onde de fato enfiaram o corpo do danado e acusando a outra de ter enterrado um boneco de pano pra enganar os seus moradores.
+
+(Quando vê as duas fizeram isso e o povo do [[Vaticano]] só trollou as duas cidades...)
+
+{{caixa de sucessão
+|título=[[Arquivo:Bento_16_saudando.jpg|75px]]<br>[[Papa|Síndico de Deus]] nº 7|
+anos=[[115]] - [[124]]|
+antes=[[Papa Alexandre I|Alexandre I]]|
+depois=[[Papa Telésforo|Telésforo]]
+}}
+{{Papas}}
+
+[[Categoria:Condenados à pena de morte]]
+[[Categoria:Papas|Sisto01]]
+[[Categoria:Papas da Itália|Sisto01]]
+[[Categoria:Santos da Itália|Sisto01]]

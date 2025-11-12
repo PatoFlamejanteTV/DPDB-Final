@@ -1,0 +1,27 @@
+{{computeiro}}
+[[Arquivo:FTP suspeito.jpg|thumb|250px|Esse link não parece suspeito, acho que dá pra arriscar baixar esse arquivo executável]]
+O protocolo '''FTP''' ('''F'''uck '''T'''rans '''P'''rotocol - não confundir com o protocolo [[Filho da puta|FDP]]) é o responsável por transferência de arquivo na internet, por meio das portas 20 e 21 da camada de aplicação. 
+
+== Características ==
+
+Normalmente aquelas putarias encontradas em repositórios sinistros com letras cirílicas e [[propagandas de sites pornográficos|ads com velhas querendo sexo aí perto, na cidade]] usam esse protocolo FTP. 
+
+Na maioria das vezes precisa um usuário e senha, mas nesses sites para baixar programas crackeados, pornografia suspeita e outras coisas o usuário é "user" e a senha é "password", para facilitar o acesso do usuário, e poder transformá-lo num [[zumbi]] de uma [[botnet]]. Outras vezes nem precisa de login e senha, pra auxiliar ainda mais o usuário.
+
+No caso dos FTP que exijam usuário e senha com adição de criptografia eficiente, trata-se do SFTP ('''S'''uck and '''F'''uck '''T'''rans '''P'''rotocol), que é o FTP menos vulnerável.
+
+== Funcionamento ==
+
+No quesito "download de putarias ou jogos", o FTP se diferencia do [[HTTP]] pelo número de conexões necessárias para realizar o [[download]]. Pra isso que ele precisa das duas portas, 20 e 21, uma para o usuário alcançar o repositório, e outra para o repositório enviar o arquivo ao usuário, com uns [[vírus]] de brinde. 
+
+O FTP utiliza a arquitetura cliente-servidor persisnte. Isso significa que o usuário só precisa abrir a conexão uma vez, e assim pode baixar todas as fotografias ''fake'' da [[Larissa Manoela]] nua do site com nome estranho e aparência mais estranha ainda ftp://ftp666.russianhell.ru/malware. Nos sites de download em HTTP, só ocorre uma conexão, mas a chance de levar um [[Trojan|presente de grego]] é igual.
+
+== Ver também ==
+
+* [[HTTP]]
+* [[Trojan]]
+* [[Pirataria]]
+
+[[Categoria:Protocolos de rede]]
+[[Categoria:Coisas que deram merda]]
+[[Categoria:Siglas]]

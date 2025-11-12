@@ -1,0 +1,89 @@
+{{Fatos|Videogame}}
+{{vqd|Videogames de 2 bits}}
+{{c|Que gráficos lindos|[[Carla Peres]] sobre Primeira Geração de Consoles}}
+[[Arquivo:4625133419 d7ab328949.jpg|thumb|260px|Resumo dessa geração.]]
+A '''Primeira Geração de Consoles''' faz parte do prefácio da História dos [[videogame]]s, onde tem data em trocentos anos antes de cristo, mas passando para o [[Calendário gregoriano|calendário gregoriano]] isso dá uns 50 anos atrás. O [[pleonasmo|primeiro videogame creditado como primeiro videogame]] é [[Odyssey|Magnavox Odyssey]], conhecido como o [[redundância|primeiro console de videogame]] e como o nome indica ele é da [[AAA|Odisseia de Mafagafos Russos Exploradores de Novas Terras]], seu lançamento é incógnito, mas fanboys do console apostam ser em [[1972]].
+
+Durante [[1972]] e [[1977]], inúmeras empresas resolveram ganhar uma grana fazendo joguinhos, mas seus consoles nem mesmo saíram das lojas, então nem são lembrados e nem mesmo importantes para tal geração.
+
+==História==
+[[Arquivo:Arcademachinegray.jpg|thumb|left|Um <s>console</s> [[fliperama]], comum nos anos 70.]]
+Antes de existir toda essa palhaçada de [[console]], as chamadas feiras faziam a diversão de toda [[criança]] [[inocente]] e [[burro|burra]] dos anos 20 muito feliz, as feiras eram postas em [[parque]]s onde além dos brinquedos, as feiras também eram uma opção de ganhar mais [[dinheiro]]. A [[jukebox]] por exemplo, dá a impressão de liberdade a pessoa para escolher uma [[música]], mas no final do dia essa pessoa gastava mais de 100 [[dólares|doletas]] para ouvir sua música favorita. Pensando no mesmo lado (e na ganancia), foi criado uma maquina de jogo, conhecida como [[fliperama]] ou arcade para os velhos.
+
+Com o fliperama bombando nos [[Década de 1970|anos 70]], ocorreu também a fabricação ilegal de fliperamas para se jogar em casa. Empresas também fizeram uma variante do fliperama de jogo para fliperama de sorte e azar, muito comum em [[casino]]s.
+
+[[Arquivo:Pong.jpg|thumb|O jogo da época.]]
+O [[Odyssey|Magnavox Odyssey]] foi introduzido no mercado retardatariamente em [[1972]]{{carece de fontes}}, mas isso não o impediu de ter seu espaço e fama na primeira geração. Outra na qual mostrou as garras foi a [[Atari]] com o revolucionaríssimo Atari Home Pong e a [[Nintendo]] com o seu Color TV-Game Series, totalmente sem criatividade com o nome.
+
+Em [[1977]] ocorreu o primeiro crash dos videogames (não o [[Crash Bandicoot]], idiota), esse foi o ano em que os desenvolvedores ficaram com um bloqueio criativo e acabaram por trazer a falência de muitas empresas e o fim da geração no mesmo ano, contudo, parece que o [[Japão]] (mais especificamente a [[Nintendo]]) arressem estava iniciando seu trabalho
+
+==Consoles==
+[[Arquivo:Cabeamento deestruturado.png|thumb|Aparelhagem usada atrás de uma [[TV]] para o funcionamento de um console de primeira geração.]]
+*'''Série Magnavox Odyssey'''
+Lançado em [[1972]] é [[puxa-saco|considerado o primeiro videogame do mundo]], simplesmente por [[chantagem]] feita pela empresa à [[mídia]] e veículos de comunicações para promoverem o [[console]]. Foi chamado de [[OVNI|aparelho do futuro]], pois se assemelhava a um [[rádio]] onde as pessoas podiam jogar: caça palavras, ligue os pontos e o [[jogo da velha]].
+
+O console vinha com cartelas de diferente jogos aí você colocava na frente da [[TV]] e fazia a [[festa]] com apenas um ponto preto projetado pelo console num fundo branco. Fazia gemidos iguaizinhos ao de um [[gato]] em dia de acasalamento e seu controle era uma [[torradeira]].
+
+*'''Atari Home Pong'''
+Também chamado de pong em casa, foi lançado em [[1975]] e dava aos jogadores o melhor do [[pong]], [[mentira|dinâmica rápida]], [[mentira|mecânica de primeira com um sistema afrente de seu tempo]]. Não demorou muito para ser existo das lojas, não por fama, mas por não vender mesmo.
+
+*'''Coleco Telstar Series'''
+A partir de [[1976]], a Coleco uma empresa com sede no [[quinto dos infernos]] fez uma pequena participação ao mundo dos games fazendo uma serie de videogames caseiros e umas [[gambiarra]]s aqui e lá [[abobrinha|para dar o jogador uma imersão maior ao jogo]]. No final de tudo isso, apenas 150 pessoas realmente sentiram em estar mais conectado com o jogo.
+
+*'''Color TV-Game Series'''
+Lançado em [[1977]] pela [[Nintendo]], foi o último console da geração e mesmo assim foi o melhor da época vendendo 3 milhões de unidades apenas no [[Japão]]. O color TV-Game era uma especie de um [[Atari 2600]] com jogos mais simples do que o [[jogo da cobrinha]]. Foi projetado pelo grande mestre [[Shigeru Miyamoto]] e teve no total 5 consoles lançados até [[1980]], sendo 4 deles parecendo com um sintetizador laranja e um com um volante para jogos de [[corrida]].
+
+==Comparação==
+
+{| class="wikitable"
+|-
+! Nome || [[odyssey|Magnavox Odyssey]] || [[odyssey|Magnavox Odyssey]] (resto da série) || TV Tennis Electrotennis || [[pong|Home Pong]]
+|-
+! Fabricante 
+| <center>Magnavox</center> || <center>Magnavox, Philips</center> || <center>Epoch Co.</center> || <center>[[Atari]]</center>
+|-
+! Imagem 
+| [[Arquivo:Mundo da Lua Gravador.jpg|150px|center]] || [[Arquivo:PTGMPlaystation.jpg|150px|center]] || [[Arquivo:Gametenis.jpg|150px|center]] || [[Arquivo:Pongop.gif|150px|center]]
+|- 
+! Preço de Lançamento
+| 100 [[dolar|doll]] || 100 [[dolar|doll]] || 20.000 [[yen]]s || 99,99 [[dolar|dolls]]
+|-
+! Vida
+| [[1972]]-[[1975]] || [[1975]]-[[1978]] || [[1975]]-[[1977]] || [[1975]]-[[1977]]
+|-
+! Acessórios
+| Espingarda 20 de 1957|| - || Controle sem fio || -
+|-
+! Vendas Totais
+| 330 mil{{carece de fontes}} || - || menos de 100 mil || 150 mil
+|}
+
+{| class="wikitable"
+|-
+! Nome || Binatone TV Master || [[Coleco Telstar|Telstar series]] || Color TV-Game series
+|-
+! Fabricante 
+| <center>Binatone</center> || <center>Coleco</center> || <center>[[Nintendo]]</center>
+|-
+! Imagem 
+| [[Arquivo:Binatone TV-master.jpg|150px|center]] || [[Arquivo:Coleco Telstar.jpg|150px|center]] || [[Arquivo:Beforemario dot com nintendo tv games .jpg|150px|center]]
+|- 
+! Preço de Lançamento
+| 35[[Libra esterlina|£]] || 50 [[dolar|dolls]] || 45.000 [[yen]]s
+|-
+! Vida
+| [[1976]]-[[1978]] || [[1976]]-[[1978]] || [[1977]]-[[1980]]
+|-
+! Acessórios
+| Pistola de Brinquedo || Controles coloridos || -
+|-
+! Vendas Totais
+| - || 1 milhão[[Arquivo:Corn Icon.png|20px]] || 3 milhões [[Arquivo:Corn Icon.png|20px]][[Arquivo:Corn Icon.png|20px]][[Arquivo:Corn Icon.png|20px]]
+|}
+
+== Ver também ==
+* [[Segunda Geração de Consoles]]
+
+{{Consoles}}
+[[Categoria:Video games]]
+[[es:Primera generación de consolas]]

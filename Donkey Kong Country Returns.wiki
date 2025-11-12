@@ -1,0 +1,50 @@
+{{game}}
+
+{{Infobox Game
+|title     = Konkey Dong País: O Retorno 
+|image     = Applejack country returns.png
+|caption   = Realmente muita coisa mudou desde o ultimo
+|developer = [[Retro Studios]]
+|publisher = [[Nintendo|NãoIntendo]]
+|released  = [[2010]], [[2013]]
+|genre     = [[Plataforma]], agora um pouco mais fácil
+|rating    = Apelo nostálgico (Wii), apelo de marketing (3DS)
+|platform  = [[Wii|Vii]], [[Nintendo 3DS|2DS]] e [[Nintendo Switch|Suíte]]
+|ages      = Recomendado para quem gosta de remexer o esqueleto
+}}
+
+{{vqd|Donkey Kong Country 4: O Retorno de King Kong}}
+{{experimente também|Donkey Kong e a macumba dos aborígenes}}
+
+'''Donkey Kong Country Returns''' é o quarto jogo da série de macacadas de [[Donkey Kong Country]], mesmo o jogo ter lançado 15 anos depois do primeiro DKC, ele ainda teve popularidade e novidades, já que os produtores tiveram bastante tempo de pensar em algo original do que simplesmente fazer um jogo com reciclagem total do antecessor encoberto por novos gráficos.
+
+O jogo originalmente seria desenvolvido pela [[Rare]], mas como a [[Nintendo|NãoIntendo]] fez a burrice de vender sua galinha de ovos de ouro, esse projeto nunca sairia da mente de fãs que gostam de um gorilão se não fosse pela Retro Studios, ela depois de trabalhar no [[Metroid Prime 3: Corruption|joguinho de pular e atirar de Samus]], estava vagabundeando por ai, então nada melhor do que começar a desenvolver mais um jogo de pular e andar.
+
+O jogo também tem uma versão horrenda no 3DS, embora os gráficos são piores do que o do Wii (que já é apavorante) o jogo usa o 3D quebrado do aparelho para dizer que tem coisa nova no jogo e que [[mentira|vale a pena compra-lo]] novamente.
+[[Arquivo:GiphyDKCR.gif|thumb|Donkey Kong mostrando como se derrota um chefe.]]
+
+==História==
+Em algum lugar da [[floresta amazônica]], a mandinga rola solta entre a tribo indígena Tiki Tak, eles então hipnotizam os animais da floresta, fazendo com que eles roubem todas as [[banana]]s da floresta. Após a hibernação de 4 meses de DK, ele vê que há mais bananas, então acontece mais um ataque as bananas junto a tribo com sua feitiçaria do mau. [[Donkey Kong]] escolta [[Diddy Kong]] para o pula corre, tendo como destino o além e a surpresa de bichos que você terá que enfrentar no meio do caminho.
+
+==Jogabilidade==
+A remasterização conta com os mesmos elementos do primeiro DKC, tais como coletar letras para completar o [[alfabeto]], e assim Donkey Kong possa saber ler pelo menos o título do jogo, também na coleta de bananas que aparecem em tudo quanto é lugar e as [[moeda]]s que dá pra comprar cheats na loja de [[Cranky Kong]]. Os níveis são nada mais nada menos do que correr, matar bichos, coletar coisas e tentar passar pelos barris voadores.
+[[Arquivo:CKYWZon.gif|thumb|left|O verdadeiro chefe.]]
+A grande novidade estão nos níveis que e parecem um teatro de sombras sem ação, sendo assim impossível de saber onde o personagem está. O jogo ainda tem o modo[mulitplayer, onde pode jogar com o Diddy Kong e pular mais auto com a ajuda de sua jatpack de bongos. Mas se você não tem amigos, é solitário, tem depressão e é um merda, o single player é a única opção, ainda apenas pode jogar com Donkey Kong e sua lerdeza para passar dos [[mais de 8000]] níveis do jogo.
+
+Não confunda [[New Super Mario Bros. Wii]] com a série de Donkey Kong Country, pois agora ela tem a possibilidade de aproveitar uma das mais altas tecnologias, o Wii Remote, você não vai parar de mexer o braço, ainda se estiver com o Nunchuk. Principalmente em momentos de agilidade (vulgo speedrunner 100%). Embora o jogo tenha itens em todo o lado, ele também tem itens secretos que são mais difíceis de serem encontrados do que completar o [[quebra-cabeça]] da [[Torre Eiffel]], ainda sim tem a aparição de [[Animal Buddies|Rambi e Squawks]] que te auxiliarão a sair da merda.
+[[Arquivo:Igyiugyiugg.gif|thumb|King K. Rool pensando porque não foi chamado para ser o vilão do jogo.]]
+
+==Recepção==
+O jogo em seu lançamento contou com notas favoráveis pela maioria dos críticos, alguns loucos disseram que era o melhor jogo de plataforma e o melhor exclusivo do Wii de 2010. [[IGN]] deu o premio de melhor jogo <s>remasterizado</s> retrô e melhor jogo desafiador (isso porque não jogaram [[Dark Souls]]). [[Metacritic]] e [[GameRankings]] ambas deram a nota 87, mesmo os fãs e jogadores achando que o jogo deveria ter uma nota <s>pior</s> melhor.
+
+Já no 3DS ninguém deu a minima para avalia-lo, até mesmo porque era um port mal feito pro 3DS com algumas coisas novas que ninguém deu bola. Pelo visto os críticos viram a inferioridade do port e deram uma nota (ainda alta) de 83.
+
+{{Donkey Kong}}
+
+[[Categoria:Jogos da Retro Studios]]
+[[Categoria:Jogos da Nintendo]]
+[[Categoria:Jogos para Nintendo Wii]]
+[[Categoria:Jogos para Nintendo 3DS]]
+[[Categoria:Jogos para Nintendo Switch]]
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos lançados em 2010]]

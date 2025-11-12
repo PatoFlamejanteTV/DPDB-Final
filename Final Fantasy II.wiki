@@ -1,0 +1,237 @@
+{{nota:|Este artigo é sobre o verdadeiro Final Fantasy II. Para o jogo que os EUA passaram anos lhe enganando dizendo ser este, veja [[Final Fantasy IV]].}}
+{{game}}
+
+{{Infobox Game
+|title     = Final Fantasy II
+|image     = Final Fantasy 2-Logo.png
+|caption   = Final Fantasy II
+|developer = [[Square|Quadrado]]
+|publisher = [[Square|Quadrado]]
+|released  = 1988 A.[[Cloud Strife|C]].
+|genre     = RPG
+|rating    = 2/-2
+|platform  = NES, PSX, GBA, PSP
+|ages      = 3,14 +
+}}
+
+{{Você quis dizer|Star Wars IV: Uma Nova Esperança}}
+
+{{C|Meu pai! O primeiro Dragoon!|Kain Highwind|Richard}}
+
+{{C|Essa galerinha do barulho vai aprontar todas com uma bela princesa e vão se meter em altas confusões com um império do mal, comandando por um tiozinho barra-pesada!!|Narrador da Sessão da Tarde|Final Fantasy II}}
+
+{{C|Ação! Romance! E muito suspense! Esses quatro jóvens tiveram seus lares e seus familiares destruidos por um terrivel feiticeiro...E agora terão que escolher entre recomeçar as suas vidas ou buscarem justiça! Um grande sucesso ganhador de 2 oscars: Final Fantasy II!!|Narrador da Tela Quente|Final Fantasy II}}
+
+{{C|Jogo tosco! Não tem sistema de level nem o Cloud!|Fanboy de FF VII|Final Fantasy II}}
+
+{{C|Vamos Firion...venha para mim...!|Falsa Hilda tentando seduzir Firion}} 
+
+{{C|Meu deus!! Cadê o Cloud e o Sephiroth???|[[Você]] se perguntando depois de passar horas jogando Final Fantasy II}} 
+
+{{C|…… ♥ ♥ ♥ !!|Rainha Lamia|Final Fantasy II}}
+
+
+'''Final Fantasy II''' (não confundir com o IV) é, obviamente o segundo jogo da série Final Fantasy. Criado pelo Quadrado-Macío com o principal objetivo de induzir os japoneses á um rigoroso treinamento militar [[Sadomasoquismo|sadomasoquista]] virtual. Apesar de ter sido oficialmente lançado em 1988, há boatos de que já existia muito antes como um cartucho do [[Atari]], que foi descoberto e aproveitaram a história.
+Muitos que ô jogaram admitem que o jogo passou uma certa "força especial" para seus dedos, tornando-os mais ageis e habilidosos. Muitos que o jogaram afirmam que aprenderam a usar magias de verdade, mas até hoje nada foi provado...
+
+== História Principal ==
+
+Tudo começou quando Mateus <s>Palpatine</s> Palamecia inventou o [[Google]] e usou seus poderes para pesquisar imagens de monstros na internet e trazê-los para o seu mundo, dominando-o com sua maldade. Durante o ataque a cidade de Fryn, quatro jóvens tentam fugir pela moita, mas são atacados por [[skinhead]]s e, supostamente, mortos. Três deles são salvos pelo mago <s>Obi Wan</s> MinWu, que felizmente ainda possuía [[Lico de Cair Pinto|Phoenix Downs]] de sobra, acordam na pacata cidade de Altair e pedem para ingressar nas tropas da Princesa <s>Leia</s> Hilda e combater o império do mal. Presumindo que pediriam salário mínimo, Hilda os dispensa, dá para eles uns trocados e pedem para eles viverem com isso. 
+[[Arquivo:Ff2-herois-3d.jpg|right|220px|thumb|Firion [[Sua avó|e os outros]] em versão 3D.]]
+
+Como nossos três heróis não são muito espertos, decidem voltar a Fryn e ver se os bandidos ainda estavam por lá. Para sorte dos nossos heróis, os soldados são cegos e só atacam se você puxar conversa com eles. Lá, acabam fazendo amizade com [[Jeremias]], que conta que o impotente príncipe Scott Summers estava na sua cama. Aproveitando que os soldados eram cegos, Firion, Maria e Guy passam por eles com facilidade e falam com o príncipe, que lhes dá um último consolo (e pede para não contar para Hilda) antes de bater as botas. Eles roubam o anel, achando que tinha valor e entregam para princesa <s>Peach</s> Hilda, que os permite entrarem para o seu grupinho de [[RBD|Rebeldes]]. 
+
+A partir daí, passam o jogo todo cumprindo ordens, batendo em si mesmos para ganhar HP, indo a pé do Saara ao Monte Everest...etc. No final o grupo vai para o Inferno (literalmente), que geólogos afirmam estar localizado próximo há um pequeno rio entre o [[Acre]] e o [[Amapá]], e derrota o imperador de uma vez por todas! Fim.
+
+=== História Secundária ===
+
+Como os criadores estavam meio sem ideias de que extras colocariam no milézimo-segundo remake de FF2 para encher linguiça, inventaram que a [[Inuyasha|alma do Imperador se dividiu]] em duas partes; uma foi para o céu e a outra foi para o inferno. Os personagens mortos durante o jogo vão para o céu e matam o Imperador novamente! Fim.
+
+=== História Terciária ===
+
+História de existência duvidosa; o [[Imperador Palpatine|Palpatine]], irmão mais velho de Palamecia, chega á [[Terra]] em sua nave-espacial e jura vingar a morte de seu irmão. Firion e Leon se fundem em Lerion e aprisionam a alma do malvado em uma [[Seu Madruga|cueca samba-canção]]. Fim.
+
+=== História Quaternária ===
+
+A [[sogra]] de Palamecia chega a Terra em uma maquina-do-tempo e começa a ressusitar todas as sogras do jogo para infernizar o mundo. Maria e Gus se fundem em [[Chrono Trigger|Magus]] e transformam todas as sogras do mundo em <s>sapos</s> [[Vegeta|vermes insolentes]]. Fim.
+
+== Personagens ==
+
+=== Mocinhos(nhas) ===
+
+[[Arquivo:FFII menu firion.gif|left]]
+'''Firion/Frioniel (Fire on.../Filho Meu):''' O herói carnavalesco da história. É o irmão adotado de Maria e Leon e vivia com eles em Fryn. Desde criança, aprendeu muito bem o significado de dar e receber, pois tinha como pai atotivo ninguém mais, ninguém menos do que ninguém mesmo! 
+
+[[Arquivo:FFII menu maria.gif|left]]
+'''Maria (Aquela que pegou a sua tia):''' A principal <s>erva</s> heroína da história. Teve seus amigos e familiares mortos e jura vingança. Passa o jogo inteiro questionando a sexualidade de Firion e o desaparecimento de Leon. Ao contrário de 78% das personagens femininas em jogos de RPG, Maria não é sequestrada e nem tenta dar para nenhum personagem do jogo. Estima-se que tenha um relacionamento platônico com Hilda. 
+
+[[Arquivo:FFII menu guy.gif|left]]
+'''Guy/Gus (Úi/Gás):''' Cara grande e peludo, é o amigo de infância de Firion. O crescimento anormal de seus músculos deve ao grande consumo de Biotônicos Fontoura que teve durante a sua infãncia. Zoofílico por natureza, aprendeu a nobre arte do acasalamento com uma galinha, sua primeira namorada e também aprendeu a falar Castorez.
+
+[[Arquivo:FFII menu minwu.gif|left]]
+'''MinWu/Ming-Wu/Mindu/Minh (...):''' Com um nome obviamente copiado do Mestre [[Mace Windu|Maxis Windows]], é o mago-branco do jogo. Grande mestre na arte da cura, aprendeu desde cedo a brincar de médico com seus amiguinhos rebeldes. Adora fazer a Dança do Ventrê para entreter sua <s>dona</s> líder e melhorar a autoestima dos heróis. Entra no grupo temporariamente e cede sua [[Pênis|canoa]] para que o grupo possa atravessar os rios rasos. Perto do fim do jogo, descobre que a lendária magia Ultima está em uma torre abandonada, em uma ilha abandonada em forma de [[Sailor Moon|lua]]. Como já havia quatro pessoas no grupo, os criadores tiveram a brilhante ideia de dizer que a magia estava protegida por uma barreira-magica-invisivel e MinWu morre destruindo-a (muito criativo!). 
+
+[[Arquivo:FFII menu josef.gif|left]]
+'''Josef (Climber):''' Irmão gêmeo do Yang (FFIV), entrou para o exército de Palamecia, acreditando que o imperador iria financiar seus filmes do Indiana Jones, mas acabou fugindo quando descobriu que era mentira e que o imperador só queria sua pistola mesmo. Se muda para o Pólo Norte e passa muda seu nome para Papai Noel. O grupo ô convence a vender seu trenó em troca de financiar as filmagens para seus filmes, mas Josef acaba morto durante as filmagens ao ser esmagado por uma [[Bola de pedra que corre atrás do Indiana Jones|rocha de papelão]]. 
+
+[[Arquivo:FFII menu gordon.gif|left]]
+'''Gordon (Magron):''' Príncipe fresco de Kashuon, que vivia em constante depressão pois seu HP não subia nunca e não adiantava cortar os pulsos porque isso só iria aumentar a sua DEF. Decide ajudar o grupo a explorar um castelo mal-assombrado para ver se vira macho. Acaba encontrando o protótipo de uma Bomba Atômica deixada lá por [[Enéas Carneiro]], conhecido no jogo como "Eneas, the Ram". Depois disso, fica se gabando para seus amigos que virou macho e derrotou todos os monstros de lá sozinho. Foi pego de surpresa pelo [[Ratinho]] e forçado a assumir o <s>filho</s> trono com Hilda. 
+
+[[Arquivo:FFII menu leila.gif|left]]
+'''Leila/Reila (Dei lá!/Véia!):''' Com um nome óbviamente copiado da Princesa Leia, é uma pirata que oferece carona para o grupo em seu barco, mas ôs assalta no meio do caminho. Após ver seus capangas, literalmente, tomarem no cú, vira-casaca e decide se unir à resistência para derrotar o império do mal, já que não tinha mais nada para fazer. É comida por Leviathan durante um strip em seu barco, mas consegue sobreviver nadando meio mundo sem se cansar até a cidade de Altair. Estudam feitos por universitários da Finivest afirmam que ela seja Faris ([[Final Fantasy V|FFV]]) disfarçada. 
+
+[[Arquivo:FFII menu ricard.gif|left]]
+'''Ricard/Richard/Edward/Gareth (...):''' Portador de muitos nomes por <s>incompetência</s> problemas durante a tradução, é um dragoon da cidade de Deist. Assim como a Leila, Ricard foi comido pelo Leviathan (e supostamente perdeu um pedaço do pé, já que não consegue usar o comando "Jump" como os outros dragoons...) durante seus dias de pescador e passou a morar dentro dele, aparentemente se alimentando da salíva do animal. Consegue fugir com ajuda de Firion e os outros e passa ajudar o grupo a derrotar o império, pois não tinha mais nada para fazer mesmo. Consegue derrotar Palamecia, mas é morto quando este ressusita das trevas. 
+
+[[Arquivo:FFII menu scott.gif|left]]
+'''Scott (Ciclope):''' Irmão de Gordon; tão inútil quanto o mesmo. Perde a guerra para o Imperador e fica escondido na taverna do reino até o grupo chegar; dá o anél para Firion poder invocar o [[Capitão Planeta]] antes de morrer. Estudiosos afirmam que ele teria vivido para sempre se Firion e os outros não tivessem ido falar com ele.
+
+[[Arquivo:FFII menu leon.gif|left]]
+'''Leon/Leonhart (Leão/Leonard):''' O irmão-do-mal da hitória. Após ser espancado e torturado até a morte pelos capangas de Palamecia, decidiu se render ao [[Lado Roxo da Força]] e se tornar <s>Darth Vader</s> o '''Cavaleiro''' <s>Bege Cinza Lilaz</s> '''Negro'''. Após a derrota do imperador, decide assumir o <s>filho</s> o trono e reinar em seu lugar. Sua festa não dura muito pois Palamecia volta a vida, forçando a Leon se unir a Firion e os outros (e fazer a cara de cão arrependido). No final faz pose de fodão, dizendo que nunca vai conseguir se perdoar pelos crimes que cometeu e vai embora para não ter que responder pelos seus crimes de guerra.
+
+=== NPCs ===
+
+[[Arquivo:Hilda-ff2-gba.jpg|left]]
+'''Princesa Hilda (de Polaris):''' Donzela indefesa líder do movimento Rebeldes, véio!; passa o jogo todo dando ordens aos heróis sem fornecer nenhum pagamento pelo serviço. A única vez em que não deu ordens a Firion foi quando foi sequestrada pelo Leon. Foi posta á prêmio em um torneio de Par-ou-Impar e salva por Firion. 
+
+[[Arquivo:Paul-ff2-gba.jpg|left]]
+'''Paul (-brasil):''' Conhecido popularmente como [[Senhor Furtado]] ou Doutor Sorriso Colgate, é o ladrão do jogo. Foi escravizado pelos monstros e obrigado a trabalhar nas minas para extração de Licor de Cacau Xavier e [[Maconha]], ingredientes importantissimos para o banquete do imperador. Foi salvo por Firion e para recompensar o favor, salvou-os no Coliseu (como ele chegou lá!?). 
+
+[[Arquivo:Cid-ff2-gba.jpg|left]]
+'''Cid (-Quest?):''' Tatatatatataravô dos Cids dos outros Final Fantasis; Foi um soldado do império, mas foi para o Lado Branco da Força; é um inventor de Airships de pouca importância no jogo. É visto pela última vez pelo grupo deitado na cama de Paul sujo de porra. 
+
+=== Bandidos ===
+ 
+'''Borghen (Pô vem!):''' Era o Braço direito (ou seria o esquerdo) do príncipe Scott, mas ô traiu na cama com Palamecia e foi [[Roberto Justus|demitido]]. Com dó do infeliz, Palamecia ô tornou seu fiél lacáio. É morto pelo grupo, mas reaparece no inferno para se vingar, é perder novamente.
+ 
+'''Rainha Lamia (A Minha Cama Ia!):''' Mulher-cobra-sadomasoquista do jogo; tenta seduzir Firion disfarçada de Hilda, mas não consegue devido a grande resistência a mulheres(Mul. Def.) que o jóvem possui. É morta facilmente, mas pelo menos pode sentir a firmeza da espada que o mesmo carregava. 
+
+'''Imperador Mateus Palamecia (IMP):''' Também conhecido como Imperador Palpatine ou Lorde Sombrio, é o Líder do Império do Mal. É morto pelo grupo quando tentava usar seu tornado para sugar todos os machões do reino para seu refúgio particular. No inferno, conhece Jeremias e consegue convencer o [[Diabo|Cão]] a emprestar o inferno para ele. Firion e os outros invadem o inferno (!?!?) e derrotam o malvado novamente.
+
+'''Imperador do Além (Despertador de quem?):''' Versão bondosa ([[WTF]]) de Palamecia. Aproveitou que [[Deus]] foi dar uma volta e inadiu o Pulgatório. Invocou os espíritos de Scoot, MinWu, Josef e Richard para serem seus apóstolos, mas nenhum deles se sujeitou a usar a maquiagem que o imperador requisitava. Os quatro mandam ele de volta para o inferno, acabando a porra toda.
+
+== Ressureições do Imperador ==
+
+[[Arquivo:Palamecia.jpg|right|220px|thumb|Imperador Palamecia: Simplesmente um luxo!!]]
+Revoltado por seu império ter ido por água abaixo, Palamecia foi se queixar com Noruma e os outros <s>paga-paus</s> funcionários da [[Square-Enix|Square-Eunucos]] e exigir uma quarta chance para derrotar o grupo. 
+
+'''4ª Reincarnação''': Palamecia cometeu o maior de seus crimes: roubou o script do [[Final Fantasy Tactics Advance]], entrou na história e finalmente conseguiu o corpo de mulher que ele semrpe quis. Porém sua felicidade não durou muito, já que naquele jogo tem um vilão muito pior que ele: Marche, um gênio do crime que planeja destruir Ivalice só para acabar com os sonhos de seus amigos e vê-los sofrer. Marche consegue esse feito ao matar a mãe de seu melhor amigo, que passa a viver com um pai bêbado e desempregado. Além disso, ele faz com que seu irmão volte a ser paraplégico, e com que sua amiga volte a sofrer bullying na escola por causa da cor do cabelo.
+
+'''[[Mateus (Final Fantasy)|5ª Reincarnação]]''': Como punição pelo crime acima citado, os funcionarios o mandaram para o [[Final Fantasy XII|reino de Ivalice]], onde foi transformado em um peixe e forçado a viver encoxado com uma [[Shiva (Final Fantasy)|Shiva]] paraguaia (para o desconforto do mesmo) para o resto da vida.
+
+'''6ª Reincarnação''': Palamecia fez as pazes com seus superiores e foi en[[viado]] para [[Dissidia: Final Fantasy]], junto com os demais vilões. Com inveja do Chaos (do primeiro jogo) ser o vilão principal, o Imperador bola um esquema para fazer os heróis e vilões se <s>meterem</s> matarem até só sobrar ele para dominar tudo, mas é detido pelo Firion (para variar). 
+
+== Geografia ==
+
+[[Arquivo:Mapa do Final Fanatsy 2.jpg|left|250px|thumb|O mapa finalfantalesco para aventuras finalfantazeicas.]]
+*'''Altair''': Primeira cidade do jogo e moradia dos Rebeldes. Fazem shows lá toda [[quinta-feira]], mas nunca convidam o imperador. Motivo pelo qual ele os odeia tanto.
+*'''Gatrea''': Vilarejo sem importância, que serve de moradia para NPCs sem importância e armas de pouca importância.
+*'''Paloom''': Popularmente conhecida por ser uma das duas cidades do jogo que possuem navios. É só mais uma das [[WTF|3.508.235]] cidades que o tornado do imperador destrói.
+*'''Poft''': Popularmente conhecida por ser uma das duas cidades do jogo que possuem navios. Cid mora lá, mas isso não diz muito...
+*'''Bafsk''': A única cidade do jogo que possui um sistema de esgoto. Aparentemente o império utiliza as fezes de seus moradores como combustível para a temível Dreadnoughtbroughtzumonghtzoombit.
+*'''Salamand''': Cidade que neva do jogo; moradia de Josef, Firion e do elenco de [[South Park]]. Seus moradores na verdade são uma quadrilha de traficantes que mantém relações com o Império.
+*'''Mysidia''': Cidade composta por nações de magos-afro-descendentes-budistas que buscam refúgio devido ao aumento da população de emos e rebeldes.
+*'''Frynn''': Cidade natal dos protagonistas, tomada pelos [[skinhead]]s. Os rebeldes invadiram a cidade disfarçados de <s>prostitutas</s> skinheads e realizam um ataque-surpresa.
+*'''Chocobo Forest''': Nas palavras do Capitão Óbvio: ''"É uma floresta habitada por chocobos!"''
+*'''Semitt Falls''': Local de encontro entre os traficantes de Salamand e os soldados do império, comandados por [[Fernandinho Beiramar|Beiramar]]. Firion [[Shun de Andrômeda|e os outros]] os pegam no flagra e matam o líder do trafico.
+*'''Bafsk Sewer''': Esgoto imundo, moradia de ratos, fezes, Boghen e outros componentes tóxicos.
+*'''Snow Cavern''': Cenário onde foi filmado o filme de Josef.
+*'''Kashuan Keep''': Mansão da Família Adams. Gordon veio para cá para tentar virar macho. O grupo enfrenta Zé do Caixão em uma batalha épica.
+*'''Castle Deist''': Outro castelo mal-assombrado(Final Fantasy superando [[Naruto]] na originalidade!!) Serve de moradia para uma mulher é um moleque mimado. Não se sabe como sobrevivem pois não há comida, nem bebida e muito menos uma cama para eles dormirem.
+*'''Deist Cavern''': Uma caverna que fica perto de Deist ([[Capitão Óbvio|...]]). Firion [[Sua mãe|e os outros]] vão para lá a pedid ode um dragão, que quer que coloquem seu ovo na lava para nascer. É claro que os heróis poderiam aquecer o ovo com magias de fogo, mas daí não teria graça...
+*'''Coliseum''': Arena onde ocorrem acirrados duelos de Par-ou-Impar, Cabra-Cega, Jo-ken-po, Pega-Pega etc.
+*'''Cave of Mysidia''': É uma caverna. E fica perto de Mysidia!!!
+*'''Tropical Isle''': Caverna escondida, numa ilha escondida, onde o grupo deve pegar uma máscara escondida, guardada por rinocerontes consumidores de alucinóticos.
+*'''Mysidian Tower''': Uma torre antí-racismo com [[Vegeta|mais de 9.000]] andares, gaurdada pelos fabulosos [[Power Rangers|Power Rangers Força Fruta]].
+*'''Jade Passage''': Do vulgar "[[Dragon Ball Z|Caminho da Serpente]]", é a estrada que liga o mundo dos vivos ao mundo dos [[nerd]]s.
+*'''Pandemonium''': <S>Um jogo de PSX</S> É a versão em 2D da favela da rocinha, ou seja, um verdadeiro inferno!
+*'''Hell''': <S>A 12ª Grande Criança</s> O Pandemonium com um nome melhor.
+
+== Versões do Jogo ==
+{{compactar|
+* '''Final Fantasy II'''
+* '''Final Fantasy II: Origens
+* '''Final Fantasy II: Amanhecer das Almas
+* '''Final Fantasy II: O Crepúsculo dos Espiritos
+* '''Final Fantasy II: Edição de Aniversário
+* '''Final Fantasy II [[Marvel Super Heroes vs. Street Fighter|Super Heroes VS Street Fighter]]
+[[Arquivo:Jesus-finalfantasy.gif|right|300px|thumb|Final Fanatsy explicando os "Milagres".]]
+* '''Final Fantasy II: [[O Senhor dos Anéis|O Remake das Duas Torres]]
+* '''Final Fantasy II para [[Polystation]]
+* '''Final Fantasy II: [[A Nova Onda do Imperador]]
+* '''Final Fantasy II: [[Star Wars|O Despertar da Força]]
+* '''Final Fantasy II: [[Squall Leonhart|Whatever]]
+* '''Final Fantasy II: [[Cloud Strife|Not Interesed]]
+* '''Final Fantasy II: [[Zidane Tribal|Oh man...]]
+* '''Final Fantasy II: [[Tidus|I hate you, dad!]]
+* '''Final Fantasy II [[Vaan|VS Ondore Lies]]
+* '''Final Fantasy II [[He-Man|& Os Defensores do Universo]]
+* '''Final Fantasy II: Ganso Sem Limites
+* '''Final Fantasy II: Evolution
+* '''Final Fantasy II: O Gato ou o Quico
+* '''Final Fantasy II: [[Jojo's Bizarre Adventure|Battle Tendency]]
+* '''Final Fantasy II: [[Shadow Hearts|From the New World]]
+* '''Final Fantasy: [[007|O Amanha Nunca Morre]]
+* '''Final Fantasy II: [[Power Rangers|Força Animal]]
+* '''Final Fantasy II: [[Power Rangers|Tempestade Ninja]]
+* '''[[Tales of]] Final Fantasy II
+* '''Final Fantasy II: [[Crash Bandicoot|Cortex Strikes Back]]
+* '''Final Fantasy II: E o Vento Levou!
+* '''Final Fantasy II: Continuem Comprando!
+* '''Final Fantasy II [[Zelda|and the Twilight Princess]]
+* '''Final Fantasy II: Repolho com Ovo
+* '''Final Fantasy II: Nada Além da Verdade
+* '''Final Fantasy II encara o [[Ratinho]]
+* '''Final Fantasy II & A Maquina da Verdade
+* '''Final Fantasy II & O Cálice de Firaga
+* '''Final Fantasy II VS [[Jeremias]]
+* '''Final Fantasy II na mansão do [[Clodovil]]
+* '''Final Fantasy II: [[Zorra Total]]
+* '''Final Fantasy II: Fim da Lista'''
+}}
+
+== Mistério ==
+[[Arquivo:Ff2-herois.jpg|200px|left|thumb|Uma galerinha irada pronta para agitar esse império do barulho!!]]
+Na batalha de introdução contra os quatro Cavaleiros <s>do Apocalípse</s> Pretos que só [[Gameshark|nerds trapaceiros]] conseguem vencer, Maria é sempre a última a ser nocauteada, em qualquer das versões do jogo citadas acima (va conferir se não acredita). A causa desse estranho fenômeno está sendo estudada atualmente pelo [[Dr. Roberto]] na Universidade Federal do [[Acre]].
+
+== Decepção ==
+
+{| class="wikitable" align="right" style="text-align:center; font-size:95%"
+|+'''Análises'''
+!Redator
+!Avaliação
+|-
+|[[Seu Madruga|Gentalha Gamers]]
+|0 de 10
+|-
+|[[Clodovil|Xis Gay-me]]
+|24,11 de 10
+|-
+|[[Dr. Osmar de Oliveira|Osmar In-Games]]
+|4ª Divisão (Série D)
+|-
+|[[Chuck Norris|God Games]]
+|WTF de 10
+|-
+|[[Dercy Gonçalves|Mumia-Games]]
+|"Porra!" de "Caralho!"
+|-
+|}
+
+O jogo recebeu muitas críticas devido ao fato de ter um enredo 102% copiado do episódio IV de [[Star Wars]]. ''"Porra!! Passei 10 horas nessa [[Cú|bosta]] e não entendi porcaria desse [[Pênis|caralho]]!!"'' - alega analista Dercy da revista Mumia-Games. Muitos dos jogadores ocidentais criticaram a aparência ''boiolistica'' de alguns personagens; outros, por [[Anus|outro lado]], A-DO-RA-RAM o visual: ''"Ai! Quantas opiniões grossas! Eu achei simplesmente eu luxo!!"'' - deixou escapar o analísta Clodovil Hernandes, da Xis Gay-me. Alguns fãs da série criticaram também a falta de [[Cloud Strife|Cloud]] e [[Sephiroth]] na história.
+
+{{Final Fantasy}}
+
+[[Categoria:Jogos lançados em 1988]]
+[[Categoria:Jogos da Square]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para PlayStation]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos de RPG]]
+
+[[en:Final Fantasy II]]
+[[es:Final Fantasy II]]
+[[id:Final Fantasy II]]
+[[it:Final Fantasy II]]
+[[ja:ファイナルファンタジーII]]
+[[nl:Final Fantasy II]]

@@ -1,0 +1,20 @@
+{{DISPLAYTITLE:<span style="color: red; font-family:'Comic Sans', 'Comic Sans MS', 'Marker Felt', sans-serif; font-size: larger;"><span style="position:absolute; top:-9999px;"></span>'''Oh-oh'''</span>}}
+<div style="position: relative; overflow: hidden;">
+[[File:Bomba atomica.gif|1000px|center|alt=Muito bonito, veja a merda que você fez! Derrubou a Desciclopédia!|Muito bonito, veja a merda que você fez! Derrubou a Desciclopédia!]]
+
+<div style="font-family: monospace; position: absolute; top: 0; left: 50%; margin-left: -300px; width: 550px; padding: 50px 25px; backgrond: #fff; background: rgba(255, 255, 255, 0.5);">
+'''Desculpe, este sítio está passando por dificuldades técnicas:'''<br />
+<span style="color: red;">
+Fatal error: PDOException: 08001: Cannot connect to database<br />
+in PDO::__construct()<br />
+'''UNRECOVERABLE DATABASE ERROR'''</span><br />
+<br />
+<br />
+<strong>Havia uma imagem melhor aqui, mas você '''''<u>derrubou</u> o ''''' <span class="plainlinks">[//desciclopedia.org.org/503.html Servidor da Desciclopédia!]</span> Você não leu o aviso de não apertar o botão!? . Isso só prova, como mostra a história da mãe do pirralho:<br />
+<div style="font-family:'Comic Sans MS', 'Comic Sans'; font-size: 1.5em;">Advertência de não fazer só estimula a fazer</div></strong><br />
+<br />
+Você precisa <span class="plainlinks">[//desciclopedia.org/503.html clicar aqui]</span> para consertar.
+----
+<small>''Com  a quantidade de idiotas que apertam o botão vermelho, deveríamos eliminar essa página! Ou trocar por um link para [https://desciclopedia.org/w/index.php?title=Página_Principal&action=delete Eliminar a página principal].''</small>
+<br /><small>''Se você procura pela descrição da imagem, está aqui [[:File:Do not press button.jpg]]''</small>
+</div>

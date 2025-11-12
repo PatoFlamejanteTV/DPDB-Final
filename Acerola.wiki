@@ -1,0 +1,39 @@
+{{vegetal}}
+
+{{taxocaixa
+| nome           = Acerola
+| cor            = #00FF7F
+| imagem         = Acerola.JPG
+| imagem_legenda = Uma <s>maçã</s> acerola
+| reino          = [[Plantae|Plantinhas]]
+| superdivisão   = [[Spermatophyta|Plantas com esperma]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Eudicotidae|Eudissecotia]]
+| subclasse      = [[Rosídeas|Rosinhas]]
+| ordem          = [[Malpighiales|Mephistos]]
+| família        = [[Malpighiaceae|Magikarp]]
+| gênero         = [[Malpighia|Malmequer]]
+| espécie        = '''[[Acerola]]'''
+| binomial       = Malmequer regurgita
+}}
+
+{{cgoogle|Laranjinha}}
+{{vqd|[[Cereja]] de pobre}}
+{{c|Ô moço, me vê um suco de acerola.|Cliente|moço}}
+{{c|Isso não é uma maçã?|Voce|uma acerola}}
+{{c|Cajú ou acerola?|Garçom|suco de graça}}
+
+A '''acerola''', também conhecida como ''cerveja-das-antilhas'' ou ''cerveja-de-bárbaros'', é um fruto que nasce das '''acereloroleireiras''' e que tem origem pelas américas. Não se sabe como, mas centenas de anos atrás eram usadas para produzir [[cerveja]] para os [[bárbaro]]s. Acerola é também o amigo de Laranjinha, conhecido pelo seu trabalho na mini-série-pobre-brasileira [[Cidade dos Homens]].
+
+== Na Alimentação ==
+[[Arquivo:Acerola e laranjinha.JPG|thumb|270px|Uma acerola ao lado de uma laranjinha.]]
+A verdade é que '''ninguém''' come acerola <s>talvez por ele ser negro</s>. No [[Brasil]] e no [[mundo]], a acerola serve '''apenas''' para fazer o '''suco de acerola''' <s>que por sinal é ruim</s>. Muitos restaurantes, quando precisam servir algum suco de graça, opta por servir o suco de acerola por este ser mais barato. A acerola não possui nenhuma outra utilidade e por isso é tão impopular.
+
+[[Arquivo:Biquini acerola.JPG|thumb|left|Um biquini acerola]]
+== No Comércio ==
+O cultivo de acerolas nunca rendeu [[porra nenhuma]] pro [[Brasil]]. Todas as tentativas de produção de acerola no [[Brasil]] por agricultores resultaram em suas respectivas falências. No final, gringo não quer saber de comprar a acerola brasileira, e ela só é comprada em território nacional para fazer suco.
+
+{{frutas}}
+
+[[Categoria:Malpighia]]
+[[Categoria:Espécies vegetais]]

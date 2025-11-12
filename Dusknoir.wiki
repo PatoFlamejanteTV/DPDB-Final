@@ -1,0 +1,39 @@
+{{Fantasma}}
+{{pokedex}}
+{{PokéBox
+| imagem = Dusknoir.png
+| frase = {{Risada}}
+| tamanho = 230
+| tipo1 = Ghost
+| tipo2 = 
+| pokedex = 477
+| nihongo = ヨノワール
+| romaji = Yonoir
+| espécie = A [[morte]] em sua versão máscula
+| cadeia evolutiva = [[Arquivo:DuskullSprite.gif|link=Duskull|Duskull]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:DusclopsSprite.gif|link=Dusclops|Dusclops]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:DusknoirSprite.gif|link=Dusknoir|Dusknoir]]
+}}
+{{vqd|[[Dona Morte]] fazendo ponta em Pokémon}}
+{{c|Eu tenho medo!|Regina Duarte|Dusknoir}}
+{{c|E quem não tem?|Quem vive no mundo Pokémon|citação acima}}
+{{c|Eu como criancinhas no café da manhã! {{Risada}}|Dusknoir|si mesmo}}
+{{c|Um dos meus pokémons prediletos|Capeta|Dusknoir}}
+
+'''Dusknoir''' é um pokémon gótico introduzido na quarta geração. É uma evolução [[Dusclops|do pokémon cíclope zumbi]], mas que só pode evoluir depois que for trocada enquanto estiver segurando uma fantasia de carnaval da [[Dona Morte]]. Ou seja, pra quem joga Pokémon no emulador, essa tal fantasia de carnaval da Dona Morte vai ficar só como enfeite mesmo, e o Dusclops vai ficar como Dusclops para sempre a menos que você tenha um emulador que possibilite troca de um jogo pra outro ou que você faça hack (mas até lá a polícia já terá te pego com a boca na botija).
+
+== Características ==
+Dusknoir é a morte no Mundo Pokémon, só que mais [[gordinha]]. Sua roupa é para disfarçar toda a banha que ele desenvolveu ao evoluir pra Dusclops. Mas na verdade não tem banha nenhuma de verdade nele, aquilo tudo é ectoplasma.
+
+Na frente, o Dusknoir tem uma cara feia que parece que ele tá irritado com alguma coisa. Mas atrás ([[Cu|ui!]]) ele tem uma cara de felizinho e alegrinho, mas devido à sua natureza sabemos o que aquela cara realmente quer dizer! {{Risada}}
+
+Dusknoir é capaz de se comunicar com o [[inferno]] de onde ele recebe ordens do [[Capeta]] para quem será o próximo a ser levado pro inferno no mundo Pokémon. Assim sendo, se ver um Dusknoir perto de você, tome muito cuidado!
+
+Diferente de outros pokémons fantasmas, o Dusknoir é másculo e tem muita força já que ele vai pra academia do submundo todos os dias, então ele resolve tudo na base da porrada mesmo. E nem tente se meter com ele já que ele tem muita defesa.
+
+=== Origem do nome ===
+Dusknoir vem das palavras ''Dus'' (vem do latim ''Dus Diabus'', que quer dizer ''Do diabo'') nome que combina bem com o que ele é. ''Knoir'' é uma corruptela do nome da marca [[Knorr]], já que a Knorr financiou secretamente a criação desse pokémon, ao mesmo tempo em que eles queriam mostrar que têm um pacto com o Capeta.
+
+== Curiosidades ==
+*[[Banette]] até hoje está tristinho por ainda não ter recebido uma evolução foda igual à do seu parceiro Dusclops.
+*Por se comunicar com os espíritos, Dusknoir tem uma habilidade especial chamada <s>[[esquizofrenia]]</s> [[mediunidade]].
+
+{{poke4}}

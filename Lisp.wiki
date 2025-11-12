@@ -1,0 +1,64 @@
+{{computeiro}}
+
+'''Lisp''' é uma [[linguagem de programação]] criada por [[Paul McCartney]] em 1958. Depois da [[Torre de Babel]], a linguagem se separou em inúmeros [[dialeto|dialetos]], dos quais os mais falados são o Scheme, primariamente em [[campo de concentração|campos de concentração]] mantidos em faculdades de [[Ciência da Computação]], e o Common Lisp, uma tentativa de criar a linguagem perfeita, com as características de todos os outros dialetos. O Lisp é conhecido por seu <s>ab</s>uso de [[parênteses]] e por seu consumo excessivo de recursos computacionais. O Lisp não é conhecido por ser flexível, expressivo, extensível, nem por suportar [[orientação a objetos]] e exceptions há mais de trinta anos.
+
+== História ==
+[[Arquivo:lisp-salvando-princesa.png|thumb|Como salvar uma princesa em Lisp.js]]
+A linguagem foi publicada no famoso artigo "Recursive Functions of Symbolic Recursion and their Recursion by Machine", em que McCartney explica como a linguagem lhe foi revelada por [[Deus]] durante uma viagem de [[LSD]]. McCartney então funda uma seita, o [[Cálculo Lambda]], que se populariza entre os estudantes do [[Massachusetts Institute of Technology]]. Dentre eles estava Steve Russell, que durante um momento de fervorosa devoção viu que todo o universo poderia ser representado por listas. Russell então escreve uma implementação de Lisp para o IBM 704.
+
+Na década de 1960, com a criação do primeiro compilador Lisp e o muito aclamado lançamento do Lisp 1.5, o Lisp estava em vias de se tornar a linguagem universal entre pesquisadores de [[Inteligência Artificial]]. Descontente com o progresso da IA e com o temor de ser substituído por máquinas mais competentes, Deus confunde as linguagens dos homens, levando à proliferação de dezenas de dialetos incompatíveis de Lisp.
+
+Em 1973, Richard Greenblatt e Tom Knight criam a [[Lisp Machine]], um autômato auto-consciente movido por Lisp. A criação da Lisp Machine leva ao surgimento de duas facções no MIT: a Symbolics, organização maligna cujo objetivo era dominar o mundo através de IA, e a Lisp Machine, Inc., uma horda de [[hacker|hackers]] liderada pelo próprio Greenblatt, que eventualmente decidiu dominar o mundo através de IA. Essa batalha entre os dois pólos de poder leva à decadência e ao esquecimento da Lisp Machine, que entra em [[depressão]] e viaja para o [[Acre]], onde vive até os dias de hoje.
+
+Em 1975, Gerald Sussman e Guy Steele observam que o uso de Lisp entre os estudantes do MIT tinha caído. Eles então põem em execução um plano perverso, que inicia-se com a publicação dos Lambda Papers e culmina com a produção do [[Structure and Interpretation of Computer Programs]], ferramenta de tortura aplicada sobre os calouros para aliená-los e torná-los fiéis ao Scheme, a variação [[Nazismo|totalitária]] de Lisp criada por Steele e Sussman.
+
+Por outro lado, os programadores que ainda usavam Lisp estavam tendo que lidar com o problema da confusão das línguas. Em 1984 forma-se um comitê para a criação de uma [[Esperanto|língua universal]]. Esse comitê levou ao desenvolvimento do Common Lisp, uma linguagem que combinava características de todas as outras linguagens anteriores. Todos os dialetos anteriores caíram em desuso, exceto pelo Scheme. Isso proporciona inúmeras [[flamewar|flamewars]] sobre Lisp1 vs. Lisp2, macros higiênicas vs. não-higiênicas, e outras birrinhas tradicionais na comundade Lisp moderna.
+
+
+== Sintaxe ==
+
+Em Lisp todo o código é representado por uma combinação de [[átomo|átomos]] e [[lista|listas]]. Um átomo é aquilo que não é uma lista. Uma lista é um dado não-atômico. Outra propriedade das listas é o fato de serem delimitadas por parênteses. Todas as operações são representadas por listas. Essa uniformidade da linguagem leva a uma grande facilidade de compreensão do código. Por exemplo, a expressão:
+
+    (* (/ (- (+ 42 69) (ceiling (log (/ (* 2 2 2)))))) (* 5 71))
+
+representa de maneira óbvia o valor de pi com seis casas de aproximação. O fato de o código ser representado por uma lista abre novos horizontes para <s>gambiarras</s> técnicas avançadas de programação desconhecidas em outras linguagens.
+
+== Exemplos ==
+
+Hello World em Common Lisp:
+
+ (defun compose (&rest args)
+   (if (null args)
+       #'identity
+     (lambda (x)
+       (funcall (car args) (funcall (apply #'compose (cdr args)) x)))))
+ 
+ (macrolet ((h (&rest x) (reverse x)))
+   (h (funcall
+        (lambda (f)
+          (funcall f (compose
+                       (lambda (y)
+                         (rplacd y (cons (funcall (constantly " world!") y) nil)))
+                       (lambda (z)
+                         (cons (coerce (mapcar #'character '(72 101 108 108 111))
+                                       'string)
+                               z)))))
+        (lambda (k)
+          (reduce (lambda (acc x) (string-concat acc "," x)) (funcall k nil))))
+     "~a~%" t format))
+
+O exemplo demonstra perfeitamente a capacidade de abstração da linguagem.
+
+
+{{Linguagens de Programação}}
+
+
+
+[[Categoria:Siglas]]
+
+[[cs:Lisp]]
+[[de:Lisp]]
+[[en:Lisp (programming language)]]
+[[fi:Lisp]]
+[[pl:Lisp]]
+[[ru:Лисп]]

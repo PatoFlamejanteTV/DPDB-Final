@@ -1,0 +1,110 @@
+
+{{vqd|Super Master System}}
+{{c|Made in Japan.|Master System|sua [[japão|origem]]}}
+{{c|Papai!!!|[[Mega Drive]] sobre Master System}}
+{{c|Já vem com Sonic na Memória!|Marketing do método inovador e revolucionário da [[Tectoy|Tectonta]] sobre Master System}}
+{{c|Ah, vá à merda, porra!!|Nerd, após <s>tentar</s> jogar por 15 horas seguidas e apertar o botão reset por burrice!}}
+{{c|Mamãe, me dá um de Natal?|[[Você]], quando tinha 6 anos, querendo desesperadamente um Master System}}
+{{c|Manhê, esse videogame é muito velho!!|[[Você]], logo após ganhar um Master System, quando acaba de saber do lançamento do [[Mega Drive]]}}
+{{c|Agora, sou avô!|[[Sega SG-1000]] sobre Master System}}
+
+[[Arquivo:SMS.gif]] O '''Master System''' (no Japão também conhecido como ''ZA WARUDO WRYYYYYY III'') e no [[Brasil]] como '''Sistema Mestre''', é um [[Esplanada:Categoria:Video games|videogame]] de [[merda|8-bits]] produzido pela [[Sega|SEGA]].
+
+== História ==
+
+[[Arquivo:Master system preco.jpg|thumb|Master System e seu pequeno preço.]]
+[[Arquivo:Golden axe warrior.jpg|thumb|[[Golden Axe Warrior]], cópia descarada do [[The Legend of Zelda (jogo)|Zelda do Nintendinho]] feito pela [[Sega|Cega]].]]
+Foi lançado inicialmente no [[Japão]], pois é fato sabido que desde 1956 o [[Japão]] é fornecedor de 86,75% das porcarias eletrônicas estranhas do mundo. Teve pouco sucesso no seu ano de lançamento (1986) pois nessa altura os japoneses já possuíam [[Polystation]]s muito mais potentes.
+
+O baixo sucesso no Japão, não evitou que a SEGA lançasse o Master System no resto do mundo. Com isso, os japoneses descobriram que era um grande negócio empurrar porcarias aos estrangeiros, e criaram também as lojas de R$ 1,99 pra aproveitar e venderem seus Brick Games; o console tinha uma vida útil de 6 <s>dias</s> semanas, sendo comum a sua venda em lotes de 10 unidades.
+No [[Brasil]], o Master System alcançou grande sucesso, afinal, brasileiro adora macaquear importações. O Master System foi produzido e vendido pela [[Tec Toy|Treco Toy]] a partir de 1989. Era a alternativa perfeita para os pobres meninos que não podiam ter o prazer de ganhar um [[Mega Drive]] ou um [[Super Nintendo]], os melhores videogames da época. A [[Tec Toy|Treco Toy]] ainda lançou diversos modelos portáteis chamados Master System Super Compact e Master System [[Tamagotchi]] Edition, inclusive uma versão rosa desenvolvido para [[emo]]s e [[viado]]s. Além disso, a [[Treco Toy]] desenvolveu alguns jogos exclusivos (leia-se adaptações de outros jogos da Sega, trocando os personagens) para o mercado brasileiro, como versões da série Wonder Boy, estrelados pela Turma da Mônica.
+
+== Características ==
+
+[[Arquivo:MasterSystem.jpg|thumb|left|280px|Mini Master System]]
+O Master System original aceita jogos em cartuchos e cartões. Se você enfiar um CD vai se fuder, porque não cabe. O tamanho máximo de um jogo em cartão é de [[merda|32Kbits]].
+
+O console tinha como característica única sugar os cartuchos, sendo necessário em alguns casos, colocar os pes em cima do mesmo para poder trocar de jogo
+
+E, como caractéristica única na história dos consoles,tinha o botao reset do lado do botão pause, no console, sendo algo extremamente útil, quando você passava 12 horas jogando (que videogame naquela época não tinha essa frescura de salvar o progresso), ia dar pause para tomar um copo dágua e errava o botão, resetando o console e tendo de recomeçar tudo. ou apertando o botão pause com forças sobre-humanas e acabar dando tilt no cartucho
+
+
+[[Arquivo:ZinaSMS.jpg|thumb|right|Zina mandando Salve pro Sega Master System.]]
+
+== SMS em ASCII ==
+
+     AC                                          CEGA MASTER SYSTEM (マスターシステム) 
+     |  RF           A/V
+     |   |            |                                    
+     |   | CANAL 3/4  |   Porta de extensão (usada só no Japão)
+     |   |    |       |              |         
+ -------------------------------------------------------------------------
+ | \                                                                   / |
+ |   \     ######################################################    /   |
+ |     \                                                           /     |
+ |      |---------------------------------------------------------|      |
+ |      |                             | -----CARTUCHO  ----------||      |
+ |      |                             | -------------------------||      |
+ |      |---------------------------------------------------------|      |
+ |     /                              |                         |  \     |
+ |    /                               |  RESET          PAUSE   |   \    |
+ |   /                                |                         |    \   |
+ |  /                                 ---------------------------     \  |
+ | /                                              ------------         \ |
+ |                                                |          |           |
+ -----[-----]----------------(---)-(---)----------|----------|------------
+
+         |                     |    |                  |
+       POWER                 CONTROLES            CARTÕES
+
+== Acessórios ==
+* Sega Control Pad: controle padrão. Possui apenas dois botões (1-Iniciar e 2) e o direcional. Ou, seja, era pra macho, não tinha frescuras.
+* Control Stick: Controle em forma de [[pênis|manche]], para o Master System gay acima citado.
+* Óculos 3D SegaScope: Óculos que dão a sensação de ambiente 3D em alguns jogos, mas na maioria fazem [[você]] parecer [[você|um panaca]] e ferravam com os olhos
+* Sega Light Phaser: Pistola para jogos de tiro, [[sexo anal]]. Função Mútua disponível apenas em algumas versões. Sua fidelidade a um <s>penis</s> [[revolver]] real é tanta que pode ser usada em sequestros, assaltos <s>orgias</s> etc.
+
+== Transformando seu Master System em Mark III ==
+
+[[Arquivo:MasterSystemEmo.jpg|thumb|left|O Master System rosa. Achou que era mentira, né, maganão?]]
+O Master System vem com sua versão japonesa, o Mark III, embutida. Só que fazê-la aparecer é tão fácil quanto fazer o [[Mew]] no [[Pokemon]] dar cambalhotas. Por isso, existem diversas maneiras <s>falsas e ridiculas</s> difíceis e não comprovadas de destravá-la, entre elas:
+
+;Método Pró
+:Abra o Master System; retire a Rom; dumpe ela; insira um jump pro código do Mark III; queime uma Eprom com sua nova Rom; e insira ela no console.
+
+;Método [[MacGyver]]
+:Enfie um grampo com chiclete na porta 2(entre o terceira e o quarto furo conectivo) do seu Master System.
+
+;Método [[Jimi Hendrix]](A)
+:Mostre uma foto do Jimi Hendrix pronto para queimá-lo para o seu Master System. Ele deverá virar um Mark III pra se proteger.
+
+;Método [[Jimi Hendrix]](B)
+:Coloque ele na frente de um ampli e toque [[Voodoo Child]] bem alto com reverb. Se ele não ser destruído pelo som, deve virar um Mark III.
+
+== Efeitos colaterais da transformação do Master System em Mark III ==
+
+[[Arquivo:Master system 3 evolution tectoy.jpg|thumb|Segundo a [[Tectoy|Teclixo]], isso é um Master System.]]
+Depois do sucesso da transformação, várias coisas diferentes vão acontecer. Por exemplo:
+
+* Os jogos vão ficar todos escritos em japones
+* Alguns jogos vão mudar de nome,como por exemplo Power Strike vai virar Aleste, e Alex Kid vai virar Super Mario Clone
+* A fita Psycho Fox vai invocar uma [[raposa]] fêmea demoniaca que vai te transformar num [[Furry]] após obrigar você a fazer [[sexo]] com ela.
+* Osama Bin Laden vai passar na sua casa querendo comprar seu Mark III.
+* George W. Bush vai atacar sua casa pra roubar seu Mark III (Sob pretexto de uma guerra preventiva e suspeita de novas ogivas nucleares)
+* A China vai clonar seu Mark III sem você ver.
+
+== Ver também ==
+
+* [[Mestre]]
+* [[Sistema]]
+* [[Mega Drive|Merda Drive]]
+* [[Terceira Geração de Consoles]]
+
+{{Master System}}
+{{Consoles}}
+{{Sega}}
+{{Segagaga}}
+{{Alex Kidd}}
+{{Mestres_do_Universo}}
+
+[[Categoria:Video games]]
+[[Categoria:Mestres do Universo]]

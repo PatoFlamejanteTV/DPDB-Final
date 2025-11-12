@@ -1,0 +1,55 @@
+{{pokedex}}
+{{lutador}}
+
+{{PokéBox
+| imagem = 056Mankey.png
+| frase = Macaco ou porco? Porco ou macaco?
+| tamanho = 250
+| pokedex = 056
+| tipo1 = Fighting
+| tipo2 = 
+| nihongo = マンキー
+| romaji = Mankey
+| habilidade1 = Ficar irritado
+| espécie = <center>Macaco-porco <s>aranha</s>
+| cadeia evolutiva = [[Arquivo:MankeySprite.gif|link=Mankey|Mankey]]{{seta}}[[Arquivo:PrimeapeSprite.gif|link=Primeape|Primeape]]{{seta}}[[Arquivo:1010MS.png|60px|link=Annihilape|Annihilape]]
+}}
+
+{{Você quis dizer|Monk?}}
+{{c|Mas que bicho que ele é?|Qualquer um|Mankey}}
+
+{{c|Mankey, olha lá aquela carta.|Principal utilidade de um Mankey}}
+
+
+[[Arquivo:MankeySprite.gif|left]] '''Mankey''' é o [[pokémon]] #56 da primeira geração. Um pokémon que se parece com vários animais ao mesmo tempo e sempre apanha dos demais lutadores. Também foi o primeiro pokémon lutador criado, não que mereça muito merito por isso já que ele agora é um pokémon totalmente ignorado já que existe atualmente [[mais de 8.000]] pokémons lutadores para encrementar essa sabugaiada de pokémons.
+
+==Características==
+
+Mankey, por incrível que pareça, é um pokémon do tipo lutador, apesar de parecer mais um nanico redondo. Mas seu tamanho também serve como qualidade para algumas de suas técnicas, que sempre envolvem rasteiras e chutes baixos, acertando preferencialmente [[pinto|lá]]. Seu estilo de luta lembra mais um capoeirista do que um [[Os Mano|mano das quebrada]], que é o estilo da maioria dos outros lutadores, sobretudo [[Machop]] e suas evoluções. Estudos recentes tentam descobrir a origem dos Mankeys na escala evolutiva, numa tentativa de se decidir qual é o [[animal]] que originou esse pokémon. Os mais cotados são o macaco, o porco, o chupa-cabra ou quaisquer misturas dessas criaturas, porque ninguém sabe dizer o que inspirou a criação dos Mankeys.
+
+Definitivamente não é um pokémon de difícil localização, sendo quase sempre o primeiro pokémon lutador dos treinadores [[noob]]s, visto que é comum e não tão resistente à captura. Para pegar um Mankey, basta sair de sua cidade natal, que obrigatoriamente será pequena e situada a apenas 42km do [[Acre]], e andar até o primeiro matinho que você encontrar. Lá sempre haverá um Mankey selvagem, dentre outros pokémons típicos de começo-de-jornada-rumo-à-Elite-dos-Quatro, como [[Rattata|este]] e [[Pidgey|esse]]. Para pegá-lo, basta usar qualquer pokémon à mão, podendo ser até um [[Pikachu]] dos mais fracos, ou então lançar a pokébola direto mesmo, que ele não oferecerá nenhuma resistência ([[ou não]]).
+
+E então, uma vez pego o bicho, é necessário achar um bom uso para ele, certamente. Bichinho de estimação não é um uso convencional, visto que o bicho é mais feio do que briga de foice no escuro, além disso ele não tem força física para carregar a mobília do treinador, tampouco serve para conversar. A verdade é que Mankeys só servem para passar as primeiras fases nos jogos, por serem normalmente os únicos lutadores disponíveis antes de algum ginásio de pedra ou metal, e passado o tal ginásio, seu destino quase sempre é o limbo, assim que o seu amado treinador consegue finalmente um Machop ou outra coisa melhor. No [[Pokémon Trading Card Game|TCG]], Mankey consegue ser mil vezes mais útil no banco do que em combate, já que não bate nem em cego e pelo menos consegue olhar as cartas escondidas, razão pela qual muitos jogadores escolhem esse pokémon para [[Big Brother|dar uma espiadinha]].
+
+==Curiosidades==
+[[Arquivo:Mankeytibia.jpg|left|200px|thumb|Mankey fazendo uma aparição em [[Tibia]], está até colorido para essa ocasião tão especial.]]
+Sabia que...
+
+*Até hoje não se sabe se Mankey é macaco ou porco?
+
+*Não existem relatos de treinadores que continuaram usando Mankeys depois de passado o ginásio de Pewter?
+
+*Mankey é tão inutil quanto um [[Magikarp]]?
+
+*Mankey não come banana e sim ração de pokemon?
+
+==Veja Também==
+
+[[Primeape]]
+O pricialo
+[[Poliwag]]
+
+[[Bellsprout]]
+
+{{poke1}}
+[[Categoria:Macacos]]

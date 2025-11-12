@@ -1,0 +1,40 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = #01B0F1
+|brasao            = Stuttgarter Kickers 2021.png
+|hino              = 
+|nome_oficial      = Sportverein Stupigart Kickers
+|origem            = {{ALE}}'''- [[Stuttgart]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = 
+|capacidade        = 
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = Um grupo de empresários aí
+|material          = 
+|liga              = Campeonato Alemão
+|divisao           = Última
+|títulos           = 
+|ranking           = 
+}}
+
+{{Você quis dizer|Mapa de Stuttgart}}
+{{c|Esse time é Stuttgart|[[Robert Lewandowski]]|Stuttgarter Kickers}}
+{{c|Nunca ouvi falar|Morador de Stuttgart|Stuttgarter Kickers}}
+{{c|Só acredito vendo!|São Tomé|Stuttgarter Kickers}}
+{{c|Esse time non-ecziste!|Padre Quevedo|Stuttgarter Kickers}}
+
+'''Sportverein Stuttgarter Kickers''' é um bando de velhos que "jogam"  futebol totalmente varzeano e semi-amador, recém-criado do [[Inferno]] mas que representa a cidade de [[Stuttgart]] na [[Alemanha]]. Até agora ninguém sabe se ele existe mesmo, qual seu nome correto completo, uniforme, elenco, treinador, nem nada, mas o time já está confirmado na Quinta Divisão do [[Campeonato Alemão de Futebol]] de 2021-22, também conhecido como '''A Fazenda 2021-22''', pois é uma competição em que cada semana um time desiste do campeonato e é eliminado.
+
+Devido à falta de informações sobre esse time, muita gente apostou que ele é o grande candidato a enfrentar o primeiro paredão da [[A Fazenda|Fazenda]] e ser eliminado logo na primeira semana, e assim aconteceu. De toda maneira, o Stuttgarter Kickers voltou em 2015 e perdeu. Voltou em 2016 e fracassou. Voltou em 2017 e se fudeu. Voltou em 2018 e foi eliminado. Voltou em 2019 mas desistiu.
+
+{{Campeonato Alemão}}
+
+[[Categoria:Times de futebol da Alemanha]]

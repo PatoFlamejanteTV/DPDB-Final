@@ -1,0 +1,57 @@
+{{DISPLAYTITLE:<font color=black face="Helvetica">{{PAGENAME}}</font>}}
+{{Info país extinto|
+|native_name            = Confœderatio Helvetica
+|conventional_long_name = Alte Eidgenossenschaft
+|common_name            = Canivetes Suíços Unidos
+|Anteriores             = Sacro Império Romano-Germânico
+|Bandeira anterior      = Bandeira do Sacro Império Romano-Germanico.png
+|Posteriores            = República Helvética
+|Bandeira posterior     = Bandeira da República Helvética (1798–1848).png
+|duração                = 1291–1798
+|image_flag             = Hospital symbol red.png
+|bandeira               = Bandeira da Suíça
+|image_map              = Expansion suiza.svg
+|legenda                = Expansão das fatias do queijo suíço
+|capital                = No começo nenhuma, mas [[Berna]] acaba segurando essa pica
+|official_languages     = [[Língua alemã|Aleminho]], [[Língua francesa|fransuar]], [[Língua italiana|carcamano]] e [[Língua romanche|romeno fake]]
+|government_type        = [[Os mano|União dos mano]]
+|leader_titles          = Não tinha líderes. Apenas parças
+|leader_names           = 
+|Moeda                  = 75 moedas diferentes, imagina a confusão
+|population             = ?
+}}
+'''Antiga Confederação Helvética''' (''Antiga Confederação Suíça'' antes da [[Microsoft]], dona da fonte [[Helvetica]] comprar os naming rights) foi a versão 1.0 da [[Suíça]], e desde então já queriam ser os diferentões da [[Europa]], uma junção de tribos que virariam os maiores banqueiros do continente porque alguém tinha que lucrar com a corrupção das monarquias absolutas europeias.
+
+==<font face="Helvetica">História</font>==
+
+===<font face="Helvetica">Fundação</font>===
+O que viraria a atual Suíça surge de um miolo de comunidades perdidas no meião dos [[Alpes]] e esquecidas pelo [[Sacro Império Romano-Germânico]], os cantinhos e cantões de [[Uri]], [[Schwyz]] e [[Unterwalden]], liderados por mercadores [[hippie]]s que só queriam seguir na paz tocando seus negócios de laticínios de [[leite de burra]] semiadulterado sem a interferência dos pretensiosos e incestuosos [[Habsburgos]]. 
+
+O resultado foi a ''Carta Magma Federal de 1291'', hoje considerado o documento fundador da confederação. Claro, já tinham tido algumas alianças antes, mas como jurar com o dedinho mindinho não tem valor legal, chamam o [[Roger Federer]] no intervalo da partida de tênis pra redigir saporra, oficializando a Suíça 1.0.
+
+===<font face="Helvetica">Expansão</font>===
+[[Arquivo:Archeological discovery in Switzerland.jpeg|thumb|left|260px|A confederação era antiga, mas a engenhosidade suíça já era a de sempre.]]
+Os negócios vão expandindo e também as cidades e vilarejos querendo entrar na vida mansa suíça, um investimento muito mais tranquilo e rentável que ficar embolado nas putarias e joguetes do Sacro Império. Assim ocorre uma rara união da burguesia e proletariado onde esses três cantinhos vão fagocitando comunas urbanas e rurais, e centros importantes como [[Lucerna]], [[Zurique]] e [[Berna]] aderem ao clubinho do queijo.
+
+Essa expansão vem às custas dos Habsburgos, os eternos [[paga-lanche]]s da Europa, que vão caindo nas batalhas por meio do pragmatismo suíço de mirar no [[queixo]] dos inimigos, pois com aquelas cabeçonas deformadas de incesto era quase impossível errar as flechadas. Isso leva os suíços a passarem a patrola na [[Europa Central]], com esse exército implacável originando a temida [[Guarda Suíça]], aquela das fardas engraçadas e emprego eterno na [[conta do Papa]].
+
+===<font face="Helvetica">Reforma Protestante</font>===
+Depois vem a [[Reforma Protestante]] que meio que pega a Suíça de jeito, gerando um [[buceta|racha]] ali entre os cantões, com os mais badalados [[Zurique]], [[Berna]], [[Basileia]] e [[Genebra]] aderindo à nova modinha do [[protestantismo]] e o restolho rural produtor de [[chocolate]] continuando [[catolicismo|catolicozinhos]]. A inveja mútua, claro, vai gerando tretas, pois um lado queria comer sobremesa assistindo as pregações do [[Martinho Lutero]] e o outro queria curtir a paz da roça de boas rezando um terço, mas vendo as horas num relógio modernete e depositando a [[lavagem de dinheiro|grana lavada]] nos bancos urbanos.
+
+Como é de [[século XVI]] que estamos falando, claro que essa [[treta]] sectária virou [[guerra civil]], com cada lado se aliando às potências católicas ou crentelhas vizinhas, cometendo o pecado mortal que é a quebra da neutralidade suíça. Mas pior que nem mesmo isso foi capaz de dissolver a Confederação, pois eles eram que nem [[você]] com [[tua namorada]]: briga, xinga, leva chifre, mas no fim sempre perdoa.
+
+===<font face="Helvetica">Queda</font>===
+Em 1798 a confederação é invadida pelas tropas de [[Napoleão Bonaparte]] em plena expansão de sua start-up [[Primeiro Império Francês|Primeiro Império Francês Ltda.]], que logo bate ali na porta para botar a Antiga Confederação Helvética sob nova direção. Com um estoque de canivete insuficiente para resistir aos fransuares o antigo regime suíço é substituído pela [[República Helvética]], com os suíços ficando nas garras do leão até 1815, quando o [[Congresso de Viena]] enfim salva o rabo deles.
+
+[[Categoria:Estados confederados extintos]]
+[[Categoria:Estados extintos da Europa]]
+[[Categoria:História da Suíça]]
+<css>
+#globalWrapper {font-family:Helvetica}
+#bodyContent {font-family:Helvetica}
+a {font-family:Helvetica}
+a:visited  {font-family:Helvetica}
+h1 {font-family:Helvetica}
+h2 {font-family:Helvetica}
+h5 {font-family:Helvetica}
+</css>

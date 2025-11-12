@@ -1,0 +1,32 @@
+<css> A:background {color:black} A:link { color:darkred;} A:visited {font-weight:bold; color: purple;} A:hover { font-weight:bold; 
+color: purple; text-decoration: underline; } * #content { background: red; } 
+h1 { color: red; background-color: black !important; } 
+h2 { color: red; background-color: black !important; }
+BODY { background: black } 
+div. pBody { background: black } 
+#bodyContent {
+background-color: #000000;color: #FF0000;
+</css>
+{{Não existe}}
+{{Trevas}}
+{{WikipediaNaoTempar}}
+
+'''Zerembro''' é um mês [[cabala|cabalístico]] secretíssimo que só [[Satan Negão]] leva seus seguidores a guardarem, proibindo todo e qualquer outro infiel a intentar sequer conhecer. Portanto não se espante se de repente [[eu|o autor desse artigo]] fazer igual ao [[Salman Rushdie]] e procurar um [[bunker]] pra se esconder dos terroristas da Cabala e do Satanismo...
+
+== (De)Criação ==
+
+Acredita-se que o produtor dessa aberração temporal foi [[Anton LaVey]] na ânsia de criar uma forma de combater o [[Calendário Gregoriano]], daí a fundação do Calendário Satanista, do qual esse mês foi criado, ou decriado, no entender deles, para poder zombar de todas as festas religiosas católicas, {{risada}} (Sim, isso é tão ridículo quanto o [[antinatal]] ou o [[desbatismo]] dos chorões da [[ATEA]], mas ok né...).
+
+Esse mês fantástico portanto comemora a nulidade humana e animal e vegetal e mineral <s>e [[cu|anal]] também</s>, pois que [[niilismo|tudo é uma grande ilusão]] e nada mais (ainda que a quina daquele móvel que eu acabei de bater a porra do meu dedão me pareça MUITO REAL nesse momento ¬¬).
+
+== Comemorações ==
+
+Esse mês possui UM único dia. E o mais bizarro é que não é o dia "1 de zerembro" e sim dia [[0]] DE ZEREMBRO! Sim, é o único mês que se representa assim seu dia. Dizem que esse mês realmente existiu na história do mundo no [[0 (ano)|ano zero]], sendo assim este dia representado no calendário como '''00/00/0000'''. Já o que comemora-se nesse dia... bem, eu acredito que quando esse dia chegar descobriremos realmente o que se comemora, porque nem os inventores dessa porra lembraram de confeccionar uma comemoração.
+
+{{c|Ah, mas tenho uma ideia: Esse é o dia em que comemoramos [[Anticristianismo|a vez que Jesus não pode ir pra festa porque tava pregadão!]]|Satanista|zero de zerembro.}}
+
+[[Arquivo:Infernoteespera.jpg|center|Mande lembranças minhas ao cramunhão!]]
+
+{{Meses}}
+[[Categoria:Satanismo]]
+[[Categoria:Meses do ano]]

@@ -1,0 +1,58 @@
+{{pokedex}}
+<choose><option>{{mineral}}</option>
+<option>{{terra}}</option></choose>
+
+{{PokéBox
+| imagem = 075Graveler.png
+| tamanho = 240px
+| pokedex = 075
+| frase = Com 4 braços se da para fazer [[Sodomia|várias coisas]]
+| tipo1 = Rock
+| tipo2 = Ground
+| nihongo =  ゴローン
+| romaji = Golone
+| habilidade1 = Enchedor de saco nas cavernas
+| espécie = <center>Pedregulho
+| cadeia evolutiva = [[Arquivo:GeodudeSprite.gif|link=Geodude|Geodude]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:GravelerSprite.gif|link=Graveler|Graveler]] [[Arquivo:Seta.JPG|30px]] [[Arquivo:GolemSprite.gif|link=Golem|Golem]]
+}}
+
+{{Você quis dizer|Goro}}
+
+{{C|Se isso é estar na pior, porram! Imagina quem tem 2 braços?|Luisa Marillac|Graveler}}
+
+{{C|AAAAAAAAAAAAAAAAAAAAAA!|Misty|Graveler}}
+
+{{C|Porque meu [[Geodude]] não evolui?|Brock antes de saber que era um péssimo treinador}}
+
+
+[[Arquivo:GravelerSprite.gif|left]]'''Graveler''' é o [[pokémon]] #75 da primeira geração. Ele é a evolução do [[Geodude]], mas na verdade é só uma versão aumentada e com quatro <s>[[Lula|dedos na mão esquerda]]</s> braços. Apesar de sua feiúra característica, não deixa de ser o pokémon mais bonitinho nessa família, já que uma bola flutuante com braços e um bocão enorme não é atraente, muito menos uma pedra com um cabeça saindo de um [[cu|buraco esquisito]] e braços de gente gorda.
+
+==Características==
+
+Assim como Geodude, Graveler também é um pokémon dos tipos pedra e terra, sem absolutamente nada de diferente, mostrando a total falta de criatividade dos roteiristas da [[Nintendo]]. A diferença é que agora se trata de uma pedra mais bem desenvolvida, capaz de causar algum dano de verdade quando resolve sair rolando. Dessa vez, o Graveler conta com 4 apelões braços capaz de trucidar qualquer inimigo de tipos rídiculos como inseto (esse dai é só meter a vassourada), ou que possui sintomas de aracnofobia, já que o Graveler parece até um aranhão de pedra. Depois de ganhar o seu par de pernas que levara para a vida inteira, o Golem se sente mais feliz que nunca, esbanjando felicidade e emoção por finalmente poder andar com suas próprias patas, e não ficar levitando depois de ler um livro sobre artemanhas do espiritismo de [[Chico Xavier]]. O hábitat deste pokémon também é o mesmo de um Geodude, ou seja, [[caverna]]s e mais cavernas cheias de pokémons fracos e comuns, em que eventualmente aparecem alguns bichos um pouco melhores, talvez não seja mais uma caverna situada tão no início da jornada do treinador. Depois de achar uns [[13]] Geodudes e mais uns 8 [[Zubat]]s, provavelmente um Graveler também aparecerá.
+
+As habilidades de um Graveler continuam praticamente as mesmas; quando não rola até cair, joga pedras e tenta utilizar o [[Zidane Round Head Strike]], com a diferença de que ele é consideravelmente mais forçudo e bruto do que um Geodude, evidentemente, só que continua terrivelmente inútil contra o menor cuspe de um pokémon de água. No fundo, o pokémon mudou tudo, mas não alterou nada. Na verdade, um Graveler selvagem também tem a opção de [[Osama Bin Laden|se explodir]] no final da luta, deixando [[você]] sem ganhar nenhum ponto de experiência pela batalha. Perdeu, [[playboy]]. Por alguma razão desconhecida, ou por pura sacanagem mesmo, Graveler é incapaz de evoluir sozinho, precisando da ajuda de um [[miguxo]] seu para poder evoluir para [[Golem]]. A evolução apenas acontece quando Graveler e um amigo fazem troca-troca entre eles. Certamente a experiência adquirida após um troca-troca é o gatilho necessário à evolução.
+
+No animé, o Graveler não faz nada de interessante, apenas fez [[Misty]] mijar nas calças (pra variar), e [[Ash]] ficar com o desejo insaciavel de ter mais uma aberração lotando a sua box lá com o [[Professor Carvalho]], mas preferiu deixar essa ambição pra [[Brock]] já que ele tem um <s>tesão</s> interesse por pokémons de pedra. O resultado foi que ninguém acabou capturando, pois o episódio acabou por ser muito chato.
+
+==Curiosidades==
+[[Arquivo:EP188 Graveler.png|thumb|left|Graveler fazendo sua participação em alguma propaganda de cereal sabor chocolate, por na verdade ser um e ter acabado com a sua infância após você ler essa frase.]]
+Você sabia que...
+
+*Graveler, assim como quase todos os pokémons evoluídos, é só a versão crescida de sua forma inicial?
+
+*Ele não serve nem para conceder experiência de combate, pois explode no fim da luta e todo mundo [[morte|morre]] com isso?
+
+*Graveler aparece mais que [[jaca]] na [[inferno|feira da ninguna]] quando você está lá na Victory Road?
+
+==Ver também==
+
+[[Diglett]]
+
+[[Hitmonlee]]
+
+[[Psyduck]]
+
+{{poke1}}
+
+[[Categoria:Artigos elétricos]]

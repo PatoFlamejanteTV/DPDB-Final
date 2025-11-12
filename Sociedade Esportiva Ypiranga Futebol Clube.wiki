@@ -1,0 +1,48 @@
+{{Box ClubeFutebol
+|cor_clara         = white
+|cor_escura        = blue
+|brasao            = Escudo do Ypiranga-PE.png
+|hino              = 
+|nome_oficial      = Posto Ypiranga
+|origem            = {{PE}}''' - [[Santa Cruz do Capibaribe]]'''
+|apelidos          = Costureira Falida
+|torcedores        = Alviazulino
+|torcidas          = 
+|mascote           = [[Máquina de costura]]. Não, eu não tô zoando.
+|ilustre           = Nenhum
+|estadio           = [[Estádio Otávio Limeira Alves|Limeirinha]]
+|capacidade        = Exatos 5.039 lugares. Sério.
+|sede              = Rua José Francisco Barbosa n. º 320 - Bairro Novo 
+|presidente        = Edimauro Torres
+|treinador         = Rubens Monteiro
+|pior              = 
+|melhor            = 
+|patrocinador      = A prefeitura e a câmera dos vereadores da cidade. [[Lavagem de dinheiro]], aí vamos nós!
+|material          = [[Rota do Mar]]
+|liga              = Campeonato Pernambucano
+|divisao           = Série A2 por enquanto que não faliu
+|títulos           = [[Campeonato Pernambucano - Série A2]] (2004)
+[[Campeonato Pernambucano - Série A3]] (2023)
+
+[[Copa Pernambuco]] (1994)
+Copa dos Clubes Profissionais do Interior (1994)
+e mais duas Copas Costureiro [[Clodovil Hernandes]]	
+|ranking           = 201º lugar, 51 pontos
+}}
+
+'''Sociedade Esportiva Ypiranga Futebol Clube''', chamado também só de '''Ypiranga''' ou de <s>[[Posto Ipiranga|Posto Ypiranga]]</s> '''Ypiranga de Pernambuco''' (já que tem outros times com esse nome espalhados por aí Brasil afora, inclusive com o [[Y]] mesmo no início) é uma organização de peladeiros que trabalhavam nas fábricas têxtil do padre Zuzinha, e que todo fim de semana saíam da Fábrica Ypiranga (já falida devido à [[concorrência]] pesada na cidade - inclusive uma das concorrentes é a fornecedora de uniformes do time atualmente) pra bater uma bolinha. Acabaram tomando tanto gosto pela coisa que desde [[1993]] viraram um time de verdade. Ou pelo menos é o que eles dizem de si mesmos...
+
+== História ==
+
+Em [[3 de julho]] de [[1938]] um monte de gentinha da cidade de Santa Cruz do Capibaribe, inspirados nos jogos de futebol que eles ouviam no rádio de manivela deles <s>que inclusive é o tipo de rádio que ainda usam costumeiramente por lá até hoje</s>, essa gentinha que trabalhava nas fábricas têxtil da região, que a época só trabalhavam fazendo um monte de tecidos de chita pras [[festas juninas]] de [[Caruaru]], juntou um monte de tecidos pra fazer uma bola de pano, e foi com essa bola que eles deram o pontapé inicial (literalmente) num ambicioso projeto de fazer o primeiro time de futebol da cidade.
+
+Obviamente ninguém deu um puto pra isso, já que lá, igual [[Caruaru]] fora do mês de junho e [[Toritama]], só são lembradas mesmo pro povo ir lá catar roupas pra vender em outras cidades, então quaisquer outras coisas que rolam por lá normalmente são ignoradas por geral. E assim o time ficou no [[amador]]ismo por várias e várias décadas.
+
+Até que em 1993 algum maluco virou presida do Ypiranga e pensou "será possível eu tornar esse bando de perna de pau em um time de futebol decente?". Bem, possível possível não foi, mas ele ao menos se empolgou e já no ano seguinte inscreveu o time pra duas competições, em que ele conseguiu vencer as duas, mesmo elas sendo tão valiosas quanto uma moeda de 3 cruzeiros furada. Mas isso foi o suficiente pra eles escalarem pra [[zelite]] do Pernambucano.
+
+Em 1997 o time acabou enfim sofrendo um abainhado sem vontade própria, e daí passou a viver uma vida de time ruim, uma hora sofrendo remendo, noutra sendo cortado e fatiado pelos times da zelite. Em 2004 conseguiu o título da Série A2 vencendo o [[Vitória das Tabocas|Derrota das Tabocas]] e em 2006 conseguiu inclusive ser vice-campeão do primeiro turno do campeonato principal, a única vez que ele passou pertinho de ao menos ir pra uma final de Campeonato Pernambucano de verdade. Em 2011 chegou a ficar, em homenagem ao ano, em 11º lugar, e quase foi recortado de novo da costura do campeonato, mas a [[Cabense]] tinha feito umas cagadas e perdeu três pontos, e aí o Ypiranga escapou de escorregar de novo pra Série A2. Não comemore muito não viu!
+
+Em 2013, mais um quase [[rebaixamento]], só que dessa vez o Ypiranga meteu um surpreendente [[plot twist]] e terminou em quarto lugar o campeonato, podendo pela primeira vez participar da [[Série D]] do campeonato nacional (o time já tinha participado de uma [[Série C]] antes muito tempo atrás, mas foi num tempo que não tinha Série D e era uma bagunça do caralho esse campeonato <s>ainda é, mas deixa quieto</s>). Não que isso tenha sido uma "grande honra", já que de 2014 pra frente o Ypiranga acabou cumprindo sua sina de ficar como roupa rota e jogada no escanteio do guarda-roupas, voltando inclusive pra Série A2. Em 2019 o time participou da Copa Pernambuco, onde teve uma das participações mais bizarras da história: [[invicto|não perdeu um jogo]], mas foi eliminado por algum [[critério de desempate]] maluco. Isso só fez o time ficar de vez como uma costura cagada e malfeita na Série A2, nem se lembrando mais que um dia estiveram na [[Feira da Sulanca]], agora está num bazar de roupas velhas da década de 1930.
+
+{{Campeonato Pernambucano}}
+[[Categoria:Times de futebol de Pernambuco|ypiranga]]

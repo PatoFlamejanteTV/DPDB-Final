@@ -1,0 +1,43 @@
+{{logotipo_falso|Elevatoraction-arc.png|160|top=120|left=190}}
+{{Tarja|[[Arquivo:Elevatoraction-agentmale ea-uspose.png]]}}
+{{Jogos Antigos}}
+
+{{Infobox Game
+|title     = Elevador Ação
+|image     = elevatoraction-arc titlescreen.png
+|caption   = [[WTF?]]
+|developer = [[Taito]]
+|publisher = [[Taito]]
+|released  = [[1983]]
+|genre     = [[Plataforma]]
+|rating    = 2=1
+|platform  = [[Arcade]]
+|ages      = [[Ninguém se importa]]
+}}
+
+{{Vqd|Conserta Felix Jr.}}
+{{C|Já joguei!|Dinossauro|{{PAGENAME}}}}
+{{C|Eu também! Gracinha de jogo!|Hebe Camargo|{{PAGENAME}}}}
+{{C|Gracinha o caralho! Esse jogo é uma merda!|Dercy Gonçalves|{{PAGENAME}}}}
+{{C|Os gráficos perfeitos desse elevador despertaram minha vocação para arquitetura.|Oscar Niemeyer|{{PAGENAME}}}}
+[[Arquivo:Elevatoraction-agentmale gunready.png|left]]
+'''{{PAGENAME}}''' é um fantástico [[jogo]] que revolucionou para sempre a [[história]] do mercado dos [[videogame]]s com seus gráficos lindos e inovadores de fazer inveja até mesmo aos [[game]]s mais atuais. {{Strike|Pior que isso [[tudo]] é [[verdade]] mesmo...}}
+==Review==
+O [[personagem]] que [[você]] controla é [[Otto]], aquele [[cantor]] brisadão, e trabalha como [[espião]] para uma [[sociedade secreta]] usando o codinome Agente [[17]]. Sua missão é entrar em um prédio de [[30]] andares e procurar os documentos que oficializam seu divórcio com [[Alessandra Negrini]], já que a [[esposa]] é a única [[coisa]] decente que lhe resta e você não quer perdê-la. Porém, é claro que a [[moça]] já não quer mais saber de voc... de Otto, então vai tentar impedi-lo de todas as maneiras de coletar os papéis. E é esse o enredo do game.
+{{Cita|O que um elevador tem a ver com isso?}}
+Ora, experimente subir 30 andares a pé e veja se é bom! Obviamente, Otto precisa ir até o último deles para reunir todos os documentos de que precisa para anular a separação, que estão espalhados por todo o edifício, e para fazer isso ele vai usar os [[elevador]]es. Mas Alessandra Negrini contactou seus [[amigo]]s globais para ajudarem-na a impedir que o (ex) [[marido]] prossiga e tenha sucesso em sua jornada, então toda vez que pegar o elevador, Otto será atacado por algum [[galã]] da [[novela das 8]] empunhando uma arma e disparando tiros contra ele.
+
+Cada fase do jogo se passa em um andar diferente, ou seja, em cada uma delas Otto terá que pegar novamente o elevador e [[pleonasmo|subir para cima]]. Quanto mais alto ele for, {{Strike|mais [[droga]]do ele fica}} maior é a dificuldade das fases. Como Otto já é muito [[burro]] e ainda por cima está sendo controlado por você, que é outro [[idiota]], nem adianta tentar jogar até virar o jogo, porque no [[final]] não adianta [[nada]] e mesmo com toda a papelada em [[mão]]s, Alessandra Negrini chuta o infeliz e o [[casamento]] acaba de qualquer jeito mesmo.
+
+[[Arquivo:Elevatoraction originallogo.png|right]]
+
+{{Plataforma}}
+
+[[Categoria:Jogos da Taito]]
+[[Categoria:Jogos para MSX]]
+[[Categoria:Jogos para Nintendo Entertainment System]]
+[[Categoria:Jogos para Game Boy]]
+[[Categoria:Jogos para Commodore 64‎]]
+[[Categoria:Jogos para Arcade‎]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para SG-1000‎]]

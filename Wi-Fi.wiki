@@ -1,0 +1,31 @@
+{{c|Meu vizinho que paga, mas quem usa sou [[eu]]!|Folgado|Vizinho que não sabe botar senha no Wi-Fi}}
+
+{{c|Qual a senha, tio?|Filho da visita|Wi-Fi da sua casa}}
+[[Arquivo:UaiFai.png|miniaturadaimagem|direita|Pronuncia [[Brasil|brasiliana]] do nome do serviço]]
+'''Wi-Fi''' é um sistema de [[Redes sem fio|rede sem fio]] criada pela ''Wi-Fi Alliance''. Como já se usava desde uns tempos o sistema de Hi-Fi pra aparelhos de som, eles acharam que seria muito [[engraçado]] só mudar uma [[letra]] e usar como nome-sigla, mas não foi, porque não importa pra [[Alguém|quem]] você contar isso, a reação não vai ser nada além de um "[[legal]]".
+
+== História ==
+Na [[Anos 70|década de 70]], um serviço de rede internet chamada [[ALOHAnet]] criou um serviço revolucionário: Era possível ser transmitido internet sem o uso de cabos entre ilhas do [[Havaí]]. Obviamente, isso foi um feito grandioso, mas infelizmente foi nos anos 70, então mesmo que fosse sem fio, ainda era a net da época, com sua velocidade de 665,99 nadabytes por dia.
+
+A IEEE (Instituto Especialista em Entreter Esquisitos) viu nisso uma grande oportunidade de <s>[[Ditadura|controlar as massas]]</s> gerar uma rede gigantesca de conteúdo e facilidade de transmissão <s>roubou</s> criou um sistema com base no padrão 802.11, que seria posteriormente a razão da [[vida]] de muita gente, pois agora quem só tem um [[celular]] também pode ficar vendo vídeo no [[YouTube|SeuTubo]], batendo [[punheta]] e [[Twitter|enchendo o saco de famoso]] sem pagar dois salários mínimos pra operadora.
+
+== Funcionamento ==
+Um aparelho central, chamado '''roteador''' recebe internet por meio de um [[Lan Hikari|cabo LAN]] e recebe internet cabeada ([[Sofrimento|essa é a parte que você paga]]), repassando por meio de ondas para dispositivos compatíveis que se conectem ao [[HUB]], que pode ter senha ou não. Depois que está conectado é só alegria, [[ou não]], porque diferente da internet cabeada, onde a velocidade depende do quanto você depela sua carteira pra alguma provedora, nesse caso depende da velocidade do aparelho e quantas antenas ele tem. Não adianta comprar cinco Gigas de rede se seu roteador tem meia [[antena]] e transmite 5 MB.
+[[Arquivo:Balagigante.png|miniaturadaimagem|centro|200px|Pagar duzentos reais na [[Internet]] e usar um roteador de [[2012]] é basicamente assim.]]
+
+== Como proteger sua rede Wi-Fi ==
+[[Arquivo:Cornowifi.jpg|200px|miniaturadaimagem|direita|Nomes de rede possuem diversos usos]]
+Essa parte do artigo é reservada pra caso você esteja com muita gente [[Chato|inconveniente]] tentando puxar sua internet, fazendo com que seu [[YouTube]] não carregue nenhum vídeo em resolução além de 240p. Você pode tentar:
+#Colocar um nome sinistro na sua rede. Exemplo: "Se conectar a mãe morre"; "Não usa meu Wi-Fi, seu fodido"; "Se descobrir a senha te encho de chumbo FDP"
+#Resetar o roteador
+#Escolher uma senha com caractere que não tem no teclado normal, tipo '''ØƏ‿₳‡₯ℳ₦₰'''
+#Falar que esse Wi-Fi tem vírus pro infeliz (eficácia maior com [[Criança|crianças]] e [[Velho|velhos]])
+#Descobrir a senha de um vizinho com internet melhor e passar pro meliante
+
+== Ver também ==
+*[[Internet]]
+*[[Vizinho]]
+
+[[Categoria:Internet]]
+[[Categoria:Invenções da Austrália]]
+[[Categoria:Redes de computadores]]

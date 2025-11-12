@@ -1,0 +1,51 @@
+{{Box ClubeFutebol
+|cor_clara         = red
+|cor_escura        = darkblue
+|brasao            = Escudo do Kuwait.png
+|hino              = 
+|nome_oficial      = Cuzão Sporting Club
+|origem            = {{KUW}}''' - [[Cidade do Kuwait]]'''
+|apelidos          = 
+|torcedores        = 
+|torcidas          = 
+|mascote           = 
+|ilustre           = 
+|estadio           = [[Al Kuwait Sports Club Stadium|Al-Kuzão Stadium]]
+|capacidade        = 18.500
+|sede              = 
+|presidente        = 
+|treinador         = 
+|pior              = 
+|melhor            = 
+|patrocinador      = [[Guaraná Kuat]]
+|material          = 
+|liga              = Campeonato Kuwaitiano
+|divisao           = 1
+|títulos           = 
+|ranking           = 
+}}
+
+'''Kuwait Sporting Club''' é um time de futebol do [[Kuwait]] da [[Cidade do Kuwait]] que joga no [[Al Kuwait Sports Club Stadium|Estádio do Kuwait]]. Bom, já deu pra ver que criatividade não é o forte dessa equipe, o que se traduz em seu futebol sem graça e nada vitorioso.
+
+== História ==
+=== Fundação ===
+
+Fundado em 1960 é considerado como sendo a primeira equipe desportiva a ser criada no [[Kuwait]] (até por isso leva o nome de "Kuwait", o primeiro time daquele paiseco certamente seria chamado assim. Exatamente por ser o único time do país, levou todos campeonatos do Kuwait das décadas de 1960 e 1970. Embora tenham sido torneios de [[futebol de areia]], a FIFA autorizou que tais torneios pudessem ser contabilizados como sendo de futebol de grama, uma vez que a tecnologia de plantar gramado nas dunas do deserto só chegou no Kuwait com os petrodólares a partir de 2015, não sendo justo punir as estatísticas dos times que antes só haviam jogado na areia como o caso do Kuwait SC em seus primórdios.
+
+=== Seca de títulos ===
+
+Os anos 1980 a 1990 não foram generosos com o Kuwait SC, leis trabalhistas começaram a surgir e isso destruiu a tradição do time. Agora os dirigentes eram obrigados a hidratar seus jogadores com água potável durante os jogos sob 50ºC do deserto árabe. Como não poderiam mais usar [[Guaraná Kuat]] como energético, uma vez que o extrato de Biotônico Fontoura presente na fórmula da bebida passou a ser abolida e tratada como ''dopping'', o time entrou em franca decadência e aparentemente sumiu, ficando 20 anos sem ganhar nada (considerando-se que [[Campeonato Kuwaitiano]] deva ser considerado alguma coisa, o que normalmente não se deve em [[CNTP]]).
+
+=== Retorno ===
+
+Após a [[Guerra do Golfo]] a [[UEFA]] em conjunto com [[OTAN]] conseguiram reabilitar o futebol do Kuwait, dando petrodólares para um sheik maluco qualquer que assim em 2000 reativaria o Kuwait SC. O time voltou a conquistar títulos nacionais, mas sabendo de sua insignificância, sequer pleitou alguma vaga na [[Liga dos Campeões da AFC]], preferindo ir jogar a [[Copa da AFC|Série B da Ásia]], muito mais condizente com o baixo nível técnico do time, e eles não poderiam ter feito escolha mais sábia! Em 2009 seria campeão da [[Copa da AFC|Série B da Ásia]] sobre o [[Al-Karamah|Al-Karalho]] de [[Tuvalu Ulterior]] (atual [[Estado Islâmico]] da Síria), em 2012 seria campeão goleando o [[Erbil SC]] do [[Caracalpaquistão]] na final, e em 2013 conquistaria o tri dessa bosta ao vencer a final caseira contra o [[Qadsia SC]].
+
+Quanto às poucas vezes em que arriscou disputar uma [[Liga dos Campeões da AFC]], aí era sempre eliminado logo na fase dos times café-com-leite da competição.
+
+== Títulos ==
+
+* '''[[Campeonato Kuwaitiano|Campeonato Sul-Iraquiano]]''': 13 vezes (1964–65, 1967–68, 1971–72, 1973–74, 1976–77, 1978–79, 2000–01, 2005–06, 2006–07, 2007–08, 2012–13, 2014–15, 2016–17)
+
+{{Campeonato Kuwaitiano}}
+
+[[Categoria:Times de futebol do Kuwait]]

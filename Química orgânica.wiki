@@ -1,0 +1,53 @@
+{{explosivo}}
+{{maconha}}
+[[Arquivo:10445e2.gif|thumb|Exemplo de exercício de química orgânica.]]
+
+{{c|O [[átomo]] de [[carbono]] é teu [[Deus]] e suas ligações sigma são seus profetas!|Professor de [[química]], em momento de [[bad trip|êxtase]],|Química Orgânica}}
+{{c|É uma parte muito importante da química...|[[Engenheiro Químico]]|Química Orgânica}}
+{{c|A traição! E pela retaguarda!|[[Seu Madruga]]|reação SN2}}
+{{c|[[Metanal|METANAL]]!!!!. Meu filho, pare de ver putaria na escola!|[[Tua mãe]]|nomenclatura da química orgânica}}
+{{c|A química orgânica é uma matéria facílima...|Professor de química, mentindo,|química orgânica}}
+{{c|Salci fufu!|[[Sérgio Mallandro]]|a nota da prova de química orgânica.}}
+{{c|Considere o ácido 2,3,4-triamino-2-hidroxipentandioico...|Vestibular|{{PAGENAME}}}}
+
+A '''química orgânica''', também chamada de '''química do [[carbono]]''', é a parte da química que trata de tudo aquilo que a [[química inorgânica]] não conseguiu, incluindo confundir a sua mente. Ela foi inventada por um biruta chamado Berzellius, logo depois de um de seus discípulos criar urina sólida (vulga [[ureia]]) aquecendo uma pedra que se usa para lixar os pés.
+
+==A criação da química orgânica==
+[[Arquivo:Bucetona.jpg|thumb|120px|Isto é um composto orgânico: a [[bucetona]].]]
+Em torno de 1700 e lá vai pedrada, a [[química]] deixou de ser chamada de [[alquimia]] por motivos de pressão política. Com isso, os novos ''químicos'' decidiram expandir o conhecimento que possuíam (anotações de como transformar algo em ouro, não tendo muita utilidade) e passaram a estudar as substâncias que formavam o que era vivo (isso não inclui [[você]], pois sabe-se que [[você]] é um tapado). 
+
+<s>Por ineficácia</s>, ninguém conseguia criar [[porra]] nenhuma de composto orgânico em laboratório. Os pesquisadores da época, para justificar a enorme quantidade de dinheiro gasto, criaram uma teoria chamada '''''Teoria da força vital''''', que dizia que apenas os seres vivos podiam criar compostos orgânicos.
+
+No entanto, um cientista maluco chamado de [[Friederich Wöhler]] conseguiu, por meio de acidente ''(como sempre)'' derrubar essa teoria. Enquanto esquentava uma pedra pomes que utilizaria para lixar um calo no dedão direito, percebeu que a mesma estava derretendo, ficando com uma cor amarela e soltando um cheiro horrível de urina. Após analisar, percebeu que um [[Sal (química)|sal]] (cianato de amônio) inorgânico, se transformou, por meio do calor, em uréia. Na equação química:
+
+::<math>\mathsf{NH_4OCN~\stackrel{\Delta}\longrightarrow~(NH_2)_2CO}</math>
+
+Depois de realizar as anotações e provar o experimento, tornou-se o pai da química orgânica e o carrasco dos alunos do [[Ensino Médio]].
+
+==[[Funções orgânicas]]==
+Depois de se estabelecer como ciência, a química orgânica foi crescendo e hoje é bem maior que a química inorgânica, em termos de substâncias e de certos conteúdos chatos. Com a descoberta de inúmeras substâncias, decidiu-se separá-las de acordo com uma função orgânica específica, o que significa mais trabalho e mais incomodação. Essas classes de substâncias foram criadas a partir de certas propriedades comuns de alguns compostos, como: deixar bêbado, queimar a pele, causar câncer, entre outras. Infelizmente, essa classificação e a nomenclatura dessas funções deixam qualquer um doido. As provas de química orgânica do final do ano são geralmente, mais confusas que as de [[matemática]]. Segue abaixo as funções orgânicas:
+
+==Nomenclatura==
+[[Arquivo:Qorg.jpg|thumb|250px|O nome da molécula representada na imagem é '''3-etil-2,2-dimetil-4-isopentano-5,6-di-isopropil-octano''', o que prova a [[AAAAA|facilidade]] da nomenclatura química.]]
+A nomenclatura da química orgânica é, por tabela, a parte mais chata e difícil da matéria, já que, se você errar uma letra, você toma num [[nabo]] federal. É preciso saber o nome de radicais, o nome das funções orgânicas e saber se a substãncia <s>tem gordura</s> é saturada ou insaturada. Tomemos como exemplo o nome: '''[[metanal]]'''. Ao contrário do que se pensa, não é uma sigla mal feita para ''[[sexo anal]]'', mas sim refere-se ao [[formol]]:
+
+'''Met''' - 1 (um) átomo de carbono na cadeia;<br>
+'''an''' - molécula saturada <s>(gordinha)</s>;<br>
+'''al''' - pertence à [[Função Orgânica]] [[Aldeído]];<br>
+'''WTF''' - mas que porra é essa?
+Como se percebe, é apenas necessário ter anos de experiência e prática para entender.
+
+==Ver também==
+*[[Isomeria]]
+*[[Tetravalência do carbono]]
+*[[Química inorgânica]]
+*[[Postulados de Kekulé]]
+
+{{química orgânica}}
+{{partes da química}}
+
+[[Categoria:Campos de atuação da química]]
+
+{{Melhores artigos/outro idioma|es}}
+[[en:Organic chemistry]]
+[[es:Química orgánica]]

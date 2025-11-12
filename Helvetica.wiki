@@ -1,0 +1,39 @@
+{{DISPLAYTITLE:<font color=black face="Helvetica">Helvetica</font>}}
+[[Arquivo:Amostra DP Helvetica.gif|thumb|right|200px]]
+
+'''Helvetica''', como o próprio nome diz, é uma fonte criada na [[Suíça]], e que, antes da "invenção" da [[Arial]], que nada mais é do que uma imitaçãozinha distorcida desenvolvida pela [[Microsoft]], [[você]] via em tudo que era lugar: nas ruas, nos jornais e até mesmo nas legendas da [[televisão]]. É uma fonte simples e estilosa, mas que, assim como a cópia sem-vergonha da turma do [[Bill Gates|tio Bill]], cansa o olho com facilidade.
+
+==<font face="Helvetica">História</font>==
+[[Arquivo:Helvetica.jpg|thumb|left|250px|Onde você bate o olho, tem Helvetica.]]
+A fonte Helvetica foi criada em [[1957]] por dois [[vagabundo]]s suíços, Eduard Hoffman e Max Miedinger, ''[[designer]]s'' tipográficos – sim, porque já desde aquela época, para ficar bolando novos tipos de letra, era preciso ser ocioso em tempo integral.
+
+Essa fonte logo se tornou uma febre na indústria tipográfica, e, com isso, Eduard e Max faturaram os tubos com a venda da Helvetica para a empresa Haas. Max não quis mais saber do ''design'' de fontes, trocou de ramo, veio para o [[Brasil]], mudou o seu sobrenome para [[Max Gehringer|Gehringer]] e hoje vive dando palestras de [[autoajuda]] empresarial para empregados e patrões.
+
+A Helvetica é uma fonte tão cultuada que, quando completou [[50]] anos, em [[2007]], ganhou um [[documentário]] só seu. Se documentários geralmente fazem todo mundo dormir – com exceção da série ''[[Faces da Morte]]'' e daqueles sobre a [[pornografia|indústria pornográfica]] –, imagine esse sobre um tipo de letra…
+
+==<font face="Helvetica">Como obter a Helvetica</font>==
+[[Arquivo: Helvetica arial.gif|thumb|250px|Estraga-se a Helvetica e pronto: eis a Arial.]]
+Hoje em dia, existem [[5|cinco]] maneiras de se conseguir a tal Helvetica:
+* pagar os olhos da cara comprando-a num desses [[site]]s que vendem pacotes de fontes – Linotype, Monotype, etc. Melhor deixar isso para os donos de jornais e revistas, que esses sim têm grana para gastar;
+* recorrer à [[pirataria]] indo a sites do tipo [[4shared]], [[Rapidshare]] e outros do mesmo quilate – e levando de brinde [[vírus]], ''[[spyware]]s'', ''[[trojan]]s'' e outras porcariazinhas;
+* comprar uma impressora (preferencialmente a [[laser]]) ou uma multifuncional da [[Hewlett-Packard|HP]] e instalar a partir do [[CD-ROM]] do driver;
+* trocar seu [[PC]] por um [[Macintosh]], pois a Helvetica está instalada por padrão no [[Mac OS X]];
+* procurar fontes com desenho semelhante em sites especializados.
+
+Se você tem a Helvetica da HP instalada, vai notar que a leitura de qualquer coisa com a fonte em tamanho menor que 16 pontos fica simplesmente uma [[merda]]. Pelo menos a impressora que você comprou é bonitinha.
+
+Mas vários ''designers'' de bom coração ao redor do [[mundo]], para não deixar que [[você]] apele à pirataria ou gaste dinheiro à toa, lançaram versões gratuitas da Helvetica com outros nomes, por exemplo: FreeSans, Geneva, NimbusSans L, Swiss721 BT, Text SSi e até mesmo a Sanskrit Helvetica, com caracteres especiais para se escrever em [[sânscrito]]! Agora, me diga: para que [[diabo]]s você iria querer escrever alguma coisa em sânscrito, se mal sabe o [[Língua portuguesa|português]] direito?
+
+{{oposto|Arial}} 
+
+{{Fontes}}
+[[Categoria:Design da Suíça]]
+<css>
+#globalWrapper {font-family:Helvetica}
+#bodyContent {font-family:Helvetica}
+a {font-family:Helvetica}
+a:visited  {font-family:Helvetica}
+h1 {font-family:Helvetica}
+h2 {font-family:Helvetica}
+h5 {font-family:Helvetica}
+</css>

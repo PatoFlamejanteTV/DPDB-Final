@@ -1,0 +1,57 @@
+{{game}}
+'''Zoom!''' é um jogo da [[Sega|Cega]] feito para o [[Mega Drive|Merda Drive]], em 1989.
+
+{{Infobox Game|title = "Zoooooooooooooooooooooooooom!"
+|image               = ZoomJP.jpg
+|caption             = "C'mon, Boy!"
+|developer           = [[Discovery Software|Discovery Software nas outras Plataformas]], [[Sega|Cega, na de Merda Drive]]
+|released            = [[1989]]
+|genre               = [[Quebra-Cabeça]]
+|rating              = 2%
+|platform            = [[Mega Drive|Merda Drive]], [[Amstrad CPC]], [[Comoddore 64]]
+|ages                = Livre
+}}
+
+== O jogo ==
+
+O jogo nunca foi popular e nem famoso!
+Zoom nunca chegou aos alcances como os outros jogos de Merda Drive.
+Porém, falaremos sobre o jogo assim mesmo.
+Seu objetivo, em todos os Rounds e Stages, é deixar o chão piscando.
+Para isso bastar passar nele uma vez.
+Quando completar tudo, você vai pro próximo Round.
+O jogo tem um relógio que serve para marcar pontos ([[ou não]]).
+O jogo tem 6 rounds em cada Stage, sendo que, assim quando acabar o sexto Stage, 
+o jogo começa desde o ínicio, porém, mais difícil ou mais fácil.
+
+== Itens ==
+
+* Bala vermelha: Aumenta suas [[bolas]] de [[borracha]] que você fica cagando;
+* Bala verde: Dobra as bolas (não as suas, [[Porra]]!);
+* [[Cogumelo]]: Só marca pontos (lixo ¬¬);
+* [[Relógio de Areia]]: Paralisa os inimigos por algum tempo;
+* [[Banana]]: Deixa os inimigos lentos por algum tempo;
+* [[Sol]]: Fique invencível por alguns segundos;
+* [[Pena]]: Completa o Stage pra você;
+* [[Estrela]]: Item aleatório.
+
+== Personagens ==
+
+* Smart: O Personagem heroí do jogo;
+* Cue (não é o arquivo, Porra!): Uma molécula doida;
+* Charm: Um polvo [[Hentai]]. É o único inimigo no qual se você tocar, você não morre (por ser viadinho...);
+* Spiler: O pior inimigo do jogo. Ele suga todas as linhas que não foram completadas;
+* Spine-Spine: Inimigo que muitas vezes não se <s>come</s> move;
+* Rowdy Fingers: O inimigo "Robert" do jogo. Aparece seguindo você e seus movimentos.
+
+== Ver também ==
+
+* [[Mega Drive]]
+* [[Sega]]
+* [[Commodore 64]]
+
+{{sega}}
+
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Mega Drive]]
+[[Categoria:Jogos lançados em 1989]]

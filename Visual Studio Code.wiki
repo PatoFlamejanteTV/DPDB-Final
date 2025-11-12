@@ -1,0 +1,26 @@
+{{Microsoft}}
+
+{{c|Na União Soviética, o VIM não sai de você!|Reversal Russa|VS Code.}}
+{{c|Aiiiiinnnnn, eu ainda prefiro o VIM! | Freetard |VS Code.}}
+{{C|ELE É MUITO LENTOOOOOO!!| Muleque retardado com [[1000]] extensões instaladas sobre VS Code.}}
+
+[[Arquivo:Mandetta.jpg|thumb|right|Usuário iniciante que não consegue debugar o código por não saber o que está fazendo]]
+O '''Visual Studio Code''' (ou simplesmente ''VS Code'' para os mais [[Brotheragem|chegados]]) é um editor de texto usado para o desenvolvimento de programinhas escritos com [[POG]], ou seja, gambiarras. Foi desenvolvido pela Microsoft da [[União Soviética]] como mais uma ferramenta para <s>dominar o mundo</s> ajudar os programadores do mundo inteiro usando TypeScript. Ele (quase) funciona em muuuuuitos sistemas operacionais como o [[Windows]], [[GNU/Chato]] e [[MacOS]].
+
+== Um pouco mais ==
+Por ter sido desenvolvido na União Soviética em [[2018]] o VS Code conta com a licença do [[MIT]] e seu código fonte, apesar de não ser usado pela maioria dos usuários, está hospedado no [[GitHub]] e tem mais extensões que a cintura do [[Gay|teu pai]].
+
+Ele também está sendo usado por estudantes do [[SENAI]] por possuir uma extensão chamada "live share" que permite que duas ou mais pessoas <s>façam web sexo</s> trabalhem no mesmo projeto, garantindo assim a nota [[comunismo|deles]].
+
+O VS Code suporta nativamente várias liguagens de pogramação, tais como o [[Assembly]], [[Cobol]], [[Microsoft Flash|Flash]] e muitas outras, são tantas que nem o Lula consegue contar usando os 10 dedos, e que com certeza são expandidas por algumas das [[1000]] extensões do programa.
+
+== Solução de problemas ==
+É uma pena que tu esteja passando por isso, saiba que você <s>não</s> veio ao lugar certo :D, apesar de ser o mesmo programa ele se comporta de maneiras<s>inesperada</s> diferente em cada <s>lixo</s> Sistema Operacional, abaixo tem uma tabela com possíveis <s>formas te fuder mais ainda</s> ajudar carinhosamente xD.
+{| class="wikitable" 
+|-
+!Linux([[Ubuntu]]) e MacOS 
+| Tente reinstalar o programa usando o "apt moo" ou digite: <pre>:(){ : | :&;:</pre> em um terminal e aguarde o sistema reparar a instalação do "code"
+|-
+!Windows
+| Apague a pasta [[System32]], ela só te trará problemas.
+|}

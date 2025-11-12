@@ -1,0 +1,38 @@
+{{Tecnologia}}
+
+[[Arquivo:Corei5fake.png|Right|thumb|Será que é sexta geração mesmo!?]]
+O '''Core I5''' é um processador bom (apenas bom) para quem é [[pobre]]. Já que uma CPU com o [[Core I7]] custa caro. Ou seja, a oportunidade de algum pobre ter algo que preste surgiu com a tecnologia do Core I5.
+
+Agora, quando eu digo pobre, eu digo '''pobre-pobre''', mas se você é '''pobre pra caralho''', é melhor continuar com o seu [[Celeron]] da vida, porquê um computador com I5 é <s>mais de 300 reais</s> 204 mil Kwanzas.
+Outra noticia frustrante é que se você pretendia dar um Upgrade na sua placa-mãe, trocando o seu [[Core Duo]] por um core i5, SE FUDEU!!! Os processadores Core I5 trabalham com um <s>boquete</s> soquete 1156 (mas a Intel fica mudando os soquetes pra [[burro|você]] trocar de [[placa-mãe]]), se você é [[maconheiro]] e não entendeu nada, eu te explico, já que você deve ser [[pobre]], sua CPU trabalha provavelmente com socket de 775, ou seja, você não vai conseguir encaixar um processador com 1156 pinos aonde cabe apenas 775! Portanto, '''UPGRADE FAIL'''!!
+
+== Características ==
+A [[Intel]] lançou várias gerações do Core-I5, mas como a [[Intel]] odeia os [[pobre|pobres]], a cada uma ou duas gerações ela troca o soquete, porque os seus consumidores são burros demais para comprar um [[Ryzen]].
+
+A [[Intel]] jura que é um processador custo benefício pra quem quer alto desempenho, mas o que ela não diz é que sai mais barato comprar um processador da [[AMD]] ou um [[Intel Core I3]] de décima terceira geração para obter quase o mesmo desempenho pela mesma faixa de preço.
+
+A pergunta que não quer calar: será que roda [[Crysis]]?!?
+
+=== Gerações ===
+{{Fato|Um Core I5 de segunda geração provavelmente é melhor que o seu [[Pentium|Intel Lentium]]?}}
+
+ [[Arquivo:Engana_pobre789.png|right|thumb|Note como ele não cita a geração do I5.]] 
+
+Como já citado anteriormente neste artigo, existem muitas gerações do I5, cada uma melhor que a outra (ou não).
+
+*'''Intéu Coré I5 650 - Intéu Cori e Cinco 2550:''' Primeira e segunda geração do I5, esses são os maiores [[golpe do baú|Engana-Pobres]] do mercado, já que tem baixo desempenho, mas o [[Retardado|Brasileirinho Comum]] vai comprar só por ter Intel Core no nome (o que logicamente significa que é bom).
+
+*'''Intel Core I5 3300 - Intel Core I5-6600:''' Também conhecidos como '''"EU TENHO UM PROCESSADOR DE ALTO DESEMPENHO, EU JURO"'''.
+São as gerações intermediárias do I5, até que valem a pena comprar mas estão um pouco ultrapassadas.
+
+*'''Intel <s>Gore</s> Core I5 7400 - Intel Core I5-9600:''' Processadores dessa faixa, apesar de serem bons, quase nunca são utilizados em computadores no Mercado Brasileiro. E já da pra adivinhar o motivo.
+
+*'''I5-10400+''' Resume-se em: Eu deveria ter comprado um [[Core I7|I7]].
+
+== Propósito ==
+O Core I5 é um processador de desempenho médio da linha Intel Core, ou seja, são pra quem é pobre demais pra comprar um [[Core I7|I7]] <s>e fresco demais pra comprar um [[Core I3|I3]]</s> mas precisa de um desempenho bom.
+
+Seu público-alvo é o usuário comum, ou seja, [[você]], sua [[tia]], sua [[vó]] e o caralho aquático.
+
+Mas pode ignorar tudo isso que eu falei, porque aqui é [[Brasil]], compre seu [[CPU Confidencial]] e [[Filho da puta|vá se foder]], porque é [[Intankável o Bostil]] e aqui trabalhamos meses pra comprar um I5.
+{{Processadores  da Intel}}

@@ -1,0 +1,45 @@
+
+{{faliu}}
+
+[[Arquivo:Kurumin.png|thumb|Símbolo do Kurumin. Note toda sua voracidade [[Índio|indígena]].]]
+{{ Você quis dizer|Linux Starter Edition [[Dragon Ball]]}}
+{{ Você quis dizer|[[Windows 98]]}}
+{{c|Na [[União Soviética]], O Kernell compila [[Você|'''VOCÊ''']]''!!!''|Reversal Russa|Kurumin}}
+{{c|Tem aero nele?...|Bill Gates|a diferença do Windows Vista e o Kurumin}}
+{{c|... não sua besta, não é Aero, é Beryl!|Usuário do Kurumin|a pergunta idiota acima}}
+{{c|Eu nun tendi o qi eli falô!|Tiozinho do Pânico|Kernel Panic}}
+{{c|Mim compilar kernel. Mim fazer dança do gcc!|Carlos E. Morimoto|compilar o kernel}}
+{{c|O Kurumin acabou. O [[Ubuntu]] venceu, tudo está terminado,  e [[Você|qualquer um]] que finja que é diferente está se [[fuder|fudendo]] à toa.|Aberforth Dumbledore|Kurumin Linux}}
+
+== Descrição ==
+[[Arquivo:MsLinux.gif|right|thumb|Versão beta 2 do Microsoft Linux 2005]]
+Normalmente é um O.S. muito utilizado por nerds dentuços e de óculos grandes, (sendo eles grandes defensores dele, visto que assim eles podem ajudar as pessoas que não entendem e assim terem seus minutos de fama) pense que o  Kurumin e qualquer variação do Linux  é uma bela gambiarra a qual nem sendo de graça consegue ultrapassar outro O.S. , nem mesmo os hackers tem interesse por atacá-lo por isso torna-se muito seguro.
+
+== Definições Técnicas ==
+[[Arquivo:Falha-critica.gif|thumb|400px|right|Papel de parede de usuário do Kurumin. Ou não.]]
+Sabendo que o Kurumin é baseado no Debian, você pode usar os pacotes .deb (DEBoxando de você) para instalar programas, ou o famoso 'apt-get' (auxiliador de prostitutas travestis gay e transexuais) para instalar (ou remover) programas. A vantagem de usar esta incrível ferramenta, é a possíbilidade de fazer coisas que você nunca imaginou ser possível, como quebrar dependencias, misturar repositórios de versões estáveis e instáveis do Debian, e ferrar com tudo. Existem boatos que o Kurumin também recebeu alguns pacotes do [[Windows]], por isso ele as vezes simplesmente não funciona como foi feito para funcionar. A vantagem e o propósito do Kurumin ter inspirações no [[Windows]] ainda é desconhecida, mas acredita-se que é para compartilhar o ''Pacto com o [[Diabo|Demônio]]''.
+
+== Surgimento ==
+[[Arquivo:Cacique.jpg|thumb|Na foto acima, está o cacique [[Carlos E. Morimoto]], principal desenvolvedor do Kurumin.]]
+O '''Kurumin''' surgiu devido ao desmatamento das florestas subtropicais do [[Amazonas]]. A população local, revoltado com a perca de suas casas nas árvores, resolveram passar a diante a cultura indigena. A primeira tenta tentativa foi a tentativa da criação do estado do [[Acre]], que falhou miseravelmente. Em seguida, contaram com a ajuda do Mr. M e os 7 anões. Eles idealizaram o projeto do Kuzim, e logo em seguida foi lançada a primeira kuzao ''Kuzim'. Essa versão era totalmente diferente das anteriores. Ela contava com alguns scripts feito pelos animais da floresta amigo dos indios, como [[Python]]. Esta versão também teve influencias do [[Capivara|Kapivara]] e [[Calango|Kalango]], para tornar o ambiente mais amigável aos desafurtunados que não conheciam as florestas brasileiras. As próximas versões que surgiram do Kurumin (2,3,4,5,6 e 7, respectivamente) foram consideradas pelo [[IBAMA]] como a distro que menos maltratava animais, se bem que os pinguins passavam fome nela.
+
+== Evolução ==
+
+[[Arquivo:Morimoto.jpg|left|thumb|Morimoto compilando o Kernel.]]
+A evolução da distribuição pode ser essencialmente comparada a um barraco de favela. Imagine um casal que acabou de se casar e mudar para o morro mais próximo. Começa-se com um barraco de um cômodo, sem reboco, janelas e portas de ferro sem vidro. O casal começa a procriar e a demanda por espaço aumenta, constrói-se um puxadinho aqui, outro acolá. Puxa-se um gato pra iluminar o quarto que não tem janela, porque a parede dá de frente com a do vizinho. Puxa-se um cano da pia da <s>cozinha</s> <s>banheiro</s> <s>sala-de-estar</s> copa para servir de descarga do banheiro novo. Chega um ponto em que não há mais espaço para construir para os lados, então <s>o barraco</s>a casa cresce para cima, num gesto de engenharia altamente ousado.
+
+Um dia finalmente, durante um churrasco de gato na laje, em que a sogra resolve aparecer, a casa cai, o barranco sede, todos morrem soterrados, e a culpa é do governo.
+
+O Kurumin é assim, cheio de remendos, consertos, patches, jeitinhos-brasileiros, mas no fim nada funciona.
+
+== A ajuda do Kurumin ==
+A ajuda do Kurumin é tudo de bom, tanto para os nerds quanto para os idiotas que ouviram os nerds falando do Kurumin. Como ninguém, exerto os nerds, sabe mexer no Kurumin a ajuda seria se grande '''ajuda'''. O triste é saber que guando precisamos dessa ajuda recebemos um '''script''' (texto) dizendo que ainda não existe Tópicos de Ajuda para isso ou para aquilo (e ainda perguntam se desejamos criar o texto sobre o que não sabemos). Lá se vai a chance de uma pessoa normal aprender sobre Linux. Para os Nerds isso é maravilhoso, pois é um passa-tempo criar """ajuda""" para o Kurumin. Criam um pacote com um monte de merda e levam para escola e tentam explicar para a pessoal que tem o Kurumin so para se amotrar e dizer que baicharam a iso so em 12 horas como intalar na distribuicao dele. É assim: "primeiro intala ele no HD, depois você abre o terminal e escreve esse codigo aqui ó.....". (que merda). O idiota responde que se fosse Windows ele jogaria a palavra windws no Google e teria o problema resovido...!!!
+...
+ou logar como Root no KDE, dai voce encontra as ajudas no menu.
+
+
+== Como Fechar um Aplicativo Travado ==
+[[Arquivo:Osama_explosao.jpg|thumb|Computador com kurumin após dar KERNEL PANIC]]
+No Windows sempre que um programa trava vocês apertam um ctrl+alt+del para abrir o Gerenciador de tarefas e enfim fechar o programa que travou (isso é comum no Windows, em média tem uns 50 processos travados aí no seu computador e você nem sabe). Pois fique sabendo que isso é muito facil no Kurumin. É assim: vá no Menu Iniciar (que menu iniciar) e clique no "'''XKill*''' (Matar Aplicativos Travados)", aí vai aparecer uma caveirinha no lugar do ponteiro do louse (que original), basta clicar com ela no aplicativo que está travado. MAS CUIDADO PARA NÃO CLICAR NA ARÉA DE TRABALHO, POR QUE SE NÃO ELA FICA PRETA E MORTA, E MAIS CUIDADO AINDA PARA NAO CLICAR NA BARRA DE TAREFAS, POR QUE SE NÃO ELA TAMBÉM MORRE. caso você faça isso ficará com a tela do monitor toda preta, aí você liga para o Fiho da Puta que fez XKill para perguntar como que volta com o desktop. Mas não se preocupe, o Kurumin Linux é hoje umas das distribuicões Linux mais amigável e fácil de usar (so se você for um Ultimate-nerd, claro)
+* incrível como no linux tudo o que você for abrir começa com as letras K,X,M,Y,W,G & SH...
+{{Linux}}

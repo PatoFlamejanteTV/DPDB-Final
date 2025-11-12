@@ -1,0 +1,214 @@
+{{vqd|[[Idiota|BOCOL]]}}
+{{C|A linguagem que nunca vai morrer... |Professor que trabalha na IBM|COBOL}}
+{{C|Conheço um cara aqui que toma pinga antes de programar COBOL !|Professor que trabalha na IBM|a facilidade de programar em COBOL}}
+{{C|Isso ainda ecziste!|Padre Quevedo|COBOL}}
+{{C|Você está... Demitido!|Roberto Justus|Programador COBOL}}
+{{C|Preciso aprender uma linguagem decente!|Programador COBOL| Futuro Profissional}}
+{{C|O COBOL é a única linguagem de programação que passa pelo corretor ortográfico do Word!|Bill Gates| COBOL}}
+{{C|Isso é linguagem de corno! |Ex-Programador COBOL|COBOL}}
+
+== Descrição ==
+'''COBOL''', sigla de '''Corno Olhando Biscate Ordenhando Leite''', é um linguagem que foi criada antes dos computadores por [[BabySauro]] no [[Acre]]. Tem como característica de seguir a risca os conceitos [[POG]].
+
+== História ==
+Cobol é uma linguagem muito boa.
+
+Em 1950, um conjunto de empresas fodonas dos [[EUA]] se reuniu para checar se a linguagem era própria para uso em Bancos, Empresas de Tráfico de Gatinhos e venda de Pamonhas. Então resolveram adotar a linguagem para o uso destas tarefas.
+
+Mas descobriram que todos os Programadores de COBOL deviam ser [[EMO]]'s cheiradores de gatinhos. Por isso empresas dos EUA fizeram um grande Concurso Público no [[Acre]] e lá fizeram a primeira Fábrica de Software seguindo a metodologia [[iRAP]](iRational Anormal Process), que era liderado por [[Galvez]], o carinha da minissérie da [[Globo]].
+
+== Sintaxe ==
+A sintaxe foi adaptada para que os [[EMO]]'s digitassem corretamente, pois o que devia ser um(MOVE AS-FOGO TO HELL) saia um (mOvIxX aS-fOgO 2 HeLlxX). Por isso só era possível escrever em maiúsculas e deviam começar a linha depois de dar 12 espaços.
+
+== Hell(o) World! ==
+Olha essa merda de sintaxe [[Chuck Norris]].
+
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID.    HELLO.
+       AUTHOR.        TONI.    
+       ENVIRONMENT DIVISION.
+       .
+       .
+       .
+       DATA DIVISION.
+       .
+       .
+       .
+       PROCEDURE DIVISION.
+           DISPLAY "Hell(o) World!" AT 2424.
+           STOP RUN.
+
+
+== Outro Exemplo ==
+Outro exemplo de código.
+
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID.    LOOP.
+       AUTHOR.        COBOLZINHO.   
+      * 
+       ENVIRONMENT DIVISION.
+      *
+       DATA DIVISION.
+      *
+       WORKING-STORAGE SECTION.
+       01    CONTADOR PIC  9(2) VALUE ZEROS.
+       01    PASSO    PIC S9(1) VALUE +1.
+      *
+       PROCEDURE DIVISION.
+      *
+        PERFORM VARYING CONTADOR
+         FROM 1 BY PASSO
+         UNTIL CONTADOR
+         GREATER OR EQUAL +100
+          IF CONTADOR
+           GREATER OR EQUAL +90
+            MOVE -1 TO PASSO
+            DISPLAY SPACES
+          END-IF
+          IF CONTADOR
+           LESS OR EQUAL ZERO
+            MOVE +1 TO PASSO
+            DISPLAY SPACES
+          END-IF
+          DISPLAY CONTADOR
+        END-PERFORM
+      *  
+       STOP RUN.
+
+
+== Rapidez na Execução ==
+Exemplo para você ver como o COBOL é rápido nas execuções dos programas.
+
+
+      IDENTIFICATION DIVISION.
+      PROGRAM-ID.    LOOPFAIL.
+      AUTHOR.        COBOLZINHO.
+     *
+      ENVIRONMENT DIVISION.
+     *
+      DATA DIVISION.
+     *
+      WORKING-STORAGE SECTION.
+      01       CONTADOR PIC  9(2) VALUE ZEROS.
+      01       PASSO    PIC S9(1) VALUE +1.
+      01       VOLTAS   PIC  9(4) VALUE ZEROS.
+      01       DATA-HORA.
+          05   DATA-SISTEMA.
+           10  ANO     PIC  9(4).
+           10  MES     PIC  9(2).
+           10  DIA     PIC  9(2).
+          05   HORA-SISTEMA.
+           10  HORA    PIC  9(2).
+           10  MINUTO  PIC  9(2).
+           10  SEGUNDO PIC  9(2).
+           10  MILISEG PIC  9(2).
+          05   GMT-DIF PIC S9(4).
+      01       HORA-INICIAL.
+          05   HORA-I  PIC  9(2).
+          05   MINU-I  PIC  9(2).
+          05   SEGU-I  PIC  9(2).
+          05   MILI-I  PIC  9(2).
+      01       HORA-DIFERENCA.
+          05   HORA-D  PIC  9(2).
+          05   MINU-D  PIC  9(2).
+          05   SEGU-D  PIC  9(2).
+          05   MILI-D  PIC  9(2).
+      01       DATA-HORA-FORMATADA.
+          05   DATA-FORMATADA.
+           10  DIA-X   PIC  X(2) VALUE ZEROS.
+           10  FILLER  PIC  X(1) VALUE '/'.
+           10  MES-X   PIC  X(2) VALUE ZEROS.
+           10  FILLER  PIC  X(1) VALUE '/'.
+           10  ANO-X   PIC  X(4) VALUE ZEROS.
+          05   HORA-FORMATADA.
+           10  HORA-X  PIC  X(2) VALUE ZEROS.
+           10  FILLER  PIC  X(1) VALUE ':'.
+           10  MIN-X   PIC  X(2) VALUE ZEROS.
+           10  FILLER  PIC  X(1) VALUE ':'.
+           10  SEG-X   PIC  X(2) VALUE ZEROS.
+           10  FILLER  PIC  X(1) VALUE '.'.
+           10  MILI-X  PIC  X(2) VALUE ZEROS.
+      01       PIC-NOVES.
+          05   SIST-9  PIC  9(8)
+               REDEFINES HORA-SISTEMA.
+          05   INIC-9  PIC  9(8)
+               REDEFINES HORA-INICIAL.
+     *
+      PROCEDURE DIVISION.
+     *
+       MOVE FUNCTION CURRENT-DATE(9:8)
+        TO HORA-INICIAL
+       PERFORM VARYING CONTADOR
+        FROM 1 BY PASSO
+        UNTIL CONTADOR
+        GREATER OR EQUAL +100
+         IF (CONTADOR
+          GREATER OR EQUAL +90)
+          OR (CONTADOR
+          LESS OR EQUAL ZERO)
+           DISPLAY SPACES
+           ADD 1 TO VOLTAS
+           DISPLAY 'VOLTA No. ' VOLTAS
+           MOVE FUNCTION
+            CURRENT-DATE TO DATA-HORA
+           MOVE ANO TO ANO-X
+           MOVE MES TO MES-X
+           MOVE DIA TO DIA-X
+           MOVE HORA TO HORA-X
+           MOVE MINUTO TO MIN-X
+           MOVE SEGUNDO TO SEG-X
+           MOVE MILISEG TO MILI-X
+           DISPLAY DATA-FORMATADA
+            '  -  ' HORA-FORMATADA
+           SUBTRACT INIC-9 FROM SIST-9
+            GIVING HORA-DIFERENCA
+           DISPLAY SPACES
+           DISPLAY 'TEMPO DE PROCESSAMENTO:'
+           DISPLAY ' ' HORA-D ' HORAS,'
+           DISPLAY ' ' MINU-D ' MINUTOS,'
+           DISPLAY ' ' SEGU-D ' SEGUNDOS,'
+           DISPLAY ' ' MILI-D ' MILESIMOS.'
+           DISPLAY SPACES
+         END-IF
+         IF CONTADOR
+          GREATER OR EQUAL +90
+           MOVE -1 TO PASSO
+         END-IF
+         IF CONTADOR
+          LESS OR EQUAL ZERO
+           MOVE +1 TO PASSO
+         END-IF
+         DISPLAY CONTADOR
+       END-PERFORM
+     *
+      STOP RUN.
+
+== Futuro ==
+O futuro do Cobol acabou a cem (200) anos atras. Só os bancos ainda usam porque são uns pão duro e não querem se livrar de seus Mainframes Prosdócimo.
+
+
+
+===Orientação à Objetos===
+
+Seguindo o modelo do [[C++]], está planejado o lançamento de uma versão do COBOL orientada a objetos chamada de '''ADD 1 TO COBOL GIVING COBOL''' ou '''BOCOL'''.
+
+Existe também a possibilidade para o final de 2008 o lançamento do BOCOL.NET com uma incrível inovação por ex:
+
+"" ACCEPT (09, 20) NOM-CON-CON WITH AU UD HI ""
+
+será
+
+"" ACCEPT (09, 20) NOM-CON-CON ""
+
+== Ver também ==
+
+{{Linguagens de Programação}}
+
+[[Categoria:Ciência da computação]]
+[[Categoria:Linguagens de programação]]
+[[Categoria:Siglas]]
+
+[[bar:COBOL]]
+[[es:COBOL]]
+[[ja:COBOL]]
+[[nds:Cobol]]

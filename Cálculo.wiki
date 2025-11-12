@@ -1,0 +1,84 @@
+{{DISPLAYTITLE:<math>\int_a^b o(d)\,a\, = S(e).</math>}}
+{{Matemática}}
+
+[[Arquivo:Livro Matematica FHC.png|thumb|right|240px|Livro de Cálculo Elementar.]]
+{{você quis dizer|nota abaixo da média?}}
+{{c|Fui eu que fiz!|Gottfried Leibniz|Cálculo}}
+{{c|Não, fui eu que fiz!|Isaac Newton|Cálculo}}
+{{c|É fácil|wolfram|Cálculo}}
+{{c|Nada é tão difícil que não se possa complicar|Guidorizzi|Cálculo}}
+{{c|Não consegue entender cálculo? Beba leite integral|Aluno de Engenharia de Alimentos|Cálculo}}
+{{c|This is not madness, this is Cálculo!|Estudante de Física|Cálculo}}
+{{c|Mais que P*** é essa? Cadê a fórmula?|Bixo|Cálculo}}
+{{c|Fica pro semestre que vem...|70% dos alunos no primeiro semestre de Cálculo.}}
+{{c|Cálculo? Integra pra [[Deus]] pois dele tudo [[derivada|deriva]]!|Aluno de engenharia|Cálculo}}
+{{c|É, o senhor tem um cálculo no [[rim]] esquerdo.|Médico|cálculo}}
+
+O '''Cálculo Diferencial e Integral''', ou '''Cálculo''', é um importante ramo da [[Matemática]] desenvolvido a partir da [[Geologia]] e da [[Gramática]] que se dedica ao estudo das taxas de variação de grandezas, ou acúmulo de quantidades, e também a infelicidade da grande massa de universitários na área de exatas.
+
+O Cálculo surgiu como uma ferramenta adicional de várias ciências exatas, apesar de ninguem saber a utilidade de <math>\int_{a}^{b} e^x\, dx</math>. Desenvolvido por [[Isaac Newton]] em parceria com [[Arquimedes]] em torno do século XVI, o cálculo é essencial em várias áreas das ciências.
+
+== Aplicações ==
+[[Arquivo:481px-Isaac Newton.jpeg|thumb|Olha o naipe dos caras que inventaram o cálculo.]]
+O Cálculo é largamente utilizado em coisas que nem imaginamos e que usamos todos os dias, como o cálculo da flexibilidade e do movimento browniano do rabo da [[lagartixa]], a derivada de quantas encochadas [[você]] ou [[sua mãe]] levam dentro do ônibus e o valor integrado da quantidade de porra em sua roupa no fim da viagem.
+
+Nas engenharias, o Cálculo é usado para aprimorar métodos de cola, os alunos desses cursos saem formados em colar nas provas e serão uns putas de uns engenheiros, que fazem projetos como por exemplo, as casas populares, ou o Pallace II. 
+
+A [[Física]] faz uso intenso do cálculo, como por exemplo no cálculo da velocidade instantânea de um móvel. Em outras palavras, o painel do seu carro sabe derivar, [[Você|você]] não. Além disso, todos os conceitos na [[Mecânica|mecânica clássica]] são interrelacionados pelo cálculo, mas este artigo não entrará em detalhes, para a segurança mental do leitor e porque eu não tô manjando nada disso. A famosa '''Segunda Lei de Newton''' também pode ser expressa através do cálculo como a variação do momento do corpo, ou ainda a massa vezes a derivada da velocidade, seja lá o que essas coisas queiram dizer.
+
+Na [[Química]] o cálculo é totalmente inútil, tendo em vista que tudo nesta ciência tem base no '''Teorema Fundamental da Química''', popularmente conhecido como '''Regra de 3'''.
+
+Na [[Medicina]], ao contrário das outras ciências (acredite), o cálculo é um vilão, formando-se especialmente nas vias urinárias e biliares.
+
+Mas a maior e mais largamente utilizada entre todas as aplicação do cálculo é que nas mãos dos professores ele se torna uma ferramenta indispensável para reprovar alunos.
+
+== Lendas na faculdade ==
+Todo bom aluno de cálculo que se preze já ouviu alguma dessas histórias:
+
+*Os professores de Cálculo fazem uma competição entre eles. Ganha quem reprovar mais.
+*O professor deixou o gabarito da prova entre as provas dos alunos, corrigiu, e deu <font color="red">5,0</font>.
+*A p1 de cálculo I é o verdadeiro trote.
+
+== Perguntas frequentes ==
+*De onde saiu aquele dois?
+*Pra calcular volume, como faz mesmo? Tem que derivar ou integrar?
+*Não tem um exercício mais fácil?
+*Onde é que eu vou usar isso, professor?
+*Pra que inscrever um cilindro em uma esfera?
+
+== Pedidos raros ==
+*Principalmente pelo aluno que está com o grafite acabando ou com o lápis no final: Professor, passa uma função polinomial completa de grau 5 pra gente derivar usando a definição de derivada através de limite. 
+*Professor, passa um exercício mais difícil.
+*Professor, poderia passar mais uma lista com 300 exercícios pra semana que vem?
+
+== Frases impossíveis ==
+*Hoje eu aprendi alguma coisa útil, que vou usar no meu dia-a-dia.
+*Oba! Tem aula de cálculo hoje.
+*Oba! Hoje tem prova de cálculo.
+*Eu fui bem na prova de cálculo!! E você? Resposta (impossível) a esta questão: Eu também fui bem!!
+*Uhuul!! Hoje eu aprendi integral tripla em três sistemas de coordenadas diferentes. Como isso é legal, gostoso e fácil.
+*Eba, hoje só tem 200 exercícios na lista de integral trigonométrica!
+*Finalmente entendi integral trigonométrica! Será muito útil no futuro...
+
+== Referências Bibliográficas ==
+
+=== Cálculo Básico ===
+<small>
+*Urbim, Carlos (2004). RBS Publicações , 1ª edição. ''O Negrinho do Pastoreio: e Outras Lendas Gaúchas'' ISBN 1234567890 
+*ROWLING, J.K. (2009). Rocco, 1ª edição. ''Harry Potter e a Pedra Filosofal'' ISBN 0987654321
+*Surfistinha, Bruna (2005). Panda Books, 1ª edição. ''O Doce Veneno do Escorpião'' ISBN 5432109876
+</small>
+
+=== Cálculo Avançado ===
+<small>
+*Ribeiro, Lais Carr (1996). Moderna , 1ª edição. ''Os Três Porquinhos'' ISBN 0000000001
+*Luxemburgo, Vanderlei (2005). Gryphus, 1ª edição. ''Profissão Campeão'' ISBN 0010010010
+</small>
+*Pirola, Douglas (1986) . Dunhill , 1ª edição . ''Manual do Reprovado''
+
+{{Cálculo}}
+
+[[en:Calculus]]
+[[es:Cálculo]]
+[[ja:微積分学]]
+[[ko:미적분학]]

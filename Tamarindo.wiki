@@ -1,0 +1,54 @@
+{{vegetal}}
+
+{{taxocaixa
+| nome           = Tamarindo
+| cor            = #00FF7F
+| imagem         = tamarindo chino.jpg
+| imagem_legenda = A única fruta com cor de laranja e gosto de limão.
+| reino          = [[Plantae|Plantinhas]]
+| superdivisão   = [[Spermatophyta|Plantas com esperma]]
+| divisão        = [[Angiospermae|Anjo esperma]]
+| classe         = [[Eudicotidae|Eudissecotia]]
+| subclasse      = [[Rosídeas|Rosinhas]]
+| ordem          = [[Fabales|Fabulas]]
+| família        = [[Fabaceae|Fababaca]]
+| gênero         = '''[[Tamarindus|Tamarincus]]'''
+| espécie        = [[Tamarindo]]
+| binomial       = Tamarindo indica
+}}
+
+{{cgoogle|[[Limão]] [[Doce]]?}}
+{{c|Onde é que dá isso aí?|Qualquer um|tamarindo}}
+{{c|É de tamarindo, mas tem cor de laranja e gosto de limão.|Chaves|suco de tamarindo}}
+
+'''Tamarindo''' é uma fruta sagrada, conhecida apenas por poucos pajés e pessoas capazes de sobreviver à burrice do [[El Chavo del Ocho|Chaves]].
+
+==Habitat==
+
+O tamarindo originou-se nos sertões do [[México]], na região próxima à fronteira com os [[Estados Unidos]]. Aqueles que conseguem encontrar um pé de tamarindo serão capazes de atravessar a fronteira, devido ao poder de sua fruta. Muitos imigrantes ilegais tentam encontrar o tamarindo antes de <s>invadir</s> entrar nos EUA, mas poucos conseguem, por ser uma árvore quase lendária, capaz de se misturar à flora local e desaparecer no [[deserto]], aparecendo apenas para quem for digno de chegar ao outro lado da divisa.
+
+Sua [[árvore]] é única dentre as demais espécies vegetais do México. Normalmente, aparenta ser mais um pé de [[cacto]] em meio às areias do grande deserto, mas os escolhidos são capazes de ver sua real forma. A mítica árvore de tamarindo é tão grande quanto um pinheiro, atraindo os aventureiros por sua beleza, sobretudo pela sua silhueta extremamente peculiar; de longe, a copa do tamarindeiro lembra o mágico chapéu ''sombrero'', artefato usado apenas por mexicanos sobrenaturais, escolhidos pela Mãe [[Televisa]] para dominar o mundo com suas <s>porcarias</s> produções televisivas/noveleiras.
+
+==A Fruta==
+
+[[Arquivo:tamarindo.JPG|200px|thumb|left|Uma fruta que vive grudada no pau.]]
+
+O tamarindo, talvez pelo seu caráter sagrado, possui características de inúmeras outras frutas, tanto na aparência como no sabor, dependendo da árvore em que estiver o tamarindo. Alguns subtipos apresentam coloração idêntica à da [[laranja]] e o mesmo sabor do [[limão]], enquanto outros podem possuir as cores de uma [[maçã]] e gosto de [[caju]], entre outras possíveis combinações.
+
+Às vezes, o tamarindo tem várias colorações diferentes, aparentando mais de uma fruta, assim como o sabor é ainda mais aleatório, de modo similar aos também lendários [[Harry Potter|Feijões de Todos os Sabores]]. Tamarindos com aspecto de frutas doces costumam apresentar os sabores mais fortes, da mesma forma que os exemplares de aparência ácida são os mais açucarados, exceto pelo subtipo Laranja-Limão supracitado, em que a fruta é totalmente cítrica.
+
+==Especialistas em Tamarindo==
+
+[[Arquivo:BilleteChavo.jpg|right|200px|thumb|O preço de um suco de tamarindo.]]
+
+O tamarindo é conhecido por pouquíssimas pessoas, em sua maioria [[xamã]]s que vivem no deserto mexicano, observando o povo tentar entrar nos Estados Unidos. Eles conseguem identificar o tamarindo no meio da vegetação e também identificar o real sabor de cada fruto, apenas observando a árvore de origem. Entender as propriedades do tamarindo certamente requer inteligência muito fora da média, podendo ser acima ou abaixo da média, dependendo do indivíduo.
+
+O mais famoso mestre em tamarindo é o grande [[El Chavo del Ocho|Chaves]], dono da maior rede de sucos do México. Chaves aprendeu a diferenciar todas as subespécies do tamarindo, aplicando esse conhecimento na produção de refrescos na Tienda del Chavo, em que é possível encontrar todos os tipos de sucos, incluindo o lendário suco de tamarindo.
+
+Para produzir o suco de tamarindo, é necessário primeiramente separar os tamarindos por cor e sabor. Então, cada subespécie será trabalhada individualmente, originando cada uma um diferente tipo de suco de tamarindo. Por exemplo, as frutas amarelas devem ficar separadas das vermelhas, sendo respectivamente os tamarindos com aparência de banana e morango. O primeiro servirá para produzir suco de sabor uva, enquanto o segundo terá gosto de manga. É um procedimento bastante complexo, por isso apenas poucos conseguem entender completamente o tamarindo.
+
+{{frutas}}
+{{Chaves2}}
+
+[[Categoria:Fabaceae]]
+[[Categoria:Espécies vegetais]]

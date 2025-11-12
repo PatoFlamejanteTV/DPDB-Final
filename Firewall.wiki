@@ -1,0 +1,34 @@
+&nbsp;
+{{bozo}}
+
+[[Arquivo:How to stop virus intocomputer.jpg|right|thumb|Exemplo de um típico firewall]]
+'''Firewall''' é um sistema de defesa criada para <s>ferrar</s> proteger seu [[windows]] de uma invasão <s>alienigena</s>, bloqueando seu [[MSN]], [[Orkut]], [[Tibia]], [[Ragnarok]], Caixa de Entrada, Saída, do Meio, de Cima, de Baixo, enfim tudo que use [[internet]] e tiver rodando no computador como: o [[Windows]], [[CD]]s, [[DVD]]s, [[HD]]s, bolsinhas, e etc. Ao serem indagados, os criadores respondem que é um sistema de proteção instavel mesmo no windows 7 copiado do [[Linux]] de 1980.
+
+==Como usar==
+
+Para utilizar o Firewall basta você ligar o computador e abrir o [[Paint]], Word Pad ou até mesmo utilizar o mouse para clicar na area de trabalho que aparecerá uma notificação para você ir direto para a central <s> da inseguraça</s> de segurança do windows pois pode ter uma violação.
+Lá você terá a opção de de não ter opções como apenas deixar ligado, há quem consiga desligar esse sistema com atalhos obscuros mas, mesmo depois de desligado ele sempre vai apresentar uma notificação de que algo está infligindo sua segurança pessoal e roubando seus itens de [[Tibia]], puxando o cabelo da [[sua irmã]], estrupando [[teu pai]], e fudendo [[você]] .
+
+==Como Desinstalar==
+
+A desinstalação é um processo fácil.
+Siga os passos a seguir se você for [[nerd]] e usuário avançado ou o [[diabo]] a quatro:
+
+1º Compre um CD de Boot (só chegar no camelo e pedir um);
+
+2º Coloque o cd no leitor e desligue o pc;
+
+3º ligue o pc e quando apresentar a tela negra da escuridão infinita aperte F8 ou F9; 
+
+4º Após o 3º passo apresentará um telinha selecione a porra onde tiver cd rom escrito e aperte ENTER desenfreadamente;
+
+5º numa nova tela negra de escuridão infinita você digita format c: /u e aperta enter;
+
+6º concorde com a notificação em ingres digitado y e apertando enter;
+
+7º pronto vai carregar um barrinha do [[diabo]] quando terminar basta tirar o cd e desligar o pc e conferir que seu firewall foi desistalado com sucesso.
+
+Agora, se aparecer uma [[tela azul da morte]], corra!!!! [[correr pra caralho|CORRA PRA CARALHO!!]]
+{{Antivirus}}
+[[Categoria:Windows]]
+[[Categoria:Computador]]

@@ -1,0 +1,34 @@
+{{Avemaria}}
+{{Matemática}}
+[[Arquivo:Tio1.jpg|thumb|O mais famoso dos números tios, o [[Tio1.jpg|1.jpg]].]]
+'''Os números tios''' são os parentes mais próximos dos [[números primos]], ou os mais conhecidos. Não, não aparecerão aqui os números pais, nem os números irmãos, ou números sobrinhos, nem números filhos. Se bem que aquela expressão [[fazer número]] faria sentido dizer que seria o mesmo que ter um número filho?
+
+{{c|Que que essa discussão tem a ver com os números tios?|Você|tal introdução acima.}}
+
+Nada, nada, apenas eu precisava de algo pra encher linguiça mesmo.
+
+== História ==
+
+[[Euclides]] de Alexandria, quando definiu a escala dos números primos, obviamente descobriu que se haviam números primos de outros números, logo esses números que tinham seus primos esses primos teriam seus pais, e assim esses pais seriam dos números não-primos, mas primos dos primos, os seus números tios. Entendeu? <s>Nem eu...</s>
+
+Sendo os números primos os chamados "[[átomo]]s da aritmética", podendo estes formarem todos os outros números por meio de multiplicação, e assim por eles podermos [[fatoração|fatorar]] números e descobrir de dois ou mais seu [[mínimo múltiplo comum|MMC]] e seu [[máximo divisor comum|MDC]], os números tios possibilitam aos educandos de matemática básica poderem se aprofundar mais ainda nos mistérios da construção numeral, sendo assim tais números, os tios no caso, grandes guias para a construção definitiva de um ou mais graus de parentesco entre números. Exemplo: O número hum é tio de todos os outros, sendo ele o único número além do zero dentro dos [[números naturais]] que não é primo de ninguém. Dentre os [[números inteiros]] o -1 também é tio de todo mundo, em especial dos sobrinhos e primos com o sinal de menos colado no traseiro destes.
+
+Há matemáticos que discordam do conceito de números tios e acham desnecessária essa definição parental. Esses tolos devem ter sofrido muito bullying de [[Seu tio engraçadão|tios engraçadões]] que não paravam de tentar solucionar com eles [[o mistério do pavê]].
+
+== Mas o número tio é tio de quem? ==
+
+Boa pergunta. Sabemos que ele é número pai do número primo, logo ele poderia ser o número tio de um número filho, ou... pera...
+
+Não, o número tio é só o número irmão do número pai ou do número mãe, ou é casado com o número tia de...
+
+Ah, eu tô confuso, eu nem sou dessa família mesmo...
+
+== Ver também ==
+
+*[[Números complexos]]
+*[[Números perplexos]]
+*[[Avô de si mesmo]]
+
+{{Tio}}
+[[Categoria:Aritmética]]
+[[Categoria:Números|tios]]

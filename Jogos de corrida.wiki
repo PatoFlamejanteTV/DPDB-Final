@@ -1,0 +1,32 @@
+{{C|Puta que pariu, eu só bato esse carro|Jogador de corridas de arcade, recusando-se a frear o carro nas curvas num jogo de simulação}}
+
+'''Jogos de corrida''' são games genéricos de corridinhas de carro ou qualquer coisa similar. Embora a maioria dos jogos sejam repetitivos, sem graça ou simplesmente genéricos e enjoativos, foi nesse gênero que surgiu aquele que ainda hoje é considerado um dos melhores jogos de todos os tempos, o [[Big Rigs: Over the Road Racing]], até hoje um dos jogos que é sempre unânime no topo de listas de melhores jogos de todos os tempos, muitas vezes disputando apenas com [[Superman 64]].
+
+Nesse tipo de jogo o objetivo é colocar no câmbio automático (câmbio manual nesses joguinhos é pedir para derrapar em toda santa curva) e dirigir carros de um modo absolutamente impossível de se reproduzir na vida real.
+
+== Subgêneros ==
+
+[[Arquivo:Big Rigs montanha.jpg|thumb|260px|A física é fundamental num bom jogo de corrida.]]
+
+* '''Arcade''' - O subgênero mais popular de jogos de corrida, amplamente popularizado pelo [[Top Gear]] cujas músicas foram compostas pela [[Orquestra Sinfônica de Nova York]], são jogos de corrida onde os pilotos são todos imortais, pois você pode capotar, bater nos outros, sair da pista, se esborrachar em árvores e muros, cair na água, que na pior das hipóteses, o máximo que vai te ocorrer é o carro ser subitamente e magicamente teletransportado de volta para a pista por alguma força fantasmagórica, que aliás fará o veículo piscar e ganhar o poder temporário de ser atravessado por outros carros, desafiando toda a lógica e compreensão da física mecânica até hoje conhecida.
+* '''Simulador''' - Subgênero inventado pelo [[Gran Turismo (jogo)|Gran Turismo 1]], enquanto nos jogos Arcade os pilotos são imortais, neste gênero os carros que são imortais, todos absolutamente indestrutíveis, batidas frontais a mais de 300 km/h geram no máximo um discreto amassadinho, então a alavra "simulador" está ali só como uma ironia que alguém quis fazer, pois a verdadeira definição do gênero deveria ser "corridas extremamente maçantes", pois é isto que este gênero proporciona: carros que parecem incrivelmente lentos, corridas sem emoção, e se você não colocar o câmbio automático e auxílio de tração não conseguirá realizar uma curva sequer.
+* '''Kart''' - Subgênero inventado pelo [[Super Mario Kart]], são joguinhos de corrida para um público menor de 10 anos de idade, com personagens bonitinhos e trapaças como jogar cascas de banana na pista. Depois de Super Mario, qualquer franquia de jogos para criança que tivesse mais de 6 personagens criou sua própria versão de Mario Kart, como Crash, Pac-Man, Diddy Kong, LittleBigPlanet, Cartoon Network, Chaves, Simpsons, enfim, todos muito ridículos, com galinhas, macacos e animais dirigindo e desafiando o [[Detran]] e a lógica. Dentro desse gênero o mais ridículo de todos é o kart de Sonic, pois o protagonista seria muito mais eficiente correndo a pé, e mesmo assim ele ele prefere o Kart e pode perder para [[Big the Cat|um gato obeso]]. Os jogos já eram estranhos,e depois que inventaram a porra do mini-turbo após drifts, tornou-se injogável.
+* '''Destruction derby''' - Gênero inventado pelo [[Carmagedon]], neste tipo de jogo a ideia é matar os outros carros e transformá-los em sucata. Quase não há jogos desse gênero porque isso choca as famílias. Versões sem mortes com [[Twisted Metal]] e [[Vigilante 8]] tentaram dar uma amenizada, mas são desconhecidas.
+* '''[[Big Rigs: Over the Road Racing]]''' - Este jogo é tão único que criou um gênero próprio de jogo de corrida, também conhecido como "Jogos de corrida de caminhão onde é impossível perder, o cenário é infinito e a marcha ré tem aceleração infinita". Infelizmente a empresa faliu antes que pudesse lançar alguma continuação.
+
+== História ==
+
+O primeiro jogo de corrida inventado foi lançado em 1973, chamado de [[Space Race]], mas o primeiro jogo que realmente foi jogado por alguém e reconhecido como sendo um jogo de corrida, foi o clássico [[Enduro]] lançado em 1983 para [[Atari 2600]], uma corrida de volta ao mundo com 100 carros, já dando a ideia que um jogo de corrida deveria se afastar ao máximo da vida real.
+
+Foi com o [[Super Nintendo]] que os jogos de corrida se popularizaram, jogos como [[Nigel Mansell's World Championship Racing]], [[Top Gear]], [[F-Zero]], [[Ayrton Senna's Super Monaco GP II]] e [[Lamborghini American Challenge]] pegaram a ideia do Enduro, onde não eram os carros que se moviam, os carros ficavam parados e era o circuito inteiro que se movia para trás, revolucionando a física moderna e criando a [[teoria da relatividade]], onde o movimento e a velocidade são sempre relativos. Nesta época também começou a mania por jogos de kart, estes para crianças.
+
+Em 1998 viria o [[Gran Turismo]], que foi o primeiro jogo de corrida assumidamente sem graça a ser lançado, criando um novo nicho de jogos de corrida, chamados de simulação, onde nada acontece, as vezes nem ultrapassagens.
+
+Mas sem dúvidas o ano de 2003 foi um divisor de águas e um marco na história dos videogames em geral, com o lançamento de [[Big Rigs: Over the Road Racing]], nenhum jogo de corrida mais pode se comparar a tamanho realismo misturado a diversão. Em 2007 a desenvolvedora [[Codemasters]] até criou a [[Ego Game Technology Engine]], para tentar copiar o jogo Big Rigs, e passou a lançar vários jogos de corrida por ano que ninguém conhece.
+
+A partir de 2010 várias empresas desenvolvedoras de jogos de videogames começaram a colocar seus estagiários para desenvolver seus jogos de corrida, resultando todos jogos a partir de então em grandiosas decepções, até mesmo franquias consagradas como Gran Turismo, Need for Speed e Forza.
+
+{{Gêneros de jogos}}
+{{Game Racing}}
+
+[[Categoria:Jogos de corrida|*]]

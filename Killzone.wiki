@@ -1,0 +1,53 @@
+{{Game}}
+
+{{Infobox Série Game
+|title         = Quillzoni
+|image_logo    = Quillzoni logo.png
+|caption       = Logo da série
+|genre         = Tiroteio
+|developer     = [[Guerrilla Games]]
+|publisher     = [[Sony Computer Entertainment]]
+|origin        = [[PlayStation 2]]
+|first_release = [[Killzone (jogo)|Killzone 1]] (2004)
+|last_release  = [[Killzone Shadow Fall]] (2013)
+}}
+
+{{c|Ah, assim um '''Killzone''', um pão de batata...|Pedrão pão de batata|Killzone}}
+{{c|Leave the gun, take the killzone|Poderoso Chefão|Killzone}}
+
+'''Killzone''' é uma série de jogos de tiroteio frenético, mais um [[fps]] genérico com temática futurística que hordas de fãs retardados insistem em tratar como uma grande maravilha jamais criada. Trata-se de uma tentativa fracassada da Sony em copiar o sucesso e profundidade da série [[Halo]]. Os sonystas, claro, não ligam para isso, jamais terão um Xbox para vivenciar um jogo fps realmente empolgante e minuciosamente rico em detalhes e história como Halo, e precisam se contentar com Killzone como seu medíocre exclusivo, e aos choros em fóruns tentar espernear que Killzone é legal e bem feito.
+
+A série, todavia, destacou-se pelos gráficos amplamente elogiados de seus jogos, afinal são todos uma boa mistura entre os cenários sombrios e repetitivos de [[Call of Duty]], com uma pitadinha de [[Halo]].
+
+== Desenvolvimento ==
+
+Como a Sony em si não tinha capacidade de criar um clone bem feito de Halo, fundaram a [[Guerrilla Games|Gorilla Games]] de última hora para fazer esses jogos nas pressas, o resultado, claro, nunca foi algo animador e até hoje ter um Xbox é melhor pedida para quem quer um fps futurístico.
+
+A história do jogo é a mais imbecil, previsível e clichê possível, como 99% dos fps por aí (exceto Halo que tem história bem tramada, a quem fracassaram em copiar). O motivo do enredo de Killzone ser tão raso e genérico foi tentar imitar o menos possível a extensa e intrincada história da concorrente [[Halo]] e assim evitar acusações de plágio. Então com um enredo besta lotado de clichês e demonstrações de patriotismo americano numa guerra interplanetária, o jogo desenvolve sua história.
+
+== Jogabilidade ==
+
+O objeto de todos jogos de Killzone é matar um bando de Master Chiefs vestidos de preto. A única novidade estabelecida pelo jogo diferentemente de todos jogos fps anteriores foi a introdução do uso do controle do PlayStation para simular movimentos de punheta e assim exercer comandos de ativar bombas ou girar manivelas. Este movimento inovador consiste nos fanboys da franquia apertarem simultaneamente os botões R1 e L1 e balançar o controle de uma forma não muito diferente do movimento da punheta, motivo este talvez que tenha criado subconscientemente uma horda tão maldita de fãs virgens punheteiros desse jogo. O sucesso foi tanto que a concorrente Nintendo lançou um console inteiro com toda uma linha de jogos, o Nintendo Wii, copiando esta inovadora ideia de jogabilidade de Killzone.
+
+== Recepção ==
+
+Os únicos que aceitaram bem estes jogos foram os desesperados [[fanboy]]s sonystas que nunca tiveram uma franquia decente de fps para seu console favorito onde gastaram milhares de reais, todas pessoas carentes de um jogo belo, profundo e diversificado como [[Halo]], mas que precisaram se agarrar a qualquer lixo para se dizer fã e justificar o dinheiro que desperdiçaram num PlayStation.
+
+== Jogos ==
+=== Série principal ===
+* '''[[Killzone (jogo)|Killzone 1]]''' - O jogo conta a história de uma guerra em grande escala interplanetária que eclodiu entre as duas empresas mais poderosas da galáxia, a Microsoft dona do planeta Helghast e a Sony dona do planeta Velka. Sempre foi claro desde o início que a Microsoft tinha a vantagem absoluta devido ao sua exército de nazistas altamente eficientes munidos com armamento superior, além de um exército inteiro formado por centenas de [[Master Chief]], só que pintados de [[preto]] porque são todos [[tr00]]. A Sony por outro lado tinha a arma mais poderosa de todas, o poder do [[continue]], concedido apenas aos protagonistas de videogame. O primeiro tiro desta guerra foi disparado pela Sony que lançou uma chuva mortal de vários filmes em CGI de Killzone para humilhar os gráficos toscos de [[Halo 1]] da Microsoft, afirmando assim que eles tinham o poder supremo sobre a vida e morte e todas as galáxias. Em retaliação, a Microsoft liberou uma terrível besta, um monstro devorador de pessoas chamado [[Halo 2]], o qual diziam rumores era capaz de sugar almas de pessoas da vida real, bem como ter armamentos e personagens muito mais profundos, interessantes e legais.
+* '''[[Killzone 2]]''' - O ataque realizado pela Microsoft no primeiro jogo deu em nada, e nesta continuação a [[Sony]] decidiu contra-atacar, enviando assim um protagnista altamente genérico e sem graça, auxiliado por coadjuvantes ainda mais desprovidos de carisma, para invadir Helghast e promover uma puta chacina com a desculpa de que estão massacrando nazistas sem coração. No final o protagonista e seu amigo burro encontram Mussolini Visari, o chefe de todos nazistas, e impossibilitados de conseguir refutar sua eloquência carismática, simplesmente o mata como o par de trogloditas que são.
+* '''[[Killzone 3]]''' - Na prática, um DLC do jogo anterior que seria apenas uma missão adicional, mas que foi acidentalmente lançado como jogo cheio e independente, o que não é verdade, pois não passa de uma missão a mais de como as coisas ficaram após a morte de Mussolini Visari.
+* '''[[Killzone: Shadow Fall|Killzone: Nobody Cares]]''' - Quando o [[PlayStation 4]] foi criado a Sony precisava de qualquer porcaria que fosse exclusiva para seu novo console. Então surgiu esse jogo, criado às pressas.
+
+=== Jogos que ninguém conhece ===
+
+* '''[[Killzone: Liberation|Killzone: Frustration]]''' - Lançado para [[PSP]] só pra ganhar dinheiro de trouxa, a tela em visão isométrica impossibilita qualquer boa experiência em jogabilidade. A história, todavia, é criativa, sobre um exército de pessoas com artrite combatendo um exército de nazistas com reumatismo, assim ambos tem péssima mobilidade.
+* '''[[Killzone: Mercenary|Killzone: Unnecessary]]''' - Lançado para [[PS Vita]]. É aquele típico jogo que foi criado apenas por criar, para dizer que teve algo pro Vita, porque não tem o menor sentido. Se você chamasse esse jogo de "Jogo de Tiro Qualquer", você estaria sendo mais justo, e o nome "Killzone" foi inserido apenas pra fazer de conta que faz parte da franquia.
+
+{{Killzone}}
+{{Sony Interactive Entertainment}}
+{{First-person shooter}}
+
+[[Categoria:Jogos da Guerrilla Games]]
+[[Categoria:Jogos da Sony Computer Entertainment]]

@@ -1,0 +1,56 @@
+{{logotipo_falso|Taitopedia.png|160|top=120|left=190}}
+{{game}}
+{{Infobox Game
+|title     = {{c|Daraiasu!}}
+|image     = Darius1.jpg
+|caption   = {{c|Let's put Silver Hawk in action!}}
+|developer = [[Taito|<font color=blue>'''Tá aí, tó!'''</font>]]
+|publisher = [[Taito|<font color=blue>'''Tá aí, tó!'''</font>]]
+|released  = [[1987]]
+|genre     = {{SHT}}
+|rating    = 0%
+|platform  = [[Arcade]] e mais algumas plataformas
+|ages      = Livre
+}}
+
+{{vqd|Darius da idade da pedra?}}
+{{c|WARNING! A HUGE BATTLESHIP KING FOSSIL-A IS APPROACHING FAST!|O game|seu primeiro chefão}}
+{{c|Que puta trambolho!|Você|Darius usar três telas}}
+{{c|Foi assim que começamos a construção do [[Muro de Berlim]]...|Alemães|Gabinetes do Darius 1 e 2}}
+
+'''Darius''' é o primeiro game da série que contém toda aquela história de que alguém que dominar um planeta e coisa e tal.
+
+==O game==
+
+Como os [[Taito]]-ramas não eram muito eficientes após [[Quico|<s>Quicos</s>]] [[Qix]] e [[Space Invaders]], a Taito realmente criou um shooter que era pra competir com [[Gradius|Nemesis]], que era um SHMUP foda (mesmo sabendo que no final você ia enfrentar um chefão que não fazia [[porra nenhuma]]). Porém, para que ela ficasse com lucro, a Taito criou Darius com um gabinete de três telas (isso mesmo: <big><big>3</big></big> telas!). O gabinete do game ficava mais maior que o gabinete do Virtua Racing!. Aí, ela não resolveu mudar e ficou assim mesmo. Depois vamos falar da versão Extra, agora sobre o game.
+
+{{c|TAITO CORPORATION JAPAN, 1986. ALL RIGHTS RESERVED|Darius|about}}
+
+O game conta com duas navinhas do tipo Silver Hawk: Uma era <font color=red>vermelha</font> e <font color=blue>outra azul</font>. A vermelha era pilotada por Proco Jr. (que até agora não tem ninguém parecido), e a azul é pilotada por Tiat Young (que não chegava a ser Hentai Girl). O game conta com uns bichinho plágiados de Gradius. Só que estranhamente, você via os inimigos de outras cores além de metal. Esses inimigos mais [[gay|coloridos]] carregavam uma Orb. Cada Orb upava alguma coisa na navinha: O <font color=red>Vermelho</font> dava tiros, <font color=blue>Azul</font> botava escudos e o <font color=green>verde</font> dava [[bomba]]s (são [[Míssil|mísseis]], só que os mísseis na realidade são tiros). Além dessas aí, você achava Orbs <font color=grey>cinza</font> que dava pontos (máx 128.000!) e a <font color=yellow>amarela</font> que dava uma mandinga nos inimigos. A cada 6 Orbs de cada cor, uma parte da navinha era atualizada, a upação funcionava mais ou menos assim:
+
+ Missle->Laser->Wide
+ Bomb->Twin->Multi
+ Arm->Super->Hyper
+
+Quando você chegava a 18 Orbs de cada cor, os Orbs já não valem mais [[porra nenhuma]].
+
+==Tipos de fases==
+
+* Caverna: Mostrava um fundinho roxo, causando a tela estragar;
+* Fábrica: Um monte de aparelhinhos que [[elevador|sobem e descem]] atiram lasers, e os canos atrapalham;
+* Mar: Vem um monte de inimigos pra cima de você;
+* Montanha: IDEM, só que apareciam do nada também;
+* [[Lua]]: Pedaços dela ficam presos em cima [[WTF?]].
+
+{{Darius}}
+
+[[Categoria:Jogos da Taito]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Game Boy]]
+[[Categoria:Jogos para TurboGrafx-16]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos para Virtual Console]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos de shoot 'em up]]
+[[Categoria:Jogos lançados em 1987]]
+[[Categoria:Jogos para Mega Drive]]

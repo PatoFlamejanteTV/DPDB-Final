@@ -1,0 +1,59 @@
+{{Microsoft}}
+
+{{Modelo 04
+| barra_cor         = yellow
+| fundo_cor         = grey
+| font_cor          = black
+| fonte             = arial
+| titulo            = ''Winrar.exe'' não está respondendo...
+| texto             = [[Arquivo:Internet ExplorerREM.png|left|100px]][[Arquivo:Baidu-Antivirus-logo-icon.jpg|right|200px]]<font color=yellow>'''Este artigo fala sobre um [[Software]], portanto foi desenvolvido pela [[Microsoft]], contém problemas de compatibilidade com 64 bits e foi mais pirateado que [[Gta San Andreas]]. Então não estranhe se este foi instalado sozinho em seu computador (ou não). Se você não sabe a diferença entre [[Software]] e [[Hardware]] consulte o [[dicionario do computador]]. Enquanto você lê, baidu foi instalado com sucesso!'''</font>
+}}
+
+{{fato|"winrar" é humano?}}
+[[Arquivo:Winrar large.png|right|thumb|320px|Olha o danado ai.]]
+
+{{vqd|WinZip}}
+{{Experimente também|7-Ziper}}
+{{C|Por favor, compre uma licença do Winrar|Winrar|sua licença [[Infinito|infinita]]}}
+{{C|Não.|Qualquer um|citação acima}}
+{{C|Isso non ecziste!|Padre Quevedo|licença do Winrar}}
+{{C|Na União Soviética, o Winrar compra [[Voce|VOCÊ!!!]]|Reversal Russa|winrar}}
+{{C|Gata, meu amor por você é igual a licença do Winrar|Garoto fazendo cantada|winrar}}
+
+'''Winrar.rar''' é um [[software]] que tem como função principal extrair ou compactar arquivos, para usufruir do [[Software]] seria necessário "pagar por uma licença", cujo reza a lenda que não há prazo de validade. Casualmente usado para baixar aquele jogo de 200 partes, embora seja muito usado, a empresa desenvolvedora faliu devido aos [[fluxo]] de downloads do [[Pirate Bay]].
+
+==Pessoas que compraram a licença==
+[[Arquivo:79acd5ec8366e2724537c4f398bc188fb0de2d70.jpg|right|thumb|310px|Extraindo "dente.rar"...]]
+* O criador do programa
+* [[Carla Perez]]
+* [[Regina Casé]]
+* [[Susana Vieira]]
+* [[Xuxa]]
+* [[Tiririca]]
+* [[Lula]]
+* [[Dilma]]
+* [[Galvão Bueno]]
+* [[Você]]
+* [[Geisy Arruda]]
+* [[Faustao]]
+* [[Silas Malafaia]]
+* [[Gugu]]
+* [[Ana Maria Braga]]
+* [[Você]]
+
+
+==Pessoas que não compraram a licença==
+* [[Seu Madruga]] (está devendo 14 meses de licença)
+* [[Serginho Malandro]]
+* [[Michael Jackson]]
+* [[O velhinho que comeu e não pagou]]
+* [[Eu]]
+
+==Filosofia==
+* Winrar: Adquira nossa licença p...
+* Eu: Licença?
+* Winrar: Pode passar.
+... 
+<br><center>Extraindo C:\Users\{{USERNAME}}\documents\part2.rar...
+[[Arquivo:Progressbar long green.gif|280px|center]]
+[[Categoria:Aplicativos do Windows]]

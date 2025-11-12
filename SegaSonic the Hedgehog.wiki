@@ -1,0 +1,88 @@
+{{game}}
+{{Jogos Antigos}}
+{{Infobox Game
+|title     = SegaSonic the Hedgehog
+|image     = Segasonic.gif
+|caption   = Sonic e seus amiguinhos em sua primeira suruba arcade
+|developer = [[Hitmaker|Sega AM-3]]
+|publisher = [[Sega|Ceeegaaa]]
+|released  = [[1992]]
+|genre     = [[Correr pra Caralho]]
+|rating    = [[Jeremias|mais de 1000]] Km/h
+|platform  = [[Arcade]]
+|ages      = Livre
+}}
+{{cgoogle|Time Attack}}
+{{Experimente também|Correr pra caralho versão Arcade}}
+{{c|Coisa de louco|Sonic|{{PAGENAME}}}}
+{{C|Meu irmão! Isso sim é que é jogo de correr pra caralho!|Jun Senoue|{{PAGENAME}}}}
+{{C|Já zerei [[mais de 8000]] vezes...|Pivetinho do Fliperama|{{PAGENAME}}}}
+{{C|Quebraram a cara, Tails e Knuckles! Surgi antes de vocês!!|Ray|{{PAGENAME}}}}
+{{C|Mas em compensação nós não fomos esquecidos com o decorrer dos anos|Tails e Knuckles|comentário acima}}
+{{c|Foi depois dessa que eu entrei pros [[Chaotix]]...|Mighty|{{PAGENAME}}}}
+[[Arquivo:SegaSonic_p5prhskIjg1w1kerio1_500.gif|120px|left]]
+'''[[Sega]][[Sonic the Hedgehog]]''' foi o primeiro jogo de plataforma-arcade do [[Sonic]] e <s>seus miguxos</s> sua turminha que, como o próprio nome já diz, fez jus a sua empresa de criação: a [[Sega|CEGA!]]
+
+== História ==
+[[Arquivo:SegaSonic ngsdopgvNr1tdjgz4o1 250.gif|thumb|left|100px|Gotta go fast? Sei...]]
+[[Arquivo:Segasonic 15.gif|thumb|O início dessa joça]]
+Tudo começou quando o [[Dr. Robotnik|Dr. Ivo Ovoman Fuckyounik]] conseguiu pela primeira e única vez em toda a sua vida capturar o [[Sonic Team|Team Sonic]](que naquela época era formada por Sonic,<s>Tails</s> Ray e <s>Knuckles</s> Mighty), e uma vez presos foram mandados para uma ilhazinha localizada no <s>cú do mundo</s> [[Triângulo das Bermudas]](não, não estamos falando da [[Angel Island]]). Com isso os três <s>furries</s> comparsas devem se virar para fugir da ilha utilizando apenas a famosa habilidade de [[correr pra caralho]] antes que a mesma exploda.
+
+== Jogabilidade ==
+[[Arquivo:Segasonic 3.gif|thumb|left|Mais emocionante impossível]]
+Como em quaquer jogo árcade, você terá menos de uma hora para fechar essa joça, logo nesse jogo o seu pior inimigo não será o titio Ovo, mas o tempo. Para insentivar Sonic e sua trupe a usar e abusar do correr pra caralho, a Sega mandou que Dr. Eggman deixa-se os cenários extremamente sensíveis a toques e outras besteirinhas, fazendo com que as fases fossem desmoronando, corroendo, [[os Simpsons|pegando fogo]], explodindo e estrasalhando a medida que você passase por elas; só que como ao decorrer das fases você perde mais [[anéis (Sonic)|anéis]] que a própria virgindade, a Sega resolveu dar uma ajudinha ao Sonic e seus comparsas lhes <s>introduzindo</s> atribuindo uma barra de energia vital (em respeito a regra dos arcades n° [[300]][[42]][[23]][[7]][[69]][[666]]). Em fim, é a mesma coisa que [[Metal Slug]], só que sem as armas, com mais perigos, em 3D([[ou não]]) e apenas com o objetivo de correr pra caralho até o final da fase em poucos minutos (é isso que dá fazer um jogo do Sonic versão arcade).
+
+== Personagens ==
+
+Como já foi dito, o jogo terá apenas <s>[[mais de 8000]]</s> '''3''' personagens, que são:
+[[Arquivo:Segasonic 2.gif|thumb|left|São tantos personagens a escolha...]]
+[[Arquivo:Segasonic 4.gif|thumb|Famoso modo ''Two Player'']]
+* '''[[Sonic the Hedgehog|Sonic]]''' - O ouriço hyper-ativo que adora correr pra caralho. Aqui ele não utilizou as suas habilidades em 100% e acabou sendo capturado pelo Dr. Balofo ou dr. tribufú, e agora deve usar e abusar de sua velocidade se quiser sair vivo da ilha-prisão.
+
+* '''[[Mighty the Armadillo|Mighty]]''' - O tatu-cosplay-de-Sonic. Apareceu pela primeira vez nesse jogo. Como ele faz exatamente as mesmas coisas que Sonic, nem vamos perder tempo falando de suas habilidades. Depois de sua atuação aqui, a Sega resolveu manda-lo para trabalhar na ''Agência de Detetives [[Chaotix]]'' por três anos e nada mais.
+
+* '''[[Ray the Flying Squirrel|Ray]]''' - O esquilo voador que não voa porra nenhuma. Também apareceu pela primeira vez aqui e por ser quase um cosplay de Tails, todos os demais o menosprezam e o tratam como capacho. Na verdade Ray é de fato um inútil-retardado-gay-amarelo-n00b que só está no jogo para fazer volume.
+
+== Fases == 
+
+[[Arquivo:SegaSonic3.png|left|thumb|É possível alterar pra três jogadores (se você conseguir controlar os três ao mesmo tempo no [[Mame]], seu [[n00b]]).]]
+
+O jogo possui 7 fases onde você não pode perder muito tempo escolhendo o melhor caminho a ser seguido, afinal só existem caminhos únicos. É possível fechar o jogo em menos de <s>20 minutos</s> 1 segundo na primeira vez (dependendo do seu nível de correr pra caralho). São elas:
+
+'''Volcanic Vault''': Sonic e seus comparsas acabaram de ser presos por Eggman, que os deixou em pleno vulcão dentro de uma sala com uma parede móvel cheia de espinhos, preso por uma grande e com muita lava pelo lado (ou seja: fodeu!). O único jeito de escapar é atacando a grade com o uma [[Dash Spin]] [[Voadora]]. Logo depois que você entra na sala ao lado, o maldito Dr. Ovoman aparecerá e te fará cair numa outra parte da ilha, onde o cenário vai sendo corroído pelo fogo e o mesmo vai perseguir os personagens. Daí corra pra caralho pegando os anéis. Depois, uma catapulta jogará o personagem automaticamente para cima. Na próxima parte, para abrir as grades, corra na esteira. E continui correndo se desviando do fogo, pulando e tomando cuidado com as explosões de magma. Depois, fuja novamente do magma, tomando cuidado com as explosões e os trechos sem pisos, caso contrario você morre(dã!). Escapado dessa parte, você vai pra outra fase.
+[[Arquivo:Segasonic 6.gif|thumb|Quando a técnica de correr pra caralho falha, a água dá uma forçinha]]
+'''Icy Isle''': Sonic e sua trupe escaparam dessa, mas o velho cientista balofo não sossega. Agora estalagtites cairão do céu, e é preciso usar novamente o correr pra caralho. Cuidado com os blocos móveis e não seja idiota: a parede de baixo é falsa, seu n00b. Após escapar dessa, Sonic chega a um local cheio de neve, e o pisco começará a cair. Corra pra caralho e use os escaladores para escapar. Cuidado com os espinhos, seu retardado! Na parte das plataformas móveis, tome espaço, volte um pouco e saia correndo feito um demente pelas plataformas. Depois pule para o outro lado e repita todo o processo (de novo...¬¬). Se conseguir sair vivo irá para a outra fase.
+[[Arquivo:Segasonic 20.gif|thumb|left|O que você certamente nunca conseguirá fazer.]]
+'''Desert Doge''': <s>Simplismente a mesma merda de Dust Hill do [[Sonic 1]].</s> Estamos agora num deserto <s>do Saara</s>, com direito a areia movediça, trechos em que a areia vai ceder entre outras besteiras desse tipo. Aqui você será perseguido por um grande rodamoinho, então... corra filho, CORRAAAAAAA!!! Os anéis estão escondidos nos amontoados (que nem na fase anterior, só que agora com areia ao invez de neve, né besta?!). Caso você caia numa areia movediça, use a famosa técnica milenar do [[Dash Spin]] [[Voadora]]. Na parte dos monstros, corra em diagonal, nunca em reto(hum..).
+
+'''Trap Tower''': Uma fase dentro de <s>um castelo</s> uma torre grande pra caralho, onde Sonic será perseguido por rodas de engrenagem. Tome cuidado com os geradores de energia, ou se não tomará um belo choque na [[bunda]](ou num [[cú|lugar pior ainda]]). Na parte dos esmagadores espere eles se levantarem para passar, a menos que queirar ficar bem passado, e não se esqueça de quebrar os containers pra pegar <s>nos</s> os anéis. Depois é só subir uma escada sem se ferrar (coisa <s>mole</s> dificil).
+[[Arquivo:Segasonic 19.gif|thumb|A maldita escada sensível(corra, filho. CORRRRRAAAAAAAAA!!!!)]]
+'''Landslide Limbo''': Agora estamos em um dos cenário do desenho do Papaléguas. É uma das fases mais difíceis([[ou não]]). Dessa vez, em homenagem a [[Indiana Jones|Sr. Jones]], o que vai perseguir o Sonic é uma pedra. Cuidado com o penhasco e com os [[Buraco Infinito|buracos]]. Nessa parte siga primeiro pela direita, para coletar anéis. Depois siga pela esquerda, para coletar mais anéis. Agora <s>vá pelo meio pra pegar Chilli Dogs</s> vem um perigoso trecho em que a terra vai ceder mais rápido pelos cantos (agora sim vá pelo meio). Depois é só subir se desviando <s>dos tiros</s> do fogo. Passado isso é a vez de enfrentar o '''único''' chefe de todo esse jogo(sim! o '''ÚNICO'''). É uma geringonça cheia de bugingangas elétricas e outra merdas a mais (uma verdadeira suruba). Acerte-a 10 vezes próximo ao meio dela ou nos lugares que disparam fogo (quando não estiver soltando fogo, né seu retardado!). Você vai gastar [[mais de 8000]] fichas nesse chefe... mas vale a pena, se seu objetivo é ir pra outra fase.
+[[Arquivo:Segasonic 5.gif|thumb|left|Sonic em uma de suas piores fases]]
+'''Wild Water Way''': Fase das ruínas aquática, que circunda a Torre de Eggman. Primeiro você começa numa estreita ponte, que evidentemente vai caindo a medida que você corre pra caralho. Após isso o Sonic cai num lago, em que uma espécie de barco com serra e uma hélice vai segui-lo(corra ainda mais pra caralho). É possível pegar vários anéis na água, mas como Sonic odeia água nem tente arriscar isso com ele. Toda vez que aparecer uma tartaruga ou casas de mostrinhos, pule em cima delas, que elas vão soltar anéis. Cuidado com as bombas, basta fazer sombra que elas explodem(disgraça!). Agora vem o pior: Após escalar uma parede em que fissuras vão arrebentar jatos d'água bem na tua fuça, você vai precisar ficar pulando <s>feito um viadinho</s> entre tábuas para subir a correnteza. Passado isso, escale outro paredão e repita todo o processo. Depois vá pra outra fase (esta frase já tá dando no saco de tanto que já repetiram nesse artigo).
+
+'''Eggman's Tower''': Finalmente Sonic e seus comparsas conseguiram chegar à maldita Torre de Eggman. É a fase mais rochedo do jogo, afinal, Dr. Balofo deixou todos os tipos de obstáculos possíveis e imagináveis só para ver você se foder. Para começar um grande carro com a cara do Tio Ovo vai te perseguir, enquanto você tem que passar entre obstáculos móveis com espinhos, cerca elétricas, mãos-zumbi entre outras aberrações. Depois disso, é preciso subir numa escada que vai aparecer na sua frente. Sonic chegará à sala de Eggman por um acesso externo, mas como isso é um jogo árcade, escada vai ceder. Seja rápido e use toda a sua arte de correr pra caralho para não cair no meio do caminho. Passado isso, outros desafios mais desafiadores que os desafios anteriores(ih! rimô!) te esperam ansiosamente dentro da torre; por fim passe novamente pelas escadas sensíveis até chegar finalmente à sala de Eggman.
+
+== O final(finalmente...)==
+[[Arquivo:Segasonic 18.gif|thumb|left|{{c|Se fudeu, ouriço|Eggman para com Sonic}}]]
+[[Arquivo:Segasonic 17.gif|thumb|Um clássico final([[ou sim]])]]
+Logo que Sonic e sua trupe chegam à sala de Eggman, o Dr. Ovoman toma um susto, pois não esperava que aquele grupinho de furries chegasse até ali. Com isso Eggman aciona um comando de auto-destruição da Torre em 20 segundos. Nesse momento, Sonic tem apenas 20 segundos para escapar (é claro...dã!). O número aparecerá na tela, e agora filho? Corra! Corra pra Caralho!!! Se você não conseguir, é [[Game Over]]. Game Over, na certa, pois essa fase não tem Continue([[AAAAA]]). Se você tiver créditos, vai perdê-lo, vai ser dada a tela: ''You Failed''. Ta, brincadeira, você não ira perde-los(ufa!)... mas se for usar, vai ter que começar o jogo de novo([[AAAAA|AAAAAAAAAAAAAAAAAAAAAA!!!]]). Para escapar da torre, aqui vai uma dica: <s>CORRA!!!</s> somente ande em diagonal, que é o jeito que o Sonic correrá ainda mais pra caralho. Sempre fique no canto direito, pois após passar das escadas sensíveis a toques virá um pequeno trecho reto, em que você terá apenas três segundos para sair de fora da fortaleza. E finalmente, saindo para porta da fortaleza, Sonic, Mighty e Ray conseguem escapar da explosão e da fudenciação fatal. Já Eggman... SE FUDEEEEEEEEEEUUUUUUUU!!!
+
+== Vídeo ==
+
+<center>
+<YouTube>
+Title=SegaSonic detonado com 3 jogadores!
+movie_url= https://www.youtube.com/watch?v=KzsdBMg8eOA 
+embed_source_url= https://www.youtube.com/v/KzsdBMg8eOA
+wrap=no
+width=500
+height=350
+</YouTube>
+</center>
+
+{{sonic}}
+[[Categoria:Jogos lançados em 1992]]
+[[Categoria:Jogos da Sega]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos de plataforma]]

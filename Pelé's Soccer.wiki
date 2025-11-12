@@ -1,0 +1,53 @@
+{{game}}
+{{Jogos Antigos}}
+{{Infobox Game
+|title     = Futebol do Pelé
+|image     = Pelé's Soccer.jpg
+|caption   = Baseado no [[Filme do Pelé]], percebe?
+|developer = [[Atari]]
+|publisher = [[Atari]]
+|released  = [[1980]]
+|genre     = [[Futebol|Pelada]]
+|rating    = 00000001%
+|platform  = [[Atari]]
+|ages      = Adequado para qualquer demente que ache que é um jogo de futebol
+}}
+[[Arquivo:Pelé's SoccerII.jpg|thumb|200px|right|Pelé jogando seu joguinho. Na verdade, ele tá rindo da falta de qualidade gráfica do game.]]
+{{c|Esse jogo foi feito por mim mesmo, entende?|Pelé|Pelé's Soccer}}
+{{c|Vamos esquecer esses protestos e jogar meu joguinho!|Pelé|os protestos pela falta total de criatividade do game.}}
+{{c|Pelé sem jogo de videogame é um poeta!|Romário|jogo do Pelé.}}
+{{c|Prefiro o filme...|Chaves|esse jogo.}}
+
+'''Pelé's Soccer''' é o vovô dos jogos de [[futebol]] para [[videogame]]s, lançado para [[Atari 2600]] em [[1980]]. É um jogo muito bom... muito bom mesmo... para pessoas da época, já que na época não tinha nenhum, esse já dava. Porque, se vermos a tela do jogo, você percebe logo que o game parece ter sido baseado em um [[futebol de botão]] microscópico com [[passe americano]] (dois na linha e um no gol, no caso desse jogo são três na linha). E mais, o goleiro não é controlado pelo jogador, e sim pelo [[computador]] (exceto se porventura ele conseguir salvar a bola, o que o PC apelão muitas vezes não permite).
+
+O game tem 54 variações de jogo diferentes (metade single player e metade versus), em diferentes velocidades, durações de jogo e tamanho de barra (SIM, tinha isso também nesse jogo, pelo menos uma parada interessante). O que não mudava, entretanto, era a absurda sensação de [[você]] estar jogando com um monte de pontos coloridos num fundo verde um pontinho minúsculo e quase invisível chamado [[bola]]. E, claro, sua impaciência completa ao jogar esta merda.
+
+O mais zoeira disso tudo é que o jogo não é [[brasileiro]] (que é costumaz em aplicar golpes do gênero nas pessoas) nem [[paraguai]] o (sem comentários do porquê), mas ainda assim é uma bela merda que usa a imagem e o nome do [[Pelé]] no título só pra enganar, já que até hoje ninguém que jogou ou pelo menos viu como é esse jogo soube identificar quem é o Pelé naqueles pontinhos... ei.. acho que descobri! EI, Você... VOCÊ é o Pelé???
+
+{{c|Não, eu sou o [[Jô Soares]], <s>sua piranha</s> seu banana!|Pelé|meu erro.}}
+
+Putz, nesse jogo é impossível ver até o peso dos jogadores pra não cometer esses fails...
+
+== Vídeos ==
+
+O jogo
+
+<YouTube>
+title=O jogo
+movie_url=https://www.youtube.com/watch?v=LSEASVJIEx4
+embed_source_url=https://www.youtube.com/v/LSEASVJIEx4
+wrap=no
+width=400
+height=300
+</YouTube>
+
+Vários atletas contratados falando de jogos do seu gênero (entre eles, Pelé, sempre falando merda, até em espanhol)
+
+<YouTube>7cnq5tTZBOg</YouTube>
+
+
+{{Game Sports}}
+
+[[Categoria:Jogos da Atari Games]]
+[[Categoria:Jogos para Atari 2600]]
+[[categoria:Jogos lançados em 1981]]

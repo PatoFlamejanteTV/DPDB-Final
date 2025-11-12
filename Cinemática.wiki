@@ -1,0 +1,48 @@
+{{física}}
+ 
+{{c|Ahhh, já sei, é o ramo da física que estuda o cinema...|[[Carla Perez]]|cinemática}}
+
+Entre os [[mais de oito mil]] ramos e sub-ramos da física (cinemática, mecânica, termodinâmica, física moderna, e o caralho-a-quatro), a '''cinemática''' é aquela que estuda o movimento <s>[[Dado Dolabella|punk, véio]]</s>.
+
+== (Pre)Conceitos da cinemática ==
+[[Arquivo:Cinemática.jpg|thumb|1000px|center|Quem entendeu isso tudo saia desse computador e vá pegar umas minas, AGORA!]]
+=== Velocidade ===
+{{c|O carro de polícia te persegue, e percorre 105 metros em 2 segundos, qual a velocidade que você deve correr para escapar?|Modelo de estudo de física nas [[escola]]s públicas}}
+
+O <s>[[bandido|perseguido pela polícia]]</s> estudante deve utilizar a seguinte fórmula: <math>Velocidade (V) = deslocamento (d = S1 - S0)/intervalo de tempo (t = T1 - T2)</math>
+
+E assim, o ser descobre que o carro que foi assaltado deve ter cavalos o suficiente para ultrapassar uns 189 km/h, senão [[cadeia|vai em cana]].
+
+=== Aceleração ===
+{{c|O seu jatinho desenvolve uma velocidade de 720 km/h em 10 segundos, qual é a sua aceleração?|Típica pergunta de física nas colégios privados}}
+Vou resumir para ficar fácil: aceleração é a [[WTF?|velocidade da velocidade]]. A vossa senhoria deveria usar: <math>Aceleracao (a)=variacao da velocidade (V1 - V0)/intervalo de tempo (t)</math> para descobrir que a aceleração de seu jatinho é de 20 m/s².
+
+'''Outras fórmulas [[sexo|relacionando]] velocidade e aceleração'''
+
+<math>V = (at^2)/2</math> - Significa <s>[[Seu Madruga|PRE-RI-GO!]]</s> ''Vi as tetas meio quadradas''
+
+<math>V1 = V0 + at</math> - Significa ''[[Viagra|Vovô e Vovô andam trepando]]''
+
+<math>d = vt + (at^2)/2</math> - Significa ''Duda, você tem as tetas meio quadradas''
+
+== Tipos de movimento, véio! ==
+
+É muito comum nos problemas problemáticos de físicas (pleonasmo proposital) identificarmos o movimento vaca.
+
+{{c|MUUUUUUUUU!|Vaca|comentário anterior}}
+
+Sim, trata-se do MU, Movimento <s>saia calça macacão</s> uniforme, onde ou a velocidade se mantem constante, é como o [[Rubens Barrichelo]] na corrida, não acelera, <s>nem desacelera<ref>Se desacelerar, para.</ref></s>.
+
+Outro conhecido é o Movimento [[Corinthiano]], conhecido pelos físicos como ''Movimento Retardado'', aquele cuja <s>as chances de ganhar a [[Libertadores]]</s> a aceleração tem sentido oposto da velocidade.
+
+Há também o MRU, MUA, MCU<ref>Abreviatura de ''Mr. [[Cu]]''</ref>, [[DP:MR|MR]], todos com seus significados, que eu não sei, pergunte para seu [[professor]].
+
+{{ref-section|Observações}}
+
+== Ver também ==
+
+* [[Física]]
+* [[Química]]
+* [[Mecânica]]
+
+[[Categoria:Física mecânica]]

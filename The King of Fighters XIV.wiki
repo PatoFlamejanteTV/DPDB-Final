@@ -1,0 +1,157 @@
+{{game}}
+{{Infobox Game
+|title     = O Rei das Fraturas 14
+|image     = The King of Fighters XIV cover.png
+|caption   = Capa do jogo da versão lançada no Brasil
+|developer = [[SNK Playmore]]
+|publisher = [[Atlus]]
+|released  = [[2016]]
+|genre     = Violência gratuita
+|rating    = Tanto faz
+|platform  = [[PlayStation 4]]
+|ages      = 12 anos
+}}
+
+'''The King of Fighters XIV''' é o décimo quarto jogo da série [[The King of Fighters]] e o décimo primeiro oficialmente canônico naquela bagunça. Seu lançamento foi anunciado em [[2015]], mas ficou pronto somente em [[2016]] porque foi desenvolvido pelos preguiçosos da SNK que já há muito tempo perdeu sua capacidade de lançar KOFs anuais. O jogo seria distribuído com uma ajudinha da [[Atlus]] porque a SNK não estava mais dando conta de sustentar o servidor online sozinha. Foi lançado direto para os console, sem sua versão Arcade, devido à nova política da SNK em se afastar do público de pivetes de boteco e focar mais nos mauricinhos de apartamento, que é quem realmente tem dinheiro e gasta com jogos, mas a versão para Arcade acabou sendo lançada a contragosto em 2017 por causa do anúncio do torneio de [[e-sports]] desse jogo, o que explicou também o patch para nerfar e bufar uns personagens.
+
+== Desenvolvimento ==
+
+Depois de anos plagiando descaradamente a [[Capcom]] e o [[Street Fighter]], finalmente a série The King of Fighters inovou e agora passou a plagiar o [[Street Fighter × Tekken]] da [[Capcom]], imitando completamente a sua jogabilidade. A SNK já há muito tempo perdeu seu fôlego em ficar lançando KOFs anualmente, mas a mania de alternar um KOF bom com um KOF ruim a empresa manteve na sua tradição, então se KOF XII foi uma bosta e KOF XIII foi bom, o natural foi lançar um KOF XIV bem bosta e deixar os fãs aguardando por KOF XV se quiserem um bom jogo.
+
+O medonho Modo Online de KOF XIII obrigou a SNK a fazer uma parceria com a [[Atlus]] para reduzir os lags que ocorriam em 100% das partidas e que agora ocorrem em apenas 60% das partidas.
+
+A direção de arte presenteou os fãs com o primeiro The King of Fighters com textura em 3D, trazendo gráficos vergonhosos dignos de [[PlayStation 2]]. Por isso por vergonha de fazer muito CG nessa baixíssima qualidade, várias vezes o enredo do Modo História nos é contata através de artes estáticas. Como os jogos rivais tipo [[Street Fighter]] e [[Mortal Kombat]] atualmente têm gráficos produzidos inteiramente em computação gráfica, a SNK decidiu ir pelo mesmo caminho, ignorando por completo a tentativa frustrada em fazer isso com o fiasco [[The King of Fighters: Maximum Impact]]. Portanto, a animação tradicional desenhada à mão foi deixada de lado desta vez.
+
+Quanto à jogabilidade, a SNK mudou tudo de novo, como reclamaram que no jogo anterior quase não tinha personagem, decidiram meter logo 50 nessa versão e os noobs comemoraram isso, sem perceber a desvantagem óbvia de algo assim, pois com tanto personagem o resultado é inevitavelmente um jogo totalmente desbalanceado, então se por um lado o jogo tem teoricamente 50 personagens, na prática ele só tem os mesmos 5 personagens (Mature, K', Nakoruru, Athena e Love Heart) que são os únicos que todo mundo usa, porque se escolher outro vai apanhar no Online.
+
+==Jogabilidade==
+
+Assim como qualquer outro jogo anterior da franquia, The King of Fighters XIV traz aquele velho esquema de combates entre trios. O jogador pode optar se prefere usar os trios oficiais ou customizar sua própria equipe escolhendo quaisquer um dentre todos os personagens. Ou seja, nenhuma novidade até aqui. A única novidade está na movimentação, porque não existe meio-termo, ou você anda devagarzinho ou dá um corridão.
+
+O jogo busca ser mais amigável para os noobs, ou seja, agora tudo é mais fácil, você aperta qualquer coisa e os bonecos saem dando os golpes tudo quase que automaticamente de modo que um noob consegue se fingir de profissional facilmente jogando essa bagaça. Tudo foi desenvolvido para beneficiar os noobs: qualquer coisa solta os secretões, estourar a barra é coisa corriqueira, quase não há punição pra barra estourada errada, cancelar magia no especial gasta nada, e além de tudo isso agora um róri pode ser cortado até com voadora, tudo isso sem contar que alguns personagens conseguem combar só com sequência de soco fraco. Apertou dois botões diferentes? O boneco já sai combando que nem um louco. Apertou três botões diferentes? Já descobriu um combo de tirar meia-vida.
+
+Agora a questão que se mantém um mistério é, para que aquela esquiva ridícula? Se ao esquivar o boneco demora meio século para fazer o contra-ataque, o melhor é só pular pra escapar dos golpes, o que explica os viciados nesse jogo não parando quieto no cenário.
+
+== Enredo ==
+
+[[Arquivo:KOF-XIV Luong-3.jpg|thumb|left|Com lutas assim, quem é que liga para a história?]]
+
+O enredo dá sequência aos fatos ocorridos na história dos jogos anteriores, que foi carinhosamente batizada pela [[SNK]] de "Tales of Ash" por narrar a epopeia sinistra do passado de [[Ash Crimson]], um dos personagens mais odiados pelos fãs.
+
+Atualmente, o torneio [[KOF]] tornou-se um dos eventos mais importantes do mundo, com edições paralelas ocorrendo simultaneamente nos mais diversos países. Em consequência disso, a qualidade dos lutadores diminuiu muito, bem como os prêmios oferecidos aos campeões. Assim, fãs do mundo inteiro resolvem protestar contra a banalização da competição e saem às ruas batendo panela e vandalizando patrimônios públicos.
+
+O bilionário russo e bombado [[Antonov (The King of Fighters)|Antonov]], que se autoproclama o maior [[fanboy]] do torneio de todos os tempos, usa sua grana para comprar todos os direitos legais relacionados ao KOF. A partir de então, ele torna-se o novo responsável por sua realização, e decide unificá-lo novamente, trazendo de volta o maior evento de porrada já visto na face da [[Terra]].
+
+== Personagens ==
+
+[[Arquivo:Shun ei kof xiv by briankusanagi98-da0b2zk.png|thumb|right|300px|Um dos novos {{Strike|macumbeiros}} personagens do jogo.]]
+
+Embora a série já tenha [[mais de 8000]] personagens, a SNK sempre dá um jeito de enfiar mais gente nos seus jogos e em XIV não foi diferente, trazendo novos lutadores tanto inéditos como também alguns reciclados de outras franquias da empresa. Esse acabou sendo aquele com maior número de personagens inúteis novos adicionados, transformando-o no jogo com a maior quantidade de viadinhos e gurias retardadas da história dos jogos de luta (apesar da adição de várias putas pagas também, o recorde de jogo de luta com a maior quantidade de vadias ainda é de [[Dead or Alive 6]]).
+
+* '''Team Japan'''
+** '''[[Kyo Kusanagi]]''' - Teoricamente é o Kyo ali, embora os gráficos façam parecer que é só um moleque japonês genérico. Um dos mais roubados do jogo, mas também o mais manjado pra se usar quando vai pro Online que todo mundo já decorou como counterar esse maluco.
+** '''[[Benimaru Nikaido]]''' - Com a morte de Ash, Benimaru finalmente volta a reinar como sendo o baitola oficial dessa versão.
+** '''[[Goro Daimon]]''' - Já apelou num passado distante, mas nessa versão usar o Goro é como conectar o joystick numa rocha e tentar movê-la, o personagem mais lento de todos.
+
+* '''Official Invitation Team'''
+** '''[[Sylvie Paula Paula]]''' - Uma [[otaka]] retardada vinda da [[França]]. Um noob usando ela apanha de todo mundo, mas um viciado que sabe usar os golpes dela de choque que ocupam a tela inteira enchem o saco.
+** '''[[Kukri]]''' - [[Cosplayer]] do [[Ezio Auditore da Firenze]], ninguém conhece seu rosto e veio do [[Acre]], cheio de golpes de areia. Apesar de estar todo sinistro e maneiro nesse jogo, o futuro jogo [[SNK Heroines: Tag Team Frenzy|SNK Heroines]] vai tratar de estragá-lo completamente.
+** '''[[Mian]]''' - Ex-amazona de [[Athena]], teoricamente não pode tirar a máscara, embora todo mundo já a tenha visto sem ela. Também é nativa da terra [[xing-ling]] e como se encontra com muita roupa acaba não sendo muito lembrada.
+
+* '''Team South America'''
+** '''[[Nelson (The King of Fighters)|Nelson]]''' - Um negão brasileiro. O grande responsável pela mudança de Griffon para King of Dinosaurs.
+** '''[[Zarina (The King of Fighters)|Zarina]]''' - Mulata boazuda que vive com o rabo de fora e, embora pareça brasileira, veio da [[Colômbia]].
+** '''[[Bandeiras Hattori]]''' - Apesar do nome castelhano e do sobrenome japonês, é brasileiro negão de cabelo rastafári, representando portanto a miscigenação do Brasil.
+
+* '''Team Yagami'''
+** '''[[Iori Yagami]]''' - O queridinho dos emos, para se dar bem com esse tem que saber soltar magia, porque quando um viciado começa a spamar as purpurinas do Iori no cenário, o adversário tá fodido. É magia em cima, em baixo, no meio, longe, que fica pairando no ar, é purpurina de todo tipo pra atormentar o adversário.
+** '''[[Mature]]''' - Cansada de só viver na sombra do Iori, pela primeira vez seu boneco é melhor que o Iori e espanca geral, principalmente porque ganhou uma voadora que corta praticamente tudo (menos o Genocide Cutter, é claro, que nem tem nesse jogo). No Modo Online você vê ela direto.
+** '''[[Vice (The King of Fighters)|Vice]]''' - Foi ressuscitada pelo Iori e voltou, mas ninguém escolhe ela porque é praticamente impossível combar usando essa moça, já que só dá porradões e isola todo mundo pra longe.
+
+* '''Team Kim'''
+** '''[[Kim Kaphwan]]''' - Enquanto a cara do Kyo não se parece mais com o Kyo, o Kim se parece com o Kyo. Apela só contra as máquinas usando o Outatatata Ouata Uachá, mas nos contras seus golpes manjados são facilmente counterados.
+** '''[[Gang-Il]]''' - Empresário mulherengo vindo da [[Coreia do Sul]], está ali como prova de que a SNK não sabe fazer personagem desde 1994.
+** '''[[Luong]]''' - Puta de estimação de Gang-il, criada para fazer concorrência à [[Mai Shiranui]] por estar ali unicamente para enriquecer ainda mais o material de putaria relacionado a KOF. Num jogo a sério ela é uma porcaria, está ali pelo fanservice com seus golpes de esfregar a buceta nos adversários. Há controvérsias, mas dizem que ela veio do [[Vietnã]].
+
+* '''Team México'''
+** '''[[Ramon (The King of Fighters)|Ramon]]''' - Continua sendo uma porcaria porque como o seu boneco não para de dançar você nunca consegue posicioná-lo numa distância correta do oponente.
+** '''[[Angel (The King of Fighters)|Angel]]''' - Após uma longa ausência essa fela de uma puta tá de volta, mas graças a Deus ela está agora completamente inofensiva dessa vez, totalmente nerfada, ninguém a escolhe mais.
+** '''[[King of Dinosaurs]]''' - Personagem altamente ridículo, mas seguindo a tendência que todo jogo de luta tem que ter um dinossauro, ele nada mais é que a nova identidade do [[Griffon]] e dublê dos galãs da [[Televisa]] nas horas vagas. Sim, ele é do [[México]].
+
+* '''Another World Team'''
+** '''[[Nakoruru]]''' - A indiscutível rainha de The King of Fighters XIV. 5 dentre os 5 maiores campeões desse jogo usam ela. Nakoruru vem com alcance longo, golpes de alto dano, altíssima recuperação após os ataques, fica invulnerável direto e ainda fica tacando em você uma águia invencível impossível de cortar (nem o Genocide Cutter corta a águia dela, o que evidencia a apelação daquele negócio).
+** '''[[Mui Mui]]''' - Versão crescida da [[Pucca]], veio do desconhecido jogo [[Dragon Gal]] e embora não esteja no top 5 do jogo é incrivelmente insuportável contra noobs porque é praticamente impossível de acertar golpe nela. Mais uma chinesa.
+** '''[[Love Heart]]''' - Uma {{Strike|pirada}} pirata vinda de outra dimensão, ou melhor, do jogo [[Sky Love]]. Rouba muito e apela pra caralho quando traz a sua espada Inuzechu e não para de soltar Inuzechus, mas se o assunto for [[hentai]] teria sido bem melhor se colocassem a [[B. Jenet]] no lugar dela.
+
+* '''Villains Team'''
+** '''[[Xanadu (The King of Fighters)|Xanadu]]''' - Uma bichona gorda e careca de barba azul. É um assediador de mulheres, o que o torna o personagem mais desprezível de todos. Deve ter vindo da [[Casa do Caralho]].
+** '''[[Chang Koehan]]''' - Trouxeram o maldito quebra-ossos de volta. Como estão todos lentos nesse jogo, a lentidão de Chang deixa de ser desvantagem, o deixando bem apelão. É revelado nesse jogo que ele tem um crush pela Leona.
+** '''[[Choi Bounge]]''' - E quando achávamos que estávamos finalmente livre desse cretino, a SNK traz ele de volta. 50% dos ataques existentes no jogo não relam nele.
+
+* '''Team China'''
+** '''[[Shun'ei]]''' - Um [[vocaloid]] que não deu certo, deve ter quebrado por ser de fabricação chinesa. É considerado o novo protagonista da franquia embora ninguém se importe com esse porra, até porque ele é tão fresco que nem dá os golpes, mas sim fica chamando duas mãos gigantes para dar os golpes por ele.
+** '''[[Tung Fu Rue]]''' - Idoso que apesar do tamanho e da idade luta igual o [[Zangief]], só no pilão giratório.
+** '''[[Meitenkun]]''' - Um [[guri retardado]] que vive de pijama e só pensa em dormir, ou seja, mais um personagem imbecil sem carisma algum. Veio da [[China]], né?!
+
+* '''K' Team'''
+** '''[[K']]''' - Parou de beber suco de maracujá e nessa versão está completamente tunado, um verdadeiro diabo de enfrentar, todo cheio de combos.
+** '''[[Kula Diamond]]''' - A namorada do K' cujos golpes parecem estar é bugados. Quando você acha que vai acertar ele não acerta, mas quando você acha que não vai acertar aí acerta.
+** '''[[Maxima]]''' - Ninguém escolhe esse personagem mais. Tão lento que dá raiva de controlar.
+
+* '''Ikari Warriors'''
+** '''[[Ralf e Clark]]''' - Continuam só dois brutos que lutam só na bruteza e dando pegada.
+** '''[[Leona Heidern]]''' - Perdeu bastante roupa e agora mais parece uma puta na porta de um bordel do que uma militar, inclusive, graças ao belo novo decote, ganhando bastante atenção para a física do chacoalhar de seus peitos, algo que antes só existia para a Mai e a Blue Mary. Durante os especiais fica de cabelos vermelho, mostrando que agora ela tem controle sobre sua antiga dependência química.
+
+* '''Team South Town'''
+** '''[[Geese Howard]]''' - Dono do counter mais apelão de todos os tempos. Você ataque em cima, mãozinha verde do Geese te contra-ataca. Você ataque em baixo, mãozinha verde do Geese te contra-ataca. E agora o seu secretão Super Cancel pode ser executado até por noobs, e o seu Reigim Stór estupra totalmente o HP adversário.
+** '''[[Billy Kane]]''' - Pau mandado do Geese, foi bastante nerfado, afinal sua grande vantagem sempre foi seu bastão, mas nesse jogo só dá ataques de curto e médio alcance (pra que a porra do bastão então).
+** '''[[Hein]]''' - O mordomo do Geese Howard, vem da [[Alemanha|terra do chucrute]] e se destaca por ser um personagem horrível de se utilizar, afinal ele não dá porrada, só fica dando umas bifas que quase não tiram dano. Diz ele que é tudo uma grande estratégia (ele gosta de jogar xadrez), mas no fim é ele que está sempre tomando um pau.
+
+* '''Fatal Fury Team'''
+** '''[[Terry Bogard]]''' - Após mais de 25 anos só apanhando, o Terry finalmente ficou apelão e decente com vários movimentos que escapam das magias dos outros e uns combos sinistros. Mas o viciado que for usar o Terry nesse jogo é bom ficar esperto pra não soltar magia com ele, o seu Pau á Gaizá está lento e inútil.
+** '''[[Andy Bogard]]''' - Tal qual o irmão, foi melhorado, mas ainda continua mediano porque é preciso três mãos para executar seus combos e estar colado no adversário. Nesse jogo ele se casa com a Mai Shiranui, a ideia é ganhar vários chifres para então bem se proteger.
+** '''[[Joe Higashi]]''' - Está ali de filler, cada vez mais coadjuvante.
+
+* '''Art of Fighting Team'''
+** '''[[Ryo Sakazaki]]''' - Continua ali de filler, o seu Raul Chocoquem está ainda mais piorado, e para conseguir se dar bem com ele precisa ter timing, se você errar um comando por um décimo de segundo você se fode nos combos.
+** '''[[Robert Garcia]]''' - O amante latino de cavanhaque. Por muito tempo ao longo dos anos imitando o [[Guile]], perdeu todos seus gilete e agora está mais idêntico à [[Chun-Li]], só nas bicudas. 
+** '''[[Yuri Sakazaki]]''' - Pegou emprestado o creme rejuvenescedor da Athena e também está parecendo uma loli. Embora agora se comporte como uma guria de 15 anos, também pegou a bomba pra cavalo que Athena usou nas coxas, só que usou na bunda, se tornando a personagem mais rabuda da série.
+
+* '''Psycho Soldiers'''
+** '''[[Athena Asamiya]]''' - Novo KOF significa nova roupa para a Athena e ela ficou ainda mais loli nessa versão e com as coxonas ainda mais grossas. Muito apelona no passado, depois foi nerfada, mas voltou a apelar no XIV porque consegue fazer um spam insuportável de seu golpe Saicocô.
+** '''[[Sie Kensou]]''' - Voltou com um cabelinho de Justin Bieber, continua moscando na friendzone da Athena.
+** '''[[Chin Gentsai]]''' - Veio manguaceiro que tal qual a Athena também já apelou muito no passado, foi nerfado e agora volta a apelar. É o único que oficialmente tem um combo que arranca 100%, mas é preciso acumular 10 biritas e 5 barras, então na prática é impossível.
+
+Women Fighters
+** '''[[King (Art of Fighting)|King]]''' - De longe uma das mais insuportáveis de se enfrentar, a vadia não para quieta e você nunca sabe se a bicuda vem do alto ou embaixo, fica ainda mais chata quando começa a encher o cenário com seu Eno Istlike.
+** '''[[Mai Shiranui]]''' - A puta paga de sempre.
+** '''[[Alice Garnet Nakata]]''' - [[Gender bender]] do [[Terry Bogard]], além de ser uma fã maluca e alienada do próprio, sendo portanto a versão gostosa do que o [[Shingo Yabuki]] é para o Kyo. É neta de japoneses, porém natural dos [[Estados Unidos]]. Veio importada da série [[Fatal Fury]].
+
+Chefes
+** '''[[Antonov (The King of Fighters)|Antonov]]''' - Novo proprietário da SNK, atualmente detém todos os direitos em relação ao KOF. Veio da [[Rússia]] e é o penúltimo chefe a ser enfrentado.
+** '''[[Verse]]''' - O chefão final. É uma aberração escrota que cria portais interdimensionais e suga as almas de outros lutadores. Vem direto do [[Inferno]].
+
+Season 1 (DLC)
+** '''[[Whip]]''' - Seria uma personagem boa se não tirasse tão pouco de HP.
+** '''[[Ryuji Yamazaki]]''' - Ninguém nem lembrava dele, mas apareceu.
+** '''[[Vanessa (The King of Fighters)|Vanessa]]''' - A queridinha de muitos jogadores voltou no DLC pago, a SNK deixou ela bem apelona para forçar sua compra. Continua só atacando com as mãos e torrando a paciência de todos com o seu Molimoli Máe.
+** '''[[Rock Howard]]''' - Mais um lutador genérico da série.
+
+Season 2
+** '''[[Oswald (The King of Fighters)|Oswald]]''' - Nem estavam dando falta desse tiozinho, mas foi introduzido.
+** '''[[Heidern]]''' - Meramente a Leona só que vestida de [[Rolento]].
+** '''[[Najd]]''' - Terrorista justiceira vinda da [[Arábia Saudita]], a única novata disponível via [[DLC]]. Não ganhou muita repercussão porque está toda vestida, e personagem feminina só ganha fama se vier seminua ou com algum decote chamativo.
+** '''[[Blue Mary]]''' - A exemplo da Mai e da Leona, a [[física]] está bem aplicada no balançar de seus seios, afinal ainda se recusa a usar sutiã. Por muito tempo apelava só no róri, mas decidiu variar e agora apela nas rasteiras.
+
+== Recepção ==
+
+Os fãs das antigas se sentiram completamente decepcionados. Todo [[kofeiro]] que se preze sempre foi pedante, ou seja, sempre classificou os jogadores de outros jogos de luta como noobs, orgulhando-se de como jogar The King of Fighters exigia treino, decoreba e altíssimas taxas de nerdices, em suma, sempre se acharam os melhores jogadores de luta da galáxia. Mas The King of Fighters XIV veio todo simplificado e agora noobs que massacram os botões aleatoriamente simplesmente se igualaram aos nerds viciados, pois agora qualquer imbecis faz combos, por isso o fã das antigas não gostou nada disso.
+
+{{The King of Fighters}}
+
+[[Categoria:Jogos lançados em 2016]]
+[[Categoria:Jogos da SNK]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos de luta]]

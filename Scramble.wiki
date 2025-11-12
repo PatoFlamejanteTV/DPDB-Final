@@ -1,0 +1,35 @@
+{{game}}
+{{Infobox Game
+|title      = {{c|Sukarabaru!}}
+|image      = Scramble.png
+|caption    = Tudo que deu origem a [[Gradius]]!
+|developer  = [[Konami|Cunami]]
+|publisher = [[Konami|Cunami]]
+|publçisher = [[Konami|<font color=blue>'''Konmai'''</font>]]
+|released   = [[1981]]
+|genre      = {{SHT}}
+|rating     = 0%
+|platform   = [[Arcade|Aukeido]], sem contar algumas remakes por aí
+|ages       = Livre
+}}
+
+{{vqd|Gradius 0?}}
+{{vqd|Super Cobra?}}
+
+'''Scramble''' é um dos primeiros games da <font color=blue>'''Konmai'''</font> na carreira da própria, junto com Frogger.
+
+==O game==
+
+Plágiando Super Cobra, você tem que bombardear bases (que desta vez não são de [[yakyuu]]), e atirar em mísseis que vem em sua direção. Como tudo aqui era lá de 1980 e coisa e tal, você se depara com games com limite de gasosa. A cada metade de 1 segundo, caí a gasosa em 1 ponto, sendo que você tem 100. Você começa com 4 vidas e tem que passar por 8 fases, que depois o game vira um game infinito.
+
+==A remake==
+
+Em [[2002]], saiu <font color=silver>'''''KONMAI'''''</font> Collector Series: Arcade Advanced pra [[Game Boy Advance|<font color=#000055>Geimu Boiyu Adobansa!</font>]] (lógico...), Scramble saiu com Frogger, Time Pilot e mais uns gueime. Porém, a remake é acessada por um [[↑ ↑ ↓ ↓ ← → ← → B A|certo código]] na tela inicial, no qual tem cenários e mísseis novos. E também, agora tem mais duas navinhas pra você escolher, mas todas tem as mesmas habilidades que é atirar e jogar os míssil.
+
+{{Gradius}}
+
+[[Categoria:Jogos da Konami]]
+[[Categoria:Jogos para Arcade]]
+[[Categoria:Jogos para Game Boy Advance]]
+[[Categoria:Jogos de shoot 'em up]]
+[[Categoria:Jogos lançados em 1981]]

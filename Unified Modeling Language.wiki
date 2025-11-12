@@ -1,0 +1,37 @@
+
+
+{{Você quis dizer|IML}}
+{{C|Liga o bonequinho no quadrado|Você|{{PAGENAME}}}}
+{{C|Um monte de lixo|Programador|UML}}
+A '''Unified Modeling Language''' ''(aka. UML)'' foi criada com o intuito de ajudar os Engenheiros, Projetistas e Analistas de Software e sua dificuldade com a letras, transformando todos aqueles textos chatos em um diagrama que significa menos ainda.
+
+== História ==
+
+Criada pelos [[3]] Patetas, com o intuito de mostrar que aqueles desenhos feitos pelas crianças no pré-escolar não podem ser descartados, pelo contrário, devem ser utilizados para a construção de software de qualidade, vide [[Microsoft]]. Este modelo, com o passar dos anos, foi aprimorado e hoje contém cerca de uma dezenas de setas e quadrados diferentes, mas o [[?|boneco palito]] nunca foi abandonado de sua forma original. Vale ressaltar que no início os [[3]] Patetas a chamaram de Undefined Modeling Language 0.1, pois todos aqueles símbolos sem significados levaram a tal conclusão, conforme os [[3]] Patetas acrescentavam mais símbolos inúteis ela veio sendo atualizada para 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, com a morte Larry em de 1970, as atualizações pararam, e com o passar do tempo, cientistas ingleses, como sempre, resolveram mudar seu nome para o que temos atualmente, esse é o motivo do porque não temos vestígios
+
+== Introdução ==
+
+[[Arquivo:MOG.gif|right|thumb|Quando bem utilizada, gera bons resultados]]
+Foi criado devido à alta taxa de analfabetismo dos responsáveis por modelagens de [[Software]], como na maioria das vezes, liderada pelos [[Engenharia de Software|Engenheiros de Software]]. A solução foi criar desenhos que, dentre estes trazem o boneco palito, o quadrado e a seta que, mesmo assim, são um pouco difíceis para o intelecto dos tais desenvolvedores, mas que com alguns meses de treinamento conseguem grandes avanços.
+
+A aceitação deste advento foi tamanha que empresas de software como a Microsoft a utilizam hoje, não admira-nos o resultado. Outro empresa conceituada, a [[AgenciaPOG|Agência POG]] se mostrou avessa a grande parte do modelo e, com o uso de poucas partes do modelo conseguiu grandes resultados.
+
+== Funcionamento ==
+
+[[Arquivo:SimplesModeloUML.gif|right|thumb|Um modelo simples, que representa [[4]] linhas de texto do documento de especificação]]
+A UML tem como base ser tão idiota que qualquer Engenheiro, Projetista ou Analista de Software conseguirá usar, levando-se em consideração a necessidade de alguns meses, ou quem sabe anos de aprendizado e prática com as regras do modelo. Estas regras são simples e, quando utilizadas com o auxílio de alguma ferramenta, neste caso a ferramente "cérebro" ajuda, pode-se conseguir maravilhas. Vejamos as regras:
+
+* Crie o [[?|boneco palito]] e dê um nome a ele, pode ser algo como "Maria" ou "João". Se você ainda não sabe escrever pressione seu polegar sobre o monitor na direção do boneco, fazendo assim assinatura versão [[analfabeto]].
+* Crie os quadrados e dê nomes genéricos como "Object1", mas se não sabe escrever vá utilizando os outros dedos sobre o monitor.
+* Agora crie setas que ligam o boneco aos quadrados e não o inverso
+
+Pronto, basicamente você conseguiu o objetivo de criar um modelo de alta qualidade que já pode ser passado às partes seguintes do processo de construção de software. Mas se você não entendeu algo, peça para uma pessoa de cargo inferior te explicar, pois os superiores, com certeza, não conseguirão.
+
+== Ver também ==
+
+* [[Engenharia de Software]]
+* [[Java]]
+* [[Ciência da Computação]]
+* [[POG]]
+
+[[Categoria:Linguagens de programação]]

@@ -1,0 +1,197 @@
+{{bosta}}
+{{game}}
+{{jogo difícil}}
+{{Infobox Game
+|title     = Geometria Traço
+|image     = Geo1.jpg
+|caption   = Interface do jogo, mostrando a sua simplicidade
+|developer = RobToba
+|publisher = RobToba
+|released  = [[13 de agosto]] de [[2013]]
+|genre     = [[Geometria]]
+|platform  = Celulares e computadores que aguentem as pancadas
+|rating    = ■ ■ ■ □ □
+|ages      = Não recomendado para pessoas que se estressam fácil ou com [[TDAH]]
+}}
+
+{{vqd|[[Rainbow Dash]]?}}
+{{vqd|[[Dark Souls]]?}}
+{{Experimente|[[OBMEP]]}}
+{{c|Legal! Gostei deste jogo! Vou ver se compro a versão paga!|Você|o jogo.}}
+{{c|AAAHHH!!!|Você, minutos depois de (tentar) jogar Clubstep.}}
+{{c|Isso me ajudou na Prova de [[Matemática]]|[[Aluno]]|Geometry Dash}}
+{{c|FACIL DEMAIS!!|[[Japonês]]|Geometry Dash}}
+{{c|Caraca meu, esse jogo é muito topperson|Fã de música eletrônica|Geometry Dash}}
+
+'''Geometry Dash''' é um jogo de ritmo de música criado para produzir um pouco de [[Estresse|cortisol]] nos seus jogadores, acompanhado por músicas viciantes e referências ao [[Diabo]]. Ficou bastante conhecido pelos [[YouTuber]]s que gravaram vídeos sobre esse jogo para <s>passarem raiva gratuitamente</s> gerar entretenimento para o público.
+
+==Jogabilidade==
+[[Arquivo:Alborghettieh.gif|200px|right|thumb|O [[Ministério da Saúde]] adverte: jogar Geometry Dash pode causar espasmos musculares, dor mental e "raiva raivosa".]]
+Aqui os seus objetivos se aplicam com a [[geometria]] para calcular a precisão dos pulos e a forma dos obstáculos para não estabacar a cara nos espinhos e [[Morte|falecer]], sem precisar de muitos controles complicados. Mas, mesmo assim, você poderá se encontrar perdido e acabar morrendo muito por espinhos, serras giratórias, blocos, [[Mafagafo preto|mafagafos pretos]] e mais de um milhão de coisas repetidas vezes, colaborando com a dificuldade extrema do jogo. Quando tiver tido muita [[paciência]] para chegar no final da fase, e não ter quebrado o dispositivo no processo, você ganha uns ''Mana Orbs''  servem pra comprar skins e decorar suas coisinhas. Legal, né?
+
+Ah, e você pode criar seus próprios níveis e [[Sádico|fazer os outros sofrerem]]. Porém, se você não decorar o nível, as pessoas vão odiar seu nível porque não está esteticamente agradável para os olhos deles. Se fizer um gameplay ruim, as pessoas vão reclamar porque já não basta ele ser difícil normalmente, aí vai fazer um nível que é mais difícil que os padrões (a não ser que seja um "Extreme Demon"). E se você decorar muito, as pessoas vão [[Chola Mais|chorar mais]] porque nem um processador cabuloso vai rodar seu nível como ele é. O melhor jeito é fazer um nível Hard/Harder com 50k de objetos e colocar no daily.
+
+==Dificuldades==
+Esse jogo tem dificuldades de níveis representadas por carinhas. A teoria diz que essas carinhas significam a nossa reação ao jogar essas fases. Porém, se fosse depender dessa hipótese, todas as carinhas estariam na fase Demon para nós.
+
+{|
+|[[arquivo:GD NA.png|left|50px]]
+|'''NA''' - Essa aí pode ser uma caixa de <s>desgraça</s> supresas, pois não sabe se ela é ridiculamente fácil ou porque é uma fase monte de objetos colocados aleatoriamente por um cracudo.
+|}
+{|
+|[[arquivo:GD Auto.png|left|50px]]
+|'''Auto''' - Isso daí é fase para preguiçosos, nem precisa ficar com cagaço quando ver a merda da carinha disso dai. Na verdade, nem precisa fazer nada aí.
+|}
+{|
+|[[arquivo:GD Easy.png|left|50px]]
+|'''Easy''' - Basicamente a dificuldade que segura a sua mão a fase inteira, tentando te convencer que essa fase é moleza. Mesmo com aquele sorrisinho estampado na cara, muitos já passaram vergonha na primeira fase do jogo. Então, toma cuidado.
+|}
+{|
+|[[arquivo:GD Normal.png|left|50px]]
+|'''Normal''' - Obviamente, é mais complicado do que a Easy, mas ainda você consegue passar ([[ou não]]). Curiosidade inútil: essa dificuldade é o rosto principal do meme Lobotomy Dash
+|}
+{|
+|[[arquivo:GD Hard.png|left|50px]]
+|'''Hard''' - A carinha de preocupação dessa fase pode assustar alguns jogadores, sendo um grau acima de dificuldade.
+|}
+{|
+|[[arquivo:GD Harder.png|left|50px]]
+|'''Harder''' - Agora já começa a foder tudo, já é bem mais difícil. Algumas fases são boas enquanto outras possuem uma gameplay totalmente cancerígena.
+|}
+{|
+|[[arquivo:GD Insane.png|left|50px]]
+|'''Insane''' - Se a anterior não bastasse, essa aí deve ser o suficiente para foder de vez, começando já a putaria e o spam de obstáculos. Muitas delas são Demons mal rankeadas.
+|}
+{|
+|[[arquivo:GD Demon.png|left|50px]]
+|'''Demon''' - Quando ver essa fase, corre que deu merda. E ainda por cima, essa dificuldade se divide em 5: easy, medium, hard, insane e extreme demon, cada uma mais ferrada que a outra. Da hard demon pra cima, só os [[asiáticos]] malucos pra passar.
+|}
+==Fases==
+[[Arquivo:Smashed-computer.jpg|250px|thumb|Esse aí deve ter jogado Deadlocked, ou jogou Stereo Madness e já estava em um dia ruim.]]
+Esse jogo tem 21 fases prontas, 1 jogada fora, 1 fase secreta que ninguém liga e 1 fase em desenvolvimento até agora. Cada uma delas foi feita cuidadosamente para você se ferrar de várias maneiras possíveis, principalmente quando falta um peidinho para passar da fase.
+
+*'''Stereo Madness''' - A primeira fase que, na teoria, era para ser a mais fácil e a mais chatinha. Mas, na realidade pode deixar você já pode deixar você puto logo cedo. É ele que apresenta os mecanismos básicos de como se joga com o quadrado e um [[titanic]] [[cyberpunk]] que voa.
+
+*'''Back on Track''' - A próxima fase fica mais complicado, e é apresentado o trampolim do pulo automático que pode ser sua melhor amiga ou sua pior inimiga, visto que ela pode ser [[Trollagem|trolladora]] a qualquer momento. Ela se tornou um meme sem graça na comunidade do jogo, mas já morreu.
+
+*'''Polargeist''' - Nele possui umas das moedas mais difíceis de se pegar, além de apresentar agora uns aneizinhos com a possibilidade de pulo duplo (se ligue que ela pode te enganar também).
+
+*'''Dry Out''' - Essa fase introduz [[Portal|portais]] para mudar de gravidade, o que fez a fase virar de cabeça para baixo em todos os sentidos. O que acaba sendo horrível se você não acostumar com ela e rende mais gritos do que a mulher do pastel.
+
+*'''Base After Base''' - As moedas desse nível são fáceis de conseguir, mas ninguém se importa com ela. Só existe porque a fase de baixo foi excluída, já que o artista da música original não deixou que a sua música seja conhecida por fonte de sofrimento dos jogadores.
+
+*'''Ultiate Destruction''' - A fase cancelada na versão final. E sim, é ULTIATE, não Ultimate, como o nome da música. Robtop deve ter pulado as aulas de inglês para escrever o nome do nível desse jeito.
+
+*'''Can't Let Go''' - Não é [[Let It Go (Frozen)|aquela música do Frozen]], é o nível mais difícil que você vai jogar como um [[noob]]. Se quiser achar um [[Crack|craque]] no jogo logo de cara, ou vai morrer muito ou desista de vez.
+
+*'''Jumper''' - Como o nome da fase diz, só tem pulos e mais pulos. Também é a última fase da primeira versão do jogo, até o criador decidir continuar com o [[inferno]].
+
+*'''Time Machine''' - Em vez de ter [[Máquina do Tempo|máquinas do tempo]], que seriam mais legais de ter sido colocados, ela adiciona um portal que faz um efeito de espelho para confundir a cabeça do jogador.
+
+*'''Cycles''' - Após várias fases, agora temos um novo modo de jogo: a bola (ui!). Fora isso, só uma decoração nova e um gameplay de merda. Ah, e também faz parte da atualização 1.2.
+
+*'''xStep''' - Nível da atualização 1.3 e, a partir daí, só tem fases com a dificuldade Insane pra cima. Nessa fase, você aprimora suas habilidades na bola, se é que você me entende. 
+
+*'''Clutter <s>fuck</s> funk''' - Nível da atualização 1.4, cheio de detalhezinhos e cores para queimar os olhos dos jogadores. Agora temos um portal que faz você ficar duas vezes menos no mapa, quase nem dando para enxergar de tanto estímulos visuais que esse nível tem.
+
+*'''Theory of Everything''' - Os trampolins e os anéis voltam com tudo, só que agora mais [[Rosa|<font color=magenta>rosinhas</font>]] e um novo modo de jogo para a lista: o <s>Flappy Bird</s> [[OVNI]].
+
+*'''Electroman Adventures''' - Só tem merda nessa fase, e nada de novo, de novo a não ser uma decoração nova porque de ficaram sem ideia do que botar aí. Ele faz parte da atualização 1.6.
+
+*'''Clubstep''' - A primeira fase com o rank DEMÔNIO no jogo e, por causa disso, é difícil PRA CARALHO! E, para nenhum trouxa apertar nessa fase por acaso, foi adicionado moedinhas em todos os níveis para poder desbloquear as fases do demônio.
+
+*'''Electrodynamix''' - Ele pertence à atualização 1.7. Só porque ela vem após Clubstep não significa que as paradas vão ficar mais fáceis, até porque ela veio com tudo para avacalhar com inúmeras mudanças de velocidade para fazer você se sentir como [[Sonic|um porco espinho azul que usa tênis maneiros]] e ir pro além.
+
+*'''Hexagon Force''' - Passando por um portal triangular (o que é estranho, considerando que essa fase se chama "A Força do Hexágono"), você consegue parir um clone que copia seus movimentos só que de cabeça pra baixo. Ele pertence a atualização 1.8.
+
+== Fases Premium ==
+[[Arquivo:Geo3.jpg|thumb|260px|Você consegue terminar essa fase?]]
+Diferentes das outras fases, essas você terá que gastar uma boa grana no seu bolso para poder jogá-las. O que não é recomendável pois essas fases são conhecidas por causar estresse de milhares de jogadores que perderam seu dinheiro com fases que não conseguem passar nem dos 10%.
+
+*'''Blast Processing''' - Um nível que revolucionou a história do Geometry Dash na qual a música usada tem trechos de uma propaganda da [[Sega]] e não ser derrubada pela própria, e pelo novo modo: o [[triângulo]] que se move apenas pela diagonal.
+
+*'''Theory of Everything 2''' - A primeira Teoria de Tudo não foi o bastante para o criador ficar satisfeito, então ele decidiu fazer uma sequência. A fase é cheia de [[pegadinha]]s e coisas que requerem memória de elefante para passar, tonando-se mais complicado do que Clubstep.
+
+*'''Geometrical Dominator''' - Um dos criadores de música percebeu que a RobTop vem roubando muitas músicas dele para colocar no jogo. Então, o cara decidiu fazer uma música para ser usado exclusivamente na fase da atualização 2.0. O nível é cheio de [[LGBT|arco-íris]] e detalhes, sendo um plágio do [[Super Mario]] ([[Mário do armário|que Mario?]]), e introduz um robô que pula mais alto. 
+
+*'''Deadlocked''' - Se você achou as duas fases demoníacas um pé no saco, é porque você nem viu o que Deadlocked pode fazer com a sua sanidade mental. Então, esqueça que nem fudendo que vai passar dessa fase.
+
+*'''Fingerdash''' - Depois de passar da Deadlocked (coisa que, com certeza, [[você]] não fez), você pode finalmente se foder um pouquinho menos. Porém, ela traz novos gráficos pra te confundir, novas funcionalidades como uma setinha para você pairar no ar, uma orb preta que te joga no chão e a [[aranha]], que tem quase a mesma funcionalidade da bola.
+
+*'''Dash''' - Maior parte da comunidade já tava enchendo o saco do RobTop por 7 anos por essa fase, tanto que ele fez propositalmente um level super confuso, principalmente pelo quantidade absurda de mudança de câmera e modos. E temos um novo modo que é MAIS OUTRA BOLA, só que com a mesma funcionalidade do navio flutuante. Deu para perceber a falta criatividade desses novos modos.
+
+*'''Explorers''' - Fase em desenvolvimento que era para ter ido junto com a Dash se o criador não tivesse ficado [[preguiçoso]]. Os jogadores ficaram tão impacientes (o que é [[Ironia|irônico]] pois, para jogar esse jogo, precisa de muita paciência para não se estressar) que fizeram uma fanmade dos 30% do oficial.
+
+*'''The Challenge''' - Essa é uma fase secreta que você desbloqueia com um pacto com o capeta. Se você conseguir desbloquear ela <s>coisa que você nunca vai conseguir</s>, vai receber uma fase broxante demais para ser o desafio supremo.
+
+==Extensões==
+Sim, O jogo possui 3 extensões gratuitas. Por que? Para apenas [[encher linguiça]], distraindo os jogadores enquanto RobTop não atualiza o jogo. Serve para alguma coisa? Não, só para ocupar armazenamento no celular, pois duas dessas extensões só tem 3 fases e a outra, embora tenha mais fases, os níveis não duram mais de míseros 30 segundos e, se quiser fazer mais alguma coisa lá, terá que comprar o jogo original (não adianta usar a versão gratuita).
+
+===Meltdown===
+Geometry Dash Meltdown é uma extensão que apresentou a versão 2.0 e foi feita com colaboração de um [[DJ]] chamado F-777, responsável por fazer a música da pior fase do Geometry Dash, Deadlocked. É mais baseado em ação de plataforma, ou seja, você tem que ser vidente pra prever o movimento das plataformas.
+
+*'''The Seven Seas''' - É a primeira fase, e é claro que é a mais fácil né? NÃO! Se você passou perrengue com Stereo Madness, deve ter aprendido que nem todo primeiro nível é a mais fácil. Basicamente, você só pula e voa na nave, e não tem nada demais além de alguns blocos novos e movimento de blocos.
+*'''Viking Arena''' - Se tu queria saber o que tem em uma arena de [[viking]]s, saiba que você fica em um tipo de caverna de lava cheia de espinhos. Então, cuidado com o seu [[cu]] diante dessas barbaridades!
+*'''Air<s>porno</s>borne Robots''' - Essa já última fase do jogo, e você sabe o que esperar dela. Finalmente aparece a bola no jogo, e claro, a fase tem que ser toda psicodélica pra parecer que está na velocidade da luz, daí você cai toda hora.
+
+===World===
+Uma extensão [[Plágio|levemente inspirada]] no [[Super Mario World]] que é dividida em dois mundos (o mundo 3 não existe) e possuí fases pequenas e broxas para passatempo. A única vantagem é que é a única maneira gratuita, sem contar com a [[pirataria]], de acessar as fases dos outros jogadores, mas é muito limitado.
+
+<big><big>'''Dashlands'''</big></big>
+
+*'''Payload:''': É bem ridiculamente fácil, chata e sem graça. É só dar uns pulinhos e pronto, passou de fase, mais nada. 
+
+*'''<s>Besta</s> Beast Mode:''' Pode até dar uns ataques epiléticos, tem alguns trampolins amarelos, mas é a mesma coisa.
+
+*'''Machina:''' A fase é toda preta e branca, mas de repente a música para e o cenário fica mais [[gay]]. Você vai com a sua nave cyberpunk e passa de fase na maior tranquilidade.
+
+*''' Years:''' A fase é só na base da nave. Afinal, essas fases duram muito pouco para colocarem mais coisas.
+
+*'''Frontlines:''' Agora sim o desafio começa de verdade. Essa é a fase onde o cubo vai pra cima e pra baixo e a tela fica mudando de vermelho pra azul e pra vermelho de novo, sendo última da ilha.
+
+<big><big>'''Toxic Factory'''</big></big>
+
+*'''Space Pirates:'''  A fase da nave espacial alienígena com uma música do [[Castle Crashers]]. Se você já jogou Flappy Bird, ou qualquer paródia disso que tem disponível no Geometry Dash, vai conseguir pegar a manha nesse nível direitinho.
+
+*'''Striker:''' Seria basicamente uma versão 2.1 e curta da fase Time Machine, com aqueles portais espelhados malditos.
+
+*'''Embers:''' Assim como a Years e Space Pirates, a fase toda se passa com um modo diferente do quadradinho: a bola. Ao contrário do resto dos níveis, música dessa é mais calma, o que deixa mais chato ainda.
+
+*'''Round 1:''' Tá na hora <s>de virar herói</s> do round 1 (se bem que nem vai ter Round 2 aí). Aqui, você <s>luta UFC</s> vai pra cima e pra baixo com muitas órbitas do caralho.
+
+*'''Monster Dance Off:''' O último nível oficial do jogo, com alguns pulos e a setinha no final.
+
+<big><big>'''Mundo 3'''</big></big>
+
+Não se sabe nada sobre esse mundo, nem sequer se ele vai existir algum dia (tal como um possível nível 4 no Meltdown e no SubZero). Talvez tenha sido abduzida ou esquecida no lixão mesmo.
+
+===SubZero===
+Em homenagem ao [[Sub Zero]] do [[Mortal Kombat]] e do fodástico [[Zero (Megaman Zero)|Zero do Megaman]], esse nível é para apresentar a versão 2.2 do jogo, com muita movimentação de câmera e layout novos para tornar as coisas mais difíceis do que já são. Honestamente, o Sub Zero nem deve ter gostado dessa homenagem, e nem ter conseguido passar das fases.
+
+*'''Press Start''' - A fase agora pode dar zoom e isso atrapalha muito, principalmente porque você deve fugir de um crânio que quer comer a sua bunda enquanto pilota naves, bolas e o robô que pula mais alto.
+
+*'''Nock Em''' - Essa fase não é que é difícil, só é um pouquinho irritante, sabe? Como o nome diz: Nocauteie os Noobs! Ela é lenta no começo e vai ficando mais rápida, aqui nos encontramos a maldita setinha de diagonal, a aranha super sônica e mais blocos se mexendo que atrapalham ainda mais.
+
+*'''Power Trip''' - Faltava um tris para se tornar um [[jogo de plataforma]], com um montão de obstáculos, viradas de câmeras, e a setinha que ia em uma velocidade insana enquanto usa efeito de espelho e fica indo de um lado para o outro por pura sacanagem.
+
+==Atualmente==
+Apesar da seca de atualizações que já dura 5 anos, esse jogo está completamente vivo e cheinho de [[noia]] jogando, tanto é que o canal oficial do RobTop já tem mais inscritos que o de [[Minecraft]] e o da [[Nintendo]]. Porém, as coisas podem mudar no futuro, pois a falta de atualizações tá deixando o jogo saturado, e a maioria dos níveis que estão saindo atualmente são horríveis e feitos só pra serem difíceis. Foi-se o tempo em que a Demon mais difícil era um nível bem elaborado como Artificial Ascent ou Plasma Pulse Finale, agora as fases são só desafios de nave e setinha com decoração inspirada em inferno, e sem falar que, a cada 3 meses, a comunidade surta porque descobrem que algum player famoso é [[pedófilo]].
+
+Também existem "times" de Geometry Dash, que são grupos feitos para a criação e verificação de fases, como o Geostorm (o time dos mais famosinhos) e o CherryTeam (o time dos [[russo]]s malucos). O [[Brasil]] não tá fora em relação a isso, pois existem brasileiros em times famosos no GD (como CherryTeam), e também existe um time próprio brasileiro, chamado de BrazilTeam ([[Mentira|nome bem criativo]]). A BrazilTeam possui uma fama de membros tóxicos, como se isso fosse anormal no jogo.
+
+==Vídeos==
+<youtube>bERjO3XVjIg</youtube> <Youtube>ozGsB1IBLEE</Youtube>
+==Ligações externas==
+*[http://www.robtopgames.com/ Site oficial]
+
+==Ver também==
+*[[Geometria]]
+*[[Techno]]
+*[[Just Shapes & Beats]] - Ambos têm formas, têm músicas e causam incomodo pra muita gente.
+
+{{Game Music}}
+[[Categoria:Jogos de plataforma]]
+[[Categoria:Jogos lançados em 2013]]
+[[Categoria:Jogos para Android]]
+[[Categoria:Jogos para iOS]]
+[[Categoria:Jogos para PC]]

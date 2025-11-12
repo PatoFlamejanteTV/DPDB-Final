@@ -1,0 +1,51 @@
+O '''IDBM''' (Índice de Desenvolvimento de Black Metal) é um sistema criado para medir o nível de bandas de [[black metal]] numa determinada nação.
+
+== Critérios de Avaliação ==
+*'''Qualidade:''' Para avaliar a qualidade das bandas de black metal de determinado país, é organizado um juri igual ao do [[Ídolos]]. As bandas que conseguem a aprovação de no mínimo 3 jurados passam para a segunda fase, com votação aberta ao público, podendo enviar o nome da [[horda]] preferida por mensagem de texto [[SMS]] para o número [[666]]. 
+
+*'''Quantidade:''' Tal item foi criado após argumentação de [[Adolf Hitler]], ao declarar que um país jamais poderia ser [[trOO]] sem um bom número de bandas extremas. Após décadas de discussão, a quantidade acabou tendo um papel fundamental no cálculo. 
+
+*'''Vendagem:''' A vendagem é calculada tendo como base posições em charts  da [[Billboard]] ou artigos em revistas falidas dos [[Estados Unidos do Sul]], como a [[Rock Brigade]]. As bandas citadas como [[mainstream]] são contadas negativamete, enquanto as do [[underground]] são o caminho para [[Valhalla]] (sucesso)
+
+==Classificação==
+O índice varia de 0 até 0,666.
+*Quando o IDBM de um país está entre 0 e 0,299, é considerado baixo. 
+*Quando o IDBM de um país está entre 0,300 e 0,559, é considerado médio. 
+*Quando o IDBM de um país está entre 0,660 e 0,666, é considerado alto.
+
+== Lista países com elevado ==
+{| class="wikitable" style="text-align:center"
+!colspan=2 | Posição 
+!rowspan=2 width="250px" | País 
+!rowspan=2 width="75px" | IDBM<br><small>em 2005 (publicado em 2007)</small>
+|-
+! width="75px" | <small>Dados de 2005 (publicados em 2007)</small>
+! width="75px" | <small>Mudança comparada a dados de 2004 (publicados em 2006)</small>
+|-
+| 1 || Manteve <small>(0)</small> ||align="left"| [[Noruega]] || Manteve 0,666
+|-		
+| 2 || Manteve <small>(0)</small> ||align="left"| [[Alemanha]] || Aumentou 0,664		
+|-	
+| 3 || Aumentou <small>(1)</small> ||align="left"| [[Polônia]]  || Aumentou 0,663
+|-
+| 4 || Desceu <small>(1)</small> ||align="left"| [[Áustria]]  || Aumentou 0,663
+|-
+| 5 || Aumentou  <small>(1)</small> ||align="left"| [[Estados Unidos do Sul]] || Manteve 0,662
+|-
+| 6 || Desceu <small>(1)</small> ||align="left"| [[Finlândia]] || Desceu 0,662
+|-
+| 7 || Aumentou  <small>(1)</small> ||align="left"| [[Lapônia]]  || Aumentou 0,660
+|}
+
+A continuação, com os países <s>fodidos</s> que possuem índices menores, será publicada em breve.
+
+== Observações ==
+*A [[Suécia]] foi retirada da lista de países desenvolvidos, devido a ascenção do [[Death Metal Melódico]].
+*O [[Reino Unido]] é automaticamente rebaixado por ter dado vida a [[Dani Filth]].
+*A [[Polônia]] cada vez mais procura conquistar o segundo lugar, devido ao falatório gerado pelo show do [[Gorgoroth]] e o crescimento do [[Black Metal]] no [[underground]].
+*Os [[Estados Unidos]] são automaticamente considerados subdesenvolvidos por serem lar do [[Slipknot]].
+
+{{DEFAULTSORTKEY:Indice de Desenvolvimento de Black Metal}}
+
+[[Categoria:Black metal]]
+[[Categoria:Indicadores econômicos]]

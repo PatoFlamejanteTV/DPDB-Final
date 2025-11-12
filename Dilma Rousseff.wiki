@@ -1,0 +1,678 @@
+<choose>
+<option>{{DISPLAYTITLE:Dilma Rouƒƒeƒ Van Richtoffen}}</option>
+<option>{{DISPLAYTITLE:Mandioca sapiens}}</option>
+</choose>
+{{politicagem}}
+<choose>
+<option>{{burro}}</option>
+<option>{{Feio}}</option> 
+<option>{{Ladrão}}</option>
+<option>{{Políticos do Brasil}}<option>
+</choose>
+
+
+<!-- SE VEIO APENAS COLOCAR CITAÇÕES, USE O Descitações:Dilma Rouseff. Obrigado :)-->
+{{Nova Infobox
+| estilo      = 
+| imagem      = Dilma-Lula.jpg
+| imagem-tamanho  = 250px
+| legenda     = Dilmãe
+| título      = Mulher sapiens
+| subtítulo   = {{{nome_alt|}}}
+| largura     = {{{largura|}}}
+| tópico-estilo   = background-color: &#35;E6E6FA
+<!--- Título principal --->
+| tópico1     = 1.ª [[Presidente|Govern]]-[[anta]] do {{BRA}}
+|   rótulo1   = Espécie 
+|   dados1    = [[Mulher Sapiens]]
+|   rótulo2   = Período
+|   dados2    = 1 de janeiro de 2011<br>a 31 de agosto de 2016
+|   rótulo3   = Vice-presidente
+|   dados3    = [[Michel Temer|Conde Drácula]]
+|   rótulo4   = Antecessor
+|   dados4    = [[Luiz Inácio Lula da Silva|Lula Molusco]]
+|   rótulo5   = Sucessor
+|   dados5    = [[Michel Temer|Conde Drácula]]
+|   rótulo6   = 
+|   dados6    = {{{sucessor|{{{depois|{{{depois1|}}}}}}}}}
+
+<!---Outros títulos--->
+<!---Título 2--->
+| tópico7     =  [[Laranja|Poste do Lula]]
+|   rótulo7   = Período
+|   dados7    =  21 de junho de 2005<br>a 31 de agosto de 2016
+|   rótulo8   = 
+|   dados8    = 
+|   rótulo9   = Antecessor
+|   dados9    = [[Tarso Genro]]
+|   rótulo10   = Sucessor
+|   dados10    = [[Fernando Haddad]]
+|   rótulo11  =
+|   dados11   = 
+<!---Título 3--->
+| tópico12     = Dados pessoais
+|   rótulo12   = Nome completo
+|   dados12    = Fodilma Xana Ruim$$eff
+|   rótulo13   = Nascimento
+|   dados13    = [[14 de dezembro]] de [[1947]] (72 anos)<br>[[Havana]], [[Cuba]]
+|   rótulo14   = Nacionalidade
+|   dados14    = [[Bulgária|bulgara]]
+|   rótulo15   = ''[[Faculdade|Alma mater]]''
+|   dados15    = [[Chaves|Escola do Prof. Girafales]]
+|   rótulo16   = Mestrado
+|   dados16    = [[Engenharia éolica|Engarrafamento de vento]]
+|   rótulo17   = Cônjuge
+|   dados17    = [[Nicolás Maduro|Nicolás Pauduro]]
+|   rótulo18   = Partido
+|   dados18    = [[PDT]] <small>(1980-2001)</small><br>[[PT]] <small>(2001-presente)</small>
+|   rótulo19   = Religião
+|   dados19    = [[Mandioca]]
+|   rótulo20   = Profissão
+|   dados20    = [[Economista]] {{carece de fontes}}<br>Dona de [[puteiro]] de [[1,99]]
+|   rótulo21   = Website
+|   dados21    = [https://www.receiteria.com.br/receitas-com-mandioca/ Página oficial]
+}}
+{{desentrevista}}
+{{compactar|
+{{vqd|Vadilma}}
+{{vqd|Estocadora de vento}}
+{{vqd|Carta fora do baralho}}
+{{vqd|Tragédia Grega com a economia do Brasil}}
+{{vqd|[[Lula]]}}
+{{vqd|Comunista de Botequim}}
+{{experimente|[[Droga|Dimetiltriptamina]]}}
+{{c|Diiiiiiilmaaaa!!!|Fred Flintstone|Dilma Rousseff.}}
+{{c|Se ela fosse carta do baralho, ela seria a Rainha de Copas.|Jogador de baralho| a Dilma Rousseff.}} 
+{{c|Não, ela seria Slifer, o Dragão Celeste.|Jogador de [[Yu-Gi-Oh]]| a citação acima.}}
+{{c|No que se refere...|Dilma|ao iniciar qualquer frase justificativa.}}
+{{c|"Eu vi. Você veja. Eu já vi, parei de ver. Voltei a ver e acho que o Neymar e o Ganso têm essa capacidade de fazer a gente olhar.|Dilma Rouseff sobre [[Neymar]] e [[Ganso]]|}}
+{{C|Meu [[Brasil]] tá querendo Dilma/meu [[Brasil]] tá querendo continuar/com a força da massa/o povo te abraça/Agora é Dilma/É a vez da mulher/É Dilma ou não é ?|Jingle da Dilma}}
+{{c|Fiz muito programa e a polícia sabe disso|Dilma Rousseff sobre ela mesma|}}
+{{c|4 pra 13 dá 7|Dilma Rousseff ensinando matemática}}
+{{c|Nós não vamos colocar uma meta. Nós vamos deixar uma meta aberta. Quando a gente atingir a meta, nós dobramos a meta.|Dilma Roussef sobre metas}}
+{{c|Até agora a energia hidrelétrica é a mais barata em termos do que ela dura da sua manutenção e também pelo fato da água ser gratuita, e da gente poder estocar. O vento podia ser isso também. Mas você não conseguiu ainda tecnologia para estocar vento.|Dilma Roussef sobre estocagem de vento}}
+{{c|Então, para mim essa bola é um símbolo da nossa evolução. Quando nós criamos uma bola dessas, nós nos transformamos em Homo sapiens ou mulheres sapiens.|Nossa presid'''anta''' deixando clara a importância da bola de folhas de bananeira em nossa [[evolução]]}}
+{{c|Então, aqui, hoje, eu estou saudando a [[mandioca]]. Acho uma das maiores conquistas do Brasil.|Dilma sobre a [[mandioca]]}}
+{{c|Primeiro, eu queria te dizer que eu tenho muito respeito pelo [[ET de Varginha]]. E eu sei que aqui, quem não viu conhece alguém que viu, ou tem alguém na família que viu, mas de qualquer jeito eu começo dizendo que esse respeito pelo ET de Varginha está garantido.|Sobre o [[ET de Varginha]]}}
+{{c|Essa mulher devia prestar mais atenção no que fala. Que vergonha alheia.|Alguém|Dilma}}
+{{c|Porque sem o oxigênio o dólar vai ficar ali sozinho, voando, vai todo mundo morrer. |[[Anitta|Aspirante de Dilma Rousseff]] sobre a [[Amazonia]]|}}
+{{c|Se hoje é o Dia das Crianças, ontem eu disse que criança... o dia da criança é dia da mãe, do pai e das professoras, mas também é o dia dos animais. Sempre que você olha uma criança, há sempre uma figura oculta, que é um cachorro atrás, o que é algo muito importante|Dilma|o dia da criança (Discurso em Porto Alegre, no Rio Grande do Sul, no dia 12 de outubro de 2013)}}
+}}
+
+'''Dilma Xana do Lula Rousseff''', para os opositores, '''Mandioca, anta''' e para os mais íntimos '''Dilmãe, presidentA'''. Foi uma ex-gerentona de mentirinha deslumbrada da [[República Federativa do Brasil|Republiqueta de Bananas do Brasil]] entre [[1 de Janeiro]] de [[2010]] e [[31 de Agosto]] de [[2016]], tendo sido reeleita em 2014 apenas para ser defenestrada de [[Brasília]] logo a seguir. Afilhada do também ex-presidente [[Lula]], a ex-presidente é a primeira e única integrante da espécie "mulher-sapiens", uma espécie de baixa inteligência que passa seus dias estocando vento e saudando seres inanimados, como as mandiocas. É o ''Trofim Lysenko da oratória''.
+Em 2012 foi considerada pela revista Forbes como Anta mais influente no seu reino animal, no mesmo ano ganhou vários importantes premios com sua inovadora tecnologia de estocar vento (principalmente na sua cabeça) 
+
+Durante sua curta e traumática e traumatizante carreira política, Dilma foi considerada o braço <s>[[Direita política|direito]]</s> [[Esquerda política|esquerdo]] atrofiado do governo do Ali Lula-lá, se sagrando a primeira presidente <s>meio</s> mulher da  [[Brasil|Ditadura Democrática brasileira]] em [[2010]] e tendo prometido continuar com a plataforma de seu padrinho-cúmplice-antecessor. O que de melhor se pode dizer da Dilma é que era (e continua) totalmente inexperiente na política, sem humildade, sem autocrítica, sem criatividade, sem carisma, sem visão de futuro, e, sem ler a Desciclopédia, sendo, assim, incapaz de liderar e de participar de trabalho em equipe e muito menos capacidade para driblar as adversidades, seu governo mal passou da metade do segundo mandato, sofrendo [[Impeachment da Dilma Rousseff|impedimento em 2016]].
+
+Durante seu breve governo, a presid[[anta]] — como ela mesmo gostava de ser chamada enquanto empossada no cargo — ficou conhecida por alcançar alguns recordes que como diria seu 
+antecessor "nunca alcançados na história deste país", como o fato de ser a primeira presid'''a'''nta [[mulher]] do [[Brasil]] e a primeira a receber um [[impeachment]] por antipatia dos [[congressista]]s brasileiros, a primeira presidente a <s>foder</s> acabar com a [[Petrobras]], algo que nem a [[filosofia de botequim|esquerda de botequim]] em toda a sua história conseguiu, a primeira presidente a bater todos os recordes de [[desemprego]] no Brasil, a primeira presidente a <s>foder</s> detonar sucessivamente uma Copa do Mundo e uma [[Olimpíada]] e por fim <!-- ufa! -->, a primeira presidente a modernizar as pragas do [[Egito]], difundindo simultaneamente 3 pragas pelo país: a [[dengue]], [[Zika Vírus|Zika]] e [[chikungunya]], além de trazer de volta a falecida [[H1N1]].
+
+==Biografia==
+Filha do russo [[Osama Bin Laden|Osmmak Biev Labdem]] e [[Dercy Gonçalves]] que deram o nome aquele pequeno recém nascido como ''Dima'' (Dmitri, em português transliteral) que ao emigrarem ao [[Brasil]] passou a ser grifado como ''Dilma''. 
+
+[[Arquivo:Halberds.jpg|thumb|200px|Coleção de alabardas da Dilma do tempo em que ela colecionava cabeças na baixa [[Mesopotâmia]].]]
+Dilma sempre foi uma criatura difícil, lá pelos idos pré-babilônicos, tapeou sua mãe Dercy e fugiu para ir morar com uma bruxa velha biruta a quem muito admirava pelos seus trambiques. A bruxa dizia ter o mesmo nome da Dilma e pregava a crença de o firmamento ficar no centro da [[Terra]], e que fumar, beber e cheirar não fazia mal, dando o exemplo de [[Tim Maia]], pois, tudo não passava de <s>muita frescura</s> falta de estudo dos médicos; por concordarem em gênero, número, grau e diversidade, as Dilmas juraram amizade eterna. A Dilma bruxa, por sua sensatez, se tornou a primeira mentora espiritual e mental da Dilma fazendo-a incorporar conhecimento e prática de atos fraudulentos e desvio de dinheiro público. Desfecho da amizade eterna: segundo a única testemunha, a Dilma bruxa foi empurrada na cratera do [[Vesúvio]] enquanto roubava enxofre na calada da noite. Como única herdeira pois as outras aspirantes a bruxa estranhamente se enforcaram com corda de piano, a Dilma presidenta apossou-se do "Livro dos Maus Espíritos e Ideias Malignas", a Poção de Mau Hálito (que também permitia cuspir fogo pela boca e desenvolver a língua bífida), alguns pares de chifres, e a paixão por colecionar alabardas, que foi muito útil quando a Dilma foi caçadora de cabeças na [[Mesopotâmia|Baixa Mesopotâmia]].
+
+===Infância===
+[[Arquivo:dilma crianca.jpg‎|thumb|left|195px|Dilminha e seu penteadinho ''a lá'' [[Maisa Silva|Maisam]].]]
+Em seus primórdios, a Dilminha cresceu como toda [[criança levada da breca]], mas os psicólogos achavam que era [[Hiperatividade|hiperativa]] e que passaria quando ela ficasse [muito mais] velha, o que acabou não acontecendo. Como prova da [[Formiga Atômica|atomicidade]] daquela pequena dentuça, assim que nasceu aqueles característicos [[Incisivo central superior|incisivos centrais]], Dilma passou a arrrancar pequenos [[bife]]s dos seios de sua mãe, fazendo com que a mesma fosse desmamada logo em seguida. Quando chegava a hora da papinha, ela a cuspia no chão e começava a espernear, só se acalmando quando colocavam algumas gotas de leite de crocodilo em sua pinga. Aos oito meses quando começou a começou a andar, e, parece que só para esvaziar o pinico na pia da cozinha. À medida que crescia foi adquirindo novas habilidades, como ensinar palavrão pro papagaio da velhinha carola, colocar o xampu no ketchup e [[Lubrax|lubrificante automotivo]] no xampu, esvaziar pneus da vizinhança, baixar a saia da vovó, envenenar o gato da tia com querosene, contrabandear cigarros e [[Playboy (revista)|revistas Playboy]] para o vovô enfisemático,tocar siririca no banheiro publico entre outras tantas peraltices típicas da idade mas que encheram quilômetros e quilômetros de papel em sua ficha criminal infantil.
+
+[[Arquivo:707 dilma 01.jpg|thumb|200px|Dilminha fazendo seu primeiro discurso, arrancando contentamento e entusiasmo da platéia.]]
+Não há como estabelecer parâmetros entre as duas crianças consideradas as mais problemáticas da história brasileira: Dilma e [[Maisa Silva|Maisa]], descontando-se claro, aqueles coitados que pernoitam na ''[[Fundação Casa]], antiga [[FEBEM]]'' . Enquanto crianças, ambas foram incontroláveis, criadas com a invenção de [[John Ovomaltine]], leite com pêra, [[Yakult]] e muito [[Sucrilhos]], pegando condução para a escola particular mais cara da cidade onde moravam, o que resultou mais tarde no maior caos social vivido pelo brasileiro médio desde os tempos obscuros do governo de [[Sarney|''Sir'' Maranhão]].
+
+No antigo ginásio, a Dilminha, que tinha o apelido de '''[[chibata]] preta''', não conseguia pintar só o caderno com os seus lápis de cor, mas também as paredes e fazer ''chifrinhos'' nas fotografias das amiguinhas. Dilma sempre foi muito habilidosa na arte da [[pictografia]] e seus desenhos de forcas, cadeiras elétricas, guilhotinhas e fuzilamentos eram perfeitos. Por conta própria aprendeu a desmanchar despertadores e montar bombas-relógio, o que mais tarde a garantiu uma vaga no [[Comando de Libertação Nacional|Colina S.A.]] e no [[Vanguarda Armada Revolucionária Palmares|VAR-Palmeiras]]. Aos 9 anos, a ''mandioquinha'' aprendeu a beber e preparar bebidas, sendo sua principal especialidade o [[coquetel molotov]]. Logo aprendeu carteado e quase que imediatamente a roubar no jogo de cartas. 
+
+[[Arquivo:Curriculum Vitae - Dilma Roussef.JPG|150px|thumb|left|''[[Curriculum vitae]]'' de Dilma Rousseff.]]
+Depois de expulsa de vários colégios, aos onze anos aprendeu a fumar, deste modo podia queimar com cigarro o sofá, idem os coleguinhas, e também tacar fogo nas cortinas; os psicólogos consideraram apenas um pequeno surto de piromania, nada preocupante. 
+
+Após 5 tentativas frustras de incendiar o colégio e envenenar os professores com [[plutônio]] foi tirar umas férias na ''antiga [[Febem]]'', onde ensinou todo tipo de tramoia para os internos e depois de liderar dezenas rebeliões foi expulsa para que voltasse a governar o inferno. Na rua não demorou a chefiar gangues de assalto a bancos, sequestrar diplomatas, fabricar bombas caseiras e assessorar [[terrorista]]s, sendo considerada uma ameaça pública pela [[Ditadura militar|ditadura]] brasileira, mais do que o próprio regime. Encerrando assim a sua fase de vida light-diet-zero, pois já estava cheia de uma vida de amenidades, Dilma decidiu pegar pesado deste ponto em diante, mas antes se deu ao luxo de colocar umas taxinhas na cadeira do ''Figa'', apelido carinhoso que ela mesmo deu ao Presidente General Marechal de Campo (e de cidade também) Comandante Geral da Forças Armadas e Desarmadas do [[Brasil]] [[João Baptista de Oliveira Figueiredo]], ou simplesmente ''João Figueiredo, Aquele Que Adorava Ser Encoxado Por Cavalos''.
+
+Aos 16 anos, já profissional, a Dilma já era responsável por todo o arsenal do primeiro grupo para-militar que a aceitou. No controle de todas as armas, a Dilma turbinava todos os apetrechos militares que punha as mãos, além de desenvolver projetos completamente inovadores, é dela a patente da bomba de [[napalm]] e das bombas corta-margaridas, a mais letal arma não nuclear já inventada, lançada de [[avião]], balão, lança-granadas ou mesmo manualmente ela de pode dar cabo de qualquer ser vivente, incinerar tudo num raio de 550 metros, e de quebra acabar com minas em qualquer terreno. A bomba era tão [[inteligente]] que não cria cratera no terreno onde é lançada. Obviamente que depois que ingressou na carreira política, ela cedeu a patente do material bélico aos [[Coréia do Norte|norte-coreanos]], tendo a ''[[Forças Armadas Revolucionárias da Colômbia|Asfarc]]'' ficado com o restante dos artefatos não utilizados
+
+Ao final de sua juventude, Dilma continuou na guerrilha armada, passando a exercer a função de canhão.
+
+Os escribas narram que a então jovem Dilma{{carece de fontes}} — acreditem, ela foi jovem e gostosa, embora não tenha visto o dilúvio, pisou na lama —, engajou-se como modelo-atriz-pistoleira-comunista. O Serviço Federal de Diversões Públicas, visando preservar as criancinhas, posto que a figura de Dilma já estava em metamorfose, optou por deixá-la três anos no calabouço do DOI-CODI, onde era alimentada regularmente com pólvora, óleo diesel e projéteis traçantes.
+
+===Tempos de exílio===
+[[Arquivo:Dilma gata.jpg|thumb|right|150px|Um exemplo do mau uso das verbas públicas ]]
+Devido a sua mania de sequestrar dignatários estrangeiros para fazê-los de seus [[escravo sexual|escravos sexuais]], além de atentados duplos — às vezes triplos — e com requinte de crueldade em aeroportos, creches, praias de [[nudismo]], creches, e, talvez, por não se beijarem, devido ao tamanho dos chifres, os militares ditatoriais, em maioria na época, exilaram a Dilma na [[Europa]], depois de passar um tempo presa, onde afirma que foi torturada, apesar de ter saído mais saudável que paciente atendido em hospital público da prisão, onde muito <s>puta</s> fula desceu dando muita chifrada em gente ao chegar, ficando conhecida no velho continente como a [[vaca louca]], posteriormente arranjou seguidoras, disseminando a epidemia conhecida como a doença da [[vaca louca]], em homenagem a Dilma, essas seguidoras criaram a [[Marcha das Vadias]] e se intitularam de FEMEN em homenagem às internações da Dilma na [[FEBEM]].
+
+===Como gerente de uma lojinha de R$ 1,99===
+[[Arquivo:dilma bar do mario.jpg|thumb|200px|Estado da Dilma após conhecer o [[Mário do Armário|Mário. ''Que Mário?'']].]]
+[[Arquivo:Dilmahugo2.jpg|thumb|left|200px|Beijo de Dilma em seu confidente, [[Hugo Chavez|Hugo Godinez]], em encontro em motel da [[Lapa]] às escondidas da mamãe.<br/>Foi nesta ocasião que Chavez contraiu o câncer que veio a matá-lo mais tarde.]]
+Cansadas das aventuras na versão informal da [[Agência Brasileira de Inteligência|ABIN]], Dilma se aposentou do mundo do crime [informal] e resolveu abrir um comercio de bugingangas baratas no centro de [[Porto Alegre]]. Os clientes sempre que rotineiramente mal atendidos resolviam ir a gerência reclamar da vendedora, davam de cara com uma gerente que respondia as solicitações de seus clientes da mesma forma que o [[urologista]] realiza o [[exame de Próstata|exame do toque retal]], o que lhe rendeu o apelido carinhoso de ''gerentona'', carregado até os dias atuais.
+
+===Ministra das Minas e Energia em 2004===
+Antes de assumir o [[Ministério de Minas e Energia|Ministério das minas com energia]], Dilma fez estágio na administração da [[Petrobras]], onde cometeu algumas errinhos bobos como derramar café no teclado, jogar contratos fora achando ser papéis menos importantes e treinar a assinatura em documentos importantes, como aquele que acabou fazendo a compra de uma [[Pasadena Refinery System Inc|refinaria]] da Petrobras em Pasadena. Como reconhecimento de seus esforços e eficiência em frente da empresa, Dilma foi promovida a um carguinho no ministério pelo presidente Luis galInácio que por sua vez queria dar [[hormônios no frango|hormônios àquele frango]] político incorporado à imagem de Dilma para que um dia ela viesse a sucedê-lo na presidência daquela republiqueta, o que acabou acontecendo.
+
+===Como Ministra-chefe da Casa Civil em 2007===
+Dilma no ministério da [[Casa Civil (Brasil)|Casa-da-mãe-Joana Civil]], lugar que ficou até se tornar ditadora no Brasil, ficou conhecida por seu temperamento ''dócil'' e ''angelical'', o que a fez [[assédio sexual|ser respeitada]] pelos marmanjos que compunham a comitiva do presidente que ''ia e vinha'' pelo país. Sempre solicita nas entrevistas coletivas, respondia todas as perguntas feitas pelos repórteres na mais absoluta calma e serenidade, ficando conhecida nos corredores do anexo do Planalto como o ministro-chefe mais linha dura que já passou por ali, passando até mesmo nomes como o do amigo de infância da ex-presidente, o general [[Golbery do Couto e Silva|Goldbery Costa e Silva]].
+
+{{Imageframe|width=664|content=[[Arquivo:críticas.jpg|330px]][[Arquivo:Dilma dedo.jpg|200px]][[Arquivo:39_Dilma_Rousseff.jpg|131px]]|caption={{c|Má você é retardado meu? Que Battisti? Me manda esse [[Battisti]] de volta prá jogar o campeonato Italiano e a Eurocopa e não me encha mais o saco!|Dilma Rouseff}}<br/>{{c|Vem cá!!! Foi [[você]] quem teve esta ideia. Agora enfia esta revista [[Veja]] e este jornal no teu c#!|Dilma Rousseff}}|link=Hello world|align=center|pos=bottom}}
+
+{{Imageframe|width=200|content=[[Arquivo:Presaldedo.JPG|200px]]<br/>[[Arquivo:Presal.JPG|200px]]|caption=Na primeira ''pica'', Dilma dá o recado para o povo [[brasileiro]]. Depois faz o mesmo junto a seu [[José Dirceu|antecessor]] na [[Casa Civil (Brasil)|Casa Civil]] cuja reputação é ''[[Mensalão|ilibada]]''.}}
+Enquanto ministra, Dilma ganhou holofotes na mesma proporção que começou a aloprar em público, criando gafes que anos depois passaram a ser sua [[INPE|marca registrada]].
+
+Na [[Conferência das Nações Unidas sobre as Mudanças Climáticas de 2009|COP 15]], realizada na fábrica de chocolates [[Copenhague]], a então ministra soltou essa pérola aos demais líderes mundiais que estavam debatendo o sexo dos anjos naquela incrível reunião: {{cquote|O meio ambiente é uma ameaça ao desenvolvimento sustentável|Dilma Rousseff}} ... e ainda completou: {{cquote|e isso significa que é uma ameaça ao desenvolvimento do planeta e de nossos países|Dilma Rousseff}}. No fim ela estava certa. Esse mato todo e esse monte de bichos no país só atrapalham as obras do [[Programa de Aceleração do Crescimento|Programa de Avalhacação Central]] (PAC), plantações de soja, as criações de gado, a cana de açúcar, o milho e outras [[agricultura|cultura]]s e etc.
+
+===Eleição presidencial em 2010===
+{{Imageframe|width=220|content=[[Arquivo:1ççç.jpg|220px]]<br/>[[Arquivo:2ççç.JPG|220px]]|caption=Os então candidatos Dilma Rousseff e José Serra fotografados por um ''paparazzi'' momentos antes do debate realizado na TV Globo. Foto: ''Ag/Dcp''.}}
+{{principal|[[Eleição presidencial no Brasil em 2010]]}}
+Antes mesmo daquela eleição medonha que contou com personagens folclóricos da cultura política brasileira como [[José Serra|Mr. Mont. Burns]], [[Plínio de Arruda Sampaio|Plínio ''já morreu'' Sampaio]], [[Eymael|Eymael, o Democrata Cristão]], [[Levy Fidélix|Senhor ''Aerotrem'']] dentre outras aberrações do ''circo brasilis'', a ainda ministra-chefe da Casa Cível brasileira era a favorita do então presidente molusco, [[Luís Inácio Lula da Silva|Luís Galináceo da Silva]] que a dedou como sua candidata.
+
+As pesquisas mostravam que a ex-chefe da Casa Servil tinha grande chance de ganhar ainda no primeiro turno. Já a oposição a ''[[Descionário:Cusar|cusou]]'' a candidata:
+{{cit|não passa de um poste|Oposição|à Dilma durante a eleição presidencial de 2010.}}
+Após a acusação da oposição, a candidata concordo e ainda justificou dizendo: 
+{{cquote|só um poste tem luz própria, luz, aliás, que chegou graças ao programa Luz Para Todos|Dilma Rousseff}}
+
+[[Arquivo:Dilma 45.jpg|150px|left|thumb|[[:Arquivo:VADER2.jpg|A continuidade do governo de Lula.]]]]
+Como metas indobráveis daquela campanha, Dilma declarou que é contra o aborto entre células-tronco do mesmo sexo{{carece de fontes}}. Na mesma campanha, Dilma realizou várias operações via bisturi de [[Ivo Pitanguy]] afim de deixá-la minimamente apresentável ao povo brasileiro. Estas intervenções foi seguida de uma outra operada pelo [[João Santana]], que conseguiu transformar aquela velha que andava como se carregasse um [[saco escrotal|saco]] pesado entre as pernas, em uma ''Musa da Melhor Idade'' nas propagandas eleitorais veiculadas a todo o povo brasileiro durante o intervalo do [[Jornal Nacional]], naquelas noites quentes do mês de outubro de 2010. 
+
+====Cerimônia de posse====
+[[Arquivo:machismo_posse_presidenta.jpg|thumb|200px|Agora uma salva de palmas para [[Michel Temer]], que roubou satanás, o cachorro da Dona Clotilde do [[171]].]]
+Após vencer as pelejas eleitoreiras e politiqueiras do ano conforme previsto na Constituição da República por aquele que abriu as pernas da política (e por conseguinte, do país) àqueles que outrora foram perseguidos, massacrados, dedados e torturados nos porões da dita dura, [[Ulysses Guimarães]], contra o então adversário cansado de segundo turno, José Serra, Dilma retoca levemente a maquiagem e chora lágimas de crocodilo menstruado. Foi uma posse rica, com direito a chuva, onde uma mulher assume pela primeira vez o comando da república bananeira. 
+
+Os verdadeiros [[Dragões da Independência]] não eram aqueles soldados afeminados de peruca comprida negra que compunham a banda marcial. As emissoras brasileiras informaram errado. Os Dragões da Independência eram Dilma Rousseff e sua filha [[Paula Rousseff|Pau na Rouseff]] que desfilavam em cima daquele pobre [[Rolls Royce]].
+
+===Primeiro regime (2011-2015)===
+[[Arquivo:Dilma_petralhas.jpg|thumb|left|200px|Foto oficial da presidente e seus ministros tirado no momento da posse. Foto: ''Ag/Dcp.'']]
+O ''primeiro regime'', como ficou conhecido o período em que Dilma governou o país com mãos frouxas, aconteceu entre [[1 de Janeiro]] de [[2011]] até [[31 de dezembro]] de [[2014]].
+
+Neste período ocorreram dois acontecimentos marcantes, o dólar subiu até a casa dos R$ 4 reais e levou a gasolina, o tomate e o feijão juntos, e a [[Copa do Mundo FIFA de 2014|Copa das Copas]] que por mais superfaturada que foi, não previu o pagamento a [[FIFA]] caso aquele [[Seleção Brasileira de Futebol|catado brasileiro]] passasse às quartas-de-final, o que acabou resultando [[Derrota da Seleção Brasileira em 2014|naquela chacota]] épica. Com medo de ser novamente torturada, assim que instala a Comissão da Verdade. Após o início dos trabalhos as ossadas de 900 jornalistas, 800 advogados políticos, 10 descíclopes, 700 escritores e 2.000 ativistas políticos são encontradas. 
+
+[[Arquivo:Mônicalisa.jpg|thumb|200px|Dilma em foto presidencial.]]
+Ao final daqueles quatro anos que serviram de prenúncio para o apocalipse que viria em seguida, começou-se a preparação para outro evento esportivo mundial. Não, não foi para a ''[[Jogos Olímpicos de Verão de 2016|piada]] de Olim'', mas para o ''II Torneio Mundial de Cabo de Guerra'' no [[Eixo Monumental]], competição esta que durou todo o ano de 2015, só terminando no fim de 2016. Na competição só existiam dois times onde de um lado haviam pelegos [[sindicato|sindicais]], [[Frente Brasil Popular|zumbis]] mortos de fome, [[União Nacional dos Estudantes|estudante]]s universitários e funcionários do governo e de outro, a oposição e seus ''socketpuppets'' como [[Movimento Brasil Livre|grupos auto-declarados ''"apartidários"'']], seguidores do ''Revoltados On-line'' e até a [[classe média|União Nacional de Pagadores de Impostos]], os únicos pagadores de impostos do país.
+
+====Primeiros dias no Palácio do Planalto====
+[[Arquivo:edison lobão.jpg|thumb|240px|left|Edison Lobão, [[Ministério de Minas e Energia|Ministro de Minas e Energia]] do governo Dilma.]]
+Dilma não tinha tato nem [[paciência]], tanto que foram notórios seus ataques soltando arrotos fedidos, [[dragão|fogo pela boca]] e raios pelos chifres, dando chutes, cusparadas, mordidas, baforadas venenosas, peidos, gargalhadas horripilantes, guinchos fantasmagóricos e investidas com alabarda contra todos os presentes vivos e [[fantasma|morto]]s. Nas reuniões ministeriais para remanchar a solução dos problemas do [[Brasil]] e criar outros, a Dilma fazia chover palavrão sobre os convivas do cafezinho frio do Planalto, além de esculachar a [[Folha de São Paulo]], descer o cacete no [[Jornal Nacional]], pedir uma salva de palmas para [[Carta Capital]], e mandar a [[Globo News]] e [[Miriam Leitão]] prá'quele lugar. 
+
+No [[Palácio do Planalto|Hospício do Planalto]], os computadores não possuíam algo como iMac com Intel Core i7. Todos eles eram (e são até hoje) Pentium I, com [[Windows ME]]. Ela acredita que o melhor custo-benefício de todas as operadora de telefonia celular do mundo está nestas quatro: [[TIM]], [[Vivo]], [[Claro]] e [[Oi]]. O mal serviço e o uso indiscriminado com o dinheiro público na explanada dos Ministérios causaram pane nos aeroportos (mesmo nos aeroclubes) de [[Brasília]], onde 2,3333 aviões caiam por dia.
+
+Quando [[Edison Lobão|Edison]] [[Lobão]] foi preso em 1987 com tóxicos ilegais contrabandeados e ficou compondo na cadeia, pediu para Dilma interpretar a moça presa Tonhão da [[TV Pirata]], mas o papel acabou ficando com [[Cláudia Raia]].
+
+====Michel Temer: o ''vice-decorativo''====
+[[Arquivo:Finalmente miss séria.jpg|200px|thumb|Dilma chora de desgosto ao lembrar quem é seu vice: ''General'' Eliseu do Diabo. Imagem equivalente a fev. 2011 a set. 2012.]]
+[[Conde Drácula]], homem casado de 65 anos que [[pederastia|adora mulheres ''novinhas'']]<sub>''(sic)''</sub>, se impôs vice na candidatura de Dilma durante as prévias por ser à época presidente da [[Câmara dos Deputados do Brasil|Câmara dos ''de puta'' dos]] federais e do [[Partido do Movimento Democrático Brasileiro|PMDB]]. No primeiro mandado de Dilma, Temer fez cosplay de mineiro, comendo quieto nos quatro anos de governo. Durante todo este período, o morador do [[Palácio do Jaburu]] fez um belíssimo papel, pelo menos no exterior, ao ser noticiado na imprensa alemã numa manchete que estampava ele e sua digníssima [[esposa]]:
+
+{{cquote|o vice-presidente brasileiro vem acompanhado de sua neta|Deutsche Welle}}
+
+O então vice presidente enviou uma carta à emissora informando que tratava-se na verdade da vencedora Miss [[masturbação|Paulindatuba]]. Dele ainda acusou a emissora que veiculou aquela matéria de fazer gambiarra com satélite quase caindo e ainda que [[Angela Dorothea Merkel|Ângela Mercado]] acompanhava tudo aquilo de [[ressaca]] enquanto tirava sujeira debaixo das unhas com tampa de caneta [[Bic]] após o [[Reveillon]] de 2010.
+
+[[Arquivo:dilmaetemer.jpg‎|thumb|260px|left|{{c|Ô Temer, eu vou dar umas viajada por aí, então vê se não faz muita merda!|'''Dilma Rousseff''', antes de viajar para qualquer lugar do mundo e passar o abacaxi para o vice que alguns anos depois daria o ''[[golpe do baú]]''.]]
+Michel Elias portava a síndrome do centro das três esferas na pirâmide e a de pétala esquerda da Flor de Liz, estaria preparando o país para receber o terceiro [[Anti-Cristo]]. Elias conheceu os pais de Marcela — dizem as péssimas línguas que ele já a conhecia aquela desde os 9 anos de idade — na mesma seita que frequentavam e pediu para namorá-la quando a criança completou 18 anos. Dois anos depois estavam casados, mas não na Igreja, senão a família toda derreteria.   
+
+A vice-primeira-dama era encaminhada a então presidente toda vez que aquela requisitasse (vide [[direito constitucional]]), devendo permanecer com a Presidenta por 90 dias seguidos, voltando a posse do então vice por 02 dias. Está previsto no artigo 269 da [[Constituição Federal Brasileira de 1988|Constituição Federal]] desde sua promulgação, em [[1988]].
+
+[[Michel Temer]] é graúdo, nem se compara com os bandidos com quem os profissionais ligados à justiça lidam, como grandes traficantes de presídios tendo escapado do ''[[impeachment]]'' duas vezes (uma pelo [[Tribunal Superior Eleitoral|TSE]] e outra pela [[Câmara dos Deputados|Câmara]]), tamanha a sua astúcia.
+
+====Os ''sem'' dias de <s>des</s>governo====
+{{lista|Primeiros cem dias do Governo Dilma|Primeiros cem dias de desgoverno Dilma}}
+Nos primeiros cem dias de governo Dilma, a recém-empossada presid<u>a</u>nta da república resolveu repetir seu antecessor — que passou mais tempo no [[Aerolula]] do que em [[Brasília]] — e viajou muito. Só que diferente do Lula, Dilma viajou mais para fora do que dentro do país. 
+
+[[Arquivo:‎Mirolha carro.jpg|thumb|200px|Dilma em sua primeira e única baliza que fez quando saia do [[Palácio do Planalto]].<br/>Depois do incidente, a presidente passou a usar os carros oficiais, dirigidos por um [[Severino]] qualquer. Foto: ''Ag/Dcp''.]]
+Em sua primeira parada na [[China]], Dilma fez careta [pior do que faz sorrindo] ao comer um prato típico chinês que é servido aos estrangeiros: um assado de baratas e escorpiões. Ao degustar toda aquela iguaria, ela exclamou ''que povo mais porco'', o que resultou em um  tremendo sucesso. Com a frase, os chineses entenderam que o [[Brasil]] daria carne de porco de graça para eles, e de primeira treze frigoríficos foram autorizados a exportar para lá, e ainda para compensar a <s>sacanagem</s> brincadeira do grude chinês ofereceram aves acompanhadas de vegetais cozidos no vapor, depois sanduíches integrais, seguido de um ''buffet'' de peixe e salada, para aí servirem um churrasco acompanhado de massas e frituras, que foi tudo imediatamente devorado pela Dilma, que não satisfeita partiu para um ataque na mesa vizinha, e comeu a capivara e o javali que lá estavam.
+
+==== Ministérios criados ====
+Não satisfeita com ''fodendo'' mais de 30 ministérios, assim que tomou posse, Dilma convocou toda a base aliada (na época, só a presença do PMDB já garantia até a aprovação de uma nova constituição) para definir as coordenadas do '''Pro'''grama de '''Ma'''nutenção de '''M'''inistérios e '''Á'''reas '''T'''écnicas de '''A'''dministração (Pro-MaMATA), programa de governo realizado sempre que possível e que envolve aliados, simpatizantes ou qualquer um que sugue as bolas do [[poder executivo|executivo]]. Para isso, Dilma nomeou os mesmos broxas que compunha o finado desgoverno ''Ali Lula'' para compor o seu <s>sinistério</s> ministério e poder finalmente quitar débitos politico-eleitorais e anunciou a criação de sete novos cabides ministeriais:
+
+*Ministério de Engarrafar Fumaça
+*Ministério de Pular Atrás da Cerca
+*Ministério de Secar Gelo
+*Ministério para Depilar o Palocci
+*Ministério de Fabricação de Medalhas de Honra ao Mérito
+*Ministério para Achar o tal Pino do Grampolho, primo da Rebimboca da Parafuseta
+*Ministério para acabar com o Blade Caça Vampiros 
+
+A criação dos novos ministérios nasceu do ''[[Ócio Criativo]]'' da Dilma, que para o sociólogo italiano [[Domenico De Masi]] é algo totalmente ultra-revolucionário no caso daquela presidente, demonstrando a sua insatisfação com o modelo social centrado na idolatria do trabalho e assim, rompe a dissociação existente entre trabalho, lazer, conhecimento e realização. Se você não entendeu, tranquilize-se, Domenico de Masi também não.
+
+===Eleição presidencial em 2014===
+{{Deslista|Promessas da Dilma Rousseff para a eleição presidencial de 2014|Promessas de Dilma Rouseff}}
+[[Arquivo:T1larg dilma rousseff2 gi.jpg‎|thumb|200px|O moço me trouxe uma mandioca assim ó.]]
+O ''ex'' e ''então'' presidente Luísque Inácio, o Lula<s>lau</s>, relançou a candidatura da ''Nula'' para concorrer a reeleição no comando da República Foderativa brasileira, em 2014. A candidata fez novamente um discurso prometendo mundos e fundos ([[fundo governamental|fundos público]]s, é claro). Dilma também prometeu acabar com a miséria começando pelo [[Bolsa Família]], um programa de inserção de dinheiro no bolso de quem for ''da Família''. Para que o maior número de companheiros pudesse comparecer, a festa de lançamento foi realizada na [[Complexo Penitenciário da Papuda|Papuda]] e contou com vários comparsas dos partidos da base alienada. Nesse período também houve o assoamento do nariz a pedidos dela através do telefone por intermédio do [[Jair Bolsonaro|Bessias]].
+
+Diante do lançamento precoce de Dilma Roskoff à residência da República, os tucanos, aves dóceis e ruins de briga, finalmente decidiram reagir e abrir o bico. Em discurso em [[Minas Gerais]], o mais-ou-menos governador [[Aécio Neves|Aécio Never]], o Beocinho, mostrou a nova cara da oposição: a sua, totalmente botocada e repuxada. Quando viram o novo visual plastificado desse político maneiro, quer dizer, mineiro, os correligionários acharam que quem estava discursando era a [[Marta Suplicy|Morta Suplicy]] que tinha virado a casaca. O quem ninguém desconfiava é que o herdeiro de [[Tancredo Neves|Tancredo]] também estava lançando a sua própria candidatura com um vice que é a sua cara: a genial sambista [[Elza Soares]], totalmente apoiado pelo [[José Serra|Mico Serra]].
+
+===Segundo regime (2015-2016)===
+[[Arquivo:Dilmapedaladas.jpg|thumb|left|Dilma governando.]]
+
+Pela primeira vez desde 2010, Dilma resolveu assumir as principais funções presidenciais, ou seja, aparecer em fotos e, de vez em quando, das umas voltas de [[bicicleta]] por [[Brasília]] para marcar presença e nas horas livres, ela fazia ponta em protestos organizados <s>pela oposição</s> por populares contra o [[governo do Brasil|governo federal]].
+
+{{cquote|Não há nada tão ruim que eu não possa piorar.|Lema do governo Dilma}}
+
+====Manutenção ministerial pré-''impeachment''====
+[[Arquivo:Rousseff&Temer.jpg‎|thumb|280px|{{c|Presidenta! Presidenta! Cê tá cagada?|Temer}}{{c|Naum... só assinei umas lei de estimos à indústria!|Dilma}}{{c|Mas logo aquelas qui a gente sabe que num presta!?|Temer}}]]
+
+Com a corda no pescoço e visando ganhar algumas mentes fracas, Dilma criou alguns ministérios. Como a grana na época já estava ficando escassa, ela teve de acabar com um dos ministérios mais úteis da história republicana brasileira, o Ministério da Pesca. Isso motivou ainda mais o impeachment que de certo passou a tramitar com urgência até ser aprovado alguns dias depois. Alguns deputados até hoje não se conformam com o fim daquele cabiçal, tanto que enviaram um [[projeto de lei]] à câmara pedindo a cabeça da agora ex-presidente servida ao molho francês.
+
+Enfim, os ministérios afetados foram:
+*[[Ministério da Pesca e Aquicultura|Ministério da Pesca]]
+*Ministério para o Estoque de Vento
+*[[Ministério das Mulheres, da Igualdade Racial e dos Direitos Humanos|Ministério dos Três ''Mis'']]
+
+==Vida pessoal==
+A ex-presidente anunciou publicamente na através de uma reportagem feita à [[revista Caras]] que calça ''sapatos 43'' e que apesar de ''durona'', feia, e mal acabada, ainda estaria a procura de um companheiro para o restante de sua vida. Durante sua estadia no [[Palácio do Planalto]], ela foi conhecida pela [[Vila Planalto|vizinhança]] como uma exímia portadora de más notícias e de uma escopeta calibre 12 carregada. 
+
+Durante sua vida, ela nunca admitiu possuir um título de doutorado, uma vez que a tese era sobre [[Vanguarda Armada Revolucionária Palmares|assalto à mão armada]].
+
+Após ser agraciada com um [[impeachment]], Dilma tem sido vista circulando pelo [[Rio de Janeiro]], mas, particularmente na praia de [[Copacabana]], onde tem sido acusada de beliscar a [[bunda]] de velhos libertinos que estão de sunga vermelha na [[praia]] ou de chefiar arrastões contra a [[Ditadura Democrática Socialista Burguesa|burguesia]] que não a apoiou na luta contra o Congresso Nacional e que frequenta aquele ambiente capitalista selvagem sem a menor vergonha na cara.
+
+A família dela é tão esquisita que virou notícia no exterior em tablóide sarrista. Uma pequena charge foi publicada sobre o fato de o ex-marido dela que já possui namorada, dizer que seria o Primeiro Damo nos compromissos internacionais.
+
+===Carreira esportiva===
+[[Arquivo:Dilmafutebol.jpg.jpg|thumb|200px|left|Clubes que Dilma acabou zicando: Um [[Campeonato Brasileiro de 2016|caiu em 2016]] e o outro, ''caiu em 2019'']]
+Na juventude, Dilma jogou no [[Corinthians]]. Porém foi expulsa do time após quebrar a perna de dois zagueiros durante um treino.
+
+Jogou tênis no Falidoraná Clube (atualmente na 3ª divisão do Brasileirão). Causou a lesão de quadril do [[Guga]] durante uma partida amistosa, retirando-o das quadras para sempre.
+
+[[Arquivo:‎Dilmacb.jpg|thumb|200px|Estou neste jogo só por causa do show da Aninha que está no cartaz...]]
+Foi campeã olímpica de cabo-de-guerra em 1908 vencendo simultaneamente a polícia de [[Londres]], a polícia de [[Liverpool]] e a polícia Metropolitana (a [[Sherlock Holmes|Scotland Yard]]); a Dilma de um lado da corda e todos os marombeiros das polícias do outro, a prova foi vencida com tanta facilidade pela Dilma com uma só mão (não durou nem 5 segundos) que o Comitê Olímpico Internacional baniu a tradicional modalidade esportiva desde 1896 das [[Olimpíadas]] de uma vez por todas. A Dilma anda sempre com a medalha de ouro olímpica dentro de seu caçolão do [[BOPE]] para provar a sua façanha para os incrédulos mortais.
+
+Mais recentemente, Dilma foi tri-campeã de [[cuspe à distância]]. Seu maior feito foi ter conseguido do Rio de Janeiro acertar em São Paulo a careca do Serra.
+
+Desde que deu cabo da rebelião da base aliada ao seu governo, a Dilma tem treinado com afinco para vencer o [[Ultimate Fighting Championships|Ultimate Fighting Championship]] enfrentando Anderson Silva.
+
+===Sexualidade===
+[[Arquivo:Dilma21.jpg|thumb|180px|A Dilma e a [[chibata]] preta.]]
+Dilma Rousseff iniciou sua carreira sexual colocando peças de lego e giz de cera em partes obscuras de sua anatomia - Vulgo: Grelo duro. Outras características são surpreendentes, como o fato dela ter mais peitos que a tua mãe e mais testosterona que o teu pai.
+
+Dilma frequentou a famosa Faculdade de Direito <s>esquerdo</s> de Curitiba só para conhecer a hoje cantora [[Ana Carolina]], seu primeiro amor, ainda que não correspondido. Durante o curso seu esporte era jogar bolinhas de papel na [[Marilena Chauí]]. Ao saber do caso de Dilma com um tal de Carlos Paixão, disse que já tinha cometido atos carnais com o rapaz e que o mesmo tinha ''gosto de galinha''. Na faculdade de economia, na [[UFRGS]], sua tese de Doutorado foi sobre assalto a mão armada em bancos, sendo depois informada que não obteria o título, pois a melhor solução sempre é a revisão de financiamento.
+
+Nos motéis brasilienses, usa [[KY]] misturado com [[lubrificante|Bardahl B12]]. Tem predileção por rapazes de 25 anos, a quem ela dá presentes de luxo tais como Gol usado 1997 e roupas novas.
+
+Dilma também visa a igualdade de posição social da mulher e do homem, ficando elas igualmente ativas e não passivas. Desta forma visa transformação legal dos homens em sub-espécies na mesma proporção que, segundo ela, o fizerem com as mulheres. O ideal é que homens e mulheres parem ''dilmavez'' com este tipo de atitude e se deixem guiar pelo conteúdo, não pela forma.
+
+==Principais mentores== 
+[[Arquivo:chavezedilma.jpg‎|200px|thumb|{{c|Voy a dar un sueco en aquel hijo de puta.|[[Hugo Chavez|Hugo Quico]]}} {{c|Chávez, por que não te calas?.|Dilma do Chefe}}]]
+O [[Professor Pardal|prof. Pardal]] tem seu chapéu pensador, a Dilma tem seu '''Kanto de Ideias <s>Malígnas</s>''', onde recebe uma horda de <s>libertinos</s> pessoas ilustres, todos gente finíssima, que lhe dão ideias maravilhosas, e, também aconselham a Dilma nos momentos mais importantes e sem importância de seu decepcionante governo, vide os ilustríssimos abaixo:
+* [[Luis Inácio Lula da Silva]], cafetão político;
+* [[Fernando Collor]], especialista em poupança popular;
+* [[Guido Mantega]], especialista em contabilidade criativa;
+* [[José Sarney]], especialista em governabilidade;
+* [[Delfim Netto]], especialista em economia inflacionária;
+* [[Michel Temer]], conselheiro espiritual e religioso, sempre convidando-a para suas cerimônias; 
+* [[Marta Suplicy]], especialista em dicas e papos sobre sexo e cultura;
+* [[Laurentino Gomes]], responsável pela comissão da verdade;
+* [[Bozzano]], responsável pela maquiagem ;
+* [[Calígula]], mantra de convivência;
+* [[Grigori Rasputin|Rasputin]], orientador espiritual;
+* [[Celso Kamura]], ''personal hair'' stylist{{carece de fontes}};
+* [[Lady Gaga]], estilista responsável por escolher a única roupa tamanho abarca elefante que a Dilma usa em cerimônias oficiais,
+* [[Suzana Vieira]], conselheira de como se conservar no formol.
+* [[Pirro]], guru de estratégias vitoriosas.
+* [[El Chavo del Ocho|Chaves]], consultor de discursos.
+
+== Curiosidades ==
+{{trivia}}<!-- PROCURE NÃO INCHAR ESSA SEÇÃO, SE FICAR MUITO GRANDE, MOVA JUSTIÇA DESLISTA GRATO -->
+*Dilma Rousseff não utiliza o [[BACEN]] e sim uma impressora HP para fabricar o próprio dinheiro?
+* Uma vez, por engano, foi eleita Miss [[Acre]], após concorrer 50 anos com um macaco e perder todas as vezes.
+* Nasceu na [[província]] de [[Heilongjiang]] na [[Rússia]], por isso o sobrenome Rousseff (''Rosbife'' em [[russo]]).
+* Nasceu com o nome de Danilo Roussef, mas mudou-o quando se evadiu para o [[Brasil]] ao participar como ''[[Bailarina|Prima Ballerina Assoluta]]'' da turnê nacional da conhecida companhia internacional [[Oh! Rebuceteio]] [[balé|Ballet]] do [[Afeganistão]].
+* Gosta de correr só de caçolão do [[BOPE]] todo dia às 5 da manhã em volta do lago [[Paranoá]].
+* Fundou uma seita satânica secreta denominada [[tigre azul|borboletas azuis]].
+*Em dezembro Dilma viaja para [[Porto Alegre]] com aquelas roupas largas dos Gaúchos, tomando chimarrão, nem aí para a formação dos ministérios pois queria comemorar seu aniversário dia 14 de dezembro na companhia de seus colegas de CTG Gaúcho?
+*Dilma ainda tenta pegar o ex-marido Carlos e que dias 13 e 14 deixou para visitar ele só às 8 da noite em [[Porto Alegre]]? (quem não tem cão, caça com ex);
+*Seu apelido de guerrilha, Joana D'Arc é devido exclusivamente ao beijo que a histórica guerreira deu na rainha da França? Anos mais tarde subiu à cabeça o status da presidência e beliscou a bunda da [[Carla Bruni]].
+*O Hino Nacional interpretado por [[Vanusa]] é o seu favorito. Sempre recorre ao [[youtube]] para assisti-lo.
+*Dilma também já disse várias vezes na internet e na imprensa que curte muito Ana Carolina.
+
+==Controvérsias==
+{{lista|Acusações à Dilma Rousseff|A cuzações de Dilma Rousseff}}
+{{principal|[[Processo de impeachment de Dilma Rousseff]]}}
+
+Durante toda sua carreira (política e [[cocaína|não política]]), Dilma Rousseff foi acusada por seus opositores e admiradores secretos por pedaladas no Eixo Monumental, falsidade ideológica, receptação, tráfico de entorpecentes,criação de quadrilha apropriação indébita,  citar frases sem fundamentos e também por ter nascido.
+
+===Assédio a jornalista Patrícia Poeta===
+{|
+| colspan="2"| O que parecia ser uma entrevista de rotina a jornalista Patrícia dos [[punheteiro|poeteiros]] acabou virando uma situação constrangedora onde uma mulher de grelo duro assedia outra sem as mesmas características. Na ocasião, a repórter da [[TV Globo]] parou a entrevista e chorou copiosamente por 5 minutos, sendo confortada pelos colegas e equipe. Dias depois do incidente, Patrícia deu uma entrevista exclusiva à [[revista Caras]] onde declarou que apesar de não ter feito [[boletim de ocorrência]], se sentiu mal e violentada na época.
+
+|-
+| style="padding-left:50px;" |{{c|Como a senhora controla o "toma lá" "dá cá" cada vez mais sem cerimônia dos [[vagabundo|políticos]].|[[Patrícia Poeta]]}}
+{{c|Me dê um exemplo do "[[dar o cu|dá cá]]" que eu te explico o "[[foder|toma lá]]". Estou brincando, gracinha. Eu nunca dei nada pra ninguém.|Dilma Rousseff|a pergunta acima}}
+|-
+|}
+
+==Palavreado==
+
+'''''Nota''': Por incrível que pareça, todas éssas frases foram realmente ditas por Dilma Rousseff e pódem ser conferidas [https://pt.wikiquote.org/wiki/Dilma_Rousseff na página do Wikiquote da ex-presidente]. Às vezes, [[Reversal Holandesa|as pessoas se zoam sòzinhas, não precisam da Desciclopédia]].''
+
+[[Arquivo:DilmaMeta.jpg|thumb|Dilma em parceria com o [[Mark Zuckerberg]], anunciou a Dobra Meta, {{c|Se a gente atingir a queda do Facebook, a gente vai mudar para Dobra Meta, combinado?}}]]
+A Dilma não ficou conhecida apenas pelo seu palavreado chulo, mas, também por ser a criatura maís sem noção que apareceu ao pronunciar falas completamente desastradas, realmente mereceu se autointitular de a presid'''a'''nta.
+
+A Dilma prefere se manifestar no idioma '''''dilmês''''', uma língua que mistura portunhol com palavras inventadas, não entendida por ser vivo <s>ou morto</s> algum, e falada apenas pelas [[mulher sapiens|mulheres sapiens]], uma raça em extinção <s>ainda bem</s> da qual a primeira e única representante é a própria Dilma.
+
+Paixão pela mandioca é pouco, o ''minimum minimorum''. Veja algumas das <s>merdas</s> "pérolas" que a mentecapta pronunciou em seus discursos, ou tentativa deles:
+
+*'''Raciocínio dedutivo'''
+''"Se o Bolsonaro ganhar, o Haddad perde!"'''
+
+*'''Fazendo as contas'''
+''"Me desculpem, não é 4 dólares um milhão de BTUs... na Ucrânia pagam 13 dólares... 4 para 13 dá 7!"''
+
+*'''Paris, Nova Iorque, Roma, Londres... tudo um lixo, e, Via Láctea X Rio de Janeiro, quem ganha?'''
+
+''"Paes é o prefeito mais feliz do mundo, que dirige a cidade mais importante do mundo e da galáxia. Por que da galáxia? Porque a galáxia é o Rio de Janeiro. A via Láctea é fichinha perto da galáxia que o nosso querido Eduardo Paes tem a honra de ser prefeito."''
+
+*'''O carro na frente dos bois, não, digo: os bois atrás do carro'''
+
+'''Eu acredito que nós teremos uns Jogos Olímpicos que vai ter uma qualidade totalmente diferente e que vai ser capaz de deixar um legado tanto… porque geralmente as pessoas pensam: 'Ah, o legado é só depois'. Não, vai deixar um legado antes, durante e depois."''
+
+*'''Arranhando o português'''
+
+''"Quero dizer para vocês que, de fato, Roraima é a capital mais distante de Brasília, mas eu garanto para vocês que essa distância, para nós do Governo Federal, só existe no mapa. E aí eu me considero hoje uma '''roraimada'''... prova que eu estou bem perto de vocês."''
+
+*'''O fim da picada'''
+
+''"Você tem o mosquito e a mosquita. O mosquito gosta de frutas, ele não pica nem extrai sangue das pessoas. Quem faz isso é a mosquita."''
+
+*'''Aí o Galileu disse: ''"me inclua fora disso!"'''''
+
+''"A tocha olímpica, sem dúvida, é muito bonita, ela é verdadeiramente fantástica. Aquelas cores, o Nuzman estava me explicando, porque isso é um protótipo, elas mudam... e também que a tocha se move. Então, eu digo, diante da tocha, com uma insistência que o Galileu disse diante da inquisição: "E pur si muove!" Ou seja, "E apesar de tudo se move!". E eu considero, Nuzman, que você tem toda a razão."''
+
+*'''Ecoterrorista'''
+''"O meio ambiente é sem dúvida nenhuma uma ameaça ao desenvolvimento sustentável, e isso significa que é uma ameaça para o futuro de nosso planeta e de nossos países."''
+
+*'''Misturando percentuais com o tamanho do seu pé'''
+
+''"Foi muito, houve uma procura imensa, tinham seis empresas que apresentaram suas propostas, houve um deságio de quase… Foi um pouco mais de 38%, mas eu fico em 38% para ninguém dizer: 'Ah, ela disse que era 38′, mas não é não. É 39, 38 e qualquer coisa ou é 36. 38, eu acho que é 39, mas vou dizer 38."''
+
+*'''A Dilma completamente perdida em si mesma meses antes de receber o impeachment que a apeou do poder e a defenestrou de Brasília'''
+
+''"Não, querido, eu acho que o meu mandato é, eu diria assim, mais firme do que essa rede. Agora, a rede, eu acho que ela tem um lado lúdico, sabe? Porque isso que as crianças gostam tanto no pavilhão. Porque, quando você está lá em cima… Eu não posso ficar aqui brincando, não é? Então… Mas você percebe direitinho como é que dá para brincar, porque se você inclinar para um lado e, imediatamente, virar para o outro, você fica balançando mesmo, você consegue equilibrar."''
+
+*'''Sem entender a palavra "ressuscitando" no quadro "''Natureza Morta Ressuscitando''"'''
+
+''"E tem uma, tem uma pintura... genial, é… como é que é? Natureza Morta… Natureza Morta… é uma contradição em termos: de que que é o quadro? É uma natureza morta? Rodando, você entendeu? É o stand still a Natureza Morta… ela bota uma mesa e os componentes da natureza morta estão girando. O nome é interessantíssimo. O nome tem uma certa, uma certa ironia."''
+
+*'''Esqueceu de dizer que a água é molhada e a chuva cai do céu, e a chuva é feita de água, e é essencial saber que se alguém levar chuva vai ficar molhado'''
+
+''"Já que eu falei de transporte eu vou falar, ao mesmo tempo, do aeroporto. O aeroporto que é uma outra forma de transporte. Aliás, outra infraestrutura, me desculpe, outra infraestrutura de transporte, para uma outra forma que é a forma dos aviões que são essenciais nesse país continental."''
+
+*'''O que realmente é essencial, o que não pode faltar: a mandioca, a Dilma adora uma mandioca'''
+
+''"E aqui nós temos uma, como também os índios e os indígenas americanos têm a dele, nós temos a mandioca. E aqui nós estamos comungando a mandioca com o milho. E, certamente, nós teremos uma série de outros produtos que foram essenciais para o desenvolvimento de toda a civilização humana ao longo dos séculos. Então, aqui, hoje, eu estou saudando a mandioca. Acho uma das maiores conquistas do Brasil."''
+
+*'''Mais uma conquista'''
+''"Quero dizer a vocês que a inflação foi uma conquista destes 10 últimos anos de governo do Lula e do meu governo."''
+
+*'''Mania de grandeza'''
+''"Quero deixar bem claro que uma nação é grande porque sua população é grande."''
+
+*'''Confirmando seu interesse em bolas e criando uma nova espécie da qual ela é a única representante, a ''mulher sapiens'''''
+
+''"Acho uma das maiores conquistas do Brasil. (...) Eu acho que a importância da bola é justamente essa, o símbolo da capacidade que nos distingue como... Nós somos do gênero humano, da espécie Sapiens. Então, para mim essa bola é um símbolo da nossa evolução. Quando nós criamos uma bola dessas, nós nos transformamos em Homo sapiens ou 'mulheres sapiens'."''
+
+*'''Fazendo um ''brainstorming'' para descobrir o que é <s>a porra de</s> uma ponte'''
+
+''"Porque o que que é uma ponte? Uma ponte é, geralmente, e é algo que nós devemos nos inspirar, porque uma ponte é um símbolo muito forte. Pensem comigo, uma ponte, ela une, uma ponte fortalece, uma ponte junta energia, uma ponte permite que você supere obstáculos. O que nós queremos no Brasil, é que, entre nós, se construam pontes."''
+
+*'''''Companhêro, você já dobrou a meta?'''''
+
+''"Não vamos colocar meta. Vamos deixar a meta aberta, mas, quando atingirmos a meta, vamos dobrar a meta."''
+
+*'''Deu bode!'''
+
+''"Os bodes, eu não lembro qual é o nome, mas teve um prefeito… teve o prefeito de Tejuçuoca e me disse assim: 'eu sou o prefeito da região produtora da terra do bode'. Então, é para que o bode sobreviva que nós vamos ter de fazer também um Plano Safra que atenda os bodes que são importantíssimos e fazem parte de toda tradição produtiva de muitas das regiões dos pequenos municípios aqui do estado."''
+
+*'''Cuma?'''
+
+''"Um grande varejista uma vez disse o seguinte, disse uma coisa muito simples e de fácil entendimento, que é muito difícil para o conjunto da população ou para muitas camadas da população, comprar à vista, mas que quando se compra a prazo, tudo fica mais viável."''
+
+*'''Fumando baseado estragado'''
+
+''"Tem uma infraestrutura muito importante para o Brasil, que é também a infraestrutura relacionada ao fato de que nosso país precisa ter um padrão de banda larga compatível com a nossa, e uma infraestrutura de banda larga, tanto backbone como backroll (???), compatível com a necessidade, que nós teremos para entrarmos na economia do conhecimento, de termos uma infraestrutura, porque no que se refere a outra condição, que é a educação, eu acho importantíssima a decisão do Congresso Nacional do [[Brasil]] em relação aos royalties."''
+
+*'''A vacina também estragou'''
+
+''"Queria, ao cumprimentar a Nádia Campeão, vice-prefeita do estado, fazer uma homenagem, uma homenagem, assim, pelo Dia, pela passagem do Dia Internacional e dessa semana, que a gente sempre considera a semana do Dia Internacional das Mulheres, cumprimentar a Nádia Campeão, a Lu Alckmin e a Ana Estela, a Eleonora, e junto com elas saudar todas as meninas e as professoras aqui presentes. Vocês vão ser vacinadas, não é? Vocês vão ser… todas vocês vão ser vacinadas. Então eu aproveito e vou saudar aqui o médico que geralmente me vacina, que é o secretário de saúde do estado de São Paulo, David Uip. Eu também sou vacinada."''
+
+*'''A importância dos cachorros ocultos no dia dos animais, digo crianças'''
+
+''"Se hoje é o Dia das Crianças, ontem eu disse que criança... o dia da criança... é o dia dos animais. Sempre que você olha uma criança, há sempre uma figura oculta, que é um cachorro atrás, o que é algo muito importante."''
+
+*'''Falar ou não falar, eis a questão'''
+
+''"Aqui no estado do Ceará. Não, no estado do Pará. Desculpa, gente. É que fui pro Ceará, tá? Ontem eu tava no Ceará. Aqui eu não falei uma coisa. Ah, não, falei sim, né?"''
+
+*'''Sobre não esquecer as datas'''
+
+''"Todos nós aqui sabemos que cada um de nós escolhe ─ a vida faz a gente escolher ─ alguma das datas em que a gente nunca vai esquecer dessa data."''
+
+*'''Que zona!
+''"A Zona França de Manaus, ela está numa região. Ela é o centro dela porque ela é a capital da Amazônia."''
+
+*'''Descobrindo o trilho'''
+
+''"Vamos dar prioridade a segregar a via de transporte. Segregar via de transportes significa o seguinte: ou você faz metrô, porque o metrô… porque o metrô, segregar é o seguinte, não pode ninguém cruzar rua, ninguém pode cruzar a rua, não pode ter sinal de trânsito, é essa a ideia do metrô. Ele vai por baixo, ou ele vai pela superfície, que é o VLT, que é um veículo leve sobre trilho. Ele vai por cima, ele para de estação em estação, não tem travessia e não tem sinal de transito, essa é a ideia do sistema de trilho."''
+
+*'''Ser ou não ser, eis a questão, ou o caso do pintor com o filósofo que viveram em séculos diferentes'''
+
+''"Os homens não são virtuosos, ou seja, nós não podemos exigir da humanidade a virtude, porque ela não é virtuosa, mas alguns homens e algumas mulheres são, e por isso que as instituições têm que ser virtuosas. Se os homens e as mulheres são falhos, as instituições, nós temos que construí-las da melhor maneira possível, transformando... aliás isso é de um outro europeu, Montesquieu. É de um outro europeu muito importante, junto com Monet."''
+
+*'''Empate'''
+
+''"Não acho que quem ganhar ou quem perder, nem quem ganhar nem perder, vai ganhar ou perder."''
+
+*'''Respeito é bom e ETs gostam'''
+
+''"Primeiro, eu queria te dizer que eu tenho muito respeito pelo ET de Varginha. E eu sei que aqui, quem não viu conhece alguém que viu, ou tem alguém na família que viu, mas de qualquer jeito eu começo dizendo que esse respeito pelo ET de Varginha está garantido."''
+
+*'''Falando boston'''
+
+''"Eu tinha que sair de Zurique, podia ir para Boston, ou pra Boston, até porque… vocês vão perguntar, mas é mais longe? Não é não, a Terra é curva, viu?"''
+
+*'''Mais boston'''
+
+''"Eu ontem disse pro presidente Obama que era claro que ele sabia que depois que a pasta de dente sai do dentifrício ela dificilmente volta pra dentro do dentifrício. Então que a gente tinha de levar isso em conta."''
+
+*'''E agora o pum'''
+
+“Quero dizer uma coisa aqui pra vocês na ONU, pelo fato da água ser gratuita e da gente poder estocar, o vento podia ser isso também, mas você não conseguiu ainda tecnologia para estocar vento, então, se a contribuição dos outros países, vamos supor que seja desenvolver uma tecnologia que seja capaz... ter uma forma de você estocar vento!"''
+
+*'''Criando um papa que não existe'''
+
+''"É uma citação interessante, uma citação da 2° Guerra Mundial, que é o ‘[[Pio XIII|Pio 13]]’, ou Pio XII, sei lá qual era o Pio, um dos papas, eu acho que era o Pio XII. ‘O Pio 13, não! (…) Ele era um papa muito complicado"''
+
+==Que Fim Levou?==
+[[Arquivo:Dilma e zuckerberg 2015.jpg|thumb|220px|right|Dilma Rousseff visitando o [[Facebook]] nos [[Estados Unidos]]]]
+
+Depois de inúmeras tentativas frustas de tentar se eleger para algum cargo político a fim de voltar a mamar nas tetas do [[Brasil|Estado]] ou de conseguir alguma sinecura em qualquer lugar em que o [[PT]] ainda tem mando, a Dilma resolveu retornar aos seus negócios primevos de puteiro de 1,99, dizendo que desta vez vai dar certo, pois, seu estágio na presidência da República a fez especialista em putaria. Inclusive, já abriu a matriz em [[BH]] e filial no [[Rio de Janeiro|Rio]].
+
+Também está procurando [[marido]], mas um que seja rico para pagar os [[cheque]]s sem fundo dela. 
+
+===No Natal de 2018===
+Seguindo uma velha tradição que criou este [[ano]], em 1° de dezembro a Dilma se mandou para [[Nova York|New York]] para prevaricar até o [[Ano Novo]] e mais ainda, deixando seu grande [[amigo]] [[Lula]]lau vendo o sol quadrado durante esse período festivo, porém, para ele não ficar triste, prometeu trazer uns presentinhos frutos da sua experiência nos [[Estados Unidos]], umas camisinhas usadas por ela para ele guardar debaixo do travesseiro até as festas do final do ano que vem, ocasião em que renovará os [[presente]]s. 
+
+O Lulalau, superfeliz,  ficou torcendo para que a sua amiga mãe do [[PAC]] encontre garotos bem dotados que aceitem um programa com ela.
+
+Mas, não deu, a concorrência estava muito grande, a Dilma ficou para lá e para cá no [[Central Park]], acabou pisando em bosta de cavalo das tradicionais charretes nova-iorquinas. Frustrada, a Dilma foi tomar o famoso coquetel natalino americano ''eggnog'', mas, exagerou nos [[drink "me esqueça"|drinks]] e saiu do bar bêbada como um gambá trocando as pernas, mas, a [[sorte]]  pareceu que afinal lhe sorria, em sua direção vinha um ''gogo  boy'' enorme fantasiado de policial, imediatamente a Dilma o abordou para um show particular de striptease e... muito mais, mas, acabou presa, era um [[policial]] de verdade. E, assim, passou o Natal e o Ano Novo limpando latrinas da penitenciária para cumprir a medida socioeducativa que recebeu. Mas, a Dilma é uma pessoa de palavra, mandou ao Lula pelos [[Correios]] da cadeia uma parte de sua experiência nos Estados Unidos: a bosta de cavalo que limpou dos seus sapatos.
+
+O Lula ficou muito feliz quando recebeu o pacote de [[presente]] da Dilma no Natal, mas ao abrir se melou com a bosta de [[cavalo]] americano, parou um pouco e disse: "Qui merda qui a Dirma anda aprontando nos esteitis?"
+
+=== De volta das férias===
+A Dilma de volta ao [[Brasil]] após uma temporada de férias em ''New York'' falou a um jornalista da [[Folha|Folha Seca]]:
+
+• Dona Dilma como é que foi seu mês de férias?
+
+• ''Primeiro gostaria de dizer que [[férias]] para mim são sempre de 40 días por mês, sabe sou aquele tipo de pessoa descolada que só trabalha quando está inspirada, trabalho para mim tem que ter de 11 a 12 [[mes]]es de férias, que não tem hora para entrar mas tem hora para sair, que ganhe muito e não faça nada, uma sinecura sabe, e que possa pegar todos os incautos e incautas do [[trabalho]], eu gosto de arrombar.''
+
+• Então as suas férias no exterior foram um arrombo.
+
+• ''Que nada, assim que cheguei enchi o cu de [[pinga]] e bolinei um policial americano, aí porra nenhuma, me fodi, me deixaram vendo o [[sol]] quadrado, eu é que saí arrombada depois de lavar tanta latrina na prisão, como preso [[americano]] caga, cê não imagina.''
+
+• Entendo... mas você disse que era uma conquistadora, como anda a vida amorosa?
+
+• ''Pois é, pô tô solteira faz [[ano]]s, tá difícil, o mercado de homem tá de foder o cu do palhaço, tô pegando nem resfriado, não entendo, sou tão legal, educada que só a porra, uma puta lady britânica, sou bonita pra caralho, tezuda, charmosa [[de cair o cu da bunda]], e ainda cheirosa, estilosa pra [[pênis|cacete]], uma [[pqp]] de inteligente, meu QI é de [[imbecilidade|25]], sou uma pessoa de opinião própria, sou independente, [[feminista]] sem ser fresca como elas - nunca me desiludi muito com nenhum ex-namorado -, puta de rica, esquerdista fissurada, petista doente, puta amiga da [[Gleisi Hoffmann]], que como ela tô com o [[Nicolás Maduro|Maduro]], vamos pro inferno com ele, sou também uma ex-presidenta famosa com cartão corporativo foderoso sem limites e pago pelos manés que trabalham no Brasil, sou muito foda, sou o caralho a quatro, a pica das galáxias, quase fiz uma [[faculdade]], faltou só acabar o escroto do ensino fundamental, acho que meu único problema é a [[humildade]], qui é que cê acha?''
+
+• Bem, eu diria para procurar ajuda profissional, sabe tem gente...
+
+• ''Sei, sei, procurei uma maneca aí personal qualquer coisa de arranjar namorado, namorada, [[alguém]] para eu me esfregar, mas, mas depois de 30 segundos eu dizendo como era, ela veio com a história de eu parar de falar bobagens feministas, porque isso afasta os homens, que eu precisava ser delicada, homem tem pavor de mulher muito independente e seletiva demais, que eu precisava emagrecer para arranjar namorado, aí eu dei um soco no meio das fuças, foi [[sangue]] para todo lado, hoje eu sou minha própria ajuda. Cê num acha qui tô certa?''
+
+• Alguém diria que você é afobada, que está ficando [[velha]] e ninguém mais vai te querer, parece até que está procurando um pai para seu filho, que todo esse tempo solteira precisaria namorar de vez em quando, se você melhorar pode até encontrar alguém, no entanto eu nunca diria isso. Agora se me der licença vou voltar ao [[jornal]].
+
+• ''Me diz uma coisa então, tem algum gatinho lá?''
+
+=== 2019 das Arábias===
+A Dilma viajou para as Arábias para representar o [[Brasil]] em um encontro de última hora de trovadores que se vestem de vermelho, a notícia foi amplamente divulgada e a Dilma posou puxando um ronco em um assento exclusivo da super-mega-ultra-blaster classe de hiper-luxo da companhia aérea Emirates Airlines, e, desde que todas as suas palavras fossem publicadas integralmente sem qualquer alteração (as mídias de informação truncam ou trocam aa palavras da Dilma), ela concordou em dar uma desentrevista exclusiva para a Desciclopédia para esclarecer o que raios ela foi fazer no mundo árabe e quem realmente pagou a viagem:
+
+• Ex-presidanta Dilma, sua assessoria paga com dinheiro público divulgou que você viajou para um resort exclusivo para bilionários no Dubai por conta do governo dos Emirados Árabes, no entanto, eles negam isto, afinal quem pagou pela viagem, foi cortesia da empresa aérea?
+
+• ''Que cortesia porra nenhuma, se não saiu do meu bolso, não saiu dos bolsos dos árabes, só pode ter saído do bolso de vocês manés do Brasil, não é seus pombas-lesas? Vou te dizer uma coisa menina, meu cartão corporativo presidencial não tem tempo de esquentar no meu bolso, acho mais é que vocês têm é que se foder pagando minhas contas.''
+
+• Você não teme dar essa declaração tão sincera?
+
+• ''Porra! Vocês acham que podem fazer alguma coisa contra mim, e, afinal quem é que acredita no que vocês divulgam?''
+
+• Ok! Mas, o que teve de novo no encontro de trovadores que se vestem de vermelho?
+
+• ''Que encontro de trovadores merda nenhuma, não sei de onde vocês tiraram isso, fui participar de uma seleção de odaliscas.''
+
+• Seleção de odaliscas? Poderia explicar melhor?
+
+• ''Ô minha filha, vocês repórteres são uns cu sujo mesmo. Descobri que todo ano tem seleção de odaliscas lá em Dubai para prestar os seus serviços pelo mundo árabe, e, eu claro me candidatei a uma vaga, foi uma inscrição on-line, pela internet sabe, tudo muito prático, só foi dar o número do cartão corporativo presidencial pagando o valor, que na hora veio a confirmação, mas, fudeu!''
+
+• Como assim, só rolou sexo e mais nada?
+
+• ''Não foi isso não sua cabeça de merda! Só quando fui confirmar minha inscrição lá é que percebi que tinha alguma coisa errada, só tinha viado gordo na fila, a maioria uns negões daqueles que ficavam na cozinha nos tempos gloriosos da escravatura. Mas, pensei comigo mesma, tudo bem, é tempo de aceitação e lacração, só na hora de pegar a pulseirinha e a folha com o número da inscrição que disseram que o concurso era para eunucos.''
+
+• Aí você desistiu!
+
+• ''Desisti nada, caralho! Quem tá na chuva é pra se molhar, na hora pareceu uma boa ideia pra divulgar meu negócio, claro tive de esquecer minhas quase duas aulas de dança do ventre, e, tive de improvisar com os boquetes, rebolar com a cinta-pau na hora do vamos ver, que com minha idade minha filha eu deveria receber uma medalha, principalmente porque era entre os candidatos e ninguém tava facilitando pra ninguém, mas tomei no cu mesmo foi pra usar aquele abano de dar inveja a elefante, deu uma canseira depois dos 10 minutos e tive de parar, aí fui desclassificada por aqueles filhos da puta dos juízes. Mas, tem nada não, ano que vem tem outro concurso e vou me inscrever nas duas modalidades, vou treinar e tenho certeza que vou ganhar nas duas, sou uma dançarina foda sabe?''
+
+• Inscrever-se nas duas modalidades não seria um contra-senso, digo como é que alguém poderia ganhar nas duas ao mesmo tempo?
+
+• ''Caralho! Cê é donzela? Não acho que quem ganhar ou quem perder, nem quem ganhar nem perder, vai ganhar ou perder, simples assim.''
+
+• Ficou uma dúvida, você não percebeu na hora da inscrição que o concurso era para eunucos?
+
+• ''Puta merda! Você parece que tem merda na cabeça! A inscrição era pra odalisca mesmo, mas se confundiram lá com minha foto que mandei vestida de odalisca, acharam que eu era um eunuco estilizado, pelo menos foi o que disseram quando eu postei uma reclamação no site do [[Reclame Aqui]] sobre a cagada da comissão organizadora do evento, mas acho que os óculos deles estão vencidos, você não acha?''
+
+• Pode ser... mas, voltando ao assunto de viagem, sabemos que ao retornar ao [[Brasil]] pela Emirates,  você pegou um avião de uma companhia brasileira para ir de São Paulo para Porto Alegre e neste voo foi hostilizada, o que você gostaria de dizer sobre o caso?
+
+• ''Que esse país é uma merda mesmo, aliás, é a merda do verme da merda da mosca que cagou na merda do cavalo do bandido merda, aqui a primeira classe é misturada com a ralé, tenho que dividir o banheiro com gente reles, um absurdo completo, logo eu que não divido nada com ninguém, mesmo comprando todos os assentos da primeira classe com o cartão corporativo presidencial, a gente é obrigada a sentir o cheiro da gentalha e ser obrigada a ver essa gentinha maltrapilha comendo salgadinho de última categoria distribuído por essas companhias aéreas mequetrefes brasileiras, é mesmo o fim, sabe?''
+
+• Entendo... mas você não gostaria de se defender dos comentários que foram feitos a seu respeito?
+
+• ''Quero dizer para todo mundo em todo avião que vão todos tomar no olho do cu! Não passam de um bando de cuzão invejoso. E enquanto fazem isto vou inaugurar a minha nova filial no Rio Grande do Sul já que o negócio das arábias gorou por enquanto. Fui para Porto Alegre pra isso sabe? Não queria perder o tesão de expandir os negócios. Mim animei com o teste de eunuco, lá em Porto Alegre teremos também um projeto piloto com rapazes alegres pra agradarmos todos os públicos, tô pensando inicialmente de importar uns bambis de [[Pelotas]] enquanto não desenvolvemos nossa própria expertise.''
+
+• Que bom! É difícil ver um empresário brasileiro querer investir aqui, dá empregos, movimenta a economia, paga impostos, parabéns pela sua iniciativa.
+
+• ''Obrigada pela parte que me toca, difícil alguém reconhecer meu mérito nessa iniciativa, só qui esse negócio de pagar imposto tô longe, é coisa de gente tabacuda, otária mesmo, mas concordo com o resto... já até vejo o letreiro de néon vermelho piscando na zona do baixo meretrício escrito: Casa da Dilma.''
+
+• Baixo meretrício... Casa da Dilma... pensei que você fosse investir construindo um Shopping Center ou pelo menos uma loja âncora em um dos mais badalados.
+
+•''Gostei de você mocinha, tava achando que você era uma bundona, mas cê pensa à frente, vô fazer isso quando o negócio tiver macanudo, mas acho que essa expansão vai demorar um pouco. Sabe o nome Casa da Dilma em um shopping center até que é inspirador, resgata de certa forma o nome da minha mãe, ela se chamava Joana, era muito avançada pra sua época, aliás, fui criada no negócio dela e aprendi muita coisa lá, [[A casa da mãe Joana]]... ficou famosa, entrou pros livros de história e pro imaginário popular, você é nova, logo, é burra, tapada, num sabe de nada, nas, pelo menos já deve ter ouvido falar dela.''
+
+• Ouvi falar de um lugar de nome homônimo mas acho que não tem relação, mas, voltando a questão de você querer ser odalisca na Arábia, não tá boa a tua vida de... é... pessoa que não tem o que fazer e muito dinheiro para gastar?
+
+• ''Não é isso sua besta, fui aproveitar a oportunidade para internacionalizar meu negócio de puteiro de 1,99.''
+
+• Mas, lenocínio também não é crime no Oriente?
+
+• ''O que faço pra ganhar dinheiro não te interessa, e já que você está partindo pra um ataque pessoal deixa eu te analisar... vejo que você veste uma roupinha muito ordinária sem grife nem outras putarias, só usa uns brinquinhos de vidro que deve ter comprado também na [[Rua 25 de Março|25 de Março]], lugar frequentado por gente feia, suja e fedorenta... cê calça umas sandalinhas dessas baratas compradas a prestação em alguma liquidação de brechó de bairro... no mínimo deve morar longe e pegar condução... e é magra de passar fome... já eu sou rechonchuda, tenho carne pros machos pegarem, fique sabendo qui eu como carne cinco vezes ao dia em todas as minhas refeições principais, é filé mignon... vitelo... contrafilé da raça wagyu... criancinha ao molho pardo... tudo importado da França... já tu garanto que nunca botou no dedo um puta anel de um milhão de dólares, dá pra ver que você é uma fodida e ganha uma merda... Quem porra é você pra mim criticar? Ô menina você vive de repórter da Desciclopédia ou faz outras coisas pra num morrer de fome?''
+
+• Bom, tô com o salário atrasado a tanto tempo que nem me lembro a última vez que recebi, e num sei nem onde perguntar por eles, pois, toda vez que vou no caixa, eles mudaram de endereço, todo mês é um lugar diferente por falta de pagamento do aluguel, lá já tão chamando o caixa de caracol... assim, tenho que me virar com outras coisas, eu tenho feito serviços de faxina, de babá, de entregadora, de garçonete, de pedinte, já fiz malabarismo no semáforo, vendi pipoca lá também, até fui flanelinha mas os [[guarda de trânsito|amarelinhos]] me impediriam de seguir na profissão. Mas, vou continuar sendo repórter, tenho certeza que se insistir eu vou vencer e parar de renegociar a dívida do [[FIES]] e poder comer pelo menos três vezes por dia, meu sonho é pelo menos comer carne uma vez por mês.
+
+• ''Vejo que nem fudendo tem jeito pra ocês brasileiros, insistem em trabalhar, são muito burros, se caírem de quatro não se levantam, só servem pra gente fuder. Mas vou dar uma chance pra ocê se redimir comigo, acho que tenho uma posição pro cê na minha organização, vamos lá em casa pra um test-drive comigo, se eu aprovar cê tá contratada. Os clientes pagam R$1,99 pelos serviços, as minhas meninas ficam com 99 centavos e eu com o um real para cada programa delas, afinal a ideia do negócio de puteiro de R$1,99 foi minha.''
+
+• Sabe que é... é que... é que agora é que lembrei que deixei o fogo aceso em casa, aliás a porta da geladeira aberta, tá quebrada, faz 3 dias que falta luz, é que roubaram os fios da minha rua e da vizinhança lá na comunidade, aí uns exaltados queimaram pneus na avenida, mas a Eletropaulo num tá nem aí, a polícia é que veio e desmachou tudo na [[porrada]], mas já era tarde, a fumaça já tinha subido o morro e invadido o meu puxadinho e minha [[asma]] quase que me mata, o bom foi que os mosquitos fugiram naquele dia... mas vai que a geladeira volta a funcionar assim de repente... tenho que correr... a gente se fala depois tá? Tchauzinho.
+
+• ''Ah tá!''
+
+==Discurso Inesquecível da Presidenta Dilma==
+Durante mais um ano de seu governo em meados de dois mil e quatorze, Dilma fez um pronunciamento muito importante para toda a [[nação]] [[Brasileira]] e seus demais [[cidadãos]] veja abaixo
+
+<YouTube>
+title= ...
+movie_url= https://www.youtube.com/watch?v=tCj01a6XfDg
+embed_source_url= https://www.youtube.com/watch?v=tCj01a6XfDg
+wrap=no
+width=425
+height=344
+</YouTube>
+
+==Galeria==
+<gallery widths="180px" style="text-align:left">
+Imagem:Dilmanta.png|Sua foto original.
+Imagem:Dilma com o chi da Po Kong, Tchang Zu e Dai Gui.png|Dilmanta absorveu os chis de demônio da [[Po Kong]], do [[Tchang Zu]] e do [[Dai Gui]] para foder de vez com o Brasil.
+Imagem:PresDilma.iLUVu.JPG|Apesar da ressaca no domingo e o bafo do Mun-rá, a Dilma revela seu amor incondicional pelos descíclopes.
+Imagem:Mônica Sansão.jpg|Dilma e sua mais poderosa arma, o "'''[[Lula|Treiƒ Oitão]]'''".
+Imagem:Dilmatamanho.jpg‎|''Querem mesmo saber? Vou matar a curiosidade de vocês, é desse tamanho ó!'' - Dilma falando de sua mandioca.
+Imagem:ASSUME.jpg|Quanto carinho...
+Imagem:Dilmarousseff.jpg|Dilma avisa: Hoje acordei de mau humor! Nem cocei o saco e nem fiz a barba! Aqui ó pra vocês.
+Imagem: vejatodomundosefudendo.jpg|[[veja]]
+Imagem:porrada.png|[[Palocci]] foi o chefe de sua campanha política, quando Dilma lhe disse: ''Vamos embora juntos, me dá um trato lá na minha casa, que eu te dou aquele cargo que você tanto quer, porquinho suculento...''
+Imagem: Paloccimulher.jpg |[[Palocci]] agora é minha mulherzinha, o novo Ministro Chefe da Casa da Mãe Joana, meu Primeiro Damo. E não quero mais quê ocês passem a mão na bunda dele antes das entrevistas coletivas.
+Imagem: mimgostosa.jpg|Dilma se acha gostosa conforme seu twitter e tenta puxar conversa com piás.
+Imagem: DILMA_~1.JPG|O casamento que o diabo gosta...
+Imagem: eugaroto.jpg‎|Dilma na night após tomar [[Red Bull]] com Vodka, perguntando para um piá de academia se é para elazinha mesma que ele está dando mole e se eles podem ir na Dark Room.
+Imagem: dilma-100928-1285687985724_615x300.jpg|Dilma está promovendo "festinhas" na Granja do Torto com muitos homens. Sequer vê que está sendo filmada e fotografada por toda a imprensa. [[Palocci]], [[Renan Calheiros]]... A fome desses era só aperitivo perto desta ratazana de banhado!
+Imagem: luta_livre.jpg|O ex-Primeiro Ministro do Japão se matando de rir com a possível troca de farpas.
+Imagem: danielmastral.jpg|Que falta de educação não convidar o próprio filho, Marcelo Agostinho Ferreira, codinome "Daniel Mastral" né Michel Temer? Só porque ele é Batista? Água benta não queima!
+Imagem:gravidezmasculinaa.jpg|Temer sonha dia sim e outro sim que os brasileiros estão a saber ''que Dilma ficou mal de volta'' e que ele é a nova Presidenta. Já esperava por isto antes da posse.
+Imagem:Dilma_faixa.jpg|Após a cerimônia da posse, Dilma ficou presa em uma gaiola por 4 dias, sem o microfone, para ser observada.
+Imagem:Dilma loira.jpg|Dilma fica loira porque se acha poderosa.
+Imagem:Dilma rejuvenescida.jpg|Uma dublê de corpo para sair bem na fotografia!
+Imagem:Dilma loira rejuvenescida.jpg|Essa loira aí é a Dilma, não parece porque ela está loira e jovem.
+Imagem:Smiling_Brazilian_Pres.jpg|"Tem que fazê umonte de plástica, tipo esticá os olho assim, ó, aí já dá uma meiorada. Sinão leva um impicha; o brasilero é que nem juiz de mizuniverço; vota em analfrabeto mas num apoia uma fubanga"''"
+Imagem:Brazil plastica.jpg|Dilma recebe os retoques finais
+Imagem:Dilma winehouse.jpg‎|Após ver o Show da [[Amy Winehouse]] no Rio.
+Imagem:Dilmada-gola.jpg|Dilma no Jogo dos 7 erros.
+Imagem:político.jpg|Observe Dilma envenenar um político discretamente.
+Imagem:Mr.Obama_Mrs.Rousseff.jpg|''"Ok! Ok! A gente vai lá no Casa Branca e no quarto faz a canguru perneta... não se preocupar com a [[Michelle Obama|Michelle]], ela tem uma sono muito pesado."''
+Imagem:MrsDilmaRousseff.JPG|Dilma causa revolta! Cadete da [[Academia Militar das Agulhas Negras|AMAN]] recém-graduado faz demonstração de suas técnicas de combate nas [[costa|carcaça traseira]]s de Dilma.
+Imagem:Google_Busca_Imagem_Dilma.jpg|Até o Google zoando da fisionomia da ex-presidente.
+Imagem:Dilmacho pq.jpg|No dia em que a revista Playboy lhe fez mais uma proposta.
+Imagem:Mrs_Pres_Rousseff.jpg|A Dilma no seu '''''Kanto de Ideias <s>Malígnas</s>'''''. Flagra do momento, em que inspirada no [[Fernando Collor de Mello|Collor]], a Dilma teve a ideia de <s>fuder</s> reduzir os juros da poupança.
+Imagem:Bieber-Dilma-hg-20101213.jpg|Dilma engravidou a mãe de Justin Bieber num breve exílio nos EUA. Após Dilma ficar famosa, o garoto emo quer pensão, que sairá dos cofres públicos. Abrindo esta foto, nem precisa fazer DNA.
+Imagem:Silva_Rousseff_br.JPG‎|Lula e Dilma debatendo sobre a assinatura do [[Termo de Posse]].
+Imagem:buscar mais.jpg|Dilma vai buscar mais carne pro churrasco de aniversário ocorrido na casa do ex-marido Carlos: {{c|Ô Carlos, será que ocê pode me dar mais daquela tua linguiça caseira do Rio Grande?}}
+Imagem:Dilmainflada.jpg|Boneco carnavalesco inspirado na estocadora de vento.
+</gallery>
+
+==Coisas boas que Dilma fez pelo Brasil==
+* [[Porra nenhuma]]
+
+==Ver também==
+* [[Mônica (quadrinhos)]]
+* [[Zélia Cardoso de Mello]]
+* [[Desnotícias:Lula passa a faixa de ditador do Brasil para Dilma]]
+* [[Deslistas:Acusações à Dilma Rousseff]]
+* [[Estocagem de vento]], prática sugerida por Dilma para reerguer a economia brasileira
+* [[Mulher sapiens]], a espécie de Dilma, obviamente ela não é um [[homo sapiens]]
+* [[Figura oculta de um cachorro]], aquela que só Dilma vê atrás das crianças, com a sua mediunidade adquirida após os becks
+* [[Vídeo pornográfico da Dilma anã fodendo com um cara]], nossa presidanta também caiu na net
+{{odiado}}
+{{caixa de sucessão|
+título=[[Arquivo:Brasão_do_Brasil.png|50px]]<br/>[[Presidente do Brasil|Cacique da ''Selva Brasilis'']]|
+anos= [[2011]] - [[2016]]|
+antes=[[Luís Inácio Lula da Silva|Luíƒ Ináƒƒio Lula da ƒilva]]|
+depois=[[Michel Temer|Voldemort Temer]]
+}}
+{{oposto|Damares Alves}}
+{{Presidentes brasileiros}}
+{{Nova República}}
+{{Governo Petista}}
+
+[[Categoria:ativistas do Brasil]]
+[[Categoria:Atleticanos]]
+[[Categoria:Barangas]]
+[[Categoria:Cancerosos]]
+[[Categoria:Católicos do Brasil]]
+[[Categoria:Colorados]]
+[[Categoria:dentuços]]
+[[Categoria:Economistas do Brasil]]
+[[Categoria:Famosos que viraram meme]]
+[[Categoria:Feministas do Brasil]]
+[[Categoria:Membros do Partido dos Trabalhadores]]
+[[Categoria:Mineiros]]
+[[Categoria:Ministros da Casa Civil do Brasil]]
+[[Categoria:Ministros do governo Lula]]
+[[Categoria:Políticos do Rio Grande do Sul]]
+[[Categoria:Presidentas]]
+[[Categoria:Presidentes do Brasil]]
+[[Categoria:Presidentes depostos]]
+[[Categoria:Presidentes que já foram presos]]
+[[Categoria:Social-democratas do Brasil]]
+
+[[es:Dilma Rousseff]]

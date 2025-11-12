@@ -1,0 +1,64 @@
+{{logotipo_falso|DescicloCGA.png|160|top=120|left=190}}
+
+'''CGA''' (que significa "Cores Gays, A-mi-ga!") é uma [[placa de vídeo]] criada pela [[IBM]] para seu <s>merda</s> computador [[IBM PC|IBM PC 5150]] , feita para mostrar [[gráficos]] com cores <s>muito feias</s> "[[Gay|bonitinhas]]". Ela é notória por suportar apenas duas paletas diferentes de 4 cores, sendo as 4 cores as piores e mais feias possíveis.
+
+== História ==
+
+[[Arquivo:87461.jpg|thumb|right|320px|Veja os incríveis gráficos supercoloridos que a CGA pode gerar!]]
+Quando a IBM estava desenvolvendo o IBM PC, ele era planejado para vir com a placa de vídeo MDA, que mostrava apenas texto em preto-e-branco. Mas próximo do lançamento, notou-se que a maioria dos outros computadores da época podiam mostrar gráficos coloridos. Então, os engenheiros da IBM pegaram o chip Motorola vagabundo usado na MDA, espetaram 1KB de RAM nele, fizeram algumas gambiarras, e conseguiram fazer um chip feito para mostrar texto em preto e branco mostrar gráficos coloridos em 16 cores diferentes. O problema foi que devido à quantidade baixíssima de memória disponível para a placa de vídeo, só era possível mostrar 2 ou 4 cores na tela em modo gráfico, e devido ao estado de pobreza da IBM, só podiam ser usadas duas paletas de cores. Então o engenheiro eletrônico daltônico, após uma sessão de [[cheiramento de gatinhos]], construiu duas paletas de 4 cores para a placa de vídeo, baseado na sua imaginação. As paletas foram aprovadas pelo chefe do projeto da CGA, que no momento estava sob efeito de [[LSD]], e achou as cores lindas.
+
+Os compradores dos PCs IBM 5150 logo notaram que a placa de vídeo era grotesca, e haviam muitos outros computadores capazes de mostrar gráficos melhores e com mais cores que a CGA, como o [[MSX]], o [[Commodore 64]], o [[Atari 800]] e até o [[Apple II]], que se utilizava de [[POG|gambiarras]] ainda mais fuderosas para mostrar 6 ou 16 cores na tela de uma vez
+
+Vendo a insatisfação dos compradores, a IBM finalmente tomou vergonha na cara e lançou a placa de vídeo [[EGA]], que era uma placa de vídeo de verdade e não um monte de gambiarras, tinha maior resolução, mostrava 16 cores ao mesmo tempo de uma paleta de 64 cores, suportava [[Sprite|sprites]] e rolagem de tela.
+
+== Modos de vídeo ==
+
+A CGA pode mostrar os seguintes modos de vídeo:
+
+[[Arquivo:cga.gif|thumb|right|320px|A outra paleta de cores da CGA.]]
+*'''''Modo texto 40x25''''': Um modo de vídeo que mostrava texto colorido em 16 cores diferentes.
+*'''''Modo texto 80x25''''': O mesmo modo acima, mas com o texto espremido para caber mais texto na tela.
+*'''''Modo gráfico 320x200''''': O infame modo gráfico que mostra 4 grotescas cores de 2 paletas diferentes.
+*'''''Modo gráfico 640x200''''': Um modo gráfico preto-e-branco de "alta resolução" com pixels totalmente espremidos.
+
+Há boatos de que ao conectar a placa de vídeo CGA em uma [[televisão]], era possível mostrar 16 cores na tela nos modos 320x200 e 640x200 usando alguns [[POG|truques]], embora as imagens ficassem bem borradas. Isso não podia ser confirmado na época, pois pouquíssimas televisões tinham entrada [[RCA]], e os donos das TVs que tinham RCA eram ricos e usavam computadores com placas de vídeo bem mais potentes. Nossa equipe de chinchilas conseguiu uma placa de vídeo CGA e uma TV para testar a hipótese, mas infelizmente elas não conseguiram descobrir como fazer para supostamente mostrar as 16 cores, já que a televisão não queria ligar.
+
+Há ainda outros boatos de que há uma terceira paleta de cores no modo 320x200, e que há um modo 160x100 com todas as 16 cores acessível via [[POG|gambiarras]], mas isso ainda não pôde ser confirmado por nossos macacos altamente treinados, já que por algum motivo os programas que eles fazem acabam travando o computador.
+
+== Especificações ==
+
+*'''''Chip de vídeo''''': [[Motorola]] [[Merda|MD]]6845
+*'''''Memória RAM''''': 1 KB
+*'''''Saída de vídeo''''': Conector RGBI de 9 pinos e saída composta RCA
+*'''''Largura de banda de memória''''': 384 bytes/s
+*'''''Barramento de memória''''': 0,32 bits
+*'''''Quantidade de cores suportadas''''': 16 cores
+
+== Curiosidades ==
+
+*A CGA tem as especificações perfeitas para rodar [[Tibia]] com os gráficos no máximo.
+*O [[Laptop da Xuxa]] utiliza um protótipo da placa de vídeo CGA, com resolução bem reduzida e apenas duas cores.
+*A CGA não é capaz de desenhar os míseros 64000 pixels da tela inteira em 1 frame. (isso é sério!)
+*A CGA é usada em letreiros de neon, pela sua capacidade de mostrar as cores azul-bebê e rosa-choque ao mesmo tempo.
+
+== Vídeo ==
+
+Nossa equipe obteve acesso a uma fita de vídeo raríssima, obtida clandestinamente do lixão da IBM, que demonstra um protótipo da CGA capaz de mostrar 1024 cores na tela ao mesmo tempo:
+
+<YouTube>
+
+    movie_url=https://www.youtube.com/watch?v=yHXx3orN35Y
+
+    embed_source_url=http://www.youtube.com/v/yHXx3orN35Y
+
+    wrap=no 
+
+    width=640
+
+    height=360
+
+</YouTube>
+
+Segundo informações obtidas por nossa equipe de pesquisa, este protótipo estava sendo secretamente desenvolvido paralelamente à CGA, por um engenheiro com alguma sanidade mental que percebeu que a horrível paleta de 4 cores da CGA não era uma boa ideia. Segundo relatos, quando o projeto foi descoberto, o engenheiro foi demitido, pois o chefe de projeto, sob efeito de LSD, desmaiou ao ver a enorme quantidade de cores mostradas na tela, e teme que o mesmo acontecesse com os usuários.
+
+[[Categoria:Placas de vídeo]]

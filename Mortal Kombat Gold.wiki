@@ -1,0 +1,60 @@
+<div style="position:fixed; right:50px; bottom:10px; overflow:visible;">
+[[Arquivo:ShinnokGold.png|200px]]
+</div>
+{{game}}
+{{Infobox Game
+|title     = MK do Dreamcast
+|image     = MKGoldLogo.png
+|caption   = O logo reflete o esforço colocado nesse "''update''"
+|developer = [[Eurocom|Uns cara da rua]]
+|released  = [[1999]]
+|publisher = [[Midway|f Midway]]
+|genre     = [[Lindomar, o Sub-Zero Brasileiro|Lindomar Simulator]]
+|rating    = Briga do [[Programa do Ratinho]]/10
+|platform  = [[Dreamcast]] e [[Dreamcast]] apenas
+|ages      = '''+21'''
+}}
+{{Experimente também|Jogar a [[Mortal Kombat 4|versão original]]}}
+{{Você quis dizer|Mortal Kombat 4 (ver.2,0)}}
+{{c|Esse jogo definitivamente é uma atualização e não um ''port''|Mentiroso|MKGold}}
+{{c|Seus filhos da Puta!|Shinnok|mais uma participação merda na franquia}}
+{{c|Legal, este jogo é demais, tem mais personagens, cenários, fatalites e vários finais legais, vale muito a pena comprar!|Ninguém|Mortal Kombat Gold}}
+
+'''Mortal Kombat ''Gold''''' é fruto de um processo alquimista criado para fazer o exato inverso do que os alquimistas querem, dessa vez transformando [[Ouro]] em [[Merda]]. Ele também é uma tentativa frustrada e patética da Midway de salvar a cagada que tinha sido o [[Mortal Kombat 4]] nos consoles. Para isso, eles pegaram <u>praticamente o mesmo jogo</u> e enfiaram no meio uns conteúdos adicionais novos que ninguém na face da terra poderia se importar, 1º porque o jogo continuou um lixo e 2º porque todo mundo tava ocupado demais no [[Street Fighter III|Third Strike]] pra jogar MK4 pra começo de conversa.
+
+==Desenvolvimento==
+[[Arquivo:ShinnokEplepsia.gif|250px|thumb|left|Shinnok tendo um surto de epilepsia]]
+{{vqd|Como consertar seu jogo com dois bandaid e um chiclete?|Desenvolvimento de MKGold}}
+
+Com <s>na época</s>, a sexta geração de consoles chegando, a Midway, que não teria nada preparado por [[Mortal Kombat: Deadly Alliance|pelo menos mais alguns anos]], resolveu requentar o cadáver do MK4 e lançar uma atualização como [[Vergonha|<u>'''um título de lançamento pro Dreamcast'''</u>]]. Como não foram processados pela [[Sega]] por danos morais continua sendo um mistério até hoje.
+
+Presume-se que o jogo tenha sido feito durante um final de semana na chacara do [[Estevão Ferreira]], o que, considerando o histórico de decisões horrorosas da Midway que só tiveram um fim com a falência da empresa, não é [[Mortal Kombat: Armageddon|a coisa mais imbecil que já fizeram]]. Com todos os desenvolvedores loucos de [[Campari]], nenhum deles cogitou que fosse uma boa ideia consertar a pilha de cacos de vidro que era o MK4 original, e ao invés disso decidiram implementar um monte de [[bosta]].
+===As coisas novas===
+* Várias ''cutcenes'' horríveis, com dublagens que deixariam o pessoal do [[Resident Evil (jogo)|RE1]] com vergonha alheia. Os 128 bits do Dreamcast foram divididos para os personagens seguindo o modelo [[Fome|de distribuição soviético-venezuelense]], resultado: Todos os personagens tem aproximadamente 5 polígonos e se movem como NPCs do [[Tibia]]. 
+* Todos os personagens originais do 4 voltaram com o mesmo ''moveset'', [[Fail|apesar de estarem atuando numa placa e configuração gráfica completamente diferente]]. Resultado: Nenhum deles se move direito e todos parecem ter cagado na frauda na hora de bater.
+* A diferença de ''hardware'' também ocasiona uma dúzia de ''glitches'' visuais em todos os rounds.
+* Algumas telas de carregamento agora [[Fail|duram mais do que rounds inteiros]].
+* O sistema de troca de armas, um negócio que ninguém pediu e que ninguém usa, teve sua estreia nesse jogo, reduzindo sua nota final em -2 pontos pelo estrago que causaria nos jogos seguintes. 90% são apenas as mesmas espadas, facas e bastões, só que com cores diferentes.
+* [[Baraka]], [[Cyrax]], [[Kung Lao]], [[Mileena]] e [[Kitana]], que não estavam na versão original [[Dinheiro|porque sim]], foram reconstruídos utilizando ''assets'' antigos e adicionados no elenco. Dizem os rumores que eles são os bonecos menos bugados do jogo.
+**[[Sektor]], [[Noob Saibot]] e [[Goro]] podem ser desbloqueados com os macetes do [[GTA]]. Além deles, existe um código que lhe permite controlar a versão original do [[Meat]], que nesse jogo não passava de um esqueleto vermelho sem nome com o ''moveset'' do [[Mokujin]].  
+* Fases novas foram adicionadas, para você que gosta de observar os polígonos cinzentos, deformados e pixelados que MKGold ousa chamar de "fases". 
+
+==O tal do "[[Belokk]]"==
+Talvez uma das lendas urbanas mais esquecidas de uma franquia [[Ermac|repleta de]] [[Blaze|lendas]] [[Reptile|urbanas]]. Tudo indica que ele seria um personagem do jogo, algum sub-chefe genérico pra ocupar o espaço do [[Kintaro]], mas que teve de ser cortado por razões orçamentárias. A única razão para ele ser conhecido é que, durante seu estupor de cana e pederastia, os desenvolvedores do ''port'' liberaram imagens de um protótipo dele pra mídia. Resultado: Todo mundo pensou que ele estaria no jogo, impressão que foi ampliada pelos bugs visuais gerados pela qualidade ruim do port. Vez ou outra algum personagem desaparece na tela de seleção, fazendo todo mundo acreditar que havia, [[Sorte|de alguma forma]], desbloqueado o Belokk.
+
+Anos depois, com toda a informação presente no disco crackeada e catalogada, [[Fail|sabemos que esse não é o caso]].
+
+==Galeria de Horrores==
+<gallery>
+Mortalkombat4gold.jpg|Até parece a galera de [[Tattoo Assassins]]
+QuanChimagiaGold.gif|Imagens fortes
+Goroglitch.jpg|Depois que cheirou [[3D]], Goro nunca mais foi o mesmo...
+</gallery>
+<br>
+{{Mortal Kombat}}
+
+[[Categoria:Jogos da Eurocom]]
+[[Categoria:Jogos da Midway]]
+[[Categoria:Jogos para Dreamcast]]
+[[Categoria:Jogos de luta]]
+[[Categoria:Jogos lançados em 1999]]

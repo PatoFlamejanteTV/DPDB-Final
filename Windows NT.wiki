@@ -1,0 +1,39 @@
+{{Microsoft}}
+
+{{c|Esse software não se encontra nos padrões de qualidade da Microsoft.|Bill Gates|Windows NT}}
+
+{{Você quis dizer|Microsoft OS/2|OS/2}}
+
+{{Você quis dizer|Windows TNT}}
+
+{{C|Na [[União Soviética]], o '''Windows NT''' trava VOCÊ!|Reversal Russa|Microsoft Windows NT}}
+
+O '''Windows NT''' surgiu em 1993, quando a Microsoft decidiu tentar uma outra linha de sistemas operacionais <s>roubados</s> <s>copiados</s> <s>clonados</s> inspirados no OS/2, para ver se o povo preferia um sistema operacional limpo e bem-feito a um que era todo colorido, cheio de frescuras gays e estupidamente instável.
+
+Para encurtar a história, o povo escolheu obviamente a opção B.
+
+Mas como meia dúzia de paranoicos vestindo capacetes de papel alumínio comprou, a Microsoft ainda não desistiu dessa linha.
+
+== Mas porque o NT não dava pau? ==
+[[Arquivo:Windows NT.gif|thumb|left|350px|Comercial do Windows NT]]
+A primeira probabilidade seria dizer que é por que é um <s>roubo sem vergonha</s> produto levemente inspirado no OS/2, e por isso muito superior a aquela frontend de DOS, mas o mais provável é porque o OS foi desenvolvido na Área 51 por ETs vestindo trajes espaciais multi coloridos com desenhos do ursinho Bilu... (que mais tarde, quando o NT não matou o resto dos Windows se mudaram pra Intel).
+
+A segunda é o desenvolvimento do NT sob a formatação [[NTFS]], o que aposentou a maldita e defeituosa [[FAT]].
+
+Outra teoria valida seria o Ctrl+Alt+Del preventivo do Windows NT:
+Ao invés de você apertar essa sequência quando dá pau, obrigatoriamente no NT você tem que apertar para entrar no OS.
+
+== E que fim teve o NT afinal? ==
+Ele ainda vive em nossos corações...
+
+Na verdade, depois da bomba do Windows Merda Edition, a Microsoft decidiu finalmente dar estabilidade pro povo, e por isso reciclou o Windows NT no WINDOWS 2000! e continuou reciclando no XP, Vista e etc... Pra nossa <s>alegria</s> tristeza, há uma possibilidade o kernel NT acabar na próxima versão do Windows a ser lançada em 2025, o Windows Midori, Mas, para nossa infelicidade, no reciclamento para o Windows XP, já ferrou com tudo, voltou os travamentos, e a instabilidade, ou seja, a previsão só errou por 10 anos, apenas.
+
+Como o povo como sempre prefere vagalumes coloridos saltitantes com gouraud shading a um OS que presta, eles simplesmente esqueceram uma coisa chamada segurança nesse port, o que criou de fato um OS muito estável (se comparado ao 95 pelo menos, porque eles entupiram aquilo de tanto lixo, que só o Chuck OS aguentaria aquilo sem dar um pau se quer), mas com a segurança mais furada que a cabeça de alguém com enxaqueca na Idade Média.
+
+{{Windows}}
+
+[[en:Windows NT]]
+[[ja:Windows NT]]
+[[no:Windows NT]]
+[[pl:Microsoft Windows NT]]
+[[zh-tw:暈到死NT]]

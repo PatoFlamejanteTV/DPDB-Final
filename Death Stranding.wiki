@@ -1,0 +1,82 @@
+{{Game}}
+{{Infobox Game
+|title     = The Correios Simulator
+|image     = Death Stranding cover.png
+|caption   = Capa da versão do jogo lançada no Brasil
+|developer = <s>[[Konami]]</s> [[Kojima Productions|Kojimão da Massa]]
+|publisher = [[Sony Interactive Entertainment]]
+|released  = 2019
+|genre     = Simulador de Correios, iFood, Uber, babá, e técnico da [[Claro]]
+|platform  = PlayStation e PC
+|rating    = 10/10 para fãs de carregar caixas por longos quilômetros de tédio
+|ages      = Livre
+}}
+
+'''Death Stranding''' é um jogo de videogame escrito pelo [[Hideo Kojima]], roteirizado pelo [[Hideo Kojima]], dirigido pelo [[Hideo Kojima]], com direção de arte de [[Hideo Kojima]], com direção de som de [[Hideo Kojima]], supervisionado pelo [[Hideo Kojima]], editado pelo [[Hideo Kojima]], filmado pelo [[Hideo Kojima]], CGI criado pelo [[Hideo Kojima]], dublado pelo [[Hideo Kojima]], desenvolvido pelo [[Hideo Kojima]], publicado pelo [[Hideo Kojima]], markeateado pelo [[Hideo Kojima]] (que inclusive foi detido num aeroporto por carregar uma boneca de bebê num aquário) e com o rosto emprestado do [[Norman Reedus]].
+
+== Desenvolvimento ==
+
+[[Arquivo:Kojima Strand game.png|thumb|left|Hideo Kojima participando ativamente do marketing do jogo.]]
+
+Após o lançamento de [[Metal Gear Solid V: The Phantom Pain]] e seu moderado sucesso, a [[Konami]] pediu para que o seu principal funcionário, [[Hideo Kojima]] parasse com aquelas maluquices de gastar milhões para fazer jogo que ninguém entendesse e focasse na criação de uma máquina de [[Pachinko]] que é mil vezes mais rentável e lucrativa que todos jogos de [[Metal Gear]] somados.
+
+Hideo Kojima prometeu criar o maior pachinko de todos os tempos, uma máquina que seria o terror dos pachinkos, e para tematizar seu plano ele criou um trailer jogável para [[PlayStation 4]] chamado [[P.T.]], usando o nome de um dos mais aterrorizantes partidos políticos da história do Brasil. Mas aí a Konami descobriu que tudo aquilo era só mais uma das malandragens de Kojima para criar um jogo de alto orçamento com um enredo que ninguém entende, cancelou o projeto e demitiu o Kojima da empresa.
+
+Sozinho, Kojima decidiu abrir sua própria empresa para fazer seu próprio jogo, a [[Kojima Productions]]. Agora ele não era mais um empregado, ele era o dono e agora era ele quem submetia seus funcionários a assédio moral, crunch e no final ficar com todos os créditos. Agora completamente independente, Kojima pode realizar seu sonho e criar o jogo mais bizarro possível com um monte de conceito e detalhe e uma jogabilidade incrivelmente entediante.
+
+== Jogabilidade ==
+
+[[Arquivo:Death Stranding Correios.jpg|thumb|Death Stranding é o melhor Correios Simulator já feito.]]
+
+Death Stranding é o ápice do gênero de jogos conhecidos como [[tédio|walking simulator]]. Só existem duas coisas a se preocupar nesse jogo: Andar e carregar caixas. Dessa forma, controlamos um trabalhador brasileiro honesto dos [[Correios]] (dublado em português e tudo mais) que também faz bico como entregador do [[iFood]], [[agente funerário]], e as vezes também de [[Uber|UberColo]] (o serviço do Uber de transportar pessoas carregando-as nas costas). Ainda tem um segundo emprego de CLT como funcionário da [[Claro]], mais especificamente o especialista em consertar cabos de fibra ótica de [[internet]]. O grande desafio desse jogo é atravessar a vastidão precária dos arredores da [[rodovia Transamazônica]] para realizar o seu penoso trabalho.
+
+Este jogo é o ápice dos jogos de [[mundo aberto]]: Sabe a situação de "ter que dar a volta em uma montanha depois que você saiu do GPS da missão tentando cortar caminho"? Kojima fez disso a jogabilidade inteira de Death Strading, com a única diferença de ter que apertar {{botão-r2}} e {{botão-l2}} pra não cair e prender a respiração e andar agachado por 1 quilômetro quando os monstros aparecem.
+
+As vezes a [[Claro]] te oferece materiais para te ajudar no trabalho, como escadas, pontes, cordas, rifles, lança-granadas, torres de observação, armários, tirolesas, geradores de energia, além de veículos como [[motocicleta]]s amarelas dos Correios da [[Dafra Motos]], [[Fiat Fiorino]] dos Correios, [[Fiat Ducato]] do [[Sedex]], e um carrinho de mão é claro. As leis trabalhistas são claras, o empregador precisa fornecer o material.
+
+== Enredo ==
+
+[[Arquivo:SamKitChave.png|thumb|Além de trabalhar nos Correios, Sam também faz bicos como entregador do [[iFood]].]]
+
+O jogo se passa no [[Acre]], e nosso objetivo é ir para o oeste, ou seja, para ainda mais longe. O protagonista é Sam Porter Bridges, um trabalhador dos [[Correios]] que passa o dia fazendo entregas em lugares precários do [[Brasil]] e por isso chega em casa todo dia exausto ao ponto de dormir sem tomar banho e sem usar [[travesseiro]]s.
+
+Durante mais um de seus trabalhos como entregador dos Correios, Sam é incumbido de transportar o cadáver de uma velha para o crematório mais próximo. Ele realiza o serviço tão bem que se torna o empregado de um negão mascarado e de terno chamado Die-Hardman que vai agir como um bom chefe de empresa: Ficar sentado o dia inteiro sem fazer nada, apenas ordenando seus empregados se lascarem. Durante o serviço de entrega do cadáver para o crematório, Sam acaba atacado por almas penadas chamadas de EPs ("Eita Porra"), uns monstros invisíveis de outra dimensão que deixam um rastro de [[Coca Cola]] pegajosa por onde passam. Para piorar a situação, ainda cai uma chuva corrosiva que envelhece tudo que toca (menos a roupa especial que nunca degrada, agora por que não cobrir todos materiais com aquela roupa mágica, não se sabe, mas o guarda-chuvas da Fragile é uma pista de que nesse mundo distópico os seres humanos desaprenderam a tecnologia do guarda-chuvas, enfim). Sam consegue escapar daqueles espíritos graças à ajuda de um bebê num aquário.
+
+O bebê (BB) ativa um espanador de metal que aponta para os fantasmas invisíveis, ajudando Sam a escapar da situação. Graças aos seus esforços, Sam oficialmente recebe o emprego [[CLT]] de funcionário da [[Claro]] e a partir de então deve ir consertar internet de vários pontos distantes do país, inclusive favelas cheias de bandidos, traficantes e assassinos.
+
+[[Arquivo:Death-stranding-mules.jpg|thumb|left|Marginais vagabundos tentando roubar a carga de Sam. Eles são apenas mais um obstáculo no jogo.]]
+
+Outro lugar frequente visitado por Sam é a [[Praia]] de [[Santos]], para onde ele vai toda vez que morre, uma praia conhecida por sua areia dura, ondas baixas e água gelada. Cada ser vivo possui uma "praia de Santos" particular e metafísica por onde suas almas caminham após a morte antes de serem levados pro além. Mas Sam nunca morre, então ele sempre volta à vida após visitar a praia de Santos. Quando as outras pessoas morrem, se não forem cremadas, elas explodem e criam uma [[cratera]], o que explica as precárias condições das estradas.
+
+Durante seu serviço de funcionário da Claro, Sam vai encontrar diversos clientes, seja um sucateiro que ama uma patricinha, um geólogo que deixou suas pedras caírem num precipício cheio de veneno, uma eremita que fica no alto das montanhas geladas, uns agricultores de trigo de Coca Cola. Alguns encontros são mais marcantes. Em determinado Momento Sam decide ajudar a Fragile, dona de uma rede de motoboys chamada Fragile Express, ela está sendo acusada de [[terrorismo]] por ter entregue bombas nas maiores cidades do centro do Acre, mas a verdade é que armaram para ela. Depois um furacão suga o Sam para a [[Primeira Guerra Mundial]] onde matamos umas caveiras. Depois ajudamos uma cientista chamada Mama que é uma especialista em criar tranqueiras. Depois ajudamos um obeso chamado Deadman que é o nosso melhor amigo e reparador de BBs. Depois um furacão suga a gente para a [[Segunda Guerra Mundial]]. Tudo isso enquanto Sam precisa lidar com um [[terrorista]] doido chamado Higgs.
+
+Depois de consertar a [[internet]] de um monte de domicílios usando uma tecnologia 6G com base num elemento chamado [[Caralho|Caralium]] criando assim a Rede Quiral em todo Acre, no final descobrimos que era tudo uma armação de Amélie, a loirinha sem peito que está sempre com aquele vestido vermelho de puta paga. Amélie é na verdade a "EE" (<s>Escrota Esnobe</s> Entidade de Extinção) e é ela quem cria as extinções em massa que periodicamente dizimam toda vida no planeta [[Terra]]. E no final, tudo o que ela queria era só um abraço do irmão, que na verdade não é irmão, enfim. O mundo não é explodido no final graças a um [[abraço]].
+
+== Personagens ==
+
+* '''[[Norman Reedus|Sam Porter Bridges]]''' - Protagonista do jogo, é o típico homem trabalhador brasileiro, ele está ali só para se lascar. Dorme sujo, não bebe água, só toma birita e [[energético]], toma banho sem sabonete e sem xampu, caga em pé e mija sentado. Tudo o que Sam quer é apenas um pouco de paz enquanto faz seu serviço de peão trabalhador fodido. Todos acreditam que Sam tem [[afefobia]] (fobia ao toque) mas ele apenas tem medo do [[coronavírus]] e mantém seu distanciamento social. Sam é basicamente um entregador dos [[Correios]] que está fazendo um bico de funcionário da [[Claro]] na manutenção da internet.
+* '''[[Emily O'Brien|Amélie]]''' - A loirinha magra e sem peito que se diz irmã de Sam, ela é a governadora do Acre e por isso fica dando ordem a todos por ali, até porque sua promessa de campanha foi entregar internet a todos. Mas qualquer brasileiro que se preze já sabia que ela seria a vilã no final, em político não se deve confiar, e exatamente, Amélie é apenas um fantasma que deseja destruir o mundo usando a internet.
+* '''[[Léa Seydoux|Fragile]]''' - Dona da [[Rappi]] no Brasl, ela caiu em desgraça depois que um de seus delivery entregou uma bomba nuclear e fodeu uma cidade inteira. Ela deseja se vingar do homem que a traiu com a entrega dessa bomba, o Higgs, que também jogou ela na chuva corrosiva deixando-a com o corpo da [[Suzana Vieira]]. Fragile é viciada em comer [[carrapato]], sempre está oferecendo um para Sam. Ela também tem os poderes do [[Noturno]], é o nosso [[fast travel]] no jogo.
+* '''[[Margaret Qualley|Mama]]''' - Cientista que fabricou todas ferramentas que usamos no jogo, como uma algema rastreadora, usada para os Correios não perder a mercadoria e também para monitorar os funcionários se não estão dando uma paradinha no boteco pra jogar uma sinuca durante o expediente, também inventou o detector de fantasma em forma de espanador, e também inventou a rede Caralho 6G que usa 6 pendrives que estão pendurados no pescoço de Sam. Ela é chamada de "Mama" porque tem um filho fantasma a quem amamenta com leite de mentira, uma bizarrice tão grande que fez sua irmã gêmea ir embora. Quando Mama finalmente se desconecta do seu bebê fantasma, ela morre e reencarna na irmã gêmea.
+* '''<s>[[Guillermo del Toro]]</s> [[Jesse Corti|Deadman]]''' - Gordão que tem esse nome porque estuda os mortos e a morte, é especialista em BBs e existe uma clara tensão homoafetiva entre ele e o Sam, os dois inclusive chegam a tomar banho de chuveiro juntos em determinado momento do jogo. O real motivo do apelido é porque ele é um bebê de proveta, por isso não possui alma, e seus órgãos vieram transplantados de mortos.
+* '''[[Darren Jacobs|Heartman]]''' - Geólogo especialista em praias, ele tem um eletrodo ligado ao coração que aplica um ataque cardíaco nele e 3 minutos depois o ressuscita, porque aparentemente corações humanos podem funcionar assim. Ele teoricamente sabe tudo de [[praia]]s, mas em nenhum momento do jogo oferece uma ajuda realmente relevante sobre as praias.
+* '''[[Tommie Earl Jenkins|Die-Hardman]]''' - O negão da máscara, aparentemente ele é o presidente dos [[Correios]] porque é ele que está a todo momento dando as ordens e as encomendas para o Sam e o protagonista nunca pode recusar. No desenrolar do jogo é revelado que ele é um ex-agente do [[BOPE]] que matou o melhor amigo depois que este tentou roubar um BB da maternidade.
+* '''[[Troy Baker|Higgs]]''' - O principal vilão do jogo, é aquele típico cara que é forte demais para ser derrotado por um mero funcionário dos Correios, então esse Higgs simplesmente não sabe usar seu poder direito. O cara pode se teletransportar, invocar uma chuva corrosiva e comandar monstros do além inclusive um [[Megazord]] inteiro feito de Coca Cola, mas decide que vai brigar contra o Sam usando uma faca e imitando a luta do final de [[Metal Gear Solid 4]], ou seja, o cara superpoderoso caiu no soco.
+* '''[[Mads Mikkelsen|Clifford Unger]]''' - A figura misteriosa que surge a todo mundo fazendo pose, bicos e gestinhos com as mãos, esse cara é tipo um wannabe de militar. Por isso, morreu fuzilado por seguranças de um hospital quando tentou sequestrar o próprio filho de dentro de um aquário. Depois de morto, a sua alma voltou do inferno para infernizar o protagonista com 3 capítulos de sequências de ação e tiroteio que o Kojima realmente não sabe fazer o gameplay. E no final de tudo ele simplesmente era o pai do Sam.
+
+== Recepção ==
+
+Death Stranding seria um jogo no mínimo odiado e esquecível, mas como o jogo foi feito pelo lendário [[Hideo Kojima]], então esse jogo automaticamente se tornou uma lendária obra-prima 10/10 - Kojima, aliás, fez questão de escrever o nome dele em toda parte para relembrar a todos que foi ele quem fez aquele jogo. A legião de fanboys do Kojima nem quis saber de que esse jogo consiste em 30 horas de caminhada e 10 horas de cutscene, Death Stranding foi abraçado e aceito por esses fanboys como "um game incrível e genial, e quem não gostou é porque não teve a capacidade cognitiva o suficiente para compreender a magnificência dessa obra-prima de arte áudio-visual interativa". Você, um hater do Deus Kojima, não entenderia, esse jogo vai mundo além da compreensão limitada de um latino-americano médio que só gosta de [[FIFA (série de jogos)|FIFA]] e [[Call of Duty]]. Ao andar por 3 horas e assim admirar as inúmeras paisagens do jogo, você precisa ter o senso artístico e estético refinado para apreciar o horizonte milimetricamente pensado para te fazer sentir inúmeros tipos de emoções, uma experiência gamer que precisa ser degustada com um [[Cabernet Sauvignon]]. Cada pedra nesse jogo tem um propósito, uma história, cada pedra foi posicionada pelo Kojima em pessoa e tem uma explicação.
+
+Mas na prática... o jogo fracassou. Em 2019 o que ditava o sucesso de um jogo era se ele virava "[[modinha]]" na internet ou não, e para isso acontecer era necessário que diversos [[youtuber]]s jogassem Death Strading até o final. Mas com vídeos com 10 visualizações, porque ninguém aguentava ficar ali vendo um boneco andar por 3 horas, nenhum youtuber se engajou em jogar esse troço até o fim, aí Death Stranding nunca se tornou modinha.
+
+{{Ação-aventura}}
+
+[[Categoria:Jogos da Kojima Productions]]
+[[Categoria:Jogos da Sony Interactive Entertainment]]
+[[Categoria:Jogos para PC]]
+[[Categoria:Jogos para PlayStation 4]]
+[[Categoria:Jogos para PlayStation 5]]
+[[Categoria:Jogos lançados em 2019]]
+
+[[es:Death Stranding]]

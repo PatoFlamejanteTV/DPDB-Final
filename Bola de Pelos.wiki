@@ -1,0 +1,40 @@
+{{animal}}
+
+{{Box Animal
+ |nomecientifico    = Bolis di Pelus
+ |outrosnomes       = Puffle
+ |imagem            = Bola de Pelos.png
+ |legenda           = Esse branquelo tem estilo!
+ |origem            = {{MEX}}
+ |perigoextincao    = {{000}} '''Baixo'''
+ |ameaca            = {{099}} '''Alto''' 
+ |alimentacao       = Cocô de pombo
+ |doencas           = Aids
+ |habitat           = Vila do Chaves
+ |sexualidade       = Indefinida
+ }}
+
+O '''Bola de Pelos''' é um animal muito raro encontrado somente na [[Vila do Chaves]].
+
+==Lenda==
+Diz a lenda que essa criatura nasceu quando o [[Seu Madruga]] fez sexo com a [[Bruxa Do 71]] (conta outra), então nasceu uma bola peluda branca e feia.
+Outra lenda diz que essa criatura é uma bola de pelo do gato do demônio, quando 5 dessas ficarem juntas o Chaves vai perder a virgindade.
+
+==Pacto==
+Em 5/5/5555 a.c. uma bola de pelos fez um pacto com o [[demônio]], [[Chaves]] nasceu desse pacto.
+
+==Espécies==
+Existem 3 tipos de bolas de pelos:
+
+* Trepada: É a espécie mais safada das 3, diz a lenda que uma dessa espécie trepou com o [[Lula Molusco]].
+* Branca: É a mais quieta das 3.
+* Tagarela: É a que mais fala das 3, ela fala tanto que [[Doutor Roberto]] não consegue falar mais.
+
+==[[Segunda Guerra Mundial]]==
+Acredita-se que 5000 bolas de pelos tenham lutado na Segunda Guerra, dizem que uma delas matou [[Adolf Hitler|Adolfinho]], mas não temos provas de que isso realmente aconteceu.
+
+
+== Ver também ==
+*[[Tony Ramos]]
+
+{{chaves}}

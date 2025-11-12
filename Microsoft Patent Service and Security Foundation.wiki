@@ -1,0 +1,67 @@
+''Este artigo é sobre uma empresa de patentes. Se você procurava por outra atividade da '''Microsoft''', veja [[Microsoft (Desambiguação)]]''
+----
+{{Microsoft}}
+{{OrgCriminosa}}
+
+''Aviso: Este artigo é melhor visualizado com o <s>[[Microsoft Internet Explorer]]</s> [[Mozilla Firefox]].''
+----
+{{C|All your Software are belong to us.|Microsoft|Software Livre}}
+{{C|Na [[União Soviética]], BlueJ patenteia a Microsoft!|[[Reversal Russa]]|Microsoft}}
+
+'''Microsoft <s>Plagiarism</s> Patent Service and Security Foundation''' (MPS&SF, ou, ainda MP§F, ou mais comum, MP$F) é a empresa de de Tecnologia que mais registrou patentes em 2007. Ela foi fundada para atender aos princípios da [[Microsoft]]: todo software deve ter um dono e "um" antes de dono ''não'' é artigo. 
+
+Além de registrar produtos desenvolvidos pela [[Grupo Microsoft|Microsoft (Empresa de Software)]] a MP$F destaca-se por utilizar métodos de software aberto em seus programas, admitir que usou e depois patentear como se fosse dela.
+[[Arquivo:Pactoooooaaa.jpg|thumb|right|195px|Uma pessoa fazendo patente com a [[Microsoft]]]]
+
+==Princípios e métodos==
+Os princípios da MP$F são bastante simples: todo software tem que ser propriedade de alguém que deve cobrar por isso, e, de preferência, que seja a Microsoft. Como os esforços para cobrar pelo Software livre estavam sendo medíocres, ela entendeu que competia a ela fazer isso. 
+
+Para isso, a MP$F se empenha em patentear soluções inovodoras e exclusivas da Microsoft, como o duplo clique.
+
+A MP$F pretende pretende cobrar ''royalties'' dos desenvolvedores e usuários de Linux, assim que conseguir uma lista com todos eles.
+
+==Patentes infringidas pelo Linux==
+
+O Linux viola 27.546.876 patentes da Microsoft. Entretanto, quais patentes são não pode ser revelado por se tratar de <s>mero boato</s> segredo confidencial da empresa.
+Aí vão as infringências mais prováveis
+* Linux '''trava''' com aplicações do Windows executadas via [[Wine]]. O travamento é patenteado pela Microsoft.
+* O Desktop 3D '''ocupa muito espaço da memória''', o que infringe uma patente.
+* O kernel Linux chama-se '''kernel''', que é uma palavra patenteada pela Microsoft.
+* "Janelas", um recurso usado nas interfaces gráficas Linux é uma marca registrada da Microsoft.
+* Outras 235 falhas de segurança do Linux infringem patentes da Microsoft, mas maioria pode ser evitada com uma simples atualização.
+A comunidade de colaboradores do Linux está trabalhando ativamente para eliminar qualquer <s>falha de segurança</s> recurso patenteado do Windows.
+* A Microsoft patenteou um recurso do BlueJ que eles haviam copiado, mas a informação sobre a patente vazou eles tiveram que se desculpar ([http://blogs.zdnet.com/Burnette/?p=246 em_inglês]); depois disso, patentearam o pedido de desculpas por patentear coisas copiadas dos outros e tentar processá-los por quebra de patentes.
+
+==Outros infringidores de patentes da MP$F==
+
+* As empreiteiras, por que usam "janelas" nas construções.
+* Todos os dicionários de inglês e qualquer gramática da língua inglesa, por conter a palavra "[[Microsoft Word|word]]".
+* Os [[SAC|serviços de atendimento ao consumidor]], por usarem o mesmo método para confundir e irritar o cliente que a página de suporte da Microsoft.
+* A [[Apple]], por que agora [[Macintosh]] pega [[Windows|vírus]].
+* [[IBM]], porque é a segunda colocada em número de patentes e uma forte concorrente da Microsoft.
+
+==Patentes pendentes==
+
+Esta é uma lista de recursos que Microsoft pretende ou ainda não conseguiu patentear:
+* Desktop 3D, com cubo da área de trabalho.
+* Logotipo (não um logotipo específico, mas a ideia de usar logotipos).
+* Os códigos de edição Wiki.
+* Os símbolos ™ e ®.
+* [[Celular]]es travados.
+* Estratégias de monopólio.
+* A cor azul
+* (Ponha sua ideia aqui)
+Alguns executivos estão considerando liberar o código de alguma coisa inútil para então patentear o [[Software Livre|código aberto]].
+
+==Ver também==
+*[[Microsoftianismo]]
+*[[Microsoft Google]]
+*[[Grupo Microsoft]]
+
+
+{{Forças}}
+{{Cotação de Ação}}
+
+[[Categoria:Dominação mundial]]
+[[Categoria:Informática]]
+[[Categoria:Microsoft]]

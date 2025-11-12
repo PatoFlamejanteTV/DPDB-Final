@@ -1,0 +1,27 @@
+[[Arquivo:666sys.jpg|thumb|A pior [[Tela Vermelha da Morte]]. Sim, você achava que só tinha [[Tela Azul da Morte]]?]]
+
+'''{{cor|darkred|666.sys}}''' é um [[ransomware]] criado por um tal de HobbyChip. É um [[vírus de computador]] bem curioso, já que ele é capaz de literalmente... deixar seu computador [[possessão demoníaca|possuído]] pelo [[capeta]]. É sério...
+
+Parece até uma [[fanfic]], uma [[creepypasta]], mas se você decidir instalar esse bichinho no seu computador...
+
+== O que esta merda faz? ==
+
+Basicamente o 666.sys faz exatamente igual ao [[Config.sys]] dentro do [[Windows]], só que, invés de configurar corretamente o funcionamento da porra toda, o 666.sys consegue configurar também, mas de um jeito bem único...
+
+Basicamente o bagulho começa a transformar o Windows no '''[[Windows XP]] Horror Edition''' ou '''Windows 666 Update''', e aí seu PC durante a instalação já vai começar a apresentar umas coisas estranhas, quando chegar a [[666|66%]] a instalação vai travar, e do nada, após informar que o programa ntdll.[[dll]] não pode ser aberto por - por não ter o pacote de dll, lógico, no lugar metem o 666.sys - vai mudar pra um instalador [[Iluminatti]] informando para não olhar pra trás nunca.
+[[Arquivo:666sysinstall.jpg|thumb|center|400px|E foi nesse momento em que ele percebeu: ele fodeu tudo!]]
+E daí pra frente é só pra trás: eles mudam teu tema do computador todo para [[caveira]]s, desaparecem com diversos arquivos, colocam uns vídeos malassombrados bem desgraçados mesmo, além de ficar brincando com um monte de momentos com [[jumpscare]] literalmente por porra nenhuma, e quando você tenta sair ou abrir o "Meu Computador", começa a dar avisos que "seu computador será deletado para sempre", e por fim metem um jumpscare final pior que o do [[Sonic.EXE]]/[[An Ordinary Sonic]] e aí, tela vermelha da morte, sucata e vá comprar um PC novo!
+
+Ah, e nem tente reiniciar o computador no grosso modo, ele estará te vendo sempre (mas o Windows mesmo, cê não verá nunca mais, bye bye!)
+
+== Outros vírus de destruir computador, clique e boa sorte! ==
+
+*[[CIH_Killer]]
+*[[Win9x.Smash]]
+*[[NoEscape.exe]]
+*[[MEMZ]]
+
+{{Vírus}}
+{{Windows}}
+
+[[Categoria:Possuídos pelo demônio]]

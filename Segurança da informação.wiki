@@ -1,0 +1,37 @@
+{{computeiro}}
+[[Arquivo:Mulher Feia Fábrica de Atores.jpg|thumb|260px|Foco de infecções.]]
+'''Segurança da informação''' é um ramo da tecnologia de informação que cuida da pior falha, conhecida como [[noob]]. O noob é o ponto central da segurança de informação, e é o motivo para a criação de tecnologias e estudos de segurança. A segurança de informação a área mais divertida da tecnologia de informação, embora também seja a área com maior número de desemprego ou informalidade dentre as áreas, na qual os especialistas que não trabalham na área precisam realizar outros serviços como instalação de antivírus, formatação, venda de brigadeiros pelo internet, e outras coisas. Praticamente todas as demais áreas precisam da segurança de informação pra alguma coisa, até o puto que mexe só com a [[impressora]] ou o imbecil que só serve pra fazer o [[café]] necessitam estar ligados com a segurança.
+
+==Ativos de segurança==
+[[Arquivo:Computador fodido.jpg|thumb|260px|A segurança da informação só não evita a burrice humana.]]
+Ativos de segurança são os componentes que metem a vara em prol da segurança, enquanto o passivo é você, usuário. Dentre os ativos, destacam-se o ''firewall'' e a [[camisinha]] de rede. A camisinha de rede protege fisicamente os equipamentos, bastando colocar uma camisinha em cada ponto de rede pra evitar a contaminação. ''Firewall'' é um negócio famoso que tenta proteger a rede controlando o tráfego, como um guarda de trânsito, mas sempre vai ter um motoqueiro que consegue furar esse bloqueio.
+
+O ''firewall'' é dividido em três arquiteturas:
+
+*'''Dual-homed host:''' apesar do nome sugerir aos leigos que é algo com [[PlayStation|<span title="Dualshock, o controle do PlayStation">dual alguma coisa]], ou seja, algo forte, na verdade é a arquitetura mais merda do ''firewall', e também não tem nada de dual, é só uma barreira, se quebrá-la, acaba com a rede.
+
+*'''Screened host:''' essa rede possui um [[WTF|Sebastião Host]] ou um proxy pra proteger um pouco mais que o Dual, mas também é fraco, não tem nada se dual, nem de screen!
+
+*'''Screened subnet:''' já coloca umas proteções a mais na segurança externa, cria uma rede desmilitarizada e etc, mas também não protege o suficiente. Então na verdade não adianta muito ter ''firewall'' pois a invasão é iminente.
+
+Um ''proxy'' é um tipo de ''firewall'', que serve como uma mãe, evitando que os usuários acessem putaria no trabalho. Pior é que alguns ''proxies'' ainda criam logs de acessos e tentativas, e aparece para o administrador da rede que {{USERNAME}}, por exemplo, tentou acessar a página pirocasgigantes.net, e fala pra todo mundo. Há o ativo de segurança chamado "Sebastião Host", para empresas que fornecem algum serviço para usuários e possui umas regras mais frouxas, mais fáceis de invadir, já que ficam situadas nas zonas desmilitarizadas. Essas zonas desmilitarizadas, chamadas de DMZ, são uma parte insegura da rede, mas ficam isoladas, prontas para serem arrombadas a qualquer hora. Por último, e talvez menos importante, existe o detector de intrusos (IDS), que é o [[Desciclopédia:CheckUser|CheckUser]] de invasores. Ele só detecta o invasor, mas não faz nada. Aí precisa de um IPS, o sysop que bloqueia o invasor.
+
+==VPN==
+[[Arquivo:Camisinha internet.jpg|thumb|280px|left|Camisinha de rede. Dada a idade da imagem, precisaria de um milagre pra alguém invadir uma rede discada.]]
+Antes do bloqueio do [[Whatsapp]], os brasileiros médios nem sabiam o que porra era uma VPN, mas depois do bloqueio, quase viravam ''hacker'' só pra poder manter a conversinha em dia. Se uma rede social fosse bloqueada por dia, os brasileiros virariam verdadeiros profissionais de TI. Mas o que é a VPN, que fez essa raça brasileira estudar um pouco? Numa tradução descíclope, pode-se dizer que as VPNs são uns canos virtuais, pra levar informações de um ponto a outro, e possuem alguma segurança pois possuem criptografia.
+
+==Criptografia==
+[[Arquivo:Nerd tetudo cueca.jpg|thumb|260px|A salvação dos problemas: o profissional de segurança]]
+A criptografia, do grego ''Krypto graphos'', que significa grafia criptografada, é a arte de embaralhar informações e depois desembaralhar, para evitar que filhos da puta leiam tal informação. Uma frase comum, por exemplo, "tua mãe é uma baita putona", se fosse criptografada com um algoritmo simples, ficaria "tua digníssima mãe é também uma sincera baita putona mesmo", o que confundiria quem interceptasse a mensagem. A criptografia usa algoritmos de embaralhamento, mas quanto mais bits tiver esse algoritmo, mais embaralhada ficará a mensagem. Usando um ''hash'' de 666bits, a frase "tua mãe" pode virar algo do tipo "jsfds7 e87 3y8ty4 sdrlkj dusj", bem mais difícil de entender se for interceptada.
+
+== Engenharia social ==
+
+É a arte de enganar os trouxas, para que estes passem as informações desejadas. Tem imbecil que usa como pergunta secreta de e-mail algo do tipo "qual o time que eu torço", então basta criar uma conversa com um trouxão desses, falar de futebol, e roubar a conta. Isso é a engenharia social. Não é tão simples assim, mas pra você tá bom demais.
+
+== Ver também ==
+
+* [[Criptografia]]
+* [[Engenharia social]]
+* [[Ads pornográfico]]
+
+[[Categoria:Segurança da informação|*]]

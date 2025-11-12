@@ -1,0 +1,33 @@
+{{Ave}}
+
+{{taxocaixa
+| nome           = Tôfracos
+| cor            = #FFEBCD
+| imagem         = Galinhas d'angola.jpg
+| imagem_legenda = Um grupo de numidídeos realizando um ritual místico com uma indefesa [[serpente]] 
+| reino          = [[Animalia]]
+| filo           = [[Chordata|Acordados]]
+| classe         = [[Aves|Voadores]]
+| ordem          = [[Galliformes|Frangolinos]]
+| família        = [[Numididae|Tôfracos]]
+}}
+
+'''Numididae''' é uma família de [[galináceos]] que reúne todas galinhas-pintadinha e galinhas-d'angola. Biologicamente são um grupo de aves que sofrem de fadiga crônica, pois andam poucos metros e já estão reclamando "tô fraco, tô fraco, tô fraco". Estas aves são comestíveis e muito apetitosas, elas sabem disso, e por isso nem perdem tempo se adaptando para defenderem-se de possíveis predadores, já são todos contentados com seu terrível destino de serem devorados, o que explica serem todos assim tão deprimidos e cheios de cansaço mental.
+
+== Anatomia ==
+
+Os numidídeos são as únicas [[aves]] da face da Terra que não possuem asas, possuindo apenas as duas patas traseiras bípedes. Estes animais possuem apenas um conjunto de doze penas grossas e grandonas recobrindo seu corpo, os que os torna fáceis de depenar. A cara lembra a de qualquer frango e o bico curto serve para a ave se alimentar de restos triturados de lixo, e também minhocas que tem o mesmo valor nutricional.
+
+== Habitat ==
+
+São nativos da [[África]], mais especificamente a [[Angola]], e por lá ficariam, pois os pontinhos brancos em seus corpos são feitos de ácido espérmico, um agente extremamente corrosivo que afasta os outros animais. Porém no ano de 1965, um grupo de aventureiros tangamandapianos chegou na África e levaram vários numidídeos para [[Tangamandápio]] onde criaram o maior criadouro de galhinhas-d'angola do mundo fora do ambiente natural.
+
+== Gêneros ==
+
+* '''[[Agelastes]]''' - pintadas-de-peito-branco e pintadas-pretas
+* '''[[Numida]]''' - galinha-d'angola
+* '''[[Guttera]]''' - pintadas-plumíferas e fracas-cristata
+* '''[[Acryllium]]''' - pintada-vulturina
+
+[[Categoria:Galliformes]]
+[[Categoria:Numididae|*]]

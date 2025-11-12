@@ -1,0 +1,66 @@
+{{Anti-herói}}
+{{Meio do Mato}}
+
+{| class="toccolours" style="float: right; clear: right; margin: 0 0 1em 1em; width: 22em;"
+|-
+!style="text-align:center; {{{comic_color}}}"|<big>'''''Xamã'''''</big>
+|-
+|style="text-align: center; font-size: 90%;"|
+|-
+|[[Arquivo:Xamã e transformações.png|center|220px]]
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+|- style="vertical-align: top;"
+|'''''Nome Real'''''||''Upiara''
+|- style="vertical-align: top;"
+|'''''Cidade'''''||''Não tem, ele vivia em uma tribo indígena''
+|}
+|-
+|
+----
+{| style="background: none; width: 22em; margin: 0 auto;"
+|-
+!colspan="2" style="text-align:center;{{{alliance_color}}}"|Características
+|- style="vertical-align: top;"
+|'''''Inteligência'''''||''{{033}}''
+|- class="hiddenStructure{{{alliances}}}" style="vertical-align: top;"
+|'''''Afiliações'''''||''Já apareceu em alguns grupos de heróis BR''
+|- class="hiddenStructure{{{relatives}}}" style="vertical-align: top;"
+|'''''Parentes'''''||''[[Sei lá]]''
+|- class="hiddenStructure{{{enemies}}}" style="vertical-align: top;"
+|'''''Inimigos'''''||''Qualquer otário que queira prejudicar as florestas''
+|- style="vertical-align: top;"
+|'''''Poderes'''''||''Ele pode se transformar em seres do Folclore brasileiro''
+|}
+|}
+
+{{Você quis dizer|[[Ben 10]] versão indigena}}
+{{C|Um poderoso aliado, enfrentamos a equipe do Capitão 7|O Judoka|{{PAGENAME}}}}
+{{C|Esse indígena é apelão!|Capitão 7|{{PAGENAME}}}}
+{{C|Que é esse indígena que conheceu meu amigo Capitão 7?|Capitão R.E.D|{{PAGENAME}}}}
+{{C|Pode ter o poder do folclore, mas eu tenho a Lança de Tupã|Jaguara|{{PAGENAME}}}}
+{{C|Geralmente quero dar para os heróis, mas esse não|Velta|{{PAGENAME}}}}
+
+[[Arquivo:Xamã sprite.gif|90px|left]]
+'''Xamã''' é um desses diversos personagens de quadrinhos brasileiro, no caso, ele vive aparecendo em gibis do gênero de super-herói (apesar dele ser um anti-herói) no qual tem e aparecem uma infinidade de personagens.
+
+Vale citar também que o Xamã, apesar de ser indígena, é o primeiro e único personagem brasileiro que tem o superpoder de "se transformar em criaturas do nosso folclore". Sério, só tem o Xamã que faz, porque nem no seriado [[Cidade Invisível]] feito pela [[Netflix]] apareceu alguém com essa habilidade apelona. Por fim, valorize os [[Bangá]]s do Xamã.
+
+==História==
+
+Tudo que sabemos sobre o Upiara é que ele é um indígena com mais de 500 anos de idade, pois nasceu dês da época do [[Descobrimento do Brasil]]. Ele pertencia a uma mesma tribo que um ex-amigo indígena chamado Moacir, no qual viviam juntos dos [[Tupiniquins]], mas por ironia do destino eles viraram arqui-inimigos, Upiara se tornou o Xamã e o Moacir o famoso [[Saci Pererê]] (sem papo, o cara virou uma lenda afro-brasileira!). 
+
+Enfim, o Xamã nada mais é do que um dos indivíduos em seus quadrinhos conhecidos como '''Catalisadores''' (ou '''Receptaculos'''), no qual eles conseguem interagir com o mundo material e o espiritual. É graças a isso que o faz com que o Xamã não envelheça, se transforme nas criaturas folclóricas e ainda poça tomar aquela cachacinha e não manter aquela barriguinha de chopp (brincadeira, esse superpoder o Xamã ainda não tem).
+
+Em sua história ele só é considerado um anti-herói porque ele mata os caçadores e contrabandistas de animais sempre que eles tentam prejudicar as matas e a natureza, como o [[Leonardo DiCaprio]] que adoram tacar fogo na [[Floresta Amazônica]]. Aliais, o Xamã já trabalha já a tanto tempo a pedido da deusa [[Gaia (mitologia)|Gaia]] que ele sofre constantemente de perda de memoria, motivo esse que faz com que ele não lembro do seu passado e de onde veio.
+
+==Técnicas e Poderes==
+Como já foi falado aqui, o Xamã tem poderes de metamorfose do corpo, só que ele só consegue se transformar em criaturas folclóricas brasileiras. Como por exemplo a cobra de fogo [[Boitatá]] (sim, apesar do nome, não é um boi), a [[Iara]], o [[Curupira]] e até mesmo a [[Mula Sem Cabeça]]. Enfim, só o Saci Pererê que não está incluído na lista porque só o fudido do vilão Moacir ganhou essa transformação.  
+
+==Ver também==
+*[[Folclore]]
+*[[Jaguara]]
+
+{{Quadrinhos}}
+[[categoria:personagens fictícios do Brasil]]
+[[Categoria:Xamãs]]
