@@ -1,6 +1,0 @@
-[[Categoria:Ciência]]
-[[Categoria:Ciência da computação]]
-
-[[Arquivo:Macgyver.jpg|thumb|right|100px|O [[programador]].]]
-
-'''Método MacGyver''' é um avançado método de criação de sistemas no qual o [[programador]] ou, preferencialmente, o [[gambiarrizador]], de posse de recursos e informações limitadas, consegue desenvolver um complexo sistema por completo e em questão de horas. O método recebe este nome pois, fazendo-se um comparativo com o mundo cotidiano, é equivalente a pegar um sabonete, um clipes e um chiclete e com estes ingredientes construir uma bomba atômica, metodologia de construção exaustivamente utilizada por [[MacGyver]]. Sua principal característica é a de ser infalível, não importando as condições e o tempo disponível. [[MacGyver]] e o Método MacGyver são indispensáveis em qualquer projeto que utiliza a [[Programação Orientada a Gambiarras]].

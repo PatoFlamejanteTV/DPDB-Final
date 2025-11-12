@@ -1,9 +1,0 @@
-{{desambig}}
-
-Escolha seu {{PAGENAME}} favorito
-
-*'''[[Tom Kristensen (piloto)|O piloto FDP supremo Le Mans]]''';
-*'''[[Tom Kristensen (poeta)|O Poeta]]''';
-*'''[[Tom Kristensen (escritor)|O escritor]]'''.
-
-Ou você veio da [[Especial:Aleatória|Aleatória]] sem querer saber de {{PAGENAME}}?

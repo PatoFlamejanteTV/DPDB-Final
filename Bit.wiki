@@ -1,6 +1,0 @@
-{{desambiguação}}
-
-'''Bit''' pode ser ([[ou não]]) uma das seguintes coisas:
-*[[Bit (unidade)|Bit]] - Unidade fundamental no processamento de dados em seu [[computador]].
-*[[Bit Company]] - Escola de informática que oportunisticamente escolheu o termo para sua logomarca.
-*[[Bit.ly]] - Encurtador infernal de mensagens no [[Twitter]], sendo por isso uma das maiores portas de entrada para [[trojan]]s e [[vírus]].
